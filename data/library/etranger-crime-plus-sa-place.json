@@ -1,0 +1,133 @@
+{
+  "id": "etranger-crime-plus-sa-place",
+  "type": "reponse_critique",
+  "affirmation": "Un étranger qui commet un crime n'a plus sa place en France.",
+  "volet": "immigration",
+  "sous_theme": "Expulsion des étrangers condamnés",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "commet un crime",
+    "plus sa place",
+    "garder en france",
+    "pourquoi garder",
+    "criminel étranger",
+    "crime",
+    "commis un crime",
+    "expulser",
+    "victimes"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "C'est un jugement moral, que le droit reprend en partie : pour un crime, le juge peut prononcer une interdiction du territoire et le préfet peut expulser une personne menaçante. Depuis 2024, même les étrangers très attachés à la France perdent leur protection pour les condamnations graves. La peine est d'abord purgée en France.",
+  "contexte": "Un crime, au sens juridique, est l'infraction la plus grave (meurtre, viol, vol à main armée…), jugée par une cour d'assises ou une cour criminelle. Le langage courant appelle souvent « crime » des délits.",
+  "explication": "La réponse pénale (le procès et la peine) et l'éloignement (l'expulsion ou l'interdiction du territoire) sont deux choses distinctes. La première sanctionne et protège la société ; la seconde décide si la personne peut rester sur le territoire après. Les deux peuvent se cumuler.",
+  "faits": [
+    {
+      "fait": "Le juge peut prononcer une interdiction du territoire contre tout étranger coupable d'un crime ou d'un délit ; elle entraîne la reconduite à la frontière à l'expiration de la peine de prison.",
+      "periode": "Droit en vigueur",
+      "perimetre": "Code pénal, article 131-30",
+      "explication": "La peine de prison est purgée, puis l'éloignement intervient.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les étrangers les plus protégés (arrivés avant 13 ans, résidents de plus de vingt ans…) peuvent être expulsés en cas de condamnation définitive pour des faits punis d'au moins cinq ans (trois en récidive), depuis la loi du 26 janvier 2024.",
+      "periode": "Depuis 2024",
+      "perimetre": "CESEDA, article L. 631-3",
+      "explication": "Pour les crimes, la protection n'empêche plus l'expulsion.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La CEDH admet l'expulsion d'un étranger installé condamné pour homicide, en jugeant la mesure proportionnée à la gravité des faits.",
+      "periode": "18 octobre 2006",
+      "perimetre": "CEDH, Üner c. Pays-Bas",
+      "explication": "Le droit européen n'interdit pas d'expulser des criminels ; il exige un examen individuel.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 9 juin 2026, le Conseil d'État a rendu trois décisions illustrant le contrôle de proportionnalité entre vie familiale et protection de l'ordre public dans l'expulsion d'étrangers protégés.",
+      "periode": "9 juin 2026",
+      "perimetre": "Conseil d'État, n° 506729, 504383, 505954",
+      "explication": "Le juge vérifie, au cas par cas, l'équilibre entre ces deux exigences.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Pour un crime, la loi permet déjà d'interdire le territoire ou d'expulser, même les étrangers très attachés à la France depuis 2024. Le juge examine chaque cas, et la peine est d'abord purgée ici.",
+    "moyen": "Sur le fond, beaucoup de gens sont d'accord, et la loi va déjà dans ce sens. Pour un crime, le juge peut ajouter une interdiction du territoire à la peine de prison : la personne est renvoyée à la fin de sa peine. Depuis 2024, même ceux qui sont arrivés enfants ou vivent ici depuis vingt ans peuvent être expulsés après une condamnation grave. Ce qui reste, c'est un examen au cas par cas, exigé par la Cour européenne des droits de l'homme, qui a d'ailleurs validé l'expulsion d'un homme condamné pour homicide.",
+    "detaille": "La phrase exprime une exigence de justice que le droit français reprend largement.\n\nD'abord, la sanction : un étranger qui commet un crime est jugé et condamné comme n'importe qui ; il purge sa peine en France. Ensuite, l'éloignement : le juge peut prononcer une interdiction du territoire français, définitive ou jusqu'à dix ans, qui entraîne la reconduite à la frontière à la fin de la peine. L'administration peut aussi prendre un arrêté d'expulsion si la présence de la personne constitue une menace grave.\n\nLes protections existent pour les personnes qui ont toute leur vie en France (arrivées avant 13 ans, résidentes depuis plus de vingt ans, parents d'enfants français). Depuis la loi du 26 janvier 2024, elles sont levées en cas de condamnation pour des faits punis d'au moins cinq ans (trois en récidive) : c'est le cas des crimes.\n\nCe qui demeure, c'est l'examen individuel. La Cour européenne des droits de l'homme ne protège pas les criminels contre l'expulsion : elle demande qu'on mette en balance la gravité des faits, la durée du séjour et la famille. Dans l'affaire Üner, elle a validé l'expulsion d'un homme condamné pour homicide. En 2026 encore, le Conseil d'État a rappelé ce contrôle de proportionnalité.\n\nLa vraie difficulté est souvent ailleurs : certains pays refusent ou retardent le retour de leurs ressortissants. Une décision d'éloignement n'est utile que si elle est exécutable.",
+    "empathie": "Je partage l'idée qu'un crime grave doit avoir des conséquences lourdes, et les victimes ont droit à cette fermeté. La loi le permet déjà, y compris pour des gens installés depuis longtemps. Ce qu'on peut discuter, c'est comment rendre ces décisions vraiment applicables."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Et s'il est arrivé bébé en France ?",
+      "reponse": "C'est justement le cas où la loi protégeait le plus. Depuis 2024, cette protection tombe pour les condamnations graves ; reste un examen individuel, car la personne n'a parfois aucun lien avec le pays de sa nationalité."
+    },
+    {
+      "objection": "Pourquoi garder en France quelqu'un qui a commis un crime ?",
+      "reponse": "On ne le garde pas forcément : il purge sa peine, puis il peut être interdit du territoire ou expulsé. Quand il reste, c'est souvent parce que son pays refuse de le reprendre, ou parce qu'un juge a estimé, au cas par cas, que ses attaches l'emportaient."
+    }
+  ],
+  "questions": [
+    "Pour toi, la peine de prison doit-elle être purgée avant le renvoi, ou à la place ?",
+    "Que faire si le pays d'origine refuse de reprendre la personne ?"
+  ],
+  "limites": [
+    "Le commentaire des décisions du Conseil d'État de 2026 est une source secondaire.",
+    "Vérifier la version en vigueur du CESEDA sur Légifrance."
+  ],
+  "sources": [
+    {
+      "titre": "Code pénal, article 131-30 (interdiction du territoire français) — reproduction du texte en vigueur",
+      "organisme": "Légifrance (texte reproduit par TheTradeHub)",
+      "date_publication": "Version en vigueur consultée le 30 octobre 2026",
+      "url": "https://www.thetradehub.eu/fr/reglementation/france/legislation/cibs/code-penal-art-131-30",
+      "passage": "« La peine d'interdiction du territoire français peut être prononcée, dans les conditions prévues par la loi, à titre définitif ou pour une durée de dix ans au plus, à l'encontre de tout étranger coupable d'un crime ou d'un délit. » Elle « entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement ou de réclusion ».",
+      "pertinence": "Texte de loi (peine prononcée par un juge pénal).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi visant à assouplir les conditions d'expulsion des étrangers constituant une menace grave pour l'ordre public (n° 265) — rapport d'étape de la commission des lois (rapporteure : Edwige Diaz)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "23 octobre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/863769/file/PPL%20265%20-%20EAT.pdf",
+      "passage": "Droit en vigueur (CESEDA, après la loi n° 2024-42 du 26 janvier 2024) : L. 631-1, expulsion possible si la présence constitue une menace grave pour l'ordre public — une condamnation ne suffit pas à elle seule ; L. 631-2, protection relative (parents d'enfant français, conjoints de Français depuis trois ans, résidents réguliers depuis plus de dix ans…) levée notamment en cas de condamnation définitive pour un crime ou délit puni d'au moins trois ans ; L. 631-3, protection quasi absolue (arrivés avant 13 ans, résidents de plus de vingt ans…) levée en cas de condamnation définitive pour des faits punis d'au moins cinq ans (trois en récidive) ; L. 631-4, mineurs : protection absolue. Contrôle de proportionnalité au regard de l'article 8 de la Convention européenne des droits de l'homme. Dispositions de 2024 jugées conformes par le Conseil constitutionnel (décision n° 2023-863 DC du 25 janvier 2024). 2022 : 341 mesures d'expulsion prononcées, 167 exécutées ; 2023 : 58 arrêtés ministériels d'expulsion, exécutés à 63 %.",
+      "pertinence": "Document parlementaire décrivant le droit en vigueur ; le texte soutient une proposition de durcissement, ce qui n'affecte pas la description du droit.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Üner c. Pays-Bas (Cour européenne des droits de l'homme, Grande Chambre) — fiche de jurisprudence",
+      "organisme": "Inimõiguste Keskus (résumé de l'arrêt CEDH du 18 octobre 2006)",
+      "date_publication": "Arrêt du 18 octobre 2006",
+      "url": "https://www.inimoigustegiid.ee/en/case-law/uener-v-the-netherlands",
+      "passage": "Critères pour l'expulsion d'un étranger installé et condamné : gravité de l'infraction, durée du séjour, vie familiale (notamment avec les enfants), intérêt et capacité d'adaptation des enfants, liens avec le pays d'origine. Conclusion : pas de violation de l'article 8 ; la mesure était proportionnée à une condamnation pour homicide.",
+      "pertinence": "Jurisprudence européenne fixant les critères de proportionnalité.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Expulsion des étrangers protégés : trois décisions du Conseil d'État du 9 juin 2026 sur le contrôle de proportionnalité",
+      "organisme": "Cabinet Kohen Avocats (commentaire)",
+      "date_publication": "2026",
+      "url": "https://kohenavocats.com/tr/trilogie-conseil-etat-9-juin-2026-expulsion-etrangers-proportionnalite/",
+      "passage": "Conseil d'État, 9 juin 2026, n° 506729, n° 504383 et n° 505954 (à publier au Recueil) : trois illustrations du contrôle de proportionnalité entre l'atteinte à la vie familiale et la protection de l'ordre public. L. 631-3 : expulsion des étrangers les plus protégés en cas de comportements portant atteinte aux intérêts fondamentaux de l'État, liés au terrorisme ou de provocation explicite à la haine ou à la violence.",
+      "pertinence": "Commentaire d'avocat de décisions récentes ; à lire comme une source secondaire.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Législation et jurisprudence en évolution.",
+  "objections_legitimes": [
+    "Pour un crime grave, l'éloignement après la peine est une demande largement partagée et juridiquement possible."
+  ]
+}

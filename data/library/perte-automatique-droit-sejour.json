@@ -1,0 +1,134 @@
+{
+  "id": "perte-automatique-droit-sejour",
+  "type": "reponse_critique",
+  "affirmation": "Une personne étrangère condamnée devrait automatiquement perdre son droit de séjour.",
+  "volet": "immigration",
+  "sous_theme": "Expulsion des étrangers condamnés",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "automatiquement",
+    "automatique",
+    "perdre son droit de séjour",
+    "titre de séjour",
+    "retrait",
+    "condamnée",
+    "proportionnalité",
+    "examen individuel",
+    "carte de séjour"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le droit français et européen exige un examen individuel avant d'éloigner un étranger installé : gravité des faits, durée du séjour, famille, enfants. Un retrait automatique, sans cet examen, se heurterait à la jurisprudence de la CEDH et au contrôle du Conseil d'État. Depuis 2024, les protections sont toutefois levées pour les condamnations graves.",
+  "contexte": "L'automatisme est séduisant parce qu'il paraît simple et ferme. Le droit privilégie l'examen au cas par cas, pour éviter de traiter de la même manière des situations très différentes.",
+  "explication": "Le contrôle de proportionnalité consiste à vérifier qu'une mesure n'est pas excessive au regard de son objectif. Il ne garantit pas que l'étranger reste : il oblige l'administration à justifier sa décision et permet au juge de vérifier l'équilibre entre ordre public et vie familiale.",
+  "faits": [
+    {
+      "fait": "La CEDH impose de mettre en balance la gravité de l'infraction, la durée du séjour, la vie familiale, l'intérêt des enfants et les liens avec le pays d'origine ; elle a jugé proportionnée l'expulsion d'un étranger condamné pour homicide.",
+      "periode": "18 octobre 2006",
+      "perimetre": "CEDH, Üner c. Pays-Bas",
+      "explication": "Un examen individuel est exigé ; il peut aboutir à l'éloignement.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Conseil d'État a rendu le 9 juin 2026 trois décisions illustrant ce contrôle de proportionnalité dans l'expulsion d'étrangers protégés.",
+      "periode": "9 juin 2026",
+      "perimetre": "Conseil d'État",
+      "explication": "Le juge français applique ce contrôle au cas par cas.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Depuis la loi du 26 janvier 2024, les protections contre l'expulsion sont levées en cas de condamnation définitive pour des faits punis d'au moins trois ans (protection relative) ou cinq ans (protection renforcée, trois en récidive).",
+      "periode": "Depuis 2024",
+      "perimetre": "CESEDA, articles L. 631-2 et L. 631-3",
+      "explication": "La loi a déjà rapproché condamnation grave et perte de protection, sans automatisme.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'interdiction du territoire, peine prononcée par le juge, peut être définitive ou durer dix ans au plus.",
+      "periode": "Droit en vigueur",
+      "perimetre": "Code pénal, article 131-30",
+      "explication": "Le juge peut déjà retirer le droit de rester, après examen.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le droit exige d'examiner chaque situation avant d'éloigner quelqu'un d'installé ; un retrait automatique serait contraire à la jurisprudence européenne. Mais depuis 2024, une condamnation grave fait déjà tomber les protections.",
+    "moyen": "L'idée paraît simple, mais « automatiquement » pose problème. Une amende et un viol ne peuvent pas avoir la même conséquence. Le droit européen demande qu'on regarde chaque cas : gravité des faits, durée du séjour, enfants. Ça ne protège pas les criminels : la Cour européenne a validé l'expulsion d'un homme condamné pour homicide. Et depuis 2024, en France, une condamnation grave fait tomber les protections, même pour ceux qui sont là depuis longtemps. Le juge peut aussi prononcer une interdiction du territoire. Ce qu'on refuse, c'est l'automatisme, pas la fermeté.",
+    "detaille": "La différence entre ce qui existe et ce qui est proposé tient en un mot : automatiquement.\n\nCe qui existe. Le juge pénal peut prononcer une interdiction du territoire, définitive ou de dix ans au plus. L'administration peut expulser une personne qui représente une menace grave. Depuis la loi du 26 janvier 2024, les protections liées aux attaches familiales ou à la durée du séjour sont levées pour les condamnations à des faits punis d'au moins trois ou cinq ans.\n\nCe que l'automatisme changerait. Toute condamnation, même mineure, entraînerait la perte du droit de séjour, sans examen. Or la Cour européenne des droits de l'homme exige une mise en balance de la gravité des faits, de la durée du séjour, de la vie familiale, de l'intérêt des enfants et des liens avec le pays d'origine. Elle n'interdit pas l'expulsion : elle a jugé proportionnée celle d'un étranger condamné pour homicide. Le Conseil d'État applique ce contrôle, comme l'illustrent trois décisions du 9 juin 2026.\n\nPourquoi ce contrôle ? Pour éviter d'éloigner, pour une faute mineure, une personne arrivée enfant, sans lien avec le pays de sa nationalité, ou de séparer des enfants de leur parent sans examen. Ce contrôle a un coût (des procédures plus longues) et peut être débattu ; il n'est pas une impunité.\n\nUne voie intermédiaire existe déjà : fermeté pour les condamnations graves, examen individuel pour le reste.",
+    "empathie": "Je comprends le besoin de règles claires : on a l'impression que tout se discute sans fin. Pour les faits graves, la loi est déjà devenue plus ferme. Mais traiter une petite infraction comme un crime grave, sans regarder la situation, ce serait injuste, y compris pour des enfants français."
+  },
+  "contre_arguments": [
+    {
+      "objection": "D'autres pays le font.",
+      "reponse": "Les pays membres du Conseil de l'Europe sont soumis aux mêmes exigences de la Convention européenne des droits de l'homme. Les règles précises varient, mais l'examen individuel est la norme imposée par la jurisprudence."
+    },
+    {
+      "objection": "L'examen au cas par cas, c'est une usine à recours.",
+      "reponse": "Les recours allongent les délais, c'est vrai. Mais l'obstacle principal à l'exécution, selon la Cour des comptes, reste pratique : identification et laissez-passer consulaires."
+    }
+  ],
+  "questions": [
+    "Une personne arrivée en France à deux ans, sans lien avec son pays de nationalité, doit-elle être traitée comme un délinquant de passage ?",
+    "Pour toi, où passe la limite entre une infraction qui justifie le retrait et une qui ne le justifie pas ?"
+  ],
+  "limites": [
+    "Le commentaire des décisions du Conseil d'État est une source secondaire.",
+    "Vérifier la version en vigueur du CESEDA sur Légifrance."
+  ],
+  "sources": [
+    {
+      "titre": "Üner c. Pays-Bas (Cour européenne des droits de l'homme, Grande Chambre) — fiche de jurisprudence",
+      "organisme": "Inimõiguste Keskus (résumé de l'arrêt CEDH du 18 octobre 2006)",
+      "date_publication": "Arrêt du 18 octobre 2006",
+      "url": "https://www.inimoigustegiid.ee/en/case-law/uener-v-the-netherlands",
+      "passage": "Critères pour l'expulsion d'un étranger installé et condamné : gravité de l'infraction, durée du séjour, vie familiale (notamment avec les enfants), intérêt et capacité d'adaptation des enfants, liens avec le pays d'origine. Conclusion : pas de violation de l'article 8 ; la mesure était proportionnée à une condamnation pour homicide.",
+      "pertinence": "Jurisprudence européenne fixant les critères de proportionnalité.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Expulsion des étrangers protégés : trois décisions du Conseil d'État du 9 juin 2026 sur le contrôle de proportionnalité",
+      "organisme": "Cabinet Kohen Avocats (commentaire)",
+      "date_publication": "2026",
+      "url": "https://kohenavocats.com/tr/trilogie-conseil-etat-9-juin-2026-expulsion-etrangers-proportionnalite/",
+      "passage": "Conseil d'État, 9 juin 2026, n° 506729, n° 504383 et n° 505954 (à publier au Recueil) : trois illustrations du contrôle de proportionnalité entre l'atteinte à la vie familiale et la protection de l'ordre public. L. 631-3 : expulsion des étrangers les plus protégés en cas de comportements portant atteinte aux intérêts fondamentaux de l'État, liés au terrorisme ou de provocation explicite à la haine ou à la violence.",
+      "pertinence": "Commentaire d'avocat de décisions récentes ; à lire comme une source secondaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi visant à assouplir les conditions d'expulsion des étrangers constituant une menace grave pour l'ordre public (n° 265) — rapport d'étape de la commission des lois (rapporteure : Edwige Diaz)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "23 octobre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/863769/file/PPL%20265%20-%20EAT.pdf",
+      "passage": "Droit en vigueur (CESEDA, après la loi n° 2024-42 du 26 janvier 2024) : L. 631-1, expulsion possible si la présence constitue une menace grave pour l'ordre public — une condamnation ne suffit pas à elle seule ; L. 631-2, protection relative (parents d'enfant français, conjoints de Français depuis trois ans, résidents réguliers depuis plus de dix ans…) levée notamment en cas de condamnation définitive pour un crime ou délit puni d'au moins trois ans ; L. 631-3, protection quasi absolue (arrivés avant 13 ans, résidents de plus de vingt ans…) levée en cas de condamnation définitive pour des faits punis d'au moins cinq ans (trois en récidive) ; L. 631-4, mineurs : protection absolue. Contrôle de proportionnalité au regard de l'article 8 de la Convention européenne des droits de l'homme. Dispositions de 2024 jugées conformes par le Conseil constitutionnel (décision n° 2023-863 DC du 25 janvier 2024). 2022 : 341 mesures d'expulsion prononcées, 167 exécutées ; 2023 : 58 arrêtés ministériels d'expulsion, exécutés à 63 %.",
+      "pertinence": "Document parlementaire décrivant le droit en vigueur ; le texte soutient une proposition de durcissement, ce qui n'affecte pas la description du droit.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Code pénal, article 131-30 (interdiction du territoire français) — reproduction du texte en vigueur",
+      "organisme": "Légifrance (texte reproduit par TheTradeHub)",
+      "date_publication": "Version en vigueur consultée le 30 octobre 2026",
+      "url": "https://www.thetradehub.eu/fr/reglementation/france/legislation/cibs/code-penal-art-131-30",
+      "passage": "« La peine d'interdiction du territoire français peut être prononcée, dans les conditions prévues par la loi, à titre définitif ou pour une durée de dix ans au plus, à l'encontre de tout étranger coupable d'un crime ou d'un délit. » Elle « entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement ou de réclusion ».",
+      "pertinence": "Texte de loi (peine prononcée par un juge pénal).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Législation et jurisprudence en évolution.",
+  "objections_legitimes": [
+    "Les procédures d'examen individuel allongent les délais et peuvent sembler opaques.",
+    "Pour les condamnations graves, la perte du droit au séjour est une demande légitime, déjà largement prise en compte par la loi de 2024."
+  ]
+}

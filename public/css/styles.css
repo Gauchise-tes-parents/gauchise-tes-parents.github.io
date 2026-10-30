@@ -615,3 +615,10 @@ button.mode-card { cursor: pointer; }
 .conv-bilan .bilan-head { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
 .bilan-message { font-size: var(--step-1); font-weight: 600; background: var(--lemon); border: var(--line); border-radius: var(--r-card); padding: 14px 16px; box-shadow: var(--stamp); }
 .notice--error { border: var(--line); border-radius: var(--r-card); background: #FFE5E8; padding: 12px 14px; margin: 12px 0; }
+
+/* ---- v7 : suggestions par sous-thème ---- */
+.sugg-box { margin: 6px 0 14px; }
+.sugg-chips .chip { text-align: left; }
+.sugg-tag { display: inline-block; margin-left: 6px; font-size: 0.72rem; font-weight: 700; color: var(--teal); background: #E6F6F1; border-radius: 999px; padding: 1px 8px; vertical-align: middle; }
+.sugg-actions { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin-top: 6px; }
+.sugg-actions .hint { margin: 0; font-size: var(--step--1); }

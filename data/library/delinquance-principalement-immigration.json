@@ -1,0 +1,127 @@
+{
+  "id": "delinquance-principalement-immigration",
+  "type": "idee_recue",
+  "affirmation": "La délinquance est principalement liée à l'immigration.",
+  "volet": "immigration",
+  "sous_theme": "Immigration, délinquance et prisons",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "délinquance",
+    "principalement",
+    "immigration",
+    "étrangers",
+    "mis en cause",
+    "auteurs",
+    "vols",
+    "violences",
+    "insécurité",
+    "criminalité"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "En 2019, les étrangers représentaient 17,7 % des personnes mises en cause par la police et la gendarmerie (dernière série détaillée publiée) : plus de huit auteurs présumés sur dix étaient français. Les étrangers sont surreprésentés, surtout pour les vols, mais la délinquance n'est pas « principalement » le fait d'étrangers.",
+  "contexte": "« Principalement » signifie plus de la moitié. Les données publiques du ministère de l'Intérieur permettent de vérifier cette idée pour les étrangers (nationalité), pas pour les immigrés.",
+  "explication": "Les mis en cause sont des personnes soupçonnées par la police ou la gendarmerie, pas des condamnés. Leur nationalité n'est pas toujours vérifiable. La part des étrangers varie beaucoup selon l'infraction : forte pour certains vols, plus faible pour les atteintes à la personne ou les dégradations.",
+  "faits": [
+    {
+      "fait": "En 2019, les étrangers représentent 17,7 % des personnes mises en cause (hors infractions routières).",
+      "periode": "2019",
+      "perimetre": "France, mis en cause pour crimes et délits",
+      "explication": "Plus de 82 % des auteurs présumés sont français.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "17,7 %"
+    },
+    {
+      "fait": "La part des étrangers parmi les mis en cause est de 26,6 % pour les vols, 13,1 % pour les atteintes à la personne, 13,5 % pour les infractions sexuelles, 11,5 % pour les stupéfiants et 10,8 % pour les destructions et dégradations.",
+      "periode": "2019",
+      "perimetre": "Mis en cause par type d’infraction",
+      "explication": "La surreprésentation est très variable selon les infractions.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2019, les étrangers forment 7 % des personnes résidant en France et 18 % des mis en cause ; 9 % des victimes d'atteintes personnelles sont étrangères.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Les étrangers sont aussi surreprésentés parmi certaines victimes (16 % pour les violences sexuelles).",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "7 % / 18 %"
+    },
+    {
+      "fait": "La nationalité ne peut pas toujours être vérifiée par les services faute de pièce d'identité ; elle n'est pas renseignée pour 11 % des auteurs traités par les parquets.",
+      "periode": "2019",
+      "perimetre": "Méthodologie",
+      "explication": "Les chiffres par nationalité sont à manier avec précaution.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Selon le ministère de l'Intérieur, les étrangers représentaient 17,7 % des mis en cause en 2019 : plus de huit auteurs présumés sur dix sont français. Surreprésentés, oui ; « principalement », non.",
+    "moyen": "Regardons les chiffres du ministère de l'Intérieur. En 2019, les étrangers étaient 7 % de la population et 17,7 % des personnes mises en cause : c'est une surreprésentation, surtout pour les vols (26,6 %). Mais ça veut dire que plus de 82 % des auteurs présumés étaient français. La délinquance n'est donc pas « principalement » liée aux étrangers. Et sur les immigrés, ces chiffres ne disent rien : ils comptent la nationalité.",
+    "detaille": "Le mot « principalement » se vérifie facilement : il faudrait que plus de la moitié des auteurs soient étrangers. Ce n'est pas le cas.\n\nSelon la dernière série détaillée publiée par l'Insee à partir des données du ministère de l'Intérieur, les étrangers représentaient 17,7 % des personnes mises en cause en 2019 (hors infractions routières), alors qu'ils formaient 7 % de la population. Plus de huit auteurs présumés sur dix étaient donc français.\n\nLa surreprésentation est réelle et varie selon les infractions : 26,6 % pour les vols, mais 13,1 % pour les atteintes à la personne et 10,8 % pour les destructions et dégradations. Les étrangers sont aussi surreprésentés parmi certaines victimes : 16 % des victimes de violences sexuelles.\n\nTrois précautions. Les mis en cause ne sont pas des condamnés. Leur nationalité n'est pas toujours vérifiable. Et ces chiffres portent sur les étrangers, pas sur les immigrés, dont un tiers sont français.\n\nOn peut donc discuter d'une surreprésentation sur certaines infractions, de ses causes et des politiques adaptées. Mais dire que la délinquance est « principalement » liée à l'immigration ne correspond pas aux données publiques.",
+    "empathie": "Je comprends l'inquiétude : certaines infractions, comme les vols, sont commises plus souvent par des étrangers, et c'est dans les chiffres. Mais la grande majorité des délits sont commis par des Français. Si on ne regarde qu'une partie, on se trompe de cible et on protège moins bien."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les chiffres de 2019 sont anciens, ça a empiré.",
+      "reponse": "C'est la dernière série détaillée publiée par nationalité et par infraction. La part des étrangers était en hausse entre 2016 et 2019 (de 16 % à 18 %) : même en supposant une hausse depuis, on est très loin de la moitié."
+    },
+    {
+      "objection": "Dans ma ville, ce sont toujours des étrangers.",
+      "reponse": "Ce que tu vois autour de toi est réel pour toi, et la situation varie selon les quartiers et les infractions. Mais au niveau national, plus de huit auteurs présumés sur dix sont français."
+    }
+  ],
+  "questions": [
+    "Quelle part des auteurs aurais-tu estimée avant de voir le chiffre ?",
+    "Si la majorité des auteurs sont français, quelle politique protégerait le mieux les victimes ?"
+  ],
+  "limites": [
+    "Dernière série détaillée par nationalité : données 2019.",
+    "Mis en cause ≠ condamnés ; nationalité parfois non vérifiée.",
+    "Aucune donnée comparable n'est publiée pour les immigrés."
+  ],
+  "sources": [
+    {
+      "titre": "Auteurs selon la nationalité (Insee Références « Sécurité et société », données SSMSI)",
+      "organisme": "Insee / SSMSI (ministère de l'Intérieur)",
+      "date_publication": "9 décembre 2021",
+      "url": "https://www.insee.fr/fr/statistiques/5763585",
+      "passage": "Part des étrangers parmi les personnes mises en cause en 2019 (hors infractions routières) : ensemble 17,7 % ; atteintes à la personne 13,1 % ; infractions à caractère sexuel 13,5 % ; vols 26,6 % ; destructions et dégradations 10,8 % ; stupéfiants 11,5 %. Avertissement : la nationalité ne peut pas toujours être vérifiée faute de pièce d'identité ; nationalité non renseignée pour 11 % des auteurs traités par les parquets. Part passée de 16 % en 2016 à 18 % en 2019.",
+      "pertinence": "Seule série détaillée publiée par nationalité et par type d'infraction.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Dossier 1 : Depuis 2010, les phénomènes délinquants se transforment tandis que le sentiment d'insécurité reste globalement stable (Insee Références « Sécurité et société »)",
+      "organisme": "Insee / SSMSI",
+      "date_publication": "9 décembre 2021",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/6008710/INSEE-FP-IREF-SECURITE_DOSSIER1.pdf",
+      "passage": "En 2019, les étrangers représentent 18 % des mis en cause alors qu'ils forment 7 % des personnes résidant en France ; 9 % des victimes d'atteintes personnelles sont étrangères (16 % pour les violences sexuelles). Les mis en cause sont des auteurs présumés, non des condamnés ; toutes les victimes ne portent pas plainte.",
+      "pertinence": "Met en regard auteurs présumés, victimes et population.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "En 2024, 6,0 millions d'étrangers vivent en France, 0,9 million y sont nés (Insee Première n° 2076)",
+      "organisme": "Insee (Chloé Pariset, Pierre Tanneau)",
+      "date_publication": "7 octobre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8651304",
+      "passage": "2024 (provisoire) : 6,0 millions d'étrangers, soit 8,8 % de la population ; 7,7 millions d'immigrés, soit 11,3 % ; 0,9 million d'étrangers nés en France (1,3 %). Définitions : un étranger réside en France sans la nationalité française ; un immigré est né étranger à l'étranger et le reste même devenu français.",
+      "pertinence": "Statistique publique de référence pour les dénominateurs.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Une série plus récente par nationalité pourrait être publiée par le SSMSI.",
+  "objections_legitimes": [
+    "Les étrangers sont surreprésentés parmi les mis en cause, en particulier pour les vols."
+  ]
+}

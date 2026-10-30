@@ -1,0 +1,134 @@
+{
+  "id": "renvoyer-tous-deja-condamnes",
+  "type": "reponse_critique",
+  "affirmation": "Il faut renvoyer tous les étrangers qui ont déjà été condamnés.",
+  "volet": "immigration",
+  "sous_theme": "Expulsion des étrangers condamnés",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "déjà été condamnés",
+    "déjà condamnés",
+    "renvoyer tous",
+    "casier judiciaire",
+    "anciennes condamnations",
+    "peine purgée",
+    "rétroactif",
+    "menace actuelle",
+    "renvoyer chez eux"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La proposition vise aussi des personnes ayant déjà purgé leur peine, parfois pour des faits mineurs ou anciens. Le droit actuel exige, pour une expulsion administrative, une menace grave pour l'ordre public : une condamnation passée ne suffit pas à elle seule. Le renvoi systématique se heurterait au contrôle de proportionnalité et, surtout, aux difficultés d'exécution.",
+  "contexte": "« Déjà condamné » peut désigner une amende d'il y a vingt ans comme un crime récent. Le droit distingue la peine (prononcée au moment du jugement) et l'éloignement administratif décidé ensuite, qui doit tenir compte de la situation présente.",
+  "explication": "Une interdiction du territoire est décidée par le juge lors du procès. Après la peine, l'administration peut expulser si la personne représente une menace grave et actuelle. Revenir sur toutes les condamnations passées supposerait d'éloigner des personnes qui ont purgé leur peine et dont la situation a pu changer, ce que la jurisprudence européenne demande d'examiner au cas par cas.",
+  "faits": [
+    {
+      "fait": "L'expulsion administrative suppose que la présence de la personne constitue une menace grave pour l'ordre public ; une condamnation ne suffit pas à elle seule.",
+      "periode": "Droit en vigueur",
+      "perimetre": "CESEDA, article L. 631-1",
+      "explication": "C'est le comportement présent qui est apprécié, pas seulement le casier.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'interdiction du territoire est prononcée par le juge au moment de la condamnation, à titre définitif ou pour dix ans au plus.",
+      "periode": "Droit en vigueur",
+      "perimetre": "Code pénal, article 131-30",
+      "explication": "C'est au procès que l'éloignement peut être décidé comme peine.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La CEDH examine la gravité de l'infraction, la durée du séjour, la vie familiale, l'intérêt des enfants et les liens avec le pays d'origine.",
+      "periode": "18 octobre 2006",
+      "perimetre": "CEDH, Üner c. Pays-Bas",
+      "explication": "Le temps écoulé et la situation actuelle comptent.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Autour de 10 % des OQTF sont exécutées.",
+      "periode": "2019-2022",
+      "perimetre": "France",
+      "explication": "Élargir le nombre de personnes visées sans moyens d'exécution aggraverait l'écart entre décisions et renvois.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "≈ 10 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Une condamnation passée ne suffit pas, à elle seule, à expulser : il faut une menace grave et actuelle. Et avec environ 10 % des OQTF exécutées, viser plus de monde sans pouvoir renvoyer ne changerait rien.",
+    "moyen": "Il faut distinguer. Au moment du procès, le juge peut déjà interdire le territoire. Après la peine, l'administration peut expulser quelqu'un qui reste dangereux. Mais « tous ceux qui ont déjà été condamnés », ça vise aussi quelqu'un condamné pour un petit délit il y a quinze ans, qui a purgé sa peine et a une famille ici. La loi demande qu'on regarde la menace actuelle, et la Cour européenne des droits de l'homme exige un examen au cas par cas. Et en pratique, avec environ 10 % des OQTF exécutées, multiplier les décisions sans pouvoir les appliquer ne protège personne.",
+    "detaille": "La proposition soulève quatre questions.\n\nQuelles condamnations ? Une contravention, un délit mineur ou un crime n'appellent pas la même réponse. Le mot « tous » efface ces différences.\n\nQuand ? Le droit prévoit que le juge peut prononcer une interdiction du territoire au moment du jugement. Après la peine, l'expulsion administrative suppose une menace grave pour l'ordre public : une condamnation passée ne suffit pas à elle seule. Revenir sur des peines purgées, parfois anciennes, reviendrait à ajouter une conséquence nouvelle à des faits déjà jugés.\n\nAvec quel examen ? La Cour européenne des droits de l'homme admet l'expulsion d'étrangers condamnés, mais selon des critères : gravité des faits, durée du séjour, famille, enfants, liens avec le pays d'origine. Un renvoi systématique, sans examen, serait très probablement contraire à ces exigences.\n\nAvec quels moyens ? Selon la Cour des comptes, environ 10 % des OQTF sont exécutées. Élargir massivement le nombre de personnes visées sans résoudre les obstacles (laissez-passer consulaires, identification, places de rétention) creuserait l'écart entre les décisions et les renvois.\n\nUne position défendable consiste à cibler les personnes dangereuses et à rendre les décisions exécutables ; le renvoi de toutes les personnes déjà condamnées pose des problèmes juridiques et pratiques majeurs.",
+    "empathie": "Je comprends l'envie de fermeté : on se dit que quelqu'un qui a déjà fauté a perdu sa chance. Pour les personnes dangereuses, la loi le permet. Mais quelqu'un qui a payé une amende il y a quinze ans et élève ses enfants ici, ce n'est pas la même chose. On peut être ferme et juste à la fois."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il a été condamné, il a perdu ses droits.",
+      "reponse": "Il a perdu sa liberté le temps de sa peine. L'éloignement est une décision supplémentaire, qui doit tenir compte de sa dangerosité actuelle et de ses attaches, selon la loi et la jurisprudence européenne."
+    },
+    {
+      "objection": "Peu importe les statistiques, il faut tous les renvoyer chez eux.",
+      "reponse": "On peut défendre plus de fermeté ; mais même avec une volonté totale, environ 10 % des OQTF sont exécutées aujourd'hui. Le débat utile porte sur qui renvoyer en priorité et comment rendre les renvois possibles."
+    }
+  ],
+  "questions": [
+    "Une amende ancienne et un crime récent doivent-ils avoir la même conséquence ?",
+    "Que proposes-tu pour que les renvois décidés soient vraiment exécutés ?"
+  ],
+  "limites": [
+    "Les textes évoluent : vérifier la version en vigueur sur Légifrance.",
+    "Pas de données publiques sur le nombre d'étrangers ayant une condamnation ancienne."
+  ],
+  "sources": [
+    {
+      "titre": "Proposition de loi visant à assouplir les conditions d'expulsion des étrangers constituant une menace grave pour l'ordre public (n° 265) — rapport d'étape de la commission des lois (rapporteure : Edwige Diaz)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "23 octobre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/863769/file/PPL%20265%20-%20EAT.pdf",
+      "passage": "Droit en vigueur (CESEDA, après la loi n° 2024-42 du 26 janvier 2024) : L. 631-1, expulsion possible si la présence constitue une menace grave pour l'ordre public — une condamnation ne suffit pas à elle seule ; L. 631-2, protection relative (parents d'enfant français, conjoints de Français depuis trois ans, résidents réguliers depuis plus de dix ans…) levée notamment en cas de condamnation définitive pour un crime ou délit puni d'au moins trois ans ; L. 631-3, protection quasi absolue (arrivés avant 13 ans, résidents de plus de vingt ans…) levée en cas de condamnation définitive pour des faits punis d'au moins cinq ans (trois en récidive) ; L. 631-4, mineurs : protection absolue. Contrôle de proportionnalité au regard de l'article 8 de la Convention européenne des droits de l'homme. Dispositions de 2024 jugées conformes par le Conseil constitutionnel (décision n° 2023-863 DC du 25 janvier 2024). 2022 : 341 mesures d'expulsion prononcées, 167 exécutées ; 2023 : 58 arrêtés ministériels d'expulsion, exécutés à 63 %.",
+      "pertinence": "Document parlementaire décrivant le droit en vigueur ; le texte soutient une proposition de durcissement, ce qui n'affecte pas la description du droit.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Code pénal, article 131-30 (interdiction du territoire français) — reproduction du texte en vigueur",
+      "organisme": "Légifrance (texte reproduit par TheTradeHub)",
+      "date_publication": "Version en vigueur consultée le 30 octobre 2026",
+      "url": "https://www.thetradehub.eu/fr/reglementation/france/legislation/cibs/code-penal-art-131-30",
+      "passage": "« La peine d'interdiction du territoire français peut être prononcée, dans les conditions prévues par la loi, à titre définitif ou pour une durée de dix ans au plus, à l'encontre de tout étranger coupable d'un crime ou d'un délit. » Elle « entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement ou de réclusion ».",
+      "pertinence": "Texte de loi (peine prononcée par un juge pénal).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Üner c. Pays-Bas (Cour européenne des droits de l'homme, Grande Chambre) — fiche de jurisprudence",
+      "organisme": "Inimõiguste Keskus (résumé de l'arrêt CEDH du 18 octobre 2006)",
+      "date_publication": "Arrêt du 18 octobre 2006",
+      "url": "https://www.inimoigustegiid.ee/en/case-law/uener-v-the-netherlands",
+      "passage": "Critères pour l'expulsion d'un étranger installé et condamné : gravité de l'infraction, durée du séjour, vie familiale (notamment avec les enfants), intérêt et capacité d'adaptation des enfants, liens avec le pays d'origine. Conclusion : pas de violation de l'article 8 ; la mesure était proportionnée à une condamnation pour homicide.",
+      "pertinence": "Jurisprudence européenne fixant les critères de proportionnalité.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La politique de lutte contre l'immigration irrégulière (rapport public thématique)",
+      "organisme": "Cour des comptes",
+      "date_publication": "Janvier 2024",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/292560.pdf",
+      "passage": "447 257 OQTF prononcées de 2019 à 2022 ; seule une petite minorité, autour de 10 %, est exécutée. Éloignements forcés : 18 915 en 2019, 11 409 en 2022 (Eurostat). 22 centres de rétention, 1 717 places ; environ 5 % des personnes sous OQTF placées en rétention, dont près de la moitié éloignées. Difficultés : identification, réticence de nombreux pays d'origine à délivrer des laissez-passer consulaires, refus d'embarquer. Coût moyen d'un éloignement forcé : 4 414 €.",
+      "pertinence": "Juridiction financière : constat sur l'exécution réelle des mesures.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Législation en évolution.",
+  "objections_legitimes": [
+    "Les personnes condamnées qui restent dangereuses doivent pouvoir être éloignées effectivement."
+  ]
+}

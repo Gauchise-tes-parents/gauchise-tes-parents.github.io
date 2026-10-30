@@ -1,26 +1,26 @@
 {
- "date": "2026-10-29T20:57:38.318Z",
- "scenarios": 150,
- "conformes": 150,
+ "date": "2026-10-30T12:18:12.459Z",
+ "scenarios": 166,
+ "conformes": 166,
  "diversite": {
-  "paires": 896,
-  "pertinentes": 896,
+  "paires": 1008,
+  "pertinentes": 1008,
   "superficielles": 0,
   "identiques": 0,
   "compte": {
-   "structure": 754,
-   "preuves": 683,
-   "ordre": 683,
-   "questions": 768,
-   "detail": 624,
-   "strategie": 850,
-   "objection": 146,
-   "contexte": 800
+   "structure": 852,
+   "preuves": 779,
+   "ordre": 779,
+   "questions": 864,
+   "detail": 702,
+   "strategie": 958,
+   "objection": 184,
+   "contexte": 900
   }
  },
  "stabilite": {
-  "preuvesVues": 543,
-  "preuvesExactes": 543
+  "preuvesVues": 609,
+  "preuvesExactes": 609
  },
  "sourcesManquantes": 0,
  "resultats": [
@@ -1177,6 +1177,150 @@
    "incertitudes": []
   },
   {
+   "id": "etrangers-prisons/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "etrangers-prisons/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "etrangers-prisons/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "etrangers-prisons/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "etrangers-prisons/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "etrangers-prisons/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "etrangers-prisons/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "etrangers-prisons/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "expulser-tous-etrangers-condamnes/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "expulser-tous-etrangers-condamnes/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "expulser-tous-etrangers-condamnes/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "expulser-tous-etrangers-condamnes/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "expulser-tous-etrangers-condamnes/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "expulser-tous-etrangers-condamnes/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "expulser-tous-etrangers-condamnes/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "expulser-tous-etrangers-condamnes/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
    "id": "impots-assistanat/mefiant/truquees+preuves+ecoute+ecoute",
    "type": "echange",
    "ok": true,
@@ -1189,7 +1333,7 @@
    "id": "rsa-smic/braque/braque+braque",
    "type": "echange",
    "ok": true,
-   "resultat": "Elle s’est braquée : on ralentit → Elle se braque encore : on s’arrête là",
+   "resultat": "Elle s’est braquée : on ralentit → Elle se braque encore : propose une pause",
    "violations": [],
    "erreurs": [],
    "incertitudes": []

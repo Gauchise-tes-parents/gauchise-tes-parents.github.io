@@ -1,0 +1,160 @@
+{
+  "id": "expulser-tous-etrangers-condamnes",
+  "type": "reponse_critique",
+  "affirmation": "Tous les étrangers condamnés devraient être expulsés.",
+  "volet": "immigration",
+  "sous_theme": "Expulsion des étrangers condamnés",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "expulser",
+    "expulsion",
+    "expulsés",
+    "renvoyer",
+    "renvoyer chez eux",
+    "étrangers condamnés",
+    "OQTF",
+    "interdiction du territoire",
+    "ITF",
+    "double peine",
+    "tous les renvoyer"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "C'est une proposition politique. Le droit actuel permet déjà d'éloigner beaucoup d'étrangers condamnés : interdiction du territoire prononcée par le juge, expulsion administrative en cas de menace grave, avec des protections renforcées pour les personnes ayant de fortes attaches en France, elles-mêmes levées pour les condamnations graves depuis 2024. Le principal obstacle est l'exécution : environ 10 % des OQTF sont exécutées.",
+  "contexte": "Le mot « condamné » recouvre des situations très différentes : contravention, délit mineur, crime grave. Le droit distingue aussi la peine prononcée par un juge (l'interdiction du territoire) et les mesures administratives décidées par le préfet ou le ministre (OQTF, expulsion).",
+  "explication": "L'OQTF est une décision administrative (départ sous 30 jours). L'arrêté d'expulsion vise une personne dont la présence constitue une menace grave pour l'ordre public ; une condamnation ne suffit pas à elle seule. L'interdiction du territoire français (ITF) est une peine complémentaire décidée par un juge pénal, définitive ou jusqu'à dix ans, exécutée à la fin de la peine de prison. L'extradition, enfin, est la remise d'une personne à un autre État qui la poursuit : c'est une autre procédure. Un crime (jugé par une cour d'assises ou criminelle) est plus grave qu'un délit (tribunal correctionnel), lui-même plus grave qu'une contravention.",
+  "faits": [
+    {
+      "fait": "L'interdiction du territoire français peut être prononcée par le juge, à titre définitif ou pour dix ans au plus, contre tout étranger coupable d'un crime ou d'un délit ; elle entraîne de plein droit la reconduite à la frontière, le cas échéant à l'expiration de la peine de prison.",
+      "periode": "Droit en vigueur",
+      "perimetre": "Code pénal, article 131-30",
+      "explication": "La possibilité d'éloigner un étranger condamné existe déjà dans la loi pénale.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le CESEDA permet l'expulsion d'un étranger dont la présence constitue une menace grave pour l'ordre public ; depuis la loi du 26 janvier 2024, les protections des étrangers ayant de fortes attaches sont levées en cas de condamnation définitive pour des faits punis d'au moins trois ans (protection relative) ou cinq ans (protection renforcée, trois ans en récidive) ; les mineurs restent protégés.",
+      "periode": "Droit en vigueur depuis 2024",
+      "perimetre": "CESEDA, articles L. 631-1 à L. 631-4",
+      "explication": "Les protections existent, mais elles ne couvrent plus les condamnations graves.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Sur 447 257 OQTF prononcées de 2019 à 2022, seule une petite minorité, autour de 10 %, est exécutée ; de nombreux pays d'origine sont réticents à délivrer les laissez-passer consulaires.",
+      "periode": "2019-2022",
+      "perimetre": "France",
+      "explication": "Le problème principal n'est pas l'absence de décision, mais son exécution.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "≈ 10 %"
+    },
+    {
+      "fait": "En 2022, 341 mesures d'expulsion ont été prononcées et 167 exécutées ; en 2023, 58 arrêtés ministériels d'expulsion ont été exécutés à 63 %.",
+      "periode": "2022-2023",
+      "perimetre": "Arrêtés d’expulsion",
+      "explication": "L'expulsion pour menace grave est exécutée bien plus souvent que l'OQTF ordinaire.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La Cour européenne des droits de l'homme admet l'expulsion d'un étranger condamné, mais exige une mise en balance : gravité de l'infraction, durée du séjour, vie familiale, intérêt des enfants, liens avec le pays d'origine.",
+      "periode": "18 octobre 2006",
+      "perimetre": "CEDH, Üner c. Pays-Bas",
+      "explication": "L'automatisme est exclu, pas l'expulsion.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La loi permet déjà d'expulser ou d'interdire du territoire des étrangers condamnés, surtout pour les faits graves. Le vrai problème, c'est l'exécution : environ 10 % des OQTF sont exécutées, faute notamment de laissez-passer des pays d'origine.",
+    "moyen": "On peut vouloir plus d'expulsions, c'est un choix politique. Mais il faut savoir ce qui existe déjà. Un juge peut prononcer une interdiction du territoire, définitive ou jusqu'à dix ans, exécutée après la prison. Le préfet ou le ministre peut expulser quelqu'un qui représente une menace grave. Depuis 2024, même les étrangers qui ont de fortes attaches en France perdent leur protection en cas de condamnation grave. Ce qui bloque surtout, c'est l'exécution : la Cour des comptes estime qu'environ 10 % des OQTF sont exécutées. Et « tous les condamnés », ça inclut aussi des délits mineurs, ou des gens arrivés enfants en France.",
+    "detaille": "Cette proposition mélange trois questions : faut-il éloigner ? qui ? et est-ce faisable ?\n\nCe que dit déjà le droit. Le juge pénal peut prononcer une interdiction du territoire français contre tout étranger coupable d'un crime ou d'un délit, définitive ou pour dix ans au plus ; elle est exécutée à la fin de la peine de prison. Le préfet ou le ministre peut, par ailleurs, expulser un étranger dont la présence constitue une menace grave pour l'ordre public. Certaines personnes sont protégées en raison de leurs attaches (arrivées enfants, parents d'enfants français, résidents de longue date) ; depuis la loi du 26 janvier 2024, ces protections sont levées pour les condamnations à des faits punis d'au moins trois ou cinq ans. Les mineurs restent protégés.\n\nCe que la proposition changerait. « Tous les condamnés » inclurait des délits mineurs et des personnes ayant grandi en France, sans examen individuel. Or la Cour européenne des droits de l'homme admet l'expulsion d'étrangers condamnés, mais exige une mise en balance (gravité des faits, durée du séjour, famille, enfants, liens avec le pays d'origine). Un automatisme total serait très probablement jugé contraire à ces exigences.\n\nCe qui bloque en pratique. Selon la Cour des comptes, environ 10 % des OQTF sont exécutées : identification difficile, réticence de nombreux pays à délivrer des laissez-passer consulaires, refus d'embarquer. L'expulsion pour menace grave est mieux exécutée (63 % des arrêtés ministériels en 2023), justement parce qu'elle est ciblée.\n\nLa question honnête n'est donc pas « expulser ou ne rien faire », mais : quelles personnes, avec quelles garanties, et comment rendre les décisions réellement exécutables, tout en protégeant les victimes ?",
+    "empathie": "Je comprends parfaitement qu'on ne veuille pas que quelqu'un qui a commis un crime grave reste en France ; c'est une demande de justice. La loi le permet déjà dans beaucoup de cas. Ce qui coince surtout, c'est que les renvois ne sont pas exécutés. C'est là-dessus qu'on pourrait être d'accord pour agir."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les protections, c'est de l'impunité.",
+      "reponse": "Non : la personne est jugée et purge sa peine en France. Les protections encadrent seulement l'éloignement des personnes qui ont toute leur vie ici, et elles sont levées pour les condamnations graves depuis 2024."
+    },
+    {
+      "objection": "Si on expulsait vraiment, il y aurait moins de délinquance.",
+      "reponse": "En 2019, plus de 80 % des mis en cause étaient français. L'expulsion peut retirer du territoire des auteurs graves, mais elle ne peut pas, à elle seule, réduire fortement la délinquance totale."
+    },
+    {
+      "objection": "Pourquoi garder en France quelqu'un qui a commis un crime ?",
+      "reponse": "Souvent, on ne le garde pas : le juge peut prononcer une interdiction du territoire. Quand la personne est protégée, c'est qu'elle a grandi en France ou y a sa famille ; depuis 2024, même cette protection tombe pour les crimes graves. Et la peine de prison est d'abord purgée en France, ce qui protège aussi les victimes."
+    }
+  ],
+  "questions": [
+    "Pour toi, faut-il traiter de la même façon un vol à l'étalage et un crime violent ?",
+    "Si un pays refuse de reprendre la personne, que proposes-tu concrètement ?"
+  ],
+  "limites": [
+    "Les chiffres d'exécution datent de 2022-2023 ; la loi de 2024 a pu les modifier.",
+    "Les textes de loi évoluent : vérifier la version en vigueur sur Légifrance avant toute affirmation juridique précise.",
+    "Les données ne permettent pas de mesurer l'effet des expulsions sur la récidive."
+  ],
+  "sources": [
+    {
+      "titre": "Proposition de loi visant à assouplir les conditions d'expulsion des étrangers constituant une menace grave pour l'ordre public (n° 265) — rapport d'étape de la commission des lois (rapporteure : Edwige Diaz)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "23 octobre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/863769/file/PPL%20265%20-%20EAT.pdf",
+      "passage": "Droit en vigueur (CESEDA, après la loi n° 2024-42 du 26 janvier 2024) : L. 631-1, expulsion possible si la présence constitue une menace grave pour l'ordre public — une condamnation ne suffit pas à elle seule ; L. 631-2, protection relative (parents d'enfant français, conjoints de Français depuis trois ans, résidents réguliers depuis plus de dix ans…) levée notamment en cas de condamnation définitive pour un crime ou délit puni d'au moins trois ans ; L. 631-3, protection quasi absolue (arrivés avant 13 ans, résidents de plus de vingt ans…) levée en cas de condamnation définitive pour des faits punis d'au moins cinq ans (trois en récidive) ; L. 631-4, mineurs : protection absolue. Contrôle de proportionnalité au regard de l'article 8 de la Convention européenne des droits de l'homme. Dispositions de 2024 jugées conformes par le Conseil constitutionnel (décision n° 2023-863 DC du 25 janvier 2024). 2022 : 341 mesures d'expulsion prononcées, 167 exécutées ; 2023 : 58 arrêtés ministériels d'expulsion, exécutés à 63 %.",
+      "pertinence": "Document parlementaire décrivant le droit en vigueur ; le texte soutient une proposition de durcissement, ce qui n'affecte pas la description du droit.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Code pénal, article 131-30 (interdiction du territoire français) — reproduction du texte en vigueur",
+      "organisme": "Légifrance (texte reproduit par TheTradeHub)",
+      "date_publication": "Version en vigueur consultée le 30 octobre 2026",
+      "url": "https://www.thetradehub.eu/fr/reglementation/france/legislation/cibs/code-penal-art-131-30",
+      "passage": "« La peine d'interdiction du territoire français peut être prononcée, dans les conditions prévues par la loi, à titre définitif ou pour une durée de dix ans au plus, à l'encontre de tout étranger coupable d'un crime ou d'un délit. » Elle « entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement ou de réclusion ».",
+      "pertinence": "Texte de loi (peine prononcée par un juge pénal).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Loi immigration : OQTF, expulsions, tout comprendre sur les mesures administratives d'éloignement",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "27 octobre 2023 (mis à jour le 2 novembre 2023)",
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-immigration-oqtf-expulsions-tout-comprendre-sur-les-mesures-administratives-deloignement",
+      "passage": "L'OQTF est une mesure administrative du préfet (départ sous 30 jours) ; l'arrêté d'expulsion est exécutoire immédiatement et peut être pris sans condamnation ; l'ITF est une peine complémentaire prononcée par un juge, définitive ou jusqu'à dix ans. Selon le rapport de la commission des lois du Sénat : au premier semestre 2022, 65 076 OQTF prononcées et 4 474 exécutées, soit 6,9 %. Obstacles : refus de laissez-passer consulaires, décisions de justice, centres de rétention saturés.",
+      "pertinence": "Synthèse journalistique de la chaîne parlementaire, citant le rapport du Sénat.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "La politique de lutte contre l'immigration irrégulière (rapport public thématique)",
+      "organisme": "Cour des comptes",
+      "date_publication": "Janvier 2024",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/292560.pdf",
+      "passage": "447 257 OQTF prononcées de 2019 à 2022 ; seule une petite minorité, autour de 10 %, est exécutée. Éloignements forcés : 18 915 en 2019, 11 409 en 2022 (Eurostat). 22 centres de rétention, 1 717 places ; environ 5 % des personnes sous OQTF placées en rétention, dont près de la moitié éloignées. Difficultés : identification, réticence de nombreux pays d'origine à délivrer des laissez-passer consulaires, refus d'embarquer. Coût moyen d'un éloignement forcé : 4 414 €.",
+      "pertinence": "Juridiction financière : constat sur l'exécution réelle des mesures.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Üner c. Pays-Bas (Cour européenne des droits de l'homme, Grande Chambre) — fiche de jurisprudence",
+      "organisme": "Inimõiguste Keskus (résumé de l'arrêt CEDH du 18 octobre 2006)",
+      "date_publication": "Arrêt du 18 octobre 2006",
+      "url": "https://www.inimoigustegiid.ee/en/case-law/uener-v-the-netherlands",
+      "passage": "Critères pour l'expulsion d'un étranger installé et condamné : gravité de l'infraction, durée du séjour, vie familiale (notamment avec les enfants), intérêt et capacité d'adaptation des enfants, liens avec le pays d'origine. Conclusion : pas de violation de l'article 8 ; la mesure était proportionnée à une condamnation pour homicide.",
+      "pertinence": "Jurisprudence européenne fixant les critères de proportionnalité.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Législation sur l'immigration en évolution fréquente ; nouvelles données d'exécution.",
+  "objections_legitimes": [
+    "Les mesures d'éloignement, en particulier les OQTF, sont très peu exécutées.",
+    "Protéger les victimes et prévenir la récidive est une exigence légitime."
+  ]
+}

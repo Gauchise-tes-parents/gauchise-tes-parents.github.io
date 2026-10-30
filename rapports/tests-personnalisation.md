@@ -1,6 +1,6 @@
 # Rapport de tests du moteur de personnalisation (mode autonome)
 
-Généré le 2026-10-29 par `node scripts/rapport-personnalisation.js` — exécution réelle de 150 scénarios en 1341 ms, sans réseau ni clé API.
+Généré le 2026-10-30 par `node scripts/rapport-personnalisation.js` — exécution réelle de 166 scénarios en 1931 ms, sans réseau ni clé API.
 
 > **Ce que ces tests prouvent et ne prouvent pas.** Ils vérifient que le moteur transmet les choix, applique la table de décision, ne modifie aucun fait, cite des sources consultées, signale les incertitudes, ne présente pas un profil comme un fait et ne bloque jamais. Ils **ne mesurent pas** l’efficacité persuasive sur de vraies personnes : aucune validation empirique n’a été faite.
 
@@ -8,15 +8,15 @@ Généré le 2026-10-29 par `node scripts/rapport-personnalisation.js` — exéc
 
 | Indicateur | Résultat |
 |---|---|
-| Scénarios exécutés | 150 (profils 128, échanges successifs 8, questions libres 8, données facultatives ou invalides 6) |
-| Scénarios conformes aux 8 critères | 150 / 150 |
+| Scénarios exécutés | 166 (profils 144, échanges successifs 8, questions libres 8, données facultatives ou invalides 6) |
+| Scénarios conformes aux 8 critères | 166 / 166 |
 | Erreurs factuelles | 0 |
 | Sources manquantes ou non consultées | 0 scénario(s), 0 preuve(s) |
 | Réponses insuffisamment adaptées (attente du profil non respectée) | 0 |
-| Stabilité factuelle (preuves identiques au texte de la fiche) | 543 / 543 |
-| Réponse courte identique pour tous les profils d’une même fiche | oui, pour les 16 fiches |
-| Paires de profils comparées (même fiche, même mode) | 896 |
-| … différences pertinentes (≥ 2 dimensions de fond) | 896 (100 %) |
+| Stabilité factuelle (preuves identiques au texte de la fiche) | 609 / 609 |
+| Réponse courte identique pour tous les profils d’une même fiche | oui, pour les 18 fiches |
+| Paires de profils comparées (même fiche, même mode) | 1008 |
+| … différences pertinentes (≥ 2 dimensions de fond) | 1008 (100 %) |
 | … différences superficielles (une seule dimension, ou ton/contexte seulement) | 0 (0 %) |
 | … plans identiques | 0 |
 
@@ -37,18 +37,18 @@ Un « test des tests » (`tests/unit/personnalisation.test.js`) injecte volontai
 
 ## Diversité, dimension par dimension
 
-Nombre de paires (sur 896) dont le plan diffère sur chaque dimension :
+Nombre de paires (sur 1008) dont le plan diffère sur chaque dimension :
 
 | Dimension | Paires différentes |
 |---|---|
-| Structure (ordre des blocs) | 754 (84 %) |
-| Choix des preuves | 683 (76 %) |
-| Ordre des preuves | 683 (76 %) |
-| Questions posées | 768 (86 %) |
-| Niveau de détail (et méthode affichée) | 624 (70 %) |
-| Stratégie (approche / entrée / conclusion) | 850 (95 %) |
-| Objection anticipée | 146 (16 %) |
-| Adaptation au contexte (ton, public, lien, pause, angles) | 800 (89 %) |
+| Structure (ordre des blocs) | 852 (85 %) |
+| Choix des preuves | 779 (77 %) |
+| Ordre des preuves | 779 (77 %) |
+| Questions posées | 864 (86 %) |
+| Niveau de détail (et méthode affichée) | 702 (70 %) |
+| Stratégie (approche / entrée / conclusion) | 958 (95 %) |
+| Objection anticipée | 184 (18 %) |
+| Adaptation au contexte (ton, public, lien, pause, angles) | 900 (89 %) |
 
 L’objection anticipée varie peu : la plupart des fiches n’en contiennent qu’une ou deux. C’est une limite des données, pas un défaut à masquer par de la variété artificielle.
 
@@ -285,28 +285,44 @@ Affirmation : « La délinquance augmente partout. » (fiche `delinquance-partou
 | 126 | `commune-paris-1871/vecu` | profil | valeurs/vecu · valeurs/vecu | 8/8 |
 | 127 | `commune-paris-1871/hesitant` | profil | historique/fait · historique/question | 8/8 |
 | 128 | `commune-paris-1871/patriote` | profil | historique/concession · historique/concession | 8/8 |
-| 129 | `impots-assistanat/mefiant/truquees+preuves+ecoute+ecoute` | echange | Elle doute des chiffres : explique leur fabrication → Elle demande une source : montre-la, avec la méthode → Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix | 8/8 |
-| 130 | `rsa-smic/braque/braque+braque` | echange | Elle s’est braquée : on ralentit → Elle se braque encore : on s’arrête là | 8/8 |
-| 131 | `delinquance-partout/securitaire/causes+solution+concede` | echange | D’accord sur le constat, pas sur les causes → D’accord sur le problème, pas sur la solution → Elle a reconnu un point : consolide sans triompher | 8/8 |
-| 132 | `chomeurs-travailler/confrontation/preuves+diversion+diversion` | echange | Elle demande une source : montre-la, avec la méthode → Elle a changé de sujet → Elle change encore de sujet | 8/8 |
-| 133 | `lfi-antisemite/patriote/hesite+ecoute+fin` | echange | Elle hésite : propose des pistes, pas une conclusion → Elle écoute : un élément de plus, pas dix → La discussion est terminée | 8/8 |
-| 134 | `electricite-nucleaire-renouvelables/chiffres/ecoute+ecoute+ecoute+ecoute+ecoute` | echange | Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix → Tous les faits de la fiche ont été présentés | 8/8 |
-| 135 | `immigres-aides/vecu/truquees+causes+concede+fin` | echange | Elle doute des chiffres : explique leur fabrication → D’accord sur le constat, pas sur les causes → Elle a reconnu un point : consolide sans triompher → La discussion est terminée | 8/8 |
-| 136 | `securite-sociale-1945/parent_repas/braque+hesite` | echange | Elle s’est braquée : on ralentit → Elle hésite : propose des pistes, pas une conclusion | 8/8 |
-| 137 | `question:Les impôts servent à payer les assistés` | question | impots-assistanat (forte) | 8/8 |
-| 138 | `question:la police tue` | question | lfi-contre-police (forte) | 8/8 |
-| 139 | `question:Avec le RSA on gagne autant qu’en bossant` | question | rsa-smic (forte) | 8/8 |
-| 140 | `question:Mélenchon gueule tout le temps` | question | melenchon-crie (forte) | 8/8 |
-| 141 | `question:Le prix du pain au Moyen Âge` | question | non couvert | 8/8 |
-| 142 | `question:Les extraterrestres contrôlent la Banque centrale` | question | non couvert | 8/8 |
-| 143 | `question:La laïcité interdit les signes religieux dans la rue` | question | laicite-loi-1905 (forte) | 8/8 |
-| 144 | `question:Les chômeurs profitent du système` | question | chomeurs-travailler (partielle) | 8/8 |
-| 145 | `facultatif-0` | facultatif | factuelle/question · valeurs/question | 8/8 |
-| 146 | `facultatif-1` | facultatif | factuelle/question · valeurs/question | 8/8 |
-| 147 | `facultatif-2` | facultatif | valeurs/preoccupation · valeurs/preoccupation | 8/8 |
-| 148 | `facultatif-3` | facultatif | factuelle/question · factuelle/question | 8/8 |
-| 149 | `facultatif-4` | facultatif | factuelle/question · valeurs/question | 8/8 |
-| 150 | `facultatif-5` | facultatif | factuelle/fait · factuelle/question | 8/8 |
+| 129 | `etrangers-prisons/neutre` | profil | factuelle/question · valeurs/question | 8/8 |
+| 130 | `etrangers-prisons/chiffres` | profil | factuelle/fait · factuelle/question | 8/8 |
+| 131 | `etrangers-prisons/mefiant` | profil | factuelle/fait · valeurs/question | 8/8 |
+| 132 | `etrangers-prisons/braque` | profil | valeurs/reformulation · valeurs/reformulation | 8/8 |
+| 133 | `etrangers-prisons/confrontation` | profil | factuelle/fait · factuelle/fait | 8/8 |
+| 134 | `etrangers-prisons/vecu` | profil | valeurs/vecu · valeurs/vecu | 8/8 |
+| 135 | `etrangers-prisons/hesitant` | profil | factuelle/fait · valeurs/question | 8/8 |
+| 136 | `etrangers-prisons/patriote` | profil | historique/concession · historique/concession | 8/8 |
+| 137 | `expulser-tous-etrangers-condamnes/neutre` | profil | factuelle/question · valeurs/question | 8/8 |
+| 138 | `expulser-tous-etrangers-condamnes/chiffres` | profil | factuelle/fait · factuelle/question | 8/8 |
+| 139 | `expulser-tous-etrangers-condamnes/mefiant` | profil | factuelle/fait · valeurs/question | 8/8 |
+| 140 | `expulser-tous-etrangers-condamnes/braque` | profil | valeurs/reformulation · valeurs/reformulation | 8/8 |
+| 141 | `expulser-tous-etrangers-condamnes/confrontation` | profil | factuelle/fait · factuelle/fait | 8/8 |
+| 142 | `expulser-tous-etrangers-condamnes/vecu` | profil | valeurs/vecu · valeurs/vecu | 8/8 |
+| 143 | `expulser-tous-etrangers-condamnes/hesitant` | profil | factuelle/fait · valeurs/question | 8/8 |
+| 144 | `expulser-tous-etrangers-condamnes/patriote` | profil | historique/concession · historique/concession | 8/8 |
+| 145 | `impots-assistanat/mefiant/truquees+preuves+ecoute+ecoute` | echange | Elle doute des chiffres : explique leur fabrication → Elle demande une source : montre-la, avec la méthode → Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix | 8/8 |
+| 146 | `rsa-smic/braque/braque+braque` | echange | Elle s’est braquée : on ralentit → Elle se braque encore : propose une pause | 8/8 |
+| 147 | `delinquance-partout/securitaire/causes+solution+concede` | echange | D’accord sur le constat, pas sur les causes → D’accord sur le problème, pas sur la solution → Elle a reconnu un point : consolide sans triompher | 8/8 |
+| 148 | `chomeurs-travailler/confrontation/preuves+diversion+diversion` | echange | Elle demande une source : montre-la, avec la méthode → Elle a changé de sujet → Elle change encore de sujet | 8/8 |
+| 149 | `lfi-antisemite/patriote/hesite+ecoute+fin` | echange | Elle hésite : propose des pistes, pas une conclusion → Elle écoute : un élément de plus, pas dix → La discussion est terminée | 8/8 |
+| 150 | `electricite-nucleaire-renouvelables/chiffres/ecoute+ecoute+ecoute+ecoute+ecoute` | echange | Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix → Tous les faits de la fiche ont été présentés | 8/8 |
+| 151 | `immigres-aides/vecu/truquees+causes+concede+fin` | echange | Elle doute des chiffres : explique leur fabrication → D’accord sur le constat, pas sur les causes → Elle a reconnu un point : consolide sans triompher → La discussion est terminée | 8/8 |
+| 152 | `securite-sociale-1945/parent_repas/braque+hesite` | echange | Elle s’est braquée : on ralentit → Elle hésite : propose des pistes, pas une conclusion | 8/8 |
+| 153 | `question:Les impôts servent à payer les assistés` | question | impots-assistanat (forte) | 8/8 |
+| 154 | `question:la police tue` | question | lfi-contre-police (forte) | 8/8 |
+| 155 | `question:Avec le RSA on gagne autant qu’en bossant` | question | rsa-smic (forte) | 8/8 |
+| 156 | `question:Mélenchon gueule tout le temps` | question | melenchon-crie (forte) | 8/8 |
+| 157 | `question:Le prix du pain au Moyen Âge` | question | non couvert | 8/8 |
+| 158 | `question:Les extraterrestres contrôlent la Banque centrale` | question | non couvert | 8/8 |
+| 159 | `question:La laïcité interdit les signes religieux dans la rue` | question | laicite-loi-1905 (forte) | 8/8 |
+| 160 | `question:Les chômeurs profitent du système` | question | chomeurs-travailler (partielle) | 8/8 |
+| 161 | `facultatif-0` | facultatif | factuelle/question · valeurs/question | 8/8 |
+| 162 | `facultatif-1` | facultatif | factuelle/question · valeurs/question | 8/8 |
+| 163 | `facultatif-2` | facultatif | valeurs/preoccupation · valeurs/preoccupation | 8/8 |
+| 164 | `facultatif-3` | facultatif | factuelle/question · factuelle/question | 8/8 |
+| 165 | `facultatif-4` | facultatif | factuelle/question · valeurs/question | 8/8 |
+| 166 | `facultatif-5` | facultatif | factuelle/fait · factuelle/question | 8/8 |
 
 ## Ce qui reste à tester
 

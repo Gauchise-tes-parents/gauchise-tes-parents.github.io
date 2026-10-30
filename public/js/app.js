@@ -4,6 +4,7 @@ import { store } from './store.js';
 import { kb } from './kbstore.js';
 import { nettoyerProfil, profilSimple, resumeProfil, strategieProfil } from './profile.js';
 import { composer, questionsUtiles } from './composer.js';
+import { suggestionsPour } from './suggestions.js';
 import { nouvelleConversation, repondreConversation, enregistrerTour, analyserMessage, terminerConversation, basculerSujet, revenirSujetInitial, corrigerHypotheses, chargeServeur, phaseConversation, CV_RACCOURCIS, CV_TYPES } from './conversation.js';
 import { kbMatch, kbFreshness, kbNormalize, kbDataAge } from './kbsearch.js';
 import { LOGO_SVG } from './logo-data.js';
@@ -286,6 +287,7 @@ function setProfil(ctx, p) {
   const box = document.querySelector(`[data-interloc="${ctx}"]`);
   if (box) box.outerHTML = interlocuteurForm(clean, ctx);
   if (ctx === 'compo') refreshCompo();
+  if (ctx === 'wizard') rafraichirSugg('wizard', 'affirmation');
 }
 
 // ---------------------------------------------------------------- parcours « Débat »
@@ -315,6 +317,44 @@ function voletPicker(w) {
   }).join('')}</div>`;
 }
 
+// ── Suggestions d'affirmations adaptées au parcours (bibliothèque locale, hors ligne) ──
+// L'état reste en mémoire : les suggestions déjà vues ne reviennent qu'après avoir épuisé la liste.
+const suggEtat = {};
+function suggCtx(key) {
+  if (key === 'express') return { volet: state.express.volet, sousTheme: null, mode: state.express.mode, interlocuteur: {} };
+  const w = state.wizard;
+  return { volet: w.volet, sousTheme: w.sousTheme, mode: w.mode, interlocuteur: w.interlocuteur && !w.interlocuteur.inconnu ? w.interlocuteur : {} };
+}
+function suggTirage(key, { renouveler = false } = {}) {
+  const ctx = suggCtx(key);
+  const cle = JSON.stringify([ctx.volet, ctx.sousTheme, ctx.mode, ctx.interlocuteur]);
+  let e = suggEtat[key];
+  if (!e || e.cle !== cle) e = suggEtat[key] = { cle, vues: [], actuelles: null };
+  if (!e.actuelles || renouveler) {
+    const r = suggestionsPour({ ...ctx, vues: e.vues }, 3);
+    if (r.cycle) e.vues = [];
+    e.actuelles = r.suggestions;
+    e.total = r.total;
+    for (const x of r.suggestions) if (!e.vues.includes(x.texte)) e.vues.push(x.texte);
+  }
+  return e;
+}
+function suggestionsHtml(key, cible) {
+  const e = suggTirage(key);
+  if (!e.actuelles?.length) return '';
+  const couverte = (t) => (kb.fiches?.length ? kbMatch(kb.fiches.filter((f) => f.type !== 'science'), t)[0]?.force === 'forte' : false);
+  return `<div class="sugg-box" id="sugg-${key}">
+    <p class="field-label">Souvent entendu, à examiner :</p>
+    <div class="chips sugg-chips">${e.actuelles.map((x) => `<button type="button" class="chip sugg-chip" data-example-fill="${h(x.texte)}" data-sugg-cible="${cible}">« ${h(x.texte)} »${couverte(x.texte) ? '<span class="sugg-tag">fiche vérifiée</span>' : ''}</button>`).join('')}</div>
+    <div class="sugg-actions"><button type="button" class="link-btn" data-sugg-autres="${key}">Autres affirmations</button><span class="hint">${e.total} suggestion${e.total > 1 ? 's' : ''} pour ce sujet · formulations génériques, attribuées à personne</span></div>
+  </div>`;
+}
+function rafraichirSugg(key, cible, opts) {
+  const box = document.getElementById(`sugg-${key}`);
+  if (opts?.renouveler) suggTirage(key, { renouveler: true });
+  if (box) box.outerHTML = suggestionsHtml(key, cible);
+}
+
 function wizardBody(w) {
   if (w.step === 1) {
     return `<h1 class="step-title">Quel est ton objectif ?</h1>
@@ -331,7 +371,7 @@ function wizardBody(w) {
       <textarea id="affirmation" rows="4" maxlength="${LIMITS.claimMax}" placeholder="Écris ici l’affirmation à vérifier…">${h(w.affirmation)}</textarea>
       <span class="field-count" id="aff-count">${w.affirmation.length} / ${LIMITS.claimMax}</span>
     </label>
-    ${v.exemples.length ? `<p class="field-label">Souvent entendu, à examiner :</p><div class="chips">${v.exemples.map((c) => `<button type="button" class="chip" data-example-fill="${h(c)}">« ${h(c)} »</button>`).join('')}</div>` : ''}
+    ${suggestionsHtml('wizard', 'affirmation')}
     <details class="tune" ${w.interlocuteur && !w.interlocuteur.inconnu ? 'open' : ''}>
       <summary>Décrire la personne en face (facultatif)</summary>
       ${interlocuteurForm(w.interlocuteur, 'wizard')}
@@ -377,6 +417,7 @@ function viewExpress() {
           <select id="express-volet">${VOLETS.map((v) => `<option value="${v.id}" ${e.volet === v.id ? 'selected' : ''}>${h(v.label)}</option>`).join('')}</select></label>
         <label class="field"><span class="field-label">Ce qu’il vient de dire</span>
           <textarea id="express-text" rows="3" maxlength="${LIMITS.claimMax}" placeholder="Écris ou colle l’affirmation…">${h(e.affirmation)}</textarea></label>
+        ${suggestionsHtml('express', 'express-text')}
         <p class="form-error" id="express-error" role="alert"></p>
         <div class="action-bar"><button type="submit" class="btn btn-go btn-grow">Sortir une réplique</button></div>
       </form>
@@ -1160,7 +1201,7 @@ function viewThemes() {
   return `<section class="section">
     <div class="wrap wrap--narrow">
       <h1 class="page-title">Thématiques</h1>
-      <p class="section-lede">Quatre rubriques à la une, puis dix grands volets. Choisis-en un pour voir ses fiches ou préparer un débat.</p>
+      <p class="section-lede">Cinq rubriques à la une, puis dix grands volets. Choisis-en un pour voir ses fiches ou préparer un débat.</p>
       <h2 class="section-title small">Rubriques</h2>
       <div class="rub-list">${RUBRIQUES.map((r) => `<a class="rub-card rub-card--${r.id}" href="#/rubriques/${r.id}">
         <span class="rub-name">${h(r.label)}</span>
@@ -1599,7 +1640,7 @@ function bindWizardInputs() {
 function bindExpressInputs() {
   const e = state.express;
   $('#express-text')?.addEventListener('input', (ev) => { e.affirmation = ev.target.value; persist(); });
-  $('#express-volet')?.addEventListener('change', (ev) => { e.volet = ev.target.value; persist(); });
+  $('#express-volet')?.addEventListener('change', (ev) => { e.volet = ev.target.value; persist(); rafraichirSugg('express', 'express-text'); });
 }
 
 function rerenderWizard() {
@@ -1811,10 +1852,23 @@ document.addEventListener('click', async (ev) => {
     return;
   }
   if (t.dataset.exampleFill) {
+    if (t.dataset.suggCible === 'express-text') {
+      state.express.affirmation = t.dataset.exampleFill;
+      $('#express-text').value = state.express.affirmation;
+      $('#express-text').focus();
+      persist();
+      return;
+    }
     w.affirmation = t.dataset.exampleFill;
     $('#affirmation').value = w.affirmation;
     $('#aff-count').textContent = `${w.affirmation.length} / ${LIMITS.claimMax}`;
     persist();
+    return;
+  }
+  if (t.dataset.suggAutres) {
+    const key = t.dataset.suggAutres;
+    rafraichirSugg(key, key === 'express' ? 'express-text' : 'affirmation', { renouveler: true });
+    document.querySelector(`#sugg-${key} .sugg-chip`)?.focus();
     return;
   }
   if (t.dataset.goto) { w.step = Number(t.dataset.goto); persist(); rerenderWizard(); return; }
@@ -1822,6 +1876,7 @@ document.addEventListener('click', async (ev) => {
     state.express.mode = t.dataset.expressMode;
     $$('[data-express-mode]').forEach((b) => { const on = b === t; b.classList.toggle('is-on', on); b.setAttribute('aria-checked', String(on)); });
     persist();
+    rafraichirSugg('express', 'express-text');
     return;
   }
 

@@ -9,7 +9,7 @@ import { extractNumbers } from '../../server/engine/util.js';
 export const FICHES_TEST = [
   'impots-assistanat', 'rsa-smic', 'chomeurs-travailler', 'delinquance-partout', 'justice-laxiste-prison', 'immigration-chiffres-definitions',
   'immigres-aides', 'electricite-nucleaire-renouvelables', 'dividendes-salaires', 'securite-sociale-1945', 'front-populaire-1936',
-  'laicite-loi-1905', 'lfi-antisemite', 'melenchon-crie', 'gauche-laicite-debats', 'commune-paris-1871',
+  'laicite-loi-1905', 'lfi-antisemite', 'melenchon-crie', 'gauche-laicite-debats', 'commune-paris-1871', 'etrangers-prisons', 'expulser-tous-etrangers-condamnes',
 ];
 
 export const PROFILS_TEST = {

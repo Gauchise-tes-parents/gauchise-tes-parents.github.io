@@ -29,6 +29,7 @@ export const CV_TYPES = {
   partiel: 'Désaccord partiel',
   reconnaissance: 'Reconnaît un point',
   sujet: 'Change de sujet',
+  deplacement: 'Déplace la discussion vers un autre argument',
   provocation: 'Provocation',
   incomprehension: 'Incompréhension',
   hesitation: 'Hésitation',
@@ -54,7 +55,7 @@ export const CV_RACCOURCIS = [
 const CV_FICHE_SCIENCE = {
   source: 'sci-desinformation-confiance', chiffre: 'sci-desinformation-confiance', objection: 'sci-identite-sociale', objection_connue: 'sci-persuasion-modeste',
   partiel_causes: 'sci-entretien-motivationnel', partiel_solution: 'sci-valeurs-morales', partiel: 'sci-entretien-motivationnel', reconnaissance: 'sci-dissonance',
-  sujet: 'sci-deliberation', provocation: 'sci-polarisation-groupe', incomprehension: 'sci-autonomie', hesitation: 'sci-autonomie', evolution: 'sci-persuasion-modeste',
+  sujet: 'sci-deliberation', deplacement: 'sci-deliberation', provocation: 'sci-polarisation-groupe', incomprehension: 'sci-autonomie', hesitation: 'sci-autonomie', evolution: 'sci-persuasion-modeste',
   essoufflement: 'sci-reactance', conclusion: 'sci-autonomie', braque: 'sci-reactance', desaccord: 'sci-raisonnement-motive', aide: 'sci-entretien-motivationnel', autre: 'sci-raisonnement-motive',
 };
 
@@ -74,6 +75,8 @@ const CV_RE = {
   hesitation: /(je (ne )?sais pas|peut[- ]etre|faut voir|pas sur|j hesite|ca depend|mouais|je suis partage|pourquoi pas)/,
   essoufflement: /^\W*(ouais|ouai|ouaip|bof|ok|okay|mouais|si tu veux|bref|bon|m+h*|hm+|pf+|on verra|c est ca|oui oui|ah)\W*$/,
   desaccord: /(faux|pas vrai|n importe quoi|pas d accord|\bnon\b|mensonge|tu racontes|c est pas ca|ca ne prouve rien|ca prouve rien|propagande|foutaise|j y crois pas|je n y crois pas|tu reves|naif)/,
+  // rejet explicite de l'argument précédent : « peu importe les chiffres, … »
+  rebond: /(peu importe|qu importe|on s en fout|on s en fiche|je m en fiche|je m en fous|osef|la n est pas la question|le probleme c est pas|le vrai probleme|meme si|admettons mais|et alors|ca change rien|ca ne change rien)/,
   sujet: /(et (l |les |le |la )\w+ alors|parlons (de|plutot)|de toute facon|au fait|et sinon|et (puis )?(l |les )immigr|et (les|le) (impots|chomage|retraites|police))/,
 };
 
@@ -82,10 +85,10 @@ const cvStemSet = (t) => new Set(kbTokens(t).map((x) => x.slice(0, 6)));
 const cvSimilarite = (a, b) => {
   const A = cvStemSet(a);
   const B = cvStemSet(b);
-  if (!A.size || !B.size) return { communs: 0, ratio: 0 };
+  if (!A.size || !B.size) return { communs: 0, ratio: 0, couverture: 0 };
   let n = 0;
   for (const x of A) if (B.has(x)) n += 1;
-  return { communs: n, ratio: n / Math.min(A.size, B.size) };
+  return { communs: n, ratio: n / Math.min(A.size, B.size), couverture: n / Math.max(A.size, B.size) };
 };
 const cvPremierePhrase = (t) => { const m = String(t || '').match(/^.*?[.!?](\s|$)/); return (m ? m[0] : String(t || '')).trim(); };
 const cvCle = (ficheId, i) => `${ficheId}#${i}`;
@@ -150,6 +153,8 @@ export function corrigerHypotheses(conv, profil) {
 
 const cvDernierArgument = (conv) => conv.memoire.arguments[conv.memoire.arguments.length - 1] || null;
 const cvFiche = (lib, id) => lib.find((f) => f.id === id) || null;
+/** Deux fiches du même domaine : même volet et même sous-thème, ou une rubrique commune. */
+const cvMemeDomaine = (a, b) => Boolean(a && b && a.volet === b.volet && ((a.sous_theme && a.sous_theme === b.sous_theme) || (a.rubriques || []).some((r) => (b.rubriques || []).includes(r))));
 
 // ─── Analyse d'un propos rapporté ─────────────────────────────────────────
 /**
@@ -171,8 +176,8 @@ export function analyserMessage(conv, message, { raccourci = null, bibliotheque 
       const f = cvFiche(bibliotheque, id);
       (f?.contre_arguments || []).forEach((o, k) => {
         const s = cvSimilarite(brut, o.objection);
-        if ((s.communs >= 2 && s.ratio >= 0.3) || (s.communs >= 1 && s.ratio >= 0.6)) {
-          if (!meilleure || s.ratio > meilleure.ratio) meilleure = { fiche_id: f.id, index: k, ratio: s.ratio };
+        if (s.communs >= 3 || (s.communs >= 2 && s.couverture >= 0.4)) {
+          if (!meilleure || s.couverture > meilleure.couv) meilleure = { fiche_id: f.id, index: k, ratio: s.ratio, couv: s.couverture };
         }
       });
     }
@@ -190,8 +195,9 @@ export function analyserMessage(conv, message, { raccourci = null, bibliotheque 
     if (best) res.fait_vise = best.k;
   }
   // nouveau sujet : une autre fiche correspond nettement
+  const apresRebond = CV_RE.rebond.test(t) ? brut.replace(/^.*?(peu importe|qu['’]importe|on s['’]en (fout|fiche)|je m['’]en (fiche|fous)|osef|même si[^,]*,|admettons,? mais|et alors|ça (ne )?change rien)[^,.;:!?]*[,.;:!?]?/i, '') : brut;
   if (brut.trim().length > 8) {
-    const m = kbMatch(thematiques, brut);
+    const m = kbMatch(thematiques, apresRebond.trim().length > 8 ? apresRebond : brut);
     const top = m.find((x) => x.fiche.id !== conv.courante);
     const courTop = m.find((x) => x.fiche.id === conv.courante);
     const indice = CV_RE.sujet.test(t);
@@ -206,6 +212,8 @@ export function analyserMessage(conv, message, { raccourci = null, bibliotheque 
     res.type = precType === 'objection' ? 'objection_connue' : precType; ind('relance de la même demande');
   } else if (!brut.trim()) {
     res.type = 'aide';
+  } else if (CV_RE.rebond.test(t) && res.fiche_sujet) {
+    res.type = 'deplacement'; ind('argument précédent écarté au profit d’un autre');
   } else if (CV_RE.provocation.test(t) || (brut.replace(/[^A-ZÀ-Ý]/g, '').length > 12 && brut.replace(/[^A-ZÀ-Ý]/g, '').length / brut.replace(/[^A-Za-zÀ-ÿ]/g, '').length > 0.6) || /!!!/.test(brut)) {
     res.type = 'provocation'; ind('ton provocateur ou insultant');
   } else if (CV_RE.braque.test(t)) {
@@ -231,9 +239,13 @@ export function analyserMessage(conv, message, { raccourci = null, bibliotheque 
     res.type = 'essoufflement'; ind('réponse très courte');
   } else if (CV_RE.hesitation.test(t)) {
     res.type = 'hesitation'; ind('hésitation exprimée');
+  } else if (courante && cvSimilarite(brut, courante.affirmation).couverture >= 0.5 && cvSimilarite(brut, courante.affirmation).couverture >= (meilleure?.couv || 0)) {
+    res.type = 'desaccord'; res.insiste = true; ind('reprend l’affirmation de départ');
   } else if (meilleure) {
     res.type = conv.memoire.objections.some((o) => o.fiche_id === meilleure.fiche_id && o.index === meilleure.index && o.traitee) ? 'objection_connue' : 'objection';
     ind('objection répertoriée dans la bibliothèque');
+  } else if (res.fiche_sujet && cvMemeDomaine(courante, cvFiche(bibliotheque, res.fiche_sujet))) {
+    res.type = 'deplacement'; ind('nouvel argument dans le même domaine');
   } else if (res.fiche_sujet || CV_RE.sujet.test(t)) {
     res.type = 'sujet'; ind('nouveau sujet');
   } else if (CV_RE.desaccord.test(t)) {
@@ -241,7 +253,7 @@ export function analyserMessage(conv, message, { raccourci = null, bibliotheque 
   } else {
     res.type = 'autre'; ind('argument non répertorié');
   }
-  if (meilleure && ['desaccord', 'autre', 'partiel', 'sujet', 'chiffre'].includes(res.type) && res.type !== 'chiffre') {
+  if (meilleure && !res.insiste && ['desaccord', 'autre', 'partiel', 'sujet'].includes(res.type)) {
     res.secondaires.push(res.type);
     res.type = conv.memoire.objections.some((o) => o.fiche_id === meilleure.fiche_id && o.index === meilleure.index && o.traitee) ? 'objection_connue' : 'objection';
   }
@@ -465,6 +477,21 @@ function cvConstruire(conv, analyse, lib) {
       }
       break;
     }
+    case 'deplacement': {
+      // la fiche courante a déjà été basculée vers le nouvel argument (voir repondreConversation)
+      const ancienne = analyse.depuis ? cvFiche(lib, analyse.depuis) : null;
+      const x = avecFait(conv.mode === 'gagner' ? 'chiffre' : null, { voisine: false });
+      const court = A.court || cvPremierePhrase(courante.resume);
+      out.texte = cvDire(conv,
+        `Tu changes d’argument : on ne parle plus de « ${ancienne?.affirmation || 'ce point'} », mais de « ${courante.affirmation} ». Sur ce nouveau point : ${court}`,
+        `D’accord, c’est une autre question : « ${courante.affirmation} ». Elle mérite une vraie réponse. ${court}`);
+      if (x?.repli) out.preuve = null;
+      out.question = cvProchaineQuestion(conv, lib);
+      out.strategie = `L’interlocuteur a déplacé la discussion. Ne reprends pas l’argument précédent : réponds sur le nouveau terrain (${courante.sous_theme || courante.affirmation}), avec les éléments propres à ce sujet, puis pose une question.${courante.objections_legitimes?.length ? ` Point légitime à reconnaître : ${courante.objections_legitimes[0]}` : ''}`;
+      if (ancienne) out.options = [{ action: 'basculer', fiche_id: ancienne.id, label: `Revenir à « ${ancienne.affirmation} »` }];
+      out.fiche_nouvelle = { id: courante.id, affirmation: courante.affirmation };
+      break;
+    }
     case 'provocation': {
       const x = avecFait('court', { voisine: false });
       out.texte = cvDire(conv,
@@ -573,6 +600,10 @@ export function repondreConversation(conv, message, { raccourci = null, biblioth
     return { doublon: true, message: 'Tu viens d’envoyer exactement le même message. Si c’est bien une nouvelle réaction, confirme.' };
   }
   const analyse = analyserMessage(conv, msg, { raccourci, bibliotheque });
+  if (analyse.type === 'deplacement' && analyse.fiche_sujet) {
+    analyse.depuis = conv.courante;
+    basculerSujet(conv, analyse.fiche_sujet);
+  }
   let inter = cvConstruire(conv, analyse, bibliotheque);
   // anti-répétition stricte
   let garde = 0;

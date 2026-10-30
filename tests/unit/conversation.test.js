@@ -75,7 +75,8 @@ describe('conversation continue (moteur local)', () => {
     const { conv, tours } = jouer('impots-assistanat', ['Et l’immigration alors, ça coûte une fortune', 'De toute façon les chômeurs ne veulent pas travailler', 'Et la délinquance augmente partout']);
     assert.ok(tours.every((t) => t.analyse.type === 'sujet'), tours.map((t) => t.analyse.type).join());
     const cibles = tours.map((t) => t.analyse.fiche_sujet);
-    assert.deepEqual(cibles, ['immigration-chiffres-definitions', 'chomeurs-travailler', 'delinquance-partout']);
+    assert.equal(lib.find((f) => f.id === cibles[0]).volet, 'immigration');
+    assert.deepEqual(cibles.slice(1), ['chomeurs-travailler', 'delinquance-partout']);
     assert.ok(tours.every((t) => t.intervention.options.some((o) => o.action === 'basculer') && t.intervention.options.some((o) => o.action === 'rester')));
     basculerSujet(conv, 'chomeurs-travailler');
     const r = repondreConversation(conv, 'T’as une source ?', { bibliotheque: lib });

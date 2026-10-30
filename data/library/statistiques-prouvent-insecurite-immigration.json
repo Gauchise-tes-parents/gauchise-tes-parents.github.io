@@ -1,0 +1,124 @@
+{
+  "id": "statistiques-prouvent-insecurite-immigration",
+  "type": "idee_recue",
+  "affirmation": "Les statistiques de délinquance démontrent que l'immigration augmente l'insécurité.",
+  "volet": "immigration",
+  "sous_theme": "Immigration, délinquance et prisons",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "statistiques",
+    "démontrent",
+    "prouvent",
+    "immigration augmente",
+    "insécurité",
+    "corrélation",
+    "causalité",
+    "mis en cause",
+    "chiffres de la délinquance"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les statistiques montrent une association : les étrangers sont surreprésentés parmi les mis en cause (17,7 % pour 7 % de la population en 2019). Elles ne démontrent pas une causalité : elles ne contrôlent ni l'âge, ni le sexe, ni la situation sociale, et elles comptent les auteurs présumés, pas les coupables.",
+  "contexte": "Le verbe « démontrer » est central. Une statistique descriptive peut établir un écart ; seule une étude conçue pour cela peut établir une cause.",
+  "explication": "Les statistiques de police enregistrent des procédures et des personnes mises en cause. Elles dépendent des plaintes, des contrôles et des priorités des services. Elles décrivent qui est mis en cause, pas pourquoi. Pour parler de cause, il faut comparer des groupes semblables sur tout le reste, ou utiliser des méthodes adaptées.",
+  "faits": [
+    {
+      "fait": "En 2019, les étrangers représentent 18 % des mis en cause pour 7 % des résidents.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "C'est une association statistique, exacte.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "18 % / 7 %"
+    },
+    {
+      "fait": "Les mis en cause sont des auteurs présumés, non des condamnés, et les procédures enregistrées ne reflètent que partiellement les infractions commises.",
+      "periode": "2019",
+      "perimetre": "Méthodologie",
+      "explication": "Le chiffre dépend aussi de l'activité des services et des plaintes.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La nationalité des mis en cause ne peut pas toujours être vérifiée.",
+      "periode": "2019",
+      "perimetre": "Méthodologie",
+      "explication": "Précaution supplémentaire avant toute conclusion.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Une étude italienne trouve une corrélation entre immigration et délinquance, mais un effet causal limité aux vols avec violence et non significatif sur la délinquance globale.",
+      "periode": "1990-2003",
+      "perimetre": "Italie",
+      "explication": "La corrélation et la cause ne coïncident pas forcément.",
+      "source": 2,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les statistiques montrent une surreprésentation, pas une cause : elles ne tiennent compte ni de l'âge, ni du sexe, ni de la pauvreté, et comptent des suspects, pas des coupables.",
+    "moyen": "Le chiffre est vrai : en 2019, les étrangers sont 18 % des mis en cause pour 7 % de la population. Mais ce chiffre décrit, il ne démontre pas. Il ne compare pas des gens du même âge, du même sexe et du même milieu. Il compte des suspects, pas des condamnés. Et il dépend des plaintes et des contrôles. Pour dire « l'immigration augmente l'insécurité », il faut des études conçues pour isoler une cause ; celles qui existent trouvent des effets limités ou nuls sur la délinquance globale.",
+    "detaille": "Il y a une différence entre montrer et démontrer.\n\nCe que les statistiques montrent : en 2019, les étrangers représentaient 18 % des personnes mises en cause par la police et la gendarmerie, alors qu'ils formaient 7 % de la population. Cette surreprésentation est exacte.\n\nCe qu'elles ne démontrent pas : que la nationalité ou l'immigration en soit la cause. Une comparaison brute ne tient pas compte de l'âge et du sexe (la délinquance enregistrée est surtout le fait d'hommes jeunes), de la pauvreté, du lieu de résidence, de la précarité administrative. Elle compte des auteurs présumés, pas des coupables, et dépend des plaintes et de l'activité des services. La nationalité elle-même n'est pas toujours vérifiable.\n\nPour établir une cause, les chercheurs utilisent des méthodes spécifiques. Une étude de référence sur l'Italie trouve une corrélation, mais un effet causal limité aux vols avec violence, et nul sur la délinquance globale. D'autres études trouvent d'autres résultats selon les contextes.\n\nConclusion honnête : la surreprésentation est un fait à prendre au sérieux ; la causalité, elle, n'est pas démontrée par ces statistiques.",
+    "empathie": "Le chiffre que tu cites est vrai, et c'est normal qu'il fasse réagir. Simplement, un chiffre peut montrer un écart sans en expliquer la cause. Si on veut des solutions efficaces, il faut savoir ce qui produit vraiment la délinquance."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les chiffres parlent d'eux-mêmes.",
+      "reponse": "Ils disent qui est mis en cause, pas pourquoi. Les hommes jeunes sont aussi très surreprésentés : personne n'en conclut que « être un homme » est la cause unique de la délinquance."
+    },
+    {
+      "objection": "Même en tenant compte de l'âge, l'écart reste.",
+      "reponse": "C'est possible pour certaines infractions ; les sources citées ne publient pas ce calcul. Même un écart restant ne serait pas une preuve de cause : il resterait la pauvreté, le logement, le statut administratif, les contrôles."
+    }
+  ],
+  "questions": [
+    "Pour toi, quelle différence y a-t-il entre « les étrangers sont plus souvent mis en cause » et « l'immigration crée l'insécurité » ?",
+    "Quelle information te convaincrait que c'est une cause, et pas seulement une coïncidence ?"
+  ],
+  "limites": [
+    "Les sources citées ne publient pas de comparaison à structure d'âge et de sexe identique.",
+    "Données détaillées par nationalité : 2019."
+  ],
+  "sources": [
+    {
+      "titre": "Dossier 1 : Depuis 2010, les phénomènes délinquants se transforment tandis que le sentiment d'insécurité reste globalement stable (Insee Références « Sécurité et société »)",
+      "organisme": "Insee / SSMSI",
+      "date_publication": "9 décembre 2021",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/6008710/INSEE-FP-IREF-SECURITE_DOSSIER1.pdf",
+      "passage": "En 2019, les étrangers représentent 18 % des mis en cause alors qu'ils forment 7 % des personnes résidant en France ; 9 % des victimes d'atteintes personnelles sont étrangères (16 % pour les violences sexuelles). Les mis en cause sont des auteurs présumés, non des condamnés ; toutes les victimes ne portent pas plainte.",
+      "pertinence": "Met en regard auteurs présumés, victimes et population.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Auteurs selon la nationalité (Insee Références « Sécurité et société », données SSMSI)",
+      "organisme": "Insee / SSMSI (ministère de l'Intérieur)",
+      "date_publication": "9 décembre 2021",
+      "url": "https://www.insee.fr/fr/statistiques/5763585",
+      "passage": "Part des étrangers parmi les personnes mises en cause en 2019 (hors infractions routières) : ensemble 17,7 % ; atteintes à la personne 13,1 % ; infractions à caractère sexuel 13,5 % ; vols 26,6 % ; destructions et dégradations 10,8 % ; stupéfiants 11,5 %. Avertissement : la nationalité ne peut pas toujours être vérifiée faute de pièce d'identité ; nationalité non renseignée pour 11 % des auteurs traités par les parquets. Part passée de 16 % en 2016 à 18 % en 2019.",
+      "pertinence": "Seule série détaillée publiée par nationalité et par type d'infraction.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Do immigrants cause crime? (document de travail ; publié ensuite dans le Journal of the European Economic Association, 2012)",
+      "organisme": "Milo Bianchi, Paolo Buonanno, Paolo Pinotti (Paris School of Economics)",
+      "date_publication": "2008",
+      "url": "https://www.parisschoolofeconomics.eu/en/publications-hal/do-immigrants-cause-crime",
+      "passage": "Provinces italiennes, 1990-2003 : la population immigrée est corrélée aux atteintes aux biens et au taux global de délinquance ; avec une méthode de variables instrumentales, l'immigration n'augmente que les vols avec violence (robberies), et l'effet sur le taux global de délinquance n'est pas statistiquement différent de zéro.",
+      "pertinence": "Étude universitaire distinguant corrélation et causalité.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles séries statistiques ou études causales.",
+  "objections_legitimes": [
+    "La surreprésentation des étrangers parmi les mis en cause est un fait statistique exact."
+  ]
+}

@@ -25,7 +25,7 @@ export const MODES = {
 export const VOLETS = [
   {
     id: 'immigration', label: 'Immigration, intégration et discriminations', court: 'Immigration',
-    sousThemes: ['Immigration et démographie', 'Immigration de travail', 'Asile et réfugiés', 'Nationalité et accès aux droits', 'Intégration', 'Économie et immigration', 'Immigration et finances publiques', 'Délinquance et immigration', 'Logement', 'Discriminations', 'Racisme', 'Comparaisons européennes', 'Histoire des migrations'],
+    sousThemes: ['Immigration et démographie', 'Immigration et travail', 'Immigration et aides sociales', 'Immigration et asile', 'Réfugiés et statuts administratifs', 'Nationalité et accès aux droits', 'Intégration', 'Économie et immigration', 'Immigration et finances publiques', 'Immigration et délinquance', 'Immigration, délinquance et prisons', 'Expulsion des étrangers condamnés', 'Logement', 'Discriminations', 'Racisme', 'Comparaisons européennes', 'Histoire des migrations'],
     exemples: ['Les immigrés touchent plus d’aides que les Français.', 'L’immigration coûte une fortune à la France.'],
   },
   {
@@ -136,6 +136,11 @@ export const RUBRIQUES = [
     id: 'melenchon-lfi', label: '« Mélenchon crie, il est agressif, il est dangereux »', court: 'Mélenchon et LFI',
     description: "Les critiques fréquentes adressées à Jean-Luc Mélenchon et à La France insoumise, chacune en cinq parties : le reproche, les faits vérifiables, la réponse, les objections légitimes et une formulation simple à table.",
     avertissement: "Ces fiches ne blanchissent personne : elles distinguent le style, le fond et les comportements légitimement critiquables, et signalent ce qui reste discutable.",
+  },
+  {
+    id: 'immigration-prisons', label: 'Immigration, délinquance et prisons', court: 'Immigration et prisons',
+    description: "« Les immigrés remplissent les prisons », « il faut renvoyer les criminels étrangers » : chiffres de la population carcérale, différence entre étrangers et immigrés, mis en cause, condamnés et détenus, et droit de l'expulsion (OQTF, expulsion, interdiction du territoire, protections, exécution).",
+    avertissement: "Ces fiches reconnaissent les chiffres exacts, y compris quand ils dérangent, et distinguent une association statistique d'une cause. Les garanties juridiques y sont expliquées, pas présentées comme une impunité.",
   },
   {
     id: 'science-du-dialogue', label: 'Science du dialogue', court: 'Science du dialogue',

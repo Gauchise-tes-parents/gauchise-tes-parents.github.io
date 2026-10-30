@@ -1,0 +1,118 @@
+{
+  "id": "france-plus-sure-moins-immigres",
+  "type": "idee_recue",
+  "affirmation": "La France serait plus sûre si elle accueillait moins d'immigrés.",
+  "volet": "immigration",
+  "sous_theme": "Immigration, délinquance et prisons",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "plus sûre",
+    "moins d immigrés",
+    "accueillir moins",
+    "réduire l immigration",
+    "sécurité",
+    "causalité",
+    "immigration et criminalité",
+    "études",
+    "insécurité"
+  ],
+  "verdict": "inverifiable",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "C'est une hypothèse causale, pas un constat. Les étrangers sont surreprésentés parmi les mis en cause et les détenus, mais cela ne prouve pas que réduire l'immigration réduirait la délinquance. Une étude de référence sur l'Italie montre une corrélation, mais un effet causal limité aux vols avec violence et un effet global non significatif.",
+  "contexte": "L'affirmation porte sur ce qui se passerait si une politique changeait. Pour y répondre, il faut des études qui isolent l'effet de l'immigration des autres facteurs (âge, pauvreté, urbanisation, conditions d'accueil).",
+  "explication": "Corrélation n'est pas causalité. Les territoires qui attirent les immigrés sont souvent urbains, jeunes et plus touchés par certaines délinquances, pour d'autres raisons. Les économistes utilisent des méthodes (variables instrumentales, expériences naturelles) pour séparer ces effets. Leurs résultats varient selon les pays, les périodes, le statut légal des migrants et le type d'infraction.",
+  "faits": [
+    {
+      "fait": "Dans les provinces italiennes (1990-2003), la population immigrée est corrélée à la délinquance, mais l'effet causal estimé ne porte que sur les vols avec violence ; l'effet sur le taux global de délinquance n'est pas statistiquement différent de zéro.",
+      "periode": "1990-2003",
+      "perimetre": "Provinces italiennes",
+      "explication": "Une corrélation peut disparaître quand on isole la causalité.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "En France, les étrangers représentaient 17,7 % des mis en cause en 2019.",
+      "periode": "2019",
+      "perimetre": "France, mis en cause",
+      "explication": "Même une forte baisse du nombre d'étrangers laisserait la grande majorité de la délinquance inchangée.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "17,7 %"
+    },
+    {
+      "fait": "Les étrangers représentent 24,2 % des détenus au 1er avril 2026.",
+      "periode": "1er avril 2026",
+      "perimetre": "Personnes détenues",
+      "explication": "Surreprésentation réelle, dont les causes ne sont pas établies par ce chiffre.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "24,2 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est une hypothèse, pas un fait : être surreprésenté n'est pas être la cause. Une étude de référence sur l'Italie trouve un effet de l'immigration limité aux vols avec violence, et nul sur la délinquance globale.",
+    "moyen": "Il faut distinguer deux choses. Oui, les étrangers sont surreprésentés parmi les mis en cause et les détenus. Mais « la France serait plus sûre avec moins d'immigrés » suppose une cause. Les études qui cherchent vraiment cet effet trouvent des résultats nuancés : en Italie, par exemple, l'effet causal de l'immigration ne concerne que les vols avec violence, et l'effet sur la délinquance totale n'est pas significatif. Et en France, plus de huit auteurs présumés sur dix sont français.",
+    "detaille": "Cette phrase est une prédiction : elle dit ce qui arriverait si on changeait une politique. Les statistiques actuelles ne suffisent pas à la démontrer.\n\nCe qu'on sait : les étrangers sont surreprésentés parmi les mis en cause (17,7 % en 2019) et parmi les détenus (24,2 % en 2026). Ce qu'on ne sait pas avec ces seuls chiffres : si cette surreprésentation vient de la nationalité ou de facteurs qui l'accompagnent (âge, sexe, pauvreté, logement, isolement, statut administratif précaire).\n\nLes économistes ont étudié cette question. Une étude souvent citée (Bianchi, Buonanno et Pinotti) sur les provinces italiennes trouve une corrélation entre immigration et délinquance ; mais en isolant l'effet causal, seul celui sur les vols avec violence subsiste, et l'effet sur le taux global de délinquance n'est pas statistiquement différent de zéro. D'autres travaux, dans d'autres pays, trouvent des effets différents selon le type de migration, le statut légal et l'accès à l'emploi.\n\nEnfin, l'arithmétique compte : si plus de 80 % des auteurs présumés sont français, réduire l'immigration ne toucherait au mieux qu'une minorité de la délinquance. Les politiques de sécurité qui fonctionnent ciblent les infractions, les lieux et les parcours, quelle que soit la nationalité.",
+    "empathie": "Tu veux qu'on soit plus en sécurité, et je le veux aussi. La question, c'est ce qui marche vraiment. Les études montrent que ce n'est pas si simple que « moins d'immigrés, moins de délits ». Si on se trompe de remède, on n'est pas mieux protégés."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est du bon sens : moins d'étrangers, moins d'étrangers délinquants.",
+      "reponse": "Arithmétiquement, oui pour les étrangers ; mais la délinquance totale dépend surtout des 80 % d'auteurs français et des conditions sociales. Les études qui mesurent l'effet global trouvent souvent un effet faible ou nul."
+    },
+    {
+      "objection": "Une étude italienne ne dit rien de la France.",
+      "reponse": "C'est juste : elle illustre la différence entre corrélation et causalité, elle ne prouve rien pour la France. Mais c'est justement pourquoi on ne peut pas affirmer l'inverse sans étude française du même type."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui, selon toi, ferait le plus baisser la délinquance dans ta ville ?",
+    "Si on réduisait l'immigration de moitié, quelle part des délits disparaîtrait à ton avis ?"
+  ],
+  "limites": [
+    "Il n'existe pas, dans les sources citées, d'étude causale récente portant sur la France entière.",
+    "Les résultats des études varient selon les pays, les périodes et les types de migration."
+  ],
+  "sources": [
+    {
+      "titre": "Do immigrants cause crime? (document de travail ; publié ensuite dans le Journal of the European Economic Association, 2012)",
+      "organisme": "Milo Bianchi, Paolo Buonanno, Paolo Pinotti (Paris School of Economics)",
+      "date_publication": "2008",
+      "url": "https://www.parisschoolofeconomics.eu/en/publications-hal/do-immigrants-cause-crime",
+      "passage": "Provinces italiennes, 1990-2003 : la population immigrée est corrélée aux atteintes aux biens et au taux global de délinquance ; avec une méthode de variables instrumentales, l'immigration n'augmente que les vols avec violence (robberies), et l'effet sur le taux global de délinquance n'est pas statistiquement différent de zéro.",
+      "pertinence": "Étude universitaire distinguant corrélation et causalité.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Auteurs selon la nationalité (Insee Références « Sécurité et société », données SSMSI)",
+      "organisme": "Insee / SSMSI (ministère de l'Intérieur)",
+      "date_publication": "9 décembre 2021",
+      "url": "https://www.insee.fr/fr/statistiques/5763585",
+      "passage": "Part des étrangers parmi les personnes mises en cause en 2019 (hors infractions routières) : ensemble 17,7 % ; atteintes à la personne 13,1 % ; infractions à caractère sexuel 13,5 % ; vols 26,6 % ; destructions et dégradations 10,8 % ; stupéfiants 11,5 %. Avertissement : la nationalité ne peut pas toujours être vérifiée faute de pièce d'identité ; nationalité non renseignée pour 11 % des auteurs traités par les parquets. Part passée de 16 % en 2016 à 18 % en 2019.",
+      "pertinence": "Seule série détaillée publiée par nationalité et par type d'infraction.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réponse du ministère de la Justice à la question écrite n° 12283 (M. Éric Pauget) sur la part des étrangers dans les procédures pénales et la population pénitentiaire",
+      "organisme": "Assemblée nationale / ministère de la Justice",
+      "date_publication": "26 mai 2026 (JO p. 4636)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12283",
+      "passage": "Au 1er avril 2026, 88 419 personnes détenues, dont 21 329 étrangères, soit 24,2 %. Proportion passée de 21 % en 2016 à 24,7 % au 1er janvier 2026 (valeurs annuelles de 22 % à 25 %). Statut pénal des détenus étrangers : 13 906 condamnés, 6 599 prévenus, 819 condamnés et prévenus. Nationalités les plus représentées : Algérie 5,9 %, Maroc 2,1 %, Tunisie 1,75 %, Roumanie 1,1 %, Portugal 0,6 %. Milieu ouvert au 1er janvier 2026 : 14 746 étrangers suivis, soit 8,2 %. Les outils statistiques ne permettent pas de déterminer la part des étrangers sous surveillance électronique.",
+      "pertinence": "Chiffres officiels de l'administration pénitentiaire, communiqués au Parlement.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-10-30",
+  "raison_actualisation": "Nouvelles publications académiques sur le sujet.",
+  "objections_legitimes": [
+    "Certaines formes de délinquance sont associées à des parcours migratoires précaires ou à des filières criminelles organisées.",
+    "Les étrangers sont surreprésentés parmi les mis en cause et les détenus."
+  ]
+}

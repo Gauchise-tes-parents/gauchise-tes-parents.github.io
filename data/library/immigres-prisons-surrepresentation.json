@@ -1,0 +1,122 @@
+{
+  "id": "immigres-prisons-surrepresentation",
+  "type": "idee_recue",
+  "affirmation": "Les immigrés représentent une part disproportionnée de la population carcérale.",
+  "volet": "immigration",
+  "sous_theme": "Immigration, délinquance et prisons",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "immigrés",
+    "immigrés en prison",
+    "immigrés remplissent les prisons",
+    "remplissent",
+    "prisons",
+    "disproportionnée",
+    "surreprésentation",
+    "surreprésentés",
+    "dénominateur",
+    "pays de naissance",
+    "population carcérale",
+    "facteurs",
+    "âge",
+    "précarité"
+  ],
+  "verdict": "inverifiable",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "La statistique pénitentiaire régulière compte la nationalité, pas le statut d'immigré. On sait que les ÉTRANGERS sont surreprésentés (24,2 % des détenus pour 8,8 % de la population), mais on ne peut pas en déduire la part des IMMIGRÉS : un tiers des immigrés sont français, et certains étrangers sont nés en France.",
+  "contexte": "Les mots « immigré » et « étranger » sont souvent employés l'un pour l'autre. Ils désignent des populations différentes : 7,7 millions d'immigrés et 6,0 millions d'étrangers en 2024 (Insee), qui ne se recouvrent qu'en partie.",
+  "explication": "Pour parler de « part disproportionnée », il faut un numérateur (les détenus d'une catégorie) et un dénominateur (la même catégorie dans la population). Pour les étrangers, les deux existent. Pour les immigrés, le numérateur n'est pas publié régulièrement. Et même une surreprésentation mesurée devrait être comparée à structure d'âge, de sexe et de situation sociale proche avant d'être interprétée.",
+  "faits": [
+    {
+      "fait": "En 2024, la France compte 7,7 millions d'immigrés (11,3 % de la population) et 6,0 millions d'étrangers (8,8 %) ; 0,9 million d'étrangers sont nés en France.",
+      "periode": "2024 (provisoire)",
+      "perimetre": "Population résidant en France",
+      "explication": "Immigrés et étrangers ne sont pas la même population.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11,3 % / 8,8 %"
+    },
+    {
+      "fait": "La part des étrangers parmi les détenus est de 24,2 % au 1er avril 2026 ; les données proviennent des applicatifs de l'administration pénitentiaire, fondés sur la nationalité.",
+      "periode": "1er avril 2026",
+      "perimetre": "Personnes détenues",
+      "explication": "Aucune donnée régulière sur le pays de naissance ou le statut d'immigré des détenus n'est communiquée.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "24,2 %"
+    },
+    {
+      "fait": "Les mis en cause sont des auteurs présumés et non des condamnés ; toutes les victimes ne portent pas plainte.",
+      "periode": "2019",
+      "perimetre": "Statistiques de police et de gendarmerie",
+      "explication": "Chaque étape de la chaîne pénale filtre différemment les personnes.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les chiffres officiels comptent les étrangers (24,2 % des détenus), pas les immigrés. Un tiers des immigrés sont français : on ne peut pas utiliser un chiffre pour l'autre.",
+    "moyen": "Sur les étrangers, le chiffre existe : environ un quart des détenus, pour 8,8 % de la population. C'est une surreprésentation réelle. Sur les immigrés, en revanche, la statistique pénitentiaire régulière ne dit rien : elle compte la nationalité. Or un immigré sur trois est devenu français, et des étrangers sont nés en France. Dire « les immigrés » à partir d'un chiffre sur les étrangers, c'est changer de population en cours de route. Et pour parler de disproportion, il faudrait aussi comparer à âge, sexe et milieu social égaux.",
+    "detaille": "La phrase mélange souvent deux catégories. Les étrangers sont les personnes qui n'ont pas la nationalité française : 6,0 millions en 2024, dont 0,9 million nés en France. Les immigrés sont les personnes nées étrangères à l'étranger : 7,7 millions, dont un tiers ont acquis la nationalité française (Insee).\n\nPour les étrangers, on sait mesurer la surreprésentation : 24,2 % des détenus au 1er avril 2026, pour 8,8 % de la population. Pour les immigrés, l'administration pénitentiaire ne publie pas de chiffre régulier : ses fichiers enregistrent la nationalité, pas le pays de naissance.\n\nMême pour les étrangers, « disproportionné » mérite d'être précisé. Une comparaison brute ignore l'âge et le sexe (les détenus sont très majoritairement des hommes jeunes), les conditions sociales, la détention provisoire plus fréquente faute de garanties de représentation, et les infractions liées au séjour. Ces facteurs ne nient pas l'écart ; ils empêchent d'en tirer une explication par l'origine.\n\nEnfin, chaque étape de la chaîne pénale (mise en cause, poursuite, condamnation, incarcération) a ses propres filtres : un chiffre sur les mis en cause ne dit pas la même chose qu'un chiffre sur les détenus.",
+    "empathie": "C'est une vraie question, et il y a un chiffre exact derrière : les étrangers sont surreprésentés en prison. Mais « immigrés », ce n'est pas la même chose, et les statistiques officielles ne permettent pas de répondre pour eux. Je préfère te dire ce qu'on sait vraiment que de lancer un chiffre au hasard."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est pareil, étrangers ou immigrés.",
+      "reponse": "Non : un tiers des immigrés sont français, et 0,9 million d'étrangers sont nés en France. Ce sont deux populations différentes, de tailles différentes, et les statistiques ne permettent pas de passer de l'une à l'autre."
+    },
+    {
+      "objection": "Si on comptait les binationaux et les naturalisés, ce serait encore pire.",
+      "reponse": "Peut-être, peut-être pas : aucune donnée officielle publiée ne permet de le dire. Affirmer un chiffre qu'on n'a pas, c'est remplacer la statistique par une impression."
+    }
+  ],
+  "questions": [
+    "Quand tu dis « immigrés », tu penses aux personnes de nationalité étrangère, ou aussi aux Français nés à l'étranger ?",
+    "Quelle comparaison te semblerait juste : avec toute la population, ou avec des hommes du même âge et du même milieu ?"
+  ],
+  "limites": [
+    "Aucune statistique pénitentiaire régulière n'est publiée selon le pays de naissance ou le statut d'immigré.",
+    "Les comparaisons à structure d'âge et de sexe égale ne sont pas publiées dans ces sources."
+  ],
+  "sources": [
+    {
+      "titre": "En 2024, 6,0 millions d'étrangers vivent en France, 0,9 million y sont nés (Insee Première n° 2076)",
+      "organisme": "Insee (Chloé Pariset, Pierre Tanneau)",
+      "date_publication": "7 octobre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8651304",
+      "passage": "2024 (provisoire) : 6,0 millions d'étrangers, soit 8,8 % de la population ; 7,7 millions d'immigrés, soit 11,3 % ; 0,9 million d'étrangers nés en France (1,3 %). Définitions : un étranger réside en France sans la nationalité française ; un immigré est né étranger à l'étranger et le reste même devenu français.",
+      "pertinence": "Statistique publique de référence pour les dénominateurs.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réponse du ministère de la Justice à la question écrite n° 12283 (M. Éric Pauget) sur la part des étrangers dans les procédures pénales et la population pénitentiaire",
+      "organisme": "Assemblée nationale / ministère de la Justice",
+      "date_publication": "26 mai 2026 (JO p. 4636)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12283",
+      "passage": "Au 1er avril 2026, 88 419 personnes détenues, dont 21 329 étrangères, soit 24,2 %. Proportion passée de 21 % en 2016 à 24,7 % au 1er janvier 2026 (valeurs annuelles de 22 % à 25 %). Statut pénal des détenus étrangers : 13 906 condamnés, 6 599 prévenus, 819 condamnés et prévenus. Nationalités les plus représentées : Algérie 5,9 %, Maroc 2,1 %, Tunisie 1,75 %, Roumanie 1,1 %, Portugal 0,6 %. Milieu ouvert au 1er janvier 2026 : 14 746 étrangers suivis, soit 8,2 %. Les outils statistiques ne permettent pas de déterminer la part des étrangers sous surveillance électronique.",
+      "pertinence": "Chiffres officiels de l'administration pénitentiaire, communiqués au Parlement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Dossier 1 : Depuis 2010, les phénomènes délinquants se transforment tandis que le sentiment d'insécurité reste globalement stable (Insee Références « Sécurité et société »)",
+      "organisme": "Insee / SSMSI",
+      "date_publication": "9 décembre 2021",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/6008710/INSEE-FP-IREF-SECURITE_DOSSIER1.pdf",
+      "passage": "En 2019, les étrangers représentent 18 % des mis en cause alors qu'ils forment 7 % des personnes résidant en France ; 9 % des victimes d'atteintes personnelles sont étrangères (16 % pour les violences sexuelles). Les mis en cause sont des auteurs présumés, non des condamnés ; toutes les victimes ne portent pas plainte.",
+      "pertinence": "Met en regard auteurs présumés, victimes et population.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données Insee et pénitentiaires annuelles.",
+  "objections_legitimes": [
+    "Les étrangers, qui sont une partie des immigrés, sont nettement surreprésentés parmi les détenus."
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "expulser-reduit-criminalite",
+  "type": "idee_recue",
+  "affirmation": "Il suffit d'expulser les délinquants étrangers pour réduire la criminalité.",
+  "volet": "immigration",
+  "sous_theme": "Expulsion des étrangers condamnés",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "il suffit",
+    "expulser",
+    "réduire la criminalité",
+    "baisser la délinquance",
+    "délinquants étrangers",
+    "efficacité",
+    "récidive",
+    "sécurité"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Expulser des auteurs dangereux peut avoir un effet sur certains faits, mais « il suffit » est faux : en 2019, plus de 80 % des personnes mises en cause étaient françaises, et seule une petite minorité des OQTF (environ 10 %) est exécutée. Aucune donnée publique ne mesure l'effet des expulsions sur la récidive.",
+  "contexte": "La formule promet une solution simple à un problème multiple. Elle mérite d'être vérifiée sur trois plans : l'ampleur (quelle part de la délinquance ?), la faisabilité (les mesures sont-elles exécutées ?) et l'effet (empêchent-elles de nouveaux faits ?).",
+  "explication": "Une politique de sécurité combine prévention, enquête, sanction, réinsertion et, pour les étrangers, éventuellement l'éloignement. L'éloignement retire une personne du territoire ; il ne traite ni les causes de la délinquance des autres auteurs, ni les réseaux qui recrutent de nouveaux auteurs.",
+  "faits": [
+    {
+      "fait": "Les étrangers représentaient 17,7 % des personnes mises en cause en 2019.",
+      "periode": "2019",
+      "perimetre": "France, mis en cause",
+      "explication": "Même une expulsion totale ne toucherait qu'une minorité des auteurs.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "17,7 %"
+    },
+    {
+      "fait": "Autour de 10 % des OQTF sont exécutées ; les éloignements forcés sont passés de 18 915 en 2019 à 11 409 en 2022.",
+      "periode": "2019-2022",
+      "perimetre": "France",
+      "explication": "Prononcer une mesure ne suffit pas : il faut pouvoir l'exécuter.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "≈ 10 %"
+    },
+    {
+      "fait": "Un éloignement forcé coûte en moyenne 4 414 € et une journée de rétention environ 602 € ; les centres de rétention comptent 1 717 places.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "Les moyens disponibles limitent le nombre d'éloignements possibles.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2023, 58 arrêtés ministériels d'expulsion ont été exécutés à 63 %.",
+      "periode": "2023",
+      "perimetre": "Arrêtés ministériels",
+      "explication": "Les mesures ciblées sur les personnes dangereuses sont mieux exécutées.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Plus de 80 % des mis en cause sont français, et environ 10 % des OQTF sont exécutées. Expulser des auteurs dangereux peut aider, mais ça ne « suffit » pas.",
+    "moyen": "Expulser un délinquant dangereux, ça peut éviter des faits, personne ne le nie. Mais « il suffit » ne tient pas. D'abord parce que plus de huit auteurs présumés sur dix sont français : la majorité de la délinquance resterait. Ensuite parce que les mesures sont peu exécutées : environ 10 % des OQTF selon la Cour des comptes, faute notamment de laissez-passer des pays d'origine. Enfin, on n'a aucune donnée publique sur l'effet réel des expulsions sur la récidive.",
+    "detaille": "La formule « il suffit » appelle trois vérifications.\n\nL'ampleur. Selon les données du ministère de l'Intérieur publiées par l'Insee, les étrangers représentaient 17,7 % des personnes mises en cause en 2019. Même si l'on éloignait tous les auteurs étrangers, plus de huit auteurs présumés sur dix resteraient concernés.\n\nLa faisabilité. La Cour des comptes constate qu'autour de 10 % des OQTF sont exécutées. Les éloignements forcés ont même baissé, de 18 915 en 2019 à 11 409 en 2022. Les obstacles sont concrets : identification, refus ou retards des pays d'origine pour délivrer des laissez-passer, places de rétention limitées (1 717), coût (4 414 € en moyenne par éloignement forcé). Les mesures ciblées sur les personnes dangereuses fonctionnent mieux : 63 % des arrêtés ministériels exécutés en 2023.\n\nL'effet. Aucune donnée publique ne mesure si les personnes éloignées auraient récidivé, ni si d'autres auteurs les remplacent dans les réseaux. Une politique de sécurité efficace combine prévention, enquête, sanction et, le cas échéant, éloignement ciblé.\n\nOn peut donc défendre un éloignement plus efficace des auteurs dangereux ; présenter l'expulsion comme une solution qui « suffit » est trompeur.",
+    "empathie": "Je comprends qu'on cherche une solution rapide : la délinquance, ça pourrit la vie. Expulser les plus dangereux peut faire partie de la réponse. Mais si on croit que ça suffit, on oublie la grande majorité des délits, et les victimes avec."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on les expulse, ils ne récidivent pas en France.",
+      "reponse": "Ceux qui sont réellement éloignés et ne reviennent pas, non. Mais aucune donnée publique ne mesure cet effet, et seule une minorité des mesures est exécutée. Ça ne touche pas les 80 % d'auteurs français."
+    },
+    {
+      "objection": "Il suffit de mettre la pression sur les pays qui refusent.",
+      "reponse": "C'est une piste réelle, discutée par la Cour des comptes et le Parlement. Mais c'est une négociation diplomatique longue, pas une solution qui suffit à réduire la criminalité."
+    }
+  ],
+  "questions": [
+    "Selon toi, que deviendraient les réseaux de délinquance si on expulsait certains de leurs membres ?",
+    "Qu'est-ce qui ferait baisser la délinquance des auteurs français, qui sont la majorité ?"
+  ],
+  "limites": [
+    "Aucune donnée publique sur la récidive après éloignement.",
+    "Chiffres d'exécution antérieurs aux effets de la loi de 2024."
+  ],
+  "sources": [
+    {
+      "titre": "Auteurs selon la nationalité (Insee Références « Sécurité et société », données SSMSI)",
+      "organisme": "Insee / SSMSI (ministère de l'Intérieur)",
+      "date_publication": "9 décembre 2021",
+      "url": "https://www.insee.fr/fr/statistiques/5763585",
+      "passage": "Part des étrangers parmi les personnes mises en cause en 2019 (hors infractions routières) : ensemble 17,7 % ; atteintes à la personne 13,1 % ; infractions à caractère sexuel 13,5 % ; vols 26,6 % ; destructions et dégradations 10,8 % ; stupéfiants 11,5 %. Avertissement : la nationalité ne peut pas toujours être vérifiée faute de pièce d'identité ; nationalité non renseignée pour 11 % des auteurs traités par les parquets. Part passée de 16 % en 2016 à 18 % en 2019.",
+      "pertinence": "Seule série détaillée publiée par nationalité et par type d'infraction.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La politique de lutte contre l'immigration irrégulière (rapport public thématique)",
+      "organisme": "Cour des comptes",
+      "date_publication": "Janvier 2024",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/292560.pdf",
+      "passage": "447 257 OQTF prononcées de 2019 à 2022 ; seule une petite minorité, autour de 10 %, est exécutée. Éloignements forcés : 18 915 en 2019, 11 409 en 2022 (Eurostat). 22 centres de rétention, 1 717 places ; environ 5 % des personnes sous OQTF placées en rétention, dont près de la moitié éloignées. Difficultés : identification, réticence de nombreux pays d'origine à délivrer des laissez-passer consulaires, refus d'embarquer. Coût moyen d'un éloignement forcé : 4 414 €.",
+      "pertinence": "Juridiction financière : constat sur l'exécution réelle des mesures.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi visant à assouplir les conditions d'expulsion des étrangers constituant une menace grave pour l'ordre public (n° 265) — rapport d'étape de la commission des lois (rapporteure : Edwige Diaz)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "23 octobre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/863769/file/PPL%20265%20-%20EAT.pdf",
+      "passage": "Droit en vigueur (CESEDA, après la loi n° 2024-42 du 26 janvier 2024) : L. 631-1, expulsion possible si la présence constitue une menace grave pour l'ordre public — une condamnation ne suffit pas à elle seule ; L. 631-2, protection relative (parents d'enfant français, conjoints de Français depuis trois ans, résidents réguliers depuis plus de dix ans…) levée notamment en cas de condamnation définitive pour un crime ou délit puni d'au moins trois ans ; L. 631-3, protection quasi absolue (arrivés avant 13 ans, résidents de plus de vingt ans…) levée en cas de condamnation définitive pour des faits punis d'au moins cinq ans (trois en récidive) ; L. 631-4, mineurs : protection absolue. Contrôle de proportionnalité au regard de l'article 8 de la Convention européenne des droits de l'homme. Dispositions de 2024 jugées conformes par le Conseil constitutionnel (décision n° 2023-863 DC du 25 janvier 2024). 2022 : 341 mesures d'expulsion prononcées, 167 exécutées ; 2023 : 58 arrêtés ministériels d'expulsion, exécutés à 63 %.",
+      "pertinence": "Document parlementaire décrivant le droit en vigueur ; le texte soutient une proposition de durcissement, ce qui n'affecte pas la description du droit.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Nouvelles données d'éloignement et effets de la loi de 2024.",
+  "objections_legitimes": [
+    "L'éloignement des auteurs dangereux, quand il est exécuté, retire effectivement ces personnes du territoire.",
+    "La faible exécution des OQTF est un vrai problème de crédibilité de l'État."
+  ]
+}

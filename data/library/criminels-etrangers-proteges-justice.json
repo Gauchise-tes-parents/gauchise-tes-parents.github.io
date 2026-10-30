@@ -1,0 +1,135 @@
+{
+  "id": "criminels-etrangers-proteges-justice",
+  "type": "idee_recue",
+  "affirmation": "Les criminels étrangers sont protégés par la justice française.",
+  "volet": "immigration",
+  "sous_theme": "Expulsion des étrangers condamnés",
+  "rubriques": [
+    "immigration-prisons"
+  ],
+  "mots_cles": [
+    "protégés",
+    "justice protège",
+    "laxisme",
+    "impunité",
+    "juges",
+    "criminels étrangers",
+    "garanties",
+    "recours",
+    "droits de l homme",
+    "CEDH"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les étrangers sont jugés, condamnés et incarcérés : au 1er avril 2026, 13 906 étrangers détenus étaient condamnés. Le juge peut prononcer une interdiction du territoire. Les protections contre l'expulsion concernent l'éloignement de personnes ayant de fortes attaches en France, pas la sanction, et elles sont levées pour les condamnations graves depuis 2024. La principale difficulté est l'exécution des renvois.",
+  "contexte": "Le sentiment d'impunité naît souvent de cas médiatisés : une personne sous OQTF commet une nouvelle infraction. Ces cas révèlent surtout des mesures non exécutées, plus qu'une protection accordée par les juges.",
+  "explication": "Une garantie juridique n'est pas une impunité : le droit au recours, l'examen individuel et le respect de la vie familiale encadrent les décisions de l'État pour éviter les erreurs et l'arbitraire. Ils s'appliquent après la sanction pénale, pas à sa place.",
+  "faits": [
+    {
+      "fait": "Au 1er avril 2026, les détenus étrangers comprenaient 13 906 condamnés et 6 599 prévenus.",
+      "periode": "1er avril 2026",
+      "perimetre": "Détenus étrangers",
+      "explication": "Les étrangers sont jugés et incarcérés comme les autres.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le juge pénal peut prononcer une interdiction du territoire, définitive ou de dix ans au plus, contre tout étranger coupable d'un crime ou d'un délit.",
+      "periode": "Droit en vigueur",
+      "perimetre": "Code pénal, article 131-30",
+      "explication": "La justice dispose d'une peine spécifique d'éloignement.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les protections contre l'expulsion (attaches familiales, arrivée dans l'enfance, long séjour) sont levées depuis 2024 en cas de condamnation définitive pour des faits punis d'au moins trois ou cinq ans ; les mineurs restent protégés.",
+      "periode": "Depuis 2024",
+      "perimetre": "CESEDA, articles L. 631-2 à L. 631-4",
+      "explication": "Les protections ont été réduites pour les faits graves.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les difficultés d'éloignement tiennent surtout à l'identification, à la réticence des pays d'origine à délivrer des laissez-passer consulaires et aux refus d'embarquer.",
+      "periode": "2019-2022",
+      "perimetre": "France",
+      "explication": "L'obstacle principal est pratique et diplomatique.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les étrangers sont jugés et emprisonnés : près de 14 000 condamnés étrangers sont détenus. Ce qui bloque surtout, ce n'est pas la justice, c'est l'exécution des renvois, faute de laissez-passer des pays d'origine.",
+    "moyen": "Regardons les faits. Au 1er avril 2026, près de 14 000 étrangers condamnés étaient en prison : ils ne sont pas protégés de la sanction. Le juge peut même ajouter une interdiction du territoire. Les protections dont on parle concernent seulement l'expulsion de gens qui ont grandi en France ou y ont leur famille, et depuis 2024 elles tombent pour les condamnations graves. Quand une décision de renvoi n'est pas appliquée, c'est le plus souvent parce que le pays d'origine refuse le retour, selon la Cour des comptes.",
+    "detaille": "Le mot « protégés » recouvre deux idées différentes.\n\nProtégés de la sanction ? Non. Les étrangers sont poursuivis, jugés et condamnés comme les Français. Au 1er avril 2026, 13 906 détenus étrangers purgeaient une condamnation, et 6 599 attendaient leur jugement en détention. Le juge dispose même d'une peine supplémentaire réservée aux étrangers : l'interdiction du territoire, définitive ou de dix ans au plus.\n\nProtégés de l'expulsion ? Partiellement, et de moins en moins. Le droit protège certaines personnes en raison de leurs attaches : arrivées avant 13 ans, résidentes depuis vingt ans, parents d'enfants français. Depuis la loi du 26 janvier 2024, ces protections sont levées pour les condamnations à des faits punis d'au moins trois ou cinq ans. Les mineurs restent protégés.\n\nCes garanties ont une fonction : éviter qu'une personne qui n'a jamais vécu ailleurs soit envoyée dans un pays qu'elle ne connaît pas sans examen de sa situation, comme l'exige la Cour européenne des droits de l'homme. Elles ont des limites et peuvent être débattues.\n\nMais la principale raison pour laquelle des personnes condamnées restent en France, selon la Cour des comptes, est pratique : identification difficile, refus ou retards des pays d'origine pour délivrer des laissez-passer, refus d'embarquer. Ce n'est pas la justice qui protège, c'est l'exécution qui échoue.",
+    "empathie": "Je comprends ce sentiment d'injustice, surtout quand on entend parler de quelqu'un qui récidive alors qu'il devait partir. Ça choque, et ça doit être corrigé. Mais dans la plupart de ces cas, ce n'est pas un juge qui l'a protégé : c'est le renvoi qui n'a pas pu être exécuté."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les juges annulent les expulsions.",
+      "reponse": "Le juge administratif contrôle la légalité et la proportionnalité des décisions, comme pour toute décision de l'État ; c'est sa fonction. Les données publiques citées ne permettent pas de chiffrer la part des mesures annulées par rapport à celles qui ne sont pas exécutées pour des raisons pratiques."
+    },
+    {
+      "objection": "La Cour européenne des droits de l'homme empêche d'expulser.",
+      "reponse": "Non : elle a validé l'expulsion d'un étranger installé condamné pour homicide (Üner c. Pays-Bas, 2006). Elle exige seulement une mise en balance au cas par cas."
+    }
+  ],
+  "questions": [
+    "Si une personne a grandi en France depuis l'âge de deux ans, faut-il examiner sa situation avant de l'expulser ?",
+    "Pour toi, qui est responsable quand un pays refuse de reprendre son ressortissant ?"
+  ],
+  "limites": [
+    "Pas de donnée publique dans ces sources sur le nombre de mesures annulées par les juges.",
+    "Vérifier la version en vigueur du CESEDA sur Légifrance."
+  ],
+  "sources": [
+    {
+      "titre": "Réponse du ministère de la Justice à la question écrite n° 12283 (M. Éric Pauget) sur la part des étrangers dans les procédures pénales et la population pénitentiaire",
+      "organisme": "Assemblée nationale / ministère de la Justice",
+      "date_publication": "26 mai 2026 (JO p. 4636)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12283",
+      "passage": "Au 1er avril 2026, 88 419 personnes détenues, dont 21 329 étrangères, soit 24,2 %. Proportion passée de 21 % en 2016 à 24,7 % au 1er janvier 2026 (valeurs annuelles de 22 % à 25 %). Statut pénal des détenus étrangers : 13 906 condamnés, 6 599 prévenus, 819 condamnés et prévenus. Nationalités les plus représentées : Algérie 5,9 %, Maroc 2,1 %, Tunisie 1,75 %, Roumanie 1,1 %, Portugal 0,6 %. Milieu ouvert au 1er janvier 2026 : 14 746 étrangers suivis, soit 8,2 %. Les outils statistiques ne permettent pas de déterminer la part des étrangers sous surveillance électronique.",
+      "pertinence": "Chiffres officiels de l'administration pénitentiaire, communiqués au Parlement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Code pénal, article 131-30 (interdiction du territoire français) — reproduction du texte en vigueur",
+      "organisme": "Légifrance (texte reproduit par TheTradeHub)",
+      "date_publication": "Version en vigueur consultée le 30 octobre 2026",
+      "url": "https://www.thetradehub.eu/fr/reglementation/france/legislation/cibs/code-penal-art-131-30",
+      "passage": "« La peine d'interdiction du territoire français peut être prononcée, dans les conditions prévues par la loi, à titre définitif ou pour une durée de dix ans au plus, à l'encontre de tout étranger coupable d'un crime ou d'un délit. » Elle « entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement ou de réclusion ».",
+      "pertinence": "Texte de loi (peine prononcée par un juge pénal).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi visant à assouplir les conditions d'expulsion des étrangers constituant une menace grave pour l'ordre public (n° 265) — rapport d'étape de la commission des lois (rapporteure : Edwige Diaz)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "23 octobre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/863769/file/PPL%20265%20-%20EAT.pdf",
+      "passage": "Droit en vigueur (CESEDA, après la loi n° 2024-42 du 26 janvier 2024) : L. 631-1, expulsion possible si la présence constitue une menace grave pour l'ordre public — une condamnation ne suffit pas à elle seule ; L. 631-2, protection relative (parents d'enfant français, conjoints de Français depuis trois ans, résidents réguliers depuis plus de dix ans…) levée notamment en cas de condamnation définitive pour un crime ou délit puni d'au moins trois ans ; L. 631-3, protection quasi absolue (arrivés avant 13 ans, résidents de plus de vingt ans…) levée en cas de condamnation définitive pour des faits punis d'au moins cinq ans (trois en récidive) ; L. 631-4, mineurs : protection absolue. Contrôle de proportionnalité au regard de l'article 8 de la Convention européenne des droits de l'homme. Dispositions de 2024 jugées conformes par le Conseil constitutionnel (décision n° 2023-863 DC du 25 janvier 2024). 2022 : 341 mesures d'expulsion prononcées, 167 exécutées ; 2023 : 58 arrêtés ministériels d'expulsion, exécutés à 63 %.",
+      "pertinence": "Document parlementaire décrivant le droit en vigueur ; le texte soutient une proposition de durcissement, ce qui n'affecte pas la description du droit.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La politique de lutte contre l'immigration irrégulière (rapport public thématique)",
+      "organisme": "Cour des comptes",
+      "date_publication": "Janvier 2024",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/292560.pdf",
+      "passage": "447 257 OQTF prononcées de 2019 à 2022 ; seule une petite minorité, autour de 10 %, est exécutée. Éloignements forcés : 18 915 en 2019, 11 409 en 2022 (Eurostat). 22 centres de rétention, 1 717 places ; environ 5 % des personnes sous OQTF placées en rétention, dont près de la moitié éloignées. Difficultés : identification, réticence de nombreux pays d'origine à délivrer des laissez-passer consulaires, refus d'embarquer. Coût moyen d'un éloignement forcé : 4 414 €.",
+      "pertinence": "Juridiction financière : constat sur l'exécution réelle des mesures.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Législation et données d'exécution en évolution.",
+  "objections_legitimes": [
+    "Des personnes sous mesure d'éloignement non exécutée commettent parfois de nouvelles infractions.",
+    "Les garanties juridiques allongent les procédures."
+  ]
+}

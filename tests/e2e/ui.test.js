@@ -129,11 +129,11 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.getByRole('button', { name: 'Continuer' }).click();
     assert.match(await page.locator('#wizard-error').textContent(), /Choisis un volet/);
     await page.getByRole('radio', { name: /Assistanat, travail et aides sociales/ }).click();
-    await page.getByRole('button', { name: 'RSA', exact: true }).click();
-    assert.equal(await page.getByRole('button', { name: 'RSA', exact: true }).getAttribute('aria-pressed'), 'true');
+    await page.getByRole('button', { name: 'Chômage', exact: true }).click();
+    assert.equal(await page.getByRole('button', { name: 'Chômage', exact: true }).getAttribute('aria-pressed'), 'true');
     await page.getByRole('button', { name: 'Continuer' }).click();
     await page.getByRole('heading', { name: /qu’est-ce qu’il a encore raconté/ }).waitFor();
-    assert.match(await page.locator('.step-help').textContent(), /Gagner le débat · Aides sociales · RSA/);
+    assert.match(await page.locator('.step-help').textContent(), /Gagner le débat · Aides sociales · Chômage/);
     await page.getByRole('button', { name: /Les chômeurs ne veulent pas travailler/ }).click();
     assert.equal(await page.locator('#affirmation').inputValue(), 'Les chômeurs ne veulent pas travailler.');
     // retour arrière puis changement de mode : la saisie est conservée
@@ -267,11 +267,11 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.close();
   });
 
-  test('thématiques : quatre rubriques et leurs fiches', async () => {
+  test('thématiques : cinq rubriques et leurs fiches', async () => {
     const page = await newPage(browser, PHONE, errors);
     await page.goto(`${s.base}/#/thematiques`);
     await page.locator('.rub-card').first().waitFor();
-    assert.equal(await page.locator('.rub-card').count(), 4);
+    assert.equal(await page.locator('.rub-card').count(), 5);
     await page.locator('.rub-card--melenchon-lfi').click();
     await page.locator('#rubrique-fiches .fiche-card').first().waitFor();
     assert.equal(await page.locator('#rubrique-fiches .fiche-card').count(), FICHES.filter((x) => x.rubriques.includes('melenchon-lfi')).length);
@@ -396,6 +396,61 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.locator('#conv-msg').waitFor();
     assert.equal(await page.locator('#conv-fil .conv-tour').count(), 0, 'nouveau contexte séparé');
     assert.match(await page.locator('.conv-etat').textContent(), /0 échange/);
+    assert.ok((await overflow(page)) <= 1);
+    await page.close();
+  });
+
+  test('suggestions spécialisées : sous-thème, mode, « Autres affirmations », express, rebond statistique → expulsion', async () => {
+    const page = await newPage(browser, PHONE, errors);
+    const chips = async () => page.locator('#sugg-wizard .sugg-chip').evaluateAll((els) => els.map((e) => e.dataset.exampleFill));
+    // Immigration et travail, mode « gagner »
+    await page.goto(`${s.base}/#/debat`);
+    await page.getByRole('heading', { name: 'Quel est ton objectif ?' }).waitFor();
+    await page.getByRole('radio', { name: /GAGNER LE DÉBAT/ }).click();
+    await page.getByRole('heading', { name: 'De quoi ça parle ?' }).waitFor();
+    await page.getByRole('radio', { name: /Immigration, intégration et discriminations/ }).click();
+    await page.getByRole('button', { name: 'Immigration et travail', exact: true }).click();
+    await page.getByRole('button', { name: 'Continuer' }).click();
+    await page.locator('#sugg-wizard').waitFor();
+    const travail = await chips();
+    assert.equal(travail.length, 3);
+    assert.ok(travail.every((t) => /(travail|salaire|métier|cotis|emploi)/i.test(t)), travail.join(' / '));
+    await page.getByRole('button', { name: 'Autres affirmations' }).click();
+    const autres = await chips();
+    assert.equal(autres.filter((t) => travail.includes(t)).length, 0, 'renouvellement sans répétition');
+    await page.locator('#sugg-wizard .sugg-chip').first().click();
+    assert.equal(await page.locator('#affirmation').inputValue(), autres[0]);
+    // même sous-thème en mode « convaincre » : sélection différente
+    await page.getByRole('button', { name: /Revenir à l’étape 1/ }).click();
+    await page.getByRole('radio', { name: /CONVAINCRE SANS BRAQUER/ }).click();
+    await page.getByRole('button', { name: 'Continuer' }).click();
+    await page.locator('#sugg-wizard').waitFor();
+    const dialogue = await chips();
+    assert.notDeepEqual(dialogue, travail);
+    // prisons : les formulations de la nouvelle rubrique, avec fiche vérifiée
+    await page.getByRole('button', { name: /Revenir à l’étape 2/ }).click();
+    await page.getByRole('button', { name: 'Immigration, délinquance et prisons', exact: true }).click();
+    await page.getByRole('button', { name: 'Continuer' }).click();
+    await page.locator('#sugg-wizard').waitFor();
+    const prisons = await chips();
+    assert.ok(prisons.every((t) => /(prison|carcéral|délinqu|sûre|détention|insécurité)/i.test(t)), prisons.join(' / '));
+    assert.ok((await page.locator('#sugg-wizard .sugg-tag').count()) >= 1, 'les suggestions couvertes par une fiche sont signalées');
+    // express : les suggestions suivent le sujet choisi
+    await page.goto(`${s.base}/#/express`);
+    await page.locator('#sugg-express').waitFor();
+    await page.locator('#express-volet').selectOption('ecologie');
+    const eco = await page.locator('#sugg-express .sugg-chip').evaluateAll((els) => els.map((e) => e.dataset.exampleFill));
+    assert.equal(eco.length, 3);
+    assert.ok(eco.every((t) => /(climat|énerg|nucléaire|éolien|pollu|voiture|agricult|pesticide|biodiversit|isol|industrie|écolo|émission|renouvel|loyer|bio|chin)/i.test(t)), eco.join(' / '));
+    // rebond : statistiques carcérales → expulsion
+    await page.goto(`${s.base}/#/argumentaire/etrangers-prisons`);
+    await page.locator('#conv-msg').waitFor();
+    await page.locator('#conv-msg').fill('Peu importe les statistiques, il faut tous les renvoyer chez eux.');
+    await page.getByRole('button', { name: 'Il ou elle m’a répondu…' }).click();
+    await page.locator('#conv-fil .conv-tour').first().waitFor();
+    assert.match(await page.locator('.conv-lecture').first().textContent(), /Déplace la discussion/);
+    assert.match(await page.locator('#conv-fil .bulle--toi').first().textContent(), /Tous les étrangers condamnés devraient être expulsés/);
+    assert.ok(await page.getByRole('button', { name: /Revenir à « Les étrangers remplissent les prisons/ }).isVisible());
     assert.ok((await overflow(page)) <= 1);
     await page.close();
   });

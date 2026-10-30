@@ -16,6 +16,12 @@ Ligne éditoriale assumée de gauche, avec une règle non négociable : aucun fa
 
 ---
 
+## Nouveautés v7
+
+- **Suggestions spécialisées** : 764 affirmations à examiner réparties sur les 127 sous-thèmes (au moins 6 par sous-thème), choisies selon le mode, le cadre et l'interlocuteur, renouvelables avec « Autres affirmations », disponibles hors ligne, validées automatiquement (`auditSuggestions`).
+- **Rubrique « Immigration, délinquance et prisons »** : 11 fiches sourcées (population carcérale, étrangers ≠ immigrés, mis en cause, causalité, droit de l'expulsion, OQTF, interdiction du territoire, protections, exécution).
+- **Rebonds de conversation** : quand l'interlocuteur change d'argument (« peu importe les chiffres… »), le moteur bascule sur le nouveau terrain au lieu de recommencer. Bilan : [`RAPPORT-V7.md`](RAPPORT-V7.md).
+
 ## Nouveautés v6
 
 - **Conversation continue, sans limite de tours** : après chaque réponse de l'interlocuteur (saisie libre, raccourcis facultatifs), l'application analyse la réaction à la lumière de tout l'historique et propose la suite, sans répéter ce qui a été dit. Seul l'utilisateur termine, avec le bouton « Conversation terminée », qui affiche un bilan personnalisé (arguments, accords, désaccords, sources). Mode autonome : moteur de règles local (`public/js/conversation.js`) ; mode connecté : `POST /api/conversation`, avec un résumé évolutif borné au lieu de tout l'historique.
@@ -156,7 +162,7 @@ Le coût **réel** de chaque analyse est calculé à partir de la consommation r
 
 ## Base de connaissances
 
-**56 fiches** vérifiées le 29 octobre 2026 (40 fiches thématiques + 16 fiches « Science du dialogue ») (détail, méthode et limites : `RAPPORT-V3.md`). Trois rubriques transversales :
+**67 fiches** vérifiées (51 fiches thématiques + 16 fiches « Science du dialogue ») (détail, méthode et limites : `RAPPORT-V3.md`). Trois rubriques transversales :
 « Patriotisme de gauche » (8), « Islamo-gauchisme, laïcité et instrumentalisation » (7) et « Mélenchon crie, il est agressif, il est dangereux » (11, en cinq parties), plus des fiches générales (économie, immigration, sécurité, histoire, écologie, médias et démocratie).
 
 Chaque fiche contient : type, volet et sous-thème, rubriques, mots-clés, affirmation, contexte, explication grand public, faits (avec niveau de fiabilité), argumentaires court / moyen / détaillé / avec empathie, contre-arguments et réponses, questions, limites, sources précises (titre, organisme, date, URL, passage, `consultee`), citations vérifiées le cas échéant, `fiabilite` (établi / estimation / interprétation / débat), `stabilite` (historique / évolutive / actualité), `derniere_verification`, `a_actualiser_le`. Le verdict est facultatif : un débat n'a pas toujours de verdict binaire.

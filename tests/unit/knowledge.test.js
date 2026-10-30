@@ -20,8 +20,9 @@ describe('schéma v3 et contenu', () => {
     assert.ok(lib.length >= 40);
   });
 
-  test('quatre rubriques transversales, chacune alimentée', () => {
-    assert.deepEqual(RUBRIQUES.map((r) => r.id), ['patriotisme-de-gauche', 'islamo-gauchisme-laicite', 'melenchon-lfi', 'science-du-dialogue']);
+  test('cinq rubriques transversales, chacune alimentée', () => {
+    assert.deepEqual(RUBRIQUES.map((r) => r.id), ['patriotisme-de-gauche', 'islamo-gauchisme-laicite', 'melenchon-lfi', 'immigration-prisons', 'science-du-dialogue']);
+    assert.ok(lib.filter((e) => e.rubriques.includes('immigration-prisons')).length >= 11);
     assert.ok(lib.filter((e) => e.rubriques.includes('science-du-dialogue')).length >= 14);
     const count = (r) => lib.filter((e) => e.rubriques.includes(r)).length;
     assert.ok(count('patriotisme-de-gauche') >= 8);
