@@ -159,7 +159,7 @@ export const PHRASES = [
   { t: 'Les politiques sont tous pourris.', cat: 'generalisation', p: 'corruption', f: null, proc: ['generalisation'] },
   { t: 'Tous corrompus, droite comme gauche.', cat: 'familier', p: 'corruption', f: null },
   { t: 'Le Front populaire n’a rien apporté.', cat: 'histoire', p: 'texte', f: 'front-populaire-1936' },
-  { t: 'La Sécurité sociale, c’est de Gaulle qui l’a créée.', cat: 'histoire', p: 'texte', f: 'securite-sociale-1945' },
+  { t: 'La Sécurité sociale, c’est de Gaulle qui l’a créée.', cat: 'histoire', p: ['texte', 'securite_sociale'], f: 'securite-sociale-1945' },
   { t: 'La Commune de Paris, c’était des voyous.', cat: 'histoire', p: 'texte', f: 'commune-paris-1871' },
   { t: 'La Résistance, c’était la droite, pas les communistes.', cat: 'histoire', p: ['texte', 'gauche_patrie'], f: 'resistance-communistes-etrangers' },
 

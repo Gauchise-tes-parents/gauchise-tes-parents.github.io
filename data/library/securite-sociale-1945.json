@@ -42,7 +42,7 @@
       "fiabilite": "etabli"
     },
     {
-      "fait": "Pierre Laroque, directeur des assurances sociales, a conçu le plan ; Alexandre Parodi, ministre du Travail, a porté les ordonnances ; Ambroise Croizat, ministre communiste du Travail à partir de novembre 1945, a conduit leur mise en place.",
+      "fait": "Selon le site Herodote.net, Pierre Laroque, directeur des assurances sociales, a conçu le plan ; Alexandre Parodi, ministre du Travail, a porté les ordonnances ; Ambroise Croizat, ministre communiste du Travail à partir de novembre 1945, a conduit leur mise en place.",
       "periode": "1945-1947",
       "perimetre": "Acteurs de la création",
       "explication": "La Sécu a plusieurs pères, de sensibilités différentes : c'est un héritage commun.",
@@ -50,7 +50,7 @@
       "fiabilite": "etabli"
     },
     {
-      "fait": "À l'origine, l'assurance maladie était financée par des cotisations salariales et patronales, et les allocations familiales et accidents du travail par les seuls employeurs ; la retraite était fixée à 65 ans.",
+      "fait": "Selon le site Herodote.net, à l'origine, l'assurance maladie était financée par des cotisations salariales et patronales, et les allocations familiales et accidents du travail par les seuls employeurs ; la retraite était fixée à 65 ans.",
       "periode": "1945",
       "perimetre": "Régime général",
       "explication": "Le système reposait sur les cotisations liées au travail, pas sur la charité publique.",
@@ -117,7 +117,12 @@
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
   "raison_actualisation": "Fiche historique : relecture périodique.",
-  "repond_a": [],
+  "repond_a": [
+    {
+      "id": "securite_sociale",
+      "label": "La Sécurité sociale et son financement"
+    }
+  ],
   "ne_repond_pas": [],
   "synonymes": [
     "rsa",
@@ -133,7 +138,28 @@
     "droit a tout",
     "ont droit a tout"
   ],
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "services_publics",
+      "democratie"
+    ],
+    "mecanismes": "La Sécurité sociale mutualise les risques de la vie : chacun cotise selon ses moyens et reçoit selon ses besoins.",
+    "consequences": "Elle protège contre la maladie, la vieillesse et les accidents du travail ceux qui n’auraient pas les moyens d’une assurance privée.",
+    "democratie": "Issue du programme du Conseil national de la Résistance, elle était à l’origine gérée majoritairement par les représentants des assurés.",
+    "propositions": [
+      "Défendre le financement solidaire par les cotisations et les recettes justes plutôt que de réduire les droits.",
+      "Rendre aux assurés une vraie place dans la gestion de la Sécurité sociale."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le financement de la protection sociale fait face à des déficits et au vieillissement de la population.",
+        "integration": "La question est de savoir qui finance, pas de renoncer à la solidarité : la Sécu est née dans un pays ruiné."
+      }
+    ]
+  },
   "concepts": [
-    "prestations"
+    "prestations",
+    "secu_sociale"
   ]
 }

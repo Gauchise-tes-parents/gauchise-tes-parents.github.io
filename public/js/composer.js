@@ -8,6 +8,7 @@
 //
 // Garde-fous : aucun fait, chiffre, citation ou source n'est créé ni modifié. Les seuls textes ajoutés
 // sont des formules de liaison sans contenu factuel (questions, transitions, consignes).
+import { LE_PRINCIPES } from './ligne-editoriale.js';
 import { nettoyerProfil, strategieProfil, has, REGLES } from './profile.js';
 import { kbDataAge, kbScore } from './kbsearch.js';
 import { INTERLOCUTEUR } from './taxonomy.js';
@@ -424,7 +425,7 @@ const TONS = {
 //   3. comment présenter l'argument (riposte, objections, entrée) ; 4. les conseils de communication.
 // Les deux modes gardent les mêmes faits et les mêmes sources ; seules la formulation et la partie 3-4 changent.
 // (clés sans chiffre : les contrôles « aucun nombre absent de la fiche » lisent tout le contenu des blocs)
-export const PRIORITES = { reponse: ['1', 'La réponse'], preuves: ['2', 'Les preuves'], presenter: ['3', 'Comment présenter l’argument'], communication: ['4', 'Comment aborder la discussion'] };
+export const PRIORITES = { reponse: ['1', 'La réponse'], preuves: ['2', 'Les preuves'], lecture: ['3', 'La lecture de gauche'], presenter: ['4', 'Comment présenter l’argument'], communication: ['5', 'Comment aborder la discussion'] };
 function blocs(plan, fiche, extra = {}) {
   const A = fiche.argumentaires || {};
   const g = plan.mode === 'gagner';
@@ -437,7 +438,19 @@ function blocs(plan, fiche, extra = {}) {
   if (dev.length && (plan.detail !== 'bref' || !g)) add('reponse', { type: 'developpement', titre: 'Les arguments solides', paragraphes: dev });
   // 2 — les preuves, chacune avec ce qu'elle démontre
   if (plan.preuves.length) add('preuves', { type: 'preuves', titre: plan.preuves.length > 1 ? `Les preuves et les sources (${plan.preuves.length})` : 'La preuve et sa source', items: plan.preuves, concordantes: plan.concordantes });
-  // 3 — présenter l'argument
+  // 3 — lecture de gauche : mécanismes, conséquences humaines, enjeux démocratiques, valeurs, propositions,
+  //     et faits défavorables honnêtement intégrés (v10). Les propositions sont étiquetées comme des choix politiques.
+  const L = fiche.lecture;
+  if (L) {
+    add('lecture', {
+      type: 'lecture', titre: g ? 'Ce que la gauche répond sur le fond' : 'Ce qui se joue derrière la question',
+      mecanismes: L.mecanismes || null, consequences: L.consequences || null, democratie: L.democratie || null,
+      valeurs: (L.valeurs || []).filter((v) => LE_PRINCIPES[v]).map((v) => ({ id: v, label: LE_PRINCIPES[v].label, texte: LE_PRINCIPES[v].texte })),
+      propositions: L.propositions || [],
+      defavorables: L.defavorables || [],
+    });
+  }
+  // 4 — présenter l'argument
   if (g) {
     // la formule propre à l'argument repéré, sinon la conclusion choisie selon le profil (public, charge de la preuve…)
     const finale = texteConclusion({ ...plan, conclusion: plan.conclusion === 'synthese' ? 'demande_preuve' : plan.conclusion }, fiche);

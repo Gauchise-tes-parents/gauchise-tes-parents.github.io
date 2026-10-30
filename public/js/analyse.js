@@ -10,6 +10,7 @@
 // NB : noms préfixés an… / AN_ (l'aperçu concatène les modules).
 import { CA_CONCEPTS, CA_ARGUMENTS, CA_EMOTIONS, CA_PROCEDES, CA_PHRASES } from './cartographie.js';
 import { kbNormalize, kbScore, kbMatch } from './kbsearch.js';
+import { atteintesDignite } from './ligne-editoriale.js';
 
 const anNorm = (t) => ` ${kbNormalize(t).replace(/[^a-z0-9%!? ]+/g, ' ').replace(/\s+/g, ' ').trim()} `;
 const anRe = (motifs, flags = 'g') => new RegExp(`(?:^|\\s)(${motifs.join('|')})(?=\\s|$|[!?])`, flags);
@@ -228,6 +229,7 @@ export function analyserPhrase(texte, { bibliotheque = [], mode = 'gagner', cont
     causalites, implicites: [...new Set(args.map((a) => a.implicite).filter(Boolean))], aVerifier,
     emotions, procedes: procedes.map(({ id, label, explication, verifier, question: q }) => ({ id, label, explication, verifier, question: q })),
     ecartees, phrase, phraseGenerique, question,
+    dignite: atteintesDignite(texte),
     lacune: !args.length || Boolean(args[0]?.lacune),
   };
 }

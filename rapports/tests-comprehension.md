@@ -6,8 +6,8 @@ Rapport produit par `npm run rapport:comprehension` le 2026-10-30 : chaque phras
 
 - **193 phrases** testées, dont 32 du lot de validation (écrites après les réglages).
 - **Nouveau moteur : 193/193 réussies** (argument principal, fiche, arguments secondaires, fiches à exclure, émotions et procédés attendus).
-- Ancienne correspondance par mots (v7), sur la bibliothèque v7 : 94/193 phrases avec la bonne fiche (ou l'absence de fiche quand aucune ne répond).
-- Ancienne correspondance par mots, sur la bibliothèque actuelle (avec les fiches emploi ajoutées en v8) : 116/193.
+- Ancienne correspondance par mots (v7), sur la bibliothèque v7 : 93/193 phrases avec la bonne fiche (ou l'absence de fiche quand aucune ne répond).
+- Ancienne correspondance par mots, sur la bibliothèque actuelle (avec les fiches emploi ajoutées en v8) : 115/193.
 
 Critère « ancien moteur » : la première fiche proposée est l'une des fiches attendues ; quand aucune fiche ne répond, il est compté juste seulement s'il ne propose rien. L'ancien moteur ne repérait ni arguments secondaires, ni émotions, ni procédés : ces critères ne lui sont pas appliqués.
 
@@ -41,8 +41,8 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 
 ## Cartographie
 
-- 39 concepts, 448 mots-clés, expressions, synonymes et fautes fréquentes ;
-- 42 arguments reliés aux fiches qui y répondent (dont 6 sans fiche, signalés comme lacunes) ;
+- 43 concepts, 482 mots-clés, expressions, synonymes et fautes fréquentes ;
+- 47 arguments reliés aux fiches qui y répondent (dont 6 sans fiche, signalés comme lacunes) ;
 - 9 émotions, 12 procédés argumentatifs.
 
 ## Démonstration : « Plus il y a d’immigrés, moins il y a de travail pour les Français. »
@@ -63,7 +63,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 6. Procédé possible : Corrélation présentée comme une cause ; question : « Comment sait-on que c’est la cause, et pas autre chose qui arrive en même temps ? »
 7. Phrase marquante (mode « gagner ») : « Le travail n’est pas un gâteau fixe : si chaque immigré « prenait » un emploi, il n’y aurait jamais eu de création d’emplois en France. »
 
-## Erreurs corrigées par rapport à la v7 (99)
+## Erreurs corrigées par rapport à la v7 (100)
 
 | Phrase | Avant (v7) | Après (v8) |
 |---|---|---|
@@ -87,7 +87,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Les immigrés font baisser les salaires. | expulser-reduit-criminalite | Immigration et salaires → immigration-salaires |
 | Avec tous ces sans-papiers qui bossent au noir, les salaires stagnent. | aucune fiche | Immigration et salaires → immigration-salaires |
 | Les patrons font venir de la main-d’œuvre étrangère pour casser les salaires. | resistance-communistes-etrangers | Immigration et salaires → immigration-salaires |
-| Les entreprises embauchent des étrangers parce qu’ils coûtent moins cher. | france-plus-sure-moins-immigres | Immigration et salaires → immigration-salaires ; Immigration et concurrence sur le marché du travail → immigration-emploi |
+| Les entreprises embauchent des étrangers parce qu’ils coûtent moins cher. | discriminations-embauche | Immigration et salaires → immigration-salaires ; Immigration et concurrence sur le marché du travail → immigration-emploi |
 | Les entreprises ne trouvent personne, donc il faut des immigrés. | perte-automatique-droit-sejour | Chômage et difficultés de recrutement → chomage-penurie-recrutement |
 | Il y a des métiers en tension mais personne ne veut les faire. | aucune fiche | Chômage et difficultés de recrutement → chomage-penurie-recrutement |
 | Les postes vacants, c’est parce que les chômeurs ne veulent pas bosser. | aucune fiche | Chômage et difficultés de recrutement → chomage-penurie-recrutement ; Les Français ne voudraient plus travailler → chomeurs-travailler |
@@ -113,12 +113,12 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Il y a de plus en plus d’immigrés en France. | france-plus-sure-moins-immigres | Immigration et démographie → immigration-chiffres-definitions |
 | On perd notre identité. | electricite-nucleaire-renouvelables | Identité et sentiment de dépossession → patriotisme-nationalisme |
 | Les gauchistes n’aiment pas leur pays. | programme-cnr-1944 | La gauche et la patrie → gauche-nation-debats |
-| La gauche a honte du drapeau. | gauche-assistes-travailleurs | La gauche et la patrie → gauche-nation-debats |
+| La gauche a honte du drapeau. | antisemitisme-aujourdhui | La gauche et la patrie → gauche-nation-debats |
 | Il faut rendre la France aux Français. | criminels-etrangers-proteges-justice | Sentiment que les Français passent après → immigres-aides |
 | Avant on était fiers d’être Français. | commune-paris-1871 | La gauche et la patrie → patriotisme-nationalisme |
 | C’était mieux de mon temps. | commune-paris-1871 | Nostalgie du passé → lacune reconnue |
 | Le voile est contraire à la laïcité. | lfi-communautarisme | Islam et musulmans → laicite-loi-1905 ; Laïcité → gauche-laicite-debats |
-| On n’a plus le droit de critiquer l’islam sans être traité de raciste. | gauche-laicite-debats | Islam et liberté d’expression → lacune reconnue |
+| On n’a plus le droit de critiquer l’islam sans être traité de raciste. | gauche-laicite-debats | Islam et liberté d’expression → lacune reconnue ; Réalité des discriminations → discriminations-embauche |
 | On ne peut plus rien dire en France. | etranger-crime-plus-sa-place | Liberté d’expression → lacune reconnue |
 | Avec la bien-pensance, on ne peut plus rien dire. | aider-tout-le-monde | Liberté d’expression → lacune reconnue |
 | Les Insoumis détestent la police. | melenchon-dangereux-democratie | Critiques visant Jean-Luc Mélenchon → lfi-contre-police |
@@ -147,9 +147,10 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Ça sert à quoi de former des chômeurs si on fait venir des étrangers ? | aucune fiche | Immigration et concurrence sur le marché du travail → immigration-emploi |
 | Les immigrés ne veulent pas s’intégrer. | delinquance-principalement-immigration | Argument sur : immigration → lacune reconnue |
 | Les délinquants étrangers ne sont jamais expulsés. | expulser-reduit-criminalite | Exécution des mesures d’éloignement → expulser-tous-etrangers-condamnes |
-| L’insécurité a explosé depuis qu’il y a des migrants dans la ville. | aucune fiche | Immigration et délinquance → delinquance-principalement-immigration |
+| L’insécurité a explosé depuis qu’il y a des migrants dans la ville. | migrants-mediterranee | Immigration et délinquance → delinquance-principalement-immigration |
 | Les Français d’abord ! | criminels-etrangers-proteges-justice | Sentiment que les Français passent après → immigres-aides |
 | Les musulmans veulent imposer la charia. | lfi-communautarisme | Islam et musulmans → musulmans-amalgames |
+| On ne peut même plus faire une blague sans se faire censurer. | antisemitisme-aujourdhui | Liberté d’expression → lacune reconnue |
 | Mélenchon soutient les islamistes. | lfi-antisemite | Accusation d’islamo-gauchisme → islamo-gauchisme-origine-usages ; Critiques visant Jean-Luc Mélenchon → melenchon-crie |
 | Tous les élus se servent dans la caisse. | electricite-nucleaire-renouvelables |  |
 | Avant, au moins, il y avait du respect. | france-plus-sure-moins-immigres | Nostalgie du passé → lacune reconnue |
@@ -196,7 +197,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Les immigrés font baisser les salaires. | simple | Immigration et salaires | Immigration, Salaires | immigration-salaires | immigres-aides, rsa-smic, chomeurs-travailler | expulser-reduit-criminalite | réussi |
 | Avec tous ces sans-papiers qui bossent au noir, les salaires stagnent. | causalite | Immigration et salaires | Immigration, Origine supposée, Salaires | immigration-salaires | immigres-aides, rsa-smic, chomeurs-travailler | aucune | réussi |
 | Les patrons font venir de la main-d’œuvre étrangère pour casser les salaires. | simple | Immigration et salaires | Immigration, Salaires, Riches, entreprises et patronat | immigration-salaires | immigres-aides, rsa-smic, chomeurs-travailler | resistance-communistes-etrangers | réussi |
-| Les entreprises embauchent des étrangers parce qu’ils coûtent moins cher. | insinuation | Immigration et salaires ; Immigration et concurrence sur le marché du travail | Immigration, Emploi et marché du travail, Salaires, Riches, entreprises et patronat, Coût et finances publiques | immigration-salaires ; immigration-emploi | immigres-aides, rsa-smic, chomeurs-travailler | france-plus-sure-moins-immigres | réussi |
+| Les entreprises embauchent des étrangers parce qu’ils coûtent moins cher. | insinuation | Immigration et salaires ; Immigration et concurrence sur le marché du travail | Immigration, Emploi et marché du travail, Salaires, Riches, entreprises et patronat, Coût et finances publiques | immigration-salaires ; immigration-emploi | immigres-aides, rsa-smic, chomeurs-travailler | discriminations-embauche | réussi |
 | Les entreprises ne trouvent personne, donc il faut des immigrés. | simple | Chômage et difficultés de recrutement | Immigration, Pénurie et difficultés de recrutement, Riches, entreprises et patronat | chomage-penurie-recrutement | chomeurs-travailler, rsa-smic | perte-automatique-droit-sejour | réussi |
 | Il y a des métiers en tension mais personne ne veut les faire. | simple | Chômage et difficultés de recrutement | Emploi et marché du travail, Pénurie et difficultés de recrutement | chomage-penurie-recrutement | chomeurs-travailler, rsa-smic | aucune | réussi |
 | Les postes vacants, c’est parce que les chômeurs ne veulent pas bosser. | causalite | Chômage et difficultés de recrutement ; Les Français ne voudraient plus travailler | Emploi et marché du travail, Pénurie et difficultés de recrutement, Effort et valeur travail | chomage-penurie-recrutement ; chomeurs-travailler | rsa-smic | aucune | réussi |
@@ -253,7 +254,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | On perd notre identité. | emotionnel | Identité et sentiment de dépossession | Identité et appartenance | patriotisme-nationalisme | electricite-nucleaire-renouvelables | electricite-nucleaire-renouvelables | réussi |
 | Les gauchistes n’aiment pas leur pays. | familier | La gauche et la patrie | Patriotisme et nation, La gauche | gauche-nation-debats | programme-cnr-1944 | programme-cnr-1944 | réussi |
 | Être patriote, c’est être de droite. | simple | La gauche et la patrie | Patriotisme et nation | patriotisme-nationalisme | — | patriotisme-nationalisme | réussi |
-| La gauche a honte du drapeau. | insinuation | La gauche et la patrie | Patriotisme et nation, La gauche | gauche-nation-debats | gauche-assistes-travailleurs | gauche-assistes-travailleurs | réussi |
+| La gauche a honte du drapeau. | insinuation | La gauche et la patrie | Patriotisme et nation, La gauche | gauche-nation-debats | antisemitisme-aujourdhui | antisemitisme-aujourdhui | réussi |
 | Il faut rendre la France aux Français. | provocation | Sentiment que les Français passent après | Priorité nationale | immigres-aides | criminels-etrangers-proteges-justice | criminels-etrangers-proteges-justice | réussi |
 | Avant on était fiers d’être Français. | emotionnel | La gauche et la patrie | Patriotisme et nation | patriotisme-nationalisme | commune-paris-1871 | commune-paris-1871 | réussi |
 | C’était mieux de mon temps. | simple | Nostalgie du passé | Nostalgie | lacune reconnue | commune-paris-1871 | commune-paris-1871 | réussi |
@@ -262,7 +263,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Le voile est contraire à la laïcité. | simple | Islam et musulmans ; Laïcité | Islam et religion, Laïcité | laicite-loi-1905 ; gauche-laicite-debats | lfi-communautarisme | lfi-communautarisme | réussi |
 | La gauche a abandonné la laïcité. | simple | Laïcité | Laïcité, La gauche | gauche-laicite-debats | — | gauche-laicite-debats | réussi |
 | La laïcité interdit les signes religieux partout. | simple | Laïcité | Laïcité | laicite-loi-1905 | — | laicite-loi-1905 | réussi |
-| On n’a plus le droit de critiquer l’islam sans être traité de raciste. | emotionnel | Islam et liberté d’expression | Islam et religion, Liberté d’expression | lacune reconnue | islamo-gauchisme-origine-usages, gauche-laicite-debats | gauche-laicite-debats | réussi |
+| On n’a plus le droit de critiquer l’islam sans être traité de raciste. | emotionnel | Islam et liberté d’expression ; Réalité des discriminations | Islam et religion, Liberté d’expression, Discriminations et racisme | lacune reconnue ; discriminations-embauche | islamo-gauchisme-origine-usages, gauche-laicite-debats | gauche-laicite-debats | réussi |
 | On ne peut plus rien dire en France. | simple | Liberté d’expression | Liberté d’expression | lacune reconnue | etranger-crime-plus-sa-place | etranger-crime-plus-sa-place | réussi |
 | Avec la bien-pensance, on ne peut plus rien dire. | familier | Liberté d’expression | Liberté d’expression | lacune reconnue | aider-tout-le-monde | aider-tout-le-monde | réussi |
 | Les islamo-gauchistes sont partout à l’université. | simple | Accusation d’islamo-gauchisme | Islam et religion, La gauche | islamo-gauchisme-origine-usages | — | islamo-gauchisme-origine-usages | réussi |
@@ -297,7 +298,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Les politiques sont tous pourris. | generalisation | Défiance envers les élus | Défiance envers les élus | lacune reconnue | musulmans-amalgames | musulmans-amalgames | réussi |
 | Tous corrompus, droite comme gauche. | familier | Défiance envers les élus | La gauche, Défiance envers les élus | lacune reconnue | islamo-gauchisme-origine-usages | islamo-gauchisme-origine-usages | réussi |
 | Le Front populaire n’a rien apporté. | histoire | Correspondance avec une fiche | — | front-populaire-1936 | — | front-populaire-1936 | réussi |
-| La Sécurité sociale, c’est de Gaulle qui l’a créée. | histoire | Correspondance avec une fiche | — | securite-sociale-1945 | — | securite-sociale-1945 | réussi |
+| La Sécurité sociale, c’est de Gaulle qui l’a créée. | histoire | La Sécurité sociale et son financement | Sécurité sociale et héritage du CNR | securite-sociale-1945 | — | securite-sociale-1945 | réussi |
 | La Commune de Paris, c’était des voyous. | histoire | Correspondance avec une fiche | — | commune-paris-1871 | — | commune-paris-1871 | réussi |
 | La Résistance, c’était la droite, pas les communistes. | histoire | Correspondance avec une fiche | La gauche | resistance-communistes-etrangers | — | resistance-communistes-etrangers | réussi |
 | Peu importe les statistiques, il faut tous les renvoyer chez eux. | rebond | Expulsion des étrangers condamnés | Expulsion et éloignement, Chiffres et statistiques | expulser-tous-etrangers-condamnes | — | expulser-tous-etrangers-condamnes | réussi |
@@ -328,12 +329,12 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Dans les prisons, il n’y a que des étrangers. | generalisation (validation) | Étrangers, immigrés et population carcérale | Immigration, Prisons | etrangers-prisons | justice-laxiste-prison | etrangers-prisons | réussi |
 | Les délinquants étrangers ne sont jamais expulsés. | simple (validation) | Exécution des mesures d’éloignement | Immigration, Délinquance et insécurité, Expulsion et éloignement | expulser-tous-etrangers-condamnes | expulser-reduit-criminalite | expulser-reduit-criminalite | réussi |
 | Les juges sont trop laxistes avec les étrangers. | simple (validation) | Justice et étrangers | Immigration, Justice pénale | criminels-etrangers-proteges-justice | — | criminels-etrangers-proteges-justice | réussi |
-| L’insécurité a explosé depuis qu’il y a des migrants dans la ville. | causalite (validation) | Immigration et délinquance | Immigration, Délinquance et insécurité | delinquance-principalement-immigration | delinquance-partout | aucune | réussi |
+| L’insécurité a explosé depuis qu’il y a des migrants dans la ville. | causalite (validation) | Immigration et délinquance | Immigration, Délinquance et insécurité | delinquance-principalement-immigration | delinquance-partout, migrants-mediterranee | migrants-mediterranee | réussi |
 | Il faut virer tous ceux qui ont un casier. | familier (validation) | Expulsion des étrangers condamnés | Expulsion et éloignement | expulser-tous-etrangers-condamnes | renvoyer-tous-deja-condamnes | renvoyer-tous-deja-condamnes | réussi |
 | Les loyers sont hors de prix et on fait passer les migrants en priorité pour les HLM. | multi (validation) | Difficulté à se loger ; Immigration et logement | Immigration, Logement | lacune reconnue ; lacune reconnue | — | aucune | réussi |
 | Les Français d’abord ! | provocation (validation) | Sentiment que les Français passent après | Priorité nationale | immigres-aides | criminels-etrangers-proteges-justice | criminels-etrangers-proteges-justice | réussi |
 | Les musulmans veulent imposer la charia. | generalisation (validation) | Islam et musulmans | Islam et religion | musulmans-amalgames | lfi-communautarisme | lfi-communautarisme | réussi |
-| On ne peut même plus faire une blague sans se faire censurer. | emotionnel (validation) | Liberté d’expression | Liberté d’expression | lacune reconnue | — | aucune | réussi |
+| On ne peut même plus faire une blague sans se faire censurer. | emotionnel (validation) | Liberté d’expression | Liberté d’expression | lacune reconnue | antisemitisme-aujourdhui | antisemitisme-aujourdhui | réussi |
 | Mélenchon soutient les islamistes. | insinuation (validation) | Accusation d’islamo-gauchisme ; Critiques visant Jean-Luc Mélenchon | Islam et religion, Mélenchon et LFI, La gauche | islamo-gauchisme-origine-usages ; melenchon-crie | lfi-antisemite | lfi-antisemite | réussi |
 | Les insoumis, ce sont des extrémistes. | simple (validation) | Critiques visant Jean-Luc Mélenchon | Mélenchon et LFI, La gauche, Disqualification d’une personnalité | melenchon-dangereux-democratie | — | melenchon-dangereux-democratie | réussi |
 | Les gauchos veulent ruiner le pays avec leurs taxes. | familier (validation) | La gauche et les impôts | Fiscalité, La gauche | melenchon-ruiner-france | — | melenchon-ruiner-france | réussi |

@@ -26,7 +26,7 @@
   "explication": "La vraie question n'est pas « aider tout le monde ou personne », mais qui aider, comment, et avec quel financement. En France, les aides sont conditionnées (ressources, durée de séjour, situation familiale) et budgétées. Leur effet est mesuré : elles réduisent d'un tiers la pauvreté et augmentent de 55 % le niveau de vie des 20 % les plus modestes. Leur coût est limité au regard des grandes masses de la dépense publique (retraites, santé, école).",
   "faits": [
     {
-      "fait": "Sans redistribution, le taux de pauvreté serait de 21,3 % ; après impôts et prestations, il est de 14,4 % : le système social évite la pauvreté à 4,4 millions de personnes.",
+      "fait": "D’après les données de la DREES relayées par l’Observatoire des inégalités, sans redistribution, le taux de pauvreté serait de 21,3 % ; après impôts et prestations, il est de 14,4 % : le système social évite la pauvreté à 4,4 millions de personnes.",
       "periode": "2022",
       "perimetre": "France, seuil à 60 % du niveau de vie médian",
       "explication": "La solidarité n'aide pas « tout le monde » : elle sort des millions de personnes de la pauvreté. C'est mesuré.",
@@ -159,12 +159,6 @@
     "Les ressources publiques sont limitées et toute dépense doit être financée.",
     "Le ciblage des aides fait l'objet de vrais débats (conditions, contreparties, simplicité)."
   ],
-  "concepts": [
-    "prestations",
-    "pauvrete",
-    "solidarite",
-    "cout"
-  ],
   "repond_a": [
     {
       "id": "solidarite",
@@ -185,5 +179,32 @@
     "qui profitent",
     "droit a tout",
     "ont droit a tout"
+  ],
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "dignite",
+      "vulnerables"
+    ],
+    "mecanismes": "La solidarité est organisée, conditionnelle et financée ; ses effets sur la pauvreté sont mesurés.",
+    "consequences": "Sans redistribution, des millions de personnes basculeraient dans la pauvreté.",
+    "democratie": "Une société qui laisse tomber les plus fragiles fragilise la cohésion de tous.",
+    "propositions": [
+      "Lutter contre le non-recours aux droits.",
+      "Financer la solidarité par une fiscalité plus juste plutôt que par la réduction des aides."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les ressources publiques sont limitées et le ciblage des aides fait l’objet de vrais débats.",
+        "integration": "Débattre du ciblage, oui ; renoncer à la solidarité, non."
+      }
+    ]
+  },
+  "concepts": [
+    "prestations",
+    "pauvrete",
+    "solidarite",
+    "secu_sociale",
+    "cout"
   ]
 }

@@ -50,19 +50,20 @@
       "fiabilite": "etabli"
     },
     {
-      "fait": "Selon l'analyse des réseaux sociaux du chercheur du CNRS David Chavalarias (Politoscope, février 2021), le terme a d'abord été promu par des comptes d'extrême droite, et son usage a fortement augmenté à partir d'octobre 2019.",
-      "periode": "2016-2020",
+      "fait": "Selon l’analyse de 230 millions de tweets par le chercheur du CNRS David Chavalarias (Politoscope, février 2021), le terme reste très marginal (0,032 % des messages), est porté surtout par des comptes d’extrême droite, et son usage explose à partir d’octobre 2020, après les interventions de ministres.",
+      "periode": "Août 2017 - décembre 2020",
       "perimetre": "Twitter, France",
       "explication": "Le mot circule d'abord comme une arme rhétorique dans un camp politique.",
       "source": 3,
-      "fiabilite": "estimation"
+      "fiabilite": "estimation",
+      "chiffre": "0,032 %"
     },
     {
-      "fait": "L'origine du terme est disputée : il est souvent attribué à Pierre-André Taguieff (livre de 2002), qui a lui-même dit ne plus savoir s'il l'avait forgé ou entendu ; d'autres l'attribuent à des militants trotskistes britanniques.",
+      "fait": "Selon le politiste Philippe Marlière (French Cultural Studies, 2023), le terme a été promu par Pierre-André Taguieff dans un livre de 2002, qui dit l’avoir forgé pour décrire une alliance de fait entre islamistes et extrême gauche ; l’attribution au trotskiste britannique Chris Harman est contestée, Harman concluant au contraire que les islamistes ne sont pas des alliés naturels de la gauche.",
       "periode": "Début des années 2000",
       "perimetre": "Histoire du mot",
       "explication": "Même son inventeur supposé ne revendique pas une définition stable.",
-      "source": 3,
+      "source": 4,
       "fiabilite": "debat"
     }
   ],
@@ -93,8 +94,8 @@
   ],
   "limites": [
     "L'issue exacte de l'enquête annoncée par Frédérique Vidal et du recours devant le Conseil d'État n'a pas pu être vérifiée dans les sources consultées.",
-    "L'analyse de David Chavalarias est rapportée via l'encyclopédie Wikipédia, sans lecture directe de la publication originale.",
-    "Des chercheurs défendent l'idée qu'il existe des convergences réelles entre certains milieux militants et l'islamisme : le débat sur les faits précis reste ouvert."
+    "Des chercheurs défendent l'idée qu'il existe des convergences réelles entre certains milieux militants et l'islamisme : le débat sur les faits précis reste ouvert.",
+    "L’analyse du Politoscope repose sur Twitter seul ; ses conclusions sur une stratégie délibérée relèvent de l’interprétation."
   ],
   "sources": [
     {
@@ -128,23 +129,23 @@
       "consultee": true
     },
     {
-      "titre": "Islamo-gauchisme (article encyclopédique)",
-      "organisme": "Wikipédia",
-      "date_publication": "Consulté le 29 octobre 2026",
-      "url": "https://fr.wikipedia.org/wiki/Islamo-gauchisme",
-      "passage": "Analyse de David Chavalarias (Politoscope, février 2021) : terme d'abord promu par des comptes d'extrême droite ; explosion des usages à partir d'octobre 2019.",
-      "pertinence": "Synthèse encyclopédique renvoyant aux travaux originaux (source secondaire).",
-      "type": "secondaire",
+      "titre": "« Islamogauchisme » : le piège de l’Alt-right se referme sur la Macronie (Politoscope)",
+      "organisme": "CNRS — David Chavalarias (CAMS / ISC-PIF), Politoscope",
+      "date_publication": "21 février 2021",
+      "url": "https://politoscope.org/2021/02/islamogauchisme-le-piege-de-lalt-right-se-referme-sur-la-macronie/",
+      "passage": "Analyse de 230 millions de tweets (août 2017 - décembre 2020) : le terme apparaît dans 73 806 messages (0,032 %) ; les comptes les plus impliqués sont « tous idéologiquement d’extrême-droite » ; forte hausse à partir d’octobre 2020, après les interventions de ministres. Limites : données Twitter seules, catégories issues d’un algorithme, interprétations de l’auteur (« piège », alt-right).",
+      "pertinence": "Mesure empirique de la circulation du terme par un chercheur du CNRS ; interprétations à distinguer des données.",
+      "type": "etude",
       "consultee": true
     },
     {
-      "titre": "Islamo-leftism (article encyclopédique)",
-      "organisme": "Wikipedia (anglais)",
-      "date_publication": "Consulté le 29 octobre 2026",
-      "url": "https://en.wikipedia.org/wiki/Islamo-leftism",
-      "passage": "Terme souvent attribué à Taguieff (2002), qui a dit en 2016 ne plus savoir s'il l'avait forgé ; autres attributions concurrentes.",
-      "pertinence": "Synthèse sur l'histoire disputée du mot.",
-      "type": "secondaire",
+      "titre": "The « Islamo-gauchiste threat » as political nudge (French Cultural Studies)",
+      "organisme": "Philippe Marlière (University College London), revue à comité de lecture",
+      "date_publication": "2023",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10166996/1/09571558231152992.pdf",
+      "passage": "Pierre-André Taguieff a promu le terme dans son livre de 2002 sur la « nouvelle judéophobie » et a ensuite affirmé l’avoir forgé en 2000 pour décrire une alliance de fait entre islamistes et extrême gauche ; l’attribution à Chris Harman (SWP) par Pascal Bruckner est contestée, Harman concluant que les islamistes ne peuvent être des alliés naturels de la gauche ; avant 2020 le terme circulait surtout dans les réseaux d’extrême droite ; trois ministres ont contribué à le banaliser en quatre mois.",
+      "pertinence": "Article universitaire évalué par les pairs.",
+      "type": "etude",
       "consultee": true
     }
   ],
@@ -176,6 +177,26 @@
     "lfi",
     "insoumis"
   ],
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "antiracisme",
+      "democratie"
+    ],
+    "mecanismes": "Une étiquette floue relie des musulmans, des islamistes, des militants de gauche et des chercheurs sans distinguer ce que chacun pense ou fait. Elle permet de disqualifier sans démontrer.",
+    "consequences": "Des chercheurs et des universitaires ont été visés par une suspicion générale, et les musulmans réduits à un risque politique.",
+    "democratie": "Quand des ministres reprennent une accusation sans définition, la liberté académique et le débat contradictoire reculent.",
+    "propositions": [
+      "Exiger des faits précis quand on accuse quelqu’un de complaisance envers l’islamisme, et les examiner un par un.",
+      "Défendre la liberté de recherche, y compris sur les sujets qui dérangent."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certains auteurs, comme Pierre-André Taguieff, décrivent des convergences politiques réelles entre une partie de l’extrême gauche et des courants islamistes ; le débat existe à gauche même.",
+        "integration": "Critiquer une alliance précise, documentée, est légitime et nécessaire ; transformer cela en accusation générale contre toute la gauche, non."
+      }
+    ]
+  },
   "concepts": [
     "islam",
     "laicite",

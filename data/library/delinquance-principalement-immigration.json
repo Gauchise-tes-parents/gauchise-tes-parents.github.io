@@ -145,6 +145,24 @@
     "criminalite",
     "caillera"
   ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "antiracisme"
+    ],
+    "mecanismes": "La délinquance est d’abord liée à l’âge, au sexe et aux conditions sociales ; une corrélation statistique n’est pas une cause.",
+    "consequences": "L’amalgame entre immigration et délinquance alimente les discriminations, y compris envers des Français.",
+    "democratie": "La sécurité est un droit pour tous, y compris pour les immigrés, souvent victimes eux aussi.",
+    "propositions": [
+      "Une police de proximité et une prévention qui s’attaquent aux causes, partout."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certaines catégories d’étrangers sont surreprésentées parmi les mis en cause pour certaines infractions.",
+        "integration": "Le dire, en précisant âge, sexe et conditions sociales, et rappeler que la quasi-totalité des immigrés ne commettent aucun délit."
+      }
+    ]
+  },
   "concepts": [
     "immigration",
     "delinquance",

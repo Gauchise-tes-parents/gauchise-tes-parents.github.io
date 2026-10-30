@@ -200,6 +200,25 @@
     "gauche",
     "gauchos"
   ],
+  "lecture": {
+    "valeurs": [
+      "antifascisme",
+      "antiracisme",
+      "democratie"
+    ],
+    "mecanismes": "Une accusation globale contre un parti mélange des propos condamnables précis et une disqualification générale.",
+    "consequences": "Le débat se polarise et la lutte réelle contre l’antisémitisme en sort affaiblie.",
+    "democratie": "Juger les propos précis, avec des sources, plutôt que des étiquettes.",
+    "propositions": [
+      "Condamner sans ambiguïté chaque propos antisémite, quel qu’en soit l’auteur."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certaines déclarations de dirigeants de LFI ont minimisé l’antisémitisme alors que les actes augmentaient.",
+        "integration": "Le reconnaître sans détour ; défendre la gauche, c’est aussi exiger d’elle l’exemplarité."
+      }
+    ]
+  },
   "concepts": [
     "melenchon_lfi",
     "gauche",

@@ -135,6 +135,25 @@
     "grands groupes",
     "creent les emplois"
   ],
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "travailleurs"
+    ],
+    "mecanismes": "Le partage de la valeur entre salaires et dividendes est un rapport de force, pas une loi naturelle.",
+    "consequences": "Quand les dividendes progressent plus vite que les salaires, le pouvoir d’achat des salariés recule.",
+    "democratie": "Les salariés devraient avoir leur mot à dire sur la répartition de la valeur qu’ils produisent.",
+    "propositions": [
+      "Indexer les salaires sur les prix et renforcer la négociation collective.",
+      "Donner plus de place aux salariés dans les conseils d’administration."
+    ],
+    "defavorables": [
+      {
+        "fait": "Toutes les entreprises ne dégagent pas de marges importantes, notamment les petites.",
+        "integration": "Distinguer les grands groupes qui distribuent beaucoup et les PME en difficulté, qui ont besoin d’autres politiques."
+      }
+    ]
+  },
   "concepts": [
     "salaires",
     "riches_entreprises",

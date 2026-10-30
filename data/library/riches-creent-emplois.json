@@ -36,7 +36,7 @@
       "chiffre": "17 % + 29 %"
     },
     {
-      "fait": "Après les réformes de 2018 (ISF remplacé par l'IFI, flat tax), les dividendes versés aux ménages passent d'environ 14 Md€ par an (2013-2017) à 23 Md€ (2018-2020).",
+      "fait": "Selon Actu-Juridique, après les réformes de 2018 (ISF remplacé par l'IFI, flat tax), les dividendes versés aux ménages passent d'environ 14 Md€ par an (2013-2017) à 23 Md€ (2018-2020).",
       "periode": "2013-2020",
       "perimetre": "France",
       "explication": "L'argent libéré a d'abord été distribué en dividendes.",
@@ -111,11 +111,6 @@
     "Le capital et l'esprit d'entreprise sont nécessaires à la création d'emplois.",
     "L'évaluation note un effet positif de la réforme de 2018 sur la décision d'entreprendre."
   ],
-  "concepts": [
-    "emploi",
-    "fiscalite",
-    "riches_entreprises"
-  ],
   "repond_a": [
     {
       "id": "riches_emplois",
@@ -136,5 +131,30 @@
     "tva",
     "patronat",
     "grands groupes"
+  ],
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "travailleurs",
+      "democratie"
+    ],
+    "mecanismes": "L’emploi dépend de la demande, de l’investissement productif et des politiques publiques. Les baisses d’impôts pour les plus aisés ont d’abord augmenté les dividendes.",
+    "consequences": "Pendant que les revenus du capital progressent, les salaires et les services publics sont présentés comme trop coûteux.",
+    "democratie": "Une concentration des richesses donne à une minorité un poids politique disproportionné.",
+    "propositions": [
+      "Conditionner les aides publiques aux entreprises à l’emploi, aux salaires et à l’investissement.",
+      "Rééquilibrer la fiscalité entre revenus du travail et revenus du capital."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’évaluation officielle note un effet positif de la réforme de 2018 sur la création d’entreprises.",
+        "integration": "Le dire, et le mettre en balance avec la hausse massive des dividendes et l’absence de réinvestissement significatif."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "fiscalite",
+    "riches_entreprises"
   ]
 }

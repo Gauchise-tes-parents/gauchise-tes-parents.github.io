@@ -1,0 +1,165 @@
+{
+  "id": "migrants-mediterranee",
+  "type": "idee_recue",
+  "affirmation": "Il ne faut pas secourir les migrants en mer : ça crée un appel d'air.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et asile",
+  "rubriques": [],
+  "mots_cles": [
+    "migrants",
+    "méditerranée",
+    "secourir",
+    "sauvetage",
+    "ong",
+    "appel d air",
+    "bateaux",
+    "noyés",
+    "naufrage",
+    "mer",
+    "laisser mourir",
+    "pull factor",
+    "droit de la mer"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Secourir une personne en détresse en mer est une obligation du droit international, quelle que soit la personne. Plus de 82 000 personnes sont mortes ou ont disparu sur les routes migratoires depuis 2014 (OIM). Et l'étude de l'Institut universitaire européen ne trouve aucune relation entre la présence des ONG en mer et le nombre de départs depuis la Libye.",
+  "contexte": "L'argument de l'« appel d'air » (en anglais pull factor) a servi à justifier la fin d'opérations de sauvetage et des poursuites contre des ONG.",
+  "explication": "Les départs dépendent surtout de la situation dans les pays de départ et de transit (guerres, répression, conditions en Libye), des réseaux de passeurs et des politiques des États. Les études qui ont comparé la présence des navires de sauvetage et les départs n'observent pas de lien. L'obligation de secours, elle, ne dépend d'aucun calcul : elle protège toute personne en danger.",
+  "faits": [
+    {
+      "fait": "L'article 98 de la Convention des Nations unies sur le droit de la mer impose de prêter assistance à toute personne trouvée en mer en danger de disparaître et de se porter au secours des personnes en détresse, dans toutes les zones maritimes.",
+      "periode": "Droit en vigueur (convention de 1982)",
+      "perimetre": "Droit international",
+      "explication": "Le secours en mer n'est pas une option politique : c'est une obligation.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Plus de 82 000 personnes sont mortes ou ont disparu sur les routes migratoires dans le monde depuis 2014, dont près de 8 000 en 2025 après un record de 9 200 en 2024.",
+      "periode": "2014-2025",
+      "perimetre": "Monde",
+      "explication": "Derrière le débat, des dizaines de milliers de vies.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "82 000"
+    },
+    {
+      "fait": "Sur les flux Libye-Italie de 2014 à octobre 2019, l'étude de l'Institut universitaire européen ne trouve aucune relation entre la présence des ONG en mer et le nombre de départs.",
+      "periode": "2014 - octobre 2019",
+      "perimetre": "Méditerranée centrale",
+      "explication": "L'« appel d'air » des sauvetages n'est pas observé dans les données.",
+      "source": 2,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Secourir quelqu'un qui se noie est une obligation du droit de la mer, sans condition de nationalité. Plus de 82 000 morts et disparus depuis 2014 (OIM). Et l'« appel d'air » n'apparaît pas dans les données : aucune relation entre la présence des ONG et les départs de Libye (Institut universitaire européen).",
+    "moyen": "D'abord, le droit : l'article 98 de la Convention des Nations unies sur le droit de la mer impose de porter secours à toute personne en détresse. Ce n'est pas une opinion, c'est une obligation.\n\nEnsuite, les faits : plus de 82 000 personnes sont mortes ou ont disparu sur les routes migratoires depuis 2014, selon l'OIM. Et l'« appel d'air » ? Des chercheurs de l'Institut universitaire européen ont comparé, mois par mois, la présence des ONG en mer et les départs depuis la Libye entre 2014 et 2019 : aucune relation. Les gens partent à cause de ce qu'ils fuient, pas à cause des bateaux de secours.",
+    "detaille": "Le débat sur le sauvetage en mer oppose une vie humaine à un calcul politique. Commençons par le droit : l'article 98 de la Convention des Nations unies sur le droit de la mer oblige à prêter assistance à toute personne trouvée en mer en danger de disparaître, dans toutes les zones maritimes. La nationalité ou le statut de la personne ne changent rien à cette obligation.\n\nLe coût humain est massif : selon l'Organisation internationale pour les migrations, plus de 82 000 personnes sont mortes ou ont disparu sur les routes migratoires depuis 2014, dont près de 8 000 en 2025. L'OIM rappelle qu'« une baisse des mouvements ne signifie pas automatiquement des voyages plus sûrs ».\n\nQuant à l'« appel d'air », il a été testé : Eugenio Cusumano et Matteo Villa (Institut universitaire européen) ont comparé les flux mensuels entre la Libye et l'Italie de 2014 à 2019 et n'ont trouvé aucune relation entre la présence des ONG et le nombre de départs. Les auteurs appellent à plus de recherches, mais rien ne permet d'affirmer que laisser mourir dissuade de partir.\n\nOn peut débattre des politiques migratoires. On ne peut pas faire de la noyade un instrument de politique migratoire.",
+    "empathie": "Je comprends l'inquiétude devant l'arrivée de bateaux, et l'envie que ça s'arrête. Mais quand quelqu'un se noie, la question n'est plus l'immigration : c'est une vie. Et les chercheurs n'ont pas trouvé que les secours poussent les gens à partir."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les ONG font le travail des passeurs.",
+      "reponse": "Les données de 2014-2019 ne montrent pas de lien entre leur présence et les départs ; et le droit de la mer impose à tout navire de porter secours."
+    },
+    {
+      "objection": "Ils n'ont qu'à ne pas partir.",
+      "reponse": "On peut discuter des politiques migratoires ; mais laisser des gens se noyer n'est une politique acceptable dans aucun État de droit."
+    }
+  ],
+  "questions": [
+    "Si c'était ton enfant sur ce bateau, tu voudrais qu'on calcule l'appel d'air avant de le sortir de l'eau ?",
+    "Qu'est-ce qui te fait penser que les secours font partir plus de gens, alors que les études ne le montrent pas ?"
+  ],
+  "limites": [
+    "Les chiffres de l'OIM sont des minimums : beaucoup de décès ne sont jamais documentés.",
+    "L'étude de l'Institut universitaire européen s'arrête en 2019."
+  ],
+  "sources": [
+    {
+      "titre": "Expert Meeting on Refugees and Asylum-seekers in Distress at Sea — présentation de la Division des affaires maritimes et du droit de la mer",
+      "organisme": "Nations unies, Bureau des affaires juridiques (DOALOS)",
+      "date_publication": "Novembre 2011",
+      "url": "https://www.unhcr.org/us/sites/en-us/files/legacy-pdf/4ef2ff8a9.pdf",
+      "passage": "Article 98 de la Convention des Nations unies sur le droit de la mer : obligation de « render assistance to any person found at sea in danger of being lost » et de « proceed with all possible speed to the rescue of persons in distress » ; obligation applicable dans toutes les zones maritimes.",
+      "pertinence": "Présentation officielle des Nations unies (droit international de la mer).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Près de 8 000 migrants morts ou disparus sur les routes migratoires en 2025 (ONU Info, d'après l'OIM, Global Migration Routes Overview 2025)",
+      "organisme": "ONU Info / Organisation internationale pour les migrations",
+      "date_publication": "21 avril 2026",
+      "url": "https://news.un.org/fr/story/2026/04/1158713",
+      "passage": "« Près de 8 000 » personnes mortes ou disparues sur les routes migratoires en 2025, après un record de 9 200 en 2024 ; « plus de 82 000 » depuis 2014 ; 1 723 depuis le début de 2026. La baisse de 2025 s'explique en partie par une diminution réelle des traversées dangereuses, et peut-être par des moyens réduits pour documenter les décès. « Une baisse des mouvements ne signifie pas automatiquement des voyages plus sûrs. »",
+      "pertinence": "Agence des Nations unies ; données du projet Missing Migrants.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sea rescue NGOs: a pull factor of irregular migration? (Policy Brief 2019/22, Migration Policy Centre)",
+      "organisme": "European University Institute (Eugenio Cusumano, Matteo Villa)",
+      "date_publication": "Novembre 2019",
+      "url": "https://cadmus.eui.eu/handle/1814/65024",
+      "passage": "Flux mensuels Libye-Italie de 2014 à octobre 2019 : « We find no relationship between the presence of NGOs at sea and the number of migrants leaving Libyan shores » ; les auteurs appellent à davantage de données et de recherches.",
+      "pertinence": "Note de recherche d'un institut universitaire européen.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La politique migratoire et le contrôle des frontières sont des sujets de débat légitimes.",
+    "L'étude de 2019 porte sur la Méditerranée centrale et ses auteurs appellent à davantage de recherches."
+  ],
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "universalite",
+      "vulnerables",
+      "paix"
+    ],
+    "mecanismes": "Les départs dépendent des guerres, des persécutions, de la pauvreté et des réseaux de passeurs ; les études ne montrent pas que les secours en mer les provoquent.",
+    "consequences": "Chaque renoncement au sauvetage se compte en vies humaines.",
+    "democratie": "Un État de droit qui accepte de laisser mourir pour dissuader renonce à ses propres principes.",
+    "propositions": [
+      "Rétablir un dispositif européen public de sauvetage en mer.",
+      "Ouvrir des voies d’accès légales et sûres pour les personnes qui demandent l’asile.",
+      "Cesser de poursuivre ceux qui portent secours."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’étude sur l’« appel d’air » porte sur la Méditerranée centrale jusqu’en 2019, et ses auteurs appellent à davantage de recherches.",
+        "integration": "Le dire honnêtement ; et rappeler que, même en cas de doute, l’obligation de secourir ne dépend pas d’un calcul."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "migrants_mer",
+      "label": "Secours en mer et droits humains"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "en mer",
+    "mediterranee",
+    "ong",
+    "appel d air",
+    "pull factor"
+  ],
+  "concepts": [
+    "immigration",
+    "mer"
+  ]
+}

@@ -201,7 +201,7 @@ export function analyserMessage(conv, message, { raccourci = null, bibliotheque 
     // 1. analyse argumentative (concepts → argument → fiche qui y répond vraiment) ;
     // 2. à défaut d'argument reconnu, correspondance textuelle (comportement antérieur).
     const an = analyserPhrase(apresRebond.trim().length > 8 ? apresRebond : brut, { bibliotheque: thematiques, mode: conv.mode, contexte: courante ? conceptsFiche(courante).filter((c) => AN_SUJETS_PORTEURS.includes(c)) : [] });
-    res.lecture_phrase = { arguments: an.arguments.map((a) => ({ id: a.id, label: a.label, fiche: a.fiche?.id || null, lacune: a.lacune })), emotions: an.emotions.map((e) => ({ id: e.id, label: e.label, reponse: e.reponse })), procedes: an.procedes.map((p) => ({ id: p.id, label: p.label, question: p.question })) };
+    res.lecture_phrase = { dignite: an.dignite, arguments: an.arguments.map((a) => ({ id: a.id, label: a.label, fiche: a.fiche?.id || null, lacune: a.lacune })), emotions: an.emotions.map((e) => ({ id: e.id, label: e.label, reponse: e.reponse })), procedes: an.procedes.map((p) => ({ id: p.id, label: p.label, question: p.question })) };
     const surCourante = an.arguments.some((a) => a.fiche?.id === conv.courante);
     const nouveau = an.arguments.find((a) => a.fiche && a.fiche.id !== conv.courante && a.pertinence === 'directe');
     if (an.arguments.length && an.arguments.some((a) => a.id !== 'texte')) {

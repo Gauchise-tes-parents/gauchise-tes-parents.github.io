@@ -8,6 +8,7 @@ import { suggestionsPour } from './suggestions.js';
 import { nouvelleConversation, repondreConversation, enregistrerTour, analyserMessage, terminerConversation, basculerSujet, revenirSujetInitial, corrigerHypotheses, chargeServeur, phaseConversation, CV_RACCOURCIS, CV_TYPES } from './conversation.js';
 import { kbMatch, kbFreshness, kbNormalize, kbDataAge } from './kbsearch.js';
 import { analyserPhrase } from './analyse.js';
+import { LE_PRINCIPES } from './ligne-editoriale.js';
 import { LOGO_SVG } from './logo-data.js';
 import {
   heroScene, mascotSvg, profileSvg, VOLET_ICONS, TAB_ICONS, modeArtGagner, modeArtConvaincre, duoArt,
@@ -844,6 +845,7 @@ function viewFiche(f, tab = 'court') {
         </div>
       </article>
       ${stabiliteNote(f)}
+      ${f.lecture ? `<details class="acc lecture-fiche"><summary><span>La lecture de gauche : mécanismes, valeurs, propositions</span></summary><div class="acc-body">${lectureHtml({ ...f.lecture, titre: null })}</div></details>` : ''}
 
       ${isCrit && f.reproche ? `<section class="block reproche" aria-labelledby="reproche-title">
         <h2 id="reproche-title" class="block-title">Ce qui est reproché</h2>
@@ -939,6 +941,31 @@ function preuveItem(pr, label = '') {
   </li>`;
 }
 
+// Garde-fou de dignité (v10) : pas de faux équilibre face à la déshumanisation, aux appels à la violence,
+// à l'exclusion collective ou à l'antisémitisme. On distingue la critique d'une politique (légitime) et l'attaque
+// contre une population entière.
+function digniteHtml(liste) {
+  if (!liste?.length) return '';
+  return `<section class="dignite" role="note" aria-labelledby="dign-title">
+    <h2 id="dign-title">Ce propos n’est pas une opinion comme une autre</h2>
+    ${liste.map((d) => `<p><strong>${h(d.label)}.</strong> ${h(d.texte)}</p>`).join('')}
+    <p>On peut critiquer une politique migratoire, pénale ou religieuse : c’est le débat démocratique. Viser une population entière, la déshumaniser ou souhaiter sa mort, c’est s’attaquer à la dignité humaine et à l’universalité des droits. Là-dessus, Gauchise tes parents ne cherche pas de compromis.</p>
+  </section>`;
+}
+
+// Lecture de gauche (v10) : distingue mécanismes et conséquences (analyse), valeurs, propositions (choix politiques)
+// et faits défavorables (résultats qui ne vont pas dans notre sens, et comment les intégrer honnêtement).
+function lectureHtml(b) {
+  const valeurs = (b.valeurs || []).map((v) => (typeof v === 'string' ? (LE_PRINCIPES[v] ? { label: LE_PRINCIPES[v].label, texte: LE_PRINCIPES[v].texte } : null) : v)).filter(Boolean);
+  const ligne = (t, x) => (x ? `<p class="lect-ligne"><strong>${h(t)} :</strong> ${h(x)}</p>` : '');
+  return `<div class="lecture">${b.titre ? `<h3 class="sub-title">${h(b.titre)}</h3>` : ''}
+    ${ligne('Les mécanismes', b.mecanismes)}${ligne('Les conséquences humaines', b.consequences)}${ligne('L’enjeu démocratique', b.democratie)}
+    ${valeurs.length ? `<div class="lect-valeurs"><p class="lect-titre">Les valeurs en jeu</p><ul>${valeurs.map((v) => `<li><strong>${h(v.label)}</strong> — ${h(v.texte)}</li>`).join('')}</ul></div>` : ''}
+    ${(b.propositions || []).length ? `<div class="lect-props"><p class="lect-titre">Ce que la gauche propose <span class="lect-nature">propositions politiques : des choix assumés, pas des faits</span></p><ul>${b.propositions.map((x) => `<li>${h(x)}</li>`).join('')}</ul></div>` : ''}
+    ${(b.defavorables || []).length ? `<div class="lect-defav"><p class="lect-titre">Ce qui ne va pas dans notre sens</p>${b.defavorables.map((d) => `<p><strong>Le fait :</strong> ${h(d.fait)}<br><strong>Comment l’intégrer honnêtement :</strong> ${h(d.integration)}</p>`).join('')}</div>` : ''}
+  </div>`;
+}
+
 const ORDINAUX = ['Un premier élément', 'Ensuite', 'Enfin', 'Et encore'];
 function blocHtml(b, mode) {
   switch (b.type) {
@@ -952,6 +979,7 @@ function blocHtml(b, mode) {
     case 'liste': return `<div class="legit"><h3 class="sub-title">${h(b.titre)}</h3><ul>${b.items.map((x) => `<li>${h(x)}</li>`).join('')}</ul></div>`;
     case 'empathie': return `<h3 class="sub-title">${h(b.titre)}</h3><div class="speech speech--soft"><p ${mode === 'convaincre' ? 'id="empathie-text"' : ''}>${h(b.texte)}</p></div>`;
     case 'conclusion': return `<h3 class="sub-title">${h(b.titre)}</h3><p class="big-q">${h(b.texte)}</p>`;
+    case 'lecture': return lectureHtml(b);
     case 'riposte': return `<h3 class="sub-title">${h(b.titre)}</h3><div class="riposte"><p class="big-q">${h(b.texte)}</p>${b.question ? `<p><strong>La question qui met le raisonnement à l’épreuve :</strong> ${h(b.question)}</p>` : ''}</div>`;
     case 'entree': case 'texte': default: return `<h3 class="sub-title">${h(b.titre)}</h3><p>${h(b.texte)}</p>`;
   }
@@ -989,6 +1017,7 @@ function viewArgumentaire() {
       <p class="crumb"><a href="#/bibliotheque/${h(f.id)}">Fiche complète</a></p>
       <div class="claim-bubble"><span class="claim-label">${!sameQ ? 'Ta question' : 'L’affirmation'}</span><p>« ${h(c.question || f.affirmation)} »</p>
         ${!sameQ ? `<p class="claim-reform">Fiche utilisée : « ${h(f.affirmation)} »${c.force === 'partielle' ? ' (sujet voisin)' : ''}</p>` : ''}</div>
+      ${digniteHtml(c.analyse?.dignite?.length ? c.analyse.dignite : c.dignite)}
       ${c.force === 'partielle' ? '<p class="notice notice--soft partielle-note">Cette fiche ne répond qu’en partie à ta phrase : vérifie qu’elle correspond bien à ce que tu veux dire.</p>' : ''}
       <section class="block">
         <div class="fiche-tabs" role="tablist" aria-label="Deux stratégies">${tab('gagner', MODES.gagner.label)}${tab('convaincre', MODES.convaincre.carte)}</div>
@@ -1058,6 +1087,7 @@ function convTourHtml(t) {
     <div class="bulle bulle--toi"><span class="bulle-qui">Tu peux répondre</span><p>${h(i.texte)}</p>
       <button type="button" class="link-btn" data-conv-copier="${t.n}">Copier</button></div>
     ${i.complement ? `<p>${h(i.complement)}</p>` : ''}
+    ${digniteHtml(t.analyse?.lecture_phrase?.dignite)}
     ${t.analyse?.lecture_phrase?.emotions?.length ? `<p class="conv-ressenti"><strong>Derrière la phrase, peut-être :</strong> ${h(t.analyse.lecture_phrase.emotions[0].label.toLowerCase())}. ${h(t.analyse.lecture_phrase.emotions[0].reponse)}</p>` : ''}
     ${t.analyse?.lacune_sujet ? `<p class="fact-warning">Pas encore de fiche sur « ${h(t.analyse.lacune_sujet)} » : aucune fiche voisine n’est présentée à la place.</p>` : ''}
     ${i.preuve?.source ? `<ul class="preuves">${preuveItem(i.preuve)}</ul>` : ''}
@@ -1212,16 +1242,23 @@ function viewPasDansLaBase(payload) {
   return `<section class="section result">
     <div class="wrap wrap--narrow">
       <div class="claim-bubble"><span class="claim-label">Ta question</span><p>« ${h(payload.affirmation)} »</p></div>
+      ${digniteHtml(payload.analyse?.dignite)}
       <article class="verdict-card verdict-card--debat">
         <div class="verdict-mascot">${mascotSvg('search', 'La mascotte cherche dans la bibliothèque', 96)}</div>
         <div class="verdict-body">
-          <h1 class="verdict-h">Pas encore dans la bibliothèque</h1>
-          <p class="verdict-summary">${payload.analyse?.principal ? `J’ai compris l’argument (« ${h(payload.analyse.principal.label.toLowerCase())} »), mais la bibliothèque ne contient pas encore de fiche qui y réponde. Plutôt que de présenter une fiche voisine comme une réponse, je le dis.` : 'Je n’ai pas reconnu de sujet précis dans ta phrase, et je préfère te le dire plutôt que de répondre à côté.'}</p>
+          <h1 class="verdict-h">${payload.analyse?.dignite?.length ? 'Pas un argument : une atteinte à la dignité' : 'Pas encore dans la bibliothèque'}</h1>
+          ${payload.analyse?.dignite?.length ? (() => {
+            const ids = new Set(payload.analyse.concepts.filter((c) => c.central).map((c) => c.id));
+            const PISTES = { immigration: ['immigration-emploi', 'immigres-aides', 'etrangers-prisons'], islam: ['musulmans-amalgames', 'laicite-loi-1905'], antisemitisme: ['antisemitisme-aujourdhui', 'judeo-bolchevisme-histoire'], mer: ['migrants-mediterranee'] };
+            const voulues = [...ids].flatMap((c) => PISTES[c] || []);
+            const pistes = [...voulues.map((id) => kb.fiches.find((f) => f.id === id)), ...kb.fiches.filter((f) => f.type !== 'science' && (f.concepts || []).some((c) => ids.has(c)))].filter(Boolean).filter((f, i, a) => a.indexOf(f) === i).slice(0, 3);
+            return `<p class="verdict-summary">Il n’y a pas ici d’argument à vérifier : le propos vise des personnes. Si une inquiétude précise se cache derrière (l’emploi, les aides, la sécurité…), c’est sur ce terrain qu’on peut répondre, faits à l’appui.</p>${pistes.length ? `<ul class="dign-pistes">${pistes.map((f) => `<li><a href="#/bibliotheque/${h(f.id)}">« ${h(f.affirmation)} »</a></li>`).join('')}</ul>` : ''}`;
+          })() : `<p class="verdict-summary">${payload.analyse?.principal ? `J’ai compris l’argument (« ${h(payload.analyse.principal.label.toLowerCase())} »), mais la bibliothèque ne contient pas encore de fiche qui y réponde. Plutôt que de présenter une fiche voisine comme une réponse, je le dis.` : 'Je n’ai pas reconnu de sujet précis dans ta phrase, et je préfère te le dire plutôt que de répondre à côté.'}</p>`}
           ${payload.analyse && !payload.analyse.principal ? '<p><strong>Tu peux préciser ?</strong> De quoi parle la personne : des aides sociales, de l’immigration, des impôts, de l’emploi, de la sécurité, d’une personnalité politique… ? Reformule avec le sujet, par exemple « Les aides coûtent trop cher » plutôt que « C’est trop ».</p>' : ''}
           ${isLive() ? '<button type="button" class="btn btn-primary" data-action="web-search-local">Lancer une recherche web</button>' : ''}
         </div>
       </article>
-      ${payload.analyse?.arguments.length ? analyseHtml(payload.analyse, null, payload.mode === 'convaincre' ? 'convaincre' : 'gagner') : ''}
+      ${payload.analyse?.arguments.length && !(payload.analyse.dignite?.length && payload.analyse.principal?.id === 'non_cartographie') ? analyseHtml(payload.analyse, null, payload.mode === 'convaincre' ? 'convaincre' : 'gagner') : ''}
       ${proches.length && !payload.analyse?.arguments.length ? `<section class="block"><h2 class="block-title">Dans le même volet</h2><div class="fiche-grid">${proches.map((f) => ficheCard(withFresh(f))).join('')}</div></section>` : ''}
       <p><a class="btn btn-secondary" href="#/bibliotheque">Chercher dans la bibliothèque</a></p>
     </div>
@@ -1268,6 +1305,7 @@ async function launchLocal(payload) {
     return;
   }
   nouvelleCompo(m[0].fiche, { question: payload.affirmation, force: m[0].force, profil: payload.interlocuteur, vue: payload.mode === 'convaincre' ? 'convaincre' : 'gagner', autres: m.slice(1).map((x) => x.fiche) });
+  state.compo.dignite = an.dignite;
   if (location.hash !== '#/argumentaire') location.hash = '#/argumentaire'; else render();
 }
 

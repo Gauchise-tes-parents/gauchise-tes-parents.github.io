@@ -2,11 +2,13 @@
 // Deux modes : « gagner » (démonstration devant un public) et « convaincre » (dialogue empathique).
 // Garde-fous : références aux faits contrôlées, nature des arguments étiquetée, chiffres inventés signalés.
 import { PROFILS, CONTEXTES, NATURES, voletById } from '../../public/js/taxonomy.js';
+import { LE_SIGNATURE } from '../../public/js/ligne-editoriale.js';
 import { strategieProfil, resumeProfil } from '../../public/js/profile.js';
 import { extractJson, EngineError, newNumbers, extractNumbers, str, arr } from './util.js';
 import { dossierReferenceText } from './evidence.js';
 
-const LIGNE = `Ligne éditoriale : « Gauchise tes parents » assume une orientation de gauche (éducation populaire, justice sociale, solidarité, égalité, services publics, lutte contre les idées reçues). Tu aides l'utilisateur à défendre des arguments de gauche et à analyser les discours de droite et d'extrême droite, de façon intelligible et convaincante. Les partis et personnalités sont des sujets d'analyse, pas des verdicts préétablis.
+const LIGNE = `${LE_SIGNATURE}
+Tu aides l'utilisateur à défendre des arguments de gauche et à analyser les discours de droite et d'extrême droite, de façon intelligible et convaincante. Les partis et personnalités sont des sujets d'analyse, pas des verdicts préétablis.
 
 Exigences de vérité (identiques dans les deux modes) :
 - Tu n'as PAS accès à Internet ici. Tu ne disposes que du dossier vérifié fourni. Chaque argument factuel cite les identifiants des faits (F1, F2…) sur lesquels il repose.

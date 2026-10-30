@@ -116,7 +116,12 @@
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
   "raison_actualisation": "Fiche historique : relecture périodique.",
-  "repond_a": [],
+  "repond_a": [
+    {
+      "id": "securite_sociale",
+      "label": "La Sécurité sociale et son financement"
+    }
+  ],
   "ne_repond_pas": [],
   "synonymes": [
     "fierte",
@@ -128,10 +133,32 @@
     "gauchos",
     "melenchon",
     "lfi",
-    "insoumis"
+    "insoumis",
+    "securite sociale",
+    "la secu"
   ],
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "democratie",
+      "services_publics"
+    ],
+    "mecanismes": "Le programme du CNR associait libération nationale et démocratie sociale : sécurité sociale, nationalisations, droits des travailleurs.",
+    "consequences": "Il a fondé le modèle social français dont nous vivons encore.",
+    "democratie": "Il montre que patriotisme et justice sociale ont été pensés ensemble.",
+    "propositions": [
+      "Faire du programme du CNR une référence vivante : protection sociale, services publics, démocratie économique."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le programme du CNR était un compromis entre forces politiques très diverses, y compris non de gauche.",
+        "integration": "C’est précisément sa force : il a rassemblé au-delà de la gauche autour de la solidarité."
+      }
+    ]
+  },
   "concepts": [
     "patriotisme",
-    "gauche"
+    "gauche",
+    "secu_sociale"
   ]
 }

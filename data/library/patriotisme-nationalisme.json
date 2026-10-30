@@ -142,6 +142,26 @@
     "chez nous",
     "plus chez nous"
   ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "universalite",
+      "internationalisme"
+    ],
+    "mecanismes": "Le patriotisme est l’attachement à une communauté politique et à ses institutions ; le nationalisme fait de la nation une valeur supérieure, souvent contre les autres ; la xénophobie rejette l’étranger. Ce sont trois choses distinctes.",
+    "consequences": "Confondre patriotisme et rejet de l’autre exclut de la nation des millions de citoyens.",
+    "democratie": "La nation républicaine est fondée sur la citoyenneté et l’égalité devant la loi, pas sur l’origine.",
+    "propositions": [
+      "Défendre une nation de citoyens : souveraineté populaire, services publics, égalité des droits.",
+      "Revendiquer l’héritage de la Résistance et du CNR comme patrimoine commun."
+    ],
+    "defavorables": [
+      {
+        "fait": "La gauche a parfois délaissé le vocabulaire de la nation, laissant d’autres s’en emparer.",
+        "integration": "Reprendre ce vocabulaire dans son sens républicain et social, plutôt que de l’abandonner."
+      }
+    ]
+  },
   "concepts": [
     "patriotisme",
     "gauche",

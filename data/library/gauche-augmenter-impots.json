@@ -133,11 +133,6 @@
     "Le programme prévoyait une hausse globale importante des prélèvements.",
     "Les chiffrages des recettes sont contestés, et les effets économiques (départs, investissement) font débat."
   ],
-  "concepts": [
-    "fiscalite",
-    "melenchon_lfi",
-    "gauche"
-  ],
   "repond_a": [
     {
       "id": "gauche_impots",
@@ -158,5 +153,28 @@
     "nfp",
     "gauche",
     "gauchos"
+  ],
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "services_publics"
+    ],
+    "mecanismes": "Une fiscalité progressive fait contribuer davantage ceux qui ont le plus, pour financer des services utiles à tous.",
+    "consequences": "Le débat sur le « matraquage fiscal » masque qui paierait réellement.",
+    "democratie": "Le consentement à l’impôt repose sur sa justice perçue.",
+    "propositions": [
+      "Une imposition plus progressive des hauts revenus, des gros patrimoines et des grosses successions."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le programme de 2024 prévoyait une hausse globale importante des prélèvements, très forte pour les plus aisés, et ses chiffrages sont contestés.",
+        "integration": "L’assumer : oui, il s’agit de faire payer davantage les plus riches ; non, pas « tout le monde »."
+      }
+    ]
+  },
+  "concepts": [
+    "fiscalite",
+    "melenchon_lfi",
+    "gauche"
   ]
 }

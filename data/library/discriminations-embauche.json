@@ -1,0 +1,156 @@
+{
+  "id": "discriminations-embauche",
+  "type": "idee_recue",
+  "affirmation": "Les discriminations à l'embauche, ça n'existe plus : c'est une excuse.",
+  "volet": "droits",
+  "sous_theme": "Discriminations",
+  "rubriques": [],
+  "mots_cles": [
+    "discrimination",
+    "discriminations",
+    "embauche",
+    "racisme",
+    "testing",
+    "cv",
+    "nom",
+    "origine",
+    "maghrébin",
+    "arabe",
+    "excuse",
+    "victimisation",
+    "égalité des chances"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les discriminations à l'embauche sont mesurées, pas supposées : dans le grand testing public de 2019-2021, à candidature équivalente, les personnes d'origine supposée maghrébine sont rappelées 31,5 % moins souvent. Le chômage des personnes originaires du Maghreb est près de trois fois plus élevé, et les deux tiers de l'écart ne s'expliquent ni par le diplôme ni par l'âge.",
+  "contexte": "Le soupçon de « victimisation » revient souvent quand on parle de racisme. La méthode du testing permet justement de sortir de l'impression : on envoie des candidatures comparables qui ne diffèrent que par le nom.",
+  "explication": "Un testing mesure l'effet du seul nom sur les rappels. L'étude de la Dares, de l'IPP et d'ISM Corum porte sur 2 400 offres et 9 600 candidatures. L'Insee complète avec les enquêtes Emploi et Trajectoires et origines : écarts de chômage et sentiment de discrimination.",
+  "faits": [
+    {
+      "fait": "À candidature équivalente, les candidatures à consonance maghrébine sont rappelées 31,5 % moins souvent (22,8 % contre 33,3 %) : il faut envoyer environ 1,5 fois plus de CV pour obtenir autant de rappels.",
+      "periode": "Décembre 2019 - avril 2021",
+      "perimetre": "2 400 offres, 11 métiers, France métropolitaine",
+      "explication": "La discrimination est mesurée par une méthode expérimentale, pas déduite d'impressions.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "31,5 %"
+    },
+    {
+      "fait": "En 2019-2020, le taux de chômage des 18-59 ans diplômés est de 16 % pour les immigrés et descendants d'immigrés du Maghreb, contre 6 % pour les personnes sans ascendance migratoire ; 66 % de l'écart n'est pas expliqué par les caractéristiques observées.",
+      "periode": "2019-2020",
+      "perimetre": "France, 18-59 ans, diplômés du CAP à bac+5",
+      "explication": "Même à diplôme égal, l'écart reste massif.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "16 % / 6 %"
+    },
+    {
+      "fait": "37 % des hommes immigrés du Maghreb déclarent s'être vu refuser injustement un emploi, contre 15 % des hommes sans ascendance migratoire.",
+      "periode": "Enquête Trajectoires et origines 2 (2019-2020)",
+      "perimetre": "France",
+      "explication": "Le vécu déclaré concorde avec la mesure expérimentale.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "37 % / 15 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Ce n'est pas une impression, c'est mesuré : dans le testing public de 2019-2021, à CV équivalent, un nom à consonance maghrébine est rappelé 31,5 % moins souvent (Dares). Et à diplôme égal, le chômage des personnes originaires du Maghreb est de 16 % contre 6 %.",
+    "moyen": "On n'a pas besoin de croire qui que ce soit sur parole : on a mesuré. Entre 2019 et 2021, la Dares et des chercheurs de l'IPP ont envoyé 9 600 candidatures à 2 400 offres. Seule différence : le nom. Résultat : 22,8 % de rappels pour un nom à consonance maghrébine, contre 33,3 % pour un nom à consonance française.\n\nL'Insee confirme : à diplôme égal, 16 % de chômage pour les personnes originaires du Maghreb contre 6 % pour les autres, et les deux tiers de cet écart ne s'expliquent ni par l'âge ni par le diplôme. Ce n'est pas une excuse : c'est une injustice, et c'est un délit.",
+    "detaille": "Dire que les discriminations sont une « excuse », c'est renverser la charge : on accuse les victimes de se plaindre. Or la discrimination à l'embauche est l'un des phénomènes sociaux les mieux mesurés, grâce au testing.\n\nLa grande étude publique conduite par la Dares, l'Institut des politiques publiques et ISM Corum (décembre 2019 - avril 2021) a envoyé 9 600 candidatures à 2 400 offres, dans 11 métiers. Les candidatures à consonance maghrébine sont rappelées 31,5 % moins souvent : 22,8 % contre 33,3 %.\n\nLes données de l'Insee vont dans le même sens : en 2019-2020, à diplôme comparable, le taux de chômage des immigrés et descendants d'immigrés du Maghreb atteint 16 %, contre 6 % pour les personnes sans ascendance migratoire, et 66 % de l'écart reste inexpliqué par les caractéristiques observées. 37 % des hommes immigrés du Maghreb déclarent avoir été injustement refusés à un emploi.\n\nLa discrimination est interdite par la loi. La combattre, c'est défendre l'égalité républicaine, pas « victimiser » qui que ce soit.",
+    "empathie": "Je comprends qu'on n'ait pas envie de croire que notre pays discrimine : moi non plus, ça ne me fait pas plaisir. Mais on l'a mesuré très simplement, avec des CV qui ne diffèrent que par le nom, et le résultat est net. Reconnaître le problème, c'est la première étape pour être fidèle à l'égalité."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est le niveau de diplôme ou le quartier, pas le racisme.",
+      "reponse": "Le testing compare des candidatures équivalentes qui ne diffèrent que par le nom ; et selon l'Insee, deux tiers de l'écart de chômage ne s'expliquent pas par les caractéristiques observées."
+    },
+    {
+      "objection": "Ils n'ont qu'à mieux s'intégrer.",
+      "reponse": "Les candidats du testing ont le même parcours fictif que les autres : la seule différence, c'est le nom. On ne peut pas « s'intégrer » davantage en changeant son nom."
+    }
+  ],
+  "questions": [
+    "Si deux CV identiques ne diffèrent que par le nom, comment expliques-tu l'écart de rappels ?",
+    "Qu'est-ce qui te ferait accepter qu'une discrimination existe, si un testing ne suffit pas ?"
+  ],
+  "limites": [
+    "Le testing de 2019-2021 porte sur les grandes et moyennes entreprises et sur 11 métiers.",
+    "Les données d'enquête datent de 2019-2020."
+  ],
+  "sources": [
+    {
+      "titre": "Discrimination à l'embauche des personnes d'origine supposée maghrébine : quels enseignements d'une grande étude par testing ? (Dares Analyses n° 67)",
+      "organisme": "Dares, Institut des politiques publiques (IPP) et ISM Corum",
+      "date_publication": "Novembre 2021",
+      "url": "https://migrant-integration.ec.europa.eu/system/files/2022-01/Dares%20Analyses_testing_discrimination_embauche.pdf",
+      "passage": "Testing de décembre 2019 à avril 2021 (interruption mars-juin 2020) : 2 400 offres, 9 600 candidatures, 11 métiers, France métropolitaine. Taux de rappel 33,3 % pour les candidatures à consonance française, 22,8 % pour celles à consonance maghrébine : « Ces candidatures sont 31,5 % moins souvent rappelées » ; il faut environ 1,5 fois plus de CV pour obtenir autant de rappels. CV non strictement identiques, rotation systématique des identités.",
+      "pertinence": "Étude publique de référence (ministère du Travail), copie hébergée par le site de la Commission européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les discriminations sur le marché du travail subies par les personnes d'origine maghrébine (Immigrés et descendants d'immigrés en France, édition 2023)",
+      "organisme": "Insee (Émilie Arnoult, Dares)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793310",
+      "passage": "Taux de chômage des 18-59 ans diplômés (CAP à bac+5), 2019-2020 : 6 % pour les personnes sans ascendance migratoire, 16 % pour les immigrés et descendants d'immigrés du Maghreb ; 66 % de l'écart n'est pas expliqué par les caractéristiques observées. Sentiment de refus injuste d'un emploi : 37 % des hommes immigrés du Maghreb, contre 15 % des hommes sans ascendance migratoire.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Un testing mesure les rappels, pas les embauches finales.",
+    "Les résultats varient selon les métiers et les entreprises."
+  ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "discriminations",
+      "antiracisme"
+    ],
+    "mecanismes": "La discrimination se produit au premier tri des candidatures, souvent sans intention consciente, à partir d’un simple nom.",
+    "consequences": "Des diplômés sont écartés de l’emploi, ce qui alimente la précarité, le découragement et la défiance envers la promesse républicaine.",
+    "democratie": "L’égalité des droits n’a de sens que si elle s’applique dans l’accès à l’emploi.",
+    "propositions": [
+      "Généraliser les tests de discrimination et publier les résultats par entreprise.",
+      "Sanctionner effectivement les discriminations prouvées.",
+      "Former les recruteurs et anonymiser les premières étapes de sélection quand c’est utile."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un testing mesure les rappels, pas les embauches, et les résultats varient selon les métiers et les entreprises.",
+        "integration": "Préciser ces limites renforce l’argument : même sur ce seul indicateur, l’écart est net et mesuré."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "discriminations",
+      "label": "Réalité des discriminations"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "testing",
+    "racisme",
+    "nom a consonance"
+  ],
+  "concepts": [
+    "origine",
+    "emploi",
+    "discrimination"
+  ]
+}

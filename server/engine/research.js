@@ -1,10 +1,11 @@
 // Phase 1 — recherche documentaire. Commune aux deux modes : même exigence de preuve.
 // Le modèle cherche, ouvre les documents, compare et renvoie un dossier brut ; evidence.js le vérifie.
+import { LE_POLITIQUE_SOURCES } from '../../public/js/ligne-editoriale.js';
 import { voletById } from '../../public/js/taxonomy.js';
 import { extractJson, EngineError } from './util.js';
 import { buildDossier } from './evidence.js';
 
-const SOURCES_PRIORITAIRES = 'INSEE, DREES, DARES, SSMSI (ministère de l’Intérieur), Service-Public.fr, Légifrance, Vie-publique.fr, Cour des comptes, Eurostat, OCDE, INED, ministères compétents, documents parlementaires, rapports institutionnels, publications scientifiques évaluées par les pairs, et sources primaires étrangères pour les comparaisons internationales';
+const SOURCES_PRIORITAIRES = 'INSEE, DREES, DARES, INED, CNRS, SSMSI (ministère de l’Intérieur), France Stratégie, OFCE, CEPII, Service-Public.fr, Légifrance, Vie-publique.fr, Cour des comptes, Défenseur des droits, CNCDH, Conseil constitutionnel, documents parlementaires, Eurostat, OCDE, ONU, OIT, Conseil de l’Europe, archives et institutions historiques (Mémorial de la Shoah, Archives nationales), publications scientifiques évaluées par les pairs, et sources primaires étrangères pour les comparaisons internationales';
 
 export function researchSystemPrompt(today) {
   return `Tu es le documentaliste de « Gauchise tes parents », un outil d'éducation populaire. Date du jour : ${today}.
@@ -20,6 +21,8 @@ Procédure :
 6. Cherche explicitement les éléments qui contredisent ou compliquent l'interprétation la plus évidente.
 7. Si les données donnent raison, même partiellement, à l'affirmation, dis-le dans « alerte » et propose une manière plus solide de formuler une réponse.
 8. Si les sources sont insuffisantes, dis précisément ce qui manque dans « manques ».
+
+${LE_POLITIQUE_SOURCES}
 
 Règles absolues :
 - N'invente jamais un titre, une date, une citation, un chiffre, une URL ou une référence juridique.

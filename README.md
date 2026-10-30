@@ -16,6 +16,14 @@ Ligne éditoriale assumée de gauche, avec une règle non négociable : aucun fa
 
 ---
 
+## Nouveautés v10
+
+- **Ligne éditoriale assumée** (`public/js/ligne-editoriale.js`) : 17 principes de gauche (égalité, universalité des droits, solidarité, dignité, antiracisme, antifascisme…) et 8 règles de vérité, partagés par le moteur hors ligne et le mode connecté.
+- **Lecture de gauche** dans chaque argumentaire : mécanismes, conséquences humaines, enjeu démocratique, valeurs, propositions (étiquetées comme telles) et faits défavorables honnêtement intégrés.
+- **Fermeté sur la dignité humaine** : déshumanisation, appels à la violence, exclusion collective et antisémitisme sont signalés sans faux équilibre ; la critique d'une politique ne l'est pas.
+- **Politique documentaire** : classement automatique des sources (autorité, complément, origine) et audit de chaque fiche ; les sources de droite ou partisanes ne valident jamais un fait sans attribution ; plus aucun fait ne repose sur une encyclopédie.
+- **4 nouvelles fiches** (discriminations, égalité salariale, secours en mer, antisémitisme) et corrections documentaires. Ordre des scripts : générateurs → `npm run fiches:corriger` → `npm run enrichir`. Voir `RAPPORT-V10.md`.
+
 ## Nouveautés v9
 
 - **La réponse avant la méthode** : chaque argumentaire suit le même ordre — 1. la réponse, 2. les preuves (avec « ce que ça montre »), 3. comment présenter l'argument, 4. comment aborder la discussion.

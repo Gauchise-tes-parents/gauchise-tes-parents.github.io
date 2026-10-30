@@ -42,7 +42,7 @@
       "fiabilite": "etabli"
     },
     {
-      "fait": "Jean-Pierre Chevènement, figure de la gauche républicaine, a démissionné du ministère de la Défense en janvier 1991 pour protester contre l'intervention dans la guerre du Golfe, s'est opposé au traité de Maastricht et a fondé le Mouvement des citoyens.",
+      "fait": "Selon l’encyclopédie Larousse, Jean-Pierre Chevènement, figure de la gauche républicaine, a démissionné du ministère de la Défense en janvier 1991 pour protester contre l'intervention dans la guerre du Golfe, s'est opposé au traité de Maastricht et a fondé le Mouvement des citoyens.",
       "periode": "1991-1993",
       "perimetre": "Gauche française",
       "explication": "Le souverainisme de gauche existe : il défend la nation républicaine contre ce qu'il juge être une perte de contrôle démocratique.",
@@ -139,6 +139,24 @@
     "bruxelles",
     "union europeenne"
   ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "solidarite"
+    ],
+    "mecanismes": "La gauche a une longue histoire patriotique : la souveraineté populaire, la Résistance, la défense des services publics comme bien commun national.",
+    "consequences": "Prétendre que la gauche « déteste la France » efface cette histoire.",
+    "democratie": "Aimer son pays, c’est vouloir qu’il soit juste pour tous ses habitants.",
+    "propositions": [
+      "Opposer à la nation qui exclut une nation qui protège : sécurité sociale, école, égalité."
+    ],
+    "defavorables": [
+      {
+        "fait": "La gauche est traversée de débats réels sur la nation, la souveraineté et l’Europe.",
+        "integration": "Ces désaccords prouvent l’importance du sujet à gauche, pas son rejet."
+      }
+    ]
+  },
   "concepts": [
     "patriotisme",
     "gauche",

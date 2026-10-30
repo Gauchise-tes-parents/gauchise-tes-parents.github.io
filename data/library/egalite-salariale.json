@@ -1,0 +1,145 @@
+{
+  "id": "egalite-salariale",
+  "type": "idee_recue",
+  "affirmation": "L'égalité salariale entre les femmes et les hommes, c'est réglé.",
+  "volet": "droits",
+  "sous_theme": "Égalité salariale",
+  "rubriques": [],
+  "mots_cles": [
+    "égalité salariale",
+    "femmes",
+    "hommes",
+    "écart de salaire",
+    "inégalités",
+    "féminisme",
+    "temps partiel",
+    "à travail égal salaire égal",
+    "c est réglé"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "En 2024, dans le privé, les femmes gagnent en moyenne 21,8 % de moins que les hommes sur l'année, et 14,0 % de moins à temps de travail égal (Insee). À poste comparable dans le même établissement, l'écart est plus faible (3,6 %) : l'essentiel de l'inégalité tient au temps partiel, aux métiers féminisés moins payés et aux carrières freinées.",
+  "contexte": "L'égalité de salaire « à travail égal » est inscrite dans la loi depuis 1972. Beaucoup en concluent que le problème est réglé.",
+  "explication": "L'Insee mesure plusieurs écarts emboîtés : sur le revenu salarial annuel, en équivalent temps plein, puis à emploi comparable. Chaque niveau dit quelque chose de différent : l'écart total révèle les inégalités de temps de travail et de métiers ; l'écart à poste comparable approche, sans la mesurer directement, la discrimination pure.",
+  "faits": [
+    {
+      "fait": "En 2024, dans le secteur privé, le revenu salarial moyen des femmes est inférieur de 21,8 % à celui des hommes (22 060 € contre 28 220 €).",
+      "periode": "2024",
+      "perimetre": "Salariés du secteur privé",
+      "explication": "Sur une année, l'écart reste d'un cinquième.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "21,8 %"
+    },
+    {
+      "fait": "À temps de travail égal (en équivalent temps plein), l'écart de salaire atteint 14,0 %.",
+      "periode": "2024",
+      "perimetre": "Salariés du secteur privé",
+      "explication": "Même en neutralisant le temps partiel, l'écart persiste.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "14,0 %"
+    },
+    {
+      "fait": "À emploi comparable (même poste, même établissement), l'écart est estimé à 3,6 %, sur environ un quart des établissements ; il ne mesure pas directement la discrimination.",
+      "periode": "2024",
+      "perimetre": "Environ 25 % des établissements du privé",
+      "explication": "L'essentiel de l'écart vient du temps partiel, des métiers et des carrières, pas seulement d'un salaire différent pour le même poste.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "3,6 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non : en 2024, les femmes gagnent 21,8 % de moins que les hommes sur l'année, et 14 % de moins à temps de travail égal (Insee). L'égalité est dans la loi depuis 1972 ; dans les fiches de paie, pas encore.",
+    "moyen": "La loi impose l'égalité « à travail égal » depuis 1972, mais regarde les chiffres de l'Insee pour 2024 : sur l'année, les femmes du privé gagnent 21,8 % de moins que les hommes ; à temps de travail égal, 14 % de moins.\n\nÀ poste identique dans la même entreprise, l'écart tombe à 3,6 %. C'est justement intéressant : l'inégalité ne vient pas seulement d'un salaire différent pour le même poste, mais du temps partiel subi, des métiers féminisés moins bien payés (soin, nettoyage, aide à domicile) et des carrières freinées par les enfants. C'est là que ça se joue.",
+    "detaille": "L'égalité salariale « à travail égal » est obligatoire depuis 1972. Pourtant, selon l'Insee, en 2024, dans le secteur privé, le revenu salarial moyen des femmes est inférieur de 21,8 % à celui des hommes : 22 060 € contre 28 220 €.\n\nUne partie de cet écart vient du temps de travail : en équivalent temps plein, l'écart reste de 14,0 %. À emploi comparable, dans le même établissement, il est estimé à 3,6 %, sur environ un quart des établissements ; l'Insee précise que cet indicateur ne mesure pas directement la discrimination.\n\nCe résultat ne « dégonfle » pas le problème, il le précise : l'inégalité est d'abord structurelle. Les femmes sont plus souvent à temps partiel, concentrées dans des métiers moins rémunérés, et leurs carrières ralentissent davantage après une naissance. Réduire l'écart suppose de revaloriser les métiers féminisés, de lutter contre le temps partiel subi et de partager le congé parental, en plus de sanctionner les discriminations directes.",
+    "empathie": "Je comprends qu'on pense que c'est réglé : la loi existe depuis longtemps. Mais les chiffres de l'Insee montrent encore 14 % d'écart à temps de travail égal. Ce n'est pas forcément ton patron qui triche : c'est la façon dont on paie les métiers et dont on organise les carrières."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est parce que les femmes choisissent le temps partiel.",
+      "reponse": "Une partie du temps partiel est subie, et elle pèse surtout sur les femmes ; même en équivalent temps plein, l'écart reste de 14,0 %."
+    },
+    {
+      "objection": "À poste égal, il n'y a presque plus d'écart.",
+      "reponse": "C'est vrai que l'écart à poste comparable est faible (3,6 %). Mais pourquoi les métiers où il y a beaucoup de femmes sont-ils moins bien payés ? L'inégalité est surtout là."
+    }
+  ],
+  "questions": [
+    "Pourquoi, selon toi, une aide-soignante gagne-t-elle moins qu'un technicien de maintenance ?",
+    "Si c'est réglé, comment expliques-tu les 14 % d'écart à temps de travail égal ?"
+  ],
+  "limites": [
+    "Les chiffres portent sur le secteur privé.",
+    "L'écart à emploi comparable ne couvre qu'environ un quart des établissements."
+  ],
+  "sources": [
+    {
+      "titre": "Écart de salaire entre femmes et hommes en 2024 (Insee Focus n° 377)",
+      "organisme": "Insee",
+      "date_publication": "26 février 2026",
+      "url": "https://insee.fr/fr/statistiques/8743657",
+      "passage": "Secteur privé, 2024 : revenu salarial moyen des femmes inférieur de 21,8 % à celui des hommes (22 060 € contre 28 220 €) ; écart de salaire en équivalent temps plein de 14,0 % ; écart « à emploi comparable » (même poste, même établissement) estimé à 3,6 %, sur environ 25 % des établissements, sans mesurer directement la discrimination.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "À poste comparable dans le même établissement, l'écart est faible (3,6 %).",
+    "Une partie de l'écart reflète des différences de temps de travail et de métiers, qui ne relèvent pas toutes d'une discrimination directe."
+  ],
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "egalite",
+      "travailleurs"
+    ],
+    "mecanismes": "L’écart vient surtout du temps partiel, de la sous-valorisation des métiers féminisés et des carrières freinées par la parentalité, en plus des discriminations directes.",
+    "consequences": "Ces écarts se cumulent tout au long de la vie et se retrouvent dans les pensions de retraite.",
+    "democratie": "L’égalité inscrite dans la loi doit se traduire dans les fiches de paie.",
+    "propositions": [
+      "Revaloriser les métiers du soin, du nettoyage et de l’aide à domicile.",
+      "Lutter contre le temps partiel subi et instaurer un congé parental mieux partagé.",
+      "Sanctionner les entreprises qui ne corrigent pas les écarts injustifiés."
+    ],
+    "defavorables": [
+      {
+        "fait": "À poste comparable dans le même établissement, l’écart de salaire est faible.",
+        "integration": "C’est un résultat important : il montre que l’inégalité est surtout structurelle, et c’est là qu’il faut agir."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "egalite_fh",
+      "label": "Égalité entre les femmes et les hommes"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ],
+  "concepts": [
+    "emploi",
+    "salaires",
+    "femmes",
+    "feminisme"
+  ]
+}

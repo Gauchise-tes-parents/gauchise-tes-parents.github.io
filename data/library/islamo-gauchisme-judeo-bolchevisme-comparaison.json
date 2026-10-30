@@ -25,7 +25,7 @@
   "explication": "Comparer n'est pas assimiler. On peut comparer deux mécanismes rhétoriques précis sans prétendre que deux époques, deux cibles et deux niveaux de violence sont équivalents. La règle : démontrer chaque point commun, et dire clairement les différences.",
   "faits": [
     {
-      "fait": "Le politologue Pascal Boniface, l'historien Shlomo Sand et l'historien Damon Mayaffre ont rapproché la dénonciation de l'« islamo-gauchisme » de celle du « judéo-bolchevisme » de l'entre-deux-guerres, comme formules destinées à disqualifier ou à faire diversion.",
+      "fait": "Le rapprochement entre « islamo-gauchisme » et « judéo-bolchevisme » est présent dans le débat intellectuel, jusque dans le titre de l’analyse du philosophe Anoush Ganjipour (AOC) : « Du judéo-bolchevisme à l’islamo-gauchisme : significations d’un écart ».",
       "periode": "2020-2021",
       "perimetre": "Débat intellectuel français",
       "explication": "Le parallèle est porté par des chercheurs, pas seulement par des militants.",
@@ -37,7 +37,7 @@
       "periode": "31 mars 2021",
       "perimetre": "Analyse publiée par AOC",
       "explication": "Une analyse savante peut à la fois rejeter l'équivalence et éclairer les ressemblances.",
-      "source": 1,
+      "source": 0,
       "fiabilite": "interpretation"
     },
     {
@@ -45,7 +45,7 @@
       "periode": "Avril 2021",
       "perimetre": "Débat public",
       "explication": "Les objections au parallèle portent sur la gravité et la spécificité de l'antisémitisme.",
-      "source": 2,
+      "source": 1,
       "fiabilite": "interpretation"
     },
     {
@@ -53,7 +53,7 @@
       "periode": "1917-1945",
       "perimetre": "Europe",
       "explication": "C'est la différence majeure de gravité : ce mythe a accompagné une politique d'extermination.",
-      "source": 3,
+      "source": 2,
       "fiabilite": "etabli"
     }
   ],
@@ -87,16 +87,6 @@
     "La tribune d'Eugénie Bastié a été consultée dans sa reprise par l'Observatoire juif de France, pas dans Le Figaro."
   ],
   "sources": [
-    {
-      "titre": "Islamo-gauchisme (article encyclopédique)",
-      "organisme": "Wikipédia",
-      "date_publication": "Consulté le 29 octobre 2026",
-      "url": "https://fr.wikipedia.org/wiki/Islamo-gauchisme",
-      "passage": "Pascal Boniface, Shlomo Sand (« Du “judéo-bolchévisme” à “l'islamo-gauchisme” : une même tentative de faire diversion ») et Damon Mayaffre rapprochent les deux expressions.",
-      "pertinence": "Recense les auteurs du parallèle (source secondaire).",
-      "type": "secondaire",
-      "consultee": true
-    },
     {
       "titre": "Du judéo-bolchevisme à l'islamo-gauchisme : significations d'un écart (Anoush Ganjipour)",
       "organisme": "AOC media",
@@ -156,6 +146,24 @@
     "on nous cache",
     "propagande"
   ],
+  "lecture": {
+    "valeurs": [
+      "antifascisme",
+      "antiracisme"
+    ],
+    "mecanismes": "Le point commun réside dans la méthode : fusionner une minorité religieuse et un camp politique pour fabriquer un ennemi intérieur.",
+    "consequences": "Ces amalgames rendent suspects des citoyens pour ce qu’ils sont ou ce qu’ils croient.",
+    "democratie": "Analyser les mécanismes rhétoriques permet de les reconnaître ; assimiler les deux époques sans précaution affaiblirait l’argument.",
+    "propositions": [
+      "Comparer les mécanismes, pas les époques : l’une des deux expressions a accompagné un génocide."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des auteurs, y compris à gauche, jugent la comparaison inexacte, notamment parce que les situations historiques diffèrent profondément.",
+        "integration": "Utiliser la comparaison pour éclairer une méthode de stigmatisation, jamais comme une équivalence historique."
+      }
+    ]
+  },
   "concepts": [
     "islam",
     "medias",

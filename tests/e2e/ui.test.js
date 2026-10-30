@@ -531,7 +531,7 @@ describe('interface — mode démonstration', { skip }, () => {
         assert.ok(txt.indexOf('Source :') > 0, `${t} (${mode}) : des sources`);
         assert.doesNotMatch(avantPreuves, GENERIQUE, `${t} (${mode}) : pas de conseil générique avant la réponse et les preuves`);
         const bas = txt.toLowerCase();
-        assert.ok(bas.indexOf('4 · comment aborder la discussion') > bas.indexOf('2 · les preuves') && bas.indexOf('2 · les preuves') > 0, 'la communication vient en dernier');
+        assert.ok(bas.indexOf('5 · comment aborder la discussion') > bas.indexOf('2 · les preuves') && bas.indexOf('2 · les preuves') > 0, 'la communication vient en dernier');
         if (mode === 'gagner') {
           assert.ok(titres.includes('La riposte qui fait réfléchir'), `${t} : riposte`);
           assert.ok(!titres.some((x) => /empathie|sans braquer|comprendre son point de vue/i.test(x)), `${t} : pas de bloc empathique en mode gagner (${titres.join(' / ')})`);
@@ -545,6 +545,45 @@ describe('interface — mode démonstration', { skip }, () => {
       assert.ok(vus.convaincre.sources >= 1 && vus.gagner.sources >= 1, `${t} : les sources restent dans les deux modes`);
       assert.notDeepEqual(vus.gagner.titres, vus.convaincre.titres, `${t} : les deux modes sont visiblement différents`);
     }
+    assert.ok((await overflow(page)) <= 1);
+    await page.close();
+  });
+
+  test('v10 — lecture de gauche (valeurs, propositions, faits défavorables) et fermeté sur la dignité humaine', async () => {
+    const page = await newPage(browser, PHONE, errors);
+    const express = async (t, mode = 'gagner') => {
+      await page.goto(`${s.base}/#/express`);
+      await page.locator(`[data-express-mode="${mode}"]`).click();
+      await page.locator('#express-text').fill(t);
+      await page.getByRole('button', { name: 'Sortir une réplique' }).click();
+      await page.waitForFunction(() => ['#/argumentaire', '#/introuvable'].includes(location.hash));
+    };
+    for (const mode of ['gagner', 'convaincre']) {
+      await express('Les immigrés prennent le travail des Français.', mode);
+      const panel = page.locator('.fiche-panel:not([hidden])');
+      const txt = (await panel.innerText()).toLowerCase();
+      assert.ok(txt.indexOf('3 · la lecture de gauche') > txt.indexOf('2 · les preuves'), 'la lecture politique vient après les preuves');
+      const lect = panel.locator('.lecture');
+      assert.match(await lect.textContent(), /Les valeurs en jeu/);
+      assert.match(await lect.textContent(), /propositions politiques : des choix assumés, pas des faits/);
+      assert.match(await lect.textContent(), /Ce qui ne va pas dans notre sens/);
+      assert.match(await lect.textContent(), /Protection des travailleurs/);
+    }
+    // déshumanisation : pas de faux équilibre, même sans fiche
+    await express('Les immigrés sont des parasites.');
+    assert.match(await page.locator('.dignite').textContent(), /n’est pas une opinion comme une autre/);
+    assert.match(await page.locator('.dignite').textContent(), /Déshumanisation/);
+    // appel à laisser mourir : fermeté + réponse sourcée sur le droit de la mer
+    await express('Il faut les laisser se noyer en mer.');
+    assert.match(await page.locator('.dignite').textContent(), /Appel à la violence ou à la mort/);
+    assert.ok(await page.locator('.crumb a[href="#/bibliotheque/migrants-mediterranee"]').count());
+    // critique d'une politique : pas d'alerte de dignité
+    await express('Il faut réduire l’immigration.');
+    assert.equal(await page.locator('.dignite').count(), 0);
+    // la fiche affiche aussi sa lecture de gauche
+    await page.goto(`${s.base}/#/bibliotheque/antisemitisme-aujourdhui`);
+    await page.locator('.lecture-fiche > summary').click();
+    assert.match(await page.locator('.lecture-fiche').textContent(), /LFI/);
     assert.ok((await overflow(page)) <= 1);
     await page.close();
   });

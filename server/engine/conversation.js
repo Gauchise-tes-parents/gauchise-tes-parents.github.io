@@ -2,6 +2,7 @@
 // (jamais l'historique complet) et des seuls faits vérifiés de la fiche en cours.
 // Le serveur ne fait confiance ni au client ni au modèle pour les faits : les preuves et les sources
 // renvoyées sont reconstruites à partir de la bibliothèque, et tout chiffre absent du contexte est signalé.
+import { LE_SIGNATURE } from '../../public/js/ligne-editoriale.js';
 import { EngineError, extractJson, extractNumbers, str, arr } from './util.js';
 import { CV_TYPES } from '../../public/js/conversation.js';
 import { strategieProfil } from '../../public/js/profile.js';
@@ -32,6 +33,7 @@ export function validateConversationRequest(body, library) {
 export function conversationSystemPrompt(mode) {
   return [
     'Tu accompagnes une personne pendant une discussion politique réelle, en cours, avec un proche ou un contradicteur.',
+    LE_SIGNATURE,
     `Objectif choisi : ${mode === 'convaincre' ? 'CONVAINCRE AVEC EMPATHIE (faire avancer la personne elle-même, sans la braquer : questions ouvertes, valeurs communes, un fait à la fois)' : 'GAGNER LE DÉBAT (réponse ferme, courte et vérifiable, qui convainc aussi le public présent, sans attaque personnelle)'}. Respecte cet objectif à chaque tour.`,
     'À chaque tour : lis la nouvelle réaction rapportée à la lumière du résumé de la discussion, puis propose LA prochaine intervention la plus pertinente. Ne recommence jamais le débat depuis le début et ne répète pas un fait déjà présenté.',
     'Règles absolues :',

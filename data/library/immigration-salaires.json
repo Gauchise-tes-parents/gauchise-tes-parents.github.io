@@ -135,6 +135,25 @@
     "marche du travail",
     "pole emploi"
   ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "repartition"
+    ],
+    "mecanismes": "Le dumping social vient de travailleurs privés de droits : c’est l’absence de droits, pas la nationalité, qui fait baisser les salaires.",
+    "consequences": "Les premiers perdants du dumping sont les travailleurs sans papiers eux-mêmes, puis leurs collègues.",
+    "democratie": "Une égalité de droits au travail protège l’ensemble du salariat.",
+    "propositions": [
+      "Appliquer « à travail égal, salaire égal » quelle que soit la nationalité, avec des contrôles réels.",
+      "Lutter contre la sous-traitance en cascade qui permet de contourner le droit du travail."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les études ne concluent pas toutes à un effet nul pour tous les groupes : des effets négatifs locaux et temporaires sont possibles.",
+        "integration": "C’est un argument pour des droits égaux et un salaire minimum respecté, pas pour l’exclusion."
+      }
+    ]
+  },
   "concepts": [
     "immigration",
     "emploi",

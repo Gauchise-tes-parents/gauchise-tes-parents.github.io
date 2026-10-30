@@ -44,7 +44,7 @@
       "fiabilite": "interpretation"
     },
     {
-      "fait": "Son discours de lancement de campagne à Saint-Denis, le 7 juin 2026, est un texte préparé lu en 52 minutes, au lexique dense, qui mobilise un vocabulaire du conflit (« guerre », « crime », « menace », « rupture ») ; le politiste Bruno Cautrès reprend le portrait d'un « tribun hors pair ».",
+      "fait": "Selon l’Institut Montaigne, son discours de lancement de campagne à Saint-Denis, le 7 juin 2026, est un texte préparé lu en 52 minutes, au lexique dense, qui mobilise un vocabulaire du conflit (« guerre », « crime », « menace », « rupture ») ; le politiste Bruno Cautrès reprend le portrait d'un « tribun hors pair ».",
       "periode": "7 juin 2026",
       "perimetre": "Analyse logométrique",
       "explication": "Le registre est combatif, mais la forme est celle d'un discours écrit, pas d'un cri permanent.",
@@ -147,6 +147,24 @@
     "cingle",
     "agressif"
   ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes"
+    ],
+    "mecanismes": "Juger une personnalité sur son ton permet d’éviter de discuter de ses propositions.",
+    "consequences": "Le débat public se réduit aux styles, au détriment des programmes.",
+    "democratie": "On peut critiquer la communication d’un responsable et discuter quand même, sérieusement, de ce qu’il propose.",
+    "propositions": [
+      "Ramener le débat aux mesures : salaires, services publics, fiscalité, institutions."
+    ],
+    "defavorables": [
+      {
+        "fait": "Jean-Luc Mélenchon a été condamné après la perquisition de 2018 et son ton est critiqué jusque dans son propre camp.",
+        "integration": "Le reconnaître sans détour ; être de gauche ne signifie pas défendre chaque comportement d’un dirigeant."
+      }
+    ]
+  },
   "concepts": [
     "melenchon_lfi",
     "gauche",

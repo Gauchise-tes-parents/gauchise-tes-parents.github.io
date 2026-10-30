@@ -57,6 +57,15 @@
       "explication": "L'amalgame visait à faire passer des résistants pour des étrangers ennemis de la France.",
       "source": 2,
       "fiabilite": "etabli"
+    },
+    {
+      "fait": "Sur les 330 000 Juifs vivant en France en 1939, 76 000 ont été déportés et assassinés.",
+      "periode": "1940-1944",
+      "perimetre": "France",
+      "explication": "La désignation des Juifs comme ennemis intérieurs a précédé et accompagné leur persécution.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "76 000"
     }
   ],
   "argumentaires": {
@@ -113,6 +122,16 @@
       "pertinence": "Publication officielle.",
       "type": "primaire",
       "consultee": true
+    },
+    {
+      "titre": "Les Juifs de France dans la Shoah (panneaux d’exposition itinérante)",
+      "organisme": "Mémorial de la Shoah",
+      "date_publication": "2016",
+      "url": "https://memorialdelashoah.org/wp-content/uploads/2016/04/les-juifs-de-france-kakemono-caisse_155.pdf",
+      "passage": "« Sur les 330 000 Juifs vivant en France en 1939, 76 000 d’entre eux ont été déportés et assassinés » ; panneaux « La législation antisémite » et « Une propagande antisémite acharnée ».",
+      "pertinence": "Institution de référence sur l’histoire de la Shoah.",
+      "type": "primaire",
+      "consultee": true
     }
   ],
   "derniere_verification": "2026-10-29",
@@ -136,6 +155,26 @@
     "vichy",
     "front national"
   ],
+  "lecture": {
+    "valeurs": [
+      "antifascisme",
+      "dignite",
+      "antiracisme"
+    ],
+    "mecanismes": "Le mythe soude trois choses distinctes — une population (les Juifs), une idéologie (le communisme) et une organisation (l’URSS, les partis communistes) — en un seul « ennemi intérieur ». Il transforme une peur politique en haine raciale et justifie d’avance l’exclusion.",
+    "consequences": "Sous l’Occupation, la propagande de Vichy et des occupants a préparé les esprits aux lois antisémites, aux rafles et aux déportations.",
+    "democratie": "Désigner une partie de la population comme traître par nature, c’est sortir du cadre démocratique où l’on combat des idées et des actes, pas des naissances.",
+    "propositions": [
+      "Enseigner l’histoire de la propagande antisémite et de ses mécanismes, pas seulement ses conséquences.",
+      "Refuser, d’où qu’ils viennent, les discours qui assimilent une population à un ennemi politique."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’anticommunisme de l’époque n’était pas toujours antisémite, et des communistes ont aussi tenu des propos antisémites.",
+        "integration": "La critique d’une idéologie est légitime ; ce qui caractérise le mythe, c’est l’assignation d’une population à cette idéologie."
+      }
+    ]
+  },
   "concepts": [
     "medias",
     "antisemitisme",

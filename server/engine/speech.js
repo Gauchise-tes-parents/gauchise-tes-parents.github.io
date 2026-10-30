@@ -1,11 +1,13 @@
 // « Préparer ma démonstration » : plan oral de 30 s, 1 min ou 3 min + version spontanée en points clés.
 // Pas de recherche : uniquement le dossier vérifié et la stratégie déjà produite. Chiffres contrôlés.
+import { LE_SIGNATURE } from '../../public/js/ligne-editoriale.js';
 import { extractJson, EngineError, newNumbers, extractNumbers, str, arr } from './util.js';
 import { dossierReferenceText } from './evidence.js';
 
 const MOTS_PAR_SECONDE = 2.3; // débit oral courant en français (~140 mots/min)
 
-export const SPEECH_SYSTEM = `Tu écris un texte destiné à être DIT à voix haute pendant une vraie conversation, pour l'outil « Gauchise tes parents » (ligne éditoriale de gauche, éducation populaire).
+export const SPEECH_SYSTEM = `Tu écris un texte destiné à être DIT à voix haute pendant une vraie conversation, pour l'outil « Gauchise tes parents ».
+${LE_SIGNATURE}
 Règles :
 - N'utilise que les faits et chiffres du dossier fourni. N'ajoute aucun chiffre.
 - Phrases courtes, rythme oral, une idée par phrase, pas de jargon. Pas d'insulte ni d'attaque personnelle.

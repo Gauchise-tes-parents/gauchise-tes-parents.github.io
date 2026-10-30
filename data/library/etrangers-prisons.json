@@ -183,6 +183,26 @@
     "criminalite",
     "caillera"
   ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "libertes",
+      "dignite"
+    ],
+    "mecanismes": "La part des étrangers en prison s’explique en partie par l’âge, le sexe, la précarité, la détention provisoire plus fréquente faute de garanties de représentation, et des infractions liées au séjour.",
+    "consequences": "Assigner la délinquance à une nationalité stigmatise des millions de personnes qui n’ont rien commis.",
+    "democratie": "La justice juge des actes individuels ; une politique pénale fondée sur l’origine romprait l’égalité devant la loi.",
+    "propositions": [
+      "Agir sur les causes sociales de la délinquance : précarité, logement, accès à l’emploi.",
+      "Développer les alternatives à la détention provisoire quand les garanties le permettent."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les étrangers sont surreprésentés en prison par rapport à leur part dans la population.",
+        "integration": "Le reconnaître, puis expliquer ce que ce chiffre mesure et ne mesure pas : il ne prouve aucun lien de cause entre nationalité et délinquance."
+      }
+    ]
+  },
   "concepts": [
     "immigration",
     "delinquance",

@@ -132,11 +132,6 @@
     "Le déficit (5,8 % du PIB) et la dette (113,2 % du PIB) sont élevés.",
     "La charge d'intérêts de la dette augmente fortement (60 Md€ en 2024)."
   ],
-  "concepts": [
-    "fiscalite",
-    "services_publics",
-    "dette"
-  ],
   "repond_a": [
     {
       "id": "services_publics_moyens",
@@ -161,5 +156,30 @@
     "argent public",
     "argent magique",
     "n a plus les moyens"
+  ],
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "solidarite",
+      "repartition"
+    ],
+    "mecanismes": "Le niveau des recettes dépend de choix fiscaux ; réduire les recettes puis invoquer le manque de moyens est une décision politique.",
+    "consequences": "Les fermetures de services touchent d’abord ceux qui n’ont pas d’alternative privée : territoires ruraux, quartiers populaires, personnes âgées.",
+    "democratie": "Les services publics garantissent l’égalité d’accès aux droits sur tout le territoire.",
+    "propositions": [
+      "Financer les services publics par une fiscalité plus progressive et la suppression de niches inefficaces.",
+      "Évaluer le coût des baisses d’impôts au même titre que celui des dépenses."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le déficit et la dette publics sont élevés, et la charge d’intérêts augmente.",
+        "integration": "Ne pas le nier : c’est justement pourquoi il faut parler des recettes et de qui contribue."
+      }
+    ]
+  },
+  "concepts": [
+    "fiscalite",
+    "services_publics",
+    "dette"
   ]
 }

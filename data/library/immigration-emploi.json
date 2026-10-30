@@ -173,6 +173,27 @@
     "marche du travail",
     "pole emploi"
   ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "solidarite",
+      "antiracisme"
+    ],
+    "mecanismes": "Le chômage dépend de l’activité économique, de la politique industrielle, de la formation et des conditions d’emploi. Ce qui tire les salaires vers le bas, c’est le travail illégal et la précarité, que les employeurs organisent ou tolèrent.",
+    "consequences": "Opposer les travailleurs français et étrangers détourne l’attention des employeurs qui exploitent et des politiques qui précarisent.",
+    "democratie": "Désigner les immigrés comme responsables du chômage évite de débattre des choix économiques réels.",
+    "propositions": [
+      "Renforcer l’inspection du travail et sanctionner les employeurs qui exploitent des travailleurs sans droits.",
+      "Régulariser les travailleurs sans papiers qui occupent un emploi, pour qu’ils aient les mêmes droits et ne puissent plus être sous-payés.",
+      "Investir dans la formation et la politique industrielle là où le chômage est le plus élevé."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une étude trouve, à court terme, une baisse du taux d’emploi des travailleurs natifs directement en concurrence avec des immigrés.",
+        "integration": "La réponse de gauche n’est pas de nier ce risque mais de protéger tous les travailleurs : mêmes droits, mêmes salaires, contrôle des employeurs."
+      }
+    ]
+  },
   "concepts": [
     "immigration",
     "emploi",

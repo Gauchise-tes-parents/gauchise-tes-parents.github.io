@@ -651,3 +651,14 @@ button.mode-card { cursor: pointer; }
 .riposte { background: var(--lemon); border: var(--line); border-radius: var(--r-card); padding: 12px 14px; box-shadow: var(--stamp-sm); }
 .riposte .big-q { margin: 0 0 8px; }
 .partielle-note { margin: 8px 0; }
+
+/* ---- v10 : lecture de gauche et dignité ---- */
+.lecture { background: #F1FBF7; border: var(--line); border-radius: var(--r-card); padding: 12px 14px; box-shadow: var(--stamp-sm); overflow-wrap: anywhere; }
+.lecture .lect-ligne { margin: 0 0 8px; }
+.lect-titre { margin: 10px 0 4px; font-weight: 800; }
+.lect-nature { display: inline-block; margin-left: 6px; font-size: 0.72rem; font-weight: 700; color: var(--ink-2); background: #fff; border-radius: 999px; padding: 1px 8px; }
+.lect-valeurs ul, .lect-props ul { padding-left: 18px; margin: 0; }
+.lect-defav { border-top: 1px dashed var(--ink-2); margin-top: 10px; padding-top: 6px; }
+.dignite { background: #FFE5E8; border: var(--line); border-radius: var(--r-card); padding: 12px 14px; margin: 10px 0; box-shadow: var(--stamp-sm); }
+.dignite h2 { font-size: var(--step-1); margin: 0 0 6px; }
+.dignite p { margin: 0 0 6px; }
