@@ -1,0 +1,128 @@
+{
+  "id": "encadrement-loyers",
+  "type": "idee_recue",
+  "affirmation": "L'encadrement des loyers ne sert à rien.",
+  "volet": "economie",
+  "sous_theme": "Loyers",
+  "rubriques": [],
+  "mots_cles": [
+    "encadrement des loyers",
+    "loyers",
+    "loyer",
+    "plafonnement",
+    "propriétaires",
+    "locataires",
+    "paris",
+    "logement cher",
+    "bailleurs"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "À Paris, l'évaluation de l'Atelier parisien d'urbanisme estime que l'encadrement a fait baisser les loyers d'environ 5 %, soit 79 à 82 € par mois pour un loyer moyen de 1 492 €. Mais plus de 4 annonces sur 10 dépassent encore le plafond : l'outil marche, à condition d'être appliqué et contrôlé.",
+  "contexte": "L'encadrement des loyers est appliqué à Paris depuis juillet 2019 et dans plusieurs autres villes. Ses opposants disent qu'il est inefficace ou qu'il fait fuir les propriétaires.",
+  "explication": "L'évaluation compare l'évolution des loyers annoncés à Paris avec ce qui se serait passé sans encadrement. Elle porte sur des annonces, pas sur des baux signés, et ne peut pas distinguer dépassements illégaux et compléments de loyer justifiés.",
+  "faits": [
+    {
+      "fait": "Selon l'évaluation de l'APUR, l'encadrement a réduit les loyers parisiens d'environ 5 %, soit entre 79 € et 82 € par mois pour un loyer moyen de 1 492 € (juillet 2019 - juin 2024).",
+      "periode": "2019-2024",
+      "perimetre": "Paris",
+      "explication": "L'encadrement fait baisser les loyers de manière mesurable.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "79 à 82 €"
+    },
+    {
+      "fait": "Selon la même évaluation, plus de 4 annonces sur 10 proposent un loyer supérieur au plafond (43,2 % en 2023-2024), sans qu'on puisse distinguer dépassements illégaux et compléments justifiés.",
+      "periode": "2023-2024",
+      "perimetre": "Paris",
+      "explication": "Le respect de la règle reste insuffisant : il faut des contrôles.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "43,2 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : à Paris, l'encadrement a fait baisser les loyers d'environ 5 %, soit près de 80 € par mois pour un locataire (APUR, 2025). Le vrai problème, c'est qu'il est mal respecté : plus de 4 annonces sur 10 dépassent encore le plafond.",
+    "moyen": "On a une évaluation sérieuse : l'Atelier parisien d'urbanisme a mesuré l'effet de l'encadrement entre 2019 et 2024. Résultat : des loyers environ 5 % plus bas que sans encadrement, soit 79 à 82 € par mois pour un loyer moyen de 1 492 €.\n\nLe point faible n'est pas la règle, c'est son application : plus de 4 annonces sur 10 restent au-dessus du plafond. La conclusion logique, c'est de contrôler et de sanctionner, pas de supprimer l'outil.",
+    "detaille": "L'évaluation actualisée de l'APUR (juin 2025), réalisée avec des chercheurs, compare les loyers annoncés à Paris à ce qu'ils auraient été sans encadrement. Entre juillet 2019 et juin 2024, l'encadrement les a réduits d'environ 5 % : entre 79 € et 82 € par mois pour un loyer moyen de 1 492 €.\n\nLa même étude montre que plus de 4 annonces sur 10 proposent un loyer supérieur au plafond, une part plus élevée pour les meublés ; une partie de ces dépassements peut être légale (complément de loyer justifié), mais l'étude ne peut pas les distinguer.\n\nL'évaluation porte sur des annonces de professionnels, pas sur des baux signés. L'effet sur le nombre de logements mis en location n'est pas couvert par cette fiche. En l'état des données, dire que l'encadrement « ne sert à rien » est faux ; dire qu'il est insuffisamment appliqué est juste.",
+    "empathie": "Je comprends qu'on doute : les loyers restent très chers. Mais une évaluation sérieuse montre que sans l'encadrement, ils seraient encore plus hauts, d'environ 80 € par mois à Paris. Le problème, c'est que beaucoup de bailleurs ne le respectent pas."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ça fait fuir les propriétaires.",
+      "reponse": "Cette fiche ne contient pas de donnée sur l'offre de logements ; ce qui est mesuré, c'est une baisse des loyers d'environ 5 %. La question de l'offre mérite d'être examinée avec des données, pas affirmée."
+    },
+    {
+      "objection": "Les loyers ont quand même augmenté.",
+      "reponse": "Oui, mais moins qu'ils ne l'auraient fait sans encadrement : c'est exactement ce que mesure l'évaluation."
+    }
+  ],
+  "questions": [
+    "Tu préfères 80 € de plus par mois de loyer, ou des contrôles pour faire respecter la règle ?",
+    "Sur quoi t'appuies-tu pour dire que ça ne marche pas ?"
+  ],
+  "limites": [
+    "L'effet de l'encadrement sur le nombre de logements proposés à la location n'est pas couvert par cette fiche.",
+    "Données d'annonces SeLoger, hors particuliers."
+  ],
+  "sources": [
+    {
+      "titre": "Impact de l'encadrement des loyers à Paris : actualisation de l'évaluation et extension à 5 autres villes régulées",
+      "organisme": "Atelier parisien d'urbanisme (APUR) — Marie Breuillé, Camille Grivault, Yoann Morin, Martin Regnaud",
+      "date_publication": "Juin 2025",
+      "url": "https://www.apur.org/sites/default/files/2025-06/rapport-impact_encadrement_loyers_paris.pdf",
+      "passage": "Paris, juillet 2019 - juin 2024 : l'encadrement réduit les loyers d'environ 5 %, soit entre 79 € et 82 € par mois pour un loyer moyen de 1 492 € ; « plus de 4 annonces sur 10 proposent un loyer supérieur au seuil fixé » (43,2 % en 2023-2024), sans pouvoir distinguer dépassements illégaux et compléments justifiés ; données d'annonces SeLoger, pas de baux signés.",
+      "pertinence": "Évaluation d'une agence publique d'urbanisme réalisée avec des chercheurs.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Plus de 4 annonces sur 10 dépassent le plafond : l'application est insuffisante.",
+    "L'évaluation repose sur des annonces, pas sur des baux signés."
+  ],
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "repartition",
+      "vulnerables"
+    ],
+    "mecanismes": "Dans les villes où la demande dépasse l’offre, les bailleurs fixent des loyers que les revenus ne suivent pas ; l’encadrement limite cette rente.",
+    "consequences": "Sans régulation, les ménages modestes et les jeunes sont repoussés loin des centres et de l’emploi.",
+    "democratie": "Le droit au logement suppose que le marché ne décide pas seul de qui peut habiter où.",
+    "propositions": [
+      "Contrôler et sanctionner les dépassements de plafond.",
+      "Étendre l’encadrement aux zones tendues qui le demandent.",
+      "Construire davantage de logements sociaux."
+    ],
+    "defavorables": [
+      {
+        "fait": "Plus de 4 annonces sur 10 dépassent encore le plafond à Paris, et l’effet sur l’offre n’est pas établi par les données de cette fiche.",
+        "integration": "C’est un argument pour mieux appliquer l’encadrement et pour l’évaluer, pas pour l’abandonner."
+      }
+    ]
+  },
+  "concepts": [
+    "logement"
+  ],
+  "repond_a": [
+    {
+      "id": "encadrement_loyers",
+      "label": "Encadrement des loyers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier",
+    "sdf"
+  ]
+}

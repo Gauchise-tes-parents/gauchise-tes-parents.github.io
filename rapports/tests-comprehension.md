@@ -6,8 +6,8 @@ Rapport produit par `npm run rapport:comprehension` le 2026-10-30 : chaque phras
 
 - **193 phrases** testées, dont 32 du lot de validation (écrites après les réglages).
 - **Nouveau moteur : 193/193 réussies** (argument principal, fiche, arguments secondaires, fiches à exclure, émotions et procédés attendus).
-- Ancienne correspondance par mots (v7), sur la bibliothèque v7 : 93/193 phrases avec la bonne fiche (ou l'absence de fiche quand aucune ne répond).
-- Ancienne correspondance par mots, sur la bibliothèque actuelle (avec les fiches emploi ajoutées en v8) : 115/193.
+- Ancienne correspondance par mots (v7), sur la bibliothèque v7 : 91/193 phrases avec la bonne fiche (ou l'absence de fiche quand aucune ne répond).
+- Ancienne correspondance par mots, sur la bibliothèque actuelle (avec les fiches emploi ajoutées en v8) : 113/193.
 
 Critère « ancien moteur » : la première fiche proposée est l'une des fiches attendues ; quand aucune fiche ne répond, il est compté juste seulement s'il ne propose rien. L'ancien moteur ne repérait ni arguments secondaires, ni émotions, ni procédés : ces critères ne lui sont pas appliqués.
 
@@ -41,8 +41,8 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 
 ## Cartographie
 
-- 43 concepts, 482 mots-clés, expressions, synonymes et fautes fréquentes ;
-- 47 arguments reliés aux fiches qui y répondent (dont 6 sans fiche, signalés comme lacunes) ;
+- 51 concepts, 561 mots-clés, expressions, synonymes et fautes fréquentes ;
+- 58 arguments reliés aux fiches qui y répondent (dont 6 sans fiche, signalés comme lacunes) ;
 - 9 émotions, 12 procédés argumentatifs.
 
 ## Démonstration : « Plus il y a d’immigrés, moins il y a de travail pour les Français. »
@@ -63,7 +63,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 6. Procédé possible : Corrélation présentée comme une cause ; question : « Comment sait-on que c’est la cause, et pas autre chose qui arrive en même temps ? »
 7. Phrase marquante (mode « gagner ») : « Le travail n’est pas un gâteau fixe : si chaque immigré « prenait » un emploi, il n’y aurait jamais eu de création d’emplois en France. »
 
-## Erreurs corrigées par rapport à la v7 (100)
+## Erreurs corrigées par rapport à la v7 (102)
 
 | Phrase | Avant (v7) | Après (v8) |
 |---|---|---|
@@ -89,7 +89,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Les patrons font venir de la main-d’œuvre étrangère pour casser les salaires. | resistance-communistes-etrangers | Immigration et salaires → immigration-salaires |
 | Les entreprises embauchent des étrangers parce qu’ils coûtent moins cher. | discriminations-embauche | Immigration et salaires → immigration-salaires ; Immigration et concurrence sur le marché du travail → immigration-emploi |
 | Les entreprises ne trouvent personne, donc il faut des immigrés. | perte-automatique-droit-sejour | Chômage et difficultés de recrutement → chomage-penurie-recrutement |
-| Il y a des métiers en tension mais personne ne veut les faire. | aucune fiche | Chômage et difficultés de recrutement → chomage-penurie-recrutement |
+| Il y a des métiers en tension mais personne ne veut les faire. | sondages-mille-personnes | Chômage et difficultés de recrutement → chomage-penurie-recrutement |
 | Les postes vacants, c’est parce que les chômeurs ne veulent pas bosser. | aucune fiche | Chômage et difficultés de recrutement → chomage-penurie-recrutement ; Les Français ne voudraient plus travailler → chomeurs-travailler |
 | Les immigrés travaillent pour rien et nous on se retrouve au chômage. | chomeurs-travailler | Immigration et salaires → immigration-emploi |
 | Il faut réserver les emplois aux Français. | souverainete-industrielle-alimentaire-energetique | Sentiment que les Français passent après → immigration-emploi |
@@ -110,7 +110,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Les riches ne paient pas d’impôts et les pauvres paient pour tout. | riches-creent-emplois | Fiscalité, riches et entreprises → dividendes-salaires ; Impôts → impots-assistanat ; Pauvreté → pauvrete-france |
 | On ne peut plus se loger, on ne trouve plus de travail et on voit des aides distribuées partout. Pendant ce temps, les immigrés arrivent encore. | aider-tout-le-monde | Immigration et logement → lacune reconnue ; Immigration et concurrence sur le marché du travail → immigration-emploi ; Immigration et prestations sociales → immigres-aides |
 | Les HLM c’est que pour les étrangers. | criminels-etrangers-proteges-justice | Immigration et logement → lacune reconnue |
-| Il y a de plus en plus d’immigrés en France. | france-plus-sure-moins-immigres | Immigration et démographie → immigration-chiffres-definitions |
+| Il y a de plus en plus d’immigrés en France. | france-pays-immigration | Immigration et démographie → immigration-chiffres-definitions |
 | On perd notre identité. | electricite-nucleaire-renouvelables | Identité et sentiment de dépossession → patriotisme-nationalisme |
 | Les gauchistes n’aiment pas leur pays. | programme-cnr-1944 | La gauche et la patrie → gauche-nation-debats |
 | La gauche a honte du drapeau. | antisemitisme-aujourdhui | La gauche et la patrie → gauche-nation-debats |
@@ -128,7 +128,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Si on taxe les riches, ils vont tous partir. | aucune fiche | Fiscalité, riches et entreprises → melenchon-ruiner-france ; Impôts → impots-assistanat |
 | Les fins de mois sont de plus en plus dures. | aucune fiche | Pouvoir d’achat et revenus du travail → dividendes-salaires |
 | L’Europe nous impose tout. | melenchon-change-avis | Europe et souveraineté → souverainete-populaire |
-| Les médias sont tous de gauche. | gauche-nation-debats | Défiance envers les médias → medias-concentration |
+| Les médias sont tous de gauche. | gauche-au-pouvoir-bilan | Défiance envers les médias → medias-concentration |
 | Les politiques sont tous pourris. | musulmans-amalgames | Défiance envers les élus → lacune reconnue |
 | Tous corrompus, droite comme gauche. | islamo-gauchisme-origine-usages | Défiance envers les élus → lacune reconnue |
 | Et l’immigration alors, ça coûte une fortune. | delinquance-principalement-immigration | Coût de l’immigration pour les finances publiques → immigres-aides |
@@ -136,16 +136,16 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Soit on ferme les frontières, soit la France disparaît. | pauvrete-france | Identité et sentiment de dépossession → immigration-chiffres-definitions |
 | J’en ai marre, on bosse comme des chiens et on n’a rien. | aucune fiche | Pouvoir d’achat et revenus du travail → dividendes-salaires |
 | Personne ne nous écoute, les politiques s’en fichent de nous. | musulmans-amalgames |  |
+| On est abandonnés dans nos campagnes, plus de médecin, plus de poste. | ingerences-etrangeres | Argument sur : emploi et marché du travail → lacune reconnue |
 | Ça me rend fou de voir qu’on aide tout le monde sauf nous. | aucune fiche | Sentiment que les Français passent après → immigres-aides |
 | Les impôts locaux ont augmenté dans ma commune. | gauche-augmenter-impots | Impôts → impots-assistanat |
 | Le foot c’était mieux avant. | commune-paris-1871 | Nostalgie du passé → lacune reconnue |
-| Les immigrés italiens des années 50 se sont bien intégrés. | france-plus-sure-moins-immigres | Argument sur : immigration → lacune reconnue |
 | Les clandestins prennent les boulots dans le bâtiment. | aucune fiche | Immigration et concurrence sur le marché du travail → immigration-emploi |
 | Les réfugiés ont tout gratuit : logement, santé, argent. | impots-assistanat | Immigration et prestations sociales → immigres-aides ; Immigration et logement → lacune reconnue |
 | Ces gens-là viennent juste pour les allocations. | aucune fiche | Immigration et prestations sociales → immigres-aides |
 | Le travail au noir des sans-papiers tire tout le monde vers le bas. | aider-tout-le-monde | Immigration et salaires → immigration-salaires ; Immigration et concurrence sur le marché du travail → immigration-emploi |
 | Ça sert à quoi de former des chômeurs si on fait venir des étrangers ? | aucune fiche | Immigration et concurrence sur le marché du travail → immigration-emploi |
-| Les immigrés ne veulent pas s’intégrer. | delinquance-principalement-immigration | Argument sur : immigration → lacune reconnue |
+| Les immigrés ne veulent pas s’intégrer. | france-pays-immigration | Argument sur : immigration → lacune reconnue |
 | Les délinquants étrangers ne sont jamais expulsés. | expulser-reduit-criminalite | Exécution des mesures d’éloignement → expulser-tous-etrangers-condamnes |
 | L’insécurité a explosé depuis qu’il y a des migrants dans la ville. | migrants-mediterranee | Immigration et délinquance → delinquance-principalement-immigration |
 | Les Français d’abord ! | criminels-etrangers-proteges-justice | Sentiment que les Français passent après → immigres-aides |
@@ -157,6 +157,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Bruxelles décide de tout à notre place. | aucune fiche | Europe et souveraineté → souverainete-populaire |
 | Le nucléaire, c’est l’avenir, les écolos sont des idiots. | aucune fiche | Écologie → electricite-nucleaire-renouvelables |
 | Pétain a sauvé la France. | chomeurs-travailler | Histoire de l’extrême droite → judeo-bolchevisme-histoire |
+| Je connais une famille d’immigrés qui vit des aides depuis vingt ans. | france-pays-immigration | Immigration et prestations sociales → immigres-aides |
 | J’ai l’impression que plus personne ne nous écoute. | justice-laxiste-prison |  |
 | Et alors ? Les immigrés font quand même baisser les salaires. | expulser-reduit-criminalite | Immigration et salaires → immigration-salaires |
 | Prouve-moi que l’immigration ne coûte rien. | statistiques-prouvent-insecurite-immigration | Coût de l’immigration pour les finances publiques → immigres-aides |
@@ -166,6 +167,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | La France doit d’abord s’occuper de ses propres citoyens. | electricite-nucleaire-renouvelables | Sentiment que les Français passent après → immigres-aides |
 | Les caisses sont vides, il faut fermer des hôpitaux. | aucune fiche | Dette et déficit publics → services-publics-moyens |
 | La dette va nous mettre en faillite. | melenchon-ruiner-france | Dette et déficit publics → services-publics-moyens |
+| Avec la gauche au pouvoir, on paiera tous plus d’impôts. | gauche-au-pouvoir-bilan | La gauche et les impôts → gauche-augmenter-impots |
 | Sans les patrons et leur argent, personne n’aurait de boulot. | aucune fiche | Les riches créeraient les emplois → riches-creent-emplois |
 
 ## Détail des 193 phrases
@@ -185,7 +187,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Les patrons préfèrent les immigrés parce qu’ils les paient moins. | obligatoire | Immigration et salaires | Immigration, Salaires, Riches, entreprises et patronat | immigration-salaires | immigres-aides, rsa-smic, chomeurs-travailler | france-plus-sure-moins-immigres | réussi |
 | Il y a du chômage, mais les entreprises disent qu’elles ne trouvent personne. | obligatoire | Chômage et difficultés de recrutement | Emploi et marché du travail, Pénurie et difficultés de recrutement, Riches, entreprises et patronat | chomage-penurie-recrutement | chomeurs-travailler, rsa-smic | aucune | réussi |
 | Les étrangers ont droit à tout alors que les Français n’ont rien. | obligatoire | Immigration et prestations sociales | Immigration, Prestations sociales, Priorité nationale | immigres-aides | immigration-emploi, rsa-smic, perte-automatique-droit-sejour | perte-automatique-droit-sejour | réussi |
-| On travaille toute sa vie et on n’arrive même plus à payer ses factures. | obligatoire | Pouvoir d’achat et revenus du travail | Pouvoir d’achat, Effort et valeur travail | dividendes-salaires | front-populaire-1936 | front-populaire-1936 | réussi |
+| On travaille toute sa vie et on n’arrive même plus à payer ses factures. | obligatoire | Pouvoir d’achat et revenus du travail | Emploi et marché du travail, Pouvoir d’achat, Effort et valeur travail | dividendes-salaires | front-populaire-1936 | front-populaire-1936 | réussi |
 | La France était mieux avant. | obligatoire | Nostalgie du passé | Nostalgie | lacune reconnue | judeo-bolchevisme-histoire | judeo-bolchevisme-histoire | réussi |
 | Plus il y a d’immigrés, moins il y a de travail pour les Français. | obligatoire | Immigration et concurrence sur le marché du travail | Immigration, Emploi et marché du travail | immigration-emploi | immigres-aides, rsa-smic, rsa-profiteurs, chomeurs-travailler, impots-assistanat | immigres-aides | réussi |
 | Ils viennent piquer nos boulots. | familier | Immigration et concurrence sur le marché du travail | Immigration, Emploi et marché du travail | immigration-emploi | immigres-aides, rsa-smic, rsa-profiteurs, chomeurs-travailler, impots-assistanat | aucune | réussi |
@@ -199,7 +201,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Les patrons font venir de la main-d’œuvre étrangère pour casser les salaires. | simple | Immigration et salaires | Immigration, Salaires, Riches, entreprises et patronat | immigration-salaires | immigres-aides, rsa-smic, chomeurs-travailler | resistance-communistes-etrangers | réussi |
 | Les entreprises embauchent des étrangers parce qu’ils coûtent moins cher. | insinuation | Immigration et salaires ; Immigration et concurrence sur le marché du travail | Immigration, Emploi et marché du travail, Salaires, Riches, entreprises et patronat, Coût et finances publiques | immigration-salaires ; immigration-emploi | immigres-aides, rsa-smic, chomeurs-travailler | discriminations-embauche | réussi |
 | Les entreprises ne trouvent personne, donc il faut des immigrés. | simple | Chômage et difficultés de recrutement | Immigration, Pénurie et difficultés de recrutement, Riches, entreprises et patronat | chomage-penurie-recrutement | chomeurs-travailler, rsa-smic | perte-automatique-droit-sejour | réussi |
-| Il y a des métiers en tension mais personne ne veut les faire. | simple | Chômage et difficultés de recrutement | Emploi et marché du travail, Pénurie et difficultés de recrutement | chomage-penurie-recrutement | chomeurs-travailler, rsa-smic | aucune | réussi |
+| Il y a des métiers en tension mais personne ne veut les faire. | simple | Chômage et difficultés de recrutement | Emploi et marché du travail, Pénurie et difficultés de recrutement | chomage-penurie-recrutement | chomeurs-travailler, rsa-smic | sondages-mille-personnes | réussi |
 | Les postes vacants, c’est parce que les chômeurs ne veulent pas bosser. | causalite | Chômage et difficultés de recrutement ; Les Français ne voudraient plus travailler | Emploi et marché du travail, Pénurie et difficultés de recrutement, Effort et valeur travail | chomage-penurie-recrutement ; chomeurs-travailler | rsa-smic | aucune | réussi |
 | Les immigrés travaillent pour rien et nous on se retrouve au chômage. | emotionnel | Immigration et salaires | Immigration, Emploi et marché du travail, Salaires | immigration-emploi | immigres-aides, rsa-smic, chomeurs-travailler | chomeurs-travailler | réussi |
 | Il faut réserver les emplois aux Français. | simple | Sentiment que les Français passent après | Emploi et marché du travail, Priorité nationale | immigration-emploi | — | souverainete-industrielle-alimentaire-energetique | réussi |
@@ -250,7 +252,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Mes enfants n’arrivent pas à se loger. | emotionnel | Difficulté à se loger | Logement | lacune reconnue | — | aucune | réussi |
 | On est en train d’être remplacés. | insinuation | Identité et sentiment de dépossession | Identité et appartenance | immigration-chiffres-definitions | — | immigration-chiffres-definitions | réussi |
 | Les immigrés, c’est déjà un tiers de la population. | chiffre | Immigration et démographie | Immigration, Démographie | immigration-chiffres-definitions | — | immigration-chiffres-definitions | réussi |
-| Il y a de plus en plus d’immigrés en France. | simple | Immigration et démographie | Immigration, Démographie | immigration-chiffres-definitions | france-plus-sure-moins-immigres | france-plus-sure-moins-immigres | réussi |
+| Il y a de plus en plus d’immigrés en France. | simple | Immigration et démographie | Immigration, Démographie | immigration-chiffres-definitions | france-pays-immigration | france-pays-immigration | réussi |
 | On perd notre identité. | emotionnel | Identité et sentiment de dépossession | Identité et appartenance | patriotisme-nationalisme | electricite-nucleaire-renouvelables | electricite-nucleaire-renouvelables | réussi |
 | Les gauchistes n’aiment pas leur pays. | familier | La gauche et la patrie | Patriotisme et nation, La gauche | gauche-nation-debats | programme-cnr-1944 | programme-cnr-1944 | réussi |
 | Être patriote, c’est être de droite. | simple | La gauche et la patrie | Patriotisme et nation | patriotisme-nationalisme | — | patriotisme-nationalisme | réussi |
@@ -293,11 +295,11 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Les agriculteurs crèvent de faim. | simple | Écologie | Écologie | agriculteurs-revenus | — | agriculteurs-revenus | réussi |
 | Les éoliennes, ça ne sert à rien, il faut du nucléaire. | simple | Écologie | Écologie | electricite-nucleaire-renouvelables | — | electricite-nucleaire-renouvelables | réussi |
 | L’Europe nous impose tout. | simple | Europe et souveraineté | Europe et souveraineté | souverainete-populaire | melenchon-change-avis | melenchon-change-avis | réussi |
-| Les médias sont tous de gauche. | generalisation | Défiance envers les médias | Médias, La gauche | medias-concentration | gauche-nation-debats | gauche-nation-debats | réussi |
+| Les médias sont tous de gauche. | generalisation | Défiance envers les médias | Médias, La gauche | medias-concentration | gauche-au-pouvoir-bilan | gauche-au-pouvoir-bilan | réussi |
 | Les journalistes nous mentent. | simple | Défiance envers les médias | Médias | medias-concentration | — | medias-concentration | réussi |
 | Les politiques sont tous pourris. | generalisation | Défiance envers les élus | Défiance envers les élus | lacune reconnue | musulmans-amalgames | musulmans-amalgames | réussi |
 | Tous corrompus, droite comme gauche. | familier | Défiance envers les élus | La gauche, Défiance envers les élus | lacune reconnue | islamo-gauchisme-origine-usages | islamo-gauchisme-origine-usages | réussi |
-| Le Front populaire n’a rien apporté. | histoire | Correspondance avec une fiche | — | front-populaire-1936 | — | front-populaire-1936 | réussi |
+| Le Front populaire n’a rien apporté. | histoire | Correspondance avec une fiche | La gauche | front-populaire-1936 | — | front-populaire-1936 | réussi |
 | La Sécurité sociale, c’est de Gaulle qui l’a créée. | histoire | La Sécurité sociale et son financement | Sécurité sociale et héritage du CNR | securite-sociale-1945 | — | securite-sociale-1945 | réussi |
 | La Commune de Paris, c’était des voyous. | histoire | Correspondance avec une fiche | — | commune-paris-1871 | — | commune-paris-1871 | réussi |
 | La Résistance, c’était la droite, pas les communistes. | histoire | Correspondance avec une fiche | La gauche | resistance-communistes-etrangers | — | resistance-communistes-etrangers | réussi |
@@ -313,19 +315,19 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | J’en ai marre, on bosse comme des chiens et on n’a rien. | emotionnel | Pouvoir d’achat et revenus du travail | Pouvoir d’achat | dividendes-salaires | — | aucune | réussi |
 | Personne ne nous écoute, les politiques s’en fichent de nous. | emotionnel | — | — | aucune | — | musulmans-amalgames | réussi |
 | J’ai peur pour l’avenir de mes enfants. | emotionnel | — | — | aucune | — | aucune | réussi |
-| On est abandonnés dans nos campagnes, plus de médecin, plus de poste. | emotionnel | Argument sur : emploi et marché du travail | Emploi et marché du travail | lacune reconnue | — | aucune | réussi |
+| On est abandonnés dans nos campagnes, plus de médecin, plus de poste. | emotionnel | Argument sur : emploi et marché du travail | Emploi et marché du travail | lacune reconnue | — | ingerences-etrangeres | réussi |
 | Ça me rend fou de voir qu’on aide tout le monde sauf nous. | emotionnel | Sentiment que les Français passent après | Prestations sociales, Priorité nationale, Disqualification d’une personnalité | immigres-aides | — | aucune | réussi |
 | Il fait beau aujourd’hui. | hors_sujet | — | — | aucune | — | aucune | réussi |
 | Bof, je sais pas trop. | hors_sujet | — | — | aucune | — | aucune | réussi |
 | Les impôts locaux ont augmenté dans ma commune. | hors_sujet | Impôts | Fiscalité | impots-assistanat | gauche-augmenter-impots | gauche-augmenter-impots | réussi |
 | Le foot c’était mieux avant. | hors_sujet | Nostalgie du passé | Nostalgie | lacune reconnue | commune-paris-1871 | commune-paris-1871 | réussi |
-| Les immigrés italiens des années 50 se sont bien intégrés. | nuance | Argument sur : immigration | Immigration | lacune reconnue | — | france-plus-sure-moins-immigres | réussi |
+| Les immigrés italiens des années 50 se sont bien intégrés. | nuance | Histoire de l’immigration en France | Immigration, Histoire des migrations | france-pays-immigration | — | france-pays-immigration | réussi |
 | Les clandestins prennent les boulots dans le bâtiment. | simple (validation) | Immigration et concurrence sur le marché du travail | Immigration, Emploi et marché du travail | immigration-emploi | immigres-aides, rsa-smic, rsa-profiteurs, chomeurs-travailler, impots-assistanat | aucune | réussi |
 | Les réfugiés ont tout gratuit : logement, santé, argent. | generalisation (validation) | Immigration et prestations sociales ; Immigration et logement | Immigration, Prestations sociales, Logement | immigres-aides ; lacune reconnue | immigration-emploi, rsa-smic, impots-assistanat | impots-assistanat | réussi |
 | Ces gens-là viennent juste pour les allocations. | insinuation (validation) | Immigration et prestations sociales | Immigration, Prestations sociales | immigres-aides | immigration-emploi, rsa-smic | aucune | réussi |
 | Le travail au noir des sans-papiers tire tout le monde vers le bas. | causalite (validation) | Immigration et salaires ; Immigration et concurrence sur le marché du travail | Immigration, Origine supposée, Emploi et marché du travail, Salaires | immigration-salaires ; immigration-emploi | immigres-aides, rsa-smic, chomeurs-travailler | aider-tout-le-monde | réussi |
 | Ça sert à quoi de former des chômeurs si on fait venir des étrangers ? | question (validation) | Immigration et concurrence sur le marché du travail | Immigration, Emploi et marché du travail | immigration-emploi | immigres-aides, rsa-smic, rsa-profiteurs, chomeurs-travailler, impots-assistanat | aucune | réussi |
-| Les immigrés ne veulent pas s’intégrer. | generalisation (validation) | Argument sur : immigration | Immigration | lacune reconnue | — | delinquance-principalement-immigration | réussi |
+| Les immigrés ne veulent pas s’intégrer. | generalisation (validation) | Argument sur : immigration | Immigration | lacune reconnue | — | france-pays-immigration | réussi |
 | Dans les prisons, il n’y a que des étrangers. | generalisation (validation) | Étrangers, immigrés et population carcérale | Immigration, Prisons | etrangers-prisons | justice-laxiste-prison | etrangers-prisons | réussi |
 | Les délinquants étrangers ne sont jamais expulsés. | simple (validation) | Exécution des mesures d’éloignement | Immigration, Délinquance et insécurité, Expulsion et éloignement | expulser-tous-etrangers-condamnes | expulser-reduit-criminalite | expulser-reduit-criminalite | réussi |
 | Les juges sont trop laxistes avec les étrangers. | simple (validation) | Justice et étrangers | Immigration, Justice pénale | criminels-etrangers-proteges-justice | — | criminels-etrangers-proteges-justice | réussi |
@@ -348,7 +350,7 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | Bruxelles décide de tout à notre place. | simple (validation) | Europe et souveraineté | Europe et souveraineté | souverainete-populaire | — | aucune | réussi |
 | Le nucléaire, c’est l’avenir, les écolos sont des idiots. | provocation (validation) | Écologie | La gauche, Écologie | electricite-nucleaire-renouvelables | — | aucune | réussi |
 | Pétain a sauvé la France. | histoire (validation) | Histoire de l’extrême droite | Histoire de l’extrême droite | judeo-bolchevisme-histoire | chomeurs-travailler | chomeurs-travailler | réussi |
-| Je connais une famille d’immigrés qui vit des aides depuis vingt ans. | anecdote (validation) | Immigration et prestations sociales | Immigration, Prestations sociales | immigres-aides | immigration-emploi, rsa-smic | immigres-aides | réussi |
+| Je connais une famille d’immigrés qui vit des aides depuis vingt ans. | anecdote (validation) | Immigration et prestations sociales | Immigration, Prestations sociales | immigres-aides | immigration-emploi, rsa-smic, france-pays-immigration | france-pays-immigration | réussi |
 | J’ai l’impression que plus personne ne nous écoute. | emotionnel (validation) | — | — | aucune | — | justice-laxiste-prison | réussi |
 | Et alors ? Les immigrés font quand même baisser les salaires. | rebond (validation) | Immigration et salaires | Immigration, Salaires | immigration-salaires | immigres-aides, rsa-smic, chomeurs-travailler | expulser-reduit-criminalite | réussi |
 | Prouve-moi que l’immigration ne coûte rien. | preuve (validation) | Coût de l’immigration pour les finances publiques | Immigration, Coût et finances publiques | immigres-aides | impots-assistanat, rsa-profiteurs, statistiques-prouvent-insecurite-immigration | statistiques-prouvent-insecurite-immigration | réussi |
@@ -363,5 +365,5 @@ Critère « ancien moteur » : la première fiche proposée est l'une des fiches
 | On peut pas accueillir toute la misère du monde. | familier (validation) | Les limites de la solidarité ; Pauvreté | Pauvreté et précarité, Solidarité et ses limites | aider-tout-le-monde ; pauvrete-france | — | aider-tout-le-monde | réussi |
 | Les caisses sont vides, il faut fermer des hôpitaux. | simple (validation) | Dette et déficit publics | Services publics, Dette et dépenses publiques | services-publics-moyens | — | aucune | réussi |
 | La dette va nous mettre en faillite. | peur (validation) | Dette et déficit publics | Dette et dépenses publiques | services-publics-moyens | melenchon-ruiner-france | melenchon-ruiner-france | réussi |
-| Avec la gauche au pouvoir, on paiera tous plus d’impôts. | peur (validation) | La gauche et les impôts | Fiscalité, La gauche | gauche-augmenter-impots | — | gauche-augmenter-impots | réussi |
+| Avec la gauche au pouvoir, on paiera tous plus d’impôts. | peur (validation) | La gauche et les impôts | Fiscalité, La gauche | gauche-augmenter-impots | gauche-au-pouvoir-bilan | gauche-au-pouvoir-bilan | réussi |
 | Sans les patrons et leur argent, personne n’aurait de boulot. | familier (validation) | Les riches créeraient les emplois | Emploi et marché du travail, Riches, entreprises et patronat | riches-creent-emplois | immigration-emploi | aucune | réussi |

@@ -1,0 +1,119 @@
+{
+  "id": "sondages-mille-personnes",
+  "type": "idee_recue",
+  "affirmation": "Un sondage sur mille personnes, ça ne veut rien dire.",
+  "volet": "politique",
+  "sous_theme": "Sondages",
+  "rubriques": [],
+  "mots_cles": [
+    "sondages",
+    "sondage",
+    "mille personnes",
+    "1000 personnes",
+    "marge d erreur",
+    "échantillon",
+    "truqués",
+    "commission des sondages",
+    "intervalle de confiance"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Un échantillon de 1 000 personnes bien construit donne une estimation avec une marge d'erreur connue : pour un score de 50 %, le vrai chiffre a 95 % de chances d'être entre 46,9 % et 53,1 %. Un sondage n'est pas une prédiction, c'est une estimation à un moment donné, et depuis 2016 sa marge d'erreur doit être publiée.",
+  "contexte": "Les sondages sont souvent accusés d'être truqués ou de faire l'élection. Leur fonctionnement statistique est mal connu.",
+  "explication": "La marge d'erreur dépend surtout de la taille de l'échantillon, pas de celle de la population. Elle est maximale autour de 50 %. Elle ne couvre pas les autres sources d'erreur (personnes qui refusent de répondre, changement d'avis).",
+  "faits": [
+    {
+      "fait": "Pour un échantillon de 1 000 personnes et un intervalle de confiance de 95 %, un score de 10 % se situe entre 8,2 % et 11,8 %, et un score de 50 % entre 46,9 % et 53,1 %.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La précision d'un sondage de 1 000 personnes est connue et chiffrable.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "3,1 points"
+    },
+    {
+      "fait": "Depuis une loi de 2016, la marge d'erreur doit être adressée à la Commission des sondages et publiée avec le sondage.",
+      "periode": "Depuis 2016",
+      "perimetre": "France",
+      "explication": "La transparence est obligatoire : on peut vérifier.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Si, à condition de lire la marge d'erreur : avec 1 000 personnes, un score de 50 % veut dire « entre 46,9 et 53,1 % », avec 95 % de confiance. Un sondage est une photo avec un flou connu, pas une prédiction, et sa marge d'erreur doit être publiée depuis 2016.",
+    "moyen": "Ce qui compte, c'est la taille de l'échantillon et sa construction, pas la taille du pays. Avec 1 000 personnes, on connaît la précision : pour un score de 50 %, le vrai chiffre est entre 46,9 et 53,1 % dans 95 % des cas.\n\nLe vrai problème, c'est quand on commente des écarts de 1 ou 2 points comme s'ils voulaient dire quelque chose. Depuis 2016, la marge d'erreur doit être publiée : lisons-la avant de crier victoire ou à la manipulation.",
+    "detaille": "Un sondage repose sur un échantillon : on interroge un nombre limité de personnes pour estimer l'opinion de l'ensemble. La précision dépend surtout de la taille de l'échantillon. Pour 1 000 personnes, avec un intervalle de confiance de 95 %, un score de 10 % se situe entre 8,2 et 11,8 %, et un score de 50 % entre 46,9 et 53,1 %.\n\nDepuis une loi de 2016, la marge d'erreur doit être transmise à la Commission des sondages et publiée avec le sondage.\n\nLa marge d'erreur ne couvre pas tout : refus de répondre, échantillons mal construits, changements d'avis avant le vote. Un sondage est une estimation à un moment donné, pas une prédiction. On peut critiquer leur usage médiatique, notamment les commentaires sur des écarts inférieurs à la marge d'erreur, sans dire qu'ils ne veulent rien dire.",
+    "empathie": "Je comprends le doute : on n'a jamais été interrogé, et les sondages se trompent parfois. Mais la statistique permet de savoir à quel point ils peuvent se tromper. Le problème, c'est surtout la façon dont on les commente."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On ne m'a jamais sondé.",
+      "reponse": "C'est normal : on n'interroge qu'environ 1 000 personnes ; la précision vient de la méthode, pas du fait que chacun soit interrogé."
+    },
+    {
+      "objection": "Les sondages font l'élection.",
+      "reponse": "Leur influence est débattue ; ce qui est sûr, c'est qu'il faut les lire avec leur marge d'erreur et ne pas les prendre pour des prédictions."
+    }
+  ],
+  "questions": [
+    "Tu as déjà regardé la marge d'erreur d'un sondage avant de le commenter ?",
+    "Pourquoi goûter une cuillère de soupe suffirait-il pour savoir si elle est salée ?"
+  ],
+  "limites": [
+    "La source est un article pédagogique ; les notices des instituts détaillent chaque sondage.",
+    "La marge d'erreur calculée suppose un échantillon aléatoire ; les quotas sont une approximation."
+  ],
+  "sources": [
+    {
+      "titre": "Sondages : comment fonctionne la marge d'erreur ?",
+      "organisme": "Public Sénat (Louis Mollier-Sabet)",
+      "date_publication": "7 avril 2022",
+      "url": "https://www.publicsenat.fr/actualites/politique/sondages-comment-fonctionne-la-marge-d-erreur-201683",
+      "passage": "La plupart des sondages reposent sur un intervalle de confiance de 95 % ; pour un échantillon de 1 000 personnes, un score de 10 % se situe entre 8,2 % et 11,8 %, un score de 50 % entre 46,9 % et 53,1 % ; depuis une loi de 2016, la marge d'erreur doit être adressée à la Commission des sondages et publiée avec le sondage.",
+      "pertinence": "Média parlementaire, explication pédagogique.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les sondages peuvent se tromper au-delà de la marge d'erreur (refus de répondre, changements d'avis).",
+    "Leur usage médiatique surinterprète souvent des écarts minimes."
+  ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "emancipation"
+    ],
+    "mecanismes": "Un échantillon bien construit donne une estimation avec une marge d’erreur connue ; ce sont surtout les commentaires qui surinterprètent.",
+    "consequences": "La « course de petits chevaux » des sondages remplace souvent le débat sur les programmes.",
+    "democratie": "Comprendre les chiffres, c’est se donner les moyens de ne pas se laisser manipuler.",
+    "propositions": [
+      "Toujours lire et publier la marge d’erreur avec un sondage.",
+      "Parler davantage des programmes que des intentions de vote."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les sondages se trompent parfois au-delà de leur marge d’erreur.",
+        "integration": "C’est une raison de les lire avec prudence, pas de rejeter la statistique."
+      }
+    ]
+  },
+  "concepts": [
+    "sondages"
+  ],
+  "repond_a": [
+    {
+      "id": "sondages",
+      "label": "Fiabilité des sondages"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "marge d erreur"
+  ]
+}

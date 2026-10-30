@@ -1101,6 +1101,8 @@ export function suggestionsPour(ctx = {}, n = 3) {
     if ((faits === 'chiffres' || faits === 'logique') && s.chiffre) x += 1.5;
     if ((faits === 'experience' || faits === 'temoignages' || faits === 'exemples') && s.vecu) x += 1.5;
     if (securite && !ctx.sousTheme && /(sécurit|délinqu|police|prison|violence|crime|expuls)/i.test(s.texte)) x += 1;
+    // une affirmation proposée doit mener à une réponse : celles qui ont une fiche vérifiée passent devant
+    if (ctx.estCouverte) x += ctx.estCouverte(s.texte) ? 10 : 0;
     return x - i * 0.01; // à score égal, l'ordre éditorial
   };
   const classees = pool.map((s, i) => ({ s, k: score(s, i) })).sort((a, b) => b.k - a.k).map((x) => x.s);

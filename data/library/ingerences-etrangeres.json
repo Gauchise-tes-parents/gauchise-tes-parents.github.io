@@ -1,0 +1,141 @@
+{
+  "id": "ingerences-etrangeres",
+  "type": "idee_recue",
+  "affirmation": "Les ingérences étrangères dans nos élections, c'est du fantasme.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "ingérences",
+    "ingérence étrangère",
+    "désinformation",
+    "fausses informations",
+    "fake news",
+    "russie",
+    "élections",
+    "réseaux sociaux",
+    "viginum",
+    "manipulation",
+    "fact-checking"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le service de l'État chargé de les détecter, VIGINUM, a recensé en 2024 25 manœuvres visant les élections européennes et législatives, et documenté des campagnes russes comme « Portal Kombat » (un réseau de 193 faux sites d'information) ou « Matriochka » (faux contenus imitant des médias, deepfakes).",
+  "contexte": "Les ingérences numériques étrangères sont parfois minimisées, parfois exagérées. Depuis 2021, un service rattaché au SGDSN, VIGINUM, est chargé de les détecter et de les caractériser.",
+  "explication": "VIGINUM observe des comportements inauthentiques coordonnés (faux comptes, faux sites, usurpation de médias) et les attribue quand c'est possible. Son rapport d'activité donne des ordres de grandeur et des exemples documentés.",
+  "faits": [
+    {
+      "fait": "En 2024, VIGINUM a détecté 259 phénomènes inauthentiques et suivi 174 modes opératoires.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les ingérences sont un phénomène régulier et suivi, pas une rumeur.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "259"
+    },
+    {
+      "fait": "Lors des élections européennes et des législatives anticipées de 2024, VIGINUM a détecté 25 manœuvres ciblant les scrutins français (14 et 11).",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les élections sont directement visées.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "25"
+    },
+    {
+      "fait": "La campagne russe « Portal Kombat » reposait sur un réseau initial de 193 faux portails d'information relayant des contenus prorusses et dénigrant les soutiens de l'Ukraine, dont la France.",
+      "periode": "2024",
+      "perimetre": "France et Europe",
+      "explication": "Des campagnes concrètes ont été documentées et dénoncées publiquement.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "193"
+    }
+  ],
+  "argumentaires": {
+    "court": "Ce n'est pas un fantasme : en 2024, le service de l'État VIGINUM a détecté 25 manœuvres visant nos élections européennes et législatives, et démonté des campagnes russes comme « Portal Kombat », un réseau de 193 faux sites d'information.",
+    "moyen": "Il existe un service de l'État dont c'est le métier : VIGINUM. En 2024, il a détecté 259 phénomènes inauthentiques, dont 25 manœuvres visant directement les élections européennes et législatives.\n\nCe sont des faits documentés : le réseau russe « Portal Kombat » et ses 193 faux sites d'information, la campagne « Matriochka » qui imite de vrais médias et utilise des deepfakes. Se protéger de la désinformation, c'est défendre notre souveraineté démocratique.",
+    "detaille": "Les ingérences numériques étrangères sont un sujet sérieux, qu'il ne faut ni nier ni exagérer. Le service VIGINUM, rattaché au Secrétariat général de la défense et de la sécurité nationale, publie un rapport d'activité. En 2024, il a détecté 259 phénomènes inauthentiques et suivi 174 modes opératoires.\n\nPendant les élections européennes et les législatives anticipées de 2024, il a repéré 25 manœuvres ciblant les scrutins français. Parmi les campagnes documentées : « Portal Kombat », un réseau russe d'abord composé de 193 faux portails d'information ; « Matriochka », qui diffuse de faux contenus imitant des médias et des personnalités, y compris par deepfakes ; ou des contenus liés à l'Azerbaïdjan lors des événements de Nouvelle-Calédonie.\n\nDétecter une manœuvre ne veut pas dire qu'elle a changé un résultat : mesurer l'effet réel sur les votes est difficile. Mais l'existence de ces campagnes est établie.",
+    "empathie": "Je comprends la méfiance : on a parfois l'impression qu'on agite la menace étrangère pour tout expliquer. Mais là, ce sont des campagnes précises, documentées par un service de l'État, avec des faux sites et des faux comptes. On peut les regarder ensemble."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est le gouvernement qui invente ça pour censurer.",
+      "reponse": "Les campagnes décrites (faux sites, usurpation de médias) sont documentées et ont été dénoncées par plusieurs États européens ; les détecter, ce n'est pas censurer des opinions."
+    },
+    {
+      "objection": "Ça ne change rien aux résultats.",
+      "reponse": "C'est difficile à mesurer, et il faut rester prudent ; mais la volonté de manipuler est établie, et elle vise notre souveraineté démocratique."
+    }
+  ],
+  "questions": [
+    "Si un faux site imite un vrai journal pour diffuser une rumeur, tu appelles ça une opinion ?",
+    "Comment vérifies-tu une information qui circule sur les réseaux ?"
+  ],
+  "limites": [
+    "Le rapport ne mesure pas l'effet de ces manœuvres sur les votes.",
+    "Certaines attributions d'origine restent prudentes ou non publiques."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport d'activité VIGINUM 2024",
+      "organisme": "VIGINUM — Secrétariat général de la défense et de la sécurité nationale (SGDSN)",
+      "date_publication": "Hiver 2025",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/301522.pdf",
+      "passage": "En 2024 : 259 phénomènes inauthentiques détectés, 174 modes opératoires suivis ; 25 manœuvres visant les scrutins français (14 pour les européennes, 11 pour les législatives) ; campagnes russes « Portal Kombat » (réseau initial de 193 faux sites d'information) et « Matriochka » (faux contenus usurpant des médias, dont des deepfakes) ; contenus liés à l'Azerbaïdjan lors des événements de Nouvelle-Calédonie.",
+      "pertinence": "Rapport d'un service de l'État chargé de la protection contre les ingérences numériques.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Détecter une manœuvre ne prouve pas qu'elle a modifié le résultat d'une élection.",
+    "L'accusation d'ingérence peut aussi être utilisée pour disqualifier des opinions légitimes."
+  ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes",
+      "paix"
+    ],
+    "mecanismes": "Des États étrangers utilisent faux comptes, faux sites et contenus imitant des médias pour polariser le débat et affaiblir la confiance.",
+    "consequences": "La confusion entre vrai et faux profite à ceux qui veulent dresser les citoyens les uns contre les autres.",
+    "democratie": "La souveraineté populaire suppose un débat public qui ne soit pas manipulé, ni par des États étrangers ni par des plateformes opaques.",
+    "propositions": [
+      "Exiger la transparence des plateformes sur les campagnes coordonnées.",
+      "Développer l’éducation aux médias et le soutien à une presse indépendante."
+    ],
+    "defavorables": [
+      {
+        "fait": "Détecter une manœuvre ne prouve pas qu’elle a changé un vote, et l’accusation d’ingérence peut servir à disqualifier des opinions.",
+        "integration": "Rester précis : dénoncer les campagnes documentées, sans traiter toute opinion dissidente d’ingérence."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "desinformation"
+  ],
+  "repond_a": [
+    {
+      "id": "desinformation",
+      "label": "Désinformation et ingérences étrangères"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "desinformation",
+    "fake news",
+    "manipulation de l information"
+  ]
+}

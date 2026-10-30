@@ -31,6 +31,31 @@ export function anConcepts(norm) {
   return out;
 }
 
+/**
+ * Une fiche trouvée par ressemblance de mots n'est acceptée que si elle peut répondre à la phrase :
+ * quand la fiche est rattachée à des arguments cartographiés (repond_a), la phrase doit contenir tous les
+ * concepts d'au moins un de ces arguments (ex. la fiche « immigration et emploi » exige l'immigration ET l'emploi).
+ */
+export function ficheCompatible(fiche, conceptsPhrase) {
+  const ids = new Set(conceptsPhrase);
+  const repond = (fiche.repond_a || []).map((r) => CA_ARGUMENTS.find((a) => a.id === r.id)).filter(Boolean);
+  if (!repond.length) return true;
+  return repond.some((a) => a.tous.every((c) => ids.has(c)));
+}
+
+/**
+ * Résolution complète d'une phrase, comme dans l'application : arguments reconnus et leur fiche,
+ * sinon correspondance textuelle forte et compatible. Renvoie { an, fiche|null, voie }.
+ */
+export function resoudrePhrase(texte, bibliotheque = []) {
+  const lib = bibliotheque.filter((f) => f.type !== 'science');
+  const an = analyserPhrase(texte, { bibliotheque: lib });
+  const avecFiche = an.arguments.filter((a) => a.fiche);
+  if (an.arguments.length) return { an, fiche: avecFiche[0] ? lib.find((f) => f.id === avecFiche[0].fiche.id) : null, voie: avecFiche[0] ? 'analyse' : 'lacune' };
+  const m = kbMatch(lib, texte).filter((x) => x.force === 'forte' && ficheCompatible(x.fiche, an.concepts.map((c) => c.id)))[0];
+  return { an, fiche: m ? m.fiche : null, voie: m ? 'texte' : 'lacune' };
+}
+
 /** Concepts d'une fiche (métadonnées enregistrées, sinon calculées sur son affirmation et ses mots-clés). */
 const anCache = new Map();
 export function conceptsFiche(f) {
@@ -192,7 +217,7 @@ export function analyserPhrase(texte, { bibliotheque = [], mode = 'gagner', cont
     const centraux = concepts.filter((c) => c.central).map((c) => c.id);
     const m = kbMatch(lib, texte)[0];
     const couvre = m && centraux.every((c) => conceptsFiche(m.fiche).includes(c));
-    if (m && m.force === 'forte' && (couvre || !centraux.length)) {
+    if (m && m.force === 'forte' && (couvre || !centraux.length) && ficheCompatible(m.fiche, concepts.map((c) => c.id))) {
       args.push({ id: 'texte', label: 'Correspondance avec une fiche', famille: m.fiche.volet, segment: texte, concepts: centraux.map((c) => CA_CONCEPTS[c].label), fiche: { id: m.fiche.id, affirmation: m.fiche.affirmation, court: m.fiche.argumentaires?.court || '', volet: m.fiche.volet }, pertinence: 'directe', lacune: false, implicite: '', verifier: '' });
     } else if (centraux.length) {
       args.push({ id: 'non_cartographie', label: `Argument sur : ${centraux.map((c) => CA_CONCEPTS[c].label.toLowerCase()).join(', ')}`, famille: '', segment: texte, concepts: centraux.map((c) => CA_CONCEPTS[c].label), fiche: null, pertinence: 'aucune', lacune: true, implicite: '', verifier: 'Les données disponibles sur ce point précis.' });

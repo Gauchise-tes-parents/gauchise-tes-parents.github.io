@@ -1,0 +1,148 @@
+{
+  "id": "homicides-record",
+  "type": "idee_recue",
+  "affirmation": "Il n'y a jamais eu autant de meurtres en France.",
+  "volet": "securite",
+  "sous_theme": "Homicides",
+  "rubriques": [],
+  "mots_cles": [
+    "meurtres",
+    "homicides",
+    "tués",
+    "assassinats",
+    "jamais eu autant",
+    "violence",
+    "narcotrafic",
+    "règlements de comptes",
+    "record"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Sur le long terme, l'homicide est à un niveau historiquement bas : les statistiques de police et celles des causes médicales de décès montrent la même tendance depuis les années 1970. Les victimes enregistrées par la police oscillent autour de 800 à 960 par an depuis 2016 (959 en 2022). Ce qui augmente, ce sont surtout les tentatives enregistrées et certains règlements de comptes.",
+  "contexte": "Les faits divers et les règlements de comptes liés au trafic de drogue donnent l'impression d'une explosion des meurtres.",
+  "explication": "Deux sources indépendantes mesurent l'homicide : la police et les certificats de décès. Leur concordance sur cinquante ans permet de dégager une tendance fiable. Les variations d'une année sur l'autre sont réelles mais faibles par rapport à cette tendance de fond.",
+  "faits": [
+    {
+      "fait": "Selon les chercheurs du CESDIP, qui comparent statistiques de police et causes médicales de décès sur 1971-2021, les homicides consommés diminuent depuis 2010 et l'homicide volontaire se situe à un niveau très bas.",
+      "periode": "1971-2021",
+      "perimetre": "France",
+      "explication": "Sur le long terme, l'idée d'un record ne tient pas.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Le ministère de l'Intérieur a enregistré 911 victimes d'homicide en 2016, 823 en 2020 et 959 en 2022 ; les chiffres antérieurs à 2016 ne sont pas fiabilisés.",
+      "periode": "2016-2022",
+      "perimetre": "France",
+      "explication": "Une hausse récente existe, mais dans une fourchette stable depuis 2016.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "959"
+    },
+    {
+      "fait": "Environ 29 % des homicides sont commis dans la famille ; les homicides « crapuleux » (règlements de comptes et vols) en représentent environ 10 %.",
+      "periode": "Données récentes",
+      "perimetre": "France",
+      "explication": "La violence mortelle est souvent intrafamiliale, loin de l'image de la rue.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "29 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : sur cinquante ans, l'homicide est à un niveau très bas, selon les chercheurs qui croisent police et certificats de décès. La police enregistre entre 820 et 960 victimes par an depuis 2016. Ce qui inquiète à juste titre, ce sont les règlements de comptes liés au trafic, pas un record général.",
+    "moyen": "L'impression d'un record vient des faits divers, pas des données. Les chercheurs du CESDIP comparent deux sources indépendantes, la police et les certificats de décès, depuis 1971 : elles montrent la même tendance, et l'homicide volontaire est aujourd'hui à un niveau très bas.\n\nDepuis 2016, le ministère de l'Intérieur enregistre entre 823 et 959 victimes par an. Et près d'un tiers des homicides ont lieu dans la famille. Les règlements de comptes liés au trafic sont un vrai problème, qui appelle des moyens contre les réseaux, pas des discours sur une explosion générale.",
+    "detaille": "Pour savoir si les meurtres augmentent, il faut une série longue et fiable. Les chercheurs du CESDIP (CNRS) croisent les statistiques de police et celles des causes médicales de décès (Inserm) de 1971 à 2021 : les deux évoluent ensemble, et l'homicide volontaire se situe aujourd'hui à un niveau très bas. Depuis 2010, les homicides consommés diminuent ; ce sont les tentatives enregistrées par la police qui progressent, en partie en raison des pratiques d'enregistrement.\n\nLes données récentes du ministère de l'Intérieur montrent une hausse en 2021-2022 (959 victimes en 2022), mais dans une fourchette stable depuis 2016. Environ 29 % des homicides sont commis dans la famille ; les homicides liés aux règlements de comptes et aux vols en représentent environ 10 %.\n\nLe narcotrafic provoque des violences graves dans certains quartiers : cela justifie des moyens d'enquête et de prévention, pas l'idée fausse d'un pays qui n'a jamais été aussi violent.",
+    "empathie": "Je comprends : quand on entend parler de fusillades, on a l'impression que c'est pire que jamais. Mais les chercheurs qui suivent ça depuis cinquante ans montrent que les meurtres sont plutôt à un niveau bas. Les violences liées au trafic, elles, sont bien réelles, et c'est là qu'il faut agir."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les chiffres sont maquillés.",
+      "reponse": "Deux sources indépendantes (police et certificats de décès) évoluent ensemble depuis cinquante ans : on ne peut pas maquiller les deux."
+    },
+    {
+      "objection": "Avant, on ne tuait pas pour un regard.",
+      "reponse": "Les données ne montrent pas de violence mortelle plus fréquente qu'avant ; la perception est façonnée par la médiatisation des faits divers."
+    }
+  ],
+  "questions": [
+    "Sur quelle source t'appuies-tu pour dire que c'est un record ?",
+    "Sais-tu qu'un tiers des homicides ont lieu dans la famille ?"
+  ],
+  "limites": [
+    "Les données du ministère antérieures à 2016 ne sont pas fiabilisées.",
+    "Les données récentes ne couvrent pas 2023-2025 dans les sources retenues."
+  ],
+  "sources": [
+    {
+      "titre": "L'homicide est rare (Observatoire scientifique du crime et de la justice)",
+      "organisme": "CESDIP (CNRS, ministère de la Justice, UVSQ) — OSCJ",
+      "date_publication": "Janvier 2023",
+      "url": "https://oscj2.cesdip.fr/wp-content/uploads/2023/01/Lhomicide-est-rare.pdf",
+      "passage": "Comparaison des statistiques de police et des causes médicales de décès (Inserm-CépiDc), 1971-2021 : les deux séries évoluent ensemble (corrélation 0,90) ; depuis 2010, les homicides consommés « ne cesse[nt] de décroître » tandis que les tentatives enregistrées par la police progressent ; « l'homicide volontaire se situe actuellement à un niveau très bas ».",
+      "pertinence": "Laboratoire de recherche public spécialisé en criminologie.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Réponse du ministère de l'Intérieur à la question écrite n° 12954 (homicides)",
+      "organisme": "Assemblée nationale / ministère de l'Intérieur et des Outre-mer (données SSMSI)",
+      "date_publication": "5 décembre 2023",
+      "url": "https://questions.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE12954.pdf",
+      "passage": "Victimes d'homicide enregistrées : 911 en 2016, 826 en 2017, 831 en 2018, 857 en 2019, 823 en 2020, 882 en 2021, 959 en 2022 ; les chiffres antérieurs à 2016 ne sont pas fiabilisés ; environ 29 % des homicides sont commis dans la famille ; les homicides « crapuleux » (règlements de comptes et vols) représentent environ 10 % de l'ensemble.",
+      "pertinence": "Données officielles du service statistique du ministère de l'Intérieur.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les victimes d'homicide enregistrées ont augmenté en 2021-2022.",
+    "Les tentatives d'homicide enregistrées progressent, et les violences liées au trafic de drogue sont réelles dans certains territoires."
+  ],
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "solidarite",
+      "democratie"
+    ],
+    "mecanismes": "La médiatisation des faits divers crée une impression d’explosion que les séries longues ne confirment pas ; les violences liées au trafic se concentrent dans certains territoires.",
+    "consequences": "La peur entretenue sert à justifier des mesures sécuritaires générales, pendant que les quartiers touchés par le narcotrafic manquent de moyens.",
+    "democratie": "Une politique de sécurité efficace part des faits, pas de la peur.",
+    "propositions": [
+      "Des moyens d’enquête contre les réseaux de trafic et leur argent.",
+      "Une politique de prévention et de présence publique dans les quartiers touchés.",
+      "Mieux protéger les victimes de violences intrafamiliales."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les victimes d’homicide enregistrées ont augmenté en 2021-2022, et les violences liées au trafic sont réelles.",
+        "integration": "Le reconnaître, et rappeler que la réponse passe par l’enquête et la prévention, pas par un discours sur un record qui n’existe pas."
+      }
+    ]
+  },
+  "concepts": [
+    "delinquance",
+    "homicide"
+  ],
+  "repond_a": [
+    {
+      "id": "homicides",
+      "label": "Évolution des homicides"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ]
+}

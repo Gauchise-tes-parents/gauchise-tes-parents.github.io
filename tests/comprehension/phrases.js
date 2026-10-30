@@ -186,7 +186,7 @@ export const PHRASES = [
   { t: 'Bof, je sais pas trop.', cat: 'hors_sujet', p: [null], f: null },
   { t: 'Les impôts locaux ont augmenté dans ma commune.', cat: 'hors_sujet', p: ['fiscalite'], f: ['impots-assistanat', 'melenchon-ruiner-france', null], x: ['immigres-aides'] },
   { t: 'Le foot c’était mieux avant.', cat: 'hors_sujet', p: ['nostalgie'], f: null, x: ['patriotisme-nationalisme'] },
-  { t: 'Les immigrés italiens des années 50 se sont bien intégrés.', cat: 'nuance', p: ['imm_demographie', 'non_cartographie', 'texte'], f: [null, 'immigration-chiffres-definitions'], x: ['immigres-aides', 'etrangers-prisons'] },
+  { t: 'Les immigrés italiens des années 50 se sont bien intégrés.', cat: 'nuance', p: ['imm_demographie', 'non_cartographie', 'texte', 'histoire_migrations'], f: [null, 'immigration-chiffres-definitions', 'france-pays-immigration'], x: ['immigres-aides', 'etrangers-prisons'] },
   // ── 15. Lot de validation : phrases écrites APRÈS les réglages, pour mesurer la compréhension sur du neuf ──
   { lot: 'validation', t: 'Les clandestins prennent les boulots dans le bâtiment.', cat: 'simple', p: 'imm_emploi', f: 'immigration-emploi', x: EMPLOI_X },
   { lot: 'validation', t: 'Les réfugiés ont tout gratuit : logement, santé, argent.', cat: 'generalisation', p: ['imm_prestations', 'imm_logement'], f: ['immigres-aides', null], x: ['rsa-smic', 'statistiques-prouvent-insecurite-immigration'] },

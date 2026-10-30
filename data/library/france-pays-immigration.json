@@ -1,0 +1,141 @@
+{
+  "id": "france-pays-immigration",
+  "type": "idee_recue",
+  "affirmation": "La France n'a jamais été un pays d'immigration.",
+  "volet": "immigration",
+  "sous_theme": "Histoire des migrations",
+  "rubriques": [],
+  "mots_cles": [
+    "pays d immigration",
+    "histoire de l immigration",
+    "italiens",
+    "polonais",
+    "espagnols",
+    "portugais",
+    "il y a cent ans",
+    "après la guerre",
+    "reconstruit",
+    "intégration",
+    "avant"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "La France est un pays d'immigration depuis plus d'un siècle : les immigrés représentaient près de 3 % de la population en 1911, 6,6 % en 1931 et 10,3 % en 2021 (Insee). Belges, Italiens, Polonais, Espagnols puis Portugais et Maghrébins sont venus, souvent recrutés pour reconstruire le pays et faire tourner son industrie.",
+  "contexte": "On oppose souvent une immigration d'autrefois, qui se serait bien intégrée, à celle d'aujourd'hui. L'histoire montre que chaque vague a d'abord été mal accueillie.",
+  "explication": "Les recensements permettent de suivre la part des immigrés dans la population depuis plus d'un siècle, et l'Insee retrace les grandes vagues migratoires et leurs causes.",
+  "faits": [
+    {
+      "fait": "La part des immigrés dans la population est passée de 2,8 % en 1911 à 6,6 % en 1931, puis 7,4 % en 1975 et 10,3 % en 2021.",
+      "periode": "1911-2021",
+      "perimetre": "France",
+      "explication": "L'immigration est ancienne et massive dès l'entre-deux-guerres.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "6,6 %"
+    },
+    {
+      "fait": "Dans les années 1920, des immigrés venus de Belgique, d'Italie, d'Espagne, de Pologne, de Russie et d'Arménie arrivent pour compenser les pertes humaines de la Grande Guerre.",
+      "periode": "Années 1920",
+      "perimetre": "France",
+      "explication": "L'immigration a répondu aux besoins du pays.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'Office national d'immigration est créé en 1945 pour recruter des travailleurs étrangers ; pendant les Trente Glorieuses arrivent des Espagnols et des Algériens, puis des Portugais, des Marocains et des Turcs.",
+      "periode": "1945-1974",
+      "perimetre": "France",
+      "explication": "L'État a lui-même organisé l'immigration de travail.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : dès 1931, les immigrés représentaient 6,6 % de la population, contre 10,3 % aujourd'hui (Insee). Italiens, Polonais, Espagnols, Portugais, Maghrébins : la France les a souvent recrutés elle-même pour reconstruire et produire.",
+    "moyen": "La France est un vieux pays d'immigration. Selon l'Insee, les immigrés étaient près de 3 % de la population en 1911, 6,6 % en 1931, 10,3 % en 2021.\n\nAprès la Première Guerre mondiale, on fait venir Belges, Italiens, Polonais pour remplacer les morts. En 1945, l'État crée l'Office national d'immigration pour recruter des travailleurs. Et chaque vague a été accusée, à son époque, de ne pas pouvoir s'intégrer.",
+    "detaille": "Les recensements montrent une immigration ancienne. Selon l'Insee, les immigrés représentaient 2,8 % de la population en 1911, 6,6 % en 1931 (un niveau proche de celui des années 1970), 7,4 % en 1975 et 10,3 % en 2021.\n\nDans les années 1920, la France fait venir des travailleurs de Belgique, d'Italie, d'Espagne et de Pologne, et accueille des réfugiés russes et arméniens, pour compenser les pertes de la Grande Guerre. En 1945, l'État crée l'Office national d'immigration pour recruter des travailleurs étrangers. Pendant les Trente Glorieuses arrivent Espagnols et Algériens, puis Portugais, Marocains et Turcs ; l'immigration de travail est freinée en 1974, et l'immigration familiale prend le relais.\n\nL'histoire de France est donc aussi une histoire d'immigration, souvent organisée par l'État lui-même, au service de la reconstruction et de l'industrie.",
+    "empathie": "Je comprends qu'on ait l'impression que l'immigration est un phénomène récent. Mais regarde : en 1931, il y avait déjà 6,6 % d'immigrés. Beaucoup de familles françaises ont un grand-parent italien, polonais ou espagnol."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avant, ils s'intégraient ; aujourd'hui, non.",
+      "reponse": "Chaque vague a été accusée de ne pas pouvoir s'intégrer à son époque ; l'histoire montre que l'intégration prend du temps, sur plusieurs générations."
+    },
+    {
+      "objection": "Les Italiens, eux, étaient européens et chrétiens.",
+      "reponse": "Ils ont pourtant subi une forte xénophobie à leur arrivée ; l'argument de la proximité culturelle est souvent reconstruit après coup."
+    }
+  ],
+  "questions": [
+    "Tu sais combien d'immigrés il y avait en France en 1931 ?",
+    "Dans ta famille ou chez tes voisins, il n'y a personne qui a des origines italiennes, polonaises, espagnoles ou portugaises ?"
+  ],
+  "limites": [
+    "Les données historiques reposent sur les recensements, dont les définitions ont évolué."
+  ],
+  "sources": [
+    {
+      "titre": "Histoire des migrations et diversité des origines géographiques des immigrés (Immigrés et descendants d'immigrés en France, édition 2023)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793226",
+      "passage": "Part des immigrés dans la population : 2,8 % en 1911, 3,7 % en 1921, 6,6 % en 1931, 7,4 % en 1975, 10,3 % en 2021. Dans les années 1920, arrivées de Belgique, d'Italie, d'Espagne, de Pologne, de Russie et d'Arménie pour compenser les pertes de la Grande Guerre ; Office national d'immigration créé en 1945 pour recruter des travailleurs étrangers ; pendant les Trente Glorieuses, immigration espagnole et algérienne, puis portugaise, marocaine et turque ; immigration de travail freinée en 1974.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La part des immigrés est aujourd'hui plus élevée qu'aux époques précédentes.",
+    "Les origines des immigrés ont changé au cours du siècle."
+  ],
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "antiracisme",
+      "travailleurs"
+    ],
+    "mecanismes": "L’État et les employeurs ont recruté des travailleurs étrangers à chaque période de besoin : reconstruction, industrie, Trente Glorieuses.",
+    "consequences": "Chaque vague a été stigmatisée avant d’être considérée comme « bien intégrée » après coup.",
+    "democratie": "La nation française s’est construite avec ses immigrés ; l’oublier, c’est réécrire l’histoire pour exclure.",
+    "propositions": [
+      "Enseigner l’histoire de l’immigration comme une part de l’histoire nationale.",
+      "Donner aux nouveaux arrivants les moyens de l’intégration : langue, travail, droits."
+    ],
+    "defavorables": [
+      {
+        "fait": "La part des immigrés est aujourd’hui plus élevée que lors des vagues précédentes.",
+        "integration": "Le dire, et rappeler que la France a déjà connu des niveaux comparables dans les années 1930."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "histoire_migrations"
+  ],
+  "repond_a": [
+    {
+      "id": "histoire_migrations",
+      "label": "Histoire de l’immigration en France"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "pays d immigration",
+    "italiens",
+    "polonais",
+    "espagnols",
+    "portugais",
+    "il y a cent ans"
+  ]
+}

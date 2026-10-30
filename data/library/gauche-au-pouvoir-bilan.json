@@ -1,0 +1,177 @@
+{
+  "id": "gauche-au-pouvoir-bilan",
+  "type": "idee_recue",
+  "affirmation": "La gauche n'a jamais rien fait de bien au pouvoir.",
+  "volet": "politique",
+  "sous_theme": "Histoire politique contemporaine",
+  "rubriques": [],
+  "mots_cles": [
+    "gauche au pouvoir",
+    "bilan de la gauche",
+    "mitterrand",
+    "jospin",
+    "35 heures",
+    "retraite à 60 ans",
+    "peine de mort",
+    "réformes sociales",
+    "jamais rien fait",
+    "1981"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "Les gouvernements de gauche ont porté des réformes majeures : abolition de la peine de mort (1981), retraite à 60 ans (1982), réduction du temps de travail (environ 350 000 emplois créés selon l'Insee), sans oublier les congés payés de 1936 ou la Sécurité sociale de 1945. Leur bilan comporte aussi des échecs et des renoncements, qu'il faut regarder en face.",
+  "contexte": "L'idée que la gauche « n'a jamais rien fait » revient souvent, à droite comme chez des déçus de la gauche.",
+  "explication": "Les réformes peuvent être évaluées à partir de sources publiques : textes de loi, rapports parlementaires, études de la statistique publique.",
+  "faits": [
+    {
+      "fait": "Après l'élection de François Mitterrand, un projet de loi portant abolition de la peine de mort est déposé le 29 août 1981 et défendu par Robert Badinter ; il aboutit à la loi du 9 octobre 1981.",
+      "periode": "1981",
+      "perimetre": "France",
+      "explication": "Une réforme de civilisation portée par la gauche, après l'échec des tentatives précédentes.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'ordonnance du 26 mars 1982 généralise la retraite à 60 ans, avec au moins 37,5 ans de cotisation.",
+      "periode": "1982",
+      "perimetre": "France",
+      "explication": "Un droit social majeur obtenu sous un gouvernement de gauche.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "60 ans"
+    },
+    {
+      "fait": "Selon une étude publiée par l'Insee, la réduction du temps de travail a créé près de 350 000 postes sur 1998-2002, sans grand déséquilibre financier pour les entreprises.",
+      "periode": "1998-2002",
+      "perimetre": "France",
+      "explication": "Les 35 heures ont eu un effet mesurable sur l'emploi.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "350 000"
+    },
+    {
+      "fait": "Selon le rapport parlementaire de 2014, les prévisions initiales espéraient 700 000 postes, et le président de la commission ne partageait pas les conclusions favorables du rapport.",
+      "periode": "2014",
+      "perimetre": "France",
+      "explication": "Les résultats ont été inférieurs aux promesses et restent discutés.",
+      "source": 3,
+      "fiabilite": "debat",
+      "chiffre": "700 000"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : abolition de la peine de mort en 1981, retraite à 60 ans en 1982, 35 heures avec environ 350 000 emplois créés selon l'Insee, et avant ça les congés payés et la Sécu. On peut critiquer des échecs de la gauche, pas prétendre qu'elle n'a rien fait.",
+    "moyen": "Il suffit de regarder les textes. En 1981, la gauche abolit la peine de mort, défendue par Robert Badinter. En 1982, la retraite à 60 ans est généralisée. Entre 1998 et 2002, la réduction du temps de travail crée près de 350 000 emplois selon une étude publiée par l'Insee.\n\nEt avant ça : les congés payés du Front populaire, la Sécurité sociale issue du programme du CNR. Bien sûr, il y a eu des échecs et des renoncements : on peut en débattre. Mais « rien fait de bien », c'est faux.",
+    "detaille": "L'histoire récente de la gauche au pouvoir comporte des réformes majeures, documentées par des sources publiques.\n\nEn 1981, après l'élection de François Mitterrand, un projet de loi d'abolition « définitive et générale » de la peine de mort est déposé et défendu par le garde des Sceaux Robert Badinter ; il aboutit à la loi du 9 octobre 1981, après l'échec des tentatives de 1979 et 1980. En 1982, l'ordonnance du 26 mars généralise la retraite à 60 ans pour 37,5 années de cotisation.\n\nSous le gouvernement Jospin, la réduction du temps de travail a créé près de 350 000 emplois entre 1998 et 2002 selon une étude publiée par l'Insee. C'est moins que les 700 000 espérés au départ, et le bilan reste discuté : le président de la commission d'enquête parlementaire de 2014 ne partageait pas ses conclusions favorables.\n\nOn peut et on doit débattre des échecs et des renoncements de la gauche, notamment des politiques de rigueur. Mais l'idée qu'elle n'aurait « jamais rien fait » ne résiste pas aux faits.",
+    "empathie": "Je comprends la déception : beaucoup de gens de gauche ont été déçus par leurs gouvernements. Mais si on regarde l'histoire, il y a des choses qui ont changé la vie de tout le monde : les congés payés, la Sécu, la retraite à 60 ans, l'abolition de la peine de mort."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La retraite à 60 ans, on ne pouvait pas se la payer.",
+      "reponse": "Le débat sur le financement des retraites est légitime ; mais c'était un choix de répartition des gains de productivité, pas une impossibilité."
+    },
+    {
+      "objection": "Les 35 heures ont tué la compétitivité.",
+      "reponse": "Une étude publiée par l'Insee estime qu'elles ont créé près de 350 000 emplois sans grand déséquilibre financier pour les entreprises ; leur bilan reste discuté, mais pas catastrophique."
+    }
+  ],
+  "questions": [
+    "Tu voudrais revenir sur l'abolition de la peine de mort ou sur les congés payés ?",
+    "Quelle réforme sociale importante n'a pas été portée par la gauche, selon toi ?"
+  ],
+  "limites": [
+    "Les évaluations des 35 heures divergent selon les méthodes.",
+    "Cette fiche ne fait pas le bilan complet des gouvernements de gauche."
+  ],
+  "sources": [
+    {
+      "titre": "Les circonstances de l'adoption de la loi du 9 octobre 1981",
+      "organisme": "Sénat",
+      "date_publication": "Archives",
+      "url": "https://www.senat.fr/evenement/archives/D22/loi1981.html",
+      "passage": "Après l'élection de François Mitterrand, un projet de loi portant abolition de la peine de mort, « définitive et générale », est déposé le 29 août 1981 et défendu par le garde des Sceaux Robert Badinter ; les tentatives de 1979 et 1980 n'avaient pas abouti.",
+      "pertinence": "Ressource historique d'une assemblée parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Évolution historique et projetée de l'âge de départ à la retraite (document n° 4, séance du 21 février 2019)",
+      "organisme": "Conseil d'orientation des retraites (secrétariat général)",
+      "date_publication": "21 février 2019",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2019-06/doc-4439.pdf",
+      "passage": "L'ordonnance du 26 mars 1982 « finalise ainsi la généralisation de la retraite à 60 ans » en permettant aux hommes de partir à cet âge sans décote avec au moins 37,5 ans de cotisation.",
+      "pertinence": "Organisme public d'expertise sur les retraites.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les effets de la RTT sur l'emploi : des estimations ex ante aux évaluations ex post (Économie et Statistique n° 376-377)",
+      "organisme": "Insee (Alain Gubian, Stéphane Jugnot, Frédéric Lerais, Vladimir Passeron)",
+      "date_publication": "Juin 2005",
+      "url": "https://www.insee.fr/fr/statistiques/1376464",
+      "passage": "La réduction du temps de travail a créé « près de 350 000 postes » sur 1998-2002, « sans grand déséquilibre financier pour les entreprises » ; la baisse effective de la durée du travail a été moins forte que dans les simulations ex ante.",
+      "pertinence": "Revue de la statistique publique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport de la commission d'enquête sur l'impact de la réduction progressive du temps de travail (n° 2436)",
+      "organisme": "Assemblée nationale (rapporteure Barbara Romagnan)",
+      "date_publication": "9 décembre 2014",
+      "url": "https://www.assemblee-nationale.fr/14/pdf/rap-enq/r2436.pdf",
+      "passage": "350 000 emplois : le chiffre « le plus communément admis » pour la loi de 1998, confirmé par des études commandées par la Dares ; les prévisions initiales espéraient 700 000 postes ; coût net ex post pour les finances publiques estimé à 2,5 milliards d'euros ; le président de la commission ne partage pas les conclusions du rapport.",
+      "pertinence": "Rapport parlementaire (conclusions contestées par le président de la commission).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les gouvernements de gauche ont aussi connu des échecs et des renoncements, notamment des politiques de rigueur.",
+    "Les créations d'emplois des 35 heures ont été inférieures aux prévisions et restent discutées."
+  ],
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "dignite",
+      "travailleurs"
+    ],
+    "mecanismes": "Les grandes conquêtes sociales sont venues de majorités de gauche portées par des mobilisations populaires.",
+    "consequences": "Congés payés, Sécurité sociale, retraite à 60 ans, abolition de la peine de mort : ces réformes ont changé la vie quotidienne.",
+    "democratie": "Juger un bilan sur pièces, réformes et évaluations à l’appui, plutôt que sur des slogans.",
+    "propositions": [
+      "Assumer ce bilan et en tirer les leçons, y compris celles des renoncements."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les gouvernements de gauche ont aussi connu des échecs, des renoncements et des résultats inférieurs à leurs promesses.",
+        "integration": "Le reconnaître rend la défense du bilan plus crédible."
+      }
+    ]
+  },
+  "concepts": [
+    "justice",
+    "gauche"
+  ],
+  "repond_a": [
+    {
+      "id": "gauche_bilan",
+      "label": "Bilan de la gauche au pouvoir"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "justice",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire"
+  ]
+}

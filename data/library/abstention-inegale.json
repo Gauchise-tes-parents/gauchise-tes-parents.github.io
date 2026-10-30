@@ -1,0 +1,135 @@
+{
+  "id": "abstention-inegale",
+  "type": "idee_recue",
+  "affirmation": "L'abstention, c'est un choix individuel : chacun est libre de ne pas voter.",
+  "volet": "politique",
+  "sous_theme": "Abstention",
+  "rubriques": [],
+  "mots_cles": [
+    "abstention",
+    "abstentionnistes",
+    "voter ne sert à rien",
+    "vote",
+    "ne pas voter",
+    "participation électorale",
+    "jeunes",
+    "ouvriers",
+    "qui s abstient"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Chacun est libre de ne pas voter, mais l'abstention n'est pas répartie au hasard : en 2022, 30,1 % des non-diplômés se sont abstenus à tous les tours, contre 9,6 % des diplômés du supérieur ; 23,6 % des ouvriers non qualifiés contre 7,4 % des cadres (Insee). Ceux qui votent le moins sont ceux qui pèsent le moins dans les choix politiques.",
+  "contexte": "L'abstention progresse depuis des décennies. On l'explique souvent par le désintérêt individuel.",
+  "explication": "L'enquête de l'Insee sur la participation électorale suit chaque inscrit à tous les tours de 2022. Elle montre que l'abstention dépend fortement de l'âge, du diplôme et de la position sociale.",
+  "faits": [
+    {
+      "fait": "Aux élections nationales de 2022, 36 % des inscrits ont voté à tous les tours, 48 % par intermittence et 16 % se sont abstenus à tous les tours.",
+      "periode": "2022",
+      "perimetre": "France, inscrits",
+      "explication": "L'abstention totale est minoritaire ; le vote intermittent domine.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "16 %"
+    },
+    {
+      "fait": "L'abstention systématique atteint 30,1 % chez les non-diplômés contre 9,6 % chez les diplômés du supérieur, et 23,6 % chez les ouvriers non qualifiés contre 7,4 % chez les cadres.",
+      "periode": "2022",
+      "perimetre": "Inscrits de 25 ans ou plus",
+      "explication": "L'abstention est socialement inégale : les classes populaires sont moins représentées.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "30,1 % / 9,6 %"
+    },
+    {
+      "fait": "23,8 % des 18-24 ans se sont abstenus à tous les tours, contre 9,2 % des 60-64 ans.",
+      "periode": "2022",
+      "perimetre": "Inscrits",
+      "explication": "Les jeunes pèsent moins dans les élections.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "23,8 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Libre, oui ; réparti au hasard, non : en 2022, 30 % des non-diplômés se sont abstenus à tous les tours, contre moins de 10 % des diplômés du supérieur (Insee). Ceux qui votent le moins sont ceux dont on tient le moins compte.",
+    "moyen": "L'abstention n'est pas un simple choix personnel. L'Insee a suivi les électeurs sur tous les tours de 2022 : 30,1 % des non-diplômés n'ont voté à aucun tour, contre 9,6 % des diplômés du supérieur ; 23,6 % des ouvriers non qualifiés, contre 7,4 % des cadres ; 23,8 % des 18-24 ans.\n\nRésultat : les politiques s'adressent d'abord à ceux qui votent. Faire revenir les classes populaires et les jeunes aux urnes, c'est une question d'égalité démocratique.",
+    "detaille": "L'enquête de l'Insee sur la participation aux élections de 2022 montre que seul un tiers des inscrits (36 %) a voté à tous les tours, 48 % ont voté par intermittence et 16 % se sont abstenus à chaque fois.\n\nL'abstention systématique est très inégale : 30,1 % chez les non-diplômés contre 9,6 % chez les diplômés du supérieur ; 23,6 % chez les ouvriers non qualifiés contre 7,4 % chez les cadres ; 23,8 % chez les 18-24 ans contre 9,2 % chez les 60-64 ans.\n\nLe droit de ne pas voter existe. Mais quand l'abstention se concentre dans certains groupes sociaux, la représentation politique se déforme : les préoccupations des plus votants pèsent davantage. Comprendre l'abstention, c'est donc aussi poser la question de la place des classes populaires dans la démocratie.",
+    "empathie": "Je comprends qu'on n'ait plus envie de voter quand on a l'impression que rien ne change. Mais regarde : ce sont surtout les ouvriers, les jeunes et les moins diplômés qui s'abstiennent. Du coup, ce sont ceux dont les politiques s'occupent le moins."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Voter ne sert à rien, ils sont tous pareils.",
+      "reponse": "Les politiques tiennent compte des électorats qui votent ; quand les classes populaires s'abstiennent beaucoup plus, leurs intérêts pèsent moins."
+    },
+    {
+      "objection": "Ceux qui ne votent pas n'ont qu'à ne pas se plaindre.",
+      "reponse": "Les écarts d'abstention suivent le diplôme et la position sociale : ce n'est pas seulement une affaire de volonté individuelle."
+    }
+  ],
+  "questions": [
+    "Pourquoi crois-tu que les cadres votent trois fois plus souvent que les ouvriers non qualifiés ?",
+    "Qu'est-ce qui donnerait envie aux gens qui ne votent plus de revenir ?"
+  ],
+  "limites": [
+    "L'enquête porte sur les élections nationales de 2022.",
+    "Elle mesure la participation, pas les raisons de l'abstention."
+  ],
+  "sources": [
+    {
+      "titre": "Élections présidentielle et législatives de 2022 : seul un tiers des électeurs a voté à tous les tours (Insee Première n° 1928)",
+      "organisme": "Insee (Kilian Bloch)",
+      "date_publication": "17 novembre 2022",
+      "url": "https://www.insee.fr/fr/statistiques/6658145",
+      "passage": "Inscrits : 36 % ont voté à tous les tours, 16 % se sont abstenus à tous les tours, 48 % ont voté par intermittence. Abstention systématique : 23,8 % des 18-24 ans contre 9,2 % des 60-64 ans ; 30,1 % des non-diplômés contre 9,6 % des diplômés du supérieur ; 23,6 % des ouvriers non qualifiés contre 7,4 % des cadres.",
+      "pertinence": "Statistique publique de référence (enquête participation électorale).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le droit de ne pas voter fait partie de la liberté démocratique.",
+    "L'abstention peut exprimer un rejet politique conscient, pas seulement un désintérêt."
+  ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "egalite",
+      "emancipation"
+    ],
+    "mecanismes": "L’abstention se concentre chez les jeunes, les ouvriers et les moins diplômés ; les élus s’adressent d’abord à ceux qui votent.",
+    "consequences": "La représentation politique se déforme au détriment des classes populaires.",
+    "democratie": "Une démocratie où une partie du peuple ne se sent plus représentée s’affaiblit.",
+    "propositions": [
+      "Faciliter l’inscription et le vote.",
+      "Redonner du poids aux classes populaires dans la vie politique, à commencer par des candidatures qui leur ressemblent.",
+      "Développer l’éducation populaire et civique."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’abstention peut aussi être un choix politique conscient et légitime.",
+        "integration": "Respecter ce choix, tout en montrant qu’il pèse surtout sur ceux qui ont le plus besoin d’être représentés."
+      }
+    ]
+  },
+  "concepts": [
+    "abstention"
+  ],
+  "repond_a": [
+    {
+      "id": "abstention",
+      "label": "Abstention et participation"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "voter ne sert",
+    "participation electorale",
+    "vote blanc",
+    "pas voter",
+    "aller voter"
+  ]
+}

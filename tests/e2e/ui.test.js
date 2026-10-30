@@ -588,6 +588,46 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.close();
   });
 
+  test('v11 — parcours variés (domaine, sous-thème, mode, profil) : la première suggestion mène à une fiche cohérente', async () => {
+    const page = await newPage(browser, PHONE, errors);
+    const CAS = [
+      ['GAGNER LE DÉBAT', /Sécurité, justice et libertés/, 'Homicides', 'securite', null],
+      ['CONVAINCRE SANS BRAQUER', /Écologie, énergie et agriculture/, 'Rénovation thermique', 'ecologie', 'Susceptible'],
+      ['GAGNER LE DÉBAT', /Politique, médias et démocratie/, 'Abstention', 'politique', 'Compétitif'],
+      ['CONVAINCRE SANS BRAQUER', /Droits, société et égalité/, 'Handicap et accessibilité', 'droits', null],
+      ['GAGNER LE DÉBAT', /Assistanat, travail et aides sociales/, 'RSA', 'social', null],
+      ['CONVAINCRE SANS BRAQUER', /Immigration, intégration et discriminations/, 'Histoire des migrations', 'immigration', null],
+    ];
+    const volets = new Map(FICHES.map((f) => [f.id, f.volet]));
+    for (const [mode, volet, st, voletId, profil] of CAS) {
+      await page.goto(`${s.base}/#/debat`);
+      await page.evaluate(() => sessionStorage.clear());
+      await page.reload();
+      await page.getByRole('heading', { name: 'Quel est ton objectif ?' }).waitFor();
+      await page.getByRole('radio', { name: new RegExp(mode) }).click();
+      await page.getByRole('radio', { name: volet }).click();
+      await page.getByRole('button', { name: st, exact: true }).click();
+      await page.getByRole('button', { name: 'Continuer' }).click();
+      await page.locator('#sugg-wizard').waitFor();
+      const premiere = page.locator('#sugg-wizard .sugg-chip').first();
+      assert.match(await premiere.textContent(), /fiche vérifiée/, `${st} : la première suggestion a une fiche`);
+      await premiere.click();
+      if (profil) { await page.getByText('Décrire la personne en face').click(); await page.getByRole('button', { name: profil, exact: true }).click(); }
+      await page.getByRole('button', { name: 'OK, SORS LES SOURCES !' }).click();
+      await page.waitForFunction(() => location.hash === '#/argumentaire');
+      const href = await page.locator('.crumb a').first().getAttribute('href');
+      const id = href.replace('#/bibliotheque/', '');
+      assert.ok(volets.has(id), `${st} → fiche ${id}`);
+      const panel = page.locator('.fiche-panel:not([hidden])');
+      assert.equal(await panel.getAttribute('id'), `strat-panel-${mode.startsWith('GAGNER') ? 'gagner' : 'convaincre'}`);
+      assert.equal((await panel.locator('h3.sub-title').first().textContent()), 'Ce que tu peux répondre');
+      assert.ok(await panel.locator('.preuve-src a').count(), `${st} : sources`);
+      const fi = FICHES.find((f) => f.id === id);
+      assert.ok(fi.volet === voletId || fi.sous_theme === st || fi.type === 'histoire', `${st} → ${id} (${fi.volet})`);
+    }
+    await page.close();
+  });
+
   test('question non couverte : message simple, sans fausse erreur de connexion', async () => {
     const page = await newPage(browser, PHONE, errors);
     await page.goto(`${s.base}/#/express`);

@@ -7,7 +7,7 @@ import { composer, questionsUtiles, PRIORITES } from './composer.js';
 import { suggestionsPour } from './suggestions.js';
 import { nouvelleConversation, repondreConversation, enregistrerTour, analyserMessage, terminerConversation, basculerSujet, revenirSujetInitial, corrigerHypotheses, chargeServeur, phaseConversation, CV_RACCOURCIS, CV_TYPES } from './conversation.js';
 import { kbMatch, kbFreshness, kbNormalize, kbDataAge } from './kbsearch.js';
-import { analyserPhrase } from './analyse.js';
+import { analyserPhrase, ficheCompatible, resoudrePhrase } from './analyse.js';
 import { LE_PRINCIPES } from './ligne-editoriale.js';
 import { LOGO_SVG } from './logo-data.js';
 import {
@@ -323,6 +323,13 @@ function voletPicker(w) {
 // ── Suggestions d'affirmations adaptées au parcours (bibliothèque locale, hors ligne) ──
 // L'état reste en mémoire : les suggestions déjà vues ne reviennent qu'après avoir épuisé la liste.
 const suggEtat = {};
+// une suggestion est « couverte » si l'application y répond avec une fiche (même logique que la réponse express)
+const suggCouverture = new Map();
+const estCouverte = (t) => {
+  if (!kb.fiches?.length) return false;
+  if (!suggCouverture.has(t)) suggCouverture.set(t, Boolean(resoudrePhrase(t, kb.fiches).fiche));
+  return suggCouverture.get(t);
+};
 function suggCtx(key) {
   if (key === 'express') return { volet: state.express.volet, sousTheme: null, mode: state.express.mode, interlocuteur: {} };
   const w = state.wizard;
@@ -333,8 +340,9 @@ function suggTirage(key, { renouveler = false } = {}) {
   const cle = JSON.stringify([ctx.volet, ctx.sousTheme, ctx.mode, ctx.interlocuteur]);
   let e = suggEtat[key];
   if (!e || e.cle !== cle) e = suggEtat[key] = { cle, vues: [], actuelles: null };
-  if (!e.actuelles || renouveler) {
-    const r = suggestionsPour({ ...ctx, vues: e.vues }, 3);
+  if (!e.actuelles || renouveler || (e.sansKb && kb.fiches?.length)) {
+    e.sansKb = !kb.fiches?.length;
+    const r = suggestionsPour({ ...ctx, vues: e.vues, estCouverte: kb.fiches?.length ? estCouverte : null }, 3);
     if (r.cycle) e.vues = [];
     e.actuelles = r.suggestions;
     e.total = r.total;
@@ -345,7 +353,7 @@ function suggTirage(key, { renouveler = false } = {}) {
 function suggestionsHtml(key, cible) {
   const e = suggTirage(key);
   if (!e.actuelles?.length) return '';
-  const couverte = (t) => (kb.fiches?.length ? kbMatch(kb.fiches.filter((f) => f.type !== 'science'), t)[0]?.force === 'forte' : false);
+  const couverte = (t) => estCouverte(t);
   return `<div class="sugg-box" id="sugg-${key}">
     <p class="field-label">Souvent entendu, à examiner :</p>
     <div class="chips sugg-chips">${e.actuelles.map((x) => `<button type="button" class="chip sugg-chip" data-example-fill="${h(x.texte)}" data-sugg-cible="${cible}">« ${h(x.texte)} »${couverte(x.texte) ? '<span class="sugg-tag">fiche vérifiée</span>' : ''}</button>`).join('')}</div>
@@ -1294,7 +1302,7 @@ async function launchLocal(payload) {
   // Les fiches « science du dialogue » expliquent comment parler, pas quoi répondre : elles ne servent jamais de
   // réponse à une affirmation. Une correspondance faible n'est pas présentée comme une réponse.
   const m = kbMatch(kb.fiches.filter((f) => f.type !== 'science'), payload.affirmation, { limit: 6 })
-    .filter((x) => x.force === 'forte')
+    .filter((x) => x.force === 'forte' && ficheCompatible(x.fiche, an.concepts.map((c) => c.id)))
     .map((x) => ({ ...x, adj: x.score + (payload.volet && x.fiche.volet === payload.volet ? 2 : 0) + (payload.sous_theme && x.fiche.sous_theme === payload.sous_theme ? 1 : 0) }))
     .sort((x, y) => y.adj - x.adj)
     .slice(0, 3);

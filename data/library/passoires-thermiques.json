@@ -1,0 +1,132 @@
+{
+  "id": "passoires-thermiques",
+  "type": "idee_recue",
+  "affirmation": "Interdire de louer les passoires thermiques va vider le marché locatif.",
+  "volet": "ecologie",
+  "sous_theme": "Rénovation thermique",
+  "rubriques": [],
+  "mots_cles": [
+    "passoires thermiques",
+    "passoires",
+    "dpe",
+    "rénovation",
+    "isolation",
+    "location",
+    "marché locatif",
+    "logements g",
+    "interdiction de louer",
+    "propriétaires"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Au 1er janvier 2025, 13,8 % des logements du parc locatif privé sont des passoires énergétiques (F ou G), environ 1,1 million, et leur nombre diminue chaque année. L'interdiction concerne d'abord les logements G (4,8 % des résidences principales) : il s'agit de rénover une minorité de logements, pas de vider le marché.",
+  "contexte": "La loi Climat et résilience interdit progressivement la mise en location des logements les plus énergivores (G, puis F). Certains annoncent un effondrement de l'offre locative.",
+  "explication": "Les chiffres du SDES permettent de mesurer l'ampleur réelle du problème et son évolution. Une partie de la baisse récente vient de la réforme du DPE pour les petites surfaces, une autre des rénovations.",
+  "faits": [
+    {
+      "fait": "Au 1er janvier 2025, 12,7 % des résidences principales sont des passoires énergétiques (environ 3,9 millions), 327 000 de moins qu'un an plus tôt ; près de 40 % de cette baisse s'explique par la réforme du DPE des petites surfaces.",
+      "periode": "1er janvier 2025",
+      "perimetre": "France, résidences principales",
+      "explication": "Le stock diminue, même si une partie de la baisse est un effet de méthode.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "12,7 %"
+    },
+    {
+      "fait": "Le parc locatif privé compte 13,8 % de passoires (environ 1,1 million de logements) ; les logements classés G représentent 4,8 % des résidences principales.",
+      "periode": "1er janvier 2025",
+      "perimetre": "France",
+      "explication": "L'interdiction concerne une minorité du parc locatif.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "13,8 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non : les passoires représentent 13,8 % du parc locatif privé, et l'interdiction vise d'abord les logements G (4,8 % des résidences principales). Il s'agit de rénover une minorité de logements où les locataires paient des factures énormes, pas de vider le marché.",
+    "moyen": "Regardons l'ampleur : selon le service statistique du ministère, 13,8 % des logements loués dans le privé sont des passoires, environ 1,1 million. Et leur nombre baisse chaque année.\n\nL'interdiction concerne d'abord les logements G, les pires, 4,8 % des résidences principales. Les locataires de ces logements paient des factures d'énergie très lourdes. La vraie question, c'est d'aider les propriétaires modestes à rénover, pas de laisser des gens vivre dans des logements qui ne se chauffent pas.",
+    "detaille": "Selon le SDES, au 1er janvier 2025, 12,7 % des résidences principales sont des passoires énergétiques (classes F et G), soit environ 3,9 millions de logements. Leur nombre a baissé de 327 000 en un an ; près de 40 % de cette baisse est due à la réforme du DPE des petites surfaces, le reste reflétant notamment des rénovations.\n\nDans le parc locatif privé, la part de passoires est de 13,8 %, environ 1,1 million de logements. Les logements G, premiers concernés par l'interdiction de mise en location, représentent 4,8 % des résidences principales.\n\nLe risque de retrait de certains logements du marché existe, et il faut l'accompagner. Mais la réponse est d'aider à rénover, notamment les propriétaires modestes, plutôt que de renoncer à protéger les locataires des logements les plus énergivores.",
+    "empathie": "Je comprends l'inquiétude des petits propriétaires : rénover coûte cher. Mais on parle d'une minorité de logements, où les locataires grelottent ou paient des factures énormes. L'enjeu, c'est de les aider à faire les travaux."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les propriétaires vont vendre plutôt que rénover.",
+      "reponse": "Un logement vendu reste un logement ; et les aides à la rénovation existent pour éviter ce choix. Il faut les rendre plus accessibles."
+    },
+    {
+      "objection": "Le DPE n'est pas fiable.",
+      "reponse": "Le DPE a été réformé et son calcul évolue ; c'est un argument pour l'améliorer, pas pour laisser les passoires sur le marché."
+    }
+  ],
+  "questions": [
+    "Tu accepterais de louer un logement qui ne se chauffe pas correctement ?",
+    "Comment aider les propriétaires modestes à rénover, selon toi ?"
+  ],
+  "limites": [
+    "Le nombre de passoires varie avec la méthode du DPE (réforme 2024, nouveau coefficient de l'électricité en 2026).",
+    "Les données ne disent pas combien de logements seraient retirés du marché."
+  ],
+  "sources": [
+    {
+      "titre": "Le parc de logements par classe de performance énergétique au 1er janvier 2025",
+      "organisme": "SDES (service statistique du ministère de la Transition écologique)",
+      "date_publication": "12 novembre 2025",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/le-parc-de-logements-par-classe-de-performance-energetique-au-1er-janvier-2025",
+      "passage": "Au 1er janvier 2025 : 12,7 % des 30,9 millions de résidences principales sont des passoires énergétiques (F et G), soit environ 3,9 millions, 327 000 de moins qu'un an plus tôt (dont près de 40 % de la baisse due à la réforme du DPE des petites surfaces) ; logements classés G : 4,8 % ; parc locatif privé : 13,8 % de passoires (environ 1,1 million), parc social : 5,8 %, propriétaires occupants : 14,0 %.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2026-12-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Une partie de la baisse du nombre de passoires est un effet de la réforme du DPE, pas des travaux.",
+    "La rénovation coûte cher et certains propriétaires modestes ont du mal à la financer."
+  ],
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "solidarite",
+      "emancipation"
+    ],
+    "mecanismes": "Les locataires des passoires paient des factures élevées et vivent dans des logements froids, sans pouvoir faire eux-mêmes les travaux.",
+    "consequences": "Précarité énergétique, problèmes de santé, budgets étranglés.",
+    "democratie": "La transition écologique doit être juste : elle doit protéger les plus modestes, propriétaires comme locataires.",
+    "propositions": [
+      "Des aides à la rénovation simples et suffisantes pour les propriétaires modestes.",
+      "Un accompagnement public des travaux pour éviter les arnaques."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une partie de la baisse du nombre de passoires vient d’un changement de méthode du DPE, pas des travaux.",
+        "integration": "Le dire honnêtement, et juger la politique sur les rénovations réelles."
+      }
+    ]
+  },
+  "concepts": [
+    "logement",
+    "renovation"
+  ],
+  "repond_a": [
+    {
+      "id": "renovation",
+      "label": "Rénovation thermique et passoires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier",
+    "sdf",
+    "dpe",
+    "isoler",
+    "isolation"
+  ]
+}

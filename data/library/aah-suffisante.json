@@ -1,0 +1,151 @@
+{
+  "id": "aah-suffisante",
+  "type": "idee_recue",
+  "affirmation": "L'AAH, c'est assez pour vivre.",
+  "volet": "droits",
+  "sous_theme": "Handicap et accessibilité",
+  "rubriques": [],
+  "mots_cles": [
+    "aah",
+    "allocation adulte handicapé",
+    "handicap",
+    "handicapés",
+    "assez pour vivre",
+    "seuil de pauvreté",
+    "déconjugalisation",
+    "minima sociaux"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Depuis le 1er avril 2026, l'AAH à taux plein est de 1 041,59 € par mois, alors que le seuil de pauvreté est de 1 337 € par mois pour une personne seule (Insee, 2024). Une personne qui n'a que l'AAH vit donc sous le seuil de pauvreté.",
+  "contexte": "L'allocation aux adultes handicapés est destinée aux personnes dont le handicap limite fortement la capacité à travailler. Depuis octobre 2023, elle ne dépend plus des revenus du conjoint.",
+  "explication": "Comparer le montant maximal de l'AAH au seuil de pauvreté monétaire (60 % du niveau de vie médian) permet de savoir si elle protège de la pauvreté une personne sans autre ressource.",
+  "faits": [
+    {
+      "fait": "Depuis le 1er avril 2026, le montant maximal de l'AAH à taux plein est de 1 041,59 € par mois pour une personne sans autres revenus.",
+      "periode": "Avril 2026",
+      "perimetre": "France",
+      "explication": "C'est le maximum, pour une personne sans autre ressource.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 041,59 €"
+    },
+    {
+      "fait": "En 2024, le seuil de pauvreté est de 1 337 € par mois et par unité de consommation.",
+      "periode": "2024",
+      "perimetre": "France métropolitaine",
+      "explication": "L'AAH maximale reste près de 300 € sous ce seuil.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "1 337 €"
+    },
+    {
+      "fait": "Depuis le 1er octobre 2023, l'AAH est déconjugalisée : seules les ressources de la personne handicapée sont prises en compte, plus celles de son conjoint.",
+      "periode": "Octobre 2023",
+      "perimetre": "France",
+      "explication": "Une avancée obtenue après des années de mobilisation, qui met fin à la dépendance financière au conjoint.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non : l'AAH maximale est de 1 041,59 € par mois, alors que le seuil de pauvreté est de 1 337 € (Insee). Quelqu'un qui ne vit que de l'AAH vit sous le seuil de pauvreté.",
+    "moyen": "Les chiffres sont simples : depuis avril 2026, l'AAH à taux plein, c'est 1 041,59 € par mois, au maximum. Le seuil de pauvreté, selon l'Insee, est de 1 337 €. Une personne qui ne peut pas travailler à cause de son handicap et n'a que l'AAH vit donc sous le seuil de pauvreté.\n\nIl y a eu une avancée : depuis octobre 2023, l'AAH ne dépend plus des revenus du conjoint. Mais son montant reste trop bas pour vivre dignement.",
+    "detaille": "L'allocation aux adultes handicapés s'adresse aux personnes dont le taux d'incapacité est d'au moins 80 %, ou compris entre 50 et 79 % avec une restriction durable d'accès à l'emploi. Depuis le 1er avril 2026, son montant maximal est de 1 041,59 € par mois pour une personne sans autres revenus.\n\nLe seuil de pauvreté, défini comme 60 % du niveau de vie médian, s'établit à 1 337 € par mois en 2024 selon l'Insee. L'AAH maximale est donc inférieure d'environ 300 € à ce seuil.\n\nDepuis le 1er octobre 2023, l'AAH est déconjugalisée : seules les ressources de la personne handicapée comptent. Cette réforme, longtemps réclamée par les associations, a mis fin à une dépendance financière envers le conjoint. Reste le niveau de l'allocation, qui maintient sous le seuil de pauvreté les personnes qui n'ont pas d'autre ressource.",
+    "empathie": "Je comprends qu'on pense que l'AAH suffit, puisqu'on en parle comme d'une aide importante. Mais elle est d'environ 1 040 € au maximum, sous le seuil de pauvreté. Imagine payer un loyer, se nourrir et se soigner avec ça, sans pouvoir travailler."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec les aides au logement, ça suffit.",
+      "reponse": "Les aides au logement aident à payer le loyer, mais l'AAH seule reste sous le seuil de pauvreté ; et ces aides dépendent de la situation de chacun."
+    },
+    {
+      "objection": "Ils peuvent travailler à côté.",
+      "reponse": "L'AAH est justement destinée à des personnes dont le handicap limite fortement la capacité à travailler."
+    }
+  ],
+  "questions": [
+    "Tu pourrais vivre avec 1 041 € par mois, loyer compris ?",
+    "Pourquoi une personne qui ne peut pas travailler devrait-elle vivre sous le seuil de pauvreté ?"
+  ],
+  "limites": [
+    "Le seuil de pauvreté comparé est celui de 2024 ; l'AAH est celle d'avril 2026.",
+    "Les situations individuelles varient selon les aides cumulables."
+  ],
+  "sources": [
+    {
+      "titre": "Montant 2026 de l'AAH (allocation aux adultes handicapés)",
+      "organisme": "Mon Parcours Handicap (site public, CNSA et Caisse des dépôts)",
+      "date_publication": "Mis à jour le 5 mai 2026",
+      "url": "https://www.monparcourshandicap.gouv.fr/actualite/montant-aah",
+      "passage": "« Depuis le 1er avril 2026, le montant maximum à taux plein » de l'AAH est de « 1 041,59 € par mois » pour une personne sans autres revenus ; déconjugalisation en vigueur depuis le 1er octobre 2023 : seules les ressources de la personne handicapée sont prises en compte.",
+      "pertinence": "Site d'information public.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Niveau de vie et pauvreté en 2024 (Insee Première n° 2117)",
+      "organisme": "Insee (Christelle Rieg, Arnaud Rousset)",
+      "date_publication": "9 juillet 2026",
+      "url": "https://insee.fr/fr/statistiques/9019316",
+      "passage": "France métropolitaine, 2024 : taux de pauvreté 15,4 % (stable, plus haut niveau depuis 1996) ; 9 817 000 personnes pauvres ; seuil 1 337 € par mois et par unité de consommation.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "L'AAH a été revalorisée et déconjugalisée en 2023.",
+    "Certaines personnes cumulent l'AAH avec d'autres aides (logement, complément de ressources) selon leur situation."
+  ],
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "vulnerables",
+      "egalite"
+    ],
+    "mecanismes": "L’AAH est un minimum social fixé par l’État ; son montant maximal reste inférieur au seuil de pauvreté.",
+    "consequences": "Les personnes handicapées qui ne peuvent pas travailler vivent dans la pauvreté et la dépendance.",
+    "democratie": "L’égalité des droits suppose de pouvoir vivre dignement avec un handicap.",
+    "propositions": [
+      "Porter l’AAH au moins au niveau du seuil de pauvreté.",
+      "Garantir l’accessibilité des services publics et de l’emploi."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’AAH a été revalorisée et déconjugalisée en 2023, et certaines personnes cumulent d’autres aides.",
+        "integration": "Reconnaître ces avancées, obtenues par la mobilisation, et rappeler que le montant reste sous le seuil de pauvreté."
+      }
+    ]
+  },
+  "concepts": [
+    "prestations",
+    "pauvrete",
+    "handicap"
+  ],
+  "repond_a": [
+    {
+      "id": "handicap",
+      "label": "Handicap et AAH"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ]
+}

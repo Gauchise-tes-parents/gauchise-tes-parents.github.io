@@ -16,6 +16,13 @@ Ligne éditoriale assumée de gauche, avec une règle non négociable : aucun fa
 
 ---
 
+## Nouveautés v11
+
+- **Audit de cohérence** (`npm run audit:coherence`) : les 764 affirmations suggérées, traitées comme dans l'application ; plus aucune n'est envoyée vers une fiche d'un autre domaine (15 erreurs corrigées), 437 mènent à une fiche cohérente.
+- **Règle de compatibilité** : une fiche trouvée par ressemblance de mots n'est retenue que si la phrase contient les notions de l'argument auquel elle répond.
+- **Suggestions** : celles qui ont une fiche vérifiée passent devant, dans tous les modes et pour tous les profils.
+- **10 nouvelles fiches sourcées** (homicides, loyers, passoires thermiques, AAH, ingérences, sondages, abstention, bilan de la gauche, histoire des migrations, accidents du travail). Voir `RAPPORT-V11.md`.
+
 ## Nouveautés v10
 
 - **Ligne éditoriale assumée** (`public/js/ligne-editoriale.js`) : 17 principes de gauche (égalité, universalité des droits, solidarité, dignité, antiracisme, antifascisme…) et 8 règles de vérité, partagés par le moteur hors ligne et le mode connecté.

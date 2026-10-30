@@ -127,6 +127,10 @@
       "id": "gauche_dangereuse",
       "label": "La gauche jugée dangereuse",
       "partielle": true
+    },
+    {
+      "id": "programme_gauche",
+      "label": "Les programmes de gauche seraient irréalisables"
     }
   ],
   "ne_repond_pas": [],

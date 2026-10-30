@@ -1,0 +1,142 @@
+{
+  "id": "morts-au-travail",
+  "type": "idee_recue",
+  "affirmation": "Les accidents du travail, c'est un problème du passé.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "accidents du travail",
+    "morts au travail",
+    "sécurité au travail",
+    "santé au travail",
+    "code du travail",
+    "droit du travail",
+    "inspection du travail",
+    "mortalité au travail",
+    "btp",
+    "intérim"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "En 2024, 764 accidents du travail mortels ont été reconnus au régime général, et 51 en 2023 au régime agricole. Après des décennies de baisse, le nombre de morts ne diminue plus depuis les années 2010, et la France se situe au-dessus de la moyenne européenne, même si les comparaisons sont délicates.",
+  "contexte": "On imagine souvent que les accidents mortels appartiennent à l'industrie d'autrefois. Ils touchent aujourd'hui notamment l'intérim, le bâtiment, le transport et les jeunes travailleurs.",
+  "explication": "Les chiffres viennent des régimes de sécurité sociale qui reconnaissent les accidents du travail. La réponse du ministère du Travail rappelle les tendances et les publics les plus exposés.",
+  "faits": [
+    {
+      "fait": "764 accidents du travail mortels ont été reconnus en 2024 au régime général, et 51 en 2023 au régime agricole.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Chaque année, des centaines de personnes meurent en travaillant.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "764"
+    },
+    {
+      "fait": "Après une baisse de plusieurs décennies, le nombre d'accidents mortels a atteint un plancher dans les années 2010 et ne diminue plus.",
+      "periode": "Depuis les années 2010",
+      "perimetre": "France",
+      "explication": "Les progrès se sont arrêtés.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2019, la France comptait 4,81 accidents mortels pour 100 000 salariés, contre 2,17 en moyenne européenne ; le ministère souligne que la comparaison est délicate car la France compte les malaises mortels.",
+      "periode": "2019",
+      "perimetre": "France et Union européenne",
+      "explication": "La France n'est pas un modèle en matière de sécurité au travail.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "4,81"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : en 2024, 764 personnes sont mortes d'un accident du travail au régime général, et les progrès sont bloqués depuis les années 2010 (ministère du Travail). Les plus exposés : intérimaires, jeunes, BTP, transport.",
+    "moyen": "Ce n'est pas de l'histoire ancienne : le ministère du Travail compte 764 accidents mortels en 2024 au régime général, plus les agriculteurs. Après des décennies de baisse, ça ne baisse plus depuis les années 2010.\n\nEt la France fait plutôt moins bien que ses voisins, même si les comparaisons sont délicates. Les plus touchés sont les intérimaires, les jeunes, les travailleurs du bâtiment et du transport. Le droit du travail et l'inspection du travail ne sont pas des contraintes inutiles : ils sauvent des vies.",
+    "detaille": "Selon la réponse du ministère du Travail publiée en mars 2026, 764 accidents du travail mortels ont été reconnus en 2024 au régime général ; le régime agricole en comptait 51 en 2023. Après une longue baisse sur plusieurs décennies, ce nombre a atteint un plancher dans les années 2010.\n\nEn 2019, la France comptait 4,81 accidents mortels pour 100 000 salariés, contre 2,17 en moyenne européenne ; le ministère rappelle que la comparaison est délicate, la France comptabilisant notamment les malaises mortels survenus au travail.\n\nLes publics prioritaires identifiés sont les intérimaires, les travailleurs en hauteur, le transport routier, les jeunes, les indépendants, les travailleurs détachés et saisonniers. Les accidents non mortels ont, eux, baissé entre 2019 et 2023. La santé et la sécurité au travail restent un enjeu majeur de protection des travailleurs.",
+    "empathie": "Je comprends qu'on pense que c'est réglé : les usines d'autrefois ont disparu. Mais des centaines de personnes meurent encore chaque année en travaillant, souvent des jeunes ou des intérimaires. Ça vaut la peine d'en parler."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le Code du travail est trop lourd.",
+      "reponse": "Une partie de ces règles protège la santé et la vie des salariés ; avec des centaines de morts par an, les alléger n'est pas sans conséquences."
+    },
+    {
+      "objection": "C'est souvent la faute de l'imprudence.",
+      "reponse": "Les publics les plus touchés (intérimaires, jeunes, détachés) sont aussi les moins formés et les plus précaires : c'est une question d'organisation du travail."
+    }
+  ],
+  "questions": [
+    "Tu savais qu'il y a plus de 700 morts au travail par an ?",
+    "Qui doit être responsable de la sécurité d'un intérimaire sur un chantier ?"
+  ],
+  "limites": [
+    "Les chiffres portent sur les accidents reconnus ; les maladies professionnelles ne sont pas comptées ici."
+  ],
+  "sources": [
+    {
+      "titre": "Réponse du ministère du Travail et des Solidarités à la question écrite n° 10291 (accidents du travail mortels)",
+      "organisme": "Assemblée nationale / ministère du Travail et des Solidarités",
+      "date_publication": "3 mars 2026",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE10291.pdf",
+      "passage": "764 accidents du travail mortels en 2024 au régime général et 51 en 2023 au régime agricole ; après une baisse de plusieurs décennies, le nombre d'accidents mortels a atteint « un plancher dans les années 2010 » ; en 2019, 4,81 accidents mortels pour 100 000 salariés en France contre 2,17 en moyenne européenne, comparaison délicate (la France compte les malaises mortels) ; publics prioritaires : intérim, travaux en hauteur, transport routier, jeunes, travailleurs détachés et saisonniers.",
+      "pertinence": "Réponse ministérielle officielle.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les accidents du travail non mortels ont baissé entre 2019 et 2023.",
+    "Les comparaisons européennes sont délicates, la France comptant les malaises mortels."
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "vulnerables"
+    ],
+    "mecanismes": "Précarité, sous-traitance, intérim et cadences exposent davantage les travailleurs les moins protégés.",
+    "consequences": "Des centaines de morts chaque année, souvent jeunes ou précaires.",
+    "democratie": "Le droit du travail est une conquête démocratique : il limite le pouvoir de l’employeur sur la santé des salariés.",
+    "propositions": [
+      "Renforcer l’inspection du travail et les sanctions contre les employeurs négligents.",
+      "Rétablir des instances de représentation consacrées à la santé et à la sécurité dans les entreprises."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les accidents non mortels ont baissé ces dernières années, et les comparaisons européennes sont délicates.",
+        "integration": "Le reconnaître ; le nombre de morts, lui, ne baisse plus."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "delinquance",
+    "accidents_travail"
+  ],
+  "repond_a": [
+    {
+      "id": "accidents_travail",
+      "label": "Santé et sécurité au travail"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite"
+  ]
+}
