@@ -1,0 +1,165 @@
+{
+  "id": "grand-remplacement",
+  "type": "idee_recue",
+  "affirmation": "Le grand remplacement est une réalité.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et démographie",
+  "rubriques": [],
+  "mots_cles": [
+    "grand remplacement",
+    "remplacement",
+    "remplacés",
+    "remplacer",
+    "submersion",
+    "invasion",
+    "disparition",
+    "population française",
+    "remigration",
+    "immigration"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non. L'idée d'un « grand remplacement » suppose qu'une population en remplacerait une autre, de façon organisée. Les chiffres disent autre chose : selon l'Insee, les immigrés représentent 11,2 % de la population en 2024, et parmi les descendants d'immigrés, 55 % n'ont qu'un seul parent immigré : ce n'est pas un remplacement, c'est un mélange. La part des immigrés augmente, mais progressivement : 6,6 % en 1931, 10,3 % en 2021.",
+  "contexte": "L'expression circule notamment dans des discours d'extrême droite pour présenter l'immigration comme un projet de substitution de la population. Elle sert souvent de justification à des propositions de « remigration ».",
+  "explication": "Un immigré est une personne née étrangère à l'étranger et résidant en France ; il peut devenir français. Un descendant d'immigré est né en France, et le plus souvent français. Additionner les deux et les présenter comme une population « de remplacement » revient à exclure de la nation des Français nés en France.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, la France comptait 7 615 000 immigrés en 2024, soit 11,2 % de la population (10,6 % en 2023), dont 34 % sont de nationalité française.",
+      "periode": "2024",
+      "perimetre": "France hors Mayotte",
+      "explication": "La population immigrée est une minorité, et un tiers des immigrés sont devenus français.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11,2 %"
+    },
+    {
+      "fait": "Selon l'Insee, 55 % des descendants d'immigrés n'ont qu'un seul parent immigré.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les familles se mélangent : c'est le contraire d'un remplacement.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "55 %"
+    },
+    {
+      "fait": "Selon l'Insee, la part des immigrés dans la population est passée de 2,8 % en 1911 à 6,6 % en 1931, 7,4 % en 1975 et 10,3 % en 2021.",
+      "periode": "1911-2021",
+      "perimetre": "France",
+      "explication": "L'immigration est ancienne et sa progression est lente.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "6,6 %"
+    },
+    {
+      "fait": "Selon l'Insee, la part des immigrés est passée de 10,6 % à 11,2 % de la population entre 2023 et 2024.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "La part des immigrés augmente : il faut le dire, sans en faire un remplacement.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "10,6 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non : les immigrés représentent 11,2 % de la population (Insee, 2024), et plus de la moitié des enfants d'immigrés ont un parent qui ne l'est pas. Ce n'est pas un remplacement, c'est un mélange, comme la France en connaît depuis plus d'un siècle.",
+    "moyen": "Les chiffres de l'Insee sont clairs : 11,2 % d'immigrés en 2024, dont un tiers sont français. Et 55 % des descendants d'immigrés n'ont qu'un seul parent immigré : les familles se mélangent.\n\nLa part des immigrés augmente, mais lentement : 6,6 % en 1931, 10,3 % en 2021. Parler de « remplacement », c'est faire des enfants nés en France, souvent français, des étrangers dans leur propre pays.",
+    "detaille": "L'idée d'un « grand remplacement » affirme qu'une population serait remplacée par une autre, de façon organisée. Elle ne résiste pas aux données. Selon l'Insee, la France comptait 7 615 000 immigrés en 2024, soit 11,2 % de la population, dont 34 % de nationalité française. Les descendants d'immigrés sont nés en France ; 55 % d'entre eux n'ont qu'un seul parent immigré.\n\nL'immigration est ancienne : les immigrés représentaient 2,8 % de la population en 1911, 6,6 % en 1931, 7,4 % en 1975 et 10,3 % en 2021. Leur part augmente, de 10,6 % à 11,2 % entre 2023 et 2024 : c'est un fait qu'il faut regarder en face, et qui pose des questions d'accueil, de logement et d'intégration.\n\nMais une hausse progressive n'est pas un « remplacement ». L'expression transforme des voisins, des collègues et des enfants nés en France en ennemis de l'intérieur ; elle relève de la théorie du complot, pas de la démographie.",
+    "empathie": "Je comprends qu'on puisse avoir l'impression que le pays change vite, surtout dans certains quartiers. Mais les chiffres montrent une immigration qui progresse lentement et des familles qui se mélangent. Les enfants nés ici sont français, pas des remplaçants."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il suffit de regarder dans la rue.",
+      "reponse": "L'impression visuelle confond immigrés, descendants nés en France et Français d'outre-mer ; les chiffres de l'Insee mesurent la réalité."
+    },
+    {
+      "objection": "Les immigrés font plus d'enfants.",
+      "reponse": "Les descendants d'immigrés sont pour plus de la moitié issus de couples mixtes, et ils sont nés en France : les compter comme des « remplaçants », c'est les exclure de la nation."
+    }
+  ],
+  "questions": [
+    "Un enfant né en France d'un parent immigré et d'un parent qui ne l'est pas, c'est un remplaçant ou un Français ?",
+    "Sais-tu quelle était la part des immigrés dans les années 1930 ?"
+  ],
+  "limites": [
+    "Les données 2024 sont provisoires.",
+    "Les écarts entre territoires ne sont pas détaillés ici."
+  ],
+  "sources": [
+    {
+      "titre": "Immigrés et descendants d'immigrés (France, portrait social, édition 2025)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612512",
+      "passage": "France hors Mayotte, 2024 (provisoire) : 7 615 000 immigrés, soit 11,2 % de la population (10,6 % en 2023) ; 7 987 000 descendants d'immigrés, soit 12 % de la population en logement ordinaire, dont 55 % n'ont qu'un parent immigré ; 34 % des immigrés sont de nationalité française ; nés en Afrique 48,1 % (Maghreb 29,4 %), en Europe 31,3 %, en Asie 14,5 %, Amérique-Océanie 6,0 %. Définitions de l'immigré et du descendant d'immigré.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Histoire des migrations et diversité des origines géographiques des immigrés (Immigrés et descendants d'immigrés en France, édition 2023)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793226",
+      "passage": "Part des immigrés dans la population : 2,8 % en 1911, 3,7 % en 1921, 6,6 % en 1931, 7,4 % en 1975, 10,3 % en 2021. Dans les années 1920, arrivées de Belgique, d'Italie, d'Espagne, de Pologne, de Russie et d'Arménie pour compenser les pertes de la Grande Guerre ; Office national d'immigration créé en 1945 pour recruter des travailleurs étrangers ; pendant les Trente Glorieuses, immigration espagnole et algérienne, puis portugaise, marocaine et turque ; immigration de travail freinée en 1974.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La part des immigrés dans la population augmente et atteint un niveau historiquement élevé.",
+    "Dans certains territoires, la part des immigrés est bien plus élevée que la moyenne nationale."
+  ],
+  "lecture": {
+    "valeurs": [
+      "antifascisme",
+      "antiracisme",
+      "universalite"
+    ],
+    "mecanismes": "La théorie transforme une évolution démographique lente en complot, et des Français nés en France en population étrangère : elle trie les citoyens selon leur origine.",
+    "consequences": "Elle nourrit la peur et la haine, et sert à justifier des projets d’expulsion de masse.",
+    "democratie": "Une démocratie repose sur l’égalité des citoyens ; définir la nation par l’origine, c’est rompre avec la République.",
+    "propositions": [
+      "Répondre aux inquiétudes réelles par des politiques d’accueil, de logement et d’intégration.",
+      "Combattre les théories complotistes par l’éducation aux chiffres et à l’histoire de l’immigration."
+    ],
+    "defavorables": [
+      {
+        "fait": "La part des immigrés augmente et atteint un niveau historiquement élevé.",
+        "integration": "Le reconnaître, et rappeler qu’une hausse progressive n’est pas un remplacement."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "identite",
+    "demographie"
+  ],
+  "repond_a": [
+    {
+      "id": "identite",
+      "label": "Identité et sentiment de dépossession",
+      "partielle": true
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "chez eux",
+    "oqtf",
+    "reconduite",
+    "virer",
+    "dehors",
+    "remigration"
+  ]
+}

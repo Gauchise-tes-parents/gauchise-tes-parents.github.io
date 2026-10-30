@@ -113,10 +113,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "histoire_migrations"
-  ],
   "repond_a": [
     {
       "id": "histoire_migrations",
@@ -137,5 +133,9 @@
     "espagnols",
     "portugais",
     "il y a cent ans"
+  ],
+  "concepts": [
+    "immigration",
+    "histoire_migrations"
   ]
 }

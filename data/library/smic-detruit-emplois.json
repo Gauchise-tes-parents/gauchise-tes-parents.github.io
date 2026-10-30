@@ -1,0 +1,154 @@
+{
+  "id": "smic-detruit-emplois",
+  "type": "idee_recue",
+  "affirmation": "Augmenter le SMIC détruit des emplois.",
+  "volet": "social",
+  "sous_theme": "Emploi et salaires",
+  "rubriques": [],
+  "mots_cles": [
+    "smic",
+    "salaire minimum",
+    "augmenter le smic",
+    "hausse du smic",
+    "coup de pouce",
+    "détruit des emplois",
+    "tue l emploi",
+    "coût du travail",
+    "bas salaires"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Ce n'est pas automatique. Quand l'Allemagne a créé un salaire minimum en 2015, l'étude de Dustmann et Lindner n'a pas constaté de baisse de l'emploi : les salaires des moins bien payés ont augmenté d'environ 6,7 % et une partie des salariés est passée dans des entreprises plus productives. L'effet dépend du niveau et du rythme de la hausse : c'est un débat économique, pas une loi de la nature.",
+  "contexte": "L'argument est opposé à chaque proposition de hausse du SMIC : un salaire minimum plus élevé rendrait le travail peu qualifié trop cher et pousserait les entreprises à embaucher moins.",
+  "explication": "Une hausse du salaire minimum a deux effets possibles : elle augmente le coût du travail, mais elle augmente aussi le pouvoir d'achat et pousse les entreprises peu productives à s'améliorer ou à céder la place à d'autres. Les études récentes cherchent lequel l'emporte, selon le niveau du salaire minimum.",
+  "faits": [
+    {
+      "fait": "Selon l'étude de Christian Dustmann et Attila Lindner (UCL), l'introduction du salaire minimum allemand en 2015 n'a pas réduit l'emploi, tout en augmentant d'environ 6,7 % le salaire des salariés payés moins de 8,50 € de l'heure.",
+      "periode": "2015",
+      "perimetre": "Allemagne",
+      "explication": "Un salaire minimum significatif peut être créé sans destruction d'emplois mesurable.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "6,7 %"
+    },
+    {
+      "fait": "Selon la même étude, une partie des salariés est passée vers des entreprises plus productives, ce qui explique environ 25 % de la hausse des salaires.",
+      "periode": "2015-2016",
+      "perimetre": "Allemagne",
+      "explication": "Le salaire minimum a aussi réorganisé l'économie vers des emplois plus productifs.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "25 %"
+    },
+    {
+      "fait": "Selon l'Insee, 6,6 % des salariés vivaient sous le seuil de pauvreté en 2023.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Avoir un emploi ne protège pas toujours de la pauvreté : le niveau des bas salaires est un enjeu.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "6,6 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Pas automatiquement : quand l'Allemagne a créé son salaire minimum en 2015, l'étude de référence n'a pas trouvé de baisse de l'emploi, et les bas salaires ont gagné environ 6,7 %. Tout dépend du niveau et du rythme de la hausse.",
+    "moyen": "L'idée paraît logique, mais les faits sont plus nuancés. L'Allemagne a introduit un salaire minimum en 2015 : l'étude de Dustmann et Lindner (UCL) n'a pas constaté de baisse de l'emploi, alors que les salariés concernés ont gagné environ 6,7 %.\n\nUne partie d'entre eux est passée dans des entreprises plus productives : le salaire minimum a poussé l'économie vers de meilleurs emplois. En France, 6,6 % des salariés vivent sous le seuil de pauvreté : la question n'est pas de savoir s'il faut mieux payer le travail, mais comment le faire.",
+    "detaille": "L'argument suppose qu'un salaire plus élevé rend automatiquement certains emplois non rentables. Les études récentes nuancent fortement ce raisonnement. L'Allemagne n'avait pas de salaire minimum national avant 2015 ; l'étude de Christian Dustmann et Attila Lindner (UCL, CReAM) conclut qu'il n'a pas réduit l'emploi, et que les salariés payés moins de 8,50 € de l'heure ont vu leur salaire augmenter d'environ 6,7 %. Une partie de cette hausse, environ 25 %, vient de salariés passés vers des entreprises plus productives.\n\nCela ne prouve pas qu'on peut augmenter le salaire minimum sans limite : l'effet dépend du niveau atteint, de la vitesse de la hausse et des aides qui l'accompagnent pour les petites entreprises. C'est un vrai débat entre économistes.\n\nEn France, 6,6 % des salariés vivaient sous le seuil de pauvreté en 2023, selon l'Insee. Dire « augmenter le SMIC détruit des emplois » comme une évidence, c'est fermer un débat que les données laissent ouvert.",
+    "empathie": "Je comprends l'inquiétude, surtout pour les petites entreprises. Mais quand l'Allemagne a créé son salaire minimum, les économistes n'ont pas vu l'emploi baisser. La vraie question, c'est le niveau et le rythme, et comment on aide les petits patrons."
+  },
+  "contre_arguments": [
+    {
+      "objection": "En France, le SMIC est déjà élevé, ce n'est pas comparable.",
+      "reponse": "C'est un argument sérieux : l'effet dépend du niveau. Mais il plaide pour discuter du rythme et des aides, pas pour présenter la destruction d'emplois comme automatique."
+    },
+    {
+      "objection": "Les entreprises vont délocaliser.",
+      "reponse": "Une grande partie des emplois au salaire minimum (commerce, restauration, aide à domicile) ne peut pas être délocalisée."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce qui s'est passé pour l'emploi quand l'Allemagne a créé son salaire minimum ?",
+    "Si un emploi ne permet pas de sortir de la pauvreté, qui paie la différence ?"
+  ],
+  "limites": [
+    "La source principale porte sur l'Allemagne en 2015 ; aucune évaluation française récente n'a pu être lue pour cette fiche.",
+    "Le rapport annuel du groupe d'experts sur le SMIC, qui est plus réservé sur les coups de pouce, n'a pas pu être consulté ; son avis n'est donc pas résumé ici."
+  ],
+  "sources": [
+    {
+      "titre": "German minimum wage drove workers to more productive firms (étude de Christian Dustmann et Attila Lindner, CReAM)",
+      "organisme": "University College London (UCL)",
+      "date_publication": "18 février 2020",
+      "url": "https://www.ucl.ac.uk/news/2020/feb/german-minimum-wage-drove-workers-more-productive-firms",
+      "passage": "Introduction du salaire minimum allemand en 2015 : « we do not find that it reduced employment » ; hausse de salaire d'environ 6,7 % pour les salariés payés moins de 8,50 € de l'heure ; une partie des salariés est passée vers des entreprises plus productives, ce qui explique environ 25 % de la hausse des salaires.",
+      "pertinence": "Présentation d'une étude universitaire (document de discussion du CReAM).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Pauvreté monétaire (France, portrait social, édition 2025)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612540",
+      "passage": "Données 2023 : taux de pauvreté monétaire 15,4 % ; actifs occupés 8,3 % (salariés 6,6 %, indépendants 19,2 %) ; chômeurs 36,1 % ; retraités 11,1 % ; inactifs de 18 ans ou plus 18,3 % ; familles monoparentales 34,3 % ; enfants de moins de 18 ans 21,9 %.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Une hausse très forte et très rapide peut peser sur les petites entreprises à faible marge.",
+    "L'étude citée porte sur l'Allemagne, dont le marché du travail diffère de celui de la France."
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "repartition",
+      "dignite"
+    ],
+    "mecanismes": "L’argument présente le salaire comme un simple coût, en oubliant qu’il est aussi un revenu qui fait vivre l’économie et qui pousse les entreprises à mieux s’organiser.",
+    "consequences": "Des salariés à temps plein restent sous le seuil de pauvreté, et la collectivité compense par des aides ce que les employeurs ne paient pas.",
+    "democratie": "Le niveau du salaire minimum est un choix politique, qui doit être débattu ouvertement, pas présenté comme une loi naturelle.",
+    "propositions": [
+      "Augmenter le SMIC par étapes, en accompagnant les petites entreprises plutôt que les grands groupes.",
+      "Conditionner les exonérations de cotisations à des hausses de salaires négociées."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’étude citée porte sur l’Allemagne, et une hausse trop brutale peut peser sur les petites entreprises.",
+        "integration": "Défendre une hausse progressive et accompagnée, pas une hausse sans limite."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "salaires",
+    "cout",
+    "salaire_minimum"
+  ],
+  "repond_a": [
+    {
+      "id": "smic_emploi",
+      "label": "Salaire minimum et emploi"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ]
+}

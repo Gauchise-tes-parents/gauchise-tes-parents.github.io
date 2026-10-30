@@ -1,0 +1,164 @@
+{
+  "id": "pauvres-efforts",
+  "type": "idee_recue",
+  "affirmation": "Les pauvres sont pauvres parce qu'ils ne font pas d'efforts.",
+  "volet": "social",
+  "sous_theme": "Pauvreté",
+  "rubriques": [],
+  "mots_cles": [
+    "pauvres",
+    "efforts",
+    "pas d efforts",
+    "mérite",
+    "quand on veut on peut",
+    "responsabilité",
+    "pauvreté",
+    "faute",
+    "fainéants",
+    "origine sociale"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La pauvreté ne frappe pas au hasard. Selon l'Insee, en 2023, 21,9 % des enfants vivent sous le seuil de pauvreté — des enfants, qui n'ont pas pu « ne pas faire d'efforts » — et 34,3 % des personnes en famille monoparentale. Et à sexe et âge égaux, un enfant de cadre vit en moyenne avec 1 000 € de plus par mois qu'un enfant d'ouvrier non qualifié, selon France Stratégie.",
+  "contexte": "L'idée que la pauvreté serait une affaire de volonté individuelle revient souvent dans les discussions sur les aides sociales.",
+  "explication": "Le risque de pauvreté dépend de la situation familiale, de l'emploi, de la santé et de l'origine sociale. Les efforts individuels comptent, mais les points de départ sont très inégaux.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, en 2023, 21,9 % des enfants de moins de 18 ans et 34,3 % des personnes en famille monoparentale vivent sous le seuil de pauvreté.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Une grande partie des pauvres sont des enfants et des familles monoparentales.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "21,9 %"
+    },
+    {
+      "fait": "Selon l'Insee, 8,3 % des personnes en emploi vivent sous le seuil de pauvreté en 2023, dont 6,6 % des salariés et 19,2 % des indépendants.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Travailler ne suffit pas toujours à sortir de la pauvreté.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "8,3 %"
+    },
+    {
+      "fait": "Selon France Stratégie, à sexe, âge et origine migratoire identiques, l'écart moyen de niveau de vie entre un enfant de cadre et un enfant d'ouvrier non qualifié s'élève à 1 000 euros par mois, et un enfant de cadre supérieur a 4,5 fois plus de chances d'appartenir aux 20 % les plus aisés.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Le point de départ pèse lourd sur la position d'arrivée.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "1 000 euros"
+    },
+    {
+      "fait": "Selon l'Insee, 9 817 000 personnes vivent sous le seuil de pauvreté en 2024 en France métropolitaine, soit 15,4 % de la population.",
+      "periode": "2024",
+      "perimetre": "France métropolitaine",
+      "explication": "La pauvreté touche près d'une personne sur six.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "15,4 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : plus d'un enfant sur cinq est pauvre en France (Insee, 2023), et des salariés aussi. Et à âge égal, un enfant de cadre vit avec 1 000 € de plus par mois qu'un enfant d'ouvrier (France Stratégie). L'effort compte, mais le point de départ pèse lourd.",
+    "moyen": "Regarde qui est pauvre en France : selon l'Insee, 21,9 % des enfants, 34,3 % des personnes en famille monoparentale, et 8,3 % des personnes qui ont un emploi. Ce ne sont pas des gens qui refusent de faire des efforts.\n\nEt l'origine sociale pèse lourd : selon France Stratégie, un enfant de cadre a en moyenne 1 000 € de plus par mois qu'un enfant d'ouvrier non qualifié, et 4,5 fois plus de chances d'être parmi les 20 % les plus aisés. L'effort compte, mais on ne part pas tous de la même ligne.",
+    "detaille": "L'idée que la pauvreté serait une question de volonté se heurte à la composition de la population pauvre. Selon l'Insee, 9 817 000 personnes vivent sous le seuil de pauvreté en France métropolitaine en 2024. En 2023, 21,9 % des enfants et 34,3 % des personnes en famille monoparentale sont pauvres ; 8,3 % des personnes en emploi aussi, et 36,1 % des chômeurs.\n\nL'origine sociale joue fortement : selon France Stratégie (2018), à sexe, âge et origine migratoire identiques, un enfant de cadre a en moyenne un niveau de vie supérieur de 1 000 € par mois à celui d'un enfant d'ouvrier non qualifié, et 4,5 fois plus de chances d'appartenir aux 20 % les plus aisés. La moitié de cet écart passe par l'inégalité des chances à l'école ; à diplôme égal, un écart demeure.\n\nL'effort individuel existe et compte. Mais présenter la pauvreté comme une faute ignore ce que montrent les données : elle dépend largement de la naissance, de la famille et de l'emploi disponible.",
+    "empathie": "Je comprends : quand on s'est battu pour s'en sortir, on a envie de penser que tout le monde peut le faire. Mais plus d'un enfant sur cinq est pauvre en France, et beaucoup de pauvres travaillent. On ne part pas tous avec les mêmes cartes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Moi, je suis parti de rien et j'ai réussi.",
+      "reponse": "C'est possible et respectable, mais les données montrent que c'est beaucoup plus difficile pour un enfant d'ouvrier que pour un enfant de cadre."
+    },
+    {
+      "objection": "Les aides découragent l'effort.",
+      "reponse": "Une grande partie des pauvres sont des enfants, des salariés ou des familles monoparentales : ce n'est pas un manque d'effort qui les rend pauvres."
+    }
+  ],
+  "questions": [
+    "Un enfant pauvre est-il pauvre parce qu'il ne fait pas d'efforts ?",
+    "À ton avis, pourquoi un enfant de cadre a-t-il 4,5 fois plus de chances d'être parmi les plus aisés ?"
+  ],
+  "limites": [
+    "Les chiffres de France Stratégie datent de 2018.",
+    "La pauvreté est mesurée ici de façon monétaire (seuil à 60 % du niveau de vie médian)."
+  ],
+  "sources": [
+    {
+      "titre": "Pauvreté monétaire (France, portrait social, édition 2025)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612540",
+      "passage": "Données 2023 : taux de pauvreté monétaire 15,4 % ; actifs occupés 8,3 % (salariés 6,6 %, indépendants 19,2 %) ; chômeurs 36,1 % ; retraités 11,1 % ; inactifs de 18 ans ou plus 18,3 % ; familles monoparentales 34,3 % ; enfants de moins de 18 ans 21,9 %.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nés sous la même étoile ? Origine sociale et niveau de vie (Note d'analyse n° 68)",
+      "organisme": "France Stratégie (Clément Dherbécourt)",
+      "date_publication": "Juillet 2018",
+      "url": "https://solidarites.gouv.fr/sites/solidarite/files/2023-03/nes_sous_la_meme_etoile_france_strategie.pdf",
+      "passage": "À sexe, âge et origine migratoire identiques, l'écart moyen de niveau de vie entre un enfant de cadre et un enfant d'ouvrier non qualifié « s'élève à 1 000 euros par mois » ; un enfant de cadre supérieur a « 4,5 fois plus de chances » qu'un enfant d'ouvrier d'appartenir aux 20 % les plus aisés ; l'inégalité des chances éducatives contribue pour moitié à ces écarts ; à diplôme égal, « un écart demeure ».",
+      "pertinence": "Organisme public d'expertise et de prospective.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Niveau de vie et pauvreté en 2024 (Insee Première n° 2117)",
+      "organisme": "Insee (Christelle Rieg, Arnaud Rousset)",
+      "date_publication": "9 juillet 2026",
+      "url": "https://insee.fr/fr/statistiques/9019316",
+      "passage": "France métropolitaine, 2024 : taux de pauvreté 15,4 % (stable, plus haut niveau depuis 1996) ; 9 817 000 personnes pauvres ; seuil 1 337 € par mois et par unité de consommation.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les choix individuels, la formation et l'effort influencent réellement les trajectoires.",
+    "Les données de France Stratégie datent de 2018."
+  ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "dignite",
+      "solidarite"
+    ],
+    "mecanismes": "Faire de la pauvreté une faute individuelle dispense d’interroger les causes collectives : salaires, emploi, logement, école, origine sociale.",
+    "consequences": "Les pauvres sont stigmatisés et les aides présentées comme une récompense de la paresse, ce qui encourage le non-recours.",
+    "democratie": "Une République qui promet l’égalité doit corriger les inégalités de départ, pas les justifier.",
+    "propositions": [
+      "Investir dans l’école là où les inégalités de départ sont les plus fortes.",
+      "Lutter contre la pauvreté des enfants et des familles monoparentales par des aides ciblées et des services publics."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les choix individuels et l’effort influencent réellement les trajectoires.",
+        "integration": "Le reconnaître : l’effort compte, mais il ne compense pas des points de départ très inégaux."
+      }
+    ]
+  },
+  "concepts": [
+    "travail_effort",
+    "pauvrete"
+  ],
+  "repond_a": [
+    {
+      "id": "pauvres_efforts",
+      "label": "La pauvreté serait une question d’effort"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "on travaille toute",
+    "pauvrete",
+    "misere",
+    "coutent trop cher"
+  ]
+}

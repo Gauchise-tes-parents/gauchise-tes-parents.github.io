@@ -122,11 +122,6 @@
       }
     ]
   },
-  "concepts": [
-    "prestations",
-    "pauvrete",
-    "handicap"
-  ],
   "repond_a": [
     {
       "id": "handicap",
@@ -147,5 +142,10 @@
     "aide medicale",
     "qui profitent",
     "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "pauvrete",
+    "handicap"
   ]
 }

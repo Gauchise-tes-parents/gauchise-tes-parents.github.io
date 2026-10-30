@@ -152,10 +152,6 @@
       }
     ]
   },
-  "concepts": [
-    "justice",
-    "gauche"
-  ],
   "repond_a": [
     {
       "id": "gauche_bilan",
@@ -172,6 +168,15 @@
     "insoumis",
     "mitterrand",
     "jospin",
-    "front populaire"
+    "front populaire",
+    "temps de travail",
+    "duree du travail",
+    "heures par semaine"
+  ],
+  "concepts": [
+    "justice",
+    "gauche",
+    "temps_travail",
+    "retraite"
   ]
 }

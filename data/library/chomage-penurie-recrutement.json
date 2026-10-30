@@ -117,6 +117,11 @@
       "label": "Chômage et difficultés de recrutement"
     },
     {
+      "id": "traverser_rue",
+      "label": "Il suffirait de chercher pour trouver un emploi",
+      "partielle": true
+    },
+    {
       "id": "travail_effort",
       "label": "Les Français ne voudraient plus travailler"
     }
@@ -136,11 +141,32 @@
     "trouvent pas de candidats",
     "patronat"
   ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "solidarite"
+    ],
+    "mecanismes": "Les difficultés de recrutement viennent souvent des conditions de travail, des salaires, des horaires et des distances, autant que des candidats.",
+    "consequences": "Les chômeurs sont accusés de refuser des emplois que les employeurs n’ont pas rendus attractifs.",
+    "democratie": "Le chômage est une question collective : formation, salaires, transports et conditions de travail relèvent de choix politiques.",
+    "propositions": [
+      "Revaloriser les salaires et les conditions de travail dans les métiers en tension.",
+      "Financer la formation et la mobilité des demandeurs d’emploi vers ces métiers."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les employeurs citent d’abord le manque de candidats adaptés.",
+        "integration": "Le prendre au sérieux, et rappeler que l’attractivité d’un emploi dépend aussi de l’employeur."
+      }
+    ]
+  },
   "concepts": [
     "emploi",
     "penurie",
     "riches_entreprises",
     "immigration",
+    "traverser_rue",
     "travail_effort"
   ]
 }

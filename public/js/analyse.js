@@ -8,7 +8,8 @@
 // Garde-fous : aucune donnée n'est créée ; les fiches voisines sont écartées avec leur raison ;
 // les émotions et procédés sont des lectures possibles, pas des diagnostics.
 // NB : noms préfixés an… / AN_ (l'aperçu concatène les modules).
-import { CA_CONCEPTS, CA_ARGUMENTS, CA_EMOTIONS, CA_PROCEDES, CA_PHRASES } from './cartographie.js';
+import { CA_CONCEPTS, CA_ARGUMENTS, CA_EMOTIONS, CA_PROCEDES, CA_PHRASES, CA_DOMAINES } from './cartographie.js';
+import { voletById } from './taxonomy.js';
 import { kbNormalize, kbScore, kbMatch } from './kbsearch.js';
 import { atteintesDignite } from './ligne-editoriale.js';
 
@@ -18,6 +19,16 @@ const AN_CONCEPT_RE = Object.fromEntries(Object.entries(CA_CONCEPTS).map(([id, c
 const AN_EMO_RE = Object.fromEntries(Object.entries(CA_EMOTIONS).map(([id, c]) => [id, new RegExp(c.motifs.join('|'))]));
 const AN_PROC_RE = Object.fromEntries(Object.entries(CA_PROCEDES).filter(([, c]) => c.motifs.length).map(([id, c]) => [id, new RegExp(c.motifs.join('|'))]));
 const anHash = (s) => { let x = 0; for (const ch of s) x = (x * 31 + ch.charCodeAt(0)) >>> 0; return x; };
+
+/** Domaines mobilisés par une phrase (classification multiple, v12) : un domaine par volet, avec ses concepts. */
+export function anDomaines(concepts) {
+  const par = new Map();
+  for (const c of concepts) for (const v of CA_DOMAINES[c.id] || []) {
+    if (!par.has(v)) par.set(v, { id: v, label: voletById(v)?.label || v, concepts: [] });
+    par.get(v).concepts.push(c.label);
+  }
+  return [...par.values()].sort((a, b) => b.concepts.length - a.concepts.length);
+}
 
 /** Concepts présents dans un texte normalisé, avec les mots qui les ont déclenchés. */
 export const AN_SUJETS_PORTEURS = ['immigration', 'melenchon_lfi', 'gauche'];
@@ -40,7 +51,9 @@ export function ficheCompatible(fiche, conceptsPhrase) {
   const ids = new Set(conceptsPhrase);
   const repond = (fiche.repond_a || []).map((r) => CA_ARGUMENTS.find((a) => a.id === r.id)).filter(Boolean);
   if (!repond.length) return true;
-  return repond.some((a) => a.tous.every((c) => ids.has(c)));
+  // un argument qui exige une formulation précise (requiertSignal) a déjà été examiné par l'analyse : si elle l'a
+  // écarté faute de signal, une simple ressemblance de mots ne doit pas le réintroduire (v12)
+  return repond.some((a) => a.tous.every((c) => ids.has(c)) && !a.requiertSignal);
 }
 
 /**
@@ -255,6 +268,7 @@ export function analyserPhrase(texte, { bibliotheque = [], mode = 'gagner', cont
     emotions, procedes: procedes.map(({ id, label, explication, verifier, question: q }) => ({ id, label, explication, verifier, question: q })),
     ecartees, phrase, phraseGenerique, question,
     dignite: atteintesDignite(texte),
+    domaines: anDomaines(concepts),
     lacune: !args.length || Boolean(args[0]?.lacune),
   };
 }

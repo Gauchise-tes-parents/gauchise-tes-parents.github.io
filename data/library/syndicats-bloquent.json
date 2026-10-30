@@ -1,0 +1,158 @@
+{
+  "id": "syndicats-bloquent",
+  "type": "idee_recue",
+  "affirmation": "Les syndicats empêchent les entreprises de fonctionner.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "syndicats",
+    "syndicat",
+    "syndicalistes",
+    "cgt",
+    "grèves",
+    "grève",
+    "bloquent",
+    "syndiqués",
+    "conventions collectives",
+    "dialogue social"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "La France est l'un des pays d'Europe où les salariés sont le moins syndiqués : 11 % en 2013, contre 23 % en moyenne dans l'Union européenne, et 5 % dans les petites entreprises du privé. Pourtant, plus de 90 % des salariés du privé sont couverts par une convention collective négociée par les syndicats. Ils ne bloquent pas l'économie : ils négocient les règles qui s'appliquent à presque tous.",
+  "contexte": "Les grèves dans les transports ou lors des réformes des retraites donnent l'image de syndicats tout-puissants qui paralyseraient le pays.",
+  "explication": "Le taux de syndicalisation mesure les adhérents ; la couverture conventionnelle mesure les salariés qui bénéficient des accords négociés. En France, les deux sont très éloignés : peu d'adhérents, mais des accords qui s'appliquent à presque tous.",
+  "faits": [
+    {
+      "fait": "Selon la Dares, 11 % des salariés adhéraient à un syndicat en 2013 : 20 % dans la fonction publique et 9 % dans le secteur marchand et associatif, contre une moyenne de 23 % dans l'Union européenne.",
+      "periode": "2013",
+      "perimetre": "France et UE",
+      "explication": "Les syndicats français sont faibles en adhérents, pas tout-puissants.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11 %"
+    },
+    {
+      "fait": "Selon la même étude, la syndicalisation tombe à 5 % dans les établissements marchands de moins de 50 salariés, 2 % chez les salariés en CDD et 1 % chez les intérimaires.",
+      "periode": "2013",
+      "perimetre": "France",
+      "explication": "Dans la plupart des petites entreprises, il n'y a tout simplement pas de syndicat.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "5 %"
+    },
+    {
+      "fait": "Selon la Dares, les conventions collectives couvrent plus de 90 % des salariés du secteur marchand et associatif, et les syndicats négocient au nom de l'ensemble des salariés.",
+      "periode": "2013",
+      "perimetre": "France",
+      "explication": "Ce que négocient les syndicats profite à presque tous les salariés, syndiqués ou non.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "90 %"
+    },
+    {
+      "fait": "Selon la Dares, le taux de syndicalisation est de 18 % dans les transports, l'un des plus élevés du secteur marchand.",
+      "periode": "2013",
+      "perimetre": "France",
+      "explication": "Les grèves les plus visibles viennent de secteurs où les syndicats sont plus implantés.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "18 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : seuls 11 % des salariés sont syndiqués, l'un des taux les plus faibles d'Europe, et 5 % dans les petites entreprises. Mais les accords qu'ils négocient couvrent plus de 90 % des salariés du privé (Dares).",
+    "moyen": "Les syndicats français sont parmi les plus faibles d'Europe : 11 % de salariés syndiqués, contre 23 % en moyenne dans l'UE, et seulement 5 % dans les petites entreprises du privé. Dans la plupart des entreprises, il n'y a pas de syndicat du tout.\n\nCe qu'ils font surtout, c'est négocier : les conventions collectives couvrent plus de 90 % des salariés du privé. Les salaires minimaux de branche, les primes, les congés, ça vient de là. Les grèves les plus médiatisées concernent quelques secteurs, comme les transports.",
+    "detaille": "L'image de syndicats qui paralyseraient les entreprises ne correspond pas aux données. Selon la Dares (2016), 11 % des salariés adhéraient à un syndicat en 2013, 9 % dans le secteur marchand, contre 23 % en moyenne dans l'Union européenne. Dans les établissements de moins de 50 salariés du privé, le taux tombe à 5 %, et à 1 ou 2 % chez les intérimaires et les CDD. Une étude plus ancienne de la Dares (2004) situait la France parmi les pays industrialisés les moins syndiqués.\n\nEn revanche, les conventions collectives négociées par les syndicats couvrent plus de 90 % des salariés du secteur marchand et associatif : salaires minimaux de branche, classifications, primes, congés supplémentaires. Ce rôle est discret mais essentiel.\n\nLes grèves les plus visibles se concentrent dans quelques secteurs plus syndiqués, comme les transports (18 %). Elles peuvent gêner les usagers : c'est le prix d'un droit constitutionnel, qui reste l'un des rares moyens de pression des salariés.",
+    "empathie": "Je comprends l'agacement quand une grève bloque les trains. Mais en réalité, les syndicats sont très faibles en France : dans la plupart des entreprises, il n'y en a même pas. Et ce sont eux qui négocient les conventions collectives dont profitent presque tous les salariés."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les syndicats ne font que de la politique.",
+      "reponse": "La plus grande partie de leur activité est la négociation d'accords de branche et d'entreprise, qui couvrent plus de 90 % des salariés du privé."
+    },
+    {
+      "objection": "Sans syndicats, les entreprises embaucheraient plus.",
+      "reponse": "La plupart des petites entreprises n'ont déjà aucun syndicat ; ce n'est donc pas ce qui les empêche d'embaucher."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de salariés sont syndiqués en France, comparé à nos voisins ?",
+    "D'où viennent, selon toi, les salaires minimaux de ta branche professionnelle ?"
+  ],
+  "limites": [
+    "Les données de syndicalisation datent de 2013 (Dares, 2016) et de 2003 (Dares, 2004) ; des chiffres plus récents n'ont pas pu être lus pour cette fiche.",
+    "Le nombre de jours de grève n'est pas chiffré ici."
+  ],
+  "sources": [
+    {
+      "titre": "La syndicalisation en France : des salariés deux fois plus syndiqués dans la fonction publique (Dares Analyses n° 025)",
+      "organisme": "Dares (Maria Teresa Pignoni)",
+      "date_publication": "Mai 2016",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/ArchivePortailFP/www.fonction-publique.gouv.fr/files/files/statistiques/Hors_collection/Dares-2016-025.pdf",
+      "passage": "En 2013, 11 % des salariés adhèrent à un syndicat (20 % dans la fonction publique, 9 % dans le secteur marchand et associatif) ; 5 % dans les établissements marchands de moins de 50 salariés ; 1 % des intérimaires, 2 % des CDD ; moyenne de l'Union européenne : 23 % ; les conventions collectives couvrent plus de 90 % des salariés du secteur marchand et associatif, et les syndicats négocient au nom de l'ensemble des salariés.",
+      "pertinence": "Service statistique du ministère du Travail (données de 2013).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mythes et réalités de la syndicalisation en France (Premières Synthèses n° 44.2)",
+      "organisme": "Dares (Thomas Amossé)",
+      "date_publication": "Octobre 2004",
+      "url": "https://dares.travail-emploi.gouv.fr/sites/default/files/f8f5153e516232a6f1f20818645b63a1/Dares_Mythes%20et%20r%C3%A9alit%C3%A9s%20de%20la%20syndicalisation%20en%20France.pdf",
+      "passage": "Taux de syndicalisation de 8,2 % en 2003, l'un des plus faibles des pays industrialisés ; environ 40 % des salariés déclarent une présence syndicale sur leur lieu de travail ; plus de 90 % sont couverts par une convention collective.",
+      "pertinence": "Service statistique du ministère du Travail (données anciennes).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les grèves dans certains secteurs, comme les transports, gênent réellement les usagers.",
+    "Les chiffres de syndicalisation cités datent de 2013 et de 2003."
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "democratie",
+      "libertes"
+    ],
+    "mecanismes": "L’image de syndicats tout-puissants cache leur faiblesse réelle et le rôle discret de la négociation collective, dont profitent presque tous les salariés.",
+    "consequences": "Affaiblir les syndicats, c’est affaiblir la seule force capable de négocier des salaires et des protections pour ceux qui n’ont pas de pouvoir individuel.",
+    "democratie": "Le droit syndical et le droit de grève sont des libertés constitutionnelles : la démocratie ne s’arrête pas à la porte de l’entreprise.",
+    "propositions": [
+      "Faciliter l’implantation syndicale dans les petites entreprises.",
+      "Renforcer la négociation de branche sur les salaires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les grèves dans les transports gênent réellement les usagers.",
+        "integration": "Le reconnaître, et rappeler que la grève est souvent le dernier recours quand la négociation échoue."
+      }
+    ]
+  },
+  "concepts": [
+    "riches_entreprises",
+    "syndicats"
+  ],
+  "repond_a": [
+    {
+      "id": "syndicats",
+      "label": "Rôle des syndicats"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "cgt",
+    "cfdt",
+    "force ouvriere",
+    "droit de greve"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "cartes-vitale-en-trop",
+  "type": "idee_recue",
+  "affirmation": "Il y a des millions de cartes Vitale en trop.",
+  "volet": "social",
+  "sous_theme": "Fraude sociale",
+  "rubriques": [],
+  "mots_cles": [
+    "cartes vitale",
+    "carte vitale",
+    "vitale",
+    "surnuméraires",
+    "cartes en trop",
+    "millions de cartes",
+    "assurance maladie",
+    "fraude",
+    "sécu"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Il y a eu des cartes Vitale en trop — 2,2 millions en 2018 — mais il s'agissait surtout de cartes non désactivées après un décès, un départ ou un changement de régime. Le ministère de la Santé indique que depuis avril 2024 il n'y a plus de carte surnuméraire, et qu'une carte n'ouvre aucun remboursement si les droits sont fermés.",
+  "contexte": "Le chiffre de « millions de cartes Vitale en trop » circule depuis la fin des années 2010 pour suggérer une fraude massive, souvent attribuée aux étrangers.",
+  "explication": "Une carte « surnuméraire » est une carte encore physiquement active alors que son titulaire n'a plus de droits ouverts, ou qu'il a une autre carte. Ce n'est pas un remboursement : l'Assurance maladie vérifie les droits dans ses bases à chaque feuille de soins.",
+  "faits": [
+    {
+      "fait": "Selon le ministère de la Santé, l'excédent de cartes Vitale atteignait 2,2 millions en 2018 et, depuis avril 2024, il n'y a plus de carte surnuméraire sur l'ensemble des régimes.",
+      "periode": "2018-2024",
+      "perimetre": "France",
+      "explication": "Le problème a existé, il a été corrigé.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2,2 millions"
+    },
+    {
+      "fait": "Selon le même ministère, une carte Vitale n'ouvre aucun remboursement si les droits de son titulaire sont fermés dans les bases de l'Assurance maladie.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une carte en trop n'est pas une dépense en trop.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Gouvernement, 609 000 cartes étaient surnuméraires fin 2019, puis 347 664 fin mai 2020, pour 58,4 millions de cartes actives ; 1,6 million de cartes ont été retirées du parc en 2019.",
+      "periode": "2019-2020",
+      "perimetre": "France",
+      "explication": "Le nettoyage du fichier était déjà engagé en 2019-2020.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "609 000"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux aujourd'hui : il y a eu jusqu'à 2,2 millions de cartes en trop en 2018, surtout des cartes non désactivées, mais le ministère de la Santé indique qu'il n'y en a plus depuis avril 2024. Et une carte sans droits ouverts ne rembourse rien.",
+    "moyen": "Le chiffre a une origine réelle : en 2018, il y avait 2,2 millions de cartes Vitale de trop, souvent des cartes de personnes décédées, parties à l'étranger ou passées dans un autre régime, qui n'avaient pas été désactivées.\n\nMais une carte n'est pas un chèque : l'Assurance maladie vérifie les droits à chaque remboursement, et une carte sans droits ouverts ne rapporte rien. Le fichier a été nettoyé : selon le ministère de la Santé, il n'y a plus de carte surnuméraire depuis avril 2024.",
+    "detaille": "L'affirmation repose sur un problème réel de gestion. En 2018, l'excédent de cartes Vitale était de 2,2 millions. Fin 2019, le Gouvernement en comptait 609 000, puis 347 664 fin mai 2020, pour 58,4 millions de cartes actives ; 1,6 million de cartes avaient été retirées du parc en 2019.\n\nDans sa réponse de juin 2025 à l'Assemblée nationale, le ministère de la Santé indique que « depuis avril 2024, il n'y a plus de carte surnuméraire sur l'ensemble des régimes ». Il rappelle surtout qu'une carte n'ouvre aucun remboursement si les droits sont fermés dans les bases de l'Assurance maladie : une carte en trop n'est donc pas une dépense en trop.\n\nLa fraude à l'Assurance maladie existe, mais elle passe surtout par d'autres canaux, et une part importante est le fait de professionnels de santé. Désigner les cartes Vitale, c'est viser un problème déjà réglé.",
+    "empathie": "Je comprends que ce chiffre choque, on l'a beaucoup entendu. Il y a bien eu des cartes en trop, surtout des cartes jamais désactivées. Mais elles ne remboursaient rien sans droits ouverts, et le ministère dit qu'il n'y en a plus depuis 2024."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec une carte en trop, on peut se faire soigner gratuitement.",
+      "reponse": "Non : le remboursement dépend des droits ouverts dans les bases de l'Assurance maladie, vérifiés à chaque feuille de soins, pas de la carte elle-même."
+    },
+    {
+      "objection": "Le ministère ment pour cacher la fraude.",
+      "reponse": "Les chiffres viennent de réponses officielles au Parlement, qui engagent le ministère et peuvent être contestées par les parlementaires."
+    }
+  ],
+  "questions": [
+    "Sais-tu qu'une carte sans droits ouverts ne déclenche aucun remboursement ?",
+    "D'où vient le chiffre de « millions de cartes » que tu as entendu, et de quelle année date-t-il ?"
+  ],
+  "limites": [
+    "Les sources sont des réponses ministérielles ; aucune évaluation indépendante du fichier n'est citée ici.",
+    "Le montant de la fraude liée aux cartes elles-mêmes n'est pas chiffré dans ces sources."
+  ],
+  "sources": [
+    {
+      "titre": "Réponse du ministère de la Santé à la question écrite n° 3638 (cartes Vitale)",
+      "organisme": "Assemblée nationale / ministère du Travail, de la Santé, des Solidarités et des Familles",
+      "date_publication": "10 juin 2025",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE3638.pdf",
+      "passage": "L'excédent de cartes était de 2,2 millions en 2018 ; « depuis avril 2024, il n'y a plus de carte surnuméraire sur l'ensemble des régimes » ; une carte Vitale n'ouvre aucun remboursement si les droits sont fermés dans les bases de l'Assurance maladie.",
+      "pertinence": "Réponse officielle du ministère compétent.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Cartes Vitale surnuméraires (question orale n° 1231S, réponse du Gouvernement)",
+      "organisme": "Sénat / ministère des Solidarités et de la Santé",
+      "date_publication": "22 juillet 2020",
+      "url": "https://www.senat.fr/questions/base/2020/qSEQ20061231S.html",
+      "passage": "Au 1er janvier 2020, 58,4 millions de cartes Vitale actives ; 609 000 cartes surnuméraires fin 2019 ; 1,6 million de cartes sorties du parc en 2019 ; 347 664 cartes surnuméraires fin mai 2020.",
+      "pertinence": "Réponse officielle du Gouvernement devant le Parlement.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Il y a bien eu plus de 2 millions de cartes en trop en 2018 : la gestion du fichier était défaillante.",
+    "La fraude à l'Assurance maladie existe, même si elle ne passe pas principalement par les cartes surnuméraires."
+  ],
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "services_publics",
+      "democratie"
+    ],
+    "mecanismes": "Un problème de gestion administrative, déjà corrigé, est transformé en symbole d’une fraude massive, souvent attribuée aux étrangers.",
+    "consequences": "La suspicion pèse sur les assurés et justifie des contrôles plus durs, alors que les remboursements dépendent des droits ouverts.",
+    "democratie": "Un débat public sain se fonde sur des chiffres actualisés, pas sur un chiffre ancien répété sans vérification.",
+    "propositions": [
+      "Donner à l’Assurance maladie les moyens humains de tenir ses fichiers à jour.",
+      "Concentrer la lutte contre la fraude là où elle coûte le plus."
+    ],
+    "defavorables": [
+      {
+        "fait": "Il y a bien eu plus de deux millions de cartes en trop en 2018.",
+        "integration": "Le reconnaître d’emblée renforce la crédibilité : le problème a existé, il a été corrigé."
+      }
+    ]
+  },
+  "concepts": [
+    "prestations",
+    "secu_sociale",
+    "vitale",
+    "fraude"
+  ],
+  "repond_a": [
+    {
+      "id": "cartes_vitale",
+      "label": "Cartes Vitale surnuméraires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "retraite-64-ans",
+  "type": "idee_recue",
+  "affirmation": "La retraite à 64 ans est indispensable.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "retraite",
+    "retraites",
+    "64 ans",
+    "âge de départ",
+    "réforme des retraites",
+    "report de l âge",
+    "système de retraite",
+    "cor",
+    "répartition",
+    "déficit des retraites"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Selon le Conseil d'orientation des retraites, le déficit était de 1,7 milliard d'euros en 2024, soit 0,1 % du PIB, et atteindrait 0,2 % du PIB en 2030. Ce n'est pas une explosion des dépenses : elles passeraient de 13,9 % à 14,2 % du PIB d'ici 2070. Le déficit vient surtout de la baisse des ressources. Reporter l'âge est un choix parmi d'autres : on peut aussi agir sur les recettes.",
+  "contexte": "La réforme de 2023 a porté progressivement l'âge légal de départ de 62 à 64 ans. Ses partisans la jugent indispensable pour équilibrer le système.",
+  "explication": "Le COR projette l'équilibre du système à partir d'hypothèses de croissance, d'emploi et de règles. Le solde dépend autant des recettes (cotisations, contributions de l'État) que des dépenses.",
+  "faits": [
+    {
+      "fait": "Selon le Conseil d'orientation des retraites, le solde du système de retraite était de -1,7 milliard d'euros en 2024, soit -0,1 % du PIB, et serait de -0,2 % du PIB en 2030.",
+      "periode": "2024-2030",
+      "perimetre": "France",
+      "explication": "Le déficit existe, mais il est limité à court terme.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "1,7 milliard"
+    },
+    {
+      "fait": "Selon la même synthèse, les dépenses de retraite passeraient de 13,9 % du PIB en 2024 à 14,2 % en 2070, tandis que les ressources baisseraient de 13,9 % à 12,8 % du PIB.",
+      "periode": "2024-2070",
+      "perimetre": "France",
+      "explication": "Le déséquilibre vient surtout de ressources en baisse, pas de dépenses hors de contrôle.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "14,2 %"
+    },
+    {
+      "fait": "Selon la même synthèse, le déficit atteindrait 1,4 % du PIB en 2070.",
+      "periode": "2070",
+      "perimetre": "France",
+      "explication": "À long terme, le besoin de financement est réel : il faut le dire.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "1,4 %"
+    },
+    {
+      "fait": "Selon le COR, à 61 ans, 24,5 % des personnes ne sont ni en emploi ni à la retraite, dont 14,5 % en mauvaise santé.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Reculer l'âge sans emploi des seniors reporte une partie du coût vers le chômage, la maladie ou les minima sociaux.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "24,5 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "« Indispensable », non : c'est un choix. Le déficit était de 0,1 % du PIB en 2024 selon le COR, et vient surtout de ressources en baisse. D'autres financements sont possibles, et à 61 ans une personne sur quatre n'est déjà ni en emploi ni à la retraite.",
+    "moyen": "Le Conseil d'orientation des retraites ne décrit pas un système en faillite : le déficit était de 1,7 milliard d'euros en 2024, soit 0,1 % du PIB. Les dépenses resteraient presque stables d'ici 2070 (de 13,9 % à 14,2 % du PIB) ; ce sont surtout les ressources qui baisseraient.\n\nReporter l'âge, c'est un choix politique parmi d'autres : on peut aussi augmenter les recettes. Et à 61 ans, près d'une personne sur quatre n'est ni en emploi ni à la retraite, souvent pour raison de santé : reculer l'âge les laisse plus longtemps dans cette situation.",
+    "detaille": "La retraite à 64 ans est présentée comme une nécessité comptable. Les projections du Conseil d'orientation des retraites (juin 2025) montrent un déficit réel mais limité à court terme : -1,7 milliard d'euros en 2024 (-0,1 % du PIB), environ -0,2 % du PIB en 2030. À long terme, le besoin de financement est plus important (-1,4 % du PIB en 2070), et il faut le reconnaître.\n\nMais l'origine du déséquilibre compte : les dépenses passeraient de 13,9 % à 14,2 % du PIB entre 2024 et 2070, tandis que les ressources baisseraient de 13,9 % à 12,8 %. Le problème n'est donc pas une explosion des pensions, mais une baisse des recettes, qui dépend de choix politiques (exonérations, contributions de l'État, niveau des cotisations).\n\nReculer l'âge a aussi un coût humain : selon le COR, à 61 ans, 24,5 % des personnes ne sont ni en emploi ni à la retraite, dont 14,5 % en mauvaise santé. Dire que 64 ans est « indispensable » transforme un choix entre plusieurs options en obligation.",
+    "empathie": "Je comprends qu'on veuille protéger le système, c'est important pour tout le monde. Mais le COR montre que le déficit est surtout un problème de recettes. Il y a d'autres façons de financer les retraites que de faire travailler plus longtemps des gens déjà usés."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il y a de moins en moins d'actifs pour payer les retraites.",
+      "reponse": "C'est vrai, et c'est une question de partage de la richesse produite : les dépenses restent presque stables en part du PIB selon le COR, ce sont les recettes qui baissent."
+    },
+    {
+      "objection": "Augmenter les cotisations, ça tue l'emploi.",
+      "reponse": "C'est un débat ; mais c'est un arbitrage entre plusieurs options, ce qui contredit l'idée d'une solution unique « indispensable »."
+    }
+  ],
+  "questions": [
+    "Sais-tu si le déficit des retraites vient plutôt des dépenses ou des recettes, selon le COR ?",
+    "Que deviennent ceux qui ne sont plus en emploi à 61 ans quand on recule l'âge de départ ?"
+  ],
+  "limites": [
+    "Les projections du COR dépendent d'hypothèses de croissance et d'emploi.",
+    "Cette fiche ne chiffre pas les autres options de financement."
+  ],
+  "sources": [
+    {
+      "titre": "Évolutions et perspectives des retraites en France — synthèse du rapport annuel",
+      "organisme": "Conseil d'orientation des retraites (COR)",
+      "date_publication": "Juin 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-06/Synth%C3%A8se_Def_.pdf",
+      "passage": "Solde du système de retraite : -1,7 milliard d'euros en 2024 (-0,1 % du PIB) ; -0,2 % du PIB en 2030 (environ 6,6 milliards) ; -1,4 % du PIB en 2070 ; dépenses : 13,9 % du PIB en 2024 et 14,2 % en 2070 ; ressources : 13,9 % du PIB en 2024 et 12,8 % en 2070 ; âge moyen de départ : 62,9 ans en 2023, 64,6 ans en 2070.",
+      "pertinence": "Organisme public d'expertise sur les retraites, pluraliste (parlementaires, partenaires sociaux, administrations).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport annuel 2026 — partie 4, chapitre 1 : l'emploi des seniors",
+      "organisme": "Conseil d'orientation des retraites (COR)",
+      "date_publication": "Juin 2026",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2026-06/RA_Part4_Chap1.pdf",
+      "passage": "Taux d'emploi des 55-64 ans : 61,7 % en 2025 (41 % en 2010) ; 55-59 ans : 78,8 % ; 60-64 ans : 44,4 % ; Suède : 78,3 %, Japon : 79,8 % ; à 61 ans, 24,5 % des personnes ne sont ni en emploi ni à la retraite, dont 14,5 % en mauvaise santé ; ce statut est « le plus souvent subi pour des raisons de santé ou de handicap ».",
+      "pertinence": "Organisme public d'expertise sur les retraites.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le système est en déficit et le besoin de financement augmente à long terme selon le COR.",
+    "Le vieillissement de la population pèse réellement sur l'équilibre du système."
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "solidarite",
+      "repartition"
+    ],
+    "mecanismes": "Le recul de l’âge fait porter l’effort sur les salariés, en particulier ceux qui ont commencé tôt et exercent des métiers pénibles, plutôt que sur les recettes.",
+    "consequences": "Une partie des seniors reste plus longtemps sans emploi ni retraite, souvent pour raison de santé.",
+    "democratie": "Présenter un choix comme « indispensable » ferme le débat démocratique sur la répartition des richesses.",
+    "propositions": [
+      "Mettre en débat les autres financements : cotisations, contributions sur les revenus du capital, fin de certaines exonérations.",
+      "Prendre en compte la pénibilité pour permettre des départs plus précoces."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le COR projette un besoin de financement plus important à long terme.",
+        "integration": "Reconnaître le besoin, et défendre d’autres moyens d’y répondre."
+      }
+    ]
+  },
+  "concepts": [
+    "dette",
+    "retraite"
+  ],
+  "repond_a": [
+    {
+      "id": "retraite_age",
+      "label": "Âge de départ à la retraite"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "dette",
+    "deficit",
+    "faillite",
+    "depenses publiques",
+    "argent public",
+    "argent magique",
+    "n a plus les moyens",
+    "reforme des retraites"
+  ]
+}

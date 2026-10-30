@@ -106,10 +106,6 @@
       }
     ]
   },
-  "concepts": [
-    "logement",
-    "renovation"
-  ],
   "repond_a": [
     {
       "id": "renovation",
@@ -128,5 +124,9 @@
     "dpe",
     "isoler",
     "isolation"
+  ],
+  "concepts": [
+    "logement",
+    "renovation"
   ]
 }

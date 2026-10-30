@@ -35,11 +35,14 @@ describe('compréhension argumentative (v8)', () => {
   test('démonstration : « Plus il y a d’immigrés, moins il y a de travail pour les Français »', () => {
     const t = 'Plus il y a d’immigrés, moins il y a de travail pour les Français.';
     // v7 : correspondance par mots, sur la bibliothèque d'alors (sans les trois fiches emploi ajoutées en v8)
-    const V8 = ['immigration-emploi', 'immigration-salaires', 'chomage-penurie-recrutement'];
+    const V8 = ['immigration-emploi', 'immigration-salaires', 'chomage-penurie-recrutement',
+      // fiches ajoutées en v12, absentes de la bibliothèque d'alors
+      'francais-travaillent-pas-assez', 'emploi-apres-50-ans', 'gauche-immigres-travailleurs', 'smic-detruit-emplois'];
     const avant = kbMatch(lib.filter((f) => f.type !== 'science' && !V8.includes(f.id)), t)[0];
     assert.equal(avant.fiche.id, 'immigres-aides', 'l’ancienne correspondance par mots choisissait la fiche sur les aides');
-    // même avec la nouvelle fiche présente, l'ancien moteur garde la fiche « aides » parmi ses candidates
-    assert.ok(kbMatch(lib.filter((f) => f.type !== 'science'), t).some((m) => m.fiche.id === 'immigres-aides'));
+    // même avec les nouvelles fiches présentes, l'ancien moteur garde une fiche hors sujet parmi ses candidates
+    // (« aides » jusqu'en v11, « temps de travail » depuis v12) : seule l'analyse argumentative tranche
+    assert.ok(kbMatch(lib.filter((f) => f.type !== 'science'), t).some((m) => ['immigres-aides', 'francais-travaillent-pas-assez'].includes(m.fiche.id)));
     const an = analyserPhrase(t, { bibliotheque: lib });
     assert.equal(an.principal.id, 'imm_emploi');
     assert.equal(an.principal.fiche.id, 'immigration-emploi');

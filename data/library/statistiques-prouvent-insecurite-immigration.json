@@ -147,6 +147,26 @@
     "pas en securite",
     "criminalite"
   ],
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "egalite",
+      "democratie"
+    ],
+    "mecanismes": "Une association statistique est présentée comme une cause, en oubliant l’âge, le sexe, la pauvreté et les pratiques de contrôle qui pèsent sur les chiffres.",
+    "consequences": "Toute une population est rendue suspecte, ce qui alimente les discriminations et détourne des vraies causes de la délinquance.",
+    "democratie": "Les statistiques doivent éclairer le débat, pas servir à désigner des boucs émissaires.",
+    "propositions": [
+      "Agir sur les facteurs sociaux de la délinquance : pauvreté, décrochage scolaire, logement.",
+      "Publier des statistiques qui tiennent compte de l’âge et de la situation sociale."
+    ],
+    "defavorables": [
+      {
+        "fait": "La surreprésentation des étrangers parmi les mis en cause est un fait statistique exact.",
+        "integration": "Ne jamais le nier : expliquer ce qu’il montre et ce qu’il ne montre pas."
+      }
+    ]
+  },
   "concepts": [
     "immigration",
     "delinquance",

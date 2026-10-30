@@ -1,0 +1,164 @@
+{
+  "id": "louer-sans-cdi",
+  "type": "reference",
+  "affirmation": "Pourquoi est-il si difficile de louer un logement sans CDI ?",
+  "volet": "social",
+  "sous_theme": "Précarité",
+  "rubriques": [],
+  "mots_cles": [
+    "louer",
+    "location",
+    "sans cdi",
+    "cdi",
+    "cdd",
+    "intérim",
+    "garant",
+    "caution",
+    "visale",
+    "bailleur",
+    "dossier de location",
+    "propriétaires"
+  ],
+  "verdict": null,
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Parce que les bailleurs cherchent à se protéger des impayés et privilégient les CDI et les garants. Il existe une garantie publique gratuite, Visale, financée par les employeurs via Action Logement : ouverte sans condition de ressources de 18 à 30 ans, et au-delà pour les salariés récemment embauchés (CDD, intérim, période d'essai) ou gagnant au plus 1 710 € nets. Plus de 1,9 million de ménages en ont bénéficié.",
+  "contexte": "Dans les villes où la demande est forte, les propriétaires choisissent parmi de nombreux dossiers, et les précaires sont souvent écartés.",
+  "explication": "Visale remplace un garant physique : Action Logement paie le bailleur en cas d'impayé. Les bailleurs restent libres de choisir leur locataire, ce qui limite l'effet du dispositif quand le marché est tendu.",
+  "faits": [
+    {
+      "fait": "Selon l'UFC-Que Choisir, la garantie Visale est accessible sans condition de ressources de 18 à 30 ans, y compris aux salariés en CDD, en période d'essai ou aux demandeurs d'emploi.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Une solution publique existe pour les jeunes précaires.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le réseau ANIL, depuis le 6 janvier 2026, les salariés du privé de plus de 30 ans y ont droit s'ils gagnent au plus 1 710 € nets par mois, contre 1 500 € auparavant.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le dispositif s'élargit, mais reste ciblé.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "1 710 €"
+    },
+    {
+      "fait": "Selon l'UFC-Que Choisir, plus de 1,9 million de ménages ont bénéficié de Visale depuis sa création.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le dispositif est utilisé à grande échelle.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,9 million"
+    },
+    {
+      "fait": "Selon le réseau ANIL, les plafonds de loyer couverts sont de 1 940 € en Île-de-France, 1 575 € en zone II et 1 365 € ailleurs, et la garantie est limitée au bail initial, 3 ans au maximum.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La garantie a des limites de montant et de durée.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "1 940 €"
+    }
+  ],
+  "argumentaires": {
+    "court": "Parce que les bailleurs veulent des garanties et choisissent les CDI quand ils ont le choix. Une caution publique gratuite existe, Visale : sans condition de ressources jusqu'à 30 ans, et pour les salariés récemment embauchés ou modestes au-delà. Mais elle n'oblige pas le bailleur à accepter.",
+    "moyen": "Le problème vient d'un marché où les propriétaires choisissent : face à plusieurs dossiers, ils prennent celui qui leur paraît le plus sûr, souvent un CDI avec un garant.\n\nIl existe pourtant une caution publique gratuite, Visale, financée par les employeurs via Action Logement : ouverte sans condition de ressources de 18 à 30 ans, et au-delà pour les salariés en CDD, en intérim, en période d'essai ou gagnant au plus 1 710 € nets. Plus de 1,9 million de ménages en ont bénéficié. Mais rien n'oblige un bailleur à l'accepter.",
+    "detaille": "Dans les zones tendues, les bailleurs reçoivent de nombreux dossiers et écartent les profils jugés risqués : CDD, intérim, indépendants, personnes sans garant. Ce tri n'est pas une fatalité économique : il découle du déséquilibre entre l'offre et la demande de logements.\n\nUne garantie publique existe : Visale, cautionnement gratuit porté par Action Logement et financé par la participation des employeurs. Elle couvre les impayés de loyers et de charges. Selon l'UFC-Que Choisir, elle est ouverte sans condition de ressources de 18 à 30 ans, et au-delà aux salariés embauchés depuis moins de 6 mois (CDD, intérim, CDI en période d'essai), en mutation ou gagnant au plus 1 710 € nets par mois. Selon le réseau ANIL, les plafonds de loyer couverts ont été relevés en 2026 (1 940 € en Île-de-France) et la garantie dure au plus 3 ans. Plus de 1,9 million de ménages en ont bénéficié.\n\nSa limite principale : le bailleur reste libre de préférer un autre dossier. Pour que les précaires puissent se loger, il faut à la fois des logements abordables en nombre suffisant et des garanties que les bailleurs ne puissent pas écarter.",
+    "empathie": "C'est une situation très frustrante : on travaille, on peut payer, mais on n'a pas le bon contrat. Il existe une caution publique gratuite, Visale, qui peut vraiment aider ; le problème, c'est que les propriétaires ne sont pas obligés de l'accepter."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les propriétaires ont le droit de choisir.",
+      "reponse": "Oui, mais quand tous font le même choix, les précaires sont exclus du logement ; c'est pour cela qu'une garantie publique a été créée."
+    },
+    {
+      "objection": "Visale suffit, il n'y a plus de problème.",
+      "reponse": "Le dispositif aide beaucoup, mais il n'oblige pas le bailleur à l'accepter, et il ne crée pas de logements."
+    }
+  ],
+  "questions": [
+    "Connais-tu la garantie Visale ?",
+    "Une garantie publique ne devrait-elle pas être acceptée par tous les bailleurs ?"
+  ],
+  "limites": [
+    "Les sources sont des articles d'information (ANIL, UFC-Que Choisir), pas le texte officiel des conditions de Visale.",
+    "Aucune donnée chiffrée sur la sélection des locataires selon leur contrat n'est citée ici."
+  ],
+  "sources": [
+    {
+      "titre": "Location : la garantie Visale évolue en 2026",
+      "organisme": "UFC-Que Choisir (Rosine Maiolo)",
+      "date_publication": "4 février 2026",
+      "url": "https://www.quechoisir.org/actualite-location-la-garantie-visale-evolue-en-2026-n174094/",
+      "passage": "De 18 à 30 ans, Visale est accessible sans condition de ressources (étudiants, apprentis, salariés en CDD ou en période d'essai, demandeurs d'emploi…) ; au-delà de 30 ans, pour les salariés du privé gagnant au plus 1 710 € nets, embauchés depuis moins de 6 mois (CDD, intérim, CDI en période d'essai) ou en mutation ; le loyer ne doit pas dépasser 50 % des ressources ; « plus de 1,9 million de ménages » en ont bénéficié depuis sa création ; le dispositif est financé par la participation des employeurs à Action Logement.",
+      "pertinence": "Association de consommateurs, article d'information.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Garantie Visale : ce qui change au 6 janvier 2026",
+      "organisme": "ADIL des Hautes-Pyrénées (réseau ANIL, agence nationale d'information sur le logement)",
+      "date_publication": "Mise à jour 2026",
+      "url": "https://www.anil.org/adil-65/toutes-nos-actualites/details/garantie-visale/",
+      "passage": "Visale est un cautionnement gratuit porté par Action Logement, qui remplace un garant physique et couvre les impayés de loyers et de charges ; à partir du 6 janvier 2026, plafond de ressources des salariés de plus de 30 ans du privé porté à 1 710 € nets par mois (contre 1 500 €) ; plafonds de loyer : 1 940 € en Île-de-France, 1 575 € en zone II, 1 365 € en zone III ; garantie limitée au bail initial, 3 ans au maximum.",
+      "pertinence": "Réseau public d'information juridique sur le logement.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les bailleurs prennent un risque réel en cas d'impayé, surtout les petits propriétaires.",
+    "Visale ne couvre pas tous les salariés de plus de 30 ans en CDI confirmé."
+  ],
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "egalite",
+      "solidarite"
+    ],
+    "mecanismes": "Dans un marché tendu, les bailleurs choisissent les profils jugés les plus sûrs, et la précarité de l’emploi devient une précarité du logement.",
+    "consequences": "Les intérimaires, les CDD et les jeunes doivent multiplier les dossiers, accepter des logements plus chers ou dépendre de leur famille.",
+    "democratie": "Un droit au logement effectif ne peut pas dépendre du type de contrat de travail.",
+    "propositions": [
+      "Rendre la garantie publique opposable aux bailleurs pour les logements éligibles.",
+      "Construire des logements abordables en nombre suffisant pour détendre le marché."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les petits propriétaires prennent un risque réel en cas d’impayé.",
+        "integration": "C’est précisément pour couvrir ce risque qu’une garantie publique existe."
+      }
+    ]
+  },
+  "concepts": [
+    "logement",
+    "pauvrete",
+    "garantie_locative"
+  ],
+  "repond_a": [
+    {
+      "id": "louer_sans_cdi",
+      "label": "Louer sans CDI"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier",
+    "sdf",
+    "pauvrete",
+    "misere",
+    "coutent trop cher",
+    "sans cdi",
+    "pas de cdi"
+  ]
+}

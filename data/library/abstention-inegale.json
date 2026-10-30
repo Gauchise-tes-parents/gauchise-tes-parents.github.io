@@ -115,9 +115,6 @@
       }
     ]
   },
-  "concepts": [
-    "abstention"
-  ],
   "repond_a": [
     {
       "id": "abstention",
@@ -131,5 +128,8 @@
     "vote blanc",
     "pas voter",
     "aller voter"
+  ],
+  "concepts": [
+    "abstention"
   ]
 }

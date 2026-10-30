@@ -1,0 +1,150 @@
+{
+  "id": "emploi-apres-50-ans",
+  "type": "reference",
+  "affirmation": "Pourquoi est-il si difficile de retrouver du travail après 50 ans ?",
+  "volet": "social",
+  "sous_theme": "Chômage",
+  "rubriques": [],
+  "mots_cles": [
+    "après 50 ans",
+    "seniors",
+    "plus de 50 ans",
+    "cinquante ans",
+    "âge",
+    "retrouver du travail",
+    "licenciés",
+    "trop vieux",
+    "emploi des seniors",
+    "55 ans"
+  ],
+  "verdict": null,
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'emploi des seniors progresse : 61,7 % des 55-64 ans travaillent en 2025, contre 41 % en 2010. Mais il chute après 60 ans (44,4 % des 60-64 ans), et à 61 ans près d'une personne sur quatre n'est ni en emploi ni à la retraite, le plus souvent pour des raisons de santé ou de handicap. La difficulté est réelle : elle tient à la santé, à l'usure au travail et aux pratiques des employeurs.",
+  "contexte": "Les licenciements et les ruptures de fin de carrière laissent beaucoup de personnes de plus de 50 ans au chômage longtemps, alors que l'âge de départ recule.",
+  "explication": "Le taux d'emploi des seniors dépend de leur état de santé, de leurs conditions de travail passées et de la volonté des employeurs de les garder ou de les embaucher.",
+  "faits": [
+    {
+      "fait": "Selon le Conseil d'orientation des retraites, 61,7 % des 55-64 ans étaient en emploi en 2025, contre 41 % en 2010 ; 78,8 % des 55-59 ans mais 44,4 % des 60-64 ans.",
+      "periode": "2010-2025",
+      "perimetre": "France",
+      "explication": "L'emploi des seniors progresse, mais s'effondre après 60 ans.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "61,7 %"
+    },
+    {
+      "fait": "Selon le COR, la Suède atteint 78,3 % et le Japon 79,8 % d'emploi des 55-64 ans.",
+      "periode": "2025",
+      "perimetre": "Comparaison internationale",
+      "explication": "D'autres pays font beaucoup mieux : ce n'est pas une fatalité.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "78,3 %"
+    },
+    {
+      "fait": "Selon le COR, à 61 ans, 24,5 % des personnes ne sont ni en emploi ni à la retraite, dont 14,5 % en mauvaise santé ; ce statut est le plus souvent subi pour des raisons de santé ou de handicap.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Beaucoup de seniors sans emploi ne l'ont pas choisi.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "14,5 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Parce qu'après 60 ans, l'emploi s'effondre : 44,4 % des 60-64 ans travaillent, et à 61 ans près d'une personne sur quatre n'est ni en emploi ni à la retraite, souvent pour raison de santé (COR, 2026). Ce n'est pas la volonté qui manque, ce sont des emplois adaptés.",
+    "moyen": "Les chiffres du Conseil d'orientation des retraites confirment ton impression : 78,8 % des 55-59 ans travaillent, mais seulement 44,4 % des 60-64 ans. Et à 61 ans, 24,5 % des personnes ne sont ni en emploi ni à la retraite, le plus souvent pour des raisons de santé ou de handicap.\n\nD'autres pays font beaucoup mieux, comme la Suède ou le Japon, autour de 80 % pour les 55-64 ans. Cela suppose d'adapter les postes, de prévenir l'usure et d'obliger les employeurs à garder et à embaucher des seniors.",
+    "detaille": "La difficulté est bien réelle. Selon le Conseil d'orientation des retraites (rapport 2026), l'emploi des 55-64 ans a beaucoup progressé, de 41 % en 2010 à 61,7 % en 2025, notamment parce que l'âge de départ a reculé. Mais il chute après 60 ans : 78,8 % des 55-59 ans sont en emploi, 44,4 % des 60-64 ans.\n\nÀ 61 ans, 24,5 % des personnes ne sont ni en emploi ni à la retraite, dont 14,5 % en mauvaise santé ; le COR souligne que ce statut est le plus souvent subi pour des raisons de santé ou de handicap. La Suède (78,3 %) et le Japon (79,8 %) montrent que ce n'est pas une fatalité.\n\nLa réponse passe par la prévention de l'usure au travail, l'aménagement des postes et des fins de carrière, et des obligations pour les employeurs, plutôt que par le seul recul de l'âge de départ.",
+    "empathie": "C'est une vraie injustice, et beaucoup de gens la vivent : on vous demande de travailler plus longtemps, mais on ne vous embauche plus. Les chiffres montrent que ce n'est pas toi, c'est un problème général, surtout après 60 ans."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les seniors coûtent trop cher.",
+      "reponse": "Si c'est le cas, c'est un argument pour aider l'emploi des seniors, pas pour les laisser sans revenus jusqu'à la retraite."
+    },
+    {
+      "objection": "Ils n'ont qu'à se former.",
+      "reponse": "Une grande partie des seniors sans emploi sont en mauvaise santé ou handicapés : la formation ne règle pas l'usure."
+    }
+  ],
+  "questions": [
+    "Que deviennent les gens usés par leur travail quand on recule l'âge de la retraite ?",
+    "Pourquoi la Suède arrive-t-elle à faire travailler 78 % de ses 55-64 ans ?"
+  ],
+  "limites": [
+    "Les sources ne détaillent pas les discriminations à l'embauche liées à l'âge.",
+    "Les comparaisons internationales dépendent aussi de l'âge de départ dans chaque pays."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport annuel 2026 — partie 4, chapitre 1 : l'emploi des seniors",
+      "organisme": "Conseil d'orientation des retraites (COR)",
+      "date_publication": "Juin 2026",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2026-06/RA_Part4_Chap1.pdf",
+      "passage": "Taux d'emploi des 55-64 ans : 61,7 % en 2025 (41 % en 2010) ; 55-59 ans : 78,8 % ; 60-64 ans : 44,4 % ; Suède : 78,3 %, Japon : 79,8 % ; à 61 ans, 24,5 % des personnes ne sont ni en emploi ni à la retraite, dont 14,5 % en mauvaise santé ; ce statut est « le plus souvent subi pour des raisons de santé ou de handicap ».",
+      "pertinence": "Organisme public d'expertise sur les retraites.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Évolutions et perspectives des retraites en France — synthèse du rapport annuel",
+      "organisme": "Conseil d'orientation des retraites (COR)",
+      "date_publication": "Juin 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-06/Synth%C3%A8se_Def_.pdf",
+      "passage": "Solde du système de retraite : -1,7 milliard d'euros en 2024 (-0,1 % du PIB) ; -0,2 % du PIB en 2030 (environ 6,6 milliards) ; -1,4 % du PIB en 2070 ; dépenses : 13,9 % du PIB en 2024 et 14,2 % en 2070 ; ressources : 13,9 % du PIB en 2024 et 12,8 % en 2070 ; âge moyen de départ : 62,9 ans en 2023, 64,6 ans en 2070.",
+      "pertinence": "Organisme public d'expertise sur les retraites, pluraliste (parlementaires, partenaires sociaux, administrations).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "L'emploi des 55-64 ans a beaucoup progressé depuis 2010.",
+    "Une partie des seniors sans emploi ont choisi de cesser leur activité."
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "vulnerables"
+    ],
+    "mecanismes": "Les employeurs se séparent des salariés âgés et embauchent peu de seniors, tandis que l’usure du travail rend une partie d’entre eux inaptes avant la retraite.",
+    "consequences": "Beaucoup de seniors vivent des années de chômage, de maladie ou de minima sociaux avant la retraite.",
+    "democratie": "Le droit au travail et à une fin de carrière digne ne doit pas dépendre de la bonne volonté des employeurs.",
+    "propositions": [
+      "Imposer aux grandes entreprises des obligations de maintien et d’embauche des seniors.",
+      "Prévenir l’usure par l’aménagement des postes et la reconnaissance de la pénibilité."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’emploi des seniors a fortement progressé depuis quinze ans.",
+        "integration": "Le reconnaître, en montrant qu’il s’effondre toujours après soixante ans."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "seniors"
+  ],
+  "repond_a": [
+    {
+      "id": "seniors_emploi",
+      "label": "Emploi après 50 ans"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "trop vieux",
+    "fin de carriere"
+  ]
+}

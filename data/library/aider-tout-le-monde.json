@@ -161,6 +161,10 @@
   ],
   "repond_a": [
     {
+      "id": "depense_pauvres",
+      "label": "Ce que coûte la solidarité"
+    },
+    {
       "id": "solidarite",
       "label": "Les limites de la solidarité"
     }

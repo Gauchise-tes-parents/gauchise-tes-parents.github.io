@@ -342,22 +342,25 @@ function suggTirage(key, { renouveler = false } = {}) {
   if (!e || e.cle !== cle) e = suggEtat[key] = { cle, vues: [], actuelles: null };
   if (!e.actuelles || renouveler || (e.sansKb && kb.fiches?.length)) {
     e.sansKb = !kb.fiches?.length;
-    const r = suggestionsPour({ ...ctx, vues: e.vues, estCouverte: kb.fiches?.length ? estCouverte : null }, 3);
+    // v12 : seules les affirmations qui ont une réponse vérifiée sont proposées (aucune tant que la bibliothèque n'est pas chargée)
+    const r = kb.fiches?.length ? suggestionsPour({ ...ctx, vues: e.vues, estCouverte, seulementCouvertes: true }, 3) : { suggestions: [], total: 0, enPreparation: 0, cycle: false };
     if (r.cycle) e.vues = [];
     e.actuelles = r.suggestions;
     e.total = r.total;
+    e.enPreparation = r.enPreparation;
     for (const x of r.suggestions) if (!e.vues.includes(x.texte)) e.vues.push(x.texte);
   }
   return e;
 }
 function suggestionsHtml(key, cible) {
   const e = suggTirage(key);
-  if (!e.actuelles?.length) return '';
-  const couverte = (t) => estCouverte(t);
+  if (!kb.fiches?.length) return '';
+  const prep = e.enPreparation ? ` · ${e.enPreparation} autre${e.enPreparation > 1 ? 's' : ''} en préparation (pas encore de fiche vérifiée, donc non proposée${e.enPreparation > 1 ? 's' : ''})` : '';
+  if (!e.actuelles?.length) return `<div class="sugg-box" id="sugg-${key}"><p class="hint">Pas encore d’affirmation documentée à proposer pour ce sujet${prep}. Tu peux écrire la phrase entendue : si aucune fiche n’y répond, l’application le dira.</p></div>`;
   return `<div class="sugg-box" id="sugg-${key}">
     <p class="field-label">Souvent entendu, à examiner :</p>
-    <div class="chips sugg-chips">${e.actuelles.map((x) => `<button type="button" class="chip sugg-chip" data-example-fill="${h(x.texte)}" data-sugg-cible="${cible}">« ${h(x.texte)} »${couverte(x.texte) ? '<span class="sugg-tag">fiche vérifiée</span>' : ''}</button>`).join('')}</div>
-    <div class="sugg-actions"><button type="button" class="link-btn" data-sugg-autres="${key}">Autres affirmations</button><span class="hint">${e.total} suggestion${e.total > 1 ? 's' : ''} pour ce sujet · formulations génériques, attribuées à personne</span></div>
+    <div class="chips sugg-chips">${e.actuelles.map((x) => `<button type="button" class="chip sugg-chip" data-example-fill="${h(x.texte)}" data-sugg-cible="${cible}">« ${h(x.texte)} »<span class="sugg-tag">fiche vérifiée</span></button>`).join('')}</div>
+    <div class="sugg-actions">${e.total > e.actuelles.length ? `<button type="button" class="link-btn" data-sugg-autres="${key}">Autres affirmations</button>` : ''}<span class="hint">${e.total} affirmation${e.total > 1 ? 's' : ''} avec réponse vérifiée pour ce sujet${prep} · formulations génériques, attribuées à personne</span></div>
   </div>`;
 }
 function rafraichirSugg(key, cible, opts) {
@@ -1205,6 +1208,20 @@ function refreshCompo() {
 
 // Panneau « Ce que contient la phrase » : arguments repérés (et fiche qui répond à chacun, ou lacune),
 // liens de cause affirmés, émotions possibles, procédés, formule et question, fiches écartées et pourquoi.
+// v12 : classification multiple — une phrase peut toucher plusieurs domaines à la fois
+function domainesHtml(an) {
+  if (!an?.domaines?.length) return '';
+  return `<div class="an-domaines"><p class="an-domaines-label">Domaines mobilisés${an.domaines.length > 1 ? ` (${an.domaines.length})` : ''} :</p>
+    <ul class="chips">${an.domaines.map((d) => `<li class="chip chip--static" title="${h(d.concepts.join(', '))}">${h(d.label)}</li>`).join('')}</ul></div>`;
+}
+
+// v12 : sans fiche, on dit clairement ce qui manque — jamais de recherche simulée ni de fiche voisine présentée comme réponse
+function limiteHtml() {
+  if (isLive()) return `<div class="limite-box"><p><strong>Pas de fiche vérifiée sur ce point.</strong> Le mode connecté est disponible : tu peux lancer une recherche web, dont les sources seront affichées et vérifiables.</p></div>`;
+  return `<div class="limite-box" role="note"><p><strong>Analyse sans données sourcées.</strong> Ce qui suit décompose la phrase (sujet, sous-entendus, domaines, ce qu’il faudrait vérifier) ; ce n’est pas une démonstration documentée.</p>
+    <p>Pour répondre avec des sources à une question qui n’est pas dans la bibliothèque, il faut le <strong>mode connecté</strong> (intelligence artificielle et recherche web). Il <strong>n’est pas actif sur ce site public</strong> : aucune recherche n’a été lancée, et aucune fiche voisine n’est présentée comme une réponse.</p></div>`;
+}
+
 function analyseHtml(an, ficheCourante, vue) {
   const ficheDe = (id) => kb.fiches.find((x) => x.id === id);
   const preuveDe = (f) => {
@@ -1229,6 +1246,7 @@ function analyseHtml(an, ficheCourante, vue) {
   return `<section class="block analyse" aria-labelledby="an-title">
     <h2 id="an-title" class="block-title">Ce que contient la phrase</h2>
     <p class="hint">Lecture automatique et approximative, à partir de règles explicites. Les émotions et procédés sont des hypothèses, pas des étiquettes.</p>
+    ${domainesHtml(an)}
     <ol class="an-args">${an.arguments.map(carte).join('')}</ol>
     ${an.emotions.length ? `<div class="an-emo"><h3 class="sub-title">Ce qui peut se jouer derrière</h3><ul>${an.emotions.map((e) => `<li><strong>${h(e.label)} :</strong> ${h(e.reponse)}</li>`).join('')}</ul></div>` : ''}
     ${ficheCourante ? '' : `<div class="an-phrase"><p class="an-phrase-label">${vue === 'convaincre' ? 'Pour ouvrir la discussion' : 'La phrase qui marque'}</p><p class="big-q">${h(an.phrase)}</p>
@@ -1254,7 +1272,7 @@ function viewPasDansLaBase(payload) {
       <article class="verdict-card verdict-card--debat">
         <div class="verdict-mascot">${mascotSvg('search', 'La mascotte cherche dans la bibliothèque', 96)}</div>
         <div class="verdict-body">
-          <h1 class="verdict-h">${payload.analyse?.dignite?.length ? 'Pas un argument : une atteinte à la dignité' : 'Pas encore dans la bibliothèque'}</h1>
+          <h1 class="verdict-h">${payload.analyse?.dignite?.length ? 'Pas un argument : une atteinte à la dignité' : 'Pas de fiche vérifiée sur ce point'}</h1>
           ${payload.analyse?.dignite?.length ? (() => {
             const ids = new Set(payload.analyse.concepts.filter((c) => c.central).map((c) => c.id));
             const PISTES = { immigration: ['immigration-emploi', 'immigres-aides', 'etrangers-prisons'], islam: ['musulmans-amalgames', 'laicite-loi-1905'], antisemitisme: ['antisemitisme-aujourdhui', 'judeo-bolchevisme-histoire'], mer: ['migrants-mediterranee'] };
@@ -1263,9 +1281,11 @@ function viewPasDansLaBase(payload) {
             return `<p class="verdict-summary">Il n’y a pas ici d’argument à vérifier : le propos vise des personnes. Si une inquiétude précise se cache derrière (l’emploi, les aides, la sécurité…), c’est sur ce terrain qu’on peut répondre, faits à l’appui.</p>${pistes.length ? `<ul class="dign-pistes">${pistes.map((f) => `<li><a href="#/bibliotheque/${h(f.id)}">« ${h(f.affirmation)} »</a></li>`).join('')}</ul>` : ''}`;
           })() : `<p class="verdict-summary">${payload.analyse?.principal ? `J’ai compris l’argument (« ${h(payload.analyse.principal.label.toLowerCase())} »), mais la bibliothèque ne contient pas encore de fiche qui y réponde. Plutôt que de présenter une fiche voisine comme une réponse, je le dis.` : 'Je n’ai pas reconnu de sujet précis dans ta phrase, et je préfère te le dire plutôt que de répondre à côté.'}</p>`}
           ${payload.analyse && !payload.analyse.principal ? '<p><strong>Tu peux préciser ?</strong> De quoi parle la personne : des aides sociales, de l’immigration, des impôts, de l’emploi, de la sécurité, d’une personnalité politique… ? Reformule avec le sujet, par exemple « Les aides coûtent trop cher » plutôt que « C’est trop ».</p>' : ''}
+          ${payload.analyse?.dignite?.length ? '' : limiteHtml()}
           ${isLive() ? '<button type="button" class="btn btn-primary" data-action="web-search-local">Lancer une recherche web</button>' : ''}
         </div>
       </article>
+      ${payload.analyse && !payload.analyse.arguments.length && payload.analyse.domaines?.length ? `<section class="block analyse"><h2 class="block-title">Ce que contient la phrase</h2>${domainesHtml(payload.analyse)}</section>` : ''}
       ${payload.analyse?.arguments.length && !(payload.analyse.dignite?.length && payload.analyse.principal?.id === 'non_cartographie') ? analyseHtml(payload.analyse, null, payload.mode === 'convaincre' ? 'convaincre' : 'gagner') : ''}
       ${proches.length && !payload.analyse?.arguments.length ? `<section class="block"><h2 class="block-title">Dans le même volet</h2><div class="fiche-grid">${proches.map((f) => ficheCard(withFresh(f))).join('')}</div></section>` : ''}
       <p><a class="btn btn-secondary" href="#/bibliotheque">Chercher dans la bibliothèque</a></p>

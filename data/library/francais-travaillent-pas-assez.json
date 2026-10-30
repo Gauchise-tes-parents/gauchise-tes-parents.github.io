@@ -1,0 +1,163 @@
+{
+  "id": "francais-travaillent-pas-assez",
+  "type": "idee_recue",
+  "affirmation": "Les Français ne travaillent pas assez.",
+  "volet": "social",
+  "sous_theme": "Emploi et salaires",
+  "rubriques": [],
+  "mots_cles": [
+    "ne travaillent pas assez",
+    "travailler plus",
+    "temps de travail",
+    "heures",
+    "durée du travail",
+    "paresseux",
+    "feignants",
+    "35 heures",
+    "travaillent moins",
+    "productivité"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Un salarié à temps complet travaille 39,9 heures par semaine en France, contre 40,3 heures dans l'Union européenne et 40,2 heures en Allemagne (Eurostat, 2024) : l'écart est faible. Ce qui fait baisser la quantité totale de travail, c'est surtout que moins de jeunes et de seniors sont en emploi : à 61 ans, près d'une personne sur quatre n'est ni en emploi ni à la retraite, le plus souvent pour raison de santé.",
+  "contexte": "L'idée revient dans les débats sur les retraites, les jours fériés ou les 35 heures, à partir de la durée annuelle effective du travail, où la France est en bas du classement européen.",
+  "explication": "Il faut distinguer la durée de travail des personnes en emploi, qui est proche de la moyenne européenne, et la quantité totale de travail dans le pays, qui dépend aussi du nombre de personnes en emploi selon l'âge.",
+  "faits": [
+    {
+      "fait": "Selon Eurostat (2024), un salarié à temps complet travaille 39,9 heures par semaine en France, contre 40,3 heures dans l'Union européenne et 40,2 heures en Allemagne.",
+      "periode": "2024",
+      "perimetre": "France, UE, Allemagne",
+      "explication": "L'écart de durée hebdomadaire est faible.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "39,9 heures"
+    },
+    {
+      "fait": "Selon Eurostat, 10 % des salariés français travaillent 49 heures ou plus par semaine, contre 7,4 % dans l'Union européenne.",
+      "periode": "2024",
+      "perimetre": "France et UE",
+      "explication": "Une partie des salariés travaille même davantage qu'ailleurs.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "49 heures"
+    },
+    {
+      "fait": "Selon Eurostat, la France est avant-dernière de l'Union européenne pour la durée annuelle effective du travail (2022).",
+      "periode": "2022",
+      "perimetre": "UE",
+      "explication": "Ce chiffre défavorable existe : il s'explique notamment par les congés et le temps partiel.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Conseil d'orientation des retraites, le taux d'emploi des 60-64 ans est de 44,4 % en 2025, et à 61 ans 24,5 % des personnes ne sont ni en emploi ni à la retraite, un statut le plus souvent subi pour des raisons de santé ou de handicap.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le déficit d'heures vient surtout des personnes écartées de l'emploi, pas de la paresse.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "44,4 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux pour ceux qui travaillent : un salarié à temps complet fait 39,9 heures par semaine, contre 40,3 heures en moyenne dans l'UE (Eurostat). Le vrai problème, ce sont les seniors et les jeunes écartés de l'emploi.",
+    "moyen": "Pour ceux qui ont un emploi, la différence est minime : 39,9 heures par semaine à temps complet en France, 40,3 heures dans l'Union européenne, 40,2 heures en Allemagne. Et 10 % des salariés français dépassent 49 heures, plus que la moyenne européenne.\n\nCe qui manque, ce sont des emplois pour certains âges : seuls 44,4 % des 60-64 ans travaillent, et à 61 ans près d'une personne sur quatre n'est ni en emploi ni à la retraite, souvent pour raison de santé. Ce n'est pas un problème de paresse, c'est un problème d'emploi et de conditions de travail.",
+    "detaille": "L'affirmation mélange deux choses. D'abord la durée du travail des personnes en emploi : selon Eurostat (2024), un salarié à temps complet travaille 39,9 heures par semaine en France, contre 40,3 heures dans l'Union européenne et 40,2 heures en Allemagne. La part du temps partiel est même un peu plus faible qu'en moyenne (16,8 % contre 17,8 %), et 10 % des salariés travaillent 49 heures ou plus, contre 7,4 % dans l'UE.\n\nEnsuite la quantité totale de travail : en durée annuelle effective, la France est avant-dernière de l'Union européenne (2022), en raison notamment des congés. Et le taux d'emploi est plus faible aux âges extrêmes : selon le Conseil d'orientation des retraites, 44,4 % des 60-64 ans sont en emploi en 2025, et à 61 ans 24,5 % des personnes ne sont ni en emploi ni à la retraite, le plus souvent pour des raisons de santé ou de handicap.\n\nLa conclusion honnête n'est donc pas que les Français seraient paresseux, mais que le pays laisse de côté une partie de ceux qui voudraient ou pourraient travailler dans de bonnes conditions.",
+    "empathie": "Je comprends qu'on ait cette impression avec les 35 heures et les congés. Mais un salarié à temps plein travaille à peu près autant qu'ailleurs en Europe. Ce qui manque surtout, ce sont des emplois tenables pour les plus âgés, dont beaucoup sont usés ou malades."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec les RTT et les congés, on travaille beaucoup moins.",
+      "reponse": "C'est vrai sur la durée annuelle ; mais la durée hebdomadaire est proche de la moyenne, et une part plus importante de salariés fait de très longues semaines."
+    },
+    {
+      "objection": "Les autres pays travaillent plus et s'en sortent mieux.",
+      "reponse": "La quantité d'heures ne suffit pas : ce qui compte aussi, c'est ce que produit chaque heure travaillée et le nombre de personnes qui ont un emploi."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'heures fait un salarié à temps plein en France par rapport à l'Allemagne ?",
+    "À 61 ans, pourquoi près d'une personne sur quatre n'est-elle ni en emploi ni à la retraite ?"
+  ],
+  "limites": [
+    "Les données d'Eurostat sont citées à partir d'un article de Public Sénat.",
+    "La productivité horaire n'est pas chiffrée dans cette fiche."
+  ],
+  "sources": [
+    {
+      "titre": "« Les Français ne travaillent pas assez » : François Bayrou a-t-il raison ?",
+      "organisme": "Public Sénat (Marius Texier), d'après Eurostat",
+      "date_publication": "17 avril 2025",
+      "url": "https://www.publicsenat.fr/actualites/economie/les-francais-ne-travaillent-pas-assez-francois-bayrou-a-t-il-raison",
+      "passage": "Eurostat, 2024 : un salarié à temps complet travaille 39,9 heures par semaine en France, contre 40,3 heures dans l'Union européenne et 40,2 heures en Allemagne ; temps partiel : 16,8 % des emplois en France contre 17,8 % dans l'UE ; ensemble des emplois (2023) : 36 heures contre 36,1 heures ; 10 % des salariés travaillent 49 heures ou plus, contre 7,4 % dans l'UE ; en durée annuelle effective, la France est avant-dernière de l'UE (2022).",
+      "pertinence": "Média parlementaire, vérification à partir des données d'Eurostat.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport annuel 2026 — partie 4, chapitre 1 : l'emploi des seniors",
+      "organisme": "Conseil d'orientation des retraites (COR)",
+      "date_publication": "Juin 2026",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2026-06/RA_Part4_Chap1.pdf",
+      "passage": "Taux d'emploi des 55-64 ans : 61,7 % en 2025 (41 % en 2010) ; 55-59 ans : 78,8 % ; 60-64 ans : 44,4 % ; Suède : 78,3 %, Japon : 79,8 % ; à 61 ans, 24,5 % des personnes ne sont ni en emploi ni à la retraite, dont 14,5 % en mauvaise santé ; ce statut est « le plus souvent subi pour des raisons de santé ou de handicap ».",
+      "pertinence": "Organisme public d'expertise sur les retraites.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "En durée annuelle effective, la France est avant-dernière de l'Union européenne.",
+    "Le taux d'emploi des 60-64 ans reste nettement plus faible que dans des pays comme la Suède ou le Japon."
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "egalite"
+    ],
+    "mecanismes": "On reproche aux salariés un manque de travail qui vient surtout de l’exclusion des jeunes et des seniors de l’emploi et de l’usure professionnelle.",
+    "consequences": "Ce discours justifie le recul de l’âge de la retraite et la remise en cause des congés, au détriment de ceux qui sont déjà usés.",
+    "democratie": "Le temps libre est une conquête sociale ; son partage est un choix collectif, pas une faute individuelle.",
+    "propositions": [
+      "Améliorer les conditions de travail pour que les seniors puissent rester en emploi en bonne santé.",
+      "Partager le travail plutôt qu’allonger les carrières de ceux qui en ont un."
+    ],
+    "defavorables": [
+      {
+        "fait": "En durée annuelle effective, la France est en bas du classement européen.",
+        "integration": "Le dire, en précisant que cela tient aux congés et à l’emploi selon l’âge, pas à la paresse."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "salaires",
+    "travail_effort",
+    "temps_travail"
+  ],
+  "repond_a": [
+    {
+      "id": "temps_travail",
+      "label": "Temps de travail des Français"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ]
+}

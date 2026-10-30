@@ -113,11 +113,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "delinquance",
-    "accidents_travail"
-  ],
   "repond_a": [
     {
       "id": "accidents_travail",
@@ -138,5 +133,10 @@
     "en surete",
     "peur de sortir",
     "pas en securite"
+  ],
+  "concepts": [
+    "emploi",
+    "delinquance",
+    "accidents_travail"
   ]
 }

@@ -124,10 +124,6 @@
       }
     ]
   },
-  "concepts": [
-    "delinquance",
-    "homicide"
-  ],
   "repond_a": [
     {
       "id": "homicides",
@@ -144,5 +140,9 @@
     "criminalite",
     "caillera",
     "ensauvagement"
+  ],
+  "concepts": [
+    "delinquance",
+    "homicide"
   ]
 }

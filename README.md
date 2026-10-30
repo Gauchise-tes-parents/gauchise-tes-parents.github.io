@@ -16,6 +16,14 @@ Ligne éditoriale assumée de gauche, avec une règle non négociable : aucun fa
 
 ---
 
+## Nouveautés v12
+
+- **Les 20 questions fréquentes de la demande reçoivent une vraie réponse** (fiche qui répond au sujet, jamais une fiche voisine), dans les deux modes : `npm run rapport:v12` → `rapports/tests-20-questions.md`.
+- **14 nouvelles fiches sourcées** : cartes Vitale, SMIC, héritage, fraude sociale et fiscale, temps de travail, retraite à 64 ans, emploi après 50 ans, syndicats, nationalité, accès à la propriété, location sans CDI, pauvreté et efforts, la gauche et les travailleurs, « grand remplacement ».
+- **Domaines mobilisés** : une phrase peut toucher plusieurs domaines ; ils sont affichés dans l'analyse.
+- **Sans fiche, la limite est dite** : analyse étiquetée « sans données sourcées », et rappel que la réponse documentée hors bibliothèque demande le mode connecté, qui n'est pas actif sur le site public.
+- **Seules les phrases prêtes à l'emploi sont proposées** (fiche vérifiée) ; les autres sont comptées « en préparation ». Voir `RAPPORT-V12.md`.
+
 ## Nouveautés v11
 
 - **Audit de cohérence** (`npm run audit:coherence`) : les 764 affirmations suggérées, traitées comme dans l'application ; plus aucune n'est envoyée vers une fiche d'un autre domaine (15 erreurs corrigées), 437 mènent à une fiche cohérente.

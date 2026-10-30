@@ -1,0 +1,167 @@
+{
+  "id": "fraude-sociale-fiscale",
+  "type": "idee_recue",
+  "affirmation": "La fraude sociale coûte plus cher que la fraude fiscale.",
+  "volet": "social",
+  "sous_theme": "Fraude sociale",
+  "rubriques": [],
+  "mots_cles": [
+    "fraude sociale",
+    "fraude fiscale",
+    "fraudeurs",
+    "fraude aux allocations",
+    "fraude aux prestations",
+    "travail dissimulé",
+    "travail au noir",
+    "tva",
+    "évasion fiscale",
+    "fraude"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "La fraude sociale est estimée à environ 13 milliards d'euros par an, et plus de la moitié vient des entreprises et des indépendants, surtout par le travail dissimulé. Pour la seule TVA, l'Insee estime la fraude entre 20 et 25 milliards d'euros. La fraude fiscale n'est pas plus petite : elle est plus difficile à mesurer.",
+  "contexte": "Le débat oppose souvent la fraude « des pauvres » aux allocations et la fraude « des riches » aux impôts, avec des chiffres très variables selon les sources.",
+  "explication": "Les deux fraudes sont estimées par des méthodes différentes, avec de fortes incertitudes. Mais la fraude sociale comprend aussi les cotisations non versées par des employeurs, et la fraude fiscale ne se limite pas à la TVA.",
+  "faits": [
+    {
+      "fait": "Selon le Haut Conseil du financement de la protection sociale (2024), la fraude sociale représente environ 13 milliards d'euros par an de potentiel théorique, environ 1,9 % des prestations.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Un montant réel, mais modeste au regard des prestations versées.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "13 milliards"
+    },
+    {
+      "fait": "Selon la même estimation, 56 % de cette fraude est le fait des entreprises ou des indépendants, 34 % des assurés et 10 % des professionnels de santé ; le travail dissimulé en représente 6,9 milliards.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La fraude sociale est d'abord une fraude d'employeurs, pas d'allocataires.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "56 %"
+    },
+    {
+      "fait": "Selon l'Insee, cité par le ministère de l'Économie, la seule TVA non recouvrée serait comprise entre 20 et 25 milliards d'euros par an, une estimation qui comporte des biais méthodologiques.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La fraude à un seul impôt dépasse déjà l'estimation de toute la fraude sociale.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "20 Md€"
+    },
+    {
+      "fait": "Selon la même estimation du HCFiPS, les indus de RSA représentent environ 1,54 milliard d'euros.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La fraude des allocataires existe : il faut le reconnaître.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "1,54 milliard"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : la fraude sociale est estimée à environ 13 milliards par an, dont plus de la moitié par des entreprises (travail dissimulé). La seule fraude à la TVA est estimée par l'Insee entre 20 et 25 milliards.",
+    "moyen": "Les chiffres officiels disent l'inverse. La fraude sociale est estimée à environ 13 milliards d'euros par an, et 56 % vient des entreprises et des indépendants, surtout par le travail dissimulé : des cotisations que des employeurs ne versent pas.\n\nPour la fraude fiscale, l'Insee estime la seule TVA non recouvrée entre 20 et 25 milliards. Et ce n'est qu'un impôt. La fraude des allocataires existe, mais elle n'est ni la seule ni la plus coûteuse.",
+    "detaille": "Comparer les deux fraudes demande de la prudence : les méthodes d'estimation diffèrent et les incertitudes sont fortes. Mais aucun chiffre officiel ne permet de dire que la fraude sociale serait plus coûteuse.\n\nLe Haut Conseil du financement de la protection sociale estime la fraude sociale à environ 13 milliards d'euros par an de potentiel théorique, environ 1,9 % des prestations. Seuls 2,1 milliards sont détectés et 600 millions recouvrés. Surtout, 56 % de cette fraude est le fait des entreprises ou des indépendants, dont 6,9 milliards de travail dissimulé ; les assurés en représentent 34 %, dont 1,54 milliard d'indus de RSA.\n\nCôté fiscal, le ministère de l'Économie cite une estimation de l'Insee : la seule TVA non recouvrée serait comprise entre 20 et 25 milliards d'euros. L'écart de TVA français (7,4 % en 2019) est plus du double de la moyenne européenne, même s'il n'est pas uniquement dû à la fraude. Il n'existe pas d'estimation officielle complète de la fraude fiscale, ce qui est en soi un choix politique.",
+    "empathie": "Je comprends que la fraude aux aides révolte, c'est de l'argent commun. Mais quand on regarde les chiffres officiels, la plus grosse part de la fraude sociale vient d'employeurs qui ne déclarent pas, et la fraude à la seule TVA est encore plus importante."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On parle de la fraude détectée, et les fraudeurs aux aides sont plus nombreux.",
+      "reponse": "Le nombre de fraudeurs ne dit rien des montants : quelques fraudes d'entreprises pèsent plus que beaucoup de petits indus."
+    },
+    {
+      "objection": "La TVA, ce n'est pas vraiment de la fraude des riches.",
+      "reponse": "C'est vrai que la fraude à la TVA touche des entreprises de toutes tailles ; l'essentiel est qu'elle dépasse à elle seule l'estimation de toute la fraude sociale."
+    }
+  ],
+  "questions": [
+    "Sais-tu qui fraude le plus aux cotisations sociales : les assurés ou les employeurs ?",
+    "Pourquoi n'existe-t-il pas d'estimation officielle complète de la fraude fiscale, selon toi ?"
+  ],
+  "limites": [
+    "L'estimation de la fraude sociale provient d'un compte rendu de presse du rapport du HCFiPS.",
+    "Aucune estimation officielle de l'ensemble de la fraude fiscale n'est citée : seule la TVA est chiffrée ici. Les chiffres plus élevés qui circulent (parfois 60 à 100 milliards) ne sont pas repris faute de source officielle vérifiée."
+  ],
+  "sources": [
+    {
+      "titre": "« Une corruption lente et insidieuse » : un rapport évalue la fraude sociale à 13 milliards d'euros par an",
+      "organisme": "Public Sénat, d'après le rapport du Haut Conseil du financement de la protection sociale (HCFiPS)",
+      "date_publication": "27 septembre 2024",
+      "url": "https://www.publicsenat.fr/actualites/economie/une-corruption-lente-et-insidieuse-un-rapport-evalue-la-fraude-sociale-a-13-milliards-deuros-par-an",
+      "passage": "Fraude sociale : environ 13 milliards d'euros par an de « potentiel théorique » (environ 1,9 % des prestations) ; 2,1 milliards détectés, 600 millions recouvrés ; travail dissimulé (cotisations non versées) : 6,9 milliards ; indus de RSA : 1,54 milliard ; Assurance maladie : 1,71 milliard ; 56 % du fait des entreprises ou des indépendants, 34 % des assurés, 10 % des professionnels de santé.",
+      "pertinence": "Média parlementaire rendant compte d'un rapport d'un organisme public.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Réponse du ministère de l'Économie à la question écrite n° 8208 (fraude fiscale et sociale)",
+      "organisme": "Assemblée nationale / ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique",
+      "date_publication": "21 novembre 2023",
+      "url": "https://questions.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE8208.pdf",
+      "passage": "Selon l'Insee, la TVA non recouvrée serait comprise « entre 20 Md€ et 25 Md€ » (estimations comportant des biais méthodologiques) ; écart de TVA en 2019 : « 7,4 % soit 13,8 Md€ », contre une moyenne européenne de 3 %, écart qui n'est qu'en partie dû à la fraude ; contrôle fiscal 2022 : 14,6 Md€ de droits et pénalités mis en recouvrement, 10,6 Md€ encaissés.",
+      "pertinence": "Réponse officielle du ministère compétent.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La fraude des allocataires existe et représente plusieurs milliards d'euros, dont environ 1,5 milliard pour le RSA.",
+    "Les estimations de fraude fiscale comportent de fortes incertitudes."
+  ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "solidarite",
+      "repartition"
+    ],
+    "mecanismes": "Le discours public se concentre sur la fraude des plus pauvres, plus visible et plus facile à dénoncer, alors que la fraude des entreprises et la fraude fiscale pèsent davantage.",
+    "consequences": "Les allocataires subissent des contrôles intrusifs, pendant que le travail dissimulé et la fraude à la TVA privent la collectivité de recettes.",
+    "democratie": "Ne pas mesurer officiellement l’ensemble de la fraude fiscale est un choix qui oriente le débat.",
+    "propositions": [
+      "Publier une estimation officielle et régulière de la fraude fiscale.",
+      "Renforcer les moyens du contrôle fiscal et de l’inspection du travail contre le travail dissimulé."
+    ],
+    "defavorables": [
+      {
+        "fait": "La fraude des allocataires existe, dont plus d’un milliard d’euros pour le RSA.",
+        "integration": "La reconnaître et la combattre, sans en faire l’essentiel du problème."
+      }
+    ]
+  },
+  "concepts": [
+    "origine",
+    "emploi",
+    "salaires",
+    "prestations",
+    "fiscalite",
+    "cout",
+    "fraude"
+  ],
+  "repond_a": [
+    {
+      "id": "fraude",
+      "label": "Fraude sociale et fraude fiscale"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ]
+}

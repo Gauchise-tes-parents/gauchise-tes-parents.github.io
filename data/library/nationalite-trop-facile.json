@@ -1,0 +1,159 @@
+{
+  "id": "nationalite-trop-facile",
+  "type": "idee_recue",
+  "affirmation": "Les étrangers obtiennent la nationalité française trop facilement.",
+  "volet": "immigration",
+  "sous_theme": "Nationalité et accès aux droits",
+  "rubriques": [],
+  "mots_cles": [
+    "nationalité",
+    "naturalisation",
+    "naturalisés",
+    "devenir français",
+    "papiers français",
+    "droit du sol",
+    "naturaliser",
+    "donne la nationalité",
+    "code civil",
+    "acquisition de la nationalité"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La nationalité ne se donne pas « à n'importe qui ». En 2021, 130 385 personnes l'ont acquise : 58 % par naturalisation, une décision de l'État réservée aux étrangers qui résident régulièrement en France et remplissent des conditions fixées par le Code civil ; les autres surtout par déclaration (mariage, ou jeunes nés et élevés en France).",
+  "contexte": "L'accès à la nationalité est régulièrement présenté comme trop facile, en particulier le « droit du sol » et les naturalisations.",
+  "explication": "Il existe plusieurs voies : la naturalisation par décret, qui est une décision discrétionnaire de l'État ; la déclaration (mariage, jeunes nés en France) ; et l'acquisition automatique à 18 ans pour un jeune né en France qui y a résidé. Le droit du sol français n'est pas automatique à la naissance.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, 130 385 personnes ont acquis la nationalité française en 2021, dont 75 249 par décret de naturalisation (58 %).",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Plus de la moitié des acquisitions passent par une décision de l'État.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "130 385"
+    },
+    {
+      "fait": "Selon l'Insee, 52 764 personnes sont devenues françaises par déclaration en 2021, dont 17 280 par mariage et 32 727 par déclaration anticipée de jeunes de 13 à 17 ans nés en France.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Une grande partie concerne des jeunes nés et élevés en France.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "32 727"
+    },
+    {
+      "fait": "Selon l'Insee, la naturalisation est ouverte à « tout étranger qui réside régulièrement en France », sous les conditions des articles 21-15 à 21-27 du Code civil, et un jeune né en France de parents étrangers ne devient français qu'à 18 ans, sous condition de résidence.",
+      "periode": "Droit en vigueur en 2023",
+      "perimetre": "France",
+      "explication": "Le droit du sol n'est ni automatique ni immédiat.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Insee, 7 615 000 immigrés vivaient en France en 2024, soit 11,2 % de la population.",
+      "periode": "2024",
+      "perimetre": "France hors Mayotte",
+      "explication": "Les acquisitions annuelles restent faibles au regard de la population immigrée.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "11,2 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : la naturalisation est une décision de l'État, réservée à ceux qui résident régulièrement en France et remplissent les conditions du Code civil. Un enfant né en France de parents étrangers n'est pas français à la naissance : il peut le devenir à 18 ans s'il y a vécu.",
+    "moyen": "La nationalité ne se distribue pas. En 2021, 130 385 personnes l'ont acquise : 58 % par naturalisation, une décision de l'État qui peut refuser, réservée aux étrangers en situation régulière et soumise aux conditions du Code civil.\n\nLes autres sont surtout des conjoints de Français et des jeunes nés en France : 32 727 déclarations anticipées de 13 à 17 ans. Et contrairement à une idée reçue, naître en France ne rend pas français à la naissance : il faut y avoir vécu, et cela se fait au plus tôt à l'adolescence.",
+    "detaille": "L'idée d'une nationalité trop facile repose souvent sur une mauvaise connaissance des règles. Selon l'Insee, 130 385 personnes ont acquis la nationalité française en 2021. La majorité (75 249, soit 58 %) l'a obtenue par décret de naturalisation : une décision de l'État, réservée à « tout étranger qui réside régulièrement en France » et soumise aux conditions des articles 21-15 à 21-27 du Code civil.\n\nLes autres acquisitions passent surtout par déclaration : 17 280 par mariage avec un Français et 32 727 déclarations anticipées de jeunes de 13 à 17 ans nés en France. Un enfant né en France de parents étrangers ne devient pas français à la naissance : il le devient à 18 ans s'il a résidé en France, ou plus tôt par déclaration.\n\nOn peut débattre des conditions ; mais présenter la nationalité comme donnée sans contrôle est faux.",
+    "empathie": "Je comprends que la question de qui devient français compte beaucoup, c'est ce qui nous relie. Mais la naturalisation est une décision de l'État, avec des conditions, et une bonne partie de ceux qui deviennent français sont des jeunes nés et élevés ici."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec le droit du sol, il suffit de naître en France.",
+      "reponse": "Non : un enfant né en France de parents étrangers ne devient français qu'à 18 ans s'il y a résidé, ou plus tôt par déclaration."
+    },
+    {
+      "objection": "On naturalise des gens qui n'aiment pas la France.",
+      "reponse": "La naturalisation est une décision au cas par cas, que l'État peut refuser ; l'accusation générale ne repose sur aucune donnée."
+    }
+  ],
+  "questions": [
+    "Sais-tu que la naturalisation est une décision que l'État peut refuser ?",
+    "Un enfant né et élevé en France, qui y a fait toute sa scolarité, devrait-il rester étranger ?"
+  ],
+  "limites": [
+    "Les chiffres datent de 2021 ; les conditions précises de la naturalisation ne sont pas détaillées ici.",
+    "Les modifications législatives postérieures à 2023 ne sont pas couvertes par cette fiche."
+  ],
+  "sources": [
+    {
+      "titre": "Acquisitions de la nationalité française (Immigrés et descendants d'immigrés, Insee Références)",
+      "organisme": "Insee",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793254",
+      "passage": "En 2021 : 130 385 acquisitions de la nationalité française ; 75 249 par décret (naturalisation, 58 %) ; 52 764 par déclaration, dont 17 280 par mariage et 32 727 déclarations anticipées de jeunes de 13 à 17 ans nés en France ; 2 372 sans formalité ; la naturalisation est ouverte à « tout étranger qui réside régulièrement en France » sous conditions (articles 21-15 à 21-27 du Code civil) ; un jeune né en France de parents étrangers devient français à 18 ans sous condition de résidence.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Immigrés et descendants d'immigrés (France, portrait social, édition 2025)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612512",
+      "passage": "France hors Mayotte, 2024 (provisoire) : 7 615 000 immigrés, soit 11,2 % de la population (10,6 % en 2023) ; 7 987 000 descendants d'immigrés, soit 12 % de la population en logement ordinaire, dont 55 % n'ont qu'un parent immigré ; 34 % des immigrés sont de nationalité française ; nés en Afrique 48,1 % (Maghreb 29,4 %), en Europe 31,3 %, en Asie 14,5 %, Amérique-Océanie 6,0 %. Définitions de l'immigré et du descendant d'immigré.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le nombre d'acquisitions de la nationalité varie selon les années et selon les choix administratifs.",
+    "Les conditions précises (langue, durée de résidence) relèvent d'un débat politique légitime."
+  ],
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "egalite",
+      "democratie"
+    ],
+    "mecanismes": "L’idée d’une nationalité bradée repose sur une méconnaissance des règles et sert à présenter certains Français comme des Français de seconde zone.",
+    "consequences": "Des jeunes nés et élevés en France se voient contester leur appartenance à la nation.",
+    "democratie": "La nation républicaine se définit par l’adhésion à des droits et à une communauté politique, pas par l’origine.",
+    "propositions": [
+      "Garantir des délais et des conditions d’examen égaux pour toutes les demandes.",
+      "Défendre l’accès à la nationalité des enfants nés et élevés en France."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le nombre d’acquisitions de la nationalité varie selon les années et les choix administratifs.",
+        "integration": "Débattre des conditions est légitime ; prétendre qu’il n’y en a pas est faux."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "nationalite"
+  ],
+  "repond_a": [
+    {
+      "id": "nationalite",
+      "label": "Accès à la nationalité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "nationalite",
+    "devenir francais",
+    "droit du sol",
+    "papiers francais"
+  ]
+}

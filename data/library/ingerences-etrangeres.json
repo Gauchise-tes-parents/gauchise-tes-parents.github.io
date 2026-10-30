@@ -116,10 +116,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "desinformation"
-  ],
   "repond_a": [
     {
       "id": "desinformation",
@@ -137,5 +133,9 @@
     "desinformation",
     "fake news",
     "manipulation de l information"
+  ],
+  "concepts": [
+    "immigration",
+    "desinformation"
   ]
 }

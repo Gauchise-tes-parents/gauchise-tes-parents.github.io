@@ -101,7 +101,7 @@ export const PHRASES = [
   { t: 'Mes enfants n’arrivent pas à se loger.', cat: 'emotionnel', p: 'logement', f: null, x: LOGEMENT_X },
 
   // ── 7. Identité, patriotisme, démographie ──
-  { t: 'On est en train d’être remplacés.', cat: 'insinuation', p: ['imm_demographie', 'identite'], f: 'immigration-chiffres-definitions', x: ['immigres-aides'] },
+  { t: 'On est en train d’être remplacés.', cat: 'insinuation', p: ['imm_demographie', 'identite'], f: ['grand-remplacement', 'immigration-chiffres-definitions'], x: ['immigres-aides'] },
   { t: 'Les immigrés, c’est déjà un tiers de la population.', cat: 'chiffre', p: 'imm_demographie', f: 'immigration-chiffres-definitions', x: ['immigres-aides'] },
   { t: 'Il y a de plus en plus d’immigrés en France.', cat: 'simple', p: 'imm_demographie', f: 'immigration-chiffres-definitions', x: ['immigres-aides', 'etrangers-prisons'] },
   { t: 'On perd notre identité.', cat: 'emotionnel', p: 'identite', f: ['patriotisme-nationalisme', 'immigration-chiffres-definitions'], emo: ['perte_reperes'] },
@@ -172,7 +172,7 @@ export const PHRASES = [
   { t: 'T’as des chiffres sur les étrangers en prison ?', cat: 'preuve', p: 'imm_prison', f: 'etrangers-prisons', x: PRISON_X },
   { t: 'Tout le monde sait que les immigrés touchent plus d’aides.', cat: 'autorite', p: 'imm_prestations', f: 'immigres-aides', x: AIDES_X },
   { t: 'Mon voisin est arabe et il touche toutes les aides.', cat: 'anecdote', p: 'imm_prestations', f: 'immigres-aides', x: AIDES_X, proc: ['anecdote'] },
-  { t: 'Soit on ferme les frontières, soit la France disparaît.', cat: 'faux_dilemme', p: ['imm_demographie', 'identite', 'gauche_patrie'], f: ['immigration-chiffres-definitions', 'patriotisme-nationalisme'], proc: ['faux_dilemme'] },
+  { t: 'Soit on ferme les frontières, soit la France disparaît.', cat: 'faux_dilemme', p: ['imm_demographie', 'identite', 'gauche_patrie'], f: ['grand-remplacement', 'immigration-chiffres-definitions', 'patriotisme-nationalisme'], proc: ['faux_dilemme'] },
 
   // ── 13. Émotions fortes ──
   { t: 'J’en ai marre, on bosse comme des chiens et on n’a rien.', cat: 'emotionnel', p: 'pouvoir_achat', f: ['dividendes-salaires', 'pauvrete-france'], x: ['chomeurs-travailler', 'immigres-aides'], emo: ['colere'] },

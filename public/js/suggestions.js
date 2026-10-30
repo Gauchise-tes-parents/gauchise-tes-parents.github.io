@@ -1087,7 +1087,12 @@ export function sgPool(volet, sousTheme) {
  * ctx : { volet, sousTheme, mode ('gagner'|'convaincre'), interlocuteur (profil), vues: [textes] }
  */
 export function suggestionsPour(ctx = {}, n = 3) {
-  const pool = sgPool(ctx.volet, ctx.sousTheme);
+  // v12 : avec seulementCouvertes, seules les affirmations auxquelles l'application sait répondre (fiche vérifiée)
+  // sont proposées ; les autres sont comptées « en préparation », jamais présentées comme prêtes à l'emploi.
+  const brut = sgPool(ctx.volet, ctx.sousTheme);
+  const filtrer = Boolean(ctx.seulementCouvertes && ctx.estCouverte);
+  const pool = filtrer ? brut.filter((s) => ctx.estCouverte(s.texte)) : brut;
+  const enPreparation = filtrer ? brut.length - pool.length : 0;
   const p = ctx.interlocuteur || {};
   const vues = new Set(ctx.vues || []);
   const cadre = p.cadre;
@@ -1109,7 +1114,7 @@ export function suggestionsPour(ctx = {}, n = 3) {
   let libres = classees.filter((s) => !vues.has(s.texte));
   let cycle = false;
   if (libres.length < n) { cycle = true; libres = [...libres, ...classees.filter((s) => vues.has(s.texte))]; }
-  return { suggestions: libres.slice(0, n), total: pool.length, restantes: Math.max(0, classees.filter((s) => !vues.has(s.texte)).length - n), cycle };
+  return { suggestions: libres.slice(0, n), total: pool.length, enPreparation, restantes: Math.max(0, classees.filter((s) => !vues.has(s.texte)).length - n), cycle };
 }
 
 /** Audit : sous-thèmes sans suggestions suffisantes, doublons, sous-thèmes inconnus. */

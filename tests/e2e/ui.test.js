@@ -3,6 +3,7 @@
 // Le mode « réel » utilise un service d'IA SIMULÉ : il valide l'interface, pas la recherche réelle.
 import { test, describe, before, after } from 'node:test';
 import assert from 'node:assert/strict';
+import { Q20 } from '../v12-questions.js';
 import { readdirSync, readFileSync } from 'node:fs';
 import { testConfig, startServer, routerFetch, defaultRoutes, researchResponse, DOSSIER_JSON, jsonResponse } from '../helpers.js';
 
@@ -422,7 +423,8 @@ describe('interface — mode démonstration', { skip }, () => {
     assert.ok(travail.every((t) => /(travail|salaire|métier|cotis|emploi)/i.test(t)), travail.join(' / '));
     await page.getByRole('button', { name: 'Autres affirmations' }).click();
     const autres = await chips();
-    assert.equal(autres.filter((t) => travail.includes(t)).length, 0, 'renouvellement sans répétition');
+    // v12 : seules les affirmations avec une fiche vérifiée sont proposées ; le renouvellement en montre de nouvelles
+    assert.ok(autres.some((t) => !travail.includes(t)), 'renouvellement : au moins une nouvelle affirmation');
     await page.locator('#sugg-wizard .sugg-chip').first().click();
     assert.equal(await page.locator('#affirmation').inputValue(), autres[0]);
     // même sous-thème en mode « convaincre » : sélection différente
@@ -487,7 +489,7 @@ describe('interface — mode démonstration', { skip }, () => {
     assert.ok(await sec.locator('.an-src a').first().isVisible(), 'la donnée secondaire est sourcée');
     // lacune : aucune fiche voisine présentée comme réponse
     await express('On ne peut plus se loger à cause de l’immigration.');
-    await page.getByRole('heading', { name: 'Pas encore dans la bibliothèque' }).waitFor();
+    await page.getByRole('heading', { name: 'Pas de fiche vérifiée sur ce point' }).waitFor();
     assert.match(await page.locator('.verdict-summary').textContent(), /immigration et logement/);
     assert.equal(await page.locator('.analyse a[href="#/bibliotheque/immigres-aides"]').count() - await page.locator('.an-ecartees a[href="#/bibliotheque/immigres-aides"]').count(), 0);
     assert.match(await page.locator('.analyse').textContent(), /Ce qui peut se jouer derrière/);
@@ -633,7 +635,7 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.goto(`${s.base}/#/express`);
     await page.locator('#express-text').fill('Le prix du pain au Moyen Âge');
     await page.getByRole('button', { name: 'Sortir une réplique' }).click();
-    await page.getByRole('heading', { name: 'Pas encore dans la bibliothèque' }).waitFor();
+    await page.getByRole('heading', { name: 'Pas de fiche vérifiée sur ce point' }).waitFor();
     const txt = await page.locator('main').textContent();
     assert.ok(!/serveur|connexion|Ça n’a pas marché/i.test(txt));
     await page.close();
@@ -657,6 +659,44 @@ describe('interface — mode démonstration', { skip }, () => {
     assert.ok(await page.getByText(/version locale ou un aperçu/).isVisible(), 'l’adresse locale est signalée comme non partageable');
     await page.goto(`${s.base}/#/veille`);
     await page.getByText('Aucune planification active pour ce site.').waitFor();
+    await page.close();
+  });
+
+  test('v12 — les 20 questions : une vraie réponse dans les deux modes ; sans fiche, la limite est annoncée', async () => {
+    const page = await newPage(browser, PHONE, errors);
+    const express = async (t, mode) => {
+      await page.goto(`${s.base}/#/express`);
+      await page.locator(`[data-express-mode="${mode}"]`).click();
+      await page.locator('#express-text').fill(t);
+      await page.getByRole('button', { name: 'Sortir une réplique' }).click();
+      await page.waitForFunction(() => ['#/argumentaire', '#/introuvable'].includes(location.hash));
+    };
+    for (const [q, id] of Q20) for (const mode of ['gagner', 'convaincre']) {
+      await express(q, mode);
+      assert.equal(await page.evaluate(() => location.hash), '#/argumentaire', `${q} (${mode}) : une réponse, pas une lacune`);
+      const ok = await page.locator(`.crumb a[href="#/bibliotheque/${id}"]`).waitFor({ timeout: 8000 }).then(() => true, () => false);
+      assert.ok(ok, `${q} (${mode}) : fiche ${id}`);
+      const panel = page.locator('.fiche-panel:not([hidden])');
+      const txt = (await panel.innerText()).toLowerCase();
+      assert.ok(txt.indexOf('1 · la réponse') > -1 && txt.indexOf('1 · la réponse') < txt.indexOf('2 · les preuves'), `${q} (${mode}) : réponse puis preuves`);
+      assert.ok(txt.includes('3 · la lecture de gauche'), `${q} (${mode}) : lecture de gauche`);
+      assert.ok(await panel.locator('.an-src a, .proof a, a[target="_blank"]').count(), `${q} (${mode}) : sources cliquables`);
+      assert.ok(await page.locator('.an-domaines li').count() >= 1, `${q} : domaines mobilisés`);
+    }
+    // sans fiche : analyse étiquetée, limite du mode connecté annoncée, aucune recherche simulée
+    await express('On ne peut plus se loger à cause de l’immigration.', 'gagner');
+    await page.locator('.limite-box').waitFor();
+    assert.match(await page.locator('.limite-box').textContent(), /Analyse sans données sourcées/);
+    assert.match(await page.locator('.limite-box').textContent(), /n’est pas actif sur ce site public/);
+    assert.ok(await page.locator('.an-domaines li').count() >= 2, 'classification multiple affichée');
+    assert.equal(await page.locator('[data-action="web-search-local"]').count(), 0, 'pas de bouton de recherche sans mode connecté');
+    // suggestions : uniquement des affirmations prêtes à l'emploi
+    await page.goto(`${s.base}/#/express`);
+    await page.locator('#express-volet').selectOption('social');
+    const chips = page.locator('#sugg-express .sugg-chip');
+    await chips.first().waitFor();
+    assert.equal(await chips.count(), await page.locator('#sugg-express .sugg-tag').count(), 'chaque suggestion a une fiche vérifiée');
+    assert.ok((await overflow(page)) <= 1);
     await page.close();
   });
 

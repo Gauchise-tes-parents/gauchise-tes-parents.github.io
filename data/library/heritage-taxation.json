@@ -1,0 +1,164 @@
+{
+  "id": "heritage-taxation",
+  "type": "idee_recue",
+  "affirmation": "L'héritage, c'est le fruit du travail des parents, il ne faut pas le taxer.",
+  "volet": "social",
+  "sous_theme": "Revenus du travail et du patrimoine",
+  "rubriques": [],
+  "mots_cles": [
+    "héritage",
+    "heritage",
+    "succession",
+    "droits de succession",
+    "transmission",
+    "donation",
+    "hériter",
+    "taxer l héritage",
+    "impôt sur l héritage",
+    "patrimoine"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "La plupart des héritages sont modestes et déjà peu ou pas taxés : la moitié d'une génération reçoit moins de 70 000 €. Les très gros héritages, eux, sont faiblement imposés : le top 0,1 % reçoit environ 13 millions d'euros et paie un taux effectif d'environ 10 %, selon le Conseil d'analyse économique. Et l'héritage pèse de plus en plus : 60 % du patrimoine total, contre 35 % au début des années 1970.",
+  "contexte": "L'impôt sur les successions est l'un des plus impopulaires. Beaucoup de familles modestes craignent de devoir payer, alors que le débat porte surtout sur les très gros patrimoines.",
+  "explication": "Les droits de succession sont progressifs et comportent des abattements importants en ligne directe : la plupart des transmissions ne paient rien ou presque. La question politique porte sur la concentration croissante du patrimoine hérité et sur les exonérations dont profitent les plus gros patrimoines.",
+  "faits": [
+    {
+      "fait": "Selon le Conseil d'analyse économique, le patrimoine hérité représente 60 % du patrimoine total, contre environ 35 % au début des années 1970.",
+      "periode": "1970-2020",
+      "perimetre": "France",
+      "explication": "La richesse vient de plus en plus de la naissance que du travail.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "60 %"
+    },
+    {
+      "fait": "Selon la même note, la moitié d'une génération reçoit moins de 70 000 €, tandis que le top 0,1 % reçoit environ 13 millions d'euros, soit 180 fois l'héritage médian, et paie un taux effectif d'environ 10 %.",
+      "periode": "Génération actuelle",
+      "perimetre": "France",
+      "explication": "Les héritages modestes sont peu concernés ; les très gros sont faiblement taxés.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "70 000 €"
+    },
+    {
+      "fait": "Selon la même note, les droits de succession et de donation rapportent environ 15 milliards d'euros, soit 0,6 % du PIB, contre environ 0,3 % en moyenne dans l'OCDE.",
+      "periode": "Début des années 2020",
+      "perimetre": "France et OCDE",
+      "explication": "La France taxe plus que la moyenne : c'est un argument des opposants, qui doit être intégré.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "0,6 %"
+    },
+    {
+      "fait": "Selon l'Insee, dans les années 2000, environ 4 propriétaires récents sur 10 avaient reçu une aide familiale, et ces aides ont fortement augmenté chez les ménages aisés.",
+      "periode": "Années 2000",
+      "perimetre": "France",
+      "explication": "Les transmissions familiales décident de plus en plus de l'accès au patrimoine.",
+      "source": 1,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "La moitié des héritiers reçoivent moins de 70 000 € et paient peu ou rien. Ceux qui reçoivent 13 millions paient environ 10 % effectifs (CAE). Taxer davantage les très gros héritages, ce n'est pas punir le travail des parents, c'est limiter une rente de naissance.",
+    "moyen": "Les héritages modestes ne sont pas la cible : la moitié d'une génération reçoit moins de 70 000 €, et les abattements font que la plupart ne paient rien ou presque.\n\nLe problème est ailleurs : selon le Conseil d'analyse économique, le patrimoine hérité représente désormais 60 % du patrimoine total, contre 35 % au début des années 1970. Le top 0,1 % hérite d'environ 13 millions d'euros et paie un taux effectif d'environ 10 %. Plus l'héritage pèse, moins le mérite compte.",
+    "detaille": "L'idée que l'héritage serait le fruit du travail des parents est juste pour la plupart des familles, et ce sont justement ces héritages-là qui sont peu ou pas taxés : la moitié d'une génération reçoit moins de 70 000 €.\n\nLe Conseil d'analyse économique (note n° 69, 2021) montre que le patrimoine hérité représente 60 % du patrimoine total, contre environ 35 % au début des années 1970, et que la part du 1 % le plus riche dans le patrimoine est passée de 15 % à 25 % entre 1985 et 2015. Le top 0,1 % des héritiers reçoit environ 13 millions d'euros, 180 fois l'héritage médian, mais paie un taux effectif d'environ 10 %, grâce aux exonérations et aux donations anticipées.\n\nIl faut être honnête : la France prélève plus que la moyenne de l'OCDE (0,6 % du PIB contre environ 0,3 %). Le débat porte donc moins sur le niveau global que sur sa répartition : des petits héritages parfois taxés, de très gros patrimoines qui échappent en partie à l'impôt.",
+    "empathie": "Je comprends : on veut pouvoir laisser quelque chose à ses enfants, c'est profondément humain. Mais la plupart des héritages ne paient presque rien. Ce dont on parle, ce sont les héritages de plusieurs millions, qui sont étonnamment peu taxés."
+  },
+  "contre_arguments": [
+    {
+      "objection": "L'argent a déjà été taxé une fois.",
+      "reponse": "Pour l'héritier, c'est un revenu qu'il n'a pas gagné par son travail ; et une partie des plus-values transmises n'a jamais été imposée."
+    },
+    {
+      "objection": "Les riches vont partir.",
+      "reponse": "Les droits dépendent de la résidence de l'héritier et du défunt, et de la localisation des biens ; c'est un argument pour coordonner la fiscalité, pas pour exonérer les très gros patrimoines."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien hérite la moitié des Français ?",
+    "Est-il juste qu'un héritage de 13 millions soit taxé à environ 10 % quand un salaire l'est souvent davantage ?"
+  ],
+  "limites": [
+    "Les chiffres datent de la note du CAE de 2021 ; ils reposent sur des données fiscales et des estimations.",
+    "Le barème actuel des droits de succession n'est pas détaillé ici."
+  ],
+  "sources": [
+    {
+      "titre": "Repenser l'héritage (Les notes du Conseil d'analyse économique n° 69)",
+      "organisme": "Conseil d'analyse économique (Clément Dherbécourt, Gabrielle Fack, Camille Landais, Stefanie Stantcheva)",
+      "date_publication": "Décembre 2021",
+      "url": "https://cae-eco.fr/static/pdf/cae-note069.pdf",
+      "passage": "Le patrimoine hérité représente 60 % du patrimoine total, contre environ 35 % au début des années 1970 ; la moitié d'une génération reçoit moins de 70 000 € ; le top 1 % reçoit plus de 4,2 millions d'euros et le top 0,1 % environ 13 millions, soit 180 fois l'héritage médian ; le top 0,1 % paie un taux effectif d'environ 10 % ; les droits de succession et de donation rapportent environ 15 milliards d'euros (0,6 % du PIB, contre environ 0,3 % en moyenne dans l'OCDE) ; la part du top 1 % dans le patrimoine est passée de 15 % à 25 % entre 1985 et 2015.",
+      "pertinence": "Organisme public d'expertise économique placé auprès du Premier ministre.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Rôle des aides familiales et des revenus dans l'accès à la propriété (Économie et Statistique n° 500-501-502)",
+      "organisme": "Insee (Carole Bonnet, Bertrand Garbinti, Sébastien Grobon)",
+      "date_publication": "Octobre 2018",
+      "url": "https://www.insee.fr/fr/statistiques/3622011",
+      "passage": "Parmi les jeunes ménages modestes, 32 % étaient propriétaires en 1973 contre 16 % en 2013 ; dans les années 2000, environ 4 propriétaires récents sur 10 ont reçu une aide familiale, et ces aides ont fortement augmenté chez les ménages aisés.",
+      "pertinence": "Revue de la statistique publique.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les droits de succession rapportent plus en France que dans la moyenne de l'OCDE.",
+    "Certaines successions moyennes, notamment entre personnes sans lien de parenté direct, peuvent être lourdement taxées."
+  ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "repartition",
+      "emancipation"
+    ],
+    "mecanismes": "Quand l’héritage pèse de plus en plus dans le patrimoine, la naissance compte plus que le travail : c’est le retour d’une société de rentiers.",
+    "consequences": "Les enfants des familles modestes accèdent de plus en plus difficilement au patrimoine, au logement et à la sécurité économique.",
+    "democratie": "Une concentration extrême des patrimoines devient une concentration du pouvoir économique et politique.",
+    "propositions": [
+      "Alléger la fiscalité des petites et moyennes transmissions et taxer davantage les très gros héritages.",
+      "Supprimer les niches qui permettent aux plus gros patrimoines d’échapper aux droits de succession.",
+      "Financer avec ces recettes une dotation pour tous les jeunes."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France prélève déjà plus que la moyenne de l’OCDE sur les successions.",
+        "integration": "Le débat porte sur la répartition de l’impôt, plus que sur son niveau global."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "patriotisme",
+    "fiscalite",
+    "heritage"
+  ],
+  "repond_a": [
+    {
+      "id": "heritage",
+      "label": "Taxation de l’héritage"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite"
+  ]
+}

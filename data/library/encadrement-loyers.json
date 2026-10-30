@@ -106,9 +106,6 @@
       }
     ]
   },
-  "concepts": [
-    "logement"
-  ],
   "repond_a": [
     {
       "id": "encadrement_loyers",
@@ -124,5 +121,8 @@
     "appart",
     "immobilier",
     "sdf"
+  ],
+  "concepts": [
+    "logement"
   ]
 }

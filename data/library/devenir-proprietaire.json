@@ -1,0 +1,155 @@
+{
+  "id": "devenir-proprietaire",
+  "type": "reference",
+  "affirmation": "Peut-on encore devenir propriétaire en vivant de son salaire ?",
+  "volet": "social",
+  "sous_theme": "Revenus du travail et du patrimoine",
+  "rubriques": [],
+  "mots_cles": [
+    "propriétaire",
+    "devenir propriétaire",
+    "acheter",
+    "achat immobilier",
+    "accession",
+    "immobilier",
+    "crédit immobilier",
+    "apport",
+    "aide familiale"
+  ],
+  "verdict": null,
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "C'est devenu beaucoup plus difficile pour les ménages modestes : 32 % des jeunes ménages modestes étaient propriétaires en 1973, contre 16 % en 2013, selon l'Insee. L'aide de la famille compte de plus en plus : dans les années 2000, environ 4 propriétaires récents sur 10 en avaient reçu une. L'accès à la propriété dépend de plus en plus de l'héritage et de moins en moins du salaire.",
+  "contexte": "La hausse des prix de l'immobilier et des taux d'intérêt rend l'achat d'un logement difficile pour beaucoup de jeunes actifs.",
+  "explication": "L'Insee étudie l'accès à la propriété selon les revenus et selon les aides familiales reçues (donations, prêts, héritages). La comparaison sur quarante ans montre une divergence croissante entre ménages modestes et aisés.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, parmi les jeunes ménages modestes, 32 % étaient propriétaires en 1973 contre 16 % en 2013.",
+      "periode": "1973-2013",
+      "perimetre": "France",
+      "explication": "L'accès à la propriété des jeunes modestes a été divisé par deux.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "16 %"
+    },
+    {
+      "fait": "Selon l'Insee, dans les années 2000, environ 4 propriétaires récents sur 10 avaient reçu une aide familiale, et ces aides ont fortement augmenté chez les ménages aisés.",
+      "periode": "Années 2000",
+      "perimetre": "France",
+      "explication": "La famille, plus que le salaire, fait de plus en plus la différence.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon le Conseil d'analyse économique, le patrimoine hérité représente 60 % du patrimoine total, contre environ 35 % au début des années 1970.",
+      "periode": "1970-2020",
+      "perimetre": "France",
+      "explication": "La transmission familiale pèse de plus en plus dans le patrimoine.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "60 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "De plus en plus difficilement : 32 % des jeunes ménages modestes étaient propriétaires en 1973, 16 % en 2013 (Insee). Aujourd'hui, ce qui fait souvent la différence, c'est l'aide de la famille, pas le salaire.",
+    "moyen": "Ton impression est confirmée par l'Insee : parmi les jeunes ménages modestes, la part de propriétaires est passée de 32 % en 1973 à 16 % en 2013.\n\nDans le même temps, l'aide familiale est devenue décisive : environ 4 propriétaires récents sur 10 en avaient reçu une dans les années 2000, et ces aides ont fortement augmenté chez les ménages aisés. Devenir propriétaire dépend de plus en plus de ce qu'on reçoit de ses parents.",
+    "detaille": "Les données de l'Insee (Bonnet, Garbinti et Grobon, 2018) montrent un recul net : parmi les jeunes ménages modestes, 32 % étaient propriétaires en 1973, contre 16 % en 2013. La hausse des prix de l'immobilier a été plus rapide que celle des revenus, et les ménages sans apport ont été écartés.\n\nL'aide familiale est devenue un facteur clé : dans les années 2000, environ 4 propriétaires récents sur 10 avaient reçu une aide de leur famille, et ces aides ont fortement augmenté chez les ménages aisés. Plus largement, le Conseil d'analyse économique estime que le patrimoine hérité représente 60 % du patrimoine total, contre environ 35 % au début des années 1970.\n\nPour un salaire moyen sans aide familiale, l'accès à la propriété est donc beaucoup plus difficile qu'il y a quarante ans. C'est une question de logement abordable et de répartition du patrimoine, pas de mérite individuel.",
+    "empathie": "Tu n'es pas seul à le ressentir : beaucoup de gens qui travaillent ne peuvent plus acheter sans l'aide de leurs parents. Les chiffres de l'Insee montrent que c'est devenu deux fois plus rare pour les jeunes modestes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il suffit d'épargner.",
+      "reponse": "Quand les prix augmentent plus vite que les salaires, l'épargne ne suffit plus ; les aides familiales font la différence."
+    },
+    {
+      "objection": "Il y a des aides publiques pour acheter.",
+      "reponse": "Elles existent, mais n'ont pas empêché la part de propriétaires parmi les jeunes modestes d'être divisée par deux."
+    }
+  ],
+  "questions": [
+    "Combien de propriétaires autour de toi ont acheté sans aucune aide de leur famille ?",
+    "Est-ce normal qu'on dépende de ses parents pour se loger quand on travaille ?"
+  ],
+  "limites": [
+    "Les données principales datent de 2013 ; les prix et les taux ont beaucoup évolué depuis.",
+    "Les écarts entre régions ne sont pas détaillés ici."
+  ],
+  "sources": [
+    {
+      "titre": "Rôle des aides familiales et des revenus dans l'accès à la propriété (Économie et Statistique n° 500-501-502)",
+      "organisme": "Insee (Carole Bonnet, Bertrand Garbinti, Sébastien Grobon)",
+      "date_publication": "Octobre 2018",
+      "url": "https://www.insee.fr/fr/statistiques/3622011",
+      "passage": "Parmi les jeunes ménages modestes, 32 % étaient propriétaires en 1973 contre 16 % en 2013 ; dans les années 2000, environ 4 propriétaires récents sur 10 ont reçu une aide familiale, et ces aides ont fortement augmenté chez les ménages aisés.",
+      "pertinence": "Revue de la statistique publique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Repenser l'héritage (Les notes du Conseil d'analyse économique n° 69)",
+      "organisme": "Conseil d'analyse économique (Clément Dherbécourt, Gabrielle Fack, Camille Landais, Stefanie Stantcheva)",
+      "date_publication": "Décembre 2021",
+      "url": "https://cae-eco.fr/static/pdf/cae-note069.pdf",
+      "passage": "Le patrimoine hérité représente 60 % du patrimoine total, contre environ 35 % au début des années 1970 ; la moitié d'une génération reçoit moins de 70 000 € ; le top 1 % reçoit plus de 4,2 millions d'euros et le top 0,1 % environ 13 millions, soit 180 fois l'héritage médian ; le top 0,1 % paie un taux effectif d'environ 10 % ; les droits de succession et de donation rapportent environ 15 milliards d'euros (0,6 % du PIB, contre environ 0,3 % en moyenne dans l'OCDE) ; la part du top 1 % dans le patrimoine est passée de 15 % à 25 % entre 1985 et 2015.",
+      "pertinence": "Organisme public d'expertise économique placé auprès du Premier ministre.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les données de l'Insee s'arrêtent en 2013.",
+    "L'accès à la propriété dépend aussi fortement des taux d'intérêt et de la région."
+  ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "repartition",
+      "emancipation"
+    ],
+    "mecanismes": "Quand les prix montent plus vite que les salaires, l’accès à la propriété dépend de l’aide familiale : le patrimoine se transmet plus qu’il ne se gagne.",
+    "consequences": "Les jeunes des familles modestes restent locataires plus longtemps et paient des loyers élevés à ceux qui possèdent déjà.",
+    "democratie": "Le logement est un droit ; quand il devient un privilège de naissance, l’égalité républicaine recule.",
+    "propositions": [
+      "Construire massivement des logements sociaux et abordables.",
+      "Développer l’accession sociale à la propriété, qui sépare le prix du terrain de celui du logement."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les données principales datent de 2013, et l’accès dépend aussi des taux d’intérêt.",
+        "integration": "Le signaler, et rappeler que la tendance de fond est documentée sur quarante ans."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "salaires",
+    "prestations",
+    "logement",
+    "patriotisme",
+    "propriete"
+  ],
+  "repond_a": [
+    {
+      "id": "propriete",
+      "label": "Accès à la propriété"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ]
+}

@@ -103,9 +103,6 @@
       }
     ]
   },
-  "concepts": [
-    "sondages"
-  ],
   "repond_a": [
     {
       "id": "sondages",
@@ -115,5 +112,8 @@
   "ne_repond_pas": [],
   "synonymes": [
     "marge d erreur"
+  ],
+  "concepts": [
+    "sondages"
   ]
 }
