@@ -12,6 +12,7 @@
 //
 // NB : tous les noms de haut niveau sont préfixés (cv…, CV_…) car l'aperçu concatène les modules.
 import { kbMatch, kbTokens, kbNormalize } from './kbsearch.js';
+import { analyserPhrase, conceptsFiche, AN_SUJETS_PORTEURS } from './analyse.js';
 import { fichesLiees } from './composer.js';
 import { nettoyerProfil, resumeProfil } from './profile.js';
 
@@ -197,11 +198,22 @@ export function analyserMessage(conv, message, { raccourci = null, bibliotheque 
   // nouveau sujet : une autre fiche correspond nettement
   const apresRebond = CV_RE.rebond.test(t) ? brut.replace(/^.*?(peu importe|qu['’]importe|on s['’]en (fout|fiche)|je m['’]en (fiche|fous)|osef|même si[^,]*,|admettons,? mais|et alors|ça (ne )?change rien)[^,.;:!?]*[,.;:!?]?/i, '') : brut;
   if (brut.trim().length > 8) {
-    const m = kbMatch(thematiques, apresRebond.trim().length > 8 ? apresRebond : brut);
-    const top = m.find((x) => x.fiche.id !== conv.courante);
-    const courTop = m.find((x) => x.fiche.id === conv.courante);
-    const indice = CV_RE.sujet.test(t);
-    if (top && (top.force === 'forte' || top.score >= 6 || (indice && top.score >= 3)) && (!courTop || top.score > courTop.score + 2)) res.fiche_sujet = top.fiche.id;
+    // 1. analyse argumentative (concepts → argument → fiche qui y répond vraiment) ;
+    // 2. à défaut d'argument reconnu, correspondance textuelle (comportement antérieur).
+    const an = analyserPhrase(apresRebond.trim().length > 8 ? apresRebond : brut, { bibliotheque: thematiques, mode: conv.mode, contexte: courante ? conceptsFiche(courante).filter((c) => AN_SUJETS_PORTEURS.includes(c)) : [] });
+    res.lecture_phrase = { arguments: an.arguments.map((a) => ({ id: a.id, label: a.label, fiche: a.fiche?.id || null, lacune: a.lacune })), emotions: an.emotions.map((e) => ({ id: e.id, label: e.label, reponse: e.reponse })), procedes: an.procedes.map((p) => ({ id: p.id, label: p.label, question: p.question })) };
+    const surCourante = an.arguments.some((a) => a.fiche?.id === conv.courante);
+    const nouveau = an.arguments.find((a) => a.fiche && a.fiche.id !== conv.courante && a.pertinence === 'directe');
+    if (an.arguments.length && an.arguments.some((a) => a.id !== 'texte')) {
+      if (nouveau && !surCourante) res.fiche_sujet = nouveau.fiche.id;
+      else if (!surCourante && an.arguments.every((a) => a.lacune)) res.lacune_sujet = an.arguments[0].label;
+    } else {
+      const m = kbMatch(thematiques, apresRebond.trim().length > 8 ? apresRebond : brut);
+      const top = m.find((x) => x.fiche.id !== conv.courante);
+      const courTop = m.find((x) => x.fiche.id === conv.courante);
+      const indice = CV_RE.sujet.test(t);
+      if (top && (top.force === 'forte' || top.score >= 6 || (indice && top.score >= 3)) && (!courTop || top.score > courTop.score + 2)) res.fiche_sujet = top.fiche.id;
+    }
   }
 
   const precType = [...conv.tours].reverse().find((x) => x.analyse && !['aide', 'autre'].includes(x.analyse.type))?.analyse.type;

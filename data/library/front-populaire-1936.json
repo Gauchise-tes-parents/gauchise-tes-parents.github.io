@@ -4,8 +4,19 @@
   "affirmation": "Les congés payés et les droits des salariés, c'est le patronat qui les a offerts.",
   "volet": "international",
   "sous_theme": "Histoire du mouvement ouvrier",
-  "rubriques": ["patriotisme-de-gauche"],
-  "mots_cles": ["front populaire", "1936", "congés payés", "léon blum", "accords de matignon", "grèves", "40 heures", "droits des travailleurs"],
+  "rubriques": [
+    "patriotisme-de-gauche"
+  ],
+  "mots_cles": [
+    "front populaire",
+    "1936",
+    "congés payés",
+    "léon blum",
+    "accords de matignon",
+    "grèves",
+    "40 heures",
+    "droits des travailleurs"
+  ],
   "verdict": "contredit",
   "fiabilite": "etabli",
   "stabilite": "historique",
@@ -78,5 +89,16 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
-  "raison_actualisation": "Fiche historique : relecture périodique."
+  "raison_actualisation": "Fiche historique : relecture périodique.",
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi"
+  ],
+  "concepts": [
+    "riches_entreprises"
+  ]
 }

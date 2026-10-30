@@ -109,5 +109,48 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-01-01",
-  "raison_actualisation": "Le SMIC est revalorisé au 1er janvier et le RSA au 1er avril."
+  "raison_actualisation": "Le SMIC est revalorisé au 1er janvier et le RSA au 1er avril.",
+  "repond_a": [
+    {
+      "id": "assistanat",
+      "label": "Assistanat et aides sociales"
+    }
+  ],
+  "ne_repond_pas": [
+    {
+      "id": "imm_salaires",
+      "label": "Immigration et salaires"
+    },
+    {
+      "id": "imm_emploi",
+      "label": "Immigration et concurrence sur le marché du travail"
+    },
+    {
+      "id": "chomage_penurie",
+      "label": "Chômage et difficultés de recrutement"
+    },
+    {
+      "id": "imm_prestations",
+      "label": "Immigration et prestations sociales"
+    }
+  ],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ],
+  "concepts": [
+    "emploi",
+    "salaires",
+    "prestations"
+  ]
 }

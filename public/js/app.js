@@ -7,6 +7,7 @@ import { composer, questionsUtiles } from './composer.js';
 import { suggestionsPour } from './suggestions.js';
 import { nouvelleConversation, repondreConversation, enregistrerTour, analyserMessage, terminerConversation, basculerSujet, revenirSujetInitial, corrigerHypotheses, chargeServeur, phaseConversation, CV_RACCOURCIS, CV_TYPES } from './conversation.js';
 import { kbMatch, kbFreshness, kbNormalize, kbDataAge } from './kbsearch.js';
+import { analyserPhrase } from './analyse.js';
 import { LOGO_SVG } from './logo-data.js';
 import {
   heroScene, mascotSvg, profileSvg, VOLET_ICONS, TAB_ICONS, modeArtGagner, modeArtConvaincre, duoArt,
@@ -983,6 +984,7 @@ function viewArgumentaire() {
       <div class="claim-bubble"><span class="claim-label">${!sameQ ? 'Ta question' : 'L’affirmation'}</span><p>« ${h(c.question || f.affirmation)} »</p>
         ${!sameQ ? `<p class="claim-reform">Fiche utilisée : « ${h(f.affirmation)} »${c.force === 'partielle' ? ' (sujet voisin)' : ''}</p>` : ''}</div>
       <p class="offline-badge">Composé à partir de la bibliothèque locale — sans recherche web ni IA.</p>
+      ${c.analyse ? analyseHtml(c.analyse.mode === c.vue ? c.analyse : (c.analyse = analyserPhrase(c.analyse.texte, { bibliotheque: kb.fiches, mode: c.vue })), f.id, c.vue) : ''}
       ${incert.length ? `<aside class="notice notice--soft" role="note"><p><strong>À garder en tête :</strong></p><ul>${incert.map((x) => `<li>${h(x)}</li>`).join('')}</ul></aside>` : ''}
       ${a.profil.inconnu ? '' : `<p class="hyp-note"><strong>Hypothèses retenues sur la personne</strong> (tu peux les corriger ci-dessous) : ${h(resumeProfil(a.profil))}.</p>`}
 
@@ -1049,6 +1051,8 @@ function convTourHtml(t) {
     <div class="bulle bulle--toi"><span class="bulle-qui">Tu peux répondre</span><p>${h(i.texte)}</p>
       <button type="button" class="link-btn" data-conv-copier="${t.n}">Copier</button></div>
     ${i.complement ? `<p>${h(i.complement)}</p>` : ''}
+    ${t.analyse?.lecture_phrase?.emotions?.length ? `<p class="conv-ressenti"><strong>Derrière la phrase, peut-être :</strong> ${h(t.analyse.lecture_phrase.emotions[0].label.toLowerCase())}. ${h(t.analyse.lecture_phrase.emotions[0].reponse)}</p>` : ''}
+    ${t.analyse?.lacune_sujet ? `<p class="fact-warning">Pas encore de fiche sur « ${h(t.analyse.lacune_sujet)} » : aucune fiche voisine n’est présentée à la place.</p>` : ''}
     ${i.preuve?.source ? `<ul class="preuves">${preuveItem(i.preuve)}</ul>` : ''}
     ${i.question ? `<p class="conv-question"><strong>Question à poser :</strong> ${h(i.question)}</p>` : ''}
     ${i.avertissement ? `<p class="fact-warning">${h(i.avertissement)}</p>` : ''}
@@ -1154,6 +1158,48 @@ function refreshCompo() {
   window.scrollTo(0, y);
 }
 
+// Panneau « Ce que contient la phrase » : arguments repérés (et fiche qui répond à chacun, ou lacune),
+// liens de cause affirmés, émotions possibles, procédés, formule et question, fiches écartées et pourquoi.
+function analyseHtml(an, ficheCourante, vue) {
+  const ficheDe = (id) => kb.fiches.find((x) => x.id === id);
+  const preuveDe = (f) => {
+    const fa = (f?.faits || []).find((x) => x.source != null && f.sources?.[x.source]);
+    if (!fa) return '';
+    const so = f.sources[fa.source];
+    return `<p class="an-preuve">${fa.chiffre ? `<strong>${h(fa.chiffre)}</strong> — ` : ''}${h(fa.fait)} <span class="an-src">Source : <a href="${h(safeUrl(so.url) || '#')}" target="_blank" rel="noopener noreferrer">${h(so.organisme)}, ${h(so.date_publication || '')}<span class="visually-hidden"> (ouvre un nouvel onglet)</span></a></span></p>`;
+  };
+  const carte = (a, i) => {
+    const f = a.fiche && ficheDe(a.fiche.id);
+    const ici = a.fiche?.id === ficheCourante;
+    return `<li class="an-arg ${a.lacune ? 'an-arg--lacune' : ''}">
+      <p class="an-arg-head"><span class="an-rang">${i === 0 ? 'Argument principal' : 'Argument secondaire'}</span> ${h(a.label)}</p>
+      ${an.arguments.length > 1 ? `<p class="an-seg">« ${h(a.segment)} »</p>` : ''}
+      ${a.lacune ? '<p class="an-lacune">Pas encore de fiche qui réponde précisément à ce point : aucune fiche voisine n’est présentée à la place.</p>'
+        : ici ? `<p class="hint">Traité en détail ci-dessous${a.pertinence === 'partielle' ? ' (la fiche n’y répond qu’en partie)' : ''}.</p>`
+        : `<p>${h(a.fiche.court || '')}</p>${preuveDe(f)}<p><a class="link-btn" href="#/bibliotheque/${h(a.fiche.id)}">Voir la fiche « ${h(a.fiche.affirmation)} »</a>${a.pertinence === 'partielle' ? ' <span class="hint">(répond en partie)</span>' : ''}</p>`}
+      ${a.implicite ? `<p class="an-imp"><strong>Sous-entendu possible :</strong> ${h(a.implicite)}</p>` : ''}
+    </li>`;
+  };
+  const causes = an.causalites.map((x) => `<li>${h(x.cause)} → ${h(x.effet)} <span class="hint">(${h(x.forme)})</span></li>`).join('');
+  return `<section class="block analyse" aria-labelledby="an-title">
+    <h2 id="an-title" class="block-title">Ce que contient la phrase</h2>
+    <p class="hint">Lecture automatique et approximative, à partir de règles explicites. Les émotions et procédés sont des hypothèses, pas des étiquettes.</p>
+    <ol class="an-args">${an.arguments.map(carte).join('')}</ol>
+    ${an.emotions.length ? `<div class="an-emo"><h3 class="sub-title">Ce qui peut se jouer derrière</h3><ul>${an.emotions.map((e) => `<li><strong>${h(e.label)} :</strong> ${h(e.reponse)}</li>`).join('')}</ul></div>` : ''}
+    <div class="an-phrase"><p class="an-phrase-label">${vue === 'convaincre' ? 'Pour ouvrir la discussion' : 'La phrase qui marque'}</p><p class="big-q">${h(an.phrase)}</p>
+      <p><strong>Question à poser :</strong> ${h(an.question)}</p></div>
+    ${an.procedes.length || causes || an.aVerifier.length ? `<details class="acc"><summary><span>Comment l’argument est construit${an.procedes.length ? ` (${an.procedes.length} procédé${an.procedes.length > 1 ? 's' : ''} possible${an.procedes.length > 1 ? 's' : ''})` : ''}</span></summary><div class="acc-body">
+      ${causes ? `<h3 class="sub-title">Lien de cause affirmé</h3><ul>${causes}</ul>` : ''}
+      ${an.procedes.map((p) => `<article class="an-proc"><h3 class="sub-title">${h(p.label)} ?</h3><p>${h(p.explication)}</p><p><strong>À vérifier :</strong> ${h(p.verifier)}</p><p><strong>Question :</strong> ${h(p.question)}</p></article>`).join('')}
+      ${an.aVerifier.length ? `<h3 class="sub-title">Ce qu’il faudrait vérifier</h3><ul>${an.aVerifier.map((x) => `<li>${h(x)}</li>`).join('')}</ul>` : ''}
+    </div></details>` : ''}
+    ${an.ecartees.length ? `<details class="acc an-ecartees"><summary><span>Fiches écartées (${an.ecartees.length})</span></summary><div class="acc-body">
+      <p class="hint">Ces fiches partagent des mots avec la phrase mais ne répondent pas à l’argument.</p>
+      <ul>${an.ecartees.map((e) => `<li><a href="#/bibliotheque/${h(e.id)}">« ${h(e.affirmation)} »</a> — ${h(e.raison)}.</li>`).join('')}</ul>
+    </div></details>` : ''}
+  </section>`;
+}
+
 function viewPasDansLaBase(payload) {
   const proches = payload.volet && payload.volet !== 'autre' ? kb.fiches.filter((f) => f.volet === payload.volet).slice(0, 4) : [];
   return `<section class="section result">
@@ -1163,11 +1209,12 @@ function viewPasDansLaBase(payload) {
         <div class="verdict-mascot">${mascotSvg('search', 'La mascotte cherche dans la bibliothèque', 96)}</div>
         <div class="verdict-body">
           <h1 class="verdict-h">Pas encore dans la bibliothèque</h1>
-          <p class="verdict-summary">La bibliothèque locale ne contient pas encore cette information. Rien n’est inventé à la place.</p>
+          <p class="verdict-summary">${payload.analyse?.principal ? `J’ai compris l’argument (« ${h(payload.analyse.principal.label.toLowerCase())} »), mais la bibliothèque ne contient pas encore de fiche qui y réponde. Plutôt que de présenter une fiche voisine comme une réponse, je le dis.` : 'La bibliothèque locale ne contient pas encore cette information. Rien n’est inventé à la place.'}</p>
           ${isLive() ? '<button type="button" class="btn btn-primary" data-action="web-search-local">Lancer une recherche web</button>' : ''}
         </div>
       </article>
-      ${proches.length ? `<section class="block"><h2 class="block-title">Dans le même volet</h2><div class="fiche-grid">${proches.map((f) => ficheCard(withFresh(f))).join('')}</div></section>` : ''}
+      ${payload.analyse ? analyseHtml(payload.analyse, null, payload.mode === 'convaincre' ? 'convaincre' : 'gagner') : ''}
+      ${proches.length && !payload.analyse ? `<section class="block"><h2 class="block-title">Dans le même volet</h2><div class="fiche-grid">${proches.map((f) => ficheCard(withFresh(f))).join('')}</div></section>` : ''}
       <p><a class="btn btn-secondary" href="#/bibliotheque">Chercher dans la bibliothèque</a></p>
     </div>
   </section>`;
@@ -1181,7 +1228,24 @@ async function launchLocal(payload) {
     $('#app').innerHTML = `<section class="section"><div class="wrap wrap--narrow">${errorBox('La bibliothèque locale n’a pas pu être chargée sur cet appareil. Recharge la page une fois connecté pour l’enregistrer.')}</div></section>`;
     return;
   }
-  // Le volet et le sous-thème choisis départagent les correspondances (sans remplacer une correspondance forte).
+  // 1. Analyse argumentative : concepts → arguments → fiches qui y répondent vraiment (sinon, lacune reconnue).
+  const an = analyserPhrase(payload.affirmation, { bibliotheque: kb.fiches, mode: payload.mode === 'convaincre' ? 'convaincre' : 'gagner' });
+  if (an.arguments.length) {
+    const avecFiche = an.arguments.filter((x) => x.fiche);
+    if (!avecFiche.length) {
+      state.compo = null;
+      state.pasTrouve = { ...payload, analyse: an };
+      if (location.hash !== '#/introuvable') location.hash = '#/introuvable'; else render();
+      return;
+    }
+    const pr = avecFiche[0];
+    const fiche = kb.fiches.find((f) => f.id === pr.fiche.id);
+    nouvelleCompo(fiche, { question: payload.affirmation, force: pr.pertinence === 'partielle' ? 'partielle' : 'forte', profil: payload.interlocuteur, vue: payload.mode === 'convaincre' ? 'convaincre' : 'gagner', autres: avecFiche.slice(1).map((x) => kb.fiches.find((f) => f.id === x.fiche.id)).filter(Boolean) });
+    state.compo.analyse = an;
+    if (location.hash !== '#/argumentaire') location.hash = '#/argumentaire'; else render();
+    return;
+  }
+  // 2. Aucun argument reconnu : correspondance textuelle (le volet et le sous-thème départagent).
   const m = kbMatch(kb.fiches.filter((f) => f.type !== 'science' || payload.volet === 'autre'), payload.affirmation, { limit: 6 })
     .map((x) => ({ ...x, adj: x.score + (payload.volet && x.fiche.volet === payload.volet ? 2 : 0) + (payload.sous_theme && x.fiche.sous_theme === payload.sous_theme ? 1 : 0) }))
     .sort((x, y) => y.adj - x.adj)

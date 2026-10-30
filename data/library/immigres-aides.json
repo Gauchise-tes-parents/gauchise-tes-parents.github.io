@@ -130,5 +130,54 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-10-29",
-  "raison_actualisation": "Les données de l’OCDE couvrent 2006-2018 : à revoir lors d’une nouvelle édition de l’étude."
+  "raison_actualisation": "Les données de l’OCDE couvrent 2006-2018 : à revoir lors d’une nouvelle édition de l’étude.",
+  "repond_a": [
+    {
+      "id": "imm_prestations",
+      "label": "Immigration et prestations sociales"
+    },
+    {
+      "id": "priorite_nationale",
+      "label": "Sentiment que les Français passent après",
+      "partielle": true
+    },
+    {
+      "id": "imm_finances",
+      "label": "Coût de l’immigration pour les finances publiques"
+    }
+  ],
+  "ne_repond_pas": [
+    {
+      "id": "imm_salaires",
+      "label": "Immigration et salaires"
+    },
+    {
+      "id": "imm_emploi",
+      "label": "Immigration et concurrence sur le marché du travail"
+    },
+    {
+      "id": "imm_logement",
+      "label": "Immigration et logement"
+    }
+  ],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "cout",
+    "priorite_nationale"
+  ]
 }

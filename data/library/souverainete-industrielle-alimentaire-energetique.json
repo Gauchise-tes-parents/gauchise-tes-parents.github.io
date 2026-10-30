@@ -4,8 +4,20 @@
   "affirmation": "Défendre l'industrie et l'agriculture françaises, ce n'est pas un sujet de gauche.",
   "volet": "economie",
   "sous_theme": "Comparaisons internationales",
-  "rubriques": ["patriotisme-de-gauche"],
-  "mots_cles": ["souveraineté industrielle", "souveraineté alimentaire", "souveraineté énergétique", "désindustrialisation", "emplois", "balance commerciale", "agriculture", "énergie", "nucléaire"],
+  "rubriques": [
+    "patriotisme-de-gauche"
+  ],
+  "mots_cles": [
+    "souveraineté industrielle",
+    "souveraineté alimentaire",
+    "souveraineté énergétique",
+    "désindustrialisation",
+    "emplois",
+    "balance commerciale",
+    "agriculture",
+    "énergie",
+    "nucléaire"
+  ],
   "verdict": null,
   "fiabilite": "etabli",
   "stabilite": "evolutive",
@@ -109,5 +121,33 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-04-30",
-  "raison_actualisation": "Statistiques annuelles (énergie, commerce agricole, emploi industriel) à mettre à jour."
+  "raison_actualisation": "Statistiques annuelles (énergie, commerce agricole, emploi industriel) à mettre à jour.",
+  "repond_a": [
+    {
+      "id": "europe",
+      "label": "Europe et souveraineté",
+      "partielle": true
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis"
+  ],
+  "concepts": [
+    "emploi",
+    "gauche",
+    "europe",
+    "ecologie"
+  ]
 }

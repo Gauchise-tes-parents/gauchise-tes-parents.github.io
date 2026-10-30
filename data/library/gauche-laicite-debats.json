@@ -4,8 +4,20 @@
   "affirmation": "La gauche a abandonné la laïcité et le féminisme face à l'islam.",
   "volet": "droits",
   "sous_theme": "Laïcité",
-  "rubriques": ["islamo-gauchisme-laicite"],
-  "mots_cles": ["laïcité", "gauche", "débats", "printemps républicain", "observatoire de la laïcité", "féminisme", "communautarisme", "antiracisme", "universalisme"],
+  "rubriques": [
+    "islamo-gauchisme-laicite"
+  ],
+  "mots_cles": [
+    "laïcité",
+    "gauche",
+    "débats",
+    "printemps républicain",
+    "observatoire de la laïcité",
+    "féminisme",
+    "communautarisme",
+    "antiracisme",
+    "universalisme"
+  ],
   "verdict": "trompeur",
   "fiabilite": "debat",
   "stabilite": "evolutive",
@@ -96,5 +108,41 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-10-29",
-  "raison_actualisation": "Débat politique évolutif."
+  "raison_actualisation": "Débat politique évolutif.",
+  "repond_a": [
+    {
+      "id": "islam",
+      "label": "Islam et musulmans"
+    },
+    {
+      "id": "laicite",
+      "label": "Laïcité"
+    }
+  ],
+  "ne_repond_pas": [
+    {
+      "id": "islam_expression",
+      "label": "Islam et liberté d’expression"
+    }
+  ],
+  "synonymes": [
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "laicite",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "egalite salariale"
+  ],
+  "concepts": [
+    "islam",
+    "laicite",
+    "gauche",
+    "feminisme"
+  ]
 }

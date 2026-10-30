@@ -4,8 +4,19 @@
   "affirmation": "La souveraineté, c'est un truc de nationalistes.",
   "volet": "politique",
   "sous_theme": "Souveraineté",
-  "rubriques": ["patriotisme-de-gauche"],
-  "mots_cles": ["souveraineté", "peuple", "nation", "1789", "constitution", "référendum", "démocratie", "maastricht"],
+  "rubriques": [
+    "patriotisme-de-gauche"
+  ],
+  "mots_cles": [
+    "souveraineté",
+    "peuple",
+    "nation",
+    "1789",
+    "constitution",
+    "référendum",
+    "démocratie",
+    "maastricht"
+  ],
   "verdict": "trompeur",
   "fiabilite": "etabli",
   "stabilite": "historique",
@@ -97,5 +108,30 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
-  "raison_actualisation": "Fiche historique : relecture périodique."
+  "raison_actualisation": "Fiche historique : relecture périodique.",
+  "repond_a": [
+    {
+      "id": "gauche_patrie",
+      "label": "La gauche et la patrie"
+    },
+    {
+      "id": "europe",
+      "label": "Europe et souveraineté",
+      "partielle": true
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "bruxelles",
+    "union europeenne"
+  ],
+  "concepts": [
+    "patriotisme",
+    "europe"
+  ]
 }

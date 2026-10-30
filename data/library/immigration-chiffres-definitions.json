@@ -98,5 +98,37 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2026-12-31",
-  "raison_actualisation": "L'Insee publie une mise à jour annuelle (novembre)."
+  "raison_actualisation": "L'Insee publie une mise à jour annuelle (novembre).",
+  "repond_a": [
+    {
+      "id": "imm_demographie",
+      "label": "Immigration et démographie"
+    },
+    {
+      "id": "identite",
+      "label": "Identité et sentiment de dépossession",
+      "partielle": true
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation",
+    "racines",
+    "grand remplacement"
+  ],
+  "concepts": [
+    "immigration",
+    "identite",
+    "demographie",
+    "statistiques"
+  ]
 }

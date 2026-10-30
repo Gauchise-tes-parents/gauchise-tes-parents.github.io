@@ -130,5 +130,31 @@
   "raison_actualisation": "Législation en évolution.",
   "objections_legitimes": [
     "Les personnes condamnées qui restent dangereuses doivent pouvoir être éloignées effectivement."
+  ],
+  "repond_a": [
+    {
+      "id": "expulsion",
+      "label": "Expulsion des étrangers condamnés"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "chez eux",
+    "oqtf",
+    "reconduite",
+    "virer",
+    "dehors",
+    "remigration"
+  ],
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "justice"
   ]
 }

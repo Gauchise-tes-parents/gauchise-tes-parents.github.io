@@ -110,5 +110,18 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-03-31",
-  "raison_actualisation": "RTE publie un bilan électrique chaque année au printemps."
+  "raison_actualisation": "RTE publie un bilan électrique chaque année au printemps.",
+  "repond_a": [
+    {
+      "id": "ecologie",
+      "label": "Écologie"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire"
+  ],
+  "concepts": [
+    "ecologie"
+  ]
 }

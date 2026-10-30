@@ -117,5 +117,37 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-04-29",
-  "raison_actualisation": "Sujet d'actualité politique : vérifier les nouveaux faits, déclarations et décisions."
+  "raison_actualisation": "Sujet d'actualité politique : vérifier les nouveaux faits, déclarations et décisions.",
+  "repond_a": [
+    {
+      "id": "melenchon",
+      "label": "Critiques visant Jean-Luc Mélenchon"
+    },
+    {
+      "id": "gauche_dangereuse",
+      "label": "La gauche jugée dangereuse",
+      "partielle": true
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "melenchon",
+    "meluche",
+    "lfi"
+  ],
+  "concepts": [
+    "salaires",
+    "melenchon_lfi",
+    "gauche",
+    "dangerosite"
+  ]
 }

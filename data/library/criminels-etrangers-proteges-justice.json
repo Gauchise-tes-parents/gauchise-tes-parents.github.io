@@ -131,5 +131,36 @@
   "objections_legitimes": [
     "Des personnes sous mesure d'éloignement non exécutée commettent parfois de nouvelles infractions.",
     "Les garanties juridiques allongent les procédures."
+  ],
+  "repond_a": [
+    {
+      "id": "execution_eloignement",
+      "label": "Exécution des mesures d’éloignement"
+    },
+    {
+      "id": "justice_protege",
+      "label": "Justice et étrangers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "expulsion",
+    "justice"
   ]
 }

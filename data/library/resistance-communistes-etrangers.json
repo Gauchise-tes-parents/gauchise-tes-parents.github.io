@@ -4,8 +4,20 @@
   "affirmation": "La Résistance, c'était la droite et de Gaulle ; les communistes et les étrangers n'y étaient pour rien.",
   "volet": "international",
   "sous_theme": "Guerres et conflits",
-  "rubriques": ["patriotisme-de-gauche"],
-  "mots_cles": ["résistance", "communistes", "ftp-moi", "manouchian", "affiche rouge", "fusillés", "cnr", "jean moulin", "seconde guerre mondiale"],
+  "rubriques": [
+    "patriotisme-de-gauche"
+  ],
+  "mots_cles": [
+    "résistance",
+    "communistes",
+    "ftp-moi",
+    "manouchian",
+    "affiche rouge",
+    "fusillés",
+    "cnr",
+    "jean moulin",
+    "seconde guerre mondiale"
+  ],
   "verdict": "contredit",
   "fiabilite": "etabli",
   "stabilite": "historique",
@@ -121,5 +133,24 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
-  "raison_actualisation": "Fiche historique : relecture périodique."
+  "raison_actualisation": "Fiche historique : relecture périodique.",
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis"
+  ],
+  "concepts": [
+    "immigration",
+    "gauche"
+  ]
 }

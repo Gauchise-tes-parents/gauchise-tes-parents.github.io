@@ -108,5 +108,44 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2026-04-30",
-  "raison_actualisation": "Les bilans des contrôles 2024 et 2025 existent mais n’ont pas encore été consultés dans une source primaire."
+  "raison_actualisation": "Les bilans des contrôles 2024 et 2025 existent mais n’ont pas encore été consultés dans une source primaire.",
+  "repond_a": [
+    {
+      "id": "travail_effort",
+      "label": "Les Français ne voudraient plus travailler"
+    }
+  ],
+  "ne_repond_pas": [
+    {
+      "id": "imm_salaires",
+      "label": "Immigration et salaires"
+    },
+    {
+      "id": "imm_emploi",
+      "label": "Immigration et concurrence sur le marché du travail"
+    },
+    {
+      "id": "chomage_penurie",
+      "label": "Chômage et difficultés de recrutement"
+    }
+  ],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat"
+  ],
+  "concepts": [
+    "emploi",
+    "prestations",
+    "travail_effort"
+  ]
 }

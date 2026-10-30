@@ -1,0 +1,144 @@
+{
+  "id": "immigration-salaires",
+  "type": "idee_recue",
+  "affirmation": "Les immigrés font baisser les salaires des Français.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et travail",
+  "rubriques": [],
+  "mots_cles": [
+    "salaires",
+    "font baisser les salaires",
+    "paient moins",
+    "payés moins",
+    "dumping",
+    "patrons préfèrent",
+    "main d oeuvre bon marché",
+    "moins cher",
+    "exploitation",
+    "tirer les salaires vers le bas"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Les études sur la France ne trouvent pas de baisse du salaire moyen des natifs liée à l'immigration : une étude trouve même un effet positif sur 1962-1999, une autre un effet très faible à court terme pour les natifs directement en concurrence, et aucun effet défavorable à long terme. Le vrai sujet est l'exploitation et le travail non déclaré, qui pèsent sur tous les salariés.",
+  "contexte": "L'argument s'appuie sur la loi de l'offre et de la demande : plus de travailleurs, des salaires plus bas. En pratique, l'effet dépend de la concurrence réelle entre travailleurs, du salaire minimum, des conventions collectives et de la demande supplémentaire créée.",
+  "explication": "Les salaires en France sont encadrés par le SMIC et les conventions collectives, ce qui limite les baisses directes. Quand immigrés et natifs n'occupent pas les mêmes métiers, ils peuvent être complémentaires. Les employeurs qui exploitent des travailleurs vulnérables, notamment non déclarés, créent une concurrence déloyale : c'est un problème de droit du travail.",
+  "faits": [
+    {
+      "fait": "Sur 1962-1999, une hausse de 10 % de la part des immigrés est associée à des salaires des natifs plus élevés d'environ 3 %.",
+      "periode": "1962-1999",
+      "perimetre": "France",
+      "explication": "L'effet moyen estimé est favorable, grâce à la réorientation des natifs vers des métiers mieux payés.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "+3 %"
+    },
+    {
+      "fait": "Sur 1990-2010, l'immigration a un effet très faible sur les salaires des natifs de qualification proche à court terme, et pas d'effet défavorable sur le salaire moyen des natifs à long terme ; les natifs peu diplômés ont vu leurs salaires relatifs progresser.",
+      "periode": "1990-2010",
+      "perimetre": "France",
+      "explication": "Les rigidités salariales (SMIC, conventions) limitent les baisses de salaire.",
+      "source": 1,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Les immigrés sont surreprésentés dans des métiers essentiels peu qualifiés aux conditions difficiles : 23 % des agents d'entretien et des aides à domicile ; des travaux cités indiquent qu'ils acceptent plus souvent des horaires atypiques.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La pression porte d'abord sur les conditions de travail dans ces métiers.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "23 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les études sur la France ne trouvent pas de baisse du salaire moyen des Français due à l'immigration ; l'une trouve même +3 % sur 1962-1999. Le vrai problème, c'est l'exploitation, qui tire tout le monde vers le bas.",
+    "moyen": "Intuitivement, plus de travailleurs devrait faire baisser les salaires. Mais en France, le SMIC et les conventions collectives encadrent les salaires, et immigrés et natifs n'exercent souvent pas les mêmes métiers. Résultat : une étude de la Banque de France trouve des salaires des natifs plus élevés de 3 % pour une hausse de 10 % de la part des immigrés, sur 1962-1999 ; une thèse trouve un effet très faible à court terme et aucun effet défavorable à long terme. Si des patrons paient moins certains immigrés, c'est souvent par l'exploitation et le travail non déclaré : la solution, c'est de faire respecter le droit du travail.",
+    "detaille": "L'argument a une logique apparente : davantage de travailleurs, donc des salaires plus bas. Mais l'effet réel dépend de trois choses : la concurrence effective entre travailleurs, les règles salariales et la demande supplémentaire créée par l'immigration.\n\nEn France, les salaires sont encadrés par le SMIC et les conventions collectives. Les études disponibles trouvent donc peu d'effets négatifs sur les salaires. Sur 1962-1999, une étude de la Banque de France estime qu'une hausse de 10 % de la part des immigrés est associée à des salaires des natifs supérieurs d'environ 3 % : les natifs se sont orientés vers des métiers mieux rémunérés. Sur 1990-2010, une thèse trouve un effet très faible à court terme pour les natifs de qualification proche, et aucun effet défavorable à long terme sur le salaire moyen ; les moins diplômés ont même vu leurs salaires relatifs progresser.\n\nCe qui existe réellement, c'est la pression sur les conditions de travail dans certains métiers pénibles, où les immigrés sont nombreux, et l'exploitation de travailleurs vulnérables, notamment sans titre de séjour. Ce sont des problèmes de droit du travail et de contrôle des employeurs.\n\nSi l'on veut défendre les salaires, les leviers sont connus : SMIC, négociations collectives, contrôles, lutte contre le travail non déclaré.",
+    "empathie": "Je comprends : quand ton salaire ne suit pas les prix, c'est rageant, et on cherche un responsable. Mais les études ne montrent pas que l'immigration fasse baisser les salaires en moyenne. Ceux qui paient mal, ce sont des employeurs ; c'est eux qu'il faut regarder."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les patrons préfèrent les immigrés parce qu'ils les paient moins.",
+      "reponse": "Payer moins que le minimum légal ou les conventions, c'est illégal. Quand ça arrive, c'est l'employeur qui fraude, souvent avec des travailleurs vulnérables. Défendre les salaires, c'est contrôler et sanctionner ces employeurs, et régulariser pour que tous aient les mêmes droits."
+    },
+    {
+      "objection": "Les études datent, aujourd'hui c'est différent.",
+      "reponse": "C'est juste : les études citées portent sur 1962-2010. Aucune ne permet d'affirmer l'inverse pour aujourd'hui sans nouvelles données ; c'est un point à surveiller honnêtement."
+    }
+  ],
+  "questions": [
+    "Qui décide des salaires dans une entreprise : les immigrés ou les employeurs ?",
+    "Qu'est-ce qui protège le mieux ton salaire : moins d'immigrés ou des règles mieux appliquées ?"
+  ],
+  "limites": [
+    "Les études portent sur 1962-2010.",
+    "L'effet du travail non déclaré n'est pas mesuré par ces études."
+  ],
+  "sources": [
+    {
+      "titre": "Immigration and the Occupational Choice of Natives: A Factor Proportions Approach (Document de travail n° 335)",
+      "organisme": "Banque de France (Javier Ortega, Gregory Verdugo)",
+      "date_publication": "Juillet 2011",
+      "url": "https://publications.banque-france.fr/sites/default/files/medias/documents/working-paper_335_2011.pdf",
+      "passage": "France, 1962-1999 : une hausse de 10 % de la part des immigrés est associée à des salaires des natifs plus élevés d'environ 3 % et à un taux d'emploi plus élevé d'environ 3 %. Mécanisme principal : les natifs se réorientent vers des professions mieux payées ; immigrés et natifs sont des substituts imparfaits, les immigrés étant surtout en concurrence entre eux. Les effets diminuent ou deviennent non significatifs dans certaines spécifications.",
+      "pertinence": "Étude économétrique publiée par la Banque de France.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Immigration, wages and employment: Evidence from France (thèse de doctorat)",
+      "organisme": "Anthony Edo, université Paris 1 Panthéon-Sorbonne (Paris School of Economics)",
+      "date_publication": "2014",
+      "url": "https://www.parisschoolofeconomics.eu/en/publications-hal/immigration-salaires-et-emplois-quels-effets-en-france",
+      "passage": "France, 1990-2010 : à court terme, effet très faible sur les salaires des natifs de qualification proche, mais une hausse de 10 % de la part des immigrés est associée à une baisse d'environ 3 % du taux d'emploi de ces natifs « en concurrence » ; à long terme, pas d'effet défavorable sur le salaire moyen des natifs ; les natifs peu diplômés ont vu leurs salaires relatifs progresser.",
+      "pertinence": "Travail universitaire montrant des effets différenciés selon l'horizon et les groupes.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Métiers essentiels : quelle contribution des travailleurs immigrés ? (La Lettre du CEPII n° 424)",
+      "organisme": "CEPII (Anthony Edo, Sonia Louhab, Lionel Ragot)",
+      "date_publication": "Février 2022",
+      "url": "https://imap.cepii.fr/PDF_PUB/lettre/2022/let424.pdf",
+      "passage": "Les immigrés représentent 10,5 % des travailleurs des métiers essentiels, pour 10,3 % de l'emploi total. Ils sont surreprésentés dans les métiers essentiels peu qualifiés : 23 % des agents d'entretien et des aides à domicile, souvent avec des conditions de travail difficiles (horaires atypiques, pénibilité). Environ 17 % des médecins hospitaliers sont immigrés. En Île-de-France, ils occupent près de 30 % des emplois essentiels et plus de 60 % des emplois d'agents d'entretien et d'aides à domicile.",
+      "pertinence": "Centre de recherche public en économie internationale.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles études économiques.",
+  "objections_legitimes": [
+    "L'exploitation de travailleurs sans papiers ou non déclarés exerce une pression déloyale sur certains secteurs.",
+    "Des effets faibles à court terme existent pour des travailleurs directement en concurrence."
+  ],
+  "repond_a": [
+    {
+      "id": "imm_salaires",
+      "label": "Immigration et salaires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi"
+  ],
+  "concepts": [
+    "immigration",
+    "emploi",
+    "salaires",
+    "riches_entreprises"
+  ]
+}

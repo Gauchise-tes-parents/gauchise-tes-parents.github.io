@@ -88,5 +88,37 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-07-31",
-  "raison_actualisation": "L'Insee publie ces données chaque année en été."
+  "raison_actualisation": "L'Insee publie ces données chaque année en été.",
+  "repond_a": [
+    {
+      "id": "pouvoir_achat",
+      "label": "Pouvoir d’achat et revenus du travail",
+      "partielle": true
+    },
+    {
+      "id": "pauvrete",
+      "label": "Pauvreté"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout",
+    "ont droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "pauvrete",
+    "statistiques",
+    "pouvoir_achat"
+  ]
 }

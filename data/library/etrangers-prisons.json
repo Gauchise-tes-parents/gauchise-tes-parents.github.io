@@ -157,5 +157,37 @@
   "objections_legitimes": [
     "Les étrangers sont réellement surreprésentés parmi les détenus : environ trois fois leur part dans la population.",
     "La part des étrangers en détention a augmenté sur dix ans."
+  ],
+  "repond_a": [
+    {
+      "id": "imm_prison",
+      "label": "Étrangers, immigrés et population carcérale"
+    },
+    {
+      "id": "imm_delinquance",
+      "label": "Immigration et délinquance"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "prison",
+    "patriotisme",
+    "demographie"
   ]
 }

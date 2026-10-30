@@ -135,5 +135,28 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2028-10-29",
-  "raison_actualisation": "Cadre juridique stable, mais jurisprudence et lois récentes à surveiller."
+  "raison_actualisation": "Cadre juridique stable, mais jurisprudence et lois récentes à surveiller.",
+  "repond_a": [
+    {
+      "id": "islam",
+      "label": "Islam et musulmans"
+    },
+    {
+      "id": "laicite",
+      "label": "Laïcité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "laicite",
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan"
+  ],
+  "concepts": [
+    "laicite",
+    "islam"
+  ]
 }

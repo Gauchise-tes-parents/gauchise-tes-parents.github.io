@@ -4,8 +4,21 @@
   "affirmation": "Le « judéo-bolchevisme », c'était juste de l'anticommunisme.",
   "volet": "international",
   "sous_theme": "Guerres et conflits",
-  "rubriques": ["islamo-gauchisme-laicite"],
-  "mots_cles": ["judéo-bolchevisme", "antisémitisme", "propagande", "nazisme", "vichy", "collaboration", "affiche rouge", "complot", "anticommunisme", "shoah"],
+  "rubriques": [
+    "islamo-gauchisme-laicite"
+  ],
+  "mots_cles": [
+    "judéo-bolchevisme",
+    "antisémitisme",
+    "propagande",
+    "nazisme",
+    "vichy",
+    "collaboration",
+    "affiche rouge",
+    "complot",
+    "anticommunisme",
+    "shoah"
+  ],
   "verdict": "contredit",
   "fiabilite": "etabli",
   "stabilite": "historique",
@@ -104,5 +117,28 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
-  "raison_actualisation": "Fiche historique : relecture périodique."
+  "raison_actualisation": "Fiche historique : relecture périodique.",
+  "repond_a": [
+    {
+      "id": "extreme_droite",
+      "label": "Histoire de l’extrême droite"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite",
+    "nous cachent",
+    "on nous cache",
+    "propagande",
+    "vichy",
+    "front national"
+  ],
+  "concepts": [
+    "medias",
+    "antisemitisme",
+    "extreme_droite_histoire"
+  ]
 }

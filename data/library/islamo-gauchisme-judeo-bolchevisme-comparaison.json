@@ -4,8 +4,19 @@
   "affirmation": "Dire « islamo-gauchiste », c'est exactement comme dire « judéo-bolchevique ».",
   "volet": "politique",
   "sous_theme": "Désinformation",
-  "rubriques": ["islamo-gauchisme-laicite"],
-  "mots_cles": ["islamo-gauchisme", "judéo-bolchevisme", "comparaison", "propagande", "ennemi intérieur", "amalgame", "rhétorique", "disqualification"],
+  "rubriques": [
+    "islamo-gauchisme-laicite"
+  ],
+  "mots_cles": [
+    "islamo-gauchisme",
+    "judéo-bolchevisme",
+    "comparaison",
+    "propagande",
+    "ennemi intérieur",
+    "amalgame",
+    "rhétorique",
+    "disqualification"
+  ],
   "verdict": "plutot_exact",
   "fiabilite": "debat",
   "stabilite": "historique",
@@ -119,5 +130,36 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2028-10-29",
-  "raison_actualisation": "Débat intellectuel en cours."
+  "raison_actualisation": "Débat intellectuel en cours.",
+  "repond_a": [
+    {
+      "id": "islamo_gauchisme",
+      "label": "Accusation d’islamo-gauchisme"
+    },
+    {
+      "id": "extreme_droite",
+      "label": "Histoire de l’extrême droite"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite",
+    "nous cachent",
+    "on nous cache",
+    "propagande"
+  ],
+  "concepts": [
+    "islam",
+    "medias",
+    "gauche",
+    "extreme_droite_histoire"
+  ]
 }

@@ -4,8 +4,19 @@
   "affirmation": "Aimer la France, c'est forcément être nationaliste, donc de droite.",
   "volet": "politique",
   "sous_theme": "Gauche et pluralisme politique",
-  "rubriques": ["patriotisme-de-gauche"],
-  "mots_cles": ["patriotisme", "nationalisme", "chauvinisme", "xénophobie", "nation", "patrie", "république", "orwell"],
+  "rubriques": [
+    "patriotisme-de-gauche"
+  ],
+  "mots_cles": [
+    "patriotisme",
+    "nationalisme",
+    "chauvinisme",
+    "xénophobie",
+    "nation",
+    "patrie",
+    "république",
+    "orwell"
+  ],
   "verdict": "trompeur",
   "fiabilite": "interpretation",
   "stabilite": "historique",
@@ -104,5 +115,36 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
-  "raison_actualisation": "Fiche historique et conceptuelle : relecture périodique."
+  "raison_actualisation": "Fiche historique et conceptuelle : relecture périodique.",
+  "repond_a": [
+    {
+      "id": "identite",
+      "label": "Identité et sentiment de dépossession",
+      "partielle": true
+    },
+    {
+      "id": "gauche_patrie",
+      "label": "La gauche et la patrie"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "chez nous",
+    "plus chez nous"
+  ],
+  "concepts": [
+    "patriotisme",
+    "gauche",
+    "identite"
+  ]
 }

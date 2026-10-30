@@ -4,8 +4,20 @@
   "affirmation": "Immigrés, musulmans, islamistes : c'est la même chose.",
   "volet": "immigration",
   "sous_theme": "Discriminations",
-  "rubriques": ["islamo-gauchisme-laicite"],
-  "mots_cles": ["musulmans", "immigrés", "islamistes", "amalgame", "religion", "teo2", "insee", "descendants d'immigrés", "islam politique"],
+  "rubriques": [
+    "islamo-gauchisme-laicite"
+  ],
+  "mots_cles": [
+    "musulmans",
+    "immigrés",
+    "islamistes",
+    "amalgame",
+    "religion",
+    "teo2",
+    "insee",
+    "descendants d'immigrés",
+    "islam politique"
+  ],
   "verdict": "contredit",
   "fiabilite": "etabli",
   "stabilite": "evolutive",
@@ -79,5 +91,32 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2028-03-30",
-  "raison_actualisation": "Données de l'enquête 2019-2020 : vérifier la parution de nouvelles exploitations."
+  "raison_actualisation": "Données de l'enquête 2019-2020 : vérifier la parution de nouvelles exploitations.",
+  "repond_a": [
+    {
+      "id": "islam",
+      "label": "Islam et musulmans"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "laicite"
+  ],
+  "concepts": [
+    "immigration",
+    "islam",
+    "laicite",
+    "statistiques"
+  ]
 }

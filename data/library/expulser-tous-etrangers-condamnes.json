@@ -156,5 +156,35 @@
   "objections_legitimes": [
     "Les mesures d'éloignement, en particulier les OQTF, sont très peu exécutées.",
     "Protéger les victimes et prévenir la récidive est une exigence légitime."
+  ],
+  "repond_a": [
+    {
+      "id": "execution_eloignement",
+      "label": "Exécution des mesures d’éloignement"
+    },
+    {
+      "id": "expulsion",
+      "label": "Expulsion des étrangers condamnés"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "chez eux",
+    "oqtf",
+    "reconduite",
+    "virer",
+    "dehors",
+    "remigration"
+  ],
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "justice"
   ]
 }

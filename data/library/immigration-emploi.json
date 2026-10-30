@@ -1,0 +1,182 @@
+{
+  "id": "immigration-emploi",
+  "type": "idee_recue",
+  "affirmation": "Les immigrés prennent le travail des Français.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et travail",
+  "rubriques": [],
+  "mots_cles": [
+    "prennent le travail",
+    "travail des français",
+    "emplois",
+    "emploi",
+    "chômage",
+    "immigration crée du chômage",
+    "plus d immigrés moins de travail",
+    "concurrence",
+    "marché du travail",
+    "boulot",
+    "embauche",
+    "faire venir des étrangers"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Le nombre d'emplois n'est pas un gâteau fixe : les immigrés occupent des emplois, mais ils consomment, créent de l'activité et occupent souvent des métiers peu attractifs. Les études sur la France trouvent un effet moyen nul ou positif sur l'emploi des natifs à long terme, avec des effets négatifs possibles à court terme pour les travailleurs directement en concurrence. Et le taux d'emploi des immigrés (62,4 %) est inférieur à celui des personnes sans ascendance migratoire (71,4 %).",
+  "contexte": "L'idée repose sur une image intuitive : s'il y a un nombre fixe d'emplois, chaque emploi occupé par un immigré serait retiré à un Français. Les économistes appellent cela l'erreur de la « masse fixe de travail ».",
+  "explication": "Les immigrés ne font pas qu'occuper des postes : ils consomment, paient des cotisations, créent parfois des entreprises et occupent des métiers où les employeurs peinent à recruter. Leur effet dépend du degré de concurrence avec les natifs : quand ils exercent des métiers différents, ils peuvent être complémentaires. Quand ils sont en concurrence directe, des effets négatifs locaux et temporaires sont possibles.",
+  "faits": [
+    {
+      "fait": "En 2024, le taux d'emploi des immigrés de 15 à 64 ans est de 62,4 %, contre 71,4 % pour les personnes sans ascendance migratoire directe.",
+      "periode": "2024",
+      "perimetre": "France, 15-64 ans",
+      "explication": "Les immigrés sont moins souvent en emploi que les autres : ils ne « raflent » pas les emplois.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "62,4 % / 71,4 %"
+    },
+    {
+      "fait": "Les immigrés représentent 10,3 % de l'emploi total, mais 23 % des agents d'entretien et des aides à domicile, des métiers souvent pénibles et à horaires atypiques.",
+      "periode": "2022 (données récentes)",
+      "perimetre": "France",
+      "explication": "Ils sont concentrés dans des métiers peu recherchés par les autres travailleurs.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "10,3 % / 23 %"
+    },
+    {
+      "fait": "Sur la période 1962-1999, une hausse de 10 % de la part des immigrés est associée à un taux d'emploi des natifs plus élevé d'environ 3 %, les natifs se réorientant vers des métiers mieux payés.",
+      "periode": "1962-1999",
+      "perimetre": "France",
+      "explication": "Une étude de long terme trouve un effet favorable en moyenne.",
+      "source": 2,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Sur 1990-2010, une hausse de 10 % de la part des immigrés est associée à une baisse d'environ 3 % du taux d'emploi des natifs directement en concurrence, à court terme ; à long terme, pas d'effet défavorable sur le salaire moyen des natifs.",
+      "periode": "1990-2010",
+      "perimetre": "France",
+      "explication": "Des effets négatifs existent pour certains groupes à court terme : il faut le reconnaître.",
+      "source": 3,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le travail n'est pas un gâteau fixe. Les immigrés sont moins souvent en emploi que les autres (62,4 % contre 71,4 %), et les études trouvent un effet moyen nul ou positif sur l'emploi des Français à long terme.",
+    "moyen": "Cette idée suppose qu'il y a un nombre fixe d'emplois. Ce n'est pas comme ça que marche l'économie : les immigrés consomment, cotisent, et occupent souvent des métiers où l'on manque de bras, comme l'entretien ou l'aide à domicile (23 % d'immigrés). D'ailleurs, ils sont moins souvent en emploi que les autres : 62,4 % contre 71,4 % selon l'Insee. Les études sérieuses ne trouvent pas d'effet négatif moyen à long terme ; certaines trouvent un effet négatif à court terme pour les travailleurs directement en concurrence. C'est là qu'il faut agir : formation, salaires, conditions de travail.",
+    "detaille": "L'affirmation repose sur l'idée d'une « masse fixe de travail » : si un immigré a un emploi, un Français en aurait un de moins. Or l'emploi n'est pas une quantité fixe. Les immigrés consomment, paient des cotisations, créent des entreprises et occupent des postes qui permettent à d'autres activités de fonctionner.\n\nLes chiffres de l'Insee montrent d'abord que les immigrés sont moins souvent en emploi que les autres : 62,4 % des 15-64 ans en 2024, contre 71,4 % pour les personnes sans ascendance migratoire directe. Le CEPII montre aussi qu'ils sont surreprésentés dans des métiers essentiels peu qualifiés et souvent pénibles : 23 % des agents d'entretien et des aides à domicile.\n\nQue disent les études sur l'effet de l'immigration sur l'emploi des natifs ? Sur une longue période (1962-1999), une étude de la Banque de France trouve un effet favorable : les natifs se sont orientés vers des métiers mieux payés. Une thèse portant sur 1990-2010 trouve, à court terme, une baisse du taux d'emploi des natifs directement en concurrence, et pas d'effet défavorable à long terme sur le salaire moyen.\n\nConclusion honnête : l'immigration ne « prend » pas le travail des Français en général. Mais des tensions locales et temporaires peuvent exister pour certains travailleurs. La réponse utile passe par la formation, les salaires, la lutte contre le travail illégal et les conditions de travail, pas par la désignation d'un groupe.",
+    "empathie": "Je comprends l'inquiétude : quand on cherche du travail et qu'on n'en trouve pas, on cherche une explication. Mais les chiffres montrent que les immigrés sont plutôt moins souvent en emploi que les autres, et qu'ils occupent souvent des métiers que peu de gens veulent faire. Le problème de l'emploi est réel ; je ne crois pas que ce soit la bonne cause."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il n'y a déjà pas assez de travail pour tout le monde.",
+      "reponse": "Le nombre d'emplois n'est pas fixe : en 2025, les employeurs prévoyaient encore environ 2,4 millions de projets de recrutement, dont la moitié jugés difficiles. Le chômage vient surtout de l'inadéquation entre postes, qualifications, lieux et conditions de travail."
+    },
+    {
+      "objection": "Les entreprises préfèrent embaucher des étrangers.",
+      "reponse": "Certaines études observent qu'à court terme des employeurs substituent des immigrés à des natifs de qualification proche, souvent parce qu'ils acceptent des conditions plus dures. Le problème est alors l'exploitation et les conditions de travail, qui pèsent sur tous les salariés."
+    },
+    {
+      "objection": "Pourquoi faire venir des étrangers alors qu'il y a du chômage ?",
+      "reponse": "Parce que les chômeurs et les postes vacants ne se trouvent pas toujours au même endroit, dans les mêmes métiers, avec les mêmes qualifications. La question utile est : pourquoi ces postes ne trouvent-ils pas preneur ?"
+    }
+  ],
+  "questions": [
+    "Si les immigrés prenaient le travail des Français, pourquoi sont-ils eux-mêmes moins souvent en emploi ?",
+    "Dans les métiers où l'on manque de bras, qu'est-ce qui ferait venir plus de candidats : des salaires plus hauts, de meilleures conditions ?"
+  ],
+  "limites": [
+    "Les études économétriques citées portent sur des périodes anciennes (1962-1999, 1990-2010).",
+    "Les effets dépendent des métiers, des régions et de la conjoncture : il n'existe pas de chiffre unique valable partout."
+  ],
+  "sources": [
+    {
+      "titre": "Emploi (France, portrait social, édition 2025)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612530",
+      "passage": "Taux d'emploi des 15-64 ans en 2024 : immigrés 62,4 % ; descendants d'immigrés 58,1 % ; personnes sans ascendance migratoire directe 71,4 %. En 2015 : 55,8 %, 59,2 % et 66,5 %. Une partie de l'écart des descendants s'explique par leur âge plus jeune.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Métiers essentiels : quelle contribution des travailleurs immigrés ? (La Lettre du CEPII n° 424)",
+      "organisme": "CEPII (Anthony Edo, Sonia Louhab, Lionel Ragot)",
+      "date_publication": "Février 2022",
+      "url": "https://imap.cepii.fr/PDF_PUB/lettre/2022/let424.pdf",
+      "passage": "Les immigrés représentent 10,5 % des travailleurs des métiers essentiels, pour 10,3 % de l'emploi total. Ils sont surreprésentés dans les métiers essentiels peu qualifiés : 23 % des agents d'entretien et des aides à domicile, souvent avec des conditions de travail difficiles (horaires atypiques, pénibilité). Environ 17 % des médecins hospitaliers sont immigrés. En Île-de-France, ils occupent près de 30 % des emplois essentiels et plus de 60 % des emplois d'agents d'entretien et d'aides à domicile.",
+      "pertinence": "Centre de recherche public en économie internationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Immigration and the Occupational Choice of Natives: A Factor Proportions Approach (Document de travail n° 335)",
+      "organisme": "Banque de France (Javier Ortega, Gregory Verdugo)",
+      "date_publication": "Juillet 2011",
+      "url": "https://publications.banque-france.fr/sites/default/files/medias/documents/working-paper_335_2011.pdf",
+      "passage": "France, 1962-1999 : une hausse de 10 % de la part des immigrés est associée à des salaires des natifs plus élevés d'environ 3 % et à un taux d'emploi plus élevé d'environ 3 %. Mécanisme principal : les natifs se réorientent vers des professions mieux payées ; immigrés et natifs sont des substituts imparfaits, les immigrés étant surtout en concurrence entre eux. Les effets diminuent ou deviennent non significatifs dans certaines spécifications.",
+      "pertinence": "Étude économétrique publiée par la Banque de France.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Immigration, wages and employment: Evidence from France (thèse de doctorat)",
+      "organisme": "Anthony Edo, université Paris 1 Panthéon-Sorbonne (Paris School of Economics)",
+      "date_publication": "2014",
+      "url": "https://www.parisschoolofeconomics.eu/en/publications-hal/immigration-salaires-et-emplois-quels-effets-en-france",
+      "passage": "France, 1990-2010 : à court terme, effet très faible sur les salaires des natifs de qualification proche, mais une hausse de 10 % de la part des immigrés est associée à une baisse d'environ 3 % du taux d'emploi de ces natifs « en concurrence » ; à long terme, pas d'effet défavorable sur le salaire moyen des natifs ; les natifs peu diplômés ont vu leurs salaires relatifs progresser.",
+      "pertinence": "Travail universitaire montrant des effets différenciés selon l'horizon et les groupes.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Nouvelles données Insee (novembre) et nouvelles études.",
+  "objections_legitimes": [
+    "Des effets négatifs à court terme sur l'emploi de certains travailleurs directement en concurrence sont mis en évidence par certaines études.",
+    "Le travail illégal peut tirer les conditions de travail vers le bas dans certains secteurs."
+  ],
+  "repond_a": [
+    {
+      "id": "imm_salaires",
+      "label": "Immigration et salaires"
+    },
+    {
+      "id": "imm_emploi",
+      "label": "Immigration et concurrence sur le marché du travail"
+    },
+    {
+      "id": "priorite_nationale",
+      "label": "Sentiment que les Français passent après",
+      "partielle": true
+    }
+  ],
+  "ne_repond_pas": [
+    {
+      "id": "imm_prestations",
+      "label": "Immigration et prestations sociales"
+    }
+  ],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi"
+  ],
+  "concepts": [
+    "immigration",
+    "emploi",
+    "salaires",
+    "priorite_nationale"
+  ]
+}

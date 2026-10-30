@@ -622,3 +622,23 @@ button.mode-card { cursor: pointer; }
 .sugg-tag { display: inline-block; margin-left: 6px; font-size: 0.72rem; font-weight: 700; color: var(--teal); background: #E6F6F1; border-radius: 999px; padding: 1px 8px; vertical-align: middle; }
 .sugg-actions { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin-top: 6px; }
 .sugg-actions .hint { margin: 0; font-size: var(--step--1); }
+
+/* ---- v8 : analyse argumentative ---- */
+.analyse .an-args { list-style: none; padding: 0; margin: 10px 0; display: grid; gap: 10px; }
+.an-arg { background: var(--cream); border: var(--line); border-radius: var(--r-card); padding: 12px 14px; box-shadow: var(--stamp-sm); overflow-wrap: anywhere; }
+.an-arg p { margin: 0 0 6px; }
+.an-arg--lacune { background: var(--sand); box-shadow: none; border-style: dashed; }
+.an-arg-head { font-weight: 700; }
+.an-rang { display: inline-block; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--teal); background: #E6F6F1; border-radius: 999px; padding: 1px 8px; margin-right: 6px; vertical-align: middle; }
+.an-arg--lacune .an-rang { color: var(--ink-2); background: #fff; }
+.an-seg { font-style: italic; color: var(--ink-2); font-size: var(--step--1); }
+.an-lacune { font-weight: 600; }
+.an-preuve { font-size: var(--step--1); background: #fff; border-radius: 10px; padding: 8px 10px; }
+.an-src { display: block; color: var(--ink-2); margin-top: 2px; }
+.an-imp { font-size: var(--step--1); color: var(--ink-2); }
+.an-emo ul { padding-left: 18px; }
+.an-phrase { background: var(--lemon); border: var(--line); border-radius: var(--r-card); padding: 12px 14px; margin: 12px 0; box-shadow: var(--stamp-sm); }
+.an-phrase .big-q { margin: 4px 0 8px; }
+.an-phrase-label { margin: 0; font-size: var(--step--1); font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+.an-proc { border-top: 1px dashed var(--ink-2); padding-top: 8px; margin-top: 8px; }
+.conv-ressenti { font-size: var(--step--1); background: var(--sand); border-radius: 12px; padding: 8px 12px; }

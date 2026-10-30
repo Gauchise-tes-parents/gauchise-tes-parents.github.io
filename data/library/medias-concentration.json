@@ -115,5 +115,31 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-04-29",
-  "raison_actualisation": "Paysage médiatique en évolution rapide (rachats, décisions de l'Arcom)."
+  "raison_actualisation": "Paysage médiatique en évolution rapide (rachats, décisions de l'Arcom).",
+  "repond_a": [
+    {
+      "id": "medias",
+      "label": "Défiance envers les médias"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite",
+    "nous cachent",
+    "on nous cache",
+    "propagande",
+    "gauche"
+  ],
+  "concepts": [
+    "riches_entreprises",
+    "medias",
+    "gauche"
+  ]
 }

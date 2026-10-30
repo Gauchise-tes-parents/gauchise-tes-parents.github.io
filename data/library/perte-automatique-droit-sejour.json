@@ -130,5 +130,31 @@
   "objections_legitimes": [
     "Les procédures d'examen individuel allongent les délais et peuvent sembler opaques.",
     "Pour les condamnations graves, la perte du droit au séjour est une demande légitime, déjà largement prise en compte par la loi de 2024."
+  ],
+  "repond_a": [
+    {
+      "id": "expulsion",
+      "label": "Expulsion des étrangers condamnés"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "chez eux",
+    "oqtf",
+    "reconduite",
+    "virer",
+    "dehors",
+    "remigration"
+  ],
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "justice"
   ]
 }

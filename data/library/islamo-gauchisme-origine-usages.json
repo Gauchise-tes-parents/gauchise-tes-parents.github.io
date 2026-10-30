@@ -4,8 +4,20 @@
   "affirmation": "L'islamo-gauchisme, c'est une réalité : la gauche est complice des islamistes.",
   "volet": "droits",
   "sous_theme": "Laïcité",
-  "rubriques": ["islamo-gauchisme-laicite"],
-  "mots_cles": ["islamo-gauchisme", "taguieff", "cnrs", "vidal", "blanquer", "université", "chavalarias", "extrême droite", "accusation"],
+  "rubriques": [
+    "islamo-gauchisme-laicite"
+  ],
+  "mots_cles": [
+    "islamo-gauchisme",
+    "taguieff",
+    "cnrs",
+    "vidal",
+    "blanquer",
+    "université",
+    "chavalarias",
+    "extrême droite",
+    "accusation"
+  ],
   "verdict": "trompeur",
   "fiabilite": "debat",
   "stabilite": "historique",
@@ -138,5 +150,35 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-10-29",
-  "raison_actualisation": "Usage politique du terme susceptible d'évoluer ; vérifier l'issue des procédures."
+  "raison_actualisation": "Usage politique du terme susceptible d'évoluer ; vérifier l'issue des procédures.",
+  "repond_a": [
+    {
+      "id": "islamo_gauchisme",
+      "label": "Accusation d’islamo-gauchisme"
+    }
+  ],
+  "ne_repond_pas": [
+    {
+      "id": "islam_expression",
+      "label": "Islam et liberté d’expression"
+    }
+  ],
+  "synonymes": [
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "laicite",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis"
+  ],
+  "concepts": [
+    "islam",
+    "laicite",
+    "gauche"
+  ]
 }

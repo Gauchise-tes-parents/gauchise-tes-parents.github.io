@@ -111,5 +111,43 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-04-29",
-  "raison_actualisation": "Sujet d'actualité politique : vérifier les nouveaux faits, déclarations et décisions."
+  "raison_actualisation": "Sujet d'actualité politique : vérifier les nouveaux faits, déclarations et décisions.",
+  "repond_a": [
+    {
+      "id": "melenchon",
+      "label": "Critiques visant Jean-Luc Mélenchon"
+    },
+    {
+      "id": "impots_riches",
+      "label": "Fiscalité, riches et entreprises",
+      "partielle": true
+    },
+    {
+      "id": "fiscalite",
+      "label": "Impôts"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise",
+    "nupes",
+    "nfp",
+    "gauche",
+    "gauchos"
+  ],
+  "concepts": [
+    "fiscalite",
+    "melenchon_lfi",
+    "gauche",
+    "cout",
+    "dette",
+    "riches_entreprises"
+  ]
 }

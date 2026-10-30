@@ -1,0 +1,146 @@
+{
+  "id": "chomage-penurie-recrutement",
+  "type": "reference",
+  "affirmation": "Il y a du chômage, mais les entreprises disent qu'elles ne trouvent personne.",
+  "volet": "social",
+  "sous_theme": "Chômage",
+  "rubriques": [],
+  "mots_cles": [
+    "ne trouvent personne",
+    "pénurie",
+    "métiers en tension",
+    "difficultés de recrutement",
+    "emplois vacants",
+    "chômage et pénurie",
+    "offres non pourvues",
+    "recrutement",
+    "manque de main d oeuvre"
+  ],
+  "verdict": null,
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les deux sont vrais en même temps : en 2025, la moitié des 2,43 millions de projets de recrutement sont jugés difficiles par les employeurs (France Travail), alors que le chômage persiste. Ce n'est pas une contradiction : les postes, les chômeurs, les qualifications, les lieux et les conditions de travail ne coïncident pas toujours.",
+  "contexte": "Cette phrase sert souvent à dire que « les chômeurs ne veulent pas travailler », ou au contraire que « les entreprises mentent ». Les données montrent une réalité plus simple : un décalage entre offres et demandes d'emploi.",
+  "explication": "Les difficultés de recrutement portent sur des secteurs précis (commerce et réparation automobile, construction, santé et action sociale) et ont plusieurs causes : manque de candidats formés, éloignement géographique, horaires et pénibilité, salaires peu attractifs, moyens financiers limités des employeurs.",
+  "faits": [
+    {
+      "fait": "En 2025, les employeurs prévoient environ 2,43 millions de projets de recrutement, dont 50,1 % jugés difficiles.",
+      "periode": "2025",
+      "perimetre": "France, établissements employeurs",
+      "explication": "La moitié des embauches prévues sont jugées difficiles, un niveau revenu à celui de 2019.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2,43 millions ; 50,1 %"
+    },
+    {
+      "fait": "Les difficultés sont les plus fortes dans le commerce et la réparation automobile (69,7 %), la construction (66,1 %) et la santé et l'action sociale (63 %).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les tensions sont concentrées dans certains secteurs.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La première cause de difficulté citée est le manque de candidats ou de candidats adaptés ; 27 % des employeurs anticipant des difficultés citent aussi un manque de moyens financiers.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les difficultés tiennent aussi aux moyens et aux conditions proposées.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "27 %"
+    },
+    {
+      "fait": "Les métiers essentiels peu qualifiés, comme l'entretien et l'aide à domicile, cumulent souvent pénibilité et horaires atypiques.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les conditions de travail pèsent sur l'attractivité de certains métiers.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les deux sont vrais : la moitié des recrutements prévus en 2025 sont jugés difficiles (France Travail), et le chômage persiste. C'est un décalage entre postes, compétences, lieux et conditions de travail, pas une preuve que les chômeurs ne veulent pas travailler.",
+    "moyen": "Ce n'est pas une contradiction. Selon France Travail, 50,1 % des 2,43 millions de projets de recrutement de 2025 sont jugés difficiles, surtout dans le commerce et l'automobile, le bâtiment et la santé. Pendant ce temps, des chômeurs ne trouvent pas d'emploi. Pourquoi ? Les postes ne sont pas forcément là où vivent les chômeurs, ne demandent pas les mêmes qualifications, et certains offrent des horaires et des salaires peu attractifs. Les employeurs eux-mêmes citent aussi le manque de moyens.",
+    "detaille": "La phrase pointe un vrai paradoxe apparent. Les deux constats sont exacts.\n\nD'un côté, l'enquête Besoins en main-d'œuvre de France Travail recense environ 2,43 millions de projets de recrutement pour 2025, dont 50,1 % jugés difficiles. Les difficultés sont fortes dans le commerce et la réparation automobile (69,7 %), la construction (66,1 %) et la santé et l'action sociale (63 %). De l'autre, le chômage persiste.\n\nL'explication tient au décalage entre offres et demandes : qualifications différentes, éloignement géographique, contraintes de mobilité ou de garde d'enfants, horaires atypiques, pénibilité, salaires peu attractifs. Les employeurs citent d'abord le manque de candidats adaptés, mais 27 % évoquent aussi leurs propres moyens financiers limités.\n\nCe constat ne prouve ni que les chômeurs « ne veulent pas travailler », ni que les entreprises mentent. Il appelle des réponses concrètes : formation, mobilité, logement, salaires et conditions de travail dans les métiers concernés.",
+    "empathie": "Tu as raison, c'est déroutant : des patrons qui cherchent, des gens qui cherchent aussi. En regardant de près, ils ne se cherchent pas au même endroit, ni pour les mêmes métiers, ni aux mêmes conditions. Ce n'est la faute ni des uns ni des autres en bloc."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est la preuve que les chômeurs ne veulent pas travailler.",
+      "reponse": "Non : les difficultés sont concentrées dans certains secteurs et tiennent aussi aux qualifications, à la distance, aux horaires et aux salaires. Et 27 % des employeurs évoquent leur propre manque de moyens."
+    },
+    {
+      "objection": "Il suffit de faire venir des immigrés pour ces postes.",
+      "reponse": "C'est une réponse possible pour certains métiers, mais elle ne règle pas les causes : conditions de travail, salaires, formation. Ces leviers concernent aussi les travailleurs déjà présents."
+    }
+  ],
+  "questions": [
+    "Si un poste reste vacant, qu'est-ce qui le rendrait plus attractif selon toi ?",
+    "Les chômeurs de ta région ont-ils les qualifications demandées par les entreprises qui recrutent ?"
+  ],
+  "limites": [
+    "Un projet jugé difficile n'est pas forcément un poste non pourvu.",
+    "L'enquête porte sur des intentions d'embauche déclarées par les employeurs."
+  ],
+  "sources": [
+    {
+      "titre": "Besoins en main-d'œuvre 2025 : résultats de l'enquête (communiqué)",
+      "organisme": "France Travail",
+      "date_publication": "11 avril 2025",
+      "url": "https://www.francetravail.org/accueil/communiques/2025/besoins-en-main-d-oeuvre-bmo-2025.html?type=article",
+      "passage": "Environ 2,43 millions de projets de recrutement en 2025 (en baisse de 12,5 %) ; 50,1 % jugés difficiles par les employeurs ; difficultés les plus fortes dans le commerce et la réparation automobile (69,7 %), la construction (66,1 %) et la santé et l'action sociale (63 %) ; principale cause : manque de candidats ou candidats inadaptés ; 27 % des employeurs anticipant des difficultés citent aussi un manque de moyens financiers.",
+      "pertinence": "Enquête annuelle de référence auprès des employeurs.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Métiers essentiels : quelle contribution des travailleurs immigrés ? (La Lettre du CEPII n° 424)",
+      "organisme": "CEPII (Anthony Edo, Sonia Louhab, Lionel Ragot)",
+      "date_publication": "Février 2022",
+      "url": "https://imap.cepii.fr/PDF_PUB/lettre/2022/let424.pdf",
+      "passage": "Les immigrés représentent 10,5 % des travailleurs des métiers essentiels, pour 10,3 % de l'emploi total. Ils sont surreprésentés dans les métiers essentiels peu qualifiés : 23 % des agents d'entretien et des aides à domicile, souvent avec des conditions de travail difficiles (horaires atypiques, pénibilité). Environ 17 % des médecins hospitaliers sont immigrés. En Île-de-France, ils occupent près de 30 % des emplois essentiels et plus de 60 % des emplois d'agents d'entretien et d'aides à domicile.",
+      "pertinence": "Centre de recherche public en économie internationale.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Nouvelle enquête BMO chaque printemps.",
+  "repond_a": [
+    {
+      "id": "imm_emploi",
+      "label": "Immigration et concurrence sur le marché du travail"
+    },
+    {
+      "id": "chomage_penurie",
+      "label": "Chômage et difficultés de recrutement"
+    },
+    {
+      "id": "travail_effort",
+      "label": "Les Français ne voudraient plus travailler"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "trouvent personne",
+    "trouve personne",
+    "trouvent pas de candidats",
+    "patronat",
+    "grands groupes"
+  ],
+  "concepts": [
+    "emploi",
+    "penurie",
+    "riches_entreprises",
+    "immigration",
+    "travail_effort"
+  ]
+}

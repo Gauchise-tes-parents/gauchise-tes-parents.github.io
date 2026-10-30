@@ -16,6 +16,13 @@ Ligne éditoriale assumée de gauche, avec une règle non négociable : aucun fa
 
 ---
 
+## Nouveautés v8
+
+- **Moteur d'analyse argumentative** (`public/js/analyse.js`, `public/js/cartographie.js`) : 38 concepts (428 mots-clés, expressions, synonymes, fautes), 37 arguments, 9 émotions, 12 procédés. Une phrase peut contenir plusieurs arguments ; chacun reçoit la fiche qui y répond vraiment, ou une lacune reconnue — jamais une fiche voisine présentée comme une réponse.
+- **Panneau « Ce que contient la phrase »** : arguments, données sourcées, sous-entendus, liens de cause, émotions, procédés, phrase marquante, question, fiches écartées et pourquoi.
+- **Métadonnées des fiches** (`npm run enrichir`) : concepts, arguments auxquels la fiche répond et ne répond pas, synonymes.
+- **180 phrases de test** (`tests/comprehension/`, `npm run rapport:comprehension`) : voir `RAPPORT-V8.md` et `rapports/tests-comprehension.md`.
+
 ## Nouveautés v7
 
 - **Suggestions spécialisées** : 764 affirmations à examiner réparties sur les 127 sous-thèmes (au moins 6 par sous-thème), choisies selon le mode, le cadre et l'interlocuteur, renouvelables avec « Autres affirmations », disponibles hors ligne, validées automatiquement (`auditSuggestions`).

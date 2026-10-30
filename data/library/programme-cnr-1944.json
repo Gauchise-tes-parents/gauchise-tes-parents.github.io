@@ -4,8 +4,19 @@
   "affirmation": "Le modèle social français, c'est une invention de gauchistes qui a ruiné le pays.",
   "volet": "international",
   "sous_theme": "Histoire sociale",
-  "rubriques": ["patriotisme-de-gauche"],
-  "mots_cles": ["cnr", "conseil national de la résistance", "jours heureux", "15 mars 1944", "programme", "nationalisations", "sécurité sociale", "démocratie sociale"],
+  "rubriques": [
+    "patriotisme-de-gauche"
+  ],
+  "mots_cles": [
+    "cnr",
+    "conseil national de la résistance",
+    "jours heureux",
+    "15 mars 1944",
+    "programme",
+    "nationalisations",
+    "sécurité sociale",
+    "démocratie sociale"
+  ],
   "verdict": "trompeur",
   "fiabilite": "etabli",
   "stabilite": "historique",
@@ -104,5 +115,23 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
-  "raison_actualisation": "Fiche historique : relecture périodique."
+  "raison_actualisation": "Fiche historique : relecture périodique.",
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis"
+  ],
+  "concepts": [
+    "patriotisme",
+    "gauche"
+  ]
 }

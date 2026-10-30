@@ -4,8 +4,20 @@
   "affirmation": "La Sécu, c'est un cadeau de l'État qu'on ne peut plus se payer.",
   "volet": "services",
   "sous_theme": "Assurance maladie",
-  "rubriques": ["patriotisme-de-gauche"],
-  "mots_cles": ["sécurité sociale", "1945", "ordonnances", "croizat", "laroque", "parodi", "cotisations", "assurance maladie", "retraite"],
+  "rubriques": [
+    "patriotisme-de-gauche"
+  ],
+  "mots_cles": [
+    "sécurité sociale",
+    "1945",
+    "ordonnances",
+    "croizat",
+    "laroque",
+    "parodi",
+    "cotisations",
+    "assurance maladie",
+    "retraite"
+  ],
   "verdict": "trompeur",
   "fiabilite": "etabli",
   "stabilite": "historique",
@@ -104,5 +116,24 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
-  "raison_actualisation": "Fiche historique : relecture périodique."
+  "raison_actualisation": "Fiche historique : relecture périodique.",
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout",
+    "ont droit a tout"
+  ],
+  "concepts": [
+    "prestations"
+  ]
 }

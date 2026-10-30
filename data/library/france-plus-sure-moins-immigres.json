@@ -114,5 +114,32 @@
   "objections_legitimes": [
     "Certaines formes de délinquance sont associées à des parcours migratoires précaires ou à des filières criminelles organisées.",
     "Les étrangers sont surreprésentés parmi les mis en cause et les détenus."
+  ],
+  "repond_a": [
+    {
+      "id": "imm_delinquance",
+      "label": "Immigration et délinquance"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "prison",
+    "statistiques"
   ]
 }

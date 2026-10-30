@@ -121,5 +121,32 @@
   "objections_legitimes": [
     "L'éloignement des auteurs dangereux, quand il est exécuté, retire effectivement ces personnes du territoire.",
     "La faible exécution des OQTF est un vrai problème de crédibilité de l'État."
+  ],
+  "repond_a": [
+    {
+      "id": "expulsion",
+      "label": "Expulsion des étrangers condamnés"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "expulsion",
+    "justice"
   ]
 }

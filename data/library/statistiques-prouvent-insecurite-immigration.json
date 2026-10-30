@@ -120,5 +120,37 @@
   "raison_actualisation": "Nouvelles séries statistiques ou études causales.",
   "objections_legitimes": [
     "La surreprésentation des étrangers parmi les mis en cause est un fait statistique exact."
+  ],
+  "repond_a": [
+    {
+      "id": "imm_delinquance",
+      "label": "Immigration et délinquance"
+    }
+  ],
+  "ne_repond_pas": [
+    {
+      "id": "imm_logement",
+      "label": "Immigration et logement"
+    }
+  ],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "prison",
+    "statistiques"
   ]
 }

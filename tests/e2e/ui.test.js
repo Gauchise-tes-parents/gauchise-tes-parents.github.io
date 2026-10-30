@@ -455,6 +455,40 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.close();
   });
 
+  test('v8 — analyse de la phrase : emploi ≠ aides, plusieurs arguments, lacune reconnue, sans débordement', async () => {
+    const page = await newPage(browser, PHONE, errors);
+    const express = async (t) => {
+      await page.goto(`${s.base}/#/`);
+      await page.locator('#express-mini-text').fill(t);
+      await page.getByRole('button', { name: 'Sortir une réplique' }).click();
+      await page.locator('.analyse').waitFor();
+    };
+    // démonstration : la fiche emploi est retenue, la fiche « aides » est écartée avec sa raison
+    await express('Plus il y a d’immigrés, moins il y a de travail pour les Français.');
+    assert.ok(await page.locator('a[href="#/bibliotheque/immigration-emploi"]').first().isVisible());
+    assert.match(await page.locator('.claim-reform').textContent(), /Les immigrés prennent le travail des Français/);
+    await page.locator('.an-ecartees > summary').click();
+    const ecart = await page.locator('.an-ecartees').textContent();
+    assert.match(ecart, /Les immigrés touchent plus d'aides/);
+    assert.match(ecart, /pas de : emploi/);
+    assert.match(await page.locator('.an-phrase').textContent(), /Question à poser/);
+    assert.ok((await overflow(page)) <= 1);
+    // deux sujets : deux cartes, chacune avec sa fiche et sa source
+    await express('Les immigrés prennent le travail des Français et en plus ils viennent toucher le RSA.');
+    assert.equal(await page.locator('.an-arg').count(), 2);
+    const sec = page.locator('.an-arg').nth(1);
+    assert.match(await sec.textContent(), /prestations sociales/);
+    assert.ok(await sec.locator('a[href="#/bibliotheque/immigres-aides"]').isVisible());
+    assert.ok(await sec.locator('.an-src a').first().isVisible(), 'la donnée secondaire est sourcée');
+    // lacune : aucune fiche voisine présentée comme réponse
+    await express('On ne peut plus se loger à cause de l’immigration.');
+    await page.getByRole('heading', { name: 'Pas encore dans la bibliothèque' }).waitFor();
+    assert.match(await page.locator('.verdict-summary').textContent(), /immigration et logement/);
+    assert.equal(await page.locator('.analyse a[href="#/bibliotheque/immigres-aides"]').count() - await page.locator('.an-ecartees a[href="#/bibliotheque/immigres-aides"]').count(), 0);
+    assert.match(await page.locator('.analyse').textContent(), /Ce qui peut se jouer derrière/);
+    await page.close();
+  });
+
   test('question non couverte : message simple, sans fausse erreur de connexion', async () => {
     const page = await newPage(browser, PHONE, errors);
     await page.goto(`${s.base}/#/express`);

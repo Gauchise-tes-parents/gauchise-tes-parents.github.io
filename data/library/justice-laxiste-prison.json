@@ -108,5 +108,39 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-07-31",
-  "raison_actualisation": "Statistiques mensuelles et annuelles du ministère de la Justice."
+  "raison_actualisation": "Statistiques mensuelles et annuelles du ministère de la Justice.",
+  "repond_a": [
+    {
+      "id": "insecurite",
+      "label": "Insécurité et justice"
+    },
+    {
+      "id": "justice_laxiste",
+      "label": "Justice jugée laxiste"
+    }
+  ],
+  "ne_repond_pas": [
+    {
+      "id": "imm_prison",
+      "label": "Étrangers, immigrés et population carcérale"
+    }
+  ],
+  "synonymes": [
+    "taule",
+    "zonzon",
+    "barreaux",
+    "justice",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ],
+  "concepts": [
+    "prison",
+    "justice",
+    "delinquance"
+  ]
 }

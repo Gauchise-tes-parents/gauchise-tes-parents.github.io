@@ -4,8 +4,20 @@
   "affirmation": "Si tu critiques la France ou ses gouvernements, c'est que tu ne l'aimes pas.",
   "volet": "politique",
   "sous_theme": "Histoire politique contemporaine",
-  "rubriques": ["patriotisme-de-gauche"],
-  "mots_cles": ["patriotisme", "critique", "jaurès", "union sacrée", "internationalisme", "souverainisme de gauche", "chevènement", "maastricht", "débats de la gauche"],
+  "rubriques": [
+    "patriotisme-de-gauche"
+  ],
+  "mots_cles": [
+    "patriotisme",
+    "critique",
+    "jaurès",
+    "union sacrée",
+    "internationalisme",
+    "souverainisme de gauche",
+    "chevènement",
+    "maastricht",
+    "débats de la gauche"
+  ],
   "verdict": "trompeur",
   "fiabilite": "interpretation",
   "stabilite": "historique",
@@ -105,5 +117,31 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2029-10-29",
-  "raison_actualisation": "Fiche historique : relecture périodique."
+  "raison_actualisation": "Fiche historique : relecture périodique.",
+  "repond_a": [
+    {
+      "id": "gauche_patrie",
+      "label": "La gauche et la patrie"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "bruxelles",
+    "union europeenne"
+  ],
+  "concepts": [
+    "patriotisme",
+    "gauche",
+    "europe"
+  ]
 }

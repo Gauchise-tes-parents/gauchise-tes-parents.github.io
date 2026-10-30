@@ -107,5 +107,37 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-03-31",
-  "raison_actualisation": "Données trimestrielles et annuelles qui évoluent vite."
+  "raison_actualisation": "Données trimestrielles et annuelles qui évoluent vite.",
+  "repond_a": [
+    {
+      "id": "impots_riches",
+      "label": "Fiscalité, riches et entreprises",
+      "partielle": true
+    },
+    {
+      "id": "pouvoir_achat",
+      "label": "Pouvoir d’achat et revenus du travail",
+      "partielle": true
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "patronat",
+    "grands groupes",
+    "creent les emplois"
+  ],
+  "concepts": [
+    "salaires",
+    "riches_entreprises",
+    "pouvoir_achat"
+  ]
 }

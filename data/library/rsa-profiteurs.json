@@ -99,5 +99,38 @@
   ],
   "derniere_verification": "2026-10-29",
   "a_actualiser_le": "2027-05-06",
-  "raison_actualisation": "La DREES actualise régulièrement sa mesure du non-recours."
+  "raison_actualisation": "La DREES actualise régulièrement sa mesure du non-recours.",
+  "repond_a": [
+    {
+      "id": "assistanat",
+      "label": "Assistanat et aides sociales"
+    }
+  ],
+  "ne_repond_pas": [
+    {
+      "id": "imm_emploi",
+      "label": "Immigration et concurrence sur le marché du travail"
+    },
+    {
+      "id": "imm_finances",
+      "label": "Coût de l’immigration pour les finances publiques"
+    }
+  ],
+  "synonymes": [
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout",
+    "ont droit a tout"
+  ],
+  "concepts": [
+    "prestations"
+  ]
 }
