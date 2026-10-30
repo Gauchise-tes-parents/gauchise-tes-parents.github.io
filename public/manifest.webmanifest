@@ -1,0 +1,13 @@
+{
+  "name": "Gauchise tes parents",
+  "short_name": "Gauchise",
+  "description": "Ils ont leurs certitudes. Tu as les sources.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF7E6",
+  "theme_color": "#2B1A5C",
+  "lang": "fr",
+  "icons": [
+    { "src": "img/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "lfi-contre-police",
+  "type": "reponse_critique",
+  "affirmation": "LFI est contre la police.",
+  "volet": "securite",
+  "sous_theme": "Police et gendarmerie",
+  "rubriques": [
+    "melenchon-lfi"
+  ],
+  "mots_cles": [
+    "lfi",
+    "mélenchon",
+    "police",
+    "la police tue",
+    "policiers",
+    "violences policières",
+    "bac",
+    "igpn",
+    "refus d obtempérer",
+    "anti-flic"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "reproche": "On reproche à LFI d'être hostile aux forces de l'ordre. Le reproche s'appuie sur la formule « La police tue » de Jean-Luc Mélenchon en juin 2022, et sur les accusations systématiques contre la police citées par le ministre de l'Intérieur en 2026.",
+  "resume": "Le programme de LFI ne propose pas de supprimer la police : il propose une police de proximité, le démantèlement des BAC et le remplacement de l'IGPN par une autorité indépendante. Mais certaines déclarations, comme « La police tue » en 2022, généralisent et ont été vivement dénoncées ; en 2026, le ministre de l'Intérieur a cité des accusations systématiques contre la police pour justifier le classement de LFI à l'extrême gauche.",
+  "contexte": "En juin 2022, à Paris, des policiers tirent sur une voiture qui refusait d'obtempérer, tuant une passagère. Jean-Luc Mélenchon réagit par « La police tue ». Le débat sur les violences policières et les refus d'obtempérer est récurrent depuis.",
+  "explication": "Critiquer des pratiques policières ou demander un contrôle indépendant n'est pas être contre la police. Généraliser à toute l'institution des faits individuels est, en revanche, un raccourci critiquable.",
+  "faits": [
+    {
+      "fait": "Le programme L'Avenir en commun (2022) propose une police de proximité, le démantèlement des brigades anticriminalité (BAC) et le remplacement de l'IGPN par une institution indépendante.",
+      "periode": "2022",
+      "perimetre": "Programme (source partisane)",
+      "explication": "Le programme réforme la police, il ne la supprime pas.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En juin 2022, après des tirs policiers à Paris ayant tué une passagère, Jean-Luc Mélenchon déclare « La police tue » ; Gérald Darmanin dénonce des insultes ; Manuel Bompard affirme que LFI n'est pas opposée à la police.",
+      "periode": "Juin 2022",
+      "perimetre": "Paris",
+      "explication": "Une formule générale qui a nourri le reproche.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2026, le ministre de l'Intérieur justifie le classement de LFI à « l'extrême gauche » notamment par des accusations systématiques contre la police ; le Conseil d'État juge ce classement non manifestement erroné.",
+      "periode": "Février 2026",
+      "perimetre": "Nuançage des municipales",
+      "explication": "L'administration retient ce trait comme un marqueur politique.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "citations": [
+    {
+      "auteur": "Jean-Luc Mélenchon",
+      "texte": "La police tue",
+      "date": "Juin 2022",
+      "contexte": "Après des tirs policiers sur une voiture à Paris ayant tué une passagère.",
+      "source": 1
+    }
+  ],
+  "argumentaires": {
+    "court": "LFI ne propose pas de supprimer la police, mais de la réorganiser : police de proximité et contrôle indépendant. Dire « la police tue », par contre, c'est une généralisation que je trouve injuste pour les policiers qui font bien leur travail.",
+    "moyen": "Le programme de LFI ne dit pas « moins de police » : il propose une police de proximité, la fin des BAC et un organisme indépendant pour contrôler les policiers, à la place de l'IGPN qui dépend du ministère. On peut être d'accord ou pas, mais c'est une réforme. Par contre, quand Mélenchon dit « La police tue » en 2022, il généralise à toute l'institution un drame précis, et ça a choqué, y compris des gens qui veulent qu'on enquête sur les violences policières. On peut demander que les bavures soient sanctionnées sans mettre tous les policiers dans le même sac.",
+    "detaille": "Le reproche s'appuie sur des déclarations réelles. En juin 2022, après que des policiers ont tiré sur une voiture à Paris, tuant une passagère, Jean-Luc Mélenchon lance : « La police tue ». Gérald Darmanin dénonce des insultes ; Manuel Bompard répond que LFI n'est pas opposée à la police. En 2026, le ministre de l'Intérieur Laurent Nuñez cite des accusations systématiques contre la police parmi les raisons de classer LFI à « l'extrême gauche » pour les municipales.\n\nLe programme, lui, ne propose pas de supprimer les forces de l'ordre. L'Avenir en commun prévoit une police de proximité, le démantèlement des BAC, dont les méthodes sont critiquées, et le remplacement de l'IGPN, qui dépend du ministère, par une institution indépendante chargée d'enquêter sur les policiers. Ce sont des réformes discutables, mais ce sont des réformes.\n\nPour rester juste, il faut distinguer trois choses : la critique de pratiques précises, légitime dans une démocratie ; la demande de contrôle indépendant, qui existe dans d'autres pays ; et les formules qui généralisent un drame à toute l'institution, qui blessent les policiers et rendent le débat plus difficile.",
+    "empathie": "Je comprends que ça te mette en colère : beaucoup de policiers font un travail dur et dangereux. Je pense aussi que « la police tue » est une formule injuste. Mais vouloir qu'un organisme indépendant enquête sur les bavures, c'est aussi protéger les policiers honnêtes."
+  },
+  "formulation_table": "LFI ne propose pas de supprimer la police, mais de la réorganiser : police de proximité et contrôle indépendant. Dire « la police tue », par contre, c'est une généralisation que je trouve injuste pour les policiers qui font bien leur travail.",
+  "objections_legitimes": [
+    "« La police tue » généralise à toute une institution des faits individuels.",
+    "Démanteler les BAC sans alternative précise pourrait affaiblir la lutte contre certaines formes de délinquance ; c'est une objection de politique publique.",
+    "Le ministre de l'Intérieur et le Conseil d'État ont retenu des accusations systématiques contre la police comme un marqueur politique."
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Ils ne soutiennent jamais les policiers blessés.",
+      "reponse": "La fiche ne dispose pas de recensement des réactions de LFI à ce sujet ; il faudrait vérifier au cas par cas plutôt que généraliser."
+    },
+    {
+      "objection": "Un contrôle indépendant, c'est de la défiance.",
+      "reponse": "C'est un débat : ses partisans y voient une garantie d'impartialité qui renforce la confiance envers la police."
+    }
+  ],
+  "questions": [
+    "Qui devrait enquêter sur une bavure : la police elle-même ou un organisme indépendant ?",
+    "Peut-on soutenir la police et critiquer certaines pratiques en même temps ?"
+  ],
+  "limites": [
+    "La source sur « La police tue » est une chronique d'opinion ; seuls les faits qu'elle rapporte sont repris.",
+    "Les positions de LFI sur la police après 2022 ne sont documentées ici que par les motifs du ministère en 2026."
+  ],
+  "sources": [
+    {
+      "titre": "L'Avenir en commun — programme abrégé (2022)",
+      "organisme": "Union populaire / La France insoumise (source partisane)",
+      "date_publication": "Avril 2022",
+      "url": "https://melenchon.fr/wp-content/uploads/2022/04/programme-avenir-en-commun-abrege.pdf",
+      "passage": "Assemblée constituante convoquée par référendum (art. 11), membres élus ou tirés au sort ; RIC législatif, abrogatoire, constitutionnel et révocatoire (p. 5) ; combattre « les communautarismes et l'usage politique des religions », supprimer le financement public des cultes en Alsace-Moselle (p. 5) ; SMIC à 1 400 € net (p. 6) ; retraite à 60 ans avec 40 annuités (p. 10) ; police de proximité, démantèlement des BAC, remplacement de l'IGPN par une autorité indépendante (p. 18).",
+      "pertinence": "Texte du programme lui-même : il dit ce que LFI propose, pas ce qui est réalisable.",
+      "type": "partisane",
+      "consultee": true
+    },
+    {
+      "titre": "Propos de Jean-Luc Mélenchon sur la police : « Un Premier ministre ne devrait pas dire ça » (chronique de Nicolas Beytout)",
+      "organisme": "Europe 1 (chronique d'opinion)",
+      "date_publication": "7 juin 2022",
+      "url": "https://www.europe1.fr/politique/propos-de-jean-luc-melenchon-sur-la-police-un-premier-ministre-ne-devrait-pas-dire-ca-4116080",
+      "passage": "« La police tue » après des tirs policiers sur une voiture à Paris ayant tué une passagère ; Gérald Darmanin dénonce des insultes ; Manuel Bompard affirme que LFI n'est pas opposée à la police.",
+      "pertinence": "Chronique d'opinion : les faits rapportés sont utilisés, pas le jugement du chroniqueur.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Municipales : le Conseil d'État confirme le nuançage « aux extrêmes » de LFI et de l'UDR",
+      "organisme": "Banque des Territoires (Caisse des dépôts)",
+      "date_publication": "2 mars 2026",
+      "url": "https://www.banquedesterritoires.fr/municipales-le-conseil-detat-confirme-le-nuancage-aux-extremes-de-lfi-et-de-ludr",
+      "passage": "Rejet des recours de LFI et de l'UDR contre la circulaire de nuançage des municipales 2026 : pas d'« erreur manifeste d'appréciation » ; motifs avancés par le ministre de l'Intérieur : « remise en cause très forte de l'autorité judiciaire » et accusations systématiques contre la police ; LFI classée à gauche jusque-là (décision de 2024) ; décisions n° 512694, 512695, 512981 et 512983.",
+      "pertinence": "Presse spécialisée des collectivités, références des décisions.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-04-29",
+  "raison_actualisation": "Sujet d'actualité politique : vérifier les nouveaux faits, déclarations et décisions."
+}

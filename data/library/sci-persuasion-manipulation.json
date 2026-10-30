@@ -1,0 +1,98 @@
+{
+  "id": "sci-persuasion-manipulation",
+  "type": "science",
+  "affirmation": "Convaincre, c'est forcément manipuler.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "manipulation",
+    "persuasion",
+    "éthique",
+    "convaincre",
+    "information",
+    "débat",
+    "coercition",
+    "propagande"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "robustesse": "robuste",
+  "resume": "La philosophie distingue la persuasion rationnelle (donner de bonnes raisons), la coercition (forcer ou menacer) et la manipulation, qui se situe entre les deux. Selon les approches recensées par la Stanford Encyclopedia of Philosophy, la manipulation contourne la raison, trompe ou exerce une pression non coercitive. Informer, débattre et persuader honnêtement ne sont pas manipuler.",
+  "contexte": "La question de l'éthique de la persuasion se pose dès qu'on adapte ses arguments à un interlocuteur : où passe la limite ?",
+  "explication": "Adapter la forme d'un argument au tempérament de quelqu'un n'est pas manipuler, tant que les faits sont exacts, que la personne peut les vérifier et qu'on ne fait pas pression sur elle.",
+  "faits": [
+    {
+      "fait": "L'entrée « The Ethics of Manipulation » situe la manipulation entre la persuasion rationnelle, qui donne de bonnes raisons, et la coercition, qui passe par la force ou la menace.",
+      "periode": "2018-2026",
+      "perimetre": "Philosophie morale",
+      "explication": "Persuader avec de bonnes raisons n'est pas manipuler.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Trois grandes approches définissent la manipulation : contourner la raison, tromper (faire adopter une croyance fausse, une émotion injustifiée ou une mauvaise raison), ou exercer une pression non coercitive (chantage affectif, harcèlement).",
+      "periode": "2018-2026",
+      "perimetre": "Philosophie morale",
+      "explication": "Ces critères servent de garde-fous à l'application.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Convaincre avec des faits vrais et vérifiables, ce n'est pas manipuler. Manipuler, c'est tromper, contourner la réflexion ou faire pression.",
+    "moyen": "On peut distinguer quatre choses : informer (donner des faits), débattre (confronter des arguments), persuader (chercher à convaincre avec de bonnes raisons) et manipuler. La philosophie morale définit la manipulation comme ce qui contourne la raison, trompe ou fait pression sans aller jusqu'à la contrainte. Adapter son ton à quelqu'un qui se braque ou partir de ses valeurs n'est pas manipuler, tant que les faits sont exacts, présentés honnêtement et que l'autre reste libre de conclure.",
+    "detaille": "Robert Noggle, dans la Stanford Encyclopedia of Philosophy, présente la manipulation comme une forme d'influence située entre la persuasion rationnelle et la coercition. Trois grandes familles d'explications coexistent : la manipulation contournerait la délibération rationnelle ; elle tromperait, en faisant adopter une croyance fausse, une émotion injustifiée ou une mauvaise raison ; ou elle exercerait une pression non coercitive, comme le chantage affectif. Aucune définition ne fait consensus, et l'entrée souligne que certains appels aux émotions ne sont pas manipulateurs.\n\nPour Gauchise tes parents, cette distinction fixe des règles : pas de faits inexacts, pas de chiffres sans source, pas de chantage affectif, pas d'exploitation d'une vulnérabilité, et toujours la possibilité pour l'interlocuteur de vérifier et de rester en désaccord. Les stratégies adaptées aux profils servent à rendre un argument audible, pas à court-circuiter le jugement.",
+    "empathie": "Je ne veux pas te piéger. Je te donne mes sources, tu vérifies, et si tu n'es pas d'accord, ce n'est pas grave."
+  },
+  "application": [
+    {
+      "situation": "Tous profils",
+      "tactique": "Toujours donner la source ; ne jamais utiliser le chantage affectif ; laisser la possibilité de vérifier et de refuser."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Adapter son discours à la personne, c'est déjà manipuler.",
+      "reponse": "Non, si les faits restent les mêmes et vérifiables : c'est de la pédagogie. Ce qui manipule, c'est la tromperie ou la pression."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui, pour toi, fait la différence entre convaincre quelqu'un et le manipuler ?"
+  ],
+  "limites": [
+    "Aucune définition de la manipulation ne fait consensus en philosophie.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Noggle, R. The Ethics of Manipulation. Stanford Encyclopedia of Philosophy.",
+      "organisme": "Stanford Encyclopedia of Philosophy",
+      "date_publication": "30 mars 2018 (révision substantielle du 31 mars 2026)",
+      "url": "https://plato.stanford.edu/Entries/ethics-manipulation/",
+      "passage": "La manipulation se situe entre la persuasion rationnelle (donner de bonnes raisons) et la coercition (force ou menace) ; trois grandes approches : contourner la raison, tromper, exercer une pression non coercitive.",
+      "pertinence": "Encyclopédie philosophique universitaire de référence.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Noggle, R.",
+    "annee": 2018,
+    "titre": "Noggle, R. The Ethics of Manipulation. Stanford Encyclopedia of Philosophy.",
+    "publication": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/Entries/ethics-manipulation/"
+  },
+  "conditions": "Philosophie morale : distinction persuasion, manipulation, coercition.",
+  "limites_methodo": "Aucune définition de la manipulation ne fait consensus.",
+  "confiance": "elevee",
+  "notions": [
+    "ethique"
+  ]
+}

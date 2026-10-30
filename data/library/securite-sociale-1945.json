@@ -1,0 +1,108 @@
+{
+  "id": "securite-sociale-1945",
+  "type": "histoire",
+  "affirmation": "La Sécu, c'est un cadeau de l'État qu'on ne peut plus se payer.",
+  "volet": "services",
+  "sous_theme": "Assurance maladie",
+  "rubriques": ["patriotisme-de-gauche"],
+  "mots_cles": ["sécurité sociale", "1945", "ordonnances", "croizat", "laroque", "parodi", "cotisations", "assurance maladie", "retraite"],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "La Sécurité sociale n'est pas un cadeau de l'État : elle a été créée par les ordonnances des 4 et 19 octobre 1945, financée par des cotisations sur le travail et gérée à l'origine avec les représentants des salariés. Elle est issue du programme de la Résistance, conçue par le haut fonctionnaire Pierre Laroque et mise en place notamment par le ministre communiste Ambroise Croizat, sous le Gouvernement provisoire du général de Gaulle.",
+  "contexte": "En 1945, le pays sort ruiné de la guerre. Le programme du CNR prévoit un plan d'ensemble de sécurité sociale. Le Préambule de la Constitution de 1946, toujours en vigueur, garantit à tous la protection de la santé et la sécurité matérielle.",
+  "explication": "La Sécu fonctionne comme une caisse commune : chacun cotise selon ses moyens et reçoit selon ses besoins (maladie, vieillesse, famille, accidents du travail). C'est une forme de patriotisme concret : la solidarité entre générations et entre bien-portants et malades, à l'échelle du pays.",
+  "faits": [
+    {
+      "fait": "Les ordonnances des 4 et 19 octobre 1945 ont créé l'organisation unifiée de la Sécurité sociale.",
+      "periode": "Octobre 1945",
+      "perimetre": "France",
+      "explication": "Le Conseil d'État a célébré en 2025 les 80 ans de l'ordonnance du 4 octobre 1945.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Préambule de la Constitution de 1946 (onzième alinéa) garantit à tous la protection de la santé et la sécurité matérielle, base constitutionnelle de la Sécurité sociale.",
+      "periode": "1946, toujours en vigueur",
+      "perimetre": "Bloc de constitutionnalité",
+      "explication": "La protection sociale est un principe constitutionnel, pas une faveur.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Pierre Laroque, directeur des assurances sociales, a conçu le plan ; Alexandre Parodi, ministre du Travail, a porté les ordonnances ; Ambroise Croizat, ministre communiste du Travail à partir de novembre 1945, a conduit leur mise en place.",
+      "periode": "1945-1947",
+      "perimetre": "Acteurs de la création",
+      "explication": "La Sécu a plusieurs pères, de sensibilités différentes : c'est un héritage commun.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "À l'origine, l'assurance maladie était financée par des cotisations salariales et patronales, et les allocations familiales et accidents du travail par les seuls employeurs ; la retraite était fixée à 65 ans.",
+      "periode": "1945",
+      "perimetre": "Régime général",
+      "explication": "Le système reposait sur les cotisations liées au travail, pas sur la charité publique.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La Sécu n'est pas un cadeau de l'État : c'est une caisse commune financée par nos cotisations, créée en 1945 par un pays ruiné, sur le programme de la Résistance. Si on pouvait se la payer en 1945, la question est plutôt : qui ne veut plus payer aujourd'hui ?",
+    "moyen": "En octobre 1945, la France est ruinée par la guerre. C'est pourtant à ce moment-là que les ordonnances des 4 et 19 octobre créent la Sécurité sociale, en appliquant le programme du Conseil national de la Résistance. Elle a été conçue par Pierre Laroque, portée par le ministre Alexandre Parodi puis mise en place par le communiste Ambroise Croizat, sous le gouvernement du général de Gaulle. Ce n'est pas un cadeau de l'État : elle est financée par les cotisations prélevées sur le travail, et le Préambule de la Constitution de 1946 garantit à tous la protection de la santé. On peut discuter de son financement, mais l'idée qu'on « ne peut plus se la payer » oublie qu'elle est née dans un pays bien plus pauvre qu'aujourd'hui.",
+    "detaille": "La Sécurité sociale est née dans un contexte de pénurie extrême. En 1945, le pays sort de cinq ans de guerre et d'occupation. Le programme du Conseil national de la Résistance, adopté le 15 mars 1944 par des résistants de toutes tendances, prévoyait un plan d'ensemble de sécurité sociale. Le Gouvernement provisoire présidé par le général de Gaulle le met en œuvre par les ordonnances des 4 et 19 octobre 1945.\n\nPlusieurs figures y ont contribué : le haut fonctionnaire Pierre Laroque, qui conçoit le plan ; le ministre du Travail Alexandre Parodi, résistant, qui signe les ordonnances ; puis Ambroise Croizat, ancien métallurgiste de la CGT et ministre communiste du Travail à partir de novembre 1945, qui conduit la fusion des anciennes caisses dans une Sécurité sociale unique. Croizat lui-même a dit qu'une réforme de cette ampleur ne pouvait être l'œuvre d'un seul homme.\n\nLe principe est simple : chacun cotise selon ses moyens, reçoit selon ses besoins. Au départ, l'assurance maladie est financée par les cotisations des salariés et des employeurs, les allocations familiales et les accidents du travail par les seuls employeurs. Le Préambule de 1946, toujours en vigueur, en fait un droit constitutionnel.\n\nLe débat sur son financement est légitime. Mais la Sécu n'est pas une générosité de l'État : c'est une institution que les travailleurs financent et qui appartient à tous.",
+    "empathie": "Je comprends que les prélèvements te semblent lourds. Mais quand toi ou tes proches avez été malades, ou pour la retraite de tes parents, c'est cette caisse commune qui a payé. On peut discuter de la façon de la financer ; la supprimer, ce serait laisser chacun seul face aux coups durs."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le déficit de la Sécu prouve qu'elle n'est pas viable.",
+      "reponse": "Le déficit dépend des recettes autant que des dépenses : exonérations de cotisations, emploi, salaires. C'est un débat sur les choix de financement, pas sur le principe."
+    },
+    {
+      "objection": "Croizat, ce n'est pas le seul « père » de la Sécu.",
+      "reponse": "C'est vrai : Laroque, Parodi et le gouvernement de Gaulle y ont contribué. La Sécu est un héritage collectif de la Libération, et c'est justement sa force."
+    }
+  ],
+  "questions": [
+    "Comment on faisait avant 1945 quand on tombait malade sans argent ?",
+    "Si on ne finance plus la Sécu par les cotisations, qui paie à la place ?"
+  ],
+  "limites": [
+    "La fiche ne traite pas des chiffres actuels du déficit de la Sécurité sociale, qui évoluent chaque année (voir les lois de financement de la Sécurité sociale).",
+    "La place exacte de chaque acteur dans la création de la Sécu fait l'objet de débats historiques et mémoriels."
+  ],
+  "sources": [
+    {
+      "titre": "Dossier du participant : La sécurité sociale et le juge (les 80 ans de la sécurité sociale)",
+      "organisme": "Conseil d'État",
+      "date_publication": "22 octobre 2025",
+      "url": "https://www.conseil-etat.fr/Media/actualites/documents/2025/octobre/dossier_participant_221025_web.pdf",
+      "passage": "Les ordonnances des 4 et 19 octobre 1945 créent l'organisation unifiée de la Sécurité sociale ; le onzième alinéa du Préambule de 1946 en est un fondement constitutionnel.",
+      "pertinence": "Document institutionnel de la plus haute juridiction administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "4-19 octobre 1945 : naissance de la Sécurité sociale",
+      "organisme": "Herodote.net (André Larané)",
+      "date_publication": "Mis à jour le 5 octobre 2025",
+      "url": "https://www.herodote.net/4_19_octobre_1945-evenement-19451004.php",
+      "passage": "Plan Laroque ; ordonnances signées par Alexandre Parodi ; Ambroise Croizat ministre à partir du 21 novembre 1945 ; financement initial et quatre branches ; retraite à 65 ans.",
+      "pertinence": "Synthèse historique détaillée.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Retraites : les députés se disputent l'héritage des « pères fondateurs » de la Sécu",
+      "organisme": "Public Sénat",
+      "date_publication": "19 février 2020",
+      "url": "https://www.publicsenat.fr/actualites/politique/retraites-les-deputes-se-disputent-l-heritage-des-peres-fondateurs-de-la-secu",
+      "passage": "Croizat, communiste, ancien de la CGT, ministre du Travail de novembre 1945 à 1947 ; Parodi, résistant ; Laroque, haut fonctionnaire.",
+      "pertinence": "Montre que l'héritage est revendiqué par plusieurs camps.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2029-10-29",
+  "raison_actualisation": "Fiche historique : relecture périodique."
+}

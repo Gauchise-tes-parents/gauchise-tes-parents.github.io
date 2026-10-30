@@ -1,0 +1,92 @@
+{
+  "id": "pauvrete-france",
+  "type": "idee_recue",
+  "affirmation": "Avec toutes nos aides, il n'y a plus vraiment de pauvres en France.",
+  "volet": "social",
+  "sous_theme": "Pauvreté",
+  "rubriques": [],
+  "mots_cles": [
+    "pauvreté",
+    "pauvres",
+    "taux de pauvreté",
+    "seuil de pauvreté",
+    "inégalités",
+    "gini",
+    "niveau de vie",
+    "insee"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Selon l'Insee, 9,8 millions de personnes vivaient sous le seuil de pauvreté en 2024, soit 15,4 % de la population : le plus haut niveau depuis le début de la série en 1996. Le seuil est de 1 337 € par mois pour une personne seule. Les inégalités mesurées par l'indice de Gini sont aussi à leur plus haut depuis 1996.",
+  "contexte": "Le système français de protection sociale réduit fortement la pauvreté par rapport à ce qu'elle serait sans aides ; mais il ne la supprime pas, et le taux de pauvreté monétaire a progressé ces dernières années.",
+  "explication": "Le taux de pauvreté monétaire mesure la part des personnes dont le niveau de vie est inférieur à 60 % du niveau de vie médian. C'est une mesure relative : elle indique qui décroche du reste de la société, après impôts et prestations sociales.",
+  "faits": [
+    {
+      "fait": "En 2024, 15,4 % de la population de France métropolitaine vit sous le seuil de pauvreté, comme en 2023 : c'est le plus haut niveau depuis 1996.",
+      "periode": "2024",
+      "perimetre": "France métropolitaine, logements ordinaires",
+      "explication": "Le chiffre est mesuré après les aides sociales.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "15,4 %"
+    },
+    {
+      "fait": "Cela représente 9 817 000 personnes ; le seuil de pauvreté est de 1 337 € par mois et par unité de consommation.",
+      "periode": "2024",
+      "perimetre": "France métropolitaine",
+      "explication": "Près d'une personne sur six.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "9,8 millions ; 1 337 €"
+    },
+    {
+      "fait": "L'indice de Gini atteint 0,302, en hausse de 0,005 point, son plus haut niveau depuis 1996.",
+      "periode": "2024",
+      "perimetre": "Inégalités de niveau de vie",
+      "explication": "Les inégalités progressent malgré la hausse des niveaux de vie.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "0,302"
+    }
+  ],
+  "argumentaires": {
+    "court": "Selon l'Insee, 9,8 millions de personnes sont sous le seuil de pauvreté en 2024, après les aides : 15,4 %, le plus haut niveau depuis 1996. Les aides limitent la pauvreté, elles ne la font pas disparaître.",
+    "moyen": "Les aides font beaucoup, mais elles ne suffisent pas. Selon l'Insee, en 2024, 15,4 % des gens vivent sous le seuil de pauvreté, soit 9,8 millions de personnes, et c'est calculé après les aides. C'est le niveau le plus élevé depuis 1996. Le seuil, c'est 1 337 € par mois pour une personne seule : pas de quoi vivre confortablement. Et les inégalités sont aussi à leur plus haut depuis 1996. Donc oui, il y a encore beaucoup de pauvres, et leur nombre ne baisse pas.",
+    "detaille": "L'idée que les aides auraient fait disparaître la pauvreté ne résiste pas aux chiffres de l'Insee.\n\nEn 2024, 9 817 000 personnes vivent sous le seuil de pauvreté en France métropolitaine, soit 15,4 % de la population. Ce taux est stable par rapport à 2023, mais il s'agit du plus haut niveau depuis le début de la série en 1996. Le seuil de pauvreté correspond à 1 337 € par mois pour une personne seule.\n\nCe calcul est fait après impôts et après prestations sociales : il tient donc compte du RSA, des allocations logement, de la prime d'activité. Les aides réduisent beaucoup la pauvreté, mais elles ne la suppriment pas.\n\nLes inégalités progressent aussi : l'indice de Gini atteint 0,302, son plus haut niveau depuis 1996.\n\nLa pauvreté monétaire est une mesure relative, qu'on peut discuter. Mais elle dit quelque chose de simple : près d'une personne sur six vit avec beaucoup moins que la plupart des gens, et cette proportion n'a pas baissé.",
+    "empathie": "Je comprends qu'on ait l'impression que les aides règlent tout : on en entend beaucoup parler. Mais il y a aujourd'hui près de 10 millions de personnes sous le seuil de pauvreté, aides comprises. Ce sont souvent des travailleurs pauvres, des retraités, des familles monoparentales."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Être pauvre en France, ce n'est pas être pauvre en Afrique.",
+      "reponse": "C'est vrai, c'est pourquoi la mesure est relative : elle dit qui décroche du niveau de vie de son pays, où se loger et se nourrir coûte ce que ça coûte ici."
+    },
+    {
+      "objection": "Le taux de pauvreté monte quand les riches s'enrichissent, c'est un artifice.",
+      "reponse": "Le seuil dépend du niveau de vie médian, pas des plus riches. Et l'indice de Gini, qui mesure les écarts, monte lui aussi."
+    }
+  ],
+  "questions": [
+    "Avec 1 337 € par mois, comment ferais-tu pour te loger dans ta ville ?",
+    "Qui sont, selon toi, les pauvres aujourd'hui en France ?"
+  ],
+  "limites": [
+    "Données de France métropolitaine, logements ordinaires (hors sans-abri, personnes en institution).",
+    "La pauvreté monétaire ne mesure pas les privations matérielles, suivies par d'autres indicateurs."
+  ],
+  "sources": [
+    {
+      "titre": "Niveau de vie et pauvreté en 2024 (Insee Première n° 2117)",
+      "organisme": "Insee (Christelle Rieg, Arnaud Rousset)",
+      "date_publication": "9 juillet 2026",
+      "url": "https://insee.fr/fr/statistiques/9019316",
+      "passage": "France métropolitaine, 2024 : taux de pauvreté 15,4 % (stable, plus haut niveau depuis 1996) ; 9 817 000 personnes pauvres ; seuil 1 337 € par mois et par unité de consommation ; indice de Gini 0,302, plus haut depuis 1996.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "L'Insee publie ces données chaque année en été."
+}

@@ -1,0 +1,116 @@
+{
+  "id": "sci-persuasion-modeste",
+  "type": "science",
+  "affirmation": "Avec un bon argument, il changera d'avis d'un coup.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "persuasion",
+    "changer d avis",
+    "convaincre",
+    "argument",
+    "récits",
+    "deep canvassing",
+    "conversation",
+    "effet"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "robustesse": "robuste",
+  "resume": "Les effets de la persuasion politique mesurés dans les expériences sont réels mais modestes. Les conversations les plus efficaces observées par Kalla et Broockman (2020) réduisent les attitudes d'exclusion d'environ 0,08 écart-type, durablement, et uniquement quand elles incluent un échange de récits personnels ; les arguments seuls n'ont eu aucun effet. Changer d'avis est un processus lent.",
+  "contexte": "Les campagnes et les militants surestiment souvent l'effet d'un argument isolé. Les expériences de terrain permettent de mesurer ce qui marche vraiment.",
+  "explication": "Un échange réussi fait souvent bouger un peu, pas basculer. C'est normal, et c'est déjà beaucoup si cela dure.",
+  "faits": [
+    {
+      "fait": "Trois expériences de terrain (6 869 électeurs) : les conversations incluant un échange non jugeant de récits personnels réduisent les attitudes d'exclusion (d = 0,08, au moins quatre mois) ; les mêmes conversations avec des arguments seuls n'ont eu aucun effet.",
+      "periode": "2020",
+      "perimetre": "États-Unis, sept lieux",
+      "explication": "L'écoute et les récits comptent plus que l'empilement d'arguments.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "d = 0,08"
+    },
+    {
+      "fait": "D'après Coppock, la plupart des gens évoluent « au moins un peu » dans le sens de l'information reçue.",
+      "periode": "2023",
+      "perimetre": "Expériences randomisées",
+      "explication": "Les effets sont modestes mais généralisés.",
+      "source": 1,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Ne t'attends pas à un retournement : même les meilleures méthodes font bouger les gens un peu, et lentement. Un petit pas qui dure, c'est une victoire.",
+    "moyen": "Les expériences de terrain sont formelles : les arguments font bouger les gens, mais un peu. Dans les études de Kalla et Broockman, les conversations qui marchent réduisent les attitudes d'exclusion d'un petit effet, mais cet effet dure des mois. Surtout, ce sont les conversations où l'on échange des expériences personnelles sans juger qui ont un effet ; les arguments seuls, non. Conclusion pratique : viser un pas, pas une conversion, et privilégier l'écoute.",
+    "detaille": "Dans trois expériences de terrain préenregistrées, Joshua Kalla et David Broockman ont fait dialoguer 230 militants avec 6 869 électeurs américains sur l'immigration et les personnes transgenres. Les conversations comportant un échange non jugeant de récits personnels ont réduit les attitudes d'exclusion d'environ 0,08 écart-type, un effet modeste mais encore présent au moins quatre mois plus tard. Les conversations identiques mais limitées aux arguments n'ont eu aucun effet mesurable sur la première question étudiée.\n\nLes travaux d'Alexander Coppock vont dans le même sens : l'information persuade un peu, presque tout le monde, sans retournement spectaculaire.\n\nCes résultats invitent à revoir ses attentes : une discussion réussie est celle qui laisse une trace, pas celle qui obtient une capitulation. Ils ont été obtenus aux États-Unis, sur des sujets précis ; leur transposition à un repas de famille en France est plausible mais non démontrée.",
+    "empathie": "Je ne cherche pas à te faire changer d'avis ce soir. J'aimerais juste te raconter ce qui m'a fait réfléchir, et entendre ce qui t'a amené à penser ça."
+  },
+  "application": [
+    {
+      "situation": "Objectif « faire évoluer une opinion »",
+      "tactique": "Viser un petit pas ; échanger des expériences ; ne pas empiler les arguments."
+    },
+    {
+      "situation": "Après « elle a reconnu un point »",
+      "tactique": "Consolider ce point sans exiger davantage."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Si l'effet est si faible, à quoi bon ?",
+      "reponse": "Un petit effet durable, répété dans beaucoup de conversations, change le climat d'une famille ou d'un pays."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui, dans ta vie, t'a fait changer d'avis sur quelque chose ?"
+  ],
+  "limites": [
+    "Expériences menées aux États-Unis.",
+    "Le livre de Coppock n'est connu ici que par sa présentation éditoriale.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Kalla, J. L., & Broockman, D. E. (2020). Reducing exclusionary attitudes through interpersonal conversation: Evidence from three field experiments. American Political Science Review, 114(2), 410-425.",
+      "organisme": "Institution for Social and Policy Studies, Université Yale",
+      "date_publication": "2020",
+      "url": "https://isps.yale.edu/research/publications/isps20-01",
+      "passage": "Trois expériences de terrain préenregistrées, 230 militants, 6 869 électeurs : les conversations incluant un échange non jugeant de récits personnels réduisent durablement les attitudes d'exclusion (d = 0,08, au moins quatre mois) ; les arguments seuls n'ont eu aucun effet.",
+      "pertinence": "Résumé officiel de l'article.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Coppock, A. Persuasion in Parallel: How Information Changes Minds about Politics.",
+      "organisme": "University of Chicago Press",
+      "date_publication": "2023",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo181475008.html",
+      "passage": "Fondé sur une série d'expériences randomisées : la plupart des gens bougent « au moins un peu » dans le sens de l'information, les partisans des deux camps évoluent à peu près en parallèle, l'effet boomerang est « rare, voire inexistant ».",
+      "pertinence": "Présentation éditoriale du livre (contenu détaillé non lu).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Kalla, J. L. ; Broockman, D. E.",
+    "annee": 2020,
+    "titre": "Kalla, J. L., & Broockman, D. E. (2020). Reducing exclusionary attitudes through interpersonal conversation: Evidence from three field experiments. American Political Science Review, 114(2), 410-425.",
+    "publication": "Institution for Social and Policy Studies, Université Yale",
+    "url": "https://isps.yale.edu/research/publications/isps20-01"
+  },
+  "conditions": "Conversations en face à face, porte-à-porte, États-Unis.",
+  "limites_methodo": "Effets faibles (d de 0,04 à 0,08) ; sujets précis (immigration, personnes transgenres).",
+  "confiance": "elevee",
+  "notions": [
+    "evolution_opinion",
+    "recits",
+    "ecoute"
+  ]
+}

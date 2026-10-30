@@ -1,0 +1,134 @@
+{
+  "id": "immigres-aides",
+  "type": "idee_recue",
+  "affirmation": "Les immigrés touchent plus d'aides que les Français.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et finances publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "immigrés",
+    "aides sociales",
+    "allocations",
+    "rsa",
+    "étrangers",
+    "ocde",
+    "contribution nette",
+    "finances publiques"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'accès aux principales aides est encadré par des conditions de séjour (par exemple 5 ans de titre de séjour autorisant à travailler pour le RSA, hors exceptions). L'étude de l'OCDE de 2021 montre que, dans presque tous les pays étudiés, la dépense publique par immigré est plus faible que par natif. L'écart de contribution nette s'explique surtout par un taux d'emploi plus faible, pas par des aides plus élevées.",
+  "contexte": "L'idée que les immigrés seraient favorisés dans l'accès aux aides est très répandue. Elle mélange les règles d'accès aux prestations (identiques ou plus restrictives pour les étrangers) et le bilan budgétaire global de l'immigration.",
+  "explication": "Les prestations sociales obéissent aux mêmes barèmes pour tous ; les étrangers non européens doivent en plus remplir des conditions de durée de séjour. Le bilan budgétaire dépend surtout du taux d'emploi.",
+  "faits": [
+    {
+      "fait": "Un étranger non européen doit en principe détenir depuis au moins 5 ans un titre de séjour autorisant à travailler pour demander le RSA.",
+      "chiffre": "5 ans",
+      "periode": "Règle en vigueur, page vérifiée au 1er avril 2026",
+      "perimetre": "RSA, demandeurs de 25 ans et plus, ressortissants hors UE/EEE/Suisse",
+      "explication": "Il existe des alternatives qui ouvrent le droit sans ce délai : carte de résident, statut de réfugié, apatride, protection subsidiaire. Le RSA n'est donc pas « automatique » à l'arrivée.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Dans presque tous les pays de l'OCDE étudiés, la dépense publique par habitant est plus faible pour les immigrés que pour les natifs.",
+      "chiffre": null,
+      "periode": "Moyenne 2006-2018",
+      "perimetre": "Pays de l'OCDE étudiés, personnes nées à l'étranger",
+      "explication": "L'écart de contribution nette vient surtout du fait que les immigrés ont un taux d'emploi plus faible et paient donc moins de cotisations et d'impôts, pas d'un excès d'aides.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Pour la France, la contribution budgétaire nette des immigrés dépend fortement de la façon dont on répartit les biens publics (défense, etc.).",
+      "chiffre": "Environ +1,02 % du PIB hors biens publics purs, environ -0,85 % du PIB en les incluant",
+      "periode": "Moyenne 2006-2018",
+      "perimetre": "France, personnes nées à l'étranger (et leurs enfants de moins de 15 ans vivant avec eux)",
+      "explication": "Le signe change selon la convention comptable : c'est une question de méthode, pas une preuve de « profitage ». Comme l'État est en déficit sur la période, la population dans son ensemble a aussi une contribution nette négative.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les ressortissants de l'UE ne sont pas soumis à la condition de 5 ans, ce que le Défenseur des droits demande de clarifier dans la loi.",
+      "chiffre": null,
+      "periode": "Fiche mise à jour en juillet 2023",
+      "perimetre": "Droits sociaux des étrangers en France",
+      "explication": "Les règles diffèrent selon la nationalité et le titre de séjour : parler « des immigrés » en bloc mélange des situations juridiques très différentes.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "En fait, pour le RSA, un étranger hors UE doit en général avoir un titre de séjour depuis au moins cinq ans. Et l'OCDE a calculé qu'on dépense en moyenne moins par immigré que par natif : s'ils contribuent un peu moins, c'est surtout parce qu'ils ont moins accès à l'emploi, pas parce qu'ils toucheraient plus d'aides.",
+    "moyen": "Il faut séparer deux questions. Les règles d'abord : les aides ont les mêmes barèmes pour tout le monde, et pour le RSA un étranger hors Union européenne doit en général avoir un titre de séjour depuis au moins cinq ans. Le bilan ensuite : l'OCDE a calculé en 2021 que, dans presque tous les pays étudiés, on dépense moins par immigré que par natif. S'ils contribuent parfois un peu moins, c'est surtout parce qu'ils ont moins accès à l'emploi. Si on veut améliorer le bilan, la piste, c'est l'emploi, pas la suppression des aides.",
+    "detaille": "L'affirmation mélange deux questions : le niveau des aides individuelles et le bilan budgétaire global. Sur le premier point, les principales prestations sont soumises aux mêmes barèmes pour tout le monde, avec en plus des conditions de séjour pour les étrangers non européens (5 ans de titre de séjour autorisant à travailler pour le RSA, avec des alternatives comme la carte de résident ou le statut de réfugié). Sur le second point, l'OCDE (2021) estime que la contribution nette des immigrés reste comprise entre -1 % et +1 % du PIB dans la plupart des pays, et que le résultat dépend fortement des conventions comptables, notamment l'affectation des dépenses de défense ou de la dette. Pour la France, l'écart entre les deux conventions va d'environ +1 % à environ -0,85 % du PIB. Il est donc honnête de dire que l'immigration n'est ni une « ruine » ni une « manne » budgétaire massive, et que le principal levier est l'accès à l'emploi.",
+    "empathie": "Je comprends que ça puisse sembler injuste quand on a l'impression que d'autres reçoivent plus. Mais les règles sont en fait plus strictes pour les étrangers, et l'OCDE montre qu'on dépense en moyenne moins pour eux. Le vrai problème, c'est l'accès au travail."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils ont plus d'enfants, donc plus d'allocations familiales.",
+      "reponse": "Les allocations dépendent du nombre d'enfants, pas de la nationalité : une famille française de même taille touche la même chose."
+    },
+    {
+      "objection": "Les immigrés coûtent plus qu'ils ne rapportent.",
+      "reponse": "Selon l'OCDE, la contribution nette reste comprise entre −1 % et +1 % du PIB dans la plupart des pays ; elle dépend surtout du taux d'emploi."
+    }
+  ],
+  "questions": [
+    "Tu parles de quelles aides précisément : RSA, allocations familiales, logement ?",
+    "Est-ce qu'on compare des personnes dans la même situation (âge, revenus, enfants) ?",
+    "Si l'écart vient surtout de l'emploi, qu'est-ce qui aiderait le plus : réduire les aides ou faciliter l'accès au travail ?"
+  ],
+  "limites": [
+    "Le chiffre France 2006-2018 de l'OCDE est cité ici via un article de La finance pour tous, car les tableaux annexes détaillés par pays n'ont pas pu être consultés directement.",
+    "Les estimations reposent sur des enquêtes de revenus qui peuvent sous-représenter certaines populations immigrées.",
+    "Les dépenses de santé sont réparties par âge et non selon l'usage réel des soins.",
+    "Les données ne couvrent pas les années postérieures à 2018."
+  ],
+  "sources": [
+    {
+      "titre": "RSA : demandeur de 25 ans et plus",
+      "organisme": "Service-Public (Direction de l'information légale et administrative)",
+      "date_publication": "Vérifié le 1er avril 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19778?lang=en",
+      "passage": "Conditions pour un ressortissant hors UE : titre de séjour autorisant à travailler depuis au moins 5 ans, ou carte de résident, statut de réfugié, apatride ou protection subsidiaire. Montant forfaitaire personne seule : 651,69 €.",
+      "pertinence": "Source officielle sur les conditions d'accès au RSA pour les étrangers.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Perspectives des migrations internationales 2021, chapitre 4 : Impact budgétaire de l'immigration dans les pays de l'OCDE depuis le milieu des années 2000",
+      "organisme": "OCDE",
+      "date_publication": "28 octobre 2021",
+      "url": "https://www.oecd.org/fr/publications/2021/10/international-migration-outlook-2021_ea4f9277/full-report/component-8.html",
+      "passage": "Contribution nette totale comprise entre -1 % et +1 % du PIB dans la plupart des pays ; dépense par habitant plus faible pour les immigrés que pour les natifs dans presque tous les pays ; écart lié surtout au taux d'emploi.",
+      "pertinence": "Étude internationale de référence sur le bilan budgétaire de l'immigration.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'immigration n'est pas un fardeau pour les finances publiques",
+      "organisme": "La finance pour tous (IEFP)",
+      "date_publication": "17 novembre 2021",
+      "url": "https://www.lafinancepourtous.com/2021/11/17/limmigration-nest-pas-un-fardeau-pour-les-finances-publiques/",
+      "passage": "Pour la France, sur 2006-2018 : contribution nette d'environ +1,02 % du PIB hors biens publics, d'environ -0,85 % du PIB en incluant les biens publics comme la défense.",
+      "pertinence": "Résumé pédagogique des résultats France de l'étude OCDE (source secondaire).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les droits économiques et sociaux des étrangers (fiche réforme n°28)",
+      "organisme": "Défenseur des droits",
+      "date_publication": "Mise à jour juillet 2023",
+      "url": "https://www.defenseurdesdroits.fr/sites/default/files/2023-12/fiches-reformes_028.pdf",
+      "passage": "Le RSA est accordé au titulaire d'un titre de séjour autorisant à travailler depuis au moins cinq ans ; le droit de l'UE exempte les citoyens européens et les membres de leur famille de cette condition.",
+      "pertinence": "Analyse juridique d'une autorité administrative indépendante.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-10-29",
+  "raison_actualisation": "Les données de l’OCDE couvrent 2006-2018 : à revoir lors d’une nouvelle édition de l’étude."
+}

@@ -1,0 +1,114 @@
+{
+  "id": "impots-assistanat",
+  "type": "idee_recue",
+  "affirmation": "Les impôts ne servent qu'à payer l'assistanat.",
+  "volet": "social",
+  "sous_theme": "Coût et efficacité des aides",
+  "rubriques": [],
+  "mots_cles": [
+    "impôts",
+    "assistanat",
+    "dépenses publiques",
+    "rsa",
+    "minima sociaux",
+    "retraites",
+    "santé",
+    "école",
+    "dette"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Sur 1 672 Md€ de dépenses publiques en 2024, la première fonction est la protection sociale (693 Md€), dont la plus grande part et la plus forte hausse concernent les retraites. La santé (261 Md€), l'enseignement (149 Md€) et la charge de la dette (60 Md€) pèsent lourd. Les minima sociaux représentaient 31,6 Md€ en 2023, soit environ 2 % des dépenses publiques, dont 12,2 Md€ pour le RSA.",
+  "contexte": "L'idée que l'argent public financerait surtout « l'assistanat » est très répandue. La comptabilité nationale permet de voir précisément où va la dépense publique.",
+  "explication": "Les dépenses publiques regroupent celles de l'État, des collectivités et de la Sécurité sociale. Elles sont financées par les impôts, les cotisations sociales et l'emprunt.",
+  "faits": [
+    {
+      "fait": "Les dépenses publiques totales atteignaient 1 672 Md€ en 2024, soit 57 % du PIB.",
+      "chiffre": "1 672 Md€",
+      "periode": "2024 (données provisoires)",
+      "perimetre": "Ensemble des administrations publiques (État, collectivités, sécurité sociale)",
+      "explication": "Ce total inclut des dépenses financées par les cotisations sociales et pas seulement par les impôts.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La protection sociale représente 693 Md€ (41 % du total) ; les retraites en sont le principal moteur de hausse (+23 Md€ en un an).",
+      "chiffre": "693 Md€ (41 %)",
+      "periode": "2024",
+      "perimetre": "Fonction « protection sociale » de la nomenclature internationale COFOG",
+      "explication": "La « protection sociale » est surtout composée de pensions de retraite, de prestations familiales, de chômage et de handicap, pas seulement de minima sociaux.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La santé (261 Md€), les services généraux dont la charge de la dette (181 Md€, dont 60 Md€ d'intérêts), l'enseignement (149 Md€), la défense (54 Md€) et l'ordre et la sécurité publics (52 Md€) sont d'autres postes majeurs.",
+      "chiffre": "261 / 181 / 149 / 54 / 52 Md€",
+      "periode": "2024",
+      "perimetre": "Dépenses publiques par fonction",
+      "explication": "Hôpitaux, écoles, police, armée, routes : la majorité de la dépense publique finance des services utilisés par tout le monde.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les minima sociaux représentent 31,6 Md€, soit 2,0 % des dépenses publiques ; le RSA seul représente 12,2 Md€, soit 0,4 % du PIB.",
+      "chiffre": "31,6 Md€ (2 %) ; RSA 12,2 Md€",
+      "periode": "2023",
+      "perimetre": "Ensemble des minima sociaux (RSA, AAH, minimum vieillesse, etc.)",
+      "explication": "Même en ajoutant toutes les aides aux plus modestes, on est très loin de « tout l'argent des impôts ».",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "En 2024, l'État, les collectivités et la Sécu ont dépensé 1 672 milliards. Le RSA, c'est environ 12 milliards, et l'ensemble des minima sociaux à peu près 2 % du total. Le gros de l'argent, ce sont les retraites, la santé, l'école, et même les intérêts de la dette pèsent plus que le RSA.",
+    "moyen": "En 2024, l'État, les collectivités et la Sécurité sociale ont dépensé 1 672 milliards d'euros. La première dépense, ce sont les retraites, dans la protection sociale ; puis la santé, l'école, la défense, la sécurité, et même les intérêts de la dette, qui coûtent 60 milliards. L'ensemble des minima sociaux, RSA compris, représente environ 2 % des dépenses publiques, et le RSA seul 12 milliards. On peut discuter du RSA, mais il ne pèse qu'une petite partie de nos impôts.",
+    "detaille": "Les comptes de l'Insee permettent de ventiler la dépense publique par grandes fonctions. En 2024, la protection sociale arrive en tête avec 693 Md€, mais elle est dominée par les retraites, qui représentent l'essentiel de la hausse récente. Viennent ensuite la santé, les services généraux (dont la charge de la dette), les affaires économiques et l'enseignement. Selon la DREES, l'ensemble des minima sociaux représentait 31,6 Md€ en 2023, soit 2 % des dépenses publiques, et le RSA 12,2 Md€. On peut légitimement débattre du niveau et des conditions des minima sociaux, mais l'idée qu'ils absorberaient l'essentiel des impôts ne correspond pas aux données. Attention aussi : les dépenses publiques sont financées par les impôts, mais aussi par les cotisations sociales et l'emprunt.",
+    "empathie": "Je comprends qu'on ait envie de savoir où va son argent ; c'est normal quand on paie beaucoup. Mais quand on regarde, la plus grande part va aux retraites, à la santé et à l'école. Le RSA, c'est moins que les intérêts de la dette."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les retraites, c'est aussi de l'assistanat.",
+      "reponse": "Les retraites sont financées par les cotisations versées pendant la vie active : c'est une assurance, pas une aide sous condition de ressources."
+    },
+    {
+      "objection": "Il faut ajouter les aides au logement et les allocations familiales.",
+      "reponse": "On peut les ajouter, mais elles bénéficient aussi à des millions de salariés et de familles : ce n'est pas de « l'assistanat » au sens où l'entend l'affirmation."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce que tu mets derrière le mot « assistanat » : le RSA, les allocations familiales, les retraites ?",
+    "Si on supprimait totalement le RSA, quelle part des dépenses publiques économiserait-on ?",
+    "Quelles dépenses publiques utilises-tu toi-même au quotidien ?"
+  ],
+  "limites": [
+    "Les données Insee 2024 sont provisoires et seront révisées.",
+    "Les montants des minima sociaux (DREES) portent sur 2023 et ceux des dépenses par fonction sur 2024 : les deux années ne sont pas strictement comparables.",
+    "La ventilation par fonction ne distingue pas ce qui est financé par l'impôt, par les cotisations ou par la dette."
+  ],
+  "sources": [
+    {
+      "titre": "Usage de l'argent public : les dépenses publiques par fonction en 2024 (Insee Première n° 2093)",
+      "organisme": "Insee",
+      "date_publication": "5 février 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8735252",
+      "passage": "Dépenses publiques 1 672 Md€ (57,0 % du PIB) ; protection sociale 693 Md€ ; santé 261 Md€ ; services généraux 181 Md€ dont charge de la dette 60 Md€ ; enseignement 149 Md€ ; défense 54 Md€ ; ordre et sécurité 52 Md€.",
+      "pertinence": "Source statistique officielle sur la répartition de la dépense publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Minima sociaux et prestations de solidarité, édition 2025 — Fiche 07 : Les dépenses d'allocations",
+      "organisme": "DREES",
+      "date_publication": "Décembre 2025",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/MS2025%20-%20Fiche%2007%20-%20Les%20d%C3%A9penses%20d%27allocations.pdf",
+      "passage": "Minima sociaux : 31,6 Md€ en 2023, 1,1 % du PIB, 2,0 % des dépenses des administrations publiques ; RSA : 12,2 Md€, 0,4 % du PIB.",
+      "pertinence": "Source statistique officielle sur le coût des minima sociaux.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-02-15",
+  "raison_actualisation": "Les dépenses par fonction de l’Insee sont publiées chaque année (données 2024 provisoires)."
+}

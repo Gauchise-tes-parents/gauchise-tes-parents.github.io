@@ -1,0 +1,108 @@
+{
+  "id": "programme-cnr-1944",
+  "type": "histoire",
+  "affirmation": "Le modèle social français, c'est une invention de gauchistes qui a ruiné le pays.",
+  "volet": "international",
+  "sous_theme": "Histoire sociale",
+  "rubriques": ["patriotisme-de-gauche"],
+  "mots_cles": ["cnr", "conseil national de la résistance", "jours heureux", "15 mars 1944", "programme", "nationalisations", "sécurité sociale", "démocratie sociale"],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "Le modèle social français est né d'un compromis patriotique : le programme du Conseil national de la Résistance, adopté le 15 mars 1944 et surnommé « Les Jours heureux », réunissait des résistants de la gauche à la droite républicaine. Il prévoyait notamment un plan d'ensemble de sécurité sociale, le retour à la nation des grands moyens de production et la généralisation des retraites.",
+  "contexte": "En pleine Occupation, les résistants préparent la reconstruction. Le CNR, qui associe mouvements, syndicats et partis, adopte un programme en deux parties : un plan d'action immédiate contre l'occupant, et des mesures à appliquer à la Libération. Une grande partie sera mise en œuvre par le Gouvernement provisoire présidé par le général de Gaulle.",
+  "explication": "Pour les résistants, libérer le pays signifiait aussi le reconstruire plus juste : protéger les travailleurs contre la maladie et la vieillesse, empêcher que les grands intérêts privés capturent l'État, comme beaucoup le reprochaient à l'avant-guerre. Le patriotisme et la justice sociale étaient liés.",
+  "faits": [
+    {
+      "fait": "Le programme du CNR prévoit un « plan d'ensemble de sécurité sociale » destiné à garantir des moyens d'existence aux citoyens qui ne peuvent se les procurer par le travail.",
+      "periode": "15 mars 1944",
+      "perimetre": "Programme du Conseil national de la Résistance",
+      "explication": "C'est l'acte de naissance politique de la Sécurité sociale.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le programme prévoit aussi le retour à la nation des grands moyens de production et la généralisation des retraites.",
+      "periode": "15 mars 1944",
+      "perimetre": "Programme du CNR",
+      "explication": "Les nationalisations de la Libération en découlent en partie.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le CNR, présidé à l'origine par Jean Moulin, réunissait des mouvements de résistance, la CGT et la CFTC, et six partis dont deux de droite (Alliance démocratique, Fédération républicaine).",
+      "periode": "1943-1944",
+      "perimetre": "Composition du CNR",
+      "explication": "Le programme était un compromis entre familles politiques, pas un texte d'un seul camp.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Gouvernement provisoire présidé par le général de Gaulle a repris ce programme : les ordonnances des 4 et 19 octobre 1945 créent la Sécurité sociale.",
+      "periode": "1944-1946",
+      "perimetre": "Gouvernement provisoire de la République française",
+      "explication": "Le modèle social a été construit par un gouvernement d'union, dans un pays ruiné par la guerre.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le modèle social, ce n'est pas un caprice gauchiste : c'est le programme des résistants de 1944, de la droite républicaine aux communistes, appliqué par le gouvernement du général de Gaulle dans un pays en ruines.",
+    "moyen": "Le 15 mars 1944, en pleine Occupation, le Conseil national de la Résistance adopte son programme, « Les Jours heureux ». On y trouve un plan d'ensemble de sécurité sociale, la généralisation des retraites et le retour à la nation des grands moyens de production. Ce texte a été signé par des mouvements, la CGT, la CFTC et des partis allant des communistes à la droite républicaine. À la Libération, le gouvernement provisoire du général de Gaulle l'applique en grande partie. Et ce modèle a été bâti dans un pays ruiné par la guerre : dire qu'il a « ruiné » la France, c'est oublier qu'il a accompagné les Trente Glorieuses.",
+    "detaille": "Le système social français n'est pas né d'un coup de force partisan, mais d'un projet patriotique. Le Conseil national de la Résistance, réuni pour la première fois le 27 mai 1943 sous la présidence de Jean Moulin, rassemblait huit mouvements de résistance, les syndicats CGT et CFTC et six partis d'avant-guerre, dont deux de droite.\n\nLe 15 mars 1944, il adopte un programme en deux volets. Le premier organise la lutte contre l'occupant. Le second fixe les réformes à mener à la Libération : un plan d'ensemble de sécurité sociale pour garantir des moyens d'existence à ceux qui ne peuvent pas travailler, la généralisation des retraites, le retour à la nation des grands moyens de production, et une démocratie sociale qui associe les travailleurs.\n\nÀ la Libération, le Gouvernement provisoire présidé par le général de Gaulle reprend ce programme. Les ordonnances d'octobre 1945 créent la Sécurité sociale, et plusieurs nationalisations sont décidées. Ces réformes ont été menées dans un pays dévasté, puis ont accompagné la période de forte croissance des Trente Glorieuses.\n\nOn peut débattre de l'efficacité de telle ou telle institution aujourd'hui. Mais présenter ce modèle comme une lubie gauchiste, c'est effacer l'histoire d'un compromis national conclu par des résistants de tous bords.",
+    "empathie": "Je comprends qu'on s'inquiète du coût des dépenses sociales. Mais ce système, ce sont des résistants de tous bords qui l'ont voulu en 1944 pour que plus personne ne meure de misère ou de maladie faute d'argent. On peut le réformer ; je préfère qu'on le fasse dans cet esprit-là."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les Trente Glorieuses s'expliquent par la reconstruction, pas par la Sécu.",
+      "reponse": "C'est un débat d'économistes légitime : la croissance a de multiples causes. L'argument montre seulement que le modèle social n'a pas empêché la prospérité ; il ne prouve pas qu'il en est la cause unique."
+    },
+    {
+      "objection": "La droite gaulliste a aussi construit ce modèle.",
+      "reponse": "Exactement : le programme était un compromis et le gouvernement de Gaulle l'a appliqué. C'est une raison de plus pour le défendre comme un héritage commun, pas de le présenter comme une lubie d'un camp."
+    }
+  ],
+  "questions": [
+    "Pourquoi, selon toi, des résistants de droite ont-ils signé ce programme ?",
+    "Qu'est-ce qui, dans ce programme, te semble encore d'actualité ?"
+  ],
+  "limites": [
+    "Le texte intégral du programme a été consulté via un extrait de manuel scolaire (éditions Nathan) ; la lecture de l'original dans un fonds d'archives reste recommandée.",
+    "La mise en œuvre du programme a été partielle et a fait l'objet de compromis ; tous ses points n'ont pas été appliqués."
+  ],
+  "sources": [
+    {
+      "titre": "15 mars 1944 : le programme du Conseil national de la Résistance (extrait de manuel)",
+      "organisme": "Éditions Nathan (manuel de Terminale)",
+      "date_publication": "2020",
+      "url": "https://lyceen.nathan.fr/coteterm-2020/assets/contexte-15-mars-1944-le-programme-du-conseil-national-de-la-resistance/preview",
+      "passage": "« Plan d'ensemble de sécurité sociale », « retour à la nation des grands moyens de production », « généralisation des retraites », démocratie sociale.",
+      "pertinence": "Extrait du texte du programme dans un manuel scolaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La fondation du Conseil national de la Résistance (CNR) racontée par Claire Andrieu",
+      "organisme": "Ministère des Armées — Mission Libération",
+      "date_publication": "Non précisée",
+      "url": "https://www.defense.gouv.fr/mission-liberation/vivre-liberation/liberation-via-ses-historiens/regards-dhistoriens-liberation/fondation-du",
+      "passage": "Composition pluraliste du CNR : mouvements, CGT, CFTC, six partis dont l'Alliance démocratique et la Fédération républicaine.",
+      "pertinence": "Historienne spécialiste.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "4-19 octobre 1945 : naissance de la Sécurité sociale",
+      "organisme": "Herodote.net (André Larané)",
+      "date_publication": "Mis à jour le 5 octobre 2025",
+      "url": "https://www.herodote.net/4_19_octobre_1945-evenement-19451004.php",
+      "passage": "Le Gouvernement provisoire dirigé par le général de Gaulle reprend le programme du CNR rédigé le 15 mars 1944 ; ordonnances des 4 et 19 octobre 1945.",
+      "pertinence": "Synthèse de vulgarisation historique.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2029-10-29",
+  "raison_actualisation": "Fiche historique : relecture périodique."
+}

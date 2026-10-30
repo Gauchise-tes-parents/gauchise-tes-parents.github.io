@@ -1,0 +1,83 @@
+{
+  "id": "musulmans-amalgames",
+  "type": "idee_recue",
+  "affirmation": "Immigrés, musulmans, islamistes : c'est la même chose.",
+  "volet": "immigration",
+  "sous_theme": "Discriminations",
+  "rubriques": ["islamo-gauchisme-laicite"],
+  "mots_cles": ["musulmans", "immigrés", "islamistes", "amalgame", "religion", "teo2", "insee", "descendants d'immigrés", "islam politique"],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les données officielles contredisent l'amalgame. Selon l'enquête Trajectoires et Origines (Insee-Ined, 2019-2020), 10 % des 18-59 ans se déclarent musulmans ; parmi les immigrés, 44 % se disent musulmans, donc une majorité ne l'est pas. Être musulman est une croyance personnelle ; l'islamisme est un projet politique ; le terrorisme est un crime. Défendre les droits des musulmans n'implique pas d'approuver l'islam politique.",
+  "contexte": "Après les attentats et dans les débats sur l'immigration, les termes « immigré », « musulman », « islamiste » sont souvent employés comme synonymes. Cette confusion nourrit les discriminations et rend plus difficile la lutte contre le vrai danger, l'islamisme violent.",
+  "explication": "Un immigré est une personne née étrangère à l'étranger et résidant en France. Un musulman est une personne qui se reconnaît dans l'islam, qu'elle soit immigrée ou non. Un islamiste défend un projet politique fondé sur une lecture de l'islam. Un terroriste commet des crimes. Ces quatre catégories ne se recouvrent pas.",
+  "faits": [
+    {
+      "fait": "En 2019-2020, 10 % des personnes de 18 à 59 ans vivant en France métropolitaine se déclarent musulmanes, 29 % catholiques et 51 % sans religion.",
+      "chiffre": "10 %",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine, 18-59 ans",
+      "explication": "Les musulmans sont une minorité religieuse ; la majorité de la population se dit sans religion.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Parmi les immigrés de 18 à 59 ans, 44 % se déclarent musulmans ; parmi les descendants de deux parents immigrés, 48 % ; parmi les personnes sans ascendance migratoire, 1 %.",
+      "chiffre": "44 %",
+      "periode": "2019-2020",
+      "perimetre": "Immigrés, 18-59 ans",
+      "explication": "Plus de la moitié des immigrés ne sont pas musulmans : « immigré » et « musulman » ne sont pas synonymes.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "76 % des musulmans déclarent que la religion compte beaucoup ou assez dans leur vie, et 20 % fréquentent régulièrement un lieu de culte.",
+      "chiffre": "76 % / 20 %",
+      "periode": "2019-2020",
+      "perimetre": "Musulmans, 18-59 ans",
+      "explication": "Être croyant, même pratiquant, n'a rien à voir avec un engagement politique islamiste.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Selon l'Insee, plus de la moitié des immigrés ne se disent pas musulmans, et l'immense majorité des musulmans ne sont pas islamistes. Confondre les trois, c'est se tromper de cible.",
+    "moyen": "Quatre mots, quatre réalités. Un immigré est né étranger à l'étranger ; un musulman a une foi ; un islamiste a un projet politique ; un terroriste commet des crimes. Les chiffres de l'Insee le montrent : 10 % des 18-59 ans se disent musulmans en France, et parmi les immigrés, 44 % seulement. Croire, prier, jeûner, ce n'est pas faire de la politique. Défendre les droits des musulmans contre les discriminations, ce n'est pas soutenir l'islam politique, de même que défendre les catholiques contre une agression ne revient pas à approuver tous les évêques. Et si l'on veut combattre l'islamisme, mieux vaut ne pas jeter dans ses bras des millions de gens en les soupçonnant tous.",
+    "detaille": "La confusion entre immigrés, musulmans, islamistes et terroristes est courante, mais elle ne résiste pas aux données. L'enquête Trajectoires et Origines, menée par l'Insee et l'Ined en 2019-2020, interroge les personnes de 18 à 59 ans sur leur religion. Résultat : 51 % se déclarent sans religion, 29 % catholiques, 10 % musulmanes. Parmi les immigrés, 44 % se déclarent musulmans : plus de la moitié ne le sont donc pas (on trouve parmi eux des chrétiens, des personnes sans religion, d'autres croyants). Parmi les personnes sans ascendance migratoire, 1 % se disent musulmanes.\n\nÊtre musulman est une affaire de foi. L'enquête montre que la religion compte pour une large majorité des musulmans (76 %) et que 20 % fréquentent régulièrement un lieu de culte, comme d'autres croyants. Rien de cela n'est un engagement politique. L'islamisme, lui, est un projet politique qui veut soumettre la vie publique à une lecture de la religion ; le terrorisme djihadiste en est la forme criminelle.\n\nDistinguer ces catégories n'est pas de la naïveté : c'est la condition pour combattre efficacement l'islamisme et pour protéger les musulmans, qui en sont aussi les victimes. On peut défendre l'égalité des droits des musulmans et critiquer l'islam politique. Les deux vont même ensemble dans une tradition républicaine qui protège les personnes et laisse les idées ouvertes à la critique.",
+    "empathie": "Je comprends que les attentats aient marqué tout le monde, moi aussi. Mais la plupart des musulmans que tu croises ont la même peur que toi. Si on les met dans le même sac que les terroristes, on fait exactement ce que les islamistes veulent : nous diviser."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les islamistes se cachent parmi les musulmans.",
+      "reponse": "Des islamistes sont musulmans, mais l'inverse n'est pas vrai. La lutte contre eux passe par le renseignement et la justice ciblés, pas par le soupçon généralisé."
+    },
+    {
+      "objection": "Les sondages montrent des opinions rigoristes chez une partie des jeunes musulmans.",
+      "reponse": "Certaines enquêtes le montrent, et c'est un sujet sérieux à discuter précisément. Mais une opinion religieuse conservatrice n'est ni de l'islamisme politique ni du terrorisme, et elle concerne une partie, pas l'ensemble."
+    }
+  ],
+  "questions": [
+    "Combien de musulmans connais-tu personnellement, et en quoi sont-ils dangereux ?",
+    "Comment combattre l'islamisme sans en faire payer le prix à des millions de gens qui n'ont rien fait ?"
+  ],
+  "limites": [
+    "L'enquête porte sur les 18-59 ans de France métropolitaine en 2019-2020 et sur la religion déclarée.",
+    "Les statistiques ne mesurent pas directement l'adhésion à l'islamisme, qui fait l'objet d'autres travaux (renseignement, enquêtes d'opinion)."
+  ],
+  "sources": [
+    {
+      "titre": "La diversité religieuse en France : transmissions intergénérationnelles et pratiques selon les origines (Insee Références)",
+      "organisme": "Insee (L. Drouhot, P. Simon, V. Tiberj)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793308",
+      "passage": "18-59 ans : 10 % musulmans, 29 % catholiques, 51 % sans religion ; musulmans : 44 % des immigrés, 48 % des descendants de deux parents immigrés, 1 % des personnes sans ascendance migratoire ; 76 % jugent la religion importante, 20 % fréquentent régulièrement un lieu de culte.",
+      "pertinence": "Statistique publique de référence (enquête TeO2).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-03-30",
+  "raison_actualisation": "Données de l'enquête 2019-2020 : vérifier la parution de nouvelles exploitations."
+}

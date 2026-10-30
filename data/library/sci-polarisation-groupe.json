@@ -1,0 +1,96 @@
+{
+  "id": "sci-polarisation-groupe",
+  "type": "science",
+  "affirmation": "Discuter entre gens du même avis, ça permet de réfléchir plus calmement.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "polarisation",
+    "groupe",
+    "radicalisation",
+    "débat à plusieurs",
+    "réseaux sociaux",
+    "délibération",
+    "entre soi"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "robustesse": "modere",
+  "resume": "Discuter uniquement entre personnes du même avis peut rendre les opinions plus extrêmes (polarisation de groupe). Une expérience finlandaise (Strandberg, Himmelroos et Grönlund, 2019) montre que la discussion libre entre personnes du même avis polarise, alors que des groupes qui suivent des règles délibératives (écoute, arguments justifiés, respect) évitent cette polarisation.",
+  "contexte": "La polarisation de groupe est un phénomène ancien de la psychologie sociale ; l'expérience de 2019 teste si des règles de discussion peuvent la prévenir.",
+  "explication": "Dans un repas où tout le monde pense pareil, les avis peuvent se durcir. Des règles simples (laisser finir, justifier, écouter l'autre position) limitent ce risque.",
+  "faits": [
+    {
+      "fait": "Des participants répartis en groupes d'opinion homogène sur une minorité linguistique ont discuté avec ou sans règles délibératives : la discussion libre a produit une polarisation, les groupes suivant des règles délibératives l'ont évitée.",
+      "periode": "2019",
+      "perimetre": "Finlande, discussions en face à face et en ligne",
+      "explication": "La forme de la discussion compte autant que son contenu.",
+      "source": 0,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Entre gens du même avis, les opinions ont tendance à se durcir. Ce qui l'évite, ce sont des règles : écouter, justifier, laisser parler l'autre point de vue.",
+    "moyen": "La recherche sur la polarisation de groupe montre qu'une discussion entre personnes du même avis peut radicaliser les positions. Une expérience finlandaise de 2019 apporte une bonne nouvelle : quand les groupes suivent des règles délibératives, cette polarisation disparaît. Pour un débat à plusieurs, cela invite à faire entendre l'autre position et à poser des règles simples, plutôt qu'à chercher l'approbation de ceux qui pensent déjà comme soi.",
+    "detaille": "La polarisation de groupe désigne le fait qu'une discussion entre personnes partageant une opinion tend à rendre cette opinion plus extrême. Kim Strandberg, Staffan Himmelroos et Kimmo Grönlund ont testé en Finlande si des règles délibératives (justifier ses positions, écouter, respecter les autres) pouvaient l'empêcher. Les participants, répartis en groupes favorables ou défavorables à une minorité linguistique, discutaient avec ou sans ces règles, en face à face ou en ligne. Sans règles, les groupes se sont polarisés ; avec des règles délibératives, la polarisation a été évitée.\n\nLimites : une expérience, dans un pays et sur un sujet précis ; seul le résumé a été consulté.\n\nDans l'application, cette fiche guide les conseils pour les débats à plusieurs et sur les réseaux sociaux : viser le public, rappeler des règles de discussion, éviter l'escalade.",
+    "empathie": "On est plusieurs à table, alors je propose une règle : chacun termine sa phrase, et on essaie de comprendre l'autre position avant de répondre."
+  },
+  "application": [
+    {
+      "situation": "Conversation à plusieurs ou réseaux sociaux",
+      "tactique": "Rappeler des règles de discussion ; faire entendre l'autre position ; viser le public."
+    },
+    {
+      "situation": "Groupe qui pense déjà la même chose",
+      "tactique": "Présenter honnêtement l'argument adverse dans sa forme la plus solide."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Sur les réseaux, aucune règle ne marche.",
+      "reponse": "C'est plus difficile ; l'expérience a aussi testé des discussions en ligne, encadrées. Sans cadre, mieux vaut s'adresser au public qu'à l'interlocuteur."
+    }
+  ],
+  "questions": [
+    "Est-ce qu'on a vraiment entendu le meilleur argument de l'autre camp ?"
+  ],
+  "limites": [
+    "Une seule expérience, en Finlande.",
+    "Seul le résumé a été consulté.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Strandberg, K., Himmelroos, S., & Grönlund, K. (2019). Do discussions in like-minded groups necessarily lead to more extreme opinions? Deliberative democracy and group polarization. International Political Science Review, 40(1), 41-57.",
+      "organisme": "Åbo Akademi University (répertoire de recherche)",
+      "date_publication": "2019",
+      "url": "https://research.abo.fi/en/publications/do-discussions-in-like-minded-groups-necessarily-lead-to-more-ext/",
+      "passage": "Expérience en Finlande : participants répartis en groupes d'opinion homogène, discussions avec ou sans règles délibératives, en face à face et en ligne ; la discussion libre entre personnes du même avis polarise, les groupes suivant des règles délibératives évitent la polarisation.",
+      "pertinence": "Expérience publiée (résumé consulté).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Strandberg, K. ; Himmelroos, S. ; Grönlund, K.",
+    "annee": 2019,
+    "titre": "Strandberg, K., Himmelroos, S., & Grönlund, K. (2019). Do discussions in like-minded groups necessarily lead to more extreme opinions? Deliberative democracy and group polarization. International Political Science Review, 40(1), 41-57.",
+    "publication": "Åbo Akademi University (répertoire de recherche)",
+    "url": "https://research.abo.fi/en/publications/do-discussions-in-like-minded-groups-necessarily-lead-to-more-ext/"
+  },
+  "conditions": "Discussions de groupes homogènes, Finlande, en face à face et en ligne.",
+  "limites_methodo": "Une seule expérience ; résumé consulté.",
+  "confiance": "moyenne",
+  "notions": [
+    "polarisation",
+    "deliberation",
+    "public"
+  ]
+}

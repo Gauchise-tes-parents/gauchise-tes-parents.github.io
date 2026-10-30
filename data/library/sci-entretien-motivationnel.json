@@ -1,0 +1,116 @@
+{
+  "id": "sci-entretien-motivationnel",
+  "type": "science",
+  "affirmation": "Pour aider quelqu'un à changer, il faut le confronter à ses contradictions.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "entretien motivationnel",
+    "écoute active",
+    "reformulation",
+    "questions ouvertes",
+    "confrontation",
+    "écoute"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "robustesse": "robuste",
+  "resume": "L'entretien motivationnel, méthode issue de la clinique, repose sur l'écoute, la reformulation et l'évocation des propres raisons de la personne plutôt que sur la confrontation. Une méta-analyse de 119 études (Lundahl et al., 2010) trouve un effet faible mais significatif et durable par rapport à l'absence d'intervention. L'écoute de qualité réduit aussi l'anxiété sociale de l'interlocuteur (Itzchakov et al., 2018).",
+  "contexte": "L'entretien motivationnel a été développé par William Miller et Stephen Rollnick pour accompagner des changements de comportement (tabac, alcool, santé).",
+  "explication": "On change plus volontiers pour ses propres raisons que pour celles des autres. Écouter, reformuler et poser des questions ouvertes aide la personne à examiner ses idées sans se défendre.",
+  "faits": [
+    {
+      "fait": "Méta-analyse de 119 études : l'entretien motivationnel produit des résultats faibles mais significatifs et durables face à l'absence de traitement (g = 0,28), sans différence significative face à d'autres traitements (g = 0,09).",
+      "periode": "2010",
+      "perimetre": "Comportements de santé, addictions",
+      "explication": "La méthode marche modestement ; elle n'est pas magique.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "g = 0,28"
+    },
+    {
+      "fait": "Cinq expériences : une écoute empathique, attentive et non jugeante réduit l'anxiété sociale de l'orateur et rend ses attitudes plus claires pour lui-même.",
+      "periode": "2018",
+      "perimetre": "Expériences de psychologie sociale",
+      "explication": "Se sentir écouté permet d'examiner ses idées sans se défendre.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "5 expériences"
+    }
+  ],
+  "argumentaires": {
+    "court": "Écouter vraiment, reformuler et demander « qu'est-ce qui t'amène à penser ça ? » marche mieux que de pointer ses contradictions.",
+    "moyen": "Les techniques de l'entretien motivationnel (questions ouvertes, reformulation, valorisation, résumé) ont été testées dans plus d'une centaine d'études sur des changements de comportement : elles ont un effet modeste mais durable. Une autre série d'expériences montre qu'une écoute de qualité diminue l'anxiété de la personne qui parle. Dans un débat, cela donne : reformuler ce que l'autre dit avant de répondre, lui demander ses raisons, et l'aider à formuler ses propres doutes.",
+    "detaille": "L'entretien motivationnel repose sur un principe simple : la personne a ses propres raisons de changer ou non, et c'est en les explorant avec elle qu'on l'aide, plutôt qu'en la confrontant. Ses outils sont connus : questions ouvertes, reformulations, valorisation des efforts, résumés. La méta-analyse de Brad Lundahl et de ses collègues (119 études) trouve un effet faible mais durable face à l'absence d'intervention, et comparable aux autres traitements.\n\nLes travaux de Guy Itzchakov et de ses collègues sur l'écoute montrent qu'une écoute attentive et non jugeante réduit l'anxiété sociale de celui qui parle et clarifie ses attitudes, ce qui lui permet de les examiner.\n\nLimite importante : ces méthodes ont été évaluées pour des changements de comportement en santé, pas pour des opinions politiques ; leur transposition est plausible, non démontrée. Et elles ne doivent pas devenir une technique pour manipuler : leur principe est le respect de l'autonomie.",
+    "empathie": "Si je comprends bien, ce qui te gêne, c'est que tu as l'impression que les efforts ne vont jamais aux mêmes. C'est ça ?"
+  },
+  "application": [
+    {
+      "situation": "Personne qui se braque",
+      "tactique": "Reformuler avant de répondre ; questions ouvertes ; valoriser ce qui est juste dans son inquiétude."
+    },
+    {
+      "situation": "Je ne connais pas assez cette personne",
+      "tactique": "Commencer par des questions ouvertes pour comprendre son point de vue."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Écouter, c'est accepter tout ce qu'il dit.",
+      "reponse": "Non : reformuler montre qu'on a compris, pas qu'on est d'accord."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui t'a amené à voir les choses comme ça ?"
+  ],
+  "limites": [
+    "Les méta-analyses portent sur des changements de comportement en santé.",
+    "Seuls les résumés des articles ont été consultés.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Lundahl, B., Burke, B. L., Tollefson, D. R., Kunz, C., & Browell, C. (2010). A Metaanalysis of Motivational Interviewing: Twenty Five Years of Empirical Studies. Research on Social Work Practice, 20(2), 137-160.",
+      "organisme": "Utah State University (DigitalCommons)",
+      "date_publication": "2010",
+      "url": "https://digitalcommons.usu.edu/sswa_facpubs/199",
+      "passage": "119 études : effet faible mais significatif et durable face à l'absence de traitement (g = 0,28), pas de différence significative face à d'autres traitements (g = 0,09).",
+      "pertinence": "Méta-analyse (résumé consulté).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Itzchakov, G., DeMarree, K. G., Kluger, A. N., & Turjeman-Levi, Y. (2018). The Listener Sets the Tone: High-Quality Listening Increases Attitude Clarity and Behavior-Intention Consequences. Personality and Social Psychology Bulletin, 44(5), 762-778.",
+      "organisme": "Université de Haïfa (répertoire de recherche)",
+      "date_publication": "2018",
+      "url": "https://cris.haifa.ac.il/en/publications/the-listener-sets-the-tone-high-quality-listening-increases-attit/",
+      "passage": "Cinq expériences (dont une préenregistrée) : une écoute empathique, attentive et non jugeante réduit l'anxiété sociale de l'orateur et augmente la clarté de ses attitudes, pas leur caractère « correct ».",
+      "pertinence": "Résumé de l'article.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Lundahl, B. et al. ; Itzchakov, G. et al.",
+    "annee": 2010,
+    "titre": "Lundahl, B., Burke, B. L., Tollefson, D. R., Kunz, C., & Browell, C. (2010). A Metaanalysis of Motivational Interviewing: Twenty Five Years of Empirical Studies. Research on Social Work Practice, 20(2), 137-160.",
+    "publication": "Utah State University (DigitalCommons)",
+    "url": "https://digitalcommons.usu.edu/sswa_facpubs/199"
+  },
+  "conditions": "Changements de comportement en santé ; expériences sur l'écoute.",
+  "limites_methodo": "Transposition aux opinions politiques non démontrée.",
+  "confiance": "moyenne",
+  "notions": [
+    "entretien_motivationnel",
+    "ecoute",
+    "questions_ouvertes",
+    "reformulation"
+  ]
+}

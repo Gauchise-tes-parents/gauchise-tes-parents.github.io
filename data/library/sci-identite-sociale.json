@@ -1,0 +1,122 @@
+{
+  "id": "sci-identite-sociale",
+  "type": "science",
+  "affirmation": "Les opinions politiques, c'est un choix purement individuel et rationnel.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "identité sociale",
+    "groupe",
+    "appartenance",
+    "tajfel",
+    "nous",
+    "eux",
+    "polarisation",
+    "camp"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "robustesse": "robuste",
+  "resume": "Nos opinions s'inscrivent aussi dans nos appartenances. Les expériences de Tajfel montrent qu'une catégorisation arbitraire suffit à créer du favoritisme envers son groupe. La théorie de l'identité sociale explique pourquoi un désaccord politique peut être vécu comme une menace contre le groupe auquel on appartient. Le contexte compte : la compétition accentue les biais, la coopération les réduit.",
+  "contexte": "La théorie de l'identité sociale (Tajfel et Turner, années 1970) est l'une des plus influentes de la psychologie sociale.",
+  "explication": "Changer d'avis peut donner l'impression de trahir les siens. C'est pourquoi il vaut mieux séparer la personne, son groupe et l'idée discutée.",
+  "faits": [
+    {
+      "fait": "Dans les expériences de groupes minimaux de Tajfel (début des années 1970), des participants répartis selon des critères arbitraires attribuent davantage de ressources à leur propre groupe.",
+      "periode": "Années 1970",
+      "perimetre": "Expériences de laboratoire",
+      "explication": "La simple catégorisation en « nous » suffit à produire du favoritisme.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'hypothèse selon laquelle le favoritisme viserait d'abord à renforcer l'estime de soi a été « largement abandonnée » faute de preuves ; les contextes compétitifs accentuent les biais, les contextes coopératifs les réduisent.",
+      "periode": "2025",
+      "perimetre": "Synthèse encyclopédique",
+      "explication": "La théorie a été corrigée par la recherche, et le contexte d'une discussion compte.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Sur un sujet politisé, des participants compétents en calcul interprètent les mêmes données de façon plus polarisée (Kahan et al., 2017).",
+      "periode": "2017",
+      "perimetre": "Expérience aux États-Unis",
+      "explication": "L'appartenance politique peut orienter la lecture des faits.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "On ne pense pas seul : nos opinions sont liées à nos groupes. Pour discuter, mieux vaut ne jamais faire sentir à l'autre qu'il devrait renier les siens.",
+    "moyen": "La psychologie sociale montre que nos opinions sont liées à nos appartenances. Il suffit de répartir des gens en groupes au hasard pour qu'ils favorisent le leur. En politique, un argument peut donc être reçu comme une attaque contre le groupe. Concrètement : ne pas caricaturer le camp de l'autre, distinguer ses valeurs de ses conclusions, et créer un « nous » commun (la famille, les travailleurs, les citoyens d'une ville) plutôt qu'un « eux contre nous ».",
+    "detaille": "La théorie de l'identité sociale, formulée par Henri Tajfel et John Turner, part d'une observation : dans les expériences dites des « groupes minimaux », des personnes réparties selon des critères arbitraires favorisent quand même leur groupe. Une part de notre identité vient de nos appartenances (nation, religion, métier, camp politique). La théorie de l'auto-catégorisation a précisé quand une identité devient saillante.\n\nLa recherche a aussi corrigé la théorie : l'idée que le favoritisme servirait d'abord l'estime de soi a été largement abandonnée, et le contexte module fortement les biais (la compétition les accentue, la coopération les réduit), selon la synthèse de Jolanda Jetten (2025). L'expérience de Kahan et al. illustre l'effet de l'appartenance politique sur la lecture des chiffres.\n\nApplication : dans une discussion, éviter de transformer le désaccord en affrontement de groupes ; rappeler les identités communes ; présenter un fait comme une information, pas comme une défaite.",
+    "empathie": "On n'est pas dans deux camps ennemis, on est de la même famille et on veut tous les deux que ça aille mieux. On regarde juste comment."
+  },
+  "application": [
+    {
+      "situation": "Personne très attachée à son identité politique",
+      "tactique": "Ne jamais présenter son groupe comme intrinsèquement mauvais ; distinguer valeurs et conclusions."
+    },
+    {
+      "situation": "Conversation à plusieurs",
+      "tactique": "Éviter le « eux contre nous » ; rappeler une identité commune."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Mais certains groupes défendent des idées dangereuses.",
+      "reponse": "On peut combattre fermement des idées sans traiter chaque personne comme l'incarnation de son groupe."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qu'on a en commun, toi et moi, sur ce sujet ?"
+  ],
+  "limites": [
+    "La synthèse encyclopédique ne traite pas directement de la polarisation politique.",
+    "Les expériences de groupes minimaux sont des situations de laboratoire.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Jetten, J. (2025). Social Identity. Open Encyclopedia of Cognitive Science.",
+      "organisme": "MIT Press",
+      "date_publication": "6 janvier 2025",
+      "url": "https://oecs.mit.edu/pub/qlm9zp9e/download/pdf",
+      "passage": "Paradigme des groupes minimaux (Tajfel) : une catégorisation arbitraire suffit à produire du favoritisme ; théorie de l'auto-catégorisation ; l'hypothèse de l'estime de soi est « largement abandonnée » ; contextes compétitifs et coopératifs modulent les biais.",
+      "pertinence": "Article d'encyclopédie universitaire (CC BY 4.0).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Kahan, D. M., Peters, E., Dawson, E. C., & Slovic, P. (2017). Motivated numeracy and enlightened self-government. Behavioural Public Policy, 1(1), 54-86.",
+      "organisme": "Behavioural Public Policy (Cambridge University Press)",
+      "date_publication": "2017",
+      "url": "https://www.cambridge.org/core/journals/behavioural-public-policy/article/abs/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806",
+      "passage": "Mêmes données présentées comme une étude sur un traitement de la peau ou sur le contrôle des armes : les plus à l'aise avec les chiffres réussissent mieux sur la version neutre, mais la polarisation augmente chez eux sur la version politisée.",
+      "pertinence": "Expérience publiée (résumé consulté).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Jetten, J. (synthèse) ; Tajfel, H. ; Turner, J.",
+    "annee": 2025,
+    "titre": "Jetten, J. (2025). Social Identity. Open Encyclopedia of Cognitive Science.",
+    "publication": "MIT Press",
+    "url": "https://oecs.mit.edu/pub/qlm9zp9e/download/pdf"
+  },
+  "conditions": "Appartenances de groupe, contextes compétitifs ou coopératifs.",
+  "limites_methodo": "Expériences de laboratoire ; hypothèse de l'estime de soi abandonnée.",
+  "confiance": "elevee",
+  "notions": [
+    "identite_sociale",
+    "identite_politique"
+  ]
+}

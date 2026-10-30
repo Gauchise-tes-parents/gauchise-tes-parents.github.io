@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Gauchise tes parents</title>
+  <meta name="description" content="Prépare ta riposte ou ton dialogue avec des sources vérifiées : réplique courte, arguments adaptés à la personne en face, sources. Fonctionne aussi sans Internet. Un outil d'éducation populaire de Marty Ducanda.">
+  <meta name="theme-color" content="#2B1A5C">
+  <meta name="referrer" content="no-referrer">
+  <link rel="icon" type="image/svg+xml" href="img/icon.svg">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preload" href="fonts/poppins-bold.woff" as="font" type="font/woff" crossorigin>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="config.js"></script>
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Aller au contenu</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="#/" aria-label="Gauchise tes parents — accueil" data-logo></a>
+      <nav class="tabbar" aria-label="Navigation principale" data-tabbar></nav>
+      <a class="mode-pill" id="mode-pill" href="#/mode" data-mode="autonome">Autonome</a>
+      <a class="header-about" href="#/a-propos" data-about>À propos</a>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <noscript><p class="wrap noscript">Cette application a besoin de JavaScript. Les fiches de la bibliothèque restent lisibles dans le fichier <code>kb/base.json</code>.</p></noscript>
+    <div id="app"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div id="footer-support"></div>
+      <div class="footer-links">
+        <p class="footer-slogan">Ils ont leurs certitudes. Tu as les sources.</p>
+        <ul>
+          <li><a href="#/debat">Préparer un débat</a></li>
+          <li><a href="#/express">Réponse express</a></li>
+          <li><a href="#/thematiques">Thématiques</a></li>
+          <li><a href="#/bibliotheque">Bibliothèque</a></li>
+          <li><a href="#/mode">Mode autonome et hors-ligne</a></li>
+          <li><a href="#/mes-donnees">Mes données</a></li>
+          <li><a href="#/veille">Veille et actualisations</a></li>
+          <li><a href="#/publier">Publier et partager</a></li>
+          <li><a href="#/a-propos">À propos et ligne éditoriale</a></li>
+          <li><a href="#/confidentialite">Confidentialité</a></li>
+        </ul>
+        <p class="footer-small">Un projet indépendant de Marty Ducanda. Illustrations originales, personnages fictifs.</p>
+      </div>
+    </div>
+  </footer>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

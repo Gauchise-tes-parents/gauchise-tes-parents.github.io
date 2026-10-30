@@ -1,0 +1,82 @@
+{
+  "id": "front-populaire-1936",
+  "type": "histoire",
+  "affirmation": "Les congés payés et les droits des salariés, c'est le patronat qui les a offerts.",
+  "volet": "international",
+  "sous_theme": "Histoire du mouvement ouvrier",
+  "rubriques": ["patriotisme-de-gauche"],
+  "mots_cles": ["front populaire", "1936", "congés payés", "léon blum", "accords de matignon", "grèves", "40 heures", "droits des travailleurs"],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "Les congés payés sont issus d'une loi du gouvernement de Front populaire de Léon Blum, promulguée le 20 juin 1936 après une vague de grèves et des négociations avec le patronat : deux semaines de congés payés (dont au moins douze jours ouvrables) après un an d'ancienneté. Ils n'ont pas été « offerts » : ils ont été obtenus par la mobilisation et la loi.",
+  "contexte": "En mai 1936, le Front populaire (radicaux, socialistes, avec le soutien des communistes) gagne les élections. Une immense vague de grèves avec occupations d'usines accompagne son arrivée au pouvoir. Les négociations avec le patronat aboutissent aux accords de Matignon ; le Parlement vote plusieurs lois sociales.",
+  "explication": "Les droits sociaux sont presque toujours le fruit d'un rapport de forces : mobilisation des salariés, victoire électorale, puis loi. Rappeler cette histoire montre que ce qui paraît « normal » aujourd'hui a été conquis.",
+  "faits": [
+    {
+      "fait": "La loi sur les congés payés a été adoptée par la Chambre des députés le 11 juin 1936 par 563 voix contre 1, et promulguée le 20 juin 1936.",
+      "chiffre": "563 voix contre 1",
+      "periode": "Juin 1936",
+      "perimetre": "Chambre des députés",
+      "explication": "Une fois la mobilisation engagée, la mesure a recueilli un vote quasi unanime.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La loi accorde au moins 15 jours de congés payés, dont au moins 12 jours ouvrables, après un an de service continu, et une semaine après six mois.",
+      "chiffre": "15 jours",
+      "periode": "1936",
+      "perimetre": "Salariés",
+      "explication": "Pour beaucoup d'ouvriers, ce furent les premières vacances de leur vie.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Léon Blum, président du Conseil, a déposé le projet et l'a annoncé à la radio le 5 juin 1936 ; les négociations avec le patronat ont abouti aux accords de Matignon.",
+      "periode": "Juin 1936",
+      "perimetre": "Gouvernement du Front populaire",
+      "explication": "La réforme est politique et sociale : elle vient d'une majorité élue et d'un mouvement de grève.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Personne n'a offert les congés payés : il a fallu une victoire électorale du Front populaire, des grèves dans tout le pays, puis une loi, promulguée le 20 juin 1936.",
+    "moyen": "Les congés payés ne sont pas tombés du ciel. Au printemps 1936, le Front populaire gagne les élections, et une vague de grèves avec occupations d'usines secoue le pays. Le gouvernement de Léon Blum dépose un projet de loi, annoncé à la radio le 5 juin ; après les négociations avec le patronat, les accords de Matignon sont signés et la loi sur les congés payés est votée par 563 voix contre 1, puis promulguée le 20 juin 1936. Elle donne deux semaines de congés payés après un an de travail. Ce qu'on considère comme normal aujourd'hui a été conquis par la mobilisation et la loi.",
+    "detaille": "L'histoire des congés payés illustre comment se construisent les droits sociaux. En mai 1936, la coalition du Front populaire remporte les élections législatives. Avant même l'installation du gouvernement, une vague de grèves inédite, souvent avec occupation des usines, touche tout le pays.\n\nLéon Blum, président du Conseil, annonce à la radio le 5 juin 1936 les projets de son gouvernement. Les négociations entre le patronat et les syndicats, sous l'égide du gouvernement, aboutissent aux accords de Matignon. Le Parlement adopte ensuite plusieurs lois sociales, dont celle sur les congés payés : votée à la Chambre des députés le 11 juin 1936 par 563 voix contre 1, elle est promulguée le 20 juin. Les salariés ayant un an de service continu obtiennent au moins 15 jours de congés payés, dont au moins 12 jours ouvrables.\n\nCette conquête n'est pas le cadeau d'un patronat bienveillant : elle résulte d'une majorité politique et d'un rapport de forces social.\n\nRappeler cette histoire, c'est aussi une forme de patriotisme social : ces droits font partie de ce que beaucoup aiment dans la France.",
+    "empathie": "C'est vrai que les entreprises ont dû s'adapter, et que les chefs d'entreprise ont signé les accords de Matignon. Mais sans les grèves et le vote de la loi, personne ne pense qu'ils l'auraient fait d'eux-mêmes à ce moment-là."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le patronat a signé les accords de Matignon, il a donc accepté.",
+      "reponse": "Il a signé dans un contexte de grève générale et après une victoire électorale. Signer sous la pression n'est pas offrir."
+    },
+    {
+      "objection": "Le Front populaire a échoué économiquement.",
+      "reponse": "Son bilan économique fait débat chez les historiens. Mais la question ici est d'où viennent les congés payés : d'une loi du Front populaire."
+    }
+  ],
+  "questions": [
+    "Tu connais un droit social qui aurait été obtenu sans aucune mobilisation ?",
+    "Que se passerait-il si les congés payés n'étaient pas inscrits dans la loi ?"
+  ],
+  "limites": [
+    "La fiche ne détaille pas les autres lois de 1936 (semaine de 40 heures, conventions collectives), faute de source consultée précisant leurs dates.",
+    "Le bilan économique du Front populaire reste débattu."
+  ],
+  "sources": [
+    {
+      "titre": "Ces lois qui font votre été : il y a 90 ans, les congés payés",
+      "organisme": "LCP — La Chaîne parlementaire (Anne-Charlotte Dusseaulx)",
+      "date_publication": "3 août 2026",
+      "url": "https://lcp.fr/actualites/ces-lois-qui-font-votre-ete-il-y-a-90-ans-les-conges-payes-439778",
+      "passage": "Loi adoptée le 11 juin 1936 par 563 voix contre 1, promulguée le 20 juin ; au moins 15 jours dont 12 ouvrables après un an ; annonce radio de Léon Blum le 5 juin ; accords de Matignon.",
+      "pertinence": "Média de l'Assemblée nationale, article historique récent.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2029-10-29",
+  "raison_actualisation": "Fiche historique : relecture périodique."
+}

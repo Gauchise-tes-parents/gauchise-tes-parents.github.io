@@ -1,0 +1,111 @@
+{
+  "id": "dividendes-salaires",
+  "type": "idee_recue",
+  "affirmation": "Les entreprises n'ont pas les moyens d'augmenter les salaires.",
+  "volet": "economie",
+  "sous_theme": "Dividendes",
+  "rubriques": [],
+  "mots_cles": [
+    "dividendes",
+    "salaires",
+    "actionnaires",
+    "profits",
+    "taux de marge",
+    "valeur ajoutée",
+    "partage de la valeur",
+    "cac 40",
+    "pouvoir d achat"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "actualite",
+  "resume": "La situation dépend des entreprises. Les grandes entreprises cotées françaises ont versé environ 61 Md€ de dividendes au seul deuxième trimestre 2026 (étude Janus Henderson), un niveau qui place la France en tête en Europe. Pour l'ensemble des sociétés non financières, le taux de marge reste élevé (32,2 % en 2025 selon l'Insee), en léger recul. Beaucoup de petites entreprises ont des marges faibles ; mais « les entreprises » en général ne manquent pas toutes de moyens.",
+  "contexte": "Le débat sur le partage de la valeur oppose rémunération du travail (salaires) et du capital (dividendes, investissement). En 2025, le pouvoir d'achat par unité de consommation a reculé de 0,7 % selon l'Insee.",
+  "explication": "Le taux de marge mesure la part de la valeur ajoutée qui reste à l'entreprise après avoir payé salaires et impôts sur la production ; il sert à investir, rembourser, payer des impôts et verser des dividendes. Les dividendes sont la part des profits distribuée aux actionnaires.",
+  "faits": [
+    {
+      "fait": "Au deuxième trimestre 2026, les entreprises françaises cotées ont versé 70,4 Md$ (environ 61 Md€) de dividendes, +7,2 % sur un an, soit 29 % des dividendes européens hors Royaume-Uni.",
+      "periode": "T2 2026",
+      "perimetre": "Grandes entreprises cotées (étude Janus Henderson)",
+      "explication": "Les grands groupes distribuent des montants très élevés.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "≈ 61 Md€ en un trimestre"
+    },
+    {
+      "fait": "Hors effets exceptionnels (dont un dividende exceptionnel de Bolloré SE), la progression sous-jacente est de −0,8 %.",
+      "periode": "T2 2026",
+      "perimetre": "Même étude",
+      "explication": "Le niveau est élevé, mais pas en hausse continue.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "En 2025, le taux de marge des sociétés non financières est de 32,2 %, en baisse de 0,5 point ; leurs dividendes versés reculent de 6,4 Md€ après +8,3 Md€ en 2024, et leurs rémunérations versées augmentent de 20,0 Md€.",
+      "periode": "2025",
+      "perimetre": "Sociétés non financières (comptabilité nationale)",
+      "explication": "Les marges restent substantielles en moyenne, avec des évolutions contrastées.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "32,2 %"
+    },
+    {
+      "fait": "Le pouvoir d'achat du revenu disponible par unité de consommation recule de 0,7 % en 2025.",
+      "periode": "2025",
+      "perimetre": "Ménages",
+      "explication": "Les ménages ont perdu du pouvoir d'achat cette année-là.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "−0,7 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les grandes entreprises françaises ont versé environ 61 milliards d'euros de dividendes en un seul trimestre de 2026. Toutes les PME ne sont pas riches, mais dire que « les entreprises » n'ont pas les moyens, c'est faux pour les plus grandes.",
+    "moyen": "Ça dépend de quelles entreprises on parle. Pour une petite boulangerie, augmenter les salaires peut être dur, c'est vrai. Mais les grandes entreprises cotées françaises ont versé environ 61 milliards d'euros de dividendes au deuxième trimestre 2026, plus que n'importe quel autre pays européen. Et en moyenne, les sociétés gardent une marge d'environ un tiers de leur valeur ajoutée selon l'Insee. Pendant ce temps, le pouvoir d'achat des ménages a reculé en 2025. La question n'est donc pas seulement « ont-elles les moyens ? », mais « comment la richesse produite est-elle partagée ? ».",
+    "detaille": "L'argument mélange des entreprises très différentes.\n\nDu côté des grands groupes, les chiffres sont élevés : selon l'étude trimestrielle de Janus Henderson, les entreprises françaises cotées ont versé 70,4 Md$, soit environ 61 Md€, de dividendes au deuxième trimestre 2026, plaçant la France en tête en Europe (29 % des dividendes européens hors Royaume-Uni). Une partie vient d'un dividende exceptionnel ; hors effets exceptionnels, la tendance sous-jacente est stable (−0,8 %).\n\nPour l'ensemble des sociétés non financières, l'Insee mesure un taux de marge de 32,2 % en 2025, en léger recul. En 2025, les dividendes versés par ces sociétés ont baissé de 6,4 Md€ après une hausse de 8,3 Md€ en 2024, tandis que les rémunérations versées ont progressé de 20 Md€. Le pouvoir d'achat par unité de consommation a reculé de 0,7 %.\n\nCes données ne disent pas que toutes les entreprises peuvent augmenter les salaires : beaucoup de PME ont des marges faibles. Elles montrent en revanche que, pour une partie importante de l'économie, la question est un choix de partage entre salaires, investissement et rémunération des actionnaires. C'est précisément l'objet du débat politique.",
+    "empathie": "Je comprends qu'on pense d'abord aux petits patrons qui galèrent ; certains n'ont vraiment pas les moyens. Mais les très grandes entreprises, elles, versent des dizaines de milliards aux actionnaires. On peut aider les petites et demander plus aux grandes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les dividendes rémunèrent le risque et financent les retraites des épargnants.",
+      "reponse": "C'est leur fonction ; mais une part importante va à des actionnaires fortunés ou étrangers, et le niveau de distribution par rapport aux salaires reste un choix discutable."
+    },
+    {
+      "objection": "Si on taxe les dividendes, les entreprises investiront moins.",
+      "reponse": "C'est un argument sérieux et débattu par les économistes ; les effets dépendent de la mesure exacte."
+    }
+  ],
+  "questions": [
+    "Selon toi, qui devrait profiter en priorité des bénéfices d'une entreprise ?",
+    "Faut-il traiter de la même façon une PME et un grand groupe du CAC 40 ?"
+  ],
+  "limites": [
+    "Le chiffre trimestriel de dividendes porte sur les grandes entreprises cotées et provient d'un gestionnaire d'actifs privé, via la presse financière.",
+    "La fiche ne contient pas l'évolution longue du partage de la valeur ajoutée entre salaires et profits."
+  ],
+  "sources": [
+    {
+      "titre": "Dividendes : la France numéro 1 en Europe et numéro 2 mondial au deuxième trimestre 2026",
+      "organisme": "Toutsurmesfinances.com (d'après l'étude trimestrielle de Janus Henderson)",
+      "date_publication": "16 septembre 2026",
+      "url": "https://www.toutsurmesfinances.com/actualites/?p=1934",
+      "passage": "Deuxième trimestre 2026 : 70,4 Md$ (environ 61 Md€) de dividendes versés par les entreprises françaises cotées, +7,2 % sur un an (−0,8 % hors effets exceptionnels) ; 29 % des dividendes européens hors Royaume-Uni ; dividende exceptionnel de Bolloré SE.",
+      "pertinence": "Étude d'un gestionnaire d'actifs reprise par la presse financière ; périmètre : grandes entreprises cotées.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Les comptes de la Nation en 2025 (Insee Première n° 2105)",
+      "organisme": "Insee",
+      "date_publication": "29 mai 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8996855",
+      "passage": "Croissance +0,8 % en 2025 ; taux de marge des sociétés non financières 32,2 % (−0,5 point) ; dividendes versés par les SNF −6,4 Md€ en 2025 après +8,3 Md€ en 2024 ; dividendes reçus par les ménages −10,5 Md€ après +13,9 Md€ (anticipation de la contribution sur les hauts revenus) ; rémunérations versées par les SNF +20,0 Md€ ; pouvoir d'achat par unité de consommation −0,7 %.",
+      "pertinence": "Comptabilité nationale officielle.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Données trimestrielles et annuelles qui évoluent vite."
+}

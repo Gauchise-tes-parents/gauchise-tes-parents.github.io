@@ -1,0 +1,116 @@
+{
+  "id": "sci-valeurs-morales",
+  "type": "science",
+  "affirmation": "Les arguments qui me convainquent convaincront tout le monde.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "valeurs",
+    "morale",
+    "fondements moraux",
+    "reformulation",
+    "moral reframing",
+    "haidt",
+    "mérite",
+    "ordre",
+    "solidarité"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "robustesse": "modere",
+  "resume": "Les gens n'accordent pas tous la même importance aux mêmes valeurs morales. Feinberg et Willer (2015) montrent que les arguments reformulés dans les valeurs de l'interlocuteur sont plus persuasifs, alors que spontanément chacun argumente avec ses propres valeurs. La théorie des fondements moraux qui sous-tend ces travaux a été révisée (égalité et proportionnalité distinguées) et reste discutée.",
+  "contexte": "La théorie des fondements moraux (Haidt, Graham et collègues) décrit plusieurs intuitions morales : soin, équité, loyauté, autorité, pureté. Elle a été critiquée pour ses échantillons occidentaux et pour avoir négligé l'égalité.",
+  "explication": "Un argument sur la justice sociale touchera quelqu'un qui valorise l'égalité ; pour quelqu'un qui valorise l'ordre, la loyauté ou le mérite, le même fait peut être présenté sous un autre angle, sans rien changer à la vérité.",
+  "faits": [
+    {
+      "fait": "Six études (1 322 participants) : les messages reformulés dans les valeurs morales du public visé sont nettement plus persuasifs ; spontanément, la plupart des participants argumentent avec leurs propres valeurs.",
+      "periode": "2015",
+      "perimetre": "Études en ligne aux États-Unis",
+      "explication": "Il faut parler la langue morale de l'autre, pas seulement la sienne.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "1 322 participants"
+    },
+    {
+      "fait": "Le nouveau questionnaire MFQ-2, testé dans 19 pays, distingue six fondements dont l'égalité et la proportionnalité ; la version initiale était critiquée pour avoir négligé l'égalité et reposé sur des échantillons occidentaux.",
+      "periode": "2023-2024",
+      "perimetre": "Étude internationale",
+      "explication": "La théorie évolue ; elle décrit des tendances, pas des cases.",
+      "source": 1,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Pour convaincre quelqu'un, pars de ses valeurs à lui, pas des tiennes. Le même fait peut parler à la justice, à l'ordre ou à la fierté nationale.",
+    "moyen": "Les recherches de Feinberg et Willer montrent qu'un argument est plus persuasif quand il s'appuie sur les valeurs de la personne qu'on veut convaincre. Par exemple, la Sécurité sociale peut se défendre au nom de la solidarité, mais aussi au nom du mérite (on a cotisé), de la sécurité (on est protégé) ou de la fierté nationale (une conquête française). Les faits restent les mêmes ; l'angle change. Attention : il s'agit de tendances statistiques, pas d'étiquettes à coller sur les gens.",
+    "detaille": "Matthew Feinberg et Robb Willer ont mené six études auprès de 1 322 participants américains. Des arguments en faveur de positions progressistes, reformulés dans des valeurs plus conservatrices (patriotisme, loyauté), convainquaient davantage des conservateurs, et inversement. Les participants à qui l'on demandait d'écrire pour l'autre camp utilisaient pourtant spontanément leurs propres valeurs.\n\nCes travaux s'appuient sur la théorie des fondements moraux, qui a été révisée : l'étude de Mohammad Atari et de ses collègues (19 pays) distingue désormais six fondements, dont l'égalité et la proportionnalité, en réponse aux critiques sur la version initiale.\n\nLimites : les études sont surtout américaines ; une reformulation mal faite peut sembler opportuniste ; et l'objectif n'est pas de travestir ses convictions mais de rendre visibles des points communs réels.",
+    "empathie": "Toi, ce qui compte, c'est qu'on récompense ceux qui bossent. Moi aussi. C'est justement pour ça que ce chiffre m'interpelle."
+  },
+  "application": [
+    {
+      "situation": "Valeurs prioritaires renseignées",
+      "tactique": "Présenter le fait sous l'angle de la valeur prioritaire de l'interlocuteur (sécurité, mérite, souveraineté, solidarité…)."
+    },
+    {
+      "situation": "Convaincre avec empathie",
+      "tactique": "Commencer par la valeur partagée."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "C'est de la manipulation de changer d'angle.",
+      "reponse": "Non, tant que les faits restent exacts et que la valeur invoquée est réellement concernée : c'est rendre l'argument compréhensible."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui compte le plus pour toi dans ce débat ?"
+  ],
+  "limites": [
+    "Les études sont surtout américaines.",
+    "L'étude internationale est connue par un article de vulgarisation.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Framing persuasive messages : présentation de Feinberg & Willer (2015), Personality and Social Psychology Bulletin",
+      "organisme": "Stanford Report (Université Stanford)",
+      "date_publication": "Octobre 2015",
+      "url": "https://news.stanford.edu/stories/2015/10/framing-persuasive-messages-101215",
+      "passage": "Six études en ligne, 1 322 participants : les arguments reformulés dans les valeurs morales de l'interlocuteur sont plus persuasifs ; spontanément, la plupart des gens argumentent avec leurs propres valeurs.",
+      "pertinence": "Communiqué universitaire présentant l'article.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Atari, M., Haidt, J., Graham, J., et al. Morality Beyond the WEIRD. Journal of Personality and Social Psychology (présentation PsyPost)",
+      "organisme": "PsyPost",
+      "date_publication": "19 janvier 2024",
+      "url": "https://www.psypost.org/decoding-morality-across-cultures-insights-from-a-mega-study-of-moral-foundations-theory/",
+      "passage": "Nouveau questionnaire (MFQ-2) testé dans 19 pays (3 902 participants pour l'étude principale) : six fondements dont l'équité scindée en égalité et proportionnalité ; critiques de la version initiale (égalité omise, échantillons occidentaux).",
+      "pertinence": "Article de vulgarisation scientifique présentant l'étude.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Feinberg, M. ; Willer, R.",
+    "annee": 2015,
+    "titre": "Framing persuasive messages : présentation de Feinberg & Willer (2015), Personality and Social Psychology Bulletin",
+    "publication": "Stanford Report (Université Stanford)",
+    "url": "https://news.stanford.edu/stories/2015/10/framing-persuasive-messages-101215"
+  },
+  "conditions": "Messages écrits adressés au camp opposé, États-Unis.",
+  "limites_methodo": "Tendances moyennes ; théorie révisée (MFQ-2) ; risque de paraître opportuniste.",
+  "confiance": "moyenne",
+  "notions": [
+    "valeurs_morales",
+    "recadrage"
+  ]
+}

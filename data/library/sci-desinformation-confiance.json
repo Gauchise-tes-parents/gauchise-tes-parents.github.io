@@ -1,0 +1,115 @@
+{
+  "id": "sci-desinformation-confiance",
+  "type": "science",
+  "affirmation": "Il suffit de dire « c'est faux » pour qu'une fausse info disparaisse.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "désinformation",
+    "fake news",
+    "correction",
+    "confiance",
+    "méfiance",
+    "institutions",
+    "experts",
+    "prebunking",
+    "source"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "robustesse": "robuste",
+  "resume": "La revue d'Ecker et al. (2022) montre qu'une fausse information continue souvent d'influencer le raisonnement après sa correction. Ses ressorts sont cognitifs, sociaux et affectifs : raccourcis mentaux, émotions, menaces identitaires, crédibilité de la source, défiance envers les experts. Les interventions efficaces combinent prévention (« prebunking ») et correction expliquée.",
+  "contexte": "La lutte contre la désinformation a pris de l'ampleur depuis 2016 ; la recherche distingue désormais plusieurs types d'interventions.",
+  "explication": "Une correction marche mieux si elle explique pourquoi l'information est fausse, propose une autre explication et vient d'une source jugée crédible par la personne.",
+  "faits": [
+    {
+      "fait": "Ecker et al. (2022) décrivent un « effet d'influence persistante » : une fausse information peut continuer à peser sur le raisonnement après avoir été corrigée.",
+      "periode": "2022",
+      "perimetre": "Revue de littérature internationale",
+      "explication": "Dire « c'est faux » ne suffit pas.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Parmi les facteurs de croyance : raccourcis mentaux, émotions, menaces identitaires, crédibilité de la source et défiance envers les experts ; les corrections publiques peuvent être vécues comme « embarrassantes ou conflictuelles ».",
+      "periode": "2022",
+      "perimetre": "Résumé de la revue",
+      "explication": "Pour quelqu'un qui se méfie des institutions, l'origine et la méthode des chiffres comptent autant que les chiffres.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Dire « c'est faux » ne suffit pas : explique pourquoi, donne une explication de remplacement et une source que l'autre peut accepter.",
+    "moyen": "Une fausse information laisse des traces même après correction. Pour corriger efficacement, la recherche recommande d'expliquer pourquoi l'information est fausse, de proposer une explication alternative et de soigner la source. Pour quelqu'un qui se méfie des institutions, il vaut mieux montrer d'où vient le chiffre, comment il est calculé et ce qu'il ne dit pas, plutôt que de répondre « les experts l'ont dit ». Et éviter de corriger en humiliant devant tout le monde.",
+    "detaille": "La revue publiée en 2022 dans Nature Reviews Psychology par Ullrich Ecker, Stephan Lewandowsky, John Cook et leurs collègues fait le point sur les raisons pour lesquelles les gens croient des informations fausses et résistent à leur correction. Elle identifie des facteurs cognitifs (raccourcis mentaux), sociaux et affectifs (émotions, menaces identitaires, crédibilité de la source, défiance envers les experts) et décrit l'effet d'influence persistante : même corrigée, l'information fausse peut être réactivée.\n\nLes auteurs évaluent deux familles d'interventions : préventives (« prebunking », qui avertit à l'avance des techniques de manipulation) et correctives (« debunking »). Ils soulignent que le contexte compte : une correction publique peut être vécue comme humiliante.\n\nApplication : une correction utile est expliquée, propose une alternative, s'appuie sur une source que la personne peut accepter et respecte sa dignité.",
+    "empathie": "Je comprends que tu ne fasses pas confiance aux chiffres officiels, ça arrive qu'ils se trompent. Regarde comment celui-là est calculé, et dis-moi ce qui te paraît douteux."
+  },
+  "application": [
+    {
+      "situation": "Personne méfiante envers les institutions",
+      "tactique": "Expliquer l'origine des données, la méthode et les limites ; croiser plusieurs sources ; ne pas se contenter de « les experts l'ont dit »."
+    },
+    {
+      "situation": "Corriger une information",
+      "tactique": "Expliquer pourquoi c'est faux et proposer une explication alternative."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Si la personne se méfie de toutes les sources, c'est sans espoir.",
+      "reponse": "Pas forcément : on peut partir de ce qu'elle constate elle-même et montrer comment une donnée est construite."
+    }
+  ],
+  "questions": [
+    "Quelle source te paraîtrait fiable pour vérifier ça ?"
+  ],
+  "limites": [
+    "Seuls le résumé de la revue et un compte rendu détaillé ont été consultés.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Ecker, U. K. H., Lewandowsky, S., Cook, J., et al. (2022). The psychological drivers of misinformation belief and its resistance to correction. Nature Reviews Psychology, 1(1), 13-29.",
+      "organisme": "University of Western Australia (répertoire de recherche)",
+      "date_publication": "2022",
+      "url": "https://research-repository.uwa.edu.au/en/publications/the-psychological-drivers-of-misinformation-belief-and-its-resist/",
+      "passage": "Revue : facteurs cognitifs, sociaux et affectifs de la croyance aux fausses informations ; « effet d'influence persistante » après correction ; interventions préventives (« prebunking ») et correctives (« debunking »).",
+      "pertinence": "Revue de synthèse (résumé consulté).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Why people believe misinformation and resist correction (résumé de Ecker et al., 2022, par Justin Hendrix)",
+      "organisme": "Skeptical Science (reprise de Tech Policy Press)",
+      "date_publication": "26 janvier 2022",
+      "url": "https://skepticalscience.com/news.php?n=5295",
+      "passage": "La correction n'efface pas l'information initiale, qui peut être réactivée ; facteurs : raccourcis mentaux, émotions, menaces identitaires, crédibilité de la source, défiance envers les experts ; corrections publiques parfois vécues comme « embarrassantes ou conflictuelles ».",
+      "pertinence": "Résumé détaillé de la revue.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Ecker, U. K. H. et al.",
+    "annee": 2022,
+    "titre": "Ecker, U. K. H., Lewandowsky, S., Cook, J., et al. (2022). The psychological drivers of misinformation belief and its resistance to correction. Nature Reviews Psychology, 1(1), 13-29.",
+    "publication": "University of Western Australia (répertoire de recherche)",
+    "url": "https://research-repository.uwa.edu.au/en/publications/the-psychological-drivers-of-misinformation-belief-and-its-resist/"
+  },
+  "conditions": "Fausses informations et corrections, contextes variés.",
+  "limites_methodo": "Revue lue en résumé ; recommandations générales, pas de prédiction individuelle.",
+  "confiance": "elevee",
+  "notions": [
+    "confiance_institutions",
+    "correction",
+    "sources"
+  ]
+}

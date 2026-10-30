@@ -1,0 +1,113 @@
+{
+  "id": "delinquance-partout",
+  "type": "idee_recue",
+  "affirmation": "La délinquance augmente partout.",
+  "volet": "securite",
+  "sous_theme": "Délinquance",
+  "rubriques": [],
+  "mots_cles": [
+    "délinquance",
+    "insécurité",
+    "violences",
+    "cambriolages",
+    "homicides",
+    "stupéfiants",
+    "ssmsi",
+    "plaintes",
+    "chiffres"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Selon le bilan 2025 du service statistique du ministère de l'Intérieur, les évolutions divergent fortement selon les infractions : les homicides sont stables, les cambriolages, vols avec armes et vols de véhicules baissent, tandis que les violences sexuelles, les escroqueries et les infractions liées aux stupéfiants augmentent. Une partie des hausses reflète davantage de plaintes ou de contrôles, et la délinquance enregistrée est très concentrée dans les grandes villes.",
+  "contexte": "Le sentiment d'insécurité est alimenté par des faits divers très médiatisés. Les statistiques officielles distinguent pourtant des évolutions très différentes selon les types d'infractions.",
+  "explication": "La délinquance « enregistrée » compte les faits connus des forces de l'ordre ; elle dépend du nombre de plaintes et de l'activité des services. Les enquêtes de victimation interrogent directement la population pour mesurer aussi les faits non déclarés.",
+  "faits": [
+    {
+      "fait": "Plusieurs atteintes aux biens baissent en 2025 : cambriolages de logement -3 %, vols avec armes -8 %, vols de véhicules -9 %.",
+      "chiffre": "-3 % / -8 % / -9 %",
+      "periode": "2025 par rapport à 2024",
+      "perimetre": "France, infractions enregistrées par la police et la gendarmerie",
+      "explication": "Sur 2016-2025, ces vols reculent aussi en tendance (de -2 % à -7 % par an en moyenne selon l'indicateur).",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le nombre de victimes d'homicide est stable : 975 victimes en 2025.",
+      "chiffre": "975 victimes, 0 %",
+      "periode": "2025 par rapport à 2024",
+      "perimetre": "Homicides, y compris coups et blessures volontaires suivis de mort",
+      "explication": "Après une longue baisse du milieu des années 1990 au milieu des années 2010, on observe un quasi-plateau (+1 % par an en moyenne depuis 2016).",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les violences sexuelles enregistrées augmentent fortement : 132 100 victimes en 2025 (+8 %), plus du double de 2016.",
+      "chiffre": "+8 % en un an ; 51 900 victimes en 2016",
+      "periode": "2016-2025",
+      "perimetre": "Victimes enregistrées",
+      "explication": "Le SSMSI relie en partie cette hausse à la libération de la parole et à l'allongement des délais de prescription : 17 % des faits enregistrés en 2025 dataient de plus de 5 ans. Ce sont des faits graves, mais la hausse des plaintes ne mesure pas à elle seule la hausse des faits.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les escroqueries (+7 %) et les infractions liées aux stupéfiants (trafic +9 %, usage +7 %) augmentent aussi.",
+      "chiffre": "+7 % / +9 % / +7 %",
+      "periode": "2025 par rapport à 2024",
+      "perimetre": "Victimes d'escroquerie ; mis en cause pour stupéfiants",
+      "explication": "Pour les stupéfiants, les chiffres dépendent beaucoup de l'activité de contrôle (amendes forfaitaires depuis 2020). Plus de la moitié des escroqueries sont désormais liées au numérique.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La délinquance enregistrée est très inégalement répartie : le taux de vols violents sans arme est environ 29 fois plus élevé dans l'unité urbaine de Paris qu'en dehors des unités urbaines.",
+      "chiffre": "× 29",
+      "periode": "2025",
+      "perimetre": "Comparaison territoriale",
+      "explication": "« Partout » ne tient pas : la plupart des infractions sont moins fréquentes hors des villes, sauf les atteintes à l'environnement.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Ça dépend vraiment de quoi on parle. En 2025, les cambriolages, les vols avec armes et les vols de voitures ont baissé, les homicides sont stables. Ce qui augmente, ce sont surtout les violences sexuelles, en partie parce que plus de victimes portent plainte, les arnaques en ligne et les affaires de drogue. Et c'est très concentré dans les grandes villes.",
+    "moyen": "Ça dépend vraiment des infractions. Selon le bilan 2025 du service statistique du ministère de l'Intérieur, les cambriolages, les vols avec armes et les vols de véhicules baissent, et les homicides sont stables. Ce qui augmente, ce sont surtout les violences sexuelles, en partie parce que les victimes portent davantage plainte, les escroqueries et les affaires de stupéfiants. Et la délinquance enregistrée est très concentrée dans les grandes villes. Parler de « la délinquance » en bloc empêche de voir où il faut agir.",
+    "detaille": "Parler de « la délinquance » en bloc mélange des phénomènes qui évoluent dans des sens opposés. Le bilan statistique 2025 du SSMSI montre des baisses pour plusieurs atteintes aux biens, une stabilité des homicides et des hausses pour les violences sexuelles, les escroqueries et les infractions liées aux stupéfiants. Pour interpréter ces chiffres, il faut garder en tête qu'il s'agit de faits enregistrés : ils dépendent de la propension des victimes à porter plainte et de l'activité des forces de l'ordre. Le SSMSI rappelle que les enquêtes de victimation sont nécessaires pour distinguer l'évolution des plaintes de celle des faits. Enfin, les écarts territoriaux sont très importants : certaines infractions sont des dizaines de fois plus fréquentes dans l'agglomération parisienne que dans les zones rurales. Cela ne veut pas dire que le sentiment d'insécurité est illégitime : il peut être lié à des situations locales réelles.",
+    "empathie": "Je comprends que tu te sentes moins en sécurité ; ce sentiment est réel et il compte. Mais les chiffres montrent que tout n'augmente pas. Ça aide à cibler les vrais problèmes, comme les violences sexuelles ou le trafic de drogue."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les gens ne portent plus plainte, donc les chiffres sont faux.",
+      "reponse": "C'est pour ça qu'il existe des enquêtes de victimation ; pour certaines infractions, comme les violences sexuelles, c'est même l'inverse : davantage de plaintes font monter les chiffres."
+    },
+    {
+      "objection": "Les médias cachent la réalité.",
+      "reponse": "Les chiffres cités viennent du ministère de l'Intérieur lui-même, publiés chaque année."
+    }
+  ],
+  "questions": [
+    "Tu parles de quel type de délinquance : vols, violences, arnaques, drogue ?",
+    "Est-ce que c'est pareil dans ta ville et dans une grande agglomération ?",
+    "Comment savoir si une hausse vient de plus de faits ou de plus de plaintes ?"
+  ],
+  "limites": [
+    "Les chiffres portent sur la délinquance enregistrée, pas sur l'ensemble des faits réellement commis.",
+    "Les résultats de l'enquête de victimation (VRS) n'ont pas été consultés pour cette fiche.",
+    "Les coups et blessures volontaires n'ont pas été repris faute de chiffre vérifié dans notre lecture du bilan."
+  ],
+  "sources": [
+    {
+      "titre": "Insécurité et délinquance en 2025 : bilan statistique (édition 2026)",
+      "organisme": "SSMSI, ministère de l'Intérieur",
+      "date_publication": "9 juillet 2026",
+      "url": "https://statistiques.interieur.gouv.fr/ssmsi/files/ssmsi/2026-07/Ins%C3%A9curit%C3%A9%20et%20d%C3%A9linquance%20en%202025%20-%20Bilan%20statistique%20-%20%C3%A9dition%202026%20-%20SSMSI.pdf",
+      "passage": "Homicides 975 victimes (stable) ; violences sexuelles 132 100 victimes (+8 %) ; vols avec armes -8 % ; cambriolages -3 % ; vols de véhicules -9 % ; escroqueries +7 % ; trafic de stupéfiants +9 % ; usage +7 %.",
+      "pertinence": "Source statistique officielle de référence sur la délinquance enregistrée.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-07-15",
+  "raison_actualisation": "Le bilan statistique annuel du SSMSI paraît chaque été."
+}

@@ -1,0 +1,95 @@
+{
+  "id": "sci-autonomie",
+  "type": "science",
+  "affirmation": "Pour convaincre, il faut lui dire quoi penser.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "autodétermination",
+    "autonomie",
+    "compétence",
+    "appartenance",
+    "motivation",
+    "convaincre",
+    "imposer"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "robustesse": "robuste",
+  "resume": "La théorie de l'autodétermination (Ryan et Deci, 2000) identifie trois besoins psychologiques : compétence, autonomie et appartenance. Les contextes qui les respectent favorisent la motivation et l'adhésion ; ceux qui les frustrent l'affaiblissent. Dans une discussion, laisser l'autre construire sa propre conclusion respecte son autonomie.",
+  "contexte": "La théorie s'est développée depuis les années 1980 dans l'éducation, le travail, la santé et le sport.",
+  "explication": "On adhère mieux à une idée quand on a le sentiment de l'avoir examinée soi-même, de pouvoir la comprendre et de ne pas perdre sa place dans le groupe en l'adoptant.",
+  "faits": [
+    {
+      "fait": "Ryan et Deci (2000) proposent trois besoins psychologiques innés : compétence, autonomie et appartenance ; leur satisfaction est associée à une meilleure motivation et à un meilleur bien-être, leur frustration à l'inverse.",
+      "periode": "2000",
+      "perimetre": "Synthèse de recherches (éducation, travail, santé, sport, psychothérapie)",
+      "explication": "Une conversation qui humilie (compétence), impose (autonomie) ou exclut (appartenance) a peu de chances de convaincre.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "On convainc mieux en aidant l'autre à réfléchir qu'en lui disant quoi penser : il a besoin de se sentir libre, compétent et toujours accepté.",
+    "moyen": "D'après la théorie de l'autodétermination, nous avons besoin de nous sentir compétents, autonomes et reliés aux autres. Dans un débat, cela se traduit simplement : ne pas faire passer l'autre pour un idiot, lui laisser tirer ses conclusions, et lui montrer qu'un désaccord ne remet pas en cause le lien. Les questions ouvertes et les faits qu'il peut vérifier lui-même respectent ces trois besoins.",
+    "detaille": "Richard Ryan et Edward Deci ont formalisé en 2000 une théorie de la motivation fondée sur trois besoins : la compétence (se sentir capable), l'autonomie (se sentir à l'origine de ses choix) et l'appartenance (se sentir lié aux autres). Les recherches qu'ils synthétisent associent la satisfaction de ces besoins à une motivation plus solide, et leur frustration à une motivation plus faible.\n\nAppliquée à la discussion politique, cette théorie invite à éviter trois erreurs : humilier (atteinte à la compétence), imposer (atteinte à l'autonomie), menacer le lien (atteinte à l'appartenance). Elle ne dit pas qu'il faut renoncer à défendre ses idées, mais qu'une idée adoptée librement tient mieux qu'une idée concédée sous pression.\n\nLimite : la théorie a surtout été testée sur la motivation et le bien-être, pas directement sur le changement d'opinion politique ; son application au débat est une extrapolation raisonnable, pas un résultat démontré.",
+    "empathie": "Je ne veux pas te convaincre à tout prix. J'aimerais juste qu'on regarde ensemble ce que disent les chiffres, et tu me diras ce que tu en penses."
+  },
+  "application": [
+    {
+      "situation": "Tous profils",
+      "tactique": "Conclure par une question plutôt que par une injonction."
+    },
+    {
+      "situation": "Lien familial ou conjugal",
+      "tactique": "Rappeler que le désaccord ne change rien au lien."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Laisser l'autre conclure, c'est risquer qu'il conclue mal.",
+      "reponse": "Oui, mais une conclusion imposée est souvent abandonnée dès qu'on n'est plus là."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui te ferait changer d'avis sur ce sujet ?"
+  ],
+  "limites": [
+    "Seul le résumé a été consulté.",
+    "L'application au débat politique est une extrapolation, signalée comme telle.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.",
+      "organisme": "American Psychologist (via PubMed)",
+      "date_publication": "Janvier 2000",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11392867/",
+      "passage": "Trois besoins psychologiques fondamentaux : compétence, autonomie, appartenance ; leur satisfaction est associée à une meilleure motivation, leur frustration à une moindre motivation et à un moindre bien-être.",
+      "pertinence": "Article de synthèse de référence (résumé consulté ; les auteurs ne figurent pas sur la page PubMed lue).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Ryan, R. M. ; Deci, E. L.",
+    "annee": 2000,
+    "titre": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.",
+    "publication": "American Psychologist (via PubMed)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11392867/"
+  },
+  "conditions": "Contextes d'éducation, de travail, de santé, de sport.",
+  "limites_methodo": "Théorie de la motivation : l'application au débat politique est une extrapolation.",
+  "confiance": "moyenne",
+  "notions": [
+    "autonomie",
+    "motivation"
+  ]
+}

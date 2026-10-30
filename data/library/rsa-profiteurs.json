@@ -1,0 +1,103 @@
+{
+  "id": "rsa-profiteurs",
+  "type": "idee_recue",
+  "affirmation": "Tout le monde se jette sur le RSA dès qu'il y a droit.",
+  "volet": "social",
+  "sous_theme": "RSA",
+  "rubriques": [],
+  "mots_cles": [
+    "rsa",
+    "non-recours",
+    "fraude",
+    "profiteurs",
+    "drees",
+    "allocataires",
+    "aides sociales"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "La DREES estime qu'à la fin 2021, environ un tiers des foyers éligibles au RSA en France métropolitaine ne le percevaient pas (33 % à 37 % selon la méthode), soit environ 561 000 foyers. Le phénomène de non-recours est donc massif.",
+  "contexte": "Le soupçon de profiteurs du RSA est fréquent. Les études de la DREES sur le non-recours montrent un phénomène inverse et massif.",
+  "explication": "Le non-recours désigne le fait de ne pas percevoir une prestation à laquelle on a droit. Il est estimé par simulation statistique, d'où une fourchette.",
+  "faits": [
+    {
+      "fait": "Environ 561 000 foyers éligibles ne percevaient pas le RSA à la fin 2021, soit 33 % à 37 % des foyers éligibles.",
+      "chiffre": "33 % à 37 %",
+      "periode": "Fin 2021",
+      "perimetre": "France métropolitaine, foyers éligibles au RSA",
+      "explication": "La fourchette dépend du nombre total de foyers éligibles retenu (1,5 ou 1,7 million). L'estimation précédente, pour 2018, était de 34 %.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Si tous les foyers éligibles le demandaient, la dépense de RSA augmenterait d'environ 2,5 Md€ sur une année comme 2021.",
+      "chiffre": "≈ 2,5 Md€/an",
+      "periode": "Ordre de grandeur sur 2021",
+      "perimetre": "Simulation DREES",
+      "explication": "Le non-recours représente donc plusieurs milliards d'euros de droits non versés chaque année à des foyers modestes.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Pour environ trois quarts des foyers concernés, le non-recours ne dure qu'un trimestre ; pour 22 % à 25 %, il dure deux ou trois trimestres.",
+      "chiffre": "≈ 3/4",
+      "periode": "2021",
+      "perimetre": "Foyers non recourants",
+      "explication": "Une partie du non-recours tient aux allers-retours entre emploi et chômage et à la complexité des démarches.",
+      "source": 0,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est plutôt l'inverse : d'après la DREES, environ un foyer éligible sur trois ne demande pas le RSA. Ça fait plus d'un demi-million de foyers qui pourraient le toucher et ne le touchent pas.",
+    "moyen": "C'est plutôt l'inverse : d'après la DREES, environ un tiers des foyers qui ont droit au RSA ne le demandent pas, soit à peu près 561 000 foyers fin 2021. Si tous le demandaient, la dépense augmenterait d'environ 2,5 milliards d'euros par an. Les raisons sont connues : méconnaissance, démarches compliquées, peur d'être stigmatisé. La fraude existe, mais l'image d'une ruée sur le RSA ne correspond pas aux données.",
+    "detaille": "Le non-recours désigne le fait de ne pas percevoir une prestation à laquelle on a droit. Pour le RSA, la DREES l'estime à environ un tiers des foyers éligibles, une proportion stable entre 2018 et 2021. Les raisons sont multiples : méconnaissance des droits, complexité administrative, crainte de la stigmatisation, situations temporaires. Cela ne signifie pas que la fraude n'existe pas, mais l'image d'une ruée générale vers le RSA ne correspond pas aux données disponibles.",
+    "empathie": "Je comprends que les histoires de fraude choquent ; la fraude existe et doit être combattue. Mais beaucoup de gens qui auraient droit au RSA ne le demandent même pas, souvent par fierté ou parce que c'est trop compliqué."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La fraude au RSA coûte des milliards.",
+      "reponse": "La fraude existe et fait l'objet d'estimations par les organismes sociaux ; elle n'est pas chiffrée dans cette fiche. Le non-recours représente, lui, environ 2,5 Md€ non versés par an."
+    },
+    {
+      "objection": "S'ils ne le demandent pas, c'est qu'ils n'en ont pas besoin.",
+      "reponse": "Pour environ trois quarts des foyers concernés, le non-recours ne dure qu'un trimestre ; il touche des personnes en situation précaire, souvent mal informées."
+    }
+  ],
+  "questions": [
+    "Si un tiers des personnes éligibles ne le demandent pas, qu'est-ce qui pourrait les en dissuader ?",
+    "Est-ce que tu connais quelqu'un qui aurait droit à une aide et qui ne la demande pas ?",
+    "Comment comparer honnêtement le coût de la fraude et les montants non réclamés ?"
+  ],
+  "limites": [
+    "La publication originale de la DREES n'a pas pu être lue directement (accès automatisé bloqué par le site) : les chiffres sont repris via la Banque des Territoires, qui la résume.",
+    "L'estimation porte sur la France métropolitaine à la fin 2021.",
+    "Le non-recours est estimé par simulation statistique et comporte une marge d'incertitude, d'où la fourchette."
+  ],
+  "sources": [
+    {
+      "titre": "Le non-recours au RSA concerne plus d'un tiers des foyers éligibles, confirme la Drees",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "6 mai 2026",
+      "url": "https://www.banquedesterritoires.fr/le-non-recours-au-rsa-concerne-plus-dun-tiers-des-foyers-eligibles-confirme-la-drees",
+      "passage": "Environ 561 000 foyers éligibles non recourants fin 2021, soit 33 % à 37 % ; 34 % en 2018 ; surcoût d'environ 2,5 Md€ sur une année en cas de recours complet.",
+      "pertinence": "Compte rendu détaillé de l'étude DREES (source secondaire).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Non-recours au RSA : plus d'un tiers des foyers éligibles ne le percevaient pas fin 2021",
+      "organisme": "DREES",
+      "date_publication": "6 mai 2026",
+      "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/260506-non-recours-au-rsa-fin-2021",
+      "passage": "Publication originale (non lue directement : accès automatisé refusé par le site).",
+      "pertinence": "Source primaire à consulter pour vérifier les chiffres repris ci-dessus.",
+      "type": "primaire",
+      "consultee": false
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-05-06",
+  "raison_actualisation": "La DREES actualise régulièrement sa mesure du non-recours."
+}

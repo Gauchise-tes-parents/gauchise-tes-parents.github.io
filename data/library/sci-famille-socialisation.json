@@ -1,0 +1,113 @@
+{
+  "id": "sci-famille-socialisation",
+  "type": "science",
+  "affirmation": "Ce qu'on pense en politique, ça ne vient pas de sa famille.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "famille",
+    "parents",
+    "socialisation",
+    "transmission",
+    "héritage",
+    "repas de famille",
+    "générations"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "robustesse": "robuste",
+  "resume": "Les orientations politiques se transmettent en partie dans la famille. L'étude longitudinale de Jennings, Stoker et Bowers (2009) sur trois générations américaines montre une transmission plus forte quand la famille est très politisée et que les parents envoient des signaux stables, et plus forte pour les sujets concrets et chargés d'émotion. Les acquis précoces pèsent sur le parcours politique adulte.",
+  "contexte": "La socialisation politique familiale est étudiée depuis les années 1960 ; l'étude de 2009 réexamine la question avec des données sur trois générations.",
+  "explication": "Quand tu discutes avec un parent, tu touches aussi à une histoire familiale. Les opinions ne viennent pas de nulle part, et elles ne sont pas figées non plus.",
+  "faits": [
+    {
+      "fait": "Avec des données longitudinales sur trois générations, l'étude montre que les enfants adoptent davantage les orientations de leurs parents quand la famille est très politisée et que les signaux parentaux sont stables dans le temps.",
+      "periode": "2009",
+      "perimetre": "États-Unis, trois générations",
+      "explication": "La transmission dépend du climat politique familial.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La transmission est plus forte pour les objets politiques concrets, chargés d'émotion et centraux, et plus faible pour les sujets abstraits.",
+      "periode": "2009",
+      "perimetre": "États-Unis",
+      "explication": "Les sujets émotionnels sont aussi les plus difficiles à discuter en famille.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Nos opinions viennent en partie de notre famille, surtout quand on y parlait beaucoup de politique. Ça ne veut pas dire qu'elles sont figées.",
+    "moyen": "Les recherches sur la socialisation politique montrent que les familles transmettent une partie de leurs orientations, surtout quand on y parle souvent de politique et que les parents sont constants. Les sujets concrets et émotionnels se transmettent le mieux. Pour un repas de famille, cela explique pourquoi certaines discussions sont si chargées : on ne débat pas seulement d'un chiffre, mais d'une fidélité. Reconnaître cet héritage, sans le juger, aide à apaiser l'échange.",
+    "detaille": "M. Kent Jennings, Laura Stoker et Jake Bowers ont réexaminé en 2009 la transmission des orientations politiques entre parents et enfants, grâce à des données suivies sur trois générations d'Américains. Les jeunes des années 1990 ressemblent à ceux des années 1960 : la transmission directe résiste à de nombreux contrôles statistiques. Elle est plus forte quand la famille est très politisée et que les parents envoient des signaux stables, et plus forte pour les objets concrets, affectifs et centraux. Les traits acquis tôt influencent le développement politique adulte.\n\nCela n'implique pas un déterminisme : une partie des enfants s'écarte des positions parentales, et d'autres facteurs (études, travail, génération) jouent.\n\nApplication : en famille, un désaccord politique peut être vécu comme une rupture de fidélité. Il est utile de reconnaître ce que l'on doit à ses parents avant d'exposer son désaccord.",
+    "empathie": "Je sais que ces idées, tu les tiens aussi de ton histoire, de ton père, de ton travail. Je ne les balaie pas. J'aimerais juste te dire pourquoi je vois les choses autrement."
+  },
+  "application": [
+    {
+      "situation": "Lien parent",
+      "tactique": "Reconnaître l'histoire familiale avant d'exposer le désaccord ; éviter le ton de la leçon."
+    },
+    {
+      "situation": "Repas de famille",
+      "tactique": "Choisir un sujet concret plutôt qu'un débat abstrait."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Donc mes parents ne changeront jamais.",
+      "reponse": "Les opinions sont stables mais pas figées ; des petits pas restent possibles."
+    }
+  ],
+  "questions": [
+    "Est-ce que tes parents pensaient pareil que toi sur ce sujet ?"
+  ],
+  "limites": [
+    "Étude américaine ; la transposition en France est plausible mais non vérifiée ici.",
+    "Résumé connu par un agrégateur académique ; la référence est confirmée par la page de l'auteur.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Jennings, M. K., Stoker, L., & Bowers, J. (2009). Politics across generations: Family transmission reexamined. The Journal of Politics, 71, 782-799.",
+      "organisme": "Synapse Social (fiche de l'article)",
+      "date_publication": "2009",
+      "url": "https://synapsesocial.com/papers/W1988686891",
+      "passage": "Données longitudinales sur trois générations : transmission plus forte quand la famille est très politisée et que les parents envoient des signaux stables ; plus forte pour les objets concrets, chargés d'émotion et centraux ; les acquis précoces pèsent sur le développement politique adulte.",
+      "pertinence": "Résumé de l'article (agrégateur académique).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Page de M. Kent Jennings — liste des publications",
+      "organisme": "Département de science politique, Université de Californie à Santa Barbara",
+      "date_publication": "Non précisée",
+      "url": "https://polsci.ucsb.edu/node/203",
+      "passage": "« Politics Across Generations: Family Transmission Reexamined », avec Laura Stoker et Jake Bowers, Journal of Politics 71 (juillet 2009), 782-99.",
+      "pertinence": "Confirme la référence bibliographique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Jennings, M. K. ; Stoker, L. ; Bowers, J.",
+    "annee": 2009,
+    "titre": "Jennings, M. K., Stoker, L., & Bowers, J. (2009). Politics across generations: Family transmission reexamined. The Journal of Politics, 71, 782-799.",
+    "publication": "Synapse Social (fiche de l'article)",
+    "url": "https://synapsesocial.com/papers/W1988686891"
+  },
+  "conditions": "Familles américaines suivies sur trois générations.",
+  "limites_methodo": "Transposition en France non vérifiée ; déterminisme exclu.",
+  "confiance": "elevee",
+  "notions": [
+    "famille",
+    "contexte_social"
+  ]
+}

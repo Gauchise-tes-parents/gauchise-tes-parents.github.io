@@ -1,0 +1,29 @@
+{
+  "name": "gauchise-tes-parents",
+  "version": "0.6.0",
+  "description": "Gauchise tes parents — éducation populaire, fact-checking et dialogue politique assisté par IA.",
+  "type": "module",
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "Marty Ducanda",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test \"tests/unit/*.test.js\"",
+    "test:e2e": "node --test --test-concurrency=1 \"tests/e2e/*.test.js\"",
+    "test:all": "node --test --test-concurrency=1 \"tests/unit/*.test.js\" \"tests/e2e/*.test.js\"",
+    "build:logo": "python3 scripts/build-logo.py",
+    "build:preview": "node scripts/build-preview.js",
+    "build:static": "node scripts/build-static.js",
+    "veille": "node scripts/veille.js",
+    "veille:statut": "node scripts/veille.js --statut",
+    "test:personnalisation": "node --test tests/unit/personnalisation.test.js",
+    "rapport:personnalisation": "node scripts/rapport-personnalisation.js",
+    "doc:moteur": "node scripts/doc-moteur.js",
+    "publier": "bash scripts/publier-github.sh",
+    "test:conversation": "node --test tests/unit/conversation.test.js"
+  }
+}

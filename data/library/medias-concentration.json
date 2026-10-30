@@ -1,0 +1,119 @@
+{
+  "id": "medias-concentration",
+  "type": "idee_recue",
+  "affirmation": "Les médias, c'est tous des gauchistes.",
+  "volet": "politique",
+  "sous_theme": "Médias",
+  "rubriques": [],
+  "mots_cles": [
+    "médias",
+    "journalistes",
+    "gauchistes",
+    "concentration",
+    "milliardaires",
+    "bolloré",
+    "cnews",
+    "pluralisme",
+    "arcom",
+    "propriétaires"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Les grands médias privés français appartiennent pour beaucoup à de grandes fortunes (Bolloré, Arnault, Drahi, Niel, Bouygues…), auditionnées en 2022 par une commission d'enquête du Sénat sur la concentration des médias. Vincent Bolloré contrôle notamment Canal+, Europe 1 et le JDD, dont la ligne est classée à droite. Les opinions des journalistes varient, mais l'idée de médias uniformément « de gauche » ne tient pas compte de la propriété ni de la diversité des lignes éditoriales. Le pluralisme est un vrai sujet, que le Conseil d'État a demandé en 2024 à l'Arcom d'apprécier plus largement.",
+  "contexte": "Le reproche de « médias de gauche » est ancien ; à gauche, on reproche à l'inverse la concentration entre les mains de milliardaires. Le Sénat a enquêté sur la concentration en 2021-2022 ; la question du pluralisme sur CNews est allée jusqu'au Conseil d'État.",
+  "explication": "Il faut distinguer les opinions personnelles des journalistes, les lignes éditoriales (choisies par les directions) et la propriété des médias. Les trois peuvent diverger.",
+  "faits": [
+    {
+      "fait": "En 2022, la commission d'enquête du Sénat sur la concentration des médias (rapporteur David Assouline, président Laurent Lafon) auditionne notamment Vincent Bolloré, Bernard Arnault, Arnaud Lagardère, Patrick Drahi, Xavier Niel et Martin Bouygues, et adopte à l'unanimité un rapport de 32 propositions.",
+      "periode": "Mars 2022",
+      "perimetre": "Sénat",
+      "explication": "La concentration est reconnue comme un enjeu, au-delà des clivages partisans.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Bernard Arnault déclare : « Je n'ai pas envie de financer un journal qui devienne le support de l'extrême droite ou de l'extrême gauche. »",
+      "periode": "Mars 2022",
+      "perimetre": "Audition au Sénat",
+      "explication": "Les propriétaires peuvent avoir des attentes sur la ligne de leurs médias.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 13 février 2024, le Conseil d'État demande à l'Arcom de réexaminer le respect par CNews de ses obligations, en tenant compte de l'ensemble des intervenants et pas seulement du temps de parole des politiques ; il ne se prononce pas lui-même sur ce respect.",
+      "periode": "13 février 2024",
+      "perimetre": "Décision n° 463162",
+      "explication": "Le pluralisme d'une chaîne s'apprécie sur l'ensemble de ses programmes.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la carte du Monde diplomatique et d'Acrimed (décembre 2025), Vincent Bolloré contrôle notamment Canal+, Europe 1 et Le Journal du dimanche.",
+      "periode": "Décembre 2025",
+      "perimetre": "Propriété des médias",
+      "explication": "Des médias très influents appartiennent à un industriel classé à droite.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les grands médias privés appartiennent à des milliardaires comme Bolloré, Arnault ou Drahi, pas vraiment des gauchistes. Il y a des journalistes de gauche et des médias de droite : c'est plus varié que ça.",
+    "moyen": "Regarde qui possède les médias : Bolloré, qui contrôle Canal+, CNews, Europe 1 et le JDD, Arnault, Drahi, Niel, Bouygues. Le Sénat a même fait une enquête sur cette concentration en 2022. Ce ne sont pas des militants de gauche. Bernard Arnault l'a dit lui-même : il ne veut pas financer un journal d'extrême gauche. Qu'il y ait des journalistes de gauche, oui ; qu'il y ait des médias marqués à gauche, aussi. Mais il y a aussi des médias très marqués à droite. Le vrai sujet, c'est le pluralisme et l'indépendance des rédactions.",
+    "detaille": "Le reproche de « médias tous de gauche » confond plusieurs niveaux.\n\nLa propriété d'abord. Une grande partie des médias privés appartient à de grandes fortunes : Vincent Bolloré (Canal+, CNews, Europe 1, Le Journal du dimanche), Bernard Arnault, Patrick Drahi, Xavier Niel, Martin Bouygues, entre autres. En 2022, le Sénat a consacré une commission d'enquête à cette concentration ; son rapport, adopté à l'unanimité malgré de fortes divisions, formule 32 propositions sur l'indépendance des rédactions. Bernard Arnault y déclarait ne pas vouloir financer « un journal qui devienne le support de l'extrême droite ou de l'extrême gauche ».\n\nLes lignes éditoriales ensuite. Elles vont de la gauche à la droite, voire à l'extrême droite selon de nombreux observateurs pour certaines chaînes. En 2024, le Conseil d'État a demandé à l'Arcom de réexaminer le respect du pluralisme par CNews en tenant compte de tous les intervenants, et pas seulement des politiques ; il ne s'est pas prononcé lui-même sur la chaîne.\n\nLes opinions des journalistes enfin : elles sont diverses, et la fiche ne dispose pas d'enquête récente vérifiée à ce sujet.\n\nLe débat utile porte donc sur le pluralisme, l'indépendance des rédactions face aux propriétaires et la qualité de l'information.",
+    "empathie": "Je comprends que certains journalistes t'agacent ; on a tous des émissions qu'on ne supporte plus. Mais les grands médias appartiennent à des milliardaires, et certains sont clairement à droite. Le vrai combat, c'est que les rédactions soient libres, quel que soit le propriétaire."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les journalistes votent majoritairement à gauche.",
+      "reponse": "Des enquêtes l'ont suggéré par le passé, mais la fiche n'en dispose pas de récente vérifiée ; et l'opinion des journalistes ne fait pas la ligne d'un média, décidée par sa direction."
+    },
+    {
+      "objection": "Le service public est de gauche.",
+      "reponse": "C'est un reproche fréquent, que l'Arcom et le Parlement examinent ; il porte sur des émissions précises et doit être documenté au cas par cas."
+    }
+  ],
+  "questions": [
+    "Sais-tu à qui appartient la chaîne que tu regardes le plus ?",
+    "Qu'est-ce qui garantirait selon toi l'indépendance d'un journal ?"
+  ],
+  "limites": [
+    "La carte des propriétaires est l'œuvre d'un journal et d'une association critiques des médias, consultée via une reprise ; l'image complète de la carte n'a pas été lue.",
+    "Aucune enquête récente sur les opinions des journalistes n'a été vérifiée."
+  ],
+  "sources": [
+    {
+      "titre": "Concentration des médias : divisés, les sénateurs s'accordent malgré tout sur les préconisations du rapport",
+      "organisme": "Public Sénat",
+      "date_publication": "31 mars 2022",
+      "url": "https://www.publicsenat.fr/actualites/politique/concentration-des-medias-les-senateurs-se-divisent-sur-les-preconisations",
+      "passage": "Rapport de la commission d'enquête du Sénat (président Laurent Lafon, rapporteur David Assouline), 380 pages, adopté à l'unanimité, 32 propositions ; auditions de Vincent Bolloré, Bernard Arnault, Arnaud Lagardère, Patrick Drahi, Xavier Niel, Martin Bouygues ; Bernard Arnault : « Je n'ai pas envie de financer un journal qui devienne le support de l'extrême droite ou de l'extrême gauche. »",
+      "pertinence": "Média parlementaire rendant compte du rapport.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Pluralisme et indépendance de l'information : l'Arcom devra se prononcer à nouveau sur le respect par CNews de ses obligations",
+      "organisme": "Conseil d'État",
+      "date_publication": "13 février 2024",
+      "url": "https://conseil-etat.fr/actualites/pluralisme-et-independance-de-l-information-l-arcom-devra-se-prononcer-a-nouveau-sur-le-respect-par-cnews-de-ses-obligations",
+      "passage": "Décision n° 463162 : l'Arcom doit apprécier le pluralisme en tenant compte de la diversité des points de vue exprimés par l'ensemble des participants (« chroniqueurs, animateurs et invités »), pas seulement du temps de parole des personnalités politiques ; « Le Conseil d'État ne se prononce pas sur le respect par les programmes de la chaîne CNews » de ces exigences.",
+      "pertinence": "Communiqué officiel de la juridiction.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Médias français : qui possède quoi ? (version 21.1, décembre 2025)",
+      "organisme": "Le Monde diplomatique et Acrimed (reprise par Pressenza)",
+      "date_publication": "8 août 2026",
+      "url": "https://www.pressenza.com/fr/2026/08/medias-francais-qui-possede-quoi-2/",
+      "passage": "Carte des propriétaires des médias ; mention du contrôle de Vincent Bolloré sur Canal+, Europe 1 et Le Journal du dimanche.",
+      "pertinence": "Travail de recensement d'un journal et d'une association critiques des médias (orientation à gauche).",
+      "type": "partisane",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-04-29",
+  "raison_actualisation": "Paysage médiatique en évolution rapide (rachats, décisions de l'Arcom)."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "patriotisme-nationalisme",
+  "type": "reference",
+  "affirmation": "Aimer la France, c'est forcément être nationaliste, donc de droite.",
+  "volet": "politique",
+  "sous_theme": "Gauche et pluralisme politique",
+  "rubriques": ["patriotisme-de-gauche"],
+  "mots_cles": ["patriotisme", "nationalisme", "chauvinisme", "xénophobie", "nation", "patrie", "république", "orwell"],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "historique",
+  "resume": "Patriotisme et nationalisme ne sont pas synonymes. Une définition classique, celle de George Orwell en 1945, oppose l'attachement à un lieu et un mode de vie, qu'on ne cherche pas à imposer aux autres, au nationalisme, inséparable d'une volonté de puissance. La République française se définit elle-même par un contenu politique (gouvernement du peuple, par le peuple et pour le peuple ; République laïque, démocratique et sociale), pas par une origine.",
+  "contexte": "Depuis les années 1980, l'extrême droite française revendique le monopole de l'amour du pays. Mais l'idée de nation moderne naît en France avec la Révolution, qui fait de la nation l'ensemble des citoyens souverains. Une partie de la gauche s'est longtemps méfiée du vocabulaire national après 1914 et la colonisation ; une autre l'a toujours revendiqué (Jaurès, la Résistance, le souverainisme de gauche).",
+  "explication": "Le patriotisme décrit un attachement : à un pays, ses paysages, sa langue, ses services publics, ses conquêtes sociales. Le nationalisme fait de la nation une valeur supérieure qui justifie la domination ou l'exclusion. Le chauvinisme est une admiration aveugle de son pays ; la xénophobie, l'hostilité envers les étrangers. On peut être profondément attaché à la France et refuser les trois derniers.",
+  "faits": [
+    {
+      "fait": "Pour George Orwell (1945), le patriotisme est l'attachement à un lieu et à un mode de vie qu'on n'a aucune envie d'imposer aux autres, tandis que le nationalisme est inséparable du désir de puissance.",
+      "chiffre": null,
+      "periode": "Mai 1945",
+      "perimetre": "Essai « Notes on Nationalism »",
+      "explication": "C'est l'une des distinctions les plus citées : elle permet d'aimer son pays sans vouloir le placer au-dessus des autres.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La Constitution de 1958 définit la France comme une République « indivisible, laïque, démocratique et sociale » dont le principe est le « gouvernement du peuple, par le peuple et pour le peuple ».",
+      "chiffre": null,
+      "periode": "En vigueur",
+      "perimetre": "Articles 1er et 2 de la Constitution",
+      "explication": "La définition officielle de la France repose sur des principes politiques partagés, pas sur une identité ethnique ou religieuse.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La Déclaration de 1789 place la souveraineté dans la nation : aucun corps ni individu ne peut exercer d'autorité qui n'en émane expressément.",
+      "chiffre": null,
+      "periode": "26 août 1789",
+      "perimetre": "Article 3 de la Déclaration des droits de l'homme et du citoyen",
+      "explication": "Dans la tradition révolutionnaire, la nation, c'est le peuple des citoyens qui se gouverne lui-même : une idée d'émancipation, pas d'exclusion.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Aimer son pays, ce n'est pas détester les autres. Pour Orwell, le patriote tient à un mode de vie sans vouloir l'imposer ; le nationaliste, lui, veut la puissance. Et la Constitution définit la France comme une République démocratique et sociale, pas comme une origine.",
+    "moyen": "Il faut distinguer quatre mots. Le patriotisme, c'est l'attachement à son pays : sa langue, ses paysages, ses services publics, ses conquêtes sociales. Le nationalisme fait de la nation une valeur supérieure qui justifie de dominer ou d'exclure. Le chauvinisme, c'est croire son pays meilleur en tout. La xénophobie, c'est la peur ou la haine des étrangers. Orwell le résumait en 1945 : le patriote ne cherche pas à imposer son mode de vie, le nationaliste cherche la puissance. Et la France elle-même se définit dans sa Constitution par des principes, « gouvernement du peuple, par le peuple et pour le peuple », République laïque, démocratique et sociale. Être de gauche et aimer ce pays-là, c'est parfaitement cohérent.",
+    "detaille": "L'idée qu'aimer la France serait réservé à la droite nationaliste repose sur une confusion de mots. Le patriotisme désigne un attachement : à un territoire, à une langue, à une histoire, mais aussi à des institutions communes comme l'école publique ou la Sécurité sociale. Le nationalisme, au sens politique, fait de la nation la valeur suprême et en tire une hiérarchie entre peuples ou une méfiance envers ceux qu'il juge extérieurs. George Orwell, en 1945, au sortir de la guerre, proposait cette distinction : le patriote est attaché à un mode de vie qu'il n'a aucune envie d'imposer aux autres ; le nationaliste est animé par la volonté de puissance.\n\nL'histoire française donne un contenu précis à la nation. En 1789, la Déclaration des droits de l'homme place la souveraineté dans la nation, c'est-à-dire dans l'ensemble des citoyens, contre le pouvoir d'un roi. La Constitution actuelle reprend cette logique : la République est indivisible, laïque, démocratique et sociale, et son principe est le gouvernement du peuple, par le peuple et pour le peuple.\n\nCela ne veut pas dire que la gauche aurait le monopole du patriotisme : des gaullistes, des démocrates-chrétiens ou des libéraux ont aussi défendu une vision ouverte de la nation. Mais cela montre qu'on peut aimer la France pour ce qu'elle promet, l'égalité des droits et la solidarité, et refuser qu'on en fasse un instrument d'exclusion.",
+    "empathie": "Je comprends que tu tiennes à ton pays, moi aussi. La question, c'est plutôt : qu'est-ce qu'on aime dans la France ? Si c'est la République, l'école, la Sécu, la liberté, alors on est d'accord sur l'essentiel, même si on ne vote pas pareil."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La gauche a longtemps méprisé la nation et le drapeau.",
+      "reponse": "Une partie de la gauche s'en est méfiée, notamment après la boucherie de 1914-1918 et face au colonialisme. Mais d'autres courants l'ont toujours revendiquée : Jaurès, les résistants communistes et socialistes, les souverainistes de gauche. Il y a un vrai débat interne, pas un mépris unanime."
+    },
+    {
+      "objection": "Le patriotisme, c'est d'abord défendre son peuple contre les étrangers.",
+      "reponse": "Dans la tradition républicaine, le peuple souverain est l'ensemble des citoyens, pas une origine. Défendre son peuple, c'est aussi défendre ses droits sociaux, ses services publics et ses libertés."
+    },
+    {
+      "objection": "La distinction d'Orwell, c'est un point de vue anglais.",
+      "reponse": "C'est une définition parmi d'autres, et elle reste une interprétation. Mais elle rejoint la tradition française de 1789 : la nation comme communauté politique de citoyens libres et égaux."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce que tu aimes le plus dans la France ?",
+    "Est-ce qu'on peut aimer son pays et critiquer ses gouvernements ?",
+    "Pour toi, qu'est-ce qui fait qu'une personne est française ?"
+  ],
+  "limites": [
+    "Les définitions de « patriotisme » et « nationalisme » varient selon les auteurs : il n'existe pas de définition officielle unique.",
+    "Certains courants se revendiquent d'un « nationalisme » non xénophobe ; le vocabulaire est lui-même un terrain de débat politique."
+  ],
+  "sources": [
+    {
+      "titre": "Notes on Nationalism (1945)",
+      "organisme": "George Orwell, texte reproduit par l'Internet Modern History Sourcebook (Fordham University)",
+      "date_publication": "Mai 1945",
+      "url": "https://sourcebooks.web.fordham.edu/mod/1945Orwell-nationalism.asp",
+      "passage": "Le patriotisme est défini comme l'attachement à un lieu et à un mode de vie qu'on ne souhaite pas imposer aux autres ; le nationalisme comme inséparable du désir de puissance.",
+      "pertinence": "Texte original de la distinction la plus citée.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958",
+      "organisme": "Légifrance",
+      "date_publication": "Version consolidée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/2017-07-23",
+      "passage": "Article 1er : République indivisible, laïque, démocratique et sociale. Article 2 : gouvernement du peuple, par le peuple et pour le peuple. Article 3 : la souveraineté nationale appartient au peuple.",
+      "pertinence": "Texte constitutionnel en vigueur.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Déclaration du 26 août 1789 des droits de l'homme et du citoyen",
+      "organisme": "Légifrance",
+      "date_publication": "26 août 1789",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000697056",
+      "passage": "Article 3 : le principe de toute souveraineté réside essentiellement dans la nation.",
+      "pertinence": "Texte fondateur, à valeur constitutionnelle.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2029-10-29",
+  "raison_actualisation": "Fiche historique et conceptuelle : relecture périodique."
+}

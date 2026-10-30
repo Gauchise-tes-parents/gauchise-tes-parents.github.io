@@ -1,0 +1,113 @@
+{
+  "id": "rsa-smic",
+  "type": "idee_recue",
+  "affirmation": "Avec le RSA, on gagne autant qu'en travaillant au SMIC.",
+  "volet": "social",
+  "sous_theme": "RSA",
+  "rubriques": [],
+  "mots_cles": [
+    "rsa",
+    "smic",
+    "travail",
+    "assistanat",
+    "prime d activité",
+    "revenu",
+    "minimum social"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Pour une personne seule sans autre revenu, le montant forfaitaire du RSA est de 651,69 € par mois depuis le 1er avril 2026, contre environ 1 443 € net pour un SMIC à temps plein depuis le 1er janvier 2026. Le SMIC rapporte donc plus du double, avant même la prime d'activité à laquelle un salarié au SMIC peut avoir droit.",
+  "contexte": "L'idée qu'on gagnerait autant au RSA qu'en travaillant nourrit le sentiment que le travail ne paie plus. Elle s'appuie souvent sur des cas particuliers (temps partiel, familles nombreuses).",
+  "explication": "Le RSA est un revenu minimum pour les personnes sans ressources suffisantes ; son montant forfaitaire diminue quand d'autres revenus arrivent. La prime d'activité complète les revenus des salariés modestes.",
+  "faits": [
+    {
+      "fait": "Le montant forfaitaire du RSA pour une personne seule est de 651,69 € par mois.",
+      "chiffre": "651,69 €/mois",
+      "periode": "Depuis le 1er avril 2026",
+      "perimetre": "Personne seule, sans enfant, sans autre ressource",
+      "explication": "C'est un maximum : toute autre ressource est déduite, et une partie est retirée si la personne est logée gratuitement ou touche une aide au logement (forfait logement).",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le RSA a été revalorisé de 646,52 € à 651,69 € au 1er avril 2026.",
+      "chiffre": "+0,8 %",
+      "periode": "1er avril 2026 (décret n° 2026-220 du 30 mars 2026)",
+      "perimetre": "Montant forfaitaire national",
+      "explication": "La revalorisation suit l'inflation : le RSA ne « décroche » pas vers le haut.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le SMIC mensuel à temps plein est d'environ 1 443 € net (1 823,03 € brut).",
+      "chiffre": "≈ 1 443 € net/mois",
+      "periode": "Depuis le 1er janvier 2026",
+      "perimetre": "Temps plein, 35 heures par semaine",
+      "explication": "Le SMIC net à temps plein représente environ 2,2 fois le RSA d'une personne seule.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le RSA pour une personne seule, c'est 651 € par mois au maximum. Un SMIC à temps plein, c'est environ 1 443 € net. Le travail paie plus du double, et un salarié au SMIC peut en plus toucher la prime d'activité.",
+    "moyen": "Pour une personne seule, le RSA, c'est au maximum 651,69 € par mois depuis avril 2026. Un SMIC à temps plein, c'est environ 1 443 € net. Le travail rapporte donc plus du double, et un salarié au SMIC peut en plus toucher la prime d'activité. L'idée reçue vient de cas particuliers, comme un temps partiel très court ou des familles avec enfants, où d'autres aides jouent des deux côtés. Si on veut que le travail paie mieux, la vraie question, c'est le niveau des bas salaires.",
+    "detaille": "La comparaison brute est sans appel pour une personne seule : environ 651 € contre environ 1 443 €. L'idée reçue vient souvent de situations particulières : temps partiel très court, familles avec enfants où d'autres prestations entrent en jeu, ou oubli que les salariés modestes ont aussi droit à des aides (prime d'activité, aide au logement). Pour comparer honnêtement, il faut comparer des foyers identiques, en intégrant toutes les aides des deux côtés. La prime d'activité a justement été conçue pour que la reprise d'un emploi augmente le revenu.",
+    "empathie": "Je comprends que ça énerve quand on travaille dur pour pas grand-chose. Mais le RSA, c'est 651 € par mois : personne ne vit bien avec ça. Le problème, c'est plutôt que les salaires les plus bas sont trop faibles."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec les APL et les autres aides, un allocataire gagne presque un SMIC.",
+      "reponse": "Les salariés modestes ont aussi droit aux aides au logement et à la prime d'activité : il faut comparer des foyers identiques, aides comprises des deux côtés."
+    },
+    {
+      "objection": "Les gens au RSA travaillent au noir.",
+      "reponse": "Certains le font sans doute, mais aucune donnée ne permet de généraliser ; c'est l'affaire des contrôles, pas une raison de supprimer un minimum vital."
+    }
+  ],
+  "questions": [
+    "Tu compares quelle situation : une personne seule, un couple, une famille avec enfants ?",
+    "Tu comptes aussi les aides auxquelles un salarié au SMIC a droit, comme la prime d'activité ?",
+    "Si on voulait que le travail paie davantage, vaudrait-il mieux baisser le RSA ou augmenter les bas salaires ?"
+  ],
+  "limites": [
+    "La comparaison porte sur le cas type d'une personne seule ; pour un couple ou une famille avec enfants, les montants et les aides annexes changent.",
+    "Le SMIC net mensuel est arrondi par la source (environ 1 443 €).",
+    "Le montant de la prime d'activité dépend de la situation du foyer et n'est pas chiffré ici."
+  ],
+  "sources": [
+    {
+      "titre": "RSA : demandeur de 25 ans et plus",
+      "organisme": "Service-Public (Direction de l'information légale et administrative)",
+      "date_publication": "Vérifié le 1er avril 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19778?lang=en",
+      "passage": "Montant forfaitaire pour une personne seule : 651,69 € ; les ressources du foyer sont déduites.",
+      "pertinence": "Source officielle pour le montant du RSA.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Prestations sociales : revalorisation au 1er avril 2026",
+      "organisme": "WebLex",
+      "date_publication": "Avril 2026",
+      "url": "https://www.weblex.fr/weblex-actualite/prestation-sociales-revalorisation-au-1er-avril-2026",
+      "passage": "Le décret n° 2026-220 du 30 mars 2026 porte le montant forfaitaire du RSA pour une personne seule de 646,52 € à 651,69 €.",
+      "pertinence": "Référence du texte réglementaire et ancien montant (source secondaire juridique).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Revalorisation du Smic au 1er janvier 2026 : + 1,18 %",
+      "organisme": "La finance pour tous (IEFP)",
+      "date_publication": "17 décembre 2025",
+      "url": "https://www.lafinancepourtous.com/2025/12/17/revalorisation-du-smic-au-1er-janvier-2026-118/",
+      "passage": "SMIC horaire brut 12,02 € ; mensuel brut 1 823,03 € pour 35 h ; environ 1 443 € net.",
+      "pertinence": "Montant du SMIC en vigueur (source secondaire pédagogique).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-01-01",
+  "raison_actualisation": "Le SMIC est revalorisé au 1er janvier et le RSA au 1er avril."
+}

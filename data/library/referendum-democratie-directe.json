@@ -1,0 +1,129 @@
+{
+  "id": "referendum-democratie-directe",
+  "type": "reference",
+  "affirmation": "De toute façon, on ne demande jamais l'avis du peuple.",
+  "volet": "politique",
+  "sous_theme": "Démocratie directe",
+  "rubriques": [],
+  "mots_cles": [
+    "référendum",
+    "démocratie directe",
+    "peuple",
+    "ric",
+    "2005",
+    "lisbonne",
+    "constitution",
+    "souveraineté",
+    "congrès"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "La Constitution prévoit que le peuple exerce la souveraineté « par ses représentants et par la voie du référendum », mais l'initiative du référendum appartient pour l'essentiel aux gouvernants. Le dernier grand exemple reste le « non » à 54,67 % au traité constitutionnel européen en 2005 ; en 2008, le Parlement réuni en Congrès a révisé la Constitution pour permettre la ratification du traité de Lisbonne sans nouveau référendum. Des partis proposent un référendum d'initiative citoyenne (RIC) pour donner l'initiative aux citoyens.",
+  "contexte": "Le sentiment de ne pas être consulté est fort depuis 2005. Il a resurgi lors du mouvement des Gilets jaunes, qui réclamait le RIC.",
+  "explication": "Il existe plusieurs formes de démocratie : représentative (on élit des représentants), directe (on vote soi-même sur une loi), participative (on est consulté). La Ve République est surtout représentative, avec un référendum à l'initiative du pouvoir.",
+  "faits": [
+    {
+      "fait": "L'article 3 de la Constitution dispose : « La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum. »",
+      "periode": "Depuis 1958",
+      "perimetre": "Constitution",
+      "explication": "Le référendum est prévu, mais il reste un outil à l'initiative des institutions.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 29 mai 2005, le traité établissant une Constitution pour l'Europe est rejeté par 54,67 % des votants.",
+      "periode": "2005",
+      "perimetre": "Référendum national",
+      "explication": "Le dernier référendum national de grande portée.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "54,67 %"
+    },
+    {
+      "fait": "Le 4 février 2008, le Parlement réuni en Congrès adopte une révision constitutionnelle mettant en œuvre le traité de Lisbonne, signé le 13 décembre 2007.",
+      "periode": "Février 2008",
+      "perimetre": "Congrès du Parlement",
+      "explication": "La voie parlementaire a été choisie plutôt qu'un nouveau référendum.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le programme de LFI propose un référendum d'initiative citoyenne permettant de proposer ou d'abroger une loi, de modifier la Constitution et de révoquer des élus.",
+      "periode": "2022",
+      "perimetre": "Programme (source partisane)",
+      "explication": "Une proposition pour donner l'initiative aux citoyens.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le référendum existe dans la Constitution, mais ce sont les gouvernants qui décident quand on vote. En 2005, on a dit non à la Constitution européenne ; en 2008, le Parlement a ratifié le traité de Lisbonne sans nous redemander. D'où l'idée du référendum d'initiative citoyenne.",
+    "moyen": "Il y a du vrai. La Constitution dit que le peuple est souverain, par ses élus et par référendum. Mais c'est le président, en pratique, qui décide d'organiser un référendum. En 2005, 54,67 % des votants ont dit non au traité constitutionnel européen ; en 2008, le Parlement réuni en Congrès a révisé la Constitution pour ratifier le traité de Lisbonne, sans nouveau référendum. Beaucoup l'ont vécu comme un contournement. C'est pour ça que certains proposent un référendum d'initiative citoyenne, où ce seraient les citoyens qui déclenchent le vote.",
+    "detaille": "L'article 3 de la Constitution affirme que « la souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum ». En pratique, la Ve République est surtout représentative : l'initiative du référendum appartient au pouvoir exécutif ou passe par des procédures très encadrées.\n\nLe dernier grand référendum, le 29 mai 2005, a vu le « non » l'emporter avec 54,67 % des voix sur le traité établissant une Constitution pour l'Europe. Le traité de Lisbonne, signé en décembre 2007, a ensuite été rendu possible par une révision constitutionnelle adoptée par le Parlement réuni en Congrès le 4 février 2008, sans nouveau référendum. Les partisans de cette voie la jugeaient légale et justifiée par les différences entre les deux traités ; ses opposants y ont vu un désaveu du vote de 2005.\n\nCette histoire nourrit les revendications de démocratie directe, comme le référendum d'initiative citoyenne proposé par La France insoumise et réclamé par une partie des Gilets jaunes. Ses partisans y voient un moyen de redonner la parole aux citoyens ; ses critiques craignent la démagogie ou l'instabilité.\n\n« On ne demande jamais l'avis du peuple » est donc excessif, puisque les élections et le référendum existent ; mais le sentiment de ne pas avoir la main repose sur des faits.",
+    "empathie": "Je comprends ce sentiment, et je le partage en partie : 2005, ça a laissé des traces. Plutôt que de se dire que ça ne sert à rien, on peut se demander comment donner plus de pouvoir aux citoyens. Tu serais pour un référendum d'initiative citoyenne ?"
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le traité de Lisbonne n'était pas le même texte.",
+      "reponse": "C'était l'argument des partisans de la ratification parlementaire ; ses opposants estimaient qu'il reprenait l'essentiel du texte rejeté. Le débat reste vif."
+    },
+    {
+      "objection": "Le RIC, ce serait le règne de la démagogie.",
+      "reponse": "C'est une objection sérieuse ; d'autres pays pratiquent des formes d'initiative populaire encadrées, ce qui permet d'en discuter concrètement."
+    }
+  ],
+  "questions": [
+    "Sur quel sujet aimerais-tu pouvoir voter directement ?",
+    "Faut-il que les citoyens puissent déclencher eux-mêmes un référendum ?"
+  ],
+  "limites": [
+    "Les votes exacts du Congrès de 2008 ne figurent pas dans la source consultée.",
+    "Le référendum d'initiative partagée (RIP), introduit en 2008, n'est pas détaillé faute de source consultée."
+  ],
+  "sources": [
+    {
+      "titre": "Constitution du 4 octobre 1958",
+      "organisme": "Légifrance",
+      "date_publication": "Version consolidée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/2017-07-23",
+      "passage": "Art. 3 : « La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum. » Art. 11 et 89 : référendum législatif et révision constitutionnelle (par référendum ou par le Parlement réuni en Congrès).",
+      "pertinence": "Texte constitutionnel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "20 ans après, la plaie encore vive du référendum sur la Constitution européenne",
+      "organisme": "Public Sénat",
+      "date_publication": "Mai 2025",
+      "url": "https://www.publicsenat.fr/actualites/politique/20-ans-apres-la-plaie-encore-vive-du-referendum-sur-la-constitution-europeenne",
+      "passage": "Non à 54,67 % au référendum du 29 mai 2005 sur le traité établissant une Constitution pour l'Europe.",
+      "pertinence": "Article rétrospectif d'un média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Projet de loi constitutionnelle modifiant le titre XV de la Constitution (texte adopté par le Congrès)",
+      "organisme": "Sénat",
+      "date_publication": "4 février 2008",
+      "url": "https://www.senat.fr/leg/tac07-001.html",
+      "passage": "Adopté par le Parlement réuni en Congrès à Versailles (art. 89, al. 3) ; met en œuvre le traité de Lisbonne signé le 13 décembre 2007 ; abroge l'article 3 de la loi constitutionnelle de 2005.",
+      "pertinence": "Texte officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'Avenir en commun — programme abrégé (2022)",
+      "organisme": "Union populaire / La France insoumise (source partisane)",
+      "date_publication": "Avril 2022",
+      "url": "https://melenchon.fr/wp-content/uploads/2022/04/programme-avenir-en-commun-abrege.pdf",
+      "passage": "Proposition d'un référendum d'initiative citoyenne (proposer ou abroger une loi, modifier la Constitution, révoquer des élus) (p. 5).",
+      "pertinence": "Exemple de proposition de démocratie directe (source partisane).",
+      "type": "partisane",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Cadre constitutionnel stable ; à revoir en cas de réforme."
+}

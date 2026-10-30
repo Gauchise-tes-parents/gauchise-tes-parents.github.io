@@ -1,0 +1,112 @@
+{
+  "id": "justice-laxiste-prison",
+  "type": "idee_recue",
+  "affirmation": "La justice est laxiste, plus personne ne va en prison.",
+  "volet": "securite",
+  "sous_theme": "Prisons",
+  "rubriques": [],
+  "mots_cles": [
+    "justice",
+    "laxiste",
+    "laxisme",
+    "prison",
+    "détenus",
+    "incarcération",
+    "surpopulation carcérale",
+    "peine",
+    "juges"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les prisons françaises n'ont jamais été aussi pleines : 84 741 personnes détenues au 1er janvier 2026, contre 68 359 en 2022, pour une densité de 136,1 % (163,4 % en maison d'arrêt). En 2025, 107 283 personnes ont été incarcérées. On peut débattre de l'exécution des peines ou des courtes peines, mais « plus personne ne va en prison » est contredit par les chiffres du ministère de la Justice.",
+  "contexte": "Le sentiment de laxisme vient souvent de cas médiatisés, de peines aménagées ou non exécutées immédiatement. Dans le même temps, la population carcérale bat record sur record, et la surpopulation est dénoncée par les juridictions et les contrôleurs.",
+  "explication": "Être « écroué » ne signifie pas toujours être en cellule : une partie des personnes écrouées sont placées sous surveillance électronique. Les « détenus » sont ceux qui dorment en prison. La densité carcérale rapporte le nombre de détenus au nombre de places.",
+  "faits": [
+    {
+      "fait": "Au 1er janvier 2026, 84 741 personnes sont détenues, contre 68 359 au 1er janvier 2022.",
+      "periode": "2022-2026",
+      "perimetre": "France entière",
+      "explication": "Hausse de près de 24 % en quatre ans (calcul de la fiche).",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "84 741"
+    },
+    {
+      "fait": "La densité carcérale atteint 136,1 % au 1er janvier 2026 (114,5 % en 2022) et 163,4 % dans les maisons d'arrêt.",
+      "periode": "1er janvier 2026",
+      "perimetre": "Établissements pénitentiaires",
+      "explication": "Les prisons sont surpeuplées.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "136,1 %"
+    },
+    {
+      "fait": "En 2025, 107 283 personnes ont été incarcérées ; 102 347 personnes étaient écrouées au 1er janvier 2026, dont environ 78 % condamnées et 22 % en détention provisoire.",
+      "periode": "2025-2026",
+      "perimetre": "France entière",
+      "explication": "La prison reste une réponse pénale massive.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "107 283"
+    },
+    {
+      "fait": "Au 1er février 2026, 6 596 détenus dorment sur un matelas au sol et la densité dépasse 200 % dans 25 établissements.",
+      "periode": "1er février 2026",
+      "perimetre": "Données du ministère relayées par l'AFP",
+      "explication": "La surpopulation a des conséquences concrètes sur les conditions de détention.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "6 596"
+    }
+  ],
+  "argumentaires": {
+    "court": "Il n'y a jamais eu autant de détenus en France : 84 741 au 1er janvier 2026, contre 68 000 en 2022, avec des prisons pleines à 136 %. On peut discuter de l'efficacité des peines, mais pas dire que personne ne va en prison.",
+    "moyen": "Les chiffres du ministère de la Justice disent l'inverse : au 1er janvier 2026, 84 741 personnes sont en prison, un record, contre 68 359 en 2022. Les prisons sont pleines à 136 %, à plus de 160 % dans les maisons d'arrêt, et des milliers de détenus dorment sur un matelas par terre. Plus de 100 000 personnes ont été incarcérées en 2025. On peut trouver que certaines peines tardent à être exécutées ou que les courtes peines sont mal appliquées, c'est un vrai débat. Mais la justice française n'a jamais autant emprisonné.",
+    "detaille": "L'idée d'une justice qui ne met plus personne en prison est contredite par les statistiques officielles.\n\nAu 1er janvier 2026, 84 741 personnes sont détenues en France, contre 68 359 quatre ans plus tôt. Les prisons comptent environ 63 000 places : la densité carcérale atteint 136,1 %, et 163,4 % dans les maisons d'arrêt, où sont placés les prévenus et les condamnés à de courtes peines. Au 1er février 2026, 6 596 détenus dormaient sur un matelas au sol, et 25 établissements dépassaient 200 % d'occupation.\n\nLe flux est massif : 107 283 incarcérations en 2025. Parmi les personnes écrouées, environ 78 % sont condamnées et 22 % attendent leur jugement en détention provisoire.\n\nLe débat sur la justice reste légitime : délais de jugement, exécution des peines, aménagement des courtes peines, récidive. Mais il ne peut pas partir d'un constat faux. Le problème actuel est plutôt une prison saturée, dont les conditions dégradées compliquent la réinsertion et la prévention de la récidive.",
+    "empathie": "Je comprends la colère quand on entend parler d'un délinquant relâché : ça choque, et ça arrive. Mais globalement, les prisons n'ont jamais été aussi pleines. La vraie question, c'est peut-être : est-ce que la prison, comme elle est aujourd'hui, empêche vraiment la récidive ?"
+  },
+  "contre_arguments": [
+    {
+      "objection": "Beaucoup de peines de prison ne sont jamais exécutées.",
+      "reponse": "Il existe des délais et des aménagements de peine, et le sujet mérite des chiffres précis ; cette fiche ne les contient pas encore. Mais cela n'empêche pas une population carcérale record."
+    },
+    {
+      "objection": "S'il y a plus de détenus, c'est qu'il y a plus de délinquants.",
+      "reponse": "Ça peut jouer, mais la hausse reflète aussi des choix de politique pénale (détention provisoire, peines prononcées). On ne peut pas en même temps dire que la justice est laxiste et que les prisons débordent à cause d'elle."
+    }
+  ],
+  "questions": [
+    "Selon toi, combien de personnes sont en prison en France ?",
+    "Qu'est-ce qui protège le mieux contre la récidive ?"
+  ],
+  "limites": [
+    "La fiche ne contient pas encore de données sur les condamnations prononcées et le taux d'exécution des peines.",
+    "Les comparaisons internationales (taux de détention par habitant) ne sont pas traitées."
+  ],
+  "sources": [
+    {
+      "titre": "Références statistiques Justice, édition 2026 — 12.2 Le milieu fermé : les personnes écrouées",
+      "organisme": "Ministère de la Justice",
+      "date_publication": "Juillet 2026",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2026-07/RSJ2026%2012_2.pdf",
+      "passage": "Au 1er janvier 2026 : 102 347 personnes écrouées (+7,3 %), dont environ 78 % condamnées et 22 % prévenues ; 84 741 personnes détenues (68 359 en 2022) ; densité carcérale 136,1 % (114,5 % en 2022), 163,4 % en maison d'arrêt ; 107 283 incarcérations en 2025.",
+      "pertinence": "Statistique officielle du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nouveau record : le taux de densité carcérale atteint 137 %",
+      "organisme": "Le Club des juristes (d'après des données du ministère de la Justice relayées par l'AFP)",
+      "date_publication": "3 mars 2026",
+      "url": "https://www.leclubdesjuristes.com/en-bref/nouveau-record-le-taux-de-densite-carcerale-atteint-137-14769/",
+      "passage": "86 645 détenus au 1er février 2026 pour 63 289 places ; densité 136,9 % ; plus de 200 % dans 25 établissements ; 6 596 détenus dormant sur un matelas au sol.",
+      "pertinence": "Synthèse juridique de données officielles.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Statistiques mensuelles et annuelles du ministère de la Justice."
+}

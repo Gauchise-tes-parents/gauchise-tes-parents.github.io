@@ -1,0 +1,109 @@
+{
+  "id": "commune-paris-1871",
+  "type": "histoire",
+  "affirmation": "La Commune de Paris, c'était une bande d'émeutiers vite remis à leur place.",
+  "volet": "international",
+  "sous_theme": "Histoire du mouvement ouvrier",
+  "rubriques": [],
+  "mots_cles": [
+    "commune de paris",
+    "1871",
+    "semaine sanglante",
+    "communards",
+    "versaillais",
+    "louise michel",
+    "répression",
+    "amnistie",
+    "mouvement ouvrier"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "historique",
+  "resume": "La Commune de Paris (mars-mai 1871) a été écrasée lors de la « Semaine sanglante » du 21 au 28 mai 1871. Le nombre de morts reste débattu : les estimations récentes fondées sur les registres des cimetières (Audin, Tombs) évoquent 10 000 à 15 000 communards tués, des estimations anciennes 20 000 à 30 000 ; la plupart auraient été fusillés après des jugements sommaires. Environ 43 000 personnes ont été arrêtées et quelque 3 800 déportées en Nouvelle-Calédonie, avant l'amnistie de 1880. Les communards ont eux aussi exécuté une centaine d'otages.",
+  "contexte": "Après la défaite contre la Prusse et le siège de Paris, une partie de la population parisienne se soulève en mars 1871 contre le gouvernement installé à Versailles. La Commune devient un symbole majeur du mouvement ouvrier et socialiste.",
+  "explication": "« Remettre à leur place » minimise une répression parmi les plus meurtrières de l'histoire de France contemporaine. Reconnaître sa violence n'oblige pas à idéaliser la Commune, qui a elle aussi exécuté des otages.",
+  "faits": [
+    {
+      "fait": "La Semaine sanglante se déroule du 21 au 28 mai 1871, de l'entrée des troupes versaillaises dans Paris à la chute des dernières barricades à Belleville.",
+      "periode": "21-28 mai 1871",
+      "perimetre": "Paris",
+      "explication": "Une guerre urbaine d'une semaine.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le nombre de communards tués est débattu : 10 000 à 15 000 selon des estimations récentes fondées sur les registres des cimetières (Audin, Tombs), contre plus de 20 000 à environ 30 000 selon des estimations anciennes ; la page de la Ville de Paris évoque environ 20 000 massacrés.",
+      "periode": "1871",
+      "perimetre": "Historiographie",
+      "explication": "Même l'estimation basse correspond à des milliers d'exécutions.",
+      "source": 1,
+      "fiabilite": "debat"
+    },
+    {
+      "fait": "Environ 43 000 personnes sont arrêtées ; environ 3 800 sont déportées en Nouvelle-Calédonie entre 1872 et 1878, dont Louise Michel ; l'amnistie est votée en 1880.",
+      "periode": "1871-1880",
+      "perimetre": "Répression judiciaire",
+      "explication": "La répression s'est prolongée pendant des années.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "43 000 ; 3 800"
+    },
+    {
+      "fait": "Les fédérés ont exécuté une centaine d'otages, dont l'archevêque de Paris Georges Darboy.",
+      "periode": "Mai 1871",
+      "perimetre": "Paris",
+      "explication": "La violence n'a pas été d'un seul côté, même si l'écart d'ampleur est considérable.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La Commune a été écrasée dans le sang : des milliers de Parisiens tués en une semaine, 10 000 à 15 000 selon les estimations récentes, et 43 000 arrestations. On peut critiquer la Commune, mais pas dire qu'on a juste remis de l'ordre.",
+    "moyen": "La Commune, c'est plus qu'une émeute. Après la défaite contre la Prusse, une partie de Paris s'est soulevée et s'est gouvernée pendant deux mois. Elle a été écrasée pendant la Semaine sanglante, fin mai 1871 : les historiens débattent du chiffre, mais même les estimations les plus récentes parlent de 10 000 à 15 000 morts, la plupart fusillés après des jugements sommaires. Il y a eu environ 43 000 arrestations et près de 4 000 déportés en Nouvelle-Calédonie. Les communards ont aussi exécuté une centaine d'otages, il faut le dire. Mais la répression a été d'une tout autre ampleur.",
+    "detaille": "La Commune de Paris naît en mars 1871, dans une capitale épuisée par le siège prussien et hostile au gouvernement installé à Versailles. Pendant deux mois, une partie des Parisiens organise sa propre administration.\n\nElle est écrasée par l'armée versaillaise lors de la Semaine sanglante, du 21 au 28 mai 1871. Le bilan humain fait débat entre historiens. Les estimations anciennes, comme celle de Camille Pelletan en 1879, avancent environ 30 000 morts ; Prosper-Olivier Lissagaray, plus de 20 000. Des travaux plus récents, fondés sur les registres des cimetières (Michèle Audin, Robert Tombs), retiennent 10 000 à 15 000 communards tués. Selon Robert Tombs, la plupart ont été fusillés après des jugements expéditifs. Côté versaillais, on compte 500 à 800 morts.\n\nLa répression se prolonge : environ 43 000 arrestations, des milliers de condamnations, environ 3 800 déportations en Nouvelle-Calédonie, dont celle de Louise Michel. L'amnistie n'est votée qu'en 1880.\n\nLes communards ont eux aussi commis des violences, notamment l'exécution d'une centaine d'otages, dont l'archevêque de Paris. Une histoire honnête ne cache ni cette violence ni l'écart d'ampleur entre les deux camps.",
+    "empathie": "C'est une histoire qu'on apprend peu, et elle est violente des deux côtés. Mais la répression a été terrible : des milliers de Parisiens fusillés en une semaine. Ça vaut la peine de la connaître, quel que soit le jugement qu'on porte sur la Commune."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les communards ont incendié Paris et tué des otages.",
+      "reponse": "C'est vrai : des incendies (dont celui des Tuileries) et l'exécution d'une centaine d'otages. Cela n'efface pas l'ampleur d'une répression qui a tué des milliers de personnes, souvent sans jugement."
+    },
+    {
+      "objection": "Les chiffres de morts sont exagérés par la gauche.",
+      "reponse": "Les historiens ont révisé à la baisse les estimations anciennes ; mais même les plus basses parlent de 10 000 à 15 000 morts."
+    }
+  ],
+  "questions": [
+    "Pourquoi, selon toi, la Commune est-elle si peu enseignée ?",
+    "Peut-on condamner à la fois les otages exécutés et les fusillades de masse ?"
+  ],
+  "limites": [
+    "Les mesures politiques et sociales de la Commune ne sont pas détaillées faute de source consultée.",
+    "Une des sources est une encyclopédie collaborative ; les estimations qu'elle attribue à Audin et Tombs n'ont pas été vérifiées dans les ouvrages."
+  ],
+  "sources": [
+    {
+      "titre": "Les 150 ans de la Commune : la fin sanglante et les conséquences (5/5)",
+      "organisme": "Ville de Paris",
+      "date_publication": "2021",
+      "url": "https://www.paris.fr/pages/les-150-ans-de-la-commune-la-fin-sanglante-et-les-consequences-5-5-17210",
+      "passage": "Semaine sanglante du 21 au 28 mai 1871 ; pas de consensus des historiens sur le nombre de morts : 3 000 à 5 000 fédérés tués au combat et environ 20 000 massacrés selon la page ; 500 à 800 tués côté versaillais ; une centaine d'otages exécutés par les fédérés ; environ 43 000 arrestations ; environ 3 800 déportés en Nouvelle-Calédonie ; loi d'amnistie de 1880.",
+      "pertinence": "Dossier historique institutionnel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Semaine sanglante (article encyclopédique)",
+      "organisme": "Wikipédia (en anglais)",
+      "date_publication": "Consulté le 29 octobre 2026",
+      "url": "https://en.wikipedia.org/wiki/Semaine_sanglante",
+      "passage": "Estimations récentes fondées sur les registres des cimetières (Audin, Tombs) : 10 000 à 15 000 communards tués ; estimations anciennes : environ 30 000 (Pelletan, 1879), plus de 20 000 (Lissagaray) ; la plupart fusillés après des jugements sommaires selon Tombs ; environ 100 otages exécutés par la Commune, dont l'archevêque Darboy.",
+      "pertinence": "Synthèse encyclopédique des estimations historiographiques.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2029-10-29",
+  "raison_actualisation": "Fiche historique : relecture périodique."
+}

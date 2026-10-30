@@ -1,0 +1,54 @@
+# Veille automatique toutes les 24 h (planificateur externe pour un hébergement statique).
+# Prérequis : secret ANTHROPIC_API_KEY ; variables facultatives WATCH_* (voir PUBLIER.md).
+# Les fiches ne sont modifiées que selon les règles du module de veille ; tout est versionné dans Git.
+name: Veille automatique
+on:
+  schedule:
+    - cron: '17 4 * * *'   # tous les jours à 04:17 UTC ; pour 48 h : '17 4 */2 * *'
+  workflow_dispatch:        # bouton « Run workflow » = actualiser maintenant
+permissions:
+  contents: write
+concurrency:
+  group: veille
+  cancel-in-progress: false  # jamais deux veilles simultanées
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Vérifier la configuration
+        id: cfg
+        env:
+          KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$KEY" ]; then
+            echo "::notice::Veille non configurée (secret ANTHROPIC_API_KEY absent) : aucune actualisation, aucun coût."
+            echo "ok=0" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=1" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Cycle de veille
+        if: steps.cfg.outputs.ok == '1'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          WATCH_MAX_USD_PER_RUN: ${{ vars.WATCH_MAX_USD_PER_RUN || '1.5' }}
+          WATCH_AUTO_APPLY: ${{ vars.WATCH_AUTO_APPLY || '0' }}
+          WATCH_WEBHOOK_URL: ${{ secrets.WATCH_WEBHOOK_URL }}
+          DAILY_BUDGET_USD: ${{ vars.DAILY_BUDGET_USD || '3' }}
+          MONTHLY_BUDGET_USD: ${{ vars.MONTHLY_BUDGET_USD || '30' }}
+        run: node scripts/veille.js
+      - name: Tests de la base après veille
+        if: steps.cfg.outputs.ok == '1'
+        run: npm test
+      - name: Enregistrer les résultats (rapports, file de validation, fiches et sauvegardes)
+        if: always() && steps.cfg.outputs.ok == '1'
+        run: |
+          git config user.name "veille-gauchise"
+          git config user.email "veille@users.noreply.github.com"
+          git add data/watch data/library data/library-history || true
+          git diff --cached --quiet || git commit -m "Veille du $(date -u +%Y-%m-%d)"
+          git push

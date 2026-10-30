@@ -1,0 +1,102 @@
+{
+  "id": "immigration-chiffres-definitions",
+  "type": "idee_recue",
+  "affirmation": "Les immigrés, c'est déjà un tiers de la population.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et démographie",
+  "rubriques": [],
+  "mots_cles": [
+    "immigrés",
+    "immigration",
+    "étrangers",
+    "descendants d immigrés",
+    "grand remplacement",
+    "submersion",
+    "insee",
+    "chiffres",
+    "définition",
+    "naturalisés"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Selon l'Insee, la France comptait en 2024 environ 7,6 millions d'immigrés, soit 11,2 % de la population, et environ 8 millions de descendants d'immigrés (12 %), dont plus de la moitié n'ont qu'un seul parent immigré. Un tiers des immigrés sont devenus français. On est loin d'« un tiers d'immigrés », et additionner immigrés et descendants revient à compter comme « immigrés » des Français nés en France.",
+  "contexte": "Les débats sur l'immigration mélangent souvent des catégories différentes : immigrés, étrangers, descendants d'immigrés, demandeurs d'asile. Chacune a une définition précise dans la statistique publique.",
+  "explication": "Un immigré est né étranger à l'étranger et réside en France ; il le reste même s'il devient français. Un étranger est une personne qui n'a pas la nationalité française (il peut être né en France). Un descendant d'immigré est né en France d'au moins un parent immigré : il n'est pas immigré lui-même. Un demandeur d'asile demande une protection internationale ; il ne représente qu'une partie des entrées.",
+  "faits": [
+    {
+      "fait": "En 2024, 7 615 000 immigrés vivent en France (hors Mayotte), soit 11,2 % de la population, contre 10,6 % en 2023.",
+      "periode": "2024 (provisoire)",
+      "perimetre": "France hors Mayotte",
+      "explication": "La part des immigrés augmente, mais reste d'environ un habitant sur neuf.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "7,6 millions ; 11,2 %"
+    },
+    {
+      "fait": "Les descendants d'immigrés (nés en France d'au moins un parent immigré) sont 7 987 000, soit 12 % de la population en logement ordinaire ; 55 % d'entre eux n'ont qu'un seul parent immigré.",
+      "periode": "2024",
+      "perimetre": "Population en logement ordinaire",
+      "explication": "Ce sont des personnes nées en France, très majoritairement françaises.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "8 millions ; 12 %"
+    },
+    {
+      "fait": "34 % des immigrés ont la nationalité française.",
+      "periode": "2024",
+      "perimetre": "Immigrés",
+      "explication": "« Immigré » et « étranger » ne sont pas synonymes.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "34 %"
+    },
+    {
+      "fait": "48,1 % des immigrés sont nés en Afrique (dont 29,4 % au Maghreb), 31,3 % en Europe, 14,5 % en Asie et 6,0 % en Amérique ou en Océanie.",
+      "periode": "2024",
+      "perimetre": "Immigrés par région de naissance",
+      "explication": "Près d'un immigré sur trois est né en Europe.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Selon l'Insee, les immigrés représentent 11,2 % de la population en 2024, environ 7,6 millions de personnes, et un tiers d'entre eux sont devenus français. On est loin d'un tiers.",
+    "moyen": "Il faut s'entendre sur les mots. Un immigré, c'est quelqu'un né étranger à l'étranger. Selon l'Insee, ils sont 7,6 millions en 2024, soit 11,2 % de la population, et un tiers ont la nationalité française. Les enfants d'immigrés nés en France, eux, ne sont pas immigrés : ils sont 8 millions, et plus de la moitié ont un seul parent immigré. Les additionner pour dire « un tiers d'immigrés », c'est compter comme étrangers des Français nés ici. Et un immigré sur trois est né en Europe.",
+    "detaille": "Les chiffres de l'immigration sont souvent gonflés par confusion des catégories. L'Insee publie chaque année des données précises.\n\nEn 2024, la France (hors Mayotte) compte 7 615 000 immigrés, c'est-à-dire des personnes nées étrangères à l'étranger et résidant en France. Cela représente 11,2 % de la population, en hausse par rapport à 2023 (10,6 %). Un tiers d'entre eux (34 %) ont acquis la nationalité française, tout en restant comptés comme immigrés.\n\nLes descendants d'immigrés sont une autre catégorie : nés en France d'au moins un parent immigré, ils sont 7 987 000, soit 12 % de la population vivant en logement ordinaire. Plus de la moitié (55 %) n'ont qu'un seul parent immigré. Ce ne sont pas des immigrés, et la plupart sont français de naissance.\n\nQuant aux origines, 48,1 % des immigrés sont nés en Afrique (dont 29,4 % au Maghreb), 31,3 % en Europe, 14,5 % en Asie.\n\nLa hausse de la part des immigrés est réelle et légitime à discuter. Mais « un tiers d'immigrés » n'est vrai qu'en additionnant des catégories qui n'ont rien à voir, et en comptant comme étrangers des Français nés en France.",
+    "empathie": "Je comprends que tu aies l'impression que ça change vite ; la part des immigrés augmente, c'est vrai. Mais les chiffres de l'Insee sont plus bas que ce qu'on entend souvent. Et beaucoup de ceux qu'on appelle « immigrés » sont en fait des Français nés ici."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on compte les petits-enfants, ça fait beaucoup plus.",
+      "reponse": "La statistique ne compte pas les petits-enfants comme immigrés, et c'est logique : ce sont des Français nés de parents nés en France. Les compter, c'est juger les gens sur leurs ancêtres."
+    },
+    {
+      "objection": "Les chiffres officiels sous-estiment l'immigration clandestine.",
+      "reponse": "Les sans-papiers sont difficiles à compter, c'est vrai ; mais aucune estimation sérieuse ne permet d'arriver à un tiers de la population."
+    }
+  ],
+  "questions": [
+    "Quelqu'un né en France de parents nés en France, mais avec un grand-père algérien, est-il immigré selon toi ?",
+    "Quel chiffre aurais-tu donné avant de voir celui de l'Insee ?"
+  ],
+  "limites": [
+    "Données 2023 et 2024 provisoires ; Mayotte exclue.",
+    "La fiche ne traite pas des flux annuels (titres de séjour, demandes d'asile), qui relèvent d'autres sources (ministère de l'Intérieur, OFPRA)."
+  ],
+  "sources": [
+    {
+      "titre": "Immigrés et descendants d'immigrés (France, portrait social, édition 2025)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612512",
+      "passage": "France hors Mayotte, 2024 (provisoire) : 7 615 000 immigrés, soit 11,2 % de la population (10,6 % en 2023) ; 7 987 000 descendants d'immigrés, soit 12 % de la population en logement ordinaire, dont 55 % n'ont qu'un parent immigré ; 34 % des immigrés sont de nationalité française ; nés en Afrique 48,1 % (Maghreb 29,4 %), en Europe 31,3 %, en Asie 14,5 %, Amérique-Océanie 6,0 %. Définitions de l'immigré et du descendant d'immigré.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2026-12-31",
+  "raison_actualisation": "L'Insee publie une mise à jour annuelle (novembre)."
+}

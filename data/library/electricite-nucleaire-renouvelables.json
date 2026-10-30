@@ -1,0 +1,114 @@
+{
+  "id": "electricite-nucleaire-renouvelables",
+  "type": "idee_recue",
+  "affirmation": "Notre électricité propre, c'est le nucléaire ; les renouvelables ne servent à rien.",
+  "volet": "ecologie",
+  "sous_theme": "Énergies renouvelables",
+  "rubriques": [],
+  "mots_cles": [
+    "électricité",
+    "nucléaire",
+    "renouvelables",
+    "éolien",
+    "solaire",
+    "hydraulique",
+    "mix énergétique",
+    "rte",
+    "émissions",
+    "co2",
+    "exportations"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le nucléaire fournit l'essentiel de l'électricité française : 68,1 % en 2025 (373 TWh) selon RTE. Mais les renouvelables en produisent plus d'un quart (hydraulique 11,4 %, éolien 9,1 %, solaire 6 %, bioénergies 2 %). Ensemble, ils portent la production bas carbone à un record de 95,2 %, avec 19,6 g de CO2 par kWh, contre 178 en moyenne européenne. La France a aussi exporté un solde record de 92,3 TWh.",
+  "contexte": "Le débat oppose souvent nucléaire et renouvelables comme s'il fallait choisir. En pratique, les deux coexistent dans le mix français, et les scénarios de RTE pour 2050 combinent différentes proportions.",
+  "explication": "Le « mix électrique » est la répartition de la production d'électricité par source. Il ne faut pas le confondre avec le mix énergétique total, qui inclut le pétrole et le gaz utilisés dans les transports, le chauffage et l'industrie.",
+  "faits": [
+    {
+      "fait": "En 2025, le nucléaire produit 373 TWh, soit 68,1 % de la production d'électricité française (547,5 TWh).",
+      "periode": "2025",
+      "perimetre": "France métropolitaine",
+      "explication": "Le nucléaire reste de loin la première source.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "68,1 %"
+    },
+    {
+      "fait": "L'hydraulique (11,4 %), l'éolien (9,1 %), le solaire (6 %) et les bioénergies (2 %) produisent ensemble plus d'un quart de l'électricité.",
+      "periode": "2025",
+      "perimetre": "France métropolitaine",
+      "explication": "Les renouvelables ne sont pas marginaux.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "≈ 28,5 % (somme de la fiche)"
+    },
+    {
+      "fait": "La production bas carbone atteint un record de 95,2 % ; l'intensité carbone est de 19,6 gCO2eq/kWh, contre 178 en moyenne pour l'Union européenne, la Suisse, la Norvège et le Royaume-Uni.",
+      "periode": "2025",
+      "perimetre": "Comparaison européenne",
+      "explication": "L'électricité française est parmi les moins carbonées d'Europe.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "95,2 % ; 19,6 g/kWh"
+    },
+    {
+      "fait": "Le solde exportateur commercial atteint un record de 92,3 TWh, pour une consommation corrigée de 451,2 TWh.",
+      "periode": "2025",
+      "perimetre": "Échanges aux frontières",
+      "explication": "La France produit plus qu'elle ne consomme.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "92,3 TWh"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le nucléaire, c'est 68 % de notre électricité en 2025, c'est vrai. Mais l'hydraulique, l'éolien et le solaire en font plus d'un quart. Ensemble, ils nous donnent une électricité à 95 % bas carbone.",
+    "moyen": "Le nucléaire est la base, personne ne le conteste : 68 % de notre électricité en 2025 selon RTE. Mais les renouvelables, ce n'est pas rien : barrages, éoliennes et panneaux solaires produisent plus d'un quart du courant. C'est la combinaison des deux qui donne une électricité à 95 % bas carbone, dix fois moins émettrice que la moyenne européenne. Et on a même exporté un record de 92 TWh. Le vrai débat, c'est comment remplacer le pétrole et le gaz dans les transports et le chauffage, et pour ça il faudra beaucoup plus d'électricité, de toutes les sources bas carbone.",
+    "detaille": "Le bilan électrique 2025 de RTE donne une photographie précise.\n\nLe nucléaire a produit 373 TWh, soit 68,1 % de l'électricité française, en hausse de 3 % sur un an. C'est la colonne vertébrale du système.\n\nMais les renouvelables ont produit plus d'un quart de l'électricité : 62,4 TWh d'hydraulique (11,4 %), 49,6 TWh d'éolien (9,1 %), 32,9 TWh de solaire (6 %) et 10,9 TWh de bioénergies et déchets (2 %). Les énergies fossiles ne représentent plus que 18,7 TWh, dont 16,4 TWh de gaz.\n\nRésultat : 95,2 % de la production est bas carbone, un record historique, et l'intensité carbone tombe à 19,6 g de CO2 par kWh, contre 178 en moyenne pour l'Europe élargie. La France a aussi dégagé un solde exportateur record de 92,3 TWh pour une consommation corrigée de 451,2 TWh.\n\nLe débat utile n'est donc pas « nucléaire contre renouvelables » pour l'électricité d'aujourd'hui, mais la manière d'électrifier les usages qui dépendent encore du pétrole et du gaz, à quel coût et avec quel équilibre entre les sources.",
+    "empathie": "Je suis d'accord avec toi sur un point : le nucléaire est un atout énorme pour la France. Mais on n'est pas obligés de choisir un camp. Les barrages, les éoliennes et le solaire font déjà plus d'un quart du boulot."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les éoliennes ne produisent que quand il y a du vent.",
+      "reponse": "C'est vrai, leur production est variable ; c'est pourquoi on les combine avec le nucléaire, l'hydraulique et les échanges. Sur l'année, elles ont fourni 9,1 % de l'électricité."
+    },
+    {
+      "objection": "Les renouvelables coûtent cher en subventions.",
+      "reponse": "Le coût des différentes filières est un vrai débat, qui n'est pas traité dans cette fiche ; il faut le comparer au coût des nouveaux réacteurs, lui aussi élevé."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle part de notre électricité vient des barrages ?",
+    "Selon toi, d'où viendra l'électricité pour les voitures et les pompes à chaleur ?"
+  ],
+  "limites": [
+    "La fiche porte sur l'électricité, pas sur l'énergie totale consommée (où pétrole et gaz dominent).",
+    "Les coûts comparés des filières ne sont pas traités."
+  ],
+  "sources": [
+    {
+      "titre": "95,2 % d'électricité bas carbone en 2025 (d'après le bilan électrique de RTE)",
+      "organisme": "Connaissance des Énergies",
+      "date_publication": "2026",
+      "url": "https://www.connaissancedesenergies.org/la-production-electrique-bas-carbone-de-la-france-atteint-un-maximum-historique-en-2025",
+      "passage": "Production 547,5 TWh ; nucléaire 373 TWh (68,1 %) ; hydraulique 62,4 TWh (11,4 %) ; éolien 49,6 TWh (9,1 %) ; solaire 32,9 TWh (6 %) ; bioénergies et déchets 10,9 TWh (2 %) ; fossiles 18,7 TWh dont gaz 16,4 TWh (3 %) ; 95,2 % bas carbone ; 19,6 gCO2eq/kWh contre 178 en moyenne européenne élargie.",
+      "pertinence": "Site d'information spécialisé reprenant le bilan de RTE.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bilan électrique 2025 — rapport complet",
+      "organisme": "RTE (gestionnaire du réseau de transport d'électricité)",
+      "date_publication": "2026",
+      "url": "https://assets.rte-france.com/analyse-et-donnees/2026-03/BE2025%20-%20Rapport%20Complet.pdf",
+      "passage": "Consommation corrigée 451,2 TWh (+0,4 %) (p. 6) ; solde exportateur commercial record de 92,3 TWh (p. 11-12) ; nucléaire 373,0 TWh, +11,3 TWh (p. 24) ; 95,2 % de production bas carbone (p. 22).",
+      "pertinence": "Bilan officiel du gestionnaire de réseau.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "RTE publie un bilan électrique chaque année au printemps."
+}

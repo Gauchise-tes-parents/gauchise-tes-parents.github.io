@@ -1,0 +1,106 @@
+{
+  "id": "sci-communication-non-violente",
+  "type": "science",
+  "affirmation": "Parler calmement de ses émotions, c'est de la naïveté : ça ne change rien.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "communication non violente",
+    "cnv",
+    "désescalade",
+    "émotions",
+    "besoins",
+    "empathie",
+    "conflit",
+    "rosenberg"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "robustesse": "hypothese",
+  "resume": "La communication non violente (observer sans juger, exprimer un ressenti et un besoin, formuler une demande) est très diffusée. Une revue intégrative de 15 études (Pereira et Durgante, 2025) l'associe à davantage d'empathie et à moins de colère et de stress, mais ces études sont majoritairement non randomisées et présentent des faiblesses méthodologiques : l'effet sur des désaccords politiques n'est pas démontré.",
+  "contexte": "La méthode a été formulée par Marshall Rosenberg ; elle est utilisée en médiation, à l'école, à l'hôpital.",
+  "explication": "Décrire un fait plutôt que juger la personne, dire ce qu'on ressent et ce dont on a besoin, puis proposer quelque chose de précis : ces gestes peuvent faire baisser la tension. C'est une piste utile pour désamorcer, pas une technique prouvée pour convaincre.",
+  "faits": [
+    {
+      "fait": "Une revue intégrative de 15 études (5 mixtes, 5 quasi expérimentales, 3 qualitatives, 2 quantitatives, 1 mixte non randomisée) associe les interventions de communication non violente à davantage d'empathie et à une baisse de l'anxiété, de l'irritabilité, de la colère et du stress.",
+      "periode": "2025",
+      "perimetre": "Interventions en santé, éducation, organisations",
+      "explication": "Des résultats encourageants pour apaiser un échange.",
+      "source": 0,
+      "fiabilite": "interpretation",
+      "chiffre": "15 études"
+    },
+    {
+      "fait": "Les auteurs relèvent des faiblesses méthodologiques dans les interventions évaluées ; la plupart des études ne sont pas randomisées.",
+      "periode": "2025",
+      "perimetre": "Revue de littérature",
+      "explication": "Le niveau de preuve est faible : à utiliser comme piste de désescalade, sans promesse d'effet.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Dire « quand tu dis ça, je me sens visé, j'ai besoin qu'on se respecte » peut faire baisser la tension. Ça ne garantit pas de convaincre, mais ça aide à continuer la discussion.",
+    "moyen": "La communication non violente propose quatre gestes : décrire un fait sans juger, exprimer ce qu'on ressent, nommer son besoin, formuler une demande précise. Une revue de 15 études l'associe à plus d'empathie et moins de colère. Mais ces études sont fragiles (peu d'essais contrôlés), et aucune ne porte sur des débats politiques. On peut s'en servir pour désamorcer un repas qui s'envenime, pas comme une méthode de persuasion.",
+    "detaille": "La communication non violente, formulée par Marshall Rosenberg, repose sur quatre étapes : observation sans évaluation, expression des sentiments, identification des besoins, demande concrète. Elle est enseignée dans de nombreux contextes professionnels et éducatifs.\n\nLa revue intégrative de Jordana Pereira et Helen Durgante (2025) a retenu 15 études. Elles rapportent davantage d'empathie et de compétences socio-émotionnelles, et moins d'anxiété, d'irritabilité, de colère et de stress. Mais la majorité des études sont quasi expérimentales, mixtes ou qualitatives, et les auteurs relèvent des faiblesses méthodologiques.\n\nDans l'application, cette fiche n'est utilisée que pour la désescalade (personne qui se braque, discussion qui monte en tension), avec un niveau de confiance faible. Elle ne sert jamais à promettre un changement d'opinion.",
+    "empathie": "Je sens que ça t'énerve, et moi aussi ça me touche. J'ai juste besoin qu'on puisse en parler sans se blesser. On peut reprendre plus tard si tu veux ?"
+  },
+  "application": [
+    {
+      "situation": "Discussion qui monte en tension",
+      "tactique": "Décrire sans juger, dire son ressenti, proposer une pause ou une règle simple."
+    },
+    {
+      "situation": "Après « elle s'est braquée »",
+      "tactique": "Formuler une demande concrète plutôt qu'un nouvel argument."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "C'est une méthode de bisounours.",
+      "reponse": "Elle ne remplace pas les faits ; elle sert à garder une discussion possible. Son efficacité est d'ailleurs peu démontrée, et la fiche le dit."
+    }
+  ],
+  "questions": [
+    "De quoi aurais-tu besoin pour qu'on puisse en parler tranquillement ?"
+  ],
+  "limites": [
+    "Niveau de preuve faible : études surtout non randomisées.",
+    "Aucune étude retenue ne porte sur des désaccords politiques.",
+    "Seul le résumé de la revue a été consulté.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Pereira, J. S., & Durgante, H. B. (2025). Interventions in Nonviolent Communication to Promote Empathy: Integrative Review. Revista Brasileira em Promoção da Saúde, 38, 1-14.",
+      "organisme": "Revista Brasileira em Promoção da Saúde (Universidade de Fortaleza)",
+      "date_publication": "2025",
+      "url": "https://ojs.unifor.br/RBPS/article/view/16464",
+      "passage": "Revue intégrative de 15 études (surtout quasi expérimentales ou mixtes, sans randomisation) : les interventions de communication non violente sont associées à davantage d'empathie et à moins de colère, d'irritabilité et de stress ; les auteurs relèvent des faiblesses méthodologiques.",
+      "pertinence": "Revue de littérature (résumé consulté).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Pereira, J. S. ; Durgante, H. B.",
+    "annee": 2025,
+    "titre": "Pereira, J. S., & Durgante, H. B. (2025). Interventions in Nonviolent Communication to Promote Empathy: Integrative Review. Revista Brasileira em Promoção da Saúde, 38, 1-14.",
+    "publication": "Revista Brasileira em Promoção da Saúde (Universidade de Fortaleza)",
+    "url": "https://ojs.unifor.br/RBPS/article/view/16464"
+  },
+  "conditions": "Interventions en santé, éducation, organisations.",
+  "limites_methodo": "Études majoritairement non randomisées ; aucune sur la politique.",
+  "confiance": "faible",
+  "notions": [
+    "cnv",
+    "desescalade"
+  ]
+}

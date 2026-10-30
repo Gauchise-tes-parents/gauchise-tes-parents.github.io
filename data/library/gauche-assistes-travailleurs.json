@@ -1,0 +1,180 @@
+{
+  "id": "gauche-assistes-travailleurs",
+  "type": "reponse_critique",
+  "affirmation": "La gauche défend les assistés plutôt que les travailleurs.",
+  "volet": "social",
+  "sous_theme": "Coût et efficacité des aides",
+  "rubriques": [
+    "melenchon-lfi"
+  ],
+  "mots_cles": [
+    "gauche",
+    "assistés",
+    "assistanat",
+    "travailleurs",
+    "ouvriers",
+    "rsa",
+    "smic",
+    "minima sociaux",
+    "vote ouvrier",
+    "rn",
+    "lfi",
+    "mélenchon"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "reproche": "On reproche à la gauche, et à LFI en particulier, de s'occuper des allocataires plutôt que de ceux qui travaillent. L'argument s'appuie sur la défense des minima sociaux et sur le fait qu'une partie des ouvriers vote pour le RN.",
+  "resume": "Les principales mesures du programme de LFI visent les actifs : SMIC à 1 400 € net (2022) puis 1 600 € net (NFP 2024), retraite à 60 ans, hausse du point d'indice. Les minima sociaux pèsent 31,6 Md€ (2,0 % des dépenses publiques en 2023), et un tiers des foyers éligibles au RSA ne le demandent pas. Mais il est exact que LFI ne capte pas la majorité du vote ouvrier : au premier tour de 2022, 36 % des ouvriers ont voté Le Pen contre 23 % pour Mélenchon.",
+  "contexte": "L'opposition entre « travailleurs » et « assistés » est au cœur de nombreux discours, à droite comme à l'extrême droite. Elle s'appuie sur le sentiment que le travail paie mal comparé aux aides, alors même que le SMIC rapporte bien plus que le RSA.",
+  "explication": "Opposer travailleurs et allocataires suppose deux groupes séparés. En réalité, beaucoup de personnes passent de l'un à l'autre au cours de leur vie (chômage, maladie, retraite). Les mesures sur les salaires et les retraites concernent directement les actifs.",
+  "faits": [
+    {
+      "fait": "L'Avenir en commun (2022) propose un SMIC à 1 400 € net et la retraite à 60 ans ; le NFP (2024) un SMIC à 1 600 € net et une hausse de 10 % du point d'indice.",
+      "periode": "2022-2024",
+      "perimetre": "Programmes (source partisane)",
+      "explication": "Les mesures phares visent les revenus du travail et les retraites.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le chiffrage du NFP place parmi les mesures d'urgence l'abrogation de la réforme des retraites, le SMIC à 1 600 € net et la hausse du point d'indice des fonctionnaires.",
+      "periode": "Juin 2024",
+      "perimetre": "Chiffrage du NFP",
+      "explication": "Les priorités budgétaires portent sur les actifs et les retraités.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les minima sociaux représentent 31,6 Md€ en 2023, soit 2,0 % des dépenses publiques ; le RSA seul représente 12,2 Md€, soit 0,4 % du PIB.",
+      "periode": "2023",
+      "perimetre": "Ensemble des minima sociaux",
+      "explication": "La part des minima sociaux dans la dépense publique est faible.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "31,6 Md€ ; 2,0 %"
+    },
+    {
+      "fait": "Fin 2021, environ un tiers des foyers éligibles au RSA (33 % à 37 %, soit environ 561 000 foyers) ne le percevaient pas.",
+      "periode": "Fin 2021",
+      "perimetre": "France métropolitaine",
+      "explication": "L'image d'allocataires profitant massivement du système est contredite par l'ampleur du non-recours.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "33 % à 37 %"
+    },
+    {
+      "fait": "En 2023, 83 % des contrôles de la recherche d'emploi clôturés par France Travail concluent à une recherche active ou à une remobilisation.",
+      "periode": "2023",
+      "perimetre": "523 400 contrôles",
+      "explication": "La plupart des demandeurs d'emploi contrôlés cherchent du travail.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Au premier tour de la présidentielle 2022, 36 % des ouvriers votent Marine Le Pen et 23 % Jean-Luc Mélenchon ; parmi les personnes gagnant moins de 1 250 € par mois, 31 % et 28 %.",
+      "periode": "Avril 2022",
+      "perimetre": "Sondage Ipsos-Sopra Steria",
+      "explication": "La gauche ne convainc pas la majorité des ouvriers : c'est un fait politique à prendre au sérieux.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "36 % / 23 %"
+    }
+  ],
+  "citations": [],
+  "argumentaires": {
+    "court": "Le SMIC à 1 600 €, la retraite à 60 ans, le point d'indice : ce sont des mesures pour ceux qui travaillent. Les minima sociaux, c'est 2 % des dépenses publiques. Mais c'est vrai que beaucoup d'ouvriers votent RN : la gauche doit se demander pourquoi.",
+    "moyen": "Regarde le programme : SMIC à 1 400 puis 1 600 € net, retraite à 60 ans, hausse du salaire des fonctionnaires. Ce sont des mesures pour les gens qui bossent. À côté, les minima sociaux, c'est environ 2 % des dépenses publiques, et un tiers des gens qui ont droit au RSA ne le demandent même pas. Et la plupart des chômeurs contrôlés cherchent vraiment du travail. Par contre, je te l'accorde, en 2022, 36 % des ouvriers ont voté Le Pen et 23 % Mélenchon. Si la gauche défend les travailleurs, elle a un problème pour le leur faire sentir, et ça mérite qu'on en parle.",
+    "detaille": "Le reproche oppose deux groupes : ceux qui travaillent et ceux qui vivent des aides. Les données montrent que cette opposition est fragile.\n\nD'abord, les mesures phares de LFI visent les actifs : un SMIC à 1 400 € net dans le programme de 2022, à 1 600 € net dans celui du Nouveau Front populaire en 2024, la retraite à 60 ans, une hausse de 10 % du point d'indice des fonctionnaires. Ce sont des mesures pour les salariés et les futurs retraités.\n\nEnsuite, le poids des aides est souvent surestimé. En 2023, les minima sociaux représentent 31,6 Md€, soit 2,0 % des dépenses publiques ; le RSA seul, 0,4 % du PIB. Environ un tiers des foyers éligibles au RSA ne le demandent pas. Et en 2023, 83 % des contrôles de recherche d'emploi menés par France Travail ont conclu à une recherche active ou à une remobilisation.\n\nEnfin, la frontière entre « travailleurs » et « assistés » est poreuse : on peut être salarié, puis chômeur, puis malade, puis retraité. Les aides sont aussi une assurance pour ceux qui travaillent.\n\nMais le reproche touche un point réel : au premier tour de 2022, 36 % des ouvriers ont voté Marine Le Pen, contre 23 % pour Jean-Luc Mélenchon. Que la gauche défende les salaires ne suffit pas à convaincre une partie du monde du travail, qui peut se sentir oubliée. C'est une question politique sérieuse, que la gauche ne peut pas balayer.",
+    "empathie": "Je comprends ce sentiment : quand on se lève tôt pour un salaire qui ne suffit pas, voir quelqu'un toucher des aides peut révolter. Mais le vrai problème, c'est que le travail paie trop peu. C'est justement pour ça que la gauche propose d'augmenter les salaires."
+  },
+  "formulation_table": "Le SMIC à 1 600 €, la retraite à 60 ans, le point d'indice : ce sont des mesures pour ceux qui travaillent. Les minima sociaux, c'est 2 % des dépenses publiques. Mais c'est vrai que beaucoup d'ouvriers votent RN : la gauche doit se demander pourquoi.",
+  "objections_legitimes": [
+    "Une majorité d'ouvriers ne vote pas pour LFI : le reproche traduit un ressenti réel du monde du travail.",
+    "Le discours de la gauche peut donner l'impression de parler davantage des aides que du travail, même si son programme contient des mesures salariales.",
+    "Le non-recours et les contrôles n'empêchent pas l'existence de fraudes, qui doivent aussi être combattues."
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Avec le RSA, on gagne presque autant qu'en travaillant.",
+      "reponse": "Pour une personne seule, le SMIC net rapporte plus du double du RSA, avant même la prime d'activité (voir la fiche RSA et SMIC)."
+    },
+    {
+      "objection": "Les ouvriers votent RN, c'est donc que la gauche les a trahis.",
+      "reponse": "C'est un débat important ; le vote dépend aussi d'autres enjeux (immigration, sécurité, sentiment d'abandon) qu'il faut aborder sans mépris."
+    }
+  ],
+  "questions": [
+    "Selon toi, qu'est-ce qui aiderait le plus quelqu'un qui travaille au SMIC ?",
+    "Combien de personnes de ton entourage ont touché une aide à un moment de leur vie ?"
+  ],
+  "limites": [
+    "Les données de vote sont un sondage sortie des urnes de 2022 ; la marge d'erreur n'est pas précisée.",
+    "Le non-recours est mesuré fin 2021 ; la réforme du RSA sous conditions d'activité n'est pas évaluée ici."
+  ],
+  "sources": [
+    {
+      "titre": "L'Avenir en commun — programme abrégé (2022)",
+      "organisme": "Union populaire / La France insoumise (source partisane)",
+      "date_publication": "Avril 2022",
+      "url": "https://melenchon.fr/wp-content/uploads/2022/04/programme-avenir-en-commun-abrege.pdf",
+      "passage": "Assemblée constituante convoquée par référendum (art. 11), membres élus ou tirés au sort ; RIC législatif, abrogatoire, constitutionnel et révocatoire (p. 5) ; combattre « les communautarismes et l'usage politique des religions », supprimer le financement public des cultes en Alsace-Moselle (p. 5) ; SMIC à 1 400 € net (p. 6) ; retraite à 60 ans avec 40 annuités (p. 10) ; police de proximité, démantèlement des BAC, remplacement de l'IGPN par une autorité indépendante (p. 18).",
+      "pertinence": "Texte du programme lui-même : il dit ce que LFI propose, pas ce qui est réalisable.",
+      "type": "partisane",
+      "consultee": true
+    },
+    {
+      "titre": "Le Nouveau Front populaire chiffre son programme à 150 milliards d'ici à 2027",
+      "organisme": "LCP Assemblée nationale",
+      "date_publication": "21 juin 2024",
+      "url": "https://lcp.fr/actualites/le-nouveau-front-populaire-chiffre-son-programme-a-150-milliards-d-ici-a-2027-assurant",
+      "passage": "Environ 150 Md€ de dépenses supplémentaires d'ici 2027 ; mesures d'urgence de 25 Md€ en 2024 (abrogation des réformes des retraites et de l'assurance chômage, SMIC à 1 600 € net, point d'indice +10 %) ; environ 100 Md€ de recettes (ISF climatique, taxe sur les superprofits…) ; Gabriel Attal dénonce un « matraquage fiscal ».",
+      "pertinence": "Présentation du chiffrage par ses auteurs et réactions.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Minima sociaux et prestations de solidarité, édition 2025 — Fiche 07 : les dépenses d'allocations",
+      "organisme": "DREES",
+      "date_publication": "Décembre 2025",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/MS2025%20-%20Fiche%2007%20-%20Les%20d%C3%A9penses%20d%27allocations.pdf",
+      "passage": "Minima sociaux : 31,6 Md€ en 2023, 2,0 % des dépenses publiques ; RSA : 12,2 Md€, 0,4 % du PIB.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le non-recours au RSA concerne plus d'un tiers des foyers éligibles, confirme la Drees",
+      "organisme": "Banque des Territoires (Localtis), d'après la DREES",
+      "date_publication": "6 mai 2026",
+      "url": "https://www.banquedesterritoires.fr/le-non-recours-au-rsa-concerne-plus-dun-tiers-des-foyers-eligibles-confirme-la-drees",
+      "passage": "Environ 561 000 foyers éligibles, soit 33 % à 37 %, ne percevaient pas le RSA fin 2021.",
+      "pertinence": "Compte rendu détaillé de l'étude DREES (la publication originale n'a pas pu être ouverte).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bilan du contrôle de la recherche d'emploi en 2023 (communiqué)",
+      "organisme": "France Travail",
+      "date_publication": "19 avril 2024",
+      "url": "https://www.francetravail.org/files/live/sites/peorg/files/documents/Communiqu%c3%a9%20de%20presse/2024/20240419%20-%20FRANCE%20TRAVAIL%20-%20CP%20-%20Bilan%20Le%20contr%c3%83%c2%b4le%20de%20la%20recherche%20d'emploi%20en%202023.pdf",
+      "passage": "523 400 contrôles en 2023 ; 83 % concluent à une recherche active ou à une remobilisation ; 17 % de sanctions.",
+      "pertinence": "Données de l'opérateur public.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Présidentielle : âge, profession, lieu de résidence… quel est le profil des électeurs ?",
+      "organisme": "Public Sénat (enquête Ipsos-Sopra Steria)",
+      "date_publication": "Avril 2022",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-age-profession-lieu-de-residence-quel-est-le-profil-des-electeurs",
+      "passage": "Premier tour 2022 : ouvriers, Le Pen 36 %, Mélenchon 23 % ; revenus < 1 250 €/mois, Le Pen 31 %, Mélenchon 28 % ; 18-24 ans, Mélenchon 31 %.",
+      "pertinence": "Sondage sortie des urnes, marge d'erreur non précisée.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-04-29",
+  "raison_actualisation": "Sujet d'actualité politique : vérifier les nouveaux faits, déclarations et décisions."
+}

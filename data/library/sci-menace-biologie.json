@@ -1,0 +1,93 @@
+{
+  "id": "sci-menace-biologie",
+  "type": "science",
+  "affirmation": "Les gens de droite ont peur de tout, c'est biologique.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "menace",
+    "peur",
+    "sécurité",
+    "biologie",
+    "conservateurs",
+    "droite",
+    "réplication",
+    "physiologie"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "robustesse": "controverse",
+  "resume": "Une étude de 2008 (46 participants) avait rapporté des réactions physiologiques plus fortes aux images menaçantes chez les conservateurs. Une réplication plus large publiée en 2020 dans Nature Human Behaviour ne trouve aucune relation entre orientation politique et réaction physiologique. L'explication « biologique » des opinions politiques ne tient pas sur cette base.",
+  "contexte": "L'étude initiale (Oxley et al., Science, 2008) avait été très médiatisée pour expliquer la polarisation.",
+  "explication": "La perception des menaces joue un rôle dans les opinions, mais rien ne permet de réduire un adversaire politique à sa biologie. Partir de sa préoccupation de sécurité est plus utile que de la caricaturer.",
+  "faits": [
+    {
+      "fait": "L'étude de 2008 portait sur 46 participants d'une seule ville ; la réplication (études à Amsterdam et Philadelphie, puis étude préenregistrée de 202 participants) ne trouve aucun lien entre opinions politiques et réaction physiologique aux images menaçantes.",
+      "periode": "2008-2020",
+      "perimetre": "Pays-Bas et États-Unis",
+      "explication": "Un résultat spectaculaire sur petit échantillon ne s'est pas confirmé.",
+      "source": 0,
+      "fiabilite": "debat",
+      "chiffre": "202 participants"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non : l'étude qui disait ça portait sur 46 personnes, et une réplication plus large n'a rien trouvé. Mieux vaut prendre au sérieux l'inquiétude de sécurité que la moquer.",
+    "moyen": "On entend parfois que les conservateurs auraient biologiquement plus peur. Cette idée vient d'une étude de 2008 sur 46 personnes. Une équipe a refait l'expérience en 2020, avec plus de participants et un protocole préenregistré : aucune différence. Moralité : se méfier des explications biologiques de la politique, et surtout ne pas s'en servir contre l'autre. Si quelqu'un est inquiet pour sa sécurité, on part de cette inquiétude et on examine ensemble ce qui marche.",
+    "detaille": "En 2008, la revue Science publiait une étude selon laquelle les personnes conservatrices réagissaient physiologiquement plus fort à des images menaçantes. L'échantillon comptait 46 personnes d'une seule ville américaine. Bert Bakker et ses collègues ont mené des réplications à Amsterdam (81 participants) et à Philadelphie (352), puis une étude préenregistrée de 202 participants avec les images originales : ils ne trouvent aucune relation entre orientation politique et réaction physiologique.\n\nCela ne signifie pas que la perception des menaces ne joue aucun rôle dans les opinions politiques, question étudiée par d'autres travaux. Mais l'idée d'une différence biologique simple ne repose pas sur des bases solides.\n\nApplication : ne jamais disqualifier un interlocuteur par une prétendue nature ; partir de sa préoccupation (sécurité, ordre) et examiner les résultats concrets des politiques.",
+    "empathie": "Je comprends que tu t'inquiètes pour la sécurité, c'est légitime. Regardons ce qui protège vraiment, au lieu de se renvoyer des étiquettes."
+  },
+  "application": [
+    {
+      "situation": "Personne attachée à l'ordre et à la sécurité",
+      "tactique": "Partir de la préoccupation de sécurité ; ne pas la caricaturer ; comparer prévention, sanctions et moyens."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "D'autres études montrent des différences de personnalité.",
+      "reponse": "C'est un autre champ de recherche, avec ses propres débats ; il décrit des tendances moyennes, pas des personnes."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui te ferait te sentir plus en sécurité concrètement ?"
+  ],
+  "limites": [
+    "Source : communiqué de l'université des auteurs.",
+    "La fiche ne traite pas l'ensemble de la littérature sur menace et opinions.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Bakker, B. N., Schumacher, G., Gothreau, C., & Arceneaux, K. (2020). Conservatives and liberals have similar physiological responses to threats. Nature Human Behaviour.",
+      "organisme": "Université d'Amsterdam (communiqué)",
+      "date_publication": "10 février 2020",
+      "url": "https://uva.nl/en/content/news/press-releases/2020/02/replication-study-contradicts-claim-that-conservatives-have-stronger-physiological-responses-to-threats-than-liberals.html",
+      "passage": "Réplication de Oxley et al. (2008, Science, 46 participants) : études à Amsterdam (81) et Philadelphie (352) puis étude préenregistrée (202) ; aucune relation entre orientation politique et réaction physiologique aux images menaçantes.",
+      "pertinence": "Communiqué de l'université des auteurs.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Bakker, B. N. et al.",
+    "annee": 2020,
+    "titre": "Bakker, B. N., Schumacher, G., Gothreau, C., & Arceneaux, K. (2020). Conservatives and liberals have similar physiological responses to threats. Nature Human Behaviour.",
+    "publication": "Université d'Amsterdam (communiqué)",
+    "url": "https://uva.nl/en/content/news/press-releases/2020/02/replication-study-contradicts-claim-that-conservatives-have-stronger-physiological-responses-to-threats-than-liberals.html"
+  },
+  "conditions": "Mesures physiologiques face à des images menaçantes.",
+  "limites_methodo": "Ne dit rien de l'ensemble des travaux sur menace et opinions.",
+  "confiance": "moyenne",
+  "notions": [
+    "menace",
+    "securite"
+  ]
+}

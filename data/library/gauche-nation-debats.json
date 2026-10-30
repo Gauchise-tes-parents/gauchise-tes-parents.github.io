@@ -1,0 +1,109 @@
+{
+  "id": "gauche-nation-debats",
+  "type": "histoire",
+  "affirmation": "Si tu critiques la France ou ses gouvernements, c'est que tu ne l'aimes pas.",
+  "volet": "politique",
+  "sous_theme": "Histoire politique contemporaine",
+  "rubriques": ["patriotisme-de-gauche"],
+  "mots_cles": ["patriotisme", "critique", "jaurès", "union sacrée", "internationalisme", "souverainisme de gauche", "chevènement", "maastricht", "débats de la gauche"],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "historique",
+  "resume": "Critiquer un gouvernement ou une injustice n'est pas trahir son pays : la tradition républicaine fait du citoyen celui qui contrôle le pouvoir. La gauche elle-même est traversée par des débats sur la nation : l'internationalisme de Jaurès, assassiné le 31 juillet 1914 par un nationaliste, le ralliement à l'« Union sacrée » en 1914, puis le souverainisme républicain de Jean-Pierre Chevènement contre Maastricht en 1992.",
+  "contexte": "Avant 1914, Jaurès combat la guerre au nom de l'Internationale tout en défendant la défense nationale. Il est assassiné à la veille du conflit ; la gauche se rallie ensuite à l'Union sacrée proclamée par le président Poincaré le 4 août 1914. Plus tard, la question européenne divise à nouveau la gauche.",
+  "explication": "Aimer son pays, c'est aussi vouloir qu'il soit à la hauteur de ses principes : liberté, égalité, fraternité. Dénoncer la pauvreté, les discriminations ou les abus de pouvoir est une manière d'exiger que la République tienne ses promesses.",
+  "faits": [
+    {
+      "fait": "Jean Jaurès a été assassiné le 31 juillet 1914 au café du Croissant à Paris par un nationaliste.",
+      "periode": "31 juillet 1914",
+      "perimetre": "Paris",
+      "explication": "Le dirigeant socialiste qui luttait pour la paix a été tué par un militant nationaliste : l'accusation de « trahison » contre ceux qui critiquent la politique du pays n'est pas nouvelle.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 4 août 1914, le président Poincaré appelle à l'« Union sacrée » ; la gauche s'y rallie et le secrétaire général de la CGT, Léon Jouhaux, annonce aux obsèques de Jaurès que la CGT répondra à l'ordre de mobilisation.",
+      "periode": "4 août 1914",
+      "perimetre": "France",
+      "explication": "La gauche syndicale et socialiste a participé à la défense nationale, malgré son internationalisme.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Jean-Pierre Chevènement, figure de la gauche républicaine, a démissionné du ministère de la Défense en janvier 1991 pour protester contre l'intervention dans la guerre du Golfe, s'est opposé au traité de Maastricht et a fondé le Mouvement des citoyens.",
+      "periode": "1991-1993",
+      "perimetre": "Gauche française",
+      "explication": "Le souverainisme de gauche existe : il défend la nation républicaine contre ce qu'il juge être une perte de contrôle démocratique.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le traité de Maastricht a été approuvé par référendum le 20 septembre 1992 avec 51,04 % des voix.",
+      "chiffre": "51,04 %",
+      "periode": "20 septembre 1992",
+      "perimetre": "France",
+      "explication": "La question européenne a divisé la gauche comme la droite.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Critiquer un gouvernement, ce n'est pas détester la France : c'est être citoyen. Jaurès aimait son pays et combattait la guerre ; c'est un nationaliste qui l'a tué.",
+    "moyen": "Dans une république, le citoyen n'est pas un sujet : il a le droit et même le devoir de critiquer le pouvoir. Jaurès défendait la nation et la paix à la fois ; il a été assassiné le 31 juillet 1914 par un nationaliste qui le voyait comme un traître. Quelques jours plus tard, la gauche s'est pourtant ralliée à la défense du pays. Plus tard, Jean-Pierre Chevènement a quitté le gouvernement en 1991 et combattu Maastricht au nom de la souveraineté républicaine. La gauche n'est pas unanime sur la nation, mais une chose est sûre : dénoncer la pauvreté ou les injustices, c'est vouloir que la France tienne ses promesses.",
+    "detaille": "L'idée qu'il faudrait choisir entre aimer la France et la critiquer repose sur une confusion entre le pays et ceux qui le gouvernent. Dans la tradition républicaine, le citoyen contrôle le pouvoir : la critique fait partie de la démocratie.\n\nL'histoire de la gauche le montre. Jean Jaurès, dirigeant socialiste, défendait à la fois l'internationalisme ouvrier et la défense nationale. À la veille de la guerre, il cherchait à empêcher le conflit ; il est assassiné le 31 juillet 1914 au café du Croissant par un nationaliste. Le 4 août, le président Poincaré proclame l'« Union sacrée » et la gauche s'y rallie : le secrétaire de la CGT, Léon Jouhaux, annonce que les syndicalistes répondront à la mobilisation.\n\nLa question nationale continue ensuite de diviser la gauche. Communistes et socialistes s'opposent sur l'URSS, la décolonisation, puis l'Europe. En 1991, Jean-Pierre Chevènement démissionne du ministère de la Défense pour protester contre l'intervention dans la guerre du Golfe ; il combat ensuite le traité de Maastricht, approuvé de justesse en 1992 avec 51,04 % des voix, et fonde le Mouvement des citoyens.\n\nCes débats sont légitimes. Mais aucun de ces courants n'oppose amour du pays et critique du pouvoir : on peut défendre la France tout en dénonçant ses injustices, précisément parce qu'on y tient.",
+    "empathie": "Je comprends que certaines critiques te blessent, surtout quand elles semblent dénigrer tout le pays. Moi, quand je critique, c'est parce que j'y tiens et que je voudrais que ça aille mieux pour tout le monde ici."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Certains à gauche dénigrent systématiquement la France.",
+      "reponse": "Des discours peuvent être excessifs, à gauche comme ailleurs. Mais critiquer une politique ou rappeler des pages sombres de l'histoire n'est pas renier le pays."
+    },
+    {
+      "objection": "L'internationalisme, c'est le contraire du patriotisme.",
+      "reponse": "Pas forcément : Jaurès conciliait les deux, et de nombreux internationalistes ont combattu pour la France pendant les deux guerres. C'est un débat ancien et réel au sein de la gauche."
+    }
+  ],
+  "questions": [
+    "Est-ce que critiquer un président, c'est critiquer la France ?",
+    "Qui, selon toi, aime le mieux son pays : celui qui ne dit rien ou celui qui veut l'améliorer ?"
+  ],
+  "limites": [
+    "La fiche simplifie des débats internes à la gauche très riches (communistes, socialistes, anarchistes, souverainistes, fédéralistes européens).",
+    "La citation souvent attribuée à Jaurès sur l'internationalisme qui « ramène à la patrie » n'a pas pu être vérifiée dans le texte consulté de L'Armée nouvelle : elle n'est pas reprise ici."
+  ],
+  "sources": [
+    {
+      "titre": "Jean Jaurès, première victime de la guerre (Jean-François Chanet) — Les Chemins de la mémoire n° 245",
+      "organisme": "Ministère de la Défense, DMPA",
+      "date_publication": "Août-septembre 2014",
+      "url": "https://www.defense.gouv.fr/sites/default/files/chemins-memoire/20140909_CDM-245_epreuve-du-feu_aout-septembre-2014-.pdf",
+      "passage": "Assassinat de Jaurès le 31 juillet 1914 au café du Croissant par un nationaliste ; message de Poincaré du 4 août sur l'« union sacrée » ; Léon Jouhaux et la CGT répondent à la mobilisation.",
+      "pertinence": "Article d'historien publié par le ministère.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Jean-Pierre Chevènement — Encyclopédie Larousse",
+      "organisme": "Larousse",
+      "date_publication": "Non précisée",
+      "url": "https://www.larousse.fr/encyclopedie/personnage/Chev%C3%A8nement/113284",
+      "passage": "Démission du ministère de la Défense en janvier 1991 (guerre du Golfe) ; opposition à Maastricht ; Mouvement des citoyens fondé en 1992-1993 ; 5,33 % à la présidentielle de 2002.",
+      "pertinence": "Notice encyclopédique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Une ratification difficile (Pierre Gerbet)",
+      "organisme": "CVCE, Université du Luxembourg",
+      "date_publication": "Document relatif au 20 septembre 1992",
+      "url": "https://www.cvce.eu/content/publication/2003/10/16/a6cda0c1-d0cb-489e-8bed-e31a522724e5/publishable_fr.pdf",
+      "passage": "Oui à 51,04 % au référendum de Maastricht.",
+      "pertinence": "Résultat officiel rapporté par un historien.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2029-10-29",
+  "raison_actualisation": "Fiche historique : relecture périodique."
+}

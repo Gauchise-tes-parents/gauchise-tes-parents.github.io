@@ -1,0 +1,7 @@
+.env
+node_modules/
+data/feedback/
+dist/
+data/updates/
+data/watch/lock
+data/usage/

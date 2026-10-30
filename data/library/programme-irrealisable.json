@@ -1,0 +1,121 @@
+{
+  "id": "programme-irrealisable",
+  "type": "reponse_critique",
+  "affirmation": "Le programme de Mélenchon est irréalisable.",
+  "volet": "politique",
+  "sous_theme": "Programmes électoraux",
+  "rubriques": [
+    "melenchon-lfi"
+  ],
+  "mots_cles": [
+    "mélenchon",
+    "lfi",
+    "programme",
+    "irréalisable",
+    "utopique",
+    "smic",
+    "retraite à 60 ans",
+    "chiffrage",
+    "avenir en commun",
+    "nfp"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "reproche": "On qualifie le programme de LFI d'utopique : SMIC fortement augmenté, retraite à 60 ans, nouvelle Constitution, le tout jugé impossible à financer ou à mettre en œuvre.",
+  "resume": "« Irréalisable » mélange deux questions. Certaines mesures sont techniquement simples à décider (hausse du SMIC, retour de l'âge de départ à 60 ans, rétablissement d'un impôt sur la fortune), mais coûteuses et contestées dans leurs effets. D'autres supposent des conditions politiques lourdes (Constituante, renégociation européenne). Le vrai débat porte sur le coût, le financement et les effets économiques, chiffrés de façon très différente selon les sources.",
+  "contexte": "Le programme L'Avenir en commun (2022) prévoyait un SMIC à 1 400 € net et la retraite à 60 ans avec 40 annuités ; le Nouveau Front populaire, en 2024, proposait un SMIC à 1 600 € net et l'abrogation de la réforme des retraites.",
+  "explication": "Une mesure est irréalisable si elle est juridiquement ou matériellement impossible. Une mesure coûteuse ou risquée est réalisable mais discutable. Distinguer les deux permet d'avoir un débat utile.",
+  "faits": [
+    {
+      "fait": "L'Avenir en commun (2022) propose un SMIC à 1 400 € net et la retraite à 60 ans avec 40 annuités de cotisation.",
+      "periode": "2022",
+      "perimetre": "Programme (source partisane)",
+      "explication": "Ces mesures relèvent de décisions législatives ou réglementaires classiques.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2024, le NFP chiffre ses mesures d'urgence à 25 Md€ pour 2024 et son programme à environ 150 Md€ d'ici 2027, avec environ 100 Md€ de recettes nouvelles.",
+      "periode": "Juin 2024",
+      "perimetre": "Chiffrage du NFP",
+      "explication": "Les auteurs ont produit un chiffrage, contestable mais existant.",
+      "source": 1,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "L'Institut Montaigne estime le coût annuel du programme du NFP à 179 Md€.",
+      "periode": "Juillet 2024",
+      "perimetre": "Chiffrage indépendant (think tank libéral)",
+      "explication": "L'écart entre chiffrages montre le poids des hypothèses.",
+      "source": 2,
+      "fiabilite": "estimation"
+    }
+  ],
+  "citations": [],
+  "argumentaires": {
+    "court": "Augmenter le SMIC ou revenir à la retraite à 60 ans, techniquement, un gouvernement peut le décider : c'est déjà arrivé. La vraie question, c'est le coût et qui paie. Là-dessus, on peut débattre chiffres en main.",
+    "moyen": "« Irréalisable », ça veut dire impossible. Or augmenter le SMIC, rétablir un impôt sur la fortune ou ramener l'âge de départ à 60 ans, ce sont des décisions qu'un gouvernement peut prendre ; la retraite à 60 ans a même existé. Ce qui se discute vraiment, c'est le coût et les effets : le NFP chiffrait son programme à 150 milliards d'ici 2027, l'Institut Montaigne à 179 milliards par an. On peut penser que c'est trop cher ou que ça pèsera sur l'emploi ; d'autres pensent que ça relancera la consommation. C'est un désaccord sur des choix et des hypothèses, pas une impossibilité.",
+    "detaille": "Le reproche d'irréalisme recouvre en réalité plusieurs critiques.\n\nCertaines mesures sont simples à décider. Le programme L'Avenir en commun de 2022 prévoyait un SMIC à 1 400 € net et la retraite à 60 ans avec 40 annuités ; le Nouveau Front populaire, en 2024, un SMIC à 1 600 € net et l'abrogation de la réforme des retraites. Juridiquement, ce sont des décisions de loi ou de décret. La question n'est pas de savoir si on peut les prendre, mais ce qu'elles coûtent et ce qu'elles produisent.\n\nSur le coût, les chiffrages divergent : environ 150 Md€ d'ici 2027 selon le NFP, avec environ 100 Md€ de recettes nouvelles ; 179 Md€ par an selon l'Institut Montaigne. Ces écarts tiennent aux hypothèses (croissance, rendement des impôts, comportements des entreprises).\n\nD'autres propositions demandent des conditions politiques lourdes : une Assemblée constituante suppose un référendum gagné ; certaines mesures se heurtent aux règles européennes et supposent une négociation ou un conflit avec les partenaires.\n\nLe débat honnête porte donc sur trois points : le financement est-il crédible, les effets sur l'emploi et l'investissement sont-ils maîtrisés, et les conditions politiques sont-elles réunies ? Ce sont des objections réelles ; « irréalisable » les écrase en un mot.",
+    "empathie": "Je comprends le doute : quand on entend « 60 ans » et « SMIC à 1 600 », ça paraît trop beau. Moi aussi je veux savoir comment on paie. Mais la retraite à 60 ans a existé en France : la question, c'est combien ça coûte et qui paie."
+  },
+  "formulation_table": "Augmenter le SMIC ou revenir à la retraite à 60 ans, techniquement, un gouvernement peut le décider : c'est déjà arrivé. La vraie question, c'est le coût et qui paie. Là-dessus, on peut débattre chiffres en main.",
+  "objections_legitimes": [
+    "Le coût est très élevé selon tous les chiffrages disponibles.",
+    "Une hausse rapide du SMIC peut peser sur les petites entreprises ; l'ampleur de l'effet est débattue.",
+    "Certaines mesures se heurtent aux règles budgétaires européennes, ce qui suppose un rapport de force incertain."
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Aucun pays ne fait ça.",
+      "reponse": "Il faudrait examiner mesure par mesure : la comparaison internationale est utile, mais elle ne prouve pas l'impossibilité."
+    },
+    {
+      "objection": "Le chiffrage est bidon.",
+      "reponse": "Tout chiffrage repose sur des hypothèses, y compris ceux des autres partis : il faut comparer les hypothèses plutôt que les rejeter en bloc."
+    }
+  ],
+  "questions": [
+    "Quelle mesure précise te semble impossible, et pourquoi ?",
+    "Si c'était financé, est-ce que tu serais d'accord sur le principe ?"
+  ],
+  "limites": [
+    "Le programme 2027 de LFI n'a pas été consulté.",
+    "Les effets économiques des mesures (emploi, croissance) ne sont pas évalués dans les sources retenues."
+  ],
+  "sources": [
+    {
+      "titre": "L'Avenir en commun — programme abrégé (2022)",
+      "organisme": "Union populaire / La France insoumise (source partisane)",
+      "date_publication": "Avril 2022",
+      "url": "https://melenchon.fr/wp-content/uploads/2022/04/programme-avenir-en-commun-abrege.pdf",
+      "passage": "Assemblée constituante convoquée par référendum (art. 11), membres élus ou tirés au sort ; RIC législatif, abrogatoire, constitutionnel et révocatoire (p. 5) ; combattre « les communautarismes et l'usage politique des religions », supprimer le financement public des cultes en Alsace-Moselle (p. 5) ; SMIC à 1 400 € net (p. 6) ; retraite à 60 ans avec 40 annuités (p. 10) ; police de proximité, démantèlement des BAC, remplacement de l'IGPN par une autorité indépendante (p. 18).",
+      "pertinence": "Texte du programme lui-même : il dit ce que LFI propose, pas ce qui est réalisable.",
+      "type": "partisane",
+      "consultee": true
+    },
+    {
+      "titre": "Le Nouveau Front populaire chiffre son programme à 150 milliards d'ici à 2027",
+      "organisme": "LCP Assemblée nationale",
+      "date_publication": "21 juin 2024",
+      "url": "https://lcp.fr/actualites/le-nouveau-front-populaire-chiffre-son-programme-a-150-milliards-d-ici-a-2027-assurant",
+      "passage": "Environ 150 Md€ de dépenses supplémentaires d'ici 2027 ; mesures d'urgence de 25 Md€ en 2024 (abrogation des réformes des retraites et de l'assurance chômage, SMIC à 1 600 € net, point d'indice +10 %) ; environ 100 Md€ de recettes (ISF climatique, taxe sur les superprofits…) ; Gabriel Attal dénonce un « matraquage fiscal ».",
+      "pertinence": "Présentation du chiffrage par ses auteurs et réactions.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Législatives 2024 : chiffrage global des programmes",
+      "organisme": "Institut Montaigne",
+      "date_publication": "5 juillet 2024",
+      "url": "https://institutmontaigne.org/communiques-de-presse/legislatives-2024-chiffrage-global-des-programmes",
+      "passage": "Coût annuel estimé : Nouveau Front populaire 179 Md€, Rassemblement national 71 Md€, Ensemble environ 21 Md€.",
+      "pertinence": "Chiffrage d'un think tank d'orientation libérale, hypothèses contestées par les partis.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-04-29",
+  "raison_actualisation": "Sujet d'actualité politique : vérifier les nouveaux faits, déclarations et décisions."
+}

@@ -1,0 +1,185 @@
+{
+  "id": "lfi-antisemite",
+  "type": "reponse_critique",
+  "affirmation": "LFI est antisémite.",
+  "volet": "politique",
+  "sous_theme": "France insoumise",
+  "rubriques": [
+    "melenchon-lfi"
+  ],
+  "mots_cles": [
+    "lfi",
+    "mélenchon",
+    "antisémite",
+    "antisémitisme",
+    "juifs",
+    "7 octobre",
+    "israël",
+    "gaza",
+    "hamas",
+    "palestine",
+    "résiduel",
+    "glucksmann",
+    "crif"
+  ],
+  "verdict": null,
+  "fiabilite": "debat",
+  "stabilite": "actualite",
+  "reproche": "Depuis le 7 octobre 2023, LFI et Jean-Luc Mélenchon sont accusés d'antisémitisme, par leurs adversaires mais aussi par des responsables de gauche. Les accusations portent sur des déclarations précises : le communiqué du 7 octobre, l'attaque contre Yaël Braun-Pivet, le qualificatif « résiduel » appliqué à l'antisémitisme en 2024, des jeux de mots sur des noms en 2026.",
+  "resume": "Le sujet ne se règle ni par une absolution ni par une étiquette globale. Plusieurs déclarations ont été jugées graves, y compris à gauche : Laurence Rossignol (PS) a parlé d'« une constante du discours antisémite » à propos du communiqué du 7 octobre 2023, Olivier Faure s'est dit « heurté » quand Mélenchon a qualifié l'antisémitisme de « résiduel » alors que les actes recensés explosaient. Mélenchon et LFI rejettent toute accusation d'antisémitisme. Critiquer le gouvernement israélien n'est pas antisémite ; mais présenter un propos comme une critique politique ne suffit pas à l'en exonérer : chaque déclaration doit être examinée.",
+  "contexte": "Les actes antisémites recensés ont fortement augmenté après le 7 octobre 2023. LFI a fait du soutien aux Palestiniens un axe majeur. Les accusations portent moins sur le programme que sur des déclarations, des ambiguïtés et, selon certains observateurs, une difficulté à prendre au sérieux certains discours.",
+  "explication": "Trois questions distinctes : une critique de la politique israélienne est-elle légitime ? (oui, comme toute critique d'un gouvernement). Une déclaration précise reprend-elle des stéréotypes antisémites ou minimise-t-elle l'antisémitisme ? (à examiner au cas par cas). Un parti est-il antisémite dans son ensemble ? (affirmation globale qu'aucune décision de justice citée ici n'établit, mais qui ne peut pas servir à évacuer les déclarations problématiques).",
+  "faits": [
+    {
+      "fait": "Le 7 octobre 2023, le communiqué du groupe LFI replace l'attaque du Hamas dans le contexte de « l'intensification de la politique d'occupation israélienne » ; Laurence Rossignol (PS) y voit « une constante du discours antisémite » ; François Ruffin condamne l'attaque sans réserve.",
+      "periode": "7 octobre 2023",
+      "perimetre": "Réactions au massacre du 7 octobre",
+      "explication": "La critique est venue aussi de la gauche, et de l'intérieur de LFI.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En octobre 2023, Jean-Luc Mélenchon écrit que la présidente de l'Assemblée « campe à Tel Aviv pour encourager le massacre » ; elle répond qu'on lui met « une nouvelle cible dans le dos ».",
+      "periode": "Octobre 2023",
+      "perimetre": "Visite de Yaël Braun-Pivet en Israël",
+      "explication": "Le message a été largement critiqué, y compris pour ses effets possibles sur la sécurité de l'intéressée.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 2 juin 2024, il écrit que l'antisémitisme « reste résiduel en France », alors que le gouvernement recense 366 actes antisémites au premier trimestre 2024 (+300 %) et que le Crif en compte 1 676 en 2023 contre 436 en 2022.",
+      "periode": "2022-2024",
+      "perimetre": "Actes antisémites recensés (sources gouvernementale et associative)",
+      "explication": "Le terme a été jugé en contradiction avec les données disponibles.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "366 actes au T1 2024 ; 1 676 en 2023 (Crif)"
+    },
+    {
+      "fait": "Olivier Faure (PS) se dit « heurté » : « Tout montre qu'il y a au contraire une explosion de l'antisémitisme ».",
+      "periode": "4 juin 2024",
+      "perimetre": "Réaction d'un allié",
+      "explication": "Un responsable de la même coalition conteste frontalement le propos.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Début 2026, une plaisanterie sur « Epsteen » à Lyon, présentée comme ironique, et la déformation du nom de Raphaël Glucksmann relancent les accusations ; Mélenchon rejette toute accusation d'antisémitisme. Selon The Local, le reproche porte souvent sur le fait de ne pas prendre au sérieux ce type de rhétorique ; l'article ne cite aucune décision de justice.",
+      "periode": "Février-mars 2026",
+      "perimetre": "Campagne municipale",
+      "explication": "Les polémiques portent sur des propos et leur réception, pas sur une condamnation.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "citations": [
+    {
+      "auteur": "Laurence Rossignol (PS)",
+      "texte": "C'est une constante du discours antisémite",
+      "date": "7 octobre 2023",
+      "contexte": "À propos du communiqué du groupe LFI.",
+      "source": 0
+    },
+    {
+      "auteur": "Jean-Luc Mélenchon",
+      "texte": "l'antisémitisme reste résiduel en France",
+      "date": "2 juin 2024",
+      "contexte": "Billet de blog.",
+      "source": 2
+    },
+    {
+      "auteur": "Olivier Faure (PS)",
+      "texte": "Tout montre qu'il y a au contraire une explosion de l'antisémitisme",
+      "date": "4 juin 2024",
+      "contexte": "Réaction au billet de Jean-Luc Mélenchon.",
+      "source": 3
+    }
+  ],
+  "argumentaires": {
+    "court": "Je ne vais pas balayer ça : certaines déclarations de Mélenchon ont été jugées graves, y compris par des gens de gauche, et dire que l'antisémitisme est « résiduel » quand les actes explosent, c'est une faute. Critiquer le gouvernement israélien n'est pas antisémite. On peut regarder les déclarations une par une ?",
+    "moyen": "C'est un sujet sérieux, et je ne vais pas te dire que tout va bien. Le 7 octobre 2023, le communiqué de LFI a été dénoncé jusqu'au PS comme reprenant « une constante du discours antisémite ». En 2024, Mélenchon a écrit que l'antisémitisme était « résiduel », alors que les actes recensés avaient explosé ; Olivier Faure s'est dit « heurté ». En 2026, des jeux de mots sur des noms ont relancé la polémique. Lui et LFI rejettent toute accusation d'antisémitisme. Ce que je pense : critiquer la politique du gouvernement israélien est légitime, mais ça ne rend pas automatiquement innocente une phrase qui se présente comme une critique. Il faut juger chaque déclaration sur ce qu'elle dit, et des gens de gauche le font.",
+    "detaille": "L'accusation d'antisémitisme visant LFI s'est imposée après le 7 octobre 2023. Elle mérite mieux qu'un réflexe de défense ou qu'une étiquette globale.\n\nLes faits d'abord. Le jour même de l'attaque du Hamas, le communiqué du groupe LFI la replace dans le contexte de « l'intensification de la politique d'occupation israélienne » ; la sénatrice socialiste Laurence Rossignol y voit « une constante du discours antisémite », tandis que François Ruffin condamne sans réserve. Quelques jours plus tard, Jean-Luc Mélenchon accuse la présidente de l'Assemblée de « camper à Tel Aviv pour encourager le massacre ». En juin 2024, il écrit que l'antisémitisme « reste résiduel », alors que le gouvernement recense 366 actes au premier trimestre (+300 %) et que le Crif en compte 1 676 en 2023 contre 436 en 2022 ; Olivier Faure, allié du Nouveau Front populaire, se dit « heurté ». En 2026, une plaisanterie sur « Epsteen » et la déformation du nom de Raphaël Glucksmann relancent la polémique.\n\nMélenchon et LFI rejettent toute accusation d'antisémitisme et affirment combattre le racisme sous toutes ses formes. Aucune décision de justice citée dans les sources consultées ne qualifie ces propos.\n\nDeux règles permettent de rester honnête. Premièrement, critiquer le gouvernement israélien, sa politique à Gaza ou la colonisation n'est pas de l'antisémitisme ; confondre les deux interdit tout débat sur le Proche-Orient. Deuxièmement, présenter un propos comme une critique politique ne suffit pas à l'exonérer : minimiser l'antisémitisme quand il augmente, jouer sur des noms ou viser nommément des personnalités juives appellent un examen précis. C'est exactement ce que font des responsables de gauche qui critiquent ces déclarations sans renoncer à défendre les Palestiniens.",
+    "empathie": "Je comprends que ça t'inquiète, et c'est normal : l'antisémitisme a augmenté, ce n'est pas un sujet secondaire. Je ne vais pas défendre toutes les phrases de Mélenchon. Je voudrais juste qu'on distingue ce qui est critiquable dans ses déclarations de la cause palestinienne elle-même."
+  },
+  "formulation_table": "Je ne vais pas balayer ça : certaines déclarations de Mélenchon ont été jugées graves, y compris par des gens de gauche, et dire que l'antisémitisme est « résiduel » quand les actes explosent, c'est une faute. Critiquer le gouvernement israélien n'est pas antisémite. On peut regarder les déclarations une par une ?",
+  "objections_legitimes": [
+    "Qualifier l'antisémitisme de « résiduel » au moment d'une forte hausse des actes recensés minimise un danger réel.",
+    "Des responsables de gauche (Rossignol, Faure, Ruffin) ont eux-mêmes critiqué ces prises de position : ce n'est pas qu'une attaque de la droite.",
+    "Jouer sur des noms de personnalités juives, même présenté comme ironique, reprend des codes qu'on ne peut pas ignorer.",
+    "La répétition des polémiques pose une question politique, même en l'absence de décision de justice."
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Défendre les Palestiniens, c'est forcément antisémite.",
+      "reponse": "Non. Critiquer un gouvernement et défendre les droits d'un peuple sont légitimes ; c'est la manière de le faire, dans chaque déclaration, qui doit être examinée."
+    },
+    {
+      "objection": "C'est une campagne de calomnies orchestrée.",
+      "reponse": "Certaines accusations sont instrumentalisées, mais d'autres viennent d'alliés de gauche et portent sur des propos précis : les rejeter toutes en bloc n'est pas crédible."
+    }
+  ],
+  "questions": [
+    "Quelle déclaration précise te pose problème ? Regardons ce qu'elle dit exactement.",
+    "Comment distingues-tu une critique d'Israël d'un propos antisémite ?"
+  ],
+  "limites": [
+    "La fiche ne recense pas toutes les déclarations ni toutes les réponses de LFI.",
+    "Les chiffres d'actes antisémites cités sont ceux rapportés par la presse en juin 2024 ; ils doivent être actualisés avec les bilans officiels plus récents.",
+    "Aucune décision de justice n'a été trouvée dans les sources consultées ; cela ne préjuge pas de procédures éventuelles."
+  ],
+  "sources": [
+    {
+      "titre": "Nombreuses condamnations du Hamas en France, LFI crée la polémique : « une constante du discours antisémite » (AFP)",
+      "organisme": "L'Avenir (dépêche AFP)",
+      "date_publication": "7 octobre 2023",
+      "url": "https://www.lavenir.net/actu/monde/2023/10/07/nombreuses-condamnations-du-hamas-en-france-lfi-cree-la-polemique-une-constante-du-discours-antisemite-HCDBHOWH4JFPNEAPTYHLTUC2QQ/",
+      "passage": "Communiqué du groupe LFI replaçant l'attaque dans le contexte de « l'intensification de la politique d'occupation israélienne » ; Mélenchon : « la violence ne produit et ne reproduit qu'elle-même » ; Laurence Rossignol (PS) : « C'est une constante du discours antisémite » ; François Ruffin condamne sans réserve.",
+      "pertinence": "Dépêche d'agence du jour même.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Déplacement en Israël : Yaël Braun-Pivet accuse Jean-Luc Mélenchon de lui mettre « une cible dans le dos »",
+      "organisme": "LCP Assemblée nationale",
+      "date_publication": "Octobre 2023",
+      "url": "https://lcp.fr/actualites/deplacement-en-israel-yael-braun-pivet-accuse-jean-luc-melenchon-de-lui-mettre-une",
+      "passage": "Message de Jean-Luc Mélenchon : la présidente de l'Assemblée « campe à Tel Aviv pour encourager le massacre » ; réponse : « C'est une nouvelle cible qu'on me met dans le dos » ; Mélenchon dénonce une « absurde police des mots ».",
+      "pertinence": "Média parlementaire, citations des deux protagonistes.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Pour Jean-Luc Mélenchon, l'antisémitisme reste « résiduel » en France",
+      "organisme": "Europe 1",
+      "date_publication": "Juin 2024",
+      "url": "https://www.europe1.fr/politique/pour-jean-luc-melenchon-lantisemitisme-reste-residuel-en-france-4250482",
+      "passage": "Billet de blog du 2 juin 2024 ; chiffres cités : 366 actes antisémites au premier trimestre 2024 selon le gouvernement (+300 %) ; selon le Crif, 436 actes en 2022 et 1 676 en 2023.",
+      "pertinence": "Média généraliste reprenant les chiffres officiels et associatifs.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Élections européennes : Olivier Faure s'indigne d'un « dérapage incompréhensible » de Mélenchon",
+      "organisme": "Europe 1",
+      "date_publication": "4 juin 2024",
+      "url": "https://www.europe1.fr/politique/elections-europeennes-olivier-faure-sindigne-dun-derapage-incomprehensible-de-melenchon-4250838",
+      "passage": "Le premier secrétaire du PS se dit « heurté » : « Tout montre qu'il y a au contraire une explosion de l'antisémitisme ».",
+      "pertinence": "Réaction d'un allié de gauche.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Explained: Why France's far-left leader is battling accusations of anti-Semitism",
+      "organisme": "The Local France",
+      "date_publication": "2 mars 2026",
+      "url": "https://www.thelocal.fr/20260302/explained-why-frances-far-left-leader-is-battling-accusations-of-anti-semitism",
+      "passage": "Plaisanterie sur « Epsteen » à Lyon, présentée comme ironique ; déformation du nom de Raphaël Glucksmann à Perpignan ; Mélenchon rejette toute accusation d'antisémitisme ; le reproche porte souvent sur le fait de ne pas prendre au sérieux ce type de rhétorique ; aucune décision de justice citée.",
+      "pertinence": "Article explicatif en anglais, factuel.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-01-29",
+  "raison_actualisation": "Sujet d'actualité politique : vérifier les nouveaux faits, déclarations et décisions."
+}

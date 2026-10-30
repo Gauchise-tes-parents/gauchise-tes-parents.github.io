@@ -1,0 +1,105 @@
+{
+  "id": "sci-deliberation",
+  "type": "science",
+  "affirmation": "Les gens ordinaires sont incapables de débattre calmement de politique.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "délibération",
+    "débat",
+    "dialogue",
+    "désescalade",
+    "fishkin",
+    "sondage délibératif",
+    "citoyens",
+    "calme"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "robustesse": "modere",
+  "resume": "Les sondages délibératifs (James Fishkin, 1988) réunissent un échantillon aléatoire de citoyens, informés par des documents équilibrés et réunis en petits groupes animés. Les participants deviennent plus informés et une partie change d'avis ; lors d'« America in One Room » (2019, 526 Américains), les opinions se sont rapprochées du centre pendant au moins un an. Les conditions (animation, équilibre des informations) comptent beaucoup.",
+  "contexte": "Le sondage délibératif a été utilisé dans de nombreux pays, des politiques énergétiques au Texas aux budgets locaux en Chine.",
+  "explication": "Dans de bonnes conditions (temps, informations équilibrées, respect des tours de parole), des citoyens ordinaires débattent sérieusement et nuancent leurs positions.",
+  "faits": [
+    {
+      "fait": "Lors d'« America in One Room » (2019), 526 Américains ont délibéré ; les opinions se sont globalement rapprochées du centre, effet observé pendant au moins un an.",
+      "periode": "2019-2020",
+      "perimetre": "États-Unis",
+      "explication": "La délibération encadrée peut réduire la polarisation.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "526 participants"
+    },
+    {
+      "fait": "Les critiques portent sur la légitimité du tirage au sort par rapport au vote, et sur le poids de la dynamique de groupe et de la qualité de l'animation.",
+      "periode": "Débat",
+      "perimetre": "Science politique",
+      "explication": "Les résultats dépendent de conditions exigeantes.",
+      "source": 0,
+      "fiabilite": "debat"
+    }
+  ],
+  "argumentaires": {
+    "court": "Quand on leur donne du temps, des informations équilibrées et des règles de respect, des gens ordinaires débattent très bien et nuancent leurs avis.",
+    "moyen": "Les expériences de démocratie délibérative montrent que des citoyens tirés au sort, bien informés et réunis en petits groupes animés, débattent sérieusement. Dans « America in One Room », 526 Américains ont rapproché leurs positions du centre, et l'effet a duré. Pour un repas de famille, on peut en retenir quelques règles : laisser chacun finir, s'appuyer sur des informations qu'on peut vérifier ensemble, et accepter de ne pas conclure tout de suite.",
+    "detaille": "Le sondage délibératif, conçu par James Fishkin à Stanford en 1988, mesure l'opinion avant et après une délibération : un échantillon représentatif reçoit des documents équilibrés, discute en petits groupes animés, interroge des experts de différents bords, puis répond à nouveau en privé. Les participants gagnent en connaissances et une partie change d'avis. L'expérience « America in One Room » (2019) a vu ses 526 participants se rapprocher du centre, pendant au moins un an.\n\nLes critiques sont sérieuses : certains jugent le vote universel plus légitime que le tirage au sort ; la dynamique de groupe et la qualité de l'animation influencent les résultats. La source utilisée ici est une synthèse encyclopédique.\n\nApplication : les règles de la délibération (tours de parole, informations partagées, absence d'obligation de conclure) peuvent inspirer une discussion familiale apaisée.",
+    "empathie": "On n'est pas obligés de trancher ce soir. Chacun dit ce qu'il pense jusqu'au bout, et on regarde ensemble un ou deux chiffres."
+  },
+  "application": [
+    {
+      "situation": "Conversation à plusieurs",
+      "tactique": "Proposer des règles simples : chacun finit sa phrase ; un fait vérifiable à la fois."
+    },
+    {
+      "situation": "Désescalade",
+      "tactique": "Proposer de ne pas conclure tout de suite."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Dans la vraie vie, personne ne se comporte comme dans ces expériences.",
+      "reponse": "C'est vrai : elles montrent ce qui est possible dans de bonnes conditions, pas ce qui arrive spontanément."
+    }
+  ],
+  "questions": [
+    "Quelles règles faudrait-il pour qu'on puisse en parler sans s'énerver ?"
+  ],
+  "limites": [
+    "Source secondaire (encyclopédie collaborative).",
+    "Les résultats dépendent fortement des conditions d'organisation.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Deliberative opinion poll (article encyclopédique)",
+      "organisme": "Wikipédia (en anglais)",
+      "date_publication": "Consulté le 29 octobre 2026",
+      "url": "https://en.wikipedia.org/wiki/Deliberative_opinion_poll",
+      "passage": "Méthode proposée par James Fishkin (1988) : échantillon aléatoire, documents équilibrés, petits groupes animés, questions aux experts, nouveau sondage ; « America in One Room » (2019, 526 participants) : rapprochement vers le centre durant au moins un an ; critiques sur la légitimité du tirage au sort et le poids de la dynamique de groupe.",
+      "pertinence": "Synthèse encyclopédique (source secondaire).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Fishkin, J. S. (méthode) ; synthèse encyclopédique",
+    "annee": 2019,
+    "titre": "Deliberative opinion poll (article encyclopédique)",
+    "publication": "Wikipédia (en anglais)",
+    "url": "https://en.wikipedia.org/wiki/Deliberative_opinion_poll"
+  },
+  "conditions": "Délibération encadrée avec échantillon aléatoire et documents équilibrés.",
+  "limites_methodo": "Conditions exigeantes, rarement réunies spontanément ; source secondaire.",
+  "confiance": "moyenne",
+  "notions": [
+    "deliberation",
+    "desescalade"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "sci-dissonance",
+  "type": "science",
+  "affirmation": "Si je lui prouve qu'il a tort, il l'admettra.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "dissonance cognitive",
+    "avoir tort",
+    "admettre",
+    "perdre la face",
+    "festinger",
+    "cohérence"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "robustesse": "robuste",
+  "resume": "La dissonance cognitive est l'inconfort ressenti face à une incohérence entre ses croyances, ses actes ou une information nouvelle. La théorie, révisée depuis 50 ans, prédit que les gens cherchent à réduire cet inconfort, ce qui peut passer par le changement d'avis, mais aussi par le rejet de l'information ou la minimisation. Offrir une porte de sortie honorable facilite le premier chemin.",
+  "contexte": "Formulée par Leon Festinger en 1957, la théorie a connu plusieurs révisions (cohérence de soi, affirmation de soi, conséquences aversives).",
+  "explication": "Admettre qu'on s'est trompé coûte, surtout devant les autres. Mieux vaut permettre à l'autre de changer d'avis sans perdre la face.",
+  "faits": [
+    {
+      "fait": "La revue de Harmon-Jones et Harmon-Jones (2007) présente les révisions de la théorie et le modèle fondé sur l'action : une incohérence suffisante produit un inconfort que la personne cherche à réduire.",
+      "periode": "2007",
+      "perimetre": "Revue de littérature",
+      "explication": "Réduire l'inconfort ne passe pas forcément par l'acceptation de l'information.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Avoir raison ne suffit pas : admettre qu'on s'est trompé est inconfortable. Laisse-lui une porte de sortie honorable.",
+    "moyen": "Selon la théorie de la dissonance cognitive, une information qui contredit nos croyances crée un inconfort. Pour le réduire, on peut changer d'avis, mais aussi rejeter l'information, la minimiser ou se convaincre de plus belle. Dans une discussion, surtout en public, le coût de l'aveu est élevé. D'où l'intérêt de dire « c'est normal de penser ça, on l'entend partout », de reconnaître ce qui est juste dans sa position et de ne pas exiger un aveu.",
+    "detaille": "La théorie de la dissonance cognitive, proposée par Leon Festinger en 1957, est l'une des plus étudiées de la psychologie sociale. Eddie et Cindy Harmon-Jones en retracent les révisions : certains chercheurs ont mis l'accent sur la cohérence de soi, d'autres sur l'affirmation de soi ou sur les conséquences négatives de nos actes. Leur modèle fondé sur l'action conserve l'idée centrale : une incohérence suffisante produit un état désagréable que l'on cherche à réduire.\n\nPour l'application, cela signifie qu'une démonstration, même juste, peut être rejetée si l'accepter menace l'image que la personne a d'elle-même. Les recherches sur l'affirmation de soi suggèrent qu'on accepte mieux une information dérangeante quand on se sent reconnu par ailleurs ; cette piste est signalée ici comme une hypothèse de travail, la fiche ne reposant que sur le résumé de la revue.",
+    "empathie": "Franchement, je pensais pareil avant de voir les chiffres. C'est ce qu'on entend partout, c'est normal."
+  },
+  "application": [
+    {
+      "situation": "Après « elle a reconnu un point »",
+      "tactique": "Saluer l'ouverture, ne pas triompher."
+    },
+    {
+      "situation": "Débat devant d'autres personnes",
+      "tactique": "Éviter d'exiger un aveu public ; laisser une sortie honorable."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Mais il faut bien qu'il reconnaisse les faits.",
+      "reponse": "Oui, et il le fera plus facilement si on ne transforme pas ça en humiliation."
+    }
+  ],
+  "questions": [
+    "Ça t'est déjà arrivé de changer d'avis sur quelque chose d'important ? Comment ça s'est passé ?"
+  ],
+  "limites": [
+    "Seul le résumé de la revue a été consulté.",
+    "Le rôle de l'affirmation de soi est présenté comme une hypothèse.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Harmon-Jones, E., & Harmon-Jones, C. (2007). Cognitive dissonance theory after 50 years of development. Zeitschrift für Sozialpsychologie, 38(1), 7-16.",
+      "organisme": "Western Sydney University (répertoire de recherche)",
+      "date_publication": "2007",
+      "url": "https://researchers.westernsydney.edu.au/en/publications/cognitive-dissonance-theory-after-50-years-of-development/",
+      "passage": "Revue : révisions de la théorie (cohérence de soi, affirmation de soi, conséquences aversives) et modèle de la dissonance fondé sur l'action ; une incohérence suffisante produit un inconfort qui pousse à la réduire.",
+      "pertinence": "Article de revue (résumé consulté).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Harmon-Jones, E. ; Harmon-Jones, C.",
+    "annee": 2007,
+    "titre": "Harmon-Jones, E., & Harmon-Jones, C. (2007). Cognitive dissonance theory after 50 years of development. Zeitschrift für Sozialpsychologie, 38(1), 7-16.",
+    "publication": "Western Sydney University (répertoire de recherche)",
+    "url": "https://researchers.westernsydney.edu.au/en/publications/cognitive-dissonance-theory-after-50-years-of-development/"
+  },
+  "conditions": "Incohérences entre croyances et actes ; expériences de laboratoire.",
+  "limites_methodo": "Revue lue en résumé ; rôle de l'affirmation de soi présenté comme hypothèse.",
+  "confiance": "moyenne",
+  "notions": [
+    "dissonance",
+    "resistance"
+  ]
+}

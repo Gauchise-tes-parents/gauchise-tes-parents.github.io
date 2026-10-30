@@ -1,0 +1,123 @@
+{
+  "id": "sci-raisonnement-motive",
+  "type": "science",
+  "affirmation": "Ce sont les gens d'en face qui sont biaisés, pas nous.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "raisonnement motivé",
+    "biais de confirmation",
+    "biais",
+    "partisan",
+    "polarisation",
+    "chiffres",
+    "identité"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "robustesse": "controverse",
+  "resume": "Le raisonnement motivé consiste à juger une information plus favorablement quand elle soutient ce que l'on pense déjà. Une méta-analyse de 51 expériences (Ditto et al.) trouve des biais partisans de degré voisin chez les progressistes et les conservateurs, résultat contesté par d'autres chercheurs. Une expérience de Kahan et al. (2017) montre que les plus à l'aise avec les chiffres peuvent être les plus polarisés sur un sujet politisé.",
+  "contexte": "Le biais de confirmation est connu depuis longtemps ; la recherche récente porte sur son ampleur selon les camps politiques et sur le rôle des compétences.",
+  "explication": "Personne n'est un juge neutre de ses propres convictions. Être intelligent ou bon en calcul ne protège pas : cela peut même servir à mieux défendre son camp.",
+  "faits": [
+    {
+      "fait": "Une méta-analyse de 51 expériences (plus de 18 000 participants) trouve que progressistes et conservateurs jugent plus favorablement les informations qui soutiennent leurs opinions, à des degrés très voisins.",
+      "periode": "2018-2019",
+      "perimetre": "Études surtout américaines",
+      "explication": "Le biais n'est pas l'apanage d'un camp.",
+      "source": 0,
+      "fiabilite": "debat",
+      "chiffre": "51 expériences"
+    },
+    {
+      "fait": "Ce résultat est contesté par Baron et Jost (2019), qui estiment que la tâche analysée ne mesure pas correctement le biais.",
+      "periode": "2019",
+      "perimetre": "Débat scientifique",
+      "explication": "L'égalité des biais entre camps reste discutée.",
+      "source": 0,
+      "fiabilite": "debat"
+    },
+    {
+      "fait": "Dans l'expérience de Kahan et al. (2017), les mêmes données sont mieux interprétées par les participants les plus à l'aise avec les chiffres quand il s'agit d'un traitement médical, mais leur polarisation augmente quand il s'agit du contrôle des armes.",
+      "periode": "2017",
+      "perimetre": "Expérience aux États-Unis",
+      "explication": "Les compétences peuvent être mises au service de l'identité politique.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Tout le monde, nous compris, a tendance à trouver plus convaincant ce qui confirme ce qu'il pense. Les études le montrent dans les deux camps.",
+    "moyen": "Les expériences sur le raisonnement motivé montrent qu'on juge plus sévèrement une étude quand elle contredit nos idées. Une grande méta-analyse trouve ce biais à des niveaux voisins à gauche et à droite, même si ce point est débattu. Et être très bon en chiffres ne protège pas : sur un sujet politisé, les plus numériques peuvent être les plus polarisés. Conséquence : commencer par reconnaître ses propres biais rend la discussion plus crédible, et montrer d'où viennent les chiffres compte autant que les chiffres eux-mêmes.",
+    "detaille": "Le raisonnement motivé désigne la tendance à évaluer les informations selon qu'elles confortent ou non nos convictions. La méta-analyse dirigée par Peter Ditto (51 expériences, plus de 18 000 participants) a comparé ce biais chez les progressistes et les conservateurs américains : les deux groupes le manifestent à des degrés très voisins. Les auteurs suggèrent que chacun voit plus facilement le biais des autres que le sien. Ce résultat est contesté : John Jost et Jonathan Baron estiment que la tâche utilisée ne mesure pas bien le biais et que d'autres données montrent davantage de biais à droite.\n\nL'expérience de Dan Kahan et de ses collègues (2017) apporte un autre éclairage : face à des données identiques, les participants les plus compétents en calcul réussissent mieux quand le sujet est neutre, mais leur polarisation augmente quand le sujet est politisé.\n\nPour l'application, la leçon est prudente : ne pas se croire immunisé, éviter de transformer un fait en marqueur d'appartenance, et présenter les données de façon à ce que l'accepter ne coûte pas une identité.",
+    "empathie": "Je sais que moi aussi je peux voir ce qui m'arrange. Alors regardons une source qu'on pourrait accepter tous les deux."
+  },
+  "application": [
+    {
+      "situation": "Personne qui aime les chiffres",
+      "tactique": "Expliquer la méthode et le dénominateur plutôt qu'empiler des statistiques."
+    },
+    {
+      "situation": "Personne très attachée à son identité politique",
+      "tactique": "Ne pas présenter le fait comme une victoire de mon camp sur le sien."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Donc tout se vaut ?",
+      "reponse": "Non : reconnaître que tout le monde est biaisé, c'est justement pourquoi on a besoin de sources et de méthodes vérifiables."
+    }
+  ],
+  "questions": [
+    "Quelle source accepterais-tu même si elle te donnait tort ?"
+  ],
+  "limites": [
+    "Les études sont surtout américaines.",
+    "L'égalité des biais entre camps est un point débattu, signalé comme tel.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Ditto, P. H., et al. (2019). At least bias is bipartisan: A meta-analytic comparison of partisan bias in liberals and conservatives. Perspectives on Psychological Science.",
+      "organisme": "Association for Psychological Science (Observer)",
+      "date_publication": "2018-2019",
+      "url": "https://www.psychologicalscience.org/publications/observer/obsonline/bias-is-blind-partisan-prejudice-across-the-political-spectrum.html",
+      "passage": "51 expériences, plus de 18 000 participants : la même information est jugée plus favorablement quand elle soutient ses opinions ; biais de degré très voisin chez les progressistes et les conservateurs ; résultat contesté par Baron et Jost (2019).",
+      "pertinence": "Présentation de la méta-analyse par l'association éditrice.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Kahan, D. M., Peters, E., Dawson, E. C., & Slovic, P. (2017). Motivated numeracy and enlightened self-government. Behavioural Public Policy, 1(1), 54-86.",
+      "organisme": "Behavioural Public Policy (Cambridge University Press)",
+      "date_publication": "2017",
+      "url": "https://www.cambridge.org/core/journals/behavioural-public-policy/article/abs/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806",
+      "passage": "Mêmes données présentées comme une étude sur un traitement de la peau ou sur le contrôle des armes : les plus à l'aise avec les chiffres réussissent mieux sur la version neutre, mais la polarisation augmente chez eux sur la version politisée.",
+      "pertinence": "Expérience publiée (résumé consulté).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Ditto, P. H. et al. ; Kahan, D. M. et al.",
+    "annee": 2019,
+    "titre": "Ditto, P. H., et al. (2019). At least bias is bipartisan: A meta-analytic comparison of partisan bias in liberals and conservatives. Perspectives on Psychological Science.",
+    "publication": "Association for Psychological Science (Observer)",
+    "url": "https://www.psychologicalscience.org/publications/observer/obsonline/bias-is-blind-partisan-prejudice-across-the-political-spectrum.html"
+  },
+  "conditions": "Évaluation d'informations politisées, surtout aux États-Unis.",
+  "limites_methodo": "Égalité des biais entre camps contestée (Baron et Jost, 2019).",
+  "confiance": "moyenne",
+  "notions": [
+    "raisonnement_motive",
+    "biais_confirmation",
+    "polarisation"
+  ]
+}

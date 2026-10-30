@@ -1,0 +1,1378 @@
+{
+ "date": "2026-10-29T20:57:38.318Z",
+ "scenarios": 150,
+ "conformes": 150,
+ "diversite": {
+  "paires": 896,
+  "pertinentes": 896,
+  "superficielles": 0,
+  "identiques": 0,
+  "compte": {
+   "structure": 754,
+   "preuves": 683,
+   "ordre": 683,
+   "questions": 768,
+   "detail": 624,
+   "strategie": 850,
+   "objection": 146,
+   "contexte": 800
+  }
+ },
+ "stabilite": {
+  "preuvesVues": 543,
+  "preuvesExactes": 543
+ },
+ "sourcesManquantes": 0,
+ "resultats": [
+  {
+   "id": "impots-assistanat/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "impots-assistanat/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "impots-assistanat/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "impots-assistanat/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "impots-assistanat/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "impots-assistanat/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "impots-assistanat/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "impots-assistanat/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "rsa-smic/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "rsa-smic/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "rsa-smic/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "rsa-smic/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "rsa-smic/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "rsa-smic/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "rsa-smic/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "rsa-smic/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "chomeurs-travailler/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "chomeurs-travailler/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "chomeurs-travailler/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "chomeurs-travailler/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "chomeurs-travailler/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "chomeurs-travailler/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "chomeurs-travailler/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "chomeurs-travailler/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "delinquance-partout/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "delinquance-partout/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "delinquance-partout/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "delinquance-partout/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "delinquance-partout/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "delinquance-partout/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "delinquance-partout/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "delinquance-partout/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "justice-laxiste-prison/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "justice-laxiste-prison/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "justice-laxiste-prison/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "justice-laxiste-prison/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "justice-laxiste-prison/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "justice-laxiste-prison/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "justice-laxiste-prison/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "justice-laxiste-prison/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigration-chiffres-definitions/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigration-chiffres-definitions/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigration-chiffres-definitions/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigration-chiffres-definitions/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigration-chiffres-definitions/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigration-chiffres-definitions/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigration-chiffres-definitions/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigration-chiffres-definitions/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigres-aides/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigres-aides/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigres-aides/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigres-aides/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigres-aides/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigres-aides/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigres-aides/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigres-aides/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "electricite-nucleaire-renouvelables/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "electricite-nucleaire-renouvelables/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "electricite-nucleaire-renouvelables/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "electricite-nucleaire-renouvelables/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "electricite-nucleaire-renouvelables/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "electricite-nucleaire-renouvelables/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "electricite-nucleaire-renouvelables/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "electricite-nucleaire-renouvelables/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "dividendes-salaires/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "dividendes-salaires/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "dividendes-salaires/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "dividendes-salaires/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "dividendes-salaires/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "dividendes-salaires/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "dividendes-salaires/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "dividendes-salaires/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "securite-sociale-1945/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/question · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "securite-sociale-1945/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "securite-sociale-1945/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "securite-sociale-1945/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/reformulation · historique/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "securite-sociale-1945/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "securite-sociale-1945/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "securite-sociale-1945/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "securite-sociale-1945/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "front-populaire-1936/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/question · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "front-populaire-1936/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "front-populaire-1936/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "front-populaire-1936/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "front-populaire-1936/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "front-populaire-1936/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "front-populaire-1936/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "front-populaire-1936/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "laicite-loi-1905/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "laicite-loi-1905/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "laicite-loi-1905/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "laicite-loi-1905/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "laicite-loi-1905/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/fait · valeurs/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "laicite-loi-1905/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "laicite-loi-1905/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "laicite-loi-1905/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "lfi-antisemite/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "lfi-antisemite/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "lfi-antisemite/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "lfi-antisemite/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "lfi-antisemite/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "lfi-antisemite/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "lfi-antisemite/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "lfi-antisemite/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "melenchon-crie/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "melenchon-crie/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "melenchon-crie/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "melenchon-crie/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "melenchon-crie/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/fait · valeurs/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "melenchon-crie/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "melenchon-crie/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/fait · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "melenchon-crie/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "gauche-laicite-debats/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/question · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "gauche-laicite-debats/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "gauche-laicite-debats/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "gauche-laicite-debats/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/reformulation · valeurs/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "gauche-laicite-debats/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "gauche-laicite-debats/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "gauche-laicite-debats/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "gauche-laicite-debats/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "commune-paris-1871/neutre",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/question · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "commune-paris-1871/chiffres",
+   "type": "profil",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "commune-paris-1871/mefiant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "commune-paris-1871/braque",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/reformulation · historique/reformulation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "commune-paris-1871/confrontation",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/fait",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "commune-paris-1871/vecu",
+   "type": "profil",
+   "ok": true,
+   "resultat": "valeurs/vecu · valeurs/vecu",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "commune-paris-1871/hesitant",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/fait · historique/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "commune-paris-1871/patriote",
+   "type": "profil",
+   "ok": true,
+   "resultat": "historique/concession · historique/concession",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "impots-assistanat/mefiant/truquees+preuves+ecoute+ecoute",
+   "type": "echange",
+   "ok": true,
+   "resultat": "Elle doute des chiffres : explique leur fabrication → Elle demande une source : montre-la, avec la méthode → Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "rsa-smic/braque/braque+braque",
+   "type": "echange",
+   "ok": true,
+   "resultat": "Elle s’est braquée : on ralentit → Elle se braque encore : on s’arrête là",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "delinquance-partout/securitaire/causes+solution+concede",
+   "type": "echange",
+   "ok": true,
+   "resultat": "D’accord sur le constat, pas sur les causes → D’accord sur le problème, pas sur la solution → Elle a reconnu un point : consolide sans triompher",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "chomeurs-travailler/confrontation/preuves+diversion+diversion",
+   "type": "echange",
+   "ok": true,
+   "resultat": "Elle demande une source : montre-la, avec la méthode → Elle a changé de sujet → Elle change encore de sujet",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "lfi-antisemite/patriote/hesite+ecoute+fin",
+   "type": "echange",
+   "ok": true,
+   "resultat": "Elle hésite : propose des pistes, pas une conclusion → Elle écoute : un élément de plus, pas dix → La discussion est terminée",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "electricite-nucleaire-renouvelables/chiffres/ecoute+ecoute+ecoute+ecoute+ecoute",
+   "type": "echange",
+   "ok": true,
+   "resultat": "Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix → Elle écoute : un élément de plus, pas dix → Tous les faits de la fiche ont été présentés",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "immigres-aides/vecu/truquees+causes+concede+fin",
+   "type": "echange",
+   "ok": true,
+   "resultat": "Elle doute des chiffres : explique leur fabrication → D’accord sur le constat, pas sur les causes → Elle a reconnu un point : consolide sans triompher → La discussion est terminée",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "securite-sociale-1945/parent_repas/braque+hesite",
+   "type": "echange",
+   "ok": true,
+   "resultat": "Elle s’est braquée : on ralentit → Elle hésite : propose des pistes, pas une conclusion",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "question:Les impôts servent à payer les assistés",
+   "type": "question",
+   "ok": true,
+   "resultat": "impots-assistanat (forte)",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "question:la police tue",
+   "type": "question",
+   "ok": true,
+   "resultat": "lfi-contre-police (forte)",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "question:Avec le RSA on gagne autant qu’en bossant",
+   "type": "question",
+   "ok": true,
+   "resultat": "rsa-smic (forte)",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "question:Mélenchon gueule tout le temps",
+   "type": "question",
+   "ok": true,
+   "resultat": "melenchon-crie (forte)",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "question:Le prix du pain au Moyen Âge",
+   "type": "question",
+   "ok": true,
+   "resultat": "non couvert",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "question:Les extraterrestres contrôlent la Banque centrale",
+   "type": "question",
+   "ok": true,
+   "resultat": "non couvert",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "question:La laïcité interdit les signes religieux dans la rue",
+   "type": "question",
+   "ok": true,
+   "resultat": "laicite-loi-1905 (forte)",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "question:Les chômeurs profitent du système",
+   "type": "question",
+   "ok": true,
+   "resultat": "chomeurs-travailler (partielle)",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "facultatif-0",
+   "type": "facultatif",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "facultatif-1",
+   "type": "facultatif",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "facultatif-2",
+   "type": "facultatif",
+   "ok": true,
+   "resultat": "valeurs/preoccupation · valeurs/preoccupation",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "facultatif-3",
+   "type": "facultatif",
+   "ok": true,
+   "resultat": "factuelle/question · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "facultatif-4",
+   "type": "facultatif",
+   "ok": true,
+   "resultat": "factuelle/question · valeurs/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  },
+  {
+   "id": "facultatif-5",
+   "type": "facultatif",
+   "ok": true,
+   "resultat": "factuelle/fait · factuelle/question",
+   "violations": [],
+   "erreurs": [],
+   "incertitudes": []
+  }
+ ]
+}

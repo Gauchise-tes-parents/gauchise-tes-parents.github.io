@@ -1,0 +1,102 @@
+{
+  "id": "agriculteurs-revenus",
+  "type": "idee_recue",
+  "affirmation": "Les agriculteurs se plaignent, mais avec les subventions ils vivent très bien.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "agriculteurs",
+    "paysans",
+    "revenus agricoles",
+    "subventions",
+    "pac",
+    "pauvreté",
+    "retraite agricole",
+    "élevage",
+    "maraîchage"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les revenus agricoles sont très inégaux. Selon l'Insee, le taux de pauvreté des ménages agricoles était de 18,1 % en 2018, contre 15,1 % pour l'ensemble des ménages ; en 2021, 15,6 % des exploitants au régime réel déclaraient un revenu nul ou négatif, et la pension moyenne des anciens exploitants était de 840 € fin 2021. Mais les agriculteurs détiennent souvent un patrimoine professionnel important (patrimoine brut médian de 613 700 € en 2018), qui n'est pas un revenu disponible.",
+  "contexte": "Les mobilisations agricoles de 2024 ont remis en lumière la question des revenus. Le secteur est très hétérogène : grandes cultures, viticulture, élevage, maraîchage n'ont pas les mêmes résultats.",
+  "explication": "Le revenu agricole varie fortement d'une année et d'une filière à l'autre. Le patrimoine (terres, bâtiments, matériel) sert à produire : il est souvent financé par l'emprunt et ne se transforme en revenu qu'à la vente, en général au départ en retraite.",
+  "faits": [
+    {
+      "fait": "En 2018, le taux de pauvreté des ménages agricoles était de 18,1 %, contre 15,1 % pour l'ensemble des ménages ; la moitié d'entre eux avaient un niveau de vie inférieur à 22 200 € par an.",
+      "periode": "2018",
+      "perimetre": "Ménages agricoles (Filosofi)",
+      "explication": "La pauvreté est plus fréquente chez les agriculteurs que dans la population.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "18,1 %"
+    },
+    {
+      "fait": "En 2021, les non-salariés agricoles au régime réel gagnaient en moyenne 1 860 € par mois de leur activité ; 15,6 % déclaraient un revenu nul ou négatif.",
+      "periode": "2021",
+      "perimetre": "Environ 290 000 non-salariés agricoles au régime réel",
+      "explication": "Un exploitant sur six ne dégage aucun revenu certaines années.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 860 € ; 15,6 %"
+    },
+    {
+      "fait": "Fin 2021, la pension moyenne des anciens exploitants agricoles (à titre principal) était de 840 € par mois, et de 930 € pour une carrière complète.",
+      "periode": "Fin 2021",
+      "perimetre": "Retraités anciens exploitants (DREES)",
+      "explication": "Les retraites agricoles sont parmi les plus faibles.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "840 €"
+    },
+    {
+      "fait": "Début 2018, la moitié des ménages d'agriculteurs actifs détenaient un patrimoine brut supérieur à 613 700 €, en grande partie professionnel.",
+      "periode": "Début 2018",
+      "perimetre": "Ménages d'agriculteurs actifs",
+      "explication": "Un patrimoine élevé peut coexister avec un faible revenu.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "613 700 €"
+    }
+  ],
+  "argumentaires": {
+    "court": "Selon l'Insee, les agriculteurs sont plus souvent pauvres que la moyenne, un sur six n'a aucun revenu certaines années, et la retraite moyenne d'un ancien exploitant tourne autour de 840 €. Il y a des agriculteurs aisés, mais beaucoup vivent mal.",
+    "moyen": "Ça dépend énormément des agriculteurs. Selon l'Insee, 18 % des ménages agricoles étaient pauvres en 2018, plus que la moyenne. En 2021, un exploitant sur six déclarait un revenu nul ou négatif, et la retraite moyenne d'un ancien exploitant était de 840 € par mois. Les subventions de la PAC existent, mais elles ne suffisent pas à garantir un revenu à tous. C'est vrai que beaucoup d'agriculteurs ont un patrimoine important, mais ce sont des terres, des bâtiments et des machines, souvent achetés à crédit : ça ne paie pas les courses.",
+    "detaille": "Les revenus agricoles sont parmi les plus inégaux et les plus instables de la société française.\n\nSelon l'Insee, en 2018, le taux de pauvreté des ménages agricoles atteignait 18,1 %, contre 15,1 % pour l'ensemble des ménages. En 2021, les exploitants au régime réel tiraient en moyenne 1 860 € par mois de leur activité, mais 15,6 % déclaraient un revenu nul ou négatif. Les situations varient selon les filières : en 2022, la part d'exploitations à l'excédent brut négatif était bien plus élevée dans le maraîchage et la viticulture que la moyenne, selon le ministère de l'Agriculture.\n\nÀ la retraite, la pension moyenne d'un ancien exploitant était de 840 € fin 2021.\n\nIl serait faux de dire que tous les agriculteurs sont pauvres : certains, notamment dans les grandes exploitations, gagnent bien leur vie, et la moitié des ménages d'agriculteurs actifs détenaient en 2018 un patrimoine brut de plus de 613 700 €. Mais ce patrimoine est l'outil de travail, souvent endetté.\n\nLa question de fond est celle des prix payés aux producteurs et du partage de la valeur avec l'industrie agroalimentaire et la grande distribution, qui dépasse le seul sujet des subventions.",
+    "empathie": "Je comprends qu'on entende beaucoup parler des subventions. Mais quand on regarde les chiffres, beaucoup d'agriculteurs ont du mal à se payer, et leurs retraites sont très faibles. Ce sont eux qui nous nourrissent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les gros céréaliers touchent l'essentiel des aides.",
+      "reponse": "La répartition des aides de la PAC est un vrai sujet de débat ; elle n'est pas chiffrée dans cette fiche. Elle illustre justement les inégalités au sein du monde agricole."
+    },
+    {
+      "objection": "Avec leur patrimoine, ils sont riches.",
+      "reponse": "Le patrimoine professionnel sert à produire et est souvent financé par l'emprunt : il ne se dépense pas au quotidien."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien touche un agriculteur à la retraite ?",
+    "Qui, selon toi, capte la valeur entre le champ et le supermarché ?"
+  ],
+  "limites": [
+    "Les données datent de 2018 à 2022 : elles doivent être actualisées avec les publications plus récentes de l'Insee et d'Agreste.",
+    "Les définitions de l'agriculteur diffèrent selon les études (revenu fiscal agricole ou profession déclarée)."
+  ],
+  "sources": [
+    {
+      "titre": "Note presse documentaire — Les agriculteurs",
+      "organisme": "Insee",
+      "date_publication": "9 février 2024",
+      "url": "https://www.insee.fr/fr/information/7765136",
+      "passage": "2018 (Filosofi) : niveau de vie médian des ménages agricoles 22 200 € par an ; taux de pauvreté 18,1 % contre 15,1 % pour l'ensemble ; 2021 : revenu moyen d'activité 1 860 € par mois pour les non-salariés agricoles au régime réel, 15,6 % de revenus nuls ou négatifs ; pension moyenne fin 2021 des anciens exploitants : 840 € ; patrimoine brut médian des ménages d'agriculteurs actifs début 2018 : 613 700 € ; 2022 : 346 000 non-salariés agricoles.",
+      "pertinence": "Synthèse officielle renvoyant aux études de l'Insee, de la DREES et d'Agreste.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Données anciennes (2018-2022) à actualiser en priorité."
+}

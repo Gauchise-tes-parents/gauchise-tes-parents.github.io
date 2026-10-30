@@ -1,0 +1,35 @@
+# Déploiement complet (interface + serveur du mode connecté) sur Render, offre gratuite.
+# Render → New → Blueprint → choisir ce dépôt. La clé API se saisit dans le tableau de bord (jamais dans le dépôt).
+# Sans ANTHROPIC_API_KEY, le site fonctionne en mode autonome uniquement (aucun coût).
+services:
+  - type: web
+    name: gauchise-tes-parents
+    runtime: node
+    plan: free
+    buildCommand: npm test
+    startCommand: node server/index.js
+    healthCheckPath: /api/status
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: HOST
+        value: 0.0.0.0
+      - key: TRUST_PROXY
+        value: "1"
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      # Plafonds de dépenses (USD). Le disque gratuit de Render est éphémère : le compteur repart de zéro
+      # à chaque redémarrage. Fixe AUSSI un plafond dans la console du fournisseur d'IA.
+      - key: DAILY_BUDGET_USD
+        value: "2"
+      - key: MONTHLY_BUDGET_USD
+        value: "20"
+      - key: PER_IP_ANALYSIS_LIMIT
+        value: "5"
+      - key: PER_IP_CONVERSATION_LIMIT
+        value: "40"
+      - key: GLOBAL_CONVERSATION_PER_HOUR
+        value: "300"
+      - key: STORE_FEEDBACK
+        value: "0"

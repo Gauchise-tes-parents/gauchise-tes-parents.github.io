@@ -1,0 +1,153 @@
+{
+  "id": "melenchon-agressif",
+  "type": "reponse_critique",
+  "affirmation": "Mélenchon est agressif.",
+  "volet": "politique",
+  "sous_theme": "France insoumise",
+  "rubriques": [
+    "melenchon-lfi"
+  ],
+  "mots_cles": [
+    "mélenchon",
+    "agressif",
+    "agressivité",
+    "violent",
+    "insultes",
+    "journalistes",
+    "braun-pivet",
+    "perquisition",
+    "invective"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "reproche": "On reproche à Jean-Luc Mélenchon une agressivité envers les journalistes, ses adversaires et parfois ses alliés. Le reproche s'appuie sur des invectives publiques, la perquisition de 2018 et des messages visant nommément des responsables.",
+  "resume": "Plusieurs épisodes documentés relèvent d'une agressivité réelle et critiquable : condamnation pour rébellion et provocation en 2019, invectives contre des journalistes en 2017, message accusant la présidente de l'Assemblée d'« encourager le massacre » en 2023. Son camp présente la conflictualité comme une stratégie assumée. Reconnaître ces faits n'empêche pas de juger ses propositions sur le fond.",
+  "contexte": "La conflictualité est un choix revendiqué par LFI, qui estime que le consensus profite aux puissants. Ses adversaires y voient une brutalisation du débat. Le reproche a pris de l'ampleur avec la perquisition de 2018, puis avec les polémiques autour du conflit israélo-palestinien depuis octobre 2023.",
+  "explication": "L'agressivité perçue et le comportement fautif ne sont pas la même chose. Hausser le ton dans un débat est un style ; s'en prendre nommément à une personne au point qu'elle dise se sentir visée est un comportement qu'on peut reprocher précisément.",
+  "faits": [
+    {
+      "fait": "Après la perquisition du 16 octobre 2018, il est condamné en décembre 2019 à trois mois d'emprisonnement avec sursis et 8 000 € d'amende pour rébellion et provocation.",
+      "periode": "2018-2019",
+      "perimetre": "Tribunal correctionnel de Bobigny",
+      "explication": "Un épisode d'agressivité a été qualifié pénalement.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En décembre 2017, il écrit qu'une journaliste « glapit en pleine hystérie » et propose un « tribunal » professionnel des journalistes ; le mot est remplacé le lendemain par « conseil de déontologie ».",
+      "periode": "Décembre 2017",
+      "perimetre": "Relations avec les médias",
+      "explication": "L'invective personnelle a été en partie retirée par son propre camp.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En octobre 2023, il écrit que Yaël Braun-Pivet « campe à Tel Aviv pour encourager le massacre » ; elle répond : « C'est une nouvelle cible qu'on me met dans le dos ». Il dénonce une « absurde police des mots ».",
+      "periode": "Octobre 2023",
+      "perimetre": "Conflit Israël-Hamas",
+      "explication": "Une accusation grave visant nommément une responsable, contestée bien au-delà de ses adversaires habituels.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Son discours de campagne du 7 juin 2026 mobilise un vocabulaire du conflit (« guerre », « crime », « menace », « rupture »).",
+      "periode": "Juin 2026",
+      "perimetre": "Analyse lexicale",
+      "explication": "La conflictualité fait partie de sa stratégie de discours.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "citations": [
+    {
+      "auteur": "Jean-Luc Mélenchon",
+      "texte": "campe à Tel Aviv pour encourager le massacre",
+      "date": "Octobre 2023",
+      "contexte": "Message visant la présidente de l'Assemblée nationale lors de sa visite en Israël.",
+      "source": 2
+    },
+    {
+      "auteur": "Yaël Braun-Pivet",
+      "texte": "C'est une nouvelle cible qu'on me met dans le dos",
+      "date": "Octobre 2023",
+      "contexte": "Réponse au message de Jean-Luc Mélenchon.",
+      "source": 2
+    }
+  ],
+  "argumentaires": {
+    "court": "Certaines de ses sorties sont agressives, je ne vais pas le nier : il a été condamné en 2019 et des gens de gauche l'ont critiqué. Mais ça ne règle pas la question de ses idées. On parle d'une mesure précise ?",
+    "moyen": "Il y a des épisodes où il a clairement dépassé les bornes : la perquisition de 2018, qui lui a valu une condamnation ; des insultes contre des journalistes en 2017 ; ou ce message accusant la présidente de l'Assemblée d'« encourager le massacre » en 2023. Ça, on peut le lui reprocher, et je ne le défends pas. Mais il faut distinguer : un style combatif, qu'il assume comme stratégie, et des fautes précises. Et aucun de ces épisodes ne dit si le SMIC à 1 400 € ou la retraite à 60 ans sont de bonnes idées. Si on veut être juste, on critique les fautes et on discute les propositions.",
+    "detaille": "Le reproche s'appuie sur des faits réels. En octobre 2018, lors de la perquisition du siège de LFI, il s'en prend aux policiers et au magistrat ; il est condamné en décembre 2019 pour rébellion et provocation. En décembre 2017, il écrit d'une journaliste qu'elle « glapit en pleine hystérie » et propose un « tribunal » des journalistes, avant que son propre camp ne remplace le mot. En octobre 2023, il accuse la présidente de l'Assemblée nationale de « camper à Tel Aviv pour encourager le massacre », ce qu'elle vit comme une cible dans le dos.\n\nSon camp explique cette conflictualité par une stratégie : refuser le consensus mou, nommer les adversaires, « rendre coup pour coup ». Une étude Ifop citée en 2017 montre que cette posture est vue comme du courage par ses soutiens et comme de l'agressivité par ses critiques.\n\nPour être honnête, il faut donc distinguer trois niveaux. Le style combatif, qui relève d'un choix politique et peut plaire ou déplaire. Les fautes précises (attaques personnelles, condamnation), qui sont légitimement critiquables, y compris par ses électeurs. Et le contenu des propositions, qui doit être discuté pour lui-même. Rejeter un programme parce que son porte-parole est jugé agressif, c'est se priver d'un débat ; défendre chaque sortie parce qu'on approuve le programme, c'est perdre en crédibilité.",
+    "empathie": "Je comprends que certaines de ses sorties te choquent ; il y en a qui me gênent aussi. Je ne vais pas tout défendre. Ce que je te propose, c'est qu'on sépare l'homme et ses excès de ce qu'il propose concrètement."
+  },
+  "formulation_table": "Certaines de ses sorties sont agressives, je ne vais pas le nier : il a été condamné en 2019 et des gens de gauche l'ont critiqué. Mais ça ne règle pas la question de ses idées. On parle d'une mesure précise ?",
+  "objections_legitimes": [
+    "La condamnation de 2019 est un fait judiciaire, pas une impression.",
+    "Accuser nommément une responsable d'« encourager le massacre » expose à des menaces : la critique est fondée.",
+    "La stratégie du « coup pour coup » peut abîmer le débat public, quel que soit le camp qui la pratique."
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Un homme agressif ne devrait pas gouverner.",
+      "reponse": "C'est un critère légitime pour voter. Mais il vaut pour tous les responsables, et il ne dispense pas d'examiner les propositions des uns et des autres."
+    },
+    {
+      "objection": "Ses électeurs approuvent cette violence verbale.",
+      "reponse": "Une partie apprécie la combativité, d'autres la regrettent : le jugement sur le style n'est pas le même que l'adhésion au programme."
+    }
+  ],
+  "questions": [
+    "Quelle différence fais-tu entre un ton combatif et une attaque personnelle ?",
+    "Est-ce que le même critère s'applique aux autres responsables politiques ?"
+  ],
+  "limites": [
+    "La fiche ne recense pas tous les épisodes ; elle retient les plus documentés.",
+    "La suite judiciaire de la condamnation de 2019 (appel éventuel) n'est pas détaillée dans la source consultée."
+  ],
+  "sources": [
+    {
+      "titre": "Perquisition à LFI : Jean-Luc Mélenchon condamné à trois mois de prison avec sursis",
+      "organisme": "Public Sénat",
+      "date_publication": "Décembre 2019",
+      "url": "https://www.publicsenat.fr/actualites/politique/perquisition-a-lfi-jean-luc-melenchon-condamne-a-trois-mois-de-prison-avec-sursis",
+      "passage": "Condamnation par le tribunal correctionnel de Bobigny à trois mois d'emprisonnement avec sursis et 8 000 € d'amende pour rébellion et provocation, après la perquisition du 16 octobre 2018 ; « La République, c'est moi » ; appel à « enfoncer la porte ».",
+      "pertinence": "Décision de justice rapportée par un média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Mélenchon prend le risque politique d'assumer ses colères (Lucile Malandain)",
+      "organisme": "Public Sénat",
+      "date_publication": "6 décembre 2017",
+      "url": "https://www.publicsenat.fr/actualites/politique/melenchon-prend-le-risque-politique-d-assumer-ses-coleres-80549",
+      "passage": "Billet du 4 décembre 2017 contre l'équipe de France 2 (« glapit en pleine hystérie », « équipe d'arsouilles ») ; proposition d'un « tribunal » professionnel remplacée le lendemain par « conseil de déontologie » ; stratégie assumée du « coup pour coup » ; étude Fondation Jean-Jaurès / Ifop : courageux pour ses soutiens, agressif ou arrogant pour ses critiques.",
+      "pertinence": "Article factuel avec citations et études d'opinion.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Déplacement en Israël : Yaël Braun-Pivet accuse Jean-Luc Mélenchon de lui mettre « une cible dans le dos »",
+      "organisme": "LCP Assemblée nationale",
+      "date_publication": "Octobre 2023",
+      "url": "https://lcp.fr/actualites/deplacement-en-israel-yael-braun-pivet-accuse-jean-luc-melenchon-de-lui-mettre-une",
+      "passage": "Message de Jean-Luc Mélenchon : la présidente de l'Assemblée « campe à Tel Aviv pour encourager le massacre » ; réponse : « C'est une nouvelle cible qu'on me met dans le dos » ; Mélenchon dénonce une « absurde police des mots ».",
+      "pertinence": "Média parlementaire, citations des deux protagonistes.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "[Paroles de candidats] Mélenchon, celui qui était révolutionnaire mais se voulait rassembleur (Bruno Cautrès)",
+      "organisme": "Institut Montaigne",
+      "date_publication": "17 juin 2026",
+      "url": "https://institutmontaigne.org/expressions/paroles-de-candidats-melenchon-celui-qui-etait-revolutionnaire-mais-se-voulait-rassembleur",
+      "passage": "Analyse logométrique du discours de Saint-Denis du 7 juin 2026 : texte préparé lu en 52 minutes, lexique dense, vocabulaire du conflit (« guerre », « crime », « menace », « rupture ») ; reprise du portrait de « tribun hors pair » (Cécile Alduy, 2017).",
+      "pertinence": "Analyse d'un politiste (think tank d'orientation libérale).",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2027-04-29",
+  "raison_actualisation": "Sujet d'actualité politique : vérifier les nouveaux faits, déclarations et décisions."
+}

@@ -1,0 +1,112 @@
+{
+  "id": "chomeurs-travailler",
+  "type": "idee_recue",
+  "affirmation": "Les chômeurs ne veulent pas travailler.",
+  "volet": "social",
+  "sous_theme": "Chômage",
+  "rubriques": [],
+  "mots_cles": [
+    "chômeurs",
+    "chômage",
+    "france travail",
+    "contrôles",
+    "paresse",
+    "assistés",
+    "recherche d emploi"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La généralisation n'est pas soutenue par les contrôles de France Travail : en 2023, 83 % des contrôles de la recherche d'emploi clôturés ont conclu à une recherche active ou à une remobilisation, et environ 91 % pour les contrôles tirés au hasard. Une minorité (17 %) a été sanctionnée, ce qui montre que des abus existent mais restent minoritaires.",
+  "contexte": "Le soupçon de paresse des chômeurs revient à chaque réforme de l'assurance chômage. Les contrôles de la recherche d'emploi, renforcés depuis plusieurs années, permettent de le confronter aux faits.",
+  "explication": "Un contrôle vérifie les démarches de recherche d'emploi d'un inscrit. Les contrôles ciblés visent des profils jugés à risque ; les contrôles aléatoires donnent une image plus représentative.",
+  "faits": [
+    {
+      "fait": "83 % des contrôles de la recherche d'emploi clôturés en 2023 ont confirmé une recherche active ou abouti à une remobilisation.",
+      "chiffre": "83 %",
+      "periode": "Année 2023",
+      "perimetre": "523 400 contrôles réalisés par France Travail",
+      "explication": "Ces contrôles sont en partie ciblés (60 %) sur des profils jugés plus à risque, ce qui tend plutôt à surestimer les manquements.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Pour les contrôles tirés au hasard parmi l'ensemble des demandeurs d'emploi, la part en recherche active ou remobilisés atteint près de 91 %.",
+      "chiffre": "≈ 91 %",
+      "periode": "Année 2023",
+      "perimetre": "Contrôles aléatoires (26 % des contrôles)",
+      "explication": "C'est l'indicateur le plus représentatif de l'ensemble des inscrits, car il n'est pas ciblé.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "17 % des demandeurs d'emploi contrôlés ont été jugés en recherche insuffisante et sanctionnés.",
+      "chiffre": "17 %",
+      "periode": "Année 2023",
+      "perimetre": "Ensemble des contrôles clôturés",
+      "explication": "Des manquements existent, mais ils concernent une minorité des personnes contrôlées.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le nombre de contrôles a fortement augmenté depuis : 610 800 en 2024, 960 000 en 2025, avec un objectif de 1,5 million en 2027.",
+      "chiffre": "960 000 contrôles en 2025",
+      "periode": "2024-2027",
+      "perimetre": "France Travail",
+      "explication": "Les résultats détaillés 2024-2025 n'ont pas été consultés ici : la fiche s'appuie sur le bilan 2023, le plus récent dont nous avons lu la source officielle.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "France Travail contrôle des centaines de milliers de chômeurs chaque année. En 2023, plus de 8 contrôles sur 10 montraient des gens qui cherchaient bien un emploi, et même 9 sur 10 quand le contrôle était tiré au hasard. Il y a des abus, mais c'est une minorité.",
+    "moyen": "France Travail contrôle des centaines de milliers de demandeurs d'emploi chaque année. En 2023, sur 523 400 contrôles, 83 % ont montré une recherche active ou ont remobilisé la personne, et même environ 91 % pour les contrôles tirés au sort. Il y a des abus, 17 % de sanctions, mais c'est une minorité. Le chômage s'explique surtout par d'autres raisons : qualifications, transport, garde d'enfants, santé, nombre d'offres.",
+    "detaille": "« Vouloir travailler » ne se mesure pas directement, mais les contrôles de la recherche d'emploi sont le meilleur indicateur disponible. En 2023, France Travail a réalisé 523 400 contrôles : 83 % ont conclu à une recherche active ou à une remobilisation, 17 % à une sanction. Les contrôles ciblés (notamment sur les métiers en tension) donnent des taux de sanction plus élevés que les contrôles aléatoires, ce qui est logique puisqu'ils visent des situations jugées à risque. Le taux de 91 % sur les contrôles aléatoires est donc le plus représentatif. Une partie du débat porte aussi sur les offres non pourvues : leur existence ne prouve pas à elle seule un refus de travailler, car les postes, les qualifications et la localisation ne correspondent pas toujours.",
+    "empathie": "Je comprends qu'on connaisse tous quelqu'un qui profite. Mais quand on contrôle au hasard, neuf chômeurs sur dix cherchent vraiment. Ceux qui galèrent ont souvent d'autres problèmes : pas de voiture, pas de garde pour les enfants, une santé fragile."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il y a plein d'offres non pourvues.",
+      "reponse": "Des métiers ont du mal à recruter, c'est vrai ; mais les offres ne correspondent pas toujours aux compétences, aux lieux ou aux horaires des chômeurs. Ce point n'est pas chiffré dans cette fiche."
+    },
+    {
+      "objection": "17 % de sanctions, c'est beaucoup.",
+      "reponse": "C'est sur des contrôles en partie ciblés vers les situations à risque ; sur les contrôles aléatoires, la proportion de recherche active est d'environ 91 %."
+    }
+  ],
+  "questions": [
+    "Tu penses à une personne en particulier ou à l'ensemble des inscrits à France Travail ?",
+    "Si 9 contrôles aléatoires sur 10 montrent une recherche active, qu'est-ce qui expliquerait le chômage restant ?",
+    "Qu'est-ce qui empêche concrètement certaines personnes de prendre un emploi : transport, garde d'enfants, santé, qualifications ?"
+  ],
+  "limites": [
+    "Un contrôle mesure les démarches de recherche, pas la motivation profonde.",
+    "Les résultats détaillés des contrôles 2024 et 2025 n'ont pas pu être consultés dans une source primaire.",
+    "Les offres d'emploi non pourvues ne sont pas chiffrées dans cette fiche."
+  ],
+  "sources": [
+    {
+      "titre": "Bilan du contrôle de la recherche d'emploi en 2023 (communiqué de presse)",
+      "organisme": "France Travail",
+      "date_publication": "19 avril 2024",
+      "url": "https://www.francetravail.org/files/live/sites/peorg/files/documents/Communiqu%c3%a9%20de%20presse/2024/20240419%20-%20FRANCE%20TRAVAIL%20-%20CP%20-%20Bilan%20Le%20contr%c3%83%c2%b4le%20de%20la%20recherche%20d'emploi%20en%202023.pdf",
+      "passage": "523 400 contrôles en 2023 ; 83 % des contrôles clôturés en recherche active ou remobilisés ; près de 91 % pour les contrôles aléatoires ; 17 % de sanctions.",
+      "pertinence": "Données officielles de l'opérateur public chargé des contrôles.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 18439 (17e législature)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "Publiée au JO le 29 septembre 2026",
+      "url": "https://questions.assemblee-nationale.fr/q17/17-18439QE.htm",
+      "passage": "610 800 contrôles en 2024, 960 000 en 2025, objectif de 1,5 million en 2027.",
+      "pertinence": "Volume récent des contrôles (sans les résultats détaillés).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2026-04-30",
+  "raison_actualisation": "Les bilans des contrôles 2024 et 2025 existent mais n’ont pas encore été consultés dans une source primaire."
+}

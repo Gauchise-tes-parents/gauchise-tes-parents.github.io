@@ -1,0 +1,97 @@
+{
+  "id": "sci-reactance",
+  "type": "science",
+  "affirmation": "Si j'insiste assez, il finira par céder.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "réactance",
+    "insister",
+    "braquer",
+    "liberté",
+    "autonomie",
+    "contrainte",
+    "persuasion",
+    "colère"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "robustesse": "robuste",
+  "resume": "La réactance psychologique désigne la résistance qui apparaît quand une personne sent sa liberté de penser ou d'agir menacée. Une méta-analyse de 20 études (Rains, 2013) la décrit comme un mélange de colère et de contre-arguments. Insister, ordonner ou culpabiliser tend donc à renforcer la résistance plutôt qu'à la vaincre.",
+  "contexte": "La théorie de la réactance est née en 1966 (Jack Brehm). Elle a été beaucoup testée dans la communication de santé publique : messages autoritaires, injonctions, langage contrôlant.",
+  "explication": "Quand on se sent poussé, on défend sa liberté avant de juger l'argument. La colère et la recherche de contre-arguments prennent alors le dessus sur l'examen des faits.",
+  "faits": [
+    {
+      "fait": "Une méta-analyse de 20 études (environ 4 942 participants) conclut que la réactance s'explique le mieux comme un état mêlant colère et pensées négatives (contre-arguments).",
+      "periode": "2013",
+      "perimetre": "Études expérimentales en communication",
+      "explication": "Ce n'est pas seulement une émotion : la personne produit activement des contre-arguments.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "20 études"
+    }
+  ],
+  "argumentaires": {
+    "court": "Plus tu insistes, plus il se défend. Laisse-lui la liberté de ne pas être d'accord tout de suite : c'est souvent comme ça qu'il réfléchit.",
+    "moyen": "La recherche sur la réactance montre qu'un message perçu comme une contrainte déclenche colère et contre-arguments. Dans un débat familial, les formules du type « tu dois », « c'est évident », « tu ne peux pas penser ça » sont celles qui braquent le plus. Il vaut mieux proposer, rappeler explicitement que la personne reste libre de son avis, et donner un fait qu'elle pourra examiner seule.",
+    "detaille": "La réactance est l'un des phénomènes les mieux documentés de la psychologie de la persuasion. Formulée par Jack Brehm en 1966, elle prédit qu'une personne dont la liberté semble menacée cherche à la restaurer, parfois en adoptant la position inverse de celle qu'on lui impose. La méta-analyse de Stephen Rains (2013), portant sur 20 études, a comparé plusieurs modèles : le mieux ajusté décrit la réactance comme un état combinant colère et contre-arguments.\n\nConséquence pratique : un langage contrôlant (« tu dois », « il faut », « arrête ») ou humiliant augmente la résistance. À l'inverse, les messages qui laissent le choix, qui reconnaissent l'autonomie de la personne ou qui proposent plutôt qu'ils n'imposent réduisent ce risque.\n\nLimites : les effets varient selon les personnes et les sujets, et les études portent surtout sur des messages écrits de santé publique plutôt que sur des conversations politiques.",
+    "empathie": "Tu n'es pas obligé d'être d'accord avec moi ce soir. Je te donne juste un chiffre, tu en feras ce que tu veux."
+  },
+  "application": [
+    {
+      "situation": "Interlocuteur susceptible ou qui se braque",
+      "tactique": "Éviter les injonctions ; rappeler qu'il reste libre de son avis ; une seule information à la fois."
+    },
+    {
+      "situation": "Après « elle s'est braquée »",
+      "tactique": "Arrêter d'argumenter, reformuler sa position, proposer de reprendre plus tard."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "Mais si je ne dis rien, il croira que j'ai abandonné.",
+      "reponse": "Il ne s'agit pas de se taire : on peut affirmer clairement son désaccord sans exiger qu'il capitule."
+    }
+  ],
+  "questions": [
+    "Quand on t'a fait changer d'avis, c'était plutôt parce qu'on t'a forcé ou parce qu'on t'a laissé réfléchir ?"
+  ],
+  "limites": [
+    "Seul le résumé de la méta-analyse a été lu ; les tailles d'effet détaillées ne sont pas rapportées.",
+    "La plupart des études portent sur des messages de santé, pas sur des débats politiques en face à face.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Rains, S. A. (2013). The nature of psychological reactance revisited: A meta-analytic review. Human Communication Research, 39(1), 47-73.",
+      "organisme": "Human Communication Research (Oxford University Press)",
+      "date_publication": "2013",
+      "url": "https://academic.oup.com/hcr/article-abstract/39/1/47/4093682",
+      "passage": "Méta-analyse de 20 études (environ 4 942 participants) ; le modèle le mieux ajusté décrit la réactance comme un état combinant colère et pensées négatives (contre-arguments).",
+      "pertinence": "Méta-analyse (résumé consulté).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Rains, S. A.",
+    "annee": 2013,
+    "titre": "Rains, S. A. (2013). The nature of psychological reactance revisited: A meta-analytic review. Human Communication Research, 39(1), 47-73.",
+    "publication": "Human Communication Research (Oxford University Press)",
+    "url": "https://academic.oup.com/hcr/article-abstract/39/1/47/4093682"
+  },
+  "conditions": "Messages persuasifs perçus comme contraignants, surtout en santé publique ; mesures à court terme.",
+  "limites_methodo": "Méta-analyse de 20 études ; peu d'études en face à face sur la politique.",
+  "confiance": "elevee",
+  "notions": [
+    "reactance",
+    "resistance"
+  ]
+}

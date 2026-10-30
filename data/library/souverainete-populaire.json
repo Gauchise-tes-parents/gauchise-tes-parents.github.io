@@ -1,0 +1,101 @@
+{
+  "id": "souverainete-populaire",
+  "type": "histoire",
+  "affirmation": "La souveraineté, c'est un truc de nationalistes.",
+  "volet": "politique",
+  "sous_theme": "Souveraineté",
+  "rubriques": ["patriotisme-de-gauche"],
+  "mots_cles": ["souveraineté", "peuple", "nation", "1789", "constitution", "référendum", "démocratie", "maastricht"],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "En France, la souveraineté est d'abord une idée démocratique : depuis 1789, le pouvoir procède de la nation, et la Constitution de 1958 précise que la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par le référendum. Défendre la capacité d'un peuple à décider de son avenir n'est pas en soi du nationalisme.",
+  "contexte": "Le mot « souveraineté » est revendiqué par des courants très différents : souverainistes de droite, gaullistes, mais aussi gauche républicaine (Chevènement, opposant au traité de Maastricht) et une partie de la gauche radicale. Le référendum sur Maastricht en 1992 n'a été gagné que de justesse.",
+  "explication": "La souveraineté populaire, c'est le principe selon lequel le peuple décide. La souveraineté nationale, c'est la capacité d'un pays à prendre ses décisions démocratiquement. La question de gauche n'est pas « faut-il fermer les frontières ? », mais « qui décide de notre avenir : les citoyens ou des règles et des marchés hors de leur contrôle ? ».",
+  "faits": [
+    {
+      "fait": "La Déclaration de 1789 pose que le principe de toute souveraineté réside dans la nation, et que nul corps ni individu ne peut exercer d'autorité qui n'en émane expressément.",
+      "periode": "26 août 1789",
+      "perimetre": "Article 3 de la Déclaration",
+      "explication": "C'est la rupture avec la monarchie : le pouvoir vient d'en bas.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'article 3 de la Constitution de 1958, la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par la voie du référendum.",
+      "periode": "En vigueur",
+      "perimetre": "Constitution de 1958",
+      "explication": "Le texte fondamental associe explicitement souveraineté et peuple.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le référendum sur le traité de Maastricht, le 20 septembre 1992, a été adopté avec 51,04 % de oui.",
+      "chiffre": "51,04 %",
+      "periode": "20 septembre 1992",
+      "perimetre": "France, suffrages exprimés",
+      "explication": "La question de la souveraineté démocratique face à la construction européenne a profondément divisé le pays, à gauche comme à droite.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La souveraineté, c'est l'article 3 de notre Constitution : elle appartient au peuple. Vouloir que les citoyens décident de leur avenir, c'est de la démocratie, pas du nationalisme.",
+    "moyen": "Le mot a été accaparé, mais son origine est révolutionnaire. En 1789, la Déclaration des droits de l'homme met fin à la souveraineté du roi : le pouvoir vient de la nation, c'est-à-dire des citoyens. Notre Constitution le dit encore : la souveraineté nationale appartient au peuple, qui l'exerce par ses élus et par le référendum. Défendre la souveraineté, à gauche, c'est défendre la capacité démocratique d'un peuple à choisir ses services publics, sa politique économique ou son énergie. Ce n'est pas rejeter les autres peuples : c'est refuser que des décisions majeures échappent aux citoyens. D'ailleurs, le référendum de Maastricht, gagné à 51 %, a montré que cette question traverse toute la société.",
+    "detaille": "Le mot « souveraineté » est souvent associé à l'extrême droite, mais il appartient d'abord à l'histoire démocratique française. En 1789, l'article 3 de la Déclaration des droits de l'homme affirme que la souveraineté réside dans la nation : aucune autorité n'est légitime si elle n'en émane pas. C'est une révolution contre la monarchie absolue.\n\nLa Constitution de 1958 reprend ce principe : la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par référendum. La souveraineté est donc la forme institutionnelle de la démocratie.\n\nÀ gauche, ce principe nourrit plusieurs débats légitimes : le contrôle démocratique des traités européens, des règles budgétaires ou du commerce international, la maîtrise publique de l'énergie ou de l'industrie. En 1992, le traité de Maastricht n'a été approuvé qu'avec 51,04 % des voix ; des responsables de gauche comme Jean-Pierre Chevènement s'y sont opposés au nom de la souveraineté républicaine, d'autres l'ont soutenu au nom de l'Europe sociale.\n\nOn peut donc défendre la souveraineté populaire sans nationalisme : il s'agit de savoir qui décide, pas de désigner un ennemi.",
+    "empathie": "Je comprends que tu veuilles que la France garde la main sur ses choix. Moi aussi. La question est de savoir au service de qui : je préfère une souveraineté qui protège les gens, pas une qui désigne des boucs émissaires."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La gauche est pro-européenne, elle a abandonné la souveraineté.",
+      "reponse": "La gauche est divisée : une partie a soutenu Maastricht, une autre s'y est opposée. Ce débat existe aussi à droite. Il porte sur la façon de garder un contrôle démocratique, pas sur l'amour du pays."
+    },
+    {
+      "objection": "La souveraineté, c'est contrôler ses frontières.",
+      "reponse": "C'est une de ses dimensions, mais la souveraineté populaire concerne toutes les décisions collectives : budget, énergie, industrie, services publics."
+    }
+  ],
+  "questions": [
+    "Selon toi, qui devrait décider des grandes orientations économiques du pays ?",
+    "Est-ce que coopérer avec d'autres pays empêche forcément de rester souverain ?"
+  ],
+  "limites": [
+    "« Souveraineté nationale » et « souveraineté populaire » ont des sens juridiques distincts dans la doctrine constitutionnelle ; la fiche les présente de façon simplifiée.",
+    "L'articulation entre droit européen et souveraineté nationale est un débat juridique complexe, non traité en détail ici."
+  ],
+  "sources": [
+    {
+      "titre": "Déclaration du 26 août 1789 des droits de l'homme et du citoyen",
+      "organisme": "Légifrance",
+      "date_publication": "26 août 1789",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000697056",
+      "passage": "Article 3 : le principe de toute souveraineté réside essentiellement dans la nation ; nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément.",
+      "pertinence": "Texte fondateur à valeur constitutionnelle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958",
+      "organisme": "Légifrance",
+      "date_publication": "Version consolidée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/2017-07-23",
+      "passage": "Article 3 : la souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum.",
+      "pertinence": "Texte constitutionnel en vigueur.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Une ratification difficile (Pierre Gerbet)",
+      "organisme": "CVCE (Centre virtuel de la connaissance sur l'Europe, Université du Luxembourg)",
+      "date_publication": "Document relatif au 20 septembre 1992",
+      "url": "https://www.cvce.eu/content/publication/2003/10/16/a6cda0c1-d0cb-489e-8bed-e31a522724e5/publishable_fr.pdf",
+      "passage": "Le oui l'emporte de justesse avec 51,04 % ; participation d'environ 69 % des inscrits.",
+      "pertinence": "Résultat du référendum de Maastricht, par un historien de la construction européenne.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2029-10-29",
+  "raison_actualisation": "Fiche historique : relecture périodique."
+}

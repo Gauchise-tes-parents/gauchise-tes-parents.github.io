@@ -1,0 +1,132 @@
+{
+  "id": "sci-backfire",
+  "type": "science",
+  "affirmation": "Corriger une fausse information, ça ne fait que la renforcer.",
+  "volet": "autre",
+  "sous_theme": null,
+  "rubriques": [
+    "science-du-dialogue"
+  ],
+  "mots_cles": [
+    "backfire",
+    "effet boomerang",
+    "correction",
+    "fausse information",
+    "fake news",
+    "désinformation",
+    "fact-checking"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "robustesse": "modere",
+  "resume": "L'« effet boomerang » (backfire) de la correction est beaucoup plus rare qu'on ne l'a cru. Sur 52 sujets testés auprès de plus de 10 100 personnes, Wood et Porter n'en trouvent aucun. Coppock (2023) conclut aussi que la plupart des gens bougent un peu dans le sens de l'information et que le retour de flamme est rare. Mais une correction n'efface pas totalement la fausse information.",
+  "contexte": "L'idée de l'effet boomerang s'est répandue après quelques études des années 2000-2010. Des travaux plus larges l'ont depuis largement nuancée.",
+  "explication": "Corriger un fait faux est utile : en moyenne, les gens ajustent leurs croyances factuelles, même quand cela ne change pas leurs opinions politiques.",
+  "faits": [
+    {
+      "fait": "Cinq expériences, plus de 10 100 participants et 52 sujets : aucune correction n'a déclenché d'effet boomerang, même sur les sujets polarisés.",
+      "periode": "2016-2019",
+      "perimetre": "États-Unis",
+      "explication": "Les citoyens acceptent en général l'information factuelle qui contredit leurs convictions.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "52 sujets"
+    },
+    {
+      "fait": "D'après une série d'expériences randomisées, la plupart des gens évoluent « au moins un peu » dans le sens de l'information reçue, les deux camps à peu près en parallèle, et le retour de flamme est « rare, voire inexistant ».",
+      "periode": "2023",
+      "perimetre": "Expériences en science politique",
+      "explication": "L'information change les esprits, modestement.",
+      "source": 1,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Une correction n'efface pas l'information initiale, qui peut continuer à influencer le raisonnement (« effet d'influence persistante »).",
+      "periode": "2022",
+      "perimetre": "Revue de littérature",
+      "explication": "Il faut expliquer pourquoi c'est faux et proposer une explication alternative.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Corriger un chiffre faux, ça marche le plus souvent : les études ne trouvent presque jamais d'effet inverse. Mais une correction ne suffit pas toujours à faire changer d'avis.",
+    "moyen": "On entend souvent qu'il ne sert à rien de corriger, que ça renforce la croyance. Les grandes études récentes disent le contraire : sur 52 sujets testés, Wood et Porter ne trouvent aucun effet boomerang, et Coppock conclut que les gens bougent un peu dans le sens de l'information. Deux nuances : les gens corrigent plus volontiers un fait que leur opinion générale, et la fausse information laisse des traces. D'où l'intérêt d'expliquer pourquoi l'information est fausse et de donner une explication de remplacement.",
+    "detaille": "L'effet boomerang désigne l'idée qu'une correction pourrait renforcer la croyance qu'elle vise. Il a été rapporté dans quelques études, ce qui a encouragé un certain fatalisme. Thomas Wood et Ethan Porter ont testé 52 sujets potentiellement concernés auprès de plus de 10 100 personnes : aucune correction n'a produit cet effet, y compris sur des sujets très polarisés. Alexander Coppock, à partir d'une série d'expériences randomisées, arrive à une conclusion voisine : les gens évoluent en général un peu dans la direction de l'information, les partisans des deux camps de façon parallèle.\n\nCela ne veut pas dire qu'une correction règle tout. La revue d'Ullrich Ecker et de ses collègues (2022) décrit un « effet d'influence persistante » : l'information fausse peut continuer à peser sur le raisonnement. Et accepter un fait n'implique pas de changer d'opinion sur la politique qui va avec.\n\nPour l'application : corriger reste utile, à condition d'expliquer, de proposer une explication de remplacement et de ne pas humilier.",
+    "empathie": "Je ne veux pas te faire la leçon, mais je crois que ce chiffre est faux. Voilà d'où vient le bon, tu me diras ce que tu en penses."
+  },
+  "application": [
+    {
+      "situation": "Corriger une information",
+      "tactique": "Donner le bon chiffre, sa source et pourquoi l'autre est faux ; proposer une explication de remplacement."
+    },
+    {
+      "situation": "Après « elle a demandé des preuves »",
+      "tactique": "Montrer la source primaire et la méthode."
+    }
+  ],
+  "contre_arguments": [
+    {
+      "objection": "J'ai déjà vu quelqu'un s'enfoncer quand on le corrigeait.",
+      "reponse": "Ça arrive dans un échange conflictuel ; mais les études montrent que ce n'est pas la règle. La manière compte."
+    }
+  ],
+  "questions": [
+    "Si ce chiffre était faux, comment voudrais-tu qu'on te le dise ?"
+  ],
+  "limites": [
+    "Les études sont surtout américaines et portent sur des corrections écrites.",
+    "Le livre de Coppock n'est connu ici que par sa présentation éditoriale.",
+    "Les éléments de contexte historique (origine et date des théories) relèvent de connaissances générales et ne sont pas sourcés individuellement."
+  ],
+  "sources": [
+    {
+      "titre": "Wood, T., & Porter, E. The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence. Political Behavior (2019).",
+      "organisme": "SSRN (prépublication)",
+      "date_publication": "2016-2017",
+      "url": "https://papers.ssrn.com/abstract=2819073",
+      "passage": "Cinq expériences, plus de 10 100 participants, 52 sujets : aucune correction n'a provoqué d'effet boomerang, y compris sur les sujets polarisés.",
+      "pertinence": "Prépublication de l'article (résumé consulté).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Coppock, A. Persuasion in Parallel: How Information Changes Minds about Politics.",
+      "organisme": "University of Chicago Press",
+      "date_publication": "2023",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo181475008.html",
+      "passage": "Fondé sur une série d'expériences randomisées : la plupart des gens bougent « au moins un peu » dans le sens de l'information, les partisans des deux camps évoluent à peu près en parallèle, l'effet boomerang est « rare, voire inexistant ».",
+      "pertinence": "Présentation éditoriale du livre (contenu détaillé non lu).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Why people believe misinformation and resist correction (résumé de Ecker et al., 2022, par Justin Hendrix)",
+      "organisme": "Skeptical Science (reprise de Tech Policy Press)",
+      "date_publication": "26 janvier 2022",
+      "url": "https://skepticalscience.com/news.php?n=5295",
+      "passage": "La correction n'efface pas l'information initiale, qui peut être réactivée ; facteurs : raccourcis mentaux, émotions, menaces identitaires, crédibilité de la source, défiance envers les experts ; corrections publiques parfois vécues comme « embarrassantes ou conflictuelles ».",
+      "pertinence": "Résumé détaillé de la revue.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-29",
+  "a_actualiser_le": "2028-10-29",
+  "raison_actualisation": "Bibliothèque scientifique : vérifier les nouvelles méta-analyses et réplications.",
+  "reference": {
+    "auteurs": "Wood, T. ; Porter, E.",
+    "annee": 2019,
+    "titre": "Wood, T., & Porter, E. The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence. Political Behavior (2019).",
+    "publication": "SSRN (prépublication)",
+    "url": "https://papers.ssrn.com/abstract=2819073"
+  },
+  "conditions": "Corrections factuelles écrites, échantillons en ligne, États-Unis.",
+  "limites_methodo": "Effets à court terme ; accepter un fait ne change pas forcément l'opinion.",
+  "confiance": "elevee",
+  "notions": [
+    "correction",
+    "resistance"
+  ]
+}
