@@ -15,7 +15,7 @@ const out = args.find((a) => !a.startsWith('--')) || join(ROOT, 'dist', fragment
 const pub = (p) => readFileSync(join(ROOT, 'public', p), 'utf8');
 
 // Modules dans l'ordre des dépendances ; imports retirés, exports transformés en déclarations.
-const ORDER = ['js/logo-data.js', 'js/taxonomy.js', 'js/kbsearch.js', 'js/kbstore.js', 'js/store.js', 'js/profile.js', 'js/composer.js', 'js/conversation.js', 'js/copy.js', 'js/art.js', 'js/api.js', 'js/app.js'];
+const ORDER = ['js/logo-data.js', 'js/taxonomy.js', 'js/kbsearch.js', 'js/kbstore.js', 'js/store.js', 'js/profile.js', 'js/composer.js', 'js/conversation.js', 'js/suggestions.js', 'js/copy.js', 'js/art.js', 'js/api.js', 'js/app.js'];
 const bundle = ORDER.map((f) => `// ---- ${f}\n${pub(f)
   .replace(/^import[\s\S]*?from\s+['"][^'"]+['"];\s*$/gm, '')
   .replace(/^export\s+(?=(const|function|class|async)\b)/gm, '')}`).join('\n');
