@@ -642,3 +642,12 @@ button.mode-card { cursor: pointer; }
 .an-phrase-label { margin: 0; font-size: var(--step--1); font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
 .an-proc { border-top: 1px dashed var(--ink-2); padding-top: 8px; margin-top: 8px; }
 .conv-ressenti { font-size: var(--step--1); background: var(--sand); border-radius: 12px; padding: 8px 12px; }
+
+/* ---- v9 : la réponse avant la méthode ---- */
+.prio-label { margin: 18px 0 2px; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; color: var(--teal); border-top: 2px solid var(--ink); padding-top: 10px; }
+.fiche-panel > .prio-label:first-child { border-top: 0; padding-top: 0; margin-top: 4px; }
+.prio-label.prio-communication { color: var(--ink-2); }
+.preuve-montre { font-size: var(--step--1); margin: 4px 0; }
+.riposte { background: var(--lemon); border: var(--line); border-radius: var(--r-card); padding: 12px 14px; box-shadow: var(--stamp-sm); }
+.riposte .big-q { margin: 0 0 8px; }
+.partielle-note { margin: 8px 0; }

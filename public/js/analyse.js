@@ -176,7 +176,7 @@ export function analyserPhrase(texte, { bibliotheque = [], mode = 'gagner', cont
     const parSeg = unites.map((u) => new Set(anConcepts(anNorm(u)).map((c) => c.id)));
     for (const a of anArgumentsSegment(norm, concepts, origineSeule ? ['immigration'] : [], phraseIds)) {
       if (args.some((x) => x.id === a.id)) continue;
-      const etale = a.tous.length >= 2 && !parSeg.some((cs) => a.tous.every((c) => cs.has(c) || contexte.includes(c)));
+      const etale = a.tous.length >= 2 && !parSeg.some((cs) => a.tous.every((c) => cs.has(c)));
       if (!args.length || juxtapose || etale) {
         // l'argument qui relie les propositions remplace ceux qui n'en couvraient qu'une partie
         for (let i = args.length - 1; i >= 0; i--) if (args[i]._arg && args[i]._arg.tous.length < a.tous.length && args[i]._arg.tous.every((c) => a.tous.includes(c))) args.splice(i, 1);
@@ -213,6 +213,7 @@ export function analyserPhrase(texte, { bibliotheque = [], mode = 'gagner', cont
   const emotions = Object.entries(AN_EMO_RE).filter(([, re]) => re.test(norm)).map(([id]) => ({ id, label: CA_EMOTIONS[id].label, reponse: CA_EMOTIONS[id].reponse }));
   const causalites = anCausalites(norm, concepts);
   const procedes = anProcedes(norm, concepts, args);
+  const phraseGenerique = !CA_PHRASES[principal?.id];
   const banque = CA_PHRASES[principal?.id] || CA_PHRASES.generique;
   const choix = banque[mode] || banque.gagner;
   const phrase = choix[anHash(norm) % choix.length];
@@ -226,7 +227,7 @@ export function analyserPhrase(texte, { bibliotheque = [], mode = 'gagner', cont
     arguments: args, principal: args[0] || null, secondaires: args.slice(1),
     causalites, implicites: [...new Set(args.map((a) => a.implicite).filter(Boolean))], aVerifier,
     emotions, procedes: procedes.map(({ id, label, explication, verifier, question: q }) => ({ id, label, explication, verifier, question: q })),
-    ecartees, phrase, question,
+    ecartees, phrase, phraseGenerique, question,
     lacune: !args.length || Boolean(args[0]?.lacune),
   };
 }

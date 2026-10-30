@@ -1,0 +1,140 @@
+{
+  "id": "riches-creent-emplois",
+  "type": "idee_recue",
+  "affirmation": "Ce sont les riches qui créent les emplois.",
+  "volet": "economie",
+  "sous_theme": "Répartition des richesses",
+  "rubriques": [],
+  "mots_cles": [
+    "riches créent les emplois",
+    "créent les emplois",
+    "créateurs d emplois",
+    "ruissellement",
+    "premiers de cordée",
+    "isf",
+    "dividendes",
+    "investissement",
+    "entreprises",
+    "pme",
+    "patrons",
+    "baisse d impôts"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Les emplois sont créés par des entreprises qui ont des clients, et près de la moitié des salariés travaillent dans des microentreprises et des PME, pas chez des milliardaires. Quand on a baissé les impôts des plus riches en 2018 (ISF, flat tax), les dividendes versés aux ménages sont passés de 14 à 23 milliards par an ; l'évaluation officielle n'a pas constaté de réinvestissement massif dans de nouvelles entreprises.",
+  "contexte": "L'argument du « ruissellement » ou des « premiers de cordée » a justifié la transformation de l'ISF en IFI et la création du prélèvement forfaitaire unique (flat tax) en 2018.",
+  "explication": "Créer un emploi suppose une demande : une entreprise embauche quand elle a des commandes. Le capital compte, mais l'enrichissement des plus aisés ne se transforme pas automatiquement en investissement productif. L'évaluation des réformes de 2018 permet de vérifier ce qui s'est passé.",
+  "faits": [
+    {
+      "fait": "En 2021, les microentreprises emploient 17 % des salariés (en équivalent temps plein) et les PME 29 % ; les grandes entreprises 28 %.",
+      "periode": "2021",
+      "perimetre": "Secteurs marchands non agricoles et non financiers",
+      "explication": "L'emploi est réparti dans des millions de petites entreprises, pas concentré chez quelques grandes fortunes.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "17 % + 29 %"
+    },
+    {
+      "fait": "Après les réformes de 2018 (ISF remplacé par l'IFI, flat tax), les dividendes versés aux ménages passent d'environ 14 Md€ par an (2013-2017) à 23 Md€ (2018-2020).",
+      "periode": "2013-2020",
+      "perimetre": "France",
+      "explication": "L'argent libéré a d'abord été distribué en dividendes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "14 → 23 Md€"
+    },
+    {
+      "fait": "Selon l'évaluation officielle, les ménages ayant bénéficié de ces liquidités ne les ont pas réinvesties sous forme de participation significative dans d'autres sociétés ; elle note une légère hausse de l'investissement dans les sociétés qu'ils détenaient déjà, et un effet positif sur la décision d'entreprendre.",
+      "periode": "Rapport d'octobre 2023",
+      "perimetre": "France",
+      "explication": "Les effets existent mais restent modestes : on est loin du « ruissellement » promis.",
+      "source": 1,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les emplois, ce sont les entreprises qui les créent quand elles ont des clients, et près de la moitié des salariés travaillent dans des TPE et PME. Quand on a baissé les impôts des plus riches en 2018, les dividendes sont passés de 14 à 23 milliards par an, sans réinvestissement massif selon l'évaluation officielle.",
+    "moyen": "Une entreprise embauche quand elle a des commandes, pas parce que ses actionnaires sont plus riches. Et l'emploi est très éclaté : selon l'Insee, les microentreprises et les PME emploient près de la moitié des salariés.\n\nOn a d'ailleurs fait l'expérience : en 2018, l'ISF a été remplacé par l'IFI et la flat tax a été créée. Résultat mesuré par le comité d'évaluation de France Stratégie : les dividendes versés aux ménages sont passés de 14 à 23 milliards par an, sans réinvestissement massif dans de nouvelles entreprises. Il y a eu un léger effet positif sur la création d'entreprises, mais rien qui ressemble au « ruissellement » promis.",
+    "detaille": "L'idée part d'une intuition : il faut du capital pour créer une entreprise. C'est vrai. Mais il faut surtout des clients : une entreprise embauche quand elle a des commandes.\n\nEt l'emploi est très réparti. En 2021, selon l'Insee, les microentreprises emploient 17 % des salariés en équivalent temps plein, les PME 29 %, les ETI 25 % et les grandes entreprises 28 %.\n\nSurtout, l'argument a été testé. En 2018, l'ISF a été remplacé par un impôt sur la seule fortune immobilière et un prélèvement forfaitaire unique a allégé la taxation des revenus du capital. Le comité d'évaluation placé auprès de France Stratégie a constaté une forte hausse des dividendes versés aux ménages, d'environ 14 milliards par an à 23 milliards. Il n'a pas trouvé de réinvestissement sous forme de participations significatives dans d'autres sociétés, seulement une légère hausse de l'investissement dans les sociétés déjà détenues et un effet positif sur la création d'entreprises.\n\nConclusion : la richesse des plus aisés peut financer des projets, mais elle ne « crée » pas l'emploi à elle seule, et les baisses d'impôts qui leur sont accordées n'ont pas produit l'effet promis.",
+    "empathie": "Je comprends l'idée : sans patrons ni capital, pas d'entreprises. Mais la plupart des emplois sont dans des petites entreprises, et quand on a baissé les impôts des plus riches en 2018, l'argent est surtout parti en dividendes. Ça vaut la peine de regarder ce qui a vraiment marché."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Sans patrons, il n'y aurait pas d'entreprises.",
+      "reponse": "Personne ne dit le contraire : mais les patrons de TPE et de PME ne sont pas « les riches » visés par l'ISF, et une entreprise embauche d'abord quand elle a des clients."
+    },
+    {
+      "objection": "Si on taxe les riches, ils partent et les emplois avec.",
+      "reponse": "Les évaluations de France Stratégie montrent des départs très limités : depuis 2018, plus de retours que de départs de contribuables à l'IFI."
+    },
+    {
+      "objection": "Les dividendes, c'est de l'argent réinvesti.",
+      "reponse": "Selon l'évaluation officielle des réformes de 2018, les ménages n'ont pas réinvesti ces liquidités sous forme de participations significatives dans d'autres sociétés."
+    }
+  ],
+  "questions": [
+    "Une entreprise embauche quand ses actionnaires s'enrichissent, ou quand elle a des commandes ?",
+    "Tu sais ce qu'ont donné les baisses d'impôts pour les plus riches en 2018 ?",
+    "Qui crée le plus d'emplois : les milliardaires ou les millions de PME ?"
+  ],
+  "limites": [
+    "L'évaluation de 2023 porte sur les premières années après la réforme.",
+    "La source citée est un compte rendu du rapport de France Stratégie."
+  ],
+  "sources": [
+    {
+      "titre": "Catégories d'entreprises (Les entreprises en France, édition 2023)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "6 décembre 2023",
+      "url": "https://www.insee.fr/fr/statistiques/7678530",
+      "passage": "Données 2021, secteurs marchands non agricoles et non financiers, salariés en équivalent temps plein : microentreprises 2,6 millions (17 %) ; PME hors microentreprises 4,3 millions (29 %) ; ETI 3,7 millions (25 %) ; grandes entreprises 4,2 millions (28 %).",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Taxation du capital : le bilan 5 ans après la réforme",
+      "organisme": "Actu-Juridique",
+      "date_publication": "2023",
+      "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/taxation-du-capital-le-bilan-5-ans-apres-la-reforme/",
+      "passage": "Compte rendu du rapport final (octobre 2023) du comité d'évaluation des réformes de la fiscalité du capital (France Stratégie) : les dividendes distribués aux ménages passent d'environ 14 Md€ par an (2013-2017) à 23 Md€ (2018-2020) ; les ménages ayant reçu un choc de liquidités « ne les ont pas réinvestis sous forme de participation significative » dans d'autres sociétés ; « légère augmentation du taux d'investissement dans les autres sociétés détenues » ; effet positif sur la décision d'entreprendre.",
+      "pertinence": "Compte rendu d'une évaluation publique officielle ; rapport original de France Stratégie.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le capital et l'esprit d'entreprise sont nécessaires à la création d'emplois.",
+    "L'évaluation note un effet positif de la réforme de 2018 sur la décision d'entreprendre."
+  ],
+  "concepts": [
+    "emploi",
+    "fiscalite",
+    "riches_entreprises"
+  ],
+  "repond_a": [
+    {
+      "id": "riches_emplois",
+      "label": "Les riches créeraient les emplois"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "taxer",
+    "isf",
+    "tva",
+    "patronat",
+    "grands groupes"
+  ]
+}

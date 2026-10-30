@@ -1,0 +1,162 @@
+{
+  "id": "gauche-augmenter-impots",
+  "type": "idee_recue",
+  "affirmation": "La gauche veut augmenter tous les impôts.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "gauche",
+    "augmenter les impôts",
+    "tous les impôts",
+    "matraquage fiscal",
+    "nfp",
+    "nouveau front populaire",
+    "isf",
+    "impôt sur le revenu",
+    "14 tranches",
+    "héritage",
+    "flat tax",
+    "taxes",
+    "mélenchon",
+    "lfi"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Faux tel quel. Le programme du Nouveau Front populaire (2024) prévoyait de fortes hausses d'impôts, mais ciblées : ISF, superprofits, grosses successions, revenus du capital, niches fiscales et hauts revenus. Même l'iFRAP, très critique, calcule que la hausse serait supportée par les ménages au-dessus d'environ 46 450 € de revenu par an, et que les impôts des ménages modestes baisseraient.",
+  "contexte": "Lors des législatives de 2024, le programme fiscal du NFP a été qualifié de « matraquage fiscal » par ses opposants. Il prévoyait des dizaines de milliards de recettes nouvelles.",
+  "explication": "Il faut distinguer « augmenter les impôts au total » (vrai pour le programme NFP) et « augmenter tous les impôts de tout le monde » (faux). Les principales recettes visées étaient l'ISF, une taxe sur les superprofits, les successions importantes et la suppression de niches ; le barème de l'impôt sur le revenu devait devenir plus progressif.",
+  "faits": [
+    {
+      "fait": "Le programme du NFP prévoyait un impôt sur le revenu à 14 tranches au lieu de 5, une CSG plus progressive, le rétablissement de l'ISF, un impôt sur l'héritage plus progressif et la suppression de la flat tax.",
+      "periode": "2024",
+      "perimetre": "Programme du NFP",
+      "explication": "La logique est de faire payer davantage les plus aisés, pas tout le monde.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les recettes annoncées venaient surtout des niches fiscales (25 Md€), des successions (17 Md€), des superprofits (15 Md€) et de l'ISF (jusqu'à 15 Md€) ; le barème de l'impôt sur le revenu et la CSG ne comptaient que pour 5,5 Md€.",
+      "periode": "2024",
+      "perimetre": "Programme du NFP (chiffrage du NFP)",
+      "explication": "L'impôt payé par la majorité des ménages n'était pas la cible principale.",
+      "source": 1,
+      "fiabilite": "debat",
+      "chiffre": "5,5 Md€"
+    },
+    {
+      "fait": "Selon la simulation critique de l'iFRAP, la hausse serait entièrement supportée par les ménages au-dessus d'environ 46 450 € de revenu par an ; les impôts directs du dernier décile augmenteraient de 46 %, ceux des déciles 6 et 7 ne bougeraient pas, et ceux des déciles inférieurs baisseraient.",
+      "periode": "2024",
+      "perimetre": "Simulation sur la répartition 2023",
+      "explication": "Même un think tank opposé au programme montre que la hausse vise les plus aisés.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "46 450 €"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le programme de la gauche en 2024 visait les niches fiscales, l'ISF, les superprofits et les grosses successions. Même l'iFRAP, très critique, calcule que la hausse serait payée par les ménages au-dessus de 46 450 € par an, et que les impôts des ménages modestes baisseraient.",
+    "moyen": "Il faut être précis : oui, le programme du Nouveau Front populaire prévoyait plus de recettes fiscales, et c'est un débat légitime. Mais « tous les impôts », c'est faux. Les grosses recettes venaient des niches fiscales, des successions importantes, des superprofits et de l'ISF. Le barème de l'impôt sur le revenu devenait plus progressif.\n\nEt ce n'est pas la gauche qui le dit : l'iFRAP, un think tank libéral très opposé au programme, a fait le calcul. Selon lui, la hausse retomberait entièrement sur les ménages au-dessus d'environ 46 450 € par an, et les ménages modestes paieraient moins.",
+    "detaille": "L'affirmation mélange deux choses : augmenter les recettes au total, et augmenter les impôts de tout le monde.\n\nLe programme du NFP de 2024 prévoyait bien des hausses importantes. D'après Public Sénat, les recettes annoncées venaient surtout de la suppression de niches fiscales (25 milliards), de la réforme des successions (17 milliards), d'une taxe sur les superprofits (15 milliards) et du rétablissement de l'ISF (jusqu'à 15 milliards). Le nouveau barème de l'impôt sur le revenu à 14 tranches et la CSG progressive ne comptaient que pour 5,5 milliards.\n\nQui aurait payé ? La simulation de l'iFRAP, pourtant hostile au programme, conclut que la hausse serait supportée par les ménages au-dessus d'environ 46 450 € de revenu annuel, surtout les 30 % les plus aisés ; le dernier décile verrait ses impôts directs augmenter de 46 % ; les déciles 6 et 7 seraient inchangés et les plus modestes paieraient moins.\n\nOn peut contester ces choix, leur chiffrage ou leurs effets économiques. Mais dire que la gauche veut augmenter « tous les impôts » ne correspond pas au programme.",
+    "empathie": "Je comprends qu'on se méfie quand on entend parler de milliards d'impôts nouveaux. Mais regarde qui est visé : même l'iFRAP, qui est contre ce programme, calcule que les ménages modestes et moyens ne paieraient pas plus, voire moins."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils disent ça, mais au final c'est toujours la classe moyenne qui paie.",
+      "reponse": "La simulation de l'iFRAP, hostile au programme, place le seuil de hausse vers 46 450 € de revenu annuel et laisse les déciles 6 et 7 inchangés."
+    },
+    {
+      "objection": "Les riches vont partir.",
+      "reponse": "Les évaluations de France Stratégie sur l'ISF montrent des départs très limités, et davantage de retours que de départs de contribuables à l'IFI depuis 2018. Le risque existe, mais il est souvent exagéré."
+    },
+    {
+      "objection": "100 milliards d'impôts en plus, c'est forcément tout le monde.",
+      "reponse": "Non : les principales recettes visaient les niches, les successions importantes, les superprofits et les grandes fortunes."
+    }
+  ],
+  "questions": [
+    "Tu peux me citer un impôt payé par les ménages modestes que le programme augmentait ?",
+    "Tu as vu qui paierait plus selon l'iFRAP, pourtant opposé au programme ?",
+    "Tu préfères qu'on taxe les superprofits ou qu'on ferme des services publics ?"
+  ],
+  "limites": [
+    "Les programmes évoluent : il s'agit du programme du NFP de juin 2024.",
+    "Les recettes annoncées sont des estimations du NFP ; la simulation de l'iFRAP repose sur ses propres hypothèses."
+  ],
+  "sources": [
+    {
+      "titre": "Programme du Nouveau Front populaire : les pistes de la gauche pour augmenter les recettes fiscales et redistribuer les richesses",
+      "organisme": "Public Sénat (Hugo Ruaud)",
+      "date_publication": "19 juin 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/programme-du-nouveau-front-populaire-les-pistes-de-la-gauche-pour-augmenter-les-recettes-fiscales-et-redistribuer-les-richesses",
+      "passage": "Mesures : impôt sur le revenu plus progressif à quatorze tranches au lieu de cinq ; CSG plus progressive ; rétablissement de l'ISF ; impôt sur l'héritage plus progressif ; suppression possible de la flat tax et rétablissement de l'exit tax. Le barème définitif n'est pas détaillé.",
+      "pertinence": "Média parlementaire ; présentation du programme.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "150 milliards de dépenses supplémentaires d'ici fin 2027 : le Nouveau Front populaire détaille le coût de son programme",
+      "organisme": "Public Sénat",
+      "date_publication": "21 juin 2024",
+      "url": "https://www.publicsenat.fr/actualites/economie/150-milliards-de-depenses-supplementaires-dici-fin-2027-le-nouveau-front-populaire-detaille-le-cout-de-son-programme",
+      "passage": "Recettes annoncées : taxe sur les superprofits 15 Md€ ; ISF jusqu'à 15 Md€ ; suppression de niches fiscales 25 Md€ ; réforme des successions 17 Md€ ; suppression de la flat tax 2,7 Md€ ; barème à 14 tranches et CSG progressive 5,5 Md€.",
+      "pertinence": "Média parlementaire ; chiffrages présentés par le NFP.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Le programme fiscal du NFP ferait monter de 20 % les impôts directs des ménages",
+      "organisme": "Fondation iFRAP (Gilles Koleda)",
+      "date_publication": "9 juillet 2024",
+      "url": "https://www.ifrap.org/budget-et-fiscalite/le-programme-fiscal-du-nfp-ferait-monter-de-20-les-impots-directs-des-menages",
+      "passage": "Simulation : prélèvements directs des ménages +20 % (de 314 à 377 Md€) ; la hausse serait entièrement supportée par les ménages au-dessus d'environ 46 450 € de revenu par an (surtout les trois derniers déciles), le dernier décile (+100 000 € par an) voyant ses impôts directs augmenter de 46 % ; les déciles 6 et 7 ne seraient pas touchés et les déciles inférieurs verraient leur taux baisser.",
+      "pertinence": "Think tank libéral, critique du programme : sa propre simulation montre qui paierait.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Taxation du capital : le bilan 5 ans après la réforme",
+      "organisme": "Actu-Juridique",
+      "date_publication": "2023",
+      "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/taxation-du-capital-le-bilan-5-ans-apres-la-reforme/",
+      "passage": "Compte rendu du rapport final (octobre 2023) du comité d'évaluation des réformes de la fiscalité du capital (France Stratégie) : les dividendes distribués aux ménages passent d'environ 14 Md€ par an (2013-2017) à 23 Md€ (2018-2020) ; les ménages ayant reçu un choc de liquidités « ne les ont pas réinvestis sous forme de participation significative » dans d'autres sociétés ; « légère augmentation du taux d'investissement dans les autres sociétés détenues » ; effet positif sur la décision d'entreprendre.",
+      "pertinence": "Compte rendu d'une évaluation publique officielle ; rapport original de France Stratégie.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Programmes de 2027 à intégrer.",
+  "objections_legitimes": [
+    "Le programme prévoyait une hausse globale importante des prélèvements.",
+    "Les chiffrages des recettes sont contestés, et les effets économiques (départs, investissement) font débat."
+  ],
+  "concepts": [
+    "fiscalite",
+    "melenchon_lfi",
+    "gauche"
+  ],
+  "repond_a": [
+    {
+      "id": "gauche_impots",
+      "label": "La gauche et les impôts"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise",
+    "nupes",
+    "nfp",
+    "gauche",
+    "gauchos"
+  ]
+}

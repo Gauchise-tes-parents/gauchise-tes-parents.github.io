@@ -1,0 +1,165 @@
+{
+  "id": "services-publics-moyens",
+  "type": "idee_recue",
+  "affirmation": "La France n'a plus les moyens de financer ses services publics.",
+  "volet": "economie",
+  "sous_theme": "Services publics",
+  "rubriques": [],
+  "mots_cles": [
+    "services publics",
+    "plus les moyens",
+    "pas les moyens",
+    "financer",
+    "dette",
+    "déficit",
+    "dépenses publiques",
+    "hôpital",
+    "école",
+    "recettes",
+    "impôts",
+    "prélèvements obligatoires",
+    "faillite"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Le déficit est réel (5,8 % du PIB en 2024) et la dette élevée (113,2 %). Mais « ne plus avoir les moyens » est un choix présenté comme une fatalité : en 2024, le taux de prélèvements obligatoires a baissé de 0,4 point et l'État a encaissé 41,5 milliards de moins que prévu. Les moyens dépendent de ce qu'on décide de prélever, et sur qui.",
+  "contexte": "L'argument revient à chaque débat budgétaire, souvent pour justifier des fermetures de services ou des suppressions de postes.",
+  "explication": "Les finances publiques ont deux côtés : les dépenses et les recettes. Le déficit s'est creusé en 2024 parce que les recettes ont progressé moins vite que l'activité, pas seulement parce que les dépenses ont augmenté. Le niveau des recettes dépend de décisions politiques (taux, niches, impôts supprimés ou créés).",
+  "faits": [
+    {
+      "fait": "En 2024, le déficit public atteint 168,6 Md€, soit 5,8 % du PIB, et la dette 113,2 % du PIB.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le problème budgétaire est réel : il ne faut pas le nier.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "5,8 %"
+    },
+    {
+      "fait": "En 2024, le taux de prélèvements obligatoires baisse de 0,4 point, à 42,8 % du PIB : selon l'Insee, les recettes sont « moins dynamiques que les dépenses » et que l'activité.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le déficit vient aussi du côté des recettes.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "42,8 %"
+    },
+    {
+      "fait": "Pour 2024, l'écart de recettes par rapport aux prévisions du budget atteint 41,5 milliards d'euros.",
+      "periode": "2024",
+      "perimetre": "État",
+      "explication": "Une partie du trou vient de recettes surestimées, selon le Sénat.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "41,5 Md€"
+    },
+    {
+      "fait": "Les dépenses publiques atteignent 1 672 Md€ en 2024 (57 % du PIB), dont 693 Md€ de protection sociale, 261 Md€ de santé, 149 Md€ d'enseignement et 60 Md€ d'intérêts de la dette.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Où va l'argent : surtout les retraites, la santé et l'école.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "1 672 Md€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le déficit est réel, mais « plus les moyens », c'est un choix déguisé en fatalité : en 2024, les prélèvements obligatoires ont baissé (42,8 % du PIB) et l'État a encaissé 41,5 milliards de moins que prévu (Sénat). Les moyens, ça dépend de ce qu'on décide de prélever, et sur qui.",
+    "moyen": "Oui, il y a un problème budgétaire : 5,8 % de déficit en 2024 et une dette à 113 % du PIB, selon l'Insee. Mais regarde l'autre côté du budget : le taux de prélèvements obligatoires a baissé de 0,4 point en 2024, et l'Insee note que les recettes sont « moins dynamiques que les dépenses ». Le Sénat a calculé que l'État a encaissé 41,5 milliards de moins que prévu.\n\nDonc la question n'est pas « est-ce qu'on a les moyens », mais « qui doit payer, et pour quels services ». Fermer un service public, c'est un choix politique, pas une loi de la nature.",
+    "detaille": "Le constat de départ est juste : en 2024, le déficit public atteint 168,6 milliards d'euros (5,8 % du PIB) et la dette 113,2 % du PIB. Les intérêts de la dette coûtent 60 milliards par an, en forte hausse.\n\nMais un budget a deux côtés. Selon l'Insee, en 2024, « les recettes des prélèvements obligatoires augmentent moins vite que l'activité » : le taux de prélèvements obligatoires recule de 0,4 point, à 42,8 % du PIB. Le rapport du Sénat sur la dégradation des finances publiques relève un écart de 41,5 milliards de recettes par rapport aux prévisions du budget 2024, et souligne que les erreurs de prévision et les choix politiques ont joué.\n\nCôté dépenses, l'essentiel va à la protection sociale (693 milliards, surtout les retraites), à la santé (261 milliards) et à l'école (149 milliards). Dire qu'on « n'a plus les moyens » des services publics, c'est donc choisir de ne pas aller chercher de recettes, ou de les prendre ailleurs. C'est un débat légitime, mais c'est un choix, pas une fatalité.",
+    "empathie": "Je comprends l'inquiétude sur la dette, elle est réelle. Mais le trou ne vient pas que des dépenses : en 2024, les recettes ont été bien plus faibles que prévu. Avant de fermer l'hôpital ou l'école du coin, on peut se demander qui pourrait contribuer davantage."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On a déjà les impôts les plus élevés du monde.",
+      "reponse": "Les prélèvements sont élevés, mais ils ont baissé en 2024 (42,8 % du PIB) ; et ils financent surtout les retraites et la santé, que d'autres pays paient via des assurances privées."
+    },
+    {
+      "objection": "La dette, ce sont nos enfants qui vont la payer.",
+      "reponse": "La dette est un vrai sujet. Mais fermer des écoles ou des hôpitaux, c'est aussi un coût laissé à nos enfants. La question, c'est l'équilibre entre recettes et dépenses, et qui contribue."
+    },
+    {
+      "objection": "Il suffit de couper dans le gaspillage.",
+      "reponse": "Les grosses dépenses sont les retraites, la santé et l'école : couper fortement sans toucher aux recettes, c'est forcément toucher à ces services."
+    }
+  ],
+  "questions": [
+    "Quand tu dis « plus les moyens », tu as regardé le côté des recettes ?",
+    "Quels services faudrait-il fermer, concrètement ?",
+    "Pourquoi les recettes ont-elles été inférieures de 41,5 milliards à ce qui était prévu ?"
+  ],
+  "limites": [
+    "Les chiffres 2025 et 2026 ne sont pas intégrés.",
+    "Le coût total des baisses d'impôts depuis 2017 n'est pas chiffré dans les sources retenues."
+  ],
+  "sources": [
+    {
+      "titre": "Le compte des administrations publiques en 2024 (Insee Première n° 2054)",
+      "organisme": "Insee",
+      "date_publication": "28 mai 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8574492",
+      "passage": "« Les recettes moins dynamiques que les dépenses, le déficit augmente ». Déficit public : 168,6 Md€, soit 5,8 % du PIB (5,4 % en 2023) ; dette publique : 113,2 % du PIB ; taux de prélèvements obligatoires : 42,8 % du PIB, en baisse de 0,4 point ; « les recettes des prélèvements obligatoires augmentent moins vite que l'activité en valeur ».",
+      "pertinence": "Comptes nationaux officiels.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Usage de l'argent public : les dépenses publiques par fonction en 2024 (Insee Première n° 2093)",
+      "organisme": "Insee",
+      "date_publication": "5 février 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8735252",
+      "passage": "Dépenses publiques 1 672 Md€ (57,0 % du PIB) en 2024, +64 Md€ ; protection sociale 693 Md€ (dont retraites +23 Md€) ; santé 261 Md€ ; enseignement 149 Md€ ; charge d'intérêts de la dette 60 Md€ (+13,8 %).",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Dégradation des finances publiques depuis 2023 (rapport d'information n° 153, commission des finances, rapporteur Jean-François Husson)",
+      "organisme": "Sénat",
+      "date_publication": "19 novembre 2024",
+      "url": "https://senat.fr/rap/r24-153/r24-1531.pdf",
+      "passage": "Le projet de loi de finances de fin de gestion pour 2024 prévoit « un écart en recettes par rapport aux prévisions du PLF pour 2024 de 41,5 milliards d'euros » ; l'élasticité des recettes prévue à 1,1 serait de 0,71 ; le rapport juge que les erreurs de prévision et les choix politiques ont aussi joué.",
+      "pertinence": "Rapport parlementaire de contrôle.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le déficit (5,8 % du PIB) et la dette (113,2 % du PIB) sont élevés.",
+    "La charge d'intérêts de la dette augmente fortement (60 Md€ en 2024)."
+  ],
+  "concepts": [
+    "fiscalite",
+    "services_publics",
+    "dette"
+  ],
+  "repond_a": [
+    {
+      "id": "services_publics_moyens",
+      "label": "Financement des services publics"
+    },
+    {
+      "id": "dette_publique",
+      "label": "Dette et déficit publics",
+      "partielle": true
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "urgences",
+    "dette",
+    "deficit",
+    "faillite",
+    "depenses publiques",
+    "argent public",
+    "argent magique",
+    "n a plus les moyens"
+  ]
+}

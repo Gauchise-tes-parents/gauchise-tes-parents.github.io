@@ -75,8 +75,11 @@ describe('différenciation réelle', () => {
     assert.ok(c.preuves[0].chiffre);
     assert.ok(m.preuves.every((x) => x.methode));
     assert.ok(m.preuves.length >= c.preuves.length);
-    assert.equal(s.entree, 'reformulation');
-    assert.ok(s.ordre.indexOf('question') < s.ordre.indexOf('replique'));
+    // v9 : en mode « gagner », même face à quelqu'un qui se braque, on entre par le fond (pas par une écoute de principe) ;
+    // la reformulation reste la porte d'entrée du mode « convaincre »
+    assert.ok(['concession', 'fait', 'correction', 'cadre', 'exemple'].includes(s.entree), s.entree);
+    assert.equal(planifier(f, { profil: { debat: 'susceptible' }, mode: 'convaincre', bibliotheque: lib }).entree, 'reformulation');
+    assert.notEqual(s.ton, c.ton, 'le ton reste adapté au profil');
     for (const pl of plans) for (const pr of pl.preuves) assert.equal(pr.texte, f.faits[pr.index].fait);
     assert.notDeepEqual(empreinte(c), empreinte(m));
     assert.notDeepEqual(empreinte(m), empreinte(s));

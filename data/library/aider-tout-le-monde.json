@@ -1,0 +1,189 @@
+{
+  "id": "aider-tout-le-monde",
+  "type": "idee_recue",
+  "affirmation": "On ne peut pas aider tout le monde.",
+  "volet": "social",
+  "sous_theme": "Coût et efficacité des aides",
+  "rubriques": [],
+  "mots_cles": [
+    "aider tout le monde",
+    "on ne peut pas aider",
+    "solidarité",
+    "toute la misère du monde",
+    "pas les moyens d aider",
+    "aides sociales",
+    "redistribution",
+    "assistanat",
+    "limites",
+    "protection sociale",
+    "pauvreté"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Personne ne propose d'aider tout le monde sans limite : la solidarité est déjà organisée, sous conditions, avec un budget. Et elle fonctionne : sans impôts ni prestations, 21,3 % de la population serait pauvre, contre 14,4 % après (données 2022). Les minima sociaux représentent 2 % des dépenses publiques, et un tiers des personnes qui ont droit au RSA ne le demandent pas.",
+  "contexte": "La phrase est vraie au sens littéral : aucune société n'a des ressources illimitées. Mais elle sert souvent à dire autre chose : qu'on aiderait déjà « trop », ou « n'importe qui », ou qu'il faudrait choisir entre les pauvres d'ici et les autres.",
+  "explication": "La vraie question n'est pas « aider tout le monde ou personne », mais qui aider, comment, et avec quel financement. En France, les aides sont conditionnées (ressources, durée de séjour, situation familiale) et budgétées. Leur effet est mesuré : elles réduisent d'un tiers la pauvreté et augmentent de 55 % le niveau de vie des 20 % les plus modestes. Leur coût est limité au regard des grandes masses de la dépense publique (retraites, santé, école).",
+  "faits": [
+    {
+      "fait": "Sans redistribution, le taux de pauvreté serait de 21,3 % ; après impôts et prestations, il est de 14,4 % : le système social évite la pauvreté à 4,4 millions de personnes.",
+      "periode": "2022",
+      "perimetre": "France, seuil à 60 % du niveau de vie médian",
+      "explication": "La solidarité n'aide pas « tout le monde » : elle sort des millions de personnes de la pauvreté. C'est mesuré.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "21,3 % → 14,4 %"
+    },
+    {
+      "fait": "La redistribution augmente de 55 % le niveau de vie moyen des 20 % les plus modestes ; l'écart entre les 10 % les plus aisés et les 10 % les plus modestes passe de 21 à 6.",
+      "periode": "2024",
+      "perimetre": "France métropolitaine",
+      "explication": "Les aides ciblent ceux qui en ont le plus besoin, et leur effet est massif.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "+55 %"
+    },
+    {
+      "fait": "Les minima sociaux (RSA, minimum vieillesse, AAH…) coûtent 31,6 Md€, soit 2,0 % des dépenses publiques.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "L'aide aux plus pauvres est une petite partie de la dépense publique.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2,0 %"
+    },
+    {
+      "fait": "Entre 33 % et 37 % des foyers éligibles au RSA ne le percevaient pas fin 2021, soit environ 561 000 foyers.",
+      "periode": "Fin 2021",
+      "perimetre": "France",
+      "explication": "On est loin d'aider « tout le monde » : beaucoup de gens qui ont droit à une aide ne la demandent pas.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "33 à 37 %"
+    },
+    {
+      "fait": "Malgré les aides, 15,4 % de la population vit sous le seuil de pauvreté en 2024, soit 9,8 millions de personnes, le plus haut niveau depuis 1996.",
+      "periode": "2024",
+      "perimetre": "France métropolitaine",
+      "explication": "Le problème n'est pas qu'on aide trop : la pauvreté reste élevée.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "15,4 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Personne ne propose d'aider tout le monde sans limite : les aides sont déjà sous conditions et budgétées. Et elles marchent : sans elles, 21 % de la population serait pauvre, contre 14 % (DREES, 2022). Les minima sociaux, c'est 2 % des dépenses publiques, et un tiers des gens qui ont droit au RSA ne le demandent même pas.",
+    "moyen": "« On ne peut pas aider tout le monde », c'est vrai, et personne ne le propose. La question, c'est qui on aide et comment. En France, les aides sont soumises à des conditions et à un budget, et leur effet est mesuré : sans impôts ni prestations, 21,3 % de la population serait pauvre ; avec, c'est 14,4 %. Ça représente 4,4 millions de personnes sorties de la pauvreté.\n\nCe n'est pas ruineux : les minima sociaux pèsent 2 % des dépenses publiques. Et on est loin d'aider « tout le monde » : un tiers des foyers qui ont droit au RSA ne le touchent pas. Malgré tout ça, il reste 9,8 millions de pauvres. Le vrai problème n'est pas qu'on aide trop.",
+    "detaille": "La phrase est vraie au sens littéral : aucune société n'a des moyens illimités. Mais elle sert souvent à justifier qu'on aiderait déjà trop, ou qu'il faudrait choisir entre des pauvres « d'ici » et « d'ailleurs ». Or la solidarité n'est pas un guichet ouvert : elle est organisée, sous conditions (ressources, durée de séjour, situation familiale), et votée chaque année dans un budget.\n\nSon efficacité est mesurée. D'après les données 2022 de la DREES reprises par l'Observatoire des inégalités, la redistribution fait passer le taux de pauvreté de 21,3 % à 14,4 %. Selon l'Insee, elle augmente de 55 % le niveau de vie des 20 % les plus modestes, et les prestations comptent pour environ 60 % de la réduction des inégalités.\n\nSon coût est limité : 31,6 milliards pour les minima sociaux, soit 2 % des dépenses publiques. Les grandes masses de la dépense sont les retraites, la santé et l'école.\n\nEnfin, l'aide ne va pas à « tout le monde » : entre 33 et 37 % des foyers éligibles au RSA ne le demandent pas. Et malgré les aides, 15,4 % de la population vivait sous le seuil de pauvreté en 2024. La vraie discussion porte donc sur les priorités et sur le financement, pas sur un prétendu excès d'aide.",
+    "empathie": "Je comprends qu'on se dise qu'on ne peut pas tout payer : moi aussi je veux que l'argent public soit bien utilisé. Mais les aides sont déjà sous conditions, et elles évitent la pauvreté à plus de 4 millions de personnes. Ce n'est pas aider tout le monde ; c'est éviter que des gens tombent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On paie déjà trop d'impôts pour ça.",
+      "reponse": "Les minima sociaux représentent 2 % des dépenses publiques. L'essentiel des impôts et cotisations finance les retraites, la santé et l'école, dont tout le monde profite."
+    },
+    {
+      "objection": "Il y a plein de fraudeurs.",
+      "reponse": "La fraude existe et doit être combattue ; mais le non-recours est massif : environ un tiers des foyers qui ont droit au RSA ne le demandent pas."
+    },
+    {
+      "objection": "Il faut d'abord s'occuper des nôtres.",
+      "reponse": "C'est déjà ce que fait le système : les aides sont soumises à des conditions de ressources et, pour les étrangers non européens, de durée de séjour. Et il reste 9,8 millions de pauvres en France : c'est d'eux qu'on parle."
+    }
+  ],
+  "questions": [
+    "Concrètement, qui faudrait-il arrêter d'aider ?",
+    "Tu sais combien représentent les minima sociaux dans la dépense publique ?",
+    "Si on supprimait ces aides, qu'est-ce qui se passerait pour les 4 millions de personnes qu'elles sortent de la pauvreté ?"
+  ],
+  "limites": [
+    "Le taux de pauvreté avant redistribution est une construction statistique : sans aides, les comportements seraient différents.",
+    "Les chiffres de non-recours datent de 2021."
+  ],
+  "sources": [
+    {
+      "titre": "Les allocations réduisent le nombre de pauvres de cinq millions",
+      "organisme": "Observatoire des inégalités",
+      "date_publication": "16 décembre 2025",
+      "url": "https://www.inegalites.fr/Les-allocations-reduisent-le-nombre-de-pauvres-de-cinq-millions",
+      "passage": "Données 2022 (ministère des Solidarités / DREES, « La redistribution diminue d'un tiers le taux de pauvreté », juin 2025) : au seuil de 60 % du niveau de vie médian, le taux de pauvreté serait de 21,3 % avant redistribution et il est de 14,4 % après ; 13,5 millions de personnes pauvres avant, 9,1 millions après : le système social évite la pauvreté à 4,4 millions de personnes.",
+      "pertinence": "Synthèse d'une association indépendante, à partir des données de la DREES.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Redistribution monétaire (France, portrait social, édition 2025)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612544",
+      "passage": "Données 2024 (enquête Revenus fiscaux et sociaux 2022 actualisée) : la redistribution augmente de 55 % le niveau de vie moyen des 20 % des personnes les plus modestes ; le rapport entre le niveau de vie moyen des 10 % les plus aisés et celui des 10 % les plus modestes passe de 21,1 avant redistribution à 6,2 après ; les prestations contribuent pour environ 60 % à la réduction des inégalités (prime d'activité et minima sociaux 27 %, prestations familiales 20 %, aides au logement 12 %), les prélèvements pour 40 %.",
+      "pertinence": "Statistique publique de référence sur l'effet des impôts et prestations.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Minima sociaux et prestations de solidarité, édition 2025 — Fiche 07 : Les dépenses d'allocations",
+      "organisme": "DREES",
+      "date_publication": "Décembre 2025",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/MS2025%20-%20Fiche%2007%20-%20Les%20d%C3%A9penses%20d%27allocations.pdf",
+      "passage": "Minima sociaux : 31,6 Md€ en 2023, 1,1 % du PIB, 2,0 % des dépenses des administrations publiques ; RSA : 12,2 Md€, 0,4 % du PIB.",
+      "pertinence": "Source statistique du ministère des Solidarités.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le non-recours au RSA concerne plus d'un tiers des foyers éligibles, confirme la Drees",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "6 mai 2026",
+      "url": "https://www.banquedesterritoires.fr/le-non-recours-au-rsa-concerne-plus-dun-tiers-des-foyers-eligibles-confirme-la-drees",
+      "passage": "Environ 561 000 foyers éligibles non recourants fin 2021, soit 33 % à 37 % ; 34 % en 2018 ; surcoût d'environ 2,5 Md€ sur une année en cas de recours complet.",
+      "pertinence": "Compte rendu d'une étude de la DREES.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Niveau de vie et pauvreté en 2024 (Insee Première n° 2117)",
+      "organisme": "Insee (Christelle Rieg, Arnaud Rousset)",
+      "date_publication": "9 juillet 2026",
+      "url": "https://insee.fr/fr/statistiques/9019316",
+      "passage": "France métropolitaine, 2024 : taux de pauvreté 15,4 % (stable, plus haut niveau depuis 1996) ; 9 817 000 personnes pauvres ; seuil 1 337 € par mois et par unité de consommation.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-10-30",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les ressources publiques sont limitées et toute dépense doit être financée.",
+    "Le ciblage des aides fait l'objet de vrais débats (conditions, contreparties, simplicité)."
+  ],
+  "concepts": [
+    "prestations",
+    "pauvrete",
+    "solidarite",
+    "cout"
+  ],
+  "repond_a": [
+    {
+      "id": "solidarite",
+      "label": "Les limites de la solidarité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout",
+    "ont droit a tout"
+  ]
+}

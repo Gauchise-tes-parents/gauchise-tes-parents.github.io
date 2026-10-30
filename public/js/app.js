@@ -3,7 +3,7 @@ import { api } from './api.js';
 import { store } from './store.js';
 import { kb } from './kbstore.js';
 import { nettoyerProfil, profilSimple, resumeProfil, strategieProfil } from './profile.js';
-import { composer, questionsUtiles } from './composer.js';
+import { composer, questionsUtiles, PRIORITES } from './composer.js';
 import { suggestionsPour } from './suggestions.js';
 import { nouvelleConversation, repondreConversation, enregistrerTour, analyserMessage, terminerConversation, basculerSujet, revenirSujetInitial, corrigerHypotheses, chargeServeur, phaseConversation, CV_RACCOURCIS, CV_TYPES } from './conversation.js';
 import { kbMatch, kbFreshness, kbNormalize, kbDataAge } from './kbsearch.js';
@@ -198,6 +198,7 @@ function viewHome() {
         <p class="hint">En pleine conversation ? Colle la phrase, on te donne une réplique sourcée à copier.</p>
         <label class="visually-hidden" for="express-mini-text">Affirmation à vérifier</label>
         <textarea id="express-mini-text" rows="2" maxlength="${LIMITS.claimMax}" placeholder="Ex. : les chômeurs ne veulent pas travailler">${h(state.express.affirmation)}</textarea>
+        <div class="segmented segmented--small" role="radiogroup" aria-label="Objectif">${Object.entries(MODES).map(([id, m]) => `<button type="button" role="radio" aria-checked="${state.express.mode === id}" class="${state.express.mode === id ? 'is-on' : ''}" data-express-mode="${id}">${h(m.court)}</button>`).join('')}</div>
         <button class="btn btn-primary btn-block" type="submit">Sortir une réplique</button>
       </form>
     </div>
@@ -932,6 +933,7 @@ function preuveItem(pr, label = '') {
   return `<li class="preuve">${label ? `<span class="preuve-label">${h(label)}</span>` : ''}
     ${pr.chiffre ? `<span class="preuve-chiffre">${h(pr.chiffre)}</span>` : ''}
     <p>${h(pr.texte)}</p>
+    ${pr.explication ? `<p class="preuve-montre"><strong>Ce que ça montre :</strong> ${h(pr.explication)}</p>` : ''}
     ${pr.methode ? `<p class="preuve-methode">${h(pr.methode)}</p>` : ''}
     <p class="preuve-src">Source : ${srcLink(pr.source)}${pr.fiabilite ? ` · ${h(FIABILITES[pr.fiabilite] || '')}` : ''}</p>
   </li>`;
@@ -941,7 +943,7 @@ const ORDINAUX = ['Un premier élément', 'Ensuite', 'Enfin', 'Et encore'];
 function blocHtml(b, mode) {
   switch (b.type) {
     case 'ton': return `<p class="ton-note"><strong>${h(b.titre)} :</strong> ${h(b.texte)}</p>`;
-    case 'replique': return `<h3 class="sub-title">${h(b.titre)}</h3><div class="speech"><p id="replique-text">${h(b.texte)}</p></div>
+    case 'replique': return `<h3 class="sub-title">${h(b.titre)}</h3><div class="speech"><p id="${mode === 'convaincre' ? 'replique-text-convaincre' : 'replique-text'}" class="replique-texte">${h(b.texte)}</p></div>
       <div class="btn-row"><button type="button" class="btn btn-primary" data-action="copy-replique">Copier la réponse</button><button type="button" class="btn btn-secondary" data-action="share-compo">Partager</button></div>`;
     case 'preuves': return `<h3 class="sub-title">${h(b.titre)}</h3>${b.concordantes ? `<p class="hint">Sources de plusieurs organismes : ${h(b.concordantes.join(', '))}.</p>` : ''}<ul class="preuves">${b.items.map((pr, i) => preuveItem(pr, mode === 'convaincre' && b.items.length > 1 ? ORDINAUX[i] : '')).join('')}</ul>`;
     case 'questions': return `<h3 class="sub-title">${h(b.titre)}</h3><ul class="questions">${b.items.map((q) => `<li>${h(q)}</li>`).join('')}</ul>`;
@@ -950,6 +952,7 @@ function blocHtml(b, mode) {
     case 'liste': return `<div class="legit"><h3 class="sub-title">${h(b.titre)}</h3><ul>${b.items.map((x) => `<li>${h(x)}</li>`).join('')}</ul></div>`;
     case 'empathie': return `<h3 class="sub-title">${h(b.titre)}</h3><div class="speech speech--soft"><p ${mode === 'convaincre' ? 'id="empathie-text"' : ''}>${h(b.texte)}</p></div>`;
     case 'conclusion': return `<h3 class="sub-title">${h(b.titre)}</h3><p class="big-q">${h(b.texte)}</p>`;
+    case 'riposte': return `<h3 class="sub-title">${h(b.titre)}</h3><div class="riposte"><p class="big-q">${h(b.texte)}</p>${b.question ? `<p><strong>La question qui met le raisonnement à l’épreuve :</strong> ${h(b.question)}</p>` : ''}</div>`;
     case 'entree': case 'texte': default: return `<h3 class="sub-title">${h(b.titre)}</h3><p>${h(b.texte)}</p>`;
   }
 }
@@ -963,7 +966,10 @@ function viewArgumentaire() {
   const c = state.compo;
   if (!c) return `<section class="section"><div class="wrap wrap--narrow center"><h1 class="page-title">Aucun argumentaire en cours</h1><a class="btn btn-primary" href="#/debat">Préparer un débat</a></div></section>`;
   const f = c.fiche;
-  const a = composer(f, c.profil, { bibliotheque: kb.fiches, recents: recents(), force: c.force, deja: c.session.utilises, objectionsVues: c.session.objectionsVues, questionsPosees: c.session.questionsPosees });
+  // formules de l'analyse (propres à l'argument repéré) ; les formules génériques ne remplacent pas la riposte de la fiche
+  const formule = (mode) => { const x = analyserPhrase(c.analyse.texte, { bibliotheque: kb.fiches, mode }); return x.phraseGenerique ? null : x.phrase; };
+  const formules = c.analyse && c.analyse.principal?.fiche?.id === f.id ? { gagner: formule('gagner'), convaincre: formule('convaincre') } : null;
+  const a = composer(f, c.profil, { bibliotheque: kb.fiches, recents: recents(), force: c.force, deja: c.session.utilises, objectionsVues: c.session.objectionsVues, questionsPosees: c.session.questionsPosees, formules });
   c.last = a;
   const pl = a.plans[c.vue];
   const tab = (id, label) => `<button type="button" role="tab" id="strat-${id}" aria-controls="strat-panel-${id}" aria-selected="${c.vue === id}" tabindex="${c.vue === id ? 0 : -1}" class="fiche-tab ${c.vue === id ? 'is-on' : ''}" data-strat="${id}">${h(label)}</button>`;
@@ -972,10 +978,10 @@ function viewArgumentaire() {
   const panel = (mode) => {
     const p2 = a.plans[mode];
     return `<div class="fiche-panel" role="tabpanel" id="strat-panel-${mode}" aria-labelledby="strat-${mode}" tabindex="0" ${c.vue === mode ? '' : 'hidden'}>
-      <p class="hint">${mode === 'gagner' ? h(MODES.gagner.sousTitre) : 'Une réponse progressive : questions ouvertes, valeurs communes, faits présentés sans braquer.'}</p>
-      ${planResume(p2)}
-      ${a[mode].blocs.map((b) => blocHtml(b, mode)).join('')}
+      ${a[mode].blocs.map((b, i, arr) => `${i === 0 || arr[i - 1].priorite !== b.priorite ? `<p class="prio-label prio-${b.priorite}">${PRIORITES[b.priorite][0]} · ${h(PRIORITES[b.priorite][1])}</p>` : ''}${blocHtml(b, mode)}`).join('')}
       ${p2.prochaine.length ? `<h3 class="sub-title">Et ensuite</h3><ul class="prochaine">${p2.prochaine.map((x) => `<li>${h(x.texte)}</li>`).join('')}</ul>` : ''}
+      <p class="hint">${mode === 'gagner' ? h(MODES.gagner.sousTitre) : 'Mêmes faits, mêmes sources : présentés progressivement, sans braquer.'}</p>
+      ${planResume(p2)}
     </div>`;
   };
   return `<section class="section result compo-view">
@@ -983,8 +989,13 @@ function viewArgumentaire() {
       <p class="crumb"><a href="#/bibliotheque/${h(f.id)}">Fiche complète</a></p>
       <div class="claim-bubble"><span class="claim-label">${!sameQ ? 'Ta question' : 'L’affirmation'}</span><p>« ${h(c.question || f.affirmation)} »</p>
         ${!sameQ ? `<p class="claim-reform">Fiche utilisée : « ${h(f.affirmation)} »${c.force === 'partielle' ? ' (sujet voisin)' : ''}</p>` : ''}</div>
-      <p class="offline-badge">Composé à partir de la bibliothèque locale — sans recherche web ni IA.</p>
+      ${c.force === 'partielle' ? '<p class="notice notice--soft partielle-note">Cette fiche ne répond qu’en partie à ta phrase : vérifie qu’elle correspond bien à ce que tu veux dire.</p>' : ''}
+      <section class="block">
+        <div class="fiche-tabs" role="tablist" aria-label="Deux stratégies">${tab('gagner', MODES.gagner.label)}${tab('convaincre', MODES.convaincre.carte)}</div>
+        ${panel('gagner')}${panel('convaincre')}
+      </section>
       ${c.analyse ? analyseHtml(c.analyse.mode === c.vue ? c.analyse : (c.analyse = analyserPhrase(c.analyse.texte, { bibliotheque: kb.fiches, mode: c.vue })), f.id, c.vue) : ''}
+      <p class="offline-badge">Composé à partir de la bibliothèque locale — sans recherche web ni IA.</p>
       ${incert.length ? `<aside class="notice notice--soft" role="note"><p><strong>À garder en tête :</strong></p><ul>${incert.map((x) => `<li>${h(x)}</li>`).join('')}</ul></aside>` : ''}
       ${a.profil.inconnu ? '' : `<p class="hyp-note"><strong>Hypothèses retenues sur la personne</strong> (tu peux les corriger ci-dessous) : ${h(resumeProfil(a.profil))}.</p>`}
 
@@ -993,10 +1004,6 @@ function viewArgumentaire() {
         <p>${h(a.version_solide)}</p>
       </section>
 
-      <section class="block">
-        <div class="fiche-tabs" role="tablist" aria-label="Deux stratégies">${tab('gagner', MODES.gagner.label)}${tab('convaincre', MODES.convaincre.carte)}</div>
-        ${panel('gagner')}${panel('convaincre')}
-      </section>
 
       <section class="block">
         <details class="acc" id="compo-profil" ${c.profilOuvert ? 'open' : ''}><summary><span>Corriger les hypothèses sur la personne${a.profil.inconnu ? '' : ` : ${h(resumeProfil(a.profil))}`}</span></summary><div class="acc-body">${interlocuteurForm(c.profil, 'compo')}</div></details>
@@ -1175,7 +1182,7 @@ function analyseHtml(an, ficheCourante, vue) {
       <p class="an-arg-head"><span class="an-rang">${i === 0 ? 'Argument principal' : 'Argument secondaire'}</span> ${h(a.label)}</p>
       ${an.arguments.length > 1 ? `<p class="an-seg">« ${h(a.segment)} »</p>` : ''}
       ${a.lacune ? '<p class="an-lacune">Pas encore de fiche qui réponde précisément à ce point : aucune fiche voisine n’est présentée à la place.</p>'
-        : ici ? `<p class="hint">Traité en détail ci-dessous${a.pertinence === 'partielle' ? ' (la fiche n’y répond qu’en partie)' : ''}.</p>`
+        : ici ? `<p class="hint">C’est la réponse détaillée ci-dessus${a.pertinence === 'partielle' ? ' (la fiche n’y répond qu’en partie)' : ''}.</p>`
         : `<p>${h(a.fiche.court || '')}</p>${preuveDe(f)}<p><a class="link-btn" href="#/bibliotheque/${h(a.fiche.id)}">Voir la fiche « ${h(a.fiche.affirmation)} »</a>${a.pertinence === 'partielle' ? ' <span class="hint">(répond en partie)</span>' : ''}</p>`}
       ${a.implicite ? `<p class="an-imp"><strong>Sous-entendu possible :</strong> ${h(a.implicite)}</p>` : ''}
     </li>`;
@@ -1186,8 +1193,8 @@ function analyseHtml(an, ficheCourante, vue) {
     <p class="hint">Lecture automatique et approximative, à partir de règles explicites. Les émotions et procédés sont des hypothèses, pas des étiquettes.</p>
     <ol class="an-args">${an.arguments.map(carte).join('')}</ol>
     ${an.emotions.length ? `<div class="an-emo"><h3 class="sub-title">Ce qui peut se jouer derrière</h3><ul>${an.emotions.map((e) => `<li><strong>${h(e.label)} :</strong> ${h(e.reponse)}</li>`).join('')}</ul></div>` : ''}
-    <div class="an-phrase"><p class="an-phrase-label">${vue === 'convaincre' ? 'Pour ouvrir la discussion' : 'La phrase qui marque'}</p><p class="big-q">${h(an.phrase)}</p>
-      <p><strong>Question à poser :</strong> ${h(an.question)}</p></div>
+    ${ficheCourante ? '' : `<div class="an-phrase"><p class="an-phrase-label">${vue === 'convaincre' ? 'Pour ouvrir la discussion' : 'La phrase qui marque'}</p><p class="big-q">${h(an.phrase)}</p>
+      <p><strong>Question à poser :</strong> ${h(an.question)}</p></div>`}
     ${an.procedes.length || causes || an.aVerifier.length ? `<details class="acc"><summary><span>Comment l’argument est construit${an.procedes.length ? ` (${an.procedes.length} procédé${an.procedes.length > 1 ? 's' : ''} possible${an.procedes.length > 1 ? 's' : ''})` : ''}</span></summary><div class="acc-body">
       ${causes ? `<h3 class="sub-title">Lien de cause affirmé</h3><ul>${causes}</ul>` : ''}
       ${an.procedes.map((p) => `<article class="an-proc"><h3 class="sub-title">${h(p.label)} ?</h3><p>${h(p.explication)}</p><p><strong>À vérifier :</strong> ${h(p.verifier)}</p><p><strong>Question :</strong> ${h(p.question)}</p></article>`).join('')}
@@ -1209,12 +1216,13 @@ function viewPasDansLaBase(payload) {
         <div class="verdict-mascot">${mascotSvg('search', 'La mascotte cherche dans la bibliothèque', 96)}</div>
         <div class="verdict-body">
           <h1 class="verdict-h">Pas encore dans la bibliothèque</h1>
-          <p class="verdict-summary">${payload.analyse?.principal ? `J’ai compris l’argument (« ${h(payload.analyse.principal.label.toLowerCase())} »), mais la bibliothèque ne contient pas encore de fiche qui y réponde. Plutôt que de présenter une fiche voisine comme une réponse, je le dis.` : 'La bibliothèque locale ne contient pas encore cette information. Rien n’est inventé à la place.'}</p>
+          <p class="verdict-summary">${payload.analyse?.principal ? `J’ai compris l’argument (« ${h(payload.analyse.principal.label.toLowerCase())} »), mais la bibliothèque ne contient pas encore de fiche qui y réponde. Plutôt que de présenter une fiche voisine comme une réponse, je le dis.` : 'Je n’ai pas reconnu de sujet précis dans ta phrase, et je préfère te le dire plutôt que de répondre à côté.'}</p>
+          ${payload.analyse && !payload.analyse.principal ? '<p><strong>Tu peux préciser ?</strong> De quoi parle la personne : des aides sociales, de l’immigration, des impôts, de l’emploi, de la sécurité, d’une personnalité politique… ? Reformule avec le sujet, par exemple « Les aides coûtent trop cher » plutôt que « C’est trop ».</p>' : ''}
           ${isLive() ? '<button type="button" class="btn btn-primary" data-action="web-search-local">Lancer une recherche web</button>' : ''}
         </div>
       </article>
-      ${payload.analyse ? analyseHtml(payload.analyse, null, payload.mode === 'convaincre' ? 'convaincre' : 'gagner') : ''}
-      ${proches.length && !payload.analyse ? `<section class="block"><h2 class="block-title">Dans le même volet</h2><div class="fiche-grid">${proches.map((f) => ficheCard(withFresh(f))).join('')}</div></section>` : ''}
+      ${payload.analyse?.arguments.length ? analyseHtml(payload.analyse, null, payload.mode === 'convaincre' ? 'convaincre' : 'gagner') : ''}
+      ${proches.length && !payload.analyse?.arguments.length ? `<section class="block"><h2 class="block-title">Dans le même volet</h2><div class="fiche-grid">${proches.map((f) => ficheCard(withFresh(f))).join('')}</div></section>` : ''}
       <p><a class="btn btn-secondary" href="#/bibliotheque">Chercher dans la bibliothèque</a></p>
     </div>
   </section>`;
@@ -1246,13 +1254,16 @@ async function launchLocal(payload) {
     return;
   }
   // 2. Aucun argument reconnu : correspondance textuelle (le volet et le sous-thème départagent).
-  const m = kbMatch(kb.fiches.filter((f) => f.type !== 'science' || payload.volet === 'autre'), payload.affirmation, { limit: 6 })
+  // Les fiches « science du dialogue » expliquent comment parler, pas quoi répondre : elles ne servent jamais de
+  // réponse à une affirmation. Une correspondance faible n'est pas présentée comme une réponse.
+  const m = kbMatch(kb.fiches.filter((f) => f.type !== 'science'), payload.affirmation, { limit: 6 })
+    .filter((x) => x.force === 'forte')
     .map((x) => ({ ...x, adj: x.score + (payload.volet && x.fiche.volet === payload.volet ? 2 : 0) + (payload.sous_theme && x.fiche.sous_theme === payload.sous_theme ? 1 : 0) }))
     .sort((x, y) => y.adj - x.adj)
     .slice(0, 3);
   if (!m.length) {
     state.compo = null;
-    state.pasTrouve = payload;
+    state.pasTrouve = { ...payload, analyse: an };
     if (location.hash !== '#/introuvable') location.hash = '#/introuvable'; else render();
     return;
   }
@@ -2054,7 +2065,7 @@ document.addEventListener('click', async (ev) => {
 
   const r = state.result && parseRoute().path === '/resultat' ? state.result : (state.currentFiche ? ficheToResult(state.currentFiche) : null);
   if (!r) return;
-  if (action === 'copy-replique') { copyText($('#replique-text')?.textContent || '', 'Réplique copiée !'); return; }
+  if (action === 'copy-replique') { copyText(($('.fiche-panel:not([hidden]) .replique-texte') || $('#replique-text'))?.textContent || '', 'Réplique copiée !'); return; }
   if (action === 'copy-refs') { copyText(referencesText(r.dossier), 'Références copiées !'); return; }
   if (action === 'share') {
     const text = shareText(r);

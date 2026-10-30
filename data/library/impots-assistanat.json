@@ -113,6 +113,11 @@
   "raison_actualisation": "Les dépenses par fonction de l’Insee sont publiées chaque année (données 2024 provisoires).",
   "repond_a": [
     {
+      "id": "dette_publique",
+      "label": "Dette et déficit publics",
+      "partielle": true
+    },
+    {
       "id": "fiscalite",
       "label": "Impôts"
     },

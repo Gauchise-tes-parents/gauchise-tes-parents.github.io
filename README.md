@@ -16,6 +16,13 @@ Ligne éditoriale assumée de gauche, avec une règle non négociable : aucun fa
 
 ---
 
+## Nouveautés v9
+
+- **La réponse avant la méthode** : chaque argumentaire suit le même ordre — 1. la réponse, 2. les preuves (avec « ce que ça montre »), 3. comment présenter l'argument, 4. comment aborder la discussion.
+- **Deux modes réellement distincts** : « Gagner le débat » donne une riposte, une question piège et les objections, sans bloc d'empathie ; « Convaincre avec empathie » garde les mêmes faits et sources, puis propose une manière de les introduire sans braquer.
+- **Express sans thématique** : les fiches de méthode (science du dialogue) ne servent plus jamais de réponse ; une correspondance faible n'est plus présentée comme une réponse ; le mode est visible sur l'accueil.
+- **4 nouvelles fiches sourcées** : aider tout le monde, financement des services publics, la gauche et les impôts, les riches et l'emploi. Voir `RAPPORT-V9.md`.
+
 ## Nouveautés v8
 
 - **Moteur d'analyse argumentative** (`public/js/analyse.js`, `public/js/cartographie.js`) : 38 concepts (428 mots-clés, expressions, synonymes, fautes), 37 arguments, 9 émotions, 12 procédés. Une phrase peut contenir plusieurs arguments ; chacun reçoit la fiche qui y répond vraiment, ou une lacune reconnue — jamais une fiche voisine présentée comme une réponse.

@@ -154,7 +154,10 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.getByRole('heading', { name: 'L’argument d’en face, version solide' }).waitFor();
     assert.ok(await page.getByText('Composé à partir de la bibliothèque locale').isVisible());
     assert.equal(await page.getByRole('tab', { name: 'CONVAINCRE AVEC EMPATHIE' }).getAttribute('aria-selected'), 'true', 'le mode choisi est ouvert');
-    assert.ok(await page.getByRole('heading', { name: 'Comprendre avant de répondre' }).isVisible(), 'profil susceptible : questions ouvertes d’abord');
+    // v9 : la réponse et les faits d'abord, puis les questions ouvertes pour les introduire (profil susceptible)
+    const titresC = await page.locator('#strat-panel-convaincre h3.sub-title').allTextContents();
+    assert.equal(titresC[0], 'Ce que tu peux répondre');
+    assert.ok(titresC.includes('Les questions pour comprendre son point de vue'), 'profil susceptible : questions ouvertes');
     assert.ok(await page.locator('a[href="#/bibliotheque/chomeurs-travailler"]').first().isVisible());
     // les choix survivent à un rechargement de la page (stockage de session)
     await page.goto(`${s.base}/#/debat`);
@@ -292,7 +295,7 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.locator('#compo-profil > summary').click();
     await page.locator('[data-ctx="compo"][data-val="competitif"]').click();
     await page.locator('[data-ctx="compo"][data-val="mefiance"]').click();
-    assert.match(await page.locator('#strat-panel-gagner .big-q').textContent(), /source et sa date/, 'conclusion : renvoyer la charge de la preuve');
+    assert.ok(await page.locator('#strat-panel-gagner .big-q', { hasText: 'source et sa date' }).count(), 'conclusion : renvoyer la charge de la preuve');
     assert.equal(await page.locator('#strat-panel-gagner .preuve').count(), 1);
     assert.ok(await page.locator('#strat-panel-gagner .preuve-methode').first().isVisible());
     await page.getByText(/Pourquoi cette stratégie/).click();
@@ -333,7 +336,9 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.locator('[data-ctx="compo"][data-val="susceptible"]').click();
     const apres = await page.locator('#strat-panel-gagner .plan-resume').textContent();
     assert.notEqual(avant, apres);
-    assert.match(apres, /reformuler/);
+    // v9 : la reformulation est réservée au mode empathique ; « gagner » garde une entrée par le fond
+    assert.match(await page.locator('#strat-panel-convaincre .plan-resume').textContent(), /reformuler/);
+    assert.doesNotMatch(apres, /reformuler|question ouverte/);
     // arguments déjà avancés : la preuve marquée n'est plus proposée
     const premier = await page.locator('#strat-panel-gagner .preuve .preuve-texte, #strat-panel-gagner .preuve p').first().textContent();
     await page.locator('#compo-deja > summary').click();
@@ -471,7 +476,7 @@ describe('interface — mode démonstration', { skip }, () => {
     const ecart = await page.locator('.an-ecartees').textContent();
     assert.match(ecart, /Les immigrés touchent plus d'aides/);
     assert.match(ecart, /pas de : emploi/);
-    assert.match(await page.locator('.an-phrase').textContent(), /Question à poser/);
+    assert.match(await page.locator('.fiche-panel:not([hidden]) .riposte').textContent(), /gâteau fixe|moins souvent en emploi|employeurs/);
     assert.ok((await overflow(page)) <= 1);
     // deux sujets : deux cartes, chacune avec sa fiche et sa source
     await express('Les immigrés prennent le travail des Français et en plus ils viennent toucher le RSA.');
@@ -486,6 +491,61 @@ describe('interface — mode démonstration', { skip }, () => {
     assert.match(await page.locator('.verdict-summary').textContent(), /immigration et logement/);
     assert.equal(await page.locator('.analyse a[href="#/bibliotheque/immigres-aides"]').count() - await page.locator('.an-ecartees a[href="#/bibliotheque/immigres-aides"]').count(), 0);
     assert.match(await page.locator('.analyse').textContent(), /Ce qui peut se jouer derrière/);
+    await page.close();
+  });
+
+  test('v9 — la réponse avant la méthode : 10 affirmations × (express sans thème, « gagner », « convaincre »)', async () => {
+    const page = await newPage(browser, PHONE, errors);
+    const CAS = [
+      ['On ne peut pas aider tout le monde.', 'aider-tout-le-monde'],
+      ['Les immigrés prennent le travail des Français.', 'immigration-emploi'],
+      ['Les Français ne veulent plus travailler.', 'chomeurs-travailler'],
+      ['Les riches créent les emplois.', 'riches-creent-emplois'],
+      ['La gauche veut augmenter tous les impôts.', 'gauche-augmenter-impots'],
+      ['Il faut renvoyer tous les criminels étrangers.', null],
+      ['La France n’a plus les moyens de financer ses services publics.', 'services-publics-moyens'],
+      ['Mélenchon crie tout le temps, il est dangereux.', 'melenchon-crie'],
+      ['Les aides sociales encouragent les gens à ne pas travailler.', 'rsa-smic'],
+      ['La France doit d’abord s’occuper de ses propres citoyens.', 'immigres-aides'],
+    ];
+    const GENERIQUE = /j’aimerais comprendre ton point de vue|Avant de te répondre|reconnaître ses émotions|faire preuve d’empathie/i;
+    const lancer = async (t, mode, depuisAccueil) => {
+      await page.goto(`${s.base}/#/${depuisAccueil ? '' : 'express'}`);
+      await page.locator(`[data-express-mode="${mode}"]`).first().click();
+      await page.locator(depuisAccueil ? '#express-mini-text' : '#express-text').fill(t);
+      await page.getByRole('button', { name: 'Sortir une réplique' }).click();
+      await page.locator('.fiche-panel:not([hidden])').waitFor();
+      return page.locator('.fiche-panel:not([hidden])');
+    };
+    for (const [t, id] of CAS) {
+      const vus = {};
+      for (const [mode, accueil] of [['gagner', true], ['gagner', false], ['convaincre', false]]) {
+        const panel = await lancer(t, mode, accueil);
+        assert.equal(await panel.getAttribute('id'), `strat-panel-${mode}`, `${t} : le mode choisi (${mode}) est respecté`);
+        if (id) assert.ok(await page.locator(`.crumb a[href="#/bibliotheque/${id}"]`).count(), `${t} → ${id}`);
+        const titres = await panel.locator('h3.sub-title').allTextContents();
+        assert.equal(titres[0], 'Ce que tu peux répondre', `${t} (${mode}) : la réponse vient en premier`);
+        assert.match(await panel.locator('.prio-label').first().textContent(), /1 · La réponse/);
+        const txt = await panel.innerText();
+        const avantPreuves = txt.slice(0, txt.indexOf('Source :'));
+        assert.ok(txt.indexOf('Source :') > 0, `${t} (${mode}) : des sources`);
+        assert.doesNotMatch(avantPreuves, GENERIQUE, `${t} (${mode}) : pas de conseil générique avant la réponse et les preuves`);
+        const bas = txt.toLowerCase();
+        assert.ok(bas.indexOf('4 · comment aborder la discussion') > bas.indexOf('2 · les preuves') && bas.indexOf('2 · les preuves') > 0, 'la communication vient en dernier');
+        if (mode === 'gagner') {
+          assert.ok(titres.includes('La riposte qui fait réfléchir'), `${t} : riposte`);
+          assert.ok(!titres.some((x) => /empathie|sans braquer|comprendre son point de vue/i.test(x)), `${t} : pas de bloc empathique en mode gagner (${titres.join(' / ')})`);
+          assert.doesNotMatch(txt, GENERIQUE);
+        } else {
+          assert.ok(titres.includes('Pour l’introduire sans braquer'), `${t} : présentation adaptée`);
+          assert.ok(titres.some((x) => /empathie/i.test(x)), `${t} : version empathique`);
+        }
+        vus[mode] = { sources: await panel.locator('.preuve-src a').count(), titres };
+      }
+      assert.ok(vus.convaincre.sources >= 1 && vus.gagner.sources >= 1, `${t} : les sources restent dans les deux modes`);
+      assert.notDeepEqual(vus.gagner.titres, vus.convaincre.titres, `${t} : les deux modes sont visiblement différents`);
+    }
+    assert.ok((await overflow(page)) <= 1);
     await page.close();
   });
 

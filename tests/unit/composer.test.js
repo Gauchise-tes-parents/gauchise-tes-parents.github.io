@@ -78,17 +78,18 @@ describe('compositeur hors ligne', () => {
     const f = byId('impots-assistanat');
     const a = composer(f, { debat: 'competitif' }, { bibliotheque: lib });
     assert.equal(a.gagner.preuves.length, 1);
-    assert.match(a.gagner.blocs.find((b) => b.type === 'conclusion').texte, /source/);
+    assert.match(a.gagner.blocs.find((b) => b.type === 'riposte').texte, /source/);
     const m = composer(f, { autorite: 'mefiance' }, { bibliotheque: lib });
     assert.ok(m.gagner.preuves.every((p) => /Période/.test(p.methode)));
     assert.ok(m.sources.length >= 2);
     const b = composer(f, { debat: 'susceptible', lien: 'parent' }, { bibliotheque: lib });
     const types = b.convaincre.blocs.map((x) => x.type);
-    assert.ok(types.indexOf('questions') < types.indexOf('preuves'), 'questions avant les faits');
-    assert.match(b.convaincre.blocs.at(-1).texte, /rien entre nous/);
+    // v9 : même en mode empathique, la réponse et les faits viennent d'abord ; les questions servent à les introduire
+    assert.ok(types.indexOf('replique') === 0 && types.indexOf('preuves') < types.indexOf('questions'), 'la réponse et les faits avant la méthode');
+    assert.match(b.convaincre.blocs.find((x) => x.type === 'conclusion' && x.titre === 'Pour conclure').texte, /rien entre nous/);
     const c = composer(f, { debat: 'provocateur' }, { bibliotheque: lib });
     assert.ok(c.plans.gagner.recentrage);
-    assert.match(c.gagner.blocs.find((x) => x.type === 'conclusion').texte, /ceux qui nous écoutent/);
+    assert.match(c.gagner.blocs.find((x) => x.type === 'riposte').texte, /ceux qui nous écoutent/);
   });
 
   test('ancienneté des données toujours signalée', () => {

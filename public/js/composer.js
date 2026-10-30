@@ -271,7 +271,11 @@ export function planifier(fiche, ctx = {}) {
   const candidats = [...e.entrees];
   if (e.concession && (fiche.objections_legitimes?.length || ['plutot_exact', 'trompeur'].includes(fiche.verdict))) candidats.push('concession');
   if (!candidats.length) candidats.push(mode === 'gagner' ? 'fait' : 'question');
-  const entree = pref.find((x) => candidats.includes(x)) || candidats[0];
+  // « gagner » : on entre par le fond (fait, correction, cadre, concession), jamais par une écoute de principe
+  const ENTREES_GAGNER = ['correction', 'fait', 'cadre', 'concession', 'exemple'];
+  const entree = mode === 'gagner'
+    ? (pref.find((x) => candidats.includes(x) && ENTREES_GAGNER.includes(x)) || (fiche.verdict === 'contredit' || fiche.verdict === 'trompeur' ? 'correction' : 'fait'))
+    : (pref.find((x) => candidats.includes(x)) || candidats[0]);
 
   // ton
   const tonPref = mode === 'gagner' ? ['ferme', 'franc', 'neutre', 'pedagogique', 'nuance', 'calme', 'chaleureux'] : ['calme', 'chaleureux', 'pedagogique', 'nuance', 'franc', 'neutre', 'ferme'];
@@ -283,6 +287,7 @@ export function planifier(fiche, ctx = {}) {
   const objs = (fiche.contre_arguments || []).map((o, k) => ({ o, k, s: concerns.reduce((acc, c) => acc + (OBJECTION_RE[c]?.test(o.objection) ? 2 : 0), 0) + (e.objections.includes('serieuse') ? o.reponse.length / 400 : 0) - (vues.has(k) ? 100 : 0) }))
     .sort((a, b) => b.s - a.s || a.k - b.k);
   const objection = objs.length && objs[0].s > -50 ? { ...objs[0].o, index: objs[0].k } : null;
+  const objections = objs.filter((x) => x.s > -50).slice(0, mode === 'gagner' ? 2 : 1).map((x) => ({ ...x.o, index: x.k }));
 
   // questions
   const posees = new Set(ctx.questionsPosees || []);
@@ -293,7 +298,9 @@ export function planifier(fiche, ctx = {}) {
   if (has(p, 'debat', 'hesitant')) pool.push('Qu’est-ce qui te fait hésiter ?');
   if (e.angles.length) pool.push('Qu’est-ce qui compte le plus pour toi dans cette question ?');
   pool.push(...(fiche.questions || []));
-  if (e.inconnu) pool.unshift('Qu’est-ce qui t’amène à penser ça ?');
+  if (e.inconnu && mode === 'convaincre') pool.unshift('Qu’est-ce qui t’amène à penser ça ?');
+  // « gagner » : d'abord les questions qui mettent le raisonnement à l'épreuve (celles de la fiche)
+  if (mode === 'gagner') pool.unshift(...(fiche.questions || []));
   const nbQ = mode === 'convaincre' ? (detail === 'bref' ? 1 : 2) : (e.questionsAvant ? 1 : detail === 'approfondi' ? 1 : 0);
   const restantes = [...new Set(pool)].filter((q) => !posees.has(q));
   const questions = restantes.slice(0, Math.max(nbQ, mode === 'convaincre' ? 1 : 0));
@@ -354,7 +361,7 @@ export function planifier(fiche, ctx = {}) {
 
   return {
     mode, approche, approche_titre: APPROCHES[approche].titre, entree, ton, detail, max_preuves: maxPreuves,
-    preuves, source_avant: preuve(fiche, sourceAvant, true).source, concordantes, objection, questions, question_finale: questionFinale, conclusion,
+    preuves, source_avant: preuve(fiche, sourceAvant, true).source, concordantes, objection, objections, questions, question_finale: questionFinale, conclusion,
     ordre: ordreBlocs, prochaine, incertitudes, hypotheses, pourquoi,
     angles: e.angles, lien: Boolean(e.lienPhrase), public: Boolean(e.publicPhrase), regles_discussion: Boolean(e.regles), apaisement: Boolean(e.apaisement), recentrage: Boolean(e.recentrage),
     scores: Object.fromEntries(Object.entries(sc).map(([k, v]) => [k, { score: Number(v.score.toFixed(2)), disponible: v.disponible, manque: v.manque }])),
@@ -412,24 +419,52 @@ const TONS = {
   assure: 'Ton assuré : affirme les faits avec leur source, sans agressivité.',
 };
 
-function blocs(plan, fiche) {
+// Ordre de présentation (v9) — la réponse avant la méthode :
+//   1. la réponse à l'affirmation et les arguments ; 2. les preuves et ce qu'elles démontrent ;
+//   3. comment présenter l'argument (riposte, objections, entrée) ; 4. les conseils de communication.
+// Les deux modes gardent les mêmes faits et les mêmes sources ; seules la formulation et la partie 3-4 changent.
+// (clés sans chiffre : les contrôles « aucun nombre absent de la fiche » lisent tout le contenu des blocs)
+export const PRIORITES = { reponse: ['1', 'La réponse'], preuves: ['2', 'Les preuves'], presenter: ['3', 'Comment présenter l’argument'], communication: ['4', 'Comment aborder la discussion'] };
+function blocs(plan, fiche, extra = {}) {
   const A = fiche.argumentaires || {};
-  const out = [{ type: 'ton', titre: 'Comment le dire', texte: TONS[plan.ton] || TONS.assure }];
-  for (const b of plan.ordre) {
-    if (b === 'entree') out.push({ type: 'entree', titre: plan.mode === 'gagner' ? 'Pour commencer' : 'Ouvrir la discussion', texte: texteEntree(plan, fiche) });
-    if (b === 'question' && plan.questions.length) out.push({ type: 'questions', titre: plan.mode === 'gagner' ? 'Une question d’abord' : 'Comprendre avant de répondre', items: plan.questions.slice(0, plan.mode === 'gagner' ? 1 : 3) });
-    if (b === 'replique') out.push({ type: 'replique', titre: 'La réponse courte', texte: A.court });
-    if (b === 'recentrage') out.push({ type: 'texte', titre: 'S’il détourne le sujet', texte: 'On parlait de ce point précis ; je te réponds volontiers sur l’autre sujet ensuite.' });
-    if (b === 'preuves') out.push({ type: 'preuves', titre: plan.preuves.length > 1 ? (plan.mode === 'gagner' ? `Les preuves (${plan.preuves.length})` : 'Les faits, un par un') : 'La preuve', items: plan.preuves, concordantes: plan.concordantes });
-    if (b === 'objection' && plan.objection) out.push({ type: 'objection', titre: 'L’objection à anticiper', objection: plan.objection.objection, reponse: plan.objection.reponse });
-    if (b === 'developpement' && plan.detail !== 'bref') out.push({ type: 'developpement', titre: 'Le développement', paragraphes: String(plan.detail === 'approfondi' ? A.detaille : A.moyen || '').split(/\n{2,}/).filter(Boolean) });
-    if (b === 'angle' && plan.angles.length) out.push({ type: 'texte', titre: 'Partir de ce qui compte pour lui', texte: plan.angles.map((a) => ANGLES[a]).join(' ') });
-    if (b === 'reconnaitre' && fiche.objections_legitimes?.length) out.push({ type: 'liste', titre: 'Ce qu’il faut reconnaître', items: fiche.objections_legitimes });
-    if (b === 'empathie') out.push({ type: 'empathie', titre: 'À dire avec empathie', texte: A.empathie });
-    if (b === 'pause') out.push({ type: 'texte', titre: 'Si ça monte', texte: 'On peut en reparler plus tard, tranquillement. Ce n’est pas grave de ne pas être d’accord ce soir.' });
-    if (b === 'conclusion') out.push({ type: 'conclusion', titre: 'Pour conclure', texte: texteConclusion(plan, fiche) });
+  const g = plan.mode === 'gagner';
+  const out = [];
+  const add = (priorite, b) => out.push({ priorite, ...b });
+  const paragraphes = (t) => String(t || '').split(/\n{2,}/).filter(Boolean);
+  // 1 — la réponse
+  add('reponse', { type: 'replique', titre: 'Ce que tu peux répondre', texte: A.court });
+  const dev = paragraphes(plan.detail === 'approfondi' ? A.detaille : A.moyen);
+  if (dev.length && (plan.detail !== 'bref' || !g)) add('reponse', { type: 'developpement', titre: 'Les arguments solides', paragraphes: dev });
+  // 2 — les preuves, chacune avec ce qu'elle démontre
+  if (plan.preuves.length) add('preuves', { type: 'preuves', titre: plan.preuves.length > 1 ? `Les preuves et les sources (${plan.preuves.length})` : 'La preuve et sa source', items: plan.preuves, concordantes: plan.concordantes });
+  // 3 — présenter l'argument
+  if (g) {
+    // la formule propre à l'argument repéré, sinon la conclusion choisie selon le profil (public, charge de la preuve…)
+    const finale = texteConclusion({ ...plan, conclusion: plan.conclusion === 'synthese' ? 'demande_preuve' : plan.conclusion }, fiche);
+    add('presenter', { type: 'riposte', titre: 'La riposte qui fait réfléchir', texte: extra.formule || finale, question: plan.questions[0] || null });
+    // conclusion propre au profil (public, charge de la preuve) : seulement si le profil l'a demandée
+    if (extra.formule && ['public', 'demande_preuve'].includes(plan.conclusion)) add('presenter', { type: 'conclusion', titre: 'Pour conclure', texte: finale });
+    for (const o of plan.objections) add('presenter', { type: 'objection', titre: 'S’il te répond ceci', objection: o.objection, reponse: o.reponse });
+    add('presenter', { type: 'entree', titre: 'Pour lancer l’argument', texte: texteEntree(plan, fiche) });
+    if (plan.recentrage) add('presenter', { type: 'texte', titre: 'S’il détourne le sujet', texte: 'On parlait de ce point précis ; je te réponds volontiers sur l’autre sujet ensuite.' });
+  } else {
+    add('presenter', { type: 'entree', titre: 'Pour l’introduire sans braquer', texte: texteEntree(plan, fiche) });
+    if (plan.questions.length) add('presenter', { type: 'questions', titre: 'Les questions pour comprendre son point de vue', items: plan.questions.slice(0, 3) });
+    if (fiche.objections_legitimes?.length) add('presenter', { type: 'liste', titre: 'Ce qu’il faut reconnaître', items: fiche.objections_legitimes });
+    for (const o of plan.objections) add('presenter', { type: 'objection', titre: 'S’il te répond ceci', objection: o.objection, reponse: o.reponse });
+    if (extra.formule) add('presenter', { type: 'conclusion', titre: 'Une phrase pour faire réfléchir', texte: extra.formule });
   }
-  if (plan.regles_discussion) out.push({ type: 'texte', titre: 'Une règle pour la discussion', texte: 'On est plusieurs : je propose que chacun termine sa phrase, et qu’on essaie de comprendre l’autre position avant de répondre.' });
+  // 4 — communication, selon le mode
+  add('communication', { type: 'ton', titre: 'Le ton', texte: TONS[plan.ton] || TONS.assure });
+  if (g) {
+    add('communication', { type: 'texte', titre: 'Pour ne pas te disperser', texte: 'Un argument à la fois, une source pour chaque chiffre ; s’il change de sujet, ramène-le au point de départ.' });
+  } else {
+    if (plan.angles.length) add('communication', { type: 'texte', titre: 'Partir de ce qui compte pour lui', texte: plan.angles.map((a) => ANGLES[a]).join(' ') });
+    if (A.empathie) add('communication', { type: 'empathie', titre: 'La même réponse, dite avec empathie', texte: A.empathie });
+    add('communication', { type: 'conclusion', titre: 'Pour conclure', texte: texteConclusion(plan, fiche) });
+    if (plan.apaisement) add('communication', { type: 'texte', titre: 'Si ça monte', texte: 'On peut en reparler plus tard, tranquillement. Ce n’est pas grave de ne pas être d’accord ce soir.' });
+  }
+  if (plan.regles_discussion) add('communication', { type: 'texte', titre: 'Une règle pour la discussion', texte: 'On est plusieurs : je propose que chacun termine sa phrase, et qu’on essaie de comprendre l’autre position avant de répondre.' });
   return out;
 }
 
@@ -491,8 +526,8 @@ export function composer(fiche, profil, options = {}) {
     version_solide: versionSolide(fiche),
     regles: regles.map((r) => ({ id: r.id, titre: r.titre, consigne: r.consigne, fiche: r.fiche, fondement: r.fondement })),
     plans: { gagner: pg, convaincre: pc },
-    gagner: { blocs: blocs(pg, fiche), replique: fiche.argumentaires?.court, preuves: pg.preuves },
-    convaincre: { blocs: blocs(pc, fiche), empathie: fiche.argumentaires?.empathie, faits_progressifs: pc.preuves },
+    gagner: { blocs: blocs(pg, fiche, { formule: options.formules?.gagner }), replique: fiche.argumentaires?.court, preuves: pg.preuves },
+    convaincre: { blocs: blocs(pc, fiche, { formule: options.formules?.convaincre }), empathie: fiche.argumentaires?.empathie, faits_progressifs: pc.preuves },
     approches: comparerApproches(fiche, ctx),
     sources: pg.concordantes || pc.concordantes ? consulted.map((x) => ({ titre: x.titre, organisme: x.organisme, date: x.date_publication, url: x.url, type: x.type || null })) : null,
     objections: fiche.contre_arguments || [],
