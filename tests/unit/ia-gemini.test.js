@@ -194,6 +194,30 @@ describe('IA Gemini — erreurs, quotas, abus, confidentialité', () => {
     assert.equal((await appel([reponseGemini('Je ne peux pas répondre en JSON.')])).d.code, 'vide');
     assert.equal(classerErreur(500, {}), 'service');
   });
+  test('quota nul (sans facturation) : un seul nouvel essai sans recherche, puis le modèle de secours ; message de Google transmis', async () => {
+    const zero = { status: 429, body: { error: { status: 'RESOURCE_EXHAUSTED', message: 'Quota exceeded for metric: generate_content_free_tier_requests, limit: 0. See https://ai.google.dev/rate-limits' } } };
+    // 1) sans recherche, ça passe
+    let f = simuler([zero, reponseGemini(OBJ, { grounding: false })]);
+    let r = await createHandler({ fiches: FICHES, fetchImpl: f, cache: null, journal: journal() })(req({ question: 'Il y a des millions de fausses cartes Vitale.', mode: 'gagner' }), ENV);
+    let d = await r.json();
+    assert.equal(r.status, 200); assert.equal(f.appels.length, 2);
+    assert.ok(f.appels[0].body.tools && !f.appels[1].body.tools, '2e essai sans recherche');
+    assert.equal(d.origine.ia.solution_de_secours, true); assert.equal(d.origine.recherche.effectuee, false);
+    // 2) modèle principal refusé : modèle de secours
+    f = simuler([zero, zero, reponseGemini(OBJ, { grounding: false })]);
+    d = await (await createHandler({ fiches: FICHES, fetchImpl: f, cache: null, journal: journal() })(req({ question: 'Il y a des millions de fausses cartes Vitale.', mode: 'gagner' }), { ...ENV, GEMINI_MODELES_SECOURS: 'gemini-secours' })).json();
+    assert.equal(f.appels.length, 3); assert.match(f.appels[2].url, /gemini-secours:generateContent/); assert.equal(d.origine.ia.modele, 'gemini-secours');
+    // 3) tout est refusé : au plus 3 appels, code « quota », message de Google sans lien
+    f = simuler([zero]);
+    r = await createHandler({ fiches: FICHES, fetchImpl: f, cache: null, journal: journal() })(req({ question: 'Il y a des millions de fausses cartes Vitale.', mode: 'gagner' }), ENV);
+    d = await r.json();
+    assert.equal(f.appels.length, 3); assert.equal(d.code, 'quota'); assert.match(d.detail, /limit: 0/); assert.ok(!/https?:/.test(d.detail));
+    assert.match(d.erreur, /facturation/);
+    // 4) une erreur qui n'est pas de quota n'entraîne aucun nouvel essai
+    f = simuler([{ status: 403, body: { error: { status: 'PERMISSION_DENIED', message: 'API key not valid' } } }]);
+    await createHandler({ fiches: FICHES, fetchImpl: f, cache: null, journal: journal() })(req({ question: 'Il y a des millions de fausses cartes Vitale.', mode: 'gagner' }), ENV);
+    assert.equal(f.appels.length, 1);
+  });
   test('entrées contrôlées : question vide ou trop longue, corps trop gros, mauvais format', async () => {
     assert.equal((await appel([], ENV, { question: '', mode: 'gagner' })).status, 400);
     assert.equal((await appel([], ENV, { question: 'x'.repeat(601), mode: 'gagner' })).status, 400);

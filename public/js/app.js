@@ -1235,7 +1235,7 @@ async function iaLancer({ mode = iaEtat.mode, variante = null, relance = false }
   try {
     iaEtat.data = await api.ia({ question: iaEtat.question, mode, variante, relance, contexte: iaContexte() });
   } catch (e) {
-    iaEtat.erreur = { message: e.message, code: e.data?.code || (e.status ? `http-${e.status}` : 'reseau'), relancer: e.data?.relancer !== false && e.status !== 503 };
+    iaEtat.erreur = { message: e.message, code: e.data?.code || (e.status ? `http-${e.status}` : 'reseau'), detail: e.data?.detail || '', relancer: e.data?.relancer !== false && e.status !== 503 };
   } finally {
     iaEtat.charge = false;
     iaRafraichir();
@@ -1282,14 +1282,14 @@ function iaHtml() {
   const boutons = (liste) => `<div class="btn-row ia-actions">${liste.map(([act, label, extra = '']) => `<button type="button" class="btn btn-secondary btn-small" data-ia="${act}" ${extra} ${iaEtat.charge ? 'disabled' : ''}>${h(label)}</button>`).join('')}</div>`;
   const origine = d ? `<ul class="ia-origine">
       ${d.origine.bibliotheque.length ? `<li class="ia-badge ia-badge--kb">Bibliothèque : ${d.origine.bibliotheque.map((f) => `<a href="#/bibliotheque/${h(f.id)}">« ${h(f.affirmation)} »</a>`).join(', ')}</li>` : '<li class="ia-badge">Aucune fiche de la bibliothèque sur ce sujet</li>'}
-      <li class="ia-badge ia-badge--ia">Rédigé par Gemini${d.origine.ia.modele ? ` (${h(d.origine.ia.modele)})` : ''}</li>
+      <li class="ia-badge ia-badge--ia">Rédigé par Gemini${d.origine.ia.modele ? ` (${h(d.origine.ia.modele)}${d.origine.ia.solution_de_secours ? ', solution de secours' : ''})` : ''}</li>
       <li class="ia-badge ${d.origine.recherche.effectuee ? 'ia-badge--web' : ''}">${d.origine.recherche.effectuee ? `Recherche Google effectuée${d.origine.recherche.requetes.length ? ` : ${d.origine.recherche.requetes.map((q) => `« ${h(q)} »`).join(', ')}` : ''}` : 'Sans recherche externe : rien n’a été vérifié en temps réel'}</li>
     </ul>` : '';
   return `<section class="block ia-block" id="ia-block" aria-labelledby="ia-title" aria-busy="${iaEtat.charge}">
     <h2 id="ia-title" class="block-title">Réponse de l’IA${d ? ` · ${h(IA_MODES[d.mode] || '')}${d.variante === 'plus_court' ? ' · version courte' : d.variante === 'plus_percutant' ? ' · version percutante' : ''}` : ''}</h2>
     <p class="privacy-note">🔒 Ta phrase est envoyée à notre serveur puis à Google (Gemini) seulement quand une réponse de l’IA est demandée. Elle n’est pas conservée par le site.</p>
     ${iaEtat.charge ? `<p class="ia-chargement" role="status"><span class="ia-point" aria-hidden="true"></span> Gemini prépare la réponse (${h(IA_MODES[iaEtat.mode] || '')})…</p>` : ''}
-    ${iaEtat.erreur ? `<div class="error-box" role="alert"><p>${h(iaEtat.erreur.message)}</p><p class="hint">Code technique : ${h(iaEtat.erreur.code)}</p>${boutons([['relancer', 'Relancer']])}</div>` : ''}
+    ${iaEtat.erreur ? `<div class="error-box" role="alert"><p>${h(iaEtat.erreur.message)}</p><p class="hint">Code technique : ${h(iaEtat.erreur.code)}${iaEtat.erreur.detail ? ` — message de Google : « ${h(iaEtat.erreur.detail)} »` : ''}</p>${boutons([['relancer', 'Relancer']])}</div>` : ''}
     ${!d && !iaEtat.charge && !iaEtat.erreur ? `<p>${location.hash === '#/introuvable' ? 'La bibliothèque n’a pas de fiche sur ce point. L’IA peut répondre en approfondissant le sujet :' : 'La bibliothèque a répondu ci-dessus. L’IA peut adapter la réponse à ta question exacte et la compléter :'}</p>${boutons([['express', 'Coup express'], ['gagner', 'Gagner le débat'], ['convaincre', 'Convaincre avec empathie'], ['approfondir', 'Approfondir']])}` : ''}
     ${d ? `${origine}${d.tronquee ? '<p class="notice notice--soft">La réponse a été coupée (longueur maximale atteinte) : demande une version plus courte.</p>' : ''}<div class="ia-contenu">${iaContenu(d)}</div>${iaSources(d)}
       ${boutons([['relancer', 'Relancer'], ['plus_court', 'Plus court'], ['plus_percutant', 'Plus percutant'], ['approfondir', 'Approfondir'], ...(d.mode !== 'express' ? [['express', 'Coup express']] : []), ...(d.mode !== 'convaincre' ? [['convaincre', 'Version empathie']] : [])])}

@@ -19,6 +19,8 @@ command = "node scripts/build-worker-kb.js"
 GEMINI_MODEL = "gemini-3.8-flash"
 # Recherche Google (« grounding ») : "1" activée, "0" désactivée
 GEMINI_RECHERCHE = "1"
+# Modèles de secours (séparés par des virgules), essayés seulement si le modèle principal est refusé (quota, modèle absent)
+GEMINI_MODELES_SECOURS = "gemini-2.5-flash"
 GEMINI_TIMEOUT_MS = "45000"
 # Seuls ces sites peuvent appeler le backend depuis un navigateur (séparés par des virgules)
 ALLOWED_ORIGINS = "https://gauchise-tes-parents.github.io"

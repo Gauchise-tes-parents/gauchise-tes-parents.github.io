@@ -26,7 +26,7 @@ function cors(req, env) {
   return ok ? { 'access-control-allow-origin': o, 'access-control-allow-methods': 'GET, POST, OPTIONS', 'access-control-allow-headers': 'content-type', 'access-control-max-age': '86400', vary: 'Origin' } : { vary: 'Origin' };
 }
 const json = (req, env, status, body, extra = {}) => new Response(JSON.stringify(body), { status, headers: { ...ENTETES, ...cors(req, env), ...extra } });
-const erreur = (req, env, e) => json(req, env, e.status || 500, { erreur: e.message, code: e.code || 'erreur', relancer: ['delai', 'reseau', 'service', 'vide', 'frequence'].includes(e.code) }, e.extra?.apres ? { 'retry-after': String(e.extra.apres) } : {});
+const erreur = (req, env, e) => json(req, env, e.status || 500, { erreur: e.message, code: e.code || 'erreur', ...(e.extra?.detail ? { detail: e.extra.detail } : {}), relancer: ['delai', 'reseau', 'service', 'vide', 'frequence'].includes(e.code) }, e.extra?.apres ? { 'retry-after': String(e.extra.apres) } : {});
 
 async function lireCorps(req) {
   if (!(req.headers.get('content-type') || '').includes('application/json')) throw new IaError('format', 'Format attendu : JSON.', 415);
@@ -107,7 +107,7 @@ export function createHandler({ fiches, fetchImpl, cache = (typeof caches !== 'u
         analyse: { themes: analyse.arguments.map((a) => a.label).filter(Boolean), domaines: (analyse.domaines || []).map((x) => x.label) },
         origine: {
           bibliotheque: choisies.map((f) => ({ id: f.id, affirmation: f.affirmation })),
-          ia: { fournisseur: 'gemini', modele: sortie.modele },
+          ia: { fournisseur: 'gemini', modele: sortie.modele, solution_de_secours: Boolean(sortie.secours) },
           recherche: { effectuee: sortie.recherche.pages.length > 0 || sortie.recherche.requetes.length > 0, requetes: sortie.recherche.requetes },
         },
         reponse: lu.reponse,
