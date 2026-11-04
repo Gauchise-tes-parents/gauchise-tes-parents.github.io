@@ -1261,7 +1261,7 @@ function iaSources(d) {
 }
 function iaHtml() {
   if (!iaEtat.statut?.configure || !iaEtat.question) return '';
-  if (!iaDispo()) return `<section class="block ia-block" id="ia-block"><p class="hint">L’intelligence artificielle n’est pas disponible pour le moment${iaEtat.statut?.injoignable ? ' (serveur injoignable)' : ' (pas encore configurée côté serveur)'}. La bibliothèque reste utilisable.</p></section>`;
+  if (!iaDispo()) return `<section class="block ia-block" id="ia-block"><p class="hint">L’intelligence artificielle ne répond pas pour le moment${iaEtat.statut?.injoignable ? ' (serveur injoignable : connexion coupée ou ancienne version du site en mémoire)' : ' (pas encore configurée côté serveur)'}. La bibliothèque reste utilisable.</p><div class="btn-row"><button type="button" class="btn btn-secondary btn-small" data-ia="reessayer">Réessayer</button></div></section>`;
   const d = iaEtat.data;
   const boutons = (liste) => `<div class="btn-row ia-actions">${liste.map(([act, label, extra = '']) => `<button type="button" class="btn btn-secondary btn-small" data-ia="${act}" ${extra} ${iaEtat.charge ? 'disabled' : ''}>${h(label)}</button>`).join('')}</div>`;
   const origine = d ? `<ul class="ia-origine">
@@ -1285,6 +1285,10 @@ document.addEventListener('click', (ev) => {
   if (!b) return;
   const act = b.dataset.ia;
   const courant = iaEtat.data?.mode || iaEtat.mode;
+  if (act === 'reessayer') {
+    api.iaStatut().then((st) => { iaEtat.statut = st; if (iaDispo() && !iaEtat.data && location.hash === '#/introuvable') iaAuto(); else iaRafraichir(); });
+    return;
+  }
   if (act === 'relancer') iaLancer({ mode: courant, variante: iaEtat.data?.variante || null, relance: Boolean(iaEtat.data) });
   else if (act === 'plus_court' || act === 'plus_percutant') iaLancer({ mode: courant, variante: act });
   else if (IA_MODES[act]) iaLancer({ mode: act });
@@ -2403,6 +2407,10 @@ async function init() {
   $('#footer-support').innerHTML = supportCard('main', '-footer');
   // Hors-ligne : le service worker garde l'interface et la base (indisponible en fichier local ou en aperçu).
   if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol) && !api.isStatic) {
+    // Une nouvelle version du site a pris le relais (mise à jour) : on recharge une fois pour l'afficher.
+    const avaitUneVersion = Boolean(navigator.serviceWorker.controller);
+    let recharge = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => { if (avaitUneVersion && !recharge) { recharge = true; location.reload(); } });
     navigator.serviceWorker.register('sw.js').catch(() => { /* navigateur sans service worker : l'application marche en ligne */ });
   }
   await kb.load().catch(() => { /* la page « Mode » explique comment charger la base */ });

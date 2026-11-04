@@ -1,5 +1,7 @@
 // Service worker du mode autonome : l'interface et la base de connaissances restent disponibles sans Internet
 // après une première visite. Les appels /api/ (recherche web, stratégie IA) ne sont JAMAIS mis en cache.
+// Version du service worker : la changer force les navigateurs à installer le nouveau (v13.1 : réseau d'abord).
+const SW_VERSION = '13.1';
 const SHELL = 'gtp-shell-';
 const KB_CACHE = 'gtp-kb';
 
@@ -49,12 +51,20 @@ self.addEventListener('fetch', (event) => {
     event.respondWith(fetch(event.request).catch(() => caches.open(KB_CACHE).then((c) => c.match('kb/manifest.json')).then((r) => r || new Response('{}', { headers: { 'content-type': 'application/json' } }))));
     return;
   }
+  // Réseau d'abord : en ligne, on reçoit toujours la dernière version du site (page, configuration, scripts) ;
+  // la copie locale ne sert qu'hors ligne. Chaque réponse fraîche met à jour la copie locale.
   event.respondWith((async () => {
-    const cached = await caches.match(event.request, { ignoreSearch: true });
-    if (cached) return cached;
     try {
-      return await fetch(event.request);
+      const res = await fetch(event.request, { cache: 'no-cache' });
+      if (res.ok && res.type === 'basic') {
+        const copie = res.clone();
+        caches.keys().then((keys) => keys.filter((k) => k.startsWith(SHELL)).sort().pop())
+          .then((nom) => nom && caches.open(nom)).then((c) => c && c.put(event.request, copie)).catch(() => {});
+      }
+      return res;
     } catch {
+      const cached = await caches.match(event.request, { ignoreSearch: true });
+      if (cached) return cached;
       // Navigation hors ligne : on renvoie l'application (routage par #).
       if (event.request.mode === 'navigate') return (await caches.match('index.html')) || (await caches.match('./'));
       throw new Error('hors ligne');
