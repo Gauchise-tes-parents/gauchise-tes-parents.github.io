@@ -1,7 +1,7 @@
 // Service worker du mode autonome : l'interface et la base de connaissances restent disponibles sans Internet
 // après une première visite. Les appels /api/ (recherche web, stratégie IA) ne sont JAMAIS mis en cache.
 // Version du service worker : la changer force les navigateurs à installer le nouveau (v13.1 : réseau d'abord).
-const SW_VERSION = '13.1';
+const SW_VERSION = '13.2';
 const SHELL = 'gtp-shell-';
 const KB_CACHE = 'gtp-kb';
 
@@ -11,8 +11,11 @@ async function assetList() {
   return res.json();
 }
 
+// Remplacement d'une version déjà installée ? (noté à l'installation, relu à l'activation)
+const META = 'gtp-meta';
 self.addEventListener('install', (event) => {
   event.waitUntil((async () => {
+    if (self.registration.active) await (await caches.open(META)).put('remplacement', new Response('1'));
     const { version, fichiers } = await assetList();
     const cache = await caches.open(SHELL + version);
     await cache.addAll(fichiers);
@@ -29,10 +32,18 @@ self.addEventListener('install', (event) => {
 self.addEventListener('activate', (event) => {
   event.waitUntil((async () => {
     const { version } = await assetList().catch(() => ({ version: null }));
+    const meta = await caches.open(META);
+    let ancienne = Boolean(await meta.match('remplacement'));
+    await meta.delete('remplacement');
     if (version) {
-      for (const key of await caches.keys()) if (key.startsWith(SHELL) && key !== SHELL + version) await caches.delete(key);
+      for (const key of await caches.keys()) if (key.startsWith(SHELL) && key !== SHELL + version) { ancienne = true; await caches.delete(key); }
     }
     await self.clients.claim();
+    // Mise à jour d'une version déjà installée : les pages encore ouvertes sur l'ancienne version sont rechargées
+    // d'office (elles ne savent pas forcément se mettre à jour seules). Rien ne se passe à la première installation.
+    if (ancienne) {
+      for (const client of await self.clients.matchAll({ type: 'window' })) client.navigate(client.url).catch(() => {});
+    }
   })());
 });
 
@@ -47,6 +58,7 @@ self.addEventListener('fetch', (event) => {
     event.respondWith(caches.open(KB_CACHE).then((c) => c.match('kb/base.json')).then((r) => r || fetch(event.request)));
     return;
   }
+  if (path === 'version.json') return; // toujours le réseau : sert à détecter une nouvelle publication
   if (path === 'kb/manifest.json' || path === 'asset-manifest.json') {
     event.respondWith(fetch(event.request).catch(() => caches.open(KB_CACHE).then((c) => c.match('kb/manifest.json')).then((r) => r || new Response('{}', { headers: { 'content-type': 'application/json' } }))));
     return;

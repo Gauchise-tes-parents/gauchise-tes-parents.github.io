@@ -41,7 +41,7 @@ describe('interface — IA Gemini (simulée) et confidentialité', { skip }, () 
   });
   after(async () => { await browser?.close(); await s?.close(); });
 
-  async function page({ ia = true } = {}) {
+  async function page({ ia = true, statutKo = false } = {}) {
     const ctx = await browser.newContext({ viewport: PHONE, isMobile: true, hasTouch: true, reducedMotion: 'reduce', serviceWorkers: 'block' });
     await ctx.addInitScript(() => { if (!localStorage.getItem('gtp-donnees-v1')) localStorage.setItem('gtp-donnees-v1', JSON.stringify({ reglages: { mode: 'autonome', majAuto: false } })); });
     const p = await ctx.newPage();
@@ -56,8 +56,11 @@ describe('interface — IA Gemini (simulée) et confidentialité', { skip }, () 
       const env = { GEMINI_API_KEY: 'cle-test', GEMINI_MODEL: 'gemini-test', ALLOWED_ORIGINS: s.base, LIMITE_PAR_VISITEUR: '100' };
       // le site déclare un backend IA à la même origine ; ses requêtes sont servies par le vrai gestionnaire du Worker
       await p.route('**/config.js', (r) => r.fulfill({ contentType: 'text/javascript', body: `window.GTP_CONFIG = { apiBase: null, iaBase: ${JSON.stringify(s.base)} };` }));
+      let statutsRefuses = statutKo ? 1 : 0;
       await p.route('**/api/ia**', async (r) => {
         const req = r.request();
+        // simule un premier contrôle raté (serveur pas encore prêt) : le site doit revérifier au lieu de renoncer
+        if (req.url().endsWith('/api/ia/statut') && statutsRefuses > 0) { statutsRefuses -= 1; await r.fulfill({ status: 200, contentType: 'application/json', body: JSON.stringify({ disponible: false }) }); return; }
         const res = await handler(new Request(req.url(), { method: req.method(), headers: { ...req.headers(), origin: s.base }, body: req.method() === 'POST' ? req.postData() : undefined }), env);
         await r.fulfill({ status: res.status, headers: Object.fromEntries(res.headers), body: await res.text() });
       });
@@ -92,6 +95,14 @@ describe('interface — IA Gemini (simulée) et confidentialité', { skip }, () 
     assert.equal(g.appels.length, 2);
     assert.match(g.appels[1].systemInstruction.parts[0].text, /PLUS COURTE/);
     assert.ok((await p.evaluate(() => document.documentElement.scrollWidth - window.innerWidth)) <= 1);
+    await p.context().close();
+  });
+
+  test('premier contrôle de l’IA raté : le site revérifie tout seul et répond quand même', async () => {
+    const p = await page({ statutKo: true });
+    await express(p, 'Le prix du pain au Moyen Âge était-il régulé ?');
+    await p.locator('.ia-contenu').waitFor();
+    assert.match(await p.locator('#ia-block').innerText(), /Rédigé par Gemini/);
     await p.context().close();
   });
 

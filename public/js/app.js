@@ -1212,13 +1212,24 @@ const iaDispo = () => Boolean(iaEtat.statut?.disponible);
 const IA_STATUTS = { fait: 'Fait établi', estimation: 'Estimation', interpretation: 'Interprétation', opinion: 'Opinion politique', non_verifie: 'Non vérifié' };
 const IA_MODES = { express: 'Coup express', gagner: 'Gagner le débat', convaincre: 'Convaincre avec empathie', approfondir: 'Approfondir' };
 function iaPreparer(question, mode) { Object.assign(iaEtat, { question, mode, data: null, erreur: null, charge: false }); }
-function iaAuto() { if (iaDispo() && iaEtat.question) iaLancer({}); }
+// L'IA n'est jamais déclarée indisponible sur la foi d'un ancien contrôle : on revérifie avant de renoncer.
+async function iaVerifierStatut() {
+  if (!api.iaConfiguree) return false;
+  if (!iaDispo()) { iaEtat.statut = await api.iaStatut(); }
+  return iaDispo();
+}
+function iaAuto() {
+  if (!iaEtat.question) return;
+  if (iaDispo()) { iaLancer({}); return; }
+  if (api.iaConfiguree) iaVerifierStatut().then((ok) => { if (ok && !iaEtat.data && !iaEtat.charge) iaLancer({}); else iaRafraichir(); });
+}
 function iaContexte() {
   const tours = state.compo?.conv?.tours || [];
   return tours.slice(-3).map((t) => String(t.message || '')).filter(Boolean);
 }
 async function iaLancer({ mode = iaEtat.mode, variante = null, relance = false } = {}) {
   if (iaEtat.charge || !iaEtat.question) return;
+  if (!iaDispo() && !(await iaVerifierStatut())) { iaRafraichir(); return; }
   Object.assign(iaEtat, { charge: true, erreur: null, mode });
   iaRafraichir();
   try {
@@ -1260,7 +1271,8 @@ function iaSources(d) {
     ${!b.length && !w.length ? '<p class="notice notice--soft">Aucune source vérifiable n’accompagne cette réponse : ce sont les connaissances du modèle, à vérifier. Rien ici n’est une démonstration documentée.</p>' : ''}`;
 }
 function iaHtml() {
-  if (!iaEtat.statut?.configure || !iaEtat.question) return '';
+  if (!api.iaConfiguree || !iaEtat.question) return '';
+  if (!iaEtat.statut) return `<section class="block ia-block" id="ia-block"><p class="ia-chargement" role="status"><span class="ia-point" aria-hidden="true"></span> Connexion à l’intelligence artificielle…</p></section>`;
   if (!iaDispo()) return `<section class="block ia-block" id="ia-block"><p class="hint">L’intelligence artificielle ne répond pas pour le moment${iaEtat.statut?.injoignable ? ' (serveur injoignable : connexion coupée ou ancienne version du site en mémoire)' : ' (pas encore configurée côté serveur)'}. La bibliothèque reste utilisable.</p><div class="btn-row"><button type="button" class="btn btn-secondary btn-small" data-ia="reessayer">Réessayer</button></div></section>`;
   const d = iaEtat.data;
   const boutons = (liste) => `<div class="btn-row ia-actions">${liste.map(([act, label, extra = '']) => `<button type="button" class="btn btn-secondary btn-small" data-ia="${act}" ${extra} ${iaEtat.charge ? 'disabled' : ''}>${h(label)}</button>`).join('')}</div>`;
@@ -1286,7 +1298,8 @@ document.addEventListener('click', (ev) => {
   const act = b.dataset.ia;
   const courant = iaEtat.data?.mode || iaEtat.mode;
   if (act === 'reessayer') {
-    api.iaStatut().then((st) => { iaEtat.statut = st; if (iaDispo() && !iaEtat.data && location.hash === '#/introuvable') iaAuto(); else iaRafraichir(); });
+    iaEtat.statut = null;
+    iaVerifierStatut().then((ok) => { if (ok && !iaEtat.data && location.hash === '#/introuvable') iaLancer({}); else iaRafraichir(); });
     return;
   }
   if (act === 'relancer') iaLancer({ mode: courant, variante: iaEtat.data?.variante || null, relance: Boolean(iaEtat.data) });
@@ -2401,6 +2414,48 @@ document.addEventListener('keydown', (ev) => {
   selectFicheTab(TAB_IDS[(next + TAB_IDS.length) % TAB_IDS.length], { focus: true });
 });
 
+// ---------------------------------------------------------------- mise à jour automatique (v13.2)
+// Chaque publication porte un identifiant (config.js). Le site compare régulièrement le sien à version.json :
+// s'il est dépassé, il se recharge tout seul, au moment où ça ne dérange pas (changement de page, onglet
+// revenu au premier plan, ou tout de suite si rien n'est en cours de saisie). Aucune action des visiteurs.
+const BUILD = (typeof window !== 'undefined' && window.GTP_CONFIG?.build) || null;
+let majDispo = null;
+async function verifierVersion() {
+  if (!BUILD || api.isStatic || navigator.onLine === false) return false;
+  try {
+    const r = await fetch(`version.json?t=${Date.now()}`, { cache: 'no-store' });
+    if (!r.ok) return false;
+    const v = await r.json();
+    if (v?.build && v.build !== BUILD) { majDispo = v.build; return true; }
+  } catch { /* hors ligne : on garde la version en cours */ }
+  return false;
+}
+function saisieEnCours() {
+  const el = document.activeElement;
+  return Boolean((el && /^(TEXTAREA|INPUT)$/.test(el.tagName) && el.value) || iaEtat.charge || state.compo?.conv?.tours?.length);
+}
+async function appliquerMaj({ force = false } = {}) {
+  if (!majDispo) return;
+  if (!force && saisieEnCours()) return;
+  // garde-fou : une seule tentative par publication et par onglet (jamais de boucle de rechargement)
+  try { if (sessionStorage.getItem('gtp-maj') === majDispo) return; sessionStorage.setItem('gtp-maj', majDispo); } catch { /* sans stockage */ }
+  try { const reg = await navigator.serviceWorker?.getRegistration(); await reg?.update(); } catch { /* sans service worker */ }
+  location.reload();
+}
+function surveillerVersion() {
+  if (!BUILD) return;
+  verifierVersion().then((maj) => { if (maj) appliquerMaj(); });
+  setInterval(() => verifierVersion().then((maj) => { if (maj && document.visibilityState === 'hidden') appliquerMaj(); }), 10 * 60 * 1000);
+  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') verifierVersion().then((maj) => { if (maj) appliquerMaj(); }); });
+  // changement de page : on applique la mise à jour, sauf vers une page de résultat (elle serait perdue au rechargement)
+  let dernierControle = Date.now();
+  window.addEventListener('hashchange', async () => {
+    if (/^#\/(argumentaire|introuvable|resultat|conversation|strategie)/.test(location.hash)) return;
+    if (!majDispo && Date.now() - dernierControle > 60 * 1000) { dernierControle = Date.now(); await verifierVersion(); }
+    if (majDispo) appliquerMaj({ force: !iaEtat.charge });
+  });
+}
+
 // ---------------------------------------------------------------- démarrage
 async function init() {
   $('[data-logo]').innerHTML = LOGO_SVG.replace('<svg ', '<svg aria-hidden="true" focusable="false" ');
@@ -2425,6 +2480,7 @@ async function init() {
   }).catch(() => {});
   updateModePill();
   window.addEventListener('hashchange', render);
+  surveillerVersion();
   await render();
   if (store.reglages().majAuto && navigator.onLine !== false) {
     kb.checkUpdate().then((r) => { if (r.statut === 'mise_a_jour') toast(`Bibliothèque mise à jour : ${r.nb} fiches.`); }).catch(() => {});

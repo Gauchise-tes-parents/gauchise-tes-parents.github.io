@@ -48,7 +48,10 @@ writeFileSync(join(OUT, 'kb', 'veille.json'), JSON.stringify(st.derniere_tentati
   prochaine: null,
   dernier_rapport: st.dernier_rapport,
 } : { statut: 'indisponible' }, null, 2));
-writeFileSync(join(OUT, 'config.js'), `// Généré par scripts/build-static.js\nwindow.GTP_CONFIG = { apiBase: ${apiBase ? JSON.stringify(apiBase) : 'null'}, iaBase: ${iaBase ? JSON.stringify(iaBase) : 'null'} };\n`);
+// Identifiant unique de cette publication : l'application le compare à version.json pour se mettre à jour toute seule
+const build = `${new Date().toISOString().replace(/\D/g, '').slice(0, 14)}-${Math.random().toString(36).slice(2, 8)}`;
+writeFileSync(join(OUT, 'config.js'), `// Généré par scripts/build-static.js\nwindow.GTP_CONFIG = { apiBase: ${apiBase ? JSON.stringify(apiBase) : 'null'}, iaBase: ${iaBase ? JSON.stringify(iaBase) : 'null'}, build: ${JSON.stringify(build)} };\n`);
+writeFileSync(join(OUT, 'version.json'), JSON.stringify({ build }));
 writeFileSync(join(OUT, '.nojekyll'), '');
 writeFileSync(join(OUT, '404.html'), readFileSync(join(OUT, 'index.html')));
 writeFileSync(join(OUT, 'asset-manifest.json'), JSON.stringify(assetManifest(OUT)));
