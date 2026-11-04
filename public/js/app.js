@@ -1235,7 +1235,7 @@ async function iaLancer({ mode = iaEtat.mode, variante = null, relance = false }
   try {
     iaEtat.data = await api.ia({ question: iaEtat.question, mode, variante, relance, contexte: iaContexte() });
   } catch (e) {
-    iaEtat.erreur = { message: e.message, relancer: e.data?.relancer !== false && e.status !== 503 };
+    iaEtat.erreur = { message: e.message, code: e.data?.code || (e.status ? `http-${e.status}` : 'reseau'), relancer: e.data?.relancer !== false && e.status !== 503 };
   } finally {
     iaEtat.charge = false;
     iaRafraichir();
@@ -1285,7 +1285,7 @@ function iaHtml() {
     <h2 id="ia-title" class="block-title">Réponse de l’IA${d ? ` · ${h(IA_MODES[d.mode] || '')}${d.variante === 'plus_court' ? ' · version courte' : d.variante === 'plus_percutant' ? ' · version percutante' : ''}` : ''}</h2>
     <p class="privacy-note">🔒 Ta phrase est envoyée à notre serveur puis à Google (Gemini) seulement quand une réponse de l’IA est demandée. Elle n’est pas conservée par le site.</p>
     ${iaEtat.charge ? `<p class="ia-chargement" role="status"><span class="ia-point" aria-hidden="true"></span> Gemini prépare la réponse (${h(IA_MODES[iaEtat.mode] || '')})…</p>` : ''}
-    ${iaEtat.erreur ? `<div class="error-box" role="alert"><p>${h(iaEtat.erreur.message)}</p>${iaEtat.erreur.relancer ? boutons([['relancer', 'Relancer']]) : ''}</div>` : ''}
+    ${iaEtat.erreur ? `<div class="error-box" role="alert"><p>${h(iaEtat.erreur.message)}</p><p class="hint">Code technique : ${h(iaEtat.erreur.code)}</p>${boutons([['relancer', 'Relancer']])}</div>` : ''}
     ${!d && !iaEtat.charge && !iaEtat.erreur ? `<p>${location.hash === '#/introuvable' ? 'La bibliothèque n’a pas de fiche sur ce point. L’IA peut répondre en approfondissant le sujet :' : 'La bibliothèque a répondu ci-dessus. L’IA peut adapter la réponse à ta question exacte et la compléter :'}</p>${boutons([['express', 'Coup express'], ['gagner', 'Gagner le débat'], ['convaincre', 'Convaincre avec empathie'], ['approfondir', 'Approfondir']])}` : ''}
     ${d ? `${origine}${d.tronquee ? '<p class="notice notice--soft">La réponse a été coupée (longueur maximale atteinte) : demande une version plus courte.</p>' : ''}<div class="ia-contenu">${iaContenu(d)}</div>${iaSources(d)}
       ${boutons([['relancer', 'Relancer'], ['plus_court', 'Plus court'], ['plus_percutant', 'Plus percutant'], ['approfondir', 'Approfondir'], ...(d.mode !== 'express' ? [['express', 'Coup express']] : []), ...(d.mode !== 'convaincre' ? [['convaincre', 'Version empathie']] : [])])}
@@ -1323,6 +1323,8 @@ function domainesHtml(an) {
 
 // v12 : sans fiche, on dit clairement ce qui manque — jamais de recherche simulée ni de fiche voisine présentée comme réponse
 function limiteHtml() {
+  // backend IA configuré : on ne dit jamais « pas actif » (le contrôle de disponibilité peut être encore en cours)
+  if (api.iaConfiguree) return `<div class="limite-box"><p><strong>La bibliothèque vérifiée n’a pas de fiche sur ce point.</strong> La réponse ci-dessus est préparée par l’intelligence artificielle (Gemini) : ses sources et son degré de vérification sont indiqués élément par élément.</p></div>`;
   if (iaDispo()) return `<div class="limite-box"><p><strong>Pas de fiche vérifiée sur ce point.</strong> La réponse de l’intelligence artificielle (Gemini) ci-dessous approfondit le sujet ; ses sources et son degré de vérification sont indiqués élément par élément.</p></div>`;
   if (isLive()) return `<div class="limite-box"><p><strong>Pas de fiche vérifiée sur ce point.</strong> Le mode connecté est disponible : tu peux lancer une recherche web, dont les sources seront affichées et vérifiables.</p></div>`;
   return `<div class="limite-box" role="note"><p><strong>Analyse sans données sourcées.</strong> Ce qui suit décompose la phrase (sujet, sous-entendus, domaines, ce qu’il faudrait vérifier) ; ce n’est pas une démonstration documentée.</p>
@@ -1376,10 +1378,11 @@ function viewPasDansLaBase(payload) {
     <div class="wrap wrap--narrow">
       <div class="claim-bubble"><span class="claim-label">Ta question</span><p>« ${h(payload.affirmation)} »</p></div>
       ${digniteHtml(payload.analyse?.dignite)}
+      ${payload.analyse?.dignite?.length || !api.iaConfiguree ? '' : iaHtml()}
       <article class="verdict-card verdict-card--debat">
         <div class="verdict-mascot">${mascotSvg('search', 'La mascotte cherche dans la bibliothèque', 96)}</div>
         <div class="verdict-body">
-          <h1 class="verdict-h">${payload.analyse?.dignite?.length ? 'Pas un argument : une atteinte à la dignité' : 'Pas de fiche vérifiée sur ce point'}</h1>
+          <h1 class="verdict-h">${payload.analyse?.dignite?.length ? 'Pas un argument : une atteinte à la dignité' : api.iaConfiguree ? 'Ce que dit la bibliothèque' : 'Pas de fiche vérifiée sur ce point'}</h1>
           ${payload.analyse?.dignite?.length ? (() => {
             const ids = new Set(payload.analyse.concepts.filter((c) => c.central).map((c) => c.id));
             const PISTES = { immigration: ['immigration-emploi', 'immigres-aides', 'etrangers-prisons'], islam: ['musulmans-amalgames', 'laicite-loi-1905'], antisemitisme: ['antisemitisme-aujourdhui', 'judeo-bolchevisme-histoire'], mer: ['migrants-mediterranee'] };
@@ -1392,7 +1395,6 @@ function viewPasDansLaBase(payload) {
           ${isLive() ? '<button type="button" class="btn btn-primary" data-action="web-search-local">Lancer une recherche web</button>' : ''}
         </div>
       </article>
-      ${payload.analyse?.dignite?.length ? '' : iaHtml()}
       ${payload.analyse && !payload.analyse.arguments.length && payload.analyse.domaines?.length ? `<section class="block analyse"><h2 class="block-title">Ce que contient la phrase</h2>${domainesHtml(payload.analyse)}</section>` : ''}
       ${payload.analyse?.arguments.length && !(payload.analyse.dignite?.length && payload.analyse.principal?.id === 'non_cartographie') ? analyseHtml(payload.analyse, null, payload.mode === 'convaincre' ? 'convaincre' : 'gagner') : ''}
       ${proches.length && !payload.analyse?.arguments.length ? `<section class="block"><h2 class="block-title">Dans le même volet</h2><div class="fiche-grid">${proches.map((f) => ficheCard(withFresh(f))).join('')}</div></section>` : ''}
