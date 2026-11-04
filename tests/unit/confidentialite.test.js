@@ -55,11 +55,11 @@ describe('audit de confidentialité (v13)', () => {
 
   test('6. aucune clé d’API dans le code du navigateur, la configuration publique ou les fichiers versionnés', () => {
     const cles = /AIza[0-9A-Za-z_-]{30,}|AQ\.[0-9A-Za-z_-]{30,}|sk-ant-api[0-9A-Za-z_-]{20,}|ghp_[0-9A-Za-z]{30,}|github_pat_[0-9A-Za-z_]{30,}/;
-    for (const p of [...NAVIGATEUR, ...fichiers(join(ROOT, 'worker')), ...fichiers(join(ROOT, 'scripts')), ...fichiers(join(ROOT, '.github'))]) {
+    for (const p of [...NAVIGATEUR, ...fichiers(join(ROOT, 'worker')), join(ROOT, 'wrangler.toml'), ...fichiers(join(ROOT, 'scripts')), ...fichiers(join(ROOT, '.github'))]) {
       if (p.endsWith('kb.json')) continue;
       assert.ok(!cles.test(lire(p)), p);
     }
-    assert.ok(!/GEMINI_API_KEY\s*=\s*"[^"]/.test(lire(join(ROOT, 'worker', 'wrangler.toml'))), 'clé dans wrangler.toml');
+    assert.ok(!/GEMINI_API_KEY\s*=\s*"[^"]/.test(lire(join(ROOT, 'wrangler.toml'))), 'clé dans wrangler.toml');
     const gi = lire(join(ROOT, '.gitignore'));
     for (const x of ['.env', 'worker/.dev.vars', 'data/feedback/']) assert.ok(gi.includes(x), `.gitignore : ${x}`);
     assert.match(lire(join(ROOT, 'public', 'config.js')), /iaBase: null/);

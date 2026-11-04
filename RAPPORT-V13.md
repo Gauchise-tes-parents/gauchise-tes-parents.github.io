@@ -30,7 +30,7 @@
 - `worker/src/prompt.js` — consignes par mode.
 - `worker/src/parse.js` — contrôle de la réponse.
 - `worker/src/limits.js` — anti-abus.
-- `worker/src/index.js`, `worker/wrangler.toml`, `worker/README.md` — configuration et guide de mise en service.
+- `worker/src/index.js`, `wrangler.toml` (racine), `worker/README.md` — configuration et guide de mise en service.
 - `scripts/build-worker-kb.js` — intègre la bibliothèque au Worker.
 - `tests/unit/ia-gemini.test.js` (23 tests), `tests/unit/confidentialite.test.js` (12 tests), `tests/e2e/ia-confidentialite.test.js` (4 parcours).
 - `AUDIT-CONFIDENTIALITE.md`, ce rapport.

@@ -31,8 +31,8 @@
     "rapport:v12": "node scripts/rapport-v12.js",
     "audit:coherence": "node scripts/audit-coherence.js --detail",
     "worker:kb": "node scripts/build-worker-kb.js",
-    "worker:dev": "node scripts/build-worker-kb.js && cd worker && npx wrangler dev",
-    "worker:deploy": "node scripts/build-worker-kb.js && cd worker && npx wrangler deploy",
+    "worker:dev": "npx wrangler dev",
+    "worker:deploy": "npx wrangler deploy",
     "test:ia": "node --test tests/unit/ia-gemini.test.js"
   }
 }

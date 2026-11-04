@@ -18,17 +18,25 @@ plafond de dépenses (Google Cloud → *Billing* → *Budgets & alerts*).
 
 ## 1. Créer le Worker (une fois)
 
-Il faut Node.js 22 et un compte Cloudflare gratuit.
+**Méthode simple (sans terminal) : Cloudflare relié à GitHub.**
+1. Cloudflare → *Workers & Pages* → *Create* → importer le dépôt GitHub du site. Laisser les réglages par défaut :
+   répertoire racine `/`, commande de déploiement `npx wrangler deploy`. Le fichier `wrangler.toml` à la racine
+   du dépôt dit à Cloudflare quoi construire (il intègre la bibliothèque au Worker avant chaque déploiement).
+   Le nom du Worker dans Cloudflare doit être le même que `name` dans `wrangler.toml` (`gauchise-tes-parents-github-io`).
+2. Dans le Worker : *Settings* → *Variables and Secrets* → *Add* → type **Secret**, nom `GEMINI_API_KEY`,
+   valeur = la NOUVELLE clé Google. Enregistrer (*Deploy*).
+3. Ensuite, chaque modification de la branche `main` redéploie le Worker automatiquement.
+
+**Méthode avec terminal (équivalente)**, depuis la racine du dépôt, avec Node.js 22 :
 
 ```bash
-npm run worker:kb                      # intègre la bibliothèque vérifiée au Worker (worker/src/kb.json)
-cd worker
-npx wrangler login                     # ouvre le navigateur pour te connecter à Cloudflare
-npx wrangler secret put GEMINI_API_KEY # colle la NOUVELLE clé quand c'est demandé (rien ne s'affiche)
-npx wrangler deploy                    # publie ; note l'adresse affichée, ex. https://gauchise-tes-parents-ia.<toi>.workers.dev
+npx wrangler login
+npx wrangler secret put GEMINI_API_KEY   # colle la NOUVELLE clé quand c'est demandé (rien ne s'affiche)
+npx wrangler deploy
 ```
 
 Vérification : ouvre `https://<adresse-du-worker>/api/ia/statut` → tu dois lire `"disponible": true`.
+L'adresse est visible dans Cloudflare (Worker → *Settings* → *Domains & Routes*, adresse en `workers.dev`).
 
 ## 2. Brancher le site sur le Worker
 
@@ -37,7 +45,7 @@ GitHub → dépôt du site → *Settings* → *Secrets and variables* → *Actio
 Puis relance le déploiement (*Actions* → *Publier sur GitHub Pages* → *Run workflow*). La politique de sécurité
 du site autorise alors cette seule adresse.
 
-## 3. Réglages (worker/wrangler.toml, sans toucher au code)
+## 3. Réglages (wrangler.toml à la racine du dépôt, sans toucher au code)
 
 | Variable | Rôle | Valeur par défaut |
 |---|---|---|
@@ -47,7 +55,7 @@ du site autorise alors cette seule adresse.
 | `LIMITE_PAR_VISITEUR` / `FENETRE_MINUTES` | anti-abus par visiteur | 12 demandes / 10 min |
 | `PLAFOND_QUOTIDIEN` | nombre maximal de réponses IA par jour pour tout le site | 800 |
 
-Après une modification : `npm run worker:deploy` (qui réintègre aussi la bibliothèque à jour).
+Après une modification poussée sur GitHub, Cloudflare redéploie tout seul (ou `npx wrangler deploy`).
 
 Recommandé avec beaucoup de trafic :
 - un espace **KV** pour que le plafond quotidien soit commun à toutes les instances (voir la fin de `wrangler.toml`) ;

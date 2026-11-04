@@ -1,9 +1,15 @@
-# Backend IA de « Gauchise tes parents » sur Cloudflare Workers.
-# Déploiement : voir worker/README.md. La clé n'est JAMAIS écrite ici : wrangler secret put GEMINI_API_KEY
-name = "gauchise-tes-parents-ia"
-main = "src/index.js"
+# Backend IA de « Gauchise tes parents » sur Cloudflare Workers (déployé automatiquement par Cloudflare à chaque
+# modification de la branche main, ou à la main avec « npx wrangler deploy » depuis la racine du dépôt).
+# Guide : worker/README.md. La clé n'est JAMAIS écrite ici : elle est un secret (GEMINI_API_KEY) dans Cloudflare.
+# Le nom doit être identique à celui du Worker créé dans le tableau de bord Cloudflare.
+name = "gauchise-tes-parents-github-io"
+main = "worker/src/index.js"
 compatibility_date = "2026-10-01"
 workers_dev = true
+
+# Avant chaque déploiement : intégrer la bibliothèque vérifiée au Worker (worker/src/kb.json)
+[build]
+command = "node scripts/build-worker-kb.js"
 
 [vars]
 # Modèle Gemini : à changer ici sans toucher au code (liste à jour : https://ai.google.dev/gemini-api/docs/models)
