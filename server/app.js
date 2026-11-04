@@ -348,7 +348,8 @@ export function createApp(config, deps = {}) {
         logger.warn?.(`[moteur] ${err.code}`);
         return send(res, err.status, { erreur: err.message, code: err.code, relancer: err.retry });
       }
-      logger.error?.('[serveur] erreur inattendue', err?.message);
+      // jamais le message brut : il pourrait reprendre un extrait de la question ou de la réponse du fournisseur
+      logger.error?.('[serveur] erreur inattendue', err?.name || 'Error', err?.code || '');
       return send(res, 500, { erreur: 'Erreur interne. Réessaie plus tard.', relancer: true });
     } finally {
       if (url?.pathname.startsWith('/api/')) logger.info?.(`${req.method} ${url.pathname} ${res.statusCode} ${Date.now() - started}ms`);

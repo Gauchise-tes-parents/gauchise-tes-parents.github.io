@@ -1,0 +1,25 @@
+# Backend IA de « Gauchise tes parents » sur Cloudflare Workers.
+# Déploiement : voir worker/README.md. La clé n'est JAMAIS écrite ici : wrangler secret put GEMINI_API_KEY
+name = "gauchise-tes-parents-ia"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+[vars]
+# Modèle Gemini : à changer ici sans toucher au code (liste à jour : https://ai.google.dev/gemini-api/docs/models)
+GEMINI_MODEL = "gemini-3.8-flash"
+# Recherche Google (« grounding ») : "1" activée, "0" désactivée
+GEMINI_RECHERCHE = "1"
+GEMINI_TIMEOUT_MS = "45000"
+# Seuls ces sites peuvent appeler le backend depuis un navigateur (séparés par des virgules)
+ALLOWED_ORIGINS = "https://gauchise-tes-parents.github.io"
+# Anti-abus : demandes par visiteur et par fenêtre, plafond global de réponses IA par jour
+LIMITE_PAR_VISITEUR = "12"
+FENETRE_MINUTES = "10"
+PLAFOND_QUOTIDIEN = "800"
+
+# Facultatif mais recommandé : un espace KV rend le plafond quotidien commun à toutes les instances.
+# 1. npx wrangler kv namespace create GTP_KV   2. décommenter et coller l'identifiant obtenu :
+# [[kv_namespaces]]
+# binding = "GTP_KV"
+# id = "COLLER_ICI_L_IDENTIFIANT"

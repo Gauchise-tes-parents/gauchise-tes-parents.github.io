@@ -1,6 +1,6 @@
 {
   "name": "gauchise-tes-parents",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "description": "Gauchise tes parents — éducation populaire, fact-checking et dialogue politique assisté par IA.",
   "type": "module",
   "private": true,
@@ -29,6 +29,10 @@
     "test:conversation": "node --test tests/unit/conversation.test.js",
     "fiches:corriger": "node scripts/corrections-v10.js",
     "rapport:v12": "node scripts/rapport-v12.js",
-    "audit:coherence": "node scripts/audit-coherence.js --detail"
+    "audit:coherence": "node scripts/audit-coherence.js --detail",
+    "worker:kb": "node scripts/build-worker-kb.js",
+    "worker:dev": "node scripts/build-worker-kb.js && cd worker && npx wrangler dev",
+    "worker:deploy": "node scripts/build-worker-kb.js && cd worker && npx wrangler deploy",
+    "test:ia": "node --test tests/unit/ia-gemini.test.js"
   }
 }

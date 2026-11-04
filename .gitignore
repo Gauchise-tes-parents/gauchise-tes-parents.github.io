@@ -5,3 +5,6 @@ dist/
 data/updates/
 data/watch/lock
 data/usage/
+worker/src/kb.json
+worker/.wrangler/
+worker/.dev.vars

@@ -83,13 +83,16 @@ export function compareWithFiche(dossier, fiche) {
   };
 }
 
-/** Consigne une proposition de mise à jour (fichier JSONL, sans donnée personnelle). */
-export async function recordProposal(file, comparison, claim) {
+/**
+ * Consigne une proposition de mise à jour (fichier JSONL, sans donnée personnelle).
+ * Confidentialité (v13) : le texte de la question posée n'est JAMAIS enregistré — seulement la fiche concernée
+ * et ce que la recherche a trouvé (sources publiques, verdicts).
+ */
+export async function recordProposal(file, comparison) {
   const entry = {
     date: new Date().toISOString().slice(0, 10),
     statut: 'a_examiner',
     fiche_id: comparison.fiche_id,
-    affirmation_soumise: String(claim).slice(0, 300),
     verdict_fiche: comparison.verdict_fiche,
     verdict_web: comparison.verdict_web,
     nouvelles_sources: comparison.nouvelles_sources,

@@ -16,6 +16,11 @@ Ligne éditoriale assumée de gauche, avec une règle non négociable : aucun fa
 
 ---
 
+## Nouveautés v13
+
+- **IA Gemini** : backend Cloudflare Worker (`worker/`) qui garde la clé `GEMINI_API_KEY` en secret, choisit lui-même les fiches pertinentes de la bibliothèque, appelle Gemini avec la recherche Google, et contrôle la réponse (aucun lien inventé, statut de chaque élément). Mise en service : `worker/README.md`. Tant que `GTP_IA_BASE` n'est pas renseigné, le site fonctionne comme avant, sans IA.
+- **Confidentialité** : aucune géolocalisation, aucun historique automatique, aucune question conservée ni journalisée ; page « Confidentialité et sécurité » ; CSP dans la page statique. Audit : `AUDIT-CONFIDENTIALITE.md`. Rapport : `RAPPORT-V13.md`.
+
 ## Nouveautés v12
 
 - **Les 20 questions fréquentes de la demande reçoivent une vraie réponse** (fiche qui répond au sujet, jamais une fiche voisine), dans les deux modes : `npm run rapport:v12` → `rapports/tests-20-questions.md`.
@@ -227,7 +232,7 @@ Les tests du mode réel utilisent un **service d'IA simulé** (réponses au form
 
 ## Sécurité et confidentialité
 
-Clé uniquement côté serveur ; CSP stricte sans script en ligne ; entrées bornées et listes fermées ; erreurs sans détail technique ; pas de base de données, de cookie ni de traceur ; IP hachées en mémoire pour l'anti-abus ; dossiers d'analyse gardés en mémoire vive quelques heures puis oubliés ; parcours en cours conservé dans le stockage de session du navigateur ; retours sans IP. Politique lisible dans l'application (`#/confidentialite`).
+Clé uniquement côté serveur ; CSP stricte sans script en ligne ; entrées bornées et listes fermées ; erreurs sans détail technique ; pas de base de données, de cookie ni de traceur ; IP hachées en mémoire pour l'anti-abus ; dossiers d'analyse gardés en mémoire vive une heure au plus puis oubliés ; aucune question, conversation ni consultation conservée automatiquement (seuls les choix de parcours restent dans l'onglet) ; aucune géolocalisation ; journaux sans question ni IP ; retours sans IP. Audit complet : `AUDIT-CONFIDENTIALITE.md`. Politique lisible dans l'application (`#/confidentialite`).
 
 ---
 

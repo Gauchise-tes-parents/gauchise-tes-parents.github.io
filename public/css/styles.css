@@ -671,3 +671,33 @@ button.mode-card { cursor: pointer; }
 .limite-box { margin-top: 14px; background: #FFF8E6; border: 2px dashed var(--ink); border-radius: var(--r-card); padding: 10px 14px; font-size: var(--step--1); }
 .limite-box p { margin: 0 0 6px; }
 .limite-box p:last-child { margin-bottom: 0; }
+
+/* ─── v13 : confidentialité ─────────────────────────────────────────────── */
+.privacy-note { font-size: var(--step--1); color: var(--ink-2); margin: 4px 0 10px; }
+.privacy-note a { color: inherit; }
+.privacy-table { width: 100%; border-collapse: collapse; font-size: var(--step--1); }
+.privacy-table th, .privacy-table td { border: 1px solid var(--ink); padding: 6px 8px; text-align: left; vertical-align: top; }
+.privacy-table-wrap { overflow-x: auto; }
+
+/* ─── v13 : réponse de l'IA (Gemini) ────────────────────────────────────── */
+.ia-block { border-top: 3px dashed var(--ink); padding-top: 18px; }
+.ia-origine { list-style: none; padding: 0; margin: 0 0 12px; display: flex; flex-wrap: wrap; gap: 6px; }
+.ia-badge { font-size: .82rem; border: 2px solid var(--ink); border-radius: 999px; padding: 3px 10px; background: #fff; }
+.ia-badge--kb { background: var(--lemon); }
+.ia-badge--ia { background: var(--sky); }
+.ia-badge--web { background: #D9F5DD; }
+.ia-direct { margin-top: 6px; }
+.ia-liste { padding-left: 18px; }
+.ia-liste li { margin-bottom: 6px; }
+.ia-statut { display: inline-block; font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .02em; border-radius: 6px; padding: 1px 6px; margin-right: 4px; border: 1px solid var(--ink); background: #fff; }
+.ia-statut--fait { background: #D9F5DD; }
+.ia-statut--estimation { background: #E6F0FF; }
+.ia-statut--interpretation { background: #FFF1CC; }
+.ia-statut--opinion { background: #F3E3FF; }
+.ia-statut--non_verifie { background: #FFE0CC; }
+.ia-ref { font-size: .78rem; font-weight: 700; }
+.ia-actions { flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+.ia-chargement { display: flex; align-items: center; gap: 8px; font-weight: 600; }
+.ia-point { width: 12px; height: 12px; border-radius: 50%; background: var(--night); animation: ia-pulse 1s ease-in-out infinite; }
+@keyframes ia-pulse { 50% { opacity: .25; transform: scale(.7); } }
+@media (prefers-reduced-motion: reduce) { .ia-point { animation: none; } }

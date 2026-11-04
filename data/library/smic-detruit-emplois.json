@@ -124,12 +124,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "salaires",
-    "cout",
-    "salaire_minimum"
-  ],
   "repond_a": [
     {
       "id": "smic_emploi",
@@ -150,5 +144,11 @@
     "smic",
     "dumping",
     "baisser les salaires"
+  ],
+  "concepts": [
+    "emploi",
+    "salaires",
+    "cout",
+    "salaire_minimum"
   ]
 }

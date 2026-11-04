@@ -49,7 +49,8 @@ export function createAnthropicProvider(config, { fetchImpl = fetch } = {}) {
   async function complete({ model, system, user, tools = null, maxTokens = 4000 }) {
     const toolDefs = [];
     if (tools?.maxSearches) {
-      toolDefs.push({ type: SEARCH_TOOL_TYPE, name: 'web_search', max_uses: tools.maxSearches, user_location: { type: 'approximate', country: 'FR', timezone: 'Europe/Paris' } });
+      // v13 : aucune localisation n'est transmise au moteur de recherche (le périmètre « France » vient du sujet, dans la consigne)
+      toolDefs.push({ type: SEARCH_TOOL_TYPE, name: 'web_search', max_uses: tools.maxSearches });
     }
     if (tools?.maxFetches) {
       toolDefs.push({ type: FETCH_TOOL_TYPE, name: 'web_fetch', max_uses: tools.maxFetches, max_content_tokens: tools.fetchMaxTokens || 12000 });

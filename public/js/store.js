@@ -1,16 +1,19 @@
 // Données locales de l'utilisateur, stockées UNIQUEMENT sur cet appareil (localStorage) :
-// réglages, fiches consultées, argumentaires enregistrés, profils d'interlocuteur facultatifs.
+// réglages, argumentaires que l'utilisateur a choisi d'enregistrer, profils d'interlocuteur facultatifs.
 // Rien n'est envoyé au serveur. Tout est modifiable et supprimable depuis « Mes données ».
+// Confidentialité (v13) : AUCUN historique automatique — les fiches consultées ne sont plus notées.
 const ST_KEY = 'gtp-donnees-v1';
-const ST_LIMITS = { historique: 50, argumentaires: 100, profils: 12 };
+const ST_LIMITS = { argumentaires: 100, profils: 12 };
 
-const stEmpty = () => ({ reglages: { mode: 'autonome', majAuto: true }, historique: [], argumentaires: [], profils: [] });
+const stEmpty = () => ({ reglages: { mode: 'autonome', majAuto: true }, argumentaires: [], profils: [] });
 let stMemory = null;
 
 function stRead() {
   if (stMemory) return stMemory;
   try { stMemory = { ...stEmpty(), ...JSON.parse(localStorage.getItem(ST_KEY) || 'null') }; } catch { stMemory = stEmpty(); }
   stMemory.reglages = { ...stEmpty().reglages, ...(stMemory.reglages || {}) };
+  // purge de l'historique de consultation laissé par les versions précédentes
+  if ('historique' in stMemory) { delete stMemory.historique; stWrite(); }
   return stMemory;
 }
 function stWrite() {
@@ -26,12 +29,6 @@ export const store = {
   reglages: () => stRead().reglages,
   setReglage(k, v) { stRead().reglages[k] = v; return stWrite(); },
 
-  historique: () => stRead().historique,
-  noterConsultation(fiche) {
-    const d = stRead();
-    d.historique = [{ id: fiche.id, affirmation: fiche.affirmation, date: stNow() }, ...d.historique.filter((x) => x.id !== fiche.id)].slice(0, ST_LIMITS.historique);
-    return stWrite();
-  },
 
   argumentaires: () => stRead().argumentaires,
   enregistrerArgumentaire(a) {

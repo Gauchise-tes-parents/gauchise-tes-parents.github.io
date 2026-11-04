@@ -125,10 +125,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "seniors"
-  ],
   "repond_a": [
     {
       "id": "seniors_emploi",
@@ -146,5 +142,9 @@
     "france travail",
     "trop vieux",
     "fin de carriere"
+  ],
+  "concepts": [
+    "emploi",
+    "seniors"
   ]
 }

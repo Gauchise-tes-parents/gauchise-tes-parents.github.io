@@ -134,15 +134,6 @@
       }
     ]
   },
-  "concepts": [
-    "origine",
-    "emploi",
-    "salaires",
-    "prestations",
-    "fiscalite",
-    "cout",
-    "fraude"
-  ],
   "repond_a": [
     {
       "id": "fraude",
@@ -163,5 +154,14 @@
     "smic",
     "dumping",
     "baisser les salaires"
+  ],
+  "concepts": [
+    "origine",
+    "emploi",
+    "salaires",
+    "prestations",
+    "fiscalite",
+    "cout",
+    "fraude"
   ]
 }

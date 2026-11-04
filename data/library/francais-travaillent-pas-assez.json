@@ -133,12 +133,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "salaires",
-    "travail_effort",
-    "temps_travail"
-  ],
   "repond_a": [
     {
       "id": "temps_travail",
@@ -159,5 +153,11 @@
     "smic",
     "dumping",
     "baisser les salaires"
+  ],
+  "concepts": [
+    "emploi",
+    "salaires",
+    "travail_effort",
+    "temps_travail"
   ]
 }

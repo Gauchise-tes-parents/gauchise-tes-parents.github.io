@@ -160,11 +160,12 @@ describe('interface — mode démonstration', { skip }, () => {
     assert.equal(titresC[0], 'Ce que tu peux répondre');
     assert.ok(titresC.includes('Les questions pour comprendre son point de vue'), 'profil susceptible : questions ouvertes');
     assert.ok(await page.locator('a[href="#/bibliotheque/chomeurs-travailler"]').first().isVisible());
-    // les choix survivent à un rechargement de la page (stockage de session)
+    // v13 (confidentialité) : après un rechargement, les choix du parcours restent, mais PAS le texte saisi
     await page.goto(`${s.base}/#/debat`);
     await page.reload();
     await page.locator('#affirmation').waitFor();
-    assert.equal(await page.locator('#affirmation').inputValue(), 'Les chômeurs ne veulent pas travailler.');
+    assert.equal(await page.locator('#affirmation').inputValue(), '', 'le texte saisi n’est pas conservé');
+    assert.ok(!(await page.evaluate(() => JSON.stringify({ ...sessionStorage, ...localStorage }))).includes('chômeurs'), 'aucune trace de la question dans le navigateur');
     await page.close();
   });
 
@@ -383,9 +384,9 @@ describe('interface — mode démonstration', { skip }, () => {
     }
     assert.equal(textes.size, msgs.length, 'aucune proposition répétée');
     assert.match(await page.locator('.conv-etat').textContent(), /11 échanges/);
-    // interruption : rechargement de l'onglet, la conversation reprend où elle en était
-    await page.reload();
-    await page.locator('#conversation').waitFor();
+    // v13 (confidentialité) : la conversation reste en mémoire vive ; rien n'est écrit dans le navigateur
+    const stock = await page.evaluate(() => JSON.stringify({ ...sessionStorage, ...localStorage }));
+    for (const m of msgs.slice(0, 3)) assert.ok(!stock.includes(m.slice(0, 25)), 'aucun message conservé dans le navigateur');
     assert.equal(await page.locator('#conv-fil .conv-tour').count(), 11);
     await page.locator('[data-conv-raccourci="aide"]').click();
     await page.waitForFunction(() => document.querySelectorAll('#conv-fil .conv-tour').length === 12);

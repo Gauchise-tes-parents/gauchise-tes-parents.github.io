@@ -30,6 +30,7 @@ const library = JSON.parse(buildKb(kbLib).json).fiches;
 const icon = `data:image/svg+xml;base64,${Buffer.from(pub('img/icon.svg')).toString('base64')}`;
 
 let html = pub('index.html')
+  .replace(/\s*<meta http-equiv="Content-Security-Policy"[^>]*>/, '') // l'aperçu intègre scripts et styles en ligne
   .replace(/<link rel="manifest"[^>]*>\n?/, '')
   .replace(/<link rel="preload"[^>]*>\n?/, '')
   .replace(/<link rel="icon"[^>]*>/, `<link rel="icon" type="image/svg+xml" href="${icon}">`)

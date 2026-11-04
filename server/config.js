@@ -79,7 +79,7 @@ export function loadConfig(env = null) {
     pricing: Object.keys(pricing).length ? pricing : undefined,
     fallbackPricing: undefined,
     usageFile: env.USAGE_FILE || join(ROOT, 'data', 'usage', 'budget.json'),
-    cacheTtlHours: num(env.CACHE_TTL_HOURS, 12),
+    cacheTtlHours: num(env.CACHE_TTL_HOURS, 1), // v13 : les dossiers ne restent qu'une heure en mémoire vive
     perIpAnalysisLimit: int(env.PER_IP_ANALYSIS_LIMIT, 5),
     perIpStrategyLimit: int(env.PER_IP_STRATEGY_LIMIT, 20),
     // Conversation continue (mode connecté) : limites techniques, jamais un nombre de tours.

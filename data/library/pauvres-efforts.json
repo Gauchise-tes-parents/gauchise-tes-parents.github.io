@@ -144,10 +144,6 @@
       }
     ]
   },
-  "concepts": [
-    "travail_effort",
-    "pauvrete"
-  ],
   "repond_a": [
     {
       "id": "pauvres_efforts",
@@ -160,5 +156,9 @@
     "pauvrete",
     "misere",
     "coutent trop cher"
+  ],
+  "concepts": [
+    "travail_effort",
+    "pauvrete"
   ]
 }

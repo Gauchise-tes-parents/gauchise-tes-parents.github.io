@@ -27,6 +27,8 @@ jobs:
         env:
           # URL https du serveur du mode connecté (facultatif ; vide = mode autonome seul)
           GTP_API_BASE: ${{ vars.GTP_API_BASE }}
+          # URL https du backend IA Gemini (Cloudflare Worker), sans clé : variable de dépôt GTP_IA_BASE
+          GTP_IA_BASE: ${{ vars.GTP_IA_BASE }}
           WATCH_EXTERNAL_SCHEDULE: ${{ vars.WATCH_EXTERNAL_SCHEDULE }}
       - uses: actions/upload-pages-artifact@v3
         with:

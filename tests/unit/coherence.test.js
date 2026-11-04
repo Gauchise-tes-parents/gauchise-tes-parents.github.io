@@ -17,7 +17,9 @@ const estCouverte = (t) => cache.get(t) ?? Boolean(resoudrePhrase(t, lib).fiche)
 // Sous-thèmes encore sans fiche (lacunes documentées dans le rapport, à combler par des fiches sourcées)
 // v12 : « Histoire économique » n'était couverte que par un faux positif (« nationalisations » reconnu comme
 // « nation » et envoyé vers la fiche sur le patriotisme) ; la lacune est désormais annoncée honnêtement.
-const SANS_FICHE = ['Émancipation', 'Institutions françaises', 'Constitution', 'Histoire économique'];
+// v13 : « Libertés publiques » n'était couverte que par un faux positif (« protège les honnêtes gens » reconnu comme
+// « la justice protège les délinquants ») ; corrigé, la lacune est annoncée.
+const SANS_FICHE = ['Émancipation', 'Institutions françaises', 'Constitution', 'Histoire économique', 'Libertés publiques'];
 const PROFILS = [{ inconnu: true }, { faits: 'chiffres', debat: 'competitif' }, { debat: 'susceptible', lien: 'parent', valeurs: ['securite'] }];
 
 describe('cohérence des réponses dans tous les domaines (v11)', () => {

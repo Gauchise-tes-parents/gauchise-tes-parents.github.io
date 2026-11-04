@@ -76,7 +76,7 @@ export function dossierFromFiche(fiche) {
 
 export function createEngine({ config, provider, library = [], ledger, logger = console }) {
   const dossiers = new TtlStore({ ttlMs: config.cacheTtlHours * 3600e3, max: 300 }); // clé de recherche → analyse
-  const analyses = new TtlStore({ ttlMs: Math.max(config.cacheTtlHours, 6) * 3600e3, max: 500 }); // id → analyse
+  const analyses = new TtlStore({ ttlMs: config.cacheTtlHours * 3600e3, max: 500 }); // id → analyse (mémoire vive seulement)
 
   const ensureBudget = (estimate) => {
     if (!ledger.canSpend(estimate)) {
@@ -146,7 +146,7 @@ export function createEngine({ config, provider, library = [], ledger, logger = 
           entry.ficheId = fiche.id;
           entry.comparaison = compareWithFiche(dossier, fiche);
           if (entry.comparaison.mise_a_jour_proposee && config.storeUpdates && config.updatesFile) {
-            await recordProposal(config.updatesFile, entry.comparaison, req.claim).catch((err) => logger.warn?.(`[base] proposition non enregistrée : ${err.message}`));
+            await recordProposal(config.updatesFile, entry.comparaison).catch((err) => logger.warn?.(`[base] proposition non enregistrée : ${err.message}`));
           }
         }
         dossiers.set(key, entry);

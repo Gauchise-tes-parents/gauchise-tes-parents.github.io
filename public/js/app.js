@@ -70,13 +70,21 @@ const state = {
   speech: {},
   compo: null, // argumentaire composé localement : { fiche, profil, vue, session, conv (conversation continue) }
 };
+// Confidentialité (v13) : seuls des choix techniques (objectif, volet, sous-thème, étape) sont gardés dans l'onglet
+// pour survivre à un rechargement. Le texte saisi, le profil de l'interlocuteur et les conversations restent en
+// mémoire vive : ils disparaissent au rechargement ou à la fermeture de l'onglet, et ne sont jamais écrits nulle part.
+const PARCOURS_CHAMPS = ['step', 'mode', 'volet', 'sousTheme', 'contexte'];
+const garder = (o, champs) => Object.fromEntries(champs.filter((k) => o?.[k] !== undefined).map((k) => [k, o[k]]));
 try {
+  // nettoyage des données conservées par les versions précédentes (texte des questions, conversation, consultations)
+  for (const k of ['gtp-conversation', 'gtp-recents']) sessionStorage.removeItem(k);
   const saved = JSON.parse(sessionStorage.getItem('gtp-parcours') || 'null');
-  if (saved?.wizard) Object.assign(state.wizard, saved.wizard);
-  if (saved?.express) Object.assign(state.express, saved.express);
+  if (saved?.wizard) Object.assign(state.wizard, garder(saved.wizard, PARCOURS_CHAMPS));
+  if (saved?.express) Object.assign(state.express, garder(saved.express, ['mode', 'volet']));
+  if (saved?.wizard?.affirmation || saved?.express?.affirmation) persist();
 } catch { /* stockage indisponible : on garde l'état en mémoire */ }
 function persist() {
-  try { sessionStorage.setItem('gtp-parcours', JSON.stringify({ wizard: state.wizard, express: state.express })); } catch { /* ignoré */ }
+  try { sessionStorage.setItem('gtp-parcours', JSON.stringify({ wizard: garder(state.wizard, PARCOURS_CHAMPS), express: garder(state.express, ['mode', 'volet']) })); } catch { /* ignoré */ }
 }
 // Deux modes : « autonome » (aucune connexion nécessaire) et « connecté » (serveur facultatif).
 const appMode = () => store.reglages().mode === 'connecte' ? 'connecte' : 'autonome';
@@ -385,6 +393,7 @@ function wizardBody(w) {
       <textarea id="affirmation" rows="4" maxlength="${LIMITS.claimMax}" placeholder="Écris ici l’affirmation à vérifier…">${h(w.affirmation)}</textarea>
       <span class="field-count" id="aff-count">${w.affirmation.length} / ${LIMITS.claimMax}</span>
     </label>
+    ${transmissionHtml()}
     ${suggestionsHtml('wizard', 'affirmation')}
     <details class="tune" ${w.interlocuteur && !w.interlocuteur.inconnu ? 'open' : ''}>
       <summary>Décrire la personne en face (facultatif)</summary>
@@ -431,6 +440,7 @@ function viewExpress() {
           <select id="express-volet">${VOLETS.map((v) => `<option value="${v.id}" ${e.volet === v.id ? 'selected' : ''}>${h(v.label)}</option>`).join('')}</select></label>
         <label class="field"><span class="field-label">Ce qu’il vient de dire</span>
           <textarea id="express-text" rows="3" maxlength="${LIMITS.claimMax}" placeholder="Écris ou colle l’affirmation…">${h(e.affirmation)}</textarea></label>
+        ${transmissionHtml()}
         ${suggestionsHtml('express', 'express-text')}
         <p class="form-error" id="express-error" role="alert"></p>
         <div class="action-bar"><button type="submit" class="btn btn-go btn-grow">Sortir une réplique</button></div>
@@ -915,30 +925,15 @@ function nouvelleCompo(fiche, { question = null, force = null, profil = null, vu
     session: { utilises: [], objectionsVues: [], questionsPosees: [], retours: [] },
   };
   state.compo.conv = nouvelleConversation(fiche, { mode: state.compo.vue, profil: state.compo.profil, question });
-  sauverConv();
-  try {
-    const r = JSON.parse(sessionStorage.getItem('gtp-recents') || '[]');
-    sessionStorage.setItem('gtp-recents', JSON.stringify([fiche.id, ...r.filter((x) => x !== fiche.id)].slice(0, 8)));
-  } catch { /* sans stockage de session */ }
+  recentsMem = [fiche.id, ...recentsMem.filter((x) => x !== fiche.id)].slice(0, 8);
 }
-// ── Conversation en cours : gardée dans l'onglet (sessionStorage) pour survivre à un rechargement ou à une
-// interruption ; effacée à la fermeture de l'onglet. Rien n'est envoyé ailleurs en mode autonome.
-const CONV_KEY = 'gtp-conversation';
-function sauverConv() {
-  const c = state.compo;
-  if (!c?.conv) return;
-  try { sessionStorage.setItem(CONV_KEY, JSON.stringify({ fiche_id: c.fiche.id, question: c.question, force: c.force, profil: c.profil, vue: c.vue, session: c.session, conv: c.conv })); } catch { /* stockage plein ou refusé : la conversation reste en mémoire */ }
-}
-function restaurerConv(fiches) {
-  try {
-    const d = JSON.parse(sessionStorage.getItem(CONV_KEY) || 'null');
-    const f = d && fiches.find((x) => x.id === d.fiche_id);
-    if (!f || !d.conv) return false;
-    state.compo = { fiche: f, question: d.question, force: d.force, autres: [], profil: nettoyerProfil(d.profil), vue: d.vue === 'convaincre' ? 'convaincre' : 'gagner', session: d.session || { utilises: [], objectionsVues: [], questionsPosees: [], retours: [] }, conv: d.conv };
-    return true;
-  } catch { return false; }
-}
-const recents = () => { try { return JSON.parse(sessionStorage.getItem('gtp-recents') || '[]').slice(1); } catch { return []; } };
+// Fiches déjà proposées pendant cette visite (pour varier les réponses) : en mémoire seulement, jamais stockées.
+let recentsMem = [];
+// ── Conversation en cours : en mémoire vive uniquement (v13). Elle n'est écrite ni dans le navigateur ni sur un
+// serveur ; un rechargement de la page la fait disparaître. Pour la garder, l'utilisateur l'enregistre lui-même.
+function sauverConv() { /* volontairement vide : aucune conservation automatique des conversations */ }
+function restaurerConv() { return false; }
+const recents = () => recentsMem.slice(1);
 
 const srcLink = (s) => (s ? `<a class="src-inline" href="${h(safeUrl(s.url) || '#')}" target="_blank" rel="noopener noreferrer">${h(s.organisme)}, ${h(s.date)}<span class="visually-hidden"> (ouvre un nouvel onglet)</span></a>` : '<span class="fact-warning-inline">(source manquante)</span>');
 
@@ -1034,6 +1029,7 @@ function viewArgumentaire() {
         <div class="fiche-tabs" role="tablist" aria-label="Deux stratégies">${tab('gagner', MODES.gagner.label)}${tab('convaincre', MODES.convaincre.carte)}</div>
         ${panel('gagner')}${panel('convaincre')}
       </section>
+      ${iaHtml()}
       ${c.analyse ? analyseHtml(c.analyse.mode === c.vue ? c.analyse : (c.analyse = analyserPhrase(c.analyse.texte, { bibliotheque: kb.fiches, mode: c.vue })), f.id, c.vue) : ''}
       <p class="offline-badge">Composé à partir de la bibliothèque locale — sans recherche web ni IA.</p>
       ${incert.length ? `<aside class="notice notice--soft" role="note"><p><strong>À garder en tête :</strong></p><ul>${incert.map((x) => `<li>${h(x)}</li>`).join('')}</ul></aside>` : ''}
@@ -1208,6 +1204,99 @@ function refreshCompo() {
 
 // Panneau « Ce que contient la phrase » : arguments repérés (et fiche qui répond à chacun, ou lacune),
 // liens de cause affirmés, émotions possibles, procédés, formule et question, fiches écartées et pourquoi.
+// ---------------------------------------------------------------- IA (Gemini, via le backend Cloudflare Worker)
+// La bibliothèque répond d'abord. L'IA est appelée automatiquement seulement quand la bibliothèque n'a pas de fiche ;
+// sinon, à la demande (un appel par clic, jamais en double). Chaque élément affiche son origine et son statut.
+const iaEtat = { statut: null, charge: false, data: null, erreur: null, question: null, mode: 'gagner' };
+const iaDispo = () => Boolean(iaEtat.statut?.disponible);
+const IA_STATUTS = { fait: 'Fait établi', estimation: 'Estimation', interpretation: 'Interprétation', opinion: 'Opinion politique', non_verifie: 'Non vérifié' };
+const IA_MODES = { express: 'Coup express', gagner: 'Gagner le débat', convaincre: 'Convaincre avec empathie', approfondir: 'Approfondir' };
+function iaPreparer(question, mode) { Object.assign(iaEtat, { question, mode, data: null, erreur: null, charge: false }); }
+function iaAuto() { if (iaDispo() && iaEtat.question) iaLancer({}); }
+function iaContexte() {
+  const tours = state.compo?.conv?.tours || [];
+  return tours.slice(-3).map((t) => String(t.message || '')).filter(Boolean);
+}
+async function iaLancer({ mode = iaEtat.mode, variante = null, relance = false } = {}) {
+  if (iaEtat.charge || !iaEtat.question) return;
+  Object.assign(iaEtat, { charge: true, erreur: null, mode });
+  iaRafraichir();
+  try {
+    iaEtat.data = await api.ia({ question: iaEtat.question, mode, variante, relance, contexte: iaContexte() });
+  } catch (e) {
+    iaEtat.erreur = { message: e.message, relancer: e.data?.relancer !== false && e.status !== 503 };
+  } finally {
+    iaEtat.charge = false;
+    iaRafraichir();
+  }
+}
+function iaRafraichir() { const box = document.getElementById('ia-block'); if (box) box.outerHTML = iaHtml(); }
+const iaRefs = (refs, d) => (refs || []).map((r) => (r === 'WEB' ? '<span class="ia-ref">recherche Google</span>' : `<a class="ia-ref" href="#ia-src-${h(r)}">${h(r)}</a>`)).join(' ');
+const iaStatut = (x) => `<span class="ia-statut ia-statut--${h(x.statut)}">${h(IA_STATUTS[x.statut] || 'Non vérifié')}</span>`;
+function iaContenu(d) {
+  const r = d.reponse;
+  const li = (x) => `<li>${iaStatut(x)} ${h(x.texte)} ${iaRefs(x.sources, d)}</li>`;
+  const bloc = (titre, corps) => (corps ? `<h3 class="sub-title">${h(titre)}</h3>${corps}` : '');
+  const ul = (arr, f) => (arr?.length ? `<ul class="ia-liste">${arr.map(f).join('')}</ul>` : '');
+  return [
+    `<p class="big-q ia-direct">${h(r.reponse_directe)}</p>`,
+    d.mode === 'convaincre' ? bloc('Ce qui peut l’inquiéter', ul(r.inquietudes, (x) => `<li>${h(x)}</li>`)) + bloc('Les valeurs que vous partagez', ul(r.valeurs_communes, (x) => `<li>${h(x)}</li>`)) : '',
+    bloc(d.mode === 'convaincre' ? 'Les explications' : 'Les arguments', ul(r.arguments, li)),
+    bloc('Les chiffres', ul(r.chiffres, (x) => `<li>${iaStatut(x)} <strong>${h(x.valeur)}</strong>${x.contexte ? ` — ${h(x.contexte)}` : ''} ${iaRefs(x.sources, d)}</li>`)),
+    (r.sections || []).map((x) => `<h3 class="sub-title">${h(x.titre)}</h3><p>${iaStatut(x)} ${h(x.texte)} ${iaRefs(x.sources, d)}</p>`).join(''),
+    r.replique ? `<div class="an-phrase"><p class="an-phrase-label">${d.mode === 'convaincre' ? 'Pour ouvrir la discussion' : d.mode === 'express' ? 'La formule' : 'La réplique'}</p><p class="big-q">${h(r.replique)}</p></div>` : '',
+    bloc('Les questions à poser', ul(r.questions, (x) => `<li>${h(x)}</li>`)),
+    bloc('Ce qu’on risque de te répondre', ul(r.contre_arguments, (x) => `<li><strong>« ${h(x.objection)} »</strong> — ${h(x.reponse)}</li>`)),
+    bloc('Les procédés à démasquer', ul(r.procedes, (x) => `<li><strong>${h(x.nom)} :</strong> ${h(x.explication)}</li>`)),
+    r.limites ? `<p class="hint"><strong>Limites :</strong> ${h(r.limites)}</p>` : '',
+  ].join('');
+}
+function iaSources(d) {
+  const b = d.sources?.bibliotheque || [];
+  const w = d.sources?.web || [];
+  return `<h3 class="sub-title">Les sources</h3>
+    ${b.length ? `<p class="hint">Documents de la bibliothèque vérifiée :</p><ul class="ia-liste">${b.map((s) => `<li id="ia-src-${h(s.ref)}"><strong>${h(s.ref)}</strong> — ${h(s.organisme)}, « ${h(s.titre)} » ${s.date ? `(${h(s.date)})` : ''} <a href="${h(safeUrl(s.url) || '#')}" target="_blank" rel="noopener noreferrer">Ouvrir<span class="visually-hidden"> (nouvel onglet)</span></a> · <a href="#/bibliotheque/${h(s.fiche_id)}">fiche</a></li>`).join('')}</ul>` : ''}
+    ${w.length ? `<p class="hint">Pages consultées par la recherche Google (liens fournis par Google) :</p><ul class="ia-liste">${w.map((p) => `<li><a href="${h(safeUrl(p.url) || '#')}" target="_blank" rel="noopener noreferrer">${h(p.titre || 'page consultée')}<span class="visually-hidden"> (nouvel onglet)</span></a></li>`).join('')}</ul>` : ''}
+    ${!b.length && !w.length ? '<p class="notice notice--soft">Aucune source vérifiable n’accompagne cette réponse : ce sont les connaissances du modèle, à vérifier. Rien ici n’est une démonstration documentée.</p>' : ''}`;
+}
+function iaHtml() {
+  if (!iaEtat.statut?.configure || !iaEtat.question) return '';
+  if (!iaDispo()) return `<section class="block ia-block" id="ia-block"><p class="hint">L’intelligence artificielle n’est pas disponible pour le moment${iaEtat.statut?.injoignable ? ' (serveur injoignable)' : ' (pas encore configurée côté serveur)'}. La bibliothèque reste utilisable.</p></section>`;
+  const d = iaEtat.data;
+  const boutons = (liste) => `<div class="btn-row ia-actions">${liste.map(([act, label, extra = '']) => `<button type="button" class="btn btn-secondary btn-small" data-ia="${act}" ${extra} ${iaEtat.charge ? 'disabled' : ''}>${h(label)}</button>`).join('')}</div>`;
+  const origine = d ? `<ul class="ia-origine">
+      ${d.origine.bibliotheque.length ? `<li class="ia-badge ia-badge--kb">Bibliothèque : ${d.origine.bibliotheque.map((f) => `<a href="#/bibliotheque/${h(f.id)}">« ${h(f.affirmation)} »</a>`).join(', ')}</li>` : '<li class="ia-badge">Aucune fiche de la bibliothèque sur ce sujet</li>'}
+      <li class="ia-badge ia-badge--ia">Rédigé par Gemini${d.origine.ia.modele ? ` (${h(d.origine.ia.modele)})` : ''}</li>
+      <li class="ia-badge ${d.origine.recherche.effectuee ? 'ia-badge--web' : ''}">${d.origine.recherche.effectuee ? `Recherche Google effectuée${d.origine.recherche.requetes.length ? ` : ${d.origine.recherche.requetes.map((q) => `« ${h(q)} »`).join(', ')}` : ''}` : 'Sans recherche externe : rien n’a été vérifié en temps réel'}</li>
+    </ul>` : '';
+  return `<section class="block ia-block" id="ia-block" aria-labelledby="ia-title" aria-busy="${iaEtat.charge}">
+    <h2 id="ia-title" class="block-title">Réponse de l’IA${d ? ` · ${h(IA_MODES[d.mode] || '')}${d.variante === 'plus_court' ? ' · version courte' : d.variante === 'plus_percutant' ? ' · version percutante' : ''}` : ''}</h2>
+    <p class="privacy-note">🔒 Ta phrase est envoyée à notre serveur puis à Google (Gemini) seulement quand une réponse de l’IA est demandée. Elle n’est pas conservée par le site.</p>
+    ${iaEtat.charge ? `<p class="ia-chargement" role="status"><span class="ia-point" aria-hidden="true"></span> Gemini prépare la réponse (${h(IA_MODES[iaEtat.mode] || '')})…</p>` : ''}
+    ${iaEtat.erreur ? `<div class="error-box" role="alert"><p>${h(iaEtat.erreur.message)}</p>${iaEtat.erreur.relancer ? boutons([['relancer', 'Relancer']]) : ''}</div>` : ''}
+    ${!d && !iaEtat.charge && !iaEtat.erreur ? `<p>${location.hash === '#/introuvable' ? 'La bibliothèque n’a pas de fiche sur ce point. L’IA peut répondre en approfondissant le sujet :' : 'La bibliothèque a répondu ci-dessus. L’IA peut adapter la réponse à ta question exacte et la compléter :'}</p>${boutons([['express', 'Coup express'], ['gagner', 'Gagner le débat'], ['convaincre', 'Convaincre avec empathie'], ['approfondir', 'Approfondir']])}` : ''}
+    ${d ? `${origine}${d.tronquee ? '<p class="notice notice--soft">La réponse a été coupée (longueur maximale atteinte) : demande une version plus courte.</p>' : ''}<div class="ia-contenu">${iaContenu(d)}</div>${iaSources(d)}
+      ${boutons([['relancer', 'Relancer'], ['plus_court', 'Plus court'], ['plus_percutant', 'Plus percutant'], ['approfondir', 'Approfondir'], ...(d.mode !== 'express' ? [['express', 'Coup express']] : []), ...(d.mode !== 'convaincre' ? [['convaincre', 'Version empathie']] : [])])}
+      <p class="hint">Réponse générée par une IA à partir des documents indiqués : vérifie les éléments marqués « Non vérifié » avant de les utiliser.</p>` : ''}
+  </section>`;
+}
+document.addEventListener('click', (ev) => {
+  const b = ev.target.closest?.('[data-ia]');
+  if (!b) return;
+  const act = b.dataset.ia;
+  const courant = iaEtat.data?.mode || iaEtat.mode;
+  if (act === 'relancer') iaLancer({ mode: courant, variante: iaEtat.data?.variante || null, relance: Boolean(iaEtat.data) });
+  else if (act === 'plus_court' || act === 'plus_percutant') iaLancer({ mode: courant, variante: act });
+  else if (IA_MODES[act]) iaLancer({ mode: act });
+});
+
+// v13 : l'utilisateur sait, avant d'envoyer, où part ce qu'il écrit
+function transmissionHtml() {
+  if (iaDispo()) return '<p class="privacy-note" data-transmission="ia">🔒 La bibliothèque répond sur ton appareil. Si elle n’a pas de fiche, ou si tu demandes une réponse de l’IA, ta phrase est envoyée à notre serveur puis à Google (Gemini) pour la préparer. N’y mets ni nom ni information personnelle. <a href="#/confidentialite">En savoir plus</a></p>';
+  if (isLive()) return '<p class="privacy-note" data-transmission="externe">🔒 Mode connecté : ta phrase est envoyée au serveur du site puis au fournisseur d’intelligence artificielle (Anthropic) pour préparer la réponse. N’y mets ni nom ni information personnelle. <a href="#/confidentialite">En savoir plus</a></p>';
+  return '<p class="privacy-note" data-transmission="locale">🔒 Ta phrase est analysée sur ton appareil : elle n’est envoyée à aucun serveur et n’est pas conservée. <a href="#/confidentialite">Confidentialité</a></p>';
+}
+
 // v12 : classification multiple — une phrase peut toucher plusieurs domaines à la fois
 function domainesHtml(an) {
   if (!an?.domaines?.length) return '';
@@ -1217,6 +1306,7 @@ function domainesHtml(an) {
 
 // v12 : sans fiche, on dit clairement ce qui manque — jamais de recherche simulée ni de fiche voisine présentée comme réponse
 function limiteHtml() {
+  if (iaDispo()) return `<div class="limite-box"><p><strong>Pas de fiche vérifiée sur ce point.</strong> La réponse de l’intelligence artificielle (Gemini) ci-dessous approfondit le sujet ; ses sources et son degré de vérification sont indiqués élément par élément.</p></div>`;
   if (isLive()) return `<div class="limite-box"><p><strong>Pas de fiche vérifiée sur ce point.</strong> Le mode connecté est disponible : tu peux lancer une recherche web, dont les sources seront affichées et vérifiables.</p></div>`;
   return `<div class="limite-box" role="note"><p><strong>Analyse sans données sourcées.</strong> Ce qui suit décompose la phrase (sujet, sous-entendus, domaines, ce qu’il faudrait vérifier) ; ce n’est pas une démonstration documentée.</p>
     <p>Pour répondre avec des sources à une question qui n’est pas dans la bibliothèque, il faut le <strong>mode connecté</strong> (intelligence artificielle et recherche web). Il <strong>n’est pas actif sur ce site public</strong> : aucune recherche n’a été lancée, et aucune fiche voisine n’est présentée comme une réponse.</p></div>`;
@@ -1285,6 +1375,7 @@ function viewPasDansLaBase(payload) {
           ${isLive() ? '<button type="button" class="btn btn-primary" data-action="web-search-local">Lancer une recherche web</button>' : ''}
         </div>
       </article>
+      ${payload.analyse?.dignite?.length ? '' : iaHtml()}
       ${payload.analyse && !payload.analyse.arguments.length && payload.analyse.domaines?.length ? `<section class="block analyse"><h2 class="block-title">Ce que contient la phrase</h2>${domainesHtml(payload.analyse)}</section>` : ''}
       ${payload.analyse?.arguments.length && !(payload.analyse.dignite?.length && payload.analyse.principal?.id === 'non_cartographie') ? analyseHtml(payload.analyse, null, payload.mode === 'convaincre' ? 'convaincre' : 'gagner') : ''}
       ${proches.length && !payload.analyse?.arguments.length ? `<section class="block"><h2 class="block-title">Dans le même volet</h2><div class="fiche-grid">${proches.map((f) => ficheCard(withFresh(f))).join('')}</div></section>` : ''}
@@ -1297,6 +1388,7 @@ const withFresh = (f) => (f.fraicheur ? f : { ...f, fraicheur: kbFreshness(f) })
 
 async function launchLocal(payload) {
   state.request = payload;
+  iaPreparer(payload.affirmation, payload.express ? 'express' : payload.mode === 'convaincre' ? 'convaincre' : 'gagner');
   try { await kb.load(); } catch {
     $('#app').innerHTML = `<section class="section"><div class="wrap wrap--narrow">${errorBox('La bibliothèque locale n’a pas pu être chargée sur cet appareil. Recharge la page une fois connecté pour l’enregistrer.')}</div></section>`;
     return;
@@ -1308,6 +1400,7 @@ async function launchLocal(payload) {
     if (!avecFiche.length) {
       state.compo = null;
       state.pasTrouve = { ...payload, analyse: an };
+      iaAuto();
       if (location.hash !== '#/introuvable') location.hash = '#/introuvable'; else render();
       return;
     }
@@ -1329,6 +1422,7 @@ async function launchLocal(payload) {
   if (!m.length) {
     state.compo = null;
     state.pasTrouve = { ...payload, analyse: an };
+    iaAuto();
     if (location.hash !== '#/introuvable') location.hash = '#/introuvable'; else render();
     return;
   }
@@ -1441,7 +1535,7 @@ function viewMode() {
       </div>
       <h2>Mode autonome</h2>
       <ul>
-        <li><strong>Disponible sans connexion</strong> (après une première visite) : la bibliothèque (${kb.fiches.length || meta.nb || '…'} fiches), la recherche locale, les fiches à sept onglets, le questionnaire sur l’interlocuteur, les deux stratégies composées à partir des fiches, l’adaptation après chaque échange, l’historique et les argumentaires enregistrés.</li>
+        <li><strong>Disponible sans connexion</strong> (après une première visite) : la bibliothèque (${kb.fiches.length || meta.nb || '…'} fiches), la recherche locale, les fiches à sept onglets, le questionnaire sur l’interlocuteur, les deux stratégies composées à partir des fiches, l’adaptation après chaque échange, les argumentaires que tu choisis d’enregistrer.</li>
         <li><strong>Comment c’est composé :</strong> par un moteur de règles qui assemble des éléments déjà vérifiés de la bibliothèque (faits, sources, contre-arguments, formulations) selon le profil choisi. <strong>Il n’y a pas de modèle d’IA embarqué</strong> : aucun texte libre n’est généré, et aucun fait n’est inventé.</li>
         <li><strong>Ce qui n’est pas disponible :</strong> la recherche web, les informations postérieures à la dernière mise à jour de la base, les reformulations libres. Si une question n’est pas couverte, l’application le dit.</li>
       </ul>
@@ -1457,13 +1551,12 @@ function viewMode() {
       <label class="check"><input type="checkbox" id="maj-auto" ${store.reglages().majAuto ? 'checked' : ''}> Installer automatiquement les nouvelles versions de la base (après vérification de leur intégrité)</label>
       <div class="btn-row"><button type="button" class="btn btn-secondary" data-action="check-kb">Vérifier les mises à jour</button><a class="btn btn-ghost" href="#/mes-donnees">Mes données</a></div>
       <p class="form-msg" id="kb-msg" role="status"></p>
-      ${store.persistant() ? '' : '<p class="notice">Ce navigateur refuse le stockage local : l’historique et les argumentaires ne pourront pas être conservés.</p>'}
+      ${store.persistant() ? '' : '<p class="notice">Ce navigateur refuse le stockage local : les argumentaires enregistrés ne pourront pas être conservés.</p>'}
     </div>
   </section>`;
 }
 
 function viewMesDonnees() {
-  const hist = store.historique();
   const args = store.argumentaires();
   const profs = store.profils();
   return `<section class="section">
@@ -1472,8 +1565,8 @@ function viewMesDonnees() {
       <p class="lead">Tout ce qui est ici reste sur cet appareil. Rien n’est envoyé à un serveur.</p>
       <h2>Argumentaires enregistrés (${args.length})</h2>
       ${args.length ? `<ul class="data-list">${args.map((a) => `<li><a href="#/argumentaire/${h(a.fiche_id)}?enr=${h(a.id)}">« ${h(a.affirmation)} »</a><span class="hint"> ${h(frDate(a.date.slice(0, 10)))} · ${h(a.resume_profil || '')}</span> <button type="button" class="link-btn" data-del-arg="${h(a.id)}">Supprimer</button></li>`).join('')}</ul>` : '<p>Aucun argumentaire enregistré.</p>'}
-      <h2>Fiches consultées (${hist.length})</h2>
-      ${hist.length ? `<ul class="data-list">${hist.map((x) => `<li><a href="#/bibliotheque/${h(x.id)}">« ${h(x.affirmation)} »</a><span class="hint"> ${h(frDate(x.date.slice(0, 10)))}</span></li>`).join('')}</ul><button type="button" class="link-btn" data-clear="historique">Effacer l’historique</button>` : '<p>Aucune fiche consultée.</p>'}
+      <h2>Historique</h2>
+      <p>Aucun historique n’est conservé : ni les questions posées, ni les fiches consultées, ni les conversations. Seuls les argumentaires que tu choisis d’enregistrer apparaissent ici.</p>
       <h2>Profils d’interlocuteur (${profs.length})</h2>
       <p class="hint">Facultatifs, modifiables et supprimables. Évite d’y mettre de vrais noms.</p>
       ${profs.length ? `<ul class="data-list">${profs.map((x) => `<li><strong>${h(x.nom)}</strong><span class="hint"> ${h(resumeProfil(x.profil))}</span> <button type="button" class="link-btn" data-del-profile="${h(x.id)}">Supprimer</button></li>`).join('')}</ul>` : '<p>Aucun profil enregistré.</p>'}
@@ -1598,7 +1691,7 @@ function viewAbout() {
         <button class="btn btn-primary" type="submit">Envoyer le signalement</button>
         <p class="form-msg" role="status"></p>
       </form>
-      <p><a href="#/confidentialite">Politique de confidentialité</a></p>
+      <p><a href="#/confidentialite">Confidentialité et sécurité</a></p>
       ${supportCard('main', '-about')}
     </div>
   </section>`;
@@ -1607,24 +1700,48 @@ function viewAbout() {
 function viewPrivacy() {
   return `<section class="section">
     <div class="wrap wrap--narrow prose-page">
-      <h1 class="page-title">Confidentialité</h1>
-      <p class="lead">On collecte le strict minimum, on ne fait pas de profil politique, et on ne garde pas tes conversations.</p>
-      <h2>Ce qui est traité</h2>
+      <h1 class="page-title">Confidentialité et sécurité</h1>
+      <p class="lead">Tu viens utiliser l’application, rien de plus. Elle ne cherche à connaître ni ton identité, ni ta localisation, ni tes habitudes.</p>
+      <h2>En bref</h2>
       <ul>
-        <li><strong>L’affirmation</strong> et tes choix (objectif, volet, interlocuteur, contexte) sont envoyés au serveur puis au fournisseur d’IA (Anthropic) pour produire l’analyse. Le serveur garde le dossier en mémoire vive quelques heures pour permettre de changer de stratégie sans relancer la recherche, puis l’oublie. Rien n’est écrit sur disque.</li>
-        <li><strong>Le profil d’interlocuteur</strong> sert uniquement à adapter le ton de la réponse en cours.</li>
-        <li><strong>Ton parcours en cours</strong> est gardé dans ton navigateur (stockage de session), pour ne pas tout ressaisir. Il disparaît à la fermeture de l’onglet.</li>
-        <li><strong>Les retours</strong> sont enregistrés sans adresse IP ni identifiant, avec la seule date du jour. L’affirmation n’y est jointe que si tu coches la case.</li>
-        <li><strong>La limitation anti-abus</strong> utilise ton adresse IP hachée, en mémoire vive, quelques minutes.</li>
+        <li><strong>Aucune géolocalisation.</strong> L’application ne demande jamais ta position, n’utilise pas le GPS et ne déduit pas ta ville de ton adresse IP.</li>
+        <li><strong>Aucun compte, aucune identité.</strong> Ni nom, ni e-mail, ni téléphone : toutes les fonctions marchent sans t’identifier.</li>
+        <li><strong>Aucun suivi publicitaire.</strong> Pas de Google Analytics, pas de pixel Meta ou TikTok, pas de publicité, pas de mesure d’audience, pas d’empreinte du navigateur.</li>
+        <li><strong>Aucune permission demandée.</strong> Ni caméra, ni micro, ni photos, ni contacts, ni notifications.</li>
+        <li><strong>Pas d’historique automatique.</strong> Les questions posées, les conversations et les fiches consultées ne sont pas conservées par l’application.</li>
       </ul>
-      <h2>Ce qui n’est pas fait</h2>
+      <h2>Où va ce que tu écris</h2>
+      <div class="privacy-table-wrap"><table class="privacy-table">
+        <thead><tr><th>Mode</th><th>Ta question</th><th>Qui la reçoit</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Autonome</strong> (le mode du site public)</td><td>Analysée dans ton navigateur, avec la bibliothèque téléchargée. Elle reste en mémoire le temps de la réponse et disparaît quand tu recharges ou fermes la page.</td><td>Personne : elle n’est envoyée à aucun serveur.</td></tr>
+          <tr><td><strong>Réponse de l’IA</strong> (Gemini, seulement si le backend IA est configuré${iaDispo() ? ' — c’est le cas sur ce site' : ' ; ce n’est pas le cas aujourd’hui'})</td><td>Envoyée quand la bibliothèque n’a pas de fiche, ou quand tu cliques sur un bouton de réponse IA, avec le mode choisi et, s’il y en a, tes trois derniers messages de la conversation en cours. Rien n’est enregistré par le site ; une réponse générique (question qui correspond à une fiche) peut rester une heure en cache, sous une clé illisible.</td><td>Notre backend (hébergé par <strong>Cloudflare</strong>), puis <strong>Google</strong> (Gemini et, si besoin, la recherche Google). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté.</td></tr>
+          <tr><td><strong>Connecté</strong> (seulement si un serveur est configuré ; ce n’est pas le cas sur le site public aujourd’hui)</td><td>Envoyée au serveur du site, qui la transmet au fournisseur d’IA pour rechercher des sources et rédiger la réponse. Le serveur garde le dossier en mémoire vive une heure au plus (pour changer de stratégie sans relancer), sans rien écrire sur disque.</td><td>Le serveur du site, puis <strong>Anthropic</strong> (IA et recherche web). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté à la requête.</td></tr>
+        </tbody>
+      </table></div>
+      <h2>Les limites, honnêtement</h2>
       <ul>
-        <li>Pas de compte, pas de cookie de suivi, pas de mesure d’audience, pas de publicité.</li>
-        <li>Aucune déduction d’opinions politiques sur toi ou ta famille. Aucun dossier sur tes proches.</li>
-        <li>Les retours ne servent jamais à mesurer une « conversion » idéologique.</li>
+        <li><strong>L’hébergeur voit ton adresse IP.</strong> Comme tout site web, la page est servie par un hébergeur : GitHub Pages indique enregistrer l’adresse IP des visiteurs pour des raisons de sécurité. L’application elle-même ne la lit pas et ne l’exploite pas.</li>
+        <li><strong>En mode connecté, Anthropic reçoit le texte de la demande.</strong> Selon sa politique publiée, les entrées et sorties de son API sont supprimées sous 30 jours (jusqu’à 2 ans si une demande est signalée pour violation de ses règles d’utilisation), et ses conditions commerciales lui interdisent d’entraîner ses modèles sur ces contenus. La recherche web passe par l’outil de recherche d’Anthropic.</li>
+        <li><strong>Pour les réponses de l’IA, Google reçoit le texte de la demande.</strong> Selon les conditions de l’API Gemini, en service payant (celui que ces conditions imposent pour un service ouvert aux utilisateurs européens), Google n’utilise pas ces contenus pour améliorer ses produits et ne les conserve qu’un temps limité pour détecter les abus. En service gratuit, Google peut les utiliser pour améliorer ses produits et les faire relire par des personnes. Cloudflare, qui héberge notre backend, voit l’adresse IP de la connexion, comme tout hébergeur.</li>
+        <li><strong>Le serveur du mode connecté</strong> utilise ton adresse IP, hachée et en mémoire vive quelques minutes, uniquement pour limiter les abus. Ses journaux techniques ne contiennent ni la question ni l’adresse IP.</li>
+        <li><strong>Les signalements d’erreur</strong> (mode connecté) sont enregistrés avec la date du jour seulement, sans adresse IP ni identifiant. Ta question n’y est jointe que si tu coches la case.</li>
+        <li><strong>Le lien Tipeee</strong> ouvre un site tiers, qui applique sa propre politique de confidentialité.</li>
       </ul>
-      <p>N’écris pas de nom ni d’information personnelle dans l’affirmation : elle est transmise au fournisseur d’IA.</p>
-      <p>Le lien de soutien ouvre le site Tipeee, qui applique sa propre politique de confidentialité.</p>
+      <h2>Ce qui reste sur ton appareil, et seulement si tu le décides</h2>
+      <ul>
+        <li>Les argumentaires que tu enregistres et les profils d’interlocuteur que tu crées (stockage local du navigateur). Rien n’est envoyé ; tout est supprimable dans <a href="#/mes-donnees">Mes données</a>.</li>
+        <li>Des réglages techniques (mode choisi, version de la bibliothèque) et la bibliothèque elle-même, pour fonctionner hors ligne.</li>
+        <li>Pendant une visite, l’étape du questionnaire et les thèmes choisis (stockage de session, effacé à la fermeture de l’onglet). Le texte que tu tapes n’y est jamais écrit.</li>
+        <li>Aucun cookie.</li>
+      </ul>
+      <h2>Sécurité</h2>
+      <ul>
+        <li>Aucune clé d’API dans le site ni dans le dépôt public : les secrets restent sur le serveur du mode connecté.</li>
+        <li>Politique de sécurité du contenu stricte : aucun script extérieur, aucune police ni image chargée depuis un autre site.</li>
+        <li>Les textes affichés sont échappés (protection contre l’injection de code) ; les liens externes s’ouvrent sans transmettre l’adresse de la page.</li>
+      </ul>
+      <p>Conseil : n’écris pas de nom ni d’information personnelle dans tes questions. Ce n’est pas nécessaire pour obtenir une réponse.</p>
     </div>
   </section>`;
 }
@@ -1738,7 +1855,6 @@ async function render() {
       try {
         const data = await api.fiche(fiche[1]);
         state.currentFiche = data;
-        store.noterConsultation(data);
         if (parseRoute().path === `/bibliotheque/${fiche[1]}` || parseRoute().path === `/idees-recues/${fiche[1]}`) app.innerHTML = viewFiche(data, params.get('onglet') || 'court');
       } catch (e) {
         app.innerHTML = `<section class="section"><div class="wrap wrap--narrow">${errorBox(e.message)}</div></section>`;
@@ -2292,6 +2408,13 @@ async function init() {
   await kb.load().catch(() => { /* la page « Mode » explique comment charger la base */ });
   // Le serveur n'est interrogé qu'en mode connecté : en mode autonome, aucune requête réseau n'est nécessaire.
   state.status = appMode() === 'connecte' ? await api.status() : null;
+  // IA : une seule vérification de disponibilité, et seulement si un backend IA est configuré pour ce site
+  if (api.iaConfiguree) api.iaStatut().then((st) => {
+    iaEtat.statut = st;
+    // la mention de transmission affichée sous les champs doit refléter la réalité (IA disponible ou non)
+    $$('.privacy-note[data-transmission]').forEach((n) => { n.outerHTML = transmissionHtml(); });
+    if (location.hash === '#/introuvable' && !iaEtat.data && !iaEtat.charge) iaAuto(); else iaRafraichir();
+  }).catch(() => {});
   updateModePill();
   window.addEventListener('hashchange', render);
   await render();
