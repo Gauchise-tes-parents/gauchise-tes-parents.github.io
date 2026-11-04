@@ -2442,7 +2442,8 @@ async function appliquerMaj({ force = false } = {}) {
   // garde-fou : une seule tentative par publication et par onglet (jamais de boucle de rechargement)
   try { if (sessionStorage.getItem('gtp-maj') === majDispo) return; sessionStorage.setItem('gtp-maj', majDispo); } catch { /* sans stockage */ }
   try { const reg = await navigator.serviceWorker?.getRegistration(); await reg?.update(); } catch { /* sans service worker */ }
-  location.reload();
+  // adresse propre à la nouvelle version : le navigateur ne peut pas resservir l'ancienne page de son cache
+  location.replace(`${location.pathname}?v=${encodeURIComponent(majDispo)}${location.hash}`);
 }
 function surveillerVersion() {
   if (!BUILD) return;
@@ -2462,6 +2463,9 @@ function surveillerVersion() {
 async function init() {
   $('[data-logo]').innerHTML = LOGO_SVG.replace('<svg ', '<svg aria-hidden="true" focusable="false" ');
   $('#footer-support').innerHTML = supportCard('main', '-footer');
+  // version affichée : permet de savoir d'un coup d'œil quelle publication tourne (et si l'IA y est branchée)
+  const fv = $('#footer-version');
+  if (fv) fv.textContent = `Version du site : ${window.GTP_CONFIG?.build || 'développement'} · IA : ${api.iaConfiguree ? 'branchée' : 'non branchée'}`;
   // Hors-ligne : le service worker garde l'interface et la base (indisponible en fichier local ou en aperçu).
   if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol) && !api.isStatic) {
     // Une nouvelle version du site a pris le relais (mise à jour) : on recharge une fois pour l'afficher.

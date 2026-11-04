@@ -3,7 +3,7 @@
 // Le mode connecté n'y est actif que si GTP_API_BASE pointe vers un serveur Node déployé ailleurs.
 //
 // Usage : node scripts/build-static.js            (variables facultatives : GTP_API_BASE, WATCH_EXTERNAL_SCHEDULE)
-import { cpSync, mkdirSync, rmSync, writeFileSync, readFileSync, existsSync } from 'node:fs';
+import { cpSync, mkdirSync, rmSync, writeFileSync, readFileSync, existsSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 import { ROOT } from '../server/config.js';
 import { loadLibrary } from '../server/library.js';
@@ -52,6 +52,19 @@ writeFileSync(join(OUT, 'kb', 'veille.json'), JSON.stringify(st.derniere_tentati
 const build = `${new Date().toISOString().replace(/\D/g, '').slice(0, 14)}-${Math.random().toString(36).slice(2, 8)}`;
 writeFileSync(join(OUT, 'config.js'), `// Généré par scripts/build-static.js\nwindow.GTP_CONFIG = { apiBase: ${apiBase ? JSON.stringify(apiBase) : 'null'}, iaBase: ${iaBase ? JSON.stringify(iaBase) : 'null'}, build: ${JSON.stringify(build)} };\n`);
 writeFileSync(join(OUT, 'version.json'), JSON.stringify({ build }));
+// Noms de fichiers propres à chaque publication (?v=…) : GitHub Pages fait garder les fichiers 10 minutes par les
+// navigateurs, qui ne revérifient que la page au rechargement. Sans ce suffixe, un visiteur pourrait recevoir un
+// mélange d'ancienne et de nouvelle version juste après une mise à jour.
+const v = `?v=${build}`;
+const idxPath = join(OUT, 'index.html');
+writeFileSync(idxPath, readFileSync(idxPath, 'utf8')
+  .replace('src="config.js"', `src="config.js${v}"`)
+  .replace('src="js/app.js"', `src="js/app.js${v}"`)
+  .replace('href="css/styles.css"', `href="css/styles.css${v}"`));
+for (const f of readdirSync(join(OUT, 'js')).filter((n) => n.endsWith('.js'))) {
+  const p = join(OUT, 'js', f);
+  writeFileSync(p, readFileSync(p, 'utf8').replace(/(from\s+['"]\.\/[\w-]+\.js)(['"])/g, `$1${v}$2`));
+}
 writeFileSync(join(OUT, '.nojekyll'), '');
 writeFileSync(join(OUT, '404.html'), readFileSync(join(OUT, 'index.html')));
 writeFileSync(join(OUT, 'asset-manifest.json'), JSON.stringify(assetManifest(OUT)));
