@@ -11,10 +11,13 @@ import { buildKb, assetManifest } from '../server/kbexport.js';
 import { watchConfig, readState } from '../server/watch/veille.js';
 
 const OUT = process.env.STATIC_OUT || join(ROOT, 'dist', 'site');
-const apiBase = process.env.GTP_API_BASE || '';
+// Adresses publiques par défaut (deploiement.json, versionné, sans secret) ; les variables d'environnement ont priorité
+let DEPLOIEMENT = {};
+try { DEPLOIEMENT = JSON.parse(readFileSync(join(ROOT, 'deploiement.json'), 'utf8')); } catch { /* fichier facultatif */ }
+const apiBase = process.env.GTP_API_BASE || DEPLOIEMENT.apiBase || '';
 if (apiBase && !/^https:\/\/[^\s"'<>]+$/.test(apiBase)) { console.error('GTP_API_BASE doit être une URL https.'); process.exit(1); }
 // Backend IA (Gemini) : URL publique du Worker, jamais de clé
-const iaBase = (process.env.GTP_IA_BASE || '').replace(/\/+$/, '');
+const iaBase = (process.env.GTP_IA_BASE || DEPLOIEMENT.iaBase || '').replace(/\/+$/, '');
 if (iaBase && !/^https:\/\/[^\s"'<>/]+(\/[^\s"'<>]*)?$/.test(iaBase)) { console.error('GTP_IA_BASE doit être une URL https.'); process.exit(1); }
 
 rmSync(OUT, { recursive: true, force: true });

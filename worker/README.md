@@ -40,10 +40,9 @@ L'adresse est visible dans Cloudflare (Worker → *Settings* → *Domains & Rout
 
 ## 2. Brancher le site sur le Worker
 
-GitHub → dépôt du site → *Settings* → *Secrets and variables* → *Actions* → onglet **Variables** →
-*New repository variable* : `GTP_IA_BASE` = l'adresse du Worker (sans `/` final). Ce n'est pas un secret.
-Puis relance le déploiement (*Actions* → *Publier sur GitHub Pages* → *Run workflow*). La politique de sécurité
-du site autorise alors cette seule adresse.
+L'adresse publique du Worker est inscrite dans `deploiement.json` (champ `iaBase`, ce n'est pas un secret).
+À chaque publication, le site l'utilise et sa politique de sécurité autorise cette seule adresse.
+Pour la changer : modifier `deploiement.json`, ou créer la variable de dépôt GitHub `GTP_IA_BASE`, qui a priorité.
 
 ## 3. Réglages (wrangler.toml à la racine du dépôt, sans toucher au code)
 
