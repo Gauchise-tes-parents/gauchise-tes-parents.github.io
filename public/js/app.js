@@ -1273,7 +1273,11 @@ function iaSources(d) {
 function iaHtml() {
   if (!api.iaConfiguree || !iaEtat.question) return '';
   if (!iaEtat.statut) return `<section class="block ia-block" id="ia-block"><p class="ia-chargement" role="status"><span class="ia-point" aria-hidden="true"></span> Connexion à l’intelligence artificielle…</p></section>`;
-  if (!iaDispo()) return `<section class="block ia-block" id="ia-block"><p class="hint">L’intelligence artificielle ne répond pas pour le moment${iaEtat.statut?.injoignable ? ' (serveur injoignable : connexion coupée ou ancienne version du site en mémoire)' : ' (pas encore configurée côté serveur)'}. La bibliothèque reste utilisable.</p><div class="btn-row"><button type="button" class="btn btn-secondary btn-small" data-ia="reessayer">Réessayer</button></div></section>`;
+  if (!iaDispo()) {
+    const m = iaEtat.statut?.manque || [];
+    const raison = iaEtat.statut?.injoignable ? 'serveur injoignable : connexion coupée' : m.includes('cle') ? 'la clé Gemini est absente du serveur : l’administrateur doit l’enregistrer comme « Secret » GEMINI_API_KEY dans Cloudflare' : m.includes('modele') ? 'aucun modèle configuré sur le serveur' : 'serveur pas encore configuré';
+    return `<section class="block ia-block" id="ia-block"><p class="hint">L’intelligence artificielle ne répond pas pour le moment (${h(raison)}). La bibliothèque reste utilisable.</p><div class="btn-row"><button type="button" class="btn btn-secondary btn-small" data-ia="reessayer">Réessayer</button></div></section>`;
+  }
   const d = iaEtat.data;
   const boutons = (liste) => `<div class="btn-row ia-actions">${liste.map(([act, label, extra = '']) => `<button type="button" class="btn btn-secondary btn-small" data-ia="${act}" ${extra} ${iaEtat.charge ? 'disabled' : ''}>${h(label)}</button>`).join('')}</div>`;
   const origine = d ? `<ul class="ia-origine">

@@ -69,7 +69,8 @@ export function createHandler({ fiches, fetchImpl, cache = (typeof caches !== 'u
     const provider = createGeminiProvider(env, { fetchImpl });
     const recherche = String(env.GEMINI_RECHERCHE ?? '1') !== '0';
     if (url.pathname === '/api/ia/statut' && req.method === 'GET') {
-      return json(req, env, 200, { disponible: provider.disponible(), fournisseur: 'gemini', modele: provider.disponible() ? provider.modele : null, recherche_google: provider.disponible() && recherche, version: VERSION_IA });
+      const manque = [!env.GEMINI_API_KEY && 'cle', !provider.modele && 'modele'].filter(Boolean);
+      return json(req, env, 200, { disponible: provider.disponible(), manque, fournisseur: 'gemini', modele: provider.modele || null, recherche_google: provider.disponible() && recherche, version: VERSION_IA });
     }
     if (url.pathname !== '/api/ia' || req.method !== 'POST') return json(req, env, 404, { erreur: 'Adresse inconnue.', code: 'introuvable' });
     let statut = 500;

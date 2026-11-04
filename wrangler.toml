@@ -6,6 +6,9 @@ name = "gauchise-tes-parents-github-io"
 main = "worker/src/index.js"
 compatibility_date = "2026-10-01"
 workers_dev = true
+# Garder les variables saisies dans le tableau de bord Cloudflare à chaque déploiement automatique
+# (sans cela, une clé enregistrée comme simple « variable » serait effacée ; il faut l'enregistrer comme « Secret »).
+keep_vars = true
 
 # Avant chaque déploiement : intégrer la bibliothèque vérifiée au Worker (worker/src/kb.json)
 [build]
