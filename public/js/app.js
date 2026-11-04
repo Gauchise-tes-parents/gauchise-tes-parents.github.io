@@ -132,6 +132,7 @@ function ficheCard(f) {
     <span class="fiche-top"><span class="fiche-icon" aria-hidden="true">${VOLET_ICONS[f.volet] || VOLET_ICONS.autre}</span><span class="fiche-cat">${h(voletById(f.volet).court)}${f.sous_theme ? ` · ${h(f.sous_theme)}` : ''}</span></span>
     ${f.force ? `<span class="match-badge match-badge--${h(f.force)}">${f.force === 'forte' ? 'Correspond à ta question' : 'Sujet voisin'}</span>` : ''}
     <span class="fiche-claim">« ${h(f.affirmation)} »</span>
+    ${f.origine === 'ia' ? '<span class="rub-chips"><span class="rub-chip">🤖 Créée par l’IA · non relue</span></span>' : ''}
     ${rubs.length ? `<span class="rub-chips">${rubs.map((r) => `<span class="rub-chip">${h(r.court)}</span>`).join('')}</span>` : ''}
     <span class="fiche-badges">${verdictBadge(f.verdict, true)}${fiabBadge(f.fiabilite)}${freshBadge(f)}</span>
     <span class="fiche-date">Vérifiée le ${h(frDate(f.derniere_verification))}</span>
@@ -855,9 +856,10 @@ function viewFiche(f, tab = 'court') {
     <div class="wrap wrap--narrow">
       <p class="crumb"><a href="#/bibliotheque">Bibliothèque</a>${rubs.length ? ` · ${rubs.map((rb) => `<a href="#/rubriques/${h(rb.id)}">${h(rb.court)}</a>`).join(' · ')}` : ''}</p>
       <div class="claim-bubble"><span class="claim-label">${h(TYPES_FICHE[f.type] || 'Idée reçue')}</span><p>« ${h(f.affirmation)} »</p></div>
+      ${ficheIaHtml(f)}
 
       <article class="verdict-card verdict-card--${h(vkey)}" aria-labelledby="verdict-title">
-        <div class="verdict-mascot">${mascotSvg(f.verdict || 'opinion', 'Doc Source a vérifié la fiche', 96)}</div>
+        <div class="verdict-mascot">${mascotSvg(f.verdict || 'opinion', f.origine === 'ia' ? 'Fiche créée par l’IA, non relue' : 'Doc Source a vérifié la fiche', 96)}</div>
         <div class="verdict-body">
           <h1 id="verdict-title" class="verdict-h">${verdictBadge(f.verdict)}</h1>
           <p class="fiche-badges">${fiabBadge(f.fiabilite)}${freshBadge(f)}</p>
@@ -1021,6 +1023,7 @@ function viewArgumentaire() {
   return `<section class="section result compo-view">
     <div class="wrap wrap--narrow">
       <p class="crumb"><a href="#/bibliotheque/${h(f.id)}">Fiche complète</a></p>
+      ${ficheIaHtml(f, c.ficheIa)}
       <div class="claim-bubble"><span class="claim-label">${!sameQ ? 'Ta question' : 'L’affirmation'}</span><p>« ${h(c.question || f.affirmation)} »</p>
         ${!sameQ ? `<p class="claim-reform">Fiche utilisée : « ${h(f.affirmation)} »${c.force === 'partielle' ? ' (sujet voisin)' : ''}</p>` : ''}</div>
       ${digniteHtml(c.analyse?.dignite?.length ? c.analyse.dignite : c.dignite)}
@@ -1211,7 +1214,7 @@ const iaEtat = { statut: null, charge: false, data: null, erreur: null, question
 const iaDispo = () => Boolean(iaEtat.statut?.disponible);
 const IA_STATUTS = { fait: 'Fait établi', estimation: 'Estimation', interpretation: 'Interprétation', opinion: 'Opinion politique', non_verifie: 'Non vérifié' };
 const IA_MODES = { express: 'Coup express', gagner: 'Gagner le débat', convaincre: 'Convaincre avec empathie', approfondir: 'Approfondir' };
-function iaPreparer(question, mode) { Object.assign(iaEtat, { question, mode, data: null, erreur: null, charge: false }); }
+function iaPreparer(question, mode) { Object.assign(iaEtat, { question, mode, data: null, erreur: null, charge: false, creation: false, noteFiche: null }); }
 // L'IA n'est jamais déclarée indisponible sur la foi d'un ancien contrôle : on revérifie avant de renoncer.
 async function iaVerifierStatut() {
   if (!api.iaConfiguree) return false;
@@ -1220,8 +1223,39 @@ async function iaVerifierStatut() {
 }
 function iaAuto() {
   if (!iaEtat.question) return;
-  if (iaDispo()) { iaLancer({}); return; }
-  if (api.iaConfiguree) iaVerifierStatut().then((ok) => { if (ok && !iaEtat.data && !iaEtat.charge) iaLancer({}); else iaRafraichir(); });
+  const go = () => (iaEtat.statut?.fiches_ia ? iaCreerFiche() : iaLancer({}));
+  if (iaDispo()) { go(); return; }
+  if (api.iaConfiguree) iaVerifierStatut().then((ok) => { if (ok && !iaEtat.data && !iaEtat.charge) go(); else iaRafraichir(); });
+}
+// Phase bêta : la question sans fiche devient une fiche sur mesure, sourcée, ajoutée à la bibliothèque commune.
+async function iaCreerFiche() {
+  if (iaEtat.charge || !iaEtat.question) return;
+  const question = iaEtat.question; const mode = iaEtat.mode;
+  Object.assign(iaEtat, { charge: true, creation: true, erreur: null });
+  iaRafraichir();
+  try {
+    const d = await api.iaFiche(question);
+    const fiche = d.fiche;
+    if (!kb.fiches.some((f) => f.id === fiche.id)) kb.fiches.push(fiche);
+    Object.assign(iaEtat, { charge: false, creation: false });
+    nouvelleCompo(fiche, { question, force: 'forte', profil: state.wizard.interlocuteur, vue: mode === 'convaincre' ? 'convaincre' : 'gagner' });
+    state.compo.analyse = analyserPhrase(question, { bibliotheque: kb.fiches, mode: mode === 'convaincre' ? 'convaincre' : 'gagner' });
+    state.compo.ficheIa = { enregistrement: d.enregistrement };
+    iaPreparer(question, mode);
+    if (location.hash !== '#/argumentaire') location.hash = '#/argumentaire'; else render();
+  } catch (e) {
+    Object.assign(iaEtat, { charge: false, creation: false });
+    // pas assez de sources pour une fiche, ou création indisponible : réponse directe de l'IA, clairement étiquetée
+    if (['sources', 'couverte', 'desactive'].includes(e.data?.code)) { iaEtat.noteFiche = e.message; iaLancer({}); return; }
+    iaEtat.erreur = { message: e.message, code: e.data?.code || (e.status ? `http-${e.status}` : 'reseau'), detail: e.data?.detail || '', relancer: true };
+    iaRafraichir();
+  }
+}
+// Étiquette d'une fiche créée par l'IA (non relue) : affichée partout où la fiche apparaît.
+function ficheIaHtml(f, extra = null) {
+  if (f?.origine !== 'ia') return '';
+  const n = (f.sources || []).length;
+  return `<div class="notice notice--soft fiche-ia-note" role="note"><p><strong>🤖 Fiche créée par l’IA</strong> à partir de ${n} page${n > 1 ? 's' : ''} consultée${n > 1 ? 's' : ''} par la recherche Google. Chaque fait est rattaché à une de ces pages, mais <strong>la fiche n’a pas encore été relue par un humain</strong> : vérifie les sources avant de l’utiliser.${extra?.enregistrement === 'enregistree' || extra?.enregistrement === 'en_cours' ? ' Elle rejoindra la bibliothèque commune pour les prochaines personnes qui poseront cette question.' : ''}</p></div>`;
 }
 function iaContexte() {
   const tours = state.compo?.conv?.tours || [];
@@ -1288,7 +1322,8 @@ function iaHtml() {
   return `<section class="block ia-block" id="ia-block" aria-labelledby="ia-title" aria-busy="${iaEtat.charge}">
     <h2 id="ia-title" class="block-title">Réponse de l’IA${d ? ` · ${h(IA_MODES[d.mode] || '')}${d.variante === 'plus_court' ? ' · version courte' : d.variante === 'plus_percutant' ? ' · version percutante' : ''}` : ''}</h2>
     <p class="privacy-note">🔒 Ta phrase est envoyée à notre serveur puis à Google (Gemini) seulement quand une réponse de l’IA est demandée. Elle n’est pas conservée par le site.</p>
-    ${iaEtat.charge ? `<p class="ia-chargement" role="status"><span class="ia-point" aria-hidden="true"></span> Gemini prépare la réponse (${h(IA_MODES[iaEtat.mode] || '')})…</p>` : ''}
+    ${iaEtat.charge ? `<p class="ia-chargement" role="status"><span class="ia-point" aria-hidden="true"></span> ${iaEtat.creation ? 'Pas encore de fiche sur cette question : l’IA recherche des sources et crée une fiche sur mesure (environ 20 secondes)…' : `Gemini prépare la réponse (${h(IA_MODES[iaEtat.mode] || '')})…`}</p>` : ''}
+    ${iaEtat.noteFiche && !iaEtat.charge ? `<p class="hint">${h(iaEtat.noteFiche)} Voici une réponse directe de l’IA à la place.</p>` : ''}
     ${iaEtat.erreur ? `<div class="error-box" role="alert"><p>${h(iaEtat.erreur.message)}</p><p class="hint">Code technique : ${h(iaEtat.erreur.code)}${iaEtat.erreur.detail ? ` — message de Google : « ${h(iaEtat.erreur.detail)} »` : ''}</p>${boutons([['relancer', 'Relancer']])}</div>` : ''}
     ${!d && !iaEtat.charge && !iaEtat.erreur ? `<p>${location.hash === '#/introuvable' ? 'La bibliothèque n’a pas de fiche sur ce point. L’IA peut répondre en approfondissant le sujet :' : 'La bibliothèque a répondu ci-dessus. L’IA peut adapter la réponse à ta question exacte et la compléter :'}</p>${boutons([['express', 'Coup express'], ['gagner', 'Gagner le débat'], ['convaincre', 'Convaincre avec empathie'], ['approfondir', 'Approfondir']])}` : ''}
     ${d ? `${origine}${d.tronquee ? '<p class="notice notice--soft">La réponse a été coupée (longueur maximale atteinte) : demande une version plus courte.</p>' : ''}<div class="ia-contenu">${iaContenu(d)}</div>${iaSources(d)}
@@ -1313,6 +1348,7 @@ document.addEventListener('click', (ev) => {
 
 // v13 : l'utilisateur sait, avant d'envoyer, où part ce qu'il écrit
 function transmissionHtml() {
+  if (iaDispo() && iaEtat.statut?.fiches_ia) return '<p class="privacy-note" data-transmission="ia">🔒 Phase bêta : si la bibliothèque n’a pas de fiche, ta phrase est envoyée à notre serveur puis à Google (Gemini), qui crée une fiche publique sur l’idée (reformulée, sans ta phrase exacte). N’y mets ni nom ni information personnelle. <a href="#/confidentialite">En savoir plus</a></p>';
   if (iaDispo()) return '<p class="privacy-note" data-transmission="ia">🔒 La bibliothèque répond sur ton appareil. Si elle n’a pas de fiche, ou si tu demandes une réponse de l’IA, ta phrase est envoyée à notre serveur puis à Google (Gemini) pour la préparer. N’y mets ni nom ni information personnelle. <a href="#/confidentialite">En savoir plus</a></p>';
   if (isLive()) return '<p class="privacy-note" data-transmission="externe">🔒 Mode connecté : ta phrase est envoyée au serveur du site puis au fournisseur d’intelligence artificielle (Anthropic) pour préparer la réponse. N’y mets ni nom ni information personnelle. <a href="#/confidentialite">En savoir plus</a></p>';
   return '<p class="privacy-note" data-transmission="locale">🔒 Ta phrase est analysée sur ton appareil : elle n’est envoyée à aucun serveur et n’est pas conservée. <a href="#/confidentialite">Confidentialité</a></p>';
@@ -1420,6 +1456,14 @@ async function launchLocal(payload) {
   const an = analyserPhrase(payload.affirmation, { bibliotheque: kb.fiches, mode: payload.mode === 'convaincre' ? 'convaincre' : 'gagner' });
   if (an.arguments.length) {
     const avecFiche = an.arguments.filter((x) => x.fiche);
+    // une fiche déjà créée par l'IA pour cette question (phase bêta) répond avant de déclarer une lacune
+    const dejaIa = !avecFiche.length && kbMatch(kb.fiches.filter((f) => f.origine === 'ia'), payload.affirmation).find((x) => x.force === 'forte');
+    if (dejaIa) {
+      nouvelleCompo(dejaIa.fiche, { question: payload.affirmation, force: 'forte', profil: payload.interlocuteur, vue: payload.mode === 'convaincre' ? 'convaincre' : 'gagner' });
+      state.compo.analyse = an;
+      if (location.hash !== '#/argumentaire') location.hash = '#/argumentaire'; else render();
+      return;
+    }
     if (!avecFiche.length) {
       state.compo = null;
       state.pasTrouve = { ...payload, analyse: an };
@@ -1739,6 +1783,7 @@ function viewPrivacy() {
         <tbody>
           <tr><td><strong>Autonome</strong> (le mode du site public)</td><td>Analysée dans ton navigateur, avec la bibliothèque téléchargée. Elle reste en mémoire le temps de la réponse et disparaît quand tu recharges ou fermes la page.</td><td>Personne : elle n’est envoyée à aucun serveur.</td></tr>
           <tr><td><strong>Réponse de l’IA</strong> (Gemini, seulement si le backend IA est configuré${iaDispo() ? ' — c’est le cas sur ce site' : ' ; ce n’est pas le cas aujourd’hui'})</td><td>Envoyée quand la bibliothèque n’a pas de fiche, ou quand tu cliques sur un bouton de réponse IA, avec le mode choisi et, s’il y en a, tes trois derniers messages de la conversation en cours. Rien n’est enregistré par le site ; une réponse générique (question qui correspond à une fiche) peut rester une heure en cache, sous une clé illisible.</td><td>Notre backend (hébergé par <strong>Cloudflare</strong>), puis <strong>Google</strong> (Gemini et, si besoin, la recherche Google). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté.</td></tr>
+          <tr><td><strong>Phase bêta : fiches créées par l’IA</strong></td><td>Une question sans fiche sert à créer, avec Google (Gemini et sa recherche), une fiche publique de la bibliothèque. La fiche ne contient pas ta phrase exacte : l’IA reformule l’idée de façon générale et a pour consigne d’en retirer tout nom ou information personnelle. Elle est enregistrée sur GitHub, dans le dépôt public du site.</td><td>Notre backend (Cloudflare), Google, puis GitHub (la fiche reformulée seulement, sans identité ni adresse IP).</td></tr>
           <tr><td><strong>Connecté</strong> (seulement si un serveur est configuré ; ce n’est pas le cas sur le site public aujourd’hui)</td><td>Envoyée au serveur du site, qui la transmet au fournisseur d’IA pour rechercher des sources et rédiger la réponse. Le serveur garde le dossier en mémoire vive une heure au plus (pour changer de stratégie sans relancer), sans rien écrire sur disque.</td><td>Le serveur du site, puis <strong>Anthropic</strong> (IA et recherche web). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté à la requête.</td></tr>
         </tbody>
       </table></div>

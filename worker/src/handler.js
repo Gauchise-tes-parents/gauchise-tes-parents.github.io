@@ -11,6 +11,7 @@ import { createGeminiProvider, IaError, iaErreur } from './gemini.js';
 import { consigneSysteme, documentsBibliotheque, messageUtilisateur, nettoyer, MODES_IA, VARIANTES_IA } from './prompt.js';
 import { extraireJson, normaliser } from './parse.js';
 import { creerLimites } from './limits.js';
+import { consigneFiche, construireFiche, enregistrerFiche, ficheExistante, idFiche } from './fiche.js';
 
 export const VERSION_IA = '1';
 const MAX_CORPS = 8 * 1024;
@@ -61,7 +62,49 @@ async function hacherCle(t) {
 
 export function createHandler({ fiches, fetchImpl, cache = (typeof caches !== 'undefined' ? caches.default : null), journal = console } = {}) {
   let limites = null; let limitesEnv = null;
-  return async function handle(req, env = {}) {
+  const lesLimites = (env) => { if (!limites || limitesEnv !== env) { limites = creerLimites(env); limitesEnv = env; } return limites; };
+  const fx = fetchImpl || ((...a) => fetch(...a));
+  let fichesDuJour = { jour: '', n: 0 };
+
+  // Phase bêta : une question sans fiche → une fiche sur mesure, sourcée, enregistrée pour toute la communauté.
+  async function creerFicheRoute(req, env, ctx, provider, t0) {
+    let statut = 500;
+    try {
+      if (String(env.FICHES_IA || '0') !== '1') throw new IaError('desactive', 'La création de fiches par l’IA n’est pas activée sur ce site.', 403);
+      const d = validerDemande(await lireCorps(req));
+      if (!provider.disponible()) throw iaErreur('config');
+      const v = await lesLimites(env).visiteur(req.headers.get('cf-connecting-ip') || '');
+      if (!v.ok) throw new IaError('frequence', `Doucement : trop de demandes en peu de temps. Réessaie dans ${Math.max(1, Math.ceil(v.apres / 60))} min.`, 429, { apres: v.apres });
+      // une question déjà couverte par la bibliothèque ne crée pas de fiche (jamais de doublon d'une fiche vérifiée)
+      const { fiches: choisies } = fichesPertinentes(d.question, fiches);
+      if (choisies.length) throw new IaError('couverte', 'Cette question est déjà traitée par une fiche vérifiée de la bibliothèque.', 409);
+      const id = await idFiche(d.question);
+      const deja = await ficheExistante(env, id, fx).catch(() => null);
+      if (deja) { statut = 200; return json(req, env, 200, { fiche: deja, enregistrement: 'deja', depuis_cache: true }); }
+      const jour = new Date().toISOString().slice(0, 10);
+      if (fichesDuJour.jour !== jour) fichesDuJour = { jour, n: 0 };
+      if (fichesDuJour.n >= Number(env.FICHES_IA_PAR_JOUR || 150)) throw new IaError('quota', 'Le nombre de fiches créées aujourd’hui par l’IA a atteint son plafond. Réessaie demain ; la bibliothèque reste disponible.', 429);
+      const g = await lesLimites(env).global();
+      if (!g.ok) throw new IaError('quota', 'Le plafond quotidien de l’intelligence artificielle est atteint pour ce site. Réessaie demain.', 429);
+      fichesDuJour.n += 1;
+      const sortie = await provider.generate({ system: consigneFiche(), user: `<question_utilisateur>\n${d.question}\n</question_utilisateur>`, search: true, exigerRecherche: true, maxTokens: 6000, temperature: 0.3 });
+      const r = await construireFiche({ question: d.question, candidate: sortie.candidate, modele: sortie.modele, fetchImpl: fx });
+      if (!r.fiche) throw new IaError('sources', 'L’IA n’a pas trouvé assez de sources fiables pour créer une fiche sur cette question.', 422, { detail: r.refus });
+      const enreg = enregistrerFiche(env, r.fiche, fx).catch(() => 'echec');
+      let enregistrement = env.GITHUB_TOKEN ? 'en_cours' : 'desactive';
+      if (ctx?.waitUntil) ctx.waitUntil(enreg); else enregistrement = await enreg;
+      statut = 200;
+      return json(req, env, 200, { fiche: r.fiche, enregistrement, recherche: { requetes: sortie.recherche.requetes } });
+    } catch (e) {
+      const err = e instanceof IaError ? e : iaErreur('service');
+      statut = err.status;
+      return erreur(req, env, err);
+    } finally {
+      journal.log?.(`ia POST /api/ia/fiche ${statut} ${Date.now() - t0}ms`);
+    }
+  }
+
+  return async function handle(req, env = {}, ctx = null) {
     const url = new URL(req.url);
     const t0 = Date.now();
     if (req.method === 'OPTIONS') return new Response(null, { status: 204, headers: cors(req, env) });
@@ -70,14 +113,15 @@ export function createHandler({ fiches, fetchImpl, cache = (typeof caches !== 'u
     const recherche = String(env.GEMINI_RECHERCHE ?? '1') !== '0';
     if (url.pathname === '/api/ia/statut' && req.method === 'GET') {
       const manque = [!env.GEMINI_API_KEY && 'cle', !provider.modele && 'modele'].filter(Boolean);
-      return json(req, env, 200, { disponible: provider.disponible(), manque, fournisseur: 'gemini', modele: provider.modele || null, recherche_google: provider.disponible() && recherche, version: VERSION_IA });
+      return json(req, env, 200, { disponible: provider.disponible(), fiches_ia: String(env.FICHES_IA || '0') === '1', manque, fournisseur: 'gemini', modele: provider.modele || null, recherche_google: provider.disponible() && recherche, version: VERSION_IA });
     }
+    if (url.pathname === '/api/ia/fiche' && req.method === 'POST') return creerFicheRoute(req, env, ctx, provider, t0);
     if (url.pathname !== '/api/ia' || req.method !== 'POST') return json(req, env, 404, { erreur: 'Adresse inconnue.', code: 'introuvable' });
     let statut = 500;
     try {
       const d = validerDemande(await lireCorps(req));
       if (!provider.disponible()) throw iaErreur('config');
-      if (!limites || limitesEnv !== env) { limites = creerLimites(env); limitesEnv = env; }
+      lesLimites(env);
       const ip = req.headers.get('cf-connecting-ip') || '';
       const v = await limites.visiteur(ip);
       if (!v.ok) throw new IaError('frequence', `Doucement : trop de demandes en peu de temps. Réessaie dans ${Math.max(1, Math.ceil(v.apres / 60))} min. La bibliothèque reste disponible.`, 429, { apres: v.apres });

@@ -44,6 +44,32 @@ L'adresse publique du Worker est inscrite dans `deploiement.json` (champ `iaBase
 À chaque publication, le site l'utilise et sa politique de sécurité autorise cette seule adresse.
 Pour la changer : modifier `deploiement.json`, ou créer la variable de dépôt GitHub `GTP_IA_BASE`, qui a priorité.
 
+## 2 bis. Phase bêta : fiches créées par l'IA
+
+Chaque question sans fiche déclenche **un seul** appel à Gemini avec recherche Google. Le Worker en tire une fiche au
+format de la bibliothèque : chaque fait est rattaché à une page que Google a réellement consultée (les autres sont
+retirés), les liens de redirection de Google sont remplacés par les adresses réelles, et la fiche est marquée
+« créée par l'IA, non relue ». Elle est enregistrée dans la branche GitHub `fiches-ia` (dossier `data/propositions/`) ;
+toutes les 2 heures, la publication du site la revalide et l'ajoute à la bibliothèque. La même question ne coûte
+jamais deux appels.
+
+Pour l'activer (une fois) :
+1. GitHub → *Settings* (ton profil) → *Developer settings* → *Personal access tokens* → **Fine-grained tokens** →
+   *Generate new token* : accès au **seul** dépôt `gauchise-tes-parents.github.io`, permission
+   **Contents : Read and write**, expiration 90 jours. Copie le jeton (il ne s'affiche qu'une fois).
+2. Cloudflare → Worker → *Settings* → *Variables and Secrets* → *Add* → type **Secret**, nom `GITHUB_TOKEN`,
+   valeur = ce jeton → *Deploy*. Ne le colle nulle part ailleurs.
+3. Les réglages `FICHES_IA`, `FICHES_IA_PAR_JOUR`, `GITHUB_REPO` sont dans `wrangler.toml`. Sans `GITHUB_TOKEN`, les
+   fiches sont créées et affichées à la personne, mais pas enregistrées pour les suivantes.
+
+Relire une fiche : ouvrir `data/propositions/<id>.json` sur la branche `fiches-ia`, corriger, et passer
+`"relecture"` à `"relue"` ; pour la retirer, supprimer le fichier.
+
+Coût indicatif (grille Google publiée, modèle `gemini-3.5-flash-lite`) : environ 1 centime de calcul par fiche,
+plus les recherches Google au-delà des 5 000 gratuites par mois (14 $ les 1 000). Avec le plafond de 50 fiches par
+jour, le calcul reste sous ~15 € par mois ; les budgets Google ne font qu'alerter, ce sont les plafonds du Worker
+(`FICHES_IA_PAR_JOUR`, `PLAFOND_QUOTIDIEN`) qui bloquent réellement la dépense.
+
 ## 3. Réglages (wrangler.toml à la racine du dépôt, sans toucher au code)
 
 | Variable | Rôle | Valeur par défaut |

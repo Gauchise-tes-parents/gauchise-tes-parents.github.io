@@ -96,6 +96,20 @@ export const api = {
       return { disponible: false, configure: true, injoignable: true };
     }
   },
+  /** Phase bêta : création d'une fiche sur mesure (sourcée) pour une question sans fiche. */
+  async iaFiche(question) {
+    if (!IA_BASE || API_STATIC) throw new ApiError('L’intelligence artificielle n’est pas configurée pour ce site.', 503, { code: 'config' });
+    let res;
+    try {
+      res = await fetch(`${IA_BASE}/api/ia/fiche`, { method: 'POST', credentials: 'omit', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ question }) });
+    } catch {
+      throw new ApiError('Impossible de joindre l’intelligence artificielle. Vérifie ta connexion puis relance.', 0, { relancer: true, code: 'reseau' });
+    }
+    let data = {};
+    try { data = await res.json(); } catch { /* réponse vide */ }
+    if (!res.ok) throw new ApiError(data.erreur || `Erreur ${res.status}.`, res.status, data);
+    return data;
+  },
   async ia(payload) {
     if (!IA_BASE || API_STATIC) throw new ApiError('L’intelligence artificielle n’est pas configurée pour ce site.', 503, { code: 'config' });
     let res;

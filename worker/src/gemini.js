@@ -103,6 +103,7 @@ export function createGeminiProvider(env, { fetchImpl = fetch } = {}) {
       recherche: extraireRecherche(cand),
       usage: { entree: data.usageMetadata?.promptTokenCount ?? null, sortie: data.usageMetadata?.candidatesTokenCount ?? null },
       modele: nomModele,
+      candidate: cand,
     };
   }
 
@@ -110,11 +111,14 @@ export function createGeminiProvider(env, { fetchImpl = fetch } = {}) {
     nom: 'gemini',
     modele,
     disponible: () => Boolean(env.GEMINI_API_KEY && modele),
-    async generate({ system, user, search = true, maxTokens = 2048, temperature = 0.4 }) {
+    async generate({ system, user, search = true, maxTokens = 2048, temperature = 0.4, exigerRecherche = false }) {
       if (!env.GEMINI_API_KEY || !modele) throw iaErreur('config');
       // essais : modèle principal (avec recherche), puis sans recherche, puis modèles de secours sans recherche.
       // On ne passe à l'essai suivant que sur un refus de quota, de fréquence ou de modèle : au plus 3 appels.
-      const essais = [{ m: modele, search }, ...(search ? [{ m: modele, search: false }] : []), ...secours.map((m) => ({ m, search: false }))].slice(0, 3);
+      // une fiche exige la recherche (sinon pas de sources) : les essais gardent alors la recherche
+      const essais = exigerRecherche
+        ? [{ m: modele, search: true }, ...secours.map((m) => ({ m, search: true }))].slice(0, 2)
+        : [{ m: modele, search }, ...(search ? [{ m: modele, search: false }] : []), ...secours.map((m) => ({ m, search: false }))].slice(0, 3);
       let derniere = null;
       for (const e of essais) {
         try {

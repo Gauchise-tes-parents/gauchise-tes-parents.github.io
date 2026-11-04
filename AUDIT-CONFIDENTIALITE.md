@@ -49,3 +49,10 @@ dans le code**, et les vérifications sont rejouées automatiquement par `tests/
 - Les **journaux propres aux hébergeurs** (GitHub, Cloudflare) échappent à notre code.
 - Les **suggestions de recherche de Google** (widget « Search suggestions ») ne sont pas affichées telles quelles : leur code HTML contient des styles en ligne interdits par notre politique de sécurité. Les requêtes réellement lancées et les pages consultées sont affichées à la place. Les conditions de Google sur l'affichage de ces suggestions sont à relire par l'administrateur avant une ouverture à grande échelle.
 - Les liens des pages consultées par la recherche Google sont des **liens de redirection de Google** : en cliquant, la personne passe par Google.
+
+## Ajout — phase bêta : fiches créées par l'IA
+
+- Une question sans fiche sert à créer une fiche **publique** (bibliothèque et dépôt GitHub public). La fiche ne contient **pas** la phrase saisie : l'IA reformule l'idée de façon générale, avec la consigne d'en retirer tout nom ou information personnelle ; l'identifiant de la fiche est une empreinte (non réversible) de la question.
+- La mention sous le champ de saisie et la page « Confidentialité et sécurité » l'annoncent explicitement pendant la phase bêta.
+- Le jeton GitHub du Worker est un secret Cloudflare, limité à ce dépôt et au seul droit d'écriture des fichiers.
+- Limite : la consigne de reformulation est suivie par l'IA, pas garantie mécaniquement ; une relecture humaine des fiches reste nécessaire.

@@ -7,5 +7,5 @@ import { createHandler } from './handler.js';
 const handle = createHandler({ fiches: KB.fiches || [] });
 
 export default {
-  fetch: (request, env) => handle(request, env),
+  fetch: (request, env, ctx) => handle(request, env, ctx),
 };

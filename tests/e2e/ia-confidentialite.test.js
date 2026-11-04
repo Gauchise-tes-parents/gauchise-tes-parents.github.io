@@ -33,6 +33,20 @@ function gemini() {
   return fn;
 }
 
+// Gemini simulé qui renvoie une fiche dont les faits sont rattachés par Google à deux pages (redirections simulées)
+function geminiFiche() {
+  const appels = [];
+  const F = { affirmation: 'Les pistes cyclables tuent le commerce de centre-ville.', volet: 'ecologie', sous_theme: 'Transports', verdict: 'trompeur', mots_cles: ['pistes cyclables', 'vélo', 'commerce'], resume: 'Les études disponibles ne montrent pas de baisse du commerce liée aux pistes cyclables.', contexte: 'Des commerçants craignent de perdre des clients venus en voiture.', explication: 'Les commerçants surestiment la part de clients venus en voiture, selon plusieurs enquêtes.', faits: [{ fait: 'Les commerçants surestiment la part de clients venant en voiture', fiabilite: 'etabli' }, { fait: 'Les clients à vélo viennent plus souvent dans les commerces de proximité', fiabilite: 'estimation' }], court: 'Faux : les clients à vélo viennent plus souvent, et la voiture est surestimée par les commerçants.', moyen: 'Paragraphe un, assez long pour la validation.\n\nParagraphe deux.', detaille: 'Paragraphe détaillé numéro un, assez long.\n\nDeux.\n\nTrois.', empathie: 'Je comprends l’inquiétude, mais les études rassurent sur ce point précis.', contre_arguments: [{ objection: 'Sans parking, plus de clients.', reponse: 'La plupart viennent à pied ou à vélo.' }], questions: ['Combien viennent en voiture ?'], limites: ['Effets variables.'], lecture: { valeurs: ['solidarite'], propositions: ['Aménagements cyclables sécurisés.'] } };
+  const fn = async (url) => {
+    if (url.includes('generativelanguage')) { appels.push(url); return { ok: true, status: 200, json: async () => ({ candidates: [{ finishReason: 'STOP', content: { parts: [{ text: JSON.stringify(F) }] }, groundingMetadata: { groundingChunks: [{ web: { uri: 'https://vertexaisearch.cloud.google.com/r/A', title: 'insee.fr' } }, { web: { uri: 'https://vertexaisearch.cloud.google.com/r/B', title: 'ademe.fr' } }], groundingSupports: [{ segment: { text: 'Les commerçants surestiment la part de clients venant en voiture' }, groundingChunkIndices: [0] }, { segment: { text: 'Les clients à vélo viennent plus souvent dans les commerces de proximité' }, groundingChunkIndices: [1] }] } }] }) }; }
+    if (url.endsWith('/r/A')) return { status: 302, headers: new Headers({ location: 'https://www.insee.fr/fr/statistiques/1' }) };
+    if (url.endsWith('/r/B')) return { status: 302, headers: new Headers({ location: 'https://www.ademe.fr/etude' }) };
+    return { ok: true, status: 200, text: async () => '<title>Page consultée</title>' };
+  };
+  fn.appels = appels;
+  return fn;
+}
+
 describe('interface — IA Gemini (simulée) et confidentialité', { skip }, () => {
   let s; let browser; let g; const errors = [];
   before(async () => {
@@ -41,7 +55,7 @@ describe('interface — IA Gemini (simulée) et confidentialité', { skip }, () 
   });
   after(async () => { await browser?.close(); await s?.close(); });
 
-  async function page({ ia = true, statutKo = false } = {}) {
+  async function page({ ia = true, statutKo = false, fichesIa = false } = {}) {
     const ctx = await browser.newContext({ viewport: PHONE, isMobile: true, hasTouch: true, reducedMotion: 'reduce', serviceWorkers: 'block' });
     await ctx.addInitScript(() => { if (!localStorage.getItem('gtp-donnees-v1')) localStorage.setItem('gtp-donnees-v1', JSON.stringify({ reglages: { mode: 'autonome', majAuto: false } })); });
     const p = await ctx.newPage();
@@ -51,9 +65,9 @@ describe('interface — IA Gemini (simulée) et confidentialité', { skip }, () 
     p.on('request', (r) => { if (!r.url().startsWith(s.base) && !r.url().startsWith('data:')) externes.push(r.url()); });
     p.externes = externes;
     if (ia) {
-      g = gemini();
+      g = fichesIa ? geminiFiche() : gemini();
       const handler = createHandler({ fiches: FICHES, fetchImpl: g, cache: null, journal: { log() {} } });
-      const env = { GEMINI_API_KEY: 'cle-test', GEMINI_MODEL: 'gemini-test', ALLOWED_ORIGINS: s.base, LIMITE_PAR_VISITEUR: '100' };
+      const env = { GEMINI_API_KEY: 'cle-test', GEMINI_MODEL: 'gemini-test', ALLOWED_ORIGINS: s.base, LIMITE_PAR_VISITEUR: '100', ...(fichesIa ? { FICHES_IA: '1' } : {}) };
       // le site déclare un backend IA à la même origine ; ses requêtes sont servies par le vrai gestionnaire du Worker
       await p.route('**/config.js', (r) => r.fulfill({ contentType: 'text/javascript', body: `window.GTP_CONFIG = { apiBase: null, iaBase: ${JSON.stringify(s.base)} };` }));
       let statutsRefuses = statutKo ? 1 : 0;
@@ -103,6 +117,23 @@ describe('interface — IA Gemini (simulée) et confidentialité', { skip }, () 
     await express(p, 'Le prix du pain au Moyen Âge était-il régulé ?');
     await p.locator('.ia-contenu').waitFor();
     assert.match(await p.locator('#ia-block').innerText(), /Rédigé par Gemini/);
+    await p.context().close();
+  });
+
+  test('phase bêta : question sans fiche → fiche sur mesure créée par l’IA, affichée comme les autres, étiquetée « non relue »', async () => {
+    const p = await page({ fichesIa: true });
+    await express(p, 'Les pistes cyclables tuent le commerce ?');
+    await p.waitForFunction(() => location.hash === '#/argumentaire', null, { timeout: 15000 });
+    await p.locator('.fiche-ia-note').waitFor();
+    assert.match(await p.locator('.fiche-ia-note').innerText(), /n’a pas encore été relue/);
+    const txt = (await p.locator('.fiche-panel:not([hidden])').innerText()).toLowerCase();
+    assert.ok(txt.includes('1 · la réponse') && txt.includes('2 · les preuves'), 'même présentation que les fiches de la bibliothèque');
+    assert.ok(await p.locator('a[href="https://www.insee.fr/fr/statistiques/1"]').count(), 'source réelle (adresse résolue)');
+    assert.equal(g.appels.length, 1, 'un seul appel à l’IA');
+    // la même question, à nouveau : la fiche est déjà là, aucun nouvel appel
+    await express(p, 'Les pistes cyclables tuent le commerce ?');
+    await p.locator('.fiche-ia-note').waitFor();
+    assert.equal(g.appels.length, 1);
     await p.context().close();
   });
 

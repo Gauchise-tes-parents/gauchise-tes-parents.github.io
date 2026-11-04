@@ -4,6 +4,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # phase bêta : publie régulièrement les fiches créées par l'IA (branche fiches-ia)
+  schedule:
+    - cron: '23 */2 * * *'
   workflow_run:
     workflows: ["Veille automatique"]
     types: [completed]
@@ -23,6 +26,16 @@ jobs:
         with:
           node-version: 22
       - run: npm test
+      # fiches créées par l'IA : ajoutées après les tests, revalidées une par une, marquées « non relue »
+      - name: Intégrer les fiches IA (phase bêta)
+        run: |
+          if git fetch --depth=1 origin fiches-ia 2>/dev/null; then
+            mkdir -p "$RUNNER_TEMP/propositions"
+            git archive FETCH_HEAD data/propositions 2>/dev/null | tar -x -C "$RUNNER_TEMP/propositions" || true
+            node scripts/integrer-fiches-ia.js "$RUNNER_TEMP/propositions"
+          else
+            echo "Pas encore de branche fiches-ia."
+          fi
       - run: node scripts/build-static.js
         env:
           # URL https du serveur du mode connecté (facultatif ; vide = mode autonome seul)
