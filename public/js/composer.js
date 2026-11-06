@@ -425,7 +425,7 @@ const TONS = {
 //   3. comment présenter l'argument (riposte, objections, entrée) ; 4. les conseils de communication.
 // Les deux modes gardent les mêmes faits et les mêmes sources ; seules la formulation et la partie 3-4 changent.
 // (clés sans chiffre : les contrôles « aucun nombre absent de la fiche » lisent tout le contenu des blocs)
-export const PRIORITES = { reponse: ['1', 'La réponse'], preuves: ['2', 'Les preuves'], lecture: ['3', 'La lecture de gauche'], presenter: ['4', 'Comment présenter l’argument'], communication: ['5', 'Comment aborder la discussion'] };
+export const PRIORITES = { reponse: ['1', 'La réponse'], preuves: ['2', 'Les preuves'], lecture: ['3', 'La lecture de gauche'], presenter: ['4', 'Comment lui répondre'], communication: ['5', 'Comment aborder la discussion'] };
 function blocs(plan, fiche, extra = {}) {
   const A = fiche.argumentaires || {};
   const g = plan.mode === 'gagner';
@@ -454,26 +454,32 @@ function blocs(plan, fiche, extra = {}) {
   if (g) {
     // la formule propre à l'argument repéré, sinon la conclusion choisie selon le profil (public, charge de la preuve…)
     const finale = texteConclusion({ ...plan, conclusion: plan.conclusion === 'synthese' ? 'demande_preuve' : plan.conclusion }, fiche);
-    add('presenter', { type: 'riposte', titre: 'La riposte qui fait réfléchir', texte: extra.formule || finale, question: plan.questions[0] || null });
+    // v14 — public : électeur d'extrême droite convaincu
+    if (fiche.publics?.convaincus) add('presenter', { type: 'texte', titre: 'Face à un électeur convaincu', texte: fiche.publics.convaincus });
+    add('presenter', { type: 'riposte', titre: 'La réplique qui sème le doute', texte: extra.formule || finale, question: plan.questions[0] || null });
     // conclusion propre au profil (public, charge de la preuve) : seulement si le profil l'a demandée
     if (extra.formule && ['public', 'demande_preuve'].includes(plan.conclusion)) add('presenter', { type: 'conclusion', titre: 'Pour conclure', texte: finale });
-    for (const o of plan.objections) add('presenter', { type: 'objection', titre: 'S’il te répond ceci', objection: o.objection, reponse: o.reponse });
+    for (const o of plan.objections) add('presenter', { type: 'objection', titre: 'Ce qu’il va te répondre', objection: o.objection, reponse: o.reponse });
     add('presenter', { type: 'entree', titre: 'Pour lancer l’argument', texte: texteEntree(plan, fiche) });
     if (plan.recentrage) add('presenter', { type: 'texte', titre: 'S’il détourne le sujet', texte: 'On parlait de ce point précis ; je te réponds volontiers sur l’autre sujet ensuite.' });
   } else {
-    add('presenter', { type: 'entree', titre: 'Pour l’introduire sans braquer', texte: texteEntree(plan, fiche) });
-    if (plan.questions.length) add('presenter', { type: 'questions', titre: 'Les questions pour comprendre son point de vue', items: plan.questions.slice(0, 3) });
-    if (fiche.objections_legitimes?.length) add('presenter', { type: 'liste', titre: 'Ce qu’il faut reconnaître', items: fiche.objections_legitimes });
+    // v14 — public : indécis
+    if (fiche.publics?.indecis) add('presenter', { type: 'texte', titre: 'Face à un indécis', texte: fiche.publics.indecis });
+    add('presenter', { type: 'entree', titre: 'Pour l’expliquer simplement', texte: texteEntree(plan, fiche) });
+    if (fiche.objections_legitimes?.length) add('presenter', { type: 'liste', titre: 'Ses inquiétudes légitimes, à reconnaître', items: fiche.objections_legitimes });
+    if (plan.questions.length) add('presenter', { type: 'questions', titre: 'Les questions pour l’aider à se faire son avis', items: plan.questions.slice(0, 3) });
     for (const o of plan.objections) add('presenter', { type: 'objection', titre: 'S’il te répond ceci', objection: o.objection, reponse: o.reponse });
     if (extra.formule) add('presenter', { type: 'conclusion', titre: 'Une phrase pour faire réfléchir', texte: extra.formule });
   }
   // 4 — communication, selon le mode
   add('communication', { type: 'ton', titre: 'Le ton', texte: TONS[plan.ton] || TONS.assure });
   if (g) {
+    add('communication', { type: 'texte', titre: 'Avec un convaincu', texte: 'Ne cherche pas à l’humilier : on change rarement d’avis en perdant la face. Une affirmation à la fois, un fait solide, puis une question à laquelle il doit répondre lui-même. S’il y a du monde autour, ce sont souvent eux que tu convaincs.' });
     add('communication', { type: 'texte', titre: 'Pour ne pas te disperser', texte: 'Un argument à la fois, une source pour chaque chiffre ; s’il change de sujet, ramène-le au point de départ.' });
   } else {
     if (plan.angles.length) add('communication', { type: 'texte', titre: 'Partir de ce qui compte pour lui', texte: plan.angles.map((a) => ANGLES[a]).join(' ') });
-    if (A.empathie) add('communication', { type: 'empathie', titre: 'La même réponse, dite avec empathie', texte: A.empathie });
+    add('communication', { type: 'texte', titre: 'Avec un indécis', texte: 'Il cherche des repères, pas un sermon. Écoute d’abord ce qui l’inquiète, reconnais ce qui est légitime, puis donne un ou deux faits clairs et une source qu’il pourra vérifier seul.' });
+    if (A.empathie) add('communication', { type: 'empathie', titre: 'La même réponse, avec des mots simples', texte: A.empathie });
     add('communication', { type: 'conclusion', titre: 'Pour conclure', texte: texteConclusion(plan, fiche) });
     if (plan.apaisement) add('communication', { type: 'texte', titre: 'Si ça monte', texte: 'On peut en reparler plus tard, tranquillement. Ce n’est pas grave de ne pas être d’accord ce soir.' });
   }

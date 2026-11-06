@@ -71,8 +71,8 @@ describe('cohérence des réponses dans tous les domaines (v11)', () => {
           n += 1;
         }
         const tg = a.gagner.blocs.map((x) => x.titre); const tc = a.convaincre.blocs.map((x) => x.titre);
-        assert.ok(tg.includes('La riposte qui fait réfléchir') && !tg.some((t) => /empathie|sans braquer/i.test(t)), `${f.id} : mode gagner`);
-        assert.ok(tc.includes('Pour l’introduire sans braquer'), `${f.id} : mode convaincre`);
+        assert.ok(tg.includes('La réplique qui sème le doute') && !tg.some((t) => /indécis|expliquer simplement|mots simples|se faire son avis/i.test(t)), `${f.id} : mode gagner`);
+        assert.ok(tc.includes('Pour l’expliquer simplement'), `${f.id} : mode convaincre`);
       }
     }
     assert.ok(n >= 435 * 6, String(n));

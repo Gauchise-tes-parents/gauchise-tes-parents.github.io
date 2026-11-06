@@ -697,7 +697,7 @@ export function resumeConversation(conv, { max = 2500 } = {}) {
   const last = (arr, k) => arr.slice(-k);
   const L = [];
   L.push(`Sujet initial : « ${conv.sujet.affirmation} »${conv.sujet.question && conv.sujet.question !== conv.sujet.affirmation ? ` (question posée : « ${conv.sujet.question} »)` : ''}.`);
-  L.push(`Objectif : ${conv.mode === 'gagner' ? 'gagner le débat' : 'convaincre avec empathie'}.`);
+  L.push(`Public : ${conv.mode === 'gagner' ? 'électeur d’extrême droite convaincu' : 'personne indécise'}.`);
   L.push(`Hypothèses de l’utilisateur sur l’interlocuteur (non vérifiées) : ${conv.hypotheses.inconnu ? 'aucune' : resumeProfil(conv.hypotheses) || 'aucune'}.`);
   if (conv.infos.length) L.push(`Informations données par l’utilisateur : ${conv.infos.join(' ; ')}.`);
   L.push(`Échanges : ${conv.tours.length}. Sujet en cours : ${conv.courante === conv.sujet.fiche_id ? 'le sujet initial' : `un sujet voisin (${conv.courante})`}.`);

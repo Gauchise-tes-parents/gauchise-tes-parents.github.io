@@ -1,5 +1,5 @@
 {
-  "_commentaire": "Adresses PUBLIQUES utilisées à la publication du site (aucun secret ici). Une variable de dépôt GitHub du même nom (GTP_IA_BASE, GTP_API_BASE) a priorité.",
-  "iaBase": "https://gauchise-tes-parents-github-io.marty-goupil.workers.dev",
+  "_commentaire": "Adresses PUBLIQUES utilisées à la publication du site (aucun secret ici). iaBase : null = IA Gemini débranchée du site (v14 : les fiches sont créées chaque jour par Claude, sans coût Gemini). Une variable de dépôt GitHub du même nom a priorité.",
+  "iaBase": null,
   "apiBase": null
 }

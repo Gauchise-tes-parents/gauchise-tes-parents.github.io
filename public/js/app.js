@@ -189,7 +189,8 @@ function viewHome() {
   <section class="home-hero">
     <div class="wrap">
       <h1 class="hero-title"><span>ENVIE DE GAUCHISER</span> <span>LE REPAS</span> <span>DE FAMILLE ?</span></h1>
-      <p class="hero-lede">Ton oncle vient de sortir une énormité ? Choisis ta stratégie : on cherche les sources en direct et on te prépare la réponse.</p>
+      <p class="alpha-banner" role="note"><strong>Version alpha</strong> réservée aux soutiens Tipeee : la bibliothèque s’enrichit chaque jour de nouvelles fiches sourcées. Merci de tester et de signaler ce qui cloche !</p>
+      <p class="hero-lede">Ton oncle vient de sortir une énormité ? Dis-nous à qui tu parles — un électeur d’extrême droite convaincu ou une personne indécise — et on te prépare une réponse sourcée.</p>
     </div>
   </section>
 
@@ -380,7 +381,7 @@ function rafraichirSugg(key, cible, opts) {
 
 function wizardBody(w) {
   if (w.step === 1) {
-    return `<h1 class="step-title">Quel est ton objectif ?</h1>
+    return `<h1 class="step-title">À qui parles-tu ?</h1>
       <div class="mode-grid" role="radiogroup" aria-label="Objectif">${modeCard('gagner', { selectable: true, selected: w.mode === 'gagner' })}${modeCard('convaincre', { selectable: true, selected: w.mode === 'convaincre' })}</div>`;
   }
   if (w.step === 2) {
@@ -420,7 +421,7 @@ function viewWizard() {
 }
 
 function validateStep(w) {
-  if (w.step === 1 && !w.mode) return 'Choisis ton objectif : gagner le débat ou convaincre sans braquer.';
+  if (w.step === 1 && !w.mode) return 'Choisis à qui tu parles : un électeur d’extrême droite convaincu, ou une personne indécise.';
   if (w.step === 2 && !w.volet) return 'Choisis un volet (ou « Autre sujet »).';
   if (w.step === 3 && w.affirmation.trim().length < 5) return 'Écris l’affirmation à vérifier (au moins quelques mots).';
   return '';
@@ -857,6 +858,7 @@ function viewFiche(f, tab = 'court') {
       <p class="crumb"><a href="#/bibliotheque">Bibliothèque</a>${rubs.length ? ` · ${rubs.map((rb) => `<a href="#/rubriques/${h(rb.id)}">${h(rb.court)}</a>`).join(' · ')}` : ''}</p>
       <div class="claim-bubble"><span class="claim-label">${h(TYPES_FICHE[f.type] || 'Idée reçue')}</span><p>« ${h(f.affirmation)} »</p></div>
       ${ficheIaHtml(f)}
+      ${publicsHtml(f)}
 
       <article class="verdict-card verdict-card--${h(vkey)}" aria-labelledby="verdict-title">
         <div class="verdict-mascot">${mascotSvg(f.verdict || 'opinion', f.origine === 'ia' ? 'Fiche créée par l’IA, non relue' : 'Doc Source a vérifié la fiche', 96)}</div>
@@ -1016,7 +1018,7 @@ function viewArgumentaire() {
     return `<div class="fiche-panel" role="tabpanel" id="strat-panel-${mode}" aria-labelledby="strat-${mode}" tabindex="0" ${c.vue === mode ? '' : 'hidden'}>
       ${a[mode].blocs.map((b, i, arr) => `${i === 0 || arr[i - 1].priorite !== b.priorite ? `<p class="prio-label prio-${b.priorite}">${PRIORITES[b.priorite][0]} · ${h(PRIORITES[b.priorite][1])}</p>` : ''}${blocHtml(b, mode)}`).join('')}
       ${p2.prochaine.length ? `<h3 class="sub-title">Et ensuite</h3><ul class="prochaine">${p2.prochaine.map((x) => `<li>${h(x.texte)}</li>`).join('')}</ul>` : ''}
-      <p class="hint">${mode === 'gagner' ? h(MODES.gagner.sousTitre) : 'Mêmes faits, mêmes sources : présentés progressivement, sans braquer.'}</p>
+      <p class="hint">${mode === 'gagner' ? h(MODES.gagner.sousTitre) : h(MODES.convaincre.sousTitre)}</p>
       ${planResume(p2)}
     </div>`;
   };
@@ -1141,7 +1143,7 @@ function conversationHtml(c) {
   return `<section class="block conv-block" id="conversation" aria-labelledby="conv-title">
     <h2 id="conv-title" class="block-title">La conversation continue</h2>
     <p class="hint">Après chaque réponse de ton interlocuteur, raconte-la ici : je propose la suite en tenant compte de tout ce qui a déjà été dit. Il n’y a pas de limite d’échanges ; c’est toi qui décides quand c’est fini.</p>
-    <p class="conv-etat"><span class="tag">${cv.mode === 'gagner' ? 'Gagner le débat' : 'Convaincre avec empathie'}</span> <span class="tag">${cv.tours.length} échange${cv.tours.length > 1 ? 's' : ''}</span> <span class="tag">${h(PHASES[phaseConversation(cv)])}</span>${cv.courante !== cv.sujet.fiche_id ? ` <span class="tag">sujet voisin en cours</span> <button type="button" class="link-btn" data-conv-option="rester">revenir au sujet initial</button>` : ''}</p>
+    <p class="conv-etat"><span class="tag">${cv.mode === 'gagner' ? 'Électeur convaincu' : 'Indécis'}</span> <span class="tag">${cv.tours.length} échange${cv.tours.length > 1 ? 's' : ''}</span> <span class="tag">${h(PHASES[phaseConversation(cv)])}</span>${cv.courante !== cv.sujet.fiche_id ? ` <span class="tag">sujet voisin en cours</span> <button type="button" class="link-btn" data-conv-option="rester">revenir au sujet initial</button>` : ''}</p>
     <ol class="conv-fil" id="conv-fil">${cv.tours.map(convTourHtml).join('')}</ol>
     ${c.convPending ? `<p class="conv-attente" role="status">${mascotSvg('search', 'La mascotte réfléchit', 40)} Je réfléchis à la suite…</p>` : ''}
     ${err ? `<div class="notice notice--error" role="alert"><p><strong>La suite n’a pas pu être préparée :</strong> ${h(err.message)}</p><p class="hint">Ta conversation est conservée, rien n’est perdu.</p>
@@ -1213,7 +1215,7 @@ function refreshCompo() {
 const iaEtat = { statut: null, charge: false, data: null, erreur: null, question: null, mode: 'gagner' };
 const iaDispo = () => Boolean(iaEtat.statut?.disponible);
 const IA_STATUTS = { fait: 'Fait établi', estimation: 'Estimation', interpretation: 'Interprétation', opinion: 'Opinion politique', non_verifie: 'Non vérifié' };
-const IA_MODES = { express: 'Coup express', gagner: 'Gagner le débat', convaincre: 'Convaincre avec empathie', approfondir: 'Approfondir' };
+const IA_MODES = { express: 'Coup express', gagner: 'Électeur convaincu', convaincre: 'Indécis', approfondir: 'Approfondir' };
 function iaPreparer(question, mode) { Object.assign(iaEtat, { question, mode, data: null, erreur: null, charge: false, creation: false, noteFiche: null }); }
 // L'IA n'est jamais déclarée indisponible sur la foi d'un ancien contrôle : on revérifie avant de renoncer.
 async function iaVerifierStatut() {
@@ -1251,6 +1253,16 @@ async function iaCreerFiche() {
     iaRafraichir();
   }
 }
+// v14 : réponses rédigées pour chacun des deux publics (quand la fiche les contient)
+function publicsHtml(f) {
+  const p = f?.publics;
+  if (!p?.convaincus && !p?.indecis) return '';
+  return `<section class="block publics-block" aria-labelledby="publics-title"><h2 id="publics-title" class="block-title">Selon la personne en face</h2>
+    ${p.convaincus ? `<h3 class="sub-title">${h(MODES.gagner.carte.charAt(0) + MODES.gagner.carte.slice(1).toLowerCase())}</h3><p>${h(p.convaincus)}</p>` : ''}
+    ${p.indecis ? `<h3 class="sub-title">Une personne indécise</h3><p>${h(p.indecis)}</p>` : ''}
+  </section>`;
+}
+
 // Étiquette d'une fiche créée par l'IA (non relue) : affichée partout où la fiche apparaît.
 function ficheIaHtml(f, extra = null) {
   if (f?.origine !== 'ia') return '';
@@ -1662,7 +1674,7 @@ function viewPublier() {
         <li>Le site s’ouvre sur un téléphone, sur un autre réseau (4G).</li>
         <li>Après une première visite, il fonctionne en mode avion (bibliothèque, fiches, argumentaires).</li>
         <li>Les liens des sources s’ouvrent.</li>
-        <li>Les deux stratégies (« Gagner le débat » et « Convaincre avec empathie ») s’affichent pour une question couverte.</li>
+        <li>Les deux publics (« Électeur convaincu » et « Indécis ») s’affichent pour une question couverte.</li>
         <li>Aucun message d’erreur n’apparaît à cause d’un serveur volontairement absent.</li>
         <li>Aucune clé API ni fichier <code>.env</code> dans le dépôt public ; plafonds de dépenses réglés côté fournisseur et côté serveur.</li>
       </ul>
@@ -1729,10 +1741,10 @@ function viewAbout() {
       <h2>Notre ligne éditoriale</h2>
       <p>Le projet assume une orientation de gauche : justice sociale, solidarité, égalité, services publics, lutte contre les idées reçues. L’outil aide à défendre des arguments de gauche et à analyser les discours de droite et d’extrême droite. Les partis et les personnalités sont des sujets d’analyse, pas des verdicts écrits d’avance.</p>
       <p>Assumer une ligne, ce n’est pas tricher avec les faits. L’outil distingue toujours les faits vérifiables, les interprétations, les jugements de valeur et les propositions politiques. Si une donnée contredit ton argument, il te le dit et t’aide à le reformuler sur des bases solides.</p>
-      <h2>Deux stratégies, une seule exigence de preuve</h2>
+      <h2>Deux publics, une seule exigence de preuve</h2>
       <ul>
-        <li><strong>Gagner le débat :</strong> quand l’interlocuteur est campé sur ses positions. Le vrai public, c’est le reste de la table.</li>
-        <li><strong>Convaincre sans braquer :</strong> quand le dialogue est possible. On part des inquiétudes, sans flatterie ni manipulation.</li>
+        <li><strong>Électeur d’extrême droite convaincu :</strong> il ne changera pas d’avis d’un coup. On démonte l’argument avec des faits, on sème le doute sans l’humilier, et on pense à ceux qui écoutent.</li>
+        <li><strong>Indécis :</strong> il hésite. On part de ses inquiétudes, on reconnaît ce qui est légitime et on lui donne des repères fiables, sans flatterie ni manipulation.</li>
       </ul>
       <h2>Comment la recherche fonctionne</h2>
       <ul>
@@ -2085,7 +2097,7 @@ document.addEventListener('click', async (ev) => {
     if (state.compo.conv && !state.compo.conv.terminee) {
       state.compo.conv.mode = state.compo.vue;
       const et = document.querySelector('.conv-etat .tag');
-      if (et) et.textContent = state.compo.vue === 'gagner' ? 'Gagner le débat' : 'Convaincre avec empathie';
+      if (et) et.textContent = state.compo.vue === 'gagner' ? 'Électeur convaincu' : 'Indécis';
       sauverConv();
     }
     $$('[data-strat]').forEach((b) => { const on = b.dataset.strat === state.compo.vue; b.classList.toggle('is-on', on); b.setAttribute('aria-selected', String(on)); b.tabIndex = on ? 0 : -1; });

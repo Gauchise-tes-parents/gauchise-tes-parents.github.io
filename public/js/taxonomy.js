@@ -4,21 +4,22 @@
 export const TIPEEE_URL = 'https://fr.tipeee.com/martyducanda/';
 
 export const MODES = {
+  // v14 : deux PUBLICS plutôt que deux stratégies (identifiants internes inchangés : gagner, convaincre)
   gagner: {
-    label: 'GAGNER LE DÉBAT',
-    carte: 'GAGNER LE DÉBAT',
-    sousTitre: 'Tu ne le convaincras peut-être pas. Mais toute la table t’écoute.',
-    description: 'Prépare des arguments solides, des réponses incisives et une démonstration qui marque les esprits.',
-    bouton: 'Préparer ma riposte',
-    court: 'Gagner le débat',
+    label: 'ÉLECTEUR D’EXTRÊME DROITE CONVAINCU',
+    carte: 'ÉLECTEUR D’EXTRÊME DROITE CONVAINCU',
+    sousTitre: 'Il ne changera pas d’avis d’un coup. Démonte l’argument, sème le doute sans l’humilier — et pense à ceux qui écoutent.',
+    description: 'Des faits solides, une réplique courte, les objections qu’il va te sortir et la question qui le fait réfléchir.',
+    bouton: 'Préparer ma réponse',
+    court: 'Électeur convaincu',
   },
   convaincre: {
-    label: 'CONVAINCRE SANS BRAQUER',
-    carte: 'CONVAINCRE AVEC EMPATHIE',
-    sousTitre: 'Comprendre ses inquiétudes pour ouvrir une autre perspective.',
-    description: 'Comprends ses préoccupations et trouve la bonne manière d’expliquer les faits.',
-    bouton: 'Préparer le dialogue',
-    court: 'Convaincre sans braquer',
+    label: 'INDÉCIS',
+    carte: 'INDÉCIS',
+    sousTitre: 'Il hésite, il s’interroge : pars de ses inquiétudes et donne-lui des repères fiables.',
+    description: 'Ce qui peut l’inquiéter, les valeurs que vous partagez, une explication simple et des questions pour se faire son avis.',
+    bouton: 'Préparer l’échange',
+    court: 'Indécis',
   },
 };
 

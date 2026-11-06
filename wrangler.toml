@@ -16,12 +16,14 @@ command = "node scripts/build-worker-kb.js"
 
 [vars]
 # Modèle Gemini : à changer ici sans toucher au code (liste à jour : https://ai.google.dev/gemini-api/docs/models)
-GEMINI_MODEL = "gemini-3.5-flash-lite"
+# v14 : IA Gemini DÉSACTIVÉE (modèle vide = aucun appel à Google, même si la clé est présente).
+# Pour la réactiver : GEMINI_MODEL = "gemini-3.5-flash-lite"
+GEMINI_MODEL = ""
 # Recherche Google (« grounding ») pour les réponses directes : "1" activée, "0" désactivée.
 # Coupée par défaut pour réserver le quota de recherche aux fiches (la création de fiche cherche toujours).
 GEMINI_RECHERCHE = "0"
 # Modèles de secours (séparés par des virgules), essayés seulement si le modèle principal est refusé (quota, modèle absent)
-GEMINI_MODELES_SECOURS = "gemini-2.5-flash-lite"
+GEMINI_MODELES_SECOURS = ""
 GEMINI_TIMEOUT_MS = "45000"
 # Seuls ces sites peuvent appeler le backend depuis un navigateur (séparés par des virgules)
 ALLOWED_ORIGINS = "https://gauchise-tes-parents.github.io"
@@ -33,7 +35,7 @@ PLAFOND_QUOTIDIEN = "300"
 # Phase bêta : chaque question sans fiche devient une fiche sur mesure, sourcée, enregistrée dans la branche
 # GitHub « fiches-ia » puis publiée dans la bibliothèque (marquée « créée par l'IA, non relue »).
 # Exige le secret GITHUB_TOKEN (jeton GitHub limité à ce dépôt, droit « Contents : read and write »).
-FICHES_IA = "1"
+FICHES_IA = "0"
 FICHES_IA_PAR_JOUR = "50"
 GITHUB_REPO = "Gauchise-tes-parents/gauchise-tes-parents.github.io"
 GITHUB_BRANCHE = "fiches-ia"

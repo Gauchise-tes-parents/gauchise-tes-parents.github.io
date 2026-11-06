@@ -17,13 +17,13 @@ test('dix volets thématiques avec leurs sous-thèmes', () => {
   assert.equal(VOLETS[9].sousThemes.length, 0); // saisie libre
 });
 
-test('deux modes, libellés conformes', () => {
-  assert.equal(MODES.gagner.label, 'GAGNER LE DÉBAT');
-  assert.equal(MODES.gagner.sousTitre, 'Tu ne le convaincras peut-être pas. Mais toute la table t’écoute.');
-  assert.equal(MODES.gagner.bouton, 'Préparer ma riposte');
-  assert.equal(MODES.convaincre.label, 'CONVAINCRE SANS BRAQUER');
-  assert.equal(MODES.convaincre.carte, 'CONVAINCRE AVEC EMPATHIE');
-  assert.equal(MODES.convaincre.bouton, 'Préparer le dialogue');
+test('deux publics (v14), libellés conformes', () => {
+  assert.equal(MODES.gagner.label, 'ÉLECTEUR D’EXTRÊME DROITE CONVAINCU');
+  assert.match(MODES.gagner.sousTitre, /sans l’humilier/);
+  assert.equal(MODES.gagner.bouton, 'Préparer ma réponse');
+  assert.equal(MODES.convaincre.label, 'INDÉCIS');
+  assert.equal(MODES.convaincre.carte, 'INDÉCIS');
+  assert.equal(MODES.convaincre.bouton, 'Préparer l’échange');
   assert.equal(PROFILS.length, 8);
 });
 

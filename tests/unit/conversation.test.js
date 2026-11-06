@@ -294,5 +294,5 @@ describe('conversation continue (mode connecté, service d’IA simulé)', () =>
 
 test('résumé : sujet, objectif et hypothèses toujours présents', () => {
   const conv = nouvelleConversation(byId('rsa-smic'), { mode: 'convaincre' });
-  assert.match(resumeConversation(conv), /Objectif : convaincre avec empathie/);
+  assert.match(resumeConversation(conv), /Public : personne indécise/);
 });

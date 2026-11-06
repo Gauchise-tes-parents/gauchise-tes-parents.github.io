@@ -50,10 +50,10 @@ describe('interface — mode démonstration', { skip }, () => {
     const page = await newPage(browser, PHONE, errors);
     await page.goto(`${s.base}/#/`);
     await page.getByRole('heading', { level: 1, name: /ENVIE DE GAUCHISER/ }).waitFor();
-    assert.ok(await page.getByText('GAGNER LE DÉBAT', { exact: true }).isVisible());
-    assert.ok(await page.getByText('CONVAINCRE AVEC EMPATHIE', { exact: true }).isVisible());
-    assert.ok(await page.getByRole('link', { name: 'Préparer ma riposte' }).isVisible());
-    assert.ok(await page.getByRole('link', { name: 'Préparer le dialogue' }).isVisible());
+    assert.ok(await page.getByText('ÉLECTEUR D’EXTRÊME DROITE CONVAINCU', { exact: true }).isVisible());
+    assert.ok(await page.getByText('INDÉCIS', { exact: true }).isVisible());
+    assert.ok(await page.getByRole('link', { name: 'Préparer ma réponse' }).isVisible());
+    assert.ok(await page.getByRole('link', { name: 'Préparer l’échange' }).isVisible());
     assert.equal(await page.locator('#mode-pill').textContent(), 'Autonome');
     assert.equal(await page.locator('#mode-banner').count(), 0, 'plus de bandeau d’erreur serveur');
     // barre d'onglets accessible au pouce : collée en bas de l'écran
@@ -67,7 +67,7 @@ describe('interface — mode démonstration', { skip }, () => {
     await tab(page, 'Bibliothèque').click();
     await page.getByRole('heading', { name: 'Bibliothèque', level: 1 }).waitFor();
     await tab(page, 'Débat').click();
-    await page.getByRole('heading', { name: 'Quel est ton objectif ?' }).waitFor();
+    await page.getByRole('heading', { name: 'À qui parles-tu ?' }).waitFor();
     await tab(page, 'Accueil').click();
     await page.getByRole('heading', { level: 1, name: /ENVIE DE GAUCHISER/ }).waitFor();
     await page.getByRole('link', { name: 'À propos', exact: true }).first().click();
@@ -87,7 +87,7 @@ describe('interface — mode démonstration', { skip }, () => {
       }
       // les boutons principaux sont assez grands pour le doigt
       await page.goto(`${s.base}/#/`);
-      const h = (await page.getByRole('link', { name: 'Préparer ma riposte' }).boundingBox()).height;
+      const h = (await page.getByRole('link', { name: 'Préparer ma réponse' }).boundingBox()).height;
       assert.ok(h >= 44, `bouton de ${h}px`);
       await page.close();
     });
@@ -123,7 +123,7 @@ describe('interface — mode démonstration', { skip }, () => {
   test('parcours : mode, volet, sous-thème, saisie, retour, changement de mode, résultat démo', async () => {
     const page = await newPage(browser, PHONE, errors);
     await page.goto(`${s.base}/#/`);
-    await page.getByRole('link', { name: 'Préparer ma riposte' }).click();
+    await page.getByRole('link', { name: 'Préparer ma réponse' }).click();
     // le mode est déjà choisi : on arrive directement au sujet
     await page.getByRole('heading', { name: 'De quoi ça parle ?' }).waitFor();
     assert.equal(await page.locator('[data-pick-volet]').count(), 10);
@@ -134,17 +134,17 @@ describe('interface — mode démonstration', { skip }, () => {
     assert.equal(await page.getByRole('button', { name: 'Chômage', exact: true }).getAttribute('aria-pressed'), 'true');
     await page.getByRole('button', { name: 'Continuer' }).click();
     await page.getByRole('heading', { name: /qu’est-ce qu’il a encore raconté/ }).waitFor();
-    assert.match(await page.locator('.step-help').textContent(), /Gagner le débat · Aides sociales · Chômage/);
+    assert.match(await page.locator('.step-help').textContent(), /Électeur convaincu · Aides sociales · Chômage/);
     await page.getByRole('button', { name: /Les chômeurs ne veulent pas travailler/ }).click();
     assert.equal(await page.locator('#affirmation').inputValue(), 'Les chômeurs ne veulent pas travailler.');
     // retour arrière puis changement de mode : la saisie est conservée
     await page.getByRole('button', { name: /Revenir à l’étape 1/ }).click();
-    await page.getByRole('radio', { name: /CONVAINCRE SANS BRAQUER/ }).click();
+    await page.getByRole('radio', { name: /INDÉCIS/ }).click();
     await page.getByRole('heading', { name: 'De quoi ça parle ?' }).waitFor();
     assert.equal(await page.getByRole('radio', { name: /Assistanat/ }).getAttribute('aria-checked'), 'true');
     await page.getByRole('button', { name: 'Continuer' }).click();
     assert.equal(await page.locator('#affirmation').inputValue(), 'Les chômeurs ne veulent pas travailler.');
-    assert.match(await page.locator('.step-help').textContent(), /Convaincre sans braquer/);
+    assert.match(await page.locator('.step-help').textContent(), /Indécis/);
     await page.getByText('Décrire la personne en face').click();
     assert.equal(await page.getByRole('button', { name: 'Je ne connais pas assez cette personne' }).getAttribute('aria-pressed'), 'true');
     await page.getByRole('button', { name: 'Susceptible', exact: true }).click();
@@ -154,11 +154,11 @@ describe('interface — mode démonstration', { skip }, () => {
     // mode autonome : argumentaire composé localement, sans réseau ni IA
     await page.getByRole('heading', { name: 'L’argument d’en face, version solide' }).waitFor();
     assert.ok(await page.getByText('Composé à partir de la bibliothèque locale').isVisible());
-    assert.equal(await page.getByRole('tab', { name: 'CONVAINCRE AVEC EMPATHIE' }).getAttribute('aria-selected'), 'true', 'le mode choisi est ouvert');
+    assert.equal(await page.getByRole('tab', { name: 'INDÉCIS' }).getAttribute('aria-selected'), 'true', 'le mode choisi est ouvert');
     // v9 : la réponse et les faits d'abord, puis les questions ouvertes pour les introduire (profil susceptible)
     const titresC = await page.locator('#strat-panel-convaincre h3.sub-title').allTextContents();
     assert.equal(titresC[0], 'Ce que tu peux répondre');
-    assert.ok(titresC.includes('Les questions pour comprendre son point de vue'), 'profil susceptible : questions ouvertes');
+    assert.ok(titresC.includes('Les questions pour l’aider à se faire son avis'), 'profil susceptible : questions ouvertes');
     assert.ok(await page.locator('a[href="#/bibliotheque/chomeurs-travailler"]').first().isVisible());
     // v13 (confidentialité) : après un rechargement, les choix du parcours restent, mais PAS le texte saisi
     await page.goto(`${s.base}/#/debat`);
@@ -179,8 +179,8 @@ describe('interface — mode démonstration', { skip }, () => {
     assert.equal(await page.locator('.sub-item').count(), 13);
     await page.locator('#theme-fiches .fiche-card').first().waitFor();
     await page.locator('.sub-item', { hasText: 'Récidive' }).click();
-    await page.getByRole('heading', { name: 'Quel est ton objectif ?' }).waitFor();
-    await page.getByRole('radio', { name: /GAGNER LE DÉBAT/ }).click();
+    await page.getByRole('heading', { name: 'À qui parles-tu ?' }).waitFor();
+    await page.getByRole('radio', { name: /ÉLECTEUR D’EXTRÊME DROITE CONVAINCU/ }).click();
     await page.getByRole('heading', { name: 'De quoi ça parle ?' }).waitFor();
     assert.equal(await page.getByRole('button', { name: 'Récidive', exact: true }).getAttribute('aria-pressed'), 'true');
     await page.close();
@@ -226,7 +226,7 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.getByRole('button', { name: 'Copier la réponse' }).click();
     await page.getByText('Réplique copiée !').waitFor();
     assert.ok(await page.getByRole('link', { name: 'Composer mon argumentaire' }).isVisible());
-    assert.equal(await page.getByRole('button', { name: 'Préparer ma riposte' }).count(), 0, 'pas de bouton IA en mode autonome');
+    assert.equal(await page.getByRole('button', { name: 'Préparer ma réponse' }).count(), 0, 'pas de bouton IA en mode autonome');
     // anciennes adresses redirigées
     await page.goto(`${s.base}/#/idees-recues/rsa-smic`);
     await page.getByRole('heading', { name: /Contredit/ }).waitFor();
@@ -256,7 +256,7 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.getByRole('tab', { name: 'Sources et preuves' }).click();
     assert.ok(await page.getByText('Citations vérifiées').isVisible());
     await page.getByRole('tab', { name: 'Contre-arguments' }).click();
-    assert.ok(await page.getByText('Ce qu’il faut reconnaître').isVisible());
+    assert.ok(await page.getByText(/Ce qu’il faut reconnaître|Ses inquiétudes légitimes/).isVisible());
     // clavier : flèche droite
     await page.getByRole('tab', { name: 'Contre-arguments' }).focus();
     await page.keyboard.press('ArrowRight');
@@ -303,8 +303,8 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.getByText(/Pourquoi cette stratégie/).click();
     assert.ok(await page.locator('.regles a[href="#/bibliotheque/sci-desinformation-confiance"]').first().isVisible());
     // stratégie empathique
-    await page.getByRole('tab', { name: 'CONVAINCRE AVEC EMPATHIE' }).click();
-    assert.ok(await page.getByText('Ce qu’il faut reconnaître').first().isVisible());
+    await page.getByRole('tab', { name: 'INDÉCIS' }).click();
+    assert.ok(await page.getByText(/Ce qu’il faut reconnaître|Ses inquiétudes légitimes/).first().isVisible());
     // adaptation progressive
     await page.locator('[data-conv-raccourci="braque"]').click();
     await page.locator('#conv-fil .conv-tour').first().waitFor();
@@ -412,8 +412,8 @@ describe('interface — mode démonstration', { skip }, () => {
     const chips = async () => page.locator('#sugg-wizard .sugg-chip').evaluateAll((els) => els.map((e) => e.dataset.exampleFill));
     // Immigration et travail, mode « gagner »
     await page.goto(`${s.base}/#/debat`);
-    await page.getByRole('heading', { name: 'Quel est ton objectif ?' }).waitFor();
-    await page.getByRole('radio', { name: /GAGNER LE DÉBAT/ }).click();
+    await page.getByRole('heading', { name: 'À qui parles-tu ?' }).waitFor();
+    await page.getByRole('radio', { name: /ÉLECTEUR D’EXTRÊME DROITE CONVAINCU/ }).click();
     await page.getByRole('heading', { name: 'De quoi ça parle ?' }).waitFor();
     await page.getByRole('radio', { name: /Immigration, intégration et discriminations/ }).click();
     await page.getByRole('button', { name: 'Immigration et travail', exact: true }).click();
@@ -430,7 +430,7 @@ describe('interface — mode démonstration', { skip }, () => {
     assert.equal(await page.locator('#affirmation').inputValue(), autres[0]);
     // même sous-thème en mode « convaincre » : sélection différente
     await page.getByRole('button', { name: /Revenir à l’étape 1/ }).click();
-    await page.getByRole('radio', { name: /CONVAINCRE SANS BRAQUER/ }).click();
+    await page.getByRole('radio', { name: /INDÉCIS/ }).click();
     await page.getByRole('button', { name: 'Continuer' }).click();
     await page.locator('#sugg-wizard').waitFor();
     const dialogue = await chips();
@@ -536,12 +536,12 @@ describe('interface — mode démonstration', { skip }, () => {
         const bas = txt.toLowerCase();
         assert.ok(bas.indexOf('5 · comment aborder la discussion') > bas.indexOf('2 · les preuves') && bas.indexOf('2 · les preuves') > 0, 'la communication vient en dernier');
         if (mode === 'gagner') {
-          assert.ok(titres.includes('La riposte qui fait réfléchir'), `${t} : riposte`);
-          assert.ok(!titres.some((x) => /empathie|sans braquer|comprendre son point de vue/i.test(x)), `${t} : pas de bloc empathique en mode gagner (${titres.join(' / ')})`);
+          assert.ok(titres.includes('La réplique qui sème le doute'), `${t} : riposte`);
+          assert.ok(!titres.some((x) => /indécis|expliquer simplement|mots simples|se faire son avis/i.test(x)), `${t} : pas de bloc empathique en mode gagner (${titres.join(' / ')})`);
           assert.doesNotMatch(txt, GENERIQUE);
         } else {
-          assert.ok(titres.includes('Pour l’introduire sans braquer'), `${t} : présentation adaptée`);
-          assert.ok(titres.some((x) => /empathie/i.test(x)), `${t} : version empathique`);
+          assert.ok(titres.includes('Pour l’expliquer simplement'), `${t} : présentation adaptée`);
+          assert.ok(titres.some((x) => /mots simples|avec un indécis/i.test(x)), `${t} : version pour un indécis`);
         }
         vus[mode] = { sources: await panel.locator('.preuve-src a').count(), titres };
       }
@@ -594,19 +594,19 @@ describe('interface — mode démonstration', { skip }, () => {
   test('v11 — parcours variés (domaine, sous-thème, mode, profil) : la première suggestion mène à une fiche cohérente', async () => {
     const page = await newPage(browser, PHONE, errors);
     const CAS = [
-      ['GAGNER LE DÉBAT', /Sécurité, justice et libertés/, 'Homicides', 'securite', null],
-      ['CONVAINCRE SANS BRAQUER', /Écologie, énergie et agriculture/, 'Rénovation thermique', 'ecologie', 'Susceptible'],
-      ['GAGNER LE DÉBAT', /Politique, médias et démocratie/, 'Abstention', 'politique', 'Compétitif'],
-      ['CONVAINCRE SANS BRAQUER', /Droits, société et égalité/, 'Handicap et accessibilité', 'droits', null],
-      ['GAGNER LE DÉBAT', /Assistanat, travail et aides sociales/, 'RSA', 'social', null],
-      ['CONVAINCRE SANS BRAQUER', /Immigration, intégration et discriminations/, 'Histoire des migrations', 'immigration', null],
+      ['ÉLECTEUR D’EXTRÊME DROITE CONVAINCU', /Sécurité, justice et libertés/, 'Homicides', 'securite', null],
+      ['INDÉCIS', /Écologie, énergie et agriculture/, 'Rénovation thermique', 'ecologie', 'Susceptible'],
+      ['ÉLECTEUR D’EXTRÊME DROITE CONVAINCU', /Politique, médias et démocratie/, 'Abstention', 'politique', 'Compétitif'],
+      ['INDÉCIS', /Droits, société et égalité/, 'Handicap et accessibilité', 'droits', null],
+      ['ÉLECTEUR D’EXTRÊME DROITE CONVAINCU', /Assistanat, travail et aides sociales/, 'RSA', 'social', null],
+      ['INDÉCIS', /Immigration, intégration et discriminations/, 'Histoire des migrations', 'immigration', null],
     ];
     const volets = new Map(FICHES.map((f) => [f.id, f.volet]));
     for (const [mode, volet, st, voletId, profil] of CAS) {
       await page.goto(`${s.base}/#/debat`);
       await page.evaluate(() => sessionStorage.clear());
       await page.reload();
-      await page.getByRole('heading', { name: 'Quel est ton objectif ?' }).waitFor();
+      await page.getByRole('heading', { name: 'À qui parles-tu ?' }).waitFor();
       await page.getByRole('radio', { name: new RegExp(mode) }).click();
       await page.getByRole('radio', { name: volet }).click();
       await page.getByRole('button', { name: st, exact: true }).click();
@@ -622,7 +622,7 @@ describe('interface — mode démonstration', { skip }, () => {
       const id = href.replace('#/bibliotheque/', '');
       assert.ok(volets.has(id), `${st} → fiche ${id}`);
       const panel = page.locator('.fiche-panel:not([hidden])');
-      assert.equal(await panel.getAttribute('id'), `strat-panel-${mode.startsWith('GAGNER') ? 'gagner' : 'convaincre'}`);
+      assert.equal(await panel.getAttribute('id'), `strat-panel-${mode.startsWith('ÉLECTEUR') ? 'gagner' : 'convaincre'}`);
       assert.equal((await panel.locator('h3.sub-title').first().textContent()), 'Ce que tu peux répondre');
       assert.ok(await panel.locator('.preuve-src a').count(), `${st} : sources`);
       const fi = FICHES.find((f) => f.id === id);
@@ -717,7 +717,7 @@ describe('interface — mode réel (service d’IA simulé)', { skip }, () => {
     const page = await newPage(browser, PHONE, errors, { connecte: true });
     await page.goto(`${s.base}/#/`);
     await page.waitForFunction(() => document.querySelector('#mode-pill').textContent === 'Connecté');
-    await page.getByRole('link', { name: 'Préparer ma riposte' }).click();
+    await page.getByRole('link', { name: 'Préparer ma réponse' }).click();
     await page.getByRole('radio', { name: /Économie, capitalisme/ }).click();
     await page.getByRole('button', { name: 'Continuer' }).click();
     await page.locator('#affirmation').fill('Les impôts ne servent qu’à payer l’assistanat.');
@@ -742,7 +742,7 @@ describe('interface — mode réel (service d’IA simulé)', { skip }, () => {
     await page.getByRole('button', { name: '1 minute' }).click();
     await page.getByText('Version spontanée').waitFor();
     // changement de mode
-    await page.getByRole('radio', { name: 'Convaincre sans braquer' }).click();
+    await page.getByRole('radio', { name: 'Indécis' }).click();
     await page.getByRole('heading', { name: 'Les faits, un par un' }).waitFor();
     assert.ok(await page.getByText('C’est normal de vouloir savoir où vont ses impôts.').isVisible());
     assert.equal(f.count('research'), 1);
@@ -772,7 +772,7 @@ describe('interface — mode réel (service d’IA simulé)', { skip }, () => {
   test('réponse express : la réplique est en tête et se copie', async () => {
     const page = await newPage(browser, { ...PHONE, width: 360, height: 740 }, errors, { connecte: true });
     await page.goto(`${s.base}/#/express`);
-    await page.getByRole('radio', { name: 'Gagner le débat' }).click();
+    await page.getByRole('radio', { name: 'Électeur convaincu' }).click();
     await page.locator('#express-text').fill('Les chômeurs ne veulent pas travailler, c’est bien connu.');
     await page.getByRole('button', { name: 'Sortir une réplique' }).click();
     await page.locator('#replique-text').waitFor();
@@ -785,7 +785,7 @@ describe('interface — mode réel (service d’IA simulé)', { skip }, () => {
     const before = f.count('research');
     const page = await newPage(browser, PHONE, errors, { connecte: true });
     await page.goto(`${s.base}/#/bibliotheque/rsa-smic`);
-    await page.getByRole('button', { name: 'Préparer ma riposte' }).click();
+    await page.getByRole('button', { name: 'Préparer ma réponse' }).click();
     await page.getByRole('heading', { name: 'La démonstration en 3 points' }).waitFor();
     assert.equal(f.count('research'), before);
     await page.close();

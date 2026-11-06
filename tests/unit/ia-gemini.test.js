@@ -106,12 +106,12 @@ describe('IA Gemini — requête envoyée à Google', () => {
     assert.ok(!brut.includes('203.0.113.7'), 'pas d’adresse IP');
     assert.ok(!/user_?location|latitude|longitude|city|ville de l/i.test(brut), 'aucune localisation');
     assert.deepEqual(a.body.tools, [{ google_search: {} }]);
-    assert.match(a.body.systemInstruction.parts[0].text, /MODE « GAGNER LE DÉBAT »/);
+    assert.match(a.body.systemInstruction.parts[0].text, /PUBLIC « ÉLECTEUR D'EXTRÊME DROITE CONVAINCU »/);
     assert.match(a.body.systemInstruction.parts[0].text, /N'écris AUCUNE adresse web/);
   });
 
   test('chaque mode a sa consigne et sa longueur ; recherche désactivable', async () => {
-    for (const [mode, motif, jetons] of [['express', /COUP EXPRESS/, 700], ['convaincre', /CONVAINCRE AVEC EMPATHIE/, 1800], ['approfondir', /APPROFONDISSEMENT/, 3500]]) {
+    for (const [mode, motif, jetons] of [['express', /COUP EXPRESS/, 700], ['convaincre', /INDÉCIS/, 1800], ['approfondir', /APPROFONDISSEMENT/, 3500]]) {
       const f = simuler();
       await createHandler({ fiches: FICHES, fetchImpl: f, cache: null, journal: journal() })(req({ question: 'Il y a des millions de fausses cartes Vitale.', mode }), ENV);
       assert.match(f.appels[0].body.systemInstruction.parts[0].text, motif);

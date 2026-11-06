@@ -16,6 +16,11 @@ Ligne éditoriale assumée de gauche, avec une règle non négociable : aucun fa
 
 ---
 
+## Nouveautés v14 (alpha)
+
+- **Deux publics remplacent les deux stratégies** : « Électeur d'extrême droite convaincu » et « Indécis ». Chaque fiche est présentée selon le public choisi ; les nouvelles fiches contiennent en plus une réponse rédigée pour chacun (`publics`).
+- **IA Gemini débranchée** (aucune dépense Google) : les nouvelles fiches sont rédigées chaque jour par Claude, avec des sources ouvertes et lues, et publiées après les tests. Journal : `rapports/journal-quotidien.md`. Outil : `node scripts/verifier-couverture.mjs`.
+
 ## Nouveautés v13
 
 - **IA Gemini** : backend Cloudflare Worker (`worker/`) qui garde la clé `GEMINI_API_KEY` en secret, choisit lui-même les fiches pertinentes de la bibliothèque, appelle Gemini avec la recherche Google, et contrôle la réponse (aucun lien inventé, statut de chaque élément). Mise en service : `worker/README.md`. Tant que `GTP_IA_BASE` n'est pas renseigné, le site fonctionne comme avant, sans IA.

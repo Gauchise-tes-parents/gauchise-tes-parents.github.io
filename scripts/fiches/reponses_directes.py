@@ -36,6 +36,8 @@ def fiche(**k):
         derniere_verification=TODAY, a_actualiser_le=k.get('a_actualiser', '2027-06-30'), raison_actualisation=k.get('raison', "Nouvelles données annuelles."),
     )
     if k.get('legitimes'): d['objections_legitimes'] = k['legitimes']
+    # v14 : réponses selon le public (électeur d'extrême droite convaincu / personne indécise)
+    if k.get('publics'): d['publics'] = k['publics']
     return d
 
 # ── Sources ────────────────────────────────────────────────────────────────

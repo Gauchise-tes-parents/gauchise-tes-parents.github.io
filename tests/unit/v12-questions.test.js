@@ -48,8 +48,8 @@ describe('v12 — les 20 questions de la demande', () => {
         assert.ok(b.find((x) => x.type === 'preuves').items.every((i) => i.source?.url), `${mode} : preuves avec lien`);
       }
       const tg = a.gagner.blocs.map((x) => x.titre); const tc = a.convaincre.blocs.map((x) => x.titre);
-      assert.ok(tg.includes('La riposte qui fait réfléchir') && !tg.some((t) => /empathie|sans braquer/i.test(t)), 'mode gagner sans les outils du mode convaincre');
-      assert.ok(tc.includes('Pour l’introduire sans braquer') && !tc.includes('La riposte qui fait réfléchir'), 'mode convaincre sans la riposte');
+      assert.ok(tg.includes('La réplique qui sème le doute') && !tg.some((t) => /indécis|expliquer simplement|mots simples|se faire son avis/i.test(t)), 'mode gagner sans les outils du mode convaincre');
+      assert.ok(tc.includes('Pour l’expliquer simplement') && !tc.includes('La réplique qui sème le doute'), 'mode convaincre sans la riposte');
     });
   }
 });

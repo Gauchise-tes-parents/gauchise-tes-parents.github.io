@@ -703,3 +703,6 @@ button.mode-card { cursor: pointer; }
 @media (prefers-reduced-motion: reduce) { .ia-point { animation: none; } }
 .ia-block .error-box { display: block; }
 .ia-block .error-box .btn-row { margin-top: 10px; }
+
+/* ─── v14 : alpha et publics ─────────────────────────────────────────────── */
+.alpha-banner { display: inline-block; background: var(--lemon); color: var(--ink); border: 2px solid var(--ink); border-radius: var(--r-card); padding: 6px 12px; font-size: var(--step--1); margin: 0 0 12px; max-width: 46rem; }
