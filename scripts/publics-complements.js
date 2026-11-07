@@ -1,7 +1,7 @@
 // Réponses selon le public (v14) pour des fiches dont le générateur n'existe plus ou n'est plus relancé.
 // Textes écrits UNIQUEMENT à partir du contenu déjà sourcé de chaque fiche (résumé et faits).
 // Appliqué par scripts/corrections-v10.js (idempotent : remplace le champ « publics » par la version ci-dessous).
-// Ajouts du 7 novembre 2026 (passage de 12 h).
+// Ajouts du 7 novembre 2026 (passages de 12 h et de 20 h 15).
 export const PUBLICS = {
   'immigres-aides': {
     convaincus: "Pour toucher le RSA, un étranger non européen doit en principe avoir un titre de séjour qui l'autorise à travailler depuis au moins cinq ans. Et selon l'OCDE, dans presque tous les pays étudiés, on dépense moins par immigré que par natif. Si leur contribution nette est plus faible, c'est surtout parce qu'ils ont moins souvent un emploi, pas parce qu'ils touchent plus.",
@@ -42,5 +42,46 @@ export const PUBLICS = {
   'pauvrete-france': {
     convaincus: "Selon l'Insee, 9,8 millions de personnes vivaient sous le seuil de pauvreté en 2024, soit 15,4 % de la population, le plus haut niveau depuis 1996. Le seuil, c'est 1 337 € par mois pour une personne seule. Les aides existent, mais elles ne suffisent pas à faire disparaître la pauvreté.",
     indecis: "On peut avoir l'impression qu'avec toutes les aides, la pauvreté a disparu. Les chiffres de l'Insee montrent l'inverse : 15,4 % de la population est pauvre en 2024, et les inégalités sont à leur plus haut depuis 1996. Les aides limitent la pauvreté, elles ne l'effacent pas.",
+  },
+  // Ajouts du 7 novembre 2026 (passage de 20 h 15).
+  'medias-concentration': {
+    convaincus: "Regarde qui possède les grands médias privés : Bolloré, Arnault, Drahi, Niel, Bouygues. Vincent Bolloré contrôle Canal+, Europe 1 et le JDD, dont la ligne est classée à droite. Des milliardaires qui financeraient des médias gauchistes, ça ne tient pas debout.",
+    indecis: "Le pluralisme des médias est un vrai sujet, et chacun a le droit de trouver certains médias orientés. Mais les grands médias appartiennent surtout à de grandes fortunes, avec des lignes éditoriales très diverses. Le Conseil d'État a d'ailleurs demandé en 2024 un contrôle plus large du pluralisme, pour toutes les chaînes.",
+  },
+  'delinquance-partout': {
+    convaincus: "Les chiffres du ministère de l'Intérieur ne disent pas que tout augmente : en 2025, les cambriolages, les vols avec armes et les vols de véhicules baissent, et les homicides sont stables. Ce qui monte, ce sont surtout les violences sexuelles déclarées, les escroqueries et les affaires de stupéfiants. Pour lutter contre la délinquance, il faut regarder infraction par infraction.",
+    indecis: "Ton inquiétude est compréhensible, et certaines formes de délinquance augmentent vraiment, comme les violences sexuelles enregistrées ou le trafic de stupéfiants. Mais d'autres baissent, comme les cambriolages, et les homicides sont stables. Une partie des hausses vient aussi de plaintes plus nombreuses.",
+  },
+  'homicides-record': {
+    convaincus: "Les chercheurs qui comparent les chiffres de la police et ceux des certificats de décès depuis 1971 arrivent à la même conclusion : l'homicide est à un niveau historiquement bas. Depuis 2016, on compte entre 800 et 960 victimes par an. Ce qui augmente, ce sont surtout les tentatives enregistrées et certains règlements de comptes.",
+    indecis: "Les faits divers donnent l'impression que les meurtres explosent, mais sur le long terme, ce n'est pas le cas. Depuis 2016, le nombre de victimes oscille autour de 800 à 960 par an. Près d'un tiers des homicides sont commis dans la famille, ce qui demande aussi des réponses de prévention.",
+  },
+  'lfi-contre-police': {
+    convaincus: "Le programme de LFI ne supprime pas la police : il propose une police de proximité, le démantèlement des BAC et un organe de contrôle indépendant à la place de l'IGPN. On peut être en désaccord, mais c'est une autre police, pas l'absence de police. Certaines déclarations, comme « La police tue », ont choqué et ont été vivement dénoncées.",
+    indecis: "LFI critique durement certaines pratiques policières, et certaines phrases de ses dirigeants ont été jugées excessives. Mais son programme prévoit une police de proximité et un contrôle indépendant, pas la fin de la police. Le débat porte sur le type de police que l'on veut.",
+  },
+  'discriminations-embauche': {
+    convaincus: "Ce n'est pas une impression, c'est mesuré : dans le grand testing public de 2019-2021, à CV équivalent, les candidats à nom maghrébin sont rappelés 31,5 % moins souvent. Il leur faut envoyer une fois et demie plus de CV pour obtenir autant de réponses. Ça n'excuse personne, mais ça pèse sur la vie de millions de gens.",
+    indecis: "Les discriminations à l'embauche sont mesurées par des tests où seul le nom change sur le CV : un candidat d'origine maghrébine est rappelé nettement moins souvent. Le chômage des diplômés originaires du Maghreb est près de trois fois plus élevé, et l'essentiel de l'écart ne s'explique ni par le diplôme ni par l'âge.",
+  },
+  'electricite-nucleaire-renouvelables': {
+    convaincus: "Le nucléaire fait bien l'essentiel, 68 % en 2025. Mais les renouvelables produisent plus d'un quart de notre électricité, hydraulique en tête : sans eux, pas de record de 95 % d'électricité bas carbone. Les deux se complètent, et c'est ce qui permet à la France d'exporter un record d'électricité.",
+    indecis: "La France produit une électricité très peu carbonée, grâce au nucléaire (68 %) mais aussi aux barrages, à l'éolien et au solaire, qui fournissent plus d'un quart du total. Opposer les deux n'a pas beaucoup de sens : c'est leur combinaison qui donne une électricité propre.",
+  },
+  'rsa-profiteurs': {
+    convaincus: "C'est l'inverse : selon la DREES, environ un tiers des foyers qui ont droit au RSA ne le demandent pas, soit plus de 500 000 foyers fin 2021. Si tout le monde se jetait dessus, la dépense augmenterait de 2,5 milliards. Le vrai problème, ce sont ceux qui passent à côté de leurs droits.",
+    indecis: "On imagine souvent l'inverse, mais la DREES montre qu'un tiers des foyers éligibles au RSA ne le perçoivent pas. Ce non-recours vient souvent de la complexité des démarches ou de la honte de demander. C'est une réalité qu'on connaît mal.",
+  },
+  'impots-assistanat': {
+    convaincus: "Regarde où va l'argent : sur 1 672 milliards de dépenses publiques en 2024, les minima sociaux pèsent 31,6 milliards, environ 2 %, dont 12 milliards pour le RSA. La plus grosse part va aux retraites, à la santé et à l'école. Ce que tu appelles assistanat, c'est une petite partie de tes impôts.",
+    indecis: "Les impôts financent d'abord les retraites, la santé, l'école, la sécurité et la dette. Les minima sociaux, dont le RSA, représentent environ 2 % des dépenses publiques. On peut débattre de leur efficacité, mais ils ne sont pas le cœur de la dépense.",
+  },
+  'expulser-tous-etrangers-condamnes': {
+    convaincus: "La loi permet déjà d'éloigner beaucoup d'étrangers condamnés : le juge peut prononcer une interdiction du territoire, et depuis 2024 les protections tombent pour les condamnations graves. Le vrai blocage, c'est l'exécution : environ 10 % des OQTF seulement, parce que de nombreux pays d'origine sont réticents à délivrer les laissez-passer. Promettre de « tout expulser » sans régler ça, c'est un slogan.",
+    indecis: "C'est une proposition politique, et l'inquiétude derrière est légitime. Mais le droit permet déjà d'expulser de nombreux condamnés, en tenant compte de leurs attaches en France, comme l'exige la Cour européenne des droits de l'homme. Le principal problème est l'exécution des décisions, qui dépend de la coopération des pays d'origine.",
+  },
+  'dividendes-salaires': {
+    convaincus: "Toutes les entreprises ne roulent pas sur l'or, beaucoup de petites ont des marges faibles. Mais les grandes entreprises cotées ont versé environ 61 milliards d'euros de dividendes au seul deuxième trimestre 2026, la France est en tête en Europe. Dire que « les entreprises » n'ont pas les moyens, c'est mettre le boulanger et le CAC 40 dans le même sac.",
+    indecis: "La situation dépend vraiment des entreprises : les petites ont souvent des marges serrées, quand les grandes entreprises cotées versent des dividendes record. Le taux de marge moyen reste élevé (32,2 % en 2025). Le débat sur les salaires gagne à distinguer ces situations.",
   },
 };

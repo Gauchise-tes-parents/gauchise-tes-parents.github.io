@@ -156,12 +156,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "fiscalite",
-    "cout",
-    "heberg_asile"
-  ],
   "repond_a": [
     {
       "id": "heberg_asile",
@@ -182,5 +176,11 @@
     "cout",
     "couts",
     "une fortune"
+  ],
+  "concepts": [
+    "immigration",
+    "fiscalite",
+    "cout",
+    "heberg_asile"
   ]
 }

@@ -160,11 +160,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "demographie",
-    "statistiques"
-  ],
   "repond_a": [
     {
       "id": "immigres_comptes",
@@ -189,5 +184,10 @@
     "font plus d enfants",
     "un tiers de la population",
     "population"
+  ],
+  "concepts": [
+    "immigration",
+    "demographie",
+    "statistiques"
   ]
 }

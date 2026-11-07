@@ -1,0 +1,182 @@
+{
+  "id": "deputes-salaire-15000",
+  "type": "idee_recue",
+  "affirmation": "Les députés touchent 15 000 euros par mois.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "salaire des deputes",
+    "indemnite parlementaire",
+    "deputes 15000 euros",
+    "deputes payes",
+    "elus se gavent",
+    "frais de mandat",
+    "remuneration des deputes",
+    "indemnite des deputes"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'indemnité d'un député est de 7 637,39 € brut, soit 5 953,34 € net par mois. Pour arriver à 15 000 €, il faut additionner des enveloppes qui ne sont pas un revenu : la dotation pour les frais du mandat (7 238 € par mois depuis 2026) et le crédit pour payer jusqu'à cinq collaborateurs (11 463 €). Un député reste parmi les 3 % de Français les mieux rémunérés.",
+  "contexte": "Le chiffre circule pour dénoncer des élus déconnectés ; il nourrit l'idée que « tous les élus se gavent ».",
+  "explication": "L'indemnité est la rémunération personnelle du député, imposable comme un salaire. La dotation de fonctionnement sert à payer les frais du mandat (permanence, déplacements) et fait l'objet de contrôles ; le crédit collaborateurs paie les salaires de ses assistants.",
+  "faits": [
+    {
+      "fait": "L'indemnité parlementaire est de 7 637,39 € brut, soit 5 953,34 € net par mois.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La rémunération personnelle est bien inférieure à 15 000 €.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "5 953 € net"
+    },
+    {
+      "fait": "Depuis 2026, la dotation de fonctionnement parlementaire, de 7 238,04 € par mois, sert à payer les frais du mandat.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "C'est une enveloppe de frais, pas un revenu.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "7 238 €"
+    },
+    {
+      "fait": "Le crédit collaborateurs, de 11 463 € par mois, paie jusqu'à cinq collaborateurs.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Cet argent rémunère des salariés, pas le député.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11 463 €"
+    },
+    {
+      "fait": "Les frais de mandat sont contrôlés et les sommes « indûment prises en charge » doivent être remboursées.",
+      "periode": "2018-2022",
+      "perimetre": "France",
+      "explication": "L'utilisation des frais est encadrée.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2020, l'indemnité représentait 3,2 fois le salaire ouvrier moyen ; les députés se situent autour des 3 % de revenus les plus élevés.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Les députés restent nettement mieux payés que la moyenne.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "3,2 fois"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : un député touche 5 953 € net par mois (7 637 € brut). Les 15 000 € additionnent des enveloppes pour les frais du mandat et les salaires des collaborateurs. Cela reste plus de trois fois le salaire ouvrier moyen.",
+    "moyen": "La rémunération d'un député est de 7 637 € brut, soit environ 5 953 € net par mois. C'est beaucoup : plus de trois fois le salaire d'un ouvrier, parmi les 3 % de revenus les plus élevés.\n\nMais les 15 000 € additionnent d'autres enveloppes qui ne vont pas dans sa poche : environ 7 200 € pour les frais du mandat, contrôlés, et environ 11 500 € pour payer ses collaborateurs.",
+    "detaille": "Selon l'Assemblée nationale, l'indemnité d'un député est de 7 637,39 € brut, soit 5 953,34 € net par mois, imposable comme un salaire. S'y ajoutent deux enveloppes qui ne sont pas un revenu : la dotation de fonctionnement parlementaire, de 7 238,04 € par mois depuis 2026, qui paie les frais du mandat, et le crédit collaborateurs, de 11 463 € par mois, qui paie jusqu'à cinq salariés.\n\nDepuis les lois de 2017, les frais de mandat sont contrôlés et les dépenses injustifiées doivent être remboursées. Les abus qui ont existé ont conduit à durcir ces règles.\n\nLa critique de fond reste légitime : selon l'Institut des politiques publiques, l'indemnité représentait en 2020 plus de trois fois le salaire ouvrier moyen, et les députés font partie des 3 % les mieux rémunérés. C'est un débat sur l'écart entre élus et citoyens, qui gagne à partir des vrais chiffres.",
+    "empathie": "Je comprends qu'on trouve que les élus sont bien payés : avec près de 6 000 € net, ils gagnent plus de trois fois un salaire d'ouvrier. Mais 15 000 €, c'est en comptant l'argent qui paie leurs assistants."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les frais de mandat, ils les dépensent comme ils veulent.",
+      "reponse": "Depuis 2017, ils sont contrôlés, et les sommes indues doivent être remboursées."
+    },
+    {
+      "objection": "Ils ont aussi plein d'avantages.",
+      "reponse": "Le débat sur les avantages est légitime ; mais il faut partir des montants réels, publiés par l'Assemblée."
+    }
+  ],
+  "questions": [
+    "Sais-tu à quoi sert le crédit collaborateurs d'un député ?",
+    "Quel écart de rémunération te semblerait juste entre un élu et un ouvrier ?"
+  ],
+  "limites": [
+    "Le montant du crédit collaborateurs diffère selon les sources (11 463 € selon l'Assemblée en janvier 2026, 10 581 € selon un média en septembre 2026).",
+    "Les règles de contrôle de la nouvelle dotation de 2026 n'ont pas été lues ; celles citées datent de 2022."
+  ],
+  "sources": [
+    {
+      "titre": "Fiche n° 7 : Situation matérielle du député (actualisée en janvier 2026)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "janvier 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/telechargement/631144/file/Fiche%207%20corrig%C3%A9e%20-%20Situation%20mat%C3%A9rielle%20du%20d%C3%A9put%C3%A9_actualis%C3%A9e%20080126.pdf",
+      "passage": "L'indemnité parlementaire comprend une base de 5 931,95 €, une indemnité de résidence de 177,96 € et une indemnité de fonction de 1 527,48 €, « soit brut mensuel : 7 637,39 € » et « un montant net mensuel de 5 953,34 € ». Depuis le 1er janvier 2026, la dotation de fonctionnement parlementaire (fusion de l'avance de frais de mandat et de la dotation matérielle) est de 7 238,04 € par mois pour un député de métropole ; le crédit collaborateurs est de 11 463 € par mois, pour jusqu'à cinq collaborateurs.",
+      "pertinence": "Document officiel de l'Assemblée.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'indemnité parlementaire et les revenus des Français depuis 1914 (note n° 91)",
+      "organisme": "Institut des politiques publiques (Éric Buge, Étienne Ollion)",
+      "date_publication": "avril 2023",
+      "url": "https://www.ipp.eu/wp-content/uploads/2023/04/Note_IPP_Buge_Ollion-91_compressed.pdf",
+      "passage": "En 2020, le revenu tiré de l'indemnité représente 3,2 fois le salaire ouvrier moyen ; les députés se situent autour du 97e percentile des revenus, alors qu'ils étaient au seuil du 1 % le plus élevé de 1945 à la fin des années 1990.",
+      "pertinence": "Étude d'un institut de recherche.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Affaire Dubost : quelles sont les indemnités des parlementaires ?",
+      "organisme": "Public Sénat (Juliette Bezat)",
+      "date_publication": "3 mai 2022",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/affaire-dubost-quelles-sont-les-indemnites-des-parlementaires-205253",
+      "passage": "L'avance de frais de mandat a remplacé l'IRFM avec les lois « confiance » de 2017. Les dépenses sont contrôlées par échantillon, chaque parlementaire au moins une fois par mandat, et les sommes « indûment prises en charge » doivent être remboursées.",
+      "pertinence": "Média parlementaire (2022).",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Revalorisations éventuelles de l'indemnité et des dotations.",
+  "objections_legitimes": [
+    "Un député gagne plus de trois fois le salaire ouvrier moyen.",
+    "Des abus sur les frais de mandat ont existé avant les réformes de 2017."
+  ],
+  "publics": {
+    "convaincus": "Un député touche 5 953 € net : c'est beaucoup, et tu as le droit de trouver ça trop. Mais les 15 000 € comptent l'argent qui paie ses assistants et ses frais, contrôlés. Si on veut réduire l'écart entre élus et citoyens, autant partir des vrais chiffres, publiés par l'Assemblée elle-même.",
+    "indecis": "Les députés sont bien payés, environ 6 000 € net, plus de trois fois un salaire d'ouvrier. Le chiffre de 15 000 € ajoute des enveloppes pour les frais et les collaborateurs, qui ne vont pas dans leur poche. Le débat sur la rémunération des élus est légitime, à partir de ces montants."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "egalite"
+    ],
+    "mecanismes": "Un chiffre gonflé nourrit le rejet de tous les élus, au profit de ceux qui se présentent comme antisystème.",
+    "consequences": "La défiance envers les institutions éloigne les citoyens de la vie démocratique.",
+    "democratie": "La transparence sur la rémunération des élus est une condition de la confiance.",
+    "propositions": [
+      "Rapprocher la rémunération des élus du revenu des citoyens qu’ils représentent.",
+      "Renforcer le contrôle public des frais de mandat."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un député gagne plus de trois fois le salaire ouvrier moyen.",
+        "integration": "Le dire franchement, et débattre de l’écart à partir des vrais montants."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "deputes_indemnite",
+      "label": "Rémunération des députés"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "droits sociaux",
+    "rsa",
+    "caf"
+  ],
+  "concepts": [
+    "salaires",
+    "prestations",
+    "deputes_indemnite"
+  ]
+}

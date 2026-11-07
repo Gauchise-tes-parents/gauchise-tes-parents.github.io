@@ -140,10 +140,6 @@
       }
     ]
   },
-  "concepts": [
-    "services_publics",
-    "ecriture_inclusive"
-  ],
   "repond_a": [
     {
       "id": "ecriture_inclusive",
@@ -156,5 +152,9 @@
     "ecriture inclusive",
     "point median",
     "langage inclusif"
+  ],
+  "concepts": [
+    "services_publics",
+    "ecriture_inclusive"
   ]
 }

@@ -184,11 +184,6 @@
       }
     ]
   },
-  "concepts": [
-    "europe",
-    "dette",
-    "dette_grece"
-  ],
   "repond_a": [
     {
       "id": "dette_grece",
@@ -213,5 +208,10 @@
     "grece",
     "fitch",
     "banqueroute"
+  ],
+  "concepts": [
+    "europe",
+    "dette",
+    "dette_grece"
   ]
 }

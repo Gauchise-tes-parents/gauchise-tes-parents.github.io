@@ -1,0 +1,182 @@
+{
+  "id": "retraite-capitalisation-rendement",
+  "type": "idee_recue",
+  "affirmation": "Une retraite par capitalisation rapporterait plus que la répartition.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "capitalisation",
+    "retraite par capitalisation",
+    "fonds de pension",
+    "repartition",
+    "retraite par repartition",
+    "epargne retraite",
+    "modele chilien",
+    "rendement retraite"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Sur longue période, le rendement des placements dépasse souvent la croissance, donc le rendement de la répartition : le COR le reconnaît. Mais ce supplément s'accompagne d'un risque de fortes pertes, non mutualisé (−23 % en moyenne pour les fonds de pension de l'OCDE en 2008), de frais, et surtout d'une transition très coûteuse : il faudrait payer les pensions actuelles tout en épargnant pour les futures. Au Chili, l'État a dû compléter le système.",
+  "contexte": "La capitalisation est mise en avant par des think tanks libéraux et une partie de la droite comme solution au financement des retraites.",
+  "explication": "En répartition, les cotisations des actifs paient les pensions des retraités ; le rendement suit la croissance des salaires. En capitalisation, chacun épargne pour sa propre retraite, placée sur les marchés ; le rendement dépend de la Bourse au moment du départ.",
+  "faits": [
+    {
+      "fait": "Selon le COR, la répartition offre « un rendement en moyenne égal à la croissance de l'économie », et le rendement du capital dépasse souvent la croissance à long terme, avec un « risque de fortes pertes en cas de crise ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La capitalisation rapporte plus en moyenne, mais avec un risque.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Sur 1950-2015, dans 16 pays, l'écart moyen entre rendement financier et croissance est de 2,68 %, mais « la mutualisation des risques financiers dans la capitalisation individuelle n'existe pas ».",
+      "periode": "1950-2015",
+      "perimetre": "16 pays",
+      "explication": "Le gain moyen cache des pertes individuelles possibles.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "2,68 %"
+    },
+    {
+      "fait": "En 2008, les fonds de pension privés des pays de l'OCDE ont perdu en moyenne 23 % de leur valeur.",
+      "periode": "2008",
+      "perimetre": "OCDE",
+      "explication": "Un krach au mauvais moment ampute la retraite.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "−23 %"
+    },
+    {
+      "fait": "Au Chili, l'État a financé la transition à hauteur d'environ 3,25 % du PIB par an, puis a dû créer une pension solidaire (2008) et une pension universelle garantie (2022).",
+      "periode": "1981-2022",
+      "perimetre": "Chili",
+      "explication": "La capitalisation pure n'a pas suffi à garantir des pensions décentes.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "3,25 % du PIB"
+    },
+    {
+      "fait": "Une transition suppose une double cotisation des actifs, une mise à contribution des retraités ou une prise en charge par l'État.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une génération paierait deux fois.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : en moyenne, la Bourse rapporte plus que la croissance, mais sans protection collective (−23 % pour les fonds de pension en 2008), et passer à la capitalisation obligerait une génération à payer deux fois. Au Chili, l'État a dû compléter le système.",
+    "moyen": "Le COR le reconnaît : sur longue période, les placements rapportent souvent plus que la croissance, qui fait le rendement de la répartition. Mais ce gain moyen cache un risque : en 2008, les fonds de pension ont perdu 23 % en moyenne, et celui qui part à la retraite après un krach n'a aucun filet.\n\nSurtout, il faudrait continuer à payer les retraites actuelles tout en épargnant pour les siennes : une double charge pendant des décennies. Au Chili, pionnier de la capitalisation, l'État a dû créer une pension publique pour compléter des retraites trop faibles.",
+    "detaille": "En répartition, les cotisations d'aujourd'hui paient les pensions d'aujourd'hui, et le rendement suit, selon le COR, la croissance de l'économie. En capitalisation, chacun place son épargne ; sur 1950-2015, dans 16 pays, le rendement financier a dépassé la croissance de 2,68 points en moyenne.\n\nMais ce rendement n'est pas garanti pour chaque personne : en 2008, les fonds de pension privés de l'OCDE ont perdu 23 % en moyenne, et plus de 37 % en Irlande. Une économiste de l'université d'Orléans le résume pour le COR : « La mutualisation des risques financiers dans la capitalisation individuelle n'existe pas. »\n\nLe principal obstacle est la transition. Les retraités actuels doivent continuer à être payés : les actifs devraient cotiser deux fois, ou l'État s'endetter. Le Chili, qui a basculé en 1981, a financé ce déficit à hauteur d'environ 3,25 % du PIB par an, puis a dû créer une pension solidaire en 2008 et une pension universelle en 2022. En France, l'épargne retraite existe déjà en complément, pour ceux qui en ont les moyens.",
+    "empathie": "Je comprends l'envie d'un système qui rapporte plus, surtout quand on doute de toucher une retraite correcte. Mais la Bourse peut aussi faire perdre beaucoup, et on ne choisit pas l'année de son départ."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La Bourse finit toujours par remonter.",
+      "reponse": "Sur longue période en moyenne, oui ; mais celui qui part en retraite juste après un krach subit la perte, sans mutualisation."
+    },
+    {
+      "objection": "Les autres pays l'ont fait.",
+      "reponse": "Le Chili a dû recréer une pension publique, et la Hongrie est revenue en arrière en 2011."
+    }
+  ],
+  "questions": [
+    "Qui paierait les retraites actuelles pendant que les actifs épargnent pour eux-mêmes ?",
+    "Que se passe-t-il pour celui qui part à la retraite l'année d'un krach ?"
+  ],
+  "limites": [
+    "Les chiffres sur 2008 viennent d'un article de presse reprenant l'OCDE, la publication originale n'a pas été lue.",
+    "Les pages chiffrées du Panorama des pensions 2025 de l'OCDE n'ont pas pu être lues."
+  ],
+  "sources": [
+    {
+      "titre": "Répartition, réserves et capitalisation : quels enjeux pour les retraites ? (dossier « en bref », séance du 18 décembre 2025)",
+      "organisme": "Conseil d'orientation des retraites",
+      "date_publication": "18 décembre 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Dossier%20en%20bref_18.12.2025.pdf",
+      "passage": "La répartition offre « un rendement en moyenne égal à la croissance de l'économie ». La capitalisation dépend des marchés : le rendement du capital dépasse souvent la croissance à long terme, mais l'assuré reste exposé aux fluctuations et aux frais, avec un « risque de fortes pertes en cas de crise ». Une transition suppose une double cotisation des actifs, une mise à contribution des retraités ou une prise en charge par l'État.",
+      "pertinence": "Organisme public d'expertise sur les retraites.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Financer les retraites par capitalisation : pourquoi pas, mais avec quel capital ?",
+      "organisme": "Anne Lavigne (université d'Orléans), groupe de travail du COR",
+      "date_publication": "11 décembre 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2026-01/1.2025_12_11_GT_COR_Lavigne.pdf",
+      "passage": "Sur 1950-2015, dans 16 pays, l'écart moyen entre rendement financier et croissance est de 2,68 %. « La mutualisation des risques financiers dans la capitalisation individuelle n'existe pas. » « La question de la transition ne peut être résolue sans un fonds d'amorçage. » « La capitalisation n'est pas la réponse à court terme, mais une réponse possible à long terme. »",
+      "pertinence": "Contribution universitaire présentée au COR.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Montée en charge de la retraite par capitalisation : expérience de certains pays de l'OCDE",
+      "organisme": "Stéphanie Payet, Hervé Boulhol (OCDE), présentation au COR",
+      "date_publication": "12 novembre 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-11/COR_Transition%20capitalisation_12-11-2025.pdf",
+      "passage": "Au Chili (réforme de 1981), l'État a financé le déficit lié à la transition à hauteur d'environ « 3,25 % du PIB / an en moyenne » ; le système a dû être complété par une pension solidaire (2008) puis une pension universelle garantie (2022). La Hongrie a fait marche arrière en 2011. En France en 2023, 28 % des 15-64 ans participent à un plan d'épargne retraite collectif et 15 % à un plan individuel.",
+      "pertinence": "Présentation d'experts de l'OCDE au COR.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "OCDE: fondos de pensiones cayeron 23% en 2008 por crisis",
+      "organisme": "Diario Financiero (Chili), d'après un rapport de l'OCDE",
+      "date_publication": "23 juin 2009",
+      "url": "https://www.df.cl/internacional/ocde-fondos-de-pensiones-cayeron-23-en-2008-por-crisis",
+      "passage": "Les fonds de pension privés des pays de l'OCDE ont perdu en moyenne 23 % de leur valeur en 2008 (−37,5 % en Irlande, −26,2 % aux États-Unis). Une responsable de l'OCDE déclare qu'il faut « des systèmes publics qui offrent un revenu de base » (« Hacen falta sistemas públicos que ofrezcan un ingreso de base »).",
+      "pertinence": "Média économique (2009) reprenant l'OCDE.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rapport annuel du COR.",
+  "objections_legitimes": [
+    "Sur longue période, le rendement du capital dépasse souvent la croissance, ce que reconnaît le COR.",
+    "La répartition comporte aussi un risque démographique et politique.",
+    "Des fonds publics comme celui de la fonction publique ont obtenu de bons rendements selon une note versée au COR."
+  ],
+  "publics": {
+    "convaincus": "En moyenne, la Bourse rapporte plus, c'est vrai. Mais en 2008, les fonds de pension ont perdu 23 % : si tu pars à la retraite cette année-là, tu perds une partie de ta pension, sans filet. Et pour changer de système, ta génération devrait payer deux fois : pour les retraités actuels et pour elle-même.",
+    "indecis": "Ton inquiétude sur l'avenir des retraites est légitime. La capitalisation peut rapporter plus en moyenne, mais elle fait porter le risque à chacun, et la transition coûterait très cher. L'épargne retraite existe déjà en complément ; la question est de savoir si on veut remplacer la solidarité entre générations."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "travailleurs"
+    ],
+    "mecanismes": "La promesse de rendement individuel remplace la solidarité entre générations par le risque de marché.",
+    "consequences": "Les retraités les plus modestes seraient les plus exposés aux krachs et aux frais.",
+    "democratie": "Le système de retraite est un choix collectif qui doit rester sous contrôle démocratique.",
+    "propositions": [
+      "Consolider la répartition par de nouvelles ressources, notamment sur les revenus du capital.",
+      "Garantir un niveau de pension minimum décent."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le rendement moyen du capital dépasse souvent la croissance.",
+        "integration": "Le reconnaître, et expliquer le risque individuel et le coût de transition."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "capitalisation",
+      "label": "Retraite par capitalisation"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "reforme des retraites",
+    "capitalisation",
+    "fonds de pension"
+  ],
+  "concepts": [
+    "retraite",
+    "capitalisation"
+  ]
+}

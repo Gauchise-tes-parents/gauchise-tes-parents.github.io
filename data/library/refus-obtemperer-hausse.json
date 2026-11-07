@@ -1,0 +1,183 @@
+{
+  "id": "refus-obtemperer-hausse",
+  "type": "idee_recue",
+  "affirmation": "Les refus d'obtempérer explosent à cause du laxisme.",
+  "volet": "securite",
+  "sous_theme": "Police et gendarmerie",
+  "rubriques": [],
+  "mots_cles": [
+    "refus d obtemperer",
+    "refus d obtempérer",
+    "delit de fuite",
+    "controle routier",
+    "fuite controle",
+    "tir sur vehicule",
+    "refus aggrave",
+    "conducteur en fuite"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le nombre total de refus d'obtempérer n'a pas explosé : environ 25 700 par an entre 2016 et 2023, en légère baisse de 5 %. En revanche, les refus aggravés, qui mettent des vies en danger, ont presque doublé entre 2012 et 2022. La mission parlementaire transpartisane a écarté le « laxisme judiciaire » comme cause, et les peines ont été doublées en 2022.",
+  "contexte": "Le sujet est devenu explosif après la mort d'un adolescent tué lors d'un refus d'obtempérer à Nanterre en 2023 ; l'argument sert à réclamer plus de fermeté et plus de liberté de tir pour les policiers.",
+  "explication": "Un refus d'obtempérer est le fait de ne pas s'arrêter à un contrôle ; il est « aggravé » quand il met en danger d'autres personnes. Depuis 2017, l'article L435-1 du code de la sécurité intérieure encadre les tirs des forces de l'ordre sur des véhicules.",
+  "faits": [
+    {
+      "fait": "Entre 2016 et 2023, environ 25 700 refus d'obtempérer routiers ont été constatés chaque année, en baisse de 5 % sur la période.",
+      "periode": "2016-2023",
+      "perimetre": "France",
+      "explication": "Le nombre total n'explose pas.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "25 700 par an"
+    },
+    {
+      "fait": "La part des refus aggravés est passée de 16 % en 2016 à 21 % en 2023 ; entre 2012 et 2022, ils ont augmenté de 94,6 %.",
+      "periode": "2012-2023",
+      "perimetre": "France",
+      "explication": "Les refus les plus dangereux augmentent nettement.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "+94,6 %"
+    },
+    {
+      "fait": "La loi du 24 janvier 2022 a doublé la peine du refus simple, portée à deux ans d'emprisonnement et 15 000 € d'amende.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La réponse pénale a été durcie.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2 ans"
+    },
+    {
+      "fait": "En 2022, 18 092 affaires ont été poursuivies, dont plus de 62 % en procédure accélérée ; la mission écarte le laxisme judiciaire comme cause.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les poursuites sont nombreuses et rapides.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "18 092"
+    },
+    {
+      "fait": "En 2022, « 13 personnes ont été tuées par la police » lors de refus d'obtempérer ; les tirs sur véhicules ont culminé en 2017 (205), avant de redescendre à 140 en 2022.",
+      "periode": "2012-2022",
+      "perimetre": "France",
+      "explication": "Les refus d'obtempérer sont aussi un enjeu de vies humaines du côté des conducteurs.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "13 morts"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : le nombre total de refus d'obtempérer est stable (environ 25 700 par an, −5 % entre 2016 et 2023), mais les refus dangereux ont presque doublé en dix ans. La mission parlementaire écarte le laxisme : les peines ont été doublées en 2022 et 18 092 affaires poursuivies.",
+    "moyen": "Le nombre de refus d'obtempérer n'explose pas : environ 25 700 par an entre 2016 et 2023, en légère baisse. Ce qui augmente, ce sont les refus aggravés, qui mettent en danger les autres usagers et les forces de l'ordre : ils ont presque doublé entre 2012 et 2022.\n\nLa justice n'est pas laxiste sur ce point : la peine a été doublée en 2022, et 18 092 affaires ont été poursuivies cette année-là, souvent en procédure rapide. La mission de l'Assemblée a écarté le laxisme comme explication.",
+    "detaille": "Les chiffres officiels montrent une stabilité d'ensemble : environ 25 700 refus d'obtempérer routiers par an entre 2016 et 2023, avec une hausse jusqu'en 2021 puis une baisse, soit −5 % sur la période. Un média automobile citant le service statistique du ministère fait état d'une hausse de 11 % en 2025, qui reste à vérifier à la source.\n\nLa vraie inquiétude porte sur la gravité : les refus aggravés sont passés de 16 % à 21 % du total entre 2016 et 2023, et ils ont augmenté de 94,6 % entre 2012 et 2022. Dans neuf cas sur dix, ils mettent en danger d'autres usagers.\n\nLa réponse pénale s'est durcie : la loi de janvier 2022 a doublé la peine du refus simple, et en 2022, 18 092 affaires ont été poursuivies. La mission parlementaire, menée par un député Renaissance et un député socialiste, écarte le laxisme judiciaire. Elle relève aussi que les tirs sur véhicules ont culminé en 2017, année de la loi qui les encadre, et qu'en 2022, 13 personnes ont été tuées par la police lors de refus d'obtempérer.",
+    "empathie": "Un conducteur qui fonce sur un policier ou dans la foule, c'est terrifiant, et la hausse des refus dangereux est réelle. Mais la justice n'a pas fermé les yeux : les peines ont été doublées en 2022."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il faut laisser les policiers tirer.",
+      "reponse": "La loi de 2017 l'autorise déjà sous conditions ; les tirs ont culminé cette année-là, et 13 personnes ont été tuées en 2022."
+    },
+    {
+      "objection": "Les juges relâchent les chauffards.",
+      "reponse": "Plus de 18 000 affaires poursuivies en 2022, majoritairement en procédure rapide, et des peines doublées."
+    }
+  ],
+  "questions": [
+    "Savais-tu que le nombre total de refus d'obtempérer est à peu près stable depuis 2016 ?",
+    "Qu'est-ce qui pourrait expliquer la hausse des refus les plus dangereux ?"
+  ],
+  "limites": [
+    "La note du service statistique du ministère de l'Intérieur n'a pas pu être lue directement ; deux sources donnent des moyennes un peu différentes pour 2016-2023.",
+    "Le chiffre de 2025 vient d'un média ; aucune série officielle des décès après 2022 n'a été lue."
+  ],
+  "sources": [
+    {
+      "titre": "Légère baisse des refus d'obtempérer routiers enregistrés entre 2016 et 2023",
+      "organisme": "Gendarmerie nationale (Gendinfo, d'après le SSMSI)",
+      "date_publication": "19 avril 2024",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2024/legere-baisse-des-refus-d-obtemperer-routiers-enregistres-entre-2016-et-2023",
+      "passage": "En moyenne 25 700 refus d'obtempérer routiers sont constatés chaque année entre 2016 et 2023, en baisse de 5 % sur la période (hausse jusqu'en 2021, puis baisse). La part des refus aggravés passe de 16 % en 2016 à 21 % en 2023 ; dans neuf cas sur dix, ils mettent en danger d'autres usagers.",
+      "pertinence": "Publication officielle reprenant le service statistique du ministère de l'Intérieur.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information n° 2692 sur les refus d'obtempérer et dossier de presse",
+      "organisme": "Assemblée nationale, commission des lois (Thomas Rudigoz, Roger Vicot)",
+      "date_publication": "29 mai 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/cion_lois/l16b2692_rapport-information.pdf",
+      "passage": "La loi du 24 janvier 2022 a porté la peine du refus simple d'« un an d'emprisonnement et 7 500 euros » à « deux ans d'emprisonnement et 15 000 euros » ; le refus aggravé est puni jusqu'à sept ans et 100 000 € quand des forces de l'ordre sont exposées. 18 092 affaires ont été poursuivies en 2022, dont plus de 62 % en procédure accélérée. Entre 2012 et 2022, refus simples +33,7 % et refus aggravés +94,6 % ; la mission écarte le laxisme judiciaire comme cause.",
+      "pertinence": "Rapport parlementaire transpartisan.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Tirs lors de refus d'obtempérer : la mission d'information ne se prononce pas sur les effets de la loi de 2017",
+      "organisme": "LCP (Maxence Kagni)",
+      "date_publication": "29 mai 2024",
+      "url": "https://lcp.fr/actualites/tirs-lors-de-refus-d-obtemperer-la-mission-d-information-ne-se-prononce-pas-sur-les",
+      "passage": "Les refus simples passent de 19 174 à 25 641 et les refus aggravés de 2 520 à 4 905 entre 2012 et 2022. Les tirs sur des véhicules passent « de 116 tirs à 205 tirs » de 2012 à 2017, puis « de 205 tirs à 140 tirs » en 2022.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Nanterre : que dit la loi sur le refus d'obtempérer ?",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "28 juin 2023",
+      "url": "https://www.publicsenat.fr/actualites/politique/nanterre-que-dit-la-loi-sur-le-refus-dobtemperer",
+      "passage": "En 2022, « 13 personnes ont été tuées par la police » lors de refus d'obtempérer. L'article L435-1 du code de la sécurité intérieure autorise le tir sur un véhicule dont le conducteur « n'obtempère pas », sous condition d'absolue nécessité et de proportionnalité.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Nouvelles données annuelles du ministère de l'Intérieur.",
+  "objections_legitimes": [
+    "Les refus aggravés ont presque doublé en dix ans.",
+    "Une hausse de 11 % en 2025 est signalée par un média citant le ministère.",
+    "Des policiers et des gendarmes sont morts en lien avec des refus d'obtempérer."
+  ],
+  "publics": {
+    "convaincus": "Les refus les plus dangereux ont bien presque doublé en dix ans, tu as raison de t'inquiéter. Mais la justice a réagi : peines doublées en 2022, plus de 18 000 affaires poursuivies. La mission de l'Assemblée, à laquelle ont participé des élus de la majorité, écarte le laxisme : il faut chercher ailleurs les causes.",
+    "indecis": "Le nombre total est à peu près stable, mais les refus qui mettent des vies en danger augmentent nettement. La réponse pénale s'est durcie. Le débat porte sur la prévention et sur l'encadrement des tirs, qui ont aussi fait des morts."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "libertes"
+    ],
+    "mecanismes": "La hausse des refus dangereux sert à réclamer plus de liberté de tir plutôt qu’à en chercher les causes.",
+    "consequences": "Des vies sont perdues des deux côtés : forces de l’ordre, usagers et conducteurs.",
+    "democratie": "L’usage des armes par l’État doit rester strictement encadré et contrôlé.",
+    "propositions": [
+      "Évaluer la loi de 2017 sur l’usage des armes et revoir son encadrement.",
+      "Développer les moyens d’interpellation différée plutôt que les poursuites dangereuses."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les refus d’obtempérer aggravés ont presque doublé en dix ans.",
+        "integration": "Le reconnaître, et rappeler que la réponse pénale a été durcie."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "refus_obtemperer",
+      "label": "Refus d’obtempérer"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "justice",
+    "refusent de s arreter"
+  ],
+  "concepts": [
+    "justice",
+    "refus_obtemperer"
+  ]
+}

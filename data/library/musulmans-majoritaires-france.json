@@ -1,0 +1,195 @@
+{
+  "id": "musulmans-majoritaires-france",
+  "type": "idee_recue",
+  "affirmation": "La France compte le plus de musulmans d'Europe, ils seront bientôt majoritaires.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et démographie",
+  "rubriques": [],
+  "mots_cles": [
+    "musulmans majoritaires",
+    "bientot majoritaires",
+    "nombre de musulmans",
+    "musulmans en france",
+    "islamisation",
+    "france musulmane",
+    "pew musulmans",
+    "part des musulmans"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Aucune projection ne s'approche d'une majorité : le Pew Research Center prévoit entre 12,7 % et 18 % de musulmans en France en 2050 selon les scénarios d'immigration. Aujourd'hui, 10 % des 18-59 ans se déclarent musulmans selon l'Insee et l'Ined, contre 51 % sans religion et 29 % catholiques. La fécondité des descendantes d'immigrées se rapproche de la moyenne.",
+  "contexte": "L'affirmation accompagne la théorie du « grand remplacement » et circule avec de faux chiffres, comme « 50 % de musulmans en 2050 ».",
+  "explication": "Le recensement ne demande pas la religion : les chiffres viennent d'enquêtes déclaratives ou d'estimations. Les projections dépendent de l'immigration, de la fécondité et de la transmission religieuse.",
+  "faits": [
+    {
+      "fait": "En 2016, la France comptait 5,7 millions de musulmans, soit 8,8 % de sa population, selon le Pew Research Center.",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Les musulmans sont une minorité.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "8,8 %"
+    },
+    {
+      "fait": "Selon Pew, la part des musulmans en France serait en 2050 de 12,7 % sans immigration, 17,4 % avec une immigration moyenne et 18 % avec une immigration forte.",
+      "periode": "projection 2050",
+      "perimetre": "France",
+      "explication": "Même le scénario le plus haut est très loin d'une majorité.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "18 % au plus"
+    },
+    {
+      "fait": "En 2019-2020, parmi les 18-59 ans, 51 % se déclarent sans religion, 29 % catholiques et 10 % musulmans.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Les sans-religion sont majoritaires.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "10 %"
+    },
+    {
+      "fait": "La fécondité des femmes nées à l'étranger est de 2,3 enfants contre 1,7 pour les femmes nées en France (2021), et de 2,0 pour les descendantes de deux parents immigrés.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "La fécondité se rapproche de la moyenne en une génération.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2,3 contre 1,7"
+    },
+    {
+      "fait": "Même la Suède, pays le plus haut de l'étude Pew, atteindrait 30,6 % de musulmans en 2050 dans le scénario d'immigration forte.",
+      "periode": "projection 2050",
+      "perimetre": "Europe",
+      "explication": "Aucun pays européen n'approche d'une majorité.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "30,6 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : selon le Pew Research Center, la France compterait entre 12,7 % et 18 % de musulmans en 2050 selon l'immigration. Aujourd'hui, 10 % des 18-59 ans se disent musulmans, et 51 % sans religion. Aucune projection n'approche d'une majorité.",
+    "moyen": "Les musulmans représentaient environ 8,8 % de la population française en 2016 selon le Pew Research Center. Même dans le scénario d'immigration la plus forte, ils seraient 18 % en 2050 : loin d'une majorité.\n\nSelon l'Insee et l'Ined, 10 % des 18-59 ans se déclarent musulmans, contre 51 % sans religion et 29 % catholiques. Et la fécondité des filles d'immigrées se rapproche de la moyenne française.",
+    "detaille": "Le Pew Research Center estimait en 2016 que la France comptait 5,7 millions de musulmans, soit 8,8 % de la population. Ses projections pour 2050 vont de 12,7 % sans aucune immigration à 18 % avec une immigration forte. Le chiffre de 50 % de musulmans en 2050, qui a circulé en Europe, a été qualifié de faux par un fact-checker espagnol sur cette base. Même la Suède, pays le plus haut de l'étude, atteindrait 30,6 % dans le scénario maximal.\n\nL'enquête Trajectoires et Origines de l'Insee et de l'Ined donne une photographie : en 2019-2020, parmi les 18-59 ans, 10 % se déclarent musulmans, 29 % catholiques et 51 % sans religion.\n\nLa part des musulmans augmente, notamment parce que les musulmanes ont plus d'enfants en moyenne (2,6 contre 1,6 en Europe selon Pew) et que la population est plus jeune. Mais la fécondité converge : 2,3 enfants pour les femmes nées à l'étranger, 2,0 pour les descendantes d'immigrés, contre 1,7 pour les femmes nées en France.",
+    "empathie": "Je comprends que les changements visibles dans certains quartiers puissent inquiéter. Mais les projections les plus hautes restent très loin d'une majorité : moins d'un Français sur cinq en 2050."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les chiffres officiels sont truqués.",
+      "reponse": "Les projections viennent d'un centre de recherche américain indépendant et d'enquêtes de l'Insee et de l'Ined : elles concordent."
+    },
+    {
+      "objection": "Ils font beaucoup plus d'enfants.",
+      "reponse": "L'écart existe, mais il se réduit en une génération : 2,0 enfants pour les descendantes d'immigrées."
+    }
+  ],
+  "questions": [
+    "Quelle part de musulmans prévoit le scénario le plus haut de Pew pour la France en 2050 ?",
+    "Sais-tu quelle est la part des personnes sans religion en France ?"
+  ],
+  "limites": [
+    "Les données de Pew datent de 2016-2017 ; le rapport complet n'a pas pu être lu.",
+    "L'affirmation selon laquelle la France compte le plus de musulmans d'Europe n'a pas été vérifiée dans les sources lues ; le recensement ne demande pas la religion."
+  ],
+  "sources": [
+    {
+      "titre": "Europe's Muslim population will continue to grow – but how much depends on migration",
+      "organisme": "Pew Research Center (Michael Lipka)",
+      "date_publication": "4 décembre 2017",
+      "url": "https://www.pewresearch.org/short-reads/2017/12/04/europes-muslim-population-will-continue-to-grow-but-how-much-depends-on-migration/",
+      "passage": "En 2016, les musulmans représentaient 4,9 % de la population européenne ; la France comptait 5,7 millions de musulmans, soit 8,8 % de sa population. Sans aucune immigration, la France atteindrait 12,7 % en 2050. Les musulmanes ont en moyenne 2,6 enfants par femme, contre 1,6 pour les non-musulmanes.",
+      "pertinence": "Centre de recherche américain (2017).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "La diversité religieuse en France : transmissions intergénérationnelles et pratiques selon les origines",
+      "organisme": "Insee (Insee Références ; Louis Drouhot, Patrick Simon, Vincent Tiberj — enquête TeO2)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793308",
+      "passage": "En 2019-2020, parmi les 18-59 ans de France métropolitaine, 51 % se déclarent sans religion, 29 % catholiques et 10 % musulmans ; les musulmans représentent 44 % des immigrés et 1 % de la population sans ascendance migratoire.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fécondité (Immigrés et descendants d'immigrés en France, édition 2023)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793238",
+      "passage": "La fécondité des femmes nées à l'étranger « s'établit à 2,3 enfants par femme en moyenne, contre 1,7 pour celles nées en France » (2021) ; pour les descendantes de deux parents immigrés, la descendance finale est de 2,0 enfants (générations 1960-1974).",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Es falso que a partir de 2050 en Francia « el 50% de la población va a ser musulmana »",
+      "organisme": "Maldita.es (fact-checker espagnol)",
+      "date_publication": "12 avril 2019",
+      "url": "https://maldita.es/malditodato/es-falso-que-a-partir-de-2050-en-francia-el-50-de-la-poblacion-va-a-ser-musulmana-como-dice-santiago-abascal/",
+      "passage": "D'après Pew (2017), la France atteindrait en 2050 12,7 % de musulmans (sans immigration), 17,4 % (immigration moyenne) ou 18 % (immigration forte) ; la Suède, pays le plus haut, atteindrait 30,6 % dans le scénario fort. Verdict : « FALSO ».",
+      "pertinence": "Fact-checker reconnu.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles enquêtes sur la diversité religieuse.",
+  "objections_legitimes": [
+    "La part des musulmans augmente, même sans immigration, à cause de l'âge et de la fécondité.",
+    "La transmission religieuse est forte dans les familles musulmanes selon l'Insee."
+  ],
+  "publics": {
+    "convaincus": "Même dans le scénario le plus élevé du Pew Research Center, avec une immigration forte, les musulmans seraient 18 % en France en 2050. Ça laisse plus de quatre Français sur cinq qui ne le sont pas. Aujourd'hui, la majorité qui progresse, ce sont les sans-religion : 51 % des 18-59 ans.",
+    "indecis": "La part des musulmans augmente, c'est vrai, mais lentement : de 8,8 % en 2016 à 12,7 % à 18 % en 2050 selon les scénarios. Les chiffres alarmistes qui circulent sont faux. Et la fécondité des filles d'immigrées rejoint vite la moyenne française."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "universalite"
+    ],
+    "mecanismes": "Des projections exagérées entretiennent la peur d’un remplacement et désignent une minorité comme menace.",
+    "consequences": "Les musulmans de France sont regardés comme des étrangers dans leur propre pays.",
+    "democratie": "La République garantit l’égalité de tous les citoyens, quelle que soit leur religion.",
+    "propositions": [
+      "Combattre les fausses projections démographiques par l’information publique.",
+      "Lutter contre les discriminations religieuses."
+    ],
+    "defavorables": [
+      {
+        "fait": "La part des musulmans augmente, même sans immigration.",
+        "integration": "Le reconnaître, en donnant les ordres de grandeur réels."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "musulmans_nombre",
+      "label": "Nombre de musulmans"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "natalite"
+  ],
+  "concepts": [
+    "immigration",
+    "islam",
+    "demographie",
+    "europe",
+    "musulmans_nombre"
+  ]
+}

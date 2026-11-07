@@ -133,11 +133,17 @@
     "ensauvagement",
     "pourcentage",
     "insee",
-    "donnees"
+    "donnees",
+    "legitime defense"
   ],
+  "publics": {
+    "convaincus": "Les chiffres du ministère de l'Intérieur ne disent pas que tout augmente : en 2025, les cambriolages, les vols avec armes et les vols de véhicules baissent, et les homicides sont stables. Ce qui monte, ce sont surtout les violences sexuelles déclarées, les escroqueries et les affaires de stupéfiants. Pour lutter contre la délinquance, il faut regarder infraction par infraction.",
+    "indecis": "Ton inquiétude est compréhensible, et certaines formes de délinquance augmentent vraiment, comme les violences sexuelles enregistrées ou le trafic de stupéfiants. Mais d'autres baissent, comme les cambriolages, et les homicides sont stables. Une partie des hausses vient aussi de plaintes plus nombreuses."
+  },
   "concepts": [
     "delinquance",
     "homicide",
-    "statistiques"
+    "statistiques",
+    "legitime_defense"
   ]
 }

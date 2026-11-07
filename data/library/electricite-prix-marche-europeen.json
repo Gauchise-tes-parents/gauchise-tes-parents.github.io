@@ -1,0 +1,192 @@
+{
+  "id": "electricite-prix-marche-europeen",
+  "type": "idee_recue",
+  "affirmation": "On paie l'électricité plus cher à cause du marché européen.",
+  "volet": "ecologie",
+  "sous_theme": "Prix de l’énergie",
+  "rubriques": [],
+  "mots_cles": [
+    "prix de l electricite",
+    "marche europeen de l electricite",
+    "facture d electricite",
+    "arenh",
+    "prix marginal",
+    "tarif reglemente",
+    "electricite trop chere",
+    "sortir du marche europeen"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le mécanisme européen du prix marginal, qui aligne le prix de gros sur la dernière centrale appelée, souvent au gaz, a bien transmis la flambée du gaz en 2022. Mais les ménages français ont payé leur électricité 22 % moins cher que la moyenne de l'UE en 2022 et 13 % moins cher en 2025, grâce au bouclier tarifaire et à l'ARENH. En 2025, le prix de gros français est parmi les plus bas d'Europe et la France a exporté un record d'électricité.",
+  "contexte": "Le RN et une partie de la gauche réclament de sortir du marché européen de l'électricité ; l'argument a pris de la force avec la crise de 2022.",
+  "explication": "Sur le marché de gros européen, le prix est fixé par la centrale la plus chère nécessaire pour répondre à la demande. Les tarifs réglementés français sont calculés à partir de ces prix ; jusqu'à fin 2025, l'ARENH permettait d'acheter une partie du nucléaire d'EDF à 42 €/MWh.",
+  "faits": [
+    {
+      "fait": "Sur le marché de gros européen, « les prix sont déterminés par le coût de production de la dernière centrale appelée », souvent au gaz ou au charbon.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "La crise du gaz s'est transmise aux prix de l'électricité.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2022, le prix spot moyen a atteint 279 €/MWh, multiplié par 2,6 en un an.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La flambée de 2022 a été très forte.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "279 €/MWh"
+    },
+    {
+      "fait": "Les ménages français ont payé des prix inférieurs de 22 % à la moyenne de l'UE en 2022, et de 13 % en 2025.",
+      "periode": "2022-2025",
+      "perimetre": "France et UE",
+      "explication": "Les Français paient moins que la moyenne européenne.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "−13 %"
+    },
+    {
+      "fait": "Selon Commission de régulation de l'énergie, en 2025, le prix spot français est de 61 €/MWh et la France a exporté un record net de 92,3 TWh ; elle est « parmi les marchés de gros d'électricité avec les prix les moins chers ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le marché profite aussi à la France, qui exporte.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "92,3 TWh"
+    },
+    {
+      "fait": "Selon Commission de régulation de l'énergie, depuis la fin de l'ARENH au 31 décembre 2025, les tarifs réglementés sont calculés à 100 % sur les prix de gros ; ils sont restés stables au 1er février 2026 (−0,83 %).",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La protection de l'ARENH a disparu, mais les prix de gros sont bas.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : le marché européen a bien transmis la flambée du gaz en 2022, mais les ménages français ont payé 22 % de moins que la moyenne de l'UE en 2022 et 13 % de moins en 2025. En 2025, la France est parmi les prix de gros les plus bas et exporte un record.",
+    "moyen": "La règle européenne du prix marginal a bien fait flamber les prix de gros en 2022, quand le gaz est devenu très cher : c'est une critique sérieuse, partagée par le Sénat.\n\nMais les ménages français ont été protégés par le bouclier tarifaire et l'ARENH : ils ont payé 22 % moins cher que la moyenne européenne en 2022, et encore 13 % moins cher en 2025. Et en 2025, la France vend énormément d'électricité à ses voisins grâce au marché.",
+    "detaille": "Sur le marché de gros européen, le prix est fixé par la dernière centrale appelée, souvent au gaz. En 2022, la flambée du gaz a donc fait exploser les prix de gros, jusqu'à 279 €/MWh en moyenne en France. Le Sénat a critiqué ce mécanisme et regretté que la réforme européenne le conserve.\n\nLes Français ont toutefois été protégés : le bouclier tarifaire a limité la hausse des tarifs réglementés, et l'ARENH permettait d'acheter une partie du nucléaire à 42 €/MWh. Résultat, selon le ministère : les ménages ont payé 22 % moins cher que la moyenne de l'UE en 2022, et 13 % moins cher en 2025.\n\nDepuis, le marché joue en faveur de la France : en 2025, son prix de gros (61 €/MWh) est parmi les plus bas d'Europe, et elle a exporté un record net de 92,3 TWh. La fin de l'ARENH au 31 décembre 2025 supprime une protection, et la question d'un prix de l'électricité qui reflète les coûts du parc français reste un vrai débat.",
+    "empathie": "La facture d'électricité a beaucoup augmenté depuis 2021, et la colère est légitime. Le marché européen y a joué un rôle en 2022, mais les Français paient quand même moins que la moyenne des Européens."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec notre nucléaire, on devrait payer bien moins.",
+      "reponse": "C'est un vrai débat sur la façon de fixer les prix ; mais les ménages français paient déjà 13 % moins que la moyenne de l'UE."
+    },
+    {
+      "objection": "Il faut sortir du marché européen.",
+      "reponse": "En 2025, la France y a exporté un record net de 92,3 TWh : le marché lui sert aussi à vendre son électricité."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les ménages français paient leur électricité moins cher que la moyenne européenne ?",
+    "Comment fixer un prix qui reflète les coûts du nucléaire tout en restant connecté aux voisins ?"
+  ],
+  "limites": [
+    "La base Eurostat n'a pas été lue directement : les comparaisons viennent du service statistique du ministère.",
+    "Le rôle des arrêts de réacteurs en 2022 dans la flambée n'est pas documenté dans les sources lues."
+  ],
+  "sources": [
+    {
+      "titre": "Avis politique sur la réforme du marché de l'électricité de l'Union",
+      "organisme": "Sénat, commission des affaires européennes",
+      "date_publication": "1er juin 2023",
+      "url": "https://www.senat.fr/fileadmin/Commissions/Affaires_europeennes/Fichiers/Avis_politiques/Avis_politique_reforme_du_marche_de_l_electricite.pdf",
+      "passage": "« les prix sur le marché de gros de l'électricité sont déterminés par le coût de production de la dernière centrale appelée », souvent au gaz ou au charbon. La crise « a révélé les faiblesses du fonctionnement actuel du marché européen » ; le Sénat regrette que la réforme conserve le prix marginal et défend les contrats de long terme et les tarifs réglementés.",
+      "pertinence": "Avis d'une commission parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Prix de l'électricité en France et dans l'Union européenne en 2022",
+      "organisme": "SDES (ministère de la Transition écologique)",
+      "date_publication": "août 2023",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/DE_4p_prixelectricite_aout2023_V5.pdf",
+      "passage": "Le prix spot moyen atteint 279 €/MWh en 2022, multiplié par 2,6 en un an. L'ARENH permettait d'acheter du nucléaire « au prix de 42 €/MWh » ; le bouclier a limité la hausse du tarif réglementé « à 4 % en moyenne au 1er février 2022 ». Les ménages français ont payé des prix « inférieurs de 22 % à ceux pratiqués dans l'UE ».",
+      "pertinence": "Statistique publique (2022).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Prix de l'électricité en France et dans l'Union européenne en 2025",
+      "organisme": "SDES (ministère de la Transition écologique)",
+      "date_publication": "23 juillet 2026",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/prix-de-lelectricite-en-france-et-dans-lunion-europeenne-en-2025",
+      "passage": "Le prix moyen pour les ménages est de 254,6 €/MWh TTC en 2025 (−9,0 % sur un an), 13 % sous la moyenne européenne ; les taxes augmentent de 16,5 % « avec la fin du bouclier tarifaire ». Pour les entreprises : 148,8 €/MWh hors TVA, 16 % sous la moyenne de l'UE.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Communiqués sur les tarifs réglementés (20 janvier 2026) et sur la surveillance des marchés de gros (25 juin 2026)",
+      "organisme": "Commission de régulation de l'énergie",
+      "date_publication": "20 janvier et 25 juin 2026",
+      "url": "https://www.cre.fr/fileadmin/Documents/Communiques_de_presse/2026/260625_CP_Rapport_surveillance_marches_de_gros.pdf",
+      "passage": "Les tarifs réglementés sont restés « stables, au 1er février 2026 (-0,83% TTC) », l'approvisionnement étant calculé « à 100% à un coût représentatif des prix de marchés de gros » en raison de la fin de l'ARENH le 31 décembre 2025. Le prix spot français est de 61 €/MWh en 2025 (97 en 2023), avec des exportations nettes record de 92,3 TWh ; la France est « parmi les marchés de gros d'électricité avec les prix les moins chers ».",
+      "pertinence": "Régulateur public de l'énergie.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-02-28",
+  "raison_actualisation": "Évolution des tarifs réglementés après la fin de l'ARENH.",
+  "objections_legitimes": [
+    "Le prix marginal a propagé la flambée du gaz malgré un parc largement nucléaire.",
+    "Les tarifs réglementés ont nettement augmenté entre 2021 et 2023.",
+    "Depuis la fin de l'ARENH, le tarif réglementé suit entièrement les prix de gros."
+  ],
+  "publics": {
+    "convaincus": "En 2022, le marché européen a bien fait flamber les prix, tu as raison de le critiquer. Mais les ménages français paient 13 % de moins que la moyenne européenne en 2025, et la France vend un record d'électricité à ses voisins grâce à ce marché. Le vrai combat, c'est un prix qui reflète les coûts de notre parc, pas le repli.",
+    "indecis": "Le marché européen a transmis la crise du gaz en 2022, mais les protections françaises ont limité la hausse : les ménages paient moins que la moyenne de l'UE. Le débat porte maintenant sur l'après-ARENH : comment garder des prix stables et justes."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "vulnerables"
+    ],
+    "mecanismes": "Le marché européen est désigné comme seul responsable, alors que les choix de régulation nationaux comptent aussi.",
+    "consequences": "Les ménages modestes subissent le plus les hausses de factures.",
+    "democratie": "L’électricité est un bien essentiel dont le prix doit relever de choix publics.",
+    "propositions": [
+      "Fixer un prix de l’électricité qui reflète les coûts de production du parc français.",
+      "Protéger les ménages modestes par des tarifs sociaux."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le prix marginal européen a transmis la flambée du gaz en 2022.",
+        "integration": "Le reconnaître, et défendre une réforme plutôt qu’un repli."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "electricite_marche",
+      "label": "Électricité et marché européen"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fin de mois",
+    "fins de mois",
+    "pouvoir d achat",
+    "hausse des prix",
+    "inflation",
+    "courses",
+    "vie chere",
+    "essence",
+    "tout augmente",
+    "bruxelles",
+    "union europeenne",
+    "marche europeen de l electricite"
+  ],
+  "concepts": [
+    "pouvoir_achat",
+    "europe",
+    "electricite_marche"
+  ]
+}

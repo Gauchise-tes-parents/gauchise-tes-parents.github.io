@@ -156,12 +156,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "prestations",
-    "retraite",
-    "asile"
-  ],
   "repond_a": [
     {
       "id": "ada_retraites",
@@ -186,5 +180,11 @@
     "apl",
     "minima sociaux",
     "assistanat"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "retraite",
+    "asile"
   ]
 }

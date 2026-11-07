@@ -1,0 +1,180 @@
+{
+  "id": "banlieues-jeunes-travailler",
+  "type": "idee_recue",
+  "affirmation": "Dans les banlieues, les jeunes ne veulent pas travailler.",
+  "volet": "social",
+  "sous_theme": "Chômage",
+  "rubriques": [],
+  "mots_cles": [
+    "banlieues travailler",
+    "jeunes de banlieue",
+    "quartiers prioritaires",
+    "jeunes des cites",
+    "qpv chomage",
+    "jeunes ne veulent pas travailler",
+    "cites emploi",
+    "chomage des quartiers"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le chômage des jeunes est deux fois plus élevé dans les quartiers prioritaires (25,6 % contre 13,5 % pour les moins de 30 ans en 2022), y compris à diplôme égal. Or être au chômage, c'est chercher un emploi. Un testing publié par l'Insee montre des discriminations à l'embauche pour les hommes d'origine maghrébine qui y résident. L'inactivité y est réellement plus forte, notamment chez les femmes.",
+  "contexte": "Le cliché vise les jeunes des quartiers populaires, souvent issus de l'immigration, présentés comme vivant d'aides ou de trafics.",
+  "explication": "Les quartiers prioritaires de la politique de la ville (QPV) concentrent pauvreté, faible niveau de diplôme et éloignement des emplois. Le chômage mesure ceux qui cherchent activement un emploi ; l'inactivité regroupe ceux qui n'en cherchent pas, pour des raisons diverses.",
+  "faits": [
+    {
+      "fait": "Selon Observatoire des inégalités, en 2022, le chômage des actifs de moins de 30 ans est de 25,6 % dans les quartiers prioritaires contre 13,5 % dans les autres quartiers des mêmes villes.",
+      "periode": "2022",
+      "perimetre": "QPV",
+      "explication": "Beaucoup de jeunes des quartiers cherchent un emploi sans en trouver.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "25,6 %"
+    },
+    {
+      "fait": "Selon Observatoire des inégalités, À diplôme égal (bac+2 et plus), le chômage est de 11,1 % dans les quartiers prioritaires contre 5 % ailleurs.",
+      "periode": "2022",
+      "perimetre": "QPV",
+      "explication": "Le diplôme ne suffit pas à effacer l'écart.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11,1 %"
+    },
+    {
+      "fait": "Dans un testing auprès de 3 000 entreprises, les hommes d'origine maghrébine résidant en quartier prioritaire reçoivent 2,60 % de réponses positives contre 4,80 % pour un candidat d'origine française.",
+      "periode": "2021",
+      "perimetre": "Métropole de Lille",
+      "explication": "Les discriminations à l'embauche existent.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2,60 % contre 4,80 %"
+    },
+    {
+      "fait": "En 2024, 18,3 % des habitants des quartiers prioritaires souhaitent travailler sans avoir d'emploi, et 21,8 % des jeunes n'y sont ni en emploi, ni en études, ni en formation, contre 11,2 % ailleurs.",
+      "periode": "2024",
+      "perimetre": "QPV",
+      "explication": "Le décrochage est réel, mais beaucoup veulent travailler.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "21,8 %"
+    },
+    {
+      "fait": "Selon Observatoire des inégalités, le chômage dans les quartiers prioritaires est passé de 25 % en 2014 à 18,3 % en 2022.",
+      "periode": "2014-2022",
+      "perimetre": "QPV",
+      "explication": "Quand l'emploi progresse, il progresse aussi dans les quartiers.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le chômage des moins de 30 ans est deux fois plus élevé dans les quartiers prioritaires (25,6 % contre 13,5 %), y compris à diplôme égal, et un testing montre des discriminations à l'embauche. Un chômeur cherche du travail ; l'inactivité est plus forte, mais ne prouve pas un refus.",
+    "moyen": "Dans les quartiers prioritaires, le chômage des jeunes est deux fois plus élevé qu'ailleurs, même à diplôme égal. Être au chômage, c'est chercher un emploi : le problème n'est pas l'envie de travailler, mais l'accès à l'emploi.\n\nUn testing publié par l'Insee le montre : à CV équivalent, un jeune homme d'origine maghrébine habitant un quartier prioritaire reçoit presque deux fois moins de réponses positives. Quand l'économie va mieux, le chômage y baisse : de 25 % en 2014 à 18,3 % en 2022.",
+    "detaille": "Selon l'Observatoire national de la politique de la ville, le chômage des actifs de moins de 30 ans atteint 25,6 % dans les quartiers prioritaires en 2022, contre 13,5 % dans les autres quartiers des mêmes villes. L'écart persiste à diplôme égal : 11,1 % contre 5 % pour les diplômés du supérieur.\n\nLes discriminations y contribuent : dans un testing auprès de 3 000 entreprises de la métropole lilloise, publié par l'Insee, les hommes d'origine maghrébine résidant en quartier prioritaire obtiennent 2,60 % de réponses positives, contre 4,80 % pour un candidat d'origine française. Les auteurs notent que l'adresse seule n'est pas pénalisante pour un candidat d'origine française.\n\nL'inactivité est réellement plus forte dans ces quartiers : 40,2 % des 15-64 ans contre 24,3 % ailleurs, d'abord chez les femmes, et 21,8 % des jeunes n'y sont ni en emploi, ni en études, ni en formation. Mais 18,3 % des habitants souhaitent travailler sans avoir d'emploi, et le chômage y a nettement reculé depuis 2014 : les jeunes des quartiers saisissent les emplois quand ils existent.",
+    "empathie": "Je comprends que certaines images de jeunes qui traînent en bas des immeubles marquent les esprits. Mais les chiffres montrent surtout des jeunes qui cherchent du travail et en trouvent moins, même avec des diplômes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils préfèrent les trafics.",
+      "reponse": "Rien dans les données lues ne le montre ; le chômage des jeunes des quartiers mesure ceux qui cherchent activement un emploi."
+    },
+    {
+      "objection": "Ils n'ont qu'à faire des études.",
+      "reponse": "À diplôme égal, le chômage reste deux fois plus élevé dans les quartiers prioritaires."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'à diplôme égal, le chômage est deux fois plus élevé dans les quartiers prioritaires ?",
+    "Que ferais-tu si tu envoyais des dizaines de CV sans réponse ?"
+  ],
+  "limites": [
+    "Les chiffres de l'ONPV sont repris par l'Observatoire des inégalités et la presse, le rapport n'a pas été lu directement.",
+    "Le testing porte sur une seule métropole et date de 2021."
+  ],
+  "sources": [
+    {
+      "titre": "Le sur-chômage des quartiers prioritaires",
+      "organisme": "Observatoire des inégalités (d'après l'ONPV)",
+      "date_publication": "21 mai 2025",
+      "url": "https://inegalites.fr/Chomage-QPV",
+      "passage": "En 2022, le taux de chômage est de 18,3 % dans les quartiers prioritaires contre 7,5 % dans les autres quartiers des mêmes villes. Pour les actifs de moins de 30 ans : 25,6 % contre 13,5 % ; à bac+2 et plus : 11,1 % contre 5 %. Le chômage en QPV est passé de 25 % en 2014 à 18,3 % en 2022.",
+      "pertinence": "Association d'information reprenant les données publiques.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Dans les quartiers prioritaires, seule une personne sur deux en âge de travailler est en emploi",
+      "organisme": "Banque des Territoires (Localtis, Catherine Abou El Khair), d'après l'ONPV",
+      "date_publication": "21 juillet 2026",
+      "url": "https://www.banquedesterritoires.fr/dans-les-quartiers-prioritaires-seule-une-personne-sur-deux-en-age-de-travailler-est-en-emploi",
+      "passage": "En 2024, « 49,8% des 15-64 ans sont en emploi » en QPV, contre 70 % dans les unités urbaines englobantes ; 40,2 % sont inactifs contre 24,3 %. « 18,3% des personnes en QPV souhaitent pourtant travailler. » « 21,8% des jeunes résidant en QPV sont ni en études, ni en emploi, ni en formation », contre 11,2 % ailleurs ; l'inactivité touche d'abord les femmes.",
+      "pertinence": "Média des collectivités reprenant l'Observatoire national de la politique de la ville.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Discriminations dans l'accès à l'emploi : les effets croisés du genre, de l'origine et de l'adresse (Économie et Statistique n° 541)",
+      "organisme": "Insee (Sylvain Chareyron, Yannick L'Horty, Pascale Petit)",
+      "date_publication": "2023",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/7677719/01_ES541_Chareyron-et-al_FR.pdf",
+      "passage": "Testing auprès de 3 000 entreprises de la métropole lilloise (fin 2021) : le candidat d'origine maghrébine reçoit 27 % de réponses positives en moins. Les hommes ne sont discriminés selon leur origine que lorsqu'ils résident en quartier prioritaire (2,60 % de réponses positives contre 4,80 %) ; pour les candidats d'origine française, résider en QPV n'est pas pénalisant.",
+      "pertinence": "Revue scientifique de la statistique publique.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Rapport annuel de l'Observatoire national de la politique de la ville.",
+  "objections_legitimes": [
+    "L'inactivité est beaucoup plus forte dans les quartiers prioritaires (40,2 % contre 24,3 %).",
+    "La part des jeunes ni en emploi, ni en études, ni en formation y est près de deux fois plus élevée."
+  ],
+  "publics": {
+    "convaincus": "Un chômeur, par définition, cherche du travail : et dans les quartiers, un jeune sur quatre cherche sans trouver, même avec un diplôme. Un testing de l'Insee montre qu'à CV équivalent, un jeune d'origine maghrébine qui y habite reçoit presque deux fois moins de réponses. Et quand l'emploi repart, le chômage y baisse aussi.",
+    "indecis": "Il y a un vrai problème d'emploi dans les quartiers prioritaires, avec plus d'inactivité et de décrochage. Mais les données montrent surtout un chômage deux fois plus élevé à diplôme égal et des discriminations à l'embauche. La solution passe par l'accès à l'emploi, pas par le soupçon."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "travailleurs",
+      "egalite"
+    ],
+    "mecanismes": "Un stéréotype sur la paresse des quartiers masque les discriminations et le manque d’emplois.",
+    "consequences": "Des jeunes diplômés restent au chômage à cause de leur adresse ou de leur origine supposée.",
+    "democratie": "L’égalité des chances suppose de lutter contre les discriminations à l’embauche.",
+    "propositions": [
+      "Généraliser les testings et sanctionner les entreprises qui discriminent.",
+      "Investir dans l’emploi, la formation et les transports dans les quartiers populaires."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’inactivité et le décrochage sont réellement plus élevés dans les quartiers prioritaires.",
+        "integration": "Le reconnaître, et en chercher les causes plutôt que d’accuser."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "banlieues_travail",
+      "label": "Jeunes des quartiers et emploi"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "on travaille toute",
+    "qpv"
+  ],
+  "concepts": [
+    "emploi",
+    "travail_effort",
+    "banlieues"
+  ]
+}

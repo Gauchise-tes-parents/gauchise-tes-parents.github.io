@@ -1,0 +1,205 @@
+{
+  "id": "peine-de-mort-dissuasion",
+  "type": "idee_recue",
+  "affirmation": "Il faut rétablir la peine de mort, ça dissuaderait les criminels.",
+  "volet": "securite",
+  "sous_theme": "Justice pénale",
+  "rubriques": [],
+  "mots_cles": [
+    "peine de mort",
+    "retablir la peine de mort",
+    "peine capitale",
+    "abolition",
+    "dissuasion",
+    "effet dissuasif",
+    "badinter",
+    "executions"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Aucun effet dissuasif n'est démontré : en 2012, l'Académie des sciences américaine a conclu que la recherche ne permet pas d'établir que la peine de mort réduit les homicides, et les États américains qui l'appliquent ont des taux d'homicide plus élevés. En France, le rétablissement est juridiquement verrouillé : la Constitution l'interdit depuis 2007 et un traité ratifié ne peut pas être dénoncé. 52 % des Français y étaient pourtant favorables en 2025.",
+  "contexte": "Après chaque crime atroce, l'idée revient ; elle progresse dans les enquêtes d'opinion, y compris chez les jeunes.",
+  "explication": "La dissuasion suppose que les criminels calculent le risque avant d'agir ; or beaucoup de crimes sont commis sous le coup de l'émotion, et la certitude d'être arrêté compte plus que la sévérité de la peine. Juridiquement, l'article 66-1 de la Constitution et les engagements internationaux de la France interdisent la peine de mort.",
+  "faits": [
+    {
+      "fait": "Selon le National Research Council américain, « the research to date is not useful in determining the deterrent effect of the death penalty on homicide rates ».",
+      "periode": "2012",
+      "perimetre": "États-Unis",
+      "explication": "Aucun effet dissuasif n'est démontré.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Death Penalty Information Center, en 1999, le taux d'homicide était de 5,5 pour 100 000 dans les États américains pratiquant la peine de mort, contre 3,6 dans les autres.",
+      "periode": "1999",
+      "perimetre": "États-Unis",
+      "explication": "La peine de mort ne va pas de pair avec moins d'homicides.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "5,5 contre 3,6"
+    },
+    {
+      "fait": "Depuis 2007, l'article 66-1 de la Constitution dispose : « Nul ne peut être condamné à la peine de mort ».",
+      "periode": "2007",
+      "perimetre": "France",
+      "explication": "Le rétablissement exigerait une révision de la Constitution.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Conseil constitutionnel, le deuxième protocole facultatif au Pacte international relatif aux droits civils et politiques « ne comporte pas de clause de dénonciation » et « prescrit une abolition définitive ».",
+      "periode": "2005",
+      "perimetre": "France",
+      "explication": "La France s'est engagée de façon irréversible.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En octobre 2025, 52 % des personnes interrogées (54 % des 18-24 ans) estimaient qu'il faudrait rétablir la peine de mort.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "L'opinion est partagée, avec une majorité favorable.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "52 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux sur la dissuasion : l'Académie des sciences américaine conclut qu'aucun effet n'est démontré, et les États américains avec peine de mort ont plus d'homicides. Et le rétablissement est interdit par la Constitution depuis 2007 et par un traité sans clause de sortie.",
+    "moyen": "L'idée que la peine de mort dissuade n'est pas démontrée : en 2012, l'Académie des sciences américaine a conclu que les études ne permettent pas de l'établir. Aux États-Unis, les États qui exécutent ont même des taux d'homicide plus élevés que les autres.\n\nEn France, la peine de mort est abolie depuis 1981, interdite par la Constitution depuis 2007, et la France a signé un traité qui ne prévoit aucune possibilité de retour. La rétablir supposerait de rompre ces engagements.",
+    "detaille": "La dissuasion suppose qu'un criminel pèse le risque avant d'agir. Les recherches ne le montrent pas : en 2012, le National Research Council américain a conclu que les études existantes ne permettent pas de déterminer l'effet de la peine de mort sur les homicides. Les États américains qui l'appliquent ont d'ailleurs des taux d'homicide plus élevés que ceux qui l'ont abolie (5,5 contre 3,6 pour 100 000 en 1999), ce qui ne prouve pas l'inverse mais contredit l'idée d'un effet évident.\n\nEn France, la loi du 9 octobre 1981 a aboli la peine de mort. La révision constitutionnelle de 2007 a inscrit à l'article 66-1 : « Nul ne peut être condamné à la peine de mort ». Le Conseil constitutionnel a relevé qu'un des traités signés « ne comporte pas de clause de dénonciation » et « prescrit une abolition définitive ».\n\nUne majorité de Français (52 % en 2025) se dit favorable au rétablissement : c'est une opinion respectable, souvent nourrie par la colère face aux crimes. Mais elle repose sur une efficacité qui n'est pas démontrée, et sur un risque irréparable en cas d'erreur judiciaire.",
+    "empathie": "Face à certains crimes, la colère est naturelle, et vouloir que le pire soit puni l'est aussi. Mais si la peine de mort ne protège personne de plus, elle ne fait qu'ajouter une mort, avec le risque de tuer un innocent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Au moins, un criminel exécuté ne récidive pas.",
+      "reponse": "La réclusion à perpétuité empêche aussi la récidive, sans le risque irréparable d'exécuter un innocent."
+    },
+    {
+      "objection": "On pourrait faire un référendum.",
+      "reponse": "Il faudrait réviser la Constitution et sortir d'un traité qui ne prévoit aucune sortie : ce serait rompre la parole de la France."
+    }
+  ],
+  "questions": [
+    "Si la peine de mort dissuadait, pourquoi les États américains qui l'appliquent ont-ils plus d'homicides ?",
+    "Que ferait-on en cas d'erreur judiciaire après une exécution ?"
+  ],
+  "limites": [
+    "Le chiffre comparatif américain date de 1999 ; les années récentes n'ont pas été lues.",
+    "Le rapport du NRC a été lu sous forme de notice, pas en texte intégral ; la date de ratification des derniers protocoles par la France n'a pas été vérifiée."
+  ],
+  "sources": [
+    {
+      "titre": "Deterrence and the Death Penalty (notice NCJ 238584)",
+      "organisme": "National Research Council, États-Unis (dir. Daniel Nagin, John Pepper) — notice du National Institute of Justice",
+      "date_publication": "2012",
+      "url": "https://nij.ojp.gov/library/publications/deterrence-and-death-penalty",
+      "passage": "« the research to date is not useful in determining the deterrent effect of the death penalty on homicide rates » : les études existantes ne permettent pas d'établir un effet dissuasif sur les homicides, notamment parce qu'elles « have not accounted for the possible effect of noncapital punishments ».",
+      "pertinence": "Rapport de l'Académie des sciences américaine.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Murder Rate of Death Penalty States Compared to Non-Death Penalty States",
+      "organisme": "Death Penalty Information Center",
+      "date_publication": "mis à jour le 14 mars 2025",
+      "url": "https://deathpenaltyinfo.org/facts-and-research/murder-rates/murder-rate-of-death-penalty-states-compared-to-non-death-penalty-states",
+      "passage": "D'après les données du FBI, en 1999, le taux d'homicide était de 5,5 pour 100 000 habitants dans les États pratiquant la peine de mort, contre 3,6 dans les autres ; le taux des États sans peine de mort reste « consistently lower ».",
+      "pertinence": "Organisation spécialisée, critique de la peine de mort.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "[Archives] Interdiction de la peine de mort (discours au Sénat)",
+      "organisme": "Ministère de la Justice",
+      "date_publication": "7 février 2007",
+      "url": "https://www.justice.gouv.fr/node/1920",
+      "passage": "La loi du 9 octobre 1981 a permis à la France de ratifier en 1986 le protocole n° 6, qui « permet néanmoins le rétablissement de la peine de mort pour des actes commis en temps de guerre ». Selon le Conseil constitutionnel (13 octobre 2005), le deuxième protocole facultatif au Pacte international relatif aux droits civils et politiques « ne comporte pas de clause de dénonciation » et « prescrit une abolition définitive ».",
+      "pertinence": "Discours officiel archivé.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "[Archives] Scellement de la loi constitutionnelle du 23 février 2007",
+      "organisme": "Ministère de la Justice",
+      "date_publication": "28 mars 2007",
+      "url": "https://www.justice.gouv.fr/node/1952",
+      "passage": "L'article 66-1 de la Constitution dispose : « Nul ne peut être condamné à la peine de mort ». La France « peut désormais ratifier » le protocole n° 13 (abolition en toutes circonstances) et le deuxième protocole facultatif.",
+      "pertinence": "Communiqué officiel archivé.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fractures françaises 2025 : d'une crise à l'autre",
+      "organisme": "Institut Montaigne (enquête Ipsos BVA / Sopra Steria pour Le Monde, Cevipof, Fondation Jean-Jaurès)",
+      "date_publication": "octobre 2025",
+      "url": "https://institutmontaigne.org/publications/fractures-francaises-2025-la-societe-face-la-crise",
+      "passage": "« 52 % (54 % des 18-24 ans) des personnes interrogées estiment qu'il faudrait rétablir la peine de mort en France », soit une progression d'un point sur un an.",
+      "pertinence": "Enquête d'opinion annuelle.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Nouvelles enquêtes d'opinion annuelles.",
+  "objections_legitimes": [
+    "Une majorité de Français (52 % en 2025) est favorable au rétablissement.",
+    "Le rapport américain ne prouve pas l'absence d'effet : il dit que les études ne permettent pas de trancher.",
+    "La comparaison entre États américains est une corrélation, pas une preuve."
+  ],
+  "publics": {
+    "convaincus": "Si la peine de mort dissuadait, les États américains qui l'appliquent auraient moins de meurtres : c'est l'inverse. Les scientifiques américains concluent qu'aucun effet n'est démontré. Et une erreur judiciaire, on ne peut plus la réparer.",
+    "indecis": "La colère face aux crimes graves est légitime, et beaucoup de Français partagent ce souhait. Mais les recherches ne montrent pas d'effet dissuasif, et la Constitution l'interdit depuis 2007. La perpétuité protège la société sans risquer d'exécuter un innocent."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "libertes"
+    ],
+    "mecanismes": "La colère face aux crimes est transformée en promesse de sécurité que la recherche ne confirme pas.",
+    "consequences": "Une erreur judiciaire deviendrait irréparable.",
+    "democratie": "Le refus de la peine de mort est un engagement constitutionnel et international de la France.",
+    "propositions": [
+      "Investir dans l’enquête et l’élucidation, qui dissuadent davantage que la sévérité.",
+      "Garantir des peines effectives et un accompagnement des victimes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une majorité de Français se dit favorable au rétablissement.",
+        "integration": "Le reconnaître avec respect, et répondre sur l’efficacité et l’erreur judiciaire."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "peine_mort",
+      "label": "Peine de mort"
+    },
+    {
+      "id": "peine_mort_justice",
+      "label": "Peine de mort"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "justice",
+    "peine de mort",
+    "peine capitale",
+    "guillotine"
+  ],
+  "concepts": [
+    "delinquance",
+    "justice",
+    "peine_mort"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "syndicats-subventions",
+  "type": "idee_recue",
+  "affirmation": "Les syndicats vivent des subventions de l'État.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "syndicats subventions",
+    "financement des syndicats",
+    "syndicats payes par l etat",
+    "argent des syndicats",
+    "rapport perruchot",
+    "fonds paritaire",
+    "cgt subventions",
+    "cotisations syndicales"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le financement public des syndicats existe mais il est limité : en 2025, le fonds paritaire a versé un peu plus de 103 M€ aux syndicats de salariés et 53,6 M€ au patronat, dont seulement 34,7 M€ venaient de l'État, le reste d'une contribution des entreprises. La CFDT déclare 76 % de ressources propres. Le chiffre de « 4 % de cotisations » vient d'un rapport rejeté par l'Assemblée en 2011.",
+  "contexte": "L'argument sert à présenter les syndicats comme des organisations vivant aux crochets de l'État, notamment pendant les grèves.",
+  "explication": "Depuis 2014, un fonds paritaire finance le dialogue social, pour les syndicats de salariés comme pour le patronat, à partir d'une petite contribution des entreprises et d'une subvention publique. Dans la fonction publique, les décharges syndicales représentent un autre coût.",
+  "faits": [
+    {
+      "fait": "Selon Journal du Net, en 2025, le fonds paritaire a versé un peu plus de 103 M€ aux syndicats de salariés et 53,6 M€ aux organisations patronales ; environ 122,5 M€ provenaient de la contribution des entreprises et 34,7 M€ de l'État.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La part de l'État est minoritaire, et le patronat est aussi financé.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "34,7 M€"
+    },
+    {
+      "fait": "Le fonds paritaire, créé par la loi du 5 mars 2014, disposait de 144 M€ en 2022, dont 32,6 M€ de subvention de l'État.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les montants sont stables et encadrés par la loi.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "144 M€"
+    },
+    {
+      "fait": "La CFDT déclare « 76 % de ressources internes contre 24 % de ressources externes ».",
+      "periode": "année non précisée",
+      "perimetre": "CFDT",
+      "explication": "Pour ce syndicat, les cotisations et ressources propres dominent.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "76 %"
+    },
+    {
+      "fait": "Le chiffre de « 4 % de cotisations » vient du rapport Perruchot, dont l'Assemblée a rejeté les conclusions en 2011.",
+      "periode": "2011",
+      "perimetre": "France",
+      "explication": "Le chiffre le plus cité n'a jamais été validé.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "4 %"
+    },
+    {
+      "fait": "Selon la Cour des comptes, le coût total du dialogue social dans les trois fonctions publiques dépasse 874 M€ en 2022.",
+      "periode": "2022",
+      "perimetre": "Fonction publique",
+      "explication": "Dans le public, les moyens syndicaux représentent un coût réel.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "874 M€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : en 2025, le fonds paritaire a versé environ 103 M€ aux syndicats et 54 M€ au patronat, dont seulement 34,7 M€ de l'État. La CFDT déclare 76 % de ressources propres. Le « 4 % de cotisations » vient d'un rapport rejeté en 2011.",
+    "moyen": "Il existe bien un financement public du dialogue social : un fonds créé en 2014, alimenté surtout par une petite contribution des entreprises et, pour environ un cinquième, par l'État. En 2025, il a versé environ 103 M€ aux syndicats de salariés, et aussi 54 M€ aux organisations patronales comme le Medef.\n\nLes syndicats vivent d'abord des cotisations de leurs adhérents : la CFDT déclare 76 % de ressources propres. Le chiffre de 4 % de cotisations, souvent cité, vient d'un rapport rejeté par l'Assemblée en 2011.",
+    "detaille": "Depuis la loi du 5 mars 2014, un fonds paritaire (AGFPN) finance les organisations syndicales et patronales pour leur rôle dans le dialogue social. Il est alimenté par une contribution des employeurs de 0,016 % des salaires et par une subvention de l'État. En 2025, il a versé un peu plus de 103 M€ aux syndicats de salariés et 53,6 M€ au patronat ; environ 34,7 M€ venaient de l'État.\n\nLa CFDT, qui publie des comptes certifiés, déclare 76 % de ressources internes. Le chiffre de « 4 % de cotisations », très repris, vient du rapport Perruchot de 2011, dont l'Assemblée a rejeté les conclusions et qui n'a jamais été publié officiellement.\n\nIl est vrai qu'une partie des moyens syndicaux est publique : crédit d'impôt sur les cotisations, et, dans la fonction publique, un coût du dialogue social estimé par la Cour des comptes à plus de 874 M€ en 2022 (décharges, mises à disposition). Avec 8,1 % de syndiqués dans le privé en 2019, les cotisations reposent sur une base étroite.",
+    "empathie": "C'est une bonne question de savoir qui paie les syndicats. La réponse : surtout leurs adhérents, avec un financement public encadré, qui profite aussi au Medef."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le rapport Perruchot a prouvé le contraire.",
+      "reponse": "Ses conclusions ont été rejetées par la commission d'enquête elle-même en 2011, et le rapport n'a jamais été publié officiellement."
+    },
+    {
+      "objection": "Les syndicats sont payés pour faire grève.",
+      "reponse": "Les grévistes perdent leur salaire ; le fonds paritaire finance le dialogue social, y compris côté patronal."
+    }
+  ],
+  "questions": [
+    "Savais-tu que le Medef reçoit aussi de l'argent du même fonds paritaire ?",
+    "D'où vient, selon toi, le chiffre de 4 % de cotisations ?"
+  ],
+  "limites": [
+    "Les données de la Dares sur la syndicalisation n'ont pas pu être lues ; le taux de 2019 vient de la Cour des comptes.",
+    "Il n'existe pas de chiffre consolidé de la part des cotisations pour toutes les confédérations ; la CFDT est documentée par elle-même."
+  ],
+  "sources": [
+    {
+      "titre": "Une réforme inaboutie du dialogue social dans la fonction publique (rapport public thématique)",
+      "organisme": "Cour des comptes (hébergé par Vie publique)",
+      "date_publication": "octobre 2024",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/295923.pdf",
+      "passage": "Le fonds paritaire institué par la loi du 5 mars 2014 est alimenté par une contribution des employeurs de 0,016 % des rémunérations (environ 100 M€) et par une subvention de l'État de 32,6 M€ ; ses ressources atteignent 144 M€ en 2022. Le taux de syndicalisation est de 18,7 % chez les agents publics et de 8,1 % dans le privé (2019). Le coût total du dialogue social dans les trois fonctions publiques est estimé à plus de 874 M€ en 2022.",
+      "pertinence": "Rapport de la juridiction financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Dialogue social : patronat et syndicats ont touché près de 157 millions d'euros en 2025",
+      "organisme": "Journal du Net (Adrien Bar Hiyé)",
+      "date_publication": "29 octobre 2026",
+      "url": "https://www.journaldunet.com/business/1557335-le-patronat-et-les-syndicats-ont-touche-pres-de-157-millions-d-euros-en-2025/",
+      "passage": "En 2025, le fonds paritaire (AGFPN) a versé un peu plus de 103 M€ aux syndicats de salariés et 53,6 M€ aux organisations patronales ; environ 122,5 M€ proviennent de la contribution de 0,016 % versée par les entreprises et 34,7 M€ de subventions de l'État. CFDT 23,7 M€, CGT 22 M€, FO 18,4 M€ ; Medef 15,7 M€.",
+      "pertinence": "Média économique.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Quels moyens financiers pour une organisation syndicale ?",
+      "organisme": "CFDT",
+      "date_publication": "non daté",
+      "url": "https://www.cfdt.fr/portail/nous-connaitre/nos-comptes/quels-moyens-financiers-pour-les-organisations-syndicales-/quels-moyens-financiers-pour-une-organisation-syndicale-rec_67020",
+      "passage": "La CFDT déclare « 76 % de ressources internes contre 24 % de ressources externes » ; la cotisation représente « au minimum 0,75% » de la rémunération nette et ouvre droit à « un crédit d'impôts de 66% » ; les comptes sont « certifiés sans réserve par les commissaires aux comptes ».",
+      "pertinence": "Déclaration d'une organisation partie prenante (année non précisée).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 125621 (Christian Vanneste) sur le rapport Perruchot",
+      "organisme": "Assemblée nationale",
+      "date_publication": "27 décembre 2011",
+      "url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE125621.pdf",
+      "passage": "La question cite le rapport Perruchot, non publié après le rejet de ses conclusions par la commission d'enquête : selon ce rapport, les cotisations ne représenteraient que 4 % des budgets syndicaux et la collectivité verserait environ 4 milliards d'euros par an pour l'activité syndicale. La question a été retirée en juin 2012 sans réponse.",
+      "pertinence": "Document parlementaire rapportant les affirmations d'un député.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Rapport annuel du fonds paritaire.",
+  "objections_legitimes": [
+    "Une partie des ressources syndicales est publique ou parapublique (subvention, crédit d'impôt, décharges dans la fonction publique).",
+    "Le taux de syndicalisation est faible dans le privé (8,1 % en 2019)."
+  ],
+  "publics": {
+    "convaincus": "Le financement public existe, mais il est limité : environ 35 M€ de l'État en 2025, et le même fonds finance aussi le Medef. Le chiffre de 4 % de cotisations vient d'un rapport rejeté en 2011. Si les syndicats étaient de simples relais de l'État, ils ne s'opposeraient pas aussi souvent aux gouvernements.",
+    "indecis": "Les syndicats reçoivent bien de l'argent public pour le dialogue social, de façon encadrée et publique, comme les organisations patronales. Mais l'essentiel de leurs ressources vient de leurs adhérents. Si tu veux des syndicats plus indépendants, la meilleure garantie, c'est qu'ils aient plus d'adhérents."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "democratie"
+    ],
+    "mecanismes": "Présenter les syndicats comme financés par l’État permet de délégitimer leur action, surtout pendant les mobilisations.",
+    "consequences": "Des syndicats affaiblis protègent moins bien les salariés face aux employeurs.",
+    "democratie": "Le dialogue social suppose des organisations de salariés indépendantes et capables d’agir.",
+    "propositions": [
+      "Encourager l’adhésion syndicale, première garantie d’indépendance.",
+      "Publier de façon transparente les financements de toutes les organisations, salariales et patronales."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une partie des ressources syndicales est publique, et la syndicalisation est faible dans le privé.",
+        "integration": "Le reconnaître, et rappeler que le patronat est financé par le même fonds."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "syndicats_subventions",
+      "label": "Financement des syndicats"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "syndicats",
+    "subventions"
+  ]
+}

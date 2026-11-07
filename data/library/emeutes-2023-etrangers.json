@@ -157,10 +157,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "delinquance"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -176,5 +172,10 @@
     "peur de sortir",
     "pas en securite",
     "criminalite"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "banlieues"
   ]
 }

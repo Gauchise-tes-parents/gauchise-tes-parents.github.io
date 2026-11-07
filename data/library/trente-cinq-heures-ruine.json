@@ -1,0 +1,198 @@
+{
+  "id": "trente-cinq-heures-ruine",
+  "type": "idee_recue",
+  "affirmation": "Les 35 heures ont ruiné la France.",
+  "volet": "social",
+  "sous_theme": "Emploi et salaires",
+  "rubriques": [],
+  "mots_cles": [
+    "35 heures",
+    "trente-cinq heures",
+    "lois aubry",
+    "reduction du temps de travail",
+    "rtt",
+    "35h",
+    "temps de travail",
+    "aubry 35 heures"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Les évaluations retiennent environ 350 000 emplois créés par les lois Aubry, pour un coût net pour les finances publiques d'environ 2,5 milliards d'euros par an selon le rapport parlementaire de 2014. Le bilan reste débattu : les allègements de cotisations coûtent environ 12 milliards par an en brut selon le Conseil d'analyse économique, et le passage aux 35 heures a été difficile à l'hôpital. Mais parler de ruine n'est pas fondé.",
+  "contexte": "Les 35 heures sont souvent présentées comme la cause du déclin économique français et un symbole de la « paresse » de la gauche.",
+  "explication": "Les lois Aubry (1998-2000) ont réduit la durée légale du travail de 39 à 35 heures, en échange d'allègements de cotisations et d'une plus grande flexibilité. La durée légale est le seuil de déclenchement des heures supplémentaires, pas un plafond.",
+  "faits": [
+    {
+      "fait": "Selon le rapport parlementaire de 2014, « le chiffre de 350 000 est le plus communément admis » pour les emplois créés par les 35 heures.",
+      "periode": "1998-2002",
+      "perimetre": "France",
+      "explication": "Les 35 heures ont créé des emplois.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "350 000"
+    },
+    {
+      "fait": "Le coût net ex post pour les finances publiques est estimé à environ 2,5 milliards d'euros par an.",
+      "periode": "ex post",
+      "perimetre": "France",
+      "explication": "Le coût net est limité.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "2,5 Md€"
+    },
+    {
+      "fait": "Selon le Conseil d'analyse économique, cité par l'Institut Montaigne, le coût brut des 35 heures dans le privé est estimé à 12 milliards d'euros par an, surtout en allègements de cotisations.",
+      "periode": "par an",
+      "perimetre": "Secteur privé",
+      "explication": "Le coût brut est élevé.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "12 Md€"
+    },
+    {
+      "fait": "Pour les entreprises, le coût est jugé « à peu près neutre », grâce à la modération salariale et aux gains de productivité.",
+      "periode": "1996-2002",
+      "perimetre": "France",
+      "explication": "Les salariés ont payé une partie de la réforme par des salaires plus modérés.",
+      "source": 1,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "En 2025, la durée habituelle hebdomadaire des salariés à temps complet est de 38,9 heures.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les salariés à temps plein travaillent bien plus que 35 heures.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "38,9 h"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : les évaluations retiennent environ 350 000 emplois créés, pour un coût net de 2,5 milliards par an. Le coût brut des allègements (12 milliards) et les difficultés à l'hôpital sont de vrais débats, mais pas une ruine. Et les salariés à temps plein travaillent 38,9 heures en moyenne.",
+    "moyen": "Les 35 heures ont créé environ 350 000 emplois selon le chiffre le plus admis, retenu par le rapport parlementaire de 2014. Leur coût net pour les finances publiques est estimé à 2,5 milliards par an, car les emplois créés rapportent des cotisations.\n\nLe bilan est discuté : le coût brut des allègements est élevé, et l'hôpital a mal vécu la réforme. Mais aujourd'hui, un salarié à temps plein travaille en moyenne 38,9 heures par semaine : les 35 heures sont un seuil pour les heures supplémentaires, pas un plafond.",
+    "detaille": "Les lois Aubry ont abaissé la durée légale du travail à 35 heures entre 1998 et 2002. Les évaluations, reprises par la commission d'enquête de l'Assemblée en 2014, retiennent environ 350 000 emplois créés à court terme. Le coût net pour les finances publiques est estimé à environ 2,5 milliards d'euros par an, et le coût pour les entreprises jugé à peu près neutre, grâce à la modération salariale et aux gains de productivité.\n\nLe débat est réel. Le Conseil d'analyse économique estime le coût brut des allègements de cotisations à 12 milliards par an, et juge l'effet de la seule baisse de la durée légale « au mieux très marginal ». Dans la fonction publique hospitalière, le passage aux 35 heures a été un « facteur de crispation », avec des jours accumulés sur les comptes épargne-temps. Le président de la commission de 2014 ne partageait pas les conclusions du rapport.\n\nMais aucune de ces évaluations ne parle de ruine. En 2025, les salariés à temps complet travaillent en moyenne 38,9 heures par semaine, car les heures supplémentaires sont possibles au-delà de 35 heures.",
+    "empathie": "Je comprends que les 35 heures soient devenues un symbole, en bien ou en mal. Les évaluations sérieuses donnent un bilan contrasté, mais aucune ne parle de ruine."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les Français ne travaillent plus assez à cause des 35 heures.",
+      "reponse": "Les salariés à temps plein travaillent en moyenne 38,9 heures par semaine en 2025 selon l'Insee."
+    },
+    {
+      "objection": "Les entreprises ont payé la facture.",
+      "reponse": "Selon les évaluations, le coût pour elles a été à peu près neutre, grâce aux allègements, à la flexibilité et à la modération des salaires."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'heures travaille en moyenne un salarié à temps plein aujourd'hui ?",
+    "Combien d'emplois les 35 heures ont-elles créé selon le rapport de 2014 ?"
+  ],
+  "limites": [
+    "Les évaluations datent de 2004 à 2014 ; aucune publication de la Dares n'a été lue directement.",
+    "Le chiffre de 12 Md€ du CAE est cité de seconde main par l'Institut Montaigne."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport de la commission d'enquête sur l'impact de la réduction progressive du temps de travail (n° 2436)",
+      "organisme": "Assemblée nationale (Thierry Benoit, président ; Barbara Romagnan, rapporteure)",
+      "date_publication": "9 décembre 2014",
+      "url": "https://www.assemblee-nationale.fr/14/pdf/rap-enq/r2436.pdf",
+      "passage": "Sur les emplois créés : « Le chiffre de 350 000 est le plus communément admis. » Le coût net ex post pour les finances publiques est d'environ 2,5 Md€ par an ; « Les 35 heures ont amélioré la productivité horaire industrielle ». Le rapport relève « les fortes tensions dans la fonction publique hospitalière ». Le président de la commission indique : « je ne partage pas les conclusions de son rapport ».",
+      "pertinence": "Rapport parlementaire (2014).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Effets des 35 heures sur l'emploi — retour sur les évaluations",
+      "organisme": "Frédéric Lerais (Ires), audition à l'Assemblée nationale",
+      "date_publication": "2 octobre 2014",
+      "url": "https://ires.fr/wp-content/uploads/2023/02/Effets_des_35_heures_octobre_2014_final.pdf",
+      "passage": "Effet estimé à « 350 000 emplois à court terme » sur 1996-2002, « très inférieur aux estimations ex-ante » ; pour les entreprises, le coût est jugé « à peu près neutre » grâce à la modération salariale et aux gains de productivité.",
+      "pertinence": "Institut de recherche lié aux syndicats.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Les 35 heures : efficaces et peu coûteuses ? Notre réaction en quatre points",
+      "organisme": "Institut Montaigne",
+      "date_publication": "17 décembre 2014",
+      "url": "https://institutmontaigne.org/expressions/les-35-heures-efficaces-et-peu-couteuses-notre-reaction-en-quatre-points",
+      "passage": "Selon le Conseil d'analyse économique, « le coût total de l'application des 35 heures dans le secteur privé est estimé à 12 Mds€ par an », surtout en allègements de cotisations ; le CAE (2007) juge l'effet de la baisse de la durée légale « au mieux très marginal ».",
+      "pertinence": "Réaction d'un think tank libéral.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Durée du travail (Emploi, chômage, revenus du travail, édition 2026)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "2 juillet 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8733071",
+      "passage": "En 2025, « la durée habituelle hebdomadaire du travail des salariés à temps complet est de 38,9 heures » ; la durée annuelle effective de travail des salariés à temps complet est de 1 656 heures en moyenne.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Nouvelles données de l'Insee sur la durée du travail.",
+  "objections_legitimes": [
+    "Le coût brut des allègements de cotisations est élevé (12 Md€ par an selon le CAE).",
+    "Le passage aux 35 heures a été difficile à l'hôpital.",
+    "Les évaluations sont discutées, y compris au sein de la commission d'enquête de 2014."
+  ],
+  "publics": {
+    "convaincus": "Les 35 heures ont créé environ 350 000 emplois selon les évaluations retenues par l'Assemblée, pour un coût net de 2,5 milliards par an. Et un salarié à temps plein travaille en moyenne 38,9 heures aujourd'hui. On peut critiquer leur coût ou leur effet à l'hôpital, mais la France n'a pas été ruinée.",
+    "indecis": "Le bilan des 35 heures est discuté : des emplois créés, un coût réel pour les finances publiques, des difficultés à l'hôpital. Mais aucune évaluation sérieuse ne parle de ruine. Les 35 heures sont un seuil pour les heures supplémentaires, pas un plafond."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "emancipation"
+    ],
+    "mecanismes": "Les 35 heures sont devenues un bouc émissaire du déclin économique.",
+    "consequences": "Le débat sur le temps de travail oublie la santé et la vie personnelle des salariés.",
+    "democratie": "Le partage du temps de travail est un choix de société à débattre démocratiquement.",
+    "propositions": [
+      "Partager le temps de travail en garantissant les salaires et les embauches.",
+      "Accompagner toute réduction du temps de travail de moyens dans les services publics, à commencer par l’hôpital."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le coût brut des allègements est élevé et l’hôpital a mal vécu la réforme.",
+        "integration": "Le reconnaître, et en tirer les leçons pour toute réduction future."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "trente_cinq",
+      "label": "Bilan des 35 heures"
+    },
+    {
+      "id": "trente_cinq_seul",
+      "label": "Bilan des 35 heures"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ],
+  "concepts": [
+    "emploi",
+    "salaires",
+    "temps_travail",
+    "trente_cinq"
+  ]
+}

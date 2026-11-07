@@ -147,10 +147,6 @@
       }
     ]
   },
-  "concepts": [
-    "gauche",
-    "fn_parti"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -166,5 +162,10 @@
     "fn",
     "rn",
     "rassemblement national"
+  ],
+  "concepts": [
+    "gauche",
+    "fn_parti",
+    "premier_parti"
   ]
 }

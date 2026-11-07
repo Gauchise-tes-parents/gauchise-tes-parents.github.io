@@ -182,11 +182,6 @@
       }
     ]
   },
-  "concepts": [
-    "salaires",
-    "services_publics",
-    "fonctionnaires"
-  ],
   "repond_a": [
     {
       "id": "fonctionnaires_salaires",
@@ -207,5 +202,10 @@
     "urgences",
     "fonction publique",
     "agents publics"
+  ],
+  "concepts": [
+    "salaires",
+    "services_publics",
+    "fonctionnaires"
   ]
 }

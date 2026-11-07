@@ -1,0 +1,181 @@
+{
+  "id": "legitime-defense-domicile",
+  "type": "idee_recue",
+  "affirmation": "En France, on n'a plus le droit de se défendre chez soi, c'est la victime qui finit en prison.",
+  "volet": "securite",
+  "sous_theme": "Justice pénale",
+  "rubriques": [],
+  "mots_cles": [
+    "legitime defense",
+    "se defendre chez soi",
+    "droit de se defendre",
+    "cambrioleur",
+    "cambriolage",
+    "la victime en prison",
+    "defendre sa maison",
+    "presomption de legitime defense"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La légitime défense est inscrite dans le code pénal : celui qui se défend contre une atteinte injustifiée n'est pas responsable pénalement, sauf riposte disproportionnée. La loi présume même la légitime défense pour celui qui repousse de nuit une entrée par effraction dans un lieu habité. Cette présomption peut être renversée, et une enquête a souvent lieu, ce qui nourrit l'inquiétude.",
+  "contexte": "Des affaires médiatisées de commerçants ou de particuliers poursuivis après avoir blessé un cambrioleur alimentent ce sentiment.",
+  "explication": "Quand quelqu'un est blessé ou tué, une enquête est ouverte pour vérifier les faits ; ce n'est pas une condamnation. Le juge vérifie que la défense était nécessaire, immédiate et proportionnée.",
+  "faits": [
+    {
+      "fait": "Selon l'article 122-5 du code pénal, n'est pas pénalement responsable la personne qui se défend contre une atteinte injustifiée, « sauf s'il y a disproportion entre les moyens de défense employés et la gravité de l'atteinte ».",
+      "periode": "droit en vigueur",
+      "perimetre": "France",
+      "explication": "Le droit de se défendre existe bien.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'article 122-6 présume la légitime défense de celui qui agit « pour repousser, de nuit, l'entrée par effraction, violence ou ruse dans un lieu habité ».",
+      "periode": "droit en vigueur",
+      "perimetre": "France",
+      "explication": "Chez soi, la nuit, la loi est du côté de celui qui se défend.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Pour défendre un bien, l'acte doit être « strictement nécessaire » et ne peut pas être un homicide volontaire.",
+      "periode": "droit en vigueur",
+      "perimetre": "France",
+      "explication": "On ne peut pas tuer pour protéger un objet.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La présomption est « simple » : elle cède devant la preuve contraire, et la Cour de cassation a refusé la légitime défense pour une riposte non proportionnée (2012).",
+      "periode": "1995-2026",
+      "perimetre": "France",
+      "explication": "Le juge contrôle la proportionnalité au cas par cas.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En dehors de cette présomption, il revient en principe à la personne poursuivie de démontrer qu'elle était en légitime défense.",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "C'est ce qui explique le sentiment d'injustice dans certaines affaires.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le code pénal protège celui qui se défend, sauf riposte disproportionnée, et présume même la légitime défense face à une effraction de nuit dans un logement. Une enquête n'est pas une condamnation ; ce qui est sanctionné, c'est la riposte disproportionnée.",
+    "moyen": "La légitime défense existe bien : l'article 122-5 du code pénal protège celui qui se défend contre une agression, sauf si sa riposte est disproportionnée. Chez soi, la nuit, face à une effraction, la loi présume même qu'on était en légitime défense.\n\nQuand quelqu'un est blessé ou tué, une enquête est ouverte pour vérifier les faits : c'est normal, et ce n'est pas une condamnation. Le juge sanctionne seulement les ripostes disproportionnées, par exemple tirer sur quelqu'un qui s'enfuit.",
+    "detaille": "Le code pénal pose le principe : n'est pas pénalement responsable la personne qui, face à une atteinte injustifiée envers elle-même ou autrui, accomplit dans le même temps un acte nécessaire à sa défense, sauf disproportion. Pour défendre un bien, l'acte doit être strictement nécessaire et ne peut pas être un homicide volontaire.\n\nL'article 122-6 va plus loin : il présume en légitime défense celui qui repousse, de nuit, une entrée par effraction, violence ou ruse dans un lieu habité. Cette présomption est « simple » : la preuve contraire reste possible, et la Cour de cassation a déjà refusé la légitime défense pour une riposte non proportionnée.\n\nLe sentiment d'injustice vient de là : quand il y a un blessé ou un mort, une enquête est ouverte, parfois une garde à vue ou une mise en examen. Aucune statistique nationale sur ces affaires n'a été trouvée. Les débats législatifs récents portent sur la présomption de légitime défense pour les forces de l'ordre, pas pour les particuliers.",
+    "empathie": "L'idée d'être attaqué chez soi fait peur, et c'est normal de vouloir protéger sa famille. La bonne nouvelle, c'est que la loi te protège dans ce cas, surtout la nuit chez toi."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Untel a été condamné pour avoir tiré sur un cambrioleur.",
+      "reponse": "Dans ces affaires, le juge examine la proportionnalité : tirer sur quelqu'un qui fuit n'est plus se défendre."
+    },
+    {
+      "objection": "Il faut une présomption totale de légitime défense.",
+      "reponse": "Une présomption irréfragable permettrait de tuer sans contrôle ; le juge doit pouvoir vérifier les faits."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la loi présume la légitime défense pour une effraction de nuit chez soi ?",
+    "Qu'est-ce qui distingue, pour toi, se défendre et se venger ?"
+  ],
+  "limites": [
+    "Aucune statistique nationale sur les poursuites ou condamnations pour légitime défense n'a été trouvée.",
+    "Les articles du code pénal ont été lus dans des documents parlementaires qui les reproduisent, pas sur Légifrance ; la réponse ministérielle date de 2016."
+  ],
+  "sources": [
+    {
+      "titre": "Proposition de loi n° 557 visant à instituer une présomption de légitime défense pour les membres des forces de l'ordre (exposé des motifs)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "29 novembre 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0557_proposition-loi.pdf",
+      "passage": "L'exposé des motifs recopie l'article 122-5 du code pénal : « N'est pas pénalement responsable la personne qui, devant une atteinte injustifiée envers elle-même ou autrui, accomplit, dans le même temps, un acte commandé par la nécessité de la légitime défense […] sauf s'il y a disproportion entre les moyens de défense employés et la gravité de l'atteinte. » Pour défendre un bien, l'acte doit être « autre qu'un homicide volontaire » et « strictement nécessaire ». L'article 122-6 présume la légitime défense « pour repousser, de nuit, l'entrée par effraction, violence ou ruse dans un lieu habité ».",
+      "pertinence": "Texte parlementaire reproduisant le code pénal.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 74957 « légitime défense » (Hervé Féron) et réponse du ministère de la Justice",
+      "organisme": "Assemblée nationale",
+      "date_publication": "5 avril 2016",
+      "url": "https://questions.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE74957.pdf",
+      "passage": "« La légitime défense est une cause d'irresponsabilité pénale. » En principe, il incombe à la personne poursuivie de démontrer qu'elle a agi en état de légitime défense ; l'article 122-6 crée une présomption « ne cédant que face à la preuve contraire ».",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel (2016).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Document d'étape sur la proposition de loi n° 691 (présomption de légitime défense des forces de l'ordre)",
+      "organisme": "Assemblée nationale (Ian Boucard, rapporteur)",
+      "date_publication": "14 janvier 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/dyn/contenu/visualisation/1099899/file/EAT%20-%20PPL%20n%C2%B0%20691%20pr%C3%A9somption%20l%C3%A9gitime%20d%C3%A9fense.pdf",
+      "passage": "Le document recopie l'article 122-6 et rappelle que la présomption est « simple » ; il cite une jurisprudence où elle a été écartée (Cass. crim., 11 mai 1995) et un refus de la légitime défense pour riposte non proportionnée (Cass. crim., 26 juin 2012). Il ne recense pas de statistique nationale sur ces affaires.",
+      "pertinence": "Document parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Présomption de légitime défense des forces de l'ordre : l'Assemblée nationale adopte le texte",
+      "organisme": "Le Club des juristes",
+      "date_publication": "8 juillet 2026",
+      "url": "https://www.leclubdesjuristes.com/?p=16847",
+      "passage": "Le texte, adopté le 7 juillet 2026, « doit maintenant être examiné par le Sénat » ; une pétition contre lui a recueilli plus de 370 000 signatures. Le ministre de l'Intérieur affirme qu'il « ne crée aucune irresponsabilité pénale ».",
+      "pertinence": "Revue juridique.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suite de la proposition de loi sur la présomption de légitime défense.",
+  "objections_legitimes": [
+    "Une personne qui se défend peut être placée en garde à vue ou mise en examen pendant l'enquête.",
+    "Hors présomption, c'est en principe à elle de prouver la légitime défense."
+  ],
+  "publics": {
+    "convaincus": "La loi te protège : chez toi, la nuit, face à une effraction, tu es présumé en légitime défense. Ce que le juge sanctionne, c'est la riposte disproportionnée, comme tirer dans le dos de quelqu'un qui s'enfuit. Une enquête après un drame n'est pas une condamnation, c'est ce qui permet aussi de prouver qu'on était dans son droit.",
+    "indecis": "Ta peur est compréhensible, et certaines affaires médiatisées choquent. Mais le code pénal protège celui qui se défend, et présume même la légitime défense face à une effraction de nuit. Le juge vérifie seulement que la riposte était proportionnée."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "dignite"
+    ],
+    "mecanismes": "La peur du cambriolage est utilisée pour réclamer un droit de riposte sans contrôle.",
+    "consequences": "Une légitime défense sans limite pourrait coûter des vies pour défendre des biens.",
+    "democratie": "Dans un État de droit, le juge vérifie toujours la nécessité et la proportion de la violence.",
+    "propositions": [
+      "Renforcer la prévention des cambriolages et la présence de services publics de proximité.",
+      "Mieux informer sur le droit existant de la légitime défense."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une personne qui se défend peut être poursuivie pendant l’enquête.",
+        "integration": "Le reconnaître, et expliquer pourquoi le contrôle du juge protège aussi les victimes."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "legitime_defense",
+      "label": "Légitime défense chez soi"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taule",
+    "zonzon",
+    "barreaux",
+    "justice",
+    "legitime defense"
+  ],
+  "concepts": [
+    "prison",
+    "justice",
+    "legitime_defense"
+  ]
+}

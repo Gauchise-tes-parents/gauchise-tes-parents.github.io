@@ -1,0 +1,209 @@
+{
+  "id": "migrants-hotel-sdf",
+  "type": "idee_recue",
+  "affirmation": "On loge les migrants à l'hôtel pendant que les SDF français dorment dehors.",
+  "volet": "immigration",
+  "sous_theme": "Logement",
+  "rubriques": [],
+  "mots_cles": [
+    "sdf francais",
+    "sans abri francais",
+    "migrants a l hotel",
+    "migrants loges",
+    "sdf dehors",
+    "hebergement d urgence",
+    "115",
+    "sans domicile"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'hébergement d'urgence est ouvert à toute personne sans abri en détresse, sans condition de nationalité ; il n'existe pas de priorité pour les migrants. Le système est saturé pour tout le monde : selon la Fondation pour le logement des défavorisés, environ 350 000 personnes sont sans domicile, dont 40 000 à la rue, et au moins 2 159 enfants sont restés sans solution après un appel au 115 une nuit d'août 2025. Les étrangers sont majoritaires parmi les sans-domicile (53 % en 2012).",
+  "contexte": "L'argument oppose les sans-abri français aux exilés, notamment lors de l'ouverture de centres d'accueil ou après des drames de la rue.",
+  "explication": "L'hébergement d'urgence (le 115) relève de l'article L. 345-2-2 du code de l'action sociale et des familles, qui vise « toute personne sans abri ».",
+  "faits": [
+    {
+      "fait": "Selon le code de l'action sociale, « toute personne sans abri en situation de détresse médicale, psychique et sociale a accès, à tout moment, à un dispositif d'hébergement d'urgence ».",
+      "periode": "droit en vigueur",
+      "perimetre": "France",
+      "explication": "Le droit à l'hébergement ne dépend pas de la nationalité.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2012, 53 % des sans-domicile étaient étrangers, contre 38 % en 2001 ; 12 % des sans-domicile étaient hébergés à l'hôtel.",
+      "periode": "2012",
+      "perimetre": "France métropolitaine",
+      "explication": "Les étrangers sont eux-mêmes majoritaires parmi les sans-domicile.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "53 %"
+    },
+    {
+      "fait": "La Fondation pour le logement des défavorisés estime à environ 350 000 les personnes sans domicile, dont 40 000 à la rue, et signale plus de 900 décès de personnes sans abri en 2025.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "La pénurie touche tout le monde.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "350 000"
+    },
+    {
+      "fait": "La nuit du 18 août 2025, au moins 2 159 enfants sont restés sans solution après un appel au 115.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le manque de places est massif, y compris pour les enfants.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "2 159 enfants"
+    },
+    {
+      "fait": "En 2025, le Parlement comptait 203 000 places d'hébergement généraliste, mais les crédits de l'hébergement d'urgence baissaient de 25 %.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La pénurie est aussi un choix budgétaire.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "203 000 places"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : l'hébergement d'urgence est ouvert à toute personne sans abri, sans condition de nationalité, et il manque de places pour tous : 2 159 enfants sans solution une nuit d'août 2025. Les étrangers sont d'ailleurs majoritaires parmi les sans-domicile (53 % en 2012).",
+    "moyen": "Il n'y a pas de priorité pour les migrants : la loi garantit l'hébergement d'urgence à « toute personne sans abri » en détresse, français ou étranger. Le problème, c'est qu'il manque de places pour tout le monde.\n\nUne nuit d'août 2025, au moins 2 159 enfants n'ont pas trouvé de place après un appel au 115. Et parmi les sans-domicile, les étrangers sont majoritaires : 53 % en 2012. Opposer les uns aux autres cache le vrai sujet : le manque de moyens.",
+    "detaille": "Le droit français ne fait pas de tri : selon l'article L. 345-2-2 du code de l'action sociale et des familles, toute personne sans abri en situation de détresse a accès à tout moment à un hébergement d'urgence. Le Conseil d'État en a fait une liberté fondamentale, dans une affaire concernant un ressortissant étranger.\n\nLa réalité, c'est la saturation. La Fondation pour le logement des défavorisés estime à environ 350 000 les personnes sans domicile ou en hébergement d'urgence, dont 40 000 à la rue, et signale plus de 900 décès de personnes sans abri en 2025. Une nuit d'août 2025, au moins 2 159 enfants sont restés sans solution après un appel au 115. Pendant ce temps, les crédits de l'hébergement d'urgence baissaient de 25 % en 2025.\n\nSelon la dernière grande enquête de l'Insee (2012), 53 % des sans-domicile étaient étrangers, et 12 % étaient hébergés à l'hôtel. Les sans-abri français et étrangers sont victimes de la même pénurie : c'est elle qu'il faut combattre.",
+    "empathie": "Voir des gens dormir dehors dans le froid est insupportable, et c'est normal de se demander pourquoi on ne les aide pas. Mais les étrangers sont eux-mêmes nombreux à dormir dehors : la vraie cause, c'est le manque de places."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les migrants passent avant les Français au 115.",
+      "reponse": "La loi ne prévoit aucune priorité selon la nationalité, et des milliers d'enfants, de toutes origines, restent sans solution."
+    },
+    {
+      "objection": "Si on arrêtait l'immigration, il y aurait de la place.",
+      "reponse": "Les crédits de l'hébergement d'urgence baissent de 25 % en 2025 : la pénurie est aussi un choix budgétaire."
+    }
+  ],
+  "questions": [
+    "Savais-tu que l'hébergement d'urgence est ouvert à toute personne sans abri, sans condition de nationalité ?",
+    "Combien d'enfants dorment dehors faute de place, selon toi ?"
+  ],
+  "limites": [
+    "La dernière enquête nationale de l'Insee sur les sans-domicile date de 2012.",
+    "Le dispositif propre aux demandeurs d'asile n'a pas pu être documenté (pages de la Cour des comptes et de la DREES inaccessibles) ; le rapport de la Fondation a été lu via Public Sénat."
+  ],
+  "sources": [
+    {
+      "titre": "Hébergement d'urgence des personnes sans-abri (ordonnance n° 356456)",
+      "organisme": "Conseil d'État",
+      "date_publication": "10 février 2012",
+      "url": "https://www.conseil-etat.fr/site/actualites/hebergement-d-urgence-des-personnes-sans-abri",
+      "passage": "L'article L. 345-2-2 du code de l'action sociale et des familles dispose : « Toute personne sans abri en situation de détresse médicale, psychique et sociale a accès, à tout moment, à un dispositif d'hébergement d'urgence » ; le droit à l'hébergement d'urgence est une liberté fondamentale. Le requérant était un ressortissant ivoirien, et la décision ne pose aucune condition de nationalité.",
+      "pertinence": "Communiqué de la plus haute juridiction administrative (2012).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'hébergement des sans-domicile en 2012 (Insee Première n° 1455)",
+      "organisme": "Insee-Ined",
+      "date_publication": "juillet 2013",
+      "url": "https://insee.fr/fr/statistiques/fichier/version-html/1281324/ip1455.pdf",
+      "passage": "« 141 500 personnes étaient sans domicile en France métropolitaine début 2012 », « soit une progression de près de 50 % depuis 2001 ». « La part des étrangers parmi les sans-domicile est ainsi passée de 38 % en 2001 à 53 % en 2012. » « 12 % des sans-domicile sont hébergés en hôtel. »",
+      "pertinence": "Statistique publique (enquête de 2012).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le mal-logement : l'alerte des associations",
+      "organisme": "Public Sénat (Emma Bador-Fritche)",
+      "date_publication": "3 février 2026",
+      "url": "https://www.publicsenat.fr/actualites/societe/le-mal-logement-lalerte-relancee-a-la-veille-des-elections-municipales",
+      "passage": "Le 31e rapport annuel de la Fondation pour le logement des défavorisés compte « environ 350 000 » personnes sans domicile ou hébergées en structures d'urgence, dont « 40 000 » à la rue, et « 4,2 millions de personnes » sans logement ou mal logées ; il signale « plus de 900 » décès de personnes sans abri en 2025.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Baromètre « Enfants à la rue » 2025 (synthèse)",
+      "organisme": "Unicef France et Fédération des acteurs de la solidarité",
+      "date_publication": "août 2025",
+      "url": "https://www.federationsolidarite.org/wp-content/uploads/2025/08/Barometre-enfants-a-la-rue-2025-Synthese.pdf",
+      "passage": "La nuit du 18 août 2025, « au moins 2 159 enfants » sont restés sans solution après un appel au 115, dont 503 de moins de trois ans, soit « + 6 % par rapport à l'année dernière et + 30 % par rapport à 2022 ».",
+      "pertinence": "Enquête associative.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Avis sur le projet de loi de finances 2025, programme 177 « Hébergement, parcours vers le logement et insertion des personnes vulnérables »",
+      "organisme": "Sénat (Nadia Sollogoub, rapporteure)",
+      "date_publication": "4 décembre 2024",
+      "url": "https://conferenceconsensuslogement.senat.fr/rap/a24-147-2/a24-147-2-syn.pdf",
+      "passage": "« 203 000 places ouvertes » d'hébergement généraliste en moyenne annuelle et 2,93 Md€ de crédits ; les crédits de l'hébergement d'urgence baissent de 25 % ; l'avis relève une sous-budgétisation chronique d'environ 250 M€.",
+      "pertinence": "Avis budgétaire parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-02-28",
+  "raison_actualisation": "Rapport annuel sur le mal-logement.",
+  "objections_legitimes": [
+    "Les étrangers sont majoritaires parmi les sans-domicile, ce qui pèse sur un système saturé.",
+    "Les nuitées d'hôtel sont très utilisées, surtout dans les métropoles."
+  ],
+  "publics": {
+    "convaincus": "Personne ne passe devant au 115 selon sa nationalité : la loi vise toute personne sans abri. Une nuit d'août 2025, plus de 2 000 enfants n'ont pas eu de place, et les étrangers sont eux-mêmes majoritaires parmi les sans-domicile. Ce qui manque, ce sont des places, et leur budget a baissé de 25 % en 2025.",
+    "indecis": "La colère devant les sans-abri est juste. Mais il n'y a pas de priorité pour les migrants : l'hébergement d'urgence manque de places pour tout le monde, Français comme étrangers. La solution passe par plus de places et de logements, pas par une concurrence entre pauvres."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "universalite",
+      "vulnerables"
+    ],
+    "mecanismes": "Opposer sans-abri français et étrangers transforme une pénurie budgétaire en concurrence entre pauvres.",
+    "consequences": "Des familles et des enfants, quelle que soit leur nationalité, dorment dehors.",
+    "democratie": "Le droit à l’hébergement d’urgence est universel et inconditionnel.",
+    "propositions": [
+      "Créer des places d’hébergement et de logement social en nombre suffisant.",
+      "Mettre fin à la baisse des crédits de l’hébergement d’urgence."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les étrangers sont majoritaires parmi les sans-domicile.",
+        "integration": "Le dire, et rappeler qu’ils sont eux aussi victimes de la pénurie."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "sdf_migrants",
+      "label": "Sans-abri et migrants"
+    },
+    {
+      "id": "sdf_seul",
+      "label": "Sans-abri et migrants"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier"
+  ],
+  "concepts": [
+    "immigration",
+    "logement",
+    "expulsion",
+    "heberg_asile",
+    "sdf_migrants"
+  ]
+}

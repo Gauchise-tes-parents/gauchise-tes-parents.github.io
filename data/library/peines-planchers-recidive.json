@@ -1,0 +1,173 @@
+{
+  "id": "peines-planchers-recidive",
+  "type": "idee_recue",
+  "affirmation": "Les peines planchers font baisser la récidive.",
+  "volet": "securite",
+  "sous_theme": "Récidive",
+  "rubriques": [],
+  "mots_cles": [
+    "peines planchers",
+    "peine plancher",
+    "peines minimales",
+    "recidive",
+    "recidivistes",
+    "loi de 2007",
+    "peines automatiques",
+    "laxisme judiciaire"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'évaluation de référence (Institut des politiques publiques, 2024) ne trouve aucune baisse de la récidive à court terme. À moyen terme, elle trouve une baisse d'environ 10 %, limitée aux infractions visées par la loi, et un « faible effet dissuasif global ». En contrepartie, la loi de 2007 a fortement allongé les peines de prison, avec environ 4 000 détenus de plus.",
+  "contexte": "Le rétablissement des peines planchers, abrogées en 2014, revient dans des propositions de loi en 2025 et 2026.",
+  "explication": "Une peine plancher impose au juge une peine minimale pour certains récidivistes, sauf décision motivée. Elle mise sur la dissuasion et sur la mise à l'écart ; son coût principal est l'augmentation de la population carcérale.",
+  "faits": [
+    {
+      "fait": "Selon l'IPP, « à court terme, on n'observe pas de diminution de la récidive » après les peines planchers.",
+      "periode": "2007-2014",
+      "perimetre": "France",
+      "explication": "L'effet attendu n'apparaît pas immédiatement.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "À moyen terme, la probabilité de commettre une infraction du même régime baisse d'environ 10 %, sans effet sur les autres infractions ; les auteurs concluent à un « faible effet dissuasif global ».",
+      "periode": "2007-2014",
+      "perimetre": "France",
+      "explication": "L'effet est réel mais étroit.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "10 %"
+    },
+    {
+      "fait": "En 2010, les peines planchers ont été prononcées dans 38 % des cas éligibles, et la durée moyenne d'emprisonnement des récidivistes concernés est passée de 9 à 15,6 mois.",
+      "periode": "2004-2010",
+      "perimetre": "France",
+      "explication": "La loi a surtout allongé les peines.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "38 %"
+    },
+    {
+      "fait": "Le ministère estimait l'effet de la loi à environ 4 000 détenus de plus, pour un coût d'environ 146 M€ par an.",
+      "periode": "2007-2014",
+      "perimetre": "France",
+      "explication": "L'efficacité limitée a un coût élevé.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "4 000 détenus"
+    },
+    {
+      "fait": "En juin 2025, la commission des lois de l'Assemblée a adopté une proposition de loi rétablissant des peines planchers pour les crimes et délits contre les forces de l'ordre.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le débat est d'actualité.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : selon l'évaluation de référence (IPP, 2024), aucune baisse de la récidive à court terme, et environ −10 % à moyen terme pour les seules infractions visées. En échange, environ 4 000 détenus de plus et 146 M€ par an.",
+    "moyen": "Les peines planchers ont été appliquées de 2007 à 2014. Une étude de 2024 de l'Institut des politiques publiques montre qu'elles n'ont pas réduit la récidive à court terme ; à moyen terme, la récidive pour les mêmes infractions a baissé d'environ 10 %, sans effet sur les autres.\n\nEn revanche, elles ont fortement allongé les peines : environ 4 000 détenus de plus, dans des prisons déjà surpeuplées, pour un coût d'environ 146 M€ par an.",
+    "detaille": "La loi du 10 août 2007 imposait des peines minimales aux récidivistes, sauf décision motivée du juge. En 2010, elles ont été prononcées dans 38 % des cas éligibles, et la durée moyenne d'emprisonnement des récidivistes concernés est passée de 9 à 15,6 mois.\n\nL'évaluation la plus solide, publiée par l'IPP en 2024, compare des personnes jugées juste avant et juste après la loi. Elle ne trouve pas de baisse de la récidive à court terme. À moyen terme, la probabilité de récidiver pour une infraction du même régime baisse d'environ 10 %, sans effet sur les autres infractions : les auteurs parlent d'un « faible effet dissuasif global ».\n\nCet effet limité a un prix : environ 4 000 détenus de plus et 146 M€ par an selon le ministère. Le débat revient au Parlement en 2025-2026 : il gagne à partir de ce bilan nuancé, plutôt que d'une promesse d'efficacité.",
+    "empathie": "Je comprends l'envie que les récidivistes soient punis plus sévèrement, c'est un sentiment de justice légitime. Mais l'expérience de 2007-2014 montre que cela a surtout rempli les prisons, pour un effet faible sur la récidive."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Un délinquant en prison ne récidive pas.",
+      "reponse": "C'est l'effet de neutralisation, mais l'étude ne trouve pas de baisse à court terme, et la prison peut aussi favoriser la récidive à la sortie."
+    },
+    {
+      "objection": "Les juges sont trop laxistes, il faut les obliger.",
+      "reponse": "Même avec la loi, ils ont prononcé la peine minimale dans 38 % des cas éligibles, en motivant leurs décisions au cas par cas."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les peines planchers ont existé de 2007 à 2014 ?",
+    "Qu'est-ce qui réduit le plus la récidive selon toi : la durée de la peine ou ce qui se passe pendant et après ?"
+  ],
+  "limites": [
+    "Les données d'application s'arrêtent en 2010 ; l'abrogation de 2014 n'a pas été lue dans une source ouverte.",
+    "La suite donnée en séance à la proposition de loi de 2025 n'a pas été vérifiée."
+  ],
+  "sources": [
+    {
+      "titre": "Les peines planchers sont-elles un outil efficace pour éviter la récidive ? (note n° 105)",
+      "organisme": "Institut des politiques publiques (Aurélie Ouss, Arnaud Philippe)",
+      "date_publication": "mars 2024",
+      "url": "https://www.ipp.eu/wp-content/uploads/2024/03/Note_IPP_105_peines_planchers.pdf",
+      "passage": "« À court terme, on n'observe pas de diminution de la récidive. » À moyen terme, la probabilité de commettre une infraction relevant du même régime baisse d'environ 10 %, sans changement pour les autres infractions ; les auteurs concluent à un « faible effet dissuasif global ». Le ministère estimait l'effet de la loi à environ 4 000 détenus de plus, pour un coût d'environ 146 M€ par an.",
+      "pertinence": "Étude universitaire.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Peines planchers : application et impact de la loi du 10 août 2007 (Infostat Justice n° 118)",
+      "organisme": "Ministère de la Justice (F. Leturcq)",
+      "date_publication": "octobre 2012",
+      "url": "https://www.justice.gouv.fr/sites/default/files/migrations/portail/art_pix/stat_infostat_118_20121017.pdf",
+      "passage": "En 2010, 10 122 peines planchers ont été prononcées sur 26 335 condamnations éligibles, soit 38 %. Pour les délits commis par des majeurs récidivistes, la part des peines au moins égales au minimum passe de 8,4 % (2004-2006) à 40,7 % (2008-2010) ; la durée moyenne d'emprisonnement passe de 9 à 15,6 mois.",
+      "pertinence": "Statistique publique (données 2004-2010).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Compte rendu n° 80 de la commission des lois (proposition de loi n° 1410 sur les peines planchers)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "16 juin 2025",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/comptes-rendus/cion_lois/l17cion_lois2425080_compte-rendu.pdf",
+      "passage": "La commission adopte la proposition de loi instaurant des peines planchers pour les crimes et délits contre les forces de l'ordre et les pompiers ; la rapporteure cite l'étude de l'IPP (« les personnes plus sévèrement condamnées en application d'une peine plancher avaient moins récidivé »), d'autres députés le « faible effet dissuasif » relevé par la même étude.",
+      "pertinence": "Compte rendu parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suite des propositions de loi sur les peines planchers.",
+  "objections_legitimes": [
+    "L'étude IPP trouve une baisse d'environ 10 % de la récidive ciblée à moyen terme.",
+    "Le juge pouvait déroger à la peine plancher par une décision motivée."
+  ],
+  "publics": {
+    "convaincus": "On a déjà essayé : de 2007 à 2014. L'étude la plus sérieuse ne trouve aucune baisse de la récidive à court terme, et seulement environ 10 % de baisse à moyen terme pour les mêmes infractions. Pendant ce temps, 4 000 personnes de plus en prison : est-ce vraiment là qu'on veut mettre l'argent de la sécurité ?",
+    "indecis": "L'idée paraît logique, et l'expérience a eu un petit effet à moyen terme. Mais l'évaluation de 2024 montre un faible effet global, pour un coût élevé et des prisons plus pleines. La question est de savoir ce qui réduit vraiment la récidive : la durée de la peine, ou l'accompagnement à la sortie."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "dignite"
+    ],
+    "mecanismes": "Une mesure qui remplit les prisons est présentée comme la solution à la récidive.",
+    "consequences": "La surpopulation carcérale dégrade les conditions de détention et la préparation de la sortie.",
+    "democratie": "La justice doit pouvoir adapter la peine à chaque situation.",
+    "propositions": [
+      "Développer l’accompagnement à la sortie de prison et les alternatives efficaces.",
+      "Évaluer publiquement les politiques pénales avant de les généraliser."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’évaluation trouve une baisse de la récidive ciblée à moyen terme.",
+        "integration": "Le reconnaître, en le mettant en balance avec son coût humain et budgétaire."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "peines_planchers",
+      "label": "Peines planchers"
+    },
+    {
+      "id": "peines_planchers_seul",
+      "label": "Peines planchers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "justice"
+  ],
+  "concepts": [
+    "justice",
+    "peines_planchers"
+  ]
+}

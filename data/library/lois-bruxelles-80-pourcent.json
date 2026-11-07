@@ -135,10 +135,6 @@
       }
     ]
   },
-  "concepts": [
-    "europe",
-    "lois_bruxelles"
-  ],
   "repond_a": [
     {
       "id": "lois_bruxelles",
@@ -149,5 +145,9 @@
   "synonymes": [
     "bruxelles",
     "union europeenne"
+  ],
+  "concepts": [
+    "europe",
+    "lois_bruxelles"
   ]
 }

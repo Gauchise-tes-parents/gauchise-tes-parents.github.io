@@ -1,0 +1,158 @@
+{
+  "id": "creches-noel-mairies",
+  "type": "idee_recue",
+  "affirmation": "Les crèches de Noël sont interdites dans les mairies.",
+  "volet": "droits",
+  "sous_theme": "Laïcité",
+  "rubriques": [],
+  "mots_cles": [
+    "creche de noel",
+    "creches de noel",
+    "creche mairie",
+    "noel interdit",
+    "on interdit noel",
+    "creche laicite",
+    "tradition chretienne",
+    "santons"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Il n'existe pas d'interdiction générale. Depuis 2016, le Conseil d'État autorise une crèche installée par une collectivité si elle a un caractère culturel, artistique ou festif, sans prosélytisme. Dans le hall d'une mairie, la règle est plus stricte : il faut des circonstances particulières, comme un usage local. La crèche du département de Vendée a ainsi été validée, celle de la mairie de Melun refusée.",
+  "contexte": "Chaque mois de décembre, l'idée qu'« on interdit Noël » circule pour opposer la laïcité aux traditions chrétiennes.",
+  "explication": "L'article 28 de la loi de 1905 interdit d'apposer des signes religieux sur les monuments publics. Le juge distingue le signe religieux de la tradition festive : une crèche peut relever de l'une ou de l'autre selon le contexte.",
+  "faits": [
+    {
+      "fait": "Selon le Conseil d'État, l'installation temporaire d'une crèche par une personne publique est légale si elle présente « un caractère culturel, artistique ou festif ».",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Les crèches ne sont pas interdites par principe.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Dans un bâtiment public siège d'une collectivité, elle n'est pas possible « en l'absence de circonstances particulières » ; la crèche de la mairie de Melun a été jugée illégale.",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Dans une mairie, la règle est stricte.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La crèche installée à l'hôtel du département de Vendée a finalement été maintenue : la cour de Nantes a rejeté la demande d'annulation et le Conseil d'État n'a pas admis le pourvoi.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Une crèche peut être validée même dans un bâtiment public.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Sur les autres emplacements publics, comme les marchés de Noël, l'installation de santons est a priori licite.",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Dans la rue, les crèches sont largement possibles.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : depuis 2016, le Conseil d'État autorise les crèches à caractère culturel ou festif. Dans une mairie, il faut un usage local ou un contexte festif : Melun a été refusée, la Vendée validée. Sur les marchés de Noël, c'est a priori licite.",
+    "moyen": "Il n'y a pas d'interdiction générale des crèches. Le Conseil d'État les autorise quand elles ont un caractère culturel, artistique ou festif, sans prosélytisme.\n\nLa règle est plus stricte dans le hall d'une mairie : il faut des circonstances particulières, comme une tradition locale. La crèche de Melun a été refusée, celle du département de Vendée validée. Dans les rues et sur les marchés de Noël, elles sont a priori licites.",
+    "detaille": "La loi de 1905, article 28, interdit d'apposer des signes religieux sur les monuments publics. En 2016, le Conseil d'État a fixé une règle d'équilibre : une crèche de Noël peut être installée temporairement par une collectivité si elle présente un caractère culturel, artistique ou festif et n'exprime pas la reconnaissance d'un culte.\n\nDans un bâtiment public qui sert de siège à une collectivité, comme une mairie, la crèche n'est possible qu'avec des circonstances particulières, notamment un usage local. À Melun, faute de tradition et de contexte festif, elle a été jugée illégale ; en Vendée, la justice a finalement maintenu celle de l'hôtel du département.\n\nSur la voie publique et dans les marchés de Noël, l'installation est possible si elle n'est pas un acte de prosélytisme. La laïcité ne vise pas Noël : elle demande aux pouvoirs publics de ne pas afficher de préférence religieuse.",
+    "empathie": "Je comprends que tu tiennes aux traditions de Noël, et elles ne sont pas interdites. Le juge demande seulement qu'une mairie ne transforme pas son hall en lieu religieux sans tradition locale."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On interdit Noël pour ne pas froisser les musulmans.",
+      "reponse": "La règle de l'article 28 date de 1905 et vaut pour tous les signes religieux, quelle que soit la religion."
+    },
+    {
+      "objection": "C'est notre culture, pas de la religion.",
+      "reponse": "C'est exactement ce que dit le Conseil d'État : quand la crèche a un caractère culturel ou festif, elle est autorisée."
+    }
+  ],
+  "questions": [
+    "Sais-tu que le Conseil d'État autorise les crèches à caractère festif ?",
+    "Où vois-tu des crèches chaque année dans ta ville ?"
+  ],
+  "limites": [
+    "La jurisprudence postérieure à 2018 n'a pas été recherchée.",
+    "Le texte de l'article 28 n'a pas été lu sur Légifrance, mais dans les documents du Conseil d'État."
+  ],
+  "sources": [
+    {
+      "titre": "Analyse de la décision n° 395122 (crèche de Noël, Melun)",
+      "organisme": "Conseil d'État",
+      "date_publication": "9 novembre 2016",
+      "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/analyse/2016-11-09/395122",
+      "passage": "L'installation temporaire d'une crèche « n'est légalement possible que lorsqu'elle présente un caractère culturel, artistique ou festif », sans exprimer la reconnaissance d'un culte. Dans un bâtiment public siège d'une collectivité, elle ne le peut pas « en l'absence de circonstances particulières » ; à Melun, faute d'usage local et d'élément festif, la crèche « méconnaît l'article 28 de la loi du 9 décembre 1905 ».",
+      "pertinence": "Analyse officielle d'une décision de la plus haute juridiction administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Installation d'une crèche de Noël",
+      "organisme": "Conseil d'État",
+      "date_publication": "14 février 2018",
+      "url": "https://conseil-etat.fr/actualites/installation-d-une-creche-de-noel",
+      "passage": "Pour la crèche installée par le conseil général de Vendée, la cour administrative d'appel de Nantes a rejeté la demande d'annulation et le Conseil d'État n'a pas admis le pourvoi. Les critères sont le contexte (sans prosélytisme), les conditions de l'installation, les usages locaux et le lieu ; sur les autres emplacements publics, l'installation est possible si elle ne constitue pas un acte de prosélytisme ou de revendication religieuse.",
+      "pertinence": "Communiqué de la plus haute juridiction administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Conseil d'État autorise, sous condition, les crèches de Noël en mairie",
+      "organisme": "Banque des Territoires (Localtis, avec AFP)",
+      "date_publication": "10 novembre 2016",
+      "url": "https://www.banquedesterritoires.fr/le-conseil-detat-autorise-sous-condition-les-creches-de-noel-en-mairie",
+      "passage": "Pour Melun, le Conseil d'État juge que la cour de Paris a interprété la neutralité de façon excessive, mais confirme l'interdiction faute d'« usage local » et d'« environnement artistique, culturel ou festif ». Sur les autres emplacements, comme les marchés de Noël, l'installation de santons est a priori licite.",
+      "pertinence": "Média des collectivités (Caisse des dépôts).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelles décisions de justice chaque hiver.",
+  "objections_legitimes": [
+    "Dans une mairie, la règle est restrictive, et plusieurs crèches ont été censurées (Melun en 2016, Béziers en 2017 selon un commentaire d'avocat).",
+    "L'appréciation au cas par cas peut sembler floue pour les élus."
+  ],
+  "publics": {
+    "convaincus": "Noël n'est pas interdit : le Conseil d'État autorise les crèches qui ont un caractère culturel ou festif, et elles sont a priori licites sur les marchés de Noël. La règle de 1905 demande seulement que l'État ne fasse pas de religion officielle, et cette règle protège aussi les chrétiens.",
+    "indecis": "La règle est plus nuancée qu'on ne le dit : dans la rue et sur les marchés, les crèches sont largement possibles ; dans une mairie, il faut une tradition locale ou un contexte festif. C'est un équilibre entre traditions et neutralité de l'État."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "universalite"
+    ],
+    "mecanismes": "Une règle d’équilibre est présentée comme une guerre contre Noël, pour opposer laïcité et traditions.",
+    "consequences": "La laïcité devient suspecte aux yeux de croyants qui y voient une hostilité.",
+    "democratie": "La neutralité de l’État protège la liberté de conscience de tous, croyants ou non.",
+    "propositions": [
+      "Expliquer la laïcité comme une liberté, pas comme une interdiction.",
+      "Laisser vivre les traditions festives dans l’espace public, sans prosélytisme institutionnel."
+    ],
+    "defavorables": [
+      {
+        "fait": "Dans une mairie, plusieurs crèches ont été censurées par la justice.",
+        "integration": "Le dire, en expliquant la règle et ses exceptions."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "creches_noel",
+      "label": "Crèches de Noël"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "laicite"
+  ],
+  "concepts": [
+    "laicite",
+    "creches_noel"
+  ]
+}

@@ -150,11 +150,6 @@
       }
     ]
   },
-  "concepts": [
-    "desinformation",
-    "europe",
-    "insectes"
-  ],
   "repond_a": [
     {
       "id": "insectes",
@@ -169,5 +164,10 @@
     "bruxelles",
     "union europeenne",
     "vers de farine"
+  ],
+  "concepts": [
+    "desinformation",
+    "europe",
+    "insectes"
   ]
 }

@@ -173,12 +173,6 @@
       }
     ]
   },
-  "concepts": [
-    "origine",
-    "penurie",
-    "gauche",
-    "ecologie"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -194,5 +188,11 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "origine",
+    "penurie",
+    "gauche",
+    "ecologie"
   ]
 }

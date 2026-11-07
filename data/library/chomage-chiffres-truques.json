@@ -163,10 +163,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "statistiques"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -180,5 +176,9 @@
     "pourcentage",
     "insee",
     "donnees"
+  ],
+  "concepts": [
+    "emploi",
+    "statistiques"
   ]
 }

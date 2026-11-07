@@ -146,9 +146,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -158,5 +155,8 @@
     "arrivent encore",
     "qui debarquent",
     "ils prennent nos"
+  ],
+  "concepts": [
+    "immigration"
   ]
 }

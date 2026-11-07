@@ -210,3 +210,103 @@ Sur les 25 questions retenues, 7 étaient signalées « LACUNE » et **18 étaie
 **Fiches existantes adaptées aux deux publics (10)** : `immigres-aides`, `rsa-smic`, `chomeurs-travailler`, `laicite-loi-1905`, `musulmans-amalgames`, `souverainete-populaire`, `justice-laxiste-prison`, `melenchon-ruiner-france`, `france-pays-immigration`, `pauvrete-france`. Ces fiches n'ayant pas de générateur actif, le champ `publics` est ajouté par un nouveau module `scripts/publics-complements.js`, appliqué de façon idempotente par `scripts/corrections-v10.js` (étape 4). Textes écrits à partir du seul contenu sourcé de chaque fiche. 105 fiches sur 177 ont désormais un champ `publics`.
 
 **Questions écartées** : aucune pour sources invérifiables. Points non vérifiés laissés hors des fiches et signalés dans leurs limites : texte de l'arrêt d'appel Le Pen et date de la décision de cassation ; programme actuel de LFI (2026-2027) ; texte original de la lettre de Georges Marchais (L'Humanité, janvier 1981) et suite de l'histoire du PCF ; nationalité des mineurs interpellés en 2023 ; montant 2026 du minimum vieillesse ; volume des radiations de France Travail ; émissions de CO2 par niveau de vie postérieures à 2011 ; effet des restrictions du droit du sol à Mayotte ; publications primaires de la Dares (pages protégées par un CAPTCHA) et de l'ETUI ; comparaison avec la crise grecque de 2010. Sources trouvées mais non utilisées : un blog militant (texte de la lettre de Marchais, daté de façon erronée), un témoignage militant sur Vitry, et un site d'extrême droite (écarté d'office).
+
+## 7 novembre 2026 — passage de 20 h 15 (UTC)
+
+**Questions testées : 27** (fichier passé dans `node scripts/verifier-couverture.mjs`), pour 26 fiches créées : une phrase de plus que l'objectif a été gardée, car sa recherche était complète. 1 phrase a été écartée comme quasi-doublon (« Les journalistes sont tous de gauche » → `medias-concentration`, qui y répond déjà). Sur les 26 retenues, 11 étaient « LACUNE » et **15 étaient « couvertes » par une fiche voisine hors sujet**. Exemples : peine de mort → délinquance ; syndicats et subventions → RSA ; SDF et migrants → expulsions ; migrants climatiques → grand remplacement ; députés → RSA ; 35 heures → temps de travail ; violences policières → délinquance. Elles ont été traitées comme de vraies lacunes (règle v12).
+
+1. En France, on n'a plus le droit de se défendre chez soi, c'est la victime qui finit en prison.
+2. Il faut rétablir la peine de mort, ça dissuaderait les criminels.
+3. Les peines planchers font baisser la récidive.
+4. Les refus d'obtempérer explosent à cause du laxisme.
+5. Les violences policières n'existent pas.
+6. Le RN veut nationaliser les autoroutes pour baisser les péages.
+7. La proportionnelle rendrait la France ingouvernable.
+8. Le RN a toujours défendu le droit à l'avortement.
+9. Le RN veut sortir la France de l'OTAN.
+10. Le RN est le premier parti de France, il représente la majorité des Français.
+11. Les jeunes votent massivement pour le RN.
+12. Les députés touchent 15 000 euros par mois.
+13. Les syndicats vivent des subventions de l'État.
+14. Les crèches de Noël sont interdites dans les mairies.
+15. La fermeture de C8 est une censure politique.
+16. Une retraite par capitalisation rapporterait plus que la répartition.
+17. Le prix de l'essence, ce sont surtout des taxes.
+18. Les 35 heures ont ruiné la France.
+19. On paie l'électricité plus cher à cause du marché européen.
+20. Dans les banlieues, les jeunes ne veulent pas travailler.
+21. On loge les migrants à l'hôtel pendant que les SDF français dorment dehors.
+22. Des centaines de millions de migrants climatiques vont envahir l'Europe.
+23. La Chine pollue bien plus que nous, nos efforts pour le climat ne servent à rien.
+24. La France compte le plus de musulmans d'Europe, ils seront bientôt majoritaires.
+25. Le massacre du 17 octobre 1961 est une invention de la gauche.
+26. Les retraités ont un meilleur niveau de vie que les actifs.
+
+**Fiches créées : 26.** Elles sont produites par le générateur `scripts/fiches/quotidien_20261107_2015.py`. Toutes ont un champ `publics` et une « lecture de gauche ». Chaque fiche repose sur au moins deux sources ouvertes et lues le 7 novembre 2026 :
+
+| Fiche | Verdict | Sources principales |
+|---|---|---|
+| `legitime-defense-domicile` | contredit | Assemblée nationale : PPL n° 557 reproduisant les articles 122-5 et 122-6 du code pénal (2022), réponse ministérielle (2016), document d'étape PPL n° 691 (2026) ; Club des juristes (2026) |
+| `peine-de-mort-dissuasion` | contredit | National Research Council (2012) ; Death Penalty Information Center (2025) ; ministère de la Justice (archives 2007) ; Institut Montaigne / Ipsos BVA, *Fractures françaises* (2025) |
+| `peines-planchers-recidive` | trompeur | IPP, note n° 105 (2024) ; Infostat Justice n° 118 (2012) ; Assemblée nationale, commission des lois (2025) |
+| `refus-obtemperer-hausse` | trompeur | Gendarmerie d'après le SSMSI (2024) ; rapport d'information AN n° 2692 (2024) ; LCP (2024) ; Public Sénat (2023) |
+| `violences-policieres-existent` | contredit | Rapport annuel IGPN 2024 ; réponse du ministère de l'Intérieur (AN, 2025) ; Défenseur des droits (2025) ; Club des juristes sur l'arrêt CEDH Fraisse (2025) |
+| `rn-nationaliser-autoroutes` | plutôt exact | Institut Montaigne (2022) ; Sénat (rapports 2020 et 2024) ; Assemblée nationale (questions au gouvernement 2023, PPL LFI 2025) |
+| `proportionnelle-ingouvernable` | trompeur | info.gouv.fr ; Larousse (1987) ; La Vie des idées (2025) ; Le Grand Continent (2025) ; LCP (2025) |
+| `rn-ivg-toujours-defendu` | contredit | LCP (janvier et mars 2024) ; Public Sénat (deux articles de décembre 2016) |
+| `rn-sortie-otan` | trompeur | Institut Montaigne (2022) ; Public Sénat (2022) ; Europe 1 / AFP (2024) ; AFP via Les Nouvelles Calédoniennes (2024) ; Élysée (2009) |
+| `rn-premier-parti-majorite` | trompeur | Public Sénat (2024) ; Maire-info (2024) ; LCP (2024) |
+| `jeunes-vote-rn` | trompeur | Ipsos (européennes 2024) ; Ipsos Talan (législatives 2024) ; Fondation Jean-Jaurès (2024) |
+| `deputes-salaire-15000` | contredit | Assemblée nationale, fiche n° 7 (janvier 2026) ; IPP, note n° 91 (2023) ; Public Sénat (2022) |
+| `syndicats-subventions` | trompeur | Cour des comptes (2024) ; Journal du Net (octobre 2026) ; CFDT ; Assemblée nationale (question écrite, 2011) |
+| `creches-noel-mairies` | trompeur | Conseil d'État (2016, 2018) ; Banque des Territoires (2016) |
+| `c8-fermeture-censure` | trompeur | Public Sénat (2025) ; arrêt du Conseil d'État du 19 février 2025 (via le blog Landot) ; Conseil d'État (CNews, 2024) ; Puremédias (2025) |
+| `retraite-capitalisation-rendement` | trompeur | COR (dossier de décembre 2025, contributions d'A. Lavigne et de l'OCDE) ; Diario Financiero d'après l'OCDE (2009) |
+| `essence-prix-taxes` | plutôt exact | Réponse ministérielle (AN, 2025) ; Connaissance des Énergies d'après la DGEC, l'UFIP et la Commission (2026) ; Banque de France (2021) |
+| `trente-cinq-heures-ruine` | contredit | Rapport AN n° 2436 (2014) ; Ires (2014) ; Institut Montaigne (2014) ; Insee (2026) |
+| `electricite-prix-marche-europeen` | trompeur | Sénat (2023) ; SDES (2023 et 2026) ; CRE (2026) |
+| `banlieues-jeunes-travailler` | contredit | Observatoire des inégalités d'après l'ONPV (2025) ; Banque des Territoires d'après l'ONPV (2026) ; Insee, *Économie et Statistique* n° 541 (2023) |
+| `migrants-hotel-sdf` | trompeur | Conseil d'État (2012, art. L. 345-2-2 CASF) ; Insee-Ined (2013) ; Public Sénat (2026) ; Unicef-FAS (2025) ; Sénat (2024) |
+| `migrants-climatiques-europe` | contredit | Banque mondiale, Groundswell (2021) ; IDMC (2026) ; HCR (2025) ; Euronews (2025) |
+| `chine-pollue-efforts-inutiles` | trompeur | Global Carbon Project (2025, 2026) ; SDES (2026) ; Carbon Brief (2024) ; Our World in Data (2025) |
+| `musulmans-majoritaires-france` | contredit | Pew Research Center (2017) ; Insee (TeO2 et fécondité, 2023) ; Maldita.es (2019) |
+| `massacre-17-octobre-1961` | contredit | Élysée (2021) ; LCP (2024) ; La Vie des idées (2008) ; J.-P. Brunet, *The Historical Journal* (2008) ; Assemblée nationale (1997) |
+| `retraites-niveau-vie-actifs` | trompeur | COR (rapport annuel 2026) ; DREES (2025) |
+
+**Méthode.** La recherche documentaire a été répartie entre cinq agents de recherche. Chacun cherchait avec WebSearch puis lisait chaque page avec WebFetch. Seules les pages effectivement lues ont été retenues comme sources. Les chiffres viennent des passages lus.
+
+Les pages qui n'ont pas pu être ouvertes n'ont pas été citées : Légifrance, Dares, plusieurs pages de Vie publique, DREES sans-domicile, Ined, rapport complet de Pew, OCDE, Rexecode, note du SSMSI. L'outil de lecture résume les pages : les citations entre guillemets sont courtes et pourraient être revérifiées mot à mot.
+
+Lors de la relecture, plusieurs affirmations non sourcées ont été retirées des fiches :
+- le maintien de CNews sur la TNT ;
+- le couvre-feu de 1961 ;
+- les attentats du FLN ;
+- la part chinoise des renouvelables ;
+- la concentration du patrimoine par génération ;
+- le dispositif d'accueil des demandeurs d'asile.
+
+Les noms de deux victimes ont aussi été remplacés par une description, sauf dans l'intitulé d'un arrêt de la CEDH.
+
+**Reconnaissance des questions.**
+- `public/js/cartographie.js` reçoit 23 concepts et 29 arguments. Les 26 questions mènent à leur fiche.
+- Des variantes testées y mènent aussi : « Si un cambrioleur entre chez moi, c'est moi qui irai en prison », « Remettons la peine de mort pour les terroristes », « Les jeunes des cités ne veulent pas bosser », « À la pompe, on paie que des taxes », « Hanouna a été censuré par l'Arcom », « Dans 20 ans les musulmans seront majoritaires », « Les boomers vivent mieux que nous »…
+- Ces ajouts ne déplacent aucune des 92 phrases de contrôle : les 75 questions des passages précédents et 17 phrases voisines (comparaison avant/après).
+- « Les crèches pour enfants manquent de places » reste correctement une lacune.
+- Un ajustement a été fait après les tests : le motif « par répartition » a été retiré du concept capitalisation. « D'où vient la retraite par répartition ? » doit en effet rester sans fiche (test v12).
+
+**Fiches existantes adaptées aux deux publics (10).** Le champ `publics` a été ajouté, à partir du seul contenu sourcé de chaque fiche, via `scripts/publics-complements.js`, appliqué par `scripts/corrections-v10.js`. Fiches concernées : `medias-concentration`, `delinquance-partout`, `homicides-record`, `lfi-contre-police`, `discriminations-embauche`, `electricite-nucleaire-renouvelables`, `rsa-profiteurs`, `impots-assistanat`, `expulser-tous-etrangers-condamnes`, `dividendes-salaires`.
+
+**Questions écartées.** Aucune pour sources invérifiables.
+
+**Points non vérifiés, laissés hors des fiches et signalés dans leurs limites :**
+- présence de la nationalisation des autoroutes et de la sortie du commandement intégré de l'OTAN dans les programmes RN de 2027 ;
+- vote des sénateurs et eurodéputés RN sur l'IVG ;
+- score exact du RN aux européennes 2024 (31,37 % ou 31,47 % selon les sources) ;
+- statistiques nationales sur la légitime défense ;
+- condamnations pénales de policiers ;
+- chiffre 2025 des refus d'obtempérer (seulement via un média) ;
+- abrogation des peines planchers en 2014 ;
+- émissions par habitant de la Chine ;
+- affirmation « la France compte le plus de musulmans d'Europe » ;
+- rapport Mandelkern ;
+- dispositif d'hébergement des demandeurs d'asile.

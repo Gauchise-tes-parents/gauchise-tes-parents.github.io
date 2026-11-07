@@ -1,0 +1,182 @@
+{
+  "id": "c8-fermeture-censure",
+  "type": "idee_recue",
+  "affirmation": "La fermeture de C8 est une censure politique.",
+  "volet": "politique",
+  "sous_theme": "Médias",
+  "rubriques": [],
+  "mots_cles": [
+    "fermeture de c8",
+    "c8 censure",
+    "arcom censure",
+    "hanouna censure",
+    "tpmp",
+    "frequence tnt",
+    "c8 tnt",
+    "arcom c8"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "C8 n'a pas été fermée par une décision politique : lors du renouvellement des fréquences de la TNT, l'Arcom a retenu 15 projets sur 25 et écarté C8 et NRJ12. Le Conseil d'État a jugé la décision légale en février 2025, en relevant des programmes peu diversifiés, de nombreuses sanctions et un déficit chronique. Le débat sur le pluralisme reste légitime, mais C8 continue d'exister hors TNT.",
+  "contexte": "Les soutiens de Cyril Hanouna et une partie de la droite et de l'extrême droite ont dénoncé une atteinte à la liberté d'expression.",
+  "explication": "Les fréquences de la TNT sont un bien public limité, attribué gratuitement pour 10 ans, renouvelable une fois. À l'échéance, l'Arcom compare les candidatures selon des critères fixés par la loi de 1986.",
+  "faits": [
+    {
+      "fait": "Par sa délibération du 17 juillet 2024, l'Arcom a retenu 15 projets sur 25 ; C8 et NRJ12 n'ont pas été retenues.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Une chaîne sans ligne politique a aussi été écartée.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "15 sur 25"
+    },
+    {
+      "fait": "Selon Blog Landot & associés, le Conseil d'État a rejeté les recours de C8 le 19 février 2025, en relevant des programmes « peu diversifiés », de « nombreuses sanctions financières, mises en demeure et mises en garde » et « un déficit chronique et significatif ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le juge a validé des motifs prévus par la loi.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "C8 a fait l'objet de 36 alertes et sanctions selon un décompte de Libération, et de plus de 7,6 M€ d'amendes liées à TPMP selon le HuffPost.",
+      "periode": "2016-2024",
+      "perimetre": "France",
+      "explication": "La chaîne avait un lourd passif de manquements.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "7,6 M€"
+    },
+    {
+      "fait": "En février 2024, le Conseil d'État a demandé à l'Arcom de contrôler le pluralisme en tenant compte de tous les intervenants, sans se prononcer sur le fond pour CNews.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le contrôle du pluralisme s'est renforcé, pour toutes les chaînes.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : l'Arcom a retenu 15 projets sur 25 et écarté C8 et NRJ12, et le Conseil d'État a jugé la décision légale en 2025 (programmes peu diversifiés, nombreuses sanctions, déficit). Ce n'est pas une interdiction d'émettre : C8 a perdu une fréquence publique.",
+    "moyen": "Les fréquences de la TNT sont un bien public limité, attribué gratuitement pour dix ans. En 2024, l'Arcom a choisi 15 projets parmi 25 candidats ; C8 et NRJ12 ont été écartées.\n\nLe Conseil d'État a confirmé la décision en 2025, pour des motifs prévus par la loi : grille peu diversifiée, nombreuses sanctions et déficit chronique. On peut discuter de ces critères, mais il ne s'agit pas d'interdire une opinion.",
+    "detaille": "La TNT ne compte qu'un nombre limité de fréquences, attribuées gratuitement pour dix ans, renouvelables une fois. À l'échéance, l'Arcom lance un appel à candidatures et compare les projets. En juillet 2024, elle a retenu 15 projets sur 25 : C8, du groupe Canal+, et NRJ12, chaîne sans ligne politique, n'ont pas été retenues.\n\nLe Conseil d'État a jugé la décision légale le 19 février 2025. Il relève des programmes peu diversifiés, de nombreuses sanctions, mises en demeure et mises en garde, et un déficit chronique. Selon des décomptes de presse, C8 avait cumulé 36 alertes et sanctions et plus de 7,6 M€ d'amendes liées à TPMP. C8 a cessé d'émettre sur la TNT le 28 février 2025.\n\nLe débat sur le pluralisme est réel : le Conseil d'État a demandé en 2024 un contrôle élargi pour toutes les chaînes, et il a lui-même jugé « excessive » une amende infligée à C8 en 2025. Mais perdre une fréquence publique au profit d'autres candidats n'est pas une censure des idées.",
+    "empathie": "Je comprends que les fans de l'émission aient vécu ça comme une injustice. Mais une fréquence TNT est un bien public prêté pour dix ans, et la chaîne avait accumulé les sanctions."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On a fermé la chaîne de droite qui dérangeait.",
+      "reponse": "NRJ12, chaîne de divertissement sans ligne politique, a aussi été écartée, pour des motifs liés à sa grille et à ses finances."
+    },
+    {
+      "objection": "C'est une décision politique de l'Arcom.",
+      "reponse": "Le Conseil d'État, juge indépendant, l'a confirmée au regard des critères de la loi de 1986."
+    }
+  ],
+  "questions": [
+    "Savais-tu que NRJ12 a aussi perdu sa fréquence ?",
+    "Selon quels critères faudrait-il attribuer un nombre limité de fréquences publiques ?"
+  ],
+  "limites": [
+    "La décision motivée de l'Arcom et l'arrêt complet n'ont été lus qu'au travers d'extraits et d'articles.",
+    "Les chiffres de 36 sanctions et de 7,6 M€ viennent de décomptes de presse, pas de l'Arcom."
+  ],
+  "sources": [
+    {
+      "titre": "Fin de C8 : pourquoi la décision de l'Arcom n'est pas de la censure ?",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "28 février 2025",
+      "url": "https://www.publicsenat.fr/actualites/societe/fin-de-c8-pourquoi-la-decision-de-larcom-nest-pas-de-la-censure",
+      "passage": "Par sa délibération du 17 juillet 2024, l'Arcom retient 15 projets sur 25 ; C8 et NRJ12 ne sont pas retenues. La loi de 1986 limite une autorisation à 10 ans, renouvelable une fois. C8 a fait l'objet de 36 alertes et sanctions selon un décompte de Libération et de plus de 7,6 M€ d'amendes liées à TPMP selon le HuffPost ; elle cesse d'émettre dans la nuit du 28 février 2025. Roch-Olivier Maistre : « Les fréquences sont un bien public, elles ont la particularité d'être attribuées gratuitement ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Arcom / C8 : voici l'arrêt (Conseil d'État, 19 février 2025, n° 499823 et 500009)",
+      "organisme": "Blog Landot & associés (Éric Landot, avocat)",
+      "date_publication": "20 février 2025",
+      "url": "https://blog.landot-avocats.net/2025/02/20/arcom-c8-c-voici-larret/",
+      "passage": "Le Conseil d'État rappelle que l'Arcom procède à une « appréciation des mérites comparés des candidatures reçues », selon des critères dont la « contribution au pluralisme et à la diversité des opérateurs » et la « capacité à respecter les obligations légales ». Pour C8, il relève des programmes « peu diversifiés », de « nombreuses sanctions financières, mises en demeure et mises en garde » et « un déficit chronique et significatif » ; les recours sont rejetés.",
+      "pertinence": "Commentaire d'avocat reproduisant l'arrêt.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pluralisme et indépendance de l'information : l'Arcom devra se prononcer à nouveau sur le respect par CNews de ses obligations",
+      "organisme": "Conseil d'État",
+      "date_publication": "13 février 2024",
+      "url": "https://conseil-etat.fr/actualites/pluralisme-et-independance-de-l-information-l-arcom-devra-se-prononcer-a-nouveau-sur-le-respect-par-cnews-de-ses-obligations",
+      "passage": "L'Arcom « ne doit pas se limiter au décompte des temps de parole des personnalités politiques » et doit considérer l'ensemble des intervenants, « y compris les chroniqueurs, animateurs et invités ». Le Conseil d'État « ne se prononce pas sur le respect par les programmes de la chaîne CNews » de ses obligations.",
+      "pertinence": "Communiqué de la plus haute juridiction administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Un montant excessif » : le Conseil d'État contredit l'Arcom et réduit de moitié une amende infligée à C8",
+      "organisme": "Puremédias (Benjamin Rabier)",
+      "date_publication": "7 mai 2025",
+      "url": "https://www.ozap.com/actu/un-montant-excessif-le-conseil-detat-contredit-larcom-et-reduit-de-moitie-une-amende-infligee-a-c8-a-cause-de-cyril-hanouna-et-de-tpmp/649824",
+      "passage": "Le 6 mai 2025, le Conseil d'État a réduit de 300 000 € à 150 000 € une amende infligée à C8 pour des propos tenus dans TPMP en octobre 2022, jugeant le premier montant « excessif ».",
+      "pertinence": "Média spécialisé.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Évolutions du contrôle du pluralisme par l'Arcom.",
+  "objections_legitimes": [
+    "Le Conseil d'État a réduit de moitié une amende infligée à C8 en 2025, jugeant son montant « excessif ».",
+    "Une partie des critères porte sur le contenu, ce qui alimente un débat légitime sur la liberté éditoriale."
+  ],
+  "publics": {
+    "convaincus": "Si c'était une censure politique, pourquoi NRJ12, chaîne de divertissement, a-t-elle été écartée aussi ? Le Conseil d'État a validé la décision pour des raisons prévues par la loi : sanctions à répétition et déficit. La liberté d'expression, c'est de pouvoir parler, pas d'avoir une fréquence gratuite à vie.",
+    "indecis": "Le débat sur le pluralisme des médias est légitime. Mais la TNT n'a qu'un nombre limité de places, prêtées pour dix ans : en 2024, 15 projets ont été retenus sur 25. La justice a jugé la décision légale, en s'appuyant sur les sanctions et les difficultés financières de la chaîne."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "democratie"
+    ],
+    "mecanismes": "Une décision de régulation fondée sur la loi est présentée comme une persécution politique.",
+    "consequences": "Le soupçon de censure alimente la défiance envers les institutions de contrôle.",
+    "democratie": "Le pluralisme suppose des règles appliquées à toutes les chaînes et contrôlées par le juge.",
+    "propositions": [
+      "Garantir l’indépendance des médias face aux grands actionnaires.",
+      "Appliquer à toutes les chaînes un contrôle du pluralisme transparent."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le Conseil d’État a jugé excessive une amende infligée à C8.",
+        "integration": "Le reconnaître : le contrôle du régulateur doit lui-même être contrôlé."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "c8_censure",
+      "label": "Fin de C8 et censure"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "peut plus rien dire",
+    "liberte d expression",
+    "politiquement correct",
+    "on se fait traiter",
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite",
+    "nous cachent",
+    "on nous cache",
+    "propagande",
+    "hanouna"
+  ],
+  "concepts": [
+    "liberte_expression",
+    "medias",
+    "c8_arcom"
+  ]
+}

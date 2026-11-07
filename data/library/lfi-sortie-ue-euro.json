@@ -154,12 +154,6 @@
       }
     ]
   },
-  "concepts": [
-    "melenchon_lfi",
-    "gauche",
-    "europe",
-    "sortie_ue"
-  ],
   "repond_a": [
     {
       "id": "sortie_ue_lfi",
@@ -180,5 +174,11 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "melenchon_lfi",
+    "gauche",
+    "europe",
+    "sortie_ue"
   ]
 }

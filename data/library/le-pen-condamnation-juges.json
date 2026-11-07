@@ -163,14 +163,6 @@
       }
     ]
   },
-  "concepts": [
-    "justice",
-    "patriotisme",
-    "europe",
-    "fn_parti",
-    "juges_rouges",
-    "le_pen_proces"
-  ],
   "repond_a": [
     {
       "id": "le_pen_proces",
@@ -191,5 +183,14 @@
     "fn",
     "rn",
     "rassemblement national"
+  ],
+  "concepts": [
+    "justice",
+    "patriotisme",
+    "europe",
+    "fn_parti",
+    "juges_rouges",
+    "le_pen_proces",
+    "peine_mort"
   ]
 }

@@ -1,0 +1,167 @@
+{
+  "id": "retraites-niveau-vie-actifs",
+  "type": "idee_recue",
+  "affirmation": "Les retraités ont un meilleur niveau de vie que les actifs.",
+  "volet": "social",
+  "sous_theme": "Minimum social et niveau de vie",
+  "rubriques": [],
+  "mots_cles": [
+    "niveau de vie des retraites",
+    "retraites plus riches",
+    "retraites privilegies",
+    "boomers",
+    "retraites aises",
+    "pension et actifs",
+    "retraites vs actifs",
+    "generation sacrifiee"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le niveau de vie moyen des retraités équivaut à celui de l'ensemble de la population (100,2 % en 2023), mais il reste inférieur à celui des actifs : 2 473 € contre 2 693 € par mois. En tenant compte du fait que 70 % des retraités sont propriétaires de leur logement, l'écart avec les actifs devient très faible. Leur taux de pauvreté est plus bas que la moyenne (10 % contre 14,4 %), et leur niveau de vie relatif est projeté en baisse.",
+  "contexte": "L'argument oppose les générations et sert à justifier des économies sur les pensions, ou au contraire à présenter les jeunes comme une génération sacrifiée.",
+  "explication": "Le niveau de vie se mesure par unité de consommation, en tenant compte de la taille du ménage. Les « loyers imputés » ajoutent au revenu des propriétaires le loyer qu'ils n'ont pas à payer.",
+  "faits": [
+    {
+      "fait": "En 2023, le niveau de vie des retraités atteint 100,2 % de celui de l'ensemble de la population : 2 473 € par mois, contre 2 468 € pour l'ensemble et 2 693 € pour les actifs.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les retraités sont dans la moyenne, mais en dessous des actifs.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2 473 € contre 2 693 €"
+    },
+    {
+      "fait": "En tenant compte des loyers imputés, le niveau de vie des retraités dépasse de 6,5 % celui de l'ensemble, à un niveau très proche de celui des actifs.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La propriété du logement réduit l'écart avec les actifs.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+6,5 %"
+    },
+    {
+      "fait": "En 2022, le taux de pauvreté des retraités est de 10,0 %, contre 14,4 % pour l'ensemble de la population.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les retraités sont moins souvent pauvres.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "10,0 %"
+    },
+    {
+      "fait": "70 % des ménages retraités sont propriétaires de leur résidence principale, contre 57 % de l'ensemble.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Le patrimoine immobilier favorise les retraités.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "70 %"
+    },
+    {
+      "fait": "Le niveau de vie relatif des retraités est projeté à 96,3 % de celui de l'ensemble en 2045 et 90,3 % en 2070.",
+      "periode": "projection",
+      "perimetre": "France",
+      "explication": "La situation relative des retraités devrait se dégrader.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "90,3 % en 2070"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : le niveau de vie des retraités égale celui de l'ensemble de la population (100,2 % en 2023), mais reste inférieur à celui des actifs (2 473 € contre 2 693 € par mois). Ils sont moins souvent pauvres et plus souvent propriétaires, et leur situation relative devrait baisser.",
+    "moyen": "Le niveau de vie moyen des retraités est égal à celui de l'ensemble des Français, mais il reste un peu inférieur à celui des actifs : 2 473 € contre 2 693 € par mois en 2023.\n\nLes retraités sont moins souvent pauvres que la moyenne et sont plus souvent propriétaires de leur logement, ce qui réduit l'écart. Mais derrière la moyenne, il y a de grandes inégalités entre retraités, et leur niveau de vie relatif devrait baisser dans les prochaines décennies.",
+    "detaille": "Selon le Conseil d'orientation des retraites, le niveau de vie moyen des retraités atteint en 2023 100,2 % de celui de l'ensemble de la population : 2 473 € par mois et par unité de consommation, contre 2 693 € pour les actifs. L'affirmation est donc fausse au sens strict.\n\nElle contient une part de vérité : 70 % des ménages retraités sont propriétaires de leur logement, contre 57 % de l'ensemble, et en comptant le loyer qu'ils n'ont pas à payer, leur niveau de vie devient très proche de celui des actifs. Leur taux de pauvreté est aussi plus faible (10 % contre 14,4 % en 2022).\n\nCette situation est le fruit de carrières plus complètes et d'un système de retraite protecteur. Elle ne durera pas forcément : le COR projette un niveau de vie relatif des retraités de 96,3 % en 2045 et 90,3 % en 2070. Opposer jeunes et retraités détourne du vrai sujet : la répartition des richesses entre revenus du travail, pensions et patrimoine.",
+    "empathie": "Je comprends que les jeunes actifs qui peinent à se loger aient l'impression que les retraités s'en sortent mieux. Les chiffres montrent une situation proche, avec de fortes inégalités entre retraités, et une dégradation prévue pour les suivants."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les boomers ont tout pris.",
+      "reponse": "Derrière la moyenne, les situations sont très inégales : 10 % des retraités vivent sous le seuil de pauvreté."
+    },
+    {
+      "objection": "Il faut baisser les pensions.",
+      "reponse": "Le COR projette déjà une baisse du niveau de vie relatif des retraités ; la question est de financer les retraites sans appauvrir les futurs retraités."
+    }
+  ],
+  "questions": [
+    "Sais-tu que le niveau de vie moyen des retraités reste inférieur à celui des actifs ?",
+    "Le vrai clivage est-il entre générations, ou entre ceux qui ont un patrimoine et ceux qui n'en ont pas ?"
+  ],
+  "limites": [
+    "Les données datent de 2022-2023 ; la publication de l'Insee sur la pauvreté 2023 n'a pas été lue."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport annuel du COR, juin 2026 — partie 3, chapitre 2 (niveau de vie des retraités)",
+      "organisme": "Conseil d'orientation des retraites",
+      "date_publication": "juin 2026",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2026-06/RA_Part3_Chap2.pdf",
+      "passage": "En 2023, le niveau de vie des retraités atteint 100,2 % de celui de l'ensemble de la population : 2 473 € par mois et par unité de consommation, contre 2 468 € pour l'ensemble et 2 693 € pour les actifs. En tenant compte des loyers imputés aux propriétaires, il dépasse de 6,5 % celui de l'ensemble, à un niveau très proche de celui des actifs. Il est projeté à 96,3 % en 2045 et 90,3 % en 2070 dans le scénario de référence.",
+      "pertinence": "Organisme public d'expertise sur les retraites.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le niveau de vie des retraités (fiche 9, Les retraités et les retraites, édition 2025)",
+      "organisme": "DREES",
+      "date_publication": "juillet 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-07/Fiche%2009%20-%20Le%20niveau%20de%20vie%20des%20retrait%C3%A9s.pdf",
+      "passage": "« Le niveau de vie médian des retraités est équivalent à celui de l'ensemble de la population » (2 030 € par mois en 2022). Leur taux de pauvreté est de « 10,0 % contre 14,4 % » pour l'ensemble en 2022 ; « 70 % des ménages dont la personne de référence est retraitée sont propriétaires de leur résidence principale », contre 57 % pour l'ensemble.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rapport annuel du COR.",
+  "objections_legitimes": [
+    "Les retraités sont moins souvent pauvres que la moyenne (10 % contre 14,4 %).",
+    "En comptant les loyers imputés, leur niveau de vie est très proche de celui des actifs.",
+    "Les revenus du patrimoine pèsent davantage dans leurs revenus."
+  ],
+  "publics": {
+    "convaincus": "Les retraités ne vivent pas mieux que les actifs en moyenne : 2 473 € contre 2 693 € par mois en 2023. Ils sont plus souvent propriétaires, ce qui réduit l'écart, mais beaucoup vivent avec de petites pensions. Opposer les générations arrange surtout ceux qui veulent couper dans les retraites.",
+    "indecis": "Les retraités ont en moyenne le même niveau de vie que l'ensemble des Français, un peu moins que les actifs, et ils sont moins souvent pauvres. Leur situation relative devrait baisser dans les décennies à venir. Le vrai sujet, c'est la répartition des richesses, pas une guerre des générations."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "repartition"
+    ],
+    "mecanismes": "Opposer les générations détourne du clivage entre ceux qui ont un patrimoine et ceux qui n’en ont pas.",
+    "consequences": "Les petites pensions et les jeunes précaires sont tous deux perdants de cette opposition.",
+    "democratie": "Le niveau des pensions est un choix collectif qui engage toutes les générations.",
+    "propositions": [
+      "Taxer davantage les gros patrimoines plutôt que de baisser les pensions.",
+      "Améliorer l’accès des jeunes au logement et à l’emploi stable."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les retraités sont moins souvent pauvres et plus souvent propriétaires que la moyenne.",
+        "integration": "Le reconnaître, et rappeler les fortes inégalités entre retraités."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "retraites_niveau",
+      "label": "Niveau de vie des retraités"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "reforme des retraites",
+    "niveau de vie des retraites"
+  ],
+  "concepts": [
+    "riches_entreprises",
+    "retraite",
+    "retraites_niveau"
+  ]
+}

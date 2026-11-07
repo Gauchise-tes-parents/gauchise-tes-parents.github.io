@@ -1,0 +1,197 @@
+{
+  "id": "migrants-climatiques-europe",
+  "type": "idee_recue",
+  "affirmation": "Des centaines de millions de migrants climatiques vont envahir l'Europe.",
+  "volet": "ecologie",
+  "sous_theme": "Justice climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "migrants climatiques",
+    "refugies climatiques",
+    "migration climatique",
+    "216 millions",
+    "deplaces climatiques",
+    "rechauffement migrations",
+    "invasion climatique",
+    "deplaces internes"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le chiffre souvent cité, 216 millions de migrants climatiques d'ici 2050 (Banque mondiale), concerne des migrations à l'intérieur des pays en développement, pas vers l'Europe, et il pourrait être réduit de 80 % par une action rapide sur les émissions. Aujourd'hui, la plupart des personnes déplacées restent dans leur pays ou dans un pays voisin : 66 % des réfugiés sont accueillis par un pays voisin.",
+  "contexte": "L'argument combine la peur de l'immigration et le changement climatique, parfois pour justifier une fermeture totale des frontières.",
+  "explication": "Les catastrophes climatiques provoquent surtout des déplacements de courte distance, souvent temporaires, à l'intérieur des pays. Les migrations internationales lointaines demandent des ressources que les plus pauvres n'ont généralement pas.",
+  "faits": [
+    {
+      "fait": "Selon la Banque mondiale, le changement climatique pourrait contraindre 216 millions de personnes à migrer « à l'intérieur de leur pays » d'ici 2050, dans le monde en développement.",
+      "periode": "projection 2050",
+      "perimetre": "Pays en développement",
+      "explication": "Le chiffre ne concerne pas des arrivées en Europe.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "216 millions"
+    },
+    {
+      "fait": "Cette projection pourrait être réduite jusqu'à 80 % avec une action rapide pour réduire les émissions mondiales.",
+      "periode": "projection 2050",
+      "perimetre": "Monde",
+      "explication": "L'ampleur dépend de nos choix climatiques.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "80 %"
+    },
+    {
+      "fait": "Selon Observatoire des situations de déplacement interne, en 2025, 29,9 millions de déplacements liés aux catastrophes ont été enregistrés, et 13,6 millions de personnes vivaient en déplacement lié à une catastrophe à la fin de l'année.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Les déplacements liés aux catastrophes sont surtout internes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "29,9 millions"
+    },
+    {
+      "fait": "Mi-2025, 66 % des réfugiés étaient accueillis dans des pays voisins, et 71 % dans des pays à revenu faible ou intermédiaire.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Les personnes déplacées restent surtout près de chez elles.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "66 %"
+    },
+    {
+      "fait": "Selon Euronews, en 2024, les États-Unis ont enregistré 11 millions de déplacements liés aux catastrophes, le plus grand nombre au monde.",
+      "periode": "2024",
+      "perimetre": "Monde",
+      "explication": "Les pays riches sont aussi touchés.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "11 millions"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : les 216 millions de la Banque mondiale sont des migrations à l'intérieur des pays en développement d'ici 2050, réductibles de 80 % par l'action climatique. Les déplacés restent surtout chez eux ou dans un pays voisin (66 % des réfugiés).",
+    "moyen": "Le chiffre de 216 millions vient de la Banque mondiale, mais il porte sur des migrations à l'intérieur des pays en développement d'ici 2050, pas sur des arrivées en Europe. Et il pourrait baisser de 80 % si le monde réduit vite ses émissions.\n\nAujourd'hui, les catastrophes déplacent surtout des gens à l'intérieur de leur pays, souvent pour peu de temps. Les réfugiés sont accueillis à 66 % par un pays voisin, et à 71 % par des pays pauvres ou intermédiaires.",
+    "detaille": "En 2021, la Banque mondiale a estimé que le changement climatique pourrait contraindre jusqu'à 216 millions de personnes à migrer à l'intérieur de leur pays d'ici 2050 : jusqu'à 86 millions en Afrique subsaharienne, 49 en Asie de l'Est, 40 en Asie du Sud, 19 en Afrique du Nord. Ce sont des projections conditionnelles, réductibles jusqu'à 80 % par une action rapide sur les émissions.\n\nLes données actuelles confirment que les déplacements liés au climat sont surtout internes : 29,9 millions de déplacements liés aux catastrophes en 2025 selon l'IDMC, dont beaucoup d'évacuations temporaires. Les pays riches sont aussi touchés : les États-Unis ont enregistré 11 millions de déplacements de ce type en 2024.\n\nPour les migrations internationales, le HCR rappelle que 66 % des réfugiés vivent dans un pays voisin du leur. Le changement climatique est une menace sérieuse, aussi pour les migrations ; la meilleure façon de limiter les déplacements est de réduire les émissions et d'aider les régions les plus exposées à s'adapter.",
+    "empathie": "L'inquiétude face au changement climatique et à ses conséquences est légitime. Mais les chiffres alarmants qu'on entend portent sur des migrations à l'intérieur des pays du Sud, pas sur une arrivée massive en Europe."
+  },
+  "contre_arguments": [
+    {
+      "objection": "216 millions, ce sont autant de gens qui vont venir.",
+      "reponse": "Le rapport parle de migrations « à l'intérieur de leur pays » ; seule une petite part des déplacés franchit une frontière, et surtout vers un pays voisin."
+    },
+    {
+      "objection": "Ça ne sert à rien de lutter contre le climat.",
+      "reponse": "Selon la Banque mondiale, une action rapide pourrait réduire ces migrations jusqu'à 80 %."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les 216 millions de la Banque mondiale sont des migrations internes ?",
+    "Quelle est la meilleure façon de limiter les déplacements dus au climat ?"
+  ],
+  "limites": [
+    "Les projections Groundswell datent de 2021 et dépendent des scénarios retenus.",
+    "Aucune source primaire du GIEC n'a été lue pour cette fiche."
+  ],
+  "sources": [
+    {
+      "titre": "D'ici à 2050, le changement climatique risque de contraindre 216 millions de personnes à migrer à l'intérieur de leur pays (rapport Groundswell)",
+      "organisme": "Banque mondiale",
+      "date_publication": "13 septembre 2021",
+      "url": "https://www.banquemondiale.org/fr/news/press-release/2021/09/13/climate-change-could-force-216-million-people-to-migrate-within-their-own-countries-by-2050",
+      "passage": "Le changement climatique pourrait contraindre « quelque 216 millions de personnes dans le monde en développement à migrer à l'intérieur de leur pays » d'ici 2050 : jusqu'à 86 millions en Afrique subsaharienne, 49 en Asie de l'Est-Pacifique, 40 en Asie du Sud, 19 en Afrique du Nord, 17 en Amérique latine, 5 en Europe de l'Est-Asie centrale. Une réduction allant jusqu'à 80 % est possible avec une action rapide de réduction des émissions.",
+      "pertinence": "Institution internationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport mondial sur le déplacement interne 2026 (synthèse)",
+      "organisme": "Observatoire des situations de déplacement interne (IDMC)",
+      "date_publication": "2026",
+      "url": "https://api.internal-displacement.org/sites/default/files/publications/documents/2026-idmc-grid-2026-global-report-on-internal-displacement-summary-report-french.pdf",
+      "passage": "82,2 millions de déplacés internes fin 2025, « première baisse enregistrée en dix ans » ; 29,9 millions de déplacements liés aux catastrophes en 2025 (−35 % sur un an) ; 13,6 millions de personnes vivaient en déplacement lié à une catastrophe fin 2025.",
+      "pertinence": "Organisme de référence sur les déplacements.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Figures at a glance",
+      "organisme": "Haut-Commissariat des Nations unies pour les réfugiés (HCR)",
+      "date_publication": "mis à jour le 4 novembre 2025",
+      "url": "https://www.unhcr.org/about-unhcr/who-we-are/figures-glance",
+      "passage": "Mi-2025, « 117.3 million people had been forced to flee », dont 67,8 millions à l'intérieur de leur pays ; « 66 per cent » des réfugiés sont accueillis dans des pays voisins et les pays à revenu faible ou intermédiaire accueillent 71 % des réfugiés du monde.",
+      "pertinence": "Agence des Nations unies.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "'Where conflict, poverty and climate collide': Number of internally displaced people tops 80 million",
+      "organisme": "Euronews (Lottie Limb)",
+      "date_publication": "15 mai 2025",
+      "url": "https://www.euronews.com/2025/05/15/where-conflict-poverty-and-climate-collide-number-of-internally-displaced-people-tops-80-m",
+      "passage": "Selon l'IDMC, 45,8 millions de déplacements liés aux catastrophes ont été enregistrés en 2024, un record ; ces chiffres comptent des mouvements, dont des évacuations, et non des personnes. Les États-Unis en comptent 11 millions.",
+      "pertinence": "Média européen.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rapport annuel de l'IDMC.",
+  "objections_legitimes": [
+    "Les déplacements liés aux catastrophes ont atteint un record en 2024 (45,8 millions de mouvements).",
+    "Une partie des migrations internes peut, à terme, devenir internationale."
+  ],
+  "publics": {
+    "convaincus": "Les 216 millions dont on parle, ce sont des gens qui migreraient à l'intérieur de leur propre pays, selon la Banque mondiale elle-même. Aujourd'hui, deux réfugiés sur trois restent dans un pays voisin. Et si tu veux vraiment limiter ces migrations, le moyen le plus efficace, c'est de réduire les émissions : jusqu'à 80 % de déplacements en moins.",
+    "indecis": "Le changement climatique va pousser des millions de personnes à se déplacer, c'est une vraie inquiétude. Mais l'essentiel restera à l'intérieur des pays ou dans les régions voisines. Réduire les émissions et aider les pays exposés à s'adapter, c'est ce qui limite le plus ces déplacements."
+  },
+  "lecture": {
+    "valeurs": [
+      "internationalisme",
+      "solidarite"
+    ],
+    "mecanismes": "Un chiffre de migrations internes est transformé en menace d’invasion pour justifier la fermeture.",
+    "consequences": "Les populations les plus pauvres, qui ont le moins émis, subissent le plus les effets du climat.",
+    "democratie": "La justice climatique engage la responsabilité des pays qui ont le plus émis.",
+    "propositions": [
+      "Réduire rapidement les émissions pour limiter les déplacements futurs.",
+      "Financer l’adaptation des pays les plus exposés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les déplacements liés aux catastrophes atteignent des niveaux records.",
+        "integration": "Le reconnaître, en précisant qu’ils restent surtout internes."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "climat_migrations",
+      "label": "Migrations climatiques"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "justice",
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation",
+    "racines"
+  ],
+  "concepts": [
+    "immigration",
+    "justice",
+    "identite",
+    "europe",
+    "ecologie",
+    "climat_origine",
+    "climat_migrations"
+  ]
+}

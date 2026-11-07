@@ -121,6 +121,10 @@
   "synonymes": [
     "nucleaire"
   ],
+  "publics": {
+    "convaincus": "Le nucléaire fait bien l'essentiel, 68 % en 2025. Mais les renouvelables produisent plus d'un quart de notre électricité, hydraulique en tête : sans eux, pas de record de 95 % d'électricité bas carbone. Les deux se complètent, et c'est ce qui permet à la France d'exporter un record d'électricité.",
+    "indecis": "La France produit une électricité très peu carbonée, grâce au nucléaire (68 %) mais aussi aux barrages, à l'éolien et au solaire, qui fournissent plus d'un quart du total. Opposer les deux n'a pas beaucoup de sens : c'est leur combinaison qui donne une électricité propre."
+  },
   "concepts": [
     "ecologie",
     "eolien"

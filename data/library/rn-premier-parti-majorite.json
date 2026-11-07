@@ -1,0 +1,175 @@
+{
+  "id": "rn-premier-parti-majorite",
+  "type": "idee_recue",
+  "affirmation": "Le RN est le premier parti de France, il représente la majorité des Français.",
+  "volet": "politique",
+  "sous_theme": "Rassemblement national",
+  "rubriques": [],
+  "mots_cles": [
+    "premier parti de france",
+    "rn majorite des francais",
+    "majorite des francais",
+    "rn premier parti",
+    "resultats legislatives 2024",
+    "resultats europeennes 2024",
+    "le peuple vote rn",
+    "11 millions de voix"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le RN est bien arrivé premier en voix aux européennes et aux législatives de 2024, avec un record de 10,6 millions de voix au premier tour des législatives. Mais il n'a jamais dépassé environ 37 % des suffrages exprimés, soit bien moins de la moitié des électeurs, et il n'a obtenu que 143 sièges sur 577 avec ses alliés.",
+  "contexte": "Le slogan sert à dire que le RN serait illégitimement écarté du pouvoir.",
+  "explication": "Être le premier parti en voix ne veut pas dire avoir la majorité : il faut plus de la moitié des suffrages, ou des sièges, pour gouverner seul. Les pourcentages sont calculés sur les suffrages exprimés ; rapportés aux inscrits, ils sont nettement plus faibles.",
+  "faits": [
+    {
+      "fait": "Au premier tour des législatives de 2024, le RN et ses alliés ont obtenu 10 628 330 voix, un record, contre 4 248 537 en 2022.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le RN est bien le premier parti en voix.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "10,6 millions"
+    },
+    {
+      "fait": "Selon Maire-info, au second tour, le RN et ses alliés ont obtenu environ 37 % des voix et 143 sièges sur 577, dont 88 pour le RN seul.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Même au plus haut, ce n'est pas une majorité.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "143 sièges"
+    },
+    {
+      "fait": "Le corps électoral du premier tour comptait environ 49 millions d'inscrits : 10,6 millions de voix représentent environ 22 % des inscrits (calcul à partir des chiffres lus).",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Près de quatre inscrits sur cinq n'ont pas voté pour le RN.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "environ 22 %"
+    },
+    {
+      "fait": "Aux européennes de 2024, le RN est arrivé en tête dans 32 613 communes sur 35 015 avec un peu plus de 31 % des exprimés, pour 48,17 % d'abstention.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Premier partout, mais avec moins d'un tiers des votants.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "31 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : le RN est bien premier en voix en 2024 (10,6 millions au premier tour des législatives), mais avec au plus 37 % des exprimés, environ un inscrit sur cinq, et 143 sièges sur 577. Premier ne veut pas dire majoritaire.",
+    "moyen": "Le RN a bien progressé de façon spectaculaire : 10,6 millions de voix au premier tour des législatives de 2024, un record, et premier dans 9 communes sur 10 aux européennes.\n\nMais il n'a jamais eu la majorité : au mieux 37 % des suffrages exprimés, et 143 sièges sur 577 avec ses alliés. Rapporté aux inscrits, c'est environ un électeur sur cinq. La majorité des Français a voté pour d'autres partis ou ne s'est pas exprimée.",
+    "detaille": "Les résultats de 2024 sont nets : aux européennes, la liste de Jordan Bardella arrive en tête avec un peu plus de 31 % des exprimés et dans 32 613 communes sur 35 015 ; au premier tour des législatives, le RN et ses alliés rassemblent 10 628 330 voix, plus du double de 2022.\n\nMais aucune de ces élections ne lui donne une majorité. Au second tour des législatives, le RN et ses alliés obtiennent environ 37 % des voix et 143 sièges ; le Nouveau Front populaire, avec environ 25,7 % des voix, obtient 182 sièges. Les désistements entre partis ont pesé, ce qui fait partie des règles du scrutin majoritaire.\n\nRapporté aux quelque 49 millions d'inscrits du premier tour, le vote RN représente environ 22 % des électeurs. Être le premier parti donne un poids réel ; parler au nom de « la majorité des Français » est une autre affaire.",
+    "empathie": "Je comprends que tu trouves injuste que le parti arrivé en tête ne gouverne pas. Mais arriver premier avec un tiers des voix, ce n'est pas avoir la majorité."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le système électoral nous vole la victoire.",
+      "reponse": "Avec la proportionnelle, que le RN défend, il aurait environ un tiers des sièges : pas davantage de majorité."
+    },
+    {
+      "objection": "Les abstentionnistes pensent comme nous.",
+      "reponse": "Rien ne permet de l'affirmer : on ne peut pas faire parler les abstentionnistes."
+    }
+  ],
+  "questions": [
+    "Quelle part des inscrits a voté RN au premier tour des législatives 2024 ?",
+    "Combien de sièges faut-il pour avoir la majorité à l'Assemblée ?"
+  ],
+  "limites": [
+    "Le score exact du RN aux européennes 2024 diffère légèrement entre les sources lues (31,37 % ou 31,47 %) ; il faudrait le vérifier sur le site du ministère de l'Intérieur.",
+    "La part des inscrits est un calcul approximatif ; les élections postérieures à juillet 2024 n'ont pas été examinées."
+  ],
+  "sources": [
+    {
+      "titre": "Législatives 2024 : le RN enregistre son plus fort total de voix au premier tour d'une élection",
+      "organisme": "Public Sénat (Henri Clavier)",
+      "date_publication": "1er juillet 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/legislatives-2024-le-rn-enregistre-son-plus-fort-total-de-voix-au-premier-tour-dune-election",
+      "passage": "Au premier tour, le RN et ses alliés obtiennent 10 628 330 voix, contre 4 248 537 en 2022. La participation atteint 66,71 %. Aux européennes de 2024, la liste Bardella avait obtenu 7 765 936 voix.",
+      "pertinence": "Média parlementaire (chiffres du ministère de l'Intérieur).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Second tour des législatives : un résultat en trompe-l'œil ?",
+      "organisme": "Maire-info (Franck Lemarc)",
+      "date_publication": "8 juillet 2024",
+      "url": "https://www.maire-info.com/second-tour-des-legislatives-un-resultat-en-trompe-loeil-article2-28795",
+      "passage": "Au second tour, le RN et ses alliés obtiennent environ 10 millions de voix, soit 37 %, et 143 sièges (88 pour le RN seul) ; le NFP environ 7 millions (25,7 %) et 182 sièges ; Ensemble environ 6,3 millions (23,4 %). Le corps électoral du second tour est de 43,3 millions d'inscrits, contre 49 millions au premier.",
+      "pertinence": "Quotidien des élus locaux.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Carte des résultats des européennes : le Rassemblement national en tête dans plus de 90 % des communes",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "10 juin 2024",
+      "url": "https://lcp.fr/actualites/carte-des-resultats-des-europeennes-le-rassemblement-national-en-tete-dans-plus-de-90",
+      "passage": "Le RN arrive en tête dans 32 613 communes sur 35 015, avec un peu plus de 31 % des suffrages exprimés (chiffres du ministère de l'Intérieur). L'abstention est de 48,17 %.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Élections présidentielle et législatives de 2027.",
+  "objections_legitimes": [
+    "Le RN est le premier parti en voix en 2024 et, seul, le premier groupe face à chaque parti isolé.",
+    "Les désistements du second tour ont réduit son nombre de sièges."
+  ],
+  "publics": {
+    "convaincus": "Le RN est bien premier en voix, et c'est un fait politique majeur. Mais 37 % des voix au mieux, c'est loin de la majorité, et rapporté aux inscrits c'est environ un électeur sur cinq. Parler au nom de tous les Français, c'est oublier les deux tiers qui ont voté autrement.",
+    "indecis": "Le RN a beaucoup progressé et il est arrivé premier en 2024 : il faut le prendre au sérieux. Mais être premier n'est pas être majoritaire : 143 sièges sur 577 avec ses alliés. Les autres électeurs se sont répartis entre plusieurs partis, ou se sont abstenus."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie"
+    ],
+    "mecanismes": "Confondre première place et majorité permet de présenter toute opposition comme un déni de démocratie.",
+    "consequences": "Les électeurs qui ont voté autrement, ou se sont abstenus, se trouvent effacés du récit.",
+    "democratie": "La démocratie repose sur la majorité et sur le respect des minorités, pas sur la seule première place.",
+    "propositions": [
+      "Lutter contre l’abstention, notamment chez les jeunes et dans les quartiers populaires.",
+      "Débattre d’un mode de scrutin qui reflète mieux les votes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le RN est le premier parti en voix en 2024, avec un record historique.",
+        "integration": "Le reconnaître clairement, et rappeler qu’il reste loin d’une majorité."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "premier_parti",
+      "label": "Premier parti et majorité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "bruxelles",
+    "union europeenne",
+    "front national",
+    "fn",
+    "rn",
+    "rassemblement national",
+    "le pen"
+  ],
+  "concepts": [
+    "patriotisme",
+    "europe",
+    "fn_parti",
+    "nfp_2024",
+    "premier_parti"
+  ]
+}

@@ -161,9 +161,6 @@
       }
     ]
   },
-  "concepts": [
-    "syndicats"
-  ],
   "repond_a": [
     {
       "id": "greves_record",
@@ -176,5 +173,8 @@
     "cfdt",
     "force ouvriere",
     "droit de greve"
+  ],
+  "concepts": [
+    "syndicats"
   ]
 }

@@ -166,15 +166,6 @@
       }
     ]
   },
-  "concepts": [
-    "justice",
-    "fiscalite",
-    "riches_entreprises",
-    "pauvrete",
-    "gauche",
-    "ecologie",
-    "ecologie_sociale"
-  ],
   "repond_a": [
     {
       "id": "ecologie_sociale",
@@ -195,5 +186,14 @@
     "misere",
     "coutent trop cher",
     "gauche"
+  ],
+  "concepts": [
+    "justice",
+    "fiscalite",
+    "riches_entreprises",
+    "pauvrete",
+    "gauche",
+    "ecologie",
+    "ecologie_sociale"
   ]
 }

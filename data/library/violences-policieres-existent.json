@@ -1,0 +1,194 @@
+{
+  "id": "violences-policieres-existent",
+  "type": "idee_recue",
+  "affirmation": "Les violences policières n'existent pas.",
+  "volet": "securite",
+  "sous_theme": "Police et gendarmerie",
+  "rubriques": [],
+  "mots_cles": [
+    "violences policieres",
+    "violence policiere",
+    "igpn",
+    "bavure",
+    "police violente",
+    "controle au facies",
+    "usage de la force",
+    "police tue"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les données officielles établissent des cas d'usage illégitime ou disproportionné de la force : en 2024, l'IGPN a retenu un « usage disproportionné de la force » contre 37 policiers, et 47 personnes sont mortes lors de missions de police ou de gendarmerie (toutes causes). La CEDH a condamné la France en 2025 pour violation du droit à la vie (arrêt Fraisse et autres c. France). Les forces de l'ordre subissent aussi beaucoup de violences.",
+  "contexte": "Le terme est contesté par des responsables politiques et des syndicats de police, qui y voient une mise en cause de toute la profession.",
+  "explication": "Parler de violences policières ne revient pas à accuser tous les policiers : cela désigne les cas où l'usage de la force n'est pas nécessaire ou proportionné. L'IGPN, le Défenseur des droits et la justice sont chargés de les examiner.",
+  "faits": [
+    {
+      "fait": "L'IGPN a été saisie de 914 enquêtes judiciaires en 2024, dont 428 (45 %) portent sur l'usage de la force.",
+      "periode": "2024",
+      "perimetre": "Police nationale",
+      "explication": "Les plaintes pour violences sont nombreuses.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "914"
+    },
+    {
+      "fait": "En 2024, le manquement d'« usage disproportionné de la force » a été retenu contre 37 agents.",
+      "periode": "2024",
+      "perimetre": "Police nationale",
+      "explication": "L'institution elle-même reconnaît des violences illégitimes.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "37 agents"
+    },
+    {
+      "fait": "En 2024, 47 personnes sont décédées et 68 ont été gravement blessées lors de missions de police ou de gendarmerie, toutes causes confondues.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les interventions ont des conséquences graves, à examiner au cas par cas.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "47 décès"
+    },
+    {
+      "fait": "Selon le Défenseur des droits, les jeunes hommes perçus comme noirs, arabes ou maghrébins ont « 4 fois plus de risque » d'être contrôlés, et près d'une personne contrôlée sur cinq déclare avoir été tutoyée, provoquée, insultée ou brutalisée.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les abus touchent plus certaines populations.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "4 fois plus"
+    },
+    {
+      "fait": "Selon Le Club des juristes, en 2025, la Cour européenne des droits de l'homme a condamné la France pour violation du droit à la vie, après la mort d'un manifestant tué par une grenade (arrêt Fraisse et autres c. France).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une juridiction internationale a reconnu une faute de l'État.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : en 2024, l'IGPN a retenu un usage disproportionné de la force contre 37 policiers, 47 personnes sont mortes lors d'interventions (toutes causes), et la CEDH a condamné la France en 2025 pour violation du droit à la vie. Les policiers subissent aussi des violences.",
+    "moyen": "Les institutions elles-mêmes reconnaissent des violences illégitimes : en 2024, l'IGPN a retenu un usage disproportionné de la force contre 37 agents. La même année, 47 personnes sont mortes lors d'interventions de police ou de gendarmerie, et la France a été condamnée par la Cour européenne des droits de l'homme pour violation du droit à la vie.\n\nCela ne veut pas dire que tous les policiers sont violents, et les forces de l'ordre subissent elles-mêmes de nombreuses agressions. Mais nier les abus empêche de les corriger.",
+    "detaille": "Selon son rapport annuel, l'IGPN a été saisie de 914 enquêtes judiciaires en 2024, dont 45 % portent sur l'usage de la force, et elle a retenu un « usage disproportionné de la force » contre 37 agents. Selon le ministère de l'Intérieur, 47 personnes sont décédées et 68 ont été gravement blessées lors de missions de police ou de gendarmerie en 2024, toutes causes confondues : ces chiffres ne sont pas tous des violences, mais ils justifient un contrôle.\n\nLe Défenseur des droits documente aussi des abus lors des contrôles : près d'une personne contrôlée sur cinq déclare avoir été tutoyée, provoquée, insultée ou brutalisée, et les jeunes hommes perçus comme noirs ou arabes sont quatre fois plus contrôlés. En 2025, la CEDH a jugé que la France avait violé le droit à la vie après la mort d'un manifestant tué par une grenade, faute d'un cadre suffisamment précis pour son usage.\n\nLes forces de l'ordre sont elles aussi exposées : 5 463 gendarmes ont subi des agressions physiques en 2024. Reconnaître les violences policières, c'est défendre une police respectée, pas l'attaquer.",
+    "empathie": "Je comprends que tu veuilles défendre les policiers, qui font un métier dur et sont souvent agressés. Mais reconnaître qu'il y a des abus, c'est aussi protéger les policiers qui font bien leur travail."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ce sont des cas isolés.",
+      "reponse": "37 agents sanctionnés pour usage disproportionné en une seule année, et une condamnation par la CEDH : ce sont des faits reconnus par les institutions."
+    },
+    {
+      "objection": "Parler de violences policières, c'est être contre la police.",
+      "reponse": "Les chiffres viennent de l'IGPN et du ministère de l'Intérieur eux-mêmes."
+    }
+  ],
+  "questions": [
+    "Savais-tu que l'IGPN elle-même a retenu un usage disproportionné de la force contre 37 policiers en 2024 ?",
+    "Comment une police peut-elle garder la confiance si les abus ne sont pas reconnus ?"
+  ],
+  "limites": [
+    "Aucune donnée sur les condamnations pénales de policiers pour violences n'a été trouvée.",
+    "Les 47 décès comptent toutes les causes ; aucune statistique officielle sur les policiers blessés en 2024 n'a été lue."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport annuel 2024 de l'Inspection générale de la police nationale",
+      "organisme": "IGPN (hébergé par Vie publique)",
+      "date_publication": "2025",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/300479.pdf",
+      "passage": "« L'IGPN a été saisie de 914 enquêtes judiciaires en 2024 » (943 en 2023), dont 428 portent sur l'usage de la force (45 %). Le manquement d'« usage disproportionné de la force » a été retenu contre 37 agents dans 21 enquêtes administratives. Dans 12 procédures relatives à des tirs, la justice a conclu à la légitimité de l'usage de l'arme.",
+      "pertinence": "Rapport d'une inspection officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 8872 et réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale",
+      "date_publication": "16 décembre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE8872.pdf",
+      "passage": "En 2024, 115 décès ou blessures graves ont été déclarés lors de missions de police ou de gendarmerie, dont 47 personnes décédées (36 en 2023) et 68 gravement blessées ; 1 063 signalements à l'IGPN portent sur des violences. La même année, 5 463 gendarmes ont subi des agressions physiques, « dont 2428 avec arme ».",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Relations police/population : contrôles d'identité et dépôts de plainte (enquête Accès aux droits 2024)",
+      "organisme": "Défenseur des droits",
+      "date_publication": "juin 2025",
+      "url": "https://www.defenseurdesdroits.fr/sites/default/files/2025-06/DDD-EAD-2024_volume1_DP.pdf",
+      "passage": "26 % des personnes ont été contrôlées au moins une fois en cinq ans (16 % en 2016). Les jeunes hommes perçus comme noirs, arabes ou maghrébins ont « 4 fois plus de risque » d'être contrôlés et 12 fois plus de subir un contrôle poussé. « Près d'1 personne contrôlée sur 5 déclare avoir été tutoyée, provoquée, insultée ou brutalisée. » Échantillon : 5 030 personnes.",
+      "pertinence": "Enquête d'une autorité administrative indépendante.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mort de Rémi Fraisse : la CEDH condamne la France pour violation du droit à la vie",
+      "organisme": "Le Club des juristes",
+      "date_publication": "27 février 2025",
+      "url": "https://www.leclubdesjuristes.com/en-bref/mort-de-remi-fraisse-la-cedh-condamne-la-france-pour-violation-du-droit-a-la-vie-9512/",
+      "passage": "Dans l'arrêt Fraisse et autres c. France du 27 février 2025, la Cour européenne des droits de l'homme constate une violation du droit à la vie dans son volet matériel : Rémi Fraisse est décédé de l'explosion d'une grenade OF-F1, une arme de dispersion à effet de souffle utilisée lors d'une opération de maintien de l'ordre, et la Cour juge que le cadre réglementaire de son usage n'était ni complet ni suffisamment précis. Pas de violation du volet procédural ; 37 600 € sont alloués à la famille.",
+      "pertinence": "Revue juridique commentant un arrêt de la CEDH.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Rapport annuel 2025 de l'IGPN.",
+  "objections_legitimes": [
+    "Les forces de l'ordre subissent beaucoup de violences : 5 463 gendarmes agressés physiquement en 2024.",
+    "Dans 12 procédures relatives à des tirs en 2024, la justice a conclu à la légitimité de l'usage de l'arme.",
+    "Les 47 décès comptent toutes les causes et ne sont pas tous imputables à des violences."
+  ],
+  "publics": {
+    "convaincus": "Ce n'est pas la gauche qui le dit, c'est l'IGPN elle-même : usage disproportionné de la force retenu contre 37 policiers en 2024. Et la Cour européenne a condamné la France pour violation du droit à la vie après la mort d'un manifestant. Reconnaître les abus, c'est protéger la majorité des policiers qui font bien leur travail.",
+    "indecis": "Les policiers font un métier difficile et sont eux-mêmes souvent agressés. Mais les institutions reconnaissent des abus : sanctions de l'IGPN, contrôles discriminatoires documentés par le Défenseur des droits, condamnation de la CEDH. Les deux réalités existent."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "antiracisme",
+      "dignite"
+    ],
+    "mecanismes": "Nier les violences policières protège les abus et expose l’ensemble des policiers à la défiance.",
+    "consequences": "Des personnes sont blessées ou tuées, et certaines populations subissent davantage de contrôles abusifs.",
+    "democratie": "Une police républicaine doit être contrôlée par des instances indépendantes.",
+    "propositions": [
+      "Créer un organe de contrôle de la police indépendant du ministère de l’Intérieur.",
+      "Instaurer un récépissé lors des contrôles d’identité."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les forces de l’ordre subissent elles-mêmes de nombreuses agressions.",
+        "integration": "Le dire, et défendre à la fois la protection des policiers et le contrôle des abus."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "violences_policieres",
+      "label": "Violences policières"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "testing",
+    "racisme",
+    "nom a consonance",
+    "igpn"
+  ],
+  "concepts": [
+    "delinquance",
+    "discrimination",
+    "violences_policieres"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "proportionnelle-ingouvernable",
+  "type": "idee_recue",
+  "affirmation": "La proportionnelle rendrait la France ingouvernable.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "proportionnelle",
+    "scrutin proportionnel",
+    "mode de scrutin",
+    "ingouvernable",
+    "instabilite gouvernementale",
+    "quatrieme republique",
+    "legislatives 1986",
+    "coalition"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "En 1986, les législatives à la proportionnelle ont donné une majorité absolue, certes de deux voix, et un gouvernement qui a tenu jusqu'en 1988. Depuis 2022, c'est sous le scrutin majoritaire que la France a connu une forte instabilité. La crainte s'appuie sur l'histoire de la IVe République, mais la stabilité dépend surtout de la capacité des partis à gouverner ensemble.",
+  "contexte": "Le débat est revenu après la dissolution de 2024 et les gouvernements successifs ; le RN, LFI, le MoDem et les écologistes sont favorables à la proportionnelle, LR et Horizons opposés.",
+  "explication": "Avec la proportionnelle, chaque parti obtient un nombre de sièges proche de sa part de voix ; une majorité suppose alors souvent une coalition. Avec le scrutin majoritaire, le premier arrivé peut obtenir beaucoup plus de sièges que sa part de voix, mais ce n'est plus garanti quand trois blocs se partagent l'électorat.",
+  "faits": [
+    {
+      "fait": "Aux législatives de 1986, élues à la proportionnelle, « la droite obtient la majorité absolue » et Jacques Chirac gouverne jusqu'en 1988.",
+      "periode": "1986-1988",
+      "perimetre": "France",
+      "explication": "La proportionnelle n'a pas empêché une majorité.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l’encyclopédie Larousse, cette majorité ne tenait qu'à deux voix, grâce aux divers droite.",
+      "periode": "1986",
+      "perimetre": "France",
+      "explication": "La majorité était fragile.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2 voix"
+    },
+    {
+      "fait": "Selon Le Grand Continent, les gouvernements ont duré en moyenne 609 jours pendant le premier mandat d'Emmanuel Macron, contre 303 jours depuis le début du second, sous scrutin majoritaire.",
+      "periode": "2017-2025",
+      "perimetre": "France",
+      "explication": "Le scrutin majoritaire ne garantit plus la stabilité.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "303 jours"
+    },
+    {
+      "fait": "D'après le Pew Research Center, les gouvernements des régimes parlementaires de l'UE durent environ deux ans en moyenne, mais plus de quatre ans au Luxembourg et moins d'un an en Belgique, en Finlande ou en Italie.",
+      "periode": "1945-2022",
+      "perimetre": "Union européenne",
+      "explication": "Les situations sont très variables selon les pays.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "2 ans"
+    },
+    {
+      "fait": "Selon La Vie des idées, Sous la IVe République, les gouvernements duraient en moyenne environ douze mois, contre près de vingt sous la Ve.",
+      "periode": "1946-2025",
+      "perimetre": "France",
+      "explication": "L'instabilité de la IVe République est réelle.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "12 mois"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : en 1986, la proportionnelle a donné une majorité absolue et un gouvernement qui a tenu deux ans. Et depuis 2022, c'est sous le scrutin majoritaire que les gouvernements tombent : 303 jours en moyenne. La stabilité dépend surtout de la capacité des partis à s'entendre.",
+    "moyen": "La proportionnelle a déjà été utilisée en 1986 : la droite a obtenu une majorité absolue, étroite, et Jacques Chirac a gouverné jusqu'en 1988. Ce n'était donc pas le chaos.\n\nÀ l'inverse, le scrutin majoritaire actuel n'a pas empêché l'instabilité depuis 2022 : les gouvernements du second mandat d'Emmanuel Macron ont duré en moyenne 303 jours. En Europe, certains pays à la proportionnelle ont des gouvernements très stables, d'autres non : le mode de scrutin n'explique pas tout.",
+    "detaille": "Le souvenir de la IVe République pèse : ses gouvernements duraient en moyenne une douzaine de mois. Mais l'expérience de 1986, seule élection de la Ve République à la proportionnelle, a donné une majorité absolue à la droite, avec deux voix d'avance, et un gouvernement qui a duré jusqu'en 1988.\n\nDepuis 2022, le scrutin majoritaire produit une Assemblée sans majorité : les gouvernements ont duré en moyenne 303 jours, contre 609 sous le premier mandat. Avec trois grands blocs, le scrutin majoritaire ne fabrique plus automatiquement de majorité, et il crée le plus grand écart d'Europe entre la part de voix et la part de sièges, selon deux politistes.\n\nEn Europe, la durée des gouvernements varie beaucoup : plus de quatre ans au Luxembourg, moins d'un an en Belgique ou en Italie. La différence tient aussi à la culture de coalition : les partis français, notent les chercheurs, « n'ont jamais vraiment appris à gouverner ensemble ».",
+    "empathie": "Je comprends qu'après des mois de crises gouvernementales, on ait peur de compliquer encore les choses. Mais regarde : l'instabilité actuelle s'est produite avec le scrutin majoritaire, pas avec la proportionnelle."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La IVe République prouve que la proportionnelle mène au chaos.",
+      "reponse": "L'instabilité de la IVe République avait aussi d'autres causes (guerres coloniales, institutions) ; en 1986, la proportionnelle a donné une majorité."
+    },
+    {
+      "objection": "Avec la proportionnelle, le RN aurait plus de sièges.",
+      "reponse": "C'est possible : la proportionnelle donne à chaque parti des sièges proches de ses voix, ce qui vaut pour tous les partis."
+    }
+  ],
+  "questions": [
+    "Sais-tu quel mode de scrutin était en vigueur pendant les crises gouvernementales de 2024-2025 ?",
+    "Pourquoi certains pays à la proportionnelle sont-ils très stables et d'autres non ?"
+  ],
+  "limites": [
+    "Aucune source lue n'établit de lien statistique direct entre proportionnelle et durée des gouvernements en Europe.",
+    "La source universitaire principale plaide pour la proportionnelle ; les débats postérieurs à avril 2025 n'ont pas été vérifiés."
+  ],
+  "sources": [
+    {
+      "titre": "Jacques Chirac (1986-1988)",
+      "organisme": "info.gouv.fr (Gouvernement)",
+      "date_publication": "non daté",
+      "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/jacques-chirac-1986-1988",
+      "passage": "Le résultat des législatives est acquis au soir du 16 mars 1986 : « la droite obtient la majorité absolue ». C'est la première cohabitation ; l'Assemblée adopte ensuite « le retour au scrutin majoritaire pour les prochaines législatives ».",
+      "pertinence": "Site du gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les élections 1986 : les résultats, conséquences et perspectives",
+      "organisme": "Larousse, Journal de l'année (édition 1987)",
+      "date_publication": "1987",
+      "url": "https://www.larousse.fr/archives/journaux_annee/1987/24/les_elections_1986",
+      "passage": "Les vainqueurs disposent de « deux voix de majorité grâce à l'apport des divers droite » ; les listes FN totalisent 9,85 % des suffrages exprimés.",
+      "pertinence": "Ouvrage de référence (1987).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La proportionnelle : une urgence démocratique",
+      "organisme": "La Vie des idées (Emiliano Grossman, Isabelle Guinaudeau)",
+      "date_publication": "16 décembre 2025",
+      "url": "https://laviedesidees.fr/IMG/pdf/20251216_proportionnelle.pdf",
+      "passage": "La durée moyenne des gouvernements est d'« environ douze mois sous la IVe République » contre « près de vingt sous la Ve ». La France a « l'écart moyen le plus élevé d'Europe entre part de voix et part de sièges ». « Les partis français n'ont jamais vraiment appris à gouverner ensemble. »",
+      "pertinence": "Analyse de politistes, favorable à la proportionnelle.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Le gouvernement Lecornu est-il le plus court de l'histoire européenne ?",
+      "organisme": "Le Grand Continent (Marin Saillofest)",
+      "date_publication": "7 octobre 2025",
+      "url": "https://legrandcontinent.eu/fr/2025/10/07/le-gouvernement-lecornu-est-il-le-le-plus-court-de-lhistoire-europeenne/",
+      "passage": "Les gouvernements ont duré en moyenne 609 jours pendant le premier mandat d'Emmanuel Macron, contre 303 jours depuis le début du second. D'après le Pew Research Center (2023), les gouvernements des régimes parlementaires de l'UE durent environ deux ans en moyenne ; la durée médiane est de quatre ans et demi au Luxembourg et de moins d'un an en Belgique, en Finlande et en Italie.",
+      "pertinence": "Revue d'analyse géopolitique.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Proportionnelle aux législatives : François Bayrou consulte, les avis divergent",
+      "organisme": "LCP (Anne-Charlotte Dusseaulx)",
+      "date_publication": "30 avril 2025",
+      "url": "https://lcp.fr/actualites/proportionnelle-aux-legislatives-francois-bayrou-consulte-les-avis-divergent-sur-le",
+      "passage": "Marine Le Pen juge le scrutin de 1986 « un moindre mal » ; Manuel Bompard (LFI) se dit favorable à « un scrutin réellement proportionnel ». Laurent Wauquiez prévient que « la proportionnelle aboutira à ce qu'on institutionnalise le chaos politique ». MoDem et écologistes sont favorables, le PS divisé, Horizons opposé.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Débats sur une réforme du mode de scrutin.",
+  "objections_legitimes": [
+    "La IVe République, élue à la proportionnelle, a été très instable.",
+    "Plusieurs pays européens à la proportionnelle ont des gouvernements qui durent moins d'un an.",
+    "La majorité de 1986 ne tenait qu'à deux voix."
+  ],
+  "publics": {
+    "convaincus": "Ton propre parti, le RN, défend la proportionnelle, et Marine Le Pen juge le scrutin de 1986 « un moindre mal ». En 1986, elle a d'ailleurs donné une majorité. Et l'instabilité de 2024-2025, c'est le scrutin majoritaire qui l'a produite.",
+    "indecis": "La peur de l'instabilité est compréhensible, et la IVe République a été instable. Mais en 1986, la proportionnelle a produit une majorité, et depuis 2022 le scrutin majoritaire n'en produit plus. Tout dépend de la capacité des partis à négocier entre eux."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "egalite"
+    ],
+    "mecanismes": "La peur de l’instabilité sert à défendre un mode de scrutin qui donne à certains partis bien plus de sièges que de voix.",
+    "consequences": "Des millions d’électeurs se sentent non représentés, ce qui nourrit l’abstention et la défiance.",
+    "democratie": "Une Assemblée qui reflète mieux les votes oblige les partis à négocier publiquement des compromis.",
+    "propositions": [
+      "Instaurer un scrutin proportionnel pour les législatives.",
+      "Développer une culture de coalition fondée sur des accords de programme publics."
+    ],
+    "defavorables": [
+      {
+        "fait": "La IVe République, élue à la proportionnelle, a été très instable.",
+        "integration": "Le dire, et rappeler que l’instabilité actuelle s’est produite sous le scrutin majoritaire."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "proportionnelle",
+      "label": "Proportionnelle et stabilité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "proportionnelle",
+    "scrutin proportionnel",
+    "mode de scrutin",
+    "ingouvernable"
+  ],
+  "concepts": [
+    "proportionnelle"
+  ]
+}

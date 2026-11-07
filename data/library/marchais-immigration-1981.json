@@ -151,12 +151,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "islam",
-    "gauche",
-    "mosquee"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -172,5 +166,11 @@
     "burkini",
     "ramadan",
     "gauche"
+  ],
+  "concepts": [
+    "immigration",
+    "islam",
+    "gauche",
+    "mosquee"
   ]
 }

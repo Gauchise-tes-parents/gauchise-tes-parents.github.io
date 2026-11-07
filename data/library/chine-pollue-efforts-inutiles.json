@@ -1,0 +1,196 @@
+{
+  "id": "chine-pollue-efforts-inutiles",
+  "type": "idee_recue",
+  "affirmation": "La Chine pollue bien plus que nous, nos efforts pour le climat ne servent à rien.",
+  "volet": "ecologie",
+  "sous_theme": "Émissions de gaz à effet de serre",
+  "rubriques": [],
+  "mots_cles": [
+    "la chine pollue",
+    "chine pollue plus",
+    "nos efforts ne servent a rien",
+    "chine co2",
+    "france 1 % des emissions",
+    "emissions chinoises",
+    "empreinte carbone",
+    "ca sert a rien l ecologie"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La Chine émet bien 32 % du CO2 fossile mondial, contre 6 % pour l'Union européenne. Mais l'empreinte carbone d'un Français (8,3 tonnes) est proche de celle d'un Chinois, et plus de la moitié vient de produits importés, souvent fabriqués en Chine. Les Européens ont émis par habitant trois fois plus que les Chinois depuis 1850, et 35 pays ont réduit leurs émissions tout en faisant croître leur économie.",
+  "contexte": "L'argument sert à rejeter les politiques climatiques françaises et européennes comme inutiles et coûteuses.",
+  "explication": "Les émissions « territoriales » comptent ce qui est émis sur le sol d'un pays ; l'« empreinte carbone » ajoute les émissions des produits importés et retire celles des exportations. Le climat dépend des émissions cumulées depuis le XIXe siècle.",
+  "faits": [
+    {
+      "fait": "Selon CSIRO / Global Carbon Project, en 2025, la Chine représente 32 % des émissions mondiales de CO2 fossile, les États-Unis 13 %, l'Inde 8 % et l'Union européenne 6 %.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "La Chine est de loin le premier émetteur annuel.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "32 %"
+    },
+    {
+      "fait": "L'empreinte carbone d'un Français est estimée à 8,3 t CO2 éq en 2025, légèrement inférieure à celle d'un Européen (9,0 t) et d'un Chinois ; 52 % provient d'émissions importées.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une partie des émissions chinoises sert à produire ce que nous consommons.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "8,3 t"
+    },
+    {
+      "fait": "Selon Carbon Brief, depuis 1850, les émissions cumulées par habitant sont de 227 t de CO2 en Chine, 682 t dans l'UE à 27 et 1 570 t aux États-Unis.",
+      "periode": "1850-2023",
+      "perimetre": "Monde",
+      "explication": "La responsabilité historique de l'Europe est bien plus forte par habitant.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "682 t contre 227 t"
+    },
+    {
+      "fait": "Selon Our World in Data, la France a émis 0,68 % du CO2 mondial en 2024, mais représente 2,17 % des émissions cumulées depuis 1751.",
+      "periode": "1751-2024",
+      "perimetre": "France",
+      "explication": "Notre part historique est trois fois plus élevée que notre part actuelle.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "0,68 %"
+    },
+    {
+      "fait": "Selon Global Carbon Budget, au cours de la dernière décennie, 35 pays ont nettement réduit leurs émissions fossiles tout en faisant croître leur économie.",
+      "periode": "2015-2025",
+      "perimetre": "Monde",
+      "explication": "Réduire ses émissions est possible sans s'appauvrir.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "35 pays"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la Chine émet 32 % du CO2 mondial, mais l'empreinte d'un Français (8,3 t) est proche de celle d'un Chinois, et plus de la moitié vient de nos importations. Depuis 1850, un Européen a émis trois fois plus qu'un Chinois.",
+    "moyen": "La Chine est bien le premier émetteur : 32 % du CO2 fossile mondial, contre 6 % pour l'Union européenne. Mais en comptant ce que nous importons, souvent fabriqué en Chine, l'empreinte d'un Français (8,3 tonnes) est proche de celle d'un Chinois.\n\nEt le climat dépend des émissions accumulées : depuis 1850, un Européen a émis en moyenne trois fois plus de CO2 qu'un Chinois. 35 pays ont réduit leurs émissions tout en continuant à s'enrichir : agir n'est pas inutile.",
+    "detaille": "Selon le Global Carbon Project, la Chine représente 32 % des émissions fossiles mondiales en 2025, et ses émissions augmentent encore légèrement (+0,4 % projeté). La France, elle, pèse 0,68 % des émissions mondiales.\n\nMais cette comparaison est trompeuse. D'abord, selon le ministère de la Transition écologique, l'empreinte carbone d'un Français, qui compte les produits importés, est de 8,3 t en 2025, légèrement inférieure à celle d'un Chinois ; 52 % de cette empreinte vient de l'étranger. Ensuite, le réchauffement dépend des émissions cumulées : depuis 1850, un habitant de l'UE a émis 682 t de CO2, contre 227 t pour un Chinois, et la France pèse 2,17 % des émissions cumulées depuis 1751.\n\nEnfin, 35 pays ont réduit leurs émissions en faisant croître leur économie. L'effort de chaque pays compte, parce que le total est la somme de tous ces efforts, et parce que les pays riches, qui ont le plus émis, ont les moyens d'agir les premiers.",
+    "empathie": "C'est vrai que nos efforts paraissent minuscules à côté des usines chinoises, et ça peut décourager. Mais une partie de ces usines fabrique ce que nous achetons, et nous avons émis bien plus qu'eux depuis 150 ans."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La France ne pèse que 1 %, ça ne change rien.",
+      "reponse": "Si chaque pays qui pèse 1 % ou moins renonçait, ce serait une grande partie des émissions mondiales ; et notre empreinte réelle inclut nos importations."
+    },
+    {
+      "objection": "Les Chinois ne font rien, pourquoi nous ?",
+      "reponse": "Si chaque pays attend les autres, personne n'agit ; et 35 pays ont montré qu'on peut réduire ses émissions en faisant croître son économie."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle part de l'empreinte carbone d'un Français vient de produits importés ?",
+    "Qui a émis le plus de CO2 par habitant depuis 1850 : un Européen ou un Chinois ?"
+  ],
+  "limites": [
+    "Les émissions annuelles par habitant de la Chine n'ont pas pu être lues ; la part des émissions importées par la France attribuable à la Chine n'est pas connue.",
+    "Le rapport du Haut Conseil pour le climat n'a pas été lu."
+  ],
+  "sources": [
+    {
+      "titre": "Global carbon dioxide emissions from fossil fuels rise in 2025",
+      "organisme": "CSIRO / Global Carbon Project",
+      "date_publication": "13 novembre 2025",
+      "url": "https://www.csiro.au/en/news/All/News/2025/November/Global-Carbon-Budget-2025",
+      "passage": "Les émissions fossiles sont « projected to rise by 1.1 per cent in 2025, reaching 42.2 billion tonnes » ; la Chine représente 32 % des émissions mondiales, les États-Unis 13 %, l'Inde 8 % et l'Union européenne 6 %.",
+      "pertinence": "Consortium scientifique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Key Targets 2025",
+      "organisme": "Global Carbon Budget",
+      "date_publication": "janvier 2026",
+      "url": "https://globalcarbonbudget.org/key-targets-2025",
+      "passage": "« China's emissions in 2025 are projected to increase by 0.4% ». Au cours de la dernière décennie, 35 pays ont nettement réduit leurs émissions fossiles tout en faisant croître leur économie ; ils représentent environ 27 % des émissions mondiales.",
+      "pertinence": "Consortium scientifique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Empreinte carbone et émissions territoriales (Chiffres clés du climat, édition 2026)",
+      "organisme": "SDES (ministère de la Transition écologique)",
+      "date_publication": "2026",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/fr/18-empreinte-carbone-et-emissions-territoriales",
+      "passage": "L'empreinte carbone d'un Français est estimée à 8,3 t CO2 éq en 2025 (provisoire), en baisse de 32 % depuis 1990 ; elle est supérieure à la moyenne mondiale (6,4 t), légèrement inférieure à celle de l'UE (9,0 t) et à celle de la Chine. 52 % de l'empreinte provient d'émissions importées.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Analysis: China's emissions have now caused more global warming than EU",
+      "organisme": "Carbon Brief (Simon Evans, Verner Viisainen)",
+      "date_publication": "19 novembre 2024",
+      "url": "https://www.carbonbrief.org/analysis-chinas-emissions-have-now-caused-more-global-warming-than-eu",
+      "passage": "« China's historical emissions reached 312GtCO2 in 2023, overtaking the EU's 303GtCO2 », loin derrière les 532 Gt des États-Unis. Par habitant, le cumul est de 227 t de CO2 en Chine, 682 t dans l'UE à 27 et 1 570 t aux États-Unis.",
+      "pertinence": "Média scientifique spécialisé.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "France: CO₂ and Greenhouse Gas Emissions Country Profile",
+      "organisme": "Our World in Data (Hannah Ritchie, Pablo Rosado)",
+      "date_publication": "19 décembre 2025",
+      "url": "https://ourworldindata.org/profile/co2/france",
+      "passage": "« France emitted 0.68% of the world's CO2 emissions in 2024 », soit 3,97 t de CO2 par habitant ; la France représente 2,17 % des émissions cumulées depuis 1751.",
+      "pertinence": "Base de données universitaire (Oxford).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouveau Global Carbon Budget annuel.",
+  "objections_legitimes": [
+    "La Chine est de loin le premier émetteur annuel, et ses émissions augmentent encore légèrement.",
+    "Depuis 2023, le cumul historique de la Chine dépasse celui de l'UE.",
+    "Une baisse française isolée a un effet direct faible sur le climat mondial."
+  ],
+  "publics": {
+    "convaincus": "La Chine émet beaucoup, c'est vrai. Mais plus de la moitié de notre empreinte carbone vient de ce que nous importons, souvent fabriqué là-bas, et un Européen a émis trois fois plus de CO2 qu'un Chinois depuis 1850. Dire « les autres d'abord », c'est ce que chaque pays pourrait dire, et personne n'agirait.",
+    "indecis": "C'est décourageant de voir que la France pèse moins de 1 % des émissions. Mais notre empreinte réelle, avec les importations, est proche de celle d'un Chinois, et nous avons beaucoup plus émis dans l'histoire. Trente-cinq pays montrent qu'on peut réduire ses émissions sans s'appauvrir."
+  },
+  "lecture": {
+    "valeurs": [
+      "internationalisme",
+      "solidarite"
+    ],
+    "mecanismes": "Désigner un autre pays comme seul responsable sert à justifier l’inaction chez soi.",
+    "consequences": "Les classes populaires, ici et ailleurs, subissent le plus les conséquences du réchauffement.",
+    "democratie": "La lutte contre le réchauffement repose sur la coopération et la responsabilité partagée.",
+    "propositions": [
+      "Compter l’empreinte carbone réelle, importations comprises, dans les politiques climatiques.",
+      "Relocaliser une partie de la production avec des normes sociales et environnementales."
+    ],
+    "defavorables": [
+      {
+        "fait": "La Chine est de loin le premier émetteur annuel.",
+        "integration": "Le reconnaître, et rappeler l’empreinte importée et la responsabilité historique européenne."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "chine_climat",
+      "label": "La Chine et nos efforts climatiques"
+    },
+    {
+      "id": "chine_climat_seul",
+      "label": "La Chine et nos efforts climatiques"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire"
+  ],
+  "concepts": [
+    "ecologie",
+    "chine_climat"
+  ]
+}

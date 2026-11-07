@@ -1,0 +1,200 @@
+{
+  "id": "rn-nationaliser-autoroutes",
+  "type": "idee_recue",
+  "affirmation": "Le RN veut nationaliser les autoroutes pour baisser les péages.",
+  "volet": "politique",
+  "sous_theme": "Rassemblement national",
+  "rubriques": [],
+  "mots_cles": [
+    "nationaliser les autoroutes",
+    "renationaliser les autoroutes",
+    "nationalisation des autoroutes",
+    "peages autoroute",
+    "baisser les peages",
+    "societes d autoroutes",
+    "concessions autoroutieres",
+    "vinci autoroutes"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "C'était bien une promesse du programme présidentiel 2022 de Marine Le Pen : renationaliser les autoroutes pour baisser les péages de 15 %. La mesure coûterait 40 à 50 milliards d'euros selon le ministère de l'Économie et le Sénat, alors que les concessions expirent de toute façon entre 2031 et 2036. Elle n'est pas propre au RN : LFI a déposé en 2025 une proposition de loi de nationalisation.",
+  "contexte": "La colère contre les péages est forte et la rentabilité des sociétés d'autoroutes est documentée par le Sénat ; le RN s'en sert pour se présenter comme défenseur du pouvoir d'achat.",
+  "explication": "Les autoroutes ont été concédées à des sociétés privées (Vinci, Eiffage, Abertis) qui encaissent les péages jusqu'à la fin de leurs contrats. Les racheter avant le terme oblige l'État à indemniser les actionnaires ; attendre la fin des contrats permet de les reprendre sans indemnité.",
+  "faits": [
+    {
+      "fait": "Le programme présidentiel 2022 de Marine Le Pen promettait de « renationaliser les autoroutes pour baisser de 15 % les péages ».",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La promesse existe bien.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "15 %"
+    },
+    {
+      "fait": "Le ministère de l'Économie estime le coût d'un rachat anticipé entre 45 et 50 milliards d'euros ; l'Institut Montaigne évalue l'indemnisation à environ 40 milliards, plus la reprise de 31,6 milliards de dette.",
+      "periode": "2020-2022",
+      "perimetre": "France",
+      "explication": "Racheter avant l'échéance coûte très cher.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "45 à 50 Md€"
+    },
+    {
+      "fait": "Les concessions historiques prennent fin entre 2031 et 2036, après avoir été prolongées de 35 ans à 64 à 75 ans.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Attendre l'échéance permet de reprendre la main sans indemnité.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2031-2036"
+    },
+    {
+      "fait": "Selon le Sénat, les sociétés d'autoroutes ont versé environ 24,3 milliards d'euros de dividendes de 2006 à 2019, et Vinci Autoroutes pesait en 2023 43 % du résultat net du groupe pour 9 % de son chiffre d'affaires.",
+      "periode": "2006-2023",
+      "perimetre": "France",
+      "explication": "La rentabilité des concessions est très élevée.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "43 %"
+    },
+    {
+      "fait": "En 2025, des députés LFI ont déposé une proposition de loi visant à nationaliser seize sociétés concessionnaires d'autoroutes.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La mesure n'est pas propre au RN.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Plutôt vrai pour 2022 : Marine Le Pen promettait de renationaliser les autoroutes pour baisser les péages de 15 %. Mais un rachat anticipé coûterait 40 à 50 milliards, alors que les concessions s'arrêtent entre 2031 et 2036. LFI propose aussi la nationalisation.",
+    "moyen": "La promesse figurait dans le programme présidentiel 2022 de Marine Le Pen. Le constat de départ est juste : le Sénat a montré que les concessions ont été très rentables pour les actionnaires.\n\nMais racheter avant la fin des contrats obligerait l'État à verser 40 à 50 milliards d'euros d'indemnités. Les concessions expirent entre 2031 et 2036 : la vraie bataille est de préparer leur reprise publique à cette date, sans indemniser personne.",
+    "detaille": "Le programme présidentiel 2022 de Marine Le Pen promettait de « renationaliser les autoroutes pour baisser de 15 % les péages ». En 2023, un député RN rappelait encore cette demande à l'Assemblée, et le ministre de l'Économie lui opposait un coût de « 40 à 50 milliards d'euros ». Les sources lues ne disent pas si la mesure figure toujours dans le programme de 2027.\n\nLe point de départ est fondé : selon le Sénat, les sociétés d'autoroutes ont versé environ 24,3 milliards d'euros de dividendes entre 2006 et 2019, et la rentabilité attendue par les actionnaires serait atteinte autour de 2022. Mais un rachat anticipé coûterait 45 à 50 milliards d'euros selon Bercy, et l'Institut Montaigne juge qu'une baisse de 15 % des péages réduirait le gain pour l'État.\n\nLes concessions historiques prennent fin entre 2031 et 2036. Les reprendre à l'échéance ne coûte pas d'indemnité : c'est là que se joue le choix entre une gestion publique et une nouvelle privatisation. La gauche (LFI) défend aussi la nationalisation, par une proposition de loi déposée en 2025.",
+    "empathie": "Tu as raison d'être en colère contre les péages : le Sénat lui-même dit que les sociétés d'autoroutes ont fait des profits énormes. La question, c'est comment reprendre la main sans faire un chèque de 40 milliards aux actionnaires."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est la seule façon de baisser les péages.",
+      "reponse": "À l'échéance des contrats (2031-2036), l'État peut reprendre les autoroutes sans payer d'indemnité et fixer lui-même les tarifs."
+    },
+    {
+      "objection": "La gauche a privatisé les autoroutes.",
+      "reponse": "La privatisation date de 2005-2006 ; aujourd'hui, LFI comme le RN défendent une reprise publique, avec des calendriers différents."
+    }
+  ],
+  "questions": [
+    "Sais-tu quand les contrats des sociétés d'autoroutes arrivent à échéance ?",
+    "Qui paierait les 40 à 50 milliards d'indemnités d'un rachat anticipé ?"
+  ],
+  "limites": [
+    "La présence de la mesure dans les programmes RN de 2024 et de 2027 n'a pas été vérifiée.",
+    "Les chiffrages datent de 2020-2022 ; la baisse de 15 % est une promesse, pas une évaluation indépendante."
+  ],
+  "sources": [
+    {
+      "titre": "Renationaliser les concessions d'autoroutes (Marine Le Pen, présidentielle 2022)",
+      "organisme": "Institut Montaigne (chiffrage des programmes)",
+      "date_publication": "14 février 2022",
+      "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/renationaliser-les-concessions-dautoroutes/",
+      "passage": "Le programme 2022 de Marine Le Pen prévoit de « Renationaliser les autoroutes pour baisser de 15 % les péages ». L'Institut Montaigne évalue la compensation due aux concessionnaires entre 39,5 et 42,1 Md€, à quoi s'ajoute la reprise de la dette des sociétés (31,6 Md€ fin 2020) ; la dette publique augmenterait de 30 à plus de 70 Md€ selon l'hypothèse. Le gain annuel serait d'environ 4,5 Md€ à tarifs inchangés et d'environ 3,5 Md€ avec une baisse de 15 % ; impact jugé « neutre si maintien des tarifs, potentiellement négatif si baisse des tarifs ».",
+      "pertinence": "Chiffrage d'un think tank libéral (2022).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Synthèse du rapport n° 709 (2019-2020) de la commission d'enquête sur les concessions autoroutières",
+      "organisme": "Sénat (rapporteur Vincent Delahaye)",
+      "date_publication": "18 septembre 2020",
+      "url": "https://www.senat.fr/rap/r19-709-1/r19-709-1-syn.pdf",
+      "passage": "Pour Vinci et Eiffage, la rentabilité attendue par les actionnaires serait atteinte « autour de 2022 » ; les dividendes versés de 2006 à 2019 totalisent environ 24,3 Md€, et « au-delà de 2022, les dividendes versés atteindraient environ 40 milliards d'euros ». Le ministère de l'Économie estime un rachat anticipé « entre 45 et 50 milliards d'euros » ; le Sénat juge « raisonnable d'aller au terme des concessions ».",
+      "pertinence": "Rapport d'une commission d'enquête parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Préparation de l'échéance des contrats de concessions autoroutières (rapport d'information n° 65, 2024-2025)",
+      "organisme": "Sénat, commission des finances (Hervé Maurey)",
+      "date_publication": "23 octobre 2024",
+      "url": "https://www.senat.fr/rap/r24-065/r24-065_mono.html",
+      "passage": "Les concessions historiques prennent fin entre 2031 (SANEF) et 2036 (ASF, AREA) ; conclus pour 35 ans, les contrats ont été prolongés à 64 à 75 ans. En 2023, Vinci Autoroutes représentait 9 % du chiffre d'affaires du groupe Vinci mais 43 % de son résultat net. Une résiliation anticipée pourrait coûter 40 à 50 Md€ ; la gratuité est qualifiée de « piège démagogique ».",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Questions au gouvernement n° 525 et n° 678 (Pierre Meurin, RN) sur les autoroutes",
+      "organisme": "Assemblée nationale",
+      "date_publication": "1er février et 22 mars 2023",
+      "url": "https://questions.assemblee-nationale.fr/dyn/16/questions/QANR5L16QG678.pdf",
+      "passage": "Le député RN rappelle que Marine Le Pen réclame de longue date la nationalisation. Bruno Le Maire répond : « Vous avez proposé, madame Le Pen, la nationalisation des autoroutes françaises », pour un coût de « bien 40 à 50 milliards d'euros ».",
+      "pertinence": "Compte rendu officiel des questions au gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi n° 1203 relative à la nationalisation des sociétés concessionnaires d'autoroutes",
+      "organisme": "Assemblée nationale (Christophe Bex, Mathilde Panot et al., LFI)",
+      "date_publication": "1er avril 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1203_proposition-loi.pdf",
+      "passage": "« Les sociétés suivantes sont nationalisées » (seize sociétés concessionnaires) ; l'exposé des motifs évoque une hausse des péages d'environ 20 % en dix ans.",
+      "pertinence": "Texte parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Programmes électoraux de 2027 et préparation de la fin des concessions.",
+  "objections_legitimes": [
+    "La rentabilité des concessions est jugée excessive par le Sénat lui-même.",
+    "Les péages ont augmenté plus vite que l'inflation selon plusieurs parlementaires."
+  ],
+  "publics": {
+    "convaincus": "La colère contre les péages est juste : le Sénat a montré des profits énormes. Mais racheter les autoroutes avant 2031-2036, c'est verser 40 à 50 milliards d'euros d'indemnités à ces mêmes actionnaires. Attendre la fin des contrats et les reprendre gratuitement, c'est bien plus efficace.",
+    "indecis": "La promesse a bien existé en 2022, et l'idée de reprendre les autoroutes est défendue aussi à gauche. Le vrai sujet, c'est le moment : racheter maintenant coûte 40 à 50 milliards, alors que les contrats expirent entre 2031 et 2036. Regarde ce que chaque parti prévoit pour cette échéance."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "repartition"
+    ],
+    "mecanismes": "Des infrastructures payées par la collectivité ont été confiées à des sociétés privées qui en tirent des profits durables ; promettre un rachat immédiat évite de parler de la préparation de l’échéance.",
+    "consequences": "Les usagers, notamment ceux qui n’ont pas d’autre choix que la route, paient des péages qui financent des dividendes.",
+    "democratie": "La gestion d’un bien commun doit pouvoir être décidée et contrôlée publiquement, en particulier à la fin des contrats.",
+    "propositions": [
+      "Préparer dès maintenant la reprise publique des autoroutes à l’échéance des concessions, sans indemnité.",
+      "Affecter les recettes des péages à l’entretien du réseau et aux transports collectifs."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un rachat anticipé coûterait des dizaines de milliards, et la nationalisation est aussi défendue par la gauche.",
+        "integration": "Le reconnaître, et défendre une reprise à l’échéance plutôt qu’un chèque aux actionnaires."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "autoroutes_rn",
+      "label": "Nationalisation des autoroutes"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "front national",
+    "fn",
+    "rn",
+    "rassemblement national",
+    "le pen"
+  ],
+  "concepts": [
+    "patriotisme",
+    "fn_parti",
+    "autoroutes"
+  ]
+}

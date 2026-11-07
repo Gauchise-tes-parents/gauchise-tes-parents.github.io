@@ -1,0 +1,160 @@
+{
+  "id": "jeunes-vote-rn",
+  "type": "idee_recue",
+  "affirmation": "Les jeunes votent massivement pour le RN.",
+  "volet": "politique",
+  "sous_theme": "Droite et extrême droite",
+  "rubriques": [],
+  "mots_cles": [
+    "jeunes votent rn",
+    "vote des jeunes",
+    "jeunesse rn",
+    "jeunes bardella",
+    "18-24 ans vote",
+    "jeunes extreme droite",
+    "vote jeune",
+    "generation bardella"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Le RN a fortement progressé chez les jeunes : 25 % des 18-24 ans qui ont voté aux européennes de 2024, contre 15 % en 2019. Mais LFI est arrivée devant chez les 18-24 ans (33 %), le Nouveau Front populaire a fait environ la moitié des voix des moins de 25 ans aux législatives, et 60 % des 18-24 ans se sont abstenus aux européennes.",
+  "contexte": "L'image d'une jeunesse acquise à Jordan Bardella circule largement, notamment sur TikTok.",
+  "explication": "Les votes par âge viennent de sondages réalisés le jour du vote, avec une marge d'erreur plus forte sur les petits groupes. Les pourcentages portent sur ceux qui ont voté ; chez les jeunes, l'abstention est très élevée.",
+  "faits": [
+    {
+      "fait": "Aux européennes de 2024, chez les 18-24 ans qui ont voté, LFI obtient 33 % et le RN 25 %.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Chez les plus jeunes votants, la gauche radicale arrive devant.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "25 %"
+    },
+    {
+      "fait": "Le vote RN chez les 18-24 ans est passé de 15 % aux européennes de 2019 à 25 % en 2024.",
+      "periode": "2019-2024",
+      "perimetre": "France",
+      "explication": "La progression du RN chez les jeunes est réelle.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "+10 points"
+    },
+    {
+      "fait": "60 % des 18-24 ans se sont abstenus aux européennes de 2024, contre 29 % des 70 ans et plus.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La majorité des jeunes ne vote pas du tout.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "60 %"
+    },
+    {
+      "fait": "Aux législatives de 2024, « l'alliance de gauche a ainsi été choisie par la moitié des votants de moins de 25 ans », tandis que le RN et ses alliés font 32 % chez les moins de 35 ans, contre 18 % en 2022.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La gauche reste en tête chez les plus jeunes, le RN progresse.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "32 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : le RN progresse chez les jeunes (25 % des 18-24 ans votants aux européennes 2024, contre 15 % en 2019), mais LFI fait mieux (33 %), la gauche a eu la moitié des voix des moins de 25 ans aux législatives, et 60 % des 18-24 ans se sont abstenus.",
+    "moyen": "La progression du RN chez les jeunes est réelle : un quart des 18-24 ans qui ont voté aux européennes de 2024 l'ont choisi, contre 15 % en 2019.\n\nMais chez les plus jeunes, la gauche reste devant : LFI fait 33 % aux européennes, et le Nouveau Front populaire environ la moitié des votants de moins de 25 ans aux législatives. Et surtout, six jeunes sur dix ne sont pas allés voter aux européennes.",
+    "detaille": "Selon les sondages Ipsos réalisés lors des européennes de 2024, le RN obtient 25 % chez les 18-24 ans qui ont voté et 30 % chez les 25-34 ans. C'est une forte progression : 15 % chez les 18-24 ans en 2019.\n\nMais LFI arrive en tête chez les 18-24 ans votants, avec 33 %. Aux législatives qui suivent, la gauche réunie obtient environ la moitié des voix des moins de 25 ans, et 40 % chez les 25-34 ans ; le RN et ses alliés font 32 % chez les moins de 35 ans, contre 18 % en 2022.\n\nLe principal fait reste l'abstention : 60 % des 18-24 ans ne sont pas allés voter aux européennes, contre 29 % des plus de 70 ans. La jeunesse est divisée, et en grande partie silencieuse dans les urnes.",
+    "empathie": "C'est vrai que le RN séduit de plus en plus de jeunes, et il faut comprendre pourquoi. Mais dire que la jeunesse vote massivement RN, c'est oublier qu'elle vote davantage à gauche, et surtout qu'elle s'abstient beaucoup."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les jeunes regardent Bardella sur TikTok, ils votent pour lui.",
+      "reponse": "Une audience sur les réseaux n'est pas un vote : chez les 18-24 ans votants, LFI fait mieux que le RN."
+    },
+    {
+      "objection": "La gauche a perdu la jeunesse.",
+      "reponse": "Aux législatives de 2024, la gauche a obtenu environ la moitié des voix des moins de 25 ans."
+    }
+  ],
+  "questions": [
+    "Sais-tu quel parti est arrivé en tête chez les 18-24 ans aux européennes de 2024 ?",
+    "Pourquoi tant de jeunes ne votent-ils pas ?"
+  ],
+  "limites": [
+    "Les chiffres viennent de sondages, avec une marge d'erreur plus forte sur les sous-groupes d'âge.",
+    "La participation des jeunes aux législatives de 2024 n'a pas été vérifiée ; la Fondation Jean-Jaurès est proche du PS."
+  ],
+  "sources": [
+    {
+      "titre": "Européennes 2024 : sociologie des électorats et profil des abstentionnistes",
+      "organisme": "Ipsos (pour France Télévisions, Radio France, Public Sénat/LCP)",
+      "date_publication": "9 juin 2024",
+      "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2024-06/Ipsos-Sociologie-des-e%CC%81lectorats-10-juin-15h.pdf",
+      "passage": "Enquête auprès de 8 923 inscrits. Chez les 18-24 ans qui ont voté, la liste LFI obtient 33 % et la liste RN 25 % ; le RN fait 30 % chez les 25-34 ans et atteint son maximum chez les 50-59 ans (40 %). L'abstention est de 60 % chez les 18-24 ans, de 65 % chez les 25-34 ans et de 29 % chez les 70 ans et plus.",
+      "pertinence": "Enquête d'un institut de sondage.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Sociologie des électorats — Législatives 2024",
+      "organisme": "Ipsos Talan (pour France Télévisions, Radio France, Public Sénat)",
+      "date_publication": "30 juin 2024",
+      "url": "https://www.ipsos.com/fr-fr/legislatives-2024/node/1025896",
+      "passage": "Enquête auprès de 10 286 inscrits. « L'alliance de gauche a ainsi été choisie par la moitié des votants de moins de 25 ans » ; le NFP fait 40 % chez les 25-34 ans. Le RN et ses alliés font 32 % chez les moins de 35 ans, contre 18 % en 2022.",
+      "pertinence": "Enquête d'un institut de sondage.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Les jeunes « emmerdent »-ils le Rassemblement national ?",
+      "organisme": "Fondation Jean-Jaurès (Christelle Craplet, Adélaïde Zulfikarpasic, BVA Xsight)",
+      "date_publication": "19 juin 2024",
+      "url": "https://www.jean-jaures.org/publication/les-jeunes-emmerdent-ils-le-rassemblement-national/",
+      "passage": "25 % des 18-24 ans ont voté pour la liste Bardella aux européennes de 2024, contre 15 % en 2019 ; LFI reste le premier parti chez les jeunes votants (33 %). Chez les 18-24 ans, « seuls 40% se sont déplacés ».",
+      "pertinence": "Analyse d'un think tank proche du Parti socialiste.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Sondages des élections de 2027.",
+  "objections_legitimes": [
+    "Le RN a gagné environ dix points chez les 18-24 ans entre 2019 et 2024.",
+    "Chez les 25-34 ans, le RN est arrivé en tête aux européennes de 2024."
+  ],
+  "publics": {
+    "convaincus": "Le RN progresse chez les jeunes, c'est vrai : un quart des 18-24 ans votants en 2024. Mais LFI a fait 33 % dans la même tranche d'âge, et la gauche a eu environ la moitié des voix des moins de 25 ans aux législatives. Et six jeunes sur dix ne votent pas : personne ne peut parler en leur nom.",
+    "indecis": "La jeunesse est divisée : le RN gagne du terrain, mais la gauche reste en tête chez les plus jeunes qui votent. Le fait le plus frappant, c'est que la majorité des jeunes s'abstient. Si tu es jeune, ta voix pèse d'autant plus."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "emancipation"
+    ],
+    "mecanismes": "Une image médiatique d’une jeunesse acquise à l’extrême droite peut devenir une prophétie autoréalisatrice.",
+    "consequences": "La majorité des jeunes ne vote pas, ce qui affaiblit leur poids dans les décisions qui les concernent.",
+    "democratie": "La participation des jeunes est un enjeu démocratique majeur.",
+    "propositions": [
+      "Aller vers les jeunes abstentionnistes avec des propositions sur le logement, l’emploi et les études.",
+      "Renforcer l’éducation civique et l’inscription sur les listes électorales."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le RN a gagné une dizaine de points chez les 18-24 ans entre 2019 et 2024.",
+        "integration": "Le reconnaître, et comprendre ce qui attire ces jeunes plutôt que les mépriser."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "front national",
+    "fn",
+    "rn",
+    "rassemblement national",
+    "le pen"
+  ],
+  "concepts": [
+    "fn_parti"
+  ]
+}

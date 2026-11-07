@@ -1,0 +1,196 @@
+{
+  "id": "essence-prix-taxes",
+  "type": "idee_recue",
+  "affirmation": "Le prix de l'essence, ce sont surtout des taxes.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "prix de l essence",
+    "taxes carburant",
+    "prix du carburant",
+    "ticpe",
+    "accise",
+    "taxes essence",
+    "prix du gazole",
+    "plein d essence"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les taxes représentent environ la moitié du prix des carburants : 54 % en moyenne en 2024 pour le gazole et le SP95-E10, environ 49 % pour le SP95-E10 et 42 % pour le gazole fin octobre 2026. Leur part baisse quand le pétrole est cher, car l'accise est un montant fixe par litre. La France est dans la moyenne européenne, et le prix du pétrole raffiné pèse autant que les taxes.",
+  "contexte": "L'argument revient à chaque hausse des prix à la pompe, contre l'État et contre la fiscalité écologique.",
+  "explication": "Le prix à la pompe comprend le prix du produit raffiné (cotation de Rotterdam), les coûts de transport et de distribution, l'accise (ex-TICPE), fixe par litre et gelée depuis 2019, et la TVA à 20 %, qui s'applique aussi sur l'accise.",
+  "faits": [
+    {
+      "fait": "L'accise et la TVA ont représenté en moyenne 54 % du prix TTC du gazole et du SP95-E10 en 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les taxes pèsent bien environ la moitié du prix.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "54 %"
+    },
+    {
+      "fait": "Selon le site Connaissance des Énergies, Fin octobre 2026, les taxes pèsent 42,3 % du prix du gazole et environ 48,6 % de celui du SP95-E10, tandis que la cotation du gazole raffiné représente 47,5 % de son prix.",
+      "periode": "octobre 2026",
+      "perimetre": "France",
+      "explication": "Quand le pétrole est cher, il pèse autant que les taxes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "42,3 %"
+    },
+    {
+      "fait": "L'accise est gelée depuis le 1er janvier 2019 ; comme elle est fixe par litre, la part des taxes baisse quand le pétrole monte.",
+      "periode": "2019-2025",
+      "perimetre": "France",
+      "explication": "Les hausses récentes viennent du pétrole, pas des taxes.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En juillet 2026, la part des taxes sur l'essence était de 51 % en France, 53 % en Allemagne et en Italie, 54 % aux Pays-Bas et 38 % en Espagne.",
+      "periode": "juillet 2026",
+      "perimetre": "Union européenne",
+      "explication": "La France est dans la moyenne de ses voisins.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "51 %"
+    },
+    {
+      "fait": "La marge nette des distributeurs est estimée à 1 ou 2 centimes par litre.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les stations-service gagnent peu sur le carburant.",
+      "source": 1,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Plutôt vrai : les taxes font environ la moitié du prix (54 % en moyenne en 2024). Mais leur part baisse quand le pétrole flambe (42 % sur le gazole fin octobre 2026), l'accise est gelée depuis 2019, et la France est dans la moyenne européenne.",
+    "moyen": "Les taxes représentent environ la moitié du prix des carburants : 54 % en moyenne en 2024 selon le gouvernement. C'est un poids réel pour les ménages qui dépendent de leur voiture.\n\nMais l'accise est gelée depuis 2019 et fixe par litre : quand les prix montent, c'est d'abord le pétrole qui augmente. Fin octobre 2026, le pétrole raffiné pesait 47,5 % du prix du gazole, plus que les taxes. Et la France taxe à peu près comme l'Allemagne ou l'Italie.",
+    "detaille": "Selon une réponse ministérielle, l'accise sur les carburants et la TVA ont représenté en moyenne 54 % du prix du gazole et du SP95-E10 en 2024. La TVA s'applique aussi sur l'accise, ce qui alourdit la facture.\n\nMais cette part varie : l'accise est un montant fixe par litre, gelé depuis 2019. Quand le pétrole flambe, la part des taxes baisse : fin octobre 2026, elle était de 42,3 % pour le gazole, dont la cotation du produit raffiné représentait 47,5 % du prix. Les hausses récentes viennent donc surtout du pétrole.\n\nEn Europe, la France n'est pas une exception : en juillet 2026, la part des taxes sur l'essence était de 51 % en France, 53 % en Allemagne et en Italie, 54 % aux Pays-Bas, 38 % en Espagne. Le vrai débat porte sur la dépendance au pétrole et sur la répartition de l'effort : ceux qui n'ont pas d'autre choix que la voiture paient le plus.",
+    "empathie": "Faire le plein est devenu un vrai poids pour beaucoup de gens, surtout à la campagne. Les taxes en sont une grosse part, c'est vrai ; mais ce sont surtout les prix du pétrole qui ont fait monter la facture ces dernières années."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il suffit de baisser les taxes.",
+      "reponse": "C'est possible, mais l'accise rapporte des milliards à l'État ; une baisse générale profite aussi aux gros rouleurs aisés, une aide ciblée aux ménages modestes est plus juste."
+    },
+    {
+      "objection": "Ce sont les écolos qui ont fait monter les prix.",
+      "reponse": "L'accise est gelée depuis 2019 : les hausses récentes viennent du pétrole."
+    }
+  ],
+  "questions": [
+    "Sais-tu que l'accise sur les carburants n'a pas augmenté depuis 2019 ?",
+    "Pourquoi la part des taxes baisse-t-elle quand le pétrole devient plus cher ?"
+  ],
+  "limites": [
+    "Les données de 2026 viennent d'un site de vulgarisation reprenant les données officielles ; les pages du ministère et de l'UFIP n'ont pas été lues directement.",
+    "Les parts varient chaque semaine avec le prix du pétrole."
+  ],
+  "sources": [
+    {
+      "titre": "Question écrite n° 5303 et réponse du ministère chargé de l'Énergie",
+      "organisme": "Assemblée nationale",
+      "date_publication": "20 mai 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE5303.pdf",
+      "passage": "« Ces deux taxes ont représenté en moyenne 54 % du prix TTC du gazole et du sp95-e10 en France en 2024. » Le raffinage représente environ 7 % du prix et le transport-distribution 14 % en moyenne ; l'accise est « gelée depuis le 1er janvier 2019 ».",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Carburants : prix de l'essence et du gazole en France",
+      "organisme": "Connaissance des Énergies (d'après la DGEC et l'UFIP Énergies & Mobilités)",
+      "date_publication": "3 novembre 2026",
+      "url": "https://www.connaissancedesenergies.org/fiche-pedagogique/structuration-des-prix-de-l-essence-et-du-gazole-france",
+      "passage": "Semaine du 30 octobre 2026 : gazole à 2,371 €/L, dont accise 0,608 €, TVA 0,395 € et cotation Rotterdam 1,126 € (47,5 %) ; SP95-E10 à 2,095 €/L, dont accise 0,670 €, TVA 0,349 € et cotation 0,795 € (37,9 %). Les taxes pèsent 42,3 % du prix du gazole et environ 48,6 % de celui du SP95-E10 ; la marge nette du distributeur est estimée à 1 ou 2 centimes par litre.",
+      "pertinence": "Site de vulgarisation reprenant les données officielles.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Carburants : quel prix sur la route des vacances dans les 27 pays de l'UE ?",
+      "organisme": "Connaissance des Énergies (Maël Dancette, d'après le Weekly Oil Bulletin de la Commission européenne)",
+      "date_publication": "28 juillet 2026",
+      "url": "https://www.connaissancedesenergies.org/carburants-quel-prix-route-des-vacances-pays-ue",
+      "passage": "Au 20 juillet 2026, la France est la 5e plus chère de l'UE pour l'essence (2,010 €/L, 51 % de taxes) et le gazole (2,066 €/L, 46 % de taxes). Part des taxes sur l'essence : Allemagne 53 %, Italie 53 %, Pays-Bas 54 %, Espagne 38 %.",
+      "pertinence": "Site de vulgarisation reprenant les données de la Commission.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Quelle transmission des prix du pétrole aux prix des carburants ? (bloc-notes éco n° 233)",
+      "organisme": "Banque de France (Erwan Gautier, Magali Marx, Paul Vertier)",
+      "date_publication": "14 octobre 2021",
+      "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/quelle-transmission-des-prix-du-petrole-aux-prix-des-carburants",
+      "passage": "En septembre 2021, le gazole valait 1,45 € TTC, dont 0,61 € de TICPE et 0,24 € de TVA. Une hausse de 1 % du prix du gazole raffiné importé fait monter à long terme le prix TTC de 0,3 % : comme la taxe est fixe par litre, la part des taxes baisse quand le pétrole monte.",
+      "pertinence": "Publication de la banque centrale (2021).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Prix des carburants très variables.",
+  "objections_legitimes": [
+    "Les taxes représentent environ la moitié du prix, et la TVA s'applique sur l'accise.",
+    "L'État encaisse plus de TVA quand les prix montent.",
+    "La France fait partie des cinq pays les plus chers de l'UE pour les carburants en juillet 2026."
+  ],
+  "publics": {
+    "convaincus": "Les taxes font bien environ la moitié du prix, tu as raison. Mais elles n'ont pas bougé depuis 2019 : quand le plein augmente, c'est le pétrole qui monte. Et les Allemands ou les Italiens paient autant de taxes que nous.",
+    "indecis": "Les taxes représentent environ la moitié du prix des carburants, et c'est lourd pour ceux qui n'ont pas d'autre choix que la voiture. Mais les hausses récentes viennent surtout du pétrole. La vraie question est de réduire notre dépendance au pétrole et d'aider d'abord ceux qui en dépendent le plus."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "vulnerables"
+    ],
+    "mecanismes": "La colère contre les taxes détourne l’attention de la dépendance au pétrole et des profits du secteur.",
+    "consequences": "Les ménages ruraux et modestes, dépendants de la voiture, sont les plus touchés.",
+    "democratie": "La fiscalité écologique n’est acceptable que si elle est juste et compensée.",
+    "propositions": [
+      "Développer les transports collectifs et les alternatives à la voiture dans les territoires.",
+      "Cibler les aides sur les ménages modestes dépendants de leur voiture."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les taxes représentent environ la moitié du prix des carburants.",
+        "integration": "Le reconnaître, et défendre une fiscalité plus juste plutôt qu’une baisse générale."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "carburant_taxes",
+      "label": "Taxes sur les carburants"
+    },
+    {
+      "id": "carburant_seul",
+      "label": "Prix des carburants"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "fin de mois",
+    "fins de mois",
+    "pouvoir d achat",
+    "hausse des prix",
+    "inflation",
+    "courses",
+    "vie chere",
+    "essence",
+    "tout augmente"
+  ],
+  "concepts": [
+    "fiscalite",
+    "pouvoir_achat",
+    "carburant"
+  ]
+}

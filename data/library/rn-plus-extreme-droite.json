@@ -171,11 +171,6 @@
       }
     ]
   },
-  "concepts": [
-    "patriotisme",
-    "fn_parti",
-    "rn_change"
-  ],
   "repond_a": [
     {
       "id": "rn_change",
@@ -194,5 +189,10 @@
     "rn",
     "rassemblement national",
     "le pen"
+  ],
+  "concepts": [
+    "patriotisme",
+    "fn_parti",
+    "rn_change"
   ]
 }
