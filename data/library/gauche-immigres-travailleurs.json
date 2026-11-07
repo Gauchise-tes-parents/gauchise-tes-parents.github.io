@@ -153,6 +153,10 @@
     "Une partie importante des ouvriers vote aujourd'hui pour l'extrême droite plutôt que pour la gauche.",
     "Une concurrence à court terme existe pour certains travailleurs peu qualifiés, selon des travaux de recherche."
   ],
+  "publics": {
+    "convaincus": "Les immigrés, ce sont aussi des travailleurs : 62,4 % sont en emploi selon l'Insee, souvent dans les métiers essentiels les plus durs. Le SMIC à 1 600 € net ou le retour sur la réforme des retraites concernent tous les salariés, quelle que soit leur origine. Un travailleur sans droits, c'est un moyen de faire baisser les salaires de tous.",
+    "indecis": "Il est vrai qu'une partie des ouvriers vote aujourd'hui davantage pour l'extrême droite, et la gauche doit l'entendre. Mais ses mesures phares, comme la hausse du SMIC ou la retraite, visent tous les salariés. Opposer immigrés et travailleurs, c'est oublier que les premiers sont très souvent les seconds."
+  },
   "lecture": {
     "valeurs": [
       "travailleurs",

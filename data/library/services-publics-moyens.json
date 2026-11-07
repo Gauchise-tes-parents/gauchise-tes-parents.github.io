@@ -132,31 +132,10 @@
     "Le déficit (5,8 % du PIB) et la dette (113,2 % du PIB) sont élevés.",
     "La charge d'intérêts de la dette augmente fortement (60 Md€ en 2024)."
   ],
-  "repond_a": [
-    {
-      "id": "services_publics_moyens",
-      "label": "Financement des services publics"
-    },
-    {
-      "id": "dette_publique",
-      "label": "Dette et déficit publics",
-      "partielle": true
-    }
-  ],
-  "ne_repond_pas": [],
-  "synonymes": [
-    "taxer",
-    "isf",
-    "tva",
-    "urgences",
-    "dette",
-    "deficit",
-    "faillite",
-    "depenses publiques",
-    "argent public",
-    "argent magique",
-    "n a plus les moyens"
-  ],
+  "publics": {
+    "convaincus": "Le déficit est réel, personne ne le nie : 5,8 % du PIB en 2024. Mais la même année, les prélèvements obligatoires ont baissé et l'État a encaissé 41,5 milliards de moins que prévu, selon le Sénat. « Plus les moyens », c'est souvent un choix : celui de moins prélever, et pas sur n'importe qui.",
+    "indecis": "Il faut prendre la dette au sérieux (113,2 % du PIB en 2024). Mais les moyens des services publics dépendent aussi des recettes, qui ont été moins dynamiques que prévu. Le débat porte sur ce qu'on prélève, et sur qui, autant que sur ce qu'on dépense."
+  },
   "lecture": {
     "valeurs": [
       "services_publics",
@@ -181,5 +160,30 @@
     "fiscalite",
     "services_publics",
     "dette"
+  ],
+  "repond_a": [
+    {
+      "id": "services_publics_moyens",
+      "label": "Financement des services publics"
+    },
+    {
+      "id": "dette_publique",
+      "label": "Dette et déficit publics",
+      "partielle": true
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "urgences",
+    "dette",
+    "deficit",
+    "faillite",
+    "depenses publiques",
+    "argent public",
+    "argent magique",
+    "n a plus les moyens"
   ]
 }

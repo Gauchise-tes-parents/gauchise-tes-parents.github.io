@@ -146,11 +146,6 @@
       }
     ]
   },
-  "concepts": [
-    "europe",
-    "cout",
-    "budget_ue"
-  ],
   "repond_a": [
     {
       "id": "budget_ue",
@@ -171,5 +166,10 @@
     "budget europeen",
     "cheque a bruxelles",
     "qu elle ne recoit"
+  ],
+  "concepts": [
+    "europe",
+    "cout",
+    "budget_ue"
   ]
 }

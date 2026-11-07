@@ -183,11 +183,6 @@
       }
     ]
   },
-  "concepts": [
-    "antisemitisme",
-    "extreme_droite_histoire",
-    "vichy"
-  ],
   "repond_a": [
     {
       "id": "vichy_juifs",
@@ -200,5 +195,10 @@
     "front national",
     "vel d hiv",
     "statut des juifs"
+  ],
+  "concepts": [
+    "antisemitisme",
+    "extreme_droite_histoire",
+    "vichy"
   ]
 }

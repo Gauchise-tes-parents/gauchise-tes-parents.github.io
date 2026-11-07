@@ -1,0 +1,191 @@
+{
+  "id": "rn-impot-moins-30-ans",
+  "type": "idee_recue",
+  "affirmation": "Le RN veut supprimer l'impôt sur le revenu pour les moins de 30 ans, c'est une bonne mesure pour la jeunesse.",
+  "volet": "politique",
+  "sous_theme": "Rassemblement national",
+  "rubriques": [],
+  "mots_cles": [
+    "moins de 30 ans",
+    "impot des jeunes",
+    "exonerer les jeunes",
+    "exoneration d impot",
+    "impot sur le revenu des jeunes",
+    "jeunes impot",
+    "exoneration jeunes"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La proposition existe : elle figure dans les programmes du RN de 2022 et 2024 et a été reprise en 2026 avec un plafond de quatre fois le Smic. Mais elle profite peu à la majorité des jeunes : les 18-25 ans gagnent trop peu pour payer l'impôt sur le revenu, et les bénéficiaires seraient surtout les actifs de 26 à 30 ans imposables, pour un gain moyen estimé à 374 € par an. Son coût est estimé entre 2 et 3,6 milliards par an, et plusieurs juristes la jugent probablement contraire à l'égalité devant l'impôt.",
+  "contexte": "Le RN met en avant cette mesure pour séduire les jeunes actifs et limiter le départ des jeunes diplômés à l'étranger.",
+  "explication": "Juger la mesure « bonne » ou non est un choix politique. Les faits permettent de dire qui en profiterait et combien elle coûterait.",
+  "faits": [
+    {
+      "fait": "Selon Public Sénat, le programme du RN de 2024 prévoit de « supprimer l'impôt sur le revenu des jeunes de moins de 30 ans » ; un vice-président du parti ajoutait que « Tout cela peut se moduler, il peut y avoir de plafonds ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La proposition est réelle et assumée.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon LCP, Marine Le Pen reprend la mesure en 2026 avec une limite « jusqu'à quatre fois le Smic », pour un coût de 2 milliards d'euros par an.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Même plafonnée, elle profite à des jeunes qui gagnent bien leur vie.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "2 Md€"
+    },
+    {
+      "fait": "Selon l'Institut Montaigne, les 18-25 ans gagnent trop peu pour être imposés : les bénéficiaires seraient surtout les actifs de 26 à 30 ans, pour un gain moyen de 374 € par an et par contribuable concerné ; le coût de la version 2022 était estimé à 3,6 milliards par an.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les jeunes les plus modestes ne gagneraient rien.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "374 €"
+    },
+    {
+      "fait": "Selon l'Institut Montaigne, la mesure serait « probablement inconstitutionnelle », car elle crée « une différence de traitement injustifiée » avec le reste de la population active.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Elle risque de ne jamais pouvoir s'appliquer.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon MoneyVox, la majorité des jeunes en début de carrière paient peu ou pas d'impôt sur le revenu, et un jeune footballeur millionnaire aurait bénéficié de la version sans plafond.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "L'avantage croît avec le revenu.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est un choix politique, mais les faits montrent qu'elle profiterait surtout aux 26-30 ans qui gagnent bien leur vie (gain moyen estimé à 374 € par an), pas aux jeunes précaires qui ne paient pas l'impôt sur le revenu. Elle coûterait de 2 à 3,6 milliards par an et serait probablement inconstitutionnelle.",
+    "moyen": "La mesure existe bien : le RN la propose depuis 2022, et Marine Le Pen l'a reprise en 2026 avec un plafond de quatre fois le Smic.\n\nMais qui en profiterait ? Pas les étudiants, les apprentis ni les jeunes au Smic, qui ne paient pas ou presque pas d'impôt sur le revenu. Elle profiterait surtout aux 26-30 ans qui gagnent bien leur vie, pour un gain moyen estimé à 374 € par an. Coût : 2 à 3,6 milliards par an. Pour la même somme, on pourrait aider directement les jeunes qui en ont le plus besoin.",
+    "detaille": "Le RN propose depuis 2022 d'exonérer d'impôt sur le revenu les moins de 30 ans, notamment pour limiter le départ des jeunes diplômés. En 2026, Marine Le Pen reprend la mesure avec une limite à quatre fois le Smic ; LCP la chiffre à 2 milliards d'euros par an. L'Institut Montaigne estimait la version 2022, sans plafond, à environ 3,6 milliards par an.\n\nLa mesure profite selon le revenu : les 18-25 ans gagnent généralement trop peu pour être imposés, et les bénéficiaires seraient surtout les actifs de 26 à 30 ans imposables, pour un gain moyen estimé à 374 € par an. Plus on gagne, plus on y gagne, dans la limite du plafond. Les jeunes précaires, au chômage ou étudiants n'en verraient pas la couleur.\n\nPlusieurs juristes estiment qu'une exonération fondée sur l'âge serait contraire au principe d'égalité devant l'impôt. Pour la jeunesse, d'autres choix existent : revenu étudiant, accès au logement, hausse des bas salaires.",
+    "empathie": "Je comprends qu'on veuille aider les jeunes, qui ont du mal à se loger et à démarrer dans la vie. L'intention peut sembler bonne. Mais cette mesure aiderait surtout les jeunes qui gagnent déjà bien leur vie, pas ceux qui galèrent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est enfin une mesure pour les jeunes.",
+      "reponse": "Les jeunes les plus modestes ne paient pas d'impôt sur le revenu : ils ne gagneraient rien."
+    },
+    {
+      "objection": "Avec le plafond à quatre Smic, c'est juste.",
+      "reponse": "Un jeune à trois Smic gagnerait beaucoup plus qu'un jeune au Smic, qui ne paie presque rien ; l'avantage reste croissant avec le revenu."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'impôt sur le revenu paie un jeune au Smic ?",
+    "Pour aider les jeunes en difficulté, vaut-il mieux baisser un impôt qu'ils ne paient pas ou les aider directement ?"
+  ],
+  "limites": [
+    "Les chiffrages datent de 2022 (Institut Montaigne) et de 2026 (LCP, chiffre attribué au RN) ; la version 2026 plafonnée n'a pas été chiffrée par un organisme indépendant dans les sources lues.",
+    "Aucune donnée publique lue ne donne la part exacte des moins de 30 ans imposables."
+  ],
+  "sources": [
+    {
+      "titre": "[Présidentielle – Chiffrage 2022] Marine Le Pen propose d'exonérer d'impôt sur le revenu « tous les jeunes » de moins de 30 ans",
+      "organisme": "Institut Montaigne (Victor Poirier)",
+      "date_publication": "14 janvier 2022",
+      "url": "https://www.institutmontaigne.org/expressions/presidentielle-chiffrage-2022-marine-le-pen-propose-dexonerer-dimpot-sur-le-revenu-tous-les-jeunes",
+      "passage": "Le RN chiffre la mesure à environ 2 Md€ par an ; l'Institut Montaigne l'estime à un peu plus de 3,6 Md€ par an ; les 18-25 ans gagnent trop peu pour être imposés, les bénéficiaires seraient surtout les actifs de 26 à 30 ans, pour un gain moyen de 374 € par an et par contribuable concerné ; la mesure serait « probablement inconstitutionnelle » et créerait « une différence de traitement injustifiée vis-à-vis du reste de la population active ».",
+      "pertinence": "Think tank libéral (chiffrage de programme, 2022).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Réforme des retraites, impôts, prix planchers… Comment le RN réajuste son programme au fil de la campagne",
+      "organisme": "Public Sénat (Romain David)",
+      "date_publication": "27 juin 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/reforme-des-retraites-impots-prix-planchers-comment-le-rn-reajuste-son-programme-au-fil-de-la-campagne",
+      "passage": "Le programme 2024 veut « supprimer l'impôt sur le revenu des jeunes de moins de 30 ans » ; face aux critiques, un vice-président du RN déclare : « Tout cela peut se moduler, il peut y avoir de plafonds » ; sur les retraites, un député RN : « ceux qui ont travaillé entre 17 et 20 ans : retraite à 60 ans, avec 40 annuités » ; Jordan Bardella lie l'engagement à la situation budgétaire.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Permis de conduire gratuit, exonération d'impôt jusqu'à 30 ans... Comment le RN veut convaincre les jeunes",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "6 octobre 2026",
+      "url": "https://lcp.fr/actualites/permis-de-conduire-gratuit-exoneration-d-impot-jusqu-a-30-ans-comment-le-rn-veut",
+      "passage": "Marine Le Pen reprend l'exonération d'impôt sur le revenu des moins de 30 ans avec une limite « jusqu'à quatre fois le Smic » ; la mesure « coûterait 2 milliards d'euros aux finances publiques chaque année ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Impôt sur le revenu : Le Pen peut-elle vraiment exonérer les jeunes de moins de 30 ans ?",
+      "organisme": "MoneyVox (Samuel Auffray)",
+      "date_publication": "13 avril 2022",
+      "url": "https://www.moneyvox.fr/impot/actualites/88012/impot-sur-le-revenu-le-pen-peut-elle-vraiment-exonerer-les-jeunes-de-moins-de-30-ans",
+      "passage": "Sans condition de revenus, un footballeur millionnaire bénéficierait de la même exonération qu'un jeune au Smic, qui paie probablement peu d'impôt, « comme la majorité des jeunes en début de carrière » ; un juriste estime qu'au minimum « une condition de revenus devrait être introduite ».",
+      "pertinence": "Presse économique grand public (2022).",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La mesure augmenterait le revenu net des jeunes actifs imposables.",
+    "Le départ de jeunes diplômés à l'étranger est un sujet de préoccupation réel."
+  ],
+  "publics": {
+    "convaincus": "Pose-toi la question : combien d'impôt sur le revenu paie un jeune au Smic, un apprenti ou un étudiant ? Presque rien. Cette mesure profiterait surtout aux jeunes cadres, pour environ 374 € par an en moyenne, et coûterait au moins 2 milliards. Ce n'est pas la jeunesse populaire qui y gagnerait.",
+    "indecis": "La mesure part d'une bonne intention, aider les jeunes, mais elle est mal ciblée : elle profite surtout à ceux qui gagnent déjà bien leur vie. Elle coûterait 2 à 3,6 milliards par an et risque d'être jugée contraire à l'égalité devant l'impôt. D'autres aides toucheraient mieux les jeunes en difficulté."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "vulnerables"
+    ],
+    "mecanismes": "Une baisse d’impôt présentée comme « pour les jeunes » profite surtout à ceux qui gagnent déjà bien leur vie.",
+    "consequences": "Les jeunes précaires, étudiants et apprentis, qui ne paient pas d’impôt sur le revenu, n’y gagneraient rien.",
+    "democratie": "Une politique pour la jeunesse se juge sur qui elle aide réellement.",
+    "propositions": [
+      "Une aide directe aux jeunes en difficulté, comme une allocation d’autonomie.",
+      "Augmenter les bas salaires et faciliter l’accès au logement des jeunes."
+    ],
+    "defavorables": [
+      {
+        "fait": "La mesure augmenterait le revenu net des jeunes actifs imposables.",
+        "integration": "Le reconnaître, et montrer qu’elle aide peu ceux qui en ont le plus besoin."
+      }
+    ]
+  },
+  "concepts": [
+    "patriotisme",
+    "fiscalite",
+    "fn_parti",
+    "moins_30"
+  ],
+  "repond_a": [
+    {
+      "id": "impot_jeunes",
+      "label": "Exonération d’impôt des moins de 30 ans"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "taxer",
+    "isf",
+    "tva",
+    "front national",
+    "fn",
+    "rn",
+    "rassemblement national"
+  ]
+}

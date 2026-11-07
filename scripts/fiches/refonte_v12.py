@@ -389,6 +389,8 @@ FICHES.append(fiche(
  ],
  questions=["Combien de propriétaires autour de toi ont acheté sans aucune aide de leur famille ?", "Est-ce normal qu'on dépende de ses parents pour se loger quand on travaille ?"],
  limites=["Les données principales datent de 2013 ; les prix et les taux ont beaucoup évolué depuis.", "Les écarts entre régions ne sont pas détaillés ici."],
+ publics={'convaincus': "Tu as raison de trouver que c'est devenu dur : selon l'Insee, 32 % des jeunes ménages modestes étaient propriétaires en 1973, contre 16 % en 2013. Ce qui fait de plus en plus la différence, c'est l'aide de la famille et l'héritage, pas le mérite ni le salaire. Le problème n'est pas que les gens travaillent moins, c'est que le travail ne suffit plus à acheter.",
+  'indecis': "Ce n'est pas une impression : la part de jeunes ménages modestes propriétaires a été divisée par deux entre 1973 et 2013. Dans les années 2000, environ quatre propriétaires récents sur dix avaient reçu une aide de leur famille. La question devient celle de l'héritage et du prix du logement plus que celle de l'effort individuel."},
  a_actualiser='2027-12-31',
 ))
 
@@ -418,6 +420,8 @@ FICHES.append(fiche(
  ],
  questions=["Connais-tu la garantie Visale ?", "Une garantie publique ne devrait-elle pas être acceptée par tous les bailleurs ?"],
  limites=["Les sources sont des articles d'information (ANIL, UFC-Que Choisir), pas le texte officiel des conditions de Visale.", "Aucune donnée chiffrée sur la sélection des locataires selon leur contrat n'est citée ici."],
+ publics={'convaincus': "Les bailleurs préfèrent les CDI parce qu'ils craignent les impayés, c'est compréhensible. Mais une caution publique gratuite existe, Visale, dont plus de 1,9 million de ménages ont déjà bénéficié : sans condition de ressources jusqu'à 30 ans. Le vrai problème, c'est qu'elle n'oblige pas le bailleur à accepter.",
+  'indecis': 'Pour louer sans CDI, la garantie Visale, gratuite et financée par Action Logement, peut remplacer un garant : sans condition de ressources de 18 à 30 ans, et au-delà pour les salariés récemment embauchés ou gagnant au plus 1 710 € nets. Elle ne règle pas tout, car le bailleur reste libre de choisir son locataire.'},
  a_actualiser='2027-01-31',
 ))
 
@@ -447,6 +451,8 @@ FICHES.append(fiche(
  ],
  questions=["Un enfant pauvre est-il pauvre parce qu'il ne fait pas d'efforts ?", "À ton avis, pourquoi un enfant de cadre a-t-il 4,5 fois plus de chances d'être parmi les plus aisés ?"],
  limites=["Les chiffres de France Stratégie datent de 2018.", "La pauvreté est mesurée ici de façon monétaire (seuil à 60 % du niveau de vie médian)."],
+ publics={'convaincus': "Selon l'Insee, plus d'un enfant sur cinq vit sous le seuil de pauvreté en 2023 : un enfant de dix ans n'a pas « manqué d'efforts ». Et à âge égal, un enfant de cadre vit avec 1 000 € de plus par mois qu'un enfant d'ouvrier non qualifié, selon France Stratégie. L'effort compte, mais tout le monde ne part pas de la même ligne.",
+  'indecis': "L'effort compte dans une vie, c'est vrai. Mais la pauvreté touche d'abord des enfants (21,9 % en 2023) et des familles monoparentales (34,3 %), selon l'Insee. Le milieu d'origine pèse lourd : c'est pour cela que l'école, les services publics et la redistribution comptent autant."},
  a_actualiser='2027-07-31',
 ))
 
@@ -477,6 +483,8 @@ FICHES.append(fiche(
  ],
  questions=["Une mesure comme le SMIC à 1 600 € profiterait-elle aux immigrés ou aux Français ?", "Qui a intérêt à ce que les travailleurs français et immigrés se voient comme des adversaires ?"],
  limites=["Les programmes sont présentés tels qu'ils ont été annoncés, pas tels qu'ils auraient été appliqués.", "Les données de vote proviennent d'un sondage à la sortie des urnes."],
+ publics={'convaincus': "Les immigrés, ce sont aussi des travailleurs : 62,4 % sont en emploi selon l'Insee, souvent dans les métiers essentiels les plus durs. Le SMIC à 1 600 € net ou le retour sur la réforme des retraites concernent tous les salariés, quelle que soit leur origine. Un travailleur sans droits, c'est un moyen de faire baisser les salaires de tous.",
+  'indecis': "Il est vrai qu'une partie des ouvriers vote aujourd'hui davantage pour l'extrême droite, et la gauche doit l'entendre. Mais ses mesures phares, comme la hausse du SMIC ou la retraite, visent tous les salariés. Opposer immigrés et travailleurs, c'est oublier que les premiers sont très souvent les seconds."},
  a_actualiser='2027-06-30',
 ))
 

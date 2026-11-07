@@ -131,6 +131,11 @@
     "Les procédures d'examen individuel allongent les délais et peuvent sembler opaques.",
     "Pour les condamnations graves, la perte du droit au séjour est une demande légitime, déjà largement prise en compte par la loi de 2024."
   ],
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "justice"
+  ],
   "repond_a": [
     {
       "id": "expulsion",
@@ -151,10 +156,5 @@
     "virer",
     "dehors",
     "remigration"
-  ],
-  "concepts": [
-    "immigration",
-    "expulsion",
-    "justice"
   ]
 }

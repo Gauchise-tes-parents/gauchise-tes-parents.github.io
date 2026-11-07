@@ -144,10 +144,6 @@
       }
     ]
   },
-  "concepts": [
-    "services_publics",
-    "colonisation"
-  ],
   "repond_a": [
     {
       "id": "colonisation_bilan",
@@ -160,5 +156,10 @@
     "algerie francaise",
     "empire colonial",
     "indigenat"
+  ],
+  "concepts": [
+    "services_publics",
+    "colonisation",
+    "algerie"
   ]
 }

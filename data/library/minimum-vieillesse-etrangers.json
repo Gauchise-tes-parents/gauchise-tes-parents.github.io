@@ -135,13 +135,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "prestations",
-    "solidarite",
-    "retraite",
-    "aspa"
-  ],
   "repond_a": [
     {
       "id": "aspa",
@@ -166,5 +159,12 @@
     "apl",
     "minima sociaux",
     "assistanat"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "solidarite",
+    "retraite",
+    "aspa"
   ]
 }

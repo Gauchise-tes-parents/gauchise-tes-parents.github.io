@@ -155,12 +155,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "prestations",
-    "cout",
-    "ame"
-  ],
   "repond_a": [
     {
       "id": "ame_cout",
@@ -185,5 +179,11 @@
     "apl",
     "minima sociaux",
     "assistanat"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "cout",
+    "ame"
   ]
 }

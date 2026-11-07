@@ -154,12 +154,6 @@
       }
     ]
   },
-  "concepts": [
-    "justice",
-    "gauche",
-    "syndicats",
-    "juges_rouges"
-  ],
   "repond_a": [
     {
       "id": "juges_rouges",
@@ -184,5 +178,11 @@
     "cgt",
     "cfdt",
     "force ouvriere"
+  ],
+  "concepts": [
+    "justice",
+    "gauche",
+    "syndicats",
+    "juges_rouges"
   ]
 }

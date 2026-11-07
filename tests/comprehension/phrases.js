@@ -94,8 +94,8 @@ export const PHRASES = [
   { t: 'La gauche est islamo-gauchiste et déteste la France.', cat: 'multi', p: ['islamo_gauchisme', 'gauche_patrie'], f: ['islamo-gauchisme-origine-usages', 'gauche-nation-debats'], x: [] },
 
   // ── 6. Logement (lacunes attendues) ──
-  { t: 'Les logements sociaux sont tous donnés aux immigrés.', cat: 'generalisation', p: 'imm_logement', f: null, x: LOGEMENT_X },
-  { t: 'Les HLM c’est que pour les étrangers.', cat: 'familier', p: 'imm_logement', f: null, x: LOGEMENT_X },
+  { t: 'Les logements sociaux sont tous donnés aux immigrés.', cat: 'generalisation', p: 'hlm_immigres', f: 'logements-sociaux-immigres', x: LOGEMENT_X }, // fiche sourcée créée le 7 novembre 2026 (lacune comblée)
+  { t: 'Les HLM c’est que pour les étrangers.', cat: 'familier', p: 'hlm_immigres', f: 'logements-sociaux-immigres', x: LOGEMENT_X }, // fiche sourcée créée le 7 novembre 2026 (lacune comblée)
   { t: 'Les loyers explosent à cause des migrants.', cat: 'causalite', p: 'imm_logement', f: null, x: LOGEMENT_X },
   { t: 'Impossible de trouver un appart, les loyers sont trop chers.', cat: 'emotionnel', p: 'logement', f: null, x: LOGEMENT_X },
   { t: 'Mes enfants n’arrivent pas à se loger.', cat: 'emotionnel', p: 'logement', f: null, x: LOGEMENT_X },

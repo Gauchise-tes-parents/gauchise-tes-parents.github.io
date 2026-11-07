@@ -133,27 +133,10 @@
     "Le programme prévoyait une hausse globale importante des prélèvements.",
     "Les chiffrages des recettes sont contestés, et les effets économiques (départs, investissement) font débat."
   ],
-  "repond_a": [
-    {
-      "id": "gauche_impots",
-      "label": "La gauche et les impôts"
-    }
-  ],
-  "ne_repond_pas": [],
-  "synonymes": [
-    "taxer",
-    "isf",
-    "tva",
-    "melenchon",
-    "meluche",
-    "lfi",
-    "insoumis",
-    "france insoumise",
-    "nupes",
-    "nfp",
-    "gauche",
-    "gauchos"
-  ],
+  "publics": {
+    "convaincus": "Même l'iFRAP, un think tank très critique envers la gauche, calcule que les hausses du programme de 2024 seraient payées par les ménages au-dessus d'environ 46 450 € de revenu par an, et que les impôts des ménages modestes baisseraient. Les cibles, ce sont l'ISF, les superprofits, les grosses successions et les niches fiscales. Si tu gagnes moins que ça, ce programme ne vise pas ton porte-monnaie.",
+    "indecis": "Le programme de la gauche en 2024 prévoyait bien de fortes hausses d'impôts, mais ciblées sur les plus hauts revenus et patrimoines. Selon l'iFRAP, pourtant critique, les ménages modestes paieraient moins. On peut contester ces choix, mais pas dire que tous les impôts augmenteraient pour tout le monde."
+  },
   "lecture": {
     "valeurs": [
       "repartition",
@@ -176,6 +159,28 @@
     "fiscalite",
     "melenchon_lfi",
     "gauche",
-    "heritage"
+    "heritage",
+    "nfp_2024"
+  ],
+  "repond_a": [
+    {
+      "id": "gauche_impots",
+      "label": "La gauche et les impôts"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise",
+    "nupes",
+    "nfp",
+    "gauche",
+    "gauchos"
   ]
 }

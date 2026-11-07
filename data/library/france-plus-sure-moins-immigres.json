@@ -115,6 +115,12 @@
     "Certaines formes de délinquance sont associées à des parcours migratoires précaires ou à des filières criminelles organisées.",
     "Les étrangers sont surreprésentés parmi les mis en cause et les détenus."
   ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "prison",
+    "statistiques"
+  ],
   "repond_a": [
     {
       "id": "imm_delinquance",
@@ -135,11 +141,5 @@
     "peur de sortir",
     "pas en securite",
     "criminalite"
-  ],
-  "concepts": [
-    "immigration",
-    "delinquance",
-    "prison",
-    "statistiques"
   ]
 }

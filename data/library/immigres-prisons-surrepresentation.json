@@ -119,6 +119,13 @@
   "objections_legitimes": [
     "Les étrangers, qui sont une partie des immigrés, sont nettement surreprésentés parmi les détenus."
   ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "prison",
+    "pauvrete",
+    "demographie"
+  ],
   "repond_a": [
     {
       "id": "imm_prison",
@@ -139,12 +146,5 @@
     "peur de sortir",
     "pas en securite",
     "criminalite"
-  ],
-  "concepts": [
-    "immigration",
-    "delinquance",
-    "prison",
-    "pauvrete",
-    "demographie"
   ]
 }

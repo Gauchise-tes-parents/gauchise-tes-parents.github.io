@@ -154,11 +154,6 @@
       }
     ]
   },
-  "concepts": [
-    "renovation",
-    "ecologie",
-    "voiture_electrique"
-  ],
   "repond_a": [
     {
       "id": "voiture_electrique",
@@ -170,6 +165,13 @@
     "dpe",
     "isoler",
     "isolation",
-    "nucleaire"
+    "nucleaire",
+    "fin du thermique"
+  ],
+  "concepts": [
+    "renovation",
+    "ecologie",
+    "voiture_electrique",
+    "thermique_2035"
   ]
 }

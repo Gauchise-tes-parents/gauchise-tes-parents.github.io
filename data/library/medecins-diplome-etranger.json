@@ -1,0 +1,191 @@
+{
+  "id": "medecins-diplome-etranger",
+  "type": "idee_recue",
+  "affirmation": "Les médecins étrangers sont moins compétents que les médecins français.",
+  "volet": "services",
+  "sous_theme": "Médecins et déserts médicaux",
+  "rubriques": [],
+  "mots_cles": [
+    "medecins etrangers",
+    "medecin etranger",
+    "padhue",
+    "diplome etranger",
+    "diplomes hors union europeenne",
+    "medecins diplomes a l etranger",
+    "medecins algeriens",
+    "medecins africains"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Généralisation non étayée : un médecin diplômé hors de l'Union européenne ne peut exercer pleinement en France qu'après un concours sélectif (épreuves de vérification des connaissances), une preuve de maîtrise du français, deux ans de consolidation des compétences et une validation par une commission nationale de spécialité. Ces praticiens représentent environ 8 % des médecins en activité, surtout à l'hôpital. Aucune source ne mesure en France une compétence moindre ; aux États-Unis, une grande étude a même trouvé une mortalité légèrement plus basse chez leurs patients.",
+  "contexte": "Le recours aux praticiens à diplôme hors Union européenne (PADHUE) dans les hôpitaux suscite des remarques sur leur niveau, alors que l'Académie de médecine demande de renforcer leur évaluation.",
+  "explication": "« Médecins étrangers » mélange plusieurs situations : diplômés de l'Union européenne (reconnus automatiquement), diplômés hors Union (soumis à des épreuves), et médecins de nationalité étrangère formés en France. Les contrôles visent justement à garantir le niveau de ceux qui ont étudié hors d'Europe.",
+  "faits": [
+    {
+      "fait": "Selon le ministère de la Santé, les PADHUE passent des épreuves de vérification des connaissances organisées comme un concours, puis un parcours de consolidation des compétences de deux ans ; 3 873 ont réussi le concours en 2024 pour 4 000 postes.",
+      "periode": "2024-2026",
+      "perimetre": "France",
+      "explication": "L'accès au plein exercice est sélectif et encadré.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "3 873"
+    },
+    {
+      "fait": "Selon l'Académie nationale de médecine, les candidats doivent aussi prouver leur maîtrise du français et voir leurs compétences validées par une commission nationale pour chaque spécialité.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Plusieurs filtres successifs vérifient le niveau.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon les données de l'Ordre des médecins, 15 972 anciens PADHUE sont en activité régulière au 1er janvier 2025, soit 8 % des médecins ; 52,7 % exercent à l'hôpital, et ils représentent 14,1 % des pédiatres.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Ils tiennent une part importante de l'hôpital public.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "8 %"
+    },
+    {
+      "fait": "Selon une étude de Harvard publiée dans le BMJ, sur 1,2 million d'hospitalisations aux États-Unis, la mortalité à 30 jours des patients était de 11,2 % avec des médecins diplômés à l'étranger, contre 11,6 % avec des diplômés américains.",
+      "periode": "2011-2014",
+      "perimetre": "États-Unis",
+      "explication": "Là où on l'a mesuré, les médecins formés à l'étranger soignent aussi bien.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "11,2 % contre 11,6 %"
+    },
+    {
+      "fait": "Selon l'Académie de médecine, l'évaluation des PADHUE devrait être renforcée (écrit anonyme, niveau de français plus exigeant, simulation des gestes techniques).",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le système est perfectible : la question du niveau mérite d'être posée sérieusement.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : un médecin diplômé hors d'Europe doit réussir un concours, prouver son français, faire deux ans de consolidation et être validé par une commission de spécialité. Aucune étude française ne montre qu'ils soignent moins bien, et une grande étude américaine trouve même une mortalité légèrement plus basse chez leurs patients.",
+    "moyen": "Un médecin diplômé hors de l'Union européenne ne s'installe pas comme ça. Il doit réussir un concours sélectif, prouver qu'il maîtrise le français, passer deux ans de consolidation à l'hôpital et être validé par une commission nationale de sa spécialité.\n\nIls sont environ 16 000 en activité, 8 % des médecins, et 14 % des pédiatres : sans eux, beaucoup d'hôpitaux fermeraient des services. Aucune étude française ne montre qu'ils soignent moins bien ; aux États-Unis, une étude sur 1,2 million d'hospitalisations trouve même une mortalité un peu plus faible chez leurs patients.",
+    "detaille": "Les praticiens à diplôme hors Union européenne (PADHUE) doivent, pour obtenir le plein exercice, réussir des épreuves de vérification des connaissances organisées comme un concours, prouver leur maîtrise du français, accomplir un parcours de consolidation des compétences de deux ans, puis être validés par une commission nationale de leur spécialité. En 2024, 3 873 ont réussi le concours pour 4 000 postes ; une voie interne, plus légère, existe depuis 2025 pour ceux qui exercent déjà à l'hôpital.\n\nSelon l'Ordre des médecins, environ 16 000 anciens PADHUE sont en activité régulière, soit 8 % des médecins ; plus de la moitié travaillent à l'hôpital, et ils représentent 14,1 % des pédiatres et 10,7 % des gynécologues. Le ministère souligne qu'ils participent à la continuité des soins.\n\nAucune source lue ne mesure en France une compétence moindre. Aux États-Unis, une étude de Harvard sur plus d'un million d'hospitalisations a trouvé une mortalité à 30 jours de 11,2 % avec des médecins diplômés à l'étranger, contre 11,6 % avec des diplômés américains. L'Académie de médecine demande toutefois de renforcer l'évaluation : on peut exiger un haut niveau pour tous sans jeter le soupçon sur ceux qui font tourner l'hôpital.",
+    "empathie": "Je comprends qu'on veuille être soigné par quelqu'un dont on est sûr du niveau, et qu'on s'inquiète quand on comprend mal un médecin. C'est légitime. Mais ces médecins passent un concours et plusieurs contrôles, et rien ne montre qu'ils soignent moins bien."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils ne parlent même pas bien français.",
+      "reponse": "Une preuve de maîtrise du français est exigée ; l'Académie de médecine demande de relever ce niveau."
+    },
+    {
+      "objection": "Il faudrait former plus de médecins français plutôt.",
+      "reponse": "C'est souhaitable, mais il faut dix ans pour former un médecin ; en attendant, ces praticiens tiennent des services entiers."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelles épreuves doit passer un médecin diplômé hors d'Europe pour exercer en France ?",
+    "Qui, dans ton hôpital le plus proche, assure les gardes de nuit ?"
+  ],
+  "limites": [
+    "Aucune étude française comparant la qualité des soins selon le pays de diplôme n'a été trouvée ; l'étude citée est américaine et ne se transpose pas directement.",
+    "Les données de l'Ordre sont reprises par un média professionnel ; l'Atlas 2025 de l'Ordre n'a pas pu être lu sur ce point."
+  ],
+  "sources": [
+    {
+      "titre": "Question écrite n° 04446 (praticiens à diplôme hors Union européenne) et réponse du ministère de la Santé",
+      "organisme": "Sénat / ministère de la Santé",
+      "date_publication": "18 juin 2026",
+      "url": "https://www.senat.fr/questions/base/2025/qSEQ250504446.html",
+      "passage": "Les PADHUE passent des épreuves de vérification des connaissances (EVC), organisées comme un concours dont les jurys fixent la barre d'admissibilité, puis un parcours de consolidation des compétences de deux ans ; une voie interne existe depuis l'automne 2025 (attestation du chef de service et une épreuve à choix multiples) ; « 3 873 PADHUE ont réussi le concours en 2024 » pour 4 000 postes ; ils « participent à la continuité des soins ».",
+      "pertinence": "Réponse officielle du ministère compétent.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Avis de l'Académie nationale de médecine concernant le droit de plein exercice des PADHUE",
+      "organisme": "Académie nationale de médecine",
+      "date_publication": "15 janvier 2026",
+      "url": "https://www.academie-medecine.fr/avis-de-lanm-concernant-le-droit-de-plein-exercice-des-padhue-praticiens-a-diplome-hors-union-europeenne/",
+      "passage": "Les candidats doivent « passer une épreuve de vérification des connaissances médicales (EVC) », prouver leur maîtrise du français, puis voir leurs compétences « validées par une commission nationale pour chaque spécialité » ; environ 8 % des médecins de plein exercice ont été formés hors d'Europe ; l'Académie demande de renforcer l'évaluation (écrit anonyme, français B2 à C1, simulation des gestes techniques).",
+      "pertinence": "Institution scientifique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Praticiens à diplôme hors Union européenne : 9 % exercent en psychiatrie",
+      "organisme": "Santé mentale (Valérie Westphal), d'après le Conseil national de l'Ordre des médecins",
+      "date_publication": "7 mars 2025",
+      "url": "https://www.santementale.fr/2025/02/quel-exercice-pour-les-anciens-padhue/",
+      "passage": "Au 1er janvier 2025, 19 154 anciens PADHUE sont inscrits à l'Ordre, dont 15 972 en activité régulière : « Ces praticiens représentent désormais 8 % du corps médical en activité régulière » ; leur nombre a augmenté de 141 % depuis 2010 ; 52,7 % exercent comme salariés à l'hôpital ; ils représentent 14,1 % des pédiatres et 10,7 % des gynécologues.",
+      "pertinence": "Presse professionnelle, d'après les données de l'Ordre des médecins.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Quality of Care Delivered by General Internists in US Hospitals Who Graduated from Foreign Versus US Medical Schools (BMJ)",
+      "organisme": "Harvard Medical School (Tsugawa, Jena, Orav, Jha)",
+      "date_publication": "2 février 2017",
+      "url": "https://hcp.hms.harvard.edu/publication/quality-care-delivered-general-internists-us-hospitals-who-graduated-foreign-versus-us",
+      "passage": "Sur 1 215 490 hospitalisations de patients Medicare (2011-2014), la mortalité ajustée à 30 jours est de « 11.2% v 11.6% » pour les patients des médecins diplômés à l'étranger par rapport à ceux des diplômés américains.",
+      "pertinence": "Étude universitaire publiée dans une revue médicale de référence (États-Unis).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les formations hors Union européenne sont de niveau inégal, ce qui justifie les épreuves de vérification.",
+    "L'Académie de médecine juge l'évaluation perfectible, et la nouvelle voie interne allège l'épreuve."
+  ],
+  "publics": {
+    "convaincus": "Un médecin diplômé hors d'Europe passe un concours, prouve son français, fait deux ans de consolidation et doit être validé par une commission de sa spécialité. Ils sont 8 % des médecins et 14 % des pédiatres : sans eux, des urgences fermeraient. Et là où on a mesuré, aux États-Unis, leurs patients ne meurent pas plus, plutôt un peu moins.",
+    "indecis": "Ta question sur le niveau est légitime, et l'Académie de médecine veut d'ailleurs renforcer les contrôles. Mais ces médecins passent déjà plusieurs épreuves, et aucune étude ne montre qu'ils soignent moins bien. Ils sont aujourd'hui indispensables à de nombreux hôpitaux."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "antiracisme",
+      "dignite"
+    ],
+    "mecanismes": "Le soupçon d’incompétence vise des médecins sélectionnés qui tiennent des services hospitaliers entiers.",
+    "consequences": "Ces praticiens, souvent moins bien payés pendant leur parcours, subissent une double peine.",
+    "democratie": "L’égal accès aux soins dépend aujourd’hui en partie de ces médecins.",
+    "propositions": [
+      "Former davantage de médecins en France.",
+      "Rémunérer et intégrer dignement les praticiens diplômés à l’étranger, avec une évaluation exigeante et équitable."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les formations hors Union européenne sont inégales, et l’Académie de médecine veut renforcer l’évaluation.",
+        "integration": "Le reconnaître : exiger un haut niveau pour tous, sans soupçon généralisé."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "origine",
+    "europe",
+    "algerie",
+    "medecins_etrangers"
+  ],
+  "repond_a": [
+    {
+      "id": "medecins_etrangers",
+      "label": "Médecins diplômés à l’étranger"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "bruxelles",
+    "union europeenne",
+    "padhue"
+  ]
+}

@@ -36,7 +36,7 @@
       "chiffre": "17 % + 29 %"
     },
     {
-      "fait": "Selon Actu-Juridique, après les réformes de 2018 (ISF remplacé par l'IFI, flat tax), les dividendes versés aux ménages passent d'environ 14 Md€ par an (2013-2017) à 23 Md€ (2018-2020).",
+      "fait": "Selon Actu-Juridique, Après les réformes de 2018 (ISF remplacé par l'IFI, flat tax), les dividendes versés aux ménages passent d'environ 14 Md€ par an (2013-2017) à 23 Md€ (2018-2020).",
       "periode": "2013-2020",
       "perimetre": "France",
       "explication": "L'argent libéré a d'abord été distribué en dividendes.",
@@ -111,27 +111,10 @@
     "Le capital et l'esprit d'entreprise sont nécessaires à la création d'emplois.",
     "L'évaluation note un effet positif de la réforme de 2018 sur la décision d'entreprendre."
   ],
-  "repond_a": [
-    {
-      "id": "riches_emplois",
-      "label": "Les riches créeraient les emplois"
-    }
-  ],
-  "ne_repond_pas": [],
-  "synonymes": [
-    "travail",
-    "travailler",
-    "taf",
-    "bosser",
-    "marche du travail",
-    "pole emploi",
-    "france travail",
-    "taxer",
-    "isf",
-    "tva",
-    "patronat",
-    "grands groupes"
-  ],
+  "publics": {
+    "convaincus": "Près de la moitié des salariés travaillent dans des TPE et des PME, pas chez des milliardaires. Et quand on a baissé les impôts des plus riches en 2018, les dividendes versés aux ménages sont passés de 14 à 23 milliards par an, sans réinvestissement massif selon l'évaluation officielle. Ce qui crée l'emploi, ce sont des entreprises qui ont des clients.",
+    "indecis": "Les entrepreneurs et l'investissement comptent pour l'emploi, c'est vrai. Mais l'expérience de 2018 montre qu'alléger les impôts des plus riches a surtout augmenté les dividendes versés. Une entreprise embauche quand elle a des clients, donc quand les gens ont de quoi consommer."
+  },
   "lecture": {
     "valeurs": [
       "repartition",
@@ -156,5 +139,26 @@
     "emploi",
     "fiscalite",
     "riches_entreprises"
+  ],
+  "repond_a": [
+    {
+      "id": "riches_emplois",
+      "label": "Les riches créeraient les emplois"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "taxer",
+    "isf",
+    "tva",
+    "patronat",
+    "grands groupes"
   ]
 }

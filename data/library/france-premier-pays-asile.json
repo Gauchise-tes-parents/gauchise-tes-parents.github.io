@@ -1,0 +1,190 @@
+{
+  "id": "france-premier-pays-asile",
+  "type": "idee_recue",
+  "affirmation": "La France est le pays d'Europe qui accueille le plus de demandeurs d'asile.",
+  "volet": "immigration",
+  "sous_theme": "Comparaisons européennes",
+  "rubriques": [],
+  "mots_cles": [
+    "demandeurs d asile",
+    "demandes d asile",
+    "premier pays d asile",
+    "le plus de demandeurs",
+    "champion de l asile",
+    "asile europe",
+    "pays d accueil"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux : en 2025, la France est deuxième de l'Union européenne pour le nombre total de demandes d'asile (152 000, derrière l'Allemagne avec 163 000) et troisième pour les premières demandes (116 400, derrière l'Espagne et l'Italie). Rapportée à sa population, elle est loin du sommet : la Grèce, Chypre, l'Espagne, la Belgique et la Suisse reçoivent bien plus de demandes par habitant. Le nombre de demandes a baissé en 2025 dans l'Union (-27 % pour les premières demandes).",
+  "contexte": "L'idée que la France serait la destination principale des demandeurs d'asile en Europe est fréquente dans les discours sur l'« appel d'air ».",
+  "explication": "On peut compter toutes les demandes (y compris les réexamens) ou seulement les premières demandes, et en volume ou par habitant. La France est parmi les premiers pays en volume, parce qu'elle est très peuplée, mais pas par habitant.",
+  "faits": [
+    {
+      "fait": "Selon l'Agence de l'UE pour l'asile, en 2025, l'Allemagne a reçu 163 000 demandes d'asile, la France 152 000, l'Espagne 143 000 et l'Italie 134 000.",
+      "periode": "2025",
+      "perimetre": "Union européenne et pays associés",
+      "explication": "La France est deuxième en volume, pas première.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "152 000"
+    },
+    {
+      "fait": "Selon Eurostat, pour les premières demandes en 2025, l'Espagne (141 000) et l'Italie (126 600) devancent la France (116 400) et l'Allemagne (113 200).",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "En primo-demandes, la France est troisième.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "116 400"
+    },
+    {
+      "fait": "Selon l'Agence de l'UE pour l'asile, la moyenne est d'environ 1 800 demandes par million d'habitants ; la Grèce (5 900), Chypre (4 500), l'Espagne, la Belgique et la Suisse (environ 2 900 chacune) sont en tête.",
+      "periode": "2025",
+      "perimetre": "Union européenne et pays associés",
+      "explication": "Par habitant, d'autres pays accueillent bien plus.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 800 par million"
+    },
+    {
+      "fait": "Selon le Sénat, la France est « le troisième pays d'accueil des primo-demandeurs d'asile en 2025 », avec plus de 145 000 demandes déposées à l'OFPRA (environ -5 %), et un taux de protection de 52,1 % recours compris.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Un rapport de droite confirme le classement.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "52,1 %"
+    },
+    {
+      "fait": "Selon Eurostat, les premières demandes d'asile ont baissé de 27 % dans l'UE en 2025 (669 400 contre 912 400 en 2024).",
+      "periode": "2024-2025",
+      "perimetre": "Union européenne",
+      "explication": "La tendance est à la baisse.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "-27 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : en 2025, la France est deuxième derrière l'Allemagne pour l'ensemble des demandes d'asile, et troisième derrière l'Espagne et l'Italie pour les premières demandes. Rapportée à sa population, elle est loin derrière la Grèce, Chypre, l'Espagne ou la Belgique.",
+    "moyen": "La France n'est pas première. En 2025, l'Allemagne a reçu plus de demandes d'asile (163 000 contre 152 000), et pour les premières demandes, l'Espagne et l'Italie passent devant la France.\n\nSurtout, la France est un grand pays : rapporté au nombre d'habitants, la Grèce, Chypre, l'Espagne, la Belgique ou la Suisse en reçoivent bien plus. Et les demandes ont baissé en 2025 dans toute l'Union. La France fait partie des principaux pays d'accueil, ce qui est normal pour un pays aussi peuplé, mais elle n'est pas « le » pays de l'asile.",
+    "detaille": "Selon l'Agence de l'Union européenne pour l'asile, 822 000 demandes d'asile ont été déposées en 2025 dans l'Union et les pays associés, en baisse pour la deuxième année consécutive. En volume, l'Allemagne arrive en tête (163 000), devant la France (152 000), l'Espagne (143 000) et l'Italie (134 000). Pour les premières demandes, Eurostat classe l'Espagne (141 000) et l'Italie (126 600) devant la France (116 400) ; le Sénat confirme que la France est le troisième pays d'accueil des primo-demandeurs.\n\nPar habitant, la moyenne est d'environ 1 800 demandes par million d'habitants. La Grèce (5 900), Chypre (4 500), puis l'Espagne, la Belgique et la Suisse (environ 2 900) arrivent en tête ; la France n'en fait pas partie.\n\nEn France, l'OFPRA a reçu 145 270 demandes en 2025 (-5,5 %) et a accordé une protection dans 41 % des cas, 52,1 % en comptant les recours. Environ une demande sur deux aboutit donc à une protection, accordée à des personnes dont les craintes de persécution ont été reconnues.",
+    "empathie": "Je comprends qu'on ait l'impression que tout le monde vient en France, vu ce qu'on entend. Mais les chiffres européens montrent que d'autres pays reçoivent plus, surtout par habitant, et que les demandes baissent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La France est la plus généreuse, donc tout le monde vient ici.",
+      "reponse": "Par habitant, la Grèce, Chypre, l'Espagne et la Belgique reçoivent bien plus de demandes."
+    },
+    {
+      "objection": "Ce sont de faux réfugiés.",
+      "reponse": "En 2025, plus d'une demande sur deux a abouti à une protection, recours compris."
+    }
+  ],
+  "questions": [
+    "Sais-tu quel pays européen a reçu le plus de demandes d'asile en 2025 ?",
+    "Combien de demandes par habitant reçoit la France comparée à la Belgique ?"
+  ],
+  "limites": [
+    "Le chiffre par habitant de la France n'est pas donné explicitement par les sources lues ; la fiche indique seulement qu'elle ne figure pas parmi les premiers.",
+    "Les données de 2024 n'ont pas été vérifiées séparément."
+  ],
+  "sources": [
+    {
+      "titre": "Asylum Report 2026 — Executive summary : Managing access to international protection",
+      "organisme": "Agence de l'Union européenne pour l'asile (EUAA)",
+      "date_publication": "2026",
+      "url": "https://www.euaa.europa.eu/asylum-report-2026-executive-summary/managing-access-international-protection-0",
+      "passage": "« In 2025, the number of asylum applications lodged in EU+ countries declined for a second year in a row to 822,000 » ; en volume : Allemagne 163 000, France 152 000, Espagne 143 000, Italie 134 000 ; moyenne d'environ 1 800 demandes par million d'habitants, avec en tête la Grèce (5 900), Chypre (4 500), puis l'Espagne, la Belgique et la Suisse (environ 2 900 chacune).",
+      "pertinence": "Agence de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "27% drop in first-time asylum applications in 2025",
+      "organisme": "Eurostat",
+      "date_publication": "25 mars 2026",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260325-2",
+      "passage": "669 400 primo-demandeurs d'asile dans l'UE en 2025, contre 912 400 en 2024 (-27 %) ; Espagne 141 000 (21 %), Italie 126 600 (19 %), France 116 400 (17 %), Allemagne 113 200 (17 %) ; pour 1 000 habitants : moyenne de l'UE 1,5, Grèce 5,3, Chypre et Espagne 2,9.",
+      "pertinence": "Office statistique de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Asile : faire la lumière sur les coûts, redéfinir les protections (L'essentiel)",
+      "organisme": "Sénat, commission des finances",
+      "date_publication": "8 juillet 2026",
+      "url": "https://www.senat.fr/fileadmin/cru-1783325159/Commissions/Finances/2025-2026/Controles/Essentiel_post-commission_couts_de_l_asile.pdf",
+      "passage": "« la France est ainsi le troisième pays d'accueil des primo-demandeurs d'asile en 2025 », derrière l'Espagne et l'Italie ; plus de 145 000 demandes déposées à l'OFPRA en 2025 (environ -5 %) ; le taux de protection, recours devant la CNDA inclus, « atteint désormais 52,1 % en 2025 » ; le rapport parle d'un « taux infinitésimal d'exécution des OQTF des déboutés de l'asile ».",
+      "pertinence": "Synthèse d'un rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "OFPRA publishes its annual report for 2025",
+      "organisme": "Agence de l'Union européenne pour l'asile (plateforme d'information)",
+      "date_publication": "27 juillet 2026",
+      "url": "https://dip.euaa.europa.eu/node/13714",
+      "passage": "145 270 demandes en 2025 (-5,5 %), dont -14,4 % de premières demandes ; 156 509 décisions, un record ; taux de protection de l'OFPRA : 41 %, contre 39 % en 2024 ; les réexamens ont augmenté de 43 %.",
+      "pertinence": "Agence de l'Union européenne, d'après le rapport de l'OFPRA.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La France fait partie des trois ou quatre principaux pays d'accueil en volume (deuxième en 2025 pour l'ensemble des demandes).",
+    "Les réexamens de demandes ont fortement augmenté en France en 2025 (+43 % selon l'OFPRA)."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres européens sont clairs : en 2025, l'Allemagne a reçu plus de demandes que la France, et l'Espagne et l'Italie plus de premières demandes. Par habitant, la Belgique ou la Grèce en reçoivent bien plus. Et plus d'une demande sur deux aboutit à une protection : ce sont des gens qui fuient vraiment quelque chose.",
+    "indecis": "La France est l'un des principaux pays d'asile en Europe, c'est normal pour un pays de sa taille, mais elle n'est pas la première. Par habitant, d'autres pays accueillent beaucoup plus, et les demandes baissent en 2025. Ces repères aident à mesurer la situation sans l'exagérer."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "solidarite",
+      "internationalisme"
+    ],
+    "mecanismes": "Un classement en volume, sans rapport à la population, sert à faire croire que la France est submergée.",
+    "consequences": "Cette exagération justifie des restrictions qui touchent des personnes dont la protection est souvent reconnue.",
+    "democratie": "Débattre de l’asile suppose des comparaisons exactes.",
+    "propositions": [
+      "Une répartition solidaire de l’accueil en Europe.",
+      "Des conditions d’accueil dignes pendant l’examen des demandes."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France fait partie des principaux pays d’accueil en volume.",
+        "integration": "Le reconnaître, et rapporter les chiffres à sa population."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "europe",
+    "asile"
+  ],
+  "repond_a": [
+    {
+      "id": "asile_classement",
+      "label": "Classement européen de l’asile"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "bruxelles",
+    "union europeenne",
+    "droit d asile"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": "vaccins-arn-mortalite",
+  "type": "idee_recue",
+  "affirmation": "Les vaccins à ARN messager ont fait plus de morts que le covid.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "vaccins arn",
+    "arn messager",
+    "arnm",
+    "vaccin covid",
+    "vaccins covid",
+    "pfizer",
+    "moderna",
+    "morts du vaccin",
+    "effets secondaires vaccin",
+    "vaccin tue"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux : le covid a fait plus de 160 000 morts en France entre mars 2020 et décembre 2022, dont 60 895 sur la seule année 2021. Une étude d'EPI-PHARE sur 28 millions de personnes de 18 à 59 ans montre une mortalité toute cause plus basse de 20 à 25 % chez les vaccinés sur quatre ans, et « exclut » un risque accru de décès. Les vaccins ont des effets indésirables réels, comme les myocardites chez les jeunes hommes, rares et d'évolution généralement favorable.",
+  "contexte": "Depuis 2021, des affirmations sur une surmortalité due aux vaccins à ARN circulent sur les réseaux sociaux, relayées par des milieux antivaccins et une partie de l'extrême droite.",
+  "explication": "Pour savoir si un vaccin tue, on compare la mortalité de très grands groupes de personnes vaccinées et non vaccinées, et on suit les effets indésirables déclarés (pharmacovigilance).",
+  "faits": [
+    {
+      "fait": "Selon Santé publique France, relayée par l'AFP, plus de 160 000 personnes sont mortes du covid en France entre mars 2020 et décembre 2022.",
+      "periode": "2020-2022",
+      "perimetre": "France",
+      "explication": "Le covid a été une catastrophe sanitaire.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "160 008"
+    },
+    {
+      "fait": "Selon Santé publique France, le covid a directement causé 60 895 décès en France en 2021, troisième cause de décès cette année-là.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Une seule année de covid a tué plus de 60 000 personnes.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "60 895"
+    },
+    {
+      "fait": "Selon EPI-PHARE, sur près de 29 millions de personnes de 18 à 59 ans suivies quatre ans, la mortalité toute cause est environ 20 à 25 % plus faible chez les vaccinés ; les résultats « excluent donc un risque accru de mortalité toute cause à 4 ans chez les individus vaccinés ».",
+      "periode": "2021-2025",
+      "perimetre": "France",
+      "explication": "Si le vaccin tuait massivement, les vaccinés mourraient davantage : c'est l'inverse.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "-20 à -25 %"
+    },
+    {
+      "fait": "Selon l'ANSM, le risque de myocardite après vaccination est confirmé, surtout chez les hommes de moins de 30 ans avec Spikevax (environ 132 cas en excès par million de doses), avec une évolution généralement favorable et aucun décès chez les patients hospitalisés de l'étude.",
+      "periode": "2021-2022",
+      "perimetre": "France",
+      "explication": "Les effets indésirables existent ; ils sont rares et ont été rendus publics.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "132 par million"
+    },
+    {
+      "fait": "Selon l'OMS, la vaccination a sauvé plus de 1,4 million de vies dans la région Europe entre 2020 et mars 2023.",
+      "periode": "2020-2023",
+      "perimetre": "Europe",
+      "explication": "Le bilan est très largement positif.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "1,4 million"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le covid a tué plus de 160 000 personnes en France de 2020 à 2022, et une étude sur 28 millions de Français montre une mortalité plus basse de 20 à 25 % chez les vaccinés sur quatre ans. Les effets indésirables graves existent mais sont rares.",
+    "moyen": "Le covid a fait plus de 160 000 morts en France de mars 2020 à fin 2022, dont près de 61 000 en 2021. Si les vaccins avaient fait encore plus de morts, ça se verrait : on aurait des centaines de milliers de décès inexpliqués.\n\nOr EPI-PHARE a suivi près de 29 millions de Français de 18 à 59 ans pendant quatre ans : les vaccinés meurent 20 à 25 % moins que les non-vaccinés. Il y a des effets indésirables réels, comme les myocardites chez de jeunes hommes ; ils sont rares, guérissent en général, et l'ANSM les a publiés.",
+    "detaille": "Selon Santé publique France, plus de 160 000 personnes sont mortes du covid en France entre mars 2020 et décembre 2022 ; en 2021, le covid a directement causé 60 895 décès. L'OMS estime que la vaccination a sauvé plus de 1,4 million de vies en Europe entre 2020 et mars 2023.\n\nEn décembre 2025, EPI-PHARE (ANSM et Assurance maladie) a publié une étude sur près de 29 millions de personnes de 18 à 59 ans suivies pendant 45 mois en médiane. Les vaccinés à ARN ont un risque de décès toute cause environ 25 % plus faible (20 % après correction des biais). Les auteurs concluent que ces résultats excluent un risque accru de mortalité, tout en signalant les limites d'une étude observationnelle.\n\nLes vaccins ont des effets indésirables : l'ANSM a confirmé dès 2021 un risque de myocardite, surtout chez les hommes de moins de 30 ans, rare et d'évolution généralement favorable. Ce suivi public montre justement que les effets indésirables sont recherchés et publiés. Les chiffres disent clairement que le covid a tué beaucoup plus que les vaccins.",
+    "empathie": "Je comprends qu'on se méfie d'un vaccin développé vite, et qu'on connaisse quelqu'un qui a eu des effets secondaires. Ça existe. Mais les études sur des millions de Français montrent que les vaccinés sont moins morts, pas plus."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On cache les morts du vaccin.",
+      "reponse": "L'ANSM publie les effets indésirables, y compris les myocardites ; et une étude sur 28 millions de personnes ne montre aucune surmortalité."
+    },
+    {
+      "objection": "Le covid ne tuait que les personnes âgées.",
+      "reponse": "Il a surtout tué des personnes âgées, mais plus de 160 000 morts restent un bilan énorme, et l'étude EPI-PHARE porte justement sur les 18-59 ans."
+    }
+  ],
+  "questions": [
+    "Combien de morts du covid y a-t-il eu en France, selon toi ?",
+    "Si le vaccin tuait plus que le covid, pourquoi les vaccinés mourraient-ils moins dans une étude sur 28 millions de personnes ?"
+  ],
+  "limites": [
+    "Le décompte de 160 000 morts date de décembre 2022 ; il a augmenté depuis.",
+    "L'étude EPI-PHARE ne porte que sur les 18-59 ans et présente une incohérence de chiffre sur le risque de covid sévère entre son résumé et son texte."
+  ],
+  "sources": [
+    {
+      "titre": "Vaccination par ARNm contre la COVID-19 et mortalité toute cause à 4 ans chez 28 millions d'individus âgés de 18 à 59 ans",
+      "organisme": "EPI-PHARE (ANSM-Assurance maladie)",
+      "date_publication": "4 décembre 2025",
+      "url": "https://www.epi-phare.fr/app/uploads/2025/12/EPI-PHARE_rapport_mortalite_vaccination_covid_20251204.pdf",
+      "passage": "Cohorte de 22 767 546 personnes vaccinées et 5 932 443 non vaccinées, suivies 45 mois en médiane ; 98 429 décès (0,4 %) chez les vaccinés contre 32 662 (0,6 %) chez les non-vaccinés ; risque de décès toute cause environ 25 % plus faible chez les vaccinés (environ 20 % après correction) ; « Ces résultats excluent donc un risque accru de mortalité toute cause à 4 ans chez les individus vaccinés » ; les auteurs signalent les limites d'une étude observationnelle.",
+      "pertinence": "Groupement scientifique public de pharmaco-épidémiologie.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le risque de myocardite et péricardite après la vaccination Covid-19 est confirmé mais peu fréquent et d'évolution favorable",
+      "organisme": "ANSM (étude EPI-PHARE)",
+      "date_publication": "8 novembre 2021 (mis à jour le 8 avril 2022)",
+      "url": "https://ansm.sante.fr/actualites/le-risque-de-myocardite-et-pericardite-apres-la-vaccination-Covid-19-est-confirme-mais-peu-frequent-et-devolution-favorable",
+      "passage": "Étude de 919 myocardites chez les 12-50 ans : risque le plus élevé chez les hommes de moins de 30 ans, surtout avec Spikevax (environ 132 cas en excès par million de doses) ; « l'évolution clinique […] apparaît généralement favorable » ; aucun décès chez les patients hospitalisés de l'étude ; la balance bénéfice-risque n'est pas remise en cause.",
+      "pertinence": "Agence publique de sécurité du médicament.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Grandes causes de décès en France en 2021",
+      "organisme": "Santé publique France",
+      "date_publication": "19 décembre 2023",
+      "url": "https://www.santepubliquefrance.fr/presse/grandes-causes-de-deces-en-france-en-2021",
+      "passage": "« La Covid-19 a directement causé le décès de 60 895 personnes en France en 2021 », troisième cause de décès (9,2 %).",
+      "pertinence": "Agence nationale de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le seuil des 160 000 morts du covid franchi en France",
+      "organisme": "AlloDocteurs (France Télévisions), avec l'AFP",
+      "date_publication": "14 décembre 2022",
+      "url": "https://www.allodocteurs.fr/le-seuil-des-160-000-morts-du-covid-franchi-en-france-33844.html",
+      "passage": "Selon Santé publique France, 160 008 personnes sont mortes du covid en France depuis mars 2020, dont 130 617 à l'hôpital.",
+      "pertinence": "Média de santé du service public, d'après Santé publique France (données de 2022).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Les vaccinations contre la COVID-19 ont sauvé plus de 1,4 million de vies dans la Région européenne de l'OMS",
+      "organisme": "Organisation mondiale de la santé (bureau régional de l'Europe)",
+      "date_publication": "16 janvier 2024",
+      "url": "https://www.who.int/europe/fr/news/item/16-01-2024-covid-19-vaccinations-have-saved-more-than-1.4-million-lives-in-the-who-european-region--a-new-study-finds",
+      "passage": "Entre 2020 et mars 2023, la vaccination a sauvé plus de 1,4 million de vies dans la Région européenne de l'OMS et réduit les décès d'au moins 57 %.",
+      "pertinence": "Organisation internationale de santé.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les vaccins à ARN ont des effets indésirables graves réels, comme les myocardites, surtout chez les jeunes hommes.",
+    "Les déclarations de pharmacovigilance ne sont pas exhaustives, et l'étude EPI-PHARE est observationnelle."
+  ],
+  "publics": {
+    "convaincus": "Plus de 160 000 morts du covid en France en moins de trois ans : si les vaccins avaient tué davantage, il y aurait des centaines de milliers de morts inexpliqués. L'étude sur 28 millions de Français montre au contraire que les vaccinés sont morts moins. Les myocardites existent, et c'est l'ANSM elle-même qui les a rendues publiques.",
+    "indecis": "La méfiance envers un vaccin nouveau est compréhensible, et les effets indésirables existent, comme de rares myocardites. Mais les grandes études françaises sont claires : la vaccination n'augmente pas la mortalité, et le covid a tué plus de 160 000 personnes. Le bilan reste très largement en faveur du vaccin."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "services_publics",
+      "vulnerables"
+    ],
+    "mecanismes": "La méfiance envers les institutions et les laboratoires est retournée contre un vaccin qui a sauvé des vies.",
+    "consequences": "La désinformation vaccinale fait reculer la protection des plus fragiles.",
+    "democratie": "Une pharmacovigilance publique et transparente est la meilleure réponse à la méfiance.",
+    "propositions": [
+      "Une recherche publique et indépendante sur les médicaments et leurs effets.",
+      "Rendre publics les contrats et les profits des laboratoires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les vaccins à ARN ont des effets indésirables graves réels, comme de rares myocardites.",
+        "integration": "Le dire, en rappelant qu’ils sont rares et suivis publiquement."
+      }
+    ]
+  },
+  "concepts": [
+    "desinformation",
+    "vaccin"
+  ],
+  "repond_a": [
+    {
+      "id": "vaccin",
+      "label": "Vaccins contre le covid"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "desinformation",
+    "fake news",
+    "manipulation de l information",
+    "arn messager",
+    "arnm",
+    "pfizer",
+    "moderna"
+  ]
+}

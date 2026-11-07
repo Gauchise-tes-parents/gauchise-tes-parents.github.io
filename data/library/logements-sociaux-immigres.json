@@ -1,0 +1,201 @@
+{
+  "id": "logements-sociaux-immigres",
+  "type": "idee_recue",
+  "affirmation": "Les logements sociaux sont attribués en priorité aux immigrés.",
+  "volet": "immigration",
+  "sous_theme": "Logement",
+  "rubriques": [],
+  "mots_cles": [
+    "logements sociaux",
+    "logement social",
+    "hlm",
+    "attribution des logements",
+    "priorite aux immigres",
+    "logements aux etrangers",
+    "hlm aux immigres",
+    "hlm aux etrangers",
+    "passent devant"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux : la loi ne prévoit aucune priorité liée à la nationalité ou à l'origine. Les priorités sont sociales : ménages reconnus au titre du droit au logement opposable (DALO), personnes handicapées, mal logées, sans logement, victimes de violences. Les immigrés sont plus souvent locataires HLM (35 % contre 11 % des personnes sans ascendance migratoire), ce que l'Insee explique surtout par des revenus plus faibles et un âge plus jeune. À caractéristiques égales, les ménages non européens attendent même plus longtemps.",
+  "contexte": "Marine Le Pen a proposé en 2026 de réserver les logements HLM aux Français ; l'idée que les immigrés « passent devant » est ancienne.",
+  "explication": "Pour obtenir un HLM, il faut résider régulièrement en France et avoir des revenus sous un plafond (72 % des ménages sont éligibles). Les commissions attribuent ensuite selon l'urgence sociale. Les ménages pauvres, mal logés ou suroccupés, parmi lesquels les immigrés sont surreprésentés, sont donc plus souvent prioritaires.",
+  "faits": [
+    {
+      "fait": "Selon le ministère du Logement, les attributions vont d'abord aux ménages reconnus prioritaires au titre du DALO, puis aux publics définis par la loi : personnes handicapées, mal logées, hébergées, victimes de violences conjugales, sans logement ou menacées d'expulsion ; aucun critère de nationalité ou d'origine n'est prévu.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les priorités sont sociales, pas ethniques.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministère, 72 % des ménages sont éligibles au logement social, à condition de résider régulièrement et durablement en France.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le logement social s'adresse à la grande majorité des ménages, Français compris.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "72 %"
+    },
+    {
+      "fait": "Selon l'Insee, 35 % des immigrés de 18 à 59 ans vivent en logement social, contre 11 % des personnes sans ascendance migratoire ; cette surreprésentation est « largement liée aux moindres revenus et à l'âge plus jeune des immigrés ».",
+      "periode": "2019-2020",
+      "perimetre": "France",
+      "explication": "Les immigrés sont plus souvent en HLM parce qu'ils sont plus souvent pauvres.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "35 %"
+    },
+    {
+      "fait": "Selon l'Insee, 26 % des immigrés vivent dans un logement suroccupé, contre 8 % des personnes sans ascendance migratoire.",
+      "periode": "2019-2020",
+      "perimetre": "France",
+      "explication": "Ils sont aussi plus souvent mal logés, un critère de priorité.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "26 %"
+    },
+    {
+      "fait": "Selon une étude publiée dans la revue de l'Insee, à caractéristiques égales, les ménages non européens attendent plus longtemps un logement social, et une part importante de cet écart peut être due à des discriminations.",
+      "periode": "2006",
+      "perimetre": "France",
+      "explication": "Loin d'être favorisés, ils sont plutôt désavantagés à situation égale.",
+      "source": 2,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon l'Union sociale pour l'habitat citée par LCP, les étrangers représentent 15 % des locataires du parc social ; sa présidente affirme qu'ils « ne sont pas favorisés dans l'entrée dans le logement social ».",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les bailleurs sociaux démentent toute priorité.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "15 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : la loi ne prévoit aucune priorité liée à l'origine ; les priorités sont sociales (DALO, handicap, mal-logement, violences). Les immigrés sont plus souvent en HLM parce qu'ils sont plus souvent pauvres, et à situation égale ils attendent même plus longtemps.",
+    "moyen": "Il n'existe aucune priorité pour les immigrés dans la loi. Les HLM vont d'abord aux personnes reconnues au titre du droit au logement opposable, puis aux personnes handicapées, sans logement, mal logées ou victimes de violences, quelle que soit leur origine.\n\nC'est vrai que les immigrés sont plus souvent en HLM (35 % contre 11 %). Mais l'Insee explique pourquoi : ils ont en moyenne des revenus plus faibles et sont plus jeunes. Et à situation égale, une étude montre que les ménages non européens attendent plus longtemps. Le vrai problème, c'est qu'on ne construit pas assez de logements sociaux pour tous ceux qui y ont droit.",
+    "detaille": "Selon le ministère du Logement, 72 % des ménages sont éligibles au logement social, à condition de résider régulièrement et durablement en France et d'avoir des revenus sous un plafond. Les attributions vont d'abord aux ménages reconnus prioritaires au titre du droit au logement opposable, puis aux publics définis par le code de la construction : personnes handicapées, mal logées, hébergées, victimes de violences conjugales, sans logement ou menacées d'expulsion, jeunes sortant de l'aide sociale à l'enfance. Aucun critère de nationalité ou d'origine n'existe.\n\nSelon l'enquête Trajectoires et Origines de l'Ined et de l'Insee, 35 % des immigrés de 18 à 59 ans vivent en logement social, contre 11 % des personnes sans ascendance migratoire ; l'Insee l'explique surtout par des revenus plus faibles et un âge plus jeune. Ils vivent aussi trois fois plus souvent dans un logement suroccupé. Selon l'Union sociale pour l'habitat, les étrangers représentent 15 % des locataires HLM.\n\nUne étude publiée dans la revue de l'Insee montre qu'à caractéristiques égales, les ménages non européens attendent plus longtemps un logement social, en partie à cause de discriminations. Opposer Français et immigrés détourne du vrai problème : le manque de logements sociaux pour tous les ménages modestes.",
+    "empathie": "Je comprends la colère de quelqu'un qui attend un HLM depuis des années et qui voit d'autres l'obtenir avant lui. Cette attente est injuste. Mais elle vient du manque de logements, pas d'une priorité donnée aux immigrés, qui n'existe pas dans la loi."
+  },
+  "contre_arguments": [
+    {
+      "objection": "J'en connais qui ont eu un HLM tout de suite en arrivant.",
+      "reponse": "Il faut résider régulièrement et durablement en France ; les priorités dépendent de l'urgence sociale, pas de l'origine."
+    },
+    {
+      "objection": "Il faut réserver les HLM aux Français.",
+      "reponse": "Cela ne créerait aucun logement de plus et se heurterait au principe d'égalité ; le problème est le nombre de logements disponibles."
+    }
+  ],
+  "questions": [
+    "Sais-tu quels sont les critères de priorité pour obtenir un HLM ?",
+    "Si les immigrés sont plus souvent pauvres, est-il étonnant qu'ils soient plus souvent en HLM ?"
+  ],
+  "limites": [
+    "Les données de l'Insee portent sur 2019-2020 ; l'étude sur les délais d'attente repose sur l'enquête Logement de 2006.",
+    "Le texte de l'article L. 441-1 n'a pas pu être lu sur Légifrance ; la liste des publics prioritaires vient du document du ministère."
+  ],
+  "sources": [
+    {
+      "titre": "L'attribution des logements locatifs sociaux : objectifs, enjeux, acteurs et outils",
+      "organisme": "Ministère de la Transition écologique (DGALN/DHUP)",
+      "date_publication": "Juin 2024",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Lattribution%20des%20logements%20locatifs%20sociaux%202024.pdf",
+      "passage": "Les attributions vont d'abord aux ménages reconnus prioritaires au titre du DALO, puis aux publics de l'article L. 441-1 du code de la construction : personnes handicapées, mal logées, hébergées, victimes de violences conjugales, personnes sans logement ou menacées d'expulsion, jeunes sortant de l'aide sociale à l'enfance, etc. ; le droit au logement vise toute personne « résidant sur le territoire français de façon régulière et dans des conditions de permanence » ; 72 % des ménages sont éligibles au logement social. Aucun critère de nationalité ou d'origine n'est prévu.",
+      "pertinence": "Document officiel du ministère du Logement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Conditions de logement (Immigrés et descendants d'immigrés en France, édition 2023)",
+      "organisme": "Insee (Insee Références), d'après l'enquête Trajectoires et Origines 2 (Ined-Insee)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793286",
+      "passage": "35 % des immigrés de 18 à 59 ans vivent dans le secteur social, contre 11 % des personnes sans ascendance migratoire ; « Cette surreprésentation en logement social est largement liée aux moindres revenus et à l'âge plus jeune des immigrés » ; 26 % des immigrés vivent dans un logement suroccupé, contre 8 % des personnes sans ascendance migratoire.",
+      "pertinence": "Statistique publique de référence (données 2019-2020).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Inégalités d'accès au logement social : peut-on parler de discrimination ? (Économie et Statistique)",
+      "organisme": "Liliane Bonnal, Rachid Boumahdi, Pascal Favard (Insee / université Toulouse Capitole)",
+      "date_publication": "Avril 2014",
+      "url": "https://publications.ut-capitole.fr/15889",
+      "passage": "À caractéristiques égales, les ménages non européens ont des délais d'accès au logement social plus longs (« longer access times ») et « a significant part of this difference may be due to discrimination ».",
+      "pertinence": "Étude universitaire publiée dans la revue de l'Insee (données de l'enquête Logement 2006).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Réserver les logements HLM aux Français : la proposition de Marine Le Pen provoque une levée de boucliers",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "14 septembre 2026",
+      "url": "https://lcp.fr/actualites/reserver-les-logements-hlm-aux-francais-la-proposition-de-marine-le-pen-provoque-une",
+      "passage": "Selon l'Union sociale pour l'habitat, les étrangers représentent 15 % des locataires du parc social ; sa présidente, Emmanuelle Cosse : « Les étrangers ne sont pas favorisés dans l'entrée dans le logement social. »",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les immigrés sont surreprésentés dans le logement social (35 % contre 11 %).",
+    "Les délais d'attente sont très longs, et le sentiment d'injustice des demandeurs est réel."
+  ],
+  "publics": {
+    "convaincus": "Cherche dans la loi : il n'y a aucune priorité pour les immigrés. Les HLM vont aux plus mal logés, aux personnes handicapées, aux victimes de violences, quelle que soit leur origine. Et une étude montre qu'à situation égale, les ménages non européens attendent même plus longtemps. Si tu attends un logement, ton problème, c'est qu'on n'en construit pas assez.",
+    "indecis": "Les immigrés sont plus souvent en HLM, c'est vrai, mais parce qu'ils sont plus souvent pauvres et mal logés, selon l'Insee. La loi n'accorde aucune priorité selon l'origine. La longue attente que connaissent beaucoup de familles vient d'abord du manque de logements sociaux."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "antiracisme",
+      "services_publics"
+    ],
+    "mecanismes": "La pénurie de logements est imputée aux immigrés pour diviser les demandeurs.",
+    "consequences": "Les familles qui attendent restent sans solution, et les discriminations à l’accès augmentent.",
+    "democratie": "Le droit au logement est universel ; il s’attribue selon les besoins.",
+    "propositions": [
+      "Construire massivement des logements sociaux.",
+      "Lutter contre les discriminations dans les attributions."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les immigrés sont surreprésentés dans le logement social.",
+        "integration": "Le dire, et rappeler que c’est un effet de la pauvreté, pas d’une priorité."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "logement"
+  ],
+  "repond_a": [
+    {
+      "id": "hlm_immigres",
+      "label": "Logement social et immigration"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier"
+  ]
+}

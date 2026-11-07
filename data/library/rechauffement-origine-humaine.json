@@ -153,10 +153,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "climat_origine"
-  ],
   "repond_a": [
     {
       "id": "climat_origine",
@@ -168,5 +164,9 @@
     "nucleaire",
     "changement climatique",
     "climat a toujours change"
+  ],
+  "concepts": [
+    "ecologie",
+    "climat_origine"
   ]
 }

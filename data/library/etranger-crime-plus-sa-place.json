@@ -130,6 +130,12 @@
   "objections_legitimes": [
     "Pour un crime grave, l'éloignement après la peine est une demande largement partagée et juridiquement possible."
   ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "expulsion",
+    "justice"
+  ],
   "repond_a": [
     {
       "id": "expulsion",
@@ -150,11 +156,5 @@
     "peur de sortir",
     "pas en securite",
     "criminalite"
-  ],
-  "concepts": [
-    "immigration",
-    "delinquance",
-    "expulsion",
-    "justice"
   ]
 }

@@ -1,0 +1,185 @@
+{
+  "id": "feux-foret-pyromanes",
+  "type": "idee_recue",
+  "affirmation": "Les feux de forêt sont causés par des pyromanes, pas par le réchauffement climatique.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "feux de foret",
+    "incendies de foret",
+    "pyromanes",
+    "pyromane",
+    "incendiaires",
+    "feux",
+    "incendies",
+    "mega feux",
+    "megafeux"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Fausse alternative : 9 départs de feu sur 10 sont d'origine humaine, mais surtout par imprudence (environ la moitié), la malveillance représentant environ un quart des départs. Le climat n'allume pas les feux : il crée les conditions de leur départ et de leur propagation. Selon Météo-France, le danger de feu progresse vers le nord, et les jours de danger très élevé pourraient doubler en région méditerranéenne.",
+  "contexte": "Après les grands incendies de 2022 (plus de 70 000 hectares brûlés), puis ceux des étés suivants, l'idée que « ce sont des pyromanes » circule pour nier le rôle du réchauffement.",
+  "explication": "Pour qu'un feu se déclare et s'étende, il faut une étincelle (presque toujours humaine) et une végétation sèche, de la chaleur et du vent. Le réchauffement agit sur la seconde condition, en allongeant et en intensifiant les sécheresses.",
+  "faits": [
+    {
+      "fait": "Selon le ministère de la Transition écologique, 90 % des départs de feux de forêt ont pour origine les activités humaines, et la moitié sont dus à des imprudences et à des comportements dangereux.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "L'homme allume les feux, mais surtout par imprudence.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "90 %"
+    },
+    {
+      "fait": "Selon le ministère, la malveillance représente environ un quart des départs de feux.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les incendies volontaires existent, mais ils ne sont pas majoritaires.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "25 %"
+    },
+    {
+      "fait": "Selon Météo-France, la hausse des températures assèche la végétation et le danger de feu progresse vers le nord ; en région méditerranéenne, les jours de danger très élevé passeraient d'environ 40 à plus de 80 par an, et à +4 °C le risque se généraliserait à tout le pays.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le climat multiplie les jours où une étincelle devient un incendie.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "40 à 80 jours"
+    },
+    {
+      "fait": "Selon le GIEC, l'influence humaine a probablement augmenté les conditions météorologiques propices aux feux dans certaines régions de tous les continents habités (confiance moyenne).",
+      "periode": "2021",
+      "perimetre": "Monde",
+      "explication": "Le consensus scientifique relie réchauffement et danger de feu.",
+      "source": 3,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon le ministère, le changement climatique, en allongeant et intensifiant les sécheresses, favorise l'éclosion et le développement des feux ; 30 500 hectares ont brûlé en 2025.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Les deux causes s'additionnent.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "30 500 ha"
+    }
+  ],
+  "argumentaires": {
+    "court": "Fausse alternative : 9 feux sur 10 sont d'origine humaine, mais surtout par imprudence, la malveillance ne représentant qu'environ un quart des départs. Et le réchauffement crée les conditions qui transforment une étincelle en incendie : selon Météo-France, les jours de danger très élevé pourraient doubler dans le Sud.",
+    "moyen": "C'est vrai : presque tous les feux sont allumés par l'homme. Mais surtout par imprudence (une cigarette, des travaux, un barbecue), pas par des pyromanes : la malveillance représente environ un quart des départs.\n\nEt une étincelle ne devient un incendie que si la végétation est sèche et qu'il fait chaud. C'est là qu'intervient le réchauffement : selon Météo-France, les jours de danger très élevé pourraient passer de 40 à plus de 80 par an dans le Sud, et le risque s'étend vers le nord. Il faut à la fois prévenir les imprudences et lutter contre le réchauffement.",
+    "detaille": "Selon le ministère de la Transition écologique, 90 % des départs de feux de forêt ont une origine humaine. La moitié sont dus à des imprudences ou à des comportements dangereux (travaux, mégots, brûlages), et la malveillance représente environ un quart des départs. Les vrais pyromanes, au sens médical, sont une petite minorité des incendiaires.\n\nMais un départ de feu ne devient un grand incendie que si la végétation est sèche, la température élevée et le vent fort. C'est ce que mesure l'indice de danger météorologique de Météo-France : avec le réchauffement, les jours de danger très élevé en région méditerranéenne passeraient d'environ 40 à plus de 80 par an, la saison à risque s'allongerait d'un à deux mois et le danger progresse vers le nord. Le GIEC constate que l'influence humaine a probablement déjà augmenté ces conditions dans certaines régions.\n\nLes deux causes ne s'opposent pas : elles s'additionnent. Punir les incendiaires est nécessaire, mais ne suffira pas si chaque été offre davantage de jours où une simple étincelle suffit.",
+    "empathie": "Je comprends la colère contre ceux qui mettent le feu volontairement : elle est légitime. Mais la plupart des feux viennent d'imprudences, et c'est le climat plus sec qui les rend si difficiles à arrêter."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il y a toujours eu des incendies l'été.",
+      "reponse": "Oui, mais Météo-France montre que les jours de danger très élevé augmentent et que le risque gagne des régions jusqu'ici épargnées."
+    },
+    {
+      "objection": "Il suffit d'arrêter les pyromanes.",
+      "reponse": "La moitié des départs viennent d'imprudences ; et plus la saison est sèche, plus chaque imprudence devient dangereuse."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle part des feux est due à des imprudences plutôt qu'à des incendiaires ?",
+    "Pourquoi, selon toi, des régions du nord de la France connaissent-elles désormais des feux de forêt ?"
+  ],
+  "limites": [
+    "Les estimations de la part des feux volontaires varient selon les sources ; la page du ministère ne présente pas une ventilation entièrement cohérente.",
+    "L'indice de Météo-France mesure un danger météorologique, pas le nombre de départs de feu."
+  ],
+  "sources": [
+    {
+      "titre": "Prévention des feux de forêt",
+      "organisme": "Ministère de la Transition écologique",
+      "date_publication": "10 juillet 2026",
+      "url": "https://www.ecologie.gouv.fr/politiques-publiques/prevention-feux-foret",
+      "passage": "« 90 % des départs de feux de forêt ont pour origine les activités humaines » ; « La moitié des départs de feux sont dus à des imprudences et à des comportements dangereux » ; la malveillance représente environ un quart des départs ; « Les effets du changement climatique peuvent aggraver le risque d'incendie de forêt et de végétation » ; en 2022, plus de 70 000 hectares ont brûlé.",
+      "pertinence": "Page officielle du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Campagne de prévention des feux de forêt et de végétation 2026 (dossier de presse)",
+      "organisme": "Ministère de la Transition écologique",
+      "date_publication": "Juin 2026",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/09062026_DP_Feux_0.pdf",
+      "passage": "« 9 feux sur 10 sont d'origine humaine » ; « Plus de la moitié des feux d'origine humaine est due à des imprudences ou des comportements dangereux » ; le changement climatique, en allongeant et intensifiant les sécheresses, favorise l'éclosion et le développement des feux ; en 2025, 30 500 ha ont brûlé.",
+      "pertinence": "Document officiel du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Changement climatique : quel impact sur les feux de forêt ?",
+      "organisme": "Météo-France",
+      "date_publication": "21 mai 2026",
+      "url": "https://meteofrance.com/le-changement-climatique/quel-climat-futur/changement-climatique-quel-impact-sur-les-feux-de-foret",
+      "passage": "La hausse des températures assèche la végétation et le danger de feu progresse vers le nord ; en région méditerranéenne, les jours de danger très élevé passeraient d'environ 40 à plus de 80 par an ; à +4 °C, « Le risque de feu se généralise à l'ensemble du pays » et la saison à risque s'allongerait de 1 à 2 mois.",
+      "pertinence": "Service public de météorologie.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "AR6, groupe de travail I — Résumé à l'intention des décideurs",
+      "organisme": "GIEC",
+      "date_publication": "2021",
+      "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/",
+      "passage": "A.3.5 : l'influence humaine a probablement augmenté les événements composés, dont le « fire weather in some regions of all inhabited continents » (confiance moyenne) ; C.2.4 : le GIEC projette des « increases in fire weather » dans certaines régions.",
+      "pertinence": "Organisme scientifique international de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "L'homme est bien à l'origine de l'immense majorité des départs de feux, et la foudre est rare.",
+    "La malveillance existe réellement (environ un quart des départs selon le ministère)."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : c'est presque toujours l'homme qui allume le feu. Mais selon le ministère, c'est surtout par imprudence, et la malveillance, c'est environ un quart. Et Météo-France montre que les jours où une étincelle suffit vont doubler dans le Sud : les deux problèmes s'additionnent.",
+    "indecis": "Les feux de forêt ont deux causes qui s'ajoutent : une étincelle, presque toujours humaine et souvent accidentelle, et une végétation desséchée par la chaleur. Le réchauffement rend la seconde de plus en plus fréquente. Prévenir les imprudences et lutter contre le réchauffement vont donc ensemble."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "services_publics",
+      "vulnerables"
+    ],
+    "mecanismes": "Désigner des coupables individuels permet de nier le rôle du réchauffement et donc la nécessité d’agir collectivement.",
+    "consequences": "Sans lutte contre le réchauffement, chaque été offre davantage de jours où une étincelle suffit.",
+    "democratie": "Les politiques de prévention et de climat doivent s’appuyer sur la science, pas sur une fausse alternative.",
+    "propositions": [
+      "Renforcer les moyens des pompiers, de l’ONF et de la prévention.",
+      "Réduire les émissions pour limiter la hausse du danger de feu."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’homme est bien à l’origine de presque tous les départs de feu, et la malveillance existe.",
+        "integration": "Le reconnaître, et montrer que le climat aggrave les conditions."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "climat_origine",
+    "feux_foret"
+  ],
+  "repond_a": [
+    {
+      "id": "feux_foret",
+      "label": "Causes des feux de forêt"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ]
+}

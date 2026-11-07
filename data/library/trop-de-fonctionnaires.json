@@ -136,11 +136,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "services_publics",
-    "fonctionnaires"
-  ],
   "repond_a": [
     {
       "id": "fonctionnaires",
@@ -160,5 +155,10 @@
     "fonction publique",
     "agents publics",
     "emploi public"
+  ],
+  "concepts": [
+    "emploi",
+    "services_publics",
+    "fonctionnaires"
   ]
 }

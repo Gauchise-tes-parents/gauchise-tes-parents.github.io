@@ -37,6 +37,8 @@ def fiche(**k):
         derniere_verification=TODAY, a_actualiser_le=k.get('a_actualiser', '2027-06-30'), raison_actualisation=k.get('raison', "Nouvelles statistiques annuelles ou évolution de la législation."),
     )
     if k.get('legitimes'): d['objections_legitimes'] = k['legitimes']
+    # v14 : réponses selon le public (électeur d'extrême droite convaincu / personne indécise)
+    if k.get('publics'): d['publics'] = k['publics']
     return d
 
 # ── Sources ────────────────────────────────────────────────────────────────
@@ -124,6 +126,8 @@ FICHES.append(fiche(
  ],
  questions=["À ton avis, quelle part des détenus est étrangère ? Et quelle part de la population ?", "Est-ce que tu comparerais les détenus à toute la population, ou plutôt aux hommes jeunes du même milieu social ?"],
  limites=["Les chiffres comptent la nationalité, pas le statut d'immigré ni le pays de naissance.", "Les dates de comparaison (1er avril et 1er juillet 2026) diffèrent légèrement.", "Le ministère ne publie pas, dans cette réponse, la répartition par type d'infraction ni la récidive."],
+ publics={'convaincus': "Tu as raison sur un point : les étrangers sont surreprésentés en prison, environ un quart des détenus (24,2 %) pour 8,8 % de la population. Mais trois détenus sur quatre sont français : dire qu'ils « remplissent » les prisons est faux. Et la comparaison brute ignore l'âge, le sexe, la précarité et la détention provisoire.",
+  'indecis': "Les chiffres du ministère de la Justice montrent une surreprésentation réelle : 24,2 % des détenus sont étrangers. Mais la grande majorité des détenus sont français. Pour comprendre l'écart, il faut tenir compte de l'âge et du sexe des détenus, de la précarité et d'un recours plus fréquent à la détention provisoire : ces facteurs n'effacent pas l'écart, mais empêchent d'en faire une question de nationalité."},
  a_actualiser='2027-06-30', raison="Les chiffres de la population carcérale évoluent chaque mois.",
 ))
 
@@ -181,6 +185,8 @@ FICHES.append(fiche(
  ],
  questions=["Quelle part des auteurs aurais-tu estimée avant de voir le chiffre ?", "Si la majorité des auteurs sont français, quelle politique protégerait le mieux les victimes ?"],
  limites=["Dernière série détaillée par nationalité : données 2019.", "Mis en cause ≠ condamnés ; nationalité parfois non vérifiée.", "Aucune donnée comparable n'est publiée pour les immigrés."],
+ publics={'convaincus': "Selon le ministère de l'Intérieur, plus de huit personnes mises en cause sur dix étaient françaises en 2019. Les étrangers sont surreprésentés, surtout pour les vols, c'est vrai. Mais « principalement », non : l'essentiel de la délinquance est le fait de Français.",
+  'indecis': "Il est légitime de regarder les chiffres : en 2019, les étrangers représentaient 17,7 % des personnes mises en cause, plus que leur part dans la population. Mais plus de 80 % des auteurs présumés étaient français. Lutter contre la délinquance suppose donc d'en traiter les causes pour tout le monde."},
  a_actualiser='2027-06-30', raison="Une série plus récente par nationalité pourrait être publiée par le SSMSI.",
 ))
 

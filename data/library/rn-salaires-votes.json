@@ -1,0 +1,199 @@
+{
+  "id": "rn-salaires-votes",
+  "type": "idee_recue",
+  "affirmation": "Le RN défend les travailleurs et vote pour la hausse des salaires.",
+  "volet": "politique",
+  "sous_theme": "Rassemblement national",
+  "rubriques": [],
+  "mots_cles": [
+    "rn salaires",
+    "rn smic",
+    "vote du rn",
+    "rn vote contre le smic",
+    "hausse des salaires",
+    "augmenter le smic",
+    "indexation des salaires",
+    "rn travailleurs",
+    "parti des travailleurs"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur : le 20 juillet 2022, les 69 députés RN présents ont voté contre deux amendements portant le Smic à 1 500 € net et contre l'indexation des salaires sur l'inflation. Marine Le Pen s'oppose à une hausse du Smic, qui « peut mettre en difficulté quelques entreprises ». Le RN propose à la place une hausse facultative de 10 % des salaires, décidée par les employeurs volontaires et financée par des exonérations de cotisations. Il a en revanche voté pour un amendement conditionnant les exonérations au respect du Smic dans les branches.",
+  "contexte": "Le RN se présente comme le premier parti des ouvriers et revendique la défense du pouvoir d'achat ; ses votes à l'Assemblée sur les salaires sont souvent cités par la gauche pour le contester.",
+  "explication": "Il existe deux façons d'augmenter les salaires : les imposer (hausse du Smic, indexation) ou inciter les employeurs (exonérations de cotisations). Le RN choisit la seconde, qui laisse la décision aux entreprises et réduit les ressources de la Sécurité sociale.",
+  "faits": [
+    {
+      "fait": "Selon les scrutins publics repris par Datan, le 20 juillet 2022, l'amendement portant le Smic à 1 500 € net a été rejeté par 255 voix contre 121 ; groupe RN : 69 contre, 1 abstention, 0 pour.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le RN a voté contre la hausse du Smic.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "69 contre"
+    },
+    {
+      "fait": "Selon les scrutins publics repris par Datan, le même jour, l'amendement indexant les salaires du privé sur l'inflation a été rejeté par 269 voix contre 108 ; groupe RN : 69 contre, 0 pour.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le RN a refusé que les salaires suivent les prix.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "69 contre"
+    },
+    {
+      "fait": "Selon LCP, Marine Le Pen oppose sa proposition à une hausse du Smic, qui « peut mettre en difficulté quelques entreprises ».",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le RN reprend l'argument patronal contre le Smic.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon LCP, la proposition de loi RN de janvier 2023 permettait aux entreprises volontaires d'augmenter les salaires de 10 %, hausses exonérées de « l'essentiel des charges » jusqu'à trois Smic ; elle a été rejetée.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La hausse dépendrait du bon vouloir des patrons et serait payée par moins de cotisations.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "10 %"
+    },
+    {
+      "fait": "Selon les scrutins publics repris par Datan, le groupe RN a voté pour (69 voix) un amendement conditionnant les exonérations de cotisations au respect du Smic dans les grilles de branche, rejeté par 183 voix contre 181.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le RN a soutenu au moins une mesure en faveur des bas salaires.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "69 pour"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : en juillet 2022, le RN a voté contre le Smic à 1 500 € net et contre l'indexation des salaires sur l'inflation. Il propose à la place une hausse facultative, décidée par les patrons et payée par moins de cotisations sociales.",
+    "moyen": "Les votes sont publics. Le 20 juillet 2022, les 69 députés RN présents ont voté contre le Smic à 1 500 € net et contre l'indexation des salaires sur l'inflation. Marine Le Pen dit qu'une hausse du Smic « peut mettre en difficulté quelques entreprises » : c'est l'argument du patronat.\n\nLe RN propose à la place que les entreprises qui le veulent augmentent les salaires de 10 %, en échange de moins de cotisations. Autrement dit : la hausse dépend du patron, et c'est la Sécurité sociale qui paie. Il a soutenu un amendement sur le respect du Smic dans les branches, mais pas les hausses obligatoires.",
+    "detaille": "Lors de l'examen du projet de loi sur le pouvoir d'achat, le 20 juillet 2022, plusieurs amendements de gauche proposaient de relever les salaires. Selon les scrutins publics, les 69 députés RN présents ont voté contre deux amendements portant le Smic à 1 500 € net (l'un avec une caisse de péréquation pour les PME) et contre l'indexation des salaires du privé sur l'inflation.\n\nLe RN défend une autre méthode : sa proposition de loi de janvier 2023 permettait aux entreprises volontaires d'augmenter les salaires de 10 %, en exonérant ces hausses de l'essentiel des cotisations jusqu'à trois Smic. Marine Le Pen l'opposait à une hausse du Smic, qui peut selon elle mettre en difficulté des entreprises. Le texte a été rejeté ; un député de la majorité de l'époque le jugeait coûteux et inefficace.\n\nLe RN a toutefois voté pour un amendement conditionnant les exonérations de cotisations au respect du Smic dans les grilles de branche, rejeté à deux voix près. Défendre les travailleurs, c'est voter des hausses qu'ils obtiennent de plein droit ; une hausse laissée au bon vouloir des employeurs, financée par moins de cotisations, revient à affaiblir la Sécurité sociale qui les protège.",
+    "empathie": "Je comprends qu'on ait le sentiment que le RN parle des fins de mois, et c'est vrai qu'il en parle. Mais quand il a fallu voter le Smic à 1 500 € ou l'indexation des salaires, ses députés ont voté contre."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Augmenter le Smic tuerait les petites entreprises.",
+      "reponse": "L'un des amendements rejetés prévoyait justement une caisse de péréquation pour aider les PME ; le RN a voté contre aussi."
+    },
+    {
+      "objection": "Sa proposition de 10 % est meilleure.",
+      "reponse": "Elle dépend du bon vouloir des employeurs et réduit les cotisations qui financent la Sécurité sociale des salariés."
+    }
+  ],
+  "questions": [
+    "Sais-tu comment ont voté les députés RN sur le Smic à 1 500 € en juillet 2022 ?",
+    "Une hausse de salaire que ton patron peut refuser, est-ce vraiment une hausse ?"
+  ],
+  "limites": [
+    "Les votes vérifiés datent de juillet 2022 ; les votes RN de 2023 à 2026 sur le Smic n'ont pas été vérifiés.",
+    "Les scrutins ont été lus sur Datan, qui reprend les scrutins publics de l'Assemblée, et non sur le site de l'Assemblée."
+  ],
+  "sources": [
+    {
+      "titre": "Scrutin n° 44 (16e législature) : amendement n° 94 « Augmenter le SMIC à 1500 euros net mensuel » (projet de loi pouvoir d'achat)",
+      "organisme": "Datan, d'après les scrutins publics de l'Assemblée nationale",
+      "date_publication": "20 juillet 2022",
+      "url": "https://datan.fr/votes/legislature-16/vote_44",
+      "passage": "Amendement rejeté par 255 voix contre 121 ; groupe RN : 69 contre, 1 abstention, 0 pour.",
+      "pertinence": "Site d'analyse des votes reprenant les scrutins publics officiels.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Scrutin n° 42 (16e législature) : amendement n° 938 sur l'indexation des salaires du privé sur l'inflation",
+      "organisme": "Datan, d'après les scrutins publics de l'Assemblée nationale",
+      "date_publication": "20 juillet 2022",
+      "url": "https://datan.fr/votes/legislature-16/vote_42",
+      "passage": "Amendement rejeté par 269 voix contre 108 ; groupe RN : 69 contre, 0 pour.",
+      "pertinence": "Site d'analyse des votes reprenant les scrutins publics officiels.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Scrutin n° 38 (16e législature) : amendement n° 116 conditionnant les exonérations de cotisations au respect du SMIC dans les grilles de branche",
+      "organisme": "Datan, d'après les scrutins publics de l'Assemblée nationale",
+      "date_publication": "20 juillet 2022",
+      "url": "https://datan.fr/votes/legislature-16/vote_38",
+      "passage": "Amendement rejeté par 183 voix contre 181 ; groupe RN : 69 pour.",
+      "pertinence": "Site d'analyse des votes reprenant les scrutins publics officiels.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Salaires : la proposition de loi du Rassemblement national recalée par l'Assemblée",
+      "organisme": "LCP (Maxence Kagni)",
+      "date_publication": "12 janvier 2023",
+      "url": "https://lcp.fr/actualites/salaires-la-proposition-de-loi-du-rassemblement-national-recalee-par-l-assemblee-160427",
+      "passage": "La proposition RN permettait aux entreprises volontaires d'augmenter les salaires nets de 10 %, hausses exonérées de « l'essentiel des charges » pour « tous les salaires jusqu'à trois fois le Smic » ; Marine Le Pen oppose ce dispositif à une hausse du Smic, qui « peut mettre en difficulté quelques entreprises » ; un député Renaissance juge la mesure « budgétairement coûteuse, économiquement inefficace ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le RN a déposé une proposition de loi visant à augmenter les salaires, même facultativement.",
+    "Il a voté pour un amendement en faveur du respect du Smic dans les grilles de branche."
+  ],
+  "publics": {
+    "convaincus": "Les votes sont publics, tu peux les vérifier : le 20 juillet 2022, les 69 députés RN ont voté contre le Smic à 1 500 € net et contre l'indexation des salaires sur les prix. Leur proposition, c'est une hausse que ton patron peut refuser, payée par moins de cotisations pour ta Sécu. Ce n'est pas ce qu'on attend d'un parti qui dit défendre les travailleurs.",
+    "indecis": "Le RN parle beaucoup de pouvoir d'achat, mais ses votes montrent un choix précis : pas de hausse obligatoire du Smic ni d'indexation, plutôt des incitations aux employeurs. C'est un choix politique, proche de celui de la droite. À chacun de juger, à partir des votes plutôt que des slogans."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "repartition",
+      "solidarite"
+    ],
+    "mecanismes": "Un discours sur le pouvoir d’achat masque des votes contre les hausses obligatoires de salaires.",
+    "consequences": "Les hausses facultatives, financées par moins de cotisations, laissent le salaire au bon vouloir des employeurs et affaiblissent la Sécurité sociale.",
+    "democratie": "Juger un parti sur ses votes plutôt que sur ses slogans est la base du contrôle démocratique.",
+    "propositions": [
+      "Augmenter le Smic et indexer les salaires sur les prix.",
+      "Conditionner les aides publiques aux entreprises à des hausses de salaires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le RN a voté pour un amendement sur le respect du Smic dans les grilles de branche.",
+        "integration": "Le reconnaître, et montrer qu’il a voté contre les hausses obligatoires."
+      }
+    ]
+  },
+  "concepts": [
+    "salaires",
+    "patriotisme",
+    "salaire_minimum",
+    "fn_parti"
+  ],
+  "repond_a": [
+    {
+      "id": "rn_salaires",
+      "label": "Le RN et les salaires"
+    },
+    {
+      "id": "rn_smic",
+      "label": "Le RN et le Smic"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "fierte",
+    "haine de la france",
+    "drapeau"
+  ]
+}

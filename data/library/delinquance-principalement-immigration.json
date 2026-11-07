@@ -124,27 +124,10 @@
   "objections_legitimes": [
     "Les étrangers sont surreprésentés parmi les mis en cause, en particulier pour les vols."
   ],
-  "repond_a": [
-    {
-      "id": "imm_delinquance",
-      "label": "Immigration et délinquance"
-    }
-  ],
-  "ne_repond_pas": [],
-  "synonymes": [
-    "faire venir",
-    "on fait venir",
-    "ils arrivent",
-    "arrivent encore",
-    "qui debarquent",
-    "ils prennent nos",
-    "mis en cause",
-    "insecurite",
-    "en surete",
-    "peur de sortir",
-    "pas en securite",
-    "criminalite"
-  ],
+  "publics": {
+    "convaincus": "Selon le ministère de l'Intérieur, plus de huit personnes mises en cause sur dix étaient françaises en 2019. Les étrangers sont surreprésentés, surtout pour les vols, c'est vrai. Mais « principalement », non : l'essentiel de la délinquance est le fait de Français.",
+    "indecis": "Il est légitime de regarder les chiffres : en 2019, les étrangers représentaient 17,7 % des personnes mises en cause, plus que leur part dans la population. Mais plus de 80 % des auteurs présumés étaient français. Lutter contre la délinquance suppose donc d'en traiter les causes pour tout le monde."
+  },
   "lecture": {
     "valeurs": [
       "egalite",
@@ -167,5 +150,26 @@
     "immigration",
     "delinquance",
     "prison"
+  ],
+  "repond_a": [
+    {
+      "id": "imm_delinquance",
+      "label": "Immigration et délinquance"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite"
   ]
 }

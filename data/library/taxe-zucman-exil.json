@@ -1,0 +1,212 @@
+{
+  "id": "taxe-zucman-exil",
+  "type": "idee_recue",
+  "affirmation": "La taxe Zucman ferait fuir les riches et tuerait les start-up.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "taxe zucman",
+    "zucman",
+    "impot plancher",
+    "impot minimum",
+    "ultra riches",
+    "ultrariches",
+    "2 %",
+    "exil fiscal",
+    "start up",
+    "startups",
+    "fuir les riches"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "La taxe Zucman, un impôt plancher de 2 % sur les patrimoines de plus de 100 millions d'euros, concernerait environ 1 800 foyers (0,01 %). Le Conseil d'analyse économique mesure un exil fiscal réel mais limité après la hausse d'impôts de 2013 (au plus 350 foyers par an sur 385 000 du top 1 %), avec un effet macroéconomique d'environ 0,03 %. Le vrai point dur concerne les fondateurs de start-up très valorisées sans revenus : un problème de liquidités, auquel Gabriel Zucman répond par un paiement possible en actions. Aucune source ne démontre qu'elle « tuerait » les start-up.",
+  "contexte": "Adoptée à l'Assemblée en février 2025, la proposition a été rejetée au Sénat en juin 2025, puis à l'Assemblée lors du budget 2026 en octobre 2025, la gauche votant pour et le centre, LR et le RN contre.",
+  "explication": "L'impôt plancher ne s'ajoute pas forcément : il oblige les très grandes fortunes à payer au total au moins 2 % de leur patrimoine par an en impôts, en tenant compte de ce qu'elles paient déjà. La base inclut les actions de leurs entreprises.",
+  "faits": [
+    {
+      "fait": "Selon Public Sénat, la taxe Zucman vise les patrimoines de plus de 100 millions d'euros, soit environ 0,01 % des foyers (environ 1 800 personnes selon la ministre des Comptes publics), pour un rendement avancé par Gabriel Zucman de 20 milliards d'euros par an, à plus ou moins 5 milliards.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Seule une poignée de très grandes fortunes est concernée.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "1 800 foyers"
+    },
+    {
+      "fait": "Selon le Conseil d'analyse économique, la hausse d'impôt de 2013 a provoqué au plus 350 départs supplémentaires par an sur environ 385 000 foyers du top 1 %, et une hausse de 4 milliards de la fiscalité du top 1 % ne réduirait le chiffre d'affaires et la masse salariale nationaux que d'environ 0,03 %.",
+      "periode": "2013-2025",
+      "perimetre": "France",
+      "explication": "L'exil existe, mais son effet économique est minime.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "0,03 %"
+    },
+    {
+      "fait": "Selon le CAE, quand un actionnaire important s'expatrie, son entreprise perd en moyenne 15 % de chiffre d'affaires, et la fiscalité du patrimoine a « un impact significatif sur l'exil fiscal des plus hauts patrimoines ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "C'est l'argument sérieux des opposants : il faut le reconnaître.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "15 %"
+    },
+    {
+      "fait": "Selon le rapporteur LR du Sénat, la base inclut les biens professionnels, et une jeune pousse très valorisée sans revenus pourrait obliger ses actionnaires à vendre des titres ; dans son hypothèse, le rendement tomberait à 2 à 3 milliards d'euros.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le problème des start-up est un problème de liquidités, et le rendement est contesté.",
+      "source": 2,
+      "fiabilite": "interpretation",
+      "chiffre": "2 à 3 Md€"
+    },
+    {
+      "fait": "Selon LCP, Gabriel Zucman propose de payer en actions en cas de manque de liquidités et estime que « exonérer les biens professionnels voudrait simplement dire exonérer les milliardaires ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une réponse existe au problème des fondateurs de start-up.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon LCP, les amendements Zucman ont été rejetés à l'Assemblée le 31 octobre 2025 par 228 voix contre 172 ; le RN a voté contre, comme le centre et LR.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le RN, qui se dit du côté du peuple, a refusé de taxer les milliardaires.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "228 contre 172"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la taxe ne vise qu'environ 1 800 foyers, et le Conseil d'analyse économique mesure un exil fiscal limité, à l'effet économique d'environ 0,03 %. Le problème des fondateurs de start-up est réel mais c'est un problème de liquidités, qu'un paiement en actions peut résoudre.",
+    "moyen": "La taxe Zucman ne concerne que les patrimoines au-dessus de 100 millions d'euros : environ 1 800 foyers. Elle leur demande de payer au moins 2 % de leur fortune par an, tous impôts compris.\n\nL'exil fiscal existe, mais il est limité : selon le Conseil d'analyse économique, au plus 350 départs supplémentaires par an après la hausse d'impôts de 2013, avec un effet économique d'environ 0,03 %. Pour les fondateurs de start-up très valorisées mais sans revenus, il y a un vrai problème de trésorerie ; Gabriel Zucman propose qu'ils puissent payer en actions. Aucune étude ne montre que la taxe « tuerait » les start-up.",
+    "detaille": "La proposition, inspirée des travaux de l'économiste Gabriel Zucman, instaure un impôt plancher de 2 % sur les patrimoines de plus de 100 millions d'euros : les très riches devraient payer au moins 2 % de leur fortune par an, en tenant compte des impôts déjà payés. Environ 1 800 foyers seraient concernés. Le rendement est débattu : 20 milliards d'euros par an selon Gabriel Zucman, 2 à 3 milliards dans l'hypothèse défavorable du rapporteur LR du Sénat.\n\nSur l'exil, le Conseil d'analyse économique, organisme public, a étudié la hausse d'impôts de 2013 : elle a provoqué au plus 350 départs supplémentaires par an parmi les 385 000 foyers du top 1 %. Quand un gros actionnaire part, son entreprise perd en moyenne 15 % de chiffre d'affaires ; mais à l'échelle du pays, une hausse de 4 milliards de la fiscalité du top 1 % ne réduirait l'activité que d'environ 0,03 %. Gabriel Zucman propose aussi de taxer au moment du départ.\n\nLe vrai point dur concerne les jeunes pousses très valorisées sans revenus, dont les fondateurs devraient vendre des titres : le paiement en actions ou un report peuvent y répondre. Le texte a été rejeté au Sénat puis à l'Assemblée, avec les voix du RN. La question de fond demeure : faut-il que les plus grandes fortunes paient au moins 2 % de leur patrimoine par an, tous impôts compris ?",
+    "empathie": "Je comprends qu'on ait peur de voir partir des entrepreneurs et des emplois. C'est une vraie question. Mais les études montrent que les départs sont limités, et la taxe ne touche que les fortunes de plus de 100 millions d'euros."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les riches partiront tous en Suisse.",
+      "reponse": "Après 2013, le CAE mesure au plus 350 départs supplémentaires par an sur 385 000 foyers du top 1 %, et Gabriel Zucman propose de taxer au moment du départ."
+    },
+    {
+      "objection": "Les fondateurs devront vendre leur entreprise.",
+      "reponse": "Le paiement en actions ou un report permettent de payer sans vendre ; le problème est la liquidité, pas la survie de l'entreprise."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de foyers ont un patrimoine de plus de 100 millions d'euros en France ?",
+    "Selon toi, est-il juste de demander aux fortunes de plus de 100 millions d'euros de payer au moins 2 % par an, tous impôts compris ?"
+  ],
+  "limites": [
+    "L'étude du CAE porte sur la réforme de 2013, pas directement sur la taxe Zucman ; ses effets sont des estimations.",
+    "Le rendement réel de la taxe est très incertain (de 2 à 25 milliards selon les hypothèses)."
+  ],
+  "sources": [
+    {
+      "titre": "Fiscalité du capital : quels sont les effets de l'exil fiscal sur l'économie ? (Focus n° 118, communiqué)",
+      "organisme": "Conseil d'analyse économique (L. Bach, A. Bozio, N. Grimprel, A. Guillouzouic, C. Landais, C. Malgouyres)",
+      "date_publication": "25 juillet 2025",
+      "url": "https://cae-eco.fr/static/pdf/Communique-de-presse_f118_exil_fiscal.pdf",
+      "passage": "La hausse d'impôt de 2013 a augmenté les départs nets de 0,04 à 0,09 point chez les plus touchés, soit au plus 350 foyers par an sur environ 385 000 foyers du top 1 % ; quand un actionnaire important s'expatrie, son entreprise perd 15 % de chiffre d'affaires, mais une hausse de 4 Md€ de la fiscalité du top 1 % ne réduirait le chiffre d'affaires et la masse salariale nationaux que d'environ 0,03 % ; « la fiscalité du patrimoine a bien un impact significatif sur l'exil fiscal des plus hauts patrimoines ».",
+      "pertinence": "Organisme public d'expertise économique placé auprès du Premier ministre.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Taxe Zucman : quels sont les arguments pour, et les arguments contre ?",
+      "organisme": "Public Sénat (Romain David)",
+      "date_publication": "12 septembre 2025",
+      "url": "https://www.publicsenat.fr/actualites/economie/taxe-zucman-quels-sont-les-arguments-pour-et-les-arguments-contre",
+      "passage": "Impôt plancher de 2 % au-delà de 100 M€ de patrimoine, touchant environ 0,01 % des foyers (environ 1 800 personnes selon la ministre des Comptes publics) ; rendement avancé par Gabriel Zucman : 20 Md€ par an, à plus ou moins 5 Md€ ; texte adopté à l'Assemblée le 20 février 2025, rejeté au Sénat le 12 juin 2025 par 188 voix contre 129.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "L'essentiel sur la proposition de loi instaurant un impôt plancher de 2 % sur les très hauts patrimoines",
+      "organisme": "Sénat, commission des finances (Emmanuel Capus, rapporteur)",
+      "date_publication": "4 juin 2025",
+      "url": "https://www.senat.fr/fileadmin/cru-1750816532/Commissions/Finances/2024-2025/Textes_legislatifs/Essentiel_PPL_IPF_Post_com.pdf",
+      "passage": "Selon le rapporteur, le rendement « pourrait ne plus représenter que 2 à 3 milliards d'euros » dans son hypothèse ; « L'impôt pourrait entraîner un exil fiscal dont il est impossible d'anticiper l'ampleur » ; la base inclut les biens professionnels, et une jeune pousse très valorisée sans revenu courant pourrait obliger ses actionnaires à vendre des titres.",
+      "pertinence": "Rapport parlementaire (majorité sénatoriale de droite, opposée au texte).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Taxation des ultrariches : Gabriel Zucman exhorte les députés à ne pas reproduire les erreurs du passé",
+      "organisme": "LCP (Maxence Kagni)",
+      "date_publication": "1er octobre 2025",
+      "url": "https://lcp.fr/actualites/taxation-des-ultrariches-gabriel-zucman-exhorte-les-deputes-a-ne-pas-reproduire-les",
+      "passage": "Gabriel Zucman propose un paiement en nature, « avec des actions de l'entreprise », en cas de manque de liquidités ; selon lui, « exonérer les biens professionnels voudrait simplement dire exonérer les milliardaires » ; il juge l'expatriation « limitée » et propose une taxation au moment du départ.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Budget 2026 : la taxe Zucman rejetée par l'Assemblée nationale",
+      "organisme": "LCP (Ludovic Fau)",
+      "date_publication": "31 octobre 2025",
+      "url": "https://lcp.fr/actualites/budget-2026-la-taxe-zucman-rejetee-par-l-assemblee-nationale-413632",
+      "passage": "Les amendements ont été rejetés par 228 voix contre 172 : la gauche a voté pour ; EPR, MoDem, Horizons, LR et RN ont voté contre ; une version du PS (« un impôt minimum de 3% à partir de 10 millions d'euros », excluant les entreprises innovantes et familiales) a aussi été rejetée.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le CAE mesure un effet réel de la fiscalité du patrimoine sur l'exil des plus hauts patrimoines.",
+    "Le traitement des fondateurs de start-up sans liquidités est une difficulté technique réelle, et le rendement de la taxe est débattu."
+  ],
+  "publics": {
+    "convaincus": "On parle de 1 800 foyers qui ont plus de 100 millions d'euros, pas de ton voisin artisan. Le Conseil d'analyse économique a mesuré l'exil après 2013 : quelques centaines de départs par an, un effet de 0,03 % sur l'économie. Et le RN, qui dit défendre le peuple, a voté contre la taxation des milliardaires.",
+    "indecis": "C'est une vraie question de savoir si taxer les plus riches fait partir des entrepreneurs. Les études publiques montrent un effet réel mais limité. Pour les start-up, il existe des solutions comme le paiement en actions. Le débat porte surtout sur la justice : faut-il que les plus grandes fortunes paient au moins 2 % par an ?"
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "democratie"
+    ],
+    "mecanismes": "La menace de l’exil sert à protéger une poignée de très grandes fortunes de tout effort fiscal.",
+    "consequences": "Sans contribution des plus riches, l’effort budgétaire retombe sur les services publics et les classes moyennes et populaires.",
+    "democratie": "L’égalité devant l’impôt suppose que les plus grandes fortunes contribuent à proportion de leurs moyens.",
+    "propositions": [
+      "Instaurer un impôt plancher sur les très hauts patrimoines, avec paiement possible en actions.",
+      "Taxer les patrimoines au moment de l’exil fiscal."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le Conseil d’analyse économique mesure un effet réel de la fiscalité du patrimoine sur l’exil des plus hauts patrimoines.",
+        "integration": "Le reconnaître, et rappeler que l’effet économique mesuré est très faible."
+      }
+    ]
+  },
+  "concepts": [
+    "fiscalite",
+    "riches_entreprises",
+    "zucman"
+  ],
+  "repond_a": [
+    {
+      "id": "zucman",
+      "label": "Taxe Zucman"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "zucman",
+    "impot plancher"
+  ]
+}

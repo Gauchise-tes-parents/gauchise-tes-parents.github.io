@@ -158,31 +158,10 @@
     "Les étrangers sont réellement surreprésentés parmi les détenus : environ trois fois leur part dans la population.",
     "La part des étrangers en détention a augmenté sur dix ans."
   ],
-  "repond_a": [
-    {
-      "id": "imm_prison",
-      "label": "Étrangers, immigrés et population carcérale"
-    },
-    {
-      "id": "imm_delinquance",
-      "label": "Immigration et délinquance"
-    }
-  ],
-  "ne_repond_pas": [],
-  "synonymes": [
-    "faire venir",
-    "on fait venir",
-    "ils arrivent",
-    "arrivent encore",
-    "qui debarquent",
-    "ils prennent nos",
-    "mis en cause",
-    "insecurite",
-    "en surete",
-    "peur de sortir",
-    "pas en securite",
-    "criminalite"
-  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : les étrangers sont surreprésentés en prison, environ un quart des détenus (24,2 %) pour 8,8 % de la population. Mais trois détenus sur quatre sont français : dire qu'ils « remplissent » les prisons est faux. Et la comparaison brute ignore l'âge, le sexe, la précarité et la détention provisoire.",
+    "indecis": "Les chiffres du ministère de la Justice montrent une surreprésentation réelle : 24,2 % des détenus sont étrangers. Mais la grande majorité des détenus sont français. Pour comprendre l'écart, il faut tenir compte de l'âge et du sexe des détenus, de la précarité et d'un recours plus fréquent à la détention provisoire : ces facteurs n'effacent pas l'écart, mais empêchent d'en faire une question de nationalité."
+  },
   "lecture": {
     "valeurs": [
       "egalite",
@@ -209,5 +188,30 @@
     "prison",
     "demographie",
     "nationalite"
+  ],
+  "repond_a": [
+    {
+      "id": "imm_prison",
+      "label": "Étrangers, immigrés et population carcérale"
+    },
+    {
+      "id": "imm_delinquance",
+      "label": "Immigration et délinquance"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite"
   ]
 }

@@ -1,0 +1,186 @@
+{
+  "id": "pacte-europeen-migration-asile",
+  "type": "idee_recue",
+  "affirmation": "Le pacte européen sur la migration et l'asile va imposer des milliers de migrants à la France.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et asile",
+  "rubriques": [],
+  "mots_cles": [
+    "pacte europeen",
+    "pacte asile et migration",
+    "pacte sur la migration et l asile",
+    "relocalisation",
+    "relocalisations",
+    "solidarite obligatoire",
+    "20 000 euros par migrant",
+    "amende de 20 000"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le pacte européen, appliqué depuis juin 2026, crée une solidarité obligatoire mais flexible : chaque État choisit entre accueillir des demandeurs d'asile relocalisés, payer 20 000 € par personne non accueillie ou fournir un autre soutien, et « aucun État membre ne sera obligé de procéder à des relocalisations ». Pour 2026, la part indicative de la France est d'environ 3 361 « relocalisations ou autres formes de soutien », et moins de 1 000 transferts réels sont attendus dans toute l'Union.",
+  "contexte": "Le RN présente le pacte comme une obligation d'accueillir des migrants ou de payer une « amende ». Le texte est entré en application complète en juin 2026.",
+  "explication": "Le pacte réforme les règles de l'asile dans l'UE (filtrage aux frontières, procédures, solidarité entre pays). Son volet « solidarité » est obligatoire dans son principe, mais chaque pays choisit la forme de sa contribution et peut déduire les demandeurs qu'il accueille déjà.",
+  "faits": [
+    {
+      "fait": "Selon le Conseil de l'UE, le nombre annuel minimum de relocalisations est fixé à 30 000 dans l'Union, avec une contribution de 20 000 euros par relocalisation non effectuée ; « Aucun État membre ne sera obligé de procéder à des relocalisations. »",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Accueillir n'est qu'une option parmi d'autres.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "30 000"
+    },
+    {
+      "fait": "Selon la décision du Conseil pour 2026, la réserve de solidarité est de 21 000 relocalisations et 420 millions d'euros pour toute l'Union ; la part de la France (16 %) correspond à environ 3 361 « relocalisations ou autres formes de soutien ».",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "Il y a bien une contribution française obligatoire, mais pas forcément sous forme d'accueil.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "3 361"
+    },
+    {
+      "fait": "Selon Euronews, le paiement de 20 000 € par personne non accueillie « ne constitue donc pas une amende » : c'est une forme de solidarité au choix de l'État.",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "Le mot « amende » est trompeur.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "20 000 €"
+    },
+    {
+      "fait": "Selon Euronews, les pays non soumis à une pression migratoire ont promis 8 878 relocalisations, et moins de 1 000 demandeurs d'asile devraient être réellement transférés en 2026 ; la France déduit de sa part les demandeurs qu'elle accueille déjà.",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "En pratique, les transferts sont très limités.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "1 000"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : le pacte rend la solidarité obligatoire mais laisse chaque pays choisir sa forme ; « aucun État membre ne sera obligé de procéder à des relocalisations », et moins de 1 000 transferts réels sont attendus dans toute l'Union en 2026.",
+    "moyen": "Le pacte européen oblige chaque pays à être solidaire, mais pas à accueillir. On peut accueillir des demandeurs relocalisés, payer 20 000 € par personne non accueillie ou fournir un autre soutien. Le Conseil de l'UE l'écrit : « Aucun État membre ne sera obligé de procéder à des relocalisations. »\n\nPour 2026, la part de la France est d'environ 3 361 « relocalisations ou autres formes de soutien », et elle déduit les demandeurs qu'elle accueille déjà. Dans toute l'Union, moins de 1 000 personnes devraient être réellement transférées cette année.",
+    "detaille": "Adopté en 2024 et appliqué depuis juin 2026, le pacte européen sur la migration et l'asile réforme le filtrage aux frontières, les procédures d'asile et la répartition des responsabilités. Son volet solidarité prévoit chaque année au moins 30 000 relocalisations dans l'Union, ou des contributions de 20 000 € par relocalisation non effectuée, ou d'autres soutiens (appui opérationnel, équipements).\n\nPour 2026, le Conseil a fixé une réserve de 21 000 relocalisations et 420 millions d'euros. La part de la France, 16 %, correspond à environ 3 361 « relocalisations ou autres formes de soutien » ; la France est classée parmi les pays « qui risquent de subir une pression migratoire », ce qui lui permet de déduire les demandeurs qu'elle accueille déjà.\n\nLes États ont promis moins de 9 000 relocalisations, et moins de 1 000 transferts réels sont attendus. On peut critiquer le pacte, y compris à gauche pour le filtrage et la détention aux frontières ; mais il n'« impose » pas des milliers de migrants à la France.",
+    "empathie": "Je comprends qu'on se méfie quand on entend que Bruxelles va nous « imposer » des migrants. Mais le pacte laisse chaque pays choisir sa façon d'aider, et la France peut compter les demandeurs qu'elle accueille déjà."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on refuse, on paie une amende de 20 000 € par migrant.",
+      "reponse": "C'est une contribution au choix, pas une sanction ; Euronews montre que ce n'est pas une amende."
+    },
+    {
+      "objection": "Les chiffres vont augmenter chaque année.",
+      "reponse": "Pour 2026, la réserve fixée (21 000) est inférieure au minimum de référence (30 000), et les promesses réelles sont encore plus basses."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'un pays peut choisir de ne relocaliser personne et de contribuer autrement ?",
+    "Combien de personnes crois-tu que l'UE va réellement transférer en 2026 ?"
+  ],
+  "limites": [
+    "La répartition exacte de la part française entre relocalisations et autres soutiens n'a pas été confirmée sur EUR-Lex ; le chiffre de 3 361 vient d'une version relayée de la décision.",
+    "Le vote de la France sur le pacte en 2024 n'a pas pu être vérifié à partir des sources lues."
+  ],
+  "sources": [
+    {
+      "titre": "Politique migratoire : le Conseil parvient à un accord sur les principales lois en matière d'asile et de migration (communiqué 423/23)",
+      "organisme": "Conseil de l'Union européenne",
+      "date_publication": "8 juin 2023",
+      "url": "https://www.consilium.europa.eu/fr/press/press-releases/2023/06/08/migration-policy-council-reaches-agreement-on-key-asylum-and-migration-laws/pdf/",
+      "passage": "Nombre annuel minimum de relocalisations : « Ce nombre est fixé à 30 000 » ; contribution financière de « 20 000 euros par relocalisation » ; « Les États membres ont toute latitude quant au type de solidarité qu'ils apportent » ; « Aucun État membre ne sera obligé de procéder à des relocalisations. »",
+      "pertinence": "Institution européenne (accord du Conseil avant le texte final).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décision d'exécution (UE) 2025/2642 du Conseil du 19 décembre 2025 établissant la réserve annuelle de solidarité pour 2026 (texte français relayé par le Réseau européen des migrations, Belgique)",
+      "organisme": "Conseil de l'Union européenne",
+      "date_publication": "19 décembre 2025",
+      "url": "https://emnbelgium.be/sites/default/files/attachments/R%C3%A9serve%20annuelle%20de%20solidarit%C3%A9%202026_FR_TXT.pdf",
+      "passage": "Réserve 2026 : 21 000 relocalisations et 420 000 000 EUR de contributions financières ; la France figure parmi les États « qui risquent de subir une pression migratoire » ; sa clé de répartition est de 16,0021 %, soit environ 3 361 « relocalisations ou autres formes de soutien au titre de la solidarité ».",
+      "pertinence": "Acte juridique de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Non, l'UE n'infligera pas d'amendes aux États qui refusent d'accueillir des migrants",
+      "organisme": "Euronews (The Cube, Noa Schumann)",
+      "date_publication": "16 juin 2026",
+      "url": "https://fr.euronews.com/2026/06/16/non-lue-ninfligera-pas-damendes-aux-etats-qui-refusent-daccueillir-des-migrants",
+      "passage": "Le mécanisme est une « solidarité obligatoire mais flexible » : la relocalisation n'est qu'une option parmi d'autres (appui opérationnel, financement, contribution de 20 000 € par personne non accueillie) ; « Ce paiement ne constitue donc pas une amende » ; les États ont promis moins de 9 000 relocalisations pour 2026.",
+      "pertinence": "Rubrique de vérification d'un média européen.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "How EU countries watered down 'solidarity' plans to relocate asylum seekers",
+      "organisme": "Euronews (Vincenzo Genovese)",
+      "date_publication": "12 juin 2026",
+      "url": "https://www.euronews.com/2026/06/12/how-eu-countries-watered-down-solidarity-plans-to-relocate-asylum-seekers",
+      "passage": "Les pays non soumis à une pression migratoire ont promis 8 878 relocalisations et 76,3 M€ ; moins de 1 000 demandeurs d'asile devraient être réellement transférés en 2026 ; selon un diplomate, la France déduit de sa part les demandeurs qu'elle accueille déjà (« responsibility offset »).",
+      "pertinence": "Média européen.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La contribution de la France est obligatoire dans son principe et se chiffre en milliers d'unités de solidarité.",
+    "On peut contester le pacte pour d'autres raisons (procédures accélérées et rétention aux frontières, critiquées par des associations de défense des droits)."
+  ],
+  "publics": {
+    "convaincus": "Lis le texte du Conseil : « Aucun État membre ne sera obligé de procéder à des relocalisations. » Les 20 000 € ne sont pas une amende, c'est une option parmi d'autres. Et en 2026, moins de 1 000 personnes seront transférées dans toute l'Europe : on est loin de l'invasion annoncée.",
+    "indecis": "Le pacte oblige les pays à s'entraider, mais chacun choisit comment : accueillir, payer ou fournir du matériel. La part de la France pour 2026 tourne autour de 3 000 unités de solidarité, et elle peut y déduire les demandeurs déjà présents. On peut critiquer ce pacte, mais pas pour cette raison-là."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "dignite",
+      "internationalisme"
+    ],
+    "mecanismes": "Le mot « amende » transforme une solidarité au choix en punition, pour présenter l’Europe comme une machine à imposer des migrants.",
+    "consequences": "Le vrai contenu du pacte, dont le filtrage et la rétention aux frontières critiqués par les défenseurs des droits, passe au second plan.",
+    "democratie": "Critiquer un texte européen suppose de le décrire exactement, pour pouvoir le changer.",
+    "propositions": [
+      "Une solidarité européenne réelle, qui répartit l’accueil sans enfermer les demandeurs aux frontières.",
+      "Garantir l’accès à une procédure d’asile équitable dans tous les pays de l’Union."
+    ],
+    "defavorables": [
+      {
+        "fait": "La contribution de la France est obligatoire dans son principe et se compte en milliers d’unités de solidarité.",
+        "integration": "Le dire, en précisant qu’elle peut prendre d’autres formes que l’accueil."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "solidarite",
+    "europe",
+    "pacte_ue_asile"
+  ],
+  "repond_a": [
+    {
+      "id": "pacte_ue_asile",
+      "label": "Pacte européen sur la migration et l’asile"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "aider tout le monde",
+    "aider tous les",
+    "toute la misere du monde",
+    "pas les moyens d aider",
+    "payer pour tout le monde",
+    "on aide trop"
+  ]
+}

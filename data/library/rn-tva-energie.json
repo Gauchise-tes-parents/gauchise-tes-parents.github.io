@@ -138,13 +138,6 @@
       }
     ]
   },
-  "concepts": [
-    "patriotisme",
-    "fiscalite",
-    "pouvoir_achat",
-    "tva_energie",
-    "fn_parti"
-  ],
   "repond_a": [
     {
       "id": "tva_energie",
@@ -165,5 +158,12 @@
     "fins de mois",
     "pouvoir d achat",
     "hausse des prix"
+  ],
+  "concepts": [
+    "patriotisme",
+    "fiscalite",
+    "pouvoir_achat",
+    "tva_energie",
+    "fn_parti"
   ]
 }

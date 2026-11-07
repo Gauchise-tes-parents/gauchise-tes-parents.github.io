@@ -1,0 +1,193 @@
+{
+  "id": "voitures-thermiques-2035",
+  "type": "idee_recue",
+  "affirmation": "L'Europe nous interdit de vendre des voitures thermiques en 2035.",
+  "volet": "ecologie",
+  "sous_theme": "Transports",
+  "rubriques": [],
+  "mots_cles": [
+    "2035",
+    "voitures thermiques",
+    "voiture thermique",
+    "fin du thermique",
+    "interdiction des voitures thermiques",
+    "moteurs thermiques",
+    "bruxelles voiture",
+    "interdire les voitures essence"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur et dépassé : le règlement européen de 2023 fixe pour 2035 une réduction de 100 % des émissions de CO2 des voitures neuves, ce qui revenait en pratique à arrêter la vente de voitures neuves émettant du CO2 à l'échappement. Il ne vise pas les voitures déjà en circulation ni l'occasion, et prévoit une exception pour les carburants neutres en CO2. Depuis décembre 2025, la Commission propose de ramener l'objectif à 90 %, ce qui permettrait encore de vendre des hybrides et des moteurs thermiques après 2035 ; le texte est en discussion en novembre 2026.",
+  "contexte": "La date de 2035 est devenue un symbole de l'« écologie punitive » venue de Bruxelles, notamment pour le RN ; en février 2025, l'Assemblée a voté contre sa transposition, sans effet sur le droit européen.",
+  "explication": "Le règlement ne liste pas des voitures interdites : il fixe des objectifs d'émissions de CO2 pour l'ensemble des voitures neuves vendues par chaque constructeur. Avec un objectif de 100 %, seuls les véhicules sans émission à l'échappement pouvaient être vendus neufs.",
+  "faits": [
+    {
+      "fait": "Selon le Parlement européen, le règlement (UE) 2023/851 prévoit une réduction de 100 % des émissions de CO2 pour les voitures et camionnettes neuves à partir de 2035.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "La règle concerne les voitures neuves, pas celles qui roulent déjà.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "100 %"
+    },
+    {
+      "fait": "Selon le même texte, la Commission doit proposer l'immatriculation, après 2035, des véhicules roulant exclusivement aux carburants neutres en CO2, et réévaluer l'objectif en 2026.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Des exceptions et une clause de révision étaient prévues dès le départ.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Commission européenne, sa proposition de décembre 2025 fixe un objectif de 90 % à partir de 2035, les 10 % restants étant compensés par de l'acier bas carbone, des carburants de synthèse ou des biocarburants : hybrides et moteurs thermiques pourraient encore être vendus.",
+      "periode": "2025-2026",
+      "perimetre": "Union européenne",
+      "explication": "La fin des ventes de thermiques neufs n'est plus totale dans la proposition.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "90 %"
+    },
+    {
+      "fait": "Selon le Journal de l'Automobile, la commission de l'environnement du Parlement européen a voté le 4 novembre 2026 un objectif de -87,5 % en 2035 ; le vote en plénière et l'accord du Conseil restent à venir.",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "Le texte est en cours de révision.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "-87,5 %"
+    },
+    {
+      "fait": "Selon LCP, en février 2025, les députés ont supprimé par 34 voix contre 30 l'article transposant l'échéance de 2035, mais cette date s'impose à la France en vertu du droit européen.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le vote de l'Assemblée était symbolique.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la règle de 2023 vise les voitures neuves, pas celles qui roulent ni l'occasion, et prévoit des exceptions. Surtout, elle est en cours de révision : la Commission propose depuis fin 2025 un objectif de 90 %, qui laisserait vendre des hybrides et des thermiques après 2035.",
+    "moyen": "Le règlement européen de 2023 prévoit qu'à partir de 2035, les voitures neuves vendues n'émettent plus de CO2 à l'échappement. Il ne touche ni les voitures qui roulent déjà ni le marché de l'occasion : personne ne devra jeter sa voiture en 2035.\n\nEt la règle évolue : fin 2025, la Commission a proposé de passer à 90 % de réduction, ce qui permettrait encore de vendre des hybrides et des moteurs thermiques. En novembre 2026, le Parlement européen discute d'un objectif de -87,5 %. On peut débattre du rythme, mais dire que l'Europe interdit les thermiques, c'est déjà dépassé.",
+    "detaille": "Le règlement (UE) 2023/851, adopté en 2023, fixe pour 2035 une réduction de 100 % des émissions de CO2 des voitures et camionnettes neuves. En pratique, cela revenait à réserver le marché du neuf aux véhicules sans émission à l'échappement. Le texte ne concerne ni le parc existant ni l'occasion ; il prévoyait une exception pour les véhicules roulant exclusivement aux carburants neutres en CO2 et une réévaluation en 2026.\n\nEn décembre 2025, la Commission a proposé de ramener l'objectif à 90 %, les 10 % restants étant compensés par de l'acier bas carbone, des carburants de synthèse ou des biocarburants. Hybrides rechargeables et moteurs thermiques pourraient donc encore être vendus après 2035. Le 4 novembre 2026, la commission de l'environnement du Parlement européen a voté un objectif de -87,5 % ; la plénière et le Conseil doivent encore se prononcer.\n\nLe vrai enjeu social est ailleurs : permettre aux ménages modestes d'accéder à des véhicules propres, développer les transports publics et protéger les emplois de l'automobile pendant la transition.",
+    "empathie": "Je comprends qu'on ait peur de ne plus pouvoir acheter une voiture abordable, ou de devoir changer la sienne. Mais la règle ne concerne que les voitures neuves, pas celle que tu as, et elle est en train d'être assouplie."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On va devoir mettre nos voitures à la casse.",
+      "reponse": "Le règlement ne vise que les voitures neuves ; les voitures en circulation et l'occasion ne sont pas concernées."
+    },
+    {
+      "objection": "C'est Bruxelles qui décide de tout.",
+      "reponse": "Le texte a été adopté par le Parlement européen et les États membres, et il est en cours de révision par les mêmes institutions."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la règle ne concerne que les voitures neuves ?",
+    "As-tu entendu parler de la révision proposée par la Commission fin 2025 ?"
+  ],
+  "limites": [
+    "L'état du texte évolue : à la date de la fiche (novembre 2026), la révision n'est pas adoptée.",
+    "Le vote en commission du Parlement européen est rapporté par la presse spécialisée."
+  ],
+  "sources": [
+    {
+      "titre": "Normes d'émissions de CO2 pour les voitures et les camionnettes (procédure 2021/0197(COD))",
+      "organisme": "Parlement européen (Observatoire législatif)",
+      "date_publication": "25 avril 2023",
+      "url": "https://oeil.europarl.europa.eu/oeil/fr/document-summary?id=1741896",
+      "passage": "Le règlement (UE) 2023/851 prévoit « une réduction des émissions de CO2 de 100% tant pour les voitures neuves que pour les camionnettes neuves à partir de 2035 » ; la Commission doit proposer l'immatriculation, après 2035, des véhicules roulant exclusivement aux « carburants neutres en CO2 » ; « en 2026, la Commission évaluera de manière approfondie les progrès accomplis ».",
+      "pertinence": "Institution européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Cars and vans (CO2 emission performance standards)",
+      "organisme": "Commission européenne (DG Climat)",
+      "date_publication": "30 janvier 2026",
+      "url": "https://climate.ec.europa.eu/areas-action/transport-decarbonisation/road-transport/cars-and-vans_en",
+      "passage": "Selon la proposition de révision de décembre 2025, « from 2035 onwards, carmakers will need to comply with a 90% tailpipe emissions reduction target », les 10 % restants devant être compensés par de l'acier bas carbone produit dans l'Union, des carburants de synthèse ou des biocarburants ; hybrides rechargeables et moteurs thermiques pourraient ainsi encore être vendus après 2035. Il s'agit d'une proposition.",
+      "pertinence": "Institution européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Industrie automobile : le Parlement européen assouplit les objectifs de CO2 pour 2035",
+      "organisme": "Journal de l'Automobile (C. Leroy)",
+      "date_publication": "4 novembre 2026",
+      "url": "https://journalauto.com/industrie/industrie-automobile-le-parlement-europeen-assouplit-les-objectifs-de-co2-pour-2035/",
+      "passage": "La commission de l'environnement du Parlement européen a voté le 4 novembre 2026 (48 voix pour, 30 contre, 2 abstentions) un objectif de -87,5 % en 2035, compensable jusqu'à 7,5 points ; le vote en plénière est prévu mi-décembre 2026 et le Conseil doit encore se prononcer.",
+      "pertinence": "Presse professionnelle spécialisée.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Fin de la vente des voitures thermiques neuves en 2035 : l'Assemblée s'y oppose lors d'un vote, contre la volonté du gouvernement",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "18 février 2025",
+      "url": "https://lcp.fr/actualites/fin-de-la-vente-des-voitures-thermiques-neuves-en-2035-l-assemblee-s-y-oppose-lors-d-un",
+      "passage": "Le 17 février 2025, les députés ont supprimé par 34 voix contre 30 l'article qui transposait l'échéance de 2035 ; cette date « doit s'imposer à la France » en vertu de la primauté du droit européen.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "L'objectif de 100 % adopté en 2023 revenait bien à arrêter la vente de voitures neuves émettant du CO2 à l'échappement.",
+    "Ce règlement reste en vigueur tant que la révision n'est pas adoptée."
+  ],
+  "publics": {
+    "convaincus": "Personne ne va venir prendre ta voiture en 2035 : la règle ne concerne que les voitures neuves, pas l'occasion. Et elle est en train d'être assouplie : la Commission propose 90 %, ce qui laisserait vendre des hybrides et des thermiques. La vraie question, c'est comment chacun pourra se payer une voiture propre.",
+    "indecis": "La règle de 2035 ne concerne que les voitures neuves et elle est en cours de révision : la Commission propose désormais 90 % de réduction au lieu de 100 %. Le débat porte sur le rythme de la transition et sur les aides pour que les ménages modestes ne soient pas laissés de côté."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "egalite",
+      "democratie"
+    ],
+    "mecanismes": "Une norme sur les voitures neuves est présentée comme une interdiction générale, pour faire de l’écologie une menace.",
+    "consequences": "Le vrai débat, celui de l’accès des ménages modestes à des véhicules propres et des emplois de l’automobile, disparaît.",
+    "democratie": "Les règles européennes se discutent et se révisent : décrire exactement ce qu’elles disent permet d’y peser.",
+    "propositions": [
+      "Une transition planifiée qui protège les emplois de l’automobile.",
+      "Des voitures propres et abordables, et des transports publics développés."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’objectif de 2023 revenait bien à arrêter la vente de voitures neuves émettant du CO2.",
+        "integration": "Le reconnaître, et préciser qu’il ne vise que le neuf et qu’il est en révision."
+      }
+    ]
+  },
+  "concepts": [
+    "pouvoir_achat",
+    "renovation",
+    "europe",
+    "thermique_2035"
+  ],
+  "repond_a": [
+    {
+      "id": "thermique_2035",
+      "label": "Fin des voitures thermiques neuves en 2035"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fin de mois",
+    "fins de mois",
+    "pouvoir d achat",
+    "hausse des prix",
+    "inflation",
+    "courses",
+    "vie chere",
+    "essence",
+    "tout augmente",
+    "dpe",
+    "isoler",
+    "isolation"
+  ]
+}

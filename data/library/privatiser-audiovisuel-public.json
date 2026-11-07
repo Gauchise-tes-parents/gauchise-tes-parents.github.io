@@ -175,11 +175,6 @@
       }
     ]
   },
-  "concepts": [
-    "services_publics",
-    "medias",
-    "fn_parti"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -195,5 +190,10 @@
     "fn",
     "rn",
     "rassemblement national"
+  ],
+  "concepts": [
+    "services_publics",
+    "medias",
+    "fn_parti"
   ]
 }

@@ -74,3 +74,71 @@ Sur les 25 questions retenues, 7 étaient signalées « LACUNE » et **18 étaie
 **Questions écartées** : aucune pour sources invérifiables. Points non sourcés laissés hors des fiches et signalés dans leurs limites : temps de retour énergétique et effet de l'éolien sur les oiseaux, données de l'Uruguay sur le cannabis, part de l'AME dans les dépenses d'assurance maladie, position du RN sur l'audiovisuel public en 2026, prix de location d'une télévision en prison.
 
 **Tests** : `npm test` 471/471 ; e2e 38/38. Un mot-clé trop large de la fiche sur l'indemnisation chômage captait « les chômeurs ne veulent pas travailler » : mots-clés resserrés et identifiant renommé (`indemnisation-chomage-salaire`) ; la phrase « Les éoliennes, ça ne sert à rien, il faut du nucléaire » reste dirigée vers la fiche sur le mix électrique.
+
+## 7 novembre 2026 — passage de 06 h 13 (UTC)
+
+**Questions testées : 25** (fichier passé dans `node scripts/verifier-couverture.mjs`). Une première liste de 31 phrases a été testée ; 6 ont été écartées comme déjà couvertes ou quasi-doublons d'une fiche existante (jours fériés → `francais-travaillent-pas-assez` ; âge de départ comparé à l'Europe → voisin de `retraite-64-ans` ; dette et dépenses sociales → `services-publics-moyens` ; natalité des immigrées → voisin de `grand-remplacement` ; arrêts maladie et « impôts des ultra-riches », remplacées pour varier les thèmes). Sur les 25 retenues, 11 étaient « LACUNE » et **14 étaient « couvertes » par une fiche voisine hors sujet** (ex. pacte européen sur l'asile → souveraineté populaire ; aide à l'Algérie → RSA et SMIC ; antifas → délinquance ; éducation sexuelle → services publics ; taxe Zucman → « Mélenchon veut ruiner la France » ; feux de forêt → mix électrique ; glyphosate → programme de Mélenchon) : elles ont été traitées comme de vraies lacunes (règle v12).
+
+1. Le pacte de Marrakech de l'ONU oblige la France à accepter une immigration massive.
+2. Le pacte européen sur la migration et l'asile va imposer des milliers de migrants à la France.
+3. L'accord franco-algérien de 1968 donne des privilèges aux Algériens.
+4. La France verse des milliards d'aide au développement à l'Algérie.
+5. La France envoie des centaines de milliards à l'Ukraine pendant que les Français se serrent la ceinture.
+6. Le gouvernement ukrainien est dirigé par des nazis.
+7. Les antifas sont plus violents et plus dangereux que l'ultradroite.
+8. Il y a des actes antichrétiens tous les jours et on brûle nos églises dans l'indifférence.
+9. L'éducation à la sexualité à l'école apprend la théorie du genre aux enfants.
+10. La taxe Zucman ferait fuir les riches et tuerait les start-up.
+11. Le RN veut supprimer l'impôt sur le revenu pour les moins de 30 ans, c'est une bonne mesure pour la jeunesse.
+12. Le RN promet la retraite à 60 ans pour tout le monde.
+13. Les feux de forêt sont causés par des pyromanes, pas par le réchauffement climatique.
+14. Les zones à faibles émissions punissent les pauvres qui ne peuvent pas changer de voiture.
+15. Les vaccins à ARN messager ont fait plus de morts que le covid.
+16. Le Nouveau Front populaire n'a pas gagné les législatives de 2024, il n'avait aucune légitimité pour gouverner.
+17. Le RN défend les travailleurs et vote pour la hausse des salaires.
+18. L'Europe nous interdit de vendre des voitures thermiques en 2035.
+19. Le glyphosate n'est pas dangereux, les écolos font peur pour rien.
+20. Les mosquées en France sont financées par l'étranger.
+21. Les déboutés du droit d'asile restent presque tous en France.
+22. Les logements sociaux sont attribués en priorité aux immigrés.
+23. Les médecins étrangers sont moins compétents que les médecins français.
+24. L'accord avec le Mercosur va tuer nos agriculteurs et le RN est le seul à s'y opposer.
+25. La France est le pays d'Europe qui accueille le plus de demandeurs d'asile.
+
+**Fiches créées : 25** (générateur `scripts/fiches/quotidien_20261107_0613.py`, toutes avec `publics` et une « lecture de gauche ») — chaque fiche repose sur au moins deux sources ouvertes et lues le 7 novembre 2026 :
+
+| Fiche | Verdict | Sources principales |
+|---|---|---|
+| `pacte-marrakech-onu` | contredit | Texte du pacte (ONU, 2018) ; réponse du ministère des Affaires étrangères (AN, 2019) ; Club des juristes (2018) ; Public Sénat (2018) |
+| `pacte-europeen-migration-asile` | trompeur | Conseil de l'UE (2023) ; décision d'exécution 2025/2642 (réserve 2026) ; Euronews (juin 2026, deux articles) |
+| `accord-franco-algerien-1968` | plutôt exact | LCP (rapport Rodwell-Lefèvre, 2025) ; Public Sénat (2023) ; université de Montpellier (2023) |
+| `aide-developpement-algerie` | contredit | Réponse du ministère des Affaires étrangères (AN, 2025) ; Focus 2030 d'après l'OCDE (2026) |
+| `aide-ukraine-montant` | contredit | Public Sénat (audition du ministre des Armées, 2024) ; ministère des Armées (2024) ; Institut de Kiel via Statista et Public Sénat (2025) ; Commission européenne (2026) |
+| `ukraine-gouvernement-nazis` | contredit | FactCheck.org (2022) ; ADL (2022) ; EUvsDisinfo (SEAE) |
+| `ultragauche-ultradroite-violence` | contredit | Réponse du ministère de l'Intérieur (AN, 2024) ; Public Sénat (2023, 2026) ; document du rapporteur de la PPL 877 (AN, 2023) ; rapport d'enquête n° 1824 (AN, 2023) |
+| `actes-antichretiens-eglises` | trompeur | Bilan des actes antireligieux 2025 (ministère de l'Intérieur) ; réponse ministérielle (AN, 2026) ; Le Monde (2019) ; Le Parisien (2020) |
+| `education-sexualite-genre` | trompeur | Bulletin officiel (février 2025) ; L'Étudiant (2025) ; Public Sénat (2024) ; réponse ministérielle (AN, 2025) |
+| `taxe-zucman-exil` | trompeur | Conseil d'analyse économique (2025) ; Sénat (2025) ; Public Sénat (2025) ; LCP (2025, deux articles) |
+| `rn-impot-moins-30-ans` | opinion | Institut Montaigne (2022) ; Public Sénat (2024) ; LCP (2026) ; MoneyVox (2022) |
+| `rn-retraite-60-ans` | contredit | Public Sénat (2022, 2024, 2026) ; LCP (2024) ; Institut Montaigne (2024) |
+| `feux-foret-pyromanes` | trompeur | Ministère de la Transition écologique (2026, page et dossier de presse) ; Météo-France (2026) ; GIEC AR6 |
+| `zfe-menages-modestes` | plutôt exact | SDES (2025) ; Santé publique France (2021) ; Observatoire des inégalités d'après la DREES (2024) ; LCP (décision 2026-903 DC) ; réponse ministérielle (AN, 2022) |
+| `vaccins-arn-mortalite` | contredit | EPI-PHARE (2025) ; ANSM (2021-2022) ; Santé publique France (2023) ; AlloDocteurs/AFP (2022) ; OMS Europe (2024) |
+| `nfp-legislatives-2024` | opinion | Datan (2024) ; Constitution, art. 8 (Légifrance) ; Public Sénat (2024) ; LCP (2024, deux articles) |
+| `rn-salaires-votes` | trompeur | Scrutins publics n° 38, 42 et 44 du 20 juillet 2022 (via Datan) ; LCP (2023) |
+| `voitures-thermiques-2035` | trompeur | Parlement européen, Observatoire législatif (2023) ; Commission européenne (2026) ; Journal de l'Automobile (4 novembre 2026) ; LCP (2025) |
+| `glyphosate-danger` | trompeur | CIRC (2015) ; Inserm (2021) ; EFSA (2023) ; Commission européenne (2023) |
+| `mosquees-financement-etranger` | trompeur | Sénat (mission d'information, 2016) ; Localtis (2016) ; Service-public.fr (2025) ; Middle East Eye (2024) |
+| `deboutes-asile-restent` | plutôt exact | Sénat (rapport n° 874, juillet 2026) ; Cour des comptes (2024) ; Acteurs publics (2015) |
+| `logements-sociaux-immigres` | contredit | Ministère du Logement (2024) ; Insee (2023) ; Économie et Statistique (2014) ; LCP (2026) |
+| `medecins-diplome-etranger` | trompeur | Réponse du ministère de la Santé (Sénat, 2026) ; Académie nationale de médecine (2026) ; Santé mentale d'après l'Ordre (2025) ; BMJ / Harvard (2017) |
+| `mercosur-agriculteurs` | trompeur | LCP (vote du 26 novembre 2024) ; Club des juristes (2026) ; Commission européenne (2026) ; Public Sénat (2024) ; Institut Jacques Delors (2026) |
+| `france-premier-pays-asile` | contredit | Agence de l'UE pour l'asile (2026, deux pages) ; Eurostat (mars 2026) ; Sénat (juillet 2026) |
+
+**Reconnaissance des questions** : 23 concepts et 27 arguments ajoutés dans `public/js/cartographie.js` ; l'argument « la gauche jugée dangereuse » exclut désormais les phrases sur le glyphosate et les vaccins. Les 25 questions mènent à leur fiche, ainsi que 16 variantes testées (« Zelensky est un nazi », « Les HLM c'est que pour les immigrés », « Le RN a voté contre le smic »…), sans déplacer les phrases voisines (voiture électrique, retraite à 64 ans, éoliennes, Mélenchon). Deux phrases du corpus de compréhension qui attendaient « aucune fiche » sur l'attribution des HLM (`tests/comprehension/phrases.js`) attendent désormais la nouvelle fiche ; les phrases générales sur les loyers et la crise du logement restent sans fiche, comme avant.
+
+**Fiches existantes adaptées aux deux publics (10)** : `devenir-proprietaire`, `louer-sans-cdi`, `pauvres-efforts`, `gauche-immigres-travailleurs` (dans `scripts/fiches/refonte_v12.py`) ; `aider-tout-le-monde`, `services-publics-moyens`, `gauche-augmenter-impots`, `riches-creent-emplois` (dans `scripts/fiches/reponses_directes.py`) ; `etrangers-prisons`, `delinquance-principalement-immigration` (dans `scripts/fiches/immigration_prisons.py`, dont l'assistant de génération transmet désormais le champ `publics`). Textes écrits à partir du seul contenu sourcé de chaque fiche. 70 fiches sur 152 ont désormais un champ `publics`.
+
+**Tests** : `npm test` 471/471 ; e2e 38/38.
+
+**Questions écartées** : aucune pour sources invérifiables. Points non vérifiés laissés hors des fiches et signalés dans leurs limites : part française exacte des aides européennes à l'Ukraine et chiffres de Kiel pour 2025-2026 (site de l'institut inaccessible) ; résultats officiels du ministère de l'Intérieur pour les législatives de 2024 (décompte de Datan) ; votes RN sur le Smic après 2022 ; montant des aides à la conversion en 2026 ; bilan des déclarations de financements étrangers des cultes depuis 2021 ; nombre exact de déboutés encore présents en France (données de l'administration jugées incohérentes par le Sénat). Le seuil de déclaration des financements étrangers retenu est celui de Service-public.fr (15 300 €), et non les 10 000 € parfois cités. Les sources d'opinion ou peu fiables trouvées pendant la recherche (Revue Conflits, Hérodote, ObservAlgérie, Boursorama, Le Petit Journal) n'ont pas été utilisées.

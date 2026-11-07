@@ -145,13 +145,6 @@
       }
     ]
   },
-  "concepts": [
-    "patriotisme",
-    "medias",
-    "desinformation",
-    "fn_parti",
-    "russie"
-  ],
   "repond_a": [
     {
       "id": "rn_russie",
@@ -172,5 +165,12 @@
     "nous cachent",
     "on nous cache",
     "propagande"
+  ],
+  "concepts": [
+    "patriotisme",
+    "medias",
+    "desinformation",
+    "fn_parti",
+    "russie"
   ]
 }

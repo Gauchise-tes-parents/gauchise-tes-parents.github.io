@@ -156,9 +156,6 @@
       }
     ]
   },
-  "concepts": [
-    "fiscalite"
-  ],
   "repond_a": [
     {
       "id": "pays_plus_taxe",
@@ -170,5 +167,8 @@
     "taxer",
     "isf",
     "tva"
+  ],
+  "concepts": [
+    "fiscalite"
   ]
 }

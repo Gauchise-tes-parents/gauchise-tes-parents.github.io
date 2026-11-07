@@ -115,6 +115,10 @@
     "Les bailleurs prennent un risque réel en cas d'impayé, surtout les petits propriétaires.",
     "Visale ne couvre pas tous les salariés de plus de 30 ans en CDI confirmé."
   ],
+  "publics": {
+    "convaincus": "Les bailleurs préfèrent les CDI parce qu'ils craignent les impayés, c'est compréhensible. Mais une caution publique gratuite existe, Visale, dont plus de 1,9 million de ménages ont déjà bénéficié : sans condition de ressources jusqu'à 30 ans. Le vrai problème, c'est qu'elle n'oblige pas le bailleur à accepter.",
+    "indecis": "Pour louer sans CDI, la garantie Visale, gratuite et financée par Action Logement, peut remplacer un garant : sans condition de ressources de 18 à 30 ans, et au-delà pour les salariés récemment embauchés ou gagnant au plus 1 710 € nets. Elle ne règle pas tout, car le bailleur reste libre de choisir son locataire."
+  },
   "lecture": {
     "valeurs": [
       "vulnerables",

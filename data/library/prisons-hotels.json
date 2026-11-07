@@ -164,10 +164,6 @@
       }
     ]
   },
-  "concepts": [
-    "logement",
-    "prison"
-  ],
   "repond_a": [
     {
       "id": "prison_confort",
@@ -186,5 +182,9 @@
     "taule",
     "zonzon",
     "barreaux"
+  ],
+  "concepts": [
+    "logement",
+    "prison"
   ]
 }

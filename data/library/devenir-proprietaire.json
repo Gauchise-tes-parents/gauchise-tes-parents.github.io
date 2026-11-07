@@ -103,6 +103,10 @@
     "Les données de l'Insee s'arrêtent en 2013.",
     "L'accès à la propriété dépend aussi fortement des taux d'intérêt et de la région."
   ],
+  "publics": {
+    "convaincus": "Tu as raison de trouver que c'est devenu dur : selon l'Insee, 32 % des jeunes ménages modestes étaient propriétaires en 1973, contre 16 % en 2013. Ce qui fait de plus en plus la différence, c'est l'aide de la famille et l'héritage, pas le mérite ni le salaire. Le problème n'est pas que les gens travaillent moins, c'est que le travail ne suffit plus à acheter.",
+    "indecis": "Ce n'est pas une impression : la part de jeunes ménages modestes propriétaires a été divisée par deux entre 1973 et 2013. Dans les années 2000, environ quatre propriétaires récents sur dix avaient reçu une aide de leur famille. La question devient celle de l'héritage et du prix du logement plus que celle de l'effort individuel."
+  },
   "lecture": {
     "valeurs": [
       "egalite",

@@ -1,0 +1,191 @@
+{
+  "id": "glyphosate-danger",
+  "type": "idee_recue",
+  "affirmation": "Le glyphosate n'est pas dangereux, les écolos font peur pour rien.",
+  "volet": "ecologie",
+  "sous_theme": "Pesticides",
+  "rubriques": [],
+  "mots_cles": [
+    "glyphosate",
+    "roundup",
+    "desherbant",
+    "herbicide",
+    "pesticide",
+    "pesticides",
+    "cancerogene"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Trompeur : le danger du glyphosate n'est pas tranché, mais il n'est pas nul. Le Centre international de recherche sur le cancer (OMS) l'a classé en 2015 « cancérogène probable », et l'Inserm retient en 2021 une « présomption moyenne » de lien avec les lymphomes non hodgkiniens. Les agences européennes ne le classent pas cancérogène et ont permis son renouvellement pour dix ans en 2023, mais l'EFSA identifie des lacunes de données et un risque élevé à long terme pour les mammifères dans 12 usages sur 23.",
+  "contexte": "Le renouvellement de l'autorisation européenne du glyphosate en 2023 a relancé le débat ; une partie de la droite et de l'extrême droite accuse les écologistes d'alarmisme.",
+  "explication": "Le CIRC évalue un danger (le produit peut-il causer un cancer ?), les agences réglementaires un risque (en cause-t-il aux niveaux d'exposition réels ?). Les deux approches peuvent aboutir à des conclusions différentes sans que l'une mente.",
+  "faits": [
+    {
+      "fait": "Selon le CIRC (OMS), le glyphosate est classé en 2015 « probablement cancérogène pour l'homme » (groupe 2A), avec des preuves limitées chez l'humain (lymphome non hodgkinien) et suffisantes chez l'animal.",
+      "periode": "2015",
+      "perimetre": "Monde",
+      "explication": "Une agence de l'OMS a identifié un danger.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Inserm, l'expertise collective de 2021 retient pour le glyphosate « une présomption moyenne de lien avec les lymphomes non hodgkiniens ».",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "L'institut public français de recherche médicale prend le risque au sérieux.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'EFSA, l'Agence européenne des produits chimiques a conclu en 2022 que le glyphosate ne remplit pas les critères pour être classé cancérogène, et l'EFSA n'a pas identifié de « domaine critique de préoccupation ».",
+      "periode": "2022-2023",
+      "perimetre": "Union européenne",
+      "explication": "Les agences réglementaires européennes sont plus rassurantes : il faut le dire.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'EFSA, des lacunes de données subsistent, et un risque élevé à long terme pour les mammifères est identifié pour 12 des 23 usages proposés ; aucune conclusion ferme n'est possible sur la biodiversité.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Même l'évaluation favorable signale des risques environnementaux.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "12 sur 23"
+    },
+    {
+      "fait": "Selon la Commission européenne, l'autorisation du glyphosate a été renouvelée pour dix ans en 2023, avec des conditions, dont l'interdiction de l'utiliser comme dessiccant avant la récolte.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Le renouvellement s'accompagne de restrictions, signe que le produit n'est pas anodin.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "10 ans"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : l'Inserm retient une « présomption moyenne » de lien avec certains cancers, et le CIRC le classe « cancérogène probable ». Les agences européennes sont plus rassurantes, mais signalent des lacunes de données et des risques pour la faune : le débat est réel, la prudence n'est pas une lubie.",
+    "moyen": "Il n'y a pas de consensus pour dire que le glyphosate est inoffensif. Le CIRC, agence de l'OMS, l'a classé « cancérogène probable » en 2015, et l'Inserm retient une « présomption moyenne » de lien avec les lymphomes non hodgkiniens.\n\nC'est vrai, les agences européennes ne le classent pas cancérogène, et l'UE l'a réautorisé pour dix ans. Mais l'EFSA elle-même signale des données manquantes et un risque élevé pour les mammifères dans plus de la moitié des usages. Demander de la prudence, surtout pour les agriculteurs exposés, n'est pas faire peur pour rien.",
+    "detaille": "Le glyphosate est l'herbicide le plus utilisé au monde. En 2015, le Centre international de recherche sur le cancer (OMS) l'a classé « probablement cancérogène pour l'homme », sur la base de preuves limitées chez l'humain, suffisantes chez l'animal et fortes pour la génotoxicité. Ce classement porte sur le danger, pas sur le niveau d'exposition.\n\nEn France, l'expertise collective de l'Inserm (2021) retient une présomption moyenne de lien entre le glyphosate et les lymphomes non hodgkiniens, notamment chez les personnes exposées professionnellement. Au niveau européen, l'ECHA ne le classe pas cancérogène et l'EFSA n'a pas identifié de domaine critique de préoccupation ; elle relève toutefois des lacunes de données et un risque élevé à long terme pour les mammifères dans 12 des 23 usages évalués.\n\nL'Union a renouvelé l'autorisation pour dix ans en 2023, avec des restrictions. De nouvelles études sont en cours d'évaluation depuis 2025. Les agriculteurs, premiers exposés, ont intérêt à ce que le principe de précaution s'applique et à être accompagnés vers des alternatives.",
+    "empathie": "Je comprends qu'un agriculteur se sente accusé quand on parle du glyphosate, alors qu'il en a besoin pour travailler. Mais les premiers exposés, ce sont justement les agriculteurs, et l'Inserm prend ce risque au sérieux."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les agences européennes disent qu'il n'est pas dangereux.",
+      "reponse": "Elles ne le classent pas cancérogène, mais l'EFSA signale des lacunes de données et des risques pour les mammifères ; l'Inserm et le CIRC concluent différemment."
+    },
+    {
+      "objection": "Sans glyphosate, l'agriculture s'effondre.",
+      "reponse": "La question est l'accompagnement des agriculteurs vers des alternatives, pas le déni du risque."
+    }
+  ],
+  "questions": [
+    "Savais-tu que l'Inserm retient une présomption de lien avec certains cancers chez les personnes exposées ?",
+    "Qui est le plus exposé au glyphosate, à ton avis ?"
+  ],
+  "limites": [
+    "Le classement du CIRC date de 2015 ; de nouvelles données (étude Ramazzini de 2025) sont en cours d'évaluation et ne sont pas tranchées.",
+    "Le débat scientifique est réel : la fiche ne conclut pas à une cancérogénicité avérée."
+  ],
+  "sources": [
+    {
+      "titre": "IARC Monograph on Glyphosate",
+      "organisme": "Centre international de recherche sur le cancer (CIRC, OMS)",
+      "date_publication": "20 mars 2015",
+      "url": "https://www.iarc.who.int/featured-news/media-centre-iarc-news-glyphosate/",
+      "passage": "Le glyphosate est classé dans le groupe 2A, « probably carcinogenic to humans » : preuves « limited » chez l'humain (lymphome non hodgkinien), « sufficient » chez l'animal ; le classement porte sur le danger, pas sur le risque lié au niveau d'exposition.",
+      "pertinence": "Agence de recherche de l'OMS.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pesticides et effets sur la santé : nouvelles données (expertise collective)",
+      "organisme": "Inserm",
+      "date_publication": "30 juin 2021",
+      "url": "https://presse.inserm.fr/publication-de-lexpertise-collective-inserm-pesticides-et-effets-sur-la-sante-nouvelles-donnees/43303/",
+      "passage": "L'expertise retient pour le glyphosate « une présomption moyenne de lien avec les lymphomes non hodgkiniens ».",
+      "pertinence": "Institut public de recherche médicale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Glyphosate: no critical areas of concern; data gaps identified",
+      "organisme": "Autorité européenne de sécurité des aliments (EFSA)",
+      "date_publication": "6 juillet 2023",
+      "url": "https://www.efsa.europa.eu/en/news/glyphosate-no-critical-areas-concern-data-gaps-identified",
+      "passage": "L'ECHA a conclu en 2022 que le glyphosate ne remplit pas les critères pour être classé cancérogène, mutagène ou reprotoxique ; l'EFSA « did not identify critical areas of concern » mais relève des lacunes de données ; un « high long-term risk to mammals » est identifié pour 12 des 23 usages proposés, et aucune conclusion ferme n'est possible sur la biodiversité.",
+      "pertinence": "Agence européenne d'évaluation des risques.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Glyphosate : les États membres n'ont pas atteint la majorité qualifiée pour renouveler ou rejeter son approbation",
+      "organisme": "Commission européenne (représentation en France)",
+      "date_publication": "16 novembre 2023",
+      "url": "https://france.representation.ec.europa.eu/informations/glyphosate-les-etats-membres-nont-pas-atteint-la-majorite-qualifiee-pour-renouveler-ou-rejeter-son-2023-11-16_fr",
+      "passage": "« la Commission va maintenant procéder au renouvellement de l'approbation du glyphosate pour une période de 10 ans », avec des conditions, dont « l'interdiction d'utiliser le glyphosate comme dessiccant avant la récolte ».",
+      "pertinence": "Institution européenne.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les agences réglementaires européennes ne classent pas le glyphosate cancérogène et n'ont pas identifié de domaine critique de préoccupation.",
+    "L'Union européenne a renouvelé son autorisation pour dix ans."
+  ],
+  "publics": {
+    "convaincus": "Ce ne sont pas des écolos qui le disent : c'est l'Inserm, l'institut public de recherche médicale, qui retient une présomption de lien avec certains cancers. Et même l'agence européenne qui l'a réautorisé signale un risque élevé pour les mammifères dans plus de la moitié des usages. Les premiers à payer le prix, ce sont les agriculteurs.",
+    "indecis": "Le glyphosate fait l'objet d'un vrai débat scientifique : certaines institutions le jugent probablement cancérogène, d'autres non. Dans ce cas, la prudence est raisonnable, surtout pour les agriculteurs exposés. Il ne s'agit pas d'accuser ceux qui l'utilisent, mais de les aider à s'en passer."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "Un débat scientifique réel est présenté comme une peur irrationnelle, au profit des fabricants.",
+    "consequences": "Les premiers exposés, agriculteurs et riverains, supportent le risque.",
+    "democratie": "Le principe de précaution est inscrit dans la Constitution : l’appliquer n’est pas de l’alarmisme.",
+    "propositions": [
+      "Accompagner financièrement les agriculteurs vers des alternatives.",
+      "Une expertise publique indépendante des industriels."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les agences européennes ne classent pas le glyphosate cancérogène, et l’Union l’a réautorisé.",
+        "integration": "Le dire, et rappeler que d’autres institutions concluent différemment."
+      }
+    ]
+  },
+  "concepts": [
+    "gauche",
+    "dangerosite",
+    "ecologie",
+    "glyphosate"
+  ],
+  "repond_a": [
+    {
+      "id": "glyphosate",
+      "label": "Glyphosate et pesticides"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire",
+    "fou",
+    "cingle",
+    "agressif",
+    "agressive"
+  ]
+}

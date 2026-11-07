@@ -127,11 +127,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "cout",
-    "eolien"
-  ],
   "repond_a": [
     {
       "id": "eolien",
@@ -148,5 +143,10 @@
     "finances publiques",
     "pognon",
     "nos impots"
+  ],
+  "concepts": [
+    "ecologie",
+    "cout",
+    "eolien"
   ]
 }

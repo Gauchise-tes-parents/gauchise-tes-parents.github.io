@@ -164,12 +164,6 @@
       }
     ]
   },
-  "concepts": [
-    "prestations",
-    "fiscalite",
-    "riches_entreprises",
-    "europe"
-  ],
   "repond_a": [
     {
       "id": "impots_entreprises",
@@ -190,5 +184,11 @@
     "aide medicale",
     "qui profitent",
     "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "fiscalite",
+    "riches_entreprises",
+    "europe"
   ]
 }

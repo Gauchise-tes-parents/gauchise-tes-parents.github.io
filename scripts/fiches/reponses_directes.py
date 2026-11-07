@@ -124,6 +124,8 @@ FICHES.append(fiche(
  ],
  questions=["Concrètement, qui faudrait-il arrêter d'aider ?", "Tu sais combien représentent les minima sociaux dans la dépense publique ?", "Si on supprimait ces aides, qu'est-ce qui se passerait pour les 4 millions de personnes qu'elles sortent de la pauvreté ?"],
  limites=["Le taux de pauvreté avant redistribution est une construction statistique : sans aides, les comportements seraient différents.", "Les chiffres de non-recours datent de 2021."],
+ publics={'convaincus': "Personne ne propose d'aider tout le monde sans limite : les aides sont déjà sous conditions et budgétées. Les minima sociaux, c'est 2 % des dépenses publiques, et un tiers des gens qui ont droit au RSA ne le demandent même pas. Sans ces aides, 21 % de la population serait pauvre, contre 14 % aujourd'hui.",
+  'indecis': "La question des limites est légitime : on ne peut pas tout financer. Mais la solidarité est déjà encadrée, et elle fonctionne : selon la DREES, elle fait passer le taux de pauvreté de 21,3 % à 14,4 % (données 2022). C'est l'un des outils les plus efficaces pour éviter que des familles basculent."},
 ))
 
 # ── 2. Services publics : « plus les moyens » ─────────────────────────────
@@ -153,6 +155,8 @@ FICHES.append(fiche(
  ],
  questions=["Quand tu dis « plus les moyens », tu as regardé le côté des recettes ?", "Quels services faudrait-il fermer, concrètement ?", "Pourquoi les recettes ont-elles été inférieures de 41,5 milliards à ce qui était prévu ?"],
  limites=["Les chiffres 2025 et 2026 ne sont pas intégrés.", "Le coût total des baisses d'impôts depuis 2017 n'est pas chiffré dans les sources retenues."],
+ publics={'convaincus': "Le déficit est réel, personne ne le nie : 5,8 % du PIB en 2024. Mais la même année, les prélèvements obligatoires ont baissé et l'État a encaissé 41,5 milliards de moins que prévu, selon le Sénat. « Plus les moyens », c'est souvent un choix : celui de moins prélever, et pas sur n'importe qui.",
+  'indecis': "Il faut prendre la dette au sérieux (113,2 % du PIB en 2024). Mais les moyens des services publics dépendent aussi des recettes, qui ont été moins dynamiques que prévu. Le débat porte sur ce qu'on prélève, et sur qui, autant que sur ce qu'on dépense."},
 ))
 
 # ── 3. La gauche veut augmenter tous les impôts ───────────────────────────
@@ -181,6 +185,8 @@ FICHES.append(fiche(
  ],
  questions=["Tu peux me citer un impôt payé par les ménages modestes que le programme augmentait ?", "Tu as vu qui paierait plus selon l'iFRAP, pourtant opposé au programme ?", "Tu préfères qu'on taxe les superprofits ou qu'on ferme des services publics ?"],
  limites=["Les programmes évoluent : il s'agit du programme du NFP de juin 2024.", "Les recettes annoncées sont des estimations du NFP ; la simulation de l'iFRAP repose sur ses propres hypothèses."],
+ publics={'convaincus': "Même l'iFRAP, un think tank très critique envers la gauche, calcule que les hausses du programme de 2024 seraient payées par les ménages au-dessus d'environ 46 450 € de revenu par an, et que les impôts des ménages modestes baisseraient. Les cibles, ce sont l'ISF, les superprofits, les grosses successions et les niches fiscales. Si tu gagnes moins que ça, ce programme ne vise pas ton porte-monnaie.",
+  'indecis': "Le programme de la gauche en 2024 prévoyait bien de fortes hausses d'impôts, mais ciblées sur les plus hauts revenus et patrimoines. Selon l'iFRAP, pourtant critique, les ménages modestes paieraient moins. On peut contester ces choix, mais pas dire que tous les impôts augmenteraient pour tout le monde."},
  a_actualiser='2027-03-31', raison="Programmes de 2027 à intégrer.",
 ))
 
@@ -210,6 +216,8 @@ FICHES.append(fiche(
  ],
  questions=["Une entreprise embauche quand ses actionnaires s'enrichissent, ou quand elle a des commandes ?", "Tu sais ce qu'ont donné les baisses d'impôts pour les plus riches en 2018 ?", "Qui crée le plus d'emplois : les milliardaires ou les millions de PME ?"],
  limites=["L'évaluation de 2023 porte sur les premières années après la réforme.", "La source citée est un compte rendu du rapport de France Stratégie."],
+ publics={'convaincus': "Près de la moitié des salariés travaillent dans des TPE et des PME, pas chez des milliardaires. Et quand on a baissé les impôts des plus riches en 2018, les dividendes versés aux ménages sont passés de 14 à 23 milliards par an, sans réinvestissement massif selon l'évaluation officielle. Ce qui crée l'emploi, ce sont des entreprises qui ont des clients.",
+  'indecis': "Les entrepreneurs et l'investissement comptent pour l'emploi, c'est vrai. Mais l'expérience de 2018 montre qu'alléger les impôts des plus riches a surtout augmenté les dividendes versés. Une entreprise embauche quand elle a des clients, donc quand les gens ont de quoi consommer."},
 ))
 
 if __name__ == '__main__':

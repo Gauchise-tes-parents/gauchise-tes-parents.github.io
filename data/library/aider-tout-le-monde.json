@@ -159,31 +159,10 @@
     "Les ressources publiques sont limitées et toute dépense doit être financée.",
     "Le ciblage des aides fait l'objet de vrais débats (conditions, contreparties, simplicité)."
   ],
-  "repond_a": [
-    {
-      "id": "depense_pauvres",
-      "label": "Ce que coûte la solidarité"
-    },
-    {
-      "id": "solidarite",
-      "label": "Les limites de la solidarité"
-    }
-  ],
-  "ne_repond_pas": [],
-  "synonymes": [
-    "droits sociaux",
-    "rsa",
-    "caf",
-    "apl",
-    "minima sociaux",
-    "assistanat",
-    "vivent des",
-    "vivre des",
-    "ame",
-    "aide medicale",
-    "qui profitent",
-    "droit a tout"
-  ],
+  "publics": {
+    "convaincus": "Personne ne propose d'aider tout le monde sans limite : les aides sont déjà sous conditions et budgétées. Les minima sociaux, c'est 2 % des dépenses publiques, et un tiers des gens qui ont droit au RSA ne le demandent même pas. Sans ces aides, 21 % de la population serait pauvre, contre 14 % aujourd'hui.",
+    "indecis": "La question des limites est légitime : on ne peut pas tout financer. Mais la solidarité est déjà encadrée, et elle fonctionne : selon la DREES, elle fait passer le taux de pauvreté de 21,3 % à 14,4 % (données 2022). C'est l'un des outils les plus efficaces pour éviter que des familles basculent."
+  },
   "lecture": {
     "valeurs": [
       "solidarite",
@@ -210,5 +189,30 @@
     "solidarite",
     "secu_sociale",
     "cout"
+  ],
+  "repond_a": [
+    {
+      "id": "depense_pauvres",
+      "label": "Ce que coûte la solidarité"
+    },
+    {
+      "id": "solidarite",
+      "label": "Les limites de la solidarité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
   ]
 }

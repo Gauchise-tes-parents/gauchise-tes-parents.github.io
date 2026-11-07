@@ -173,11 +173,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "salaires",
-    "prestations"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -193,5 +188,10 @@
     "smic",
     "dumping",
     "baisser les salaires"
+  ],
+  "concepts": [
+    "emploi",
+    "salaires",
+    "prestations"
   ]
 }

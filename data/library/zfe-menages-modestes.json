@@ -1,0 +1,193 @@
+{
+  "id": "zfe-menages-modestes",
+  "type": "idee_recue",
+  "affirmation": "Les zones à faibles émissions punissent les pauvres qui ne peuvent pas changer de voiture.",
+  "volet": "ecologie",
+  "sous_theme": "Transports",
+  "rubriques": [],
+  "mots_cles": [
+    "zfe",
+    "zones a faibles emissions",
+    "zone a faibles emissions",
+    "crit air",
+    "critair",
+    "vignette crit air",
+    "zfe m",
+    "interdire les vieilles voitures"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "En partie vrai : dans les métropoles du Grand Paris et de Lyon, les voitures Crit'Air 3 ou plus représentent environ 4 voitures sur 10 chez les 20 % de ménages les plus modestes, contre un peu plus d'une sur quatre en moyenne ; la contrainte pèse donc plus lourd sur eux. Mais la pollution de l'air cause environ 40 000 décès par an en France, et les enfants des familles pauvres en souffrent davantage. La suppression des ZFE votée en 2026 a été censurée par le Conseil constitutionnel pour une raison de procédure : elles sont maintenues.",
+  "contexte": "La suppression des ZFE a été votée au printemps 2026 par le RN, la Droite républicaine et LFI, avant d'être censurée en mai 2026 comme « cavalier législatif ».",
+  "explication": "Une ZFE interdit progressivement la circulation des véhicules les plus polluants dans certaines agglomérations. L'objectif est sanitaire ; le problème est social, car les ménages modestes ont plus souvent de vieilles voitures et moins de moyens pour en changer.",
+  "faits": [
+    {
+      "fait": "Selon le service statistique du ministère, les voitures Crit'Air 3 ou plus représentent environ 4 voitures sur 10 chez les 20 % de ménages les plus modestes du Grand Paris et de Lyon, contre un peu plus d'une voiture sur quatre pour l'ensemble des ménages.",
+      "periode": "2025",
+      "perimetre": "Grand Paris et Lyon",
+      "explication": "La contrainte pèse réellement plus sur les ménages modestes motorisés.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "4 sur 10"
+    },
+    {
+      "fait": "Selon Santé publique France, près de 40 000 décès par an sont attribuables aux particules fines chez les 30 ans et plus (2016-2019), soit 7 % de la mortalité totale.",
+      "periode": "2016-2019",
+      "perimetre": "France",
+      "explication": "La pollution de l'air tue massivement ; l'objectif des ZFE est sanitaire.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "40 000"
+    },
+    {
+      "fait": "Selon l'Observatoire des inégalités, d'après la DREES, avant 2 ans, 5 % des enfants des familles les plus pauvres ont été hospitalisés pour bronchiolite, contre 2,4 % des plus riches.",
+      "periode": "2016-2018",
+      "perimetre": "France",
+      "explication": "Les familles modestes subissent plus les effets de la pollution sur la santé.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "5 % contre 2,4 %"
+    },
+    {
+      "fait": "Selon le ministère des Transports en 2022, des aides existaient pour les ménages modestes en ZFE : prime à la conversion jusqu'à 6 000 € pour un véhicule électrique, microcrédit jusqu'à 8 000 €, leasing social prévu, dérogations locales.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Des aides existent, mais elles ne couvrent pas tout le coût d'un véhicule.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "6 000 €"
+    },
+    {
+      "fait": "Selon LCP, la suppression des ZFE votée en avril 2026 (amendements RN et Droite républicaine, avec le soutien de LFI) a été censurée par le Conseil constitutionnel le 21 mai 2026 comme cavalier législatif ; les ZFE sont maintenues.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le débat est transpartisan et reste ouvert.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "En partie vrai : les ménages modestes ont deux fois plus souvent des voitures Crit'Air 3 ou plus. Mais la pollution de l'air cause environ 40 000 décès par an, et les familles pauvres en souffrent davantage : la solution est d'aider fortement à changer de véhicule et de développer les transports publics, pas de renoncer à l'air pur.",
+    "moyen": "Il y a du vrai : dans le Grand Paris et à Lyon, 4 voitures sur 10 des ménages les plus modestes sont des Crit'Air 3 ou plus, contre un peu plus d'une sur quatre en moyenne. Interdire ces voitures sans alternative pèse d'abord sur eux.\n\nMais la pollution de l'air cause environ 40 000 décès par an en France, et ce sont aussi les enfants pauvres qui en souffrent le plus : deux fois plus d'hospitalisations pour bronchiolite. La question n'est donc pas « ZFE ou pas », mais qui paie la transition : aides massives, leasing social, transports en commun.",
+    "detaille": "Selon le service statistique du ministère, les voitures Crit'Air 3 ou plus représentent un peu plus d'une voiture sur quatre des ménages du Grand Paris et de Lyon, mais environ 4 sur 10 chez les 20 % les plus modestes. Les ZFE pèsent donc plus sur les ménages modestes qui ont besoin de leur voiture. Des aides existaient en 2022 (prime à la conversion majorée, microcrédit, leasing social), mais elles ne suffisent pas toujours à acheter un véhicule récent.\n\nL'objectif est pourtant vital : Santé publique France attribue près de 40 000 décès par an aux particules fines. Et les inégalités jouent aussi dans l'autre sens : selon la DREES, les enfants des familles les plus pauvres sont deux fois plus souvent hospitalisés pour bronchiolite avant 2 ans que ceux des plus riches.\n\nEn 2026, le Parlement a voté la suppression des ZFE, avec le RN, la Droite républicaine et LFI ; le Conseil constitutionnel l'a censurée pour une raison de procédure. Une écologie populaire refuse de faire payer la transition aux plus modestes : elle exige des aides à la hauteur, des transports publics et des dérogations, plutôt que l'abandon de l'air pur.",
+    "empathie": "Je comprends parfaitement la colère de quelqu'un qui a besoin de sa vieille voiture pour aller travailler et qui ne peut pas en acheter une neuve. C'est une injustice réelle. Mais la pollution tue aussi, et souvent les mêmes familles."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La pollution, c'est exagéré.",
+      "reponse": "Santé publique France attribue près de 40 000 décès par an aux particules fines."
+    },
+    {
+      "objection": "Les ZFE, c'est l'écologie des riches.",
+      "reponse": "La critique sociale est juste, mais ce sont aussi les enfants pauvres qui souffrent le plus de la pollution : il faut changer qui paie, pas renoncer."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui t'aiderait concrètement à changer de véhicule ou à t'en passer ?",
+    "Savais-tu que les enfants des familles pauvres sont deux fois plus souvent hospitalisés pour bronchiolite ?"
+  ],
+  "limites": [
+    "Les données sur les aides datent de 2022 ; leur montant en 2026 n'a pas pu être vérifié.",
+    "Les données sur les voitures Crit'Air ne concernent que le Grand Paris et Lyon ; la part des ménages modestes sans voiture n'a pas été chiffrée."
+  ],
+  "sources": [
+    {
+      "titre": "Quels ménages possèdent des voitures Crit'Air 3 ou plus dans les métropoles du Grand Paris et de Lyon ?",
+      "organisme": "SDES (service statistique du ministère de la Transition écologique)",
+      "date_publication": "3 juillet 2025",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/quels-menages-possedent-des-voitures-critair-3-ou-plus-dans-les-metropoles-du-grand-paris-et-de",
+      "passage": "Les voitures Crit'Air 3 ou plus représentent « un peu plus d'une voiture sur quatre du parc automobile des ménages » dans les deux métropoles, mais « environ 4 voitures sur 10 du parc automobile des 20 % de ménages les plus modestes » (42 % dans le Grand Paris, 46 % à Lyon sous le 2e décile).",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pollution de l'air ambiant : nouvelles estimations de son impact sur la santé des Français",
+      "organisme": "Santé publique France",
+      "date_publication": "14 avril 2021",
+      "url": "https://www.santepubliquefrance.fr/presse/pollution-de-lair-ambiant-nouvelles-estimations-de-son-impact-sur-la-sante-des-francais",
+      "passage": "« près de 40 000 décès seraient attribuables à une exposition » aux particules fines PM2,5 chez les 30 ans et plus (période 2016-2019), soit « 7% de la mortalité totale ».",
+      "pertinence": "Agence nationale de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les enfants de familles aisées sont plus exposés à la pollution, mais leur santé en souffre moins",
+      "organisme": "Observatoire des inégalités, d'après la DREES (Études et résultats n° 1292)",
+      "date_publication": "15 février 2024",
+      "url": "https://www.inegalites.fr/Les-enfants-de-familles-aisees-sont-plus-exposes-a-la-pollution-mais-leur-sante",
+      "passage": "Les enfants nés en 2016 dans les familles les plus aisées sont un peu plus exposés aux particules fines, mais avant 2 ans 5 % des enfants des familles les plus pauvres ont été hospitalisés pour bronchiolite, contre 2,4 % des plus riches.",
+      "pertinence": "Association indépendante, d'après une étude de la DREES.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "ZFE : le Conseil constitutionnel censure la suppression des zones à faibles émissions",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "21 mai 2026",
+      "url": "https://lcp.fr/actualites/zfe-le-conseil-constitutionnel-censure-la-suppression-des-zones-a-faibles-emissions",
+      "passage": "La suppression des ZFE, ajoutée par amendements RN et Droite républicaine avec le soutien de LFI et confirmée au vote final le 14 avril 2026, est censurée par la décision n° 2026-903 DC comme « cavalier législatif », faute de lien suffisant avec le texte initial ; le fond n'est pas examiné et les ZFE sont maintenues.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 3069 (zones à faibles émissions) et réponse du ministère des Transports",
+      "organisme": "Assemblée nationale / ministère des Transports",
+      "date_publication": "20 décembre 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE3069.pdf",
+      "passage": "Aides alors en vigueur : prime à la conversion jusqu'à 6 000 € (électrique) pour un ménage modeste qui habite ou travaille en ZFE, microcrédit jusqu'à 8 000 €, prêt à taux zéro expérimental en 2023, leasing social prévu, dérogations locales possibles ; le ministère cite « plus de 47 000 décès par an » imputables à la pollution atmosphérique.",
+      "pertinence": "Réponse officielle du ministère compétent (données de 2022).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les ménages modestes possèdent proportionnellement plus de véhicules concernés par les interdictions.",
+    "Les aides existantes ne couvrent pas tout le coût d'un véhicule récent, et les transports publics manquent hors des centres."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : ce sont les ménages modestes qui ont le plus de vieilles voitures, et les aides ne suffisent pas. Mais la pollution de l'air, c'est environ 40 000 morts par an, et ce sont aussi les enfants pauvres qui finissent à l'hôpital. Exige qu'on t'aide à changer de voiture et qu'on développe les bus, pas qu'on laisse l'air empoisonné.",
+    "indecis": "Les ZFE posent un vrai problème social : les ménages modestes ont plus souvent des voitures concernées. Mais elles répondent à un vrai problème de santé publique. Le bon débat porte sur les aides, les transports en commun et les dérogations, pour que la transition ne pèse pas sur les plus pauvres."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "vulnerables",
+      "services_publics"
+    ],
+    "mecanismes": "Une politique de santé publique mal accompagnée est opposée aux classes populaires, qui subissent aussi le plus la pollution.",
+    "consequences": "Sans aides suffisantes, les ménages modestes perdent leur mobilité ; sans action, leurs enfants respirent un air dangereux.",
+    "democratie": "La transition écologique doit être juste pour être acceptée.",
+    "propositions": [
+      "Des aides fortes pour changer de véhicule, un leasing social élargi et des dérogations pour les plus modestes.",
+      "Développer les transports en commun, y compris en périphérie."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les ménages modestes possèdent proportionnellement plus de véhicules concernés.",
+        "integration": "Le reconnaître : c’est une raison d’accompagner, pas de renoncer."
+      }
+    ]
+  },
+  "concepts": [
+    "pauvrete",
+    "zfe"
+  ],
+  "repond_a": [
+    {
+      "id": "zfe",
+      "label": "Zones à faibles émissions"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "pauvrete",
+    "misere",
+    "coutent trop cher"
+  ]
+}

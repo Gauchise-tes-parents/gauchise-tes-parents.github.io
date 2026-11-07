@@ -134,14 +134,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "patriotisme",
-    "priorite_nationale",
-    "secu_sociale",
-    "nationalite",
-    "loi_constitution"
-  ],
   "repond_a": [
     {
       "id": "preference_nationale_droit",
@@ -162,5 +154,13 @@
     "marseillaise",
     "de droite",
     "francais d abord"
+  ],
+  "concepts": [
+    "immigration",
+    "patriotisme",
+    "priorite_nationale",
+    "secu_sociale",
+    "nationalite",
+    "loi_constitution"
   ]
 }
