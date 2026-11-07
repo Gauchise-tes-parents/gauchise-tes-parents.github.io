@@ -156,11 +156,6 @@
       }
     ]
   },
-  "concepts": [
-    "fiscalite",
-    "services_publics",
-    "dette"
-  ],
   "repond_a": [
     {
       "id": "services_publics_moyens",
@@ -185,5 +180,10 @@
     "argent public",
     "argent magique",
     "n a plus les moyens"
+  ],
+  "concepts": [
+    "fiscalite",
+    "services_publics",
+    "dette"
   ]
 }

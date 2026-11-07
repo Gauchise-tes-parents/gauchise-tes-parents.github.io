@@ -172,11 +172,6 @@
       }
     ]
   },
-  "concepts": [
-    "patriotisme",
-    "retraite",
-    "fn_parti"
-  ],
   "repond_a": [
     {
       "id": "rn_retraite_60",
@@ -196,5 +191,10 @@
     "rn",
     "rassemblement national",
     "le pen"
+  ],
+  "concepts": [
+    "patriotisme",
+    "retraite",
+    "fn_parti"
   ]
 }

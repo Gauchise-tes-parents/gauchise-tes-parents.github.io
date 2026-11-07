@@ -165,12 +165,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "islam",
-    "laicite",
-    "mosquee"
-  ],
   "repond_a": [
     {
       "id": "mosquees",
@@ -191,5 +185,11 @@
     "burkini",
     "ramadan",
     "laicite"
+  ],
+  "concepts": [
+    "immigration",
+    "islam",
+    "laicite",
+    "mosquee"
   ]
 }

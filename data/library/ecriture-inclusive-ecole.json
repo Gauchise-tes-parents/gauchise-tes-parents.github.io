@@ -1,0 +1,160 @@
+{
+  "id": "ecriture-inclusive-ecole",
+  "type": "idee_recue",
+  "affirmation": "L'écriture inclusive est imposée aux enfants à l'école.",
+  "volet": "services",
+  "sous_theme": "École publique",
+  "rubriques": [],
+  "mots_cles": [
+    "ecriture inclusive",
+    "point median",
+    "inclusive a l ecole",
+    "iel",
+    "langage inclusif",
+    "imposee aux enfants",
+    "circulaire blanquer"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "C'est l'inverse : depuis la circulaire du 5 mai 2021, l'usage et l'enseignement de l'écriture inclusive, notamment du point médian, sont proscrits à l'école, et le Conseil d'État a jugé cette interdiction légale en décembre 2024. L'école demande seulement de féminiser les noms de fonctions. L'usage existe en revanche à l'université, ce qui a conduit le Sénat à voter en 2023 une proposition de loi pour l'interdire plus largement.",
+  "contexte": "L'écriture inclusive est devenue un symbole du « wokisme » supposé de l'école ; des rumeurs évoquent des manuels ou des cours qui l'imposeraient aux élèves.",
+  "explication": "L'« écriture inclusive » regroupe plusieurs pratiques : le point médian (« les élu·es »), la double flexion (« les Françaises et les Français ») et la féminisation des noms de métiers. L'interdiction scolaire vise surtout le point médian.",
+  "faits": [
+    {
+      "fait": "La circulaire du 5 mai 2021 « proscrit l'usage et l'enseignement de certaines règles relevant de l'écriture inclusive, et notamment le point médian » à l'école.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "La règle officielle interdit ce qu'on accuse l'école d'imposer.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Conseil d'État a jugé cette interdiction légale le 20 décembre 2024, en retenant l'objectif de faciliter l'apprentissage de la lecture.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "L'interdiction a été confirmée par la justice.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La même circulaire demande aux enseignants de féminiser systématiquement les noms de fonctions.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "L'école demande « la directrice », pas le point médian.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Sénat relève une progression de l'écriture inclusive à l'université et a adopté le 30 octobre 2023, par 221 voix contre 82, une proposition de loi pour l'interdire plus largement ; son adoption à l'Assemblée restait incertaine.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le débat existe, mais il concerne surtout l'enseignement supérieur.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : depuis 2021, une circulaire interdit le point médian à l'école, et le Conseil d'État l'a jugée légale en 2024. L'école demande seulement de féminiser les noms de fonctions.",
+    "moyen": "Les élèves n'apprennent pas l'écriture inclusive : depuis la circulaire du 5 mai 2021, son usage et son enseignement, notamment le point médian, sont interdits à l'école. Le Conseil d'État a validé cette interdiction en décembre 2024.\n\nCe que l'école demande, c'est de féminiser les noms de fonctions (« la directrice »). Le débat porte surtout sur l'université, où certains enseignants l'utilisent ; le Sénat a voté en 2023 une proposition de loi pour l'interdire aussi.",
+    "detaille": "Le ministre de l'Éducation nationale a signé le 5 mai 2021 une circulaire qui proscrit l'usage et l'enseignement de l'écriture inclusive, notamment du point médian, dans les pratiques d'enseignement, au nom de l'apprentissage de la lecture et du respect des règles grammaticales. Un parent d'élève l'a contestée ; le Conseil d'État a rejeté son recours le 20 décembre 2024.\n\nLa circulaire demande en revanche de féminiser systématiquement les noms de fonctions. Une circulaire du Premier ministre de 2017 ne visait que les textes publiés au Journal officiel.\n\nLe Sénat constate une progression de ces usages à l'université et a adopté en octobre 2023 une proposition de loi pour interdire l'écriture inclusive dans les cours, examens et thèses ; la double flexion (« les Françaises et les Français ») resterait permise. On peut débattre de l'écriture inclusive ; mais elle n'est pas imposée aux enfants, elle leur est interdite.",
+    "empathie": "Je comprends qu'on s'inquiète de ce que les enfants apprennent, surtout quand on lit des histoires de points médians dans les cahiers. Mais la règle est claire depuis 2021 : l'écriture inclusive est interdite à l'école, et la justice l'a confirmé."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Mon enfant a reçu un document avec des points médians.",
+      "reponse": "C'est possible ponctuellement, mais c'est contraire à la circulaire ; on peut le signaler à l'établissement."
+    },
+    {
+      "objection": "Dire « les Françaises et les Français », c'est déjà de l'inclusif.",
+      "reponse": "C'est une double flexion, que l'usage ancien connaît et que même la proposition du Sénat n'interdit pas."
+    }
+  ],
+  "questions": [
+    "Sais-tu que l'écriture inclusive est interdite à l'école depuis 2021 ?",
+    "Qu'est-ce qui te gêne : le point médian ou le fait de dire « la directrice » ?"
+  ],
+  "limites": [
+    "Le texte du Bulletin officiel de 2021 n'a pas pu être lu directement ; son contenu est connu par la décision du Conseil d'État et le Sénat.",
+    "Le sort de la proposition de loi du Sénat à l'Assemblée n'a pas été vérifié."
+  ],
+  "sources": [
+    {
+      "titre": "L'interdiction de recourir à certains éléments de l'écriture inclusive, notamment le point médian, pour l'enseignement est légale (décision n° 474812-487671)",
+      "organisme": "Conseil d'État",
+      "date_publication": "20 décembre 2024",
+      "url": "https://conseil-etat.fr/actualites/l-interdiction-de-recourir-a-certains-elements-de-l-ecriture-inclusive-notamment-le-point-median-pour-l-enseignement-est-legale",
+      "passage": "La circulaire du 5 mai 2021 « proscrit l'usage et l'enseignement de certaines règles relevant de l'écriture inclusive, et notamment le point médian » ; elle demande aux enseignants de féminiser systématiquement les noms de fonctions. Le Conseil d'État retient l'objectif de faciliter l'apprentissage de la lecture et rejette le recours.",
+      "pertinence": "Décision de la plus haute juridiction administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'essentiel — Proposition de loi visant à interdire l'usage de l'écriture inclusive",
+      "organisme": "Sénat",
+      "date_publication": "25 octobre 2023 (mis à jour le 30 octobre 2023)",
+      "url": "https://www.senat.fr/lessentiel/ppl21-404.pdf",
+      "passage": "La circulaire du Premier ministre du 21 novembre 2017 ne vise que les actes publiés au Journal officiel ; la circulaire de 2021 proscrit l'écriture inclusive dans les pratiques d'enseignement. Le Sénat relève une progression de cet usage à l'université et veut étendre l'interdiction aux cours, examens, thèses et mémoires.",
+      "pertinence": "Document du Sénat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Sénat adopte à une large majorité une proposition de loi pour interdire l'écriture inclusive",
+      "organisme": "Public Sénat",
+      "date_publication": "31 octobre 2023",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-adopte-a-une-large-majorite-une-proposition-de-loi-pour-interdire-lecriture-inclusive",
+      "passage": "Texte adopté le 30 octobre 2023 par 221 voix contre 82 ; la double flexion (« les Françaises et les Français ») n'est pas interdite ; son adoption à l'Assemblée est jugée « loin d'être sûre ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Des usages existent à l'université, selon le Sénat.",
+    "Aucune donnée ne mesure les pratiques réelles de chaque enseignant en classe."
+  ],
+  "publics": {
+    "convaincus": "C'est l'inverse : une circulaire de 2021 interdit l'écriture inclusive à l'école, et le Conseil d'État l'a validée en 2024. Si tu as vu un cas, c'est une exception contraire aux règles, pas une politique imposée aux enfants.",
+    "indecis": "La règle est simple : à l'école, le point médian est interdit depuis 2021, et la justice l'a confirmé. On demande seulement de féminiser les noms de métiers. Le débat existe surtout à l'université, où le Sénat a voté en 2023 un texte pour l'interdire aussi."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "services_publics"
+    ],
+    "mecanismes": "Une règle qui interdit une pratique est présentée comme son contraire, pour accuser l’école d’endoctrinement.",
+    "consequences": "La confiance des familles dans l’école publique est entamée sur la base d’une fausse information.",
+    "democratie": "Le débat sur la langue est légitime ; il doit partir des règles réellement en vigueur.",
+    "propositions": [
+      "Défendre l’égalité filles-garçons à l’école par des pratiques concrètes, comme la féminisation des noms de métiers.",
+      "Donner à l’école publique les moyens d’apprendre à lire à tous."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’usage de l’écriture inclusive progresse à l’université selon le Sénat.",
+        "integration": "Le dire, et distinguer l’université de l’école."
+      }
+    ]
+  },
+  "concepts": [
+    "services_publics",
+    "ecriture_inclusive"
+  ],
+  "repond_a": [
+    {
+      "id": "ecriture_inclusive",
+      "label": "Écriture inclusive à l’école"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences",
+    "ecriture inclusive",
+    "point median",
+    "langage inclusif"
+  ]
+}

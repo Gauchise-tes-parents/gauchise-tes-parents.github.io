@@ -1,0 +1,191 @@
+{
+  "id": "migrants-smartphones-refugies",
+  "type": "idee_recue",
+  "affirmation": "Les migrants ont tous des smartphones, ce ne sont pas de vrais réfugiés.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et asile",
+  "rubriques": [],
+  "mots_cles": [
+    "smartphones",
+    "smartphone",
+    "telephones portables",
+    "iphone",
+    "vrais refugies",
+    "faux refugies",
+    "migrants economiques",
+    "taux de protection",
+    "ofpra"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Avoir un téléphone ne dit rien du besoin de protection : pour les exilés, c'est un outil de survie (se repérer, joindre sa famille, traduire). Selon le HCR, les réfugiés ont même deux fois moins de chances que la population générale d'avoir un téléphone connecté, et 29 % des ménages réfugiés n'en ont aucun. En France, l'OFPRA a accordé une protection à 41 % des demandeurs en 2025, et le taux global atteint 52,1 % avec les recours : plus d'un demandeur sur deux est reconnu comme ayant besoin de protection.",
+  "contexte": "Les images de personnes migrantes photographiant leur arrivée avec un téléphone ont nourri, depuis 2015, l'idée qu'il s'agirait de migrants aisés et non de réfugiés.",
+  "explication": "La protection (statut de réfugié ou autre protection) est examinée au cas par cas par l'OFPRA, puis par la Cour nationale du droit d'asile en cas de recours, en fonction des menaces que la personne fuit ; la possession d'un objet n'entre pas en compte.",
+  "faits": [
+    {
+      "fait": "Selon le HCR, les réfugiés ont 50 % de chances en moins que la population générale d'avoir un téléphone connecté à Internet, et 29 % des ménages réfugiés n'ont aucun téléphone.",
+      "periode": "2016",
+      "perimetre": "Monde",
+      "explication": "« Ils ont tous des smartphones » est faux.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "29 %"
+    },
+    {
+      "fait": "Selon le HCR, les réfugiés consacrent jusqu'à un tiers de leur revenu disponible à rester connectés et considèrent la connexion comme un outil de survie.",
+      "periode": "2016",
+      "perimetre": "Monde",
+      "explication": "Le téléphone n'est pas un luxe mais une nécessité.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon l'Agence de l'UE pour l'asile, l'OFPRA a accordé une protection à 41 % des demandeurs en 2025 (39 % en 2024), sur 156 509 décisions.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une part importante des demandeurs est reconnue en première instance.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "41 %"
+    },
+    {
+      "fait": "Selon le Sénat, le taux global de protection, recours devant la CNDA inclus, « atteint désormais 52,1 % en 2025 ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Plus d'un demandeur sur deux obtient une protection.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "52,1 %"
+    },
+    {
+      "fait": "Selon Eurostat, le taux de reconnaissance en première instance dans l'Union est de 39 % en 2025, mais de 73 % pour les Afghans et de 92 % pour les Vénézuéliens.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "Pour certaines nationalités, presque tous les demandeurs sont reconnus.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "39 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le téléphone est un outil de survie pour les exilés, et selon le HCR, 29 % des ménages réfugiés n'en ont même pas. En France, plus d'un demandeur d'asile sur deux (52,1 % en 2025) obtient une protection.",
+    "moyen": "Pour quelqu'un qui fuit son pays, le téléphone sert à tout : trouver son chemin, joindre sa famille, traduire, appeler à l'aide. Ce n'est pas un signe de richesse : selon le HCR, les réfugiés sont même moins équipés que le reste de la population, et près d'un ménage réfugié sur trois n'a pas de téléphone.\n\nEn France, la protection est décidée au cas par cas : en 2025, 41 % des demandeurs ont été protégés par l'OFPRA, et 52,1 % au total avec les recours. Ce sont des personnes reconnues en danger, téléphone ou pas.",
+    "detaille": "L'image de migrants arrivant avec un smartphone a beaucoup circulé depuis 2015. Pourtant, pour les personnes exilées, le téléphone est un outil vital : GPS pour se repérer, messagerie pour joindre la famille, traduction, organisation du trajet. Une responsable du service social pour les réfugiés de Munich résumait : « Ça n'a vraiment rien d'un luxe ». Selon le HCR, les réfugiés ont deux fois moins de chances que la population générale d'avoir un téléphone connecté, 29 % des ménages réfugiés n'en ont aucun, et ils consacrent jusqu'à un tiers de leur revenu à rester connectés.\n\nLe statut de réfugié ne dépend pas de ce qu'on possède, mais des menaces qu'on fuit. En France, l'OFPRA a accordé une protection à 41 % des demandeurs en 2025, et le Sénat évalue le taux global, recours inclus, à 52,1 %. Dans l'Union, 39 % des décisions de première instance sont positives, et jusqu'à 73 % pour les Afghans ou 92 % pour les Vénézuéliens.\n\nIl est vrai qu'environ la moitié des demandeurs sont finalement déboutés, et que les décisions d'éloignement sont rarement exécutées. Mais c'est un autre débat, qui n'a rien à voir avec le fait d'avoir un téléphone.",
+    "empathie": "Je comprends que ça étonne de voir des personnes qui fuient la guerre avec un téléphone à la main. Mais réfléchis : si tu devais fuir avec un seul objet, ce serait sans doute ton téléphone, pour te repérer et donner des nouvelles à tes proches."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Un vrai réfugié n'a pas les moyens de s'acheter un iPhone.",
+      "reponse": "Selon le HCR, les réfugiés consacrent jusqu'à un tiers de leurs revenus à rester connectés : c'est une priorité vitale, pas un signe d'aisance."
+    },
+    {
+      "objection": "Ce sont des migrants économiques.",
+      "reponse": "Pour la moitié d'entre eux, la protection est reconnue après examen individuel ; pour les autres, la décision ne dépend pas du téléphone."
+    }
+  ],
+  "questions": [
+    "Si tu devais fuir ton pays avec un seul objet, lequel prendrais-tu ?",
+    "Sais-tu quelle part des demandeurs d'asile obtient une protection en France ?"
+  ],
+  "limites": [
+    "L'étude du HCR date de 2016 ; aucune étude plus récente sur l'équipement des réfugiés n'a été lue.",
+    "Le rapport d'activité 2025 de l'OFPRA est connu par l'Agence de l'UE pour l'asile, pas par le document lui-même."
+  ],
+  "sources": [
+    {
+      "titre": "Connecting Refugees: How Internet and Mobile Connectivity can Improve Refugee Well-Being and Transform Humanitarian Action",
+      "organisme": "Haut-Commissariat des Nations unies pour les réfugiés (HCR), avec Accenture",
+      "date_publication": "Septembre 2016",
+      "url": "https://www.unhcr.org/in/sites/en-in/files/legacy-pdf/5770d43c4.pdf",
+      "passage": "Les réfugiés ont 50 % de chances en moins que la population générale d'avoir un téléphone connecté à Internet ; 29 % des ménages réfugiés n'ont aucun téléphone ; ils consacrent jusqu'à un tiers de leur revenu disponible à rester connectés ; « Refugees deem connectivity to be a critical survival tool in their daily lives. »",
+      "pertinence": "Agence des Nations unies (2016).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Non, les smartphones des migrants qui arrivent en Europe n'ont rien d'un luxe",
+      "organisme": "Slate.fr",
+      "date_publication": "2015",
+      "url": "https://www.slate.fr/story/105425/pourquoi-migrants-ont-smartphones",
+      "passage": "Le téléphone sert à se repérer (GPS), à traduire, à joindre la famille et à organiser le trajet, avec des cartes prépayées et des applications de messagerie ; une responsable du service social pour les réfugiés de Munich : « Ça n'a vraiment rien d'un luxe ».",
+      "pertinence": "Média (2015).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "OFPRA publishes its annual report for 2025",
+      "organisme": "Agence de l'Union européenne pour l'asile (EUAA)",
+      "date_publication": "27 juillet 2026",
+      "url": "https://dip.euaa.europa.eu/node/13714",
+      "passage": "145 270 demandes en 2025 (−5,5 %) ; 156 509 décisions ; taux de protection à l'OFPRA de 41 %, contre 39 % en 2024 ; principales nationalités : Ukraine, RD Congo, Afghanistan.",
+      "pertinence": "Agence de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Asile : faire la lumière sur les coûts, redéfinir les protections (l'essentiel)",
+      "organisme": "Sénat, commission des finances (Marie-Carole Ciuntu)",
+      "date_publication": "8 juillet 2026",
+      "url": "https://www.senat.fr/fileadmin/cru-1783325159/Commissions/Finances/2025-2026/Controles/Essentiel_post-commission_couts_de_l_asile.pdf",
+      "passage": "Coût de l'asile estimé à au moins 1,85 Md€ en 2025, hors santé, scolarité, aide sociale et police, dont environ la moitié pour l'hébergement ; dépenses du dispositif national d'accueil : 1,1 Md€ en 2024 (+48 % depuis 2019). Le taux global de protection, CNDA incluse, « atteint désormais 52,1 % en 2025 » ; les obligations de quitter le territoire visant des déboutés ne sont exécutées qu'à 5,5 % en moyenne sur 2019-2025.",
+      "pertinence": "Rapport parlementaire de contrôle (rapporteure LR).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Asylum decisions down by 18% in 2025",
+      "organisme": "Eurostat",
+      "date_publication": "24 avril 2026",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260424-1",
+      "passage": "832 360 décisions de première instance dans l'Union en 2025 ; 325 765 personnes protégées, taux de reconnaissance de 39 % ; la France a protégé 72 930 personnes (toutes instances), 20 % du total de l'Union ; taux de reconnaissance en première instance de 73 % pour les Afghans et 92 % pour les Vénézuéliens.",
+      "pertinence": "Office statistique de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Environ la moitié des demandeurs d'asile ne sont pas reconnus comme ayant besoin d'une protection.",
+    "Les décisions d'éloignement des déboutés sont rarement exécutées (5,5 % en moyenne sur 2019-2025 selon le Sénat)."
+  ],
+  "publics": {
+    "convaincus": "Si tu devais fuir avec un seul objet, tu prendrais ton téléphone : c'est ton GPS, ton traducteur et ton seul lien avec ta famille. Selon le HCR, près d'un ménage réfugié sur trois n'en a même pas. Et en France, plus d'un demandeur sur deux est reconnu en danger après examen : le téléphone n'y change rien.",
+    "indecis": "C'est vrai que l'image surprend. Mais pour un exilé, le téléphone est un outil de survie, pas un luxe. Le droit d'asile est examiné au cas par cas : en 2025, plus de la moitié des demandeurs ont obtenu une protection, et les autres doivent en principe quitter la France."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "solidarite",
+      "internationalisme"
+    ],
+    "mecanismes": "Un objet du quotidien est utilisé pour nier la détresse de personnes qui fuient des dangers réels.",
+    "consequences": "La méfiance envers tous les exilés rend plus difficile l’accueil de ceux qui ont besoin de protection.",
+    "democratie": "Le droit d’asile repose sur un examen individuel, pas sur des apparences.",
+    "propositions": [
+      "Garantir un examen rapide et équitable des demandes d’asile.",
+      "Assurer des conditions d’accueil dignes pendant cet examen."
+    ],
+    "defavorables": [
+      {
+        "fait": "Environ la moitié des demandeurs ne sont pas reconnus comme ayant besoin d’une protection.",
+        "integration": "Le dire, et rappeler que le téléphone n’a rien à voir avec la décision."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos"
+  ]
+}

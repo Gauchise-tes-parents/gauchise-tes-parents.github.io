@@ -155,13 +155,6 @@
       }
     ]
   },
-  "concepts": [
-    "fiscalite",
-    "melenchon_lfi",
-    "gauche",
-    "heritage",
-    "nfp_2024"
-  ],
   "repond_a": [
     {
       "id": "gauche_impots",
@@ -182,5 +175,12 @@
     "nfp",
     "gauche",
     "gauchos"
+  ],
+  "concepts": [
+    "fiscalite",
+    "melenchon_lfi",
+    "gauche",
+    "heritage",
+    "nfp_2024"
   ]
 }

@@ -1,0 +1,198 @@
+{
+  "id": "sortie-nucleaire-penurie",
+  "type": "idee_recue",
+  "affirmation": "Si la gauche ferme les centrales nucléaires, on va manquer d'électricité.",
+  "volet": "ecologie",
+  "sous_theme": "Nucléaire",
+  "rubriques": [],
+  "mots_cles": [
+    "fermer les centrales",
+    "sortie du nucleaire",
+    "sortir du nucleaire",
+    "fermeture des centrales",
+    "manquer d electricite",
+    "black out",
+    "penurie d electricite",
+    "100 % renouvelables",
+    "futurs energetiques 2050",
+    "rte"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Selon RTE, tous ses scénarios pour 2050, y compris celui sans nucléaire (M0), garantissent la sécurité d'approvisionnement. Mais M0 est le plus coûteux, exige un développement des renouvelables plus rapide que dans les pays européens les plus dynamiques et rend la France plus dépendante de ses voisins (environ 5 % du temps contre 1 %). Et « la gauche » n'est pas unanime : LFI et les écologistes veulent une sortie planifiée, le PCF défend le nucléaire et le PS veut prolonger les centrales.",
+  "contexte": "La sortie du nucléaire défendue par LFI et les écologistes est souvent présentée comme une promesse de coupures de courant ; le débat est revenu avec la réactualisation des scénarios de RTE en 2026.",
+  "explication": "Une sortie du nucléaire planifiée n'est pas une fermeture du jour au lendemain : les scénarios de RTE s'étalent jusqu'en 2050 et supposent de construire massivement de l'éolien, du solaire et des moyens de stockage. La question est surtout celle du coût et du rythme.",
+  "faits": [
+    {
+      "fait": "Selon le président de RTE, tous les scénarios étudiés, y compris la sortie du nucléaire en 2050, garantissent la sécurité d'approvisionnement.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Une sortie planifiée n'implique pas de pénurie, selon le gestionnaire du réseau.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le scénario M0 suppose environ 208 GW de solaire, 74 GW d'éolien terrestre et 62 GW d'éolien en mer en 2050, et des rythmes de développement des renouvelables plus rapides que ceux des pays européens les plus dynamiques.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Le défi est industriel et réel.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "208 GW"
+    },
+    {
+      "fait": "Selon RTE, sans nouveau nucléaire, la France dépendrait de ses voisins pour sa sécurité d'approvisionnement environ 5 % du temps, contre 1 % aujourd'hui, et le scénario M0 reste le plus coûteux.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "La sortie du nucléaire coûte plus cher et accroît la dépendance aux importations.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "5 %"
+    },
+    {
+      "fait": "Selon le président de RTE, en coûts complets, les scénarios avec nouveau nucléaire reviendraient environ 10 Md€ moins cher en 2050.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "L'écart de coût est réel, même s'il dépend des hypothèses.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "10 Md€"
+    },
+    {
+      "fait": "Dans le programme de la Nupes (2022), LFI et les écologistes voulaient « planifier » la sortie du nucléaire, le PCF défendait un mix avec le nucléaire et le PS voulait optimiser la durée de vie des centrales.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La gauche est divisée sur le sujet.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2026, RTE rehausse ses trajectoires de consommation d'électricité, envisage de prolonger l'essentiel du parc au-delà de 60 ans et maintient le scénario sans nouveau nucléaire.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les hypothèses évoluent : le débat reste ouvert.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : selon RTE, même le scénario sans nucléaire en 2050 garantit l'approvisionnement. Mais il est le plus coûteux et le plus exigeant. Et toute la gauche ne veut pas sortir du nucléaire : le PCF le défend.",
+    "moyen": "Personne à gauche ne propose de fermer les centrales du jour au lendemain. LFI et les écologistes veulent une sortie planifiée d'ici 2050 ; le PCF défend le nucléaire et le PS veut prolonger les centrales.\n\nRTE, le gestionnaire du réseau, a étudié une sortie complète en 2050 : elle garantit l'approvisionnement, mais coûte plus cher que les scénarios avec nouveaux réacteurs, demande de construire très vite de l'éolien et du solaire et rend la France plus dépendante de ses voisins.",
+    "detaille": "En 2021, RTE a publié six scénarios pour atteindre la neutralité carbone en 2050. Le scénario M0 prévoit la sortie du nucléaire en 2050, avec environ 208 GW de solaire, 74 GW d'éolien terrestre et 62 GW d'éolien en mer. Selon le président de RTE, tous les scénarios garantissent la sécurité d'approvisionnement.\n\nMais M0 a des inconvénients sérieux : il suppose des rythmes de développement des renouvelables supérieurs à ceux des pays européens les plus dynamiques, il reste le plus coûteux (selon le président de RTE, les scénarios avec nouveau nucléaire reviendraient environ 10 Md€ moins cher en 2050) et il rend la France dépendante de ses voisins environ 5 % du temps, contre 1 % aujourd'hui. Son coût ne se rapproche des autres qu'à plusieurs conditions (éolien flottant, financement favorable, hydrogène compétitif).\n\nÀ gauche, le sujet divise : LFI et les écologistes défendent une sortie planifiée, le PCF un mix avec le nucléaire, le PS la prolongation des centrales. En 2026, RTE rehausse ses prévisions de consommation et envisage de prolonger l'essentiel du parc au-delà de 60 ans. Le vrai débat porte sur le coût, le rythme et les risques, pas sur des coupures de courant promises par un camp.",
+    "empathie": "Je comprends qu'on s'inquiète pour sa facture et pour le risque de coupures, surtout après les hivers tendus. Mais personne ne propose de tout fermer d'un coup : RTE a montré qu'une sortie planifiée tient l'approvisionnement, même si elle coûterait plus cher."
+  },
+  "contre_arguments": [
+    {
+      "objection": "L'Allemagne a fermé ses centrales et brûle du charbon.",
+      "reponse": "Le scénario étudié par RTE pour la France est neutre en carbone ; la comparaison avec l'Allemagne n'a pas été étudiée par les sources lues."
+    },
+    {
+      "objection": "Les renouvelables sont intermittents.",
+      "reponse": "C'est pourquoi le scénario M0 prévoit stockage, flexibilités et interconnexions, et coûte plus cher."
+    }
+  ],
+  "questions": [
+    "Sais-tu que le PCF, à gauche, défend le nucléaire ?",
+    "Qu'est-ce qui te paraît le plus important : le coût, la sûreté ou la dépendance aux importations ?"
+  ],
+  "limites": [
+    "L'étude de RTE date de 2021 ; sa réactualisation est en cours en 2026 et pourrait modifier les chiffres.",
+    "La position actuelle de chaque parti de gauche pour 2027 n'a pas été vérifiée ; la fiche s'appuie sur le programme de 2022."
+  ],
+  "sources": [
+    {
+      "titre": "Futurs énergétiques 2050 — Résumé exécutif",
+      "organisme": "RTE (fichier hébergé par Vie publique)",
+      "date_publication": "25 octobre 2021",
+      "url": "https://vie-publique.fr/files/rapports/fichiers_joints/282232-resume-executif.pdf",
+      "passage": "Le scénario M0 (« Sortie du nucléaire en 2050 ») suppose environ 208 GW de solaire, 74 GW d'éolien terrestre et 62 GW d'éolien en mer. Son coût peut s'approcher de celui des scénarios avec nouveaux réacteurs sous plusieurs conditions (éolien flottant, financement favorable, système hydrogène compétitif), mais il reste le plus coûteux ; « Se passer de nouveaux réacteurs nucléaires implique des rythmes de développement des énergies renouvelables » plus rapides que ceux des pays européens les plus dynamiques. La France dépendrait de ses voisins pour sa sécurité d'approvisionnement environ 5 % du temps, contre 1 % aujourd'hui.",
+      "pertinence": "Gestionnaire public du réseau de transport d'électricité (données de 2021).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pour le patron de RTE « Construire de nouveaux réacteurs nucléaires est pertinent du point de vue économique »",
+      "organisme": "LCP (Ariel Guez)",
+      "date_publication": "27 octobre 2021",
+      "url": "https://lcp.fr/actualites/pour-le-patron-de-rte-construire-de-nouveaux-reacteurs-nucleaires-est-pertinent-du-point",
+      "passage": "Le président de RTE indique que tous les scénarios garantissent la sécurité d'approvisionnement ; en coûts complets, les scénarios avec nouveau nucléaire reviendraient environ 10 Md€ par an moins cher en 2050 ; il faut au minimum multiplier le solaire par 7 et l'éolien terrestre par 2,5 ; « La France consommera plus d'électricité en 2050 ».",
+      "pertinence": "Média parlementaire (audition de 2021).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Réactualisation des Futurs énergétiques 2050 — synthèse de la consultation publique",
+      "organisme": "RTE",
+      "date_publication": "3 avril 2026",
+      "url": "https://assets.rte-france.com/prod/public/2026-04/RTE-Reactualisation-FE-2050-consultation-publique-2026-synthese.pdf",
+      "passage": "Les hypothèses retenues tendent à rehausser les trajectoires de consommation d'électricité ; les rythmes récents du photovoltaïque conduisent à lever certains doutes sur la capacité de l'industrie ; le document envisage une prolongation au-delà de 60 ans pour l'essentiel du parc nucléaire ; le scénario sans nouveau nucléaire est maintenu dans l'exercice.",
+      "pertinence": "Document du gestionnaire du réseau (2026).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Climat, nucléaire, justice sociale… le programme de l'union de la gauche et des écologistes dévoilé",
+      "organisme": "Reporterre",
+      "date_publication": "19 mai 2022",
+      "url": "https://reporterre.net/Climat-nucleaire-justice-sociale-le-programme-de-l-union-de-la-gauche-et-des-ecologistes",
+      "passage": "LFI et les écologistes veulent « planifier le passage à 100 % d'énergies renouvelables et la sortie du nucléaire » ; le PCF défend un mix associant renouvelables et nucléaire ; le PS veut optimiser la durée de vie des centrales ; le point reste non tranché et renvoyé au Parlement.",
+      "pertinence": "Média spécialisé dans l'écologie.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le scénario sans nucléaire est le plus coûteux et le plus risqué industriellement selon RTE.",
+    "Il augmente la dépendance aux importations d'électricité."
+  ],
+  "publics": {
+    "convaincus": "RTE, qui gère le réseau électrique, a étudié la sortie du nucléaire en 2050 : l'approvisionnement est garanti, mais ça coûterait plus cher. Et la gauche n'est pas d'accord sur le sujet : le PCF est pour le nucléaire. Parler de coupures de courant, c'est déformer le débat.",
+    "indecis": "Ton inquiétude sur le prix et les coupures est légitime. Selon RTE, une sortie du nucléaire en 2050 tiendrait l'approvisionnement mais coûterait plus cher et nous rendrait plus dépendants de nos voisins. À gauche, les avis sont partagés : c'est un vrai choix de société, pas une menace de black-out."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "democratie",
+      "solidarite"
+    ],
+    "mecanismes": "Un choix énergétique de long terme est réduit à une menace de coupures, ce qui ferme le débat.",
+    "consequences": "Les vraies questions, le coût, la sûreté, la dépendance et l’emploi, ne sont pas discutées.",
+    "democratie": "Le mix énergétique est un choix de société qui doit être débattu à partir des scénarios publics.",
+    "propositions": [
+      "Planifier la transition énergétique avec un service public de l’énergie.",
+      "Débattre démocratiquement de la place du nucléaire, à partir des scénarios de RTE."
+    ],
+    "defavorables": [
+      {
+        "fait": "Selon RTE, le scénario sans nucléaire est le plus coûteux et augmente la dépendance aux importations.",
+        "integration": "Le reconnaître, et assumer qu’il y a des désaccords à gauche sur le nucléaire."
+      }
+    ]
+  },
+  "concepts": [
+    "origine",
+    "penurie",
+    "gauche",
+    "ecologie"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "plus d offres d emploi que",
+    "trouvent personne",
+    "trouve personne",
+    "trouvent pas de candidats",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire"
+  ]
+}

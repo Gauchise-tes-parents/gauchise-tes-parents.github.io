@@ -1,0 +1,162 @@
+{
+  "id": "enfants-immigres-sentiment-francais",
+  "type": "idee_recue",
+  "affirmation": "Les enfants d'immigrés ne se sentent pas français.",
+  "volet": "immigration",
+  "sous_theme": "Intégration",
+  "rubriques": [],
+  "mots_cles": [
+    "enfants d immigres",
+    "descendants d immigres",
+    "deuxieme generation",
+    "se sentent pas francais",
+    "se sentir francais",
+    "sentiment d etre francais",
+    "rejettent la france",
+    "trajectoires et origines"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Selon l'enquête Trajectoires et Origines (Ined-Insee, 2019-2020), 94 % des descendants de deux parents immigrés et 98 % des enfants de couples mixtes se sentent français, contre 97 % des personnes sans ascendance migratoire, et 95 % des descendants d'immigrés se sentent « chez eux » en France. Le problème mis en évidence est l'inverse : 20 % d'entre eux ne se sentent pas vus comme français, jusqu'à 35-39 % pour les origines d'Afrique subsaharienne, et les discriminations déclarées persistent à la deuxième génération.",
+  "contexte": "L'idée d'une deuxième génération qui rejetterait la France est récurrente après des émeutes, des matchs de football ou des débats sur l'islam.",
+  "explication": "Un descendant d'immigré est une personne née en France d'au moins un parent immigré. L'enquête Trajectoires et Origines, réalisée auprès de plus de 27 000 personnes, mesure à la fois le sentiment d'appartenance et le regard que les autres portent sur elles.",
+  "faits": [
+    {
+      "fait": "Selon l'Ined, 94 % des descendants de deux parents immigrés et 98 % des descendants d'un couple mixte se sentent français, contre 97 % de la population sans ascendance migratoire et 71 % des immigrés eux-mêmes.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine, 18-59 ans",
+      "explication": "La quasi-totalité des enfants d'immigrés se sentent français.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "94 %"
+    },
+    {
+      "fait": "Selon l'Insee, 95 % des descendants d'immigrés se disent d'accord avec la phrase « Je me sens chez moi en France », contre 93 % des personnes sans ascendance migratoire.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine, 18-59 ans",
+      "explication": "Ils se sentent autant chez eux que les autres.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "95 %"
+    },
+    {
+      "fait": "Selon l'Insee, 20 % des descendants d'immigrés ne se sentent pas vus comme français ; c'est le cas de 29 à 30 % des descendants d'origine maghrébine et de 35 à 39 % de ceux d'Afrique sahélienne, guinéenne ou centrale.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine, 18-59 ans",
+      "explication": "Le problème est le regard des autres, pas leur attachement.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    },
+    {
+      "fait": "Selon l'Insee et l'Ined, 34 % des descendants d'immigrés d'origine non européenne déclarent avoir subi des discriminations sur cinq ans, et 29 % un « déni de la qualité de Français ».",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Les discriminations persistent à la deuxième génération.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "34 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : 94 % des enfants de deux parents immigrés se sentent français, presque autant que le reste de la population (97 %), selon l'enquête Trajectoires et Origines. Le problème, c'est que 20 % ne se sentent pas vus comme français.",
+    "moyen": "La grande enquête publique Trajectoires et Origines (Ined-Insee) a posé la question : 94 % des enfants de deux parents immigrés se sentent français, contre 97 % des personnes sans origine migratoire. Et 95 % se sentent « chez eux » en France.\n\nLe vrai problème est dans l'autre sens : 20 % d'entre eux ont l'impression qu'on ne les voit pas comme français, jusqu'à plus d'un tiers pour les origines africaines. Et un tiers des descendants d'origine non européenne déclarent avoir subi des discriminations.",
+    "detaille": "L'enquête Trajectoires et Origines 2, menée par l'Ined et l'Insee en 2019-2020 auprès de plus de 27 000 personnes de 18 à 59 ans, permet de répondre précisément. 94 % des descendants de deux parents immigrés et 98 % des descendants de couples mixtes se sentent français, contre 97 % des personnes sans ascendance migratoire. Chez les immigrés eux-mêmes, nés à l'étranger, la proportion est de 71 %. Par ailleurs, 95 % des descendants d'immigrés se sentent chez eux en France, un peu plus que la population majoritaire (93 %).\n\nCe que l'enquête révèle, c'est un décalage entre ce que ces personnes ressentent et le regard des autres : 20 % ne se sentent pas vus comme français, 29 à 30 % chez les descendants d'origine maghrébine et 35 à 39 % chez ceux d'Afrique sahélienne, guinéenne ou centrale. 34 % des descendants d'origine non européenne déclarent des discriminations sur cinq ans, et 29 % disent qu'on leur a nié leur qualité de Français.\n\nAutrement dit, l'immense majorité des enfants d'immigrés se sentent français ; c'est une partie de la société qui leur refuse cette identité. Répéter qu'ils « ne se sentent pas français » alimente précisément ce rejet.",
+    "empathie": "Je comprends que certaines images, des drapeaux étrangers après un match par exemple, donnent cette impression. Mais quand on pose la question à des dizaines de milliers de personnes, 94 % des enfants d'immigrés répondent qu'ils se sentent français."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils répondent ce qu'on attend d'eux.",
+      "reponse": "Les mêmes personnes déclarent aussi des discriminations et un sentiment de rejet : elles ne disent pas seulement ce qui plaît."
+    },
+    {
+      "objection": "Et ceux qui sifflent la Marseillaise ?",
+      "reponse": "Ils existent, mais ils ne représentent pas les 94 % qui se disent français dans une enquête de grande ampleur."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'enfants d'immigrés se disent français dans les enquêtes publiques ?",
+    "Comment te sentirais-tu si on te répétait que tu n'es pas vraiment d'ici ?"
+  ],
+  "limites": [
+    "Le chiffre de 94 % vient du dossier de presse de l'Ined (copie hébergée par un tiers) ; les pages de l'Ined n'ont pas pu être lues directement.",
+    "Les données datent de 2019-2020 et ne couvrent ni les outre-mer ni les plus de 59 ans."
+  ],
+  "sources": [
+    {
+      "titre": "Trajectoires et Origines 2 : diversité des populations et inégalités sociales en France — dossier de presse",
+      "organisme": "Ined (dir. Cris Beauchemin, Mathieu Ichou, Patrick Simon), copie hébergée par la Fondation Lilian Thuram",
+      "date_publication": "19 mai 2026",
+      "url": "https://www.thuram.org/wp-content/uploads/2026/06/Trajectoires-et-origines-2.DP_.pdf",
+      "passage": "Enquête auprès de plus de 27 000 personnes de 18 à 59 ans. Se sentent français : 71 % des immigrés, 94 % des descendants de deux parents immigrés, 98 % des descendants d'un couple mixte et 97 % de la population sans ascendance migratoire.",
+      "pertinence": "Dossier de presse de l'institut public de recherche (copie d'un tiers, contenu de l'Ined).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Ressentis par rapport à la migration et sentiment d'intégration (Immigrés et descendants d'immigrés en France, édition 2023, fiche 6.6)",
+      "organisme": "Insee (enquête Trajectoires et Origines 2, Ined-Insee, 2019-2020)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/6793304/IMMFRA23-F41.pdf",
+      "passage": "France métropolitaine, 18-59 ans : « Je me sens chez moi en France » : d'accord pour 95 % des descendants d'immigrés (76 % tout à fait d'accord), 92 % des immigrés et 93 % des personnes sans ascendance migratoire. « On me voit comme un Français » : 20 % des descendants ne sont pas d'accord, 29 à 30 % pour les origines maghrébines et 35 à 39 % pour l'Afrique sahélienne, guinéenne ou centrale, contre 3 % pour l'UE à 27.",
+      "pertinence": "Statistique publique de référence (données 2019-2020).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le sentiment de discrimination persiste à la deuxième génération (France, portrait social, édition 2024)",
+      "organisme": "Insee et Ined (Odile Rouhban, Pierre Tanneau, Patrick Simon)",
+      "date_publication": "21 novembre 2024",
+      "url": "https://www.insee.fr/fr/statistiques/8242403",
+      "passage": "Traitements inégalitaires ou discriminations déclarés sur cinq ans : 24 % des immigrés et 25 % des descendants d'immigrés ; 34 % des descendants d'origine non européenne (35 % pour le Maghreb, 40 % pour les autres pays d'Afrique) ; 29 % des descendants d'origine non européenne déclarent un « déni de la qualité de Français », contre 8 % des descendants d'origine européenne.",
+      "pertinence": "Statistique publique de référence (données 2019-2020).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les immigrés eux-mêmes (nés à l'étranger) sont moins nombreux à se sentir français (71 %).",
+    "Les données datent de 2019-2020 et portent sur les 18-59 ans de métropole."
+  ],
+  "publics": {
+    "convaincus": "Une enquête publique auprès de 27 000 personnes a posé la question : 94 % des enfants d'immigrés se sentent français, presque autant que les autres. Ce qui les blesse, c'est qu'un sur cinq a l'impression qu'on ne les voit pas comme français. Leur répéter qu'ils ne le sont pas, c'est créer le problème qu'on dénonce.",
+    "indecis": "C'est une question légitime, et les chiffres sont rassurants : l'immense majorité des enfants d'immigrés se sentent français et chez eux en France. En revanche, beaucoup se sentent rejetés ou discriminés, surtout ceux d'origine africaine. L'intégration se joue aussi dans le regard des autres."
+  },
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "antiracisme",
+      "egalite"
+    ],
+    "mecanismes": "Répéter que les enfants d’immigrés ne se sentent pas français nourrit le rejet qu’ils subissent.",
+    "consequences": "Les discriminations persistent à la deuxième génération, dans l’emploi, le logement et les contrôles.",
+    "democratie": "La République promet l’égalité à tous ses citoyens, quelle que soit leur origine.",
+    "propositions": [
+      "Lutter contre les discriminations par des contrôles et des sanctions effectives.",
+      "Reconnaître pleinement les Français issus de l’immigration comme des citoyens à part entière."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les immigrés eux-mêmes sont moins nombreux à se sentir français que leurs enfants.",
+        "integration": "Le dire : l’attachement se construit avec le temps et l’égalité de traitement."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos"
+  ]
+}

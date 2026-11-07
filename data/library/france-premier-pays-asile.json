@@ -164,11 +164,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "europe",
-    "asile"
-  ],
   "repond_a": [
     {
       "id": "asile_classement",
@@ -186,5 +181,10 @@
     "bruxelles",
     "union europeenne",
     "droit d asile"
+  ],
+  "concepts": [
+    "immigration",
+    "europe",
+    "asile"
   ]
 }

@@ -1,0 +1,180 @@
+{
+  "id": "emeutes-2023-etrangers",
+  "type": "idee_recue",
+  "affirmation": "Les émeutes de 2023 ont été commises par des étrangers.",
+  "volet": "securite",
+  "sous_theme": "Violences",
+  "rubriques": [],
+  "mots_cles": [
+    "emeutes",
+    "emeutes de 2023",
+    "emeutiers",
+    "violences urbaines",
+    "nahel",
+    "emeutes nahel",
+    "banlieues en feu",
+    "emeutiers etrangers"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "Non : selon le rapport des inspections de la justice et de l'administration, 79 % des personnes mises en cause lors des violences urbaines de juin-juillet 2023 étaient de nationalité française et 75 % étaient nées en France. Le profil type est un jeune homme français d'environ 23 ans, sans antécédent judiciaire dans 57 % des cas, et près de trois mis en cause sur dix étaient mineurs. Les étrangers restent surreprésentés par rapport à leur part dans la population, mais très minoritaires.",
+  "contexte": "Après la mort de Nahel, fin juin 2023, des violences ont touché de nombreuses villes du 27 juin au 7 juillet ; elles ont été attribuées à l'immigration par une partie de la classe politique.",
+  "explication": "Les inspections ont étudié les personnes interpellées et condamnées. La nationalité dit si une personne est française ou étrangère ; elle ne dit rien de l'origine de ses parents, que les statistiques judiciaires ne mesurent pas.",
+  "faits": [
+    {
+      "fait": "Selon le rapport IGJ-IGA, 79 % des mis en cause sont de nationalité française et 75 % sont nés en France ; sur un échantillon de 395 condamnés, 78 % sont français.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les émeutiers sont très majoritairement français.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "79 %"
+    },
+    {
+      "fait": "Selon le même rapport, 57 % des condamnés n'avaient aucun antécédent judiciaire, l'âge moyen des hommes est de 23 ans et les mineurs représentent 28 % des mis en cause.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Beaucoup de très jeunes primo-délinquants.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "57 %"
+    },
+    {
+      "fait": "Selon la commission d'enquête du Sénat, 71 % des émeutiers sont de nationalité française et 91 % sont des hommes ; elle juge les données disponibles « fort insuffisantes ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les chiffres varient selon les sources, mais la conclusion est la même.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "71 %"
+    },
+    {
+      "fait": "Selon l'Insee, les étrangers représentent 9,1 % de la population en 2025.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Avec environ 21 % de mis en cause étrangers, ils sont surreprésentés, mais restent très minoritaires (comparaison indicative, années différentes).",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "9,1 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : 79 % des personnes mises en cause en 2023 étaient françaises et 75 % nées en France, selon les inspections de l'État. Le profil type : un jeune Français de 23 ans, sans antécédent dans 57 % des cas.",
+    "moyen": "Les inspections de la justice et de l'administration ont étudié les personnes interpellées pendant les violences de l'été 2023 : 79 % étaient françaises et 75 % nées en France. Le profil type est un jeune homme de 23 ans, souvent sans casier, et près de trois sur dix étaient mineurs.\n\nLes étrangers, environ 21 % des mis en cause, sont surreprésentés par rapport à leur part dans la population (9 %), mais ils sont loin d'être majoritaires. Ces émeutes sont d'abord celles de jeunes Français de quartiers populaires.",
+    "detaille": "Après la mort de Nahel, fin juin 2023, des violences ont éclaté dans de nombreuses villes. L'Inspection générale de la justice et l'Inspection générale de l'administration ont analysé le profil des personnes interpellées. Selon leurs chiffres, 79 % des mis en cause étaient de nationalité française et 75 % étaient nés en France ; sur 395 condamnés étudiés, 78 % étaient français. L'âge moyen des hommes était de 23 ans, 57 % des condamnés n'avaient aucun antécédent, et les mineurs représentaient 28 % des mis en cause.\n\nLa commission d'enquête du Sénat arrive à une conclusion proche (71 % de Français), tout en jugant les données « fort insuffisantes ». Les inspecteurs parlent d'une « photographie à l'instant T ».\n\nLes étrangers, environ un mis en cause sur cinq, sont surreprésentés par rapport à leur part dans la population (9,1 % en 2025). Mais attribuer ces émeutes à l'immigration ne tient pas : ce sont surtout de jeunes Français, souvent des primo-délinquants. Comprendre ces violences suppose de regarder la relation avec la police, l'échec scolaire et la relégation de certains quartiers.",
+    "empathie": "Je comprends la colère devant des voitures brûlées et des commerces pillés : ces violences ont fait de vraies victimes. Mais les chiffres de l'État montrent que les émeutiers étaient surtout de jeunes Français, nés ici : chercher la cause dans l'immigration, c'est passer à côté du problème."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils sont français sur le papier.",
+      "reponse": "Ils sont français, nés en France pour 75 % d'entre eux : c'est une réalité juridique, et leurs problèmes se sont formés ici."
+    },
+    {
+      "objection": "Les chiffres ne portent que sur ceux qui ont été arrêtés.",
+      "reponse": "C'est vrai, et le Sénat juge les données insuffisantes ; mais aucune source ne montre une majorité d'étrangers."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle part des émeutiers étaient nés en France ?",
+    "Qu'est-ce qui, selon toi, pousse des adolescents sans casier à participer à des émeutes ?"
+  ],
+  "limites": [
+    "Les données portent sur les personnes interpellées et poursuivies, pas sur l'ensemble des participants.",
+    "La nationalité des mineurs, étudiée en annexe du rapport, n'a pas été lue.",
+    "La comparaison avec la part des étrangers dans la population est indicative (années et champs différents)."
+  ],
+  "sources": [
+    {
+      "titre": "Analyse des profils et motivations des délinquants interpellés lors des violences urbaines du 27 juin au 7 juillet 2023 (rapport définitif)",
+      "organisme": "Inspection générale de la justice et Inspection générale de l'administration",
+      "date_publication": "Août 2023",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/291024.pdf",
+      "passage": "Selon le SSMSI, 79 % des mis en cause sont de nationalité française ; 75 % sont nés en France. Sur un échantillon de 395 condamnés, 78 % sont français ; âge moyen 23 ans pour les hommes ; 226 condamnés sur 395 (57 %) n'ont aucun antécédent judiciaire. Les mineurs représentent 28 % des mis en cause enregistrés par les parquets au 31 juillet 2023.",
+      "pertinence": "Rapport d'inspections de l'État.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Violences urbaines de juin 2023 : moins de 8 % des condamnés font référence à la mort de Nahel pour justifier leur comportement",
+      "organisme": "Public Sénat (Romain David)",
+      "date_publication": "26 octobre 2023",
+      "url": "https://www.publicsenat.fr/actualites/societe/violences-urbaines-de-juin-2023-moins-de-8-des-condamnes-font-reference-a-la-mort-de-nawel-pour-justifier-leur-comportement",
+      "passage": "Audition des inspecteurs devant la commission des lois du Sénat : profil type d'un « homme de nationalité française », né en France dans 75 % des cas, d'environ 23 ans ; un peu moins d'un tiers des quelque 4 000 auteurs sont mineurs ; 57 % sans antécédent ; les inspecteurs parlent d'une « photographie à l'instant T ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Violences urbaines : quel est le profil des émeutiers ?",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "11 avril 2024",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/violences-urbaines-quel-est-le-profil-des-emeutiers",
+      "passage": "Selon le rapport de la commission d'enquête du Sénat, 71 % des émeutiers sont de nationalité française, 91 % sont des hommes, âge moyen 23 ans, près de 60 % sont primo-délinquants ; le rapport juge que « les données disponibles demeurent fort insuffisantes ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Population immigrée et étrangère en France — données annuelles de 1921 à 2025",
+      "organisme": "Insee",
+      "date_publication": "4 juin 2026",
+      "url": "https://www.insee.fr/fr/statistiques/2381757",
+      "passage": "En 2025 (données provisoires) : 7 970 000 immigrés, soit 11,6 % de la population, et 6 297 000 étrangers, soit 9,1 %, sur 68 852 000 habitants. En 2014 : 6 028 000 immigrés (9,1 %) et 4 289 000 étrangers (6,5 %).",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les étrangers sont surreprésentés parmi les mis en cause par rapport à leur part dans la population.",
+    "Les statistiques ne mesurent pas l'origine des parents des personnes françaises."
+  ],
+  "publics": {
+    "convaincus": "Ce sont les chiffres de l'État, pas d'une association : 79 % des émeutiers étaient français, 75 % nés en France. Les étrangers sont un peu surreprésentés, mais ce sont surtout de jeunes Français de 23 ans, sans casier. Expulser des étrangers n'aurait pas empêché ces émeutes.",
+    "indecis": "Ces violences ont choqué, et c'est normal de chercher à comprendre. Les inspections montrent un profil clair : des jeunes hommes, surtout français et nés en France, souvent sans antécédent. Les étrangers sont un peu surreprésentés, mais les causes sont à chercher dans les quartiers eux-mêmes."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "antiracisme",
+      "democratie"
+    ],
+    "mecanismes": "Attribuer les émeutes à l’immigration évite de parler des causes sociales et des relations avec la police.",
+    "consequences": "Les habitants des quartiers populaires, eux-mêmes victimes des destructions, sont stigmatisés.",
+    "democratie": "Comprendre les violences suppose des données fiables et une parole publique exacte.",
+    "propositions": [
+      "Investir dans les services publics, l’école et l’emploi des quartiers populaires.",
+      "Refonder les relations entre la police et la population."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les étrangers sont surreprésentés parmi les mis en cause par rapport à leur part dans la population.",
+        "integration": "Le dire, et rappeler qu’ils restent très minoritaires."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "delinquance"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite"
+  ]
+}

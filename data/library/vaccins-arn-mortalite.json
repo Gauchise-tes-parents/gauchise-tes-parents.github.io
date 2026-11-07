@@ -177,10 +177,6 @@
       }
     ]
   },
-  "concepts": [
-    "desinformation",
-    "vaccin"
-  ],
   "repond_a": [
     {
       "id": "vaccin",
@@ -196,5 +192,9 @@
     "arnm",
     "pfizer",
     "moderna"
+  ],
+  "concepts": [
+    "desinformation",
+    "vaccin"
   ]
 }

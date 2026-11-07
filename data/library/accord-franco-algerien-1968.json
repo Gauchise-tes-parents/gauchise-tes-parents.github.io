@@ -153,11 +153,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "accord_1968",
-    "algerie"
-  ],
   "repond_a": [
     {
       "id": "accord_1968",
@@ -172,5 +167,10 @@
     "arrivent encore",
     "qui debarquent",
     "ils prennent nos"
+  ],
+  "concepts": [
+    "immigration",
+    "accord_1968",
+    "algerie"
   ]
 }

@@ -1,0 +1,211 @@
+{
+  "id": "fonctionnaires-salaires-prive",
+  "type": "idee_recue",
+  "affirmation": "Les fonctionnaires sont mieux payés que les salariés du privé.",
+  "volet": "services",
+  "sous_theme": "Fonction publique",
+  "rubriques": [],
+  "mots_cles": [
+    "fonctionnaires mieux payes",
+    "salaire des fonctionnaires",
+    "fonctionnaires gagnent plus",
+    "salaire public prive",
+    "fonctionnaires privilegies",
+    "paie des fonctionnaires",
+    "salaires fonction publique"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "En moyenne, les salaires sont presque identiques : en 2024, 2 742 € nets par mois en équivalent temps plein dans la fonction publique, contre 2 733 € dans le privé. Mais la fonction publique emploie beaucoup plus de diplômés : à volume de travail égal, son salaire moyen est inférieur de 3,7 % à celui du privé (données 2021). Et les écarts internes sont énormes : 2 317 € dans la territoriale, 2 623 € pour les soignants hospitaliers, 3 018 € dans la fonction publique de l'État.",
+  "contexte": "L'idée de fonctionnaires privilégiés revient à chaque débat budgétaire, avec les propositions de supprimer des postes ou de geler le point d'indice.",
+  "explication": "Comparer deux moyennes ne suffit pas : si un secteur emploie plus de cadres et de diplômés, sa moyenne est mécaniquement plus haute. L'Insee compare donc aussi les salaires à structure de diplômes et à volume de travail comparables.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, un salarié du privé gagne en moyenne 2 733 € nets par mois en équivalent temps plein en 2024 ; la moyenne de la fonction publique est de 2 742 €.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les moyennes sont presque identiques.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2 733 €"
+    },
+    {
+      "fait": "Selon l'Insee, à volume annuel de travail égal, le salaire net moyen de la fonction publique est inférieur de 3,7 % à celui du privé en 2021 (29 450 € contre 30 600 € par an), l'écart tenant notamment à la structure des diplômes.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "À diplômes équivalents, la fonction publique paie plutôt moins.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "−3,7 %"
+    },
+    {
+      "fait": "Selon l'Insee, un agent territorial gagne en moyenne 2 317 € nets par mois en équivalent temps plein, et 72 % des fonctionnaires territoriaux sont en catégorie C.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La majorité des agents des collectivités est nettement sous la moyenne du privé.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "2 317 €"
+    },
+    {
+      "fait": "Selon l'Insee et la DREES, les personnels des services de soins de la fonction publique hospitalière (infirmiers, aides-soignants, agents de service) gagnent en moyenne 2 623 € nets par mois.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les soignants ne sont pas des privilégiés.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "2 623 €"
+    },
+    {
+      "fait": "Selon l'Insee, le revenu salarial annuel moyen est supérieur de 9,3 % dans le public en 2021, parce que le volume de travail y est plus élevé de 13,5 %.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Sur l'année, un agent public touche en moyenne plus, parce qu'il travaille plus souvent toute l'année.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+9,3 %"
+    },
+    {
+      "fait": "Selon l'Insee, la fonction publique de l'État paie 3 018 € nets par mois en moyenne en 2024, avec 48 % d'agents de catégorie A.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les fonctionnaires d'État gagnent en moyenne plus, parce qu'ils sont plus qualifiés.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "3 018 €"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : en moyenne, salaires publics (2 742 €) et privés (2 733 €) sont presque égaux en 2024. À diplôme et temps de travail comparables, le public paie 3,7 % de moins (2021), et les agents territoriaux gagnent 2 317 € en moyenne.",
+    "moyen": "En 2024, un salarié du privé gagne en moyenne 2 733 € nets par mois en équivalent temps plein, un agent public 2 742 € : c'est presque pareil. Mais la fonction publique compte beaucoup plus de diplômés, comme les enseignants. À volume de travail égal, l'Insee trouve même un salaire public inférieur de 3,7 %.\n\nEt il y a fonctionnaire et fonctionnaire : un agent territorial gagne 2 317 € en moyenne, un soignant hospitalier 2 623 €. L'avantage réel du public, c'est la stabilité de l'emploi, pas la paie.",
+    "detaille": "Selon l'Insee, en 2024, le salaire net moyen en équivalent temps plein est de 2 733 € par mois dans le secteur privé et de 2 742 € dans l'ensemble de la fonction publique. Mais la moyenne cache des réalités très différentes : 3 018 € dans la fonction publique de l'État, où 48 % des agents sont de catégorie A (dont les enseignants, à 3 188 €), 2 317 € dans la territoriale, où 72 % des fonctionnaires sont en catégorie C, et 2 623 € pour les personnels soignants des hôpitaux.\n\nPour comparer à situation égale, l'Insee tient compte du volume de travail et de la structure des diplômes. En 2021, à volume annuel de travail égal, le salaire net moyen du public était inférieur de 3,7 % à celui du privé. En revanche, le revenu salarial annuel moyen était supérieur de 9,3 % dans le public, parce que leur volume de travail annuel est plus élevé (+13,5 %).\n\nLes fonctionnaires ne sont donc pas « mieux payés » à qualification égale : ce qui les distingue, c'est surtout la stabilité de l'emploi. C'est un argument pour améliorer les conditions de travail dans le privé, pas pour baisser les salaires des infirmières ou des agents municipaux.",
+    "empathie": "Je comprends que la sécurité de l'emploi des fonctionnaires puisse paraître injuste quand on est soi-même précaire. Mais sur les salaires, les chiffres de l'Insee sont clairs : à diplôme égal, le public ne paie pas mieux, et les agents des mairies ou des hôpitaux gagnent souvent moins que la moyenne du privé."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les fonctionnaires ont la sécurité de l'emploi en plus.",
+      "reponse": "C'est un avantage réel, que les sources lues ne chiffrent pas ; mais il ne se traduit pas par des salaires plus élevés à diplôme égal."
+    },
+    {
+      "objection": "Les hauts fonctionnaires gagnent des fortunes.",
+      "reponse": "Ils existent, mais la majorité des agents territoriaux sont en catégorie C, à 2 317 € de moyenne."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien gagne en moyenne un agent de mairie, par rapport à un salarié du privé ?",
+    "À ton avis, pourquoi les hôpitaux ont-ils du mal à recruter des infirmières ?"
+  ],
+  "limites": [
+    "La comparaison à volume de travail égal date de 2021.",
+    "Les pensions de retraite et la sécurité de l'emploi ne sont pas prises en compte dans la comparaison."
+  ],
+  "sources": [
+    {
+      "titre": "À volume annuel de travail égal, le salaire net moyen de la fonction publique est inférieur de 3,7 % à celui du secteur privé (Insee Première n° 2043)",
+      "organisme": "Insee (Fanny Godet, Tung Anh Tran)",
+      "date_publication": "20 mars 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8386049",
+      "passage": "Données 2021 : salaire net annuel en équivalent temps plein de 29 450 € dans le public contre 30 600 € dans le privé (−3,7 %) ; revenu salarial annuel moyen de 24 070 € contre 22 040 € (+9,3 % pour le public), en raison d'un volume de travail supérieur de 13,5 % ; les écarts tiennent à la structure de l'emploi par diplôme et à des modes de fixation des salaires différents.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les salaires dans le secteur privé en 2024 (Insee Première n° 2079)",
+      "organisme": "Insee (Tom Duquesne, Ndeye Penda Sokhna)",
+      "date_publication": "23 octobre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8657156",
+      "passage": "Un salarié du secteur privé gagne en moyenne 2 733 € nets par mois en équivalent temps plein ; salaire médian 2 190 € ; cadres 4 629 €, ouvriers 2 051 €, employés 1 941 €.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les salaires dans la fonction publique de l'État en 2024 (Insee Première n° 2100)",
+      "organisme": "Insee et DGAFP (Lino Galiana, Gaëlle Gateaud)",
+      "date_publication": "6 mai 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8986474",
+      "passage": "Fonction publique de l'État : 3 018 € nets par mois en équivalent temps plein ; enseignants 3 188 € ; la catégorie A représente 48 % des effectifs ; salaires moyens : catégorie A 3 543 €, B 2 837 €, C 2 266 €.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les salaires dans la fonction publique territoriale en 2024 (Insee Première n° 2101)",
+      "organisme": "Insee et DGCL (Téo Moreau, Julien Desclodure)",
+      "date_publication": "6 mai 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8984823",
+      "passage": "Un agent territorial perçoit en moyenne 2 317 € nets par mois en équivalent temps plein ; ensemble de la fonction publique : 2 742 € ; 72 % des fonctionnaires territoriaux sont en catégorie C.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les salaires dans la fonction publique hospitalière en 2024 (Insee Première n° 2102)",
+      "organisme": "Insee et DREES (Léna Esbelin, Christophe Dixte)",
+      "date_publication": "6 mai 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8986438",
+      "passage": "Personnels médicaux : 6 926 € nets par mois en équivalent temps plein ; personnels des services de soins (infirmiers, aides-soignants, agents de service) : 2 623 €.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le revenu salarial annuel moyen est plus élevé dans le public, grâce à un volume de travail annuel plus élevé.",
+    "Les agents de la fonction publique de l'État gagnent en moyenne plus que la moyenne du privé, en raison de leur niveau de qualification."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres de l'Insee sont clairs : 2 742 € en moyenne dans le public, 2 733 € dans le privé, c'est presque pareil, alors que le public emploie bien plus de diplômés. À travail égal, le public paie même un peu moins. L'aide-soignante ou l'agent de mairie ne sont pas des privilégiés.",
+    "indecis": "La sécurité de l'emploi est un vrai avantage du public, c'est compréhensible que ça fasse envie. Mais côté salaire, la moyenne est la même que dans le privé, et à diplôme égal, le public paie un peu moins. Les agents territoriaux et les soignants gagnent souvent moins que la moyenne."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "travailleurs"
+    ],
+    "mecanismes": "Opposer salariés du public et du privé divise les travailleurs et prépare le gel des salaires publics.",
+    "consequences": "Les métiers peu payés du public, soignants et agents territoriaux, peinent à recruter.",
+    "democratie": "La qualité des services publics dépend de l’attractivité de ces métiers.",
+    "propositions": [
+      "Revaloriser les salaires des agents publics les moins payés.",
+      "Améliorer les salaires et la stabilité de l’emploi dans le privé."
+    ],
+    "defavorables": [
+      {
+        "fait": "Sur l’année, le revenu salarial moyen est plus élevé dans le public, et les agents de l’État gagnent plus que la moyenne du privé.",
+        "integration": "Le dire, et rappeler l’effet des diplômes et du temps de travail."
+      }
+    ]
+  },
+  "concepts": [
+    "salaires",
+    "services_publics",
+    "fonctionnaires"
+  ],
+  "repond_a": [
+    {
+      "id": "fonctionnaires_salaires",
+      "label": "Salaires des fonctionnaires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "urgences",
+    "fonction publique",
+    "agents publics"
+  ]
+}

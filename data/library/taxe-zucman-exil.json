@@ -186,11 +186,6 @@
       }
     ]
   },
-  "concepts": [
-    "fiscalite",
-    "riches_entreprises",
-    "zucman"
-  ],
   "repond_a": [
     {
       "id": "zucman",
@@ -208,5 +203,10 @@
     "creent l emploi",
     "zucman",
     "impot plancher"
+  ],
+  "concepts": [
+    "fiscalite",
+    "riches_entreprises",
+    "zucman"
   ]
 }

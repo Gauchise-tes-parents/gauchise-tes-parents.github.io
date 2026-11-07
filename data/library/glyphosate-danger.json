@@ -161,12 +161,6 @@
       }
     ]
   },
-  "concepts": [
-    "gauche",
-    "dangerosite",
-    "ecologie",
-    "glyphosate"
-  ],
   "repond_a": [
     {
       "id": "glyphosate",
@@ -187,5 +181,11 @@
     "cingle",
     "agressif",
     "agressive"
+  ],
+  "concepts": [
+    "gauche",
+    "dangerosite",
+    "ecologie",
+    "glyphosate"
   ]
 }

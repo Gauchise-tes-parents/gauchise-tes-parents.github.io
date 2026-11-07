@@ -152,11 +152,6 @@
       }
     ]
   },
-  "concepts": [
-    "russie",
-    "ukraine",
-    "nazisme"
-  ],
   "repond_a": [
     {
       "id": "ukraine_nazis",
@@ -171,5 +166,10 @@
     "kiev",
     "kyiv",
     "azov"
+  ],
+  "concepts": [
+    "russie",
+    "ukraine",
+    "nazisme"
   ]
 }

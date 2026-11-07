@@ -1,0 +1,182 @@
+{
+  "id": "radars-pompe-a-fric",
+  "type": "idee_recue",
+  "affirmation": "Les radars sont une pompe à fric pour l'État.",
+  "volet": "securite",
+  "sous_theme": "Prévention et politiques publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "radars",
+    "radar",
+    "pompe a fric",
+    "amendes radar",
+    "flash",
+    "controle automatise",
+    "limitation de vitesse",
+    "amendes routieres",
+    "securite routiere"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "En partie : en 2024, les amendes de la circulation ont rapporté 2,07 milliards d'euros, dont 658 millions pour les seuls radars, et environ 715 millions sont allés au désendettement de l'État, ce que la Cour des comptes et le Sénat critiquent. Mais environ 736 millions vont aux collectivités, et les évaluations officielles attribuent aux radars 75 % de la baisse de la mortalité routière entre 2003 et 2010 : de 5 737 morts en 2003 à 3 268 dix ans plus tard.",
+  "contexte": "Les radars sont l'un des symboles de la défiance envers l'État.",
+  "explication": "Les amendes alimentent un compte spécial du budget de l'État, réparti entre le financement des radars et de la sécurité routière, les collectivités (voirie, transports) et le remboursement de la dette. Cette répartition est un choix budgétaire, distinct de l'efficacité des radars sur la sécurité.",
+  "faits": [
+    {
+      "fait": "Selon la Cour des comptes, les amendes de la circulation et du stationnement ont rapporté 2 070 M€ en 2024, dont 658 M€ d'amendes radars non majorées.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les radars ne représentent qu'environ un tiers des amendes.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "658 M€"
+    },
+    {
+      "fait": "En 2024, 715,1 M€ ont été affectés au désendettement de l'État, 735,7 M€ aux collectivités et 341,2 M€ aux radars et à la sécurité routière ; la Cour juge que seuls 62 % des crédits servent la sécurité routière.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La critique d'une recette qui finance la dette est fondée.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "715 M€"
+    },
+    {
+      "fait": "Selon le Sénat, pour 2025, 38,9 % du compte vont au désendettement et au moins 35,1 % des crédits n'ont aucun lien avec la sécurité ou les infrastructures routières.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le Parlement lui-même pointe ce problème.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "38,9 %"
+    },
+    {
+      "fait": "Selon le ministère de l'Intérieur, la mortalité routière est passée de 5 737 morts en 2003 à 3 268 dix ans plus tard ; une évaluation de 2013 attribue 75 % de la baisse entre 2003 et 2010 au contrôle automatisé.",
+      "periode": "2003-2021",
+      "perimetre": "France",
+      "explication": "Les radars sauvent des vies.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "75 %"
+    },
+    {
+      "fait": "Le Sénat (2017) reconnaît aux radars « un véritable impact, très positif » sur la mortalité, mais attribue une partie de la baisse aux véhicules et à la prévention.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "L'effet est réel, même s'il n'explique pas tout.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "En partie : environ 39 % du produit des amendes routières va au désendettement de l'État, ce que critique la Cour des comptes. Mais les radars ont contribué à 75 % de la baisse de la mortalité de 2003 à 2010.",
+    "moyen": "Les amendes routières rapportent environ 2 milliards par an, dont 658 millions pour les radars en 2024. La Cour des comptes et le Sénat critiquent le fait qu'une grosse part, environ 715 millions, serve à rembourser la dette de l'État plutôt que la sécurité routière.\n\nMais les radars fonctionnent : les morts sur la route sont passés de 5 737 en 2003 à 3 268 dix ans plus tard, et une évaluation officielle attribue 75 % de la baisse entre 2003 et 2010 au contrôle automatisé.",
+    "detaille": "En 2024, les amendes de la circulation et du stationnement ont rapporté 2 070 millions d'euros, dont 658 millions d'amendes radars non majorées. Le compte spécial qui les reçoit finance le contrôle automatisé et la sécurité routière (341 millions), les collectivités pour la voirie et les transports (736 millions) et le désendettement de l'État (715 millions). La Cour des comptes juge que seuls 62 % des crédits servent la sécurité routière et recommande de supprimer ce compte ; le Sénat estime qu'au moins 35 % des crédits n'ont aucun lien avec la route.\n\nCette critique budgétaire est fondée. Mais elle ne dit rien de l'efficacité des radars. Selon le ministère de l'Intérieur, la mortalité routière est passée de 5 737 morts en 2003 à 3 268 dix ans plus tard ; une évaluation de 2013 attribue 75 % de la baisse 2003-2010 au contrôle automatisé, et l'Inspection générale de l'administration juge son efficacité « avérée ». Le Sénat note que d'autres facteurs ont joué (véhicules plus sûrs, prévention).\n\nOn peut donc défendre les radars et demander que tout l'argent des amendes serve à la sécurité routière et aux transports du quotidien, plutôt qu'au remboursement de la dette.",
+    "empathie": "Je comprends l'agacement quand on se fait flasher à quelques kilomètres-heure près, et c'est vrai qu'une partie de l'argent sert à rembourser la dette. Mais les radars ont fortement contribué à la baisse des morts sur la route depuis 2003 : le problème, c'est l'usage de l'argent, pas leur existence."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les radars sont placés là où ils rapportent, pas là où c'est dangereux.",
+      "reponse": "Le Sénat a jugé non concluante la corrélation entre accidents et nombre de radars par département ; ce point mérite d'être débattu."
+    },
+    {
+      "objection": "La baisse des morts vient des voitures plus sûres.",
+      "reponse": "Elle y contribue, mais l'évaluation officielle attribue l'essentiel de la baisse 2003-2010 aux radars."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de morts il y avait sur les routes avant les radars automatiques ?",
+    "Serais-tu d'accord pour que tout l'argent des amendes aille à la sécurité routière ?"
+  ],
+  "limites": [
+    "L'évaluation de l'effet des radars date de 2013 ; la mortalité récente (2024-2025) n'a pas été vérifiée.",
+    "Les données de l'ONISR n'ont pas été lues directement : elles sont reprises par une réponse ministérielle."
+  ],
+  "sources": [
+    {
+      "titre": "Analyse de l'exécution budgétaire 2024 — compte d'affectation spéciale « Contrôle de la circulation et du stationnement routiers »",
+      "organisme": "Cour des comptes",
+      "date_publication": "Avril 2025",
+      "url": "https://www.ccomptes.fr/sites/default/files/2025-04/NEB-2024-Controle-circulation-et-stationnement-routiers.pdf",
+      "passage": "Amendes de la circulation et du stationnement : 2 070 M€ en 2024, dont 658 M€ d'amendes radars non majorées (−14 % par rapport à la prévision). Dépenses : programme 751 (radars et sécurité routière) 341,2 M€ ; programme 754 (collectivités) 735,7 M€ ; programme 755 (désendettement de l'État) 715,1 M€. Seulement 62 % des crédits servent la sécurité routière ; le programme 755 n'a aucun lien avec elle ; la Cour recommande de supprimer le compte.",
+      "pertinence": "Juridiction financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport général n° 144 (2024-2025), mission « Sécurités » — compte « Contrôle de la circulation »",
+      "organisme": "Sénat, commission des finances (Bruno Belin)",
+      "date_publication": "21 novembre 2024",
+      "url": "https://www.senat.fr/rap/l24-144-329-1/l24-144-329-115.html",
+      "passage": "Projet de loi de finances pour 2025 : 2,193 Md€ de recettes d'amendes attendues ; 725 M€ affectés au désendettement, soit 38,9 % du compte ; au moins 770 M€ (35,1 %) n'ont aucun lien avec la sécurité ou les infrastructures routières ; architecture jugée « trop complexe ».",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 3437 et réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale / ministère de l'Intérieur",
+      "date_publication": "21 mars 2023",
+      "url": "https://questions.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE3437.pdf",
+      "passage": "5 737 morts sur les routes en 2003, 3 268 dix ans plus tard, 3 219 en 2021 ; une évaluation de 2013 attribue 75 % de la baisse de la mortalité entre 2003 et 2010 au contrôle automatisé ; selon l'Inspection générale de l'administration, « le contrôle sanction automatisé des vitesses a une efficacité avérée » ; « la vitesse est donc le facteur d'accident principal ».",
+      "pertinence": "Réponse officielle du ministère compétent.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information n° 644 (2016-2017) sur la politique d'implantation des radars",
+      "organisme": "Sénat (Vincent Delahaye)",
+      "date_publication": "18 juillet 2017",
+      "url": "https://www.senat.fr/rap/r16-644/r16-64410.html",
+      "passage": "Le rapport reconnaît aux radars « un véritable impact, très positif, sur l'accidentologie et sur la mortalité routière », mais attribue une partie de la baisse aux véhicules et à la prévention, et juge non concluante la corrélation entre le taux d'accident par département et le nombre d'équipements.",
+      "pertinence": "Rapport parlementaire (2017).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Environ 39 % du compte des amendes finance le désendettement de l'État, sans lien avec la route.",
+    "La mortalité routière stagne depuis le début des années 2010."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : près de 40 % de l'argent des amendes sert à rembourser la dette, et la Cour des comptes le critique. Mais les radars ont fait passer les morts sur la route de 5 737 en 2003 à 3 268 dix ans plus tard. Exige que l'argent serve aux routes, mais ne jette pas les radars.",
+    "indecis": "Les radars rapportent de l'argent, et une partie finance la dette de l'État, ce qui est contestable. Mais leur effet sur la sécurité est établi : ils expliquent l'essentiel de la baisse des morts entre 2003 et 2010. On peut défendre les radars et une meilleure utilisation des amendes."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "services_publics"
+    ],
+    "mecanismes": "La critique légitime de l’usage des amendes sert à contester une politique qui sauve des vies.",
+    "consequences": "Moins de contrôles signifierait plus de morts et de blessés, souvent parmi les plus jeunes et les plus exposés.",
+    "democratie": "L’usage de l’argent public doit être transparent et lié à son objet.",
+    "propositions": [
+      "Affecter tout le produit des amendes à la sécurité routière et aux transports du quotidien.",
+      "Développer les transports collectifs pour réduire la dépendance à la voiture."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une part importante du produit des amendes finance le désendettement de l’État, ce que critique la Cour des comptes.",
+        "integration": "Donner raison sur ce point, et défendre les radars pour leur efficacité."
+      }
+    ]
+  },
+  "concepts": [
+    "delinquance"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ]
+}

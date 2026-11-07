@@ -10,6 +10,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { auditFiche, classerSource, LE_CLASSES } from '../public/js/ligne-editoriale.js';
 import { LECTURES } from './lectures-gauche.js';
+import { PUBLICS } from './publics-complements.js';
 
 const DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'library');
 const lire = (id) => JSON.parse(readFileSync(join(DIR, `${id}.json`), 'utf8'));
@@ -132,6 +133,13 @@ for (const [id, lecture] of Object.entries(LECTURES)) {
   try { const f = lire(id); f.lecture = lecture; ecrire(f); lectures += 1; } catch { journal.push(`lecture ignorée : fiche ${id} absente`); }
 }
 journal.push(`${lectures} fiches dotées d’une « lecture de gauche ».`);
+
+// ── 4. Réponses selon le public (v14) pour les fiches sans générateur actif ──
+let publics = 0;
+for (const [id, p] of Object.entries(PUBLICS)) {
+  try { const f = lire(id); f.publics = p; ecrire(f); publics += 1; } catch { journal.push(`publics ignorés : fiche ${id} absente`); }
+}
+journal.push(`${publics} fiches complétées par des réponses selon le public (scripts/publics-complements.js).`);
 
 // ── Bilan ─────────────────────────────────────────────────────────────────
 let restants = 0;

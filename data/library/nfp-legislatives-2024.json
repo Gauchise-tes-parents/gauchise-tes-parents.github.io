@@ -170,11 +170,6 @@
       }
     ]
   },
-  "concepts": [
-    "melenchon_lfi",
-    "gauche",
-    "nfp_2024"
-  ],
   "repond_a": [
     {
       "id": "nfp_2024",
@@ -195,5 +190,10 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "melenchon_lfi",
+    "gauche",
+    "nfp_2024"
   ]
 }

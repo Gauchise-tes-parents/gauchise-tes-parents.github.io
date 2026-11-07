@@ -138,12 +138,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "expulsion",
-    "identite",
-    "demographie"
-  ],
   "repond_a": [
     {
       "id": "identite",
@@ -165,5 +159,11 @@
     "virer",
     "dehors",
     "remigration"
+  ],
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "identite",
+    "demographie"
   ]
 }

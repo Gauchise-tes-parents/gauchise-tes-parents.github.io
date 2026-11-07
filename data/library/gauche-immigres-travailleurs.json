@@ -177,10 +177,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "gauche"
-  ],
   "repond_a": [
     {
       "id": "gauche_immigres",
@@ -201,5 +197,9 @@
     "lfi",
     "insoumis",
     "mitterrand"
+  ],
+  "concepts": [
+    "immigration",
+    "gauche"
   ]
 }

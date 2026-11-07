@@ -122,12 +122,6 @@
     "L'éloignement des auteurs dangereux, quand il est exécuté, retire effectivement ces personnes du territoire.",
     "La faible exécution des OQTF est un vrai problème de crédibilité de l'État."
   ],
-  "concepts": [
-    "immigration",
-    "delinquance",
-    "expulsion",
-    "justice"
-  ],
   "repond_a": [
     {
       "id": "expulsion",
@@ -148,5 +142,11 @@
     "peur de sortir",
     "pas en securite",
     "criminalite"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "expulsion",
+    "justice"
   ]
 }

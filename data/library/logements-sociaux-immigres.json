@@ -173,10 +173,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "logement"
-  ],
   "repond_a": [
     {
       "id": "hlm_immigres",
@@ -197,5 +193,9 @@
     "logement social",
     "appart",
     "immobilier"
+  ],
+  "concepts": [
+    "immigration",
+    "logement"
   ]
 }

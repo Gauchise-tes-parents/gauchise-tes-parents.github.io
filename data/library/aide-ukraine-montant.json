@@ -174,10 +174,6 @@
       }
     ]
   },
-  "concepts": [
-    "prestations",
-    "ukraine"
-  ],
   "repond_a": [
     {
       "id": "ukraine_aide",
@@ -198,5 +194,9 @@
     "aide medicale",
     "qui profitent",
     "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "ukraine"
   ]
 }

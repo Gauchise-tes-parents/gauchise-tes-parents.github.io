@@ -183,13 +183,6 @@
       }
     ]
   },
-  "concepts": [
-    "prestations",
-    "pauvrete",
-    "solidarite",
-    "secu_sociale",
-    "cout"
-  ],
   "repond_a": [
     {
       "id": "depense_pauvres",
@@ -214,5 +207,12 @@
     "aide medicale",
     "qui profitent",
     "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "pauvrete",
+    "solidarite",
+    "secu_sociale",
+    "cout"
   ]
 }

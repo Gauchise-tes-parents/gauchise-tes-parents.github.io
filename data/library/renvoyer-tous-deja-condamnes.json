@@ -131,11 +131,6 @@
   "objections_legitimes": [
     "Les personnes condamnées qui restent dangereuses doivent pouvoir être éloignées effectivement."
   ],
-  "concepts": [
-    "immigration",
-    "expulsion",
-    "justice"
-  ],
   "repond_a": [
     {
       "id": "expulsion",
@@ -156,5 +151,10 @@
     "virer",
     "dehors",
     "remigration"
+  ],
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "justice"
   ]
 }

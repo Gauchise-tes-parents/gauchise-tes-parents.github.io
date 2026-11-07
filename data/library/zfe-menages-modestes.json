@@ -174,10 +174,6 @@
       }
     ]
   },
-  "concepts": [
-    "pauvrete",
-    "zfe"
-  ],
   "repond_a": [
     {
       "id": "zfe",
@@ -189,5 +185,9 @@
     "pauvrete",
     "misere",
     "coutent trop cher"
+  ],
+  "concepts": [
+    "pauvrete",
+    "zfe"
   ]
 }

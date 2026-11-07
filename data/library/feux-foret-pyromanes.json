@@ -165,11 +165,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "climat_origine",
-    "feux_foret"
-  ],
   "repond_a": [
     {
       "id": "feux_foret",
@@ -181,5 +176,10 @@
     "nucleaire",
     "changement climatique",
     "climat a toujours change"
+  ],
+  "concepts": [
+    "ecologie",
+    "climat_origine",
+    "feux_foret"
   ]
 }

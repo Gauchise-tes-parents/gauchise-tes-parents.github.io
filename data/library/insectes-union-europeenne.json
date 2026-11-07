@@ -1,0 +1,173 @@
+{
+  "id": "insectes-union-europeenne",
+  "type": "idee_recue",
+  "affirmation": "L'Union européenne veut nous faire manger des insectes.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "insectes",
+    "manger des insectes",
+    "farine d insectes",
+    "poudre de grillon",
+    "grillons",
+    "vers de farine",
+    "nouvel aliment",
+    "novel food"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'Union européenne a autorisé depuis 2021 la vente de quelques insectes comme « nouvel aliment » (ver de farine, criquet, grillon, petit ténébrion), mais ces autorisations n'obligent personne à en manger ni à en mettre dans les produits. L'étiquette doit indiquer le nom de l'insecte et le risque d'allergie : « c'est aux consommateurs de décider », selon la Commission. Elle présente pourtant bien les insectes comme une source de protéines plus durable.",
+  "contexte": "Depuis 2023, des publications affirment que de la poudre d'insectes serait cachée dans le pain ou les pâtes sur ordre de Bruxelles ; elles ont été démenties, notamment par l'AFP.",
+  "explication": "Tout aliment nouveau dans l'Union doit être autorisé après une évaluation de sécurité par l'EFSA. Une autorisation permet à une entreprise de vendre un produit ; elle n'impose rien aux autres producteurs ni aux consommateurs.",
+  "faits": [
+    {
+      "fait": "Selon l'administration alimentaire luxembourgeoise, plusieurs règlements autorisent depuis 2021 le ver de farine jaune, le criquet migrateur, le grillon domestique et le petit ténébrion comme denrées alimentaires.",
+      "periode": "2021-2025",
+      "perimetre": "Union européenne",
+      "explication": "Il s'agit d'autorisations de vente, produit par produit.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le règlement 2023/58 autorise les larves de petit ténébrion au profit d'une entreprise précise et impose d'indiquer sur l'étiquette le nom de l'insecte et le risque d'allergie pour les personnes allergiques aux crustacés et aux acariens.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Impossible d'en manger sans le savoir dans un produit emballé.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'AFP, ces autorisations « do not make insect ingredients mandatory in any food product » (ne rendent les ingrédients à base d'insectes obligatoires dans aucun produit).",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Aucune obligation n'existe.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Commission, « c'est aux consommateurs de décider s'ils veulent ou non manger des insectes » ; elle les présente aussi comme une source de protéines plus durable.",
+      "periode": "2021",
+      "perimetre": "Union européenne",
+      "explication": "L'UE encourage cette filière, sans contraindre personne.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : l'UE a autorisé la vente de quelques insectes, mais n'oblige personne à en manger ni à en mettre dans les produits. Leur présence doit être indiquée sur l'étiquette, avec un avertissement sur les allergies.",
+    "moyen": "Depuis 2021, l'Union européenne a autorisé quelques insectes comme aliments : ver de farine, criquet, grillon, petit ténébrion. Ce sont des autorisations de vente, après une évaluation de sécurité, comme pour tout nouvel aliment.\n\nPersonne n'est obligé d'en produire ni d'en manger. Les produits emballés doivent indiquer le nom de l'insecte dans la liste des ingrédients, avec un avertissement sur les allergies. La Commission l'écrit : « c'est aux consommateurs de décider ».",
+    "detaille": "Dans l'Union européenne, un aliment nouveau doit être autorisé avant d'être vendu ; l'EFSA a jugé sûrs les insectes autorisés. Depuis 2021, plusieurs règlements ont ainsi autorisé le ver de farine jaune, le criquet migrateur, le grillon domestique (règlements de 2022 et 2023) et le petit ténébrion (2023).\n\nCes textes autorisent une entreprise donnée à commercialiser un produit précis ; ils n'imposent rien. L'AFP rappelle qu'ils ne rendent les insectes obligatoires dans aucun aliment. Ils imposent au contraire un étiquetage : nom de l'insecte dans la liste des ingrédients et mise en garde pour les personnes allergiques aux crustacés et aux acariens.\n\nLa Commission défend bien l'intérêt des insectes comme source de protéines plus durable, et l'on peut débattre de cette orientation. Mais l'idée qu'on nous en ferait manger en cachette ne tient pas : l'étiquetage est obligatoire et le choix reste au consommateur.",
+    "empathie": "Je comprends que l'idée de manger des insectes dégoûte, et qu'on se méfie des décisions prises à Bruxelles. Mais il s'agit seulement d'autoriser certaines entreprises à en vendre : personne n'est obligé d'en manger, et c'est indiqué sur l'étiquette."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils en mettent en cachette dans le pain.",
+      "reponse": "Les règlements imposent de l'indiquer dans la liste des ingrédients ; les sources lues ne signalent aucun produit où il serait caché."
+    },
+    {
+      "objection": "C'est la première étape avant de nous l'imposer.",
+      "reponse": "Rien dans les textes ne prévoit d'obligation ; c'est une crainte, pas une décision."
+    }
+  ],
+  "questions": [
+    "As-tu déjà vu un produit contenant des insectes dans ton supermarché ?",
+    "Qu'est-ce qui te dérange le plus : l'autorisation elle-même ou l'idée qu'on te le cache ?"
+  ],
+  "limites": [
+    "Le nombre de produits contenant des insectes en vente en France n'est pas connu des sources lues.",
+    "Le texte intégral en français du règlement 2023/5 n'a pas pu être lu."
+  ],
+  "sources": [
+    {
+      "titre": "Règlement d'exécution (UE) 2023/58 autorisant les larves d'Alphitobius diaperinus (petit ténébrion) comme nouvel aliment",
+      "organisme": "Commission européenne (EUR-Lex)",
+      "date_publication": "5 janvier 2023",
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/58/oj",
+      "passage": "Autorise la mise sur le marché des formes congelées, en pâte, séchées et en poudre des larves de petit ténébrion, au profit d'un demandeur (Ynsect NL B.V.) avec protection des données jusqu'au 26 janvier 2028 ; l'étiquette doit porter le nom de l'insecte et la mention d'un risque d'allergie pour les personnes allergiques aux crustacés et aux acariens, à proximité de la liste des ingrédients.",
+      "pertinence": "Texte juridique de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Petits insectes — Grande utilité. L'UE autorise l'utilisation des insectes comme denrées alimentaires",
+      "organisme": "Commission européenne (DG Santé)",
+      "date_publication": "2 juin 2021",
+      "url": "https://ec.europa.eu/newsroom/sante/items/712990/fr",
+      "passage": "« c'est aux consommateurs de décider s'ils veulent ou non manger des insectes » ; « ces produits seront clairement étiquetés » ; le ver de farine jaune est le premier insecte autorisé ; la Commission présente les insectes comme une source de protéines plus durable.",
+      "pertinence": "Institution européenne (2021).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Misinformation swirls over EU edible insects (fact-check)",
+      "organisme": "AFP via European Newsroom (Laura Mannering et al.)",
+      "date_publication": "22 février 2023",
+      "url": "https://europeannewsroom.com/misinformation-swirls-over-eu-edible-insects/",
+      "passage": "Les autorisations « do not make insect ingredients mandatory in any food product » ; les ingrédients doivent figurer sous leur nom scientifique et usuel, avec un avertissement sur le risque de réaction allergique ; l'EFSA les a jugés sûrs.",
+      "pertinence": "Fact-check d'agence de presse.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Larves séchées de Tenebrio molitor et autres insectes comme denrée alimentaire (fiche, version 4)",
+      "organisme": "Administration luxembourgeoise vétérinaire et alimentaire (ALVA)",
+      "date_publication": "3 mars 2025",
+      "url": "https://securite-alimentaire.public.lu/dam-assets/fr/publications/fiches/insectes.pdf",
+      "passage": "Autorisations recensées : Tenebrio molitor (2021/882, 2022/169, 2025/89), Locusta migratoria (2021/1975), Acheta domesticus (2022/188, 2023/5), Alphitobius diaperinus (2023/58). Pour les denrées préemballées, le nom de l'insecte doit figurer dans la liste des ingrédients avec une mise en garde contre les réactions allergiques croisées.",
+      "pertinence": "Autorité publique de sécurité alimentaire d'un État membre.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La Commission promeut les insectes comme source de protéines plus durable.",
+    "Dans la restauration et pour les produits non emballés, l'information n'est pas sur un emballage ; elle doit être disponible auprès du vendeur."
+  ],
+  "publics": {
+    "convaincus": "Bruxelles a autorisé quelques entreprises à vendre des insectes, elle n'oblige personne à en manger. Et c'est écrit sur l'étiquette, avec un avertissement pour les allergiques. Si tu n'en veux pas, il te suffit de lire la liste des ingrédients.",
+    "indecis": "L'Union européenne a autorisé la vente de quelques insectes après des évaluations de sécurité, comme pour tout nouvel aliment. Elle les voit comme une source de protéines d'avenir, ce qu'on peut discuter. Mais rien n'est obligatoire et leur présence doit être indiquée sur les emballages."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie"
+    ],
+    "mecanismes": "Une autorisation de vente est présentée comme une obligation, pour alimenter la défiance envers l’Europe.",
+    "consequences": "La désinformation détourne des vrais débats sur l’alimentation et l’agriculture.",
+    "democratie": "Le droit à l’information des consommateurs passe par l’étiquetage, qui est ici obligatoire.",
+    "propositions": [
+      "Renforcer l’étiquetage et la transparence sur l’origine des aliments.",
+      "Soutenir une agriculture de qualité et rémunératrice."
+    ],
+    "defavorables": [
+      {
+        "fait": "La Commission promeut les insectes comme source de protéines plus durable.",
+        "integration": "Le dire : on peut discuter de cette orientation, sans parler d’obligation."
+      }
+    ]
+  },
+  "concepts": [
+    "desinformation",
+    "europe",
+    "insectes"
+  ],
+  "repond_a": [
+    {
+      "id": "insectes",
+      "label": "Insectes et Union européenne"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "desinformation",
+    "fake news",
+    "manipulation de l information",
+    "bruxelles",
+    "union europeenne",
+    "vers de farine"
+  ]
+}

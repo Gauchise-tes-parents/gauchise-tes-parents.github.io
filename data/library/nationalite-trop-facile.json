@@ -137,10 +137,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "nationalite"
-  ],
   "repond_a": [
     {
       "id": "nationalite",
@@ -159,5 +155,9 @@
     "devenir francais",
     "droit du sol",
     "papiers francais"
+  ],
+  "concepts": [
+    "immigration",
+    "nationalite"
   ]
 }

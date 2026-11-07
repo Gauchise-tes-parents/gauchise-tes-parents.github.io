@@ -1,0 +1,170 @@
+{
+  "id": "ouvriers-vote-rn",
+  "type": "idee_recue",
+  "affirmation": "Les ouvriers votent RN parce que la gauche les a abandonnés.",
+  "volet": "politique",
+  "sous_theme": "Droite et extrême droite",
+  "rubriques": [],
+  "mots_cles": [
+    "ouvriers votent rn",
+    "vote ouvrier",
+    "les ouvriers",
+    "classes populaires votent rn",
+    "gauche a abandonne",
+    "abandonne les ouvriers",
+    "abandonne le peuple",
+    "premier parti ouvrier",
+    "electorat ouvrier"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Le constat est en partie exact : au premier tour des législatives de 2024, 57 % des ouvriers qui ont voté ont choisi le RN, contre 21 % le Nouveau Front populaire, et un tiers des Français estiment que la gauche a déçu au pouvoir. Mais près d'un ouvrier sur deux s'est abstenu, si bien que le RN rassemble environ trois ouvriers inscrits sur dix ; et les enquêtes montrent des causes multiples : peur du déclassement, sécurité, immigration, déception envers la gauche.",
+  "contexte": "Le RN se présente comme le « premier parti ouvrier de France » ; à gauche aussi, beaucoup expliquent ce vote par un abandon des classes populaires.",
+  "explication": "Un sondage de sortie des urnes mesure le vote des personnes qui ont voté. Pour connaître le comportement de toute une catégorie, il faut aussi tenir compte de l'abstention, très forte chez les ouvriers.",
+  "faits": [
+    {
+      "fait": "Selon Ipsos, au premier tour des législatives de 2024, 57 % des ouvriers votants ont choisi le RN et ses alliés (+12 points par rapport à 2022), contre 21 % le NFP.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le RN est bien le premier choix des ouvriers qui votent.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "57 %"
+    },
+    {
+      "fait": "Selon Ipsos, la participation des ouvriers au premier tour de 2024 n'était que de 54 %, contre 65 % chez les cadres et 79 % chez les retraités.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Près d'un ouvrier sur deux ne vote pas : le RN ne représente qu'environ trois ouvriers inscrits sur dix (calcul à partir des deux enquêtes).",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "54 %"
+    },
+    {
+      "fait": "Selon Ipsos, le vote RN a aussi doublé chez les cadres, de 11 % en 2022 à 22 % en 2024.",
+      "periode": "2022-2024",
+      "perimetre": "France",
+      "explication": "La progression du RN ne concerne pas que les ouvriers.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "22 %"
+    },
+    {
+      "fait": "Selon une enquête pour la Fondation Jean-Jaurès, 33 % des personnes interrogées estiment que « la gauche a déçu lorsqu'elle était au pouvoir », 28 % la jugent déconnectée des classes populaires, 28 % trouvent qu'elle ne parle pas assez de sécurité et 27 % pas assez d'immigration.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La déception envers la gauche est réelle, mais elle n'est qu'un motif parmi d'autres.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "33 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "En partie seulement : 57 % des ouvriers qui ont voté ont choisi le RN en 2024, mais près d'un sur deux s'est abstenu. Et les enquêtes trouvent plusieurs causes : déclassement, sécurité, immigration, déception envers la gauche.",
+    "moyen": "Parmi les ouvriers qui ont voté au premier tour de 2024, 57 % ont choisi le RN. Mais seulement 54 % des ouvriers sont allés voter : le RN rassemble donc environ trois ouvriers sur dix, pas la classe ouvrière entière.\n\nLa déception envers la gauche compte : un tiers des Français jugent qu'elle a déçu au pouvoir. Mais les enquêtes citent aussi la peur du déclassement, la sécurité et l'immigration. Le RN progresse d'ailleurs aussi chez les cadres.",
+    "detaille": "Selon Ipsos, au premier tour des législatives de 2024, le RN et ses alliés ont obtenu 57 % des voix des ouvriers votants, 12 points de plus qu'en 2022, contre 21 % pour le Nouveau Front populaire. Le RN est donc le premier choix des ouvriers qui votent.\n\nMais il faut regarder l'abstention : seuls 54 % des ouvriers ont voté, la participation la plus faible de toutes les catégories. Rapporté à l'ensemble des ouvriers inscrits, le vote RN représente environ trois ouvriers sur dix. Une grande partie du monde ouvrier ne se reconnaît dans aucun parti.\n\nL'explication par « l'abandon » a une part de vérité, reconnue jusque dans la gauche : selon l'enquête de la Fondation Jean-Jaurès, un tiers des Français estiment que la gauche a déçu au pouvoir, et 28 % la jugent déconnectée des classes populaires. Mais la sécurité et l'immigration sont citées presque aussi souvent, et les auteurs décrivent surtout la peur du « grand déclassement ». Le RN progresse aussi chez les cadres. Reconquérir le vote populaire passe par des réponses concrètes sur les salaires, les services publics et la dignité au travail, pas seulement par un mea culpa.",
+    "empathie": "Je comprends le sentiment d'avoir été laissé de côté, et la gauche a sa part de responsabilité. Mais regarde les chiffres : près d'un ouvrier sur deux ne vote plus du tout, et les raisons du vote RN sont multiples."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le RN est le premier parti ouvrier, point.",
+      "reponse": "Chez les votants, oui ; mais l'abstention reste la première attitude des ouvriers."
+    },
+    {
+      "objection": "La gauche ne parle plus qu'aux bobos.",
+      "reponse": "Une partie des sondés le pense ; les enquêtes montrent aussi que la sécurité et l'immigration pèsent autant dans le vote RN."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'ouvriers sont allés voter en 2024 ?",
+    "Qu'est-ce qu'un parti devrait proposer concrètement pour que les ouvriers se sentent défendus ?"
+  ],
+  "limites": [
+    "Les chiffres sont des estimations par sondage, avec une marge d'erreur.",
+    "Aucune étude lue n'isole « l'abandon » comme cause du vote ; aucun travail du Cevipof n'a été lu pour cette fiche."
+  ],
+  "sources": [
+    {
+      "titre": "Sociologie des électorats — Législatives 2024 (premier tour)",
+      "organisme": "Ipsos Talan pour France Télévisions, Radio France et Public Sénat",
+      "date_publication": "30 juin 2024",
+      "url": "https://www.ipsos.com/fr-fr/legislatives-2024/node/1025896",
+      "passage": "Enquête des 27 et 28 juin 2024 auprès de 10 286 personnes. Vote des ouvriers : RN et alliés 57 % (+12 points par rapport à 2022), NFP 21 % ; employés : RN 44 % ; cadres : RN 22 % (11 % en 2022).",
+      "pertinence": "Institut de sondage (estimation, marge d'erreur).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Une participation exceptionnelle, dans tous les électorats — Législatives 2024",
+      "organisme": "Ipsos Talan",
+      "date_publication": "30 juin 2024",
+      "url": "https://www.ipsos.com/fr-fr/legislatives-2024/node/1025891",
+      "passage": "Participation au premier tour : 66,7 % (47,5 % en 2022) ; ouvriers 54 %, employés 58 %, cadres 65 %, retraités 79 %.",
+      "pertinence": "Institut de sondage (estimation).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Vote Rassemblement national : comment casser la dynamique ?",
+      "organisme": "Fondation Jean-Jaurès (Bassem Asseh, Adélaïde Zulfikarpasic ; enquête BVA Xsight)",
+      "date_publication": "12 septembre 2024",
+      "url": "https://www.jean-jaures.org/publication/vote-rassemblement-national-comment-casser-la-dynamique/",
+      "passage": "33 % des personnes interrogées estiment que « la gauche a déçu lorsqu'elle était au pouvoir » ; 28 % la jugent déconnectée des classes populaires, 28 % trouvent qu'elle ne parle pas assez de sécurité et 27 % pas assez d'immigration. Les auteurs décrivent une crainte du « grand déclassement » plutôt que du « grand remplacement ».",
+      "pertinence": "Fondation proche du Parti socialiste, enquête par sondage.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La gauche au pouvoir a déçu une partie des classes populaires, et des responsables de gauche le reconnaissent.",
+    "Le RN est bien le premier parti chez les ouvriers qui votent."
+  ],
+  "publics": {
+    "convaincus": "C'est vrai, 57 % des ouvriers qui ont voté en 2024 ont choisi le RN. Mais presque un ouvrier sur deux n'a pas voté du tout. Et qu'a fait le RN pour les salaires ouvriers là où il a voté ? Il ne suffit pas de dire qu'on défend les ouvriers.",
+    "indecis": "La déception envers la gauche est réelle, et la gauche doit l'entendre. Mais le vote RN des ouvriers a plusieurs causes : peur du déclassement, sécurité, immigration. Et la première attitude des ouvriers reste l'abstention : beaucoup ne se sentent représentés par personne."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "democratie",
+      "egalite"
+    ],
+    "mecanismes": "Un récit unique, l’abandon, masque l’abstention massive et la diversité des causes du vote.",
+    "consequences": "Une partie des classes populaires ne se sent représentée par personne et ne vote plus.",
+    "democratie": "La participation des classes populaires est une condition d’une démocratie réellement représentative.",
+    "propositions": [
+      "Reconstruire la présence de la gauche sur les lieux de travail et dans les quartiers.",
+      "Porter des mesures concrètes sur les salaires, les services publics et la dignité au travail."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un tiers des personnes interrogées estiment que la gauche a déçu au pouvoir.",
+        "integration": "Le reconnaître sans détour, et montrer ce qui a changé."
+      }
+    ]
+  },
+  "concepts": [
+    "gauche",
+    "fn_parti"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire",
+    "front national",
+    "fn",
+    "rn",
+    "rassemblement national"
+  ]
+}

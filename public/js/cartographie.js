@@ -115,6 +115,17 @@ export const CA_CONCEPTS = {
   asile: { label: 'Demandes d’asile', central: true, motifs: ['demandeurs? d asile', 'demandes? d asile', 'droit d asile'] },
   medecins_etrangers: { label: 'Médecins diplômés à l’étranger', central: true, motifs: ['medecins? (etrangers?|algeriens?|africains?|maghrebins?|syriens?|roumains?)', 'medecins? diplomes? (a l etranger|hors)', 'padhue', 'diplomes? hors (de l )?union europeenne', 'docteurs? etrangers?'] },
   mercosur: { label: 'Accord UE-Mercosur', central: true, motifs: ['mercosur'] },
+  // fiches quotidiennes (7 novembre 2026, passage de 12 h)
+  lois_bruxelles: { label: 'Part des lois d’origine européenne', central: true, motifs: ['(80|quatre vingts?) ?(%|pour ?cent) (de nos|des) lois', 'lois? (sont |seraient )?(decidees?|votees?|faites?|imposees?|ecrites?) (a|par) bruxelles', 'nos lois viennent (de|d) (bruxelles|l europe)', 'bruxelles (decide|fait|impose|ecrit) (nos|les|toutes nos) lois'] },
+  rn_change: { label: 'Le RN et l’étiquette d’extrême droite', central: true, motifs: ['(plus|pas) (vraiment )?(un parti )?d extreme droite', 'dediabolis\\w*', 'parti (normal|comme les autres)'] },
+  le_pen_proces: { label: 'Procès des assistants parlementaires du RN', central: true, motifs: ['assistants? (parlementaires?|du rn|du fn)', 'condamnation de (marine )?le pen', '(marine )?le pen (a ete |est )?condamnee?', 'ineligib\\w*', 'execution provisoire', 'emplois? fictifs?'] },
+  sortie_ue: { label: 'Sortie de l’Union européenne ou de l’euro', central: true, motifs: ['frexit', 'sort\\w* (la france )?de l (euro|union europeenne|ue|europe)', 'quitter l (euro|union europeenne|ue|europe)', 'plan b', 'desobei\\w* aux traites', 'desobeissance europeenne'] },
+  cantine: { label: 'Cantines scolaires', central: true, motifs: ['cantines?', 'restauration scolaire', 'menus? (sans porc|de substitution)', 'sans porc'] },
+  dette_grece: { label: 'Dette comparée et risque de faillite', central: true, motifs: ['grece', 'grecs?', 'dette la plus (elevee|forte|importante|grosse)', 'plus endett\\w*', 'agences? de notation', 'fitch', 'banqueroute'] },
+  ecriture_inclusive: { label: 'Écriture inclusive', central: true, motifs: ['ecriture inclusive', 'point median', 'langage inclusif', 'inclusifs?', 'inclusives?'] },
+  insectes: { label: 'Insectes dans l’alimentation', central: true, motifs: ['insectes?', 'grillons?', 'criquets?', 'vers de farine', 'larves?'] },
+  ecologie_sociale: { label: 'Écologie et classes populaires', central: true, motifs: ['bobos?', 'ecologie punitive', 'punit\\w* les (pauvres|classes populaires|gens modestes|modestes)', 'taxe carbone', 'gilets? jaunes?'] },
+  heberg_asile: { label: 'Hébergement des demandeurs d’asile', central: true, motifs: ['heberg\\w*', 'cada', 'huda', 'centres? (d accueil|de migrants|pour migrants)', 'impots locaux', 'taxe fonciere'] },
 };
 
 // ─── Domaines (v12) ────────────────────────────────────────────────────────
@@ -142,6 +153,8 @@ export const CA_DOMAINES = {
   ukraine: ['international'], nazisme: ['international', 'politique'], ultra_violence: ['politique', 'securite'], antichretien: ['droits'], genre_ecole: ['services'],
   zucman: ['economie'], moins_30: ['politique'], feux_foret: ['ecologie'], zfe: ['ecologie'], vaccin: ['politique', 'services'], nfp_2024: ['politique'],
   thermique_2035: ['ecologie'], glyphosate: ['ecologie'], mosquee: ['droits'], deboutes: ['immigration'], asile: ['immigration'], medecins_etrangers: ['services'], mercosur: ['ecologie'],
+  lois_bruxelles: ['politique'], rn_change: ['politique'], le_pen_proces: ['politique', 'securite'], sortie_ue: ['politique'], cantine: ['droits', 'services'],
+  dette_grece: ['economie'], ecriture_inclusive: ['services'], insectes: ['ecologie', 'politique'], ecologie_sociale: ['ecologie'], heberg_asile: ['immigration'],
 };
 
 // ─── Arguments ─────────────────────────────────────────────────────────────
@@ -149,6 +162,47 @@ export const CA_DOMAINES = {
 // signaux : formulations typiques (bonus) ; fiches : fiches qui répondent réellement, par ordre de pertinence ;
 // choisir : départage entre fiches selon des mots (facultatif) ; exclues : fiches voisines à ne PAS donner comme réponse.
 export const CA_ARGUMENTS = [
+  // fiches quotidiennes (7 novembre 2026, passage de 12 h)
+  { id: 'lois_bruxelles', label: 'Part des lois décidées à Bruxelles', famille: 'Europe et souveraineté', tous: ['lois_bruxelles'], fiches: ['lois-bruxelles-80-pourcent'],
+    implicite: 'L’essentiel des lois françaises serait décidé par l’Union européenne.', verifier: 'L’origine du chiffre de 80 % et les études qui ont réellement compté.' },
+  { id: 'rn_change', label: 'Le RN, plus d’extrême droite ?', famille: 'Discours politiques et contradictions', tous: ['rn_change'], fiches: ['rn-plus-extreme-droite'],
+    implicite: 'Le RN serait devenu un parti comme les autres.', verifier: 'La place de la priorité nationale dans le programme et la décision du Conseil d’État de 2024.' },
+  { id: 'le_pen_proces', label: 'Condamnation de Marine Le Pen', famille: 'Institutions', tous: ['le_pen_proces'], fiches: ['le-pen-condamnation-juges'],
+    implicite: 'La justice aurait condamné Marine Le Pen pour des raisons politiques.', verifier: 'Les faits reconnus en première instance et en appel, et la peine prononcée en 2026.' },
+  { id: 'sortie_ue_lfi', label: 'LFI et la sortie de l’Union européenne', famille: 'Programmes politiques', tous: ['sortie_ue'], requiertSignal: true, signaux: ['lfi', 'insoumis\\w*', 'melenchon', 'gauche', 'nfp', 'nouveau front populaire', 'nupes'], fiches: ['lfi-sortie-ue-euro'],
+    implicite: 'La gauche radicale voudrait quitter l’Europe.', verifier: 'Le plan B de 2017 et le programme du NFP de 2024.' },
+  { id: 'cantine', label: 'Cantines, halal et porc', famille: 'Religions et laïcité', tous: ['cantine'], fiches: ['cantines-halal-porc'],
+    implicite: 'Les cantines se plieraient à des exigences religieuses.', verifier: 'La décision du Conseil d’État de 2020 sur les menus de substitution.' },
+  { id: 'rn_voile', label: 'Le RN et l’interdiction du voile', famille: 'Programmes politiques', tous: ['fn_parti', 'islam'], requiertSignal: true, signaux: ['interdi\\w*', 'amende\\w*', 'espace public', 'dans la rue', 'bannir'], fiches: ['rn-voile-espace-public'],
+    implicite: 'Interdire le voile dans la rue serait une mesure simple et légale.', verifier: 'Les propositions successives du RN et l’avis des juristes.' },
+  { id: 'voile_rue', label: 'Interdire le voile dans l’espace public', famille: 'Religions et laïcité', tous: ['islam'], aucun: ['laicite'], requiertSignal: true, signaux: ['interdire le voile', 'interdiction du voile', 'voile dans la rue', 'voile dans l espace public'], fiches: ['rn-voile-espace-public'],
+    implicite: 'Interdire le voile dans la rue serait une mesure simple et légale.', verifier: 'La différence entre l’interdiction de la burqa et celle du foulard.' },
+  { id: 'dette_grece', label: 'Dette de la France et faillite', famille: 'Économie et fiscalité', tous: ['dette', 'dette_grece'], fiches: ['dette-france-grece'],
+    implicite: 'La France serait au bord de la faillite.', verifier: 'Le classement européen des dettes et la durée de la dette française.' },
+  { id: 'dette_grece_seule', label: 'Dette comparée à la Grèce', famille: 'Économie et fiscalité', tous: ['dette_grece'], requiertSignal: true, signaux: ['dette', 'faillite', 'endett\\w*', 'note'], fiches: ['dette-france-grece'],
+    implicite: 'La France serait au bord de la faillite.', verifier: 'Le classement européen des dettes et la durée de la dette française.' },
+  { id: 'ecriture_inclusive', label: 'Écriture inclusive à l’école', famille: 'École et éducation', tous: ['ecriture_inclusive'], fiches: ['ecriture-inclusive-ecole'],
+    implicite: 'L’école imposerait une idéologie aux enfants par la langue.', verifier: 'La circulaire de 2021 et la décision du Conseil d’État de 2024.' },
+  { id: 'insectes', label: 'Insectes et Union européenne', famille: 'Désinformation', tous: ['insectes'], fiches: ['insectes-union-europeenne'],
+    implicite: 'L’Union européenne imposerait de nouveaux aliments.', verifier: 'Ce que permettent les règlements d’autorisation et l’étiquetage obligatoire.' },
+  { id: 'ada_retraites', label: 'Allocation des demandeurs d’asile', famille: 'Immigration et prestations sociales', tous: ['asile', 'prestations'], requiertSignal: true, signaux: ['retraites?', 'par jour', 'par mois', 'euros?', 'plus que', 'allocation'], fiches: ['demandeurs-asile-allocation-retraites'],
+    implicite: 'Les demandeurs d’asile vivraient mieux que les retraités.', verifier: 'Le barème officiel de l’ADA et la pension moyenne.' },
+  { id: 'ada_seule', label: 'Allocation des demandeurs d’asile et retraités', famille: 'Immigration et prestations sociales', tous: ['asile', 'retraite'], fiches: ['demandeurs-asile-allocation-retraites'],
+    implicite: 'Les demandeurs d’asile vivraient mieux que les retraités.', verifier: 'Le barème officiel de l’ADA et la pension moyenne.' },
+  { id: 'ecologie_sociale', label: 'Écologie et classes populaires', famille: 'Écologie', tous: ['ecologie_sociale'], fiches: ['ecologie-bobos-classes-populaires'],
+    implicite: 'L’écologie serait une affaire de privilégiés payée par les pauvres.', verifier: 'Les émissions selon le niveau de vie et les effets de la taxe carbone.' },
+  { id: 'fonctionnaires_salaires', label: 'Salaires des fonctionnaires', famille: 'Services publics', tous: ['fonctionnaires'], requiertSignal: true, signaux: ['payes?', 'salaires?', 'gagne\\w*', 'remunere\\w*', 'privilegies?', 'paie'], fiches: ['fonctionnaires-salaires-prive'],
+    implicite: 'Les agents publics seraient privilégiés sur le plan salarial.', verifier: 'Les salaires moyens de l’Insee et la comparaison à diplôme égal.' },
+  { id: 'droit_du_sol', label: 'Suppression du droit du sol', famille: 'Immigration et accès aux droits', tous: ['nationalite'], requiertSignal: true, signaux: ['supprim\\w*.*droit du sol', 'droit du sol.*supprim\\w*', 'abol\\w*.*droit du sol', 'droit du sol.*abol\\w*', 'fin du droit du sol', 'droit du sol.*immigration', 'immigration.*droit du sol', 'mayotte'], fiches: ['droit-du-sol-suppression'],
+    implicite: 'Supprimer le droit du sol réduirait l’immigration.', verifier: 'Ce que prévoit réellement l’article 21-7 du Code civil et le nombre de jeunes concernés.' },
+  { id: 'greves_record', label: 'La France championne de la grève', famille: 'Travail et droits sociaux', tous: ['syndicats'], requiertSignal: true, signaux: ['jours de greve', 'le plus de greves?', 'le plus de jours', 'champion\\w*', 'record', 'toujours en greve', 'pays de la greve', 'plus de greves? qu'], fiches: ['france-championne-greves'],
+    implicite: 'Les Français feraient grève plus que tous les autres.', verifier: 'Les comparaisons européennes de journées de grève et leurs limites.' },
+  { id: 'immigres_comptes', label: 'Comptage des immigrés', famille: 'Immigration et démographie', tous: ['immigration', 'statistiques'], aucun: ['delinquance', 'prison'], requiertSignal: true, signaux: ['cach\\w*', 'interdit', 'pas le droit', 'compter', 'secret', 'on ne sait pas', 'ethniques?'], fiches: ['statistiques-immigres-cachees'],
+    implicite: 'L’État dissimulerait l’ampleur de l’immigration.', verifier: 'Les séries annuelles de l’Insee et la décision du Conseil constitutionnel de 2007.' },
+  { id: 'immigres_comptes_seul', label: 'Comptage des immigrés', famille: 'Immigration et démographie', tous: ['immigration'], aucun: ['delinquance', 'prison'], requiertSignal: true, signaux: ['compter les immigres', 'combien d immigres', 'cache(nt)? les chiffres', 'statistiques ethniques'], fiches: ['statistiques-immigres-cachees'],
+    implicite: 'L’État dissimulerait l’ampleur de l’immigration.', verifier: 'Les séries annuelles de l’Insee et la décision du Conseil constitutionnel de 2007.' },
+  { id: 'heberg_asile', label: 'Financement de l’hébergement des demandeurs d’asile', famille: 'Immigration et finances publiques', tous: ['heberg_asile', 'immigration'], fiches: ['hebergement-migrants-impots-locaux'],
+    implicite: 'L’accueil des demandeurs d’asile serait payé par les impôts locaux.', verifier: 'Le budget de l’État consacré à l’hébergement et les coûts restant aux collectivités.' },
   // fiches quotidiennes (7 novembre 2026, passage de 06 h 13)
   { id: 'pacte_marrakech', label: 'Pacte de Marrakech', famille: 'Immigration et souveraineté', tous: ['pacte_marrakech'], fiches: ['pacte-marrakech-onu'],
     implicite: 'Un texte de l’ONU imposerait une politique migratoire à la France.', verifier: 'Le caractère non contraignant du pacte, écrit dans le texte lui-même.' },

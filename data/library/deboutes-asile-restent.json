@@ -154,11 +154,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "deboutes",
-    "asile"
-  ],
   "repond_a": [
     {
       "id": "deboutes",
@@ -174,5 +169,10 @@
     "qui debarquent",
     "ils prennent nos",
     "droit d asile"
+  ],
+  "concepts": [
+    "immigration",
+    "deboutes",
+    "asile"
   ]
 }

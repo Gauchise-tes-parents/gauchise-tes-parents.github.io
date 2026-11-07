@@ -143,11 +143,6 @@
       }
     ]
   },
-  "concepts": [
-    "prestations",
-    "algerie",
-    "aide_dev"
-  ],
   "repond_a": [
     {
       "id": "aide_dev",
@@ -172,5 +167,10 @@
     "aide medicale",
     "qui profitent",
     "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "algerie",
+    "aide_dev"
   ]
 }

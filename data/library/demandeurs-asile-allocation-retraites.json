@@ -1,0 +1,190 @@
+{
+  "id": "demandeurs-asile-allocation-retraites",
+  "type": "idee_recue",
+  "affirmation": "Les demandeurs d'asile touchent plus que nos retraités.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et aides sociales",
+  "rubriques": [],
+  "mots_cles": [
+    "demandeurs d asile touchent",
+    "allocation pour demandeur d asile",
+    "ada",
+    "plus que nos retraites",
+    "plus que les retraites",
+    "migrants touchent",
+    "allocation des migrants",
+    "carte de paiement ofii"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non : l'allocation pour demandeur d'asile (ADA) est de 6,80 € par jour pour une personne seule hébergée, soit environ 204 € par mois, et de 14,20 € par jour sans hébergement, soit environ 426 € par mois. La pension moyenne nette de droit direct était de 1 541 € fin 2023, et le minimum vieillesse de 1 012,02 € par mois au 1er janvier 2024. Les demandeurs d'asile n'ont en outre pas le droit de travailler pendant leurs six premiers mois en France.",
+  "contexte": "Des messages viraux comparent les « migrants » à des retraités pauvres qui toucheraient moins ; la comparaison mélange souvent l'ADA, le RSA et le coût de l'hébergement.",
+  "explication": "L'ADA est versée par l'Ofii, sur une carte de paiement, aux demandeurs d'asile qui acceptent les conditions d'accueil et dont les ressources sont inférieures au RSA, pendant l'examen de leur demande. Elle s'ajoute, le cas échéant, à un hébergement en centre.",
+  "faits": [
+    {
+      "fait": "Selon Service-public.fr, l'ADA est de 6,80 € par jour pour une personne seule, majorés de 7,40 € si aucun hébergement n'est proposé, et de 37,40 € par jour pour une famille de dix personnes.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Soit environ 204 € par mois pour une personne hébergée et 426 € sans hébergement (calcul sur 30 jours).",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "6,80 €"
+    },
+    {
+      "fait": "Selon la DREES, la pension moyenne de droit direct s'élève fin 2023 à 1 541 € nets par mois, pour 17,2 millions de retraités.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Une retraite moyenne vaut plusieurs fois l'ADA.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "1 541 €"
+    },
+    {
+      "fait": "Selon l'Assurance retraite, le minimum vieillesse (Aspa) est de 1 012,02 € par mois pour une personne seule au 1er janvier 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Même le minimum vieillesse est plus de deux fois supérieur à l'ADA sans hébergement.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1 012 €"
+    },
+    {
+      "fait": "Selon Service-public.fr, un demandeur d'asile ne peut pas obtenir d'autorisation de travail pendant les six premiers mois de sa demande.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les demandeurs d'asile sont contraints de vivre de cette allocation au début.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "6 mois"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : l'allocation d'un demandeur d'asile seul est d'environ 204 € par mois s'il est hébergé, 426 € sinon. La retraite moyenne est de 1 541 € nets et le minimum vieillesse de 1 012 € par mois.",
+    "moyen": "Un demandeur d'asile seul touche 6,80 € par jour s'il est hébergé, soit environ 204 € par mois, et 14,20 € par jour sinon, soit environ 426 €. La pension moyenne d'un retraité est de 1 541 € nets, et le minimum vieillesse de 1 012 € par mois.\n\nEn plus, les demandeurs d'asile n'ont pas le droit de travailler pendant leurs six premiers mois. On peut défendre les petites retraites sans opposer les retraités à des gens qui vivent avec quelques euros par jour.",
+    "detaille": "L'allocation pour demandeur d'asile (ADA) est versée par l'Ofii, pendant l'examen de la demande, aux personnes qui acceptent les conditions d'accueil et dont les ressources sont inférieures au RSA. Son montant est de 6,80 € par jour pour une personne seule, 10,20 € pour un couple, jusqu'à 37,40 € pour dix personnes ; il est majoré de 7,40 € par jour pour une personne seule si aucun hébergement n'est proposé. Cela fait environ 204 € par mois pour une personne hébergée et 426 € pour une personne sans hébergement.\n\nEn comparaison, la pension moyenne de droit direct était de 1 666 € bruts, soit 1 541 € nets, fin 2023, et le minimum vieillesse de 1 012,02 € par mois pour une personne seule au 1er janvier 2024.\n\nLes demandeurs d'asile ne peuvent pas obtenir d'autorisation de travail pendant les six premiers mois. Il faut ajouter, pour ceux qui sont hébergés, le logement en centre, qui a un coût pour l'État. Mais aucune comparaison honnête ne permet de dire qu'ils « touchent plus » que les retraités. Beaucoup de retraités ont de petites pensions : c'est un vrai combat, qui se mène contre les réformes qui les fragilisent, pas contre les demandeurs d'asile.",
+    "empathie": "Je comprends la colère des retraités qui ont travaillé toute leur vie et vivent avec peu. Mais un demandeur d'asile seul touche environ 200 à 400 € par mois, et il n'a pas le droit de travailler au début : il ne vit pas mieux qu'un retraité."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec le logement payé, ils ont plus.",
+      "reponse": "Un hébergement en centre collectif n'est pas un revenu, et l'allocation reste de 6,80 € par jour pour une personne seule."
+    },
+    {
+      "objection": "Une famille de migrants touche plus de 1 000 €.",
+      "reponse": "Pour dix personnes, l'ADA est de 37,40 € par jour, soit environ 1 122 € par mois, moins de 4 € par personne et par jour."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien touche par jour un demandeur d'asile seul ?",
+    "Qui a vraiment fait baisser le niveau de vie de certains retraités, à ton avis ?"
+  ],
+  "limites": [
+    "Le montant du minimum vieillesse en 2026 n'a pas été lu dans une source officielle ; le chiffre cité est celui de 2024.",
+    "Le coût de l'hébergement des demandeurs d'asile n'est pas inclus dans la comparaison."
+  ],
+  "sources": [
+    {
+      "titre": "En quoi consiste l'allocation pour demandeur d'asile (Ada) ?",
+      "organisme": "Service-public.gouv.fr (DILA)",
+      "date_publication": "Vérifié le 1er avril 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16118",
+      "passage": "Montant journalier : 6,80 € pour une personne, 10,20 € pour un couple, 13,60 € pour trois personnes, jusqu'à 37,40 € pour dix personnes ; si aucun hébergement n'est proposé, « le montant supplémentaire est de 7,40 € » par jour pour une personne seule. Conditions : ressources inférieures au RSA et acceptation des conditions matérielles d'accueil ; l'allocation est versée sur une carte de paiement délivrée par l'Ofii.",
+      "pertinence": "Site officiel de l'administration.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les retraités et les retraites — édition 2025 (communiqué)",
+      "organisme": "DREES",
+      "date_publication": "31 juillet 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse-documents-de-reference/250731_PANORAMAS-retraites",
+      "passage": "Fin 2023, la pension moyenne de droit direct « s'élève à 1 666 euros bruts, soit 1 541 euros nets des prélèvements sociaux » ; 17,2 millions de personnes sont retraitées de droit direct.",
+      "pertinence": "Service statistique du ministère des Solidarités.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les allocations de solidarité aux personnes âgées (Aspa) et allocations supplémentaires d'invalidité (ASI) — recueil statistique, données 2024",
+      "organisme": "Assurance retraite (Cnav)",
+      "date_publication": "Février 2026",
+      "url": "https://www.statistiques-recherche.lassuranceretraite.fr/app/uploads/2026/02/2.4-Les-allocations-de-solidarite-aux-personnes-agees-Aspa-et-allocations-supplementaires-dinvalidite-ASI-1.pdf",
+      "passage": "Montant maximal de l'Aspa au 1er janvier 2024 : 1 012,02 € par mois pour une personne seule et 1 571,16 € pour un couple, revalorisé chaque 1er janvier.",
+      "pertinence": "Caisse nationale d'assurance vieillesse.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Accès au travail du demandeur d'asile (fiche F2741)",
+      "organisme": "Service-public.gouv.fr (DILA)",
+      "date_publication": "Vérifié le 16 septembre 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2741?lang=en",
+      "passage": "Pendant les six premiers mois suivant la demande, le demandeur d'asile ne peut pas obtenir d'autorisation de travail ; il peut ensuite en demander une si l'Ofpra n'a pas statué dans ce délai. Pour les demandes déposées depuis le 12 juin 2026, le délai court à partir de l'enregistrement au guichet unique.",
+      "pertinence": "Site officiel de l'administration.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les demandeurs d'asile hébergés bénéficient aussi d'un logement et d'un accès aux soins, qui ne figurent pas dans le montant de l'ADA.",
+    "Une famille nombreuse touche davantage, et de nombreux retraités ont une pension inférieure à la moyenne."
+  ],
+  "publics": {
+    "convaincus": "Un demandeur d'asile seul touche 6,80 € par jour s'il est hébergé, environ 200 € par mois. Le minimum vieillesse, c'est plus de 1 000 €, et la retraite moyenne 1 541 €. Ceux qui t'ont dit le contraire veulent que tu en veuilles aux migrants plutôt qu'à ceux qui décident des pensions.",
+    "indecis": "Les petites retraites sont un vrai problème, et c'est normal d'être choqué par les comparaisons qui circulent. Mais les chiffres officiels sont clairs : l'allocation d'un demandeur d'asile seul est de 200 à 400 € par mois, sans droit de travailler au début. Les deux situations sont difficiles, aucune n'est enviable."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "dignite",
+      "vulnerables"
+    ],
+    "mecanismes": "Opposer des retraités modestes à des demandeurs d’asile détourne la colère de ceux qui décident des pensions.",
+    "consequences": "Deux groupes en difficulté sont mis en concurrence, sans que la situation d’aucun ne s’améliore.",
+    "democratie": "La solidarité nationale doit être débattue à partir des montants réels.",
+    "propositions": [
+      "Revaloriser les petites pensions et le minimum vieillesse.",
+      "Permettre aux demandeurs d’asile de travailler plus tôt."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les demandeurs d’asile hébergés bénéficient aussi d’un logement en centre, qui a un coût.",
+        "integration": "Le dire, et rappeler que ce n’est pas un revenu."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "prestations",
+    "retraite",
+    "asile"
+  ],
+  "repond_a": [
+    {
+      "id": "ada_retraites",
+      "label": "Allocation des demandeurs d’asile"
+    },
+    {
+      "id": "ada_seule",
+      "label": "Allocation des demandeurs d’asile et retraités"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat"
+  ]
+}

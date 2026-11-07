@@ -142,3 +142,71 @@ Sur les 25 questions retenues, 7 étaient signalées « LACUNE » et **18 étaie
 **Tests** : `npm test` 471/471 ; e2e 38/38.
 
 **Questions écartées** : aucune pour sources invérifiables. Points non vérifiés laissés hors des fiches et signalés dans leurs limites : part française exacte des aides européennes à l'Ukraine et chiffres de Kiel pour 2025-2026 (site de l'institut inaccessible) ; résultats officiels du ministère de l'Intérieur pour les législatives de 2024 (décompte de Datan) ; votes RN sur le Smic après 2022 ; montant des aides à la conversion en 2026 ; bilan des déclarations de financements étrangers des cultes depuis 2021 ; nombre exact de déboutés encore présents en France (données de l'administration jugées incohérentes par le Sénat). Le seuil de déclaration des financements étrangers retenu est celui de Service-public.fr (15 300 €), et non les 10 000 € parfois cités. Les sources d'opinion ou peu fiables trouvées pendant la recherche (Revue Conflits, Hérodote, ObservAlgérie, Boursorama, Le Petit Journal) n'ont pas été utilisées.
+
+## 7 novembre 2026 — passage de 12 h (UTC)
+
+**Questions testées : 25** (fichier passé dans `node scripts/verifier-couverture.mjs`). Une première liste de 30 phrases a été testée, puis 2 phrases de remplacement (32 au total) ; 7 ont été écartées : 4 déjà couvertes par une fiche qui y répond réellement (Cour européenne des droits de l'homme et expulsions → `criminels-etrangers-proteges-justice` ; exécution des OQTF → `expulser-tous-etrangers-condamnes` ; VIe République de Mélenchon → `melenchon-dangereux-democratie` ; Mélenchon et le Venezuela → voisin de `melenchon-autoritaire`), 2 trop difficiles à traiter de façon factuelle ou trop marginales (« le RN n'a jamais gouverné, il faut leur laisser une chance » ; viande cultivée en laboratoire), et 1 reformulée (impôts locaux et hébergement des migrants). Sur les 25 retenues, 12 étaient « LACUNE » et **13 étaient « couvertes » par une fiche voisine hors sujet** (ex. 80 % des lois → souveraineté populaire ; condamnation de Marine Le Pen → justice laxiste ; LFI et l'euro → « Mélenchon crie » ; cantines → amalgames sur les musulmans ; dette → services publics ; écriture inclusive → services publics ; insectes → souveraineté populaire ; écologie « de bobos » → mix électrique) : elles ont été traitées comme de vraies lacunes (règle v12).
+
+1. 80 % de nos lois sont décidées à Bruxelles.
+2. Le RN a changé, ce n'est plus un parti d'extrême droite.
+3. La condamnation de Marine Le Pen est un complot des juges pour l'empêcher de se présenter.
+4. La France insoumise veut faire sortir la France de l'Union européenne et de l'euro.
+5. Les cantines scolaires imposent le halal et suppriment le porc.
+6. Le RN veut interdire le voile dans tout l'espace public.
+7. Si la gauche ferme les centrales nucléaires, on va manquer d'électricité.
+8. La France a la dette la plus élevée d'Europe, elle va faire faillite comme la Grèce.
+9. Les ouvriers votent RN parce que la gauche les a abandonnés.
+10. L'écriture inclusive est imposée aux enfants à l'école.
+11. Les radars sont une pompe à fric pour l'État.
+12. Même Georges Marchais voulait arrêter l'immigration.
+13. Les émeutes de 2023 ont été commises par des étrangers.
+14. Le passage à l'euro a fait exploser les prix.
+15. On n'a pas le droit de compter les immigrés en France, l'État cache les chiffres.
+16. Les enfants d'immigrés ne se sentent pas français.
+17. L'Union européenne veut nous faire manger des insectes.
+18. Les demandeurs d'asile touchent plus que nos retraités.
+19. Les chiffres du chômage sont truqués, il y a en réalité six millions de chômeurs.
+20. L'écologie, c'est un truc de bobos qui punit les classes populaires.
+21. Les fonctionnaires sont mieux payés que les salariés du privé.
+22. La France est le pays qui a le plus de jours de grève.
+23. Il suffit de supprimer le droit du sol pour régler le problème de l'immigration.
+24. Les communes paient avec nos impôts locaux l'hébergement des migrants.
+25. Les migrants ont tous des smartphones, ce ne sont pas de vrais réfugiés.
+
+**Fiches créées : 25** (générateur `scripts/fiches/quotidien_20261107_1200.py`, toutes avec `publics` et une « lecture de gauche ») — chaque fiche repose sur au moins deux sources ouvertes et lues le 7 novembre 2026 :
+
+| Fiche | Verdict | Sources principales |
+|---|---|---|
+| `lois-bruxelles-80-pourcent` | contredit | Public Sénat (études Sciences Po Bordeaux et Notre Europe, 2017) ; Euronews (2024) |
+| `rn-plus-extreme-droite` | trompeur | Conseil d'État n° 488378 (2024) ; Club des juristes (2024) ; Sciences Po (2022) ; LCP (2024) ; blog Landot (CE, février 2026) |
+| `le-pen-condamnation-juges` | contredit | Toute l'Europe et LCP (arrêt d'appel du 7 juillet 2026) ; commentaire d'avocat (2026) ; LCP (QPC, 2025) |
+| `lfi-sortie-ue-euro` | trompeur | Public Sénat (2018) ; Terra Nova (2024) ; LCP (programme NFP, 2024) ; Euronews (2024) |
+| `cantines-halal-porc` | contredit | Conseil d'État (communiqué, 2020) ; AFP (2020) ; CNCDH ; Banque des Territoires (EGalim, 2019) |
+| `rn-voile-espace-public` | plutôt exact | Public Sénat (2022, juillet et août 2026) ; CEDH, S.A.S. c. France (2014) |
+| `sortie-nucleaire-penurie` | trompeur | RTE, Futurs énergétiques 2050 (2021) et réactualisation (2026) ; LCP (2021) ; Reporterre (programme Nupes, 2022) |
+| `dette-france-grece` | trompeur | Eurostat (2025) et Euronews d'après Eurostat (octobre 2026) ; Insee (septembre 2026) ; Agence France Trésor (août 2026) ; Public Sénat / Cour des comptes (2025) ; La finance pour tous (2025) |
+| `ouvriers-vote-rn` | trompeur | Ipsos Talan (législatives 2024, deux enquêtes) ; Fondation Jean-Jaurès (2024) |
+| `ecriture-inclusive-ecole` | contredit | Conseil d'État (décembre 2024) ; Sénat (2023) ; Public Sénat (2023) |
+| `radars-pompe-a-fric` | trompeur | Cour des comptes (avril 2025) ; Sénat (2024, 2017) ; réponse du ministère de l'Intérieur (AN, 2023) |
+| `marchais-immigration-1981` | plutôt exact | Hommes & migrations (A. Hargreaves, 2016) ; Christian Science Monitor (1981) ; Tribune socialiste (1981) |
+| `emeutes-2023-etrangers` | contredit | Rapport IGJ-IGA (2023) ; Public Sénat (2023, 2024) ; Insee (2026) |
+| `euro-hausse-prix` | contredit | Insee (2002, 2017) ; Banque de France (2007) |
+| `statistiques-immigres-cachees` | contredit | Insee (séries 1921-2025 ; portrait social 2025 ; page « statistiques ethniques ») ; Plein droit (2008) |
+| `enfants-immigres-sentiment-francais` | contredit | Insee (TeO2, 2023 et 2024) ; dossier de presse de l'Ined (mai 2026, copie d'un tiers) |
+| `insectes-union-europeenne` | trompeur | Règlement (UE) 2023/58 ; Commission européenne (2021) ; AFP (2023) ; ALVA Luxembourg (2025) |
+| `demandeurs-asile-allocation-retraites` | contredit | Service-public.fr (ADA ; accès au travail, 2026) ; DREES (2025) ; Assurance retraite (Aspa, 2026) |
+| `chomage-chiffres-truques` | trompeur | Insee (août 2026 ; appariement 2019) ; France Travail / Dares (octobre 2026 ; définitions 2019) |
+| `ecologie-bobos-classes-populaires` | trompeur | Conseil d'analyse économique (2019) ; Insee (2024, 2026) ; Observatoire des inégalités d'après l'OFCE (2022) |
+| `fonctionnaires-salaires-prive` | trompeur | Insee Première n° 2043, 2079, 2100, 2101, 2102 (2025-2026) |
+| `france-championne-greves` | plutôt exact | Euronews d'après l'ETUI (2023) ; Paris Match Belgique d'après le WSI (2023) ; Éditions Tissot et TPE Actu d'après la Dares (2026) |
+| `droit-du-sol-suppression` | trompeur | Code civil, art. 21-7 (Légifrance) ; Insee (2026) ; Banque des Territoires (2026) ; Public Sénat (2025) ; Institut Montaigne (2024) |
+| `hebergement-migrants-impots-locaux` | trompeur | Assemblée nationale (PLF 2026) ; Sénat (juillet 2026 ; questions de 2022 et 2024) |
+| `migrants-smartphones-refugies` | contredit | HCR (2016) ; Slate (2015) ; EUAA (rapport OFPRA 2025) ; Sénat (2026) ; Eurostat (2026) |
+
+**Méthode** : la recherche documentaire a été répartie entre cinq agents de recherche (WebSearch puis lecture de chaque page avec WebFetch) ; seules les pages effectivement lues ont été retenues, et les passages reprennent les chiffres lus. L'outil de lecture résume les pages : les citations entre guillemets sont courtes et pourraient être revérifiées mot à mot.
+
+**Reconnaissance des questions** : 10 concepts et 20 arguments ajoutés dans `public/js/cartographie.js` ; les 25 questions mènent à leur fiche, ainsi que des variantes testées (« Mélenchon veut le Frexit », « Marine Le Pen est innocente, c'est un procès politique », « On mange des insectes sans le savoir », « La taxe carbone, c'est encore les pauvres qui paient », « Les fonctionnaires sont des privilégiés »…), sans déplacer les phrases voisines (trop de fonctionnaires, services publics, juges de gauche, laïcité, nationalité, éoliennes, asile en Europe, HLM, ZFE). Trois ajustements après les tests : mots-clés resserrés pour les fiches sur les grèves, les statistiques et le chômage, argument « interdire le voile » qui laisse « la laïcité, c'est interdire le voile » à la fiche sur la loi de 1905, et affirmation de la fiche chômage légèrement reformulée pour ne pas capter « les chômeurs profitent du système ».
+
+**Fiches existantes adaptées aux deux publics (10)** : `immigres-aides`, `rsa-smic`, `chomeurs-travailler`, `laicite-loi-1905`, `musulmans-amalgames`, `souverainete-populaire`, `justice-laxiste-prison`, `melenchon-ruiner-france`, `france-pays-immigration`, `pauvrete-france`. Ces fiches n'ayant pas de générateur actif, le champ `publics` est ajouté par un nouveau module `scripts/publics-complements.js`, appliqué de façon idempotente par `scripts/corrections-v10.js` (étape 4). Textes écrits à partir du seul contenu sourcé de chaque fiche. 105 fiches sur 177 ont désormais un champ `publics`.
+
+**Questions écartées** : aucune pour sources invérifiables. Points non vérifiés laissés hors des fiches et signalés dans leurs limites : texte de l'arrêt d'appel Le Pen et date de la décision de cassation ; programme actuel de LFI (2026-2027) ; texte original de la lettre de Georges Marchais (L'Humanité, janvier 1981) et suite de l'histoire du PCF ; nationalité des mineurs interpellés en 2023 ; montant 2026 du minimum vieillesse ; volume des radiations de France Travail ; émissions de CO2 par niveau de vie postérieures à 2011 ; effet des restrictions du droit du sol à Mayotte ; publications primaires de la Dares (pages protégées par un CAPTCHA) et de l'ETUI ; comparaison avec la crise grecque de 2010. Sources trouvées mais non utilisées : un blog militant (texte de la lettre de Marchais, daté de façon erronée), un témoignage militant sur Vitry, et un site d'extrême droite (écarté d'office).

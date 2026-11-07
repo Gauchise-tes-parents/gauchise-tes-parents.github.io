@@ -1,0 +1,186 @@
+{
+  "id": "hebergement-migrants-impots-locaux",
+  "type": "idee_recue",
+  "affirmation": "Les communes paient avec nos impôts locaux l'hébergement des migrants.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et finances publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "impots locaux",
+    "hebergement des migrants",
+    "centre de migrants",
+    "cada",
+    "centre d accueil",
+    "commune paie",
+    "mairie paie les migrants",
+    "taxe fonciere migrants",
+    "huda"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non pour l'essentiel : l'hébergement des demandeurs d'asile (CADA, HUDA, CAES) est financé par l'État, sur le budget « Immigration, asile et intégration », pour environ 958 millions d'euros en 2026 et 111 855 places. Les communes supportent toutefois certains coûts indirects, comme la scolarisation des enfants accueillis, et les départements financent l'essentiel de la prise en charge des mineurs non accompagnés, avec une aide forfaitaire de l'État.",
+  "contexte": "L'ouverture d'un centre d'accueil dans une commune suscite souvent des inquiétudes sur les impôts locaux.",
+  "explication": "L'accueil des demandeurs d'asile relève de l'État, qui finance les centres et l'allocation pour demandeur d'asile, gérée par l'Ofii. Les collectivités gardent leurs compétences habituelles : les communes pour les écoles, les départements pour la protection de l'enfance.",
+  "faits": [
+    {
+      "fait": "Selon l'Assemblée nationale, le programme 303 de l'État finance l'hébergement des demandeurs d'asile pour 957,6 M€ de crédits de paiement en 2026, avec 111 855 places, dont 61 903 en CADA.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "L'hébergement est payé par le budget de l'État, pas par les impôts locaux.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "957,6 M€"
+    },
+    {
+      "fait": "Selon le Sénat, le coût de l'asile est d'au moins 1,85 Md€ en 2025, dont environ la moitié pour l'hébergement ; ce chiffre exclut les dépenses de santé, de scolarité et d'aide sociale.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le coût est réel et principalement à la charge de l'État.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "1,85 Md€"
+    },
+    {
+      "fait": "Selon une question au Sénat, la commune de Rouvray a supporté « plus de 92 000 euros » de frais de scolarité pour les enfants d'un CADA depuis 2016 ; le Gouvernement répond que ces coûts sont pris en compte dans la dotation globale de fonctionnement.",
+      "periode": "2016-2022",
+      "perimetre": "Rouvray",
+      "explication": "Les communes paient bien certains coûts indirects, compensés seulement en partie.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "92 000 €"
+    },
+    {
+      "fait": "Selon le Gouvernement, les départements assurent l'accueil des mineurs non accompagnés au titre de l'aide sociale à l'enfance, avec des contributions forfaitaires de l'État (500 € par évaluation, 90 € par jour de mise à l'abri pendant 14 jours au plus).",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Pour les mineurs isolés, ce sont surtout les départements qui paient.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "500 €"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : l'hébergement des demandeurs d'asile est payé par l'État (environ 958 millions d'euros en 2026), pas par les impôts locaux. Les communes paient en revanche la scolarisation des enfants accueillis, et les départements les mineurs isolés.",
+    "moyen": "Les centres d'accueil des demandeurs d'asile (CADA, HUDA, CAES) sont financés par l'État, sur le budget « Immigration, asile et intégration » : environ 958 millions d'euros en 2026 pour près de 112 000 places. Ce n'est pas la commune qui paie l'hébergement.\n\nIl y a deux nuances honnêtes : une commune scolarise les enfants accueillis, ce qui a un coût (92 000 € en six ans pour une petite commune), compensé en partie par la dotation de l'État. Et les départements prennent en charge les mineurs non accompagnés, avec une aide forfaitaire de l'État.",
+    "detaille": "L'accueil des demandeurs d'asile est une compétence de l'État. Le programme 303 du budget finance l'hébergement en centres d'accueil (CADA), en hébergement d'urgence (HUDA) et en centres d'accueil et d'examen des situations (CAES) : 957,6 millions d'euros de crédits de paiement en 2026, pour 111 855 places. L'allocation pour demandeur d'asile est gérée par l'Ofii. Le Sénat estime le coût total de l'asile à au moins 1,85 milliard d'euros en 2025, dont la moitié environ pour l'hébergement.\n\nLes collectivités ne sont pas pour autant hors du circuit. Une commune qui accueille un CADA scolarise les enfants : à Rouvray, plus de 92 000 euros depuis 2016, que l'État dit prendre en compte dans la dotation globale de fonctionnement ; la cantine et les fournitures restent à la charge des familles ou du gestionnaire. Les départements, eux, financent l'accueil des mineurs non accompagnés au titre de l'aide sociale à l'enfance, avec des contributions forfaitaires de l'État.\n\nDire que « nos impôts locaux paient l'hébergement des migrants » est donc inexact. La vraie question est celle d'une compensation suffisante pour les petites communes et les départements, comme l'a demandé la sénatrice qui a interrogé le Gouvernement sur Rouvray.",
+    "empathie": "Je comprends l'inquiétude quand un centre ouvre près de chez soi et qu'on se demande qui va payer. L'hébergement lui-même est financé par l'État ; la commune paie surtout l'école des enfants, comme pour tout enfant qui arrive."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Notre mairie a voté une subvention à une association d'aide aux migrants.",
+      "reponse": "C'est possible, mais c'est un choix local, distinct du financement de l'hébergement par l'État."
+    },
+    {
+      "objection": "Les impôts de l'État, ce sont aussi nos impôts.",
+      "reponse": "C'est vrai : le coût existe, environ un milliard pour l'hébergement ; mais il n'augmente pas les impôts locaux de la commune d'accueil."
+    }
+  ],
+  "questions": [
+    "Sais-tu qui finance un centre d'accueil de demandeurs d'asile ?",
+    "Que penserais-tu d'une meilleure compensation de l'État pour les écoles des communes d'accueil ?"
+  ],
+  "limites": [
+    "Le coût total des mineurs non accompagnés pour les départements n'a pas été chiffré par les sources lues.",
+    "Le cofinancement éventuel de l'hébergement d'urgence de droit commun par certaines collectivités n'a pas été vérifié."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport sur le projet de loi de finances pour 2026, annexe n° 27 « Immigration, asile et intégration »",
+      "organisme": "Assemblée nationale, commission des finances (Charles Rodwell)",
+      "date_publication": "23 octobre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b1996-tiii-a27_rapport-fond.pdf",
+      "passage": "L'action 02 du programme 303 « finance l'accueil et l'hébergement des demandeurs d'asile » : 957,6 M€ de crédits de paiement pour l'hébergement (CADA, HUDA, CAES) en 2026 ; le dispositif national d'accueil est programmé à 111 855 places, dont 61 903 en CADA ; l'allocation pour demandeur d'asile est gérée par l'Ofii.",
+      "pertinence": "Rapport parlementaire sur le budget de l'État.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Asile : faire la lumière sur les coûts, redéfinir les protections (l'essentiel)",
+      "organisme": "Sénat, commission des finances (Marie-Carole Ciuntu)",
+      "date_publication": "8 juillet 2026",
+      "url": "https://www.senat.fr/fileadmin/cru-1783325159/Commissions/Finances/2025-2026/Controles/Essentiel_post-commission_couts_de_l_asile.pdf",
+      "passage": "Coût de l'asile estimé à au moins 1,85 Md€ en 2025, hors santé, scolarité, aide sociale et police, dont environ la moitié pour l'hébergement ; dépenses du dispositif national d'accueil : 1,1 Md€ en 2024 (+48 % depuis 2019). Le taux global de protection, CNDA incluse, « atteint désormais 52,1 % en 2025 » ; les obligations de quitter le territoire visant des déboutés ne sont exécutées qu'à 5,5 % en moyenne sur 2019-2025.",
+      "pertinence": "Rapport parlementaire de contrôle (rapporteure LR).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question orale n° 0104S (frais de scolarité des enfants hébergés en CADA) et réponse du Gouvernement",
+      "organisme": "Sénat / Gouvernement",
+      "date_publication": "6 octobre 2022",
+      "url": "https://www.senat.fr/questions/base/2022/qSEQ22070104S.html",
+      "passage": "La commune de Rouvray supporte les frais de scolarité des enfants du CADA : « plus de 92 000 euros » depuis 2016 ; le Gouvernement répond que ces coûts sont « prises en compte dans la répartition de la dotation globale de fonctionnement (DGF) » ; la cantine et les fournitures sont à la charge des parents ou du gestionnaire du CADA.",
+      "pertinence": "Réponse officielle du Gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 10787 (mineurs non accompagnés) et réponse du Gouvernement",
+      "organisme": "Sénat / Gouvernement",
+      "date_publication": "2 mai 2024",
+      "url": "https://www.senat.fr/questions/base/2024/qSEQ240310787.html",
+      "passage": "Les départements assument l'accueil des mineurs non accompagnés au titre de l'aide sociale à l'enfance ; l'État verse des contributions forfaitaires (500 € par évaluation, 90 € par jour de mise à l'abri pendant 14 jours au plus, puis 20 € par jour pendant 9 jours) et une aide exceptionnelle de 6 000 € par jeune supplémentaire (17,562 M€ en 2023).",
+      "pertinence": "Réponse officielle du Gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les communes supportent des coûts de scolarité qui ne sont compensés qu'indirectement.",
+    "Les départements financent l'essentiel de la prise en charge des mineurs non accompagnés."
+  ],
+  "publics": {
+    "convaincus": "Les centres pour demandeurs d'asile sont payés par l'État, près d'un milliard d'euros en 2026, pas par ta taxe foncière. La commune paie l'école des enfants, comme pour n'importe quel enfant qui s'installe. Si tu veux une meilleure compensation pour les petites communes, c'est une demande légitime, à adresser à l'État.",
+    "indecis": "C'est normal de se demander qui paie quand un centre ouvre dans sa commune. L'hébergement des demandeurs d'asile est financé par l'État ; la commune assume surtout la scolarisation des enfants, en partie compensée. Les départements paient, eux, la prise en charge des mineurs isolés."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "services_publics"
+    ],
+    "mecanismes": "L’inquiétude fiscale locale est mobilisée contre l’ouverture de centres d’accueil.",
+    "consequences": "Des communes refusent l’accueil, et les personnes se retrouvent à la rue.",
+    "democratie": "L’accueil doit être organisé avec les élus locaux et compensé équitablement par l’État.",
+    "propositions": [
+      "Compenser intégralement les coûts de scolarité pour les communes d’accueil.",
+      "Renforcer la participation de l’État à la prise en charge des mineurs isolés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les communes paient certains coûts indirects, et les départements financent l’essentiel de la prise en charge des mineurs isolés.",
+        "integration": "Le dire honnêtement, et défendre une meilleure compensation."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "fiscalite",
+    "cout",
+    "heberg_asile"
+  ],
+  "repond_a": [
+    {
+      "id": "heberg_asile",
+      "label": "Financement de l’hébergement des demandeurs d’asile"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "taxer",
+    "isf",
+    "tva",
+    "cout",
+    "couts",
+    "une fortune"
+  ]
+}

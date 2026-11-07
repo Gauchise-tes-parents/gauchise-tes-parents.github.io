@@ -162,10 +162,6 @@
       }
     ]
   },
-  "concepts": [
-    "services_publics",
-    "genre_ecole"
-  ],
   "repond_a": [
     {
       "id": "genre_ecole",
@@ -180,5 +176,9 @@
     "evars",
     "education a la vie affective",
     "cours d education sexuelle"
+  ],
+  "concepts": [
+    "services_publics",
+    "genre_ecole"
   ]
 }

@@ -163,12 +163,6 @@
       }
     ]
   },
-  "concepts": [
-    "pouvoir_achat",
-    "renovation",
-    "europe",
-    "thermique_2035"
-  ],
   "repond_a": [
     {
       "id": "thermique_2035",
@@ -189,5 +183,11 @@
     "dpe",
     "isoler",
     "isolation"
+  ],
+  "concepts": [
+    "pouvoir_achat",
+    "renovation",
+    "europe",
+    "thermique_2035"
   ]
 }

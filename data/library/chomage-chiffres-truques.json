@@ -1,0 +1,184 @@
+{
+  "id": "chomage-chiffres-truques",
+  "type": "idee_recue",
+  "affirmation": "Les chiffres du chômage sont truqués : en réalité, il y en aurait six millions.",
+  "volet": "social",
+  "sous_theme": "Chômage",
+  "rubriques": [],
+  "mots_cles": [
+    "chiffres du chomage",
+    "chomage truque",
+    "chiffres truques",
+    "vrai chiffre du chomage",
+    "categories a b c",
+    "chomage bit",
+    "halo du chomage"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les chiffres ne sont pas truqués : deux mesures officielles, publiques, coexistent. Au sens du Bureau international du travail, l'Insee compte 2,7 millions de chômeurs (8,3 %) au deuxième trimestre 2026. France Travail compte 5,85 millions d'inscrits en catégories A, B et C, et 6,59 millions avec les catégories D et E, mais beaucoup travaillent en partie ou ne sont pas disponibles. Le chômage officiel sous-estime pourtant le manque d'emploi : 1,9 million de personnes forment le « halo » autour du chômage.",
+  "contexte": "L'écart entre le taux de chômage de l'Insee et le nombre d'inscrits à France Travail nourrit l'idée d'une manipulation ; l'inscription automatique des allocataires du RSA depuis 2025 a encore brouillé les repères.",
+  "explication": "Un chômeur au sens du BIT est sans emploi pendant une semaine donnée, disponible sous 15 jours et en recherche active. Un inscrit à France Travail peut avoir travaillé dans le mois (catégories B et C) ou ne pas être disponible (D, E). Les deux mesures ne comptent pas les mêmes personnes.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, le taux de chômage au sens du BIT atteint 8,3 % au deuxième trimestre 2026, soit 2 677 000 chômeurs, en hausse de 261 000 sur un an.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le chiffre officiel montre une hausse : il ne masque pas la dégradation.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "8,3 %"
+    },
+    {
+      "fait": "Selon l'Insee, environ 1,9 million de personnes forment le « halo autour du chômage » : elles souhaitent travailler sans être comptées comme chômeuses.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le manque d'emploi dépasse le seul chiffre du chômage.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,9 million"
+    },
+    {
+      "fait": "Selon France Travail et la Dares, au troisième trimestre 2026, 3 353 400 personnes sont inscrites en catégorie A, 5 847 500 en catégories A, B, C et 6 587 600 en catégories A à E.",
+      "periode": "2026",
+      "perimetre": "France hors Mayotte",
+      "explication": "Le chiffre de six millions correspond aux inscrits, pas aux chômeurs sans aucun emploi.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "5,85 millions"
+    },
+    {
+      "fait": "Selon France Travail, les catégories B et C regroupent des personnes qui ont travaillé dans le mois, moins ou plus de 78 heures.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Une partie des inscrits a un emploi, souvent précaire.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Insee, en 2017, seuls 56 % des inscrits en catégorie A étaient chômeurs au sens du BIT, et 22 % des chômeurs BIT n'étaient pas inscrits à Pôle emploi.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Les deux mesures se recoupent seulement en partie.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "56 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : il y a deux chiffres officiels et publics. 2,7 millions de chômeurs au sens du BIT (Insee, 2026) et 5,85 millions d'inscrits à France Travail en catégories A, B, C, dont beaucoup travaillent en partie.",
+    "moyen": "Il n'y a pas de trucage, mais deux mesures. L'Insee compte 2,7 millions de chômeurs au sens international (8,3 %) : des personnes sans aucun emploi, disponibles et qui cherchent. France Travail compte 5,85 millions d'inscrits en catégories A, B et C, dont beaucoup ont travaillé un peu dans le mois.\n\nLe vrai problème, c'est que le chômage officiel ne dit pas tout : 1,9 million de personnes voudraient travailler sans être comptées, et une partie des inscrits enchaîne les petits boulots.",
+    "detaille": "L'Insee mesure le chômage au sens du Bureau international du travail par une enquête : est chômeur celui qui n'a pas travaillé du tout pendant la semaine de référence, est disponible sous quinze jours et cherche activement. Au deuxième trimestre 2026, cela représente 2,7 millions de personnes, 8,3 % des actifs, en hausse de 261 000 sur un an.\n\nFrance Travail compte, lui, les inscrits : 3,35 millions en catégorie A (sans emploi dans le mois), 5,85 millions en ajoutant les catégories B et C (activité réduite), 6,59 millions avec les catégories D et E (personnes non immédiatement disponibles). Les deux mesures se recoupent mal : en 2017, seuls 56 % des inscrits en catégorie A étaient chômeurs au sens du BIT, et 22 % des chômeurs BIT n'étaient pas inscrits.\n\nAucun des deux chiffres n'est truqué ; ils sont publiés et documentés. Mais le chiffre de l'Insee, strict, ne mesure pas tout le sous-emploi : 1,9 million de personnes sont dans le « halo » du chômage, et les inscrits en catégories B et C n'ont souvent qu'une activité réduite. La loi pour le plein emploi, qui inscrit automatiquement les allocataires du RSA depuis 2025, modifie aussi les séries. Le débat utile porte sur la précarité et le sous-emploi, pas sur une manipulation.",
+    "empathie": "Je comprends le doute quand on entend 2,7 millions d'un côté et six millions de l'autre, surtout quand on connaît autour de soi des gens qui galèrent. Les deux chiffres sont vrais, ils ne comptent pas la même chose : et ensemble, ils montrent que le manque d'emploi est plus large que le seul taux de chômage."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On radie les chômeurs pour faire baisser les chiffres.",
+      "reponse": "Les radiations jouent sur le nombre d'inscrits, pas sur le chômage mesuré par l'enquête de l'Insee ; leur volume n'a pas été vérifié ici."
+    },
+    {
+      "objection": "Quelqu'un qui travaille deux heures n'est pas chômeur, c'est absurde.",
+      "reponse": "C'est la définition internationale ; c'est pourquoi il faut aussi regarder le halo et les catégories B et C."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle différence il y a entre un chômeur au sens de l'Insee et un inscrit à France Travail ?",
+    "Que penses-tu des personnes qui travaillent quelques heures par mois et restent inscrites ?"
+  ],
+  "limites": [
+    "Le taux de chômage du troisième trimestre 2026 n'était pas encore publié à la date de la fiche.",
+    "Le volume des radiations de France Travail n'a pas été vérifié dans une source officielle.",
+    "La comparaison entre inscrits et chômeurs BIT date de 2017."
+  ],
+  "sources": [
+    {
+      "titre": "Au deuxième trimestre 2026, le taux de chômage augmente de 0,2 point et atteint 8,3 % (Informations rapides n° 192)",
+      "organisme": "Insee",
+      "date_publication": "7 août 2026",
+      "url": "https://www.insee.fr/fr/statistiques/9032359",
+      "passage": "Taux de chômage au sens du BIT : 8,3 % de la population active (France, Mayotte incluse), soit 2 677 000 chômeurs ; +261 000 sur un an. Halo autour du chômage : environ 1,9 million de personnes, soit 4,4 % des 15-64 ans. Taux d'emploi : 69,0 %.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Inscrits à France Travail au 3e trimestre 2026",
+      "organisme": "France Travail / Dares (statistiques du marché du travail)",
+      "date_publication": "28 octobre 2026",
+      "url": "https://www.francetravail.org/statistiques-analyses/breve-chiffres-stmt/inscrits-a-france-travail-au-3e-trimestre-2026.html?type=article",
+      "passage": "Catégorie A : 3 353 400 ; catégories B et C : 2 494 000 ; catégories A, B, C : 5 847 500 ; catégories A à E : 6 587 600 (France hors Mayotte). Depuis janvier 2025, la loi pour le plein emploi inscrit automatiquement les allocataires du RSA et les jeunes suivis par les missions locales, avec deux nouvelles catégories F (597 000) et G (386 100).",
+      "pertinence": "Statistique publique (opérateur et service statistique du ministère du Travail).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Comment sont calculés les chiffres du chômage ?",
+      "organisme": "France Travail (ex-Pôle emploi)",
+      "date_publication": "23 mai 2019",
+      "url": "https://www.francetravail.org/accueil/actualites/infographies/comment-sont-calcules-les-chiffres-du-chomage.html?type=article",
+      "passage": "Catégorie A : personnes sans emploi pendant le mois ; catégorie B : activité réduite de 78 heures ou moins ; catégorie C : plus de 78 heures. Un chômeur au sens du BIT est sans emploi pendant la semaine de référence, disponible sous 15 jours et en recherche active. « Un chômeur au sens du BIT n'est donc pas forcément inscrit à Pôle emploi, et l'inverse est aussi vrai. »",
+      "pertinence": "Opérateur public (2019).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Appariement entre l'enquête Emploi et le fichier historique de Pôle emploi sur la période 2012-2017 (document de travail F1904)",
+      "organisme": "Insee",
+      "date_publication": "2 juillet 2019",
+      "url": "https://www.insee.fr/fr/statistiques/4182193",
+      "passage": "En 2017, 2,6 millions de chômeurs BIT contre 3,4 millions d'inscrits en catégorie A ; 56 % des inscrits en catégorie A sont chômeurs au sens du BIT, 20 % dans le halo et 9 % en emploi ; « 22 % des chômeurs au sens du BIT en 2017 ne sont pas inscrits à Pôle emploi ».",
+      "pertinence": "Statistique publique (2019).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données trimestrielles de l'Insee et de France Travail.",
+  "objections_legitimes": [
+    "Le chômage au sens du BIT, strict, ne mesure pas tout le sous-emploi : le halo représente 1,9 million de personnes.",
+    "Les changements d'inscription (loi pour le plein emploi, sanctions) rendent les séries de France Travail plus difficiles à lire."
+  ],
+  "publics": {
+    "convaincus": "Personne ne cache rien : l'Insee publie 2,7 millions de chômeurs, France Travail 5,85 millions d'inscrits, et les deux chiffres sont sur Internet. La différence, c'est que beaucoup d'inscrits travaillent quelques heures. Si tu veux dénoncer quelque chose, dénonce la précarité : là, tu as raison.",
+    "indecis": "Les deux chiffres sont vrais : 2,7 millions de personnes sans aucun emploi selon la définition internationale, près de 6 millions d'inscrits à France Travail, dont beaucoup en emploi précaire. Le taux officiel ne mesure pas tout : 1,9 million de personnes voudraient travailler sans être comptées. C'est la précarité qu'il faut regarder."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "democratie"
+    ],
+    "mecanismes": "L’accusation de trucage détourne l’attention de la vraie question : la précarité et le sous-emploi.",
+    "consequences": "Des millions de personnes en activité réduite ou dans le halo restent invisibles dans le débat.",
+    "democratie": "La statistique publique doit mesurer toutes les formes de manque d’emploi.",
+    "propositions": [
+      "Publier et commenter systématiquement les indicateurs de sous-emploi et de halo.",
+      "Lutter contre les contrats courts et le temps partiel subi."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les inscriptions automatiques et les sanctions ont modifié les séries de France Travail.",
+        "integration": "Le reconnaître, tout en expliquant que l’enquête de l’Insee n’en dépend pas."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "statistiques"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "pourcentage",
+    "insee",
+    "donnees"
+  ]
+}

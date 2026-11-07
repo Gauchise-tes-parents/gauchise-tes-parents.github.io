@@ -157,11 +157,6 @@
     "Les mesures d'éloignement, en particulier les OQTF, sont très peu exécutées.",
     "Protéger les victimes et prévenir la récidive est une exigence légitime."
   ],
-  "concepts": [
-    "immigration",
-    "expulsion",
-    "justice"
-  ],
   "repond_a": [
     {
       "id": "execution_eloignement",
@@ -186,5 +181,10 @@
     "virer",
     "dehors",
     "remigration"
+  ],
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "justice"
   ]
 }

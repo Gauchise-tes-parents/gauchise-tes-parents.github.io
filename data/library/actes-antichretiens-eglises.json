@@ -165,10 +165,6 @@
       }
     ]
   },
-  "concepts": [
-    "laicite",
-    "antichretien"
-  ],
   "repond_a": [
     {
       "id": "antichretien",
@@ -178,5 +174,9 @@
   "ne_repond_pas": [],
   "synonymes": [
     "laicite"
+  ],
+  "concepts": [
+    "laicite",
+    "antichretien"
   ]
 }

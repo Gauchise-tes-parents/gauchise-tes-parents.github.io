@@ -138,12 +138,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "patriotisme",
-    "fiscalite",
-    "heritage"
-  ],
   "repond_a": [
     {
       "id": "heritage",
@@ -164,5 +158,11 @@
     "drapeau",
     "marseillaise",
     "de droite"
+  ],
+  "concepts": [
+    "emploi",
+    "patriotisme",
+    "fiscalite",
+    "heritage"
   ]
 }

@@ -148,6 +148,10 @@
     "dumping",
     "baisser les salaires"
   ],
+  "publics": {
+    "convaincus": "Fais le calcul : le RSA pour une personne seule, c'est 651,69 € par mois depuis avril 2026. Un SMIC à temps plein, c'est environ 1 443 € net. Le travail rapporte donc plus du double, sans même compter la prime d'activité.",
+    "indecis": "On entend souvent que le RSA vaudrait un salaire ; les montants officiels disent autre chose. Une personne seule touche 651,69 € par mois au RSA, contre environ 1 443 € net au SMIC à temps plein. Si le SMIC paraît insuffisant pour vivre, c'est un argument pour augmenter les salaires, pas pour baisser le RSA."
+  },
   "concepts": [
     "emploi",
     "salaires",

@@ -138,10 +138,6 @@
       }
     ]
   },
-  "concepts": [
-    "dette",
-    "retraite"
-  ],
   "repond_a": [
     {
       "id": "retraite_age",
@@ -158,5 +154,9 @@
     "argent magique",
     "n a plus les moyens",
     "reforme des retraites"
+  ],
+  "concepts": [
+    "dette",
+    "retraite"
   ]
 }

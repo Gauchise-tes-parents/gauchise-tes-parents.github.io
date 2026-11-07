@@ -132,12 +132,6 @@
     "Des personnes sous mesure d'éloignement non exécutée commettent parfois de nouvelles infractions.",
     "Les garanties juridiques allongent les procédures."
   ],
-  "concepts": [
-    "immigration",
-    "delinquance",
-    "expulsion",
-    "justice"
-  ],
   "repond_a": [
     {
       "id": "execution_eloignement",
@@ -162,5 +156,11 @@
     "peur de sortir",
     "pas en securite",
     "criminalite"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "expulsion",
+    "justice"
   ]
 }

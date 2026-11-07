@@ -127,12 +127,6 @@
       }
     ]
   },
-  "concepts": [
-    "prestations",
-    "secu_sociale",
-    "vitale",
-    "fraude"
-  ],
   "repond_a": [
     {
       "id": "cartes_vitale",
@@ -153,5 +147,11 @@
     "aide medicale",
     "qui profitent",
     "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "secu_sociale",
+    "vitale",
+    "fraude"
   ]
 }

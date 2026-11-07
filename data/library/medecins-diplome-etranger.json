@@ -163,13 +163,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "origine",
-    "europe",
-    "algerie",
-    "medecins_etrangers"
-  ],
   "repond_a": [
     {
       "id": "medecins_etrangers",
@@ -187,5 +180,12 @@
     "bruxelles",
     "union europeenne",
     "padhue"
+  ],
+  "concepts": [
+    "immigration",
+    "origine",
+    "europe",
+    "algerie",
+    "medecins_etrangers"
   ]
 }

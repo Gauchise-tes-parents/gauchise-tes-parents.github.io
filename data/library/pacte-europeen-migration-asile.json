@@ -156,12 +156,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "solidarite",
-    "europe",
-    "pacte_ue_asile"
-  ],
   "repond_a": [
     {
       "id": "pacte_ue_asile",
@@ -182,5 +176,11 @@
     "pas les moyens d aider",
     "payer pour tout le monde",
     "on aide trop"
+  ],
+  "concepts": [
+    "immigration",
+    "solidarite",
+    "europe",
+    "pacte_ue_asile"
   ]
 }

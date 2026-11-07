@@ -165,12 +165,6 @@
       }
     ]
   },
-  "concepts": [
-    "salaires",
-    "patriotisme",
-    "salaire_minimum",
-    "fn_parti"
-  ],
   "repond_a": [
     {
       "id": "rn_salaires",
@@ -195,5 +189,11 @@
     "fierte",
     "haine de la france",
     "drapeau"
+  ],
+  "concepts": [
+    "salaires",
+    "patriotisme",
+    "salaire_minimum",
+    "fn_parti"
   ]
 }

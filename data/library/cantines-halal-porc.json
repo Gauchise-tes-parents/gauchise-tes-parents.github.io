@@ -1,0 +1,178 @@
+{
+  "id": "cantines-halal-porc",
+  "type": "idee_recue",
+  "affirmation": "Les cantines scolaires imposent le halal et suppriment le porc.",
+  "volet": "droits",
+  "sous_theme": "Laïcité",
+  "rubriques": [],
+  "mots_cles": [
+    "cantine",
+    "cantines",
+    "halal",
+    "menus sans porc",
+    "menu sans porc",
+    "menus de substitution",
+    "porc a la cantine",
+    "repas vegetarien",
+    "chalon sur saone"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "Aucune règle n'impose le halal à la cantine. Le Conseil d'État a jugé en 2020 qu'il n'est « ni obligatoire ni interdit » pour une commune de proposer des repas différenciés, comme un menu sans porc : c'est un choix local. Le cas le plus connu va dans l'autre sens : à Chalon-sur-Saône, c'est le maire qui a supprimé en 2015 les menus de substitution. Le repas végétarien hebdomadaire vient de la loi EGalim, pour des raisons de nutrition et d'environnement.",
+  "contexte": "Des rumeurs récurrentes affirment que des écoles serviraient de la viande halal à tous les enfants ou interdiraient le porc ; elles s'appuient souvent sur des cas locaux déformés.",
+  "explication": "La cantine est un service public facultatif organisé par les communes. Chacune décide de ses menus, dans le respect de la loi (nutrition, menu végétarien hebdomadaire). Proposer une alternative au porc est permis, pas obligatoire ; servir de la viande halal à tous ne repose sur aucune règle nationale.",
+  "faits": [
+    {
+      "fait": "Le Conseil d'État juge qu'il « n'est ni obligatoire ni interdit » pour les collectivités de proposer aux élèves des repas différenciés, et qu'elles doivent veiller à ce que tous les enfants puissent accéder à ce service public.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Le menu sans porc est une simple faculté laissée aux communes.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "À Chalon-sur-Saône, des menus de substitution existaient depuis 1984 ; le maire les a supprimés en 2015 et a annoncé qu'il ne les rétablirait pas.",
+      "periode": "1984-2020",
+      "perimetre": "Chalon-sur-Saône",
+      "explication": "Le cas emblématique est une suppression du menu sans porc, pas une suppression du porc.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la CNCDH, « la cantine n'est pas obligée de fournir un repas de substitution lorsqu'il y a de la viande de porc au menu », et les menus confessionnels ne sont « ni un droit pour les usagers ni une obligation pour les collectivités ».",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Rien n'impose de menus religieux.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les cantines doivent servir « un repas végétarien hebdomadaire », conformément à la loi EGalim.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Le repas sans viande est une mesure nutritionnelle et environnementale, pas religieuse.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : aucune règle n'impose le halal. Le Conseil d'État juge le menu sans porc « ni obligatoire ni interdit » : c'est un choix de chaque commune. Le repas végétarien hebdomadaire vient de la loi EGalim.",
+    "moyen": "Chaque commune décide des menus de sa cantine. Le Conseil d'État l'a rappelé en 2020 : proposer un menu sans porc n'est « ni obligatoire ni interdit ». Rien n'impose de servir de la viande halal.\n\nLe cas le plus connu, à Chalon-sur-Saône, va même dans l'autre sens : le maire a supprimé en 2015 les menus de substitution qui existaient depuis 1984. Quant au repas végétarien hebdomadaire, il vient de la loi EGalim, pour la santé et l'environnement.",
+    "detaille": "La restauration scolaire est un service public facultatif, organisé par les communes pour les écoles. Elles choisissent les menus, dans le cadre des règles nationales de nutrition.\n\nEn 2020, le Conseil d'État a tranché la question des menus sans porc à propos de Chalon-sur-Saône, où le maire avait supprimé en 2015 des menus de substitution proposés depuis 1984. Il a jugé qu'il n'est « ni obligatoire ni interdit » de proposer des repas différenciés, et annulé la délibération seulement parce qu'elle reposait uniquement sur la laïcité et la neutralité, sans tenir compte de l'accès de tous les enfants au service.\n\nLa CNCDH rappelle que les menus confessionnels ne sont ni un droit ni une obligation. Aucune règle nationale n'impose de viande halal. Le repas végétarien hebdomadaire, imposé par la loi EGalim, répond à des objectifs de nutrition et d'environnement, et il convient à tout le monde. Une commune peut proposer une alternative au porc pour que tous les enfants mangent : c'est un choix pratique, pas une islamisation.",
+    "empathie": "Je comprends que ces histoires de cantine touchent, parce qu'il s'agit de nos enfants et de traditions auxquelles on tient. Mais aucune loi n'impose le halal : chaque commune choisit ses menus, et un menu sans porc est juste une option pour que tous les enfants mangent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Dans l'école de mon neveu, il n'y a plus de porc.",
+      "reponse": "C'est possible dans une commune donnée, mais ce n'est imposé par aucune règle ; il faut poser la question à la mairie."
+    },
+    {
+      "objection": "Un menu sans porc, c'est céder à une religion.",
+      "reponse": "C'est un repas de plus proposé pour que tous les enfants mangent ; personne n'est privé de porc."
+    }
+  ],
+  "questions": [
+    "Sais-tu qui décide des menus de la cantine de ta commune ?",
+    "Est-ce qu'un repas végétarien par semaine te paraît être une mesure religieuse ?"
+  ],
+  "limites": [
+    "Aucune statistique nationale sur les menus des cantines n'a été lue.",
+    "Le texte de la loi EGalim n'a pas été lu directement sur Légifrance."
+  ],
+  "sources": [
+    {
+      "titre": "Menus de substitution dans les cantines scolaires (commune de Chalon-sur-Saône) — communiqué",
+      "organisme": "Conseil d'État",
+      "date_publication": "11 décembre 2020",
+      "url": "https://conseil-etat.fr/Media/actualites/documents/2020/12-decembre/cp-menus-de-substitution",
+      "passage": "« il n'est ni obligatoire ni interdit pour les collectivités territoriales de proposer aux élèves des repas différenciés » ; elles doivent veiller à ce que « tous les enfants puissent accéder à ce service public ». La délibération de 2015 supprimant les menus de substitution est annulée parce qu'elle n'était fondée que sur les principes de laïcité et de neutralité.",
+      "pertinence": "Communiqué de la plus haute juridiction administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposer des menus sans porc à la cantine ne contrevient pas à la laïcité, juge le Conseil d'État (dépêche AFP)",
+      "organisme": "AFP (revue de presse de l'académie de Normandie)",
+      "date_publication": "11 décembre 2020",
+      "url": "https://media.ac-normandie.fr/-/communication/revue-presse/2020/12/14/AFP_nat_ok_20201211_Proposer%20des%20menus%20sans%20porc%20%e0%20la%20cantine%20ne%20contrevient%20pas%20%e0%20la%20la%efcit%e9,%20juge%20le%20Conseil%20d'%c9tat.PDF",
+      "passage": "À Chalon-sur-Saône, des menus de substitution existaient depuis 1984 ; le maire (LR) les a supprimés en 2015 et déclare : « Je ne rétablirai pas les menus de substitution dans les cantines scolaires de Chalon ». Les juges ne lui imposent pas de les rétablir.",
+      "pertinence": "Dépêche d'agence de presse.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Génération Laïcité — La laïcité en pratique pour les collégiens (questions-réponses)",
+      "organisme": "Commission nationale consultative des droits de l'homme (CNCDH)",
+      "date_publication": "2017 (fichier mis en ligne en octobre 2023)",
+      "url": "https://www.cncdh.fr/sites/default/files/2023-10/Questionsr%C3%A9ponses%20g%C3%A9n%C3%A9ration%20laicit%C3%A9%20V2.pdf",
+      "passage": "La cantine est un « service public administratif facultatif » ; « la cantine n'est pas obligée de fournir un repas de substitution lorsqu'il y a de la viande de porc au menu » ; selon une circulaire de 2011, les menus confessionnels ne constituent « ni un droit pour les usagers ni une obligation pour les collectivités ».",
+      "pertinence": "Autorité administrative indépendante.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Lancement du repas végétarien hebdomadaire dans les cantines scolaires",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "31 octobre 2019",
+      "url": "https://www.banquedesterritoires.fr/lancement-du-repas-vegetarien-hebdomadaire-par-semaine-dans-les-cantines-scolaires",
+      "passage": "Les cantines scolaires doivent servir « un repas végétarien hebdomadaire », « conformément à ce qui est prévu par la loi Egalim » (expérimentation lancée à l'automne 2019).",
+      "pertinence": "Média des collectivités (Caisse des dépôts).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Certaines communes proposent effectivement des alternatives au porc ; c'est un choix local qui peut être débattu au conseil municipal.",
+    "Aucune statistique nationale sur les menus proposés n'a été trouvée pour cette fiche."
+  ],
+  "publics": {
+    "convaincus": "Aucune loi n'impose le halal à la cantine, et le Conseil d'État dit que le menu sans porc n'est « ni obligatoire ni interdit ». Le cas le plus célèbre, Chalon-sur-Saône, c'est un maire qui a supprimé le menu sans porc. Le repas végétarien vient de la loi EGalim, pour la santé.",
+    "indecis": "Les menus de cantine sont décidés par chaque commune. Certaines proposent une alternative au porc pour que tous les enfants mangent, d'autres non : les deux sont légaux. Rien n'impose de viande halal, et le repas végétarien hebdomadaire est une mesure nutritionnelle prévue par la loi."
+  },
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "egalite",
+      "libertes"
+    ],
+    "mecanismes": "Des choix locaux et pratiques sont présentés comme une islamisation imposée, pour nourrir une peur identitaire.",
+    "consequences": "Des enfants risquent d’être privés de cantine quand une commune supprime les alternatives par principe.",
+    "democratie": "La laïcité protège la liberté de chacun ; elle n’oblige pas à exclure des enfants d’un service public.",
+    "propositions": [
+      "Proposer des menus variés, dont un végétarien, accessibles à tous les enfants.",
+      "Rendre la cantine accessible à tous, notamment par la tarification sociale."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certaines communes proposent des alternatives au porc, ce qui reste un choix local discutable.",
+        "integration": "Le reconnaître, et rappeler que c’est une option, pas une obligation."
+      }
+    ]
+  },
+  "concepts": [
+    "islam",
+    "laicite",
+    "cantine"
+  ],
+  "repond_a": [
+    {
+      "id": "cantine",
+      "label": "Cantines, halal et porc"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "laicite",
+    "restauration scolaire",
+    "sans porc"
+  ]
+}

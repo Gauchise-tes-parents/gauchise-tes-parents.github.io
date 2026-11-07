@@ -161,12 +161,6 @@
       }
     ]
   },
-  "concepts": [
-    "patriotisme",
-    "fiscalite",
-    "fn_parti",
-    "moins_30"
-  ],
   "repond_a": [
     {
       "id": "impot_jeunes",
@@ -187,5 +181,11 @@
     "fn",
     "rn",
     "rassemblement national"
+  ],
+  "concepts": [
+    "patriotisme",
+    "fiscalite",
+    "fn_parti",
+    "moins_30"
   ]
 }

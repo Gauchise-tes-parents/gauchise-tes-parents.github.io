@@ -195,13 +195,6 @@
       }
     ]
   },
-  "concepts": [
-    "origine",
-    "delinquance",
-    "gauche",
-    "dangerosite",
-    "ultra_violence"
-  ],
   "repond_a": [
     {
       "id": "ultra_violence",
@@ -222,5 +215,12 @@
     "gauchos",
     "melenchon",
     "lfi"
+  ],
+  "concepts": [
+    "origine",
+    "delinquance",
+    "gauche",
+    "dangerosite",
+    "ultra_violence"
   ]
 }

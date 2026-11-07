@@ -1,0 +1,193 @@
+{
+  "id": "statistiques-immigres-cachees",
+  "type": "idee_recue",
+  "affirmation": "On n'a pas le droit de compter les immigrés en France, l'État cache les chiffres.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et démographie",
+  "rubriques": [],
+  "mots_cles": [
+    "statistiques ethniques",
+    "cache les chiffres",
+    "chiffres caches",
+    "nombre d immigres",
+    "chiffres de l immigration",
+    "compter les immigres"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux : l'Insee publie chaque année le nombre d'immigrés et d'étrangers, avec une série depuis 1921 (7,97 millions d'immigrés en 2025, soit 11,6 % de la population), et compte aussi les descendants d'immigrés (8,0 millions en 2024). Ce qui est interdit depuis une décision du Conseil constitutionnel de 2007, ce sont les catégories « ethno-raciales » et les variables de race ou de religion dans les fichiers administratifs, pas le comptage des immigrés.",
+  "contexte": "L'idée que l'État cacherait l'ampleur de l'immigration est très répandue ; elle se mêle au débat sur les « statistiques ethniques ».",
+  "explication": "Un immigré est une personne née étrangère à l'étranger et résidant en France ; un étranger est une personne qui n'a pas la nationalité française. Ces deux catégories, et les descendants d'immigrés, sont mesurées à partir du pays de naissance et de la nationalité, qui sont collectés par le recensement.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, la France compte en 2025 (données provisoires) 7 970 000 immigrés, soit 11,6 % de la population, et 6 297 000 étrangers, soit 9,1 %.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les chiffres sont publiés chaque année.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11,6 %"
+    },
+    {
+      "fait": "L'Insee dénombre aussi 8,0 millions de descendants d'immigrés en 2024, soit 12 % de la population vivant en logement ordinaire.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Même la « deuxième génération » est comptée.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "8,0 millions"
+    },
+    {
+      "fait": "Selon l'Insee, la décision du Conseil constitutionnel du 15 novembre 2007 interdit un référentiel ethno-racial et les variables de race ou de religion dans les fichiers administratifs, mais autorise les études sur la diversité, les discriminations et l'intégration fondées sur des données objectives.",
+      "periode": "2007-2020",
+      "perimetre": "France",
+      "explication": "L'interdiction vise la race et l'ethnie, pas l'origine migratoire.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une juriste, les traitements nécessaires aux études sur la diversité des origines « peuvent porter sur des données objectives » mais « ne sauraient [...] reposer sur l'origine ethnique ou la race ».",
+      "periode": "2007",
+      "perimetre": "France",
+      "explication": "La frontière est claire en droit.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'enquête Trajectoires et Origines (2009, puis 2019-2020) a été menée par l'Ined et l'Insee avec l'accord de la CNIL.",
+      "periode": "2019-2020",
+      "perimetre": "France",
+      "explication": "Il existe de grandes enquêtes publiques sur les origines.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : l'Insee publie chaque année le nombre d'immigrés (7,97 millions en 2025, 11,6 % de la population) et compte aussi les descendants d'immigrés. Seules les catégories « ethno-raciales » sont interdites.",
+    "moyen": "L'Insee publie chaque année le nombre d'immigrés et d'étrangers, avec une série qui remonte à 1921 : 7,97 millions d'immigrés en 2025, soit 11,6 % de la population. Il compte aussi les enfants d'immigrés : 8 millions en 2024.\n\nCe qui est interdit depuis 2007, ce sont les statistiques par « race » ou « ethnie » dans les fichiers administratifs. Mais les chercheurs peuvent étudier les origines à partir du pays de naissance, comme le fait la grande enquête Trajectoires et Origines.",
+    "detaille": "Le recensement collecte le pays de naissance et la nationalité de chaque habitant. C'est ce qui permet à l'Insee de publier une série annuelle sur les immigrés et les étrangers depuis 1921 : en 2025, 7 970 000 immigrés (11,6 % de la population) et 6 297 000 étrangers (9,1 %), contre 6 028 000 immigrés en 2014. Les descendants d'immigrés sont aussi mesurés : 8,0 millions en 2024.\n\nLe débat sur les « statistiques ethniques » porte sur autre chose. Le 15 novembre 2007, le Conseil constitutionnel a censuré une disposition qui aurait permis des études fondées sur l'origine ethnique ou la race. Il a précisé que les études sur la diversité, les discriminations et l'intégration restent possibles à partir de données objectives (pays de naissance, nationalité antérieure, nom) et du ressenti d'appartenance.\n\nL'enquête Trajectoires et Origines, réalisée par l'Ined et l'Insee avec l'accord de la CNIL, mesure ainsi les parcours et les discriminations des immigrés et de leurs descendants. Les chiffres existent, ils sont publics et réguliers : chacun peut les consulter.",
+    "empathie": "Je comprends qu'on se méfie quand on a l'impression qu'on nous cache des choses sur un sujet aussi sensible. Mais les chiffres sont publics : l'Insee publie chaque année le nombre d'immigrés et même celui de leurs enfants."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On ne compte pas les petits-enfants d'immigrés.",
+      "reponse": "Les sources lues ne donnent pas de chiffre sur la troisième génération ; c'est une limite réelle de la statistique."
+    },
+    {
+      "objection": "Les clandestins ne sont pas comptés.",
+      "reponse": "Les sources lues n'indiquent pas comment les personnes sans titre de séjour sont comptées ; c'est une question légitime, mais pas la preuve d'un secret."
+    }
+  ],
+  "questions": [
+    "Sais-tu que l'Insee publie chaque année le nombre d'immigrés depuis 1921 ?",
+    "Quelle information te manque vraiment pour te faire une idée ?"
+  ],
+  "limites": [
+    "Les chiffres de 2024-2025 sont provisoires.",
+    "Le texte de la décision 2007-557 DC n'a pas été lu directement ; son contenu est connu par l'Insee et une analyse juridique.",
+    "La manière dont le recensement compte les personnes sans titre de séjour n'a pas été vérifiée."
+  ],
+  "sources": [
+    {
+      "titre": "Population immigrée et étrangère en France — données annuelles de 1921 à 2025",
+      "organisme": "Insee",
+      "date_publication": "4 juin 2026",
+      "url": "https://www.insee.fr/fr/statistiques/2381757",
+      "passage": "En 2025 (données provisoires) : 7 970 000 immigrés, soit 11,6 % de la population, et 6 297 000 étrangers, soit 9,1 %, sur 68 852 000 habitants. En 2014 : 6 028 000 immigrés (9,1 %) et 4 289 000 étrangers (6,5 %).",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Immigrés et descendants d'immigrés (France, portrait social, édition 2025)",
+      "organisme": "Insee",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612512",
+      "passage": "En 2024 : 7,6 millions d'immigrés (11,2 % de la population) et 8,0 millions de descendants d'immigrés (12 % de la population vivant en logement ordinaire) ; 34 % des immigrés sont français. Un immigré est « une personne née étrangère à l'étranger et résidant en France ».",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Statistiques ethniques",
+      "organisme": "Insee",
+      "date_publication": "27 août 2020",
+      "url": "https://www.insee.fr/fr/information/2108548",
+      "passage": "Cadre : RGPD, loi Informatique et libertés et décision du Conseil constitutionnel du 15 novembre 2007, qui juge contraire à la Constitution un référentiel ethno-racial. Sont proscrits les variables de race ou de religion dans les fichiers administratifs ; restent possibles les études sur la diversité, les discriminations et l'intégration à partir de données objectives (pays de naissance, nationalité antérieure, origine géographique) et du ressenti d'appartenance. Le recensement collecte le pays de naissance et la nationalité ; l'enquête Trajectoires et Origines (2009, puis 2019-2020) a été réalisée avec l'avis du Cnis et l'accord de la CNIL.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "À quoi sert encore le Conseil constitutionnel ? (Plein droit n° 76)",
+      "organisme": "Véronique Champeil-Desplats, professeure de droit public (Paris Nanterre)",
+      "date_publication": "Mars 2008",
+      "url": "https://droit.cairn.info/article/PLD_076_0027/pdf?lang=fr",
+      "passage": "La décision du 15 novembre 2007 censure l'article 63 de la loi sur l'immigration ; les traitements nécessaires aux études sur la diversité des origines, la discrimination et l'intégration « peuvent porter sur des données objectives » mais « ne sauraient [...] reposer sur l'origine ethnique ou la race ».",
+      "pertinence": "Analyse juridique universitaire.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Il n'existe pas de statistique officielle par origine ethnique, par race ou par religion dans les fichiers administratifs.",
+    "Les chiffres de 2024 et 2025 sont provisoires."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres sont sur le site de l'Insee : 7,97 millions d'immigrés en 2025, 11,6 % de la population, et même 8 millions de descendants d'immigrés. Personne ne les cache. Ce qui est interdit, c'est de classer les gens par race, et c'est une protection pour tout le monde.",
+    "indecis": "Tu peux vérifier toi-même : l'Insee publie chaque année le nombre d'immigrés et d'étrangers, avec une série depuis 1921. Ce que la loi interdit, ce sont les fichiers classant les gens par race ou religion. Les chercheurs étudient quand même les origines grâce au pays de naissance."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "antiracisme"
+    ],
+    "mecanismes": "L’idée d’un secret d’État alimente la défiance et laisse place aux chiffres fantaisistes.",
+    "consequences": "Des chiffres exagérés circulent et nourrissent la peur.",
+    "democratie": "La statistique publique est un bien commun : la consulter permet de débattre sur des bases communes.",
+    "propositions": [
+      "Faire connaître les publications de l’Insee et de l’Ined sur l’immigration.",
+      "Garantir l’indépendance de la statistique publique."
+    ],
+    "defavorables": [
+      {
+        "fait": "Il n’existe pas de statistique officielle par origine ethnique ou par religion dans les fichiers administratifs.",
+        "integration": "Le reconnaître, et expliquer pourquoi ce choix protège les personnes."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "demographie",
+    "statistiques"
+  ],
+  "repond_a": [
+    {
+      "id": "immigres_comptes",
+      "label": "Comptage des immigrés"
+    },
+    {
+      "id": "immigres_comptes_seul",
+      "label": "Comptage des immigrés"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "natalite",
+    "enfants par femme",
+    "font des gosses",
+    "font plus d enfants",
+    "un tiers de la population",
+    "population"
+  ]
+}

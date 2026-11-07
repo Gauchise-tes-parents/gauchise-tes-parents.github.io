@@ -1,0 +1,173 @@
+{
+  "id": "euro-hausse-prix",
+  "type": "idee_recue",
+  "affirmation": "Le passage à l'euro a fait exploser les prix.",
+  "volet": "economie",
+  "sous_theme": "Inflation",
+  "rubriques": [],
+  "mots_cles": [
+    "passage a l euro",
+    "l euro a fait",
+    "avec l euro",
+    "depuis l euro",
+    "euro prix",
+    "retour au franc",
+    "arrondis euro",
+    "inflation percue",
+    "baguette euro"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "historique",
+  "resume": "L'Insee et la Banque de France estiment l'effet du passage à l'euro, en 2002, à +0,1 à +0,2 % sur les prix, concentré sur janvier 2002 et sur quelques services comme les cafés et restaurants. L'inflation a même été plus faible après l'euro (1,4 % par an de 2002 à 2016) qu'avant (2,1 % de 1986 à 2001). Le sentiment de hausse n'est pourtant pas absurde : les petits achats fréquents ont augmenté, et l'inflation perçue est restée environ deux fois supérieure à l'inflation mesurée.",
+  "contexte": "Plus de vingt ans après, l'idée que l'euro aurait fait flamber les prix reste répandue et nourrit les appels à revenir au franc.",
+  "explication": "L'indice des prix mesure l'évolution du prix d'un panier moyen de biens et services. Les arrondis à la conversion ont touché des produits achetés souvent (café, pain), ce qui marque la mémoire, alors que d'autres prix (biens durables) ont baissé.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, le passage à l'euro a eu « un impact modéré », « de l'ordre de + 0,1 % à + 0,2 % sur les prix ».",
+      "periode": "2002",
+      "perimetre": "France",
+      "explication": "L'effet global est très faible.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+0,1 à +0,2 %"
+    },
+    {
+      "fait": "Selon l'Insee, l'inflation a été de 1,4 % par an en moyenne de 2002 à 2016, contre 2,1 % de 1986 à 2001.",
+      "periode": "1986-2016",
+      "perimetre": "France",
+      "explication": "Les prix ont augmenté moins vite après l'euro qu'avant.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,4 %"
+    },
+    {
+      "fait": "Selon l'Insee (2002), l'effet est concentré sur janvier 2002 et sur les services : les cafés-restaurants représentent près de la moitié de l'effet de ce mois.",
+      "periode": "2002",
+      "perimetre": "France",
+      "explication": "Les hausses ont touché des achats très visibles.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Banque de France, le café en salle a augmenté de 6 % entre août 2001 et avril 2002, et l'inflation perçue en France atteignait environ le double de l'indice de l'Insee.",
+      "periode": "2001-2007",
+      "perimetre": "France",
+      "explication": "Le ressenti s'explique par les petits achats fréquents.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "6 %"
+    },
+    {
+      "fait": "Selon la Banque de France, de 1996 à 2006, 40 % des ménages ont connu une inflation supérieure à l'indice moyen.",
+      "periode": "1996-2006",
+      "perimetre": "France",
+      "explication": "L'indice moyen ne reflète pas la situation de chaque ménage.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "40 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : selon l'Insee, le passage à l'euro a augmenté les prix de 0,1 à 0,2 % seulement, et l'inflation a été plus faible après 2002 qu'avant. Les hausses ont surtout touché des achats très visibles, comme le café.",
+    "moyen": "L'Insee a mesuré l'effet du passage à l'euro : entre +0,1 et +0,2 % sur les prix, surtout en janvier 2002. L'inflation a même été plus basse après l'euro (1,4 % par an) qu'avant (2,1 %).\n\nMais le ressenti s'explique : les arrondis ont touché des produits achetés tous les jours, comme le café (+6 % en quelques mois) ou la baguette. C'est pourquoi l'inflation perçue est restée bien supérieure à l'inflation mesurée.",
+    "detaille": "Dès 2002, l'Insee a estimé l'effet du passage à l'euro à environ +0,1 point sur l'inflation de janvier, puis presque rien en février et mars. Les services ont augmenté davantage (restauration, cafés, loisirs, réparation automobile), alors que les prix des biens durables ont baissé. En 2017, l'Insee confirme un effet « de l'ordre de + 0,1 % à + 0,2 % » et note que l'inflation a été plus faible de 2002 à 2016 (1,4 % par an) que de 1986 à 2001 (2,1 %).\n\nLa Banque de France arrive au même ordre de grandeur (environ 0,2 %). Elle explique l'écart avec le ressenti : le café en salle a pris 6 % entre août 2001 et avril 2002, et l'inflation perçue est restée environ le double de l'inflation mesurée, plus longtemps en France qu'en Allemagne. Elle souligne aussi que 40 % des ménages ont connu une inflation supérieure à l'indice moyen.\n\nLe malaise sur les prix est donc réel, mais l'euro n'en est pas la cause. La question du pouvoir d'achat passe par les salaires et le partage de la valeur, pas par le retour au franc.",
+    "empathie": "Je comprends qu'on ait l'impression que tout a augmenté avec l'euro : le café ou la baguette ont pris des centimes qu'on a remarqués. Mais l'Insee a mesuré l'effet réel : quelques dixièmes de pour cent, et une inflation plus faible après 2002 qu'avant."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avant, une baguette coûtait 4 francs.",
+      "reponse": "Les prix montent avec le temps dans toutes les monnaies ; l'inflation a été plus rapide avant l'euro qu'après selon l'Insee."
+    },
+    {
+      "objection": "L'Insee sous-estime l'inflation.",
+      "reponse": "La Banque de France arrive au même résultat ; l'écart avec le ressenti tient au choix des produits que l'on remarque."
+    }
+  ],
+  "questions": [
+    "Sais-tu si les prix augmentaient plus vite avant ou après l'euro ?",
+    "Quels achats te font dire que tout a augmenté ?"
+  ],
+  "limites": [
+    "Les sources datent de 2002, 2007 et 2017 ; la période d'inflation de 2022-2023 n'est pas couverte.",
+    "Les prix de l'immobilier ne sont pas inclus dans l'indice des prix à la consommation."
+  ],
+  "sources": [
+    {
+      "titre": "Une inflation modérée depuis le passage à l'euro (Insee Focus n° 87)",
+      "organisme": "Insee (Marie Leclair, Vladimir Passeron)",
+      "date_publication": "24 mai 2017",
+      "url": "https://www.insee.fr/fr/statistiques/2854085",
+      "passage": "« un impact modéré du passage à l'euro, de l'ordre de + 0,1 % à + 0,2 % sur les prix » ; inflation de 1,4 % par an en moyenne de 2002 à 2016, contre 2,1 % de 1986 à 2001 ; effets d'arrondi plus marqués dans les cafés (+1,5 point) et sur le pain et la pâtisserie (+0,3 point) ; l'opinion des ménages sur l'évolution des prix s'est nettement écartée de l'indice après 2002.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Un premier bilan de l'effet du passage à l'euro sur les prix (Note de conjoncture)",
+      "organisme": "Insee (Philippe Gallot)",
+      "date_publication": "Juin 2002",
+      "url": "https://insee.fr/fr/statistiques/fichier/1406989/juin2002d1.pdf",
+      "passage": "Effet d'environ +0,1 point sur l'inflation de janvier 2002, quasi nul en février et mars : l'effet « apparaît pour l'essentiel concentré sur le mois de janvier 2002 » ; les services augmentent de 0,5 % au premier trimestre (restauration, cafés, loisirs, réparation automobile), les cafés-restaurants représentant près de la moitié de l'effet de janvier.",
+      "pertinence": "Statistique publique (2002).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'€uro est-il inflationniste ? (Documents & Débats n° 1)",
+      "organisme": "Banque de France",
+      "date_publication": "29 janvier 2007",
+      "url": "https://www.citeco.fr/sites/default/files/images_spip/documents-et-debats-numero-1-l-euro-est-il-inflationniste.pdf",
+      "passage": "Hausse des prix d'environ 0,2 % liée au passage à l'euro ; le café en salle augmente de 6 % entre août 2001 et avril 2002 ; l'inflation perçue en France atteint environ le double de l'indice de l'Insee ; de 1996 à 2006, 40 % des ménages ont connu une inflation supérieure à l'indice moyen.",
+      "pertinence": "Banque centrale nationale (2007).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2030-12-31",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Des prix de petits achats fréquents (café, restauration, pain) ont réellement augmenté au moment de la conversion.",
+    "Une partie importante des ménages a connu une inflation supérieure à l'indice moyen."
+  ],
+  "publics": {
+    "convaincus": "L'Insee et la Banque de France ont mesuré : l'euro a fait monter les prix de 0,1 à 0,2 % en 2002, pas plus. Et les prix ont augmenté moins vite après l'euro qu'avant. Le café a pris quelques centimes, c'est vrai, mais ce n'est pas l'euro qui a fait exploser ton budget.",
+    "indecis": "Le sentiment de hausse est réel, parce que les arrondis ont touché les achats du quotidien, comme le café. Mais l'effet global de l'euro a été minime, et l'inflation a été plus faible après 2002. Si les fins de mois sont dures, c'est surtout une question de salaires."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "repartition"
+    ],
+    "mecanismes": "Une explication simple, l’euro, détourne l’attention du partage de la valeur et de l’évolution des salaires.",
+    "consequences": "Le sentiment de perte de pouvoir d’achat est réel, mais orienté vers une mauvaise cible.",
+    "democratie": "Les données publiques sur les prix permettent un débat éclairé sur le pouvoir d’achat.",
+    "propositions": [
+      "Indexer les salaires sur les prix.",
+      "Encadrer les marges sur les produits de première nécessité."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les petits achats fréquents ont réellement augmenté au moment de la conversion.",
+        "integration": "Valider ce ressenti, puis montrer l’effet global mesuré."
+      }
+    ]
+  },
+  "concepts": [
+    "pouvoir_achat"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fin de mois",
+    "fins de mois",
+    "pouvoir d achat",
+    "hausse des prix",
+    "inflation",
+    "courses",
+    "vie chere",
+    "essence",
+    "tout augmente"
+  ]
+}

@@ -138,10 +138,6 @@
       }
     ]
   },
-  "concepts": [
-    "riches_entreprises",
-    "syndicats"
-  ],
   "repond_a": [
     {
       "id": "syndicats",
@@ -158,5 +154,9 @@
     "cfdt",
     "force ouvriere",
     "droit de greve"
+  ],
+  "concepts": [
+    "riches_entreprises",
+    "syndicats"
   ]
 }

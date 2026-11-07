@@ -1,0 +1,153 @@
+{
+  "id": "lois-bruxelles-80-pourcent",
+  "type": "idee_recue",
+  "affirmation": "80 % de nos lois sont décidées à Bruxelles.",
+  "volet": "politique",
+  "sous_theme": "Union européenne",
+  "rubriques": [],
+  "mots_cles": [
+    "80 % de nos lois",
+    "80 % des lois",
+    "lois decidees a bruxelles",
+    "lois viennent de bruxelles",
+    "lois europeennes",
+    "transposition",
+    "directives europeennes",
+    "bruxelles decide"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le chiffre de 80 % vient d'une prévision de Jacques Delors en 1988, qui portait sur la seule législation économique et n'a jamais été vérifiée. Les études disponibles situent la part du droit d'origine européenne en France autour de 13 % des lois (2006) à 28 % des normes en vigueur (2008) ; elle dépasse en revanche 50 % dans quelques domaines comme l'agriculture ou l'environnement.",
+  "contexte": "Le chiffre est repris pour dire que voter en France ne servirait à rien ou que la souveraineté aurait disparu ; il circule à l'extrême droite comme chez des eurosceptiques de gauche.",
+  "explication": "Compter la part « européenne » des lois est difficile : certaines lois transposent une directive, d'autres ratifient un traité, et les règlements européens s'appliquent sans loi française. Selon la méthode, on obtient des chiffres différents, mais aucune étude ne trouve 80 %.",
+  "faits": [
+    {
+      "fait": "Selon Euronews, Jacques Delors avait annoncé qu'en 2000, « 80 % de la législation économique » serait d'origine communautaire : une prévision limitée à l'économie.",
+      "periode": "1988",
+      "perimetre": "Union européenne",
+      "explication": "Le chiffre d'origine n'est ni un constat ni une mesure de toutes les lois.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "80 %"
+    },
+    {
+      "fait": "Selon des chercheurs de Sciences Po Bordeaux, la part des lois françaises « européanisées » est passée de moins de 3 % en 1986 à 13,3 % en 2006.",
+      "periode": "1986-2006",
+      "perimetre": "France",
+      "explication": "La grande majorité des lois sont votées sans contrainte européenne directe.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "13,3 %"
+    },
+    {
+      "fait": "Selon Yves Bertoncini (Notre Europe), 9 685 actes européens étaient en vigueur en 2008, soit 28,1 % des 34 476 normes applicables en France.",
+      "periode": "2008",
+      "perimetre": "France",
+      "explication": "Même en comptant les règlements, on reste loin de 80 %.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "28,1 %"
+    },
+    {
+      "fait": "Selon Euronews, la part d'origine européenne dépasse 50 % dans l'agriculture, l'environnement et l'économie, mais elle est bien plus faible pour l'emploi, la sécurité intérieure ou la santé.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "L'influence européenne est forte dans certains domaines, faible dans d'autres.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "50 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le chiffre de 80 % est une prévision de Jacques Delors (1988) sur la seule législation économique. Les études mesurent 13 % des lois (2006) à 28 % des normes (2008) d'origine européenne en France.",
+    "moyen": "Le « 80 % » vient d'une phrase de Jacques Delors en 1988 : il prévoyait que 80 % de la législation économique serait d'origine européenne. Ce n'était ni une mesure, ni une affirmation sur toutes les lois.\n\nLes chercheurs qui ont compté trouvent bien moins : 13 % des lois françaises étaient liées au droit européen en 2006, et 28 % des normes en vigueur en 2008. Dans certains domaines, comme l'agriculture ou l'environnement, l'Europe pèse en revanche plus de la moitié.",
+    "detaille": "Le chiffre de 80 % est une prévision de Jacques Delors, alors président de la Commission européenne, qui annonçait en 1988 que d'ici 2000, 80 % de la législation économique serait d'origine communautaire. Il a ensuite été repris comme s'il s'agissait d'un constat portant sur toutes les lois.\n\nLes études qui ont réellement compté donnent d'autres ordres de grandeur. Pour Brouard, Costa et Kerrouche (Sciences Po Bordeaux), la part des lois françaises « européanisées » passe de moins de 3 % en 1986 à 13,3 % en 2006, avec des pointes de 39 % dans le secteur scientifique et technologique ; « dans 80 % des cas », écrivent-ils, les lois sont adoptées sans contrainte européenne directe. Yves Bertoncini compte 28,1 % de normes européennes parmi celles en vigueur en 2008.\n\nCela ne veut pas dire que l'Europe pèse peu : dans l'agriculture, l'environnement ou l'économie, plus de la moitié des règles viennent de l'Union. Le vrai débat porte sur le contenu de ces règles et sur leur contrôle démocratique, pas sur un pourcentage imaginaire.",
+    "empathie": "Je comprends qu'on ait l'impression que tout se décide loin de nous, surtout quand des règles européennes changent notre quotidien. Mais les études qui ont compté trouvent bien moins de 80 % : la plupart de nos lois restent votées ici."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les règlements européens ne passent même pas par le Parlement français.",
+      "reponse": "C'est exact, et c'est pourquoi l'étude de Bertoncini les compte : on arrive à 28 % des normes, pas 80 %."
+    },
+    {
+      "objection": "Les chiffres datent d'avant 2012.",
+      "reponse": "Oui, aucune étude récente n'a été lue ; mais rien n'indique un triplement de la part européenne."
+    }
+  ],
+  "questions": [
+    "Sais-tu d'où vient le chiffre de 80 % et sur quoi il portait ?",
+    "Dans quels domaines penses-tu que l'Europe décide vraiment le plus ?"
+  ],
+  "limites": [
+    "Les études citées datent de 2008 à 2012 ; aucune mesure plus récente n'a été lue pour cette fiche.",
+    "La part européenne varie fortement selon la méthode (lois, normes, décrets) et selon le domaine."
+  ],
+  "sources": [
+    {
+      "titre": "Check Point : 80 % de nos lois sont-elles imposées par l'Union européenne ?",
+      "organisme": "Public Sénat (Thomas Mignon)",
+      "date_publication": "14 mars 2017 (mis à jour le 27 avril 2017)",
+      "url": "https://www.publicsenat.fr/actualites/politique/check-point-80-de-nos-lois-sont-elles-imposees-par-l-union-europeenne-57198",
+      "passage": "Selon Yves Bertoncini (Notre Europe, 2009), au 1er juillet 2008, 9 685 actes européens étaient en vigueur, soit 28,1 % des 34 476 normes applicables en France. Selon Brouard, Costa et Kerrouche (Sciences Po Bordeaux, 2012), la part des lois « européanisées » passe de moins de 3 % en 1986 à 13,3 % en 2006, avec 39 % dans le secteur scientifique, technologique et spatial et environ 24 % en agriculture ; « dans 80% des cas, les lois françaises sont adoptées en marge de toute contrainte européenne directe ». Le chiffre de 80 % vient d'une prévision de Jacques Delors (1988).",
+      "pertinence": "Fact-check d'un média parlementaire reprenant deux études universitaires.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Fact-check: Does the EU decide 80% of our laws?",
+      "organisme": "Euronews (Sophia Khatsenkova)",
+      "date_publication": "22 mars 2024",
+      "url": "https://www.euronews.com/my-europe/2024/03/22/fact-check-does-the-eu-decide-80-of-our-laws",
+      "passage": "Une étude française de 2009 situe l'influence de l'UE « more like 20-25% » ; la part dépasse 50 % dans l'agriculture, l'environnement et l'économie, et elle est bien plus faible pour l'emploi, la sécurité intérieure ou la santé. Jacques Delors avait annoncé que d'ici 2000, « 80% of economic legislation will be of Community origin ».",
+      "pertinence": "Fact-check d'un média européen.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Dans certains domaines (agriculture, environnement, marché intérieur), la majorité des règles est bien d'origine européenne.",
+    "Les règlements européens s'appliquent directement, sans loi française, ce qui rend leur poids moins visible."
+  ],
+  "publics": {
+    "convaincus": "Le chiffre de 80 % vient d'une prévision de Jacques Delors en 1988, et elle ne portait que sur l'économie. Quand des chercheurs ont compté, ils ont trouvé 13 % des lois et 28 % des normes. Si tu veux critiquer l'Europe, et il y a de quoi, mieux vaut des chiffres solides.",
+    "indecis": "L'Europe pèse vraiment dans certains domaines, comme l'agriculture ou l'environnement, où elle fixe plus de la moitié des règles. Mais au total, les études trouvent entre 13 % et 28 % de règles d'origine européenne. La plupart des décisions qui touchent ta vie se prennent encore à Paris."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "internationalisme"
+    ],
+    "mecanismes": "Un chiffre sans source sert à dire que voter ne sert plus à rien, ce qui décourage la participation démocratique.",
+    "consequences": "On renonce à exiger des comptes aux gouvernements nationaux, qui gardent l’essentiel des décisions.",
+    "democratie": "Les décisions européennes doivent être mieux contrôlées par les citoyens et les parlements, sur la base de faits exacts.",
+    "propositions": [
+      "Renforcer le contrôle parlementaire des décisions européennes.",
+      "Changer le contenu des règles européennes plutôt que nier leur existence."
+    ],
+    "defavorables": [
+      {
+        "fait": "Dans certains domaines, comme l’agriculture ou l’environnement, la majorité des règles vient de l’Union.",
+        "integration": "Le reconnaître, et distinguer les domaines où l’Europe pèse vraiment."
+      }
+    ]
+  },
+  "concepts": [
+    "europe",
+    "lois_bruxelles"
+  ],
+  "repond_a": [
+    {
+      "id": "lois_bruxelles",
+      "label": "Part des lois décidées à Bruxelles"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "bruxelles",
+    "union europeenne"
+  ]
+}

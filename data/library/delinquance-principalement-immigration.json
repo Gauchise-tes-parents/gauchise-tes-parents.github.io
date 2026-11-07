@@ -146,11 +146,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "delinquance",
-    "prison"
-  ],
   "repond_a": [
     {
       "id": "imm_delinquance",
@@ -171,5 +166,10 @@
     "peur de sortir",
     "pas en securite",
     "criminalite"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "prison"
   ]
 }

@@ -159,10 +159,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "pacte_marrakech"
-  ],
   "repond_a": [
     {
       "id": "pacte_marrakech",
@@ -180,5 +176,9 @@
     "pacte de marrakech",
     "marrakech",
     "pacte de l onu"
+  ],
+  "concepts": [
+    "immigration",
+    "pacte_marrakech"
   ]
 }

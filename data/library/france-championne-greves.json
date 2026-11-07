@@ -1,0 +1,180 @@
+{
+  "id": "france-championne-greves",
+  "type": "idee_recue",
+  "affirmation": "La France est le pays qui a le plus de jours de grève.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "jours de greve",
+    "championne de la greve",
+    "champions de la greve",
+    "toujours en greve",
+    "greves en france",
+    "conflictualite"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Plutôt exact, avec des nuances : la France fait partie des pays européens qui font le plus grève, mais elle n'est pas toujours la première. Selon l'Institut syndical européen, elle était deuxième en 2000-2009 (derrière l'Espagne) et en 2010-2019 (derrière Chypre), puis première en 2020-2021 ; un autre institut place la Belgique devant elle sur 2011-2020. Et les grèves varient beaucoup : 62 jours pour 1 000 salariés en 2024 dans le privé, contre 171 en 2023, année de la réforme des retraites.",
+  "contexte": "L'image d'une France « championne de la grève » est utilisée pour critiquer les syndicats ou le « blocage » du pays, notamment lors des mouvements sur les retraites.",
+  "explication": "On compare les pays en journées de travail perdues pour 1 000 salariés. Mais chaque pays compte à sa façon (secteurs couverts, grèves courtes, fonction publique), ce qui rend les classements fragiles.",
+  "faits": [
+    {
+      "fait": "Selon l'Institut syndical européen, cité par Euronews, la France comptait en moyenne 127 journées non travaillées pour 1 000 salariés en 2000-2009 (Espagne 153) et 128 en 2010-2019 (Chypre 275), puis 79 en 2020-2021, au premier rang devant la Belgique (57).",
+      "periode": "2000-2021",
+      "perimetre": "Europe",
+      "explication": "La France est régulièrement sur le podium.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "128"
+    },
+    {
+      "fait": "Selon l'institut allemand WSI, la Belgique compte 97 jours de grève pour 1 000 salariés par an sur 2011-2020, contre 93 pour la France (secteur privé seulement) et 18 pour l'Allemagne.",
+      "periode": "2011-2020",
+      "perimetre": "Europe",
+      "explication": "Selon la méthode, la France n'est pas première.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "93"
+    },
+    {
+      "fait": "Selon la Dares, citée par TPE Actu, le secteur privé non agricole a compté 62 jours de grève pour 1 000 salariés en 2024, contre 171 en 2023.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Les grèves varient fortement selon l'actualité sociale.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "62"
+    },
+    {
+      "fait": "Selon la Dares, citée par les Éditions Tissot, seules 1,6 % des entreprises de 10 salariés ou plus ont connu au moins un arrêt collectif de travail en 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Dans l'immense majorité des entreprises, il n'y a aucune grève.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1,6 %"
+    },
+    {
+      "fait": "Selon Euronews, l'OCDE souligne que la comparabilité internationale des données sur les grèves est affectée par des différences de définitions et de mesures.",
+      "periode": "2023",
+      "perimetre": "Europe",
+      "explication": "Les classements sont à manier avec prudence.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Plutôt exact : la France est souvent sur le podium européen des jours de grève, mais pas toujours première (Espagne, Chypre ou Belgique selon les périodes). Et en 2024, seules 1,6 % des entreprises ont connu une grève.",
+    "moyen": "La France fait partie des pays où l'on fait le plus grève en Europe : environ 128 jours pour 1 000 salariés par an entre 2010 et 2019 selon l'Institut syndical européen. Mais elle n'est pas toujours première : Chypre, l'Espagne ou la Belgique la devancent selon les périodes et les méthodes.\n\nSurtout, la grève reste rare dans les entreprises : en 2024, seules 1,6 % des entreprises de 10 salariés ou plus en ont connu une. Les pics correspondent à de grands conflits, comme la réforme des retraites en 2023.",
+    "detaille": "Comparer les grèves entre pays est difficile : chaque pays a ses propres méthodes de comptage. Avec ces précautions, la France apparaît régulièrement parmi les pays les plus grévistes d'Europe. Selon l'Institut syndical européen, elle comptait en moyenne 127 journées non travaillées pour 1 000 salariés par an en 2000-2009, derrière l'Espagne (153), puis 128 en 2010-2019, derrière Chypre (275), avant de passer au premier rang en 2020-2021 (79). Selon l'institut allemand WSI, sur 2011-2020, la Belgique (97) devance la France (93, privé seulement), loin devant l'Allemagne (18).\n\nLes chiffres varient beaucoup d'une année à l'autre. Dans le secteur privé, la Dares compte 171 jours de grève pour 1 000 salariés en 2023, année de la réforme des retraites, et 62 en 2024. Les salaires sont le premier motif de grève (56 % en 2024). Et la grève reste un événement rare : seules 1,6 % des entreprises de 10 salariés ou plus ont connu un arrêt collectif en 2024.\n\nLa grève est un droit, souvent le dernier moyen pour des salariés d'obtenir une augmentation : les chiffres montrent un recours concentré sur quelques grands conflits, pas un pays en grève permanente.",
+    "empathie": "Je comprends l'agacement quand une grève bloque les trains ou les écoles. C'est vrai que la France fait partie des pays où l'on fait le plus grève ; mais plus de 98 % des entreprises de 10 salariés ou plus n'ont connu aucune grève en 2024, et la plupart portent sur les salaires."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les grèves, ce sont toujours les mêmes privilégiés.",
+      "reponse": "En 2024, la première cause de grève dans le privé était la rémunération (56 %)."
+    },
+    {
+      "objection": "Les Allemands ne font jamais grève et leur économie va mieux.",
+      "reponse": "L'Allemagne fait beaucoup moins grève (18 jours), mais la comparaison des économies dépasse cette fiche."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle part des entreprises a connu une grève en 2024 ?",
+    "Quels autres moyens ont des salariés pour obtenir une augmentation quand la négociation échoue ?"
+  ],
+  "limites": [
+    "Les comparaisons européennes s'arrêtent en 2021 et reposent sur des méthodes non harmonisées.",
+    "Les publications de la Dares et la carte de l'Institut syndical européen n'ont pas été lues directement, mais à travers des relais de presse."
+  ],
+  "sources": [
+    {
+      "titre": "Industrial action in France and the UK: Which countries have the most strikes in Europe?",
+      "organisme": "Euronews (Servet Yanatma, d'après l'ETUI)",
+      "date_publication": "18 janvier 2023 (mis à jour le 8 septembre 2023)",
+      "url": "https://www.euronews.com/2023/03/07/industrial-action-in-france-and-the-uk-which-countries-have-the-most-strikes-in-europe",
+      "passage": "Journées non travaillées pour 1 000 salariés, moyenne annuelle (ETUI) : 2000-2009, Espagne 153, France 127 ; 2010-2019, Chypre 275, France 128 ; 2020-2021, France 79, Belgique 57. Le nombre « varies highly from year to year » ; l'OCDE souligne que la comparabilité internationale est affectée par des différences de définitions et de mesures.",
+      "pertinence": "Média européen reprenant l'Institut syndical européen (données jusqu'en 2021).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Incroyable mais vrai, la Belgique serait la championne européenne de la grève",
+      "organisme": "Paris Match Belgique (d'après Belga)",
+      "date_publication": "26 mars 2023",
+      "url": "https://www.parismatch.be/actualites/societe/2023/03/26/incroyable-mais-vrai-la-belgique-serait-la-championne-europeenne-de-la-greve-3OJ3QYS3IZCLFHNYETMR2N7YIY/",
+      "passage": "Selon l'institut allemand WSI, sur 2011-2020, « La Belgique a enregistré 97 jours de grève pour mille salariés par an », la France 93 (secteur privé seulement), la Finlande 52, l'Allemagne 18, l'Autriche et la Suède 2 ; le WSI note que les méthodes diffèrent selon les pays.",
+      "pertinence": "Média reprenant une dépêche d'agence et un institut de recherche.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Grèves en entreprise : net recul de la conflictualité en 2024",
+      "organisme": "Éditions Tissot (Maylis Rio Lachaud), d'après Dares Résultats n° 6",
+      "date_publication": "19 février 2026",
+      "url": "https://www.editions-tissot.fr/actualite/representants-du-personnel-ce/greves-en-entreprise-net-recul-de-la-conflictualite-en-2024",
+      "passage": "En 2024, « 62 journées individuelles non travaillées pour 1 000 salariés », en baisse de 64 % sur un an ; « 1,6 % des entreprises ont connu au moins un arrêt collectif de travail » (entreprises de 10 salariés ou plus).",
+      "pertinence": "Éditeur juridique reprenant une publication de la Dares.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "En 2024, les jours de grève chutent nettement",
+      "organisme": "TPE Actu, d'après la Dares",
+      "date_publication": "8 février 2026",
+      "url": "https://tpeactu.fr/2026/02/08/baisse-jours-greve-2024-dares/",
+      "passage": "Secteur privé non agricole : 62 jours de grève pour 1 000 salariés en 2024 contre 171 en 2023 ; transports et entreposage : 403 contre 894 ; motifs : rémunérations 56 %, réforme des retraites 13 %.",
+      "pertinence": "Média professionnel reprenant la Dares.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La France est régulièrement parmi les trois pays européens qui comptent le plus de jours de grève.",
+    "Les grèves dans les transports pèsent fortement sur les usagers."
+  ],
+  "publics": {
+    "convaincus": "C'est vrai, la France est souvent sur le podium européen de la grève, mais pas toujours première : Chypre, l'Espagne ou la Belgique font plus selon les périodes. Et en 2024, plus de 98 % des entreprises de 10 salariés ou plus n'ont connu aucune grève. Quand des salariés débrayent, c'est le plus souvent pour leur salaire.",
+    "indecis": "La France fait effectivement partie des pays européens qui font le plus grève, surtout lors de grands conflits comme celui des retraites. Mais les chiffres varient beaucoup selon les années, et la grève reste rare dans la plupart des entreprises. C'est un droit, utilisé surtout pour les salaires."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "democratie"
+    ],
+    "mecanismes": "L’image d’un pays toujours en grève sert à délégitimer un droit fondamental des salariés.",
+    "consequences": "Les salariés perdent un moyen de pression face à des employeurs qui refusent de négocier.",
+    "democratie": "Le droit de grève fait partie des libertés publiques.",
+    "propositions": [
+      "Renforcer la négociation salariale pour que la grève reste un dernier recours.",
+      "Garantir l’exercice effectif du droit de grève dans les petites entreprises."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France est régulièrement parmi les pays européens les plus grévistes.",
+        "integration": "Le reconnaître, et rappeler que la grève reste rare dans la plupart des entreprises."
+      }
+    ]
+  },
+  "concepts": [
+    "syndicats"
+  ],
+  "repond_a": [
+    {
+      "id": "greves_record",
+      "label": "La France championne de la grève"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "cgt",
+    "cfdt",
+    "force ouvriere",
+    "droit de greve"
+  ]
+}

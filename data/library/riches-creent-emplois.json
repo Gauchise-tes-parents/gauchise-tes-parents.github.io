@@ -135,11 +135,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "fiscalite",
-    "riches_entreprises"
-  ],
   "repond_a": [
     {
       "id": "riches_emplois",
@@ -160,5 +155,10 @@
     "tva",
     "patronat",
     "grands groupes"
+  ],
+  "concepts": [
+    "emploi",
+    "fiscalite",
+    "riches_entreprises"
   ]
 }
