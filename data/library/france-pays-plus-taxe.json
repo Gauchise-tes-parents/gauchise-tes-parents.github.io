@@ -1,0 +1,174 @@
+{
+  "id": "france-pays-plus-taxe",
+  "type": "idee_recue",
+  "affirmation": "La France est le pays le plus taxé du monde.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "pays le plus taxé",
+    "le plus taxé du monde",
+    "champion des impôts",
+    "pression fiscale",
+    "prélèvements obligatoires",
+    "taxés",
+    "matraquage fiscal",
+    "recettes fiscales"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La France est bien en tête ou presque : première de l'UE en 2025 selon Eurostat (46 % du PIB), deuxième de l'OCDE en 2024 derrière le Danemark (43,5 % contre 45,2 %). Mais ces prélèvements financent surtout des retraites et une assurance santé publiques, que d'autres pays paient par des assurances privées non comptées comme impôts.",
+  "contexte": "Le « record du monde des impôts » est un argument fréquent contre les services publics, la Sécurité sociale et les propositions fiscales de la gauche.",
+  "explication": "Le taux de prélèvements obligatoires mesure les impôts et cotisations sociales rapportés au PIB. Un pays où la retraite et la santé passent par des assurances privées a un taux plus bas, mais ses habitants paient quand même, autrement.",
+  "faits": [
+    {
+      "fait": "Selon l'OCDE, en 2024, les recettes fiscales atteignaient 43,5 % du PIB en France, deuxième rang derrière le Danemark (45,2 %), pour une moyenne OCDE de 34,1 %.",
+      "periode": "2024",
+      "perimetre": "OCDE",
+      "explication": "La France est parmi les pays les plus taxés, mais pas toujours première.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "43,5 %"
+    },
+    {
+      "fait": "Selon Eurostat (cité par Toute l'Europe), en 2025, les impôts et cotisations sociales nettes ont atteint 46 % du PIB en France, premier rang de l'UE devant le Danemark (45,1 %), pour une moyenne de 40,7 %.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "Selon les années et les méthodes, la France est première ou deuxième.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "46 %"
+    },
+    {
+      "fait": "Selon la DREES, les prestations de protection sociale atteignent 31,9 % du PIB en France en 2024, contre 27,3 % en moyenne dans l'UE, et la vieillesse et la santé en représentent 80 %.",
+      "periode": "2024",
+      "perimetre": "France et UE",
+      "explication": "L'essentiel des prélèvements revient aux ménages sous forme de retraites et de soins.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "80 %"
+    },
+    {
+      "fait": "Selon l'OCDE, en France, plus des trois quarts des dépenses de santé sont pris en charge par une assurance maladie obligatoire ; aux États-Unis, les régimes publics n'en couvrent qu'environ 28 %.",
+      "periode": "2023",
+      "perimetre": "OCDE",
+      "explication": "Ailleurs, les ménages paient leur santé par des assurances privées qui ne comptent pas comme des impôts.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "28 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Presque : la France est 1re de l'UE en 2025 (46 % du PIB, Eurostat) et 2e de l'OCDE en 2024 derrière le Danemark. Mais 80 % des prestations sociales financent les retraites et la santé, que d'autres pays paient par des assurances privées.",
+    "moyen": "C'est en grande partie vrai : la France fait partie des pays où les prélèvements sont les plus élevés, première de l'UE en 2025 selon Eurostat, deuxième de l'OCDE en 2024 derrière le Danemark.\n\nMais ce chiffre ne dit pas à quoi sert l'argent. 80 % des prestations sociales servent aux retraites et à la santé. Aux États-Unis, la plupart des gens paient leur santé par des assurances privées : ça ne compte pas comme un impôt, mais ça coûte quand même.",
+    "detaille": "Selon l'OCDE, les recettes fiscales atteignaient 43,5 % du PIB en France en 2024, au deuxième rang derrière le Danemark (45,2 %), pour une moyenne de 34,1 %. Selon Eurostat, la France est passée au premier rang de l'Union européenne en 2025 avec 46 % du PIB. L'affirmation est donc proche de la réalité, même si le classement varie selon les années et les méthodes.\n\nCe niveau s'explique surtout par la protection sociale : 31,9 % du PIB en prestations en 2024, contre 27,3 % dans l'UE, dont 80 % pour la vieillesse et la santé. Les retraites, l'assurance maladie et l'hôpital sont largement publics en France. Dans d'autres pays, ces dépenses passent par des fonds de pension ou des assurances privées, qui ne sont pas comptées comme des prélèvements : aux États-Unis, les régimes publics ne couvrent qu'environ 28 % des dépenses de santé.\n\nLa question utile n'est donc pas seulement « combien », mais « pour quoi » et « qui paie » : les débats sur la justice fiscale portent sur la répartition de l'effort, notamment entre revenus du travail et du capital.",
+    "empathie": "C'est vrai, on paie beaucoup, et on a le droit de trouver ça lourd. Mais une bonne partie revient sous forme de retraite et de remboursements de soins. Dans d'autres pays, les gens paient moins d'impôts, mais ils paient des assurances privées très chères."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On paie tout ça pour rien.",
+      "reponse": "80 % des prestations sociales financent les retraites et la santé, qui sont largement publiques en France."
+    },
+    {
+      "objection": "Les Américains paient moins d'impôts, ils sont plus libres.",
+      "reponse": "Ils paient leur santé et leur retraite par des assurances privées, qui ne sont pas comptées comme des impôts mais restent une dépense."
+    }
+  ],
+  "questions": [
+    "Combien coûterait ta retraite et ton assurance santé si tu devais les payer en privé ?",
+    "Qui, selon toi, devrait payer davantage, et qui moins ?"
+  ],
+  "limites": [
+    "Les comparaisons dépendent des méthodes (OCDE, Eurostat, Insee) et des années.",
+    "Les données 2024 de l'OCDE sont provisoires."
+  ],
+  "sources": [
+    {
+      "titre": "Statistiques des recettes publiques 2025 — Tendances des recettes fiscales 1965-2024",
+      "organisme": "OCDE",
+      "date_publication": "Décembre 2025",
+      "url": "https://www.oecd.org/fr/publications/statistiques-des-recettes-publiques-2025_f7a1e5e4-fr/full-report/tax-revenue-trends-1965-2024_98c75833.html",
+      "passage": "Les recettes fiscales « s'établissaient en moyenne à 34.1 % » du PIB dans l'OCDE en 2024 (données provisoires) ; le Danemark (45,2 %) s'est classé au premier rang pour la deuxième année consécutive, la France est deuxième (43,5 %) ; le ratio le plus bas est celui du Mexique (18,3 %).",
+      "pertinence": "Organisation internationale de référence pour les comparaisons fiscales.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Impôts : la France occupe à nouveau la première place en Europe",
+      "organisme": "Toute l'Europe (Léa Deseille), d'après Eurostat",
+      "date_publication": "29 octobre 2026",
+      "url": "https://www.touteleurope.eu/economie-et-social/impots-la-france-occupe-a-nouveau-la-premiere-place-en-europe/",
+      "passage": "En 2025, selon Eurostat, les impôts et cotisations sociales nettes ont atteint 46 % du PIB en France, premier rang de l'UE, devant le Danemark (45,1 %) et la Belgique (44,7 %) ; moyenne de l'UE : 40,7 % ; avec la méthode de l'Insee, le taux est de 43,6 %.",
+      "pertinence": "Site d'information de référence, d'après Eurostat.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "La protection sociale en France et en Europe en 2024 (Panoramas de la DREES, édition 2025)",
+      "organisme": "DREES",
+      "date_publication": "17 décembre 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/panoramas-de-la-drees/251217-protection-sociale-france-europe-2024",
+      "passage": "Les prestations de protection sociale atteignent 932,5 Md€ en 2024, soit 31,9 % du PIB, contre 27,3 % en moyenne dans l'UE à 27 ; « les risques vieillesse-survie et santé […] représentent 80 % de l'ensemble des dépenses de prestations sociales ».",
+      "pertinence": "Service statistique du ministère des Solidarités.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Panorama de la santé 2025 — Dépenses de santé par mode de financement",
+      "organisme": "OCDE",
+      "date_publication": "2025",
+      "url": "https://www.oecd.org/fr/publications/panorama-de-la-sante-2025_2f564c6c-fr/full-report/health-expenditure-by-financing-scheme_074bead0.html",
+      "passage": "En France, « plus des trois quarts des dépenses étaient pris en charge par une forme d'assurance maladie obligatoire » (2023) ; aux États-Unis, 55 % relèvent de régimes obligatoires, dont des assurances privées rendues obligatoires, et les régimes publics n'en couvrent qu'environ 28 %.",
+      "pertinence": "Organisation internationale de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La France est effectivement parmi les deux pays les plus taxés de l'OCDE et de l'UE.",
+    "On peut légitimement débattre de l'efficacité de la dépense publique."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : la France est parmi les deux pays les plus taxés. Mais demande-toi à quoi servent ces impôts : surtout ta retraite et tes soins. Aux États-Unis, les impôts sont plus bas, mais les régimes publics ne couvrent qu'environ 28 % des dépenses de santé. La vraie question est : qui paie, et qui est exonéré ?",
+    "indecis": "Les prélèvements sont parmi les plus élevés au monde, c'est un fait. Mais ils financent un système de retraites et de santé largement public, que d'autres pays financent par des assurances privées. Pour comparer, il faut comparer ce qu'on paie au total, pas seulement les impôts."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "solidarite",
+      "repartition"
+    ],
+    "mecanismes": "Le classement des prélèvements est présenté sans dire ce qu’ils financent : retraites, santé, école, que d’autres pays paient en privé.",
+    "consequences": "L’argument sert à justifier la baisse des recettes, puis celle des services publics, au détriment des ménages modestes.",
+    "democratie": "Le débat utile porte sur la répartition de l’effort : qui paie, et qui est exonéré.",
+    "propositions": [
+      "Rendre l’impôt plus progressif et mieux taxer les revenus du capital.",
+      "Défendre des retraites et une santé publiques, plus égalitaires que les assurances privées."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France est parmi les deux pays les plus taxés de l’OCDE et de l’UE.",
+        "integration": "Le dire franchement, et montrer ce que ces prélèvements financent."
+      }
+    ]
+  },
+  "concepts": [
+    "fiscalite"
+  ],
+  "repond_a": [
+    {
+      "id": "pays_plus_taxe",
+      "label": "Niveau des prélèvements obligatoires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva"
+  ]
+}

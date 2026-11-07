@@ -1,0 +1,176 @@
+{
+  "id": "rn-russie-liens",
+  "type": "idee_recue",
+  "affirmation": "Les liens du RN avec la Russie, c'est de la propagande.",
+  "volet": "politique",
+  "sous_theme": "Rassemblement national",
+  "rubriques": [],
+  "mots_cles": [
+    "rn",
+    "russie",
+    "poutine",
+    "prêt russe",
+    "banque russe",
+    "ingérences",
+    "crimée",
+    "marine le pen",
+    "rassemblement national"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les liens sont documentés par un rapport parlementaire de 2023 : un prêt de 9,4 millions d'euros contracté en 2014 auprès d'une banque tchéco-russe, racheté ensuite par une entreprise du complexe militaro-industriel russe, et des prises de position favorables à Moscou, notamment sur la Crimée. Le rapport n'établit pas de contrepartie prouvée, et le RN annonce avoir remboursé le prêt en 2023.",
+  "contexte": "Depuis l'invasion de l'Ukraine en 2022, le RN rejette toute accusation de proximité avec le Kremlin et la présente comme une manœuvre de ses adversaires.",
+  "explication": "Un lien financier ou politique n'est pas forcément une ingérence prouvée. Mais un parti qui emprunte à une banque russe et relaie des positions du Kremlin pose une question légitime d'indépendance.",
+  "faits": [
+    {
+      "fait": "Selon le rapport de la commission d'enquête de l'Assemblée nationale sur les ingérences étrangères (2023), le prêt de 9,4 millions d'euros contracté en 2014 auprès de la First Czech Russian Bank a été racheté par l'entreprise russe Aviazapchast, qui en a rééchelonné le remboursement jusqu'en 2028.",
+      "periode": "2014-2023",
+      "perimetre": "France",
+      "explication": "Le financement russe du parti est un fait établi.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "9,4 M€"
+    },
+    {
+      "fait": "Selon le même rapport, cette entreprise appartient au complexe militaro-industriel russe, et la Commission nationale des comptes de campagne a jugé que ce prêt constituait un « avantage certain et conséquent ».",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le créancier n'était pas un acteur neutre.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon LCP, la rapporteure a qualifié le parti de « relais assez affirmé, assez constant » des positions russes, notamment sur l'annexion de la Crimée en 2014 ; le président RN de la commission a affirmé que « rien n'a permis d'établir une ingérence au cours des auditions ».",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le rapport documente un alignement politique, sans preuve de contrepartie.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon l'AFP, le RN a annoncé en septembre 2023 avoir remboursé par anticipation les 6,1 millions d'euros restants du prêt.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le prêt est remboursé, selon le parti.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "6,1 M€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : un rapport de l'Assemblée nationale (2023) documente un prêt de 9,4 millions d'euros d'une banque tchéco-russe, racheté par une entreprise du complexe militaro-industriel russe, et des positions alignées sur Moscou. Il n'établit pas de contrepartie, et le RN dit avoir remboursé en 2023.",
+    "moyen": "Ce n'est pas une rumeur : en 2014, le Front national a emprunté 9,4 millions d'euros à une banque tchéco-russe. La dette a ensuite été rachetée par une entreprise du complexe militaro-industriel russe, selon un rapport de l'Assemblée nationale de 2023.\n\nLe même rapport décrit des positions du parti favorables à Moscou, notamment sur la Crimée. Il faut être précis : il n'établit pas de contrepartie prouvée, et le RN annonce avoir remboursé le prêt en 2023. Mais parler de « propagande », c'est nier des faits établis.",
+    "detaille": "La commission d'enquête de l'Assemblée nationale sur les ingérences étrangères a publié son rapport en juin 2023. Elle y rappelle que le prêt de 9,4 millions d'euros contracté en 2014 par le Front national auprès de la First Czech Russian Bank, alors contrôlée par un oligarque russe, a été racheté après la faillite de la banque par Aviazapchast, entreprise du complexe militaro-industriel russe, qui en a rééchelonné le remboursement jusqu'en 2028. La CNCCFP y voyait un « avantage certain et conséquent ».\n\nLe rapport décrit aussi des prises de position et des déplacements d'élus favorables à Moscou, notamment sur l'annexion de la Crimée. La rapporteure parle d'un « relais assez affirmé, assez constant ». Le président de la commission, élu RN, conteste et affirme qu'aucune ingérence n'a été établie ; le rapport a été adopté par 11 voix contre 5.\n\nSelon l'AFP, le RN a annoncé en septembre 2023 avoir remboursé par anticipation le reste du prêt. La conclusion honnête : il n'y a pas de preuve publique de contrepartie, mais il y a bien eu un financement russe et un alignement politique documenté. Ce ne sont pas des inventions.",
+    "empathie": "Je comprends que tu voies ça comme une attaque politique, et le rapport a été voté par les adversaires du RN. Mais le prêt russe, lui, est un fait reconnu par le parti lui-même. On peut en discuter sans parler de propagande."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Aucune banque française ne voulait leur prêter.",
+      "reponse": "C'est l'explication donnée par le parti ; elle ne change pas l'origine russe du créancier, ni l'alignement de positions décrit par le rapport."
+    },
+    {
+      "objection": "Le rapport a été écrit par leurs adversaires.",
+      "reponse": "Il a été adopté par la commission, et le prêt est un fait reconnu par le RN lui-même."
+    }
+  ],
+  "questions": [
+    "Savais-tu que le prêt de 2014 a été racheté par une entreprise de l'armement russe ?",
+    "Un parti qui dépend d'un créancier étranger est-il totalement libre ?"
+  ],
+  "limites": [
+    "Le rapport de 2023 est contesté par le RN et a été adopté par la majorité de l'époque.",
+    "Les positions du RN sur la Russie ont évolué depuis 2022 ; la fiche ne les détaille pas."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport n° 1311 de la commission d'enquête relative aux ingérences politiques, économiques et financières de puissances étrangères (tome I)",
+      "organisme": "Assemblée nationale (président Jean-Philippe Tanguy, rapporteure Constance Le Grip)",
+      "date_publication": "1er juin 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/ceingeren/l16b1311-t1_rapport-enquete.pdf",
+      "passage": "« Le prêt de 9,4 millions d'euros contracté en 2014 auprès de la First Czech Russian Bank (FCRB), alors contrôlée par un oligarque russe, a été finalement racheté par l'entreprise russe Aviazapchast à la suite de la faillite de la banque en 2016 » ; « cette firme appartenant au complexe militaro-industriel en a rééchelonné le remboursement jusqu'en 2028 » ; la CNCCFP y voit un « avantage certain et conséquent » ; le rapport mentionne des déplacements d'élus au Donbass ou en Crimée annexée.",
+      "pertinence": "Rapport parlementaire officiel (adopté par la majorité de la commission).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Ingérences : qualifié de « courroie de transmission » de la Russie dans le rapport de la commission d'enquête, le RN dénonce un « procès politique »",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "1er juin 2023",
+      "url": "https://lcp.fr/actualites/ingerences-qualifie-de-courroie-de-transmission-de-la-russie-dans-le-rapport-de-la",
+      "passage": "Le rapport présente le FN/RN comme « une courroie de transmission » de la Russie ; selon la rapporteure, le parti s'est « avéré un relais assez affirmé, assez constant », notamment sur l'annexion de la Crimée en 2014 ; le président RN de la commission affirme que « rien n'a permis d'établir une ingérence au cours des auditions » ; rapport adopté par 11 voix contre 5.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "French far-right party says Russian loan repaid",
+      "organisme": "AFP, via The Local",
+      "date_publication": "21 septembre 2023",
+      "url": "https://www.thelocal.fr/20230921/french-far-right-party-says-russian-loan-repaid",
+      "passage": "Le Rassemblement national a annoncé dans un communiqué avoir remboursé par anticipation les 6,1 millions d'euros restants sur le prêt de 9,4 millions, avant l'échéance de 2028.",
+      "pertinence": "Dépêche AFP rapportant une annonce du parti.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le rapport n'établit pas de contrepartie prouvée au prêt.",
+    "Le RN affirme avoir remboursé le prêt en 2023, et le président de la commission conteste les conclusions."
+  ],
+  "publics": {
+    "convaincus": "Je ne dis pas que le RN est payé par Poutine, le rapport ne le prouve pas. Mais le prêt de 9,4 millions venu d'une banque russe, puis racheté par une entreprise de l'armement russe, ce n'est pas de la propagande : le parti l'a lui-même reconnu et remboursé. Tu as le droit de te demander si c'est compatible avec l'indépendance de la France.",
+    "indecis": "Le sujet est souvent caricaturé des deux côtés. Les faits établis : un prêt russe de 9,4 millions d'euros en 2014 et des positions favorables à Moscou décrites par un rapport parlementaire. Aucune contrepartie n'est prouvée, et le RN dit avoir remboursé en 2023."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "paix",
+      "libertes"
+    ],
+    "mecanismes": "Qualifier de « propagande » des faits établis permet d’éviter la question de l’indépendance d’un parti.",
+    "consequences": "La dépendance d’un parti envers une puissance étrangère fragilise la souveraineté démocratique.",
+    "democratie": "La transparence des financements politiques est une condition de la démocratie.",
+    "propositions": [
+      "Interdire les prêts de personnes étrangères non résidentes aux partis politiques.",
+      "Renforcer le contrôle des financements politiques."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le rapport n’établit pas de contrepartie prouvée, et le RN dit avoir remboursé le prêt.",
+        "integration": "Le dire précisément, sans aller au-delà des faits établis."
+      }
+    ]
+  },
+  "concepts": [
+    "patriotisme",
+    "medias",
+    "desinformation",
+    "fn_parti",
+    "russie"
+  ],
+  "repond_a": [
+    {
+      "id": "rn_russie",
+      "label": "Le RN et la Russie"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite",
+    "nous cachent",
+    "on nous cache",
+    "propagande"
+  ]
+}

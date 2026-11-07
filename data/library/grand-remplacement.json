@@ -114,6 +114,10 @@
     "La part des immigrés dans la population augmente et atteint un niveau historiquement élevé.",
     "Dans certains territoires, la part des immigrés est bien plus élevée que la moyenne nationale."
   ],
+  "publics": {
+    "convaincus": "Les immigrés représentent 11,2 % de la population selon l'Insee, et un tiers d'entre eux sont français. Plus de la moitié des enfants d'immigrés ont un parent qui ne l'est pas : c'est un mélange, pas un remplacement. Appeler « remplaçants » des enfants nés ici, c'est en faire des ennemis dans leur propre pays.",
+    "indecis": "L'impression que le pays change peut être réelle, surtout dans certains quartiers, et la part des immigrés augmente. Mais elle augmente lentement (6,6 % en 1931, 11,2 % en 2024), et les familles se mélangent. Le « grand remplacement » est une théorie du complot, pas une donnée démographique."
+  },
   "lecture": {
     "valeurs": [
       "antifascisme",
@@ -134,6 +138,12 @@
       }
     ]
   },
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "identite",
+    "demographie"
+  ],
   "repond_a": [
     {
       "id": "identite",
@@ -155,11 +165,5 @@
     "virer",
     "dehors",
     "remigration"
-  ],
-  "concepts": [
-    "immigration",
-    "expulsion",
-    "identite",
-    "demographie"
   ]
 }

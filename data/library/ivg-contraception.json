@@ -1,0 +1,160 @@
+{
+  "id": "ivg-contraception",
+  "type": "idee_recue",
+  "affirmation": "L'IVG est devenue un moyen de contraception.",
+  "volet": "droits",
+  "sous_theme": "Féminisme",
+  "rubriques": [],
+  "mots_cles": [
+    "ivg",
+    "avortement",
+    "contraception",
+    "avortent par confort",
+    "moyen de contraception",
+    "interruption volontaire de grossesse",
+    "pilule"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non. La plupart des IVG font suite à un échec de contraception : selon la HAS, deux grossesses non prévues sur trois surviennent sous contraception, et le ministère de la Santé indiquait que deux tiers des IVG résultent d'échecs contraceptifs. Le nombre d'IVG augmente (251 270 en 2024, 17,3 pour 1 000 femmes), mais il baisse chez les moins de 20 ans par rapport à il y a dix ans.",
+  "contexte": "L'idée que les femmes avorteraient « par confort » revient lors des débats sur l'IVG, notamment depuis son inscription dans la Constitution en 2024.",
+  "explication": "Aucune méthode de contraception n'est efficace à 100 %, surtout en pratique (oubli de pilule, préservatif mal utilisé). Une IVG est une démarche médicale encadrée, pas une méthode choisie à la place de la contraception.",
+  "faits": [
+    {
+      "fait": "Selon la DREES, 251 270 IVG ont été réalisées en France en 2024, soit 7 000 de plus qu'en 2023, et le taux de recours atteint 17,3 pour 1 000 femmes de 15 à 49 ans.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le nombre d'IVG augmente : c'est un fait à expliquer, pas à cacher.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "251 270"
+    },
+    {
+      "fait": "Selon la DREES, le taux d'IVG chez les moins de 20 ans est plus faible qu'il y a dix ans : 5,5 pour 1 000 contre 8,7.",
+      "periode": "2014-2024",
+      "perimetre": "France",
+      "explication": "Chez les plus jeunes, le recours baisse.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "5,5 ‰"
+    },
+    {
+      "fait": "Selon la Haute Autorité de santé (2013), deux grossesses non prévues sur trois surviennent alors qu'une méthode contraceptive est utilisée.",
+      "periode": "2013",
+      "perimetre": "France",
+      "explication": "La plupart des grossesses non prévues viennent d'un échec de contraception, pas de son absence.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2 sur 3"
+    },
+    {
+      "fait": "Selon le ministère de la Santé (2011), « deux tiers des IVG sont le résultat d'échecs contraceptifs » ; un rapport de l'IGAS indiquait que 72 % des IVG concernaient des femmes sous contraception.",
+      "periode": "2011",
+      "perimetre": "France",
+      "explication": "Les femmes qui avortent utilisaient en majorité une contraception.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "72 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : selon la HAS et le ministère de la Santé, environ deux tiers des grossesses non prévues et des IVG font suite à un échec de contraception. Le nombre d'IVG augmente (251 270 en 2024), mais pas parce que les femmes renonceraient à la contraception.",
+    "moyen": "La plupart des femmes qui avortent utilisaient une contraception. Selon la Haute Autorité de santé, deux grossesses non prévues sur trois surviennent sous contraception : oubli de pilule, préservatif qui craque, méthode mal adaptée.\n\nLe nombre d'IVG augmente bien depuis quelques années, avec 251 270 en 2024. Mais chez les moins de 20 ans, il baisse par rapport à il y a dix ans. La réponse passe par une contraception mieux adaptée à chacune, pas par la culpabilisation.",
+    "detaille": "Selon la DREES, 251 270 IVG ont été réalisées en France en 2024, 7 000 de plus qu'en 2023, soit un taux de 17,3 pour 1 000 femmes de 15 à 49 ans. Le taux le plus élevé concerne les 25-29 ans ; chez les moins de 20 ans, il est plus faible qu'il y a dix ans.\n\nL'idée d'une IVG « contraceptive » est contredite par les données disponibles. La Haute Autorité de santé indiquait en 2013 que deux grossesses non prévues sur trois surviennent alors qu'une méthode contraceptive est utilisée, et le ministère de la Santé que deux tiers des IVG résultent d'échecs contraceptifs. Un rapport de l'IGAS évaluait à 72 % la part des IVG concernant des femmes sous contraception.\n\nLa HAS en tirait une conclusion pratique : adapter la contraception au profil de chaque femme. Depuis mars 2024, la liberté de recourir à l'IVG est inscrite dans la Constitution ; la culpabilisation ne réduit pas les grossesses non désirées, l'accès à une contraception adaptée, si.",
+    "empathie": "Je comprends qu'on puisse être mal à l'aise avec l'avortement. Mais la plupart des femmes concernées avaient une contraception qui a échoué : ce n'est jamais une décision prise à la légère. Ce qui réduit vraiment les IVG, c'est une contraception mieux adaptée."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec la pilule gratuite, il n'y a plus d'excuse.",
+      "reponse": "Selon la HAS, deux grossesses non prévues sur trois surviennent sous contraception : aucune méthode n'est infaillible en pratique."
+    },
+    {
+      "objection": "Les jeunes avortent à tout va.",
+      "reponse": "Selon la DREES, le taux d'IVG des moins de 20 ans est plus faible qu'il y a dix ans."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la plupart des IVG font suite à un échec de contraception ?",
+    "Qu'est-ce qui, selon toi, réduirait vraiment les grossesses non désirées ?"
+  ],
+  "limites": [
+    "Les données sur l'usage d'une contraception au moment de la grossesse sont anciennes (2011-2013) ; aucune étude plus récente n'a pu être lue.",
+    "Les causes de la hausse récente des IVG ne sont pas analysées ici."
+  ],
+  "sources": [
+    {
+      "titre": "En 2024, 251 270 IVG ont eu lieu en France, dont 80 % sont médicamenteuses (Études et Résultats n° 1350)",
+      "organisme": "DREES (Annick Vilain, Jeanne Fresson)",
+      "date_publication": "25 septembre 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/250925-ER-ivg-en-france-en-2024",
+      "passage": "« 251 270 IVG ont été réalisées en France en 2024, soit 7 000 de plus qu'en 2023 » ; « le taux de recours à l'IVG atteint ainsi 17,3 ‰ en 2024 contre 16,8 ‰ en 2023 » chez les femmes de 15 à 49 ans ; le taux le plus élevé concerne les 25-29 ans (29,8 ‰) ; chez les moins de 20 ans, il est plus faible qu'il y a dix ans (5,5 ‰ contre 8,7 ‰).",
+      "pertinence": "Service statistique du ministère de la Santé.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vers une contraception mieux adaptée au profil de chacun (communiqué)",
+      "organisme": "Haute Autorité de santé (HAS)",
+      "date_publication": "15 mai 2013",
+      "url": "https://has-sante.fr/jcms/c_1545515/fr/vers-une-contraception-mieux-adaptee-au-profil-de-chacun",
+      "passage": "« Deux grossesses non prévues sur 3 surviennent alors qu'une méthode contraceptive est utilisée » ; « un tiers de ces grossesses est dû à l'absence de contraception ».",
+      "pertinence": "Autorité publique indépendante d'expertise en santé (données anciennes).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 91517 (IVG et contraception) et réponse du ministère de la Santé",
+      "organisme": "Assemblée nationale / ministère de la Santé",
+      "date_publication": "8 mars 2011",
+      "url": "https://www.questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE91517.pdf",
+      "passage": "La question cite le rapport de l'IGAS : « 72 % des IVG sont réalisés sur des femmes sous contraception » ; la réponse du ministère indique : « Deux tiers des IVG sont le résultat d'échecs contraceptifs ».",
+      "pertinence": "Réponse officielle du ministère compétent (données anciennes).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le nombre et le taux d'IVG augmentent depuis quelques années.",
+    "L'IVG reste un sujet de conscience pour beaucoup de personnes."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres de la Haute Autorité de santé disent l'inverse : deux grossesses non prévues sur trois arrivent sous contraception. Les femmes qui avortent n'ont pas « remplacé » la pilule par l'IVG, leur contraception a échoué. Si on veut moins d'IVG, il faut une meilleure contraception, pas de la honte.",
+    "indecis": "La hausse des IVG est réelle et mérite d'être comprise. Mais la plupart des IVG font suite à un échec de contraception, selon la HAS et le ministère de la Santé. Une contraception mieux adaptée à chaque femme est la piste la plus efficace."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "libertes",
+      "dignite"
+    ],
+    "mecanismes": "L’idée d’un avortement « de confort » culpabilise les femmes et ignore les échecs de contraception.",
+    "consequences": "La culpabilisation peut retarder l’accès à l’IVG et décourager le recours aux soins.",
+    "democratie": "La liberté de recourir à l’IVG est désormais inscrite dans la Constitution : la défendre, c’est garantir son accès réel partout.",
+    "propositions": [
+      "Une contraception gratuite et mieux adaptée à chaque femme.",
+      "Garantir l’accès à l’IVG dans tous les territoires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le nombre et le taux d’IVG augmentent depuis quelques années.",
+        "integration": "Le dire, et chercher les causes plutôt que de culpabiliser les femmes."
+      }
+    ]
+  },
+  "concepts": [
+    "femmes",
+    "feminisme"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "sexisme",
+    "patriarcat",
+    "egalite salariale",
+    "violences faites aux femmes"
+  ]
+}

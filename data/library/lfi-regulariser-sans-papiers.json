@@ -1,0 +1,169 @@
+{
+  "id": "lfi-regulariser-sans-papiers",
+  "type": "idee_recue",
+  "affirmation": "La France insoumise veut régulariser tous les sans-papiers.",
+  "volet": "politique",
+  "sous_theme": "France insoumise",
+  "rubriques": [],
+  "mots_cles": [
+    "régulariser",
+    "régularisation",
+    "sans papiers",
+    "tous les sans papiers",
+    "lfi",
+    "france insoumise",
+    "nfp",
+    "régularisation massive"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le programme du Nouveau Front populaire (2024) propose de « régulariser les travailleurs, étudiants, parents d'enfants scolarisés », et les députés LFI ont défendu la régularisation de tous les travailleurs sans papiers. C'est bien plus large qu'aujourd'hui, mais ce n'est pas une régularisation de tous, sans condition. En 2025, 28 610 personnes ont été régularisées.",
+  "contexte": "L'accusation de vouloir « régulariser tout le monde » est souvent opposée à LFI et au NFP pour résumer leur programme sur l'immigration.",
+  "explication": "Une régularisation consiste à donner un titre de séjour à une personne déjà présente sans papiers. Elle peut être générale ou réservée à certaines catégories (travailleurs, familles, étudiants). Le programme de la gauche choisit des catégories larges, liées au travail, aux études et aux enfants.",
+  "faits": [
+    {
+      "fait": "Selon le programme du Nouveau Front populaire (juin 2024), la coalition propose de « régulariser les travailleurs, étudiants, parents d'enfants scolarisés » et d'instituer la carte de séjour de dix ans comme titre de référence.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La proposition est large, mais elle vise des catégories, pas « tout le monde ».",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un amendement déposé par des députés LFI en novembre 2023, leur programme prévoit de « régulariser tous les travailleurs et travailleuses sans-papiers », avec un titre de séjour de plein droit sur preuve du travail.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La régularisation est liée au travail : il faut le dire clairement.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon les chiffres de la direction générale des étrangers en France (Public Sénat), 28 610 étrangers ont été régularisés en 2025, en baisse de 10,1 %.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La régularisation existe déjà au cas par cas ; la gauche propose de l'élargir.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "28 610"
+    }
+  ],
+  "argumentaires": {
+    "court": "Exagéré : le programme du NFP propose de régulariser les travailleurs, les étudiants et les parents d'enfants scolarisés, et LFI défend la régularisation de tous les travailleurs sans papiers. C'est beaucoup plus qu'aujourd'hui, mais pas « tous, sans condition ».",
+    "moyen": "Il faut être honnête : LFI et le NFP veulent régulariser beaucoup plus qu'aujourd'hui. Le programme de 2024 cite les travailleurs, les étudiants et les parents d'enfants scolarisés, et les députés LFI défendent un titre de séjour de plein droit pour les travailleurs sans papiers.\n\nMais ce n'est pas « régulariser tout le monde » : la logique est celle du travail, des études et des enfants. L'argument de gauche est simple : un travailleur sans papiers est un travailleur sans droits, donc sous-payé, ce qui tire tout le monde vers le bas.",
+    "detaille": "Le programme du Nouveau Front populaire de juin 2024 propose de « faciliter l'accès aux visas, régulariser les travailleurs, étudiants, parents d'enfants scolarisés », de faire de la carte de séjour de dix ans le titre de référence et d'abroger les lois immigration récentes. En 2023, des députés LFI ont défendu par amendement un titre de séjour de plein droit pour tous les travailleurs sans papiers, sur preuve de leur activité.\n\nC'est une rupture avec la politique actuelle : en 2025, selon le ministère de l'Intérieur, 28 610 personnes ont été régularisées, un chiffre en baisse après le durcissement des critères. Mais aucun texte lu ne propose de régulariser toutes les personnes sans papiers sans condition.\n\nLe débat est légitime : on peut contester l'ampleur de ces régularisations. Il doit porter sur ce qui est réellement proposé, et sur ses raisons : des centaines de milliers de personnes travaillent déjà, sans droits, dans le bâtiment, la restauration ou l'aide à domicile.",
+    "empathie": "Je comprends que l'idée de régularisations fasse peur, on a l'impression qu'on ouvre les vannes. Mais ce que propose la gauche, c'est de donner des papiers à des gens qui travaillent déjà ici, souvent dans des métiers dont on a besoin, pour qu'ils ne soient plus exploités."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Régulariser, c'est créer un appel d'air.",
+      "reponse": "La proposition vise des personnes déjà présentes et qui travaillent ; elle s'accompagne dans le programme d'autres mesures sur l'accueil, à juger sur pièces."
+    },
+    {
+      "objection": "Tous les sans-papiers diront qu'ils travaillent.",
+      "reponse": "Le texte des députés LFI prévoit d'établir l'exercice professionnel : c'est une condition, pas une régularisation automatique."
+    }
+  ],
+  "questions": [
+    "As-tu lu ce que dit vraiment le programme sur la régularisation ?",
+    "Un travailleur sans papiers, à qui profite le fait qu'il n'ait aucun droit ?"
+  ],
+  "limites": [
+    "Les programmes peuvent évoluer ; la fiche décrit le programme du NFP de 2024 et des positions LFI de 2023.",
+    "Le nombre de personnes concernées par la proposition n'est pas chiffré dans les sources lues."
+  ],
+  "sources": [
+    {
+      "titre": "Contrat de législature du Nouveau Front populaire (programme)",
+      "organisme": "Nouveau Front populaire (document hébergé par La France insoumise)",
+      "date_publication": "Juin 2024",
+      "url": "https://lafranceinsoumise.fr/wp-content/uploads/2024/06/PROGRAMME-FRONT-POPULAIRE.pdf",
+      "passage": "Rubrique « Garantir un accueil digne » : « Faciliter l'accès aux visas, régulariser les travailleurs, étudiants, parents d'enfants scolarisés » ; « instituer la carte de séjour de dix ans comme titre de séjour de référence » ; « Abroger les lois asile et immigration de Macron ». Le document ne prévoit pas de régularisation générale sans condition.",
+      "pertinence": "Programme électoral, cité uniquement pour décrire ce que propose la coalition.",
+      "type": "partisane",
+      "consultee": true
+    },
+    {
+      "titre": "Amendement CL737 au projet de loi pour contrôler l'immigration, améliorer l'intégration (n° 1855)",
+      "organisme": "Assemblée nationale (amendement de députés LFI : Danièle Obono, Ugo Bernalicis, Adrien Quatennens et autres)",
+      "date_publication": "23 novembre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/amendements/1855/CION_LOIS/CL737.pdf",
+      "passage": "Les auteurs indiquent que leur programme prévoit de « régulariser tous les travailleurs et travailleuses sans-papiers » et demandent pour eux un titre de séjour de plein droit en établissant par tout moyen leur exercice professionnel.",
+      "pertinence": "Document parlementaire officiel décrivant une proposition du groupe LFI.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Immigration : titres de séjour en nette hausse et régularisations en baisse sur l'année 2025",
+      "organisme": "Public Sénat (Romain David, avec l'AFP), d'après la DGEF",
+      "date_publication": "27 janvier 2026",
+      "url": "https://www.publicsenat.fr/actualites/societe/immigration-titres-de-sejour-en-nette-hausse-et-regularisations-en-baisse-sur-lannee-2025",
+      "passage": "Selon la direction générale des étrangers en France, 28 610 étrangers ont été régularisés en 2025 (-10,1 %), avec une baisse de 11,5 % pour motif économique et de 6,4 % pour motif familial ; « il y a l'impact de la circulaire Retailleau ».",
+      "pertinence": "Média parlementaire rendant compte des chiffres officiels du ministère de l'Intérieur.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La gauche propose bien des régularisations beaucoup plus larges qu'aujourd'hui.",
+    "On peut débattre des effets d'une régularisation large sur les flux migratoires."
+  ],
+  "publics": {
+    "convaincus": "Tu peux être contre, c'est ton droit, mais critique ce qui est vraiment proposé : régulariser les gens qui travaillent, étudient ou ont des enfants à l'école, pas « tout le monde ». Et pose-toi la question : un sans-papiers qui travaille au noir, ça arrange surtout le patron qui le paie mal.",
+    "indecis": "La gauche propose en effet plus de régularisations, pour des personnes qui travaillent déjà ici, des étudiants et des parents d'enfants scolarisés. C'est un vrai choix politique, qu'on peut discuter. Mais ce n'est pas « régulariser tout le monde » : ce sont des catégories précises."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "egalite"
+    ],
+    "mecanismes": "La caricature d’une régularisation « de tous » évite de discuter de la situation réelle : des personnes qui travaillent déjà, sans droits.",
+    "consequences": "Le travail sans papiers tire les salaires et les conditions de travail vers le bas pour tous les salariés.",
+    "democratie": "Un débat honnête porte sur ce qui est réellement proposé, programme en main.",
+    "propositions": [
+      "Régulariser les travailleurs sans papiers sur preuve de leur activité, comme le propose la gauche.",
+      "Renforcer les contrôles contre les employeurs qui exploitent le travail illégal."
+    ],
+    "defavorables": [
+      {
+        "fait": "La gauche propose bien des régularisations beaucoup plus larges qu’aujourd’hui.",
+        "integration": "L’assumer, en expliquant pourquoi : mêmes droits, mêmes salaires, moins d’exploitation."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "melenchon_lfi",
+    "gauche",
+    "regularisation"
+  ],
+  "repond_a": [
+    {
+      "id": "regularisation_lfi",
+      "label": "La gauche et la régularisation"
+    },
+    {
+      "id": "regularisation_gauche",
+      "label": "La gauche et la régularisation"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise",
+    "nupes"
+  ]
+}

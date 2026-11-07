@@ -1,0 +1,194 @@
+{
+  "id": "impots-entreprises-europe",
+  "type": "idee_recue",
+  "affirmation": "Les entreprises françaises paient les impôts les plus élevés d'Europe.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "impôt sur les sociétés",
+    "impots des entreprises",
+    "entreprises surtaxées",
+    "les plus élevés d europe",
+    "impôts de production",
+    "is",
+    "charges des entreprises",
+    "aides aux entreprises"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Plus vrai aujourd'hui pour l'impôt sur les bénéfices : son taux normal est de 25 % depuis 2022 (25,8 % avec la contribution sociale), proche de la moyenne européenne et sous Malte, le Portugal ou l'Allemagne. Les impôts de production restent plus élevés qu'ailleurs (3,8 % du PIB en 2021). Mais les entreprises reçoivent aussi au moins 211 milliards d'euros d'aides publiques par an, selon le Sénat.",
+  "contexte": "L'argument est utilisé contre toute hausse de la fiscalité des entreprises, au nom de la compétitivité.",
+  "explication": "Les entreprises paient plusieurs types de prélèvements : l'impôt sur les bénéfices, les impôts de production (sur le chiffre d'affaires ou les locaux), et les cotisations sociales. Il faut aussi compter ce qu'elles reçoivent : exonérations de cotisations, crédits d'impôt, subventions.",
+  "faits": [
+    {
+      "fait": "Selon Toute l'Europe, le taux légal de l'impôt sur les sociétés en France est de 25,8 % avec la contribution sociale, légèrement au-dessus de la moyenne européenne, et inférieur à ceux de Malte (35 %), du Portugal (31,5 %) et de l'Allemagne (29,8 %).",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "La France n'a plus le taux d'impôt sur les bénéfices le plus élevé d'Europe.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "25,8 %"
+    },
+    {
+      "fait": "Selon Toute l'Europe, en 2019, avant la baisse du taux légal de 33 % à 25 %, la France avait le taux effectif moyen d'impôt sur les sociétés le plus élevé d'Europe (30,3 %).",
+      "periode": "2019",
+      "perimetre": "Europe",
+      "explication": "L'affirmation était vraie il y a quelques années : elle ne l'est plus pour l'impôt sur les bénéfices.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "30,3 %"
+    },
+    {
+      "fait": "Selon Toute l'Europe, la France est le deuxième pays au monde où le taux légal de l'impôt sur les sociétés a le plus baissé entre 2021 et 2022.",
+      "periode": "2021-2022",
+      "perimetre": "Monde",
+      "explication": "L'impôt sur les bénéfices a été fortement réduit ces dernières années.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Institut Montaigne, les impôts de production représentaient en France 3,8 % du PIB en 2021 (95 milliards d'euros), contre 2,5 % en moyenne dans les 11 pays étudiés.",
+      "periode": "2021",
+      "perimetre": "Europe",
+      "explication": "Sur les impôts de production, la France reste plus élevée que ses voisins.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "3,8 %"
+    },
+    {
+      "fait": "Selon la commission d'enquête du Sénat, les aides publiques aux entreprises atteignaient au moins 211 milliards d'euros en 2023, dont environ 80 milliards d'allègements de cotisations et 43 milliards de dépenses fiscales.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les prélèvements sur les entreprises sont en partie compensés par des aides massives.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "211 Md€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : l'impôt sur les bénéfices est de 25 % depuis 2022, dans la moyenne européenne. Les impôts de production restent élevés, mais les entreprises reçoivent au moins 211 milliards d'euros d'aides publiques par an (Sénat).",
+    "moyen": "Ce n'est plus vrai pour l'impôt sur les bénéfices : son taux est passé à 25 % en 2022 (25,8 % avec la contribution sociale), proche de la moyenne européenne et en dessous de l'Allemagne ou du Portugal.\n\nLes impôts de production restent plus lourds qu'ailleurs, c'est vrai. Mais il faut faire le compte complet : selon une commission d'enquête du Sénat, adoptée à l'unanimité, les entreprises ont reçu au moins 211 milliards d'euros d'aides publiques en 2023, dont 80 milliards d'exonérations de cotisations.",
+    "detaille": "En 2019, la France avait encore le taux effectif d'impôt sur les sociétés le plus élevé d'Europe (30,3 %). Ce n'est plus le cas : le taux normal est de 25 % depuis 2022, 25,8 % avec la contribution sociale, proche de la moyenne européenne. Malte (35 %), le Portugal (31,5 %) et l'Allemagne (29,8 % avec la fiscalité locale) font plus. La France est le deuxième pays au monde où ce taux a le plus baissé entre 2021 et 2022.\n\nLes impôts de production, qui pèsent sur l'activité indépendamment des bénéfices, restent plus élevés qu'ailleurs : 3,8 % du PIB en 2021 contre 2,5 % en moyenne dans les pays étudiés par l'Institut Montaigne, même s'ils ont baissé.\n\nMais l'argent circule dans les deux sens : selon la commission d'enquête du Sénat, les aides publiques aux entreprises atteignaient au moins 211 milliards d'euros en 2023, dont 80 milliards d'allègements de cotisations et 43 milliards de niches fiscales. La vraie question est l'efficacité de ces aides et leur contrepartie en emplois et en salaires.",
+    "empathie": "Je comprends que les chefs d'entreprise aient l'impression d'être étranglés, surtout les petits. Mais l'impôt sur les bénéfices a beaucoup baissé, et les grandes entreprises reçoivent énormément d'aides publiques : la question, c'est de savoir à qui elles profitent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec ces impôts, les entreprises vont partir.",
+      "reponse": "Le taux d'impôt sur les bénéfices est désormais dans la moyenne européenne, et les aides publiques dépassent 200 milliards d'euros par an."
+    },
+    {
+      "objection": "Les aides ne sont qu'un juste retour des impôts.",
+      "reponse": "La commission d'enquête du Sénat, adoptée à l'unanimité, réclame justement un « choc de transparence » sur leur efficacité."
+    }
+  ],
+  "questions": [
+    "Sais-tu quel est le taux de l'impôt sur les sociétés en Allemagne ?",
+    "Les 211 milliards d'aides, sais-tu ce qu'on demande aux entreprises en échange ?"
+  ],
+  "limites": [
+    "Aucune source lue ne propose un classement unique de la fiscalité totale des entreprises en Europe.",
+    "Les données sur les impôts de production datent de 2021."
+  ],
+  "sources": [
+    {
+      "titre": "[Carte] L'impôt sur les sociétés dans les États membres de l'Union européenne",
+      "organisme": "Toute l'Europe (Juliette Verdes)",
+      "date_publication": "11 mai 2023",
+      "url": "https://www.touteleurope.eu/economie-et-social/carte-impot-sur-les-societes-dans-les-etats-membres-de-l-union-europeenne/",
+      "passage": "Taux légal de l'impôt sur les sociétés en France : 25,8 % avec la contribution sociale, légèrement au-dessus de la moyenne européenne ; plus élevé à Malte (35 %), au Portugal (31,5 %) et en Allemagne (29,8 % avec la fiscalité locale) ; plus bas en Hongrie (9 %), Bulgarie (10 %), Irlande (12,5 %) ; la France est le 2e pays au monde où le taux légal a le plus baissé entre 2021 et 2022.",
+      "pertinence": "Site d'information de référence sur les questions européennes.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Taxation des entreprises : comprendre la concurrence fiscale en Europe",
+      "organisme": "Toute l'Europe (Arthur Olivier)",
+      "date_publication": "20 juillet 2021",
+      "url": "https://www.touteleurope.eu/economie-et-social/taxation-des-entreprises-comprendre-la-concurrence-fiscale-en-europe/",
+      "passage": "Le taux légal de l'impôt sur les sociétés en France était au maximum de 33 % avant la réforme, avec un objectif de 25 % ; en 2019, la France avait « le taux effectif moyen le plus élevé d'Europe (30,3 % en 2019) », contre 20,1 % en moyenne dans l'OCDE.",
+      "pertinence": "Site d'information de référence sur les questions européennes (données anciennes).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Baromètre européen des impôts de production 2023",
+      "organisme": "Institut Montaigne (Lisa Darbois)",
+      "date_publication": "Février 2023",
+      "url": "https://www.institutmontaigne.org/publications/barometre-europeen-des-impots-de-production-2023",
+      "passage": "En 2021, les impôts de production représentent en France 3,8 % du PIB (95 Md€), contre 4,4 % en 2020 ; moyenne des 11 pays étudiés : 2,5 % du PIB ; la baisse s'explique surtout par la baisse de la CVAE.",
+      "pertinence": "Think tank libéral (proche des entreprises) : cité pour un fait défavorable.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Un coût annuel de 211 milliards d'euros : la commission d'enquête du Sénat sur les aides publiques aux entreprises réclame un « choc de transparence »",
+      "organisme": "Public Sénat (Guillaume Jacquot)",
+      "date_publication": "8 juillet 2025",
+      "url": "https://www.publicsenat.fr/actualites/economie/un-cout-annuel-de-211-milliards-deuros-la-commission-denquete-du-senat-sur-les-aides-publiques-aux-entreprises-reclame-un-choc-de-transparence",
+      "passage": "En 2023, les aides publiques de l'État aux entreprises atteignent « au moins 211 milliards d'euros », dont environ 80 Md€ d'allègements de cotisations et environ 43 Md€ de dépenses fiscales ; rapport adopté à l'unanimité le 1er juillet 2025 (président LR, rapporteur PCF).",
+      "pertinence": "Média parlementaire rendant compte d'une commission d'enquête transpartisane.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les impôts de production restent plus élevés en France que chez ses voisins.",
+    "Les cotisations sociales patronales sont importantes, même après les allègements."
+  ],
+  "publics": {
+    "convaincus": "Si tu parles de l'impôt sur les bénéfices, regarde les chiffres : 25 % en France, presque 30 % en Allemagne. Et les entreprises touchent au moins 211 milliards d'aides publiques par an, selon une commission du Sénat votée à l'unanimité, droite comprise. Le problème n'est pas qu'on les taxe trop, c'est qu'on ne sait pas ce que deviennent ces aides.",
+    "indecis": "Les entreprises françaises paient des impôts de production élevés, c'est vrai. Mais leur impôt sur les bénéfices est dans la moyenne européenne depuis 2022, et elles reçoivent des aides publiques considérables. Pour juger, il faut regarder les deux colonnes du compte."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "travailleurs",
+      "services_publics"
+    ],
+    "mecanismes": "On parle des impôts payés par les entreprises sans parler des aides qu’elles reçoivent, ni de la baisse de l’impôt sur les bénéfices.",
+    "consequences": "Les aides publiques sans contreparties pèsent sur le budget et donc sur les services publics, sans garantie d’emplois ou de salaires.",
+    "democratie": "L’argent public versé aux entreprises doit être transparent et contrôlé, comme toute dépense publique.",
+    "propositions": [
+      "Conditionner les aides publiques à des engagements sur l’emploi, les salaires et l’écologie.",
+      "Taxer davantage les bénéfices distribués que ceux réinvestis."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les impôts de production restent plus élevés en France que chez ses voisins.",
+        "integration": "Le reconnaître, et proposer d’alléger ce qui pèse sur la production tout en taxant les profits distribués."
+      }
+    ]
+  },
+  "concepts": [
+    "prestations",
+    "fiscalite",
+    "riches_entreprises",
+    "europe"
+  ],
+  "repond_a": [
+    {
+      "id": "impots_entreprises",
+      "label": "Fiscalité des entreprises"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ]
+}

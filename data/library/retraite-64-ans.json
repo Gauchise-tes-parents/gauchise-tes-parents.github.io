@@ -114,6 +114,10 @@
     "Le système est en déficit et le besoin de financement augmente à long terme selon le COR.",
     "Le vieillissement de la population pèse réellement sur l'équilibre du système."
   ],
+  "publics": {
+    "convaincus": "Selon le Conseil d'orientation des retraites, le déficit était de 0,1 % du PIB en 2024 et les dépenses resteraient presque stables jusqu'en 2070. Ce n'est pas une faillite : c'est la baisse des ressources qui crée le déficit. Reculer l'âge est un choix politique, pas une obligation, surtout quand un quart des gens ne sont plus en emploi à 61 ans.",
+    "indecis": "Le financement des retraites est une vraie question. Les chiffres du COR montrent un déficit limité et des dépenses à peu près stables : reculer l'âge est une option parmi d'autres, qui pèse surtout sur ceux dont la santé ne permet pas de travailler plus longtemps."
+  },
   "lecture": {
     "valeurs": [
       "travailleurs",
@@ -134,6 +138,10 @@
       }
     ]
   },
+  "concepts": [
+    "dette",
+    "retraite"
+  ],
   "repond_a": [
     {
       "id": "retraite_age",
@@ -150,9 +158,5 @@
     "argent magique",
     "n a plus les moyens",
     "reforme des retraites"
-  ],
-  "concepts": [
-    "dette",
-    "retraite"
   ]
 }

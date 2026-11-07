@@ -113,6 +113,10 @@
     "En durée annuelle effective, la France est avant-dernière de l'Union européenne.",
     "Le taux d'emploi des 60-64 ans reste nettement plus faible que dans des pays comme la Suède ou le Japon."
   ],
+  "publics": {
+    "convaincus": "Un salarié français à temps complet travaille 39,9 heures par semaine, contre 40,2 en Allemagne selon Eurostat : l'écart est minuscule. Ce qui manque, ce sont les emplois pour les jeunes et les seniors : à 61 ans, près d'une personne sur quatre n'est ni en emploi ni à la retraite, souvent pour raison de santé. Ce ne sont pas des paresseux.",
+    "indecis": "La durée annuelle du travail est plus basse en France, c'est vrai. Mais à temps complet, les Français travaillent presque autant que leurs voisins, et 10 % des salariés font 49 heures ou plus. La différence vient surtout du faible emploi des jeunes et des seniors."
+  },
   "lecture": {
     "valeurs": [
       "travailleurs",
@@ -133,6 +137,12 @@
       }
     ]
   },
+  "concepts": [
+    "emploi",
+    "salaires",
+    "travail_effort",
+    "temps_travail"
+  ],
   "repond_a": [
     {
       "id": "temps_travail",
@@ -153,11 +163,5 @@
     "smic",
     "dumping",
     "baisser les salaires"
-  ],
-  "concepts": [
-    "emploi",
-    "salaires",
-    "travail_effort",
-    "temps_travail"
   ]
 }

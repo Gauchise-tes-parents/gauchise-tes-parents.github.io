@@ -113,6 +113,10 @@
     "Le nombre d'acquisitions de la nationalité varie selon les années et selon les choix administratifs.",
     "Les conditions précises (langue, durée de résidence) relèvent d'un débat politique légitime."
   ],
+  "publics": {
+    "convaincus": "La nationalité ne se donne pas : en 2021, 58 % des acquisitions étaient des naturalisations, une décision de l'État réservée aux étrangers en séjour régulier qui remplissent les conditions du Code civil. Un enfant né en France de parents étrangers ne devient français qu'à 18 ans, s'il a grandi ici. Dire « n'importe qui », c'est faux.",
+    "indecis": "Il est normal de vouloir que la nationalité ait du sens. Les règles existent : naturalisation sous conditions, mariage, ou jeunes nés et élevés en France. En 2021, 130 385 personnes sont devenues françaises, selon l'Insee."
+  },
   "lecture": {
     "valeurs": [
       "universalite",
@@ -133,6 +137,10 @@
       }
     ]
   },
+  "concepts": [
+    "immigration",
+    "nationalite"
+  ],
   "repond_a": [
     {
       "id": "nationalite",
@@ -151,9 +159,5 @@
     "devenir francais",
     "droit du sol",
     "papiers francais"
-  ],
-  "concepts": [
-    "immigration",
-    "nationalite"
   ]
 }

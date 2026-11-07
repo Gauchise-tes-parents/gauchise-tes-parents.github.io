@@ -104,6 +104,10 @@
     "Une hausse très forte et très rapide peut peser sur les petites entreprises à faible marge.",
     "L'étude citée porte sur l'Allemagne, dont le marché du travail diffère de celui de la France."
   ],
+  "publics": {
+    "convaincus": "L'Allemagne a créé un salaire minimum en 2015 : l'étude de Dustmann et Lindner n'a pas trouvé de baisse de l'emploi, et les moins bien payés ont gagné environ 6,7 %. Ce n'est pas une loi de la nature, c'est un choix. Et aujourd'hui, 6,6 % des salariés vivent sous le seuil de pauvreté : le problème, ce sont les salaires trop bas.",
+    "indecis": "La crainte pour l'emploi se comprend, surtout pour les petites entreprises. Mais les études récentes, comme celle sur le salaire minimum allemand, ne trouvent pas de destruction d'emplois mesurable. L'effet dépend du niveau et du rythme des hausses : c'est un débat à mener avec des chiffres."
+  },
   "lecture": {
     "valeurs": [
       "travailleurs",
@@ -124,6 +128,12 @@
       }
     ]
   },
+  "concepts": [
+    "emploi",
+    "salaires",
+    "cout",
+    "salaire_minimum"
+  ],
   "repond_a": [
     {
       "id": "smic_emploi",
@@ -144,11 +154,5 @@
     "smic",
     "dumping",
     "baisser les salaires"
-  ],
-  "concepts": [
-    "emploi",
-    "salaires",
-    "cout",
-    "salaire_minimum"
   ]
 }

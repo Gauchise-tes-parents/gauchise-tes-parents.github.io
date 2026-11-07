@@ -99,6 +99,7 @@ FICHES = []
 
 # 1 ── Cartes Vitale ─────────────────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "Le chiffre vient d'un vrai problème de 2018 : 2,2 millions de cartes non désactivées. Mais une carte sans droits ouverts ne rembourse rien, et le ministère de la Santé dit qu'il n'y a plus de carte en trop depuis avril 2024. Continuer à brandir ce chiffre, c'est viser un problème déjà réglé, pendant que la fraude des employeurs coûte bien plus.", 'indecis': "Il y a bien eu des cartes Vitale en trop, surtout des cartes jamais désactivées après un décès ou un départ. Mais l'Assurance maladie vérifie les droits à chaque remboursement, et selon le ministère, le fichier est nettoyé depuis 2024."},
  id='cartes-vitale-en-trop', affirmation="Il y a des millions de cartes Vitale en trop.", volet='social', sous_theme='Fraude sociale',
  mots_cles=['cartes vitale', 'carte vitale', 'vitale', 'surnuméraires', 'cartes en trop', 'millions de cartes', 'assurance maladie', 'fraude', 'sécu'],
  verdict='contredit', fiabilite='etabli',
@@ -127,6 +128,7 @@ FICHES.append(fiche(
 
 # 2 ── SMIC ──────────────────────────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "L'Allemagne a créé un salaire minimum en 2015 : l'étude de Dustmann et Lindner n'a pas trouvé de baisse de l'emploi, et les moins bien payés ont gagné environ 6,7 %. Ce n'est pas une loi de la nature, c'est un choix. Et aujourd'hui, 6,6 % des salariés vivent sous le seuil de pauvreté : le problème, ce sont les salaires trop bas.", 'indecis': "La crainte pour l'emploi se comprend, surtout pour les petites entreprises. Mais les études récentes, comme celle sur le salaire minimum allemand, ne trouvent pas de destruction d'emplois mesurable. L'effet dépend du niveau et du rythme des hausses : c'est un débat à mener avec des chiffres."},
  id='smic-detruit-emplois', affirmation="Augmenter le SMIC détruit des emplois.", volet='social', sous_theme='Emploi et salaires',
  mots_cles=['smic', 'salaire minimum', 'augmenter le smic', 'hausse du smic', 'coup de pouce', 'détruit des emplois', 'tue l emploi', 'coût du travail', 'bas salaires'],
  verdict='trompeur', fiabilite='debat',
@@ -155,6 +157,7 @@ FICHES.append(fiche(
 
 # 3 ── Héritage ──────────────────────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "La moitié d'une génération hérite de moins de 70 000 €, et ces héritages sont déjà peu ou pas taxés. Ceux qui paient vraiment peu, ce sont les très gros héritiers : environ 10 % de taux effectif pour le top 0,1 %, selon le Conseil d'analyse économique. Défendre leur exonération au nom des petites familles, c'est se tromper de combat.", 'indecis': "Vouloir transmettre à ses enfants est légitime, et la plupart des héritages sont modestes. La question porte sur les très gros patrimoines, faiblement taxés, alors que l'héritage pèse de plus en plus dans le patrimoine total (60 % contre 35 % au début des années 1970)."},
  id='heritage-taxation', affirmation="L'héritage, c'est le fruit du travail des parents, il ne faut pas le taxer.", volet='social', sous_theme='Revenus du travail et du patrimoine',
  mots_cles=['héritage', 'heritage', 'succession', 'droits de succession', 'transmission', 'donation', 'hériter', 'taxer l héritage', 'impôt sur l héritage', 'patrimoine'],
  verdict='trompeur', fiabilite='interpretation',
@@ -184,6 +187,7 @@ FICHES.append(fiche(
 
 # 4 ── Fraude sociale / fiscale ─────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "La fraude sociale existe, environ 13 milliards d'euros par an selon le HCFiPS. Mais plus de la moitié vient des entreprises et des indépendants, surtout par le travail dissimulé, pas des allocataires. Et la seule fraude à la TVA est estimée entre 20 et 25 milliards : si on veut récupérer de l'argent, il faut regarder partout.", 'indecis': "Il est normal de vouloir lutter contre toutes les fraudes. Les estimations publiques montrent que la fraude sociale vient surtout des entreprises, et que la fraude fiscale est au moins aussi importante, même si elle est plus difficile à mesurer."},
  id='fraude-sociale-fiscale', affirmation="La fraude sociale coûte plus cher que la fraude fiscale.", volet='social', sous_theme='Fraude sociale',
  mots_cles=['fraude sociale', 'fraude fiscale', 'fraudeurs', 'fraude aux allocations', 'fraude aux prestations', 'travail dissimulé', 'travail au noir', 'tva', 'évasion fiscale', 'fraude'],
  verdict='contredit', fiabilite='estimation',
@@ -213,6 +217,7 @@ FICHES.append(fiche(
 
 # 5 ── Temps de travail ──────────────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "Un salarié français à temps complet travaille 39,9 heures par semaine, contre 40,2 en Allemagne selon Eurostat : l'écart est minuscule. Ce qui manque, ce sont les emplois pour les jeunes et les seniors : à 61 ans, près d'une personne sur quatre n'est ni en emploi ni à la retraite, souvent pour raison de santé. Ce ne sont pas des paresseux.", 'indecis': "La durée annuelle du travail est plus basse en France, c'est vrai. Mais à temps complet, les Français travaillent presque autant que leurs voisins, et 10 % des salariés font 49 heures ou plus. La différence vient surtout du faible emploi des jeunes et des seniors."},
  id='francais-travaillent-pas-assez', affirmation="Les Français ne travaillent pas assez.", volet='social', sous_theme='Emploi et salaires',
  mots_cles=['ne travaillent pas assez', 'travailler plus', 'temps de travail', 'heures', 'durée du travail', 'paresseux', 'feignants', '35 heures', 'travaillent moins', 'productivité'],
  verdict='trompeur', fiabilite='interpretation',
@@ -242,6 +247,7 @@ FICHES.append(fiche(
 
 # 6 ── Retraite à 64 ans ─────────────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "Selon le Conseil d'orientation des retraites, le déficit était de 0,1 % du PIB en 2024 et les dépenses resteraient presque stables jusqu'en 2070. Ce n'est pas une faillite : c'est la baisse des ressources qui crée le déficit. Reculer l'âge est un choix politique, pas une obligation, surtout quand un quart des gens ne sont plus en emploi à 61 ans.", 'indecis': "Le financement des retraites est une vraie question. Les chiffres du COR montrent un déficit limité et des dépenses à peu près stables : reculer l'âge est une option parmi d'autres, qui pèse surtout sur ceux dont la santé ne permet pas de travailler plus longtemps."},
  id='retraite-64-ans', affirmation="La retraite à 64 ans est indispensable.", volet='droits', sous_theme='Droits des travailleurs',
  mots_cles=['retraite', 'retraites', '64 ans', 'âge de départ', 'réforme des retraites', 'report de l âge', 'système de retraite', 'cor', 'répartition', 'déficit des retraites'],
  verdict='opinion', fiabilite='interpretation',
@@ -271,6 +277,7 @@ FICHES.append(fiche(
 
 # 7 ── Emploi après 50 ans ───────────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "La difficulté est réelle : l'emploi chute après 60 ans (44,4 % des 60-64 ans), et à 61 ans près d'une personne sur quatre n'est ni en emploi ni à la retraite, le plus souvent pour raison de santé. Ce ne sont pas les immigrés ni les jeunes qui en sont la cause : c'est l'usure au travail et les pratiques des employeurs.", 'indecis': "L'emploi des seniors progresse (61,7 % des 55-64 ans en 2025, contre 41 % en 2010), mais il reste bas après 60 ans. La Suède et le Japon font beaucoup mieux : la santé au travail et l'attitude des employeurs sont des leviers concrets."},
  id='emploi-apres-50-ans', affirmation="Pourquoi est-il si difficile de retrouver du travail après 50 ans ?", volet='social', sous_theme='Chômage',
  mots_cles=['après 50 ans', 'seniors', 'plus de 50 ans', 'cinquante ans', 'âge', 'retrouver du travail', 'licenciés', 'trop vieux', 'emploi des seniors', '55 ans'],
  type='reference', verdict=None, fiabilite='etabli',
@@ -299,6 +306,7 @@ FICHES.append(fiche(
 
 # 8 ── Syndicats ─────────────────────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "Les syndicats français sont parmi les plus faibles d'Europe : 11 % de salariés syndiqués, 5 % dans les petites entreprises, contre 23 % en moyenne dans l'UE. Ils ne bloquent pas l'économie : ils négocient les conventions collectives qui couvrent plus de 90 % des salariés du privé, y compris toi.", 'indecis': "Les grèves dans les transports gênent vraiment les usagers, c'est compréhensible d'être agacé. Mais l'essentiel du travail syndical, c'est la négociation des salaires minimaux de branche, des primes et des congés, dont profitent presque tous les salariés."},
  id='syndicats-bloquent', affirmation="Les syndicats empêchent les entreprises de fonctionner.", volet='droits', sous_theme='Droits des travailleurs',
  mots_cles=['syndicats', 'syndicat', 'syndicalistes', 'cgt', 'grèves', 'grève', 'bloquent', 'syndiqués', 'conventions collectives', 'dialogue social'],
  verdict='trompeur', fiabilite='interpretation',
@@ -328,6 +336,7 @@ FICHES.append(fiche(
 
 # 9 ── Nationalité ───────────────────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "La nationalité ne se donne pas : en 2021, 58 % des acquisitions étaient des naturalisations, une décision de l'État réservée aux étrangers en séjour régulier qui remplissent les conditions du Code civil. Un enfant né en France de parents étrangers ne devient français qu'à 18 ans, s'il a grandi ici. Dire « n'importe qui », c'est faux.", 'indecis': "Il est normal de vouloir que la nationalité ait du sens. Les règles existent : naturalisation sous conditions, mariage, ou jeunes nés et élevés en France. En 2021, 130 385 personnes sont devenues françaises, selon l'Insee."},
  id='nationalite-trop-facile', affirmation="Les étrangers obtiennent la nationalité française trop facilement.", volet='immigration', sous_theme='Nationalité et accès aux droits',
  mots_cles=['nationalité', 'naturalisation', 'naturalisés', 'devenir français', 'papiers français', 'droit du sol', 'naturaliser', 'donne la nationalité', 'code civil', 'acquisition de la nationalité'],
  verdict='trompeur', fiabilite='etabli',
@@ -474,6 +483,7 @@ FICHES.append(fiche(
 
 # 14 ── « Grand remplacement » ─────────────────────────────────────────────
 FICHES.append(fiche(
+ publics={'convaincus': "Les immigrés représentent 11,2 % de la population selon l'Insee, et un tiers d'entre eux sont français. Plus de la moitié des enfants d'immigrés ont un parent qui ne l'est pas : c'est un mélange, pas un remplacement. Appeler « remplaçants » des enfants nés ici, c'est en faire des ennemis dans leur propre pays.", 'indecis': "L'impression que le pays change peut être réelle, surtout dans certains quartiers, et la part des immigrés augmente. Mais elle augmente lentement (6,6 % en 1931, 11,2 % en 2024), et les familles se mélangent. Le « grand remplacement » est une théorie du complot, pas une donnée démographique."},
  id='grand-remplacement', affirmation="Le grand remplacement est une réalité.", volet='immigration', sous_theme='Immigration et démographie',
  mots_cles=['grand remplacement', 'remplacement', 'remplacés', 'remplacer', 'submersion', 'invasion', 'disparition', 'population française', 'remigration', 'immigration'],
  verdict='contredit', fiabilite='etabli',

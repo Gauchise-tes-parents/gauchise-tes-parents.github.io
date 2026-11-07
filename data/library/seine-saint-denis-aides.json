@@ -1,0 +1,194 @@
+{
+  "id": "seine-saint-denis-aides",
+  "type": "idee_recue",
+  "affirmation": "La Seine-Saint-Denis vit des aides de l'État.",
+  "volet": "services",
+  "sous_theme": "Services publics locaux",
+  "rubriques": [],
+  "mots_cles": [
+    "seine saint denis",
+    "93",
+    "neuf trois",
+    "banlieue",
+    "vit des aides",
+    "quartiers",
+    "assistés",
+    "département le plus pauvre"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "La Seine-Saint-Denis est le département le plus pauvre de métropole (28,4 % de pauvreté en 2021), et 22 % des allocataires de la Caf y vivent uniquement de prestations, contre 15 % en France. Mais un rapport parlementaire de 2018 montre qu'à besoins égaux, l'État y est moins présent : moins d'enseignants remplacés, policiers moins expérimentés, délais de justice beaucoup plus longs. Et le département était le 3e contributeur national de TVA.",
+  "contexte": "Le « 93 » sert souvent de symbole des banlieues « assistées » dans les discours sur l'immigration et l'insécurité.",
+  "explication": "Un territoire pauvre reçoit davantage de prestations sociales, qui dépendent des revenus de ses habitants. Mais les services publics (écoles, police, justice) relèvent de choix de l'État, et ils peuvent être moins bien dotés là où les besoins sont les plus grands.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, le taux de pauvreté de la Seine-Saint-Denis était de 28,4 % en 2021, contre 15,3 % pour l'ensemble du champ étudié.",
+      "periode": "2021",
+      "perimetre": "Seine-Saint-Denis",
+      "explication": "C'est le département le plus pauvre de métropole.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "28,4 %"
+    },
+    {
+      "fait": "Selon la Caf de la Seine-Saint-Denis, 58 % de la population est couverte par au moins une prestation légale, et 22 % des allocataires ont des ressources composées en totalité de prestations, contre 15 % au niveau national.",
+      "periode": "2024",
+      "perimetre": "Seine-Saint-Denis",
+      "explication": "La dépendance aux prestations est plus forte qu'ailleurs : c'est un fait.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "22 %"
+    },
+    {
+      "fait": "Selon le rapport parlementaire Cornut-Gentille et Kokouendo (2018), 51 % des absences d'enseignants du premier degré étaient remplacées en Seine-Saint-Denis en 2015-2016, contre 78 % en France, et le délai d'audiencement au tribunal d'instance d'Aubervilliers était de douze mois, contre deux à Paris.",
+      "periode": "2015-2018",
+      "perimetre": "Seine-Saint-Denis",
+      "explication": "À besoins plus élevés, les services de l'État y sont moins présents.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "51 %"
+    },
+    {
+      "fait": "Selon le même rapport, la Seine-Saint-Denis est le 3e contributeur national de TVA ; il note aussi que l'État y « surinvestit » dans certains dispositifs prioritaires, sans résultats suffisants.",
+      "periode": "2018",
+      "perimetre": "Seine-Saint-Denis",
+      "explication": "Le département produit beaucoup de richesse, et l'action de l'État y est à la fois insuffisante et mal ciblée.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le rapporteur (Public Sénat), « à besoins équivalents, la Seine-Saint-Denis n'est pas traitée de manière équitable » : 65 % d'enseignants néo-titulaires contre 21 % en France, et des policiers « moins nombreux, mais aussi moins expérimentés ».",
+      "periode": "2018",
+      "perimetre": "Seine-Saint-Denis",
+      "explication": "Le département a moins de moyens expérimentés là où il en faudrait plus.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "65 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la Seine-Saint-Denis est le département le plus pauvre de métropole, donc ses habitants touchent plus de prestations. Mais un rapport parlementaire de 2018 montre qu'à besoins égaux, l'État y est moins présent (écoles, police, justice), et le département était 3e contributeur national de TVA.",
+    "moyen": "C'est vrai, la Seine-Saint-Denis est pauvre : 28,4 % de pauvreté, et beaucoup de familles dépendent des prestations. Mais « vivre des aides » oublie l'autre moitié du tableau.\n\nUn rapport parlementaire de 2018, écrit par un député LR et un député de la majorité, montre qu'à besoins égaux, l'État y est moins présent : enseignants moins remplacés et moins expérimentés, policiers moins nombreux, un an d'attente au tribunal contre deux mois à Paris. Et le département était le 3e contributeur national de TVA.",
+    "detaille": "La Seine-Saint-Denis est le département le plus pauvre de métropole : 28,4 % de pauvreté en 2021 selon l'Insee. Selon la Caf, 58 % de la population est couverte par au moins une prestation, et 22 % des allocataires vivent uniquement de prestations, contre 15 % en moyenne. Ces chiffres traduisent la pauvreté de ses habitants : les prestations dépendent des revenus.\n\nLe rapport parlementaire de François Cornut-Gentille (LR) et Rodrigue Kokouendo (LREM), en 2018, montre que les services de l'État y sont moins bien dotés à besoins égaux : remplacement des enseignants absents à 51 % contre 78 % en France, 65 % d'enseignants néo-titulaires contre 21 %, policiers moins nombreux et moins expérimentés, douze mois de délai au tribunal d'Aubervilliers contre deux à Paris. Le rapport parle d'une République « en échec » et d'un traitement inéquitable.\n\nLe même rapport note que l'État « surinvestit » dans certains dispositifs prioritaires sans résultats suffisants : l'argent n'est pas toujours là où il faudrait. Il rappelle aussi que le département est le 3e contributeur national de TVA. Ce n'est pas un territoire qui vit des autres : c'est un territoire pauvre, actif, et mal servi.",
+    "empathie": "Je comprends que l'image du 93 fasse peur ou agace. Mais les habitants y ont moins de profs expérimentés, moins de policiers et des tribunaux engorgés, selon un rapport écrit par un député de droite. On ne peut pas leur reprocher de mal s'en sortir si l'État ne fait pas sa part."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec tout l'argent qu'on y met, ça devrait aller mieux.",
+      "reponse": "Le rapport de 2018 montre qu'à besoins égaux, les services régaliens (école, police, justice) y sont moins bien dotés, même si certains dispositifs sont coûteux et peu efficaces."
+    },
+    {
+      "objection": "Ils ne travaillent pas.",
+      "reponse": "Le département est le 3e contributeur national de TVA ; la pauvreté de ses habitants n'en fait pas un territoire inactif."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'un rapport d'un député LR concluait que la Seine-Saint-Denis était moins bien traitée par l'État ?",
+    "Si l'école y a les enseignants les moins expérimentés, à qui la faute ?"
+  ],
+  "limites": [
+    "Le rapport parlementaire date de 2018 ; ses données (2015-2017) ne sont peut-être plus à jour.",
+    "Aucune donnée fiable sur la création d'entreprises n'a été lue."
+  ],
+  "sources": [
+    {
+      "titre": "Niveau de vie et pauvreté des territoires en 2021 (Insee Résultats)",
+      "organisme": "Insee",
+      "date_publication": "29 janvier 2024",
+      "url": "https://www.insee.fr/fr/statistiques/7752770",
+      "passage": "Taux de pauvreté de la Seine-Saint-Denis en 2021 : 28,4 %, contre 15,3 % pour l'ensemble du champ (métropole, Martinique et La Réunion) ; la pauvreté est la plus élevée à la Martinique, en Seine-Saint-Denis et à La Réunion.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Portrait social 2025",
+      "organisme": "Caf de la Seine-Saint-Denis",
+      "date_publication": "2025 (données au 30 juin 2024)",
+      "url": "https://www.caf.fr/sites/default/files/medias/931/Professionnels-Documents/Publications/PortraitSocial2025-Caf93_V5.pdf",
+      "passage": "388 621 allocataires ; « 979 000 habitants sont couverts par au moins une prestation légale », soit 58 % de la population ; 83 300 foyers au RSA ; « 22 % des allocataires ont la totalité de leurs ressources financières composées de prestations légales », contre 15 % au niveau national.",
+      "pertinence": "Organisme public de sécurité sociale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information n° 1014 sur l'évaluation de l'action de l'État dans l'exercice de ses missions régaliennes en Seine-Saint-Denis",
+      "organisme": "Assemblée nationale (François Cornut-Gentille, Rodrigue Kokouendo)",
+      "date_publication": "31 mai 2018",
+      "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i1014.pdf",
+      "passage": "Taux de remplacement des enseignants absents dans le premier degré : 51,26 % en 2015-2016, contre 62,50 % dans le Val-de-Marne et 78,41 % en France ; au tribunal d'instance d'Aubervilliers, délai d'audiencement « de douze mois, contre deux mois à Paris » ; le département est « 3e contributeur national de la TVA » ; le rapport écrit aussi que « l'État surinvestit humainement et financièrement dans ce département » au titre des dispositifs prioritaires, sans résultats suffisants.",
+      "pertinence": "Rapport parlementaire transpartisan (un député LR, un député LREM) ; données anciennes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Un rapport parlementaire dénonce une « République en échec » en Seine-Saint-Denis",
+      "organisme": "Public Sénat (Tiphaine Le Liboux)",
+      "date_publication": "31 mai 2018",
+      "url": "https://www.publicsenat.fr/actualites/politique/un-rapport-parlementaire-denonce-une-republique-en-echec-en-seine-saint-denis",
+      "passage": "Selon le rapporteur, l'établissement scolaire « le moins bien doté de Paris reste mieux doté que le plus doté de Seine-Saint-Denis » ; part d'enseignants néo-titulaires : 21 % en France, 65 % en Seine-Saint-Denis ; policiers « moins nombreux, mais aussi moins expérimentés » ; « à besoins équivalents, la Seine-Saint-Denis n'est pas traitée de manière équitable ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La part des habitants dépendant des prestations est nettement plus élevée qu'ailleurs.",
+    "Le rapport de 2018 note aussi que l'État « surinvestit » dans certains dispositifs sans résultats suffisants."
+  ],
+  "publics": {
+    "convaincus": "Les gens du 93 touchent plus d'aides parce qu'ils sont plus pauvres, c'est mécanique. Mais un député LR a montré en 2018 qu'à besoins égaux, l'État y met moins de profs expérimentés, moins de policiers et des tribunaux saturés. Si tu veux plus d'ordre dans le 93, commence par exiger que l'État y fasse son travail.",
+    "indecis": "La Seine-Saint-Denis est pauvre, et beaucoup de familles y dépendent des prestations. Mais un rapport parlementaire transpartisan montre que l'État y est moins présent qu'ailleurs à besoins égaux. Ce n'est pas un territoire « assisté », c'est un territoire mal servi."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "antiracisme"
+    ],
+    "mecanismes": "Le département devient le symbole d’une population « assistée », alors que l’État y est moins présent à besoins égaux.",
+    "consequences": "Les habitants subissent à la fois la pauvreté et des services publics insuffisants.",
+    "democratie": "L’égalité républicaine suppose les mêmes services publics partout, et davantage là où les besoins sont plus grands.",
+    "propositions": [
+      "Donner à la Seine-Saint-Denis des enseignants, des policiers et des magistrats en nombre suffisant et expérimentés.",
+      "Évaluer et réorienter les dispositifs prioritaires peu efficaces."
+    ],
+    "defavorables": [
+      {
+        "fait": "La dépendance aux prestations y est plus forte qu’ailleurs, et l’État surinvestit dans certains dispositifs.",
+        "integration": "Le reconnaître, et montrer que le problème est l’efficacité et l’équité des moyens."
+      }
+    ]
+  },
+  "concepts": [
+    "prestations",
+    "pauvrete",
+    "services_publics",
+    "seine_saint_denis"
+  ],
+  "repond_a": [
+    {
+      "id": "seine_saint_denis",
+      "label": "La Seine-Saint-Denis et l’État"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ]
+}

@@ -114,6 +114,10 @@
     "Les grèves dans certains secteurs, comme les transports, gênent réellement les usagers.",
     "Les chiffres de syndicalisation cités datent de 2013 et de 2003."
   ],
+  "publics": {
+    "convaincus": "Les syndicats français sont parmi les plus faibles d'Europe : 11 % de salariés syndiqués, 5 % dans les petites entreprises, contre 23 % en moyenne dans l'UE. Ils ne bloquent pas l'économie : ils négocient les conventions collectives qui couvrent plus de 90 % des salariés du privé, y compris toi.",
+    "indecis": "Les grèves dans les transports gênent vraiment les usagers, c'est compréhensible d'être agacé. Mais l'essentiel du travail syndical, c'est la négociation des salaires minimaux de branche, des primes et des congés, dont profitent presque tous les salariés."
+  },
   "lecture": {
     "valeurs": [
       "travailleurs",
@@ -134,6 +138,10 @@
       }
     ]
   },
+  "concepts": [
+    "riches_entreprises",
+    "syndicats"
+  ],
   "repond_a": [
     {
       "id": "syndicats",
@@ -150,9 +158,5 @@
     "cfdt",
     "force ouvriere",
     "droit de greve"
-  ],
-  "concepts": [
-    "riches_entreprises",
-    "syndicats"
   ]
 }

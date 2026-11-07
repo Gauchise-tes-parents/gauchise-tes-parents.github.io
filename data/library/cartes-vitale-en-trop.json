@@ -103,6 +103,10 @@
     "Il y a bien eu plus de 2 millions de cartes en trop en 2018 : la gestion du fichier était défaillante.",
     "La fraude à l'Assurance maladie existe, même si elle ne passe pas principalement par les cartes surnuméraires."
   ],
+  "publics": {
+    "convaincus": "Le chiffre vient d'un vrai problème de 2018 : 2,2 millions de cartes non désactivées. Mais une carte sans droits ouverts ne rembourse rien, et le ministère de la Santé dit qu'il n'y a plus de carte en trop depuis avril 2024. Continuer à brandir ce chiffre, c'est viser un problème déjà réglé, pendant que la fraude des employeurs coûte bien plus.",
+    "indecis": "Il y a bien eu des cartes Vitale en trop, surtout des cartes jamais désactivées après un décès ou un départ. Mais l'Assurance maladie vérifie les droits à chaque remboursement, et selon le ministère, le fichier est nettoyé depuis 2024."
+  },
   "lecture": {
     "valeurs": [
       "solidarite",
@@ -123,6 +127,12 @@
       }
     ]
   },
+  "concepts": [
+    "prestations",
+    "secu_sociale",
+    "vitale",
+    "fraude"
+  ],
   "repond_a": [
     {
       "id": "cartes_vitale",
@@ -143,11 +153,5 @@
     "aide medicale",
     "qui profitent",
     "droit a tout"
-  ],
-  "concepts": [
-    "prestations",
-    "secu_sociale",
-    "vitale",
-    "fraude"
   ]
 }

@@ -135,6 +135,11 @@
       }
     ]
   },
+  "concepts": [
+    "logement",
+    "pauvrete",
+    "garantie_locative"
+  ],
   "repond_a": [
     {
       "id": "louer_sans_cdi",
@@ -155,10 +160,5 @@
     "coutent trop cher",
     "sans cdi",
     "pas de cdi"
-  ],
-  "concepts": [
-    "logement",
-    "pauvrete",
-    "garantie_locative"
   ]
 }

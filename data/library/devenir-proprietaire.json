@@ -123,6 +123,14 @@
       }
     ]
   },
+  "concepts": [
+    "emploi",
+    "salaires",
+    "prestations",
+    "logement",
+    "patriotisme",
+    "propriete"
+  ],
   "repond_a": [
     {
       "id": "propriete",
@@ -143,13 +151,5 @@
     "smic",
     "dumping",
     "baisser les salaires"
-  ],
-  "concepts": [
-    "emploi",
-    "salaires",
-    "prestations",
-    "logement",
-    "patriotisme",
-    "propriete"
   ]
 }

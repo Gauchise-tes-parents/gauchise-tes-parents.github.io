@@ -113,6 +113,10 @@
     "Les droits de succession rapportent plus en France que dans la moyenne de l'OCDE.",
     "Certaines successions moyennes, notamment entre personnes sans lien de parenté direct, peuvent être lourdement taxées."
   ],
+  "publics": {
+    "convaincus": "La moitié d'une génération hérite de moins de 70 000 €, et ces héritages sont déjà peu ou pas taxés. Ceux qui paient vraiment peu, ce sont les très gros héritiers : environ 10 % de taux effectif pour le top 0,1 %, selon le Conseil d'analyse économique. Défendre leur exonération au nom des petites familles, c'est se tromper de combat.",
+    "indecis": "Vouloir transmettre à ses enfants est légitime, et la plupart des héritages sont modestes. La question porte sur les très gros patrimoines, faiblement taxés, alors que l'héritage pèse de plus en plus dans le patrimoine total (60 % contre 35 % au début des années 1970)."
+  },
   "lecture": {
     "valeurs": [
       "egalite",
@@ -134,6 +138,12 @@
       }
     ]
   },
+  "concepts": [
+    "emploi",
+    "patriotisme",
+    "fiscalite",
+    "heritage"
+  ],
   "repond_a": [
     {
       "id": "heritage",
@@ -154,11 +164,5 @@
     "drapeau",
     "marseillaise",
     "de droite"
-  ],
-  "concepts": [
-    "emploi",
-    "patriotisme",
-    "fiscalite",
-    "heritage"
   ]
 }

@@ -1,0 +1,169 @@
+{
+  "id": "rn-tva-energie",
+  "type": "idee_recue",
+  "affirmation": "Baisser la TVA sur l'énergie, comme le propose le RN, c'est bon pour le pouvoir d'achat.",
+  "volet": "politique",
+  "sous_theme": "Programmes électoraux",
+  "rubriques": [],
+  "mots_cles": [
+    "tva sur l énergie",
+    "baisse de la tva",
+    "tva à 5,5",
+    "carburants",
+    "rn",
+    "rassemblement national",
+    "prix de l essence",
+    "pouvoir d achat",
+    "bardella"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "La baisse de la TVA à 5,5 % sur les carburants, l'électricité et le gaz, promise par le RN en 2024, baisserait les factures si elle est répercutée. Mais elle coûterait 11 à 17 milliards d'euros par an, profiterait en euros davantage aux ménages aisés (qui consomment plus d'énergie), et serait bloquée pour les carburants par le droit européen sans accord unanime des États.",
+  "contexte": "La mesure était une promesse phare du RN pour les européennes puis les législatives de 2024, présentée comme la réponse à la vie chère.",
+  "explication": "Une baisse générale de TVA profite à tous ceux qui consomment, proportionnellement à leur consommation : plus on consomme d'énergie, plus on y gagne en euros. Une aide ciblée, au contraire, va aux ménages qui en ont le plus besoin.",
+  "faits": [
+    {
+      "fait": "Selon un chiffrage du ministère de l'Économie rapporté par Public Sénat, la baisse de la TVA à 5,5 % sur l'énergie promise par le RN coûterait 16,8 milliards d'euros par an, dont environ 10 milliards pour les carburants.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La mesure est très coûteuse pour les finances publiques.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "16,8 Md€"
+    },
+    {
+      "fait": "Selon l'Institut Montaigne, la perte de recettes serait d'environ 11,3 milliards d'euros par an (entre 9 et 13,6 milliards), et la baisse sur les carburants exigerait de réviser la directive européenne sur la TVA à l'unanimité des États.",
+      "periode": "2024",
+      "perimetre": "France et UE",
+      "explication": "Même avec un chiffrage plus bas, le coût reste élevé, et la mesure n'est pas applicable seule.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "11,3 Md€"
+    },
+    {
+      "fait": "Selon l'Insee, le bouclier tarifaire et la remise carburant de 2022 ont fait gagner 420 € en moyenne aux 10 % les plus aisés, contre 180 € aux 10 % les plus modestes ; rapporté au revenu, le gain était plus fort pour les modestes (+0,7 % contre +0,4 %).",
+      "periode": "2021-2022",
+      "perimetre": "France",
+      "explication": "Une baisse générale des prix de l'énergie profite davantage en euros aux plus aisés.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "420 €"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la facture baisserait si la baisse est répercutée, mais la mesure coûterait 11 à 17 milliards par an, profiterait plus en euros aux ménages aisés (Insee) et serait bloquée pour les carburants par le droit européen.",
+    "moyen": "Sur le papier, baisser la TVA fait baisser les prix, et ça soulagerait des ménages qui ont besoin de leur voiture. Mais c'est une mesure très chère : 11 à 17 milliards d'euros par an selon les chiffrages.\n\nEt elle n'est pas ciblée : plus on consomme d'énergie, plus on y gagne. Lors des aides comparables de 2022, les 10 % les plus aisés ont gagné 420 € en moyenne, contre 180 € pour les plus modestes. Pour les carburants, il faudrait en plus l'accord unanime des pays européens.",
+    "detaille": "Le Rassemblement national a promis en 2024 de ramener la TVA de 20 % à 5,5 % sur les carburants, l'électricité, le gaz et le fioul. Le ministère de l'Économie chiffrait le coût à 16,8 milliards d'euros par an ; l'Institut Montaigne à environ 11,3 milliards.\n\nLes effets sur le pouvoir d'achat existent, si les distributeurs répercutent la baisse sur les prix. Mais une baisse générale profite à proportion de la consommation. L'Insee l'a mesuré pour les aides comparables de 2022 : 420 € en moyenne pour les 10 % les plus aisés contre 180 € pour les 10 % les plus modestes, même si, rapporté au revenu, le gain était plus fort pour les modestes.\n\nLa mesure se heurte aussi au droit européen : la directive TVA ne prévoit pas de taux réduit pour les carburants, et sa révision exige l'unanimité. Pour le même coût, des aides ciblées sur les ménages modestes et les ruraux dépendants de la voiture, et des investissements dans la rénovation et les transports, peuvent réduire durablement les factures.",
+    "empathie": "Je comprends : quand le plein et les factures explosent, une baisse de la TVA paraît évidente. Mais pour le même argent, on pourrait aider beaucoup plus ceux qui en ont vraiment besoin, au lieu de donner davantage à ceux qui ont trois voitures et une grande maison."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Au moins, tout le monde en profite.",
+      "reponse": "Oui, mais surtout ceux qui consomment le plus : en 2022, les 10 % les plus aisés ont gagné plus du double des 10 % les plus modestes."
+    },
+    {
+      "objection": "L'Europe n'a pas à nous dicter nos taux de TVA.",
+      "reponse": "Les règles de TVA sont communes et ont été acceptées par la France ; les changer pour les carburants exige l'accord de tous les États."
+    }
+  ],
+  "questions": [
+    "Qui consomme le plus d'énergie : un ménage modeste ou un ménage aisé ?",
+    "Avec 11 à 17 milliards d'euros par an, quelles autres aides pourrait-on financer ?"
+  ],
+  "limites": [
+    "Les chiffrages diffèrent selon les sources (11 à 17 milliards d'euros).",
+    "Les effets redistributifs cités portent sur les aides de 2022, comparables mais pas identiques."
+  ],
+  "sources": [
+    {
+      "titre": "Baisse de la TVA sur l'énergie proposée par le RN : une mesure chiffrée à 17 milliards selon Bercy",
+      "organisme": "Public Sénat",
+      "date_publication": "14 juin 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/baisse-de-la-tva-sur-lenergie-proposee-par-le-rn-une-mesure-chiffree-a-17-milliards-selon-bercy",
+      "passage": "La baisse de la TVA à 5,5 % sur l'énergie est une promesse du Rassemblement national pour les législatives de 2024 ; selon Bercy, elle aurait « un coût global de 16,8 milliards d'euros pour les finances publiques » : environ 4,5 Md€ pour l'électricité, 2,3 Md€ pour le gaz et 10 Md€ pour les carburants.",
+      "pertinence": "Média parlementaire rendant compte d'un chiffrage du ministère de l'Économie (gouvernement de l'époque).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Baisser la TVA de 20 % à 5,5 % pour les carburants, l'électricité, le gaz et le fioul domestique (chiffrage Législatives 2024, Rassemblement national)",
+      "organisme": "Institut Montaigne",
+      "date_publication": "Juin 2024",
+      "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/baisser-la-tva-de-20-a-55-pour-les-carburants-lelectricite-le-gaz-et-le-fioul-domestique",
+      "passage": "« Au total, la perte de recettes fiscales s'établirait à 11,3 Md€ environ par an » (fourchette de 9 à 13,6 Md€) ; pour le gaz et l'électricité, un taux réduit est possible sous conditions de la directive TVA ; pour les carburants, la directive ne le prévoit pas : il faudrait la réviser, ce qui exige l'unanimité des États.",
+      "pertinence": "Think tank libéral, chiffrage indépendant des programmes.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Entre janvier 2021 et juin 2022, la hausse des prix de l'énergie a entraîné une perte de pouvoir d'achat, malgré la mise en œuvre des mesures exceptionnelles (Insee Analyses n° 78)",
+      "organisme": "Insee (Flore Cornuet)",
+      "date_publication": "19 décembre 2022",
+      "url": "https://www.insee.fr/fr/statistiques/6655850",
+      "passage": "Le bouclier tarifaire et la remise carburant ont réduit les dépenses de 210 euros en moyenne pour les 30 % les plus modestes et de 350 euros pour les 30 % les plus aisés ; les gains « atteignent 420 euros pour les 10 % les plus aisés, contre 180 euros pour les 10 % les plus modestes » ; rapporté au revenu, +0,7 % pour les 30 % les plus modestes contre +0,4 % pour les 30 % les plus aisés ; résultats de simulation jugés fragiles.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les dépenses d'énergie pèsent lourd pour les ménages modestes et ruraux.",
+    "Rapporté au revenu, une baisse des prix de l'énergie aide un peu plus les modestes."
+  ],
+  "publics": {
+    "convaincus": "Je ne nie pas que l'essence et l'électricité coûtent trop cher. Mais regarde qui y gagnerait : en 2022, les aides du même genre ont rapporté 420 € aux plus riches et 180 € aux plus modestes. Et pour les carburants, il faudrait l'accord de tous les pays européens : c'est une promesse qui ne peut pas être tenue telle quelle.",
+    "indecis": "L'idée part d'une vraie difficulté : les factures d'énergie. Mais une baisse générale de la TVA coûte très cher et profite plus, en euros, aux ménages aisés. Des aides ciblées et des investissements dans la rénovation font plus pour les ménages modestes, à coût égal."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "Une baisse générale de taxe paraît profiter à tous, mais elle rapporte davantage à ceux qui consomment le plus.",
+    "consequences": "Des milliards d’euros publics seraient dépensés sans cibler les ménages modestes, au détriment d’autres politiques.",
+    "democratie": "Promettre une mesure que le droit européen bloque, sans le dire, c’est tromper les électeurs.",
+    "propositions": [
+      "Aider de façon ciblée les ménages modestes et ruraux dépendants de la voiture.",
+      "Investir dans la rénovation et les transports collectifs pour réduire durablement les factures."
+    ],
+    "defavorables": [
+      {
+        "fait": "Rapporté au revenu, une baisse des prix de l’énergie aide un peu plus les ménages modestes.",
+        "integration": "Le reconnaître, et montrer qu’à coût égal une aide ciblée fait beaucoup plus pour eux."
+      }
+    ]
+  },
+  "concepts": [
+    "patriotisme",
+    "fiscalite",
+    "pouvoir_achat",
+    "tva_energie",
+    "fn_parti"
+  ],
+  "repond_a": [
+    {
+      "id": "tva_energie",
+      "label": "Baisse de la TVA sur l’énergie"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "taxer",
+    "isf",
+    "tva",
+    "fin de mois",
+    "fins de mois",
+    "pouvoir d achat",
+    "hausse des prix"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "indemnisation-chomage-salaire",
+  "type": "idee_recue",
+  "affirmation": "Les chômeurs indemnisés gagnent plus qu'en travaillant.",
+  "volet": "social",
+  "sous_theme": "Chômage",
+  "rubriques": [],
+  "mots_cles": [
+    "allocation chômage",
+    "chômeurs indemnisés",
+    "gagnent plus qu en travaillant",
+    "gagnent plus au chômage",
+    "indemnisation chômage",
+    "unédic",
+    "allocation supérieure au salaire"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non en règle générale : l'allocation représente 57 à 75 % du salaire de référence, elle est en moyenne de 1 040 € nets par mois fin 2025, et une majorité d'allocataires touche moins que le SMIC net. Moins de la moitié des inscrits à France Travail sont indemnisés. Avant la réforme de 2021, certains parcours très morcelés pouvaient donner une allocation supérieure au salaire mensuel moyen antérieur : ce calcul a été changé.",
+  "contexte": "L'idée que le chômage « paierait mieux que le travail » est utilisée pour justifier les réformes de l'assurance chômage et le durcissement des règles.",
+  "explication": "L'allocation chômage est calculée sur l'ancien salaire : elle ne peut pas, en règle générale, le dépasser. Elle est temporaire, et seuls ceux qui ont assez travaillé y ont droit.",
+  "faits": [
+    {
+      "fait": "Selon l'Unédic, l'allocation chômage est en moyenne de 1 040 € nets par mois au 4e trimestre 2025 ; 54 % des allocataires touchent moins de 1 000 € et une majorité touche moins que le SMIC net (1 426,30 €).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La plupart des chômeurs indemnisés touchent moins que le SMIC.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 040 €"
+    },
+    {
+      "fait": "Selon l'Unédic, l'allocation équivaut à 75 % du salaire journalier de référence pour les plus bas salaires et à 57 % pour les plus élevés, avec une dégressivité pouvant atteindre 30 % après six mois pour les allocations élevées des moins de 55 ans.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "On touche toujours moins que son ancien salaire de référence.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "57 à 75 %"
+    },
+    {
+      "fait": "Selon l'Unédic, en 2025, sur 5,7 millions de demandeurs d'emploi inscrits à France Travail, 2,6 millions étaient indemnisés.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Moins de la moitié des inscrits touchent une allocation.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2,6 millions"
+    },
+    {
+      "fait": "Selon France Travail, avant la réforme de 2021, environ 21 % des ouvertures de droit donnaient une allocation mensuelle supérieure au salaire mensuel moyen antérieur, pour des parcours d'emploi très morcelés, en raison d'un calcul fondé sur les seuls jours travaillés.",
+      "periode": "2015-2017",
+      "perimetre": "France",
+      "explication": "Un cas particulier a existé : il faut le reconnaître.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "21 %"
+    },
+    {
+      "fait": "Selon l'Unédic, depuis le 1er octobre 2021, le salaire de référence est calculé sur les jours travaillés et non travaillés de la période, ce qui a changé ce mode de calcul.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Le cas des parcours morcelés a été modifié par la réforme.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux en général : l'allocation vaut 57 à 75 % du salaire de référence, 1 040 € en moyenne fin 2025, et la majorité des allocataires touche moins que le SMIC net (Unédic). Un cas particulier pour des contrats très morcelés existait avant 2021 ; il a été corrigé.",
+    "moyen": "L'allocation chômage est calculée sur l'ancien salaire et vaut entre 57 % et 75 % du salaire de référence. Fin 2025, elle était en moyenne de 1 040 € par mois, et plus de la moitié des allocataires touchait moins de 1 000 €.\n\nEt beaucoup de chômeurs ne touchent rien : 2,6 millions d'indemnisés sur 5,7 millions d'inscrits. Avant 2021, des personnes aux contrats très courts et dispersés pouvaient toucher plus que leur salaire mensuel moyen ; la réforme a changé ce calcul. Ce n'était pas le cas général.",
+    "detaille": "L'allocation d'aide au retour à l'emploi est calculée sur le salaire journalier de référence. Selon l'Unédic, elle équivaut à 75 % de ce salaire pour les plus bas revenus et à 57 % pour les plus hauts, avec une dégressivité pour les allocations élevées après six mois. Au 4e trimestre 2025, l'allocation moyenne était de 1 040 € nets par mois ; 54 % des allocataires touchaient moins de 1 000 €, et une majorité moins que le SMIC net.\n\nLe chômage n'est pas un revenu garanti : en 2025, sur 5,7 millions d'inscrits à France Travail, 2,6 millions étaient indemnisés. Les autres n'ont pas ou plus de droits, ou travaillent en partie.\n\nIl a existé un cas particulier : avant 2021, le calcul fondé sur les seuls jours travaillés pouvait donner, pour des parcours très morcelés, une allocation supérieure au salaire mensuel moyen antérieur, pour environ 21 % des ouvertures de droit selon France Travail. La réforme de 2021 a modifié ce calcul. Généraliser ce cas pour dire que « le chômage paie mieux » est faux, et sert à justifier des baisses de droits qui touchent tous les chômeurs.",
+    "empathie": "Je comprends qu'on puisse avoir l'impression que certains s'en sortent mieux au chômage. Mais en moyenne, un chômeur indemnisé touche 1 040 € par mois, moins que le SMIC, et pendant une durée limitée. Personne ne s'enrichit au chômage."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Mon voisin touche plus au chômage qu'en travaillant.",
+      "reponse": "C'était possible dans certains cas de contrats très courts avant 2021 ; le calcul a changé, et en règle générale l'allocation vaut 57 à 75 % du salaire de référence."
+    },
+    {
+      "objection": "Les chômeurs touchent des fortunes.",
+      "reponse": "Seuls 2 % touchent 3 000 € ou plus, d'anciens cadres, avec une dégressivité de 30 % après six mois."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien touche en moyenne un chômeur indemnisé ?",
+    "Savais-tu que moins de la moitié des inscrits à France Travail sont indemnisés ?"
+  ],
+  "limites": [
+    "Aucune source lue ne chiffre la part actuelle des allocataires dont l'allocation dépasse le salaire mensuel antérieur.",
+    "Les données sur les taux de remplacement supérieurs à 100 % datent de 2015-2017."
+  ],
+  "sources": [
+    {
+      "titre": "Le montant d'indemnisation chômage au 4e trimestre 2025",
+      "organisme": "Unédic (Adrien Gaboulaud)",
+      "date_publication": "27 mai 2026",
+      "url": "https://www.unedic.org/publications/le-montant-dindemnisation-chomage-au-4e-trimestre-2025",
+      "passage": "« Au 4e trimestre 2025, l'allocation est en moyenne de 1040 € » ; « 54 % touchent une indemnisation inférieure à 1000 € nets mensuels » ; 7 % touchent plus de 2 000 € et 2 % 3 000 € ou plus ; « une majorité d'allocataires perçoit une allocation inférieure au montant mensuel du Smic net (1426,30 € au 4e trimestre 2025) ».",
+      "pertinence": "Organisme paritaire gestionnaire de l'assurance chômage.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Revalorisation des allocations d'assurance chômage, mode d'emploi — juin 2025",
+      "organisme": "Unédic",
+      "date_publication": "25 juin 2025",
+      "url": "https://www.unedic.org/publications/revalorisation-des-allocations-d-assurance-chomage-mode-d-emploi-juin-2025",
+      "passage": "L'allocation est calculée sur le salaire journalier de référence (SJR) : « 40,4 % SJR + partie fixe » ou « 57 % SJR » ; « les SJR les plus faibles bénéficient d'un taux de remplacement de 75 % », les plus élevés sont indemnisés à hauteur de 57 % ; dégressivité jusqu'à 30 % après 182 jours pour les moins de 55 ans aux allocations élevées.",
+      "pertinence": "Organisme paritaire gestionnaire de l'assurance chômage.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Est-ce que toutes les personnes inscrites à France Travail perçoivent une allocation chômage ?",
+      "organisme": "Unédic",
+      "date_publication": "2025",
+      "url": "https://www.unedic.org/lassurance-chomage-en-france/decryptage/est-ce-que-toutes-les-personnes-inscrites-a-pole-emploi-percoivent-une-allocation-chomage",
+      "passage": "« 5,7 millions de demandeurs d'emploi étaient inscrits », dont « 3,8 millions étaient allocataires de l'Assurance chômage, dont 2,6 millions étaient indemnisés ».",
+      "pertinence": "Organisme paritaire gestionnaire de l'assurance chômage.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Taux de remplacement mensuel net (fiche)",
+      "organisme": "France Travail (pour le ministère du Travail)",
+      "date_publication": "Données 2015-2017",
+      "url": "https://www.francetravail.org/files/live/sites/peorg/files/documents/Statistiques-et-analyses/_Documentation/Fiche%20taux%20de%20remplacement.pdf",
+      "passage": "Avant la réforme de 2021, environ « 21% des ouvertures de droit » avaient un taux de remplacement supérieur à 100 % du salaire mensuel moyen antérieur, en raison d'un calcul fondé sur les seuls jours travaillés, qui gonflait le ratio pour les parcours d'emploi très morcelés.",
+      "pertinence": "Opérateur public de l'emploi (données anciennes).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Assurance chômage : ce qui entre en vigueur au 1er octobre",
+      "organisme": "Unédic",
+      "date_publication": "1er octobre 2021",
+      "url": "https://www.unedic.org/actualites/assurance-chomage-ce-qui-entre-en-vigueur-au-1er-octobre",
+      "passage": "À partir du 1er octobre 2021, le salaire journalier de référence est calculé en divisant le total des salaires par les jours calendaires de la période, travaillés et non travaillés, dans la limite d'un plafond de jours non travaillés.",
+      "pertinence": "Organisme paritaire gestionnaire de l'assurance chômage.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Avant 2021, certains parcours très morcelés donnaient une allocation supérieure au salaire mensuel moyen antérieur.",
+    "Une petite part des allocataires (2 %) touche 3 000 € ou plus, d'anciens hauts salaires."
+  ],
+  "publics": {
+    "convaincus": "Regarde les chiffres de l'Unédic : 1 040 € par mois en moyenne, et plus de la moitié des chômeurs indemnisés touchent moins de 1 000 €. Le cas du chômeur qui gagne plus qu'en travaillant a existé pour des contrats très courts, et il a été supprimé en 2021. Si le chômage payait si bien, pourquoi moins de la moitié des inscrits touchent-ils quelque chose ?",
+    "indecis": "Il a pu exister des cas où l'allocation dépassait le salaire moyen, pour des contrats très morcelés, avant la réforme de 2021. Mais en règle générale, l'allocation vaut 57 à 75 % de l'ancien salaire, et la majorité touche moins que le SMIC. Le chômage reste une perte de revenu."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "solidarite",
+      "dignite"
+    ],
+    "mecanismes": "Un cas particulier ancien est généralisé pour faire passer les chômeurs pour des profiteurs.",
+    "consequences": "Ce discours justifie des baisses de droits qui touchent tous les chômeurs, et pèsent sur les salaires de ceux qui travaillent.",
+    "democratie": "L’assurance chômage est financée par les cotisations : c’est un droit, pas une faveur.",
+    "propositions": [
+      "Revenir sur les baisses de droits des réformes récentes.",
+      "Agir sur les contrats très courts, qui créent la précarité."
+    ],
+    "defavorables": [
+      {
+        "fait": "Avant 2021, certains parcours morcelés donnaient une allocation supérieure au salaire mensuel moyen.",
+        "integration": "Le reconnaître, et préciser que ce calcul a été modifié."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "salaires",
+    "prestations"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ]
+}

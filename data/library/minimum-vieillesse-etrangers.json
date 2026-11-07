@@ -1,0 +1,170 @@
+{
+  "id": "minimum-vieillesse-etrangers",
+  "type": "idee_recue",
+  "affirmation": "Les étrangers touchent le minimum vieillesse sans avoir jamais cotisé.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et aides sociales",
+  "rubriques": [],
+  "mots_cles": [
+    "minimum vieillesse",
+    "aspa",
+    "retraite des étrangers",
+    "sans avoir cotisé",
+    "jamais cotisé",
+    "allocation de solidarité aux personnes âgées",
+    "étrangers retraités"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le minimum vieillesse (ASPA) n'est pas une retraite : c'est une allocation de solidarité, accessible sans cotisation à tous, Français compris. Mais un étranger non européen doit détenir depuis au moins dix ans un titre de séjour autorisant à travailler, résider en France au moins neuf mois par an, et les sommes sont récupérables sur la succession au-delà de 107 616 €.",
+  "contexte": "Des messages affirment que des étrangers arrivés récemment toucheraient une « retraite » sans avoir jamais travaillé en France.",
+  "explication": "Le minimum vieillesse garantit un revenu minimal aux personnes âgées pauvres, qu'elles aient cotisé ou non. Ce n'est pas une pension de retraite, et ce n'est pas réservé aux étrangers. Pour eux, la loi ajoute une condition de dix ans de séjour régulier.",
+  "faits": [
+    {
+      "fait": "Selon la DREES, fin 2023, 723 000 personnes perçoivent le minimum vieillesse, dont 606 600 au titre de l'ASPA.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "C'est une aide pour les personnes âgées pauvres, toutes nationalités confondues.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "723 000"
+    },
+    {
+      "fait": "Selon la DREES, un étranger hors Espace économique européen et Suisse doit détenir depuis au moins dix ans un titre de séjour autorisant à travailler pour demander l'ASPA, et tout bénéficiaire doit résider en France au moins neuf mois par an.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "On ne peut pas arriver en France à 65 ans et toucher l'ASPA.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "10 ans"
+    },
+    {
+      "fait": "Selon la DREES, les sommes versées sont récupérables sur la succession lorsque l'actif net dépasse 107 616 euros en métropole.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "C'est une avance de solidarité, en partie récupérée.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "107 616 €"
+    },
+    {
+      "fait": "Selon le ministère des Solidarités, il n'existe pas de statistique de nationalité sur l'ensemble des allocataires ; en 2018, 154 900 bénéficiaires sur 396 100 interrogés par l'enquête BMS étaient nés à l'étranger (ce qui inclut des Français).",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Une partie importante des bénéficiaires est née à l'étranger, souvent après une vie de travail mal déclaré ou mal payé.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "154 900"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : l'ASPA n'est pas une retraite, c'est une aide pour toutes les personnes âgées pauvres, Français compris. Un étranger hors UE doit avoir eu dix ans de titre de séjour avec droit au travail, vivre en France neuf mois par an, et l'aide est récupérable sur l'héritage.",
+    "moyen": "Le minimum vieillesse n'est pas une retraite : c'est une aide de solidarité pour les personnes âgées pauvres, qui ne demande pas d'avoir cotisé. C'est vrai pour un Français comme pour un étranger.\n\nMais pour un étranger hors UE, la loi exige dix ans de titre de séjour autorisant à travailler. Il faut résider en France au moins neuf mois par an, et l'État récupère les sommes sur la succession au-delà de 107 616 €. On ne peut donc pas arriver à 65 ans et toucher l'ASPA.",
+    "detaille": "L'allocation de solidarité aux personnes âgées (ASPA) garantit un revenu minimal, au plus 1 034,28 € par mois pour une personne seule en 2025, après déduction des autres ressources. Fin 2023, 723 000 personnes touchaient le minimum vieillesse selon la DREES.\n\nC'est une prestation non contributive : un Français qui n'a jamais cotisé peut aussi la toucher. Pour les étrangers non européens, la loi est plus stricte : dix ans de titre de séjour autorisant à travailler, sauf pour les réfugiés et apatrides. Tout bénéficiaire doit résider en France au moins neuf mois par an, et les sommes versées sont récupérables sur la succession au-delà de 107 616 €.\n\nIl n'existe pas de chiffre global récent sur la nationalité des allocataires. En 2018, environ 155 000 bénéficiaires sur 396 000 interrogés étaient nés à l'étranger, ce qui inclut des Français. Beaucoup sont d'anciens travailleurs immigrés aux carrières incomplètes ou mal déclarées.",
+    "empathie": "Je comprends que ça choque l'idée qu'on puisse toucher sans avoir cotisé. Mais c'est le principe même du minimum vieillesse, pour tout le monde : éviter qu'une personne âgée vive dans la misère. Et pour les étrangers, il faut déjà dix ans de séjour régulier."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils arrivent à 65 ans et touchent tout de suite.",
+      "reponse": "C'est impossible pour un étranger hors UE : il faut dix ans de titre de séjour autorisant à travailler (hors réfugiés et apatrides)."
+    },
+    {
+      "objection": "Ils repartent au pays avec l'argent.",
+      "reponse": "Il faut résider en France au moins neuf mois par an pour garder l'ASPA."
+    }
+  ],
+  "questions": [
+    "Savais-tu que le minimum vieillesse est aussi versé à des Français qui n'ont jamais cotisé ?",
+    "Qui sont, selon toi, les vieux travailleurs immigrés qui touchent l'ASPA aujourd'hui ?"
+  ],
+  "limites": [
+    "Il n'existe pas de statistique récente sur la nationalité de l'ensemble des allocataires.",
+    "Les données sur le lieu de naissance datent de 2018."
+  ],
+  "sources": [
+    {
+      "titre": "Les allocations du minimum vieillesse (Minima sociaux et prestations de solidarité, édition 2025, fiche 28)",
+      "organisme": "DREES",
+      "date_publication": "Décembre 2025",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/MS2025%20-%20Fiche%2028%20-%20Les%20allocations%20du%20minimum%20vieillesse.pdf",
+      "passage": "« Fin 2023, 723 000 allocataires perçoivent le minimum vieillesse », dont 606 600 au titre de l'ASPA ; conditions : 65 ans (ou l'âge légal en cas d'inaptitude), résider en France « au moins neuf mois au cours de l'année civile » ; pour les étrangers hors Espace économique européen et Suisse, titre de séjour autorisant à travailler depuis au moins dix ans ; récupération sur succession si l'actif net dépasse 107 616 euros en métropole ; plafond de ressources : 1 034,28 euros par mois pour une personne seule au 1er janvier 2025.",
+      "pertinence": "Service statistique du ministère des Solidarités.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 891 (allocation de solidarité aux personnes âgées et étrangers) et réponse du ministère",
+      "organisme": "Assemblée nationale / ministère des Solidarités",
+      "date_publication": "17 février 2026",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE891",
+      "passage": "Le ministère rappelle que les étrangers hors Union européenne doivent détenir un titre de séjour autorisant à travailler depuis au moins 10 ans (sauf réfugiés, apatrides, bénéficiaires de la protection subsidiaire) ; il n'existe pas de statistique de nationalité sur l'ensemble des allocataires ; en 2018, l'enquête BMS comptait 154 900 personnes nées à l'étranger parmi 396 100 bénéficiaires du minimum vieillesse (lieu de naissance, pas nationalité).",
+      "pertinence": "Réponse officielle du ministère compétent.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "L'ASPA est effectivement non contributive : on peut la toucher sans avoir cotisé.",
+    "Une part importante des bénéficiaires est née à l'étranger."
+  ],
+  "publics": {
+    "convaincus": "Si un étranger pouvait débarquer à 65 ans et toucher le minimum vieillesse, je serais d'accord pour dire que c'est un scandale. Mais la loi exige dix ans de séjour régulier avec droit au travail, neuf mois par an en France, et l'argent est repris sur l'héritage. Ceux qui le touchent sont surtout de vieux travailleurs aux carrières mal déclarées.",
+    "indecis": "Le minimum vieillesse n'est pas une retraite : c'est un filet de sécurité pour toutes les personnes âgées pauvres, Français compris. Pour les étrangers non européens, il faut dix ans de séjour régulier. Il est normal de vouloir des règles strictes : elles existent déjà."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "vulnerables",
+      "universalite"
+    ],
+    "mecanismes": "On confond une aide de solidarité, ouverte à tous les âgés pauvres, avec une retraite, pour faire croire à un privilège des étrangers.",
+    "consequences": "Les visés sont surtout d’anciens travailleurs aux carrières incomplètes ou mal déclarées, souvent dans des métiers pénibles.",
+    "democratie": "Une société se juge à la façon dont elle traite ses vieux pauvres, quelle que soit leur origine.",
+    "propositions": [
+      "Lutter contre le non-recours au minimum vieillesse.",
+      "Sanctionner le travail non déclaré qui prive des salariés de leurs droits à la retraite."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une part importante des bénéficiaires est née à l’étranger.",
+        "integration": "C’est le reflet de carrières ouvrières précaires, pas d’un détournement : les conditions d’accès sont strictes."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "prestations",
+    "solidarite",
+    "retraite",
+    "aspa"
+  ],
+  "repond_a": [
+    {
+      "id": "aspa",
+      "label": "Minimum vieillesse"
+    },
+    {
+      "id": "aspa_imm",
+      "label": "Minimum vieillesse et étrangers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat"
+  ]
+}

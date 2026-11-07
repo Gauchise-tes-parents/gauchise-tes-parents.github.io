@@ -1,0 +1,166 @@
+{
+  "id": "preference-nationale-constitution",
+  "type": "idee_recue",
+  "affirmation": "La préférence nationale, il suffit d'une loi pour l'appliquer.",
+  "volet": "immigration",
+  "sous_theme": "Nationalité et accès aux droits",
+  "rubriques": [],
+  "mots_cles": [
+    "préférence nationale",
+    "priorité nationale",
+    "constitution",
+    "conseil constitutionnel",
+    "il suffit d une loi",
+    "référendum",
+    "protection sociale des étrangers"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non. Depuis 1993, le Conseil constitutionnel juge que les étrangers en séjour stable et régulier ont droit à la protection sociale. En avril 2024, il a encore rejeté une proposition de référendum qui conditionnait des prestations à cinq ans de séjour. Une « préférence nationale » générale exigerait de réviser la Constitution, et se heurterait aussi aux engagements européens.",
+  "contexte": "La « préférence » ou « priorité nationale » pour l'emploi, le logement et les aides est une proposition historique du FN puis du RN, présentée comme une simple question de volonté politique.",
+  "explication": "Une loi ordinaire doit respecter la Constitution, qui protège l'égalité devant la loi et le droit à la protection sociale de ceux qui résident régulièrement en France. Le législateur peut fixer des conditions de durée de séjour raisonnables, mais pas exclure les étrangers en règle par principe.",
+  "faits": [
+    {
+      "fait": "Selon la décision n° 93-325 DC du Conseil constitutionnel, « les étrangers jouissent des droits à la protection sociale, dès lors qu'ils résident de manière stable et régulière sur le territoire français ».",
+      "periode": "1993",
+      "perimetre": "France",
+      "explication": "Le principe est constitutionnel depuis plus de trente ans.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une analyse du Club des juristes, le 11 avril 2024, le Conseil constitutionnel a rejeté une proposition de référendum conditionnant des prestations à 5 ans de séjour régulier ou 30 mois d'affiliation, jugeant ces durées disproportionnées ; une condition de durée raisonnable reste possible.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Même une version atténuée de la préférence nationale a été censurée.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "5 ans"
+    },
+    {
+      "fait": "Selon le constitutionnaliste Dominique Rousseau (Public Sénat, 2021), la priorité nationale ne peut pas passer par le référendum de l'article 11 : il faudrait d'abord réviser la Constitution par l'article 89, avec un vote identique des deux assemblées.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Le chemin juridique est long et passe par le Parlement entier.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : depuis 1993, le Conseil constitutionnel protège le droit des étrangers en séjour régulier à la protection sociale, et il a encore censuré en avril 2024 une condition de cinq ans de séjour. Il faudrait réviser la Constitution.",
+    "moyen": "Une loi ne peut pas faire ce que la Constitution interdit. Depuis 1993, le Conseil constitutionnel juge que les étrangers qui résident de façon stable et régulière ont droit à la protection sociale.\n\nEn avril 2024, il a même rejeté un projet de référendum qui exigeait cinq ans de séjour pour certaines aides. Une préférence nationale générale supposerait donc de réviser la Constitution, avec l'accord des deux assemblées, puis d'affronter le droit européen.",
+    "detaille": "La « préférence nationale » consiste à réserver en priorité aux Français l'emploi, le logement social ou les prestations. Elle se heurte au bloc de constitutionnalité. Dans sa décision de 1993, le Conseil constitutionnel a jugé que le législateur, s'il peut prévoir des règles spécifiques pour les étrangers, doit respecter les droits fondamentaux de tous ceux qui résident sur le territoire, dont la protection sociale pour ceux qui y résident de manière stable et régulière.\n\nLe 11 avril 2024, il a rejeté une proposition de loi référendaire qui conditionnait certaines prestations à cinq ans de séjour régulier ou trente mois d'affiliation, jugeant ces durées disproportionnées. Une condition de durée raisonnable reste possible : le débat porte sur le curseur, pas sur l'exclusion.\n\nSelon des constitutionnalistes, la priorité nationale ne peut pas être imposée par le référendum de l'article 11 : il faudrait réviser la Constitution par l'article 89, ce qui suppose un vote identique de l'Assemblée et du Sénat. Elle entrerait aussi en conflit avec des traités européens. Ce n'est donc pas « une simple loi » : c'est un changement de régime des droits.",
+    "empathie": "Je comprends l'envie que l'État s'occupe d'abord de ses citoyens. Mais en France, les droits sociaux sont liés au fait de vivre et de travailler ici légalement, pas à la nationalité. Changer ça, ce n'est pas une petite loi : c'est toucher à la Constitution."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il suffit d'un référendum.",
+      "reponse": "Selon des constitutionnalistes, l'article 11 ne permet pas un référendum sur ce sujet ; il faut d'abord réviser la Constitution par l'article 89."
+    },
+    {
+      "objection": "Le Conseil constitutionnel n'a pas à décider à la place du peuple.",
+      "reponse": "Il applique une Constitution adoptée par le peuple en 1958, qui protège les droits de tous ceux qui vivent légalement ici."
+    }
+  ],
+  "questions": [
+    "Si une loi pouvait retirer des droits à une catégorie de personnes en règle, qui serait la prochaine ?",
+    "Sais-tu ce qu'a décidé le Conseil constitutionnel en avril 2024 ?"
+  ],
+  "limites": [
+    "Une révision constitutionnelle pourrait changer l'état du droit ; la fiche décrit le droit en vigueur.",
+    "Les obstacles liés au droit européen ne sont pas détaillés ici."
+  ],
+  "sources": [
+    {
+      "titre": "Décision n° 93-325 DC du 13 août 1993 (loi relative à la maîtrise de l'immigration), texte reproduit",
+      "organisme": "Conseil constitutionnel (texte reproduit par la Revue générale du droit)",
+      "date_publication": "13 août 1993",
+      "url": "https://www.revuegeneraledudroit.eu/blog/decisions/conseil-constitutionnel-13-aout-1993-loi-relative-a-la-maitrise-de-limmigration-et-aux-conditions-dentree-daccueil-et-de-sejour-des-etrangers-en-france-decision-numero-93-325-dc",
+      "passage": "Si le législateur peut prendre à l'égard des étrangers des dispositions spécifiques, « il lui appartient de respecter les libertés et droits fondamentaux de valeur constitutionnelle reconnus à tous ceux qui résident sur le territoire de la République » ; « les étrangers jouissent des droits à la protection sociale, dès lors qu'ils résident de manière stable et régulière sur le territoire français ».",
+      "pertinence": "Décision de la juridiction constitutionnelle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pourquoi le référendum sur l'accès des étrangers aux prestations sociales n'aura pas lieu",
+      "organisme": "Le Club des juristes (Lola Isidro, maîtresse de conférences, université Paris Nanterre)",
+      "date_publication": "12 avril 2024",
+      "url": "https://www.leclubdesjuristes.com/justice/pourquoi-le-referendum-sur-lacces-des-etrangers-aux-prestations-sociales-naura-pas-lieu-5667/",
+      "passage": "Le 11 avril 2024, le Conseil constitutionnel a rejeté la proposition de loi référendaire qui conditionnait certaines prestations à 5 ans de séjour régulier ou 30 mois d'affiliation : ces durées sont jugées disproportionnées au regard des alinéas 10 et 11 du Préambule de 1946 ; une condition de durée de résidence reste possible si elle n'est pas excessive.",
+      "pertinence": "Analyse juridique universitaire.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Immigration : le référendum voulu par Marine Le Pen est-il constitutionnel ?",
+      "organisme": "Public Sénat (Romain David)",
+      "date_publication": "29 septembre 2021",
+      "url": "https://www.publicsenat.fr/article/politique/immigration-le-referendum-voulu-par-marine-le-pen-est-il-constitutionnel-190598",
+      "passage": "Le projet comprend une « priorité nationale » pour le logement et l'emploi ; selon le constitutionnaliste Dominique Rousseau, on ne peut pas faire entrer la priorité nationale dans le référendum de l'article 11 : il faudrait d'abord réviser la Constitution par l'article 89, qui exige un vote dans les mêmes termes par les deux assemblées ; Didier Maus signale un conflit possible avec les traités européens.",
+      "pertinence": "Média parlementaire, avec avis de constitutionnalistes.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le législateur peut fixer des conditions de durée de résidence raisonnables pour certaines prestations.",
+    "Une révision constitutionnelle est juridiquement possible si le Parlement l'adopte."
+  ],
+  "publics": {
+    "convaincus": "Admettons qu'on veuille la préférence nationale : il faut le dire franchement, ça ne se fait pas par une loi. Le Conseil constitutionnel l'a encore refusé en 2024, même pour une version adoucie. Ceux qui promettent de l'appliquer vite te vendent soit un mensonge, soit une réforme de la Constitution qui toucherait aux droits de tous.",
+    "indecis": "La question « les Français d'abord » peut sembler de bon sens. Mais aujourd'hui, les droits sociaux reposent sur le séjour légal et le travail, et la Constitution protège ce principe depuis 1993. Le changer demanderait une révision de la Constitution, pas une simple loi."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "universalite",
+      "antiracisme"
+    ],
+    "mecanismes": "La préférence nationale est présentée comme une simple mesure de bon sens, alors qu’elle remet en cause l’égalité des droits garantie par la Constitution.",
+    "consequences": "Des travailleurs en règle, qui cotisent, seraient exclus de droits qu’ils financent ; la division entre salariés profiterait aux employeurs.",
+    "democratie": "Changer la Constitution pour retirer des droits à une partie de la population, c’est changer de régime, pas voter une loi ordinaire.",
+    "propositions": [
+      "Défendre l’égalité des droits sociaux pour toutes les personnes en séjour régulier.",
+      "Répondre au sentiment d’abandon par des services publics pour tous."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le législateur peut fixer des conditions de durée de résidence raisonnables.",
+        "integration": "Le dire : le débat porte sur le niveau de ces conditions, pas sur l’exclusion par principe."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "patriotisme",
+    "priorite_nationale",
+    "secu_sociale",
+    "nationalite",
+    "loi_constitution"
+  ],
+  "repond_a": [
+    {
+      "id": "preference_nationale_droit",
+      "label": "Faisabilité juridique de la préférence nationale"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "francais d abord"
+  ]
+}

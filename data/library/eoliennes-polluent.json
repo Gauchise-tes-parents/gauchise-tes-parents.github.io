@@ -1,0 +1,152 @@
+{
+  "id": "eoliennes-polluent",
+  "type": "idee_recue",
+  "affirmation": "Les éoliennes polluent plus qu'elles ne rapportent.",
+  "volet": "ecologie",
+  "sous_theme": "Énergies renouvelables",
+  "rubriques": [],
+  "mots_cles": [
+    "éoliennes",
+    "eolien",
+    "polluent",
+    "bilan carbone",
+    "pales",
+    "recyclage",
+    "béton",
+    "terres rares",
+    "démantèlement"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Sur tout son cycle de vie, l'éolien terrestre émet environ 12,7 g de CO2 par kWh, contre 469 g pour le gaz et 1 000 g pour le charbon (analyse de 2015 pour l'ADEME). La loi impose le démantèlement, l'excavation totale des fondations et le recyclage de 95 % de la masse. Les pales restent difficiles à recycler (environ 50 % de matière récupérée), et les installations terrestres actuelles ne contiennent plus de terres rares.",
+  "contexte": "Les éoliennes sont une cible fréquente d'une partie de la droite et de l'extrême droite : bétonnage, pales enfouies, terres rares, paysages défigurés.",
+  "explication": "Pour comparer des énergies, on calcule leurs émissions sur tout leur cycle de vie : fabrication, transport, fonctionnement et démantèlement. Une éolienne émet surtout lors de sa fabrication, puis produit pendant des années sans brûler de combustible.",
+  "faits": [
+    {
+      "fait": "Selon une analyse de cycle de vie de 2015 réalisée pour l'ADEME (citée par le ministère de la Transition écologique), l'éolien terrestre émet 12,7 g de CO2 équivalent par kWh, contre 469 g pour le gaz naturel, 840 g pour le pétrole et 1 000 g pour le charbon.",
+      "periode": "2015",
+      "perimetre": "France",
+      "explication": "Sur tout son cycle de vie, l'éolien est l'une des électricités les moins émettrices.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "12,7 g"
+    },
+    {
+      "fait": "Selon le ministère, l'arrêté du 22 juin 2020 impose l'excavation totale des fondations lors du démantèlement ; selon l'ADEME, moins de 30 % du parc contient des terres rares, et les installations terrestres actuelles n'en contiennent plus.",
+      "periode": "2020-2021",
+      "perimetre": "France",
+      "explication": "Le béton et les terres rares ne sont pas le problème qu'on décrit.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "30 %"
+    },
+    {
+      "fait": "Selon la DREAL Auvergne-Rhône-Alpes, la réglementation impose de recycler ou réutiliser 95 % de la masse de l'éolienne et 55 % du rotor d'ici 2025 ; les pales en composites sont plus difficiles à recycler, avec environ 50 % de matière récupérée lors des premières opérations.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le recyclage des pales est une vraie limite, en voie d'amélioration.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "95 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : sur tout son cycle de vie, l'éolien émet environ 12,7 g de CO2 par kWh, contre 469 g pour le gaz (analyse pour l'ADEME). Le démantèlement et le recyclage de 95 % de la masse sont obligatoires ; seules les pales restent difficiles à recycler.",
+    "moyen": "Une éolienne pollue surtout quand on la fabrique. Ensuite, elle produit pendant des années sans brûler de combustible. Résultat, sur tout son cycle de vie : environ 12,7 g de CO2 par kWh, contre 469 g pour le gaz et 1 000 g pour le charbon.\n\nLe démantèlement est obligatoire, avec l'enlèvement complet des fondations, et 95 % de la masse doit être recyclée. Le vrai point faible, ce sont les pales, recyclées à environ 50 % aujourd'hui. Quant aux terres rares, les éoliennes terrestres actuelles n'en contiennent plus.",
+    "detaille": "Selon une analyse de cycle de vie de 2015 réalisée pour l'ADEME et citée par le ministère de la Transition écologique, l'éolien terrestre émet environ 12,7 g de CO2 équivalent par kWh produit, en comptant la fabrication, l'installation et le démantèlement. C'est des dizaines de fois moins que le gaz (469 g), le pétrole (840 g) ou le charbon (1 000 g).\n\nLa réglementation impose le démantèlement des éoliennes, des postes et des câbles, l'excavation totale des fondations depuis 2020, et des garanties financières pour le payer. Elle impose aussi de recycler ou réutiliser 95 % de la masse de l'éolienne. Selon l'ADEME, moins de 30 % du parc contient des terres rares et les installations terrestres actuelles n'en contiennent plus.\n\nIl reste des limites réelles : les pales en composites sont difficiles à recycler (environ 50 % de matière récupérée lors des premières opérations), et l'éolien pose des questions de paysage, d'avifaune et d'intermittence, qui méritent un débat honnête. Mais dire qu'elles « polluent plus qu'elles ne rapportent » est contraire aux mesures.",
+    "empathie": "Je comprends qu'on n'ait pas envie de voir des éoliennes partout, et le paysage est une vraie question. Mais sur la pollution, les chiffres sont clairs : sur toute sa vie, une éolienne émet des dizaines de fois moins de CO2 qu'une centrale à gaz."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On enterre des tonnes de béton qui restent pour toujours.",
+      "reponse": "Depuis 2020, l'excavation totale des fondations est obligatoire lors du démantèlement."
+    },
+    {
+      "objection": "Elles sont pleines de terres rares venues de Chine.",
+      "reponse": "Selon l'ADEME, moins de 30 % du parc en contient, et les installations terrestres actuelles n'en contiennent plus."
+    }
+  ],
+  "questions": [
+    "Combien de CO2 émet, selon toi, une centrale à gaz par rapport à une éolienne ?",
+    "Qu'est-ce qui te gêne le plus : la pollution ou le paysage ?"
+  ],
+  "limites": [
+    "L'analyse de cycle de vie citée date de 2015.",
+    "L'effet sur les oiseaux, l'intermittence et le temps de retour énergétique ne sont pas chiffrés à partir des sources lues."
+  ],
+  "sources": [
+    {
+      "titre": "Question écrite n° 23435 (coût écologique de l'énergie éolienne et procédures de recyclage) et réponse du ministère",
+      "organisme": "Assemblée nationale / ministère de la Transition écologique",
+      "date_publication": "16 février 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE23435.pdf",
+      "passage": "Une analyse de cycle de vie de 2015 réalisée pour l'Agence de la transition écologique évalue l'éolien terrestre à « 12,7 g de CO2 eq / kWh », contre « 1000 g » pour le charbon, « 840 g » pour le pétrole et « 469 g » pour le gaz naturel ; l'arrêté du 22 juin 2020 impose « l'excavation totale des fondations » ; selon l'ADEME, « moins de 30 % du parc installé contient des terres rares » et les installations terrestres actuelles n'en contiennent plus.",
+      "pertinence": "Réponse officielle du ministère compétent.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fiche thématique — Économie circulaire de l'éolien",
+      "organisme": "DREAL Auvergne-Rhône-Alpes (services de l'État), avec le pôle Tenerrdis",
+      "date_publication": "Juin 2023",
+      "url": "https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr/IMG/pdf/fteol4-202301-ecocirculaireeol_vf.pdf",
+      "passage": "Obligations réglementaires : excavation de la totalité des fondations, recyclage ou réutilisation de 90 % de la masse de l'éolienne et de 35 % du rotor, portés progressivement à 95 % et 55 % jusqu'en 2025 ; les pales en matériaux composites sont plus difficiles à recycler, avec environ 50 % de matière récupérée lors des premières opérations ; le projet ZEBRA vise des pales 100 % recyclables.",
+      "pertinence": "Services déconcentrés de l'État.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Les pales sont encore difficiles à recycler.",
+    "L'éolien pose des questions de paysage, d'effet sur les oiseaux et d'intermittence de la production."
+  ],
+  "publics": {
+    "convaincus": "Tu peux ne pas aimer les éoliennes dans le paysage, ça se discute. Mais dire qu'elles polluent plus qu'elles ne rapportent, c'est faux : 12,7 g de CO2 par kWh sur toute leur vie, contre 469 g pour le gaz. Et le béton, la loi oblige à l'enlever entièrement depuis 2020.",
+    "indecis": "Les éoliennes ont des défauts réels : les pales se recyclent mal et elles ne produisent pas quand il n'y a pas de vent. Mais sur l'ensemble de leur vie, elles émettent très peu de CO2, et leur démantèlement est encadré par la loi. Le débat porte plutôt sur où et comment les installer."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "services_publics"
+    ],
+    "mecanismes": "Des défauts réels (pales, paysage) sont grossis pour faire croire que l’éolien serait plus polluant que les énergies fossiles.",
+    "consequences": "Bloquer les renouvelables prolonge la dépendance aux énergies fossiles importées.",
+    "democratie": "Les projets éoliens doivent associer les habitants : la planification démocratique de l’énergie est la meilleure réponse aux conflits locaux.",
+    "propositions": [
+      "Un pôle public de l’énergie qui planifie le mix électrique.",
+      "Associer les collectivités et les habitants aux projets et à leurs bénéfices."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les pales restent difficiles à recycler et l’éolien pose des questions de paysage.",
+        "integration": "Le dire, et soutenir la recherche sur des pales recyclables et une meilleure concertation."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "cout",
+    "eolien"
+  ],
+  "repond_a": [
+    {
+      "id": "eolien",
+      "label": "Bilan des éoliennes"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "cout",
+    "couts",
+    "une fortune",
+    "rapportent",
+    "finances publiques",
+    "pognon",
+    "nos impots"
+  ]
+}

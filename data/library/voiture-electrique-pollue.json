@@ -1,0 +1,175 @@
+{
+  "id": "voiture-electrique-pollue",
+  "type": "idee_recue",
+  "affirmation": "Les voitures électriques polluent plus que les voitures thermiques.",
+  "volet": "ecologie",
+  "sous_theme": "Transports",
+  "rubriques": [],
+  "mots_cles": [
+    "voiture électrique",
+    "voitures électriques",
+    "véhicule électrique",
+    "batteries",
+    "polluent plus",
+    "thermique",
+    "lithium",
+    "bilan carbone"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Sur toute sa durée de vie, une voiture électrique de taille raisonnable a un impact carbone 2 à 3 fois inférieur à une voiture thermique équivalente selon l'ADEME, et 3 à 4 fois inférieur en France selon Carbone 4, grâce à une électricité peu carbonée. Sa fabrication émet davantage, à cause de la batterie, et les très gros modèles perdent une grande partie de cet avantage.",
+  "contexte": "L'idée que la voiture électrique serait une arnaque écologique circule largement, souvent en réaction à l'interdiction des ventes de voitures thermiques neuves en Europe.",
+  "explication": "Une voiture électrique commence sa vie avec une « dette carbone » plus grande, liée à la batterie, puis émet beaucoup moins en roulant. Au-delà d'un certain kilométrage, elle devient nettement moins émettrice, d'autant plus que l'électricité du pays est peu carbonée.",
+  "faits": [
+    {
+      "fait": "Selon l'ADEME, une voiture électrique à batterie raisonnable (moins de 60 kWh) a un impact carbone 2 à 3 fois inférieur à celui d'un modèle thermique similaire sur sa durée de vie.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Sur l'ensemble de sa vie, l'électrique est nettement moins émettrice.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2 à 3 fois"
+    },
+    {
+      "fait": "Selon l'ADEME, la « dette carbone » de fabrication est amortie avant 20 000 km pour une citadine, vers 70 000 km pour une compacte, et au-delà de 100 000 km pour une batterie de 100 kWh.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La taille de la batterie compte : les gros modèles sont beaucoup moins intéressants.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "20 000 km"
+    },
+    {
+      "fait": "Selon l'ICCT, pour les voitures moyennes immatriculées en 2021, les émissions sur toute la durée de vie d'une voiture électrique sont inférieures de 66 à 69 % à celles d'une voiture essence comparable en Europe.",
+      "periode": "2021",
+      "perimetre": "Europe",
+      "explication": "Le résultat est confirmé à l'échelle européenne.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "66-69 %"
+    },
+    {
+      "fait": "Selon Carbone 4, en France, un véhicule électrique émet 3 à 4 fois moins de CO2 que son équivalent thermique sur sa durée de vie, mais sa fabrication émet davantage, essentiellement à cause de la batterie.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La fabrication est plus polluante : c'est vrai, et c'est compensé ensuite.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "3 à 4 fois"
+    },
+    {
+      "fait": "Selon l'ADEME, les besoins en lithium devraient augmenter de 300 à 800 % par rapport à 2020, et les particules liées à l'usure des pneus et des freins sont accentuées par la masse des véhicules.",
+      "periode": "2022",
+      "perimetre": "Monde",
+      "explication": "La voiture électrique n'est pas propre : elle est moins polluante, à condition de rester raisonnable en taille.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "300 à 800 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux sur l'ensemble de la vie du véhicule : une voiture électrique raisonnable émet 2 à 3 fois moins de CO2 qu'une thermique (ADEME), 3 à 4 fois moins en France (Carbone 4). Sa fabrication émet plus, et les très gros modèles perdent une partie de l'avantage.",
+    "moyen": "Il y a un fond de vrai : fabriquer une voiture électrique, surtout sa batterie, émet plus que fabriquer une voiture thermique. Mais ensuite, elle émet beaucoup moins en roulant, surtout en France où l'électricité est peu carbonée.\n\nRésultat sur toute sa vie, selon l'ADEME : 2 à 3 fois moins de CO2 pour un modèle raisonnable. La « dette » de fabrication est remboursée avant 20 000 km pour une citadine. Le vrai problème, ce sont les gros SUV électriques à énorme batterie, et les métaux à extraire.",
+    "detaille": "Les analyses de cycle de vie comparent les émissions de la fabrication, de l'usage et de la fin de vie. Selon l'ADEME, une voiture électrique à batterie raisonnable (moins de 60 kWh) a un impact carbone 2 à 3 fois inférieur à celui d'un modèle thermique similaire. Carbone 4 estime l'écart à 3 à 4 fois en France, et l'ICCT à 66 à 69 % de moins en Europe pour les voitures immatriculées en 2021.\n\nLa fabrication émet bien plus, à cause de la batterie : c'est la « dette carbone ». Elle est remboursée avant 20 000 km pour une citadine, vers 70 000 km pour une compacte, mais au-delà de 100 000 km pour une grosse batterie de 100 kWh. Un gros SUV électrique a ainsi une empreinte deux fois supérieure à celle d'une petite citadine électrique.\n\nLa voiture électrique a d'autres coûts : besoins en lithium multipliés, particules d'usure des pneus et des freins accentuées par le poids. Elle n'est donc pas « propre » ; mais elle pollue moins que la thermique, à condition de privilégier des modèles sobres, et de développer aussi les transports collectifs.",
+    "empathie": "Je comprends le doute : on entend que les batteries sont une catastrophe, et c'est vrai qu'elles coûtent cher en énergie et en métaux. Mais sur toute la vie de la voiture, les études publiques montrent qu'une électrique de taille normale pollue deux à trois fois moins."
+  },
+  "contre_arguments": [
+    {
+      "objection": "L'électricité vient du charbon.",
+      "reponse": "En France, l'électricité est très peu carbonée, ce qui réduit fortement les émissions à l'usage ; même en Europe, l'ICCT trouve 66 à 69 % d'émissions en moins."
+    },
+    {
+      "objection": "Les batteries ne durent pas.",
+      "reponse": "Même en comptant la batterie, la dette carbone d'une citadine est remboursée avant 20 000 km selon l'ADEME."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la batterie d'une citadine électrique est « remboursée » en carbone avant 20 000 km ?",
+    "Un SUV électrique de deux tonnes, est-ce vraiment la même chose qu'une petite citadine ?"
+  ],
+  "limites": [
+    "Les chiffres de l'ADEME datent de 2022, ceux de l'ICCT de 2021 : les batteries et le mix électrique évoluent.",
+    "Les autres impacts (eau, biodiversité, conditions d'extraction) ne sont pas chiffrés ici."
+  ],
+  "sources": [
+    {
+      "titre": "Voitures électriques et bornes de recharge (Les avis de l'ADEME)",
+      "organisme": "ADEME (Agence de la transition écologique)",
+      "date_publication": "Octobre 2022",
+      "url": "https://sti.eduscol.education.fr/sites/eduscol.education.fr.sti/files/actualites/14983/14983-avis-ademe-voitures-electriques-et-bornes-recharges-octobre-2022.pdf",
+      "passage": "Une voiture électrique à batterie raisonnable (moins de 60 kWh) « a un impact carbone 2 à 3 fois inférieur à celui d'un modèle similaire thermique » ; elle part avec une « dette carbone » à 0 km, amortie avant 20 000 km pour une citadine, vers 70 000 km pour une compacte et au-delà de 100 000 km pour une batterie de 100 kWh ; l'électricité peu carbonée de la France réduit les émissions à l'usage ; besoins en lithium « entre +300% et +800% » par rapport à 2020 ; particules liées à l'usure des pneus et des freins, accentuées par la masse.",
+      "pertinence": "Agence publique de référence (document hébergé par Eduscol).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "A global comparison of the life-cycle greenhouse gas emissions of combustion engine and electric passenger cars",
+      "organisme": "International Council on Clean Transportation (ICCT)",
+      "date_publication": "Juillet 2021",
+      "url": "https://theicct.org/publication/a-global-comparison-of-the-life-cycle-greenhouse-gas-emissions-of-combustion-engine-and-electric-passenger-cars/",
+      "passage": "Pour les voitures moyennes immatriculées en 2021, les émissions sur toute la durée de vie des voitures électriques sont « already lower than comparable gasoline cars by 66%–69% in Europe », 60 à 68 % aux États-Unis, 37 à 45 % en Chine et 19 à 34 % en Inde.",
+      "pertinence": "Centre de recherche indépendant sur les transports.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Les idées reçues sur le véhicule électrique",
+      "organisme": "Carbone 4",
+      "date_publication": "Février 2022",
+      "url": "https://carbone4.com/files/359_publication_faq_vehicule_electrique.pdf",
+      "passage": "En France, un véhicule électrique émet « 3 à 4 fois moins de CO2e que son équivalent thermique » sur sa durée de vie ; sa fabrication émet davantage, « essentiellement du fait de la fabrication des batteries » ; une Audi e-tron a une empreinte « 2 fois supérieure » à celle d'une petite citadine électrique.",
+      "pertinence": "Cabinet de conseil spécialisé dans le climat.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La fabrication d'une voiture électrique émet davantage, surtout à cause de la batterie.",
+    "Les gros modèles électriques et l'extraction des métaux posent de vrais problèmes."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : la batterie pollue à la fabrication. Mais l'ADEME a fait le calcul complet : sur toute sa vie, une électrique raisonnable émet deux à trois fois moins qu'une thermique, et la dette de la batterie est remboursée avant 20 000 km pour une citadine. Le vrai scandale, ce sont les SUV de deux tonnes, électriques ou pas.",
+    "indecis": "La voiture électrique n'est pas parfaite : batteries, métaux, poids. Mais les études publiques convergent : sur toute sa vie, elle émet nettement moins de CO2 qu'une thermique, surtout en France. Le choix d'un modèle sobre compte autant que le type de moteur."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "egalite"
+    ],
+    "mecanismes": "Le coût réel de la fabrication des batteries est utilisé pour masquer le bilan sur toute la vie du véhicule.",
+    "consequences": "Les ménages modestes restent captifs de carburants chers, pendant que les plus aisés achètent de gros modèles électriques.",
+    "democratie": "La transition des transports doit être pensée pour tous, pas seulement pour ceux qui peuvent acheter une voiture neuve.",
+    "propositions": [
+      "Favoriser les petits véhicules sobres et le leasing social.",
+      "Développer les transports collectifs, surtout dans les territoires ruraux."
+    ],
+    "defavorables": [
+      {
+        "fait": "La fabrication d’une voiture électrique émet plus, et les gros modèles perdent une grande partie de leur avantage.",
+        "integration": "Le reconnaître : la sobriété compte autant que la motorisation."
+      }
+    ]
+  },
+  "concepts": [
+    "renovation",
+    "ecologie",
+    "voiture_electrique"
+  ],
+  "repond_a": [
+    {
+      "id": "voiture_electrique",
+      "label": "Bilan de la voiture électrique"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "dpe",
+    "isoler",
+    "isolation",
+    "nucleaire"
+  ]
+}

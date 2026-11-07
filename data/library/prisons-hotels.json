@@ -1,0 +1,190 @@
+{
+  "id": "prisons-hotels",
+  "type": "idee_recue",
+  "affirmation": "Les prisons françaises sont des hôtels.",
+  "volet": "securite",
+  "sous_theme": "Prisons",
+  "rubriques": [],
+  "mots_cles": [
+    "prisons",
+    "prison",
+    "hôtels",
+    "club med",
+    "détenus",
+    "surpopulation carcérale",
+    "matelas au sol",
+    "télévision en prison",
+    "conditions de détention"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non. Au 1er octobre 2026, 90 937 personnes sont détenues pour 63 452 places : la densité atteint 143 % en moyenne et 178 % en maisons d'arrêt, et 8 959 détenus dorment sur un matelas au sol. En 2020, la Cour européenne des droits de l'homme a condamné la France pour traitements inhumains ou dégradants dans ses prisons. Les détenus peuvent louer une télévision et faire des achats, mais à leurs frais.",
+  "contexte": "L'image de prisons confortables, avec télévision et salle de sport, est souvent opposée à toute amélioration des conditions de détention.",
+  "explication": "Les détenus ont accès à certaines activités (travail, formation, sport) prévues par la loi pour préparer leur sortie. Mais la plupart vivent dans des maisons d'arrêt surpeuplées, à plusieurs dans des cellules prévues pour moins de personnes.",
+  "faits": [
+    {
+      "fait": "Selon le ministère de la Justice, au 1er octobre 2026, 90 937 personnes sont détenues pour 63 452 places opérationnelles ; la densité carcérale est de 143,3 %, et de 178,0 % en maisons d'arrêt.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les prisons sont pleines bien au-delà de leur capacité.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "143,3 %"
+    },
+    {
+      "fait": "Selon le ministère de la Justice, 8 959 détenus dorment sur un matelas au sol au 1er octobre 2026, contre 5 895 un an plus tôt.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "La surpopulation s'aggrave rapidement.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "8 959"
+    },
+    {
+      "fait": "Selon le Sénat, la Cour européenne des droits de l'homme a condamné la France le 30 janvier 2020 (J.M.B. et autres c. France) pour traitements inhumains ou dégradants dans ses prisons et pour absence de recours effectif.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Une juridiction internationale a jugé les conditions de détention indignes.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Contrôleure générale des lieux de privation de liberté (rapport 2023, rapporté par LCP), surveillants et détenus vivent « l'abandon, l'inertie de l'Etat », avec des taux d'occupation atteignant 250 % dans certains établissements et des invasions de punaises de lit.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les conditions dégradent aussi le travail des surveillants.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "250 %"
+    },
+    {
+      "fait": "Selon le ministère de la Justice, les personnes détenues ont accès à des activités : travail, formation professionnelle, enseignement, sport et activités socio-culturelles.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Ces activités existent et visent la réinsertion, mais elles ne font pas des prisons des hôtels.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : 90 937 détenus pour 63 452 places au 1er octobre 2026, 178 % de densité en maisons d'arrêt et 8 959 matelas au sol (ministère de la Justice). La France a été condamnée en 2020 par la CEDH pour traitements inhumains ou dégradants.",
+    "moyen": "Les chiffres du ministère de la Justice disent l'inverse : au 1er octobre 2026, il y a 90 937 détenus pour 63 452 places, et 8 959 personnes dorment sur un matelas posé par terre. Dans les maisons d'arrêt, la densité atteint 178 %.\n\nEn 2020, la Cour européenne des droits de l'homme a condamné la France pour traitements inhumains ou dégradants dans ses prisons. Oui, les détenus peuvent avoir une télévision ou faire du sport, mais ils paient la télévision, et ces activités servent à préparer leur sortie.",
+    "detaille": "Au 1er octobre 2026, selon le ministère de la Justice, 90 937 personnes sont détenues pour 63 452 places opérationnelles, soit une densité de 143,3 %, et de 178 % dans les maisons d'arrêt, où sont les prévenus et les courtes peines. 8 959 détenus dorment sur un matelas au sol, contre 5 895 un an plus tôt, et 57 292 sont hébergés dans un établissement occupé à plus de 150 %.\n\nLa Cour européenne des droits de l'homme a condamné la France le 30 janvier 2020 pour violation de l'interdiction des traitements inhumains ou dégradants et pour absence de recours effectif. La Contrôleure générale des lieux de privation de liberté décrit des établissements à 250 % d'occupation, des punaises de lit, et des surveillants qui vivent comme les détenus « l'abandon » de l'État.\n\nLes détenus ont accès au travail, à la formation, à l'enseignement et au sport, prévus par la loi pour préparer la réinsertion ; la location d'une télévision et les achats sont à leur charge. Des prisons indignes ne rendent pas la société plus sûre : elles abîment les détenus, les surveillants, et préparent mal la sortie.",
+    "empathie": "Je comprends la colère quand on pense aux victimes et qu'on entend parler de télé en cellule. Mais la réalité, c'est des cellules surpeuplées, des matelas par terre, et une condamnation par la Cour européenne. Et ces détenus ressortiront un jour : mieux vaut qu'ils sortent préparés."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils ont la télé et la salle de sport.",
+      "reponse": "La télévision est louée à leurs frais, et les activités prévues par la loi visent la réinsertion ; la majorité vit dans des établissements surpeuplés."
+    },
+    {
+      "objection": "Ils n'ont qu'à ne pas commettre de crimes.",
+      "reponse": "La peine, c'est la privation de liberté ; des conditions indignes ont été jugées contraires aux droits fondamentaux par la CEDH."
+    }
+  ],
+  "questions": [
+    "Savais-tu que près de 9 000 détenus dorment sur un matelas au sol ?",
+    "Dans quel état veux-tu qu'un détenu sorte de prison, puisqu'il en sortira ?"
+  ],
+  "limites": [
+    "Les conditions varient beaucoup entre maisons d'arrêt et établissements pour peine.",
+    "Le prix de location d'une télévision n'a pas pu être vérifié dans une source officielle lue."
+  ],
+  "sources": [
+    {
+      "titre": "Mesure de l'incarcération — indicateurs clés au 1er octobre 2026",
+      "organisme": "Ministère de la Justice (DGAP / SSER)",
+      "date_publication": "Novembre 2026",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2026-11/mesure_mensuelle_01102026.pdf",
+      "passage": "Au 1er octobre 2026 : 90 937 personnes détenues pour 63 452 places opérationnelles ; densité carcérale de 143,3 %, et de 178,0 % en maisons d'arrêt ; 8 959 matelas au sol, contre 5 895 un an plus tôt ; 57 292 détenus hébergés dans une structure à plus de 150 % de densité.",
+      "pertinence": "Statistique officielle du ministère de la Justice.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information n° 831 (2025-2026) sur le Contrôleur général des lieux de privation de liberté",
+      "organisme": "Sénat, commission des finances (Christopher Szczurek)",
+      "date_publication": "1er juillet 2026",
+      "url": "https://www.senat.fr/rap/r25-831/r25-8311.pdf",
+      "passage": "Par l'arrêt J.M.B. et autres c. France du 30 janvier 2020, la Cour européenne des droits de l'homme a condamné la France pour violation de l'article 3 (traitements inhumains ou dégradants) et de l'article 13 (droit à un recours effectif), sur 32 requêtes de détenus ; en 2025, 17 % des signalements reçus par le CGLPL portent sur les conditions matérielles de détention (hygiène, hébergement, restauration).",
+      "pertinence": "Rapport parlementaire de contrôle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Prisons : « Surveillants et détenus vivent pareillement l'abandon et l'inertie de l'État », alerte Dominique Simonnot",
+      "organisme": "LCP (Léonard Dermarkarian), d'après le rapport annuel 2023 du CGLPL",
+      "date_publication": "18 septembre 2024",
+      "url": "https://lcp.fr/actualites/prisons-surveillants-et-detenus-vivent-pareillement-l-abandon-et-l-inertie-de-l-etat",
+      "passage": "La Contrôleure générale des lieux de privation de liberté : « Surveillants et détenus vivent pareillement l'abandon, l'inertie de l'Etat » ; « invasion de punaises de lit » ; taux d'occupation moyen de 150 %, avec des pics à 250 %.",
+      "pertinence": "Chaîne parlementaire rendant compte d'un rapport d'une autorité indépendante.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "La prise en charge en détention",
+      "organisme": "Ministère de la Justice",
+      "date_publication": "Mise à jour du 4 avril 2025",
+      "url": "https://www.justice.gouv.fr/justice-france/prise-charge-personnes-condamnees-ou-prevenues/prise-charge-detention",
+      "passage": "En détention, les personnes ont accès à des activités : travail, formation professionnelle, enseignement, sport et activités socio-culturelles.",
+      "pertinence": "Ministère compétent.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Statistiques mensuelles de la population carcérale.",
+  "objections_legitimes": [
+    "Les détenus ont accès à des activités, au sport et peuvent louer une télévision.",
+    "La colère des victimes face à certaines peines est compréhensible."
+  ],
+  "publics": {
+    "convaincus": "Un hôtel où des milliers de clients dorment sur un matelas posé par terre, je n'en connais pas. Ce sont les chiffres du ministère de la Justice : près de 9 000 matelas au sol. Et la France a été condamnée par la Cour européenne pour traitements dégradants. Vouloir des peines fermes, c'est une chose ; croire qu'elles sont douces, c'en est une autre.",
+    "indecis": "On entend souvent parler de la télé en prison, et elle existe, payée par les détenus. Mais la surpopulation atteint 178 % dans les maisons d'arrêt, et la France a été condamnée par la Cour européenne des droits de l'homme. Des prisons indignes préparent mal la sortie, et donc la sécurité de tous."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "universalite",
+      "services_publics"
+    ],
+    "mecanismes": "L’image de prisons confortables sert à refuser tout investissement dans des conditions de détention dignes.",
+    "consequences": "La surpopulation abîme les détenus et les surveillants, et prépare mal la sortie, ce qui nourrit la récidive.",
+    "democratie": "La dignité des personnes détenues est un droit fondamental, rappelé par la Cour européenne des droits de l’homme.",
+    "propositions": [
+      "Développer les peines alternatives à la prison pour les délits les moins graves.",
+      "Mettre fin aux matelas au sol par une régulation carcérale."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les détenus peuvent louer une télévision et pratiquer des activités.",
+        "integration": "Le reconnaître, en précisant qu’elles sont payantes ou destinées à la réinsertion."
+      }
+    ]
+  },
+  "concepts": [
+    "logement",
+    "prison"
+  ],
+  "repond_a": [
+    {
+      "id": "prison_confort",
+      "label": "Conditions de détention"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier",
+    "sdf",
+    "taule",
+    "zonzon",
+    "barreaux"
+  ]
+}

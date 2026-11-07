@@ -1,0 +1,175 @@
+{
+  "id": "france-contributeur-net-ue",
+  "type": "idee_recue",
+  "affirmation": "La France paie beaucoup plus à l'Union européenne qu'elle ne reçoit.",
+  "volet": "politique",
+  "sous_theme": "Union européenne",
+  "rubriques": [],
+  "mots_cles": [
+    "contributeur net",
+    "budget européen",
+    "union européenne",
+    "ue",
+    "bruxelles",
+    "paie plus qu elle ne reçoit",
+    "contribution de la france",
+    "pac"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La France est bien contributrice nette au budget européen : environ 8 milliards d'euros par an hors plan de relance, deuxième contributeur net en 2023 (9,3 milliards). Mais en comptant le plan de relance, le solde tombe à environ 0,1 % du PIB, la France est la première bénéficiaire en volume (notamment de la PAC), et le marché unique lui rapporte bien plus : environ 3,4 % de PIB selon le CEPII.",
+  "contexte": "L'argument du « chèque à Bruxelles » est utilisé pour plaider la baisse de la contribution française, voire la sortie de l'Union.",
+  "explication": "Le solde net compare ce qu'un pays verse au budget européen et ce que l'Union dépense chez lui. Il ne compte pas les gains économiques du marché unique (commerce, investissements), qui ne passent pas par le budget.",
+  "faits": [
+    {
+      "fait": "Selon le Sénat, en 2023, la France était le deuxième contributeur net au budget de l'UE, avec un solde estimé à -9,333 milliards d'euros, derrière l'Allemagne (-19,8 milliards).",
+      "periode": "2023",
+      "perimetre": "France et UE",
+      "explication": "La France verse plus qu'elle ne reçoit : c'est exact.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "9,3 Md€"
+    },
+    {
+      "fait": "Selon le Sénat, la France est le premier bénéficiaire en volume des dépenses de l'UE, mais seulement 22e par habitant (242 euros) en 2023.",
+      "periode": "2023",
+      "perimetre": "France et UE",
+      "explication": "L'Europe dépense beaucoup en France, notamment pour l'agriculture.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "242 €"
+    },
+    {
+      "fait": "Selon Toute l'Europe, la contribution française est d'environ 24 milliards d'euros par an de 2021 à 2025, pour environ 16 milliards dépensés en France ; avec le plan de relance, le solde net tombe à environ 3 milliards par an, soit 0,1 % du PIB.",
+      "periode": "2021-2025",
+      "perimetre": "France",
+      "explication": "Le coût net est réel, mais faible rapporté à la richesse du pays.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "0,1 %"
+    },
+    {
+      "fait": "Selon le CEPII, l'intégration commerciale européenne a augmenté le PIB réel de la France de 3,4 %, et un retour en arrière entraînerait une perte symétrique.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Le gain du marché unique dépasse de loin le solde budgétaire.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "3,4 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Exact mais trompeur : la France est contributrice nette (environ 8 milliards par an hors plan de relance), mais avec le plan de relance le solde tombe à environ 0,1 % du PIB, elle est la première bénéficiaire en volume, et le marché unique lui rapporterait environ 3,4 % de PIB (CEPII).",
+    "moyen": "Oui, la France verse plus au budget européen qu'elle ne reçoit : environ 24 milliards par an pour 16 milliards dépensés chez elle. Elle était le deuxième contributeur net en 2023.\n\nMais il faut regarder l'ensemble : la France est la première bénéficiaire en volume, notamment de la politique agricole, et le solde net, en comptant le plan de relance, ne représente qu'environ 0,1 % du PIB. Surtout, le marché unique augmente le PIB français d'environ 3,4 % selon le CEPII, soit bien plus que le chèque net.",
+    "detaille": "Selon le Sénat, le prélèvement au profit du budget européen atteint 23,3 milliards d'euros pour 2025, et elle était en 2023 le deuxième contributeur net, avec un solde de -9,3 milliards, derrière l'Allemagne. Toute l'Europe estime le solde à environ 8 milliards par an hors plan de relance, et à environ 3 milliards par an (0,1 % du PIB) en comptant les subventions du plan de relance, qui prend fin en 2027.\n\nLa France est aussi la première bénéficiaire en volume des dépenses européennes, notamment de la PAC, même si elle n'est que 22e par habitant. Une partie de l'argent versé aux autres pays revient à des entreprises françaises qui remportent des marchés.\n\nLe solde budgétaire ne mesure pas l'essentiel : selon le CEPII, l'intégration commerciale européenne a augmenté le PIB réel de la France d'environ 3,4 %. On peut critiquer les politiques européennes, notamment leur orientation libérale ; mais réduire l'Union à un « chèque » donne une image fausse du bilan.",
+    "empathie": "Je comprends l'impression de payer pour les autres. Le solde est réel. Mais nos agriculteurs touchent beaucoup d'argent européen, et nos entreprises vendent librement dans toute l'Europe : si on fait le compte complet, la France y gagne."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec ces milliards, on pourrait financer nos hôpitaux.",
+      "reponse": "Le solde net, d'environ 8 milliards par an hors plan de relance, pèse peu face au marché unique, qui augmenterait le PIB d'environ 3,4 % selon le CEPII : sortir coûterait plus cher que ça ne rapporterait."
+    },
+    {
+      "objection": "L'argent part chez les autres pays.",
+      "reponse": "Une partie revient à des entreprises françaises qui remportent des contrats financés par l'Europe, et la France est la première bénéficiaire en volume."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien la politique agricole commune rapporte aux agriculteurs français ?",
+    "Si on sortait du marché unique, combien pèserait ce chèque face aux pertes de nos exportateurs ?"
+  ],
+  "limites": [
+    "L'estimation du CEPII date de 2018 et repose sur un modèle.",
+    "Le solde varie selon l'année et le périmètre retenu (avec ou sans plan de relance)."
+  ],
+  "sources": [
+    {
+      "titre": "L'essentiel — PLF 2025, mission « Affaires européennes »",
+      "organisme": "Sénat, commission des finances (Jean-Marie Mizzon, rapporteur spécial)",
+      "date_publication": "31 octobre 2024",
+      "url": "https://senat.fr/fileadmin/Commissions/Finances/2024-2025/PLF_2025/Essentiel/Mission_Aff_europeennes_Essentiel_PLF_2025.pdf",
+      "passage": "Prélèvement sur recettes au profit de l'UE pour 2025 : 23,321 milliards d'euros ; en 2023, la France était « le deuxième contributeur net » avec « un solde net estimé à – 9,333 milliards d'euros » (Allemagne -19,8 Md€) ; la France est « le premier bénéficiaire en volume de l'Union européenne », mais seulement 22e par habitant (242 euros) ; subventions du plan de relance : 40,3 Md€ au total.",
+      "pertinence": "Rapport parlementaire budgétaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Budget européen : que paie la France et que reçoit-elle en retour ?",
+      "organisme": "Toute l'Europe (Vincent Lequeux)",
+      "date_publication": "20 octobre 2026",
+      "url": "https://www.touteleurope.eu/fonctionnement-de-l-ue/budget-europeen-que-paie-la-france-et-que-recoit-elle-en-retour/",
+      "passage": "Contribution française « autour de 24 milliards par an en moyenne de 2021 à 2025 » ; dépenses de l'UE en France : environ 16 Md€ ces dernières années, soit un solde net d'environ 8 Md€ par an hors plan de relance ; en comptant les subventions du plan de relance, le solde tombe à environ 3 Md€ par an, soit 0,1 % du PIB ; une partie des fonds versés aux autres pays revient à des entreprises françaises.",
+      "pertinence": "Site d'information de référence sur les questions européennes.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "L'Union européenne : combien a-t-on gagné à la faire (et combien perdrait-on à la défaire) ? (La Lettre du CEPII n° 389)",
+      "organisme": "CEPII (Thierry Mayer, Vincent Vicard, Soledad Zignago)",
+      "date_publication": "Juin 2018",
+      "url": "https://www.cepii.fr/PDF_PUB/lettre/2018/let389.pdf",
+      "passage": "Gain de PIB réel lié à l'intégration commerciale européenne : France 3,4 % ; « un retour en arrière entraînerait une perte symétrique en termes de commerce ou de PIB ».",
+      "pertinence": "Centre public d'études économiques internationales.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La France est effectivement contributrice nette au budget européen, et sa contribution augmente.",
+    "On peut critiquer l'orientation des politiques européennes, indépendamment du solde budgétaire."
+  ],
+  "publics": {
+    "convaincus": "Oui, la France paie plus qu'elle ne reçoit, je ne vais pas te dire le contraire. Mais compare : environ 8 milliards de solde d'un côté, et selon le CEPII un marché unique qui augmente notre PIB d'environ 3,4 % de l'autre. Si on veut changer l'Europe, il faut changer ses politiques, pas croire qu'on s'enrichirait en partant.",
+    "indecis": "Le solde net est réel : la France est le deuxième contributeur net. Mais elle est aussi la première bénéficiaire en volume, surtout grâce à la PAC, et elle gagne beaucoup au marché unique. La vraie question est ce que finance le budget européen, pas seulement combien il coûte."
+  },
+  "lecture": {
+    "valeurs": [
+      "internationalisme",
+      "democratie",
+      "travailleurs"
+    ],
+    "mecanismes": "Le « chèque à Bruxelles » isole une ligne budgétaire et oublie les retours, notamment agricoles, et les gains du marché commun.",
+    "consequences": "Le débat se focalise sur un solde comptable plutôt que sur l’orientation libérale des politiques européennes, qui pèse sur les travailleurs.",
+    "democratie": "La question démocratique est celle du contrôle des choix européens, pas du montant du chèque.",
+    "propositions": [
+      "Réorienter le budget européen vers la transition écologique et la convergence sociale.",
+      "Lutter contre le dumping fiscal et social entre États membres."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France est bien contributrice nette au budget européen.",
+        "integration": "Le reconnaître, et le comparer aux bénéfices économiques de l’Union."
+      }
+    ]
+  },
+  "concepts": [
+    "europe",
+    "cout",
+    "budget_ue"
+  ],
+  "repond_a": [
+    {
+      "id": "budget_ue",
+      "label": "Contribution de la France au budget européen"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "bruxelles",
+    "union europeenne",
+    "cout",
+    "couts",
+    "une fortune",
+    "rapportent",
+    "finances publiques",
+    "pognon",
+    "nos impots",
+    "budget europeen",
+    "cheque a bruxelles",
+    "qu elle ne recoit"
+  ]
+}

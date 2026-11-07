@@ -105,6 +105,10 @@
     "L'emploi des 55-64 ans a beaucoup progressé depuis 2010.",
     "Une partie des seniors sans emploi ont choisi de cesser leur activité."
   ],
+  "publics": {
+    "convaincus": "La difficulté est réelle : l'emploi chute après 60 ans (44,4 % des 60-64 ans), et à 61 ans près d'une personne sur quatre n'est ni en emploi ni à la retraite, le plus souvent pour raison de santé. Ce ne sont pas les immigrés ni les jeunes qui en sont la cause : c'est l'usure au travail et les pratiques des employeurs.",
+    "indecis": "L'emploi des seniors progresse (61,7 % des 55-64 ans en 2025, contre 41 % en 2010), mais il reste bas après 60 ans. La Suède et le Japon font beaucoup mieux : la santé au travail et l'attitude des employeurs sont des leviers concrets."
+  },
   "lecture": {
     "valeurs": [
       "travailleurs",
@@ -125,6 +129,10 @@
       }
     ]
   },
+  "concepts": [
+    "emploi",
+    "seniors"
+  ],
   "repond_a": [
     {
       "id": "seniors_emploi",
@@ -142,9 +150,5 @@
     "france travail",
     "trop vieux",
     "fin de carriere"
-  ],
-  "concepts": [
-    "emploi",
-    "seniors"
   ]
 }

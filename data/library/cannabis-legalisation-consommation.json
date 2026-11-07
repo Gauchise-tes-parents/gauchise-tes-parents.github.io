@@ -1,0 +1,162 @@
+{
+  "id": "cannabis-legalisation-consommation",
+  "type": "idee_recue",
+  "affirmation": "Légaliser le cannabis ferait exploser la consommation.",
+  "volet": "securite",
+  "sous_theme": "Prévention et politiques publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "cannabis",
+    "légaliser",
+    "légalisation",
+    "drogue",
+    "shit",
+    "consommation",
+    "prohibition",
+    "dépénalisation"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "La France, avec l'une des législations les plus répressives, est déjà parmi les plus gros consommateurs de cannabis de l'UE : 10,8 % des 18-64 ans en ont consommé dans l'année en 2023. Au Canada, la consommation adulte a augmenté après la légalisation (de 14 % à 20 % sur trois mois entre 2018 et 2020) : la hausse existe, mais « exploser » n'est pas étayé, et le Conseil d'analyse économique juge la prohibition « coûteuse et inefficace ».",
+  "contexte": "La légalisation du cannabis, défendue par une partie de la gauche et par certains économistes, est combattue par le RN et la droite au nom de la santé et de la sécurité.",
+  "explication": "La prohibition n'empêche pas la consommation : elle la laisse au marché noir. Une légalisation encadrée change les règles (âge minimum, produits contrôlés, taxes), avec des effets qui dépendent de son organisation.",
+  "faits": [
+    {
+      "fait": "Selon l'OFDT, en 2023, 10,8 % des 18-64 ans ont consommé du cannabis dans l'année, un niveau stable depuis une dizaine d'années, et la consommation recule chez les jeunes.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La consommation est élevée malgré la répression.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "10,8 %"
+    },
+    {
+      "fait": "Selon la mission d'information de l'Assemblée nationale (2021), la France est le plus gros consommateur de cannabis de l'Union européenne, avec 5 millions de consommateurs dans l'année et 900 000 usagers quotidiens ; le rapport fait le « constat d'un échec de la politique répressive ».",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "La prohibition n'a pas tenu sa promesse.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "900 000"
+    },
+    {
+      "fait": "Selon Statistique Canada, la part de la population ayant consommé du cannabis au cours des trois derniers mois est passée de 14 % avant la légalisation à 20 % fin 2020, et l'usage quotidien ou quasi quotidien de 5,4 % en 2018 à 7,9 % en 2020.",
+      "periode": "2018-2020",
+      "perimetre": "Canada",
+      "explication": "La légalisation peut augmenter la consommation adulte : il faut le reconnaître.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    },
+    {
+      "fait": "Selon le Conseil d'analyse économique (2019), la prohibition française est « à la fois coûteuse et inefficace » ; la légalisation entraîne une hausse chez les consommateurs réguliers, mais peut réduire l'usage des plus jeunes si l'interdiction de vente aux mineurs est respectée.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Tout dépend des règles : une légalisation encadrée peut mieux protéger les mineurs.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la France est déjà parmi les plus gros consommateurs de l'UE malgré la répression (10,8 % des adultes dans l'année). Au Canada, la consommation adulte a augmenté après la légalisation, mais « exploser » n'est pas étayé, et tout dépend de l'encadrement.",
+    "moyen": "La France interdit le cannabis, et pourtant c'est l'un des pays d'Europe où l'on en consomme le plus : 900 000 usagers quotidiens selon l'Assemblée nationale. La prohibition n'a pas empêché la consommation, elle l'a laissée aux trafiquants.\n\nAu Canada, la consommation adulte a augmenté après la légalisation : de 14 % à 20 % de consommateurs sur trois mois. Il faut le dire. Mais le Conseil d'analyse économique souligne qu'une légalisation encadrée peut mieux protéger les mineurs. Le vrai débat porte sur les règles, pas sur une « explosion ».",
+    "detaille": "Selon l'OFDT, 10,8 % des 18-64 ans ont consommé du cannabis dans l'année en 2023, un niveau stable depuis une dizaine d'années, et la consommation recule chez les jeunes. La mission d'information de l'Assemblée nationale (2021) note que la France est le plus gros consommateur de l'UE et fait le constat d'un échec de la politique répressive.\n\nLes expériences étrangères montrent des effets réels. Au Canada, la consommation sur trois mois est passée de 14 % à 20 % entre 2018 et 2020, et l'usage quotidien de 5,4 % à 7,9 %. Le Conseil d'analyse économique reconnaît une hausse chez les consommateurs réguliers, mais estime qu'un monopole encadré peut réduire l'usage des plus jeunes si l'interdiction de vente aux mineurs est respectée.\n\nLe choix est donc politique : santé publique, lutte contre les réseaux, prévention des jeunes. On peut s'opposer à la légalisation ; mais le statu quo, que l'on présente comme protecteur, s'accompagne déjà d'une consommation très élevée et d'un marché laissé aux trafiquants.",
+    "empathie": "Je comprends l'inquiétude, surtout pour les jeunes : personne ne veut banaliser une drogue. Mais aujourd'hui, avec l'interdiction, la France est déjà championne d'Europe, et ce sont les dealers qui fixent les règles. La question, c'est quel système protège le mieux."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Légaliser, c'est dire aux jeunes que c'est sans danger.",
+      "reponse": "La légalisation encadrée inclut l'interdiction de vente aux mineurs et la prévention ; la prohibition actuelle n'empêche pas les mineurs d'acheter aux dealers."
+    },
+    {
+      "objection": "Le trafic continuera de toute façon.",
+      "reponse": "C'est un risque réel, qui dépend du prix et de l'offre légale ; l'argument concerne l'organisation de la légalisation, pas le constat d'échec de la répression."
+    }
+  ],
+  "questions": [
+    "Sais-tu que la France, malgré l'interdiction, est parmi les plus gros consommateurs d'Europe ?",
+    "Qui contrôle aujourd'hui ce que fument les jeunes, et à quel âge ?"
+  ],
+  "limites": [
+    "Les données canadiennes portent sur 2018-2020, les premières années après la légalisation.",
+    "Aucune donnée chiffrée sur l'Uruguay ni comparaison européenne récente n'a été lue."
+  ],
+  "sources": [
+    {
+      "titre": "Levels of illegal drug use in France in 2023 (Tendances n° 164)",
+      "organisme": "OFDT (S. Spilka, O. Le Nézet, É. Janssen et al.)",
+      "date_publication": "24 juin 2024",
+      "url": "https://en.ofdt.fr/publication/2024/levels-illegal-drug-use-france-2023-2122",
+      "passage": "En 2023, 10,8 % des 18-64 ans ont consommé du cannabis dans l'année, un niveau qui « has remained stable for about ten years » ; plus de la moitié des adultes l'ont déjà expérimenté ; la consommation recule chez les jeunes.",
+      "pertinence": "Observatoire public des drogues et des tendances addictives.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La légalisation du cannabis en question(s) — dossier de presse du rapport de la mission d'information",
+      "organisme": "Assemblée nationale (mission d'information, rapporteure Caroline Janvier, président Robin Reda)",
+      "date_publication": "5 mai 2021",
+      "url": "https://www2.assemblee-nationale.fr/static/15/mission-information/DP_Cannabis_05.05.21.pdf",
+      "passage": "« La France est aujourd'hui le plus gros consommateur de cannabis au sein de l'Union européenne » ; 18 millions de personnes l'ont expérimenté, 5 millions en ont consommé dans l'année, 1,5 million sont des usagers réguliers dont 900 000 quotidiens ; le rapport fait le « constat d'un échec de la politique répressive ».",
+      "pertinence": "Rapport parlementaire transpartisan.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Cannabis : comment reprendre le contrôle ? (dossier de presse de la note n° 52)",
+      "organisme": "Conseil d'analyse économique (Emmanuelle Auriol, Pierre-Yves Geoffard)",
+      "date_publication": "20 juin 2019",
+      "url": "https://cae-eco.fr/static/pdf/conf_de_presse_note052.pdf",
+      "passage": "« Le système de prohibition français est à la fois coûteux et inefficace » ; les Français sont « parmi les plus gros consommateurs de cannabis de l'Union européenne » ; selon les travaux cités, la légalisation entraîne une hausse des usages chez les consommateurs réguliers, mais peut réduire ceux des plus jeunes si l'interdiction de vente aux mineurs est respectée.",
+      "pertinence": "Organisme public d'expertise économique placé auprès du Premier ministre.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Évolution de la consommation de cannabis de 2018 à 2020 (Le Quotidien)",
+      "organisme": "Statistique Canada",
+      "date_publication": "21 avril 2021",
+      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210421/dq210421c-fra.htm",
+      "passage": "Consommation au cours des trois derniers mois : 14 % avant la légalisation, 18 % dans les premiers mois après, 20 % fin 2020 ; consommation quotidienne ou quasi quotidienne : « 7,9 %, comparativement à 6,1 % en 2019 et à 5,4 % en 2018 ».",
+      "pertinence": "Institut statistique public du Canada.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Au Canada, la consommation adulte et l'usage quotidien ont augmenté après la légalisation.",
+    "Le cannabis présente des risques pour la santé, surtout chez les jeunes."
+  ],
+  "publics": {
+    "convaincus": "Regarde les faits : la France interdit tout et c'est l'un des pays d'Europe où l'on fume le plus. Au Canada, la consommation adulte a augmenté après la légalisation, c'est vrai, mais pas « explosé ». La question est simple : préfères-tu que les règles soient fixées par l'État ou par les trafiquants ?",
+    "indecis": "La crainte d'une hausse n'est pas absurde : au Canada, la consommation adulte a augmenté. Mais la France consomme déjà beaucoup sous prohibition. Le débat sérieux porte sur l'encadrement : âge minimum, prévention, lutte contre les réseaux."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "vulnerables",
+      "democratie"
+    ],
+    "mecanismes": "La peur d’une « explosion » sert à défendre une prohibition qui n’a pas empêché une consommation très élevée.",
+    "consequences": "La répression pèse surtout sur les quartiers populaires, pendant que le trafic prospère.",
+    "democratie": "Une politique publique se juge sur ses résultats ; un débat ouvert sur les drogues doit s’appuyer sur les évaluations.",
+    "propositions": [
+      "Ouvrir un débat sur une légalisation encadrée par l’État, avec interdiction de vente aux mineurs.",
+      "Investir dans la prévention et le soin plutôt que dans la seule répression."
+    ],
+    "defavorables": [
+      {
+        "fait": "Au Canada, la consommation adulte a augmenté après la légalisation.",
+        "integration": "Le reconnaître, et discuter des règles qui limitent ce risque."
+      }
+    ]
+  },
+  "concepts": [],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": []
+}

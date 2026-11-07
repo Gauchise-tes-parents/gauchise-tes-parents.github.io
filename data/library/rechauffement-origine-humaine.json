@@ -1,0 +1,172 @@
+{
+  "id": "rechauffement-origine-humaine",
+  "type": "idee_recue",
+  "affirmation": "Le réchauffement climatique n'est pas causé par l'homme, le climat a toujours changé.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "réchauffement climatique",
+    "climat a toujours changé",
+    "pas causé par l homme",
+    "climatosceptique",
+    "giec",
+    "origine humaine",
+    "changement climatique",
+    "cycles naturels"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le climat a varié naturellement dans le passé, c'est vrai. Mais selon le GIEC, il est « sans équivoque » que l'influence humaine a réchauffé l'atmosphère, l'océan et les terres : sur 1,09 °C de réchauffement mondial, environ 1,07 °C est d'origine humaine, et le rythme depuis 1970 est inédit depuis au moins 2 000 ans. En France métropolitaine, le réchauffement atteint 1,9 °C depuis 1900.",
+  "contexte": "Le climatoscepticisme progresse dans une partie de l'électorat, souvent associé au rejet des normes écologiques et des « écolos ».",
+  "explication": "Les variations naturelles du climat (orbite de la Terre, volcans, soleil) se font en général sur des milliers d'années. Le réchauffement actuel est beaucoup plus rapide, et les scientifiques peuvent mesurer la part due aux gaz à effet de serre émis par les activités humaines.",
+  "faits": [
+    {
+      "fait": "Selon le GIEC (2021), « il est sans équivoque que l'influence humaine a réchauffé l'atmosphère, l'océan et les terres ».",
+      "periode": "2021",
+      "perimetre": "Monde",
+      "explication": "La cause humaine est la conclusion centrale de la science du climat.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le GIEC, la température de surface était 1,09 °C plus élevée en 2011-2020 qu'en 1850-1900, et la part d'origine humaine est estimée à 1,07 °C (entre 0,8 et 1,3 °C).",
+      "periode": "2011-2020",
+      "perimetre": "Monde",
+      "explication": "La quasi-totalité du réchauffement observé est due aux activités humaines.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,07 °C"
+    },
+    {
+      "fait": "Selon le GIEC, la température mondiale a augmenté plus vite depuis 1970 que pendant toute autre période de 50 ans depuis au moins 2 000 ans, et la concentration de CO2 en 2019 est la plus élevée depuis au moins 2 millions d'années.",
+      "periode": "1970-2019",
+      "perimetre": "Monde",
+      "explication": "Le rythme actuel n'a rien à voir avec les variations naturelles récentes.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministère de la Transition écologique, le réchauffement atteint déjà 1,9 °C en France métropolitaine sur la dernière décennie par rapport à 1900.",
+      "periode": "2026",
+      "perimetre": "France métropolitaine",
+      "explication": "Le réchauffement est déjà très sensible en France.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1,9 °C"
+    },
+    {
+      "fait": "Selon Météo-France, la tendance en France a été de +0,3 °C par décennie sur la période 1959-2009.",
+      "periode": "1959-2009",
+      "perimetre": "France",
+      "explication": "L'accélération est mesurée depuis plusieurs décennies.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "0,3 °C"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le climat a déjà changé naturellement, mais selon le GIEC le réchauffement actuel est « sans équivoque » d'origine humaine (1,07 °C sur 1,09 °C) et son rythme est inédit depuis au moins 2 000 ans.",
+    "moyen": "Oui, le climat a toujours varié, sur des milliers d'années. Mais ce qui se passe aujourd'hui est différent : le GIEC, qui synthétise des milliers d'études, juge « sans équivoque » le rôle humain, et attribue presque tout le réchauffement observé (1,07 °C sur 1,09 °C) aux activités humaines.\n\nLe rythme est inédit depuis au moins 2 000 ans. En France métropolitaine, il fait déjà 1,9 °C de plus qu'en 1900 : ce n'est plus de la théorie.",
+    "detaille": "Le climat de la Terre a connu des variations naturelles importantes, comme les ères glaciaires. Personne ne le conteste. Mais ces variations sont lentes. Selon le GIEC (2021), le réchauffement depuis 1970 est plus rapide que pendant toute autre période de cinquante ans depuis au moins 2 000 ans, et la concentration de CO2 atteint un niveau inédit depuis au moins 2 millions d'années.\n\nLe GIEC conclut qu'il est « sans équivoque » que l'influence humaine a réchauffé l'atmosphère, l'océan et les terres. Sur 1,09 °C de réchauffement mondial entre 1850-1900 et 2011-2020, la part humaine est estimée à 1,07 °C. Les facteurs naturels pèsent très peu sur cette période.\n\nEn France, Météo-France mesurait 1,7 °C de hausse depuis 1900, et le ministère de la Transition écologique indique désormais 1,9 °C sur la dernière décennie. Reconnaître la cause humaine n'impose pas une politique unique ; mais c'est la condition pour en débattre sérieusement, y compris de la justice sociale de la transition.",
+    "empathie": "Je comprends qu'on se méfie quand on a l'impression qu'on nous fait la morale avec le climat. Mais là-dessus, les scientifiques du monde entier sont d'accord, et beaucoup en constatent déjà les effets autour d'eux. On peut discuter de qui doit payer la transition, pas du thermomètre."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les scientifiques ne sont pas d'accord entre eux.",
+      "reponse": "Le rapport du GIEC synthétise des milliers d'études et son résumé est approuvé par les gouvernements ; il juge le rôle humain « sans équivoque »."
+    },
+    {
+      "objection": "C'est le soleil.",
+      "reponse": "Le GIEC attribue la quasi-totalité du réchauffement observé (1,07 °C sur 1,09 °C) à l'influence humaine."
+    }
+  ],
+  "questions": [
+    "À quand remonte, selon toi, un réchauffement aussi rapide ?",
+    "As-tu remarqué des changements autour de toi : canicules, sécheresses, hivers plus doux ?"
+  ],
+  "limites": [
+    "Les chiffres mondiaux du GIEC datent du rapport de 2021.",
+    "Les projections futures dépendent des émissions, non traitées ici."
+  ],
+  "sources": [
+    {
+      "titre": "Climate Change 2021: The Physical Science Basis — Summary for Policymakers (AR6, groupe de travail I)",
+      "organisme": "GIEC (IPCC)",
+      "date_publication": "Août 2021",
+      "url": "https://ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers",
+      "passage": "A.1 : « It is unequivocal that human influence has warmed the atmosphere, ocean and land » ; température de surface 1,09 °C plus élevée en 2011-2020 qu'en 1850-1900 ; réchauffement d'origine humaine estimé à 1,07 °C (0,8 à 1,3 °C) ; « Global surface temperature has increased faster since 1970 than in any other 50-year period over at least the last 2000 years » ; en 2019, concentration de CO2 plus élevée qu'à n'importe quel moment depuis au moins 2 millions d'années.",
+      "pertinence": "Synthèse scientifique internationale de référence, approuvée par les États.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le changement climatique en France",
+      "organisme": "Météo-France",
+      "date_publication": "28 février 2020",
+      "url": "https://meteofrance.com/changement-climatique/le-changement-climatique-en-france",
+      "passage": "Hausse des températures moyennes en France de 1,7 °C depuis 1900 ; tendance de +0,3 °C par décennie sur la période 1959-2009.",
+      "pertinence": "Service public de météorologie et de climatologie.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La France s'adapte",
+      "organisme": "Ministère de la Transition écologique",
+      "date_publication": "Mise à jour du 23 octobre 2026",
+      "url": "https://www.ecologie.gouv.fr/es/node/4194",
+      "passage": "En France métropolitaine, « le réchauffement a déjà atteint 1,9 °C sur la dernière décennie depuis 1900 ».",
+      "pertinence": "Ministère compétent.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le climat a effectivement varié naturellement dans le passé.",
+    "Les politiques climatiques peuvent peser sur les ménages modestes si elles sont mal conçues."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison, le climat a toujours changé, mais en des milliers d'années. Là, selon le GIEC, on a pris plus d'un degré en un siècle, presque entièrement à cause de nous, à un rythme jamais vu depuis 2 000 ans. Tu peux refuser certaines mesures écologiques, mais nier le thermomètre ne protégera ni les paysans ni les gens qui étouffent l'été.",
+    "indecis": "Le doute est normal sur un sujet aussi vaste. Le point de départ fiable, c'est le GIEC : le rôle humain est « sans équivoque », et la France s'est réchauffée de 1,9 °C depuis 1900. Le vrai débat porte sur les solutions et sur qui les paie."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "solidarite",
+      "paix"
+    ],
+    "mecanismes": "Le rappel des variations naturelles du passé sert à nier la cause actuelle, établie par la science.",
+    "consequences": "Retarder l’action climatique aggrave les dégâts, qui touchent d’abord les plus modestes et les pays les plus pauvres.",
+    "democratie": "Un débat démocratique sur les solutions suppose d’accepter un constat scientifique commun.",
+    "propositions": [
+      "Une transition écologique juste, financée par ceux qui polluent le plus.",
+      "Accompagner les travailleurs des secteurs concernés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le climat a varié naturellement dans le passé.",
+        "integration": "Le reconnaître, et expliquer la différence de rythme et de cause avec le réchauffement actuel."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "climat_origine"
+  ],
+  "repond_a": [
+    {
+      "id": "climat_origine",
+      "label": "Origine humaine du réchauffement"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ]
+}

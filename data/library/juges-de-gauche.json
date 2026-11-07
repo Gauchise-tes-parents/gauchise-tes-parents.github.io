@@ -1,0 +1,188 @@
+{
+  "id": "juges-de-gauche",
+  "type": "idee_recue",
+  "affirmation": "Les juges sont tous de gauche.",
+  "volet": "securite",
+  "sous_theme": "Justice pénale",
+  "rubriques": [],
+  "mots_cles": [
+    "juges",
+    "magistrats",
+    "juges rouges",
+    "juges de gauche",
+    "syndicat de la magistrature",
+    "gouvernement des juges",
+    "mur des cons",
+    "justice politisée"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non. Au moins la moitié des quelque 9 500 magistrats ne sont pas syndiqués. Aux élections professionnelles de février 2026, l'USM, syndicat majoritaire non classé à gauche, obtient 61 % des voix, le Syndicat de la magistrature (à gauche) 25 %, et Unité Magistrats-FO, aux positions conservatrices, 12,5 %. L'affaire du « mur des cons » est réelle et a valu une condamnation à l'ancienne présidente du SM, mais elle ne dit rien de l'ensemble des juges.",
+  "contexte": "L'accusation de « juges rouges » ou de « gouvernement des juges » revient après des décisions visant des responsables politiques, notamment la condamnation de Marine Le Pen en 2025.",
+  "explication": "Les magistrats ont le droit de se syndiquer, mais ils doivent juger avec impartialité, sous le contrôle des voies de recours et du Conseil supérieur de la magistrature. L'appartenance à un syndicat ne permet pas, à elle seule, de mettre en cause l'impartialité d'un juge.",
+  "faits": [
+    {
+      "fait": "Selon le ministère de la Justice, aux élections professionnelles des magistrats de février 2026, l'USM a obtenu 60,99 % des voix, le Syndicat de la magistrature 25,03 %, Unité Magistrats-FO 12,51 % et la CFDT 1,46 %, avec une participation de 62,75 %.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le syndicat classé à gauche est minoritaire chez les magistrats.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "25 %"
+    },
+    {
+      "fait": "Selon Public Sénat, la France compte environ 9 500 magistrats, dont au moins la moitié ne sont pas syndiqués ; le Syndicat de la magistrature compte « pas beaucoup plus de 1000 » adhérents, l'USM environ 2 500.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La grande majorité des juges n'adhère pas au syndicat de gauche.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "9 500"
+    },
+    {
+      "fait": "Selon Public Sénat, le Conseil supérieur de la magistrature affirme que la liberté syndicale est reconnue aux magistrats et que l'appartenance syndicale ne peut, à elle seule, fonder une remise en cause de l'impartialité ; le Sénat a rappelé en 2023 le respect du principe d'impartialité pour les magistrats syndiqués.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "L'impartialité s'impose à tous les juges, syndiqués ou non.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, en 2013, un panneau de photos de personnalités, surtout de droite, a été découvert au local du Syndicat de la magistrature (« mur des cons ») ; selon Actu-Juridique, son ancienne présidente a été condamnée en 2019 pour injure publique envers un plaignant, les autres ayant été déboutés.",
+      "periode": "2013-2019",
+      "perimetre": "France",
+      "explication": "Un fait réel, sanctionné, qui ne concerne qu'un syndicat minoritaire.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : au moins la moitié des magistrats ne sont pas syndiqués, et en 2026 le syndicat classé à gauche a obtenu 25 % des voix, contre 61 % à l'USM et 12,5 % à un syndicat conservateur (ministère de la Justice).",
+    "moyen": "Les chiffres ne collent pas : sur environ 9 500 magistrats, au moins la moitié ne sont syndiqués nulle part. Aux élections professionnelles de 2026, le Syndicat de la magistrature, classé à gauche, a obtenu 25 % des voix ; l'USM, majoritaire, 61 % ; et un syndicat conservateur, 12,5 %, en forte progression.\n\nL'affaire du « mur des cons » a bien existé et a été sanctionnée par la justice elle-même. Mais elle concerne un syndicat minoritaire. Et un jugement se conteste en appel, pas en accusant les juges d'être « rouges ».",
+    "detaille": "La France compte environ 9 500 magistrats, dont au moins la moitié ne sont pas syndiqués selon Public Sénat. Aux élections professionnelles de février 2026, l'Union syndicale des magistrats (USM), majoritaire, a obtenu 60,99 % des voix ; le Syndicat de la magistrature (SM), classé à gauche, 25,03 % ; Unité Magistrats-FO, aux positions conservatrices, 12,51 %. Aux élections au Conseil supérieur de la magistrature de 2022, le SM avait obtenu un tiers des voix.\n\nL'image des « juges rouges » s'appuie sur des faits réels : le SM existe et prend des positions politiques, et l'affaire du « mur des cons » (2013) a valu à son ancienne présidente une condamnation pour injure publique. Mais ce syndicat est minoritaire, et l'appartenance syndicale ne permet pas, selon le Conseil supérieur de la magistrature, de mettre en cause à elle seule l'impartialité d'un juge.\n\nLes décisions de justice peuvent être critiquées et contestées par les voies de recours. Discréditer l'ensemble des juges parce qu'une décision déplaît fragilise l'indépendance de la justice, qui protège aussi ceux qui l'attaquent.",
+    "empathie": "Je comprends qu'on soit choqué quand un juge prend une décision qui semble aller contre ses idées. Mais les chiffres montrent que la plupart des juges ne sont pas de gauche, et beaucoup ne sont syndiqués nulle part. Si on n'est pas d'accord avec une décision, il y a l'appel."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les décisions contre la droite prouvent qu'ils sont de gauche.",
+      "reponse": "Les décisions sont prises par des formations de juges souvent non syndiqués et peuvent être contestées en appel puis en cassation."
+    },
+    {
+      "objection": "Le mur des cons prouve tout.",
+      "reponse": "Il concerne un syndicat minoritaire, et son auteure a été condamnée par d'autres juges."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de magistrats votent pour le Syndicat de la magistrature ?",
+    "Si un juge ne pouvait plus juger un responsable politique sans être accusé d'être partisan, qui en profiterait ?"
+  ],
+  "limites": [
+    "Aucune enquête fiable sur les opinions politiques individuelles des magistrats n'a été trouvée.",
+    "Les résultats électoraux mesurent les votes syndicaux, pas les opinions."
+  ],
+  "sources": [
+    {
+      "titre": "Élections professionnelles 2026 relatives à la nouvelle commission d'avancement des magistrats",
+      "organisme": "Ministère de la Justice",
+      "date_publication": "13 février 2026",
+      "url": "https://www.justice.gouv.fr/actualites/espace-presse/elections-professionnelles-2026-relatives-nouvelle-commission-davancement-magistrats",
+      "passage": "Résultats : USM 60,99 % (4 sièges), Syndicat de la magistrature 25,03 % (1 siège), Unité Magistrats-FO 12,51 % (1 siège), CFDT-Magistrats 1,46 % ; participation : 62,75 %.",
+      "pertinence": "Communiqué officiel du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Inéligibilité de Marine Le Pen : que pèse le Syndicat de la magistrature ciblé par le RN et une partie de la droite ?",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "7 avril 2025",
+      "url": "https://www.publicsenat.fr/actualites/politique/ineligibilite-de-marine-pen-pourquoi-le-syndicat-de-la-magistrature-est-cible-par-le-rn-et-une-partie-de-la-droite",
+      "passage": "Environ 9 500 magistrats, dont au moins la moitié ne sont pas syndiqués ; adhérents : USM environ 2 500, Syndicat de la magistrature « pas beaucoup plus de 1000 » ; élections au CSM de fin 2022 : USM 66,6 %, SM 33,3 % ; le sociologue Laurent Willemez : « l'essence même du métier de magistrat est d'être le plus impartial possible » ; en 2013, un panneau de photos (« mur des cons ») a été découvert au local du SM et son ancienne présidente a été condamnée pour injure publique.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "« Mur des cons » : une cinglante condamnation",
+      "organisme": "Actu-Juridique",
+      "date_publication": "12 mars 2019",
+      "url": "https://www.actu-juridique.fr/professions/mur-des-cons-une-cinglante-condamnation/",
+      "passage": "Par un jugement du 31 janvier 2019, le tribunal correctionnel de Paris a condamné l'ancienne présidente du Syndicat de la magistrature pour injure publique envers un des plaignants, à 500 euros d'amende ; les autres plaignants ont été déboutés.",
+      "pertinence": "Média juridique spécialisé.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Magistrats syndiqués : le Sénat impose le respect du « principe d'impartialité »",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "8 juin 2023",
+      "url": "https://www.publicsenat.fr/actualites/politique/magistrats-syndiques-le-senat-impose-le-respect-du-principe-dimpartialite",
+      "passage": "Le Sénat a adopté un amendement rappelant « le respect du principe d'impartialité pour les magistrats syndiqués » ; le Conseil supérieur de la magistrature avait affirmé que « la liberté syndicale est reconnue aux magistrats » et que l'appartenance syndicale ne peut fonder à elle seule une remise en cause de l'impartialité d'un magistrat.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Le Syndicat de la magistrature, classé à gauche, représente environ un quart des voix aux élections professionnelles.",
+    "L'affaire du « mur des cons » a donné lieu à une condamnation définitive de l'ancienne présidente du SM."
+  ],
+  "publics": {
+    "convaincus": "Si les juges étaient tous de gauche, le syndicat de gauche ne ferait pas 25 % aux élections de 2026, derrière l'USM à 61 %, avec un syndicat conservateur qui progresse. Le « mur des cons » était une faute, et la justice l'a sanctionnée. Une décision te déplaît ? C'est à ça que sert l'appel.",
+    "indecis": "La défiance envers la justice se comprend après des décisions médiatisées. Mais les magistrats ne forment pas un bloc : le syndicat classé à gauche est minoritaire, et au moins la moitié des juges ne sont pas syndiqués. Leur impartialité est contrôlée par l'appel et le Conseil supérieur de la magistrature."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes",
+      "egalite"
+    ],
+    "mecanismes": "Attaquer l’impartialité des juges permet de délégitimer une décision sans discuter le fond.",
+    "consequences": "La défiance envers la justice affaiblit la protection des droits de tous, y compris de ceux qui l’attaquent.",
+    "democratie": "L’indépendance de la justice est une condition de l’État de droit.",
+    "propositions": [
+      "Donner à la justice les moyens de juger dans des délais raisonnables.",
+      "Garantir la transparence et l’impartialité par les voies de recours et le CSM."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’affaire du « mur des cons » a donné lieu à une condamnation de l’ancienne présidente du SM.",
+        "integration": "La reconnaître comme une faute, sanctionnée par la justice elle-même."
+      }
+    ]
+  },
+  "concepts": [
+    "justice",
+    "gauche",
+    "syndicats",
+    "juges_rouges"
+  ],
+  "repond_a": [
+    {
+      "id": "juges_rouges",
+      "label": "Juges accusés d’être politisés"
+    },
+    {
+      "id": "juges_gauche",
+      "label": "Juges accusés d’être politisés"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "justice",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire",
+    "cgt",
+    "cfdt",
+    "force ouvriere"
+  ]
+}

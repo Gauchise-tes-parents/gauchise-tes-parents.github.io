@@ -1,0 +1,170 @@
+{
+  "id": "mineurs-isoles-age",
+  "type": "idee_recue",
+  "affirmation": "Les mineurs étrangers isolés sont pour la plupart des majeurs qui mentent sur leur âge.",
+  "volet": "immigration",
+  "sous_theme": "Réfugiés et statuts administratifs",
+  "rubriques": [],
+  "mots_cles": [
+    "mineurs non accompagnés",
+    "mna",
+    "mineurs isolés",
+    "faux mineurs",
+    "mentent sur leur âge",
+    "tests osseux",
+    "évaluation de minorité",
+    "majeurs"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Une majorité des jeunes qui se présentent comme mineurs isolés ne sont pas reconnus comme tels par les départements (taux d'acceptation de 30 à 40 % en 2017). Mais un refus ne prouve ni la majorité ni un mensonge : les évaluations varient selon les départements, les tests osseux ne distinguent pas 16 de 18 ans, et aucune statistique fiable ne permet d'affirmer que « la plupart mentent ».",
+  "contexte": "L'expression « faux mineurs » circule après des faits divers impliquant de jeunes étrangers, pour mettre en doute l'ensemble des mineurs isolés pris en charge par l'aide sociale à l'enfance.",
+  "explication": "Un jeune qui se dit mineur et isolé est évalué par le département. Un refus signifie que l'évaluation n'a pas retenu la minorité, pas que la personne a menti : beaucoup n'ont pas de papiers fiables, et les méthodes d'évaluation sont imprécises.",
+  "faits": [
+    {
+      "fait": "Selon le secrétaire d'État chargé de l'enfance (cité au Sénat), en 2017, 44 000 jeunes se sont déclarés mineurs non accompagnés et 14 000 ont été reconnus comme tels, soit un taux d'acceptation de 30 à 40 %.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Une majorité des demandes est refusée : c'est un fait.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "44 000"
+    },
+    {
+      "fait": "Selon le Conseil constitutionnel, les examens osseux comportent autour de 18 ans une marge d'erreur de 18 à 24 mois ; ils ne peuvent être l'unique fondement de la détermination de l'âge, et le doute doit profiter à la minorité.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Il n'existe pas de test fiable pour démasquer un « faux mineur ».",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "18 à 24 mois"
+    },
+    {
+      "fait": "Selon l'Académie nationale de médecine, la méthode radiologique de référence « ne permet pas de distinction nette entre seize et dix-huit ans ».",
+      "periode": "2007",
+      "perimetre": "France",
+      "explication": "Un jeune de 16 ans peut être déclaré majeur à tort.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Défenseur des droits, l'évaluation de la minorité est parfois entachée de représentations négatives, varie grandement d'un département à l'autre, et il n'existe pas de chiffres consolidés et fiables.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les refus dépendent aussi du département, pas seulement de l'âge réel.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : une majorité des jeunes évalués ne sont pas reconnus mineurs, mais un refus ne prouve pas un mensonge. Les tests osseux ne distinguent pas 16 de 18 ans (Académie de médecine), et le Conseil constitutionnel impose que le doute profite à la minorité.",
+    "moyen": "Il est vrai que la plupart des jeunes qui se présentent ne sont pas reconnus mineurs : en 2017, 14 000 sur 44 000. Mais un refus du département ne veut pas dire que le jeune a menti.\n\nBeaucoup n'ont pas d'état civil fiable, et les méthodes d'évaluation sont imprécises : l'Académie de médecine explique que les radios ne distinguent pas 16 de 18 ans. Le Défenseur des droits constate que les résultats varient beaucoup d'un département à l'autre. Dire que « la plupart mentent », c'est transformer une incertitude administrative en accusation.",
+    "detaille": "Les mineurs non accompagnés relèvent de la protection de l'enfance, confiée aux départements. Chaque jeune qui se déclare mineur et isolé est évalué. En 2017, selon le Gouvernement, 44 000 jeunes ont été évalués et 14 000 reconnus mineurs, soit un taux d'acceptation de 30 à 40 %.\n\nUn refus n'établit pas la majorité. Le Conseil constitutionnel relève que les examens osseux ont une marge d'erreur de 18 à 24 mois autour de 18 ans, qu'ils ne peuvent suffire à déterminer l'âge, et que le doute doit profiter à la minorité. L'Académie nationale de médecine indique qu'ils ne distinguent pas nettement 16 et 18 ans. Le Défenseur des droits constate des pratiques très variables entre départements et l'absence de chiffres consolidés.\n\nIl peut exister des fraudes sur l'âge. Mais aucune donnée fiable ne permet de dire que la plupart des jeunes mentent. L'accusation générale vise des enfants qui, s'ils sont mineurs, ont droit à la protection de l'enfance comme tout enfant.",
+    "empathie": "Je comprends le doute quand on voit à la télé un « mineur » qui paraît plus âgé. Mais personne ne sait mesurer l'âge précisément, même les médecins. Si on se trompe, on laisse à la rue un enfant de 16 ans : c'est pour ça que la loi dit que le doute doit lui profiter."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il suffit de faire des tests osseux.",
+      "reponse": "Ils ont une marge d'erreur de 18 à 24 mois autour de 18 ans et ne peuvent légalement suffire à eux seuls."
+    },
+    {
+      "objection": "Puisqu'ils sont refusés, c'est qu'ils mentaient.",
+      "reponse": "Un refus traduit une évaluation incertaine, variable selon les départements, pas une preuve de mensonge."
+    }
+  ],
+  "questions": [
+    "Comment ferais-tu, toi, pour prouver ton âge sans papiers ?",
+    "Si on se trompe dans un sens ou dans l'autre, quelle erreur est la plus grave : protéger un jeune adulte ou laisser à la rue un enfant ?"
+  ],
+  "limites": [
+    "Les chiffres d'évaluation datent de 2017 ; aucune statistique nationale récente et consolidée n'a pu être lue.",
+    "Le nombre de jeunes reconnus mineurs après recours devant le juge n'est pas connu."
+  ],
+  "sources": [
+    {
+      "titre": "Le Sénat débat de la question des MNA et cherche à voir clair dans les chiffres",
+      "organisme": "Banque des Territoires (Localtis, Jean-Noël Escudié)",
+      "date_publication": "22 février 2021",
+      "url": "https://www.banquedesterritoires.fr/le-senat-debat-de-la-question-des-mna-et-cherche-voir-clair-dans-les-chiffres",
+      "passage": "Selon le secrétaire d'État Adrien Taquet, « en 2017, 44.000 jeunes se sont déclarés MNA pour être évalués, et 14.000 ont été reconnus comme tels » ; « le taux d'acceptation est donc compris entre 30% et 40% » ; le chiffre de « près de 70% de prétendus mineurs » qui ne le seraient pas est cité comme une allégation.",
+      "pertinence": "Compte rendu d'un débat au Sénat par un média public spécialisé.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Commentaire de la décision n° 2018-768 QPC du 21 mars 2019 (examens radiologiques osseux aux fins de détermination de l'âge)",
+      "organisme": "Conseil constitutionnel",
+      "date_publication": "21 mars 2019",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/ccqpc-drupal-prd/dqpc/commentaire/commentaire_D%C3%A9cision-n%C2%B0-2018-768-QPC-du-21-mars-2019.pdf",
+      "passage": "« Il était établi que les résultats des examens osseux peuvent comporter une marge d'erreur significative » ; autour de 18 ans, une marge d'erreur de 18 à 24 mois ; le législateur « a exclu que ces conclusions puissent constituer l'unique fondement dans la détermination de l'âge » et le doute « doit profiter à la qualité de mineur de l'intéressé » ; le Haut Conseil de la santé publique : « Aucune méthode à elle seule ne peut scientifiquement donner un âge précis ».",
+      "pertinence": "Juridiction constitutionnelle (commentaire officiel).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sur la fiabilité des examens médicaux visant à déterminer l'âge à des fins judiciaires (rapport 07-01)",
+      "organisme": "Académie nationale de médecine (J.-L. Chaussain, Y. Chapuis)",
+      "date_publication": "16 janvier 2007",
+      "url": "https://www.academie-medecine.fr/07-01-sur-la-fiabilite-des-examens-medicaux-visant-a-determiner-lage-a-des-fins-judiciaires-et-la-possiblite-damelioration-en-la-matiere-pour-les-mineurs-etrangers-isoles/",
+      "passage": "La méthode de Greulich et Pyle « ne permet pas de distinction nette entre seize et dix-huit ans » ; les difficultés concernent les deux sexes au-delà de quinze ans, en particulier chez le garçon.",
+      "pertinence": "Institution scientifique de référence (avis ancien).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les mineurs non accompagnés au regard du droit (synthèse)",
+      "organisme": "Défenseur des droits",
+      "date_publication": "Janvier 2022",
+      "url": "https://www.defenseurdesdroits.fr/sites/default/files/2023-07/ddd_rapport-les-mineurs-non-accompagnes-au-regard-du-droit_synthese_20210124.pdf",
+      "passage": "L'évaluation de la minorité est « parfois entachée de ces représentations négatives » et la situation varie « grandement d'un département à l'autre » ; le Défenseur recommande une présomption de minorité jusqu'à décision judiciaire définitive et l'interdiction des tests osseux ; il déplore l'absence de chiffres consolidés et fiables.",
+      "pertinence": "Autorité administrative indépendante chargée de la défense des droits.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "Une majorité des jeunes évalués n'est pas reconnue mineure par les départements.",
+    "Des fraudes sur l'âge peuvent exister, et la prise en charge pèse sur les départements."
+  ],
+  "publics": {
+    "convaincus": "D'accord, beaucoup de jeunes ne sont pas reconnus mineurs. Mais refusé ne veut pas dire menteur : même l'Académie de médecine dit qu'on ne sait pas distinguer 16 et 18 ans à la radio. Accuser tout le monde de mentir, c'est accepter de mettre des enfants à la rue sur un coup de dés.",
+    "indecis": "Le doute sur l'âge est compréhensible, et une majorité des demandes est refusée. Mais il n'existe aucune méthode fiable pour mesurer l'âge, et les évaluations varient d'un département à l'autre. C'est pour cela que le Conseil constitutionnel exige que le doute profite au mineur."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "dignite",
+      "universalite"
+    ],
+    "mecanismes": "L’étiquette de « faux mineurs » transforme une incertitude administrative en soupçon généralisé contre des enfants étrangers.",
+    "consequences": "Des mineurs réels se retrouvent à la rue, sans protection, exposés à l’exploitation et aux réseaux.",
+    "democratie": "Les droits de l’enfant valent pour tous les enfants : le doute doit protéger, pas exclure.",
+    "propositions": [
+      "Harmoniser et améliorer l’évaluation de la minorité entre départements.",
+      "Garantir la présomption de minorité jusqu’à la décision du juge."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une majorité des jeunes évalués n’est pas reconnue mineure par les départements.",
+        "integration": "Le reconnaître, en rappelant qu’un refus n’est pas une preuve de mensonge et que les méthodes sont imprécises."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos"
+  ]
+}

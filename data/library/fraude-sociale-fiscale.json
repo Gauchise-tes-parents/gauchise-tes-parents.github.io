@@ -114,6 +114,10 @@
     "La fraude des allocataires existe et représente plusieurs milliards d'euros, dont environ 1,5 milliard pour le RSA.",
     "Les estimations de fraude fiscale comportent de fortes incertitudes."
   ],
+  "publics": {
+    "convaincus": "La fraude sociale existe, environ 13 milliards d'euros par an selon le HCFiPS. Mais plus de la moitié vient des entreprises et des indépendants, surtout par le travail dissimulé, pas des allocataires. Et la seule fraude à la TVA est estimée entre 20 et 25 milliards : si on veut récupérer de l'argent, il faut regarder partout.",
+    "indecis": "Il est normal de vouloir lutter contre toutes les fraudes. Les estimations publiques montrent que la fraude sociale vient surtout des entreprises, et que la fraude fiscale est au moins aussi importante, même si elle est plus difficile à mesurer."
+  },
   "lecture": {
     "valeurs": [
       "egalite",
@@ -134,6 +138,15 @@
       }
     ]
   },
+  "concepts": [
+    "origine",
+    "emploi",
+    "salaires",
+    "prestations",
+    "fiscalite",
+    "cout",
+    "fraude"
+  ],
   "repond_a": [
     {
       "id": "fraude",
@@ -154,14 +167,5 @@
     "smic",
     "dumping",
     "baisser les salaires"
-  ],
-  "concepts": [
-    "origine",
-    "emploi",
-    "salaires",
-    "prestations",
-    "fiscalite",
-    "cout",
-    "fraude"
   ]
 }

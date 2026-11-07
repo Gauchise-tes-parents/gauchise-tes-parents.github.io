@@ -1,0 +1,157 @@
+{
+  "id": "niveau-scolaire-effondre",
+  "type": "idee_recue",
+  "affirmation": "Le niveau scolaire s'effondre.",
+  "volet": "services",
+  "sous_theme": "École publique",
+  "rubriques": [],
+  "mots_cles": [
+    "niveau scolaire",
+    "niveau baisse",
+    "s effondre",
+    "pisa",
+    "élèves",
+    "mathématiques",
+    "école",
+    "baisse du niveau",
+    "timss"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La baisse est réelle : en mathématiques, la chute observée en France entre 2018 et 2022 est « sans précédent » selon l'OCDE (-21 points), et 17 % des élèves de 4e n'atteignent pas le niveau bas de TIMSS en 2023, contre 3 % en 1995. Mais la baisse touche presque toute l'OCDE, la France reste dans la moyenne de PISA, et le fait le plus marquant est le poids de l'origine sociale, plus fort en France qu'ailleurs.",
+  "contexte": "Le déclin de l'école est un thème fort de la droite et de l'extrême droite, souvent associé à l'immigration, au « pédagogisme » ou au « wokisme ».",
+  "explication": "Les enquêtes internationales (PISA pour les jeunes de 15 ans, TIMSS en 4e) mesurent les compétences des élèves avec les mêmes tests d'un pays et d'une année à l'autre. Elles permettent de comparer, mais pas, à elles seules, d'identifier les causes.",
+  "faits": [
+    {
+      "fait": "Selon l'OCDE, les résultats PISA 2022 de la France sont en baisse en mathématiques et en compréhension de l'écrit par rapport à 2018, et parmi les plus bas jamais mesurés ; en mathématiques, la baisse récente est « sans précédent ».",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La baisse du niveau est documentée.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, d'après l'OCDE, le score français en mathématiques a chuté de 21 points, à 474, quand la moyenne de l'OCDE perdait 15 points, à 472 ; la baisse n'est attribuable qu'en partie à la pandémie.",
+      "periode": "2018-2022",
+      "perimetre": "France et OCDE",
+      "explication": "La France baisse plus que la moyenne, mais reste à son niveau.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "474"
+    },
+    {
+      "fait": "Selon la DEPP, en 2023, 17 % des élèves de 4e n'atteignent pas le niveau bas de TIMSS en mathématiques, contre 3 % en 1995 et 12 % en 2019 ; la France obtient 479 points, sous la moyenne des pays de l'OCDE et de l'UE participants (507).",
+      "periode": "1995-2023",
+      "perimetre": "France",
+      "explication": "La part des élèves en grande difficulté augmente.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "17 %"
+    },
+    {
+      "fait": "Selon l'OCDE, en mathématiques, l'écart entre élèves favorisés et défavorisés atteint 113 points en France, contre 93 en moyenne dans l'OCDE.",
+      "periode": "2022",
+      "perimetre": "France et OCDE",
+      "explication": "L'école française reproduit fortement les inégalités sociales.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "113 points"
+    }
+  ],
+  "argumentaires": {
+    "court": "En partie vrai : la chute en mathématiques est « sans précédent » selon l'OCDE, et 17 % des élèves de 4e sont sous le niveau bas de TIMSS. Mais la baisse touche presque toute l'OCDE, et le problème le plus marquant en France est le poids de l'origine sociale.",
+    "moyen": "La baisse est réelle, il ne faut pas la nier : en mathématiques, la France a perdu 21 points dans PISA entre 2018 et 2022, une chute « sans précédent » selon l'OCDE. En 4e, la part d'élèves très faibles est passée de 3 % en 1995 à 17 % en 2023.\n\nMais deux nuances comptent. La baisse touche presque tous les pays de l'OCDE, et la France reste dans la moyenne. Surtout, l'écart entre enfants favorisés et défavorisés est plus fort en France qu'ailleurs : c'est là qu'il faut agir.",
+    "detaille": "Les enquêtes internationales confirment un recul. Selon l'OCDE, les résultats PISA 2022 de la France sont parmi les plus bas jamais mesurés, avec une baisse « sans précédent » en mathématiques : -21 points, à 474, et -19 points en compréhension de l'écrit. La baisse n'est due qu'en partie à la pandémie. En 4e, l'enquête TIMSS 2023 place la France à 479 points, sous la moyenne des pays européens et de l'OCDE participants (507), avec 17 % d'élèves sous le niveau bas, contre 3 % en 1995.\n\nCette baisse n'est pas propre à la France : la moyenne de l'OCDE a perdu 15 points en mathématiques, et la France reste dans la moyenne de PISA. Ce qui distingue la France, c'est le poids de l'origine sociale : 113 points d'écart entre élèves favorisés et défavorisés en mathématiques, contre 93 en moyenne dans l'OCDE.\n\nLes causes font débat et ne sont pas établies par les sources lues, qui ne désignent pas l'immigration comme cause. La réponse passe par les moyens donnés aux écoles qui accueillent les élèves les plus défavorisés.",
+    "empathie": "Tu as raison de t'inquiéter, les chiffres montrent une vraie baisse, surtout en maths. Mais ce n'est pas une fatalité française : presque tous les pays baissent. Ce qui est propre à la France, c'est que l'école dépend beaucoup trop du milieu social des parents."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est à cause de l'immigration.",
+      "reponse": "Les sources lues désignent d'abord le poids de l'origine sociale ; aucune n'établit l'immigration comme cause de la baisse."
+    },
+    {
+      "objection": "C'est la faute des profs.",
+      "reponse": "La baisse touche presque toute l'OCDE ; les causes font débat et ne se résument pas à un groupe professionnel."
+    }
+  ],
+  "questions": [
+    "Savais-tu que presque tous les pays de l'OCDE ont reculé en mathématiques ?",
+    "Pourquoi, selon toi, le milieu social pèse-t-il plus en France qu'ailleurs ?"
+  ],
+  "limites": [
+    "Les enquêtes mesurent des compétences précises, pas l'ensemble des apprentissages.",
+    "Les causes de la baisse ne sont pas établies par les sources lues."
+  ],
+  "sources": [
+    {
+      "titre": "PISA 2022 Results — Factsheets: France",
+      "organisme": "OCDE",
+      "date_publication": "5 décembre 2023",
+      "url": "https://oecd.org/publication/pisa-2022-results/webbooks/dynamic/pisa-country-notes/8008535b/pdf/france.pdf",
+      "passage": "« Average 2022 results were down compared to 2018 in mathematics and reading » ; « 2022 results are among the lowest ever measured by PISA in all three subjects » ; en mathématiques, « the large decline observed over the most recent period is unprecedented » ; 71 % des élèves atteignent au moins le niveau 2 en mathématiques (moyenne OCDE : 69 %) ; écart de 113 points entre élèves favorisés et défavorisés, plus grand que la moyenne de l'OCDE (93 points).",
+      "pertinence": "Organisation internationale de référence (enquête PISA).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Classement Pisa : chute historique du score de la France en mathématiques",
+      "organisme": "Public Sénat (Henri Clavier)",
+      "date_publication": "5 décembre 2023",
+      "url": "https://publicsenat.fr/actualites/education/classement-pisa-chute-historique-du-score-de-la-france-en-mathematiques",
+      "passage": "En mathématiques, le score français chute de 21 points, à 474, alors que la moyenne de l'OCDE perd 15 points, à 472 ; le score chute de 19 points en compréhension de l'écrit, contre 10 points dans l'OCDE ; selon l'OCDE, la baisse « n'est attribuable qu'en partie à la pandémie de covid-19 ».",
+      "pertinence": "Média parlementaire, d'après l'OCDE.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "TIMSS 2023 en quatrième pour les mathématiques : des résultats stables en France et un accroissement des écarts de performance entre les élèves (Note d'information n° 24.48)",
+      "organisme": "DEPP, ministère de l'Éducation nationale (A. Lacroix, C. Philippe, F. Salles)",
+      "date_publication": "Décembre 2024",
+      "url": "https://cafepedagogique.net/wp-content/uploads/2024/12/depp-ni-2024-48.pdf",
+      "passage": "En 4e, la France obtient 479 points, inférieur à la moyenne des 22 pays de l'OCDE et de l'UE participants (507) ; pas de différence significative avec 2019 (483) ; « 17 % des élèves de France n'atteignent pas le niveau bas défini par Timss », contre 3 % en 1995 et 12 % en 2019 ; 3 % d'élèves au niveau avancé, contre 11 % en moyenne.",
+      "pertinence": "Service statistique du ministère de l'Éducation nationale (copie hébergée par le Café pédagogique).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "La baisse du niveau en mathématiques est réelle et sans précédent selon l'OCDE.",
+    "La part des élèves en grande difficulté augmente en 4e."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison, le niveau baisse, surtout en maths, et l'OCDE parle d'une chute sans précédent. Mais elle touche presque tous les pays riches, et ce qui distingue la France, c'est l'écart entre enfants riches et pauvres. Si tu veux remonter le niveau, il faut des moyens là où les élèves en ont le plus besoin, pas des boucs émissaires.",
+    "indecis": "L'inquiétude est fondée : les enquêtes PISA et TIMSS montrent une vraie baisse. Mais la France reste dans la moyenne de l'OCDE, où presque tous les pays reculent. Le point faible français, c'est le poids de l'origine sociale sur les résultats."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "emancipation"
+    ],
+    "mecanismes": "La baisse du niveau est réelle, mais elle est souvent attribuée à des boucs émissaires plutôt qu’aux inégalités sociales.",
+    "consequences": "Les enfants des milieux populaires sont les premiers perdants d’une école qui reproduit les inégalités.",
+    "democratie": "Une école qui émancipe est la condition d’une citoyenneté égale.",
+    "propositions": [
+      "Réduire la taille des classes là où les besoins sont les plus forts.",
+      "Mieux former et mieux payer les enseignants."
+    ],
+    "defavorables": [
+      {
+        "fait": "La baisse du niveau en mathématiques est réelle et sans précédent selon l’OCDE.",
+        "integration": "Le reconnaître clairement : défendre l’école publique, c’est aussi regarder ses échecs."
+      }
+    ]
+  },
+  "concepts": [
+    "services_publics"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "trop-de-fonctionnaires",
+  "type": "idee_recue",
+  "affirmation": "Il y a trop de fonctionnaires en France.",
+  "volet": "services",
+  "sous_theme": "Fonction publique",
+  "rubriques": [],
+  "mots_cles": [
+    "fonctionnaires",
+    "trop de fonctionnaires",
+    "fonction publique",
+    "agents publics",
+    "emploi public",
+    "supprimer des postes",
+    "administration"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "« Trop » est un jugement politique. Les faits : 5,9 millions d'agents publics fin 2024, dont 1,25 million dans les hôpitaux. L'emploi public pèse plus en France que dans la moyenne de l'OCDE, mais bien moins que dans les pays nordiques, et la France externalise moins ses services que l'Allemagne ou les Pays-Bas, ce qui gonfle la comparaison des seuls effectifs.",
+  "contexte": "La suppression de postes de fonctionnaires est une promesse récurrente pour réduire la dépense publique.",
+  "explication": "Compter les fonctionnaires ne dit pas tout : un pays peut employer directement ses infirmières et ses enseignants, ou payer des entreprises et des associations pour le faire. Le nombre d'agents dépend donc de l'organisation des services, pas seulement de leur taille.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, 5,9 millions d'agents travaillent dans la fonction publique fin 2024 : 2 587 400 dans la fonction publique de l'État, 2 039 400 dans la territoriale et 1 249 900 dans l'hospitalière.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Une grande partie des agents sont des soignants, des enseignants ou des agents des collectivités.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "5,9 millions"
+    },
+    {
+      "fait": "Selon l'OCDE, l'emploi public représentait en moyenne 18,4 % de l'emploi total en 2023, contre 30,1 % en Norvège, 28,2 % en Suède et 27,3 % au Danemark.",
+      "periode": "2023",
+      "perimetre": "OCDE",
+      "explication": "Des pays prospères ont beaucoup plus d'emplois publics que la France.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "18,4 %"
+    },
+    {
+      "fait": "Selon France Stratégie (2017), la France compte 89 emplois publics pour 1 000 habitants, un taux relativement élevé, mais l'écart se réduit si l'on compte les services achetés au privé : 6 % du PIB en France contre 8 % en Allemagne et 10 % aux Pays-Bas.",
+      "periode": "2017",
+      "perimetre": "Pays de l'OCDE",
+      "explication": "Ailleurs, une partie des services publics est assurée par des prestataires payés sur fonds publics.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "89"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est un choix politique, pas un fait : la France a plus d'emplois publics que la moyenne de l'OCDE, mais bien moins que les pays nordiques, et elle sous-traite moins ses services que l'Allemagne ou les Pays-Bas. Sur 5,9 millions d'agents, 1,25 million travaillent à l'hôpital.",
+    "moyen": "Il y a 5,9 millions d'agents publics en France. C'est au-dessus de la moyenne de l'OCDE, mais loin des pays nordiques, où l'emploi public dépasse 27 % de l'emploi total.\n\nEt la comparaison est trompeuse : la France emploie directement beaucoup de soignants et d'enseignants, quand d'autres pays paient des entreprises pour le faire. Selon France Stratégie, l'écart se réduit nettement quand on compte ces services achetés. La vraie question est : quels services veut-on, et qui les assure ?",
+    "detaille": "Selon l'Insee, 5,9 millions de personnes travaillaient dans la fonction publique fin 2024 : 2,6 millions pour l'État (dont l'Éducation nationale), 2 millions dans les collectivités et 1,25 million dans les hôpitaux publics.\n\nLes comparaisons internationales montrent un emploi public plus élevé en France que la moyenne de l'OCDE (18,4 % de l'emploi total en 2023), mais bien inférieur à la Norvège, la Suède ou le Danemark, autour de 27 à 30 %. France Stratégie notait en 2017 89 emplois publics pour 1 000 habitants en France, un taux relativement élevé, et soulignait que l'écart se réduit si l'on compte les dépenses de services achetés au privé, plus fortes en Allemagne ou aux Pays-Bas.\n\nDire qu'il y en a « trop » suppose de dire lesquels supprimer : infirmières, enseignants, policiers, agents d'accueil ?",
+    "empathie": "Je comprends l'agacement face à certaines lourdeurs administratives. Mais quand on parle de fonctionnaires, on parle aussi de l'infirmière de nuit, de la maîtresse de ton enfant ou du pompier : lesquels voudrais-tu supprimer ?"
+  },
+  "contre_arguments": [
+    {
+      "objection": "On pourrait supprimer des postes administratifs sans toucher aux services.",
+      "reponse": "Il faut alors les identifier précisément ; une grande partie des agents travaille à l'hôpital, à l'école ou dans les services des collectivités."
+    },
+    {
+      "objection": "Le privé ferait mieux et moins cher.",
+      "reponse": "Dans les pays qui externalisent davantage, la dépense ne disparaît pas : elle passe par des achats de services, comptés ailleurs."
+    }
+  ],
+  "questions": [
+    "Quels fonctionnaires supprimerais-tu en premier, concrètement ?",
+    "As-tu déjà attendu longtemps aux urgences ou pour un rendez-vous administratif ?"
+  ],
+  "limites": [
+    "La part française de l'emploi public la plus récente lue date de 2017 (France Stratégie) ; l'OCDE 2025 n'indique pour la France qu'une évolution.",
+    "« Trop » ou « pas assez » relève d'un jugement politique."
+  ],
+  "sources": [
+    {
+      "titre": "L'emploi dans la fonction publique en 2024 (Insee Première n° 2094)",
+      "organisme": "Insee (Léna Esbelin, Téo Moreau) et DGAFP (Sarah Touzé)",
+      "date_publication": "10 février 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8732435",
+      "passage": "« 5,9 millions d'agents travaillent dans la fonction publique » fin 2024, soit +0,6 % (+32 800) : 2 587 400 dans la fonction publique de l'État, 2 039 400 dans la territoriale et 1 249 900 dans l'hospitalière.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Panorama des administrations publiques 2025 — Emploi dans les administrations publiques",
+      "organisme": "OCDE",
+      "date_publication": "19 juin 2025",
+      "url": "https://www.oecd.org/fr/publications/panorama-des-administrations-publiques-2025_758a7905-fr/full-report/employment-in-general-government_dafcfac5",
+      "passage": "« En 2023, l'emploi public représentait en moyenne 18.4 % de l'emploi total dans les pays de l'OCDE » ; Norvège 30,1 %, Suède 28,2 %, Danemark 27,3 % ; pour la France, une baisse de 0,9 point entre 2019 et 2023.",
+      "pertinence": "Organisation internationale de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Comment la France se compare-t-elle en matière d'emploi public ? (communiqué)",
+      "organisme": "France Stratégie",
+      "date_publication": "19 décembre 2017",
+      "url": "https://www.strategie-plan.gouv.fr/files/files/Presse/CP%202017/2017-12-19_Comment%20la%20France%20se%20compare-t-elle%20en%20mati%C3%A8re%20d%E2%80%99emploi%20public.pdf",
+      "passage": "La France compte 89 emplois publics pour 1 000 habitants, « un taux relativement élevé » (Norvège 159, Japon 40) ; l'écart se réduit si l'on tient compte des services achetés au privé : les dépenses de fonctionnement « indirectes » valent 6 % du PIB en France, contre 8 % en Allemagne, 9 % au Japon et 10 % aux Pays-Bas.",
+      "pertinence": "Organisme public d'expertise (données anciennes).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-07",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles.",
+  "objections_legitimes": [
+    "L'emploi public est plus élevé en France que la moyenne de l'OCDE et que l'Allemagne.",
+    "Les effectifs continuent d'augmenter (+0,6 % en 2024)."
+  ],
+  "publics": {
+    "convaincus": "D'accord, parlons-en : sur 5,9 millions d'agents, 1,25 million sont à l'hôpital, et des centaines de milliers à l'école. Les pays nordiques, qu'on cite souvent en modèle, ont bien plus d'emplois publics que nous. Alors dis-moi lesquels tu supprimes : l'infirmière, le prof ou le gendarme ?",
+    "indecis": "La France a un peu plus de fonctionnaires que la moyenne de l'OCDE, mais beaucoup moins que les pays nordiques. Une partie de l'écart vient du fait que d'autres pays sous-traitent leurs services au privé. La vraie question, c'est quels services publics on veut garder."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite",
+      "travailleurs"
+    ],
+    "mecanismes": "Le mot « fonctionnaires » évoque des bureaux, alors qu’il désigne d’abord des soignants, des enseignants et des agents de terrain.",
+    "consequences": "Supprimer des postes dégrade l’accès aux services publics, d’abord pour ceux qui ne peuvent pas payer le privé.",
+    "democratie": "Le niveau des services publics est un choix collectif qui doit être débattu ouvertement, service par service.",
+    "propositions": [
+      "Recruter là où les besoins sont criants : hôpital, école, justice.",
+      "Réduire le recours coûteux aux prestataires privés quand le service public peut faire mieux."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’emploi public est plus élevé en France que la moyenne de l’OCDE.",
+        "integration": "Le reconnaître, et rappeler que la comparaison dépend de l’externalisation et du modèle social."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "services_publics",
+    "fonctionnaires"
+  ],
+  "repond_a": [
+    {
+      "id": "fonctionnaires",
+      "label": "Nombre de fonctionnaires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "urgences",
+    "fonction publique",
+    "agents publics",
+    "emploi public"
+  ]
+}
