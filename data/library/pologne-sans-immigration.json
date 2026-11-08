@@ -183,11 +183,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "histoire_migrations",
-    "europe"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -203,5 +198,10 @@
     "espagnols",
     "portugais",
     "il y a cent ans"
+  ],
+  "concepts": [
+    "immigration",
+    "histoire_migrations",
+    "europe"
   ]
 }

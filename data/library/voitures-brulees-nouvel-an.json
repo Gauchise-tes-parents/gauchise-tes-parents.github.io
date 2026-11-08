@@ -201,10 +201,6 @@
       }
     ]
   },
-  "concepts": [
-    "delinquance",
-    "banlieues"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -217,5 +213,9 @@
     "caillera",
     "ensauvagement",
     "qpv"
+  ],
+  "concepts": [
+    "delinquance",
+    "banlieues"
   ]
 }

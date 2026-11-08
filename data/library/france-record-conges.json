@@ -181,9 +181,6 @@
       }
     ]
   },
-  "concepts": [
-    "temps_travail"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -192,5 +189,8 @@
     "heures par semaine",
     "heures travaillees",
     "jours feries"
+  ],
+  "concepts": [
+    "temps_travail"
   ]
 }

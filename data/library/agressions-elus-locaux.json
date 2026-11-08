@@ -1,0 +1,197 @@
+{
+  "id": "agressions-elus-locaux",
+  "type": "idee_recue",
+  "affirmation": "Les agressions d'élus locaux explosent.",
+  "volet": "securite",
+  "sous_theme": "Violences",
+  "rubriques": [],
+  "mots_cles": [
+    "agressions d elus",
+    "elus agresses",
+    "maires agresses",
+    "violences contre les maires",
+    "atteintes aux elus",
+    "menaces contre les elus",
+    "securite des elus"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les atteintes aux élus ont fortement augmenté entre 2021 et 2023 (+32 % en 2022, 2 759 faits en 2023), puis ont reculé en 2024 (2 501) et se sont stabilisées en 2025 (2 478) à un niveau élevé. L'année 2026, marquée par les municipales, repart à la hausse (plus de 1 500 cas au 13 mai). Il s'agit surtout de menaces et d'outrages (68 %) ; les violences physiques sont minoritaires (250 en 2024). Les maires représentent près des deux tiers des victimes.",
+  "contexte": "Plusieurs agressions de maires très médiatisées ont conduit à une loi en 2024 et à un plan national de protection.",
+  "explication": "Il faut suivre l'évolution année par année et distinguer menaces, outrages et violences physiques.",
+  "faits": [
+    {
+      "fait": "Selon l'Assemblée nationale, 2 265 atteintes aux élus ont été recensées en 2022, en hausse de 32 % sur un an ; les violences physiques représentaient moins de 5 % des faits.",
+      "periode": "2021-2022",
+      "perimetre": "France",
+      "explication": "La hausse a été très forte au début des années 2020.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "+32 %"
+    },
+    {
+      "fait": "Le ministère de l'Intérieur a recensé 2 759 procédures en 2023 (+13,5 %), puis 2 501 en 2024 (-9,35 %), dont 250 atteintes physiques.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Après le pic de 2023, les faits ont reculé en 2024.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2 501"
+    },
+    {
+      "fait": "D'après Maire-info, 2 478 faits ont été recensés en 2025 (-0,9 %), dont 68 % de menaces ou d'outrages ; les maires représentent 65 % des victimes.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le niveau reste élevé mais stable.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2 478"
+    },
+    {
+      "fait": "Selon le ministre de l'Intérieur, plus de 1 500 cas étaient déjà recensés au 13 mai 2026, année des élections municipales.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La tendance repart à la hausse en 2026.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1 500"
+    },
+    {
+      "fait": "La loi du 21 mars 2024 a durci les peines et rendu automatique la protection fonctionnelle des maires et adjoints.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le législateur a réagi à la hausse des violences.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "En partie : les atteintes aux élus ont bondi de 2021 à 2023, puis reculé en 2024 et stagné en 2025, autour de 2 500 faits par an. 2026, année de municipales, repart à la hausse. Ce sont surtout des menaces et des outrages ; les violences physiques restent minoritaires mais réelles.",
+    "moyen": "La hausse a été réelle et forte : +32 % en 2022, puis 2 759 faits en 2023 selon le ministère de l'Intérieur. Elle a reculé en 2024 (2 501) et s'est stabilisée en 2025 (2 478). En 2026, année de municipales, plus de 1 500 cas étaient déjà recensés mi-mai.\n\nLa majorité des faits sont des menaces et des outrages, souvent en ligne ; on compte 250 atteintes physiques en 2024. Les maires représentent près des deux tiers des victimes. Une loi de 2024 a renforcé leur protection. « Explosent » est exagéré pour 2024-2025, mais le niveau reste inquiétant : quand on menace les élus de proximité, c'est la démocratie locale qu'on fragilise.",
+    "detaille": "Les chiffres viennent du ministère de l'Intérieur. En 2022, 2 265 atteintes aux élus ont été recensées, en hausse de 32 % sur un an ; en 2023, 2 759, encore +13,5 %. C'est la période de forte hausse, qui a conduit à un plan national en 2023 et à la loi du 21 mars 2024 : peines alourdies, harcèlement comme circonstance aggravante, protection fonctionnelle automatique pour les élus exécutifs.\n\nEnsuite, les faits ont reculé en 2024 (2 501, -9,35 %) puis se sont stabilisés en 2025 (2 478). Une partie de la hausse initiale peut aussi s'expliquer par un meilleur recensement, avec la création d'un centre d'analyse dédié en 2023. En 2026, année des municipales, le ministre recensait plus de 1 500 cas dès le 13 mai et jugeait que « la trajectoire est loin de s'améliorer ».\n\nLa nature des faits compte : les menaces et outrages représentent 68 % des atteintes en 2025, et 27 % passent par voie numérique. Les violences physiques sont minoritaires, 250 en 2024. Les maires sont les premières victimes, à 65 %. Selon une enquête du Cevipof pour l'AMF, 7 % des maires déclaraient des violences physiques. Les élus locaux, souvent bénévoles ou presque, tiennent la démocratie de proximité : les protéger est une exigence républicaine.",
+    "empathie": "Les agressions de maires choquent, parce que ce sont les élus les plus proches et souvent les plus dévoués. L'inquiétude est fondée ; les chiffres permettent de la mesurer."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les chiffres officiels sous-estiment la réalité.",
+      "reponse": "C'est possible, toutes les atteintes ne donnent pas lieu à une procédure ; mais la tendance mesurée est la même source d'une année sur l'autre."
+    },
+    {
+      "objection": "C'est la faute de l'immigration.",
+      "reponse": "Les sources lues ne donnent aucune information sur les auteurs ; les menaces passent souvent par les réseaux sociaux."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les atteintes aux élus ont reculé en 2024 avant de repartir en 2026 ?",
+    "Qu'est-ce qui pourrait mieux protéger les maires, selon toi ?"
+  ],
+  "limites": [
+    "Les chiffres 2026 sont partiels (au 13 mai).",
+    "Une partie de la hausse de 2022-2023 peut refléter un meilleur recensement.",
+    "Aucune source lue ne décrit le profil des auteurs."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport d'activité 2023-2025 du centre d'analyse et de lutte contre les atteintes aux élus (CALAE)",
+      "organisme": "Ministère de l'Intérieur (publié sur Vie publique)",
+      "date_publication": "31 mars 2025",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/298691.pdf",
+      "passage": "2 759 procédures en 2023 (+13,54 % par rapport à 2022), puis 2 501 en 2024 (-9,35 %). « La majorité des atteintes envers les élus concerne les menaces et outrages. » 250 atteintes physiques en 2024. « Les maires représentent 62 % des victimes en 2023 et 64 % des victimes en 2024. »",
+      "pertinence": "Rapport officiel du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les agressions d'élus en 2025, à un niveau équivalent à celui de l'année 2024",
+      "organisme": "Maire-info (Association des maires de France)",
+      "date_publication": "1er juillet 2026",
+      "url": "https://www.maire-info.com//les-agressions-d'elus-en-2025-à-un-niveau-equivalent-à-celui-de-l'annee-2024-article2-30946",
+      "passage": "2 478 faits en 2025, soit -0,9 % par rapport aux 2 501 de 2024. Les menaces ou outrages représentent 68 % des faits ; 27 % des atteintes passent par voie numérique ; les maires représentent 65 % des victimes. Le ministre de l'Intérieur évoque une violence « de plus en plus décomplexée ».",
+      "pertinence": "Média de l'association des maires.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Agressions d'élus : déjà plus de 1500 cas recensés cette année",
+      "organisme": "Public Sénat (Guillaume Jacquot)",
+      "date_publication": "13 mai 2026",
+      "url": "https://www.publicsenat.fr/actualites/territoires/agressions-delus-deja-plus-de-1500-cas-recenses-cette-annee-en-hausse-par-rapport-a-2024-et-2025",
+      "passage": "Le ministre recense plus de 1 500 cas au 13 mai 2026, contre environ 2 500 pour chacune des années 2024 et 2025 : « C'est presque la moitié par rapport à 2025 » ; « La trajectoire est loin de s'améliorer. »",
+      "pertinence": "Média parlementaire public.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi n° 1713 relative à la sécurité des élus locaux et à la protection des maires (document de la rapporteure)",
+      "organisme": "Assemblée nationale, commission des lois (rapporteure Violette Spillebout)",
+      "date_publication": "30 janvier 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/media/16/organes/commissions-permanentes-legislatives/lois/eat-2024/eat-ppl-n-1713-securite-des-elus-locaux-et-protection-des-maires",
+      "passage": "2 265 faits en 2022, « une augmentation de 32 % par rapport à l'année précédente ». Les menaces représentent 26 % et les outrages 41 % ; les violences physiques moins de 5 %. Enquête Cevipof pour l'AMF (novembre 2023) : 69 % des maires déclarent des incivilités et 7 % des violences physiques.",
+      "pertinence": "Document parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La loi renforçant la sécurité des élus locaux a été publiée",
+      "organisme": "Localtis / Banque des Territoires (Thomas Beurey)",
+      "date_publication": "22 mars 2024",
+      "url": "https://www.banquedesterritoires.fr/la-loi-renforcant-la-securite-des-elus-locaux-ete-publiee",
+      "passage": "La loi n° 2024-247 du 21 mars 2024 durcit les peines, fait du harcèlement une circonstance aggravante, rend la protection fonctionnelle automatique pour les élus exécutifs et l'étend aux candidats, et rend systématique l'information du maire sur les suites judiciaires.",
+      "pertinence": "Média spécialisé des collectivités.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Bilan 2026 des atteintes aux élus.",
+  "objections_legitimes": [
+    "Les atteintes ont fortement augmenté entre 2021 et 2023.",
+    "2026 repart à la hausse en période électorale."
+  ],
+  "publics": {
+    "convaincus": "Les agressions d'élus ont vraiment bondi entre 2021 et 2023, et 2026 repart à la hausse : c'est grave. Mais en 2024 et 2025, les faits ont baissé puis stagné autour de 2 500 par an, surtout des menaces et des outrages. Protéger les maires, c'est défendre la démocratie, pas désigner un bouc émissaire.",
+    "indecis": "Les violences et menaces contre les élus locaux sont une réalité préoccupante, surtout pour les maires. Après une forte hausse jusqu'en 2023, elles se sont stabilisées à un niveau élevé, et repartent en 2026. Une loi de 2024 a renforcé leur protection."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes"
+    ],
+    "mecanismes": "La défiance envers les institutions et la violence en ligne se reportent sur les élus les plus proches.",
+    "consequences": "Des maires, souvent presque bénévoles, renoncent à se représenter face aux menaces.",
+    "democratie": "Menacer un élu, c’est s’attaquer au choix des électeurs : la démocratie locale en dépend.",
+    "propositions": [
+      "Accompagner systématiquement les élus menacés.",
+      "Lutter contre le harcèlement en ligne des élus."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les atteintes ont reculé en 2024 avant de repartir en 2026.",
+        "integration": "Le dire avec précision plutôt que parler d’explosion continue."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "elus_agresses",
+      "label": "Agressions d’élus"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ],
+  "concepts": [
+    "delinquance",
+    "elus_agresses"
+  ]
+}

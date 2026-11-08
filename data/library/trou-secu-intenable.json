@@ -1,0 +1,222 @@
+{
+  "id": "trou-secu-intenable",
+  "type": "idee_recue",
+  "affirmation": "Le trou de la Sécu prouve que notre modèle social est intenable.",
+  "volet": "economie",
+  "sous_theme": "Déficit public",
+  "rubriques": [],
+  "mots_cles": [
+    "trou de la secu",
+    "trou de la securite sociale",
+    "deficit de la secu",
+    "deficit de la securite sociale",
+    "secu en faillite",
+    "modele social intenable",
+    "securite sociale intenable"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le déficit de la Sécurité sociale est réel et s'aggrave : 21,6 Md€ en 2025, 21,8 Md€ attendus en 2026, et la Cour des comptes juge la situation « hautement périlleuse ». Mais il représente environ 3 % de dépenses proches de 700 Md€, la branche famille est excédentaire, et le déficit dépend autant des recettes (désinflation, ralentissement, allègements de cotisations) que des dépenses. Un déficit appelle des choix de financement ; il ne prouve pas que le modèle est condamné.",
+  "contexte": "Le « trou de la Sécu » sert souvent d'argument pour réduire la protection sociale ou en privatiser une partie.",
+  "explication": "Pour juger, il faut rapporter le déficit aux dépenses totales, regarder quelles branches sont en déficit et pourquoi, et distinguer un problème de financement d'une faillite du système.",
+  "faits": [
+    {
+      "fait": "Selon la Cour des comptes, le déficit de la Sécurité sociale a doublé en deux ans pour atteindre 21,6 Md€ en 2025 ; les recettes ont progressé de 2,6 % et les dépenses de 3,6 %.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le déficit est réel et se dégrade : c'est un fait défavorable.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "21,6 Md€"
+    },
+    {
+      "fait": "D'après la Direction de la Sécurité sociale, le déficit 2025 vient de la maladie (15,9 Md€) et de la vieillesse (7,2 Md€), tandis que la branche famille est excédentaire (+1,2 Md€).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le déficit n'est pas uniforme : certaines branches sont à l'équilibre.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Sénat, le projet de budget 2027 prévoit 696,4 Md€ de dépenses pour 683,7 Md€ de recettes, soit un déficit de 12,7 Md€.",
+      "periode": "2027",
+      "perimetre": "France",
+      "explication": "Le déficit représente une petite part des dépenses totales.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "696,4 Md€"
+    },
+    {
+      "fait": "La Cour des comptes juge la situation « hautement périlleuse » et estime que la dette de l'Acoss pourrait atteindre 130 Md€ en 2030.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La trajectoire n'est pas tenable sans mesures de redressement.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Insee, la dette des administrations de sécurité sociale atteint 293,1 Md€ fin 2025, sur une dette publique totale de 3 460,5 Md€.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La dette sociale est une fraction minoritaire de la dette publique.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "293,1 Md€"
+    },
+    {
+      "fait": "Selon un rapport parlementaire transpartisan, les allègements de cotisations patronales sont passés de 1,1 point de PIB en 2004 à 2,8 points en 2022, près de 80 milliards d'euros.",
+      "periode": "2004-2022",
+      "perimetre": "France",
+      "explication": "Le financement de la Sécu dépend de choix sur les recettes ; ces allègements sont en grande partie compensés par l'État.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "80 milliards"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le déficit est réel : 21,6 Md€ en 2025, et la Cour des comptes s'inquiète. Mais c'est environ 3 % d'un budget de près de 700 Md€, la branche famille est excédentaire, et les recettes comptent autant que les dépenses. C'est un problème de financement, pas la preuve d'une faillite.",
+    "moyen": "Il ne faut pas minimiser : selon la Cour des comptes, le déficit de la Sécurité sociale a doublé en deux ans et atteint 21,6 Md€ en 2025, et la trajectoire de la dette sociale est jugée « hautement périlleuse ».\n\nMais rapporté au total, le déficit attendu en 2027 est de 12,7 Md€ pour près de 700 Md€ de dépenses. La branche famille est excédentaire ; la maladie et la vieillesse sont en déficit, notamment parce que l'inflation a ralenti et que les recettes progressent moins vite. Pendant ce temps, les allègements de cotisations ont atteint près de 80 milliards par an. La question est donc : qui finance et comment, pas : faut-il abandonner la Sécu.",
+    "detaille": "Les chiffres sont sérieux. Selon la Cour des comptes, le déficit des régimes de base a doublé en deux ans et atteint 21,6 Md€ en 2025 : les recettes ont progressé de 2,6 % et les dépenses de 3,6 %. Le Sénat attend 21,8 Md€ en 2026. La Cour estime que la dette de l'Acoss pourrait atteindre 130 Md€ en 2030 et parle d'une situation « hautement périlleuse ».\n\nMais un déficit se lit en proportion. Le projet de budget 2027 prévoit 696,4 Md€ de dépenses pour 683,7 Md€ de recettes. Selon la Direction de la Sécurité sociale, la branche famille est excédentaire ; la maladie (15,9 Md€) et la vieillesse (7,2 Md€) concentrent le déficit, en partie à cause de la désinflation qui freine les recettes avant les pensions. Selon l'Insee, la dette des administrations de sécurité sociale représente 293 Md€ sur 3 460 Md€ de dette publique.\n\nEnfin, les recettes sont un choix politique. Un rapport transpartisan a relevé que les allègements de cotisations patronales atteignent près de 80 milliards par an, avec une efficacité discutée sur les hauts salaires ; ils sont toutefois en grande partie compensés par l'État. Redresser les comptes peut passer par des économies, mais aussi par des recettes. Le modèle de 1945 a traversé bien d'autres crises.",
+    "empathie": "On a raison de s'inquiéter d'un déficit qui dure : c'est notre santé et nos retraites qui sont en jeu. C'est justement pour cela qu'il faut regarder les causes avant de conclure."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On ne peut plus payer, il faut privatiser.",
+      "reponse": "Le déficit représente quelques pourcents des dépenses ; il se comble par des économies ciblées ou des recettes, pas forcément en démantelant."
+    },
+    {
+      "objection": "Les exonérations, c'est compensé par l'État, donc ça ne compte pas.",
+      "reponse": "C'est en grande partie vrai pour la Sécu ; mais cela pèse alors sur le budget de l'État, et leur efficacité sur l'emploi est discutée."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la branche famille de la Sécu est excédentaire ?",
+    "Pour combler le déficit, préfères-tu réduire les remboursements ou revoir certaines exonérations ?"
+  ],
+  "limites": [
+    "Le rapport de la Cour des comptes a été lu à travers des comptes rendus de presse (Santé Mentale, Public Sénat).",
+    "La part des allègements non compensés par l'État n'a pas été trouvée dans une source lue.",
+    "Aucune source lue ne chiffre l'effet du vieillissement sur le déficit."
+  ],
+  "sources": [
+    {
+      "titre": "Le déficit de la Sécurité sociale se creuse encore en 2025",
+      "organisme": "Santé Mentale (presse spécialisée), sur le rapport de la Cour des comptes",
+      "date_publication": "29 mai 2026",
+      "url": "https://www.santementale.fr/2026/05/le-deficit-de-la-securite-sociale-se-creuse-encore-en-2025/",
+      "passage": "Selon la Cour des comptes, le déficit « a doublé en deux ans pour atteindre 21,6 Md€ en 2025 », le plus haut depuis 2012 hors années Covid. « La progression des recettes (2,6 %) a été plus faible que celle des dépenses (3,6 %) ». La Cour prévoit 19,4 Md€ en 2026 et demande un retour à l'équilibre en 2030, soit environ 10 Md€ d'économies ou de recettes chaque année.",
+      "pertinence": "Presse professionnelle qui rend compte d'un rapport de la Cour des comptes.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Déficit de la Sécurité sociale : la quasi-totalité des branches dans le rouge en 2025",
+      "organisme": "Acteurs publics (Philippine Ramognino), d’après la Direction de la Sécurité sociale",
+      "date_publication": "20 mars 2026",
+      "url": "https://acteurspublics.fr/articles/deficit-de-la-securite-sociale-la-quasi-totalite-des-branches-dans-le-rouge-en-2025/",
+      "passage": "Le déficit des régimes de base et du FSV est de 21,6 Md€ en 2025, contre 23 Md€ prévus. Branche maladie : 15,9 Md€ ; vieillesse : 7,2 Md€ ; la branche famille est en excédent de 1,2 Md€. Le déficit vieillesse s'explique « en raison du mécanisme différé de revalorisation des pensions dans un contexte de désinflation ». Le ralentissement de l'inflation a aussi réduit les recettes.",
+      "pertinence": "Presse spécialisée de l'action publique, qui reprend des données administratives.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2027 : présentation du rapporteur général",
+      "organisme": "Sénat (rapporteur général Olivier Henno)",
+      "date_publication": "4 novembre 2026",
+      "url": "https://www.banquedesterritoires.fr/sites/default/files/2026-11/Se%CC%81nat_pre%CC%81sentation_PLFSS%202027_RG.pdf",
+      "passage": "« Déficit 2026 de la sécurité sociale : 21,8 Md€ ». Pour 2027, le texte initial prévoit 696,4 Md€ de dépenses pour 683,7 Md€ de recettes, soit un solde de -12,7 Md€. Les projections donnent environ 17 Md€ de déficit en 2029, et près de 30 Md€ avec des hypothèses moins favorables.",
+      "pertinence": "Document officiel du Sénat (copie hébergée par Localtis).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Une situation hautement périlleuse » : pour la Cour des comptes, la France ne peut plus différer les efforts pour résorber le trou de la Sécu",
+      "organisme": "Public Sénat (Guillaume Jacquot)",
+      "date_publication": "20 octobre 2026",
+      "url": "https://www.publicsenat.fr/actualites/sante/une-situation-hautement-perilleuse-pour-la-cour-des-comptes-la-france-ne-peut-plus-differer-les-efforts-pour-resorber-le-trou-de-la-secu",
+      "passage": "La Cour des comptes qualifie la situation de « hautement périlleuse ». La dette de l'Acoss pourrait atteindre 130 Md€ en 2030, ce que la Cour juge insoutenable ; la Cades doit encore rembourser 104,2 Md€ d'ici 2033. Le ralentissement économique a réduit les recettes de cotisations.",
+      "pertinence": "Média parlementaire public.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Le compte des administrations publiques en 2025 (Insee Première n° 2106)",
+      "organisme": "Insee",
+      "date_publication": "29 mai 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8997691",
+      "passage": "Le déficit public est de 152,5 Md€ (5,1 % du PIB) en 2025 et la dette publique de 3 460,5 Md€ (115,7 % du PIB). Les administrations de sécurité sociale sont en déficit de 6,7 Md€ en comptabilité nationale (contre +1,1 Md€ en 2024) et leur dette atteint 293,1 Md€. Les prélèvements obligatoires représentent 43,6 % du PIB, les dépenses publiques 57,3 %. Les charges d'intérêts atteignent 64,7 Md€ (+11,2 %).",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Exonérations de cotisations sociales patronales : un rapport parlementaire préconise de resserrer le dispositif",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "19 septembre 2023",
+      "url": "https://lcp.fr/actualites/exonerations-de-cotisations-sociales-patronales-un-rapport-parlementaire-preconise-de",
+      "passage": "Selon le rapport de Marc Ferracci (Renaissance) et Jérôme Guedj (PS), les allègements de cotisations sous 3,5 SMIC sont passés de 1,1 point de PIB en 2004 à 2,8 points en 2022, soit « près de 80 milliards d'euros ». Marc Ferracci écrit : « Alléger le coût du travail sur les plus hauts salaires ne permet pas de soutenir efficacement l'emploi ».",
+      "pertinence": "Chaîne parlementaire ; rapport transpartisan.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveau rapport de la Cour des comptes sur la Sécurité sociale.",
+  "objections_legitimes": [
+    "Le déficit se creuse et la dette sociale augmente.",
+    "La Cour des comptes demande des mesures de redressement rapides."
+  ],
+  "publics": {
+    "convaincus": "Le déficit est réel, je ne le nie pas : 21,6 milliards en 2025. Mais sur près de 700 milliards de dépenses, c'est environ 3 %, et la branche famille est même excédentaire. Un ménage qui a un découvert ne vend pas sa maison : il regarde ses recettes et ses dépenses.",
+    "indecis": "Il est normal de s'inquiéter : la Cour des comptes elle-même juge la situation périlleuse. Mais le déficit dépend aussi des recettes, freinées par le ralentissement et par les allègements de cotisations. Il y a plusieurs façons de le réduire sans renoncer à la protection de tous."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "services_publics",
+      "repartition"
+    ],
+    "mecanismes": "Le déficit dépend autant des recettes que des dépenses : allègements de cotisations, ralentissement économique et désinflation pèsent sur les comptes.",
+    "consequences": "Présenter la Sécu comme intenable prépare des déremboursements qui pèsent d’abord sur les malades et les retraités modestes.",
+    "democratie": "Le financement de la protection sociale est voté chaque année par le Parlement : c’est un choix collectif, pas une fatalité comptable.",
+    "propositions": [
+      "Revoir les allègements de cotisations dont l’efficacité sur l’emploi est faible.",
+      "Rechercher des économies sur les rentes et la prévention plutôt que sur les remboursements."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le déficit se creuse et la Cour des comptes juge la trajectoire périlleuse.",
+        "integration": "Le dire franchement et proposer des recettes et des économies précises."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "trou_secu",
+      "label": "Déficit de la Sécurité sociale"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "secu_sociale",
+    "dette",
+    "trou_secu"
+  ]
+}

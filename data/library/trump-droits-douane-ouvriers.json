@@ -1,0 +1,197 @@
+{
+  "id": "trump-droits-douane-ouvriers",
+  "type": "idee_recue",
+  "affirmation": "Les droits de douane de Trump protègent les ouvriers américains.",
+  "volet": "international",
+  "sous_theme": "États-Unis",
+  "rubriques": [],
+  "mots_cles": [
+    "droits de douane trump",
+    "tarifs douaniers trump",
+    "trump droits de douane",
+    "protectionnisme trump",
+    "trump protege les ouvriers",
+    "guerre commerciale trump"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Les droits de douane ont protégé quelques secteurs : environ 8 700 emplois dans la sidérurgie en 2018, de nouvelles usines de lave-linge. Mais chaque emploi a coûté 650 000 à 820 000 dollars aux consommateurs et aux entreprises, et des économistes de la Réserve fédérale trouvent un effet net négatif sur l'emploi manufacturier, à cause du coût des intrants et des représailles. En 2025, les importateurs et consommateurs américains ont supporté 96 % du coût des tarifs selon l'Institut de Kiel.",
+  "contexte": "Les droits de douane de Donald Trump (2018-2019, puis 2025) sont présentés par une partie de l'extrême droite européenne comme un modèle de protection des travailleurs.",
+  "explication": "Il faut distinguer l'effet sur les secteurs protégés et l'effet sur l'ensemble de l'industrie et des ménages.",
+  "faits": [
+    {
+      "fait": "Selon des économistes de la Réserve fédérale, les tarifs de 2018-2019 ont réduit relativement l'emploi manufacturier dans les industries les plus exposées : la protection a été plus que compensée par le coût des intrants et les représailles.",
+      "periode": "2018-2019",
+      "perimetre": "États-Unis",
+      "explication": "L'effet net sur l'emploi industriel a été négatif.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon le Peterson Institute, les tarifs sur l'acier ont créé environ 8 700 emplois dans la sidérurgie, pour un surcoût de 5,6 Md$ pour les industries utilisatrices, soit 650 000 $ par emploi.",
+      "periode": "2018",
+      "perimetre": "États-Unis",
+      "explication": "Quelques emplois protégés, à un coût très élevé.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "650 000 $"
+    },
+    {
+      "fait": "Selon une étude présentée par l'université de Chicago, les tarifs sur les lave-linge ont créé des emplois mais fait monter leur prix d'environ 12 %, pour un coût d'environ 820 000 $ par emploi créé.",
+      "periode": "2018",
+      "perimetre": "États-Unis",
+      "explication": "Les consommateurs ont payé la protection.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "12 %"
+    },
+    {
+      "fait": "Selon l'Institut de Kiel, les importateurs et consommateurs américains ont supporté 96 % du coût des droits de douane en 2025, les exportateurs étrangers environ 4 %.",
+      "periode": "2025",
+      "perimetre": "États-Unis",
+      "explication": "Ce sont les Américains qui paient les tarifs.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "96 %"
+    },
+    {
+      "fait": "Selon le Congressional Budget Office, les tarifs de 2025 réduiraient le déficit de 2 800 Md$ sur dix ans, mais augmenteraient l'inflation de 0,4 point par an en 2025 et 2026 et réduiraient la production.",
+      "periode": "2025-2035",
+      "perimetre": "États-Unis",
+      "explication": "Les tarifs rapportent des recettes, mais pèsent sur le pouvoir d'achat : un fait à présenter en entier.",
+      "source": 4,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "D'après les données du Bureau of Labor Statistics mises en forme par l'Economic Policy Institute, l'emploi manufacturier américain a baissé depuis janvier 2025 (environ -75 000 en juin 2026).",
+      "periode": "2025-2026",
+      "perimetre": "États-Unis",
+      "explication": "L'emploi industriel n'a pas progressé depuis les nouveaux tarifs ; c'est une corrélation, pas une preuve causale.",
+      "source": 5,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Quelques secteurs ont gagné des emplois, comme l'acier, mais à 650 000 dollars l'emploi payés par les autres. Selon la Réserve fédérale, l'emploi industriel a globalement baissé dans les secteurs exposés. Et en 2025, ce sont les Américains qui ont payé 96 % des tarifs.",
+    "moyen": "Les droits de douane protègent bien certains secteurs. En 2018, ceux sur l'acier ont créé environ 8 700 emplois, ceux sur les lave-linge de nouvelles usines. Mais chaque emploi a coûté entre 650 000 et 820 000 dollars aux entreprises et aux consommateurs, avec des lave-linge 12 % plus chers.\n\nSurtout, des économistes de la Réserve fédérale ont montré que l'industrie dans son ensemble y a perdu : les entreprises qui achètent de l'acier payent plus cher et subissent les représailles des autres pays. En 2025, selon l'Institut de Kiel, 96 % du coût des nouveaux tarifs a été payé par les Américains eux-mêmes, et l'emploi manufacturier a baissé. Protéger les ouvriers, c'est possible, mais par des politiques industrielles et sociales, pas par une taxe qui retombe sur eux.",
+    "detaille": "Les droits de douane ont des gagnants visibles. Selon le Peterson Institute, les tarifs de 2018 sur l'acier ont créé environ 8 700 emplois dans la sidérurgie et augmenté les bénéfices des sidérurgistes de 2,4 Md$. Selon une étude présentée par l'université de Chicago, les tarifs sur les lave-linge ont relocalisé de la production. Mais le coût est énorme : environ 650 000 $ par emploi dans l'acier, 820 000 $ dans les lave-linge, dont le prix a augmenté d'environ 12 %.\n\nLes perdants sont moins visibles mais plus nombreux. Des économistes de la Réserve fédérale ont séparé trois effets : la protection, le coût plus élevé des pièces importées et les représailles des partenaires. Résultat : dans les industries les plus exposées, l'emploi manufacturier a baissé relativement. En 2025, l'Institut de Kiel estime que les importateurs et consommateurs américains ont payé 96 % du coût des nouveaux tarifs. Le Congressional Budget Office prévoit 0,4 point d'inflation en plus par an en 2025 et 2026 et une production en baisse, même si les tarifs réduiraient le déficit de 2 800 Md$ sur dix ans.\n\nSelon les données du Bureau of Labor Statistics, l'emploi manufacturier a reculé d'environ 75 000 postes entre janvier 2025 et juin 2026, sans qu'on puisse attribuer toute cette baisse aux tarifs. Défendre l'industrie et les ouvriers est légitime ; la gauche le propose par la planification, l'investissement public et des normes sociales et écologiques aux frontières, pas par une taxe payée surtout par les classes populaires.",
+    "empathie": "Les ouvriers qui ont vu leur usine délocalisée ont raison d'en vouloir au libre-échange sans règles. La question est de savoir si les tarifs de Trump les ont réellement protégés."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le libre-échange a détruit l'industrie, il faut se protéger.",
+      "reponse": "Le libre-échange sans règles a fait des dégâts ; mais des tarifs généralisés renchérissent les pièces et provoquent des représailles qui coûtent d'autres emplois."
+    },
+    {
+      "objection": "Ce sont les Chinois qui paient.",
+      "reponse": "Selon l'Institut de Kiel, les importateurs et consommateurs américains ont payé 96 % du coût en 2025."
+    }
+  ],
+  "questions": [
+    "Savais-tu que chaque emploi sauvé dans l'acier a coûté environ 650 000 dollars aux autres entreprises ?",
+    "Qui paie un droit de douane, selon toi : l'exportateur étranger ou l'acheteur ?"
+  ],
+  "limites": [
+    "L'étude de la Réserve fédérale a été lue à travers un résumé paraphrasé.",
+    "La baisse de l'emploi manufacturier depuis 2025 est une corrélation ; plusieurs causes jouent.",
+    "Le Peterson Institute est favorable au libre-échange et l'Economic Policy Institute proche des syndicats."
+  ],
+  "sources": [
+    {
+      "titre": "Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector",
+      "organisme": "Federal Reserve Board, série FEDS (Aaron Flaaen, Justin Pierce)",
+      "date_publication": "décembre 2019",
+      "url": "https://federalreserve.gov/econres/feds/disentangling-the-effects-of-the-2018-2019-tariffs-on-a-globally-connected-us-manufacturing-sector.htm",
+      "passage": "Les auteurs séparent trois canaux : la protection des industries nationales, la hausse du coût des intrants importés et les représailles des partenaires commerciaux. Les industries les plus exposées aux tarifs connaissent une baisse relative de l'emploi manufacturier : l'effet positif de la protection est plus que compensé par le coût des intrants et les représailles. Les tarifs sont aussi associés à une hausse relative des prix à la production. (Résumé paraphrasé.)",
+      "pertinence": "Étude d’économistes de la Réserve fédérale.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Steel Profits Gain, but Steel Users Pay, under Trump's Protectionism",
+      "organisme": "Peterson Institute for International Economics (Gary Clyde Hufbauer, Euijin Jung)",
+      "date_publication": "20 décembre 2018",
+      "url": "https://piie.com/blogs/trade-investment-policy-watch/steel-profits-gain-steel-users-pay-under-trumps-protectionism",
+      "passage": "« Yes, these actions create 8,700 jobs in the US steel industry. » Les utilisateurs d'acier paient un surcoût de 5,6 Md$ ; les bénéfices des sidérurgistes augmentent de 2,4 Md$ en 2018. Cela représente 650 000 $ payés par les utilisateurs pour chaque emploi créé.",
+      "pertinence": "Think tank favorable au libre-échange (orientation à signaler).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "What washing machines can teach us about the cost of tariffs",
+      "organisme": "University of Chicago News (David Fettig), sur l’étude de Flaaen, Hortaçsu et Tintelnot",
+      "date_publication": "22 avril 2019",
+      "url": "https://news.uchicago.edu/story/what-washing-machines-can-teach-us-about-cost-tariffs",
+      "passage": "Les tarifs de 2018 sur les lave-linge ont relocalisé de la production et créé de « new jobs » aux États-Unis. Le prix des lave-linge a augmenté d'« about 12 percent », et les sèche-linge, non taxés, ont augmenté d'autant. Coût estimé : « $820,000 per new job ».",
+      "pertinence": "Présentation universitaire d’une étude.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "America's own goal: Americans pay almost entirely for Trump's tariffs",
+      "organisme": "Institut de Kiel pour l’économie mondiale (Hinz, Lohmann, Mahlkow, Vorwig), communiqué publié sur idw",
+      "date_publication": "19 janvier 2026",
+      "url": "https://nachrichten.idw-online.de/2026/01/19/america-s-own-goal-americans-pay-almost-entirely-for-trumps-tariffs",
+      "passage": "« Importers and consumers in the US bear 96 percent of the tariff burden. » « Foreign exporters absorbed only about four percent. » « US customs revenue increased by approximately 200 billion US dollars in 2025. » Méthode : plus de 25 millions d'expéditions analysées.",
+      "pertinence": "Institut de recherche économique allemand reconnu.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Budgetary and Economic Effects of Increases in Tariffs Implemented Between January 6 and May 13, 2025",
+      "organisme": "Congressional Budget Office (organe budgétaire non partisan du Congrès américain)",
+      "date_publication": "4 juin 2025",
+      "url": "https://www.cbo.gov/publication/61389",
+      "passage": "Sur 2025-2035, les tarifs réduiraient le déficit de 2 800 Md$ après effets économiques. La production réelle baisserait en net. L'inflation augmenterait de 0,4 point par an en moyenne en 2025 et 2026, ce qui réduit « the purchasing power of households and businesses ».",
+      "pertinence": "Organe budgétaire officiel et non partisan.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Cumulative change in manufacturing employment since January 2025",
+      "organisme": "Economic Policy Institute, d’après les données du Bureau of Labor Statistics",
+      "date_publication": "données jusqu’en juin 2026",
+      "url": "https://www.epi.org/chart/jobs-day-figure-cumulative-change-in-manufacturing-employment-since-january-2025/",
+      "passage": "Variation cumulée de l'emploi manufacturier depuis janvier 2025 : -11 en avril 2025, -93 en décembre 2025, -75 en juin 2026 (unité non précisée sur la page, vraisemblablement en milliers).",
+      "pertinence": "Think tank proche des syndicats (orientation à signaler) ; données du BLS.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles évaluations des tarifs de 2025.",
+  "objections_legitimes": [
+    "Certains secteurs, comme l'acier, ont gagné des emplois.",
+    "Les tarifs rapportent d'importantes recettes publiques."
+  ],
+  "publics": {
+    "convaincus": "Dans l'acier, les tarifs ont créé 8 700 emplois, d'accord, mais chacun a coûté 650 000 dollars aux autres entreprises. La Réserve fédérale a calculé que l'emploi industriel a baissé dans les secteurs exposés. Et en 2025, ce sont les Américains qui ont payé 96 % des tarifs, pas les Chinois.",
+    "indecis": "Vouloir protéger l'industrie est légitime après des décennies de délocalisations. Mais les études montrent que les tarifs de Trump ont sauvé quelques emplois à un coût énorme, en renchérissant les produits et en provoquant des représailles. D'autres outils existent, comme l'investissement industriel."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "internationalisme",
+      "repartition"
+    ],
+    "mecanismes": "Les droits de douane sont une taxe sur la consommation qui pèse surtout sur les ménages modestes.",
+    "consequences": "Quelques emplois protégés coûtent cher à d’autres industries et aux consommateurs.",
+    "democratie": "La politique commerciale engage les travailleurs ; elle devrait être débattue avec eux plutôt que décidée par décret.",
+    "propositions": [
+      "Protéger l’industrie par l’investissement public et la planification.",
+      "Conditionner les échanges à des normes sociales et écologiques."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certains secteurs ont réellement gagné des emplois.",
+        "integration": "Le reconnaître et en montrer le coût."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [],
+  "concepts": []
+}

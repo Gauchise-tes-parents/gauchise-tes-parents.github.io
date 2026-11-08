@@ -198,12 +198,6 @@
       }
     ]
   },
-  "concepts": [
-    "origine",
-    "delinquance",
-    "gauche",
-    "dangerosite"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -219,5 +213,11 @@
     "gauchos",
     "melenchon",
     "lfi"
+  ],
+  "concepts": [
+    "origine",
+    "delinquance",
+    "gauche",
+    "dangerosite"
   ]
 }

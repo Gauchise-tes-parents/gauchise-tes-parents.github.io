@@ -192,10 +192,6 @@
       }
     ]
   },
-  "concepts": [
-    "gauche",
-    "loi_constitution"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -210,5 +206,9 @@
     "par la loi",
     "referendum",
     "conseil constitutionnel"
+  ],
+  "concepts": [
+    "gauche",
+    "loi_constitution"
   ]
 }

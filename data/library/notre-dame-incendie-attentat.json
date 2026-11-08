@@ -1,0 +1,207 @@
+{
+  "id": "notre-dame-incendie-attentat",
+  "type": "idee_recue",
+  "affirmation": "L'incendie de Notre-Dame était un attentat qu'on nous cache.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "notre dame",
+    "notre-dame",
+    "incendie de notre dame",
+    "incendie notre dame attentat",
+    "notre dame criminel",
+    "cathedrale incendie"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Aucun élément ne soutient la thèse d'un attentat. Dès 2019, le parquet de Paris a écarté la piste criminelle au profit d'un accident (défaillance électrique ou cigarette mal éteinte) ; en 2024, la procureure indiquait que toutes les pistes, y compris une intervention humaine, avaient été explorées et que la piste accidentelle était de plus en plus privilégiée. Ce qui est vrai : la cause exacte n'est pas encore tranchée, et des défaillances de sécurité ont été relevées.",
+  "contexte": "Dès le soir du 15 avril 2019, des rumeurs d'attentat ont circulé, souvent accompagnées d'accusations contre les musulmans.",
+  "explication": "Il faut distinguer ce que l'enquête a établi, ce qu'elle n'a pas encore tranché, et les « preuves » virales démenties.",
+  "faits": [
+    {
+      "fait": "Le 16 avril 2019, le procureur de Paris a déclaré : « Rien ne va dans le sens d'un acte volontaire », près de 50 enquêteurs étant mobilisés.",
+      "periode": "2019",
+      "perimetre": "Paris",
+      "explication": "L'enquête a été ouverte immédiatement et à grande échelle.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le parquet de Paris, en juin 2019, aucun élément n'accréditait une origine criminelle ; il évoquait une défaillance électrique ou une cigarette mal éteinte.",
+      "periode": "2019",
+      "perimetre": "Paris",
+      "explication": "La piste criminelle a été examinée et écartée.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Une information judiciaire contre X a été ouverte pour dégradations involontaires par incendie par violation d'une obligation de prudence ou de sécurité.",
+      "periode": "2019-2022",
+      "perimetre": "Paris",
+      "explication": "La justice cherche d'éventuelles négligences.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Blick, en novembre 2024, la procureure de Paris indiquait que l'hypothèse d'une intervention humaine avait été explorée et que la piste accidentelle était de plus en plus privilégiée ; aucune mise en examen n'avait été prononcée.",
+      "periode": "2024",
+      "perimetre": "Paris",
+      "explication": "La cause exacte reste à déterminer, sans élément d'attentat.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon FactCheck.org, aucune source crédible ne soutenait l'idée que des musulmans étaient responsables ; le prétendu « musulman sur le toit » était un pompier.",
+      "periode": "2019",
+      "perimetre": "Paris",
+      "explication": "Les « preuves » virales ont été démenties.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Rien ne l'indique : le parquet a écarté la piste criminelle dès 2019, et en 2024 il jugeait l'accident de plus en plus probable après avoir exploré toutes les pistes. La cause exacte n'est pas encore tranchée, c'est vrai. Mais les « preuves » d'attentat qui ont circulé ont toutes été démenties.",
+    "moyen": "Le soir même, une enquête a été ouverte et près de 50 enquêteurs mobilisés. En juin 2019, le parquet de Paris a conclu qu'aucun élément n'accréditait une origine criminelle et a évoqué deux pistes : une défaillance électrique ou une cigarette mal éteinte. Trois juges d'instruction cherchent depuis d'éventuelles négligences.\n\nEn 2024, la procureure expliquait que l'hypothèse d'une intervention humaine avait été examinée et que la piste accidentelle était de plus en plus privilégiée. Les images qui circulaient, une silhouette sur le toit, une voiture de bonbonnes de gaz, ont été démenties : c'était un pompier et une affaire de 2016. Dire « on nous cache un attentat » sans le moindre élément, c'est souvent une manière d'accuser une communauté.",
+    "detaille": "L'enquête a commencé le soir même. Le 16 avril 2019, le procureur de Paris déclarait : « Rien ne va dans le sens d'un acte volontaire ». Près de 50 enquêteurs ont entendu les ouvriers des cinq entreprises présentes sur le chantier. Une première alarme avait sonné à 18 h 20 sans que le feu soit trouvé, avant une seconde à 18 h 43.\n\nEn juin 2019, au terme de l'enquête préliminaire, le parquet a indiqué qu'aucun élément n'accréditait une origine criminelle, et retenu deux hypothèses : un dysfonctionnement du système électrique ou une cigarette mal éteinte. Une information judiciaire a été ouverte pour dégradations involontaires par violation d'une obligation de prudence ou de sécurité. En novembre 2024, la procureure Laure Beccuau précisait que toutes les pistes avaient été explorées, y compris une intervention humaine, et que plus l'analyse avançait, plus l'accident était privilégié ; une modélisation en 3D du départ de feu était en cours.\n\nLes rumeurs, elles, ont été démenties dès les premiers jours : la silhouette sur le toit était un pompier, la voiture de bonbonnes de gaz datait de 2016. Il reste une part d'inconnu : la cause exacte n'est pas tranchée et des défaillances de sécurité ont été relevées. On peut exiger des réponses sur ces négligences ; affirmer un attentat caché, c'est remplacer l'enquête par un soupçon.",
+    "empathie": "Voir brûler Notre-Dame a bouleversé beaucoup de monde, et l'idée qu'un tel drame soit un simple accident peut sembler difficile à accepter. L'enquête a pourtant cherché toutes les pistes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Une cathédrale ne brûle pas toute seule.",
+      "reponse": "Le parquet évoque une défaillance électrique ou une cigarette sur un chantier ; des incendies accidentels de monuments se produisent régulièrement."
+    },
+    {
+      "objection": "Pourquoi l'enquête dure aussi longtemps ?",
+      "reponse": "Parce que les preuves ont brûlé et que les juges cherchent d'éventuelles négligences ; la durée ne prouve pas une dissimulation."
+    }
+  ],
+  "questions": [
+    "Sur quel élément précis repose l'idée d'un attentat ?",
+    "Savais-tu que la piste criminelle a été examinée par les enquêteurs ?"
+  ],
+  "limites": [
+    "Aucune source lue n'est postérieure à novembre 2024 ; l'enquête a pu évoluer depuis.",
+    "Plusieurs sources sont des médias reprenant des communications du parquet (Tendance Ouest, Blick)."
+  ],
+  "sources": [
+    {
+      "titre": "Incendie à Notre-Dame : « La piste accidentelle est privilégiée »",
+      "organisme": "L'Avenir (dépêche AFP)",
+      "date_publication": "16 avril 2019",
+      "url": "https://www.lavenir.net/actu/monde/2019/04/16/incendie-a-notre-dame-la-piste-accidentelle-est-privilegiee-5TZTXOJB4JAWDJ5BBV4DY5KHME/",
+      "passage": "Le procureur de Paris Rémy Heitz déclare : « Rien ne va dans le sens d'un acte volontaire. » Il y a eu « une première alerte à 18H20 », sans feu trouvé lors de la levée de doute ; la seconde alerte, à 18 h 43, a confirmé l'incendie dans la charpente. Près de 50 enquêteurs sont mobilisés et les ouvriers des cinq entreprises du chantier sont entendus.",
+      "pertinence": "Dépêche AFP.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Notre-Dame : « aucun élément » accréditant une origine criminelle d'après l'enquête préliminaire (parquet de Paris)",
+      "organisme": "Tendance Ouest",
+      "date_publication": "26 juin 2019",
+      "url": "https://www.tendanceouest.com/actualite-326755-notre-dame-aucun-element-accreditant-une-origine-criminelle-d-apres-l-enquete-preliminaire-parquet-de-paris",
+      "passage": "À l'issue de l'enquête préliminaire, le parquet affirme qu'« aucun élément » ne soutient une origine criminelle et confie la suite à trois juges d'instruction. Les pistes évoquées sont un « dysfonctionnement du système électrique » ou « un départ de feu lié à une cigarette mal éteinte ».",
+      "pertinence": "Média régional reprenant le communiqué du parquet.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Incendie de Notre-Dame de Paris : trois ans plus tard, retour sur un chantier hors-normes et quelques polémiques",
+      "organisme": "Public Sénat (Romain David)",
+      "date_publication": "15 avril 2022",
+      "url": "https://www.publicsenat.fr/actualites/societe/incendie-de-notre-dame-de-paris-trois-ans-plus-tard-retour-un-chantier-hors-norme-et",
+      "passage": "Le soir même, une enquête est ouverte pour « destruction involontaire par incendie ». Deux mois plus tard, la piste criminelle est écartée au profit d'un départ accidentel. Une information judiciaire contre X est ouverte pour « dégradations involontaires par incendie par violation manifestement délibérée d'une obligation de prudence ou de sécurité ».",
+      "pertinence": "Média parlementaire public.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "La justice cherche toujours ce qui a déclenché l'incendie de Notre-Dame",
+      "organisme": "Blick (édition française)",
+      "date_publication": "9 novembre 2024",
+      "url": "https://www.blick.ch/fr/monde/cinq-ans-apres-le-drame-la-justice-cherche-toujours-ce-qui-a-declenche-lincendie-de-notre-dame-id20305657.html",
+      "passage": "Le parquet indique : « Aucune mise en examen (inculpation) n'a été prononcée ». La procureure Laure Beccuau dit que toutes les pistes ont été explorées, y compris « l'hypothèse d'une intervention humaine », et que plus l'analyse avance, « plus la piste accidentelle est privilégiée ». Le juge a ordonné une « modélisation en 3D du départ de la flamme ». Des défaillances de l'alarme et de l'électricité d'un ascenseur ont pu favoriser la propagation du feu.",
+      "pertinence": "Quotidien suisse.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Notre Dame Fire Fuels Anti-Muslim Conspiracy Theory",
+      "organisme": "FactCheck.org (Angelo Fichera)",
+      "date_publication": "17 avril 2019",
+      "url": "https://www.factcheck.org/2019/04/notre-dame-fire-fuels-anti-muslim-conspiracy-theory/",
+      "passage": "« We could find no credible sources to support the incendiary suggestion that Muslims were responsible ». Une voiture chargée de bonbonnes de gaz datant de 2016 a été présentée à tort comme liée à l'incendie ; le prétendu « musulman sur le toit » était un pompier, selon CheckNews (Libération).",
+      "pertinence": "Fact-checker reconnu (université de Pennsylvanie).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Attentat, diversion, gilets jaunes : les théories les plus folles sur l'incendie à Notre-Dame de Paris",
+      "organisme": "La Libre Belgique (AFP)",
+      "date_publication": "16 avril 2019",
+      "url": "https://www.lalibre.be/international/2019/04/16/attentat-diversion-gilets-jaunes-les-theories-les-plus-folles-sur-lincendie-a-notre-dame-de-paris-VLOUHKNKBNHPVMHATWYT4Q3UFI/",
+      "passage": "L'article recense les rumeurs (« Un attentat ? Une diversion ? ») et rappelle que « les premiers éléments pointent une cause accidentelle ». Le prétendu « gilet jaune » sur le toit était un pompier et la silhouette aperçue une statue.",
+      "pertinence": "Dépêche AFP.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-04-15",
+  "raison_actualisation": "Avancée de l'information judiciaire.",
+  "objections_legitimes": [
+    "La cause exacte de l'incendie n'est pas encore établie.",
+    "Des défaillances de sécurité (alarme, électricité) ont été relevées."
+  ],
+  "publics": {
+    "convaincus": "Les enquêteurs ont examiné la piste criminelle, et dès 2019 le parquet a dit qu'aucun élément ne la soutenait. En 2024, ils jugeaient l'accident de plus en plus probable. Les « preuves » qui ont circulé, la silhouette sur le toit, c'était un pompier.",
+    "indecis": "La cause exacte de l'incendie n'est pas encore tranchée, et il est normal de vouloir des réponses. Mais l'enquête a exploré toutes les pistes, y compris un acte volontaire, sans rien trouver qui l'accrédite. Les pistes privilégiées sont une défaillance électrique ou une cigarette."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "democratie"
+    ],
+    "mecanismes": "La rumeur d’attentat caché sert souvent à accuser une communauté sans preuve.",
+    "consequences": "Elle nourrit la défiance envers la justice et la stigmatisation des musulmans.",
+    "democratie": "L’enquête judiciaire, indépendante, a examiné toutes les pistes ; exiger des comptes sur les négligences est légitime.",
+    "propositions": [
+      "Demander la transparence sur les défaillances de sécurité du chantier.",
+      "Démentir rapidement les rumeurs qui visent une population."
+    ],
+    "defavorables": [
+      {
+        "fait": "La cause exacte de l’incendie n’est pas encore établie.",
+        "integration": "Le reconnaître sans en tirer de conclusion infondée."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "notre_dame",
+      "label": "Incendie de Notre-Dame"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite"
+  ],
+  "concepts": [
+    "delinquance",
+    "medias",
+    "desinformation",
+    "notre_dame"
+  ]
+}

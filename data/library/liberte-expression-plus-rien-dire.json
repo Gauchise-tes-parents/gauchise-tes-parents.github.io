@@ -212,9 +212,6 @@
       }
     ]
   },
-  "concepts": [
-    "liberte_expression"
-  ],
   "repond_a": [
     {
       "id": "liberte_expression",
@@ -227,5 +224,8 @@
     "liberte d expression",
     "politiquement correct",
     "on se fait traiter"
+  ],
+  "concepts": [
+    "liberte_expression"
   ]
 }

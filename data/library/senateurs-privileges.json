@@ -1,0 +1,200 @@
+{
+  "id": "senateurs-privileges",
+  "type": "idee_recue",
+  "affirmation": "Les sénateurs ont des privilèges exorbitants.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "senateurs",
+    "privileges des senateurs",
+    "salaire des senateurs",
+    "retraite des senateurs",
+    "indemnite des senateurs",
+    "regime des senateurs",
+    "avance de frais de mandat"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Un sénateur touche la même indemnité brute qu'un député, 7 637,39 € par mois depuis 2024, plus une avance de frais de mandat de 6 600 € contrôlée. Le Sénat garde un régime de retraite spécifique, avec une caisse autonome et un régime complémentaire que les députés n'ont plus, mais il a baissé les pensions de 20 % en 2023 (environ 1 800 € net pour un mandat de six ans). « Exorbitants » relève de l'opinion ; des avantages spécifiques existent bel et bien.",
+  "contexte": "Le Sénat est régulièrement accusé d'être un club de privilégiés, surtout lors des réformes des retraites.",
+  "explication": "Il faut comparer l'indemnité, les frais et la retraite avec ceux des députés et vérifier les réformes récentes.",
+  "faits": [
+    {
+      "fait": "L'indemnité d'un sénateur est de 7 637,39 € brut par mois depuis le 1er janvier 2024, soit 5 676,12 € net avant impôt.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "C'est un revenu élevé, mais identique au brut des députés.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "7 637,39 €"
+    },
+    {
+      "fait": "L'indemnité brute d'un député est la même, 7 637,39 € par mois.",
+      "periode": "2024-2026",
+      "perimetre": "France",
+      "explication": "Les sénateurs ne sont pas mieux payés que les députés.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'avance de frais de mandat des sénateurs est passée de 5 900 € à 6 600 € par mois fin 2023 ; les dépenses sont contrôlées par le comité de déontologie et des cabinets comptables.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Les frais ont augmenté mais sont encadrés.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "6 600 €"
+    },
+    {
+      "fait": "En 2023, le Sénat a relevé l'âge de départ de ses membres de 62 à 64 ans et baissé les pensions de 20 %, plafonnées au niveau de l'indemnité.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le régime a été réformé.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    },
+    {
+      "fait": "Selon Public Sénat, la pension pour un mandat de six ans est passée d'environ 2 200 € à 1 800 € net par mois ; la pension moyenne citée en 2019 était d'environ 3 856 € net.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "Les pensions restent élevées par rapport à la moyenne : c'est un fait à reconnaître.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le régime de retraite des sénateurs repose sur une caisse autonome et garde un régime complémentaire que les députés n'ont plus depuis leur alignement sur le régime général en 2018.",
+      "periode": "2018-2023",
+      "perimetre": "France",
+      "explication": "Un régime spécifique subsiste.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Un sénateur gagne autant qu'un député au brut, 7 637 € par mois, et ses frais sont contrôlés. Son régime de retraite reste spécifique, mais il a été raboté de 20 % en 2023. Des avantages existent ; « exorbitants », c'est un jugement.",
+    "moyen": "Les chiffres officiels : 7 637,39 € brut par mois, exactement comme un député, plus une avance de frais de 6 600 € contrôlée par le comité de déontologie. Ce sont des revenus élevés, mais pas des privilèges cachés.\n\nLe vrai point faible, c'est la retraite. Le Sénat garde sa caisse autonome et un régime complémentaire que les députés ont abandonné en 2018. Il a quand même baissé les pensions de 20 % en 2023 et relevé l'âge de départ à 64 ans : environ 1 800 € net pour un mandat de six ans. On peut demander l'alignement sur le régime général ; mais crier aux privilèges exorbitants sert souvent à discréditer le Parlement tout entier.",
+    "detaille": "L'indemnité parlementaire est la même dans les deux chambres : 7 637,39 € brut par mois depuis le 1er janvier 2024, soit 5 676 € net avant impôt pour un sénateur. S'y ajoute une avance de frais de mandat, passée de 5 900 € à 6 600 € par mois fin 2023 au nom de l'inflation. Ces frais doivent être « raisonnables » et sont contrôlés par le comité de déontologie avec deux cabinets comptables, chaque sénateur faisant l'objet d'au moins un contrôle approfondi par mandat. Les députés disposent depuis 2026 d'une dotation de fonctionnement de 7 238 € par mois.\n\nLa retraite est le sujet le plus discutable. Le Sénat a une caisse autonome depuis 1905, avec un régime complémentaire que les députés ont perdu en 2018. Les sénateurs cotisent davantage, environ 15 %, et la caisse coûte moins de 8 M€ à l'État, contre 67 M€ pour celle des députés. En juillet 2023, le Bureau a transposé la réforme des retraites : départ à 64 ans, 43 annuités, pensions en baisse de 20 % et plafonnées. Une pension pour un mandat de six ans passe d'environ 2 200 € à 1 800 € net ; la pension moyenne citée en 2019 était d'environ 3 856 € net.\n\nIl y a donc des avantages réels, notamment un régime de retraite à part, que l'on peut vouloir aligner sur celui des Français. Mais la plupart des sources sont internes au Sénat, et le mot « exorbitants » relève du jugement. Le débat utile porte sur la transparence et l'alignement, pas sur le procès en bloc des élus.",
+    "empathie": "Quand on demande aux Français de travailler jusqu'à 64 ans, il est normal de vouloir que les élus s'appliquent les mêmes règles. C'est une exigence démocratique saine."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils touchent plus de 13 000 € par mois avec les frais.",
+      "reponse": "Les frais de mandat servent à payer des dépenses liées au mandat et sont contrôlés ; ils ne sont pas un salaire."
+    },
+    {
+      "objection": "Le Sénat refuse l'alignement sur le régime général.",
+      "reponse": "C'est vrai : il a transposé la réforme de 2023 mais garde sa caisse ; on peut défendre l'alignement complet."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'un sénateur et un député touchent la même indemnité brute ?",
+    "Faudrait-il aligner la retraite des parlementaires sur le régime général ?"
+  ],
+  "limites": [
+    "La plupart des sources sont internes au Sénat (Public Sénat, Bureau du Sénat) ; aucun fact-check indépendant n'a été lu.",
+    "La pension moyenne de 3 856 € date de 2019, avant la réforme de 2023."
+  ],
+  "sources": [
+    {
+      "titre": "Comment fonctionne l’avance de frais de mandats des sénateurs ?",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "30 janvier 2024",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/comment-fonctionne-lavance-de-frais-de-mandats-des-senateurs",
+      "passage": "Au 1er janvier 2024, l'indemnité est de 7 637,39 € brut, soit 5 676,12 € net avant impôt. L'avance de frais de mandat passe de 5 900 € à 6 600 € par mois (décision du Bureau du 16 novembre 2023), au nom « du contexte inflationniste ». Les dépenses doivent être « raisonnables » et sont contrôlées par le comité de déontologie avec deux cabinets comptables ; chaque sénateur fait l'objet d'au moins un contrôle approfondi par mandat.",
+      "pertinence": "Chaîne du Sénat (source institutionnellement liée au Sénat).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Les sénateurs vont baisser de 20 % leurs pensions de retraite",
+      "organisme": "Public Sénat (François Vignal)",
+      "date_publication": "12 juillet 2023",
+      "url": "https://www.publicsenat.fr/actualites/politique/retraites-les-senateurs-sappliquent-la-reforme-et-vont-baisser-de-20-leurs-pensions",
+      "passage": "L'âge de départ passe de 62 à 64 ans. La pension pour un mandat de six ans passe d'environ 2 200 € à environ 1 800 € net par mois. La pension moyenne citée par le Sénat en 2019 était d'environ 3 856 € net. La caisse des sénateurs coûte moins de 8 M€ à la dotation de l'État, contre 67 M€ pour les députés. Gérard Larcher parlait auparavant d'« un régime avantageux ».",
+      "pertinence": "Chaîne du Sénat.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Compte rendu du Bureau du Sénat du 12 juillet 2023",
+      "organisme": "Sénat",
+      "date_publication": "12 juillet 2023",
+      "url": "https://www.senat.fr/fileadmin/cru-1746021083/Organisation_interne/Bureau/Comptes_rendus/2023/04_CR_Bureau_120723.pdf",
+      "passage": "Le Bureau transpose la réforme des retraites de 2023 à compter du 1er septembre 2023 : « relèvement progressif de l'âge de départ » de 62 à 64 ans et 43 annuités. Les pensions baissent de « 20 % » et sont plafonnées au niveau de l'indemnité parlementaire. L'effort contributif reste « supérieur de 40 % au niveau de cotisation moyen des Français ». Décision votée à l'unanimité.",
+      "pertinence": "Document officiel du Sénat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fiche 7 : Situation matérielle du député (actualisée en janvier 2026)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "janvier 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/telechargement/631144/file/Fiche%207%20corrig%C3%A9e%20-%20Situation%20mat%C3%A9rielle%20du%20d%C3%A9put%C3%A9_actualis%C3%A9e%20080126.pdf",
+      "passage": "L'indemnité du député est de 7 637,39 € brut et 5 953,34 € net (montants en vigueur depuis le 1er janvier 2024). Depuis le 1er janvier 2026, l'avance de frais est fusionnée dans une dotation de fonctionnement parlementaire de 7 238,04 € par mois en métropole. Crédit collaborateurs : 11 463 € par mois.",
+      "pertinence": "Document officiel de l’Assemblée nationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réforme des retraites : comment fonctionne le régime des sénateurs ?",
+      "organisme": "Public Sénat (Louis Mollier-Sabet)",
+      "date_publication": "30 janvier 2023",
+      "url": "https://www.publicsenat.fr/article/parlementaire/reforme-des-retraites-comment-fonctionne-le-regime-des-senateurs-234504",
+      "passage": "La caisse est autonome, créée en 1905. Les sénateurs cotisent à environ 15 %, contre 10 % pour les députés, et gardent un régime complémentaire que les députés n'ont plus. Les actifs couvrant les engagements de retraite atteignent 1,38 Md€ (comptes 2021). Le régime des députés a été aligné sur le régime général en 2018.",
+      "pertinence": "Chaîne du Sénat.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Revalorisation éventuelle des indemnités et des frais.",
+  "objections_legitimes": [
+    "Le régime de retraite des sénateurs reste spécifique.",
+    "L'avance de frais a augmenté de 700 € par mois en 2023."
+  ],
+  "publics": {
+    "convaincus": "Un sénateur gagne 7 637 € brut par mois, exactement comme un député, et ses frais sont contrôlés. Sa retraite reste à part, d'accord, et on peut exiger qu'elle soit alignée ; mais elle a baissé de 20 % en 2023. Taper sur les élus en bloc, ça ne fait pas avancer la transparence.",
+    "indecis": "Il est légitime de vouloir que les élus s'appliquent les règles qu'ils votent. Les sénateurs ont un régime de retraite spécifique, mais leur indemnité est la même que celle des députés et leurs frais sont contrôlés. Le débat utile porte sur l'alignement et la transparence."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "egalite"
+    ],
+    "mecanismes": "Le procès général contre les élus nourrit la défiance envers les institutions sans améliorer la transparence.",
+    "consequences": "Des régimes spécifiques maintenus pendant qu’on durcit les retraites de tous alimentent un sentiment d’injustice légitime.",
+    "democratie": "La transparence des indemnités et des frais est une exigence démocratique ; elle a progressé, mais le régime de retraite reste à part.",
+    "propositions": [
+      "Aligner la retraite des parlementaires sur le régime général.",
+      "Publier le détail des frais de mandat."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le régime de retraite des sénateurs reste spécifique.",
+        "integration": "Le reconnaître et demander l’alignement."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "reforme des retraites"
+  ],
+  "concepts": [
+    "salaires",
+    "retraite"
+  ]
+}

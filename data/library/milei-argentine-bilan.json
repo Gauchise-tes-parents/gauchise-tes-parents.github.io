@@ -184,9 +184,6 @@
       }
     ]
   },
-  "concepts": [
-    "pouvoir_achat"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -199,5 +196,8 @@
     "vie chere",
     "essence",
     "tout augmente"
+  ],
+  "concepts": [
+    "pouvoir_achat"
   ]
 }

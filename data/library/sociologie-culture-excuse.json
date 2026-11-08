@@ -178,9 +178,6 @@
       }
     ]
   },
-  "concepts": [
-    "delinquance"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -192,5 +189,8 @@
     "criminalite",
     "caillera",
     "ensauvagement"
+  ],
+  "concepts": [
+    "delinquance"
   ]
 }

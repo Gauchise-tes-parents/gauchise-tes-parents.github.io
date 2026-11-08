@@ -1,0 +1,206 @@
+{
+  "id": "taxe-fonciere-maires",
+  "type": "idee_recue",
+  "affirmation": "La taxe foncière explose à cause des maires dépensiers.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "taxe fonciere",
+    "taxe fonciere explose",
+    "hausse de la taxe fonciere",
+    "impots locaux explosent",
+    "foncier bati",
+    "maires depensiers"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'essentiel de la hausse récente de la taxe foncière vient de la revalorisation automatique des bases, fixée par la loi selon l'inflation : +7,1 % en 2023, +3,9 % en 2024. Seule une minorité de communes relève son taux chaque année (14 % en 2023, 16,7 % en 2024), et 1,8 % l'ont fait tous les ans depuis 2018. Mais certaines grandes villes, comme Paris ou Grenoble, ont fortement augmenté leur taux.",
+  "contexte": "Chaque automne, l'arrivée de l'avis de taxe foncière relance l'accusation contre les maires.",
+  "explication": "La taxe foncière dépend de deux éléments : la base (valeur locative, revalorisée par l'État) et le taux (voté par la commune). Il faut séparer les deux.",
+  "faits": [
+    {
+      "fait": "Les valeurs locatives sont revalorisées automatiquement selon l'inflation : +7,1 % en 2023, +3,9 % en 2024 et environ +1,7 % en 2025.",
+      "periode": "2022-2025",
+      "perimetre": "France",
+      "explication": "La hausse des bases ne dépend pas des maires.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+7,1 %"
+    },
+    {
+      "fait": "En 2023, le produit de la taxe foncière a progressé de 9,8 % : +6,8 % liés aux bases et +2,8 % aux taux, dont seulement +1,1 % hors Paris.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "L'effet des bases dépasse largement celui des taux.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "9,8 %"
+    },
+    {
+      "fait": "En 2024, 16,7 % des communes ont relevé leur taux, couvrant 14,1 % de la population ; en 2023, c'était 14 %, souvent d'un point ou moins.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "La grande majorité des communes n'augmente pas son taux.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "16,7 %"
+    },
+    {
+      "fait": "Selon la DGCL citée par Maire-info, seulement 1,8 % des communes ont augmenté leur taux tous les ans depuis 2018.",
+      "periode": "2018-2025",
+      "perimetre": "France",
+      "explication": "Les hausses répétées sont rares.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "1,8 %"
+    },
+    {
+      "fait": "En 2023, certaines grandes villes ont fortement relevé leur taux : Paris +59 %, Meudon +42 %, Grenoble +31 %.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Des hausses fortes existent dans quelques villes, dont des villes de gauche : c'est un fait défavorable.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Cour des comptes, les hausses de taux de taxe foncière (+1,8 Md€) ont été en 2023 les principales hausses discrétionnaires de prélèvements, et les dépenses de fonctionnement des collectivités ont dépassé les objectifs d'environ 2 Md€.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les collectivités ont aussi leur part de responsabilité.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "1,8 Md€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Surtout faux : la hausse vient d'abord de la revalorisation automatique des bases, indexée sur l'inflation par la loi (+7,1 % en 2023). Seule une commune sur six a relevé son taux en 2024. Certaines grandes villes, comme Paris, l'ont fortement augmenté, c'est vrai.",
+    "moyen": "La taxe foncière, c'est une base multipliée par un taux. La base est revalorisée automatiquement selon l'inflation, sans vote des maires : +7,1 % en 2023, +3,9 % en 2024. En 2023, sur 9,8 % de hausse du produit, 6,8 points venaient des bases.\n\nCôté taux, seules 14 % des communes l'ont relevé en 2023 et 16,7 % en 2024, souvent d'un point ou moins ; 1,8 % l'ont fait tous les ans depuis 2018. Il y a des exceptions fortes, comme Paris (+59 %) ou Grenoble (+31 %) en 2023, et la Cour des comptes reproche aux collectivités d'avoir dépassé leurs objectifs de dépense. Mais la majorité des maires n'y est pour rien : c'est l'inflation et la loi.",
+    "detaille": "Le montant de la taxe foncière dépend de deux choses. La valeur locative cadastrale, d'abord, est revalorisée chaque année selon l'indice des prix : ce n'est plus le Parlement qui fixe la hausse, c'est une règle automatique. Avec l'inflation, elle a fait +3,4 % en 2022, +7,1 % en 2023 et +3,9 % en 2024. Le taux, ensuite, est voté par la commune.\n\nLes données de la DGFiP et de l'OFGL montrent que l'effet base domine. En 2023, le produit de la taxe a augmenté de 9,8 % : 6,8 points dus aux bases, 2,8 points aux taux, dont 1,1 point seulement hors Paris. Cette année-là, 84,7 % des communes ont maintenu leur taux ; en 2024, 16,7 % l'ont relevé. Depuis 2018, seulement 1,8 % l'ont augmenté tous les ans. La suppression de la taxe d'habitation, décidée par l'État, a aussi poussé légèrement les taux à la hausse en privant les communes d'une ressource.\n\nCela n'exonère pas tout le monde. Paris (+59 %), Meudon (+42 %) ou Grenoble (+31 %) ont fortement relevé leur taux en 2023, et la Cour des comptes relève que les hausses de taux ont rapporté 1,8 Md€ cette année-là. Le débat sur la gestion d'une ville se mène ville par ville, pas en accusant tous les maires.",
+    "empathie": "Recevoir un avis de taxe foncière en forte hausse est un vrai choc pour beaucoup de propriétaires modestes, notamment les retraités. Savoir d'où vient la hausse permet de demander des comptes à la bonne personne."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Mon maire a augmenté le taux, je l'ai vu sur mon avis.",
+      "reponse": "C'est possible : une commune sur six l'a fait en 2024. L'avis de taxe foncière montre séparément l'évolution de la base et celle du taux."
+    },
+    {
+      "objection": "Les maires compensent la suppression de la taxe d'habitation.",
+      "reponse": "C'est en partie vrai : cette suppression décidée par l'État a légèrement poussé les taux à la hausse."
+    }
+  ],
+  "questions": [
+    "As-tu regardé sur ton avis si c'est la base ou le taux qui a augmenté ?",
+    "Savais-tu que la revalorisation des bases est automatique et fixée par la loi ?"
+  ],
+  "limites": [
+    "Les données sur les taux portent sur 2023-2025 ; la situation varie fortement d'une commune à l'autre.",
+    "Maire-info est le média de l'association des maires ; ses chiffres viennent de la DGCL."
+  ],
+  "sources": [
+    {
+      "titre": "Les bases des impôts locaux seront automatiquement augmentées de 1,7 % en 2025",
+      "organisme": "Localtis / Banque des Territoires (Thomas Beurey)",
+      "date_publication": "4 décembre 2024",
+      "url": "https://www.banquedesterritoires.fr/les-bases-des-impots-locaux-seront-automatiquement-augmentees-de-17-en-2025",
+      "passage": "Les valeurs locatives sont revalorisées automatiquement selon l'indice des prix harmonisé : « Ce n'est donc plus, comme antérieurement, le Parlement qui fixe l'évolution. » Revalorisations : +3,4 % en 2022, +7,1 % en 2023, +3,9 % en 2024, environ +1,7 % en 2025.",
+      "pertinence": "Média spécialisé des collectivités (Caisse des dépôts).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Taxe foncière : une « envolée » circonscrite à quelques communes",
+      "organisme": "Localtis / Banque des Territoires (Thomas Beurey), d’après la DGFiP",
+      "date_publication": "30 août 2023",
+      "url": "https://www.banquedesterritoires.fr/taxe-fonciere-une-envolee-circonscrite-quelques-communes",
+      "passage": "En 2023, 14 % des 34 808 communes ont relevé leur taux, 84,7 % l'ont maintenu et 1,3 % l'ont baissé ; parmi celles qui l'ont relevé, 52,6 % l'ont fait d'un point ou moins. Les hausses sont fortes dans certaines villes : Paris +59 %, Meudon +42 %, Grenoble +31 %. La croissance est « accentuée par la revalorisation, en 2023, de 7,1 % des valeurs locatives ».",
+      "pertinence": "Média spécialisé, données de la DGFiP.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Fiscalité locale : en 2024, moins de 17 % des communes ont relevé leur taux de foncier bâti",
+      "organisme": "Localtis / Banque des Territoires (Thomas Beurey), d’après la DGFiP et l’OFGL",
+      "date_publication": "11 septembre 2024",
+      "url": "https://www.banquedesterritoires.fr/fiscalite-locale-en-2024-moins-de-17-des-communes-ont-releve-leur-taux-de-foncier-bati",
+      "passage": "En 2024, 5 832 communes sur 34 915 (16,7 %) ont relevé leur taux, couvrant 14,1 % de la population. En 2023, le produit a progressé de 9,8 % : +6,8 % d'effet base et +2,8 % d'effet taux, dont seulement +1,1 % hors Paris (OFGL).",
+      "pertinence": "Média spécialisé, données officielles.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Taxe foncière : depuis 2018, moins de 2 % des communes ont augmenté leur taux tous les ans",
+      "organisme": "Maire-info (Association des maires de France), d’après le bulletin n° 210 de la DGCL",
+      "date_publication": "3 juin 2026",
+      "url": "https://www.maire-info.com/fiscalite-locale/taxe-fonciere-depuis-2018-moins-de-2-des-communes-ont-augmente-leur-taux-tous-les-ans-art26-30845",
+      "passage": "« seulement 1,8 % des communes l'ont augmenté tous les ans ». Depuis 2019, l'effet base dépasse nettement l'effet taux. La suppression de la taxe d'habitation a « globalement entraîné une légère hausse » des taux. Le taux corrigé passe de 19,4 % (2018) à 18,2 % (2021) puis 19,8 % (2025) ; le saut du taux communal en 2021 vient du transfert de la part départementale.",
+      "pertinence": "Média de l'association des maires (point de vue des élus locaux) ; données de la DGCL.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Finances publiques : les sévères mises en garde de la Cour des comptes",
+      "organisme": "Localtis / Banque des Territoires (Claire Mallet, avec l’AFP)",
+      "date_publication": "15 juillet 2024",
+      "url": "https://www.banquedesterritoires.fr/finances-publiques-les-severes-mises-en-garde-de-la-cour-des-comptes",
+      "passage": "Les finances publiques ont été « malmenées par les crises sanitaire et inflationniste » ; la dette est « emportée par la réitération des déficits et par son poids ». Des mesures qui « dégradent de façon pérenne le déficit public » coûtent 6,7 Md€ : suppression de la taxe d'habitation (2,5 Md€) et réduction de la CVAE (4,2 Md€). En 2023, les hausses de taux de taxe foncière (+1,8 Md€) sont les principales hausses discrétionnaires de prélèvements ; les dépenses de fonctionnement des collectivités ont dépassé les objectifs d'environ 2 Md€. L'État a respecté ses objectifs de dépense, contrairement aux administrations sociales.",
+      "pertinence": "Service d'information des collectivités (Caisse des dépôts), qui rend compte d'un rapport de la Cour des comptes.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Données DGFiP sur les taux votés en 2027.",
+  "objections_legitimes": [
+    "Certaines grandes villes ont fortement relevé leur taux.",
+    "Les collectivités ont dépassé leurs objectifs de dépense en 2023 selon la Cour des comptes."
+  ],
+  "publics": {
+    "convaincus": "Regarde ton avis : la base a pris 7,1 % en 2023, automatiquement, à cause de l'inflation et d'une règle fixée par la loi. Plus de huit communes sur dix n'ont pas touché à leur taux cette année-là. Si ton maire l'a augmenté, demande-lui des comptes ; mais ne mets pas tous les maires dans le même sac.",
+    "indecis": "La hausse de la taxe foncière pèse lourd sur les budgets, surtout des retraités. Elle vient d'abord de la revalorisation automatique liée à l'inflation, et seule une minorité de communes relève son taux. Quelques grandes villes l'ont fortement augmenté : c'est à juger au cas par cas."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "democratie",
+      "repartition"
+    ],
+    "mecanismes": "La hausse vient surtout de la revalorisation automatique des bases ; accuser les maires détourne l’attention des choix de l’État, comme la suppression de la taxe d’habitation.",
+    "consequences": "Les propriétaires modestes, notamment retraités, subissent la hausse sans pouvoir la répercuter.",
+    "democratie": "Les élus locaux votent leurs taux en public et rendent des comptes aux électeurs : c’est la démocratie locale.",
+    "propositions": [
+      "Réviser les valeurs locatives pour une taxe plus juste.",
+      "Garantir des ressources stables aux communes plutôt que des dotations en baisse."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certaines grandes villes ont fortement relevé leur taux.",
+        "integration": "Le reconnaître et juger chaque gestion municipale sur pièces."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "taxe_fonciere",
+      "label": "Taxe foncière"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "cada",
+    "huda",
+    "impots locaux",
+    "taxe fonciere",
+    "foncier bati"
+  ],
+  "concepts": [
+    "fiscalite",
+    "heberg_asile",
+    "taxe_fonciere"
+  ]
+}

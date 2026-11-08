@@ -640,3 +640,113 @@ L'outil de lecture résume les pages : les citations entre guillemets sont court
 - nouvelles projections démographiques de l'Insee intégrant la fécondité de 2025 ;
 - écart de prix entre bio et conventionnel ;
 - coût social détaillé des coupes de Javier Milei.
+
+## 8 novembre 2026 — passage de 20 h 14 (UTC)
+
+**Questions testées : 28 candidates, 25 retenues.** Les phrases ont été rassemblées à partir de ce que documentent les vérificateurs (AFP, PolitiFact, FactCheck.org, Euronews, Public Sénat) et des débats publics récents. Elles sont reformulées de façon générale. `node scripts/verifier-couverture.mjs` a donné :
+- 12 « LACUNE » ;
+- 16 « COUVERTE ». Trois étaient réellement traitées par une fiche existante et ont été écartées : les OQTF non exécutées et le refus de l'Algérie de reprendre ses ressortissants, couverts par `expulser-tous-etrangers-condamnes` et `renvoyer-tous-deja-condamnes` ; les écologistes qui voudraient revenir « à la bougie », jugé trop vague pour être sourcé. Les 13 autres étaient orientées vers une fiche hors sujet (par exemple Notre-Dame vers `medias-concentration`, gratuité des transports vers `rsa-smic`, taxe foncière vers `impots-assistanat`). Elles ont été traitées comme des lacunes.
+
+Questions retenues :
+1. La semaine de 32 heures proposée par la gauche ruinerait l'économie.
+2. Le trou de la Sécu prouve que notre modèle social est intenable.
+3. La dette publique vient des dépenses sociales excessives.
+4. La réforme de l'assurance chômage remet les gens au travail.
+5. La taxe foncière explose à cause des maires dépensiers.
+6. La remigration proposée par l'extrême droite est réalisable.
+7. L'Allemagne a raté l'intégration du million de réfugiés de 2015.
+8. Le Danemark, gouverné par la gauche, a fermé ses frontières : il faut faire pareil.
+9. Il faut une immigration choisie avec des quotas, comme au Canada.
+10. Les féminicides sont surtout commis par des étrangers.
+11. Le RN a renoncé à sortir de l'euro, il est devenu un parti sérieux.
+12. Les sénateurs ont des privilèges exorbitants.
+13. Paris est ruinée par la gestion de la gauche, sa dette a explosé.
+14. Les agressions d'élus locaux explosent.
+15. Le RN défend mieux les homosexuels que la gauche.
+16. Les traînées blanches des avions répandent des produits chimiques.
+17. L'incendie de Notre-Dame était un attentat qu'on nous cache.
+18. Le passe sanitaire, c'était une dictature.
+19. Le mariage pour tous a détruit la famille.
+20. La viande halal finance l'islamisme.
+21. La gratuité des transports publics, c'est irréaliste.
+22. Les droits de douane de Trump protègent les ouvriers américains.
+23. L'aide à l'Ukraine est détournée par la corruption.
+24. Les profs se font agresser tous les jours, l'école est devenue violente.
+25. Les gens du voyage ne paient pas d'impôts et ont tous les droits.
+
+**Fiches créées : 25**, par le générateur `scripts/fiches/quotidien_20261108_2014.py`. Toutes ont un champ `publics` et une « lecture de gauche ». Chacune repose sur quatre à huit sources ouvertes et lues le 8 novembre 2026 :
+
+| Fiche | Verdict | Sources principales |
+|---|---|---|
+| `semaine-32-heures` | trompeur | Programme du NFP (2024) ; Insee, Économie et Statistique (2005) ; Assemblée nationale, rapport n° 2436 (2014) ; Institut Montaigne (2022, attribué) ; CORDIS, Commission européenne (2023) |
+| `trou-secu-intenable` | trompeur | Cour des comptes via Santé Mentale et Public Sénat (2026) ; DSS via Acteurs publics (2026) ; Sénat, PLFSS 2027 ; Insee Première n° 2106 (2026) ; LCP sur le rapport Ferracci-Guedj (2023) |
+| `dette-depenses-sociales` | trompeur | Insee Première n° 2106 (2026) ; Sénat, intervention de P. Moscovici (2022) et rapport Husson (2024) ; Localtis sur la Cour des comptes (2024) ; F. Ecalle pour l'Institut Montaigne (2021) |
+| `reforme-assurance-chomage-emploi` | plutôt exact | Comité d'évaluation de la Dares (2025) ; Unédic (2025, deux études) ; AFP via Weka (2025) |
+| `taxe-fonciere-maires` | trompeur | Localtis d'après la DGFiP et l'OFGL (2023, 2024, 2024) ; Maire-info d'après la DGCL (2026) ; Cour des comptes via Localtis (2024) |
+| `remigration-realisable` | trompeur | Public Sénat et Europe 1 (2022, citations attribuées) ; dpa via Berliner Zeitung (2024) ; Conseil constitutionnel (2015) ; Conseil de l'Europe (arrêt Hirsi Jamaa) ; Sénat, avis PLF 2026 ; AFP (2026) ; Insee (2025) |
+| `allemagne-refugies-2015` | contredit | IAB (2024, 2025) ; ZDF (2025) ; gouvernement fédéral allemand (2023) |
+| `danemark-gauche-frontieres` | trompeur | Commission européenne, contrôles Schengen notifiés ; Fondation Robert Schuman (2026) ; RTÉ (2026) ; Copenhagen Post d'après le Service danois de l'immigration (2025) ; Amnesty (2021) ; The Local (2025) ; blue News (2026) |
+| `immigration-choisie-canada` | trompeur | Ministère canadien de l'Immigration (2024, 2025-2026) ; Statistique Canada (2026) ; Public Sénat (2019, 2024, 2026) |
+| `feminicides-etrangers` | contredit | Ministère de l'Intérieur, études nationales sur les morts violentes au sein du couple 2023 et 2024 ; Public Sénat (2025) ; Insee (2025) |
+| `rn-sortie-euro-abandon` | trompeur | Public Sénat (2017, 2019 ×2, 2022) ; LCP (2022) ; Institut Montaigne (2024, attribué) |
+| `senateurs-privileges` | trompeur | Sénat, Bureau du 12 juillet 2023 ; Assemblée nationale, fiche 7 (2026) ; Public Sénat (2023 ×2, 2024) |
+| `paris-dette-gestion` | trompeur | Ville de Paris, compte administratif 2025 ; Institut Montaigne (2020, 2026, attribué) ; Club des juristes (2022) ; AN, question écrite n° 1311 (2023) |
+| `agressions-elus-locaux` | plutôt exact | Ministère de l'Intérieur, rapport du CALAE (2025) ; Assemblée nationale (2024) ; Maire-info (2026) ; Public Sénat (2026) ; Localtis (2024) |
+| `rn-homosexuels-droits` | contredit | LCP (2022, 2023, 2024) ; Public Sénat (2019) ; Le Quotidien du Médecin (2019) ; Datan (2021) ; PinkNews (2017, attribué) ; Observatoire des inégalités (2025) |
+| `chemtrails-trainees-avions` | contredit | UC Irvine et IOP Publishing (2016) ; AN, réponses ministérielles (2013, 2014) ; Boursorama (2024) ; Euronews (2024) |
+| `notre-dame-incendie-attentat` | contredit | AFP via L'Avenir et La Libre (2019) ; Tendance Ouest (2019) ; Public Sénat (2022) ; Blick (2024) ; FactCheck.org (2019) |
+| `passe-sanitaire-dictature` | trompeur | Conseil constitutionnel (2021, 2022) ; Conseil d'État (2021) ; CNIL (2021) ; Maire-info sur la Défenseure des droits (2021) ; VIDAL (2022) |
+| `mariage-pour-tous-famille` | contredit | Insee (Focus n° 381, séries mariages-Pacs, TEF 2019, bilan démographique 2025) ; LCP (2023) ; Slate/The Conversation |
+| `halal-finance-islamisme` | trompeur | Sénat, mission sur l'islam (2016) ; Localtis (2016) ; La Vie des idées (2013) ; Public Sénat (2018) ; AN, question n° 3977 (2012) ; InDaily (2015) |
+| `gratuite-transports-irrealiste` | trompeur | Sénat (2019) ; Public Sénat (2019) ; Cour des comptes via Localtis et l'AFP (2025) ; Localtis sur Montpellier (2024) |
+| `trump-droits-douane-ouvriers` | trompeur | Réserve fédérale (2019) ; Peterson Institute (2018) ; université de Chicago (2019) ; Institut de Kiel (2026) ; CBO (2025) ; EPI d'après le BLS (2026) |
+| `ukraine-aide-corruption` | trompeur | GAO (2024) ; PolitiFact (2024) ; Voice of America (2025) ; Kyiv Independent (2024) ; Euronews (2025) ; Transparency International Ukraine (2026) |
+| `profs-agresses-ecole-violente` | trompeur | DEPP, notes n° 25.28 et 25.47 (2025) et n° 25 (2014) ; Localtis (2025) ; Acteurs publics (2026) |
+| `gens-du-voyage-impots` | contredit | Défenseur des droits (2024 et fiche ancienne) ; AN, réponses ministérielles (2004, 2010) ; Localtis (2017) |
+
+**Méthode.** La recherche a été répartie entre cinq agents documentalistes, plus un sixième pour deux sources officielles complémentaires (Commission européenne, GAO). Chacun cherchait avec WebSearch puis lisait chaque page avec WebFetch. Seules les pages effectivement lues ont été retenues, et les chiffres viennent des passages lus.
+
+Les sources orientées ne servent qu'avec attribution explicite :
+- Institut Montaigne, Europe 1, PinkNews et Fondation Robert Schuman ;
+- Amnesty International, Economic Policy Institute et Peterson Institute ;
+- Voice of America et Kyiv Independent.
+
+L'outil de lecture résume les pages : les citations entre guillemets sont courtes et pourraient être revérifiées mot à mot.
+
+Pages non ouvertes, donc non citées :
+- Vie publique, quand la page exige JavaScript ;
+- page de la Dares sur les 35 heures (vérification anti-robot) ;
+- pages officielles de la DEPP sur education.gouv.fr (lues sur des copies de l'académie de Nice) ;
+- page du ministère de l'Intérieur sur l'éloignement et sur l'étude des morts violentes au sein du couple (lue sur Vie publique) ;
+- rapport Mazeaud (2008) ;
+- rapport de la chambre régionale des comptes d'Île-de-France sur Paris (2025) ;
+- OFCE sur les crises et la dette.
+
+**Reconnaissance des questions.**
+- Après génération, 12 des 25 questions (les 12 lacunes initiales) menaient déjà à leur fiche par les mots-clés.
+- `public/js/cartographie.js` reçoit 14 concepts : `remigration`, `paris_dette`, `gratuite_transports`, `danemark`, `notre_dame`, `halal`, `gens_voyage`, `trou_secu`, `dette_social`, `ukraine_corruption`, `profs_agresses`, `chemtrails`, `taxe_fonciere`, `elus_agresses`. Il reçoit aussi 15 arguments placés en tête, dont deux pour le Danemark : l'un exige le concept « immigration » pour l'emporter sur `gauche_immigres`, l'autre suffit pour « le modèle danois ».
+- L'argument « halal » exclut le concept `cantine`, pour que « Les cantines imposent le halal » reste sur `cantines-halal-porc`.
+- Comparaison avant/après sur 311 phrases de contrôle (affirmations de la bibliothèque, questions des passages précédents) ; le corpus de compréhension est vérifié par `npm test` : seules les questions visées changent de fiche.
+- Variantes vérifiées : « Hidalgo a ruiné Paris », « Les bus gratuits, c'est n'importe quoi », « Zelensky s'achète des yachts avec notre argent », « Les maires se font agresser de plus en plus », « Les profs se font frapper dans les collèges », « Les gitans ne paient pas d'impôts », « La Sécu est en faillite », « Les chemtrails nous empoisonnent », « Ma taxe foncière a doublé ».
+- « La France envoie des milliards à l'Ukraine… » reste sur `aide-ukraine-montant`. « Le halal… finance les mosquées » mène à `mosquees-financement-etranger`.
+
+**Politique documentaire.** `public/js/ligne-editoriale.js` reconnaît désormais trois institutions publiques :
+- le Government Accountability Office (organe de contrôle du Congrès américain) ;
+- le « gouvernement fédéral allemand » ;
+- l'IAB, comme institut de recherche de l'Agence fédérale allemande pour l'emploi.
+
+**Fiches existantes adaptées aux deux publics (10).** Le champ `publics` a été ajouté via `scripts/publics-complements.js`, à partir du seul contenu sourcé de chaque fiche : `gauche-laicite-debats`, `gauche-nation-debats`, `islamo-gauchisme-origine-usages`, `lfi-antisemite`, `lfi-communautarisme`, `melenchon-agressif`, `melenchon-autoritaire`, `melenchon-change-avis`, `patriotisme-nationalisme`, `statistiques-prouvent-insecurite-immigration`.
+
+**Questions écartées pour sources invérifiables : aucune.** Les dossiers les plus minces :
+- `danemark-gauche-frontieres` : chiffres de l'asile lus à travers un média local qui cite le Service de l'immigration ;
+- `ukraine-aide-corruption` : aucun fact-check français lisible ; sources surtout anglophones ;
+- `halal-finance-islamisme` : sources de 2012 à 2016 ;
+- `gens-du-voyage-impots` : réponses fiscales de 2004 et 2010.
+
+**Points non vérifiés, laissés hors des fiches et signalés dans leurs limites :**
+- vote des députés FN sur le mariage pour tous en 2013, et vote définitif de la PMA en 2021 groupe par groupe ;
+- maintien de la taxe sur les résidences mobiles créée en 2010 ;
+- rapport de la chambre régionale des comptes sur Paris ;
+- part des allègements de cotisations non compensés par l'État ;
+- état de l'enquête sur Notre-Dame après novembre 2024 ;
+- effets de la réforme de l'assurance chômage de 2023 sur l'emploi.

@@ -167,6 +167,10 @@
     "pas en securite",
     "criminalite"
   ],
+  "publics": {
+    "convaincus": "Oui, les étrangers sont surreprésentés parmi les mis en cause, 18 % pour 7 % de la population en 2019 : je ne le nie pas. Mais ces chiffres comptent des suspects, pas des coupables, et ne tiennent compte ni de l'âge, ni du sexe, ni de la pauvreté. Une surreprésentation n'est pas une preuve que l'immigration cause l'insécurité.",
+    "indecis": "La surreprésentation des étrangers dans les statistiques est réelle, et il est légitime de s'interroger. Mais les statistiques montrent une association, pas une cause : jeunes hommes pauvres et quartiers défavorisés pèsent beaucoup. Les études qui tiennent compte de ces facteurs trouvent un effet limité."
+  },
   "concepts": [
     "immigration",
     "delinquance",

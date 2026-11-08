@@ -1,0 +1,194 @@
+{
+  "id": "reforme-assurance-chomage-emploi",
+  "type": "idee_recue",
+  "affirmation": "La réforme de l'assurance chômage remet les gens au travail.",
+  "volet": "social",
+  "sous_theme": "Chômage",
+  "rubriques": [],
+  "mots_cles": [
+    "reforme de l assurance chomage",
+    "reforme assurance chomage",
+    "reformes du chomage",
+    "baisser les allocations chomage",
+    "durcir l assurance chomage",
+    "degressivite des allocations",
+    "reduire la duree d indemnisation"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'évaluation officielle de la réforme de 2019-2021 montre un retour à l'emploi un peu plus rapide (durée de chômage en baisse d'environ 12 %), mais uniquement vers des contrats courts : aucun effet sur l'emploi durable. En contrepartie, l'allocation journalière a baissé de 18 % en moyenne et les ouvertures de droits d'environ 15 %. La réforme de 2023 a réduit la durée des droits de 20 mois à 16 mois en moyenne ; ses effets sur l'emploi ne sont pas encore évalués.",
+  "contexte": "Les gouvernements successifs ont durci l'assurance chômage depuis 2019 en promettant d'inciter au retour à l'emploi.",
+  "explication": "Il faut distinguer la vitesse de reprise d'un emploi, la qualité de cet emploi et le coût social pour les chômeurs.",
+  "faits": [
+    {
+      "fait": "Selon le comité d'évaluation de la Dares, une baisse de 10 % du salaire journalier de référence réduit la durée sans emploi d'environ 1,4 à 5 %.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "L'effet incitatif existe : c'est un fait défavorable à l'argument de gauche.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La même évaluation conclut que cette incitation ne s'est pas accompagnée d'effet sur le retour en emploi durable.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "Les chômeurs reprennent plus vite des emplois courts, pas des emplois stables.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le nouveau calcul a réduit l'allocation journalière de 18 % en moyenne, surtout pour les jeunes et les contrats courts.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "La réforme a fait baisser les revenus des chômeurs.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "18 %"
+    },
+    {
+      "fait": "Selon l'Unédic, les ouvertures de droits ont baissé d'environ 15 % entre 2019 et 2023, surtout chez les jeunes et les peu diplômés.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "Moins de chômeurs sont indemnisés.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "15 %"
+    },
+    {
+      "fait": "D'après une dépêche AFP sur l'évaluation, la durée moyenne de chômage a baissé d'environ 12 %, seule la reprise d'emplois peu durables ayant été stimulée.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "L'accélération est réelle mais porte sur des contrats courts.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "12 %"
+    },
+    {
+      "fait": "Selon l'Unédic, après la réforme de 2023, la durée potentielle des droits est passée de 20 à 16 mois en moyenne et les fins de droit de 41 000 à 70 000 par mois entre mars 2023 et mars 2025.",
+      "periode": "2022-2025",
+      "perimetre": "France",
+      "explication": "Davantage de chômeurs arrivent en fin de droits.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "70 000"
+    }
+  ],
+  "argumentaires": {
+    "court": "En partie : selon l'évaluation officielle, les chômeurs retrouvent un emploi un peu plus vite, mais seulement des contrats courts, sans effet sur l'emploi durable. Et l'allocation a baissé de 18 % en moyenne. Remettre au travail, oui, dans la précarité.",
+    "moyen": "L'évaluation indépendante de la réforme de 2019-2021 montre un effet réel : la durée de chômage a baissé d'environ 12 %. C'est un résultat qu'il faut reconnaître.\n\nMais le même rapport précise que cet effet ne porte que sur des emplois courts, intérim et CDD de moins de six mois, sans effet sur l'emploi durable. En échange, l'allocation journalière a baissé de 18 % en moyenne et les ouvertures de droits d'environ 15 %, surtout pour les jeunes et les moins diplômés. La réforme de 2023 a encore réduit la durée des droits. On pousse plus vite vers des petits contrats ceux qui étaient déjà les plus précaires.",
+    "detaille": "Le comité d'évaluation présidé par Rafael Lalive, pour la Dares, a publié en 2025 la meilleure évaluation disponible. Il trouve qu'une baisse de 10 % du salaire journalier de référence réduit la durée sans emploi d'environ 1,4 à 5 %. Selon l'AFP, la durée moyenne de chômage a baissé d'environ 12 %. L'incitation financière fonctionne donc, au moins à court terme.\n\nMais il précise que « cette incitation ne s'est pas accompagnée d'effet sur le retour en emploi durable ». Selon l'Unédic, pour les parcours fragmentés, la part de reprise d'emploi en six mois passe de 52 % à 56-58 %, seulement sur des contrats de moins de six mois. Le prix : une allocation journalière en baisse de 18 % en moyenne, environ 1,5 million d'allocataires touchés, des ouvertures de droits en baisse d'environ 15 %. Le bonus-malus sur les contrats courts n'a pas eu d'effet mesurable sur l'emploi.\n\nLa réforme de 2023 a réduit la durée potentielle des droits de 20 à 16 mois en moyenne ; les fins de droit sont passées de 41 000 à 70 000 par mois, pour environ 4,5 Md€ d'économies par an. Ses effets sur l'emploi ne sont pas encore évalués. L'affirmation est donc plutôt exacte sur la vitesse, mais elle tait la qualité des emplois et le coût social.",
+    "empathie": "On peut comprendre l'idée qu'une allocation trop longue décourage certains de reprendre un emploi. Les évaluations permettent de voir ce qui marche, et à quel prix."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Peu importe le contrat, l'essentiel c'est de travailler.",
+      "reponse": "Un CDD de quelques semaines suivi d'un retour au chômage avec moins de droits ne sort pas les gens de la précarité."
+    },
+    {
+      "objection": "Le régime était trop généreux.",
+      "reponse": "Le choix de réduire les droits des plus précaires est politique ; d'autres leviers existent, comme le bonus-malus sur les contrats courts."
+    }
+  ],
+  "questions": [
+    "Savais-tu que l'évaluation officielle ne trouve aucun effet sur l'emploi durable ?",
+    "Une reprise plus rapide d'un contrat court, est-ce un vrai retour au travail selon toi ?"
+  ],
+  "limites": [
+    "L'évaluation porte sur la réforme 2019-2021 ; celle de 2023 n'est pas encore évaluée sur l'emploi.",
+    "Les effets mesurés dépendent aussi de la conjoncture favorable de 2021-2023."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport du comité d'évaluation de la réforme de l'assurance chômage 2019-2021",
+      "organisme": "Dares (comité présidé par Rafael Lalive), publié sur Vie publique",
+      "date_publication": "avril 2025",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/298088.pdf",
+      "passage": "Le nouveau calcul « réduit en moyenne leur salaire journalier de référence de 25 % et leur allocation journalière de 18 % », surtout pour les jeunes et les contrats courts. Une baisse de 10 % du salaire journalier de référence réduit la durée sans emploi d'environ 1,4 à 5 %. Mais « cette incitation ne s'est pas accompagnée d'effet sur le retour en emploi durable ». Sur le bonus-malus : « Le dispositif n'a en revanche pas eu d'impact mesurable sur l'emploi dans les entreprises affectées. »",
+      "pertinence": "Évaluation officielle et indépendante.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Évaluation de la réforme d'assurance chômage 2019-2021",
+      "organisme": "Unédic",
+      "date_publication": "20 mars 2025",
+      "url": "https://www.unedic.org/publications/evaluation-de-la-reforme-d-assurance-chomage-2019-2021",
+      "passage": "Environ 1,5 million d'allocataires ont été touchés. Pour les parcours fragmentés, l'allocation journalière baisse d'environ 16 % et la part qui retrouve un emploi en 6 mois passe de 52 % à 56-58 %, mais « cet effet ne porte que sur l'emploi non durable (contrats de moins de 6 mois) ». Les ouvertures de droits baissent d'environ 15 % entre 2019 et 2023, surtout chez les jeunes et les peu diplômés.",
+      "pertinence": "Gestionnaire paritaire du régime d'assurance chômage.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Assurance chômage : la réforme de 2019 a accéléré le retour à l'emploi et réduit les allocations",
+      "organisme": "Weka (dépêche AFP)",
+      "date_publication": "7 avril 2025",
+      "url": "https://www.weka.fr/actualite/emploi/article/assurance-chomage-la-reforme-de-2019-a-accelere-le-retour-a-l-emploi-et-reduit-les-allocations-selon-un-rapport-198124/",
+      "passage": "La durée moyenne de chômage baisse d'environ 12 %. Seule la reprise d'emplois peu durables a été stimulée (intérim, CDD de moins de 6 mois). L'allocation moyenne baisse d'environ 18 %, soit 6 € par jour. L'évaluation n'intègre pas la réforme de 2023, qui a réduit la durée d'indemnisation de 25 %.",
+      "pertinence": "Dépêche AFP.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Réforme 2023 : premiers effets de la réforme de contracyclicité",
+      "organisme": "Unédic (M.-H. Nguyen, M. Salliot)",
+      "date_publication": "18 décembre 2025",
+      "url": "https://www.unedic.org/publications/reforme-2023-premiers-effets-de-la-reforme-de-contracyclicite",
+      "passage": "« La durée potentielle de droit s'établit désormais à 16 mois en moyenne, contre 20 mois en 2022 (soit -20 %) ». Les fins de droit passent de 41 000 à 70 000 entre mars 2023 et mars 2025 ; la part des personnes en fin de droit qui basculent vers l'ASS passe « de 13 % mi-2022 à 20 % mi-2025 ». Les économies sont estimées à « l'ordre de 4,5 Md€ par an ». Aucun résultat n'est encore disponible sur la reprise d'emploi.",
+      "pertinence": "Gestionnaire du régime ; étude technique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Évaluation de la réforme de 2023.",
+  "objections_legitimes": [
+    "L'évaluation officielle mesure un retour à l'emploi plus rapide.",
+    "La dégressivité accélère la reprise d'emploi pour les hauts revenus concernés."
+  ],
+  "publics": {
+    "convaincus": "D'accord, l'évaluation officielle montre que les chômeurs retrouvent un emploi un peu plus vite. Mais elle dit aussi : uniquement des contrats courts, aucun effet sur l'emploi durable, et des allocations en baisse de 18 %. On a surtout appauvri les plus précaires.",
+    "indecis": "La réforme a un effet réel sur la vitesse de reprise d'emploi, et il faut le reconnaître. Mais ce sont surtout des contrats de moins de six mois, et les jeunes et les moins diplômés ont perdu des droits. Tout dépend de ce qu'on appelle « remettre au travail »."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "solidarite",
+      "vulnerables"
+    ],
+    "mecanismes": "Baisser les allocations pousse à accepter plus vite n’importe quel emploi, surtout des contrats courts.",
+    "consequences": "Les jeunes et les moins diplômés perdent des droits et enchaînent les contrats précaires.",
+    "democratie": "L’assurance chômage est un droit acquis par les cotisations ; sa réduction par décret a contourné les partenaires sociaux.",
+    "propositions": [
+      "Rétablir des droits pour les plus précaires.",
+      "Taxer davantage les contrats courts pour encourager l’emploi stable."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’évaluation officielle montre un retour à l’emploi plus rapide.",
+        "integration": "Le reconnaître et rappeler qu’il s’agit de contrats courts, sans effet sur l’emploi durable."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux"
+  ],
+  "concepts": [
+    "emploi",
+    "prestations"
+  ]
+}

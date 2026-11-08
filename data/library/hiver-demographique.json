@@ -183,10 +183,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "demographie"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -202,5 +198,9 @@
     "font plus d enfants",
     "un tiers de la population",
     "population"
+  ],
+  "concepts": [
+    "immigration",
+    "demographie"
   ]
 }

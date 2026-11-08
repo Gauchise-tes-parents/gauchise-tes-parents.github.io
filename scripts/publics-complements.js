@@ -206,4 +206,45 @@ export const PUBLICS = {
     convaincus: "La Sécu n'est pas un cadeau de l'État : elle est financée par les cotisations sur ton travail et celui de ton employeur. Elle a été créée en 1945 sous le gouvernement du général de Gaulle, à partir du programme de la Résistance. La protéger, c'est protéger ce que tu as payé.",
     indecis: "La Sécurité sociale est née en 1945 d'un compromis issu de la Résistance, financée par des cotisations sur le travail. Son financement pose de vraies questions aujourd'hui, mais elle reste une garantie inscrite dans le Préambule de 1946 : la protection de la santé pour tous.",
   },
+  // Ajouts du 8 novembre 2026, passage de 20 h 14 (UTC).
+  'gauche-laicite-debats': {
+    convaincus: "La gauche n'a pas abandonné la laïcité : elle se dispute sur sa définition, et les deux camps se réclament de la loi de 1905. Certains insistent sur la lutte contre l'emprise religieuse, d'autres sur la liberté de conscience et la lutte contre les discriminations. Des auteurs de gauche dénoncent eux-mêmes l'antisémitisme et les violences faites aux femmes liés à la prédication islamiste : le débat existe, il n'y a pas de démission.",
+    indecis: "Il est vrai que la gauche est divisée sur la laïcité, et ces débats peuvent donner une impression de flou. Mais la loi de 1905 garantit à la fois la neutralité de l'État et la liberté de conscience, et chaque tendance défend l'un de ces deux piliers. On peut juger chaque position sur pièces plutôt que d'accuser toute la gauche.",
+  },
+  'gauche-nation-debats': {
+    convaincus: "Dans la tradition républicaine, le citoyen est justement celui qui contrôle le pouvoir : critiquer un gouvernement, ce n'est pas trahir la France. Jaurès aimait son pays et a été assassiné en 1914 par un nationaliste. Et la gauche a aussi eu ses souverainistes, comme Chevènement contre Maastricht.",
+    indecis: "On peut aimer profondément son pays et critiquer ceux qui le gouvernent : c'est même le principe de la démocratie. La gauche a toujours débattu de la nation, entre internationalisme et défense de la souveraineté républicaine. Aimer la France ne veut pas dire tout approuver.",
+  },
+  'islamo-gauchisme-origine-usages': {
+    convaincus: "Le CNRS a dit en 2021 que « l'islamo-gauchisme » ne correspond à aucune réalité scientifique. Un chercheur du CNRS a analysé 230 millions de tweets : le mot était porté surtout par des comptes d'extrême droite avant que des ministres ne le reprennent. Si tu as un fait précis, une alliance précise, parlons-en ; mais un mot fourre-tout ne prouve rien.",
+    indecis: "Il existe des questions réelles, comme des alliances ponctuelles ou l'antisémitisme, et on a le droit de les poser. Mais le terme « islamo-gauchisme » les transforme en accusation globale : le CNRS juge qu'il n'a pas de réalité scientifique. Mieux vaut examiner les faits un par un.",
+  },
+  'lfi-antisemite': {
+    convaincus: "Il ne s'agit pas d'absoudre : certaines déclarations ont été jugées graves, y compris par des socialistes, et Mélenchon a eu tort de parler d'antisémitisme « résiduel » quand les actes explosaient. Mais une étiquette globale ne remplace pas l'examen de chaque propos. La lutte contre l'antisémitisme mérite mieux que des accusations de camp.",
+    indecis: "Le sujet est sérieux et ne se règle ni par une absolution ni par une étiquette. Des propos de dirigeants de LFI ont choqué jusqu'à gauche, notamment après le 7 octobre 2023, tandis que LFI rejette toute accusation d'antisémitisme. Critiquer le gouvernement israélien n'est pas antisémite, mais chaque déclaration doit être examinée pour ce qu'elle dit.",
+  },
+  'lfi-communautarisme': {
+    convaincus: "Lis le programme de LFI : il propose de « combattre les communautarismes et l'usage politique des religions » et même de supprimer le financement public des cultes en Alsace-Moselle. On peut critiquer la participation de Mélenchon à la marche de 2019, beaucoup à gauche l'ont fait. Mais dire que LFI veut le communautarisme, c'est le contraire de ce qu'elle écrit.",
+    indecis: "La position de Jean-Luc Mélenchon a évolué, du soutien à l'interdiction du voile à l'école en 2004 à la marche contre l'islamophobie en 2019, et ce changement est discuté. Le programme officiel, lui, s'oppose aux communautarismes. On peut juger sur les textes et sur les actes, en gardant les deux en tête.",
+  },
+  'melenchon-agressif': {
+    convaincus: "Oui, certains épisodes sont réels et critiquables : il a été condamné en 2019 pour rébellion et provocation, et il a eu des mots blessants contre des journalistes. Je ne vais pas le défendre là-dessus. Mais son ton ne dit rien de ses propositions : le SMIC, les retraites ou les services publics se jugent sur le fond.",
+    indecis: "Il est normal d'être gêné par certains de ses propos ; plusieurs épisodes d'agressivité sont documentés, et même son camp parle de conflictualité assumée. On peut reconnaître ces faits et regarder quand même le programme sur le fond. Le style d'un dirigeant et le contenu d'un projet sont deux questions différentes.",
+  },
+  'melenchon-autoritaire': {
+    convaincus: "La critique est fondée sur la gestion interne : des députés critiques n'ont pas été réinvestis en 2024, et eux-mêmes ont parlé de « purge ». Mais le programme de LFI prévoit une Constituante et un référendum d'initiative citoyenne permettant de révoquer les élus. Un projet autoritaire ne donne pas au peuple le pouvoir de renvoyer ses dirigeants.",
+    indecis: "La façon dont LFI est dirigée pose de vraies questions, et des anciens députés l'ont dénoncée publiquement. En revanche, les propositions institutionnelles du mouvement vont vers plus de contrôle citoyen, pas vers une concentration des pouvoirs. Il faut distinguer le fonctionnement d'un parti et ce qu'il propose pour le pays.",
+  },
+  'melenchon-change-avis': {
+    convaincus: "C'est vrai : il a soutenu Maastricht en 1992 puis milité pour le « non » en 2005, et sa position sur l'islamophobie a changé. Mais changer d'avis en tirant les leçons de l'expérience n'est pas un défaut ; beaucoup de responsables l'ont fait. La vraie question, c'est de savoir si le changement est expliqué et cohérent.",
+    indecis: "Ses évolutions sont réelles et documentées, notamment sur l'Europe et sur la laïcité. Changer d'avis peut être une preuve de sincérité ou d'opportunisme, et les avis divergent. Le plus utile est de comparer ce qu'il propose aujourd'hui avec ses raisons.",
+  },
+  'patriotisme-nationalisme': {
+    convaincus: "Aimer la France, ce n'est pas le monopole de la droite. Orwell distinguait le patriotisme, l'attachement à un lieu et à un mode de vie qu'on ne veut imposer à personne, du nationalisme, qui est une volonté de puissance. Et la République se définit par la démocratie, la laïcité et le social, pas par l'origine.",
+    indecis: "On peut être profondément attaché à son pays sans être nationaliste. La Constitution définit la France comme une République « indivisible, laïque, démocratique et sociale », un projet politique ouvert à tous ses citoyens. Le patriotisme de gauche, c'est l'attachement à ce projet commun.",
+  },
+  'statistiques-prouvent-insecurite-immigration': {
+    convaincus: "Oui, les étrangers sont surreprésentés parmi les mis en cause, 18 % pour 7 % de la population en 2019 : je ne le nie pas. Mais ces chiffres comptent des suspects, pas des coupables, et ne tiennent compte ni de l'âge, ni du sexe, ni de la pauvreté. Une surreprésentation n'est pas une preuve que l'immigration cause l'insécurité.",
+    indecis: "La surreprésentation des étrangers dans les statistiques est réelle, et il est légitime de s'interroger. Mais les statistiques montrent une association, pas une cause : jeunes hommes pauvres et quartiers défavorisés pèsent beaucoup. Les études qui tiennent compte de ces facteurs trouvent un effet limité.",
+  },
 };

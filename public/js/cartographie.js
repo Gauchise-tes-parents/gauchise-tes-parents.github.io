@@ -183,6 +183,21 @@ export const CA_CONCEPTS = {
   // fiches quotidiennes (8 novembre 2026, passage de 12 h 13)
   vendee: { label: 'Guerres de Vendée', central: true, motifs: ['\\bvendee\\b', '\\bvendeens?\\b', 'colonnes infernales', 'genocide vendeen'] },
   bio: { label: 'Agriculture biologique', central: true, motifs: ['\\bbio\\b', 'agriculture biologique', 'produits biologiques', 'label ab'] },
+  // fiches quotidiennes (8 novembre 2026, passage de 20 h 14)
+  remigration: { label: 'Remigration', central: true, motifs: ['remigration', 'remigrer', 'reunion de potsdam', 'ministere de la remigration'] },
+  paris_dette: { label: 'Dette de la Ville de Paris', central: true, motifs: ['(dette|endettement|finances) (de |de la )?(ville de )?paris', 'paris (est |serait )?(ruinee?|endettee?|en faillite)', 'hidalgo .*(dette|ruine|faillite)'] },
+  gratuite_transports: { label: 'Gratuité des transports', central: true, motifs: ['gratuite des transports', 'transports? (en commun |publics? )?gratuits?', 'bus gratuits?', 'gratuite (des|du) (bus|tram|metro)'] },
+  danemark: { label: 'Le modèle danois', central: true, motifs: ['\\bdanemark\\b', '\\bdanois(e|es)?\\b', 'frederiksen'] },
+  notre_dame: { label: 'Incendie de Notre-Dame', central: true, motifs: ['notre ?dame'] },
+  halal: { label: 'Viande halal', central: true, motifs: ['\\bhalal\\b', 'abattage rituel'] },
+  gens_voyage: { label: 'Gens du voyage', central: true, motifs: ['gens du voyage', 'aires? d accueil', '\\bgitans?\\b'] },
+  trou_secu: { label: 'Déficit de la Sécurité sociale', central: true, motifs: ['trou de la secu\\w*', 'deficit de la (secu|securite sociale)', '\\bsecu\\b .*(intenable|faillite|deficit)'] },
+  dette_social: { label: 'Dette et dépenses sociales', central: true, motifs: ['dette .*(depenses sociales|aides sociales|prestations sociales|social)', '(depenses sociales|aides sociales) .*dette'] },
+  ukraine_corruption: { label: 'Aide à l’Ukraine et corruption', central: true, motifs: ['ukrain\\w* .*(corruption|corrompu\\w*|detourn\\w*)', '(corruption|detourn\\w*) .*ukrain\\w*', 'zelensky .*yachts?'] },
+  profs_agresses: { label: 'Violence à l’école', central: true, motifs: ['(profs?|professeurs?|enseignants?) .*(agress\\w*|frapp\\w*|menac\\w*)', 'ecole .*(violente|violence)', 'violence (a l |scolaire)'] },
+  chemtrails: { label: 'Chemtrails', central: true, motifs: ['chemtrails?', 'trainees? (blanches? )?(des |d )?avions?', 'trainees? de condensation'] },
+  taxe_fonciere: { label: 'Taxe foncière', central: true, motifs: ['taxe fonciere', 'foncier bati'] },
+  elus_agresses: { label: 'Agressions d’élus', central: true, motifs: ['(elus?|maires?) .*(agress\\w*|menac\\w*|frapp\\w*)', '(agressions?|violences?|menaces?|atteintes?) (d |des |contre (les |des )?)(elus?|maires?)'] },
 };
 
 // ─── Domaines (v12) ────────────────────────────────────────────────────────
@@ -219,6 +234,7 @@ export const CA_DOMAINES = {
   aide_afrique: ['international'], rsa_heures: ['social'], jeunes_travail: ['social'], pa_baisse: ['economie'], hopital_admin: ['services'], aides_entreprises: ['economie'], isf: ['economie'],
   rn_riches: ['politique', 'economie'], blocage_prix: ['economie'], ecole_privee: ['services'], meres_voilees: ['droits'], conseil_constit: ['politique'], rn_rempart: ['politique', 'droits'], pollution_air: ['ecologie'],
   vendee: ['international'], bio: ['ecologie', 'economie'],
+  remigration: ['immigration', 'politique'], paris_dette: ['economie'], gratuite_transports: ['services'], danemark: ['immigration', 'international'], notre_dame: ['politique'], halal: ['droits'], gens_voyage: ['droits'], trou_secu: ['economie', 'services'], dette_social: ['economie'], ukraine_corruption: ['international'], profs_agresses: ['services'], chemtrails: ['politique', 'ecologie'], taxe_fonciere: ['economie'], elus_agresses: ['securite'],
   rocard: ['immigration'], centenaires: ['social'], profs_temps: ['services'], vote_etrangers: ['politique', 'immigration'], racisme_blanc: ['immigration', 'droits'], excuse_minorite: ['securite'],
   smic_europe: ['economie', 'social'], neonics: ['ecologie'], bassines: ['ecologie'], lfi_poutine: ['politique', 'international'], abaya: ['droits', 'services'], uniforme: ['services'], sixieme_rep: ['politique'], suede: ['international', 'securite'],
 };
@@ -228,6 +244,37 @@ export const CA_DOMAINES = {
 // signaux : formulations typiques (bonus) ; fiches : fiches qui répondent réellement, par ordre de pertinence ;
 // choisir : départage entre fiches selon des mots (facultatif) ; exclues : fiches voisines à ne PAS donner comme réponse.
 export const CA_ARGUMENTS = [
+  // fiches quotidiennes (8 novembre 2026, passage de 20 h 14) — placées en tête : concepts très spécifiques
+  { id: 'remigration', label: 'Remigration', famille: 'Immigration', tous: ['remigration'], fiches: ['remigration-realisable'],
+    implicite: 'On pourrait faire partir massivement les immigrés et leurs descendants.', verifier: 'Ce que recouvre le mot, le droit de la nationalité, la CEDH et le nombre réel d’éloignements.' },
+  { id: 'paris_dette', label: 'Dette de la Ville de Paris', famille: 'Économie', tous: ['paris_dette'], fiches: ['paris-dette-gestion'],
+    implicite: 'La gauche aurait ruiné Paris.', verifier: 'L’évolution de la dette, la capacité de désendettement et ce qu’est une faillite pour une collectivité.' },
+  { id: 'gratuite_transports', label: 'Gratuité des transports', famille: 'Services publics', tous: ['gratuite_transports'], fiches: ['gratuite-transports-irrealiste'],
+    implicite: 'La gratuité des transports serait une promesse impossible.', verifier: 'Les réseaux déjà gratuits, la part de la billetterie et l’avis de la Cour des comptes.' },
+  { id: 'danemark_immigration', label: 'Le modèle danois et l’immigration', famille: 'Immigration', tous: ['danemark', 'immigration'], fiches: ['danemark-gauche-frontieres'],
+    implicite: 'La gauche danoise aurait fermé les frontières avec succès.', verifier: 'Les contrôles Schengen notifiés, les chiffres de l’asile et la composition du gouvernement.' },
+  { id: 'danemark', label: 'Le modèle danois', famille: 'Immigration', tous: ['danemark'], fiches: ['danemark-gauche-frontieres'],
+    implicite: 'La gauche danoise aurait fermé les frontières avec succès.', verifier: 'Les contrôles Schengen notifiés, les chiffres de l’asile et la composition du gouvernement.' },
+  { id: 'notre_dame', label: 'Incendie de Notre-Dame', famille: 'Désinformation', tous: ['notre_dame'], fiches: ['notre-dame-incendie-attentat'],
+    implicite: 'On cacherait un attentat.', verifier: 'Ce que dit l’enquête judiciaire depuis 2019.' },
+  { id: 'halal', label: 'Viande halal', famille: 'Laïcité', tous: ['halal'], aucun: ['cantine'], fiches: ['halal-finance-islamisme'],
+    implicite: 'Acheter halal financerait l’islamisme.', verifier: 'L’organisation de la certification et le rapport du Sénat sur le financement de l’islam.' },
+  { id: 'gens_voyage', label: 'Gens du voyage', famille: 'Droits et égalité', tous: ['gens_voyage'], fiches: ['gens-du-voyage-impots'],
+    implicite: 'Les gens du voyage échapperaient à l’impôt et à la loi.', verifier: 'Leur régime fiscal, le livret de circulation et les aires d’accueil.' },
+  { id: 'trou_secu', label: 'Déficit de la Sécurité sociale', famille: 'Économie', tous: ['trou_secu'], fiches: ['trou-secu-intenable'],
+    implicite: 'Le déficit prouverait que la Sécu est condamnée.', verifier: 'Le déficit rapporté aux dépenses, par branche, et ses causes côté recettes.' },
+  { id: 'dette_social', label: 'Dette et dépenses sociales', famille: 'Économie', tous: ['dette_social'], fiches: ['dette-depenses-sociales'],
+    implicite: 'La dette viendrait des dépenses sociales.', verifier: 'La part de la dette sociale, le coût des crises et des baisses d’impôts.' },
+  { id: 'ukraine_corruption', label: 'Aide à l’Ukraine et corruption', famille: 'International', tous: ['ukraine_corruption', 'ukraine'], fiches: ['ukraine-aide-corruption'],
+    implicite: 'L’aide à l’Ukraine serait détournée.', verifier: 'Les fact-checks des rumeurs, les rapports de contrôle et les enquêtes anticorruption.' },
+  { id: 'profs_agresses', label: 'Violence à l’école', famille: 'Services publics', tous: ['profs_agresses'], fiches: ['profs-agresses-ecole-violente'],
+    implicite: 'L’école serait devenue un lieu de violence quotidienne.', verifier: 'Les enquêtes du ministère sur les incidents graves et le vécu des personnels.' },
+  { id: 'chemtrails', label: 'Chemtrails', famille: 'Désinformation', tous: ['chemtrails'], fiches: ['chemtrails-trainees-avions'],
+    implicite: 'Les avions répandraient des produits chimiques en secret.', verifier: 'La physique des traînées de condensation et l’avis des spécialistes de l’atmosphère.' },
+  { id: 'taxe_fonciere', label: 'Taxe foncière', famille: 'Économie', tous: ['taxe_fonciere'], fiches: ['taxe-fonciere-maires'],
+    implicite: 'Les maires seraient responsables de la hausse de la taxe foncière.', verifier: 'La part de la revalorisation des bases et celle des taux votés.' },
+  { id: 'elus_agresses', label: 'Agressions d’élus', famille: 'Sécurité', tous: ['elus_agresses'], fiches: ['agressions-elus-locaux'],
+    implicite: 'Les agressions d’élus exploseraient.', verifier: 'L’évolution année par année et la nature des atteintes.' },
   // fiches quotidiennes (8 novembre 2026, passage de 12 h 13) — placées en tête : concepts très spécifiques
   { id: 'bio', label: 'Agriculture biologique', famille: 'Écologie et agriculture', tous: ['bio'], fiches: ['bio-arnaque'],
     implicite: 'Le bio serait une arnaque commerciale.', verifier: 'Les contrôles du label, les études de santé et l’avis de la Cour des comptes.' },

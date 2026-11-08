@@ -1,0 +1,211 @@
+{
+  "id": "dette-depenses-sociales",
+  "type": "idee_recue",
+  "affirmation": "La dette publique vient des dépenses sociales excessives.",
+  "volet": "economie",
+  "sous_theme": "Dette publique",
+  "rubriques": [],
+  "mots_cles": [
+    "dette publique depenses sociales",
+    "dette a cause des depenses sociales",
+    "dette vient du social",
+    "dette a cause de l assistanat",
+    "origine de la dette",
+    "pourquoi la dette",
+    "dette due aux aides sociales"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La dette publique atteint 3 460 Md€ fin 2025, dont 293 Md€ pour les administrations de sécurité sociale. Elle s'explique par des déficits répétés, les crises (Covid : +16 points de PIB entre 2019 et 2021, inflation) et des baisses d'impôts non compensées par des économies. Les dépenses publiques sont élevées et les administrations sociales ont dépassé leurs objectifs, mais tout attribuer aux « dépenses sociales » est réducteur.",
+  "contexte": "L'argument sert à justifier des coupes dans les prestations sociales comme seul moyen de réduire la dette.",
+  "explication": "La dette résulte de l'écart cumulé entre recettes et dépenses : il faut regarder les deux côtés, et les chocs extérieurs.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, la dette publique atteint 3 460,5 Md€ fin 2025 (115,7 % du PIB) ; celle des administrations de sécurité sociale est de 293,1 Md€.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La dette sociale représente moins d'un dixième de la dette publique.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "3 460,5 Md€"
+    },
+    {
+      "fait": "Selon le premier président de la Cour des comptes, la dette dépassait en 2021 de 16 points de PIB son niveau de 2019, et la hausse des recettes a été freinée par d'importantes baisses d'impôts en 2021 et 2022.",
+      "periode": "2019-2022",
+      "perimetre": "France",
+      "explication": "La crise sanitaire et les baisses d'impôts ont pesé lourd.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "16 points de PIB"
+    },
+    {
+      "fait": "Selon François Ecalle, la suppression de la taxe d'habitation coûte 18 Md€ par an, la baisse de l'impôt sur les sociétés 11 Md€ et celle des impôts de production 10 Md€, sans que les économies prévues aient été réalisées.",
+      "periode": "2017-2021",
+      "perimetre": "France",
+      "explication": "Des baisses d'impôts non financées ont creusé les déficits.",
+      "source": 4,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Le Sénat estime que trois quarts du dérapage du déficit en 2024 s'expliquent par des recettes plus faibles que prévu, soit 41,5 Md€ manquants.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le dérapage récent vient surtout des recettes.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "41,5 Md€"
+    },
+    {
+      "fait": "D'après la Cour des comptes, l'État a respecté ses objectifs de dépense en 2023, contrairement aux administrations sociales.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les dépenses sociales ont aussi dérapé : c'est un fait défavorable.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Insee, les dépenses publiques représentent 57,3 % du PIB et les charges d'intérêts de la dette 64,7 Md€ en 2025.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les dépenses sont élevées et la charge de la dette augmente.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "57,3 % du PIB"
+    }
+  ],
+  "argumentaires": {
+    "court": "La dette sociale pèse moins de 10 % de la dette publique. La dette vient de déficits répétés, des crises comme le Covid et de baisses d'impôts non financées. Les dépenses comptent aussi, mais accuser seulement le social, c'est oublier la moitié des comptes.",
+    "moyen": "Selon l'Insee, la dette publique atteint 3 460 Md€ fin 2025, dont 293 Md€ pour les administrations de sécurité sociale. La crise du Covid a ajouté 16 points de PIB entre 2019 et 2021, selon la Cour des comptes.\n\nDu côté des recettes, les baisses d'impôts ont pesé : selon François Ecalle, la suppression de la taxe d'habitation coûte 18 Md€ par an, la baisse de l'impôt sur les sociétés 11 Md€, sans les économies promises. En 2024, le Sénat attribue trois quarts du dérapage à des recettes plus faibles que prévu. Les dépenses publiques sont élevées et les administrations sociales ont dépassé leurs objectifs : il faut le dire. Mais la dette est un écart entre recettes et dépenses, pas le seul fait du social.",
+    "detaille": "La dette publique, c'est l'accumulation des déficits. Fin 2025, elle atteint 3 460,5 Md€ selon l'Insee, soit 115,7 % du PIB. La part des administrations de sécurité sociale est de 293 Md€ : l'essentiel de la dette est celle de l'État.\n\nTrois facteurs ressortent des sources lues. D'abord les crises : selon le premier président de la Cour des comptes, la dette a gagné 16 points de PIB entre 2019 et 2021. Ensuite les recettes : la Cour relève d'importantes baisses d'impôts en 2021 et 2022, et François Ecalle chiffre la suppression de la taxe d'habitation à 18 Md€ par an, la baisse de l'impôt sur les sociétés à 11 Md€, celle des impôts de production à 10 Md€, en notant que les économies prévues « n'ont pas été réalisées ». En 2024, le Sénat attribue trois quarts du dérapage du déficit à des recettes plus faibles que prévu.\n\nEnfin les dépenses : elles atteignent 57,3 % du PIB, et la Cour constate qu'en 2023 les administrations sociales n'ont pas tenu leurs objectifs. Les intérêts de la dette (64,7 Md€ en 2025) augmentent vite. Le débat honnête porte donc sur l'équilibre entre recettes et dépenses, pas sur un coupable unique.",
+    "empathie": "La dette inquiète, à juste titre : ses intérêts coûtent de plus en plus cher. Justement, la réduire suppose de regarder toutes ses causes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les dépenses sociales sont le premier poste du budget.",
+      "reponse": "C'est vrai qu'elles sont le premier poste, mais la dette vient de l'écart entre recettes et dépenses ; les baisses d'impôts non financées y ont contribué."
+    },
+    {
+      "objection": "Sans le Covid, il n'y aurait pas de problème.",
+      "reponse": "Le Covid a beaucoup pesé, mais les déficits existaient avant et ont continué ensuite."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la dette de la Sécurité sociale représente moins d'un dixième de la dette publique ?",
+    "Pour réduire la dette, faut-il seulement couper des dépenses ou aussi revenir sur certaines baisses d'impôts ?"
+  ],
+  "limites": [
+    "Les montants des baisses d'impôts (Ecalle, 2021) ne s'additionnent pas tels quels et datent de 2021.",
+    "Aucune décomposition officielle de toute la dette par cause n'a été lue ; l'étude de l'OFCE sur les crises n'a pas pu être ouverte.",
+    "Le chiffre de 60 Md€ de recettes perdues avancé par un député LFI n'a pas été retenu, faute de source institutionnelle."
+  ],
+  "sources": [
+    {
+      "titre": "Le compte des administrations publiques en 2025 (Insee Première n° 2106)",
+      "organisme": "Insee",
+      "date_publication": "29 mai 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8997691",
+      "passage": "Le déficit public est de 152,5 Md€ (5,1 % du PIB) en 2025 et la dette publique de 3 460,5 Md€ (115,7 % du PIB). Les administrations de sécurité sociale sont en déficit de 6,7 Md€ en comptabilité nationale (contre +1,1 Md€ en 2024) et leur dette atteint 293,1 Md€. Les prélèvements obligatoires représentent 43,6 % du PIB, les dépenses publiques 57,3 %. Les charges d'intérêts atteignent 64,7 Md€ (+11,2 %).",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Débat sur le rapport public annuel de la Cour des comptes (compte rendu analytique)",
+      "organisme": "Sénat (intervention de Pierre Moscovici, premier président de la Cour des comptes)",
+      "date_publication": "24 février 2022",
+      "url": "https://www.senat.fr/cra/s20220224/s20220224_1.html",
+      "passage": "La dette atteint « 113 points de PIB, elle dépasse de 16 points son niveau de 2019 ». La hausse des recettes a été freinée par « d'importantes baisses d'impôts en 2021 et 2022 » ; les prélèvements obligatoires passent de 44,5 % du PIB en 2020 à 43,4 % en 2022.",
+      "pertinence": "Parole officielle du premier président de la Cour des comptes ; donnée datée (2022).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Finances publiques : les sévères mises en garde de la Cour des comptes",
+      "organisme": "Localtis / Banque des Territoires (Claire Mallet, avec l’AFP)",
+      "date_publication": "15 juillet 2024",
+      "url": "https://www.banquedesterritoires.fr/finances-publiques-les-severes-mises-en-garde-de-la-cour-des-comptes",
+      "passage": "Les finances publiques ont été « malmenées par les crises sanitaire et inflationniste » ; la dette est « emportée par la réitération des déficits et par son poids ». Des mesures qui « dégradent de façon pérenne le déficit public » coûtent 6,7 Md€ : suppression de la taxe d'habitation (2,5 Md€) et réduction de la CVAE (4,2 Md€). En 2023, les hausses de taux de taxe foncière (+1,8 Md€) sont les principales hausses discrétionnaires de prélèvements ; les dépenses de fonctionnement des collectivités ont dépassé les objectifs d'environ 2 Md€. L'État a respecté ses objectifs de dépense, contrairement aux administrations sociales.",
+      "pertinence": "Service d'information des collectivités (Caisse des dépôts), qui rend compte d'un rapport de la Cour des comptes.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Dégradation des finances publiques : octobre 2023 – septembre 2024 (synthèse)",
+      "organisme": "Sénat, commission des finances (rapporteur Jean-François Husson, président Claude Raynal)",
+      "date_publication": "19 novembre 2024",
+      "url": "https://conferenceconsensuslogement.senat.fr/rap/r24-153/r24-153-syn.pdf",
+      "passage": "« Trois quarts de l'écart par rapport à la prévision s'expliquent par des recettes moins élevées que prévu. » Le manque de recettes atteint 41,5 Md€ en 2024 ; l'élasticité fiscale prévue était de 1,1, elle a été de 0,71. Les dépenses locales ont dépassé la prévision de 13,4 Md€.",
+      "pertinence": "Rapport sénatorial transpartisan (site miroir du Sénat) ; il porte sur le dérapage 2023-2024.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Quinquennat Macron : le grand décryptage (fiscalité)",
+      "organisme": "Institut Montaigne (François Ecalle, ancien magistrat de la Cour des comptes)",
+      "date_publication": "août 2021",
+      "url": "https://www.institutmontaigne.org/ressources/pdfs/publications/quinquennat-macron-le-gd-decryptage-fiscalite.pdf",
+      "passage": "La suppression de la taxe d'habitation a vu son coût « porté à 18 Mds€ par an » ; la baisse de l'impôt sur les sociétés est « évaluée à 11 Mds€ » ; les impôts de production baissent de 10 Md€ par an ; le remplacement de l'ISF par l'IFI coûte « environ 3,8 Mds€ ». La baisse des prélèvements « devait s'accompagner d'économies budgétaires suffisantes pour réduire le déficit public », mais ces économies « n'ont pas été réalisées ».",
+      "pertinence": "Auteur reconnu publié par un think tank libéral (orientation à signaler) ; donnée de 2021.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Comptes nationaux 2026.",
+  "objections_legitimes": [
+    "Les dépenses publiques sont parmi les plus élevées d'Europe.",
+    "Les administrations sociales ont dépassé leurs objectifs de dépense en 2023."
+  ],
+  "publics": {
+    "convaincus": "Selon l'Insee, la dette de la Sécu, c'est 293 milliards sur 3 460 : moins d'un dixième. Le Covid a ajouté 16 points de PIB, et les baisses d'impôts depuis 2017 n'ont pas été compensées par des économies, selon un ancien magistrat de la Cour des comptes. Accuser seulement les aides sociales, c'est regarder la moitié des comptes.",
+    "indecis": "Il est vrai que la France dépense beaucoup et que les administrations sociales ont dépassé leurs objectifs. Mais la dette vient aussi des crises et de recettes plus faibles, notamment après des baisses d'impôts. Les deux côtés du budget doivent être sur la table."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "repartition",
+      "services_publics"
+    ],
+    "mecanismes": "Accuser seulement les dépenses sociales permet de faire oublier les baisses d’impôts non financées et le coût des crises.",
+    "consequences": "Les coupes dans le social frappent les ménages modestes, alors que les baisses d’impôts ont surtout bénéficié aux entreprises et aux plus aisés.",
+    "democratie": "Le débat budgétaire doit porter sur les deux colonnes du budget, recettes et dépenses, devant les citoyens.",
+    "propositions": [
+      "Revenir sur les baisses d’impôts les moins efficaces.",
+      "Évaluer chaque dépense publique sur son utilité sociale."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les dépenses publiques sont élevées et les administrations sociales ont dépassé leurs objectifs.",
+        "integration": "Le reconnaître et refuser qu’on n’agisse que sur les dépenses."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "dette_social",
+      "label": "Dette et dépenses sociales"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "dette",
+    "dette_social"
+  ]
+}

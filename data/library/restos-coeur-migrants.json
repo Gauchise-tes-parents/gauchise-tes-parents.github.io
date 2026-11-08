@@ -163,11 +163,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "prestations",
-    "pauvrete"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -183,5 +178,10 @@
     "apl",
     "minima sociaux",
     "assistanat"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "pauvrete"
   ]
 }

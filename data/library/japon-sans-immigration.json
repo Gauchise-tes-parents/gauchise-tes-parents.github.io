@@ -191,10 +191,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "europe"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -206,5 +202,9 @@
     "ils prennent nos",
     "bruxelles",
     "union europeenne"
+  ],
+  "concepts": [
+    "immigration",
+    "europe"
   ]
 }

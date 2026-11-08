@@ -194,11 +194,6 @@
       }
     ]
   },
-  "concepts": [
-    "gauche",
-    "ecologie",
-    "cantine"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -213,5 +208,10 @@
     "nucleaire",
     "restauration scolaire",
     "sans porc"
+  ],
+  "concepts": [
+    "gauche",
+    "ecologie",
+    "cantine"
   ]
 }

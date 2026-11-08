@@ -181,10 +181,6 @@
       }
     ]
   },
-  "concepts": [
-    "patriotisme",
-    "fn_parti"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -198,5 +194,9 @@
     "rn",
     "rassemblement national",
     "le pen"
+  ],
+  "concepts": [
+    "patriotisme",
+    "fn_parti"
   ]
 }

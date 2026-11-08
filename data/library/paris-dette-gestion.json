@@ -1,0 +1,209 @@
+{
+  "id": "paris-dette-gestion",
+  "type": "idee_recue",
+  "affirmation": "Paris est ruinée par la gestion de la gauche, sa dette a explosé.",
+  "volet": "economie",
+  "sous_theme": "Dette publique",
+  "rubriques": [],
+  "mots_cles": [
+    "dette de paris",
+    "paris ruinee",
+    "hidalgo dette",
+    "ville de paris dette",
+    "gestion de paris",
+    "paris endettee",
+    "faillite de paris"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La dette de Paris a réellement beaucoup augmenté : 4,2 Md€ en 2014, 8,7 Md€ fin 2024 et 9,4 Md€ fin 2025 selon la Ville. La dette par habitant est environ quatre fois la moyenne des grandes villes selon l'Institut Montaigne, et la capacité de désendettement s'est fortement dégradée en 2024. Mais Paris n'est pas « ruinée » : aucune loi ne plafonne la dette locale, une collectivité qui rembourse n'est pas en faillite, et l'épargne brute est remontée en 2025.",
+  "contexte": "La dette de Paris est un thème central des critiques contre Anne Hidalgo et la gauche parisienne.",
+  "explication": "Il faut distinguer l'ampleur de la hausse, qui est réelle, et la notion de « ruine », qui a un sens précis pour une collectivité.",
+  "faits": [
+    {
+      "fait": "Selon l'Institut Montaigne, la dette de Paris était de 4 179 M€ en 2014 et avait augmenté de 62 % dès 2018 pour financer les investissements.",
+      "periode": "2014-2018",
+      "perimetre": "Paris",
+      "explication": "La hausse a commencé tôt dans le mandat.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "4 179 M€"
+    },
+    {
+      "fait": "Selon la Ville de Paris, l'encours de dette atteint 8 700,5 M€ fin 2024 et 9 377,8 M€ fin 2025.",
+      "periode": "2024-2025",
+      "perimetre": "Paris",
+      "explication": "La dette a plus que doublé depuis 2014 : c'est un fait défavorable à la majorité de gauche.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "9 377,8 M€"
+    },
+    {
+      "fait": "Selon l'Institut Montaigne, la dette par habitant est de 4 939 € en 2024, contre 1 097 € en moyenne dans les villes de plus de 100 000 habitants.",
+      "periode": "2024",
+      "perimetre": "Paris",
+      "explication": "Paris est de loin la grande ville la plus endettée par habitant.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "4 939 €"
+    },
+    {
+      "fait": "La Ville indique une durée de désendettement de 32,6 ans en 2024, ramenée à 11,7 ans en 2025 grâce à une épargne brute passée de 266,9 M€ à 800,1 M€.",
+      "periode": "2024-2025",
+      "perimetre": "Paris",
+      "explication": "La situation s'est fortement dégradée en 2024 puis redressée en 2025, selon la Ville.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un professeur de droit public, aucune disposition législative ou constitutionnelle ne limite le niveau d'endettement des collectivités territoriales.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Une dette élevée n'est pas une faillite tant que la collectivité rembourse.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Gouvernement a répondu en 2023 que le niveau d'endettement seul ne rend pas une collectivité « en faillite », tant qu'elle peut rembourser ses emprunts sur ses ressources propres.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La notion de ruine ne s'applique pas à Paris.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La dette de Paris a vraiment explosé : de 4,2 milliards en 2014 à 9,4 milliards fin 2025, et environ quatre fois la moyenne des grandes villes par habitant. Mais Paris n'est pas ruinée : elle rembourse, son épargne est remontée en 2025, et une dette d'investissement n'est pas une faillite.",
+    "moyen": "Il faut le reconnaître : la dette de la Ville de Paris a plus que doublé depuis 2014, de 4,2 à 9,4 milliards d'euros selon ses propres comptes. Par habitant, elle est environ quatre fois supérieure à la moyenne des grandes villes selon l'Institut Montaigne, et la capacité de désendettement s'est fortement dégradée en 2024.\n\nMais « ruinée » est faux. Aucune loi ne plafonne la dette d'une collectivité ; une ville qui rembourse ses emprunts n'est pas en faillite, rappelait le Gouvernement en 2023. Selon la Ville, l'épargne brute a triplé en 2025 et la durée de désendettement est revenue à 11,7 ans. Cette dette a financé des investissements, notamment du logement social, qu'on peut juger utiles ou non : c'est un débat politique, pas une faillite.",
+    "detaille": "Les chiffres de la hausse ne font pas débat. Selon l'Institut Montaigne, l'encours de la Ville était de 4 179 M€ en 2014 et avait déjà augmenté de 62 % en 2018. Selon les comptes de la Ville elle-même, il atteint 8 700 M€ fin 2024 et 9 378 M€ fin 2025. L'Institut Montaigne, avec un périmètre plus large (10,6 Md€), calcule une dette de 4 939 € par habitant, contre 1 097 € en moyenne dans les villes de plus de 100 000 habitants, et juge la capacité de désendettement « préoccupante ».\n\nLa dégradation de 2024 est nette : selon la Ville, il aurait fallu 32,6 ans d'épargne pour rembourser la dette. En 2025, l'épargne brute est passée de 267 M€ à 800 M€ et cette durée est revenue à 11,7 ans, sous l'objectif de 12 ans que la Ville s'est fixé. Ces chiffres sont présentés par l'exécutif municipal et méritent d'être confrontés au rapport de la chambre régionale des comptes.\n\nLe mot « ruinée » ne correspond pas à la réalité juridique. Selon un professeur de droit public, aucune disposition ne plafonne l'endettement des collectivités ; le Gouvernement rappelle qu'une collectivité qui peut rembourser n'est pas en faillite. La question politique demeure : cette dette a-t-elle financé des investissements utiles, comme le logement social, ou des dépenses mal maîtrisées ? Les Parisiens en jugent par leur vote.",
+    "empathie": "Voir la dette d'une ville doubler inquiète légitimement, surtout quand on y paie ses impôts. On peut critiquer cette gestion sans exagérer la situation."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La chambre régionale des comptes a alerté.",
+      "reponse": "Des contrôles ont relevé une épargne faible et une situation dégradée ; c'est une critique sérieuse, mais elle ne parle pas de faillite."
+    },
+    {
+      "objection": "La Ville arrange ses chiffres.",
+      "reponse": "Les comptes de la Ville sont son auto-présentation ; ils concordent cependant avec la hausse décrite par l'Institut Montaigne."
+    }
+  ],
+  "questions": [
+    "Sais-tu qu'une collectivité qui rembourse ses emprunts ne peut pas être en faillite ?",
+    "Qu'est-ce que cette dette a financé, selon toi : des logements, des équipements, du fonctionnement ?"
+  ],
+  "limites": [
+    "Le rapport de la chambre régionale des comptes d'Île-de-France de 2025 n'a pas été lu directement.",
+    "Les montants varient selon le périmètre retenu (8,7 ou 10,6 Md€ pour 2024).",
+    "Le chiffre de 2014 (Institut Montaigne) et ceux de 2024-2025 (Ville) viennent de sources différentes."
+  ],
+  "sources": [
+    {
+      "titre": "Municipales 2020 – Paris",
+      "organisme": "Institut Montaigne",
+      "date_publication": "janvier 2020 (données 2018)",
+      "url": "https://institutmontaigne.org/municipales-2020/paris",
+      "passage": "Encours de dette de 4 179 M€ en 2014, puis 6 773 M€ en 2018, soit 3 039 € par habitant : « Afin de financer les investissements, la dette a fortement augmenté depuis 2014 (+ 62 %) ».",
+      "pertinence": "Think tank libéral (orientation à signaler) ; données des comptes publics.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Bilan financier Paris (Municipales 2026 – Finances locales)",
+      "organisme": "Institut Montaigne",
+      "date_publication": "2026 (comptes 2024)",
+      "url": "https://institutmontaigne.org/municipales-2026-admin/api/download/city-financial/bilan-financier-paris-699dbde50a2a1861924076.pdf",
+      "passage": "Selon le périmètre retenu par l'institut, l'encours atteint 10,6 Md€ en 2024 ; la dette par habitant passe de 1 837 € (2014) à 4 939 € (2024), contre 1 097 € en moyenne dans les villes de plus de 100 000 habitants. La durée de désendettement passe de 9,1 ans en 2014 à 38,3 ans en 2024 : « Cette capacité de désendettement est préoccupante. » La Ville conteste ces chiffres en invoquant un patrimoine de 47 Md€ et une autre méthode.",
+      "pertinence": "Think tank libéral ; périmètre différent du budget général de la Ville.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Compte administratif 2025 – Rapport financier",
+      "organisme": "Ville de Paris",
+      "date_publication": "1er juillet 2026",
+      "url": "https://cdn.paris.fr/paris/2026/07/01/ca-2025-rapport-financier_-gk9Q.pdf",
+      "passage": "Encours de dette au 31 décembre : 8 700,5 M€ en 2024 et 9 377,8 M€ en 2025 (+7,8 %). Épargne brute : 266,9 M€ en 2024 puis 800,1 M€ en 2025. Durée de désendettement : 32,6 ans en 2024, 11,7 ans en 2025, avec l'objectif de la « maintenir en deçà de 12 ans ».",
+      "pertinence": "Document officiel, mais auto-présentation de l'exécutif municipal.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La Ville de Paris peut-elle être mise sous tutelle budgétaire pour mauvaise gestion ?",
+      "organisme": "Le Club des juristes (Aurélien Baudu, professeur à l’Université de Lille)",
+      "date_publication": "12 décembre 2022",
+      "url": "https://www.leclubdesjuristes.com/justice/la-ville-de-paris-peut-elle-etre-mise-sous-tutelle-budgetaire-pour-mauvaise-gestion-654/",
+      "passage": "« Aucune disposition législative ou constitutionnelle ne limite le niveau d'endettement des collectivités territoriales. » La dette seule ne justifie pas une tutelle tant que la règle d'or est respectée. La chambre régionale des comptes relevait déjà une épargne faible et des marges réduites. Sur les loyers capitalisés : « L'insincérité budgétaire ne semble donc pas être manifeste même si la pratique est discutable. »",
+      "pertinence": "Analyse universitaire.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 1311 et réponse du Gouvernement",
+      "organisme": "Assemblée nationale",
+      "date_publication": "réponse publiée au JO le 28 février 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE1311.pdf",
+      "passage": "Le Gouvernement répond que « le niveau d'endettement » seul ne rend pas une collectivité « en faillite », tant qu'elle peut rembourser ses emprunts sur ses ressources propres.",
+      "pertinence": "Réponse ministérielle officielle.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Compte administratif 2026 de la Ville de Paris.",
+  "objections_legitimes": [
+    "La dette de Paris a plus que doublé depuis 2014.",
+    "La dette par habitant est bien supérieure à celle des autres grandes villes."
+  ],
+  "publics": {
+    "convaincus": "La dette de Paris a doublé depuis 2014, je ne le conteste pas, et on peut critiquer cette gestion. Mais ruinée, non : aucune loi ne plafonne la dette d'une ville, et une collectivité qui rembourse n'est pas en faillite. En 2025, selon la Ville, son épargne a triplé.",
+    "indecis": "La forte hausse de la dette parisienne est réelle et mérite des comptes. Mais elle a servi en partie à investir, et la Ville rembourse ses emprunts. Le débat porte sur les choix d'investissement, pas sur une faillite."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "democratie"
+    ],
+    "mecanismes": "Le mot « ruine » transforme un débat sur des choix d’investissement en procès moral contre la gauche.",
+    "consequences": "La dette locale finance des logements, des écoles et des équipements, mais une épargne trop faible limite les marges futures.",
+    "democratie": "Les comptes des collectivités sont contrôlés par les chambres régionales des comptes et jugés par les électeurs.",
+    "propositions": [
+      "Juger la dette au regard de ce qu’elle finance.",
+      "Renforcer l’épargne de la Ville pour préserver sa capacité d’investir."
+    ],
+    "defavorables": [
+      {
+        "fait": "La dette de Paris a plus que doublé depuis 2014.",
+        "integration": "Le reconnaître et rappeler qu’elle reste remboursable."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "paris_dette",
+      "label": "Dette de la Ville de Paris"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire",
+    "dette",
+    "deficit",
+    "faillite",
+    "depenses publiques"
+  ],
+  "concepts": [
+    "gauche",
+    "dette",
+    "paris_dette"
+  ]
+}

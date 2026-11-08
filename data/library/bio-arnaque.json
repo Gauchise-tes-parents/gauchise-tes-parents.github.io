@@ -200,10 +200,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "bio"
-  ],
   "repond_a": [
     {
       "id": "bio",
@@ -216,5 +212,9 @@
     "agriculture biologique",
     "produits biologiques",
     "label ab"
+  ],
+  "concepts": [
+    "ecologie",
+    "bio"
   ]
 }

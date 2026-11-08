@@ -184,11 +184,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "femmes",
-    "asile"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -201,5 +196,10 @@
     "sexisme",
     "patriarcat",
     "droit d asile"
+  ],
+  "concepts": [
+    "immigration",
+    "femmes",
+    "asile"
   ]
 }

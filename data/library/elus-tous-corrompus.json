@@ -190,10 +190,6 @@
       }
     ]
   },
-  "concepts": [
-    "delinquance",
-    "corruption"
-  ],
   "repond_a": [
     {
       "id": "corruption",
@@ -213,5 +209,9 @@
     "pourris",
     "tous les memes",
     "tous pareils"
+  ],
+  "concepts": [
+    "delinquance",
+    "corruption"
   ]
 }

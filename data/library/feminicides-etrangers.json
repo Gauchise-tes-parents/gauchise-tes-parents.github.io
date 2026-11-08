@@ -1,0 +1,190 @@
+{
+  "id": "feminicides-etrangers",
+  "type": "idee_recue",
+  "affirmation": "Les féminicides sont surtout commis par des étrangers.",
+  "volet": "securite",
+  "sous_theme": "Violences intrafamiliales",
+  "rubriques": [],
+  "mots_cles": [
+    "feminicide",
+    "feminicides",
+    "femmes tuees par leur conjoint",
+    "femmes tuees",
+    "morts violentes au sein du couple",
+    "meurtres de femmes etrangers"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Selon l'étude officielle du ministère de l'Intérieur, 84 % des auteurs de morts violentes au sein du couple en 2024 étaient de nationalité française (116 sur 138), et 77 % en 2023. Les auteurs étrangers sont surreprésentés par rapport à leur part dans la population (16 à 23 % des auteurs pour 8,8 % de la population), mais ils sont loin d'être majoritaires. Le profil type est un homme de nationalité française, souvent sans activité professionnelle, qui tue lors d'une dispute ou d'une séparation refusée.",
+  "contexte": "Après certains meurtres médiatisés, l'idée que les violences faites aux femmes seraient « importées » circule pour détourner le débat des violences conjugales.",
+  "explication": "Le ministère publie chaque année la nationalité des auteurs de morts violentes au sein du couple : c'est la donnée la plus directe.",
+  "faits": [
+    {
+      "fait": "En 2024, 107 femmes et 31 hommes ont été tués par leur conjoint ou ex-conjoint, soit 138 morts.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les violences conjugales mortelles augmentent.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "107 femmes"
+    },
+    {
+      "fait": "En 2024, 116 auteurs sur 138 (84 %) étaient de nationalité française et 22 (16 %) de nationalité étrangère.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La grande majorité des auteurs sont français.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "84 %"
+    },
+    {
+      "fait": "En 2023, 92 auteurs sur 119 (77 %) étaient de nationalité française et 27 (23 %) de nationalité étrangère.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le constat est le même d'une année sur l'autre.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "77 %"
+    },
+    {
+      "fait": "Les étrangers représentent 8,8 % de la population en 2024 selon l'Insee.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les auteurs étrangers sont surreprésentés par rapport à leur poids dans la population : c'est un fait à reconnaître.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "8,8 %"
+    },
+    {
+      "fait": "En 2024, 75 % des auteurs n'exerçaient pas ou plus d'activité professionnelle (61 sans emploi, 43 retraités) ; disputes et séparations non acceptées sont les causes principales.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les facteurs sociaux et la rupture pèsent lourd.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "75 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : selon le ministère de l'Intérieur, 84 % des auteurs de morts violentes au sein du couple en 2024 étaient français. Les étrangers sont surreprésentés par rapport à leur poids dans la population, mais le féminicide est d'abord une violence conjugale, pas une affaire d'origine.",
+    "moyen": "Le ministère de l'Intérieur publie chaque année une étude sur les morts violentes au sein du couple. En 2024, 107 femmes ont été tuées par leur conjoint ou ex-conjoint. Sur 138 auteurs, 116 étaient français, soit 84 %. En 2023, c'était 77 %.\n\nIl faut être honnête : les étrangers représentent 16 à 23 % des auteurs selon les années, alors qu'ils forment 8,8 % de la population. Ils sont donc surreprésentés, comme dans d'autres statistiques pénales où l'âge et la précarité jouent. Mais dire que les féminicides sont « surtout » le fait d'étrangers est faux. Le profil type est un homme français, souvent sans emploi ou retraité, qui tue lors d'une dispute ou d'une séparation qu'il refuse.",
+    "detaille": "Les chiffres viennent de l'étude nationale de la Délégation aux victimes du ministère de l'Intérieur. En 2024, 138 personnes ont été tuées par leur conjoint ou ex-conjoint, dont 107 femmes, en hausse de 11 % ; 403 tentatives d'homicide ont aussi été recensées. Sur les 138 auteurs, 116 étaient de nationalité française (84 %) et 22 de nationalité étrangère (16 %). En 2023, la proportion était de 77 % et 23 %.\n\nLa surreprésentation existe : 16 à 23 % des auteurs sont étrangers, pour 8,8 % de la population. La comparaison reste grossière, car elle ne tient compte ni de l'âge, ni du sexe, ni de la situation de couple, et les effectifs sont petits (22 à 27 auteurs), donc les variations annuelles sont fortes. La nationalité ne dit rien non plus de l'origine des auteurs français.\n\nLe portrait qui ressort de l'étude est surtout social et conjugal : 75 % des auteurs n'exercent pas ou plus d'activité professionnelle, 24 % ont 70 ans ou plus, et les principales causes sont les disputes et les séparations non acceptées. Transformer les féminicides en question d'immigration, c'est détourner l'attention de ce qui permet de les prévenir : écouter les plaintes, protéger les femmes qui partent, suivre les hommes violents.",
+    "empathie": "Chaque féminicide est un drame, et la colère qu'il suscite est légitime. Justement, pour protéger les femmes, il faut savoir qui tue et pourquoi."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Parmi les Français, beaucoup sont d'origine étrangère.",
+      "reponse": "L'étude ne donne pas l'origine ; mais la nationalité est la donnée disponible, et elle contredit l'affirmation. Le profil social et conjugal, lui, est bien documenté."
+    },
+    {
+      "objection": "Les médias cachent la nationalité des auteurs.",
+      "reponse": "Le ministère de l'Intérieur la publie chaque année dans une étude officielle."
+    }
+  ],
+  "questions": [
+    "Savais-tu que plus de huit auteurs sur dix de féminicides en 2024 étaient français ?",
+    "Qu'est-ce qui protégerait le mieux les femmes menacées, selon toi ?"
+  ],
+  "limites": [
+    "La nationalité porte sur tous les auteurs de morts au sein du couple, femmes autrices comprises, et non sur les seuls féminicides.",
+    "L'étude ne publie pas de donnée sur l'origine immigrée ni la binationalité.",
+    "La comparaison avec la part des étrangers dans la population n'est pas ajustée selon l'âge et le sexe."
+  ],
+  "sources": [
+    {
+      "titre": "Étude nationale sur les morts violentes au sein du couple, année 2024",
+      "organisme": "Ministère de l'Intérieur, Délégation aux victimes (publié sur Vie publique)",
+      "date_publication": "2025",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/300372.pdf",
+      "passage": "107 femmes et 31 hommes ont été tués au sein du couple en 2024, soit 138 morts. « 116 auteurs sont de nationalité française (soit 84 %) et 22 auteurs de nationalité étrangère (soit 16 %) ». « 75 % n'exercent pas ou plus d'activité professionnelle (61 auteurs sont sans emploi et 43 à la retraite) ». Les 70 ans et plus représentent 24 % des auteurs. « les disputes (43 cas) et les séparations non acceptées (22 cas) sont les causes principales ».",
+      "pertinence": "Étude officielle du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Étude nationale sur les morts violentes au sein du couple, année 2023",
+      "organisme": "Ministère de l'Intérieur, Délégation aux victimes (publié sur Vie publique)",
+      "date_publication": "2024",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/300392_0.pdf",
+      "passage": "96 femmes et 23 hommes ont été tués au sein du couple en 2023, soit 119 morts. « 92 auteurs sont de nationalité française (soit 77 %) et 27 auteurs de nationalité étrangère (soit 23 %) ».",
+      "pertinence": "Étude officielle du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Violences conjugales : 107 femmes tuées par leur conjoint ou ex-conjoint en 2024, une augmentation de 11 %",
+      "organisme": "Public Sénat (Aglaée Marchand)",
+      "date_publication": "31 octobre 2025",
+      "url": "https://www.publicsenat.fr/actualites/societe/violences-conjugales-107-femmes-tuees-par-leur-conjoint-ou-ex-conjoint-en-2024-une-augmentation-de-11",
+      "passage": "138 morts violentes au sein du couple en 2024 contre 119 en 2023 ; les femmes en représentent « 107 (77 %) » ; 403 tentatives d'homicide. Le profil type de l'auteur est « le plus souvent en couple, de nationalité française et n'exerçant pas ou plus d'activité professionnelle », et « majoritairement âgé de 20 à 49 ans ».",
+      "pertinence": "Média parlementaire public.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "En 2024, 6,0 millions d'étrangers vivent en France, 0,9 million y sont nés (Insee Première n° 2076)",
+      "organisme": "Insee",
+      "date_publication": "7 octobre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8651304",
+      "passage": "La France compte 6,0 millions d'étrangers en 2024, soit « 8,8 % de la population », et 7,7 millions d'immigrés, soit 11,3 %. Estimations provisoires.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Étude nationale 2025 sur les morts violentes au sein du couple.",
+  "objections_legitimes": [
+    "Les auteurs étrangers sont surreprésentés par rapport à leur part dans la population.",
+    "Le nombre de femmes tuées a augmenté en 2024."
+  ],
+  "publics": {
+    "convaincus": "Le ministère de l'Intérieur publie la nationalité des auteurs : en 2024, 84 % étaient français, 116 sur 138. Les étrangers sont un peu surreprésentés, je ne le cache pas, mais ils sont loin d'être la majorité. Le profil type, c'est un homme français qui ne supporte pas la séparation.",
+    "indecis": "Les chiffres officiels montrent que la grande majorité des auteurs de féminicides sont français, même si les étrangers sont surreprésentés. Le point commun, ce sont surtout les disputes et les séparations refusées. Protéger les femmes, c'est d'abord agir sur ces situations."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "antiracisme",
+      "vulnerables"
+    ],
+    "mecanismes": "Faire du féminicide une question d’origine permet d’éviter de parler de la domination masculine et de la violence conjugale.",
+    "consequences": "Les femmes menacées ont besoin d’être protégées partout, quelle que soit l’origine de leur conjoint.",
+    "democratie": "Les chiffres officiels sur les auteurs sont publiés chaque année : le débat peut et doit s’appuyer sur eux.",
+    "propositions": [
+      "Renforcer l’accueil des plaintes et les dispositifs de protection des femmes qui partent.",
+      "Suivre les hommes violents et prévenir la récidive."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les auteurs étrangers sont surreprésentés par rapport à leur part dans la population.",
+        "integration": "Le reconnaître et rappeler que la grande majorité des auteurs sont français."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "homicide",
+    "femmes",
+    "feminisme"
+  ]
+}
