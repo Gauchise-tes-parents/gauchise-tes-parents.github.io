@@ -1,0 +1,176 @@
+{
+  "id": "hopital-administratifs-soignants",
+  "type": "idee_recue",
+  "affirmation": "À l'hôpital, il y a plus d'administratifs que de soignants.",
+  "volet": "services",
+  "sous_theme": "Hôpital public",
+  "rubriques": [],
+  "mots_cles": [
+    "administratifs a l hopital",
+    "bureaucratie hospitaliere",
+    "plus d administratifs que de soignants",
+    "personnel administratif",
+    "soignants",
+    "hopital bureaucratie",
+    "non soignants"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Selon la DREES, fin 2024, les établissements de santé comptent 797 151 postes de soignants non médicaux contre 161 924 postes administratifs, soit près de cinq fois plus, sans compter 231 800 postes de médecins, pharmaciens et sages-femmes. Les administratifs représentent environ 14 % des postes non médicaux. La France a en revanche une part de personnels non soignants (administratifs, techniques, agents de service) plus élevée que plusieurs voisins, et la lourdeur administrative est réelle.",
+  "contexte": "La « bureaucratie » hospitalière est souvent accusée d'expliquer la crise de l'hôpital, au détriment des moyens.",
+  "explication": "Les personnels non soignants comprennent les administratifs, mais aussi les techniciens, les agents d'entretien, les cuisiniers ou les brancardiers, sans lesquels un hôpital ne fonctionne pas.",
+  "faits": [
+    {
+      "fait": "Fin 2024, les établissements de santé comptent 797 151 postes de soignants non médicaux et 161 924 postes administratifs.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Il y a près de cinq soignants pour un administratif.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "797 151 contre 161 924"
+    },
+    {
+      "fait": "Dans les hôpitaux publics, on compte 576 868 postes de soignants pour 110 089 postes administratifs.",
+      "periode": "2024",
+      "perimetre": "Hôpitaux publics",
+      "explication": "Le constat vaut aussi pour l'hôpital public.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "S'y ajoutent 231 800 postes de personnel médical ou pharmaceutique, dont 126 800 médecins, odontologistes et pharmaciens salariés et 45 200 internes et docteurs juniors.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les soignants sont encore plus majoritaires.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'OCDE citée par Acteurs publics, la France compte 34 % de personnels non soignants à l'hôpital, dont 14 % d'administratifs, contre 25 % de non-soignants en Allemagne ; l'écart s'explique en partie par l'externalisation chez les voisins.",
+      "periode": "2025",
+      "perimetre": "France et Europe",
+      "explication": "La France a plus de non-soignants que certains voisins.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Acteurs publics, le président de la commission d'enquête du Sénat sur l'hôpital juge que « nous ne sommes pas dans des niveaux à près de 50% de postes de direction et administratifs ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La bureaucratie existe, mais sans commune mesure avec le cliché.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : selon la DREES, il y a près de cinq postes de soignants pour un poste administratif à l'hôpital, sans compter les médecins. La lourdeur administrative est réelle, mais les soignants restent très largement majoritaires.",
+    "moyen": "Les chiffres de la DREES pour 2024 sont nets : 797 151 postes de soignants non médicaux, 161 924 postes administratifs, et en plus 231 800 postes de médecins, pharmaciens et sages-femmes. Les administratifs représentent environ 14 % du personnel non médical.\n\nLa France compte bien plus de personnels non soignants que l'Allemagne selon l'OCDE, mais cela inclut techniciens et agents de service, souvent externalisés ailleurs. La paperasse épuise les équipes, c'est vrai. Mais si l'hôpital manque de bras, c'est d'abord de soignants, pas parce qu'ils seraient minoritaires.",
+    "detaille": "Selon la DREES, au 31 décembre 2024, les établissements de santé comptent 1 170 588 postes de personnel non médical salarié, dont 797 151 soignants, 161 924 administratifs, 123 907 techniques et 65 065 médico-techniques. Dans le public, on compte 576 868 soignants pour 110 089 administratifs. S'ajoutent 231 800 postes médicaux ou pharmaceutiques. Ces chiffres comptent des postes, pas des personnes.\n\nLes comparaisons internationales nuancent le tableau : selon l'OCDE citée par Acteurs publics, les non-soignants représentent 34 % du personnel hospitalier en France, dont 14 % d'administratifs, contre 25 % en Allemagne et en Italie. L'écart s'explique en partie par l'externalisation de services chez nos voisins. À l'AP-HP, les fonctions administratives et de direction représentent 6,8 % des effectifs.\n\nLe président de la commission d'enquête du Sénat sur l'hôpital estime que la France ne se distingue pas fortement de ses voisins, mais un syndicat de directeurs décrit plus de 200 demandes de reporting par an : la lourdeur vient aussi des exigences de l'État.",
+    "empathie": "Beaucoup de soignants se plaignent de passer trop de temps sur des papiers, et ils ont raison. Mais l'idée qu'il y aurait plus de bureaucrates que de soignants ne correspond pas aux chiffres."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il suffit de supprimer des postes administratifs.",
+      "reponse": "Les administratifs gèrent aussi les admissions, la paie ou la facturation ; la lourdeur vient en partie des demandes de reporting de l'État."
+    },
+    {
+      "objection": "L'OCDE dit 34 % de non-soignants.",
+      "reponse": "Ce chiffre inclut techniciens et agents de service ; les administratifs en représentent 14 %."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de soignants il y a pour un administratif à l'hôpital ?",
+    "Qui impose les tâches administratives qui pèsent sur les soignants ?"
+  ],
+  "limites": [
+    "La DREES compte des postes, pas des personnes.",
+    "Les comparaisons de l'OCDE ont été lues à travers la presse spécialisée."
+  ],
+  "sources": [
+    {
+      "titre": "Les postes de personnel non médical salarié (fiche 06, Les établissements de santé en 2024, édition 2026)",
+      "organisme": "DREES",
+      "date_publication": "juillet 2026",
+      "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2026-07/ES%202026%20-%20Fiche%2006%20-%20Les%20postes%20de%20personnel%20non%20m%C3%A9dical%20salari%C3%A9.pdf",
+      "passage": "Au 31 décembre 2024, 1 170 588 postes non médicaux salariés : 797 151 soignants, 161 924 administratifs, 123 907 techniques, 65 065 médico-techniques, 22 541 éducatifs et sociaux. Dans le public : 576 868 soignants pour 110 089 administratifs. La fiche compte des postes, pas des personnes.",
+      "pertinence": "Service statistique ministériel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les postes de personnel médical ou pharmaceutique (fiche 05, Les établissements de santé en 2024, édition 2026)",
+      "organisme": "DREES",
+      "date_publication": "juillet 2026",
+      "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2026-07/ES%202026%20-%20Fiche%2005%20-%20Les%20postes%20de%20personnel%20m%C3%A9dical%20ou%20pharmaceutique.pdf",
+      "passage": "« 231 800 postes de personnel médical ou pharmaceutique » fin 2024 : 126 800 médecins, odontologistes et pharmaciens salariés, 43 000 libéraux, 45 200 internes et docteurs juniors, 16 900 sages-femmes.",
+      "pertinence": "Service statistique ministériel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "À l'hôpital, la guerre des chiffres autour de la place des personnels non soignants",
+      "organisme": "Acteurs publics (Marie Malaterre)",
+      "date_publication": "7 juillet 2025",
+      "url": "https://acteurspublics.fr/articles/a-lhopital-la-guerre-des-chiffres-entre-personnels-soignants-et-non-soignants/",
+      "passage": "Selon l'OCDE, la France compte 34 % de personnels non soignants à l'hôpital, dont 14 % d'administratifs, 10 % de techniques et 9 % d'agents de service ; Belgique 36 %, Allemagne et Italie 25 %, Espagne 24 %, l'écart s'expliquant en partie par l'externalisation chez les voisins. À l'AP-HP, 6,8 % des effectifs relèvent des fonctions administratives et de direction.",
+      "pertinence": "Presse spécialisée du secteur public.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Bernard Jomier : « La bureaucratie à l'hôpital est le fruit d'une mauvaise administration »",
+      "organisme": "Acteurs publics (Bastien Scordia)",
+      "date_publication": "9 juillet 2025",
+      "url": "https://acteurspublics.fr/articles/bernard-jomier-la-bureaucratie-a-lhopital-est-le-fruit-dune-mauvaise-administration/",
+      "passage": "Le président de la commission d'enquête du Sénat sur l'hôpital juge que la France ne se distingue pas fortement de ses voisins : « Nous ne sommes pas dans des niveaux à près de 50% de postes de direction et administratifs dans nos hôpitaux. » Un syndicat de directeurs fait état de plus de 200 demandes de reporting par an.",
+      "pertinence": "Presse spécialisée du secteur public (entretien).",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Nouvelle édition de la DREES sur les établissements de santé.",
+  "objections_legitimes": [
+    "La part des personnels non soignants est plus élevée en France qu'en Allemagne ou en Italie.",
+    "La charge administrative pesant sur les équipes est réelle."
+  ],
+  "publics": {
+    "convaincus": "Selon la DREES, fin 2024, il y a 797 151 postes de soignants pour 161 924 postes administratifs dans les établissements de santé, sans compter les médecins. Près de cinq pour un. La paperasse pèse, mais ce n'est pas les administratifs qui manquent : ce sont les infirmières.",
+    "indecis": "La lourdeur administrative à l'hôpital est réelle, et la France a plus de personnels non soignants que l'Allemagne. Mais les soignants restent très largement majoritaires : près de cinq pour un administratif selon la DREES. Pour améliorer l'hôpital, il faut alléger les procédures et embaucher des soignants."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "travailleurs"
+    ],
+    "mecanismes": "La lourdeur administrative vient en partie des exigences de reporting imposées par l’État et de la tarification à l’activité.",
+    "consequences": "Les soignants passent du temps sur des tâches qui les éloignent des patients.",
+    "democratie": "Les soignants doivent être associés à l’organisation de l’hôpital.",
+    "propositions": [
+      "Embaucher des soignants et alléger les procédures de reporting.",
+      "Sortir l’hôpital de la logique comptable."
+    ],
+    "defavorables": [
+      {
+        "fait": "La part de personnels non soignants est plus élevée en France que dans certains pays voisins.",
+        "integration": "Le reconnaître et rappeler le rôle de l’externalisation dans les comparaisons."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "hopital_admin",
+      "label": "Administratifs et soignants à l’hôpital"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences"
+  ],
+  "concepts": [
+    "services_publics",
+    "hopital_admin"
+  ]
+}

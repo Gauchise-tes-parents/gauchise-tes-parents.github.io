@@ -163,11 +163,6 @@
       }
     ]
   },
-  "concepts": [
-    "delinquance",
-    "justice",
-    "excuse_minorite"
-  ],
   "repond_a": [
     {
       "id": "excuse_minorite",
@@ -188,5 +183,10 @@
     "excuse de minorite",
     "delinquance des mineurs",
     "justice des mineurs"
+  ],
+  "concepts": [
+    "delinquance",
+    "justice",
+    "excuse_minorite"
   ]
 }

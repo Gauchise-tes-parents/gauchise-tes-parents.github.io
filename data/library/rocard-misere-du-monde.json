@@ -149,12 +149,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "pauvrete",
-    "solidarite",
-    "rocard"
-  ],
   "repond_a": [
     {
       "id": "rocard_misere",
@@ -175,5 +169,11 @@
     "aider tout le monde",
     "aider tous les",
     "toute la misere du monde"
+  ],
+  "concepts": [
+    "immigration",
+    "pauvrete",
+    "solidarite",
+    "rocard"
   ]
 }

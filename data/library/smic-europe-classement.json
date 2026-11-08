@@ -143,12 +143,6 @@
       }
     ]
   },
-  "concepts": [
-    "salaires",
-    "europe",
-    "salaire_minimum",
-    "smic_europe"
-  ],
   "repond_a": [
     {
       "id": "smic_europe",
@@ -169,5 +163,11 @@
     "bruxelles",
     "union europeenne",
     "salaire minimum"
+  ],
+  "concepts": [
+    "salaires",
+    "europe",
+    "salaire_minimum",
+    "smic_europe"
   ]
 }

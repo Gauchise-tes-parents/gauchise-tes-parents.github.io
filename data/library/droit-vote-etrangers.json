@@ -160,11 +160,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "gauche",
-    "vote_etrangers"
-  ],
   "repond_a": [
     {
       "id": "vote_etrangers",
@@ -185,5 +180,10 @@
     "lfi",
     "insoumis",
     "mitterrand"
+  ],
+  "concepts": [
+    "immigration",
+    "gauche",
+    "vote_etrangers"
   ]
 }

@@ -1,0 +1,196 @@
+{
+  "id": "rn-regroupement-familial",
+  "type": "idee_recue",
+  "affirmation": "Le RN veut supprimer le regroupement familial.",
+  "volet": "politique",
+  "sous_theme": "Rassemblement national",
+  "rubriques": [],
+  "mots_cles": [
+    "supprimer le regroupement familial",
+    "fin du regroupement familial",
+    "interdire le regroupement familial",
+    "rn regroupement familial",
+    "le pen regroupement familial"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Plutôt vrai : en 2022, Marine Le Pen proposait la fin du regroupement familial, et la proposition de loi constitutionnelle du RN de 2024 prévoit qu'il « peut être limité ou interdit ». Mais son programme des législatives 2024 se limitait à un « durcissement ». Une suppression se heurterait à la Constitution, qui protège depuis 1993 le droit de mener une vie familiale normale, et au droit européen : le RN propose donc de changer la Constitution et d'écarter les traités.",
+  "contexte": "La mesure revient à chaque élection ; elle suppose une réforme constitutionnelle par référendum.",
+  "explication": "Le droit de vivre avec sa famille est protégé par le Préambule de 1946, la Convention européenne des droits de l'homme et une directive européenne de 2003. Supprimer le regroupement familial suppose de modifier la Constitution et d'écarter des engagements européens.",
+  "faits": [
+    {
+      "fait": "Selon LCP, en 2022, Marine Le Pen réclamait la fin du regroupement familial, par une révision constitutionnelle soumise à référendum.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La suppression a bien été proposée.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La proposition de loi constitutionnelle du RN de janvier 2024 prévoit : « Le regroupement familial des étrangers peut être limité ou interdit. »",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le RN veut se donner le pouvoir de l'interdire.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le même texte du RN prévoit que les juridictions laissent inappliquées les règles internationales contraires à la Constitution, et qu'un acte européen contraire « ne peut produire d'effets ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La mesure suppose d'écarter le droit européen.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon LCP, le programme des législatives 2024 parlait seulement d'un « durcissement des conditions du regroupement familial ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le discours varie selon les élections.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon sa décision de 1993, le Conseil constitutionnel reconnaît aux étrangers le droit de mener une vie familiale normale, qui leur permet de faire venir conjoint et enfants mineurs.",
+      "periode": "1993",
+      "perimetre": "France",
+      "explication": "Une simple loi ne suffit pas.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La directive européenne 2003/86/CE oblige les États à autoriser l'entrée du conjoint et des enfants mineurs, sous conditions de ressources et de logement.",
+      "periode": "2003",
+      "perimetre": "Union européenne",
+      "explication": "La suppression contredit le droit européen.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Plutôt vrai : le RN a proposé en 2022 la fin du regroupement familial et veut inscrire dans la Constitution qu'il peut être « interdit ». Mais c'est contraire au droit de vivre en famille, protégé par la Constitution et le droit européen.",
+    "moyen": "En 2022, Marine Le Pen proposait de mettre fin au regroupement familial. En 2024, la proposition de loi constitutionnelle du RN prévoit qu'il « peut être limité ou interdit ». Le programme des législatives 2024, lui, parlait seulement de durcissement.\n\nPour aller jusqu'à la suppression, il faudrait réviser la Constitution, qui protège depuis 1993 le droit de mener une vie familiale normale, et écarter une directive européenne. Le RN le sait : son texte demande aux juges de laisser de côté les traités contraires. C'est une rupture avec l'État de droit européen.",
+    "detaille": "Le RN a bien porté la fin du regroupement familial. En 2022, selon LCP, Marine Le Pen la réclamait par un référendum constitutionnel. En janvier 2024, la proposition de loi constitutionnelle de son groupe prévoit que le regroupement familial « peut être limité ou interdit ». Le programme des législatives de 2024 se contentait d'un « durcissement des conditions ».\n\nCe n'est pas un détail juridique. Depuis 1993, le Conseil constitutionnel reconnaît aux étrangers en situation régulière le droit de mener une vie familiale normale, donc de faire venir leur conjoint et leurs enfants mineurs. La directive européenne de 2003 oblige aussi les États à l'autoriser, sous conditions. Le texte du RN prévoit donc que les juges écartent les règles internationales et européennes contraires.\n\nLe vrai débat porte sur ce prix : séparer durablement des parents et des enfants en situation régulière, et sortir de fait du cadre européen. Les conditions du regroupement peuvent déjà être durcies dans le cadre actuel : délai de séjour, ressources, logement.",
+    "empathie": "On peut vouloir mieux maîtriser l'immigration sans souhaiter séparer des parents de leurs enfants. C'est pour ça qu'il vaut mieux savoir exactement ce que propose le RN et ce que cela implique."
+  },
+  "contre_arguments": [
+    {
+      "objection": "D'autres pays l'ont restreint.",
+      "reponse": "Restreindre est possible dans le cadre européen ; interdire ne l'est pas sans sortir de ce cadre."
+    },
+    {
+      "objection": "Il suffit d'un référendum.",
+      "reponse": "Le RN le propose, mais il faudrait aussi écarter la directive européenne et la Convention européenne des droits de l'homme."
+    }
+  ],
+  "questions": [
+    "Que penses-tu d'une loi qui empêcherait un travailleur en règle de vivre avec ses enfants ?",
+    "Sais-tu que le RN propose que les juges écartent les traités européens ?"
+  ],
+  "limites": [
+    "La décision de 1993 a été lue dans une traduction universitaire, la page du Conseil constitutionnel n'ayant pas pu être ouverte.",
+    "Le programme du RN pour 2027 n'a pas été vérifié."
+  ],
+  "sources": [
+    {
+      "titre": "Présidentielle : l'immigration, figure imposée, mais pas thème central de la campagne",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "28 mars 2022",
+      "url": "https://lcp.fr/actualites/presidentielle-l-immigration-figure-imposee-mais-pas-theme-central-de-la-campagne-107256",
+      "passage": "Marine Le Pen réclame, comme Éric Zemmour, la fin du regroupement familial. Elle propose une révision constitutionnelle par référendum, avec une « priorité nationale », pour permettre des mesures actuellement « inapplicables en raison de la Constitution ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi constitutionnelle Citoyenneté-Identité-Immigration (n° 2120)",
+      "organisme": "Assemblée nationale (texte déposé par Marine Le Pen et les députés du groupe RN)",
+      "date_publication": "25 janvier 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b2120_proposition-loi.pdf",
+      "passage": "L'article 1er crée un article 4-1 de la Constitution : « Le regroupement familial des étrangers peut être limité ou interdit. » Le texte prévoit aussi que « Toute juridiction doit, le cas échéant, laisser inappliquées » les règles internationales contraires à la Constitution, et qu'un acte de l'Union européenne jugé contraire « ne peut produire d'effets en droit national ».",
+      "pertinence": "Texte parlementaire du RN, cité pour décrire sa position.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Législatives 2024 : le programme du Rassemblement national en matière d'immigration à l'épreuve de la Constitution",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "28 juin 2024",
+      "url": "https://lcp.fr/actualites/legislatives-2024-le-programme-du-rassemblement-national-en-matiere-d-immigration-a-l",
+      "passage": "Le programme de 2024 évoque un « durcissement des conditions du regroupement familial », par une loi ordinaire. Des mesures similaires avaient été censurées début 2024 comme « cavaliers législatifs », pour une raison de forme.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Décision n° 93-325 DC du 13 août 1993 (traduction anglaise)",
+      "organisme": "University of Texas at Austin, Foreign Law Translations",
+      "date_publication": "décision de 1993",
+      "url": "https://law.utexas.edu/transnational/foreign-law-translations/french/case.php?id=1004",
+      "passage": "Le Conseil constitutionnel cite le 10e alinéa du Préambule de 1946 et juge que les étrangers « have the right to lead a normal family life in the same way as French nationals », ce qui leur permet de faire venir leur conjoint et leurs enfants mineurs, sous réserve de restrictions liées à l'ordre public et à la santé publique.",
+      "pertinence": "Traduction universitaire d'une décision du Conseil constitutionnel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Directive 2003/86/CE du Conseil du 22 septembre 2003 relative au droit au regroupement familial",
+      "organisme": "Union européenne (EUR-Lex)",
+      "date_publication": "22 septembre 2003",
+      "url": "https://eur-lex.europa.eu/eli/dir/2003/86/oj/eng",
+      "passage": "Selon l'article 4, les États « shall authorise » l'entrée du conjoint et des enfants mineurs du regroupant. L'article 7 permet d'exiger un logement normal, une assurance maladie et des ressources « stable and regular » ; l'article 8 autorise un délai de séjour préalable « not exceeding two years ».",
+      "pertinence": "Texte juridique de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Programme du RN pour 2027.",
+  "objections_legitimes": [
+    "Le droit au regroupement familial n'est pas absolu : des conditions de ressources, de logement et de délai sont permises.",
+    "Le programme législatif de 2024 du RN ne parlait que de durcissement."
+  ],
+  "publics": {
+    "convaincus": "Le RN l'a bien proposé en 2022, et son texte de 2024 permet de l'« interdire ». Mais pour ça, il faut réécrire la Constitution et demander aux juges d'ignorer les traités européens. Tu es prêt à ce qu'un travailleur en règle, qui paie ses impôts, ne puisse plus vivre avec ses enfants ?",
+    "indecis": "C'est vrai, le RN veut pouvoir supprimer le regroupement familial, même si son programme de 2024 parlait seulement de durcissement. Le droit de vivre en famille est protégé par la Constitution depuis 1993 et par le droit européen. Il est déjà possible de durcir les conditions sans aller jusqu'à cette rupture."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "libertes",
+      "democratie"
+    ],
+    "mecanismes": "Pour supprimer un droit protégé par la Constitution et le droit européen, le RN propose de faire écarter les traités par les juges.",
+    "consequences": "Des enfants et des parents en situation régulière seraient durablement séparés.",
+    "democratie": "Écarter les engagements européens et internationaux fragilise l’État de droit pour tous.",
+    "propositions": [
+      "Défendre le droit de vivre en famille pour toutes les personnes en situation régulière.",
+      "Améliorer l’accueil et l’intégration des familles plutôt que de les séparer."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le programme législatif du RN de deux mille vingt-quatre ne parlait que de durcissement.",
+        "integration": "Le rappeler, tout en citant son texte constitutionnel qui permet l’interdiction."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "front national",
+    "fn",
+    "rn",
+    "rassemblement national",
+    "le pen"
+  ],
+  "concepts": [
+    "patriotisme",
+    "fn_parti"
+  ]
+}

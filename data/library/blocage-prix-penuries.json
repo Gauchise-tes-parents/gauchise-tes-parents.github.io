@@ -1,0 +1,199 @@
+{
+  "id": "blocage-prix-penuries",
+  "type": "idee_recue",
+  "affirmation": "Le blocage des prix proposé par la gauche provoquerait des pénuries.",
+  "volet": "economie",
+  "sous_theme": "Prix alimentaires",
+  "rubriques": [],
+  "mots_cles": [
+    "blocage des prix",
+    "bloquer les prix",
+    "gel des prix",
+    "controle des prix",
+    "prix de premiere necessite",
+    "penuries",
+    "bouclier tarifaire",
+    "bouclier qualite prix"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le programme du Nouveau Front populaire prévoit de bloquer par décret les prix des biens de première nécessité. Le droit français le permet déjà pour six mois en cas de crise, et cela a été fait (carburants pendant la guerre du Golfe, gel hydroalcoolique pendant le Covid). Le bouclier tarifaire sur l'énergie a réduit l'inflation sans pénurie signalée, mais il était compensé par l'État. Le risque d'une baisse de l'offre sans compensation, et le coût, sont des objections sérieuses.",
+  "contexte": "Le blocage des prix est souvent présenté comme une mesure « soviétique » vouée à vider les rayons.",
+  "explication": "Un blocage des prix fixe un prix maximum. S'il est inférieur au coût de production et non compensé, des producteurs peuvent réduire leur offre ; s'il est temporaire ou compensé, il protège les ménages.",
+  "faits": [
+    {
+      "fait": "Le programme du NFP prévoit de « Bloquer les prix des biens de première nécessité dans l'alimentation, l'énergie et les carburants par décret », sans détailler la liste des produits ni la compensation.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La mesure est réelle mais peu précisée.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Le Club des juristes, l'article L410-2 du code de commerce permet déjà de réglementer les prix par décret, pour six mois au plus en cas de crise, comme pour les carburants pendant la guerre du Golfe ou le gel hydroalcoolique pendant le Covid.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le contrôle des prix existe déjà en droit.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Insee, sans bouclier tarifaire, l'inflation aurait atteint 8,4 % au lieu de 5,3 % entre mi-2021 et mi-2022 ; les prix de l'énergie des ménages auraient augmenté de 54 % au lieu de 28 %.",
+      "periode": "2021-2022",
+      "perimetre": "France",
+      "explication": "Plafonner les prix a protégé les ménages.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Banque de France, le bouclier a réduit l'inflation de 2,2 points sur 2022-2023 pour un coût de 2,2 % du PIB ; face à un choc durable, il ne ferait que différer l'inflation, à un coût prohibitif.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "L'outil fonctionne contre un choc temporaire, pas durable.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Institut Montaigne, think tank libéral, un blocage coûterait environ 24 Md€ par an et risquerait de réduire l'offre des producteurs.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le coût et le risque sur l'offre sont des objections sérieuses.",
+      "source": 4,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : bloquer temporairement des prix est déjà prévu par le droit français et a été fait sans pénurie, comme le bouclier sur l'énergie. Le risque existe si le blocage dure et n'est pas compensé : tout dépend de sa mise en œuvre.",
+    "moyen": "Le programme du NFP propose de bloquer par décret les prix des produits de première nécessité. Ce n'est pas une invention : le code de commerce permet déjà au gouvernement de le faire pendant six mois en cas de crise, et cela a été fait pour les carburants ou le gel hydroalcoolique.\n\nLe bouclier tarifaire sur l'énergie, décidé par un gouvernement de droite, a réduit l'inflation de plusieurs points sans pénurie. Mais il était payé par l'État. Un blocage durable, sans compensation ni négociation avec les producteurs, pourrait réduire l'offre : c'est la vraie question, et le programme ne la tranche pas.",
+    "detaille": "Le contrat de législature du NFP de 2024 prévoit de bloquer par décret les prix des biens de première nécessité dans l'alimentation, l'énergie et les carburants, et de renforcer le bouclier qualité-prix des outre-mer. Il ne publie ni la liste des produits ni le mécanisme de compensation.\n\nJuridiquement, l'article L410-2 du code de commerce permet déjà de réglementer les prix, de façon permanente dans les secteurs peu concurrentiels ou pour six mois en cas de crise. Économiquement, l'expérience récente est le bouclier tarifaire : selon l'Insee, il a ramené la hausse des prix de l'énergie des ménages de 54 % à 28 % entre 2021 et 2022 ; selon la Banque de France, il a réduit l'inflation de 2,2 points sur 2022-2023, pour un coût de 2,2 % du PIB.\n\nLes objections sont réelles. La Banque de France prévient qu'un plafonnement ne fait que différer l'inflation face à un choc durable. L'Institut Montaigne chiffre un blocage à environ 24 Md€ par an et redoute une baisse de l'offre. Le résultat dépend donc de la durée, de la liste des produits, de la compensation et de la taxation des marges de la grande distribution prévue dans le programme.",
+    "empathie": "On peut craindre qu'en bloquant les prix, les rayons se vident : c'est un argument économique réel. Mais les expériences françaises récentes montrent qu'un blocage temporaire et bien conçu peut protéger les ménages sans pénurie."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ça a toujours échoué dans les pays communistes.",
+      "reponse": "La France a plafonné des prix récemment, notamment l'énergie, sans pénurie ; la durée et la compensation font la différence."
+    },
+    {
+      "objection": "Ce sont les producteurs qui paieront.",
+      "reponse": "Le programme prévoit aussi de taxer les superprofits de l'agro-industrie et de la grande distribution."
+    }
+  ],
+  "questions": [
+    "Savais-tu que le bouclier tarifaire sur l'énergie était déjà une forme de blocage des prix ?",
+    "Qui doit supporter la hausse des prix : les ménages, l'État ou les marges des distributeurs ?"
+  ],
+  "limites": [
+    "Aucune source lue ne prédit l'effet du blocage tel que le NFP le formule.",
+    "Le bouclier énergie était compensé par l'État, ce qui le distingue d'un blocage imposé aux vendeurs."
+  ],
+  "sources": [
+    {
+      "titre": "Contrat de législature du Nouveau Front populaire",
+      "organisme": "Nouveau Front populaire (programme publié par La France insoumise)",
+      "date_publication": "juin 2024",
+      "url": "https://lafranceinsoumise.fr/wp-content/uploads/2024/06/PROGRAMME-FRONT-POPULAIRE.pdf",
+      "passage": "Rubrique « Décréter l'état d'urgence sociale » : « Bloquer les prix des biens de première nécessité dans l'alimentation, l'énergie et les carburants par décret, et renforcer le bouclier qualité-prix pour les outre-mer ». Le programme prévoit aussi de taxer « les superprofits des agro-industriels et de la grande distribution » ; il ne détaille ni la liste des produits ni le mécanisme de compensation.",
+      "pertinence": "Programme partisan, cité pour décrire son contenu.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le blocage des prix sur les produits de première nécessité ? Oui, mais…",
+      "organisme": "Le Club des juristes (Romain Loir, Université de La Réunion)",
+      "date_publication": "24 juin 2024",
+      "url": "https://www.leclubdesjuristes.com/economie/le-blocage-des-prix-sur-les-produits-de-premiere-necessite-oui-mais-6385/",
+      "passage": "Depuis l'ordonnance de 1986, les prix sont « librement déterminés par le jeu de la concurrence », principe de valeur seulement législative. L'article L410-2 du code de commerce permet déjà de réglementer les prix par décret, de façon permanente dans les secteurs peu concurrentiels ou temporairement, six mois au plus, en cas de crise (produits pétroliers pendant la guerre du Golfe, gel hydroalcoolique pendant le Covid). Limites : la liberté d'entreprendre et le droit de l'Union européenne.",
+      "pertinence": "Analyse juridique universitaire.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "La flambée des prix de l'énergie : un effet sur l'inflation réduit de moitié par le « bouclier tarifaire » (Insee Analyses n° 75)",
+      "organisme": "Insee (Alexandre Bourgeois, Raphaël Lafrogne-Joussier)",
+      "date_publication": "1er septembre 2022",
+      "url": "https://www.insee.fr/fr/statistiques/6524161",
+      "passage": "Entre le 2e trimestre 2021 et le 2e trimestre 2022, l'énergie a contribué pour 3,1 points à une inflation de 5,3 % ; sans le bouclier, sa contribution aurait été de 6,2 points et l'inflation aurait atteint 8,4 %. Les prix de l'énergie pour les ménages ont augmenté de 28 % avec le bouclier, contre 54 % sans.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bouclier tarifaire sur les prix de l'énergie en France : quel bilan ? (Bulletin n° 253)",
+      "organisme": "Banque de France (M. Lemoine, A. Petronevich, A. Zhutova)",
+      "date_publication": "15 juillet 2024",
+      "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/bouclier-tarifaire-sur-les-prix-de-lenergie-en-france-quel-bilan",
+      "passage": "Sur 2022-2023, le bouclier a eu un « impact cumulé de – 2,2 points de pourcentage » sur l'inflation et environ +0,3 point sur le PIB, pour un coût cumulé de 2,2 % du PIB. Face à un choc durable, il ne ferait que différer l'inflation, sauf à être maintenu indéfiniment, avec un coût budgétaire prohibitif.",
+      "pertinence": "Étude de la banque centrale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bloquer les prix des produits de première nécessité (chiffrage des législatives 2024)",
+      "organisme": "Institut Montaigne",
+      "date_publication": "juin 2024",
+      "url": "https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/bloquer-les-prix-des-produits-de-premiere-necessite",
+      "passage": "Coût médian estimé à environ 24 Md€ par an (fourchette 9 à 38 Md€). Risques avancés : producteurs nationaux qui réduisent leur production, producteurs étrangers qui vendent ailleurs, demande maintenue faute de signal-prix ; mesure non ciblée qui profiterait davantage aux ménages aisés.",
+      "pertinence": "Think tank libéral, cité comme argument contraire.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Programmes de 2027.",
+  "objections_legitimes": [
+    "Un blocage durable non compensé peut réduire l'offre.",
+    "Le coût budgétaire d'un bouclier est élevé et ses aides sont mal ciblées."
+  ],
+  "publics": {
+    "convaincus": "Bloquer temporairement des prix, la droite l'a fait : le bouclier sur l'énergie a évité que la facture des ménages augmente de 54 % au lieu de 28 %, selon l'Insee, et il n'y a pas eu de pénurie. Le code de commerce le permet déjà en cas de crise. Le vrai débat, c'est qui paie : l'État, les ménages ou les marges de la grande distribution.",
+    "indecis": "Ta crainte a un fondement : un blocage durable et non compensé peut décourager les producteurs. Mais un blocage temporaire, comme le bouclier énergie, a protégé les ménages sans pénurie. Tout dépend de sa durée, de sa compensation et de son ciblage, que le programme du NFP devrait préciser."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "repartition",
+      "vulnerables"
+    ],
+    "mecanismes": "Plafonner les prix protège les ménages, surtout si l’on taxe les marges excessives plutôt que de laisser les prix flamber.",
+    "consequences": "Les ménages modestes consacrent une plus grande part de leur budget à l’alimentation et à l’énergie.",
+    "democratie": "Le prix des biens essentiels est un choix politique, pas une loi naturelle.",
+    "propositions": [
+      "Bloquer temporairement les prix des produits essentiels en négociant avec les producteurs.",
+      "Taxer les superprofits de la grande distribution et de l’agro-industrie."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un blocage durable non compensé peut réduire l’offre.",
+        "integration": "Le reconnaître et prévoir durée limitée, compensation et contrôle des marges."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "blocage_prix",
+      "label": "Blocage des prix"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "plus d offres d emploi que",
+    "trouvent personne",
+    "trouve personne",
+    "trouvent pas de candidats",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire"
+  ],
+  "concepts": [
+    "penurie",
+    "gauche",
+    "blocage_prix"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "rsa-15-heures-activite",
+  "type": "idee_recue",
+  "affirmation": "Le RSA conditionné à 15 heures d'activité, ça remet les gens au travail.",
+  "volet": "social",
+  "sous_theme": "RSA",
+  "rubriques": [],
+  "mots_cles": [
+    "15 heures",
+    "quinze heures",
+    "rsa conditionne",
+    "rsa contre activite",
+    "heures d activite",
+    "loi plein emploi",
+    "contrepartie du rsa"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. L'évaluation officielle de la Dares et de l'IPP (2026) montre qu'un accompagnement renforcé des allocataires augmente un peu leur emploi : +3,2 points en moyenne sur l'année chez les participants. Mais les gains sont en partie pris aux autres demandeurs d'emploi, si bien qu'un effet net nul « ne peut être exclu ». Et ni l'obligation de 15 heures ni les sanctions, en vigueur depuis juin 2025, n'ont été évaluées.",
+  "contexte": "La loi pour le plein emploi de 2023 a généralisé l'inscription des allocataires du RSA à France Travail et une durée d'activité d'au moins 15 heures, avec des sanctions.",
+  "explication": "L'expérimentation mêlait plusieurs choses : plus de suivi par des conseillers, des démarches régulières, et un objectif d'heures d'activité. Les évaluations ne permettent pas d'isoler l'effet des 15 heures.",
+  "faits": [
+    {
+      "fait": "Selon l'évaluation de la Dares et de l'IPP, l'emploi salarié des participants progresse de 3,2 points en moyenne sur l'année ; l'emploi durable de 0,7 point seulement hors contrats aidés.",
+      "periode": "2023-2024",
+      "perimetre": "18 territoires pilotes",
+      "explication": "L'effet existe mais reste modeste.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+3,2 points"
+    },
+    {
+      "fait": "Selon les évaluateurs, « on ne peut ainsi exclure que l'effet net de l'expérimentation sur la création d'emplois salariés soit nul », à cause d'effets négatifs sur les autres demandeurs d'emploi.",
+      "periode": "2023-2024",
+      "perimetre": "18 territoires pilotes",
+      "explication": "Les emplois trouvés ont pu l'être aux dépens d'autres chômeurs.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'expérimentation évaluée s'est faite sans le nouveau régime de sanctions et ne mesure pas l'effet propre des 15 heures.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Le cœur de la mesure n'a pas été évalué.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Localtis, la norme de 15 à 20 heures est jugée « particulièrement exigeante » par l'évaluation qualitative ; les exemptions vont de 15 % à 20 % selon les territoires.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Beaucoup d'allocataires ne peuvent pas s'y plier.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Depuis le 1er juin 2025, un manquement peut entraîner la suspension d'au moins 30 % de l'allocation, puis sa suppression au second manquement.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La pression sur les allocataires s'est accrue.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La CNCDH estime que l'efficacité de la mesure n'est pas démontrée et recommande d'abroger la durée « d'au moins quinze heures ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Une autorité indépendante juge la mesure contraire aux droits.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : c'est l'accompagnement renforcé qui a un peu augmenté l'emploi des allocataires, de façon modeste, et peut-être aux dépens d'autres chômeurs. L'effet des 15 heures et des sanctions n'a jamais été évalué.",
+    "moyen": "L'évaluation officielle de la Dares et de l'Institut des politiques publiques est claire : un suivi plus intensif des allocataires du RSA augmente un peu leur retour à l'emploi, de 3,2 points en moyenne sur l'année. C'est positif, mais modeste, et les emplois durables hors contrats aidés progressent à peine.\n\nSurtout, les évaluateurs n'excluent pas un effet net nul : les allocataires accompagnés ont pu prendre des emplois à d'autres chômeurs. Et l'obligation des 15 heures elle-même, comme les sanctions, n'a pas été évaluée. Ce qui marche, c'est l'accompagnement, qui coûte de l'argent, pas la contrainte.",
+    "detaille": "La loi pour le plein emploi de 2023 conditionne le RSA à une durée d'activité d'au moins quinze heures par semaine, réductible mais pas nulle. Avant sa généralisation, elle a été expérimentée dans 18 territoires de 2023 à 2024.\n\nL'évaluation de la Dares et de l'IPP, publiée en juin 2026, montre que l'emploi salarié des participants progresse de 3,2 points en moyenne sur l'année, mais que l'emploi durable hors contrats aidés ne progresse que de 0,7 point, sans effet sur les salaires. Les gains sont compensés en partie par des effets négatifs sur les autres demandeurs d'emploi : un effet net nul ne peut être exclu. L'étude ne mesure pas l'effet propre des 15 heures, et les sanctions n'étaient pas appliquées.\n\nDepuis juin 2025, les sanctions permettent de suspendre au moins 30 % de l'allocation. La CNCDH juge l'efficacité non démontrée et craint des heures non rémunérées qui remplacent de vrais emplois. Les auteurs de l'évaluation notent toutefois que leurs résultats « n'invalident pas la logique » d'un accompagnement renforcé.",
+    "empathie": "L'idée qu'on demande quelque chose en échange d'une aide peut sembler juste. Mais l'évaluation montre que ce qui aide vraiment, c'est l'accompagnement, et que la contrainte n'a jamais été mesurée."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est normal de demander une contrepartie.",
+      "reponse": "Le RSA est déjà conditionné à des démarches ; la question est de savoir si les 15 heures aident, et cela n'a pas été démontré."
+    },
+    {
+      "objection": "Ça marche, les gens retrouvent un emploi.",
+      "reponse": "Les participants un peu plus, mais l'effet net sur l'emploi total pourrait être nul."
+    }
+  ],
+  "questions": [
+    "Sais-tu que l'obligation des 15 heures n'a jamais été évaluée à part ?",
+    "Que faire pour ceux qui ne peuvent pas suivre ces heures, à cause de leur santé ou de leurs enfants ?"
+  ],
+  "limites": [
+    "Aucun bilan chiffré de la généralisation de 2025 n'a été lu.",
+    "L'évaluation porte sur une expérimentation sans sanctions."
+  ],
+  "sources": [
+    {
+      "titre": "Évaluation quantitative de l'accompagnement rénové des bénéficiaires du RSA (synthèse du rapport n° 68)",
+      "organisme": "Dares et Institut des politiques publiques (M. Fouquet, R. Lardeux, T. Breda et al.)",
+      "date_publication": "juin 2026",
+      "url": "https://www.ipp.eu/wp-content/uploads/2026/06/Synthese_dares_ipp_brsa.pdf",
+      "passage": "Évaluation sur 18 territoires pilotes, de mars 2023 à décembre 2024 (environ 41 900 allocataires), sans le nouveau régime de sanctions. L'emploi salarié progresse de 0,9 point à six mois dans les territoires concernés ; chez les participants, de 3,2 points en moyenne sur l'année. L'emploi durable progresse de 2,2 points, mais de 0,7 point sans les contrats aidés ; pas d'effet sur le salaire. Les gains sont compensés par des effets négatifs sur les autres demandeurs : « on ne peut ainsi exclure que l'effet net de l'expérimentation sur la création d'emplois salariés soit nul ». L'étude ne mesure pas l'effet propre des 15 heures.",
+      "pertinence": "Évaluation statistique publique et universitaire.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "RSA : une évaluation souligne les progrès et limites de « l'accompagnement rénové »",
+      "organisme": "Banque des Territoires (Localtis, Catherine Abou El Khair)",
+      "date_publication": "19 décembre 2024",
+      "url": "https://www.banquedesterritoires.fr/rsa-une-evaluation-souligne-les-progres-et-limites-de-laccompagnement-renove",
+      "passage": "Selon une évaluation qualitative pour le ministère du Travail, 38 % des allocataires suivis ont occupé un emploi dans les six mois et 14 % ont obtenu un CDI ou un CDD de plus de six mois, sans point de comparaison. La norme de 15 à 20 heures est jugée « particulièrement exigeante » ; les exemptions vont de 15 % à 20 % selon les territoires.",
+      "pertinence": "Presse spécialisée des collectivités.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "RSA : le décret Sanctions entre en vigueur",
+      "organisme": "Banque des Territoires (Localtis, Catherine Abou El Khair)",
+      "date_publication": "2 juin 2025",
+      "url": "https://www.banquedesterritoires.fr/rsa-le-decret-sanctions-entre-en-vigueur",
+      "passage": "Le décret n° 2025-478 du 30 mai 2025, en vigueur le 1er juin 2025, crée une « suspension-remobilisation » d'au moins 30 % de l'allocation pendant un à deux mois, avec reversement si l'allocataire se remet en conformité ; la suppression est possible au second manquement.",
+      "pertinence": "Presse spécialisée des collectivités.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Loi pour le plein emploi : l'obligation d'heures d'activité en contrepartie du RSA porte atteinte aux droits humains (déclaration D-2024-7)",
+      "organisme": "Commission nationale consultative des droits de l'homme (CNCDH)",
+      "date_publication": "19 décembre 2024",
+      "url": "https://www.cncdh.fr/sites/default/files/2024-12/D%20-%202024%20-%207%20-%20D%C3%A9claration%20Loi%20Plein%20Emploi%20RSA%20Conditionn%C3%A9_0.pdf",
+      "passage": "La CNCDH estime que le droit à des « moyens convenables d'existence » est menacé, que l'efficacité n'est pas démontrée faute d'analyse publique complète de l'expérimentation, et craint des heures non rémunérées qui se substitueraient à de vrais emplois. Elle recommande d'abroger la durée « d'au moins quinze heures ».",
+      "pertinence": "Avis d'une autorité administrative indépendante.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Premiers bilans de la généralisation et des sanctions.",
+  "objections_legitimes": [
+    "Un accompagnement plus intensif augmente réellement l'emploi des participants.",
+    "Les auteurs de l'évaluation estiment que leurs résultats n'invalident pas la logique de la réforme."
+  ],
+  "publics": {
+    "convaincus": "L'évaluation officielle de la Dares montre que ce qui aide, c'est un conseiller qui suit vraiment les gens : +3,2 points d'emploi chez les participants. Mais l'effet net pourrait être nul, et les 15 heures n'ont jamais été évaluées. Tu veux de l'efficacité ou juste de la punition ?",
+    "indecis": "Demander un engagement en échange du RSA peut paraître juste. Les données montrent qu'un accompagnement renforcé améliore un peu le retour à l'emploi, mais que l'effet des 15 heures et des sanctions n'est pas démontré. Le levier efficace semble être le suivi, ce qui suppose des moyens."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "solidarite",
+      "vulnerables"
+    ],
+    "mecanismes": "C’est l’accompagnement qui aide, pas la contrainte ; les sanctions risquent d’éloigner les plus fragiles.",
+    "consequences": "Des allocataires malades ou isolés risquent de perdre une partie de leur seul revenu.",
+    "democratie": "Un droit à des moyens convenables d’existence ne devrait pas dépendre d’heures non rémunérées.",
+    "propositions": [
+      "Financer un accompagnement renforcé par des conseillers en nombre suffisant.",
+      "Supprimer l’obligation d’heures non rémunérées et les sanctions automatiques."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un accompagnement intensif augmente réellement l’emploi des participants.",
+        "integration": "Le reconnaître : c’est un argument pour plus de moyens, pas pour plus de sanctions."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "rsa_heures",
+      "label": "RSA et heures d’activité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux"
+  ],
+  "concepts": [
+    "emploi",
+    "prestations",
+    "rsa_heures"
+  ]
+}

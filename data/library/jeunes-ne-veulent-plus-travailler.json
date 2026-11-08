@@ -1,0 +1,191 @@
+{
+  "id": "jeunes-ne-veulent-plus-travailler",
+  "type": "idee_recue",
+  "affirmation": "Les jeunes ne veulent plus travailler.",
+  "volet": "social",
+  "sous_theme": "Emploi et salaires",
+  "rubriques": [],
+  "mots_cles": [
+    "jeunes ne veulent plus travailler",
+    "les jeunes ne veulent pas travailler",
+    "generation z",
+    "jeunes feignants",
+    "jeunes paresseux",
+    "emploi des jeunes",
+    "valeur travail jeunes"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Le taux d'emploi des 15-24 ans est à un niveau historiquement élevé : 34,9 % en 2022, le plus haut depuis 1991, et 34,5 % en 2025, 4,6 points de plus qu'en 2019. L'apprentissage a explosé (879 000 contrats en 2024). Et 80 % des 16-30 ans se disent prêts à travailler même sans besoin financier. Beaucoup sont en revanche déçus par leurs conditions de travail.",
+  "contexte": "Le cliché d'une jeunesse rétive au travail revient régulièrement, notamment depuis le Covid.",
+  "explication": "Le taux d'emploi des 15-24 ans est faible partout car beaucoup sont en études ; il faut le comparer dans le temps et avec les autres pays.",
+  "faits": [
+    {
+      "fait": "En 2025, le taux d'emploi des 15-24 ans est de 34,5 %, soit 4,6 points de plus qu'en 2019.",
+      "periode": "2019-2025",
+      "perimetre": "France",
+      "explication": "Les jeunes travaillent davantage qu'avant le Covid.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "34,5 %"
+    },
+    {
+      "fait": "Selon l'Insee cité par Localtis, le taux d'emploi des 15-24 ans atteint 34,9 % en 2022, « le plus haut depuis 1991 ».",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "C'est un record sur trente ans.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "879 000 nouveaux contrats d'apprentissage ont été signés en 2024, contre 306 000 en 2017.",
+      "periode": "2017-2024",
+      "perimetre": "France",
+      "explication": "Les jeunes se forment massivement en entreprise.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une enquête de l'Institut Montaigne auprès de 6 000 jeunes, 80 % se disent prêts à travailler même sans besoin financier ; 66 % de ceux qui ont travaillé perçoivent un décalage entre leurs attentes et la réalité.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les jeunes veulent travailler, mais sont souvent déçus.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "80 %"
+    },
+    {
+      "fait": "30,5 % des jeunes en emploi sont en alternance ou en stage, et leur taux de chômage remonte à 19,8 % en 2025.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La hausse repose en partie sur l'apprentissage aidé.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le taux d'emploi des jeunes est au plus haut depuis plus de trente ans, et 80 % se disent prêts à travailler même sans besoin d'argent. Beaucoup sont surtout déçus par les conditions de travail.",
+    "moyen": "Les chiffres de l'Insee contredisent le cliché : le taux d'emploi des 15-24 ans était en 2022 au plus haut depuis 1991, et il reste en 2025 bien au-dessus de son niveau de 2019. L'apprentissage a presque triplé depuis 2017.\n\nSelon une enquête de l'Institut Montaigne, pourtant libéral, 80 % des jeunes se disent prêts à travailler même sans besoin financier. Ce qui ressort, c'est une déception : deux sur trois trouvent un décalage entre leurs attentes et la réalité du travail. C'est un problème de conditions de travail, pas de paresse.",
+    "detaille": "Selon l'Insee, le taux d'emploi des 15-24 ans est de 34,5 % en 2025, 4,6 points au-dessus de 2019. Il avait atteint 34,9 % en 2022, le plus haut niveau depuis 1991. Il est proche de la moyenne européenne, même s'il reste sous la moyenne de l'OCDE, et celui des 25-29 ans dépasse cette moyenne.\n\nCette hausse doit beaucoup à l'apprentissage : 879 000 contrats signés en 2024 contre 306 000 en 2017, pour un coût public d'environ 15 Md€ en 2023. 30,5 % des jeunes en emploi sont en alternance ou en stage, et le chômage des jeunes remonte, à 19,8 % en 2025.\n\nSur les mentalités, une enquête de l'Institut Montaigne auprès de 6 000 jeunes montre que 80 % sont prêts à travailler même sans besoin financier, mais que 66 % de ceux qui ont déjà travaillé sont déçus et que 60 % des jeunes salariés envisagent de quitter leur entreprise. Le rapport au travail change ; l'envie de travailler, elle, est toujours là.",
+    "empathie": "On a tous entendu un employeur se plaindre de jeunes qui ne restent pas. Les chiffres montrent pourtant qu'ils n'ont jamais autant travaillé depuis trente ans ; ce qu'ils refusent plus souvent, ce sont de mauvaises conditions."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils changent tout le temps de boulot.",
+      "reponse": "Beaucoup sont déçus par leurs conditions de travail ; changer d'emploi, ce n'est pas refuser de travailler."
+    },
+    {
+      "objection": "C'est grâce aux aides à l'apprentissage.",
+      "reponse": "En partie, oui ; mais ce sont bien des jeunes qui travaillent en entreprise."
+    }
+  ],
+  "questions": [
+    "Sais-tu que le taux d'emploi des jeunes est au plus haut depuis trente ans ?",
+    "Qu'est-ce qui, selon toi, décourage un jeune dans son premier emploi ?"
+  ],
+  "limites": [
+    "L'enquête de l'Institut Montaigne n'a été lue qu'à travers son communiqué.",
+    "Le taux d'emploi des jeunes dépend aussi de la durée des études."
+  ],
+  "sources": [
+    {
+      "titre": "Une photographie du marché du travail en 2025 (Insee Première n° 2096)",
+      "organisme": "Insee (Émilie Pénicaud)",
+      "date_publication": "25 mars 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8901327",
+      "passage": "Chez les 15-24 ans en 2025, le taux d'emploi est de 34,5 %, soit 4,6 points de plus qu'en 2019 ; le taux d'activité est de 43,0 %. Le taux de chômage des jeunes « augmente de 1,0 point en 2025 et atteint 19,8 % », sous la moyenne des années 2010 (24,6 %). « 30,5 % d'entre eux sont en alternance ou en stage. »",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Emploi des jeunes : une exception française ?",
+      "organisme": "Banque des Territoires (Localtis, Guillaume Ducable)",
+      "date_publication": "6 mars 2024",
+      "url": "https://www.banquedesterritoires.fr/emploi-des-jeunes-une-exception-francaise",
+      "passage": "Selon l'Insee, le taux d'emploi des 15-24 ans est de 34,9 % en 2022, « le plus haut depuis 1991 ». Il est d'environ 35 % en France contre 42 % en moyenne dans l'OCDE, mais proche de la moyenne européenne (34,8 %). Chez les 25-29 ans, le taux d'emploi est de 78 %, 2 points au-dessus de la moyenne de l'OCDE.",
+      "pertinence": "Presse spécialisée relayant l'Insee et l'OCDE.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "L'apprentissage en France : quel bilan pour quels objectifs ? (Trésor-Éco n° 376)",
+      "organisme": "Direction générale du Trésor (V. Barde, T. Gantois, J. Gouy-Waz, B. Leclair)",
+      "date_publication": "25 novembre 2025",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2025/11/25/l-apprentissage-en-france-quel-bilan-pour-quels-objectifs",
+      "passage": "« 879 000 nouveaux contrats ont été signés en 2024 », contre 306 000 en 2017 ; plus d'un million d'apprentis sont en cours de contrat fin 2024. Le coût public atteint environ 15 Md€ en 2023, soit « 14 700 € par apprenti ».",
+      "pertinence": "Administration économique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les jeunes et le travail : aspirations et désillusions des 16-30 ans (communiqué)",
+      "organisme": "Institut Montaigne (Y. Algan, O. Galland, M. Lazar)",
+      "date_publication": "29 avril 2025",
+      "url": "https://institutmontaigne.org/communiques-de-presse/les-jeunes-et-le-travail-aspirations-et-desillusions-des-16-30-ans",
+      "passage": "Enquête auprès de 6 000 jeunes à l'automne 2024 : « 80 % des jeunes se disent prêts à travailler, même sans besoin financier » ; 66 % de ceux qui ont déjà travaillé perçoivent un décalage entre leurs attentes et la réalité ; 60 % des jeunes salariés envisagent de quitter leur entreprise d'ici cinq ans.",
+      "pertinence": "Think tank libéral, cité ici comme source peu suspecte de complaisance.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de l'Insee sur le marché du travail.",
+  "objections_legitimes": [
+    "La hausse de l'emploi des jeunes repose largement sur l'apprentissage subventionné.",
+    "Beaucoup de jeunes salariés envisagent de quitter leur entreprise."
+  ],
+  "publics": {
+    "convaincus": "Les jeunes n'ont jamais autant travaillé depuis trente ans : en 2022, leur taux d'emploi était au plus haut depuis 1991, selon l'Insee. Et même l'Institut Montaigne, think tank libéral, trouve que 80 % sont prêts à travailler sans besoin d'argent. Ce qu'ils fuient, ce sont les mauvaises conditions.",
+    "indecis": "Le rapport au travail des jeunes change, c'est vrai : beaucoup sont déçus et changent d'emploi. Mais leur taux d'emploi est historiquement élevé, porté par l'apprentissage. La question est plutôt de savoir quels emplois on leur propose."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "emancipation",
+      "dignite"
+    ],
+    "mecanismes": "Les jeunes travaillent plus qu’avant, mais souvent dans des contrats précaires et mal payés.",
+    "consequences": "La précarité des premiers emplois décourage et pousse à changer souvent d’employeur.",
+    "democratie": "Les jeunes doivent avoir leur mot à dire sur l’organisation du travail.",
+    "propositions": [
+      "Ouvrir un revenu d’autonomie pour les jeunes en formation ou en recherche d’emploi.",
+      "Encadrer les contrats courts et les stages."
+    ],
+    "defavorables": [
+      {
+        "fait": "La hausse de l’emploi des jeunes repose largement sur l’apprentissage subventionné.",
+        "integration": "Le reconnaître et s’interroger sur la qualité de ces emplois."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "jeunes_travail",
+      "label": "Les jeunes et le travail"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ],
+  "concepts": [
+    "emploi",
+    "salaires",
+    "travail_effort",
+    "jeunes_travail"
+  ]
+}

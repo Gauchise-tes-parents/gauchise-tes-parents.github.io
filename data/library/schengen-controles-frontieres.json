@@ -1,0 +1,201 @@
+{
+  "id": "schengen-controles-frontieres",
+  "type": "idee_recue",
+  "affirmation": "Schengen empêche la France de contrôler ses frontières.",
+  "volet": "politique",
+  "sous_theme": "Union européenne",
+  "rubriques": [],
+  "mots_cles": [
+    "schengen",
+    "espace schengen",
+    "controle aux frontieres",
+    "controles aux frontieres",
+    "retablir les frontieres",
+    "frontieres interieures",
+    "frontieres nationales",
+    "code frontieres"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. La France contrôle ses frontières intérieures sans interruption depuis novembre 2015, en renouvelant tous les six mois des contrôles que le code Schengen prévoit lui-même en cas de menace grave. Le Conseil d'État les a jugés conformes en 2025, et les notifications courent jusqu'en avril 2027. Schengen encadre la durée et la proportionnalité de ces contrôles : la Commission a demandé en 2026 leur levée progressive.",
+  "contexte": "L'idée que l'Europe nous interdit d'avoir des frontières nourrit les appels à sortir de Schengen.",
+  "explication": "Schengen supprime les contrôles systématiques entre pays membres, mais permet de les rétablir temporairement en cas de menace grave pour l'ordre public ou la sécurité intérieure. Les frontières extérieures restent contrôlées.",
+  "faits": [
+    {
+      "fait": "Après les attentats de novembre 2015, la France a rétabli des contrôles à ses frontières avec les États Schengen, « reconduit tous les six mois » sans interruption.",
+      "periode": "2015-2025",
+      "perimetre": "France",
+      "explication": "Les contrôles existent depuis dix ans.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Conseil d'État a jugé en 2025 la réintroduction des contrôles conforme au règlement Schengen modifié en 2024 et a rejeté le recours des associations.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Ces contrôles sont légaux au regard du droit européen.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les notifications de la France à la Commission européenne couvrent notamment la période du 1er novembre 2026 au 30 avril 2027, pour toutes ses frontières intérieures.",
+      "periode": "2026-2027",
+      "perimetre": "France",
+      "explication": "Les contrôles continuent.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La réforme du code Schengen de 2024 permet des contrôles jusqu'à deux ans en cas de menace grave, avec une prolongation possible d'un an, et crée une procédure de transfert vers l'État voisin.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "Le cadre européen a même renforcé les outils.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Mission opérationnelle transfrontalière, la Commission a recommandé en juin 2026 une levée progressive des contrôles, qui doivent rester « exceptional, temporary and proportionate ».",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "Schengen limite bien la durée des contrôles.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, la Cour des comptes juge l'organisation entre police aux frontières et douanes « pas suffisamment optimisée ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les faiblesses relevées sont nationales.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : la France contrôle ses frontières intérieures depuis novembre 2015, sans interruption, en utilisant une possibilité prévue par Schengen lui-même. Le Conseil d'État a validé ces contrôles en 2025.",
+    "moyen": "Depuis les attentats de 2015, la France a rétabli des contrôles à toutes ses frontières avec ses voisins européens, et les renouvelle tous les six mois. Le code Schengen prévoit cette possibilité en cas de menace grave, et la réforme de 2024 l'a même précisée.\n\nSchengen pose des limites : ces contrôles doivent rester exceptionnels et proportionnés, et la Commission a demandé en 2026 qu'ils soient levés progressivement. Mais dire que l'Europe empêche de contrôler les frontières est faux. Les faiblesses pointées par la Cour des comptes tiennent à l'organisation de nos propres services.",
+    "detaille": "Depuis novembre 2015, la France contrôle ses frontières terrestres, maritimes et aériennes avec les autres pays de Schengen. Ces contrôles sont renouvelés tous les six mois, au nom du risque terroriste et de la lutte contre les passeurs. Les notifications envoyées à la Commission courent jusqu'au 30 avril 2027.\n\nCes contrôles ne sont pas une désobéissance à Schengen : ils sont prévus par le code frontières Schengen. Le Conseil d'État les a jugés conformes au nouveau règlement en 2025. La réforme adoptée en 2024 permet des contrôles jusqu'à deux ans, plus un an, et crée une procédure de transfert vers l'État voisin des personnes en situation irrégulière interpellées lors de patrouilles conjointes.\n\nLa limite est réelle : ces contrôles doivent rester temporaires et proportionnés, et la Commission a demandé en juin 2026 leur levée progressive. Selon les autorités françaises, ils ne sont d'ailleurs pas systématiques. Quant aux défaillances relevées par la Cour des comptes, comme l'absence de fichier national des personnes interpellées, elles relèvent de choix nationaux.",
+    "empathie": "L'inquiétude sur le contrôle des frontières est compréhensible. Il faut juste savoir que la France contrôle déjà ses frontières intérieures depuis dix ans, avec l'accord du droit européen."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les contrôles ne sont pas systématiques.",
+      "reponse": "C'est un choix d'organisation et de moyens ; contrôler chaque véhicule bloquerait des centaines de milliers de travailleurs frontaliers."
+    },
+    {
+      "objection": "Il faut sortir de Schengen.",
+      "reponse": "La France contrôle déjà ses frontières dans Schengen, tout en profitant de la coopération policière et des fichiers européens."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la France contrôle ses frontières intérieures depuis 2015 ?",
+    "Que changerait concrètement une sortie de Schengen ?"
+  ],
+  "limites": [
+    "Aucune source lue ne chiffre l'efficacité des contrôles (non-admissions, interpellations).",
+    "L'avis de la Commission de juin 2026 n'a été lu qu'à travers une analyse spécialisée."
+  ],
+  "sources": [
+    {
+      "titre": "Le rétablissement du contrôle aux frontières intérieures est conforme au nouveau règlement « Schengen » (décision n° 499702)",
+      "organisme": "Conseil d'État",
+      "date_publication": "7 mars 2025",
+      "url": "https://conseil-etat.fr/actualites/le-retablissement-du-controle-aux-frontieres-interieures-est-conforme-au-nouveau-reglement-schengen",
+      "passage": "Après les attentats de novembre 2015, la France a rétabli des contrôles aux frontières avec les États Schengen, « reconduit tous les six mois » sans interruption. Le Conseil d'État valide la décision du 4 octobre 2024 (contrôles du 1er novembre 2024 au 30 avril 2025), justifiée par le risque terroriste et les réseaux de passeurs, et rejette le recours des associations.",
+      "pertinence": "Juridiction administrative suprême.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Temporary reintroduction of border control",
+      "organisme": "Commission européenne, DG Migration et affaires intérieures",
+      "date_publication": "page consultée le 8 novembre 2026",
+      "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-area/temporary-reintroduction-border-control_en",
+      "passage": "Les contrôles intérieurs sont une « measure of last resort » : jusqu'à six mois renouvelables jusqu'à deux ans pour une menace prévisible, jusqu'à trois ans en situation exceptionnelle. Les notifications françaises couvrent notamment le 1er novembre 2026 au 30 avril 2027, pour toutes les frontières intérieures (Belgique, Allemagne, Luxembourg, Suisse, Espagne, Italie).",
+      "pertinence": "Source institutionnelle de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "MEPs give green light to a reformed Schengen Borders Code",
+      "organisme": "Parlement européen",
+      "date_publication": "24 avril 2024",
+      "url": "https://www.europarl.europa.eu/news/en/press-room/20240419IPR20558/meps-give-green-light-to-a-reformed-schengen-borders-code",
+      "passage": "En cas de menace grave (terrorisme, criminalité organisée, entrées non autorisées massives), un État peut réintroduire des contrôles jusqu'à deux ans, avec une prolongation possible d'un an. La réforme crée une procédure de transfert vers l'État voisin des personnes en situation irrégulière interpellées lors de patrouilles conjointes. Texte adopté par 311 voix contre 267.",
+      "pertinence": "Institution de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Internal border controls within the Schengen Area: the European Commission calls for a phased lifting – Analysis focusing on France",
+      "organisme": "Mission opérationnelle transfrontalière (Domitille Ayral)",
+      "date_publication": "18 juin 2026",
+      "url": "https://www.espaces-transfrontaliers.org/en/internal-border-controls-within-the-schengen-area-the-european-commission-calls-for-a-phased-lifting-analysis-focusing-on-france/",
+      "passage": "Dans ses avis du 2 juin 2026, la Commission rappelle que les contrôles doivent rester « exceptional, temporary and proportionate » et recommande une levée progressive, avec des alternatives (contrôles mobiles, systèmes EES et ETIAS). Selon les autorités françaises, les contrôles ne sont « pas systématiques » et reposent sur l'analyse de risque.",
+      "pertinence": "Structure d'expertise transfrontalière.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Immigration : quand la Cour des comptes reprend les constats d'un rapport sénatorial",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "8 janvier 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/immigration-quand-la-cour-des-comptes-reprend-les-constats-dun-rapport-senatorial",
+      "passage": "La Cour des comptes juge que l'organisation entre police aux frontières et douanes « n'est pas suffisamment optimisée ». La police ne relève que l'identité déclarée des personnes interpellées, « sans l'intégrer dans un système d'information national ».",
+      "pertinence": "Média parlementaire rendant compte d'un rapport de la Cour des comptes.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Fin de la période de contrôles notifiée et suites de l'avis de la Commission.",
+  "objections_legitimes": [
+    "Schengen limite la durée et la proportionnalité des contrôles intérieurs.",
+    "La Commission a demandé en 2026 une levée progressive des contrôles français."
+  ],
+  "publics": {
+    "convaincus": "La France contrôle ses frontières avec ses voisins européens depuis novembre 2015, sans interruption, et le Conseil d'État a jugé ça conforme à Schengen. Ce n'est donc pas l'Europe qui empêche les contrôles. Si ça ne marche pas assez, la Cour des comptes pointe plutôt nos propres services.",
+    "indecis": "Schengen supprime les contrôles systématiques, mais permet de les rétablir en cas de menace grave : c'est ce que fait la France depuis 2015. L'Europe demande que ces contrôles restent temporaires et proportionnés. Le débat porte donc sur leur durée et leurs moyens, pas sur leur existence."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "internationalisme"
+    ],
+    "mecanismes": "La France contrôle déjà ses frontières dans le cadre de Schengen ; les failles relevées sont nationales.",
+    "consequences": "Accuser l’Europe détourne l’attention des moyens réels des services.",
+    "democratie": "Les citoyens ont droit à une information exacte sur ce que permet le droit européen.",
+    "propositions": [
+      "Donner des moyens humains aux services de contrôle et de lutte contre les passeurs.",
+      "Renforcer la coopération européenne plutôt que de la rompre."
+    ],
+    "defavorables": [
+      {
+        "fait": "Schengen limite la durée des contrôles et la Commission demande leur levée progressive.",
+        "integration": "Le reconnaître et débattre de la proportionnalité."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "bruxelles"
+  ],
+  "concepts": [
+    "immigration",
+    "patriotisme",
+    "europe"
+  ]
+}

@@ -153,10 +153,6 @@
       }
     ]
   },
-  "concepts": [
-    "discrimination",
-    "racisme_blanc"
-  ],
   "repond_a": [
     {
       "id": "racisme_blanc",
@@ -169,5 +165,9 @@
     "racisme",
     "nom a consonance",
     "racisme inverse"
+  ],
+  "concepts": [
+    "discrimination",
+    "racisme_blanc"
   ]
 }

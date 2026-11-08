@@ -140,6 +140,10 @@
     "pas en securite",
     "criminalite"
   ],
+  "publics": {
+    "convaincus": "Les étrangers représentent 24,2 % des détenus pour 8,8 % de la population : la surreprésentation est réelle. Mais la prison compte la nationalité, pas l'immigration : un tiers des immigrés sont français, et certains étrangers sont nés en France. On ne peut donc pas dire quelle part de détenus est immigrée.",
+    "indecis": "Les étrangers sont surreprésentés en prison, c'est un fait. Mais les statistiques pénitentiaires comptent la nationalité, pas le fait d'être immigré. Pour comprendre cette surreprésentation, il faudrait aussi comparer à âge, sexe et milieu social égaux, et tenir compte de la détention provisoire."
+  },
   "concepts": [
     "immigration",
     "delinquance",

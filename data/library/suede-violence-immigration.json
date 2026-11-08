@@ -175,11 +175,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "delinquance",
-    "suede"
-  ],
   "repond_a": [
     {
       "id": "suede_violence",
@@ -200,5 +195,10 @@
     "peur de sortir",
     "pas en securite",
     "criminalite"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "suede"
   ]
 }

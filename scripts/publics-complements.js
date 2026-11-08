@@ -1,7 +1,7 @@
 // Réponses selon le public (v14) pour des fiches dont le générateur n'existe plus ou n'est plus relancé.
 // Textes écrits UNIQUEMENT à partir du contenu déjà sourcé de chaque fiche (résumé et faits).
 // Appliqué par scripts/corrections-v10.js (idempotent : remplace le champ « publics » par la version ci-dessous).
-// Ajouts du 7 novembre 2026 (passages de 12 h et de 20 h 15).
+// Ajouts du 7 novembre 2026 (passages de 12 h et de 20 h 15) et du 8 novembre 2026.
 export const PUBLICS = {
   'immigres-aides': {
     convaincus: "Pour toucher le RSA, un étranger non européen doit en principe avoir un titre de séjour qui l'autorise à travailler depuis au moins cinq ans. Et selon l'OCDE, dans presque tous les pays étudiés, on dépense moins par immigré que par natif. Si leur contribution nette est plus faible, c'est surtout parce qu'ils ont moins souvent un emploi, pas parce qu'ils touchent plus.",
@@ -124,5 +124,45 @@ export const PUBLICS = {
   'sondages-mille-personnes': {
     convaincus: "Un échantillon de 1 000 personnes bien construit donne une estimation avec une marge d'erreur connue : un score de 50 % veut dire entre 46,9 % et 53,1 %. Ce n'est pas une prédiction, c'est une photo à un moment donné. Depuis 2016, la marge d'erreur doit être publiée : tu peux la vérifier toi-même.",
     indecis: "Un sondage n'est pas une certitude, mais ce n'est pas rien : avec 1 000 personnes, la marge d'erreur est d'environ 3 points autour de 50 %. Il faut regarder cette marge et la méthode, publiées obligatoirement depuis 2016. Un sondage mesure une opinion à un moment, il ne prédit pas un résultat.",
+  },
+  'commune-paris-1871': {
+    convaincus: "Une « bande d'émeutiers vite remise à sa place » ? La Semaine sanglante, du 21 au 28 mai 1871, a fait des milliers de morts parmi les communards, la plupart fusillés après des jugements sommaires selon les historiens. Environ 43 000 personnes ont été arrêtées et 3 800 déportées. Les communards ont aussi exécuté une centaine d'otages, mais la répression n'a aucune commune mesure.",
+    indecis: "Le bilan de la Commune est débattu : les historiens estiment entre 10 000 et 15 000 les communards tués, d'autres sources davantage. Les communards ont aussi exécuté une centaine d'otages. Ce fut une révolte populaire écrasée dans le sang, dont l'amnistie n'a été votée qu'en 1880.",
+  },
+  'front-populaire-1936': {
+    convaincus: "Les congés payés n'ont pas été offerts par le patronat : c'est une loi du gouvernement de Léon Blum, votée en juin 1936 par 563 voix contre 1, après une vague de grèves. Deux semaines après un an de travail. Ce que tu as aujourd'hui, ce sont des salariés mobilisés qui l'ont obtenu.",
+    indecis: "Les patrons ont négocié, lors des accords de Matignon, mais les congés payés viennent d'une loi du Front populaire promulguée le 20 juin 1936, après des grèves massives. C'est un bon exemple de droits obtenus par la mobilisation et le vote, pas d'un cadeau.",
+  },
+  'criminels-etrangers-proteges-justice': {
+    convaincus: "Les étrangers sont jugés et condamnés comme les autres : au 1er avril 2026, 13 906 détenus étrangers purgeaient une peine. Le juge peut prononcer une interdiction du territoire, et depuis 2024 les protections contre l'expulsion sont levées pour les condamnations graves. Le vrai blocage, ce sont les pays d'origine qui refusent les laissez-passer.",
+    indecis: "On a parfois l'impression que les étrangers condamnés ne sont pas sanctionnés. En réalité, ils sont jugés et incarcérés, et la loi de 2024 a levé la plupart des protections contre l'expulsion en cas de condamnation grave. La difficulté principale est l'exécution des renvois, qui dépend aussi des pays d'origine.",
+  },
+  'etranger-crime-plus-sa-place': {
+    convaincus: "Le droit va déjà dans ton sens : pour un crime, le juge peut prononcer une interdiction du territoire, et depuis 2024 même les étrangers arrivés enfants peuvent être expulsés pour une condamnation grave. Mais la peine est d'abord purgée ici, et le juge vérifie la proportionnalité, comme pour tout le monde.",
+    indecis: "Il est compréhensible de vouloir qu'un étranger qui commet un crime quitte la France, et le droit le permet déjà : interdiction du territoire, expulsion par le préfet. La loi de 2024 a élargi ces possibilités. Le juge contrôle seulement que la mesure reste proportionnée, notamment quand la personne a toute sa famille en France.",
+  },
+  'expulser-reduit-criminalite': {
+    convaincus: "Expulser des délinquants dangereux, pourquoi pas. Mais « il suffit », non : en 2019, plus de 80 % des personnes mises en cause étaient françaises. Et seulement environ 10 % des OQTF sont exécutées. Même en expulsant tous les étrangers condamnés, l'essentiel de la délinquance resterait.",
+    indecis: "Expulser certains auteurs dangereux peut avoir un effet, et c'est déjà prévu par la loi. Mais plus de huit personnes mises en cause sur dix sont françaises, et aucune donnée publique ne mesure l'effet des expulsions sur la récidive. La sécurité dépend surtout de la prévention, de l'enquête et de la justice.",
+  },
+  'france-plus-sure-moins-immigres': {
+    convaincus: "Les étrangers sont surreprésentés parmi les mis en cause, c'est vrai : 17,7 % en 2019. Mais ça ne prouve pas que moins d'immigrés ferait moins de délinquance. Une étude de référence sur l'Italie trouve un effet causal limité aux vols avec violence, et aucun effet significatif sur la délinquance globale.",
+    indecis: "La surreprésentation des étrangers dans les statistiques existe, il ne faut pas la nier. Mais elle peut tenir à l'âge, au sexe ou à la pauvreté, que les chiffres bruts ne distinguent pas, et les études ne montrent pas qu'accueillir moins d'immigrés réduirait la délinquance globale.",
+  },
+  'immigration-chiffres-definitions': {
+    convaincus: "Selon l'Insee, les immigrés sont 7,6 millions en 2024, soit 11,2 % de la population, pas un tiers. Pour arriver à un tiers, il faut compter comme immigrés leurs enfants nés en France, dont plus de la moitié ont un seul parent immigré. Ce sont des Français nés en France.",
+    indecis: "Le chiffre exact est 11,2 % d'immigrés en 2024 selon l'Insee, et un tiers d'entre eux sont devenus français. Les descendants d'immigrés sont nés en France, et la plupart ont un parent né en France. Additionner les deux, c'est confondre ceux qui arrivent et ceux qui sont nés ici.",
+  },
+  'immigres-prisons-surrepresentation': {
+    convaincus: "Les étrangers représentent 24,2 % des détenus pour 8,8 % de la population : la surreprésentation est réelle. Mais la prison compte la nationalité, pas l'immigration : un tiers des immigrés sont français, et certains étrangers sont nés en France. On ne peut donc pas dire quelle part de détenus est immigrée.",
+    indecis: "Les étrangers sont surreprésentés en prison, c'est un fait. Mais les statistiques pénitentiaires comptent la nationalité, pas le fait d'être immigré. Pour comprendre cette surreprésentation, il faudrait aussi comparer à âge, sexe et milieu social égaux, et tenir compte de la détention provisoire.",
+  },
+  'ingerences-etrangeres': {
+    convaincus: "Ce n'est pas un fantasme : VIGINUM, le service de l'État chargé de les détecter, a recensé en 2024 25 manœuvres visant les élections européennes et législatives. La campagne russe « Portal Kombat » reposait sur 193 faux sites d'information.",
+    indecis: "Les ingérences étrangères sont documentées par un service officiel, VIGINUM : 25 manœuvres ont visé les scrutins français de 2024. Elles passent surtout par de faux sites et de faux contenus sur les réseaux. Vérifier la source d'une information avant de la partager est la meilleure protection.",
+  },
+  'passoires-thermiques': {
+    convaincus: "Les passoires énergétiques, ce sont 13,8 % des logements du parc locatif privé, et l'interdiction vise d'abord les logements G, 4,8 % des résidences principales. Il s'agit de rénover une minorité de logements, pas de vider le marché. Et leur nombre baisse chaque année.",
+    indecis: "La crainte d'un marché locatif qui se vide est compréhensible. Mais les logements concernés en premier, classés G, représentent 4,8 % des résidences principales, et le nombre de passoires baisse déjà. L'enjeu est d'aider les propriétaires à rénover, pour que les locataires ne paient plus des factures énormes.",
   },
 };

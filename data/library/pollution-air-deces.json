@@ -1,0 +1,181 @@
+{
+  "id": "pollution-air-deces",
+  "type": "idee_recue",
+  "affirmation": "La pollution de l'air, ça ne tue pas tant que ça.",
+  "volet": "ecologie",
+  "sous_theme": "Transports",
+  "rubriques": [],
+  "mots_cles": [
+    "pollution de l air",
+    "particules fines",
+    "qualite de l air",
+    "pm2 5",
+    "morts de la pollution",
+    "deces lies a la pollution",
+    "40 000 morts"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Selon Santé publique France, près de 40 000 décès par an sont attribuables aux particules fines en France (2016-2019), soit 7 % de la mortalité, et environ 8 mois d'espérance de vie perdus en moyenne. Dans le monde, l'OMS estime à 4,2 millions les décès prématurés liés à la pollution de l'air ambiant. La bonne nouvelle : la situation s'améliore, avec des décès liés aux particules fines en baisse de 47 % en France entre 2005 et 2022.",
+  "contexte": "Les mesures contre la pollution, comme les zones à faibles émissions, sont souvent attaquées au nom d'un danger jugé exagéré.",
+  "explication": "Les décès « attribuables » à la pollution sont estimés par modélisation : on calcule combien de décès seraient évités si l'exposition baissait à un certain seuil. Ce ne sont pas des décès constatés un par un, mais des estimations solides et convergentes.",
+  "faits": [
+    {
+      "fait": "Selon Santé publique France, près de 40 000 décès par an sont attribuables aux particules fines chez les 30 ans et plus (2016-2019), soit 7 % de la mortalité totale.",
+      "periode": "2016-2019",
+      "perimetre": "France",
+      "explication": "La pollution de l'air est une cause majeure de mortalité.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "40 000 décès"
+    },
+    {
+      "fait": "Selon Santé publique France, cette pollution représente une perte moyenne d'espérance de vie d'environ 8 mois.",
+      "periode": "2016-2019",
+      "perimetre": "France",
+      "explication": "L'impact touche toute la population.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'OMS, 4,2 millions de décès prématurés par an dans le monde sont liés à la pollution de l'air ambiant, et 99 % de la population mondiale vivait en 2019 au-delà de ses seuils.",
+      "periode": "2019",
+      "perimetre": "Monde",
+      "explication": "C'est un problème sanitaire mondial.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les décès prématurés liés aux particules fines ont baissé de 47 % en France entre 2005 et 2022, selon l'Agence européenne pour l'environnement.",
+      "periode": "2005-2022",
+      "perimetre": "France",
+      "explication": "Les politiques de réduction de la pollution fonctionnent.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "-47 %"
+    },
+    {
+      "fait": "En 2024, les valeurs limites de pollution ont encore été dépassées pour le dioxyde d'azote dans 2 agglomérations et pour les PM10 dans 3 ; la valeur cible d'ozone l'a été dans 17 agglomérations.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le problème n'est pas réglé.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : selon Santé publique France, près de 40 000 décès par an sont attribuables aux particules fines, soit 7 % des décès. La pollution baisse, et les décès liés aux particules ont reculé de 47 % depuis 2005 : les efforts paient.",
+    "moyen": "Santé publique France estime que près de 40 000 décès par an sont attribuables aux particules fines, soit 7 % de la mortalité, et que cette pollution coûte en moyenne 8 mois d'espérance de vie. Ce sont des estimations par modélisation, mais elles convergent avec celles de l'OMS, qui compte 4,2 millions de décès prématurés dans le monde.\n\nLa pollution baisse : les décès liés aux particules ont reculé de 47 % en France entre 2005 et 2022. C'est la preuve que les normes et les politiques publiques marchent. Il faut continuer, en protégeant d'abord ceux qui vivent près des grands axes, sans faire payer les plus modestes.",
+    "detaille": "Selon Santé publique France, près de 40 000 décès par an sont attribuables aux particules fines PM2,5 chez les 30 ans et plus sur la période 2016-2019, soit 7 % de la mortalité totale, contre 9 % en 2007-2008. Cette pollution représente une perte moyenne d'espérance de vie d'environ 8 mois. Dans le monde, l'OMS compte 4,2 millions de décès prématurés par an, surtout par maladies cardiaques et AVC.\n\nLa tendance est à l'amélioration. Selon l'Agence européenne pour l'environnement, les décès liés aux PM2,5 ont baissé de 47 % en France entre 2005 et 2022, les émissions d'environ 50 % et les concentrations d'environ 42 %. Le ministère de la Transition écologique confirme la baisse des concentrations de la plupart des polluants depuis 2000.\n\nLe problème n'est pas réglé : en 2024, des valeurs limites ont encore été dépassées dans plusieurs agglomérations, et la valeur cible d'ozone dans 17. Ces chiffres sont des estimations par modélisation, et les méthodes européennes et françaises diffèrent, mais toutes concluent à un impact sanitaire majeur.",
+    "empathie": "On peut se méfier des chiffres qui servent à justifier des contraintes, comme les zones à faibles émissions. Mais les estimations de Santé publique France et de l'OMS concordent : l'air pollué abîme réellement la santé, et sa baisse sauve des vies."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On ne meurt pas de la pollution, on meurt d'un infarctus.",
+      "reponse": "Justement : la pollution augmente le risque de maladies cardiaques et d'AVC, qui représentent 68 % des décès estimés par l'OMS."
+    },
+    {
+      "objection": "Ça s'améliore, donc inutile d'agir.",
+      "reponse": "Ça s'améliore parce qu'on a agi ; des seuils sont encore dépassés dans plusieurs villes."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de décès par an Santé publique France attribue aux particules fines ?",
+    "Qui respire l'air le plus pollué : les habitants des centres aisés ou ceux qui vivent le long des grands axes ?"
+  ],
+  "limites": [
+    "Les données de Santé publique France portent sur 2016-2019.",
+    "Les méthodes de l'Agence européenne et de Santé publique France ne sont pas directement comparables."
+  ],
+  "sources": [
+    {
+      "titre": "Pollution de l'air ambiant : nouvelles estimations de son impact sur la santé des Français",
+      "organisme": "Santé publique France",
+      "date_publication": "14 avril 2021",
+      "url": "https://www.santepubliquefrance.fr/presse/pollution-de-lair-ambiant-nouvelles-estimations-de-son-impact-sur-la-sante-des-francais",
+      "passage": "Près de 40 000 décès par an sont attribuables aux particules fines PM2,5 chez les 30 ans et plus (2016-2019), soit 7 % de la mortalité totale, contre 9 % en 2007-2008 ; la perte moyenne d'espérance de vie est d'environ 8 mois. L'agence constate une « tendance à la baisse ».",
+      "pertinence": "Agence nationale de santé publique (données 2016-2019).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Health impacts of air pollution – France (Europe's environment 2025)",
+      "organisme": "Agence européenne pour l'environnement",
+      "date_publication": "29 septembre 2025",
+      "url": "https://www.eea.europa.eu/en/europe-environment-2025/countries/france/health-impacts-of-air-pollution",
+      "passage": "Les décès prématurés liés aux PM2,5 ont baissé de 47 % en France entre 2005 et 2022 (45 % dans l'UE) ; les émissions de PM2,5 ont baissé d'environ 50 % et les concentrations d'environ 42 % (2009-2022). Les méthodes de l'Agence et de Santé publique France diffèrent et ne sont pas directement comparables.",
+      "pertinence": "Agence de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pollution de l'air ambiant (extérieur) et santé : principaux repères",
+      "organisme": "Organisation mondiale de la santé (Nations unies)",
+      "date_publication": "24 octobre 2024",
+      "url": "https://www.who.int/fr/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+      "passage": "4,2 millions de décès prématurés par an dans le monde sont liés à la pollution de l'air ambiant (estimation 2019) ; 99 % de la population mondiale vivait en 2019 au-delà des seuils de l'OMS. Les cardiopathies ischémiques et les AVC représentent 68 % de ces décès.",
+      "pertinence": "Organisation internationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bilan de la qualité de l'air extérieur en France en 2024",
+      "organisme": "SDES, ministère de la Transition écologique",
+      "date_publication": "2025",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/bilan-de-la-qualite-de-lair-exterieur-en-france-en-2024",
+      "passage": "Les émissions de la plupart des polluants ont baissé entre 2000 et 2024 ; les concentrations de PM10, PM2,5 et NO2 diminuent. En 2024, les valeurs limites ont encore été dépassées pour le NO2 dans 2 agglomérations et pour les PM10 dans 3 ; la valeur cible d'ozone l'a été dans 17 agglomérations (moyenne 2022-2024).",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelle évaluation de Santé publique France.",
+  "objections_legitimes": [
+    "Les décès attribuables sont des estimations par modélisation, pas des décès constatés.",
+    "La pollution de l'air baisse nettement depuis vingt ans."
+  ],
+  "publics": {
+    "convaincus": "Santé publique France estime à près de 40 000 par an les décès attribuables aux particules fines, 7 % de la mortalité. Ce n'est pas un chiffre militant : l'OMS arrive aux mêmes conclusions au niveau mondial. Et quand la pollution baisse, comme depuis 2005, ces décès reculent.",
+    "indecis": "Les chiffres sont des estimations, mais ils convergent : près de 40 000 décès par an en France selon Santé publique France. La bonne nouvelle, c'est que la pollution baisse et que les décès liés aux particules ont reculé de 47 % depuis 2005. Le défi est de continuer sans pénaliser les ménages modestes."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "vulnerables"
+    ],
+    "mecanismes": "La pollution touche le plus ceux qui vivent près des grands axes et ne peuvent pas déménager.",
+    "consequences": "Elle provoque des maladies cardiaques, respiratoires et des décès évitables.",
+    "democratie": "La qualité de l’air est un enjeu de santé publique qui justifie des règles collectives.",
+    "propositions": [
+      "Développer des transports collectifs abordables.",
+      "Accompagner financièrement les ménages modestes dans le changement de véhicule."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les décès attribuables sont des estimations par modélisation.",
+        "integration": "Le reconnaître et rappeler que toutes les estimations convergent."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "pollution_air",
+      "label": "Pollution de l’air"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "particules fines",
+    "qualite de l air",
+    "air pollue"
+  ],
+  "concepts": [
+    "ecologie",
+    "pollution_air"
+  ]
+}

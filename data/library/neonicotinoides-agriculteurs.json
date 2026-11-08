@@ -164,11 +164,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "glyphosate",
-    "neonics"
-  ],
   "repond_a": [
     {
       "id": "neonics",
@@ -182,5 +177,10 @@
     "roundup",
     "acetamipride",
     "duplomb"
+  ],
+  "concepts": [
+    "ecologie",
+    "glyphosate",
+    "neonics"
   ]
 }

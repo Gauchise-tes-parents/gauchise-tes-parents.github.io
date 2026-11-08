@@ -145,9 +145,6 @@
       }
     ]
   },
-  "concepts": [
-    "genre_ecole"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -156,5 +153,8 @@
     "evars",
     "education a la vie affective",
     "cours d education sexuelle"
+  ],
+  "concepts": [
+    "genre_ecole"
   ]
 }

@@ -153,12 +153,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "patriotisme",
-    "nationalite",
-    "fn_parti"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -174,5 +168,11 @@
     "drapeau",
     "marseillaise",
     "de droite"
+  ],
+  "concepts": [
+    "emploi",
+    "patriotisme",
+    "nationalite",
+    "fn_parti"
   ]
 }

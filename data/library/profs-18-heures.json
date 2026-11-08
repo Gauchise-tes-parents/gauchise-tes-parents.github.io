@@ -144,12 +144,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "services_publics",
-    "temps_travail",
-    "profs_temps"
-  ],
   "repond_a": [
     {
       "id": "profs_temps",
@@ -170,5 +164,11 @@
     "duree du travail",
     "heures par semaine",
     "heures travaillees"
+  ],
+  "concepts": [
+    "emploi",
+    "services_publics",
+    "temps_travail",
+    "profs_temps"
   ]
 }

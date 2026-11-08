@@ -1,0 +1,200 @@
+{
+  "id": "meres-voilees-sorties-scolaires",
+  "type": "idee_recue",
+  "affirmation": "Les mères voilées n'ont pas le droit d'accompagner les sorties scolaires.",
+  "volet": "droits",
+  "sous_theme": "Laïcité",
+  "rubriques": [],
+  "mots_cles": [
+    "meres voilees",
+    "mamans voilees",
+    "sorties scolaires",
+    "accompagnatrices voilees",
+    "parents accompagnateurs",
+    "voile sortie scolaire",
+    "accompagner une sortie scolaire"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Aucun texte de loi ou règlement n'interdit le voile aux mères qui accompagnent une sortie scolaire. Selon l'étude du Conseil d'État de 2013, les parents accompagnateurs sont des « usagers » du service public, non soumis à la neutralité des agents ; des restrictions restent possibles au cas par cas, par exemple en cas de prosélytisme. Le Sénat a voté l'interdiction plusieurs fois depuis 2019, mais aucune n'est devenue loi.",
+  "contexte": "La question revient régulièrement, souvent à l'occasion d'incidents médiatisés ou de propositions de loi de la droite et de l'extrême droite.",
+  "explication": "La laïcité impose la neutralité religieuse à l'État et à ses agents, et la loi de 2004 l'impose aux élèves des écoles publiques. Les parents, eux, sont des usagers du service public.",
+  "faits": [
+    {
+      "fait": "Selon la réponse ministérielle de 2015, la neutralité des parents accompagnateurs « ne fait pas l'objet de dispositions législatives ou réglementaires spécifiques ».",
+      "periode": "2015",
+      "perimetre": "France",
+      "explication": "Aucun texte n'interdit le voile aux accompagnatrices.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'étude du Conseil d'État de 2013 citée par le ministère, les parents d'élèves doivent être regardés comme des usagers du service public de l'éducation.",
+      "periode": "2013",
+      "perimetre": "France",
+      "explication": "La neutralité des agents ne leur est pas imposée.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le ministère précise qu'on peut demander aux parents de s'abstenir de manifester leurs croyances « en cas de risque de prosélytisme », au cas par cas.",
+      "periode": "2015",
+      "perimetre": "France",
+      "explication": "Des restrictions ponctuelles sont possibles.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Les Surligneurs, un tribunal administratif a validé un règlement imposant la neutralité aux parents, dans la ligne d'une circulaire de 2012, et la position du Conseil d'État est jugée « fragile ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le droit n'est pas totalement figé.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, le Sénat a voté l'interdiction en 2019, puis en 2021 par 177 voix contre 141 ; le ministre Gérald Darmanin évoquait un risque de censure constitutionnelle.",
+      "periode": "2019-2021",
+      "perimetre": "France",
+      "explication": "Ces votes ne sont pas devenus loi.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, l'amendement adopté par le Sénat en mai 2019 a été retiré en commission mixte paritaire.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Le Parlement n'a pas inscrit l'interdiction dans la loi.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : aucune loi n'interdit le voile aux mères qui accompagnent une sortie scolaire. Pour le Conseil d'État, ce sont des usagers du service public, pas des agents tenus à la neutralité. Des restrictions sont possibles au cas par cas.",
+    "moyen": "La laïcité impose la neutralité aux enseignants et, depuis 2004, interdit les signes religieux ostensibles aux élèves. Les parents qui accompagnent une sortie, eux, ne sont pas des agents publics : le Conseil d'État les considère depuis 2013 comme des usagers du service public. Aucun texte ne leur interdit le voile.\n\nUn directeur peut demander une abstention en cas de prosélytisme, au cas par cas. Le Sénat a plusieurs fois voté une interdiction générale, mais elle n'a jamais été adoptée, notamment à cause du risque de discrimination.",
+    "detaille": "Selon la réponse du ministère de l'Éducation nationale publiée en 2015, la neutralité des parents accompagnateurs ne fait l'objet d'aucune disposition législative ou réglementaire spécifique. Le ministère s'appuie sur l'étude du Conseil d'État du 19 décembre 2013, qui considère les parents comme des usagers du service public. Des restrictions sont possibles en cas de prosélytisme ou de trouble, et les circonstances sont déterminantes.\n\nLe droit n'est pas parfaitement fixé : une circulaire de 2012 allait vers la neutralité, un tribunal administratif a validé un règlement intérieur l'imposant, et Les Surligneurs jugent la position du Conseil d'État « fragile ». Une interdiction visant le seul voile serait en revanche discriminatoire.\n\nPolitiquement, le Sénat a voté l'interdiction en mai 2019, en octobre 2019 (163 voix contre 114) et en mars 2021 (177 voix contre 141). Aucune de ces mesures n'est devenue loi : l'amendement de 2019 a été retiré en commission mixte paritaire, et les gouvernements successifs s'y sont opposés, évoquant un risque de censure.",
+    "empathie": "Tu peux être attaché à la laïcité à l'école, c'est un principe précieux. La laïcité protège justement les enfants du prosélytisme, mais elle n'oblige pas leurs parents à se cacher."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Pendant la sortie, la mère représente l'école.",
+      "reponse": "Le Conseil d'État la considère comme une usagère, non comme une agente du service public."
+    },
+    {
+      "objection": "Le Sénat a voté l'interdiction.",
+      "reponse": "Oui, plusieurs fois, mais aucune de ces mesures n'est devenue loi."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce que dit le Conseil d'État sur les parents accompagnateurs ?",
+    "Qui accompagnera les sorties si l'on exclut une partie des parents volontaires ?"
+  ],
+  "limites": [
+    "L'étude du Conseil d'État de 2013 n'a pas été lue directement, mais à travers la réponse ministérielle et Les Surligneurs.",
+    "Le sort final de l'amendement sénatorial de 2021 n'a pas été vérifié sur Légifrance."
+  ],
+  "sources": [
+    {
+      "titre": "Question écrite n° 57422 et réponse du ministère de l'Éducation nationale",
+      "organisme": "Assemblée nationale (14e législature)",
+      "date_publication": "réponse publiée au JO le 17 mars 2015",
+      "url": "https://questions.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE57422.pdf",
+      "passage": "La neutralité des parents accompagnateurs « ne fait pas l'objet de dispositions législatives ou réglementaires spécifiques ». Selon l'étude du Conseil d'État du 19 décembre 2013, « les parents d'élèves doivent être regardés comme des usagers du service public de l'éducation ». On peut leur demander « de s'abstenir de manifester leur appartenance ou leurs croyances religieuses en cas de risque de prosélytisme » ; « les circonstances de fait sont déterminantes ».",
+      "pertinence": "Réponse ministérielle officielle (2015).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Chez les Surligneurs : Bruno Retailleau peut-il interdire le voile lors des sorties scolaires ?",
+      "organisme": "Les Surligneurs, publié par Actu-Juridique",
+      "date_publication": "non daté (vers janvier 2025)",
+      "url": "https://www.actu-juridique.fr/ntic-medias-presse/chez-les-surligneurs-bruno-retailleau-peut-il-interdire-le-voile-lors-des-sorties-scolaires/",
+      "passage": "L'étude du Conseil d'État de 2013 considère que les parents accompagnateurs sont des usagers, non soumis à la neutralité, position que l'article juge « fragile ». Le tribunal administratif de Nice l'a suivie en 2015 ; celui de Montreuil avait validé un règlement imposant la neutralité, dans la ligne de la circulaire du 27 mars 2012. Une interdiction visant le seul voile serait discriminatoire et exigerait une base légale solide.",
+      "pertinence": "Vérification juridique animée par des universitaires.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Interdiction du voile pour les sorties scolaires : retour sur l'émergence du texte",
+      "organisme": "Public Sénat",
+      "date_publication": "29 octobre 2019",
+      "url": "https://www.publicsenat.fr/actualites/politique/interdiction-du-voile-pour-les-sorties-scolaires-retour-sur-l-emergence-du",
+      "passage": "Un amendement d'interdiction est rejeté à l'Assemblée en février 2019. En mai 2019, un amendement est adopté au Sénat, puis retiré en commission mixte paritaire. Une proposition de loi de Jacqueline Eustache-Brinio est déposée en juillet 2019.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Port du voile et sorties scolaires : le Sénat adopte la proposition de loi Eustache-Brinio",
+      "organisme": "Public Sénat",
+      "date_publication": "29 octobre 2019",
+      "url": "https://www.publicsenat.fr/actualites/politique/port-du-voile-et-sorties-scolaires-le-senat-adopte-la-proposition-de-loi",
+      "passage": "Le texte est adopté au Sénat par 163 voix contre 114. Le ministre Jean-Michel Blanquer estime qu'« une loi irait au-delà du nécessaire et aurait des effets contre-productifs » ; ses chances d'adoption à l'Assemblée sont jugées faibles.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Séparatisme : le Sénat vote l'interdiction des signes religieux pour les accompagnateurs de sorties scolaires",
+      "organisme": "Public Sénat",
+      "date_publication": "30 mars 2021",
+      "url": "https://www.publicsenat.fr/article/parlementaire/separatisme-le-senat-vote-l-interdiction-des-signes-religieux-pour-les",
+      "passage": "Un amendement est adopté au Sénat par 177 voix contre 141 dans le projet de loi confortant le respect des principes de la République ; le ministre Gérald Darmanin évoque un risque de censure par le Conseil constitutionnel.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles propositions de loi ou jurisprudence.",
+  "objections_legitimes": [
+    "Des restrictions au cas par cas sont possibles en cas de prosélytisme.",
+    "Une circulaire de 2012 et un jugement allaient vers une neutralité des parents."
+  ],
+  "publics": {
+    "convaincus": "Aucune loi n'interdit à une mère voilée d'accompagner une sortie : le ministère l'a confirmé en 2015, en s'appuyant sur le Conseil d'État. La neutralité, c'est pour les agents de l'État, pas pour les parents. Le Sénat a voulu l'interdire plusieurs fois, et ça n'est jamais passé, notamment parce que ce serait discriminatoire.",
+    "indecis": "La laïcité impose la neutralité aux enseignants et aux élèves, pas aux parents, que le Conseil d'État considère comme des usagers. Un directeur peut intervenir en cas de prosélytisme. La question est surtout de savoir si l'on veut associer tous les parents à la vie de l'école."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "antiracisme",
+      "egalite"
+    ],
+    "mecanismes": "La laïcité impose la neutralité à l’État et à ses agents, pas aux parents usagers du service public.",
+    "consequences": "Exclure certaines mères les éloigne de la scolarité de leurs enfants.",
+    "democratie": "Une interdiction visant une religion serait discriminatoire et contraire aux libertés.",
+    "propositions": [
+      "Appliquer la laïcité telle qu’elle est définie par le droit.",
+      "Traiter le prosélytisme au cas par cas, quelle que soit la religion."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des restrictions ponctuelles restent possibles en cas de prosélytisme.",
+        "integration": "Le reconnaître : c’est ce que prévoit déjà le droit."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "meres_voilees",
+      "label": "Mères voilées et sorties scolaires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "laicite"
+  ],
+  "concepts": [
+    "islam",
+    "laicite",
+    "meres_voilees"
+  ]
+}

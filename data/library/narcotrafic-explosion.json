@@ -1,0 +1,207 @@
+{
+  "id": "narcotrafic-explosion",
+  "type": "idee_recue",
+  "affirmation": "Le narcotrafic explose en France.",
+  "volet": "securite",
+  "sous_theme": "Criminalité organisée",
+  "rubriques": [],
+  "mots_cles": [
+    "narcotrafic",
+    "trafic de drogue",
+    "narchomicides",
+    "cocaine",
+    "points de deal",
+    "narcotrafiquants",
+    "saisies de drogue",
+    "trafic de stupefiants"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Plutôt vrai pour la cocaïne : les saisies sont passées de 23 tonnes en 2023 à 53,5 tonnes en 2024 et 84,3 tonnes en 2025, et le nombre d'usagers a presque doublé, à 1,1 million. Le Sénat, dans un rapport transpartisan, parle de « submersion ». Mais les morts liés au trafic ont baissé entre 2023 et 2024 (139 puis 110), et la consommation de cannabis est stable. La réponse de gauche porte sur la demande, le blanchiment et les moyens des enquêteurs.",
+  "contexte": "Les règlements de comptes à Marseille, Nîmes ou Grenoble ont fait du narcotrafic un thème central du débat sur la sécurité.",
+  "explication": "Les saisies mesurent à la fois le trafic et l'activité des services : une hausse peut refléter plus de drogue et plus de contrôles. Les homicides liés au trafic et la consommation sont d'autres indicateurs.",
+  "faits": [
+    {
+      "fait": "Selon l'AFP, d'après le ministère de l'Intérieur, 53,5 tonnes de cocaïne ont été saisies en 2024, contre 23 tonnes en 2023.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Le trafic de cocaïne progresse fortement.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "+130 %"
+    },
+    {
+      "fait": "Selon l'AFP, d'après le ministre de l'Intérieur, 84,3 tonnes de cocaïne ont été saisies en 2025, et les mis en cause augmentent d'environ 7 % par an depuis 2017.",
+      "periode": "2017-2025",
+      "perimetre": "France",
+      "explication": "La hausse se poursuit.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "84,3 tonnes"
+    },
+    {
+      "fait": "Selon l'OFDT cité par l'AFP, 1,1 million de personnes ont consommé de la cocaïne dans l'année en 2023, contre 600 000 dans le rapport précédent.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La demande de cocaïne explose.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "1,1 million"
+    },
+    {
+      "fait": "Selon l'AFP, 110 personnes sont mortes en lien avec le narcotrafic en 2024, contre 139 en 2023 ; les homicides et tentatives passent de 418 à 367.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Les violences mortelles ont baissé en 2024.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le rapport du Sénat, le chiffre d'affaires du trafic atteint au moins 3,5 milliards d'euros, et 80 à 90 % des règlements de comptes entre délinquants sont liés aux stupéfiants.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le trafic est un marché massif et violent.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'OFDT cité par l'AFP, la consommation de cannabis est « relativement stable », autour de 5 millions d'usagers dans l'année.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Tout le marché n'explose pas.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La loi du 13 juin 2025 crée un parquet national anti-criminalité organisée et des quartiers de lutte contre la criminalité organisée en prison.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "L'État a renforcé son arsenal.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Plutôt vrai pour la cocaïne : saisies multipliées par près de quatre entre 2023 et 2025, et 1,1 million d'usagers. Mais les morts liés au trafic ont baissé en 2024, et le cannabis est stable.",
+    "moyen": "Le trafic de cocaïne progresse fortement : 23 tonnes saisies en 2023, 84,3 tonnes en 2025, et le nombre d'usagers a presque doublé. Le Sénat, dans un rapport porté par un socialiste et un LR, parle de « submersion » et d'un marché d'au moins 3,5 milliards d'euros.\n\nLe tableau est plus nuancé ailleurs : les morts liés au trafic ont baissé en 2024, et la consommation de cannabis est stable. Pour lutter contre ce marché, il faut s'attaquer à l'argent, au blanchiment, aux têtes de réseau, et à la demande, pas seulement aux petits revendeurs.",
+    "detaille": "Tous les indicateurs liés à la cocaïne sont à la hausse. Selon le ministère de l'Intérieur, les saisies sont passées de 23 tonnes en 2023 à 53,5 tonnes en 2024 puis 84,3 tonnes en 2025, et les mis en cause augmentent d'environ 7 % par an depuis 2017. Selon l'OFDT, 1,1 million de personnes ont consommé de la cocaïne dans l'année en 2023, presque deux fois plus que dans l'enquête précédente.\n\nLa commission d'enquête du Sénat, présidée par le socialiste Jérôme Durain avec le LR Étienne Blanc pour rapporteur, parle de « submersion ». Elle chiffre le marché à au moins 3,5 milliards d'euros et relève que 80 à 90 % des règlements de comptes entre délinquants sont liés au trafic, tout en soulignant le manque de moyens de l'office antistupéfiants. La loi du 13 juin 2025 a créé un parquet spécialisé.\n\nD'autres indicateurs sont plus stables : 110 morts liés au trafic en 2024 contre 139 en 2023, et une consommation de cannabis stable. Les saisies mesurent aussi l'activité des services, pas seulement le volume du trafic.",
+    "empathie": "Voir des fusillades dans des quartiers où vivent des familles est terrifiant, et l'inquiétude est légitime. Les chiffres confirment que le trafic de cocaïne progresse fortement ; la question est de savoir comment frapper les réseaux là où ça leur fait mal."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est la faute de l'immigration.",
+      "reponse": "Les sources lues décrivent un marché porté par la demande française de cocaïne et des réseaux criminels, sans en faire une question d'origine."
+    },
+    {
+      "objection": "Il faut juste plus de répression.",
+      "reponse": "Le Sénat insiste aussi sur les moyens d'enquête, le blanchiment et la corruption."
+    }
+  ],
+  "questions": [
+    "Sais-tu que la consommation de cocaïne a presque doublé en France ?",
+    "Qui achète la drogue que vendent les trafiquants ?"
+  ],
+  "limites": [
+    "Les chiffres du ministère de l'Intérieur et de l'OFDT ont été lus à travers des dépêches de l'AFP.",
+    "Les saisies dépendent aussi de l'activité des services."
+  ],
+  "sources": [
+    {
+      "titre": "Commission d'enquête sur l'impact du narcotrafic en France : l'essentiel (rapport n° 588, 2023-2024)",
+      "organisme": "Sénat (président Jérôme Durain, rapporteur Étienne Blanc)",
+      "date_publication": "mai 2024",
+      "url": "https://conferenceconsensuslogement.senat.fr/rap/r23-588-2/r23-588-2-syn.pdf",
+      "passage": "Le chiffre d'affaires du trafic est d'au moins « 3,5 milliards d'euros au minimum » selon le ministre de l'Économie. Selon l'office central de lutte contre le crime organisé, « entre 80 à 90 % » des règlements de comptes entre délinquants sont liés au trafic de stupéfiants. L'OFAST « ne dispose toujours pas des moyens requis ».",
+      "pertinence": "Rapport parlementaire transpartisan.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi visant à sortir la France du piège du narcotrafic (La loi en clair)",
+      "organisme": "Sénat",
+      "date_publication": "2025",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-sortir-la-france-du-piege-du-narcotrafic.html",
+      "passage": "Le texte est adopté définitivement le 29 avril 2025, jugé « partiellement conforme » par le Conseil constitutionnel le 12 juin et promulgué le 13 juin 2025. Il crée un parquet national anti-criminalité organisée, des quartiers de lutte contre la criminalité organisée en prison et un statut des « repentis ». La page reprend la formule de la commission : « submersion de la France par le narcotrafic ».",
+      "pertinence": "Document institutionnel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Narcotrafic : 110 morts et explosion des saisies de cocaïne en France en 2024",
+      "organisme": "AFP, reprise par Imaz Press",
+      "date_publication": "6 février 2025",
+      "url": "https://imazpress.com/france-monde/narcotrafic-110-morts-et-explosion-des-saisies-de-cocaine-en-france-en-2024",
+      "passage": "D'après le ministère de l'Intérieur, 110 morts liés au narcotrafic en 2024 contre 139 en 2023 ; 367 homicides et tentatives contre 418. Cocaïne saisie : 53,5 tonnes, « une augmentation de 130% comparé à 2023 (23 tonnes) » ; cannabis saisi : 101 tonnes, en baisse de 19 %.",
+      "pertinence": "Dépêche d'agence reprenant des chiffres officiels.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Narcotrafic : 84,3 tonnes de cocaïne saisies en France en 2025, contre 53,5 tonnes en 2024",
+      "organisme": "AFP, reprise par Outremers 360",
+      "date_publication": "18 mars 2026",
+      "url": "https://outremers360.com/bassin-atlantique-appli/narcotrafic-84-3-tonnes-de-cocaine-saisies-en-france-en-2025-contre-53-5-tonnes-en-2024",
+      "passage": "Selon le ministre de l'Intérieur, 84,3 tonnes de cocaïne ont été saisies en 2025 (+58 %) et 127,3 tonnes de cannabis ; les mis en cause augmentent d'environ 7 % par an depuis 2017.",
+      "pertinence": "Dépêche d'agence reprenant des chiffres officiels.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Drogues : plus d'un million d'usagers de cocaïne en France en 2023",
+      "organisme": "AFP, d'après l'OFDT, publié par Les Nouvelles Calédoniennes",
+      "date_publication": "16 janvier 2025",
+      "url": "https://www.lnc.nc/article/france/societe/drogues-plus-d-un-million-d-usagers-de-cocaine-en-france-en-2023",
+      "passage": "Selon l'OFDT, 1,1 million d'usagers de cocaïne dans l'année en 2023, contre 600 000 dans le rapport précédent : « La demande en cocaïne n'a jamais été aussi forte ». Le cannabis est « relativement stable », avec 5 millions d'usagers dans l'année.",
+      "pertinence": "Dépêche d'agence reprenant l'observatoire public des drogues.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Bilan annuel du ministère de l'Intérieur et de l'OFDT.",
+  "objections_legitimes": [
+    "Le trafic de cocaïne et sa consommation progressent fortement.",
+    "Le Sénat, de façon transpartisane, parle de « submersion »."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur la cocaïne : les saisies ont presque quadruplé entre 2023 et 2025. Mais demande-toi qui consomme : 1,1 million de Français en ont pris en 2023, selon l'OFDT. Le Sénat demande surtout des moyens pour frapper l'argent et les têtes de réseau, pas seulement les guetteurs.",
+    "indecis": "Le trafic de cocaïne progresse vraiment, et le Sénat parle de « submersion ». Les violences mortelles ont pourtant baissé en 2024, et le cannabis est stable. Pour agir, il faut viser l'argent des réseaux, le blanchiment et la demande."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "vulnerables",
+      "services_publics"
+    ],
+    "mecanismes": "Le trafic prospère sur la demande, l’argent facile du blanchiment et l’abandon de quartiers entiers.",
+    "consequences": "Les habitants des quartiers et les jeunes recrutés comme petites mains en sont les premières victimes.",
+    "democratie": "La lutte contre la criminalité organisée doit respecter les libertés publiques.",
+    "propositions": [
+      "Frapper l’argent des réseaux et le blanchiment.",
+      "Réinvestir dans la prévention, la santé et les services publics des quartiers."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le trafic de cocaïne progresse réellement et fortement.",
+        "integration": "Le reconnaître et proposer une réponse qui vise les réseaux plutôt que les quartiers."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ],
+  "concepts": [
+    "delinquance"
+  ]
+}

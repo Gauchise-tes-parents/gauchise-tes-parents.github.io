@@ -144,10 +144,6 @@
       }
     ]
   },
-  "concepts": [
-    "demographie",
-    "europe"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -162,5 +158,9 @@
     "nombre d",
     "bruxelles",
     "union europeenne"
+  ],
+  "concepts": [
+    "demographie",
+    "europe"
   ]
 }

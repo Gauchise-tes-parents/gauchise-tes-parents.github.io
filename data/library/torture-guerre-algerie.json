@@ -1,0 +1,164 @@
+{
+  "id": "torture-guerre-algerie",
+  "type": "idee_recue",
+  "affirmation": "Pendant la guerre d'Algérie, la torture était l'exception.",
+  "volet": "international",
+  "sous_theme": "Colonisation et décolonisation",
+  "rubriques": [],
+  "mots_cles": [
+    "torture en algerie",
+    "guerre d algerie",
+    "torture",
+    "maurice audin",
+    "ali boumendjel",
+    "bataille d alger",
+    "aussaresses",
+    "pouvoirs speciaux"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. L'État français reconnaît officiellement depuis 2018 que la mort de Maurice Audin a été rendue possible par « un système légalement institué », fondé sur les pouvoirs spéciaux votés en 1956, et que la torture « restait impunie parce qu'elle était conçue comme une arme contre le FLN ». L'historienne Raphaëlle Branche la décrit comme « massive », « quotidienne, banale ». Tous les soldats n'ont pas torturé : la pratique relevait surtout d'unités spécialisées, mais elle était couverte par la hiérarchie.",
+  "contexte": "La mémoire de la guerre d'Algérie reste conflictuelle ; une partie de la droite et de l'extrême droite refuse ce qu'elle appelle la « repentance ».",
+  "explication": "Dire que la torture était « systématique » ne signifie pas que chaque soldat a torturé, mais qu'elle relevait d'un système toléré, organisé et couvert par l'État.",
+  "faits": [
+    {
+      "fait": "Selon la déclaration du président de la République de 2018, la mort de Maurice Audin a été rendue possible par « un système légalement institué qui a favorisé les disparitions », fondé sur les pouvoirs spéciaux de 1956.",
+      "periode": "1956-1957",
+      "perimetre": "Algérie",
+      "explication": "L'État reconnaît un système, pas une bavure.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la même déclaration, la torture « restait impunie parce qu'elle était conçue comme une arme contre le FLN ».",
+      "periode": "1954-1962",
+      "perimetre": "Algérie",
+      "explication": "La torture était une méthode de guerre.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le communiqué de l'Élysée de 2021, Ali Boumendjel « a été torturé puis assassiné » en 1957, et le crime a été maquillé en suicide sur ordre de Paul Aussaresses, selon ses propres aveux.",
+      "periode": "1957",
+      "perimetre": "Algérie",
+      "explication": "L'État a menti pendant des décennies.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'historienne Raphaëlle Branche, la torture était « massive » : « une violence quotidienne, banale, utilisée indifféremment en ville ou dans les montagnes », visant surtout des civils.",
+      "periode": "1954-1962",
+      "perimetre": "Algérie",
+      "explication": "L'historiographie confirme l'ampleur.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Raphaëlle Branche, il est « interdit d'affirmer que l'ensemble des officiers de renseignement ont eu recours à la torture », mais « aucun responsable militaire n'est sanctionné pour ces méthodes ».",
+      "periode": "1954-1962",
+      "perimetre": "Algérie",
+      "explication": "Tous n'ont pas torturé, mais la hiérarchie a couvert.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : l'État français reconnaît lui-même un « système légalement institué » et une torture « conçue comme une arme contre le FLN ». Les historiens la décrivent comme massive et quotidienne, même si tous les soldats n'y ont pas participé.",
+    "moyen": "En 2018, le président de la République a reconnu que Maurice Audin était mort en raison d'un « système légalement institué », rendu possible par les pouvoirs spéciaux votés en 1956, et que la torture était « conçue comme une arme contre le FLN ». En 2021, l'État a reconnu qu'Ali Boumendjel avait été torturé puis assassiné.\n\nL'historienne Raphaëlle Branche décrit une torture « massive », « quotidienne, banale », surtout contre des civils. Cela ne veut pas dire que tous les soldats ont torturé : beaucoup ne l'ont pas fait, et certains s'y sont opposés. Mais aucun responsable n'a été sanctionné. Le reconnaître, c'est respecter la vérité, pas humilier l'armée.",
+    "detaille": "Le 13 septembre 2018, Emmanuel Macron a reconnu que Maurice Audin, arrêté le 11 juin 1957, était mort à cause d'un « système légalement institué qui a favorisé les disparitions ». Ce système reposait sur les pouvoirs spéciaux votés par le Parlement en 1956, et la torture « restait impunie parce qu'elle était conçue comme une arme contre le FLN ». Les archives sur ce sujet ont été ouvertes. En 2021, l'État a aussi reconnu qu'Ali Boumendjel avait été « torturé puis assassiné », le crime ayant été maquillé en suicide.\n\nLes travaux de l'historienne Raphaëlle Branche décrivent une torture « massive », « une violence quotidienne, banale », pratiquée en ville comme dans les montagnes, surtout contre des civils soupçonnés d'aider les maquis. L'électricité était la technique la plus utilisée.\n\nL'historienne apporte aussi une nuance : les tortures étaient « le plus souvent le fait de certains soldats particuliers », d'unités de renseignement et de détachements spécialisés, et l'on ne peut pas dire que tous les officiers de renseignement ont torturé. Mais aucun responsable militaire n'a été sanctionné, et une interdiction explicite n'est venue que tardivement. C'est ce qui fait de la torture un système et non une exception.",
+    "empathie": "Beaucoup de familles ont un grand-père qui a fait l'Algérie, et entendre parler de torture peut être douloureux. Reconnaître ce système ne revient pas à accuser chaque appelé : c'est l'État qui l'a organisé et couvert."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le FLN aussi a commis des atrocités.",
+      "reponse": "Les violences d'un camp n'effacent pas celles de l'autre : elles ne changent rien au système reconnu par l'État français."
+    },
+    {
+      "objection": "C'est de la repentance.",
+      "reponse": "C'est une reconnaissance des faits par le chef de l'État, fondée sur les archives et le travail des historiens."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce que l'État français a reconnu en 2018 au sujet de Maurice Audin ?",
+    "Reconnaître un crime d'État, est-ce trahir son pays ou le respecter ?"
+  ],
+  "limites": [
+    "L'article de Raphaëlle Branche date de 2007.",
+    "Le nombre de victimes de la torture n'est pas établi par les sources lues."
+  ],
+  "sources": [
+    {
+      "titre": "Déclaration du Président de la République sur la mort de Maurice Audin",
+      "organisme": "Présidence de la République (Élysée)",
+      "date_publication": "13 septembre 2018",
+      "url": "https://www.elysee.fr/emmanuel-macron/2018/09/13/declaration-du-president-de-la-republique-sur-la-mort-de-maurice-audin",
+      "passage": "La mort de Maurice Audin, arrêté le 11 juin 1957, a été rendue possible par « un système légalement institué qui a favorisé les disparitions ». « Ce système s'est institué sur un fondement légal : les pouvoirs spéciaux », votés en 1956. La torture « restait impunie parce qu'elle était conçue comme une arme contre le FLN ». Les archives de l'État sur ce sujet sont ouvertes à la libre consultation.",
+      "pertinence": "Déclaration officielle du chef de l'État.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Reconnaissance par la France de l'assassinat d'Ali Boumendjel",
+      "organisme": "Présidence de la République (Élysée)",
+      "date_publication": "2 mars 2021",
+      "url": "https://www.elysee.fr/emmanuel-macron/2021/03/02/reconnaissance-par-la-france-de-lassassinat-dali-boumendjel",
+      "passage": "Ali Boumendjel, arrêté par l'armée française et détenu au secret, a été tué le 23 mars 1957 : « Il a été torturé puis assassiné. » Paul Aussaresses « avoua lui-même avoir ordonné à l'un de ses subordonnés de le tuer et de maquiller le crime en suicide ». Cette reconnaissance figurait parmi les recommandations du rapport de Benjamin Stora.",
+      "pertinence": "Communiqué officiel du chef de l'État.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Torturer des terroristes ? Justifications, méthodes et effets du recours à la torture dans une guerre « contre le terrorisme ». L'exemple de la France en Algérie, 1954-1962",
+      "organisme": "Raphaëlle Branche (Université Paris 1), publié par le CICR",
+      "date_publication": "septembre 2007",
+      "url": "https://www.icrc.org/fre/assets/files/other/irrc-867-branche.pdf",
+      "passage": "La torture y est décrite comme « massive » : « une violence quotidienne, banale, utilisée indifféremment en ville ou dans les montagnes », visant surtout des civils soupçonnés d'aider les maquis ; l'électricité était « la technique la plus utilisée ». Les tortures sont « le plus souvent le fait de certains soldats particuliers », du renseignement et des détachements spécialisés ; il est « interdit d'affirmer que l'ensemble des officiers de renseignement ont eu recours à la torture ». Mais « aucun responsable militaire n'est sanctionné pour ces méthodes ».",
+      "pertinence": "Article d'une historienne universitaire de référence (2007).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles ouvertures d'archives ou reconnaissances officielles.",
+  "objections_legitimes": [
+    "Tous les soldats n'ont pas torturé ; la pratique relevait surtout d'unités spécialisées.",
+    "Certains responsables militaires ont exprimé leur désaccord."
+  ],
+  "publics": {
+    "convaincus": "Ce n'est pas la gauche qui le dit, c'est le président de la République en 2018 : un « système légalement institué », et une torture « conçue comme une arme contre le FLN ». Tous les soldats n'ont pas torturé, l'historienne Raphaëlle Branche le précise. Mais aucun responsable n'a jamais été sanctionné.",
+    "indecis": "La guerre d'Algérie touche beaucoup de familles, et il est normal d'être prudent. L'État reconnaît pourtant officiellement un système de torture et de disparitions, et les historiens le décrivent comme massif. Le reconnaître n'accuse pas chaque soldat, mais ceux qui l'ont organisé et couvert."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "antiracisme",
+      "democratie"
+    ],
+    "mecanismes": "La torture relevait d’un système légal, toléré et couvert par l’État, pas de dérapages isolés.",
+    "consequences": "Les victimes et leurs familles ont attendu des décennies la reconnaissance des faits.",
+    "democratie": "Une démocratie se renforce en regardant son passé en face.",
+    "propositions": [
+      "Poursuivre l’ouverture des archives.",
+      "Enseigner l’histoire de la guerre d’Algérie dans toute sa complexité."
+    ],
+    "defavorables": [
+      {
+        "fait": "Tous les soldats n’ont pas torturé.",
+        "integration": "Le reconnaître et viser les responsables du système plutôt que les appelés."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "algerie francaise",
+    "empire colonial",
+    "indigenat"
+  ],
+  "concepts": [
+    "colonisation",
+    "algerie"
+  ]
+}

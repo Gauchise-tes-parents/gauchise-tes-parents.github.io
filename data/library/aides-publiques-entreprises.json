@@ -1,0 +1,193 @@
+{
+  "id": "aides-publiques-entreprises",
+  "type": "idee_recue",
+  "affirmation": "Les entreprises ne touchent presque pas d'aides publiques, c'est l'assistanat des pauvres qui coûte.",
+  "volet": "economie",
+  "sous_theme": "Grandes entreprises",
+  "rubriques": [],
+  "mots_cles": [
+    "aides publiques aux entreprises",
+    "aides aux entreprises",
+    "211 milliards",
+    "assistanat des entreprises",
+    "subventions aux entreprises",
+    "cadeaux aux entreprises",
+    "exonerations de cotisations"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. La commission d'enquête du Sénat, présidée par un sénateur LR, estime les aides publiques aux entreprises à au moins 211 milliards d'euros en 2023, et à 108 milliards au sens strict. En comparaison, le RSA a coûté 12,2 milliards d'euros et l'ensemble des minima sociaux 31,6 milliards. Le montant exact dépend du périmètre retenu, et une partie de ces aides, comme les allègements de cotisations, est défendue comme une compensation du coût du travail.",
+  "contexte": "Le débat sur « l'assistanat » vise presque toujours les allocataires de minima sociaux, rarement les entreprises.",
+  "explication": "Les aides aux entreprises comprennent des subventions, des prêts et garanties publics, des réductions d'impôts et des allègements de cotisations sociales. Il n'existe pas de définition officielle unique, d'où des estimations différentes.",
+  "faits": [
+    {
+      "fait": "La commission d'enquête du Sénat estime à au moins 211 milliards d'euros les aides publiques d'État aux entreprises en 2023 ; son rapport a été adopté à l'unanimité.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le montant est très élevé et le constat transpartisan.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "211 Md€"
+    },
+    {
+      "fait": "Ce total comprend 7 Md€ de subventions, 41 Md€ d'interventions de Bpifrance, 88 Md€ de dépenses fiscales et 75 Md€ d'allègements de cotisations ; au sens strict, la commission arrive à 108 Md€.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Même au sens strict, le montant dépasse 100 milliards.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2023, les minima sociaux s'élèvent à 31,6 milliards d'euros, dont 12,2 milliards pour le RSA.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le RSA coûte environ neuf fois moins que les aides aux entreprises au sens strict.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "12,2 Md€"
+    },
+    {
+      "fait": "Le Sénat juge « impossible de déterminer avec précision le montant des aides publiques versées aux grandes entreprises » ; les estimations antérieures allaient de 139 à 223 Md€ selon le périmètre.",
+      "periode": "2019-2025",
+      "perimetre": "France",
+      "explication": "L'ordre de grandeur est sûr, le chiffre exact non.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, le président de la commission voit dans les allègements de cotisations des « compensations », et le Medef conteste l'addition.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le classement des allègements en « aides » est discuté.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le Sénat chiffre les aides publiques aux entreprises à au moins 211 milliards d'euros en 2023, et à 108 milliards au sens strict. Le RSA, c'est 12,2 milliards.",
+    "moyen": "Une commission d'enquête du Sénat, présidée par un sénateur LR, a recensé plus de 2 200 dispositifs d'aide aux entreprises. Total : au moins 211 milliards d'euros en 2023, dont 75 milliards d'allègements de cotisations. Même au sens strict, on dépasse 100 milliards.\n\nLe RSA, lui, a coûté 12,2 milliards en 2023, et tous les minima sociaux 31,6 milliards. On peut défendre certaines aides aux entreprises, mais si on parle d'argent public versé sans contrepartie claire, c'est d'abord de ce côté qu'il faut regarder.",
+    "detaille": "En juillet 2025, la commission d'enquête du Sénat sur les aides publiques aux entreprises, présidée par Olivier Rietmann (LR) avec le communiste Fabien Gay comme rapporteur, a adopté à l'unanimité son rapport. Elle estime ces aides à au moins 211 Md€ en 2023 : 7 Md€ de subventions, 41 Md€ d'interventions de Bpifrance, 88 Md€ de dépenses fiscales et 75 Md€ d'allègements de cotisations, sans compter les aides des collectivités et de l'Europe.\n\nLe chiffre dépend du périmètre : 108 Md€ au sens strict selon la commission, 112 Md€ hors allègements pour le Haut-commissariat au Plan, environ 150 Md€ selon le ministre de l'Économie. Le Sénat reconnaît qu'il est impossible d'établir un montant précis, et le Medef conteste l'addition. Mais aucune de ces estimations ne descend sous 100 Md€.\n\nÀ titre de comparaison, la DREES chiffre les minima sociaux à 31,6 Md€ en 2023, dont 12,2 Md€ pour le RSA. La commission ne demande pas de supprimer les aides aux entreprises, mais un « choc de transparence » et des contreparties.",
+    "empathie": "On peut trouver injuste de financer des gens qui ne travaillent pas, c'est un sentiment répandu. Mais si l'on cherche où va l'argent public sans contrepartie, les aides aux entreprises pèsent bien plus lourd."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ces aides créent des emplois.",
+      "reponse": "Certaines peut-être, mais le Sénat demande justement des contreparties et une évaluation, faute de transparence."
+    },
+    {
+      "objection": "Ce ne sont pas des aides, juste moins d'impôts.",
+      "reponse": "Le périmètre strict de la commission, 108 Md€, reste près de neuf fois le coût du RSA."
+    }
+  ],
+  "questions": [
+    "Savais-tu que le Sénat chiffre les aides aux entreprises à plus de 200 milliards ?",
+    "Faut-il exiger des contreparties aux entreprises aidées, comme on en exige des allocataires du RSA ?"
+  ],
+  "limites": [
+    "Le montant total dépend du périmètre et fait l'objet de contestations.",
+    "La comparaison avec le seul RSA ne couvre pas l'ensemble de la protection sociale."
+  ],
+  "sources": [
+    {
+      "titre": "Un coût annuel de 211 milliards d'euros : la commission d'enquête du Sénat sur les aides publiques aux entreprises réclame un « choc de transparence »",
+      "organisme": "Public Sénat (Guillaume Jacquot)",
+      "date_publication": "8 juillet 2025",
+      "url": "https://www.publicsenat.fr/actualites/economie/un-cout-annuel-de-211-milliards-deuros-la-commission-denquete-du-senat-sur-les-aides-publiques-aux-entreprises-reclame-un-choc-de-transparence",
+      "passage": "La commission d'enquête du Sénat estime à au moins 211 milliards d'euros les aides publiques d'État aux entreprises en 2023 (subventions, aides de Bpifrance, dépenses fiscales, allègements de cotisations), hors aides des collectivités et de l'Europe. Rapport adopté à l'unanimité le 1er juillet 2025 ; président Olivier Rietmann (LR), rapporteur Fabien Gay (communiste) ; plus de 2 200 dispositifs recensés.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "211 milliards d'euros d'aides publiques aux entreprises : sur quoi repose le calcul de la commission d'enquête du Sénat ?",
+      "organisme": "Public Sénat (Guillaume Jacquot)",
+      "date_publication": "15 septembre 2025",
+      "url": "https://www.publicsenat.fr/actualites/economie/211-milliards-deuros-daides-publiques-aux-entreprises-sur-quoi-repose-le-calcul-de-la-commission-denquete-du-senat",
+      "passage": "Le total de 2023 se décompose en 7 Md€ de subventions, 41 Md€ d'interventions de Bpifrance, 88 Md€ de dépenses fiscales et 75 Md€ d'allègements de cotisations. Au « sens strict », la commission arrive à 108 Md€. Le Haut-commissariat au Plan donne 112 Md€ hors allègements ; le ministre Éric Lombard parle d'environ 150 Md€. Le président de la commission voit dans les allègements des « compensations » ; le Medef conteste l'addition.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport n° 808 (2024-2025) de la commission d'enquête sur les aides publiques aux grandes entreprises, partie V : plusieurs tentatives pour établir le coût des aides",
+      "organisme": "Sénat",
+      "date_publication": "juillet 2025",
+      "url": "https://www.senat.fr/rap/r24-808-1/r24-808-17.html",
+      "passage": "La commission s'appuie sur France Stratégie (2020 : entre 139 et 223 Md€ pour 2019 selon le périmètre), le Clersé (2022 : 205 Md€ par an) et Rexecode (2023). Elle conclut qu'il est « impossible de déterminer avec précision le montant des aides publiques versées aux grandes entreprises ».",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Minima sociaux et prestations de solidarité, édition 2025 — Fiche 07 : Les dépenses d'allocations",
+      "organisme": "DREES",
+      "date_publication": "décembre 2025",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/MS2025%20-%20Fiche%2007%20-%20Les%20d%C3%A9penses%20d%27allocations.pdf",
+      "passage": "En 2023, les minima sociaux « s'élèvent à 31,6 milliards d'euros, soit 1,1 % du produit intérieur brut » ; pour le RSA, « le montant des allocations versées à ce titre s'élève à 12,2 milliards d'euros, soit 0,4 % du PIB ».",
+      "pertinence": "Service statistique ministériel.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suites du rapport du Sénat et nouvelles estimations.",
+  "objections_legitimes": [
+    "Les allègements de cotisations sont présentés comme une compensation du coût du travail.",
+    "Le montant exact varie selon le périmètre, et le Sénat le juge impossible à établir précisément."
+  ],
+  "publics": {
+    "convaincus": "Une commission du Sénat présidée par un LR a chiffré les aides aux entreprises : au moins 211 milliards en 2023, et 108 milliards même au sens strict. Le RSA, c'est 12,2 milliards. Si on veut chasser l'assistanat, pourquoi ne jamais parler de ces milliards-là ?",
+    "indecis": "Il est légitime de vouloir que l'argent public soit bien utilisé. Les aides aux entreprises représentent selon le Sénat entre 108 et 211 milliards par an, contre 12,2 milliards pour le RSA. Certaines sont utiles, mais le Sénat demande plus de transparence et de contreparties."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "services_publics",
+      "egalite"
+    ],
+    "mecanismes": "L’argent public versé aux entreprises dépasse de loin celui des minima sociaux, sans contreparties claires.",
+    "consequences": "Pendant qu’on soupçonne les allocataires, des milliards sont versés sans évaluation.",
+    "democratie": "Les citoyens ont le droit de savoir à qui va l’argent public et pour quels résultats.",
+    "propositions": [
+      "Conditionner les aides au maintien de l’emploi, aux salaires et à l’écologie.",
+      "Publier la liste des aides reçues par chaque grande entreprise."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les allègements de cotisations sont présentés comme une compensation du coût du travail.",
+        "integration": "Le reconnaître et demander leur évaluation au cas par cas."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "aides_entreprises",
+      "label": "Aides publiques aux entreprises"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "riches_entreprises",
+    "pauvrete",
+    "cout",
+    "subventions",
+    "aides_entreprises"
+  ]
+}

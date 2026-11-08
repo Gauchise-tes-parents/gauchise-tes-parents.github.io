@@ -1,0 +1,185 @@
+{
+  "id": "arrets-maladie-abus",
+  "type": "idee_recue",
+  "affirmation": "Les Français abusent des arrêts maladie.",
+  "volet": "services",
+  "sous_theme": "Assurance maladie",
+  "rubriques": [],
+  "mots_cles": [
+    "arrets maladie",
+    "arret maladie",
+    "arrets de travail",
+    "indemnites journalieres",
+    "faux arrets",
+    "abus d arrets"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les indemnités d'arrêts maladie ont fortement augmenté, de 7,7 à 12 milliards d'euros entre 2017 et 2022. Mais selon la Cour des comptes, une grande partie de la hausse vient du Covid, des hausses de salaires et du vieillissement des actifs, et la fraude détectée est « faible » : 42 millions d'euros en 2024, environ 0,35 % des indemnités. Une part de la hausse, liée à un recours accru, reste mal expliquée.",
+  "contexte": "La hausse des dépenses d'arrêts de travail sert d'argument pour réduire leur indemnisation.",
+  "explication": "Les indemnités journalières dépendent du salaire, du nombre d'actifs et de la durée des arrêts : quand les salaires augmentent et que les actifs vieillissent, la dépense monte mécaniquement.",
+  "faits": [
+    {
+      "fait": "Les indemnités maladie sont passées de 7,7 Md€ à 12 Md€ entre 2017 et 2022 ; sur 4,3 Md€ de hausse, 1,7 Md€ est imputable à la crise sanitaire et 0,7 Md€ à la hausse du SMIC et des salaires.",
+      "periode": "2017-2022",
+      "perimetre": "Régime général",
+      "explication": "Une grande partie de la hausse est mécanique.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+56 %"
+    },
+    {
+      "fait": "Les plus de 55 ans représentent 18,3 % des actifs mais 27 % des journées indemnisées ; les arrêts de plus de six mois font 6 % des arrêts mais 45 % de la dépense.",
+      "periode": "2022",
+      "perimetre": "Régime général",
+      "explication": "La dépense vient surtout d'arrêts longs et de salariés âgés.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La Cour des comptes juge « faible » la fraude détectée aux indemnités, 12,8 M€ en 2022.",
+      "periode": "2022",
+      "perimetre": "Régime général",
+      "explication": "La fraude n'explique pas la hausse.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un bilan de l'Assurance maladie relayé par Legisocial, la fraude détectée aux indemnités journalières atteint 42 M€ en 2024, contre 17 M€ en 2023.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La fraude progresse, mais reste marginale face à 12 Md€.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "42 M€"
+    },
+    {
+      "fait": "En 2024, les indemnités maladie hors Covid progressent encore de 7,0 % ; la hausse du taux de recours et de la durée des arrêts, à âge donné, joue aussi.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Une part de la hausse n'est pas mécanique.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Assurance maladie citée par Public Sénat, 42 % de la hausse entre 2019 et 2023 vient d'un recours accru et de durées plus longues.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "Le recours aux arrêts augmente réellement.",
+      "source": 2,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la hausse des arrêts maladie vient surtout du Covid, des salaires et du vieillissement des actifs. La fraude détectée est minime, environ 0,35 % des indemnités. Une part de la hausse, liée à plus de recours, reste à expliquer.",
+    "moyen": "Les indemnités d'arrêts maladie ont augmenté de 56 % entre 2017 et 2022. Mais la Cour des comptes a décomposé cette hausse : le Covid en explique une grosse partie, la hausse des salaires une autre, l'allongement des carrières aussi. Les plus de 55 ans font 27 % des journées indemnisées.\n\nLa fraude existe, mais la Cour la juge « faible » : 42 millions d'euros détectés en 2024, pour 12 milliards d'indemnités. Il reste une part de hausse liée à un recours accru, qu'il faut comprendre : conditions de travail, santé mentale, accès aux soins.",
+    "detaille": "Les indemnités journalières maladie du régime général sont passées de 7,7 Md€ en 2017 à 12 Md€ en 2022. Sur 4,3 Md€ de hausse, la Cour des comptes attribue 1,7 Md€ au Covid, 0,7 Md€ aux hausses du SMIC et des salaires, 0,2 Md€ à la hausse du nombre d'actifs et 0,4 Md€ à l'extension aux indépendants. 0,9 Md€ reste inexpliqué.\n\nLa dépense est concentrée : les arrêts de plus de six mois font 6 % des arrêts mais 45 % de la dépense, et les plus de 55 ans 27 % des journées pour 18,3 % des actifs. Le recul de l'âge de la retraite accentue ce phénomène, note la DREES.\n\nLa fraude détectée aux indemnités atteint 42 M€ en 2024, soit environ 0,35 % des 12,1 Md€ versés. Mais tout ne s'explique pas : selon l'Assurance maladie, 42 % de la hausse de 2019 à 2023 tient à un recours accru et à des arrêts plus longs, y compris chez les jeunes. C'est un signal sur la santé au travail plus qu'une preuve de paresse.",
+    "empathie": "On peut être agacé par l'idée que certains abusent. Les contrôles et la lutte contre la fraude sont légitimes. Mais les chiffres montrent surtout des salariés plus âgés, des arrêts longs et un effet du Covid."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La fraude explose.",
+      "reponse": "La fraude détectée a plus que doublé en un an, mais elle reste autour de 0,35 % des indemnités versées."
+    },
+    {
+      "objection": "Les médecins signent trop facilement.",
+      "reponse": "Les arrêts longs, liés à des maladies graves, font l'essentiel de la dépense."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle part de la hausse vient simplement des hausses de salaires et du Covid ?",
+    "Que faudrait-il faire pour réduire les arrêts liés au travail lui-même ?"
+  ],
+  "limites": [
+    "Le bilan de l'Assurance maladie sur la fraude n'a été lu qu'à travers des sites juridiques.",
+    "La part de hausse liée au recours accru reste mal expliquée par les sources."
+  ],
+  "sources": [
+    {
+      "titre": "L'indemnisation des arrêts de travail pour maladie du régime général (RALFSS 2024, chapitre V)",
+      "organisme": "Cour des comptes",
+      "date_publication": "29 mai 2024",
+      "url": "https://www.ccomptes.fr/sites/default/files/2024-05/20240529-Ralfss-2024-Indemnisation-arrets-de-travail-pour-maladie-du-regime-general.pdf",
+      "passage": "Les indemnités sont « passées de 7,7 Md€ à 12 Md€ entre 2017 et 2022 (+ 56 %) ». Sur 4,3 Md€ de hausse, « 1,7 Md€ est directement imputable à la crise sanitaire », 0,7 Md€ à l'augmentation du SMIC et du salaire moyen, 0,2 Md€ à la hausse de la population active, 0,4 Md€ à l'extension aux indépendants ; « 0,9 Md€ ne peuvent être rattachés à aucune de ces causes prises isolément ». Les plus de 55 ans font 18,3 % des actifs mais 27 % des journées indemnisées ; les arrêts de plus de six mois font 6 % des arrêts mais 45 % de la dépense. La fraude détectée (12,8 M€ en 2022) est jugée « faible ».",
+      "pertinence": "Juridiction financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les indemnités journalières (fiche 25, Les dépenses de santé en 2024, édition 2025)",
+      "organisme": "DREES",
+      "date_publication": "décembre 2025",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/CNS%20-%20Fiche%2025%20-%20Les%20indemnit%C3%A9s%20journali%C3%A8res.pdf",
+      "passage": "Les indemnités journalières maladie atteignent 12,1 Md€ en 2024. « En 2024, les IJ maladie hors Covid-19 progressent de nouveau fortement : +7,0 % après +5,6 % en 2023. » Les revalorisations du SMIC augmentent les IJ, indexées sur les salaires ; la population active vieillit et les arrêts des plus âgés sont plus longs. La hausse du taux de recours et de la durée des arrêts, à âge donné, joue aussi.",
+      "pertinence": "Service statistique ministériel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Arrêts maladie : quelles solutions face à leur augmentation ?",
+      "organisme": "Public Sénat (Emile Boissel-Dombreval)",
+      "date_publication": "22 juillet 2025",
+      "url": "https://www.publicsenat.fr/actualites/economie/arrets-maladie-quelles-solutions-face-a-leur-augmentation",
+      "passage": "La dépense a crû de 2,9 % par an entre 2010 et 2019, puis de 6,3 % par an entre 2019 et 2023. Les facteurs démographiques et économiques expliquent 58 % de la hausse entre 2019 et 2023 ; selon l'Assurance maladie, 42 % vient d'un recours accru aux arrêts, notamment chez les jeunes, et de durées plus longues.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Fraude à l'Assurance maladie et faux arrêts de travail : bilan record en 2024",
+      "organisme": "Legisocial (Audrey Catany), d'après le bilan de l'Assurance maladie",
+      "date_publication": "21 mars 2025",
+      "url": "https://www.legisocial.fr/actualites-sociales/7246-fraude-assurance-maladie-faux-arrets-travail-bilan-record-2024.html",
+      "passage": "La fraude totale détectée par l'Assurance maladie atteint 628 M€ en 2024 (+35 %). « Les fraudes aux indemnités journalières ont atteint 42 millions d'euros en 2024 », contre 17 M€ en 2023.",
+      "pertinence": "Site juridique relayant le bilan de l'Assurance maladie (source primaire non lue).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveaux bilans de l'Assurance maladie et de la Cour des comptes.",
+  "objections_legitimes": [
+    "La dépense augmente encore fortement hors Covid, de 7 % en 2024.",
+    "Une part de la hausse vient d'un recours accru aux arrêts, non expliqué par la démographie."
+  ],
+  "publics": {
+    "convaincus": "La Cour des comptes a fait le calcul : sur la hausse des arrêts entre 2017 et 2022, le Covid et les hausses de salaires pèsent très lourd. La fraude détectée, c'est 42 millions en 2024 pour 12 milliards d'indemnités. Les salariés de plus de 55 ans, qu'on fait travailler plus longtemps, font 27 % des journées d'arrêt.",
+    "indecis": "La dépense augmente vraiment, et une partie vient d'un recours accru aux arrêts, que les chiffres n'expliquent pas entièrement. Mais l'essentiel tient au Covid, aux salaires et au vieillissement des actifs, et la fraude détectée est faible. La santé au travail est sans doute une meilleure piste que le soupçon généralisé."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "services_publics"
+    ],
+    "mecanismes": "La hausse vient surtout du Covid, des salaires et du recul de l’âge de départ, qui fait travailler plus longtemps des salariés usés.",
+    "consequences": "Réduire les indemnités pénalise les malades, surtout les plus âgés et les plus précaires.",
+    "democratie": "La santé au travail doit être un sujet de négociation collective.",
+    "propositions": [
+      "Agir sur les conditions de travail qui rendent malade.",
+      "Cibler les contrôles sur la fraude organisée plutôt que de soupçonner tous les malades."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une part de la hausse, liée à un recours accru aux arrêts, reste mal expliquée.",
+        "integration": "Le reconnaître et chercher ses causes, notamment la santé mentale au travail."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail"
+  ],
+  "concepts": [
+    "emploi"
+  ]
+}

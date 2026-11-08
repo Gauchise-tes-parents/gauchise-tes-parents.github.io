@@ -1,0 +1,181 @@
+{
+  "id": "ecole-privee-meilleure",
+  "type": "idee_recue",
+  "affirmation": "L'école privée est meilleure que l'école publique.",
+  "volet": "services",
+  "sous_theme": "Inégalités scolaires",
+  "rubriques": [],
+  "mots_cles": [
+    "ecole privee",
+    "enseignement prive",
+    "prive sous contrat",
+    "ecole privee meilleure",
+    "prive ou public",
+    "mettre ses enfants dans le prive",
+    "ips"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les résultats bruts du privé sous contrat sont « globalement meilleurs », mais selon la Cour des comptes, à composition sociale égale, sa performance « apparaît sensiblement la même que celle du public ». La différence vient surtout des élèves accueillis : 55,4 % d'élèves favorisés ou très favorisés dans le privé contre 32,3 % dans le public, et 11,8 % de boursiers contre 29,1 %. Et ce privé est financé à 55 % à 68 % par l'État.",
+  "contexte": "Le choix du privé progresse chez les familles aisées et alimente l'idée d'un public en déclin.",
+  "explication": "Comparer les résultats bruts revient à comparer des publics différents. Pour juger l'efficacité d'une école, il faut comparer des élèves d'origine sociale comparable, ce qu'on appelle la valeur ajoutée.",
+  "faits": [
+    {
+      "fait": "Les résultats du privé sous contrat « apparaissent globalement meilleurs que ceux du secteur public ».",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le constat brut est exact.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les travaux sur la valeur ajoutée « ne permettent pas d'identifier dans le privé sous contrat une plus-value » : à composition sociale égale, la performance « apparaît sensiblement la même que celle du public ».",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le privé n'est pas plus efficace à élèves comparables.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les élèves de milieux favorisés ou très favorisés représentent 55,4 % des élèves du privé en 2021, contre 32,3 % dans le public ; les boursiers 11,8 % contre 29,1 %.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Le privé accueille un public beaucoup plus favorisé.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "55,4 % contre 32,3 %"
+    },
+    {
+      "fait": "Selon Localtis, d'après la Cour des comptes, la part d'élèves très favorisés dans le privé passe de 26,4 % en 2000 à 40,2 % en 2021.",
+      "periode": "2000-2021",
+      "perimetre": "France",
+      "explication": "L'écart social se creuse.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la DEPP citée par Localtis, l'indice de position sociale moyen est de 125 dans les lycées privés sous contrat contre 105 dans les lycées publics.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La différence de public est massive.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'État verse 8 Md€ au privé sous contrat en 2022 et finance 55 % du premier degré privé et 68 % du second degré privé.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le privé est surtout financé par l'argent public.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "8 Md€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : le privé a de meilleurs résultats bruts parce qu'il accueille des élèves plus favorisés. À origine sociale égale, la Cour des comptes ne trouve pas de différence de performance avec le public.",
+    "moyen": "Oui, les résultats bruts du privé sont meilleurs. Mais selon la Cour des comptes, quand on compare des élèves d'origine sociale comparable, la performance du privé « apparaît sensiblement la même que celle du public ». La différence vient des élèves : plus de la moitié sont issus de milieux favorisés, contre un tiers dans le public, et il y a deux fois et demie moins de boursiers.\n\nCe privé est financé majoritairement par l'argent public, 8 milliards d'euros de l'État en 2022, et il se ferme de plus en plus aux familles modestes. Le problème n'est pas la qualité des professeurs du public, mais la ségrégation sociale entre écoles.",
+    "detaille": "La Cour des comptes a consacré en 2023 un rapport à l'enseignement privé sous contrat, qui scolarise environ 17,6 % des élèves. Elle constate que ses résultats « apparaissent globalement meilleurs », mais que les travaux sur la valeur ajoutée ne permettent pas d'y identifier une plus-value : à composition sociale égale, la performance est « sensiblement la même » que dans le public.\n\nLa différence de public est considérable : 55,4 % d'élèves favorisés ou très favorisés dans le privé en 2021, contre 32,3 % dans le public ; 11,8 % de boursiers contre 29,1 %. La part d'élèves très favorisés y est passée de 26,4 % en 2000 à 40,2 % en 2021. Selon la DEPP, l'indice de position sociale moyen des lycées privés est de 125, contre 105 pour les lycées publics.\n\nCe secteur est financé à 55 % (premier degré) et 68 % (second degré) par l'État, soit 8 Md€ en 2022, et son contrôle financier « n'est pas mis en œuvre », selon la Cour. Il faut toutefois noter que les écarts sociaux sont aussi importants entre établissements publics : la ségrégation scolaire n'est pas seulement une affaire de public et de privé.",
+    "empathie": "Vouloir le meilleur pour ses enfants est la chose la plus normale du monde, et beaucoup de familles choisissent le privé par inquiétude. Les chiffres montrent que cette réussite tient surtout au public accueilli, pas à une meilleure pédagogie."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le privé a de meilleures méthodes.",
+      "reponse": "Selon la Cour des comptes, à élèves comparables, il n'y a pas de différence de performance démontrée."
+    },
+    {
+      "objection": "Le privé coûte moins cher à l'État.",
+      "reponse": "L'État le finance majoritairement, 8 Md€ en 2022, et les familles qui y accèdent sont plus aisées."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce que dit la Cour des comptes quand on compare des élèves du même milieu social ?",
+    "Est-il juste que l'argent public finance des écoles qui accueillent peu d'élèves modestes ?"
+  ],
+  "limites": [
+    "Les données datent de 2021-2022 ; la note de la DEPP sur les indices sociaux n'a été lue qu'à travers Localtis.",
+    "La valeur ajoutée est difficile à mesurer, ce que la Cour reconnaît."
+  ],
+  "sources": [
+    {
+      "titre": "L'enseignement privé sous contrat (rapport public thématique)",
+      "organisme": "Cour des comptes",
+      "date_publication": "1er juin 2023",
+      "url": "https://www.ccomptes.fr/sites/default/files/2023-10/20230601-enseignement-prive-sous-contrat.pdf",
+      "passage": "Les crédits de l'État au privé sous contrat atteignent « 8 Md€ en 2022 » ; l'État finance 55 % du premier degré privé et 68 % du second degré privé. Les élèves de milieux favorisés ou très favorisés « sont désormais majoritaires dans ce secteur (55,4 % en 2021) », contre 32,3 % dans le public ; boursiers : 11,8 % contre 29,1 %. Les résultats du privé « apparaissent globalement meilleurs », mais les travaux sur la valeur ajoutée « ne permettent pas d'identifier dans le privé sous contrat une plus-value supérieure ou inférieure » : à composition sociale égale, la performance « apparaît sensiblement la même que celle du public ».",
+      "pertinence": "Juridiction financière (données 2021-2022).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Enseignement privé : la Cour des comptes veut moduler les moyens selon la composition sociale des établissements",
+      "organisme": "Banque des Territoires (Localtis, Jean Damien Lesay)",
+      "date_publication": "2 juin 2023",
+      "url": "https://www.banquedesterritoires.fr/enseignement-prive-la-cour-des-comptes-veut-moduler-les-moyens-selon-la-composition-sociale-des",
+      "passage": "D'après la Cour des comptes, la part d'élèves très favorisés dans le privé sous contrat passe de 26,4 % en 2000 à 40,2 % en 2021. Les écarts d'indice de position sociale sont aussi importants entre établissements publics. Le contrôle financier du privé « n'est pas mis en œuvre ».",
+      "pertinence": "Presse spécialisée des collectivités.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Le niveau social des lycées varie fortement selon les départements",
+      "organisme": "Banque des Territoires (Localtis, Virginie Fauvel), d'après la DEPP",
+      "date_publication": "8 avril 2025",
+      "url": "https://www.banquedesterritoires.fr/le-niveau-social-des-lycees-varie-fortement-selon-les-departements",
+      "passage": "Selon la DEPP, « les lycées privés sous contrat sont nettement plus favorisés (IPS de 125) que les lycées publics (105) ».",
+      "pertinence": "Presse spécialisée relayant la statistique publique.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de la DEPP sur la composition sociale.",
+  "objections_legitimes": [
+    "Les résultats bruts du privé sont meilleurs.",
+    "Les écarts sociaux sont aussi importants entre établissements publics."
+  ],
+  "publics": {
+    "convaincus": "La Cour des comptes l'a vérifié : à élèves d'origine sociale comparable, le privé ne fait pas mieux que le public. S'il a de meilleurs résultats, c'est qu'il accueille 55 % d'élèves favorisés contre 32 % dans le public. Et l'État le finance à hauteur de 8 milliards par an.",
+    "indecis": "Choisir le privé pour ses enfants se comprend. Mais selon la Cour des comptes, sa réussite tient surtout au milieu social de ses élèves, pas à une meilleure efficacité. Le vrai enjeu, c'est la mixité sociale dans toutes les écoles, publiques comme privées."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "emancipation"
+    ],
+    "mecanismes": "Les meilleurs résultats du privé viennent de la sélection sociale de ses élèves, financée par l’argent public.",
+    "consequences": "La concentration des élèves favorisés dans le privé laisse le public accueillir seul les difficultés.",
+    "democratie": "L’argent public doit servir la mixité sociale et l’égalité des chances.",
+    "propositions": [
+      "Conditionner le financement public du privé à des objectifs de mixité sociale.",
+      "Donner davantage de moyens aux établissements publics qui accueillent les élèves les plus modestes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les écarts sociaux sont aussi forts entre établissements publics.",
+        "integration": "Le reconnaître et agir sur la carte scolaire du public aussi."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "ecole_privee",
+      "label": "École privée et école publique"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "pauvrete",
+    "misere",
+    "coutent trop cher",
+    "urgences",
+    "prive sous contrat"
+  ],
+  "concepts": [
+    "pauvrete",
+    "services_publics",
+    "ecole_privee"
+  ]
+}

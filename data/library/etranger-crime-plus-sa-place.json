@@ -151,6 +151,10 @@
     "pas en securite",
     "criminalite"
   ],
+  "publics": {
+    "convaincus": "Le droit va déjà dans ton sens : pour un crime, le juge peut prononcer une interdiction du territoire, et depuis 2024 même les étrangers arrivés enfants peuvent être expulsés pour une condamnation grave. Mais la peine est d'abord purgée ici, et le juge vérifie la proportionnalité, comme pour tout le monde.",
+    "indecis": "Il est compréhensible de vouloir qu'un étranger qui commet un crime quitte la France, et le droit le permet déjà : interdiction du territoire, expulsion par le préfet. La loi de 2024 a élargi ces possibilités. Le juge contrôle seulement que la mesure reste proportionnée, notamment quand la personne a toute sa famille en France."
+  },
   "concepts": [
     "immigration",
     "delinquance",

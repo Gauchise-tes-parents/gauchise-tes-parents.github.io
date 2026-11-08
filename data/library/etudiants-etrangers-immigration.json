@@ -1,0 +1,188 @@
+{
+  "id": "etudiants-etrangers-immigration",
+  "type": "idee_recue",
+  "affirmation": "Les étudiants étrangers, c'est une immigration déguisée.",
+  "volet": "immigration",
+  "sous_theme": "Économie et immigration",
+  "rubriques": [],
+  "mots_cles": [
+    "etudiants etrangers",
+    "etudiants internationaux",
+    "visa etudiant",
+    "titre etudiant",
+    "immigration deguisee",
+    "faux etudiants",
+    "etudiants africains"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les études sont devenues le premier motif de titre de séjour (118 000 en 2025), mais une majorité d'étudiants repart : selon l'OCDE, environ 43 % étaient encore en France cinq ans après leur premier titre. Ceux qui restent passent surtout vers un titre de travail, par une voie légale. Et selon Campus France, leur apport économique dépasse leur coût public.",
+  "contexte": "L'idée d'une « filière étudiante » détournée circule depuis que le motif étudiant a dépassé les autres motifs de titres.",
+  "explication": "Un titre étudiant est temporaire. À la fin des études, la personne part, ou demande un autre titre (travail, famille), qui obéit à ses propres conditions.",
+  "faits": [
+    {
+      "fait": "Selon la statistique publique relayée par Public Sénat, 118 000 premiers titres ont été délivrés pour motif étudiant en 2025, le premier motif.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le flux est réel et important.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "118 000 titres"
+    },
+    {
+      "fait": "Selon Campus France, plus de 430 000 étudiants étrangers étaient en France en 2023-2024, un nombre qui progresse moins vite que la moyenne mondiale.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "La France n'est pas une exception.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Pour la cohorte des premiers titres étudiants de 2015, environ 43 % étaient encore en France cinq ans après, contre environ 30 % en moyenne dans l'OCDE.",
+      "periode": "2015-2020",
+      "perimetre": "France et OCDE",
+      "explication": "Une majorité repart, mais la France retient plus que la moyenne.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "43 %"
+    },
+    {
+      "fait": "Plus de trois anciens étudiants sur quatre qui changent de statut passent vers un titre de travail ; dix ans après, 10 % ont un titre familial.",
+      "periode": "2010-2020",
+      "perimetre": "France",
+      "explication": "Ceux qui restent travaillent surtout.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une étude de Campus France et Kantar, les étudiants internationaux apportent 5 Md€ à l'économie française, pour un apport net estimé à 1,35 Md€.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Leur bilan économique est jugé positif.",
+      "source": 3,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : une majorité des étudiants étrangers repart après ses études. Ceux qui restent passent surtout par un titre de travail, une voie légale. Et leur apport économique est estimé supérieur à leur coût.",
+    "moyen": "Les études sont bien devenues le premier motif de titre de séjour : 118 000 en 2025. Mais un titre étudiant est temporaire. Selon l'OCDE, environ 43 % des étudiants arrivés en 2015 étaient encore en France cinq ans après : la majorité est repartie.\n\nCeux qui restent obtiennent surtout un titre de travail, après avoir été formés ici : c'est la loi qui le permet, pas une fraude. Et selon Campus France, leurs dépenses rapportent davantage que ce qu'ils coûtent à l'État.",
+    "detaille": "Plus de 430 000 étudiants étrangers étaient en France en 2023-2024, et les études sont le premier motif de premier titre de séjour, avec 118 000 titres en 2025. Ce flux augmente, mais moins vite que la moyenne mondiale : la France est le septième pays d'accueil.\n\nSelon l'OCDE, pour la cohorte de 2015, environ 43 % étaient encore en France cinq ans après. C'est plus que la moyenne de l'OCDE, d'environ 30 % : une minorité importante s'installe. Mais elle s'installe surtout par le travail : plus de trois changements de statut sur quatre vont vers un titre professionnel, et les anciens étudiants fournissent 52 % des admissions pour motif professionnel. Dix ans après, seulement 10 % ont un titre familial.\n\nSur le plan économique, une étude de Campus France estime l'apport à 5 Md€ et le solde net à 1,35 Md€. Les frais différenciés pour les étudiants extra-européens, instaurés en 2019, restent inférieurs au tiers du coût réel de la formation.",
+    "empathie": "Il est normal de se demander si les visas étudiants sont détournés. Les données disponibles montrent plutôt des jeunes formés ici, dont une partie reste pour travailler."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils viennent pour rester.",
+      "reponse": "La majorité repart ; ceux qui restent passent par un titre de travail, après avoir été formés en France."
+    },
+    {
+      "objection": "Ils coûtent cher à nos universités.",
+      "reponse": "Selon Campus France, leurs dépenses rapportent plus que leur coût public ; cette estimation vient toutefois d'un acteur concerné."
+    }
+  ],
+  "questions": [
+    "Si un étudiant formé ici trouve un emploi qualifié, vaut-il mieux qu'il reste ou qu'il parte ?",
+    "Sais-tu combien d'étudiants étrangers repartent après leurs études ?"
+  ],
+  "limites": [
+    "Les données de l'OCDE portent sur la cohorte 2015 ; elles sont anciennes.",
+    "L'étude économique de 2022 est commandée par Campus France et n'a pas été vérifiée de façon indépendante."
+  ],
+  "sources": [
+    {
+      "titre": "Immigration : titres de séjour en nette hausse et régularisations en baisse sur l'année 2025",
+      "organisme": "Public Sénat (Romain David, avec l'AFP)",
+      "date_publication": "27 janvier 2026",
+      "url": "https://www.publicsenat.fr/actualites/societe/immigration-titres-de-sejour-en-nette-hausse-et-regularisations-en-baisse-sur-lannee-2025",
+      "passage": "D'après la direction générale des étrangers en France, 384 230 premiers titres ont été délivrés en 2025 (+11,2 %). Le motif étudiant arrive en tête (118 000), devant l'humanitaire (92 600) et l'économique (51 190).",
+      "pertinence": "Média parlementaire reprenant la statistique publique.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Mobilité étudiante : la France consolide son attractivité dans un contexte de forte concurrence (Chiffres clés 2025)",
+      "organisme": "Campus France",
+      "date_publication": "20 mai 2025",
+      "url": "https://www.campusfrance.org/system/files/medias/documents/2025-05/CP_Chiffres_cles_2025_FR_vdef.pdf",
+      "passage": "Plus de 430 000 étudiants étrangers étaient en France en 2023-2024, en hausse de 21 % sur cinq ans, soit moins vite que la moyenne mondiale. La France est le septième pays d'accueil. Origines : Afrique du Nord-Moyen-Orient 28 %, Europe 25 %, Afrique subsaharienne 25 %.",
+      "pertinence": "Établissement public chargé de la promotion de l'enseignement supérieur français, partie prenante.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rétention des étudiants internationaux et répercussions économiques dans l'OCDE (Perspectives des migrations internationales 2022)",
+      "organisme": "OCDE (Elisabeth Kamm, Thomas Liebig)",
+      "date_publication": "2022",
+      "url": "https://www.oecd.org/fr/publications/perspectives-des-migrations-internationales-2022_7244fc44-fr/full-report/component-11.html",
+      "passage": "Pour la cohorte des premiers titres étudiants de 2015, environ 43 % étaient encore en France cinq ans après, contre environ 30 % en moyenne OCDE. En 2019, les changements de statut d'anciens étudiants représentaient 52 % des admissions pour motif professionnel en France ; plus de trois sur quatre passent vers un titre de travail. Dix ans après un premier titre étudiant obtenu en 2010, 10 % des titulaires avaient un titre familial.",
+      "pertinence": "Organisation internationale (données 2015-2020).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les étudiants internationaux : un apport de 5 milliards d'euros à l'économie française",
+      "organisme": "Campus France, avec Kantar Public",
+      "date_publication": "28 novembre 2022",
+      "url": "https://www.campusfrance.org/system/files/medias/documents/2022-11/CP%20Impact%20%C3%A9conomique%20des%20%C3%A9tudiants%20internationaux%20en%20France.pdf",
+      "passage": "L'étude, menée auprès de 10 000 étudiants, évalue leur apport à 5 Md€ et le coût public à environ 3,1 Md€ de dépenses d'enseignement supérieur, plus les aides au logement, la sécurité sociale et les bourses ; elle en tire « un apport net de 1,35 milliard d'euros ».",
+      "pertinence": "Étude commandée par un opérateur public partie prenante.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Bienvenue en France » : la stratégie d'attractivité pour les étudiants internationaux",
+      "organisme": "Ministère de l'Enseignement supérieur et de la Recherche",
+      "date_publication": "8 avril 2019",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/fr/bienvenue-en-france-la-strategie-d-attractivite-pour-les-etudiants-internationaux-49178",
+      "passage": "Depuis la rentrée 2019, les droits différenciés pour les étudiants extra-européens sont de « 2 770€ en licence » et « 3 770€ en master », soit « moins du tiers du coût réel de la formation ».",
+      "pertinence": "Source gouvernementale (2019).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de Campus France et de l'OCDE.",
+  "objections_legitimes": [
+    "Environ 43 % sont encore là cinq ans après, au-dessus de la moyenne de l'OCDE.",
+    "L'étude sur l'apport économique a été commandée par Campus France, partie prenante."
+  ],
+  "publics": {
+    "convaincus": "Une majorité des étudiants étrangers repart : selon l'OCDE, 43 % seulement sont encore en France cinq ans après. Et ceux qui restent passent surtout par un titre de travail, après avoir été formés ici. Où est le déguisement, si c'est la loi qui le prévoit ?",
+    "indecis": "Le motif étudiant est devenu le premier motif de titre de séjour, c'est vrai. Mais la plupart repartent, et ceux qui restent travaillent le plus souvent. Si l'on veut en débattre, la vraie question est celle des métiers où la France a besoin de diplômés."
+  },
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "services_publics",
+      "internationalisme"
+    ],
+    "mecanismes": "La plupart des étudiants repartent ; ceux qui restent passent par le travail, après une formation reçue en France.",
+    "consequences": "Soupçonner les étudiants étrangers dégrade l’accueil et l’attractivité des universités.",
+    "democratie": "L’université est un lieu d’échange international qui profite à tous.",
+    "propositions": [
+      "Améliorer l’accueil et le logement étudiant pour tous.",
+      "Renoncer aux frais différenciés qui écartent les étudiants des pays pauvres."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une part importante reste en France plusieurs années après les études.",
+        "integration": "Le reconnaître et rappeler qu’ils travaillent le plus souvent."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos"
+  ],
+  "concepts": [
+    "immigration",
+    "origine"
+  ]
+}

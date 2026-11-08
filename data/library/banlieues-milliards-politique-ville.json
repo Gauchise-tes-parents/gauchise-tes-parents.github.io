@@ -154,11 +154,6 @@
       }
     ]
   },
-  "concepts": [
-    "services_publics",
-    "renovation",
-    "banlieues"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -167,5 +162,10 @@
     "isoler",
     "isolation",
     "qpv"
+  ],
+  "concepts": [
+    "services_publics",
+    "renovation",
+    "banlieues"
   ]
 }

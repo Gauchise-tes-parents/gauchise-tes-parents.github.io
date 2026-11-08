@@ -152,12 +152,6 @@
       }
     ]
   },
-  "concepts": [
-    "identite",
-    "laicite",
-    "services_publics",
-    "abaya"
-  ],
   "repond_a": [
     {
       "id": "abaya_ecole",
@@ -178,5 +172,11 @@
     "nos traditions",
     "on se croirait",
     "plus en france"
+  ],
+  "concepts": [
+    "identite",
+    "laicite",
+    "services_publics",
+    "abaya"
   ]
 }

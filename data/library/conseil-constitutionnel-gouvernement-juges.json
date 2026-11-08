@@ -1,0 +1,209 @@
+{
+  "id": "conseil-constitutionnel-gouvernement-juges",
+  "type": "idee_recue",
+  "affirmation": "Le Conseil constitutionnel empêche la volonté du peuple, c'est le gouvernement des juges.",
+  "volet": "politique",
+  "sous_theme": "Constitution",
+  "rubriques": [],
+  "mots_cles": [
+    "conseil constitutionnel",
+    "gouvernement des juges",
+    "sages",
+    "censure de la loi immigration",
+    "cavaliers legislatifs",
+    "juges constitutionnels",
+    "etat de droit"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. En janvier 2024, le Conseil constitutionnel a censuré 35 des 86 articles de la loi immigration, mais 32 l'ont été comme « cavaliers législatifs », c'est-à-dire pour une raison de procédure : ces mesures, ajoutées à un projet initial de 27 articles, n'avaient pas de lien avec lui. Seuls 3 articles l'ont été sur le fond. Surtout, le dernier mot appartient au peuple et à ses représentants : la Constitution peut être révisée, comme en 1993 après la censure de la loi Pasqua.",
+  "contexte": "Après la censure de la loi immigration, une partie de la droite et l'extrême droite ont dénoncé un « gouvernement des juges ».",
+  "explication": "Le Conseil constitutionnel vérifie que les lois respectent la Constitution, y compris la procédure. Un « cavalier » est un article ajouté à un texte sans lien avec son objet : il est censuré sans que son contenu soit jugé.",
+  "faits": [
+    {
+      "fait": "Selon LCP, sur les 86 articles de la loi immigration, 35 ont été censurés totalement ou partiellement, dont 32 comme « cavaliers législatifs » et 3 sur le fond.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La censure est surtout procédurale.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "32 sur 35"
+    },
+    {
+      "fait": "Selon Actu-Juridique, le projet initial comportait 27 articles, et « la censure de cavaliers ne préjuge en effet en rien de la constitutionnalité au fond ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les mesures censurées peuvent revenir dans un texte adapté.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon LCP, ont été censurés sur le fond les quotas migratoires votés chaque année par le Parlement et la prise d'empreintes sans consentement.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Il y a eu aussi des censures de fond.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La Constitution peut être révisée à l'initiative du Président de la République ou des parlementaires, puis adoptée par référendum ou par le Congrès à la majorité des trois cinquièmes.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le dernier mot appartient au constituant.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Après la censure partielle de la loi Pasqua en août 1993, le gouvernement a fait réviser la Constitution dès novembre 1993.",
+      "periode": "1993",
+      "perimetre": "France",
+      "explication": "Une censure peut être surmontée démocratiquement.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, des responsables LR comme Gérard Larcher et Bruno Retailleau ont réclamé une révision constitutionnelle après la décision de 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La critique du Conseil dépasse l'extrême droite.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la plupart des articles censurés de la loi immigration l'ont été pour une raison de procédure, pas de fond. Et si le peuple veut changer la règle, il peut réviser la Constitution, comme en 1993.",
+    "moyen": "En janvier 2024, le Conseil constitutionnel a censuré 35 articles de la loi immigration, dont 32 parce qu'ils avaient été ajoutés sans lien avec le projet initial. Cela ne dit rien de leur contenu : ils peuvent être repris dans un texte adapté. Seuls trois articles ont été censurés sur le fond.\n\nLe Conseil ne fait qu'appliquer une Constitution adoptée par le peuple. Si une majorité veut changer cette Constitution, elle peut le faire, par le Parlement réuni en Congrès ou par référendum : c'est arrivé en 1993. Ce qui dérange, ce n'est pas un gouvernement des juges, c'est qu'il existe des limites aux majorités du moment.",
+    "detaille": "Le projet de loi immigration comportait 27 articles ; la loi votée en décembre 2023 en comptait 86. Le 25 janvier 2024, le Conseil constitutionnel en a censuré 35 en tout ou partie : 32 comme cavaliers législatifs, sur le fondement de l'article 45 de la Constitution, et 3 sur le fond, dont les quotas migratoires annuels et la prise d'empreintes sans consentement. Parmi les cavaliers figuraient des restrictions aux prestations familiales, au regroupement familial et au droit du sol.\n\nUne censure pour cavalier ne juge pas le fond : elle sanctionne une procédure. Le ministre de l'Intérieur de l'époque affirmait d'ailleurs que le texte du gouvernement était validé dans son « intégralité ».\n\nSurtout, la Constitution n'est pas figée. Elle peut être révisée à l'initiative du Président ou des parlementaires, puis adoptée par référendum ou par le Congrès. En 1993, après la censure partielle de la loi Pasqua, le gouvernement l'a fait réviser en trois mois. Le contrôle des lois protège les droits de chacun, y compris des minorités politiques, contre une majorité passagère.",
+    "empathie": "On peut être frustré de voir une loi votée par ses élus censurée. Mais les règles du jeu valent pour tous les gouvernements, y compris ceux qu'on n'aime pas, et le peuple garde le pouvoir de les changer."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les membres du Conseil sont nommés, pas élus.",
+      "reponse": "Ils appliquent une Constitution que le peuple peut réviser, par référendum ou par le Congrès."
+    },
+    {
+      "objection": "Ils ont censuré la volonté du Parlement.",
+      "reponse": "Pour l'essentiel, ils ont sanctionné des ajouts sans lien avec le texte, une règle de procédure parlementaire."
+    }
+  ],
+  "questions": [
+    "Sais-tu pourquoi la plupart des articles de la loi immigration ont été censurés ?",
+    "Voudrais-tu qu'un futur gouvernement qui te déplaît puisse voter n'importe quelle loi sans contrôle ?"
+  ],
+  "limites": [
+    "La décision n° 2023-863 DC n'a pas pu être lue sur le site du Conseil constitutionnel : les chiffres viennent de LCP et d'Actu-Juridique.",
+    "La part des censures dans l'ensemble des décisions n'a pas été établie par une source lue."
+  ],
+  "sources": [
+    {
+      "titre": "Loi immigration : le Conseil constitutionnel censure largement le texte voté en fin d'année dernière",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "25 janvier 2024",
+      "url": "https://lcp.fr/index%2Ephp/actualites/loi-immigration-le-conseil-constitutionnel-censure-largement-le-texte-vote-en-fin-d",
+      "passage": "La loi compte 86 articles ; 35 sont censurés totalement ou partiellement, dont 32 comme « cavaliers législatifs » et 3 sur le fond. Parmi les cavaliers figurent les restrictions aux prestations familiales, au regroupement familial et au droit du sol. Sur le fond sont censurés les quotas migratoires votés chaque année et la prise d'empreintes sans consentement. Gérald Darmanin affirme que le texte du gouvernement est validé dans son « intégralité ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "La décision du Conseil constitutionnel relative à la loi sur l'immigration",
+      "organisme": "Actu-Juridique",
+      "date_publication": "2024",
+      "url": "https://www.actu-juridique.fr/constitutionnel/la-decision-du-conseil-constitutionnel-relative-a-la-loi-sur-limmigration/",
+      "passage": "« Ce projet comportait 27 articles », alors que la loi déférée en compte 86. « La censure de cavaliers ne préjuge en effet en rien de la constitutionnalité au fond. » La notion de gouvernement des juges est « un sujet ancien ».",
+      "pertinence": "Revue juridique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La révision de la Constitution (fiche de synthèse n° 55)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "page consultée le 8 novembre 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/synthese/fonctionnement-assemblee-nationale/travail-legislatif/la-revision-de-la-constitution",
+      "passage": "L'initiative de la révision appartient au Président de la République, sur proposition du Premier ministre, ou aux parlementaires. Les deux assemblées votent le texte en termes identiques ; l'adoption définitive passe par référendum ou par le Congrès, à la majorité des trois cinquièmes des suffrages exprimés.",
+      "pertinence": "Document institutionnel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les révisions de la Constitution de 1958 : les révisions abouties",
+      "organisme": "Sénat",
+      "date_publication": "page consultée le 8 novembre 2026",
+      "url": "https://www.senat.fr/connaitre-le-senat/evenements-et-manifestations-culturelles/les-revisions-de-la-constitution/les-revisions-de-la-constitution-de-1958-les-revisions-abouties.html",
+      "passage": "Après la censure partielle de la loi Pasqua (décision du 13 août 1993), « le gouvernement décide de réviser la Constitution » : la loi constitutionnelle du 25 novembre 1993 crée l'article 53-1. D'autres révisions ont suivi des décisions du Conseil (Maastricht en 1992, Cour pénale internationale et traité d'Amsterdam en 1999).",
+      "pertinence": "Document institutionnel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Loi immigration : face au spectre de la censure du Conseil constitutionnel, LR prépare la riposte",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "25 janvier 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-immigration-face-au-spectre-de-la-censure-du-conseil-constitutionnel-lr-prepare-la-riposte",
+      "passage": "Les Républicains veulent une révision constitutionnelle ; Gérard Larcher estime qu'« il faudra modifier la Constitution » et Bruno Retailleau parle d'« un dévoiement des institutions ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles décisions majeures ou révision constitutionnelle.",
+  "objections_legitimes": [
+    "Le Conseil a aussi censuré des mesures sur le fond.",
+    "La notion de gouvernement des juges est un débat ancien, et des responsables LR ont critiqué la décision."
+  ],
+  "publics": {
+    "convaincus": "Sur la loi immigration, 32 des 35 articles censurés l'ont été parce qu'ils avaient été ajoutés sans lien avec le projet : c'est une règle de procédure, pas un jugement sur le fond. Et si le peuple veut changer la Constitution, il peut le faire par référendum ou par le Congrès, comme en 1993. Où est la dictature des juges ?",
+    "indecis": "Voir une loi votée censurée peut frustrer, et la critique du Conseil vient aussi de la droite classique. Mais pour la loi immigration, l'essentiel de la censure tenait à la procédure. Et le dernier mot reste au peuple, qui peut réviser la Constitution."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes"
+    ],
+    "mecanismes": "La plupart des censures de la loi immigration sanctionnaient une procédure, et le peuple garde le pouvoir de réviser la Constitution.",
+    "consequences": "Sans contrôle, une majorité passagère pourrait restreindre les droits de tous.",
+    "democratie": "L’État de droit protège aussi les opposants et les minorités.",
+    "propositions": [
+      "Défendre le contrôle de constitutionnalité tout en réformant la nomination des membres du Conseil.",
+      "Rendre plus transparente la procédure parlementaire pour éviter les cavaliers."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le Conseil a aussi censuré des mesures sur le fond.",
+        "integration": "Le reconnaître et rappeler que la Constitution peut être révisée démocratiquement."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "conseil_constit",
+      "label": "Conseil constitutionnel"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "justice",
+    "peut plus rien dire",
+    "liberte d expression",
+    "politiquement correct",
+    "on se fait traiter",
+    "par la loi"
+  ],
+  "concepts": [
+    "immigration",
+    "justice",
+    "liberte_expression",
+    "loi_constitution",
+    "juges_rouges",
+    "conseil_constit"
+  ]
+}

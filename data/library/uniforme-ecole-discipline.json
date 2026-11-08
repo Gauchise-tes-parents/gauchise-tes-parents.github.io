@@ -162,10 +162,6 @@
       }
     ]
   },
-  "concepts": [
-    "services_publics",
-    "uniforme"
-  ],
   "repond_a": [
     {
       "id": "uniforme_ecole",
@@ -175,5 +171,9 @@
   "ne_repond_pas": [],
   "synonymes": [
     "urgences"
+  ],
+  "concepts": [
+    "services_publics",
+    "uniforme"
   ]
 }

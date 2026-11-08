@@ -1,0 +1,182 @@
+{
+  "id": "regroupement-familial-chiffres",
+  "type": "idee_recue",
+  "affirmation": "Le regroupement familial fait venir des centaines de milliers d'immigrés chaque année.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et démographie",
+  "rubriques": [],
+  "mots_cles": [
+    "regroupement familial",
+    "regroupements familiaux",
+    "immigration familiale",
+    "faire venir sa famille",
+    "titres familiaux",
+    "regroupement des familles"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non. Le regroupement familial au sens strict, c'est environ 13 000 titres de séjour en 2023, soit 5 % des premiers titres. Même en comptant toute l'immigration familiale (conjoints de Français, familles d'Européens, liens personnels), on arrive à environ 81 000 titres, loin des « centaines de milliers ». Et les conditions sont strictes : ressources au niveau du SMIC, logement adapté, 18 mois de séjour régulier.",
+  "contexte": "Le regroupement familial est souvent présenté comme la grande porte d'entrée de l'immigration ; il est au cœur des programmes du RN et de Reconquête.",
+  "explication": "Le regroupement familial permet à un étranger en situation régulière de faire venir son conjoint et ses enfants mineurs. Il ne faut pas le confondre avec l'immigration familiale au sens large, qui comprend surtout les conjoints et parents de Français.",
+  "faits": [
+    {
+      "fait": "En 2023, 12 885 titres ont été délivrés au titre du regroupement familial, soit 5 % des premiers titres d'au moins un an ; la moyenne 2000-2023 est d'environ 11 000 par an.",
+      "periode": "2000-2023",
+      "perimetre": "France",
+      "explication": "Le regroupement familial pèse peu dans les entrées.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "12 885 titres"
+    },
+    {
+      "fait": "Au sens large, l'immigration familiale représente 81 032 titres en 2023, soit 31 % des premières délivrances.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Même au sens large, on est loin des centaines de milliers.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "81 032 titres"
+    },
+    {
+      "fait": "En 2023, 82 % des 15 780 demandes de regroupement familial ont été acceptées ; les refus tiennent surtout aux ressources et au logement.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les conditions sont réellement contrôlées.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, il faut 18 mois de séjour régulier, des ressources au moins égales au SMIC et un logement « normal » pour une famille comparable de la même région.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les conditions sont exigeantes.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la statistique publique relayée par Public Sénat, 384 230 premiers titres ont été délivrés en 2025, le motif étudiant arrivant en tête (118 000).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le premier motif d'entrée n'est pas familial.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le regroupement familial, c'est environ 13 000 titres par an, 5 % des entrées. Toute l'immigration familiale réunie, conjoints de Français compris, fait environ 81 000 titres. On est très loin des centaines de milliers.",
+    "moyen": "Le regroupement familial au sens strict a concerné 12 885 titres en 2023, selon l'Ined. C'est environ 5 % des premiers titres de séjour. Il faut des ressources au niveau du SMIC, un logement adapté et 18 mois de séjour régulier, et près d'une demande sur cinq est refusée.\n\nL'immigration familiale au sens large, qui inclut les conjoints et parents de Français, représente environ 81 000 titres, soit 31 % des entrées. C'est important, mais c'est loin des centaines de milliers, et cela concerne souvent des personnes déjà installées en France depuis des années.",
+    "detaille": "Le regroupement familial permet à un étranger installé régulièrement de faire venir son conjoint et ses enfants mineurs. Selon l'Ined, il a donné lieu en moyenne à environ 11 000 titres par an entre 2000 et 2023, et à 12 885 en 2023. C'était 20 000 à 32 000 par an à la fin des années 1980 : la voie est devenue plus rare.\n\nLes conditions sont strictes : ressources au moins égales au SMIC hors prestations, logement adapté à la taille de la famille, 18 mois de séjour régulier. En 2023, 18 % des demandes ont été refusées.\n\nCe qui est souvent appelé « regroupement familial » est en réalité l'immigration familiale au sens large : 81 032 titres en 2023, dont beaucoup pour des conjoints de Français. Selon le démographe François Héran, environ 40 % des premiers titres familiaux concernent des personnes déjà entrées en France depuis au moins neuf ans. Au total, la France a délivré 384 230 premiers titres en 2025, le premier motif étant les études.",
+    "empathie": "On peut se demander combien de personnes arrivent par la famille, c'est une vraie question. Les chiffres officiels donnent une réponse précise, bien plus modeste que ce qu'on entend souvent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec les conjoints de Français, ça fait beaucoup.",
+      "reponse": "Oui, l'immigration familiale au sens large représente environ 81 000 titres, mais elle concerne surtout des couples formés avec des Français, pas le regroupement familial."
+    },
+    {
+      "objection": "Les chiffres sont cachés.",
+      "reponse": "Ils sont publiés chaque année par le ministère de l'Intérieur et analysés par l'Ined."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de titres de séjour sont délivrés chaque année au titre du regroupement familial ?",
+    "Faut-il empêcher un Français d'épouser une personne étrangère ?"
+  ],
+  "limites": [
+    "Les chiffres détaillés lus s'arrêtent à 2023 ; le total familial de 2025 n'a pas été lu.",
+    "Les pages du ministère de l'Intérieur n'ont pas pu être ouvertes : les chiffres viennent de l'Ined et de Public Sénat."
+  ],
+  "sources": [
+    {
+      "titre": "Cinquante ans de regroupement familial : une voie d'entrée sur le territoire désormais plus rare (Population & Sociétés n° 643)",
+      "organisme": "Ined (Julia Descamps)",
+      "date_publication": "avril 2026",
+      "url": "https://www.ined.fr/sites/default/files/2026-04/643F.pdf",
+      "passage": "Entre 2000 et 2023, le regroupement familial a donné lieu en moyenne à environ 11 000 premiers titres par an, contre 20 000 à 32 000 entre 1987 et 1992. En 2023, 12 885 titres ont été délivrés, soit 5 % des premiers titres d'au moins un an (11 % en 2000). Au sens large, l'immigration familiale représente 81 032 titres en 2023, soit 31 % des premières délivrances ; elle inclut les familles de Français et les « liens personnels et familiaux ». Le SMIC est exigé depuis 1993 hors prestations familiales, des critères de logement existent depuis 1999 ; en 2023, 15 780 demandes, 82 % d'acceptation, refus surtout pour ressources (11 %) et logement (3 %).",
+      "pertinence": "Publication scientifique d'un institut public de recherche (données jusqu'en 2023).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vérités et contrevérités sur l'immigration",
+      "organisme": "François Héran (Collège de France, Institut Convergences Migrations / CNRS)",
+      "date_publication": "2 novembre 2023",
+      "url": "https://icmigrations.cnrs.fr/wp-content/uploads/2023/11/Immigration-et-projet-de-loi-Darmanin_Verites-contreverites_Heran-02-11-2023.pdf",
+      "passage": "Le regroupement familial concerne « 12 à 14 000 personnes par an » ; l'auteur reproche de le confondre avec la migration familiale globale, d'environ 85 000 personnes par an. Selon l'enquête ELIPA, environ 40 % des premiers titres familiaux concernent des personnes entrées en France depuis au moins neuf ans.",
+      "pertinence": "Synthèse d'un démographe du Collège de France.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Loi immigration : comment le Sénat veut limiter le regroupement familial",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "31 octobre 2023",
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-immigration-comment-le-senat-veut-limiter-le-regroupement-familial",
+      "passage": "Conditions en vigueur : 18 mois de séjour régulier, des ressources « stables et suffisantes » évaluées sur la moyenne du SMIC des 12 derniers mois, un logement « normal » pour une famille comparable de la même région ; les ascendants sont exclus. Titres délivrés : 12 149 en 2018, 10 041 en 2020 et 14 314 en 2021. Les sénateurs jugent que l'immigration en France « demeure une immigration largement familiale ».",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Immigration : titres de séjour en nette hausse et régularisations en baisse sur l'année 2025",
+      "organisme": "Public Sénat (Romain David, avec l'AFP)",
+      "date_publication": "27 janvier 2026",
+      "url": "https://www.publicsenat.fr/actualites/societe/immigration-titres-de-sejour-en-nette-hausse-et-regularisations-en-baisse-sur-lannee-2025",
+      "passage": "D'après la direction générale des étrangers en France, 384 230 premiers titres ont été délivrés en 2025 (+11,2 %). Le motif étudiant arrive en tête (118 000), devant l'humanitaire (92 600) et l'économique (51 190).",
+      "pertinence": "Média parlementaire reprenant la statistique publique.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles statistiques annuelles des titres de séjour.",
+  "objections_legitimes": [
+    "L'immigration familiale au sens large reste un flux important, environ un tiers des premiers titres.",
+    "Les sénateurs jugent que l'immigration en France demeure « largement familiale »."
+  ],
+  "publics": {
+    "convaincus": "Le regroupement familial, c'est 12 885 titres en 2023, soit 5 % des entrées, selon l'Ined. Et il faut gagner au moins le SMIC, avoir un logement assez grand et 18 mois de séjour régulier. Les « centaines de milliers », ce chiffre n'existe dans aucune statistique.",
+    "indecis": "La question est légitime : selon l'Ined, l'immigration familiale au sens large représente environ un tiers des titres, 81 000 en 2023. Mais il s'agit surtout de conjoints de Français ; le regroupement familial au sens strict ne concerne qu'environ 13 000 personnes par an, sous conditions strictes."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "universalite"
+    ],
+    "mecanismes": "Confondre regroupement familial et immigration familiale gonfle artificiellement la peur ; les conditions de ressources et de logement filtrent déjà fortement.",
+    "consequences": "Des familles en situation régulière restent séparées pendant des années à cause des délais.",
+    "democratie": "Un débat démocratique sur l’immigration exige des chiffres justes, pas des ordres de grandeur inventés.",
+    "propositions": [
+      "Réduire les délais d’instruction pour les familles en situation régulière.",
+      "Publier chaque année des chiffres clairs distinguant regroupement familial et immigration familiale."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’immigration familiale au sens large reste un flux important.",
+        "integration": "Le reconnaître et rappeler qu’elle concerne surtout des conjoints de Français."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "natalite",
+    "enfants par femme",
+    "font des gosses",
+    "font plus d enfants",
+    "un tiers de la population",
+    "population"
+  ],
+  "concepts": [
+    "immigration",
+    "demographie"
+  ]
+}

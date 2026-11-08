@@ -163,14 +163,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "prestations",
-    "fraude",
-    "retraite",
-    "algerie",
-    "centenaires"
-  ],
   "repond_a": [
     {
       "id": "centenaires_etranger",
@@ -191,5 +183,13 @@
     "apl",
     "minima sociaux",
     "assistanat"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "fraude",
+    "retraite",
+    "algerie",
+    "centenaires"
   ]
 }

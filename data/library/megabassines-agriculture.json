@@ -154,10 +154,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "bassines"
-  ],
   "repond_a": [
     {
       "id": "bassines",
@@ -168,5 +164,9 @@
   "synonymes": [
     "nucleaire",
     "sainte soline"
+  ],
+  "concepts": [
+    "ecologie",
+    "bassines"
   ]
 }

@@ -153,13 +153,6 @@
       }
     ]
   },
-  "concepts": [
-    "melenchon_lfi",
-    "gauche",
-    "russie",
-    "ukraine",
-    "lfi_poutine"
-  ],
   "repond_a": [
     {
       "id": "lfi_poutine",
@@ -180,5 +173,12 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "melenchon_lfi",
+    "gauche",
+    "russie",
+    "ukraine",
+    "lfi_poutine"
   ]
 }

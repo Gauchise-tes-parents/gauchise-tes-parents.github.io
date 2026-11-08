@@ -408,3 +408,116 @@ Lors de la relecture, plusieurs affirmations non sourcées ont été retirées d
 - chiffres nationaux sur les bloqueurs de puberté et les hormones chez les mineurs ;
 - usages du 49.3 en 2025 et décompte nominatif d'Élisabeth Borne ;
 - part des agriculteurs bénéficiaires des réserves de substitution.
+
+## 8 novembre 2026 — passage de 06 h 13 (UTC)
+
+**Questions testées : 25** (fichier passé dans `node scripts/verifier-couverture.mjs`). Une première liste de 30 phrases a été testée. Cinq ont été écartées :
+- trois déjà couvertes par une fiche qui y répond réellement : exécution des OQTF (`expulser-tous-etrangers-condamnes`), Cour européenne des droits de l'homme et expulsions (`etranger-crime-plus-sa-place`), violences sexuelles et étrangers (voisin de `delinquance-principalement-immigration`, qui donne la part des étrangers par type d'infraction) ;
+- deux quasi-doublons : natalité des immigrées (`grand-remplacement`) et dépenses sociales (`services-publics-moyens`).
+
+Cinq phrases difficiles à sourcer ont été remplacées avant la recherche : fausses accusations de viol, élections truquées, « zones de non-droit », terroristes « tous immigrés », écologistes et viande.
+
+Sur les 25 retenues, 11 étaient « LACUNE » et **14 étaient « couvertes » par une fiche voisine hors sujet**. Exemples : école privée → services publics ; pollution de l'air → mix électrique ; ISF → impôts et assistanat ; mères voilées → loi de 1905 ; Conseil constitutionnel → « juges de gauche ». Elles ont été traitées comme de vraies lacunes (règle v12).
+
+Les 25 questions :
+1. Le regroupement familial fait venir des centaines de milliers d'immigrés chaque année.
+2. Le RN veut supprimer le regroupement familial.
+3. Les étudiants étrangers, c'est une immigration déguisée.
+4. Schengen empêche la France de contrôler ses frontières.
+5. La France donne des milliards d'aide au développement à l'Afrique pour rien.
+6. Les Français abusent des arrêts maladie.
+7. Le RSA conditionné à 15 heures d'activité, ça remet les gens au travail.
+8. Les jeunes ne veulent plus travailler.
+9. Le pouvoir d'achat des Français ne cesse de baisser.
+10. À l'hôpital, il y a plus d'administratifs que de soignants.
+11. Les entreprises ne touchent presque pas d'aides publiques, c'est l'assistanat des pauvres qui coûte.
+12. La suppression de l'ISF a relancé l'investissement.
+13. En France, on ne peut pas licencier.
+14. Le RN veut taxer les super-riches.
+15. Le blocage des prix proposé par la gauche provoquerait des pénuries.
+16. La gauche veut forcer les médecins à s'installer à la campagne.
+17. L'école privée est meilleure que l'école publique.
+18. Les mères voilées n'ont pas le droit d'accompagner les sorties scolaires.
+19. Le Conseil constitutionnel empêche la volonté du peuple, c'est le gouvernement des juges.
+20. Le narcotrafic explose en France.
+21. Le RN est le meilleur rempart contre l'antisémitisme.
+22. Pendant la guerre d'Algérie, la torture était l'exception.
+23. L'esclavage, la France n'a pas à s'en excuser, ce sont des Africains qui vendaient les esclaves.
+24. Les sanctions contre la Russie nous font plus de mal qu'à elle.
+25. La pollution de l'air, ça ne tue pas tant que ça.
+
+**Fiches créées : 25.** Elles sont produites par le générateur `scripts/fiches/quotidien_20261108_0613.py`. Toutes ont un champ `publics` et une « lecture de gauche ». Chaque fiche repose sur au moins deux sources ouvertes et lues le 8 novembre 2026 :
+
+| Fiche | Verdict | Sources principales |
+|---|---|---|
+| `regroupement-familial-chiffres` | contredit | Ined, Population & Sociétés n° 643 (2026) ; F. Héran, ICM/CNRS (2023) ; Public Sénat (2023 et 2026) |
+| `rn-regroupement-familial` | plutôt exact | LCP (2022 et 2024) ; AN, proposition de loi constitutionnelle n° 2120 du RN (2024, citée pour décrire sa position) ; décision 93-325 DC (traduction de l'Université du Texas) ; directive 2003/86/CE (EUR-Lex) |
+| `etudiants-etrangers-immigration` | trompeur | OCDE, Perspectives des migrations internationales (2022) ; Campus France (2022 et 2025) ; ministère de l'Enseignement supérieur (2019) ; Public Sénat (2026) |
+| `schengen-controles-frontieres` | contredit | Conseil d'État, décision n° 499702 (2025) ; Commission européenne (notifications) ; Parlement européen (2024) ; Mission opérationnelle transfrontalière (2026) ; Public Sénat sur la Cour des comptes (2024) |
+| `aide-developpement-afrique` | trompeur | OCDE, CAD (2026) ; Sénat, avis n° 141 (2025) ; Focus 2030 (2024) ; AFD (2026) |
+| `arrets-maladie-abus` | trompeur | Cour des comptes, RALFSS (2024) ; DREES (2025) ; Public Sénat (2025) ; Legisocial d'après l'Assurance maladie (2025) |
+| `rsa-15-heures-activite` | trompeur | Dares-IPP, rapport n° 68 (2026) ; Localtis (2024 et 2025) ; CNCDH, déclaration D-2024-7 |
+| `jeunes-ne-veulent-plus-travailler` | contredit | Insee Première n° 2096 (2026) ; Localtis (2024) ; Trésor-Éco n° 376 (2025) ; Institut Montaigne (2025, cité avec attribution) |
+| `pouvoir-achat-baisse` | trompeur | Insee (séries 1960-2025, France portrait social 2025, Insee Première n° 2105 et n° 2079) ; Banque de France (2025) |
+| `licenciement-impossible-france` | contredit | Insee Références (2025) ; Sénat, rapport n° 488 (2026) ; OCDE (2020) ; IRES (2014) ; Lefebvre Dalloz (2022 et 2026) |
+| `aides-publiques-entreprises` | contredit | Sénat, rapport n° 808 (2025) ; Public Sénat (2025, deux articles) ; DREES, minima sociaux (2025) |
+| `suppression-isf-investissement` | contredit | France Stratégie, rapport final du comité d'évaluation (2023) ; Public Sénat (2021) ; Localtis sur le rapport du Sénat (2019) |
+| `rn-taxe-zucman` | trompeur | Public Sénat (2025) ; LCP (2025, deux articles) ; scrutin n° 3300 via Datan ; Legifiscal (2025) |
+| `blocage-prix-penuries` | trompeur | Programme du NFP (2024, cité pour décrire son contenu) ; Le Club des juristes (2024) ; Insee Analyses n° 75 (2022) ; Banque de France (2024) ; Institut Montaigne (2024, argument contraire attribué) |
+| `regulation-installation-medecins` | trompeur | LCP (2025, deux articles) ; Public Sénat (2025) ; Localtis (2026) ; DREES, Études et Résultats n° 1144 (2020) et n° 1267 (2023) |
+| `ecole-privee-meilleure` | trompeur | Cour des comptes, rapport sur l'enseignement privé sous contrat (2023) ; Localtis (2023 et 2025, d'après la DEPP) |
+| `meres-voilees-sorties-scolaires` | contredit | AN, réponse ministérielle à la question n° 57422 (2015) ; Les Surligneurs (2025) ; Public Sénat (2019 et 2021) |
+| `conseil-constitutionnel-gouvernement-juges` | trompeur | LCP (2024) ; Actu-Juridique (2024) ; Assemblée nationale, fiche n° 55 ; Sénat, révisions de la Constitution ; Public Sénat (2024) |
+| `narcotrafic-explosion` | plutôt exact | Sénat, rapport n° 588 (2024) et loi du 13 juin 2025 ; AFP d'après le ministère de l'Intérieur (2025 et 2026) ; AFP d'après l'OFDT (2025) |
+| `hopital-administratifs-soignants` | contredit | DREES, Les établissements de santé, fiches 05 et 06 (2026) ; Acteurs publics (2025, deux articles) |
+| `rn-rempart-antisemitisme` | trompeur | Nonna Mayer, Droits & Libertés n° 214 (2026, d'après le baromètre CNCDH) ; CNCDH, communiqué (2026) ; Public Sénat (2018) ; AFP via JusticeInfo (2025) |
+| `torture-guerre-algerie` | contredit | Élysée, déclaration sur Maurice Audin (2018) et reconnaissance de l'assassinat d'Ali Boumendjel (2021) ; Raphaëlle Branche, CICR (2007) |
+| `esclavage-traite-responsabilite` | trompeur | BnF (2021) ; Sénat, rapport n° 262 (2000) ; AN, réponse ministérielle à la question n° 13957 (2026) ; Myriam Cottias, CNRS (2021) ; Académie des sciences d'outre-mer |
+| `sanctions-russie-effets` | trompeur | Direction générale du Trésor (2026) ; Commission européenne (2024 et 2025) ; Eurostat (2022) ; Banque de France (2023) |
+| `pollution-air-deces` | contredit | Santé publique France (2021) ; Agence européenne pour l'environnement (2025) ; OMS (2024) ; SDES (2025) |
+
+**Méthode.** La recherche documentaire a été répartie entre cinq agents de recherche. Chacun cherchait avec WebSearch puis lisait chaque page avec WebFetch. Seules les pages effectivement lues ont été retenues. Les chiffres viennent des passages lus. Les sources de droite (Institut Montaigne) ou partisanes (programme du NFP, proposition de loi du RN) ne servent qu'à décrire une position ou un argument contraire, toujours avec attribution.
+
+Pages qui n'ont pas pu être ouvertes, donc non citées :
+- Vie publique et Légifrance (JavaScript ou autorisation expirée) ;
+- pages du ministère de l'Intérieur (statistiques des titres de séjour) et du Conseil constitutionnel (décisions 93-325 DC et 2023-863 DC) ;
+- ameli.fr (bilan de la fraude 2025) et PDF de la Dares (CAPTCHA) ;
+- jeu de données de l'OCDE sur la protection de l'emploi.
+
+L'outil de lecture résume les pages : les citations entre guillemets sont courtes et pourraient être revérifiées mot à mot.
+
+Lors de la relecture, plusieurs affirmations non sourcées ont été retirées des fiches :
+- une régulation existante de l'installation d'autres professions de santé ;
+- un effet de l'exclusion des mères voilées sur le nombre d'accompagnateurs ;
+- un niveau de morts liés au trafic en 2024 « supérieur à 2021-2022 » (lu seulement dans Euronews, non retenu) ;
+- le mode de nomination des membres du Conseil constitutionnel ;
+- une formule prêtant au RN l'intention de « viser les musulmans ».
+
+Chiffres signalés comme douteux par la recherche et non repris :
+- « 12 millions de francs » pour l'indemnité de 1849, contradictoire avec les 126 millions avancés par l'historienne Myriam Cottias ;
+- 538 400 ruptures conventionnelles en 2024, incohérent avec l'Insee, le Sénat et l'Unédic ;
+- 723 M€ de fraudes détectées en 2025, lu seulement dans des titres de résultats de recherche.
+
+**Reconnaissance des questions.**
+- `public/js/cartographie.js` reçoit 14 concepts et 14 arguments, placés en tête de la liste des arguments : aide à l'Afrique, RSA et heures d'activité, jeunes et travail, baisse du pouvoir d'achat, administratifs à l'hôpital, aides aux entreprises, ISF, RN et taxation des riches, blocage des prix, école privée, mères voilées, Conseil constitutionnel, RN et antisémitisme, pollution de l'air. Les 25 questions mènent à leur fiche.
+- Pour départager, trois arguments existants excluent désormais les nouveaux concepts :
+  - `juges_rouges` et `juges_gauche` excluent `conseil_constit` ;
+  - `services_publics_moyens` exclut, au niveau de la phrase, `hopital_admin` et `ecole_privee`.
+- Variantes testées qui y mènent aussi : « Les jeunes d'aujourd'hui sont des feignants », « On vit moins bien qu'avant », « Il faut rétablir l'ISF », « Bardella veut taxer les milliardaires », « Bloquer les prix, c'est soviétique », « Une maman voilée ne devrait pas accompagner les sorties scolaires », « Le Conseil constitutionnel a censuré la loi immigration », « Les particules fines ne tuent personne », « On donne des milliards à l'Afrique », « Les patrons touchent des aides publiques énormes », « Le RN protège les juifs », « L'hôpital croule sous la bureaucratie ».
+- Comparaison avant/après sur 271 phrases de contrôle (affirmations de la bibliothèque et questions des passages précédents) : seules les 14 questions visées changent de fiche. « Les juges sont tous de gauche » reste sur `juges-de-gauche`.
+- Ajustement après les tests : « Le pouvoir d'achat s'effondre », phrase du test de compréhension, doit rester sur `dividendes-salaires` / `pauvrete-france`. Les motifs « effondrement » et « chute » ont donc été retirés du concept de baisse du pouvoir d'achat.
+
+**Fiches existantes adaptées aux deux publics (10).** Le champ `publics` a été ajouté, à partir du seul contenu sourcé de chaque fiche, via `scripts/publics-complements.js`, appliqué par `scripts/corrections-v10.js`. Fiches concernées : `commune-paris-1871`, `front-populaire-1936`, `criminels-etrangers-proteges-justice`, `etranger-crime-plus-sa-place`, `expulser-reduit-criminalite`, `france-plus-sure-moins-immigres`, `immigration-chiffres-definitions`, `immigres-prisons-surrepresentation`, `ingerences-etrangeres`, `passoires-thermiques`.
+
+**Questions écartées pour sources invérifiables : aucune.** Les dossiers les plus minces sont :
+- `hopital-administratifs-soignants` : DREES et presse spécialisée seulement, sans rapport de la Cour des comptes ni vérification de presse ;
+- `conseil-constitutionnel-gouvernement-juges` : la décision elle-même n'a pas pu être ouverte.
+
+**Points non vérifiés, laissés hors des fiches et signalés dans leurs limites :**
+- total de l'immigration familiale en 2025 ;
+- note actuelle de la France à l'indicateur de protection de l'emploi de l'OCDE (la valeur citée date de 2013) ;
+- effet propre des quinze heures d'activité et des sanctions sur le RSA ;
+- sort de l'« impôt sur la fortune improductive » dans la loi de finances 2026 ;
+- texte de la loi Taubira sur Légifrance ;
+- effet propre des sanctions sur l'économie russe ;
+- part des décisions de non-conformité dans l'ensemble des décisions du Conseil constitutionnel.

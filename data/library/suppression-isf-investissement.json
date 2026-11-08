@@ -1,0 +1,175 @@
+{
+  "id": "suppression-isf-investissement",
+  "type": "idee_recue",
+  "affirmation": "La suppression de l'ISF a relancé l'investissement.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "isf",
+    "suppression de l isf",
+    "impot sur la fortune",
+    "ifi",
+    "flat tax",
+    "pfu",
+    "retablir l isf",
+    "ruissellement"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux d'après l'évaluation officielle : le comité de France Stratégie n'a détecté « aucun effet » sur l'investissement et les salaires des entreprises les plus concernées. La réforme a en revanche fait bondir les dividendes, de 14 à 23 milliards d'euros par an, très concentrés sur 1 % des foyers, pour un coût de plus de 4 milliards par an. Elle a bien réduit l'exil fiscal, mais sur quelques centaines de foyers.",
+  "contexte": "En 2018, l'ISF a été remplacé par un impôt sur la fortune immobilière (IFI), avec un prélèvement forfaitaire unique sur les revenus du capital, au nom de l'investissement.",
+  "explication": "L'idée du « ruissellement » était que les plus riches investiraient davantage dans les entreprises. Un comité indépendant a été chargé de l'évaluer.",
+  "faits": [
+    {
+      "fait": "Le comité d'évaluation écrit : « Aucun effet n'a été détecté sur l'investissement et les salaires parmi les entreprises » les plus exposées à la réforme.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La promesse principale n'est pas vérifiée.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les dividendes déclarés passent d'environ 14 Md€ par an (2013-2017) à environ 23 Md€ (2018-2020) ; 1 % des foyers concentre 96 % des montants.",
+      "periode": "2013-2020",
+      "perimetre": "France",
+      "explication": "La réforme a surtout profité aux plus riches.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "96 %"
+    },
+    {
+      "fait": "Le coût de la transformation de l'ISF en IFI serait « vraisemblablement supérieur à 4 milliards d'euros » en 2022.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La réforme coûte cher aux finances publiques.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+4 Md€"
+    },
+    {
+      "fait": "Depuis 2018, on compte environ 380 retours pour 260 départs par an chez les redevables de l'IFI, contre 370 retours pour 950 départs sous l'ISF.",
+      "periode": "2011-2020",
+      "perimetre": "France",
+      "explication": "L'exil fiscal a reculé, mais sur de petits effectifs.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, en 2019, 62 % des dividendes sont allés à 0,1 % des foyers ; Bercy invoque des effets de long terme.",
+      "periode": "2019-2021",
+      "perimetre": "France",
+      "explication": "Le gouvernement conteste le manque de recul.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : l'évaluation officielle de France Stratégie n'a détecté aucun effet de la suppression de l'ISF sur l'investissement. Les dividendes, eux, ont bondi, au profit de 1 % des foyers.",
+    "moyen": "En 2018, l'ISF a été remplacé par un impôt sur la seule fortune immobilière, au nom de l'investissement. Le comité d'évaluation de France Stratégie a cherché : aucun effet n'a été détecté sur l'investissement ni sur les salaires dans les entreprises concernées.\n\nCe qui a augmenté, ce sont les dividendes, passés d'environ 14 à 23 milliards par an, dont 96 % pour 1 % des foyers. Coût pour l'État : plus de 4 milliards par an. Il faut reconnaître un effet : les départs de contribuables fortunés ont nettement diminué, mais on parle de quelques centaines de foyers.",
+    "detaille": "Le comité d'évaluation des réformes de la fiscalité du capital, placé auprès de France Stratégie, a rendu son rapport final en octobre 2023. Sa conclusion principale : « Aucun effet n'a été détecté sur l'investissement et les salaires parmi les entreprises » les plus exposées. Les créations d'entreprises semblent plus liées au prélèvement forfaitaire unique et à l'impôt sur les sociétés qu'à l'IFI.\n\nLa réforme a en revanche fait bondir les dividendes déclarés, d'environ 14 Md€ par an avant 2018 à environ 23 Md€ ensuite, avec 1 % des foyers qui en reçoit 96 %. Son coût est estimé à plus de 4 Md€ en 2022.\n\nL'effet sur l'exil fiscal est réel : environ 260 départs par an après 2018 contre 950 sous l'ISF, et plus de retours que de départs. Mais il s'agit de quelques centaines de foyers. Bercy répond que les effets sur l'investissement se mesurent sur le long terme ; à ce jour, ils n'ont pas été observés.",
+    "empathie": "L'idée que baisser les impôts des riches profite à tous est intuitive, et elle a été sincèrement défendue. L'avantage, c'est qu'elle a été évaluée : les résultats ne la confirment pas."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les riches seraient partis.",
+      "reponse": "Les départs ont reculé, mais ils concernent quelques centaines de foyers par an, pour un coût de plus de 4 milliards."
+    },
+    {
+      "objection": "Il faut du temps pour voir les effets.",
+      "reponse": "Le rapport final date de 2023, cinq ans après la réforme, et ne détecte aucun effet sur l'investissement."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce qu'a conclu l'évaluation officielle de la suppression de l'ISF ?",
+    "À qui ont profité les dividendes supplémentaires ?"
+  ],
+  "limites": [
+    "Les données s'arrêtent vers 2021-2022.",
+    "Les effets de long terme sur l'investissement restent débattus."
+  ],
+  "sources": [
+    {
+      "titre": "Comité d'évaluation des réformes de la fiscalité du capital – Rapport final, avis du comité",
+      "organisme": "France Stratégie",
+      "date_publication": "octobre 2023",
+      "url": "https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2023-rapport-isf-quatrieme_rapport_complet_17octobre_avis.pdf",
+      "passage": "« Aucun effet n'a été détecté sur l'investissement et les salaires parmi les entreprises » les plus exposées. Les dividendes déclarés passent d'environ 14 Md€ par an (2013-2017) à environ 23 Md€ (2018-2020), surtout à cause du prélèvement forfaitaire unique ; 1 % des foyers concentre 96 % des montants. Depuis 2018, environ 380 retours pour 260 départs par an chez les redevables de l'IFI, contre 370 retours pour 950 départs sous l'ISF (2011-2016). Le coût de la transformation de l'ISF serait « vraisemblablement supérieur à 4 milliards d'euros » en 2022.",
+      "pertinence": "Évaluation publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Suppression de l'ISF, flat tax : « Ce n'est pas du ruissellement, mais de l'évaporation ! », critique Eric Bocquet",
+      "organisme": "Public Sénat (Romain David)",
+      "date_publication": "15 octobre 2021",
+      "url": "https://www.publicsenat.fr/actualites/politique/suppression-de-l-isf-flat-tax-ca-n-est-pas-du-ruissellement-mais-de-l-evaporation",
+      "passage": "D'après le troisième rapport du comité d'évaluation, en 2019, 62 % des dividendes sont allés à 0,1 % des foyers (39 000 foyers) ; aucun effet observable sur l'économie réelle n'est constaté à ce stade. Bercy répond que les effets sont de long terme. La sénatrice LR Christine Lavarde explique la concentration des dividendes par celle de l'actionnariat.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Logement / Fiscalité : premier bilan mitigé pour l'IFI et retour du « retraité de l'île de Ré »",
+      "organisme": "Banque des Territoires (Localtis, Jean-Noël Escudié)",
+      "date_publication": "10 octobre 2019",
+      "url": "https://www.banquedesterritoires.fr/logement-fiscalite-premier-bilan-mitige-pour-lifi-et-retour-du-retraite-de-lile-de-re",
+      "passage": "Selon le rapport du Sénat d'octobre 2019, l'IFI a rapporté en 2018 2,9 Md€ de moins que l'ISF ; les dons ont reculé de 49 % ; la réforme a « fortement freiné les départs à l'étranger, sans provoquer de retours ».",
+      "pertinence": "Presse spécialisée rendant compte d'un rapport parlementaire (2019).",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles évaluations de la fiscalité du capital.",
+  "objections_legitimes": [
+    "Les départs de contribuables fortunés ont nettement reculé depuis 2018.",
+    "Bercy estime que les effets de long terme ne sont pas encore mesurables."
+  ],
+  "publics": {
+    "convaincus": "Le gouvernement lui-même a fait évaluer la suppression de l'ISF par France Stratégie : aucun effet détecté sur l'investissement. Les dividendes ont bondi de 14 à 23 milliards, dont 96 % pour 1 % des foyers. Ça coûte plus de 4 milliards par an : qui a payé ?",
+    "indecis": "La réforme a réduit les départs de contribuables fortunés, c'est un fait. Mais selon l'évaluation officielle, elle n'a pas relancé l'investissement, et elle a surtout augmenté les dividendes des plus riches. La question est de savoir si ces 4 milliards par an ne seraient pas mieux utilisés ailleurs."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "services_publics"
+    ],
+    "mecanismes": "La baisse d’impôt des plus riches a fait monter les dividendes sans relancer l’investissement.",
+    "consequences": "Les recettes perdues manquent aux services publics.",
+    "democratie": "Une réforme fiscale promise au nom de l’intérêt général doit être jugée sur ses résultats.",
+    "propositions": [
+      "Rétablir un impôt sur la fortune modernisé.",
+      "Imposer les revenus du capital comme ceux du travail."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’exil fiscal des contribuables fortunés a reculé depuis la réforme.",
+        "integration": "Le reconnaître et rappeler qu’il porte sur quelques centaines de foyers."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "isf",
+      "label": "Suppression de l’ISF"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "impot de solidarite sur la fortune",
+    "suppression de l impot sur la fortune",
+    "flat tax",
+    "ruissellement"
+  ],
+  "concepts": [
+    "fiscalite",
+    "isf"
+  ]
+}

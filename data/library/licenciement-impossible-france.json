@@ -1,0 +1,195 @@
+{
+  "id": "licenciement-impossible-france",
+  "type": "idee_recue",
+  "affirmation": "En France, on ne peut pas licencier.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "on ne peut pas licencier",
+    "impossible de licencier",
+    "licencier en france",
+    "licenciement",
+    "licenciements",
+    "rupture conventionnelle",
+    "bareme macron",
+    "prud hommes"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. En 2024, il y a eu environ 580 000 licenciements de salariés en CDI (75 700 économiques et 506 700 pour d'autres motifs) et 515 000 ruptures conventionnelles, selon l'Insee. Les indemnités pour licenciement abusif sont plafonnées depuis 2017, et l'OCDE classe la France parmi les pays qui ont assoupli leur protection. La procédure reste encadrée, et la France était en 2013 parmi les législations jugées les plus protectrices.",
+  "contexte": "L'idée d'un droit du travail qui empêcherait de licencier est souvent avancée pour expliquer le chômage.",
+  "explication": "Un licenciement doit avoir un motif réel et sérieux et suivre une procédure. Depuis 2008, la rupture conventionnelle permet aussi une séparation d'un commun accord, avec droit au chômage.",
+  "faits": [
+    {
+      "fait": "En 2024, les fins de CDI comprennent 75 700 licenciements économiques, 506 700 licenciements non économiques et 514 600 ruptures conventionnelles.",
+      "periode": "2024",
+      "perimetre": "Secteur privé",
+      "explication": "On licencie des centaines de milliers de salariés chaque année.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Dares citée par le Sénat, les ruptures conventionnelles atteignent 514 768 en 2024, contre 192 278 en 2009.",
+      "periode": "2009-2024",
+      "perimetre": "France",
+      "explication": "La séparation négociée a fortement progressé.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "+167 %"
+    },
+    {
+      "fait": "Selon Lefebvre Dalloz, l'indemnité pour licenciement abusif est plafonnée depuis 2017 : 3,5 mois de salaire au maximum à 2 ans d'ancienneté, 20 mois au maximum au-delà de 29 ans.",
+      "periode": "2017-2026",
+      "perimetre": "France",
+      "explication": "Le coût d'un licenciement injustifié est prévisible et limité.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Lefebvre Dalloz, le Comité européen des droits sociaux a jugé en 2022 que ce barème viole le droit à une indemnité adéquate ; la Cour de cassation l'a néanmoins validé.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le barème est critiqué pour protéger trop peu les salariés.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'OCDE cite la France parmi les pays dont les réformes de 2013 à 2019 visaient à « atténuer la rigueur de la protection contre les licenciements ».",
+      "periode": "2013-2019",
+      "perimetre": "France",
+      "explication": "La protection a été assouplie.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2013, l'indicateur de l'OCDE donnait à la France 2,82 sur 6 pour la protection des CDI, contre 1,62 au Royaume-Uni.",
+      "periode": "2013",
+      "perimetre": "France",
+      "explication": "La France était alors parmi les plus protectrices.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : en 2024, environ 580 000 salariés en CDI ont été licenciés et 515 000 ruptures conventionnelles ont été signées. Depuis 2017, les indemnités pour licenciement abusif sont plafonnées.",
+    "moyen": "Les chiffres de l'Insee sont parlants : en 2024, 75 700 licenciements économiques, 506 700 licenciements pour d'autres motifs, et 514 600 ruptures conventionnelles. On licencie donc beaucoup en France.\n\nDepuis 2017, un salarié licencié sans motif valable ne peut obtenir qu'une indemnité plafonnée, par exemple 3,5 mois de salaire avec deux ans d'ancienneté. L'OCDE note que la France a assoupli sa protection. Un licenciement doit être justifié et suivre une procédure : c'est une protection contre l'arbitraire, pas une interdiction.",
+    "detaille": "Selon l'Insee, sur 4,2 millions de fins de CDI en 2024, on compte 75 700 licenciements économiques, 506 700 licenciements non économiques, 514 600 ruptures conventionnelles et 1,85 million de démissions. La rupture conventionnelle, créée en 2008, est passée de 192 278 en 2009 à 514 768 en 2024 ; les très petites entreprises en réalisent plus de 40 %.\n\nDepuis les ordonnances de 2017, l'indemnité en cas de licenciement sans cause réelle et sérieuse est plafonnée selon l'ancienneté : 3,5 mois maximum à deux ans, 20 mois maximum au-delà de 29 ans. Le Comité européen des droits sociaux a jugé ce barème contraire à la Charte sociale européenne, mais la Cour de cassation l'a validé en 2022. L'OCDE classe la France parmi les pays qui ont assoupli la protection contre les licenciements entre 2013 et 2019.\n\nIl serait faux de dire que la France ne protège pas : en 2013, son indicateur de l'OCDE la plaçait parmi les législations les plus protectrices des CDI, et un plan social reste obligatoire pour les licenciements collectifs dans les grandes entreprises. Mais licencier est possible, fréquent, et moins coûteux qu'avant 2017.",
+    "empathie": "Pour un petit patron, la procédure peut sembler lourde, et la peur des prud'hommes est réelle. Mais les chiffres montrent que les licenciements et les ruptures négociées se comptent par centaines de milliers chaque année."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les prud'hommes ruinent les patrons.",
+      "reponse": "Depuis 2017, l'indemnité pour licenciement abusif est plafonnée selon l'ancienneté."
+    },
+    {
+      "objection": "C'est pour ça qu'il y a du chômage.",
+      "reponse": "La protection a été assouplie depuis 2013 ; les sources lues ne permettent pas d'en tirer un effet sur le chômage."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de licenciements ont lieu chaque année en France ?",
+    "Un salarié licencié sans raison valable devrait-il être indemnisé à hauteur du préjudice réel ?"
+  ],
+  "limites": [
+    "La note actuelle de la France à l'indicateur de l'OCDE n'a pas pu être lue ; la valeur citée date de 2013.",
+    "Le barème a été lu sur un site d'éditeur juridique, pas sur Légifrance."
+  ],
+  "sources": [
+    {
+      "titre": "Embauches et fins de contrat dans le secteur privé (Emploi, chômage, revenus du travail, édition 2025)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "26 juin 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8376832",
+      "passage": "Fins de CDI en 2024 : 75 700 licenciements économiques, 506 700 licenciements non économiques, 514 600 ruptures conventionnelles et 1 850 100 démissions, sur 4 233 000 fins de CDI.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport n° 488 (2025-2026) sur la transposition de l'avenant n° 3 relatif à l'assurance chômage",
+      "organisme": "Sénat, commission des affaires sociales (Laurent Burgoa)",
+      "date_publication": "31 mars 2026",
+      "url": "https://www.senat.fr/rap/l25-488/l25-4881.pdf",
+      "passage": "Selon la Dares, les ruptures conventionnelles « atteignent 514 768 en 2024 », contre 192 278 en 2009 (+167 %) ; les très petites entreprises en réalisent 41,6 %. Près de 375 000 ruptures ouvrent des droits au chômage.",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Indemnités pour licenciement abusif : le barème obligatoire (article L1235-3 du code du travail)",
+      "organisme": "Lefebvre Dalloz (fiche pratique)",
+      "date_publication": "27 avril 2026",
+      "url": "https://open.lefebvre-dalloz.fr/droit-social/rupture-contrat-travail/indemnites-licenciement-abusif-bareme-obligatoire_t7545",
+      "passage": "Montants maximaux en mois de salaire brut selon l'ancienneté : 1 mois à 0 an, 3,5 mois à 2 ans, 6 mois à 5 ans, 10 mois à 10 ans, 20 mois à partir de 29 ans. Le barème ne s'applique pas en cas de licenciement nul (au moins 6 mois).",
+      "pertinence": "Éditeur juridique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le « barème Macron » est contraire à la Charte sociale européenne",
+      "organisme": "Lefebvre Dalloz (Patrick Saget)",
+      "date_publication": "10 octobre 2022",
+      "url": "https://open.lefebvre-dalloz.fr/droit-social/actualites/bareme-macron-contraire-charte-sociale-europeenne_f81059035-caa0-4da8-8532-a4c466b36b38",
+      "passage": "Le Comité européen des droits sociaux (décision du 23 mars 2022) juge que le droit à une indemnité adéquate est violé par le barème ; la décision n'est pas contraignante en droit interne. Le 11 mai 2022, la Cour de cassation a jugé le barème conforme à la convention 158 de l'OIT.",
+      "pertinence": "Éditeur juridique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Perspectives de l'emploi de l'OCDE 2020, chapitre 3 : la protection de l'emploi",
+      "organisme": "OCDE",
+      "date_publication": "juillet 2020",
+      "url": "https://www.oecd.org/fr/publications/2020/07/oecd-employment-outlook-2020_19b4fc0d/full-report/component-8.html",
+      "passage": "Entre 2013 et 2019, certaines réformes visaient à « atténuer la rigueur de la protection contre les licenciements », « notamment en France, en Italie, en Lituanie et en Slovénie ». L'OCDE rappelle l'introduction en France en 2008 de la rupture conventionnelle ouvrant droit au chômage.",
+      "pertinence": "Organisation internationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les indicateurs de législation protectrice de l'emploi au crible de l'analyse juridique (La Revue de l'IRES n° 82)",
+      "organisme": "Raphaël Dalmasso (Université de Lorraine), IRES",
+      "date_publication": "2014",
+      "url": "https://ires.fr/wp-content/uploads/2023/01/R82-2.pdf",
+      "passage": "Au 1er janvier 2013, la France obtient 2,82 sur 6 à l'indicateur de l'OCDE pour la protection des CDI, l'Italie 2,79 et le Royaume-Uni 1,62 : « La France et l'Italie [...] apparaissent comme des législations particulièrement rigides. » L'auteur critique ensuite ces indicateurs.",
+      "pertinence": "Article universitaire (données de 2013, antérieures aux ordonnances de 2017).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de l'Insee et de la Dares sur les fins de contrat.",
+  "objections_legitimes": [
+    "La procédure de licenciement reste encadrée et peut sembler complexe pour une petite entreprise.",
+    "En 2013, la France était parmi les pays les plus protecteurs selon l'indicateur de l'OCDE."
+  ],
+  "publics": {
+    "convaincus": "En 2024, selon l'Insee, il y a eu environ 580 000 licenciements de salariés en CDI, et plus de 500 000 ruptures conventionnelles. Et depuis 2017, même un licenciement abusif coûte au maximum 3,5 mois de salaire à deux ans d'ancienneté. On peut licencier en France, et beaucoup.",
+    "indecis": "Le droit du travail impose un motif et une procédure, ce qui peut sembler lourd pour une petite entreprise. Mais les licenciements sont nombreux, la rupture conventionnelle facilite les séparations, et les indemnités sont plafonnées depuis 2017. Ces protections évitent surtout l'arbitraire."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite"
+    ],
+    "mecanismes": "Les licenciements et ruptures conventionnelles se comptent par centaines de milliers ; le plafonnement des indemnités a réduit la protection.",
+    "consequences": "Un salarié licencié sans motif valable n’obtient plus une réparation à la hauteur de son préjudice.",
+    "democratie": "Le droit du travail protège contre l’arbitraire ; l’affaiblir déséquilibre le rapport de force.",
+    "propositions": [
+      "Supprimer le plafonnement des indemnités pour licenciement abusif.",
+      "Renforcer le contrôle des licenciements économiques dans les entreprises qui font des profits."
+    ],
+    "defavorables": [
+      {
+        "fait": "La procédure de licenciement peut sembler lourde pour une très petite entreprise.",
+        "integration": "Le reconnaître et proposer un accompagnement juridique des petites entreprises."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [],
+  "concepts": []
+}
