@@ -1,0 +1,196 @@
+{
+  "id": "france-record-conges",
+  "type": "idee_recue",
+  "affirmation": "La France est le pays où l'on a le plus de jours de congés.",
+  "volet": "economie",
+  "sous_theme": "Comparaisons internationales",
+  "rubriques": [],
+  "mots_cles": [
+    "jours de conges",
+    "conges payes",
+    "cinq semaines de conges",
+    "jours feries",
+    "plus de vacances",
+    "record de vacances",
+    "rtt",
+    "trop de conges"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non. Selon Eurofound, un salarié français a 25 jours de congés payés et 10 jours fériés en 2022, soit 35 jours. Malte (40), le Danemark (38), l'Allemagne (37, en congés conventionnels) et l'Autriche (36) font mieux. La France est au-dessus de la moyenne de l'UE (33,3 jours) et ses 11 jours fériés sont dans la moyenne. En revanche, sa durée conventionnelle annuelle du travail à temps plein est la plus courte de l'UE.",
+  "contexte": "L'idée d'une France championne des vacances revient dans les débats sur la productivité et le budget.",
+  "explication": "Il faut distinguer congés payés, jours fériés et RTT, et comparer avec des sources homogènes. La durée effective du travail dépend aussi du temps partiel et du taux d'emploi.",
+  "faits": [
+    {
+      "fait": "En 2022, la France compte 25 jours de congés annuels et 10 jours fériés selon Eurofound, soit 35 jours.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La France est dans le haut du classement, sans être en tête.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "35 jours"
+    },
+    {
+      "fait": "Malte (40 jours), le Danemark (38), l'Allemagne (37, en congés conventionnels) et l'Autriche (36) cumulent plus de congés et de jours fériés que la France.",
+      "periode": "2022",
+      "perimetre": "UE",
+      "explication": "Plusieurs pays font mieux.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La moyenne de l'UE à 27 est de 24,3 jours de congés conventionnels et 9 jours fériés, soit 33,3 jours.",
+      "periode": "2022",
+      "perimetre": "UE",
+      "explication": "La France est un peu au-dessus de la moyenne.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Euronews, Avec 11 jours fériés, la France est dans la moyenne européenne, loin derrière Chypre (15) et l'Espagne ou Malte (14).",
+      "periode": "2025",
+      "perimetre": "Europe",
+      "explication": "La France n'a pas un nombre record de jours fériés.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La France a la durée annuelle conventionnelle du travail à temps plein la plus courte de l'UE : 1 608 heures contre 1 726 en moyenne.",
+      "periode": "2022",
+      "perimetre": "UE",
+      "explication": "C'est un fait défavorable à l'argument de gauche.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 608 heures"
+    },
+    {
+      "fait": "Selon l'OCDE, un actif français travaille en moyenne 1 489 heures par an, contre 1 335 pour un actif allemand ; l'écart s'explique surtout par le temps partiel, plus fréquent en Allemagne.",
+      "periode": "2023",
+      "perimetre": "France et Allemagne",
+      "explication": "Tous actifs confondus, les Français travaillent plus que les Allemands.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : avec 25 jours de congés et 10 jours fériés, la France est derrière Malte, le Danemark, l'Allemagne et l'Autriche selon Eurofound. Elle est un peu au-dessus de la moyenne européenne. Et tous actifs confondus, un Français travaille plus d'heures par an qu'un Allemand.",
+    "moyen": "Selon l'agence européenne Eurofound, un salarié français a 25 jours de congés et 10 jours fériés en 2022, soit 35 jours. Malte en a 40, le Danemark 38, l'Allemagne 37 avec les congés conventionnels, l'Autriche 36. La moyenne de l'UE est de 33,3 jours : la France est un peu au-dessus, pas championne.\n\nIl est vrai que la durée conventionnelle du travail à temps plein est la plus courte de l'UE en France. Mais selon l'OCDE, un actif français travaille 1 489 heures par an contre 1 335 pour un Allemand, parce que le temps partiel est moins répandu en France. Les congés payés sont une conquête de 1936 ; ils ne font pas de la France un pays de paresseux.",
+    "detaille": "Selon Eurofound (données 2022), un salarié français dispose de 25 jours de congés annuels et de 10 jours fériés, soit 35 jours. Plusieurs pays font mieux : Malte (28 + 12 = 40), le Danemark (30 + 8 = 38), l'Allemagne (30 jours conventionnels + 7 = 37) et l'Autriche (25 + 11 = 36). La moyenne de l'UE à 27 est de 33,3 jours. Pour les jours fériés, la France en compte 11 selon Euronews, dans la moyenne européenne, contre 15 à Chypre et 14 en Espagne ou à Malte.\n\nLe point défavorable est réel : selon Eurofound, la durée annuelle conventionnelle du travail à temps plein est la plus courte de l'UE en France, 1 608 heures contre 1 726 en moyenne, et des salariés à plus de 35 heures bénéficient de jours de RTT, non comptés dans ces comparaisons. Selon l'Insee, un salarié à temps complet a travaillé 1 661 heures en 2024, sur 212 jours.\n\nMais si l'on regarde tous les actifs, temps partiel compris, l'OCDE compte 1 489 heures par an en France contre 1 335 en Allemagne. L'écart de travail par habitant tient surtout au taux d'emploi, plus faible en France : c'est là que se joue le vrai débat, pas dans les vacances.",
+    "empathie": "Entendre que la France serait un pays de vacanciers peut agacer ceux qui travaillent dur, ou au contraire nourrir l'idée qu'on travaille moins que les autres. La comparaison mérite d'être faite sérieusement."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec les RTT, on a plus de congés que tout le monde.",
+      "reponse": "Les RTT ne concernent que les salariés à plus de 35 heures couverts par un accord ; et l'OCDE compte plus d'heures travaillées par actif en France qu'en Allemagne."
+    },
+    {
+      "objection": "Les Français sont moins productifs.",
+      "reponse": "Les comparaisons d'heures montrent surtout un problème de taux d'emploi, en particulier des jeunes et des seniors."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les Danois et les Allemands ont plus de jours de congés que les Français ?",
+    "Faut-il supprimer des congés ou faire travailler ceux qui cherchent un emploi ?"
+  ],
+  "limites": [
+    "Les chiffres d'Eurofound mélangent minimum légal et congés conventionnels selon les pays.",
+    "Le nombre de jours fériés varie selon les années (10 en 2022 selon Eurofound, 11 selon Euronews).",
+    "La part des salariés bénéficiant de RTT n'a pas été vérifiée."
+  ],
+  "sources": [
+    {
+      "titre": "Working time in 2021–2022",
+      "organisme": "Eurofound (agence de l'UE)",
+      "date_publication": "2023 (données 2022)",
+      "url": "https://assets.eurofound.europa.eu/f/279033/356ff40090/ef23007en.pdf",
+      "passage": "En 2022, la France compte 25 jours de congés annuels et 10 jours fériés. Malte en compte 28 et 12, le Danemark 30 jours conventionnels et 8 fériés, l'Allemagne 30 et 7, l'Autriche 25 et 11. La moyenne de l'UE à 27 est de 24,3 jours de congés conventionnels et 9,0 jours fériés. Eurofound note aussi : « The shortest annual working hours are found in France (1,608 hours) », contre 1 726 heures en moyenne dans l'UE (durée conventionnelle).",
+      "pertinence": "Agence européenne de référence sur la comparaison des temps de travail et des congés conventionnels.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Vérification des faits : quel pays européen compte le plus de jours fériés ?",
+      "organisme": "Euronews (EuroVerify)",
+      "date_publication": "21 juillet 2025",
+      "url": "https://fr.euronews.com/2025/07/21/verification-des-faits-quel-pays-europeen-compte-le-plus-de-jours-feries",
+      "passage": "Chypre compte 15 jours fériés ; la Bulgarie, la Croatie, l'Islande, Malte et l'Espagne en comptent 14. La France, avec 11 jours fériés, se situe dans la moyenne européenne ; l'Alsace-Moselle en a deux de plus. L'Allemagne, le Danemark et les Pays-Bas en comptent 9. Pour les congés annuels, « Andorre, Malte et l'Albanie sont les pays qui offrent le plus de congés annuels légaux sur le continent », la France se plaçant dans la moitié haute.",
+      "pertinence": "Fact-check européen fondé sur les données EURES.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Budget 2026 : les Français travaillent-ils vraiment 100 heures de moins que les Allemands, comme l'affirme Amélie de Montchalin ?",
+      "organisme": "Public Sénat (Henri Clavier)",
+      "date_publication": "17 juillet 2025",
+      "url": "https://www.publicsenat.fr/actualites/emploi/budget-2026-les-francais-travaillent-ils-vraiment-100-heures-de-moins-que-les-allemands-comme-laffirme-amelie-de-montchalin",
+      "passage": "Selon l'OCDE, un actif travaille en moyenne 1 489 heures par an en France contre 1 335 en Allemagne. Par habitant, c'est 666 heures en France contre 724 en Allemagne. Selon Rexecode (2023), les salariés à temps plein travaillent 1 673 heures en France contre 1 790 en Allemagne ; tous salariés confondus, 1 553 heures contre 1 527. L'écart vient surtout du taux d'emploi (68,4 % contre 77,4 %) et du temps partiel (16,6 % contre 28,8 %).",
+      "pertinence": "Vérification par un média parlementaire, à partir des données de l'OCDE, de Rexecode et de l'Insee.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Durée du travail (Insee Références, Emploi, chômage, revenus du travail)",
+      "organisme": "Insee",
+      "date_publication": "26 juin 2025 (données 2024)",
+      "url": "https://www.insee.fr/fr/statistiques/8376854",
+      "passage": "En 2024, « cette durée annuelle effective de travail des salariés à temps complet est de 1 661 heures en moyenne », contre 1 669 heures en 2023. La durée habituelle hebdomadaire est de 38,8 heures. Les salariés à temps complet travaillent en moyenne 212 jours par an. Les indépendants effectuent 1 916 heures annuelles.",
+      "pertinence": "Statistique publique de référence sur la durée effective du travail en France.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réduction du temps de travail (RTT) d'un salarié du secteur privé",
+      "organisme": "Service-public.fr (DILA)",
+      "date_publication": "vérifié le 25 septembre 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34151?lang=fr",
+      "passage": "Le dispositif RTT « prévoit d'attribuer des journées ou des demi-journées de repos » aux salariés qui travaillent plus de 35 heures par semaine. Par exemple, un salarié à 39 heures obtient 4 heures de RTT. « C'est l'accord de RTT applicable dans l'entreprise qui détermine les salariés concernés » ; un salarié à 35 heures n'a pas de jours de RTT.",
+      "pertinence": "Site officiel de l'administration ; montre que les RTT ne sont pas un droit universel mais une compensation d'heures travaillées au-delà de 35 heures.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelle édition d'Eurofound sur le temps de travail.",
+  "objections_legitimes": [
+    "La durée conventionnelle du travail à temps plein est la plus courte de l'UE en France.",
+    "Les jours de RTT ne sont pas comptés dans les comparaisons de congés."
+  ],
+  "publics": {
+    "convaincus": "D'après Eurofound, les Maltais, les Danois, les Allemands et les Autrichiens ont plus de jours de congés et fériés que nous. La France est juste un peu au-dessus de la moyenne. Et selon l'OCDE, un actif français travaille plus d'heures par an qu'un Allemand.",
+    "indecis": "La France est un peu au-dessus de la moyenne européenne, mais pas en tête. Il est vrai que la durée du travail à temps plein y est plus courte. Le vrai sujet, selon les chiffres, c'est le nombre de personnes en emploi, pas les congés."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "emancipation",
+      "egalite"
+    ],
+    "mecanismes": "Le cliché du Français en vacances sert à justifier l’allongement du temps de travail.",
+    "consequences": "Il fait oublier que l’écart avec nos voisins tient surtout au taux d’emploi.",
+    "democratie": "Les congés payés sont une conquête sociale débattue démocratiquement depuis 1936.",
+    "propositions": [
+      "Améliorer l’emploi des jeunes et des seniors plutôt que réduire les congés.",
+      "Défendre le temps libre comme un progrès social."
+    ],
+    "defavorables": [
+      {
+        "fait": "La durée du travail à temps plein est la plus courte de l’UE en France.",
+        "integration": "Le reconnaître et rappeler les heures travaillées par actif selon l’OCDE."
+      }
+    ]
+  },
+  "concepts": [
+    "temps_travail"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "temps de travail",
+    "duree du travail",
+    "heures par semaine",
+    "heures travaillees",
+    "jours feries"
+  ]
+}

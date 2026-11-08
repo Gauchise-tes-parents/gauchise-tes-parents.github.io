@@ -1,0 +1,205 @@
+{
+  "id": "migrants-jeunes-hommes",
+  "type": "idee_recue",
+  "affirmation": "Les migrants qui arrivent sont presque tous des jeunes hommes.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et asile",
+  "rubriques": [],
+  "mots_cles": [
+    "jeunes hommes",
+    "que des hommes",
+    "hommes seuls",
+    "migrants hommes",
+    "hommes jeunes",
+    "pas de femmes ni d enfants",
+    "demandeurs d asile hommes",
+    "jeunes hommes seuls"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Pas « presque tous ». Parmi les demandeurs d'asile, les hommes sont majoritaires : environ deux tiers dans l'Union européenne en 2024, 56,6 % des primo-demandeurs en France. Mais environ un quart des demandeurs d'asile européens sont mineurs, et les hommes de 18 à 34 ans ne font que 37 % des demandes. Surtout, l'asile n'est qu'une partie de l'immigration : selon l'Insee, les femmes représentent 51 % des immigrés arrivés en France en 2023.",
+  "contexte": "L'image du jeune homme seul arrivant en bateau nourrit la peur d'une immigration menaçante, notamment pour la sécurité des femmes.",
+  "explication": "Il faut distinguer les arrivées par la mer, les demandes d'asile et l'ensemble des immigrés qui s'installent, dont beaucoup viennent pour étudier, travailler ou rejoindre leur famille.",
+  "faits": [
+    {
+      "fait": "Dans l'Union européenne élargie, environ deux tiers des demandes d'asile de 2024 ont été déposées par des hommes ; les hommes de 18 à 34 ans en représentent 37 %.",
+      "periode": "2024",
+      "perimetre": "UE+",
+      "explication": "Les hommes sont majoritaires, mais les jeunes hommes ne sont pas « presque tous ».",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "37 %"
+    },
+    {
+      "fait": "Selon l'Agence de l'UE pour l'asile, environ un quart des demandeurs d'asile en 2024 avaient moins de 18 ans.",
+      "periode": "2024",
+      "perimetre": "UE+",
+      "explication": "Beaucoup d'enfants demandent l'asile.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 sur 4"
+    },
+    {
+      "fait": "En France, les hommes représentent 56,6 % des primo-demandeurs d'asile en 2024, contre 61,5 % en 2023.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "La part des femmes parmi les demandeurs d'asile augmente.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "56,6 %"
+    },
+    {
+      "fait": "Selon l'Insee, les femmes représentent 51 % des immigrés arrivés en France en 2023.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "L'immigration vers la France est autant féminine que masculine.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "51 %"
+    },
+    {
+      "fait": "Les femmes forment environ 52 % des 6,8 millions d'immigrés vivant en France en 2020, contre 44 % au milieu des années 1970.",
+      "periode": "1975-2020",
+      "perimetre": "France",
+      "explication": "La population immigrée s'est féminisée.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En janvier-février 2024, 79 % des personnes arrivées en Italie par la mer étaient des hommes, et 17 % des enfants.",
+      "periode": "janvier-février 2024",
+      "perimetre": "Italie",
+      "explication": "Les arrivées par bateau sont très masculines, ce qui explique les images.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "79 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : les femmes représentent 51 % des immigrés arrivés en France en 2023 selon l'Insee. Parmi les demandeurs d'asile, les hommes sont majoritaires, mais un quart sont des mineurs et les hommes de 18 à 34 ans ne font que 37 % des demandes en Europe.",
+    "moyen": "Les images de bateaux montrent surtout des hommes, et c'est vrai pour ces arrivées : 79 % d'hommes en Italie début 2024. Parmi les demandeurs d'asile en Europe, environ deux tiers sont des hommes. Mais environ un quart sont des enfants, et les hommes de 18 à 34 ans ne représentent que 37 % des demandes.\n\nSurtout, l'asile n'est qu'une petite partie de l'immigration. Selon l'Insee, 51 % des immigrés arrivés en France en 2023 sont des femmes, et elles forment 52 % des immigrés qui vivent en France. L'image du « jeune homme seul » ne décrit pas la réalité de l'immigration.",
+    "detaille": "Le chiffre dépend de la population regardée. Pour les arrivées par la mer, la part des hommes est très élevée : 79 % en Italie en janvier-février 2024 selon le HCR, avec 17 % d'enfants. Pour les demandes d'asile dans l'Union européenne élargie, environ deux tiers sont déposées par des hommes en 2024 ; les hommes de 18 à 34 ans en représentent 37 %, et environ un quart des demandeurs sont mineurs. En France, les hommes sont 56,6 % des primo-demandeurs en 2024, contre 61,5 % en 2023.\n\nL'immigration ne se résume pas à l'asile. Selon l'Insee, 347 000 immigrés sont arrivés en France en 2023, et les femmes en représentent 51 %. Parmi les 6,8 millions d'immigrés vivant en France en 2020, environ 52 % sont des femmes, contre 44 % au milieu des années 1970 : la population immigrée s'est féminisée avec le regroupement familial, les études et le travail.\n\nIl est donc vrai que les demandeurs d'asile sont majoritairement des hommes, souvent parce que les trajets sont dangereux et que les familles envoient d'abord un homme. Mais dire que « presque tous » les migrants sont de jeunes hommes est faux.",
+    "empathie": "Les images répétées de bateaux remplis d'hommes jeunes peuvent inquiéter, et il est vrai que ces arrivées sont très masculines. On peut partir de cette observation pour regarder l'ensemble des chiffres."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ce sont des hommes en âge de combattre qui fuient leur pays.",
+      "reponse": "Les routes migratoires sont dangereuses et coûteuses : les familles envoient souvent un homme d'abord, avec l'espoir de faire venir les autres légalement."
+    },
+    {
+      "objection": "Les chiffres de l'Insee comptent les étudiantes et les épouses.",
+      "reponse": "Oui, parce qu'elles sont des immigrées aussi : c'est justement la preuve que l'immigration ne se résume pas aux bateaux."
+    }
+  ],
+  "questions": [
+    "Sais-tu que la majorité des immigrés arrivés en France en 2023 sont des femmes ?",
+    "Pourquoi, selon toi, les hommes sont-ils plus nombreux sur les routes les plus dangereuses ?"
+  ],
+  "limites": [
+    "Les données du HCR pour l'Italie ne portent que sur janvier et février 2024.",
+    "Les données annuelles d'Eurostat par sexe et âge n'ont pas pu être lues.",
+    "La part des femmes parmi les immigrés arrivés en France a légèrement baissé, de 53 % en 2006 à 51 % en 2023."
+  ],
+  "sources": [
+    {
+      "titre": "Data Analysis of Asylum Applications by Sex and Age in 2024 (fact sheet n°35)",
+      "organisme": "Agence de l'Union européenne pour l'asile (EUAA)",
+      "date_publication": "2025",
+      "url": "https://euaa.europa.eu/sites/default/files/publications/2025-08/2025_factsheet35_applications_sex_age_EN.pdf",
+      "passage": "Plus d'un million de demandes ont été déposées dans l'UE+ en 2024, dont environ deux tiers par des hommes, une part un peu plus faible qu'en 2023. Les hommes de 18 à 34 ans représentent 37 % des demandes et ceux de 35 à 64 ans 15 %. Les femmes de 18 à 34 ans en représentent 12 %. « approximately one-quarter of applicants were under 18 » : environ un quart des demandeurs étaient mineurs. Onze nationalités comptent plus de demandeuses que de demandeurs (dont Venezuela, Côte d'Ivoire, Haïti, RDC), et la part des femmes afghanes atteint 32 %, un record.",
+      "pertinence": "Données officielles de l'agence européenne de l'asile sur la répartition par sexe et âge des demandes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'activité 2024",
+      "organisme": "Office français de protection des réfugiés et apatrides (Ofpra)",
+      "date_publication": "juin 2025",
+      "url": "https://www.ofpra.gouv.fr/sites/default/files/2025-06/OFPRA_RA_2024_BD_PaP.pdf",
+      "passage": "L'Ofpra a enregistré « 153 715 demandes de protection internationale » en 2024, réexamens compris. Les hommes représentent 56,6 % des primo-demandeurs, « 56,6 % contre 61,5 % en 2023 ». Les majeurs forment « 72 % du total des primo-demandeurs », ce qui laisse environ 28 % de mineurs. L'âge moyen des primo-demandeurs majeurs est de 33,8 ans : 32,7 ans pour les hommes et 35,9 ans pour les femmes.",
+      "pertinence": "Rapport officiel de l'organisme français chargé de l'asile.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Entre 2006 et 2023, le nombre d'immigrés entrés en France augmente et leur niveau de diplôme s'améliore (Insee Première n°2051)",
+      "organisme": "Insee",
+      "date_publication": "22 mai 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8570442",
+      "passage": "En 2023, « 347 000 personnes immigrées sont arrivées en France, contre 234 000 en 2006 ». Selon l'Insee, « les femmes représentent 51 % des personnes immigrées arrivées en France, contre 53 % en 2006 ». Cette part est descendue à 50 % certaines années (2018, 2021) et était de 52 % en 2022.",
+      "pertinence": "Statistique publique sur l'ensemble des entrées d'immigrés en France, asile compris.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Immigrés et descendants d'immigrés (Femmes et hommes, l'égalité en question, édition 2022)",
+      "organisme": "Insee",
+      "date_publication": "3 mars 2022",
+      "url": "https://www.insee.fr/fr/statistiques/6047719",
+      "passage": "En 2020, la France compte 6,8 millions d'immigrés, soit 10,2 % de la population. Les femmes en représentent 52 % selon le texte (51,5 % dans le tableau), contre 44 % au milieu des années 1970 et 50 % en 1999. Après 1974, le « regroupement familial prend une part croissante dans les flux », et les femmes migrent aussi pour la « poursuite d'études, recherche d'un emploi, etc. ». « Depuis, la population immigrée se féminise. »",
+      "pertinence": "Statistique publique sur la population immigrée vivant en France, par sexe.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Italy Weekly Snapshot, 8 avril 2024",
+      "organisme": "Haut-Commissariat des Nations unies pour les réfugiés (HCR/UNHCR), document hébergé par ecoi.net",
+      "date_publication": "8 avril 2024",
+      "url": "https://www.ecoi.net/en/file/local/2106961/2024_04_08_Italy_Weekly_Snapshot.pdf",
+      "passage": "Le graphique « Sea arrivals by gender and age, Jan - Feb 2024 » donne la répartition des arrivées par la mer en Italie : 79 % d'hommes, 4 % de femmes, 4 % d'enfants accompagnés et 13 % d'enfants non accompagnés. Ces chiffres ne portent que sur janvier et février 2024.",
+      "pertinence": "Données du HCR sur les arrivées par la Méditerranée centrale ; c'est ici que la proportion d'hommes est la plus forte.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de l'EUAA, de l'Ofpra et de l'Insee.",
+  "objections_legitimes": [
+    "Les demandeurs d'asile sont majoritairement des hommes, environ deux tiers en Europe.",
+    "Les arrivées par la mer en Italie sont très masculines."
+  ],
+  "publics": {
+    "convaincus": "Sur les bateaux, oui, il y a surtout des hommes. Mais parmi les demandeurs d'asile en Europe, un quart sont des enfants, et les hommes de 18 à 34 ans ne font que 37 % des demandes. Et selon l'Insee, 51 % des immigrés arrivés en France en 2023 sont des femmes.",
+    "indecis": "La question se pose, car les images montrent surtout des hommes jeunes. C'est vrai pour les arrivées par la mer et, dans une moindre mesure, pour l'asile. Mais l'immigration en France est aujourd'hui à moitié féminine, selon l'Insee."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "dignite",
+      "egalite_fh"
+    ],
+    "mecanismes": "L’image du jeune homme menaçant résume toute l’immigration à une figure de danger.",
+    "consequences": "Elle invisibilise les femmes et les enfants migrants et nourrit la peur.",
+    "democratie": "Une politique migratoire se fonde sur des faits complets, pas sur des images choisies.",
+    "propositions": [
+      "Ouvrir des voies légales et sûres pour les familles.",
+      "Protéger les femmes et les mineurs sur les routes migratoires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les demandeurs d’asile sont majoritairement des hommes.",
+        "integration": "Le reconnaître et expliquer pourquoi : dangers et coût des routes migratoires."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "femmes",
+    "asile"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "sexisme",
+    "patriarcat",
+    "droit d asile"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "ecolos-interdire-viande",
+  "type": "idee_recue",
+  "affirmation": "Les écolos veulent interdire la viande.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "interdire la viande",
+    "ecolos viande",
+    "menu vegetarien",
+    "menus vegetariens",
+    "cantine sans viande",
+    "manger moins de viande",
+    "steak",
+    "vegan",
+    "viande interdite",
+    "fin de la viande"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Aucune loi n'interdit la viande, et aucune source lue n'établit qu'un parti écologiste le propose. La loi impose un menu végétarien par semaine dans les cantines scolaires, les autres jours restant libres, et une option végétarienne dans la restauration de l'État. Santé publique France recommande de limiter la viande rouge à 500 g par semaine, pas de la supprimer. Le débat porte sur une réduction, pour la santé et le climat.",
+  "contexte": "L'accusation a pris de l'ampleur après la décision de la mairie écologiste de Lyon, en février 2021, de servir un menu unique sans viande dans ses écoles, au nom du protocole sanitaire.",
+  "explication": "Réduire la consommation de viande, surtout de bœuf, est recommandé par les autorités de santé et par le Haut Conseil pour le climat. Interdire est autre chose, et ce n'est dans aucun texte en vigueur.",
+  "faits": [
+    {
+      "fait": "Depuis la loi Climat et résilience, les cantines scolaires doivent proposer au moins un menu végétarien par semaine ; le choix végétarien quotidien n'est qu'une expérimentation ouverte aux collectivités volontaires.",
+      "periode": "depuis 2021",
+      "perimetre": "France",
+      "explication": "La loi ajoute une option, elle n'interdit rien.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Dans la restauration collective de l'État proposant plusieurs menus, l'un d'eux doit être végétarien depuis le 1er janvier 2023.",
+      "periode": "depuis 2023",
+      "perimetre": "France",
+      "explication": "La viande reste proposée.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Santé publique France, Santé publique France recommande de privilégier la volaille et de limiter les autres viandes à 500 g par semaine.",
+      "periode": "2024-2026",
+      "perimetre": "France",
+      "explication": "La recommandation de santé est de limiter, pas de supprimer.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "500 g par semaine"
+    },
+    {
+      "fait": "La consommation de viande en France a augmenté de 1,3 % en 2025, à 85,7 kg équivalent carcasse par habitant, avec un plus bas historique pour le bœuf.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les Français ne mangent pas moins de viande au total.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "85,7 kgec"
+    },
+    {
+      "fait": "L'agriculture représente 18 % des émissions françaises, les produits animaux la moitié de l'empreinte carbone alimentaire, et les scénarios cités par le Haut Conseil pour le climat prévoient une baisse d'au moins 30 % de la consommation de protéines animales.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les experts parlent de réduction, pas d'interdiction.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "18 %"
+    },
+    {
+      "fait": "En février 2021, la mairie écologiste de Lyon a servi des menus sans viande dans ses 206 écoles, en invoquant des raisons sanitaires liées au covid ; la mesure a été vivement critiquée par le gouvernement.",
+      "periode": "février 2021",
+      "perimetre": "Lyon",
+      "explication": "Cet épisode alimente l'accusation.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : aucune loi n'interdit la viande. Les cantines scolaires doivent proposer un menu végétarien par semaine, les quatre autres jours restent libres. Les autorités de santé recommandent de limiter la viande rouge à 500 g par semaine. Et la consommation de viande a même augmenté en 2025.",
+    "moyen": "Ce que prévoit la loi : un menu végétarien par semaine dans les cantines scolaires, et une option végétarienne dans la restauration de l'État quand il y a plusieurs menus. Le menu végétarien quotidien n'est qu'une expérimentation pour les communes volontaires. Rien n'interdit la viande, dont la consommation a d'ailleurs augmenté de 1,3 % en 2025.\n\nL'idée de réduire vient des scientifiques : Santé publique France conseille de limiter la viande rouge à 500 g par semaine, et le Haut Conseil pour le climat évoque une baisse d'au moins 30 % des protéines animales d'ici 2050. Manger mieux, avec de la viande de qualité payée correctement aux éleveurs, c'est un projet pour tous, pas une punition.",
+    "detaille": "La loi EGalim, pérennisée par la loi Climat et résilience, impose aux cantines scolaires de proposer au moins un menu végétarien par semaine. Le choix végétarien quotidien n'est qu'une expérimentation de deux ans, réservée aux collectivités volontaires. Dans la restauration collective de l'État, l'un des menus doit être végétarien quand plusieurs sont proposés. Aucune de ces règles n'interdit la viande.\n\nLes recommandations de santé vont dans le sens d'une réduction : Santé publique France conseille de privilégier la volaille et de limiter les autres viandes à 500 g par semaine. Pour le climat, l'agriculture représente 18 % des émissions françaises, et les produits animaux la moitié de l'empreinte carbone alimentaire ; les scénarios cités par le Haut Conseil pour le climat prévoient une baisse d'au moins 30 % de la consommation de protéines animales d'ici 2050.\n\nDans les faits, la consommation de viande a augmenté de 1,3 % en 2025, à 85,7 kg équivalent carcasse par habitant, avec un recul du bœuf et une hausse du porc et de la volaille. L'épisode le plus cité reste le menu unique sans viande imposé par la mairie écologiste de Lyon en février 2021, au nom du protocole sanitaire : une décision locale et temporaire, qui a nourri la polémique.",
+    "empathie": "La viande fait partie de nos traditions et de nos repas de famille, et on peut se sentir jugé quand on entend qu'il faudrait en manger moins. Cette crainte se comprend."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Certains enfants ne mangent de la viande qu'à la cantine.",
+      "reponse": "C'est une vraie question sociale ; c'est pourquoi la loi n'impose qu'un menu végétarien par semaine, pas plus."
+    },
+    {
+      "objection": "Ils commencent par les cantines, ils finiront par tout interdire.",
+      "reponse": "Aucun texte ni aucune source lue ne prévoit d'interdiction ; les scénarios parlent de réduction progressive."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce que prévoit exactement la loi pour les cantines ?",
+    "Manger moins de viande mais de meilleure qualité, payée correctement aux éleveurs, ce serait si mal ?"
+  ],
+  "limites": [
+    "Aucune source lue n'établit le programme actuel des partis écologistes sur la viande.",
+    "La durée exacte du menu sans viande à Lyon en 2021 n'a pas été vérifiée.",
+    "L'évaluation de l'expérimentation du menu végétarien quotidien n'a pas été lue."
+  ],
+  "sources": [
+    {
+      "titre": "Passer à un choix végétarien quotidien dans la restauration collective publique",
+      "organisme": "Ministère de la Transition écologique (suivi de la Convention citoyenne pour le climat)",
+      "date_publication": "mis à jour le 25 septembre 2023",
+      "url": "https://www.ecologie.gouv.fr/suivi-convention-citoyenne-climat/les-mesures-pour-le-climat/se-nourrir/article/passer-a-un-choix-vegetarien-quotidien-dans-la-restauration-collective-publique",
+      "passage": "L'expérimentation EGalim du menu végétarien hebdomadaire est pérennisée : écoles, collèges et lycées doivent « obligatoirement proposer au moins un menu végétarien par semaine ». L'article 252 de la loi Climat et résilience ouvre, à partir de la rentrée 2021 et pour 2 ans, une expérimentation d'un choix végétarien quotidien aux collectivités qui le souhaitent, sur la base du volontariat. Dans la restauration collective de l'État proposant plusieurs menus, « au moins l'un de ces menus soit végétarien » dès le 1er janvier 2023. L'article 253 rend obligatoires, à partir de la rentrée 2023, des modules sur la diversification des protéines dans la formation des cuisiniers.",
+      "pertinence": "Page officielle décrivant le contenu exact des obligations légales.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Climat et résilience / Restauration collective : une louche d'obligations supplémentaires",
+      "organisme": "Localtis, Banque des Territoires",
+      "date_publication": "19 avril 2021",
+      "url": "https://www.banquedesterritoires.fr/climat-et-resilience-restauration-collective-une-louche-dobligations-supplementaires",
+      "passage": "Les députés ont généralisé l'obligation pour les gestionnaires de cantines scolaires de « proposer, au moins une fois par semaine, un menu végétarien ». L'expérimentation du menu végétarien quotidien est réservée aux collectivités volontaires, qui doivent en informer le préfet. Pour la restauration collective de l'État, l'obligation de proposer chaque jour un choix végétarien, lorsqu'un choix multiple existe déjà, était fixée à ce stade du texte « au plus tard le 1er janvier 2024 ».",
+      "pertinence": "Article spécialisé sur les collectivités, rendant compte des votes à l'Assemblée (stade du projet de loi, avril 2021).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Consommation de viande en France en 2025 (Synthèses conjoncturelles n° 451)",
+      "organisme": "Agreste (SSP, ministère de l'Agriculture), avec FranceAgriMer",
+      "date_publication": "juillet 2026",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-07/SYN-VIA-Conso%20viande%20Fce2025_0.pdf",
+      "passage": "La consommation totale de viande atteint 5,91 millions de tonnes équivalent carcasse en 2025, « + 1,3 % en 2025, après + 2,3 % en 2024 ». Par habitant, elle s'établit à 85,7 kgec (+1,1 %). La viande bovine descend à 20,1 kgec par habitant, soit « un plus bas historique », tandis que le porc (31,5 kgec, +2,7 %) et la volaille (31,7 kgec, +3,3 %) progressent.",
+      "pertinence": "Statistique publique de référence sur la consommation de viande.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Limiter la viande pour préserver sa santé",
+      "organisme": "Santé publique France (Manger Bouger), publié sur Santé.fr",
+      "date_publication": "14 juin 2024 (modifié en 2026)",
+      "url": "https://www.sante.fr/limiter-la-viande-pour-preserver-sa-sante",
+      "passage": "La recommandation est de privilégier la volaille et de limiter les autres viandes (porc, bœuf, veau, mouton, agneau, abats) « à 500g par semaine ». La limite de 500 g s'applique aux enfants à partir de 11 ans. La page rappelle que la viande apporte protéines et fer : il s'agit de limiter, pas de supprimer.",
+      "pertinence": "Recommandation officielle de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Agriculture : trois mesures du Haut Conseil pour le climat pour une alimentation bas carbone",
+      "organisme": "Public Sénat",
+      "date_publication": "25 janvier 2024",
+      "url": "https://www.publicsenat.fr/actualites/environnement/agriculture-trois-mesures-du-haut-conseil-pour-le-climat-pour-une-alimentation-bas-carbone",
+      "passage": "L'agriculture représente 18 % des émissions de gaz à effet de serre de la France, deuxième secteur après les transports. Les produits d'origine animale représentent « la moitié de l'empreinte carbone alimentaire des Français ». Les scénarios visant une baisse de 50 % des émissions agricoles d'ici 2050 envisagent « une baisse de la consommation de protéines animales d'au moins 30 % ».",
+      "pertinence": "Compte rendu par la chaîne parlementaire d'un rapport du Haut Conseil pour le climat.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Menu sans viande dans les cantines à Lyon : bon sens ou pure démagogie ?",
+      "organisme": "Public Sénat",
+      "date_publication": "22 février 2021",
+      "url": "https://www.publicsenat.fr/actualites/politique/menu-sans-viande-dans-les-cantines-a-lyon-bon-sens-ou-pure-demagogie-187717",
+      "passage": "La mairie de Lyon a décidé que les 206 écoles de la ville ne proposeraient plus que des menus sans viande, en invoquant des « raisons sanitaires » liées au protocole covid. Le maire Grégory Doucet rappelle que son prédécesseur Gérard Collomb avait fait de même en juin 2020. Gérald Darmanin a dénoncé une « politique moraliste et élitiste des Verts ». L'adjointe écologiste Stéphanie Léger affirme : « C'est une question de santé publique, pas d'idéologie ». Un sénateur LR évoque le « caractère temporaire » de la mesure.",
+      "pertinence": "Article de la chaîne parlementaire sur l'épisode souvent cité à l'appui de l'affirmation.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Nouvelles données de consommation et évolution de la loi.",
+  "objections_legitimes": [
+    "La mairie écologiste de Lyon a bien servi des menus sans viande dans ses écoles en 2021.",
+    "Les experts du climat recommandent une baisse importante de la consommation de protéines animales."
+  ],
+  "publics": {
+    "convaincus": "Montre-moi la loi qui interdit la viande : elle n'existe pas. Les cantines doivent servir un menu végétarien par semaine, les quatre autres jours restent avec viande ou poisson. Et la consommation de viande a augmenté en 2025. Ce que proposent les médecins, c'est de limiter la viande rouge, pas de la supprimer.",
+    "indecis": "On peut craindre qu'on nous dise quoi manger. Mais les règles actuelles sont modestes : un menu végétarien par semaine à la cantine. Les autorités de santé conseillent de limiter la viande rouge, et un meilleur prix pour les éleveurs peut aller avec une viande de meilleure qualité."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "travailleurs",
+      "services_publics"
+    ],
+    "mecanismes": "L’accusation transforme des recommandations de santé et de climat en menace d’interdiction.",
+    "consequences": "Elle oppose écologie et classes populaires au lieu de parler de qualité de l’alimentation et du revenu des éleveurs.",
+    "democratie": "Les choix alimentaires collectifs, comme les cantines, se décident démocratiquement.",
+    "propositions": [
+      "Garantir des prix rémunérateurs aux éleveurs pour une viande de qualité.",
+      "Améliorer la qualité des repas dans les cantines publiques."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une mairie écologiste a imposé des menus sans viande en 2021.",
+        "integration": "Le reconnaître comme une décision locale et temporaire, critiquée."
+      }
+    ]
+  },
+  "concepts": [
+    "gauche",
+    "ecologie",
+    "cantine"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire",
+    "nucleaire",
+    "restauration scolaire",
+    "sans porc"
+  ]
+}

@@ -158,6 +158,10 @@
       }
     ]
   },
+  "publics": {
+    "convaincus": "La Sécu n'est pas un cadeau de l'État : elle est financée par les cotisations sur ton travail et celui de ton employeur. Elle a été créée en 1945 sous le gouvernement du général de Gaulle, à partir du programme de la Résistance. La protéger, c'est protéger ce que tu as payé.",
+    "indecis": "La Sécurité sociale est née en 1945 d'un compromis issu de la Résistance, financée par des cotisations sur le travail. Son financement pose de vraies questions aujourd'hui, mais elle reste une garantie inscrite dans le Préambule de 1946 : la protection de la santé pour tous."
+  },
   "concepts": [
     "prestations",
     "secu_sociale",

@@ -1,0 +1,188 @@
+{
+  "id": "immigres-apprendre-francais",
+  "type": "idee_recue",
+  "affirmation": "Les immigrés ne font aucun effort pour apprendre le français.",
+  "volet": "immigration",
+  "sous_theme": "Intégration",
+  "rubriques": [],
+  "mots_cles": [
+    "apprendre le francais",
+    "parlent pas francais",
+    "parler francais",
+    "langue francaise",
+    "cours de francais",
+    "refusent d apprendre",
+    "maitrise du francais",
+    "niveau de francais"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Selon l'enquête Trajectoires et Origines (Ined-Insee), 90 % des immigrés de 18 à 59 ans comprennent bien le français, alors que seuls 51 % le comprenaient bien à leur arrivée. Le suivi des primo-arrivants par le ministère de l'Intérieur montre des progrès nets en trois ans. La faiblesse est plutôt du côté de l'offre publique : seules 68 % des personnes formées dans le cadre du contrat d'intégration ont atteint le niveau débutant A1 en 2023.",
+  "contexte": "L'idée d'un refus d'apprendre la langue est souvent associée à un refus de s'intégrer.",
+  "explication": "Apprendre une langue à l'âge adulte prend du temps, surtout quand on travaille ou qu'on élève des enfants. Les données suivent les mêmes personnes dans le temps et mesurent leurs progrès.",
+  "faits": [
+    {
+      "fait": "Selon l'enquête TeO2 (Ined-Insee), 90 % des immigrés de 18 à 59 ans ont un bon niveau de compréhension du français et 88 % un bon niveau à l'oral.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "La grande majorité des immigrés maîtrise le français.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "90 %"
+    },
+    {
+      "fait": "À leur arrivée en France, seuls 51 % de ces immigrés comprenaient bien ou très bien le français.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Les progrès sont considérables.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "51 %"
+    },
+    {
+      "fait": "Chez les primo-arrivants suivis par l'enquête ELIPA 2, la part de ceux qui ne pouvaient pas faire l'exercice oral de français est passée de 20 % en 2019 à 10 % en 2022.",
+      "periode": "2019-2022",
+      "perimetre": "France",
+      "explication": "Les nouveaux arrivants progressent vite.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La part des primo-arrivants réussissant l'exercice oral à plus de 80 % est passée de 26 % à 39 % entre 2019 et 2022.",
+      "periode": "2019-2022",
+      "perimetre": "France",
+      "explication": "Le niveau monte année après année.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La formation linguistique du contrat d'intégration républicaine comprend 100 à 600 heures, et seuls 68 % des personnes formées ont atteint le niveau A1 en 2023, neuf points de moins qu'en 2021.",
+      "periode": "2021-2023",
+      "perimetre": "France",
+      "explication": "L'offre publique de formation a des résultats médiocres.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "68 %"
+    },
+    {
+      "fait": "Depuis le 1er janvier 2026, il faut le niveau A2 pour une première carte de séjour pluriannuelle et B1 pour une première carte de résident.",
+      "periode": "depuis 2026",
+      "perimetre": "France",
+      "explication": "Le niveau de langue est désormais une condition de séjour.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : 90 % des immigrés comprennent bien le français, contre 51 % à leur arrivée, selon l'Ined et l'Insee. Les nouveaux arrivants progressent nettement en trois ans. Ce qui manque, ce sont surtout des cours efficaces.",
+    "moyen": "Les enquêtes publiques montrent le contraire : 90 % des immigrés de 18 à 59 ans comprennent bien le français, alors que seuls 51 % le comprenaient à leur arrivée. Le suivi des nouveaux arrivants par le ministère de l'Intérieur montre que la part de ceux qui ne pouvaient pas faire un exercice oral a été divisée par deux entre 2019 et 2022.\n\nLe problème est plutôt du côté des cours : selon le Sénat, seules 68 % des personnes formées dans le cadre du contrat d'intégration atteignent le niveau débutant, avec des délais d'attente et des groupes trop hétérogènes. Si l'on veut que tout le monde parle français, il faut investir dans des cours de qualité.",
+    "detaille": "Selon l'enquête Trajectoires et Origines 2 (Ined-Insee, 2019-2020), 90 % des immigrés de 18 à 59 ans comprennent bien le français et 88 % le parlent bien, alors que 51 % seulement le comprenaient bien à leur arrivée. Les progrès les plus forts concernent les personnes venues d'Asie ou d'Europe, qui ne parlaient pas français au départ ; 67 % des immigrés ont grandi exclusivement avec une autre langue.\n\nL'enquête ELIPA 2 suit les mêmes primo-arrivants en 2019, 2020 et 2022. La part de ceux qui ne pouvaient pas faire l'exercice oral passe de 20 % à 10 %, et celle des réussites à plus de 80 % de 26 % à 39 %. Mais quatre personnes sur dix en très grande difficulté en 2019 l'étaient toujours en 2022 : le chemin est long pour certains.\n\nL'État prescrit 100 à 600 heures de cours dans le cadre du contrat d'intégration républicaine. Selon un rapport sénatorial de 2024, seuls 68 % des personnes orientées vers ces cours ont atteint le niveau A1 en 2023, avec des délais d'entrée et des groupes hétérogènes. Depuis 2026, le niveau A2 est exigé pour une carte pluriannuelle et B1 pour une carte de résident : exiger davantage suppose d'offrir des cours à la hauteur.",
+    "empathie": "Entendre parler une autre langue dans la rue ou au travail peut donner l'impression que certains ne veulent pas s'intégrer. Cette impression se comprend, mais les enquêtes montrent une réalité très différente."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Dans certains quartiers, on n'entend plus parler français.",
+      "reponse": "Parler sa langue en famille n'empêche pas de parler français : 88 % des immigrés le parlent bien selon l'Ined et l'Insee."
+    },
+    {
+      "objection": "Ils ont des cours gratuits et ne les suivent pas.",
+      "reponse": "Selon le Sénat, le problème tient surtout aux délais, aux groupes hétérogènes et aux contraintes de travail."
+    }
+  ],
+  "questions": [
+    "As-tu déjà essayé d'apprendre une langue étrangère à l'âge adulte, en travaillant à plein temps ?",
+    "Que faudrait-il pour que les cours de français soient plus efficaces ?"
+  ],
+  "limites": [
+    "Les données TeO2 datent de 2019-2020 et ne couvrent que les 18-59 ans de métropole.",
+    "Le nombre de contrats d'intégration et d'heures prescrites en 2024-2025 n'a pas été lu.",
+    "La maîtrise de l'écrit est plus faible que celle de l'oral."
+  ],
+  "sources": [
+    {
+      "titre": "Maîtrise des langues par les immigrés (Immigrés et descendants d'immigrés en France, Insee Références)",
+      "organisme": "Insee, données enquête TeO2 Ined-Insee",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793258",
+      "passage": "Champ : immigrés de 18 à 59 ans vivant en France métropolitaine, enquête 2019-2020. Au moment de l'enquête, 90 % ont un bon niveau de compréhension du français et 88 % un bon niveau à l'oral ; à l'arrivée, 51 % comprenaient le français bien ou très bien. Les immigrés d'Asie passent d'un score moyen de compréhension de 0,8 sur 3 à l'arrivée à 2,1 au moment de l'enquête, et ceux d'Europe de 1,2 à 2,6. L'écart entre origines se réduit au fil du séjour. 67 % ont grandi exclusivement avec une langue étrangère.",
+      "pertinence": "Grande enquête de la statistique publique sur la maîtrise du français par les immigrés.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les premières années en France des immigrés : l'essentiel de l'enquête ELIPA 2 (chapitre « La compréhension du français des primo-arrivants », Louis-Marie Ninnin)",
+      "organisme": "Ministère de l'Intérieur, DSED",
+      "date_publication": "2023-2024",
+      "url": "https://migrant-integration.ec.europa.eu/system/files/2024-01/2024_01_16_dossier_ELIPA2.pdf",
+      "passage": "L'enquête suit les mêmes primo-arrivants en 2019, 2020 et 2022. La part de ceux qui ne peuvent pas faire l'exercice oral passe de 20 % à 14 % puis 10 %, et la part de ceux qui réussissent à plus de 80 % passe de 26 % à 33 % puis 39 %. À l'écrit, la part des réussites à plus de 80 % passe de 40 % à 50 %. Parmi les personnes en très grande difficulté orale en 2019, 51 % ont reçu une formation et 58 % de celles-ci ont progressé. Quatre sur dix ne pouvaient toujours pas faire les exercices oraux en 2022.",
+      "pertinence": "Enquête longitudinale officielle qui mesure les progrès en français des nouveaux arrivants.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Apprentissage du français et des valeurs civiques : davantage de moyens et toujours pas davantage de réussite (rapport d'information, synthèse)",
+      "organisme": "Sénat, commission des finances (rapporteure spéciale Marie-Carole Ciuntu, LR)",
+      "date_publication": "24 septembre 2024",
+      "url": "https://www.senat.fr/rap/r23-772/r23-772-syn.pdf",
+      "passage": "Dans le cadre du CIR, la formation linguistique est prescrite en modules de 100 à 600 heures pour atteindre le niveau A1. Seuls 68 % des personnes orientées vers la formation ont atteint le A1 en 2023, neuf points de moins qu'en 2021. Le CIR n'impose pas d'obligation de résultat : « Seuls l'assiduité et le sérieux des signataires sont pris en compte ». Les crédits sont passés de 36,8 M€ à 116,9 M€ entre 2016 et 2023. Le rapport relève aussi des délais d'entrée en formation, des groupes hétérogènes et la réticence de certains employeurs.",
+      "pertinence": "Rapport parlementaire de contrôle budgétaire, critique, sur la formation linguistique des étrangers.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Carte de résident et carte de séjour pluriannuelle : comment justifier de votre connaissance du français ?",
+      "organisme": "Service-public.fr",
+      "date_publication": "vérifié le 10 février 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34501?lang=fr",
+      "passage": "Depuis le 1er janvier 2026, une première carte de séjour pluriannuelle exige le niveau A2 du cadre européen (CECRL), et une première carte de résident le niveau B1. La règle concerne les étrangers non européens de moins de 65 ans, avec des exceptions selon le titre. Le niveau se prouve par le TCF ou le TEF, ou par un diplôme français (DELF, DALF, DCL, CAP, brevet…). Un examen civique est aussi obligatoire.",
+      "pertinence": "Fiche officielle sur les exigences de langue issues de la loi du 26 janvier 2024.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de l'OFII et des enquêtes publiques.",
+  "objections_legitimes": [
+    "Une minorité de primo-arrivants reste en grande difficulté après plusieurs années.",
+    "Beaucoup d'immigrés parlent encore leur langue d'origine en famille."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres de l'Ined et de l'Insee disent l'inverse : 90 % des immigrés comprennent bien le français, alors que la moitié seulement le comprenait en arrivant. Ça, c'est de l'effort. Et quand les cours publics ne marchent pas bien, comme le constate le Sénat, ce n'est pas la faute des élèves.",
+    "indecis": "La langue est la clé de l'intégration, c'est une préoccupation juste. Les enquêtes montrent que la grande majorité des immigrés apprend le français et progresse vite. Pour aider ceux qui restent en difficulté, il faut surtout des cours plus accessibles et de meilleure qualité."
+  },
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "solidarite",
+      "services_publics"
+    ],
+    "mecanismes": "Le reproche rend les immigrés seuls responsables d’un apprentissage qui dépend aussi de l’offre de cours.",
+    "consequences": "Des cours insuffisants ou inadaptés freinent l’intégration et l’accès à l’emploi.",
+    "democratie": "La langue commune est un bien partagé : l’État doit donner à chacun les moyens de l’apprendre.",
+    "propositions": [
+      "Financer des cours de français accessibles, y compris le soir et avec garde d’enfants.",
+      "Reconnaître la formation linguistique comme du temps de travail."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une minorité reste en grande difficulté après plusieurs années.",
+        "integration": "Le reconnaître et en faire un argument pour des cours plus efficaces."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos"
+  ]
+}

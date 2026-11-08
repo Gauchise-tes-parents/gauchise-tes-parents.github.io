@@ -1,7 +1,7 @@
 // Réponses selon le public (v14) pour des fiches dont le générateur n'existe plus ou n'est plus relancé.
 // Textes écrits UNIQUEMENT à partir du contenu déjà sourcé de chaque fiche (résumé et faits).
 // Appliqué par scripts/corrections-v10.js (idempotent : remplace le champ « publics » par la version ci-dessous).
-// Ajouts du 7 novembre 2026 (passages de 12 h et de 20 h 15) et du 8 novembre 2026.
+// Ajouts du 7 novembre 2026 (passages de 12 h et de 20 h 15) et du 8 novembre 2026 (trois passages).
 export const PUBLICS = {
   'immigres-aides': {
     convaincus: "Pour toucher le RSA, un étranger non européen doit en principe avoir un titre de séjour qui l'autorise à travailler depuis au moins cinq ans. Et selon l'OCDE, dans presque tous les pays étudiés, on dépense moins par immigré que par natif. Si leur contribution nette est plus faible, c'est surtout parce qu'ils ont moins souvent un emploi, pas parce qu'ils touchent plus.",
@@ -164,5 +164,46 @@ export const PUBLICS = {
   'passoires-thermiques': {
     convaincus: "Les passoires énergétiques, ce sont 13,8 % des logements du parc locatif privé, et l'interdiction vise d'abord les logements G, 4,8 % des résidences principales. Il s'agit de rénover une minorité de logements, pas de vider le marché. Et leur nombre baisse chaque année.",
     indecis: "La crainte d'un marché locatif qui se vide est compréhensible. Mais les logements concernés en premier, classés G, représentent 4,8 % des résidences principales, et le nombre de passoires baisse déjà. L'enjeu est d'aider les propriétaires à rénover, pour que les locataires ne paient plus des factures énormes.",
+  },
+  // Ajouts du 8 novembre 2026 (passage de 12 h 13)
+  'antisemitisme-aujourdhui': {
+    convaincus: "1 570 faits antisémites en 2024, 1 320 en 2025 : ce n'est pas un prétexte, ce sont des agressions et des menaces réelles. Et selon les données de la CNCDH analysées par Nonna Mayer, les préjugés antisémites restent aussi forts chez les sympathisants du RN que chez ceux de LFI. Combattre l'antisémitisme partout, y compris dans son propre camp, c'est ce qu'on attend de tout le monde.",
+    indecis: "L'antisémitisme est un problème réel, mesuré chaque année : plus de 1 300 faits recensés en 2025 et un tiers des Français qui adhèrent au préjugé sur l'argent. Il existe à l'extrême droite et aussi à gauche. On peut critiquer un gouvernement israélien sans recourir aux stéréotypes antijuifs.",
+  },
+  'gauche-assistes-travailleurs': {
+    convaincus: "Regarde le programme : SMIC à 1 600 € net, retraite à 60 ans, hausse du point d'indice des fonctionnaires. Ce sont des mesures pour ceux qui travaillent. Les minima sociaux, eux, c'est 2 % des dépenses publiques, et un tiers des gens qui ont droit au RSA ne le demandent même pas.",
+    indecis: "Il est vrai que la gauche ne convainc plus la majorité des ouvriers : 36 % ont voté Le Pen au premier tour de 2022. Mais ses propositions phares concernent les salaires, les retraites et les conditions de travail. On peut en discuter le coût, pas dire qu'elles oublient les travailleurs.",
+  },
+  'gauche-au-pouvoir-bilan': {
+    convaincus: "L'abolition de la peine de mort en 1981, la retraite à 60 ans en 1982, les congés payés en 1936, la Sécurité sociale en 1945 : tout ça, c'est la gauche au pouvoir ou avec elle. Selon une étude publiée par l'Insee, la réduction du temps de travail a créé près de 350 000 emplois. On peut critiquer ses renoncements, mais pas dire qu'elle n'a rien fait.",
+    indecis: "Le bilan de la gauche au pouvoir comporte des avancées majeures, comme l'abolition de la peine de mort ou la retraite à 60 ans, et aussi des échecs et des renoncements. Le regarder en entier permet de juger sur pièces plutôt que sur une impression.",
+  },
+  'migrants-mediterranee': {
+    convaincus: "Laisser des gens se noyer n'empêche pas les départs : l'étude de l'Institut universitaire européen ne trouve aucun lien entre la présence des ONG et le nombre de départs depuis la Libye. Et secourir quelqu'un en détresse en mer est une obligation du droit de la mer, pour tous les navires. Plus de 82 000 morts ou disparus depuis 2014 : ce n'est pas un appel d'air, c'est un cimetière.",
+    indecis: "La peur d'encourager les traversées se comprend. Mais les études ne montrent pas d'effet des sauvetages sur les départs, et le droit international impose de porter secours. On peut débattre des politiques migratoires sans laisser mourir des gens en mer.",
+  },
+  'perte-automatique-droit-sejour': {
+    convaincus: "Depuis la loi de 2024, les protections contre l'expulsion tombent déjà en cas de condamnation grave. Ce que la CEDH exige, c'est qu'un juge regarde la gravité des faits, la durée du séjour et la famille : elle a d'ailleurs validé l'expulsion d'un condamné pour homicide. L'automatisme mettrait dans le même sac un vol à l'étalage et un crime.",
+    indecis: "Il est légitime de vouloir éloigner les étrangers dangereux, et la loi de 2024 l'a facilité pour les condamnations graves. Mais le droit impose un examen au cas par cas, pour tenir compte de la gravité des faits et de la vie familiale. C'est une garantie qui protège contre l'arbitraire.",
+  },
+  'programme-cnr-1944': {
+    convaincus: "Le modèle social n'a pas été inventé par des gauchistes : il vient du programme du Conseil national de la Résistance, signé par des résistants de la gauche à la droite républicaine, et mis en œuvre par le gouvernement du général de Gaulle. La Sécurité sociale est née des ordonnances d'octobre 1945. Défendre ce modèle, c'est défendre un héritage de la Résistance.",
+    indecis: "Le programme du CNR, surnommé « Les Jours heureux », réunissait des communistes, des syndicalistes et des partis de droite. La Sécurité sociale en est issue, sous de Gaulle. On peut débattre de son financement aujourd'hui, mais son origine est un compromis patriotique, pas une lubie partisane.",
+  },
+  'programme-irrealisable': {
+    convaincus: "Augmenter le SMIC, revenir à la retraite à 60 ans ou rétablir un impôt sur la fortune, ça se décide par une loi : ce n'est pas irréalisable, c'est un choix. Le vrai débat, c'est le coût et le financement, et là les chiffrages vont de 150 Md€ pour le NFP à 179 Md€ pour l'Institut Montaigne. Discutons des chiffres plutôt que de balayer le programme.",
+    indecis: "« Irréalisable » mélange deux questions : certaines mesures sont simples à décider mais coûteuses, d'autres demandent des conditions politiques lourdes. Les chiffrages varient beaucoup selon les sources. Le plus utile est de comparer le coût, le financement et les effets attendus, mesure par mesure.",
+  },
+  'referendum-democratie-directe': {
+    convaincus: "Tu as en partie raison : en 2005, 54,67 % des votants ont dit non au traité constitutionnel, et en 2008 le Parlement a fait passer le traité de Lisbonne sans nouveau référendum. Mais la réponse, ce n'est pas un chef qui déciderait seul : c'est de donner l'initiative aux citoyens, avec un référendum d'initiative citoyenne.",
+    indecis: "La frustration est fondée : la Constitution prévoit le référendum, mais son initiative appartient surtout aux gouvernants, et le « non » de 2005 a été contourné. Plusieurs partis proposent un référendum d'initiative citoyenne pour que les citoyens puissent eux-mêmes proposer ou abroger une loi.",
+  },
+  'renvoyer-tous-deja-condamnes': {
+    convaincus: "Une condamnation passée, parfois pour un fait mineur, ne suffit pas en droit à expulser : il faut une menace grave pour l'ordre public. Et même quand l'expulsion est décidée, seules autour de 10 % des OQTF sont exécutées. Promettre de renvoyer tout le monde, c'est promettre ce qu'on ne sait déjà pas faire.",
+    indecis: "Vouloir éloigner les étrangers dangereux est compréhensible. Mais la proposition vise aussi des personnes qui ont purgé leur peine, parfois il y a longtemps. Le droit exige une menace grave et un examen individuel, et la vraie difficulté reste l'exécution des décisions.",
+  },
+  'securite-sociale-1945': {
+    convaincus: "La Sécu n'est pas un cadeau de l'État : elle est financée par les cotisations sur ton travail et celui de ton employeur. Elle a été créée en 1945 sous le gouvernement du général de Gaulle, à partir du programme de la Résistance. La protéger, c'est protéger ce que tu as payé.",
+    indecis: "La Sécurité sociale est née en 1945 d'un compromis issu de la Résistance, financée par des cotisations sur le travail. Son financement pose de vraies questions aujourd'hui, mais elle reste une garantie inscrite dans le Préambule de 1946 : la protection de la santé pour tous.",
   },
 };

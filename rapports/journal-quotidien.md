@@ -521,3 +521,122 @@ Chiffres signalés comme douteux par la recherche et non repris :
 - texte de la loi Taubira sur Légifrance ;
 - effet propre des sanctions sur l'économie russe ;
 - part des décisions de non-conformité dans l'ensemble des décisions du Conseil constitutionnel.
+
+## 8 novembre 2026 — passage de 12 h 13 (UTC)
+
+**Questions testées : 25** (fichier passé dans `node scripts/verifier-couverture.mjs`). Une première liste de 47 phrases a été testée. Les 25 retenues étaient toutes « LACUNE » et n'avaient pas de quasi-doublon dans `data/library` (vérifié par grep sur les affirmations et les mots-clés).
+
+Phrases écartées avant la recherche :
+- déjà couvertes : antifas et ultragauche (`ultragauche-ultradroite-violence`), OQTF (`expulser-tous-etrangers-condamnes`), juifs qui quittent la France (`antisemitisme-aujourdhui`) ;
+- quasi-doublon : « juger les mineurs de 16 ans comme des adultes » (`excuse-de-minorite`).
+
+Phrases « couvertes » par une fiche voisine hors sujet, non traitées ce passage (pistes pour les suivants) :
+- « le nazisme, c'était de gauche » (→ `gauche-nation-debats`) ;
+- « LFI refuse de dire que le Hamas est terroriste » (→ `melenchon-crie`) ;
+- « le RN veut sortir de la CEDH » (→ `souverainete-populaire`) ;
+- « les profs font de la propagande de gauche » (→ `medias-concentration`) ;
+- « les fonctionnaires sont plus souvent absents » et « ne peuvent jamais être licenciés » (→ `services-publics-moyens`) ;
+- « la viande halal finance le terrorisme » et « les Frères musulmans infiltrent les associations » (→ `musulmans-amalgames`) ;
+- « les polygames touchent des allocations pour toutes leurs épouses » (→ `rsa-smic`) ;
+- « Mayotte est submergée par l'immigration » (→ `grand-remplacement`).
+
+Questions testées :
+1. Le communisme a fait 100 millions de morts, la gauche n'a pas de leçons à donner.
+2. Les guerres de Vendée, c'était un génocide commis par la Révolution.
+3. La sociologie, c'est la culture de l'excuse.
+4. On ne peut plus rien dire en France, la liberté d'expression est morte.
+5. Les élus sont tous pourris, tous corrompus.
+6. Le Japon refuse l'immigration et s'en sort très bien.
+7. La Pologne n'a pas d'immigration et elle est prospère.
+8. Milei a sauvé l'Argentine avec sa tronçonneuse.
+9. La France a perdu toute influence en Afrique.
+10. La gauche veut l'indépendance de la Nouvelle-Calédonie.
+11. Les migrants qui arrivent sont presque tous des jeunes hommes.
+12. Les étrangers en situation irrégulière votent aux élections.
+13. Les immigrés ne font aucun effort pour apprendre le français.
+14. Il y a des zones de non-droit où la police ne peut plus entrer.
+15. Les jeunes de banlieue brûlent des voitures à chaque Nouvel An.
+16. Les écolos veulent interdire la viande.
+17. Le bio, c'est une arnaque.
+18. Les loups massacrent les troupeaux et les écolos s'en fichent.
+19. L'hiver démographique va tuer la France.
+20. Il faut rétablir le service militaire obligatoire.
+21. Les Restos du cœur nourrissent surtout des migrants.
+22. La GPA va être légalisée, la gauche veut marchandiser les enfants.
+23. Les villes gérées par le RN sont les mieux gérées de France.
+24. Le RN veut couper les subventions aux associations.
+25. La France est le pays où l'on a le plus de jours de congés.
+
+**Fiches créées : 25.** Elles sont produites par le générateur `scripts/fiches/quotidien_20261108_1213.py`. Toutes ont un champ `publics` et une « lecture de gauche ». Chaque fiche repose sur au moins trois sources ouvertes et lues le 8 novembre 2026 :
+
+| Fiche | Verdict | Sources principales |
+|---|---|---|
+| `communisme-100-millions-morts` | trompeur | La Vie des idées (Collège de France), recensions de N. Werth (2009) et de Yang Jisheng (2013) ; Times Higher Education (1998) ; tribunal khmer rouge via Lepetitjournal (2018) ; Fondation Jean-Jaurès (2010) ; Larousse (1980) |
+| `vendee-genocide` | trompeur | Jean-Clément Martin, APHG (2018) ; propositions de loi de l'Assemblée nationale (2012, 2013, 2018) ; Slate (2013) |
+| `sociologie-culture-excuse` | trompeur | European Journal of Social Theory (2021) ; La Vie des idées (2016) ; Observatoire des inégalités (B. Lahire, 2016) ; HAL (2016) ; Politis (2016) |
+| `liberte-expression-plus-rien-dire` | contredit | Public Sénat (2020, 2023) ; CEDH, arrêt Handyside ; RSF (2026, deux pages) ; CB News (2026) ; Ifop pour la Fondation Jean-Jaurès (2025) ; Ifop pour Sud Radio et CNews (2017, cité comme fait défavorable) |
+| `elus-tous-corrompus` | contredit | Observatoire SMACL via Maire-info (2026) ; Public Sénat sur la HATVP (2026) ; Transparency International (2026) ; Localtis sur le CEVIPOF (2025) et l'AFA (2024) |
+| `japon-sans-immigration` | contredit | Jiji Press via Nippon.com (2026, trois articles) et Adnkronos (2025) ; AFP (2026) ; FMI, article IV (2026) |
+| `pologne-sans-immigration` | contredit | Notes from Poland d'après l'Office des étrangers, le GUS et Eurostat (2025-2026) ; Polskie Radio (2026) ; École SGH de Varsovie (2024) |
+| `milei-argentine-bilan` | trompeur | FMI, deuxième revue (2026) ; Chequeado d'après l'INDEC (2025, 2026) ; El Economista d'après l'INDEC (2026, deux articles) |
+| `france-influence-afrique` | trompeur | Assemblée nationale, rapport n° 2683 (2026) ; Sénat, rapport sur la sécurité africaine (2025) ; AFP (2025) |
+| `nouvelle-caledonie-gauche-independance` | trompeur | Sénat, rapport n° 409 (2026) ; Assemblée nationale, rapport n° 1980 (2025) et scrutin n° 6022 (2026) ; Matignon (2020) ; LCP (2026) ; Université Laval (accords de Matignon) |
+| `migrants-jeunes-hommes` | trompeur | Agence de l'UE pour l'asile (2025) ; Ofpra, rapport 2024 ; Insee Première n° 2051 (2025) ; Insee, Femmes et hommes (2022) ; HCR (2024) |
+| `etrangers-irreguliers-votent` | contredit | Assemblée nationale, rapport sur la PPLC n° 149 (2026) ; Service-public.fr (deux fiches) ; Insee, Répertoire électoral unique ; Landot & associés sur le TA de Guyane (2026) |
+| `immigres-apprendre-francais` | contredit | Insee d'après TeO2 Ined-Insee (2023) ; ministère de l'Intérieur, ELIPA 2 ; Sénat, rapport Ciuntu (2024) ; Service-public.fr (2026) |
+| `zones-de-non-droit` | trompeur | F. Jobard, CNRS, revue Criminologie (2005) ; Localtis sur la Cour des comptes (2023), les opérations « place nette » (2024) et le SSMSI (2024) ; Assemblée nationale, rapport n° 2692 (2024) |
+| `voitures-brulees-nouvel-an` | trompeur | Ministère de l'Intérieur via l'AFP (2026), Caradisiac (2024) et macommune.info (2023) ; Public Sénat (2017, 2024) ; ONDRP (2012) ; Sénat, rapport sur les émeutes (2024) |
+| `ecolos-interdire-viande` | trompeur | Ministère de la Transition écologique (2023) ; Localtis (2021) ; Agreste (2026) ; Santé publique France (2024) ; Public Sénat sur le HCC (2024) et sur Lyon (2021) |
+| `bio-arnaque` | contredit | Cour des comptes, synthèse (2022) ; Inra et Inserm, NutriNet-Santé (2018) ; EFSA (2016, 2025) ; Agence BIO (2025) |
+| `loups-troupeaux` | trompeur | OFB et préfet coordonnateur (2025) ; AN, réponse ministérielle à la question n° 10988 (2026) ; Réussir et Pleinchamp (presse agricole, 2024-2025) ; Localtis (2022) |
+| `hiver-demographique` | trompeur | Insee Première n° 2087 (2026) et n° 1881 (2021) ; Public Sénat sur l'Ined (2026) ; Eurostat via Euronews et The Brussels Times (2026) |
+| `service-militaire-obligatoire` | opinion | Cour des comptes sur le SNU (2024) ; Localtis (2024) ; ministère des Armées (2025) ; Public Sénat (2025) ; LCP (2026) ; Acteurs publics (2007) ; Ipsos (2025) |
+| `restos-coeur-migrants` | trompeur | Restos du cœur, étude 2023-2024 et synthèse 2025 ; Insee Première n° 1907 (2022) ; Localtis avec l'AFP (2023) |
+| `gpa-gauche-legalisation` | contredit | Code civil via l'académie de Versailles ; Sénat, question écrite n° 26667 (2022) ; Le Club des juristes (2019) ; Le Quotidien du médecin sur le CCNE (2018) ; gouvernement (2014) ; Aleteia avec l'AFP (2026) |
+| `villes-rn-gestion` | trompeur | Public Sénat avec l'AFP (2020) ; CRC PACA sur Fréjus via Presse Agence (2025) ; Acta Politica (2023) ; La Grande Conversation (E. Négrier, CNRS, et A. Gibellini, 2026) |
+| `rn-subventions-associations` | plutôt exact | La Libre Belgique d'après France Info (2014) ; Carenews (2024) ; Acta Politica (2023) ; Public Sénat (2020, 2026) |
+| `france-record-conges` | contredit | Eurofound (2023) ; Euronews (2025) ; Public Sénat d'après l'OCDE (2025) ; Insee Références (2025) ; Service-public.fr (2026) |
+
+**Méthode.** La recherche documentaire a été répartie entre cinq agents de recherche. Chacun cherchait avec WebSearch puis lisait chaque page avec WebFetch. Seules les pages effectivement lues ont été retenues. Les chiffres viennent des passages lus. Deux pages de Wikipédia lues par un agent ont été écartées des sources : les faits qui en dépendaient (répartition par pays des « 100 millions », estimations de Lebrun et Hussenet sur la Vendée) n'ont pas été repris. Les sources partisanes ou militantes ne servent qu'à décrire une position ou un fait défavorable, avec attribution :
+- propositions de loi de députés de droite et d'extrême droite sur la Vendée ;
+- sondage Ifop pour Sud Radio et CNews ;
+- Fondation Jean-Jaurès, proche du PS.
+
+Pages qui n'ont pas pu être ouvertes, donc non citées :
+- Vie publique (JavaScript requis), dont le rapport complet de la Cour des comptes sur le bio et la page HATVP ;
+- plusieurs pages du ministère de l'Intérieur et de la préfecture Auvergne-Rhône-Alpes ;
+- notes pays de l'OCDE sur la Pologne et page Eurostat sur les titres de séjour (navigation seule) ;
+- articles du Monde et de Libération sur la GPA, fact-check de TF1 Info sur les Restos du cœur ;
+- HAL Lorraine, deux pages de Cambridge, Maire-info sur la Nouvelle-Calédonie.
+
+L'outil de lecture résume les pages : les citations entre guillemets sont courtes et pourraient être revérifiées mot à mot.
+
+**Reconnaissance des questions.**
+- Après génération, 22 des 25 questions menaient déjà à leur fiche par les mots-clés.
+- `public/js/cartographie.js` reçoit deux concepts (`vendee`, `bio`) et deux arguments placés en tête (Vendée, agriculture biologique).
+- Les arguments existants `liberte_expression` et `corruption`, qui annonçaient jusque-là une lacune, renvoient désormais à `liberte-expression-plus-rien-dire` et `elus-tous-corrompus`. Le corpus de compréhension (`tests/comprehension/phrases.js`) attend donc ces fiches pour cinq phrases qui étaient des lacunes documentées : « On ne peut plus rien dire en France », « Avec la bien-pensance… », « Les politiques sont tous pourris », « Tous corrompus, droite comme gauche », « On ne peut même plus faire une blague… ».
+- Le concept `bio` corrige un faux « suspect » du test de cohérence : « Pourquoi le bio reste-t-il si cher ? » mène à `bio-arnaque`, qui traite du prix et du soutien public.
+- Un mot-clé trop large (« bilan des maires RN ») envoyait « Les émissions importées comptent-elles dans le bilan de la France ? » vers `villes-rn-gestion` ; il a été retiré.
+- Comparaison avant/après sur 308 phrases de contrôle (affirmations de la bibliothèque, questions des passages précédents, candidates de ce passage) : seules les 25 questions visées changent de fiche.
+- Variantes vérifiées : « Tous des corrompus ces politiciens », « La liberté d'expression n'existe plus », « On est dans la pensée unique », « La Vendée a été massacrée par les révolutionnaires ». « La fermeture de C8, c'est de la censure » reste sur `c8-fermeture-censure`.
+
+**Autres ajustements.**
+- La politique documentaire signalait `communisme-100-millions-morts` et `milei-argentine-bilan` comme dépourvues de source d'autorité. L'organisme de La Vie des idées mentionne désormais le Collège de France, son éditeur. `public/js/ligne-editoriale.js` reconnaît le « Fonds monétaire international » comme institution, au même titre que l'OCDE.
+- Un fait historique sourcé (Lionel Jospin, 1999, d'après l'European Journal of Social Theory) a été ajouté à `sociologie-culture-excuse` pour que le compositeur propose au moins deux approches.
+
+**Fiches existantes adaptées aux deux publics (10).** Le champ `publics` a été ajouté, à partir du seul contenu sourcé de chaque fiche, via `scripts/publics-complements.js`, appliqué par `scripts/corrections-v10.js`. Fiches concernées : `antisemitisme-aujourdhui`, `gauche-assistes-travailleurs`, `gauche-au-pouvoir-bilan`, `migrants-mediterranee`, `perte-automatique-droit-sejour`, `programme-cnr-1944`, `programme-irrealisable`, `referendum-democratie-directe`, `renvoyer-tous-deja-condamnes`, `securite-sociale-1945`.
+
+**Questions écartées pour sources invérifiables : aucune.** Les dossiers les plus minces :
+- `voitures-brulees-nouvel-an` : chiffres du réveillon lus à travers des sites qui reprennent le ministre ou l'AFP (La Gazette France, Caradisiac, macommune.info) ; aucun profil des interpellés publié ;
+- `villes-rn-gestion` : rapports des chambres régionales des comptes lus à travers des comptes rendus ;
+- `pologne-sans-immigration` : plusieurs chiffres viennent d'un même média, Notes from Poland, qui cite les sources officielles ;
+- `gpa-gauche-legalisation` : la position de 2026 n'a été lue que dans Aleteia (dépêche AFP).
+
+**Points non vérifiés, laissés hors des fiches et signalés dans leurs limites :**
+- positions programmatiques des partis de gauche sur la GPA, la Nouvelle-Calédonie et la viande ;
+- positions des partis sur le service militaire obligatoire, et coût d'un service obligatoire (seul le SNU est chiffré) ;
+- issue du procès du maire de Fréjus prévu en septembre 2026 ;
+- profil des auteurs des incendies du réveillon ;
+- nouvelles projections démographiques de l'Insee intégrant la fécondité de 2025 ;
+- écart de prix entre bio et conventionnel ;
+- coût social détaillé des coupes de Javier Milei.

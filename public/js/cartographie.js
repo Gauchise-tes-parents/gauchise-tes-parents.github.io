@@ -180,6 +180,9 @@ export const CA_CONCEPTS = {
   conseil_constit: { label: 'Conseil constitutionnel et « gouvernement des juges »', central: true, motifs: ['conseil constitutionnel', 'gouvernement des juges', 'cavaliers? legislatifs?', 'juges constitutionnels'] },
   rn_rempart: { label: 'Le RN, rempart contre l’antisémitisme ?', central: true, motifs: ['rempart contre l antisemit\\w*', '(rn|rassemblement national|le pen|bardella) .*(rempart|bouclier|protege\\w*|defend\\w*) .*(juifs?|antisemit\\w*)'] },
   pollution_air: { label: 'Pollution de l’air', central: true, motifs: ['pollution (de l )?air', 'particules fines', 'qualite de l air', 'air pollue'] },
+  // fiches quotidiennes (8 novembre 2026, passage de 12 h 13)
+  vendee: { label: 'Guerres de Vendée', central: true, motifs: ['\\bvendee\\b', '\\bvendeens?\\b', 'colonnes infernales', 'genocide vendeen'] },
+  bio: { label: 'Agriculture biologique', central: true, motifs: ['\\bbio\\b', 'agriculture biologique', 'produits biologiques', 'label ab'] },
 };
 
 // ─── Domaines (v12) ────────────────────────────────────────────────────────
@@ -215,6 +218,7 @@ export const CA_DOMAINES = {
   electricite_marche: ['ecologie', 'economie'], violences_policieres: ['securite'], musulmans_nombre: ['immigration', 'droits'], peine_mort: ['securite'], subventions: ['economie'], octobre_1961: ['international'], retraites_niveau: ['social'],
   aide_afrique: ['international'], rsa_heures: ['social'], jeunes_travail: ['social'], pa_baisse: ['economie'], hopital_admin: ['services'], aides_entreprises: ['economie'], isf: ['economie'],
   rn_riches: ['politique', 'economie'], blocage_prix: ['economie'], ecole_privee: ['services'], meres_voilees: ['droits'], conseil_constit: ['politique'], rn_rempart: ['politique', 'droits'], pollution_air: ['ecologie'],
+  vendee: ['international'], bio: ['ecologie', 'economie'],
   rocard: ['immigration'], centenaires: ['social'], profs_temps: ['services'], vote_etrangers: ['politique', 'immigration'], racisme_blanc: ['immigration', 'droits'], excuse_minorite: ['securite'],
   smic_europe: ['economie', 'social'], neonics: ['ecologie'], bassines: ['ecologie'], lfi_poutine: ['politique', 'international'], abaya: ['droits', 'services'], uniforme: ['services'], sixieme_rep: ['politique'], suede: ['international', 'securite'],
 };
@@ -224,6 +228,11 @@ export const CA_DOMAINES = {
 // signaux : formulations typiques (bonus) ; fiches : fiches qui répondent réellement, par ordre de pertinence ;
 // choisir : départage entre fiches selon des mots (facultatif) ; exclues : fiches voisines à ne PAS donner comme réponse.
 export const CA_ARGUMENTS = [
+  // fiches quotidiennes (8 novembre 2026, passage de 12 h 13) — placées en tête : concepts très spécifiques
+  { id: 'bio', label: 'Agriculture biologique', famille: 'Écologie et agriculture', tous: ['bio'], fiches: ['bio-arnaque'],
+    implicite: 'Le bio serait une arnaque commerciale.', verifier: 'Les contrôles du label, les études de santé et l’avis de la Cour des comptes.' },
+  { id: 'vendee', label: 'Guerres de Vendée', famille: 'International', tous: ['vendee'], fiches: ['vendee-genocide'],
+    implicite: 'La Révolution aurait commis un génocide en Vendée.', verifier: 'Le bilan estimé par les historiens et leur débat sur le mot « génocide ».' },
   // fiches quotidiennes (8 novembre 2026, passage de 06 h 13) — placées en tête : concepts très spécifiques
   { id: 'aide_afrique', label: 'Aide au développement et Afrique', famille: 'International', tous: ['aide_afrique'], fiches: ['aide-developpement-afrique'],
     implicite: 'L’aide au développement serait un chèque inutile envoyé à l’Afrique.', verifier: 'La part de l’aide qui va à l’Afrique, la part de prêts et l’évolution du montant selon l’OCDE et le Sénat.' },
@@ -528,7 +537,7 @@ export const CA_ARGUMENTS = [
     implicite: 'La gauche serait complice de l’islamisme.', verifier: 'L’origine du mot et les faits précis reprochés.' },
   { id: 'islam_expression', label: 'Islam et liberté d’expression', famille: 'Islam, islamisme et laïcité', tous: ['islam', 'liberte_expression'], fiches: [], exclues: ['islamo-gauchisme-origine-usages', 'gauche-laicite-debats'],
     implicite: 'Critiquer une religion serait interdit en France.', verifier: 'Ce que la loi interdit (provocation à la haine, diffamation) et ce qu’elle autorise (critique d’une religion).' },
-  { id: 'liberte_expression', label: 'Liberté d’expression', famille: 'Médias et désinformation', tous: ['liberte_expression'], fiches: [],
+  { id: 'liberte_expression', label: 'Liberté d’expression', famille: 'Médias et désinformation', tous: ['liberte_expression'], fiches: ['liberte-expression-plus-rien-dire'],
     implicite: 'Certaines opinions seraient interdites.', verifier: 'Les limites légales de la liberté d’expression.' },
   { id: 'islam', label: 'Islam et musulmans', famille: 'Islam, islamisme et laïcité', tous: ['islam'], fiches: ['musulmans-amalgames', 'laicite-loi-1905', 'gauche-laicite-debats'], choisir: { 'laicite-loi-1905': 'laic|voile|1905|ecole' },
     implicite: 'Les musulmans formeraient un bloc homogène.', verifier: 'La diversité des pratiques et la distinction entre islam et islamisme.' },
@@ -540,7 +549,7 @@ export const CA_ARGUMENTS = [
     implicite: 'Les médias formeraient un bloc qui cacherait volontairement la vérité.', verifier: 'Qui possède les médias, et comment vérifier une information.' },
   { id: 'nationalite', label: 'Accès à la nationalité', famille: 'Nationalité et accès aux droits', tous: ['nationalite'], aucun: ['medias', 'delinquance'], requiertSignal: true, signaux: ['trop facil\\w*', 'facilement', 'n importe qui', 'donne\\w*', 'distribu\\w*', 'brad\\w*', 'suffit', 'droit du sol', 'automatique\\w*', 'trop de'], fiches: ['nationalite-trop-facile'],
     implicite: 'La nationalité serait accordée sans conditions.', verifier: 'Les voies d’acquisition (décret, déclaration, naissance et résidence) et leurs conditions.' },
-  { id: 'corruption', label: 'Défiance envers les élus', famille: 'Discours politiques et contradictions', tous: ['corruption'], fiches: [],
+  { id: 'corruption', label: 'Défiance envers les élus', famille: 'Discours politiques et contradictions', tous: ['corruption'], fiches: ['elus-tous-corrompus'],
     implicite: 'Tous les élus seraient malhonnêtes.', verifier: 'Les condamnations réelles et les règles de transparence.' },
   { id: 'gauche_dangereuse', label: 'La gauche jugée dangereuse', famille: 'Discours politiques et contradictions', tous: ['gauche', 'dangerosite'], aucun: ['melenchon_lfi', 'glyphosate', 'vaccin'], fiches: ['programme-irrealisable', 'melenchon-dangereux-democratie'], partielle: true,
     implicite: 'Un camp politique entier serait une menace.', verifier: 'Les propositions concrètes et leur chiffrage.' },

@@ -119,8 +119,8 @@ export const PHRASES = [
   { t: 'La gauche a abandonné la laïcité.', cat: 'simple', p: 'laicite', f: ['gauche-laicite-debats', 'laicite-loi-1905'] },
   { t: 'La laïcité interdit les signes religieux partout.', cat: 'simple', p: 'laicite', f: 'laicite-loi-1905' },
   { t: 'On n’a plus le droit de critiquer l’islam sans être traité de raciste.', cat: 'emotionnel', p: 'islam_expression', f: null, x: ['islamo-gauchisme-origine-usages'] },
-  { t: 'On ne peut plus rien dire en France.', cat: 'simple', p: 'liberte_expression', f: null },
-  { t: 'Avec la bien-pensance, on ne peut plus rien dire.', cat: 'familier', p: 'liberte_expression', f: null },
+  { t: 'On ne peut plus rien dire en France.', cat: 'simple', p: 'liberte_expression', f: 'liberte-expression-plus-rien-dire' }, // fiche sourcée créée le 8 novembre 2026 (lacune comblée)
+  { t: 'Avec la bien-pensance, on ne peut plus rien dire.', cat: 'familier', p: 'liberte_expression', f: 'liberte-expression-plus-rien-dire' }, // fiche sourcée créée le 8 novembre 2026 (lacune comblée)
   { t: 'Les islamo-gauchistes sont partout à l’université.', cat: 'simple', p: 'islamo_gauchisme', f: 'islamo-gauchisme-origine-usages' },
   { t: 'L’islamo-gauchisme, c’est comme le judéo-bolchevisme ?', cat: 'question', p: 'islamo_gauchisme', f: 'islamo-gauchisme-judeo-bolchevisme-comparaison' },
 
@@ -156,8 +156,8 @@ export const PHRASES = [
   // ── 11. Médias, corruption, histoire ──
   { t: 'Les médias sont tous de gauche.', cat: 'generalisation', p: 'medias', f: 'medias-concentration', proc: ['generalisation'] },
   { t: 'Les journalistes nous mentent.', cat: 'simple', p: 'medias', f: 'medias-concentration' },
-  { t: 'Les politiques sont tous pourris.', cat: 'generalisation', p: 'corruption', f: null, proc: ['generalisation'] },
-  { t: 'Tous corrompus, droite comme gauche.', cat: 'familier', p: 'corruption', f: null },
+  { t: 'Les politiques sont tous pourris.', cat: 'generalisation', p: 'corruption', f: 'elus-tous-corrompus', proc: ['generalisation'] }, // fiche sourcée créée le 8 novembre 2026 (lacune comblée)
+  { t: 'Tous corrompus, droite comme gauche.', cat: 'familier', p: 'corruption', f: 'elus-tous-corrompus' }, // fiche sourcée créée le 8 novembre 2026 (lacune comblée)
   { t: 'Le Front populaire n’a rien apporté.', cat: 'histoire', p: 'texte', f: 'front-populaire-1936' },
   { t: 'La Sécurité sociale, c’est de Gaulle qui l’a créée.', cat: 'histoire', p: ['texte', 'securite_sociale'], f: 'securite-sociale-1945' },
   { t: 'La Commune de Paris, c’était des voyous.', cat: 'histoire', p: 'texte', f: 'commune-paris-1871' },
@@ -202,7 +202,7 @@ export const PHRASES = [
   { lot: 'validation', t: 'Les loyers sont hors de prix et on fait passer les migrants en priorité pour les HLM.', cat: 'multi', p: ['logement', 'imm_logement'], f: null, x: LOGEMENT_X },
   { lot: 'validation', t: 'Les Français d’abord !', cat: 'provocation', p: 'priorite_nationale', f: 'immigres-aides' },
   { lot: 'validation', t: 'Les musulmans veulent imposer la charia.', cat: 'generalisation', p: 'islam', f: 'musulmans-amalgames', proc: ['generalisation'] },
-  { lot: 'validation', t: 'On ne peut même plus faire une blague sans se faire censurer.', cat: 'emotionnel', p: 'liberte_expression', f: null },
+  { lot: 'validation', t: 'On ne peut même plus faire une blague sans se faire censurer.', cat: 'emotionnel', p: 'liberte_expression', f: 'liberte-expression-plus-rien-dire' }, // fiche sourcée créée le 8 novembre 2026 (lacune comblée)
   { lot: 'validation', t: 'Mélenchon soutient les islamistes.', cat: 'insinuation', p: ['melenchon', 'islamo_gauchisme'], f: ['lfi-communautarisme', 'islamo-gauchisme-origine-usages', 'melenchon-crie', 'melenchon-dangereux-democratie'] },
   { lot: 'validation', t: 'Les insoumis, ce sont des extrémistes.', cat: 'simple', p: 'melenchon', f: ['melenchon-dangereux-democratie', 'melenchon-autoritaire', 'melenchon-agressif'], proc: ['personnalisation'] },
   { lot: 'validation', t: 'Les gauchos veulent ruiner le pays avec leurs taxes.', cat: 'familier', p: ['fiscalite', 'gauche_dangereuse', 'impots_riches', 'gauche_impots'], f: ['melenchon-ruiner-france', 'impots-assistanat', 'programme-irrealisable'] },

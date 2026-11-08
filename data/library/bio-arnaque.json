@@ -1,0 +1,220 @@
+{
+  "id": "bio-arnaque",
+  "type": "idee_recue",
+  "affirmation": "Le bio, c'est une arnaque.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "bio",
+    "le bio",
+    "agriculture biologique",
+    "produits bio",
+    "manger bio",
+    "bio arnaque",
+    "label bio",
+    "agriculture bio"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non. Le bio est un mode de production encadré et contrôlé, dont la Cour des comptes reconnaît les bénéfices environnementaux (eau, sols, biodiversité) et sanitaires. Une grande étude française, NutriNet-Santé, observe 25 % de cancers en moins chez les consommateurs réguliers de bio, sans pouvoir prouver la causalité. Le bio a ses limites, des rendements plus faibles notamment, et le conventionnel reste lui aussi en général sous les limites de pesticides.",
+  "contexte": "Le bio est critiqué comme un produit cher pour classes aisées, sans bénéfice prouvé.",
+  "explication": "Le label bio repose sur un cahier des charges (pas de pesticides de synthèse, pas d'engrais chimiques) et sur des contrôles par des organismes certificateurs.",
+  "faits": [
+    {
+      "fait": "Dans sa synthèse de juin 2022, la Cour des comptes juge que la littérature scientifique « reconnaît ses bénéfices sanitaires et environnementaux » à l'agriculture biologique.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Une institution indépendante reconnaît l'intérêt du bio.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Dans la cohorte NutriNet-Santé (68 946 adultes), les consommateurs réguliers de bio présentent un risque de cancer inférieur de 25 %.",
+      "periode": "2009-2016",
+      "perimetre": "France",
+      "explication": "Une association importante est observée.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "-25 %"
+    },
+    {
+      "fait": "Selon Inserm, les auteurs de NutriNet-Santé précisent que leur étude ne permet pas à elle seule d'établir un lien de cause à effet.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Le bénéfice sanitaire reste à confirmer.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2014, 98,8 % des échantillons bio contrôlés dans l'UE étaient sans résidus de pesticides ou sous les limites autorisées.",
+      "periode": "2014",
+      "perimetre": "UE",
+      "explication": "Le bio est contrôlé.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "98,8 %"
+    },
+    {
+      "fait": "En 2023, 99 % des échantillons alimentaires aléatoires contrôlés dans l'UE étaient conformes au droit européen sur les résidus, bio et conventionnel confondus.",
+      "periode": "2023",
+      "perimetre": "UE",
+      "explication": "Le conventionnel respecte lui aussi largement les limites légales.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Cour des comptes, les rendements bio sont en moyenne inférieurs de 18 %, et le bio couvrait 10,3 % de la surface agricole en 2021, loin de l'objectif de 15 %.",
+      "periode": "2021-2022",
+      "perimetre": "France",
+      "explication": "Le bio a des limites et reste peu soutenu.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "-18 %"
+    },
+    {
+      "fait": "Selon Agence BIO, en 2024, les surfaces bio ont reculé de 56 197 hectares, mais les dépenses des ménages en bio ont atteint 12,2 milliards d'euros, en hausse de 0,8 %.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le secteur traverse une crise, mais la demande se maintient.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le bio est encadré et contrôlé, et la Cour des comptes reconnaît ses bénéfices pour l'eau, les sols et la biodiversité. Pour la santé, une grande étude française observe 25 % de cancers en moins chez les consommateurs réguliers, sans preuve définitive. Le vrai problème, c'est son prix et son faible soutien public.",
+    "moyen": "Le bio n'est pas un simple logo : il interdit les pesticides de synthèse et les engrais chimiques, et il est contrôlé. En 2014, 98,8 % des échantillons bio contrôlés en Europe étaient sans résidus ou sous les limites. La Cour des comptes juge que la science reconnaît ses bénéfices pour l'eau, les sols et la biodiversité.\n\nPour la santé, l'étude NutriNet-Santé observe 25 % de cancers en moins chez les consommateurs réguliers, mais ses auteurs reconnaissent que la causalité n'est pas prouvée. Le bio a aussi des rendements plus faibles. Le vrai scandale, c'est qu'il reste trop cher pour les ménages modestes, faute de soutien public suffisant, notamment dans les cantines.",
+    "detaille": "L'agriculture biologique repose sur un cahier des charges strict, sans pesticides de synthèse ni engrais chimiques, et sur des contrôles. Selon l'EFSA, 98,8 % des échantillons bio contrôlés en 2014 étaient sans résidus ou sous les limites autorisées. Dans sa synthèse de 2022, la Cour des comptes estime que la littérature scientifique « reconnaît ses bénéfices sanitaires et environnementaux » : moins de pollution de l'eau, des sols plus fertiles, une biodiversité plus riche.\n\nSur la santé, l'étude NutriNet-Santé, menée par l'Inra, l'Inserm et des universités sur 68 946 adultes, observe un risque de cancer inférieur de 25 % chez les consommateurs réguliers. Les auteurs précisent qu'un lien de cause à effet ne peut pas être établi par cette seule étude. Et le conventionnel respecte lui aussi largement les limites légales : 99 % de conformité en 2023 dans l'UE.\n\nLe bio a des limites : des rendements inférieurs de 18 % en moyenne, une part de 10,3 % de la surface agricole loin de l'objectif de 15 %, et seulement 5 à 6 % de bio dans la restauration collective. Le secteur traverse une crise, avec 56 197 hectares perdus en 2024. La Cour réclame une politique « plus ambitieuse » : le rendre accessible à tous, c'est un choix politique.",
+    "empathie": "Payer plus cher sans savoir exactement ce qu'on achète peut donner le sentiment d'être pris pour un pigeon, surtout quand le budget est serré."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le bio utilise aussi des pesticides.",
+      "reponse": "Il interdit les pesticides de synthèse ; certains produits d'origine naturelle sont autorisés et contrôlés."
+    },
+    {
+      "objection": "C'est un truc de riches.",
+      "reponse": "C'est justement pourquoi il faut le développer dans les cantines et soutenir les agriculteurs : la Cour des comptes juge l'effort public insuffisant."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce qu'interdit le cahier des charges du bio ?",
+    "Si le bio protège l'eau que nous buvons tous, qui devrait payer pour le développer ?"
+  ],
+  "limites": [
+    "Les données de l'EFSA spécifiques au bio datent de 2014.",
+    "La synthèse de la Cour des comptes a été lue sur une copie hébergée par un site agricole, la page de Vie publique ne s'ouvrant pas.",
+    "L'écart de prix entre bio et conventionnel n'a pas été chiffré dans une source lue."
+  ],
+  "sources": [
+    {
+      "titre": "Le soutien à l'agriculture biologique (synthèse du rapport public thématique)",
+      "organisme": "Cour des comptes (document hébergé par agri-mutuel.com)",
+      "date_publication": "30 juin 2022",
+      "url": "https://www.agri-mutuel.com/wp-content/uploads/2022/06/20220630-synthese-soutien-agriculture-bio.pdf",
+      "passage": "La Cour estime que la littérature scientifique « reconnaît ses bénéfices sanitaires et environnementaux » (eau, sols, biodiversité, bien-être animal), tout en notant que des études complémentaires restent nécessaires sur la santé et le climat. Avec plus de 2,8 millions d'hectares en 2021, la France est le premier producteur bio de l'UE, mais le bio ne couvre que 10,3 % de la SAU, loin de l'objectif de 15 %. En restauration collective, la part du bio « plafonne à environ 5 à 6 % ». Les rendements sont en moyenne inférieurs de 18 %. La Cour appelle à une politique « plus structurée, mieux intégrée et plus ambitieuse ».",
+      "pertinence": "Évaluation officielle par la juridiction financière, consultée via une copie hébergée par un tiers.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Communiqué : consommation d'aliments bio et risque de cancer",
+      "organisme": "Inra (aujourd'hui INRAE), avec Inserm, Cnam, Université Paris 13",
+      "date_publication": "22 octobre 2018",
+      "url": "https://www.inrae.fr/sites/default/files/pdf/CP%20Aliments%20bio%20et%20cancer.pdf",
+      "passage": "L'étude porte sur 68 946 adultes de la cohorte NutriNet-Santé suivis de 2009 à 2016, soit 1 340 nouveaux cas de cancer. Les consommateurs réguliers de bio présentent un risque de cancer inférieur de 25 % ; la baisse atteint 34 % pour le cancer du sein post-ménopause et 76 % pour les lymphomes. Les auteurs précisent toutefois que les résultats « doivent être confirmées par d'autres investigations conduites sur d'autres populations ».",
+      "pertinence": "Communiqué de l'organisme public de recherche sur une étude publiée dans JAMA Internal Medicine.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Fewer cases of cancer in organic food consumers",
+      "organisme": "Inserm (salle de presse)",
+      "date_publication": "22 octobre 2018",
+      "url": "https://presse.inserm.fr/en/fewer-cases-of-cancer-in-organic-food-consumers/58623/",
+      "passage": "Inserm confirme une baisse d'environ 25 % du risque global de cancer chez les consommateurs réguliers de bio. Les auteurs écrivent que « a link between cause and effect cannot be established based on this study alone ». L'alimentation a été mesurée par un questionnaire de fréquence portant sur 16 groupes d'aliments. Les explications avancées (moins de résidus de pesticides, plus de micronutriments) restent des hypothèses.",
+      "pertinence": "Communiqué de l'Inserm précisant les limites de l'étude.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Résidus de pesticides dans les aliments : le risque pour les consommateurs reste faible",
+      "organisme": "EFSA",
+      "date_publication": "26 octobre 2016 (données 2014)",
+      "url": "https://www.efsa.europa.eu/fr/node/965876",
+      "passage": "Le rapport porte sur près de 83 000 échantillons prélevés en 2014, dont 97 % respectent les limites légales. Pour les produits biologiques, 98,8 % étaient « soit exempts de résidus ou contenaient des résidus dans les limites autorisées ». L'EFSA conclut qu'« il est peu probable que l'exposition effective des consommateurs constitue une menace pour la santé humaine ».",
+      "pertinence": "Rapport de l'agence européenne de sécurité alimentaire (données anciennes, 2014).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pesticides residues in food: what's the situation in the EU?",
+      "organisme": "EFSA",
+      "date_publication": "14 mai 2025 (données 2023)",
+      "url": "https://www.efsa.europa.eu/en/news/pesticides-residues-food-whats-situation-eu",
+      "passage": "Sur 13 246 échantillons aléatoires de 2023, 99 % sont conformes au droit européen : 70 % sans résidus quantifiables, 28 % avec des résidus sous les limites, et 2 % dépassent la limite maximale. Sur 132 793 échantillons des programmes nationaux, 3,7 % dépassent la limite. L'EFSA conclut à « a low risk to consumer health ». La page ne distingue pas le bio du conventionnel.",
+      "pertinence": "Données européennes récentes sur les résidus, tous modes de production.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Présentation des chiffres du bio 2024 (communiqué de presse)",
+      "organisme": "Agence BIO",
+      "date_publication": "12 juin 2025",
+      "url": "https://www.agencebio.org/wp-content/uploads/2025/06/CP_Presentation-des-chiffres-du-bio2024_Agence-BIO.pdf",
+      "passage": "« Le bio a reculé de 56 197 hectares en 2024, à 2,7 millions d'hectares », soit 10,1 % de la SAU contre 10,3 % en 2023. 4 431 nouvelles fermes se sont engagées en bio, et le bio représente 15 % des fermes. « Les dépenses des ménages en bio sont en croissance de 0,8% en valeur par rapport à 2023 », à 12,2 milliards d'euros, soit environ 6 % des achats alimentaires.",
+      "pertinence": "Données officielles de l'agence publique de développement du bio.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveaux chiffres de l'Agence BIO.",
+  "objections_legitimes": [
+    "Les rendements bio sont plus faibles et les prix plus élevés.",
+    "Le lien entre bio et santé n'est pas encore prouvé de façon causale."
+  ],
+  "publics": {
+    "convaincus": "Le bio, c'est un cahier des charges contrôlé : pas de pesticides de synthèse, et 98,8 % des échantillons contrôlés en Europe sans résidus ou sous les limites. La Cour des comptes reconnaît ses bénéfices pour l'eau et les sols. Ce n'est pas une arnaque ; ce qui est injuste, c'est qu'il reste trop cher pour les familles modestes.",
+    "indecis": "Le bio n'est pas une solution miracle : rendements plus faibles, bénéfices pour la santé encore discutés. Mais ses avantages pour l'environnement sont reconnus par la Cour des comptes. L'enjeu est de le rendre accessible, par exemple dans les cantines."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite",
+      "travailleurs"
+    ],
+    "mecanismes": "Le bio est caricaturé en produit de luxe, alors que ses bénéfices pour l’eau et les sols profitent à tous.",
+    "consequences": "Faute de soutien public, il reste trop cher pour les ménages modestes.",
+    "democratie": "L’alimentation de qualité devrait être un droit, pas un privilège.",
+    "propositions": [
+      "Développer le bio dans les cantines publiques.",
+      "Soutenir la conversion et le revenu des agriculteurs bio."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les rendements bio sont plus faibles.",
+        "integration": "Le reconnaître et rappeler les bénéfices environnementaux établis."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "bio"
+  ],
+  "repond_a": [
+    {
+      "id": "bio",
+      "label": "Agriculture biologique"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "agriculture biologique",
+    "produits biologiques",
+    "label ab"
+  ]
+}

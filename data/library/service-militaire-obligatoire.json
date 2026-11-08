@@ -1,0 +1,217 @@
+{
+  "id": "service-militaire-obligatoire",
+  "type": "idee_recue",
+  "affirmation": "Il faut rétablir le service militaire obligatoire.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "service militaire",
+    "service militaire obligatoire",
+    "conscription",
+    "service national",
+    "snu",
+    "retablir le service",
+    "armee pour les jeunes",
+    "service militaire volontaire"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "C'est un choix politique, que soutiennent 53 % des Français selon un sondage Ipsos de 2025. Les faits éclairent le débat : le SNU, son substitut civil, a manqué ses objectifs selon la Cour des comptes, qui chiffre sa généralisation à 3,5 à 5 milliards d'euros par an. L'Élysée juge un service obligatoire matériellement impossible pour 600 000 à 800 000 jeunes par an, et a lancé en 2026 un service militaire volontaire de dix mois.",
+  "contexte": "Le retour du service militaire est réclamé au nom de la cohésion nationale, de la discipline et de la défense face aux menaces.",
+  "explication": "La conscription a été suspendue en 1997, pas abolie : le Parlement peut la rétablir. La question est autant pratique (encadrement, casernes, coût) que politique.",
+  "faits": [
+    {
+      "fait": "Selon Acteurs publics, la conscription a été suspendue par la loi du 28 octobre 1997, et les derniers appelés ont été libérés au 30 novembre 2001.",
+      "periode": "1997-2001",
+      "perimetre": "France",
+      "explication": "Le service est suspendu, pas aboli.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2023, 40 135 jeunes ont effectué un séjour de cohésion du SNU, pour un objectif de 64 000, avec un coût complet proche de 2 900 € par jeune.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "Le SNU a manqué ses objectifs.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "40 135 jeunes"
+    },
+    {
+      "fait": "La Cour des comptes estime qu'un SNU généralisé coûterait entre 3,5 et 5 milliards d'euros par an de fonctionnement, hors investissements, et que la mixité sociale n'est pas atteinte.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Un dispositif universel coûterait très cher.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "3,5 à 5 Md€ par an"
+    },
+    {
+      "fait": "Le nouveau service national militaire est volontaire, dure dix mois et vise 3 000 jeunes en 2026 puis 10 000 en 2030, avec une solde d'au moins 800 € brut par mois.",
+      "periode": "2026-2030",
+      "perimetre": "France",
+      "explication": "L'État a choisi le volontariat.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'Élysée juge matériellement impossible un service obligatoire pour 600 000 à 800 000 jeunes par an, mais le Parlement pourrait le rendre obligatoire en cas de crise.",
+      "periode": "novembre 2025",
+      "perimetre": "France",
+      "explication": "L'obligation reste possible en cas de menace grave.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un sondage Ipsos de mars 2025, 86 % des Français sont favorables à un retour du service militaire et 53 % le veulent obligatoire, contre 41 % des moins de 35 ans.",
+      "periode": "mars 2025",
+      "perimetre": "France",
+      "explication": "L'idée est populaire, moins chez les jeunes concernés.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "53 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est un choix politique défendable, soutenu par 53 % des Français. Mais il coûterait des milliards : la Cour des comptes chiffre un simple SNU généralisé à 3,5 à 5 milliards d'euros par an, et l'Élysée juge impossible d'encadrer 600 000 à 800 000 jeunes par an. Le SNU, lui, a manqué tous ses objectifs.",
+    "moyen": "Le service militaire a été suspendu en 1997, et l'idée de le rétablir est populaire : 86 % des Français sont favorables à un retour, 53 % le veulent obligatoire. Mais les faits invitent à la prudence. Le SNU, censé recréer un brassage social, a réuni 40 135 jeunes en 2023 au lieu de 64 000, sans atteindre la mixité, et la Cour des comptes chiffre sa généralisation à 3,5 à 5 milliards d'euros par an.\n\nL'État a choisi en 2026 un service militaire volontaire de dix mois, payé 800 € par mois. Un service obligatoire pour toute une classe d'âge demanderait des casernes, des cadres et des milliards. Si l'on veut de la cohésion, on peut aussi la construire à l'école, dans les services publics et par un service civique bien financé.",
+    "detaille": "La conscription a été suspendue par la loi du 28 octobre 1997, et les derniers appelés libérés fin 2001. Elle n'est pas abolie : le Parlement peut la rétablir. Le service national universel, lancé pour recréer un brassage social, a été jugé sévèrement par la Cour des comptes en 2024 : 40 135 participants en 2023 pour un objectif de 64 000, un coût réel proche de 2 900 € par jeune, une mixité sociale non atteinte, et un coût de 3,5 à 5 milliards d'euros par an s'il était généralisé.\n\nLe 27 novembre 2025, le président de la République a annoncé un service national militaire volontaire de dix mois, pour les 18-25 ans, payé au moins 800 € brut par mois : 3 000 jeunes en 2026, 10 000 en 2030. Il a écarté l'obligation, l'Élysée jugeant matériellement impossible d'accueillir 600 000 à 800 000 jeunes par an, tout en prévoyant que le Parlement puisse la décider en cas de crise.\n\nL'opinion est favorable : selon Ipsos (mars 2025), 86 % des Français souhaitent un retour du service militaire et 53 % le veulent obligatoire, mais seulement 41 % des moins de 35 ans. Le débat porte donc sur les moyens : former et encadrer toute une classe d'âge coûterait des milliards, qui pourraient aussi financer l'école ou un service civique.",
+    "empathie": "Beaucoup gardent un souvenir fort de leur service ou de celui de leurs parents, et regrettent un moment où des jeunes de milieux différents se côtoyaient. Ce désir de cohésion est respectable."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ça apprendrait la discipline aux jeunes.",
+      "reponse": "Le SNU devait aussi le faire et n'a pas atteint ses objectifs ; la discipline s'apprend surtout à l'école et dans le travail."
+    },
+    {
+      "objection": "Avec la guerre en Ukraine, il faut une armée nombreuse.",
+      "reponse": "L'armée a besoin de professionnels formés longtemps ; c'est pourquoi le nouveau service mise sur des volontaires sur dix mois."
+    }
+  ],
+  "questions": [
+    "Qui encadrerait 600 000 à 800 000 jeunes par an, et dans quelles casernes ?",
+    "Que pourrait-on financer d'autre avec 3,5 à 5 milliards d'euros par an pour la jeunesse ?"
+  ],
+  "limites": [
+    "Le coût d'un vrai service militaire obligatoire (et non du SNU) n'a pas été chiffré dans une source lue.",
+    "Les sources divergent sur l'objectif de 2035 : 50 000 volontaires selon le ministère, 42 500 selon LCP.",
+    "Les positions des partis sur le service obligatoire n'ont pas été vérifiées."
+  ],
+  "sources": [
+    {
+      "titre": "1997 : le service national est suspendu",
+      "organisme": "Acteurs publics",
+      "date_publication": "18 décembre 2007",
+      "url": "https://acteurspublics.fr/articles/1997-le-service-national-est-suspendu/",
+      "passage": "La loi du 28 octobre 1997, publiée au Journal officiel le 8 novembre 1997, suspend la conscription pour les jeunes nés après 1979. Jacques Chirac voulait professionnaliser les armées ; l'article cite « l'économie de moyens (420 millions d'euros par an) » et « près de 400 000 jeunes » concernés. La fin de la conscription a été avancée en juin 2001, les appelés étant libérés au 30 novembre 2001.",
+      "pertinence": "Rappel historique par un média de la fonction publique (article ancien).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Le service national universel : un premier bilan, cinq années après son lancement",
+      "organisme": "Cour des comptes (publié sur vie-publique.fr)",
+      "date_publication": "septembre 2024",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/295374.pdf",
+      "passage": "En 2023, 40 135 jeunes ont effectué un séjour de cohésion, pour 56 063 inscrits et un objectif de 64 000, avec un taux de désistement de 28 %. Le coût complet par jeune est « proche de 2 900 € pour l'année 2022 », contre 2 300 € selon le ministère. La Cour juge « davantage probable » un coût annuel de fonctionnement de l'ensemble du dispositif généralisé de « 3,5 à 5 milliards d'euros », hors investissements. Elle juge que « ses objectifs demeurent incertains », et que la mixité sociale n'est pas atteinte (5 % de participants issus de quartiers prioritaires contre 9 % dans la population de référence).",
+      "pertinence": "Rapport officiel de la juridiction financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "SNU : la généralisation d'ici à 2027 n'est pas envisageable, estime la Cour des comptes",
+      "organisme": "Localtis, Banque des Territoires (Virginie Fauvel)",
+      "date_publication": "13 septembre 2024",
+      "url": "https://banquedesterritoires.fr/snu-la-generalisation-dici-2027-nest-pas-envisageable-estime-la-cour-des-comptes",
+      "passage": "Les participants sont passés d'environ 14 600 en 2021 à près de 50 000 en 2023-2024, un niveau chaque année « très inférieur à l'objectif fixé dans la loi de finances initiale ». Le ministère chiffrait la généralisation à 2 milliards d'euros, contre 3,5 à 5 milliards par an selon la Cour. Les crédits de la programmation ne sont pas compatibles avec « une généralisation du SNU aux 850.000 jeunes d'ici 2027 ».",
+      "pertinence": "Média spécialisé collectivités résumant le rapport.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Dossier de presse : Service national",
+      "organisme": "Ministère des Armées",
+      "date_publication": "novembre 2025",
+      "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/Dossier%20de%20presse_Service%20national.pdf",
+      "passage": "Le nouveau service « n'a aucun caractère obligatoire » et dure « dix mois », dont un mois de formation militaire initiale, pour des jeunes de 18 à 25 ans. Sa mise en œuvre « débutera en septembre 2026 » avec environ 3 000 volontaires, puis 10 000 en 2030 et 50 000 « à l'horizon 2035 ». La solde est d'au moins 800 € brut par mois. Le document indique que l'ancien service a été « suspendu en 1996 ».",
+      "pertinence": "Document officiel du ministère des Armées.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Emmanuel Macron dévoile un nouveau service national militaire et volontaire : à quoi va-t-il ressembler ?",
+      "organisme": "Public Sénat",
+      "date_publication": "27 novembre 2025",
+      "url": "https://www.publicsenat.fr/actualites/politique/emmanuel-macron-devoile-un-nouveau-service-national-militaire-et-volontaire-a-quoi-va-t-il-ressembler",
+      "passage": "Emmanuel Macron écarte le retour d'un service obligatoire, une option selon lui « portée par ceux qui méconnaissent nos armées ». L'Élysée juge matériellement impossible un dispositif pour 600 000 à 800 000 jeunes par an. En cas de crise, le Parlement pourrait autoriser l'appel au-delà des volontaires, et « le service national deviendra obligatoire ». Les infrastructures sont chiffrées à plus de 2 milliards d'euros.",
+      "pertinence": "Média parlementaire rendant compte de l'annonce présidentielle.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Nouveau service militaire national : comment ça marche, qui est concerné ?",
+      "organisme": "LCP (Soizic Bonvarlet)",
+      "date_publication": "15 septembre 2026",
+      "url": "https://lcp.fr/actualites/nouveau-service-militaire-national-comment-ca-marche-qui-est-concerne-441752",
+      "passage": "Le dispositif marque la « fin du service national universel » en tant que tel. Le premier bataillon devrait compter 3 000 volontaires en novembre, 10 000 d'ici 2030 et jusqu'à 42 500 en 2035. Le budget dédié est de 2,3 milliards d'euros, prévu par la loi de programmation militaire. Les volontaires touchent 800 € bruts par mois, logés et nourris, sans déploiement à l'étranger.",
+      "pertinence": "Chaîne parlementaire, point sur la mise en œuvre.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Les Français favorables à un service militaire, mais pas forcément obligatoire",
+      "organisme": "Ipsos bva / CESI pour Le Parisien",
+      "date_publication": "15 mars 2025 (terrain du 12 au 14 mars)",
+      "url": "https://www.ipsos.com/fr-fr/les-francais-favorables-un-service-militaire-mais-pas-forcement-obligatoire",
+      "passage": "Sur 1 000 personnes de 18 ans et plus, 86 % sont favorables à un retour du service militaire. 53 % le veulent obligatoire (32 % pour les femmes et les hommes, 21 % pour les hommes seulement), et environ un tiers le préfèrent volontaire. Chez les moins de 35 ans, 78 % y sont favorables, mais seuls 41 % le veulent obligatoire.",
+      "pertinence": "Sondage d'un institut reconnu.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Premier bilan du service national militaire volontaire.",
+  "objections_legitimes": [
+    "L'idée est majoritaire dans l'opinion.",
+    "L'État a lui-même réintroduit un service militaire volontaire et prévoit une obligation possible en cas de crise."
+  ],
+  "publics": {
+    "convaincus": "L'idée se défend, et beaucoup de Français la partagent. Mais le SNU devait déjà brasser les jeunes et il a raté ses objectifs, selon la Cour des comptes, qui chiffre sa généralisation à 3,5 à 5 milliards par an. Encadrer 600 000 à 800 000 jeunes par an, l'armée elle-même dit ne pas savoir le faire.",
+    "indecis": "Vouloir que les jeunes de tous milieux se rencontrent et servent leur pays est une belle idée. La question est concrète : coût, encadrement, efficacité. L'État a choisi un service volontaire ; on peut aussi renforcer l'école et le service civique."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "services_publics",
+      "egalite"
+    ],
+    "mecanismes": "Le service obligatoire est présenté comme une solution simple à des problèmes de cohésion sociale complexes.",
+    "consequences": "Les milliards nécessaires manqueraient à l’école et aux services publics.",
+    "democratie": "La défense et la cohésion relèvent de choix démocratiques débattus au Parlement.",
+    "propositions": [
+      "Renforcer le service civique et l’école comme lieux de mixité.",
+      "Financer une armée professionnelle bien formée."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’idée est majoritaire dans l’opinion.",
+        "integration": "La respecter tout en mettant en avant le coût et l’échec du SNU."
+      }
+    ]
+  },
+  "concepts": [
+    "patriotisme"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite"
+  ]
+}

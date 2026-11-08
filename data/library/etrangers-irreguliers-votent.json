@@ -1,0 +1,204 @@
+{
+  "id": "etrangers-irreguliers-votent",
+  "type": "idee_recue",
+  "affirmation": "Les étrangers en situation irrégulière votent aux élections.",
+  "volet": "immigration",
+  "sous_theme": "Nationalité et accès aux droits",
+  "rubriques": [],
+  "mots_cles": [
+    "sans papiers votent",
+    "etrangers votent",
+    "clandestins votent",
+    "fraude electorale",
+    "vote des etrangers",
+    "listes electorales",
+    "immigres votent",
+    "irreguliers votent",
+    "elections truquees"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Non. En France, le droit de vote est réservé aux Français majeurs, selon la Constitution. Seuls les citoyens d'autres pays de l'Union européenne qui résident en France peuvent voter, et seulement aux municipales et aux européennes. Les étrangers non européens, même en situation régulière, ne votent pas. Les listes électorales sont tenues par l'Insee, contrôlées avant chaque scrutin, et une pièce d'identité est exigée dans les communes de 1 000 habitants et plus.",
+  "contexte": "La rumeur de votes d'immigrés ou de sans-papiers circule à chaque élection, souvent pour contester un résultat.",
+  "explication": "Pour voter, il faut être inscrit sur une liste électorale, ce qui suppose de prouver sa nationalité. La fraude électorale existe et est jugée, mais elle prend d'autres formes.",
+  "faits": [
+    {
+      "fait": "La Constitution dispose que « sont électeurs […] tous les nationaux français majeurs des deux sexes ».",
+      "periode": "droit en vigueur",
+      "perimetre": "France",
+      "explication": "Le vote est lié à la nationalité.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les étrangers non européens « demeurent exclus du droit de vote », y compris aux municipales, rappelle un rapport de l'Assemblée nationale de 2026.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Même un étranger en situation régulière ne vote pas.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les citoyens d'un autre pays de l'UE résidant en France peuvent voter seulement aux municipales et aux européennes, inscrits sur une liste complémentaire.",
+      "periode": "droit en vigueur",
+      "perimetre": "France",
+      "explication": "C'est la seule exception, et elle concerne des Européens.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Répertoire électoral unique est géré par l'Insee, qui inscrit d'office les nouveaux naturalisés et radie les personnes qui perdent la nationalité ; une commission contrôle les listes avant chaque scrutin.",
+      "periode": "depuis 2019",
+      "perimetre": "France",
+      "explication": "Les listes électorales sont contrôlées.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Une pièce d'identité avec photo est exigée pour voter dans les communes de 1 000 habitants et plus ; la carte électorale n'en est pas une.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "L'identité de l'électeur est vérifiée au bureau de vote.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Blog du cabinet Landot & associés, en octobre 2026, le tribunal administratif de la Guyane a retiré 54 votes obtenus par des domiciliations frauduleuses à Saint-Laurent-du-Maroni et déclaré trois élus inéligibles.",
+      "periode": "municipales 2026",
+      "perimetre": "Guyane",
+      "explication": "La fraude électorale existe, mais elle est détectée et sanctionnée, et elle prend d'autres formes.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : en France, seuls les Français votent, plus les citoyens européens aux municipales et aux européennes. Un étranger non européen, même avec des papiers, ne vote pas. Pour voter, il faut être inscrit sur des listes contrôlées par l'Insee et montrer une pièce d'identité.",
+    "moyen": "La Constitution réserve le vote aux « nationaux français majeurs ». La seule exception concerne les citoyens d'autres pays de l'Union européenne, qui peuvent voter aux municipales et aux européennes. Un Algérien, un Malien ou un Chinois vivant légalement en France depuis vingt ans ne vote pas ; un sans-papiers encore moins.\n\nLes listes électorales sont gérées par l'Insee, qui radie ceux qui perdent la nationalité, et une commission les vérifie avant chaque scrutin. Dans les communes de plus de 1 000 habitants, il faut montrer une pièce d'identité. Des fraudes existent, comme de fausses domiciliations jugées en Guyane en 2026 : elles sont détectées et sanctionnées.",
+    "detaille": "L'article 3 de la Constitution dispose que « sont électeurs […] tous les nationaux français majeurs des deux sexes ». En 1992, le Conseil constitutionnel a jugé que seuls les nationaux français ont le droit de vote et d'éligibilité. L'exception, ajoutée la même année, concerne les citoyens de l'Union européenne résidant en France, qui votent aux municipales et aux européennes, inscrits sur une liste complémentaire. Les étrangers non européens « demeurent exclus du droit de vote », rappelle un rapport de l'Assemblée nationale de février 2026.\n\nLes listes sont tenues dans le Répertoire électoral unique géré par l'Insee, qui inscrit d'office les nouveaux naturalisés et radie les personnes qui perdent la nationalité française. Une commission de contrôle vérifie leur régularité avant chaque scrutin. Au bureau de vote, une pièce d'identité avec photo est obligatoire dans les communes de 1 000 habitants et plus.\n\nLa fraude électorale existe : en octobre 2026, le tribunal administratif de la Guyane a annulé des élections à Saint-Laurent-du-Maroni après 93 inscriptions par domiciliation frauduleuse. Mais aucune source lue ne fait état de votes de sans-papiers, et les fraudes jugées sont sanctionnées.",
+    "empathie": "Il est normal de vouloir que les élections soient honnêtes et que seuls ceux qui en ont le droit votent. C'est justement ce que garantissent les règles et les contrôles existants."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les naturalisés votent, et ce sont des immigrés.",
+      "reponse": "Les naturalisés sont Français : ils ont le droit de vote comme tous les Français."
+    },
+    {
+      "objection": "Les contrôles ne sont pas faits.",
+      "reponse": "Les listes sont gérées par l'Insee et contrôlées avant chaque scrutin, et les fraudes détectées sont annulées par les juges."
+    }
+  ],
+  "questions": [
+    "Sais-tu comment on s'inscrit sur une liste électorale et ce qu'il faut prouver ?",
+    "Connais-tu un seul cas jugé de vote d'un sans-papiers ?"
+  ],
+  "limites": [
+    "Aucun fact-check de presse sur cette rumeur n'a été lu.",
+    "On ne peut pas affirmer qu'aucun cas n'a jamais existé, seulement qu'aucune donnée lue n'en montre.",
+    "La fiche Service-public sur le vote des citoyens européens affiche une date de vérification incohérente."
+  ],
+  "sources": [
+    {
+      "titre": "Proposition de loi constitutionnelle n°149 visant à accorder le droit de vote et d'éligibilité aux élections municipales aux étrangers non ressortissants de l'UE – état d'avancement des travaux",
+      "organisme": "Assemblée nationale (rapporteure Léa Balage El Mariky)",
+      "date_publication": "4 février 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/dyn/contenu/visualisation/1101276/file/EAT%20-%20PPLC%20n%C2%B0%20149%20-%20droit%20de%20vote%20des%20%C3%A9trangers.pdf",
+      "passage": "L'article 3 de la Constitution dispose que « sont électeurs […] tous les nationaux français majeurs des deux sexes ». En 1992, le Conseil constitutionnel (décision n°92-308 DC) a jugé que « seuls les \"nationaux français\" ont le droit de vote et d'éligibilité » aux municipales. L'article 88-3, ajouté en 1992, ouvre le vote municipal « aux seuls citoyens de l'Union résidant en France » ; ceux-ci ne peuvent être ni maires ni adjoints, ni voter aux sénatoriales. Les étrangers non européens « demeurent exclus du droit de vote ».",
+      "pertinence": "Document parlementaire qui résume l'état du droit constitutionnel sur le vote des étrangers.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Élections : droit de vote d'un citoyen européen en France",
+      "organisme": "Service-public.fr (Direction de l'information légale et administrative)",
+      "date_publication": "vérifié le 25 juin 2024 (page mentionnant un décret de juin 2026)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34852/0_4",
+      "passage": "Un citoyen d'un autre pays de l'UE qui vit en France peut voter aux élections européennes et municipales. Il doit avoir au moins 18 ans, jouir de ses droits civils et politiques et être inscrit, à sa demande, sur une liste électorale complémentaire. Il doit notamment attester ne pas avoir perdu son droit de vote dans son pays d'origine. Aucun autre scrutin n'est mentionné comme ouvert à ces électeurs.",
+      "pertinence": "Fiche administrative officielle sur la seule exception au vote réservé aux Français.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Répertoire électoral unique",
+      "organisme": "Insee",
+      "date_publication": "mis à jour le 15 mai 2023",
+      "url": "https://www.insee.fr/fr/information/3539086",
+      "passage": "Le Répertoire électoral unique (REU), créé par la loi du 1er août 2016, est géré par l'Insee et « mis à jour à partir des informations qu'il reçoit d'autres administrations ». L'Insee inscrit d'office les jeunes majeurs et les personnes qui viennent d'acquérir la nationalité française. Il radie les personnes décédées, celles privées du droit de vote par condamnation et celles qui ont perdu la nationalité française. Une commission de contrôle vérifie la régularité de la liste avant chaque scrutin et peut radier un électeur indûment inscrit.",
+      "pertinence": "Source officielle sur la tenue et le contrôle des listes électorales.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Élections : papiers d'identité à présenter pour voter",
+      "organisme": "Service-public.fr",
+      "date_publication": "vérifié le 21 septembre 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/f1361",
+      "passage": "Dans une commune de moins de 1 000 habitants, la pièce d'identité « n'est pas obligatoire », mais le président du bureau de vote peut demander une preuve d'identité en cas de doute ; elle est donc exigée dans les communes plus grandes. Il faut présenter l'original d'un document avec photo (carte d'identité, passeport, permis de conduire, etc.). « La carte électorale n'est pas une pièce d'identité. »",
+      "pertinence": "Fiche officielle sur le contrôle de l'identité au bureau de vote.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Qui plantera des faux, pour récolter des procurations de vote, perdra (au minimum) l'élection et l'éligibilité",
+      "organisme": "Blog du cabinet Landot & associés (avocats en droit public)",
+      "date_publication": "13 octobre 2026",
+      "url": "https://blog.landot-avocats.net/2026/10/13/qui-plantera-des-faux-pour-recolter-des-procurations-de-vote-perdra-au-minimum-lelection-et-leligibilite/",
+      "passage": "Le blog commente des jugements du tribunal administratif de la Guyane du 8 octobre 2026 sur les municipales 2026 à Saint-Laurent-du-Maroni. 93 personnes avaient été inscrites irrégulièrement par des domiciliations frauduleuses, et 54 d'entre elles ont voté. Trois élus avaient délivré des « attestations de complaisance présentant un caractère frauduleux ». Le tribunal a retiré les 54 votes et déclaré les trois candidats inéligibles pour un an ; leurs élections ont été annulées.",
+      "pertinence": "Exemple récent de fraude à l'inscription détectée et sanctionnée ; il s'agit de domiciliation, pas de nationalité.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Évolution du droit électoral.",
+  "objections_legitimes": [
+    "La fraude électorale existe et est parfois jugée.",
+    "Dans les communes de moins de 1 000 habitants, la pièce d'identité n'est pas obligatoire au bureau de vote."
+  ],
+  "publics": {
+    "convaincus": "Pour voter, il faut être inscrit sur une liste tenue par l'Insee, et pour ça il faut être Français. Même un étranger en situation régulière depuis vingt ans ne vote pas, sauf les Européens aux municipales. Les fraudes qui existent, comme les fausses domiciliations en Guyane, sont détectées et les élections annulées.",
+    "indecis": "La sincérité des élections est essentielle, et les fraudes existent. Mais les règles sont strictes : nationalité française obligatoire, listes contrôlées par l'Insee, pièce d'identité au bureau de vote. Aucune source ne montre que des sans-papiers votent."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "antiracisme"
+    ],
+    "mecanismes": "La rumeur de votes illégaux d’étrangers sert à contester des résultats électoraux et à désigner un ennemi intérieur.",
+    "consequences": "Elle mine la confiance dans les élections sans fondement établi.",
+    "democratie": "La sincérité du scrutin est garantie par des règles et des juges ; les fraudes réelles sont jugées.",
+    "propositions": [
+      "Défendre les contrôles existants et la transparence des listes électorales.",
+      "Débattre ouvertement du droit de vote des étrangers aux élections locales."
+    ],
+    "defavorables": [
+      {
+        "fait": "La fraude électorale existe et est parfois jugée.",
+        "integration": "Le reconnaître et montrer qu’elle est détectée et sanctionnée."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "fraude",
+    "nationalite",
+    "vote_etrangers"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "travail dissimule",
+    "travail au noir",
+    "evasion fiscale",
+    "nationalite",
+    "devenir francais",
+    "droit du sol"
+  ]
+}

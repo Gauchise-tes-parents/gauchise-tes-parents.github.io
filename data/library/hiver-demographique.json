@@ -1,0 +1,206 @@
+{
+  "id": "hiver-demographique",
+  "type": "idee_recue",
+  "affirmation": "L'hiver démographique va tuer la France.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et démographie",
+  "rubriques": [],
+  "mots_cles": [
+    "hiver demographique",
+    "natalite",
+    "baisse des naissances",
+    "fecondite",
+    "plus de deces que de naissances",
+    "suicide demographique",
+    "la france meurt",
+    "declin demographique",
+    "naissances"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La baisse des naissances est réelle : en 2025, la France a compté 645 000 naissances pour 651 000 décès, un solde naturel négatif pour la première fois depuis 1945, et la fécondité est tombée à 1,56. Mais la population continue d'augmenter (69,1 millions début 2026) et la France reste au-dessus de la moyenne européenne (1,61 contre 1,34 en 2024). Le défi du vieillissement est sérieux ; la disparition du pays ne figure dans aucune projection.",
+  "contexte": "L'expression « hiver démographique » est reprise par la droite et l'extrême droite, souvent associée à la peur du « grand remplacement ».",
+  "explication": "Le solde naturel (naissances moins décès) et le solde migratoire déterminent ensemble l'évolution de la population. Les démographes expliquent la baisse de la fécondité par des causes sociales : logement, carrières, inquiétudes pour l'avenir.",
+  "faits": [
+    {
+      "fait": "En 2025, la France a compté 645 000 naissances et 651 000 décès, soit un solde naturel de -6 000, le premier négatif depuis la fin de la Seconde Guerre mondiale.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La baisse des naissances est historique.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "-6 000"
+    },
+    {
+      "fait": "La fécondité est tombée à 1,56 enfant par femme en 2025, contre 1,61 en 2024.",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "La baisse se poursuit.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,56"
+    },
+    {
+      "fait": "La population française a augmenté de 0,25 % pour atteindre 69,1 millions au 1er janvier 2026, grâce à un solde migratoire estimé à +176 000.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "La France ne se dépeuple pas.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "69,1 millions"
+    },
+    {
+      "fait": "En 2024, la France avait la fécondité la plus élevée des grandes économies européennes (1,61), contre 1,34 en moyenne dans l'UE.",
+      "periode": "2024",
+      "perimetre": "UE",
+      "explication": "La France reste mieux placée que ses voisins.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Dans son scénario central de 2021, l'Insee projetait 68,1 millions d'habitants en 2070, après un pic de 69,3 millions en 2044, avec une part des 65 ans ou plus passant de 21 % à 29 %.",
+      "periode": "2021-2070",
+      "perimetre": "France",
+      "explication": "Le défi est le vieillissement, pas la disparition.",
+      "source": 1,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon l'Ined, le nombre d'enfants souhaités chez les 30-34 ans est passé de 2,6 en 2005 à 1,9 ; les démographes citent le coût du logement, la pénalisation de la maternité et les inquiétudes pour l'avenir.",
+      "periode": "2005-2026",
+      "perimetre": "France",
+      "explication": "La baisse a des causes sociales sur lesquelles on peut agir.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Exagéré : les naissances baissent, et en 2025 il y a eu un peu plus de décès que de naissances, une première depuis 1945. Mais la population augmente encore (69,1 millions) et la France fait plus d'enfants que la moyenne européenne. Le défi est le vieillissement, pas la mort du pays.",
+    "moyen": "La baisse est réelle : 645 000 naissances en 2025, un solde naturel de -6 000, une fécondité de 1,56 enfant par femme. Les démographes de l'Ined parlent d'un phénomène durable.\n\nMais la France compte 69,1 millions d'habitants début 2026, en hausse, et sa fécondité reste supérieure à la moyenne européenne (1,61 contre 1,34 en 2024). Les causes sont connues : logement trop cher, maternité pénalisée au travail, inquiétude pour l'avenir. La réponse, ce sont des crèches, des logements abordables et l'égalité au travail, pas la peur.",
+    "detaille": "Selon l'Insee, la France a compté en 2025 645 000 naissances et 651 000 décès : le solde naturel est négatif pour la première fois depuis la fin de la Seconde Guerre mondiale (-6 000). La fécondité est tombée à 1,56 enfant par femme, contre 1,61 en 2024. Les démographes de l'Ined jugent que « ce n'est pas une crise passagère ».\n\nPour autant, la population continue d'augmenter : 69,1 millions d'habitants au 1er janvier 2026, +0,25 % sur un an, grâce à un solde migratoire estimé à +176 000. En Europe, la France reste en tête des grandes économies, avec 1,61 enfant par femme en 2024 contre 1,34 dans l'UE ; quatorze régions françaises dépassent 1,75. Les projections de l'Insee de 2021 prévoyaient 68,1 millions d'habitants en 2070, avec un vieillissement marqué ; elles reposaient sur une fécondité de 1,8, plus élevée qu'aujourd'hui.\n\nLes causes sont sociales : le nombre d'enfants souhaités chez les 30-34 ans est passé de 2,6 en 2005 à 1,9. Les démographes citent le coût du logement et de l'éducation, la pénalisation de la maternité dans les carrières, les inquiétudes pour la démocratie et l'écologie. Selon eux, les primes financières avancent surtout le calendrier des naissances sans en changer le nombre.",
+    "empathie": "La baisse des naissances inquiète, et c'est légitime : elle pose la question des retraites, des écoles qui ferment et de l'avenir du pays."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La population n'augmente que grâce aux immigrés.",
+      "reponse": "Le solde migratoire compense en effet le solde naturel ; un tiers des naissances concerne un enfant dont au moins un parent est né à l'étranger, et ces enfants sont Français."
+    },
+    {
+      "objection": "Il faut des primes pour relancer la natalité.",
+      "reponse": "Selon les démographes, les primes avancent surtout les naissances sans augmenter leur nombre ; le logement et la conciliation travail-famille pèsent davantage."
+    }
+  ],
+  "questions": [
+    "Pourquoi, selon toi, les jeunes adultes veulent-ils moins d'enfants qu'en 2005 ?",
+    "Qu'est-ce qui aiderait le plus une famille à avoir l'enfant qu'elle souhaite : une prime ou une place en crèche et un logement ?"
+  ],
+  "limites": [
+    "Les projections de l'Insee datent de 2021 et reposent sur une fécondité de 1,8.",
+    "Les données de 2025 sont provisoires.",
+    "La publication de l'Ined a été lue à travers le compte rendu de Public Sénat ; les données d'Eurostat à travers Euronews et The Brussels Times."
+  ],
+  "sources": [
+    {
+      "titre": "Bilan démographique 2025 (Insee Première n° 2087)",
+      "organisme": "Insee (Hélène Thélot)",
+      "date_publication": "13 janvier 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8719824",
+      "passage": "Au 1er janvier 2026, la France compte 69,1 millions d'habitants, une population en hausse de 0,25 % sur un an. En 2025, « 645 000 bébés sont nés en France » et « 651 000 personnes sont décédées » ; « le solde naturel en France est négatif pour la première fois depuis la fin de la Seconde Guerre mondiale » (-6 000). « Le solde migratoire est quant à lui estimé provisoirement à +176 000 personnes pour 2025. » L'indicateur de fécondité « s'établit à 1,56 enfant par femme en 2025 », contre 1,61 en 2024.",
+      "pertinence": "Statistique publique officielle de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Projections de population 2021-2070 (Insee Première n° 1881)",
+      "organisme": "Insee (Élisabeth Algava, Nathalie Blanpain)",
+      "date_publication": "29 novembre 2021",
+      "url": "https://www.insee.fr/fr/statistiques/5893969",
+      "passage": "Dans le scénario central, la population « augmenterait jusqu'en 2044 pour atteindre 69,3 millions d'habitants », puis baisserait jusqu'à 68,1 millions en 2070. Le scénario retient une fécondité de « 1,80 enfant par femme » et un solde migratoire de « 70 000 habitants en plus par an ». À partir de 2035, les décès dépasseraient les naissances, et « le solde migratoire compenserait ce déficit naturel » jusqu'en 2044. La part des 65 ans ou plus passerait de 21 % à 29 %.",
+      "pertinence": "Projections officielles de l'Insee, antérieures à la chute récente de la fécondité.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Ce n'est pas une crise passagère ! » : les démographes alertent sur la rupture historique de la natalité",
+      "organisme": "Public Sénat (audition au Sénat de François Clanché et Laurent Toulemon, Ined, et de Sylvie Le Minez, Insee)",
+      "date_publication": "28 janvier 2026 (mis à jour le 14 août 2026)",
+      "url": "https://www.publicsenat.fr/actualites/societe/ce-nest-pas-une-crise-passagere-les-demographes-alertent-sur-la-rupture-historique-de-la-natalite",
+      "passage": "Le directeur de l'Ined, François Clanché, décrit la baisse comme « un phénomène sociétal » touchant presque tous les âges, milieux et territoires. Le nombre d'enfants souhaités chez les 30-34 ans est passé de 2,6 en 2005 à 1,9. Les démographes citent le coût de l'éducation et du logement, la pénalisation de la maternité dans les carrières et les inquiétudes sur la démocratie et l'écologie ; l'infertilité n'expliquerait que 0,1 à 0,5 % de la baisse. Un tiers des naissances concernent des enfants dont au moins un parent est né à l'étranger. Les incitations financières avanceraient surtout le calendrier des naissances sans en changer le nombre total.",
+      "pertinence": "Compte rendu par la chaîne parlementaire de l'audition de démographes de l'Ined et de l'Insee.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Europe's fertility rates keep falling: which countries have the highest rates",
+      "organisme": "Euronews (données Eurostat)",
+      "date_publication": "14 mars 2026",
+      "url": "https://euronews.com/health/2026/03/14/europes-fertility-rates-keep-falling-which-countries-have-the-highest-rates-and-biggest-dr",
+      "passage": "Dans l'UE, l'indicateur de fécondité est passé « from 2.62 in 1964 to 1.34 in 2024 ». « France has the highest fertility rate among Europe's major economies, at 1.61. » Dans l'UE, la Bulgarie a le taux le plus élevé (1,72) et Malte le plus bas (1,01) ; l'Espagne est à 1,10.",
+      "pertinence": "Média européen reprenant les données Eurostat 2024.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "EU fertility falls to historic low, exposing decades-long population challenge",
+      "organisme": "The Brussels Times (données Eurostat)",
+      "date_publication": "27 octobre 2026",
+      "url": "https://www.brusselstimes.com/2380373/eu-fertility-falls-to-historic-low-exposing-decades-long-population-challenge",
+      "passage": "La fécondité de l'UE « fell to 1.34 live births per woman in 2024 », « the lowest level recorded since the data series began in 2001 ». Parmi les régions européennes à 1,75 ou plus figurent 14 régions françaises (et 14 bulgares), alors que 16 régions espagnoles et 5 italiennes sont sous 1,00.",
+      "pertinence": "Média reprenant la publication régionale d'Eurostat.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Bilan démographique annuel de l'Insee.",
+  "objections_legitimes": [
+    "Le solde naturel est négatif pour la première fois depuis 1945.",
+    "Les projections de 2021 reposent sur une fécondité plus élevée qu'aujourd'hui : le pic de population pourrait arriver plus tôt."
+  ],
+  "publics": {
+    "convaincus": "Oui, les naissances baissent, et 2025 est la première année depuis 1945 avec plus de décès que de naissances. Mais la population augmente encore, et la France fait plus d'enfants que presque tous ses voisins européens. Si on veut des bébés, il faut des logements abordables et des crèches : c'est ce que disent les démographes.",
+    "indecis": "La baisse de la natalité est un vrai sujet, et les démographes la jugent durable. Mais la France reste au-dessus de la moyenne européenne et sa population augmente. Les causes sont surtout sociales, logement, travail, inquiétude, et c'est là-dessus qu'on peut agir."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "services_publics",
+      "solidarite"
+    ],
+    "mecanismes": "L’alarme démographique sert souvent à justifier des politiques natalistes identitaires et la peur de l’immigration.",
+    "consequences": "La baisse de la fécondité a des causes sociales : logement, carrières, inquiétudes.",
+    "democratie": "Le choix d’avoir des enfants appartient aux personnes ; l’État doit le rendre possible.",
+    "propositions": [
+      "Construire des logements abordables et des places de crèche.",
+      "Lutter contre la pénalisation de la maternité au travail."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le solde naturel est négatif pour la première fois depuis 1945.",
+        "integration": "Le reconnaître et proposer des réponses sociales plutôt que la peur."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "demographie"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "natalite",
+    "enfants par femme",
+    "font des gosses",
+    "font plus d enfants",
+    "un tiers de la population",
+    "population"
+  ]
+}
