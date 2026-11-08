@@ -126,6 +126,21 @@ export const CA_CONCEPTS = {
   insectes: { label: 'Insectes dans l’alimentation', central: true, motifs: ['insectes?', 'grillons?', 'criquets?', 'vers de farine', 'larves?'] },
   ecologie_sociale: { label: 'Écologie et classes populaires', central: true, motifs: ['bobos?', 'ecologie punitive', 'punit\\w* les (pauvres|classes populaires|gens modestes|modestes)', 'taxe carbone', 'gilets? jaunes?'] },
   heberg_asile: { label: 'Hébergement des demandeurs d’asile', central: true, motifs: ['heberg\\w*', 'cada', 'huda', 'centres? (d accueil|de migrants|pour migrants)', 'impots locaux', 'taxe fonciere'] },
+  // fiches quotidiennes (8 novembre 2026, premier passage)
+  rocard: { label: 'Citation de Michel Rocard', central: true, motifs: ['rocard'] },
+  centenaires: { label: 'Retraités centenaires à l’étranger', central: true, motifs: ['centenaires?', 'retraites? fantomes?', 'pensions? (versees? )?a l etranger', 'certificats? d existence', 'morts? (qui )?touch\\w* (leur |des )?(retraites?|pensions?)'] },
+  profs_temps: { label: 'Temps de travail des enseignants', central: true, motifs: ['(profs?|enseignants?|professeurs?) .*18 ?(heures|h)\\b', '18 ?(heures|h) .*(profs?|enseignants?)', '(profs?|enseignants?|professeurs?) .*(toujours|tout le temps) en vacances', '(profs?|enseignants?) (ne )?(travaillent|bossent|foutent) (pas|rien)'] },
+  vote_etrangers: { label: 'Droit de vote des étrangers', central: true, motifs: ['droit de vote (des|aux) etrangers', 'vote des etrangers', 'etrangers? (puissent |pourraient |pourront )?voter', 'faire voter les etrangers', 'donner le (droit de )?vote aux (etrangers|immigres)'] },
+  racisme_blanc: { label: 'Racisme « anti-blanc »', central: true, motifs: ['anti ?blancs?', 'racisme (contre|envers) les blancs', 'haine (des|contre les) blancs', 'racisme inverse'] },
+  excuse_minorite: { label: 'Excuse de minorité et délinquance des mineurs', central: true, motifs: ['excuse de minorite', 'mineurs? delinquants?', 'delinquance des mineurs', 'justice des mineurs', 'ordonnance de 1945'] },
+  smic_europe: { label: 'Le SMIC comparé à l’Europe', central: true, motifs: ['smic .*(europe\\w*|allemagne|pays voisins)', '(salaires? minimums?|salaire minimum) .*(europe\\w*|eurostat)', '(europe\\w*) .*smic'] },
+  neonics: { label: 'Néonicotinoïdes et loi Duplomb', central: true, motifs: ['neonicotinoides?', 'acetamipride', 'duplomb', 'tueurs? d abeilles'] },
+  bassines: { label: 'Mégabassines et irrigation', central: true, motifs: ['mega ?bassines?', 'bassines?', 'reserves? de substitution', 'sainte soline'] },
+  lfi_poutine: { label: 'LFI et la Russie', central: true, motifs: ['(lfi|insoumis\\w*|melenchon\\w*|france insoumise) .*(poutine|russ\\w*|kremlin)', '(poutine|russ\\w*|kremlin) .*(lfi|insoumis\\w*|melenchon\\w*)', 'pro ?poutine'] },
+  abaya: { label: 'Abaya et tenues religieuses à l’école', central: true, motifs: ['abayas?', 'qamis', 'atteintes? a la laicite', 'tenues? religieuses?'] },
+  uniforme: { label: 'Uniforme à l’école', central: true, motifs: ['uniformes?', 'tenue (scolaire )?unique', 'blouses? (a l|d) ecole'] },
+  sixieme_rep: { label: 'VIe République et constituante', central: true, motifs: ['(6e|6eme|sixieme|vie) republique', 'assemblee constituante', 'constituante'] },
+  suede: { label: 'La Suède et la violence', central: true, motifs: ['suede', 'suedois\\w*', 'stockholm', 'malmo'] },
   // fiches quotidiennes (7 novembre 2026, passage de 20 h 15)
   legitime_defense: { label: 'Légitime défense', central: true, motifs: ['legitime defense', 'se defendre chez (soi|lui|moi|nous|eux)', '(droit|le droit) de se defendre', 'cambrio\\w*', 'defendre (sa|ma|notre|leur) (maison|famille|domicile)'] },
   autoroutes: { label: 'Autoroutes et péages', central: true, motifs: ['autoroutes?', 'peages?', 'concessions? autoroutieres?'] },
@@ -183,6 +198,8 @@ export const CA_DOMAINES = {
   climat_migrations: ['ecologie', 'immigration'], chine_climat: ['ecologie', 'international'], premier_parti: ['politique'], deputes_indemnite: ['politique'], peines_planchers: ['securite'],
   banlieues: ['social'], carburant: ['economie', 'ecologie'], creches_noel: ['droits'], c8_arcom: ['politique'], trente_cinq: ['social'], refus_obtemperer: ['securite'],
   electricite_marche: ['ecologie', 'economie'], violences_policieres: ['securite'], musulmans_nombre: ['immigration', 'droits'], peine_mort: ['securite'], subventions: ['economie'], octobre_1961: ['international'], retraites_niveau: ['social'],
+  rocard: ['immigration'], centenaires: ['social'], profs_temps: ['services'], vote_etrangers: ['politique', 'immigration'], racisme_blanc: ['immigration', 'droits'], excuse_minorite: ['securite'],
+  smic_europe: ['economie', 'social'], neonics: ['ecologie'], bassines: ['ecologie'], lfi_poutine: ['politique', 'international'], abaya: ['droits', 'services'], uniforme: ['services'], sixieme_rep: ['politique'], suede: ['international', 'securite'],
 };
 
 // ─── Arguments ─────────────────────────────────────────────────────────────
@@ -190,6 +207,35 @@ export const CA_DOMAINES = {
 // signaux : formulations typiques (bonus) ; fiches : fiches qui répondent réellement, par ordre de pertinence ;
 // choisir : départage entre fiches selon des mots (facultatif) ; exclues : fiches voisines à ne PAS donner comme réponse.
 export const CA_ARGUMENTS = [
+  // fiches quotidiennes (8 novembre 2026, premier passage) — placées en tête : concepts très spécifiques
+  { id: 'rocard_misere', label: 'Rocard et « la misère du monde »', famille: 'Immigration et asile', tous: ['rocard'], fiches: ['rocard-misere-du-monde'],
+    implicite: 'Même un socialiste aurait justifié la fermeture.', verifier: 'La phrase complète que Michel Rocard a revendiquée et ce qu’il en disait en 2009.' },
+  { id: 'centenaires_etranger', label: 'Retraités centenaires à l’étranger', famille: 'Fraude sociale', tous: ['centenaires', 'retraite'], fiches: ['retraites-centenaires-algerie'],
+    implicite: 'Des milliers de retraités décédés toucheraient encore leur pension.', verifier: 'Le nombre réel de centenaires parmi les retraités vivant à l’étranger, selon la CNAV.' },
+  { id: 'profs_temps', label: 'Temps de travail des enseignants', famille: 'École et éducation', tous: ['profs_temps'], fiches: ['profs-18-heures'],
+    implicite: 'Les enseignants travailleraient très peu.', verifier: 'Les enquêtes du ministère sur le temps de travail déclaré des enseignants.' },
+  { id: 'vote_etrangers', label: 'Droit de vote des étrangers', famille: 'Programmes politiques', tous: ['vote_etrangers', 'immigration'], fiches: ['droit-vote-etrangers'],
+    implicite: 'La gauche voudrait faire voter les étrangers à toutes les élections.', verifier: 'Le texte voté par le Sénat en 2011, limité aux municipales.' },
+  { id: 'racisme_blanc', label: 'Racisme « anti-blanc »', famille: 'Racisme et discriminations', tous: ['racisme_blanc'], fiches: ['racisme-anti-blanc'],
+    implicite: 'Le racisme viserait surtout les Blancs.', verifier: 'Les enquêtes Trajectoires et Origines de l’Insee et de l’Ined.' },
+  { id: 'excuse_minorite', label: 'Excuse de minorité', famille: 'Sécurité et justice', tous: ['excuse_minorite'], fiches: ['excuse-de-minorite'],
+    implicite: 'Les mineurs seraient de plus en plus jeunes, violents et impunis.', verifier: 'La part des mineurs parmi les mis en cause et la décision du Conseil constitutionnel de juin 2025.' },
+  { id: 'smic_europe', label: 'Le SMIC en Europe', famille: 'Emploi et salaires', tous: ['smic_europe'], fiches: ['smic-europe-classement'],
+    implicite: 'Le SMIC français serait parmi les plus élevés d’Europe.', verifier: 'Le classement Eurostat en euros et par rapport au salaire médian.' },
+  { id: 'neonics', label: 'Néonicotinoïdes', famille: 'Écologie et agriculture', tous: ['neonics'], fiches: ['neonicotinoides-agriculteurs'],
+    implicite: 'L’interdiction des néonicotinoïdes ruinerait l’agriculture.', verifier: 'Les alternatives recensées par l’Anses et l’INRAE, et les filières réellement en impasse.' },
+  { id: 'bassines', label: 'Mégabassines', famille: 'Écologie et agriculture', tous: ['bassines'], fiches: ['megabassines-agriculture'],
+    implicite: 'Les réserves d’eau seraient indispensables à toute l’agriculture.', verifier: 'L’avis de l’Académie d’agriculture et les décisions de justice sur les volumes.' },
+  { id: 'lfi_poutine', label: 'LFI et la Russie', famille: 'Discours politiques et contradictions', tous: ['lfi_poutine'], fiches: ['lfi-pro-poutine'],
+    implicite: 'LFI soutiendrait Vladimir Poutine.', verifier: 'Les déclarations de mars 2022 et les votes sur les textes de soutien à l’Ukraine.' },
+  { id: 'abaya_ecole', label: 'Abaya et laïcité à l’école', famille: 'Religions et laïcité', tous: ['abaya'], fiches: ['abaya-laicite-ecole'],
+    implicite: 'Les tenues religieuses envahiraient l’école.', verifier: 'Les signalements d’atteintes à la laïcité rapportés au nombre d’élèves.' },
+  { id: 'uniforme_ecole', label: 'Uniforme à l’école', famille: 'École et éducation', tous: ['uniforme'], fiches: ['uniforme-ecole-discipline'],
+    implicite: 'L’uniforme réglerait la discipline.', verifier: 'Le bilan de l’expérimentation publié en 2026 et les études étrangères.' },
+  { id: 'sixieme_rep', label: 'VIe République', famille: 'Institutions et démocratie', tous: ['sixieme_rep'], fiches: ['lfi-sixieme-republique'],
+    implicite: 'La VIe République de LFI menacerait les institutions.', verifier: 'Le programme de LFI et du NFP : assemblée constituante et référendum.' },
+  { id: 'suede_violence', label: 'La Suède et la violence', famille: 'Immigration et criminalité', tous: ['suede', 'delinquance'], fiches: ['suede-violence-immigration'],
+    implicite: 'La Suède aurait sombré à cause de l’immigration.', verifier: 'Les statistiques de la police suédoise et de Brå sur les homicides et les fusillades.' },
   // fiches quotidiennes (7 novembre 2026, passage de 12 h)
   { id: 'lois_bruxelles', label: 'Part des lois décidées à Bruxelles', famille: 'Europe et souveraineté', tous: ['lois_bruxelles'], fiches: ['lois-bruxelles-80-pourcent'],
     implicite: 'L’essentiel des lois françaises serait décidé par l’Union européenne.', verifier: 'L’origine du chiffre de 80 % et les études qui ont réellement compté.' },

@@ -1,0 +1,174 @@
+{
+  "id": "limitation-80-kmh",
+  "type": "idee_recue",
+  "affirmation": "La limitation à 80 km/h n'a servi à rien.",
+  "volet": "securite",
+  "sous_theme": "Prévention et politiques publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "80 km h",
+    "80 kmh",
+    "quatre vingt km h",
+    "limitation de vitesse",
+    "retour a 90",
+    "90 km h",
+    "routes departementales",
+    "securite routiere"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'évaluation officielle du Cerema estime à 349 le nombre de vies épargnées pendant les 20 premiers mois de la mesure. Le nombre d'accidents n'a pas baissé, mais leur gravité oui. Sur les routes repassées à 90 km/h, la mortalité a moins baissé que sur celles restées à 80 km/h.",
+  "contexte": "La mesure de 2018 a été très impopulaire, notamment dans les zones rurales ; depuis 2020, de nombreux départements sont revenus à 90 km/h.",
+  "explication": "À vitesse plus faible, la distance de freinage et la violence des chocs diminuent. Même si le nombre d'accidents ne change pas, ils sont moins souvent mortels.",
+  "faits": [
+    {
+      "fait": "L'évaluation officielle conclut à « 349 vies épargnées les 20 premiers mois de la mesure », par rapport à la moyenne 2013-2017.",
+      "periode": "2018-2020",
+      "perimetre": "France, routes hors agglomération",
+      "explication": "La mesure a sauvé des vies.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "349 vies"
+    },
+    {
+      "fait": "La baisse de la mortalité est d'environ 12 % par rapport au reste du réseau, et la vitesse moyenne baisse de 3,3 km/h.",
+      "periode": "2018-2019",
+      "perimetre": "France",
+      "explication": "L'effet est mesuré par comparaison avec les autres routes.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "-12 %"
+    },
+    {
+      "fait": "Le nombre d'accidents ne change pas, mais leur gravité baisse : de 15,2 à 13,7 tués pour 100 accidents.",
+      "periode": "2018-2020",
+      "perimetre": "France",
+      "explication": "La mesure réduit la gravité, pas le nombre d'accidents.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "15,2 à 13,7"
+    },
+    {
+      "fait": "Entre 2013-2017 et 2021, la mortalité baisse de 21,3 % sur les routes restées à 80 km/h, contre 16,0 % sur celles repassées à 90 km/h.",
+      "periode": "2013-2021",
+      "perimetre": "France",
+      "explication": "Le retour à 90 km/h coûte des vies.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "21,3 % contre 16,0 %"
+    },
+    {
+      "fait": "Le temps de trajet augmente d'environ une seconde par kilomètre.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Le coût en temps est faible.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "1 s/km"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : l'évaluation officielle estime que le 80 km/h a épargné 349 vies en 20 mois. Les routes repassées à 90 km/h ont vu leur mortalité baisser moins vite. Le temps perdu est d'environ une seconde par kilomètre.",
+    "moyen": "Le Cerema a comparé les routes passées à 80 km/h au reste du réseau : 349 vies épargnées sur les 20 premiers mois. Il y a autant d'accidents, mais ils tuent moins.\n\nDepuis, une partie des départements est revenue à 90 km/h. Sur ces routes, la mortalité a moins baissé que sur celles restées à 80 km/h. On peut critiquer la manière dont la mesure a été imposée, mais pas dire qu'elle n'a servi à rien.",
+    "detaille": "L'évaluation menée par le Cerema pour la Sécurité routière conclut à 349 vies épargnées entre juillet 2018 et février 2020, par rapport à la moyenne 2013-2017. La mortalité y a baissé d'environ 12 % de plus que sur le reste du réseau, et la vitesse moyenne de 3,3 km/h, mesurée sur 143 millions de passages.\n\nLe nombre d'accidents n'a pas baissé : c'est leur gravité qui diminue (13,7 tués pour 100 accidents contre 15,2). Le temps de trajet supplémentaire est d'environ une seconde par kilomètre, et le bilan socio-économique est estimé positif d'environ 700 millions d'euros par an.\n\nAprès 2020, 44 départements ont relevé environ 51 000 km de routes à 90 km/h. Sur ces routes, la mortalité a baissé de 16 % entre 2013-2017 et 2021, contre 21,3 % sur celles restées à 80 km/h. L'ONISR estime entre 42 et 74 le nombre de morts supplémentaires en 2021.",
+    "empathie": "Je comprends que la mesure ait été vécue comme imposée d'en haut, surtout quand on vit à la campagne et qu'on fait beaucoup de route. Mais les évaluations sont claires : elle a sauvé des centaines de vies, pour une seconde de plus par kilomètre."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La mortalité baisse partout, ce n'est pas grâce au 80.",
+      "reponse": "L'évaluation compare précisément les routes à 80 avec le reste du réseau : la baisse y est plus forte."
+    },
+    {
+      "objection": "C'est juste pour les radars.",
+      "reponse": "Le temps perdu est d'une seconde par kilomètre, et la mortalité a moins baissé là où on est revenu à 90."
+    }
+  ],
+  "questions": [
+    "Combien de temps perds-tu vraiment sur un trajet de 30 km à 80 au lieu de 90 ?",
+    "Sais-tu ce qui s'est passé sur les routes revenues à 90 km/h ?"
+  ],
+  "limites": [
+    "Les évaluations datent de 2020 à 2022.",
+    "Les auteurs reconnaissent des limites de méthode (périmètre, groupes de comparaison, crise sanitaire)."
+  ],
+  "sources": [
+    {
+      "titre": "Limitation de vitesse à 80 km/h sur les routes hors agglomération sans séparation centrale",
+      "organisme": "Observatoire national interministériel de la sécurité routière (évaluation Cerema-ONISR)",
+      "date_publication": "20 juillet 2020, mis à jour le 14 août 2020",
+      "url": "https://www.onisr.securite-routiere.gouv.fr/etudes-et-recherches/evaluation/evaluation-des-mesures/limitation-de-vitesse-a-80-kmh-sur-les-routes-hors-agglomeration-sans-separation-centrale",
+      "passage": "L'évaluation conclut à « 349 vies épargnées les 20 premiers mois de la mesure » (juillet 2018 à février 2020), par rapport à la moyenne 2013-2017. Les voitures roulent en moyenne 3,5 km/h moins vite. Le nombre d'accidents ne change pas, mais leur gravité baisse : de 15,2 à 13,7 tués pour 100 accidents. Le bilan socio-économique est d'environ +700 M€ par an.",
+      "pertinence": "Évaluation officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Lowering of the maximum authorised speed to 80 km/h – Final assessment report",
+      "organisme": "Cerema",
+      "date_publication": "20 juillet 2020",
+      "url": "https://www.cerema.fr/en/node/7630",
+      "passage": "Sur 18 mois, le réseau concerné compte 331 tués de moins que la référence 2013-2017, 349 en ajoutant janvier et février 2020 ; la baisse est d'environ 12 % par rapport au reste du réseau. La vitesse moyenne baisse de 3,3 km/h (143 millions de passages mesurés) ; le temps de trajet augmente d'environ 1 seconde par kilomètre. En décembre 2019, 58 % des conducteurs de véhicules légers dépassaient encore 80 km/h.",
+      "pertinence": "Établissement public d'expertise.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Le relèvement de la vitesse maximale autorisée à 90 km/h (synthèse)",
+      "organisme": "ONISR / Délégation à la sécurité routière",
+      "date_publication": "mise à jour au 26 octobre 2022",
+      "url": "https://www.onisr.securite-routiere.gouv.fr/sites/default/files/2022-12/2022_ONISR_Synthese%20de%20l%20impact%20du%20relevement%20de%20la%20VMA%20%C3%A0%2090kmh.pdf",
+      "passage": "Entre la référence 2013-2017 et 2021, la mortalité baisse de 21,3 % sur les routes restées à 80 km/h, contre 16,0 % sur celles repassées à 90 km/h. L'ONISR estime à 42 le nombre de tués supplémentaires en 2021, voire 74 en tenant compte des dates de relèvement. Au 26 octobre 2022, 44 départements avaient relevé environ 51 000 km de routes.",
+      "pertinence": "Évaluation officielle.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles évaluations de l'ONISR.",
+  "objections_legitimes": [
+    "Le nombre d'accidents n'a pas baissé.",
+    "La mesure a été imposée sans concertation et mal vécue dans les zones rurales.",
+    "Les méthodes d'évaluation ont des limites reconnues par les auteurs."
+  ],
+  "publics": {
+    "convaincus": "On peut trouver que la mesure a été imposée d'en haut, et c'est un vrai reproche. Mais les comptages sont là : 349 vies épargnées en 20 mois, et une mortalité qui baisse moins vite là où les départements sont revenus à 90. Tout ça pour une seconde par kilomètre.",
+    "indecis": "La mesure a été mal vécue, surtout en zone rurale. Les évaluations officielles montrent pourtant moins de morts sur les routes à 80 km/h, sans baisse du nombre d'accidents. Le débat porte sur la méthode, pas sur l'efficacité."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "services_publics",
+      "democratie"
+    ],
+    "mecanismes": "Une baisse de vitesse réduit la violence des chocs : la politique publique protège des vies anonymes, rarement visibles.",
+    "consequences": "Les victimes de la route sont souvent des habitants des zones rurales, les plus exposés aux routes secondaires.",
+    "democratie": "Une mesure utile imposée sans concertation nourrit le rejet ; l’efficacité ne dispense pas du dialogue.",
+    "propositions": [
+      "Associer les territoires aux décisions de sécurité routière.",
+      "Investir dans les transports collectifs en zone rurale."
+    ],
+    "defavorables": [
+      {
+        "fait": "La mesure a été imposée sans concertation et le nombre d’accidents n’a pas baissé.",
+        "integration": "Le reconnaître, en rappelant la baisse de la mortalité mesurée."
+      }
+    ]
+  },
+  "concepts": [
+    "delinquance"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ]
+}

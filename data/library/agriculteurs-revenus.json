@@ -115,6 +115,10 @@
     "vivent de l etat",
     "argent public"
   ],
+  "publics": {
+    "convaincus": "Selon l'Insee, les ménages agricoles sont plus souvent pauvres que la moyenne (18,1 % contre 15,1 %), et un exploitant sur six déclare un revenu nul ou négatif certaines années. La retraite moyenne d'un ancien exploitant tourne autour de 840 €. Dire qu'ils vivent tous très bien, c'est ignorer ceux qui n'arrivent pas à se payer.",
+    "indecis": "Les agriculteurs ont souvent un patrimoine professionnel important, mais ce n'est pas un revenu disponible. Leurs revenus sont très inégaux, et beaucoup vivent mal : taux de pauvreté plus élevé que la moyenne, petites retraites. Le débat porte sur la répartition des aides et sur les prix payés aux producteurs."
+  },
   "concepts": [
     "pauvrete",
     "ecologie",

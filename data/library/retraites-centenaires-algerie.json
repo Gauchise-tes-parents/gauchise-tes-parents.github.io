@@ -1,0 +1,195 @@
+{
+  "id": "retraites-centenaires-algerie",
+  "type": "idee_recue",
+  "affirmation": "Des milliers de retraités centenaires fantômes à l'étranger, notamment en Algérie, touchent encore leur pension.",
+  "volet": "social",
+  "sous_theme": "Fraude sociale",
+  "rubriques": [],
+  "mots_cles": [
+    "centenaires",
+    "retraites fantomes",
+    "centenaires algeriens",
+    "retraites en algerie",
+    "pensions a l etranger",
+    "certificat d existence",
+    "retraites morts",
+    "fraude aux pensions"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Il y avait fin 2023 environ 1 000 centenaires parmi les 337 000 retraités du régime général résidant en Algérie, soit 0,3 %, et non des milliers de « fantômes ». La proportion de centenaires y est proche de celle observée en France. La fraude aux décès non déclarés existe et les contrôles ont des failles, mais les missions de contrôle n'ont trouvé que peu de cas.",
+  "contexte": "La rumeur revient régulièrement depuis un rapport de la Cour des comptes de 2010 ; elle a été relayée en 2024 sur des médias nationaux.",
+  "explication": "Les retraités qui ont travaillé en France et vivent ailleurs touchent la pension pour laquelle ils ont cotisé. Ils doivent envoyer chaque année des certificats d'existence ; un décès non déclaré peut prolonger indûment le versement.",
+  "faits": [
+    {
+      "fait": "Selon Les Surligneurs, au 31 décembre 2023, la CNAV compte environ 337 183 pensionnés résidant en Algérie, pour une pension moyenne de 262 € par mois, dont 1 018 centenaires (0,3 %).",
+      "periode": "2023",
+      "perimetre": "Algérie",
+      "explication": "On est loin de « milliers de fantômes ».",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 018 centenaires"
+    },
+    {
+      "fait": "Selon CNAV, Fin 2020, les centenaires représentent 0,17 % des retraités du régime général vivant en Algérie, contre 0,12 % en France ; l'écart s'explique en partie par le creux des naissances en France pendant la Première Guerre mondiale.",
+      "periode": "2020",
+      "perimetre": "Algérie et France",
+      "explication": "L'écart est faible et en partie démographique.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "0,17 % contre 0,12 %"
+    },
+    {
+      "fait": "En 2009, le taux de centenaires parmi les retraités vivant en Algérie était même « très légèrement inférieur » à celui de France (0,096 % contre 0,097 %).",
+      "periode": "2009",
+      "perimetre": "Algérie et France",
+      "explication": "Le gouvernement réfutait déjà la rumeur.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon CNAV, la CNAV reconnaît que la mortalité de ces retraités peut être « légèrement sous-estimée » à cause de décès non déclarés.",
+      "periode": "2021",
+      "perimetre": "Algérie",
+      "explication": "Il y a bien des décès non déclarés.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Lors de contrôles menés entre 2019 et 2022 sur 2 500 dossiers de retraités à l'étranger, 2,27 % des documents n'étaient pas conformes, selon la Cour des comptes.",
+      "periode": "2019-2022",
+      "perimetre": "Retraités résidant hors de France",
+      "explication": "La fraude existe, mais reste minoritaire.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "2,27 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : fin 2023, il y avait environ 1 000 centenaires parmi 337 000 retraités du régime général vivant en Algérie, soit 0,3 %. La proportion est proche de celle de la France. Des fraudes existent, mais les contrôles en trouvent peu.",
+    "moyen": "La rumeur part d'un rapport de 2010, contesté depuis par l'administration. Les chiffres de la CNAV montrent environ 1 000 centenaires parmi les retraités vivant en Algérie, qui touchent en moyenne 262 € par mois. La part de centenaires y est proche de celle de France.\n\nDes décès ne sont pas toujours déclarés, et la Cour des comptes demande plus de contrôles : c'est un vrai sujet. Mais ces retraités ont cotisé en France, souvent pendant des décennies, et l'immense majorité sont bien vivants.",
+    "detaille": "Fin 2023, environ 337 000 retraités du régime général résidaient en Algérie, avec une pension moyenne de 262 € par mois. Parmi eux, 1 018 centenaires, soit 0,3 %. En 2020, la CNAV comptait 0,17 % de centenaires parmi ces retraités, contre 0,12 % en France, un écart en partie lié au creux des naissances en France pendant la Grande Guerre. En 2009, le taux était même légèrement inférieur à celui de France.\n\nLa fraude existe : faux actes d'état civil relevés dans une commune par la Cour des comptes, décès non déclarés que la CNAV elle-même reconnaît. Sur des contrôles de 2 500 dossiers entre 2019 et 2022, 2,27 % des documents n'étaient pas conformes. La Cour recommande plus d'échanges d'état civil, et la biométrie est expérimentée depuis 2024.\n\nCes retraités sont d'anciens travailleurs immigrés qui ont cotisé en France. Lutter contre la fraude est légitime ; présenter tous ces retraités comme des « fantômes » ne l'est pas.",
+    "empathie": "C'est normal d'être choqué à l'idée que des morts touchent une pension. Les contrôles doivent être sérieux. Mais les chiffres montrent quelques centaines de cas possibles, pas des milliers."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La Cour des comptes l'a dit en 2010.",
+      "reponse": "Ce rapport a été contesté par l'administration, et les chiffres officiels ultérieurs montrent une part de centenaires proche de celle de France."
+    },
+    {
+      "objection": "Ils n'ont rien cotisé.",
+      "reponse": "Ils touchent la retraite des années travaillées en France ; la pension moyenne de 262 € reflète souvent des carrières incomplètes."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien touche en moyenne un retraité du régime général vivant en Algérie ?",
+    "Ne vaut-il pas mieux renforcer les contrôles que soupçonner tout le monde ?"
+  ],
+  "limites": [
+    "Le rapport de la Cour des comptes de 2025 n'a été lu qu'à travers un résumé.",
+    "Le montant total de la fraude n'est pas établi par une source lue."
+  ],
+  "sources": [
+    {
+      "titre": "Non, il n'y a pas des dizaines de milliers de faux centenaires retraités français en Algérie",
+      "organisme": "Les Surligneurs (Clara Robert-Motta)",
+      "date_publication": "28 novembre 2024",
+      "url": "https://lessurligneurs.eu/non-il-ny-a-pas-des-dizaines-de-milliers-de-faux-centenaires-retraites-francais-en-algerie/",
+      "passage": "La rumeur vient d'un rapport de la Cour des comptes d'avril 2010, que la Direction de la Sécurité sociale a contesté en 2018. Au 31 décembre 2023, la CNAV compte environ 337 183 pensionnés du régime général résidant en Algérie, pour une pension moyenne de 262 € par mois, dont 1 018 centenaires (0,3 %). La Cour avait relevé de faux actes d'état civil pour 8 prestataires sur 111 dans une commune contrôlée ; les missions de la CNAV en Algérie en 2012 et 2016 ont détecté très peu de fraudes. La biométrie est expérimentée depuis juin 2024 pour les certificats d'existence.",
+      "pertinence": "Site de vérification juridique animé par des universitaires.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Structure et mortalité des retraités d'Algérie (étude 2020-039)",
+      "organisme": "CNAV, direction statistiques, prospective et recherche (Marie Ménard)",
+      "date_publication": "19 juillet 2021",
+      "url": "https://statistiques-recherche.lassuranceretraite.fr/app/uploads/2021/10/structure-et-mortalite-des-retraites-d-Algerie-2021-039_demographie.pdf",
+      "passage": "358 065 retraités du régime général résident en Algérie au 31 décembre 2020 (2,5 % du total), contre environ 440 000 en 2010. Les centenaires représentent 0,17 % de ces retraités, contre 0,12 % en France, écart en partie dû au creux des naissances en France pendant la Première Guerre mondiale. L'étude admet une mortalité « légèrement sous-estimée » à cause de décès non déclarés, sans remettre en cause ses résultats.",
+      "pertinence": "Étude statistique de la caisse nationale d'assurance vieillesse.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 1690 et réponse du ministère des Affaires sociales et de la Santé",
+      "organisme": "Assemblée nationale (14e législature)",
+      "date_publication": "réponse publiée au JO le 27 novembre 2012",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE1690.pdf",
+      "passage": "Au 31 mars 2009, 438 351 retraités résidant en Algérie percevaient une pension de la CNAV, dont 421 centenaires ; le taux de centenaires y est « très légèrement inférieur » à celui de France (0,096 % contre 0,097 %). Les caisses demandent une à quatre attestations d'existence par an et suspendent la pension en cas de fausse attestation.",
+      "pertinence": "Réponse ministérielle officielle (données 2009).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Un rapport officiel met en garde contre des failles dans les pensions des retraités résidant hors de France",
+      "organisme": "Conseil de la communauté marocaine à l'étranger (résumé d'un rapport de la Cour des comptes)",
+      "date_publication": "26 novembre 2025",
+      "url": "https://www.ccme.org.ma/un-rapport-officiel-met-en-garde-contre-des-failles-dans-les-pensions-des-retraites-residant-hors-de-france",
+      "passage": "Environ 1,1 million de retraités du régime général et 800 000 du régime complémentaire résident à l'étranger (7 % des affiliés), dont 31 % en Algérie ; les montants versés sont de 3,9 milliards d'euros par an pour le régime général. Lors de contrôles menés entre 2019 et 2022 sur 2 500 dossiers, 2,27 % des documents n'étaient pas conformes. La Cour recommande davantage d'échanges d'état civil et de contrôles physiques.",
+      "pertinence": "Résumé, par un organisme public marocain, d'un rapport de la Cour des comptes non lu directement.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de la CNAV et généralisation de la biométrie.",
+  "objections_legitimes": [
+    "Des décès ne sont pas déclarés et la CNAV le reconnaît.",
+    "La Cour des comptes pointe des failles dans les contrôles à l'étranger."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres officiels comptent environ 1 000 centenaires sur 337 000 retraités vivant en Algérie, une proportion proche de celle de la France. Il y a des fraudes, et il faut les traquer. Mais ces retraités ont travaillé et cotisé ici, et la plupart touchent quelques centaines d'euros.",
+    "indecis": "La fraude aux décès non déclarés existe, et la Cour des comptes demande plus de contrôles. Mais l'ordre de grandeur est faible : environ 0,3 % de centenaires, et 2,27 % de documents non conformes lors des contrôles. Le vrai sujet, c'est la qualité des contrôles, pas une invasion de « fantômes »."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "egalite",
+      "travailleurs"
+    ],
+    "mecanismes": "Une anomalie ancienne, contestée par l’administration, est transformée en fraude massive. Elle vise d’anciens travailleurs immigrés qui ont cotisé en France.",
+    "consequences": "Des retraités modestes sont soupçonnés collectivement, et les contrôles se durcissent sans distinguer fraudeurs et ayants droit.",
+    "democratie": "Lutter contre la fraude suppose des chiffres exacts, pas des rumeurs qui désignent une nationalité.",
+    "propositions": [
+      "Renforcer les échanges d’état civil entre pays et les contrôles d’existence, sans suspendre les droits par principe.",
+      "Publier régulièrement les résultats des contrôles."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des décès non déclarés et de faux documents existent, et la Cour des comptes pointe des failles.",
+        "integration": "Le dire, et rappeler que l’ordre de grandeur est sans rapport avec la rumeur."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "prestations",
+    "fraude",
+    "retraite",
+    "algerie",
+    "centenaires"
+  ],
+  "repond_a": [
+    {
+      "id": "centenaires_etranger",
+      "label": "Retraités centenaires à l’étranger"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat"
+  ]
+}

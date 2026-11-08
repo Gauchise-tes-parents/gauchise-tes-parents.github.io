@@ -1,0 +1,160 @@
+{
+  "id": "mineurs-transition-genre",
+  "type": "idee_recue",
+  "affirmation": "En France, on fait changer de sexe des enfants.",
+  "volet": "droits",
+  "sous_theme": "Droits des personnes LGBT",
+  "rubriques": [],
+  "mots_cles": [
+    "changer de sexe",
+    "changement de sexe enfants",
+    "transition de genre mineurs",
+    "enfants trans",
+    "bloqueurs de puberte",
+    "operation de sexe",
+    "theorie du genre",
+    "transidentite"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Aucune chirurgie génitale n'est recensée chez les mineurs dans les données du Sénat. Des adolescents, quelques centaines, reçoivent des traitements (bloqueurs de puberté vers 14 ans, hormones vers 17 ans) après un suivi spécialisé, et quelques torsoplasties ont lieu à 16-17 ans. Le nombre de mineurs pris en charge a fortement augmenté, et les experts reconnaissent l'absence de consensus.",
+  "contexte": "Le sujet circule à partir d'exemples étrangers et d'une proposition de loi sénatoriale de 2024 visant à interdire les traitements avant 18 ans.",
+  "explication": "La transition peut être sociale (prénom, vêtements), médicale (bloqueurs de puberté, hormones) ou chirurgicale. Dans les données lues, les traitements médicaux concernent des adolescents suivis par des équipes hospitalières spécialisées.",
+  "faits": [
+    {
+      "fait": "Sur 1 615 séjours hospitaliers codés « transsexualisme » en 2020, 48 concernaient des mineurs, dont aucun pour une chirurgie pelvienne.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Aucune chirurgie génitale de mineur n'est recensée.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "0"
+    },
+    {
+      "fait": "En 2020, 294 mineurs étaient en affection de longue durée « transidentité », contre 8 en 2013.",
+      "periode": "2013-2020",
+      "perimetre": "France",
+      "explication": "Les effectifs sont faibles mais en forte hausse.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "294"
+    },
+    {
+      "fait": "Dans un service parisien de référence, sur 239 jeunes reçus entre 2012 et 2022, 11 % ont reçu des bloqueurs de puberté (âge moyen 13,9 ans), 44 % des hormones (âge moyen 16,9 ans) et 30 une torsoplastie (âge moyen 18,4 ans, le plus jeune 16 ans).",
+      "periode": "2012-2022",
+      "perimetre": "Paris",
+      "explication": "Des traitements existent, à l'adolescence, pas chez les enfants.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La Haute Autorité de santé a publié en 2025 des recommandations pour les adultes ; les mineurs font l'objet de travaux séparés.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Il n'existe pas encore de recommandation officielle pour les mineurs.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : aucune chirurgie génitale de mineur n'est recensée en France. Quelques centaines d'adolescents reçoivent des traitements, suivis par des équipes spécialisées. Leur nombre augmente, et le sujet mérite un débat médical serein.",
+    "moyen": "Les traitements médicaux recensés concernent des adolescents suivis à l'hôpital : bloqueurs de puberté vers 14 ans en moyenne, hormones vers 17 ans. Sur 48 séjours hospitaliers de mineurs en 2020, aucun ne concernait une chirurgie génitale.\n\nLes effectifs ont fortement augmenté (294 mineurs en affection de longue durée en 2020, contre 8 en 2013), et la Haute Autorité de santé prépare des recommandations. C'est un débat médical légitime, qui n'a rien à voir avec l'image d'enfants opérés.",
+    "detaille": "Selon le rapport du Sénat de 2024, 294 mineurs étaient en affection de longue durée pour transidentité en 2020, soit 3,3 % des bénéficiaires, contre 8 en 2013. Sur 1 615 séjours hospitaliers liés à la transidentité, 48 concernaient des mineurs, et aucun pour une chirurgie génitale.\n\nDans le service de référence de la Pitié-Salpêtrière, sur 239 jeunes reçus entre 2012 et 2022, 26 ont reçu des bloqueurs de puberté (âge moyen 13,9 ans), 105 des hormones (âge moyen 16,9 ans), et 30 une ablation des seins (torsoplastie), à 18,4 ans en moyenne, la plus jeune personne ayant 16 ans. Les chirurgies génitales n'y ont concerné que des majeurs.\n\nCes traitements existent et suscitent un vrai débat : la Haute Autorité de santé reconnaît l'absence de consensus pour les mineurs et y consacre des travaux à part. Une proposition de loi de la droite sénatoriale voulait interdire hormones et chirurgie avant 18 ans ; la gauche et les associations la jugent transphobe. On peut débattre de la prudence nécessaire sans faire croire qu'on opère des enfants.",
+    "empathie": "C'est normal de s'inquiéter pour des adolescents qui prennent des décisions lourdes. Mais les données disponibles ne recensent aucune chirurgie génitale de mineur : les traitements concernent quelques centaines d'adolescents suivis par des équipes spécialisées."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est à cause de l'école et de la théorie du genre.",
+      "reponse": "Les sources lues ne montrent aucun lien ; la prise en charge médicale se fait dans des services hospitaliers spécialisés."
+    },
+    {
+      "objection": "On opère des enfants de 10 ans.",
+      "reponse": "Dans le service de référence étudié par le Sénat, la plus jeune personne opérée (torsoplastie) avait 16 ans, et les chirurgies génitales n'ont concerné que des majeurs."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de mineurs ont eu une chirurgie génitale en France en 2020 ?",
+    "Qui est le mieux placé pour fixer les règles : des autorités médicales, ou une loi générale ?"
+  ],
+  "limites": [
+    "Les données nationales sur les bloqueurs et les hormones chez les mineurs ne sont pas disponibles ; les chiffres détaillés viennent d'un seul service.",
+    "Les données d'affection de longue durée datent de 2020."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport n° 622 (2023-2024) sur la proposition de loi visant à encadrer les pratiques médicales chez les mineurs en questionnement de genre",
+      "organisme": "Sénat, commission des affaires sociales (rapporteur Alain Milon)",
+      "date_publication": "22 mai 2024",
+      "url": "https://senat.fr/rap/l23-622/l23-6221.pdf",
+      "passage": "En 2020, 294 mineurs sur 8 952 bénéficiaires étaient en affection de longue durée « transidentité » (3,3 %). Sur 1 615 séjours hospitaliers codés « transsexualisme », 48 concernaient des mineurs, dont aucun pour une chirurgie pelvienne. Dans le service de la Pitié-Salpêtrière, sur 239 jeunes reçus entre 2012 et 2022, 26 (11 %) ont reçu des bloqueurs de puberté (âge moyen 13,9 ans), 105 (44 %) des hormones (âge moyen 16,9 ans) et 30 une torsoplastie (âge moyen 18,4 ans, le plus jeune 16 ans) ; les chirurgies pelviennes n'y ont concerné que des majeurs.",
+      "pertinence": "Rapport parlementaire (porté par la droite sénatoriale).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Transidentité : le Sénat examine la proposition de loi LR visant à encadrer la transition de genre des mineurs",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "28 mai 2024",
+      "url": "https://www.publicsenat.fr/actualites/societe/transidentite-les-senateurs-examinent-la-proposition-de-loi-lr-visant-a-encadrer-la-transition-de-genre-des-mineurs",
+      "passage": "La proposition de loi interdit les hormones et la chirurgie de réassignation avant 18 ans ; en commission, les bloqueurs de puberté ont été réautorisés dans des centres de référence. Les mineurs en affection de longue durée sont passés de 8 en 2013 à 294 en 2020. La gauche et les associations jugent le texte transphobe.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Transition de genre : la HAS publie les premières recommandations sur la prise en charge médicale de l'adulte",
+      "organisme": "Haute Autorité de santé",
+      "date_publication": "18 juillet 2025",
+      "url": "https://has-sante.fr/jcms/p_3636602/fr/transition-de-genre-la-has-publie-les-premieres-recommandations-sur-la-prise-en-charge-medicale-de-l-adulte",
+      "passage": "Les recommandations portent sur les personnes de 18 ans et plus ; les mineurs font l'objet de travaux séparés. Un peu plus de 22 000 personnes étaient en affection de longue durée pour « troubles de l'identité sexuelle » en 2023, tous âges confondus.",
+      "pertinence": "Autorité publique de santé.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Recommandations attendues de la Haute Autorité de santé pour les mineurs.",
+  "objections_legitimes": [
+    "Des traitements hormonaux et quelques torsoplasties concernent des mineurs.",
+    "Le nombre de mineurs pris en charge a fortement augmenté.",
+    "La Haute Autorité de santé reconnaît l'absence de consensus pour les mineurs."
+  ],
+  "publics": {
+    "convaincus": "En 2020, aucune chirurgie génitale de mineur n'a été recensée dans les séjours hospitaliers. Il s'agit de quelques centaines d'adolescents, suivis à l'hôpital, avec des traitements discutés entre médecins. On peut vouloir plus de prudence sans répandre des images fausses qui font souffrir ces jeunes et leurs familles.",
+    "indecis": "La question des traitements chez les adolescents est un vrai débat médical, et la Haute Autorité de santé prépare des recommandations. Mais les chiffres montrent quelques centaines de jeunes concernés, aucune chirurgie génitale de mineur, et des traitements à l'adolescence. Les cas sont rares et encadrés."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "libertes",
+      "vulnerables"
+    ],
+    "mecanismes": "Des cas rares et encadrés sont transformés en image d’enfants opérés, pour faire peur et attaquer les droits des personnes trans.",
+    "consequences": "Les adolescents concernés et leurs familles subissent la stigmatisation.",
+    "democratie": "Les décisions médicales doivent reposer sur des recommandations scientifiques, pas sur des paniques morales.",
+    "propositions": [
+      "Attendre et appliquer les recommandations de la Haute Autorité de santé.",
+      "Protéger les jeunes trans du harcèlement."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des traitements existent chez des adolescents, leur nombre augmente et il n’y a pas de consensus médical.",
+        "integration": "Le reconnaître, et défendre un débat médical serein."
+      }
+    ]
+  },
+  "concepts": [
+    "genre_ecole"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "theorie du genre",
+    "ideologie du genre",
+    "evars",
+    "education a la vie affective",
+    "cours d education sexuelle"
+  ]
+}

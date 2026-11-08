@@ -310,3 +310,101 @@ Les noms de deux victimes ont aussi été remplacés par une description, sauf d
 - affirmation « la France compte le plus de musulmans d'Europe » ;
 - rapport Mandelkern ;
 - dispositif d'hébergement des demandeurs d'asile.
+
+## 8 novembre 2026 — premier passage (00 h, UTC)
+
+**Questions testées : 25** (fichier passé dans `node scripts/verifier-couverture.mjs`). Une première liste de 29 phrases a été testée. Quatre ont été écartées : « l'immigration coûte des dizaines de milliards » (déjà traitée par `immigres-aides`), et trois phrases gardées en réserve faute de place (patrons du CAC 40, arrêts maladie des fonctionnaires, Taubira et la traite) ; elles pourront servir à un prochain passage.
+
+Sur les 25 questions retenues, 9 étaient signalées « LACUNE » et **16 étaient « couvertes » par une fiche voisine hors sujet**. Exemples : Rocard → `aider-tout-le-monde`, qui ne parle pas de la citation ; LFI pro-Poutine → `melenchon-crie` ; uniforme → `services-publics-moyens` ; racisme anti-blanc → `discriminations-embauche` ; Suède → `delinquance-principalement-immigration`. Elles ont été traitées comme des lacunes réelles (règle v12).
+
+1. La France ne peut pas accueillir toute la misère du monde, comme disait Michel Rocard.
+2. Des milliers de retraités centenaires fantômes à l'étranger touchent encore leur pension.
+3. Le Brexit a été un succès pour le Royaume-Uni.
+4. Orbán a réussi à relancer la natalité en Hongrie.
+5. Giorgia Meloni a stoppé l'immigration en Italie.
+6. La Suède a sombré dans la violence à cause de l'immigration.
+7. La gauche veut donner le droit de vote aux étrangers.
+8. Le racisme anti-blanc est devenu le racisme le plus répandu en France.
+9. Les francocides se multiplient : on tue des Français parce qu'ils sont français.
+10. Les mineurs délinquants sont de plus en plus jeunes, il faut supprimer l'excuse de minorité.
+11. La limitation à 80 km/h n'a servi à rien.
+12. La gauche dénonce le 49.3 mais c'est elle qui l'a le plus utilisé.
+13. Les travailleurs détachés font du dumping social.
+14. Le SMIC français est l'un des plus élevés d'Europe.
+15. On a déversé des milliards dans les banlieues pour rien.
+16. Les profs ne travaillent que 18 heures par semaine.
+17. Les cheminots partent à la retraite à 50 ans.
+18. Les abayas et les atteintes à la laïcité envahissent l'école.
+19. En France, on fait changer de sexe des enfants.
+20. L'uniforme à l'école réglerait les problèmes de discipline.
+21. Interdire les néonicotinoïdes tue nos agriculteurs.
+22. Les mégabassines sont indispensables pour l'agriculture.
+23. LFI est pro-Poutine.
+24. Le RN veut interdire certains postes aux binationaux.
+25. LFI veut une VIe République.
+
+**Fiches créées : 25.** Elles sont produites par le générateur `scripts/fiches/quotidien_20261108_0000.py`. Toutes ont un champ `publics` et une « lecture de gauche ». Chaque fiche repose sur au moins deux sources ouvertes et lues le 8 novembre 2026 :
+
+| Fiche | Verdict | Sources principales |
+|---|---|---|
+| `rocard-misere-du-monde` | trompeur | INA (2023) ; 3millions7, CFJ (2015) ; La Cimade (2016, témoignage) |
+| `retraites-centenaires-algerie` | trompeur | Les Surligneurs (2024) ; CNAV, étude 2020-039 (2021) ; réponse ministérielle AN (2012) ; résumé du rapport de la Cour des comptes par le CCME (2025) |
+| `brexit-succes` | contredit | Office for Budget Responsibility (2020 et 2026) ; YouGov (2026) ; ONS (2025) |
+| `hongrie-natalite-orban` | contredit | KSH, office statistique hongrois (2026) ; AFP via La Libre Belgique (2025) ; AEI (2025) |
+| `meloni-immigration-italie` | contredit | Ministère italien de l'Intérieur (2025) ; Istat (2025) ; Le Grand Continent (2026) ; Euronews (2025) |
+| `suede-violence-immigration` | trompeur | Police suédoise (janvier et juillet 2026) ; Brå (rapports 2021:8, 2021:9, 2026:10) |
+| `droit-vote-etrangers` | plutôt exact | Sénat, texte adopté n° 21 (2011) ; AN, rapport n° 2428 (2026) ; LCP (février 2026, deux articles) |
+| `racisme-anti-blanc` | contredit | Insee-Ined, Insee Première n° 1911 (TeO2, 2022-2023) ; Ined, TeO 2008 ; CNCDH (2026) |
+| `francocide-terme` | invérifiable | AFP via The Local (2023) ; Université de Liège (2024) ; Localtis d'après le SSMSI (2024) |
+| `excuse-de-minorite` | trompeur | Sénat, rapport n° 885 (2022) ; Public Sénat et LCP sur la décision du Conseil constitutionnel (2025) ; Infostat Justice n° 205 (2025) |
+| `limitation-80-kmh` | contredit | ONISR-Cerema (2020) ; Cerema, rapport final (2020) ; ONISR, synthèse du retour à 90 km/h (2022) |
+| `article-49-3-gauche` | plutôt exact | Public Sénat (2020) ; Assemblée nationale, fiche n° 64 ; Université de Lille (2023) ; programme du NFP (2024) |
+| `travailleurs-detaches-dumping` | trompeur | Dares Résultats n° 1 (2024) ; Parlement européen (2026) ; Sénat, rapport n° 599 (2017) |
+| `smic-europe-classement` | plutôt exact | Eurostat (janvier et juillet 2026) ; Insee Références (2026) |
+| `banlieues-milliards-politique-ville` | trompeur | Cour des comptes (2020 et 2026) ; AN, rapport n° 1014 sur la Seine-Saint-Denis (2018) |
+| `profs-18-heures` | trompeur | Décret n° 2014-940 (Légifrance) ; IH2EF d'après la DEPP (2022) ; Weka d'après la DEPP (2025) |
+| `cheminots-retraite-50-ans` | trompeur | COR, fiche CPRPF (2024) ; Public Sénat (2023 et 2024) ; DREES (2025) |
+| `abaya-laicite-ecole` | trompeur | Conseil d'État (2024) ; Public Sénat (2024) ; Courthouse News (2023) |
+| `mineurs-transition-genre` | trompeur | Sénat, rapport n° 622 (2024) ; Public Sénat (2024) ; Haute Autorité de santé (2025) |
+| `uniforme-ecole-discipline` | trompeur | Localtis sur le rapport de la DEPP (2026) ; AFP (2026) ; Ohio State University (2021) ; University of Houston (vers 2010) |
+| `neonicotinoides-agriculteurs` | trompeur | LCP (2025) ; Public Sénat (2025) ; Anses (2018) ; INRAE (2025) |
+| `megabassines-agriculture` | trompeur | Académie d'agriculture (2024) ; Localtis (2023) ; AFP via Terre-net (2025) |
+| `lfi-pro-poutine` | trompeur | Compte rendu AN du 1er mars 2022 ; communiqué de la délégation LFI au Parlement européen (2022, cité pour décrire son vote) ; LCP (2024) ; Public Sénat (2025) |
+| `rn-binationaux-postes` | confirmé | Public Sénat (2024) ; LCP (2024) ; Ined-Insee, TeO (2009) |
+| `lfi-sixieme-republique` | confirmé | L'Avenir en commun (2022) et contrat de législature du NFP (2024), cités pour décrire le programme ; Public Sénat (2019) |
+
+**Méthode.** La recherche documentaire a été répartie entre cinq agents de recherche. Chacun cherchait avec WebSearch puis lisait chaque page avec WebFetch. Seules les pages effectivement lues ont été retenues. Les chiffres viennent des passages lus.
+
+Pages qui n'ont pas pu être ouvertes, donc non citées : franceinfo (robots.txt, notamment sur le « francocide »), Libération CheckNews (centenaires), Vie publique (JavaScript), pages de la DEPP et du ministère de l'Éducation, pages de l'Ined sur TeO2, InfoMigrants et France 24. L'outil de lecture résume les pages : les citations entre guillemets sont courtes et pourraient être revérifiées mot à mot.
+
+Lors de la relecture, plusieurs affirmations non sourcées ont été retirées des fiches :
+- l'utilisation du 49.3 pour la réforme des retraites de 2023 et pour la loi Travail ;
+- la « division par deux » de la peine au titre de l'excuse de minorité ;
+- la circonstance aggravante du code pénal (fiches « francocide » et racisme) ;
+- l'accord des parents pour les traitements de mineurs trans ;
+- la baisse de fécondité dans toute l'Europe depuis 2021 ;
+- le nombre de quartiers prioritaires ;
+- le rôle des syndicats dans la dénonciation de la fraude au détachement ;
+- un jugement validant d'autres mégabassines ;
+- une estimation de fraude aux pensions tirée d'une question écrite d'un député RN, source écartée.
+
+**Reconnaissance des questions.**
+- `public/js/cartographie.js` reçoit 14 concepts et 14 arguments, placés en tête de la liste des arguments parce que leurs concepts sont très spécifiques. Les 25 questions mènent à leur fiche.
+- Variantes testées qui y mènent aussi : « Rocard disait qu'on ne peut pas accueillir toute la misère du monde », « Les centenaires algériens touchent nos retraites », « La justice des mineurs est trop laxiste », « Les profs sont tout le temps en vacances », « Remettons l'uniforme à l'école », « Mélenchon est copain avec Poutine », « Avec les bassines on vole l'eau des paysans ».
+- Comparaison avant/après sur 344 phrases de contrôle (affirmations de la bibliothèque, questions des passages précédents, phrases des tests) : seules les 14 questions visées changent de fiche.
+- Ajustements après les tests : « On peut pas accueillir toute la misère du monde », sans Rocard, doit rester sur `aider-tout-le-monde` (le concept Rocard ne repose plus que sur le nom). Les mots-clés trop généraux de la fiche abaya (« signes religieux », « voile à l'école ») ont été retirés pour laisser « La laïcité interdit les signes religieux dans la rue » à `laicite-loi-1905`. Les mots-clés « RIC » ont été retirés de la fiche VIe République : « Il faut un référendum d'initiative citoyenne » reste une lacune plutôt que d'être envoyé vers le programme de LFI. Les deux fiches LFI ne sont pas classées dans la rubrique « Mélenchon et LFI », réservée aux fiches en cinq parties.
+- `public/js/ligne-editoriale.js` : les organismes statistiques publics étrangers (ONS, OBR, Istat, KSH, Brå, police suédoise) et le Parlement européen sont désormais reconnus comme sources d'autorité.
+
+**Fiches existantes adaptées aux deux publics (10).** Le champ `publics` a été ajouté, à partir du seul contenu sourcé de chaque fiche, via `scripts/publics-complements.js`, appliqué par `scripts/corrections-v10.js`. Fiches concernées : `aah-suffisante`, `egalite-salariale`, `encadrement-loyers`, `immigration-emploi`, `immigration-salaires`, `chomage-penurie-recrutement`, `morts-au-travail`, `agriculteurs-revenus`, `abstention-inegale`, `sondages-mille-personnes`.
+
+**Questions écartées.** Aucune pour sources invérifiables. La fiche « francocide » a le dossier le plus mince : deux sources lues sur l'origine du mot, aucune statistique officielle sur un mobile « anti-français », d'où le verdict « invérifiable ».
+
+**Points non vérifiés, laissés hors des fiches et signalés dans leurs limites :**
+- rapport 2025 de la Cour des comptes sur les pensions versées à l'étranger (lu seulement à travers un résumé) ;
+- arrivées en Italie en 2022 et causes de la baisse de 2024 ;
+- rapport de la DEPP sur l'uniforme et note DEPP 2025 sur le temps de travail des enseignants (lus à travers la presse spécialisée) ;
+- texte de la décision du Conseil constitutionnel de juin 2025 sur la justice des mineurs ;
+- nombre actuel de binationaux (chiffre lu : 2009) ;
+- chiffres nationaux sur les bloqueurs de puberté et les hormones chez les mineurs ;
+- usages du 49.3 en 2025 et décompte nominatif d'Élisabeth Borne ;
+- part des agriculteurs bénéficiaires des réserves de substitution.

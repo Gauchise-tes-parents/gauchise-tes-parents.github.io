@@ -1,0 +1,184 @@
+{
+  "id": "article-49-3-gauche",
+  "type": "idee_recue",
+  "affirmation": "La gauche dénonce le 49.3, mais c'est elle qui l'a le plus utilisé.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "49 3",
+    "49.3",
+    "quarante neuf trois",
+    "article 49",
+    "rocard 49 3",
+    "borne 49 3",
+    "passage en force"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "En partie vrai : le record individuel revient au socialiste Michel Rocard (28 fois) et les gouvernements socialistes de 1988-1993 l'ont utilisé 39 fois, faute de majorité absolue. Mais la droite l'a aussi beaucoup utilisé, et la législature 2022-2024 de la majorité présidentielle en compte 23. Aujourd'hui, la gauche du NFP propose de l'abroger.",
+  "contexte": "L'argument sert à renvoyer la gauche à ses contradictions quand elle dénonce l'usage du 49.3.",
+  "explication": "L'article 49 alinéa 3 permet au gouvernement de faire adopter un texte sans vote, sauf si une motion de censure est votée. Depuis 2008, il est limité à un texte par session, hors budgets.",
+  "faits": [
+    {
+      "fait": "Michel Rocard a engagé sa responsabilité à 28 reprises, record en la matière ; suivent Édith Cresson (8) et Manuel Valls (6).",
+      "periode": "1988-2016",
+      "perimetre": "France",
+      "explication": "Le record individuel est socialiste.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "28"
+    },
+    {
+      "fait": "L'Assemblée compte 39 usages du 49.3 sous la législature 1988-1993, celle des gouvernements socialistes, et 23 sous celle de 2022-2024.",
+      "periode": "1988-2024",
+      "perimetre": "France",
+      "explication": "Les deux périodes de majorité relative concentrent les usages.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "39 et 23"
+    },
+    {
+      "fait": "Depuis 2008, le 49.3 est limité à un texte par session hors lois de finances et de financement de la sécurité sociale.",
+      "periode": "2008",
+      "perimetre": "France",
+      "explication": "La règle a changé depuis Rocard.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Un universitaire compte 100 utilisations du 49.3 depuis 1958, sur 55 textes.",
+      "periode": "1958-2023",
+      "perimetre": "France",
+      "explication": "Tous les camps l'ont utilisé.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "100"
+    },
+    {
+      "fait": "Le programme du Nouveau Front populaire de 2024 propose d'« Abroger le 49.3 ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La gauche actuelle veut le supprimer.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "En partie vrai : le socialiste Michel Rocard détient le record (28 fois), faute de majorité absolue. Mais tous les camps l'ont utilisé, la majorité présidentielle 23 fois entre 2022 et 2024. Et la gauche propose aujourd'hui de l'abroger.",
+    "moyen": "C'est exact pour le passé : Michel Rocard, Premier ministre socialiste sans majorité absolue, l'a utilisé 28 fois, et la législature 1988-1993 compte 39 usages.\n\nMais le 49.3 a été utilisé par la droite comme par la majorité présidentielle (23 fois entre 2022 et 2024). La gauche d'aujourd'hui en tire la leçon : le programme du NFP propose de l'abroger. On peut reprocher une incohérence passée, mais pas une hypocrisie actuelle.",
+    "detaille": "Michel Rocard (1988-1991), sans majorité absolue à l'Assemblée, a engagé la responsabilité de son gouvernement 28 fois : c'est le record. Avec Édith Cresson et Pierre Bérégovoy, la législature 1988-1993 compte 39 usages. Manuel Valls l'a utilisé 6 fois. Les critiques sur la cohérence de la gauche sont donc fondées sur l'histoire.\n\nMais le 49.3 a servi à tous les gouvernements : un universitaire compte 100 utilisations depuis 1958. La législature 2022-2024, celle de la majorité relative d'Emmanuel Macron, en compte 23. Depuis 2008, son usage est limité à un texte par session, hors budgets, mais pas sur les textes budgétaires.\n\nAujourd'hui, la gauche propose de supprimer l'outil : le programme du Nouveau Front populaire de 2024 prévoit d'« Abroger le 49.3 » et d'instaurer la proportionnelle.",
+    "empathie": "Tu as raison de pointer que la gauche l'a beaucoup utilisé : c'est vrai, et Rocard détient le record. La question est de savoir ce qu'on en pense aujourd'hui, et la gauche propose maintenant de le supprimer."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Donc la gauche est hypocrite.",
+      "reponse": "Elle l'a été dans le passé, comme la droite ; aujourd'hui, elle propose de supprimer l'outil, ce qui l'engagerait aussi si elle gouvernait."
+    },
+    {
+      "objection": "Le 49.3 est démocratique, il permet une censure.",
+      "reponse": "C'est vrai, l'Assemblée peut renverser le gouvernement ; mais le texte est adopté sans vote sur son contenu."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de fois le 49.3 a été utilisé entre 2022 et 2024 ?",
+    "Faut-il garder un outil qui permet d'adopter une loi sans vote ?"
+  ],
+  "limites": [
+    "Le décompte nominatif d'Élisabeth Borne et les usages de 2025 n'ont pas été vérifiés.",
+    "Les totaux de Raymond Barre et des gouvernements d'avant 1988 ne sont pas détaillés dans les sources lues."
+  ],
+  "sources": [
+    {
+      "titre": "Recours au 49-3 : les précédents depuis le gouvernement Rocard",
+      "organisme": "Public Sénat",
+      "date_publication": "29 février 2020",
+      "url": "https://www.publicsenat.fr/actualites/politique/recours-au-49-3-les-precedents-depuis-le-gouvernement-rocard-181003",
+      "passage": "Michel Rocard (1988-1991), faute de majorité absolue, a engagé sa responsabilité à 28 reprises, record en la matière. Suivent Édith Cresson (8), Pierre Bérégovoy (3), Édouard Balladur (1), Alain Juppé (2), Jean-Pierre Raffarin (2), Dominique de Villepin (1) et Manuel Valls (6). Jean-Marc Ayrault, François Fillon et Lionel Jospin ne l'ont jamais utilisé.",
+      "pertinence": "Média parlementaire (décompte arrêté en 2020).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Fiche de synthèse n° 64 : La mise en cause de la responsabilité du Gouvernement",
+      "organisme": "Assemblée nationale",
+      "date_publication": "non daté (postérieur à décembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/telechargement/629167/file/Fiche%2064%20-%20Responsabilit%C3%A9%20du%20Gouvernement.pdf",
+      "passage": "La révision de 2008 limite le 49.3, hors lois de finances et de financement de la sécurité sociale, à « un autre projet ou proposition de loi par session ». La fiche compte 39 usages sous la IXe législature (1988-1993, gouvernements Rocard, Cresson et Bérégovoy) et 23 sous la XVIe (2022-2024).",
+      "pertinence": "Document officiel de l'Assemblée.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "« 49.3 budgétaire » et « 49.3 social »",
+      "organisme": "Jean de Saint Sernin (Université de Lille), congrès français de droit constitutionnel 2023",
+      "date_publication": "2023",
+      "url": "https://cfdc2023.univ-tln.fr/wp-content/uploads/Atelier-1-DE-SAINT-SERNIN-Jean.pdf",
+      "passage": "L'auteur compte 100 utilisations du 49.3 depuis 1958, sur 55 textes, dont 40 sur des textes budgétaires ou sociaux ; 11 pour Élisabeth Borne sur ces seuls textes. Selon lui, la révision de 2008 n'a pas entraîné de baisse significative de l'usage sur les textes financiers.",
+      "pertinence": "Contribution universitaire.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Contrat de législature du Nouveau Front populaire",
+      "organisme": "Nouveau Front populaire (document hébergé par LFI)",
+      "date_publication": "juin 2024",
+      "url": "https://lafranceinsoumise.fr/wp-content/uploads/2024/06/PROGRAMME-FRONT-POPULAIRE.pdf",
+      "passage": "La section « Vers une 6e République » prévoit d'« Abolir la monarchie présidentielle dans la pratique des institutions », d'« Instaurer la proportionnelle », d'« Abroger le 49.3 » et d'« Instaurer le référendum d'initiative citoyenne (RIC) », puis de passer à une 6e République par une assemblée constituante.",
+      "pertinence": "Programme électoral, cité pour décrire les propositions.",
+      "type": "partisane",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Usages du 49.3 lors des prochaines lois de finances.",
+  "objections_legitimes": [
+    "Le record individuel et le record par législature sont socialistes.",
+    "La gauche l'a dénoncé surtout quand elle était dans l'opposition."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison : Rocard détient le record, et la gauche a beaucoup utilisé le 49.3. Mais tous les gouvernements l'ont fait, et la gauche d'aujourd'hui propose de le supprimer.. La vraie question, c'est de savoir si l'on garde un outil qui permet d'adopter une loi sans vote.",
+    "indecis": "L'argument est en partie juste : les socialistes ont été les plus gros utilisateurs du 49.3, quand ils n'avaient pas de majorité absolue. Mais la droite et la majorité présidentielle l'ont aussi largement utilisé. La vraie question est de savoir si on garde cet outil ; la gauche propose de l'abroger."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie"
+    ],
+    "mecanismes": "Un outil conçu pour gouverner sans majorité sert à tous les gouvernements minoritaires. Il déplace la décision du Parlement vers l’exécutif.",
+    "consequences": "Des lois importantes sont adoptées sans vote sur leur contenu.",
+    "democratie": "Supprimer le 49.3 rendrait au Parlement le dernier mot, quel que soit le gouvernement.",
+    "propositions": [
+      "Abroger le 49.3, comme le propose le programme du NFP.",
+      "Instaurer la proportionnelle pour favoriser les compromis parlementaires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le record d’utilisation appartient à des gouvernements socialistes.",
+        "integration": "L’assumer, et en tirer la conclusion : supprimer l’outil pour tous."
+      }
+    ]
+  },
+  "concepts": [
+    "gauche",
+    "seine_saint_denis",
+    "rocard"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire",
+    "seine saint denis",
+    "neuf trois",
+    "neuf cube",
+    "rocard"
+  ]
+}

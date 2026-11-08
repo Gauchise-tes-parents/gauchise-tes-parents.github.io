@@ -1,0 +1,179 @@
+{
+  "id": "uniforme-ecole-discipline",
+  "type": "idee_recue",
+  "affirmation": "L'uniforme à l'école réglerait les problèmes de discipline.",
+  "volet": "services",
+  "sous_theme": "École publique",
+  "rubriques": [],
+  "mots_cles": [
+    "uniforme",
+    "uniforme a l ecole",
+    "tenue unique",
+    "tenue scolaire unique",
+    "blouse",
+    "discipline a l ecole",
+    "autorite a l ecole"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Le bilan officiel de l'expérimentation française, publié en 2026, conclut à des effets « limités » sur le comportement et les apprentissages. Une grande étude américaine ne trouve aucun effet sur le comportement des élèves. Les chefs d'établissement sont plutôt satisfaits, mais une généralisation coûterait environ 2,4 milliards d'euros.",
+  "contexte": "L'uniforme est défendu par le RN et une partie de la droite comme un symbole d'autorité ; une expérimentation a été lancée en 2024.",
+  "explication": "L'expérimentation porte sur 115 établissements volontaires. L'évaluation repose surtout sur les déclarations des chefs d'établissement et des élèves, sans groupe de comparaison.",
+  "faits": [
+    {
+      "fait": "L'évaluation officielle conclut à des effets limités sur le comportement et les apprentissages ; dans le premier degré, 36 % des directeurs voient un effet positif sur le climat scolaire.",
+      "periode": "2024-2025",
+      "perimetre": "France, 115 établissements",
+      "explication": "L'uniforme ne règle pas la discipline.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "36 %"
+    },
+    {
+      "fait": "57 % des écoliers n'aiment pas porter la tenue et 63 % des collégiens ne se sentent pas bien dedans ; 43 % des écoliers voient moins de moqueries sur les vêtements.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les élèves sont partagés.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "57 %"
+    },
+    {
+      "fait": "Une étude sur 6 320 élèves américains ne trouve aucun effet de l'uniforme sur l'anxiété, l'agressivité ou les compétences sociales.",
+      "periode": "2021",
+      "perimetre": "États-Unis",
+      "explication": "La recherche internationale ne montre pas d'effet sur le comportement.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Une étude plus ancienne sur un district de Houston trouve une amélioration de l'assiduité et du comportement au collège et au lycée.",
+      "periode": "1993-2006",
+      "perimetre": "Houston",
+      "explication": "Certaines études trouvent des effets modestes.",
+      "source": 3,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Une généralisation à 200 € par trousseau coûterait 2,4 milliards d'euros pour 12 millions d'élèves.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La mesure serait coûteuse.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "2,4 Md€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : l'évaluation officielle de l'expérimentation conclut à des effets « limités » sur le comportement. Une grande étude américaine ne trouve aucun effet. Et la généraliser coûterait environ 2,4 milliards d'euros.",
+    "moyen": "L'expérimentation menée depuis 2024 dans 115 établissements a été évaluée par le ministère : les effets sur le comportement et les apprentissages sont limités. Les élèves sont partagés, et beaucoup n'aiment pas la tenue.\n\nLes études étrangères vont dans le même sens : une étude américaine sur plus de 6 000 élèves ne trouve aucun effet sur l'agressivité. Une généralisation coûterait environ 2,4 milliards.",
+    "detaille": "L'expérimentation de la tenue scolaire unique porte sur 115 établissements volontaires (97 écoles, 14 collèges, 4 lycées), souvent en éducation prioritaire. Le bilan publié en mai 2026 par le service statistique du ministère conclut à des effets limités sur le comportement et les apprentissages. Dans le premier degré, 75 % des directeurs voient un effet positif sur le sentiment d'appartenance, mais 36 % seulement sur le climat scolaire.\n\nLes élèves sont partagés : 57 % des écoliers n'aiment pas la tenue, mais 43 % voient moins de moqueries sur les vêtements. Les chefs d'établissement du secondaire sont plus positifs et la plupart veulent continuer. L'évaluation repose surtout sur des déclarations, sans groupe de comparaison.\n\nAux États-Unis, une étude de l'université d'État de l'Ohio sur 6 320 élèves ne trouve aucun effet sur le comportement ; une étude plus ancienne à Houston trouvait des gains modestes d'assiduité. L'uniforme peut avoir un intérêt symbolique, mais les évaluations disponibles ne montrent pas qu'il règle la discipline.",
+    "empathie": "Je comprends l'envie de retrouver de l'ordre à l'école, et l'idée que l'uniforme efface les différences de marques entre élèves. Mais les évaluations montrent qu'il change peu de choses à la discipline ; il faut chercher ailleurs les leviers."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ça marche au Royaume-Uni.",
+      "reponse": "Aucune étude lue ne montre un effet de l'uniforme sur la discipline ; la grande étude américaine ne trouve rien."
+    },
+    {
+      "objection": "Au moins, ça efface les inégalités.",
+      "reponse": "C'est un argument réel, mais l'effet sur les moqueries est partiel : 45 % des écoliers ne voient pas de changement."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce qu'a conclu l'évaluation de l'expérimentation française ?",
+    "Qu'est-ce qui améliore vraiment la discipline : un uniforme, ou plus d'adultes dans l'établissement ?"
+  ],
+  "limites": [
+    "Le rapport du ministère n'a été lu qu'à travers Localtis et l'AFP.",
+    "L'évaluation repose sur des perceptions, sans groupe témoin ; les résultats de la deuxième année ne sont pas connus."
+  ],
+  "sources": [
+    {
+      "titre": "Uniforme à l'école : mention passable et avenir incertain",
+      "organisme": "Banque des Territoires (Localtis, Jean-Damien Lesay), sur le rapport de la DEPP",
+      "date_publication": "13 mai 2026",
+      "url": "https://www.banquedesterritoires.fr/uniforme-lecole-mention-passable-et-avenir-incertain",
+      "passage": "L'expérimentation 2024-2025 porte sur 115 établissements volontaires (97 écoles, 14 collèges, 4 lycées). Dans le premier degré, 75 % des directeurs voient un effet positif sur le sentiment d'appartenance, mais 36 % seulement sur le climat scolaire. La DEPP conclut à des effets limités sur le comportement et les apprentissages. Coût : 1,6 million d'euros en 2024-2025, financé à moitié par l'État ; une généralisation à 200 € par trousseau coûterait 2,4 milliards d'euros pour 12 millions d'élèves.",
+      "pertinence": "Compte rendu d'une évaluation publique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Uniforme à l'école : des effets inégaux, selon une première étude",
+      "organisme": "L'Info Durable / AFP",
+      "date_publication": "12 mai 2026",
+      "url": "https://www.linfodurable.fr/uniforme-lecole-des-effets-inegaux-selon-une-premiere-etude-56159",
+      "passage": "57 % des écoliers n'aiment pas porter la tenue et 63 % des collégiens ne se sentent pas bien dedans ; 43 % des écoliers voient moins de moqueries sur les vêtements, 45 % ne voient pas de changement. L'évaluation, menée en juin 2025 par le service statistique du ministère, repose surtout sur des déclarations de chefs d'établissement.",
+      "pertinence": "Dépêche AFP.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "School uniforms don't improve child behavior, study finds",
+      "organisme": "Ohio State University (étude d'Arya Ansari et al., Early Childhood Research Quarterly)",
+      "date_publication": "20 décembre 2021",
+      "url": "https://news.osu.edu/school-uniforms-dont-improve-child-behavior-study-finds/",
+      "passage": "L'étude suit 6 320 élèves américains de l'école élémentaire. Elle ne trouve aucun effet de l'uniforme sur l'anxiété, l'agressivité ou les compétences sociales. Il n'y a pas d'effet global sur l'assiduité. Les élèves plus âgés en uniforme déclarent un sentiment d'appartenance plus faible.",
+      "pertinence": "Étude universitaire publiée dans une revue scientifique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "UH Study Suggests School Uniforms Reduce Student Absences, Disciplinary Problems",
+      "organisme": "University of Houston (Scott Imberman, Elizabetta Gentile)",
+      "date_publication": "vers 2010",
+      "url": "https://www.uh.edu/news-events/stories/2010articles/april2010/0405schooluniforms.php",
+      "passage": "L'étude porte sur 160 écoles d'un district urbain entre 1993 et 2006. Elle constate une amélioration de l'assiduité et du comportement au collège et au lycée après l'adoption de l'uniforme, surtout chez les filles.",
+      "pertinence": "Étude universitaire ancienne, un seul district.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Bilan de la deuxième année d'expérimentation.",
+  "objections_legitimes": [
+    "Les chefs d'établissement du secondaire sont majoritairement positifs.",
+    "43 % des écoliers voient moins de moqueries sur les vêtements.",
+    "Une étude de Houston trouve des effets positifs sur l'assiduité."
+  ],
+  "publics": {
+    "convaincus": "L'expérimentation voulue par le gouvernement a été évaluée : effets limités sur le comportement, et une majorité d'élèves qui n'aiment pas la tenue. Une grande étude américaine ne trouve aucun effet. Avant de dépenser 2,4 milliards en trousseaux, il faudrait des preuves que ça marche.",
+    "indecis": "L'uniforme plaît à une partie des chefs d'établissement et réduit un peu les moqueries sur les vêtements. Mais l'évaluation française et la recherche étrangère ne montrent pas d'effet net sur la discipline. C'est un symbole, pas une solution."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite"
+    ],
+    "mecanismes": "Un symbole d’autorité remplace le débat sur les moyens : effectifs, surveillants, enseignants.",
+    "consequences": "L’argent dépensé en trousseaux ne finance pas ce qui améliore le climat scolaire.",
+    "democratie": "Les politiques éducatives devraient reposer sur des évaluations, pas sur des symboles.",
+    "propositions": [
+      "Réduire les effectifs par classe et recruter des surveillants et des personnels sociaux.",
+      "Évaluer sérieusement les expérimentations avant de les généraliser."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une partie des chefs d’établissement est satisfaite et l’uniforme réduit un peu les moqueries.",
+        "integration": "Le reconnaître, en rappelant le bilan limité."
+      }
+    ]
+  },
+  "concepts": [
+    "services_publics",
+    "uniforme"
+  ],
+  "repond_a": [
+    {
+      "id": "uniforme_ecole",
+      "label": "Uniforme à l’école"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences"
+  ]
+}

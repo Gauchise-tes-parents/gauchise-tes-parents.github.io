@@ -1,0 +1,178 @@
+{
+  "id": "travailleurs-detaches-dumping",
+  "type": "idee_recue",
+  "affirmation": "Les travailleurs détachés font du dumping social.",
+  "volet": "social",
+  "sous_theme": "Emploi et salaires",
+  "rubriques": [],
+  "mots_cles": [
+    "travailleurs detaches",
+    "salaries detaches",
+    "detachement",
+    "directive detachement",
+    "plombier polonais",
+    "dumping social",
+    "travail detache"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Le dumping existe, mais il est limité et encadré. Depuis 2020, le droit européen impose de payer un détaché comme un salarié du pays d'accueil dès le premier jour. Les détachés présents à un moment donné ne représentent que 0,3 % de l'emploi salarié privé. Les cotisations sociales restent payées dans le pays d'origine, et les fraudes documentées par le Sénat sont réelles.",
+  "contexte": "Le thème du « plombier polonais » est ancien ; il est repris aussi bien par l'extrême droite que par une partie de la gauche.",
+  "explication": "Un travailleur détaché est envoyé temporairement en France par une entreprise d'un autre pays. Il doit recevoir le salaire prévu en France, mais reste affilié à la sécurité sociale de son pays, souvent moins coûteuse.",
+  "faits": [
+    {
+      "fait": "En 2022, 59 300 salariés détachés sont présents en moyenne à une date donnée, 18 % de moins qu'en 2019, soit 0,3 % de l'emploi salarié privé (1,5 % dans l'agriculture).",
+      "periode": "2022",
+      "perimetre": "France hors transport routier",
+      "explication": "Le phénomène est marginal à l'échelle de l'emploi.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "0,3 %"
+    },
+    {
+      "fait": "Le BTP regroupe 42 % des détachés et l'industrie 29 % ; 70 % viennent de l'UE.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Il est concentré dans quelques secteurs.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "42 %"
+    },
+    {
+      "fait": "Depuis le 30 juillet 2020, les règles de rémunération du pays d'accueil s'appliquent dès le premier jour, et les frais de voyage et de logement ne peuvent pas être déduits du salaire.",
+      "periode": "2020",
+      "perimetre": "Union européenne",
+      "explication": "Le dumping salarial est désormais illégal.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Parlement européen reconnaît que la hausse des détachements de 44,4 % entre 2010 et 2014 tenait en partie aux écarts de salaires et de coût du travail.",
+      "periode": "2010-2014",
+      "perimetre": "Union européenne",
+      "explication": "Le dumping a bien existé.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "+44,4 %"
+    },
+    {
+      "fait": "Le Sénat a documenté des fraudes : cotisations non versées dans le pays d'origine, sociétés « boîtes aux lettres », agences d'intérim créées pour détacher.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "La fraude est réelle et difficile à contrôler.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : depuis 2020, un détaché doit être payé comme un salarié français dès le premier jour, et les détachés ne pèsent que 0,3 % de l'emploi privé. Mais les cotisations restent payées dans le pays d'origine et la fraude existe : c'est un problème de contrôle.",
+    "moyen": "Le dumping a été réel : le Parlement européen reconnaît que les écarts de salaires ont fait grimper les détachements. Depuis 2020, la règle a changé : « à travail égal, salaire égal » dès le premier jour.\n\nLes détachés restent peu nombreux : 59 300 présents en moyenne en 2022, 0,3 % de l'emploi privé, surtout dans le BTP. Les problèmes qui restent sont les cotisations payées dans le pays d'origine et les fraudes. La réponse, ce sont des contrôles et des inspecteurs du travail, pas la fermeture des frontières.",
+    "detaille": "Selon la Dares, 223 300 salariés ont été détachés au moins une fois en France en 2022, hors transport routier, mais 59 300 seulement sont présents à une date donnée, soit 0,3 % de l'emploi salarié privé. Le BTP en concentre 42 %, l'industrie 29 %, et leur part atteint 1,5 % dans l'agriculture.\n\nLe dumping a existé : les détachements ont augmenté de 44,4 % entre 2010 et 2014, en partie à cause des écarts de salaires. La directive révisée, appliquée depuis 2020, impose la rémunération du pays d'accueil dès le premier jour et interdit de retenir le logement ou le transport sur le salaire. Au-delà de 12 à 18 mois, tout le droit du travail français s'applique.\n\nUn écart de coût légal subsiste, car les cotisations sociales sont payées dans le pays d'origine. Et le Sénat a décrit des fraudes : sociétés boîtes aux lettres, cotisations non versées. Ce sont des failles de contrôle.",
+    "empathie": "Je comprends la colère des artisans et ouvriers du bâtiment qui ont vu arriver des concurrents moins chers. Ce dumping a existé. Aujourd'hui, la loi impose les mêmes salaires ; ce qu'il faut, ce sont des contrôles pour la faire respecter."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils prennent le travail des Français.",
+      "reponse": "Ils représentent 0,3 % de l'emploi salarié privé, et leur nombre a baissé de 18 % entre 2019 et 2022."
+    },
+    {
+      "objection": "C'est la faute de l'Europe.",
+      "reponse": "L'Europe a aussi durci la règle en 2018 ; le problème restant est le contrôle et l'écart de cotisations."
+    }
+  ],
+  "questions": [
+    "Sais-tu que depuis 2020, un détaché doit être payé au salaire français dès le premier jour ?",
+    "Qui profite vraiment de la fraude : le travailleur ou l'entreprise qui l'emploie ?"
+  ],
+  "limites": [
+    "Les chiffres de fraude constatée par l'inspection du travail n'ont pas été lus.",
+    "Le rapport du Sénat date de 2017, avant la révision de la directive.",
+    "Le transport routier est exclu des chiffres de la Dares."
+  ],
+  "sources": [
+    {
+      "titre": "L'emploi de salariés détachés en 2022 (Dares Résultats n° 1)",
+      "organisme": "Dares, ministère du Travail",
+      "date_publication": "janvier 2024",
+      "url": "https://dares.travail-emploi.gouv.fr/sites/default/files/22d3e4c99d4739c9e2107d81cbdc6a2e/Dares_resultats_emploi-salaries-detaches-2022.pdf",
+      "passage": "En 2022, hors transport routier, 223 300 salariés ont été détachés au moins une fois en France, pour 646 900 détachements. En moyenne, 59 300 détachés sont présents à une date donnée, 18 % de moins qu'en 2019, soit 0,3 % de l'emploi salarié privé ; 1,5 % dans l'agriculture. Le BTP regroupe 42 % des détachés et l'industrie 29 %. 70 % viennent de l'UE.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Posting of workers (fiches thématiques sur l'Union européenne)",
+      "organisme": "Parlement européen",
+      "date_publication": "mars 2026",
+      "url": "https://www.europarl.europa.eu/factsheets/en/sheet/37/posting-of-workers",
+      "passage": "La directive révisée de 2018 s'applique depuis le 30 juillet 2020 : les règles de rémunération du pays d'accueil s'appliquent dès le premier jour, « equal pay for the same work in the same place ». Les frais de voyage, de logement et de nourriture ne peuvent pas être déduits du salaire. Le détachement est limité à 12 mois, prolongeables de 6 ; au-delà, le droit du travail du pays d'accueil s'applique. Les détachements avaient augmenté de 44,4 % entre 2010 et 2014, en partie à cause des écarts de salaires et de coût du travail.",
+      "pertinence": "Document officiel du Parlement européen.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Lutter contre la fraude sociale, un impératif pour le juste droit (rapport d'information n° 599)",
+      "organisme": "Sénat, mission d'évaluation et de contrôle de la sécurité sociale",
+      "date_publication": "28 juin 2017",
+      "url": "https://www.senat.fr/rap/r16-599/r16-5994.html",
+      "passage": "Le rapport décrit des fraudes au détachement : entreprises qui ne versent pas de cotisations dans le pays d'origine, sociétés « boîtes aux lettres » sans activité réelle, agences d'intérim créées uniquement pour détacher. Il juge les moyens de contrôle limités. Les formulaires de détachement reçus par la France sont passés de 7 500 en 2000 à 190 000 en 2015.",
+      "pertinence": "Rapport parlementaire (2017, avant la révision de la directive).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelle publication de la Dares sur le détachement.",
+  "objections_legitimes": [
+    "Les cotisations sociales restent payées dans le pays d'origine, souvent moins cher.",
+    "La fraude au détachement est documentée.",
+    "Le dumping a nourri la hausse des détachements dans les années 2010."
+  ],
+  "publics": {
+    "convaincus": "Le dumping a existé, tu as raison. Mais depuis 2020, la loi impose de payer un détaché comme un Français, et ils ne pèsent que 0,3 % de l'emploi privé. Ceux qui trichent, ce sont des entreprises qui fraudent : il faut plus d'inspecteurs du travail, pas moins de droits pour les salariés.",
+    "indecis": "La concurrence par les bas salaires a été réelle, surtout dans le bâtiment. La règle a changé en 2020 : même salaire dès le premier jour. Restent un écart de cotisations et des fraudes, qui appellent surtout des contrôles renforcés."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "internationalisme",
+      "egalite"
+    ],
+    "mecanismes": "Le dumping vient des écarts de droits et de cotisations que des employeurs exploitent, pas des travailleurs eux-mêmes.",
+    "consequences": "Les détachés sont souvent les premières victimes : logements indignes, heures non payées.",
+    "democratie": "L’égalité de traitement protège tous les salariés, français et étrangers.",
+    "propositions": [
+      "Renforcer l’inspection du travail et les contrôles transfrontaliers.",
+      "Harmoniser les cotisations sociales vers le haut en Europe."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un écart de coût légal subsiste à cause des cotisations du pays d’origine, et la fraude est réelle.",
+        "integration": "Le reconnaître : c’est un argument pour plus de contrôle et d’harmonisation sociale."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "salaires",
+    "histoire_migrations"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ]
+}

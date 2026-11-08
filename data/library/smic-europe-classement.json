@@ -1,0 +1,173 @@
+{
+  "id": "smic-europe-classement",
+  "type": "idee_recue",
+  "affirmation": "Le SMIC français est l'un des plus élevés d'Europe.",
+  "volet": "economie",
+  "sous_theme": "Salaires",
+  "rubriques": [],
+  "mots_cles": [
+    "smic europe",
+    "salaire minimum europe",
+    "smic le plus eleve",
+    "smic allemagne",
+    "classement smic",
+    "salaires minimums europeens",
+    "smic trop haut"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Plutôt vrai : avec 1 823 € brut par mois au 1er janvier 2026, le SMIC français est 6e sur 22 pays de l'UE dotés d'un salaire minimum, mais environ 500 € derrière l'Allemagne et l'Irlande. Il est parmi les plus élevés par rapport au salaire médian (plus de 60 %), ce qui reflète aussi des salaires médians tassés. Et 12,4 % des salariés sont payés au SMIC.",
+  "contexte": "L'argument sert à refuser toute hausse du SMIC, ou à l'inverse à vanter le modèle social français.",
+  "explication": "On compare les salaires minimums en euros, en pouvoir d'achat (qui tient compte des prix), ou par rapport au salaire médian du pays. Plusieurs pays riches, comme le Danemark ou la Suède, n'ont pas de salaire minimum légal : les salaires y sont fixés par des conventions collectives.",
+  "faits": [
+    {
+      "fait": "Au 1er janvier 2026, le salaire minimum brut mensuel est de 2 704 € au Luxembourg, 2 391 € en Irlande, 2 343 € en Allemagne, 2 295 € aux Pays-Bas, 2 112 € en Belgique et 1 823 € en France.",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "La France est 6e, nettement derrière cinq pays.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 823 €"
+    },
+    {
+      "fait": "Danemark, Italie, Autriche, Finlande et Suède n'ont pas de salaire minimum national.",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "Plusieurs pays riches échappent au classement.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2024, le salaire minimum français dépasse 60 % du salaire médian, comme aux Pays-Bas et au Luxembourg ; il est entre 50 et 60 % en Allemagne.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "Rapporté au salaire médian, le SMIC est parmi les plus élevés.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "> 60 %"
+    },
+    {
+      "fait": "Au 1er novembre 2024, 2,2 millions de salariés, soit 12,4 % du champ étudié, ont bénéficié directement de la revalorisation du SMIC.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Beaucoup de salariés sont payés au minimum.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "12,4 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Plutôt vrai : le SMIC est 6e de l'UE avec 1 823 € brut, mais environ 500 € derrière l'Allemagne. Il est élevé par rapport au salaire médian, ce qui montre aussi que les salaires au-dessus du SMIC progressent peu.",
+    "moyen": "En euros, le SMIC français (1 823 € brut en janvier 2026) est 6e dans l'UE, derrière le Luxembourg, l'Irlande, l'Allemagne, les Pays-Bas et la Belgique. Il fait partie du groupe de tête en pouvoir d'achat.\n\nIl est surtout élevé par rapport au salaire médian (plus de 60 %). Mais cela veut aussi dire que les salaires moyens sont tassés : beaucoup de salariés restent bloqués près du SMIC. Le problème n'est pas un SMIC trop haut, mais des salaires qui ne décollent pas.",
+    "detaille": "Selon Eurostat, au 1er janvier 2026, six pays de l'UE dépassent 1 500 € brut par mois : le Luxembourg (2 704 €), l'Irlande (2 391 €), l'Allemagne (2 343 €), les Pays-Bas (2 295 €), la Belgique (2 112 €) et la France (1 823 €). La France est donc dans le haut du classement, mais à environ 500 € de l'Allemagne. Cinq pays, dont le Danemark et la Suède, n'ont pas de salaire minimum légal.\n\nRapporté au salaire médian, le SMIC français est parmi les plus élevés : plus de 60 % en 2024, contre 50 à 60 % en Allemagne. C'est en partie vrai que le SMIC « mord » beaucoup ; mais c'est aussi le signe d'une échelle des salaires écrasée vers le bas.\n\nEn novembre 2024, 12,4 % des salariés ont été concernés directement par la revalorisation du SMIC, et près d'un quart des salariés à temps partiel. La question n'est pas seulement le niveau du SMIC, mais la progression des salaires au-dessus.",
+    "empathie": "C'est vrai que le SMIC français est dans le haut du tableau européen, et on peut en être fier. Mais quand on vit avec, à 1 823 € brut, on sait que ça ne fait pas une vie confortable, et beaucoup de salariés y restent bloqués."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on l'augmente, on détruit des emplois.",
+      "reponse": "Le ratio élevé avec le salaire médian montre surtout que les salaires médians progressent peu ; d'autres pays ont des minimums bien plus hauts."
+    },
+    {
+      "objection": "On est les mieux payés d'Europe.",
+      "reponse": "Non : cinq pays font mieux, dont l'Allemagne avec environ 500 € de plus."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien gagne un salarié au salaire minimum en Allemagne ?",
+    "Pourquoi tant de salariés restent-ils bloqués au SMIC pendant des années ?"
+  ],
+  "limites": [
+    "Le chiffre exact de la France en standards de pouvoir d'achat n'a pas été lu.",
+    "Le ratio SMIC/salaire médian de l'OCDE n'a pas été lu directement."
+  ],
+  "sources": [
+    {
+      "titre": "Now available: first 2026 data on minimum wages",
+      "organisme": "Eurostat",
+      "date_publication": "30 janvier 2026",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260130-2",
+      "passage": "Au 1er janvier 2026, six pays dépassent 1 500 € brut par mois : Luxembourg 2 704 €, Irlande 2 391 €, Allemagne 2 343 €, Pays-Bas 2 295 €, Belgique 2 112 €, France 1 823 €. Huit pays sont entre 1 000 et 1 500 €, huit en dessous de 1 000 €. En standards de pouvoir d'achat, la France fait partie des huit pays au-dessus de 1 500 SPA. Danemark, Italie, Autriche, Finlande et Suède n'ont pas de salaire minimum national.",
+      "pertinence": "Statistique publique européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Minimum wage statistics (Statistics Explained)",
+      "organisme": "Eurostat",
+      "date_publication": "juillet 2026",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Minimum_wage_statistics",
+      "passage": "Au 1er juillet 2026, le salaire minimum est de 1 867 € en France, 2 771 € au Luxembourg et 620 € en Bulgarie. En 2024, le salaire minimum de la France dépasse 60 % du salaire médian horaire brut, comme aux Pays-Bas et au Luxembourg ; il est entre 50 et 60 % en Allemagne, en Irlande et en Espagne.",
+      "pertinence": "Statistique publique européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Salaire minimum de croissance (Insee Références, Emploi, chômage, revenus du travail)",
+      "organisme": "Insee, d'après la Dares",
+      "date_publication": "2 juillet 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8733087",
+      "passage": "Au 1er novembre 2024, 2,2 millions de salariés ont bénéficié directement de la revalorisation du SMIC, soit 12,4 % des salariés du champ étudié (17,3 % en janvier 2023) ; 19,4 % dans les entreprises de moins de 10 salariés et 24,5 % chez les salariés à temps partiel. Le SMIC horaire brut est de 12,02 € au 1er janvier 2026.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-02-28",
+  "raison_actualisation": "Données Eurostat de janvier 2027.",
+  "objections_legitimes": [
+    "Le SMIC français est 6e de l'UE en euros.",
+    "Par rapport au salaire médian, il est parmi les plus élevés d'Europe."
+  ],
+  "publics": {
+    "convaincus": "Oui, le SMIC est dans le haut du classement, mais l'Allemagne paie son salaire minimum environ 500 € de plus. Si le SMIC paraît élevé par rapport aux autres salaires, c'est surtout parce que ceux-ci progressent trop peu. Le problème, ce sont des patrons qui tassent les salaires, pas les smicards.",
+    "indecis": "Le SMIC français est l'un des plus élevés d'Europe en euros et par rapport au salaire médian. Mais 12,4 % des salariés sont payés au SMIC et beaucoup y restent bloqués. Le vrai débat porte sur la progression des salaires au-dessus du minimum."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "repartition"
+    ],
+    "mecanismes": "Un SMIC élevé par rapport au salaire médian signale des salaires tassés : les employeurs augmentent peu au-dessus du minimum.",
+    "consequences": "Beaucoup de salariés restent bloqués au SMIC pendant des années.",
+    "democratie": "Le niveau des salaires est un choix collectif, négocié entre syndicats et employeurs.",
+    "propositions": [
+      "Indexer les salaires sur les prix et relancer les négociations de branche.",
+      "Conditionner les aides publiques aux entreprises à des hausses de salaires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le SMIC français est l’un des plus élevés d’Europe, en euros comme par rapport au salaire médian.",
+        "integration": "Le reconnaître, et déplacer le débat vers les salaires au-dessus du minimum."
+      }
+    ]
+  },
+  "concepts": [
+    "salaires",
+    "europe",
+    "salaire_minimum",
+    "smic_europe"
+  ],
+  "repond_a": [
+    {
+      "id": "smic_europe",
+      "label": "Le SMIC en Europe"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "bruxelles",
+    "union europeenne",
+    "salaire minimum"
+  ]
+}

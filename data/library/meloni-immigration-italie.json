@@ -1,0 +1,183 @@
+{
+  "id": "meloni-immigration-italie",
+  "type": "idee_recue",
+  "affirmation": "Giorgia Meloni a stoppé l'immigration en Italie.",
+  "volet": "immigration",
+  "sous_theme": "Comparaisons européennes",
+  "rubriques": [],
+  "mots_cles": [
+    "meloni",
+    "italie immigration",
+    "arrivees en italie",
+    "lampedusa",
+    "albanie",
+    "centres en albanie",
+    "modele italien",
+    "debarquements"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les débarquements en Italie ont fortement baissé après le pic de 2023, atteint sous Giorgia Meloni : de 157 651 en 2023 à 66 617 en 2024. Mais l'immigration n'est pas stoppée : l'Italie a accueilli 382 000 immigrants étrangers en 2024, et le gouvernement Meloni a autorisé 500 000 entrées de travailleurs étrangers pour 2026-2028. Les centres de rétention en Albanie restent quasi vides.",
+  "contexte": "L'extrême droite française présente l'Italie de Meloni comme la preuve qu'une politique de fermeture fonctionne.",
+  "explication": "Les arrivées irrégulières par la mer ne sont qu'une petite partie de l'immigration : la majorité passe par des voies légales (travail, famille, études). Un gouvernement peut réduire l'une et augmenter l'autre.",
+  "faits": [
+    {
+      "fait": "Les débarquements en Italie sont passés de 157 651 en 2023 à 66 617 en 2024 ; du 1er janvier au 28 novembre, ils étaient de 63 260 en 2025.",
+      "periode": "2023-2025",
+      "perimetre": "Italie",
+      "explication": "La baisse est réelle après le pic de 2023, survenu sous Meloni.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "-58 %"
+    },
+    {
+      "fait": "En 2024, l'Italie a enregistré 435 000 immigrations, dont 382 000 d'étrangers ; 5,4 millions d'étrangers y résident au 1er janvier 2025, soit 9,2 % de la population.",
+      "periode": "2024-2025",
+      "perimetre": "Italie",
+      "explication": "L'immigration totale reste élevée.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "382 000"
+    },
+    {
+      "fait": "Selon Le Grand Continent, le gouvernement Meloni a autorisé 500 000 entrées de travailleurs étrangers sur 2026-2028 ; le quota 2026 est de 164 850, contre 30 850 en 2019.",
+      "periode": "2019-2028",
+      "perimetre": "Italie",
+      "explication": "Meloni a elle-même ouvert la porte à l'immigration de travail.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "500 000"
+    },
+    {
+      "fait": "La majorité de ces quotas ne sont pas pourvus : en 2023, seuls 23,52 % ont abouti à un titre de séjour et un emploi stable.",
+      "periode": "2023",
+      "perimetre": "Italie",
+      "explication": "Les quotas affichés ne sont pas des entrées effectives.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "23,52 %"
+    },
+    {
+      "fait": "Les centres italiens en Albanie n'accueillent que quelques dizaines de personnes pour un objectif de 3 000 par mois, et la Cour de justice de l'UE a exigé un contrôle par le juge de la notion de pays sûr.",
+      "periode": "2025",
+      "perimetre": "Italie et Albanie",
+      "explication": "La mesure phare est bloquée.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : les débarquements ont baissé après le record de 2023, atteint sous Meloni. Mais l'Italie a accueilli 382 000 immigrants étrangers en 2024, et Meloni a autorisé 500 000 travailleurs étrangers pour 2026-2028. Les centres en Albanie restent quasi vides.",
+    "moyen": "La baisse des arrivées par la mer est réelle : de 157 651 en 2023 à 66 617 en 2024. Mais le record de 2023 a eu lieu sous Meloni elle-même.\n\nSurtout, l'immigration continue par les voies légales : 382 000 immigrants étrangers en 2024. Face au manque de main-d'œuvre, le gouvernement Meloni a même multiplié les quotas de travailleurs étrangers, jusqu'à 500 000 sur trois ans. Le « modèle italien », c'est moins de bateaux, mais plus de travailleurs immigrés.",
+    "detaille": "Le ministère italien de l'Intérieur compte 157 651 débarquements en 2023, année du record, sous le gouvernement Meloni, puis 66 617 en 2024 et environ autant en 2025. Cette baisse est réelle et c'est l'argument central de ses partisans.\n\nMais les arrivées par la mer ne sont qu'une partie de l'immigration. Selon l'Istat, l'Italie a enregistré 382 000 immigrations d'étrangers en 2024, et compte 5,4 millions d'étrangers, 9,2 % de sa population. Le gouvernement a adopté un décret autorisant 500 000 entrées de travailleurs étrangers pour 2026-2028, avec un quota de 164 850 pour 2026 contre 30 850 en 2019. Ces quotas sont peu pourvus, mais ils montrent que l'économie italienne a besoin de main-d'œuvre.\n\nLa mesure la plus médiatisée, les centres en Albanie, coûte plus de 153 000 € par place selon une étude universitaire, et reste quasi vide après les décisions de justice.",
+    "empathie": "Je comprends que l'image de Lampedusa ait marqué, et que la baisse des arrivées en bateau soit rassurante. Mais il faut regarder tout le tableau : même Meloni fait venir des centaines de milliers de travailleurs étrangers."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les arrivées ont baissé, c'est la preuve que ça marche.",
+      "reponse": "Elles ont baissé après un record atteint sous Meloni ; les causes ne sont pas toutes liées à sa politique, et l'immigration légale reste élevée."
+    },
+    {
+      "objection": "Les travailleurs, ce n'est pas pareil.",
+      "reponse": "C'est justement le point : l'Italie a besoin d'immigrés pour travailler, et Meloni l'organise."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de travailleurs étrangers le gouvernement Meloni a autorisés pour 2026-2028 ?",
+    "Dans quelle année l'Italie a-t-elle connu le record d'arrivées par la mer ?"
+  ],
+  "limites": [
+    "Les causes de la baisse (accords avec la Tunisie et la Libye) ne sont pas documentées par les sources lues.",
+    "Les arrivées de 2022 n'ont pas été vérifiées."
+  ],
+  "sources": [
+    {
+      "titre": "Cruscotto statistico giornaliero (tableau de bord quotidien) au 28 novembre 2025",
+      "organisme": "Ministère italien de l'Intérieur, département des libertés civiles et de l'immigration",
+      "date_publication": "28 novembre 2025",
+      "url": "https://libertaciviliimmigrazione.dlci.interno.gov.it/sites/default/files/2025-11/Cruscotto%20statistico%20giornaliero%2028-11-2025.pdf",
+      "passage": "Débarquements du 1er janvier au 28 novembre : 152 216 en 2023, 62 264 en 2024 et 63 260 en 2025. Totaux annuels : 157 651 en 2023 et 66 617 en 2024. Mineurs non accompagnés débarqués : 18 820 en 2023, 8 752 en 2024, 11 661 en 2025 (au 24 novembre).",
+      "pertinence": "Statistique officielle italienne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Indicatori demografici – Anno 2024",
+      "organisme": "ISTAT (institut national de statistique italien)",
+      "date_publication": "mars 2025",
+      "url": "https://www.istat.it/wp-content/uploads/2025/03/Indicatori_demografici_2024.pdf",
+      "passage": "En 2024, 435 000 immigrations depuis l'étranger, dont 382 000 d'étrangers ; solde migratoire avec l'étranger : +244 000. Au 1er janvier 2025, 5 422 000 étrangers résident en Italie (+169 000 en un an), soit 9,2 % de la population.",
+      "pertinence": "Statistique publique italienne (données provisoires).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Meloni va-t-elle vraiment admettre 500 000 migrants non-européens en trois ans pour travailler en Italie ?",
+      "organisme": "Le Grand Continent (Marin Saillofest)",
+      "date_publication": "9 janvier 2026",
+      "url": "https://legrandcontinent.eu/fr/2026/01/09/meloni-va-t-elle-vraiment-admettre-500-000-migrants-non-europeens-en-trois-ans-pour-travailler-en-italie/",
+      "passage": "Le décret de flux adopté à l'été 2025 autorise 500 000 entrées de travailleurs étrangers sur 2026-2028 ; le quota 2026 est de 164 850, contre 30 850 en 2019. Mais « la majorité de ces quotas ne sont toutefois pas pourvus » : en 2023, seuls 23,52 % des quotas ont abouti à un titre de séjour et un emploi stable.",
+      "pertinence": "Revue d'analyse géopolitique.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "EU court rebukes Italy over migrant transfers to Albania",
+      "organisme": "Euronews (Vincenzo Genovese)",
+      "date_publication": "1er août 2025",
+      "url": "https://www.euronews.com/my-europe/2025/08/01/eu-court-rebukes-italy-over-migrant-transfers-to-albania",
+      "passage": "La Cour de justice de l'UE donne raison à un tribunal italien qui contestait la désignation du Bangladesh comme pays sûr : la désignation doit pouvoir être contrôlée par un juge. Les centres en Albanie n'accueillent que quelques dizaines de personnes, pour un objectif de 3 000 par mois ; selon une étude universitaire italienne, une place y coûte plus de 153 000 €, contre 21 000 € en Sicile.",
+      "pertinence": "Média européen.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Chiffres annuels du ministère italien et de l'Istat.",
+  "objections_legitimes": [
+    "Les débarquements ont baissé de plus de moitié entre 2023 et 2024.",
+    "Les quotas de travail affichés sont en grande partie non pourvus."
+  ],
+  "publics": {
+    "convaincus": "Les débarquements ont baissé, c'est vrai, mais après un record atteint sous Meloni elle-même. Et son gouvernement a autorisé 500 000 travailleurs étrangers pour trois ans : l'Italie de Meloni n'a pas fermé ses portes, elle les a ouvertes à la main-d'œuvre.",
+    "indecis": "La baisse des arrivées par bateau est réelle et compréhensible comme objectif. Mais elle ne représente qu'une partie de l'immigration, qui reste élevée en Italie. Le cas italien montre surtout que le besoin de main-d'œuvre s'impose même à un gouvernement d'extrême droite."
+  },
+  "lecture": {
+    "valeurs": [
+      "internationalisme",
+      "travailleurs",
+      "dignite"
+    ],
+    "mecanismes": "Un gouvernement peut afficher une baisse des arrivées par bateau tout en organisant une immigration de travail à grande échelle, souvent précaire.",
+    "consequences": "Les migrants sont bloqués ou refoulés en amont, et les travailleurs admis restent dépendants de leur employeur.",
+    "democratie": "Présenter un modèle à moitié est une manière de tromper l’électeur sur ce que fait réellement l’extrême droite au pouvoir.",
+    "propositions": [
+      "Ouvrir des voies légales et sûres de migration, avec des droits égaux pour les travailleurs.",
+      "Refuser l’externalisation de l’asile vers des pays tiers."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les débarquements ont réellement baissé de plus de moitié entre 2023 et 2024.",
+        "integration": "Le reconnaître, en rappelant le contexte et l’immigration légale qui continue."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "europe"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "bruxelles",
+    "union europeenne"
+  ]
+}

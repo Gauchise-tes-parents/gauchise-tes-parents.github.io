@@ -1,0 +1,171 @@
+{
+  "id": "banlieues-milliards-politique-ville",
+  "type": "idee_recue",
+  "affirmation": "On a déversé des milliards dans les banlieues, pour rien.",
+  "volet": "services",
+  "sous_theme": "Services publics locaux",
+  "rubriques": [],
+  "mots_cles": [
+    "politique de la ville",
+    "milliards dans les banlieues",
+    "plan banlieue",
+    "renovation urbaine",
+    "quartiers prioritaires",
+    "anru",
+    "argent des banlieues",
+    "deverse des milliards"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Les crédits propres à la politique de la ville sont modestes : environ 524 millions d'euros par an, et 25 milliards cumulés en vingt ans pour les contrats de ville et la rénovation urbaine. Selon la Cour des comptes, le total réellement dépensé dans les quartiers est inconnu, et les services publics ordinaires y sont souvent moins présents qu'ailleurs. Les résultats sont décevants, mais le chômage y a reculé.",
+  "contexte": "L'argument oppose les quartiers populaires aux zones rurales, qui seraient abandonnées pendant que les banlieues seraient « arrosées ».",
+  "explication": "La politique de la ville apporte des crédits supplémentaires aux quartiers prioritaires. Mais elle ne remplace pas les services publics ordinaires (école, police, justice, santé), dits de « droit commun », qui devraient bénéficier à ces quartiers comme aux autres.",
+  "faits": [
+    {
+      "fait": "Le programme budgétaire de la politique de la ville a consommé 524 M€ en 2024, niveau stable depuis 2020.",
+      "periode": "2020-2024",
+      "perimetre": "France",
+      "explication": "Les crédits propres sont modestes.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "524 M€"
+    },
+    {
+      "fait": "De 2004 à 2024, 11 Md€ cumulés ont financé les actions des contrats de ville et 14 Md€ le renouvellement urbain.",
+      "periode": "2004-2024",
+      "perimetre": "France",
+      "explication": "Les « milliards » sont étalés sur vingt ans.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "25 Md€ en 20 ans"
+    },
+    {
+      "fait": "La Cour des comptes écrit que « le montant global des moyens budgétaires dont bénéficient les QPV est dès lors inconnu », et signale un risque que les crédits spécifiques remplacent ceux de droit commun.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Personne ne peut affirmer que les quartiers reçoivent plus qu'ailleurs.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En Seine-Saint-Denis, en 2015-2016, les absences courtes des enseignants du primaire étaient remplacées à 51,26 %, contre 78,41 % en France.",
+      "periode": "2015-2016",
+      "perimetre": "Seine-Saint-Denis",
+      "explication": "Les services publics ordinaires y sont moins présents.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "51 % contre 78 %"
+    },
+    {
+      "fait": "Dans les quartiers prioritaires, le chômage est passé de 25 % à 18 % entre 2014 et 2022, mais la pauvreté reste de 44 % contre 15 % en métropole, et le revenu médian a moins progressé qu'ailleurs.",
+      "periode": "2014-2022",
+      "perimetre": "France",
+      "explication": "Il y a des progrès, mais les écarts restent énormes.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "44 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : les crédits de la politique de la ville sont d'environ 524 millions par an, une goutte d'eau dans le budget de l'État. Selon la Cour des comptes, les services publics ordinaires y sont souvent moins présents qu'ailleurs. Les résultats sont faibles, mais le chômage y a reculé.",
+    "moyen": "Les « milliards » existent, mais sur vingt ans : environ 25 milliards pour les contrats de ville et la rénovation urbaine depuis 2004. Le budget annuel de la politique de la ville est de 524 millions d'euros.\n\nSurtout, la Cour des comptes constate que ces crédits remplacent parfois les services publics ordinaires au lieu de s'y ajouter. En Seine-Saint-Denis, un rapport parlementaire montrait moins de remplacements de professeurs et une justice plus lente qu'ailleurs. Les quartiers n'ont pas reçu plus : ils ont souvent reçu moins.",
+    "detaille": "La politique de la ville dispose d'un programme budgétaire de 524 millions d'euros par an. Entre 2004 et 2024, 11 milliards ont financé les contrats de ville et 14 milliards la rénovation urbaine. Ces sommes sont importantes, mais étalées sur vingt ans.\n\nLa Cour des comptes juge que le montant total des moyens dont bénéficient ces quartiers est « inconnu ». Elle signale un risque que les crédits spécifiques remplacent les crédits ordinaires. En Seine-Saint-Denis, un rapport parlementaire transpartisan de 2018 montrait des absences d'enseignants moins remplacées et au tribunal d'instance d'Aubervilliers, des délais d'audience six fois plus longs qu'à Paris, et parlait d'un « échec de l'État ».\n\nLes résultats sont décevants : la pauvreté reste de 44 % dans les quartiers prioritaires, contre 15 % en métropole, et leur attractivité a peu progressé. Mais le chômage y est passé de 25 % à 18 % entre 2014 et 2022. Le problème n'est pas que l'argent coule à flots, c'est que l'égalité des services publics n'est pas assurée.",
+    "empathie": "Je comprends le sentiment d'injustice quand on vit dans un village où la poste et l'école ferment. Mais les quartiers populaires vivent la même chose : la Cour des comptes montre que l'État y est souvent moins présent qu'ailleurs."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Pendant ce temps, la campagne est abandonnée.",
+      "reponse": "Les quartiers populaires souffrent aussi du recul des services publics : les deux territoires ont le même intérêt à l'égalité."
+    },
+    {
+      "objection": "Ça n'a servi à rien.",
+      "reponse": "Le chômage y a baissé de 25 % à 18 % entre 2014 et 2022, même si les écarts restent énormes."
+    }
+  ],
+  "questions": [
+    "Sais-tu quel est le budget annuel de la politique de la ville ?",
+    "Les quartiers reçoivent-ils autant de professeurs, de policiers et de juges que les autres ?"
+  ],
+  "limites": [
+    "Le chiffrage des crédits de droit commun dépensés dans les quartiers n'existe pas, selon la Cour des comptes.",
+    "Les données sur la Seine-Saint-Denis datent de 2015 à 2017."
+  ],
+  "sources": [
+    {
+      "titre": "Articuler davantage la politique de la ville et les politiques de droit commun dans les quartiers prioritaires (Rapport public annuel 2026)",
+      "organisme": "Cour des comptes",
+      "date_publication": "mars 2026",
+      "url": "https://www.ccomptes.fr/sites/default/files/2026-03/20260325-RPA-2026-3e-partie_0.pdf",
+      "passage": "Le programme budgétaire 147 (politique de la ville) a consommé 524 M€ en 2024, niveau stable depuis 2020. De 2004 à 2024, 11 Md€ cumulés pour les actions des contrats de ville et 14 Md€ pour le renouvellement urbain. « Le montant global des moyens budgétaires dont bénéficient les QPV est dès lors inconnu. » La Cour signale un « risque de substitution ou d'éviction des crédits de droit commun ». Pauvreté : 44 % dans les quartiers prioritaires contre 15 % en métropole ; chômage passé de 25 % à 18 % entre 2014 et 2022 ; revenu médian +10 % de 2017 à 2022 contre +17 % pour la France.",
+      "pertinence": "Rapport de la juridiction financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Evaluation of the Attractiveness of Priority Neighbourhoods (synthèse du rapport « L'évaluation de l'attractivité des quartiers prioritaires »)",
+      "organisme": "Cour des comptes",
+      "date_publication": "décembre 2020",
+      "url": "https://www.ccomptes.fr/sites/default/files/2021-07/20201202-summary-Evaluating-attractiveness-targeted-poor-districts.pdf",
+      "passage": "Le premier programme de rénovation urbaine (2003-2012) a mobilisé 12 Md€ de fonds publics pour 46,1 Md€ d'investissements. L'attractivité des quartiers a peu progressé entre 2008 et 2018 et la concentration de pauvreté a à peine diminué. Les dépenses de droit commun sont mal identifiées ; dans six des huit quartiers étudiés, le droit commun ne bénéficie pas, ou pas systématiquement, au quartier.",
+      "pertinence": "Rapport de la juridiction financière (synthèse en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Évaluation de l'action de l'État dans l'exercice de ses missions régaliennes en Seine-Saint-Denis (rapport d'information n° 1014)",
+      "organisme": "Assemblée nationale, comité d'évaluation et de contrôle (F. Cornut-Gentille, R. Kokouendo)",
+      "date_publication": "31 mai 2018",
+      "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i1014.pdf",
+      "passage": "En 2015-2016, les absences courtes des enseignants du primaire étaient remplacées à 51,26 % en Seine-Saint-Denis contre 78,41 % en France. Au tribunal d'instance d'Aubervilliers, il fallait 12 mois pour obtenir une audience contre 2 mois à Paris. Le rapport conclut à « l'échec de l'État, et en conséquence de la République ».",
+      "pertinence": "Rapport parlementaire transpartisan (données 2015-2017).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rapports de la Cour des comptes et de l'Observatoire national de la politique de la ville.",
+  "objections_legitimes": [
+    "La Cour des comptes juge les résultats faibles : pauvreté toujours concentrée, attractivité stagnante.",
+    "La rénovation urbaine a mobilisé des sommes importantes."
+  ],
+  "publics": {
+    "convaincus": "Le budget de la politique de la ville, c'est 524 millions par an, une goutte d'eau. La Cour des comptes montre que dans ces quartiers, l'État fournit souvent moins de profs et de juges qu'ailleurs. Les habitants des banlieues et ceux des campagnes subissent le même abandon des services publics.",
+    "indecis": "Des sommes importantes ont été investies, notamment pour rénover les logements, et les résultats sont décevants. Mais ces crédits remplacent souvent les services publics ordinaires au lieu de s'y ajouter. Le vrai enjeu, c'est que chaque quartier ait les mêmes écoles, la même police et la même justice que les autres."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "dignite"
+    ],
+    "mecanismes": "Des crédits spécifiques visibles masquent le recul des services publics ordinaires dans les quartiers.",
+    "consequences": "Les habitants des quartiers populaires ont moins de professeurs remplacés et une justice plus lente.",
+    "democratie": "L’égalité républicaine suppose les mêmes services publics partout, avant toute aide spécifique.",
+    "propositions": [
+      "Garantir l’égalité de dotation en services publics dans tous les territoires.",
+      "Rapprocher habitants des quartiers et des zones rurales autour de la défense des services publics."
+    ],
+    "defavorables": [
+      {
+        "fait": "La Cour des comptes juge les résultats de la politique de la ville faibles.",
+        "integration": "Le reconnaître : l’échec vient d’abord du manque de droit commun."
+      }
+    ]
+  },
+  "concepts": [
+    "services_publics",
+    "renovation",
+    "banlieues"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences",
+    "dpe",
+    "isoler",
+    "isolation",
+    "qpv"
+  ]
+}

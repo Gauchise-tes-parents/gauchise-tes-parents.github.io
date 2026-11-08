@@ -1,0 +1,171 @@
+{
+  "id": "lfi-sixieme-republique",
+  "type": "idee_recue",
+  "affirmation": "LFI veut une VIe République.",
+  "volet": "politique",
+  "sous_theme": "France insoumise",
+  "rubriques": [],
+  "mots_cles": [
+    "sixieme republique",
+    "6e republique",
+    "vie republique",
+    "assemblee constituante",
+    "constituante",
+    "revocation des elus",
+    "nouvelle constitution"
+  ],
+  "verdict": "confirme",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Oui : le programme de LFI de 2022 et celui du Nouveau Front populaire de 2024 prévoient de passer à une VIe République par une assemblée constituante, avec la proportionnelle, le référendum d'initiative citoyenne, la révocation des élus et l'abrogation du 49.3. La nouvelle Constitution serait soumise à référendum. Ce n'est pas une prise de pouvoir, mais une procédure démocratique, dont certaines modalités sont discutées.",
+  "contexte": "L'idée est souvent présentée comme une menace pour les institutions ; elle répond à la crise de confiance envers la Ve République.",
+  "explication": "Une assemblée constituante est élue (ou en partie tirée au sort) pour rédiger une nouvelle Constitution, qui est ensuite soumise au vote des citoyens. LFI veut ainsi passer d'un régime présidentiel à un régime parlementaire.",
+  "faits": [
+    {
+      "fait": "Le programme L'Avenir en commun prévoit de « Convoquer une Assemblée constituante par un référendum (article 11 de la Constitution) », dont les membres seraient élus ou tirés au sort, puis de soumettre la nouvelle Constitution à référendum.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La VIe République passe par le vote des citoyens.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le programme prévoit un régime parlementaire, la proportionnelle, le référendum d'initiative citoyenne, y compris pour révoquer les élus, le droit de vote à 16 ans et la reconnaissance du vote blanc.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le projet vise à donner plus de pouvoir aux citoyens.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le programme du NFP de 2024 prévoit d'« Abolir la monarchie présidentielle dans la pratique des institutions », d'« Instaurer la proportionnelle » et d'« Abroger le 49.3 ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Toute la gauche unie a repris l'objectif.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2019, la proposition de loi constitutionnelle de LFI sur le référendum d'initiative citoyenne a été écartée par 91 voix contre 50 ; la majorité jugeait trop bas le seuil de 2 % des électeurs.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Les modalités du RIC sont critiquées.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Vrai : LFI et le programme du NFP veulent une VIe République, rédigée par une assemblée constituante et adoptée par référendum. Le but est de passer à un régime parlementaire, avec la proportionnelle et le référendum d'initiative citoyenne.",
+    "moyen": "C'est assumé : le programme de LFI prévoit de convoquer par référendum une assemblée constituante, élue ou tirée au sort, puis de faire voter la nouvelle Constitution par les citoyens. Le programme du NFP reprend l'idée.\n\nLe projet : fin de la « monarchie présidentielle », proportionnelle, référendum d'initiative citoyenne, révocation des élus, suppression du 49.3. On peut discuter de ces choix, notamment du seuil du RIC. Mais il s'agit de changer de Constitution par le vote, pas de renverser les institutions.",
+    "detaille": "Le programme L'Avenir en commun (2022) prévoit de « Convoquer une Assemblée constituante par un référendum », en s'appuyant sur l'article 11 de la Constitution. Ses membres seraient élus ou tirés au sort, et la nouvelle Constitution serait soumise à référendum. Le programme du Nouveau Front populaire de 2024 reprend l'objectif d'une VIe République et d'en finir avec la « monarchie présidentielle ».\n\nLes propositions sont précises : régime parlementaire, proportionnelle, référendum d'initiative citoyenne pour proposer ou abroger une loi, modifier la Constitution ou révoquer un élu, vote à 16 ans, reconnaissance du vote blanc, abrogation du 49.3.\n\nCes propositions sont discutables. En 2019, la majorité de l'époque jugeait trop bas le seuil de 2 % des électeurs pour déclencher un RIC, et le recours à l'article 11 pour convoquer une constituante fait débat. Mais l'idée de VIe République est une procédure démocratique de changement de Constitution, comme la France en a connu plusieurs.",
+    "empathie": "Je comprends qu'on puisse s'inquiéter de changer les règles du jeu. Mais le projet de LFI prévoit que ce soient les citoyens qui votent la nouvelle Constitution, par référendum : rien ne se fait sans eux."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est un projet pour prendre le pouvoir.",
+      "reponse": "La nouvelle Constitution serait rédigée par une assemblée élue ou tirée au sort, puis soumise à référendum."
+    },
+    {
+      "objection": "La Ve République fonctionne très bien.",
+      "reponse": "C'est un choix ; LFI et le NFP estiment qu'elle concentre trop de pouvoir dans les mains du président."
+    }
+  ],
+  "questions": [
+    "Sais-tu comment LFI propose d'adopter la nouvelle Constitution ?",
+    "Les citoyens devraient-ils pouvoir révoquer un élu en cours de mandat ?"
+  ],
+  "limites": [
+    "Aucune analyse de constitutionnaliste n'a été lue.",
+    "Le programme de 2027 n'a pas été vérifié ; les sources principales sont des programmes partisans."
+  ],
+  "sources": [
+    {
+      "titre": "L'Avenir en commun – la version abrégée",
+      "organisme": "Programme de Jean-Luc Mélenchon / Union populaire",
+      "date_publication": "avril 2022",
+      "url": "https://melenchon.fr/wp-content/uploads/2022/04/programme-avenir-en-commun-abrege.pdf",
+      "passage": "Le programme prévoit de « Convoquer une Assemblée constituante par un référendum (article 11 de la Constitution) », dont les membres seraient élus ou tirés au sort, puis de soumettre le projet de Constitution à référendum. Il propose un régime parlementaire avec la proportionnelle, un référendum d'initiative citoyenne pour proposer ou abroger une loi, modifier la Constitution et révoquer les élus, le droit de vote à 16 ans et la reconnaissance du vote blanc.",
+      "pertinence": "Programme électoral, cité pour décrire les propositions.",
+      "type": "partisane",
+      "consultee": true
+    },
+    {
+      "titre": "Contrat de législature du Nouveau Front populaire",
+      "organisme": "Nouveau Front populaire (document hébergé par LFI)",
+      "date_publication": "juin 2024",
+      "url": "https://lafranceinsoumise.fr/wp-content/uploads/2024/06/PROGRAMME-FRONT-POPULAIRE.pdf",
+      "passage": "La section « Vers une 6e République » prévoit d'« Abolir la monarchie présidentielle dans la pratique des institutions », d'« Instaurer la proportionnelle », d'« Abroger le 49.3 » et d'« Instaurer le référendum d'initiative citoyenne (RIC) », puis de passer à une 6e République par une assemblée constituante.",
+      "pertinence": "Programme électoral, cité pour décrire les propositions.",
+      "type": "partisane",
+      "consultee": true
+    },
+    {
+      "titre": "Le RIC des Insoumis rejeté à l'Assemblée nationale",
+      "organisme": "Public Sénat (Charlotte Hill)",
+      "date_publication": "21 février 2019",
+      "url": "https://www.publicsenat.fr/actualites/politique/le-ric-des-insoumis-rejete-a-l-assemblee-nationale-138267",
+      "passage": "La proposition de loi constitutionnelle de LFI prévoyait des référendums d'initiative citoyenne pour proposer ou abroger une loi, révoquer les élus, président compris, et convoquer une assemblée constituante. La majorité jugeait trop bas le seuil de 2 % des électeurs ; le texte a été écarté par 91 voix contre 50.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Programmes de 2027.",
+  "objections_legitimes": [
+    "Le seuil de 2 % pour le RIC a été jugé trop bas.",
+    "Le recours à l'article 11 pour convoquer une constituante est juridiquement discuté."
+  ],
+  "publics": {
+    "convaincus": "Le projet de LFI, c'est une Constitution rédigée par une assemblée élue ou tirée au sort, puis votée par tous les Français. Avec le RIC, tu pourrais toi-même proposer une loi ou révoquer un élu. Qu'est-ce qui est dangereux dans le fait de donner plus de pouvoir au peuple ?",
+    "indecis": "LFI et le NFP veulent bien une VIe République, avec un régime parlementaire, la proportionnelle et le référendum d'initiative citoyenne. Certaines modalités sont discutées, comme le seuil du RIC. Mais la démarche passe par le vote des citoyens."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "emancipation"
+    ],
+    "mecanismes": "La concentration du pouvoir dans la présidence nourrit la défiance ; une constituante rend la décision aux citoyens.",
+    "consequences": "Les citoyens se sentent exclus des décisions entre deux élections.",
+    "democratie": "Changer de Constitution par le vote est une procédure démocratique.",
+    "propositions": [
+      "Convoquer une assemblée constituante, élue ou tirée au sort, puis soumettre la Constitution à référendum.",
+      "Instaurer la proportionnelle et le référendum d’initiative citoyenne."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certaines modalités, comme le seuil du RIC ou le recours à l’article 11, sont contestées.",
+        "integration": "Le reconnaître et en débattre ouvertement."
+      }
+    ]
+  },
+  "concepts": [
+    "melenchon_lfi",
+    "gauche",
+    "loi_constitution",
+    "sixieme_rep"
+  ],
+  "repond_a": [
+    {
+      "id": "sixieme_rep",
+      "label": "VIe République"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise",
+    "nupes",
+    "nfp",
+    "gauche",
+    "gauchos",
+    "mitterrand",
+    "jospin",
+    "front populaire"
+  ]
+}

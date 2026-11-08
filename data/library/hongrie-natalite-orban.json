@@ -1,0 +1,166 @@
+{
+  "id": "hongrie-natalite-orban",
+  "type": "idee_recue",
+  "affirmation": "Orbán a réussi à relancer la natalité en Hongrie.",
+  "volet": "international",
+  "sous_theme": "Europe",
+  "rubriques": [],
+  "mots_cles": [
+    "orban",
+    "hongrie",
+    "natalite hongrie",
+    "politique nataliste",
+    "politique familiale hongroise",
+    "fecondite hongrie",
+    "pret bebe"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La fécondité hongroise est passée de 1,23 enfant par femme en 2011 à 1,61 en 2021, mais elle est retombée à 1,31 en 2025. Les naissances sont au plus bas : 72 017 en 2025, contre 90 335 en 2010. La politique familiale, qui coûterait environ 5 % du PIB, n'a pas produit le redressement durable promis.",
+  "contexte": "La Hongrie de Viktor Orbán est présentée par l'extrême droite comme le modèle d'une politique nataliste qui permettrait de se passer d'immigration.",
+  "explication": "L'indice de fécondité peut monter temporairement quand des couples avancent des naissances qu'ils auraient eues plus tard (« effet de calendrier ») ; cela ne change pas forcément le nombre total d'enfants par femme.",
+  "faits": [
+    {
+      "fait": "L'indice de fécondité hongrois est passé de 1,23 en 2011 à 1,61 en 2021, puis à 1,51 en 2023, 1,39 en 2024 et 1,31 en 2025.",
+      "periode": "2011-2025",
+      "perimetre": "Hongrie",
+      "explication": "La hausse a été suivie d'une rechute.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,31 en 2025"
+    },
+    {
+      "fait": "Les naissances vivantes sont passées de 90 335 en 2010 à 72 017 en 2025.",
+      "periode": "2010-2025",
+      "perimetre": "Hongrie",
+      "explication": "Il naît moins d'enfants qu'avant les mesures.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "72 017"
+    },
+    {
+      "fait": "Le gouvernement vise 2,1 enfants par femme en 2035 et a ajouté en 2025 une exonération d'impôt sur le revenu à vie pour les mères de deux enfants, estimée à 2,3 Md€ d'ici 2029.",
+      "periode": "2025",
+      "perimetre": "Hongrie",
+      "explication": "La politique coûte cher et s'intensifie.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "2,3 Md€"
+    },
+    {
+      "fait": "La Hongrie consacrerait environ 5 % de son PIB aux aides aux familles ; selon un démographe, la hausse de 2011-2021 tient surtout à un effet de calendrier des naissances.",
+      "periode": "2010-2025",
+      "perimetre": "Hongrie",
+      "explication": "L'effet durable est discuté.",
+      "source": 2,
+      "fiabilite": "interpretation",
+      "chiffre": "5 % du PIB"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : la fécondité hongroise est remontée de 1,23 à 1,61 entre 2011 et 2021, puis retombée à 1,31 en 2025. Il naît moins d'enfants qu'en 2010, malgré une politique familiale estimée à 5 % du PIB.",
+    "moyen": "La Hongrie a connu une vraie remontée de la fécondité, de 1,23 enfant par femme en 2011 à 1,61 en 2021. Mais la tendance s'est inversée : 1,31 en 2025, et seulement 72 017 naissances, le plus bas niveau.\n\nUn démographe explique la hausse surtout par des naissances avancées dans le temps. Malgré des aides très coûteuses (prêts, logement, exonérations d'impôt), la Hongrie n'a pas trouvé la recette pour relancer durablement la natalité.",
+    "detaille": "Selon l'office statistique hongrois, l'indice de fécondité était de 1,23 en 2011, l'un des plus bas d'Europe. Il a progressé jusqu'à 1,61 en 2021, ce que le gouvernement Orbán présente comme le succès de sa politique familiale : prêts bébé, aides au logement et à l'achat de voiture, garde gratuite, exonérations fiscales.\n\nDepuis, la fécondité recule chaque année : 1,51 en 2023, 1,39 en 2024, 1,31 en 2025. Les naissances sont tombées à 72 017, contre 90 335 en 2010. Le démographe Wolfgang Lutz estime que la hausse tenait surtout à un effet de calendrier : des couples ont avancé des naissances. L'AFP parle d'une stratégie très coûteuse aux « effets mitigés ».\n\nLe cas hongrois montre que des aides financières massives ne suffisent pas à relancer durablement la natalité.",
+    "empathie": "Je comprends l'inquiétude devant la baisse des naissances, et l'envie d'aider les familles. Mais la Hongrie montre qu'on ne relance pas durablement la natalité à coups d'aides : elle a dépensé énormément, et la fécondité est retombée."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est mieux que rien.",
+      "reponse": "La fécondité de 2025 (1,31) est à peine supérieure à celle de 2011 (1,23), et il naît moins d'enfants qu'en 2010."
+    },
+    {
+      "objection": "La France devrait faire pareil.",
+      "reponse": "Le cas hongrois montre que l'efficacité de ces aides, très coûteuses, est limitée et discutée."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce qu'est devenue la fécondité hongroise depuis 2021 ?",
+    "Qu'est-ce qui aide vraiment les couples à avoir des enfants : une prime, ou un logement et un emploi stables ?"
+  ],
+  "limites": [
+    "Le coût de 5 % du PIB vient d'un think tank conservateur américain et n'a pas été vérifié auprès de l'OCDE.",
+    "La baisse du nombre de femmes en âge d'avoir des enfants n'a pas été vérifiée."
+  ],
+  "sources": [
+    {
+      "titre": "22.1.1.6. Live births, total fertility rate",
+      "organisme": "KSH (office central de statistique hongrois)",
+      "date_publication": "mis à jour le 17 juillet 2026",
+      "url": "https://www.ksh.hu/stadat_files/nep/en/nep0006.html",
+      "passage": "Indice de fécondité : 1,25 en 2010, 1,23 en 2011, 1,45 en 2015, 1,59 en 2020, 1,61 en 2021, puis 1,55 en 2022, 1,51 en 2023, 1,39 en 2024 et 1,31 en 2025. Naissances vivantes : 90 335 en 2010, 93 039 en 2021, 77 511 en 2024 et 72 017 en 2025.",
+      "pertinence": "Statistique publique hongroise.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pour doper la natalité, la Hongrie adopte une mesure alléchante pour les parents",
+      "organisme": "La Libre Belgique / AFP",
+      "date_publication": "29 avril 2025",
+      "url": "https://www.lalibre.be/international/europe/2025/04/29/pour-doper-la-natalite-la-hongrie-adopte-une-mesure-allechante-pour-les-parents-un-havre-fiscal-pour-les-familles-KJLLECBMCVDFNMMNDEJZQKMF5Y/",
+      "passage": "La fécondité est tombée à 1,31 enfant par femme en mars 2025, contre un pic de 1,61 en 2021. Le gouvernement vise 2,1 en 2035. L'exonération à vie d'impôt sur le revenu pour les mères d'au moins deux enfants coûterait 2,3 Md€ d'ici 2029 selon le gouvernement ; elle s'ajoute aux prêts bébé, aux aides au logement et à la garde gratuite. L'AFP parle d'une stratégie coûteuse aux « effets mitigés ».",
+      "pertinence": "Dépêche d'agence reprise par un quotidien.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Hungary's Fertility Outcomes Highlight Pro-Natal Policy Limitations",
+      "organisme": "American Enterprise Institute, Cosm (Vanessa Brown Calder)",
+      "date_publication": "21 novembre 2025",
+      "url": "https://cosm.aei.org/hungarys-fertility-outcomes-highlight-pro-natal-policy-limitations/",
+      "passage": "La Hongrie consacre environ 5 % de son PIB aux aides aux familles, selon les dispositifs inclus. Le démographe Wolfgang Lutz y voit surtout un effet de calendrier des naissances ; les indicateurs corrigés de ces effets montrent une fécondité plutôt stable de 2010 à 2021.",
+      "pertinence": "Analyse d'un think tank conservateur américain.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Données annuelles de l'office statistique hongrois.",
+  "objections_legitimes": [
+    "La fécondité hongroise a fortement remonté entre 2011 et 2021, d'un des niveaux les plus bas d'Europe."
+  ],
+  "publics": {
+    "convaincus": "Orbán a dépensé des sommes énormes pour la natalité, et la fécondité a bien monté jusqu'en 2021. Mais elle est retombée à 1,31 en 2025, et il naît moins d'enfants qu'en 2010. Même le modèle préféré de l'extrême droite ne marche pas durablement.",
+    "indecis": "La Hongrie a connu une remontée réelle de la fécondité, puis une rechute nette. Les chercheurs pensent que les aides ont surtout fait avancer des naissances. Pour soutenir les familles, le logement, l'emploi stable et les modes de garde comptent au moins autant que les primes."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "solidarite",
+      "services_publics"
+    ],
+    "mecanismes": "La politique nataliste de l’extrême droite mise sur des primes aux familles, souvent conditionnées, plutôt que sur l’égalité et les services publics.",
+    "consequences": "Les aides profitent davantage aux ménages aisés et assignent les femmes à la maternité.",
+    "democratie": "Faire de la natalité un instrument contre l’immigration transforme les familles en outil politique.",
+    "propositions": [
+      "Développer les modes de garde publics et le logement abordable.",
+      "Garantir l’égalité professionnelle entre femmes et hommes."
+    ],
+    "defavorables": [
+      {
+        "fait": "La fécondité hongroise a réellement remonté pendant dix ans.",
+        "integration": "Le reconnaître, puis montrer la rechute et le coût."
+      }
+    ]
+  },
+  "concepts": [
+    "demographie",
+    "europe"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "natalite",
+    "enfants par femme",
+    "font des gosses",
+    "font plus d enfants",
+    "un tiers de la population",
+    "population",
+    "de plus en plus d",
+    "trop d",
+    "nombre d",
+    "bruxelles",
+    "union europeenne"
+  ]
+}

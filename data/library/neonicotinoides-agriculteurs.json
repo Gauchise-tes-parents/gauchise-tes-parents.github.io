@@ -1,0 +1,186 @@
+{
+  "id": "neonicotinoides-agriculteurs",
+  "type": "idee_recue",
+  "affirmation": "Interdire les néonicotinoïdes comme l'acétamipride tue nos agriculteurs.",
+  "volet": "ecologie",
+  "sous_theme": "Pesticides",
+  "rubriques": [],
+  "mots_cles": [
+    "neonicotinoides",
+    "acetamipride",
+    "loi duplomb",
+    "duplomb",
+    "pesticides interdits",
+    "noisette",
+    "betterave",
+    "tueurs d abeilles"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Certaines filières sont réellement en difficulté depuis l'interdiction de 2018, surtout la noisette et en partie la betterave et la pomme. Mais l'agriculture française n'est pas « tuée » : l'Anses a trouvé des alternatives pour la majorité des usages, et dans un réseau de 294 fermes suivies, seules 7 ont subi de lourdes pertes. En 2025, le Conseil constitutionnel a censuré la réintroduction de l'acétamipride au nom du droit à un environnement sain.",
+  "contexte": "La loi Duplomb de 2025 voulait réautoriser l'acétamipride par dérogation ; une pétition contre la loi a réuni plus de 2,1 millions de signatures.",
+  "explication": "Les néonicotinoïdes sont des insecticides très efficaces, mais toxiques pour les abeilles et les pollinisateurs. La France les a interdits en 2018, alors que l'UE autorise encore l'acétamipride jusqu'en 2033, d'où un sentiment de concurrence déloyale.",
+  "faits": [
+    {
+      "fait": "Selon Anses, Sur 130 usages examinés en 2018, l'Anses a trouvé des alternatives efficaces pour la majorité, mais aucune dans 6 cas ; il existe une alternative non chimique dans 78 % des cas.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Les impasses existent, mais sont limitées.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "6 sur 130"
+    },
+    {
+      "fait": "Dans les fermes du réseau DEPHY, une année sans néonicotinoïdes a causé des pertes de 60 à 80 % sur 7 fermes sur 294 (2,4 %).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les grosses pertes touchent une minorité de fermes.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "2,4 %"
+    },
+    {
+      "fait": "L'INRAE décrit la filière noisette comme au bord de la faillite et note une baisse du rendement de la betterave d'environ 5 t/ha depuis 2018, aux causes multiples.",
+      "periode": "2018-2025",
+      "perimetre": "France",
+      "explication": "Certaines filières souffrent vraiment.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'acétamipride reste autorisé dans l'UE jusqu'en 2033 ; en 2024, l'agence européenne a évoqué des « incertitudes majeures » sur ses effets neurodéveloppementaux, et ses effets sur les pollinisateurs sont documentés.",
+      "periode": "2024-2025",
+      "perimetre": "Union européenne",
+      "explication": "Il y a un écart de règles, mais aussi des risques sanitaires.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Conseil constitutionnel a jugé la réintroduction de l'acétamipride contraire à la Charte de l'environnement en août 2025.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La réintroduction est impossible en l'état.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : des filières comme la noisette souffrent vraiment depuis 2018. Mais l'Anses a trouvé des alternatives pour la plupart des usages, et seules 7 fermes sur 294 suivies ont subi de lourdes pertes. Le Conseil constitutionnel a censuré la réintroduction au nom de la santé et de l'environnement.",
+    "moyen": "L'interdiction de 2018 a créé de vraies difficultés pour quelques filières : la noisette surtout, et en partie la betterave et la pomme. Et l'acétamipride reste autorisé ailleurs en Europe, ce qui crée une concurrence déloyale.\n\nMais ce n'est pas toute l'agriculture : l'Anses a trouvé des alternatives pour la majorité des usages, et dans un réseau de 294 fermes, 7 ont eu de fortes pertes. Ses effets sur les pollinisateurs sont documentés et l'agence européenne relève des incertitudes sur la santé. La réponse, c'est d'aider les filières en impasse et d'imposer les mêmes règles à toute l'Europe.",
+    "detaille": "La France a interdit les néonicotinoïdes en 2018. En 2025, la loi Duplomb a voulu réautoriser l'acétamipride par dérogation ; le Conseil constitutionnel l'a censuré, estimant que le législateur avait « privé de garanties légales le droit de vivre dans un environnement équilibré et respectueux de la santé ». Plus de 2,1 millions de personnes avaient signé une pétition contre la loi.\n\nLes difficultés agricoles sont réelles, mais ciblées. Selon l'INRAE, la filière noisette est au bord de la faillite, et le rendement de la betterave a baissé d'environ 5 tonnes par hectare depuis 2018, pour des causes multiples. Mais dans le réseau DEPHY, seules 7 fermes sur 294 ont subi des pertes de 60 à 80 %. L'Anses avait trouvé en 2018 des alternatives pour la majorité des 130 usages, et aucune dans 6 cas seulement.\n\nL'acétamipride reste autorisé dans l'UE jusqu'en 2033, ce qui crée un écart de concurrence. Mais l'agence européenne a relevé des « incertitudes majeures » sur ses effets sur le développement du cerveau, et ses effets sur les pollinisateurs sont documentés.",
+    "empathie": "Je comprends le désespoir d'un producteur de noisettes qui voit sa récolte ravagée pendant que ses concurrents italiens utilisent un produit interdit en France. Cette injustice est réelle. Mais la réponse n'est pas de réautoriser un produit nocif pour les abeilles : c'est d'aider ces filières et d'harmoniser les règles en Europe."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les écolos préfèrent les abeilles aux paysans.",
+      "reponse": "La censure vient du Conseil constitutionnel, au nom du droit à un environnement sain ; et les effets de la molécule sur les pollinisateurs sont documentés par des chercheurs de l'INRAE."
+    },
+    {
+      "objection": "Il n'y a aucune alternative.",
+      "reponse": "L'Anses en a trouvé pour la majorité des usages ; les impasses réelles concernent quelques filières, qu'il faut aider."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de fermes du réseau suivi par l'INRAE ont subi de lourdes pertes ?",
+    "Ne faudrait-il pas plutôt interdire ces produits dans toute l'Europe ?"
+  ],
+  "limites": [
+    "Les données de l'Anses datent de 2018.",
+    "Aucun chiffre de pertes pour la filière noisette n'a été lu.",
+    "La décision du Conseil constitutionnel n'a été lue qu'à travers LCP."
+  ],
+  "sources": [
+    {
+      "titre": "Loi agricole Duplomb : le Conseil constitutionnel censure la réintroduction de l'acétamipride",
+      "organisme": "LCP (Raphaël Marchal)",
+      "date_publication": "7 août 2025",
+      "url": "https://lcp.fr/actualites/loi-agricole-duplomb-le-conseil-constitutionnel-censure-la-reintroduction-de-l",
+      "passage": "Le Conseil constitutionnel juge la réintroduction dérogatoire de l'acétamipride contraire à la Charte de l'environnement, le législateur ayant « privé de garanties légales le droit de vivre dans un environnement équilibré et respectueux de la santé ». Le reste de la loi est largement validé. Une pétition contre la loi a réuni plus de 2,1 millions de signatures en un peu moins d'un mois, un record.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Néonicotinoïdes : qu'est-ce que l'acétamipride, pesticide réintroduit par la loi Duplomb ?",
+      "organisme": "Public Sénat (Louis Mollier-Sabet)",
+      "date_publication": "26 mai 2025",
+      "url": "https://www.publicsenat.fr/actualites/economie/neonicotinoides-quest-ce-que-lacetamipride-pesticide-reintroduit-par-la-loi-duplomb",
+      "passage": "La France a interdit l'acétamipride en 2018 ; l'Union européenne l'autorise jusqu'en 2033. Les filières concernées sont surtout la betterave sucrière et la noisette, et la FNSEA dénonce une concurrence déloyale. En 2024, l'Autorité européenne de sécurité des aliments a évoqué des « incertitudes majeures » sur les effets neurodéveloppementaux ; selon des chercheurs de l'INRAE, les effets sur les pollinisateurs sont clairement documentés.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Risques et bénéfices des produits phytopharmaceutiques à base de néonicotinoïdes et de leurs alternatives",
+      "organisme": "Anses",
+      "date_publication": "30 mai 2018",
+      "url": "https://www.anses.fr/fr/content/risques-et-benefices-des-produits-phytopharmaceutiques-base-de-neonicotinoides-et-de-leurs",
+      "passage": "Sur 130 usages autorisés, l'agence trouve des alternatives efficaces et opérationnelles pour la majorité, mais aucune dans 6 cas. Dans 89 % des cas, l'alternative est chimique, et il existe au moins une alternative non chimique dans 78 % des cas. L'impact économique est jugé difficile à anticiper.",
+      "pertinence": "Agence publique d'expertise (2018).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Alternatives chimiques et non chimiques existantes à l'usage des néonicotinoïdes",
+      "organisme": "INRAE (à la demande du ministère de l'Agriculture)",
+      "date_publication": "octobre 2025",
+      "url": "https://www.inrae.fr/sites/default/files/pdf/rapportcompletnni-inrae-vf-27oct25.pdf",
+      "passage": "Près d'un tiers des insecticides disponibles avant l'interdiction ont été retirés depuis. Dans les fermes du réseau DEPHY, une année sans néonicotinoïdes a causé des pertes de 60 à 80 % sur 7 fermes sur 294 (2,4 %). Le rendement national de la betterave a baissé d'environ 5 t/ha par rapport à la période d'avant 2018, avec de multiples causes possibles. La filière noisette est soumise à une telle pression sanitaire qu'elle est décrite comme au bord de la faillite ; aucune alternative isolée n'égale l'efficacité des néonicotinoïdes.",
+      "pertinence": "Expertise d'un organisme public de recherche.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Évolution des autorisations européennes et des filières en impasse.",
+  "objections_legitimes": [
+    "La filière noisette est au bord de la faillite selon l'INRAE.",
+    "L'acétamipride reste autorisé ailleurs dans l'UE, ce qui crée une concurrence déloyale.",
+    "Aucune alternative isolée n'égale l'efficacité des néonicotinoïdes."
+  ],
+  "publics": {
+    "convaincus": "Les producteurs de noisettes souffrent vraiment, et la concurrence de pays où le produit est autorisé est injuste. Mais sur 294 fermes suivies, 7 ont subi de lourdes pertes, et l'Anses a trouvé des alternatives pour la plupart des usages. Réautoriser un produit nocif pour les abeilles, avec des incertitudes sur la santé, n'est pas la seule réponse : des aides ciblées et des règles communes en Europe le sont aussi.",
+    "indecis": "Certaines filières sont en vraie difficulté depuis l'interdiction, et leur colère est légitime. Mais l'agriculture dans son ensemble a trouvé des alternatives, et les risques pour la santé et les abeilles sont documentés. La solution passe par des aides ciblées et des règles communes en Europe."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "travailleurs",
+      "solidarite"
+    ],
+    "mecanismes": "On oppose agriculteurs et environnement, alors que la concurrence déloyale vient de règles européennes inégales et d’un modèle agricole dépendant des pesticides.",
+    "consequences": "Les filières en impasse souffrent, et les riverains comme les pollinisateurs paient le prix des pesticides.",
+    "democratie": "La décision du Conseil constitutionnel rappelle que la santé et l’environnement sont des droits.",
+    "propositions": [
+      "Interdire ces produits dans toute l’Union européenne pour mettre fin à la concurrence déloyale.",
+      "Financer la recherche d’alternatives et accompagner les filières en impasse."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certaines filières, comme la noisette, sont réellement au bord de la faillite.",
+        "integration": "Le reconnaître, et proposer un soutien ciblé plutôt qu’une réintroduction."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "glyphosate",
+    "neonics"
+  ],
+  "repond_a": [
+    {
+      "id": "neonics",
+      "label": "Néonicotinoïdes"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "glyphosate",
+    "roundup",
+    "acetamipride",
+    "duplomb"
+  ]
+}

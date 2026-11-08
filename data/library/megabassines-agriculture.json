@@ -1,0 +1,172 @@
+{
+  "id": "megabassines-agriculture",
+  "type": "idee_recue",
+  "affirmation": "Les mégabassines sont indispensables pour l'agriculture.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "megabassines",
+    "mega bassines",
+    "bassines",
+    "reserves de substitution",
+    "sainte soline",
+    "irrigation",
+    "marais poitevin",
+    "retenues d eau"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Les réserves de substitution sont un outil possible pour une partie des irrigants, sous conditions strictes, selon l'Académie d'agriculture elle-même. Elles ne concernent qu'une minorité d'agriculteurs, sont financées aux deux tiers par l'argent public, et plusieurs projets ont été annulés par la justice pour surdimensionnement ou volumes excessifs.",
+  "contexte": "Les « mégabassines » des Deux-Sèvres et de la Vienne sont devenues un symbole du conflit sur l'eau, après les affrontements de Sainte-Soline en 2023.",
+  "explication": "Une réserve de substitution pompe l'eau des nappes en hiver pour irriguer en été, afin de réduire les prélèvements pendant la sécheresse. Son intérêt dépend des volumes, de la gestion collective et du remplissage, qui pourrait devenir incertain avec le changement climatique.",
+  "faits": [
+    {
+      "fait": "Selon Académie d'agriculture de France, l'Académie d'agriculture présente les réserves comme « un des moyens » de mobiliser de l'eau, sous conditions : seuils de prélèvement, transition agroécologique et gestion collective.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Même leurs partisans posent des conditions.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Environ deux tiers du financement des réserves est public.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "L'argent public doit servir l'intérêt général.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "2/3"
+    },
+    {
+      "fait": "Le modèle du BRGM montre un faible effet sur les débits et un effet positif sur les nappes en été ; mais certaines réserves pourraient ne pas se remplir certaines années avec le changement climatique.",
+      "periode": "2024",
+      "perimetre": "Deux-Sèvres",
+      "explication": "L'effet existe mais reste incertain à l'avenir.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "En 2023, le tribunal administratif de Poitiers a annulé deux autorisations portant sur 15 réserves, relevant un « sur-dimensionnement du projet » et des volumes calculés sans tenir compte du changement climatique.",
+      "periode": "2023",
+      "perimetre": "Vienne",
+      "explication": "Des projets ont été jugés illégaux.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "15 réserves"
+    },
+    {
+      "fait": "En 2025, la cour administrative d'appel de Bordeaux a jugé excessifs les volumes d'irrigation autorisés dans le Marais poitevin ; le projet de 16 retenues pour 450 agriculteurs coûte 78 M€, financé à moitié par l'État.",
+      "periode": "2025",
+      "perimetre": "Marais poitevin",
+      "explication": "Les bénéficiaires sont peu nombreux et le coût public élevé.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "78 M€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : même l'Académie d'agriculture n'y voit qu'« un des moyens », sous conditions strictes. Ces réserves servent une minorité d'irrigants, sont payées aux deux tiers par l'argent public, et plusieurs ont été annulées par la justice.",
+    "moyen": "Les réserves de substitution peuvent soulager les nappes en été, selon le BRGM. Mais l'Académie d'agriculture pose des conditions : volumes limités, gestion collective, changement des pratiques.\n\nElles profitent à une minorité d'agriculteurs, avec deux tiers d'argent public. Dans le Marais poitevin, 16 retenues pour 450 agriculteurs coûtent 78 millions d'euros. La justice a annulé plusieurs projets surdimensionnés. Ce n'est pas l'agriculture en général qui en dépend, mais un modèle d'irrigation intensive.",
+    "detaille": "Le principe est de pomper en hiver pour stocker l'eau et irriguer en été. Selon l'Académie d'agriculture, c'est « un des moyens » de mobiliser de l'eau, à condition de fixer des seuils de prélèvement, d'engager une transition agroécologique et d'organiser une gestion collective. Le modèle du BRGM montre un effet positif sur les nappes en été, mais avec le changement climatique, certaines réserves pourraient ne pas se remplir.\n\nCes projets coûtent cher et profitent à peu d'agriculteurs : environ deux tiers du financement est public, et dans le Marais poitevin, 16 retenues pour 450 agriculteurs coûtent 78 millions d'euros. La justice a annulé en 2023 deux autorisations portant sur 15 réserves, jugées surdimensionnées, et a confirmé en 2025 la réduction des prélèvements d'environ un quart.\n\nLes irrigants qui en dépendent redoutent une catastrophe économique, et leur inquiétude est réelle. Le débat porte sur le partage d'une ressource commune : qui a droit à l'eau, pour quelles cultures, et qui paie.",
+    "empathie": "Je comprends l'angoisse d'un agriculteur qui voit ses cultures sécher et qui a besoin d'eau l'été. Mais ces réserves profitent à une minorité, avec beaucoup d'argent public ; la question est de partager l'eau entre tous."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Sans bassines, pas de nourriture.",
+      "reponse": "Les réserves ne concernent qu'une partie des irrigants ; la plupart des agriculteurs n'en bénéficient pas."
+    },
+    {
+      "objection": "Ce sont des écoterroristes qui s'y opposent.",
+      "reponse": "Les annulations viennent de tribunaux administratifs, qui ont jugé des volumes excessifs et des projets surdimensionnés."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'agriculteurs bénéficient des retenues du Marais poitevin ?",
+    "Qui doit décider du partage de l'eau en période de sécheresse ?"
+  ],
+  "limites": [
+    "La part totale des agriculteurs bénéficiaires n'a pas été chiffrée par une source lue.",
+    "Le jugement validant la réserve de Sainte-Soline n'a pas été lu.",
+    "L'expertise de 2016 sur les retenues ne traitait pas spécifiquement des réserves de substitution."
+  ],
+  "sources": [
+    {
+      "titre": "Avis sur les réserves de substitution : quelques conditions préalables à leur développement",
+      "organisme": "Académie d'agriculture de France",
+      "date_publication": "février 2024",
+      "url": "https://www.academie-agriculture.fr/system/files_force/publications/avis-recommandations/2024/20240221avisacademiquereservessubstitution.pdf?download=1",
+      "passage": "Les réserves sont « un des moyens » de mobiliser une ressource supplémentaire, sous conditions : seuils de prélèvement, transition agroécologique et gestion collective, présentée comme une condition du succès. Environ deux tiers du financement est public. Pour une réserve des Deux-Sèvres, l'évaporation annuelle est estimée à environ 12 % du volume maximal. Le modèle du BRGM montre un faible effet sur les débits et un effet positif sur les nappes en été ; avec le changement climatique, certaines réserves pourraient ne pas se remplir certaines années.",
+      "pertinence": "Avis d'une académie savante.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Mégabassines » : deux projets annulés par le tribunal administratif en Poitou-Charentes",
+      "organisme": "Banque des Territoires (Localtis, avec AFP)",
+      "date_publication": "4 octobre 2023",
+      "url": "https://www.banquedesterritoires.fr/megabassines-deux-projets-annules-par-le-tribunal-administratif-en-poitou-charentes",
+      "passage": "Le tribunal administratif de Poitiers annule deux autorisations portant sur 15 réserves (environ trois millions de m³). Les volumes reposaient sur des données du début des années 2000 et ne tenaient pas compte du changement climatique ; dans la Vienne, le tribunal relève un « sur-dimensionnement du projet ».",
+      "pertinence": "Média des collectivités locales.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "La justice confirme la réduction des prélèvements d'eau dans le Marais Poitevin",
+      "organisme": "AFP, publié par Terre-net",
+      "date_publication": "26 septembre 2025",
+      "url": "https://www.terre-net.fr/irrigation/article/888144/la-justice-confirme-la-reduction-des-prelevements-d-eau-dans-le-marais-poitevin",
+      "passage": "La cour administrative d'appel de Bordeaux juge excessifs les volumes d'irrigation autorisés en 2021 : les prélèvements doivent baisser d'environ un quart. Le projet de 16 retenues porté par un groupement de 450 agriculteurs coûte 78 M€, financé à moitié par l'État ; seules quatre réserves ont été construites. Les agriculteurs redoutent une catastrophe économique et sociale.",
+      "pertinence": "Dépêche AFP.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Décisions de justice et bilans des réserves existantes.",
+  "objections_legitimes": [
+    "Le BRGM montre un effet positif sur les nappes en été.",
+    "Les irrigants concernés redoutent de graves difficultés économiques."
+  ],
+  "publics": {
+    "convaincus": "Les bassines ne servent pas « l'agriculture » mais une minorité d'irrigants : dans le Marais poitevin, 450 agriculteurs pour 78 millions d'euros, à moitié payés par l'État. Ce sont des tribunaux, pas des militants, qui ont jugé plusieurs projets surdimensionnés. L'eau est un bien commun à partager entre tous les paysans.",
+    "indecis": "Les réserves peuvent aider certains agriculteurs pendant les sécheresses, et leur inquiétude est légitime. Mais l'Académie d'agriculture elle-même pose des conditions strictes, et la justice a annulé des projets trop gros. Le vrai débat porte sur le partage de l'eau et l'usage de l'argent public."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "services_publics",
+      "democratie"
+    ],
+    "mecanismes": "Une ressource commune, l’eau, est captée au profit d’une minorité d’irrigants, avec beaucoup d’argent public.",
+    "consequences": "Les autres agriculteurs et les milieux naturels supportent les effets des prélèvements.",
+    "democratie": "Le partage de l’eau doit être décidé collectivement et sous le contrôle du juge.",
+    "propositions": [
+      "Conditionner les financements publics à une réduction des prélèvements et à la transition agroécologique.",
+      "Organiser une gouvernance démocratique de l’eau par bassin."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les réserves peuvent avoir un effet positif sur les nappes en été.",
+        "integration": "Le reconnaître, en rappelant les conditions et les annulations."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "bassines"
+  ],
+  "repond_a": [
+    {
+      "id": "bassines",
+      "label": "Mégabassines"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "sainte soline"
+  ]
+}

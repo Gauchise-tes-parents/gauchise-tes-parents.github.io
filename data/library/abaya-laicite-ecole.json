@@ -1,0 +1,182 @@
+{
+  "id": "abaya-laicite-ecole",
+  "type": "idee_recue",
+  "affirmation": "Les abayas et les atteintes à la laïcité envahissent l'école.",
+  "volet": "droits",
+  "sous_theme": "Laïcité",
+  "rubriques": [],
+  "mots_cles": [
+    "abaya",
+    "abayas",
+    "qamis",
+    "atteintes a la laicite",
+    "tenues religieuses ecole",
+    "interdiction de l abaya"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les signalements d'atteintes à la laïcité ont bien doublé en 2022-2023, à 4 710, surtout à cause des abayas. Mais rapportés à environ 12 millions d'élèves, les volumes restent très faibles : 298 élèves se sont présentées en abaya à la rentrée 2023. Après l'interdiction, validée par le Conseil d'État, les signalements sont retombés à 110 en septembre 2024.",
+  "contexte": "L'abaya a fait la une à la rentrée 2023, quand le ministre de l'Éducation l'a interdite.",
+  "explication": "La loi de 2004 interdit à l'école les signes et tenues par lesquels les élèves manifestent ostensiblement une appartenance religieuse. Le ministère publie des bilans des signalements faits par les personnels.",
+  "faits": [
+    {
+      "fait": "Les signalements d'atteintes à la laïcité sont passés à 4 710 en 2022-2023, contre 2 167 et 2 226 les deux années précédentes ; ceux qui concernent des tenues atteignent 1 984, en majorité des abayas.",
+      "periode": "2020-2023",
+      "perimetre": "France",
+      "explication": "La hausse de 2022-2023 est réelle.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "4 710"
+    },
+    {
+      "fait": "Selon Courthouse News, le jour de la rentrée 2023, 298 élèves se sont présentées en abaya, et 67 ont été renvoyées chez elles faute d'avoir accepté de la retirer, pour environ 12 millions d'élèves.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le phénomène est très minoritaire.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "298"
+    },
+    {
+      "fait": "Le Conseil d'État a jugé l'interdiction des abayas conforme à la loi de 2004.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La loi permet déjà d'agir.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la ministre, il y a eu 838 atteintes à la laïcité en septembre 2023 et 110 en septembre 2024.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Les signalements ont fortement baissé.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "838 puis 110"
+    },
+    {
+      "fait": "Des sénateurs estiment que les atteintes ne se limitent pas aux tenues (contestation d'enseignements, sport).",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "D'autres atteintes existent.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : les signalements ont bien doublé en 2022-2023, surtout à cause des abayas. Mais 298 élèves en abaya à la rentrée 2023, sur 12 millions, ce n'est pas une invasion. Après l'interdiction, les signalements sont retombés à 110 en septembre 2024.",
+    "moyen": "La hausse a été réelle : 4 710 signalements en 2022-2023, deux fois plus qu'avant, en majorité pour des tenues comme l'abaya. Le Conseil d'État a validé leur interdiction.\n\nMais il faut les rapporter aux 12 millions d'élèves : 298 se sont présentées en abaya le jour de la rentrée 2023. Les signalements sont retombés à 110 en septembre 2024. La loi de 2004 fonctionne ; l'école n'est pas « envahie ».",
+    "detaille": "Selon le Conseil d'État, les signalements d'atteintes à la laïcité à l'école sont passés de 2 167 en 2020-2021 et 2 226 en 2021-2022 à 4 710 en 2022-2023. Les tenues en représentent 1 984, contre 148 deux ans plus tôt, en majorité des abayas. Cette hausse, relayée par les réseaux sociaux, est documentée.\n\nÀ la rentrée 2023, le ministre a interdit l'abaya, et le Conseil d'État a jugé cette interdiction conforme à la loi de 2004. Le jour de la rentrée, 298 élèves se sont présentées en abaya, sur environ 12 millions. Les signalements sont tombés de 838 en septembre 2023 à 110 en septembre 2024.\n\nDes sénateurs rappellent que d'autres atteintes existent, comme la contestation de certains cours. Mais les chiffres montrent un phénomène minoritaire, que la loi permet de traiter. Présenter l'école comme envahie risque surtout de stigmatiser les élèves musulmans.",
+    "empathie": "Je comprends que tu tiennes à une école laïque, à l'abri des pressions religieuses : c'est un principe essentiel. Justement, la loi de 2004 s'applique, et les chiffres montrent qu'elle fonctionne."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les profs n'osent pas signaler.",
+      "reponse": "Les signalements dépendent en effet des consignes ; mais même une forte sous-déclaration ne transforme pas quelques milliers de cas en invasion."
+    },
+    {
+      "objection": "La baisse prouve qu'il fallait interdire.",
+      "reponse": "C'est possible : la loi de 2004 le permettait déjà, ce qui montre que le cadre existant suffit."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'élèves sont venues en abaya à la rentrée 2023 ?",
+    "La laïcité protège-t-elle les élèves, ou sert-elle ici à viser une religion ?"
+  ],
+  "limites": [
+    "Le chiffre de 298 élèves provient d'un média étranger rapportant les propos du ministre.",
+    "Aucun bilan détaillé 2024-2025 n'a été lu ; les signalements dépendent des consignes données aux personnels."
+  ],
+  "sources": [
+    {
+      "titre": "Laïcité : l'interdiction du port de tenues de type abaya à l'école est conforme à la loi",
+      "organisme": "Conseil d'État",
+      "date_publication": "27 septembre 2024",
+      "url": "https://conseil-etat.fr/actualites/laicite-l-interdiction-du-port-de-tenues-de-type-abaya-a-l-ecole-est-conforme-a-la-loi",
+      "passage": "Le Conseil d'État valide l'interdiction des abayas décidée à la rentrée 2023 sur le fondement de la loi du 15 mars 2004. Les signalements d'atteintes à la laïcité sont passés à 4 710 en 2022-2023, contre 2 167 et 2 226 les deux années précédentes ; ceux qui concernent des tenues atteignent 1 984 en 2022-2023, contre 148 en 2020-2021 et 617 en 2021-2022, en majorité des abayas.",
+      "pertinence": "Décision de la juridiction administrative suprême.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Diminution des atteintes à la laïcité à l'école : « Je ne suis pas sûr que la situation soit si idyllique »",
+      "organisme": "Public Sénat (Rose-Amélie Bécel)",
+      "date_publication": "14 octobre 2024",
+      "url": "https://www.publicsenat.fr/actualites/education/diminution-des-atteintes-a-la-laicite-a-lecole-je-ne-suis-pas-sur-que-la-situation-soit-si-idyllique-assure-le-senateur-max-brisson",
+      "passage": "Selon la ministre, il y a eu 838 atteintes à la laïcité en septembre 2023 et 110 en septembre 2024. Les chiffres varient fortement selon l'actualité et les consignes données aux personnels. Des sénateurs estiment que les atteintes ne se limitent pas à l'abaya (contestation d'enseignements, sport).",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "French schools send dozens of girls home for violating new ban on Muslim robes",
+      "organisme": "Courthouse News (Cain Burdeau)",
+      "date_publication": "septembre 2023",
+      "url": "https://www.courthousenews.com/french-schools-send-dozens-of-girls-home-for-violating-new-ban-on-muslim-robes/",
+      "passage": "Selon le ministre de l'Éducation, 298 élèves se sont présentées en abaya le jour de la rentrée ; 67 ont été renvoyées chez elles pour avoir refusé de retirer leur tenue. L'article rappelle qu'il y a environ 12 millions d'élèves.",
+      "pertinence": "Média américain rapportant des chiffres ministériels.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Bilans annuels du ministère de l'Éducation nationale.",
+  "objections_legitimes": [
+    "Les signalements ont doublé en 2022-2023.",
+    "Le Conseil d'État retient une logique de contournement de la loi.",
+    "D'autres atteintes que les tenues existent."
+  ],
+  "publics": {
+    "convaincus": "La hausse de 2022-2023 était réelle, et l'interdiction a été validée par le Conseil d'État. Mais on parle de 298 élèves en abaya sur 12 millions, et les signalements sont retombés à 110 en septembre 2024. La loi de 2004 marche : inutile d'en faire une guerre contre les musulmans.",
+    "indecis": "Les atteintes à la laïcité ont augmenté en 2022-2023, puis fortement baissé après l'interdiction de l'abaya. Rapporté au nombre d'élèves, le phénomène reste très minoritaire. La laïcité à l'école est protégée par la loi, qui s'applique."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "antiracisme",
+      "services_publics"
+    ],
+    "mecanismes": "Un phénomène minoritaire, déjà traité par la loi, est grossi jusqu’à l’invasion. La laïcité devient un instrument contre une religion.",
+    "consequences": "Des élèves musulmanes sont stigmatisées, et l’école se transforme en terrain de polémique.",
+    "democratie": "La laïcité protège la liberté de conscience de tous ; l’utiliser contre une minorité la détourne.",
+    "propositions": [
+      "Appliquer la loi de 2004 avec discernement et dialogue.",
+      "Former les personnels à la laïcité comme principe de liberté."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les signalements ont fortement augmenté en 2022-2023.",
+        "integration": "Le reconnaître, et rapporter ces chiffres au nombre d’élèves et à leur baisse."
+      }
+    ]
+  },
+  "concepts": [
+    "identite",
+    "laicite",
+    "services_publics",
+    "abaya"
+  ],
+  "repond_a": [
+    {
+      "id": "abaya_ecole",
+      "label": "Abaya et laïcité à l’école"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation",
+    "racines",
+    "grand remplacement",
+    "remplacement",
+    "notre culture",
+    "nos valeurs",
+    "nos traditions",
+    "on se croirait",
+    "plus en france"
+  ]
+}

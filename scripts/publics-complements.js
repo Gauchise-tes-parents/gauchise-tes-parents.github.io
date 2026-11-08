@@ -84,4 +84,45 @@ export const PUBLICS = {
     convaincus: "Toutes les entreprises ne roulent pas sur l'or, beaucoup de petites ont des marges faibles. Mais les grandes entreprises cotées ont versé environ 61 milliards d'euros de dividendes au seul deuxième trimestre 2026, la France est en tête en Europe. Dire que « les entreprises » n'ont pas les moyens, c'est mettre le boulanger et le CAC 40 dans le même sac.",
     indecis: "La situation dépend vraiment des entreprises : les petites ont souvent des marges serrées, quand les grandes entreprises cotées versent des dividendes record. Le taux de marge moyen reste élevé (32,2 % en 2025). Le débat sur les salaires gagne à distinguer ces situations.",
   },
+  // Ajouts du 8 novembre 2026 (premier passage)
+  'aah-suffisante': {
+    convaincus: "L'AAH à taux plein, c'est 1 041,59 € par mois depuis avril 2026, alors que le seuil de pauvreté est de 1 337 €. Une personne qui ne vit que de l'AAH vit donc sous le seuil de pauvreté. Ce sont souvent des gens qui ne peuvent pas travailler : est-ce qu'on veut vraiment qu'ils vivent dans la pauvreté ?",
+    indecis: "Le montant peut sembler correct, mais il reste inférieur au seuil de pauvreté de l'Insee (1 337 € par mois). Depuis 2023, l'AAH ne dépend plus des revenus du conjoint, ce qui a amélioré la situation de nombreux couples. La question est de savoir si une allocation versée à des personnes handicapées doit permettre de vivre au-dessus du seuil de pauvreté.",
+  },
+  'egalite-salariale': {
+    convaincus: "L'égalité est dans la loi, mais pas sur les fiches de paie : en 2024, les femmes gagnent 21,8 % de moins que les hommes dans le privé, et 14 % de moins à temps de travail égal. À poste identique, l'écart est plus faible, mais le temps partiel et les métiers féminisés moins payés pèsent lourd. Ta mère, ta sœur ou ta fille sont directement concernées.",
+    indecis: "À poste égal dans la même entreprise, l'écart est d'environ 3,6 %, ce qui montre des progrès. Mais sur l'année, les femmes gagnent 21,8 % de moins, à cause du temps partiel, des métiers moins payés et des carrières freinées. Le débat porte sur ces causes, pas seulement sur la discrimination directe.",
+  },
+  'encadrement-loyers': {
+    convaincus: "L'évaluation de l'APUR montre qu'à Paris, l'encadrement a fait baisser les loyers d'environ 5 %, soit près de 80 € par mois pour un locataire. Ce n'est pas une idée de bobos : c'est de l'argent rendu aux gens qui louent. Le vrai problème, c'est que plus de 4 annonces sur 10 dépassent encore le plafond.",
+    indecis: "L'outil a un effet mesuré à Paris, environ 5 % de baisse des loyers. Mais il est mal respecté, avec plus de 4 annonces sur 10 au-dessus du plafond. On peut débattre de ses effets sur l'offre de logements, mais pas dire qu'il ne sert à rien : son efficacité dépend surtout des contrôles.",
+  },
+  'immigration-emploi': {
+    convaincus: "Le travail n'est pas un gâteau fixe : les immigrés travaillent, mais ils consomment et créent aussi de l'activité. Ils sont d'ailleurs moins souvent en emploi que les autres (62,4 % contre 71,4 %), et ils occupent beaucoup de métiers pénibles, comme l'entretien ou l'aide à domicile. Les études trouvent un effet moyen nul ou positif à long terme sur l'emploi des Français.",
+    indecis: "Une étude trouve un effet négatif à court terme pour les travailleurs directement en concurrence avec des immigrés : la crainte n'est pas absurde. Mais à long terme, les études sur la France ne trouvent pas d'effet défavorable sur l'emploi des natifs. Ce qui protège vraiment, ce sont des droits égaux pour tous les travailleurs.",
+  },
+  'immigration-salaires': {
+    convaincus: "Les études sur la France ne trouvent pas de baisse du salaire moyen des Français due à l'immigration ; l'une trouve même une hausse d'environ 3 % sur 1962-1999. Ce qui tire les salaires vers le bas, c'est l'exploitation de travailleurs sans droits. Les patrons qui emploient au noir sont les vrais responsables.",
+    indecis: "Un effet très faible à court terme est possible pour les salariés directement en concurrence, et c'est une inquiétude légitime. Mais à long terme, les études ne trouvent pas d'effet défavorable sur le salaire moyen. La meilleure protection, c'est « à travail égal, salaire égal », contrôlé pour tous.",
+  },
+  'chomage-penurie-recrutement': {
+    convaincus: "C'est vrai, la moitié des recrutements prévus en 2025 sont jugés difficiles par les employeurs. Mais ce n'est pas la preuve que les chômeurs ne veulent pas travailler : les postes, les compétences et les lieux ne coïncident pas toujours. Et les métiers qui recrutent mal cumulent souvent pénibilité et horaires difficiles.",
+    indecis: "Les deux sont vrais en même temps : des postes restent difficiles à pourvoir et le chômage persiste. Cela vient d'un décalage de compétences, de lieux et de conditions de travail. Améliorer les salaires, la formation et les conditions dans ces métiers aide à rapprocher les deux.",
+  },
+  'morts-au-travail': {
+    convaincus: "En 2024, 764 personnes sont mortes d'un accident du travail au régime général. Ce ne sont pas des statistiques lointaines : ce sont surtout des ouvriers du BTP, des intérimaires, des jeunes. Et depuis les années 2010, le nombre de morts ne baisse plus.",
+    indecis: "Les accidents mortels ont beaucoup baissé pendant des décennies, mais ils stagnent depuis les années 2010, avec 764 morts en 2024 au régime général. Les comparaisons européennes sont délicates, car la France compte les malaises mortels. La prévention reste un enjeu réel, surtout dans le bâtiment et le transport.",
+  },
+  'agriculteurs-revenus': {
+    convaincus: "Selon l'Insee, les ménages agricoles sont plus souvent pauvres que la moyenne (18,1 % contre 15,1 %), et un exploitant sur six déclare un revenu nul ou négatif certaines années. La retraite moyenne d'un ancien exploitant tourne autour de 840 €. Dire qu'ils vivent tous très bien, c'est ignorer ceux qui n'arrivent pas à se payer.",
+    indecis: "Les agriculteurs ont souvent un patrimoine professionnel important, mais ce n'est pas un revenu disponible. Leurs revenus sont très inégaux, et beaucoup vivent mal : taux de pauvreté plus élevé que la moyenne, petites retraites. Le débat porte sur la répartition des aides et sur les prix payés aux producteurs.",
+  },
+  'abstention-inegale': {
+    convaincus: "Chacun est libre de ne pas voter, mais l'abstention n'est pas un hasard : en 2022, 30,1 % des non-diplômés n'ont voté à aucun tour, contre 9,6 % des diplômés du supérieur. Les ouvriers votent beaucoup moins que les cadres. Et ceux qui votent le moins sont ceux dont les responsables politiques tiennent le moins compte.",
+    indecis: "Ne pas voter est un droit. Mais les chiffres de l'Insee montrent que l'abstention touche surtout les moins diplômés, les ouvriers et les jeunes. Cela déforme la représentation : les choix politiques tiennent davantage compte de ceux qui votent.",
+  },
+  'sondages-mille-personnes': {
+    convaincus: "Un échantillon de 1 000 personnes bien construit donne une estimation avec une marge d'erreur connue : un score de 50 % veut dire entre 46,9 % et 53,1 %. Ce n'est pas une prédiction, c'est une photo à un moment donné. Depuis 2016, la marge d'erreur doit être publiée : tu peux la vérifier toi-même.",
+    indecis: "Un sondage n'est pas une certitude, mais ce n'est pas rien : avec 1 000 personnes, la marge d'erreur est d'environ 3 points autour de 50 %. Il faut regarder cette marge et la méthode, publiées obligatoirement depuis 2016. Un sondage mesure une opinion à un moment, il ne prédit pas un résultat.",
+  },
 };

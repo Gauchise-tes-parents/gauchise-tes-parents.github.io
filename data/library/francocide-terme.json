@@ -1,0 +1,151 @@
+{
+  "id": "francocide-terme",
+  "type": "idee_recue",
+  "affirmation": "Les « francocides » se multiplient : on tue des Français parce qu'ils sont français.",
+  "volet": "securite",
+  "sous_theme": "Homicides",
+  "rubriques": [],
+  "mots_cles": [
+    "francocide",
+    "francocides",
+    "tues parce que francais",
+    "tuer des francais",
+    "meurtres de francais",
+    "blancs tues",
+    "zemmour francocide"
+  ],
+  "verdict": "inverifiable",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Le mot « francocide » a été forgé par Éric Zemmour en 2022 pour désigner « un crime contre un Français par un étranger ». Il ne correspond à aucune catégorie statistique ni juridique : rien ne permet de mesurer une « multiplication ». Le terme relie des faits divers différents à la théorie complotiste du « grand remplacement ».",
+  "contexte": "Le terme circule après chaque meurtre très médiatisé ; il est repris par une partie de l'extrême droite.",
+  "explication": "Les statistiques de la police comptent les homicides, mais aucune ne classe les crimes selon la nationalité de l'auteur et de la victime ou selon un mobile « anti-français ». Les crimes visant une personne en raison de ce qu'elle est relèvent de qualifications spécifiques, qui ne dépendent pas de l'origine de l'auteur.",
+  "faits": [
+    {
+      "fait": "Le terme a été forgé par Éric Zemmour lors d'un discours en septembre 2022, sur le modèle de « génocide » ou « féminicide ».",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "C'est un mot militant récent.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Zemmour le définit comme « un crime contre un Français par un étranger » ; un chercheur le rattache à la théorie du « grand remplacement ».",
+      "periode": "2022-2024",
+      "perimetre": "France",
+      "explication": "Le mot désigne la nationalité de l'auteur, pas un mobile prouvé.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'article de l'AFP sur l'apparition du terme ne cite aucune statistique d'homicide : ses seuls chiffres mesurent la diffusion du mot sur les réseaux sociaux.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Aucune donnée n'appuie une « multiplication ».",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "D'après le SSMSI, sur douze mois glissants au 30 juin 2024, les homicides baissent de 8 % et les tentatives d'homicide augmentent de 11 %.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Les statistiques ne disent rien du mobile ; les tentatives sont en hausse.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "-8 % / +11 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Invérifiable et trompeur : le « francocide » est un mot inventé par Éric Zemmour en 2022, sans aucune définition statistique ni juridique. Personne ne peut mesurer sa « multiplication ». Il transforme des drames en preuve d'une guerre ethnique.",
+    "moyen": "Le mot a été créé en 2022 par Éric Zemmour pour désigner « un crime contre un Français par un étranger ». Aucune statistique ne compte ces crimes, et ceux qui utilisent le mot n'apportent pas de données.\n\nChaque meurtre est un drame, et la justice doit punir. Mais regrouper des faits divers différents sous un même mot, c'est suggérer une guerre contre les Français, ce que les chiffres ne montrent pas.",
+    "detaille": "Selon l'AFP, le mot « francocide » apparaît dans un discours d'Éric Zemmour en septembre 2022, sur le modèle du mot « féminicide ». Il le définit comme « un crime contre un Français par un étranger ». Des chercheurs le rattachent à la théorie du « grand remplacement », qui décrit les Français comme victimes d'une population étrangère.\n\nLe problème est double. D'abord, aucune catégorie statistique ne permet de compter ces crimes : la police compte les homicides, pas la nationalité des auteurs et des victimes croisée avec un mobile. Ensuite, la définition repose sur l'origine de l'auteur, pas sur son mobile : un crime crapuleux devient ainsi un crime « contre les Français ».\n\nLes statistiques disponibles montrent des évolutions contrastées : sur douze mois à juin 2024, les homicides baissent de 8 % et les tentatives augmentent de 11 %. Ces chiffres méritent attention, mais ne disent rien d'un mobile anti-français.",
+    "empathie": "Je comprends la colère après un meurtre atroce, surtout quand on a l'impression que la victime a été visée pour ce qu'elle est. Mais le mot « francocide » ne repose sur aucun chiffre ; il fabrique une guerre à partir de drames différents."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les médias cachent ces crimes.",
+      "reponse": "Les meurtres invoqués ont été très médiatisés ; ce qui manque, ce sont des données montrant une tendance."
+    },
+    {
+      "objection": "On a bien inventé « féminicide ».",
+      "reponse": "Le féminicide désigne un mobile (tuer une femme parce qu'elle est une femme), documenté par des statistiques annuelles ; « francocide » désigne seulement l'origine de l'auteur."
+    }
+  ],
+  "questions": [
+    "Sais-tu qui a inventé le mot et sur quelles données il s'appuie ?",
+    "Un crime commis par un étranger est-il forcément commis contre « les Français » ?"
+  ],
+  "limites": [
+    "Les statistiques officielles du SSMSI n'ont été lues qu'à travers un compte rendu.",
+    "Aucun fact-check français sur le terme n'a pu être ouvert."
+  ],
+  "sources": [
+    {
+      "titre": "'Francocide': new French far-right term enters language battle",
+      "organisme": "AFP, republié par The Local France",
+      "date_publication": "16 juin 2023",
+      "url": "https://www.thelocal.fr/20230616/francocide-new-french-far-right-term-enters-language-battle",
+      "passage": "D'après l'AFP, Éric Zemmour a forgé le terme lors d'un discours en septembre 2022, sur le modèle de « génocide » ou « féminicide » ; le RN évitait alors le mot. Le politiste Philippe Corcuff le relie à la théorie du « grand remplacement ». L'article ne cite aucune statistique d'homicide : ses seuls chiffres mesurent la diffusion du mot sur les réseaux sociaux.",
+      "pertinence": "Dépêche d'agence reprise par un média.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Eric Zemmour et le « grand remplacement »",
+      "organisme": "François Debras (Université de Liège / HELMo)",
+      "date_publication": "non daté (sources consultées en juillet 2024)",
+      "url": "https://orbi.uliege.be/bitstream/2268/326783/1/Eric%20Zemmour%20et%20le%20%C2%AB%20grand%20remplacement%20%C2%BB%20(FDEBRAS).pdf",
+      "passage": "Zemmour définit le francocide comme « un crime contre un Français par un étranger ». Le terme sert à décrire le peuple français comme occupé par une civilisation étrangère qui le remplacerait ; l'auteur le rattache à un registre guerrier et qualifie le « grand remplacement » de formule complotiste sans fondement dans les données.",
+      "pertinence": "Analyse universitaire.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Délinquance : une évolution contrastée sur les douze mois précédant les JO",
+      "organisme": "Banque des Territoires (Localtis), d'après le SSMSI",
+      "date_publication": "30 octobre 2024",
+      "url": "https://www.banquedesterritoires.fr/delinquance-une-evolution-contrastee-sur-les-douze-mois-precedant-les-jo",
+      "passage": "D'après le service statistique du ministère de l'Intérieur, sur douze mois glissants au 30 juin 2024, les homicides baissent de 8 % et les tentatives d'homicide augmentent de 11 %.",
+      "pertinence": "Compte rendu de statistiques publiques.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Bilans annuels du SSMSI sur les homicides.",
+  "objections_legitimes": [
+    "Les tentatives d'homicide ont augmenté sur un an à mi-2024.",
+    "Des crimes racistes visant des personnes blanches peuvent exister et doivent être punis comme tels."
+  ],
+  "publics": {
+    "convaincus": "Chaque meurtre mérite justice. Mais le mot « francocide » a été inventé en 2022 sans aucune statistique derrière. Il range sous un même nom des drames différents pour faire croire à une guerre contre les Français.",
+    "indecis": "Ce mot ne correspond à aucune catégorie statistique ni juridique : personne ne peut dire s'il y en a plus ou moins. Les homicides sont comptés par la police et ils ne montrent pas de vague liée à un mobile « anti-français ». Méfie-toi des mots qui transforment des faits divers en guerre de civilisation."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "antifascisme",
+      "dignite"
+    ],
+    "mecanismes": "Un mot nouveau transforme des drames différents en preuve d’une guerre ethnique. La définition repose sur l’origine de l’auteur, pas sur son mobile.",
+    "consequences": "Chaque fait divers devient un argument contre une population entière, et la douleur des familles est instrumentalisée.",
+    "democratie": "Le vocabulaire du « grand remplacement » prépare l’idée qu’une partie de la population serait un ennemi intérieur.",
+    "propositions": [
+      "Juger chaque crime pour ce qu’il est, avec les qualifications prévues par la loi.",
+      "Refuser les mots qui assignent une population à la criminalité."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les tentatives d’homicide ont augmenté sur un an à la mi-2024.",
+        "integration": "Le dire, en rappelant que les statistiques ne disent rien d’un mobile « anti-français »."
+      }
+    ]
+  },
+  "concepts": [
+    "homicide"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": []
+}

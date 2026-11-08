@@ -1,0 +1,204 @@
+{
+  "id": "suede-violence-immigration",
+  "type": "idee_recue",
+  "affirmation": "La Suède a sombré dans la violence à cause de l'immigration.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et délinquance",
+  "rubriques": [],
+  "mots_cles": [
+    "suede",
+    "suede violence",
+    "fusillades suede",
+    "gangs suede",
+    "stockholm",
+    "malmo",
+    "modele suedois",
+    "explosions suede"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "La Suède a connu une vague de fusillades sans équivalent en Europe, liée aux conflits entre réseaux criminels dans des quartiers défavorisés. Mais le taux global d'homicides est resté autour de 1,1 pour 100 000 habitants, puis il est tombé à 0,8 en 2025, et les fusillades ont fortement baissé depuis 2022. Les statistiques montrent une surreprésentation des personnes d'origine étrangère parmi les suspects, qui tient en grande partie à l'âge et aux conditions sociales.",
+  "contexte": "La Suède est souvent présentée comme le contre-modèle d'un pays ouvert qui aurait « sombré ».",
+  "explication": "Les fusillades suédoises sont surtout des règlements de comptes entre gangs liés au trafic de drogue, qui recrutent des adolescents dans des quartiers ségrégués. La violence est concentrée dans ces milieux, pas répandue dans tout le pays.",
+  "faits": [
+    {
+      "fait": "La Suède compte environ 4 homicides par arme à feu par million d'habitants et par an, contre environ 1,6 en moyenne européenne ; 8 sur 10 surviennent en milieu criminel.",
+      "periode": "2021",
+      "perimetre": "Suède et Europe",
+      "explication": "La vague de fusillades est réelle et concentrée dans les milieux criminels.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "4 contre 1,6"
+    },
+    {
+      "fait": "Le taux de violence mortelle est de 1,1 à 1,2 pour 100 000 habitants de 2016 à 2023, puis 0,9 en 2024 et 0,8 en 2025.",
+      "periode": "2016-2025",
+      "perimetre": "Suède",
+      "explication": "Le pays n'a pas « sombré » : le taux global a baissé.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "0,8"
+    },
+    {
+      "fait": "Les fusillades sont passées de 391 en 2022 à 158 en 2025, et le premier semestre 2026 est le plus bas depuis 2017 (39 fusillades).",
+      "periode": "2022-2026",
+      "perimetre": "Suède",
+      "explication": "Les fusillades ont fortement reculé.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "391 à 158"
+    },
+    {
+      "fait": "Les explosions sont passées de 136 en 2024 à 189 en 2025, une violence d'intimidation et d'extorsion en hausse.",
+      "periode": "2024-2025",
+      "perimetre": "Suède",
+      "explication": "Toutes les formes de violence ne baissent pas.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "189"
+    },
+    {
+      "fait": "Le risque d'être enregistré comme suspect est plus élevé chez les personnes nées à l'étranger, et plus encore chez celles nées en Suède de deux parents immigrés ; une grande partie de l'écart tient à la structure par âge.",
+      "periode": "2007-2018",
+      "perimetre": "Suède",
+      "explication": "La surreprésentation existe, mais l'étude n'en explique pas les causes.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la Suède a connu une vague de fusillades entre gangs unique en Europe. Mais son taux d'homicides est tombé à 0,8 pour 100 000 en 2025 et les fusillades ont chuté depuis 2022. La violence est concentrée dans des milieux criminels de quartiers ségrégués.",
+    "moyen": "La hausse des fusillades en Suède est réelle : environ 4 homicides par arme à feu par million d'habitants, contre 1,6 en moyenne en Europe. Elle est liée aux réseaux criminels des quartiers défavorisés.\n\nMais le pays n'a pas « sombré » : le taux global d'homicides est resté autour de 1,1 pour 100 000 et il est tombé à 0,8 en 2025. Les fusillades ont baissé de 391 en 2022 à 158 en 2025, grâce à des centaines d'arrestations.",
+    "detaille": "L'organisme public suédois de prévention du crime constate une hausse des homicides par arme à feu sans équivalent dans 22 pays européens, presque uniquement liée aux règlements de comptes en milieu criminel. Ces violences touchent surtout des jeunes hommes, dans des quartiers défavorisés.\n\nLes statistiques suédoises montrent aussi une surreprésentation des personnes nées à l'étranger, et plus encore de leurs enfants nés en Suède, parmi les suspects. Il ne faut pas le nier. Mais le même organisme précise qu'une grande partie de l'écart tient à l'âge et que son étude ne dit rien des causes. Ce qui est en jeu, c'est la ségrégation sociale, le marché de la drogue et le recrutement de mineurs par les gangs.\n\nEnfin, la tendance s'inverse : le taux de violence mortelle est tombé de 1,2 pour 100 000 en 2023 à 0,8 en 2025, et les fusillades ont fortement reculé, même si les explosions augmentent.",
+    "empathie": "Les images de fusillades en Suède sont effrayantes, et c'est normal de s'inquiéter. Mais regarde aussi ce qui s'est passé ensuite : en ciblant les gangs, la Suède a fait chuter les fusillades."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les gangs sont composés d'immigrés.",
+      "reponse": "Les suspects sont souvent des jeunes de quartiers ségrégués, beaucoup nés en Suède ; l'organisme public ne lie pas cette violence à l'immigration en tant que telle."
+    },
+    {
+      "objection": "La Suède est devenue le pays le plus dangereux d'Europe.",
+      "reponse": "Son taux global d'homicides, 0,8 pour 100 000 en 2025, est à son plus bas depuis dix ans."
+    }
+  ],
+  "questions": [
+    "Sais-tu comment ont évolué les fusillades en Suède depuis 2022 ?",
+    "Qu'est-ce qui a fait baisser la violence : moins d'immigrés, ou la lutte contre les gangs ?"
+  ],
+  "limites": [
+    "L'effet des revenus, de l'éducation et du quartier sur l'écart entre groupes n'a pas été chiffré dans les sources lues.",
+    "La comparaison européenne vient de l'organisme suédois, pas d'Eurostat."
+  ],
+  "sources": [
+    {
+      "titre": "Minskat antal skjutningar men fler sprängningar under 2025 (Moins de fusillades mais plus d'explosions en 2025)",
+      "organisme": "Police suédoise (Polisen)",
+      "date_publication": "5 janvier 2026",
+      "url": "https://polisen.se/aktuellt/nyheter/nationell/2026/januari/minskat-antal-skjutningar-men-fler-sprangningar-under-2025/",
+      "passage": "158 fusillades en 2025 (46 morts, 44 blessés), contre 391 en 2022. En revanche, 189 explosions en 2025 contre 136 en 2024 : la violence d'intimidation et d'extorsion augmente. La police décrit le recrutement massif de très jeunes exécutants.",
+      "pertinence": "Statistique policière officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Skjutningarna på historiskt låga nivåer (Les fusillades à des niveaux historiquement bas)",
+      "organisme": "Police suédoise (Polisen)",
+      "date_publication": "3 juillet 2026",
+      "url": "https://polisen.se/aktuellt/nyheter/nationell/2026/juli/skjutningarna-pa-historiskt-laga-nivaer/",
+      "passage": "Au premier semestre 2026, 39 fusillades, 8 morts et 15 blessés : le niveau le plus bas depuis le début des statistiques en 2017. Premiers semestres précédents : 205 fusillades en 2022, 187 en 2023, 149 en 2024, 86 en 2025. La police attribue la baisse à un travail coordonné et à des centaines d'arrestations, tout en jugeant le niveau de conflit toujours élevé.",
+      "pertinence": "Statistique policière officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Konstaterade fall av dödligt våld 2025 (Cas constatés de violence mortelle en 2025, rapport 2026:10)",
+      "organisme": "Brå, Conseil national suédois pour la prévention du crime",
+      "date_publication": "2026",
+      "url": "https://bra.se/download/18.3b6b697b19d24d83762587f/1774614625537/2026_10_Konstaterade%20fall%20av%20d%C3%B6dligt%20v%C3%A5ld.pdf",
+      "passage": "Cas de violence mortelle : 106 en 2016, 124 en 2020, 116 en 2022, 121 en 2023, 92 en 2024 et 84 en 2025. Le taux est de 1,1 à 1,2 pour 100 000 habitants de 2016 à 2023, puis 0,9 en 2024 et 0,8 en 2025. La part des homicides par arme à feu passe de 28 % (2016) à 54 % (2022), puis 50 % en 2025.",
+      "pertinence": "Statistique publique suédoise.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Gun homicide in Sweden and other European countries (rapport 2021:8)",
+      "organisme": "Brå, Conseil national suédois pour la prévention du crime (Klara Hradilova-Selin)",
+      "date_publication": "26 mai 2021",
+      "url": "https://bra.se/english/publications/archive/2021-05-26-gun-homicide-in-sweden-and-other-european-countries",
+      "passage": "La Suède compte environ 4 homicides par arme à feu par million d'habitants et par an, contre environ 1,6 en moyenne européenne ; sa hausse n'a pas d'équivalent dans les 22 pays étudiés. Elle est étroitement liée aux milieux criminels des quartiers socialement défavorisés : 8 homicides par arme à feu sur 10 surviennent en milieu criminel.",
+      "pertinence": "Étude d'un organisme public suédois.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Registered offending among persons of native and non-native background (rapport 2021:9)",
+      "organisme": "Brå, Conseil national suédois pour la prévention du crime",
+      "date_publication": "25 août 2021",
+      "url": "https://bra.se/english/publications/archive/2021-08-25-registered-offending-among-persons-of-native-and-non-native-background",
+      "passage": "Le risque d'être enregistré comme suspect est plus élevé chez les personnes nées à l'étranger, et plus encore chez celles nées en Suède de deux parents nés à l'étranger ; une grande partie de l'écart tient à la structure par âge. La proportion de suspects a baissé entre 2007 et 2018 dans tous les groupes, avec des exceptions. L'étude est descriptive, n'explique pas les causes et porte sur des suspects, non sur des condamnés.",
+      "pertinence": "Étude d'un organisme public suédois.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Statistiques annuelles de la police suédoise et de Brå.",
+  "objections_legitimes": [
+    "La vague de fusillades de 2013-2023 est unique en Europe.",
+    "Les personnes d'origine étrangère sont surreprésentées parmi les suspects.",
+    "Les explosions augmentaient encore en 2025."
+  ],
+  "publics": {
+    "convaincus": "La vague de fusillades est réelle, et les jeunes d'origine immigrée y sont surreprésentés. Mais la Suède ne l'a pas fait reculer en expulsant : elle a ciblé les gangs, et les fusillades sont passées de 391 en 2022 à 158 en 2025. Le problème, c'est le crime organisé dans des quartiers abandonnés.",
+    "indecis": "La Suède a connu une vraie vague de violences entre gangs, concentrée dans certains quartiers. Le taux global d'homicides est pourtant resté bas et il baisse fortement depuis 2023. C'est un exemple des dégâts de la ségrégation et du trafic de drogue, et de ce qu'une action ciblée peut obtenir."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "dignite"
+    ],
+    "mecanismes": "La violence des gangs naît de la ségrégation urbaine, du marché de la drogue et du recrutement d’adolescents. L’origine sert d’explication facile qui évite de parler des quartiers abandonnés.",
+    "consequences": "Les premières victimes sont les jeunes des quartiers concernés, recrutés ou tués.",
+    "democratie": "Désigner une population entière comme cause d’un crime organisé rompt avec le jugement des actes individuels.",
+    "propositions": [
+      "Investir dans les quartiers ségrégués : écoles, emploi, logement.",
+      "Cibler les réseaux criminels et protéger les mineurs recrutés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les personnes d’origine étrangère, surtout de deuxième génération, sont surreprésentées parmi les suspects.",
+        "integration": "Le reconnaître, et rappeler ce que dit l’organisme public : l’âge et les conditions sociales pèsent lourd."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "suede"
+  ],
+  "repond_a": [
+    {
+      "id": "suede_violence",
+      "label": "La Suède et la violence"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "profs-18-heures",
+  "type": "idee_recue",
+  "affirmation": "Les profs ne travaillent que 18 heures par semaine.",
+  "volet": "services",
+  "sous_theme": "École publique",
+  "rubriques": [],
+  "mots_cles": [
+    "profs 18 heures",
+    "enseignants 18 heures",
+    "temps de travail des enseignants",
+    "profs vacances",
+    "profs toujours en vacances",
+    "obligations de service",
+    "heures de cours"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les 18 heures sont les heures de cours que doit un professeur certifié du second degré (15 pour un agrégé), pas son temps de travail. Les enquêtes du ministère donnent 41 à 43 heures déclarées par semaine, avec la préparation des cours et la correction des copies, et environ 33 jours travaillés pendant les vacances. Sur l'année, cela fait autour des 1 607 heures légales.",
+  "contexte": "Le cliché revient à chaque grève ou débat sur les salaires des enseignants.",
+  "explication": "Les « obligations de service » fixent le nombre d'heures de cours. Mais le décret qui les fixe range dans les missions du professeur la préparation des cours, le suivi et l'évaluation des élèves, les relations avec les parents et le travail en équipe.",
+  "faits": [
+    {
+      "fait": "Le service d'enseignement hebdomadaire est de 15 heures pour les agrégés et 18 heures pour les certifiés ; la préparation des cours, l'évaluation des élèves et les relations avec les parents font partie des missions.",
+      "periode": "2014",
+      "perimetre": "France, second degré",
+      "explication": "Les 18 heures sont des heures de cours, pas tout le travail.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "18 h"
+    },
+    {
+      "fait": "La moitié des enseignants à temps plein déclarent travailler au moins 43 heures par semaine (enquête de 2018).",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Le temps de travail réel est bien supérieur.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "43 h"
+    },
+    {
+      "fait": "En 2022-2023, les enseignants déclarent 41,4 heures par semaine hors vacances : 53 % devant les élèves, 33 % de préparation et de correction.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "Un tiers du temps sert à préparer et corriger.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "41,4 h"
+    },
+    {
+      "fait": "Ils déclarent en moyenne 33 jours travaillés pendant les vacances, soit environ 1 635 heures par an, 28 de plus que les 1 607 heures légales.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "Sur l'année, ils travaillent l'équivalent d'un temps plein.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "1 635 h"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : 18 heures, ce sont les heures de cours d'un professeur certifié. Avec la préparation et les corrections, les enseignants déclarent 41 à 43 heures par semaine, et environ 1 635 heures par an, autant qu'un temps plein.",
+    "moyen": "Le décret de 2014 fixe 18 heures de cours pour un certifié, 15 pour un agrégé. Mais il précise que la préparation des cours, les corrections et les relations avec les parents font partie du métier.\n\nLes enquêtes du ministère donnent 41 à 43 heures de travail déclarées par semaine. En comptant les vacances, où ils travaillent en moyenne 33 jours, les enseignants arrivent à environ 1 635 heures par an, un peu plus que les 1 607 heures d'un salarié à temps plein.",
+    "detaille": "Le décret du 20 août 2014 fixe le service d'enseignement à 18 heures hebdomadaires pour les professeurs certifiés et 15 pour les agrégés. Il énumère aussi les missions liées à ce service : préparation des cours, suivi du travail des élèves, évaluation, relations avec les parents, travail en équipe.\n\nSelon les enquêtes du ministère, la moitié des enseignants à temps plein déclarent travailler au moins 43 heures par semaine (2018). En 2022-2023, ils déclarent 41,4 heures hors vacances, dont 53 % devant les élèves et un tiers pour préparer et corriger. Ils travaillent aussi en moyenne 33 jours pendant les vacances.\n\nSur l'année, cela représente environ 1 635 heures, à peine plus que les 1 607 heures légales d'un temps plein. Ces chiffres sont déclarés par les enseignants eux-mêmes, mais ils sont cohérents d'une enquête à l'autre. Le vrai débat porte sur l'organisation du temps et sur les salaires, pas sur la paresse supposée d'une profession.",
+    "empathie": "Je comprends que les vacances scolaires fassent envie, et qu'on ait l'impression que les profs ont la belle vie. Mais les 18 heures sont seulement le temps passé devant les élèves ; derrière, il y a les cours à préparer et les copies à corriger."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils ont quatre mois de vacances.",
+      "reponse": "Ils déclarent travailler en moyenne 33 jours pendant les vacances, et leur total annuel atteint environ 1 635 heures."
+    },
+    {
+      "objection": "Une fois les cours préparés, c'est fini.",
+      "reponse": "Un tiers de leur temps est consacré à préparer et corriger, chaque année, selon les enquêtes du ministère."
+    }
+  ],
+  "questions": [
+    "Combien de temps faut-il pour préparer une heure de cours et corriger 30 copies ?",
+    "Sais-tu combien d'heures par an déclarent les enseignants ?"
+  ],
+  "limites": [
+    "Les données de 2022-2023 ne sont connues qu'à travers un média spécialisé.",
+    "Les obligations du premier degré n'ont pas été vérifiées sur un texte officiel."
+  ],
+  "sources": [
+    {
+      "titre": "Décret n° 2014-940 du 20 août 2014 relatif aux obligations de service des enseignants du second degré",
+      "organisme": "Légifrance",
+      "date_publication": "20 août 2014 (version en vigueur)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029390906",
+      "passage": "L'article 2 fixe le maximum de service d'enseignement hebdomadaire à quinze heures pour les agrégés et à dix-huit heures pour les certifiés. Il range parmi les missions liées au service la préparation des cours, le suivi et l'évaluation des élèves, les relations avec les parents et le travail en équipe.",
+      "pertinence": "Texte réglementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Temps de travail des enseignants",
+      "organisme": "IH2EF (ministère de l'Éducation nationale), d'après la Note d'information DEPP n° 22.30",
+      "date_publication": "7 novembre 2022",
+      "url": "https://www.ih2ef.gouv.fr/temps-de-travail-des-enseignants",
+      "passage": "La moitié des enseignants à temps plein déclare travailler au moins 43 heures par semaine (enquête de 2018). L'enseignement face aux élèves représente 59 % du temps de travail dans le premier degré et 49 % dans le second degré, où la préparation et la correction pèsent davantage. Les enseignants déclarent aussi travailler pendant les vacances.",
+      "pertinence": "Synthèse publiée par un institut du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les enseignants déclarent travailler plus de 41 heures par semaine",
+      "organisme": "Weka (d'après la DEPP)",
+      "date_publication": "10 novembre 2025",
+      "url": "https://www.weka.fr/actualite/education/article/les-enseignants-declarent-travailler-plus-de-41-heures-par-semaine-206718/",
+      "passage": "En 2022-2023, les enseignants à temps plein déclarent 41,4 heures par semaine hors vacances : 53 % d'enseignement devant les élèves, 33 % de préparation et de correction, 15 % d'autres activités. Ils déclarent en moyenne 33 jours travaillés pendant les vacances, soit environ 1 635 heures par an, 28 de plus que les 1 607 heures légales.",
+      "pertinence": "Média spécialisé relayant une publication de la DEPP.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouvelle enquête de la DEPP sur le temps de travail.",
+  "objections_legitimes": [
+    "Les heures de travail sont déclarées par les enseignants, pas mesurées.",
+    "Le total annuel dépasse à peine les 1 607 heures légales."
+  ],
+  "publics": {
+    "convaincus": "Les 18 heures, ce sont les heures de cours, pas tout le travail : le décret lui-même inclut la préparation et les corrections. Les enquêtes donnent 41 heures par semaine, et environ 1 635 heures par an, autant qu'un temps plein.",
+    "indecis": "Les enseignants ont 18 heures de cours (15 pour les agrégés), mais ils déclarent en moyenne 41 à 43 heures de travail par semaine. Sur l'année, en comptant les vacances, ils sont proches d'un temps plein. On peut débattre de l'organisation de leur temps, mais pas les réduire à 18 heures."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "travailleurs"
+    ],
+    "mecanismes": "Le cliché confond heures de cours et temps de travail, pour disqualifier une profession et justifier de moindres salaires.",
+    "consequences": "Un métier dénigré attire moins, ce que paient d’abord les élèves.",
+    "democratie": "Respecter les enseignants, c’est respecter l’école publique.",
+    "propositions": [
+      "Revaloriser les salaires des enseignants.",
+      "Reconnaître le temps de préparation et de travail en équipe."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les heures sont déclarées par les enseignants et le total annuel dépasse à peine la durée légale.",
+        "integration": "Le reconnaître, sans laisser réduire le métier aux heures de cours."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "services_publics",
+    "temps_travail",
+    "profs_temps"
+  ],
+  "repond_a": [
+    {
+      "id": "profs_temps",
+      "label": "Temps de travail des enseignants"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "urgences",
+    "temps de travail",
+    "duree du travail",
+    "heures par semaine",
+    "heures travaillees"
+  ]
+}

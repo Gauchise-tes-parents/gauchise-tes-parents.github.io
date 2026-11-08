@@ -122,6 +122,10 @@
     "immobilier",
     "sdf"
   ],
+  "publics": {
+    "convaincus": "L'évaluation de l'APUR montre qu'à Paris, l'encadrement a fait baisser les loyers d'environ 5 %, soit près de 80 € par mois pour un locataire. Ce n'est pas une idée de bobos : c'est de l'argent rendu aux gens qui louent. Le vrai problème, c'est que plus de 4 annonces sur 10 dépassent encore le plafond.",
+    "indecis": "L'outil a un effet mesuré à Paris, environ 5 % de baisse des loyers. Mais il est mal respecté, avec plus de 4 annonces sur 10 au-dessus du plafond. On peut débattre de ses effets sur l'offre de logements, mais pas dire qu'il ne sert à rien : son efficacité dépend surtout des contrôles."
+  },
   "concepts": [
     "logement"
   ]

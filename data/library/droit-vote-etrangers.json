@@ -1,0 +1,189 @@
+{
+  "id": "droit-vote-etrangers",
+  "type": "idee_recue",
+  "affirmation": "La gauche veut donner le droit de vote aux étrangers.",
+  "volet": "politique",
+  "sous_theme": "Programmes électoraux",
+  "rubriques": [],
+  "mots_cles": [
+    "droit de vote des etrangers",
+    "vote des etrangers",
+    "etrangers voter",
+    "vote aux municipales",
+    "droit de vote municipales",
+    "eligibilite des etrangers",
+    "citoyennete de residence"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Oui, mais seulement aux élections municipales, pour les étrangers non européens résidant en France, sans pouvoir être maire ou adjoint ni voter aux sénatoriales. C'est une revendication de la gauche depuis 1981, votée par l'Assemblée en 2000 et par le Sénat en 2011, jamais appliquée. Les citoyens de l'Union européenne votent déjà aux municipales depuis 2001.",
+  "contexte": "La mesure revient régulièrement dans le débat ; une proposition de loi écologiste a été adoptée en commission en février 2026.",
+  "explication": "Il s'agirait de modifier la Constitution. Les citoyens européens votent déjà aux municipales et aux européennes ; la proposition étendrait ce droit aux autres étrangers résidents. Une telle révision exige un référendum ou une majorité des trois cinquièmes du Congrès.",
+  "faits": [
+    {
+      "fait": "Le texte adopté par le Sénat en 2011 ouvre le vote et l'éligibilité aux municipales aux étrangers non européens résidant en France, sans fonctions de maire ou d'adjoint ni participation à l'élection des sénateurs.",
+      "periode": "2011",
+      "perimetre": "France",
+      "explication": "La proposition est limitée aux municipales.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La proposition a été adoptée par l'Assemblée le 3 mai 2000 et par le Sénat le 8 décembre 2011 ; elle reste en attente de deuxième lecture.",
+      "periode": "2000-2026",
+      "perimetre": "France",
+      "explication": "Elle n'a jamais été appliquée.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les citoyens de l'Union européenne votent aux municipales en France depuis 2001.",
+      "periode": "2001",
+      "perimetre": "France",
+      "explication": "Des étrangers votent déjà aux municipales.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En février 2026, écologistes, insoumis, socialistes et communistes ont adopté le texte en commission ; le socle gouvernemental, le RN, l'UDR et LIOT s'y opposent.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "C'est bien une position de toute la gauche.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La droite et l'extrême droite ont déposé 501 amendements, et le texte n'a a priori pas pu être examiné en séance.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le blocage parlementaire continue.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "501"
+    }
+  ],
+  "argumentaires": {
+    "court": "Plutôt vrai, mais limité : la gauche propose le droit de vote aux municipales pour les étrangers non européens résidents, sans pouvoir être maire. C'est déjà le cas pour les Européens depuis 2001. La mesure n'a jamais été appliquée.",
+    "moyen": "La gauche défend depuis 1981 le droit de vote des étrangers non européens aux élections municipales. L'Assemblée l'a voté en 2000, le Sénat en 2011, mais la réforme constitutionnelle n'est jamais allée au bout.\n\nIl ne s'agit pas de voter à la présidentielle ou aux législatives : seulement aux municipales, sans pouvoir être maire ou adjoint. Les citoyens européens ont déjà ce droit depuis 2001. L'idée : ceux qui vivent, travaillent et paient des impôts dans une commune participent à la vie locale.",
+    "detaille": "La proposition de loi constitutionnelle, adoptée à l'Assemblée en 2000 puis au Sénat en 2011, créerait un article 72-5 de la Constitution. Elle ouvrirait le vote et l'éligibilité aux municipales aux étrangers non européens résidant en France. Ils ne pourraient ni être maire ou adjoint, ni participer à l'élection des sénateurs.\n\nC'est une promesse de François Mitterrand en 1981 et de François Hollande en 2012, jamais tenue. En février 2026, toute la gauche a adopté le texte en commission ; la droite et l'extrême droite ont déposé 501 amendements et le texte n'a pas été examiné. Une adoption définitive déclencherait un référendum.\n\nDepuis 2001, les citoyens de l'Union européenne votent déjà aux municipales. Le débat porte donc sur le lien entre citoyenneté et nationalité : pour la droite, voter suppose d'être français ; pour la gauche, la démocratie locale doit associer tous les résidents.",
+    "empathie": "Je comprends que le droit de vote paraisse lié à la nationalité. Mais il ne s'agit que des municipales, et un Allemand ou un Portugais qui vit dans ta commune vote déjà depuis 2001."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils voteront pour les présidentielles.",
+      "reponse": "Non : la proposition ne concerne que les municipales, sans pouvoir être maire ni adjoint."
+    },
+    {
+      "objection": "Qu'ils demandent la nationalité.",
+      "reponse": "C'est une option ; la proposition repose sur l'idée que la vie locale concerne tous ceux qui y résident durablement."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les citoyens européens votent déjà aux municipales depuis 2001 ?",
+    "Pourquoi un étranger qui vit dans ta commune depuis vingt ans n'aurait-il pas son mot à dire sur l'école ou les transports ?"
+  ],
+  "limites": [
+    "Le sort exact du texte le 12 février 2026 n'a pas été confirmé par une source lue.",
+    "La décision du Conseil constitutionnel de 1992 n'a pas été lue directement."
+  ],
+  "sources": [
+    {
+      "titre": "Proposition de loi constitutionnelle visant à accorder le droit de vote et d'éligibilité aux élections municipales aux étrangers non ressortissants de l'Union européenne (texte adopté n° 21)",
+      "organisme": "Sénat",
+      "date_publication": "8 décembre 2011",
+      "url": "https://www.senat.fr/leg/tas11-021.pdf",
+      "passage": "Le Sénat adopte un article 72-5 de la Constitution ouvrant le vote et l'éligibilité aux municipales aux « étrangers non ressortissants de l'Union européenne résidant en France ». Ces étrangers ne peuvent pas exercer les fonctions de maire ou d'adjoint, ni participer à l'élection des sénateurs.",
+      "pertinence": "Texte parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport n° 2428 de la commission des lois sur la proposition de loi constitutionnelle n° 149 (deuxième lecture)",
+      "organisme": "Assemblée nationale (rapporteure Léa Balage El Mariky)",
+      "date_publication": "4 février 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b2428_rapport-fond.pdf",
+      "passage": "Le texte reprend la proposition adoptée par l'Assemblée le 3 mai 2000, puis par le Sénat le 8 décembre 2011. Le rapport rappelle la promesse de François Mitterrand en 1981 et celle de François Hollande en 2012, et que depuis la révision consécutive à la décision du Conseil constitutionnel de 1992, l'article 88-3 de la Constitution ouvre le vote municipal aux citoyens de l'UE, effectif depuis 2001. Une adoption conforme déclencherait un référendum (article 89).",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Droit de vote des étrangers aux municipales : la proposition de loi écologiste adoptée en commission",
+      "organisme": "LCP (Maxence Kagni)",
+      "date_publication": "4 février 2026",
+      "url": "https://lcp.fr/actualites/droit-de-vote-des-etrangers-aux-municipales-la-proposition-de-loi-ecologiste-adoptee-en",
+      "passage": "Toute la gauche (écologistes, insoumis, socialistes, communistes) a permis l'adoption en commission ; le socle gouvernemental, le RN, l'UDR et LIOT sont contre. Pour la Droite républicaine, le droit de vote est lié à la nationalité. Le texte devrait être approuvé par référendum pour entrer en vigueur.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Les députés écologistes dénoncent « l'asphyxie » de leur niche parlementaire",
+      "organisme": "LCP (Anne-Charlotte Dusseaulx)",
+      "date_publication": "10 février 2026",
+      "url": "https://lcp.fr/actualites/les-deputes-ecologistes-denoncent-l-asphyxie-de-leur-niche-parlementaire-430944",
+      "passage": "La droite et l'extrême droite ont déposé 501 amendements ; les écologistes ont placé le texte en dernière position de leur niche du 12 février, ce qui lui enlève a priori toute chance d'être examiné.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suite de la navette parlementaire et programmes de 2027.",
+  "objections_legitimes": [
+    "C'est bien une revendication de toute la gauche depuis 1981.",
+    "La droite considère que le droit de vote doit rester lié à la nationalité, ce qui est un choix politique défendable."
+  ],
+  "publics": {
+    "convaincus": "Il ne s'agit que des municipales, sans pouvoir être maire, et les Européens votent déjà depuis 2001. Un étranger qui vit, travaille et paie ses impôts dans ta commune depuis des années n'aurait pas son mot à dire sur la cantine ou la voirie ?",
+    "indecis": "C'est vrai, la gauche le propose depuis 1981, mais limité aux municipales et jamais appliqué. Le vrai débat est de savoir si la démocratie locale doit associer tous les résidents ou seulement les nationaux. Une réforme passerait de toute façon par un référendum."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "egalite",
+      "universalite"
+    ],
+    "mecanismes": "La citoyenneté locale repose sur la résidence : ceux qui vivent dans une commune en subissent les décisions.",
+    "consequences": "Des résidents installés depuis des décennies restent exclus de la vie démocratique locale.",
+    "democratie": "Élargir le corps électoral local renforce la légitimité des élus et l’intégration.",
+    "propositions": [
+      "Accorder le droit de vote aux municipales aux étrangers résidant durablement en France.",
+      "Faciliter l’accès à la nationalité pour ceux qui le souhaitent."
+    ],
+    "defavorables": [
+      {
+        "fait": "La promesse a été faite et jamais tenue par la gauche au pouvoir, et elle exigerait un référendum.",
+        "integration": "L’assumer comme un engagement à tenir, par la voie démocratique prévue."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "gauche",
+    "vote_etrangers"
+  ],
+  "repond_a": [
+    {
+      "id": "vote_etrangers",
+      "label": "Droit de vote des étrangers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand"
+  ]
+}

@@ -129,6 +129,10 @@
     "pas voter",
     "aller voter"
   ],
+  "publics": {
+    "convaincus": "Chacun est libre de ne pas voter, mais l'abstention n'est pas un hasard : en 2022, 30,1 % des non-diplômés n'ont voté à aucun tour, contre 9,6 % des diplômés du supérieur. Les ouvriers votent beaucoup moins que les cadres. Et ceux qui votent le moins sont ceux dont les responsables politiques tiennent le moins compte.",
+    "indecis": "Ne pas voter est un droit. Mais les chiffres de l'Insee montrent que l'abstention touche surtout les moins diplômés, les ouvriers et les jeunes. Cela déforme la représentation : les choix politiques tiennent davantage compte de ceux qui votent."
+  },
   "concepts": [
     "abstention"
   ]

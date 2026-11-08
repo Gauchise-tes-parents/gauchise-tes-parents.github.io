@@ -1,0 +1,172 @@
+{
+  "id": "brexit-succes",
+  "type": "idee_recue",
+  "affirmation": "Le Brexit a été un succès pour le Royaume-Uni.",
+  "volet": "international",
+  "sous_theme": "Europe",
+  "rubriques": [],
+  "mots_cles": [
+    "brexit",
+    "royaume uni",
+    "sortie de l ue",
+    "frexit",
+    "quitter l union europeenne",
+    "leave",
+    "britanniques regrettent"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "L'organisme budgétaire public britannique estime que le Brexit réduira la productivité de long terme de 4 % et le commerce d'environ 15 %. 61 % des Britanniques le jugent aujourd'hui un échec. L'immigration, que le Brexit devait réduire, a atteint un record de 944 000 en solde net en 2023, même si celle venue de l'UE est devenue négative.",
+  "contexte": "Le Brexit est souvent cité comme exemple par les partisans d'un Frexit ou d'une sortie des traités européens.",
+  "explication": "En quittant l'UE, le Royaume-Uni a retrouvé la maîtrise de sa politique commerciale et migratoire, mais a perdu l'accès sans frictions au marché unique, son premier partenaire commercial.",
+  "faits": [
+    {
+      "fait": "L'OBR suppose que le Brexit réduira la productivité de long terme de 4 % par rapport au maintien dans l'UE, et que les exportations et importations seront environ 15 % plus faibles.",
+      "periode": "prévision 2026",
+      "perimetre": "Royaume-Uni",
+      "explication": "L'effet économique attendu est négatif.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "-4 %"
+    },
+    {
+      "fait": "Dès 2020, l'OBR constatait un effet déjà réalisé sur la productivité de 1,4 %, lié à un investissement plus faible.",
+      "periode": "2016-2020",
+      "perimetre": "Royaume-Uni",
+      "explication": "Les coûts ont commencé dès le référendum.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "1,4 %"
+    },
+    {
+      "fait": "En juin 2026, 61 % des Britanniques jugent le Brexit un échec et 12 % un succès ; 55 % sont favorables à un retour dans l'UE.",
+      "periode": "2026",
+      "perimetre": "Grande-Bretagne",
+      "explication": "Une large majorité le voit comme un échec.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "61 %"
+    },
+    {
+      "fait": "Le solde migratoire a atteint 944 000 sur l'année close en mars 2023, puis 345 000 fin 2024 ; celui des ressortissants de l'UE est devenu négatif (−69 000).",
+      "periode": "2023-2024",
+      "perimetre": "Royaume-Uni",
+      "explication": "L'immigration a augmenté, mais en changeant d'origine.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "944 000"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux pour l'économie : l'organisme public britannique prévoit 4 % de productivité et 15 % de commerce en moins. 61 % des Britanniques jugent le Brexit un échec. Et l'immigration a battu des records après la sortie.",
+    "moyen": "L'Office for Budget Responsibility, organisme public britannique, estime que le Brexit coûtera 4 % de productivité à long terme et réduira le commerce d'environ 15 %. Ce sont des estimations, mais l'organisme les juge confirmées par les données.\n\nLe Brexit devait aussi faire baisser l'immigration : le solde migratoire a atteint un record de 944 000 en 2023. L'immigration européenne est devenue négative, mais celle du reste du monde a explosé. Aujourd'hui, 61 % des Britanniques parlent d'échec.",
+    "detaille": "Selon l'Office for Budget Responsibility, chargé des prévisions budgétaires britanniques, l'accord de commerce avec l'UE réduira la productivité de long terme de 4 % et le commerce d'environ 15 %. Deux cinquièmes de cet effet étaient déjà réalisés en 2021, à cause de l'investissement freiné après le référendum. Ce sont des hypothèses de modélisation, pas des mesures directes, mais l'organisme les juge toujours conformes aux données.\n\nSur l'immigration, le résultat est inverse de la promesse : le solde migratoire a atteint 944 000 sur l'année close en mars 2023. La libre circulation a pris fin et le solde des Européens est devenu négatif, mais l'immigration venue du reste du monde a fortement augmenté, avec un pic révisé à plus d'un million de non-Européens.\n\nDix ans après le référendum, 61 % des Britanniques jugent le Brexit un échec, et 55 % souhaitent un retour dans l'UE. Les électeurs du Leave restent toutefois majoritairement convaincus d'avoir eu raison de voter.",
+    "empathie": "Je comprends l'envie de reprendre le contrôle face à une Union européenne qui paraît lointaine. Mais l'exemple britannique montre qu'en sortir coûte cher, et ne règle pas les questions qu'on voulait régler."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le Royaume-Uni a retrouvé sa souveraineté.",
+      "reponse": "Il a retrouvé la maîtrise de ses règles, mais il en paie le prix en commerce et en productivité, et l'immigration a augmenté."
+    },
+    {
+      "objection": "Les difficultés viennent du covid.",
+      "reponse": "L'OBR distingue l'effet du Brexit de celui de la pandémie, et note que le pays a raté une partie de la reprise du commerce mondial."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce que pensent aujourd'hui les Britanniques du Brexit ?",
+    "Qu'est-ce qui a été réglé par la sortie de l'UE ?"
+  ],
+  "limites": [
+    "Les estimations de l'OBR reposent sur une comparaison avec un scénario contrefactuel.",
+    "Les statistiques britanniques du commerce n'ont pas été lues directement."
+  ],
+  "sources": [
+    {
+      "titre": "Brexit analysis",
+      "organisme": "Office for Budget Responsibility (organisme budgétaire public britannique)",
+      "date_publication": "mise à jour du 20 juillet 2026",
+      "url": "https://obr.uk/forecasts-in-depth/the-economy-forecast/brexit-analysis/",
+      "passage": "Dans sa prévision de mars 2026, l'OBR suppose que l'accord de commerce avec l'UE réduira la productivité de long terme de 4 % par rapport au maintien dans l'UE ; environ deux cinquièmes de cet effet étaient déjà réalisés à l'entrée en vigueur de l'accord. Exportations et importations seraient d'environ 15 % inférieures à long terme. L'hypothèse d'immigration nette a été relevée de 129 000 à 290 000 par an à moyen terme. En mars 2024, l'OBR jugeait son hypothèse sur le commerce « broadly on track » ; en mars 2022, il notait que le pays avait raté une grande partie de la reprise du commerce mondial après la pandémie.",
+      "pertinence": "Prévision d'une institution publique indépendante (hypothèse de modélisation).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "The effect on productivity of leaving the EU (encadré 2.1)",
+      "organisme": "Office for Budget Responsibility",
+      "date_publication": "mars 2020",
+      "url": "https://obr.uk/box/the-effect-on-productivity-of-leaving-the-eu/",
+      "passage": "L'effet du Brexit déjà constaté sur la productivité est relevé de 1,0 à 1,4 %, du fait d'un investissement plus faible. L'effet de long terme, dans un scénario d'accord de libre-échange, est estimé à environ 4 %, avec une fourchette large ; il doit mettre 15 ans à se matérialiser.",
+      "pertinence": "Institution publique indépendante.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "What do Britons think of Brexit, 10 years since the referendum?",
+      "organisme": "YouGov (Dylan Difford)",
+      "date_publication": "9 juin 2026",
+      "url": "https://yougov.com/en-gb/articles/54925-what-do-britons-think-of-brexit-10-years-since-the-referendum",
+      "passage": "30 % des Britanniques estiment que voter pour la sortie était le bon choix, 57 % une erreur ; 61 % jugent le Brexit un échec et 12 % un succès. Seuls 25 % des électeurs du Leave parlent de succès, mais 64 % d'entre eux maintiennent que voter pour la sortie était juste. 55 % sont favorables à un retour dans l'UE. Sondage en ligne auprès de 2 114 adultes, 2 et 3 juin 2026.",
+      "pertinence": "Sondage d'un institut.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Improving long-term international migration statistics: November 2025",
+      "organisme": "Office for National Statistics (ONS)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/improvinglongterminternationalmigrationstatisticsupdatingourmethodsandestimates/november2025",
+      "passage": "Le pic révisé d'immigration nette atteint 944 000 sur l'année close en mars 2023 ; le dernier chiffre provisoire est de 345 000 pour l'année close en décembre 2024. Pour les ressortissants de l'UE, le solde est de −69 000 en décembre 2024 ; pour les non-Européens, le pic est révisé à 1 047 000 (mars 2023).",
+      "pertinence": "Statistique publique britannique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Prévisions annuelles de l'OBR et données de l'ONS.",
+  "objections_legitimes": [
+    "La libre circulation a pris fin et le solde migratoire avec l'UE est devenu négatif.",
+    "64 % des électeurs du Leave pensent toujours avoir eu raison.",
+    "Les chiffres de l'OBR sont des estimations par rapport à un scénario théorique."
+  ],
+  "publics": {
+    "convaincus": "Le Brexit devait rendre au pays le contrôle de son économie et de ses frontières. Résultat : l'organisme public britannique prévoit 4 % de productivité en moins, et l'immigration a atteint un record en 2023. Ce sont les Britanniques eux-mêmes, à 61 %, qui parlent d'échec.",
+    "indecis": "Le Brexit a permis au Royaume-Uni de décider seul de ses règles, notamment sur la libre circulation. Mais son coût économique est estimé à 4 % de productivité, et l'immigration n'a pas baissé. Avant de proposer une sortie de l'UE en France, il est utile de regarder ce bilan."
+  },
+  "lecture": {
+    "valeurs": [
+      "internationalisme",
+      "travailleurs",
+      "democratie"
+    ],
+    "mecanismes": "Le repli national promet de reprendre le contrôle, mais il ne s’attaque pas aux causes des difficultés : salaires, services publics, investissement.",
+    "consequences": "Ce sont les ménages modestes qui paient la baisse du commerce et de la productivité.",
+    "democratie": "Le vote populaire de 2016 était légitime ; il a reposé sur des promesses que les faits ont contredites.",
+    "propositions": [
+      "Transformer l’Union européenne de l’intérieur plutôt que la quitter.",
+      "Défendre une Europe sociale contre le dumping."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une majorité des électeurs du Leave pensent toujours avoir eu raison, et la libre circulation a pris fin.",
+        "integration": "Le reconnaître, en rappelant le bilan économique et migratoire."
+      }
+    ]
+  },
+  "concepts": [
+    "europe",
+    "sortie_ue"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "bruxelles",
+    "union europeenne",
+    "frexit",
+    "plan b",
+    "desobeissance europeenne"
+  ]
+}

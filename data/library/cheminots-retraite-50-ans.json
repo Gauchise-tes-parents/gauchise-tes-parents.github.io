@@ -1,0 +1,173 @@
+{
+  "id": "cheminots-retraite-50-ans",
+  "type": "idee_recue",
+  "affirmation": "Les cheminots partent à la retraite à 50 ans.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "cheminots",
+    "retraite des cheminots",
+    "sncf retraite",
+    "regime special sncf",
+    "regimes speciaux",
+    "conducteurs de train",
+    "retraite a 50 ans"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'âge de 50 ans ne concernait que les conducteurs de train, et il est relevé progressivement à 54 ans. L'âge moyen de départ à la SNCF était de 56,9 ans en 2019, et il doit monter à 57 ans pour les conducteurs et 62 ans pour les autres agents. Surtout, le régime spécial est fermé depuis 2020 : les cheminots embauchés depuis relèvent du régime général.",
+  "contexte": "Les cheminots sont souvent présentés comme des privilégiés, notamment lors des grèves contre les réformes des retraites.",
+  "explication": "Le régime spécial de la SNCF prévoyait des âges de départ plus bas pour tenir compte de métiers pénibles et des horaires décalés. Il est en voie d'extinction : plus aucun nouvel embauché n'y entre depuis le 1er janvier 2020.",
+  "faits": [
+    {
+      "fait": "L'âge minimal de base est de 50 ans pour les conducteurs et 55 ans pour les sédentaires, relevé progressivement à 54 et 59 ans.",
+      "periode": "2024",
+      "perimetre": "Régime de la SNCF",
+      "explication": "Les 50 ans ne concernaient que les conducteurs, et sont relevés.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "50 à 54 ans"
+    },
+    {
+      "fait": "L'âge moyen de départ à la SNCF était de 56,9 ans selon un rapport de la Cour des comptes de 2019.",
+      "periode": "2019",
+      "perimetre": "SNCF",
+      "explication": "On part en moyenne vers 57 ans, pas à 50.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "56,9 ans"
+    },
+    {
+      "fait": "Le régime est fermé aux nouvelles recrues depuis le 1er janvier 2020.",
+      "periode": "2020",
+      "perimetre": "SNCF",
+      "explication": "Les jeunes cheminots relèvent du régime général.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'âge moyen de départ doit se stabiliser à 62 ans pour les sédentaires et 57 ans pour les conducteurs.",
+      "periode": "projection",
+      "perimetre": "SNCF",
+      "explication": "L'écart avec le régime général se réduit.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "62 et 57 ans"
+    },
+    {
+      "fait": "Fin 2023, l'âge conjoncturel de départ se situe entre 56,2 et 59,8 ans pour la SNCF, la RATP et les industries électriques et gazières, contre 62 ans et 9 mois tous régimes confondus.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les régimes spéciaux partent encore plus tôt que la moyenne.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : 50 ans ne concernait que les conducteurs, et c'est relevé à 54 ans. L'âge moyen de départ à la SNCF était de 56,9 ans en 2019. Et le régime spécial est fermé depuis 2020 aux nouveaux embauchés.",
+    "moyen": "Seuls les conducteurs de train pouvaient partir dès 50 ans ; cet âge est relevé progressivement à 54 ans. Pour les autres agents, l'âge minimal passe de 55 à 59 ans. En moyenne, les cheminots partaient à 56,9 ans en 2019.\n\nLe régime spécial est fermé depuis 2020 : les cheminots embauchés depuis cotisent au régime général. Il reste un écart avec la moyenne nationale, qui tient à des métiers pénibles et des horaires décalés, mais il se réduit.",
+    "detaille": "Selon le Conseil d'orientation des retraites, l'âge minimal de départ du régime de la SNCF était de 50 ans pour les conducteurs et de 55 ans pour les sédentaires ; il est relevé progressivement à 54 et 59 ans, au fil des réformes de 2010, 2014 et 2023. En 2024, l'âge légal allait de 52 à 57 ans selon le poste.\n\nL'âge moyen de départ était de 56,9 ans en 2019 selon la Cour des comptes. Fin 2023, il se situait entre 56,2 et 59,8 ans pour les grands régimes spéciaux, contre près de 63 ans tous régimes confondus. L'écart est donc réel. Il doit se réduire : le COR projette 57 ans pour les conducteurs et 62 ans pour les autres agents.\n\nSurtout, depuis le 1er janvier 2020, plus aucun nouvel embauché n'entre dans ce régime. Le régime compte 112 000 cotisants pour 233 000 pensionnés, ce qui explique que l'État le subventionne, à hauteur d'environ 3 milliards d'euros par an.",
+    "empathie": "Je comprends que ça puisse choquer quand on doit soi-même travailler jusqu'à 64 ans. Mais les 50 ans, c'était pour les conducteurs, avec des horaires de nuit et de week-end, et ce régime est fermé depuis 2020."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ce sont des privilégiés.",
+      "reponse": "Les âges plus bas compensaient des métiers pénibles et des horaires décalés ; le régime est fermé aux nouveaux embauchés depuis 2020."
+    },
+    {
+      "objection": "C'est nous qui payons leur retraite.",
+      "reponse": "La subvention de l'État s'explique par le déséquilibre démographique d'un régime fermé : 112 000 cotisants pour 233 000 pensionnés."
+    }
+  ],
+  "questions": [
+    "Sais-tu que le régime spécial de la SNCF est fermé depuis 2020 ?",
+    "Faut-il prendre en compte la pénibilité des métiers dans l'âge de départ, pour tous les salariés ?"
+  ],
+  "limites": [
+    "Le rapport de la Cour des comptes de 2019 n'a été lu qu'à travers Public Sénat.",
+    "La valeur DREES propre à la SNCF n'est donnée que dans une fourchette."
+  ],
+  "sources": [
+    {
+      "titre": "Fiche régime : Caisse de prévoyance et de retraite du personnel ferroviaire (CPRPF)",
+      "organisme": "Conseil d'orientation des retraites (projections de juin 2024)",
+      "date_publication": "juillet 2024",
+      "url": "https://cor-retraites.fr/sites/default/files/2024-07/Fiche_CPRPF%20%28SNCF%29.pdf",
+      "passage": "Pour la pension d'ancienneté, l'âge minimal de base est de 55 ans pour les sédentaires et de 50 ans pour les conducteurs, relevé progressivement à 59 et 54 ans. La loi de 2018 a fermé le régime aux nouvelles recrues au 1er janvier 2020 ; les réformes de 2010, 2014 et 2023 y sont transposées avec un décalage. L'âge moyen de départ doit se stabiliser à 62 ans pour les sédentaires et 57 ans pour les conducteurs. En 2023, le régime compte 112 000 cotisants et 233 000 pensionnés.",
+      "pertinence": "Organisme public d'expertise sur les retraites.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réforme des retraites : à quoi faut-il s'attendre pour les régimes spéciaux ?",
+      "organisme": "Public Sénat (Guillaume Jacquot)",
+      "date_publication": "10 janvier 2023",
+      "url": "https://www.publicsenat.fr/actualites/politique/reforme-des-retraites-a-quoi-faut-il-s-attendre-pour-les-regimes-speciaux",
+      "passage": "L'âge moyen de départ à la SNCF est de 56,9 ans selon un rapport de la Cour des comptes de 2019. Depuis le 1er janvier 2020, le régime n'accueille plus de nouveaux affiliés.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "À la SNCF, un accord atténue une partie de la réforme des retraites",
+      "organisme": "Public Sénat (Romain David)",
+      "date_publication": "23 avril 2024",
+      "url": "https://www.publicsenat.fr/actualites/economie/a-la-sncf-un-accord-attenue-une-partie-de-la-reforme-des-retraites-un-symbole-pour-la-gauche-une-catastrophe-pour-la-droite",
+      "passage": "L'âge légal de départ à la SNCF va de 52 à 57 ans selon le poste ; le relèvement de deux ans prévu par la réforme de 2023 s'y applique à partir de 2025. L'accord d'avril 2024 crée une cessation anticipée d'activité pour les agents ayant au moins 20 ans de métier pénible. L'État verse environ 3 milliards d'euros par an pour les retraites des cheminots.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "L'âge moyen de départ à la retraite et son évolution (fiche 15, Les retraités et les retraites, édition 2025)",
+      "organisme": "DREES",
+      "date_publication": "juillet 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-07/Fiche%2015%20-%20L%27%C3%A2ge%20moyen%20de%20d%C3%A9part%20%C3%A0%20la%20retraite%20et%20son%20%C3%A9volution.pdf",
+      "passage": "Fin 2023, l'âge conjoncturel de départ se situe entre 56,2 et 59,8 ans pour la SNCF, la RATP et les industries électriques et gazières ; il est de 62 ans et 9 mois tous régimes confondus.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rapport annuel du COR.",
+  "objections_legitimes": [
+    "Les cheminots partent encore plusieurs années avant la moyenne nationale.",
+    "L'État subventionne le régime à hauteur d'environ 3 milliards d'euros par an.",
+    "Un accord de 2024 a créé une cessation anticipée pour les métiers pénibles."
+  ],
+  "publics": {
+    "convaincus": "Les 50 ans ne concernaient que les conducteurs, et c'est relevé à 54. En moyenne, un cheminot partait à 56,9 ans, et le régime est fermé depuis 2020. Plutôt que d'en vouloir aux cheminots, pourquoi ne pas exiger que la pénibilité soit reconnue pour tous ?",
+    "indecis": "Les cheminots partent encore plus tôt que la moyenne, c'est vrai, mais pas à 50 ans pour la plupart : vers 57 ans en moyenne. Ce régime est en voie d'extinction depuis 2020. La vraie question est de savoir comment prendre en compte la pénibilité de tous les métiers."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "solidarite"
+    ],
+    "mecanismes": "On oppose les salariés entre eux sur l’âge de départ plutôt que de reconnaître la pénibilité pour tous.",
+    "consequences": "Les cheminots sont désignés comme privilégiés pendant que la pénibilité des autres métiers reste ignorée.",
+    "democratie": "Les régimes de retraite sont des conquêtes sociales négociées, pas des privilèges.",
+    "propositions": [
+      "Reconnaître la pénibilité dans l’âge de départ pour tous les métiers concernés.",
+      "Financer les retraites par une meilleure répartition des richesses."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les cheminots partent encore plus tôt que la moyenne et l’État subventionne le régime.",
+        "integration": "Le reconnaître, en rappelant la fermeture du régime et la pénibilité."
+      }
+    ]
+  },
+  "concepts": [
+    "retraite"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "reforme des retraites"
+  ]
+}

@@ -113,6 +113,10 @@
   "synonymes": [
     "marge d erreur"
   ],
+  "publics": {
+    "convaincus": "Un échantillon de 1 000 personnes bien construit donne une estimation avec une marge d'erreur connue : un score de 50 % veut dire entre 46,9 % et 53,1 %. Ce n'est pas une prédiction, c'est une photo à un moment donné. Depuis 2016, la marge d'erreur doit être publiée : tu peux la vérifier toi-même.",
+    "indecis": "Un sondage n'est pas une certitude, mais ce n'est pas rien : avec 1 000 personnes, la marge d'erreur est d'environ 3 points autour de 50 %. Il faut regarder cette marge et la méthode, publiées obligatoirement depuis 2016. Un sondage mesure une opinion à un moment, il ne prédit pas un résultat."
+  },
   "concepts": [
     "sondages"
   ]

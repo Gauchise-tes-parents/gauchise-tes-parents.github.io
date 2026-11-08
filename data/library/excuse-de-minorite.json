@@ -1,0 +1,192 @@
+{
+  "id": "excuse-de-minorite",
+  "type": "idee_recue",
+  "affirmation": "Les mineurs délinquants sont de plus en plus jeunes et violents, il faut supprimer l'excuse de minorité.",
+  "volet": "securite",
+  "sous_theme": "Justice pénale",
+  "rubriques": [],
+  "mots_cles": [
+    "excuse de minorite",
+    "mineurs delinquants",
+    "delinquance des mineurs",
+    "mineurs violents",
+    "de plus en plus jeunes",
+    "justice des mineurs",
+    "loi attal",
+    "ordonnance de 1945"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Les données ne montrent pas de rajeunissement établi : la part des mineurs parmi les personnes mises en cause est stable autour de 18 % depuis 2002. Certaines infractions augmentent (violences sexuelles, trafic de stupéfiants), d'autres baissent (vols). Et l'atténuation de peine selon l'âge est un principe constitutionnel : en 2025, le Conseil constitutionnel a censuré la loi qui voulait l'inverser.",
+  "contexte": "Le sujet revient après chaque fait divers impliquant un mineur ; une loi de 2025 a tenté de durcir la justice des mineurs.",
+  "explication": "L'« excuse de minorité » réduit la peine encourue par un mineur ; pour les plus de 16 ans, le juge peut l'écarter par une décision motivée. Elle repose sur l'idée qu'un adolescent est moins responsable qu'un adulte et doit pouvoir être rééduqué.",
+  "faits": [
+    {
+      "fait": "Le nombre de mineurs mis en cause n'augmente que de 6 % entre 2002 et 2019, et leur part parmi les mis en cause reste proche de 18 % depuis 2002.",
+      "periode": "2002-2019",
+      "perimetre": "France",
+      "explication": "Pas d'explosion de la délinquance des mineurs.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "18 %"
+    },
+    {
+      "fait": "La répartition par âge des mineurs mis en cause est globalement stable entre 2016 et 2019 ; les sénateurs jugent impossible de conclure à un rajeunissement.",
+      "periode": "2016-2019",
+      "perimetre": "France",
+      "explication": "Le « de plus en plus jeunes » n'est pas démontré.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Entre 2016 et 2021, les vols sans violence commis par des mineurs baissent de 28,4 % et les vols violents de 14,9 %, mais les mineurs mis en cause pour trafic de stupéfiants augmentent de 35 %.",
+      "periode": "2016-2021",
+      "perimetre": "France",
+      "explication": "Les évolutions sont contrastées selon les infractions.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "+35 %"
+    },
+    {
+      "fait": "Les mises en cause de mineurs pour viol sur mineur augmentent de 109 % entre 2020 et 2024, ce que l'étude explique en partie par le confinement et la libération de la parole.",
+      "periode": "2020-2024",
+      "perimetre": "France",
+      "explication": "Certaines violences progressent nettement.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "+109 %"
+    },
+    {
+      "fait": "En juin 2025, le Conseil constitutionnel a censuré l'inversion de l'excuse de minorité au nom du « principe de l'atténuation de la responsabilité pénale des mineurs en fonction de l'âge ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "On ne peut pas supprimer ce principe par une simple loi.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : la part des mineurs parmi les délinquants est stable autour de 18 % depuis 2002, et aucun rajeunissement n'est démontré. Certaines violences augmentent. Mais l'atténuation de peine selon l'âge est un principe constitutionnel, rappelé par le Conseil constitutionnel en 2025.",
+    "moyen": "Les chiffres ne montrent pas d'explosion : le nombre de mineurs mis en cause n'a augmenté que de 6 % entre 2002 et 2019, et leur part reste autour de 18 %. Les vols baissent ; le trafic de stupéfiants et les violences sexuelles augmentent.\n\nSupprimer l'excuse de minorité n'est pas possible par une simple loi : en 2025, le Conseil constitutionnel a censuré la loi qui voulait l'inverser. Les juges peuvent déjà l'écarter pour les plus de 16 ans. Le vrai manque, ce sont les moyens éducatifs pour suivre ces jeunes.",
+    "detaille": "Le Sénat a examiné en 2022 les chiffres de la délinquance des mineurs. Le nombre de mineurs mis en cause a augmenté de 6 % entre 2002 et 2019, et leur part parmi les mis en cause est restée proche de 18 %. La répartition par âge est globalement stable : les sénateurs n'ont pas pu conclure à un rajeunissement, même si le terrain signale des guetteurs de 13 ans.\n\nLes évolutions diffèrent selon les infractions : baisse des vols, hausse du trafic de stupéfiants (+35 % entre 2016 et 2021) et des violences sexuelles, dont les mises en cause ont doublé entre 2020 et 2024, en partie du fait de la libération de la parole. Ces hausses sont réelles et méritent une réponse.\n\nL'excuse de minorité réduit la peine encourue ; le juge peut déjà l'écarter, en le motivant, pour les 16-18 ans. En 2025, une loi voulait en faire l'exception pour les récidivistes : le Conseil constitutionnel l'a censurée, rappelant que l'atténuation selon l'âge et le « relèvement éducatif et moral des mineurs » sont des exigences constitutionnelles.",
+    "empathie": "Je comprends le choc quand un adolescent commet un acte très violent, et l'envie qu'il soit puni comme un adulte. Mais les chiffres ne montrent pas une vague de délinquance juvénile, et punir plus durement un mineur ne dit pas comment l'empêcher de recommencer."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils savent qu'ils ne risquent rien.",
+      "reponse": "Les mineurs sont jugés et condamnés ; le juge peut écarter l'atténuation pour les plus de 16 ans."
+    },
+    {
+      "objection": "Il suffit de changer la loi.",
+      "reponse": "Le Conseil constitutionnel a jugé en 2025 que l'atténuation selon l'âge est un principe constitutionnel."
+    }
+  ],
+  "questions": [
+    "Sais-tu que la part des mineurs parmi les délinquants est stable depuis vingt ans ?",
+    "Qu'est-ce qui empêche le mieux un adolescent de récidiver : une peine plus longue, ou un suivi éducatif ?"
+  ],
+  "limites": [
+    "Les séries du Sénat s'arrêtent en 2021 et ne sont pas validées par le SSMSI.",
+    "La décision du Conseil constitutionnel n'a été lue qu'à travers deux médias parlementaires."
+  ],
+  "sources": [
+    {
+      "titre": "Prévenir la délinquance des mineurs – Éviter la récidive (rapport d'information n° 885, partie II)",
+      "organisme": "Sénat, commissions de la culture et des lois",
+      "date_publication": "21 septembre 2022",
+      "url": "https://www.senat.fr/rap/r21-885/r21-8856.html",
+      "passage": "Le nombre de mineurs mis en cause passe de 98 864 en 1992 à 190 127 en 2019, mais n'augmente que de 6 % entre 2002 et 2019 ; leur part parmi les mis en cause reste proche de 18 % depuis 2002 (séries non validées par le SSMSI). Entre 2016 et 2021, les atteintes aux personnes augmentent (violences sexuelles sur mineurs +59,7 %, en partie par libération de la parole), les vols sans violence baissent de 28,4 % et les vols violents de 14,9 % ; les mineurs mis en cause pour trafic de stupéfiants augmentent de 35 %. La répartition par âge est globalement stable entre 2016 et 2019 : les difficultés statistiques empêchent de conclure à un rajeunissement.",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Justice des mineurs : le Conseil constitutionnel censure largement le texte Attal, notamment la dérogation de l'excuse de minorité",
+      "organisme": "Public Sénat (Simon Barbarit)",
+      "date_publication": "19 juin 2025",
+      "url": "https://www.publicsenat.fr/actualites/politique/justice-des-mineurs-le-conseil-constitutionnel-censure-largement-le-texte-attal-notamment-la-derogation-de-lexcuse-de-minorite",
+      "passage": "La loi prévoyait d'inverser la règle pour les 16-18 ans récidivistes : le juge aurait dû motiver l'application de l'atténuation de peine, et non plus son exclusion. Le Conseil constitutionnel a censuré cette disposition au nom du « principe de l'atténuation de la responsabilité pénale des mineurs en fonction de l'âge », ainsi que la comparution immédiate dès 16 ans, au nom de l'exigence de « relèvement éducatif et moral des mineurs ». Les dispositions sur la responsabilité des parents ont été validées.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Justice des mineurs : le Conseil constitutionnel censure plusieurs articles de la loi de Gabriel Attal",
+      "organisme": "LCP (Anne-Charlotte Dusseaulx)",
+      "date_publication": "19 juin 2025",
+      "url": "https://lcp.fr/actualites/justice-des-mineurs-le-conseil-constitutionnel-censure-plusieurs-articles-de-la-loi-de",
+      "passage": "Six articles sont censurés en tout ou partie. Sur l'excuse de minorité, le Conseil estime que l'atténuation doit rester la règle et son absence l'exception ; la comparution immédiate doit être réservée à des infractions suffisamment graves ou à des cas exceptionnels.",
+      "pertinence": "Média parlementaire.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Infostat Justice n° 205",
+      "organisme": "Ministère de la Justice, service statistique",
+      "date_publication": "novembre 2025",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2025-11/Infostat_Justice_205.pdf",
+      "passage": "Les mineurs représentent 39,4 % des mis en cause pour viols et agressions sexuelles sur mineurs entre 2017 et 2024. Les mises en cause de mineurs pour viol sur mineur augmentent de 109 % entre 2020 et 2024, ce que l'étude explique en partie par le confinement et la libération de la parole ; 31 % de ces mineurs ont moins de 13 ans.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Statistiques annuelles de la Justice et du SSMSI.",
+  "objections_legitimes": [
+    "Le trafic de stupéfiants et les violences sexuelles impliquant des mineurs augmentent.",
+    "Des réseaux recrutent des adolescents très jeunes."
+  ],
+  "publics": {
+    "convaincus": "La part des mineurs parmi les délinquants n'a pas bougé depuis 2002, autour de 18 %. Le juge peut déjà écarter l'excuse de minorité pour les plus de 16 ans, et le Conseil constitutionnel a rappelé en 2025 qu'on ne peut pas la supprimer. Ce qui manque, ce sont des éducateurs et des places de suivi.",
+    "indecis": "Certaines violences impliquant des mineurs augmentent, notamment le trafic de drogue, et c'est inquiétant. Mais il n'y a pas d'explosion globale ni de rajeunissement démontré. Le droit permet déjà des peines lourdes pour les plus âgés ; l'enjeu est d'éviter la récidive."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "vulnerables",
+      "services_publics"
+    ],
+    "mecanismes": "Un adolescent est encore en construction : la justice des mineurs mise sur l’éducation pour éviter la récidive. Les réseaux qui recrutent des jeunes exploitent leur vulnérabilité.",
+    "consequences": "Punir les mineurs comme des adultes fabrique des parcours carcéraux précoces, sans protéger les victimes.",
+    "democratie": "Le principe d’atténuation selon l’âge est constitutionnel : le contourner fragilise l’État de droit.",
+    "propositions": [
+      "Recruter des éducateurs et des juges des enfants.",
+      "Poursuivre durement les adultes qui exploitent des mineurs dans les trafics."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le trafic de stupéfiants et les violences sexuelles impliquant des mineurs augmentent.",
+        "integration": "Le reconnaître et y répondre par des moyens éducatifs et judiciaires, pas par la suppression d’un principe."
+      }
+    ]
+  },
+  "concepts": [
+    "delinquance",
+    "justice",
+    "excuse_minorite"
+  ],
+  "repond_a": [
+    {
+      "id": "excuse_minorite",
+      "label": "Excuse de minorité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "justice",
+    "excuse de minorite",
+    "delinquance des mineurs",
+    "justice des mineurs"
+  ]
+}

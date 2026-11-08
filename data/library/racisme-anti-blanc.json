@@ -1,0 +1,173 @@
+{
+  "id": "racisme-anti-blanc",
+  "type": "idee_recue",
+  "affirmation": "Le racisme anti-blanc est devenu le racisme le plus répandu en France.",
+  "volet": "immigration",
+  "sous_theme": "Racisme",
+  "rubriques": [],
+  "mots_cles": [
+    "racisme anti blanc",
+    "racisme anti blancs",
+    "racisme contre les blancs",
+    "francais de souche discrimines",
+    "haine des blancs",
+    "racisme inverse",
+    "blancs victimes"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les grandes enquêtes de la statistique publique montrent l'inverse : les immigrés et descendants d'immigrés déclarent environ deux fois plus de propos racistes, et bien plus de discriminations liées à l'origine, que la population sans ascendance migratoire. Des personnes de la population majoritaire subissent aussi des insultes racistes (16 % au cours de leur vie en 2008), mais celles-ci se traduisent rarement en discriminations.",
+  "contexte": "L'expression est utilisée pour renverser le débat sur les discriminations ; elle s'appuie sur des expériences réelles d'insultes.",
+  "explication": "Les enquêtes Trajectoires et Origines de l'Insee et de l'Ined interrogent des milliers de personnes sur les traitements inégalitaires et les propos racistes qu'elles ont subis. Elles distinguent les insultes, que tout le monde peut subir, et les discriminations (emploi, logement), qui dépendent d'un rapport de pouvoir.",
+  "faits": [
+    {
+      "fait": "En 2008, 36 % des descendants d'immigrés et 32 % des immigrés déclarent avoir subi des insultes ou propos racistes au cours de leur vie, contre 16 % de la population majoritaire.",
+      "periode": "2008",
+      "perimetre": "France, 18-50 ans",
+      "explication": "Le racisme subi est deux fois plus fréquent chez les immigrés et leurs enfants.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "36 % contre 16 %"
+    },
+    {
+      "fait": "En 2008, les discriminations déclarées sur cinq ans touchent 31 % des descendants de deux parents immigrés et 10 % de la population majoritaire ; pour cette dernière, le racisme subi n'est pas lié à des discriminations en raison de l'origine.",
+      "periode": "2008",
+      "perimetre": "France",
+      "explication": "Les insultes ne se traduisent pas en discriminations pour la population majoritaire.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2019-2020, 22 % des immigrés et 20 % des descendants d'immigrés déclarent des discriminations liées à l'origine, la nationalité ou la couleur de peau, contre 8 % de l'ensemble de la population.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine, 18-49 ans",
+      "explication": "Les discriminations liées à l'origine visent surtout les immigrés et leurs enfants.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "22 % et 20 %"
+    },
+    {
+      "fait": "Les discriminations déclarées par les personnes sans ascendance migratoire, tous motifs confondus, passent de 10 % à 15 % entre 2008 et 2019-2020, hausse portée surtout par le motif sexiste.",
+      "periode": "2008-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "La hausse chez la population majoritaire concerne surtout le sexisme.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "15 %"
+    },
+    {
+      "fait": "Environ 1,2 million de personnes s'estiment victimes chaque année d'une atteinte raciste, antisémite ou xénophobe, et 97 % ne portent pas plainte.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le racisme reste massif et peu déclaré.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "1,2 million"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : selon l'Insee et l'Ined, les immigrés et leurs enfants déclarent deux fois plus de propos racistes que la population majoritaire, et beaucoup plus de discriminations. Des insultes visent aussi des Blancs, mais elles se traduisent rarement en discriminations.",
+    "moyen": "Les enquêtes de la statistique publique sont nettes : en 2008, 36 % des descendants d'immigrés déclaraient avoir subi des propos racistes, contre 16 % de la population majoritaire. En 2019-2020, plus d'un immigré sur cinq déclarait des discriminations liées à son origine.\n\nLes insultes visant des personnes blanches existent, et elles sont blessantes. Mais selon l'Ined, elles ne s'accompagnent pas de discriminations à l'embauche ou au logement, contrairement à ce que vivent les immigrés et leurs enfants.",
+    "detaille": "L'enquête Trajectoires et Origines de 2008 montre que 36 % des descendants d'immigrés et 32 % des immigrés ont subi des insultes ou propos racistes au cours de leur vie, contre 16 % de la population majoritaire. Ce dernier chiffre n'est pas nul : le racisme visant des personnes blanches existe.\n\nMais la différence est dans les conséquences. Les discriminations déclarées sur cinq ans touchent 31 % des descendants de deux parents immigrés et 10 % de la population majoritaire, et pour celle-ci, selon l'Ined, le racisme subi n'est pas lié à des discriminations en raison de l'origine. En 2019-2020, 22 % des immigrés et 20 % des descendants déclarent des discriminations liées à l'origine ou à la couleur de peau, environ un tiers pour les personnes originaires d'Afrique subsaharienne.\n\nLes discriminations déclarées par la population sans ascendance migratoire progressent (de 10 % à 15 %), mais surtout à cause du sexisme. Le racisme, lui, reste massif et peu dénoncé : 97 % des victimes ne portent pas plainte.",
+    "empathie": "Si tu as été insulté à cause de ta couleur de peau, c'est inacceptable, et tu as raison de le dire. Les enquêtes montrent simplement que ce racisme est moins fréquent et qu'il ferme moins de portes que celui que subissent les immigrés et leurs enfants."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les Blancs n'osent pas le dire.",
+      "reponse": "Les enquêtes sont anonymes et posent les mêmes questions à tous ; la population majoritaire déclare deux fois moins de propos racistes."
+    },
+    {
+      "objection": "Les enquêtes ne s'intéressent pas aux Blancs.",
+      "reponse": "Elles interrogent toute la population, y compris les personnes sans ascendance migratoire, dont 16 % déclaraient en 2008 avoir subi des propos racistes."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce que mesurent les enquêtes de l'Insee et de l'Ined sur le racisme ?",
+    "Une insulte et un refus d'embauche, est-ce la même chose ?"
+  ],
+  "limites": [
+    "Le détail du motif « origine » pour la population majoritaire en 2019-2020 n'a pas été lu.",
+    "Une partie des données date de 2008."
+  ],
+  "sources": [
+    {
+      "titre": "En dix ans, le sentiment de discrimination augmente, porté par les femmes et le motif sexiste (Insee Première n° 1911)",
+      "organisme": "Insee et Ined (J. Lê, O. Rouhban, P. Tanneau, C. Beauchemin, M. Ichou, P. Simon)",
+      "date_publication": "5 juillet 2022, actualisé le 23 février 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6473349",
+      "passage": "Enquête Trajectoires et Origines 2 (2019-2020), 18-49 ans, France métropolitaine. 15 % des personnes sans ascendance migratoire déclarent des traitements inégalitaires ou des discriminations, tous motifs confondus, contre 10 % en 2008-2009 ; la moyenne est de 18 %. Pour le motif « origine, nationalité ou couleur de peau », le taux est de 8 % pour l'ensemble, 22 % pour les immigrés et 20 % pour les descendants d'immigrés, et environ un tiers pour les personnes originaires d'Afrique hors Maghreb.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Expérience et perception des discriminations et du racisme (séminaire de valorisation TeO)",
+      "organisme": "Ined (Christelle Hamel)",
+      "date_publication": "non daté (données TeO 2008)",
+      "url": "https://teo.site.ined.fr/fichier/rte/2/Mini%20sites/Teo/seminaire%20valorisation/discriminations.et.racisme.fr.pdf",
+      "passage": "18-50 ans, insultes, propos ou attitudes racistes subis au cours de la vie : 36 % des descendants d'immigrés, 32 % des immigrés et 16 % de la population majoritaire. Discriminations déclarées sur cinq ans : 31 % pour les descendants de deux parents immigrés, 26 % pour les immigrés, 10 % pour la population majoritaire. Pour la population majoritaire, le racisme subi n'est pas lié à des discriminations en raison de l'origine, contrairement aux immigrés et à leurs enfants.",
+      "pertinence": "Exploitation de l'enquête de l'Ined et de l'Insee (données de 2008).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport sur la lutte contre le racisme, l'antisémitisme et la xénophobie – Année 2025 (Les Essentiels)",
+      "organisme": "Commission nationale consultative des droits de l'homme (CNCDH)",
+      "date_publication": "juin 2026",
+      "url": "https://www.cncdh.fr/sites/default/files/2026-06/CNCDH%20Essentiels%20du%20rapport%20racisme%202025.pdf",
+      "passage": "Selon l'enquête Vécu et ressenti en matière de sécurité du SSMSI (2023), environ 1,2 million de personnes de 14 ans et plus s'estiment victimes chaque année d'au moins une atteinte raciste, antisémite ou xénophobe, et 97 % ne portent pas plainte. Le ministère de l'Intérieur a enregistré 9 737 crimes et délits à caractère raciste en 2025. L'indice de tolérance est de 64 sur 100.",
+      "pertinence": "Autorité administrative indépendante.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-08",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles exploitations de l'enquête TeO2 et rapport annuel de la CNCDH.",
+  "objections_legitimes": [
+    "16 % de la population majoritaire déclarait en 2008 avoir subi des propos racistes.",
+    "Les discriminations déclarées par les personnes sans ascendance migratoire augmentent."
+  ],
+  "publics": {
+    "convaincus": "Une insulte raciste contre un Blanc est inacceptable, et elle existe. Mais les enquêtes anonymes de l'Insee et de l'Ined montrent que les immigrés et leurs enfants en subissent deux fois plus, et surtout des discriminations au travail et au logement. Combattre tous les racismes, c'est commencer par regarder les chiffres.",
+    "indecis": "Le racisme visant des personnes blanches existe, mais les enquêtes publiques montrent qu'il est moins fréquent et qu'il ne se traduit pas en discriminations. Ce sont surtout les immigrés et leurs enfants qui se voient refuser un emploi ou un logement. On peut refuser toutes les formes de racisme sans les mettre sur le même plan."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "egalite",
+      "dignite"
+    ],
+    "mecanismes": "Mettre sur le même plan une insulte isolée et des discriminations systématiques à l’emploi ou au logement efface les rapports de pouvoir.",
+    "consequences": "Le racisme qui ferme des portes aux immigrés et à leurs enfants passe au second plan.",
+    "democratie": "Refuser tous les racismes suppose de les mesurer honnêtement, pas de les inverser.",
+    "propositions": [
+      "Combattre toutes les injures racistes, quelle que soit la victime.",
+      "Multiplier les tests de discrimination et sanctionner les employeurs et bailleurs qui discriminent."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une part de la population majoritaire déclare avoir subi des propos racistes, et ses discriminations déclarées augmentent.",
+        "integration": "Le reconnaître, en précisant ce que mesurent les enquêtes."
+      }
+    ]
+  },
+  "concepts": [
+    "discrimination",
+    "racisme_blanc"
+  ],
+  "repond_a": [
+    {
+      "id": "racisme_blanc",
+      "label": "Racisme « anti-blanc »"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "testing",
+    "racisme",
+    "nom a consonance",
+    "racisme inverse"
+  ]
+}
