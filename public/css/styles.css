@@ -132,6 +132,29 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 
 .mode-banner { background: var(--sky); border-bottom: var(--line); padding: 8px 0; font-size: var(--step--1); }
 
+/* ---------- jauge de soutien (discrète, en haut à droite, lien vers Tipeee) ---------- */
+.support-strip { padding: 8px 0 0; }
+.support-strip:empty { display: none; }
+.support-strip-inner { display: flex; justify-content: flex-end; }
+.support-meter { display: inline-flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 4px 10px; max-width: 100%; padding: 6px 12px; min-height: 44px; border: 2px solid var(--ink); border-radius: 999px; background: var(--paper); color: var(--ink-2); font-size: .8125rem; line-height: 1.3; text-decoration: none; box-shadow: 2px 2px 0 var(--ink); white-space: nowrap; transition: transform .15s ease, box-shadow .15s ease; }
+.support-meter strong { color: var(--ink); font-weight: 700; font-variant-numeric: tabular-nums; }
+.support-meter-bar { position: relative; display: block; width: 96px; height: 8px; border: 1.5px solid var(--ink); border-radius: 999px; background: var(--cream); overflow: hidden; flex: none; }
+.support-meter-fill { position: absolute; inset: 0 auto 0 0; width: var(--support-pct, 0%); background: var(--orange); border-radius: 999px; transition: width 1.4s cubic-bezier(.22, 1, .36, 1); }
+.support-meter-cta { color: var(--orange-ink); font-weight: 700; white-space: nowrap; }
+.support-meter:focus-visible { outline: 3px solid var(--lilac); outline-offset: 2px; }
+@media (hover: hover) {
+  .support-meter:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0 var(--ink); }
+  .support-meter:hover .support-meter-cta { text-decoration: underline; }
+}
+.support-meter-short { display: none; }
+@media (max-width: 899px) {
+  .support-meter { flex-wrap: nowrap; gap: 8px; padding: 4px 12px; font-size: .78rem; }
+  .support-meter-merci, .support-meter-sep, .support-meter-goal { display: none; }
+  .support-meter-short { display: inline; }
+  .support-meter-bar { width: 52px; }
+}
+@media print { .support-strip { display: none !important; } }
+
 /* ---------- sections ---------- */
 .section { padding: 28px 0; }
 .section--tight { padding: 12px 0; }

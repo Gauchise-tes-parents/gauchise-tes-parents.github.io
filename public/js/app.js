@@ -9,6 +9,7 @@ import { nouvelleConversation, repondreConversation, enregistrerTour, analyserMe
 import { kbMatch, kbFreshness, kbNormalize, kbDataAge } from './kbsearch.js';
 import { analyserPhrase, ficheCompatible, resoudrePhrase } from './analyse.js';
 import { LE_PRINCIPES } from './ligne-editoriale.js';
+import { SOUTIEN, soutienPourcentage, euros } from './soutien.js';
 import { LOGO_SVG } from './logo-data.js';
 import {
   heroScene, mascotSvg, profileSvg, VOLET_ICONS, TAB_ICONS, modeArtGagner, modeArtConvaincre, duoArt,
@@ -110,6 +111,33 @@ function supportCard(variant = 'main', idSuffix = '') {
       <a class="btn btn-primary" href="${TIPEEE_URL}" target="_blank" rel="noopener noreferrer" data-tipeee>${home ? 'Soutenir sur Tipeee' : 'JE SOUTIENS SUR TIPEEE'}<span class="visually-hidden"> (ouvre un nouvel onglet)</span></a>
     </div>
   </section>`;
+}
+
+// Jauge de soutien : discrète, en haut à droite, un simple lien vers Tipeee (aucune requête vers Tipeee).
+function supportMeter() {
+  const el = $('#support-strip');
+  if (!el) return;
+  const pct = soutienPourcentage();
+  el.innerHTML = `<div class="wrap support-strip-inner">
+    <a class="support-meter" href="${TIPEEE_URL}" target="_blank" rel="noopener noreferrer" data-tipeee data-support-meter title="Vous nous soutenez à hauteur de ${euros(SOUTIEN.montant)} par mois sur Tipeee — objectif ${euros(SOUTIEN.objectif)}">
+      <span class="support-meter-text"><span class="support-meter-merci">Merci&nbsp;! Vous nous soutenez à hauteur de</span> <strong data-support-amount>${euros(SOUTIEN.montant)}</strong><span class="support-meter-sep"> / mois · </span><span class="support-meter-goal">objectif ${euros(SOUTIEN.objectif)}</span><span class="support-meter-short" aria-hidden="true"> / ${euros(SOUTIEN.objectif)}</span></span>
+      <span class="support-meter-bar" role="progressbar" aria-label="Soutiens mensuels sur Tipeee" aria-valuemin="0" aria-valuemax="${SOUTIEN.objectif}" aria-valuenow="${SOUTIEN.montant}" aria-valuetext="${euros(SOUTIEN.montant)} par mois sur un objectif de ${euros(SOUTIEN.objectif)}"><span class="support-meter-fill" data-support-fill></span></span>
+      <span class="support-meter-cta">Nous soutenir <span aria-hidden="true">→</span><span class="visually-hidden"> sur Tipeee (ouvre un nouvel onglet)</span></span>
+    </a>
+  </div>`;
+  const fill = $('[data-support-fill]', el);
+  const montant = $('[data-support-amount]', el);
+  if (reduceMotion()) { fill.style.setProperty('--support-pct', `${pct}%`); return; }
+  // petite animation : la jauge se remplit et le montant défile, une seule fois, après l'affichage
+  requestAnimationFrame(() => requestAnimationFrame(() => fill.style.setProperty('--support-pct', `${pct}%`)));
+  const t0 = performance.now(); const duree = 1400;
+  const pas = (t) => {
+    const k = Math.min(1, (t - t0) / duree);
+    const e = 1 - (1 - k) ** 3;
+    montant.textContent = euros(Math.round(SOUTIEN.montant * e));
+    if (k < 1) requestAnimationFrame(pas);
+  };
+  requestAnimationFrame(pas);
 }
 
 function verdictBadge(code, small = false) {
@@ -2524,6 +2552,7 @@ function surveillerVersion() {
 async function init() {
   $('[data-logo]').innerHTML = LOGO_SVG.replace('<svg ', '<svg aria-hidden="true" focusable="false" ');
   $('#footer-support').innerHTML = supportCard('main', '-footer');
+  supportMeter();
   // version affichée : permet de savoir d'un coup d'œil quelle publication tourne (et si l'IA y est branchée)
   const fv = $('#footer-version');
   if (fv) fv.textContent = `Version du site : ${window.GTP_CONFIG?.build || 'développement'} · IA : ${api.iaConfiguree ? 'branchée' : 'non branchée'}`;

@@ -103,12 +103,15 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.close();
   });
 
-  test('liens Tipeee : URL exacte, nouvel onglet, sur l’accueil, le pied de page et « À propos »', async () => {
+  test('liens Tipeee : URL exacte, nouvel onglet, sur l’accueil, la jauge de soutien, le pied de page et « À propos »', async () => {
     const page = await newPage(browser, PHONE, errors);
     await page.goto(`${s.base}/#/`);
     await page.locator('[data-tipeee]').first().waitFor();
     const links = await page.locator('[data-tipeee]').evaluateAll((els) => els.map((a) => [a.getAttribute('href'), a.target, a.rel]));
-    assert.equal(links.length, 2);
+    // accueil + jauge de soutien en haut à droite + pied de page
+    assert.equal(links.length, 3);
+    assert.equal(await page.locator('#support-strip [data-support-meter][data-tipeee]').count(), 1);
+    assert.equal(await page.locator('#support-strip [role="progressbar"]').getAttribute('aria-valuemax'), '1000');
     for (const [href, target, rel] of links) {
       assert.equal(href, 'https://fr.tipeee.com/martyducanda/');
       assert.equal(target, '_blank');

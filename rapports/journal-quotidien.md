@@ -1039,3 +1039,9 @@ Pages non ouvertes, donc non citées :
 - plafond de détention de l'euro numérique (négociations en cours) ;
 - lettre de Mitterrand à Le Pen en 1982 ;
 - citations de Jaurès utilisées par le RN.
+
+## 11 novembre 2026 — jauge de soutien Tipeee (demande du propriétaire)
+
+- Ajout d'une jauge discrète sous l'en-tête, à droite. Sur ordinateur, elle affiche « Merci ! Vous nous soutenez à hauteur de 45 € / mois · objectif 1 000 € », avec une petite barre qui se remplit et le montant qui défile au chargement. Sur mobile, elle affiche « 45 € / 1 000 € ». L'ensemble est un lien « Nous soutenir » vers Tipeee, qui s'ouvre dans un nouvel onglet. L'animation est désactivée si l'utilisateur a demandé à réduire les animations.
+- Les chiffres sont dans `public/js/soutien.js`. Ils sont relevés sur l'API publique de Tipeee (`parameters.tipperAmount` = 45, campagne « par mois » ; `parameters.tipperNumber` = 11) et mis à jour à chaque passage quotidien. Le site ne contacte jamais Tipeee : la politique « zéro site tiers » est inchangée.
+- Tests : nouveau `tests/unit/soutien.test.js`. Le test de bout en bout des liens Tipeee compte désormais trois liens sur l'accueil (accueil, jauge, pied de page) et vérifie la jauge.
