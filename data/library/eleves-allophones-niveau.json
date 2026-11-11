@@ -1,0 +1,205 @@
+{
+  "id": "eleves-allophones-niveau",
+  "type": "idee_recue",
+  "affirmation": "Les élèves étrangers font baisser le niveau des classes.",
+  "volet": "services",
+  "sous_theme": "Inégalités scolaires",
+  "rubriques": [],
+  "mots_cles": [
+    "eleves etrangers",
+    "eleves allophones",
+    "eleves immigres niveau",
+    "immigration niveau scolaire",
+    "baisse du niveau immigration",
+    "enfants de migrants ecole",
+    "pisa immigration",
+    "mixite scolaire"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Les élèves allophones nouvellement arrivés représentent 9 élèves sur 1 000 et la grande majorité reçoit un soutien en français. Selon l'OCDE, l'écart de résultats entre élèves issus de l'immigration et autres s'explique surtout par le milieu social et la langue, et rien ne lie une forte part d'élèves immigrés à de mauvais résultats nationaux. Certaines études trouvent toutefois des résultats plus faibles dans les écoles où les élèves immigrés sont très concentrés : le vrai problème est la ségrégation sociale et scolaire, pas la présence d'enfants étrangers.",
+  "contexte": "Le recul de la France dans les classements PISA est parfois attribué à l'immigration, notamment après la publication des résultats de 2022.",
+  "explication": "Il faut séparer trois questions : combien d'élèves sont concernés, ce qui explique leurs résultats (origine ou milieu social) et ce que produit leur concentration dans certains établissements.",
+  "faits": [
+    {
+      "fait": "En 2023-2024, 88 500 élèves allophones nouvellement arrivés étaient scolarisés, soit 9 élèves pour 1 000 ; neuf sur dix reçoivent un soutien en français et 80 % avaient déjà été scolarisés avant d'arriver.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Les élèves arrivant sans parler français sont très peu nombreux et accompagnés.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "9 pour 1 000"
+    },
+    {
+      "fait": "Dans l'OCDE, l'écart de 29 points en mathématiques entre élèves autochtones et issus de l'immigration se réduit de 15 points à milieu social égal, et tombe à cinq points en tenant compte de la langue parlée en famille.",
+      "periode": "2022",
+      "perimetre": "OCDE",
+      "explication": "L'écart vient surtout du milieu social, pas de l'origine.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "29 points"
+    },
+    {
+      "fait": "En France, le milieu socio-économique explique plus de 60 % de l'écart ; l'OCDE ne trouve rien dans PISA 2022 qui lie une forte part d'élèves immigrés à de mauvais résultats nationaux.",
+      "periode": "2022",
+      "perimetre": "France et OCDE",
+      "explication": "L'immigration n'explique pas le niveau d'un pays.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "60 %"
+    },
+    {
+      "fait": "Selon PISA 2012, l'écart entre élèves issus de l'immigration et autochtones en France restait largement supérieur à la moyenne de l'OCDE, même à milieu social égal ; les stratégies d'évitement augmentent la ségrégation ethnique des collèges d'environ 10 %.",
+      "periode": "2012-2015",
+      "perimetre": "France",
+      "explication": "La France intègre mal scolairement ces élèves et les concentre : c'est un fait défavorable au système, pas aux élèves.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Aux Pays-Bas, une étude ne trouve pas de preuve solide d'un effet négatif des enfants immigrés sur les résultats des enfants natifs de leur classe.",
+      "periode": "2011",
+      "perimetre": "Pays-Bas",
+      "explication": "La présence d'élèves immigrés ne fait pas mécaniquement baisser le niveau des autres.",
+      "source": 3,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Au Danemark, une étude trouve que les élèves des écoles à forte concentration d'immigrés ont des résultats plus faibles en lecture et en mathématiques, avec un effet plus fort pour les natifs.",
+      "periode": "2011",
+      "perimetre": "Danemark",
+      "explication": "La forte concentration peut peser sur les résultats : c'est un fait défavorable, qui plaide pour la mixité plutôt que pour l'exclusion.",
+      "source": 4,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les élèves allophones nouvellement arrivés, c'est 9 élèves sur 1 000. Selon l'OCDE, l'écart de résultats s'explique surtout par le milieu social et la langue, et rien ne lie une forte part d'élèves immigrés au niveau d'un pays. Ce qui pèse, c'est la ségrégation : concentrer les élèves en difficulté dans les mêmes écoles.",
+    "moyen": "Les chiffres d'abord : en 2023-2024, les élèves allophones nouvellement arrivés représentaient 9 élèves sur 1 000, et neuf sur dix recevaient un soutien en français. Dans l'OCDE, l'écart de résultats entre élèves issus de l'immigration et les autres fond une fois pris en compte le milieu social et la langue ; en France, le milieu social en explique plus de 60 %.\n\nIl ne faut pas nier ce que montrent certaines études : au Danemark, les écoles où les élèves immigrés sont très concentrés ont de moins bons résultats. Mais aux Pays-Bas, une autre étude ne trouve pas d'effet négatif net sur les natifs. Ce qui ressort, c'est le poids de la ségrégation. En France, l'évitement scolaire concentre les élèves défavorisés dans certains collèges. La réponse, c'est la mixité et le soutien, pas la désignation d'enfants.",
+    "detaille": "Combien d'élèves sont concernés ? Selon la DEPP, 88 500 élèves allophones nouvellement arrivés étaient scolarisés en 2023-2024, soit 9 pour 1 000. Neuf sur dix bénéficient d'un soutien en français, et 80 % avaient déjà été scolarisés avant leur arrivée. L'expression « élèves étrangers » mélange d'ailleurs ces nouveaux arrivants avec des enfants nés en France de parents immigrés.\n\nQu'est-ce qui explique les résultats ? Selon l'OCDE, dans PISA 2022, l'écart moyen de 29 points en mathématiques se réduit de 15 points à milieu social égal et tombe à cinq points si l'on tient compte de la langue parlée en famille. En France, le milieu socio-économique explique plus de 60 % de l'écart, et l'OCDE ne trouve rien qui relie une forte part d'élèves immigrés à de mauvais résultats nationaux. Le Cnesco relevait toutefois en 2015 que l'écart restait en France plus fort qu'ailleurs, même à milieu social égal : notre école intègre mal.\n\nQue produit la concentration ? Les études divergent. Aux Pays-Bas, pas d'effet négatif net sur les natifs ; au Danemark, des résultats plus faibles dans les écoles très concentrées. En France, l'évitement scolaire renforce la ségrégation ethnique des collèges, et les établissements évités concentrent les élèves les plus défavorisés. Le problème est donc la ségrégation, que des politiques de mixité et des moyens peuvent réduire.",
+    "empathie": "Les parents veulent le meilleur pour leurs enfants et s'inquiètent quand une classe semble en difficulté. Cette inquiétude est légitime ; elle mérite des réponses sur les moyens et la mixité, pas des boucs émissaires."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le niveau de la France baisse depuis que l'immigration augmente.",
+      "reponse": "L'OCDE ne trouve aucun lien entre la part d'élèves immigrés et le niveau d'un pays ; l'écart s'explique surtout par le milieu social et la langue."
+    },
+    {
+      "objection": "Dans ma ville, l'école du quartier a un mauvais niveau.",
+      "reponse": "C'est souvent l'effet de la ségrégation : quand les familles favorisées évitent un collège, il concentre les élèves défavorisés ; la mixité et les moyens sont la réponse."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les élèves arrivant sans parler français représentent 9 élèves sur 1 000 ?",
+    "Qu'est-ce qui aiderait le plus une classe en difficulté : moins d'élèves par classe ou moins d'enfants étrangers ?"
+  ],
+  "limites": [
+    "Les études sur les effets de pairs portent sur les Pays-Bas et le Danemark et datent de 2011 ; aucune étude française comparable n'a été lue.",
+    "Les données du Cnesco reposent sur PISA 2012.",
+    "La page de la DEPP présentant la note n'a pas pu être ouverte ; la note PDF elle-même a été lue. Le rapport du Conseil d'évaluation de l'école sur la ségrégation n'a pas pu être ouvert."
+  ],
+  "sources": [
+    {
+      "titre": "88 500 élèves allophones nouvellement arrivés scolarisés en 2023-2024 : neuf sur dix bénéficient d’un soutien (Note d’Information n° 25.42)",
+      "organisme": "DEPP, ministère de l’Éducation nationale (Laurence Brun)",
+      "date_publication": "juin 2025",
+      "url": "https://www.education.gouv.fr/media/228168/download",
+      "passage": "En 2023-2024, 88 500 élèves allophones nouvellement arrivés étaient scolarisés en école élémentaire, au collège ou au lycée. Au niveau national, ils représentent 9 élèves pour 1 000 élèves scolarisés. Neuf sur dix bénéficient d'un soutien en français langue seconde. 80 % avaient « déjà été scolarisés avant leur arrivée en France ».",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Résultats du PISA 2022 (volume I) : statut d’immigré et performance des élèves",
+      "organisme": "OCDE",
+      "date_publication": "décembre 2023",
+      "url": "https://www.oecd.org/fr/publications/resultats-du-pisa-2022-volume-i_165f1d07-fr/full-report/immigrant-background-and-student-performance_f469d45e",
+      "passage": "En moyenne dans l'OCDE, « les élèves autochtones ont obtenu 29 points de plus que les élèves issus de l'immigration en mathématiques » ; l'écart se réduit de 15 points après contrôle du milieu socio-économique et tombe à cinq points en tenant compte aussi de la langue parlée en famille. En France, le milieu socio-économique explique plus de 60 % de l'écart. L'OCDE ne trouve rien dans PISA 2022 pour étayer l'idée qu'une forte part d'élèves issus de l'immigration soit liée à de mauvais résultats nationaux.",
+      "pertinence": "Organisation internationale de référence.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "École, immigration et mixités sociale et ethnique (dossier de presse)",
+      "organisme": "Cnesco",
+      "date_publication": "janvier 2015",
+      "url": "https://www.cnesco.fr/wp-content/uploads/2015/01/CP_Ecole-et-immigration-2201153.pdf",
+      "passage": "Selon PISA 2012, l'écart entre élèves issus de l'immigration et autochtones en France reste « largement supérieur » à la moyenne de l'OCDE, même à milieu social égal. Selon les travaux de Mathieu Ichou, à origine sociale contrôlée, les enfants d'immigrés du Maghreb et d'Europe du Sud ont des résultats « presque similaires » à ceux des natifs. Les stratégies d'évitement augmentent la ségrégation ethnique dans les collèges d'environ 10 % ; les collèges évités « concentrent les élèves les plus défavorisés ».",
+      "pertinence": "Organisme public d’évaluation du système scolaire ; données anciennes (2012-2015).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "How Immigrant Children Affect the Academic Achievement of Native Dutch Children",
+      "organisme": "A. Ohinata et J.C. van Ours, Université de Tilburg (CentER Discussion Paper n° 2011-136)",
+      "date_publication": "2011",
+      "url": "https://research.tilburguniversity.edu/en/publications/how-immigrant-children-affect-the-academic-achievement-of-native-/",
+      "passage": "« We do not find strong evidence of negative spill-over effects from immigrant children to native Dutch children. » Les enfants immigrés eux-mêmes ont de moins bons résultats en langue quand leur part dans la classe est élevée, sans effet en mathématiques ni en sciences.",
+      "pertinence": "Document de travail universitaire (Pays-Bas) ; données anciennes.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "The effect of immigrant concentration in schools on native and immigrant children's reading and math skills",
+      "organisme": "P. Jensen et A. Würtz Rasmussen, Economics of Education Review, vol. 30, n° 6",
+      "date_publication": "2011",
+      "url": "https://econpapers.repec.org/RePEc:eee:ecoedu:v:30:y:2011:i:6:p:1503-1515",
+      "passage": "À partir des données PISA du Danemark et d'estimations par variables instrumentales : « Overall, children in schools with a high immigrant concentration score lower on reading and math test scores. » L'effet est plus fort pour les enfants natifs et reste important en mathématiques avec les variables instrumentales ; il est moins précis en lecture.",
+      "pertinence": "Article scientifique à comité de lecture (Danemark) ; données anciennes.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Résultats de PISA 2025 et nouvelle note de la DEPP sur les élèves allophones.",
+  "objections_legitimes": [
+    "Une forte concentration d'élèves en difficulté dans une même école peut peser sur les apprentissages.",
+    "En France, l'écart de résultats lié à l'origine migratoire reste plus fort qu'ailleurs, même à milieu social égal."
+  ],
+  "publics": {
+    "convaincus": "Les élèves qui arrivent sans parler français, c'est 9 sur 1 000, et presque tous sont aidés. L'OCDE ne trouve aucun lien entre la part d'élèves immigrés et le niveau d'un pays. Ce qui plombe certaines écoles, c'est qu'on y concentre tous les élèves en difficulté.",
+    "indecis": "Ton inquiétude est compréhensible, et certaines études montrent qu'une forte concentration d'élèves en difficulté pèse sur une école. Mais l'origine compte peu une fois le milieu social pris en compte. La réponse efficace, c'est la mixité et des moyens, pas le tri des enfants."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "antiracisme"
+    ],
+    "mecanismes": "L’origine sert d’explication commode à des difficultés qui viennent surtout du milieu social, de la langue et de la ségrégation entre établissements.",
+    "consequences": "Les enfants concernés sont stigmatisés, et les écoles qui concentrent les difficultés manquent de moyens pendant que les familles favorisées les évitent.",
+    "democratie": "L’école publique doit accueillir tous les enfants présents sur le territoire ; c’est une obligation et une promesse républicaine.",
+    "propositions": [
+      "Renforcer les dispositifs d’apprentissage du français pour les nouveaux arrivants.",
+      "Mener une vraie politique de mixité sociale, en associant les établissements privés sous contrat.",
+      "Réduire les effectifs par classe dans les écoles qui concentrent les difficultés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une étude danoise trouve des résultats plus faibles dans les écoles où les élèves immigrés sont très concentrés, et en France l’écart lié à l’origine reste plus fort qu’ailleurs à milieu social égal.",
+        "integration": "Le reconnaître : c’est un argument pour la mixité et le soutien, car le problème vient de la concentration et de l’école qui intègre mal, pas de la présence des enfants."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "pauvrete",
+    "services_publics"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "pauvrete",
+    "misere",
+    "coutent trop cher",
+    "urgences"
+  ]
+}

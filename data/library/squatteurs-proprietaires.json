@@ -1,0 +1,215 @@
+{
+  "id": "squatteurs-proprietaires",
+  "type": "idee_recue",
+  "affirmation": "Les squatteurs sont mieux protégés que les propriétaires.",
+  "volet": "economie",
+  "sous_theme": "Loyers",
+  "rubriques": [],
+  "mots_cles": [
+    "squat",
+    "squatteurs",
+    "squatteur protege",
+    "loi anti squat",
+    "loi kasbarian",
+    "expulsion squatteurs",
+    "proprietaires squat",
+    "violation de domicile"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Depuis la loi du 27 juillet 2023, le squat d'un logement est puni de trois ans de prison et 45 000 euros d'amende, et le préfet peut faire évacuer sans juge, sans trêve hivernale, après un délai de 24 heures quand il s'agit du domicile du plaignant. Déjà en 2019, les juges ordonnaient l'expulsion de tous les squatteurs dans 93 % des affaires. Des procédures restent parfois longues. Mais la confusion vient souvent des impayés de loyer, qui ne sont pas des squats, et là, les expulsions atteignent un record.",
+  "contexte": "Des affaires médiatisées de propriétaires ne pouvant récupérer leur logement ont nourri l'idée que la loi protège les squatteurs. La loi Kasbarian-Bergé de 2023 a été votée pour y répondre.",
+  "explication": "Il faut distinguer le squat (entrée dans les lieux sans accord du propriétaire) du locataire qui ne paie plus son loyer, puis comparer les procédures et les décisions réelles.",
+  "faits": [
+    {
+      "fait": "La loi du 27 juillet 2023, validée par le Conseil constitutionnel sauf un article, a triplé les peines du squat de domicile : jusqu'à trois ans de prison et 45 000 euros d'amende.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le droit pénal protège fortement les propriétaires.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "45 000 euros"
+    },
+    {
+      "fait": "Selon la circulaire de mai 2024, le préfet dispose de 48 heures pour instruire une demande d'évacuation ; la mise en demeure laisse au moins 24 heures si le local est le domicile du plaignant, 7 jours sinon, et la trêve hivernale ne s'applique pas.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La procédure contre les squatteurs est plus rapide que celle contre un locataire.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "48 heures"
+    },
+    {
+      "fait": "Selon Maire-info, cette procédure administrative ne vise pas les locataires restés dans les lieux après la résiliation de leur bail : un impayé de loyer n'est pas un squat.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Beaucoup d'affaires présentées comme des squats sont des litiges locatifs.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2019, l'expulsion de tous les squatteurs a été ordonnée dans 93 % des près de 1 130 décisions civiles ; en référé sans renvoi, les affaires duraient en moyenne 2,4 mois, mais 12,3 mois au fond avec renvoi.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Les juges donnaient déjà raison aux propriétaires, mais certaines procédures étaient longues : un fait défavorable.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "93 %"
+    },
+    {
+      "fait": "Dans 45 % des affaires de squat jugées en 2019, les occupants étaient des familles, et des mineurs étaient présents dans 28 % des affaires.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Les squatteurs sont souvent des familles sans logement.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "45 %"
+    },
+    {
+      "fait": "Selon la Fondation pour le logement des défavorisés, 24 556 ménages ont été expulsés avec le concours de la force publique en 2024, un record en hausse de 29 % en un an, et les délais de départ accordés par le juge ont été réduits.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La protection des occupants a reculé.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "24 556 ménages"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux depuis 2023 : squatter un domicile expose à trois ans de prison et 45 000 euros d'amende, et le préfet peut faire évacuer sans juge et sans trêve hivernale. Les juges ordonnaient déjà l'expulsion dans 93 % des affaires en 2019. Beaucoup de « squats » médiatisés sont en réalité des impayés de loyer.",
+    "moyen": "La loi du 27 juillet 2023 a triplé les peines : trois ans de prison et 45 000 euros d'amende pour un squat de domicile. Le préfet a 48 heures pour instruire la demande, la mise en demeure peut ne laisser que 24 heures, et la trêve hivernale ne protège pas les squatteurs. Déjà en 2019, les juges ordonnaient l'expulsion de tous les squatteurs dans 93 % des affaires.\n\nCertaines procédures restent longues, c'est vrai : jusqu'à 12,3 mois en moyenne pour les affaires jugées au fond avec renvoi. Mais beaucoup d'histoires de « squat » sont des locataires en impayés, qui relèvent d'une autre procédure. Et là aussi, la protection a reculé : un record de 24 556 ménages expulsés en 2024.",
+    "detaille": "Depuis la loi Kasbarian-Bergé du 27 juillet 2023, validée par le Conseil constitutionnel à l'exception d'un article, squatter un domicile expose à trois ans de prison et 45 000 euros d'amende. La procédure administrative a été étendue à tout local d'habitation, y compris les logements vides. Le préfet dispose de 48 heures pour instruire la demande ; la mise en demeure laisse au moins 24 heures quand il s'agit du domicile du plaignant, 7 jours sinon ; la trêve hivernale ne s'applique pas.\n\nAvant même cette loi, la justice tranchait largement en faveur des propriétaires. En 2019, sur près de 1 130 décisions, l'expulsion de tous les squatteurs était ordonnée dans 93 % des affaires, en 2,4 mois en moyenne en référé. Certaines affaires duraient plus d'un an, ce qui explique une partie de la colère. Dans 45 % des affaires, les squatteurs étaient des familles, avec des mineurs dans 28 % des cas.\n\nLa confusion vient souvent des impayés de loyer : un locataire qui ne paie plus n'est pas un squatteur et relève du juge. La loi de 2023 a aussi durci cette procédure. Selon la Fondation pour le logement des défavorisés, 24 556 ménages ont été expulsés avec la force publique en 2024, un record, et la Fondation cite même un homme expulsé par erreur par un arrêté « squat ». La vraie question est celle du manque de logements accessibles.",
+    "empathie": "Imaginer son logement occupé par des inconnus est angoissant, et les petits propriétaires qui en ont été victimes ont souffert. Leur colère est compréhensible ; elle mérite des informations exactes sur leurs droits."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On voit des propriétaires attendre des mois.",
+      "reponse": "Ce sont souvent des litiges avec des locataires en impayés, qui relèvent du juge ; pour un squat de domicile, le préfet peut agir en quelques jours depuis 2023."
+    },
+    {
+      "objection": "Les squatteurs ont plus de droits avec la trêve hivernale.",
+      "reponse": "Faux : la trêve hivernale ne s'applique pas à la procédure administrative contre les squatteurs."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la trêve hivernale ne protège pas les squatteurs ?",
+    "Connais-tu une affaire de « squat » qui était en fait un conflit avec un locataire ?"
+  ],
+  "limites": [
+    "Aucune statistique nationale officielle récente sur le nombre de squats ou d'évacuations administratives n'a été trouvée.",
+    "Les données judiciaires sur les squats datent de 2019, avant la loi de 2023.",
+    "Le chiffre de 24 556 expulsions en 2024 vient de la Fondation ; une réponse ministérielle de 2026 donne un chiffre différent, possible coquille, non retenu.",
+    "La page Vie publique sur la loi et la lettre de la DAJ de Bercy n'ont pas pu être ouvertes."
+  ],
+  "sources": [
+    {
+      "titre": "Le Conseil constitutionnel valide la loi anti-squat, à l’exception d’un article",
+      "organisme": "Localtis – Banque des Territoires (avec AFP)",
+      "date_publication": "26 juillet 2023",
+      "url": "https://www.banquedesterritoires.fr/le-conseil-constitutionnel-valide-la-loi-anti-squat-lexception-dun-article",
+      "passage": "Décision n° 2023-853 DC : le Conseil censure l'article 7, qui exonérait le propriétaire d'un bien squatté de son obligation d'entretien et de sa responsabilité pour les dommages dus à un défaut d'entretien. Il valide le reste : peines encourues par les squatteurs triplées, jusqu'à trois ans de prison et 45 000 euros d'amende ; extension de la notion de domicile aux logements meublés, y compris les résidences secondaires ; procédures accélérées pour les loyers impayés, avec une clause de résiliation de plein droit dans les baux.",
+      "pertinence": "Média des collectivités sur une décision du Conseil constitutionnel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Évacuation des squatteurs : le gouvernement détaille les nouvelles règles",
+      "organisme": "Maire-info (Association des maires de France)",
+      "date_publication": "mai 2024",
+      "url": "https://www.maire-info.com/logement/evacuation-des-squatteurs-le-gouvernement-detaille-les-nouvelles-regles-article-28624",
+      "passage": "Circulaire du 16 mai 2024 « relative à la procédure administrative d'évacuation forcée en cas de squat ». La procédure vaut pour « tout local à usage d'habitation », y compris logements vides, en succession ou entre deux locations. Plainte et constat sont nécessaires ; le préfet dispose de 48 heures pour instruire la demande ; la mise en demeure laisse au minimum 24 heures si le local est le domicile du plaignant, 7 jours sinon ; la trêve hivernale ne s'applique pas. Le maintien de locataires dont le bail est résilié ne permet pas d'engager cette procédure. Le préfet doit tenir compte de la situation personnelle et familiale de l'occupant.",
+      "pertinence": "Média de l’Association des maires de France résumant une circulaire officielle.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Note flash n° 8 : la loi du 27 juillet 2023 visant à protéger les logements contre l’occupation illicite",
+      "organisme": "Centre de recherche de l’École des officiers de la gendarmerie nationale (CREOGN, J. Moreau)",
+      "date_publication": "septembre 2023",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/crgn/content/download/33825/file/NOTE_flash_CREOGN_loi_anti%20_squat.pdf",
+      "passage": "Violation de domicile (art. 226-4 du code pénal) : jusqu'à 3 ans de prison et 45 000 euros d'amende, « les peines ont donc triplé ». Nouvelle infraction d'occupation frauduleuse (art. 315-1) : 2 ans et 30 000 euros. Le maintien sans droit ni titre dans un logement plus de deux mois après une décision définitive et un commandement de quitter les lieux est puni de 7 500 euros d'amende (art. 315-2). Procédure administrative de l'article 38 de la loi DALO : plainte, constat, saisine du préfet, mise en demeure, puis évacuation.",
+      "pertinence": "Centre de recherche de la gendarmerie nationale ; analyse juridique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Des familles dans plus de quatre affaires de squats sur dix (Infos rapides justice n° 8)",
+      "organisme": "Ministère de la Justice, SDSE (Z. Belmokhtar)",
+      "date_publication": "24 octobre 2023",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2023-10/Infos_rapides_justice_n8_squats.pdf",
+      "passage": "En 2019, près de 1 130 décisions civiles ont porté sur des demandes d'expulsion de squatteurs. L'expulsion a été ordonnée pour tous les squatteurs dans 93 % des affaires. Les affaires jugées en référé sans renvoi (68 %) durent en moyenne 2,4 mois ; celles jugées au fond avec renvoi (7 %), 12,3 mois. Dans 45 % des affaires, les squatteurs sont des familles ; des mineurs sont présents dans 28 % des affaires. Une indemnité d'occupation est accordée dans 76 % des cas où elle est demandée. 47 % des tribunaux sollicités n'ont rendu aucune décision en la matière.",
+      "pertinence": "Service statistique ministériel ; données 2019, antérieures à la loi de 2023.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Le nouveau clou sur le cercueil de la prévention des expulsions. La loi Kasbarian-Bergé : enquête",
+      "organisme": "Fondation pour le logement des défavorisés (ex-Fondation Abbé Pierre)",
+      "date_publication": "octobre 2025",
+      "url": "https://www.fondationpourlelogement.fr/wp-content/uploads/2025/10/enque-te-loi-kasbarian-berge.pdf",
+      "passage": "En 2024, 24 556 ménages ont été expulsés avec le concours de la force publique, un record, en hausse de 29 % en un an. Les délais pour quitter les lieux accordés par le juge sont passés d'une fourchette de 3 mois à 3 ans à 1 mois à 1 an. Enquête auprès de plus de 50 associations : 77 % jugent plus difficile d'obtenir des délais de paiement. Cas à Lyon d'un homme vivant depuis trente ans avec sa compagne titulaire du bail, expulsé par arrêté « squat » après le placement de celle-ci. La Fondation demande l'abrogation de la loi.",
+      "pertinence": "Fondation engagée contre le mal-logement (orientation à signaler) ; enquête déclarative auprès d'associations.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Statistiques d'expulsions locatives et éventuel bilan officiel des évacuations administratives.",
+  "objections_legitimes": [
+    "Certaines procédures judiciaires ont été longues, plus d'un an dans des cas jugés au fond.",
+    "Des propriétaires se plaignent encore de lenteurs et d'un manque de coordination entre administrations."
+  ],
+  "publics": {
+    "convaincus": "Depuis 2023, squatter un domicile, c'est trois ans de prison et 45 000 euros d'amende, et le préfet peut faire évacuer sans juge, même en hiver. En 2019 déjà, les juges ordonnaient l'expulsion dans 93 % des affaires. Les histoires qui durent sont souvent des impayés de loyer, une autre procédure.",
+    "indecis": "Ta crainte est compréhensible, et certaines procédures ont été longues. Mais la loi protège désormais fortement le propriétaire contre le squat. Distingue bien squat et impayé : pour les impayés, les expulsions ont atteint un record, souvent de familles sans solution de relogement."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "Quelques affaires spectaculaires sont généralisées, et le squat est confondu avec les impayés de loyer, pour justifier un durcissement qui frappe surtout les locataires pauvres.",
+    "consequences": "Des familles avec enfants se retrouvent à la rue plus vite, sans solution de relogement, tandis que la pénurie de logements accessibles demeure.",
+    "democratie": "Une loi pénale votée sous le coup de l’émotion doit être évaluée sur des chiffres publics, qui manquent encore pour les évacuations administratives.",
+    "propositions": [
+      "Mobiliser les logements vacants et construire massivement du logement social pour réduire squats et expulsions.",
+      "Rétablir des délais et une vraie prévention des expulsions locatives, avec relogement systématique des ménages vulnérables.",
+      "Publier chaque année un bilan officiel des évacuations de squats et des expulsions."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certaines procédures contre des squatteurs ont duré plus d’un an, et des propriétaires ont réellement souffert de ces lenteurs.",
+        "integration": "Reconnaître la détresse de ces propriétaires et montrer que la loi leur offre désormais une procédure rapide, sans sacrifier les locataires en difficulté."
+      }
+    ]
+  },
+  "concepts": [
+    "logement",
+    "expulsion",
+    "squat"
+  ],
+  "repond_a": [
+    {
+      "id": "squat",
+      "label": "Squats et propriétaires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier",
+    "sdf",
+    "chez eux",
+    "oqtf",
+    "reconduite",
+    "virer",
+    "dehors"
+  ]
+}

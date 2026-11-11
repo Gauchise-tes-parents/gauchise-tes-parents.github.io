@@ -1,0 +1,215 @@
+{
+  "id": "mayotte-immigration-comores",
+  "type": "idee_recue",
+  "affirmation": "Mayotte est submergée par l'immigration comorienne.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et démographie",
+  "rubriques": [],
+  "mots_cles": [
+    "mayotte immigration",
+    "mayotte comoriens",
+    "mayotte submergee",
+    "immigration comorienne",
+    "mayotte etrangers",
+    "kwassa kwassa",
+    "mayotte clandestins",
+    "wuambushu"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La pression migratoire à Mayotte est réelle : selon l'Insee, 48 % des habitants étaient étrangers en 2017, presque tous Comoriens. Mais un tiers de ces étrangers sont nés à Mayotte, la population recensée en 2026 (323 153 habitants) est loin du « demi-million » avancé par certains élus, et des expulsions massives (23 421 en 2025) n'ont pas réglé la question. Mayotte est surtout le département le plus pauvre de France, voisin d'îles encore plus pauvres.",
+  "contexte": "Mayotte, restée française quand les Comores sont devenues indépendantes, connaît des tensions fortes autour de l'immigration, des opérations policières comme Wuambushu et des changements du droit du sol.",
+  "explication": "Il faut séparer l'ampleur de l'immigration, que l'Insee mesure, les chiffres exagérés qui circulent, les causes (écart de richesse, liens familiaux) et l'efficacité des réponses, notamment les expulsions.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, 48 % des habitants de Mayotte étaient de nationalité étrangère en 2017, et 95 % de ces étrangers étaient Comoriens.",
+      "periode": "2017",
+      "perimetre": "Mayotte",
+      "explication": "L'immigration est massive : c'est un fait défavorable à nier.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "48 %"
+    },
+    {
+      "fait": "Un tiers des étrangers vivant à Mayotte y sont nés ; les trois quarts des bébés ont une mère étrangère ; dans le même temps, 25 900 natifs de Mayotte de plus sont partis qu'arrivés entre 2012 et 2017.",
+      "periode": "2012-2017",
+      "perimetre": "Mayotte",
+      "explication": "Une part des « étrangers » sont des enfants nés sur place, et l'île se vide aussi de ses jeunes natifs.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le recensement exhaustif de l'Insee compte 323 153 habitants au 1er janvier 2026, soit 26 % de plus qu'en 2017, alors que des élus avançaient jusqu'à un demi-million d'habitants.",
+      "periode": "2017-2026",
+      "perimetre": "Mayotte",
+      "explication": "La croissance est forte mais les chiffres de « submersion » ont été exagérés.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "323 153 habitants"
+    },
+    {
+      "fait": "En 2018, 77 % de la population de Mayotte vivait sous le seuil de pauvreté national (14 % en métropole) ; ce taux atteint 94 % quand la personne de référence est née à l'étranger et 59 % quand elle est née à Mayotte ou dans un autre DOM.",
+      "periode": "2018",
+      "perimetre": "Mayotte",
+      "explication": "La misère touche presque tout le monde, natifs compris : c'est un problème d'abandon social.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "77 %"
+    },
+    {
+      "fait": "Le Gouvernement indique 23 421 éloignements en 2025 pour 9,8 M€, après 18 763 en 2015 ; l'opération Wuambushu a coûté 8,9 M€. Depuis 2024, les arrivées viennent surtout d'Afrique continentale, et les flux depuis les Comores ont diminué.",
+      "periode": "2015-2025",
+      "perimetre": "Mayotte",
+      "explication": "Les expulsions sont massives et coûteuses, sans régler la question.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "23 421 éloignements"
+    },
+    {
+      "fait": "Le Sénat relevait déjà plus de 27 000 éloignements en 2019 et recommandait d'« approfondir la coopération diplomatique » avec les Comores, en concentrant l'aide au développement sur Anjouan.",
+      "periode": "2019-2021",
+      "perimetre": "Mayotte et Comores",
+      "explication": "Même la droite sénatoriale mise sur le développement des Comores.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, l'immigration à Mayotte est très forte : près d'un habitant sur deux est étranger selon l'Insee, presque tous Comoriens. Mais un tiers d'entre eux sont nés sur l'île, le « demi-million d'habitants » est démenti par le recensement, et plus de 20 000 expulsions en 2019 comme en 2025 n'ont rien réglé. Le vrai mal de Mayotte, c'est la misère : 77 % de pauvres.",
+    "moyen": "Il ne faut pas minimiser : en 2017, 48 % des habitants de Mayotte étaient étrangers, dont 95 % de Comoriens, et les trois quarts des bébés ont une mère étrangère. Mais un tiers de ces étrangers sont nés à Mayotte, et l'île compte 323 153 habitants selon le recensement de 2026, très loin du demi-million évoqué par des élus.\n\nLes expulsions sont déjà massives : 23 421 en 2025 selon le Gouvernement, plus de 27 000 en 2019. Elles n'ont pas changé la situation. Mayotte est le territoire le plus pauvre de France, avec 77 % d'habitants sous le seuil de pauvreté, et ses voisins comoriens le sont davantage. Le Sénat lui-même recommande la coopération et le développement des Comores.",
+    "detaille": "L'Insee décrit une situation hors norme. En 2017, 48 % des habitants de Mayotte étaient de nationalité étrangère, presque tous Comoriens. Les trois quarts des bébés ont une mère étrangère. Dans le même temps, l'île perd ses jeunes natifs : entre 2012 et 2017, 25 900 natifs de plus sont partis qu'arrivés, surtout vers la métropole. Il faut aussi savoir qu'un tiers des « étrangers » sont nés à Mayotte.\n\nLes chiffres exagérés n'aident pas. Le recensement exhaustif de 2026 compte 323 153 habitants, en hausse de 26 % depuis 2017, mais loin du demi-million avancé par certains élus. Et la pauvreté est générale : 77 % des habitants vivaient sous le seuil national en 2018, 94 % dans les ménages nés à l'étranger, 59 % chez les natifs de Mayotte ou d'un autre DOM. Le niveau de vie médian y est six fois plus faible qu'en métropole. Les Mahorais vivent dans un département abandonné, pas seulement « envahi ».\n\nLa réponse policière a montré ses limites. Plus de 27 000 éloignements en 2019, 23 421 en 2025 pour 9,8 M€, l'opération Wuambushu à 8,9 M€ : les traversées continuent, et depuis 2024 les arrivées viennent surtout d'Afrique continentale. Le Sénat recommandait déjà de coopérer avec les Comores et d'y concentrer l'aide au développement. Égalité des droits sociaux pour les Mahorais, services publics dignes et développement de la région : c'est là que se joue l'avenir de l'île.",
+    "empathie": "Les Mahorais vivent une situation très difficile : écoles saturées, insécurité, sentiment d'abandon par Paris. Leur colère est légitime, et elle mérite mieux que des slogans."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il suffit d'expulser davantage.",
+      "reponse": "Mayotte a expulsé plus de 27 000 personnes en 2019 et 23 421 en 2025, sans que la situation change ; les arrivées se déplacent et se diversifient."
+    },
+    {
+      "objection": "Ce sont les étrangers qui rendent Mayotte pauvre.",
+      "reponse": "La pauvreté touche aussi une majorité de natifs de Mayotte (59 %), dans un département longtemps privé de l'égalité des droits sociaux."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'un tiers des étrangers de Mayotte y sont nés ?",
+    "Avec plus de 20 000 expulsions en 2019 comme en 2025, pourquoi la situation n'a-t-elle pas changé, selon toi ?"
+  ],
+  "limites": [
+    "La part des étrangers date du recensement de 2017 ; la répartition par nationalité du recensement de 2026 n'a pas été lue.",
+    "Les chiffres de pauvreté datent de 2018, avant le cyclone Chido (décembre 2024).",
+    "Le nombre d'étrangers en situation irrégulière n'est donné par aucune source lue.",
+    "La question du droit du sol est traitée dans une autre fiche."
+  ],
+  "sources": [
+    {
+      "titre": "À Mayotte, près d'un habitant sur deux est de nationalité étrangère (Insee Première n° 1737)",
+      "organisme": "Insee",
+      "date_publication": "7 février 2019",
+      "url": "https://insee.fr/fr/statistiques/3713016",
+      "passage": "« 48 % de la population est de nationalité étrangère en 2017 » (123 000 personnes) ; « 95 % des étrangers sont Comoriens ». « Parmi les habitants de nationalité étrangère, un tiers sont nés à Mayotte » (16 % de la population). « Les trois quarts des bébés nés à Mayotte ont une mère de nationalité étrangère, principalement comorienne. » Le solde migratoire des natifs de Mayotte est « très déficitaire » : -25 900 personnes entre 2012 et 2017, beaucoup de jeunes partant étudier ou travailler, surtout en métropole.",
+      "pertinence": "Statistique publique de référence ; données du recensement de 2017.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Revenus et pauvreté à Mayotte en 2018 : les inégalités de niveau de vie se sont creusées (Insee Analyses Mayotte n° 25)",
+      "organisme": "Insee",
+      "date_publication": "1er juillet 2020",
+      "url": "https://www.insee.fr/fr/statistiques/4622454",
+      "passage": "« En 2018, 77 % de la population de Mayotte vit sous le seuil de pauvreté national », contre 14 % en métropole. « Le niveau de vie médian des habitants de Mayotte est six fois plus faible que celui de métropole » (260 € par mois et par unité de consommation). Le taux de pauvreté atteint 94 % quand la personne de référence du ménage est née à l'étranger et 59 % quand elle est née à Mayotte ou dans un autre DOM.",
+      "pertinence": "Statistique publique ; enquête Budget de famille 2017-2018.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "À Mayotte, le « recensement exhaustif » conforte l'Insee face aux polémiques",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "7 juillet 2026",
+      "url": "https://www.banquedesterritoires.fr/mayotte-le-recensement-exhaustif-conforte-linsee-face-aux-polemiques",
+      "passage": "Le recensement exhaustif dénombre « 323.153 habitants au 1er janvier 2026 », soit 26 % de plus qu'en 2017, un peu moins que l'estimation de l'Insee (329 000 au 1er janvier 2025, « dont environ la moitié de nationalité étrangère »). Des élus mahorais affirmaient que l'archipel comptait « jusqu'au demi-million habitants ».",
+      "pertinence": "Média des collectivités locales (Caisse des dépôts) rendant compte d'une publication de l'Insee.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question orale n° 0950S de M. Saïd Omar Oili sur le coût des reconduites à la frontière à Mayotte, et réponse du Gouvernement",
+      "organisme": "Sénat (réponse de la ministre déléguée chargée de la citoyenneté)",
+      "date_publication": "réponse du 30 avril 2026, publiée le 1er mai 2026",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ26020950S.html",
+      "passage": "La ministre indique que « le coût de cette politique s'est élevé à 2,9 millions d'euros en 2015, pour un nombre total de 18 763 éloignements » et qu'« en 2025, ce coût est passé à 9,8 millions d'euros, pour un nombre total de 23 421 éloignements ». L'opération Wuambushu (avril 2023) a coûté 8,9 millions d'euros. Depuis début 2024, les arrivées irrégulières viennent surtout de RDC, du Burundi, du Rwanda et de Somalie, tandis que les flux depuis les Comores ont diminué.",
+      "pertinence": "Réponse ministérielle officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Insécurité à Mayotte : conjurer le sentiment d'abandon des Mahorais (rapport d'information n° 114)",
+      "organisme": "Sénat, commission des lois",
+      "date_publication": "27 octobre 2021",
+      "url": "https://www.senat.fr/rap/r21-114/r21-1146.html",
+      "passage": "Plus de 27 000 éloignements ont été réalisés en 2019. Les traversées partent d'Anjouan. La France finance à hauteur d'un million d'euros par an le « rideau d'interception » des garde-côtes comoriens ; le plan de développement France-Comores est doté de 150 M€ sur trois ans. Proposition n° 14 : « Approfondir la coopération diplomatique avec l'Union des Comores pour limiter les migrations irrégulières vers Mayotte » ; le rapport écarte la conditionnalité de l'aide au développement.",
+      "pertinence": "Rapport parlementaire officiel ; données de 2019-2021.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Résultats détaillés du recensement exhaustif de 2026 (nationalités).",
+  "objections_legitimes": [
+    "L'immigration irrégulière à Mayotte est d'une ampleur sans équivalent en France.",
+    "Les services publics de l'île (écoles, hôpital, eau) sont saturés."
+  ],
+  "publics": {
+    "convaincus": "Personne ne nie que l'immigration est massive à Mayotte : l'Insee le dit. Mais on y a expulsé 23 421 personnes en 2025, et rien ne change. Et le demi-million d'habitants qu'on entend partout est démenti par le recensement : 323 153.",
+    "indecis": "La situation de Mayotte est réellement difficile, et les Mahorais ont raison de se sentir abandonnés. Mais la misère touche presque toute l'île, natifs compris. Les solutions durables passent par l'égalité sociale et le développement des Comores, ce que recommande même le Sénat."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "solidarite",
+      "internationalisme"
+    ],
+    "mecanismes": "Un département laissé dans la misère, voisin d’îles plus pauvres encore et liées par l’histoire et les familles, attire des migrants. La pénurie de services publics nourrit ensuite la rivalité entre pauvres.",
+    "consequences": "Les Mahorais vivent avec des écoles saturées, un accès à l’eau défaillant et un sentiment d’abandon ; les migrants, avec la peur des contrôles et des expulsions répétées.",
+    "democratie": "L’égalité républicaine ne peut pas s’arrêter à la mer : un département où les droits sociaux restent inférieurs à ceux de la métropole est une promesse non tenue.",
+    "propositions": [
+      "Aligner pleinement les droits sociaux et les moyens des services publics de Mayotte sur ceux de la métropole.",
+      "Concentrer la coopération et l’aide au développement sur les Comores, en particulier Anjouan, sans la conditionner à la répression.",
+      "Lutter contre les passeurs et sécuriser les traversées pour éviter les morts en mer."
+    ],
+    "defavorables": [
+      {
+        "fait": "Près de la moitié des habitants de Mayotte étaient de nationalité étrangère selon l’Insee, presque tous Comoriens.",
+        "integration": "Ne pas nier l’ampleur du phénomène, mais montrer que des années d’expulsions massives ne l’ont pas réglé et que la misère touche aussi les natifs."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "identite",
+    "demographie",
+    "mayotte"
+  ],
+  "repond_a": [
+    {
+      "id": "mayotte",
+      "label": "Mayotte et l’immigration"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation",
+    "racines",
+    "grand remplacement"
+  ]
+}

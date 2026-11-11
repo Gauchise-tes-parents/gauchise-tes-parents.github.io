@@ -1,0 +1,198 @@
+{
+  "id": "penurie-medicaments-europe",
+  "type": "idee_recue",
+  "affirmation": "Les pénuries de médicaments sont la faute de l'Europe.",
+  "volet": "services",
+  "sous_theme": "Accès aux soins",
+  "rubriques": [],
+  "mots_cles": [
+    "penurie de medicaments",
+    "rupture de stock medicaments",
+    "penuries pharmacie",
+    "amoxicilline",
+    "medicaments fabriques en chine",
+    "faute de l europe",
+    "relocalisation medicaments",
+    "critical medicines act"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les pénuries sont réelles : environ 800 présentations étaient en rupture à l'hiver 2022-2023, encore 400 fin 2024. Mais le Sénat en désigne d'autres causes : des prix trop bas pour les médicaments anciens, fixés en France, et une production de principes actifs concentrée chez quelques fournisseurs asiatiques. L'Union européenne n'a pas su prévenir cette dépendance, mais elle est aujourd'hui l'un des leviers de réponse, avec un règlement sur les médicaments critiques en cours d'adoption.",
+  "contexte": "Les ruptures d'amoxicilline ou de paracétamol de l'hiver 2022-2023 ont marqué les familles. Une partie de la classe politique en rend responsable « Bruxelles ».",
+  "explication": "Il faut distinguer qui fixe les prix des médicaments (l'État en France), où ils sont fabriqués (marché mondial concentré) et ce que fait ou ne fait pas l'Union européenne.",
+  "faits": [
+    {
+      "fait": "Selon la DREES, environ 800 présentations de médicaments étaient simultanément en rupture à l'hiver 2022-2023, et encore environ 400 au 31 décembre 2024 ; au pic, environ 8 millions de boîtes de médicaments essentiels manquaient chaque mois en pharmacie.",
+      "periode": "2022-2024",
+      "perimetre": "France",
+      "explication": "Les pénuries sont réelles et touchent les patients.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "800 présentations"
+    },
+    {
+      "fait": "Le Sénat relève que jusqu'à 70 % des déclarations de rupture concernent des médicaments autorisés depuis plus de dix ans, et que la politique de prix a favorisé les traitements innovants au détriment des médicaments anciens.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Une cause majeure tient aux prix bas des vieux médicaments, fixés par les autorités nationales.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "70 %"
+    },
+    {
+      "fait": "Selon la commission d'enquête du Sénat, la plupart des principes actifs sont produits hors d'Europe, surtout en Asie, auprès de quelques fournisseurs.",
+      "periode": "2023",
+      "perimetre": "Monde",
+      "explication": "La concentration de la production rend les chaînes fragiles.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Conseil de l'UE, une étude de la Commission de 2021 montre qu'environ 80 % des ingrédients importés par l'UE viennent de cinq pays, dont 45 % de la seule Chine.",
+      "periode": "2021",
+      "perimetre": "Union européenne",
+      "explication": "La dépendance touche toute l'Europe : l'Union ne l'a pas empêchée, c'est un fait défavorable à la défense de l'UE.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "45 %"
+    },
+    {
+      "fait": "La Commission a proposé en mars 2025 un règlement sur les médicaments critiques (projets stratégiques, achats conjoints, marchés publics favorisant la résilience).",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "L'Union est aussi un outil de réponse.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Un accord provisoire entre le Conseil et le Parlement européen a été trouvé le 12 mai 2026 : les achats publics devront privilégier la résilience sur le prix ; le texte doit encore être adopté formellement.",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "La réponse européenne est tardive et pas encore en vigueur.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur. Les pénuries sont réelles, mais le Sénat les explique surtout par des prix trop bas pour les vieux médicaments et par une production concentrée en Asie. L'Europe n'a pas empêché cette dépendance, mais elle prépare un règlement pour y répondre.",
+    "moyen": "Les pénuries sont bien là : environ 800 présentations en rupture à l'hiver 2022-2023, encore 400 fin 2024, selon la DREES. Mais leurs causes ne sont pas à Bruxelles. Le Sénat relève que jusqu'à 70 % des ruptures concernent des médicaments anciens, devenus peu rentables à cause de prix tirés vers le bas, et que la plupart des principes actifs sont fabriqués en Asie par quelques fournisseurs.\n\nL'Union européenne a sa part de responsabilité : elle a laissé s'installer une dépendance qui touche tous ses membres, avec 45 % des ingrédients importés venant de Chine. Mais c'est aussi à cette échelle qu'une réponse se construit : un accord a été trouvé en mai 2026 pour que les achats publics privilégient la résilience sur le prix.",
+    "detaille": "Les chiffres de la DREES confirment l'ampleur du problème : au pic de l'hiver 2022-2023, environ 800 présentations étaient en rupture en même temps, et environ 8 millions de boîtes de médicaments essentiels manquaient chaque mois en pharmacie. Fin 2024, il en restait environ 400.\n\nLa commission d'enquête du Sénat, présidée par une centriste et rapportée par une communiste, a identifié les causes. Jusqu'à 70 % des déclarations concernent des médicaments autorisés depuis plus de dix ans. La politique de prix a favorisé les traitements innovants, rendant les vieux médicaments peu rentables. La production des principes actifs s'est concentrée hors d'Europe, surtout en Asie, chez quelques fournisseurs. C'est la logique du marché et du moindre coût, pas une directive européenne.\n\nL'Union européenne n'est pas innocente : selon le Conseil, 80 % des ingrédients importés viennent de cinq pays, dont 45 % de Chine, et elle a laissé faire. Mais elle est aussi l'échelle d'action pertinente. La Commission a proposé en mars 2025 un règlement sur les médicaments critiques, et un accord provisoire a été trouvé en mai 2026 pour que les achats publics privilégient la résilience sur le prix. Le texte n'est pas encore adopté formellement.",
+    "empathie": "Repartir de la pharmacie sans le sirop de son enfant, c'est angoissant et révoltant. Chercher un responsable est normal ; encore faut-il viser juste pour que cela change."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Sans l'Europe, on fabriquerait nos médicaments.",
+      "reponse": "La délocalisation vient de la recherche du moindre coût par les industriels et de prix bas fixés au niveau national ; elle touche aussi des pays hors UE."
+    },
+    {
+      "objection": "L'Europe ne fait rien.",
+      "reponse": "Elle a tardé, mais un règlement sur les médicaments critiques a fait l'objet d'un accord en mai 2026 ; le Sénat lui-même plaide pour une action européenne."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la plupart des médicaments en rupture sont de vieux médicaments très peu chers ?",
+    "Qui devrait fixer le prix d'un médicament essentiel : le marché ou la puissance publique ?"
+  ],
+  "limites": [
+    "Les chiffres de l'ANSM sur les déclarations annuelles de ruptures et de risques de rupture n'ont été lus qu'à travers la DREES ; les rapports annuels de l'ANSM n'ont pas été ouverts.",
+    "Le rapport de la Cour des comptes sur les pénuries n'a pas été lu.",
+    "La date d'adoption formelle du règlement européen n'est pas connue à la date de la fiche."
+  ],
+  "sources": [
+    {
+      "titre": "Tensions et ruptures de stock de médicaments déclarées par les industriels : quelle ampleur, quelles conséquences sur les ventes aux officines ? (Études et Résultats n° 1335)",
+      "organisme": "DREES (G. Baudet, C. Dherbécourt), avec l’ANSM",
+      "date_publication": "27 mars 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/250327_ER_ruptures-de-stock-medicaments-declarees-par-les-industriels-ampleur-et-consequences",
+      "passage": "« Un pic de criticité a été atteint à l'hiver 2022-2023 », avec environ 800 présentations simultanément en rupture. « Au 31 décembre 2024, on comptait environ 400 présentations en rupture stock. » Au pic, environ 8 millions de boîtes de médicaments d'intérêt thérapeutique majeur manquaient chaque mois aux ventes en pharmacie. Les médicaments cardiovasculaires représentent environ 30 % des déclarations, le système nerveux 20 %, les antibiotiques 14 %.",
+      "pertinence": "Statistique publique (ministère de la Santé) à partir des déclarations à l’ANSM.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Pénurie de médicaments : trouver d'urgence le bon remède (L'essentiel du rapport de la commission d'enquête)",
+      "organisme": "Sénat (présidente Sonia de La Provôté, rapporteure Laurence Cohen)",
+      "date_publication": "4 juillet 2023",
+      "url": "https://www.senat.fr/rap/r22-828-1/r22-828-1-syn.pdf",
+      "passage": "Les ruptures ont atteint « des niveaux inédits en 2022 », avec une hausse de « plus de 50 % du nombre des ruptures entre 2020 et 2022 ». Jusqu'à 70 % des déclarations concernent des produits autorisés depuis plus de dix ans. La politique de prix a favorisé l'« explosion du prix en faveur des traitements innovants » au détriment des médicaments anciens. « La plupart des principes actifs sont produits hors d'Europe, surtout en Asie », auprès de « quelques fournisseurs asiatiques ». Le rapport décrit le renforcement du rôle de l'EMA, les achats communs de l'HERA et la piste d'un Critical Medicines Act ; il formule 36 recommandations, dont un secrétariat général au médicament.",
+      "pertinence": "Rapport parlementaire transpartisan (rapporteure communiste, présidente centriste).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Critical Medicines Act",
+      "organisme": "Conseil de l'Union européenne",
+      "date_publication": "page revue le 12 mai 2026",
+      "url": "https://www.consilium.europa.eu/en/policies/critical-medicines-act/",
+      "passage": "L'UE dépend des importations de principes actifs : selon une étude de la Commission de 2021, environ 80 % des ingrédients importés viennent de cinq pays, dont 45 % de la seule Chine. La pénurie d'amoxicilline signalée par l'EMA en janvier 2023 a montré cette vulnérabilité. Position du Conseil le 2 décembre 2025, accord provisoire avec le Parlement le 12 mai. Les achats publics de médicaments critiques devront donner la priorité aux critères de résilience sur le prix ; le seuil pour un achat conjoint passe de neuf à six États. Le texte doit encore être adopté formellement.",
+      "pertinence": "Institution de l'UE ; présente sa propre politique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Critical Medicines Act",
+      "organisme": "Commission européenne (DG Santé)",
+      "date_publication": "proposition de mars 2025",
+      "url": "https://health.ec.europa.eu/medicinal-products/critical-medicines-act_en",
+      "passage": "La Commission a proposé en mars 2025 un règlement pour « improve the availability, supply and production of critical medicines within the EU » : projets stratégiques bénéficiant d'un accès facilité au financement et de procédures accélérées, marchés publics pour inciter à la résilience des chaînes d'approvisionnement, achats conjoints, partenariats internationaux pour « reduce dependencies on single suppliers ».",
+      "pertinence": "Institution de l'UE ; présente sa propre proposition.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Adoption formelle du règlement européen sur les médicaments critiques et nouvelles données de ruptures.",
+  "objections_legitimes": [
+    "L'Union européenne a laissé se creuser la dépendance aux fournisseurs asiatiques.",
+    "La réponse européenne arrive tard et n'est pas encore en vigueur."
+  ],
+  "publics": {
+    "convaincus": "Les pénuries sont réelles, tu as raison d'être en colère. Mais le Sénat, avec des élus de droite et de gauche, montre que jusqu'à 70 % des ruptures touchent de vieux médicaments trop peu payés, fabriqués en Asie par quelques fournisseurs. Ce ne sont pas les directives de Bruxelles qui ont délocalisé les usines, c'est la course au moindre coût.",
+    "indecis": "L'Europe a sa part : elle a laissé la dépendance à la Chine s'installer. Mais les causes premières sont le prix trop bas des vieux médicaments et la concentration de la production. Et c'est à l'échelle européenne qu'un règlement se prépare pour relocaliser et sécuriser les stocks."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "vulnerables",
+      "internationalisme"
+    ],
+    "mecanismes": "Les médicaments anciens et bon marché rapportent peu : les industriels concentrent leur production chez quelques fournisseurs lointains au moindre coût, et la moindre défaillance se transforme en pénurie.",
+    "consequences": "Ce sont les malades chroniques, les enfants et les patients modestes qui subissent les ruptures, les substitutions et les allers-retours en pharmacie.",
+    "democratie": "Désigner Bruxelles comme coupable évite de débattre des choix de prix nationaux et du pouvoir des laboratoires sur un bien de première nécessité.",
+    "propositions": [
+      "Créer un pôle public du médicament capable de produire les médicaments essentiels.",
+      "Conditionner les aides publiques aux laboratoires à la sécurité d’approvisionnement et à la production en Europe.",
+      "Mener à l’échelle européenne des achats communs et des stocks stratégiques fondés sur la résilience plutôt que sur le prix le plus bas."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’Union européenne a laissé s’installer une forte dépendance à la Chine pour les principes actifs, et sa réponse n’est pas encore adoptée formellement.",
+        "integration": "Reconnaître ce retard, tout en montrant que la sortie de la dépendance passe par une politique industrielle européenne et publique, pas par le repli."
+      }
+    ]
+  },
+  "concepts": [
+    "penurie",
+    "europe",
+    "pacte_ue_asile",
+    "medicaments"
+  ],
+  "repond_a": [
+    {
+      "id": "medicaments",
+      "label": "Pénuries de médicaments"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "plus d offres d emploi que",
+    "trouvent personne",
+    "trouve personne",
+    "trouvent pas de candidats",
+    "bruxelles",
+    "union europeenne",
+    "pacte asile"
+  ]
+}

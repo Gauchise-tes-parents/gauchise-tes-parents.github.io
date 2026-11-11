@@ -750,3 +750,134 @@ Pages non ouvertes, donc non citées :
 - part des allègements de cotisations non compensés par l'État ;
 - état de l'enquête sur Notre-Dame après novembre 2024 ;
 - effets de la réforme de l'assurance chômage de 2023 sur l'emploi.
+
+
+## 11 novembre 2026 — passage de 12 h 17 (UTC)
+
+**Questions testées : 37 candidates, 25 retenues.** Les phrases ont été choisies parmi les thèmes documentés par les vérificateurs de presse, les rapports publics et les débats récents. Elles sont reformulées de façon générale. `node scripts/verifier-couverture.mjs` a donné, sur les 33 premières :
+- 9 « LACUNE » ;
+- 24 « COUVERTE ».
+
+Questions écartées parce qu'une fiche y répondait déjà vraiment :
+- la majorité des viols commis par des étrangers (`delinquance-principalement-immigration`) ;
+- les journalistes tous de gauche (`medias-concentration`) ;
+- les Juifs qui quittent la France (`antisemitisme-aujourdhui`) ;
+- le coût de l'immigration et les étrangers au RSA (`immigres-aides`) ;
+- les OQTF jamais exécutées (`expulser-tous-etrangers-condamnes`) ;
+- « LFI soutient le Hamas », traitée dans `lfi-antisemite` : quasi-doublon ;
+- le RN, parti du pouvoir d'achat : trop vague pour une fiche (la question des votes du RN sur les salaires est traitée dans `rn-salaires-votes`) ;
+- le compteur Linky (lacune, mais hors du champ politique visé).
+
+Une question de réserve a été testée en plus (« le bac est donné à tout le monde », lacune). Trois autres candidates de réserve n'ont pas servi : fraude électorale par procuration (couverte par `etrangers-irreguliers-votent`), armée française, Roms.
+
+Les 16 questions retenues parmi les « COUVERTE » menaient à une fiche hors sujet : par exemple les Frères musulmans vers `musulmans-amalgames`, Mayotte vers `grand-remplacement`, les eurodéputés RN et la Russie vers `souverainete-populaire`, les vaccins des enfants vers `vaccins-arn-mortalite`, les pénuries de médicaments vers `chomage-penurie-recrutement`.
+
+Questions retenues :
+1. Les migrants ramènent des maladies comme la tuberculose et la gale.
+2. Mayotte est submergée par l'immigration comorienne.
+3. Il faut envoyer les demandeurs d'asile au Rwanda comme le Royaume-Uni.
+4. Trump a réglé le problème de l'immigration en expulsant massivement.
+5. L'Afrique va déverser sa démographie sur l'Europe.
+6. Les Frères musulmans infiltrent la France.
+7. Les sportives voilées n'ont rien à faire en compétition.
+8. La CAF verse des allocations aux familles polygames.
+9. Les élèves étrangers font baisser le niveau des classes.
+10. Le bac est donné à tout le monde aujourd'hui.
+11. Les 10 % les plus riches paient déjà presque tout l'impôt sur le revenu.
+12. Supprimer les agences de l'État permettrait d'économiser des milliards.
+13. Les intermittents du spectacle sont des assistés payés par nos impôts.
+14. Le RN veut remplacer l'IFI par un impôt sur la fortune financière.
+15. La retraite à 60 ans promise par LFI est impossible à financer.
+16. C'est l'OTAN qui a provoqué la guerre en Ukraine.
+17. La Russie de Poutine défend les valeurs chrétiennes de l'Europe.
+18. Les eurodéputés RN ne travaillent pas au Parlement européen.
+19. Les jeunes préfèrent un régime autoritaire à la démocratie.
+20. Le wokisme a pris le contrôle des universités.
+21. Les onze vaccins obligatoires des enfants sont dangereux.
+22. Les pénuries de médicaments sont la faute de l'Europe.
+23. Les Chinois rachètent nos terres agricoles.
+24. Les inondations sont la faute des écologistes qui interdisent de curer les rivières.
+25. Les squatteurs sont mieux protégés que les propriétaires.
+
+**Fiches créées : 25**, par le générateur `scripts/fiches/quotidien_20261111_1217.py`. Toutes ont un champ `publics` et une « lecture de gauche ». Chacune repose sur quatre à sept sources ouvertes et lues le 11 novembre 2026 :
+
+| Fiche | Verdict | Sources principales |
+|---|---|---|
+| `migrants-maladies-contagieuses` | trompeur | Santé publique France (2026) ; Santé publique France (2020) ; OMS (2019) ; TB Online (2018) ; Santé publique France (2012) ; Pourquoi Docteur (2017) |
+| `mayotte-immigration-comores` | plutôt exact | Insee (2019) ; Insee (2020) ; Banque des Territoires (2026) ; Sénat (2026) ; Sénat (2021) |
+| `asile-externalisation-rwanda` | trompeur | National Audit Office (2024) ; 11KBW (2023) ; ITV News (2024) ; Migration Observatory (2024) ; AFP (2025) ; Dawn (2026) |
+| `trump-expulsions-immigration` | trompeur | Migration Policy Institute (2025) ; Associated Press (2026) ; PolitiFact (2026) ; Pew Research Center (2025) ; CBS News (2026) |
+| `afrique-demographie-migrations` | contredit | INED (2024) ; INED (2018) ; La Vie des idées (2018) ; The Star (2024) ; Union africaine (2025) |
+| `freres-musulmans-entrisme` | trompeur | Rapport remis au gouvernement (2025) ; Public Sénat (2025) ; AFP (2025) ; Politis (2025) |
+| `voile-sport-competition` | opinion | Conseil d'État (2023) ; Amnesty International (2023) ; Public Sénat (2025) ; Public Sénat (2025) ; Sénat (2026) ; Human Rights Watch (2024) |
+| `polygamie-allocations-caf` | trompeur | Assemblée nationale (2010) ; Assemblée nationale (2005) ; Caisse nationale des allocations familiales (1997) ; Sénat (2024) ; Commission nationale consultative des droits de l’homme (2024) ; Assemblée nationale (2014) |
+| `eleves-allophones-niveau` | trompeur | DEPP (2025) ; OCDE (2023) ; Cnesco (2015) ; A. Ohinata et J.C. van Ours (2011) ; P. Jensen et A. Würtz Rasmussen (2011) |
+| `bac-donne-a-tous` | trompeur | DEPP (2026) ; DEPP (2026) ; DEPP (2025) ; Onisep (2025) ; AFP (2021) ; DEPP (2025) |
+| `riches-paient-impot-revenu` | trompeur | Le Journal de l'Économie (2025) ; Observatoire des inégalités (2025) ; Institut des politiques publiques (2023) ; Insee (2023) |
+| `agences-etat-suppression` | trompeur | Sénat (2025) ; Sénat (2025) ; Public Sénat (2025) ; FIPECO (2025) ; Banque des Territoires (2025) |
+| `intermittents-spectacle-assistes` | trompeur | Unédic (2026) ; Unédic (2026) ; Unédic (2022) ; France Travail (2025) ; Ministère de la Culture (2025) |
+| `rn-impot-fortune-financiere` | confirmé | Institut Montaigne (2022) ; Politis (2024) ; Public Sénat (2025) ; LCP (2025) ; LCP (2025) ; Mayer Brown (2026) |
+| `lfi-retraite-60-ans` | trompeur | Programme du Nouveau Front populaire (2024) ; LCP (2024) ; Institut Montaigne (2024) ; FIPECO (2024) ; Conseil d'orientation des retraites (2026) |
+| `otan-provoque-guerre-ukraine` | trompeur | OTAN (2008) ; Brookings Institution (2022) ; Al Jazeera (2022) ; Le Grand Continent (2022) ; Sciences Po (2022) ; Service européen pour l'action extérieure (2022) ; Le Rubicon (2023) |
+| `russie-valeurs-chretiennes` | trompeur | Pew Research Center (2017) ; Associated Press (2022) ; Aleteia (2022) ; Novaya Gazeta Europe (2022) ; FIDH (2024) |
+| `rn-eurodeputes-travail` | plutôt exact | Le Parisien (2025) ; France 24 (2024) ; Institut Jacques Delors (2025) ; Public Sénat (2024) ; EU Matrix (2024) |
+| `jeunes-democratie-autoritarisme` | trompeur | Ipsos bva (2025) ; Institut Montaigne (2022) ; Public Sénat (2026) ; Fondation Jean-Jaurès (2023) ; Cevipof (2025) |
+| `wokisme-universite` | trompeur | Sénat (2026) ; Public Sénat (2021) ; Public Sénat (2019) ; Observatoire du décolonialisme (2021) |
+| `vaccins-obligatoires-enfants` | contredit | Santé publique France (2019) ; ANSM (2021) ; ANSM (2019) ; Santé publique France (2025) ; Santé publique France (2025) |
+| `penurie-medicaments-europe` | trompeur | DREES (2025) ; Sénat (2023) ; Conseil de l'Union européenne (2026) ; Commission européenne (2025) |
+| `terres-agricoles-chinois` | trompeur | Assemblée nationale (2016) ; Réussir (2019) ; Localtis – Banque des Territoires (2023) ; Assemblée nationale (2025) ; Assemblée nationale (2025) |
+| `inondations-curage-ecologistes` | contredit | IGEDD et CGAAER (2024) ; Localtis – Banque des Territoires (2024) ; Assemblée nationale (2024) ; Météo-France (2025) |
+| `squatteurs-proprietaires` | contredit | Localtis – Banque des Territoires (2023) ; Maire-info (2024) ; Centre de recherche de l’École des officiers de la gendarmer (2023) ; Ministère de la Justice (2023) ; Fondation pour le logement des défavorisés (2025) |
+
+**Méthode.** La recherche a été répartie entre cinq agents documentalistes, chacun chargé de cinq questions. Chacun cherchait avec WebSearch puis lisait chaque page avec WebFetch. Seules les pages effectivement lues ont été retenues, et les chiffres viennent des passages lus. Relecture finale de toutes les fiches : vérification que les affirmations sensibles des résumés et des réponses aux publics figurent bien dans un passage de source (attribution de la phrase sur la charia au rapport et non au ministre, restrictions de l'avortement en Russie d'après la FIDH, profil social des répondants autoritaires d'après l'enquête de 2022).
+
+Les sources orientées ne servent qu'avec attribution explicite :
+- Institut Montaigne, Fondation Jean-Jaurès, Observatoire du décolonialisme ;
+- Politis, Amnesty International, Human Rights Watch, FIDH ;
+- Migration Policy Institute, Brookings, Le Rubicon, cabinet Mayer Brown.
+
+L'outil de lecture résume les pages : les citations entre guillemets sont courtes et pourraient être revérifiées mot à mot. Dans les deux sources sur la gale, les passages reprennent le sens de la page sans être recopiés mot à mot.
+
+Pages non ouvertes, donc non citées :
+- Vie publique (JavaScript requis) ;
+- bilans DREES des 3e et 4e années de l'obligation vaccinale (vérification anti-robot) ;
+- version française du Population et Sociétés n° 558 de l'INED (version anglaise lue) ;
+- communiqué du CIO sur les athlètes voilées (cité d'après Human Rights Watch) ;
+- article du Ceseda sur Légifrance ;
+- bulletin DGFiP Statistiques n° 32 ;
+- déclaration de 2008 sur elysee.fr ;
+- PDF complet du rapport du Sénat n° 943 sur l'université (trois extraits lus) ;
+- Reporterre, Quotidien du pharmacien, Maire-info sur les mesures du ministre du Logement.
+
+**Reconnaissance des questions.**
+- Après génération, 9 des 25 questions menaient déjà à leur fiche par les mots-clés.
+- `public/js/cartographie.js` reçoit 19 concepts : `mayotte`, `trump_expulsions`, `afrique_demo`, `freres_musulmans`, `voile_sport`, `polygamie`, `riches_ir`, `agences_etat`, `intermittents`, `rn_fortune_fin`, `retraite_60`, `russie_chretiens`, `rn_eurodeputes`, `wokisme_univ`, `vaccins_enfants`, `medicaments`, `squat`, `bac`, `inondations`. Il reçoit aussi 19 arguments placés en tête.
+- L'argument « Mayotte » exclut le concept `nationalite`, pour que « Supprimer le droit du sol à Mayotte… » reste sur `droit-du-sol-suppression`. L'argument LFI exige les concepts `retraite_60` et `melenchon_lfi` : « Le RN promet la retraite à 60 ans » reste sur `rn-retraite-60-ans`.
+- Comparaison avant/après sur 576 phrases de contrôle (affirmations de la bibliothèque, questions citées dans ce journal) : seules les questions visées changent de fiche, plus trois questions citées dans un passage précédent comme mal orientées (Frères musulmans, polygames, Mayotte), qui mènent désormais à leur fiche.
+- Variantes vérifiées : « À Mayotte il y a plus de Comoriens que de Mahorais », « Trump expulse des millions de clandestins », « Avec la natalité africaine, l'Europe va être submergée », « Le hijab n'a pas sa place dans le football », « Il y a des centaines d'agences de l'État qui ne servent à rien », « Mélenchon promet la retraite à 60 ans, c'est du délire », « Poutine est le dernier défenseur des chrétiens », « Bardella n'a jamais siégé au Parlement européen », « Les facs sont tenues par les wokistes », « Le vaccin contre la rougeole donne l'autisme », « On ne trouve plus d'amoxicilline à cause de Bruxelles », « Les crues sont dues au fait qu'on ne peut plus curer les fossés », « Un squatteur ne peut pas être expulsé de chez vous ».
+- « Le vaccin covid a tué des milliers de gens » reste sur `vaccins-arn-mortalite`. « L'islamo-gauchisme gangrène l'université » reste sur `islamo-gauchisme-origine-usages`. « Le RN veut taxer les super riches avec la taxe Zucman » reste sur `rn-taxe-zucman`.
+
+**Politique documentaire.** `public/js/ligne-editoriale.js` reconnaît désormais :
+- comme institutions publiques : Santé publique France, l'ANSM, l'OMS et l'ECDC ;
+- comme centres de recherche : le Pew Research Center et le Migration Policy Institute ;
+- comme presse de référence : Associated Press, PolitiFact et CBS News.
+
+**Fiches existantes adaptées aux deux publics (6).** Le champ `publics` a été ajouté via `scripts/publics-complements.js`, à partir du seul contenu sourcé de chaque fiche : `islamo-gauchisme-judeo-bolchevisme-comparaison`, `judeo-bolchevisme-histoire`, `melenchon-crie`, `melenchon-dangereux-democratie`, `resistance-communistes-etrangers`, `souverainete-industrielle-alimentaire-energetique`. Seules restent sans ce champ les 16 fiches « Science du dialogue » (`sci-…`), dont les affirmations sont des idées reçues sur la manière de discuter, pas des arguments d'extrême droite : leur ajouter des réponses à un électeur convaincu n'aurait pas de sens. C'est pourquoi 6 fiches seulement ont été adaptées, et non 10.
+
+**Questions écartées pour sources invérifiables : aucune.** Les dossiers les plus minces :
+- `rn-eurodeputes-travail` : repose surtout sur les données de Jordan Bardella, pas sur un classement complet des élus RN ; deux articles lus sur des copies tierces ;
+- `polygamie-allocations-caf` : estimation ancienne (CNCDH, vers 2006) et règles CNAF de 1997 ;
+- `terres-agricoles-chinois` : aucune part nationale des acheteurs étrangers trouvée ;
+- `wokisme-universite` : quatre sources, dont une orientée et attribuée.
+
+**Points non vérifiés, laissés hors des fiches et signalés dans leurs limites :**
+- nombre de squats et d'évacuations administratives (aucune statistique officielle récente) ;
+- taux d'avortement et de divorce en Russie (Rosstat) ;
+- part des tuberculoses contractées avant ou après l'arrivée en France ;
+- nombre d'étrangers en situation irrégulière à Mayotte ;
+- chiffrage des recettes prévues par le NFP pour les retraites ;
+- économies réellement réalisées sur les agences de l'État en 2026 ;
+- état, après janvier 2026, de la proposition de loi sur les signes religieux dans le sport ;
+- lien entre l'acheteur de l'Indre (HongYang) et le groupe Reward.
+
+**Vérifications.** `npm test` : 471 tests, 471 réussis (après deux corrections : un fait de `lfi-retraite-60-ans` est désormais attribué explicitement à l'Institut Montaigne ; l'affirmation de `bac-donne-a-tous` ne contient plus « aujourd'hui », qui attirait la phrase hors sujet « Il fait beau aujourd'hui », et un concept `bac` a été ajouté). Tests de bout en bout : 38 sur 38.

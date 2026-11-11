@@ -1,0 +1,212 @@
+{
+  "id": "vaccins-obligatoires-enfants",
+  "type": "idee_recue",
+  "affirmation": "Les onze vaccins obligatoires des enfants sont dangereux.",
+  "volet": "services",
+  "sous_theme": "Accès aux soins",
+  "rubriques": [],
+  "mots_cles": [
+    "vaccins obligatoires",
+    "11 vaccins",
+    "onze vaccins",
+    "vaccination obligatoire bebe",
+    "vaccins nourrissons dangereux",
+    "obligation vaccinale",
+    "effets secondaires vaccins enfants",
+    "hexavalent"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La pharmacovigilance de l'ANSM n'a trouvé aucun signal de sécurité après l'extension de l'obligation en 2018 : en 2019, 235 enfants ont eu un effet indésirable déclaré sur plus de 1,4 million de vaccinés. Des effets graves existent, comme des convulsions avec fièvre, mais ils sont rares et connus. En face, l'obligation a fait bondir la couverture contre le méningocoque C et les cas chez les nourrissons ont chuté ; la rougeole revient là où la vaccination manque.",
+  "contexte": "Depuis 2018, onze vaccinations sont obligatoires pour les enfants nés à partir du 1er janvier 2018. Cette extension a nourri des campagnes de méfiance, souvent mêlées aux débats sur les vaccins contre le Covid.",
+  "explication": "Pour juger, il faut comparer les effets indésirables déclarés et suivis par l'ANSM aux maladies évitées, mesurées par Santé publique France.",
+  "faits": [
+    {
+      "fait": "L'obligation porte sur onze maladies depuis 2018. De 2012 à 2017, l'ANSM a reçu 962 signalements d'effets indésirables chez les moins de 2 ans pour environ 38 millions de doses, et le profil est resté similaire après l'extension.",
+      "periode": "2012-2018",
+      "perimetre": "France",
+      "explication": "Les effets indésirables sont suivis depuis longtemps et n'ont pas changé avec l'obligation.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "962 signalements"
+    },
+    {
+      "fait": "En 2019, sur plus de 1,4 million d'enfants vaccinés, 235 ont eu au moins un effet indésirable déclaré, dont 84 cas graves ; l'ANSM conclut qu'« aucun signal de sécurité n'a été identifié ».",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Les effets déclarés sont rares au regard du nombre d'enfants vaccinés.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "235 enfants"
+    },
+    {
+      "fait": "Parmi les cas graves déclarés en 2019 figurent 12 convulsions, dont 6 avec fièvre, 11 apnées surtout chez des prématurés et 4 épisodes d'hypotonie-hyporéactivité ; ces chiffres sont sous-estimés, car la déclaration est spontanée.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Des effets graves existent : c'est un fait à reconnaître, même s'ils sont rares et connus.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Avec l'obligation, la première dose contre le méningocoque C à 7 mois est passée de 39,3 % (enfants nés en 2017) à 75,7 % (nés en 2018), et l'hépatite B de 93,1 % à 98,6 %.",
+      "periode": "2017-2018",
+      "perimetre": "France",
+      "explication": "L'obligation a fortement protégé les nourrissons.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "75,7 %"
+    },
+    {
+      "fait": "Chez les nourrissons de moins d'un an, Santé publique France a compté 4 infections invasives à méningocoque C en 2018, contre 17 par an en moyenne sur 2010-2016 ; aucun des quatre n'était vacciné.",
+      "periode": "2010-2018",
+      "perimetre": "France",
+      "explication": "Les maladies évitées sont graves et mesurables.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "4 cas"
+    },
+    {
+      "fait": "En 2024, la France a compté 483 cas de rougeole, quatre fois plus qu'en 2023 ; 64 % des cas dont le statut était connu n'étaient pas vaccinés et 30 % ont été hospitalisés.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Quand la couverture recule, les maladies reviennent.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "483 cas"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : l'ANSM n'a trouvé aucun signal de sécurité après l'extension de 2018. En 2019, 235 enfants ont eu un effet indésirable déclaré sur plus de 1,4 million de vaccinés. Des effets graves existent mais sont rares, alors que les méningites à méningocoque C des nourrissons ont chuté.",
+    "moyen": "Aucun médicament n'est sans risque, et les vaccins non plus. Mais les chiffres sont là : en 2019, sur plus de 1,4 million d'enfants vaccinés, 235 ont eu un effet indésirable déclaré, dont 84 jugés graves, comme des convulsions avec fièvre. L'ANSM conclut qu'aucun signal de sécurité n'a été identifié.\n\nEn face, l'obligation a fait passer la vaccination contre le méningocoque C de 39,3 % à 75,7 % des bébés de 7 mois. Les infections chez les moins d'un an sont tombées à 4 en 2018, contre 17 par an auparavant. Et la rougeole, qui revient là où l'on vaccine moins, a envoyé 30 % des malades à l'hôpital en 2024.",
+    "detaille": "Depuis 2018, onze vaccinations sont obligatoires pour les enfants. La surveillance n'a pas commencé avec l'obligation : de 2012 à 2017, l'ANSM a reçu 962 signalements d'effets indésirables chez les moins de 2 ans, pour environ 38 millions de doses. Le profil est resté similaire après l'extension.\n\nPour 2019, l'ANSM a recensé 235 enfants avec au moins un effet indésirable déclaré, sur plus de 1,4 million de vaccinés, dont 84 cas graves : 12 convulsions, dont 6 avec fièvre, 11 apnées surtout chez des prématurés, 4 épisodes d'hypotonie-hyporéactivité. Ces chiffres sont sous-estimés, car la déclaration est spontanée. Mais aucun signal nouveau n'a été trouvé. Ces risques sont réels, connus et rares.\n\nLe bénéfice, lui, est massif. La première dose contre le méningocoque C à 7 mois est passée de 39,3 % à 75,7 %, et les infections chez les nourrissons sont tombées à 4 en 2018, contre 17 par an en moyenne. À l'inverse, la rougeole revient : 483 cas en 2024, quatre fois plus qu'en 2023, 64 % non vaccinés parmi les cas connus. Protéger les enfants, c'est d'abord les protéger de ces maladies.",
+    "empathie": "Il est normal qu'un parent s'inquiète avant de faire piquer son bébé plusieurs fois. Cette inquiétude mérite des réponses précises, y compris sur les effets indésirables réels."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On cache les effets secondaires.",
+      "reponse": "L'ANSM publie les déclarations, y compris les cas graves comme les convulsions ; c'est justement ce suivi public qui permet de dire qu'aucun signal nouveau n'est apparu."
+    },
+    {
+      "objection": "Ces maladies ont disparu, les vaccins ne servent plus à rien.",
+      "reponse": "Elles reviennent dès que la vaccination recule : la rougeole a été multipliée par quatre en 2024, et le méningocoque C tuait encore des nourrissons non vaccinés."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les effets indésirables des vaccins des bébés sont publiés chaque année par l'ANSM ?",
+    "Qu'est-ce qui te rassurerait le plus : un chiffre, un médecin de confiance, un témoignage ?"
+  ],
+  "limites": [
+    "Les bilans de pharmacovigilance lus portent sur 2012-2019 ; les rapports plus récents de l'ANSM n'ont pas été ouverts.",
+    "Les bilans des troisième et quatrième années de l'obligation (DREES, ministère) n'ont pas pu être ouverts (vérification anti-robot) ; la page de Vie publique ne s'est pas affichée.",
+    "Les données de méningocoque C chez les nourrissons datent de 2018 ; la hausse récente des cas de méningocoques ACWY et B n'a pas été chiffrée dans une source lue."
+  ],
+  "sources": [
+    {
+      "titre": "Bulletin de santé publique. Vaccination : premier bilan de l'extension des obligations vaccinales du nourrisson",
+      "organisme": "Santé publique France (éditorial du Pr Alain Fischer), copie hébergée par l’ARS Bourgogne-Franche-Comté",
+      "date_publication": "avril 2019",
+      "url": "https://www.bourgogne-franche-comte.ars.sante.fr/media/37014/download",
+      "passage": "Premier bilan de l'obligation étendue aux enfants nés à partir du 1er janvier 2018. Couverture à 7 mois de la première dose contre le méningocoque C : 39,3 % (nés en 2017) contre 75,7 % (nés en 2018) ; hépatite B (vaccin hexavalent) : 93,1 % contre 98,6 %. Chez les nourrissons de moins d'un an : 4 cas d'infection invasive à méningocoque C en 2018, contre une moyenne de 17 par an sur 2010-2016 ; les quatre n'étaient pas vaccinés. 67 % des parents souhaitaient plus d'information sur les effets indésirables.",
+      "pertinence": "Agence nationale de santé publique ; premier bilan, ancien (2019) ; la hausse de la couverture ROR n'est pas attribuée à la seule obligation.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Données de pharmacovigilance des vaccins obligatoires chez les enfants de moins de 2 ans (enfants vaccinés en 2019)",
+      "organisme": "ANSM (Agence nationale de sécurité du médicament)",
+      "date_publication": "juillet 2021",
+      "url": "https://ansm.sante.fr/uploads/2023/03/30/20210713-rapport-donnees-pv-vaccins-obligatoires-juin-2021.pdf",
+      "passage": "En 2019, « plus de 1,4 million d'enfants » de 0 à 23 mois ont été vaccinés. 235 enfants ont eu au moins un effet indésirable déclaré à un centre régional de pharmacovigilance, dont 84 cas (35,7 %) classés graves : notamment 12 convulsions (dont 6 fébriles), 11 apnées (surtout chez des prématurés), 4 épisodes d'hypotonie-hyporéactivité, 3 thrombopénies. « Aucun signal de sécurité n'a été identifié » sur les deux premières années de l'obligation. Les taux de notification ne sont pas des incidences (sous-déclaration).",
+      "pertinence": "Agence publique de pharmacovigilance ; données 2019, notifications spontanées.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'ANSM publie un rapport qui confirme la sécurité des vaccins obligatoires pour les enfants de moins de 2 ans",
+      "organisme": "ANSM, point d’information reproduit sur Santé.fr",
+      "date_publication": "juillet 2019 (rapport du 26 juin 2019)",
+      "url": "https://www.sante.fr/node/1676247",
+      "passage": "962 signalements d'effets ou d'événements indésirables chez les moins de 2 ans de 2012 à 2017, pour environ 38 millions de doses ; 75 signalements au premier semestre 2018 après l'extension de l'obligation, qui couvre onze maladies. Effets connus : fièvre, réactions locales, pleurs persistants, éruptions ; plus rarement fièvre élevée et/ou convulsions (le plus souvent avec fièvre) et épisodes d'hypotonie-hyporéactivité. Le profil est similaire avant et après l'extension. « Ces données confirment la sécurité des vaccins obligatoires pour les enfants de moins de 2 ans. »",
+      "pertinence": "Agence publique ; donnée ancienne (2019).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rougeole en France. Bilan annuel 2024",
+      "organisme": "Santé publique France",
+      "date_publication": "25 avril 2025",
+      "url": "https://www.santepubliquefrance.fr/rougeole/bulletin-national/rougeole-en-france-bilan-annuel-2024",
+      "passage": "483 cas déclarés en 2024, dont 84 importés, un nombre « multiplié par 4 » par rapport à 2023. Parmi les 300 cas éligibles dont le statut vaccinal est connu, 64 % n'étaient pas vaccinés. 144 cas (30 %) ont été hospitalisés, dont sept en réanimation. « Aucun décès n'a été rapporté. »",
+      "pertinence": "Surveillance nationale de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vaccination en France. Bilan de la couverture vaccinale en 2024",
+      "organisme": "Santé publique France",
+      "date_publication": "28 avril 2025",
+      "url": "https://www.santepubliquefrance.fr/vaccination/bulletin-national/vaccination-en-france-bilan-de-la-couverture-vaccinale-en-2024",
+      "passage": "« En 2024, 88,6 % des nourrissons avaient reçu une première dose de vaccin contre le méningocoque C. » « 94,6 % des nourrissons nés en 2023 ont reçu au moins une dose de vaccin contre la rougeole » ; le seuil de 95 % à deux doses nécessaire à l'élimination n'est pas atteint. La hausse des cas de méningocoque chez les nourrissons a conduit à rendre obligatoires les vaccins ACWY et B au 1er janvier 2025.",
+      "pertinence": "Agence nationale de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveaux bilans de pharmacovigilance de l'ANSM et de couverture vaccinale de Santé publique France.",
+  "objections_legitimes": [
+    "Des effets indésirables graves existent, même s'ils sont rares.",
+    "Beaucoup de parents disent manquer d'information sur les effets indésirables."
+  ],
+  "publics": {
+    "convaincus": "Je ne te dis pas qu'un vaccin est sans risque : l'ANSM publie elle-même les cas graves, comme des convulsions avec fièvre. Mais en 2019, c'est 235 enfants concernés par un effet déclaré sur plus de 1,4 million de vaccinés, sans aucun signal nouveau. En face, les méningites à méningocoque C des bébés ont chuté avec l'obligation.",
+    "indecis": "Ta prudence est saine : les effets indésirables existent et sont suivis publiquement. Ils restent rares et connus. Les maladies évitées, elles, sont graves : la rougeole a envoyé 30 % des malades à l'hôpital en 2024. Parles-en avec ton médecin, chiffres en main."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "solidarite",
+      "services_publics"
+    ],
+    "mecanismes": "La peur se nourrit d’effets indésirables réels mais rares, isolés de leur contexte, tandis que les maladies évitées deviennent invisibles justement parce que la vaccination fonctionne.",
+    "consequences": "Quand la couverture recule, ce sont les nourrissons trop jeunes pour être vaccinés et les enfants fragiles qui paient, comme le montre le retour de la rougeole.",
+    "democratie": "La confiance repose sur la transparence : une pharmacovigilance publique, qui publie aussi les cas graves, vaut mieux que les rumeurs comme que les discours lénifiants.",
+    "propositions": [
+      "Garantir l’accès gratuit et proche de chez soi à la vaccination, avec des médecins et des PMI qui ont le temps d’expliquer.",
+      "Indemniser rapidement et sans procès les rares victimes d’effets graves, au nom de la solidarité nationale.",
+      "Publier en clair et chaque année les bilans de pharmacovigilance pour les parents."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des effets indésirables graves, comme des convulsions avec fièvre, sont déclarés chaque année chez des nourrissons vaccinés.",
+        "integration": "Les reconnaître franchement, rappeler qu’ils sont rares et suivis, et les mettre en regard des maladies graves évitées."
+      }
+    ]
+  },
+  "concepts": [
+    "dangerosite",
+    "vaccin",
+    "vaccins_enfants"
+  ],
+  "repond_a": [
+    {
+      "id": "vaccins_enfants",
+      "label": "Vaccins obligatoires des enfants"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fou",
+    "cingle",
+    "agressif",
+    "agressive",
+    "autoritaire",
+    "arn messager",
+    "arnm",
+    "pfizer",
+    "moderna",
+    "hexavalent"
+  ]
+}

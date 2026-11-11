@@ -1,0 +1,193 @@
+{
+  "id": "inondations-curage-ecologistes",
+  "type": "idee_recue",
+  "affirmation": "Les inondations sont la faute des écologistes qui interdisent de curer les rivières.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "curage des rivieres",
+    "curer les fosses",
+    "inondations pas de calais",
+    "inondations ecologistes",
+    "entretien des cours d eau",
+    "interdiction de curer",
+    "crues",
+    "wateringues"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le curage n'est pas interdit : il relève d'une déclaration ou d'une autorisation selon les volumes, et l'entretien courant par les riverains ne demande aucune procédure. Après les inondations du Pas-de-Calais de 2023-2024, une mission d'inspection a conclu que le manque d'entretien « n'a pas été la cause » : il était tombé près de 800 mm en deux mois, et des rivières parfaitement entretenues auraient atteint les mêmes hauteurs d'eau selon les modèles. Le réchauffement accroît le potentiel de pluies intenses.",
+  "contexte": "Lors des crues répétées du Pas-de-Calais à l'hiver 2023-2024, des agriculteurs et des élus ont accusé les règles environnementales d'empêcher le curage des cours d'eau.",
+  "explication": "Il faut vérifier ce que dit vraiment le droit, ce qu'ont établi les inspections de l'État sur ces crues, et ce que peut ou non le curage face à des pluies exceptionnelles.",
+  "faits": [
+    {
+      "fait": "Selon la mission d'inspection de 2024, le curage relève d'un régime de déclaration ou d'autorisation selon le volume et la pollution des sédiments, et l'entretien courant des riverains n'exige aucune procédure au titre de la loi sur l'eau.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le curage est encadré, pas interdit.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La mission conclut que le manque d'entretien n'a pas été la cause des inondations du Nord et du Pas-de-Calais : il est tombé près de 800 mm sur les deux derniers mois de 2023, et en novembre cinq fois la moyenne de 1991-2020 ; selon les modèles cités, un réseau parfaitement entretenu aurait connu les mêmes hauteurs d'eau.",
+      "periode": "2023",
+      "perimetre": "Nord et Pas-de-Calais",
+      "explication": "Ce sont des pluies exceptionnelles qui ont provoqué les crues ; le curage ne les aurait pas évitées.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "800 mm"
+    },
+    {
+      "fait": "La même mission relève que l'obligation d'entretien des riverains est rarement respectée et pas sanctionnée en pratique, et admet que le curage peut être nécessaire dans certains cas, sans en faire un préalable général.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "L'entretien des cours d'eau est réellement négligé par endroits : un point à reconnaître.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Localtis, les crues ont dépassé les niveaux centennaux alors que les ouvrages étaient dimensionnés pour des crues moins rares que cinquantennales ; l'utilité du curage est discutée, car ralentir l'eau vaut parfois mieux que l'accélérer vers l'aval.",
+      "periode": "2024",
+      "perimetre": "Pas-de-Calais",
+      "explication": "Accélérer l'écoulement peut aggraver la situation en aval.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En réponse à un député, le Gouvernement indique qu'un décret autorise désormais des curages ponctuels sur simple déclaration.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les règles ont été simplifiées, signe qu'elles étaient jugées lourdes.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Météo-France, à chaque degré de réchauffement l'air peut contenir environ 7 % de vapeur d'eau en plus, ce qui accroît le potentiel de pluies intenses.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Le changement climatique rend les épisodes comme celui du Pas-de-Calais plus probables.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "7 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : le curage n'est pas interdit, il est encadré. Après les crues du Pas-de-Calais, l'inspection de l'État a conclu que le manque d'entretien n'en était pas la cause : il était tombé près de 800 mm en deux mois, et des rivières bien curées auraient connu les mêmes hauteurs d'eau.",
+    "moyen": "Le droit ne prévoit pas d'interdiction : selon les volumes, le curage passe par une déclaration ou une autorisation, et l'entretien courant des riverains ne demande aucune démarche. Le Gouvernement a même simplifié la procédure fin 2024.\n\nSur les crues du Pas-de-Calais, une mission d'inspection a tranché : le manque d'entretien « n'a pas été la cause des inondations ». Il est tombé près de 800 mm en deux mois, cinq fois la normale en novembre. Les modèles montrent qu'un réseau parfaitement entretenu aurait connu les mêmes hauteurs d'eau. L'entretien est parfois négligé, c'est vrai, mais il ne fait pas de miracle face à de telles pluies.",
+    "detaille": "Commençons par le droit. Selon la mission d'inspection de 2024, le curage des cours d'eau relève d'une déclaration ou d'une autorisation selon le volume et la pollution des sédiments. L'entretien courant, qui incombe aux riverains, n'exige aucune procédure. Un décret a depuis permis des curages ponctuels sur simple déclaration, et les préfets ont accordé des dérogations d'urgence en janvier 2024.\n\nSur les causes, la mission est nette : le manque d'entretien n'a pas été la cause des inondations du Nord et du Pas-de-Calais. Il est tombé près de 800 mm sur les deux derniers mois de 2023, et en novembre cinq fois la moyenne. Les crues ont dépassé les niveaux centennaux, alors que les ouvrages étaient conçus pour des crues moins rares. Les modèles indiquent qu'un réseau parfaitement entretenu aurait connu les mêmes hauteurs d'eau. Curer sans discernement peut même accélérer l'eau vers l'aval et détruire la vie de la rivière.\n\nLa mission reconnaît que l'entretien est rarement fait et que le curage peut être utile dans certains cas. Mais l'essentiel est ailleurs : selon Météo-France, l'air contient environ 7 % de vapeur d'eau en plus par degré de réchauffement, ce qui accroît le potentiel de pluies intenses. Protéger les habitants suppose de ralentir l'eau, de limiter l'artificialisation et d'investir dans la prévention.",
+    "empathie": "Voir sa maison inondée plusieurs fois en quelques semaines est un traumatisme. La colère est légitime ; elle mérite qu'on cherche les vraies causes pour éviter que cela recommence."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avant, on curait et il n'y avait pas d'inondations.",
+      "reponse": "Les pluies de fin 2023 ont dépassé les niveaux centennaux ; les modèles montrent que des rivières parfaitement entretenues auraient connu les mêmes hauteurs d'eau."
+    },
+    {
+      "objection": "Ce sont les normes écolos qui bloquent tout.",
+      "reponse": "Le curage reste possible sur déclaration ou autorisation, et le Gouvernement a encore simplifié la procédure ; la mission d'inspection conteste d'en faire un préalable général."
+    }
+  ],
+  "questions": [
+    "Savais-tu que l'entretien courant d'un cours d'eau par les riverains ne demande aucune autorisation ?",
+    "Que faudrait-il faire, selon toi, face à des pluies cinq fois supérieures à la normale ?"
+  ],
+  "limites": [
+    "Les fact-checks de presse sur le curage n'ont pas été lus ; l'article de Reporterre n'a pas pu être ouvert.",
+    "Les modèles numériques cités par la mission ne sont pas détaillés (rivières, auteurs).",
+    "L'effet de l'artificialisation des sols sur ces crues n'a pas été chiffré dans une source lue.",
+    "Aucun avis de l'OFB n'a été lu."
+  ],
+  "sources": [
+    {
+      "titre": "Mission de simplification du cadre législatif et réglementaire applicable à l'entretien des cours d'eau (rapport n° 015574-01)",
+      "organisme": "IGEDD et CGAAER (D. Kholler, J.-F. Landel, F. Palhol)",
+      "date_publication": "mai 2024 (publié en juillet 2024)",
+      "url": "https://www.igedd.developpement-durable.gouv.fr/IMG/pdf/015574-01_rapport_1__cle72f7d8.pdf",
+      "passage": "Le manque d'entretien « n'a pas été la cause des inondations dans le Nord et le Pas-de-Calais » ; cumuls « atteignant près de 800 mm sur les deux derniers mois de l'année 2023 » ; en novembre, des précipitations « 5 fois supérieures à la moyenne de la période 1991-2020 ». « Les modèles numériques tendent à démontrer qu'avec un réseau hydraulique parfaitement entretenu », les précipitations « auraient généré les mêmes hauteurs d'eau ». La rubrique 3.2.1.0 « soumet les travaux d'entretien des cours d'eau ou de canaux, à un régime de déclaration ou d'autorisation » ; l'entretien courant par les riverains (art. L. 215-14) « n'induit donc aucune procédure au titre de la loi sur l'eau », mais il est rarement respecté et pas sanctionné en pratique. Le curage « peut bien évidemment être nécessaire dans certains cas », mais « la mission conteste qu'il faille faire du curage des cours d'eau un préalable général ».",
+      "pertinence": "Rapport d'inspection des ministères de l'Écologie et de l'Agriculture.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pas-de-Calais : les violentes crues de ces derniers mois n'ont pas été causées par un manque d'entretien des cours d'eau",
+      "organisme": "Localtis – Banque des Territoires (Anne Lenormand, avec AFP)",
+      "date_publication": "17 juillet 2024",
+      "url": "https://www.banquedesterritoires.fr/pas-de-calais-les-violentes-crues-de-ces-derniers-mois-nont-pas-ete-causees-par-un-manque",
+      "passage": "Le rapport juge que l'ampleur des pluies est « le facteur déclenchant » et que les crues ont dépassé les « niveaux centennaux », alors que les ouvrages étaient dimensionnés pour des crues moins rares que cinquantennales. Les préfets ont accordé des dérogations d'urgence pour des curages en janvier. L'utilité du curage est discutée : risque de détruire la vie du lit de la rivière, et il vaut parfois mieux ralentir l'eau que l'accélérer vers l'aval. Les climatologues s'attendent à davantage de pluies extrêmes dans la région.",
+      "pertinence": "Média des collectivités, à partir du rapport officiel et de l’AFP.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 179 (17e législature) : inondations du bassin de la Liane, et réponse du ministère de la Transition écologique",
+      "organisme": "Assemblée nationale (question d’Antoine Golliot, RN)",
+      "date_publication": "réponse publiée au JO le 17 décembre 2024",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE179.pdf",
+      "passage": "La réponse cite la mission IGEDD : « le manque d'entretien des réseaux hydrauliques n'a pas été la cause des inondations dans le Nord et le Pas-de-Calais ». Un décret autorise désormais des curages ponctuels des cours d'eau sur simple déclaration. Elle mentionne aussi le rôle des fortes marées et des portes à la mer, et la compétence Gemapi des collectivités.",
+      "pertinence": "Réponse ministérielle officielle à un député du Rassemblement national.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "10 informations essentielles sur le climat",
+      "organisme": "Météo-France",
+      "date_publication": "10 décembre 2025",
+      "url": "https://meteofrance.com/changement-climatique/10-informations-essentielles-sur-le-climat",
+      "passage": "« À chaque degré de réchauffement, l'air peut contenir environ 7 % de vapeur d'eau en plus », ce qui « accroît le potentiel de pluies intenses ». Les épisodes de pluies extrêmes sont décrits comme « plus marqués ».",
+      "pertinence": "Service public de météorologie.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Retours d'expérience sur les nouvelles règles de curage et nouveaux épisodes de crue.",
+  "objections_legitimes": [
+    "L'entretien des cours d'eau est rarement fait et pas sanctionné en pratique.",
+    "Les procédures administratives ont été jugées assez lourdes pour que le Gouvernement les simplifie."
+  ],
+  "publics": {
+    "convaincus": "Le curage n'est pas interdit : il se fait sur déclaration ou autorisation, et l'entretien courant ne demande rien. L'inspection de l'État, dont la conclusion a été transmise à un député RN, dit que le manque d'entretien n'a pas causé les crues du Pas-de-Calais : il était tombé près de 800 mm en deux mois. Même des rivières parfaitement curées auraient débordé.",
+    "indecis": "L'entretien des rivières est parfois négligé, c'est vrai, et les règles ont été simplifiées. Mais face à des pluies cinq fois supérieures à la normale, le curage ne suffit pas, et il peut aggraver les choses en aval. La prévention passe par l'aménagement des bassins et la lutte contre le réchauffement."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "services_publics",
+      "solidarite"
+    ],
+    "mecanismes": "Accuser les normes écologiques offre un coupable simple à une catastrophe complexe, où pèsent surtout des pluies exceptionnelles, l’aménagement des bassins et le réchauffement climatique.",
+    "consequences": "Les sinistrés, souvent modestes et installés en zone inondable, risquent de subir de nouveau des crues si l’on mise sur de fausses solutions.",
+    "democratie": "Les décisions de prévention doivent s’appuyer sur les retours d’expérience publics des inspections de l’État, débattus avec les habitants et les agriculteurs.",
+    "propositions": [
+      "Financer des syndicats de rivière et des services publics de prévention des inondations à l’échelle des bassins versants.",
+      "Ralentir l’eau en amont avec des haies, des zones d’expansion des crues et moins d’artificialisation des sols.",
+      "Accompagner et indemniser les habitants les plus exposés, y compris pour se reloger."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’entretien courant des cours d’eau est rarement fait, n’est pas sanctionné en pratique, et le curage peut être utile dans certains cas.",
+        "integration": "Reconnaître ce manque et soutenir un entretien raisonné, planifié par bassin, sans en faire la solution miracle."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "climat_origine",
+    "inondations"
+  ],
+  "repond_a": [
+    {
+      "id": "inondations",
+      "label": "Inondations et curage des rivières"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ]
+}

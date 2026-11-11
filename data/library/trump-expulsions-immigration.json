@@ -1,0 +1,217 @@
+{
+  "id": "trump-expulsions-immigration",
+  "type": "idee_recue",
+  "affirmation": "Trump a réglé le problème de l'immigration en expulsant massivement.",
+  "volet": "international",
+  "sous_theme": "États-Unis",
+  "rubriques": [],
+  "mots_cles": [
+    "trump expulsions",
+    "trump immigration",
+    "expulsions massives",
+    "deportations trump",
+    "ice etats unis",
+    "remigration trump",
+    "trump clandestins",
+    "modele trump immigration"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Les entrées à la frontière ont fortement baissé et les expulsions ont augmenté sous Trump : environ 660 000 sur la dernière année selon le Migration Policy Institute (octobre 2026). Mais elles restent sous la promesse d'un million par an et sous les niveaux de l'an 2000. La majorité des expulsés n'ont jamais été condamnés, la plupart ont été interceptés à la frontière, les morts en détention ont atteint un record depuis vingt ans, et des millions de sans-papiers vivent toujours aux États-Unis.",
+  "contexte": "Le second mandat de Donald Trump, commencé en janvier 2025, a fait des expulsions massives une priorité, avec des moyens budgétaires inédits. Ce modèle est souvent cité en exemple en Europe.",
+  "explication": "Il faut distinguer les arrivées à la frontière, le nombre d'expulsions, qui est expulsé, le coût humain et financier, et le nombre de sans-papiers restant dans le pays. Les chiffres officiels et indépendants divergent : il faut les dater et les attribuer.",
+  "faits": [
+    {
+      "fait": "Selon le Migration Policy Institute, la police des frontières a enregistré 444 000 interpellations de migrants en 2025, contre 2,1 millions l'année précédente ; le Congrès a voté 45 Md$ pour de nouveaux centres de détention et 30 Md$ pour les expulsions.",
+      "periode": "exercice 2025",
+      "perimetre": "États-Unis",
+      "explication": "Les arrivées à la frontière ont fortement baissé : c'est un fait défavorable, obtenu à un coût très élevé.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "444 000"
+    },
+    {
+      "fait": "Le MPI estime à environ 660 000 les expulsions sur l'année écoulée (octobre 2026) et à 980 000 sur les dix-huit premiers mois, en deçà de la promesse d'un million par an et des 1,86 million de l'an 2000 ; l'administration revendique 1,2 million.",
+      "periode": "janvier 2025-juillet 2026",
+      "perimetre": "États-Unis",
+      "explication": "Les expulsions augmentent, mais ne sont pas inédites ; les chiffres officiels sont contestés.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "660 000"
+    },
+    {
+      "fait": "Selon le MPI, 69 % des expulsions entre janvier 2025 et juillet 2026 concernent des personnes interceptées à la frontière, et la plupart des personnes expulsées n'ont jamais été condamnées.",
+      "periode": "janvier 2025-juillet 2026",
+      "perimetre": "États-Unis",
+      "explication": "La politique ne vise pas surtout des délinquants installés dans le pays.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "69 %"
+    },
+    {
+      "fait": "Selon PolitiFact, environ 74 % des près de 70 000 personnes détenues par l'ICE en décembre 2025 n'avaient aucune condamnation pénale ; le DHS affirme que 1,9 million de personnes se sont « auto-expulsées » sans en apporter la preuve.",
+      "periode": "décembre 2025",
+      "perimetre": "États-Unis",
+      "explication": "Les chiffres de communication du gouvernement ne sont pas vérifiés.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "74 %"
+    },
+    {
+      "fait": "Le Pew Research Center estime que les sans-papiers étaient 14 millions en 2023 ; leur nombre a sans doute baissé au premier semestre 2025, jusqu'à 1 million de moins, mais restait probablement supérieur au niveau de 2023 à la mi-2025.",
+      "periode": "2023-2025",
+      "perimetre": "États-Unis",
+      "explication": "Le « problème » n'est pas réglé : des millions de personnes restent sans statut.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "14 millions"
+    },
+    {
+      "fait": "Selon une analyse de CBS News, 31 personnes sont mortes en détention à l'ICE en 2025, un record depuis vingt ans.",
+      "periode": "2025",
+      "perimetre": "États-Unis",
+      "explication": "Le coût humain de la politique est élevé.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "31 morts"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les arrivées à la frontière ont chuté, c'est vrai. Mais les expulsions, environ 660 000 sur un an selon le Migration Policy Institute, restent sous la promesse d'un million et sous les niveaux de l'an 2000. La plupart des expulsés n'ont jamais été condamnés, 31 personnes sont mortes en détention en 2025, et des millions de sans-papiers sont toujours là.",
+    "moyen": "Il faut reconnaître un fait : selon le Migration Policy Institute, les interpellations à la frontière sont tombées à 444 000 en 2025, contre 2,1 millions l'année précédente. Et les expulsions ont augmenté : environ 660 000 sur l'année écoulée selon son rapport d'octobre 2026.\n\nMais « régler le problème », non. Ce chiffre reste sous la promesse d'un million par an et sous les 1,86 million de l'an 2000. La majorité des expulsés ont été interceptés à la frontière et n'ont jamais été condamnés. Le Pew Research Center estimait que le nombre de sans-papiers restait, à la mi-2025, supérieur au niveau de 2023. Le prix : des dizaines de milliards de dollars et 31 morts en détention en 2025, un record depuis vingt ans.",
+    "detaille": "Les chiffres doivent être datés et attribués, car ceux du gouvernement et des chercheurs divergent. Selon le Migration Policy Institute, les interpellations à la frontière sont passées de 2,1 millions à 444 000 en 2025 : c'est un changement réel. Le MPI estime à environ 660 000 les expulsions sur l'année écoulée et à 980 000 sur les dix-huit premiers mois. L'administration revendique 1,2 million, sans que l'écart soit expliqué ; elle affirme aussi que 1,9 million de personnes se sont « auto-expulsées », sans preuve selon PolitiFact.\n\nQui est expulsé ? Selon le MPI, 69 % des expulsions concernent des personnes interceptées à la frontière, et la plupart des expulsés n'ont jamais été condamnés. En décembre 2025, environ 74 % des près de 70 000 détenus de l'ICE n'avaient aucune condamnation pénale. On est loin de l'image de délinquants dangereux renvoyés chez eux. Et ces expulsions restent inférieures à celles de l'an 2000.\n\nLe coût est massif : 45 Md$ pour la détention et 30 Md$ pour les expulsions votés par le Congrès. Le coût humain aussi : 31 morts en détention en 2025, un record depuis vingt ans. Quant aux sans-papiers, le Pew Research Center en comptait 14 millions en 2023, et leur nombre restait probablement supérieur à ce niveau à la mi-2025. Une politique peut faire peur et faire baisser les arrivées sans « régler » la question.",
+    "empathie": "Beaucoup de gens veulent qu'un gouvernement montre qu'il maîtrise ses frontières. Cette attente est compréhensible ; elle mérite qu'on regarde ce que la méthode Trump a vraiment produit, et à quel prix."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les arrivées ont chuté, donc ça marche.",
+      "reponse": "Les arrivées ont baissé, mais des millions de sans-papiers restent dans le pays et la majorité des expulsés n'ont jamais été condamnés ; le coût humain et financier est énorme."
+    },
+    {
+      "objection": "Trump expulse plus que personne avant lui.",
+      "reponse": "Selon le Migration Policy Institute, les expulsions restent sous les 1,86 million de l'an 2000 et sous la promesse d'un million par an."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la plupart des personnes expulsées n'ont jamais été condamnées ?",
+    "Une politique qui coûte des dizaines de milliards et laisse des millions de sans-papiers dans le pays a-t-elle « réglé le problème » ?"
+  ],
+  "limites": [
+    "Le rapport du Migration Policy Institute d'octobre 2026 n'a pas pu être ouvert ; il a été lu à travers la dépêche de l'Associated Press.",
+    "Les comparaisons avec les mandats précédents dépendent des définitions (refoulements à la frontière ou non) ; PolitiFact et le MPI ne donnent pas les mêmes chiffres pour l'année 2024.",
+    "Aucune estimation du nombre de sans-papiers postérieure à la mi-2025 n'a été lue.",
+    "Le nombre de décès en détention en 2026 n'est connu que jusqu'à la mi-mars."
+  ],
+  "sources": [
+    {
+      "titre": "A New Era of Immigration Enforcement Unfolds in the U.S. Interior and at the Border under Trump 2.0",
+      "organisme": "Migration Policy Institute",
+      "date_publication": "non daté (données jusqu’au 24 octobre 2025)",
+      "url": "https://www.migrationpolicy.org/news/new-era-enforcement-trump-2",
+      "passage": "« MPI estimates that ICE conducted about 340,000 deportations in FY 2025 », 25 % de plus qu'en 2024. La police des frontières (CBP) a enregistré « 444,000 migrant encounters » en 2025, contre 2,1 millions l'année précédente. La loi budgétaire a donné « $45 billion from Congress to build new immigrant detention centers » et « $30 billion to expand enforcement and deportation operations ». « About 35 percent of detainees arrested by ICE had a criminal conviction in September 2025 », contre 65 % en octobre 2024.",
+      "pertinence": "Centre de recherche indépendant spécialisé dans les migrations.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Deportations climb under Trump but fall short of White House target, a new report finds",
+      "organisme": "Associated Press (Rebecca Santana), publié par NBC Boston, sur un rapport du Migration Policy Institute",
+      "date_publication": "22 octobre 2026",
+      "url": "https://www.nbcboston.com/news/national-international/deportations-climb-under-trump-short-target-report/4035756/",
+      "passage": "Le MPI estime à environ 660 000 les expulsions sur la dernière année et à 980 000 sur les dix-huit premiers mois du second mandat, en deçà de la promesse de « 1 million deportations annually ». C'est 26 % de plus que la moyenne annuelle de 2021-2024 sous Joe Biden, mais moins que les « 1.86 million deportations recorded in 2000 ». 69 % des expulsions entre le 20 janvier 2025 et le 31 juillet 2026 concernent des personnes interceptées à la frontière ; « most people deported have never been convicted of a crime ». L'administration revendique 1,2 million de personnes expulsées, un écart non expliqué.",
+      "pertinence": "Agence de presse rendant compte d'une étude indépendante ; le rapport du MPI lui-même n'a pas pu être ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Immigration after one year under Trump: Where do mass deportation efforts stand?",
+      "organisme": "PolitiFact (Maria Ramirez Uribe), republié par WLRN",
+      "date_publication": "23 janvier 2026",
+      "url": "https://www.wlrn.org/immigration/2026-01-23/politifact-fl-immigration-after-one-year-under-trump-where-do-mass-deportation-efforts-stand",
+      "passage": "Le DHS revendiquait 605 000 expulsions depuis le 20 janvier 2025, sans données publiques permettant de vérifier. Le DHS affirme que 1,9 million de personnes se sont « auto-expulsées », sans fournir de preuve. Environ 74 % des près de 70 000 personnes en détention à l'ICE en décembre 2025 n'avaient aucune condamnation pénale. Le Congrès a alloué 170 milliards de dollars à la police de l'immigration.",
+      "pertinence": "Fact-checker américain reconnu.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "U.S. unauthorized immigrant population reached a record 14 million in 2023",
+      "organisme": "Pew Research Center",
+      "date_publication": "21 août 2025",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/",
+      "passage": "« The number of unauthorized immigrants in the United States reached an all-time high of 14 million in 2023. » Entre janvier et juin 2025, cette population « likely declined, possibly by as much as 1 million », mais « likely remains above 2023 levels » à la mi-2025.",
+      "pertinence": "Institut de recherche non partisan ; estimations avec marge d'incertitude.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "ICE detainee deaths hit two-decade high last year",
+      "organisme": "CBS News",
+      "date_publication": "mis à jour le 19 mars 2026",
+      "url": "https://www.cbsnews.com/news/ice-detainee-deaths-two-decade-high-last-year",
+      "passage": "« In 2025, 31 ICE detainees died, a two-decade high, according to a CBS News analysis of ICE records. » Le taux de mortalité, 5,6 pour 10 000 détenus, est le plus élevé depuis 2020. À la mi-mars 2026, 13 décès étaient déjà enregistrés dans l'année.",
+      "pertinence": "Grande chaîne américaine ; analyse des registres de l'ICE.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données annuelles du DHS et des centres de recherche sur l'exercice 2026.",
+  "objections_legitimes": [
+    "Les passages irréguliers à la frontière ont fortement baissé en 2025.",
+    "Un État a le droit de faire respecter ses règles d'entrée et de séjour."
+  ],
+  "publics": {
+    "convaincus": "Les arrivées à la frontière ont baissé, c'est vrai. Mais le centre de recherche MPI compte environ 660 000 expulsions sur un an, moins qu'en l'an 2000, et la plupart des expulsés n'avaient jamais été condamnés. Des millions de sans-papiers sont toujours là, et 31 personnes sont mortes en détention en 2025 : est-ce cela, régler un problème ?",
+    "indecis": "On peut vouloir des frontières maîtrisées sans adopter cette méthode. Les chiffres indépendants montrent une baisse des arrivées, mais des expulsions qui touchent surtout des personnes jamais condamnées, un coût énorme et un record de morts en détention. Il vaut mieux comparer ces résultats aux promesses."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "libertes",
+      "universalite"
+    ],
+    "mecanismes": "La politique d’expulsions massives repose sur la mise en scène de la force : des chiffres officiels gonflés, des arrestations visibles et la promesse de cibler des criminels, alors que la plupart des personnes expulsées n’ont jamais été condamnées.",
+    "consequences": "Des personnes jamais condamnées sont détenues puis expulsées, les décès en détention atteignent un niveau record, et des milliards de dollars vont aux centres de détention plutôt qu’aux services publics.",
+    "democratie": "Quand les données publiques manquent et que les chiffres officiels ne sont pas vérifiables, le débat démocratique sur l’immigration devient impossible.",
+    "propositions": [
+      "Juger une politique migratoire sur des chiffres indépendants et publics, pas sur la communication gouvernementale.",
+      "Refuser la détention de masse et garantir le contrôle indépendant des lieux de rétention.",
+      "Proposer des voies de régularisation pour les personnes installées et qui travaillent."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les interpellations à la frontière américaine ont fortement baissé en un an.",
+        "integration": "Le reconnaître, puis regarder le prix humain et financier et le fait que des millions de sans-papiers restent dans le pays : baisser les arrivées n’est pas régler la question."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "remigration",
+    "trump_expulsions"
+  ],
+  "repond_a": [
+    {
+      "id": "trump_expulsions",
+      "label": "Trump et les expulsions"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "chez eux",
+    "oqtf",
+    "reconduite",
+    "virer",
+    "dehors",
+    "remigration"
+  ]
+}

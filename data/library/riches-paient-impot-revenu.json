@@ -1,0 +1,190 @@
+{
+  "id": "riches-paient-impot-revenu",
+  "type": "idee_recue",
+  "affirmation": "Les 10 % les plus riches paient déjà presque tout l'impôt sur le revenu.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "10 % les plus riches",
+    "riches paient tout",
+    "impot sur le revenu riches",
+    "concentration de l impot",
+    "les riches paient deja",
+    "matraquage fiscal riches",
+    "qui paie l impot",
+    "progressivite de l impot"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "C'est vrai pour l'impôt sur le revenu : selon la DGFiP, les 10 % des foyers les plus aisés en paient environ les trois quarts. Mais cet impôt ne représente qu'environ 7 % de tous les impôts et taxes ; la TVA et la CSG, payées par tous, rapportent bien plus. Tous prélèvements confondus, l'Insee trouve un taux à peu près plat, légèrement dégressif aux extrémités, et l'IPP montre que les milliardaires paient proportionnellement moins que les 0,1 % les plus riches.",
+  "contexte": "L'argument revient à chaque débat sur la taxation des hauts patrimoines, par exemple autour de la taxe Zucman ou du retour de l'ISF.",
+  "explication": "Il faut distinguer un impôt précis (l'impôt sur le revenu, très concentré) de l'ensemble des prélèvements (TVA, CSG, cotisations, impôts sur les sociétés), et regarder le taux payé par rapport aux revenus, pas seulement les montants.",
+  "faits": [
+    {
+      "fait": "Selon la DGFiP, les 10 % des foyers les plus aisés acquittent 76 % de l'impôt sur le revenu net.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La concentration de l'impôt sur le revenu est réelle : c'est le point de départ honnête de la réponse.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "76 %"
+    },
+    {
+      "fait": "L'impôt sur le revenu rapporte environ 90 milliards d'euros, soit 7 % des quelque 1 200 milliards d'impôts et taxes ; la TVA rapporte plus du double et la CSG environ 150 milliards.",
+      "periode": "2023-2025",
+      "perimetre": "France",
+      "explication": "L'impôt sur le revenu n'est qu'une petite partie de ce que paient les ménages.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "7 %"
+    },
+    {
+      "fait": "Selon l'Insee, l'ensemble des prélèvements représente un taux voisin de 55 % des revenus sur la plus grande partie de la distribution, et il est légèrement dégressif aux extrémités ; les taxes sur la consommation pèsent davantage sur les modestes.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Tous prélèvements confondus, le système est à peu près proportionnel, pas fortement progressif.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "55 %"
+    },
+    {
+      "fait": "Selon l'Institut des politiques publiques, le taux d'imposition effectif passe de 46 % pour les 0,1 % les plus riches à 26 % pour les milliardaires, dont l'essentiel du revenu reste dans leurs sociétés.",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Au tout sommet, l'impôt devient dégressif.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "26 %"
+    },
+    {
+      "fait": "Selon Observatoire des inégalités, les 10 % les plus riches ont déclaré 62 700 euros de revenus par personne en 2023 et payé en moyenne 17,5 % d'impôt sur le revenu ; le 1 % le plus riche finance un tiers de cet impôt.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les plus aisés contribuent fortement à cet impôt, parce qu'ils concentrent une grande part des revenus.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "17,5 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, les 10 % les plus aisés paient environ les trois quarts de l'impôt sur le revenu. Mais cet impôt ne pèse qu'environ 7 % des impôts. La TVA et la CSG, tout le monde les paie. Et au tout sommet, les milliardaires paient proportionnellement moins que les très riches.",
+    "moyen": "Le chiffre est juste : selon la DGFiP, les 10 % des foyers les plus aisés paient 76 % de l'impôt sur le revenu. C'est logique, car cet impôt est progressif et ces foyers concentrent une grande part des revenus.\n\nMais l'impôt sur le revenu ne représente qu'environ 7 % des impôts et taxes. La TVA rapporte plus du double et la CSG environ 150 milliards : tout le monde les paie, y compris les foyers « non imposables ». Tous prélèvements confondus, l'Insee trouve un taux à peu près plat, autour de 55 % des revenus. Et l'IPP montre qu'au tout sommet, les milliardaires paient 26 %, contre 46 % pour les 0,1 % les plus riches.",
+    "detaille": "Partons du fait. Selon la DGFiP, les 10 % des foyers les plus aisés acquittent 76 % de l'impôt sur le revenu net, et selon l'Observatoire des inégalités le 1 % le plus riche en paie un tiers. Ces foyers ont déclaré en moyenne 62 700 euros par personne en 2023 et payé 17,5 % d'impôt sur le revenu.\n\nMais regarder un seul impôt trompe. L'impôt sur le revenu rapporte environ 90 milliards, soit 7 % des quelque 1 200 milliards d'impôts et taxes. La TVA rapporte plus du double et la CSG environ 150 milliards. Ces prélèvements sont proportionnels, voire plus lourds pour les modestes dans le cas de la consommation. Résultat, selon l'Insee : l'ensemble des prélèvements tourne autour de 55 % des revenus pour la plupart des ménages, et devient légèrement dégressif aux extrémités, notamment parce que les plus aisés épargnent davantage.\n\nAu tout sommet, l'Institut des politiques publiques a mesuré que le taux effectif tombe de 46 % pour les 0,1 % les plus riches à 26 % pour les milliardaires : leurs revenus restent dans des sociétés et échappent à l'impôt sur le revenu. Dire que « les riches paient déjà tout » mélange donc un impôt et l'ensemble du système. La vraie question est celle du taux payé par rapport aux revenus et au patrimoine.",
+    "empathie": "Beaucoup de gens entendent que la moitié des foyers ne paient pas d'impôt sur le revenu et se sentent seuls à payer. C'est compréhensible, mais tout le monde paie la TVA et la CSG."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Plus de la moitié des Français ne paient pas d'impôt.",
+      "reponse": "Ils ne paient pas l'impôt sur le revenu, mais ils paient la TVA et la CSG, qui rapportent bien davantage."
+    },
+    {
+      "objection": "Si on taxe plus les riches, ils partiront.",
+      "reponse": "Le constat de l'IPP porte sur le taux payé au sommet : il est plus bas que celui des simples très hauts revenus. On peut corriger cette anomalie en visant les revenus laissés dans les sociétés."
+    }
+  ],
+  "questions": [
+    "Savais-tu que l'impôt sur le revenu ne pèse qu'environ 7 % de tous les impôts ?",
+    "Trouves-tu normal qu'un milliardaire paie un taux plus bas qu'un cadre très aisé ?"
+  ],
+  "limites": [
+    "La part de 76 % vient d'un article citant le bulletin DGFiP Statistiques n° 32 ; le bulletin lui-même n'a pas pu être ouvert, et la page Vie publique sur l'impôt sur le revenu non plus.",
+    "L'étude de l'Insee porte sur 2019 et celle de l'IPP sur 2016, avant la suppression de l'ISF.",
+    "Le taux de 55 % de l'Insee inclut les cotisations sociales, qui ouvrent des droits (retraite, chômage)."
+  ],
+  "sources": [
+    {
+      "titre": "Bercy confirme : ce sont toujours les mêmes qui payent",
+      "organisme": "Le Journal de l'Économie (Jacques Debonsens), d'après DGFiP Statistiques n° 32 (avril 2025)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.journaldeleconomie.fr/bercy-confirme-ce-sont-toujours-les-memes-qui-payent/",
+      "passage": "L'article cite la Direction générale des finances publiques : « les 10 % des foyers les plus aisés contribuent à 76 % de l’impôt net ». Il reprend aussi Le Figaro : « les 0,1 % les plus hauts revenus paient, à eux seuls, plus de 10 % de tout l’impôt sur le revenu ».",
+      "pertinence": "Article éditorial d'un quotidien économique en ligne, qui reprend une statistique de la DGFiP ; le bulletin original n'a pas pu être ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'impôt sur le revenu : comment réduit-il les inégalités ?",
+      "organisme": "Observatoire des inégalités (Louis Maurin)",
+      "date_publication": "22 mai 2025",
+      "url": "https://www.inegalites.fr/L-impot-sur-le-revenu-comment-reduit-il-les-inegalites",
+      "passage": "Les 10 % les plus riches ont déclaré 62 700 euros de revenus annuels par personne en 2023 et « paient en moyenne 17,5 % d’impôt ». « Le 0,2 % du sommet finance 14 % de l’ensemble de l’impôt sur le revenu et le 1 % le plus riche, un tiers. » Les recettes de l'impôt sur le revenu (environ 90 milliards d'euros) « ne représentent que 7 % de l’ensemble des impôts et taxes, d’un total de 1 200 milliards ». La TVA « vaut à elle seule plus du double » ; la CSG « représente 150 milliards d’euros ». « Notre système est dans son immense majorité proportionnel » : les impôts progressifs pèsent « moins de 10 % » des impôts.",
+      "pertinence": "Association indépendante d'analyse des inégalités, à partir de données publiques ; orientée vers la réduction des inégalités.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Quels impôts les milliardaires paient-ils ? (Note IPP n° 92)",
+      "organisme": "Institut des politiques publiques (Laurent Bach, Antoine Bozio, Arthur Guillouzouic, Clément Malgouyres)",
+      "date_publication": "juin 2023",
+      "url": "https://www.ipp.eu/wp-content/uploads/2023/09/Note_IPP_92-OLD.pdf",
+      "passage": "Sur données 2016, le taux d'imposition effectif (impôts directs, rapportés au revenu économique) est progressif jusqu'au sommet puis devient dégressif, « passant de 46% pour les 0,1% les plus riches, à 26% pour les 0,0002% les plus riches », c'est-à-dire les milliardaires. L'impôt sur le revenu et l'ISF ne pèsent qu'une petite part de leur revenu, car l'essentiel de ce revenu reste dans les sociétés qu'ils contrôlent ; l'impôt sur les sociétés est le principal impôt qu'ils supportent. La TVA et certains impôts ne sont pas inclus.",
+      "pertinence": "Institut de recherche académique (École d’économie de Paris, Crest) ; données de 2016, antérieures à la suppression de l’ISF.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "La redistribution élargie, incluant l'ensemble des transferts monétaires et les services publics, améliore le niveau de vie de 57 % des personnes (Insee Analyses n° 88)",
+      "organisme": "Insee (Mathias André, Jean-Marc Germain, Michaël Sicsic)",
+      "date_publication": "19 septembre 2023",
+      "url": "https://insee.fr/fr/statistiques/7669723",
+      "passage": "Données 2019. Rapportés aux revenus, les prélèvements sont « légèrement dégressifs aux extrémités de la distribution des niveaux de vie » et varient peu ailleurs, « autour d'une valeur de 55 % ». Pour les 10 % les plus aisés, le taux baisse « principalement en raison d'une hausse de l'épargne ». Les impôts sur le revenu et le patrimoine sont progressifs ; les taxes sur les produits pèsent davantage sur les ménages modestes. L'Insee appelle à la prudence sur les extrémités, moins bien mesurées.",
+      "pertinence": "Statistique publique de référence ; données 2019.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveau bulletin DGFiP sur l'impôt sur le revenu et nouvelles études sur les très hauts patrimoines.",
+  "objections_legitimes": [
+    "L'impôt sur le revenu est effectivement très concentré sur les foyers aisés.",
+    "Les plus aisés paient en montant beaucoup plus que les autres, ce qui est le principe d'un impôt progressif."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : l'impôt sur le revenu est payé surtout par les plus aisés. Mais c'est environ 7 % des impôts ; la TVA et la CSG, ta famille les paie à chaque achat et sur chaque salaire. Et les milliardaires paient en proportion moins que les très hauts salaires, selon l'IPP.",
+    "indecis": "Le chiffre circule et il est juste pour l'impôt sur le revenu. Pour juger, il faut regarder tous les prélèvements : l'Insee trouve un taux à peu près plat, autour de 55 % des revenus. Ce n'est donc pas « tout sur les riches », et au sommet le taux baisse même."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "solidarite"
+    ],
+    "mecanismes": "L’argument isole l’impôt le plus progressif pour faire oublier les prélèvements proportionnels, comme la TVA et la CSG, que paient tous les ménages. Au sommet, les revenus laissés dans les sociétés échappent à l’impôt sur le revenu, si bien que les plus grandes fortunes paient proportionnellement moins.",
+    "consequences": "Le sentiment que « les riches paient déjà tout » sert à bloquer toute réforme de la fiscalité du patrimoine, pendant que les ménages modestes supportent une part lourde de la fiscalité sur la consommation.",
+    "democratie": "Le consentement à l’impôt repose sur l’idée que chacun contribue selon ses moyens ; quand les plus fortunés paient un taux plus faible que les cadres aisés, cette promesse républicaine s’abîme.",
+    "propositions": [
+      "Imposer les revenus conservés dans les holdings et instaurer un impôt plancher sur les très hauts patrimoines.",
+      "Rendre l’ensemble des prélèvements plus progressif, en allégeant la fiscalité indirecte sur les produits de première nécessité."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les foyers les plus aisés acquittent effectivement l’essentiel de l’impôt sur le revenu, selon la DGFiP.",
+        "integration": "Le reconnaître d’emblée, puis élargir le regard à l’ensemble des prélèvements et au taux payé par rapport aux revenus."
+      }
+    ]
+  },
+  "concepts": [
+    "fiscalite",
+    "riches_entreprises",
+    "riches_ir"
+  ],
+  "repond_a": [
+    {
+      "id": "riches_ir",
+      "label": "Qui paie l’impôt sur le revenu"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi"
+  ]
+}

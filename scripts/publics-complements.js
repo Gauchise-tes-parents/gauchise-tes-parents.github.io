@@ -1,7 +1,7 @@
 // Réponses selon le public (v14) pour des fiches dont le générateur n'existe plus ou n'est plus relancé.
 // Textes écrits UNIQUEMENT à partir du contenu déjà sourcé de chaque fiche (résumé et faits).
 // Appliqué par scripts/corrections-v10.js (idempotent : remplace le champ « publics » par la version ci-dessous).
-// Ajouts du 7 novembre 2026 (passages de 12 h et de 20 h 15) et du 8 novembre 2026 (trois passages).
+// Ajouts du 7 novembre 2026 (passages de 12 h et de 20 h 15) et du 8 novembre 2026 (trois passages), puis du 11 novembre 2026 (passage de 12 h 17).
 export const PUBLICS = {
   'immigres-aides': {
     convaincus: "Pour toucher le RSA, un étranger non européen doit en principe avoir un titre de séjour qui l'autorise à travailler depuis au moins cinq ans. Et selon l'OCDE, dans presque tous les pays étudiés, on dépense moins par immigré que par natif. Si leur contribution nette est plus faible, c'est surtout parce qu'ils ont moins souvent un emploi, pas parce qu'ils touchent plus.",
@@ -246,5 +246,30 @@ export const PUBLICS = {
   'statistiques-prouvent-insecurite-immigration': {
     convaincus: "Oui, les étrangers sont surreprésentés parmi les mis en cause, 18 % pour 7 % de la population en 2019 : je ne le nie pas. Mais ces chiffres comptent des suspects, pas des coupables, et ne tiennent compte ni de l'âge, ni du sexe, ni de la pauvreté. Une surreprésentation n'est pas une preuve que l'immigration cause l'insécurité.",
     indecis: "La surreprésentation des étrangers dans les statistiques est réelle, et il est légitime de s'interroger. Mais les statistiques montrent une association, pas une cause : jeunes hommes pauvres et quartiers défavorisés pèsent beaucoup. Les études qui tiennent compte de ces facteurs trouvent un effet limité.",
+  },
+  // 11 novembre 2026, passage de 12 h 17
+  'islamo-gauchisme-judeo-bolchevisme-comparaison': {
+    convaincus: "Personne de sérieux ne dit que les deux expressions sont identiques : le « judéo-bolchevisme » a servi une politique d'extermination. Mais le mécanisme se ressemble : coller ensemble une religion et un camp politique pour en faire un bloc suspect. Tu peux critiquer une alliance précise sans accuser des millions de gens par association.",
+    indecis: "La comparaison divise les chercheurs eux-mêmes, et c'est normal : les contextes et la gravité historique sont très différents. Ce qu'elle éclaire, c'est une méthode de propagande, l'amalgame d'un groupe et d'une idéologie. Retenir cette méthode aide à reconnaître les discours qui fabriquent des ennemis intérieurs.",
+  },
+  'judeo-bolchevisme-histoire': {
+    convaincus: "Ce n'était pas « juste » de l'anticommunisme : le mythe faisait du communisme un instrument de domination juive, donc combattre les communistes revenait à combattre les Juifs. L'historien Paul Hanebrink montre son rôle central dans l'idéologie nazie. En France, sur 330 000 Juifs en 1939, 76 000 ont été déportés et assassinés.",
+    indecis: "On peut être anticommuniste sans être antisémite, et beaucoup l'étaient. Le judéo-bolchevisme, c'était autre chose : un mythe qui désignait une population entière comme l'ennemi. Sous l'Occupation, des expositions à Paris et l'Affiche rouge de 1944 l'ont diffusé, avec le soutien de Vichy.",
+  },
+  'melenchon-crie': {
+    convaincus: "Oui, il hausse souvent le ton, et la scène de la perquisition de 2018 lui a valu une condamnation : je ne la défends pas. Mais ses grands discours sont des textes préparés et lus. Et le volume de sa voix ne dit rien de la justesse de ses propositions : juge-les sur le fond.",
+    indecis: "Son style divise : ses soutiens le trouvent courageux, ses critiques agressif, selon une étude de la Fondation Jean-Jaurès et de l'Ifop. Certains écarts de comportement sont critiquables. Mais on peut juger un programme sans s'arrêter au ton de celui qui le porte.",
+  },
+  'melenchon-dangereux-democratie': {
+    convaincus: "Le Conseil d'État a seulement jugé que classer LFI à l'extrême gauche n'était pas une erreur manifeste : il n'a pas dit que le mouvement était antidémocratique. LFI se présente aux élections et veut changer la Constitution par référendum. Ses attaques contre la justice et la police se discutent, mais un parti qui demande plus de vote, ce n'est pas un danger pour la démocratie.",
+    indecis: "Les inquiétudes ont une base : Jean-Luc Mélenchon a été condamné en 2019 pour rébellion lors d'une perquisition, et ses critiques de la justice sont vives. Mais le programme de LFI propose une Assemblée constituante élue et un référendum d'initiative citoyenne. On peut contester ce projet sans y voir une menace contre le vote.",
+  },
+  'resistance-communistes-etrangers': {
+    convaincus: "De Gaulle et la droite républicaine ont eu leur place dans la Résistance, personne ne le nie : le CNR comptait deux partis de droite. Mais il réunissait aussi la CGT et les communistes. Et Missak Manouchian, réfugié arménien et communiste, est au Panthéon depuis 2024 : c'est la République qui le reconnaît.",
+    indecis: "La Résistance a rassemblé des gens très différents, de la droite aux communistes, Français et étrangers. Les communistes ont aussi exagéré leur rôle avec le slogan des « 75 000 fusillés » : le dictionnaire des fusillés en recense 4 425. Retenir la diversité de la Résistance, c'est rester fidèle à l'histoire.",
+  },
+  'souverainete-industrielle-alimentaire-energetique': {
+    convaincus: "Tu as raison de t'inquiéter : l'industrie est passée de 17 % à 11 % du PIB entre 1995 et 2017, avec environ 900 000 emplois perdus. Défendre l'emploi, les savoir-faire et la capacité à produire, c'est un enjeu patriotique et social à la fois. Ce sont les ouvriers et les paysans qui paient ces pertes : la gauche n'a aucune raison de leur laisser ce combat.",
+    indecis: "La perte de capacité à produire est réelle : l'excédent agroalimentaire a fondu entre 2019 et 2024, et la facture énergétique reste lourde. Des emplois industriels sont revenus depuis 2017, ce qui montre qu'une politique peut agir. La question est de savoir qui en profite : les salariés et les territoires, ou seulement les actionnaires.",
   },
 };

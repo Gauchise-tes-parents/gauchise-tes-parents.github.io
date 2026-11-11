@@ -1,0 +1,216 @@
+{
+  "id": "intermittents-spectacle-assistes",
+  "type": "idee_recue",
+  "affirmation": "Les intermittents du spectacle sont des assistés payés par nos impôts.",
+  "volet": "social",
+  "sous_theme": "Chômage",
+  "rubriques": [],
+  "mots_cles": [
+    "intermittents du spectacle",
+    "intermittents assistes",
+    "regime des intermittents",
+    "annexes 8 et 10",
+    "intermittence",
+    "chomage des artistes",
+    "507 heures",
+    "intermittents nos impots"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Les intermittents sont indemnisés par l'assurance chômage, financée surtout par des cotisations sur les salaires et, depuis 2019, par une fraction de CSG ; ce n'est pas le budget de l'État. Pour être indemnisé, il faut avoir travaillé au moins 507 heures en un an. Le régime coûte bien plus qu'il ne rapporte (1,89 Md€ de dépenses pour 472 M€ de contributions en 2025) : c'est une solidarité réelle entre salariés, assumée pour des métiers faits de contrats courts, dans un secteur culturel qui pèse 2 % de l'économie.",
+  "contexte": "Le régime des intermittents revient régulièrement dans les débats sur le déficit de l'assurance chômage et sur le financement de la culture.",
+  "explication": "Il faut distinguer qui finance (cotisations, CSG ou impôt d'État), ce que coûte le régime, et à quoi il sert pour des métiers où l'emploi est fait de contrats de quelques jours.",
+  "faits": [
+    {
+      "fait": "Selon Unédic, l'assurance chômage est financée principalement par la cotisation patronale de 4 % des salaires (44 Md€ en 2024) et, depuis 2019, par une fraction de la CSG activité ; les intermittents paient en plus une cotisation salariale de 2,4 %.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Ce sont surtout des cotisations, avec une part de CSG, et non le budget de l'État.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "44 Md€"
+    },
+    {
+      "fait": "Selon Unédic, pour être indemnisé, un intermittent doit avoir travaillé au moins 507 heures dans les métiers du spectacle au cours des 12 derniers mois.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "L'indemnisation suppose un travail régulier : ce n'est pas un revenu sans activité.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "507 heures"
+    },
+    {
+      "fait": "En 2024, près de 305 000 personnes ont travaillé comme intermittents du spectacle, pour 424 heures en moyenne par salarié.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Beaucoup d'intermittents travaillent sans atteindre le seuil d'indemnisation.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "305 000"
+    },
+    {
+      "fait": "Selon Unédic, en 2025, environ 126 500 intermittents étaient indemnisés en moyenne chaque mois, pour une dépense moyenne de 13 410 euros brut par allocataire sur l'année.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les montants versés restent modestes par personne.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "126 500"
+    },
+    {
+      "fait": "Selon Unédic, en 2025, les dépenses d'indemnisation des intermittents atteignent environ 1,89 Md€, pour 472 M€ de contributions, malgré un taux de cotisation total de 11,4 %.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le régime est structurellement déficitaire : c'est un fait défavorable, financé par la solidarité des autres cotisants.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,89 Md€"
+    },
+    {
+      "fait": "Les branches culturelles produisent 49,5 milliards d'euros de valeur ajoutée en 2023, soit 2,0 % de l'économie ; le spectacle vivant est la deuxième branche après l'audiovisuel.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le secteur qui emploie les intermittents crée une richesse importante.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "49,5 milliards"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les intermittents sont indemnisés par l'assurance chômage, financée surtout par des cotisations, pas par le budget de l'État. Il faut avoir travaillé 507 heures dans l'année. Le régime coûte plus qu'il ne rapporte : c'est une solidarité entre salariés, au service d'un secteur qui pèse 2 % de l'économie.",
+    "moyen": "D'abord, qui paie ? L'assurance chômage est financée surtout par la cotisation patronale sur les salaires, et depuis 2019 par une part de CSG. Les intermittents et leurs employeurs cotisent même davantage que les autres salariés : 11,4 % au total.\n\nEnsuite, l'indemnisation suppose du travail : au moins 507 heures en un an. En 2024, près de 305 000 personnes ont travaillé comme intermittents, et environ 126 500 étaient indemnisées en moyenne chaque mois en 2025. Le régime est déficitaire, il faut le dire : 1,89 Md€ de dépenses pour 472 M€ de contributions. C'est un choix de solidarité pour des métiers faits de contrats courts, dans un secteur culturel qui produit 49,5 milliards de valeur ajoutée.",
+    "detaille": "Le mot « assisté » ne correspond pas aux règles. Pour être indemnisé, un intermittent doit avoir travaillé au moins 507 heures dans le spectacle au cours des douze derniers mois. Or, selon France Travail, les près de 305 000 intermittents de 2024 ont travaillé en moyenne 424 heures : beaucoup n'atteignent pas le seuil. En 2025, environ 126 500 étaient indemnisés chaque mois, pour une dépense moyenne de 13 410 euros brut sur l'année.\n\nCe ne sont pas « nos impôts » au sens du budget de l'État. L'assurance chômage est financée surtout par les cotisations patronales (44 Md€ en 2024) et, depuis 2019, par une fraction de la CSG, qui a remplacé la cotisation des salariés. Les intermittents, eux, gardent une cotisation salariale de 2,4 %, et le taux total sur leurs salaires atteint 11,4 %.\n\nLe régime n'est pas à l'équilibre : en 2025, 1,89 Md€ de dépenses pour 472 M€ de contributions. Cet écart est financé par l'ensemble des cotisants. C'est un choix ancien, né en 1936 pour le cinéma, qui permet à des techniciens et des artistes de vivre entre deux contrats de quelques jours. Sans lui, festivals, tournages et spectacles dépendraient d'une main-d'œuvre encore plus précaire, dans un secteur qui pèse 2 % de l'économie.",
+    "empathie": "Il peut sembler injuste que certains touchent le chômage entre deux contrats quand d'autres n'y ont pas droit. Cette impression mérite une réponse précise sur les règles et sur qui paie."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils touchent le chômage sans travailler.",
+      "reponse": "Il faut au moins 507 heures de travail dans l'année ; beaucoup d'intermittents n'atteignent pas ce seuil et ne sont pas indemnisés."
+    },
+    {
+      "objection": "Leur régime creuse le déficit de l'assurance chômage.",
+      "reponse": "C'est vrai que les dépenses dépassent nettement les contributions ; c'est une solidarité assumée pour des métiers à contrats courts, qui peut se débattre sans parler d'assistanat."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'il faut 507 heures de travail par an pour être indemnisé ?",
+    "Comment payer un technicien de festival entre deux contrats de quelques jours, sinon ?"
+  ],
+  "limites": [
+    "La CSG est un impôt : depuis 2019, une partie de l'indemnisation est donc financée par un prélèvement fiscal affecté ; sa part exacte n'a pas été trouvée dans une source lue.",
+    "Aucun rapport récent de la Cour des comptes sur les intermittents n'a été lu.",
+    "Le nombre de salariés intermittents (2024) et celui des indemnisés (2025) ne portent pas sur la même année."
+  ],
+  "sources": [
+    {
+      "titre": "Les intermittents du spectacle couverts par l'Assurance chômage en 2025",
+      "organisme": "Unédic (Geoffroy Drouard)",
+      "date_publication": "22 septembre 2026",
+      "url": "https://www.unedic.org/publications/les-intermittents-du-spectacle-couverts-par-lassurance-chomage-en-2025",
+      "passage": "En 2025, environ 126 500 allocataires sont indemnisés en moyenne chaque mois au titre des annexes 8 et 10 (+4 %), sur 141 000 couverts. Les dépenses d'indemnisation atteignent environ 1,89 Md€ (850 M€ pour l'annexe 8, 1 100 M€ pour l'annexe 10). Les contributions s'élèvent à 472 M€, avec un taux total de 11,4 % (4 % de droit commun et 7,4 % de contribution spécifique). La dépense moyenne par allocataire est de 13 410 € brut sur l'année.",
+      "pertinence": "Organisme paritaire gestionnaire de l'assurance chômage.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Comprendre le financement de l'Assurance chômage",
+      "organisme": "Unédic",
+      "date_publication": "page consultée le 11 novembre 2026 (non datée)",
+      "url": "https://www.unedic.org/a-propos/comprendre-le-financement-de-lassurance-chomage",
+      "passage": "Les recettes viennent principalement des cotisations : la cotisation patronale de 4 % du salaire brut a rapporté 44 Md€ en 2024. Depuis janvier 2019, une fraction de la CSG « activité » est affectée à l'Assurance chômage et remplace la part salariale. Les intermittents du spectacle conservent une cotisation salariale de 2,4 % du salaire brut.",
+      "pertinence": "Organisme paritaire gestionnaire de l'assurance chômage.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'indemnisation des intermittents du spectacle par l'Assurance chômage",
+      "organisme": "Unédic (Adrien Calas)",
+      "date_publication": "24 janvier 2022",
+      "url": "https://www.unedic.org/publications/lindemnisation-des-intermittents-du-spectacle-par-lassurance-chomage",
+      "passage": "Pour être indemnisé, il faut « au moins 507 heures de travail dans les métiers du spectacle durant les 12 mois » précédant la fin du dernier contrat. Le régime, né en 1936 pour le cinéma, vise à « tenir compte des spécificités des métiers du spectacle », faits de missions courtes. En 2019, environ 280 000 salariés étaient intermittents et 100 000 ont été indemnisés ; les dépenses étaient d'environ 1,4 Md€ pour 400 M€ de recettes.",
+      "pertinence": "Organisme paritaire gestionnaire de l'assurance chômage ; données 2019.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'emploi intermittent dans le spectacle au cours de l'année 2024 (Statistiques et indicateurs n° 25.029)",
+      "organisme": "France Travail",
+      "date_publication": "décembre 2025",
+      "url": "https://www.francetravail.org/files/live/sites/peorg/files/images/Statistiques%20et%20analyses/Intermittents/si_25.029_intermittents_2024.pdf",
+      "passage": "En 2024, « près de 305 000 personnes » ont travaillé comme intermittents du spectacle (−2,3 % sur un an), pour une masse salariale de 3,0 milliards d'euros et « 424 heures en moyenne par salarié contre 415 heures en 2023 ».",
+      "pertinence": "Statistique de l’opérateur public de l’emploi.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le poids économique direct de la culture en 2023 (Culture chiffres 2025-2)",
+      "organisme": "Ministère de la Culture, DEPS (Nicolas Pietrzyk)",
+      "date_publication": "17 octobre 2025",
+      "url": "https://www.culture.gouv.fr/espace-documentation/statistiques-ministerielles-de-la-culture2/publications/collections-de-synthese/culture-chiffres-2007-2026/le-poids-economique-direct-de-la-culture-en-2023-cc-2025-2",
+      "passage": "La valeur ajoutée des branches culturelles atteint 49,5 milliards d'euros en 2023, soit 2,0 % de l'économie ; l'audiovisuel est la première branche culturelle, suivie du spectacle vivant, qui progresse de 6 % en volume en 2023.",
+      "pertinence": "Service statistique ministériel.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Nouvelle publication annuelle de l'Unédic sur les annexes 8 et 10.",
+  "objections_legitimes": [
+    "Le régime des intermittents est déficitaire et financé en partie par les autres cotisants.",
+    "Certains employeurs peuvent abuser des contrats courts en comptant sur l'indemnisation."
+  ],
+  "publics": {
+    "convaincus": "Je comprends que ça agace de voir un régime à part. Mais pour toucher le chômage, un intermittent doit avoir travaillé au moins 507 heures dans l'année, et ce sont surtout des cotisations sur les salaires qui paient, pas le budget de l'État. Le régime est déficitaire, c'est vrai : c'est une solidarité entre salariés, pas de l'assistanat.",
+    "indecis": "Le régime coûte plus qu'il ne rapporte, et c'est un vrai débat. Mais il concerne des gens qui travaillent, par contrats très courts, dans un secteur qui produit 2 % de la richesse du pays. La question est de savoir comment le financer, pas de traiter ces travailleurs d'assistés."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "solidarite",
+      "emancipation"
+    ],
+    "mecanismes": "Le mot « assisté » transforme des travailleurs aux contrats très courts en profiteurs. Il masque le fait que l’intermittence arrange d’abord les employeurs du spectacle et de l’audiovisuel, qui embauchent à la journée.",
+    "consequences": "Sans indemnisation entre deux contrats, techniciens et artistes quitteraient le métier, et la création, les festivals et la vie culturelle des territoires s’appauvriraient.",
+    "democratie": "L’accès à la culture pour tous suppose des travailleurs de la culture qui puissent vivre de leur métier, pas seulement ceux qui ont des ressources familiales.",
+    "propositions": [
+      "Maintenir la solidarité interprofessionnelle de l’assurance chômage pour les métiers à emploi discontinu.",
+      "Faire davantage contribuer les grands employeurs qui abusent des contrats courts."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le régime des intermittents verse nettement plus qu’il ne perçoit de contributions, et une part de CSG finance l’assurance chômage.",
+        "integration": "L’assumer comme une solidarité entre salariés, débattue et encadrée, et viser les abus des employeurs plutôt que les travailleurs."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "prestations",
+    "fiscalite",
+    "cout",
+    "intermittents"
+  ],
+  "repond_a": [
+    {
+      "id": "intermittents",
+      "label": "Intermittents du spectacle"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux"
+  ]
+}

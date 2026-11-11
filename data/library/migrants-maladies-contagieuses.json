@@ -1,0 +1,210 @@
+{
+  "id": "migrants-maladies-contagieuses",
+  "type": "idee_recue",
+  "affirmation": "Les migrants ramènent des maladies comme la tuberculose et la gale.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et asile",
+  "rubriques": [],
+  "mots_cles": [
+    "migrants maladies",
+    "migrants tuberculose",
+    "migrants gale",
+    "immigres maladies contagieuses",
+    "maladies importees",
+    "tuberculose immigration",
+    "gale migrants",
+    "refugies maladies"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La tuberculose est plus fréquente chez les personnes nées à l'étranger qu'en population générale, c'est un fait. Mais selon l'OMS Europe et l'ECDC, le risque que les migrants transmettent des maladies à la population d'accueil est très faible. La tuberculose est d'abord une maladie de la pauvreté (elle touche aussi fortement les sans-abri et les détenus), et la gale circule largement en France, indépendamment des migrations ; dans les campements, ce sont les conditions de vie qui la propagent.",
+  "contexte": "L'image du migrant porteur de maladies est ancienne. Elle revient à chaque crise migratoire et lors des évacuations de campements.",
+  "explication": "Il faut distinguer la fréquence d'une maladie dans un groupe, le risque de transmission à la population et les causes : pays d'origine, conditions du voyage et conditions de vie en France.",
+  "faits": [
+    {
+      "fait": "En France, l'incidence de la tuberculose est de 6,6 cas pour 100 000 habitants en 2024, contre 7,1 en 2023, selon Santé publique France.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "La maladie est rare et recule ; il n'y a pas d'épidémie.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "6,6/100 000"
+    },
+    {
+      "fait": "Chez les personnes nées hors de France, l'incidence atteint 32 pour 100 000, environ 15 fois plus que chez les personnes nées en France ; elle est d'environ 64 chez les personnes sans domicile et de 46 chez les personnes incarcérées.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La tuberculose est plus fréquente chez les personnes nées à l'étranger (fait défavorable), mais c'est aussi une maladie de la pauvreté.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "32/100 000"
+    },
+    {
+      "fait": "Parmi 11 968 personnes réfugiées suivies par le Comede entre 2009 et 2018, la prévalence de la tuberculose était de 400 pour 100 000 ; le manque de logement et d'accès à la couverture maladie retarde les soins et le dépistage.",
+      "periode": "2009-2018",
+      "perimetre": "France (Comede)",
+      "explication": "La précarité et les obstacles administratifs empêchent de soigner tôt.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "400/100 000"
+    },
+    {
+      "fait": "Selon l'OMS Europe, le risque que les réfugiés et les migrants transmettent des maladies transmissibles à la population hôte est « très faible » ; une part importante des migrants séropositifs ont contracté le VIH après leur arrivée en Europe.",
+      "periode": "2019",
+      "perimetre": "Europe",
+      "explication": "Les migrants sont surtout exposés aux maladies, pas une menace pour les autres.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'agence européenne ECDC estime que les migrants ne représentent généralement pas une menace sanitaire pour la population d'accueil, et recommande de dépister chez eux la tuberculose active et latente.",
+      "periode": "2018",
+      "perimetre": "Union européenne",
+      "explication": "La réponse recommandée est le dépistage et l'accès aux soins.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Santé publique France estimait en 2012 l'incidence de la gale à au moins 328 cas pour 100 000 habitants par an en France, en nette hausse depuis le milieu des années 2000.",
+      "periode": "1999-2010",
+      "perimetre": "France",
+      "explication": "La gale circule largement dans toute la population.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "328/100 000"
+    }
+  ],
+  "argumentaires": {
+    "court": "La tuberculose est plus fréquente chez les personnes nées à l'étranger, mais l'OMS Europe juge « très faible » le risque qu'elles la transmettent à la population. C'est une maladie de la pauvreté. Et la gale touche déjà toute la France, migrants ou pas.",
+    "moyen": "Il ne faut pas nier les chiffres : selon Santé publique France, l'incidence de la tuberculose est d'environ 32 pour 100 000 chez les personnes nées hors de France, contre 6,6 en moyenne. Mais elle est aussi très élevée chez les sans-abri et les détenus : c'est une maladie de la misère et de la promiscuité.\n\nL'OMS Europe et l'agence européenne ECDC le disent clairement : le risque de transmission à la population d'accueil est très faible. Quant à la gale, Santé publique France estimait déjà en 2012 qu'elle touchait au moins 328 personnes pour 100 000 chaque année en France. Dans les campements sans eau, elle se propage : la réponse, c'est l'hygiène, le logement et les soins.",
+    "detaille": "Commençons par ce qui est vrai. Selon Santé publique France, l'incidence de la tuberculose chez les personnes nées hors de France atteint 32 pour 100 000, environ 15 fois plus que chez les personnes nées en France. Une étude du Comede auprès de 11 968 personnes réfugiées trouve une prévalence de 400 pour 100 000.\n\nMais il faut regarder la suite. La tuberculose recule en France : 6,6 cas pour 100 000 en 2024. Elle touche aussi fortement les personnes sans domicile et les détenus : c'est une maladie de la pauvreté, qui progresse quand on vit à plusieurs dans une pièce, sans soins. Le Comede montre que le manque de logement et les obstacles administratifs retardent le dépistage. L'OMS Europe juge « très faible » le risque de transmission à la population d'accueil, et note qu'une part importante des migrants séropositifs ont été contaminés après leur arrivée.\n\nLa gale, elle, circule partout : au moins 328 cas pour 100 000 habitants par an selon Santé publique France, en hausse depuis le milieu des années 2000. En 2017, plus de 150 personnes en ont souffert dans un campement parisien sans point d'eau. Ce n'est pas la nationalité qui transmet la gale, c'est l'absence de douche. L'ECDC recommande de dépister et de vacciner : protéger la santé des migrants, c'est protéger la santé de tous.",
+    "empathie": "La peur des maladies est compréhensible, surtout quand on voit des campements insalubres. Elle mérite des réponses médicales précises, pas des soupçons."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les chiffres montrent bien qu'ils sont plus malades.",
+      "reponse": "Oui, et c'est une raison de les soigner et de les dépister : l'OMS juge très faible le risque de transmission à la population, et la maladie recule en France."
+    },
+    {
+      "objection": "La gale est revenue avec les migrants.",
+      "reponse": "La gale augmentait déjà en France depuis le milieu des années 2000 dans toute la population ; dans les campements, elle vient de l'absence d'eau et de la promiscuité."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la tuberculose est aussi très fréquente chez les personnes sans domicile nées en France ?",
+    "Qu'est-ce qui protège le mieux la population : laisser des gens sans soins ou les dépister et les soigner ?"
+  ],
+  "limites": [
+    "Les données sur la gale datent de 2012 ; aucune estimation nationale plus récente n'a été lue.",
+    "Le guide de l'ECDC a été lu à travers un compte rendu, et l'étude du Comede à travers son résumé.",
+    "Aucune source lue ne donne la part des tuberculoses contractées avant ou après l'arrivée en France."
+  ],
+  "sources": [
+    {
+      "titre": "Tuberculose : données",
+      "organisme": "Santé publique France",
+      "date_publication": "mis à jour le 27 janvier 2026",
+      "url": "https://www.santepubliquefrance.fr/tuberculose/donnees",
+      "passage": "Incidence de la tuberculose maladie : « 6,6 cas/100.000 en 2024 contre 7,1 en 2023 », soit une baisse d'environ 8 %. « L'incidence chez les personnes nées hors de France (32/100.000) est environ 15 fois supérieure à celle des personnes nées en France. » « Maladie sociale, la tuberculose affecte plus particulièrement les groupes les plus pauvres de la population » : environ 64/100 000 chez les personnes sans domicile, 46/100 000 chez les personnes incarcérées.",
+      "pertinence": "Agence nationale de santé publique ; données de surveillance 2024.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Tuberculose chez les personnes réfugiées : une prévalence élevée et un parcours de soins marqué par de nombreux obstacles",
+      "organisme": "Santé publique France, Bulletin épidémiologique hebdomadaire n° 10-11 (J. Rustico, L. Weinich, A. Veïsse, O. Lefebvre, M. Tambourindeguy, Comede)",
+      "date_publication": "7 avril 2020",
+      "url": "https://www.santepubliquefrance.fr/en/tuberculose/article/tuberculosis-among-refugees-high-prevalence-and-a-healthcare-journey-marked-numerous-challenges",
+      "passage": "11 968 personnes réfugiées ont été suivies et dépistées au Comede entre 2009 et 2018 ; 53 cas de tuberculose confirmés, soit une prévalence globale de 400 pour 100 000. Les auteurs relèvent une forte instabilité, voire une absence de logement, des difficultés d'accès à la couverture maladie et une instabilité administrative qui retardent les soins et le dépistage.",
+      "pertinence": "Étude publiée dans le bulletin de Santé publique France, menée par un centre de santé associatif spécialisé ; seul le résumé a été lu.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Les migrants et les réfugiés sont plus exposés au risque de problèmes de santé que les populations d'accueil (premier rapport de l'OMS sur la santé des personnes déplacées en Europe)",
+      "organisme": "OMS, Bureau régional de l'Europe",
+      "date_publication": "21 janvier 2019",
+      "url": "https://www.who.int/europe/fr/news/item/21-01-2019-migrants-and-refugees-at-higher-risk-of-developing-ill-health-than-host-populations-reveals-first-ever-who-report-on-the-health-of-displaced-people-in-europe",
+      "passage": "« Les déplacements en eux-mêmes peuvent rendre les réfugiés et les migrants plus vulnérables aux maladies infectieuses. » Mais « le risque que les réfugiés et les migrants transmettent des maladies transmissibles à la population hôte est très faible ». « Un pourcentage important de réfugiés et de migrants séropositifs ont contracté l'infection à VIH après leur arrivée en Europe. » La part des migrants parmi les cas de tuberculose varie beaucoup selon le pays d'accueil.",
+      "pertinence": "Organisation mondiale de la santé ; communiqué présentant un rapport de synthèse (2019).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "ECDC issues migrant screening and vaccination guidance",
+      "organisme": "TB Online, sur les recommandations du Centre européen de prévention et de contrôle des maladies (ECDC)",
+      "date_publication": "10 décembre 2018",
+      "url": "https://tbonline.info/posts/2018/12/10/ecdc-issues-migrant-screening-and-vaccination-guid",
+      "passage": "Selon l'ECDC : « Migrants do not generally pose a health threat to the host population » (les migrants ne représentent généralement pas une menace sanitaire pour la population d'accueil), certains sous-groupes comme les demandeurs d'asile étant plus vulnérables. L'agence juge efficace et rentable de dépister la tuberculose active et latente chez les migrants et recommande de les inclure dans les programmes de vaccination.",
+      "pertinence": "Compte rendu d'un guide officiel de l'agence européenne ; le guide lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La gale en France entre 1999 et 2010 : augmentation de l'incidence et implications en santé publique",
+      "organisme": "Santé publique France (D. Bitar, J.-M. Thiolet, S. Haeghebaert et al.)",
+      "date_publication": "1er juin 2012",
+      "url": "https://www.santepubliquefrance.fr/docs/article/la-gale-en-france-entre-1999-et-2010-augmentation-de-lincidence-et-implications-en-sante-publique",
+      "passage": "Incidence minimale estimée à 328 cas pour 100 000 habitants par an en France ; « une réelle augmentation de l'incidence de la gale en France ». Ventes de scabicides en hausse entre 2005 et 2009 : de 216 à 495 traitements par ivermectine pour 100 000 habitants par an (environ +22 % par an).",
+      "pertinence": "Article scientifique de l'agence de santé publique ; données anciennes (1999-2010).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Gale : 150 migrants atteints dans un camp à Paris",
+      "organisme": "Pourquoi Docteur",
+      "date_publication": "11 juin 2017",
+      "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/21720-Gale-150-migrants-atteints-camp-Paris",
+      "passage": "Plus de 150 personnes présentent des symptômes de gale dans le campement de fortune sous le métro aérien de La Chapelle, à Paris. Les tentes sont serrées les unes contre les autres et aucun point d'eau ne permet de se laver ni de laver les vêtements à haute température. L'article rappelle que la gale est en recrudescence en France depuis 2005, d'environ 10 % par an selon le Haut Conseil de la santé publique.",
+      "pertinence": "Presse santé ; reportage ponctuel (2017).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouvelles données annuelles de Santé publique France sur la tuberculose.",
+  "objections_legitimes": [
+    "La tuberculose est plus fréquente chez les personnes nées dans des pays où elle circule beaucoup.",
+    "Le dépistage à l'arrivée est utile, et l'ECDC le recommande."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres le montrent, la tuberculose est plus fréquente chez les personnes nées à l'étranger. Mais l'OMS juge très faible le risque qu'elles la transmettent, et la maladie recule en France. La gale, elle, touche tout le pays, et dans un campement sans eau personne n'y échappe, quelle que soit sa nationalité.",
+    "indecis": "S'inquiéter pour sa santé est normal. Les agences sanitaires européennes recommandent une chose simple : dépister et soigner les nouveaux arrivants. C'est la précarité qui propage ces maladies ; l'accès aux soins protège tout le monde."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "services_publics",
+      "antiracisme"
+    ],
+    "mecanismes": "La peur de la contagion transforme une question de santé publique en soupçon contre une population. Or ces maladies suivent la pauvreté, la promiscuité et l’absence de soins, pas la nationalité.",
+    "consequences": "Laisser des personnes dans des campements sans eau ni accès aux soins entretient les maladies que l’on prétend redouter, et retarde les dépistages.",
+    "democratie": "La santé publique repose sur la confiance : quand on stigmatise un groupe, ses membres consultent moins et plus tard, ce qui fragilise la protection de tous.",
+    "propositions": [
+      "Garantir un dépistage et un accès aux soins pour toutes les personnes arrivant en France, comme le recommandent les agences sanitaires européennes.",
+      "Assurer un hébergement digne et l’accès à l’eau dans les lieux de vie précaires.",
+      "Défendre l’aide médicale de l’État comme un outil de santé publique."
+    ],
+    "defavorables": [
+      {
+        "fait": "La tuberculose est nettement plus fréquente chez les personnes nées hors de France que chez les personnes nées en France.",
+        "integration": "Le reconnaître, puis en tirer la bonne conclusion : dépister et soigner tôt, ce qui protège à la fois les malades et la population."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos"
+  ]
+}

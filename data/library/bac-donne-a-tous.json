@@ -1,0 +1,225 @@
+{
+  "id": "bac-donne-a-tous",
+  "type": "idee_recue",
+  "affirmation": "Le bac est donné à tout le monde.",
+  "volet": "services",
+  "sous_theme": "École publique",
+  "rubriques": [],
+  "mots_cles": [
+    "bac donne",
+    "bac brade",
+    "bac au rabais",
+    "taux de reussite bac",
+    "bac pour tous",
+    "controle continu bac",
+    "niveau du bac",
+    "inflation des notes"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le taux de réussite est élevé (91,6 % en 2025), mais il porte sur les candidats, pas sur toute une génération : environ un jeune sur cinq n'a pas le bac. La massification est un choix politique ancien, passé de 25,9 % d'une génération en 1980 à 80,1 % en 2025, en grande partie grâce au bac professionnel. Le bac reste très inégal : 97 % de réussite chez les enfants de cadres contre 88 % chez les enfants d'ouvriers, orientés bien plus souvent vers le professionnel. La critique honnête porte sur le contrôle continu (40 % de la note), dont la DEPP montre qu'il note très différemment d'un lycée à l'autre.",
+  "contexte": "Chaque été, la publication des résultats du bac relance l'idée d'un diplôme dévalorisé, accentuée depuis la réforme qui a introduit 40 % de contrôle continu.",
+  "explication": "Il faut distinguer le taux de réussite des candidats, la part d'une génération qui obtient le bac, les inégalités selon l'origine sociale et la question réelle de l'équité de la notation.",
+  "faits": [
+    {
+      "fait": "En 2025, le taux de réussite est de 91,6 % (96,2 % en général, 90,9 % en technologique, 83,9 % en professionnel) ; 80,1 % d'une génération obtient le bac, soit environ un jeune sur cinq qui ne l'a pas.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le bac n'est pas donné à tous : une partie des candidats échoue et une partie des jeunes ne le passe pas.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "80,1 %"
+    },
+    {
+      "fait": "La proportion de bacheliers dans une génération est passée de 25,9 % en 1980 à 62,9 % en 2000, a atteint 86,7 % en 2020 puis est redescendue à 79,4 % en 2024.",
+      "periode": "1980-2024",
+      "perimetre": "France",
+      "explication": "La massification est ancienne et la proportion a baissé depuis le pic de 2020.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "25,9 %"
+    },
+    {
+      "fait": "En 2024, le taux de réussite au bac est de 97,0 % pour les enfants de cadres et de 88,0 % pour les enfants d'ouvriers ; environ 78 % des bacheliers enfants de cadres ont un bac général, contre environ 41 % des bacheliers enfants d'ouvriers.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le bac reste socialement inégal, dans la réussite comme dans la filière.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "97,0 % / 88,0 %"
+    },
+    {
+      "fait": "Selon Onisep, depuis la réforme, le contrôle continu compte pour 40 % de la note du bac général et technologique, les épreuves finales pour 60 %.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une part importante de la note dépend de l'établissement.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "40 %"
+    },
+    {
+      "fait": "Selon la DEPP, en 2023, les notes de contrôle continu dépassaient celles de l'examen d'environ 1,2 point en HGGSP et 1,4 point en philosophie, mais étaient plus sévères en mathématiques dans trois lycées sur quatre ; parmi les 314 lycées qui sous-notent au moins 80 % de leurs élèves en mathématiques, 53,8 % sont privés sous contrat.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La notation est hétérogène entre lycées : c'est une critique fondée, qui touche à l'équité plus qu'au niveau.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "1,4 point"
+    },
+    {
+      "fait": "En 2026, le taux de réussite provisoire est de 91,4 %, en baisse de 0,4 point ; 28,7 % des candidats obtiennent une mention « Bien » ou « Très bien ».",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les mentions sont nombreuses, ce qui alimente le soupçon d'une notation généreuse.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "91,4 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le taux de réussite est de 91,6 % des candidats, mais 80,1 % d'une génération seulement a le bac : environ un jeune sur cinq ne l'a pas. Et il reste inégal : 97 % de réussite chez les enfants de cadres, 88 % chez les enfants d'ouvriers. Le vrai débat, c'est l'équité du contrôle continu, pas un bac « offert ».",
+    "moyen": "Le taux de réussite est élevé : 91,6 % en 2025. Mais il concerne les candidats. Rapporté à toute une génération, 80,1 % des jeunes ont le bac, et la proportion a baissé depuis le pic de 2020. La massification est un choix politique ancien : en 1980, seul un quart d'une génération l'obtenait. C'est en grande partie le bac professionnel qui a ouvert l'accès.\n\nLa critique légitime porte sur l'équité. Depuis la réforme, le contrôle continu compte pour 40 % de la note, et la DEPP montre que les lycées notent très différemment : plus généreusement en philosophie, plus sévèrement en mathématiques, surtout dans les lycées privés et favorisés. Et le bac reste inégal : 97 % de réussite chez les enfants de cadres, 88 % chez les enfants d'ouvriers, bien plus souvent orientés vers le professionnel.",
+    "detaille": "Les chiffres de la DEPP sont clairs. En 2025, 91,6 % des candidats ont obtenu le bac : 96,2 % en voie générale, 90,9 % en technologique, 83,9 % en professionnel. Mais 80,1 % d'une génération seulement est bachelière, et cette proportion est redescendue depuis les 86,7 % de 2020. En 1980, elle n'était que de 25,9 %. La massification a été voulue : ouvrir à tous un diplôme réservé à une élite, notamment grâce au bac professionnel.\n\nLe bac n'est pas pour autant le même pour tous. En 2024, 97,0 % des enfants de cadres l'obtiennent, contre 88,0 % des enfants d'ouvriers. Environ 78 % des bacheliers enfants de cadres ont un bac général, contre environ 41 % des bacheliers enfants d'ouvriers. Derrière un même mot, les filières préparent à des avenirs différents.\n\nLa critique sérieuse concerne la notation. Depuis la réforme, le contrôle continu pèse 40 % de la note. Des syndicats craignaient dès 2021 qu'il accroisse les inégalités entre établissements. La DEPP leur donne en partie raison : en 2023, le contrôle continu notait plus généreusement que l'examen en philosophie et en HGGSP, mais plus sévèrement en mathématiques, surtout dans les lycées privés et favorisés. Les mentions sont nombreuses : 28,7 % de « Bien » ou « Très bien » en 2026. Le problème n'est pas un bac bradé, c'est un bac dont la valeur dépend trop du lycée.",
+    "empathie": "Beaucoup de parents ont passé un bac plus rare et ont le sentiment qu'il a perdu sa valeur. Ce sentiment se comprend, et certaines critiques sur la notation sont fondées."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avant, la moitié des candidats échouaient.",
+      "reponse": "Avant, une petite minorité d'une génération passait le bac ; aujourd'hui, environ un jeune sur cinq n'a toujours pas le diplôme, ce qui n'est pas « tout le monde »."
+    },
+    {
+      "objection": "Le contrôle continu, c'est le bac offert par les profs.",
+      "reponse": "La DEPP montre que les lycées sous-notent aussi, notamment en mathématiques et dans le privé ; le problème est l'inégalité entre établissements, pas une générosité générale."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la part de bacheliers dans une génération a baissé depuis 2020 ?",
+    "Faut-il plus d'épreuves nationales anonymes pour que le bac ait la même valeur partout ?"
+  ],
+  "limites": [
+    "La proportion de bacheliers dans une génération varie selon les publications (révisions de séries) ; les chiffres de 2024 et 2025 viennent de deux documents différents.",
+    "Les pages de la DEPP et d'Éduscol sur le contrôle continu n'ont pas pu être ouvertes ; l'étude de la DEPP a été lue dans une copie hébergée par un syndicat.",
+    "Aucun rapport de la Cour des comptes ou de l'inspection générale sur la notation du bac n'a pu être lu en entier ; la note de l'inspection de 2020 n'est connue que par un article.",
+    "Aucune source lue ne compare le niveau des bacheliers d'aujourd'hui à celui d'hier sur des épreuves identiques."
+  ],
+  "sources": [
+    {
+      "titre": "Résultats définitifs du baccalauréat 2025 : moins de bacheliers dans les voies générale et technologique, plus dans la voie professionnelle (Note d’Information n° 26.05)",
+      "organisme": "DEPP, ministère de l’Éducation nationale",
+      "date_publication": "février 2026",
+      "url": "https://www.education.gouv.fr/sites/default/files/document/Education%20nationale_DEPP_NI%2026-05-Bac.pdf-479534.pdf",
+      "passage": "Taux de réussite en 2025 : 96,2 % en voie générale, 90,9 % en technologique, 83,9 % en professionnelle, 91,6 % au total. La proportion de bacheliers dans une génération est de 80,1 % : 43,3 % en général, 15,9 % en technologique, 21,0 % en professionnel. 67,7 % des admis de la voie générale obtiennent une mention.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le baccalauréat 2026 – Session de juin (Note d’Information n° 26.33)",
+      "organisme": "DEPP, ministère de l’Éducation nationale",
+      "date_publication": "juillet 2026",
+      "url": "https://www.education.gouv.fr/sites/default/files/document/deppni-2026-33bac-provisoirepdf-519041.pdf",
+      "passage": "Résultats provisoires : « le taux de réussite global s’élève à 91,4 % en France » (95,9 % en général, 90,3 % en technologique, 84,3 % en professionnel), en baisse de 0,4 point. 58,8 % des candidats obtiennent une mention, 28,7 % une mention « Bien » ou « Très bien ».",
+      "pertinence": "Statistique publique de référence ; résultats provisoires.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Repères et références statistiques 2025, chapitre 8 : les résultats des examens",
+      "organisme": "DEPP, ministère de l’Éducation nationale",
+      "date_publication": "septembre 2025 (version corrigée)",
+      "url": "https://www.education.gouv.fr/sites/default/files/2025-09/rers2025-chapitre-8-version-corrig-e-le-25-septembre-2025-441735.pdf",
+      "passage": "Proportion de bacheliers dans une génération : 25,9 % en 1980, 43,5 % en 1990, 62,9 % en 2000, 77,7 % en 2015, 86,7 % en 2020, 79,4 % en 2024 ; elle oscille autour de 62 % entre 1995 et 2008. Session 2024 : taux de réussite de 97,0 % pour les enfants de cadres et de 88,0 % pour les enfants d'ouvriers ; en voie professionnelle, 89,8 % contre 81,8 %. Environ 78 % des bacheliers enfants de cadres ont un bac général, contre environ 41 % des bacheliers enfants d'ouvriers (calcul à partir des effectifs du tableau).",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les épreuves du bac général et du bac technologique",
+      "organisme": "Onisep",
+      "date_publication": "2 septembre 2025",
+      "url": "https://www.onisep.fr/formation/apres-la-3-la-voie-generale-et-technologique/les-epreuves-du-bac-general-et-du-bac-technologique",
+      "passage": "« Tout au long de l'année de 1re et de terminale, le contrôle continu compte pour 40 % de la note du bac. » Les six épreuves finales (français, deux spécialités, philosophie, Grand oral) « représentent 60 % de la note du bac ».",
+      "pertinence": "Établissement public d’information sur l’orientation.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nouveau bac : le ministère valide le contrôle continu renforcé dès la rentrée",
+      "organisme": "AFP (dépêche reproduite dans la revue de presse de l’académie de Normandie)",
+      "date_publication": "9 juillet 2021",
+      "url": "https://media.ac-normandie.fr/-/communication/revue-presse/2021/07/12/AFP_nat_actu_Nouveau%20bac%20-%20%20le%20minist%e8re%20valide%20le%20contr%f4le%20continu%20renforc%e9%20d%e8s%20la%20rentr%e9e.pdf",
+      "passage": "Les évaluations communes sont supprimées ; la répartition reste de 60 % pour les épreuves terminales et 40 % pour le contrôle continu, fondé sur « la seule moyenne générale issue des moyennes annuelles des bulletins scolaires du cycle terminal » pour plusieurs disciplines. Des syndicats dénoncent un poids du contrôle continu qui aggraverait les inégalités entre élèves et entre établissements.",
+      "pertinence": "Dépêche d'agence.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Moyennes de contrôle continu et résultats aux épreuves terminales du baccalauréat général – Session 2023 : analyse des écarts (Document de travail n° 2025-E02)",
+      "organisme": "DEPP (Fanny Thomas), document hébergé par le Sgen-CFDT",
+      "date_publication": "avril 2025",
+      "url": "https://sgen-cfdt.fr/contenu/uploads/sites/13/2025/04/moyennes-de-contr-le-continu-et-r-sultats-aux-preuves-terminales-du-baccalaur-at-g-n-ral-226337_0.pdf",
+      "passage": "Les notes de contrôle continu dépassent celles des épreuves terminales d'environ 1,2 point en HGGSP et 1,4 point en philosophie (médianes) ; en mathématiques, l'écart médian est d'environ −1,1 point et le contrôle continu note plus sévèrement dans trois établissements sur quatre. Dans un quart des établissements, l'écart atteint +1,3 point en physique-chimie et en SES. Parmi les 314 établissements qui sous-notent au moins 80 % de leurs élèves en mathématiques, 53,8 % sont privés sous contrat.",
+      "pertinence": "Étude de la statistique publique (copie hébergée par un syndicat).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Résultats du baccalauréat 2027 et éventuelle réforme du contrôle continu.",
+  "objections_legitimes": [
+    "La notation du contrôle continu varie fortement d'un lycée à l'autre selon la DEPP.",
+    "La part élevée de mentions alimente le soupçon d'une notation trop généreuse."
+  ],
+  "publics": {
+    "convaincus": "Environ un jeune sur cinq n'a pas le bac : ce n'est pas « tout le monde ». Et ce sont surtout des enfants d'ouvriers qui échouent ou sont orientés vers le professionnel. Le vrai scandale du contrôle continu, selon la DEPP, c'est qu'un lycée ne note pas comme son voisin.",
+    "indecis": "Ta question est légitime : avec 40 % de contrôle continu, la note dépend en partie du lycée, et la DEPP a mesuré des écarts réels. Mais le bac n'est pas offert : environ un jeune sur cinq ne l'a pas, et les inégalités sociales restent fortes. On peut défendre un bac plus juste, avec plus d'épreuves nationales."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "emancipation"
+    ],
+    "mecanismes": "Le taux de réussite des candidats est confondu avec la part d’une génération qui obtient le bac. La démocratisation est présentée comme une dévalorisation.",
+    "consequences": "Le discours sur le bac bradé dévalorise surtout les bacheliers des milieux populaires, orientés vers les filières les moins reconnues.",
+    "democratie": "Ouvrir l’accès au diplôme était un choix démocratique ; l’enjeu est désormais qu’il garde la même valeur pour tous, quel que soit le lycée.",
+    "propositions": [
+      "Renforcer la part d’épreuves nationales anonymes pour garantir l’égalité entre lycées.",
+      "Revaloriser la voie professionnelle et ses poursuites d’études.",
+      "Agir dès le collège contre les inégalités d’orientation selon l’origine sociale."
+    ],
+    "defavorables": [
+      {
+        "fait": "La DEPP montre que la notation du contrôle continu varie fortement d’un lycée à l’autre, et les mentions sont nombreuses.",
+        "integration": "Le reconnaître : c’est une critique d’équité, qui justifie davantage d’épreuves nationales, pas la fin de la démocratisation du bac."
+      }
+    ]
+  },
+  "concepts": [
+    "pouvoir_achat",
+    "services_publics",
+    "bac"
+  ],
+  "repond_a": [
+    {
+      "id": "bac",
+      "label": "Le baccalauréat"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fin de mois",
+    "fins de mois",
+    "pouvoir d achat",
+    "hausse des prix",
+    "inflation",
+    "courses",
+    "vie chere",
+    "essence",
+    "tout augmente",
+    "urgences",
+    "baccalaureat"
+  ]
+}
