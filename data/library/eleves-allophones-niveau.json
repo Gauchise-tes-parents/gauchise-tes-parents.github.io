@@ -183,11 +183,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "pauvrete",
-    "services_publics"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -201,5 +196,10 @@
     "misere",
     "coutent trop cher",
     "urgences"
+  ],
+  "concepts": [
+    "immigration",
+    "pauvrete",
+    "services_publics"
   ]
 }

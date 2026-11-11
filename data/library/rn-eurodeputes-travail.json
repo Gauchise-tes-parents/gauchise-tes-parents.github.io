@@ -173,13 +173,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "patriotisme",
-    "europe",
-    "fn_parti",
-    "rn_eurodeputes"
-  ],
   "repond_a": [
     {
       "id": "rn_eurodeputes",
@@ -200,5 +193,12 @@
     "drapeau",
     "marseillaise",
     "de droite"
+  ],
+  "concepts": [
+    "emploi",
+    "patriotisme",
+    "europe",
+    "fn_parti",
+    "rn_eurodeputes"
   ]
 }

@@ -1,0 +1,214 @@
+{
+  "id": "allocations-familiales-parents-delinquants",
+  "type": "idee_recue",
+  "affirmation": "Il faut supprimer les allocations familiales aux parents des mineurs qui commettent des délits.",
+  "volet": "securite",
+  "sous_theme": "Prévention et politiques publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "allocations familiales parents",
+    "supprimer les allocs",
+    "allocs des parents",
+    "loi ciotti",
+    "sanctionner les parents",
+    "allocations emeutiers",
+    "suspension allocations",
+    "responsabilite des parents"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "C'est un choix politique, mais le précédent existe : la loi Ciotti de 2010 suspendait les allocations en cas d'absentéisme scolaire. Elle a touché quelques centaines de familles, sans effet démontré sur l'absentéisme, et a été abrogée en 2013. Une proposition du RN pour les parents d'enfants délinquants a été rejetée en 2023. La mesure frappe surtout des mères seules et toute la fratrie, sans s'attaquer aux causes de la délinquance.",
+  "contexte": "L'idée revient après chaque flambée de violences urbaines, notamment après les émeutes de l'été 2023, portée par la droite et l'extrême droite, et évoquée par le président de la République.",
+  "explication": "Il faut regarder ce qu'a donné l'expérience de 2010-2013, qui touche réellement la sanction (souvent la mère seule et les autres enfants), et ce que prévoit déjà le droit en cas de placement ou d'incarcération.",
+  "faits": [
+    {
+      "fait": "La loi Ciotti de 2010 permettait de suspendre les allocations familiales en cas d'absentéisme ; selon les sources, entre 472 familles (février 2011-mars 2012) et 949 familles (bilan du ministère) ont été concernées.",
+      "periode": "2011-2013",
+      "perimetre": "France",
+      "explication": "La sanction a été très peu appliquée, et ses bilans divergent.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "472 familles"
+    },
+    {
+      "fait": "Pendant l'année scolaire 2011-2012, 619 allocations ont été suspendues, dont 142 rétablies après le retour de l'élève ; environ 1 % des 79 149 signalements d'absentéisme ont abouti à une suspension.",
+      "periode": "2011-2012",
+      "perimetre": "France",
+      "explication": "La mesure a concerné une infime partie des cas.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "619 suspensions"
+    },
+    {
+      "fait": "L'absentéisme dans le secondaire est passé de 4,3 % en 2009-2010 à 5 % en 2010-2011, puis est resté autour de 5 % jusqu'en 2015, avant comme après l'abrogation.",
+      "periode": "2009-2015",
+      "perimetre": "France",
+      "explication": "Aucun effet visible de la sanction sur l'absentéisme.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "5 %"
+    },
+    {
+      "fait": "Le ministre de l'époque affirmait que 99,5 % des cas avaient été résolus en convoquant les parents, la menace de suspension servant de levier.",
+      "periode": "2011",
+      "perimetre": "France",
+      "explication": "Les défenseurs de la loi y voyaient un effet dissuasif ; ce chiffre n'a pas fait l'objet d'une évaluation indépendante (fait défavorable à présenter honnêtement).",
+      "source": 0,
+      "fiabilite": "interpretation",
+      "chiffre": "99,5 %"
+    },
+    {
+      "fait": "En 2023, la proposition du RN a été rejetée : le gouvernement rappelait que la loi permet déjà de suspendre les allocations en cas d'incarcération de l'enfant, et des députés soulignaient qu'elles ne sont dues qu'à partir du deuxième enfant.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La mesure serait à la fois redondante et inégale selon la taille des familles.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Après les émeutes de 2023, 4 481 personnes ont été placées en garde à vue, dont 1 319 mineurs ; les allocataires sont en général un seul parent, le plus souvent la mère.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La sanction viserait surtout des mères, et priverait aussi les frères et sœurs.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "1 319 mineurs"
+    }
+  ],
+  "argumentaires": {
+    "court": "On a déjà essayé : la loi Ciotti suspendait les allocations en cas d'absentéisme. Quelques centaines de familles touchées, aucun effet visible sur l'absentéisme, abrogée en 2013. Supprimer les allocations, c'est punir une mère et ses autres enfants, pas prévenir la délinquance.",
+    "moyen": "Le précédent existe. De 2011 à 2013, la loi Ciotti permettait de suspendre les allocations familiales des parents d'élèves absentéistes. Elle a touché entre 472 et 949 familles selon les bilans, et l'absentéisme est resté autour de 5 % avant comme après. Elle a été abrogée en 2013.\n\nEn 2023, après les émeutes, le RN a proposé de supprimer les allocations des parents d'enfants délinquants. Le texte a été rejeté : le droit permet déjà de les suspendre en cas d'incarcération, et elles ne sont dues qu'à partir du deuxième enfant. Surtout, l'allocataire est le plus souvent une mère seule : on appauvrirait toute la fratrie, sans s'attaquer aux causes de la délinquance.",
+    "detaille": "Cette idée a déjà été testée. La loi Ciotti de 2010 permettait de suspendre les allocations familiales en cas d'absentéisme scolaire. Selon les bilans, 472 familles (de février 2011 à mars 2012), 619 suspensions sur l'année 2011-2012, ou 949 familles au total ont été concernées. Environ 1 % des 79 149 signalements ont abouti à une suspension. Et l'absentéisme dans le secondaire est resté autour de 5 %, avant comme après. Le ministre de l'époque affirmait que la simple menace réglait 99,5 % des cas, mais aucune évaluation indépendante ne l'a confirmé. La loi a été abrogée en janvier 2013.\n\nAprès les émeutes de 2023, 4 481 personnes ont été placées en garde à vue, dont 1 319 mineurs. Le RN a alors proposé de supprimer les allocations des parents d'enfants condamnés. Le texte a été rejeté. Le gouvernement affirmait que la loi permet déjà de suspendre les allocations en cas d'incarcération ; en cas de placement, elles sont versées à la structure qui accueille l'enfant. Des députés ont souligné qu'une famille d'enfant unique, sans allocations, ne serait pas touchée, et que la responsabilité pénale est personnelle.\n\nLa sanction frapperait surtout des mères seules, puisque l'allocataire est le plus souvent la mère, et elle priverait les frères et sœurs, qui n'ont rien fait. Aucune source lue ne montre qu'appauvrir une famille l'aide à tenir son enfant. La gauche défend d'autres pistes : des éducateurs, des moyens pour la protection de l'enfance, l'accompagnement des parents et des services publics présents dans les quartiers.",
+    "empathie": "Voir des jeunes casser ou agresser met en colère, et on a envie que les parents rendent des comptes. Cette exigence de responsabilité est compréhensible ; la question est de savoir ce qui marche vraiment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La menace suffit à faire réagir les parents.",
+      "reponse": "C'est ce qu'affirmait le ministre de l'époque, mais aucune évaluation indépendante ne l'a montré, et l'absentéisme est resté stable autour de 5 %."
+    },
+    {
+      "objection": "Pourquoi verser de l'argent public à des familles de délinquants ?",
+      "reponse": "Les allocations servent à élever tous les enfants du foyer ; en cas de placement, elles vont déjà à la structure qui accueille l'enfant, et l'incarcération permet déjà de les suspendre."
+    }
+  ],
+  "questions": [
+    "Si on retire les allocations à une mère seule, qu'arrive-t-il aux petits frères et sœurs ?",
+    "Savais-tu que la loi Ciotti a été appliquée, puis abrogée faute d'effet démontré ?"
+  ],
+  "limites": [
+    "Les bilans chiffrés de la loi Ciotti divergent selon les sources (160, 472, 619 ou 949 familles), faute d'évaluation officielle complète.",
+    "Les chiffres d'absentéisme de la DEPP sont descriptifs et ne permettent pas d'isoler l'effet de la loi.",
+    "Aucune sanction de ce type n'a été appliquée en France pour des infractions commises par des enfants : les comparaisons restent indirectes.",
+    "Le rapport parlementaire de 2023 a été lu dans sa première partie seulement ; il relève des informations contradictoires des ministères sur la suspension des allocations en cas d'incarcération."
+  ],
+  "sources": [
+    {
+      "titre": "Absentéisme scolaire : 160 cas de suspension des allocations familiales, indique le ministère",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "1er décembre 2011",
+      "url": "https://www.banquedesterritoires.fr/absenteisme-scolaire-160-cas-de-suspension-des-allocations-familiales-indique-le-ministere",
+      "passage": "160 décisions de suspension des allocations familiales depuis l'entrée en vigueur du décret le 24 janvier 2011, dans 27 départements (chiffre confirmé par la CNAF à l'AFP). Le ministre Luc Chatel affirme que 99,5 % des cas ont été résolus « en convoquant les parents ». Eric Ciotti juge sa loi « efficace ».",
+      "pertinence": "Média des collectivités locales (Caisse des dépôts) ; appréciations des promoteurs de la loi, sans évaluation indépendante.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Absentéisme scolaire : la loi Ciotti est définitivement supprimée",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "janvier 2013",
+      "url": "https://www.banquedesterritoires.fr/absenteisme-scolaire-la-loi-ciotti-est-definitivement-supprimee",
+      "passage": "Abrogation définitivement adoptée par l'Assemblée nationale le jeudi 17 janvier 2013. 619 allocations familiales suspendues pendant l'année scolaire 2011-2012, dont 142 rétablies après le retour de l'élève. 79 149 signalements d'absentéisme, dont environ 1 % ont abouti à une suspension. La ministre George Pau-Langevin juge le dispositif « inutile » et estime qu'il a échoué pour 80 % des 619 élèves ; Luc Chatel juge ces chiffres « extrêmement partiels ». Le dispositif est remplacé par un accompagnement des parents et un personnel d'éducation référent.",
+      "pertinence": "Média des collectivités locales ; chiffres avancés par les deux camps lors du débat parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Suppression des allocations familiales : qu'a donné le précédent de l'absentéisme scolaire ?",
+      "organisme": "Public Sénat",
+      "date_publication": "7 juillet 2023",
+      "url": "https://www.publicsenat.fr/actualites/societe/suppression-des-allocations-familiales-qua-donne-le-precedent-de-labsenteisme-scolaire",
+      "passage": "Après les émeutes, Emmanuel Macron envisageait de « sanctionner financièrement » les familles et Eric Ciotti appelait à reprendre sa loi de 2010. Entre février 2011 et mars 2012, le dispositif n'a touché que 472 familles. Absentéisme dans le secondaire (DEPP) : 4,3 % en 2009-2010, 5 % en 2010-2011 ; relativement stable autour de 5 % de 2011 à 2015. Le rapporteur de l'abrogation, David Assouline, parlait d'une « réponse répressive univoque, inéquitable et inefficace ». Conclusion de l'article : un précédent « peu probant ».",
+      "pertinence": "Chaîne parlementaire du Sénat ; article d'analyse, données DEPP descriptives.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Suppression des allocations familiales pour les parents d'enfants délinquants : le texte du RN, soutenu par LR, rejeté",
+      "organisme": "LCP-Assemblée nationale",
+      "date_publication": "12 octobre 2023",
+      "url": "https://lcp.fr/actualites/suppression-des-allocations-familiales-pour-les-parents-d-enfants-delinquants-le-texte",
+      "passage": "Proposition de loi RN après les violences urbaines de l'été 2023 : suppression de la part des allocations correspondant à l'enfant après une condamnation pour crime, suspension de 24 mois pour un délit puni d'au moins deux ans de prison. Soutenue par LR, rejetée par le gouvernement, la majorité et la gauche ; l'article 1 supprimé, le texte a été retiré. La ministre Aurore Bergé rappelle que la loi permet déjà de suspendre les allocations en cas d'incarcération d'un enfant ; Horizons note que les allocations ne sont dues qu'à partir du deuxième enfant ; le MoDem invoque le principe de responsabilité pénale personnelle.",
+      "pertinence": "Chaîne parlementaire de l'Assemblée ; compte rendu des débats.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport n° 1698 sur la proposition de loi visant à supprimer ou à suspendre les allocations familiales pour les parents d'enfants criminels ou délinquants",
+      "organisme": "Assemblée nationale, commission des affaires sociales (rapporteur Bryan Masson, RN)",
+      "date_publication": "4 octobre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/cion-soc/l16b1698_rapport-fond.pdf",
+      "passage": "Selon le ministère des solidarités, 949 familles ont été concernées par la loi Ciotti ; la courte durée d'application empêche d'évaluer précisément son efficacité, et elle n'a pas réduit l'absentéisme. En cas de placement pénal, les allocations sont versées à la structure qui accueille le mineur. Émeutes de 2023 : 4 481 gardes à vue, dont 1 319 mineurs. Les allocataires sont en général un seul parent, le plus souvent la mère. En décembre 2022 : 4,8 millions de familles bénéficiaires, montant moyen de 222 euros par mois et par famille.",
+      "pertinence": "Rapport parlementaire officiel rédigé par l'auteur RN de la proposition : les données (ministères, CNAF) sont utilisées, pas les positions du rapporteur.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles propositions de loi ou évaluations sur la responsabilité financière des parents.",
+  "objections_legitimes": [
+    "Les parents ont un rôle essentiel dans l'éducation de leurs enfants.",
+    "Des parents débordés doivent être repérés et accompagnés plus tôt."
+  ],
+  "publics": {
+    "convaincus": "On a déjà essayé avec la loi Ciotti : quelques centaines de familles sanctionnées, et l'absentéisme est resté autour de 5 %. La loi permet déjà de suspendre les allocations quand un enfant est incarcéré. Retirer l'argent, c'est punir sa mère et ses frères et sœurs, pas l'auteur des faits.",
+    "indecis": "Vouloir que les parents assument, c'est légitime. Mais la seule expérience française n'a montré aucun effet, et elle a été abrogée. Plutôt que d'appauvrir des familles, on peut miser sur l'accompagnement des parents et la présence d'éducateurs."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "vulnerables",
+      "egalite_fh"
+    ],
+    "mecanismes": "La sanction collective d’une famille est présentée comme de la fermeté, en oubliant que la responsabilité pénale est personnelle et que l’allocataire est le plus souvent une mère seule.",
+    "consequences": "Des frères et sœurs innocents sont appauvris, des mères isolées sont punies, et les difficultés sociales qui nourrissent la délinquance s’aggravent.",
+    "democratie": "Une politique publique doit être évaluée avant d’être reprise ; la loi Ciotti a été abrogée faute d’effet démontré, sans véritable évaluation indépendante.",
+    "propositions": [
+      "Renforcer la protection de l’enfance et la prévention spécialisée avec des éducateurs de rue.",
+      "Accompagner les parents en difficulté par des dispositifs de soutien à la parentalité.",
+      "Rouvrir des services publics et des lieux d’accueil pour les jeunes dans les quartiers populaires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le ministre de l’époque affirmait que la simple menace de suspension avait réglé l’immense majorité des cas d’absentéisme.",
+        "integration": "Rappeler qu’aucune évaluation indépendante ne l’a confirmé et que l’absentéisme est resté stable avant comme après la loi."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "af_delinquants",
+      "label": "Allocations et parents de délinquants"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "af_delinquants"
+  ]
+}

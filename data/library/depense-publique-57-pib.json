@@ -1,0 +1,210 @@
+{
+  "id": "depense-publique-57-pib",
+  "type": "idee_recue",
+  "affirmation": "La dépense publique représente 57 % du PIB, c'est un record mondial.",
+  "volet": "economie",
+  "sous_theme": "Déficit public",
+  "rubriques": [],
+  "mots_cles": [
+    "depense publique 57 %",
+    "depenses publiques pib",
+    "record mondial depenses",
+    "france championne depenses publiques",
+    "trop de depenses publiques",
+    "etat depense trop",
+    "niveau depense publique",
+    "depense publique record"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le chiffre est juste : 57,3 % du PIB en 2025 selon l'Insee, et la France est parmi les pays qui dépensent le plus (2e de l'UE en 2025 selon Eurostat, derrière la Finlande). Mais ce n'est pas « l'État » qui dépense 57 % de la richesse : une grande partie de cet argent est reversée aux ménages sous forme de retraites et de prestations, et une autre finance la santé. Selon la Banque de France, l'écart avec la zone euro vient pour les deux tiers de la protection sociale, que d'autres pays laissent davantage au privé.",
+  "contexte": "Le chiffre de 57 % revient à chaque débat budgétaire pour justifier des coupes dans les services publics et la protection sociale.",
+  "explication": "Il faut distinguer le niveau de la dépense, ce qu'elle contient (salaires des agents, prestations versées aux ménages, intérêts de la dette) et ce que les autres pays financent autrement, par des assurances ou des retraites privées.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, les dépenses des administrations publiques s'élèvent à 57,3 % du PIB en 2025, soit 1 714,2 milliards d'euros.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le chiffre de 57 % est exact.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "57,3 % du PIB"
+    },
+    {
+      "fait": "Selon Eurostat, en 2025, la Finlande (57,5 %) dépasse légèrement la France (57,2 %) ; la moyenne de la zone euro est de 49,8 % du PIB.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "La France est parmi les plus dépensières, mais pas seule en tête.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "57,2 % du PIB"
+    },
+    {
+      "fait": "Les prestations sociales représentent 771,0 milliards d'euros en 2025, contre 370,0 milliards pour la rémunération de tous les agents publics ; les administrations de sécurité sociale dépensent plus (803,3 milliards) que l'État et ses organismes (681,1 milliards).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "L'essentiel de la dépense publique est redistribué aux ménages, pas consommé par l'État.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "771,0 Md€"
+    },
+    {
+      "fait": "Selon la Banque de France, en 2023, la France dépensait 7,5 points de PIB de plus que la moyenne de la zone euro ; deux tiers de l'écart viennent de la protection sociale (5,0 points), surtout des retraites (2,2) et de la santé (1,5).",
+      "periode": "2023",
+      "perimetre": "Zone euro",
+      "explication": "L'écart tient à des choix de solidarité collective, pas à un gaspillage administratif.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "7,5 points de PIB"
+    },
+    {
+      "fait": "Selon FIPECO, les retraites publiques pèsent 13,6 % du PIB en France contre 9,1 % en moyenne dans dix pays de l'OCDE ; en ajoutant les retraites privées, l'écart se réduit (13,9 % contre 11,8 %), mais la France reste au-dessus, et l'auteur juge la comparaison internationale pertinente.",
+      "periode": "2018-2020",
+      "perimetre": "OCDE",
+      "explication": "Fait défavorable : même en comptant le privé, la France dépense plus pour les retraites.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "13,6 % du PIB"
+    },
+    {
+      "fait": "En 2016, la France avait les dépenses publiques les plus élevées des 35 pays de l'OCDE (56 % du PIB, contre 41 % en moyenne et près de 38 % aux États-Unis).",
+      "periode": "2016",
+      "perimetre": "OCDE",
+      "explication": "Fait défavorable : la France a souvent été en tête des pays riches.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "56 % du PIB"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le chiffre est juste : 57,3 % du PIB en 2025 selon l'Insee. Mais la Finlande fait un peu plus, et surtout cet argent n'est pas « dépensé par l'État » : l'essentiel est reversé aux Français en retraites, en soins et en prestations. Ailleurs, les gens paient ces mêmes services au privé.",
+    "moyen": "Oui, la France dépense beaucoup : 57,3 % du PIB en 2025 selon l'Insee, soit 1 714,2 milliards d'euros. Elle fait partie des tout premiers pays, même si la Finlande la devance légèrement en 2025 selon Eurostat.\n\nMais regardons ce que contient ce chiffre. Les prestations sociales pèsent 771,0 milliards, deux fois plus que les salaires de tous les agents publics. Selon la Banque de France, deux tiers de l'écart avec nos voisins viennent de la protection sociale, surtout des retraites et de la santé. Dans d'autres pays, une partie de ces dépenses est payée par les ménages à des assureurs ou à des fonds de pension privés. Ce n'est pas moins cher, c'est juste moins solidaire.",
+    "detaille": "Le chiffre de départ est exact. Selon l'Insee, les dépenses publiques atteignent 57,3 % du PIB en 2025, soit 1 714,2 milliards d'euros. La France est parmi les pays qui dépensent le plus : en 2016, l'OCDE la plaçait en tête de ses 35 membres, et en 2025 Eurostat la classe deuxième de l'Union européenne (57,2 %), juste derrière la Finlande (57,5 %).\n\nMais « dépense publique » ne veut pas dire « l'État dépense ». Le chiffre additionne l'État, les collectivités et la Sécurité sociale. Les prestations sociales (retraites, allocations, remboursements) représentent 771,0 milliards, contre 370,0 milliards pour la rémunération de tous les agents publics. Cet argent est versé aux ménages, qui le dépensent ensuite. La Banque de France montre que deux tiers de l'écart avec la zone euro viennent de la protection sociale : 2,2 points de PIB pour les retraites, 1,5 pour la santé.\n\nIl faut rester honnête : selon l'analyse de FIPECO, même en ajoutant les retraites privées, la France dépense plus que la moyenne (13,9 % du PIB contre 11,8 %). Mais l'écart se réduit nettement. Le vrai débat n'est donc pas « trop de dépenses », c'est un choix de société : payer ensemble, selon ses moyens, des retraites et des soins pour tous, ou laisser chacun payer selon son portefeuille.",
+    "empathie": "Il est normal de se demander où va l'argent de ses impôts, surtout quand les services publics se dégradent près de chez soi."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est l'État qui gaspille.",
+      "reponse": "La plus grosse part est reversée aux ménages : 771,0 milliards de prestations sociales en 2025, deux fois plus que les salaires de tous les agents publics."
+    },
+    {
+      "objection": "Les autres pays s'en sortent avec beaucoup moins.",
+      "reponse": "Selon la Banque de France, l'écart vient surtout des retraites et de la santé ; ailleurs, une partie est payée au privé par les ménages eux-mêmes."
+    }
+  ],
+  "questions": [
+    "Si on baisse la dépense publique, qui paiera les retraites et les soins que la Sécurité sociale finance aujourd'hui ?",
+    "Savais-tu que les prestations sociales pèsent deux fois plus que les salaires de tous les agents publics ?"
+  ],
+  "limites": [
+    "Les classements varient selon les sources et les révisions : Eurostat place la Finlande légèrement devant la France en 2025, alors que le FMI (mai 2026) décrit la dépense française comme la plus élevée de la zone euro.",
+    "Les données de FIPECO datent de 2018-2020 et celles de l'OCDE de 2016.",
+    "Aucune source lue ne chiffre précisément, pour tous les pays, l'ensemble des dépenses sociales publiques et privées.",
+    "Les montants par sous-secteur de l'Insee ne sont pas consolidés (ils incluent les transferts entre administrations)."
+  ],
+  "sources": [
+    {
+      "titre": "Le compte des administrations publiques en 2025 (Insee Première n° 2106)",
+      "organisme": "Insee",
+      "date_publication": "29 mai 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8997691",
+      "passage": "« En 2025, les dépenses des administrations publiques s'établissent à 57,3 % du PIB », soit 1 714,2 Md€ (+2,5 %). Prestations sociales : 771,0 Md€ (+3,2 %) ; rémunérations des salariés : 370,0 Md€ (+1,9 %) ; charges d'intérêts : 64,7 Md€ (+11,2 %). Dépenses par sous-secteur, non consolidées : administrations centrales (État et organismes divers) 681,1 Md€, administrations locales 335,5 Md€, administrations de sécurité sociale 803,3 Md€. Déficit public : 152,5 Md€, soit 5,1 % du PIB (5,8 % en 2024). Dette : 3 460,5 Md€, soit 115,7 % du PIB. Prélèvements obligatoires : 43,6 % du PIB.",
+      "pertinence": "Statistique publique de référence : comptes nationaux des administrations publiques 2025.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Provision of deficit and debt data for 2025 - first notification (communiqué Eurostat)",
+      "organisme": "Eurostat (communiqué relayé par l'office statistique hongrois KSH)",
+      "date_publication": "22 avril 2026",
+      "url": "https://www.ksh.hu/en/first-releases/krm/eurostat_press_release_2026_04_22.pdf",
+      "passage": "« In 2025, government total expenditure to GDP ratio in the euro area stood at 49.8% of GDP » ; 49,5 % pour l'Union européenne. Dans les tableaux par pays : Finlande 57,5 %, France 57,2 %, Autriche 55,2 %, Belgique 54,2 % ; les plus bas : Irlande 21,0 %, Malte 37,0 %.",
+      "pertinence": "Communiqué officiel de l'office statistique de l'UE ; copie hébergée par l'office statistique hongrois. Chiffres par pays lus dans les tableaux.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Où la France dépense-t-elle davantage que ses voisins de la zone euro ? (Bulletin n° 259, article 4)",
+      "organisme": "Banque de France (M. Cochard et C. Deredec)",
+      "date_publication": "25 juillet 2025",
+      "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/ou-la-france-depense-t-elle-davantage-que-ses-voisins-de-la-zone-euro",
+      "passage": "En 2023, la France était en tête de la zone euro avec des dépenses de 57,0 % du PIB contre 49,5 % en moyenne, soit un écart de 7,5 points de PIB. « Pour les deux tiers, il s'explique par des dépenses de protection sociale nettement supérieures (+ 5,0 ppib) » ; « Cet écart de 5,0 ppib est principalement lié aux dépenses de retraite (2,2 ppib), de santé (1,5 ppib) ». Le tiers restant vient des affaires économiques, du logement et de l'enseignement.",
+      "pertinence": "Étude de la banque centrale nationale ; données 2023.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Le rapport des dépenses publiques au PIB est-il comparable entre les pays ?",
+      "organisme": "FIPECO (François Ecalle)",
+      "date_publication": "13 mars 2022",
+      "url": "https://fipeco.fr/fiche/Le-rapport-des-d%C3%A9penses-publiques-au-PIB-est-il-comparable-entre-les-pays-%3F",
+      "passage": "La comparaison est jugée pertinente : « le périmètre des dépenses publiques de la France semble correctement délimité ». Retraites publiques : 13,6 % du PIB en France contre 9,1 % en moyenne pour dix pays de l'OCDE ; avec les retraites privées, 13,9 % contre 11,8 %. Les complémentaires santé, qui ne sont pas des administrations publiques, représentent 13,7 % des dépenses de santé en France (10,2 % en Allemagne, 1,3 % en Suède). Prestations sociales 2019 : 25,3 % du PIB en France, 1re de l'UE, contre 22,4 % en zone euro.",
+      "pertinence": "Site d'analyse des finances publiques animé par un ancien magistrat de la Cour des comptes ; données 2018-2020.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Classement OCDE : la France toujours championne des dépenses publiques",
+      "organisme": "Acteurs publics (d'après l'OCDE, Panorama des administrations publiques)",
+      "date_publication": "13 juillet 2017",
+      "url": "https://acteurspublics.fr/articles/classement-ocde-la-france-toujours-championne-des-depenses-publiques/",
+      "passage": "« La France a les dépenses publiques les plus élevées parmi les 35 pays de l'OCDE » : 56 % du PIB en 2016, contre 41 % en moyenne, 44 % en Allemagne et près de 38 % aux États-Unis. « Hormis en 2015 où la Finlande l'a légèrement dépassée », la France est en tête depuis 2007.",
+      "pertinence": "Presse spécialisée rendant compte d'une publication de l'OCDE ; données anciennes (2016).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-05-31",
+  "raison_actualisation": "Comptes des administrations publiques 2026 (Insee) et notification Eurostat d'avril 2027.",
+  "objections_legitimes": [
+    "La France fait réellement partie des pays qui dépensent le plus, en proportion de leur richesse.",
+    "Le niveau de dépense ne garantit pas la qualité des services : la question de l'efficacité est légitime."
+  ],
+  "publics": {
+    "convaincus": "Le chiffre de 57 % est vrai, personne ne le nie. Mais ce n'est pas l'État qui garde cet argent : 771,0 milliards repartent chaque année en retraites, allocations et remboursements de soins. Et la Finlande, pays souvent cité en modèle, dépense un peu plus que nous.",
+    "indecis": "Se poser la question de l'efficacité de la dépense publique est sain. Mais il faut savoir ce qu'on veut couper : selon la Banque de France, l'écart avec nos voisins vient surtout des retraites et de la santé. Moins de dépense publique, c'est souvent plus de dépense privée pour les ménages."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "services_publics",
+      "repartition"
+    ],
+    "mecanismes": "Le chiffre global additionne des choses très différentes, et laisse croire qu’un État obèse engloutit la richesse, alors que l’essentiel est reversé aux ménages en retraites, en soins et en prestations.",
+    "consequences": "Présenter la dépense publique comme un gaspillage prépare des coupes qui reportent sur les ménages, surtout modestes, le coût de la santé et des retraites, payé ailleurs à des assureurs privés.",
+    "democratie": "Le niveau de dépense publique est un choix collectif qui doit être débattu ouvertement : ce que l’on veut financer ensemble et comment, plutôt qu’imposé au nom d’un classement.",
+    "propositions": [
+      "Présenter chaque année publiquement ce que finance la dépense publique, fonction par fonction.",
+      "Évaluer l’efficacité des aides aux entreprises et des niches fiscales avant de couper dans les prestations sociales.",
+      "Défendre la Sécurité sociale comme alternative moins chère et plus juste que les assurances privées."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France fait partie des pays qui dépensent le plus, et même en ajoutant les retraites privées elle reste au-dessus de la moyenne.",
+        "integration": "L’assumer comme un choix de solidarité, tout en exigeant que chaque euro soit utile et bien évalué."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "depense_publique",
+      "label": "Niveau de la dépense publique"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "dette",
+    "deficit",
+    "faillite",
+    "depenses publiques",
+    "argent public",
+    "argent magique",
+    "n a plus les moyens"
+  ],
+  "concepts": [
+    "dette",
+    "depense_publique"
+  ]
+}

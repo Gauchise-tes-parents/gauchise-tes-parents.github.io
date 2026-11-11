@@ -1,0 +1,236 @@
+{
+  "id": "attaques-couteau-ensauvagement",
+  "type": "idee_recue",
+  "affirmation": "Il y a des attaques au couteau tous les jours, c'est l'ensauvagement.",
+  "volet": "securite",
+  "sous_theme": "Violences",
+  "rubriques": [],
+  "mots_cles": [
+    "attaques au couteau",
+    "ensauvagement",
+    "120 attaques par jour",
+    "agressions arme blanche",
+    "coups de couteau",
+    "violence explose",
+    "france ensauvagee",
+    "couteau tous les jours"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Des agressions au couteau ont lieu chaque jour en France, c'est vrai, et les violences physiques enregistrées augmentent. Mais le chiffre de « 120 attaques par jour » est une estimation ancienne tirée d'une enquête auprès des victimes (2015-2017), pas un comptage. Les homicides ont fortement baissé depuis 1990 et restent rares (982 en 2025). Le mot « ensauvagement », venu de l'extrême droite, transforme une réalité à traiter en panique morale.",
+  "contexte": "Le chiffre de « 120 agressions au couteau par jour » circule depuis 2020 dans des questions parlementaires et sur les réseaux sociaux ; le mot « ensauvagement » a été repris la même année par le ministre de l'Intérieur.",
+  "explication": "Il faut distinguer une estimation par enquête de victimation, les faits enregistrés par la police, les condamnations et les homicides. Il faut aussi comparer dans le temps, au lieu de juger sur des vidéos.",
+  "faits": [
+    {
+      "fait": "Le chiffre de 120 victimes par jour vient d'une estimation de l'ONDRP : 44 000 victimes d'agressions à l'arme blanche en moyenne entre 2015 et 2017, soit 37 % des 118 000 personnes déclarant chaque année des violences physiques hors ménage.",
+      "periode": "2015-2017",
+      "perimetre": "France",
+      "explication": "C'est une estimation par enquête auprès des victimes, déjà ancienne, pas un comptage d'attaques.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "44 000 victimes"
+    },
+    {
+      "fait": "Le ministère de la Justice a répondu en 2020 que ce chiffre « ne résulte pas de faits constatés par un service de police ou de gendarmerie » ; il comptait 11 000 à 12 000 condamnations par an pour des infractions commises avec une arme, stables depuis une décennie.",
+      "periode": "2010-2020",
+      "perimetre": "France",
+      "explication": "Les condamnations pour infractions avec arme ne montrent pas d'explosion.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11 000 à 12 000 condamnations"
+    },
+    {
+      "fait": "Selon l'enquête de victimation analysée par l'ONDRP, 18 % des violences physiques dans l'espace public sont commises avec une arme, dont 7 % avec une arme blanche.",
+      "periode": "2014-2018",
+      "perimetre": "France métropolitaine",
+      "explication": "La grande majorité des violences de rue se font sans arme.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "7 %"
+    },
+    {
+      "fait": "Le taux d'homicides a baissé depuis 1990 ; en 2020, il se situait entre 0,6 et 1,3 pour 100 000 habitants selon la source, avec une légère hausse sur la dernière décennie.",
+      "periode": "1971-2021",
+      "perimetre": "France métropolitaine",
+      "explication": "Le meurtre reste rare, bien moins fréquent qu'il y a trente ans.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "0,6 à 1,3/100 000"
+    },
+    {
+      "fait": "En 2025, 982 homicides ont été enregistrés (+1 %), et les violences physiques ont progressé de 5 %.",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "Les violences enregistrées augmentent : c'est un fait défavorable à ne pas nier.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "982 homicides"
+    },
+    {
+      "fait": "Selon Europe 1, en 2020, les coups et blessures volontaires enregistrés étaient en hausse de 8 % sur un an, une hausse « significative mais pas une explosion » ; le mot « ensauvagement » avait d'abord été employé par l'extrême droite.",
+      "periode": "2019-2020",
+      "perimetre": "France",
+      "explication": "La hausse existe, mais le vocabulaire choisi relève de la peur plus que de la mesure.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "+8 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, il y a des agressions au couteau, et les violences enregistrées augmentent. Mais les « 120 attaques par jour » sont une estimation ancienne tirée d'une enquête auprès des victimes, pas un comptage. Le meurtre a nettement reculé depuis 1990. Parler d'« ensauvagement », c'est remplacer les chiffres par la peur.",
+    "moyen": "Le chiffre de 120 victimes par jour vient d'une estimation de l'ONDRP pour 2015-2017 : environ 44 000 victimes d'agressions à l'arme blanche par an, d'après les déclarations recueillies dans une enquête. Le ministère de la Justice rappelait en 2020 qu'il ne s'agit pas de faits constatés, et que les condamnations pour infractions avec arme (11 000 à 12 000 par an) étaient stables depuis dix ans.\n\nLes violences physiques enregistrées augmentent, c'est vrai : +5 % en 2025. Mais les homicides ont fortement baissé depuis 1990 et restent rares : 982 en 2025. Le mot « ensauvagement », venu de l'extrême droite, ne mesure rien ; il désigne des coupables au lieu de chercher des causes.",
+    "detaille": "D'où viennent les « 120 attaques au couteau par jour » ? D'une estimation de l'ONDRP, reprise dans des questions parlementaires : 44 000 victimes d'agressions à l'arme blanche par an en moyenne entre 2015 et 2017, soit 37 % des 118 000 personnes déclarant des violences physiques hors ménage. C'est une enquête auprès des victimes, utile mais ancienne, et ce n'est pas un décompte d'attaques. Le ministère de la Justice le rappelait en 2020, en ajoutant que les condamnations pour infractions avec arme, 11 000 à 12 000 par an, étaient stables depuis dix ans.\n\nIl ne faut pas pour autant nier la réalité. Les violences physiques enregistrées augmentent : +8 % en 2020, +5 % en 2025. Le meurtre, lui, a fortement reculé depuis 1990 : le taux d'homicides se situait entre 0,6 et 1,3 pour 100 000 habitants en 2020, et 982 homicides ont été enregistrés en 2025. Selon l'enquête de victimation, 18 % des violences dans l'espace public impliquent une arme, dont 7 % une arme blanche.\n\nLe mot « ensauvagement » a d'abord été employé par l'extrême droite avant d'être repris par un ministre de l'Intérieur en 2020. Le criminologue Christophe Soullez le disait alors : « Aucun chiffre objectif » n'atteste une explosion, et « le choc des images et des vidéos joue sur le ressenti ». Pour faire reculer les violences, il faut des chiffres publics fiables, des policiers de proximité, de la prévention et des moyens pour la justice, pas un mot qui désigne une partie de la population comme « sauvage ».",
+    "empathie": "Les vidéos d'agressions au couteau sont choquantes et la peur d'en être victime est réelle. On peut prendre cette peur au sérieux sans accepter des chiffres déformés."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est un chiffre officiel : 120 attaques par jour.",
+      "reponse": "C'est une estimation par enquête auprès des victimes pour 2015-2017, pas un comptage ; le ministère de la Justice lui-même a rappelé que ce ne sont pas des faits constatés."
+    },
+    {
+      "objection": "On tue de plus en plus en France.",
+      "reponse": "Le taux d'homicides a fortement baissé depuis 1990 ; il a légèrement remonté sur la dernière décennie, mais reste loin des niveaux passés."
+    }
+  ],
+  "questions": [
+    "Sais-tu d'où vient exactement le chiffre de 120 attaques par jour ?",
+    "Est-ce que tu jugerais la sécurité de ton quartier sur des vidéos ou sur des chiffres sur trente ans ?"
+  ],
+  "limites": [
+    "L'estimation de l'ONDRP porte sur 2015-2017 ; aucune estimation plus récente des agressions à l'arme blanche n'a été lue.",
+    "Les pages officielles du ministère de l'Intérieur sur le bilan 2025 n'ont pas pu être ouvertes ; les chiffres 2025 viennent d'un compte rendu de presse.",
+    "Le document du CESDIP sur les homicides n'indique ni auteur ni date.",
+    "La part des homicides commis à l'arme blanche n'est donnée par aucune source lue."
+  ],
+  "sources": [
+    {
+      "titre": "Question écrite n° 27292 (agressions à l'arme blanche) et réponse du ministère de la Justice",
+      "organisme": "Assemblée nationale (réponse du garde des Sceaux)",
+      "date_publication": "question publiée le 10 mars 2020, réponse publiée au JO le 23 juin 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE27292.pdf",
+      "passage": "La question cite 44 000 agressions à l'arme blanche sur la période 2015-2017, soit 120 victimes par jour. La réponse indique que ce chiffre « ne résulte pas de faits constatés par un service de police ou de gendarmerie » mais « d'une enquête d'opinion ». Elle relève 4 millions de faits constatés en 2001 contre 3,68 millions en 2019, et 11 000 à 12 000 condamnations par an pour des infractions commises avec une arme, stables depuis une décennie, dont environ 4 000 assorties d'emprisonnement ferme.",
+      "pertinence": "Réponse ministérielle officielle. Le chiffre de 44 000 vient en réalité d'une enquête de victimation (déclarations des victimes), que la réponse qualifie d'« enquête d'opinion » ; données anciennes (2015-2019).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 28125 sur les agressions à l'arme blanche",
+      "organisme": "Sénat (question de Mme Valérie Boyer, LR)",
+      "date_publication": "2 juin 2022 (question devenue caduque, sans réponse)",
+      "url": "https://www.senat.fr/questions/base/2022/qSEQ220628125.html",
+      "passage": "La question cite une étude de l'ONDRP (2020) estimant à 44 000 le nombre de victimes d'agressions à l'arme blanche entre 2015 et 2017, soit plus de 120 par jour en moyenne, ce qui représente 37 % des 118 000 personnes déclarant chaque année des violences physiques de la part d'une personne ne vivant pas avec elles. Elle indique que police et gendarmerie « ont du mal à les quantifier précisément », seuls les vols avec ce type d'arme faisant l'objet d'un comptage spécifique.",
+      "pertinence": "Texte d'une parlementaire de droite (pas une réponse officielle) ; utile pour retracer l'origine du chiffre et l'absence de comptage policier spécifique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les caractéristiques des violences physiques dans l'espace public (Flash'Crim n° 30)",
+      "organisme": "Observatoire national de la délinquance et des réponses pénales (ONDRP, INHESJ)",
+      "date_publication": "octobre 2020",
+      "url": "https://www.ihemi.fr/sites/default/files/publications/files/2020-10/flash_30_caracteristiques_violences_physiques_espace_public.pdf",
+      "passage": "À partir de l'enquête de victimation Cadre de vie et sécurité (environ 16 000 personnes interrogées par an, victimations de 2014 à 2018) : « 47% des victimes de violences physiques indiquent qu'elles ont eu lieu dans l'espace public » ; « Près d'une violence physique dans l'espace public sur cinq (18%) est accomplie à l'aide d'une arme » ; « ces violences mobilisent principalement des armes blanches (7%) ». 61 % des victimes sont des hommes, d'âge médian 29 ans.",
+      "pertinence": "Organisme public de statistique de la délinquance (supprimé en 2020) ; estimations d'enquête, données 2014-2018.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "L'homicide est rare",
+      "organisme": "CESDIP (Centre de recherches sociologiques sur le droit et les institutions pénales), Observatoire scientifique du crime et de la justice",
+      "date_publication": "date non indiquée sur le document (données jusqu’en 2021)",
+      "url": "https://oscj2.cesdip.fr/wp-content/uploads/2023/07/Lhomicide-est-rare.pdf",
+      "passage": "Taux d'homicides volontaires 1971-2021 (sources SSMSI et Inserm-CépiDc) : en 2020, hors tentatives, entre 0,6 et 1,3 pour 100 000 habitants ; 425 homicides selon la statistique des causes de décès et 863 selon la statistique policière. Tendance : baisse depuis 1990, puis stabilité et légère hausse sur la dernière décennie.",
+      "pertinence": "Laboratoire de recherche public (CNRS, ministère de la Justice, université) ; document court, auteur et date non indiqués sur la page lue.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Crimes, agressions physiques : la délinquance a-t-elle vraiment explosé ?",
+      "organisme": "Europe 1",
+      "date_publication": "date non affichée sur la page lue (fin de l'été 2020, d'après le contenu)",
+      "url": "https://www.europe1.fr/societe/crimes-agressions-physiques-la-delinquance-a-t-elle-vraiment-explose-3989556",
+      "passage": "Le mot « ensauvagement » a d'abord été employé par l'extrême droite, puis repris pendant l'été par le ministre de l'Intérieur Gérald Darmanin. Homicides : +5 % sur les douze derniers mois. Coups et blessures volontaires : +8 % sur un an, une hausse « significative mais pas une explosion », continue depuis trois ou quatre ans, avec une accélération en 2019. Le sentiment d'insécurité est stable depuis dix ans.",
+      "pertinence": "Grande radio ; article de vérification sans auteur nommé, chiffres de 2019-2020.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La France connaît-elle vraiment un « ensauvagement » de sa société ?",
+      "organisme": "La Libre Belgique (correspondante en France)",
+      "date_publication": "14 septembre 2020",
+      "url": "https://www.lalibre.be/international/europe/la-violence-est-desormais-plus-visible-mais-on-ne-peut-pas-dire-qu-elle-explose-5f5e616b9978e2322fed0854",
+      "passage": "Le criminologue Christophe Soullez (ONDRP) estime qu'on ne peut pas dire que la violence explose : « Aucun chiffre objectif ne l'atteste. » Il ajoute que « le choc des images et des vidéos joue sur le ressenti ». Selon l'enquête de victimation, le sentiment d'insécurité est stable depuis dix ans et 80 % des Français se sentent en sécurité.",
+      "pertinence": "Quotidien belge de référence ; entretien avec le responsable de l'ONDRP (2020).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Crime in France in 2025: burglaries and car thefts fall but fraud rises",
+      "organisme": "The Connexion (d’après le bilan du SSMSI)",
+      "date_publication": "5 février 2026",
+      "url": "https://www.connexionfrance.com/news/crime-in-france-in-2025-burglaries-and-car-thefts-fall-but-fraud-rises/767821",
+      "passage": "982 homicides enregistrés en 2025, en hausse de 1 % sur un an. « Cases of physical violence are up by 5% » (les violences physiques progressent de 5 %).",
+      "pertinence": "Presse anglophone en France rendant compte du premier bilan 2025 du service statistique du ministère de l'Intérieur (pages officielles inaccessibles).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-02-28",
+  "raison_actualisation": "Bilan annuel 2026 du service statistique du ministère de l'Intérieur (homicides, violences physiques).",
+  "objections_legitimes": [
+    "Les violences physiques enregistrées augmentent depuis plusieurs années.",
+    "Les agressions au couteau ne font pas l'objet d'un comptage policier spécifique (seuls les vols avec ce type d'arme le sont, selon une question parlementaire de 2022), ce qui nourrit les rumeurs."
+  ],
+  "publics": {
+    "convaincus": "Personne ne nie qu'il y a des agressions au couteau, ni que les violences enregistrées augmentent. Mais le chiffre de 120 par jour est une estimation ancienne tirée d'une enquête, pas un comptage officiel. Et le meurtre a fortement reculé depuis 1990 : il était plus fréquent il y a trente ans.",
+    "indecis": "Ta peur est compréhensible : les images tournent en boucle. Les repères fiables existent : le taux d'homicides a baissé depuis 1990, les violences physiques augmentent mais n'explosent pas. Ce qu'il faut, ce sont des chiffres publics et de la prévention, pas un mot qui désigne des coupables."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "services_publics",
+      "antiracisme"
+    ],
+    "mecanismes": "Une estimation ancienne tirée d’une enquête auprès des victimes devient un « comptage officiel », et des vidéos virales remplacent les séries longues ; le mot « ensauvagement » désigne implicitement une partie de la population comme « sauvage ».",
+    "consequences": "La peur justifie des mesures répressives et stigmatisantes, pendant que la prévention, la police de proximité et la justice manquent de moyens, et que les victimes réelles restent mal comptées.",
+    "democratie": "Un débat honnête sur la sécurité exige une statistique publique fiable et régulière sur les violences avec arme, publiée par un organisme indépendant.",
+    "propositions": [
+      "Publier chaque année une statistique publique des violences commises avec une arme blanche, avec une méthode transparente.",
+      "Renforcer la police de proximité, la prévention et l’accompagnement des victimes.",
+      "Financer les éducateurs et la prévention des rixes chez les jeunes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les violences physiques enregistrées augmentent depuis plusieurs années, et le taux d’homicides a légèrement remonté sur la dernière décennie.",
+        "integration": "Le reconnaître clairement, puis rappeler que le meurtre a fortement reculé sur trente ans et que la réponse passe par la prévention et des moyens, pas par un vocabulaire de peur."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "couteau",
+      "label": "Attaques au couteau"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "cout",
+    "couts",
+    "une fortune",
+    "rapportent"
+  ],
+  "concepts": [
+    "delinquance",
+    "cout",
+    "couteau"
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "id": "fonctionnaires-licenciement",
+  "type": "idee_recue",
+  "affirmation": "Les fonctionnaires ne peuvent jamais être licenciés.",
+  "volet": "services",
+  "sous_theme": "Fonction publique",
+  "rubriques": [],
+  "mots_cles": [
+    "fonctionnaires jamais licencies",
+    "licencier un fonctionnaire",
+    "emploi a vie fonctionnaire",
+    "fonctionnaire intouchable",
+    "revocation fonctionnaire",
+    "statut fonctionnaire",
+    "insuffisance professionnelle",
+    "sanctions fonctionnaires"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "C'est faux : la loi prévoit le licenciement d'un fonctionnaire pour insuffisance professionnelle et la révocation, sanction disciplinaire la plus lourde. Des milliers d'agents sont sanctionnés chaque année (3 949 dans la fonction publique de l'État en 2023). Il est vrai que les licenciements pour insuffisance restent rares (12 fonctionnaires de l'État en 2024), et que le statut protège : c'est son but, pour éviter l'arbitraire politique. Et près d'un agent public sur quatre n'est d'ailleurs pas fonctionnaire mais contractuel.",
+  "contexte": "L'« emploi à vie » des fonctionnaires est un cliché ancien, souvent utilisé pour opposer salariés du privé et agents publics.",
+  "explication": "Il faut distinguer la garantie de l'emploi (pas de licenciement économique), qui existe, et l'impossibilité d'être sanctionné ou renvoyé, qui n'existe pas. Il faut aussi rappeler qu'une part croissante des agents publics sont contractuels.",
+  "faits": [
+    {
+      "fait": "Un fonctionnaire titulaire peut être licencié pour insuffisance professionnelle, c'est-à-dire « l'incapacité à exercer les fonctions correspondant à un grade », ou après avoir refusé des postes proposés à la fin d'une disponibilité.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le licenciement existe bel et bien dans le statut.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'échelle des sanctions disciplinaires comprend quatre groupes ; le quatrième prévoit la mise à la retraite d'office et la révocation.",
+      "periode": "2026",
+      "perimetre": "Fonction publique de l'État",
+      "explication": "La révocation est un renvoi définitif pour faute.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2023, 3 949 agents de la fonction publique de l'État ont été sanctionnés ; pour les violences sexuelles ou sexistes, la révocation est prononcée dans un tiers des cas.",
+      "periode": "2023",
+      "perimetre": "Fonction publique de l'État",
+      "explication": "Les sanctions sont fréquentes et peuvent aller jusqu'au renvoi.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "3 949 agents"
+    },
+    {
+      "fait": "Dans la fonction publique territoriale, 7 400 sanctions ont visé des fonctionnaires titulaires en 2023, dont 3 à 4 % relèvent du 4e groupe, surtout des révocations.",
+      "periode": "2023",
+      "perimetre": "Fonction publique territoriale",
+      "explication": "Des révocations sont prononcées chaque année.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "7 400 sanctions"
+    },
+    {
+      "fait": "Selon Acteurs publics, en 2024, seuls 12 fonctionnaires de l'État ont été licenciés pour insuffisance professionnelle (16 en 2023).",
+      "periode": "2023-2024",
+      "perimetre": "Fonction publique de l'État",
+      "explication": "Fait défavorable : ce licenciement reste très rare.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "12 fonctionnaires"
+    },
+    {
+      "fait": "Fin 2024, 5,9 millions de personnes travaillent dans la fonction publique ; 24,0 % sont contractuelles, et leur nombre a augmenté de 35 900 en 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Près d'un agent sur quatre n'a pas le statut de fonctionnaire.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "24,0 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux. Un fonctionnaire peut être licencié pour insuffisance professionnelle ou révoqué pour faute : en 2023, 3 949 agents de l'État ont été sanctionnés. Le licenciement pour incompétence reste rare, c'est vrai. Mais le statut ne protège pas des fautes : il protège des pressions politiques.",
+    "moyen": "La loi prévoit plusieurs façons de se séparer d'un fonctionnaire. Il peut être licencié pour insuffisance professionnelle, ou révoqué : c'est la sanction la plus lourde de l'échelle disciplinaire. En 2023, 3 949 agents de la fonction publique de l'État ont été sanctionnés, et dans les collectivités, 3 à 4 % des sanctions visant des titulaires relèvent du groupe le plus grave, surtout des révocations.\n\nIl faut reconnaître que le licenciement pour incompétence est rare : 12 fonctionnaires de l'État en 2024. Mais le statut a une raison d'être : empêcher qu'un ministre ou un maire renvoie un agent pour des raisons politiques. Et près d'un agent public sur quatre est aujourd'hui contractuel, sans garantie d'emploi.",
+    "detaille": "Le statut de fonctionnaire n'est pas une immunité. Selon Service-Public.fr, un titulaire peut être licencié pour insuffisance professionnelle, définie comme « l'incapacité à exercer les fonctions correspondant à un grade », ou après avoir refusé les postes proposés à l'issue d'une disponibilité. L'échelle des sanctions disciplinaires va de l'avertissement à la révocation, qui met fin définitivement à la carrière.\n\nCes sanctions sont appliquées. En 2023, 3 949 agents de la fonction publique de l'État ont été sanctionnés, selon la DGAFP ; pour les violences sexuelles ou sexistes, un tiers des sanctions sont des révocations. Dans les collectivités, 7 400 sanctions ont visé des titulaires la même année. Soyons honnêtes : le licenciement pour insuffisance reste rare, avec 12 fonctionnaires de l'État concernés en 2024. On peut en débattre, à condition de rappeler qu'une procédure juste prend du temps.\n\nLe statut a une raison d'être : garantir que l'agent sert l'intérêt général et non le pouvoir du moment. Il est déjà fortement grignoté. La loi de 2019 a élargi le recours aux contractuels, créé des contrats de projet de six ans maximum et la rupture conventionnelle. Fin 2024, 24,0 % des agents publics sont contractuels. Le vrai sujet n'est pas un privilège, c'est la précarisation du service public.",
+    "empathie": "Quand on a soi-même connu la peur du licenciement dans le privé, l'idée d'un emploi garanti peut sembler injuste. Ce sentiment se comprend."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Dans les faits, personne n'est jamais renvoyé.",
+      "reponse": "Des révocations sont prononcées chaque année, par exemple dans un tiers des cas de violences sexuelles ou sexistes dans la fonction publique de l'État."
+    },
+    {
+      "objection": "Il suffirait de supprimer le statut.",
+      "reponse": "Le statut protège les agents des pressions politiques ; et près d'un quart des agents sont déjà contractuels, souvent précaires."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'un fonctionnaire peut être révoqué, c'est-à-dire renvoyé définitivement ?",
+    "Voudrais-tu qu'un nouveau maire puisse renvoyer les agents de ta commune parce qu'ils n'ont pas voté pour lui ?"
+  ],
+  "limites": [
+    "Aucune source lue ne donne le nombre exact de révocations, toutes fonctions publiques confondues.",
+    "Les données de la fonction publique territoriale présentent des totaux incohérents ; les pourcentages sont donnés à titre indicatif.",
+    "Les cas d'abandon de poste ou de perte de nationalité n'ont pas été vérifiés.",
+    "La loi de 2019 a été lue à travers une présentation juridique, pas sur Légifrance ; la page de Vie publique ne s'est pas ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Licenciement d'un fonctionnaire",
+      "organisme": "Service-Public.fr (Direction de l'information légale et administrative)",
+      "date_publication": "vérifié le 9 octobre 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13322",
+      "passage": "Un fonctionnaire titulaire peut être licencié pour insuffisance professionnelle, définie comme « l'incapacité à exercer les fonctions correspondant à un grade » (procédure disciplinaire, indemnité sauf exceptions) ; après refus de postes proposés à l'issue d'une disponibilité ou d'un congé de maladie ; dans la fonction publique territoriale, à la fin d'une prise en charge par un centre de gestion. Le stagiaire peut être licencié pour insuffisance professionnelle, faute disciplinaire ou inaptitude.",
+      "pertinence": "Site officiel d'information administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Procédure disciplinaire dans la fonction publique (fonctionnaire titulaire de l'État)",
+      "organisme": "Service-Public.fr",
+      "date_publication": "vérifié le 9 octobre 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F510",
+      "passage": "Sanctions du 1er groupe : « Avertissement », « Blâme », « Exclusion temporaire de fonctions de 1 à 3 jours ». 2e groupe : radiation du tableau d'avancement, abaissement d'échelon, exclusion de 4 à 15 jours, déplacement d'office. 3e groupe : rétrogradation, « Exclusion temporaire de fonctions de 16 jours à 2 ans ». 4e groupe : « Mise à la retraite d'office », « Révocation ».",
+      "pertinence": "Site officiel d'information administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les sanctions disciplinaires et les recours – Édition 2024",
+      "organisme": "DGAFP (portail de la fonction publique)",
+      "date_publication": "15 novembre 2024",
+      "url": "https://www.fonction-publique.gouv.fr/index%2Ephp/toutes-les-publications/les-sanctions-disciplinaires-et-les-recours-edition-2024",
+      "passage": "« En 2023, 3 949 agents de la fonction publique de l'État ont été sanctionnés ». Pour les faits de violence sexuelle ou sexiste, « dans un tiers des cas la sanction infligée est la révocation ».",
+      "pertinence": "Publication statistique officielle de la direction générale de l'administration et de la fonction publique ; données 2023 ; le fichier détaillé n'a pas été ouvert.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Synthèse nationale des rapports sociaux uniques 2023, indicateurs G « Discipline »",
+      "organisme": "Ministère chargé des collectivités territoriales (site collectivites-locales.gouv.fr)",
+      "date_publication": "2025 (données 2023)",
+      "url": "https://www.collectivites-locales.gouv.fr/files/Accueil/DESL/2025/RSU%202023/Indicateurs%20-%20G%20-%20Discipline%202023.pdf",
+      "passage": "Dans la fonction publique territoriale, 7 400 sanctions ont visé des fonctionnaires titulaires en 2023 : 85 % relèvent du 1er groupe (avertissements, blâmes, exclusions de 3 jours au plus), 7 % du 3e groupe et 3 à 4 % du 4e groupe, surtout des révocations. Environ 1 200 sanctions ont visé des contractuels.",
+      "pertinence": "Synthèse statistique officielle des rapports sociaux des collectivités ; les totaux généraux présentent des incohérences et les révocations ne sont données qu'en pourcentage.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "12 fonctionnaires de l'État licenciés pour insuffisance professionnelle en 2024",
+      "organisme": "Acteurs publics (d'après le rapport annuel de la DGAFP)",
+      "date_publication": "31 octobre 2025",
+      "url": "https://acteurspublics.fr/articles/12-fonctionnaires-de-letat-licencies-pour-insuffisance-professionnelle-en-2024/",
+      "passage": "En 2024, 27 licenciements pour insuffisance professionnelle dans la fonction publique de l'État : « 12 d'entre eux concernent des fonctionnaires et 15 des contractuels ». En 2023 : 16 fonctionnaires et 14 contractuels.",
+      "pertinence": "Presse spécialisée citant le rapport annuel officiel de la DGAFP.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'emploi dans la fonction publique en 2024 (Insee Première n° 2094)",
+      "organisme": "Insee et DGAFP",
+      "date_publication": "10 février 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8732435",
+      "passage": "« Fin 2024, 5,9 millions d'agents travaillent dans la fonction publique » ; « la part des contractuels au sein des agents publics s'élève à 24,0 % » ; les fonctionnaires représentent 63,8 % des agents, militaires compris. Le nombre de contractuels a augmenté de 35 900 en 2024.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique (présentation)",
+      "organisme": "AP-HP, direction des affaires juridiques",
+      "date_publication": "2019",
+      "url": "https://affairesjuridiques.aphp.fr/textes/loi-n-2019-828-du-6-aout-2019-de-transformation-de-la-fonction-publique/",
+      "passage": "La loi crée un « contrat de projet » (CDD pour un projet, six ans maximum), rend possible la rupture conventionnelle, élargit le recours aux contractuels pour certains emplois de direction et introduit de nouvelles sanctions dans l'échelle des sanctions disciplinaires. Les commissions administratives paritaires restent compétentes notamment pour les licenciements pour insuffisance professionnelle.",
+      "pertinence": "Présentation juridique par le service juridique d'un établissement public hospitalier.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Rapport annuel de la DGAFP (sanctions et licenciements 2025).",
+  "objections_legitimes": [
+    "Les licenciements pour insuffisance professionnelle sont très rares.",
+    "Les procédures disciplinaires peuvent être longues."
+  ],
+  "publics": {
+    "convaincus": "Un fonctionnaire peut être révoqué : c'est écrit noir sur blanc dans le statut. En 2023, 3 949 agents de l'État ont été sanctionnés. Il est vrai que le licenciement pour incompétence est rare, mais près d'un agent sur quatre est déjà contractuel, sans garantie d'emploi.",
+    "indecis": "Le statut ne protège pas des fautes : il protège des pressions politiques, pour que l'agent serve tout le monde de la même façon. Les licenciements pour insuffisance sont rares, on peut en débattre. Mais aujourd'hui, la tendance est plutôt à la précarisation, avec 24,0 % de contractuels."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "travailleurs",
+      "egalite"
+    ],
+    "mecanismes": "Le cliché de l’emploi à vie oppose les salariés du privé aux agents publics, pour faire accepter la casse du statut au lieu d’améliorer les droits de tous.",
+    "consequences": "La multiplication des contrats précaires fragilise les agents et la continuité du service public, et rend les fonctionnaires plus exposés aux pressions politiques.",
+    "democratie": "Le statut garantit que l’agent sert l’intérêt général et la loi, pas le pouvoir du moment : c’est une protection pour les usagers autant que pour les agents.",
+    "propositions": [
+      "Titulariser les contractuels qui occupent des emplois permanents.",
+      "Renforcer l’accompagnement et la formation des agents en difficulté plutôt que la seule logique de sanction.",
+      "Publier chaque année des chiffres complets sur les sanctions et licenciements dans les trois fonctions publiques."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les licenciements pour insuffisance professionnelle restent très rares, et les procédures disciplinaires peuvent être longues.",
+        "integration": "Le reconnaître, et défendre des procédures plus rapides mais justes, avec un vrai accompagnement, sans supprimer les garanties du statut."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "fonct_licenciement",
+      "label": "Licenciement des fonctionnaires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "urgences",
+    "fonction publique",
+    "agents publics",
+    "emploi public"
+  ],
+  "concepts": [
+    "emploi",
+    "services_publics",
+    "fonctionnaires",
+    "fonct_licenciement"
+  ]
+}

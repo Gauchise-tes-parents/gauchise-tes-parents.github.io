@@ -1,0 +1,232 @@
+{
+  "id": "zan-maisons-individuelles",
+  "type": "idee_recue",
+  "affirmation": "Avec le zéro artificialisation nette, on ne pourra plus construire de maisons individuelles.",
+  "volet": "ecologie",
+  "sous_theme": "Biodiversité",
+  "rubriques": [],
+  "mots_cles": [
+    "zan maison individuelle",
+    "zero artificialisation nette",
+    "interdiction maison",
+    "plus de terrains a batir",
+    "zan pavillon",
+    "loi zan",
+    "fin du pavillon",
+    "artificialisation des sols"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux : la loi Climat et résilience de 2021 fixe un rythme de consommation des terres naturelles et agricoles, pas une interdiction d'un type de maison. Elle vise zéro artificialisation nette en 2050 et une réduction de moitié sur la première décennie. Les maisons restent possibles, mais en consommant moins de terres : dans les bourgs, sur des friches, sur des terrains plus petits. Les règles ont déjà été assouplies en 2023 (au moins un hectare garanti par commune), et une réforme (« Trace ») adoptée par le Sénat en 2025 reporte le premier jalon à 2034.",
+  "contexte": "Le ZAN est devenu un symbole de « l'écologie punitive » pour une partie de la droite et de l'extrême droite, qui le présentent comme la fin du rêve pavillonnaire.",
+  "explication": "Il faut distinguer l'objectif (moins de terres naturelles et agricoles consommées), les outils (documents d'urbanisme, quotas d'hectares) et ce qu'il interdit vraiment. L'habitat consomme la majorité des terres, donc le ZAN pousse à construire autrement, pas à ne plus construire.",
+  "faits": [
+    {
+      "fait": "La loi Climat et résilience de 2021 vise « l'absence de toute artificialisation nette des sols en 2050 » et une réduction de moitié du rythme d'artificialisation sur les dix premières années ; elle n'interdit pas de catégorie de construction en général.",
+      "periode": "2021-2050",
+      "perimetre": "France",
+      "explication": "Le ZAN est un objectif de sobriété foncière, pas une interdiction des maisons.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2023, le Parlement a garanti à chaque commune un droit à construire d'au moins un hectare et compté à part les grands projets nationaux.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les petites communes gardent des possibilités de construire.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "1 hectare"
+    },
+    {
+      "fait": "En mars 2025, le Sénat a adopté la proposition de loi « Trace », qui reporte à 2034 le premier jalon, sans objectif chiffré, tout en maintenant l'objectif de 2050 ; en avril 2026, elle n'avait pas encore été examinée par l'Assemblée nationale.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "La règle est déjà en train d'être assouplie, pas durcie.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En mai 2026, le Conseil constitutionnel a censuré, comme cavalier législatif, un assouplissement permettant aux collectivités de dépasser jusqu'à 20 % leur quota de surfaces aménageables.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les règles en vigueur restent celles de 2021 et 2023.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    },
+    {
+      "fait": "Selon le Cerema, 15 119 hectares ont été consommés en 2024, deux fois moins qu'en 2011 (29 470) ; 65 % de cette consommation concerne l'habitat.",
+      "periode": "2011-2024",
+      "perimetre": "France",
+      "explication": "Fait défavorable : l'habitat est le premier consommateur de terres, donc le ZAN pèse bien sur la construction de logements neufs en extension.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "65 %"
+    },
+    {
+      "fait": "Un hectare consommé permettait de construire 2 435 m² de bâti en 2021, contre 1 950 m² en 2011.",
+      "periode": "2011-2021",
+      "perimetre": "France",
+      "explication": "On construit déjà plus sur moins de terre : la sobriété foncière est possible.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "2 435 m²"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux. Le ZAN limite la quantité de terres agricoles et naturelles qu'on peut bétonner, il n'interdit pas les maisons. On pourra toujours en construire, plutôt dans les bourgs, sur des friches ou sur des terrains plus petits. Et chaque commune a au moins un hectare garanti depuis 2023.",
+    "moyen": "La loi Climat et résilience de 2021 vise zéro artificialisation nette en 2050, avec d'abord une réduction de moitié du rythme de consommation des terres. Elle n'interdit aucun type de logement : elle fixe un quota d'hectares, décliné dans les plans d'urbanisme.\n\nIl est vrai que l'habitat consomme la majorité des terres : 65 % en 2024 selon le Cerema. Le ZAN pousse donc à construire autrement : réhabiliter, utiliser les friches, densifier les bourgs. Les règles ont déjà été assouplies : un hectare garanti par commune depuis 2023, et une réforme adoptée par le Sénat en 2025 qui repousse le premier objectif à 2034. Ce qu'on protège, ce sont les terres qui nous nourrissent.",
+    "detaille": "Que dit la loi ? Votée en 2021, la loi Climat et résilience fixe l'objectif d'« absence de toute artificialisation nette des sols en 2050 », avec une première étape : diviser par deux le rythme de consommation des terres sur dix ans. Cet objectif est décliné dans les schémas régionaux et les plans locaux d'urbanisme, qui doivent d'abord regarder les logements vacants et les friches. La loi n'interdit aucune catégorie de logement.\n\nPourquoi le logement est-il concerné ? Parce que l'habitat consomme la majorité des terres : 65 % en 2024 selon le Cerema. Le ZAN va donc limiter les grands lotissements sur des champs. Mais on construit déjà plus sur moins de terre : 2 435 m² de bâti par hectare en 2021, contre 1 950 en 2011. Selon la Fondation Abbé Pierre et la Fondation pour la Nature et l'Homme, on peut loger tout le monde en densifiant les zones pavillonnaires, en surélevant et en luttant contre les logements vacants.\n\nOù en est la loi ? Elle a déjà été assouplie en 2023, avec au moins un hectare garanti par commune. En 2025, le Sénat a adopté la proposition « Trace », qui repousse le premier jalon à 2034 ; en avril 2026, elle attendait encore l'Assemblée. En mai 2026, le Conseil constitutionnel a censuré un autre assouplissement glissé dans une loi de simplification. Le débat est légitime, mais protéger les terres agricoles, c'est aussi protéger notre alimentation et les paysans.",
+    "empathie": "Beaucoup de familles rêvent d'une maison avec un jardin, et craignent qu'on leur retire ce projet. Ce désir est respectable."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les maires refusent déjà les permis à cause du ZAN.",
+      "reponse": "Le ZAN fixe un quota d'hectares, pas une interdiction : chaque commune a au moins un hectare garanti, et les maisons restent possibles dans les bourgs ou sur des friches."
+    },
+    {
+      "objection": "C'est l'écologie punitive contre les campagnes.",
+      "reponse": "L'objectif est de protéger les terres agricoles : 15 119 hectares ont encore été consommés en 2024, en majorité pour l'habitat."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la loi n'interdit aucun type de maison, mais limite le nombre d'hectares de champs qu'on peut bétonner ?",
+    "Où préférerais-tu qu'on construise : sur une friche ou un logement vacant du bourg, ou sur des terres agricoles ?"
+  ],
+  "limites": [
+    "L'état de la proposition de loi « Trace » a été vérifié jusqu'en avril 2026 ; son examen par l'Assemblée nationale après cette date n'a pas pu être confirmé.",
+    "Aucune source lue ne chiffre la part de la maison individuelle dans l'artificialisation ni l'effet du ZAN sur le prix des terrains.",
+    "Les données du Cerema ont été lues à travers les comptes rendus de la Banque des Territoires.",
+    "Les propositions de la Fondation Abbé Pierre et de la Fondation pour la Nature et l'Homme sont celles d'organisations engagées."
+  ],
+  "sources": [
+    {
+      "titre": "Loi Climat et Résilience : ce qu'il faut retenir des mesures de lutte contre l'artificialisation des sols",
+      "organisme": "Banque des Territoires (Localtis, avec AEF)",
+      "date_publication": "17 décembre 2021",
+      "url": "https://www.banquedesterritoires.fr/loi-climat-et-resilience-ce-quil-faut-retenir-des-mesures-de-lutte-contre-lartificialisation-des",
+      "passage": "L'article 191 de la loi du 22 août 2021 vise « l'objectif national d'absence de toute artificialisation nette des sols en 2050 » et prévoit de réduire de moitié le rythme d'artificialisation dans les dix ans, par rapport aux dix années précédentes. L'objectif est décliné dans les schémas régionaux, les SCoT (en tenant compte notamment des besoins en logements) et les PLU, qui doivent d'abord examiner « la capacité à mobiliser effectivement les locaux vacants, les friches ». La loi ajoute « l'optimisation de la densité des espaces urbanisés ». Elle n'interdit pas de catégorie de construction en général ; la règle la plus proche concerne les nouvelles surfaces commerciales.",
+      "pertinence": "Média des collectivités (Caisse des dépôts) résumant la loi.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Lutte contre l'artificialisation des sols : le Parlement adopte définitivement un texte pour redonner de la souplesse aux élus locaux",
+      "organisme": "Public Sénat",
+      "date_publication": "13 juillet 2023",
+      "url": "https://www.publicsenat.fr/actualites/environnement/lutte-contre-lartificialisation-des-sols-le-parlement-adopte-definitivement-un-texte-pour-redonner-de-la-souplesse-aux-elus-locaux",
+      "passage": "Le Sénat a adopté définitivement le texte par 343 voix pour, 1 contre et 16 abstentions. Une « garantie rurale » donne à chaque commune un droit à construire d'au moins un hectare, mutualisable. Les grands projets d'envergure nationale sont comptés à part et déduits de l'enveloppe des régions. Le gouvernement assure que le texte ne revient « pas pour autant sur les objectifs et la trajectoire » de 2021.",
+      "pertinence": "Média parlementaire ; loi de 2023.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Artificialisation des sols : multipliant les exemptions, les sénateurs assouplissent largement le Zan",
+      "organisme": "Maire-info (Association des maires de France)",
+      "date_publication": "19 mars 2025",
+      "url": "https://www.maire-info.com/artificialisation-sols-multipliant-les-exemptions-les-senateurs-assouplissent-largement-zan-article-29519",
+      "passage": "Le Sénat a adopté la proposition de loi « Trace » en première lecture le 18 mars 2025 (260 voix pour, 17 contre). Le jalon de réduction de moitié de l'artificialisation (de 250 000 à 125 000 hectares sur une décennie) est reporté à 2034, sans objectif chiffré, chaque région fixant son rythme. L'objectif de zéro artificialisation nette en 2050 est maintenu. Jusqu'en 2036, des projets industriels, d'agrivoltaïsme ou de logements sociaux des communes carencées seraient exclus du décompte.",
+      "pertinence": "Quotidien de l'Association des maires de France.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "ZAN : un rétropédalage contrôlé des députés !",
+      "organisme": "Weka (Frédéric Ville)",
+      "date_publication": "21 avril 2026",
+      "url": "https://www.weka.fr/actualite/urbanisme/article/zan-un-retropedalage-controle-des-deputes-213287/",
+      "passage": "Deux propositions de loi sur le ZAN attendent d'être discutées depuis 2025. « L'objectif du ZAN à horizon 2050 est maintenu. » Le gouvernement s'est engagé à inscrire la proposition de loi Trace à l'ordre du jour de l'Assemblée nationale avant la fin de la session ordinaire, en principe en juin.",
+      "pertinence": "Presse professionnelle des collectivités ; état au 21 avril 2026.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Loi de « simplification » : le Conseil constitutionnel censure la suppression des ZFE et l'assouplissement du ZAN",
+      "organisme": "Public Sénat",
+      "date_publication": "21 mai 2026",
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-de-simplification-le-conseil-constitutionnel-censure-la-suppression-des-zfe-et-lassouplissement-du-zan",
+      "passage": "Le Conseil constitutionnel a censuré comme « cavalier législatif » un assouplissement du ZAN introduit par LR et le RN dans la loi de simplification, « permettant aux collectivités de dépasser jusqu'à 20 % leur quota de surfaces aménageables ».",
+      "pertinence": "Média parlementaire rendant compte d'une décision du Conseil constitutionnel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La « bétonisation » d'espaces agricoles, naturels et forestiers au plus bas depuis 2011",
+      "organisme": "Banque des Territoires (Localtis), sur une étude du Cerema",
+      "date_publication": "1er juillet 2026",
+      "url": "https://www.banquedesterritoires.fr/la-betonisation-despaces-agricoles-naturels-et-forestiers-au-plus-bas-depuis-2011?pk_kwd=2026-07-01",
+      "passage": "En 2024, « 15.119 hectares ont été artificialisés », contre 29 470 en 2011 : la consommation « a diminué de moitié en treize ans ». « 65% de la consommation d'Enaf concerne des projets liés à l'habitat » ; activité économique 23 %, infrastructures 7 %.",
+      "pertinence": "Média des collectivités rendant compte des données de l'établissement public Cerema.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La France a enregistré en 2023 la consommation foncière la plus faible depuis 15 ans",
+      "organisme": "Banque des Territoires (Localtis), sur une publication du Cerema",
+      "date_publication": "13 mai 2025",
+      "url": "https://www.banquedesterritoires.fr/la-france-enregistre-en-2023-la-consommation-fonciere-la-plus-faible-depuis-15-ans",
+      "passage": "En 2023, 19 263 hectares d'espaces naturels, agricoles et forestiers ont été consommés. « 64% des espaces naturels consommés depuis 2011 l'ont été pour de l'habitat, 23% pour des activités économiques. » Un hectare consommé permettait de construire 2 435 m² de bâti en 2021, contre 1 950 m² en 2011.",
+      "pertinence": "Média des collectivités rendant compte des données du Cerema.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Loger les Français et réduire la bétonisation, c'est possible, selon deux ONG",
+      "organisme": "L'info durable, sur un rapport de la Fondation Abbé Pierre et de la Fondation pour la Nature et l'Homme",
+      "date_publication": "19 mars 2024",
+      "url": "https://www.linfodurable.fr/environnement/loger-les-francais-et-reduire-la-betonisation-cest-possible-selon-deux-ong-44353",
+      "passage": "Selon les deux fondations, l'artificialisation est due « pour près des deux tiers à la construction de logements », le modèle de la maison individuelle expliquant en partie que la France consomme plus d'espace qu'ailleurs. Elles proposent de densifier les zones pavillonnaires, de surélever, de lutter contre la vacance et la rétention foncière, et de privilégier le logement social.",
+      "pertinence": "Analyse de deux fondations engagées (logement et écologie), à citer avec attribution.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Suivi de la proposition de loi « Trace » à l'Assemblée nationale et nouvelles données du Cerema.",
+  "objections_legitimes": [
+    "Le ZAN réduit les terrains constructibles en extension des villages, ce qui peut compliquer certains projets.",
+    "Les élus des petites communes se sont plaints de règles uniformes, et la loi a été assouplie pour en tenir compte."
+  ],
+  "publics": {
+    "convaincus": "La loi n'interdit pas les maisons : elle limite le nombre d'hectares de champs bétonnés. Chaque commune a au moins un hectare garanti depuis 2023, et le Sénat a encore assoupli les règles en 2025. Le ZAN protège d'abord les terres agricoles, celles de nos paysans.",
+    "indecis": "Le ZAN change la façon de construire, c'est vrai : moins de lotissements sur des champs, plus de maisons dans les bourgs ou sur des friches. L'habitat consomme 65 % des terres, il faut donc s'organiser. Mais construire une maison reste possible, et la loi laisse de la souplesse aux communes."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "dignite",
+      "democratie"
+    ],
+    "mecanismes": "Le ZAN est présenté comme une interdiction de la maison individuelle pour en faire un symbole d’écologie punitive, alors qu’il fixe un rythme de consommation des terres.",
+    "consequences": "Abandonner la sobriété foncière, c’est continuer à bétonner les terres agricoles et naturelles, au détriment des paysans, de la biodiversité et de la protection contre les inondations.",
+    "democratie": "La répartition des terres constructibles doit se décider avec les habitants et les élus locaux, dans des documents d’urbanisme publics, et non par des assouplissements glissés dans des lois sans rapport.",
+    "propositions": [
+      "Mobiliser les logements vacants et réhabiliter les friches avant d’ouvrir de nouvelles terres à la construction.",
+      "Financer massivement le logement social et la rénovation des centres-bourgs.",
+      "Aider les petites communes rurales avec de l’ingénierie publique pour construire sans consommer de terres agricoles."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’habitat est le premier consommateur de terres, et le ZAN limite réellement les lotissements en extension des villages.",
+        "integration": "L’assumer : il s’agit de construire autrement, dans les bourgs et sur les friches, et de rendre ces logements accessibles aux familles modestes."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "zan",
+      "label": "Zéro artificialisation nette"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "zero artificialisation",
+    "artificialisation"
+  ],
+  "concepts": [
+    "zan"
+  ]
+}

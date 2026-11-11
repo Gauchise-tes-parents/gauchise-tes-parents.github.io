@@ -193,16 +193,6 @@
       }
     ]
   },
-  "concepts": [
-    "identite",
-    "patriotisme",
-    "fiscalite",
-    "riches_entreprises",
-    "fn_parti",
-    "isf",
-    "rn_riches",
-    "rn_fortune_fin"
-  ],
   "repond_a": [
     {
       "id": "rn_fortune_fin",
@@ -223,5 +213,15 @@
     "nos traditions",
     "on se croirait",
     "plus en france"
+  ],
+  "concepts": [
+    "identite",
+    "patriotisme",
+    "fiscalite",
+    "riches_entreprises",
+    "fn_parti",
+    "isf",
+    "rn_riches",
+    "rn_fortune_fin"
   ]
 }

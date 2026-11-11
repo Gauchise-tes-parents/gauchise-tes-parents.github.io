@@ -1,0 +1,248 @@
+{
+  "id": "sans-papiers-transports-idf",
+  "type": "idee_recue",
+  "affirmation": "Les sans-papiers voyagent quasiment gratuitement dans les transports en Île-de-France.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et aides sociales",
+  "rubriques": [],
+  "mots_cles": [
+    "sans papiers transports",
+    "sans papiers navigo",
+    "clandestins navigo gratuit",
+    "ame transports",
+    "reduction solidarite transport",
+    "navigo gratuit etrangers",
+    "transport gratuit migrants",
+    "pecresse ame transports"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Les étrangers sans papiers qui ont l'Aide médicale d'État (AME), donc de très faibles ressources, ont droit à une réduction de 50 % : le minimum prévu par la loi pour toutes les personnes pauvres. Un passe Navigo Mois leur coûte 45,40 € au lieu de 90,80 €. Ils paient plus que les Français pauvres au RSA (gratuité) ou à la Complémentaire santé solidaire (75 % de réduction). Avant 2016, ils avaient 75 % de réduction ; la région l'a supprimée, la justice a annulé cette décision, et la région a fixé le taux au minimum légal.",
+  "contexte": "En 2016, la région Île-de-France a voulu priver les bénéficiaires de l'AME de toute réduction dans les transports. La justice administrative a annulé cette décision jusqu'au Conseil d'État en 2019. En 2024, une tentative de passer par la loi immigration a été censurée.",
+  "explication": "Il faut regarder ce que dit la loi (une réduction d'au moins 50 % pour toute personne sous un plafond de ressources), ce qu'applique Île-de-France Mobilités aujourd'hui et ce que paient les autres publics précaires.",
+  "faits": [
+    {
+      "fait": "Selon Île-de-France Mobilités, Île-de-France Mobilités accorde aux bénéficiaires de l'AME une « Réduction 50 % » ; la gratuité est réservée à certains foyers au RSA ou à l'ASS, et la réduction de 75 % aux bénéficiaires de la Complémentaire santé solidaire sans participation.",
+      "periode": "2026",
+      "perimetre": "Île-de-France",
+      "explication": "Les sans-papiers sont moins aidés que les Français précaires.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "50 %"
+    },
+    {
+      "fait": "Selon Île-de-France Mobilités, en 2026, le forfait Navigo Mois toutes zones coûte 90,80 € ; avec la réduction de 50 %, il coûte 45,40 €, et 22,70 € avec la réduction Solidarité de 75 %.",
+      "periode": "2026",
+      "perimetre": "Île-de-France",
+      "explication": "45 euros par mois, ce n'est pas « quasiment gratuit ».",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "45,40 €"
+    },
+    {
+      "fait": "Le code des transports impose une réduction d'au moins 50 % à toute personne sous le plafond de ressources ; le Conseil d'État a jugé en 2019 que cette seule condition de ressources s'applique aussi aux bénéficiaires de l'AME.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "La réduction découle de la loi, pas d'un privilège accordé aux étrangers.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "50 %"
+    },
+    {
+      "fait": "Avant 2016, les bénéficiaires de l'AME avaient droit à une réduction de 75 % ; elle coûtait environ 43 millions d'euros en 2015 selon Île-de-France Mobilités, et plus de 117 000 Franciliens étaient concernés selon un groupe d'opposition.",
+      "periode": "2015-2018",
+      "perimetre": "Île-de-France",
+      "explication": "Fait défavorable : la réduction a été plus forte et avait un coût réel ; elle a été ramenée au minimum légal.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "43 millions d’euros"
+    },
+    {
+      "fait": "La suppression décidée en 2016 a été annulée par le tribunal administratif de Paris en janvier 2018, puis par la cour administrative d'appel en juillet 2018, pour « erreur de droit ».",
+      "periode": "2016-2018",
+      "perimetre": "Île-de-France",
+      "explication": "La région a voulu exclure ces personnes en violant la loi.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En janvier 2024, le Conseil constitutionnel a censuré comme « cavalier » l'article de la loi immigration qui privait les étrangers en situation irrégulière des réductions tarifaires en Île-de-France.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le sujet revient régulièrement dans le débat politique.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : un sans-papiers qui a l'AME paie son passe Navigo 45,40 € par mois au lieu de 90,80 €. C'est la réduction minimale que la loi garantit à toute personne pauvre. Les Français au RSA, eux, voyagent gratuitement.",
+    "moyen": "La loi garantit une réduction d'au moins 50 % dans les transports à toute personne sous un plafond de ressources. Les bénéficiaires de l'AME, des sans-papiers aux revenus très faibles, ont exactement ce minimum : 45,40 € par mois pour un passe Navigo toutes zones en 2026, au lieu de 90,80 €.\n\nLes Français précaires sont mieux aidés : gratuité pour certains foyers au RSA, 75 % de réduction pour la Complémentaire santé solidaire. Avant 2016, les bénéficiaires de l'AME avaient aussi 75 % ; la région l'a supprimé, la justice a annulé cette décision jusqu'au Conseil d'État, et la réduction a été ramenée au minimum légal.",
+    "detaille": "Aujourd'hui, Île-de-France Mobilités applique trois niveaux d'aide. La gratuité concerne des foyers au RSA sous conditions et certains allocataires de l'ASS. La réduction de 75 % vise les bénéficiaires de la Complémentaire santé solidaire gratuite. Les bénéficiaires de l'AME, des étrangers sans titre de séjour aux ressources très faibles, ont la réduction la plus faible : 50 %. En 2026, leur passe Navigo Mois toutes zones coûte 45,40 €, contre 90,80 € au plein tarif et 22,70 € avec la réduction de 75 %.\n\nCette réduction n'est pas un cadeau de la région. Le code des transports impose une réduction d'au moins 50 % à toute personne sous un plafond de ressources. En 2016, la région a voulu exclure les bénéficiaires de l'AME, qui avaient jusque-là 75 % de réduction, un dispositif chiffré à environ 43 millions d'euros en 2015. Le tribunal administratif, la cour d'appel puis le Conseil d'État en 2019 ont jugé que la loi ne pose qu'une condition de ressources, pas de régularité du séjour.\n\nLe sujet revient régulièrement : en 2024, un article de la loi immigration qui supprimait ces réductions a été censuré par le Conseil constitutionnel. Le débat est légitime, mais il doit partir des faits : les sans-papiers ne voyagent pas « quasiment gratuitement », ils paient la moitié du prix, comme le prévoit la loi pour les plus pauvres.",
+    "empathie": "Payer cher son passe Navigo quand on gagne juste un peu trop pour être aidé, c'est rageant. Ce sentiment d'injustice est réel ; il mérite qu'on regarde qui paie quoi."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est une prime à l'illégalité.",
+      "reponse": "La loi garantit la même réduction minimale à toute personne pauvre ; le Conseil d'État a jugé que seule la condition de ressources compte."
+    },
+    {
+      "objection": "Les étrangers ont plus d'avantages que les Français.",
+      "reponse": "C'est l'inverse : les bénéficiaires de l'AME ont 50 %, alors que des Français au RSA voyagent gratuitement et que la Complémentaire santé solidaire donne 75 %."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'un bénéficiaire de l'AME paie son passe Navigo plus cher qu'un allocataire du RSA ?",
+    "Est-ce que tu trouverais juste qu'une personne pauvre paie plein tarif selon ses papiers, alors que la loi parle seulement de ressources ?"
+  ],
+  "limites": [
+    "Aucune source lue ne donne le nombre actuel de bénéficiaires de la réduction de 50 % ni son coût actuel.",
+    "Le chiffre de 117 000 bénéficiaires (2018) vient d'un groupe politique ; le coût de 43 millions d'euros date de 2015.",
+    "La décision du Conseil d'État a été lue à travers un blog d'avocats qui la reproduit ; Légifrance n'a pas été ouvert."
+  ],
+  "sources": [
+    {
+      "titre": "Qu'est-ce que la tarification Solidarité Transport ?",
+      "organisme": "Île-de-France Mobilités",
+      "date_publication": "page consultée le 11 novembre 2026",
+      "url": "https://www.iledefrance-mobilites.fr/aide-et-contacts/reductions-et-gratuite/quest-ce-que-la-tarification-solidarite-transport",
+      "passage": "Trois niveaux : « Solidarité Gratuité » pour des foyers allocataires du RSA sous conditions de ressources et certains allocataires de l'ASS ; « Réduction Solidarité 75 % » pour les bénéficiaires de la Complémentaire santé solidaire sans participation financière et les allocataires de l'ASS ; « Réduction 50 % » sur les forfaits Navigo Mois et Semaine et les tickets pour « les bénéficiaires de l'Aide Médicale d'Etat (AME) ».",
+      "pertinence": "Autorité organisatrice des transports franciliens ; page officielle sans date de mise à jour.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les tarifs Île-de-France Mobilités 2026",
+      "organisme": "Île-de-France Mobilités",
+      "date_publication": "tarifs au 1er janvier 2026",
+      "url": "https://www.iledefrance-mobilites.fr/tarifs-titre-de-transport-en-commun-2026",
+      "passage": "Forfait Navigo Mois toutes zones : « 90,80 € ». Forfait Navigo Réduction 50 % Mois toutes zones : « 45,40 € ». Forfait Réduction Solidarité 75 % Mois toutes zones : « 22,70 € ».",
+      "pertinence": "Grille tarifaire officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Transports publics : il n'est pas régulier de discriminer par les tarifs l'étranger en situation irrégulière (sur CE, 9 octobre 2019, n° 423937)",
+      "organisme": "Landot & associés (blog juridique), reproduisant la décision du Conseil d'État",
+      "date_publication": "15 octobre 2019",
+      "url": "https://blog.landot-avocats.net/2019/10/15/transports-publics-il-nest-pas-regulier-de-discriminer-par-les-tarifs-letranger-en-situation-irreguliere/amp/",
+      "passage": "Le Conseil d'État rejette le pourvoi d'Île-de-France Mobilités. L'article L. 1113-1 du code des transports prévoit que les personnes dont les ressources sont sous le plafond fixé par le code de la sécurité sociale « bénéficient d'une réduction tarifaire d'au moins 50 % sur leurs titres de transport ou d'une aide équivalente ». Le législateur a fixé pour seule condition un plafond de ressources ; les bénéficiaires de l'AME peuvent donc prétendre à la réduction.",
+      "pertinence": "Blog d'un cabinet d'avocats en droit public reproduisant et commentant une décision du Conseil d'État.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Transport IDF : la justice annule la décision de supprimer l'aide aux illégaux",
+      "organisme": "Public Sénat (avec AFP)",
+      "date_publication": "25 janvier 2018",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/transport-idf-la-justice-annule-la-decision-de-supprimer-l-aide-aux-illegaux-81926",
+      "passage": "Le tribunal administratif de Paris annule la délibération du Stif du 17 février 2016 qui excluait des aides tarifaires les bénéficiaires de l'Aide médicale d'État (AME). La région appliquait depuis 2001 une réduction pouvant aller jusqu'à 75 % pour les personnes aux ressources modestes ; elle coûtait environ 43 millions d'euros en 2015 selon Île-de-France Mobilités. Le code des transports pose « une seule condition de ressources, et non une condition de régularité du séjour en France ». Selon le groupe AES, plus de 117 000 Franciliens pourront récupérer ce droit.",
+      "pertinence": "Chaîne parlementaire rendant compte d'un jugement ; le chiffre de 117 000 vient d'un groupe politique d'opposition régionale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Clandestins interdits d'aide aux transports en IDF : la Cour d'appel confirme l'annulation de la mesure",
+      "organisme": "Public Sénat (avec AFP)",
+      "date_publication": "6 juillet 2018",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/clandestins-interdits-d-aide-aux-transports-en-idf-la-cour-d-appel-confirme-l",
+      "passage": "La cour administrative d'appel confirme l'annulation de la délibération excluant les bénéficiaires de l'AME de la réduction de 75 %, « entachée d'une erreur de droit » : Île-de-France Mobilités ajoutait une condition non prévue par la loi. La présidente de région qualifiait la réduction de « véritable prime à l'illégalité » et a demandé aux députés d'exclure les étrangers en situation irrégulière des tarifs sociaux.",
+      "pertinence": "Chaîne parlementaire ; compte rendu d'un arrêt d'appel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Loi immigration : ce qu'il en reste",
+      "organisme": "Banque des Territoires (Localtis, avec AFP)",
+      "date_publication": "26 janvier 2024",
+      "url": "https://www.banquedesterritoires.fr/loi-immigration-ce-quil-en-reste",
+      "passage": "Parmi les « cavaliers » censurés par le Conseil constitutionnel le 25 janvier 2024 : « L'article privant les étrangers en situation irrégulière du bénéfice des réductions tarifaires en Île-de-France », ainsi que la durée de résidence exigée des étrangers hors UE pour certaines prestations (cinq ans pour les personnes sans emploi, 30 mois pour les autres).",
+      "pertinence": "Média des collectivités (Caisse des dépôts) résumant une décision du Conseil constitutionnel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Solidarité transport en Île-de-France : les sans-papiers lésés",
+      "organisme": "Le Courrier de l'Atlas",
+      "date_publication": "30 avril 2019",
+      "url": "https://www.lecourrierdelatlas.com/?p=128504",
+      "passage": "Après l'annulation par la justice, la région a instauré une réduction de 50 %, présentée comme le minimum légal ; un collectif d'associations relève que « La réduction de 50% proposée aux bénéficiaires de l'AME demeure inférieure à celle prévue pour les autres publics ». Les personnes privées de réduction depuis 2016 pouvaient demander une indemnisation entre mars et octobre 2019 ; « Une très grande partie des personnes concernées ignorent l'existence de ce mécanisme ».",
+      "pertinence": "Magazine consacré aux diasporas maghrébines, relayant la position d'associations de soutien (orientation à signaler).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Nouveaux tarifs Île-de-France Mobilités et éventuelles initiatives législatives sur les réductions tarifaires.",
+  "objections_legitimes": [
+    "La réduction pour les bénéficiaires de l'AME a été de 75 % jusqu'en 2016 et avait un coût pour la collectivité.",
+    "Les travailleurs modestes juste au-dessus des plafonds paient plein tarif, ce qui peut sembler injuste."
+  ],
+  "publics": {
+    "convaincus": "Un sans-papiers à l'AME paie son passe Navigo 45,40 € par mois, pas zéro. C'est le minimum que la loi garantit à toute personne pauvre, et les Français au RSA voyagent, eux, gratuitement. La région a essayé de supprimer cette réduction : trois tribunaux ont dit qu'elle violait la loi.",
+    "indecis": "C'est normal de se demander qui profite des aides. Les faits sont simples : la loi garantit au moins 50 % de réduction à toute personne sous un plafond de ressources, et les bénéficiaires de l'AME n'ont que ce minimum. Les publics français précaires sont mieux aidés."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "vulnerables",
+      "services_publics"
+    ],
+    "mecanismes": "Une réduction prévue par la loi pour toutes les personnes pauvres est présentée comme un privilège réservé aux étrangers, en taisant que les publics français précaires sont mieux aidés.",
+    "consequences": "Exclure les plus pauvres des transports les prive d’accès aux soins, aux démarches et au travail, et pousse à la fraude ou à l’isolement.",
+    "democratie": "La justice administrative a rappelé qu’une collectivité ne peut pas ajouter une condition que la loi ne prévoit pas : l’état de droit protège aussi les plus fragiles.",
+    "propositions": [
+      "Étendre la gratuité des transports à toutes les personnes sous le seuil de pauvreté, sans distinction de statut.",
+      "Aller vers la gratuité progressive des transports publics, financée par le versement mobilité des entreprises.",
+      "Simplifier les démarches pour que chaque ayant droit connaisse et obtienne sa réduction."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les bénéficiaires de l’AME ont longtemps eu une réduction plus forte qu’aujourd’hui, et ce dispositif a un coût réel pour la collectivité.",
+        "integration": "Le reconnaître, et rappeler que ce coût est celui d’une politique sociale décidée pour les plus pauvres, fixée aujourd’hui au minimum légal."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "transports_idf_aides",
+      "label": "Transports et sans-papiers en Île-de-France"
+    },
+    {
+      "id": "transports_idf_immigration",
+      "label": "Transports et sans-papiers en Île-de-France"
+    },
+    {
+      "id": "transports_idf_ame",
+      "label": "Transports et sans-papiers en Île-de-France"
+    },
+    {
+      "id": "transports_idf",
+      "label": "Transports et sans-papiers en Île-de-France"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "solidarite",
+    "gratuite_transports",
+    "transports_idf",
+    "ame"
+  ]
+}

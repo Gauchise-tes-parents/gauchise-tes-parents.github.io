@@ -185,11 +185,6 @@
       }
     ]
   },
-  "concepts": [
-    "dangerosite",
-    "vaccin",
-    "vaccins_enfants"
-  ],
   "repond_a": [
     {
       "id": "vaccins_enfants",
@@ -208,5 +203,10 @@
     "pfizer",
     "moderna",
     "hexavalent"
+  ],
+  "concepts": [
+    "dangerosite",
+    "vaccin",
+    "vaccins_enfants"
   ]
 }

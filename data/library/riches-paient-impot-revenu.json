@@ -166,11 +166,6 @@
       }
     ]
   },
-  "concepts": [
-    "fiscalite",
-    "riches_entreprises",
-    "riches_ir"
-  ],
   "repond_a": [
     {
       "id": "riches_ir",
@@ -186,5 +181,10 @@
     "grands groupes",
     "creent les emplois",
     "creent l emploi"
+  ],
+  "concepts": [
+    "fiscalite",
+    "riches_entreprises",
+    "riches_ir"
   ]
 }

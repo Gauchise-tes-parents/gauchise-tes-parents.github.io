@@ -1,0 +1,231 @@
+{
+  "id": "dsa-censure-bruxelles",
+  "type": "idee_recue",
+  "affirmation": "Avec le DSA, Bruxelles censure les réseaux sociaux.",
+  "volet": "politique",
+  "sous_theme": "Union européenne",
+  "rubriques": [],
+  "mots_cles": [
+    "dsa",
+    "dsa censure",
+    "digital services act",
+    "reglement services numeriques",
+    "censure bruxelles",
+    "censure reseaux sociaux",
+    "amende x musk",
+    "liberte expression ue",
+    "thierry breton"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Le règlement sur les services numériques (DSA) ne crée pas de liste de propos interdits : il vise les contenus déjà illégaux selon le droit de l'UE ou des États. Il oblige surtout les grandes plateformes à la transparence et donne aux utilisateurs le droit de contester une suppression ; près de 30 % des décisions contestées ont été inversées. La première amende, 120 millions d'euros contre X en 2025, porte sur la coche bleue trompeuse, la publicité et l'accès des chercheurs, pas sur des opinions. Le risque de sur-modération par les plateformes reste un débat sérieux.",
+  "contexte": "Le DSA, adopté en 2022, s'applique pleinement depuis 2024. Il est devenu la cible d'Elon Musk et du gouvernement américain, qui a interdit de visa un ancien commissaire européen en décembre 2025 en l'accusant de censure.",
+  "explication": "Il faut distinguer qui définit ce qui est illégal (les lois existantes), ce que le DSA impose (procédures, transparence, recours) et ce qu'on reproche réellement aux plateformes sanctionnées.",
+  "faits": [
+    {
+      "fait": "Le DSA définit le contenu illicite comme une information non conforme au droit de l'Union ou au droit d'un État membre : il ne crée pas lui-même de nouvelles interdictions de propos.",
+      "periode": "2022",
+      "perimetre": "Union européenne",
+      "explication": "Ce qui est interdit est fixé par les lois votées, pas par la Commission.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les utilisateurs ont contesté plus de 165 millions de décisions de modération des très grandes plateformes ; près de 30 % ont été inversées, et 52 % des affaires closes devant les organismes de règlement extrajudiciaire au premier semestre 2025.",
+      "periode": "2024-2025",
+      "perimetre": "Union européenne",
+      "explication": "Le DSA protège aussi contre les suppressions abusives.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "165 millions"
+    },
+    {
+      "fait": "La première amende, de 120 millions d'euros contre X en décembre 2025, sanctionne une coche bleue trompeuse, un répertoire publicitaire non conforme et l'obstruction à l'accès des chercheurs.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "La sanction porte sur la transparence, pas sur des opinions publiées.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "120 millions d’euros"
+    },
+    {
+      "fait": "En octobre 2025, la Commission a reproché à Meta, à titre préliminaire, de ne pas permettre aux utilisateurs de contester efficacement les décisions de modération.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "Bruxelles reproche aussi aux plateformes de trop modérer sans recours.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les amendes peuvent aller jusqu'à 6 % du chiffre d'affaires annuel mondial des grandes plateformes.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "Le pouvoir de sanction de la Commission est réel et important.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "6 %"
+    },
+    {
+      "fait": "Une juriste favorable au DSA reconnaît que le dispositif peut pousser les plateformes à la sur-censure par excès de prudence.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "Le risque de sur-modération est une critique sérieuse, à prendre en compte.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le DSA ne décide pas de ce qu'on a le droit de dire : il vise les contenus déjà illégaux selon les lois existantes. Il oblige les géants du numérique à être transparents et permet de contester une suppression, ce qui a annulé près de 30 % des décisions contestées. X a été sanctionné pour sa coche bleue trompeuse, pas pour des opinions.",
+    "moyen": "Le DSA renvoie au droit existant : est illicite ce qui viole le droit de l'Union ou d'un État membre. Il ne crée pas de délit d'opinion. Il impose surtout des procédures : motiver chaque suppression, permettre de la contester, ouvrir les données aux chercheurs. Résultat : plus de 165 millions de décisions contestées, et près de 30 % inversées.\n\nLa première amende, 120 millions d'euros contre X, sanctionne la coche bleue vendue sans vérification, la publicité opaque et le blocage des chercheurs. Meta s'est vu reprocher de ne pas permettre de contester la modération. Le débat sérieux porte ailleurs : le risque que les plateformes suppriment trop, par prudence. Il faut le surveiller, mais ce n'est pas une censure d'État.",
+    "detaille": "Le règlement sur les services numériques, adopté en 2022, ne dresse pas de liste d'opinions interdites. Il définit le contenu illicite comme ce qui n'est pas conforme au droit de l'Union ou d'un État membre : appel au meurtre, pédocriminalité, contrefaçon, arnaques. Ce sont les lois votées qui fixent les limites, comme avant.\n\nCe que le DSA ajoute, ce sont des obligations pour les géants du numérique de plus de 45 millions d'utilisateurs : transparence de la publicité, accès des chercheurs, évaluation des risques, et surtout motivation des décisions de modération et droit de les contester. Plus de 165 millions de décisions ont été contestées, et près de 30 % inversées. En octobre 2025, la Commission a même reproché à Meta d'empêcher les utilisateurs de contester efficacement la modération. La première amende, 120 millions d'euros contre X en décembre 2025, vise la coche bleue trompeuse, la publicité et l'obstruction aux chercheurs. Les amendes peuvent atteindre 6 % du chiffre d'affaires mondial.\n\nLe gouvernement américain parle de censure et a interdit de visa un ancien commissaire européen en décembre 2025. Mais Donald Trump qualifie aussi ces règles de barrières commerciales : la défense de la liberté d'expression sert aussi les intérêts des géants américains. Il existe une vraie critique : selon une juriste favorable au texte, les plateformes peuvent sur-modérer par prudence. La réponse n'est pas de supprimer les règles, mais de renforcer les recours et le contrôle démocratique.",
+    "empathie": "La peur d'être censuré en ligne est sincère, d'autant que beaucoup ont déjà vu un message supprimé sans explication. C'est justement ce que le DSA essaie de corriger."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Bruxelles décide de ce qui est de la désinformation.",
+      "reponse": "Le DSA vise les contenus illicites selon les lois existantes. Les sanctions prononcées jusqu'ici portent sur la transparence et les procédures, pas sur des opinions."
+    },
+    {
+      "objection": "Même les Américains dénoncent la censure européenne.",
+      "reponse": "Le gouvernement américain défend aussi ses géants du numérique : Donald Trump qualifie ces règles de barrières commerciales. Et le DSA permet aux utilisateurs de contester les suppressions, ce que les plateformes ne garantissaient pas."
+    }
+  ],
+  "questions": [
+    "Savais-tu que le DSA donne le droit de contester la suppression d'un de tes messages ?",
+    "Pour quelles raisons précises X a-t-il été sanctionné, selon toi ?"
+  ],
+  "limites": [
+    "Le texte du règlement a été lu sur un site qui reproduit le Journal officiel, EUR-Lex n'ayant pas pu être ouvert.",
+    "La page de la Commission indique aussi une amende de 45 millions d'euros liée au répertoire publicitaire de X, sans que la répartition des 120 millions soit précisée dans les sources lues.",
+    "Les conclusions contre Meta et TikTok sont préliminaires.",
+    "Aucune étude indépendante mesurant l'ampleur d'une éventuelle sur-modération n'a été lue."
+  ],
+  "sources": [
+    {
+      "titre": "Règlement (UE) 2022/2065 sur les services numériques, article 3 (définitions)",
+      "organisme": "Union européenne, Journal officiel L 277 du 27 octobre 2022 (texte consolidé reproduit par Springlex)",
+      "date_publication": "19 octobre 2022",
+      "url": "https://www.springlex.eu/fr/packages/dsa/dsa-regulation/article-3/",
+      "passage": "Définition du « contenu illicite » : « toute information qui, en soi ou par rapport à une activité, y compris la vente de produits ou la fourniture de services, n'est pas conforme au droit de l'Union ou au droit d'un État membre qui est conforme au droit de l'Union, quel que soit l'objet précis ou la nature précise de ce droit ».",
+      "pertinence": "Texte du règlement, lu sur un site qui reproduit le Journal officiel (EUR-Lex n'a pas pu être ouvert).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'incidence du règlement sur les services numériques sur les plateformes numériques",
+      "organisme": "Commission européenne (stratégie numérique)",
+      "date_publication": "mis à jour le 19 mai 2026",
+      "url": "https://digital-strategy.ec.europa.eu/fr/policies/dsa-impact-platforms",
+      "passage": "Les plateformes doivent prendre des mesures contre les contenus illicites et fournir des « exposés des motifs clairs et spécifiques de toute décision de modération de contenu » ; « les utilisateurs ont le droit de contester les décisions de modération de contenu ». Les utilisateurs ont fait appel de plus de 165 millions de décisions de modération des très grandes plateformes, avec une décision inversée « dans près de 30 % des cas » ; les organismes de règlement extrajudiciaire ont inversé la décision des plateformes « dans 52 % des affaires clôturées » (premier semestre 2025). Les très grandes plateformes comptent plus de 45 millions d'utilisateurs mensuels. Le règlement vise la protection des droits fondamentaux, « y compris la liberté d'expression ».",
+      "pertinence": "Page officielle de la Commission, qui applique le règlement aux très grandes plateformes ; source institutionnelle partie prenante.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le règlement sur les services numériques nous protège en ligne",
+      "organisme": "Commission européenne",
+      "date_publication": "22 septembre 2025",
+      "url": "https://commission.europa.eu/news-and-media/news/digital-services-act-keeping-us-safe-online-2025-09-22_fr",
+      "passage": "Les grandes plateformes qui ne respectent pas le règlement « peuvent se voir infliger des amendes allant jusqu'à 6 % » de leur chiffre d'affaires annuel mondial. Enquêtes citées : TikTok (conception potentiellement addictive d'un programme de récompenses, retiré après l'ouverture de l'enquête), Temu, AliExpress, Facebook et Instagram (protection des mineurs).",
+      "pertinence": "Article officiel de la Commission.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "European Commission fines X €120 million under the Digital Services Act",
+      "organisme": "Observatoire européen de l'audiovisuel (Conseil de l'Europe), IRIS 2026-1",
+      "date_publication": "5 décembre 2025 (décision) ; publication 2026",
+      "url": "https://merlin.obs.coe.int/article/10447",
+      "passage": "Le 5 décembre 2025, la Commission a infligé à X une amende de 120 millions d'euros, après une procédure ouverte le 18 décembre 2023. Motifs : la coche bleue, achetable sans vérification de l'identité, est trompeuse ; le répertoire des publicités ne respecte pas les exigences de transparence de l'article 15 ; les chercheurs ne peuvent plus accéder de façon indépendante aux données. X disposait de 60 et 90 jours ouvrables pour se mettre en conformité.",
+      "pertinence": "Observatoire juridique rattaché au Conseil de l'Europe.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Commission preliminarily finds TikTok and Meta in breach of their transparency obligations under the Digital Services Act",
+      "organisme": "Commission européenne",
+      "date_publication": "24 octobre 2025",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktok-and-meta-breach-their-transparency-obligations-under-digital",
+      "passage": "Conclusions préliminaires : TikTok et Meta n'accordent pas aux chercheurs un accès suffisant aux données publiques. Meta (Facebook, Instagram) ne fournit pas de « simple mechanisms to notify illegal content » et ne permet pas aux utilisateurs « to effectively challenge content moderation decisions ». L'enquête se poursuit.",
+      "pertinence": "Communiqué officiel de la Commission ; conclusions préliminaires, pas une décision définitive.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Digital Services Act à l'épreuve des critiques américaines",
+      "organisme": "Le Club des juristes (Brunessen Bertrand, professeure à l’Université de Rennes)",
+      "date_publication": "8 septembre 2025",
+      "url": "https://www.leclubdesjuristes.com/societe/numerique/le-digital-services-act-a-lepreuve-des-critiques-americaines-11914/",
+      "passage": "Donald Trump qualifie le DSA et le DMA de « barrières non tarifaires déguisées, contraires aux règles de l'OMC ». Du point de vue américain, le DSA transférerait aux plateformes une fonction de censure. L'autrice estime que le DSA ne crée pas une censure d'État mais un régime de responsabilité et de transparence (signalements, information des utilisateurs, voies de recours, évaluation des risques systémiques), tout en reconnaissant que le dispositif peut pousser les plateformes à la sur-censure par excès de prudence.",
+      "pertinence": "Analyse universitaire publiée par un cercle de juristes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Washington interdit de visa Thierry Breton et quatre autres personnes : condamnation unanime",
+      "organisme": "Euronews",
+      "date_publication": "24 décembre 2025",
+      "url": "https://fr.euronews.com/2025/12/24/washington-interdit-de-visa-thierry-breton-et-quatre-autres-personnes-condamnation-unanime",
+      "passage": "Le 23 décembre 2025, le département d'État américain a interdit de visa l'ancien commissaire européen Thierry Breton et quatre responsables d'associations de lutte contre la haine en ligne et la désinformation, accusés selon Marco Rubio d'avoir « mené des efforts organisés pour contraindre les plateformes américaines à censurer ». La Commission européenne a répondu que « la liberté d'expression est un droit fondamental en Europe » ; Emmanuel Macron a dénoncé « intimidation et coercition ».",
+      "pertinence": "Média d'information européen.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Décisions définitives de la Commission contre X, Meta et TikTok, et évolution du conflit avec les États-Unis.",
+  "objections_legitimes": [
+    "Le pouvoir de sanction de la Commission sur les plateformes est important, et doit être contrôlé.",
+    "Les plateformes peuvent supprimer trop de contenus par prudence, ce que reconnaissent même des juristes favorables au DSA."
+  ],
+  "publics": {
+    "convaincus": "Le DSA ne dit pas ce qu'on a le droit de penser : il renvoie aux lois déjà votées. X a été sanctionné pour une coche bleue trompeuse et pour avoir bloqué les chercheurs. Et grâce au DSA, près de 30 % des suppressions contestées ont été annulées : il protège aussi ta parole.",
+    "indecis": "Se méfier du pouvoir de Bruxelles sur les réseaux est sain. Mais le DSA oblige surtout les géants du numérique à expliquer leurs décisions et à accepter les recours. Le vrai risque, c'est que les plateformes suppriment trop par prudence : c'est là qu'il faut exiger des garanties."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "democratie",
+      "vulnerables",
+      "antifascisme"
+    ],
+    "mecanismes": "L’accusation de censure, portée par des propriétaires de plateformes et par le gouvernement américain, sert aussi à protéger les intérêts commerciaux des géants du numérique face à des règles de transparence.",
+    "consequences": "Sans règles, les plateformes modèrent de façon opaque, sans recours pour les utilisateurs, et laissent prospérer arnaques, haine et manipulations.",
+    "democratie": "Ce qui est interdit doit rester défini par les lois votées, et chaque décision de modération doit pouvoir être contestée devant des instances indépendantes.",
+    "propositions": [
+      "Renforcer les recours des utilisateurs contre les suppressions abusives et rendre publics leurs résultats.",
+      "Garantir aux chercheurs et aux journalistes l’accès aux données des grandes plateformes.",
+      "Soumettre l’application du règlement à un contrôle parlementaire et juridictionnel renforcé."
+    ],
+    "defavorables": [
+      {
+        "fait": "Même des juristes favorables au règlement reconnaissent qu’il peut pousser les plateformes à supprimer trop de contenus par prudence.",
+        "integration": "Prendre ce risque au sérieux et exiger des garanties fortes pour la liberté d’expression, plutôt que d’abandonner la régulation aux seules entreprises."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "dsa",
+      "label": "Le DSA et la censure"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "peut plus rien dire",
+    "liberte d expression",
+    "politiquement correct",
+    "on se fait traiter",
+    "bruxelles",
+    "union europeenne",
+    "digital services act",
+    "reglement sur les services numeriques"
+  ],
+  "concepts": [
+    "liberte_expression",
+    "europe",
+    "dsa"
+  ]
+}

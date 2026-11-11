@@ -192,13 +192,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "prestations",
-    "expulsion",
-    "femmes",
-    "polygamie"
-  ],
   "repond_a": [
     {
       "id": "polygamie",
@@ -219,5 +212,12 @@
     "apl",
     "minima sociaux",
     "assistanat"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "expulsion",
+    "femmes",
+    "polygamie"
   ]
 }

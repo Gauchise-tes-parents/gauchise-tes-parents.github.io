@@ -185,12 +185,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "identite",
-    "demographie",
-    "mayotte"
-  ],
   "repond_a": [
     {
       "id": "mayotte",
@@ -211,5 +205,11 @@
     "civilisation",
     "racines",
     "grand remplacement"
+  ],
+  "concepts": [
+    "immigration",
+    "identite",
+    "demographie",
+    "mayotte"
   ]
 }

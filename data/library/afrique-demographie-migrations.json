@@ -187,13 +187,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "identite",
-    "demographie",
-    "europe",
-    "afrique_demo"
-  ],
   "repond_a": [
     {
       "id": "afrique_demo",
@@ -214,5 +207,12 @@
     "civilisation",
     "racines",
     "grand remplacement"
+  ],
+  "concepts": [
+    "immigration",
+    "identite",
+    "demographie",
+    "europe",
+    "afrique_demo"
   ]
 }

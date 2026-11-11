@@ -186,11 +186,6 @@
       }
     ]
   },
-  "concepts": [
-    "logement",
-    "expulsion",
-    "squat"
-  ],
   "repond_a": [
     {
       "id": "squat",
@@ -211,5 +206,10 @@
     "reconduite",
     "virer",
     "dehors"
+  ],
+  "concepts": [
+    "logement",
+    "expulsion",
+    "squat"
   ]
 }

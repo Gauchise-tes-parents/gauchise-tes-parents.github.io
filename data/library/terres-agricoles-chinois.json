@@ -186,10 +186,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "ecologie"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -200,5 +196,9 @@
     "qui debarquent",
     "ils prennent nos",
     "nucleaire"
+  ],
+  "concepts": [
+    "immigration",
+    "ecologie"
   ]
 }

@@ -1,0 +1,233 @@
+{
+  "id": "prenoms-agresseurs-caches",
+  "type": "idee_recue",
+  "affirmation": "Les médias cachent les prénoms des agresseurs.",
+  "volet": "politique",
+  "sous_theme": "Médias",
+  "rubriques": [],
+  "mots_cles": [
+    "medias cachent prenoms",
+    "prenom agresseur",
+    "on ne dit pas le prenom",
+    "medias complices",
+    "prenom du suspect",
+    "identite agresseur cachee",
+    "pas de padamalgam",
+    "nom des suspects"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Il n'y a pas de consigne pour cacher les prénoms. Quand l'identité n'est pas donnée, c'est souvent parce que la loi l'interdit (suspects mineurs), parce que la personne est présumée innocente, ou parce que l'enquête n'a pas encore confirmé qui elle est. Les fausses identités diffusées dans l'urgence, notamment par des comptes d'extrême droite, montrent pourquoi la prudence est nécessaire. Et un prénom ne dit ni la nationalité, ni la religion, ni la cause d'un crime.",
+  "contexte": "Après chaque agression médiatisée, des messages accusent les journalistes de taire l'identité du suspect, et des noms ou photos circulent sur les réseaux avant toute confirmation.",
+  "explication": "Il faut distinguer ce que la loi interdit (identité des mineurs), ce que la déontologie recommande (présomption d'innocence, vérification) et ce que certains médias ont choisi (ne pas glorifier les terroristes).",
+  "faits": [
+    {
+      "fait": "Le code de la justice pénale des mineurs interdit de rendre publique, directement ou indirectement, l'identité ou l'image d'un mineur mis en cause dans une procédure pénale.",
+      "periode": "depuis 2021",
+      "perimetre": "France",
+      "explication": "Quand le suspect est mineur, taire son nom n'est pas un choix : c'est la loi.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2021, la Cour de cassation a confirmé la condamnation d'un journal qui avait publié le nom, le prénom, l'âge et la commune d'une personne présentée à tort comme responsable d'un accident.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Publier une identité peut être illégal, surtout quand la personne est désignée à tort.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon France 24, en octobre 2026, après la fusillade d'un collège d'Aubagne, un compte proche de l'extrême droite a diffusé la photo d'un autre homme, vue plus de 150 000 fois ; le suspect réel était un élève de 14 ans.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les fausses identifications existent et visent des innocents.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "150 000 vues"
+    },
+    {
+      "fait": "Selon Euronews, Après l'attaque de la Pride de Berlin en 2026, un créateur de contenu a été désigné à tort comme l'auteur sur les réseaux, alors que les autorités avaient identifié le suspect sous le nom d'« Abdul B ».",
+      "periode": "2026",
+      "perimetre": "Allemagne",
+      "explication": "Les suspects sont bien nommés quand l'enquête le permet ; les rumeurs, elles, se trompent de cible.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Parmi les petits-enfants d'immigrés maghrébins, 23 % en moyenne portent un prénom arabo-musulman ; chez les descendants d'Européens du Sud, les prénoms de la troisième génération ne se distinguent plus de ceux de la population majoritaire.",
+      "periode": "2008-2009",
+      "perimetre": "France",
+      "explication": "Un prénom n'indique ni la nationalité, ni la religion, ni le parcours d'une personne.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "23 %"
+    },
+    {
+      "fait": "En 2016, plusieurs médias (dont Europe 1 et La Croix) ont décidé de ne plus donner les noms des auteurs d'attentats pour éviter de les glorifier ; d'autres, comme Le Figaro et Libération, ont refusé, jugeant que cela alimenterait les soupçons.",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Il existe bien des choix éditoriaux de ne pas nommer certains auteurs : c'est un fait à reconnaître, mais ils visaient les terroristes de toutes origines et leur gloire posthume.",
+      "source": 6,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les médias ne cachent pas les prénoms par consigne. La loi interdit de nommer les suspects mineurs, la présomption d'innocence impose la prudence, et l'identité doit être vérifiée : à Aubagne en 2026, un compte d'extrême droite a diffusé la photo du mauvais homme. Et un prénom ne dit ni la nationalité ni la cause d'un crime.",
+    "moyen": "Quand un média ne donne pas l'identité d'un suspect, c'est souvent la loi : on ne peut pas rendre publique l'identité d'un mineur poursuivi. C'est aussi la prudence : en 2021, la Cour de cassation a confirmé la condamnation d'un journal qui avait nommé une personne présentée à tort comme responsable d'un accident.\n\nLes fausses identifications sont fréquentes. Après la fusillade d'Aubagne en 2026, un compte proche de l'extrême droite a diffusé la photo d'un autre homme, vue plus de 150 000 fois ; le suspect était un collégien de 14 ans. Enfin, un prénom renseigne mal sur l'origine : seuls 23 % des petits-enfants d'immigrés maghrébins portent un prénom arabo-musulman. Ce qui explique un crime, c'est l'enquête, pas le prénom.",
+    "detaille": "L'idée d'une consigne générale pour cacher les prénoms ne tient pas. Quand une identité n'est pas donnée, il y a souvent une raison simple. La loi d'abord : le code de la justice pénale des mineurs interdit de rendre publique, même indirectement, l'identité d'un mineur mis en cause. La présomption d'innocence ensuite : en 2021, la Cour de cassation a confirmé la condamnation d'un journal qui avait publié le nom, l'âge et la commune d'une personne présentée à tort comme responsable d'un accident. L'enquête enfin : après l'attentat de Strasbourg en 2018, le parquet avait demandé aux médias de ne pas diffuser tout de suite l'identité du suspect, jusqu'à l'avis de recherche officiel.\n\nLes erreurs d'identification sont réelles, et elles visent des innocents. En octobre 2026, après la fusillade d'un collège d'Aubagne, un compte proche de l'extrême droite a diffusé la photo d'un Canadien sans aucun lien, vue plus de 150 000 fois ; le suspect était un élève de 14 ans. En juillet 2026, après l'attaque de la Pride de Berlin, un créateur de contenu a été désigné à tort. Il faut aussi reconnaître que certains médias ont choisi, en 2016, de ne plus nommer les auteurs d'attentats pour ne pas les glorifier ; ce choix, discuté dans la profession, ne visait pas une origine particulière.\n\nSurtout, réclamer le prénom, c'est souvent chercher l'origine. Or un prénom renseigne mal : selon l'Ined, seuls 23 % des petits-enfants d'immigrés maghrébins portent un prénom arabo-musulman, et les prénoms des descendants d'Européens du Sud ne se distinguent plus de ceux de la majorité. Un prénom ne dit ni la nationalité, ni la religion, ni les raisons d'un passage à l'acte. Ce qui protège les victimes, c'est une enquête solide, pas une chasse au nom sur les réseaux.",
+    "empathie": "Quand une information semble manquer, on a l'impression qu'on nous cache quelque chose. Cette méfiance envers les médias est compréhensible ; elle mérite des explications claires sur leurs règles."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Quand c'est un Français de souche, on donne son nom tout de suite.",
+      "reponse": "Les mêmes règles s'appliquent à tous : interdiction pour les mineurs, prudence pour les personnes non condamnées ; et les noms sont souvent publiés quand l'identité est confirmée."
+    },
+    {
+      "objection": "Le prénom permet de savoir d'où vient le problème.",
+      "reponse": "Un prénom ne dit ni la nationalité ni la religion, et encore moins les causes d'un crime ; les fausses identifications sur les réseaux montrent le danger de juger sur un nom."
+    }
+  ],
+  "questions": [
+    "Que se passerait-il si un journal publiait le nom d'un innocent confondu avec le suspect ?",
+    "Savais-tu qu'il est interdit par la loi de publier l'identité d'un suspect mineur ?"
+  ],
+  "limites": [
+    "Aucune étude systématique sur la fréquence de publication des noms de suspects dans la presse française n'a été lue.",
+    "L'article de loi a été lu sans la disposition qui fixe la sanction.",
+    "L'exemple de Berlin relève du droit et des pratiques allemands.",
+    "L'étude de l'Ined repose sur des données de 2008-2009."
+  ],
+  "sources": [
+    {
+      "titre": "Code de la justice pénale des mineurs, article L13-3",
+      "organisme": "Légifrance",
+      "date_publication": "version en vigueur au 30 septembre 2021",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000043203788/2021-09-30",
+      "passage": "L'identité ou l'image d'un mineur mis en cause dans une procédure pénale ne peuvent être, « directement ou indirectement, rendues publiques ».",
+      "pertinence": "Texte de loi officiel ; la sanction prévue n'a pas été lue.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Révéler l'identité de l'auteur d'un accident dans un article de presse porte atteinte à la vie privée",
+      "organisme": "Service-Public.fr (sur un arrêt de la Cour de cassation)",
+      "date_publication": "arrêt du 20 octobre 2021",
+      "url": "https://www.service-public.fr/particuliers/actualites/A15323",
+      "passage": "Un journal régional, après un accident de la route, avait présenté une personne blessée comme responsable en publiant son nom, son prénom, son âge et sa commune. Condamné pour atteinte à la vie privée, il s'est pourvu en cassation ; la Cour de cassation a rejeté le pourvoi, estimant qu'une information sobre, sans identification des personnes, suffit et garantit la liberté d'expression.",
+      "pertinence": "Site officiel d'information de l'administration ; titre reformulé à partir du chapeau de la page.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Attentat de Strasbourg : pourquoi nous n'avons pas diffusé tout de suite l'identité du suspect",
+      "organisme": "RTBF",
+      "date_publication": "15 décembre 2018",
+      "url": "https://www.rtbf.be/article/attentat-de-strasbourg-pourquoi-nous-n-avons-pas-diffuse-tout-de-suite-l-identite-du-suspect-10098770",
+      "passage": "Des confrères français ont reçu « une demande des autorités, notamment du Parquet en charge du dossier » de ne pas diffuser immédiatement l'identité du suspect, « pour pouvoir travailler dans la discrétion dans le cadre de l'enquête en cours ». La rédaction a suivi cette ligne jusqu'à la diffusion d'un avis de recherche officiel le soir même.",
+      "pertinence": "Service public audiovisuel belge expliquant un choix éditorial.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le suspect de la fusillade d'Aubagne au cœur de fausses théories",
+      "organisme": "France 24, Les Observateurs (repris par Yahoo Actualités)",
+      "date_publication": "16 octobre 2026",
+      "url": "https://fr.news.yahoo.com/suspect-fusillade-d-aubagne-au-194112982.html",
+      "passage": "Une photo présentée comme celle de l'assaillant a été partagée sur X par un compte proche de l'extrême droite (plus de 150 000 vues) : c'était en réalité celle d'un Canadien condamné dans une affaire de meurtre près de Montréal. Le suspect réel est un élève de 14 ans, placé en détention provisoire ; le Parquet national antiterroriste s'est saisi de l'enquête après avoir trouvé des messages liés à la « True Crime Community ».",
+      "pertinence": "Cellule de vérification d'une chaîne publique internationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Attaque à la Pride de Berlin : l'intox se propage pendant la traque du suspect",
+      "organisme": "Euronews (The Cube)",
+      "date_publication": "30 juillet 2026",
+      "url": "https://fr.euronews.com/2026/07/30/attaque-a-la-pride-de-berlin-lintox-se-propage-pendant-la-traque-du-suspect",
+      "passage": "Des internautes ont désigné à tort un créateur de contenu TikTok comme l'auteur de l'attaque ; il s'est dit « sans voix » et a alerté sur le danger pour sa famille. Les autorités ont identifié le suspect comme « Abdul B », 21 ans, et diffusé sa photo le lendemain de l'attaque. Une fausse vidéo d'arrestation a aussi circulé.",
+      "pertinence": "Cellule de vérification d'une chaîne européenne ; exemple allemand.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Quels prénoms les immigrés donnent-ils à leurs enfants en France ? (Population et Sociétés n° 565)",
+      "organisme": "Ined (Baptiste Coulmont et Patrick Simon), via Cairn",
+      "date_publication": "avril 2019",
+      "url": "https://shs.cairn.info/article/E_POPSOC_565_0001?lang=en",
+      "passage": "Origine d'Europe du Sud : 16 % de la deuxième génération porte un prénom latin, et les prénoms de la troisième génération « can no longer be distinguished » de ceux de la population majoritaire. Origine maghrébine : près de 90 % de prénoms arabo-musulmans chez les immigrés, près des deux tiers à la deuxième génération, 23 % en moyenne à la troisième (63 % dans les familles très religieuses). Les prénoms convergent vers des prénoms « internationaux ».",
+      "pertinence": "Institut public de recherche démographique ; données de l'enquête TeO (2008-2009). Version anglaise lue.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Anonymisation des terroristes : les médias français très divisés",
+      "organisme": "Puremédias (Ozap)",
+      "date_publication": "28 juillet 2016",
+      "url": "https://www.ozap.com/actu/anonymisation-des-terroristes-les-medias-francais-tres-divises/503925",
+      "passage": "Après les attentats de 2016, Le Monde, BFMTV, France 24 et RFI cessent de publier les photos des auteurs d'attentats ; Europe 1 et La Croix ne donnent plus non plus leurs noms, pour ne pas les « glorifier ». Le Figaro, Libération et Marianne continuent : pour Le Figaro, « Le nom des terroristes est un élément d'information objectif essentiel », et ne pas le publier alimenterait les soupçons complotistes.",
+      "pertinence": "Site spécialisé dans les médias.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveaux cas de fausses identifications vérifiés par les fact-checkeurs.",
+  "objections_legitimes": [
+    "Les médias doivent expliquer davantage pourquoi ils ne donnent pas certaines informations.",
+    "Certains médias ont réellement choisi de ne pas nommer les auteurs d'attentats en 2016."
+  ],
+  "publics": {
+    "convaincus": "Si les journaux ne donnent pas un nom, c'est souvent que le suspect est mineur, et la loi l'interdit, quelle que soit son origine. À Aubagne, un compte d'extrême droite a diffusé la photo du mauvais homme, vue 150 000 fois : imagine que ce soit ton fils. Les noms sont souvent publiés quand l'enquête les confirme.",
+    "indecis": "Se méfier des médias, ça peut se comprendre. Mais les règles sont publiques : protection des mineurs, présomption d'innocence, vérification. Et un prénom ne dit rien des causes d'un crime : seuls 23 % des petits-enfants d'immigrés maghrébins portent un prénom arabo-musulman."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "libertes",
+      "democratie"
+    ],
+    "mecanismes": "Réclamer le prénom revient souvent à chercher l’origine ; le silence imposé par la loi ou la prudence est présenté comme une censure, et des identités fausses circulent avant toute vérification.",
+    "consequences": "Des innocents sont désignés à tort et exposés au harcèlement, la défiance envers la presse grandit, et le racisme trouve un faux prétexte.",
+    "democratie": "La présomption d’innocence et la protection des mineurs sont des garanties démocratiques ; les médias doivent expliquer publiquement leurs règles pour regagner la confiance.",
+    "propositions": [
+      "Inciter les rédactions à expliquer systématiquement pourquoi une identité n’est pas publiée.",
+      "Soutenir le fact-checking et l’éducation aux médias à l’école.",
+      "Rendre les plateformes responsables de la diffusion virale de fausses identifications."
+    ],
+    "defavorables": [
+      {
+        "fait": "Après la vague d’attentats djihadistes, plusieurs médias ont choisi de ne plus publier les noms ou les photos des auteurs d’attentats.",
+        "integration": "Le reconnaître : c’était un choix éditorial contre la glorification des terroristes, discuté dans la profession et appliqué quelle que soit leur origine."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "prenoms",
+      "label": "Prénoms des agresseurs"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation"
+  ],
+  "concepts": [
+    "delinquance",
+    "identite",
+    "medias",
+    "prenoms"
+  ]
+}

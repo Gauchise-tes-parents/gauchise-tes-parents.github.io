@@ -187,12 +187,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "expulsion",
-    "remigration",
-    "trump_expulsions"
-  ],
   "repond_a": [
     {
       "id": "trump_expulsions",
@@ -213,5 +207,11 @@
     "virer",
     "dehors",
     "remigration"
+  ],
+  "concepts": [
+    "immigration",
+    "expulsion",
+    "remigration",
+    "trump_expulsions"
   ]
 }

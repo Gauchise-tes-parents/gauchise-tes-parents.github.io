@@ -195,10 +195,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "asile"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -209,5 +205,9 @@
     "qui debarquent",
     "ils prennent nos",
     "droit d asile"
+  ],
+  "concepts": [
+    "immigration",
+    "asile"
   ]
 }

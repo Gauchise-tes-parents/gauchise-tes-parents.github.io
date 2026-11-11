@@ -192,11 +192,6 @@
       }
     ]
   },
-  "concepts": [
-    "islam",
-    "laicite",
-    "voile_sport"
-  ],
   "repond_a": [
     {
       "id": "voile_sport",
@@ -211,5 +206,10 @@
     "burkini",
     "ramadan",
     "laicite"
+  ],
+  "concepts": [
+    "islam",
+    "laicite",
+    "voile_sport"
   ]
 }

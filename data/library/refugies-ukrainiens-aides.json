@@ -1,0 +1,233 @@
+{
+  "id": "refugies-ukrainiens-aides",
+  "type": "idee_recue",
+  "affirmation": "Les réfugiés ukrainiens touchent plus d'aides que les Français.",
+  "volet": "immigration",
+  "sous_theme": "Réfugiés et statuts administratifs",
+  "rubriques": [],
+  "mots_cles": [
+    "ukrainiens aides",
+    "refugies ukrainiens allocations",
+    "ukrainiens plus que les francais",
+    "protection temporaire aides",
+    "ada ukrainiens",
+    "deplaces ukrainiens caf",
+    "ukrainiens rsa",
+    "aides refugies ukraine"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Les déplacés d'Ukraine sous protection temporaire touchent surtout l'allocation pour demandeur d'asile (ADA) : 6,80 € par jour pour une personne seule, soit environ 207 € par mois, 432 € s'ils n'ont pas d'hébergement. Un Français sans ressources a droit au RSA : 651,69 € par mois depuis avril 2026. Ils n'ont accès qu'à une liste limitée de prestations, dont le RSA ne fait pas partie selon la Cnaf. Il est vrai, en revanche, qu'ils ont été mieux accueillis que d'autres exilés, avec des droits ouverts par dérogation.",
+  "contexte": "Depuis 2022, l'Union européenne a activé la protection temporaire pour les personnes fuyant la guerre en Ukraine. Des messages comparent leurs aides à celles des retraités ou des Français modestes.",
+  "explication": "Il faut comparer les montants réels (ADA contre RSA), la liste des prestations ouvertes et le coût global, et distinguer la protection temporaire du statut de réfugié.",
+  "faits": [
+    {
+      "fait": "L'ADA s'élève à 6,80 € par jour pour une personne seule, soit 206,83 € par mois, et 431,92 € par mois avec la majoration versée quand aucun hébergement n'est proposé.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "C'est l'aide principale des bénéficiaires de la protection temporaire, très inférieure au RSA.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "206,83 €"
+    },
+    {
+      "fait": "Selon le site La finance pour tous, le RSA d'une personne seule est de 651,69 € par mois depuis le 1er avril 2026.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Un Français sans ressources touche bien plus que l'ADA.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "651,69 €"
+    },
+    {
+      "fait": "Selon la Cnaf, les bénéficiaires de la protection temporaire ont accès à des prestations « énumérées limitativement » ; le RSA et la prime d'activité sont exclus de cette dérogation « sauf particularités », alors que les réfugiés statutaires ont les mêmes droits qu'un Français.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La protection temporaire donne moins de droits que le droit commun.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Cour des comptes, l'accueil d'environ 115 000 personnes a coûté environ 634 millions d'euros en 2022 à l'État et à la Sécurité sociale ; les APL et les allocations familiales leur ont été ouvertes par dérogation, alors que les APL sont normalement réservées aux titulaires d'un titre de séjour.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Fait défavorable : l'effort public a été réel et des droits ont été ouverts plus vite que pour d'autres exilés.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "634 millions d’euros"
+    },
+    {
+      "fait": "Fin 2022, 82 000 personnes (45 000 ménages) touchaient l'ADA au titre de la protection temporaire ; fin 2023, on comptait 62 400 bénéficiaires de la protection temporaire en France.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "Un nombre limité de personnes, surtout des femmes et des enfants.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "62 400"
+    },
+    {
+      "fait": "Le Gouvernement indiquait en 2022 que les bénéficiaires de la protection temporaire ont un accès total au marché du travail et ne peuvent pas cumuler deux fois l'ADA.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Ils peuvent travailler, et le cumul des aides est encadré.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : un déplacé ukrainien seul touche l'ADA, environ 207 € par mois, 432 € s'il n'est pas hébergé. Un Français sans ressources a droit au RSA, 651,69 € par mois. Les Ukrainiens n'ont accès qu'à une liste limitée de prestations.",
+    "moyen": "Les déplacés d'Ukraine ont la protection temporaire, pas le statut de réfugié. Leur aide principale est l'allocation pour demandeur d'asile : 6,80 € par jour pour une personne seule, soit 206,83 € par mois, ou 431,92 € sans hébergement. Le RSA d'une personne seule est de 651,69 € depuis avril 2026.\n\nSelon la Cnaf, ils n'ont accès qu'à une liste limitée de prestations, sans le RSA. Ils ont pu toucher des allocations familiales et des APL par dérogation, et l'État a dépensé environ 634 millions d'euros en 2022 pour accueillir environ 115 000 personnes. C'est un vrai effort de solidarité, pas un privilège sur les Français.",
+    "detaille": "Les personnes qui ont fui la guerre en Ukraine relèvent de la protection temporaire, un statut européen plus fragile que celui de réfugié. Leur principale ressource est l'allocation pour demandeur d'asile (ADA) : 6,80 € par jour pour une personne seule, soit 206,83 € par mois selon la DREES, et 431,92 € avec la majoration versée quand l'État ne propose pas d'hébergement. À titre de comparaison, le RSA d'une personne seule est de 651,69 € par mois depuis le 1er avril 2026.\n\nLa Cnaf est claire : les bénéficiaires de la protection temporaire ont accès à des prestations « énumérées limitativement ». Les allocations familiales, les APL ou l'allocation pour enfant handicapé leur sont ouvertes ; le RSA ne l'est pas, sauf cas particuliers. Les réfugiés statutaires, eux, ont les mêmes droits que les Français, mais ce n'est pas le cas de la plupart des Ukrainiens. Leurs ressources perçues à l'étranger sont aussi prises en compte.\n\nIl faut reconnaître une chose : l'accueil des Ukrainiens a été plus rapide et plus généreux que celui d'autres exilés. Selon la Cour des comptes, environ 115 000 personnes ont été accueillies en 2022, pour environ 634 millions d'euros, et des droits comme les APL ont été ouverts par dérogation. Cela montre qu'un accueil digne est possible quand l'État le décide. Mais à aucun moment les Ukrainiens n'ont touché plus qu'un Français dans la même situation.",
+    "empathie": "Quand on a du mal à finir le mois, voir l'État trouver de l'argent pour d'autres peut révolter. Cette colère est compréhensible ; elle mérite une comparaison honnête des montants."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils ont l'hébergement en plus des aides.",
+      "reponse": "Ceux qui sont hébergés ne touchent pas la majoration de l'ADA : l'allocation tombe alors à environ 207 € par mois pour une personne seule."
+    },
+    {
+      "objection": "Ils touchent les allocations familiales comme les Français.",
+      "reponse": "Oui, pour leurs enfants présents en France, comme toute famille ; mais ils n'ont pas le RSA, et l'ADA est très inférieure."
+    }
+  ],
+  "questions": [
+    "Savais-tu que l'aide principale d'un déplacé ukrainien seul est d'environ 207 € par mois s'il est hébergé ?",
+    "Si un jour ta famille devait fuir une guerre, quel accueil voudrais-tu qu'on lui réserve ?"
+  ],
+  "limites": [
+    "Le rapport de la Cour des comptes a été lu à travers le résumé de Maire-info ; ses chiffres datent de 2022.",
+    "Aucune source lue ne donne le nombre de bénéficiaires de la protection temporaire en 2026.",
+    "L'accès à la prime d'activité est ambigu : la réponse ministérielle de 2022 l'accorde, le guide de la Cnaf de 2026 la range parmi les exceptions « sauf particularités ».",
+    "La page service-public.fr sur l'ADA indique être en cours de mise à jour."
+  ],
+  "sources": [
+    {
+      "titre": "L'allocation pour demandeur d'asile (ADA), fiche 25 (Minima sociaux et prestations sociales, édition 2025)",
+      "organisme": "DREES",
+      "date_publication": "décembre 2025",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/MS2025%20-%20Fiche%2025%20-%20L%27allocation%20pour%20demandeur%20d%27asile%20%28ADA%29.pdf",
+      "passage": "ADA : « un forfait de 6,80 euros par jour pour une personne seule sans enfant », soit 206,83 € par mois ; avec la majoration de 7,40 € par jour quand aucun hébergement n'est proposé, 431,92 € par mois. « Fin 2024, 86 700 foyers sont allocataires de l'ADA, soit une baisse de 18,9 %. » Les bénéficiaires de la protection temporaire représentaient 39 % des allocataires fin 2022 et 33 % fin 2023 ; on comptait 65 800 bénéficiaires de la protection temporaire fin 2022 et 62 400 fin 2023.",
+      "pertinence": "Service statistique du ministère des Solidarités ; données 2022-2024.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "En quoi consiste l'allocation pour demandeur d'asile (Ada) ?",
+      "organisme": "Service-public.fr (Direction de l'information légale et administrative)",
+      "date_publication": "vérifiée le 1er avril 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16118",
+      "passage": "Les personnes bénéficiant de la protection temporaire peuvent aussi avoir droit à l'Ada. Montant journalier : 6,80 € pour une personne, 10,20 € pour deux, 13,60 € pour trois, 17,00 € pour quatre ; « Si aucune place d'hébergement ne vous a été proposée, le montant supplémentaire est de 7,40 € » par jour et par adulte. L'Ada suppose des ressources inférieures au montant du RSA.",
+      "pertinence": "Site officiel de l'administration ; la page indique être en cours de mise à jour.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "RSA, prime d'activité, allocations familiales… Ce qui change au 1er avril 2026",
+      "organisme": "La finance pour tous (Institut pour l'éducation financière du public)",
+      "date_publication": "31 mars 2026",
+      "url": "https://www.lafinancepourtous.com/2026/03/31/rsa-prime-dactivite-allocations-familiales-cheque-energie-frais-de-sante-ce-qui-change-au-1er-avril-2026/",
+      "passage": "« Le RSA (revenu de solidarité active) passe à 651,69 € par mois » pour une personne seule au 1er avril 2026, contre 646,52 € auparavant.",
+      "pertinence": "Site d'information économique reconnu d'utilité publique ; reprend le barème officiel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Guide réfugiés (accompagnement des bénéficiaires d'une protection internationale ou temporaire)",
+      "organisme": "Caisse nationale des allocations familiales (Cnaf)",
+      "date_publication": "juillet 2026",
+      "url": "https://caf.fr/sites/default/files/medias/cnaf/Professionnels/Actualites/2026/260170_Guide%20r%C3%A9fugi%C3%A9s_illu%20VF%20%281%29.pdf",
+      "passage": "« les bénéficiaires de la protection temporaire ont accès à des prestations énumérées limitativement » : allocations familiales, complément familial, allocation de base, prime à la naissance, AEEH, APL et ASF. Le RSA et la prime d'activité figurent parmi les prestations exclues de cette dérogation, « sauf particularités ». Les réfugiés statutaires, eux, perçoivent les prestations dans les mêmes conditions qu'un Français. Pour les bénéficiaires de la protection temporaire, toutes les ressources, y compris celles perçues à l'étranger, sont prises en compte.",
+      "pertinence": "Guide professionnel officiel de la branche Famille.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Accueil des réfugiés ukrainiens : la Cour des comptes fait le bilan et demande à l'État de mieux anticiper",
+      "organisme": "Maire-info (Association des maires de France), sur un rapport de la Cour des comptes",
+      "date_publication": "1er mars 2023",
+      "url": "https://www.maire-info.com/guerre-en-ukraine/accueil-des-refugies-ukrainiens-la-cour-des-comptes-fait-le-bilan-et-demande-%C3%A0-l'%C3%89tat-de-mieux-anticiper--article-27258",
+      "passage": "Environ 115 000 personnes accueillies, « principalement des femmes et des enfants ». Coût d'environ 634 millions d'euros en 2022 pour l'État et la Sécurité sociale. Fin décembre 2022, 45 000 ménages, soit 82 000 personnes, bénéficiaient de l'ADA. Les APL, les allocations familiales, le complément familial et l'AEEH ont été ouverts par une circulaire du 10 mars 2022, à titre dérogatoire : les APL sont normalement réservées aux titulaires d'un titre de séjour valide. Protection temporaire de trois ans maximum, jusqu'au 4 mai 2025 à l'époque.",
+      "pertinence": "Média de l'Association des maires de France résumant un rapport de la Cour des comptes ; le rapport lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 1925 sur l'accès des déplacés ukrainiens aux prestations sociales, et réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale (réponse du ministère de l'Intérieur et des Outre-mer)",
+      "date_publication": "réponse publiée au JO le 22 novembre 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE1925.pdf",
+      "passage": "Depuis le 14 avril 2022, la charge des enfants des bénéficiaires de la protection temporaire peut être prise en compte pour les prestations familiales ; la prime d'activité leur est accordée ; un bénéficiaire qui demande aussi l'asile « ne peut obtenir deux fois le versement de l'allocation pour demandeur d'asile (ADA) ». L'accès au marché du travail est total. 5 806 nouveaux foyers couverts par des prestations familiales en août 2022, plus de 14 000 depuis mai 2022.",
+      "pertinence": "Réponse ministérielle officielle (2022).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Prolongation de la protection temporaire et nouveaux chiffres de la DREES sur l'ADA.",
+  "objections_legitimes": [
+    "L'accueil des Ukrainiens a coûté de l'argent public : environ 634 millions d'euros en 2022.",
+    "Ils ont reçu des droits dérogatoires, comme les APL, que n'ont pas d'autres étrangers."
+  ],
+  "publics": {
+    "convaincus": "Fais le calcul : un Ukrainien seul hébergé touche environ 207 € par mois d'ADA, 432 € s'il n'a pas de logement. Un Français sans ressources a droit au RSA, 651,69 €. Ils n'ont pas accès au RSA. Dire qu'ils touchent plus, c'est faux.",
+    "indecis": "C'est vrai que l'État s'est mobilisé pour les Ukrainiens, environ 634 millions d'euros en 2022, et c'est normal de se poser la question. Mais leurs aides restent inférieures à celles d'un Français dans la même situation. Ce que leur accueil prouve, c'est qu'on peut accueillir dignement quand on le décide."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "internationalisme",
+      "dignite"
+    ],
+    "mecanismes": "La comparaison oppose les exilés aux Français modestes sans regarder les montants réels, pour transformer un accueil de guerre en injustice sociale.",
+    "consequences": "Ces rumeurs fragilisent des femmes et des enfants qui ont fui la guerre, et détournent l’attention de la faiblesse des minima sociaux pour tous.",
+    "democratie": "Les montants des aides sont publics : le débat démocratique doit partir des barèmes officiels, pas des rumeurs.",
+    "propositions": [
+      "Revaloriser les minima sociaux et l’allocation pour demandeur d’asile pour que personne ne vive sous le seuil de dignité.",
+      "Appliquer à tous les exilés les conditions d’accueil rapides et dignes offertes aux Ukrainiens.",
+      "Ouvrir pleinement l’accès au travail et à la formation pour tous les demandeurs de protection."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les déplacés d’Ukraine ont bénéficié de droits ouverts par dérogation, plus vite que d’autres exilés, pour un coût public important.",
+        "integration": "Le reconnaître et en faire un modèle : cet accueil prouve qu’on peut accueillir dignement, et il doit valoir pour tous."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "ukrainiens_aides_prestations",
+      "label": "Aides aux réfugiés ukrainiens"
+    },
+    {
+      "id": "ukrainiens_aides_immigration",
+      "label": "Aides aux réfugiés ukrainiens"
+    },
+    {
+      "id": "ukrainiens_aides",
+      "label": "Aides aux réfugiés ukrainiens"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "ukraine",
+    "ukrainiens_aides"
+  ]
+}

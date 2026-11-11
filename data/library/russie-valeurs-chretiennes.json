@@ -174,13 +174,6 @@
       }
     ]
   },
-  "concepts": [
-    "patriotisme",
-    "europe",
-    "russie",
-    "antichretien",
-    "russie_chretiens"
-  ],
   "repond_a": [
     {
       "id": "russie_chretiens",
@@ -199,5 +192,12 @@
     "poutine",
     "kremlin",
     "moscou"
+  ],
+  "concepts": [
+    "patriotisme",
+    "europe",
+    "russie",
+    "antichretien",
+    "russie_chretiens"
   ]
 }

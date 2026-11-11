@@ -1,0 +1,231 @@
+{
+  "id": "allocations-familiales-enfants-pays",
+  "type": "idee_recue",
+  "affirmation": "On verse des allocations familiales pour des enfants restés au pays.",
+  "volet": "social",
+  "sous_theme": "Allocations familiales",
+  "rubriques": [],
+  "mots_cles": [
+    "allocations familiales enfants au pays",
+    "allocs enfants a l etranger",
+    "caf enfants restes au bled",
+    "allocations familiales etrangers",
+    "allocations enfants maroc",
+    "prestations familiales exportees",
+    "regroupement familial allocations",
+    "allocations familiales immigres"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "En règle générale, non : pour toucher les allocations familiales françaises, l'enfant doit résider en France, et un enfant étranger arrivé hors regroupement familial n'ouvre pas de droit, comme l'a jugé la Cour de cassation en 2011. Il existe deux exceptions encadrées : les travailleurs européens, dont les enfants vivent dans un autre pays de l'UE, et certaines conventions avec des pays comme le Maroc ou la Tunisie, qui prévoient des montants bien plus faibles, liés à un travail en France. Pour un salarié en France dont deux enfants vivent au Maroc, c'est 84,18 € par mois, contre 152,25 € pour deux enfants vivant en France.",
+  "contexte": "L'idée que la CAF financerait des familles entières restées à l'étranger circule depuis longtemps. Elle a été relayée par des questions de députés, notamment sur les travailleurs saisonniers.",
+  "explication": "Il faut distinguer la règle générale (résidence de l'enfant en France), le cas des citoyens européens qui travaillent en France et celui des conventions bilatérales, puis comparer les montants.",
+  "faits": [
+    {
+      "fait": "Pour percevoir les prestations familiales, un étranger doit résider en France et avoir au moins un enfant à charge résidant en France ; la régularité de l'entrée des enfants est aussi exigée dans de nombreux cas.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La règle générale exclut les enfants restés à l'étranger.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Gouvernement, « La condition de résidence en France doit être appréciée pour chaque enfant à charge », et les titulaires d'une carte de travailleur saisonnier n'ont pas droit aux prestations familiales.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Chaque enfant doit vivre en France pour compter.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Conseil de la communauté marocaine à l'étranger, en 2011, la Cour de cassation a jugé que les prestations pour un enfant né à l'étranger ne sont dues que s'il est entré par le regroupement familial, avec un certificat médical de l'OFII.",
+      "periode": "2011",
+      "perimetre": "France",
+      "explication": "Le contrôle est strict, au point d'exclure des enfants vivant déjà en France.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les citoyens européens qui travaillent en France peuvent toucher des prestations familiales pour leurs enfants vivant dans un autre pays de l'UE, en vertu du règlement n° 883/2004 ; la règle vaut dans les deux sens.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Fait défavorable : il existe bien des allocations versées pour des enfants hors de France, mais pour des travailleurs qui cotisent.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Centre des liaisons européennes et internationales de sécurité sociale, Des conventions bilatérales avec le Maroc, la Tunisie, la Turquie ou des pays de l'ex-Yougoslavie prévoient des allocations versées à la famille restée au pays d'un travailleur en France, à des montants fixés d'un commun accord.",
+      "periode": "2026",
+      "perimetre": "France et pays conventionnés",
+      "explication": "Fait défavorable : l'exception existe, liée au travail et négociée entre États.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Cleiss, pour des enfants résidant au Maroc, le barème est de 42,23 € par mois pour un enfant et 84,18 € pour deux, limité à 4 enfants ; en France, les allocations familiales sont de 152,25 € pour deux enfants dans la tranche de revenus la plus basse.",
+      "periode": "2025-2026",
+      "perimetre": "France et Maroc",
+      "explication": "Les montants conventionnels sont bien plus faibles que les allocations françaises.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "84,18 €"
+    }
+  ],
+  "argumentaires": {
+    "court": "En règle générale, c'est faux : l'enfant doit vivre en France pour ouvrir droit aux allocations familiales. Les exceptions sont encadrées : travailleurs européens, et quelques conventions, comme avec le Maroc, à des montants bien plus faibles (84,18 € pour deux enfants, contre 152,25 € en France).",
+    "moyen": "La loi exige que chaque enfant à charge réside en France. Un enfant étranger arrivé hors du regroupement familial n'ouvre même pas de droit, l'a jugé la Cour de cassation en 2011. Les travailleurs saisonniers étrangers n'ont pas droit aux allocations familiales.\n\nDeux exceptions existent. Les citoyens européens qui travaillent en France peuvent toucher des prestations pour des enfants restés dans un autre pays de l'UE, comme les Français qui travaillent ailleurs en Europe. Et des conventions avec des pays comme le Maroc ou la Tunisie prévoient de petites allocations pour la famille restée au pays d'un travailleur qui cotise en France : 84,18 € par mois pour deux enfants au Maroc, contre 152,25 € pour deux enfants vivant en France.",
+    "detaille": "La règle est claire. Selon service-public.fr, un étranger doit résider en France et avoir au moins un enfant à charge résidant en France pour toucher des prestations familiales. Le Gouvernement l'a rappelé en 2023 : la condition de résidence s'apprécie « pour chaque enfant à charge ». La règle est même sévère : depuis une loi de 2005, confirmée par la Cour de cassation en 2011, un enfant né à l'étranger n'ouvre de droit que s'il est entré par le regroupement familial avec un certificat de l'OFII.\n\nIl existe pourtant des allocations versées pour des enfants qui ne vivent pas en France. Dans l'Union européenne, le règlement n° 883/2004 permet à un travailleur qui cotise en France de toucher des prestations pour ses enfants vivant dans un autre pays de l'UE ; la règle joue aussi en faveur des Français qui travaillent ailleurs en Europe. Et des conventions de sécurité sociale, avec le Maroc, la Tunisie, la Turquie ou des pays de l'ex-Yougoslavie, prévoient des allocations pour la famille restée au pays.\n\nCes allocations conventionnelles sont liées à un travail en France et nettement plus faibles. Pour des enfants vivant au Maroc, le barème est de 42,23 € par mois pour un enfant, 84,18 € pour deux, avec un maximum de 4 enfants. Pour deux enfants vivant en France, les allocations familiales sont de 152,25 €. Il ne s'agit donc pas d'un détournement, mais de droits négociés entre États pour des travailleurs qui cotisent.",
+    "empathie": "On peut trouver choquant que de l'argent public parte à l'étranger quand des familles d'ici peinent. La question est légitime ; elle mérite qu'on regarde les règles réelles et les montants."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Un immigré peut faire venir des allocations pour dix enfants restés au pays.",
+      "reponse": "Non : la règle générale exige que chaque enfant vive en France, et la convention avec le Maroc, par exemple, est limitée à 4 enfants, pour 168,45 € par mois au maximum."
+    },
+    {
+      "objection": "Les Européens de l'Est profitent de nos allocations.",
+      "reponse": "Ce sont des travailleurs qui cotisent en France ; et la même règle permet aux Français qui travaillent ailleurs en Europe d'être aidés pour leurs enfants."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'un enfant étranger arrivé hors du regroupement familial n'ouvre même pas droit aux allocations familiales ?",
+    "Trouves-tu juste qu'un travailleur qui cotise en France n'ait aucun droit pour ses enfants restés au pays ?"
+  ],
+  "limites": [
+    "Aucune source lue ne donne le nombre d'enfants ni le montant total des allocations versées pour des enfants résidant à l'étranger.",
+    "Le barème marocain lu date d'avril 2025 ; les montants des autres conventions n'ont pas été lus.",
+    "Les arrêts de la Cour de cassation de 2011 ont été lus à travers le compte rendu d'une institution marocaine ; Légifrance n'a pas pu être ouvert.",
+    "La page service-public.fr sur les allocations familiales (F13213) n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Un étranger peut-il percevoir des prestations familiales en France ?",
+      "organisme": "Service-public.fr (Direction de l'information légale et administrative)",
+      "date_publication": "vérifiée le 16 octobre 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F356",
+      "passage": "« Vous devez résider avec votre famille en France et respecter des conditions particulières liées à votre séjour. » Conditions, y compris pour les ressortissants de l'EEE et de la Suisse : justifier d'un droit au séjour, résider en France, avoir au moins un enfant à charge résidant en France et, sauf titre autorisant une activité professionnelle, prouver la régularité de l'entrée des enfants en France.",
+      "pertinence": "Site officiel de l'administration.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 2513 sur le droit aux allocations familiales des travailleurs saisonniers étrangers, et réponse du Gouvernement",
+      "organisme": "Assemblée nationale (réponse du ministère des Comptes publics)",
+      "date_publication": "réponse publiée au JO le 6 juin 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE2513.pdf",
+      "passage": "Pour les étrangers hors UE, le droit suppose un séjour régulier et deux conditions de résidence cumulatives, celle de l'allocataire et celle des enfants : « La condition de résidence en France doit être appréciée pour chaque enfant à charge. » Les titulaires d'une carte « travailleur saisonnier » n'y ont pas droit. Certaines conventions bilatérales prévoient un droit lié à une activité minimale en France, même si les enfants restent dans le pays d'origine. Pour l'UE, l'EEE et la Suisse, l'article 67 du règlement n° 883/2004 lève la condition de résidence des membres de la famille.",
+      "pertinence": "Réponse ministérielle officielle à une députée RN.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Enfants nés à l'étranger : les prestations familiales subordonnées à la procédure de regroupement familial",
+      "organisme": "Conseil de la communauté marocaine à l'étranger (CCME), sur deux arrêts de la Cour de cassation",
+      "date_publication": "9 juin 2011",
+      "url": "https://www.ccme.org.ma/enfants-nes-a-l-etranger-les-prestations-familiales-subordonnees-a-la-procedure-de-regroupement-familial",
+      "passage": "Par deux arrêts d'Assemblée plénière du 3 juin 2011, la Cour de cassation juge qu'en vertu des articles L. 512-2 et D. 512-2 du code de la sécurité sociale, les prestations pour des enfants nés à l'étranger ne sont dues que si l'enfant est entré régulièrement dans le cadre du regroupement familial, certificat médical de l'OFII à l'appui ; cette exigence a « un caractère objectif justifié par la nécessité dans un Etat démocratique d'exercer un contrôle des conditions d'accueil des enfants ».",
+      "pertinence": "Institution consultative marocaine rendant compte d'arrêts de la Cour de cassation (source secondaire).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les prestations familiales dans le cadre des accords de sécurité sociale",
+      "organisme": "Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)",
+      "date_publication": "page consultée le 11 novembre 2026",
+      "url": "https://www.cleiss.fr/docs/pf/index.html",
+      "passage": "Les prestations familiales françaises « peuvent être exportées dans leur quasi totalité » dans le cadre des règlements européens, lorsqu'un parent travaille en France et que les enfants résident dans un État où ils s'appliquent. Certaines conventions bilatérales prévoient des prestations pour des travailleurs non détachés : participation (la plupart des pays d'Afrique, généralement limitée à 4 enfants) ou allocations transférables versées directement à la famille à l'étranger (Bosnie-Herzégovine, Kosovo, Macédoine du Nord, Maroc, Monténégro, Serbie, Tunisie, Turquie), avec des montants fixés d'un commun accord.",
+      "pertinence": "Organisme public de liaison de la Sécurité sociale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Maroc : prestations familiales",
+      "organisme": "Cleiss",
+      "date_publication": "barème au 1er avril 2025",
+      "url": "https://www.cleiss.fr/docs/pf/maroc.html",
+      "passage": "Allocations pour des enfants résidant au Maroc d'un travailleur relevant de la sécurité sociale française, par mois depuis le 1er avril 2025 : 42,23 € pour 1 enfant, 84,18 € pour 2, 126,27 € pour 3, 168,45 € pour 4 enfants et plus ; « 4 enfants maximum » ; jusqu'à 18 ans ; plus dues si un droit est ouvert au Maroc au titre d'une activité.",
+      "pertinence": "Organisme public de liaison de la Sécurité sociale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Barème allocations familiales",
+      "organisme": "Caf (caf.fr)",
+      "date_publication": "montants au 1er avril 2026",
+      "url": "https://www.caf.fr/professionnels/offres-et-services/accompagnement-des-allocataires/bareme-allocations-familiales",
+      "passage": "Au 1er avril 2026, dans la tranche de revenus la plus basse : 152,25 € par mois pour 2 enfants, 347,32 € pour 3 enfants.",
+      "pertinence": "Barème officiel de la branche Famille.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Prestations familiales dans l'Union européenne : cadre et conditions d'ouverture des droits",
+      "organisme": "Caf (caf.fr)",
+      "date_publication": "6 janvier 2026",
+      "url": "https://caf.fr/professionnels/actualites/prestations-familiales-dans-l-union-europeenne-cadre-et-conditions-d-ouverture-des-droits",
+      "passage": "Dans l'UE, le pays où l'on travaille est compétent en priorité, car « les cotisations y sont acquittées » ; si un autre pays verse des prestations plus élevées, un « complément différentiel (ou allocation différentielle) peut être versé ». La règle joue dans les deux sens, y compris pour des enfants résidant en France dont un parent travaille dans un autre État membre.",
+      "pertinence": "Information officielle de la branche Famille.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Revalorisation annuelle des barèmes au 1er avril et éventuelles réformes des conditions de résidence.",
+  "objections_legitimes": [
+    "Des allocations sont bien versées pour des enfants hors de France, dans le cadre européen et de certaines conventions.",
+    "Il est normal de vouloir vérifier que les prestations vont à des enfants réellement à charge."
+  ],
+  "publics": {
+    "convaincus": "La loi exige que chaque enfant vive en France, et la Cour de cassation refuse même les allocations à des enfants arrivés hors regroupement familial. Les seules exceptions concernent des travailleurs qui cotisent : Européens, ou salariés de pays liés par une convention. Pour deux enfants au Maroc, c'est 84,18 € par mois, presque deux fois moins qu'en France.",
+    "indecis": "Ta question est légitime : il existe des allocations versées pour des enfants à l'étranger. Mais elles sont rares, liées à un travail en France, et beaucoup plus faibles que les allocations françaises. La règle générale reste la résidence de l'enfant en France."
+  },
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "travailleurs",
+      "egalite"
+    ],
+    "mecanismes": "Des exceptions rares, négociées entre États et liées au travail, sont présentées comme une règle générale pour faire croire à un détournement massif de la protection sociale.",
+    "consequences": "Ce soupçon alimente le rejet des familles immigrées et sert de prétexte à durcir les conditions d’accès aux prestations pour des enfants qui vivent en France.",
+    "democratie": "Les règles d’attribution sont fixées par la loi et par des traités ratifiés : elles peuvent être débattues, mais sur la base de leurs termes réels.",
+    "propositions": [
+      "Garantir les mêmes prestations à tous les enfants qui vivent en France, quelle que soit la façon dont ils sont arrivés.",
+      "Publier chaque année les montants versés au titre des règlements européens et des conventions bilatérales.",
+      "Défendre en Europe l’égalité des droits sociaux des travailleurs, pour empêcher le dumping social."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des allocations sont bien versées pour des enfants vivant à l’étranger, dans le cadre européen et de certaines conventions bilatérales.",
+        "integration": "Le dire franchement, puis expliquer qu’il s’agit de droits liés à des cotisations, réciproques pour les Français à l’étranger, et à des montants bien plus faibles."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "af_etranger",
+      "label": "Allocations pour des enfants à l’étranger"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat"
+  ],
+  "concepts": [
+    "immigration",
+    "prestations",
+    "af_etranger"
+  ]
+}

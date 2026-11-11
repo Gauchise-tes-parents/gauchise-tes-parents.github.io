@@ -185,13 +185,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "prestations",
-    "fiscalite",
-    "cout",
-    "intermittents"
-  ],
   "repond_a": [
     {
       "id": "intermittents",
@@ -212,5 +205,12 @@
     "caf",
     "apl",
     "minima sociaux"
+  ],
+  "concepts": [
+    "emploi",
+    "prestations",
+    "fiscalite",
+    "cout",
+    "intermittents"
   ]
 }

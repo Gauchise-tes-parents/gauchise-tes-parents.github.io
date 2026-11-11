@@ -881,3 +881,161 @@ Pages non ouvertes, donc non citées :
 - lien entre l'acheteur de l'Indre (HongYang) et le groupe Reward.
 
 **Vérifications.** `npm test` : 471 tests, 471 réussis (après deux corrections : un fait de `lfi-retraite-60-ans` est désormais attribué explicitement à l'Institut Montaigne ; l'affirmation de `bac-donne-a-tous` ne contient plus « aujourd'hui », qui attirait la phrase hors sujet « Il fait beau aujourd'hui », et un concept `bac` a été ajouté). Tests de bout en bout : 38 sur 38.
+
+## 11 novembre 2026 — passage de 20 h 13 (UTC)
+
+**Questions testées : 35 candidates, 25 retenues.** Les phrases ont été choisies parmi les thèmes documentés par les vérificateurs de presse (AFP Factuel, Libération, PolitiFact, Full Fact, CORRECTIV), Conspiracy Watch, les rapports publics et les débats récents. Elles sont reformulées de façon générale. `node scripts/verifier-couverture.mjs` a donné, sur les 35 candidates, 5 « LACUNE » et 30 « COUVERTE ». Chaque phrase « COUVERTE » a été comparée à l'affirmation de la fiche trouvée.
+
+Questions écartées parce qu'une fiche y répondait déjà vraiment :
+- les OQTF jamais exécutées (`deboutes-asile-restent`, `expulser-tous-etrangers-condamnes`) ;
+- les mineurs délinquants de plus en plus jeunes (`excuse-de-minorite`) ;
+- la gauche qui aurait abandonné les ouvriers (`ouvriers-vote-rn`) ;
+- l'appel d'air des régularisations (`lfi-regulariser-sans-papiers`, `migrants-mediterranee`) ;
+- LFI et le Hamas (`lfi-antisemite`) ;
+- les étrangers au RSA dès leur arrivée (`immigres-aides`, qui détaille la condition de cinq ans de séjour) ;
+- les impôts de production (`impots-entreprises-europe`) ;
+- LFI et la sortie de l'OTAN (`lfi-pro-poutine`, et `rn-sortie-otan` pour le RN).
+
+Questions de réserve non retenues : la chasse que les écologistes voudraient interdire, le « plan Kalergi » (proche de `grand-remplacement`).
+
+Les 20 questions retenues parmi les « COUVERTE » menaient à une fiche hors sujet. Exemples :
+- les transports des sans-papiers et les réfugiés ukrainiens vers `immigres-aides` ;
+- la CEDH vers `etranger-crime-plus-sa-place` ;
+- les attaques au couteau, la déchéance de nationalité, les prénoms des agresseurs vers `delinquance-partout` ;
+- les églises et la charia vers `musulmans-amalgames` ;
+- Mitterrand et Jaurès vers `patriotisme-nationalisme` ;
+- Soros et l'euro numérique vers `souverainete-populaire` ;
+- l'arabe à l'école vers `musulmans-majoritaires-france`.
+
+Questions retenues :
+1. Les sans-papiers voyagent quasiment gratuitement dans les transports en Île-de-France.
+2. Les réfugiés ukrainiens touchent plus d'aides que les Français.
+3. On verse des allocations familiales pour des enfants restés au pays.
+4. La Cour européenne des droits de l'homme empêche la France d'expulser.
+5. Il faut déchoir de leur nationalité les binationaux délinquants.
+6. Il y a des attaques au couteau tous les jours, c'est l'ensauvagement.
+7. Il faut supprimer les allocations familiales aux parents de délinquants.
+8. Les médias cachent les prénoms des agresseurs.
+9. Partout en France, des églises sont transformées en mosquées.
+10. Les musulmans placent la charia au-dessus des lois de la République.
+11. Les communistes étaient alliés des nazis avec le pacte germano-soviétique.
+12. Le nazisme était un mouvement de gauche, c'est écrit dans son nom : national-socialisme.
+13. Mitterrand a fait monter le Front national pour diviser la droite.
+14. Jaurès voterait aujourd'hui pour le Rassemblement national.
+15. Mélenchon veut la créolisation de la France.
+16. La dépense publique représente 57 % du PIB, c'est un record mondial.
+17. La France va bientôt être mise sous tutelle du FMI.
+18. Les fonctionnaires ne peuvent jamais être licenciés.
+19. Avec le zéro artificialisation nette, on ne pourra plus construire de maisons individuelles.
+20. Enseigner l'arabe à l'école, c'est favoriser l'islamisation.
+21. L'Union européenne veut supprimer l'argent liquide avec l'euro numérique.
+22. Avec le DSA, Bruxelles censure les réseaux sociaux.
+23. Avec l'IVG dans la Constitution, on pourra avorter jusqu'à la naissance.
+24. Le Great Reset de Davos veut nous déposséder de tout.
+25. George Soros finance l'immigration en Europe.
+
+**Fiches créées (25)** dans `scripts/fiches/quotidien_20261111_2013.py`, chacune avec le champ `publics` et une entrée dans `scripts/lectures-gauche.js` :
+
+| Fiche | Verdict | Sources principales |
+|---|---|---|
+| `sans-papiers-transports-idf` | contredit | Île-de-France Mobilités (2026, deux pages) ; Conseil d'État (2019, lu via Landot & associés) ; Public Sénat (2018, deux articles) ; Banque des Territoires (2024) ; Le Courrier de l'Atlas (2019) |
+| `refugies-ukrainiens-aides` | contredit | DREES (2025) ; Service-public.fr (2026) ; La finance pour tous (2026) ; Cnaf (2026) ; Cour des comptes (2023, via Maire-info) ; Assemblée nationale (2022) |
+| `allocations-familiales-enfants-pays` | trompeur | Service-public.fr (2026) ; Assemblée nationale (2023) ; Cour de cassation (2011, via le CCME) ; Cleiss (2025-2026) ; Caf (2026) |
+| `cedh-empeche-expulser` | trompeur | CEDH (statistiques des mesures provisoires 2023-2026, fiche pays France 2026) ; Public Sénat (2023, 2026) ; Le Club des juristes (2019, 2023) |
+| `decheance-nationalite-binationaux` | opinion | Assemblée nationale (2023) ; Conseil constitutionnel (2015) ; Conseil d'État (2016) ; Présidence de la République (2016) ; Acteurs publics (2016) ; Public Sénat (2024) |
+| `attaques-couteau-ensauvagement` | trompeur | Assemblée nationale (2020) ; Sénat (2022) ; ONDRP (2020) ; CESDIP ; Europe 1 (2020) ; La Libre Belgique (2020) ; The Connexion (2026) |
+| `allocations-familiales-parents-delinquants` | opinion | Banque des Territoires (2011, 2013) ; Public Sénat (2023) ; LCP (2023) ; Assemblée nationale (2023, rapport n° 1698) |
+| `prenoms-agresseurs-caches` | trompeur | Légifrance (code de la justice pénale des mineurs) ; Service-Public.fr (2021) ; RTBF (2018) ; France 24 (2026) ; Euronews (2026) ; Ined (2019) ; Puremédias (2016) |
+| `eglises-transformees-mosquees` | trompeur | Europe 1 (2015) ; BuzzFeed News France (2016) ; The Irish Times (2015) ; Banque des Territoires (2016, 2024) ; Assemblée nationale (2019) |
+| `musulmans-charia-sondage` | trompeur | Ifop (2025) ; The Conversation (2025, entretien avec des chercheurs du CNRS et de l'Ined) ; Mediapart (2025) ; Institut Montaigne (2016) ; Politis (2016) |
+| `pacte-germano-sovietique-communistes` | trompeur | Encyclopédie multimédia de la Shoah, USHMM (2022) ; Universalis (G.-H. Soutou, J.-M. Guillon) ; Larousse ; Fondation Jean-Jaurès (2019) ; Fondation de la Résistance (2023) |
+| `nazisme-gauche-socialisme` | contredit | Full Fact (2019) ; USHMM (2021, 2024, 2025) ; Encyclopaedia Britannica ; G. Bel, Economic History Review (2010) |
+| `mitterrand-fn-proportionnelle` | trompeur | Vie publique ; Universalis ; Larousse (1987) ; Hérodote.net (2026) ; LCP-INA ; Fondation Jean-Jaurès (2018) |
+| `jaures-recuperation-rn` | trompeur | Fondation Jean-Jaurès (2011, 2016, 2024) ; CNRS Le journal (2014) ; Assemblée nationale ; Politis (2009) |
+| `creolisation-melenchon` | trompeur | Reporterre (2021) ; Slate (2021) ; Puremédias (2025) ; Acta fabula (2025) ; AFP (2026) ; Fondation Jean-Jaurès (2018) |
+| `depense-publique-57-pib` | plutôt exact | Insee (2026) ; Eurostat (2026) ; Banque de France (2025) ; FIPECO (2022) ; Acteurs publics d'après l'OCDE (2017) |
+| `fmi-tutelle-france` | trompeur | Reuters (2025) ; Banque de France (2025) ; IRIS (2025) ; FMI (2026) ; Cour des comptes (2026, via Public Sénat) ; Agence France Trésor (2026) ; Insee (2026) |
+| `fonctionnaires-licenciement` | contredit | Service-Public.fr (2026) ; DGAFP (2024) ; collectivites-locales.gouv.fr (2025) ; Acteurs publics (2025) ; Insee et DGAFP (2026) ; AP-HP (2019) |
+| `zan-maisons-individuelles` | contredit | Banque des Territoires (2021, 2025, 2026, données du Cerema) ; Public Sénat (2023, 2026) ; Maire-info (2025) ; Weka (2026) ; L'info durable (2024) |
+| `arabe-ecole-islamisation` | contredit | Assemblée nationale (2019, 2022) ; Institut Montaigne (2018) ; Public Sénat (2018) ; Libération (2017, 2020) ; Banque des Territoires (2020) |
+| `euro-numerique-especes` | contredit | Commission européenne (2023) ; Eunews (2025) ; Parlement européen (2026, deux communiqués) ; AFP (2025) ; CNIL (2023) |
+| `dsa-censure-bruxelles` | trompeur | Règlement (UE) 2022/2065 ; Commission européenne (2025, 2026) ; Observatoire européen de l'audiovisuel (2025) ; Le Club des juristes (2025) ; Euronews (2025) |
+| `ivg-constitution-naissance` | contredit | Journal officiel (2024, via Landot & associés) ; LCP (2024) ; Le Club des juristes (2024) ; Le Quotidien du médecin (2022) ; DREES (2025, 2026 via VIDAL) ; Agence de la biomédecine (2025) |
+| `great-reset-davos` | contredit | PolitiFact (2023) ; CORRECTIV (2023) ; Conspiracy Watch (2021) ; Associated Press (2023) ; Fondation Rosa-Luxemburg (2021) ; Public Sénat / Oxfam (2026) |
+| `soros-immigration` | trompeur | Open Society Foundations (2018) ; Bloomberg Opinion (2018) ; AFP (2017) ; CJUE (2021) ; J. Richardson et R. Wodak (2022) ; ADL (2018) |
+
+**Méthode.** Cinq agents documentalistes ont fait la recherche, chacun sur cinq questions. Chacun cherchait avec WebSearch puis lisait chaque page avec WebFetch. Seules les pages effectivement lues sont citées, et les chiffres viennent des passages lus. Chaque fiche contient au moins un fait défavorable ou une limite honnête, par exemple :
+- l'ancienne réduction de 75 % accordée aux bénéficiaires de l'AME et son coût en 2015 ;
+- les exceptions européennes et bilatérales aux allocations pour des enfants vivant à l'étranger ;
+- les condamnations de la France pour des renvois vers la Russie ;
+- les cas réels d'églises devenues mosquées (Graulhet, Lille, Nantes) ;
+- les chiffres Ifop défavorables ;
+- l'attitude du PCF en 1939-1941 ;
+- la phrase de Jaurès sur la main-d'œuvre étrangère ;
+- la France parmi les pays qui dépensent le plus ;
+- la hausse de la charge de la dette ;
+- le très petit nombre de licenciements pour insuffisance ;
+- le poids de l'habitat dans l'artificialisation ;
+- les anciens cours ELCO jugés « vecteur de séparatisme » ;
+- les vraies questions de vie privée de l'euro numérique ;
+- les critiques du DSA ;
+- les IMG tardives ;
+- le financement réel d'ONG d'aide aux migrants par l'OSF.
+
+Les sources orientées ne servent qu'avec attribution explicite :
+- Institut Montaigne, IRIS, Fondation Jean-Jaurès, Fondation Rosa-Luxemburg ;
+- Politis, Mediapart, ADL, Oxfam ;
+- Europe 1 (un fait reformulé en « Selon Europe 1 » pour respecter la politique documentaire).
+
+**Ajustements.**
+- Deux valeurs de fiabilité proposées par les agents, « debattu » et « probable », ont été ramenées aux valeurs reconnues par l'application (« debat », « interpretation »).
+- Les affirmations de deux fiches ont été reformulées sans le mot « délinquants », qui faisait passer ces fiches avant `delinquance-partout` dans la recherche par mot-clé : `decheance-nationalite-binationaux` (« … les binationaux qui commettent des crimes ») et `allocations-familiales-parents-delinquants` (« … aux parents des mineurs qui commettent des délits »). Les questions d'origine mènent toujours à ces fiches.
+
+Pages non ouvertes, donc non citées :
+- Vie publique (JavaScript requis ou erreur serveur, plusieurs pages) ;
+- Légifrance pour le code civil et le code de la sécurité sociale (erreur), EUR-Lex ;
+- pages Interstats du ministère de l'Intérieur ;
+- info.gouv.fr ;
+- la page de la représentation de la Commission « Non, le DSA ne vise pas à censurer » ;
+- pages TeO2 de l'Ined ;
+- La Gazette des communes, The Conversation sur le ZAN ;
+- Le Temps, Slate (plusieurs articles), un article HAL (protection anti-robots).
+
+**Reconnaissance des questions.**
+- Après génération, 6 des 25 questions menaient déjà à leur fiche.
+- `public/js/cartographie.js` reçoit 25 concepts : `transports_idf`, `ukrainiens_aides`, `af_etranger`, `cedh`, `decheance`, `couteau`, `af_delinquants`, `prenoms`, `eglises_mosquees`, `charia_lois`, `pacte_gs`, `nazisme_gauche`, `mitterrand_fn`, `jaures`, `creolisation`, `depense_publique`, `fmi`, `fonct_licenciement`, `zan`, `arabe_ecole`, `euro_numerique`, `dsa`, `ivg_naissance`, `great_reset`, `soros`.
+- Il reçoit aussi 32 arguments placés en tête : un par fiche, et des variantes à deux ou trois concepts (immigration, prestations, AME, islam, gauche) pour l'emporter sur les arguments généraux `immigres-aides`, `ame`, `musulmans_nombre` et `gauche_bilan`.
+- Comparaison avant/après sur 493 phrases de contrôle (affirmations de la bibliothèque, questions citées dans ce journal) : seules les questions visées changent de fiche. S'y ajoutent trois phrases témoins qui passent en « LACUNE », ce qui est correct : « Il fait beau aujourd'hui », « aujourd'hui » et « ne peuvent jamais être licenciés ».
+- 24 variantes familières vérifiées, dont :
+  - « Les bénéficiaires de l'AME ont le Navigo presque gratuit » ;
+  - « La CAF paie les allocs pour des gosses qui vivent au bled » ;
+  - « 120 agressions au couteau par jour en France ! » ;
+  - « Hitler était socialiste » ;
+  - « C'est Mitterrand qui a créé Le Pen avec la proportionnelle » ;
+  - « Le ZAN va empêcher nos enfants d'avoir une maison » ;
+  - « Bientôt le cash sera interdit par Bruxelles » ;
+  - « Maintenant on peut avorter à 9 mois » ;
+  - « Davos veut qu'on ne possède rien » ;
+  - « Soros paie les ONG qui font venir les migrants ».
+- Une variante reste mal orientée : « Staline et Hitler étaient alliés, les communistes ont collaboré » mène à `programme-irrealisable`. Ses deux moitiés, testées séparément, mènent bien à `pacte-germano-sovietique-communistes`.
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`). Comme indiqué au passage précédent, ces fiches portent sur la manière de discuter, pas sur des arguments d'extrême droite.
+
+**Questions écartées pour sources invérifiables : aucune.** Les dossiers les plus minces :
+- `attaques-couteau-ensauvagement` : aucune statistique nationale récente sur les armes blanches n'a pu être lue (pages du ministère bloquées) ; le chiffre des « 120 par jour » vient d'une estimation de l'ONDRP pour 2015-2017 ;
+- `musulmans-charia-sondage` : le chiffre de 2016 (29 %) n'est connu que par Politis ; Mediapart a été lu dans une republication ;
+- `mitterrand-fn-proportionnelle` : l'invitation de Le Pen à L'Heure de vérité « à la demande » de Mitterrand ne repose que sur Hérodote.net, signalée comme probable ;
+- `zan-maisons-individuelles` : l'état de la loi « Trace » après avril 2026 n'a pas pu être confirmé ;
+- `fmi-tutelle-france` : la déclaration de l'économiste en chef du FMI n'est connue qu'à travers la tribune de l'IRIS.
+
+**Points non vérifiés, laissés hors des fiches et signalés dans leurs limites :**
+- nombre actuel de bénéficiaires de la réduction AME et son coût ;
+- accès des déplacés ukrainiens à la prime d'activité (sources contradictoires) ;
+- montant total des allocations versées pour des enfants vivant à l'étranger ;
+- déchéances de nationalité après 2022 et motif exact de la censure de 2024 ;
+- part des homicides commis à l'arme blanche ;
+- nombre de révocations de fonctionnaires ;
+- nombre d'élèves apprenant l'arabe après 2020 ;
+- plafond de détention de l'euro numérique (négociations en cours) ;
+- lettre de Mitterrand à Le Pen en 1982 ;
+- citations de Jaurès utilisées par le RN.

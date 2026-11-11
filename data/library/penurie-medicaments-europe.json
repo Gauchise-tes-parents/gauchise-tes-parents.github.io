@@ -173,12 +173,6 @@
       }
     ]
   },
-  "concepts": [
-    "penurie",
-    "europe",
-    "pacte_ue_asile",
-    "medicaments"
-  ],
   "repond_a": [
     {
       "id": "medicaments",
@@ -194,5 +188,11 @@
     "bruxelles",
     "union europeenne",
     "pacte asile"
+  ],
+  "concepts": [
+    "penurie",
+    "europe",
+    "pacte_ue_asile",
+    "medicaments"
   ]
 }

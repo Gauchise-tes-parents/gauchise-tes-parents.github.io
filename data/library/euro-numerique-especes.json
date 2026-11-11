@@ -1,0 +1,214 @@
+{
+  "id": "euro-numerique-especes",
+  "type": "idee_recue",
+  "affirmation": "L'Union européenne veut supprimer l'argent liquide avec l'euro numérique.",
+  "volet": "politique",
+  "sous_theme": "Union européenne",
+  "rubriques": [],
+  "mots_cles": [
+    "euro numerique",
+    "fin du cash",
+    "fin des especes",
+    "suppression argent liquide",
+    "monnaie numerique bce",
+    "euro digital",
+    "bce surveillance",
+    "cours legal especes",
+    "fin des billets"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. La Commission a proposé en juin 2023 deux textes ensemble : l'un crée un cadre pour un euro numérique, l'autre protège le cours légal des espèces. Le Conseil (décembre 2025) et le Parlement européen (2026) veulent même interdire aux commerces de refuser le liquide. Les vraies questions sont ailleurs : la vie privée, le plafond de détention et l'intérêt réel du projet, que les régulateurs de la vie privée ont discutés.",
+  "contexte": "La Banque centrale européenne prépare une version numérique de l'euro, utilisable en ligne et hors ligne. Le projet est en négociation entre le Parlement européen et le Conseil ; la BCE évoque un lancement possible en 2029. Il nourrit de nombreuses rumeurs sur la fin du liquide et la surveillance.",
+  "explication": "Il faut lire les textes en discussion : ce qu'ils prévoient pour les espèces, ce qu'ils prévoient pour la vie privée, et ce qui n'est pas encore tranché.",
+  "faits": [
+    {
+      "fait": "En juin 2023, la Commission a présenté l'euro numérique avec une seconde proposition sur le cours légal des billets et pièces, destinée à maintenir l'acceptation générale des espèces dans toute la zone euro.",
+      "periode": "2023",
+      "perimetre": "Zone euro",
+      "explication": "Le projet a été conçu dès le départ avec un texte qui protège le liquide.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Eunews, dans sa position du 19 décembre 2025, le Conseil de l'UE veut empêcher de fait les commerçants de refuser les espèces, sauf exceptions comme la vente en ligne ou les automates.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "Les États membres renforcent l'obligation d'accepter le liquide.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La commission ECON du Parlement européen a adopté le texte sur le cours légal des espèces par 46 voix contre 4 ; elle veut interdire les affichettes « no cash » et obliger les États à garantir l'accès au liquide.",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "Le Parlement protège aussi les espèces, avec une large majorité.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "46 voix contre 4"
+    },
+    {
+      "fait": "Le 9 juillet 2026, le Parlement européen a ouvert les négociations avec le Conseil sur l'euro numérique par 416 voix contre 169 ; le texte final n'est pas encore adopté.",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "Le projet avance, mais rien n'est définitif.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "416 voix"
+    },
+    {
+      "fait": "Selon CNIL, les régulateurs européens de la vie privée (CEPD) ont jugé en 2023 que la gestion centralisée des données anti-fraude n'était « pas démontrée » et ont demandé un seuil de confidentialité pour les petites transactions en ligne.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Les inquiétudes sur la vie privée sont légitimes : des autorités officielles les ont exprimées.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'AFP, les affirmations sur la fin des espèces, la saisie de l'épargne ou le blocage des paiements par la BCE font partie d'une vague de fausses informations.",
+      "periode": "2025",
+      "perimetre": "Europe",
+      "explication": "Les rumeurs ont été vérifiées et démenties.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. L'euro numérique s'accompagne d'un texte qui protège les espèces : le Conseil et le Parlement européen veulent même interdire aux commerces de refuser le liquide. La vraie question, c'est la vie privée, et elle mérite d'être posée.",
+    "moyen": "Quand la Commission a proposé l'euro numérique en juin 2023, elle a proposé en même temps un texte pour garantir le cours légal des billets et pièces. En décembre 2025, le Conseil a demandé que les commerçants ne puissent plus, en pratique, refuser les espèces. En juin 2026, la commission compétente du Parlement européen a adopté ce texte par 46 voix contre 4, en interdisant les affichettes « no cash ».\n\nCela ne veut pas dire que le projet ne pose aucun problème. En 2023, les régulateurs européens de la vie privée ont critiqué une gestion centralisée des données anti-fraude et demandé un seuil de confidentialité pour les petits paiements. Le Parlement réclame une protection de la vie privée dès la conception et un plafond de détention. C'est sur ces points qu'il faut rester vigilant.",
+    "detaille": "L'euro numérique serait une monnaie publique émise par la BCE, utilisable en ligne et hors ligne, et gratuite pour les services de base. Il n'existe pas encore : le Parlement européen a ouvert les négociations avec le Conseil le 9 juillet 2026, par 416 voix contre 169, et la BCE évoque un lancement possible en 2029.\n\nLa fin du liquide ne figure dans aucun des textes. Au contraire : en juin 2023, la Commission a présenté un second règlement pour maintenir l'acceptation des espèces dans toute la zone euro. Le Conseil veut empêcher les commerçants de refuser le liquide, et la commission ECON du Parlement a adopté ce texte par 46 voix contre 4, avec obligation pour les États de garantir l'accès aux espèces. L'AFP a recensé de nombreuses rumeurs fausses : saisie de l'épargne, blocage des paiements, fin des billets.\n\nLes questions de vie privée sont, elles, sérieuses. Le Comité européen de la protection des données a jugé en 2023 que la centralisation des données anti-fraude n'était pas justifiée et a demandé un seuil de confidentialité pour les petites transactions en ligne. Le Parlement veut que la BCE n'ait pas accès aux données d'identification et que les paiements hors ligne restent confidentiels. Défendre le liquide et exiger un euro numérique respectueux de la vie privée, ce sont deux combats compatibles.",
+    "empathie": "Beaucoup de gens tiennent au liquide : pour gérer leur budget, par habitude, ou parce qu'ils se méfient de la surveillance. Ces inquiétudes sont légitimes et méritent des réponses précises."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils disent compléter le liquide, puis ils le supprimeront.",
+      "reponse": "Les textes en discussion vont dans l'autre sens : interdiction de refuser les espèces et obligation pour les États d'en garantir l'accès. Ce sont des engagements juridiques, pas des promesses orales."
+    },
+    {
+      "objection": "Avec l'euro numérique, la BCE verra tout ce que j'achète.",
+      "reponse": "C'est une vraie question. Le Parlement demande que la BCE n'ait pas accès aux données d'identification, et les paiements hors ligne seraient confidentiels. Les régulateurs de la vie privée veulent aller plus loin : il faut les soutenir."
+    }
+  ],
+  "questions": [
+    "Savais-tu que l'UE négocie en même temps un texte qui interdirait aux commerces de refuser le liquide ?",
+    "Qu'est-ce qui te protège le plus : une monnaie publique encadrée par la loi ou les seules cartes de paiement privées ?"
+  ],
+  "limites": [
+    "Les textes ne sont pas définitifs : les négociations entre Parlement et Conseil étaient en cours à la date des dernières sources lues (juillet 2026).",
+    "Le montant du plafond de détention n'est fixé dans aucune source lue.",
+    "L'avis du CEPD date de 2023 et porte sur la proposition initiale ; sa prise en compte dans le texte final n'a pas été vérifiée.",
+    "Les communiqués du Parlement européen ont été lus dans leur reprise par Mondo Visione."
+  ],
+  "sources": [
+    {
+      "titre": "Paquet « monnaie unique » : nouvelles propositions visant à soutenir l'utilisation des espèces et à proposer un cadre pour un euro numérique",
+      "organisme": "Commission européenne (Représentation au Luxembourg)",
+      "date_publication": "28 juin 2023",
+      "url": "https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/paket-zur-einheitlichen-wahrung-neue-vorschlage-zur-gewahrleistung-der-moglichkeit-bargeld-zu-2023-06-28_fr",
+      "passage": "La Commission présente deux propositions législatives : l'une sur le cours légal des billets et pièces en euros, qui « vise à maintenir ce niveau d'acceptation générale des espèces dans toute la zone euro » et demande aux États de garantir des possibilités de retrait « réels et suffisants » ; l'autre sur le cadre juridique d'un éventuel euro numérique. Selon le vice-président Valdis Dombrovskis : « Un euro numérique viendrait compléter les espèces, et non les remplacer. » Pour les paiements hors ligne : « Personne ne pourrait voir ce qu'ils paient hors ligne en euros numériques. » « Les particuliers bénéficieraient gratuitement de services de base en euros numériques. »",
+      "pertinence": "Communiqué officiel de la Commission présentant les deux propositions de juin 2023 ; c'est l'institution qui porte le projet.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Digital euro, Council agrees position to negotiate with Parliament",
+      "organisme": "Eunews",
+      "date_publication": "19 décembre 2025",
+      "url": "https://www.eunews.it/en/2025/12/19/digital-euro-council-agrees-position-to-negotiate-with-parliament/",
+      "passage": "Le Conseil de l'UE a arrêté sa position de négociation le 19 décembre 2025. Le texte prévoit un plafond de détention d'euros numériques par personne, pour éviter qu'il devienne une réserve de valeur ; l'euro numérique serait « available online or offline » et les paiements offriraient « a high degree of privacy ». Les espèces sont aujourd'hui la seule monnaie ayant cours légal dans la zone euro ; le Conseil veut empêcher de fait les commerçants de refuser les espèces, sauf exceptions (vente en ligne, à distance, automates). La BCE a indiqué que l'euro numérique « could be operational by 2029 ». Une fois le cadre adopté, la BCE décidera s'il est émis.",
+      "pertinence": "Média spécialisé dans l'actualité européenne, rendant compte de la position du Conseil.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Digital euro: MEPs want to ensure sovereignty, privacy and cash access (communiqué de presse du Parlement européen)",
+      "organisme": "Parlement européen, commission des affaires économiques et monétaires (communiqué repris par Mondo Visione)",
+      "date_publication": "23 juin 2026",
+      "url": "https://mondovisione.com/media-and-resources/news/european-parliament-digital-euro-meps-want-to-ensure-sovereignty-privacy-and-2026623/",
+      "passage": "La commission ECON a adopté sa position : 43 voix pour, 14 contre et 1 abstention sur l'euro numérique ; 46 pour, 4 contre et 8 abstentions sur le cours légal des billets et pièces. Plafond de détention à l'échelle de l'UE pour les particuliers, sans rémunération. Protection de la vie privée dès la conception et par défaut ; la BCE n'aurait pas accès aux données d'identification personnelles. Les États devraient garantir l'accès aux espèces ; les commerces ne pourraient pas refuser les espèces par des affichettes « no cash » ou des clauses contractuelles. Le rapporteur Fernando Navarrete Rojas (PPE) : « The digital euro will complement cash, never replace it. » Paiements hors ligne gratuits.",
+      "pertinence": "Communiqué officiel du Parlement européen, lu dans sa reprise intégrale par un site d'information financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Digital euro: MEPs ready to start negotiations (communiqué de presse du Parlement européen)",
+      "organisme": "Parlement européen (communiqué repris par Mondo Visione)",
+      "date_publication": "9 juillet 2026",
+      "url": "https://mondovisione.com/news/digital-euro-meps-ready-to-start-negotiations-202679/",
+      "passage": "En plénière, le Parlement a confirmé l'ouverture des négociations avec le Conseil par 416 voix pour, 169 contre et 22 abstentions, malgré la contestation des groupes ECR et Patriotes pour l'Europe. Le texte sur le cours légal des billets et pièces n'a pas été contesté. Un premier cycle de négociations avec la présidence irlandaise du Conseil devait suivre.",
+      "pertinence": "Communiqué officiel du Parlement européen, reproduit par un site d'information financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "ECB's digital euro sparks flurry of online misinformation",
+      "organisme": "AFP (dépêche reprise par eNCA)",
+      "date_publication": "26 mars 2025",
+      "url": "https://www.enca.com/business/ecbs-digital-euro-sparks-flurry-online-misinformation",
+      "passage": "L'AFP relève de nombreuses fausses informations : lancement imminent de l'euro numérique, fin des espèces, surveillance financière, blocage des paiements ou saisie de l'épargne. Les responsables de la BCE affirment que l'euro numérique « would complement cash - not replace it », et que la BCE « would not be able to directly link transactions to specific individuals ». La dépêche cite aussi la méfiance d'une partie du public envers les institutions centralisées.",
+      "pertinence": "Agence de presse ; la dépêche rapporte les affirmations de la BCE sans les vérifier de façon indépendante.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Actualité du CEPD : avis sur le projet de règlement sur l'euro numérique",
+      "organisme": "CNIL",
+      "date_publication": "19 octobre 2023",
+      "url": "https://cnil.fr/fr/actualite-du-cepd-avis-sur-le-projet-de-reglement-sur-leuro-numerique-et-theme-du-prochain-cadre",
+      "passage": "Le Comité européen de la protection des données (CEPD) a adopté le 17 octobre 2023 un avis sur le projet de règlement. Il recommande « l'introduction d'un seuil de confidentialité pour les petites transactions en ligne », estime que « la nécessité de recourir à une gestion centralisé des données de lutte anti-fraude n'est pas démontrée » et propose de la remplacer « par une modalité moins intrusive pour la vie privée ». Le texte de la Commission avait repris certaines recommandations, dont la pseudonymisation des données de transaction.",
+      "pertinence": "Autorité française de protection des données ; avis des régulateurs européens de la vie privée sur la proposition de 2023.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-11",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Issue des négociations entre Parlement européen et Conseil sur l'euro numérique et le cours légal des espèces.",
+  "objections_legitimes": [
+    "Les régulateurs européens de la vie privée ont eux-mêmes critiqué certains aspects du projet de 2023.",
+    "Le liquide recule dans la vie quotidienne, et son acceptation n'est pas garantie partout aujourd'hui."
+  ],
+  "publics": {
+    "convaincus": "Si l'UE voulait supprimer le liquide, elle ne voterait pas un texte qui interdit aux commerces de le refuser. C'est pourtant ce que font le Conseil et le Parlement. Ta méfiance sur la surveillance, en revanche, est partagée par les régulateurs européens de la vie privée : c'est là qu'il faut mettre la pression.",
+    "indecis": "Le liquide n'est pas menacé par l'euro numérique : un texte européen en cours de négociation protège même son acceptation. Le vrai sujet, c'est la protection des données. Garde un œil sur ce point, en t'appuyant sur les avis des autorités de protection de la vie privée."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "services_publics",
+      "democratie",
+      "vulnerables"
+    ],
+    "mecanismes": "La rumeur confond un projet de monnaie publique numérique avec la disparition du liquide, alors que les textes européens en discussion renforcent l’obligation d’accepter les espèces.",
+    "consequences": "La peur de la fin du cash détourne l’attention des vrais enjeux : la protection des données de paiement et la dépendance aux réseaux de cartes privés.",
+    "democratie": "Une monnaie publique doit être décidée au grand jour par le Parlement européen et le Conseil, sous le contrôle des autorités indépendantes de protection des données.",
+    "propositions": [
+      "Garantir par la loi le droit de payer en espèces et l’accès à des distributeurs sur tout le territoire.",
+      "Exiger un euro numérique protecteur de la vie privée, avec confidentialité des petits paiements et sans centralisation inutile des données.",
+      "Faire de l’euro numérique un service public gratuit, alternative aux réseaux de paiement privés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les régulateurs européens de la vie privée ont critiqué certains aspects du projet initial, notamment la centralisation des données anti-fraude.",
+        "integration": "Reconnaître ces critiques et en faire nos exigences : défendre à la fois le liquide et un euro numérique respectueux de la vie privée."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "euro_numerique",
+      "label": "Euro numérique et argent liquide"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "bruxelles",
+    "union europeenne",
+    "euro numerique"
+  ],
+  "concepts": [
+    "europe",
+    "euro_numerique"
+  ]
+}

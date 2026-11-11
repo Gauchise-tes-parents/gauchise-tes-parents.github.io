@@ -197,11 +197,6 @@
       }
     ]
   },
-  "concepts": [
-    "pouvoir_achat",
-    "services_publics",
-    "bac"
-  ],
   "repond_a": [
     {
       "id": "bac",
@@ -221,5 +216,10 @@
     "tout augmente",
     "urgences",
     "baccalaureat"
+  ],
+  "concepts": [
+    "pouvoir_achat",
+    "services_publics",
+    "bac"
   ]
 }

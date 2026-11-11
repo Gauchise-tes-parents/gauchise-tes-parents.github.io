@@ -183,13 +183,6 @@
       }
     ]
   },
-  "concepts": [
-    "melenchon_lfi",
-    "gauche",
-    "retraite",
-    "nfp_2024",
-    "retraite_60"
-  ],
   "repond_a": [
     {
       "id": "lfi_retraite_60",
@@ -210,5 +203,12 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "melenchon_lfi",
+    "gauche",
+    "retraite",
+    "nfp_2024",
+    "retraite_60"
   ]
 }

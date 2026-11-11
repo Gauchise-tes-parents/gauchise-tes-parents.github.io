@@ -174,11 +174,6 @@
       }
     ]
   },
-  "concepts": [
-    "islam",
-    "laicite",
-    "freres_musulmans"
-  ],
   "repond_a": [
     {
       "id": "freres_musulmans",
@@ -195,5 +190,10 @@
     "laicite",
     "freres musulmans",
     "entrisme"
+  ],
+  "concepts": [
+    "islam",
+    "laicite",
+    "freres_musulmans"
   ]
 }

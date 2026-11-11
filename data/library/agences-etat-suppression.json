@@ -183,10 +183,6 @@
       }
     ]
   },
-  "concepts": [
-    "dette",
-    "agences_etat"
-  ],
   "repond_a": [
     {
       "id": "agences_etat",
@@ -202,5 +198,9 @@
     "argent public",
     "argent magique",
     "n a plus les moyens"
+  ],
+  "concepts": [
+    "dette",
+    "agences_etat"
   ]
 }
