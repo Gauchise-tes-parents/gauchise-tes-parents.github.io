@@ -1,0 +1,262 @@
+{
+  "id": "trump-homme-de-paix",
+  "type": "idee_recue",
+  "affirmation": "Trump est un homme de paix qui a arrêté des guerres.",
+  "volet": "international",
+  "sous_theme": "États-Unis",
+  "rubriques": [],
+  "mots_cles": [
+    "trump homme de paix",
+    "trump a arrete des guerres",
+    "trump huit guerres",
+    "trump sept guerres",
+    "trump prix nobel",
+    "trump paix gaza",
+    "trump pacifiste",
+    "trump guerre iran",
+    "trump venezuela",
+    "trump ukraine paix"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Donald Trump a réellement contribué à certains accords : le cessez-le-feu à Gaza d'octobre 2025, une déclaration de paix entre l'Arménie et l'Azerbaïdjan, un cessez-le-feu entre Israël et l'Iran en juin 2025. Mais les vérificateurs (PolitiFact, AP) jugent son bilan de « sept » ou « huit guerres » arrêtées exagéré : plusieurs n'étaient pas des guerres, d'autres continuent. Et il a lui-même bombardé l'Iran en 2025, lancé une guerre contre l'Iran avec Israël en février 2026, capturé le président vénézuélien et fait tuer au moins 227 personnes en mer selon Human Rights Watch.",
+  "contexte": "Donald Trump se présente comme le président qui « arrête les guerres » et revendique le prix Nobel de la paix. Ses soutiens, en France aussi, reprennent ce récit.",
+  "explication": "Il faut vérifier, conflit par conflit, ce qui a été réellement arrêté, et mettre en face les guerres et les opérations militaires que son administration a lancées.",
+  "faits": [
+    {
+      "fait": "PolitiFact a jugé « Mostly False » (plutôt faux) l'affirmation de Trump selon laquelle il a mis fin à sept guerres : le différend Égypte-Éthiopie n'est pas une guerre, rien n'indiquait une guerre imminente entre la Serbie et le Kosovo, et les combats ont continué en RDC et entre le Cambodge et la Thaïlande.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Le compte de Trump mélange vrais cessez-le-feu, accords fragiles et conflits qui n'existaient pas.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'agence AP juge que le décompte de « huit guerres » est faux : au Congo, « the conflict is far from over », le traité Arménie-Azerbaïdjan n'est ni signé ni ratifié, et à Gaza « far more work remains ».",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Certaines médiations ont aidé, mais la paix n'est pas acquise.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : le cessez-le-feu à Gaza, négocié sous l'égide des États-Unis, est entré en vigueur le 10 octobre 2025 ; le Hamas a libéré les 20 otages vivants et Israël près de 2 000 prisonniers palestiniens.",
+      "periode": "2025",
+      "perimetre": "Gaza",
+      "explication": "C'est un résultat réel de la diplomatie américaine, même si des Palestiniens continuent d'être tués.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "20"
+    },
+    {
+      "fait": "Fait défavorable : selon PolitiFact, Trump a joué un rôle dans le cessez-le-feu entre Israël et l'Iran du 24 juin 2025 et dans la déclaration de paix entre l'Arménie et l'Azerbaïdjan signée à la Maison-Blanche le 8 août 2025.",
+      "periode": "2025",
+      "perimetre": "Moyen-Orient / Caucase",
+      "explication": "Ces avancées existent ; elles ne font pas de lui un « homme de paix » au vu du reste de son bilan.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 21 juin 2025, les États-Unis ont bombardé trois sites nucléaires iraniens ; le secrétaire général de l'ONU a dénoncé une « escalade dangereuse » et rappelé qu'il n'y a « pas de solution militaire ».",
+      "periode": "2025",
+      "perimetre": "Iran",
+      "explication": "Le cessez-le-feu de juin 2025 est venu après des frappes américaines.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 28 février 2026, les États-Unis et Israël ont lancé une guerre contre l'Iran ; au 4 mars, une agence gouvernementale iranienne comptait au moins 1 045 morts en Iran, et six soldats américains avaient été tués.",
+      "periode": "2026",
+      "perimetre": "Iran / Moyen-Orient",
+      "explication": "Trump a déclenché une guerre majeure dans une région déjà en feu.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "1 045"
+    },
+    {
+      "fait": "Selon Human Rights Watch, depuis le 2 septembre 2025, les frappes américaines contre des embarcations dans les Caraïbes et le Pacifique ont fait au moins 227 morts en 69 frappes, qualifiées d'« exécutions extrajudiciaires ».",
+      "periode": "2025-2026",
+      "perimetre": "Amérique latine",
+      "explication": "L'usage de la force hors de tout cadre légal est l'inverse d'une politique de paix.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "227"
+    },
+    {
+      "fait": "Selon Al Jazeera, Trump a demandé environ 1 500 milliards de dollars pour l'armée pour l'exercice 2027, une hausse de près de 40 %, tout en réduisant des programmes sociaux et climatiques.",
+      "periode": "2026-2027",
+      "perimetre": "États-Unis",
+      "explication": "Un budget militaire record financé par des coupes sociales.",
+      "source": 7,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trump a aidé à obtenir quelques accords, comme le cessez-le-feu à Gaza en octobre 2025. Mais les vérificateurs jugent son bilan de « huit guerres arrêtées » exagéré. Et il a bombardé l'Iran, lancé une guerre contre ce pays en 2026, capturé le président vénézuélien et fait tuer au moins 227 personnes en mer selon Human Rights Watch.",
+    "moyen": "Il faut reconnaître ce qui est réel : le cessez-le-feu à Gaza, entré en vigueur le 10 octobre 2025, a permis la libération des otages vivants, et Trump a aidé à un cessez-le-feu entre Israël et l'Iran et à une déclaration de paix entre l'Arménie et l'Azerbaïdjan. Mais PolitiFact juge son bilan de « sept guerres » arrêtées « plutôt faux » : certains conflits n'étaient pas des guerres, d'autres continuent.\n\nSurtout, Trump fait aussi la guerre. Il a bombardé des sites nucléaires iraniens en juin 2025, puis lancé avec Israël une guerre contre l'Iran le 28 février 2026. Ses frappes contre des bateaux ont fait au moins 227 morts selon Human Rights Watch, et l'armée américaine a capturé le président vénézuélien. Il demande un budget militaire record de 1 500 milliards de dollars.",
+    "detaille": "Donald Trump dit avoir arrêté sept, puis huit guerres. Les vérificateurs ont regardé conflit par conflit. PolitiFact conclut que l'affirmation est « plutôt fausse » : le différend entre l'Égypte et l'Éthiopie n'est pas une guerre, rien n'indiquait une guerre imminente entre la Serbie et le Kosovo, et les combats ont continué en République démocratique du Congo comme entre le Cambodge et la Thaïlande. L'agence AP note qu'au Congo « the conflict is far from over ».\n\nIl y a pourtant des résultats. Le cessez-le-feu à Gaza, négocié sous l'égide des États-Unis, est entré en vigueur le 10 octobre 2025 et a permis la libération des 20 otages vivants. Trump a aussi contribué au cessez-le-feu entre Israël et l'Iran de juin 2025 et à une déclaration de paix entre l'Arménie et l'Azerbaïdjan. En Ukraine, en revanche, la guerre continue : en octobre 2026, la Russie exigeait toujours le retrait ukrainien du Donetsk.\n\nMais un homme de paix ne bombarde pas. En juin 2025, les États-Unis ont frappé trois sites nucléaires iraniens. Le 28 février 2026, ils ont lancé avec Israël une guerre contre l'Iran, qui a fait au moins 1 045 morts en Iran en quelques jours selon les autorités iraniennes. Depuis septembre 2025, leurs frappes contre des embarcations ont tué au moins 227 personnes, des « exécutions extrajudiciaires » selon Human Rights Watch. En janvier 2026, l'armée américaine a frappé Caracas et capturé le président vénézuélien. Et Trump demande 1 500 milliards de dollars pour l'armée en coupant dans les programmes sociaux. La paix par la force, c'est d'abord la force.",
+    "empathie": "On peut être las des guerres sans fin et voir d'un bon œil un dirigeant qui promet d'y mettre fin. Cette envie de paix est juste ; elle mérite qu'on regarde tout son bilan."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il a ramené les otages de Gaza.",
+      "reponse": "C'est vrai, et c'est important. Mais le même président a lancé une guerre contre l'Iran quelques mois plus tard et fait tuer des centaines de personnes en mer sans jugement."
+    },
+    {
+      "objection": "Les autres présidents ont fait pire.",
+      "reponse": "Comparer ne change rien aux faits : bombarder l'Iran, capturer un chef d'État étranger et frapper des bateaux sans procès, ce n'est pas une politique de paix."
+    },
+    {
+      "objection": "Il a arrêté huit guerres.",
+      "reponse": "Les vérificateurs de PolitiFact et d'AP montrent que plusieurs n'étaient pas des guerres et que d'autres continuent."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelles sont les « huit guerres » que Trump dit avoir arrêtées ?",
+    "Peut-on être un homme de paix et lancer une guerre contre l'Iran ?"
+  ],
+  "limites": [
+    "L'article d'AP n'affiche pas de date ; il est postérieur au 27 décembre 2025.",
+    "Les bilans de la guerre de 2026 contre l'Iran sont partiels (au 4 mars 2026) et viennent des autorités iraniennes.",
+    "La demande budgétaire américaine n'est pas encore votée et a été lue via Al Jazeera.",
+    "Les accords d'Abraham de 2020 n'ont pas été vérifiés dans une source lue."
+  ],
+  "sources": [
+    {
+      "titre": "At UN, Donald Trump repeats that he ended 7 wars. That's still misleading.",
+      "organisme": "PolitiFact (Louis Jacobson, Samantha Putterman)",
+      "date_publication": "23 septembre 2025 (mis à jour le 2 juin 2026)",
+      "url": "https://politifact.com/?p=334316",
+      "passage": "Verdict : « Mostly False ». Israël-Iran : Trump a joué un rôle dans le cessez-le-feu du 24 juin 2025. Inde-Pakistan : cessez-le-feu du 10 mai, rôle de Trump contesté par New Delhi. Arménie-Azerbaïdjan : déclaration de paix signée à la Maison-Blanche le 8 août, pas encore un accord final. RDC-Rwanda : accord du 27 juin, mais les combats continuent. Cambodge-Thaïlande : cessez-le-feu du 28 juillet, affrontements repris. Égypte-Éthiopie : différend non résolu, pas une guerre. Serbie-Kosovo : peu de preuves qu'une guerre se préparait.",
+      "pertinence": "Service de vérification des faits américain.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "FACT FOCUS: Trump says he's ended eight wars. His numbers are off",
+      "organisme": "Associated Press (AP Fact Check, via Yahoo News)",
+      "date_publication": "date non affichée (après le 27 décembre 2025)",
+      "url": "https://www.yahoo.com/news/articles/fact-focus-trump-says-hes-181604143.html",
+      "passage": "Israël-Hamas : cessez-le-feu acquis mais « far more work remains ». Israël-Iran : rôle reconnu, cessez-le-feu jugé temporaire. Égypte-Éthiopie : « heightened tensions, not war ». Serbie-Kosovo : « there has been no threat of a war between the neighbors during Trump's second term ». Rwanda-Congo : « the conflict is far from over ». Arménie-Azerbaïdjan : traité paraphé, pas signé ni ratifié. Cambodge-Thaïlande : nouveau cessez-le-feu le 27 décembre après une reprise des combats.",
+      "pertinence": "Agence de presse internationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Guerre : la bande de Gaza enregistre plus de 70 000 morts",
+      "organisme": "AFP (Blick)",
+      "date_publication": "29 novembre 2025",
+      "url": "https://www.blick.ch/fr/monde/guerre-la-bande-de-gaza-enregistre-plus-de-70000-morts-id21470205.html",
+      "passage": "Le cessez-le-feu, négocié sous l'égide des États-Unis, est entré en vigueur le 10 octobre 2025 ; le Hamas a libéré les 20 otages vivants qu'il détenait encore ; Israël a libéré près de 2 000 prisonniers palestiniens. 354 Palestiniens ont été tués par des tirs israéliens depuis le cessez-le-feu, selon le ministère de la Santé de Gaza.",
+      "pertinence": "Dépêche d'agence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le chef de l'ONU « gravement alarmé » par les bombardements américains sur des sites nucléaires iraniens",
+      "organisme": "ONU Info (Nations unies)",
+      "date_publication": "21 juin 2025",
+      "url": "https://news.un.org/fr/story/2025/06/1156651",
+      "passage": "Les États-Unis ont bombardé trois sites nucléaires iraniens (Fordo, Natanz, Ispahan), après huit jours d'attaques entre Israël et l'Iran commencées le 13 juin. António Guterres dénonce une « escalade dangereuse » : « Il n'y a pas de solution militaire. La seule voie à suivre est la diplomatie. »",
+      "pertinence": "Service d'information des Nations unies.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La guerre « ne fait que commencer » disent les É.-U., l'Iran promet une « destruction totale » : les développements du 4 mars 2026",
+      "organisme": "AFP et Associated Press (Noovo Info)",
+      "date_publication": "4 mars 2026",
+      "url": "https://www.noovo.info/nouvelles/international/conflit-moyen-orient/article/conflit-au-moyen-orient-les-developpements-en-direct-du-4-mars-2026/",
+      "passage": "Les frappes américano-israéliennes contre l'Iran ont commencé le samedi 28 février 2026 (opération américaine « Fureur épique »). Le secrétaire à la Défense veut « trouver, cibler et détruire » les missiles iraniens. Au 4 mars : au moins 1 045 morts en Iran selon une agence gouvernementale iranienne, six soldats américains tués.",
+      "pertinence": "Fil d'information alimenté par des agences de presse.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "États-Unis : Un an depuis le début des exécutions extrajudiciaires maritimes",
+      "organisme": "Human Rights Watch",
+      "date_publication": "2 septembre 2026",
+      "url": "https://www.hrw.org/fr/news/2026/09/02/etats-unis-un-an-depuis-le-debut-des-executions-extrajudiciaires-maritimes",
+      "passage": "Depuis le 2 septembre 2025, HRW recense 69 frappes contre des embarcations dans la mer des Caraïbes et l'océan Pacifique et au moins 227 morts. L'administration invoque un conflit armé contre des organisations de trafic de drogue ; HRW qualifie ces frappes d'« exécutions extrajudiciaires » contraires au droit international.",
+      "pertinence": "ONG de défense des droits humains.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Frappes américaines sur le Venezuela : capture et exfiltration de Maduro, annonce Trump",
+      "organisme": "AFP (Noovo Info)",
+      "date_publication": "3 janvier 2026",
+      "url": "https://www.noovo.info/nouvelles/international/article/frappes-americaines-sur-le-venezuela-capture-et-exfiltration-de-maduro-annonce-trump/",
+      "passage": "Dans la nuit du 2 au 3 janvier 2026, les forces américaines frappent Caracas et ses environs, puis capturent Nicolás Maduro et son épouse, après plusieurs mois de pression militaire en mer des Caraïbes.",
+      "pertinence": "Dépêche d'agence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Trump seeks historic $1.5 trillion for military in Congress budget request",
+      "organisme": "Al Jazeera",
+      "date_publication": "3 avril 2026",
+      "url": "https://www.aljazeera.com/economy/2026/5/21/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request",
+      "passage": "La demande budgétaire pour l'exercice 2027 prévoit environ 1 500 milliards de dollars pour l'armée, soit une hausse d'environ 455 milliards (près de 40 %) par rapport à 2026, hors demande d'urgence de 200 milliards liée à la guerre contre l'Iran, avec environ 73 milliards de coupes dans des programmes intérieurs.",
+      "pertinence": "Chaîne d'information internationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Ukraine : la diplomatie est relancée, Trump se réjouit, Moscou temporise",
+      "organisme": "AFP (Connaissance des Énergies)",
+      "date_publication": "21 octobre 2026",
+      "url": "https://www.connaissancedesenergies.org/afp/ukraine-la-diplomatie-est-relancee-trump-se-rejouit-moscou-temporise-261021",
+      "passage": "Moscou accepte une reprise de pourparlers trilatéraux vers le 10 novembre ; la Russie exige toujours le retrait ukrainien du Donetsk, inacceptable pour Kiev. Les pourparlers de 2025 n'avaient produit aucun progrès concret et avaient été suspendus après le début de la guerre au Moyen-Orient.",
+      "pertinence": "Dépêche d'agence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Évolution de la guerre contre l'Iran, des négociations sur l'Ukraine et du cessez-le-feu à Gaza.",
+  "objections_legitimes": [
+    "Trump a contribué au cessez-le-feu à Gaza d'octobre 2025.",
+    "Il a aidé à des cessez-le-feu ou déclarations de paix (Israël-Iran en juin 2025, Arménie-Azerbaïdjan).",
+    "D'autres présidents américains ont aussi mené des guerres."
+  ],
+  "publics": {
+    "convaincus": "Trump a obtenu le cessez-le-feu à Gaza, c'est vrai. Mais le même Trump a bombardé l'Iran, lancé une guerre contre lui en 2026, capturé le président vénézuélien et fait tuer au moins 227 personnes en mer selon Human Rights Watch. Un homme de paix, ce n'est pas celui qui choisit ses guerres.",
+    "indecis": "Vouloir la paix, c'est sain, et certains accords de Trump ont compté. Mais les vérificateurs montrent que son compte de « guerres arrêtées » est gonflé, et il a lui-même lancé des opérations militaires lourdes. Le repère : regarder tout le bilan, pas seulement les annonces."
+  },
+  "lecture": {
+    "valeurs": [
+      "paix",
+      "internationalisme",
+      "libertes"
+    ],
+    "mecanismes": "Le récit de l’homme de paix additionne les annonces de cessez-le-feu et efface les bombardements, les opérations sans mandat et la hausse des dépenses militaires. La paix devient une marque politique plutôt qu’une politique.",
+    "consequences": "Des civils tués en Iran, au Liban, en mer des Caraïbes, et une région du Moyen-Orient plongée dans une nouvelle guerre, tandis que les programmes sociaux américains sont coupés.",
+    "democratie": "L’usage de la force sans mandat international ni contrôle du Congrès affaiblit le droit international et les contre-pouvoirs démocratiques.",
+    "propositions": [
+      "Soutenir les cessez-le-feu et les négociations, d’où qu’ils viennent, tout en exigeant le respect du droit international.",
+      "Défendre le rôle de l’ONU et des juridictions internationales contre la loi du plus fort.",
+      "Refuser que l’Europe s’aligne sur des guerres décidées sans mandat."
+    ],
+    "defavorables": [
+      {
+        "fait": "Trump a réellement contribué au cessez-le-feu à Gaza et à des accords régionaux, comme entre l’Arménie et l’Azerbaïdjan.",
+        "integration": "On peut saluer un cessez-le-feu sans accepter le récit global : la paix se juge sur tout le bilan, y compris les guerres lancées."
+      }
+    ]
+  },
+  "concepts": [
+    "ukraine",
+    "venezuela"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "kiev",
+    "kyiv",
+    "maduro",
+    "chavez"
+  ]
+}

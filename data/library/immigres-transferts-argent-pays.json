@@ -1,0 +1,279 @@
+{
+  "id": "immigres-transferts-argent-pays",
+  "type": "idee_recue",
+  "affirmation": "Les immigrés envoient tout leur argent au pays au lieu de le dépenser en France.",
+  "volet": "immigration",
+  "sous_theme": "Économie et immigration",
+  "rubriques": [],
+  "mots_cles": [
+    "immigres envoient argent",
+    "transferts d argent pays",
+    "envois de fonds",
+    "western union immigres",
+    "argent envoye au bled",
+    "immigres argent pays d origine",
+    "transferts des migrants",
+    "immigres ne depensent pas en france",
+    "fuite de l argent immigres"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les envois d'argent depuis la France existent : 15,8 milliards d'euros en 2024 selon la Banque de France. C'est réel, mais modeste face aux 1 527,5 milliards de consommation des ménages, et ce chiffre inclut tous les travailleurs, pas seulement les immigrés. La plupart des immigrés n'envoient rien ou peu : ils vivent, paient leur loyer et consomment en France, avec un niveau de vie plus bas que la moyenne. Pour les familles restées au pays, ces transferts sont vitaux.",
+  "contexte": "L'idée que les immigrés « vident » l'économie française en envoyant leur salaire à l'étranger circule pour suggérer qu'ils profitent de la France sans y contribuer.",
+  "explication": "Il faut regarder les montants mesurés par la Banque de France, les comparer à l'économie française, puis voir combien d'immigrés envoient de l'argent et à quoi il sert.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : selon la Banque de France, les envois de fonds des travailleurs vers l'étranger atteignent 15,8 milliards d'euros en 2024, après 15,5 milliards en 2023 ; ils étaient de 11,7 milliards en 2020.",
+      "periode": "2020-2024",
+      "perimetre": "France",
+      "explication": "Les transferts existent et augmentent : c'est une réalité économique à reconnaître.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "15,8 Md€"
+    },
+    {
+      "fait": "En 2024, la consommation des ménages en France atteint 1 527,5 milliards d'euros et le PIB 2 919,9 milliards d'euros.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les envois de fonds représentent environ un centième de la consommation des ménages.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1 527,5 Md€"
+    },
+    {
+      "fait": "Selon la Banque de France, les salaires versés de l'étranger (notamment aux frontaliers) rapportent à la France un solde positif de 33,5 milliards d'euros en 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Des revenus du travail sortent, mais bien plus entrent : réduire l'économie aux seuls envois des immigrés est trompeur.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "33,5 Md€"
+    },
+    {
+      "fait": "En 2019, la moitié des immigrés a un niveau de vie inférieur à 17 000 euros par an, contre 22 880 euros pour les personnes sans lien avec l'immigration ; 31,5 % des immigrés vivent sous le seuil de pauvreté.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Avec des revenus plus bas, l'essentiel du budget va au loyer, à l'alimentation et aux dépenses courantes en France.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "31,5 %"
+    },
+    {
+      "fait": "Dans une enquête Ipsos pour l'AFD, environ 20 % des personnes des diasporas africaines du panel envoyaient de l'argent ; celles qui le font envoyaient en moyenne 1 375 euros par an en 2019.",
+      "periode": "2019-2020",
+      "perimetre": "Diasporas africaines en France",
+      "explication": "La plupart n'envoient rien, et ceux qui envoient le font pour des montants limités.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "1 375 €"
+    },
+    {
+      "fait": "Selon une enquête de l'Insee de 2003, 24,2 % des immigrés de 45 à 70 ans envoyaient de l'argent pour eux-mêmes dans leur pays d'origine, moins souvent quand ils étaient installés depuis longtemps.",
+      "periode": "2003",
+      "perimetre": "France, immigrés de 45 à 70 ans",
+      "explication": "Les envois diminuent avec l'ancienneté de l'installation en France.",
+      "source": 7,
+      "fiabilite": "etabli",
+      "chiffre": "24,2 %"
+    },
+    {
+      "fait": "Fait défavorable : selon la Banque mondiale, les envois de fonds vers les pays à revenu faible et intermédiaire devraient atteindre 685 milliards de dollars en 2024, plus que les investissements directs étrangers ; ils représentent 45 % du PIB du Tadjikistan.",
+      "periode": "2024",
+      "perimetre": "Monde",
+      "explication": "Pour certains pays et familles, ces transferts sont massifs et indispensables : c'est de la solidarité familiale, souvent plus efficace que l'aide internationale.",
+      "source": 6,
+      "fiabilite": "estimation",
+      "chiffre": "685 Md$"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les envois d'argent depuis la France existent : 15,8 milliards d'euros en 2024. C'est environ un centième de la consommation des ménages, et la plupart des immigrés n'envoient rien ou peu. Ils vivent, se logent et consomment en France, avec souvent de petits revenus.",
+    "moyen": "Selon la Banque de France, les travailleurs résidant en France ont envoyé 15,8 milliards d'euros à l'étranger en 2024. C'est une somme réelle, mais à comparer aux 1 527,5 milliards d'euros de consommation des ménages en France. Et dans le même temps, les salaires des frontaliers rapportent à la France un solde de 33,5 milliards.\n\nLa plupart des immigrés n'envoient rien : dans une enquête pour l'AFD, environ 20 % des membres des diasporas africaines envoyaient de l'argent, en moyenne 1 375 euros par an pour ceux qui le font. Les immigrés ont un niveau de vie plus bas que la moyenne : leur salaire part d'abord dans le loyer, les courses et les factures, en France.",
+    "detaille": "Les transferts d'argent des travailleurs vers l'étranger sont bien réels. Selon la Banque de France, ils atteignent 15,8 milliards d'euros en 2024, en hausse par rapport aux 11,7 milliards de 2020. Ce chiffre concerne tous les travailleurs qui envoient de l'argent à l'étranger, pas seulement les immigrés. Il faut le comparer à l'économie française : 2 919,9 milliards d'euros de PIB et 1 527,5 milliards de consommation des ménages. Les envois représentent donc environ un centième de ce que les ménages dépensent en France. Et les salaires versés de l'étranger aux frontaliers rapportent à la France un solde positif de 33,5 milliards.\n\n« Tout leur argent » est faux. La plupart des immigrés n'envoient rien ou peu. Une enquête de l'Insee montrait qu'environ un quart des immigrés de 45 à 70 ans envoyaient de l'argent pour eux-mêmes au pays, de moins en moins avec l'ancienneté. Dans une enquête pour l'AFD, environ 20 % des personnes des diasporas africaines envoyaient de l'argent, en moyenne 1 375 euros par an. Les immigrés ont des revenus plus faibles que la moyenne : 31,5 % vivent sous le seuil de pauvreté. Leur salaire sert d'abord à payer le loyer, les courses, les transports, ici.\n\nCes envois ont aussi un sens humain. Pour beaucoup de familles, c'est de quoi manger, se soigner ou scolariser les enfants. Au niveau mondial, selon la Banque mondiale, ils dépassent les investissements étrangers dans les pays pauvres. Aider sa mère ou ses frères restés au pays, c'est la même solidarité familiale que celle d'un Français qui aide ses parents. On peut même y voir une forme d'aide au développement payée par les travailleurs eux-mêmes.",
+    "empathie": "Quand on a du mal à boucler ses fins de mois, on peut avoir l'impression que l'argent gagné ici part ailleurs. Cette inquiétude pour l'économie locale est compréhensible ; les chiffres permettent d'en mesurer l'ampleur réelle."
+  },
+  "contre_arguments": [
+    {
+      "objection": "15,8 milliards, c'est énorme, c'est de l'argent perdu pour la France.",
+      "reponse": "C'est environ un centième de la consommation des ménages en France. Et dans l'autre sens, les salaires versés de l'étranger aux frontaliers rapportent à la France un solde positif de 33,5 milliards."
+    },
+    {
+      "objection": "Ils gagnent ici et dépensent là-bas.",
+      "reponse": "La plupart n'envoient rien ou peu, et ont des revenus inférieurs à la moyenne : leur salaire part d'abord dans le loyer, l'alimentation et les factures, en France."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle part de leurs revenus les immigrés envoient réellement à l'étranger ?",
+    "Si tu aidais tes parents ou tes enfants restés dans une autre région, trouverais-tu normal qu'on te le reproche ?"
+  ],
+  "limites": [
+    "Les envois de fonds mesurés par la Banque de France concernent tous les travailleurs résidents, pas seulement les immigrés, et ne comptent pas les transferts informels (argent liquide).",
+    "Aucune source lue ne donne la part du revenu des immigrés envoyée à l'étranger pour l'ensemble de la France.",
+    "L'enquête AFD-Ipsos n'est pas représentative et porte seulement sur les diasporas africaines ; l'enquête de l'Insee date de 2003.",
+    "Les données de niveau de vie des immigrés datent de 2019."
+  ],
+  "sources": [
+    {
+      "titre": "La balance des paiements et la position extérieure de la France — Rapport annuel 2024",
+      "organisme": "Banque de France",
+      "date_publication": "2025",
+      "url": "https://www.banque-france.fr/system/files/2025-07/BDP2024_web.pdf",
+      "passage": "Le déficit des revenus secondaires des autres secteurs « reflète principalement le mouvement des envois de fonds des travailleurs à l'étranger, à 15,8 milliards » d'euros en 2024, après 15,5 milliards en 2023. Il demeure « stable dans l'ensemble ». Le solde des rémunérations des salariés (salaires des frontaliers notamment) est excédentaire, « atteignant 33,5 milliards d'euros, après 31,3 milliards en 2023 ».",
+      "pertinence": "Statistique publique de la balance des paiements.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Balance des paiements 2022 — Tableaux statistiques complémentaires (tableau 1.10, revenus secondaires)",
+      "organisme": "Banque de France",
+      "date_publication": "septembre 2023",
+      "url": "https://www.banque-france.fr/system/files/2023-09/Balance_des_paiements_2022_Tableaux_statistiques_complementaires.pdf",
+      "passage": "Envois de fonds des travailleurs (dépenses, en milliards d'euros) : 11,7 en 2020, 12,7 en 2021, 13,0 en 2022 ; recettes : 0,3, 0,2 et 0,2. Aucune répartition par pays.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les comptes de la Nation en 2024 (Insee Première n° 2053)",
+      "organisme": "Insee",
+      "date_publication": "28 mai 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8574058",
+      "passage": "PIB 2024 en valeur : 2 919,9 milliards d'euros. Dépense de consommation des ménages : 1 527,5 milliards d'euros.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "En 2024, 6,0 millions d'étrangers vivent en France, 0,9 million y sont nés (Insee Première n° 2076)",
+      "organisme": "Insee",
+      "date_publication": "7 octobre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8651304",
+      "passage": "Au 1er janvier 2024, 7,7 millions d'immigrés vivent en France, soit 11,3 % de la population. Les immigrés originaires du Maghreb représentent 29 % des immigrés.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Niveau de vie et pauvreté monétaire (Immigrés et descendants d'immigrés, édition 2023)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793278",
+      "passage": "« En 2019, la moitié des immigrés ont un niveau de vie annuel inférieur à 17 000 euros », contre 22 880 euros pour les personnes ni immigrées ni descendantes d'immigrés. « 31,5 % des immigrés ont un niveau de vie inférieur au seuil de pauvreté monétaire », contre 14,6 % de l'ensemble de la population.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les transferts de fonds à l'épreuve de la crise en France (synthèse d'enquête Ipsos)",
+      "organisme": "Agence française de développement et Direction générale de la mondialisation (ministère de l’Europe et des Affaires étrangères), enquête Ipsos",
+      "date_publication": "décembre 2020",
+      "url": "https://afd.fr/sites/default/files/2021-01-10-57-04/enquete-IPSOS-transfert-argent-decembre-2020.pdf",
+      "passage": "Enquête auprès de 500 personnes des diasporas africaines en France (juillet-août 2020), avec une sur-représentation volontaire des personnes qui envoient de l'argent ; résultats qui « ne peuvent en aucun cas être généralisés ». « Sans action spécifique, la part des personnes transférant au sein du panel aurait été de l'ordre de 20% ». Parmi celles qui envoient, « En moyenne chaque personne effectue 3 transferts par an pour une somme totale de 1375€ en 2019 ». 48 % envoient pour aider au quotidien ; 77 % des bénéficiaires dépendent de ce soutien (43 % « indispensable »).",
+      "pertinence": "Enquête commandée par des organismes publics ; échantillon non représentatif.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "En 2024, les envois de fonds des migrants vers les pays en développement devraient atteindre 685 milliards de dollars",
+      "organisme": "Banque mondiale (Dilip Ratha, Sonia Plaza, Eung Ju Kim)",
+      "date_publication": "18 décembre 2024",
+      "url": "https://blogs.worldbank.org/fr/voices/envois-de-fonds-migrants-2024",
+      "passage": "Les envois de fonds vers les pays à revenu faible et intermédiaire « devrait atteindre 685 milliards de dollars en 2024 » (+5,8 %). Ils dépassent largement les investissements directs étrangers et, selon une figure, le cumul des IDE et de l'aide publique au développement. Pays les plus dépendants : Tadjikistan (45 % du PIB), Tonga (38 %), Nicaragua et Liban (27 %), Samoa (26 %). Ces flux peuvent servir à « réduire la pauvreté, financer la santé et l'éducation ».",
+      "pertinence": "Organisation internationale (billet de blog de ses économistes).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les transferts intergénérationnels des migrants âgés (Économie et Statistique n° 390)",
+      "organisme": "Insee (Claudine Attias-Donfut, François-Charles Wolff, Philippe Tessier)",
+      "date_publication": "2005",
+      "url": "https://insee.fr/fr/statistiques/fichier/1376276/es390a.pdf",
+      "passage": "Enquête PRI de 2003 auprès de 6 211 immigrés de 45 à 70 ans : 24,2 % déclarent envoyer de l'argent pour eux-mêmes dans leur pays d'origine. Les transferts sont plus fréquents chez les personnes en emploi et aux revenus plus élevés, et moins fréquents chez les personnes installées en France depuis plus de 40 ans et chez les Français par acquisition.",
+      "pertinence": "Revue de la statistique publique ; données anciennes.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Rapport annuel 2025 de la Banque de France sur la balance des paiements.",
+  "objections_legitimes": [
+    "Les envois de fonds depuis la France sont réels et en hausse.",
+    "Pour certains pays, ces transferts représentent une part importante de l'économie.",
+    "Une partie des immigrés envoie régulièrement de l'argent à leur famille."
+  ],
+  "publics": {
+    "convaincus": "Oui, de l'argent part à l'étranger : 15,8 milliards en 2024. Mais c'est environ un centième de ce que les ménages dépensent en France, et la plupart des immigrés n'envoient rien ou presque. Avec des revenus plus bas que la moyenne, leur salaire part d'abord dans le loyer et les courses, chez nous.",
+    "indecis": "Les transferts existent et comptent beaucoup pour les familles au pays. Mais ils restent modestes face à l'économie française, et la majorité des immigrés dépensent l'essentiel de leurs revenus ici. Aider sa famille, c'est une solidarité que beaucoup de Français pratiquent aussi."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "solidarite",
+      "internationalisme",
+      "dignite"
+    ],
+    "mecanismes": "On isole un montant réel mais modeste, présenté sans comparaison, pour suggérer que les immigrés « prennent » sans contribuer. On oublie qu’ils vivent, se logent, consomment et paient des impôts en France, avec des revenus souvent plus faibles que la moyenne.",
+    "consequences": "Ce discours désigne les immigrés comme une fuite de richesse et stigmatise un geste de solidarité familiale, alors que leur travail fait tourner des secteurs entiers de l’économie.",
+    "democratie": "Juger une population entière sur un cliché économique, sans données, nourrit la défiance et prépare des discriminations.",
+    "propositions": [
+      "Réduire les frais d’envoi d’argent, qui pèsent sur des travailleurs modestes et sur leurs familles.",
+      "Soutenir les projets d’investissement des diasporas dans leur pays d’origine, en lien avec l’aide au développement.",
+      "Lutter contre la pauvreté des travailleurs immigrés par l’égalité salariale et l’accès aux droits."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les envois de fonds depuis la France sont réels, en hausse, et très importants pour l’économie de certains pays.",
+        "integration": "C’est de la solidarité familiale et une forme d’aide au développement financée par les travailleurs eux-mêmes ; elle ne retire presque rien à la consommation en France."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "transferts_argent",
+    "salaires",
+    "origine"
+  ],
+  "repond_a": [
+    {
+      "id": "transferts_argent_q2013",
+      "label": "Argent envoyé au pays d’origine"
+    },
+    {
+      "id": "immigration_q2013_transferts_argent",
+      "label": "Argent envoyé au pays d’origine"
+    },
+    {
+      "id": "salaires_q2013_transferts_argent",
+      "label": "Argent envoyé au pays d’origine"
+    },
+    {
+      "id": "immigration_salaires_q2013_transferts_argent",
+      "label": "Argent envoyé au pays d’origine"
+    },
+    {
+      "id": "origine_q2013_transferts_argent",
+      "label": "Argent envoyé au pays d’origine"
+    },
+    {
+      "id": "immigration_origine_q2013_transferts_argent",
+      "label": "Argent envoyé au pays d’origine"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "western union",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires"
+  ]
+}

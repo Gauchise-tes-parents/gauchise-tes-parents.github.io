@@ -392,16 +392,6 @@
     "convaincus": "Oui, les étrangers sont surreprésentés en prison : environ un quart des détenus, je ne le nie pas. Mais selon le Défenseur des droits, un jeune homme perçu comme noir ou arabe avait 20 fois plus de chances d'être contrôlé, et le Conseil d'État reconnaît que ces contrôles discriminatoires ne sont pas des cas isolés. Ajoute la pauvreté et la détention provisoire faute de domicile : 35 % des étrangers écroués ne sont pas encore jugés, contre 26 % des Français. À délit égal, on ne part pas avec les mêmes chances de finir en cellule.",
     "indecis": "Le chiffre inquiète, et il est réel pour les étrangers. Mais la prison ne compte pas les immigrés, et beaucoup d'immigrés sont français. Selon le CEPII, la part des étrangers passe de 7,4 % de la population à 23 % des détenus : l'écart se creuse à chaque étape, avec plus de contrôles, plus de précarité et plus de comparutions immédiates. Ces mécanismes n'expliquent pas tout, mais sans eux, le chiffre ne veut pas dire grand-chose."
   },
-  "concepts": [
-    "immigration",
-    "delinquance",
-    "prison",
-    "pauvrete",
-    "demographie",
-    "discrimination",
-    "violences_policieres",
-    "controle_facies"
-  ],
   "repond_a": [
     {
       "id": "imm_prison",
@@ -422,5 +412,15 @@
     "peur de sortir",
     "pas en securite",
     "criminalite"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "prison",
+    "pauvrete",
+    "demographie",
+    "discrimination",
+    "violences_policieres",
+    "controle_facies"
   ]
 }

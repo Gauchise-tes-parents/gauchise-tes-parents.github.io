@@ -1,0 +1,230 @@
+{
+  "id": "sncf-greves",
+  "type": "idee_recue",
+  "affirmation": "La SNCF est tout le temps en grève.",
+  "volet": "services",
+  "sous_theme": "Transports collectifs",
+  "rubriques": [],
+  "mots_cles": [
+    "sncf greve",
+    "greve sncf",
+    "cheminots greve",
+    "toujours en greve",
+    "greviculture",
+    "cheminots privilegies",
+    "greve des trains",
+    "sncf greve tout le temps",
+    "greve controleurs"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les cheminots font plus souvent grève que la moyenne des salariés, et certains conflits (1995, 2018, 2019-2020, 2023) ont réellement paralysé le trafic. Mais hors grandes réformes, la grève reste rare : un demi-jour par agent et par an en 2011 et 2012. Les trains supprimés le sont surtout pour des travaux et de la maintenance, et en 2024, année sans grand conflit, la SNCF a connu sa meilleure régularité depuis des années.",
+  "contexte": "L'image d'une SNCF « toujours en grève » revient à chaque mouvement social, surtout pendant les vacances. Elle sert souvent à réclamer la limitation du droit de grève ou la fin du statut des cheminots.",
+  "explication": "Il faut compter les jours de grève par agent sur plusieurs années, les comparer aux autres secteurs, et regarder ce qui cause vraiment les suppressions et les retards de trains.",
+  "faits": [
+    {
+      "fait": "Le nombre de jours de grève par agent à la SNCF varie fortement selon les années : 3,78 en 2010, année de réforme des retraites, mais 0,50 en 2011 et 0,56 en 2012.",
+      "periode": "2007-2012",
+      "perimetre": "SNCF",
+      "explication": "La grève se concentre sur quelques grands conflits, souvent liés aux retraites ; le reste du temps, elle est rare.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "0,56"
+    },
+    {
+      "fait": "Selon un directeur régional de la SNCF cité par le Sénat, les travaux et la maintenance représentent 90 % des trains supprimés, alors que le public retient surtout les grèves.",
+      "periode": "2012",
+      "perimetre": "SNCF, région Centre",
+      "explication": "La perception exagère la place des grèves dans les perturbations.",
+      "source": 0,
+      "fiabilite": "interpretation",
+      "chiffre": "90 %"
+    },
+    {
+      "fait": "En Île-de-France, sur 419 perturbations du réseau Transilien recensées en 2012, 14 seulement venaient de mouvements sociaux, soit 3,3 %.",
+      "periode": "2012",
+      "perimetre": "Transilien",
+      "explication": "Les travaux programmés pèsent bien plus que les grèves dans la vie quotidienne des usagers.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "3,3 %"
+    },
+    {
+      "fait": "Fait défavorable : en 2022, le secteur des transports et de l'entreposage comptait 414 journées de grève pour 1 000 salariés, contre 99 pour l'ensemble des entreprises.",
+      "periode": "2022",
+      "perimetre": "France, entreprises de 10 salariés ou plus",
+      "explication": "Les transports font bien plus grève que la moyenne, c'est un fait.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "414"
+    },
+    {
+      "fait": "Fait défavorable : d'après des chercheurs cités par l'Ires, les cheminots ont représenté entre 5 et 20 % des journées de grève en France entre 1984 et 2010, alors qu'ils sont moins de 1 % des salariés.",
+      "periode": "1984-2010",
+      "perimetre": "France",
+      "explication": "La SNCF est un des lieux de conflit social les plus actifs du pays.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : la grève de 2018 contre la réforme ferroviaire a duré 37 jours et coûté 790 millions d'euros à la SNCF, selon un document interne confirmé à l'AFP.",
+      "periode": "2018",
+      "perimetre": "SNCF",
+      "explication": "Certains conflits longs paralysent vraiment le trafic et pénalisent les usagers.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "790 M€"
+    },
+    {
+      "fait": "Selon l'ART, 2024 est la première année en 7 ans sans perturbations majeures, et l'absence de mouvements sociaux a expliqué 40 % de la hausse du trafic.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Les grandes grèves comptent quand elles ont lieu, mais elles ne sont pas permanentes.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "40 %"
+    },
+    {
+      "fait": "D'après les données de la SNCF reprises par franceinfo, le record date de 1968, avec 14,63 jours perdus par agent ; en 1995, on comptait 5,82 jours par agent.",
+      "periode": "1947-2019",
+      "perimetre": "SNCF",
+      "explication": "Les grèves d'aujourd'hui sont bien moins massives que celles du passé.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "14,63"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les cheminots font plus grève que la moyenne, et certains conflits ont vraiment bloqué le pays. Mais hors grandes réformes, c'est un demi-jour par agent et par an. Et les trains supprimés le sont surtout à cause des travaux et de la maintenance.",
+    "moyen": "Il ne faut pas nier les faits : les transports comptent beaucoup plus de jours de grève que la moyenne des secteurs, et des conflits comme ceux de 2018 ou de 2019-2020 ont paralysé le trafic pendant des semaines. La grève de 2018 a duré 37 jours.\n\nMais « tout le temps », c'est faux. En 2011 et 2012, années sans grande réforme, on comptait environ un demi-jour de grève par agent sur toute l'année. Les grands conflits se concentrent sur les réformes des retraites et du statut. Et la plupart des trains supprimés le sont à cause des travaux et de la maintenance : en Île-de-France en 2012, les grèves ne causaient que 3,3 % des perturbations.",
+    "detaille": "Les cheminots font grève plus souvent que la plupart des salariés. En 2022, le secteur des transports comptait 414 journées de grève pour 1 000 salariés, contre 99 en moyenne. Entre 1984 et 2010, les cheminots ont représenté une part importante des journées de grève en France alors qu'ils sont moins de 1 % des salariés. Et certains conflits ont réellement paralysé le pays : la grève de 2018 contre la réforme ferroviaire a duré 37 jours.\n\nMais ces grèves se concentrent sur quelques années de grandes réformes : retraites en 1995, 2010, 2019 et 2023, statut en 2018. Le reste du temps, elles sont rares. Selon les chiffres de la SNCF publiés par le Sénat, on est passé de 3,78 jours de grève par agent en 2010 à 0,50 jour en 2011. Et depuis 2007, les agents indispensables doivent déclarer leur grève 48 heures à l'avance, ce qui permet de prévenir les voyageurs.\n\nSurtout, les grèves ne sont pas la première cause des trains supprimés ou en retard. Selon un responsable de la SNCF cité par le Sénat, les travaux et la maintenance représentent 90 % des trains supprimés. En Île-de-France, en 2012, les mouvements sociaux ne pesaient que 3,3 % des perturbations. Le vrai problème du quotidien, c'est un réseau vieillissant qui manque d'investissements. Accuser les cheminots, c'est souvent détourner l'attention de ce sous-investissement.",
+    "empathie": "Rester bloqué sur un quai ou voir ses vacances gâchées par une grève, c'est très pénible, et la colère des usagers se comprend. On peut la reconnaître tout en regardant les chiffres sur plusieurs années."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il y a une grève à la SNCF chaque année.",
+      "reponse": "C'est vrai qu'aucune année n'a été totalement sans grève depuis 1947, mais en 2011 et 2012 cela représentait environ un demi-jour par agent sur toute l'année. Une grève locale de quelques heures n'est pas une paralysie."
+    },
+    {
+      "objection": "Les cheminots sont des privilégiés qui font grève pour un rien.",
+      "reponse": "Les grands conflits portent sur les retraites et le statut, des sujets qui concernent tous les salariés. Et les trains supprimés le sont d'abord pour des travaux et de la maintenance."
+    }
+  ],
+  "questions": [
+    "Te souviens-tu de la dernière fois que ton train a été supprimé, et sais-tu si c'était une grève ou des travaux ?",
+    "Combien de jours de grève par an un cheminot fait-il, à ton avis, en dehors des grandes réformes ?"
+  ],
+  "limites": [
+    "Les données SNCF par agent les plus détaillées lues datent de 2007-2012 (rapport du Sénat de 2013) ; les données récentes par agent n'ont pas pu être consultées.",
+    "La publication de la Dares sur les grèves en 2024 n'a pas pu être ouverte ; on s'appuie sur la publication de l'Insee portant sur 2022.",
+    "La part des grèves dans les retards n'est pas publiée de façon consolidée par la SNCF ; les chiffres cités sont partiels (une région, l'Île-de-France).",
+    "Le coût de la grève de 2018 provient d'un document interne de la SNCF rapporté par la presse."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport d'information sur l'application de la loi n° 2007-1224 du 21 août 2007 sur le dialogue social et la continuité du service public dans les transports terrestres réguliers de voyageurs",
+      "organisme": "Sénat (Isabelle Pasquet et Marc Laménie, commission pour le contrôle de l’application des lois)",
+      "date_publication": "17 octobre 2013",
+      "url": "https://www.senat.fr/rap/r13-088/r13-0881.pdf",
+      "passage": "Jours de grève par agent à la SNCF : 2,63 (2007), 0,78 (2008), 1,19 (2009), 3,78 (2010, réforme des retraites), 0,50 (2011) et 0,56 (2012) ; nombre total de jours de grève passé de 423 307 en 2007 à 86 120 en 2012. Selon le directeur régional Centre de la SNCF, les travaux et la maintenance représentent 90 % des trains supprimés, alors que « le public ne retient, à 90 %, que les perturbations liées aux mouvements sociaux ». Transilien 2012 : sur 419 perturbations, 14 dues à des mouvements sociaux (3,3 %). La loi impose aux agents indispensables de déclarer leur intention de faire grève 48 heures à l'avance. La SNCF ne tient pas de statistiques consolidées par cause.",
+      "pertinence": "Rapport parlementaire ; données SNCF anciennes (2007-2012).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Négociations et grèves dans les entreprises (Emploi, chômage, revenus du travail, édition 2024)",
+      "organisme": "Insee (Insee Références, données Dares)",
+      "date_publication": "22 juillet 2024",
+      "url": "https://www.insee.fr/fr/statistiques/7767085",
+      "passage": "« Le nombre de journées individuelles non travaillées pour 1 000 salariés a augmenté, passant de 58 en 2021 à 99 en 2022. » En 2022 : 414 dans les transports et l'entreposage, 189 dans l'industrie, 83 dans les activités tertiaires, 12 dans la construction. Champ : entreprises de 10 salariés ou plus du secteur marchand non agricole.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Monographie Fédération CGT des cheminots (annexe du rapport « Ré-enchanter le syndicalisme ? Les enquêtes syndicales CGT sur le travail réel »)",
+      "organisme": "Thomas Coutrot, Ires (Institut de recherches économiques et sociales)",
+      "date_publication": "décembre 2025",
+      "url": "https://ires.fr/wp-content/uploads/2025/12/Monographie-SNCF.pdf",
+      "passage": "Sur 1984-2010, les cheminots représentent « entre 5 et 20% du nombre total de journées de grève en France » alors qu'ils sont « moins de 1% du nombre total de salariés » (d'après Andolfatto, Dressen et Finez, 2013). Grèves importantes en 1995, 2003, 2007, 2010, 2019 et 2023, souvent liées aux réformes du régime spécial de retraite. Effectifs : de « 254 000 salariés en 1980 à 136 000 aujourd'hui ».",
+      "pertinence": "Institut de recherche économique et sociale au service des syndicats.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Le marché français du transport ferroviaire en 2024 — L'essentiel",
+      "organisme": "Autorité de régulation des transports (ART, autorité publique indépendante)",
+      "date_publication": "décembre 2025",
+      "url": "https://www.autorite-transports.fr/wp-content/uploads/2025/12/bilan-ferroviaire-2024-essentiel-002.pdf",
+      "passage": "Les grèves de mars 2023 avaient fait baisser le trafic ; « L'absence des mouvements sociaux en 2024 a contribué pour 40 % à cette hausse du trafic ». La baisse des déprogrammations de trains en 2024 s'explique par l'absence de perturbations majeures, « pour la première fois en 7 ans ». Le taux des circulations effectives et ponctuelles progresse de 6 points en un an et atteint 80 % en 2024, 1 point de moins que le record de 2017 ; des sabotages fin juillet 2024 ont annulé le voyage d'environ 100 000 passagers.",
+      "pertinence": "Bilan annuel du régulateur public du secteur ferroviaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Not one year since 1947 without SNCF strike in France",
+      "organisme": "The Connexion (d’après une recherche de franceinfo sur les données de la SNCF)",
+      "date_publication": "20 décembre 2019",
+      "url": "https://www.connexionfrance.com/news/not-one-year-since-1947-without-sncf-strike-in-france/415843",
+      "passage": "Il n'y a eu aucune année sans grève à la SNCF depuis 1947. L'année la plus touchée est 1968 : 4,7 millions de journées perdues, 14,63 jours perdus par agent. 1953 : 7,52 jours par agent ; 1947 : 6,49 ; 1995 : 5,82. En 1956, seulement 0,01 jour par agent. Grèves longues citées : 1986-1987 (quatre semaines), 1997, 2001, 2010, 2014 (deux semaines).",
+      "pertinence": "Journal en ligne reprenant une recherche de franceinfo.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les grèves ont coûté 790 millions d'euros à la SNCF",
+      "organisme": "DéplacementsPros (d’après un document interne de la SNCF confirmé à l’AFP)",
+      "date_publication": "2018 (page consultée le 12 novembre 2026)",
+      "url": "https://www.deplacementspros.com/Les-greves-ont-coute-790-millions-d-euros-a-la-SNCF_a49385.html",
+      "passage": "La grève de 2018 contre la réforme ferroviaire a duré 37 jours et coûté 790 millions d'euros à la SNCF, soit environ 21 millions par jour : 600 millions de pertes de recettes voyageurs et 160 millions de dédommagements. Selon l'Insee, l'impact sur le PIB a été de « tout au plus 0,1 point de PIB ».",
+      "pertinence": "Presse spécialisée reprenant une information AFP.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données Dares sur les grèves et bilan ferroviaire annuel de l'ART.",
+  "objections_legitimes": [
+    "Les transports font nettement plus grève que la moyenne des secteurs.",
+    "Certains conflits longs, comme en 2018 ou en 2019-2020, ont vraiment paralysé le trafic.",
+    "Les grèves pendant les départs en vacances pénalisent beaucoup de familles."
+  ],
+  "publics": {
+    "convaincus": "Oui, les cheminots font plus grève que la moyenne, et la grève de 2018 a été très dure pour les voyageurs. Mais hors grandes réformes des retraites, on parle d'un demi-jour de grève par agent sur toute l'année. Si ton train est supprimé, c'est d'abord à cause des travaux et d'un réseau qui manque d'argent.",
+    "indecis": "Ta colère quand ton train est annulé est légitime. Mais les grèves se concentrent sur quelques années de grandes réformes, et la plupart des suppressions viennent des travaux et de la maintenance. Le vrai sujet, c'est l'investissement dans le réseau."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "libertes",
+      "services_publics"
+    ],
+    "mecanismes": "Les grandes grèves, très visibles, se concentrent sur quelques années de réformes des retraites ou du statut, puis la mémoire collective les généralise. Les suppressions de trains dues aux travaux, au manque de matériel ou au vieillissement du réseau, beaucoup plus fréquentes, sont moins médiatisées et sont souvent attribuées à tort aux grèves.",
+    "consequences": "L’image du cheminot « toujours en grève » sert à justifier la remise en cause du statut, du droit de grève et des retraites, tout en masquant le sous-investissement qui dégrade le service au quotidien.",
+    "democratie": "Le droit de grève est une liberté constitutionnelle. Le présenter comme une nuisance permanente prépare son encadrement toujours plus strict, au détriment de tous les salariés.",
+    "propositions": [
+      "Investir dans le réseau et le matériel pour réduire les suppressions de trains liées aux travaux et aux pannes.",
+      "Publier chaque année des statistiques claires sur les causes des retards et des suppressions, grève comprise.",
+      "Privilégier le dialogue social avant les conflits, plutôt que de restreindre le droit de grève."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les transports font nettement plus grève que la moyenne, et certains conflits longs ont paralysé le trafic et coûté très cher.",
+        "integration": "Ces grèves pénalisent réellement les usagers. Elles portent pourtant sur des sujets qui concernent tous les salariés, comme les retraites, et elles restent concentrées sur quelques années."
+      }
+    ]
+  },
+  "concepts": [
+    "syndicats"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "cgt",
+    "cfdt",
+    "force ouvriere",
+    "droit de greve"
+  ]
+}

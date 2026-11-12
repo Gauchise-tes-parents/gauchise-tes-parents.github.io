@@ -1,0 +1,234 @@
+{
+  "id": "prisons-construire-places",
+  "type": "idee_recue",
+  "affirmation": "Il faut construire plus de places de prison.",
+  "volet": "securite",
+  "sous_theme": "Prisons",
+  "rubriques": [],
+  "mots_cles": [
+    "construire des prisons",
+    "places de prison",
+    "plus de prisons",
+    "surpopulation carcerale",
+    "prisons pleines",
+    "plan 15000 places",
+    "manque de places en prison",
+    "prisons surpeuplees",
+    "construire des places de prison"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "C'est un choix politique, mais le constat de départ est vrai : au 1er octobre 2026, 90 937 détenus pour 63 452 places, une densité de 143,3 % et 8 959 personnes sur des matelas au sol. Construire ne suffit pourtant pas : le plan de 15 000 places est très en retard, et les nouvelles places se remplissent aussi vite qu'elles ouvrent. La Contrôleure des prisons et des chercheurs plaident pour une régulation carcérale et pour développer les peines hors de prison.",
+  "contexte": "Face à la surpopulation record, la droite et l'extrême droite réclament surtout de nouvelles prisons. Un plan de 15 000 places a été lancé en 2018. La France a été condamnée par la Cour européenne des droits de l'homme en 2020 pour ses conditions de détention.",
+  "explication": "Il faut mesurer la surpopulation, voir ce qu'a donné le plan de construction, et regarder ce que disent les données sur la récidive et les alternatives à la prison.",
+  "faits": [
+    {
+      "fait": "Au 1er octobre 2026, 90 937 personnes sont détenues pour 63 452 places opérationnelles : la densité carcérale atteint 143,3 % (178,0 % en maisons d'arrêt) et 8 959 détenus dorment sur un matelas au sol.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La surpopulation est massive et s'aggrave d'année en année.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "143,3 %"
+    },
+    {
+      "fait": "Fait défavorable : en octobre 2025, il manquait 22 361 places pour ramener la densité à 100 %, selon la commission des lois du Sénat.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le manque de places est réel : on ne peut pas répondre à la surpopulation sans parler du parc pénitentiaire.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "22 361"
+    },
+    {
+      "fait": "Fin octobre 2025, le plan 15 000 places lancé en 2018 avait livré 7 504 places brutes, soit 5 531 nettes après fermetures ; son calendrier est jugé « largement hors d'atteinte ».",
+      "periode": "2018-2025",
+      "perimetre": "France",
+      "explication": "Construire est lent, cher, et une partie des places remplace des places fermées.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "5 531"
+    },
+    {
+      "fait": "Le ministre de la Justice Didier Migaud a reconnu en 2024 que le plan ne serait pas réalisé « avant 2029 dans le meilleur des cas » et qu'au-delà de 2025, il « n'était pas financé ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les promesses de construction ne suivent pas le rythme des incarcérations.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le juriste Jean-Paul Céré, « l'augmentation du parc mène en réalité à un usage plus fréquent de la peine privative de liberté » : les places nouvelles se remplissent.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Sans politique pénale, construire ne résorbe pas la surpopulation.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Parmi les sortants de prison de 2016, 23 % des libérés conditionnels ont récidivé dans l'année contre 33 % des sorties sans aménagement ; l'écart persiste à profil comparable, même si les auteurs n'excluent pas un effet de sélection.",
+      "periode": "2016-2017",
+      "perimetre": "France",
+      "explication": "Les sorties accompagnées sont associées à moins de récidive.",
+      "source": 3,
+      "fiabilite": "interpretation",
+      "chiffre": "23 %"
+    },
+    {
+      "fait": "Selon l'arrêt J.M.B. c. France de 2020, la Cour européenne des droits de l'homme a condamné la France et lui a demandé des mesures générales pour « résorber définitivement la surpopulation carcérale ».",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "La surpopulation viole les droits fondamentaux des détenus.",
+      "source": 6,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La surpopulation est réelle : 90 937 détenus pour 63 452 places en octobre 2026. Mais le plan de 15 000 places est très en retard, et les places nouvelles se remplissent aussitôt. Sans régulation carcérale et sans peines alternatives, construire ne règle rien.",
+    "moyen": "Au 1er octobre 2026, la densité carcérale atteint 143,3 %, et 8 959 détenus dorment sur un matelas au sol. Il manque objectivement des places : 22 361 en octobre 2025 pour revenir à une densité de 100 %. La France a été condamnée en 2020 par la Cour européenne des droits de l'homme pour ces conditions.\n\nMais la construction ne suit pas : le plan de 15 000 places, lancé en 2018, n'avait livré que 5 531 places nettes fin 2025, et il n'était pas financé au-delà de 2025. Surtout, chaque nouvelle place se remplit. Les chercheurs et la Contrôleure des prisons proposent une régulation carcérale et plus d'aménagements de peine, associés à moins de récidive.",
+    "detaille": "Le constat est indiscutable. Au 1er octobre 2026, la France compte 90 937 détenus pour 63 452 places, soit une densité de 143,3 %, et jusqu'à 178,0 % dans les maisons d'arrêt. 8 959 personnes dorment sur un matelas au sol. En 2020, la Cour européenne des droits de l'homme a condamné la France et lui a demandé de « résorber définitivement la surpopulation carcérale ». Il manque donc bien des places, et rénover ou construire des prisons dignes est nécessaire.\n\nMais croire que construire suffira est une illusion. Le plan de 15 000 places lancé en 2018 n'avait livré que 5 531 places nettes fin 2025 ; le ministre de la Justice lui-même a reconnu qu'il ne serait pas achevé avant 2029 et qu'il n'était pas financé au-delà de 2025. Pendant ce temps, le nombre de détenus a augmenté bien plus vite que le nombre de places. Comme le note le juriste Jean-Paul Céré, plus de places mène à plus d'incarcérations.\n\nLes données invitent à regarder ailleurs. Les sortants en libération conditionnelle récidivent moins dans l'année (23 %) que les sortants sans aménagement (33 %), même si une partie de l'écart tient au profil des personnes. Or les travaux d'intérêt général reculent, et une journée de prison coûte en moyenne 128 euros. La Contrôleure générale des lieux de privation de liberté propose un mécanisme de régulation carcérale, pour qu'on n'enferme pas au-delà des places disponibles. Pour la gauche, la sécurité passe par des peines qui préparent la sortie, pas par des cellules surpeuplées qui fabriquent de la récidive.",
+    "empathie": "Beaucoup de gens veulent que les peines prononcées soient exécutées et s'inquiètent de voir des condamnés dehors faute de place. Cette demande de justice est légitime."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il suffit de construire assez de prisons.",
+      "reponse": "Le plan de 15 000 places, lancé en 2018, n'avait livré que 5 531 places nettes fin 2025, et le nombre de détenus augmente bien plus vite. Sans politique pénale, les nouvelles places se remplissent aussitôt."
+    },
+    {
+      "objection": "Les aménagements de peine, c'est du laxisme.",
+      "reponse": "Les sortants en libération conditionnelle récidivent moins dans l'année que ceux qui sortent sans accompagnement (23 % contre 33 %). Une sortie préparée protège mieux la société."
+    },
+    {
+      "objection": "La surpopulation, c'est le problème des détenus.",
+      "reponse": "Elle dégrade aussi les conditions de travail des surveillants, et la Cour européenne des droits de l'homme a condamné la France pour ces conditions."
+    }
+  ],
+  "questions": [
+    "Si les places nouvelles se remplissent aussitôt, combien faudrait-il en construire, et à quel prix ?",
+    "Qu'est-ce qui protège le mieux les victimes : une sortie sèche ou une sortie préparée ?",
+    "Savais-tu qu'une journée de prison coûte en moyenne 128 euros ?"
+  ],
+  "limites": [
+    "Les données sur la récidive portent sur les sortants de 2016 ; l'écart selon l'aménagement peut refléter en partie la sélection des profils.",
+    "L'effet « plus de places, plus d'incarcérations » est défendu par des juristes et la Contrôleure générale, mais aucune étude chiffrée française n'a été lue sur ce point.",
+    "Les propos de la Contrôleure générale sont connus par un compte rendu de presse, pas par son rapport annuel lu directement.",
+    "Les statistiques du Conseil de l'Europe (SPACE) n'ont pas été consultées."
+  ],
+  "sources": [
+    {
+      "titre": "Mesure mensuelle de l'incarcération au 1er octobre 2026",
+      "organisme": "Ministère de la Justice (Direction de l’administration pénitentiaire)",
+      "date_publication": "novembre 2026",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2026-11/mesure_mensuelle_01102026.pdf",
+      "passage": "Au 1er octobre 2026 : 108 587 personnes écrouées (102 086 un an plus tôt), « 90 937 » personnes détenues (84 862 en 2025), « 63 452 » places opérationnelles (62 501), densité carcérale globale « 143,3 % » (135,8 %), densité en maisons d'arrêt « 178,0 % » (165,4 %), « 8 959 » détenus sur matelas au sol (5 895), « 24 716 » prévenus (22 301).",
+      "pertinence": "Statistique publique officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Projet de loi de finances pour 2026 : administration pénitentiaire (avis, synthèse)",
+      "organisme": "Sénat, commission des lois (rapporteur Louis Vogel)",
+      "date_publication": "26 novembre 2025",
+      "url": "https://www.senat.fr/rap/a25-145-6/a25-145-6-syn.pdf",
+      "passage": "Plan 15 000 places : fin octobre 2025, 25 établissements ouverts, 7 504 places brutes, soit 5 531 nettes après fermetures ; le calendrier initial est « largement hors d'atteinte ». Au 1er octobre 2025, 84 862 détenus, densité de 135,8 % ; 22 361 places manquent pour atteindre 100 %. Les travaux d'intérêt général ont reculé de 24 % depuis 2021 ; la semi-liberté concerne 2,5 % des personnes écrouées. Coût moyen d'une journée de détention en 2024 : 128 euros. Places modulaires : 1 500 places de semi-liberté pour environ 300 millions d'euros.",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Prisons : l'objectif de 15 000 places supplémentaires en 2027 ne sera pas réalisé avant 2029, prévient Didier Migaud",
+      "organisme": "Public Sénat",
+      "date_publication": "19 novembre 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/prisons-lobjectif-de-15-000-places-supplementaires-en-2027-ne-sera-pas-realise-avant-2029-previent-didier-migaud",
+      "passage": "Le ministre de la Justice reconnaît que le plan est « très en retard » : « de l'ordre 6 421 places au lieu des 15 000 » en 2027, et il « ne pourra désormais pas être réalisé avant 2029 dans le meilleur des cas ». Causes : aléas techniques, réticence des élus locaux. « Au-delà de 2025, ce plan 15 000 n'était pas financé. »",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mesurer et comprendre les déterminants de la récidive des sortants de prison (Infostat Justice n° 183)",
+      "organisme": "Ministère de la Justice (SDSE)",
+      "date_publication": "juillet 2021",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2023-04/stat_Infostat_183_0.pdf",
+      "passage": "Sur 41 500 sortants de prison de 2016, 31 % récidivent dans l'année (au sens large). 23 % pour les libérations conditionnelles contre 33 % pour les « sorties sèches ». Toutes choses égales par ailleurs, la libération conditionnelle est associée à 9,6 points de récidive en moins. Les auteurs rappellent que les critères d'octroi ne sont pas contrôlés : l'écart peut refléter en partie une sélection des profils.",
+      "pertinence": "Statistique publique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "La surpopulation carcérale : une fatalité ?",
+      "organisme": "Jean-Paul Céré, professeur à l’université de Pau (Le Club des juristes)",
+      "date_publication": "24 avril 2024",
+      "url": "https://www.leclubdesjuristes.com/societe/la-surpopulation-carcerale-une-fatalite-5787/",
+      "passage": "« l'augmentation du parc mène en réalité à un usage plus fréquent de la peine privative de liberté » ; la surpopulation « ne peut-être endigué qu'en ambitionnant une politique pénale et pénitentiaire globale et cohérente ». La CEDH, dans l'arrêt J.M.B. c. France du 30 janvier 2020 (32 requêtes), a constaté la violation des articles 3 et 13 de la Convention. L'auteur appelle à un mécanisme national de régulation carcérale.",
+      "pertinence": "Analyse d'un universitaire spécialiste du droit pénitentiaire.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Prisons : « Surveillants et détenus vivent pareillement l'abandon et l'inertie de l'État », alerte Dominique Simonnot",
+      "organisme": "Léonard Dermarkarian, LCP",
+      "date_publication": "18 septembre 2024",
+      "url": "https://lcp.fr/actualites/prisons-surveillants-et-detenus-vivent-pareillement-l-abandon-et-l-inertie-de-l-etat",
+      "passage": "Devant la commission des lois, la Contrôleure générale des lieux de privation de liberté constate environ 150 % d'occupation moyenne et des pics à 250 % ; environ 5 000 places ont été créées depuis 2017. Elle doute que les 15 000 places règlent la surpopulation et propose un mécanisme national de régulation carcérale, avec une commission « présidée par l'autorité judiciaire ».",
+      "pertinence": "Chaîne parlementaire de l'Assemblée nationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "CEDH, 30 janvier 2020, J.M.B. et autres c. France, n° 9671/15",
+      "organisme": "Dalloz Actualité (texte de l’arrêt)",
+      "date_publication": "30 janvier 2020",
+      "url": "https://www.dalloz-actualite.fr/document/cedh-30-janv-2020-jmb-et-c-france-n-967115",
+      "passage": "Arrêt rendu sur 32 requêtes visant notamment les maisons d'arrêt de Nîmes, Nice et Fresnes et des prisons d'outre-mer. Au titre de l'article 46, la Cour recommande à la France d'adopter des mesures générales pour « résorber définitivement la surpopulation carcérale » et d'établir un recours préventif effectif.",
+      "pertinence": "Texte de la décision de justice.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Statistiques mensuelles de l'administration pénitentiaire et avancement du plan de construction.",
+  "objections_legitimes": [
+    "La surpopulation est réelle et indigne, et il manque objectivement des places.",
+    "Une partie du parc pénitentiaire est vétuste et doit être remplacée.",
+    "Les peines prononcées doivent être exécutées."
+  ],
+  "publics": {
+    "convaincus": "Oui, les prisons débordent : 90 937 détenus pour 63 452 places. Mais le plan de 15 000 places promis depuis 2018 est loin d'être tenu, et chaque place construite se remplit aussitôt. Si on veut moins de récidive, les chiffres montrent que les sorties préparées font mieux que les sorties sèches.",
+    "indecis": "La surpopulation est réelle et indigne, pour les détenus comme pour les surveillants, et il manque des places. Mais construire prend des années et ne suffit pas : il faut aussi des peines alternatives et une régulation pour ne pas enfermer au-delà des places. Les deux vont ensemble."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "services_publics",
+      "vulnerables",
+      "travailleurs"
+    ],
+    "mecanismes": "Quand la politique pénale enferme toujours plus, notamment en détention provisoire et pour de courtes peines, les places construites se remplissent aussitôt. La surpopulation devient permanente et la construction court derrière les incarcérations sans jamais les rattraper.",
+    "consequences": "Des détenus dorment sur des matelas au sol, les surveillants travaillent dans des conditions dégradées, et des sorties sans préparation favorisent la récidive, au détriment des victimes futures.",
+    "democratie": "Un pays condamné par la justice européenne pour ses prisons ne respecte pas ses propres principes. La dignité des personnes détenues est un droit, pas une faveur.",
+    "propositions": [
+      "Créer un mécanisme national de régulation carcérale pour ne pas enfermer au-delà des places disponibles.",
+      "Développer les peines alternatives, la libération conditionnelle et les moyens des services de probation.",
+      "Rénover les prisons vétustes et recruter des surveillants et des conseillers d’insertion."
+    ],
+    "defavorables": [
+      {
+        "fait": "Il manque objectivement des milliers de places et la surpopulation est indigne.",
+        "integration": "Construire ou rénover des places dignes peut faire partie de la réponse, à condition d’arrêter en même temps l’inflation carcérale."
+      }
+    ]
+  },
+  "concepts": [
+    "prison"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taule",
+    "zonzon",
+    "barreaux"
+  ]
+}

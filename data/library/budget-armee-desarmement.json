@@ -1,0 +1,247 @@
+{
+  "id": "budget-armee-desarmement",
+  "type": "idee_recue",
+  "affirmation": "Il faut augmenter le budget de l'armée, la France est désarmée.",
+  "volet": "international",
+  "sous_theme": "Guerres et conflits",
+  "rubriques": [],
+  "mots_cles": [
+    "france desarmee",
+    "budget armee",
+    "budget defense",
+    "loi de programmation militaire",
+    "lpm",
+    "armee francaise faible",
+    "manque de munitions",
+    "depenses militaires",
+    "otan 5 %",
+    "rearmement france"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La France n'est pas désarmée : c'est une puissance nucléaire, l'un des grands budgets militaires d'Europe (68 milliards de dollars en 2025 selon le SIPRI), et son budget augmente déjà fortement : la loi d'août 2026 porte la programmation 2024-2030 à 435,7 milliards d'euros, avec 75,7 milliards de crédits en 2030. Il est vrai que l'armée manque de profondeur pour une guerre longue de haute intensité (munitions, format réduit), selon le Sénat. Le débat porte donc sur le montant et les priorités, pas sur un désarmement.",
+  "contexte": "Depuis la guerre en Ukraine, puis la guerre contre l'Iran en 2026, l'idée d'une France « désarmée » circule, souvent pour réclamer des hausses massives. L'OTAN demande désormais 5 % du PIB d'ici 2035.",
+  "explication": "Il faut regarder ce que la France dépense déjà et comment ce budget évolue, la comparer avec ses voisins, et distinguer le niveau de dépense des faiblesses précises signalées par les parlementaires.",
+  "faits": [
+    {
+      "fait": "La loi du 16 août 2026 porte le budget de la programmation militaire 2024-2030 à 435,7 milliards d'euros, contre 413,3 milliards fixés en 2023, grâce à 36 milliards d'euros de ressources nouvelles sur 2026-2030.",
+      "periode": "2024-2030",
+      "perimetre": "France",
+      "explication": "Le budget des armées augmente déjà fortement, par la loi.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "435,7 Md€"
+    },
+    {
+      "fait": "Les crédits de la mission « Défense » passent de 57,1 milliards d'euros en 2026 à 75,7 milliards en 2030, contre 67,4 milliards prévus initialement pour 2030.",
+      "periode": "2026-2030",
+      "perimetre": "France",
+      "explication": "La hausse est continue et importante, ce qui contredit l'idée d'un désarmement.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "75,7 Md€"
+    },
+    {
+      "fait": "Selon le SIPRI, la France a dépensé 68 milliards de dollars pour son armée en 2025 (+1,5 %), moins que l'Allemagne (114 milliards) et le Royaume-Uni (89 milliards) ; la Russie a dépensé 190 milliards, soit 7,5 % de son PIB.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "La France reste un des grands budgets militaires européens, mais d'autres accélèrent plus vite.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "68 Md$"
+    },
+    {
+      "fait": "Dans la déclaration du sommet de La Haye du 25 juin 2025, les alliés de l'OTAN s'engagent à consacrer 5 % du PIB à la défense et à la sécurité d'ici 2035, dont au moins 3,5 % pour la défense proprement dite.",
+      "periode": "2025-2035",
+      "perimetre": "OTAN",
+      "explication": "L'objectif imposé sous pression américaine dépasse de loin l'effort français actuel.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "5 %"
+    },
+    {
+      "fait": "L'actualisation prévoit 8,5 milliards d'euros supplémentaires pour « remonter les stocks » de munitions et 1,6 milliard contre les drones ; selon le député Jean-Louis Thiériot, la France est « à 2 % du PIB », et la ministre affirme qu'elle dépassera 2,5 % dès 2030.",
+      "periode": "2026-2030",
+      "perimetre": "France",
+      "explication": "Les faiblesses sont identifiées et en partie financées.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "8,5 Md€"
+    },
+    {
+      "fait": "Fait défavorable : selon la commission des finances du Sénat, l'armée française est plus vulnérable à « l'attrition et à la durée d'un conflit majeur » parce que son format s'est fortement réduit, et l'actualisation ne modifie pas ce format.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Une armée complète mais en petites quantités tient mal dans une guerre longue : c'est une faiblesse réelle.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : en 2022, le président de la commission de la Défense du Sénat estimait qu'« au bout de 15 jours » de haute intensité, l'armée aurait « de vraies difficultés », et le député Jean-Louis Thiériot jugeait « clairement insuffisants » les 7 milliards alloués aux munitions.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le manque de munitions est un constat ancien et partagé par des élus de droite comme de gauche.",
+      "source": 6,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En décembre 2025, la déclaration du gouvernement sur la défense a été approuvée par 411 voix contre 88 ; LFI et les communistes ont voté contre, LFI jugeant le budget mal calibré, tandis que Marine Le Pen jugeait cette politique « l'une des rares » à mettre à l'actif du président.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les débats portent sur les priorités et le financement, pas sur un refus de toute défense.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "411"
+    }
+  ],
+  "argumentaires": {
+    "court": "La France n'est pas désarmée : c'est une puissance nucléaire, avec 68 milliards de dollars de dépenses militaires en 2025 selon le SIPRI. Son budget augmente déjà : 435,7 milliards d'euros sur 2024-2030, et 75,7 milliards de crédits en 2030. Le vrai problème, ce sont les stocks et la capacité à tenir une guerre longue.",
+    "moyen": "Dire que la France est « désarmée » ne tient pas. Elle possède l'arme nucléaire, un porte-avions, des sous-marins et des avions de combat, et elle a dépensé 68 milliards de dollars pour son armée en 2025 selon le SIPRI. Surtout, son budget augmente : la loi d'août 2026 prévoit 435,7 milliards d'euros sur 2024-2030 et des crédits annuels qui passent de 57,1 milliards en 2026 à 75,7 milliards en 2030.\n\nIl y a de vraies faiblesses. Le Sénat note que l'armée, au format réduit, supporte mal une guerre longue, et les stocks de munitions sont insuffisants depuis des années. La loi ajoute 8,5 milliards pour les munitions. La question est donc de savoir combien dépenser, pour quoi, et qui paie : l'objectif OTAN de 5 % du PIB, réclamé par Washington, va bien au-delà.",
+    "detaille": "La France n'est pas un pays désarmé. Elle dispose de la dissuasion nucléaire, d'un porte-avions, de sous-marins, de chars et d'avions de combat. Selon le SIPRI, elle a dépensé 68 milliards de dollars pour son armée en 2025, ce qui en fait un des grands budgets européens, même si l'Allemagne (114 milliards) et le Royaume-Uni (89 milliards) dépensent davantage. Et ce budget augmente vite : la loi du 16 août 2026 porte la programmation 2024-2030 à 435,7 milliards d'euros, avec des crédits qui atteindront 75,7 milliards en 2030.\n\nLes faiblesses existent et il faut les reconnaître. En 2022 déjà, des parlementaires alertaient sur des stocks de munitions trop faibles pour une guerre de haute intensité. En 2026, la commission des finances du Sénat juge l'armée vulnérable à « l'attrition et à la durée d'un conflit majeur », parce que son format a été réduit. La loi d'actualisation consacre 8,5 milliards d'euros supplémentaires aux munitions et 1,6 milliard à la lutte anti-drones.\n\nLe débat est donc politique : combien, pour quoi, et financé comment ? L'OTAN demande 5 % du PIB d'ici 2035, sous pression de Donald Trump, alors que la France est autour de 2 %. À gauche, LFI juge le budget mal calibré et a voté contre la déclaration du gouvernement, tandis que le RN crédite Emmanuel Macron de cette politique. On peut vouloir une défense solide, centrée sur la protection du territoire et les stocks, sans sacrifier l'hôpital et l'école à une course aux armements.",
+    "empathie": "Avec la guerre en Ukraine et au Moyen-Orient, il est normal d'avoir peur et de se demander si le pays peut se défendre. Cette inquiétude mérite des chiffres précis plutôt qu'un slogan."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On n'a des munitions que pour quelques jours.",
+      "reponse": "C'était une alerte de 2022, à prendre au sérieux. La loi de 2026 ajoute 8,5 milliards d'euros pour remonter les stocks : le problème est connu et en partie financé."
+    },
+    {
+      "objection": "Il faut atteindre les 5 % de l'OTAN.",
+      "reponse": "C'est un objectif fixé sous pression américaine. La France est autour de 2 % du PIB : y aller impliquerait des choix énormes sur les autres dépenses publiques, qu'il faut débattre."
+    },
+    {
+      "objection": "La gauche veut désarmer la France.",
+      "reponse": "LFI a critiqué un budget qu'elle juge mal calibré et sous-financé, pas proposé de supprimer l'armée."
+    }
+  ],
+  "questions": [
+    "Sais-tu de combien le budget des armées augmente d'ici 2030 ?",
+    "Plus de chars, ou d'abord plus de munitions et de protection contre les drones : qu'est-ce qui te paraît prioritaire ?"
+  ],
+  "limites": [
+    "Les chiffres sur les munitions de 2022 sont anciens ; le rapport parlementaire de 2022 n'a été lu qu'à travers Public Sénat.",
+    "Le communiqué du SIPRI ne donne ni le rang mondial de la France ni sa part du PIB.",
+    "La part du PIB consacrée à la défense (autour de 2 %) vient d'une déclaration de député, pas d'une statistique officielle lue.",
+    "Les programmes 2027 des partis sur la défense n'ont pas été lus."
+  ],
+  "sources": [
+    {
+      "titre": "Loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
+      "organisme": "Légifrance (Journal officiel n° 0191)",
+      "date_publication": "18 août 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000054694833",
+      "passage": "« Le total du budget de la programmation militaire actualisée est de 435,7 milliards d'euros », contre 413,3 milliards fixés en 2023, avec 36 milliards d'euros de ressources nouvelles sur 2026-2030. Crédits de paiement de la mission « Défense » (Md€ courants) : 57,1 en 2026, 63,3 en 2027, 69,5 en 2028, 72,6 en 2029, 75,7 en 2030 (trajectoire initiale : 53,7 ; 56,9 ; 60,4 ; 63,9 ; 67,4).",
+      "pertinence": "Texte de loi publié au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Actualisation de la programmation militaire pour les années 2024 à 2030 — rapport pour avis (synthèse)",
+      "organisme": "Sénat (commission des finances, rapporteur Dominique de Legge)",
+      "date_publication": "26 mai 2026",
+      "url": "https://www.senat.fr/rap/a25-654/a25-654-syn.pdf",
+      "passage": "La Revue nationale stratégique de 2025 retient « un risque particulièrement élevé d'une guerre majeure de haute intensité en dehors du territoire national ». L'armée est plus vulnérable à « l'attrition et à la durée d'un conflit majeur », son format s'étant fortement réduit ; le texte ne modifie pas le format (frégates, porte-avions, sous-marins, chars Leclerc, avions de combat). Hausses annuelles : 3,5 milliards (2026), 3 milliards (2027). Au moins 40 % de la hausse couvre d'autres dépenses que les armements.",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Armées : budget, priorités… Tout comprendre sur l'actualisation de la programmation militaire en 5 points",
+      "organisme": "LCP (La Chaîne parlementaire)",
+      "date_publication": "mai 2026",
+      "url": "https://lcp.fr/actualites/armees-budget-priorites-tout-comprendre-sur-l-actualisation-de-la-programmation",
+      "passage": "Le texte ajoute 36 milliards d'euros sur 2026-2030. Munitions : 8,5 milliards d'euros supplémentaires pour « remonter les stocks » ; lutte anti-drones : 1,6 milliard. La ministre affirme que « La France dépassera les 2,5 % du PIB d'effort de défense dès 2030 » ; le député Jean-Louis Thiériot : « nous sommes à 2 % du PIB » et « Cette actualisation n'est pas un effort historique ». Motion de rejet de LFI : 38 pour, 128 contre.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vote sur la défense nationale à l'Assemblée : ce qu'il faut retenir du débat en 6 points",
+      "organisme": "LCP (La Chaîne parlementaire)",
+      "date_publication": "10 décembre 2025",
+      "url": "https://lcp.fr/index%2ephp/actualites/vote-sur-la-defense-nationale-a-l-assemblee-ce-qu-il-faut-retenir-du-debat-en-6-points",
+      "passage": "Déclaration du gouvernement sur la défense approuvée par 411 voix pour, 88 contre et 22 abstentions ; LFI et le groupe GDR votent contre. Bastien Lachaud (LFI) juge le budget mal calibré et sous-financé, la hausse prévue étant « un aveu d'échec ». Marine Le Pen dénonce la méthode mais crédite Emmanuel Macron de cette politique : « l'une des rares politiques que l'on peut mettre à l'actif du président de la République ».",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les dépenses militaires mondiales continuent d'augmenter (communiqué de presse)",
+      "organisme": "SIPRI (Institut international de recherche sur la paix de Stockholm)",
+      "date_publication": "27 avril 2026",
+      "url": "https://www.sipri.org/sites/default/files/2026%20Milex%20PR%20FRE.pdf",
+      "passage": "Dépenses militaires mondiales : 2 887 milliards de dollars en 2025 (+2,9 %). France : +1,5 %, 68 milliards de dollars. Allemagne : 114 milliards (+24 %). Royaume-Uni : 89 milliards. Russie : 190 milliards, 7,5 % de son PIB. États-Unis : 954 milliards. Chine : 336 milliards.",
+      "pertinence": "Institut de recherche indépendant de référence sur les dépenses militaires.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Déclaration du sommet de La Haye",
+      "organisme": "OTAN (Organisation du traité de l'Atlantique Nord)",
+      "date_publication": "25 juin 2025",
+      "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/06/25/the-hague-summit-declaration?selectedLocale=fr",
+      "passage": "Les alliés s'engagent à consacrer 5 % du PIB par an d'ici 2035 à la défense et à la sécurité au sens large : au moins 3,5 % pour les dépenses de défense proprement dites, jusqu'à 1,5 % pour les infrastructures critiques, la résilience et la base industrielle. Trajectoire revue en 2029.",
+      "pertinence": "Texte officiel de l'Alliance.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Guerre de haute intensité : la France a-t-elle suffisamment de munitions ?",
+      "organisme": "Public Sénat (Louis Dubar)",
+      "date_publication": "21 mars 2022",
+      "url": "https://www.publicsenat.fr/actualites/politique/guerre-de-haute-intensite-la-france-a-t-elle-suffisamment-de-munitions-199063",
+      "passage": "Christian Cambon, président de la commission de la Défense du Sénat : « Au bout de 15 jours, on commencerait à avoir de vraies difficultés ». Le député Jean-Louis Thiériot, auteur d'un rapport sur la haute intensité, juge la situation « effectivement critique mais pas à ce point » et estime que « les 7 milliards alloués sont clairement insuffisants ». La France ne produit plus de munitions de petit calibre.",
+      "pertinence": "Chaîne parlementaire ; données de 2022.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Loi de finances 2027, chiffres SIPRI 2026 et suite de l'objectif OTAN.",
+  "objections_legitimes": [
+    "Les stocks de munitions sont insuffisants pour une guerre longue, selon les parlementaires.",
+    "Le format de l'armée s'est fortement réduit.",
+    "D'autres pays européens, comme l'Allemagne, augmentent leur budget plus vite."
+  ],
+  "publics": {
+    "convaincus": "La France a la bombe nucléaire et son budget militaire augmente chaque année : 75,7 milliards d'euros de crédits prévus en 2030 par la loi. Dire qu'elle est « désarmée » est faux. Le vrai sujet, ce sont les stocks de munitions, et il est déjà en partie financé.",
+    "indecis": "Ta peur est compréhensible avec les guerres actuelles, et les parlementaires reconnaissent de vraies faiblesses, surtout les munitions. Mais le budget augmente fortement depuis plusieurs années. La question à se poser : combien de plus, pour quelles priorités, et au détriment de quoi."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "paix",
+      "democratie"
+    ],
+    "mecanismes": "Le mot « désarmée » crée une urgence qui coupe court au débat sur les priorités : combien dépenser, pour quels équipements, et au détriment de quels services publics.",
+    "consequences": "Une course aux dépenses militaires financée par l’austérité pèse sur l’hôpital, l’école et la transition écologique, sans garantir que les vraies faiblesses, comme les stocks, soient comblées.",
+    "democratie": "Les choix de défense doivent être débattus au Parlement, à partir de besoins identifiés, et non dictés par des objectifs fixés sous pression d’une puissance étrangère.",
+    "propositions": [
+      "Donner la priorité aux stocks de munitions, à la défense antiaérienne et à la protection du territoire plutôt qu’à l’alignement sur un pourcentage fixé par l’OTAN.",
+      "Financer l’effort de défense par une fiscalité juste plutôt que par des coupes dans les services publics.",
+      "Relancer une production publique d’armement pour ne pas dépendre de profits privés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les parlementaires constatent que l’armée, au format réduit, tient mal une guerre longue de haute intensité et manque de munitions.",
+        "integration": "Reconnaître ces faiblesses permet de proposer un effort ciblé et maîtrisé plutôt qu’une hausse sans fin."
+      }
+    ]
+  },
+  "concepts": [
+    "cout"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "cout",
+    "couts",
+    "une fortune",
+    "rapportent",
+    "finances publiques",
+    "pognon",
+    "nos impots"
+  ]
+}

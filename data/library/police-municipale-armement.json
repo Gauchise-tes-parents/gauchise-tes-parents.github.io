@@ -1,0 +1,225 @@
+{
+  "id": "police-municipale-armement",
+  "type": "idee_recue",
+  "affirmation": "La police municipale doit être armée partout.",
+  "volet": "securite",
+  "sous_theme": "Police et gendarmerie",
+  "rubriques": [],
+  "mots_cles": [
+    "armer la police municipale",
+    "police municipale armee",
+    "armement police municipale",
+    "policiers municipaux armes",
+    "police municipale arme a feu",
+    "desarmer la police municipale",
+    "police municipale pistolet",
+    "police municipale obligatoire"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "C'est un choix politique. La plupart des policiers municipaux sont déjà armés : 77 % des agents fin 2023, dont les trois quarts avec une arme à feu. Aujourd'hui, c'est le maire qui le demande et le préfet qui autorise. Même un ministre de l'Intérieur de droite a refusé de l'imposer par la loi, au nom de la liberté des communes. Les agressions d'agents sont réelles, mais armer partout ne dit rien du rôle qu'on donne à la police municipale.",
+  "contexte": "L'armement obligatoire des polices municipales est réclamé par des syndicats de policiers municipaux et par une partie de la droite et de l'extrême droite, souvent après des agressions d'agents. Un projet de loi sur les polices municipales, adopté par le Sénat en février 2026, attend toujours son examen à l'Assemblée.",
+  "explication": "Il faut regarder combien d'agents sont déjà armés, qui décide aujourd'hui, ce que disent les institutions de contrôle, et à quoi sert la police municipale.",
+  "faits": [
+    {
+      "fait": "Au 31 décembre 2023, la France compte 28 161 policiers municipaux dans 3 812 communes ou intercommunalités ; 77 % sont armés, dont les trois quarts d'armes à feu de poing.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "L'armement est déjà la règle dans les faits.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "77 %"
+    },
+    {
+      "fait": "Le port d'arme exige une formation, puis une autorisation nominative du préfet « sur demande motivée du maire » ; en 2023, 83 % des communes ou intercommunalités avaient une police municipale armée.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "C'est le maire qui choisit, sous le contrôle de l'État.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "83 %"
+    },
+    {
+      "fait": "La Cour des comptes juge que la police municipale relève d'« un choix politique » qui ne dépend pas forcément du niveau de délinquance, et que ses missions ont évolué au coup par coup, avec un contrôle externe lacunaire.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "L'armement s'est banalisé sans doctrine claire sur le rôle de ces polices.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2020, le ministre de l'Intérieur Gérald Darmanin a jugé que « forcer une police municipale à être armée dans la loi, c'est sans doute faire pire que mieux », au nom de la libre administration des communes.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Même un gouvernement de droite a refusé l'armement obligatoire.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La CNCDH recommande de suspendre automatiquement le port d'arme des agents qui ne suivent pas leurs entraînements obligatoires, et de former à la désescalade.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Plus d'armes suppose plus de formation et de contrôle.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : les agressions d'agents sont réelles ; en mars 2022, trois policiers municipaux ont été attaqués au couteau à Marseille, et un syndicat a réclamé, selon Localtis, que l'armement létal soit rendu obligatoire.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La sécurité des agents est une préoccupation légitime.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon la sociologue Virginie Malochet, l'armement « se banalise, quelle que soit la taille des services ou l'affiliation politique des maires ».",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Des maires de gauche arment aussi leur police : la question n'est pas un clivage simple.",
+      "source": 5,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "La plupart des policiers municipaux sont déjà armés : 77 % fin 2023. C'est le maire qui le demande et le préfet qui l'autorise, et même un ministre de droite a refusé de l'imposer. La vraie question est : à quoi doit servir la police municipale ?",
+    "moyen": "Fin 2023, la France compte 28 161 policiers municipaux, dont 77 % armés, et les trois quarts de ces armes sont des armes à feu. Le port d'arme dépend d'une demande du maire, d'une formation et d'une autorisation du préfet. En 2020, le ministre de l'Intérieur lui-même refusait de l'imposer par la loi, au nom de la liberté des communes.\n\nLes agressions d'agents existent et leur sécurité doit être assurée. Mais la Cour des comptes constate que l'armement s'est banalisé sans doctrine claire : la police municipale glisse vers une police nationale bis, et l'État se décharge sur les communes. Armer partout, c'est imposer un seul modèle à des polices qui, souvent, comptent moins de trois agents.",
+    "detaille": "Le débat part d'une idée fausse : la police municipale ne serait pas armée. En réalité, fin 2023, 77 % des 28 161 policiers municipaux étaient armés, dont les trois quarts d'armes à feu, et 83 % des communes ou intercommunalités avaient une police municipale armée. Le système actuel repose sur le maire, qui demande l'armement, et sur le préfet, qui l'autorise après une formation, avec deux entraînements obligatoires par an.\n\nL'imposer partout pose plusieurs problèmes. Le premier est démocratique : c'est aux communes de choisir le rôle de leur police, et même un ministre de l'Intérieur de droite a jugé en 2020 que l'obligation ferait « pire que mieux ». Le second tient au rôle de ces polices : la Cour des comptes relève que leurs missions ont évolué au coup par coup, sans lien nécessaire avec la délinquance locale, avec un risque de remplacer la police nationale. La moitié des communes concernées ont moins de trois agents : un modèle unique n'a pas de sens.\n\nIl faut entendre les agents. Des policiers municipaux ont été attaqués, comme à Marseille en 2022, et des maires de tous bords ont choisi de les armer. Mais une arme suppose une formation et un contrôle sérieux : la CNCDH demande de retirer le port d'arme à ceux qui ne s'entraînent pas. Pour la gauche, la priorité est une police de proximité bien formée, et une police nationale présente partout, plutôt que de faire payer aux communes le désengagement de l'État.",
+    "empathie": "On peut s'inquiéter pour des agents qui interviennent seuls face à des situations dangereuses, et vouloir qu'ils puissent se défendre. Cette inquiétude est légitime."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les policiers municipaux ne sont pas armés, ils sont sans défense.",
+      "reponse": "Fin 2023, 77 % étaient armés, et les trois quarts de ces armes étaient des armes à feu. Le choix existe déjà, commune par commune."
+    },
+    {
+      "objection": "Seule la gauche refuse d'armer la police municipale.",
+      "reponse": "En 2020, le ministre de l'Intérieur Gérald Darmanin refusait lui aussi l'obligation par la loi, au nom de la liberté des communes. Et des maires de gauche arment leur police."
+    },
+    {
+      "objection": "Armer partout, c'est plus de sécurité.",
+      "reponse": "La Cour des comptes constate que l'armement s'est développé sans doctrine claire ni lien établi avec la délinquance locale. La sécurité dépend surtout des effectifs, de la formation et de la présence de la police nationale."
+    }
+  ],
+  "questions": [
+    "Savais-tu que plus des trois quarts des policiers municipaux sont déjà armés ?",
+    "Qui doit décider de l'armement : le maire élu par les habitants ou une loi nationale ?",
+    "Si la police municipale fait le travail de la police nationale, qui doit le payer ?"
+  ],
+  "limites": [
+    "Les chiffres les plus récents datent de fin 2023 ; les sources ne donnent pas exactement les mêmes pourcentages (77 % selon l'étude d'impact, environ 80 % selon la CNCDH).",
+    "Le rapport complet de la Cour des comptes n'a pas été lu, seulement sa synthèse officielle.",
+    "Aucune source lue ne mesure l'effet de l'armement sur la délinquance ou sur la sécurité des agents.",
+    "Le projet de loi de 2025-2026 n'est pas encore examiné par l'Assemblée nationale : son contenu final peut changer."
+  ],
+  "sources": [
+    {
+      "titre": "Avis sur un projet de loi relatif à l'extension des prérogatives, des moyens, de l'organisation et du contrôle des polices municipales et des gardes champêtres (n° 410002)",
+      "organisme": "Conseil d'État",
+      "date_publication": "23 octobre 2025",
+      "url": "https://www.senat.fr/leg/pjl25-097-avis-ce.pdf",
+      "passage": "D'après l'étude d'impact, au 31 décembre 2023, on compte « 28 161 agents de police municipale », soit une hausse d'environ 45 % en dix ans, « dans 3 812 communes ou établissements publics de coopération intercommunale » ; la moitié de ces collectivités emploie moins de trois agents. « 77 % des agents étaient armés dont les trois quarts d'armes à feu de poing. » Le dispositif s'inscrit « dans le respect des compétences respectives du maire, au titre de la libre administration des collectivités territoriales, et du représentant de l'État ».",
+      "pertinence": "Avis du Conseil d'État publié par le Sénat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les polices municipales (synthèse du rapport public thématique)",
+      "organisme": "Cour des comptes",
+      "date_publication": "20 octobre 2020",
+      "url": "https://www.ccomptes.fr/sites/default/files/2023-10/20201020-synthese-polices-municipales_0.pdf",
+      "passage": "23 934 policiers municipaux en 2019 (19 370 en 2010). La police municipale relève d'« un choix politique » qui ne dépend pas nécessairement du niveau de délinquance : Beauvais compte 45 policiers municipaux contre 15 à Creil, dont le taux de criminalité est plus élevé. L'armement s'est banalisé : en 2019, 77 % des policiers municipaux sont armés et 57 % ont une arme à feu. Les missions ont évolué au coup par coup ; risque de substitution à la police nationale. Contrôle externe jugé lacunaire.",
+      "pertinence": "Juridiction financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Avis sur le projet de réforme des polices municipales (A - 2026 - 03)",
+      "organisme": "Commission nationale consultative des droits de l’homme (CNCDH)",
+      "date_publication": "19 mars 2026",
+      "url": "https://www.cncdh.fr/sites/default/files/2026-03/Avis%20sur%20la%20r%C3%A9forme%20des%20polices%20municipale_0.pdf",
+      "passage": "Le port d'arme suppose une formation du CNFPT puis une autorisation nominative du préfet, « sur demande motivée du maire », et deux entraînements par an. En 2023, 83 % des communes ou intercommunalités disposaient d'un service de police municipale armé ; environ 80 % des agents étaient armés, dont 76 % d'une arme à feu de poing. La CNCDH recommande la suspension automatique du port d'arme des agents qui ne suivent pas les entraînements, et des formations à la désescalade.",
+      "pertinence": "Autorité administrative indépendante.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Armement des polices municipales : le gouvernement renvoie la pression aux élus",
+      "organisme": "Frédéric Fortin, Localtis (Banque des Territoires)",
+      "date_publication": "3 novembre 2020",
+      "url": "https://www.banquedesterritoires.fr/armement-des-polices-municipales-le-gouvernement-renvoie-la-pression-aux-elus",
+      "passage": "Le ministre de l'Intérieur Gérald Darmanin refuse de généraliser l'armement par la loi : « Forcer une police municipale à être armée dans la loi, c'est sans doute faire pire que mieux ». « Je respecte la libre administration des collectivités » ; « Si un maire considère qu'il ne faut pas armer sa police municipale, il en répond devant ses électeurs ».",
+      "pertinence": "Média spécialisé des collectivités (Caisse des dépôts).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les agressions d'Argelès-sur-Mer et de Marseille relancent le débat sur l'armement des policiers",
+      "organisme": "Localtis (Banque des Territoires)",
+      "date_publication": "15 mars 2022",
+      "url": "https://www.banquedesterritoires.fr/les-agressions-dargeles-sur-mer-et-de-marseille-relancent-le-debat-sur-larmement-des-policiers",
+      "passage": "À Marseille, un homme armé d'un couteau attaque trois policiers municipaux ; l'un est blessé, l'agresseur est abattu après l'usage d'armes non létales. À Argelès-sur-Mer, un homme retourne son couteau contre des gendarmes et des policiers municipaux. Le syndicat FA-FPT demande que l'État « rende obligatoire l'armement létal de l'ensemble des policiers municipaux ».",
+      "pertinence": "Média spécialisé des collectivités.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Quels liens entre l'armement des policiers municipaux et leur rôle dans la collectivité ?",
+      "organisme": "Weka (d’après une note de Virginie Malochet, sociologue, Institut Paris Région)",
+      "date_publication": "15 février 2019",
+      "url": "https://www.weka.fr/actualite/?p=79474",
+      "passage": "Un rapport parlementaire de 2018 proposait de rendre l'armement obligatoire, sauf décision motivée du maire. Pour la sociologue Virginie Malochet, l'armement « se banalise, quelle que soit la taille des services ou l'affiliation politique des maires » ; la vraie question est « la nature du service rendu à la collectivité ». Fin 2016, 44 % des 21 500 policiers municipaux étaient armés.",
+      "pertinence": "Média professionnel rapportant une note de recherche.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le projet de loi polices municipales « sera débattu à l'Assemblée nationale », assure Sébastien Lecornu",
+      "organisme": "Michel Tendil, Localtis (Banque des Territoires)",
+      "date_publication": "14 octobre 2026",
+      "url": "https://www.banquedesterritoires.fr/le-projet-de-loi-polices-municipales-sera-debattu-lassemblee-nationale-assure-sebastien-lecornu",
+      "passage": "Adopté par le Sénat en février 2026, le projet de loi n'est toujours pas inscrit à l'ordre du jour de l'Assemblée nationale. Le Premier ministre assure qu'il « sera débattu à l'Assemblée nationale », sans calendrier, en invoquant « un embouteillage législatif ».",
+      "pertinence": "Média spécialisé des collectivités.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Examen du projet de loi sur les polices municipales à l'Assemblée nationale et nouvelles données d'effectifs.",
+  "objections_legitimes": [
+    "Des policiers municipaux ont été agressés, parfois à l'arme blanche.",
+    "Les policiers municipaux interviennent de plus en plus sur des missions proches de celles de la police nationale.",
+    "Beaucoup de maires de tous bords ont choisi d'armer leur police."
+  ],
+  "publics": {
+    "convaincus": "La police municipale est déjà armée dans la grande majorité des communes : 77 % des agents. Ce qui est demandé, c'est d'imposer l'arme même aux maires qui n'en veulent pas, ce que même le ministre de l'Intérieur Gérald Darmanin a refusé. Si l'on veut plus de sécurité, la question est plutôt : pourquoi l'État laisse-t-il les communes payer à sa place ?",
+    "indecis": "La sécurité des agents est une vraie question, et la plupart sont déjà armés. Aujourd'hui, chaque maire choisit, avec l'accord du préfet. On peut défendre ce choix local, à condition d'exiger une formation sérieuse et un contrôle, comme le demandent les institutions."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite",
+      "libertes",
+      "democratie"
+    ],
+    "mecanismes": "L’État s’est désengagé de la sécurité de proximité, et les communes ont comblé le vide avec leurs propres polices. L’armement s’est banalisé sans doctrine claire, et ce sont les communes riches qui peuvent se payer une police nombreuse.",
+    "consequences": "La sécurité dépend de plus en plus des moyens de chaque commune, et une police municipale armée sans formation suffisante fait courir des risques aux habitants comme aux agents.",
+    "democratie": "Imposer l’arme partout retirerait aux maires et aux habitants le choix du rôle de leur police. Une force armée doit toujours rester contrôlée, formée et responsable.",
+    "propositions": [
+      "Rétablir une police nationale de proximité présente partout, financée par l’État et non par les communes.",
+      "Exiger une formation sérieuse, des entraînements contrôlés et un contrôle externe pour tout agent armé.",
+      "Laisser chaque commune décider démocratiquement des missions de sa police municipale."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des policiers municipaux ont été agressés et des maires de tous bords ont choisi de les armer.",
+        "integration": "La sécurité des agents est légitime : elle passe par la formation, l’équipement adapté aux missions et le soutien de la police nationale, pas par une obligation uniforme."
+      }
+    ]
+  },
+  "concepts": [],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": []
+}

@@ -1,0 +1,220 @@
+{
+  "id": "ecrans-lecture-jeunes",
+  "type": "idee_recue",
+  "affirmation": "Les jeunes ne savent plus lire à cause des écrans.",
+  "volet": "services",
+  "sous_theme": "École publique",
+  "rubriques": [],
+  "mots_cles": [
+    "jeunes ne savent plus lire",
+    "ecrans lecture",
+    "ecrans enfants lecture",
+    "jeunes ne lisent plus",
+    "portable lecture",
+    "telephone enfants lecture",
+    "niveau de lecture baisse",
+    "tiktok lecture",
+    "pisa lecture"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le niveau de lecture baisse vraiment : à PISA 2025, 33 % des élèves français de 15 ans sont sous le niveau de base, contre 15 % en 2000, et la lecture-loisir recule. Les écrans prennent une place énorme. Mais les experts ne trouvent que des liens faibles, sans causalité démontrée, et les jeunes Français passent moins de temps sur les écrans de loisir que la moyenne de l'OCDE. Le milieu social reste le facteur qui pèse le plus.",
+  "contexte": "L'idée que les écrans et les réseaux sociaux auraient détruit la lecture revient à chaque publication des enquêtes PISA. Elle sert parfois à éviter de parler des moyens de l'école et des inégalités sociales.",
+  "explication": "Il faut distinguer trois choses : le niveau en lecture, le goût de lire, et ce que la recherche sait vraiment du rôle des écrans.",
+  "faits": [
+    {
+      "fait": "À PISA 2025, les élèves français de 15 ans obtiennent 456 points en compréhension de l'écrit, en baisse de 18 points depuis 2022 ; 33 % sont sous le niveau 2, contre 15 % en 2000.",
+      "periode": "2000-2025",
+      "perimetre": "France",
+      "explication": "La baisse du niveau est réelle et forte.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "33 %"
+    },
+    {
+      "fait": "La France reste dans la moyenne de l'OCDE (461 points), qui recule aussi de 14 points depuis 2022 ; les élèves français déclarent 3 heures d'écran de loisirs par jour d'école, contre 3,4 heures en moyenne dans l'OCDE.",
+      "periode": "2025",
+      "perimetre": "France et OCDE",
+      "explication": "Les jeunes Français ne sont pas plus exposés aux écrans que les autres, et la baisse est générale.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "3 h"
+    },
+    {
+      "fait": "Les 7-19 ans lisent en moyenne 19 minutes par jour et passent 3 h 11 sur les écrans ; chez les garçons de 16-19 ans, la lecture-loisir a perdu 15 points depuis 2022.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le goût de lire recule nettement, surtout chez les adolescents.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "19 minutes"
+    },
+    {
+      "fait": "La commission d'experts sur les écrans juge les effets observés « de faible amplitude » et sans causalité démontrée ; plus de deux heures d'écran par jour « pourrait être associé » à de moins bons résultats en lecture, « mais cela reste à confirmer ». Pour les adolescents, le milieu social est selon elle « la variable la plus explicative des différences observées dans le domaine cognitif ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les écrans ne sont pas innocents, mais la science ne permet pas d'en faire la cause unique.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "À PISA 2025, l'écart entre élèves très favorisés et très défavorisés atteint 91 points en France, contre 77 dans l'OCDE.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les inégalités sociales pèsent davantage que les écrans.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "91 points"
+    },
+    {
+      "fait": "En CM1, la baisse a commencé avant les smartphones : 525 points à PIRLS en 2001, puis 514 en 2021, un niveau stable depuis 2016 alors que la plupart des pays européens reculaient.",
+      "periode": "2001-2021",
+      "perimetre": "France",
+      "explication": "Le déclin est ancien et a d'autres causes que les réseaux sociaux.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "514"
+    },
+    {
+      "fait": "Fait défavorable : selon Euronews, le ministère cite l'usage croissant des écrans et des réseaux sociaux parmi les causes de la baisse à PISA 2025, et l'OCDE alerte sur la consommation rapide de contenus, qui nuit à la lecture de textes complexes.",
+      "periode": "2026",
+      "perimetre": "France et OCDE",
+      "explication": "Les écrans font partie du problème, à côté d'autres facteurs comme le manque d'enseignants.",
+      "source": 5,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le niveau de lecture baisse vraiment, et les jeunes lisent moins pour le plaisir. Mais les experts ne trouvent que des liens faibles avec les écrans, sans causalité prouvée. Le milieu social et les moyens de l'école pèsent bien plus lourd.",
+    "moyen": "La baisse est réelle : à PISA 2025, 33 % des élèves français de 15 ans sont sous le niveau de base en lecture, contre 15 % en 2000. Les 7-19 ans lisent 19 minutes par jour pour 3 h 11 d'écrans. Il y a donc un vrai problème.\n\nMais accuser seulement les écrans ne tient pas. La commission d'experts de 2024 juge les effets « de faible amplitude » et non démontrés comme causes. Les jeunes Français passent moins de temps sur les écrans de loisir que la moyenne de l'OCDE. Et le facteur qui pèse le plus reste le milieu social : 91 points d'écart entre élèves favorisés et défavorisés en France, plus que dans l'OCDE.",
+    "detaille": "Il ne faut pas nier le problème. À PISA 2025, les élèves français de 15 ans obtiennent 456 points en compréhension de l'écrit, 18 de moins qu'en 2022, et 33 % sont sous le niveau de base, contre 15 % en 2000. Le goût de lire recule aussi : les 7-19 ans lisent 19 minutes par jour, et les garçons de 16-19 ans sont de moins en moins nombreux à lire pour leurs loisirs. Pendant ce temps, ils passent 3 h 11 par jour sur les écrans.\n\nMais dire que les écrans en sont la cause, c'est aller plus loin que la science. La commission d'experts réunie en 2024 conclut que les études montrent des associations « de faible amplitude », sans causalité démontrée : au-delà de deux heures par jour, un lien avec de moins bons résultats en lecture est possible, « mais cela reste à confirmer ». Les jeunes Français passent d'ailleurs moins de temps sur les écrans de loisir que la moyenne de l'OCDE. Et la baisse a commencé bien avant les smartphones : en CM1, la France est passée de 525 points en 2001 à 514 en 2021.\n\nLe facteur qui pèse le plus est ailleurs. Pour les experts, le milieu social est la variable la plus explicative des écarts chez les adolescents ; en France, l'écart entre élèves favorisés et défavorisés atteint 91 points, plus que dans l'OCDE. L'OCDE relève aussi la pénurie d'enseignants. Pour la gauche, protéger les enfants des écrans est utile, mais la vraie réponse passe par des classes moins chargées, des enseignants mieux formés et payés, des bibliothèques et une lutte résolue contre les inégalités.",
+    "empathie": "Beaucoup de parents et de grands-parents voient les enfants scotchés à leur téléphone et s'inquiètent de ne plus les voir lire. Cette inquiétude est fondée sur quelque chose de réel."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est évident, ils sont tout le temps sur leur téléphone.",
+      "reponse": "Le temps d'écran est énorme, mais les jeunes Français y passent moins de temps de loisir que la moyenne de l'OCDE, et les experts ne trouvent que des liens faibles avec la lecture. La baisse a aussi commencé avant les smartphones."
+    },
+    {
+      "objection": "Il suffit d'interdire les écrans pour que le niveau remonte.",
+      "reponse": "Limiter les écrans peut aider, notamment pour le sommeil. Mais le milieu social reste le premier facteur d'écart, et la France manque d'enseignants : sans moyens pour l'école, interdire ne suffira pas."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la baisse en lecture a commencé avant l'arrivée des smartphones ?",
+    "Pourquoi les enfants de milieux favorisés lisent-ils mieux, alors qu'ils ont aussi des écrans ?",
+    "Qu'est-ce qui aiderait le plus un enfant à aimer lire : moins d'écrans, ou plus de livres et d'adultes pour lire avec lui ?"
+  ],
+  "limites": [
+    "L'étude du CNL est connue par la présentation du ministère de la Culture, pas par le rapport complet.",
+    "Les données PIRLS de 2001 sont anciennes ; elles servent à montrer que la baisse précède les smartphones.",
+    "La note DEPP sur PISA 2025 ne teste pas le lien entre temps d'écran et résultats.",
+    "Les explications de l'OCDE et du ministère sur PISA 2025 sont connues par un article de presse.",
+    "Les publications de Santé publique France et de l'Inserm n'ont pas été lues."
+  ],
+  "sources": [
+    {
+      "titre": "La lecture en perte de vitesse chez les jeunes (étude du CNL « Les jeunes Français et la lecture »)",
+      "organisme": "Ministère de la Culture",
+      "date_publication": "12 avril 2024",
+      "url": "https://www.culture.gouv.fr/fr/actualites/La-lecture-en-perte-de-vitesse-chez-les-jeunes",
+      "passage": "Les 7-19 ans lisent 19 minutes par jour (4 de moins qu'en 2022) et passent 3 h 11 par jour sur les écrans, de 2 h 03 (7-12 ans) à 5 h 10 (16-19 ans). Un jeune sur cinq ne lit jamais pour ses loisirs ; chez les 16-19 ans, 50 % des garçons lisent pour leurs loisirs (-15 points) contre 74 % des filles. La présidente du CNL : « La place laissée aux écrans dans notre vie quotidienne a de réelles conséquences sur la lecture, en particulier chez les jeunes ».",
+      "pertinence": "Ministère, présentation d'une étude du Centre national du livre.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Enfants et écrans. À la recherche du temps perdu (rapport de la commission d'experts)",
+      "organisme": "Commission d'experts sur l'impact de l'exposition des jeunes aux écrans (Vie publique)",
+      "date_publication": "avril 2024",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/293978.pdf",
+      "passage": "La plupart des études montrent une association sans pouvoir démontrer de causalité ; « Les effets observés sont de faible amplitude sur le plan clinique ». De 6 à 17 ans, plus de deux heures d'écran par jour « pourrait être associé » à de moins bons résultats en lecture, « mais cela reste à confirmer ». Une étude québécoise montre que le temps de télévision « ne se substitue pas au temps passé à lire, ou alors très à la marge ». Pour les adolescents, le milieu social est « la variable la plus explicative des différences observées dans le domaine cognitif ».",
+      "pertinence": "Rapport d'experts remis au président de la République.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "PISA 2025 : les acquis des élèves de 15 ans en compréhension de l'écrit et en culture mathématique en baisse en France et dans l'OCDE (Note d'information n° 26.40)",
+      "organisme": "Ministère de l’Éducation nationale (DEPP)",
+      "date_publication": "septembre 2026",
+      "url": "https://www.education.gouv.fr/sites/default/files/document/depp-ni-2026-40pisa-mathspdf-520231.pdf",
+      "passage": "« Avec un score moyen de 456 points en compréhension de l'écrit en 2025 », la France est dans la moyenne de l'OCDE (461), en baisse de 18 points depuis 2022 (19 points entre 2018 et 2022) ; l'OCDE recule de 14 points. Élèves sous le niveau 2 : 33 % en 2025 (27 % en 2022, 21 % en 2018, 15 % en 2000). Écart entre élèves très favorisés et très défavorisés : 91 points (77 dans l'OCDE). Les élèves français déclarent 3 heures d'écran de loisirs par jour d'école ; « Ce temps quotidien passé sur écran pour les loisirs est de 3,4 heures en moyenne dans l'OCDE ».",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "PIRLS 2021 : résultats des élèves de CM1 en compréhension de l'écrit",
+      "organisme": "IH2EF (ministère de l’Éducation nationale), d’après la DEPP",
+      "date_publication": "16 mai 2023",
+      "url": "https://www.ih2ef.gouv.fr/pirls-2021-resultats-des-eleves-de-cm1-en-comprehension-de-lecrit",
+      "passage": "La France obtient 514 points, au-dessus de la moyenne de l'échelle internationale (500) et sous la moyenne européenne (527). Elle « stabilise ainsi ses résultats » après quinze ans de baisse, alors que la plupart des pays de l'Union reculent de 11 points en moyenne depuis 2016.",
+      "pertinence": "Institut public de formation de l'Éducation nationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les élèves de CM1 : premiers résultats d'une évaluation internationale en lecture (PIRLS), Note d'information 03.22",
+      "organisme": "Ministère de l’Éducation nationale (DEP)",
+      "date_publication": "avril 2003",
+      "url": "https://educ-eval.depp.education.fr/pdf/ni0322.pdf",
+      "passage": "Lors de l'enquête PIRLS de 2001, « Les élèves français obtiennent un score de 525 », 25 points au-dessus de la moyenne internationale fixée à 500 ; près de 60 % des élèves ont une attitude très positive envers la lecture.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Une alerte collective » : les performances scolaires des élèves français en chute libre",
+      "organisme": "Vincent Reynier, Euronews",
+      "date_publication": "8 septembre 2026",
+      "url": "https://fr.euronews.com/my-europe/2026/09/08/une-alerte-collective-les-performances-scolaires-des-eleves-francais-en-chute-libre",
+      "passage": "En compréhension de l'écrit, la France passe de 505 points en 2012 à 456 en 2025. Le ministère cite l'usage croissant des écrans et des réseaux sociaux ; l'OCDE alerte sur la consommation rapide de contenus, qui nuit à la lecture de textes complexes. L'OCDE relève aussi un recul du soutien parental et une pénurie d'enseignants (45 % des chefs d'établissement en 2025 contre 17 % en 2015). Sur dix ans, l'écart social s'est réduit surtout parce que les élèves favorisés ont reculé.",
+      "pertinence": "Média d'information européen.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles évaluations nationales de la DEPP et prochaine étude du CNL sur les jeunes et la lecture.",
+  "objections_legitimes": [
+    "Le niveau en lecture baisse réellement, et fortement depuis 2018.",
+    "Les jeunes lisent moins pour le plaisir et passent beaucoup de temps sur les écrans.",
+    "Un usage excessif des écrans, surtout le soir, nuit au sommeil, donc aux apprentissages."
+  ],
+  "publics": {
+    "convaincus": "Le niveau baisse, c'est vrai et c'est grave. Mais les jeunes Français passent moins de temps sur les écrans de loisir que la moyenne de l'OCDE, et la baisse a commencé avant les smartphones. Le facteur qui pèse le plus, selon les experts, c'est le milieu social : accuser les écrans évite de parler du manque de profs.",
+    "indecis": "Ton inquiétude est fondée : les jeunes lisent moins et le niveau recule. Les écrans jouent sans doute un rôle, surtout sur le sommeil, mais les études ne montrent que des liens faibles. Limiter les écrans, oui, mais il faut aussi des enseignants, des bibliothèques et une école qui réduit les inégalités."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "emancipation",
+      "services_publics",
+      "vulnerables"
+    ],
+    "mecanismes": "Accuser les écrans permet de faire porter la baisse du niveau sur les familles et les enfants, plutôt que sur le manque d’enseignants et les inégalités sociales. Les plateformes ont pourtant intérêt à capter l’attention, ce qui pèse sur le temps et le goût de lire.",
+    "consequences": "Les enfants des milieux populaires cumulent moins de livres à la maison, moins d’accompagnement et une école moins dotée : ce sont eux qui décrochent le plus en lecture.",
+    "democratie": "Savoir lire des textes complexes est une condition de la citoyenneté. Laisser reculer la lecture, c’est fragiliser la capacité de chacun à s’informer et à débattre.",
+    "propositions": [
+      "Réduire les effectifs par classe et recruter des enseignants formés à l’apprentissage de la lecture.",
+      "Développer les bibliothèques publiques, les temps de lecture à l’école et l’accès gratuit aux livres.",
+      "Encadrer les plateformes numériques qui exploitent l’attention des enfants."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les jeunes lisent moins pour le plaisir et passent beaucoup de temps sur les écrans ; les institutions citent les écrans parmi les causes de la baisse.",
+        "integration": "Les écrans font partie du problème, surtout quand ils prennent le temps de sommeil et de lecture ; mais ils ne remplacent pas l’explication par les inégalités et le manque de moyens."
+      }
+    ]
+  },
+  "concepts": [
+    "services_publics"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences"
+  ]
+}

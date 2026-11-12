@@ -1,0 +1,219 @@
+{
+  "id": "loi-gayssot-liberte",
+  "type": "idee_recue",
+  "affirmation": "La loi Gayssot empêche de débattre librement de l'histoire.",
+  "volet": "droits",
+  "sous_theme": "Libertés publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "loi gayssot",
+    "gayssot",
+    "negationnisme",
+    "liberte d expression histoire",
+    "lois memorielles",
+    "on ne peut plus debattre de l histoire",
+    "revisionnisme interdit",
+    "article 24 bis",
+    "delit de negationnisme",
+    "verite officielle"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La loi Gayssot de 1990 ne punit pas le débat historique : elle punit la négation, ou la minoration outrancière, de crimes contre l'humanité déjà jugés, en pratique la Shoah. Le Conseil constitutionnel l'a validée en 2016 en précisant qu'elle n'a « ni pour objet ni pour effet d'interdire les débats historiques », et la Cour européenne des droits de l'homme juge que le négationnisme n'est pas protégé. Mais la critique existe : en 2005, 19 historiens réputés demandaient l'abrogation des lois mémorielles, dont celle-ci.",
+  "contexte": "Les négationnistes et une partie de l'extrême droite présentent la loi Gayssot comme une « vérité officielle » imposée, qui interdirait toute recherche ou tout débat sur la Seconde Guerre mondiale.",
+  "explication": "Il faut lire ce que la loi réprime exactement, ce qu'en ont dit les juges français et européens, et ce que lui reprochent des historiens qui n'ont rien de négationnistes.",
+  "faits": [
+    {
+      "fait": "Selon Dalloz Actualité, l'article 24 bis de la loi de 1881, créé par la loi Gayssot du 13 juillet 1990, punit d'un an d'emprisonnement et de 45 000 € d'amende ceux qui contestent l'existence d'un ou plusieurs crimes contre l'humanité.",
+      "periode": "1990-2016",
+      "perimetre": "France",
+      "explication": "Le délit vise des crimes établis par la justice, pas l'interprétation de l'histoire en général.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "45 000 €"
+    },
+    {
+      "fait": "Le 8 janvier 2016, le Conseil constitutionnel a jugé la loi conforme : seule « la négation, implicite ou explicite, ou la minoration outrancière » de ces crimes est interdite, et elle n'a « ni pour objet ni pour effet d'interdire les débats historiques ».",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Les historiens restent libres d'étudier, de discuter et de réviser les connaissances sur la période.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La Cour européenne des droits de l'homme a jugé en 2003 (Garaudy c. France) que la contestation de crimes contre l'humanité est « l'une des formes les plus aigües de diffamation raciale » et ne relève pas de la liberté d'expression ; elle a confirmé cette ligne en 2015 pour un spectacle honorant un négationniste.",
+      "periode": "2003-2015",
+      "perimetre": "Europe",
+      "explication": "Pour la Cour, le négationnisme est un abus de la liberté d'expression, pas un débat d'idées.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2012, le Conseil constitutionnel a censuré une loi qui punissait la contestation des génocides « reconnus par la loi », jugeant qu'elle portait une atteinte inconstitutionnelle à la liberté d'expression.",
+      "periode": "2012",
+      "perimetre": "France",
+      "explication": "Le juge ne valide pas n'importe quelle loi mémorielle : il exige que les crimes aient été jugés par un tribunal, pas seulement qualifiés par le Parlement.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : le 13 décembre 2005, 19 historiens, dont Pierre Nora, Mona Ozouf et Pierre Vidal-Naquet, ont signé l'appel « Liberté pour l'histoire », jugeant que « L'histoire n'est pas une religion » et demandant l'abrogation des lois mémorielles, loi Gayssot comprise.",
+      "periode": "2005",
+      "perimetre": "France",
+      "explication": "Des historiens éminents, nullement négationnistes, contestent le principe d'une loi pénale sur l'histoire : le débat sur l'outil est légitime.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : en 2008, la mission de l'Assemblée nationale présidée par Bernard Accoyer a estimé que « le rôle du Parlement n'est pas d'adopter des lois portant une appréciation sur des faits historiques », tout en rappelant son rôle pour lutter contre le racisme.",
+      "periode": "2008",
+      "perimetre": "France",
+      "explication": "Le Parlement lui-même a choisi de ne plus voter de nouvelles lois mémorielles, sans abroger la loi Gayssot.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : la Cour européenne a jugé en 2015 (Perinçek c. Suisse) que condamner un homme politique pour avoir nié la qualification de génocide pour les massacres d'Arméniens violait la liberté d'expression.",
+      "periode": "2015",
+      "perimetre": "Europe",
+      "explication": "La frontière entre négationnisme et débat est discutée en droit ; elle dépend du contexte et des crimes concernés.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La loi Gayssot ne punit pas le débat historique : elle punit la négation de crimes contre l'humanité déjà jugés, comme la Shoah. Le Conseil constitutionnel a précisé en 2016 qu'elle n'interdit pas les débats historiques. Des historiens critiquent pourtant le principe des lois mémorielles.",
+    "moyen": "La loi Gayssot de 1990 punit d'un an de prison et de 45 000 € d'amende ceux qui contestent l'existence de crimes contre l'humanité jugés par un tribunal, en pratique la Shoah. En 2016, le Conseil constitutionnel l'a jugée conforme : seule la négation ou la « minoration outrancière » est interdite, pas les débats historiques. La Cour européenne des droits de l'homme considère aussi le négationnisme comme une forme de haine raciale.\n\nLe débat sur l'outil existe pourtant. En 2005, 19 historiens de renom, dont Pierre Nora et Pierre Vidal-Naquet, demandaient l'abrogation des lois mémorielles : « L'histoire n'est pas une religion. » En 2008, une mission parlementaire a jugé que le Parlement ne devait plus voter de lois sur l'histoire. Mais ces critiques ne défendent pas les négationnistes : ils contestent la méthode, pas les faits.",
+    "detaille": "Que dit la loi ? Depuis 1990, l'article 24 bis de la loi sur la presse punit d'un an de prison et de 45 000 € d'amende la contestation de crimes contre l'humanité jugés par une juridiction française ou internationale. Elle vise en pratique la négation de la Shoah. Elle n'interdit ni la recherche, ni les controverses sur les chiffres, les responsabilités ou les interprétations, qui continuent dans les universités.\n\nLes juges l'ont confirmé. En 2016, le Conseil constitutionnel a jugé que seule « la négation, implicite ou explicite, ou la minoration outrancière » de ces crimes est interdite, et que la loi n'a « ni pour objet ni pour effet d'interdire les débats historiques ». La Cour européenne des droits de l'homme estime depuis 2003 que nier ces crimes est une forme de diffamation raciale envers les Juifs. Et quand le Parlement a voulu punir la négation d'autres génocides simplement « reconnus par la loi », le Conseil constitutionnel l'a censuré en 2012 au nom de la liberté d'expression.\n\nLa critique n'est pas réservée aux négationnistes. En 2005, 19 historiens de premier plan ont demandé l'abrogation des lois mémorielles, loi Gayssot comprise, car « L'histoire n'est pas une religion ». En 2008, l'Assemblée nationale a estimé que ce n'est pas son rôle de juger l'histoire. On peut donc discuter de l'outil pénal. Mais ceux qui disent « on ne peut plus débattre » cherchent souvent à faire passer la négation d'un crime prouvé pour une opinion comme une autre.",
+    "empathie": "On peut tenir à la liberté d'expression et se méfier de tout ce qui ressemble à une vérité imposée par l'État. Cette vigilance est saine : elle mérite de savoir précisément ce que la loi interdit."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est une vérité officielle, on n'a pas le droit de chercher.",
+      "reponse": "La recherche sur la Seconde Guerre mondiale est libre et très active. Ce qui est puni, c'est de nier des crimes établis par la justice, pas de discuter des sources ou des interprétations."
+    },
+    {
+      "objection": "Si leurs arguments étaient faux, pas besoin de loi.",
+      "reponse": "C'est l'argument des historiens qui critiquent la loi, et il se discute. Mais le Conseil constitutionnel et la Cour européenne considèrent la négation de la Shoah comme une incitation à la haine des Juifs, pas comme une thèse scientifique."
+    }
+  ],
+  "questions": [
+    "Peux-tu citer un débat historique sérieux qui aurait été interdit par cette loi ?",
+    "Pourquoi, selon toi, la négation de la Shoah intéresse-t-elle surtout des militants antisémites et pas les historiens ?"
+  ],
+  "limites": [
+    "La décision du Conseil constitutionnel de 2016 a été lue à travers une dépêche AFP et un article juridique, la page officielle n'ayant pas pu être ouverte.",
+    "Le rapport Accoyer n'a été lu qu'à travers sa présentation dans le rapport d'activité de l'Assemblée nationale.",
+    "Le nombre de condamnations prononcées au titre de cet article n'a pas été vérifié."
+  ],
+  "sources": [
+    {
+      "titre": "France : le délit de négationnisme constitutionnel",
+      "organisme": "JusticeInfo.net (dépêche AFP)",
+      "date_publication": "11 janvier 2016",
+      "url": "https://www.justiceinfo.net/fr?p=25381",
+      "passage": "Saisi le 8 octobre 2015 par la Cour de cassation d'une question prioritaire de constitutionnalité sur l'article 24 bis de la loi du 29 juillet 1881, le Conseil constitutionnel le déclare conforme. Contester des crimes contre l'humanité sanctionnés par une juridiction française ou internationale constitue en soi une incitation au racisme et à l'antisémitisme ; la restriction est nécessaire, adaptée et proportionnée. « seule la négation, implicite ou explicite, ou la minoration outrancière de ces crimes est prohibée » ; « les dispositions contestées n'ont ni pour objet ni pour effet d'interdire les débats historiques ».",
+      "pertinence": "Dépêche d'agence de presse sur la décision n° 2015-512 QPC du 8 janvier 2016.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Délit de révisionnisme jugé conforme à la Constitution",
+      "organisme": "Dalloz Actualité (Sabrina Lavric)",
+      "date_publication": "1er février 2016",
+      "url": "https://www.dalloz-actualite.fr/flash/delit-de-revisionnisme-juge-conforme-constitution",
+      "passage": "Cons. const., 8 janv. 2016, n° 2015-512 QPC : l'article 24 bis de la loi du 29 juillet 1881, créé par la loi « Gayssot » du 13 juillet 1990 et modifié en 1992 et 2014, est conforme. Il punit « d'un an d'emprisonnement et de 45 000 € d'amende » ceux qui « auront contesté, par un des moyens énoncés à l'article 23, l'existence d'un ou plusieurs crimes contre l'humanité ».",
+      "pertinence": "Revue juridique ; extrait en accès libre.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fiche thématique : Discours de haine",
+      "organisme": "Cour européenne des droits de l'homme",
+      "date_publication": "novembre 2023",
+      "url": "https://prd-echr.coe.int/documents/d/echr/fs_hate_speech_fra",
+      "passage": "Garaudy c. France (24 juin 2003) : requête irrecevable ; la contestation de crimes contre l'humanité est « l'une des formes les plus aigües de diffamation raciale » envers les Juifs, et l'article 17 empêche d'invoquer la liberté d'expression. M'Bala M'Bala c. France (20 octobre 2015) : un spectacle de 2008 honorant un négationniste relevait d'une « démonstration de haine et d'antisémitisme » ; requête irrecevable. Perinçek c. Suisse (Grande Chambre, 15 octobre 2015) : la condamnation d'un homme politique ayant nié la qualification de génocide pour les massacres d'Arméniens de 1915 viole la liberté d'expression.",
+      "pertinence": "Juridiction européenne ; fiche de synthèse de sa jurisprudence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Liberté pour l'Histoire ! 19 historiens dénoncent… (texte de l'appel publié dans Libération)",
+      "organisme": "Hérodote.net",
+      "date_publication": "page consultée le 12 novembre 2026",
+      "url": "https://www.herodote.net/Liberte_pour_l_Histoire_19_historiens_denoncent-article-60.php",
+      "passage": "Appel publié dans Libération le 13 décembre 2005, signé par 19 historiens et intellectuels, dont Jean-Pierre Azéma, Marc Ferro, Pierre Nora, Mona Ozouf, René Rémond, Pierre Vidal-Naquet et Michel Winock. « L'histoire n'est pas une religion. » Les signataires demandent « l'abrogation de ces dispositions législatives indignes d'un régime démocratique », visant la loi du 13 juillet 1990, les lois du 29 janvier et du 21 mai 2001 et la loi du 23 février 2005.",
+      "pertinence": "Site de vulgarisation historique reproduisant le texte de l'appel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'activité 2008 de l'Assemblée nationale : mission d'information sur les questions mémorielles",
+      "organisme": "Assemblée nationale",
+      "date_publication": "2008",
+      "url": "https://www.assemblee-nationale.fr/connaissance/rapactiv2008/rapactiv2008-40-41.pdf",
+      "passage": "La mission d'information sur les questions mémorielles, présidée par Bernard Accoyer, a « entendu soixante-neuf personnalités » et formulé dix-huit recommandations. « le rôle du Parlement n'est pas d'adopter des lois portant une appréciation sur des faits historiques » ; le vote de résolutions (« le nouvel article 34-1 de la Constitution ») est un meilleur outil. Le Parlement est en revanche dans son rôle pour « lutter contre le racisme et la xénophobie ».",
+      "pertinence": "Document officiel de l'Assemblée nationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décision n° 2012-647 DC du 28 février 2012 (loi visant à réprimer la contestation de l'existence des génocides reconnus par la loi)",
+      "organisme": "Conseil constitutionnel (texte reproduit par la Revue générale du droit)",
+      "date_publication": "28 février 2012",
+      "url": "https://www.revuegeneraledudroit.eu/blog/decisions/cc-n2012-647-dc-loi-visant-a-reprimer-la-contestation-de-lexistence-des-genocides-reconnus-par-la-loi",
+      "passage": "Une loi qui « reconnaît » un génocide n'a pas en elle-même de portée normative ; en réprimant la contestation de crimes « reconnus comme tels par la loi française », le législateur « a porté une atteinte inconstitutionnelle à l'exercice de la liberté d'expression et de communication ». La loi est déclarée contraire à la Constitution.",
+      "pertinence": "Décision de la juridiction constitutionnelle.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles décisions de justice ou propositions de loi sur les lois mémorielles.",
+  "objections_legitimes": [
+    "Des historiens reconnus, de sensibilités diverses, critiquent le principe des lois mémorielles.",
+    "Le Parlement a lui-même renoncé à voter de nouvelles lois sur l'histoire.",
+    "La Cour européenne a protégé, dans un autre contexte, la contestation de la qualification d'un génocide."
+  ],
+  "publics": {
+    "convaincus": "Tu peux lire tous les livres d'histoire que tu veux et discuter de tout : chiffres, responsabilités, interprétations. La loi punit seulement le fait de nier des crimes jugés, comme la Shoah, et le Conseil constitutionnel a écrit qu'elle n'interdit pas les débats historiques. Ceux qui se disent censurés sont presque toujours des négationnistes qui veulent faire passer une haine pour une opinion.",
+    "indecis": "Se méfier d'une loi qui touche à l'histoire, c'est légitime, et de grands historiens l'ont fait. Mais la loi Gayssot ne vise que la négation de crimes contre l'humanité déjà jugés, pas la recherche. On peut débattre de l'outil pénal sans croire qu'on « ne peut plus rien dire » sur l'histoire."
+  },
+  "lecture": {
+    "valeurs": [
+      "antifascisme",
+      "antiracisme",
+      "libertes"
+    ],
+    "mecanismes": "Les négationnistes se présentent en victimes de la censure pour faire passer la négation d’un crime prouvé pour une opinion. La critique sincère des lois mémorielles par des historiens leur sert de caution.",
+    "consequences": "La négation de la Shoah blesse les survivants et leurs descendants, réhabilite le nazisme et alimente l’antisémitisme contemporain.",
+    "democratie": "La liberté d’expression est un pilier démocratique, mais elle ne protège pas l’incitation à la haine. Les juges français et européens tracent cette limite de façon étroite, et le débat sur l’outil pénal reste ouvert.",
+    "propositions": [
+      "Garantir la liberté de la recherche historique et le financement des archives et de l’enseignement de l’histoire.",
+      "Préférer l’éducation et la transmission aux nouvelles lois sur l’histoire, tout en maintenant la répression de l’incitation à la haine."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des historiens de premier plan ont demandé l’abrogation des lois mémorielles, loi Gayssot comprise.",
+        "integration": "Ce débat est légitime à gauche comme ailleurs ; il porte sur l’outil pénal, pas sur la réalité des crimes."
+      },
+      {
+        "fait": "La Cour européenne a protégé dans une autre affaire la contestation de la qualification d’un génocide.",
+        "integration": "La frontière dépend du contexte ; elle reste nette pour la négation de la Shoah, jugée comme une incitation à la haine."
+      }
+    ]
+  },
+  "concepts": [
+    "liberte_expression"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "peut plus rien dire",
+    "liberte d expression",
+    "politiquement correct",
+    "on se fait traiter"
+  ]
+}

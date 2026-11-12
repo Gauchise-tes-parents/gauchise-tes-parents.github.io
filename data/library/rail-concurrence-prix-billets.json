@@ -1,0 +1,244 @@
+{
+  "id": "rail-concurrence-prix-billets",
+  "type": "idee_recue",
+  "affirmation": "Il faut ouvrir le rail à la concurrence, ça fera baisser le prix des billets de train.",
+  "volet": "economie",
+  "sous_theme": "Services publics",
+  "rubriques": [],
+  "mots_cles": [
+    "concurrence rail",
+    "ouverture a la concurrence sncf",
+    "trenitalia prix",
+    "prix billets de train",
+    "concurrence ferroviaire",
+    "privatisation sncf",
+    "ouigo iryo espagne",
+    "baisse des tarifs ferroviaires",
+    "monopole de la sncf"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur comme règle générale. Sur quelques grandes lignes à grande vitesse très fréquentées, la concurrence a bien fait baisser les prix : plus de 10 % sur Paris-Lyon selon le régulateur, et jusqu'à 31 % à 45 % en Espagne selon les lignes et le mode de calcul. Mais ces baisses restent limitées aux lignes rentables, la concurrence ne touche que 2 % du marché français, et les prix remontent quand des opérateurs se retirent. En Italie, l'effet sur les prix s'est estompé. Au Royaume-Uni, des décennies de privatisation ont fini par une renationalisation.",
+  "contexte": "L'ouverture du rail à la concurrence est imposée par le droit européen et présentée comme la façon de faire baisser les prix. En France, elle a commencé en décembre 2020 pour les TGV et se généralise pour les TER.",
+  "explication": "Il faut regarder les bilans du régulateur français (ART), les données espagnoles, la recherche sur l'Italie et l'expérience britannique, en distinguant les lignes rentables du reste du réseau.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : selon l'ART, le prix moyen sur Paris-Lyon était en 2024 inférieur de plus de 10 % à son niveau d'avant la concurrence, et le trafic y dépassait de plus de 20 % celui de 2019.",
+      "periode": "2019-2024",
+      "perimetre": "Paris-Lyon",
+      "explication": "Sur une grande ligne très fréquentée, l'arrivée de Trenitalia a réellement fait baisser les prix.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "10 %"
+    },
+    {
+      "fait": "Fait défavorable : selon le régulateur espagnol, fin 2025, Madrid-Valence était 32 % moins cher qu'avant la libéralisation (45 % en tenant compte de l'inflation) et le corridor sud 31 % moins cher.",
+      "periode": "2020-2025",
+      "perimetre": "Espagne, grande vitesse",
+      "explication": "En Espagne, la concurrence entre Renfe, Ouigo et Iryo a fortement fait baisser les prix sur les grandes lignes.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "32 %"
+    },
+    {
+      "fait": "Selon le même régulateur espagnol, les prix sur Madrid-Barcelone ont augmenté de 36 % en un an fin 2025, après la suppression de services à bas prix de Renfe ; ils n'étaient plus que 7 % moins chers qu'avant la libéralisation.",
+      "periode": "2024-2025",
+      "perimetre": "Madrid-Barcelone",
+      "explication": "Les baisses ne sont pas acquises : quand l'offre se réduit, les prix remontent vite.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "36 %"
+    },
+    {
+      "fait": "Selon l'ART, la concurrence entre services ferroviaires commerciaux est « limitée à 2 % du marché national » en 2025, et Trenitalia reste déficitaire en France.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La concurrence ne concerne que quelques lignes rentables ; la grande majorité des voyageurs n'en voit pas l'effet.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2 %"
+    },
+    {
+      "fait": "Selon l'ART, sur l'ensemble des TGV et trains commerciaux, les prix effectifs ont augmenté de 2 % en 2024 et de 7 % depuis 2019, soit une baisse en termes réels.",
+      "periode": "2019-2024",
+      "perimetre": "France",
+      "explication": "Les prix dépendent surtout de l'inflation, des péages et du nombre de trains, pas seulement de la concurrence.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En Italie, des chercheurs du Politecnico di Milano constatent que l'arrivée d'Italo n'a plus d'effet sur les prix et qu'en 2019 les deux opérateurs ont réaligné leurs prix à la hausse.",
+      "periode": "2012-2020",
+      "perimetre": "Italie, grande vitesse",
+      "explication": "Après une guerre des prix, les opérateurs peuvent s'ajuster et les baisses s'effacer.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Au Royaume-Uni, après des décennies de privatisation, le gouvernement ramène les compagnies ferroviaires dans le giron public, crée l'entreprise publique Great British Railways et gèle les tarifs réglementés pour la première fois en 30 ans.",
+      "periode": "2026",
+      "perimetre": "Angleterre",
+      "explication": "Le pays pionnier de la privatisation fait marche arrière.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une analyse juridique, les péages ferroviaires représentent 35 à 40 % du prix d'un billet de TGV, et les nouveaux entrants ont obtenu des péages réduits pour leurs trois premières années.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Une partie des prix bas des nouveaux venus vient d'avantages temporaires, pas d'une meilleure efficacité.",
+      "source": 6,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Sur Paris-Lyon ou Madrid-Valence, la concurrence a bien fait baisser les prix. Mais elle ne concerne que quelques lignes rentables, 2 % du marché français, et les prix remontent quand un opérateur se retire. Ce qui fait vraiment baisser les prix, c'est plus de trains et des péages moins chers.",
+    "moyen": "La concurrence a des effets réels sur les lignes très fréquentées. Selon le régulateur, le prix moyen sur Paris-Lyon était en 2024 plus de 10 % sous son niveau d'avant l'arrivée de Trenitalia. En Espagne, certaines lignes sont devenues bien moins chères. Mais ces lignes sont les seules rentables : en France, la concurrence ne touche que 2 % du marché, et Trenitalia perd encore de l'argent.\n\nLes baisses sont fragiles. En Espagne, les prix de Madrid-Barcelone ont bondi de 36 % en un an quand Renfe a supprimé des trains à bas prix. En Italie, l'effet de l'arrivée d'Italo sur les prix a disparu. Au Royaume-Uni, la privatisation a fini en renationalisation. Le prix d'un billet dépend surtout du nombre de trains, des péages et de l'argent public investi.",
+    "detaille": "L'argument a une base réelle. Depuis l'arrivée de Trenitalia sur Paris-Lyon, le prix moyen a baissé de plus de 10 % par rapport à avant l'ouverture, et le trafic dépasse de plus de 20 % celui de 2019, selon l'Autorité de régulation des transports. En Espagne, l'arrivée de Ouigo et Iryo a fait chuter les prix : Madrid-Valence est 32 % moins cher qu'avant la libéralisation, le corridor sud 31 %.\n\nMais ces résultats concernent quelques grandes lignes à grande vitesse, les seules où plusieurs entreprises peuvent gagner de l'argent. En France, la concurrence ne porte que sur 2 % du marché national, et Trenitalia reste déficitaire. Ailleurs, sur les petites lignes et les TER, il n'y a pas de concurrence sur les prix : ce sont les régions qui fixent les tarifs, et l'usager ne paie qu'environ un quart du coût. Sur l'ensemble des TGV, les prix ont augmenté de 7 % depuis 2019.\n\nSurtout, les baisses ne durent pas forcément. À Madrid-Barcelone, les prix ont bondi de 36 % en un an quand Renfe a supprimé des trains à bas prix. En Italie, des chercheurs constatent que l'arrivée d'Italo n'a plus d'effet sur les prix et que les deux opérateurs ont remonté leurs tarifs. Au Royaume-Uni, des décennies de privatisation ont abouti à un retour au public et à un gel des tarifs, le premier en 30 ans. Le vrai levier, c'est le nombre de trains disponibles, le niveau des péages et l'investissement public dans le réseau.",
+    "empathie": "Le train coûte souvent cher, et on comprend que les voyageurs cherchent une solution pour payer moins. Il est légitime de se demander si la concurrence peut aider."
+  },
+  "contre_arguments": [
+    {
+      "objection": "En Espagne, les prix ont baissé de moitié grâce à la concurrence.",
+      "reponse": "C'est vrai sur certaines grandes lignes. Mais les prix y remontent déjà quand l'offre se réduit, comme sur Madrid-Barcelone, et seules les lignes très fréquentées en profitent."
+    },
+    {
+      "objection": "Le monopole de la SNCF, c'est ce qui rend le train cher.",
+      "reponse": "Les péages représentent une grande part du prix d'un TGV, et la SNCF manque de trains. Sans investissements dans le réseau et le matériel, changer d'opérateur ne suffit pas."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle part du marché ferroviaire français est réellement en concurrence aujourd'hui ?",
+    "Qui va faire rouler les trains sur les petites lignes qui ne rapportent pas d'argent ?"
+  ],
+  "limites": [
+    "Les chiffres 2025 de l'ART sont provisoires.",
+    "Les prix espagnols sont mesurés par la recette moyenne par voyageur-km, pas par le prix affiché des billets.",
+    "L'étude italienne est un document de travail de 2020 qui ne couvre pas les années récentes.",
+    "Aucune source n'a été lue sur le niveau comparé des tarifs britanniques ; on s'en tient au gel des tarifs et à la renationalisation."
+  ],
+  "sources": [
+    {
+      "titre": "Le marché français du transport ferroviaire en 2024 — L'essentiel",
+      "organisme": "Autorité de régulation des transports (ART, autorité publique indépendante)",
+      "date_publication": "décembre 2025",
+      "url": "https://www.autorite-transports.fr/wp-content/uploads/2025/12/bilan-ferroviaire-2024-essentiel-002.pdf",
+      "passage": "Sur Paris-Lyon, le prix moyen est « inférieur en 2024 de plus de 10 % au niveau observé avant l'ouverture à la concurrence », et le trafic « a dépassé en 2024 de plus de 20 % le niveau de 2019 ». L'axe Sud-Est est le seul axe intérieur avec une concurrence à grande vitesse. Pour l'ensemble des services librement organisés, les prix effectifs « ont augmenté de 2 % en moyenne en 2024 » et de 7 % depuis 2019 (baisse de 9 % en termes réels). En 2024, SNCF Voyageurs (inOui et Ouigo) détient « près de 85 % de part de marché » ; Trenitalia France et Renfe Viajeros moins de 1 % chacun. Les redevances d'infrastructure atteignent 7,4 milliards d'euros. TER : « À fin 2025, 12 lots conventionnés (sur plus de 50 prévus) ont été attribués ».",
+      "pertinence": "Bilan annuel du régulateur public du secteur ferroviaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Marché français du transport ferroviaire — Premiers chiffres 2025",
+      "organisme": "Autorité de régulation des transports (ART, autorité publique indépendante)",
+      "date_publication": "juin 2026",
+      "url": "https://www.autorite-transports.fr/wp-content/uploads/2026/06/art-bilan-ferroviaire-france-premiers-chiffres-2025.pdf",
+      "passage": "La concurrence entre services librement organisés reste « limitée à 2 % du marché national ». Trenitalia a un taux d'occupation intérieur inférieur de plus de 10 points à la moyenne et son activité en France « reste ainsi encore déficitaire en 2025 ». La concurrence sur Paris-Lyon et Paris-Marseille a augmenté l'offre de fréquences de plus de 20 %. Pour les contrats régionaux attribués à mi-2026, SNCF Voyageurs a remporté 86,3 % des trains-km, RATP 9,3 % et Transdev 4,4 %. Chiffres provisoires.",
+      "pertinence": "Premiers chiffres du régulateur public, provisoires.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "En el último trimestre de 2025 el corredor Madrid-Barcelona perdió pasajeros por primera vez desde la liberalización",
+      "organisme": "CNMC, régulateur public espagnol de la concurrence et des marchés (Comisión Nacional de los Mercados y la Competencia)",
+      "date_publication": "25 mars 2026",
+      "url": "https://www.cnmc.es/eu/node/419338?back=news",
+      "passage": "Prix mesurés par la recette moyenne par voyageur-km. Au quatrième trimestre 2025, les prix moyens ont augmenté sur un an de 36 % sur Madrid-Barcelone et de 23 % sur Madrid-Valence ; « Sin embargo, fueron un 7 % y un 32 % más baratos, respectivamente, que antes de la liberalización » (24 % et 45 % moins chers en tenant compte de l'inflation). Sur le corridor sud, les prix ont baissé de 10 % sur un an et étaient 31 % moins chers qu'avant la libéralisation. Sur Madrid-Barcelone, la demande a baissé de 13 % après la suppression de services Avlo de Renfe ; Ouigo y atteint 19 % des voyageurs et Iryo 24 %.",
+      "pertinence": "Communiqué du régulateur public espagnol (document non officiel destiné aux médias).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Are prices reduced from direct competition in high-speed rail? Some unexpected evidences from Italy",
+      "organisme": "Paolo Beria, Samuel Tolentino (Politecnico di Milano) et Gabriele Filippini — document de travail, archive MPRA de l’université de Munich",
+      "date_publication": "27 février 2020",
+      "url": "https://mpra.ub.uni-muenchen.de/98841/1/MPRA_paper_98841.pdf",
+      "passage": "Les premières études après l'arrivée d'Italo (NTV) en Italie relevaient des baisses de prix d'environ 31 % à 43 %. Mais les auteurs constatent qu'« there isn't (anymore) an entry effect of NTV/Italo on prices » et que « 2019 saw a consistent realignment of prices to a higher level than 2017-2018 » pour les deux opérateurs. Milan-Rome est desservie 175 fois par jour en 2020. Les auteurs ne peuvent pas démontrer l'existence d'une entente et n'ont pas de scénario de comparaison sans concurrence.",
+      "pertinence": "Document de travail universitaire (non publié dans une revue à cette date).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Passengers save millions as rail fare freeze starts",
+      "organisme": "Department for Transport (ministère britannique des Transports)",
+      "date_publication": "2 mars 2026",
+      "url": "https://dft-newsroom.prgloo.com/news/passengers-save-millions-as-rail-fare-freeze-starts",
+      "passage": "Les tarifs ferroviaires réglementés en Angleterre sont gelés « for the first time in 30 years » ; sans gel, ils auraient augmenté de 5,8 %. Économie attendue : 600 millions de livres en 2026-2027. La ministre Heidi Alexander : « As we bring the train operating companies into public ownership, and set up Great British Railways ». Great British Railways sera une nouvelle entreprise publique chargée des voies et des trains.",
+      "pertinence": "Communiqué officiel du gouvernement britannique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Coût des billets, amélioration des dessertes… De nombreux défis restent à relever sept ans après la loi ouvrant le train à la concurrence",
+      "organisme": "Clarisse Guibert, Public Sénat",
+      "date_publication": "29 janvier 2025",
+      "url": "https://www.publicsenat.fr/actualites/economie/cout-des-billets-amelioration-des-dessertesde-nombreux-defis-restent-a-relever-sept-ans-apres-ladoption-de-la-loi-ouvrant-le-train-a-la-concurrence",
+      "passage": "Table ronde au Sénat sur le nouveau pacte ferroviaire de 2018. Le PDG de SNCF Voyageurs admet une hausse de 8 % des billets TGV « depuis cinq ans » ; un sénateur relève une baisse de 10 % des prix sur Paris-Lyon depuis l'arrivée de Trenitalia et s'inquiète de sa durée. Le PDG explique : « C'est parce que je n'ai pas de trains que je ne peux pas faire plus de dessertes ». La directrice de la stratégie de Renfe : « l'ouverture à la concurrence n'est pas sans défi ».",
+      "pertinence": "Chaîne parlementaire ; déclarations d'acteurs.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Transports ferroviaires : la concurrence fait-elle vraiment baisser les prix ?",
+      "organisme": "Aurore Laget-Annamayer (Université Paris Dauphine-PSL), Le Club des juristes",
+      "date_publication": "8 avril 2024",
+      "url": "https://www.leclubdesjuristes.com/societe/transports-ferroviaire-la-concurrence-fait-elle-vraiment-baisser-les-prix-5600/",
+      "passage": "Selon le rapport 2022 de l'ART, les prix ont baissé de 10 % sur Paris-Lyon en 2022 après l'arrivée de Trenitalia. Les redevances d'infrastructure, parmi les plus élevées d'Europe, représentent 35 à 40 % du prix du billet des services librement organisés ; les nouveaux entrants ont négocié des redevances réduites pour leurs trois premières années. Sur les TER, l'usager ne paie que « 25% du prix du billet ». SNCF Voyageurs a retiré près de 200 rames TGV en dix ans et n'en a remplacé qu'environ la moitié. Ouverture à la concurrence des services commerciaux le 12 décembre 2020 ; arrivée de Trenitalia le 18 décembre 2021.",
+      "pertinence": "Analyse juridique d'une professeure de droit public.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-02-28",
+  "raison_actualisation": "Bilan ferroviaire annuel de l'ART et nouvelles données espagnoles.",
+  "objections_legitimes": [
+    "Sur certaines grandes lignes, la concurrence a réellement fait baisser les prix et augmenté le nombre de trains.",
+    "La SNCF a augmenté ses prix TGV ces dernières années, et manque de rames.",
+    "L'ouverture à la concurrence est imposée par le droit européen."
+  ],
+  "publics": {
+    "convaincus": "Oui, sur Paris-Lyon, l'arrivée de Trenitalia a fait baisser les prix, c'est vrai. Mais ça ne concerne que quelques lignes rentables, 2 % du marché, et en Espagne les prix remontent déjà quand un concurrent se retire. Les Anglais, qui ont tout privatisé, sont en train de tout renationaliser : ce n'est pas un hasard.",
+    "indecis": "La concurrence a fait baisser les prix sur quelques grandes lignes, et c'est une bonne nouvelle pour ceux qui les prennent. Mais pour le TER de tous les jours ou les petites lignes, elle ne change pas grand-chose. Ce qui compte vraiment, c'est le nombre de trains, le prix des péages et l'investissement public."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite",
+      "travailleurs"
+    ],
+    "mecanismes": "La concurrence se concentre là où il y a de l’argent à gagner : les grandes lignes à grande vitesse très fréquentées. Les nouveaux venus y cassent les prix, souvent aidés par des péages réduits au départ, puis les tarifs remontent quand l’offre se resserre. Les petites lignes et les trains du quotidien, qui dépendent de l’argent public, restent à l’écart de cette « baisse des prix ».",
+    "consequences": "Le voyageur d’affaires entre deux métropoles peut y gagner ; l’habitant d’une petite ville, qui dépend d’un TER ou d’une ligne fragile, n’y gagne rien et risque de voir sa desserte fragilisée si les lignes rentables ne financent plus les autres.",
+    "democratie": "Le rail est un bien commun financé par tous. Le confier au marché ligne par ligne retire aux citoyens et à leurs élus la capacité de décider d’un réseau qui desserve tout le territoire.",
+    "propositions": [
+      "Investir massivement dans le réseau et le matériel roulant pour augmenter le nombre de trains, vrai levier de baisse des prix.",
+      "Baisser les péages ferroviaires en faisant financer l’infrastructure par l’État plutôt que par les voyageurs.",
+      "Maintenir un service public ferroviaire intégré qui garantisse la péréquation entre lignes rentables et lignes du quotidien."
+    ],
+    "defavorables": [
+      {
+        "fait": "Sur Paris-Lyon et sur plusieurs lignes espagnoles, la concurrence a réellement fait baisser les prix et augmenté le nombre de trains.",
+        "integration": "Il faut le reconnaître : plus de trains sur une ligne fait baisser les prix. La leçon n’est pas qu’il faut privatiser, mais qu’il faut plus de trains, ce qu’un service public correctement financé peut offrir partout."
+      }
+    ]
+  },
+  "concepts": [
+    "services_publics",
+    "rail_concurrence"
+  ],
+  "repond_a": [
+    {
+      "id": "rail_concurrence_q2013",
+      "label": "Concurrence dans le rail"
+    },
+    {
+      "id": "services_publics_q2013_rail_concurrence",
+      "label": "Concurrence dans le rail"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "rechauffement-moins-morts-froid",
+  "type": "idee_recue",
+  "affirmation": "Un peu de chaleur, ça ne fait pas de mal : le réchauffement fera moins de morts de froid.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "morts de froid",
+    "rechauffement moins de morts",
+    "le froid tue plus que la chaleur",
+    "un peu de chaleur ca fait pas de mal",
+    "rechauffement bon pour la sante",
+    "deces chaleur froid",
+    "canicule morts",
+    "hiver moins de morts",
+    "rechauffement climatique avantages"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. C'est vrai aujourd'hui : en Europe, le froid tue environ dix fois plus que la chaleur. Mais les projections scientifiques montrent que la hausse des morts dues à la chaleur dépassera largement la baisse des morts de froid : en Europe, plus de 2,3 millions de décès supplémentaires liés à la température d'ici 2099 sans forte baisse des émissions. Seuls certains pays du Nord y gagneraient un peu. En France, la chaleur tue déjà : plus de 5 700 décès lui sont attribuables pour le seul été 2025.",
+  "contexte": "Pour relativiser le réchauffement climatique, on entend souvent qu'il aurait des avantages, notamment des hivers plus doux qui sauveraient des vies.",
+  "explication": "Il faut comparer ce qui se passe aujourd'hui (le froid tue plus que la chaleur) avec ce qui changera quand les températures monteront, et regarder qui y gagne et qui y perd.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : aujourd'hui, le froid tue bien plus que la chaleur en Europe. Dans 854 villes, de 2000 à 2019, une étude estime 203 620 décès par an liés au froid contre 20 173 liés à la chaleur.",
+      "periode": "2000-2019",
+      "perimetre": "Europe (854 villes)",
+      "explication": "Le point de départ de l'argument est exact : il ne faut pas le nier.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "203 620"
+    },
+    {
+      "fait": "Avec le changement climatique, la hausse des décès dus à la chaleur dépasse la baisse des décès dus au froid dans tous les scénarios étudiés sans adaptation ; dans un scénario de faible action, l'étude estime 2 345 410 décès liés au changement climatique en Europe de 2015 à 2099.",
+      "periode": "2015-2099",
+      "perimetre": "Europe (854 villes)",
+      "explication": "Le gain sur le froid ne compense pas la perte sur la chaleur.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "2 345 410"
+    },
+    {
+      "fait": "Selon l'équipe de l'étude, la plupart des villes britanniques et scandinaves pourraient voir une baisse nette, mais Marseille (51 306 décès supplémentaires projetés) et Paris (13 515) une hausse nette d'ici 2099.",
+      "periode": "jusqu'à 2099",
+      "perimetre": "Europe, France",
+      "explication": "Pour la France, le bilan net est négatif ; ce sont surtout le Sud et l'Est de l'Europe qui paieront.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "51 306"
+    },
+    {
+      "fait": "En France, plus de 5 700 décès sont attribuables à la chaleur pendant l'été 2025, troisième été le plus chaud depuis 1900 ; près des trois quarts concernent les 75 ans et plus.",
+      "periode": "été 2025",
+      "perimetre": "France",
+      "explication": "La chaleur tue déjà, chaque été, et surtout les plus fragiles.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "5 700"
+    },
+    {
+      "fait": "De 2014 à 2022, environ 33 000 décès ont été liés à la chaleur en France métropolitaine, entre 1 000 et 7 000 par an ; 28 % sont survenus pendant les canicules, qui ne représentent que 6 % des jours.",
+      "periode": "2014-2022",
+      "perimetre": "France métropolitaine",
+      "explication": "La chaleur tue aussi en dehors des canicules spectaculaires.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "33 000"
+    },
+    {
+      "fait": "D'après une analyse rapide de l'été 2025, environ 16 500 des 24 400 décès liés à la chaleur estimés dans 854 villes européennes sont attribuables au changement climatique, dont 1 444 en France.",
+      "periode": "été 2025",
+      "perimetre": "Europe (854 villes)",
+      "explication": "Le réchauffement ajoute déjà des morts, maintenant.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "16 500"
+    },
+    {
+      "fait": "Fait défavorable : ces chiffres sont des estimations de modèles, avec de larges marges d'incertitude ; l'analyse de l'été 2025 est une analyse rapide, et les projections dépendent beaucoup de l'adaptation future.",
+      "periode": "2015-2099",
+      "perimetre": "Europe",
+      "explication": "Les ordres de grandeur sont solides, les chiffres précis ne le sont pas.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Aujourd'hui, le froid tue plus que la chaleur en Europe, c'est vrai. Mais avec le réchauffement, les morts de chaleur augmenteront bien plus que les morts de froid ne baisseront : plus de 2,3 millions de décès supplémentaires en Europe d'ici 2099 sans action forte. En France, la chaleur a déjà causé plus de 5 700 décès pendant l'été 2025.",
+    "moyen": "Le point de départ est exact : dans 854 villes européennes, de 2000 à 2019, on estime 203 620 décès par an liés au froid contre 20 173 liés à la chaleur. Des hivers plus doux sauveront des vies.\n\nMais les scientifiques ont fait le calcul complet : la hausse des décès dus à la chaleur dépassera la baisse des décès dus au froid. Sans forte baisse des émissions, on estime plus de 2,3 millions de décès supplémentaires en Europe d'ici 2099. Seules les villes du Nord y gagneraient un peu ; Marseille et Paris y perdraient. En France, la chaleur tue déjà : environ 33 000 décès de 2014 à 2022, et plus de 5 700 pour le seul été 2025.",
+    "detaille": "Il faut d'abord reconnaître ce qui est vrai. En Europe, le froid tue aujourd'hui environ dix fois plus que la chaleur : une grande étude parue dans The Lancet Planetary Health estime 203 620 décès par an liés au froid, contre 20 173 liés à la chaleur, dans 854 villes entre 2000 et 2019. Des hivers plus doux éviteront donc des décès.\n\nMais la même équipe a calculé ce qui se passera quand les températures monteront. Résultat : sans adaptation, la hausse des morts de chaleur dépasse la baisse des morts de froid dans tous les scénarios. Dans un scénario de faible action, on arrive à 2 345 410 décès liés au changement climatique en Europe de 2015 à 2099. Le bilan n'est légèrement positif que dans le Nord de l'Europe ; il est lourd en Méditerranée et en Europe de l'Est. Pour Marseille, l'étude projette 51 306 décès supplémentaires, pour Paris 13 515.\n\nEn France, la chaleur tue déjà. Santé publique France estime environ 33 000 décès liés à la chaleur de 2014 à 2022, et plus de 5 700 pour l'été 2025, dont près des trois quarts chez les 75 ans et plus. Une analyse rapide attribue 1 444 morts de l'été 2025 en France au seul changement climatique. Ce sont des estimations, avec des marges d'erreur, mais elles vont toutes dans le même sens : « un peu de chaleur » coûtera beaucoup de vies, surtout chez les personnes âgées, les travailleurs exposés et les mal-logés.",
+    "empathie": "L'hiver est dur pour beaucoup de gens, surtout âgés ou mal chauffés : l'idée que des hivers plus doux soulagent est compréhensible. C'est justement pour ça qu'il faut regarder le bilan complet."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le froid tue dix fois plus, donc le réchauffement est une bonne affaire.",
+      "reponse": "Aujourd'hui oui. Mais les mêmes chercheurs montrent que, quand il fait plus chaud, les décès de chaleur augmentent plus vite que ceux du froid ne baissent : le bilan européen devient négatif."
+    },
+    {
+      "objection": "On s'adaptera, avec la climatisation.",
+      "reponse": "L'adaptation réduit les décès, mais l'étude montre que même avec une forte adaptation, le bilan reste négatif dans un scénario de faible baisse des émissions. Et tout le monde n'a pas les moyens de se climatiser."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de décès ont été attribués à la chaleur en France pendant l'été 2025 ?",
+    "Qui souffre le plus des canicules dans ton entourage : les personnes âgées, ceux qui travaillent dehors, ceux qui vivent sous les toits ?"
+  ],
+  "limites": [
+    "Les études de 2023 et 2025 ont été lues à travers leurs résumés sur le dépôt de l'université (LSHTM), pas en texte intégral.",
+    "L'analyse de l'été 2025 (16 500 décès) est une analyse rapide, pas une étude évaluée par les pairs.",
+    "Le rapport de Santé publique France sur l'été 2025 ne donne pas de comparaison avec 2003 ou 2022.",
+    "La page de l'éditeur de l'étude de 2023 (dépôt de l'université Pompeu Fabra) n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Excess mortality attributed to heat and cold: a health impact assessment study in 854 cities in Europe (The Lancet Planetary Health, vol. 7, n° 4)",
+      "organisme": "Masselot et al., London School of Hygiene & Tropical Medicine (université de Londres), dépôt LSHTM Research Online",
+      "date_publication": "2023",
+      "url": "https://researchonline.lshtm.ac.uk/4669282",
+      "passage": "Étude de 854 zones urbaines européennes, données du 1er janvier 2000 au 12 décembre 2019. Le froid est associé à « an annual excess of 203 620 » décès (IC 95 % : 180 882–224 613), la chaleur à 20 173 décès par an (17 261–22 934) : environ dix décès liés au froid pour un lié à la chaleur.",
+      "pertinence": "Étude évaluée par les pairs, revue de référence.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Estimating future heat-related and cold-related mortality under climate change, demographic and adaptation scenarios in 854 European cities (Nature Medicine, 31(4), p. 1294-1302)",
+      "organisme": "Masselot et al., London School of Hygiene & Tropical Medicine (université de Londres), dépôt LSHTM Research Online",
+      "date_publication": "2025",
+      "url": "https://researchonline.lshtm.ac.uk/4674939",
+      "passage": "Dans le scénario SSP3-7.0 (faible atténuation et adaptation), l'étude estime 2 345 410 décès liés au changement climatique de 2015 à 2099 (IC 95 % : 327 603 à 4 775 853). Sans adaptation à la chaleur, la hausse des décès dus à la chaleur dépasse la baisse des décès dus au froid dans tous les scénarios. Les pays d'Europe du Nord connaissent une légère baisse nette ; la Méditerranée et l'Europe de l'Est sont très vulnérables.",
+      "pertinence": "Étude évaluée par les pairs (Nature Medicine).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Climate study: rise in heat deaths will substantially outweigh fewer cold deaths",
+      "organisme": "London School of Hygiene & Tropical Medicine (université de Londres)",
+      "date_publication": "2025 (page consultée le 12 novembre 2026)",
+      "url": "https://www.lshtm.ac.uk/newsevents/news/2025/climate-study-rise-heat-deaths-will-substantially-outweigh-fewer-cold-deaths",
+      "passage": "Présentation de l'étude de Nature Medicine : plus de 2,3 millions de décès supplémentaires liés à la température d'ici 2099 dans 854 villes européennes si les émissions ne sont pas réduites ; jusqu'à 70 % pourraient être évités. Selon Antonio Gasparrini, « the steep rise in heat-related deaths will far exceed any drop related to cold ». Hausse nette projetée à Marseille (51 306) et Paris (13 515) ; baisse nette dans la plupart des villes britanniques et scandinaves (Londres : -27 455).",
+      "pertinence": "Communiqué de l'université qui a mené l'étude.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Chaleur et santé. Bilan de l'été 2025",
+      "organisme": "Santé publique France",
+      "date_publication": "26 février 2026",
+      "url": "https://www.santepubliquefrance.fr/determinants-de-sante/climat/fortes-chaleurs-canicule/documents/bulletin-national/chaleur-et-sante.-bilan-de-l-ete-2025",
+      "passage": "« Plus de 5 700 décès sont attribuables à une exposition de la population à la chaleur » sur l'été, soit plus de 3 % de la mortalité ; « Pendant les épisodes de canicules, plus de 1 900 décès sont attribuables ». « La France a connu 4 épisodes de canicules dont 2 remarquables. » Près des trois quarts des décès concernent les 75 ans et plus. 9 accidents du travail mortels possiblement liés à la chaleur. « L'été 2025 se classe comme le 3e été le plus chaud depuis 1900. »",
+      "pertinence": "Agence nationale de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fortes chaleurs et canicule : un impact sur la mortalité important nécessitant le renforcement de la prévention et de l'adaptation au changement climatique",
+      "organisme": "Santé publique France (communiqué de presse)",
+      "date_publication": "23 juin 2023",
+      "url": "https://www.santepubliquefrance.fr/presse/2023/fortes-chaleurs-et-canicule-un-impact-sur-la-mortalite-important-necessitant-le-renforcement-de-la-prevention-et-de-l-adaptation-au-changement-cl",
+      "passage": "En France métropolitaine, du 1er juin au 15 septembre, de 2014 à 2022 : environ 33 000 décès liés à la chaleur, dont environ 23 000 chez les 75 ans et plus ; entre 1 000 et 7 000 décès par an selon les étés. 28 % des décès surviennent pendant les canicules, qui ne représentent que 6 % des jours étudiés : « l'impact de la chaleur n'est pas limité aux périodes les plus extrêmes ». Selon Météo-France, les canicules de 2022 auraient été « hautement improbables et nettement moins intenses sans l'effet du changement climatique ».",
+      "pertinence": "Agence nationale de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Climate change-driven summer heat caused 16,500 additional deaths across Europe",
+      "organisme": "London School of Hygiene & Tropical Medicine et Imperial College (université de Londres)",
+      "date_publication": "septembre 2025 (page consultée le 12 novembre 2026)",
+      "url": "https://www.lshtm.ac.uk/newsevents/news/2025/climate-change-driven-summer-heat-caused-16500-additional-deaths-across-europe",
+      "passage": "Analyse rapide de l'été 2025 dans 854 villes européennes (environ 30 % de la population) : 24 400 décès liés à la chaleur estimés, dont environ 16 500 (environ 68 %) attribuables au changement climatique, qui a relevé les températures de 2,2 °C en moyenne. France : 1 444 décès attribués au changement climatique. Les auteurs signalent des limites (taux de décès quotidien supposé constant, estimation qui « may underestimate the true burden of heat »).",
+      "pertinence": "Analyse rapide d'équipes universitaires, fondée sur des méthodes publiées ; pas encore une étude évaluée par les pairs.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Bilan de l'été 2026 de Santé publique France et nouvelles projections.",
+  "objections_legitimes": [
+    "Le froid tue aujourd'hui davantage que la chaleur en Europe.",
+    "Des hivers plus doux éviteront effectivement des décès, surtout dans le Nord de l'Europe.",
+    "Les projections reposent sur des modèles et comportent des incertitudes."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : aujourd'hui, le froid tue plus que la chaleur. Mais les chercheurs qui ont établi ce chiffre ont aussi calculé la suite : avec le réchauffement, les morts de chaleur augmentent beaucoup plus que les morts de froid ne baissent. Pour Marseille ou Paris, le bilan est négatif ; seuls Londres ou les villes scandinaves y gagneraient.",
+    "indecis": "Il est vrai que des hivers plus doux sauveront des vies. Mais en France, la chaleur a déjà causé plus de 5 700 décès pendant l'été 2025, surtout chez les plus âgés. Les études européennes montrent que le bilan du réchauffement sera nettement négatif : mieux vaut s'y préparer et réduire les émissions."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "solidarite",
+      "internationalisme"
+    ],
+    "mecanismes": "L’argument isole un seul effet du réchauffement, le recul du froid, et oublie l’autre, la hausse de la chaleur, qui pèse davantage. Il transforme une projection collective défavorable en confort individuel apparent.",
+    "consequences": "Les morts de chaleur frappent d’abord les personnes âgées, les malades, les travailleurs exposés en extérieur et les ménages mal logés sous les toits ; les régions du Sud et de l’Est de l’Europe paient plus que celles du Nord.",
+    "democratie": "Minimiser les dégâts du réchauffement retarde les décisions collectives d’adaptation et de réduction des émissions, dont le coût retombe ensuite sur ceux qui ont le moins de moyens de se protéger.",
+    "propositions": [
+      "Rénover en priorité les logements des ménages modestes pour qu’ils restent vivables l’été comme l’hiver.",
+      "Protéger les travailleurs exposés à la chaleur par des règles contraignantes d’horaires et d’arrêt de travail.",
+      "Accélérer la baisse des émissions, seule manière de limiter la hausse des morts de chaleur."
+    ],
+    "defavorables": [
+      {
+        "fait": "Aujourd’hui, le froid tue nettement plus que la chaleur en Europe, et des hivers plus doux éviteront des décès.",
+        "integration": "Le reconnaître renforce l’argument : ce sont les mêmes chercheurs qui montrent que la hausse des morts de chaleur dépassera ce gain."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "climat_origine"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ]
+}

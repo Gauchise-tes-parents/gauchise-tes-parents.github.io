@@ -1,0 +1,208 @@
+{
+  "id": "pistes-cyclables-paris-embouteillages",
+  "type": "idee_recue",
+  "affirmation": "Les pistes cyclables d'Hidalgo ont créé les embouteillages à Paris.",
+  "volet": "ecologie",
+  "sous_theme": "Transports",
+  "rubriques": [],
+  "mots_cles": [
+    "pistes cyclables paris",
+    "hidalgo velo",
+    "embouteillages paris",
+    "bouchons paris",
+    "paris voiture",
+    "coronapistes",
+    "circulation paris",
+    "velo paris",
+    "hidalgo bouchons",
+    "paris anti voiture"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Trompeur, mais pas sans fondement. Il y a beaucoup moins de voitures dans Paris : selon la Ville, la circulation a baissé de 60 % depuis 2002. Mais la vitesse moyenne a aussi baissé, à 9,6 km/h en 2025, car l'espace laissé aux voitures a été réduit (pistes, couloirs de bus, trottoirs, travaux). Les pistes cyclables ne créent donc pas plus de voitures : elles redistribuent la rue. Et dans Paris, on se déplace désormais plus à vélo qu'en voiture.",
+  "contexte": "Depuis les « coronapistes » de 2020, la politique cyclable de la municipalité parisienne est souvent accusée d'avoir provoqué les bouchons, notamment par les automobilistes venant de banlieue et les professionnels.",
+  "explication": "Il faut distinguer le nombre de voitures (la circulation), leur vitesse (la congestion), et regarder qui se déplace comment dans Paris, ainsi que les effets sur la pollution et sur les bus.",
+  "faits": [
+    {
+      "fait": "Selon les données de la Ville de Paris, la circulation automobile dans Paris intra-muros a baissé de 60 % depuis 2002 et de plus de 16 % depuis 2020 ; elle est stable en 2025.",
+      "periode": "2002-2025",
+      "perimetre": "Paris intra-muros",
+      "explication": "Il n'y a pas plus de voitures : il y en a beaucoup moins.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "60 %"
+    },
+    {
+      "fait": "Fait défavorable : selon la Ville de Paris, la vitesse moyenne des voitures est passée d'environ 16,6 km/h en 2002 à 9,6 km/h en 2025, en recul de 7,7 % sur un an.",
+      "periode": "2002-2025",
+      "perimetre": "Paris intra-muros",
+      "explication": "Les voitures restantes roulent plus lentement : la place qui leur est laissée a diminué plus vite que leur nombre.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "9,6 km/h"
+    },
+    {
+      "fait": "Selon l'Institut Paris Region, « les Parisiens utilisent plus le vélo que la voiture » ; d'après son enquête, 11,2 % des déplacements internes à Paris se font à vélo contre 4,3 % en voiture.",
+      "periode": "2022-2023",
+      "perimetre": "Paris",
+      "explication": "La rue est partagée entre des usagers dont la majorité ne roule pas en voiture.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "11,2 %"
+    },
+    {
+      "fait": "L'enquête de l'Institut Paris Region, menée par GPS d'octobre 2022 à avril 2023, indique que 30 % des déplacements à vélo d'Île-de-France sont faits par des Parisiens ; elle ne permet pas de mesurer une évolution par rapport aux enquêtes précédentes.",
+      "periode": "2022-2023",
+      "perimetre": "Île-de-France",
+      "explication": "Le vélo est devenu un mode de transport de masse dans Paris.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "30 %"
+    },
+    {
+      "fait": "Selon une étude d'Airparif, de 2012 à 2022, l'exposition des Parisiens au dioxyde d'azote a baissé de 40 % ; environ un quart de cette baisse vient de la diminution du trafic routier.",
+      "periode": "2012-2022",
+      "perimetre": "Paris",
+      "explication": "Moins de voitures, c'est un air plus sain, surtout pour les riverains des grands axes.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "40 %"
+    },
+    {
+      "fait": "Fait défavorable : selon Le Monde, la vitesse des bus à l'heure de pointe est tombée à 8,85 km/h en mars 2024, contre 15 km/h en 2000 ; la réduction de la place de la voiture a reporté le trafic sur les grands axes, et un ancien premier adjoint admet que le réseau cyclable « a pu être préjudiciable ».",
+      "periode": "2000-2024",
+      "perimetre": "Paris",
+      "explication": "La politique cyclable a eu des effets négatifs sur les bus, que la municipalité reconnaît elle-même.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "8,85 km/h"
+    }
+  ],
+  "argumentaires": {
+    "court": "Il y a beaucoup moins de voitures dans Paris : la circulation a baissé de 60 % depuis 2002 selon la Ville. Mais celles qui restent roulent plus lentement, car la rue a été redistribuée aux vélos, aux bus et aux piétons. Dans Paris, on se déplace désormais plus à vélo qu'en voiture.",
+    "moyen": "Les pistes cyclables n'ont pas fait venir plus de voitures : selon les données de la Ville, la circulation automobile dans Paris a baissé de 60 % depuis 2002. Mais la vitesse moyenne a aussi baissé, à 9,6 km/h en 2025. Ce n'est pas contradictoire : l'espace réservé aux voitures a été réduit encore plus vite que leur nombre.\n\nEn échange, le vélo est devenu un mode majeur : selon l'Institut Paris Region, 11,2 % des déplacements internes à Paris se font à vélo, contre 4,3 % en voiture. L'air s'est amélioré. Il faut pourtant reconnaître des effets négatifs : selon Le Monde, les bus sont ralentis par le report du trafic sur les grands axes, et la municipalité parle elle-même de « rééquilibrage ».",
+    "detaille": "Ce qu'on appelle « embouteillages » mélange deux choses : le nombre de voitures et leur vitesse. Le nombre a fortement baissé : selon les capteurs de la Ville de Paris, la circulation intra-muros a reculé de 60 % depuis 2002 et de plus de 16 % depuis 2020. Mais la vitesse moyenne aussi : environ 16,6 km/h en 2002, 9,6 km/h en 2025. Pourquoi ? Parce que la rue a été redistribuée : pistes cyclables, couloirs de bus, trottoirs élargis, sans oublier les nombreux chantiers. Les voitures restantes ont moins de place.\n\nCe choix a des bénéfices réels. Dans Paris, on se déplace désormais plus à vélo qu'en voiture : d'après l'Institut Paris Region, 11,2 % des déplacements internes se font à vélo contre 4,3 % en voiture, et plus de la moitié à pied. Selon Airparif, l'exposition des Parisiens au dioxyde d'azote a baissé de 40 % de 2012 à 2022, dont environ un quart grâce à la baisse du trafic.\n\nMais il faut être honnête sur les coûts. Les automobilistes qui n'ont pas d'alternative, souvent des banlieusards, des artisans ou des livreurs, perdent du temps. Et selon Le Monde, les bus ont été ralentis, à 8,85 km/h à l'heure de pointe en mars 2024 : un ancien adjoint reconnaît que le réseau cyclable « a pu être préjudiciable ». Le vrai débat n'est donc pas « vélo contre embouteillages », mais comment partager la rue sans sacrifier les bus et ceux qui n'ont pas d'autre choix que la voiture.",
+    "empathie": "Rester coincé dans les bouchons quand on vient travailler à Paris depuis la banlieue, c'est épuisant, surtout quand on n'a pas le choix. Cette colère est légitime et mérite une vraie réponse."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avant les pistes, ça roulait.",
+      "reponse": "En 2002, la vitesse moyenne était d'environ 16,6 km/h, avec deux fois et demie plus de voitures. Les bouchons parisiens ne datent pas des pistes cyclables ; ce qui a changé, c'est la place laissée à chaque mode."
+    },
+    {
+      "objection": "Personne ne prend le vélo, les pistes sont vides.",
+      "reponse": "D'après l'Institut Paris Region, il y a plus de déplacements à vélo qu'en voiture dans Paris, et le boulevard de Sébastopol voit passer plus de 15 000 cyclistes par jour selon la Ville."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'il y a aujourd'hui plus de déplacements à vélo qu'en voiture à l'intérieur de Paris ?",
+    "Qu'est-ce qui t'aiderait le plus : plus de place pour la voiture, ou de meilleurs transports en commun depuis la banlieue ?"
+  ],
+  "limites": [
+    "Les données de trafic et de vitesse viennent de la Ville de Paris, qui mène la politique évaluée.",
+    "Les parts modales de l'Institut Paris Region sont lues à travers un article de presse ; la page de l'Institut confirme le constat mais sans les pourcentages.",
+    "Aucune étude ne mesure séparément l'effet des pistes cyclables, des couloirs de bus, des travaux et des livraisons sur la vitesse.",
+    "L'article du Monde a été lu dans une reproduction publiée par la FNAUT ; l'étude d'Airparif a été lue à travers le résumé de Localtis.",
+    "Les pages de Reporterre et le rapport sur l'« évaporation du trafic » (HAL) n'ont pas pu être ouverts."
+  ],
+  "sources": [
+    {
+      "titre": "Comment se sont déplacés les Parisiens en 2025",
+      "organisme": "Ville de Paris (Observatoire parisien des mobilités)",
+      "date_publication": "3 novembre 2026",
+      "url": "https://www.paris.fr/pages/comment-se-sont-deplaces-les-parisiens-en-2025-35425",
+      "passage": "« La circulation automobile dans Paris intra-muros reste stable en 2025 » par rapport à 2024 ; elle a baissé de 60 % depuis 2002 et de plus de 16 % depuis 2020. « Avec 9,6 km/h, la vitesse moyenne annuelle passe pour la première fois sous la barre des 10 km/h » (près de 8 % de moins qu'en 2024). La circulation à vélo progresse de 7,9 % par rapport à 2024 et de 47 % par rapport à 2020 ; boulevard de Sébastopol, 15 596 cyclistes par jour.",
+      "pertinence": "Données de la municipalité, qui mène la politique évaluée : source à attribuer.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport annuel 2025 de l'Observatoire des mobilités : la circulation (fiche de 6 pages)",
+      "organisme": "Ville de Paris (Direction de la voirie et des déplacements)",
+      "date_publication": "juillet 2026",
+      "url": "https://cdn.paris.fr/paris/2026/07/15/paris_ra2025-circulation-6-pages-07-07-copie-ANS7.pdf",
+      "passage": "Volume de circulation intra-muros (réseau instrumenté, jours ouvrés) : environ 1 187 véh.km/h en 2002, 571 en 2020 et 478,9 en 2025 (478,4 en 2024). Vitesse moyenne : environ 16,6 km/h en 2002, 9,6 km/h en 2025, en recul de 7,7 % sur un an : « la vitesse de circulation passe en 2025 sous la barre symbolique des 10 km/h ». Le document n'attribue pas explicitement la baisse de vitesse à une cause.",
+      "pertinence": "Données de la municipalité : source à attribuer.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Enquête régionale sur la mobilité des Franciliens",
+      "organisme": "Institut Paris Region",
+      "date_publication": "4 avril 2024",
+      "url": "https://www.institutparisregion.fr/mobilite-et-transports/deplacements/enquete-regionale-sur-la-mobilite-des-franciliens/",
+      "passage": "Enquête par traceur GPS, données collectées entre octobre 2022 et avril 2023. « Les Parisiens utilisent plus le vélo que la voiture. » « 30 % des déplacements à vélo en Île-de-France sont effectués par les Parisiens ». La méthode diffère de l'enquête de 2018 : « Il ne s'agit pas de mesurer l'évolution de la mobilité ».",
+      "pertinence": "Agence d'urbanisme régionale (organisme public d'études).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les Parisiens se déplacent désormais plus à vélo qu'en voiture",
+      "organisme": "Le Bonbon (d'après l'Institut Paris Region)",
+      "date_publication": "11 avril 2024",
+      "url": "https://www.lebonbon.fr/paris/news/parisiens-deplacent-plus-velo-que-voiture/",
+      "passage": "D'après l'enquête de l'Institut Paris Region : « 11,2 % des déplacements intra-muros se font à vélo, contre 4,3 % en voiture » ; entre Paris et la petite couronne, plus de 18 % à vélo contre 6,6 % en voiture ; aux heures de pointe, 15 % à vélo contre 5 % en voiture ; la marche représente 53,5 % des déplacements.",
+      "pertinence": "Média local ; reprend les chiffres de l'Institut Paris Region.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La qualité de l'air à Paris s'est « largement améliorée » selon une étude d'Airparif",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "4 septembre 2025",
+      "url": "https://www.banquedesterritoires.fr/la-qualite-de-lair-paris-sest-largement-amelioree-selon-une-etude-dairparif",
+      "passage": "Étude d'Airparif publiée le 27 août 2025, période 2012-2022 : « une diminution moyenne de 40% des niveaux de dioxyde d'azote (NO2) » auxquels sont exposés les Parisiens et de 28 % pour les particules fines PM2.5. Environ un quart de la baisse du NO2 vient de la diminution du trafic routier, la moitié de la modernisation du parc. Les émissions de CO2 du trafic routier baissent de 35 %, dont les trois quarts sont liés à la réduction du trafic.",
+      "pertinence": "Média des collectivités résumant une étude de l'organisme agréé de surveillance de l'air.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les bus parisiens ralentis par la politique du « tout-vélo » de la Ville",
+      "organisme": "Hélène Bekmezian, Le Monde (reproduit par la FNAUT)",
+      "date_publication": "10 janvier 2025",
+      "url": "https://fnaut.fr/uploads/2025/01/Le-Monde-Les-bus-parisiens-ralentis-par-la-politique-du-tout-velo-de-la-Ville-10012025.pdf",
+      "passage": "Vitesse moyenne des bus à l'heure de pointe : 8,85 km/h en mars 2024, contre 9,54 km/h en janvier 2022 et 15 km/h en 2000 (chiffres RATP). Les « pertes externes restent à un niveau élevé » (embouteillages, déviations, travaux). Selon la Ville, 80 % des couloirs de bus sont partagés avec les vélos. La réduction de la place de la voiture a reporté le trafic sur les grands axes, où circulent les bus. Un ancien premier adjoint admet que le réseau cyclable « a pu être préjudiciable » ; l'adjoint aux transports parle d'un nécessaire « rééquilibrage ».",
+      "pertinence": "Quotidien de référence.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Rapport annuel 2026 de l'Observatoire des mobilités de la Ville de Paris.",
+  "objections_legitimes": [
+    "La vitesse moyenne des voitures dans Paris a fortement baissé.",
+    "Les bus ont été ralentis par certains aménagements, ce que la municipalité reconnaît.",
+    "Les artisans, livreurs et banlieusards sans transport en commun pratique subissent ces changements."
+  ],
+  "publics": {
+    "convaincus": "Il n'y a pas plus de voitures à Paris, il y en a beaucoup moins : moins 60 % depuis 2002 selon les capteurs de la Ville. Elles roulent plus lentement parce qu'elles ont moins de place, c'est vrai. Mais dans Paris, plus de gens se déplacent à vélo qu'en voiture : la rue a été partagée, pas confisquée.",
+    "indecis": "Les bouchons existent et pèsent surtout sur ceux qui n'ont pas d'alternative. Mais il circule beaucoup moins de voitures qu'avant, l'air est plus sain, et le vélo est devenu un vrai moyen de transport. Le débat utile, c'est comment mieux partager la rue, notamment avec les bus."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite",
+      "vulnerables"
+    ],
+    "mecanismes": "La rue est un espace limité. Donner plus de place au vélo, aux bus et aux piétons réduit celle des voitures : il y en a moins, mais elles roulent plus lentement. Le débat porte sur le partage de l’espace public, pas sur un complot contre les automobilistes.",
+    "consequences": "La baisse du trafic améliore l’air respiré par les riverains des grands axes, souvent les plus modestes ; mais les banlieusards sans transport en commun pratique, les artisans et les usagers du bus peuvent perdre du temps.",
+    "democratie": "Personnaliser le débat sur une élue évite de discuter des vrais choix : quelle place pour chaque mode de transport, et qui doit payer les transports collectifs.",
+    "propositions": [
+      "Développer des transports en commun rapides et fréquents entre la banlieue et Paris pour ceux qui n’ont pas d’autre choix que la voiture.",
+      "Protéger les couloirs de bus et donner la priorité au bus dans l’aménagement des rues.",
+      "Réserver des espaces de livraison et de stationnement aux artisans et aux professionnels."
+    ],
+    "defavorables": [
+      {
+        "fait": "La vitesse moyenne des voitures et celle des bus ont baissé dans Paris, et la municipalité reconnaît que le réseau cyclable a pu pénaliser les bus.",
+        "integration": "Le reconnaître permet de défendre une politique de partage de la rue qui ne sacrifie ni le bus ni ceux qui dépendent de la voiture."
+      }
+    ]
+  },
+  "concepts": [],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": []
+}

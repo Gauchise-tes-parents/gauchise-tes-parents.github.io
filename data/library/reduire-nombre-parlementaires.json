@@ -1,0 +1,247 @@
+{
+  "id": "reduire-nombre-parlementaires",
+  "type": "idee_recue",
+  "affirmation": "Il y a trop de députés et de sénateurs, il faut réduire leur nombre.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "trop de deputes",
+    "trop de senateurs",
+    "reduire le nombre de deputes",
+    "reduction du nombre de parlementaires",
+    "supprimer des deputes",
+    "trop de parlementaires",
+    "577 deputes",
+    "cout des deputes",
+    "moins de deputes"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La France compte 577 députés et 348 sénateurs : en nombre, c'est beaucoup, mais rapporté à la population, elle a déjà moins de parlementaires que la plupart des pays européens (un pour 72 634 habitants en 2018, quatrième rang de l'Union). La réduction de 25 % proposée en 2019 a échoué faute d'accord avec le Sénat. Elle est très populaire, mais elle éloignerait les élus des citoyens et ferait peu d'économies : le budget de toute l'Assemblée est de 644,01 millions d'euros en 2026.",
+  "contexte": "Réduire le nombre de parlementaires revient régulièrement dans le débat, au nom des économies et de l'efficacité. Le président de la République l'a proposé en 2018 et 2019 ; l'Italie l'a fait par référendum en 2020.",
+  "explication": "Il faut comparer le nombre d'élus à la population, regarder ce que coûte vraiment le Parlement, et ce que la réforme aurait changé pour la représentation des territoires et le contrôle du gouvernement.",
+  "faits": [
+    {
+      "fait": "Le projet de loi organique de 2019 prévoyait de passer de 577 à 433 députés et de 348 à 261 sénateurs, soit une baisse de 25 %, avec 87 députés élus à la proportionnelle.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "La réforme a été déposée, mais jamais votée.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "-25 %"
+    },
+    {
+      "fait": "En 2019, le gouvernement voulait une baisse de 25 %, le Sénat de 20 % ; faute d'accord, la réforme a été reportée puis abandonnée.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Il n'y a pas eu de consensus, même entre partisans de la réduction.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un comparatif publié par Public Sénat en 2018, la France compte un parlementaire pour 72 634 habitants, quatrième rang de l'Union européenne derrière l'Allemagne (116 598), les Pays-Bas et l'Espagne ; l'Italie était alors à 64 128.",
+      "periode": "2018",
+      "perimetre": "Union européenne",
+      "explication": "Rapportée à sa population, la France n'a pas un Parlement pléthorique.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "72 634"
+    },
+    {
+      "fait": "Le Conseil d'État relève qu'avec la réforme, la règle d'au moins un sénateur par département « augmentera encore l'importance de la représentation des départements les moins peuplés », et que l'égalité démographique des circonscriptions ne pourrait être vérifiée qu'après un nouveau découpage.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Moins d'élus, c'est des circonscriptions plus grandes et des équilibres territoriaux plus difficiles.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le budget total de l'Assemblée nationale pour 2026 est de 644,01 millions d'euros, dont 604,75 millions de fonctionnement ; sa dotation est gelée à 607,65 millions d'euros.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Une grande partie du coût tient aux bâtiments, aux services et aux collaborateurs, pas seulement au nombre d'élus.",
+      "source": 7,
+      "fiabilite": "etabli",
+      "chiffre": "644,01 M€"
+    },
+    {
+      "fait": "En Italie, la réduction votée par référendum en 2020 (de 630 à 400 députés et de 315 à 200 sénateurs) devait réduire le coût de la politique, mais selon le politiste Luciano Bardi, la manière « was never specified » ; il juge qu'elle a renforcé les attitudes antiparlementaires.",
+      "periode": "2020",
+      "perimetre": "Italie",
+      "explication": "L'exemple italien montre une réforme surtout symbolique.",
+      "source": 6,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : la France est le troisième pays de l'Union en nombre absolu de parlementaires (925 en 2018), et la réduction est très populaire : 92 % des sondés approuvaient une baisse d'un tiers en 2018, selon Harris Interactive.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Le sentiment qu'il y a « trop d'élus » est massif et doit être pris au sérieux.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "92 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "La France a 577 députés et 348 sénateurs. Mais rapportée à sa population, elle a déjà moins de parlementaires que la plupart des pays européens. Les réduire éloignerait les élus des citoyens pour une économie minime, et la réforme de 2019 a échoué faute d'accord.",
+    "moyen": "En nombre absolu, la France compte beaucoup de parlementaires : 925 en 2018, troisième de l'Union européenne. Mais rapporté à la population, c'est l'inverse : un parlementaire pour 72 634 habitants, quatrième rang de l'Union. Seuls l'Allemagne, les Pays-Bas et l'Espagne en ont moins par habitant.\n\nEn 2019, le gouvernement voulait passer à 433 députés et 261 sénateurs. La réforme a échoué faute d'accord avec le Sénat. Moins d'élus, ce sont des circonscriptions plus grandes et des territoires ruraux moins représentés. Et l'économie serait faible : le budget total de l'Assemblée est de 644,01 millions d'euros en 2026, pour l'essentiel des services et des bâtiments.",
+    "detaille": "Le chiffre impressionne : 577 députés et 348 sénateurs, soit 925 parlementaires en 2018, troisième total de l'Union européenne. Mais un grand pays a besoin de plus d'élus qu'un petit. Rapporté à la population, la France compte un parlementaire pour 72 634 habitants : c'est le quatrième rang de l'Union, derrière l'Allemagne, les Pays-Bas et l'Espagne. L'Italie, avant sa réforme, en avait davantage par habitant.\n\nLa réduction a été proposée en 2019 : 433 députés et 261 sénateurs, soit 25 % de moins. Le Conseil d'État a rappelé que c'était un choix politique, mais qu'il compliquait l'égalité de représentation et renforçait le poids des départements les moins peuplés au Sénat. Même des membres du gouvernement reconnaissaient le risque d'avoir moins d'un député dans certains départements. Faute d'accord entre le gouvernement et le Sénat, le texte a été abandonné.\n\nL'argument des économies est faible. Le budget total de l'Assemblée est de 644,01 millions d'euros en 2026, dont l'essentiel finance des services, des bâtiments et des collaborateurs qui resteraient nécessaires. L'Italie a réduit son Parlement par référendum en 2020 sans jamais préciser les économies attendues. Le vrai problème démocratique n'est pas le nombre d'élus, mais leur pouvoir face à l'exécutif et la distance avec les citoyens : réduire le Parlement l'affaiblit encore.",
+    "empathie": "Beaucoup de gens ont le sentiment que les élus sont trop nombreux, trop payés et trop loin d'eux. Cette colère est compréhensible ; la question est de savoir si moins d'élus la réglerait vraiment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Moins de députés, c'est moins de dépenses.",
+      "reponse": "Le budget total de l'Assemblée est de 644,01 millions d'euros en 2026, surtout pour des services et des bâtiments. Supprimer des sièges ferait une économie faible, et en Italie personne n'a pu chiffrer le gain promis."
+    },
+    {
+      "objection": "Avec internet, un député peut représenter plus de monde.",
+      "reponse": "Un député représente déjà environ 130 000 habitants. Avec moins d'élus, les circonscriptions rurales deviendraient immenses et certains départements risqueraient de ne plus avoir qu'un député."
+    },
+    {
+      "objection": "Les autres pays ont moins de parlementaires.",
+      "reponse": "En nombre absolu, oui ; mais par habitant, la France est au quatrième rang de l'Union pour le nombre d'habitants par parlementaire, donc déjà parmi les moins dotés."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'habitants représente un député en moyenne ?",
+    "Si ton département n'avait plus qu'un seul député, serait-il plus facile ou plus difficile de le rencontrer ?",
+    "Qui gagne en pouvoir quand le Parlement s'affaiblit ?"
+  ],
+  "limites": [
+    "Le comparatif européen date de 2018 (Royaume-Uni encore membre, Italie avant sa réforme) ; il n'a pas été refait avec des données plus récentes.",
+    "Le sondage de 2018 a été lu à travers un article de presse.",
+    "Le coût exact d'un député et l'économie réelle d'une réduction ne sont pas chiffrés dans les sources lues.",
+    "La page de Vie publique sur la réforme de 2019 n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Projet de loi organique pour un renouveau de la vie démocratique (n° 2204)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "29 août 2019",
+      "url": "https://www.assemblee-nationale.fr/15/pdf/projets/pl2204.pdf",
+      "passage": "Le texte propose de diminuer « le nombre de députés et de sénateurs de 25 % » : « L'effectif de l'Assemblée nationale s'établira donc à quatre cent trente-trois députés (contre cinq cent soixante-dix-sept actuellement) » et celui du Sénat « à deux cent soixante et un (contre trois cent quarante-huit actuellement) ». Le projet de loi ordinaire examiné en parallèle prévoit d'élire 87 députés à la proportionnelle sur des listes nationales.",
+      "pertinence": "Texte officiel déposé par le gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Avis sur un projet de loi organique et sur le projet de loi ordinaire pour un renouveau de la vie démocratique",
+      "organisme": "Conseil d'État",
+      "date_publication": "20 juin 2019 (publié le 29 août 2019)",
+      "url": "https://www.conseil-etat.fr/ressources/avis-aux-pouvoirs-publics/derniers-avis-publies/avis-sur-un-projet-de-loi-organique-et-sur-le-projet-de-loi-ordinaire-pour-un-renouveau-de-la-vie-democratique",
+      "passage": "Le passage de 577 à 433 députés et de 348 à 261 sénateurs relève d'un « choix politique sur lequel le Conseil d'Etat n'a pas à se prononcer ». La règle d'au moins un sénateur par département « augmentera encore l'importance de la représentation des départements les moins peuplés ». Le respect d'une élection « essentiellement démographique » ne « pourra toutefois être entièrement » vérifié qu'après le nouveau découpage des circonscriptions.",
+      "pertinence": "Avis juridique de la plus haute juridiction administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réforme des institutions : un report qui arrange tout le monde",
+      "organisme": "Public Sénat",
+      "date_publication": "13 juin 2019",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/reforme-des-institutions-un-report-qui-arrange-tout-le-monde-142084",
+      "passage": "Le gouvernement proposait 433 députés et 261 sénateurs, le Sénat 468 et 281 : une baisse de 25 % contre 20 %. Faute d'accord, le Premier ministre renonce à engager le débat pour « constater in fine le désaccord avec le Sénat ». Le président du Sénat répond que le Sénat « ne saurait porter la responsabilité de ce report ».",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nombre de parlementaires : le comparatif avec les autres pays européens",
+      "organisme": "Public Sénat",
+      "date_publication": "6 avril 2018",
+      "url": "https://www.publicsenat.fr/actualites/politique/nombre-de-parlementaires-le-comparatif-avec-les-autres-pays-europeens-84451",
+      "passage": "Avec 925 parlementaires (577 députés, 348 sénateurs), « la France est aujourd'hui le troisième pays de l'Union européenne à comptabiliser le plus de parlementaires », derrière le Royaume-Uni (1 410) et l'Italie (950), devant l'Allemagne (778). Rapporté à la population, la France compte un parlementaire pour 72 634 habitants, « ce qui place le pays au quatrième rang au sein de l'Union européenne », derrière l'Allemagne (116 598), les Pays-Bas (75 637) et l'Espagne (75 396) ; l'Italie est à 64 128.",
+      "pertinence": "Chaîne parlementaire ; comparaison chiffrée.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les Français plébiscitent les projets de réformes des institutions (sondage Harris Interactive pour LCP)",
+      "organisme": "Public Sénat",
+      "date_publication": "5 février 2018",
+      "url": "https://www.publicsenat.fr/actualites/politique/les-francais-plebiscitent-les-projets-de-reformes-des-institutions-82446",
+      "passage": "92 % des personnes interrogées approuvent une réduction d'un tiers du nombre de parlementaires ; 91 % pensent qu'elle permettrait de « réduire les dépenses publiques ». 29 % pensent qu'elle affaiblirait la représentation des territoires. Enquête en ligne du 31 janvier 2018 auprès de 1 065 personnes.",
+      "pertinence": "Article de presse rapportant un sondage.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La réduction du nombre de parlementaires divise les intéressés",
+      "organisme": "Baptiste Pace, Public Sénat",
+      "date_publication": "4 juillet 2017",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/la-reduction-du-nombre-de-parlementaires-divise-les-interesses-75611",
+      "passage": "Le président du groupe communiste estime qu'un député représente environ 130 000 habitants et que limiter le nombre d'élus « éloigne l'élu de la population ». Le porte-parole du gouvernement reconnaît le risque de « se retrouver avec moins d'un député par département » dans les zones les moins peuplées. Un député LR craint des « circonscriptions tellement immenses ».",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "'First blood' to the Italian populists as number of parliamentarians is slashed",
+      "organisme": "Luciano Bardi, Université de Pise (The Loop, Consortium européen de recherche politique)",
+      "date_publication": "13 octobre 2020",
+      "url": "https://theloop.ecpr.eu/first-blood-to-the-italian-populists-as-number-of-parliamentarians-is-slashed",
+      "passage": "Par référendum des 20 et 21 septembre 2020 (69,6 % de oui, participation de 53,8 %), l'Italie réduit la Chambre de 630 à 400 députés et le Sénat de 315 à 200. La réforme devait « reduce the cost of politics », mais « Exactly how was never specified ». L'auteur attribue les lenteurs au bicamérisme parfait plutôt qu'au nombre d'élus et estime que le référendum « has enhanced anti-elite and anti-parliamentary attitudes ».",
+      "pertinence": "Analyse d'un politiste universitaire.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Budget 2026 : l'Assemblée nationale décide que sa dotation, versée par l'État, sera gelée l'année prochaine",
+      "organisme": "Anne-Charlotte Dusseaulx, LCP",
+      "date_publication": "2 juillet 2025",
+      "url": "https://lcp.fr/actualites/budget-2026-l-assemblee-nationale-decide-que-sa-dotation-versee-par-l-etat-sera-gelee-l",
+      "passage": "La dotation de l'Assemblée nationale est maintenue à 607,65 millions d'euros pour 2026, gel décidé « à l'unanimité et pour la deuxième année consécutive ». Le budget total 2026 est de 644,01 millions d'euros, dont 604,75 millions de fonctionnement et 39,27 millions d'investissement.",
+      "pertinence": "Chaîne parlementaire de l'Assemblée nationale.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Programmes et éventuelles réformes institutionnelles après l'élection présidentielle de 2027.",
+  "objections_legitimes": [
+    "La France est l'un des pays européens qui comptent le plus de parlementaires en nombre absolu.",
+    "On peut vouloir un Parlement plus efficace et des élus mieux contrôlés.",
+    "La réduction est très populaire et a été proposée par plusieurs gouvernements."
+  ],
+  "publics": {
+    "convaincus": "En nombre, la France a beaucoup d'élus, c'est vrai. Mais par habitant, elle en a moins que la plupart de ses voisins, et l'économie serait minime : tout le budget de l'Assemblée représente 644,01 millions d'euros. Moins de députés, ce serait surtout moins de proximité pour les territoires ruraux et plus de pouvoir pour le gouvernement.",
+    "indecis": "Le sentiment qu'il y a trop d'élus est très répandu, et la question est légitime. Mais rapportée à sa population, la France n'a pas un Parlement géant, et la réforme de 2019 aurait agrandi les circonscriptions sans grande économie. Mieux vaut juger un Parlement sur ce qu'il contrôle que sur le nombre de ses membres."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "egalite",
+      "services_publics"
+    ],
+    "mecanismes": "La colère contre les élus est réelle, mais la réponse proposée vise le Parlement, le seul lieu où le pluralisme est représenté, et pas l’exécutif qui concentre le pouvoir. Moins d’élus, ce sont des circonscriptions plus vastes, des députés plus éloignés et des partis moins nombreux à pouvoir peser.",
+    "consequences": "Les territoires ruraux et peu peuplés perdraient en représentation, et chaque élu aurait moins de temps pour ses électeurs et pour contrôler le gouvernement.",
+    "democratie": "Affaiblir le Parlement au nom des économies nourrit l’antiparlementarisme et renforce un pouvoir présidentiel déjà dominant. La question démocratique est celle des pouvoirs du Parlement, pas de sa taille.",
+    "propositions": [
+      "Renforcer les moyens de contrôle du Parlement sur le gouvernement plutôt que de réduire le nombre d’élus.",
+      "Introduire la proportionnelle pour que l’Assemblée reflète mieux les votes des citoyens.",
+      "Rendre transparents les frais des élus et lutter contre les conflits d’intérêts."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France compte beaucoup de parlementaires en nombre absolu et la réduction est très populaire.",
+        "integration": "On peut entendre le rejet des élus sans y répondre par moins de démocratie : la proximité et le contrôle comptent plus que le nombre."
+      }
+    ]
+  },
+  "concepts": [
+    "cout"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "cout",
+    "couts",
+    "une fortune",
+    "rapportent",
+    "finances publiques",
+    "pognon",
+    "nos impots"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "covid-origine-laboratoire",
+  "type": "idee_recue",
+  "affirmation": "Le covid a été fabriqué en laboratoire.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "covid fabrique",
+    "covid laboratoire",
+    "fuite de laboratoire",
+    "virus de wuhan",
+    "covid arme biologique",
+    "origine du covid",
+    "laboratoire de wuhan",
+    "covid cree par l homme",
+    "lab leak",
+    "virus fabrique"
+  ],
+  "verdict": "inverifiable",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Non démontré, et l'origine reste inconnue. L'idée d'un virus conçu volontairement, comme une arme, est rejetée par la quasi-totalité des scientifiques et par les agences de renseignement américaines. Pour l'OMS, en juin 2025, le poids des preuves disponibles suggère un passage de l'animal à l'homme, mais une fuite accidentelle de laboratoire n'est pas exclue : la Chine n'a pas fourni les données nécessaires. Les agences américaines restent divisées. Dire « fabriqué » affirme plus que ce qu'on sait.",
+  "contexte": "Depuis 2020, l'origine du SARS-CoV-2 oppose deux hypothèses : un passage naturel de l'animal à l'homme, autour du marché de Huanan à Wuhan, ou un accident dans un laboratoire de la même ville. Sur les réseaux, la seconde devient souvent « le virus a été fabriqué », voire « c'est une arme ».",
+  "explication": "Il faut distinguer trois affirmations : un virus conçu volontairement (arme biologique), un virus naturel ou modifié échappé accidentellement d'un laboratoire, et une transmission naturelle depuis l'animal. Les sources ne disent pas la même chose sur chacune.",
+  "faits": [
+    {
+      "fait": "En juin 2025, le groupe d'experts de l'OMS (SAGO, 27 experts indépendants) conclut que « le poids des preuves disponibles » suggère une transmission de l'animal à l'homme, tout en jugeant que de nombreuses informations manquent.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "L'hypothèse naturelle est la mieux étayée, sans être prouvée.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "La Chine n'a pas transmis à l'OMS des centaines de séquences génétiques des premiers malades, ni les données sur les animaux vendus à Wuhan et sur la biosécurité des laboratoires ; le directeur général de l'OMS déclare que « toutes les hypothèses doivent rester sur la table ».",
+      "periode": "2025",
+      "perimetre": "Chine",
+      "explication": "L'opacité chinoise empêche de trancher, dans un sens comme dans l'autre.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon deux études publiées dans Science en juillet 2022, l'épidémie est probablement partie du marché de Huanan, où étaient vendus des animaux sensibles au virus, avec au moins deux passages de l'animal à l'homme.",
+      "periode": "2019-2022",
+      "perimetre": "Wuhan",
+      "explication": "Ce sont des arguments forts pour l'origine naturelle, que leurs auteurs présentent comme probables, non certains.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon l'Institut Pasteur, une fabrication intentionnelle du virus est rejetée par la quasi-totalité de la communauté scientifique ; l'hypothèse zoonotique est jugée « la plus probable » et la fuite de laboratoire « ne peut être écartée ».",
+      "periode": "2023",
+      "perimetre": "Monde",
+      "explication": "« Fabriqué » au sens de conçu volontairement n'est pas soutenu par les spécialistes.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "D'après le résumé déclassifié de l'évaluation du renseignement américain demandée par le président Biden, les agences s'accordent largement pour dire que le virus n'a pas été développé comme arme biologique ; la plupart estiment, avec une confiance faible, qu'il n'a probablement pas été génétiquement modifié.",
+      "periode": "après 2020",
+      "perimetre": "États-Unis",
+      "explication": "Même les services les plus soupçonneux envers la Chine écartent l'idée d'une arme.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : en janvier 2025, la CIA a jugé une origine en laboratoire « plus probable », avec une confiance faible ; le FBI et le Département de l'Énergie soutiennent aussi la thèse d'une fuite, tandis que quatre autres agences penchent pour une origine naturelle.",
+      "periode": "2021-2025",
+      "perimetre": "États-Unis",
+      "explication": "L'hypothèse d'un accident de laboratoire est sérieuse et défendue par des institutions ; il ne faut pas la traiter comme un délire.",
+      "source": 4,
+      "fiabilite": "debat"
+    },
+    {
+      "fait": "Fait défavorable : lors d'une séance de l'Académie nationale de médecine en 2023, les intervenants ont estimé que « la communauté scientifique reste donc partagée » et ont discuté l'hypothèse d'expériences de gain de fonction, tout en écartant « quelque chose d'intentionnel ».",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Des scientifiques reconnus jugent la piste du laboratoire crédible : le débat est légitime, l'idée d'une arme ne l'est pas.",
+      "source": 5,
+      "fiabilite": "debat"
+    }
+  ],
+  "argumentaires": {
+    "court": "On ne sait pas encore d'où vient le covid. Pour l'OMS, le passage de l'animal à l'homme est le plus probable, mais un accident de laboratoire n'est pas exclu. L'idée d'un virus fabriqué exprès, comme une arme, est en revanche rejetée par presque tous les spécialistes.",
+    "moyen": "Pour le groupe d'experts de l'OMS, en juin 2025, le poids des preuves suggère un passage naturel de l'animal à l'homme, sans doute autour du marché de Huanan à Wuhan. Mais la Chine n'a pas fourni des données essentielles, et l'OMS garde toutes les hypothèses ouvertes, y compris la fuite de laboratoire. Aux États-Unis, la CIA, le FBI et le Département de l'Énergie penchent pour un accident, quatre autres agences pour une origine naturelle, souvent avec une confiance faible.\n\nCe qui est quasiment exclu, c'est un virus conçu volontairement : les services de renseignement américains écartent l'arme biologique, et la quasi-totalité des scientifiques rejette une fabrication intentionnelle. Dire « le covid a été fabriqué » affirme donc plus que ce qu'on sait. La bonne formule : origine inconnue, accident de laboratoire possible, arme non.",
+    "detaille": "L'origine du covid reste une question ouverte. En juin 2025, le groupe d'experts de l'OMS chargé de la question a conclu que le poids des preuves disponibles suggère un passage du virus de l'animal à l'homme. Deux études publiées dans Science en 2022 situent le départ de l'épidémie au marché de Huanan, à Wuhan, où étaient vendus vivants des animaux sensibles au virus. Des virus de chauves-souris très proches ont été trouvés au Laos.\n\nMais rien n'est prouvé. La Chine n'a pas transmis les séquences des premiers malades, les données sur les animaux vendus ni les informations sur ses laboratoires. L'hypothèse d'un accident dans un laboratoire de Wuhan est donc défendue sérieusement : la CIA la juge plus probable avec une faible confiance, le FBI et le Département de l'Énergie la soutiennent aussi, et des membres de l'Académie de médecine estiment que la communauté scientifique reste partagée. D'autres agences américaines penchent pour une origine naturelle.\n\nIl faut donc être précis sur les mots. « Fabriqué » au sens d'un virus conçu volontairement, ou d'une arme biologique, n'est soutenu ni par les scientifiques ni par les services de renseignement. « Échappé d'un laboratoire » reste une hypothèse possible, ni prouvée ni exclue. Ce débat mérite mieux que des certitudes : il pose de vraies questions sur la transparence des États et sur la sécurité des recherches sur les virus dangereux.",
+    "empathie": "Après des années de confinements, de morts et de communication parfois contradictoire, il est normal de vouloir savoir d'où vient ce virus et de se méfier des versions officielles. La réponse honnête, c'est qu'on ne sait pas encore tout."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On nous a traités de complotistes, et maintenant la CIA dit que c'est le laboratoire.",
+      "reponse": "La piste de l'accident a parfois été balayée trop vite, c'est vrai. Mais la CIA parle d'une hypothèse « plus probable » avec une confiance faible, pas d'une preuve, et personne ne parle d'arme : le renseignement américain l'a écartée."
+    },
+    {
+      "objection": "Le virus a été créé pour vendre des vaccins.",
+      "reponse": "Aucune source sérieuse ne soutient cette idée : les services de renseignement écartent l'arme biologique, et les scientifiques une fabrication intentionnelle. L'hypothèse débattue est celle d'un accident, pas d'un plan."
+    }
+  ],
+  "questions": [
+    "Quelle différence fais-tu entre un virus échappé par accident et un virus fabriqué exprès ?",
+    "Si la Chine ne donne pas ses données, peut-on vraiment affirmer quoi que ce soit avec certitude ?"
+  ],
+  "limites": [
+    "L'origine n'est pas tranchée : cette fiche devra évoluer si de nouvelles données sont publiées.",
+    "Le communiqué de l'OMS a été lu dans sa version portugaise ; le rapport complet du SAGO n'a pas été lu.",
+    "Le rapport déclassifié du renseignement américain n'a pas pu être ouvert directement (lu via un média spécialisé).",
+    "La position de l'Académie de médecine n'a été lue qu'à travers des comptes rendus partiels ; son rapport d'avril 2025 n'a pas été consulté en entier.",
+    "Les études publiées dans Science ont été lues à travers un communiqué de recherche."
+  ],
+  "sources": [
+    {
+      "titre": "Grupo Consultivo Científico da OMS emite relatório sobre origens da COVID-19",
+      "organisme": "Organisation panaméricaine de la santé (bureau régional de l'Organisation mondiale de la santé)",
+      "date_publication": "27 juin 2025",
+      "url": "https://www.paho.org/pt/noticias/27-6-2025-grupo-consultivo-cientifico-da-oms-emite-relatorio-sobre-origens-da-covid-19",
+      "passage": "Le Groupe consultatif scientifique de l'OMS sur les origines des nouveaux agents pathogènes (SAGO), 27 experts indépendants, publie son rapport : « le poids des preuves disponibles… suggère une propagation zoonotique », directement depuis les chauves-souris ou via un hôte intermédiaire. De nombreuses informations nécessaires n'ont pas été fournies : la Chine n'a pas transmis des centaines de séquences génétiques des premiers patients, les données sur les animaux vendus sur les marchés de Wuhan, ni les informations sur les travaux et la biosécurité des laboratoires. Le directeur général déclare que « toutes les hypothèses doivent rester sur la table », y compris la fuite de laboratoire.",
+      "pertinence": "Communiqué officiel de l'OMS (version de son bureau régional, lu en portugais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Origine du SARS-CoV-2 : les recherches se poursuivent",
+      "organisme": "Institut Pasteur",
+      "date_publication": "22 mars 2023",
+      "url": "https://www.pasteur.fr/fr/journal-recherche/actualites/origine-du-sars-cov-2-recherches-se-poursuivent",
+      "passage": "Des chercheurs ont identifié au Laos (Nature, février 2022) trois virus de chauves-souris proches du SARS-CoV-2, dont l'identité de séquence dépasse parfois 96 %, mais sans site de clivage par la furine. L'hypothèse zoonotique est la « plus probable », les premiers cas étant proches du marché de Wuhan, mais doit être confirmée ; la fuite de laboratoire « ne peut être écartée » mais n'est pas prouvée ; une fabrication intentionnelle est rejetée par la quasi-totalité de la communauté scientifique. Environ 15 millions de décès sont associés à la pandémie.",
+      "pertinence": "Fondation de recherche biomédicale de référence.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Studies link COVID-19 to wildlife sales at Chinese market, find alternative scenarios extremely unlikely (Worobey et al. et Pekar et al., Science)",
+      "organisme": "ScienceDaily (communiqué de recherche)",
+      "date_publication": "26 juillet 2022",
+      "url": "https://sciencedaily.com/releases/2022/07/220726132600.htm",
+      "passage": "Deux études publiées dans Science le 26 juillet 2022 concluent que l'épidémie est probablement partie du marché de Huanan à Wuhan, où étaient vendus vivants des mammifères sensibles au virus (renards, chiens viverrins). Selon Pekar et al., le virus est passé de l'animal à l'humain au moins deux fois, en novembre et peut-être décembre 2019 (lignées A et B). Les auteurs parlent d'une origine « probable », non certaine.",
+      "pertinence": "Résumé d'études publiées dans une revue scientifique majeure.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "COVID-19 Was Not a Bioweapon But Exact Origin Unclear, Concludes Intelligence Community",
+      "organisme": "Homeland Security Today (résumé du rapport déclassifié du directeur du renseignement national américain)",
+      "date_publication": "page consultée le 12 novembre 2026",
+      "url": "https://www.hstoday.us/subject-matter-areas/intelligence/covid-19-was-not-a-bioweapon-but-exact-origin-unclear-concludes-intelligence-community/",
+      "passage": "« Broad agreement » des agences américaines : le virus n'a pas été développé comme arme biologique. La plupart estiment, avec un niveau de confiance faible, qu'il n'a probablement pas été génétiquement modifié ; deux jugent les preuves insuffisantes. Sur l'origine : quatre agences et le National Intelligence Council penchent avec une confiance faible pour une exposition naturelle, une agence avec une confiance modérée pour un incident de laboratoire, trois ne tranchent pas.",
+      "pertinence": "Média spécialisé ; le document officiel n'a pas pu être ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "CIA says 'more likely' COVID-19 originated from a lab",
+      "organisme": "Al Jazeera",
+      "date_publication": "27 janvier 2025",
+      "url": "https://www.aljazeera.com/news/2025/1/27/cia-says-more-likely-covid-19-escaped-from-a-lab",
+      "passage": "La CIA estime qu'une origine liée à un laboratoire est « more likely », avec un « low confidence », sur la base de renseignements existants. Le FBI et le Département de l'Énergie soutiennent la thèse d'une fuite de laboratoire ; quatre autres agences et le National Intelligence Council penchent pour une transmission naturelle. La Chine dénonce une « political manipulation ».",
+      "pertinence": "Chaîne d'information internationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Toujours des questions sur l'origine du SARS-CoV-2 (séance de l'Académie nationale de médecine du 18 avril 2023)",
+      "organisme": "La Revue du Praticien",
+      "date_publication": "7 juin 2023",
+      "url": "https://www.larevuedupraticien.fr/article/toujours-des-questions-sur-lorigine-du-sars-cov-2",
+      "passage": "Compte rendu de la séance « De l'origine du SARS-CoV2 à la virologie/biologie dangereuse ». « La communauté scientifique reste donc partagée sur la question de l'origine du virus. » Arguments discutés : traces génétiques de chiens viverrins au marché mais pas de preuve de leur infection ; banques de virus de Wuhan « inaccessibles depuis septembre 2019 » ; données chinoises « pas et ne seront jamais accessibles » ; question des expériences de gain de fonction. « On ne peut envisager quelque chose d'intentionnel. »",
+      "pertinence": "Revue médicale ; compte rendu partiel (suite réservée aux abonnés).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles publications scientifiques, éventuelles données chinoises et nouvelles évaluations des services de renseignement.",
+  "objections_legitimes": [
+    "Une fuite accidentelle de laboratoire n'est pas exclue par l'OMS.",
+    "La Chine n'a pas fourni les données nécessaires pour trancher.",
+    "Des agences de renseignement américaines jugent la piste du laboratoire plus probable.",
+    "La sécurité des recherches sur les virus dangereux est une vraie question."
+  ],
+  "publics": {
+    "convaincus": "La piste du laboratoire n'est pas absurde : l'OMS ne l'exclut pas, et la CIA la juge même plus probable, avec prudence. Mais aucune de ces sources ne dit que le virus a été fabriqué exprès : le renseignement américain écarte l'arme biologique. Méfie-toi de ceux qui transforment un doute légitime en certitude sur un complot.",
+    "indecis": "Personne ne sait encore avec certitude d'où vient le covid : le passage naturel de l'animal est jugé le plus probable par l'OMS, mais un accident de laboratoire reste possible, notamment parce que la Chine n'a pas tout partagé. Ce qui est quasiment exclu, c'est un virus créé volontairement. Le vrai sujet, c'est la transparence et la sécurité des laboratoires."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "services_publics",
+      "internationalisme"
+    ],
+    "mecanismes": "Une incertitude scientifique réelle est remplie par une certitude complotiste. Le glissement de « accident possible » à « virus fabriqué exprès » transforme une question de sécurité sanitaire en récit de manipulation mondiale.",
+    "consequences": "La confusion a nourri la défiance envers la science et la vaccination, et parfois des actes hostiles envers les personnes perçues comme asiatiques. Elle détourne aussi l’attention des vraies leçons : surveillance des zoonoses, sécurité des laboratoires, transparence des États.",
+    "democratie": "Une démocratie doit pouvoir dire « on ne sait pas encore », exiger la transparence de tous les États et protéger la recherche publique des pressions politiques comme des fantasmes.",
+    "propositions": [
+      "Exiger un accès international aux données sur les premiers cas et sur les laboratoires.",
+      "Renforcer la surveillance publique des maladies animales transmissibles et l’encadrement des recherches à risque sur les virus.",
+      "Financer durablement la recherche publique et la santé publique pour préparer les prochaines pandémies."
+    ],
+    "defavorables": [
+      {
+        "fait": "Plusieurs agences de renseignement américaines jugent un accident de laboratoire plus probable.",
+        "integration": "Il faut traiter cette hypothèse comme sérieuse et ne pas la confondre avec le complotisme ; la confusion se situe dans le passage à l’idée d’une arme ou d’un plan."
+      },
+      {
+        "fait": "Des membres de l’Académie de médecine estiment que la communauté scientifique reste partagée.",
+        "integration": "L’humilité scientifique est une force : reconnaître le doute rend plus crédible le rejet des affirmations sans preuve."
+      }
+    ]
+  },
+  "concepts": [
+    "desinformation"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "desinformation",
+    "fake news",
+    "manipulation de l information"
+  ]
+}

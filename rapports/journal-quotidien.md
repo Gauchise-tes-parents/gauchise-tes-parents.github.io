@@ -1268,3 +1268,158 @@ La fiche « Les immigrés représentent une part disproportionnée de la populat
 - `scripts/fiches/immigration_prisons.py` : contenu de la fiche ;
 - `scripts/publics-complements.js` : réponses aux deux publics ;
 - `scripts/lectures-gauche.js` : nouvelle lecture de gauche, sans chiffre.
+
+## 12 novembre 2026 — passage de 20 h 13 (UTC)
+
+**Questions testées : 25 nouvelles, retenues sur 41 essayées.** Seize phrases ont été écartées avant rédaction parce qu'une fiche existante y répondait déjà ou en était un quasi-doublon :
+- la présomption de légitime défense pour les policiers (`legitime-defense-domicile`) ;
+- les OQTF « jamais exécutées » (`deboutes-asile-restent`, `expulser-tous-etrangers-condamnes`) ;
+- les urgences saturées par les étrangers (`services-publics-moyens`, `ame-cout-sans-papiers`) ;
+- la faillite du système de retraite (`retraite-64-ans`) ;
+- LFI et l'école privée (`ecole-privee-meilleure`) ;
+- France Inter « radio de gauche payée par nos impôts » (`privatiser-audiovisuel-public`) ;
+- la délinquance des mineurs qui « explose » (`excuse-de-minorite`) ;
+- les ONG de sauvetage en mer « complices des passeurs » (`migrants-mediterranee`) ;
+- la plus grande communauté musulmane d'Europe (`musulmans-majoritaires-france`) ;
+- les Juifs qui quittent la France (`antisemitisme-aujourdhui`) ;
+- les étrangères qui viennent accoucher en France (`droit-du-sol-suppression`) ;
+- la France « pays le plus endetté d'Europe » (`dette-france-grece`) ;
+- et quatre reformulations de questions finalement retenues.
+
+L'ouverture du rail à la concurrence, mise de côté au passage précédent, est traitée.
+
+Les 25 questions testées :
+1. Il faut ouvrir le rail à la concurrence, ça fera baisser le prix des billets de train.
+2. La SNCF est tout le temps en grève.
+3. Baisser les charges patronales crée des emplois.
+4. LFI veut nationaliser les banques, c'est du communisme.
+5. Les immigrés envoient tout leur argent au pays au lieu de le dépenser en France.
+6. Un peu de chaleur, ça ne fait pas de mal : le réchauffement fera moins de morts de froid.
+7. Les canicules ont toujours existé, souvenez-vous de 1976.
+8. Les pistes cyclables d'Hidalgo ont créé les embouteillages à Paris.
+9. Les éoliennes font baisser le prix des maisons.
+10. Le vaccin contre le papillomavirus au collège est dangereux.
+11. Les francs-maçons dirigent la France en secret.
+12. Les Rothschild et la finance contrôlent nos gouvernements.
+13. Le plan Kalergi prouve que l'immigration est organisée.
+14. Le covid a été fabriqué en laboratoire.
+15. La loi Gayssot empêche de débattre librement de l'histoire.
+16. Il y a trop de députés et de sénateurs, il faut réduire leur nombre.
+17. Il faut reconnaître le vote blanc comme un vrai vote.
+18. La police municipale doit être armée partout.
+19. Il faut construire plus de places de prison.
+20. Les jeunes ne savent plus lire à cause des écrans.
+21. Mélenchon soutient le Venezuela de Maduro, c'est son modèle.
+22. Israël ne commet pas de génocide à Gaza, c'est de la propagande.
+23. Le Qatar achète la France.
+24. Trump est un homme de paix qui a arrêté des guerres.
+25. Il faut augmenter le budget de l'armée, la France est désarmée.
+
+Avant ce passage, 19 menaient à une « LACUNE » et 6 à une fiche hors sujet (`melenchon-crie`, `abstention-inegale`, `vaccins-arn-mortalite`, `electricite-nucleaire-renouvelables`, `medias-concentration`).
+
+**Fiches créées : 25.**
+- Générateur : `scripts/fiches/quotidien_20261112_2013.py`.
+- Chaque fiche a le champ `publics` et une entrée dans `scripts/lectures-gauche.js`.
+- Les sources ont été ouvertes et lues le 12 novembre 2026 par cinq agents de recherche, avec un outil de lecture qui résume : les citations entre « » sont courtes et à revérifier mot pour mot.
+- Un script de contrôle a vérifié chaque lot avant assemblage : validité, politique documentaire, publics, absence de chiffre dans les lectures.
+
+Trois premières sources de chacune :
+- `rail-concurrence-prix-billets` (trompeur, 7 sources) : ART, bilan ferroviaire 2024 (décembre 2025) ; ART, premiers chiffres 2025 (juin 2026) ; CNMC, régulateur espagnol (25 mars 2026).
+- `sncf-greves` (trompeur, 6 sources) : Sénat, rapport sur la loi de 2007 (17 octobre 2013) ; Insee Références, « Négociations et grèves » (22 juillet 2024) ; Ires (décembre 2025).
+- `baisse-charges-emploi` (plutôt exact, fiabilité « débat », 4 sources) : rapport Bozio-Wasmer (octobre 2024) ; France Stratégie, CICE (septembre 2020) ; Conseil d'analyse économique, note n° 49 (janvier 2019).
+- `lfi-nationaliser-banques` (trompeur, 7 sources) : programme L'Avenir en commun (source partisane, attribuée ; page mise à jour le 7 novembre 2026) ; Insee Première n° 440 (avril 1996) ; histoire de BNP Paribas.
+- `immigres-transferts-argent-pays` (trompeur, 8 sources) : Banque de France, balance des paiements 2024 (2025) ; Banque de France (septembre 2023) ; Insee, comptes de la Nation 2024 (28 mai 2025).
+- `rechauffement-moins-morts-froid` (trompeur, 6 sources) : Masselot et al., Lancet Planetary Health (2023) ; Masselot et al., Nature Medicine (2025) ; LSHTM, analyse de l'été 2025.
+- `canicules-toujours-existe-1976` (trompeur, 6 sources) : Météo-France, vagues de chaleur ; Météo-France, dossier de presse « Été 2026 » ; Météo-France, bilan de l'été 2026 (3 septembre 2026).
+- `pistes-cyclables-paris-embouteillages` (trompeur, fiabilité « débat », 6 sources) : Ville de Paris, Observatoire des mobilités (3 novembre 2026, données attribuées) ; Ville de Paris, fiche circulation (juillet 2026) ; Institut Paris Region (4 avril 2024).
+- `eoliennes-prix-immobilier` (trompeur, 4 sources) : Localtis, sur l'étude Ademe (7 juin 2022) ; UFC-Que Choisir (11 juin 2022) ; Assemblée nationale, réponse ministérielle (22 novembre 2022).
+- `vaccin-hpv-college` (contredit, 6 sources) : ANSM et Assurance maladie (2015, mis à jour en 2021) ; ANSM (14 septembre 2023) ; Le Quotidien du pharmacien (1er décembre 2023).
+- `francs-macons-pouvoir` (contredit, 7 sources) : BnF Essentiels (Martine Poulain) ; J.-Ph. Schreiber (dir.), Éditions de l'Université de Bruxelles (2019) ; Conspiracy Watch (23 août 2026).
+- `rothschild-finance-complot` (trompeur, 6 sources) : Encyclopaedia Britannica ; Encyclopaedia Judaica ; René Monzat, Contretemps ; Ifop pour Marianne (février 2019) ; OFCE (2013).
+- `plan-kalergi` (contredit, 6 sources) : Conspiracy Watch (2020, mis à jour en 2021) ; Conspiracy Watch, notice Gerd Honsik ; PolitiFact (24 janvier 2022).
+- `covid-origine-laboratoire` (invérifiable, fiabilité « débat », 6 sources) : OMS/OPS, rapport du SAGO (27 juin 2025) ; Institut Pasteur (22 mars 2023) ; ScienceDaily, études Worobey et Pekar (26 juillet 2022).
+- `loi-gayssot-liberte` (trompeur, 6 sources) : JusticeInfo/AFP, décision n° 2015-512 QPC (11 janvier 2016) ; Dalloz Actualité (1er février 2016) ; CEDH, fiche « Discours de haine » (novembre 2023).
+- `reduire-nombre-parlementaires` (trompeur, 8 sources) : Assemblée nationale, projet de loi organique n° 2204 (29 août 2019) ; Conseil d'État (20 juin 2019) ; Public Sénat (13 juin 2019).
+- `vote-blanc-reconnaissance` (opinion, 4 sources) : Assemblée nationale, réponse du ministère de l'Intérieur (5 décembre 2017) ; Conseil constitutionnel (27 avril 2022) ; Assemblée nationale, rapport n° 1291 (31 mai 2023).
+- `police-municipale-armement` (opinion, 7 sources) : Conseil d'État (23 octobre 2025) ; Cour des comptes (20 octobre 2020) ; CNCDH (19 mars 2026).
+- `prisons-construire-places` (opinion, 7 sources) : ministère de la Justice, mesure mensuelle au 1er octobre 2026 ; Sénat, avis budgétaire (26 novembre 2025) ; Public Sénat (19 novembre 2024) ; Infostat n° 183 (juillet 2021).
+- `ecrans-lecture-jeunes` (trompeur, 6 sources) : ministère de la Culture, étude CNL (12 avril 2024) ; commission « Enfants et écrans » (avril 2024) ; DEPP, PISA 2025 (septembre 2026).
+- `melenchon-venezuela-modele` (trompeur, 9 sources) : Médiaterranée (6 mars 2013) ; Public Sénat/AFP (14 et 20 avril 2017) ; Public Sénat (27 janvier 2019) ; Human Rights Watch (4 septembre 2024).
+- `gaza-genocide-qualification` (trompeur, fiabilité « débat », 9 sources) : CIJ, ordonnance et communiqué (26 janvier 2024) ; commission d'enquête de l'ONU (16 septembre 2025) ; Amnesty International (5 décembre 2024).
+- `qatar-achete-france` (trompeur, 6 sources) : DG Trésor (26 juillet et 30 août 2026) ; Banque de France, balance des paiements 2024 ; Sénat, rapport Gouteyron (11 février 2009).
+- `trump-homme-de-paix` (trompeur, 9 sources) : PolitiFact (23 septembre 2025, mis à jour le 2 juin 2026) ; AP Fact Check ; AFP (29 novembre 2025) ; ONU Info (21 juin 2025).
+- `budget-armee-desarmement` (trompeur, 7 sources) : Légifrance, loi n° 2026-791 du 16 août 2026 ; Sénat, avis de Legge (26 mai 2026) ; LCP (mai 2026) ; SIPRI (27 avril 2026).
+
+**Points fragiles signalés dans les limites des fiches :**
+- **Documents lus à travers un résumé ou un compte rendu :**
+  - études Lancet et Nature Medicine, étude allemande RWI et étude suédoise (NEJM) : résumé ou communiqué ;
+  - étude Ademe sur l'éolien : articles de presse et réponse ministérielle ;
+  - rapport du SAGO de l'OMS : communiqué ;
+  - résumé déclassifié du renseignement américain : HSToday, sans date ;
+  - décision QPC de 2016 : AFP et Dalloz ;
+  - mission Accoyer : rapport d'activité de l'Assemblée ;
+  - rapports de l'ONU et d'Amnesty sur Gaza : communiqués ;
+  - loi de 2014 sur le vote blanc : réponse ministérielle ;
+  - explications de l'OCDE sur PISA 2025 : Euronews ;
+  - rapport Bozio-Wasmer : lu en partie.
+- **Données anciennes :**
+  - jours de grève par agent SNCF (2007-2012) ;
+  - étude italienne sur le rail (2020) ;
+  - pharmacovigilance du vaccin HPV (2008-2012) ;
+  - ventes immobilières près des éoliennes (2015-2020) ;
+  - comparatif européen des parlementaires (2018, avant la réforme italienne) ;
+  - récidive des sortants de 2016 ;
+  - sondage Ifop sur les préjugés antisémites (2019) ;
+  - lobbying européen (2014) ;
+  - stocks de munitions (2022) ;
+  - PIRLS 2001.
+- **Sources à manier avec prudence :**
+  - les chiffres de circulation de Paris viennent de la Ville, qui mène la politique évaluée ; ils sont attribués ;
+  - les parts vélo et voiture viennent d'un média qui cite l'Institut Paris Region ;
+  - les propos de Mélenchon en 2013 viennent d'un petit site ;
+  - le programme de LFI n'a pas été relu pour la fiche Venezuela : l'absence de « modèle vénézuélien » repose sur ses déclarations ;
+  - les bilans de la guerre contre l'Iran (2026) viennent des autorités iraniennes.
+- **Enquête en cours :** l'enquête judiciaire sur le décès d'un collégien à Saint-Herblain n'est pas close. La fiche dit seulement que l'ARS a écarté un lien avec le vaccin.
+
+**Pages non ouvertes, donc non citées :**
+- vie-publique.fr (JavaScript requis, plusieurs pages) ;
+- conseil-constitutionnel.fr (2015-512 QPC) et Légifrance (loi de 2014 sur le vote blanc) : permission non accordée à temps ;
+- Dares, « Les grèves en 2024 » ;
+- melenchon2027.fr, pour la fiche Venezuela ;
+- archive.dni.gov ;
+- Cairn ;
+- letemps.ch ;
+- reporterre.net ;
+- Santé publique France (bilan HPV 2024-2025).
+
+**Reconnaissance des questions.** Après génération, 19 questions menaient déjà à leur fiche. `public/js/cartographie.js` reçoit :
+- **9 concepts** : `rail_concurrence`, `banques_nationalisation`, `venezuela`, `eolien_immo`, `vaccin_hpv`, `vote_blanc`, `gaza_genocide`, `transferts_argent`, `canicules` ;
+- **leurs domaines** ;
+- **37 arguments placés en tête** : un par concept, plus des variantes avec `services_publics`, `melenchon_lfi`, `gauche`, `dangerosite`, `eolien`, `ecologie`, `vaccin`, `abstention`, `medias`, `antisemitisme`, `immigration`, `salaires`, `origine` et `climat_origine`.
+
+Comparaison avant/après sur 444 phrases de contrôle (affirmations de la bibliothèque et questions citées dans ce journal) : seules les 6 questions visées changent de fiche.
+
+**Correction après un premier `npm test`.** La fiche du rail recevait par erreur les concepts « salaires » (mot-clé « moins chers ») et « euro numérique » (« billets… fin du monopole ») et répondait à « le prix du pain au Moyen Âge » à cause du mot « moyen » de son contexte. Les mots-clés et une tournure ont été corrigés. La fiche est classée en économie / Services publics, et le concept `rail_concurrence` la rattache aussi aux transports. Les deux suggestions sur la concurrence et les privatisations restent cohérentes. Le second `npm test` a signalé une correspondance abusive : « Les extraterrestres contrôlent la Banque centrale » menait à `rothschild-finance-complot`. Le mot-clé « banque rothschild » a été retiré et le contexte reformulé. Les phrases « Les Rothschild et la finance contrôlent nos gouvernements » et « Macron, c'est la banque Rothschild » mènent toujours à la fiche.
+
+Variantes familières vérifiées :
+- « Mélenchon admire Chavez, c'est un dictateur » ;
+- « Les insoumis veulent socialiser les banques » ;
+- « On va perdre de l'argent sur la maison avec l'éolienne d'à côté » ;
+- « Le Gardasil provoque des maladies graves » ;
+- « Il faut compter les bulletins blancs » ;
+- « Les immigrés envoient leurs salaires au bled » ;
+- « La canicule de 2003, c'était déjà pareil ».
+
+Les phrases témoins suivantes gardent leur fiche :
+- « Les éoliennes ne servent à rien » ;
+- « Le vaccin covid a tué plus que le virus » ;
+- « L'abstention est le premier parti de France » ;
+- « Les immigrés font baisser les salaires ».
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`), volontairement laissées sans.
+
+**Questions écartées pour sources invérifiables : aucune.**
+
+**Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique, comme au passage précédent. Aucun chiffre n'a été relevé. `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
+
+**Vérifications.** `npm test` : 477 tests, 477 réussis, après les deux corrections ci-dessus. Tests de bout en bout : 38 tests, 38 réussis.

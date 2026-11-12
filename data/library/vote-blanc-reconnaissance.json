@@ -1,0 +1,208 @@
+{
+  "id": "vote-blanc-reconnaissance",
+  "type": "idee_recue",
+  "affirmation": "Il faut reconnaître le vote blanc comme un vrai vote.",
+  "volet": "politique",
+  "sous_theme": "Abstention",
+  "rubriques": [],
+  "mots_cles": [
+    "vote blanc",
+    "reconnaissance du vote blanc",
+    "compter le vote blanc",
+    "vote blanc suffrages exprimes",
+    "bulletin blanc",
+    "vote blanc reconnu",
+    "voter blanc ca sert a rien",
+    "vote blanc presidentielle"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "C'est un choix politique. Depuis la loi du 21 février 2014, les bulletins blancs sont comptés à part et publiés, mais ils ne comptent pas dans les suffrages exprimés. Ils pèsent lourd : 2 233 904 au second tour de la présidentielle 2022. Les compter vraiment est une demande démocratique légitime, mais elle oblige à tout repenser : seuils, majorité absolue à la présidentielle (il faudrait réviser la Constitution), et que faire si le blanc arrive en tête.",
+  "contexte": "Beaucoup d'électeurs qui votent blanc ont le sentiment que leur choix est ignoré. Plusieurs propositions de loi ont demandé de compter les blancs parmi les suffrages exprimés, la dernière examinée à l'Assemblée en 2023.",
+  "explication": "Il faut distinguer ce que la loi prévoit déjà, ce que représente le vote blanc, et les conséquences concrètes d'une reconnaissance complète.",
+  "faits": [
+    {
+      "fait": "Depuis la loi du 21 février 2014, les bulletins blancs sont décomptés séparément des nuls et annexés au procès-verbal, mais ils « n'entrent pas en compte pour la détermination des suffrages exprimés ».",
+      "periode": "2014",
+      "perimetre": "France",
+      "explication": "Le vote blanc est compté et publié, mais il ne change pas le résultat.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Au second tour de la présidentielle 2022, le Conseil constitutionnel a recensé 2 233 904 bulletins blancs et 805 249 nuls pour 35 096 478 votants.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Des millions d'électeurs se déplacent pour dire qu'aucun candidat ne leur convient.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2 233 904"
+    },
+    {
+      "fait": "Les blancs représentaient 8,51 % des votants au second tour de la présidentielle 2017 et 6,37 % en 2022, contre 1,78 % et 1,51 % au premier tour des mêmes élections.",
+      "periode": "2017-2022",
+      "perimetre": "France",
+      "explication": "Le vote blanc monte surtout quand l'offre se réduit à deux candidats.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "8,51 %"
+    },
+    {
+      "fait": "Selon le ministère de l'Intérieur, compter les blancs dans les exprimés rendrait plus difficile l'atteinte des seuils (5 % aux européennes, 10 % pour se maintenir) et il deviendrait possible qu'aucun candidat n'ait la majorité absolue au second tour de la présidentielle.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "La réforme suppose de prévoir ce qui se passe en cas de blocage.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Avec les blancs comptés en 2022, le président élu aurait obtenu 54,7 % au lieu de 58,5 % ; mais l'article 7 de la Constitution impose la majorité absolue des suffrages exprimés, ce qui obligerait à réviser la Constitution.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La reconnaissance complète ne se fait pas par une simple loi pour la présidentielle.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "54,7 %"
+    },
+    {
+      "fait": "En 2023, une proposition de loi prévoyait de compter les blancs (hors présidentielle) et d'annuler l'élection s'ils dépassent 50 % ; cet article a été rejeté en commission des lois de l'Assemblée.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le débat est ouvert et traverse les groupes politiques.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : la demande est très majoritaire dans l'opinion ; un sondage Ifop de 2017, cité par le rapport parlementaire, donnait 86 % de Français favorables à la prise en compte des votes blancs.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Refuser la reconnaissance nourrit le sentiment que le système ne veut pas entendre le désaccord.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "86 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le vote blanc est compté à part depuis 2014, mais il ne compte pas dans les suffrages exprimés. Il pèse lourd : plus de deux millions de bulletins au second tour de 2022. Le reconnaître pleinement est un choix démocratique défendable, à condition de prévoir quoi faire si le blanc bloque l'élection.",
+    "moyen": "Depuis la loi du 21 février 2014, les bulletins blancs sont séparés des nuls et publiés dans les résultats. Mais ils ne comptent pas dans les suffrages exprimés. Au second tour de la présidentielle 2022, il y en a eu 2 233 904, soit 6,37 % des votants.\n\nLes compter vraiment changerait les règles : les seuils deviendraient plus durs à atteindre, et à la présidentielle, il faudrait réviser la Constitution, qui exige la majorité absolue des exprimés. Il faut aussi décider ce qui se passe si le blanc l'emporte : nouvelle élection, nouveaux candidats ? C'est un vrai choix politique, que 86 % des Français soutenaient selon un sondage de 2017.",
+    "detaille": "Le vote blanc n'est plus ignoré : depuis la loi du 21 février 2014, il est compté à part, séparé des bulletins nuls, et publié avec les résultats. Mais il n'entre pas dans les suffrages exprimés, ceux qui servent à calculer les pourcentages et à désigner l'élu. Pourtant il pèse : 2 233 904 bulletins blancs au second tour de la présidentielle 2022, 6,37 % des votants, et 8,51 % en 2017. Il monte surtout quand le choix se réduit à deux candidats.\n\nLe reconnaître pleinement aurait des effets concrets. Le ministère de l'Intérieur rappelle que les seuils (5 % aux européennes, 10 % pour se maintenir au second tour) deviendraient plus difficiles à atteindre, ce qui pénaliserait les petites listes. À la présidentielle, l'article 7 de la Constitution exige la majorité absolue des suffrages exprimés : il faudrait réviser la Constitution, et prévoir le cas où aucun candidat n'atteint la majorité. En 2022, le président élu aurait tout de même obtenu 54,7 %.\n\nLe débat est donc politique, pas technique. En 2023, une proposition de loi voulait compter les blancs et refaire l'élection si le blanc dépasse 50 % ; cet article a été rejeté en commission. Pour la gauche, l'enjeu est de redonner du poids à ceux qui refusent l'offre politique sans renoncer à voter, plutôt que de les pousser vers l'abstention ou vers les extrêmes. Mais une vraie reconnaissance suppose de dire ce qui arrive ensuite : de nouveaux candidats, et une démocratie plus vivante.",
+    "empathie": "Voter blanc, c'est faire l'effort de se déplacer pour dire « aucun ne me représente ». Il est normal de vouloir que ce choix compte."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le vote blanc n'est même pas compté.",
+      "reponse": "Si : depuis 2014, il est compté à part et publié dans les résultats officiels. Ce qui manque, c'est qu'il entre dans les suffrages exprimés."
+    },
+    {
+      "objection": "Il suffit d'une loi pour le reconnaître.",
+      "reponse": "Pour la présidentielle, non : l'article 7 de la Constitution exige la majorité absolue des suffrages exprimés. Il faudrait une révision constitutionnelle et prévoir quoi faire si personne n'atteint la majorité."
+    }
+  ],
+  "questions": [
+    "Si le vote blanc arrivait en tête, que devrait-il se passer selon toi ?",
+    "Savais-tu que les bulletins blancs sont publiés à part depuis 2014 ?",
+    "Qu'est-ce qui pousse le plus de gens à voter blanc : les candidats ou le mode de scrutin ?"
+  ],
+  "limites": [
+    "Le texte de la loi de 2014 sur Légifrance n'a pas pu être ouvert ; son contenu est connu par la réponse ministérielle publiée au Journal officiel.",
+    "Le sondage Ifop de 2017 est connu par le rapport parlementaire, pas lu directement.",
+    "Les positions détaillées des partis sur le vote blanc n'ont pas été vérifiées dans leurs programmes."
+  ],
+  "sources": [
+    {
+      "titre": "Question écrite n° 1516 sur la reconnaissance du vote blanc, réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale (réponse du ministère de l’Intérieur)",
+      "date_publication": "5 décembre 2017",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE1516.pdf",
+      "passage": "Depuis la loi n° 2014-172 du 21 février 2014, « les bulletins blancs sont décomptés séparément et annexés au procès-verbal. Ils n'entrent pas en compte pour la détermination des suffrages exprimés ». Les intégrer rendrait plus difficile l'atteinte des seuils (5 % aux européennes, 10 % des exprimés pour se maintenir aux régionales et municipales) et, à la présidentielle, « il deviendrait possible qu'aucun candidat n'obtienne la majorité absolue au second tour ». Le gouvernement n'envisage pas de modifier la loi.",
+      "pertinence": "Réponse officielle du gouvernement publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décision n° 2022-197 PDR du 27 avril 2022 : proclamation des résultats de l'élection du Président de la République",
+      "organisme": "Conseil constitutionnel",
+      "date_publication": "27 avril 2022",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022197PDR.htm",
+      "passage": "Second tour : 48 752 339 électeurs inscrits, 35 096 478 votants, 2 233 904 bulletins blancs, 805 249 bulletins nuls, 32 057 325 suffrages exprimés ; majorité absolue 16 028 663. Emmanuel Macron 18 768 639 voix, Marine Le Pen 13 288 686.",
+      "pertinence": "Résultats officiels.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport n° 1291 sur la proposition de loi visant à renforcer l'engagement et la participation des citoyens à la vie démocratique",
+      "organisme": "Assemblée nationale, commission des lois (rapporteur Benjamin Saint-Huile)",
+      "date_publication": "31 mai 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/cion_lois/l16b1291_rapport-fond.pdf",
+      "passage": "La proposition prévoyait de compter les blancs dans les suffrages exprimés (hors présidentielle) et d'annuler l'élection s'ils dépassent 50 %, ainsi qu'un vote obligatoire avec une amende de 11 euros. Votes blancs en part des votants : 8,51 % au second tour de la présidentielle 2017, 6,37 % en 2022, 6,93 % au second tour des législatives 2017. Un sondage Ifop de 2017 donnait 86 % de Français favorables à la prise en compte des blancs. L'article 1er (blancs) et l'article 2 (vote obligatoire) ont été rejetés en commission.",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Présidentielle : quel serait le score du second tour en prenant en compte les votes blancs et nuls ?",
+      "organisme": "Simon Barbarit, Public Sénat",
+      "date_publication": "25 avril 2022",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-quel-serait-le-score-du-second-tour-en-prenant-en-compte-les-votes",
+      "passage": "Avec les blancs comptés comme suffrages exprimés, Emmanuel Macron passerait de 58,5 % à 54,7 % et Marine Le Pen de 41,46 % à 38,8 %. L'article 7 de la Constitution prévoit que le président « est élu à la majorité absolue des suffrages exprimés » : reconnaître les blancs supposerait de réviser la Constitution. Plusieurs propositions de loi ont été déposées au Sénat en ce sens.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Résultats de la présidentielle 2027 et éventuelles propositions de loi.",
+  "objections_legitimes": [
+    "Des millions d'électeurs votent blanc à certains scrutins, et leur choix ne pèse pas sur le résultat.",
+    "Une large majorité des Français est favorable à la reconnaissance du vote blanc.",
+    "Compter les blancs pourrait ramener aux urnes une partie des abstentionnistes."
+  ],
+  "publics": {
+    "convaincus": "Le vote blanc est déjà compté à part depuis 2014, mais il ne change pas le résultat. Ceux qui promettent de le reconnaître doivent dire comment : à la présidentielle, il faut réviser la Constitution et prévoir quoi faire si personne n'a la majorité. Une promesse sans mode d'emploi, ce n'est pas un projet.",
+    "indecis": "Ta frustration est partagée : plus de deux millions de votes blancs au second tour de 2022, sans effet sur le résultat. Les reconnaître est un choix démocratique défendable. Il faut juste regarder qui explique ce qui se passerait ensuite, et qui se contente du slogan."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "egalite",
+      "libertes"
+    ],
+    "mecanismes": "Le vote blanc est compté à part mais ne pèse pas sur le résultat : des électeurs qui se déplacent pour refuser l’offre politique sont traités comme s’ils n’avaient rien dit. Ce décalage nourrit l’abstention et le sentiment que voter ne sert à rien.",
+    "consequences": "Les élus peuvent l’emporter avec une base électorale étroite, et une partie des citoyens se détourne des urnes faute de pouvoir exprimer un désaccord qui compte.",
+    "democratie": "Reconnaître le vote blanc oblige à repenser les règles : majorité absolue, seuils, nouvelle élection si le blanc l’emporte. C’est un débat démocratique à mener franchement, pas un slogan.",
+    "propositions": [
+      "Compter les votes blancs dans les suffrages exprimés en prévoyant une nouvelle élection avec de nouveaux candidats si le blanc arrive en tête.",
+      "Accompagner cette réforme d’autres outils de participation, comme la proportionnelle et le référendum d’initiative citoyenne."
+    ],
+    "defavorables": [
+      {
+        "fait": "Compter les blancs rendrait les seuils plus durs à atteindre et pourrait empêcher toute majorité absolue à la présidentielle.",
+        "integration": "Ces difficultés sont réelles : elles exigent de prévoir des règles claires, pas de renoncer à écouter le désaccord."
+      }
+    ]
+  },
+  "concepts": [
+    "abstention",
+    "vote_blanc"
+  ],
+  "repond_a": [
+    {
+      "id": "vote_blanc_q2013",
+      "label": "Vote blanc"
+    },
+    {
+      "id": "abstention_q2013_vote_blanc",
+      "label": "Vote blanc"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "voter ne sert",
+    "participation electorale",
+    "vote blanc",
+    "pas voter",
+    "aller voter"
+  ]
+}

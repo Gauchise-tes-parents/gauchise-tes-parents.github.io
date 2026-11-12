@@ -1,0 +1,247 @@
+{
+  "id": "canicules-toujours-existe-1976",
+  "type": "idee_recue",
+  "affirmation": "Les canicules ont toujours existé, souvenez-vous de 1976.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "canicule 1976",
+    "secheresse 1976",
+    "canicules ont toujours existe",
+    "il a toujours fait chaud",
+    "ete 76",
+    "canicule normale",
+    "canicule rechauffement",
+    "vagues de chaleur",
+    "canicule 2003",
+    "ete 2026"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Oui, il y a toujours eu des canicules, et 1976 a été un été exceptionnel. Mais ce qui a changé, c'est leur fréquence et leur intensité : Météo-France compte 54 vagues de chaleur depuis 1947, dont environ deux tiers au XXIe siècle. Autant de vagues depuis 2011 qu'entre 1947 et 2010. Les journées records datent de 2003 et 2019, et l'été 2026 est devenu le plus chaud depuis 1900. Les études d'attribution montrent le rôle du changement climatique.",
+  "contexte": "Lors de chaque vague de chaleur, l'été 1976 est cité pour dire qu'il n'y a rien de nouveau et que le réchauffement climatique est exagéré.",
+  "explication": "Un épisode isolé ne dit rien d'une tendance : il faut compter les vagues de chaleur sur longue période, comparer leur intensité et regarder ce que disent les études d'attribution.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : l'été 1976 a bien été exceptionnel, avec des records de chaleur de fin juin à mi-juillet, une sécheresse désastreuse pour l'agriculture et environ 4 500 décès selon une estimation de Santé publique France.",
+      "periode": "1976",
+      "perimetre": "France",
+      "explication": "Les canicules ne sont pas une invention récente : 1976 en est la preuve.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "4 500"
+    },
+    {
+      "fait": "Météo-France compte 51 vagues de chaleur de 1947 à 2025 : 25 entre 1947 et 2010, 26 entre 2011 et 2025 ; le rythme « s'accélère depuis les années 2000 ».",
+      "periode": "1947-2025",
+      "perimetre": "France",
+      "explication": "Il y a eu autant de vagues de chaleur en quinze ans qu'en plus de soixante ans auparavant.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "26"
+    },
+    {
+      "fait": "Avec les trois vagues de l'été 2026, le total atteint 54 vagues de chaleur depuis 1947, dont environ deux tiers au XXIe siècle.",
+      "periode": "1947-2026",
+      "perimetre": "France",
+      "explication": "1976 était une exception ; aujourd'hui, les canicules deviennent la règle.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "54"
+    },
+    {
+      "fait": "Les trois journées les plus chaudes mesurées depuis 1947 datent du 25 juillet 2019 et des 5 et 9 août 2003 ; 1976 n'y figure pas.",
+      "periode": "1947-2025",
+      "perimetre": "France",
+      "explication": "Les records d'intensité sont récents.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "29,4 °C"
+    },
+    {
+      "fait": "L'été 2026 est le plus chaud depuis 1900 (+3,6 °C), avec 53 jours de vague de chaleur et 178 dépassements de 40 °C, contre 88 en 2003 ; il a aussi été plus sec que l'été 1976.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Même sur la sécheresse, 1976 n'est plus la référence.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "53 jours"
+    },
+    {
+      "fait": "Selon l'analyse World Weather Attribution, le changement climatique a rendu la vague de chaleur de juin 2019 en France au moins cinq fois plus probable ; il y a un siècle, une vague de même fréquence aurait été environ 4 °C moins chaude.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Les scientifiques savent mesurer le rôle du réchauffement dans un épisode précis.",
+      "source": 4,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "D'après Météo-France, citée par Santé publique France, les canicules de 2022 auraient été « hautement improbables et nettement moins intenses sans l'effet du changement climatique ».",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le réchauffement ne crée pas les canicules, il les rend plus fréquentes et plus fortes.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Météo-France projette qu'à +2,7 °C, la probabilité d'une vague de chaleur en plein été passerait d'environ 10 % (1976-2005) à environ 45 %, et le nombre de jours de vague de chaleur serait multiplié par 5.",
+      "periode": "projections",
+      "perimetre": "France",
+      "explication": "Ce qui était exceptionnel en 1976 deviendrait presque un été sur deux.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "45 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, les canicules ont toujours existé, et 1976 a été un été terrible. Mais Météo-France compte 54 vagues de chaleur depuis 1947, dont environ deux tiers au XXIe siècle. Les records datent de 2003, 2019 et 2026 : ce qui était exceptionnel devient habituel.",
+    "moyen": "L'été 1976 a vraiment été exceptionnel : records de chaleur, sécheresse désastreuse pour l'agriculture, environ 4 500 décès. Mais une canicule isolée ne dit rien d'une tendance. Il faut compter.\n\nMétéo-France a recensé 25 vagues de chaleur entre 1947 et 2010, puis 26 entre 2011 et 2025 : autant en quinze ans qu'en plus de soixante ans. Les journées les plus chaudes datent de 2003 et 2019, et l'été 2026 est devenu le plus chaud depuis 1900, plus sec même que 1976. Les études d'attribution montrent que la vague de juin 2019 a été rendue au moins cinq fois plus probable par le changement climatique.",
+    "detaille": "Personne ne dit que les canicules sont nouvelles. L'été 1976 a été exceptionnel : de fin juin à mi-juillet, des records de chaleur ont été battus, la sécheresse a ruiné une partie des récoltes, un impôt exceptionnel a financé l'indemnisation des sinistrés, et Santé publique France estime à environ 4 500 le nombre de décès.\n\nMais le climat, c'est une tendance, pas un épisode. Météo-France compte 51 vagues de chaleur de 1947 à 2025 : 25 entre 1947 et 2010, 26 entre 2011 et 2025. Avec les trois vagues de 2026, on arrive à 54, dont environ deux tiers au XXIe siècle. Les trois journées les plus chaudes jamais mesurées à l'échelle nationale datent de 2003 et 2019. L'été 2026 est le plus chaud depuis 1900, avec 53 jours de vague de chaleur et 178 dépassements de 40 °C, contre 88 en 2003 ; il a même été plus sec que 1976.\n\nLes scientifiques savent aussi mesurer le rôle du réchauffement dans un épisode précis. La vague de juin 2019 a été rendue au moins cinq fois plus probable par le changement climatique, et celles de 2022 auraient été « hautement improbables » sans lui, selon Météo-France. Et ce n'est qu'un début : à +2,7 °C, une vague de chaleur en plein été deviendrait presque un été sur deux. Se souvenir de 1976, c'est justement mesurer combien l'exception est devenue la règle.",
+    "empathie": "Ceux qui ont vécu l'été 1976 s'en souviennent comme d'un moment marquant. Ce souvenir est précieux : il permet de comparer avec ce qu'on vit aujourd'hui."
+  },
+  "contre_arguments": [
+    {
+      "objection": "En 1976, il faisait aussi chaud qu'aujourd'hui.",
+      "reponse": "Les journées les plus chaudes mesurées depuis 1947 datent de 2003 et 2019, pas de 1976, et l'été 2026 est le plus chaud depuis 1900."
+    },
+    {
+      "objection": "On parle plus des canicules parce que les médias en font trop.",
+      "reponse": "Le décompte de Météo-France repose sur un indicateur de température fixe depuis 1947 : il y a eu autant de vagues de chaleur en quinze ans qu'en plus de soixante ans."
+    }
+  ],
+  "questions": [
+    "Combien de canicules te souviens-tu avoir vécues avant l'an 2000, et combien depuis ?",
+    "Si 1976 était exceptionnel, que penser d'étés plus chauds et plus secs qui reviennent presque chaque année ?"
+  ],
+  "limites": [
+    "Le chiffre d'environ 4 500 décès en 1976 vient d'une dépêche AFP citant Santé publique France ; le document d'origine n'a pas été lu.",
+    "Les deux documents de Météo-France ne couvrent pas la même période (51 vagues jusqu'à 2025, 54 avec 2026).",
+    "L'analyse d'attribution de 2019 porte sur la vague de juin ; elle a été lue à travers le communiqué de l'université d'Oxford."
+  ],
+  "sources": [
+    {
+      "titre": "Changement climatique : quel impact sur les vagues de chaleur ?",
+      "organisme": "Météo-France",
+      "date_publication": "page consultée le 12 novembre 2026 (mise à jour après l'été 2026)",
+      "url": "https://meteofrance.com/le-changement-climatique/quel-climat-futur/changement-climatique-quel-impact-sur-les-vagues-de",
+      "passage": "« 54 vagues de chaleur en France depuis 1947 », dont environ deux tiers au XXIe siècle ; la moitié environ s'est produite avant 2010 (en plus de 60 ans), l'autre moitié après 2010 (en 15 ans). La 54e vague (28 juillet-19 août 2026) a duré 23 jours, autant que la plus longue connue (juillet 1983). La probabilité d'une vague de chaleur en plein été passe d'environ 10 % sur 1976-2005 à environ 45 % à +2,7 °C et 70 % à +4 °C ; le nombre de jours de vague de chaleur serait multiplié par 5 à +2,7 °C et par 10 à +4 °C.",
+      "pertinence": "Service météorologique national.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Été 2026. Tout comprendre sur les phénomènes météorologiques (dossier de presse)",
+      "organisme": "Météo-France",
+      "date_publication": "2026",
+      "url": "https://meteofrance.com/sites/default/files/files/editorial/DP-ete-2026-meteo-france.pdf",
+      "passage": "« On recense 51 vagues de chaleur en France depuis 1947 » (jusqu'à 2025) : 25 entre 1947 et 2010, 26 entre 2011 et 2025 ; le rythme « s'accélère depuis les années 2000 ». Les trois journées les plus chaudes depuis 1947 (indicateur thermique national) sont le 25 juillet 2019 et le 5 août 2003 (29,4 °C), puis le 9 août 2003 (28,9 °C). La fréquence des vagues de chaleur doublerait d'ici 2050.",
+      "pertinence": "Service météorologique national.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bilan climatique de l'été 2026 (juin-juillet-août)",
+      "organisme": "Météo-France",
+      "date_publication": "3 septembre 2026",
+      "url": "https://meteofrance.com/presse/bilan-climatique-de-lete-2026-juin-juillet-aout",
+      "passage": "« L'été 2026 devient l'été le plus chaud depuis 1900 », à +3,6 °C, devant 2003 (+2,7 °C) et 2022 (+2,3 °C) ; « 53 jours en trois épisodes » de vague de chaleur, contre 33 en 2022. Le seuil de 40 °C a été franchi 178 fois sur le réseau principal, devant 2003 (88) et 2019 (72). L'été est « plus sec que l'été 1976 » (déficit de 40 % contre 35 %).",
+      "pertinence": "Service météorologique national.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Depuis l'été 76, des canicules plus fréquentes, intenses ou précoces en France",
+      "organisme": "ID l'Info durable (dépêche AFP)",
+      "date_publication": "15 juin 2022",
+      "url": "https://www.linfodurable.fr/depuis-lete-76-des-canicules-plus-frequentes-intenses-ou-precoces-en-france-32688",
+      "passage": "En 1976, de fin juin à mi-juillet, des records de chaleur sont battus ; des conditions comparables n'avaient été observées qu'en 1921. « L'absence prolongée de pluie est désastreuse pour l'agriculture » ; un impôt exceptionnel finance l'indemnisation. Environ 4 500 décès selon une estimation de Santé publique France. En 2003, environ 15 200 morts. En 2019, record absolu national de 46 °C le 28 juin à Vérargues (Hérault) et 42,6 °C à Paris le 25 juillet.",
+      "pertinence": "Dépêche d'agence de presse.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Climate change made France's heatwave at least five times more likely, say researchers",
+      "organisme": "Université d'Oxford (Environmental Change Institute), analyse World Weather Attribution",
+      "date_publication": "5 juillet 2019",
+      "url": "https://oerc.ox.ac.uk/news/climate-change-made-france-s-heatwave-at-least-five-times-more-likely-say-researchers",
+      "passage": "La vague de chaleur de juin 2019 en France a été rendue « at least five times more likely » par le changement climatique ; une vague de même fréquence aurait été « about 4ºC cooler a century ago ». Analyse World Weather Attribution (Friederike Otto, Oxford, et Geert Jan van Oldenborgh, KNMI).",
+      "pertinence": "Analyse scientifique d'attribution d'équipes universitaires.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Fortes chaleurs et canicule : un impact sur la mortalité important nécessitant le renforcement de la prévention et de l'adaptation au changement climatique",
+      "organisme": "Santé publique France (communiqué de presse)",
+      "date_publication": "23 juin 2023",
+      "url": "https://www.santepubliquefrance.fr/presse/2023/fortes-chaleurs-et-canicule-un-impact-sur-la-mortalite-important-necessitant-le-renforcement-de-la-prevention-et-de-l-adaptation-au-changement-cl",
+      "passage": "En France métropolitaine, du 1er juin au 15 septembre, de 2014 à 2022 : environ 33 000 décès liés à la chaleur, dont environ 23 000 chez les 75 ans et plus ; entre 1 000 et 7 000 décès par an selon les étés. 28 % des décès surviennent pendant les canicules, qui ne représentent que 6 % des jours étudiés : « l'impact de la chaleur n'est pas limité aux périodes les plus extrêmes ». Selon Météo-France, les canicules de 2022 auraient été « hautement improbables et nettement moins intenses sans l'effet du changement climatique ».",
+      "pertinence": "Agence nationale de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Bilan de l'été 2027 et mise à jour de la liste des vagues de chaleur de Météo-France.",
+  "objections_legitimes": [
+    "Les canicules existaient bien avant le réchauffement récent.",
+    "L'été 1976 a été une canicule et une sécheresse exceptionnelles.",
+    "Un épisode chaud isolé ne prouve pas à lui seul le changement climatique."
+  ],
+  "publics": {
+    "convaincus": "1976, c'était dur, personne ne le nie. Mais Météo-France a compté : autant de vagues de chaleur entre 2011 et 2025 qu'entre 1947 et 2010. Les journées records datent de 2003 et 2019, et l'été 2026 a même été plus sec que 1976. Ton souvenir est juste, c'est justement pour ça qu'on voit la différence.",
+    "indecis": "Les canicules ont toujours existé, c'est vrai. Ce qui change, c'est leur nombre et leur intensité : environ deux tiers des vagues de chaleur depuis 1947 sont survenues au XXIe siècle. Les scientifiques mesurent aussi le rôle du réchauffement dans chaque épisode : il les rend nettement plus probables."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "solidarite",
+      "travailleurs"
+    ],
+    "mecanismes": "L’argument remplace une tendance mesurée sur des décennies par un souvenir marquant. Un épisode exceptionnel sert à nier qu’il devient fréquent.",
+    "consequences": "Quand l’exception devient la règle, les agriculteurs, les personnes âgées, les enfants et les salariés qui travaillent dehors subissent chaque été ce qui ne se produisait qu’une fois par génération.",
+    "democratie": "Nier une tendance documentée par le service météorologique public, c’est refuser le diagnostic commun sans lequel aucun choix collectif n’est possible.",
+    "propositions": [
+      "Adapter les écoles, les hôpitaux et les logements sociaux aux vagues de chaleur répétées.",
+      "Organiser le partage de l’eau en période de sécheresse en priorité pour les usages vitaux et l’agriculture paysanne.",
+      "Financer publiquement les plans canicule dans toutes les communes."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’été 1976 a réellement été une canicule et une sécheresse exceptionnelles, et une canicule isolée ne prouve rien à elle seule.",
+        "integration": "C’est précisément en comparant avec ce souvenir qu’on mesure combien les vagues de chaleur sont devenues plus fréquentes et plus intenses."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "climat_origine",
+    "canicules"
+  ],
+  "repond_a": [
+    {
+      "id": "canicules_q2013",
+      "label": "Canicules d’hier et d’aujourd’hui"
+    },
+    {
+      "id": "ecologie_q2013_canicules",
+      "label": "Canicules d’hier et d’aujourd’hui"
+    },
+    {
+      "id": "climat_origine_q2013_canicules",
+      "label": "Canicules d’hier et d’aujourd’hui"
+    },
+    {
+      "id": "ecologie_climat_origine_q2013_canicules",
+      "label": "Canicules d’hier et d’aujourd’hui"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ]
+}

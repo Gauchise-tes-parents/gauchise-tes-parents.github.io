@@ -1,0 +1,253 @@
+{
+  "id": "vaccin-hpv-college",
+  "type": "idee_recue",
+  "affirmation": "Le vaccin contre le papillomavirus au collège est dangereux.",
+  "volet": "services",
+  "sous_theme": "Accès aux soins",
+  "rubriques": [],
+  "mots_cles": [
+    "vaccin hpv",
+    "vaccin papillomavirus",
+    "gardasil dangereux",
+    "vaccination college",
+    "vaccin hpv college",
+    "hpv effets secondaires",
+    "gardasil guillain barre",
+    "vaccin papillomavirus garcons",
+    "collegien mort vaccin",
+    "cancer du col"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Le vaccin a été suivi sur des millions de jeunes : en France, une étude sur plus de 2,2 millions de jeunes filles ne trouve pas de hausse globale des maladies auto-immunes. Il existe un léger sur-risque de syndrome de Guillain-Barré, de l'ordre de 1 à 2 cas pour 100 000 vaccinées. En face, les HPV causent 6 400 cancers par an en France, et en Suède la vaccination avant 17 ans réduit le risque de cancer du col de 88 %. Le décès d'un collégien en 2023 est dû à une chute après un malaise : les autorités ont écarté un lien avec le vaccin.",
+  "contexte": "Depuis la rentrée 2023, la vaccination contre les papillomavirus est proposée gratuitement aux élèves de 5e, filles et garçons, au collège. Le décès d'un collégien après une vaccination a nourri des inquiétudes.",
+  "explication": "Il faut comparer les risques connus du vaccin, mesurés sur de grandes populations, aux cancers qu'il évite, et regarder précisément ce qui s'est passé lors de la campagne au collège.",
+  "faits": [
+    {
+      "fait": "Une étude de l'ANSM et de l'Assurance maladie sur plus de 2,2 millions de jeunes filles de 13 à 16 ans, suivies de 2008 à 2012, ne montre « pas d'augmentation du risque global de survenue de maladies auto-immunes » après vaccination.",
+      "periode": "2008-2012",
+      "perimetre": "France",
+      "explication": "Le vaccin a été évalué sur une population immense, en conditions réelles.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2,2 millions"
+    },
+    {
+      "fait": "Fait défavorable : la même étude conclut à une augmentation probable du risque de syndrome de Guillain-Barré, de l'ordre de 1 à 2 cas supplémentaires pour 100 000 jeunes filles vaccinées.",
+      "periode": "2008-2012",
+      "perimetre": "France",
+      "explication": "Le risque existe, il est connu et rare ; l'ANSM juge les bénéfices « bien plus importants que les risques ».",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 à 2 pour 100 000"
+    },
+    {
+      "fait": "Chaque année en France, 6 400 nouveaux cas de cancers sont causés par les HPV.",
+      "periode": "annuel",
+      "perimetre": "France",
+      "explication": "C'est ce risque, bien plus fréquent, que le vaccin permet d'éviter.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "6 400"
+    },
+    {
+      "fait": "En Suède, sur près de 1,7 million de femmes suivies, celles vaccinées avant 17 ans ont réduit leur risque de cancer du col de l'utérus de 88 %.",
+      "periode": "11 ans de suivi",
+      "perimetre": "Suède",
+      "explication": "Vacciner jeune, avant les premières expositions au virus, est le plus efficace : d'où le choix du collège.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "88 %"
+    },
+    {
+      "fait": "Selon un bilan de l'ANSM rapporté par la presse médicale, pendant les premières semaines de la campagne au collège en 2023, l'agence a relevé 7 cas d'événements indésirables et conclu à « aucun nouveau signal de sécurité ».",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La campagne scolaire n'a pas révélé de danger nouveau.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "7"
+    },
+    {
+      "fait": "Fait défavorable : selon Caducée.net, en octobre 2023, un collégien de Saint-Herblain est mort d'un traumatisme crânien après une chute consécutive à un malaise suivant sa vaccination ; l'ARS a écarté tout lien avec le vaccin, mais un médecin a été mis en examen en 2025 pour « homicide involontaire » pour la prise en charge du malaise.",
+      "periode": "2023-2025",
+      "perimetre": "France",
+      "explication": "Le drame tient à la surveillance après l'injection, pas au produit : d'où la consigne de surveiller 15 minutes et d'allonger l'élève en cas de malaise.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Santé publique France, 116 541 vaccinations ont été réalisées en collège en 2024-2025 ; la couverture d'au moins une dose passe de 38 % à 54 % chez les filles concernées, loin de l'objectif de 80 % en 2030.",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "La vaccination au collège rattrape un retard français, avec de fortes inégalités entre régions.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "54 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le vaccin a été suivi sur des millions de jeunes : pas de hausse globale des maladies auto-immunes, et un sur-risque rare de Guillain-Barré, de 1 à 2 cas pour 100 000. En face, les HPV causent 6 400 cancers par an en France. Le collégien mort en 2023 a fait une chute après un malaise, et les autorités ont écarté un lien avec le vaccin.",
+    "moyen": "En France, l'ANSM et l'Assurance maladie ont suivi plus de 2,2 millions de jeunes filles : pas d'augmentation globale des maladies auto-immunes. Elles ont trouvé un léger sur-risque de syndrome de Guillain-Barré, de 1 à 2 cas pour 100 000 vaccinées : un risque réel mais rare, déjà connu.\n\nEn face, les HPV causent 6 400 cancers par an en France. En Suède, la vaccination avant 17 ans réduit le risque de cancer du col de 88 %. Le collégien mort en 2023 a chuté après un malaise : l'ARS a écarté un lien avec le vaccin, et l'enquête porte sur la surveillance après l'injection. D'où la consigne : surveiller 15 minutes et allonger l'élève en cas de malaise.",
+    "detaille": "Le vaccin contre les papillomavirus est l'un des mieux surveillés. En France, l'ANSM et l'Assurance maladie ont comparé plus de 2,2 millions de jeunes filles, vaccinées ou non, entre 2008 et 2012. Résultat : « pas d'augmentation du risque global » de maladies auto-immunes. Elles ont toutefois trouvé un sur-risque probable de syndrome de Guillain-Barré, de l'ordre de 1 à 2 cas supplémentaires pour 100 000 vaccinées. C'est un risque réel, qu'il ne faut pas cacher, mais rare et déjà inscrit dans la notice. Pendant les premières semaines de la campagne au collège, en 2023, l'ANSM a relevé 7 événements indésirables et aucun nouveau signal.\n\nEn face, le bénéfice est massif. Les HPV causent 6 400 nouveaux cancers par an en France : col de l'utérus, mais aussi cancers de l'anus et de la gorge, chez les femmes comme chez les hommes. En Suède, sur près de 1,7 million de femmes, celles vaccinées avant 17 ans ont réduit leur risque de cancer du col de 88 %. C'est pour cela qu'on vaccine au collège : avant les premières expositions au virus, gratuitement, pour tous, quel que soit le milieu social.\n\nLe drame de Saint-Herblain, en octobre 2023, a ému tout le pays. Le collégien a fait un malaise, a été installé sur une chaise au lieu d'être allongé, est tombé et est mort d'un traumatisme crânien. L'ARS a écarté tout lien avec le vaccin ; c'est la prise en charge du malaise qui fait l'objet d'une enquête judiciaire. La leçon, c'est l'organisation : surveiller 15 minutes et allonger l'élève en cas de malaise. Aujourd'hui, 54 % des filles concernées ont reçu au moins une dose, loin de l'objectif de 80 % : le vrai danger, ce sont les cancers évitables.",
+    "empathie": "Il est normal que des parents s'inquiètent quand on vaccine leur enfant à l'école, encore plus après le drame de 2023. Cette inquiétude mérite des réponses précises, pas du mépris."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Un enfant est mort à cause du vaccin.",
+      "reponse": "Il est mort d'un traumatisme crânien après une chute consécutive à un malaise. L'ARS a écarté tout lien avec le vaccin ; l'enquête porte sur la prise en charge du malaise."
+    },
+    {
+      "objection": "Le vaccin donne des maladies auto-immunes.",
+      "reponse": "Sur plus de 2,2 millions de jeunes filles, l'ANSM et l'Assurance maladie ne trouvent pas de hausse globale. Le seul sur-risque probable est le syndrome de Guillain-Barré, de 1 à 2 cas pour 100 000."
+    },
+    {
+      "objection": "On n'a pas assez de recul.",
+      "reponse": "Les études portent sur plus de dix ans : en Suède, près de 1,7 million de femmes ont été suivies pendant 11 ans, avec une baisse de 88 % du risque de cancer du col chez les vaccinées avant 17 ans."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de cancers les papillomavirus causent chaque année en France ?",
+    "Entre 1 à 2 cas de Guillain-Barré pour 100 000 et 6 400 cancers par an, quel risque te paraît le plus important ?"
+  ],
+  "limites": [
+    "L'étude de l'ANSM date de 2015 et porte sur la période 2008-2012 ; elle concernait les jeunes filles, avant l'extension aux garçons.",
+    "Le bilan de pharmacovigilance de la campagne 2023 n'a été lu qu'à travers le début d'un article de presse ; le détail des 7 cas n'a pas été lu.",
+    "Le bilan 2024-2025 de Santé publique France a été lu à travers l'article de VIDAL (la page de Santé publique France n'a pas pu être ouverte).",
+    "L'étude suédoise a été lue à travers le communiqué de l'Institut Karolinska.",
+    "L'enquête judiciaire sur le décès de Saint-Herblain n'est pas close à la date de lecture des sources."
+  ],
+  "sources": [
+    {
+      "titre": "Vaccination contre les infections à HPV et risque de maladies auto-immunes : une étude Cnamts/ANSM rassurante",
+      "organisme": "ANSM (Agence nationale de sécurité du médicament) et Assurance maladie",
+      "date_publication": "13 septembre 2015 (mis à jour le 15 février 2021)",
+      "url": "https://ansm.sante.fr/actualites/vaccination-contre-les-infections-a-hpv-et-risque-de-maladies-auto-immunes-une-etude-cnamts-ansm-rassurante-1",
+      "passage": "Plus de 2,2 millions de jeunes filles de 13 à 16 ans suivies de janvier 2008 à décembre 2012, dont environ 840 000 vaccinées. La vaccination n'entraîne « pas d'augmentation du risque global de survenue de maladies auto-immunes ». Une augmentation du risque de syndrome de Guillain-Barré est probable : environ 1 à 2 cas supplémentaires pour 100 000 jeunes filles vaccinées ; cet effet figure déjà dans l'autorisation de mise sur le marché. Les bénéfices restent « bien plus importants que les risques ».",
+      "pertinence": "Agence publique de sécurité du médicament.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vaccins contre les infections à papillomavirus humains (HPV) – dossier thématique",
+      "organisme": "ANSM (Agence nationale de sécurité du médicament)",
+      "date_publication": "14 septembre 2023",
+      "url": "https://ansm.sante.fr/dossiers-thematiques/vaccins-contre-les-infections-a-papillomavirus-humains-hpv",
+      "passage": "« Chaque année en France, 6 400 nouveaux cas de cancers sont causés par les HPV. »",
+      "pertinence": "Agence publique de sécurité du médicament.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vaccin HPV : pas de nouveaux risques selon l'ANSM",
+      "organisme": "Le Quotidien du pharmacien",
+      "date_publication": "1er décembre 2023",
+      "url": "https://www.lequotidiendupharmacien.fr/medicament-parapharmacie/medicament/vaccin-hpv-pas-de-nouveaux-risques-selon-lansm",
+      "passage": "Bilan de pharmacovigilance de l'ANSM sur la campagne de vaccination des élèves de 5e, du 14 septembre au 31 octobre : l'agence « a relevé 7 cas d'événements indésirables » et conclut à « aucun nouveau signal de sécurité ».",
+      "pertinence": "Presse professionnelle de santé (article lu en partie, suite réservée aux inscrits).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vaccination scolaire : un médecin mis en examen pour la prise en charge d'un malaise",
+      "organisme": "Caducée.net",
+      "date_publication": "mars 2025",
+      "url": "https://www.caducee.net/actualite-medicale/16542/vaccination-scolaire-un-medecin-mis-en-examen-pour-la-prise-en-charge-d-un-malaise.html",
+      "passage": "Le 19 octobre 2023, un collégien de Saint-Herblain chute peu après une vaccination contre le papillomavirus et subit un traumatisme crânien ; il meurt le 27 octobre 2023. Selon l'instruction, il avait été installé sur une chaise plutôt qu'allongé. Le 5 mars 2025, un médecin présent est mis en examen pour « homicide involontaire » ; une mise en examen ne préjuge pas de la culpabilité. L'ARS a écarté tout lien entre le vaccin et le malaise ; selon INFOVAC, la réaction de stress liée à la vaccination est indépendante du vaccin. L'ARS rappelle une surveillance de 15 minutes et la position allongée en cas de malaise.",
+      "pertinence": "Site d'information médicale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "HPV vaccine effective against cervical cancer (New England Journal of Medicine, « HPV Vaccination and Risk of Invasive Cervical Cancer »)",
+      "organisme": "Institut Karolinska (université de médecine, Suède)",
+      "date_publication": "30 septembre 2020",
+      "url": "https://news.ki.se/hpv-vaccine-effective-against-cervical-cancer",
+      "passage": "Près de 1,7 million de femmes de 10 à 30 ans suivies pendant 11 ans, dont plus de 500 000 vaccinées. Les femmes vaccinées avant 17 ans ont « reduced their risk of cervical cancer by 88 percent » ; celles vaccinées entre 17 et 30 ans ont réduit leur risque de moitié.",
+      "pertinence": "Communiqué de l'université sur une étude évaluée par les pairs.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Vaccination contre HPV au collège : un bilan 2024-2025 positif mais moins important qu'en 2023-2024",
+      "organisme": "VIDAL (d'après le bilan de Santé publique France du 19 décembre 2025)",
+      "date_publication": "15 janvier 2026",
+      "url": "https://www.vidal.fr/actualites/37336-vaccination-contre-hpv-au-college-un-bilan-2024-2025-positif-mais-moins-important-qu-en-2023-2024.html",
+      "passage": "Selon Santé publique France : 116 541 vaccinations estimées en collège en 2024-2025. Chez les élèves concernés, la couverture d'au moins une dose passe de 38 % à 54 % chez les filles et de 29 % à 43 % chez les garçons. Objectif de « 80% à l'horizon 2030 ». En métropole, de 44 % (Provence-Alpes-Côte d'Azur) à 70 % (Bretagne) chez les filles.",
+      "pertinence": "Base d'information médicale reprenant un bilan de Santé publique France.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Bilan de la campagne 2025-2026 et suites de l'enquête judiciaire.",
+  "objections_legitimes": [
+    "Un léger sur-risque de syndrome de Guillain-Barré a été observé.",
+    "Un collégien est mort en 2023 après un malaise suivant une vaccination, et l'enquête judiciaire porte sur sa prise en charge.",
+    "Les malaises après injection sont fréquents chez les adolescents et demandent une surveillance."
+  ],
+  "publics": {
+    "convaincus": "Le vaccin a été suivi sur plus de 2,2 millions de jeunes filles en France : pas de hausse des maladies auto-immunes, et 1 à 2 cas de Guillain-Barré pour 100 000, un risque rare et connu. Le collégien mort en 2023 est tombé après un malaise ; l'enquête porte sur sa prise en charge, pas sur le produit. Pendant ce temps, les HPV causent 6 400 cancers par an.",
+    "indecis": "Ton inquiétude est normale. Le vaccin a un risque rare et connu, mais il évite des cancers fréquents : en Suède, 88 % de cancers du col en moins chez les filles vaccinées avant 17 ans. Au collège, il est gratuit, et les règles de surveillance après l'injection ont été rappelées."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite",
+      "universalite"
+    ],
+    "mecanismes": "La peur d’un effet indésirable rare, visible et médiatisé efface un bénéfice massif mais invisible : les cancers qui n’arrivent pas. Un drame lié à l’organisation des soins est présenté comme une preuve contre le produit.",
+    "consequences": "Sans vaccination à l’école, seuls les enfants de familles informées et proches d’un médecin sont protégés : les cancers évitables touchent alors d’abord les milieux populaires et les territoires mal dotés.",
+    "democratie": "La confiance dans la santé publique se gagne par la transparence sur les risques réels, la pharmacovigilance publique et la reconnaissance des erreurs d’organisation.",
+    "propositions": [
+      "Maintenir une vaccination gratuite au collège pour tous les élèves, filles et garçons, avec des moyens suffisants en médecins et infirmiers scolaires.",
+      "Garantir partout une surveillance après l’injection et des consignes claires en cas de malaise.",
+      "Publier régulièrement et simplement les données de pharmacovigilance pour répondre aux inquiétudes des parents."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un léger sur-risque de syndrome de Guillain-Barré a été observé, et un collégien est mort après une chute consécutive à un malaise suivant sa vaccination.",
+        "integration": "Ne rien cacher de ces faits renforce la confiance : le risque est rare et connu, et le drame appelle de meilleures conditions de vaccination, pas l’abandon d’une protection contre le cancer."
+      }
+    ]
+  },
+  "concepts": [
+    "dangerosite",
+    "vaccin",
+    "vaccin_hpv"
+  ],
+  "repond_a": [
+    {
+      "id": "vaccin_hpv_q2013",
+      "label": "Vaccin contre les papillomavirus"
+    },
+    {
+      "id": "vaccin_q2013_vaccin_hpv",
+      "label": "Vaccin contre les papillomavirus"
+    },
+    {
+      "id": "dangerosite_q2013_vaccin_hpv",
+      "label": "Vaccin contre les papillomavirus"
+    },
+    {
+      "id": "vaccin_dangerosite_q2013_vaccin_hpv",
+      "label": "Vaccin contre les papillomavirus"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fou",
+    "cingle",
+    "agressif",
+    "agressive",
+    "autoritaire",
+    "arn messager",
+    "arnm",
+    "pfizer",
+    "moderna",
+    "papillomavirus",
+    "gardasil"
+  ]
+}

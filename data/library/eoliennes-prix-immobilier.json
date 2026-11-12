@@ -1,0 +1,215 @@
+{
+  "id": "eoliennes-prix-immobilier",
+  "type": "idee_recue",
+  "affirmation": "Les éoliennes font baisser le prix des maisons.",
+  "volet": "ecologie",
+  "sous_theme": "Énergies renouvelables",
+  "rubriques": [],
+  "mots_cles": [
+    "eoliennes immobilier",
+    "eolienne prix maison",
+    "eolienne devalorisation",
+    "maison pres eolienne",
+    "eoliennes prix de l immobilier",
+    "eolienne perte valeur",
+    "eolien riverains",
+    "parc eolien maison"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur, car très exagéré. Selon l'étude de l'Ademe de 2022, portant sur plus d'un million de ventes, l'effet est nul au-delà de 5 km et très faible en deçà : environ -1,5 % au mètre carré, comparable à un pylône électrique ou une antenne relais. Les baisses « de 20 % ou plus » sont jugées fantaisistes. Un effet plus net existe tout près : une étude allemande trouve jusqu'à -7,1 % à moins d'un kilomètre, surtout pour les maisons anciennes en zone rurale.",
+  "contexte": "Dans les débats locaux sur les parcs éoliens, on entend souvent que les maisons voisines perdraient une grosse partie de leur valeur.",
+  "explication": "Il faut regarder les études qui comparent les prix de vente réels selon la distance aux éoliennes, en France et à l'étranger, et distinguer l'effet tout près des mâts de l'effet à quelques kilomètres.",
+  "faits": [
+    {
+      "fait": "Selon l'étude de l'Ademe de 2022, fondée sur les ventes de 2015 à 2020, les biens situés de 2,5 à 5 km d'un parc éolien perdent de l'ordre de 1,5 % du prix au m², avec un écart de -5 à +2.",
+      "periode": "2015-2020",
+      "perimetre": "France",
+      "explication": "L'effet est faible et incertain : il peut même être nul.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "1,5 %"
+    },
+    {
+      "fait": "D'après l'Ademe, l'effet est nul au-delà de 5 km, et comparable en deçà à celui de pylônes électriques ou d'antennes relais ; les dévaluations « de l'ordre de 20 % ou plus » sont jugées « fantaisistes ».",
+      "periode": "2015-2020",
+      "perimetre": "France",
+      "explication": "Les chiffres de 20 % ou 30 % qui circulent ne reposent sur rien.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "20 %"
+    },
+    {
+      "fait": "Le ministère de la Transition énergétique a repris ces conclusions au Journal officiel : un impact « quasi nul », au maximum -1,5 % dans un rayon de 5 km, et aucun au-delà.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "C'est la position officielle de l'État, fondée sur l'étude publique.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1,5 %"
+    },
+    {
+      "fait": "Selon l'Ademe, le nombre de ventes n'est pas affecté par les éoliennes, et seuls 3 % des riverains interrogés les citent parmi les trois principaux facteurs de dévalorisation de leur bien.",
+      "periode": "2015-2020",
+      "perimetre": "France",
+      "explication": "Les éoliennes ne bloquent pas le marché immobilier local.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "3 %"
+    },
+    {
+      "fait": "Fait défavorable : une étude allemande estime une baisse pouvant aller jusqu'à 7,1 % pour les maisons à moins d'un kilomètre d'une éolienne, surtout les maisons anciennes en zone rurale ; l'effet disparaît vers 8 à 9 km.",
+      "periode": "2019",
+      "perimetre": "Allemagne",
+      "explication": "Tout près des mâts, la perte peut être réelle pour certains propriétaires.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "7,1 %"
+    },
+    {
+      "fait": "Fait défavorable : l'étude de l'Ademe ne couvre pas bien les biens à moins de 2,5 km, faute de données suffisantes, et exclut les biens de caractère ; l'effet paraît plus fort dans le nord et sur le littoral méditerranéen.",
+      "periode": "2015-2020",
+      "perimetre": "France",
+      "explication": "Les situations les plus exposées sont justement les moins bien mesurées.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "L'effet existe, mais il est faible : environ -1,5 % au mètre carré entre 2,5 et 5 km, et rien au-delà, selon l'Ademe. C'est comparable à un pylône électrique. Les baisses de 20 % ou plus qu'on entend sont jugées fantaisistes, même si l'effet peut être plus fort tout près des mâts.",
+    "moyen": "L'Ademe a étudié plus d'un million de ventes entre 2015 et 2020. Résultat : de 2,5 à 5 km d'un parc éolien, les prix sont environ 1,5 % plus bas au mètre carré, avec une marge d'incertitude qui va jusqu'à zéro. Au-delà de 5 km, aucun effet. Les ventes ne ralentissent pas, et les dévaluations de 20 % ou plus sont jugées fantaisistes.\n\nIl faut pourtant reconnaître un vrai problème tout près des éoliennes. Une étude allemande trouve jusqu'à -7,1 % à moins d'un kilomètre, surtout pour les maisons anciennes à la campagne. Et l'étude française manque de données pour les maisons les plus proches.",
+    "detaille": "La crainte est compréhensible : une maison, c'est souvent l'économie de toute une vie. Pour y répondre, l'Ademe, l'agence publique de la transition écologique, a analysé en 2022 plus d'un million de ventes réalisées entre 2015 et 2020, complétées par des entretiens et des sondages auprès de riverains et d'agents immobiliers. Résultat : entre 2,5 et 5 km d'un parc, les prix au m² sont de l'ordre de 1,5 % plus bas, avec un écart de -5 à +2 ; au-delà de 5 km, l'effet est nul. Le nombre de ventes n'est pas affecté, et seuls 3 % des riverains citent les éoliennes parmi les trois principaux facteurs de dévalorisation.\n\nLe ministère a repris ces conclusions au Journal officiel : un impact « quasi nul », comparable à celui d'autres équipements comme les pylônes ou les antennes. Les chiffres de 20 % de perte ou plus qui circulent dans les réunions publiques sont qualifiés de « fantaisistes » par l'Ademe.\n\nMais il serait malhonnête de dire que l'effet n'existe jamais. Une étude allemande trouve une baisse pouvant aller jusqu'à 7,1 % pour les maisons à moins d'un kilomètre, surtout anciennes et rurales. L'étude française, elle, manque de données pour les maisons à moins de 2,5 km. Pour ces riverains, la réponse juste n'est pas de nier le problème, mais de partager les bénéfices : participation des habitants aux projets, retombées pour les communes, concertation sur l'emplacement.",
+    "empathie": "Une maison représente souvent les économies de toute une vie. Craindre de perdre de la valeur à cause d'un projet décidé ailleurs est une inquiétude sérieuse."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Mon voisin a perdu un tiers de la valeur de sa maison à cause des éoliennes.",
+      "reponse": "Un cas individuel peut avoir beaucoup de causes. Sur plus d'un million de ventes, l'Ademe trouve un effet de l'ordre de 1,5 % entre 2,5 et 5 km, et juge les baisses de 20 % ou plus fantaisistes."
+    },
+    {
+      "objection": "L'Ademe est pour l'éolien, elle n'est pas neutre.",
+      "reponse": "Ses résultats rejoignent ceux d'études étrangères indépendantes : un effet faible, qui décroît avec la distance. L'étude allemande trouve un effet plus fort tout près des mâts, et il faut le dire aussi."
+    }
+  ],
+  "questions": [
+    "À quelle distance de chez toi se trouve le projet éolien dont tu parles ?",
+    "Les pylônes électriques ou les antennes relais te semblent-ils aussi faire chuter les prix ?"
+  ],
+  "limites": [
+    "L'étude de l'Ademe n'a pas été lue en texte intégral, mais à travers Localtis, Que Choisir et la réponse ministérielle au Journal officiel.",
+    "Les données de l'Ademe sont anciennes (ventes 2015-2020) et peu nombreuses à moins de 2,5 km.",
+    "L'étude allemande repose sur des prix d'annonces, pas sur des prix de vente, et n'a été lue qu'à travers son résumé.",
+    "Le communiqué de France Renouvelables sur l'étude n'a pas été utilisé (source de la filière)."
+  ],
+  "sources": [
+    {
+      "titre": "L'impact de l'éolien sur l'immobilier est nul selon l'Ademe",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "7 juin 2022",
+      "url": "https://www.banquedesterritoires.fr/limpact-de-leolien-sur-limmobilier-est-nul-selon-lademe",
+      "passage": "L'étude de l'Ademe s'appuie sur les ventes de 2015 à 2020 (base DVF de la DGFiP), 25 entretiens, un sondage de 124 riverains et de 16 agents immobiliers. Pour les biens situés de 2,5 à 5 km d'un parc, une perte « de l'ordre de 1,5% du m2 (avec un écart de -5 à +2) » ; données trop peu nombreuses en deçà pour des observations robustes. Le nombre de transactions n'est pas affecté. L'impact paraît plus fort dans le nord et sur le littoral méditerranéen. Seuls 3 % des riverains citent les éoliennes parmi les trois principaux facteurs de dévalorisation. La revue de littérature conclut à « un impact nul à faiblement négatif ».",
+      "pertinence": "Média des collectivités résumant une étude de l'agence publique de la transition écologique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Immobilier et éoliennes. Un impact quasi nul",
+      "organisme": "UFC-Que Choisir",
+      "date_publication": "11 juin 2022",
+      "url": "https://www.quechoisir.org/actualite-immobilier-et-eoliennes-un-impact-quasi-nul-n101496/",
+      "passage": "L'étude de l'Ademe analyse plus d'un million de transactions de 2015 à 2020 et une enquête dans 20 communes à moins de 5 km d'une éolienne. Impact nul au-delà de 5 km, très faible en deçà (environ -1,5 % au mètre carré), comparable à celui de pylônes électriques ou d'antennes relais. Les « dévaluations systématiques de l'ordre de 20 % ou plus » sont jugées « fantaisistes ».",
+      "pertinence": "Association de consommateurs.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 1767 et réponse du ministère de la Transition énergétique",
+      "organisme": "Assemblée nationale (Journal officiel)",
+      "date_publication": "22 novembre 2022",
+      "url": "https://questions.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE1767.pdf",
+      "passage": "Réponse du ministère à une question d'un député : selon l'étude de l'Ademe de mai 2022, les éoliennes ont « un impact quasi nul sur les prix de l'immobilier » ; la baisse est de 1,5 % au maximum du prix au m² dans un rayon de 5 km, ce qui « n'aurait aucun impact au-delà ». Résultats comparables à ceux d'autres installations industrielles.",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Local Cost for Global Benefit: The Case of Wind Turbines (Ruhr Economic Papers n° 791)",
+      "organisme": "Frondel, Kussel, Sommer, Vance, RWI – Institut Leibniz de recherche économique (université de la Ruhr)",
+      "date_publication": "2019",
+      "url": "https://www.rwi-essen.de/en/publications/scientific/ruhr-economic-papers/detail/local-cost-for-global-benefit-the-case-13",
+      "passage": "À partir des annonces du principal site immobilier allemand, l'étude estime un effet « up to -7.1% for houses within a one-kilometer radius », qui « fades to zero at a distance of 8 to 9 km ». « Old houses and those in rural areas are affected the most » ; les prix urbains sont à peine touchés.",
+      "pertinence": "Document de travail d'un institut de recherche économique.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelle étude de l'Ademe ou travaux sur les ventes récentes.",
+  "objections_legitimes": [
+    "Un effet négatif faible existe à quelques kilomètres, et peut être plus fort à moins d'un kilomètre.",
+    "Les études manquent de données pour les maisons les plus proches des éoliennes.",
+    "Les riverains supportent des nuisances sans toujours profiter des retombées."
+  ],
+  "publics": {
+    "convaincus": "L'Ademe a regardé plus d'un million de ventes : entre 2,5 et 5 km d'une éolienne, c'est environ 1,5 % de moins, et rien au-delà. Les pertes de 20 % ou plus qu'on raconte ne se retrouvent dans aucune donnée. Tout près des mâts, l'effet peut être plus fort, et c'est là qu'il faut obtenir des compensations, pas renoncer à l'énergie locale.",
+    "indecis": "L'effet existe mais il est faible, comparable à celui d'un pylône électrique, et nul au-delà de 5 km. Pour les maisons très proches, il peut être plus marqué. Avant de s'opposer ou d'accepter un projet, il vaut la peine de demander la distance exacte et ce que la commune et les habitants y gagnent."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "repartition",
+      "solidarite"
+    ],
+    "mecanismes": "Une crainte réelle, la valeur de sa maison, est amplifiée par des chiffres invérifiables qui circulent dans les réunions publiques. L’effet mesuré est faible et local, mais il pèse sur quelques riverains pendant que les bénéfices vont souvent ailleurs.",
+    "consequences": "Les propriétaires modestes en zone rurale, dont la maison est le principal patrimoine, sont les plus inquiets ; une baisse même faible peut leur paraître injuste si les profits partent vers des opérateurs privés.",
+    "democratie": "Les projets imposés sans concertation nourrissent la défiance ; associer les habitants au choix des emplacements et aux bénéfices désamorce les rumeurs.",
+    "propositions": [
+      "Développer des parcs éoliens publics ou coopératifs dont les bénéfices reviennent aux communes et aux habitants.",
+      "Prévoir une compensation pour les riverains les plus proches lorsqu’une perte de valeur est constatée.",
+      "Rendre obligatoire une concertation réelle sur l’emplacement des mâts."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un effet négatif sur les prix existe à quelques kilomètres et peut être plus marqué à proximité immédiate des éoliennes.",
+        "integration": "Il faut le dire et y répondre par la compensation et le partage des bénéfices, plutôt que nier un problème que les riverains connaissent."
+      }
+    ]
+  },
+  "concepts": [
+    "logement",
+    "ecologie",
+    "eolien",
+    "eolien_immo"
+  ],
+  "repond_a": [
+    {
+      "id": "eolien_immo_q2013",
+      "label": "Éoliennes et prix de l’immobilier"
+    },
+    {
+      "id": "eolien_q2013_eolien_immo",
+      "label": "Éoliennes et prix de l’immobilier"
+    },
+    {
+      "id": "ecologie_q2013_eolien_immo",
+      "label": "Éoliennes et prix de l’immobilier"
+    },
+    {
+      "id": "ecologie_eolien_q2013_eolien_immo",
+      "label": "Éoliennes et prix de l’immobilier"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier",
+    "sdf",
+    "nucleaire"
+  ]
+}

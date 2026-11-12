@@ -1,0 +1,208 @@
+{
+  "id": "baisse-charges-emploi",
+  "type": "idee_recue",
+  "affirmation": "Baisser les charges patronales crée des emplois.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "baisse des charges",
+    "charges patronales",
+    "cotisations patronales",
+    "allegements de charges",
+    "cice emplois",
+    "cout du travail",
+    "baisser les charges cree des emplois",
+    "exonerations de cotisations",
+    "charges sociales emploi"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Plutôt exact, mais seulement en partie. Les baisses de cotisations sur les bas salaires, autour du SMIC, ont bien créé ou sauvé des emplois : des dizaines à des centaines de milliers selon les études. Au-delà de 1,6 SMIC, l'effet est très faible. Le CICE a coûté environ 18 milliards d'euros par an pour environ 100 000 emplois. Ces allègements coûtent aujourd'hui 75 à 80 milliards d'euros par an et freinent les hausses de salaire.",
+  "contexte": "Depuis les années 1990, tous les gouvernements ont réduit les cotisations patronales pour faire baisser le coût du travail. L'argument revient à chaque débat budgétaire, souvent pour défendre ces aides ou en réclamer de nouvelles.",
+  "explication": "Il faut regarder les évaluations publiques (France Stratégie, Conseil d'analyse économique, rapport Bozio-Wasmer) et distinguer les baisses sur les bas salaires de celles sur les salaires plus élevés.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : pour les allègements des années 1990 sur les bas salaires, les études estiment que des dizaines à des centaines de milliers d'emplois ont été créés ou sauvegardés, par exemple 70 000 à 180 000 emplois peu qualifiés selon une évaluation.",
+      "periode": "1993-2005",
+      "perimetre": "France",
+      "explication": "Sur les bas salaires, les baisses de cotisations ont un effet réel sur l'emploi : il faut le reconnaître.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Conseil d'analyse économique, au-delà de 1,6 SMIC, l'effet des baisses de cotisations sur l'emploi est très faible ou peu significatif, et elles n'améliorent pas les exportations.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Plus on monte dans les salaires, moins chaque euro d'allègement crée d'emplois.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "France Stratégie estime l'effet du CICE à environ 100 000 emplois, un effet jugé faible au regard de son coût, de l'ordre de 18 milliards d'euros en 2016.",
+      "periode": "2013-2016",
+      "perimetre": "France",
+      "explication": "C'est très cher par emploi : l'essentiel de l'argent n'a pas servi à embaucher.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "100 000"
+    },
+    {
+      "fait": "France Stratégie ne trouve pas d'effet réellement significatif du CICE sur l'investissement ; une autre évaluation trouve un effet non significatif sur l'emploi et une transmission d'au moins 50 % aux salaires.",
+      "periode": "2013-2016",
+      "perimetre": "France",
+      "explication": "Une partie de l'argent a servi à autre chose qu'à créer des emplois.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les allègements généraux de cotisations coûtent 75 milliards d'euros en 2023, soit 2,7 points de PIB, selon le rapport Bozio-Wasmer.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "C'est l'une des plus grosses dépenses publiques, qui manque ensuite à la Sécurité sociale ou aux services publics.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "75 Md€"
+    },
+    {
+      "fait": "Selon le rapport Bozio-Wasmer, des taux marginaux de prélèvement atteignant 80 % pour une part importante de salariés freinent les augmentations de salaire au-dessus du SMIC.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les allègements concentrés sur le SMIC incitent les employeurs à garder les salaires bas : c'est la « trappe à bas salaires ».",
+      "source": 0,
+      "fiabilite": "interpretation",
+      "chiffre": "80 %"
+    },
+    {
+      "fait": "Selon les scénarios du modèle Bozio-Wasmer, réduire les allègements pour économiser 4 milliards d'euros pourrait détruire entre 15 000 et 40 000 emplois à moyen terme.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Supprimer brutalement ces aides aurait un coût en emplois ; il faut les réorienter avec méthode.",
+      "source": 3,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Sur les bas salaires, oui : les baisses de cotisations ont créé ou sauvé des emplois. Mais au-delà de 1,6 SMIC, l'effet est très faible. Et le tout coûte 75 à 80 milliards d'euros par an, en freinant les hausses de salaire.",
+    "moyen": "Les économistes s'accordent sur un point : baisser les cotisations sur les salaires proches du SMIC aide à embaucher des personnes peu qualifiées. Des évaluations des années 1990 parlent de dizaines à centaines de milliers d'emplois. C'est un fait à reconnaître.\n\nMais l'effet s'effondre quand on monte dans les salaires : au-delà de 1,6 SMIC, il est très faible selon le Conseil d'analyse économique. Le CICE a coûté environ 18 milliards d'euros par an pour environ 100 000 emplois. Au total, ces allègements coûtent 75 milliards d'euros en 2023, et ils poussent les employeurs à garder les salaires près du SMIC. La question n'est pas « est-ce que ça marche ? » mais « est-ce le meilleur usage de cet argent ? ».",
+    "detaille": "Depuis les années 1990, la France a massivement réduit les cotisations patronales. Sur les bas salaires, cela a eu un effet réel : les évaluations des allègements Juppé estiment que des dizaines à des centaines de milliers d'emplois peu qualifiés ont été créés ou sauvés. Selon le Conseil d'analyse économique, une baisse de 1 % du coût du travail au niveau du SMIC augmente l'emploi industriel d'environ 1,7 %. Supprimer d'un coup ces aides détruirait des emplois.\n\nMais l'efficacité baisse vite quand on monte dans l'échelle des salaires. Au-delà de 1,6 SMIC, l'effet sur l'emploi est très faible et les exportations ne s'améliorent pas. Le CICE a coûté environ 18 milliards d'euros en 2016 pour environ 100 000 emplois selon France Stratégie, sans effet significatif sur l'investissement. Une autre évaluation montre qu'au moins la moitié de l'argent est allée aux salaires, surtout des plus qualifiés.\n\nLe coût total est énorme : 75 milliards d'euros en 2023, autour de 80 milliards selon la ministre du Travail en 2024. Et ces aides concentrées sur le SMIC créent une « trappe à bas salaires » : augmenter un salarié au-dessus du SMIC coûte très cher à l'employeur, avec des taux de prélèvement marginaux qui atteignent 80 % pour beaucoup de salariés. On peut donc défendre une position claire : garder ce qui marche sur les bas salaires, supprimer ce qui ne sert à rien au-dessus, et conditionner les aides à des embauches et à des hausses de salaires.",
+    "empathie": "Beaucoup de petits patrons trouvent le coût du travail élevé et craignent de ne pas pouvoir embaucher. Ce souci est légitime et mérite une réponse précise, pas un slogan."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on supprime les allègements, on détruit des centaines de milliers d'emplois.",
+      "reponse": "Sur les bas salaires, c'est un risque réel. Mais au-dessus de 1,6 SMIC, l'effet est très faible : on peut y économiser des milliards sans perte d'emplois importante, selon le Conseil d'analyse économique."
+    },
+    {
+      "objection": "Le CICE a créé des emplois.",
+      "reponse": "Environ 100 000 selon France Stratégie, pour environ 18 milliards d'euros par an. Pour le même prix, on aurait pu financer bien plus d'emplois publics ou d'investissements."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien coûtent chaque année les allègements de cotisations, comparé au budget de l'Éducation nationale ?",
+    "Pourquoi un patron augmenterait-il un salarié au-dessus du SMIC s'il perd ses allègements en le faisant ?"
+  ],
+  "limites": [
+    "Les estimations du nombre d'emplois varient beaucoup selon les méthodes et restent débattues entre économistes.",
+    "La note du Conseil d'analyse économique date de 2019 et les évaluations du CICE portent sur 2013-2016.",
+    "Le communiqué de France Stratégie de septembre 2020 n'a pas pu être ouvert ; le rapport complet a été lu sur Vie publique.",
+    "Le rapport Bozio-Wasmer n'a été lu qu'en partie (document de plusieurs centaines de pages)."
+  ],
+  "sources": [
+    {
+      "titre": "Les politiques d'exonérations de cotisations sociales : une inflexion nécessaire (rapport final)",
+      "organisme": "Antoine Bozio (EHESS, PSE, IPP) et Étienne Wasmer (NYU Abu Dhabi, Sciences Po), rapport remis au Premier ministre — publié par Vie publique",
+      "date_publication": "octobre 2024",
+      "url": "https://vie-publique.fr/files/rapport/pdf/295596.pdf",
+      "passage": "« Le coût du dispositif est estimé à 75 Md€ en 2023 » (2,7 points de PIB). Pour les allègements Juppé, Crépon et Desplatz (2001) estimaient que « 460 000 emplois auraient été créés ou sauvegardés entre 1994 et 1997 », estimation très contestée ; Jamet (2005) retient 70 000 à 180 000 emplois peu qualifiés. Consensus : sans ces exonérations, des centaines de milliers d'emplois seraient détruits. Pour le CICE, le LIEPP trouve « un effet non significatif sur l'emploi » et une incidence transmise aux salaires « pour au moins 50 % » ; le comité de suivi retient un ordre de grandeur de « 100 000 emplois créés ou sauvegardés ». Des « taux marginaux de prélèvement atteignant 80 % pour une part importante de salariés » freinent les hausses de salaire. Scénario central de réforme à budget constant : 10 000 à 20 000 emplois.",
+      "pertinence": "Rapport d'économistes commandé par le gouvernement.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Évaluation du crédit d'impôt pour la compétitivité et l'emploi — Synthèse des travaux d'approfondissement",
+      "organisme": "France Stratégie (Antoine Naboulet, Adam Baïz, Guilhem Tabarly), comité de suivi des aides publiques aux entreprises",
+      "date_publication": "septembre 2020",
+      "url": "https://www.vie-publique.fr/sites/default/files/rapport/pdf/276212.pdf",
+      "passage": "Selon les travaux microéconomiques, « L'effet total reste estimé à 100 000 emplois environ », jugé faible au regard du coût, de l'ordre de 18 milliards d'euros en 2016. Avec un modèle macroéconomique intégrant le financement, l'effet « resterait positif, de l'ordre de 160 000 », à ne pas prendre « au pied de la lettre ». Sur l'investissement, « il n'est pas possible d'établir un effet réellement significatif du CICE ».",
+      "pertinence": "Organisme public d'évaluation rattaché au Premier ministre.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Baisses de charges : stop ou encore ? (Note du CAE n° 49)",
+      "organisme": "Conseil d'analyse économique (Yannick L'Horty, Philippe Martin, Thierry Mayer)",
+      "date_publication": "janvier 2019",
+      "url": "https://cae-eco.fr/static/pdf/cae-note049v4.pdf",
+      "passage": "Au niveau du SMIC, les évaluations trouvent un effet positif sur l'emploi : pour les allègements Juppé, une baisse de 1 % du coût du travail sur les bas salaires augmente l'emploi manufacturier d'environ 1,7 %. Au-delà de 1,6 SMIC, l'effet est très faible ou peu significatif, et « nous ne trouvons pas d'impact positif sur les exportations ». Les auteurs recommandent de concentrer les allègements sur les bas salaires. Les exonérations entre 1,6 et 3,5 SMIC coûtent 4 milliards d'euros en 2019.",
+      "pertinence": "Conseil d'économistes placé auprès du Premier ministre.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Refonte des cotisations patronales : la ministre défend la réforme malgré un risque de destruction de 15 000 à 40 000 emplois",
+      "organisme": "Romain David, Public Sénat",
+      "date_publication": "5 novembre 2024",
+      "url": "https://www.publicsenat.fr/actualites/economie/refonte-des-cotisations-patronales-la-ministre-defend-la-reforme-malgre-un-risque-de-destruction-de-15-000-a-40-000-emplois",
+      "passage": "Les allègements généraux représentent environ 80 milliards d'euros, près de 1,5 fois le budget de l'Éducation nationale selon la ministre du Travail. La réforme visait 4 milliards d'économies ; selon les scénarios du modèle Bozio-Wasmer, elle pourrait détruire entre 15 000 et 40 000 emplois à moyen terme. Une sénatrice écologiste estime qu'au-delà de 2 SMIC, les allègements profitent aux employeurs sans effet sur l'emploi.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles évaluations des allègements et réformes budgétaires.",
+  "objections_legitimes": [
+    "Les baisses de cotisations sur les salaires proches du SMIC ont un effet positif mesuré sur l'emploi.",
+    "Supprimer brutalement ces aides détruirait des emplois.",
+    "Le coût du travail pèse réellement sur les petites entreprises à faible marge."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : baisser les cotisations au niveau du SMIC aide à embaucher, les économistes le confirment. Mais au-dessus, ça ne crée presque rien, et le CICE a coûté environ 18 milliards par an pour 100 000 emplois. Avec 75 milliards par an, on a le droit de demander des résultats.",
+    "indecis": "Les baisses de cotisations sur les bas salaires ont aidé l'emploi, c'est établi. Mais elles coûtent 75 à 80 milliards par an, ne servent presque à rien au-dessus de 1,6 SMIC et freinent les augmentations de salaire. On peut garder ce qui marche et mieux utiliser le reste."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "travailleurs",
+      "services_publics"
+    ],
+    "mecanismes": "Les allègements réduisent le coût du travail surtout au niveau du SMIC, ce qui aide l’embauche des moins qualifiés. Mais plus on monte dans les salaires, moins chaque euro crée d’emploi. Et comme les aides baissent quand le salaire augmente, elles incitent les employeurs à garder les salaires près du SMIC.",
+    "consequences": "Des dizaines de milliards d’euros manquent chaque année à la Sécurité sociale, compensés par l’impôt ou par des économies sur les services publics, tandis que de nombreux salariés restent bloqués au voisinage du SMIC.",
+    "democratie": "Une dépense publique de cette ampleur devrait être évaluée et débattue chaque année, avec des contreparties exigées des entreprises, au lieu d’être reconduite automatiquement.",
+    "propositions": [
+      "Supprimer les allègements au-dessus des bas salaires, où ils ne créent presque pas d’emplois.",
+      "Conditionner les aides restantes à des embauches, à des hausses de salaires et au respect de critères sociaux et écologiques.",
+      "Réaffecter les sommes économisées aux services publics et à la Sécurité sociale."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les baisses de cotisations sur les salaires proches du SMIC ont un effet positif mesuré sur l’emploi, et les supprimer brutalement en détruirait.",
+        "integration": "Il faut l’assumer : la gauche ne propose pas de tout supprimer d’un coup, mais de garder ce qui marche sur les bas salaires et de réorienter le reste, de façon progressive."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "fiscalite",
+    "cout"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "taxer",
+    "isf",
+    "tva",
+    "cout",
+    "couts"
+  ]
+}
