@@ -1,0 +1,232 @@
+{
+  "id": "ukraine-ue-agriculteurs",
+  "type": "idee_recue",
+  "affirmation": "L'entrée de l'Ukraine dans l'Union européenne va ruiner nos agriculteurs.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "ukraine union europeenne agriculteurs",
+    "adhesion ukraine agriculture",
+    "ukraine pac",
+    "poulet ukrainien",
+    "importations ukrainiennes",
+    "ble ukrainien",
+    "sucre ukrainien",
+    "ukraine ruiner agriculteurs",
+    "elargissement ue ukraine",
+    "concurrence ukraine agriculture"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Exagéré. L'adhésion de l'Ukraine n'est pas pour demain : fin 2026, seuls deux volets de négociation sur six sont ouverts et aucune date n'est fixée ; des experts parlent de 2035, voire au-delà de 2040. L'Ukraine est une très grande puissance agricole, et son entrée dans la PAC actuelle poserait de vrais problèmes de budget et de concurrence. Mais rien n'est joué : la PAC devrait être réformée avant, et l'accès au marché est déjà conditionné à l'alignement sur les normes européennes. Depuis 2022, certaines filières (volaille, sucre, œufs) ont réellement souffert des importations, ce qui a conduit à des clauses de sauvegarde.",
+  "contexte": "En 2022, l'UE a supprimé les droits de douane sur les produits ukrainiens pour soutenir le pays envahi. Les importations ont augmenté, des agriculteurs ont manifesté, et l'UE a réintroduit des quotas en 2025. En parallèle, les négociations d'adhésion ont repris en 2026 après la levée du blocage hongrois.",
+  "explication": "Il faut séparer trois choses : le commerce actuel avec l'Ukraine (déjà encadré), une adhésion lointaine et incertaine, et les règles de la PAC qui seront de toute façon renégociées avant. La « ruine » est une prévision, pas un fait.",
+  "faits": [
+    {
+      "fait": "Selon Euronews, en juillet 2026, l'UE a ouvert le volet 6 (relations extérieures) des négociations avec l'Ukraine ; seul le volet 1 (fondamentaux) avait été ouvert auparavant, en juin 2026. Aucun calendrier d'adhésion n'est fixé.",
+      "periode": "2026",
+      "perimetre": "Union européenne",
+      "explication": "L'adhésion est un processus long ; les règles agricoles d'une future Union élargie ne sont pas écrites.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Iddri, certains experts jugent une adhésion possible avant 2035, d'autres envisagent un processus au-delà de 2040, et un élargissement est « peu probable » sans réforme substantielle de la PAC.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "On ne peut pas prédire l'effet d'une adhésion avec la PAC actuelle, puisqu'elle devra changer.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "L'Ukraine comptait 41,3 millions d'hectares de surface agricole utile en 2021 ; les 10 plus grosses agro-holdings contrôlent 2,6 millions d'hectares. À règles constantes, elle pourrait recevoir 10 à 12 milliards d'euros d'aides de la PAC par an, devant la France (9,5 milliards).",
+      "periode": "2021-2024",
+      "perimetre": "Ukraine, Union européenne",
+      "explication": "Fait défavorable : le poids agricole ukrainien est considérable et poserait un vrai problème de partage des aides et de concurrence avec de très grandes exploitations.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "10 à 12 milliards d’euros"
+    },
+    {
+      "fait": "La part ukrainienne dans les importations européennes de volaille est passée de 13 % en 2021 à 29 % entre septembre 2022 et octobre 2023 ; selon le Gouvernement, cette hausse « est indéniable » mais a surtout remplacé les importations britanniques.",
+      "periode": "2021-2023",
+      "perimetre": "Union européenne",
+      "explication": "Fait défavorable : la libéralisation de 2022 a réellement pesé sur certaines filières, même si l'effet direct en France est discuté.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "29 %"
+    },
+    {
+      "fait": "L'accord de 2025 limite à de « modestes augmentations » les contingents pour le sucre, la volaille, les œufs, le blé, le maïs et le miel, prévoit une clause de sauvegarde activable pour un seul État membre, et conditionne l'accès au marché à l'alignement sur les normes de production européennes.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "Le commerce avec l'Ukraine n'est plus sans limite ; les outils de protection existent.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Réussir, depuis 2024, les seuils de sauvegarde sur les œufs, la volaille, le sucre, le miel, l'avoine et le maïs sont calculés sur les exportations moyennes de 2022 et 2023 ; les filières auraient voulu inclure 2021.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "Les filières ont obtenu des protections, mais jugent les seuils trop hauts.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "L'adhésion de l'Ukraine n'est pas pour demain : aucune date, et des experts parlent de 2035 ou plus. Elle pose de vraies questions pour la PAC, mais les règles seront renégociées avant. Le vrai sujet, c'est quelle agriculture on veut protéger : les petites fermes, ici comme là-bas.",
+    "moyen": "Fin 2026, l'Ukraine n'a ouvert que deux volets de négociation sur six, et aucun calendrier n'existe. L'Iddri rappelle que des experts parlent d'une adhésion après 2035, voire 2040, et qu'elle est « peu probable » sans réforme de la PAC.\n\nLe défi est réel : l'Ukraine a plus de 40 millions d'hectares agricoles et de gigantesques agro-holdings. Depuis 2022, la volaille, le sucre ou les œufs ukrainiens ont pesé sur certains marchés. Mais l'UE a réintroduit des quotas en 2025, avec une clause de sauvegarde et une obligation d'alignement sur les normes européennes. La question n'est pas « Ukraine ou pas », mais quelles règles de commerce et de partage des aides on se donne.",
+    "detaille": "Les négociations d'adhésion de l'Ukraine ont formellement débuté en juin 2024, mais elles ont été bloquées pendant deux ans par la Hongrie. En juin et juillet 2026, l'UE a ouvert deux volets de négociation sur six ; il n'y a aucun calendrier. Selon l'Iddri, certains experts évoquent une adhésion avant 2035, d'autres au-delà de 2040. Dire que l'adhésion « va » ruiner les agriculteurs, c'est donc juger un traité qui n'existe pas encore.\n\nLe défi est pourtant sérieux. L'Ukraine avait 41,3 millions d'hectares de surface agricole en 2021, et ses dix plus grosses agro-holdings contrôlent 2,6 millions d'hectares. Avec les règles actuelles de la PAC, elle pourrait recevoir 10 à 12 milliards d'euros d'aides par an, devant la France. C'est pourquoi l'Iddri juge un élargissement peu probable sans réforme profonde de la PAC. Depuis la suppression des droits de douane en 2022, la part ukrainienne des importations européennes de volaille a plus que doublé, et des filières comme le sucre ou les œufs ont demandé des protections.\n\nCes protections existent désormais : quotas réintroduits, clause de sauvegarde activable pour un seul pays, et accès au marché conditionné à l'alignement sur nos normes de bien-être animal et de pesticides. Le vrai risque n'est pas l'Ukraine en soi, c'est le libre-échange agricole sans règles et une PAC qui paie à l'hectare, au profit des plus grandes structures. Plafonner les aides, protéger les prix et imposer les mêmes normes à tous protège les paysans d'ici comme ceux de là-bas.",
+    "empathie": "Voir arriver des produits moins chers quand on a déjà du mal à vivre de son travail, c'est angoissant. Cette inquiétude est fondée ; elle mérite qu'on regarde ce qui est vraiment décidé."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils n'ont pas nos normes, c'est de la concurrence déloyale.",
+      "reponse": "C'est vrai aujourd'hui en partie, et c'est pourquoi l'accord de 2025 conditionne l'accès au marché à l'alignement sur les normes européennes. Une adhésion imposerait toutes nos règles."
+    },
+    {
+      "objection": "Le poulet ukrainien a envahi la France.",
+      "reponse": "La part ukrainienne a fortement augmenté dans les importations européennes ; selon le Gouvernement, elle a surtout remplacé le poulet britannique. Depuis 2024, des seuils de sauvegarde existent."
+    },
+    {
+      "objection": "Bruxelles va de toute façon faire entrer l'Ukraine demain.",
+      "reponse": "Il n'y a aucune date. Chaque étape exige l'unanimité des 27 États, et seuls deux volets sur six étaient ouverts mi-2026."
+    }
+  ],
+  "questions": [
+    "Qui profite le plus des aides de la PAC aujourd'hui : les petites fermes ou les plus grandes ?",
+    "Si l'Ukraine adhérait dans dix ou quinze ans avec nos normes, qu'est-ce qui devrait changer dans la PAC pour protéger les paysans ?"
+  ],
+  "limites": [
+    "L'adhésion est lointaine : toute évaluation de son impact est une projection, pas une mesure.",
+    "Les estimations d'aides PAC (10 à 12 milliards d'euros) reprennent des travaux de 2023-2024 et supposent des règles inchangées.",
+    "Aucune source lue ne chiffre l'effet des importations ukrainiennes sur le sucre ou les œufs en France.",
+    "La page de Public Sénat sur la PAC et l'Ukraine n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "L'Ukraine ouvre un nouveau volet de négociations et fait un pas de plus vers l'adhésion à l'UE",
+      "organisme": "Euronews (Angela Skujins)",
+      "date_publication": "14 juillet 2026",
+      "url": "https://fr.euronews.com/2026/07/14/lukraine-ouvre-un-nouveau-volet-de-negociations-et-fait-un-pas-de-plus-vers-ladhesion-a-lu",
+      "passage": "Les ministres de l'UE approuvent l'ouverture du cluster 6 (relations extérieures) avec l'Ukraine ; seul le cluster 1 (fondamentaux, État de droit) avait été ouvert auparavant, en juin 2026. La décision « met fin à deux ans de blocage politique » mené par l'ancien Premier ministre hongrois Viktor Orbán. La Commission juge l'Ukraine et la Moldavie « techniquement prêts à ouvrir l'ensemble des clusters » ; la suite dépend des 27 gouvernements. Aucun calendrier d'adhésion n'est donné.",
+      "pertinence": "Média européen d'information ; état des négociations à l'été 2026.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le secteur agricole ukrainien : présentation et enjeux à l'aune d'un éventuel élargissement de l'Union européenne (Étude n° 03/24)",
+      "organisme": "Iddri (Elsa Régnier, Aurélie Catallo)",
+      "date_publication": "juin 2024",
+      "url": "https://iddri.org/sites/default/files/PDF/Publications/Catalogue%20Iddri/Etude/202406-ST0324-ukraine%20UE.pdf",
+      "passage": "L'agriculture représente « 10 % du PIB, près de 15 % de l'emploi et 40 % des exportations » de l'Ukraine. Surface agricole utile : 41,3 millions d'hectares en 2021, 31,7 en 2023. Les « 10 plus grosses agro-holdings contrôlent 2,6 millions d'hectares » ; 4 à 5 millions de micro-fermes réalisent 32,1 % de la production. À cadre constant, « l'Ukraine pourrait recevoir entre 10 et 12 milliards d'euros d'aides de la PAC chaque année », devant la France (9,5 milliards). Négociations ouvertes le 25 juin 2024 ; adhésion évoquée avant 2035 par certains experts, au-delà de 2040 par d'autres. Il est « peu probable que l'élargissement puisse avoir lieu, à terme, sans réforme substantielle » de la PAC. Risques : concentration, fragilisation des petites exploitations, concurrence sur les prix.",
+      "pertinence": "Institut de recherche sur le développement durable reconnu (Sciences Po) ; étude de référence en français.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "L'UE et l'Ukraine parviennent à un accord de principe sur des relations commerciales modernisées",
+      "organisme": "Commission européenne (représentation au Luxembourg)",
+      "date_publication": "30 juin 2025",
+      "url": "https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/lue-et-lukraine-parviennent-un-accord-de-principe-sur-des-relations-commerciales-modernisees-2025-06-30_fr",
+      "passage": "Pour « les produits les plus sensibles, comme le sucre, la volaille, les œufs, le blé, le maïs et le miel », seules de « modestes augmentations » de contingents par rapport à l'accord initial. « Les deux parties auront la possibilité d'activer un mécanisme de sauvegarde », la perturbation pouvant être évaluée au niveau d'un ou de plusieurs États membres. L'accès au marché est « subordonné à l'alignement progressif de l'Ukraine sur les normes de production applicables dans l'UE » (bien-être animal, pesticides, médicaments vétérinaires).",
+      "pertinence": "Communiqué officiel de la Commission ; accord de principe, sans volumes détaillés.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 11534 sur les importations de volailles ukrainiennes, et réponse du ministère de l'Agriculture",
+      "organisme": "Assemblée nationale (réponse du ministère de l'Agriculture)",
+      "date_publication": "réponse publiée au JO le 28 novembre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE11534.pdf",
+      "passage": "Échanges libéralisés depuis le 4 juin 2022. La part ukrainienne dans les importations européennes de volaille est passée de 13 % en 2021 à 28 % entre janvier et avril 2023. La Commission a estimé en juillet et en octobre 2023 que la situation « ne le justifiait pas » (clause de sauvegarde). La hausse a surtout remplacé d'autres origines, principalement le Royaume-Uni, mais des importations françaises venues de Pologne et des Pays-Bas pourraient en découler indirectement. Sur les sept premiers mois de 2023, les importations françaises de volaille ont progressé de 4,1 % ; entre 2018 et 2022, la France a importé en moyenne 699 000 tonnes équivalent carcasse par an.",
+      "pertinence": "Réponse ministérielle officielle (2023).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 12471 sur les importations agricoles ukrainiennes, et réponse du ministère de l'Agriculture",
+      "organisme": "Assemblée nationale (réponse du ministère de l'Agriculture)",
+      "date_publication": "réponse publiée au JO le 16 janvier 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE12471.pdf",
+      "passage": "Importations de céréales ukrainiennes en hausse de 216 % entre juillet et décembre 2022 (10,6 millions de tonnes). Part ukrainienne des importations européennes de volaille : de 13 % (2021) à 29 % (septembre 2022 à octobre 2023). « La hausse des importations de viande de volaille ukrainienne dans l'UE » « est indéniable », selon le Gouvernement, qui estime qu'elle a surtout remplacé les importations britanniques.",
+      "pertinence": "Réponse ministérielle officielle (2024).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Œuf, volaille, sucre, miel, avoine et maïs : quel plafond pour les importations ukrainiennes ?",
+      "organisme": "Réussir (presse agricole)",
+      "date_publication": "20 mars 2024",
+      "url": "https://www.reussir.fr/volailles/oeuf-volaille-sucre-miel-avoine-et-mais-quel-plafond-pour-les-importations-ukrainiennes",
+      "passage": "« La suppression des droits de douane accordée en 2022 pour soutenir le pays envahi par la Russie » a contribué à déstabiliser des marchés agricoles. « Les seuils pour déclencher les mécanismes de sauvegarde sont ceux des exportations moyennes de 2022 et 2023 » ; les filières jugent que 2021 aurait dû être incluse. Produits concernés : œufs, volaille, sucre, miel, avoine, maïs et gruau.",
+      "pertinence": "Presse professionnelle agricole.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Avancée des négociations d'adhésion, bilan des quotas commerciaux et réforme de la PAC post-2027.",
+  "objections_legitimes": [
+    "La libéralisation de 2022 a réellement perturbé certaines filières, comme la volaille.",
+    "Avec la PAC actuelle, l'entrée de l'Ukraine réduirait la part des aides pour les autres pays.",
+    "Les très grandes exploitations ukrainiennes produisent à des coûts bien plus bas."
+  ],
+  "publics": {
+    "convaincus": "Personne ne sait quand l'Ukraine entrera dans l'UE : fin 2026, seuls deux volets de négociation sur six sont ouverts. Les problèmes de 2022 ont été réels, et l'UE a remis des quotas et une clause de sauvegarde. Le vrai danger, c'est le libre-échange sans règles et des aides versées à l'hectare aux plus gros, pas un peuple en guerre.",
+    "indecis": "Ton inquiétude est légitime : depuis 2022, la volaille ou le sucre ukrainiens ont pesé sur certains marchés. Mais l'adhésion n'a pas de date, et la PAC devra être réformée avant. Des protections existent déjà : quotas, clause de sauvegarde, obligation de respecter nos normes."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "internationalisme",
+      "solidarite",
+      "repartition"
+    ],
+    "mecanismes": "Le récit transforme un peuple en guerre en menace pour nos paysans, alors que la pression vient du libre-échange agricole sans règles et d’une politique agricole qui paie à l’hectare, au profit des plus grandes structures.",
+    "consequences": "Opposer les paysans français et ukrainiens profite aux grands groupes agro-industriels des deux côtés, qui concentrent les terres et les aides pendant que les petites fermes disparaissent.",
+    "democratie": "Les règles du commerce agricole et du partage des aides européennes doivent être débattues publiquement, avec les paysans, et non négociées loin d’eux ou instrumentalisées pour attiser la peur.",
+    "propositions": [
+      "Plafonner les aides de la politique agricole commune par actif plutôt qu’à l’hectare, pour protéger les petites et moyennes fermes partout en Europe.",
+      "Imposer les mêmes normes sociales, sanitaires et environnementales à tous les produits importés, avec des clauses de sauvegarde réellement activables.",
+      "Garantir des prix planchers rémunérateurs pour les producteurs plutôt que de les exposer à la concurrence mondiale."
+    ],
+    "defavorables": [
+      {
+        "fait": "La suppression des droits de douane décidée pour soutenir l’Ukraine a réellement perturbé certaines filières, comme la volaille, et une adhésion avec la politique agricole actuelle poserait un vrai problème de partage des aides.",
+        "integration": "Le reconnaître sans détour, puis montrer que la réponse est de changer les règles du commerce et de la politique agricole, pas de refuser la solidarité avec un pays agressé."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "ukraine_ukraine_ue",
+      "label": "Adhésion de l’Ukraine et agriculture"
+    },
+    {
+      "id": "europe_ukraine_ue",
+      "label": "Adhésion de l’Ukraine et agriculture"
+    },
+    {
+      "id": "ukraine_ue",
+      "label": "Adhésion de l’Ukraine et agriculture"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "bruxelles",
+    "union europeenne",
+    "nucleaire",
+    "kiev",
+    "kyiv"
+  ],
+  "concepts": [
+    "europe",
+    "ecologie",
+    "ukraine",
+    "ukraine_ue"
+  ]
+}

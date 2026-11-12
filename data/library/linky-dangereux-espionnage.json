@@ -1,0 +1,213 @@
+{
+  "id": "linky-dangereux-espionnage",
+  "type": "idee_recue",
+  "affirmation": "Le compteur Linky est dangereux et sert à nous espionner.",
+  "volet": "ecologie",
+  "sous_theme": "Prix de l’énergie",
+  "rubriques": [],
+  "mots_cles": [
+    "linky dangereux",
+    "linky ondes",
+    "linky espionnage",
+    "compteur linky sante",
+    "linky donnees personnelles",
+    "linky cancer",
+    "refuser linky",
+    "linky electrosensible",
+    "compteur communicant",
+    "linky courbe de charge",
+    "linky surcout"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux pour la santé, à nuancer pour les données. Les mesures officielles montrent un champ très faible, comparable à celui d'un chargeur d'ordinateur, et l'ANSES juge peu probable un effet sanitaire. Côté vie privée, le compteur ne relève par défaut qu'un index par jour ; la courbe détaillée exige l'accord de l'abonné. La CNIL a pourtant sanctionné EDF et Engie en 2020 pour un consentement mal recueilli, corrigé depuis. La vraie critique est ailleurs : la Cour des comptes a jugé en 2018 que ce projet de 5,7 milliards d'euros, payé par les usagers, leur profitait trop peu, et la pose est devenue quasi obligatoire.",
+  "contexte": "Le déploiement du compteur Linky, à partir de 2015, a suscité une forte opposition : craintes pour la santé, peur de la surveillance, poses jugées imposées. Depuis 2025, les foyers qui le refusent paient un surcoût.",
+  "explication": "Il faut séparer trois questions : l'exposition aux ondes (mesures ANFR, avis ANSES), l'usage des données (règles de consentement, contrôles de la CNIL), et le coût et le bénéfice pour les usagers (Cour des comptes).",
+  "faits": [
+    {
+      "fait": "Selon l'ANSES (2017), les niveaux d'exposition des compteurs communicants sont « très faibles par rapport aux valeurs réglementaires » et il est « peu probable » qu'ils aient des effets sanitaires à court ou long terme ; à 30 cm, le champ magnétique est comparable à celui d'un chargeur d'ordinateur.",
+      "periode": "2016-2018",
+      "perimetre": "France",
+      "explication": "Le risque sanitaire n'est pas démontré, et l'exposition est minime.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Par défaut, le compteur transmet un index par jour, la nuit ; la courbe de charge (toutes les 30 minutes) n'est transmise qu'avec l'autorisation explicite de l'abonné, et un tiers n'y accède qu'avec un consentement « éclairé et écrit ».",
+      "periode": "2017-2021",
+      "perimetre": "France",
+      "explication": "Le suivi fin de la consommation n'est pas automatique ; l'abonné garde la main.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon CNIL, en février 2020, la CNIL a mis en demeure EDF et Engie pour un consentement recueilli par une case unique couvrant deux usages distincts, et pour une conservation excessive des données ; les mises en demeure ont été closes en 2021 après correction.",
+      "periode": "2020-2021",
+      "perimetre": "France",
+      "explication": "Fait défavorable : les inquiétudes sur les données n'étaient pas toutes infondées, mais le régulateur a agi.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Cour des comptes (2018), Linky coûte près de 5,7 milliards d'euros, environ 130 € par compteur, « in fine payé par le consommateur » ; la rémunération d'Enedis est jugée « généreuse » et les outils de maîtrise de la consommation sont « très insuffisants ».",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Fait défavorable : la vraie faiblesse de Linky est son bénéfice limité pour les usagers qui le paient.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "5,7 milliards d’euros"
+    },
+    {
+      "fait": "La Cour de cassation a jugé que les usagers ne peuvent s'opposer à l'installation ; depuis l'été 2025, les foyers sans Linky paient un surcoût, de 6,48 € tous les deux mois s'ils transmettent leurs index. 95 % des foyers sont équipés selon Enedis.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Fait défavorable : la pose est devenue quasi obligatoire, ce qui nourrit le sentiment d'imposition.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "95 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les mesures officielles montrent que Linky émet très peu d'ondes, comme un chargeur d'ordinateur. Il ne transmet par défaut qu'une consommation par jour, et le détail exige ton accord. Le vrai problème, c'est qu'il a coûté 5,7 milliards aux usagers pour un bénéfice jugé trop faible par la Cour des comptes.",
+    "moyen": "Les mesures de l'ANFR et l'avis de l'ANSES sont clairs : l'exposition est très faible, comparable à celle d'un chargeur d'ordinateur, et un effet sur la santé est jugé peu probable. Côté données, le compteur envoie un index par jour ; la courbe à la demi-heure n'est transmise qu'avec l'accord de l'abonné.\n\nIl y a eu des abus : la CNIL a mis en demeure EDF et Engie en 2020 pour un consentement mal recueilli, corrigé depuis. Et la Cour des comptes a jugé en 2018 que ce projet de 5,7 milliards d'euros, payé par les usagers, servait surtout Enedis. Depuis 2025, refuser Linky coûte un surcoût.",
+    "detaille": "Sur la santé, les faits sont rassurants. L'INERIS, le CSTB et l'ANFR ont mesuré l'exposition en laboratoire et dans des logements : le champ est nettement inférieur aux valeurs réglementaires, et à 30 cm, il est comparable à celui d'un chargeur d'ordinateur. L'ANSES a conclu en 2017 qu'il est « peu probable » que ces ondes aient des effets sanitaires. Toute personne peut demander gratuitement une mesure à l'ANFR.\n\nSur l'espionnage, la réalité est plus nuancée. Par défaut, le compteur transmet un index par jour, la nuit. La courbe de charge, qui pourrait révéler des habitudes de vie comme le craignait la CNIL, n'est transmise qu'avec un accord explicite. Mais en 2020, la CNIL a mis en demeure EDF et Engie, qui recueillaient ce consentement par une seule case couvrant plusieurs usages et gardaient trop longtemps les données. Les deux entreprises ont corrigé en 2021. La vigilance citoyenne et le régulateur ont donc servi à quelque chose.\n\nLa critique la plus solide vient de la Cour des comptes. En 2018, elle relevait que Linky coûtait près de 5,7 milliards d'euros, payés au final par les consommateurs, que la rémunération d'Enedis était « généreuse » et que les usagers en tiraient trop peu de bénéfices. Depuis, la Cour de cassation a jugé qu'on ne pouvait pas s'opposer à la pose, et les foyers sans Linky paient un surcoût depuis 2025. Le vrai débat porte sur un service public de l'énergie au service des usagers, pas sur des ondes dangereuses.",
+    "empathie": "Voir un appareil posé chez soi sans vraiment avoir le choix, avec des données qui partent on ne sait où, peut donner un sentiment de dépossession. Cette méfiance mérite des réponses précises."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les ondes de Linky donnent des cancers.",
+      "reponse": "L'ANSES juge peu probable tout effet sanitaire ; à 30 cm, le champ est comparable à celui d'un chargeur d'ordinateur."
+    },
+    {
+      "objection": "Linky sait quand je suis chez moi et le revend.",
+      "reponse": "Par défaut, il transmet un index par jour. La courbe détaillée et le partage avec des tiers exigent ton accord, et la CNIL a sanctionné les abus."
+    },
+    {
+      "objection": "C'est l'État qui m'a imposé ce compteur pour me surveiller.",
+      "reponse": "La pose est quasi obligatoire, c'est vrai, mais pour des raisons de gestion du réseau et de facturation. La critique sérieuse porte sur le coût payé par les usagers, pas sur l'espionnage."
+    }
+  ],
+  "questions": [
+    "Savais-tu que tu peux refuser la transmission de ta courbe de charge détaillée et faire mesurer gratuitement les ondes chez toi ?",
+    "Qui devrait profiter des économies permises par Linky : les usagers qui l'ont payé, ou le gestionnaire du réseau ?"
+  ],
+  "limites": [
+    "L'avis de l'ANSES date de 2017 et a été lu à travers une réponse ministérielle ; l'avis original n'a pas été ouvert.",
+    "Le rapport de la Cour des comptes (2018) a été lu via un compte rendu de Localtis ; ses chiffres datent de 2017.",
+    "L'article de MoneyVox ne précise pas la date de l'arrêt de la Cour de cassation.",
+    "La page de l'INC date de 2017, mise à jour en 2021 ; les modalités d'accès aux données ont pu évoluer."
+  ],
+  "sources": [
+    {
+      "titre": "Question écrite n° 9477 sur les compteurs Linky, et réponse du ministère de la Transition écologique",
+      "organisme": "Assemblée nationale (réponse du ministère de la Transition écologique et solidaire)",
+      "date_publication": "réponse publiée au JO le 12 octobre 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE9477.pdf",
+      "passage": "Mesures de l'INERIS, du CSTB et de l'ANFR (2016-2017) : champ faible, nettement inférieur aux valeurs réglementaires ; à 30 cm, le champ magnétique « est du même ordre de grandeur que celui d'un chargeur d'ordinateur ». Avis de l'ANSES (juin 2017) : « les niveaux d'exposition générés par les compteurs communicants sont très faibles par rapport aux valeurs réglementaires » et « qu'il est peu probable que l'exposition aux ondes émises puisse engendrer des effets sanitaires à court ou long terme ». Depuis le 6 juin 2018, tout citoyen peut faire mesurer gratuitement son exposition par l'ANFR.",
+      "pertinence": "Réponse ministérielle officielle reprenant l'avis de l'ANSES (2017).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Compteur Linky et données personnelles",
+      "organisme": "Institut national de la consommation (INC)",
+      "date_publication": "9 mai 2017, mis à jour le 5 mars 2021",
+      "url": "https://www.inc-conso.fr/content/compteur-linky-et-donnees-personnelles",
+      "passage": "Index de consommation transmis une fois par jour, de nuit. La courbe de charge (relevés toutes les 30 minutes) n'est transmise à Enedis qu'après autorisation explicite ; l'abonné peut s'opposer à son enregistrement dans le compteur. Transmission à un fournisseur ou un tiers seulement avec un consentement « éclairé et écrit » ; les consommations mensuelles sont transmises au fournisseur pour la facturation. Le nom, l'adresse et les coordonnées bancaires ne transitent pas par le compteur ; données chiffrées. La CNIL craignait en 2012 qu'une analyse de la courbe de charge révèle la vie privée (heures de lever, absences) et a constaté en 2015 qu'Enedis suivait ses recommandations.",
+      "pertinence": "Établissement public d'information des consommateurs.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Compteurs Linky : la CNIL met en demeure EDF et ENGIE (communiqué du 11 février 2020)",
+      "organisme": "CNIL, communiqué reproduit par Dalloz Actualité",
+      "date_publication": "11 février 2020",
+      "url": "https://www.dalloz-actualite.fr/document/cnil-communique-11-fevr-2020",
+      "passage": "Deux manquements : le recueil du consentement, par « une seule et unique case à cocher le consentement pour deux opérations clairement distinctes », et la durée de conservation : EDF gardait les données à la demi-heure cinq ans après la résiliation alors que « les données de consommation à la demi-heure ne sont pas nécessaires pour établir la facturation ». Trois mois pour se mettre en conformité.",
+      "pertinence": "Communiqué officiel de l'autorité de protection des données.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Compteurs Linky : la Cnil clôture les mises en demeure d'Engie et EDF",
+      "organisme": "AFP, repris par Connaissance des énergies",
+      "date_publication": "6 mai 2021",
+      "url": "https://www.connaissancedesenergies.org/afp/compteurs-linky-la-cnil-cloture-les-mises-en-demeure-dengie-et-edf-210506",
+      "passage": "La CNIL clôt la mise en demeure d'Engie (décision du 4 mai 2021), les manquements ayant « cessé » ; celle d'EDF avait été close en février 2021. Nouveau parcours permettant d'accepter le suivi quotidien sans le suivi à la demi-heure, et durées de conservation proportionnées.",
+      "pertinence": "Dépêche AFP.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les compteurs Linky doivent bénéficier davantage aux consommateurs",
+      "organisme": "Banque des Territoires (Localtis, Anne Lenormand), sur le rapport public annuel 2018 de la Cour des comptes",
+      "date_publication": "7 février 2018",
+      "url": "https://www.banquedesterritoires.fr/les-compteurs-linky-doivent-beneficier-davantage-aux-consommateurs",
+      "passage": "39 millions de compteurs à remplacer d'ici 2024 ; coût total de près de 5,7 milliards d'euros courants, environ 130 € par compteur, « in fine payé par le consommateur » via la redevance d'acheminement. Rémunération d'Enedis jugée « généreuse » ; marge liée au préfinancement d'environ 500 millions d'euros. Diffusion des outils de maîtrise de la consommation « très insuffisante ». Communication sur les risques sanitaires et la vie privée jugée insuffisante. La CRE juge le projet « largement bénéficiaire » à l'échelle nationale.",
+      "pertinence": "Média des collectivités (Caisse des dépôts) résumant un rapport de la Cour des comptes ; le rapport lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Linky : une très mauvaise nouvelle pour les opposants aux compteurs communicants",
+      "organisme": "MoneyVox",
+      "date_publication": "30 avril 2025",
+      "url": "https://www.moneyvox.fr/energie/actualites/103183/linky-une-tres-mauvaise-nouvelle-pour-les-opposants-aux-compteurs-communicants",
+      "passage": "La Cour de cassation a confirmé que « les usagers ne peuvent s'opposer à l'installation d'un compteur Linky sur leur propriété ». Un surcoût s'applique aux foyers sans Linky à partir de l'été 2025 : « 6,48 euros tous les deux mois » s'ils transmettent leurs index, 63,72 € par an sinon. Selon Enedis, plus de 37,4 millions de compteurs installés, « soit 95% des foyers équipés ».",
+      "pertinence": "Site d'information sur la consommation et l'argent.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Évolution du surcoût pour les foyers sans Linky et éventuels nouveaux avis de l'ANSES ou de la CNIL.",
+  "objections_legitimes": [
+    "La CNIL a réellement sanctionné EDF et Engie en 2020 pour un consentement mal recueilli.",
+    "La Cour des comptes a jugé le bénéfice pour les usagers trop faible et la rémunération d'Enedis généreuse.",
+    "La pose est devenue quasi obligatoire, avec un surcoût pour ceux qui refusent."
+  ],
+  "publics": {
+    "convaincus": "Les mesures officielles sont claires : Linky émet aussi peu d'ondes qu'un chargeur d'ordinateur. Pour les données, la CNIL veille : elle a même sanctionné EDF et Engie en 2020, qui ont dû corriger. Si tu veux une vraie colère, prends celle de la Cour des comptes : 5,7 milliards payés par les usagers, au bénéfice surtout d'Enedis.",
+    "indecis": "Ta méfiance est compréhensible. Les ondes sont très faibles selon l'ANSES, et le compteur ne transmet qu'une consommation par jour sans ton accord. Tu peux refuser le suivi détaillé et demander une mesure gratuite des ondes. Les critiques sérieuses portent sur le coût et la pose imposée."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "libertes",
+      "democratie",
+      "repartition"
+    ],
+    "mecanismes": "La peur des ondes et de la surveillance détourne l’attention de la vraie question : un équipement payé par les usagers dont les bénéfices profitent surtout au gestionnaire du réseau et aux fournisseurs.",
+    "consequences": "Les fausses alertes sanitaires décrédibilisent les vraies exigences de protection des données personnelles et de contrôle démocratique du service public de l’électricité.",
+    "democratie": "Les usagers doivent garder la maîtrise de leurs données de consommation, et les grands investissements du réseau électrique doivent être décidés et contrôlés publiquement.",
+    "propositions": [
+      "Garantir par la loi que les données détaillées de consommation ne peuvent être collectées ou exploitées commercialement sans accord explicite et révocable.",
+      "Reverser aux usagers les gains d’efficacité permis par les compteurs communicants, par une baisse des tarifs d’acheminement.",
+      "Ramener la distribution et la fourniture d’électricité dans un service public pleinement contrôlé par la collectivité."
+    ],
+    "defavorables": [
+      {
+        "fait": "La CNIL a réellement mis en demeure de grands fournisseurs d’énergie pour un consentement mal recueilli sur les données Linky, et la pose est devenue quasi obligatoire.",
+        "integration": "Donner raison à la vigilance sur les données et sur le caractère imposé, tout en rappelant que les ondes ne posent pas de risque démontré et que la critique sérieuse porte sur le coût et le partage des bénéfices."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fou",
+    "cingle",
+    "agressif",
+    "agressive",
+    "autoritaire",
+    "pourcentage",
+    "insee",
+    "donnees"
+  ],
+  "concepts": [
+    "dangerosite",
+    "statistiques"
+  ]
+}

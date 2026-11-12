@@ -1,0 +1,226 @@
+{
+  "id": "mna-cout-departements",
+  "type": "idee_recue",
+  "affirmation": "Un mineur non accompagné coûte 50 000 euros par an aux départements.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et finances publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "mna 50000 euros",
+    "cout mineur non accompagne",
+    "mineurs isoles cout",
+    "mna departements",
+    "mna ase cout",
+    "mineurs etrangers isoles prix",
+    "mna coutent cher",
+    "migrants mineurs departements faillite",
+    "cout protection enfance migrants"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le chiffre de 50 000 € vient de l'Assemblée des départements de France (ADF), qui le présente comme une moyenne. Un rapport de trois inspections de l'État juge en 2021 qu'il suppose 137 € par jour, un coût « assez largement supérieur aux pratiques observées ». Il n'existe pas de chiffre officiel précis. Ce coût est celui de la protection d'un enfant seul, hébergé, nourri et scolarisé, comme pour tout enfant confié à l'aide sociale à l'enfance.",
+  "contexte": "Les départements sont chargés de protéger les mineurs isolés étrangers, comme tous les enfants en danger. Le chiffre de 50 000 € par an, repris par des élus, circule pour dénoncer le « coût » des MNA.",
+  "explication": "Il faut savoir d'où vient le chiffre, ce qu'en disent les inspections de l'État, combien de jeunes sont concernés et ce que couvre la dépense.",
+  "faits": [
+    {
+      "fait": "Le chiffre de 50 000 € par mineur et par an est une estimation de l'Assemblée des départements de France, reprise par des parlementaires ; le Gouvernement ne l'a pas reprise dans sa réponse de 2022.",
+      "periode": "2020-2022",
+      "perimetre": "France",
+      "explication": "C'est le chiffre d'une des parties qui demandent plus d'argent à l'État, pas une mesure officielle.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "50 000 €"
+    },
+    {
+      "fait": "Les inspections générales notent en 2021 que ce chiffre suppose 137 € par jour, un coût qui « semble assez largement supérieur aux pratiques observées ».",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Le chiffre est probablement une fourchette haute.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "137 €"
+    },
+    {
+      "fait": "Selon la mission du Sénat, la prise en charge des 23 461 MNA présents fin 2020 coûtait environ 1,1 milliard d'euros, mais il est « difficile de retracer avec précision » ces dépenses.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Les ordres de grandeur existent, mais pas de comptabilité précise.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "1,1 milliard d’euros"
+    },
+    {
+      "fait": "Fait défavorable : selon les inspections, la contribution de l'État à la prise en charge durable des MNA (15,8 M€ en 2020) représenterait à peine plus de 1 % des dépenses des départements, qui en supportent l'essentiel.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "La charge pour les départements est réelle ; c'est un argument pour que l'État prenne sa part, pas pour abandonner des enfants.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "1 %"
+    },
+    {
+      "fait": "En 2024, 13 554 décisions de placement de MNA ont été prononcées, environ 30 % de moins qu'en 2023 ; 91 % sont des garçons et 59 % ont 16 ans ou plus.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le nombre d'arrivées baisse fortement.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "13 554"
+    },
+    {
+      "fait": "La protection de l'enfance dans son ensemble représente 11,7 milliards d'euros de dépenses départementales en 2024, pour 392 600 bénéficiaires.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les MNA ne sont qu'une partie de cette politique, qui protège surtout des enfants nés en France.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "11,7 milliards d’euros"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le chiffre de 50 000 € par an est une estimation des départements eux-mêmes. Les inspections de l'État le jugent supérieur aux coûts observés. Et c'est le prix de la protection d'un enfant seul : un toit, des repas, l'école, comme pour tout enfant de l'aide sociale à l'enfance.",
+    "moyen": "Le chiffre de 50 000 € par mineur et par an vient de l'Assemblée des départements de France. Il n'a jamais été confirmé par l'État. En 2021, trois inspections générales ont calculé qu'il suppose 137 € par jour, un coût « assez largement supérieur aux pratiques observées ». Le Sénat estimait le coût total à environ 1,1 milliard d'euros fin 2020, tout en notant qu'il est difficile à mesurer.\n\nCe coût est celui de la protection d'un enfant : hébergement, nourriture, éducation, accompagnement. Les MNA sont tous hébergés, contrairement à beaucoup d'autres jeunes suivis. Le vrai problème est que l'État paie très peu : un peu plus de 1 % de la dépense en 2020.",
+    "detaille": "Le chiffre de 50 000 € par an circule depuis 2020. Il vient de l'Assemblée des départements de France, qui réclame plus de moyens à l'État. Repris dans des questions parlementaires, il n'a pas été confirmé par le Gouvernement. Le rapport de l'IGAS, de l'IGA et de l'IGJ de 2021 l'examine : il suppose un coût de 137 € par jour, qui « semble assez largement supérieur aux pratiques observées ».\n\nIl n'existe pas de chiffre officiel précis : selon la mission du Sénat de 2021, il est « difficile de retracer avec précision » ces dépenses ; elle évaluait le total à environ 1,1 milliard d'euros pour les 23 461 jeunes pris en charge fin 2020. Le nombre d'arrivées a depuis baissé : 13 554 placements en 2024, environ 30 % de moins qu'en 2023. Ce sont surtout des garçons de 16 ou 17 ans venus de Guinée, du Mali et de Côte d'Ivoire.\n\nLa vraie question est celle du partage. Selon les inspections, l'État ne finançait en 2020 qu'un peu plus de 1 % de la prise en charge durable. Les départements ont donc raison de demander de l'aide. Mais un enfant seul sur le territoire reste un enfant : la loi impose de le protéger, quelle que soit son origine. Le débat devrait porter sur le financement par la solidarité nationale, pas sur l'abandon de mineurs.",
+    "empathie": "Quand on voit les départements manquer d'argent pour les routes, les collèges ou les personnes âgées, on peut se demander où passe l'argent. C'est une vraie question, qui mérite des chiffres honnêtes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "50 000 €, c'est plus qu'un SMIC.",
+      "reponse": "C'est une estimation haute des départements eux-mêmes, et elle couvre l'hébergement, la nourriture, l'école et l'encadrement 24 heures sur 24 d'un enfant, pas un revenu versé au jeune."
+    },
+    {
+      "objection": "Ce sont des majeurs qui mentent sur leur âge.",
+      "reponse": "Chaque jeune est évalué, et ceux qui ne sont pas reconnus mineurs ne restent pas à l'aide sociale à l'enfance. Les 13 554 placements de 2024 ont été décidés par un juge."
+    },
+    {
+      "objection": "Les Français passent après.",
+      "reponse": "La protection de l'enfance protège d'abord des enfants nés en France ; manquer de moyens est un choix budgétaire de l'État, pas la faute des MNA."
+    }
+  ],
+  "questions": [
+    "Sais-tu d'où vient le chiffre de 50 000 € et qui l'a calculé ?",
+    "Selon toi, un enfant de 16 ans seul dans la rue doit-il être protégé, quelle que soit sa nationalité ?"
+  ],
+  "limites": [
+    "Aucune source lue ne donne un coût moyen officiel et récent par MNA ; les estimations datent de 2020-2021.",
+    "Le rapport des inspections a été lu en partie (premières pages) via un outil de lecture.",
+    "Le chiffre de 50 000 € et celui de 2 milliards d'euros viennent de l'ADF, partie prenante du débat."
+  ],
+  "sources": [
+    {
+      "titre": "Évaluation de la prise en charge des jeunes se déclarant mineurs non accompagnés (rapport IGAS / IGA / IGJ n° 2020-099R)",
+      "organisme": "Inspection générale des affaires sociales, Inspection générale de l'administration, Inspection générale de la justice",
+      "date_publication": "mai 2021",
+      "url": "https://www.igas.gouv.fr/sites/igas/files/2026-06/Rapport%20interinspections%20MNA.pdf",
+      "passage": "Selon l'ADF, le coût moyen de prise en charge d'un MNA à l'ASE « est en moyenne de 50 000€ » par an. Les inspections notent que cette hypothèse « postule un coût moyen journalier de 137 € qui semble assez largement supérieur aux pratiques observées ». « En faisant l'hypothèse d'un coût moyen annuel pour chaque MNA placé à l'ASE de 50 K€ (hypothèse ADF), la contribution de l'Etat de 15,8 M€ en 2020 représenterait ainsi un peu plus de 1 % des dépenses ». L'État verse un forfait pour l'évaluation et la mise à l'abri (500 € par jeune évalué, plus 90 € par jour pendant 14 jours puis 20 € par jour pendant 9 jours au plus). MNA pris en charge au 31 décembre : 31 009 en 2019, 23 461 en 2020 ; ils représentent 19 % des jeunes hébergés par l'ASE selon la DREES et, « à la différence des autres jeunes suivis par l'ASE, ils sont tous hébergés ».",
+      "pertinence": "Rapport officiel de trois inspections générales ; données 2018-2020.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 00934 sur la prise en charge des mineurs non accompagnés, et réponse du ministère de l'Intérieur",
+      "organisme": "Sénat (JO Sénat)",
+      "date_publication": "question du 14 juillet 2022, réponse du 29 décembre 2022",
+      "url": "https://www.senat.fr/questions/base/2022/qSEQ220700934.html",
+      "passage": "Le sénateur cite un rapport de l'Assemblée des départements de France (ADF) selon lequel le coût est « estimé à 50 000 € par mineur et par an », pour environ 40 000 mineurs. La réponse du Gouvernement ne reprend pas ce chiffre ; elle mentionne notamment un versement exceptionnel de 6 000 € par jeune pour 75 % des mineurs supplémentaires pris en charge en 2020 par rapport à 2019.",
+      "pertinence": "Question parlementaire et réponse ministérielle ; le chiffre de 50 000 € est attribué à l'ADF, pas au Gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Qui sont les mineurs non accompagnés en France ?",
+      "organisme": "Institut Montaigne",
+      "date_publication": "14 octobre 2020",
+      "url": "https://www.institutmontaigne.org/expressions/qui-sont-les-mineurs-non-accompagnes-en-france",
+      "passage": "Citant une fiche de l'ADF de mars 2020, le coût s'élève « en moyenne à 50 000 euros par mineur et par an » ; coût total d'environ 2 milliards d'euros en 2019 selon l'ADF ; près de 40 000 MNA suivis par l'ASE fin 2019 selon l'ADF, dont environ 16 000 placés par un juge.",
+      "pertinence": "Laboratoire d'idées libéral ; entretien reprenant des chiffres de l'ADF.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Sénat fait 40 propositions pour une politique nationale des MNA",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "4 octobre 2021",
+      "url": "https://www.banquedesterritoires.fr/le-senat-fait-40-propositions-pour-une-politique-nationale-des-mna",
+      "passage": "Selon la mission d'information du Sénat, le coût total est estimé à 1,1 milliard d'euros pour les mineurs pris en charge au 31 décembre 2020 (23 461 jeunes). « il s'avère difficile de retracer avec précision les dépenses d'aide sociale à l'enfance directement imputables aux MNA ». Le rapport relève qu'« une part prépondérante (55%) des personnes évaluées ne sont pas considérées comme mineures ».",
+      "pertinence": "Média des collectivités résumant un rapport sénatorial.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mission mineurs non accompagnés : rapport annuel d'activité 2024",
+      "organisme": "Ministère de la Justice (Direction de la protection judiciaire de la jeunesse)",
+      "date_publication": "octobre 2025",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2026-06/DPJJ_Rapport_MMNA_2024.pdf",
+      "passage": "En 2024, « 13 554 ordonnances et jugements de placement » de MNA ont été signalés à la mission, contre 19 370 en 2023, soit une baisse d'environ 30 %. Les filles représentent 8,6 % des placements ; 59 % des jeunes ont 16 ans ou plus. Principaux pays d'origine : Guinée (27 %), Mali (16,1 %), Côte d'Ivoire (15,8 %).",
+      "pertinence": "Statistique officielle des placements judiciaires.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'aide sociale à l'enfance (infographie, données 2024)",
+      "organisme": "DREES",
+      "date_publication": "avril 2026",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-04/2026%20Infographie%20ASE.pdf",
+      "passage": "« 11,7 milliards d'euros de dépenses départementales brutes en 2024 » pour la protection de l'enfance ; 392 600 bénéficiaires fin 2024 ; « 57 % des enfants sont accueillis en dehors de leur milieu de vie habituel ».",
+      "pertinence": "Service statistique ministériel ; ne distingue pas les MNA.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Rapport annuel 2025 de la mission MNA et éventuelles nouvelles évaluations des coûts.",
+  "objections_legitimes": [
+    "La prise en charge des MNA coûte cher aux départements, qui en supportent presque tout le coût.",
+    "Une part importante des jeunes évalués ne sont pas reconnus mineurs, ce qui pèse sur les procédures."
+  ],
+  "publics": {
+    "convaincus": "Le chiffre de 50 000 € vient des départements eux-mêmes, et les inspections de l'État le jugent au-dessus des coûts réels. Ce montant paie un toit, des repas et l'école pour un enfant seul, pas un revenu. Si les départements manquent d'argent, c'est que l'État paie à peine 1 % : c'est lui qu'il faut interpeller.",
+    "indecis": "C'est légitime de s'inquiéter des finances des départements. Le chiffre de 50 000 € est une estimation haute, et le nombre d'arrivées baisse. La protection de ces enfants est une obligation légale ; la question à poser est de savoir qui doit la financer."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "dignite",
+      "solidarite",
+      "antiracisme"
+    ],
+    "mecanismes": "Un chiffre avancé par une partie intéressée devient une vérité à force d’être répété, et des enfants seuls sont présentés comme une charge plutôt que comme des personnes à protéger.",
+    "consequences": "Ce discours pousse à durcir les évaluations d’âge et à réduire la qualité de l’accueil, au détriment d’adolescents très vulnérables, et oppose les dépenses sociales entre elles.",
+    "democratie": "La protection de l’enfance est une obligation légale et internationale ; son financement doit être débattu au Parlement, sur la base de comptes publics transparents.",
+    "propositions": [
+      "Faire financer par l’État l’évaluation, la mise à l’abri et une part juste de la prise en charge des mineurs isolés.",
+      "Publier chaque année un coût officiel et détaillé de la protection de l’enfance, mineurs isolés compris.",
+      "Garantir à tous les enfants protégés le même niveau d’accueil, de scolarité et d’accompagnement vers la majorité."
+    ],
+    "defavorables": [
+      {
+        "fait": "La charge financière pour les départements est réelle et l’État n’en paie qu’une très petite part.",
+        "integration": "L’assumer pleinement : c’est un argument pour la solidarité nationale, pas pour abandonner des enfants."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "cout",
+    "couts",
+    "une fortune",
+    "rapportent",
+    "finances publiques",
+    "pognon"
+  ],
+  "concepts": [
+    "immigration",
+    "cout",
+    "dette"
+  ]
+}

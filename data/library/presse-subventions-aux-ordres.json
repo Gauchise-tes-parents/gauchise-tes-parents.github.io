@@ -1,0 +1,242 @@
+{
+  "id": "presse-subventions-aux-ordres",
+  "type": "idee_recue",
+  "affirmation": "Les journaux vivent des subventions de l'État, donc ils sont aux ordres.",
+  "volet": "politique",
+  "sous_theme": "Médias",
+  "rubriques": [],
+  "mots_cles": [
+    "presse subventionnee",
+    "journaux subventionnes",
+    "aides a la presse",
+    "presse aux ordres",
+    "medias payes par l etat",
+    "subventions journaux",
+    "presse vendue",
+    "journalistes aux ordres",
+    "aides presse figaro liberation",
+    "argent public presse"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les aides à la presse sont réelles : 204,7 millions d'euros d'aides directes en 2023, et, selon un rapport du Sénat, plus d'un cinquième du chiffre d'affaires du secteur avant 2021. Mais elles sont versées selon des critères fixés à l'avance (diffusion, ventes, faibles recettes publicitaires), à des titres de tous bords : Le Figaro, L'Humanité, La Croix, Libération, le JDD. Elles servent surtout à distribuer les journaux et à garantir le pluralisme. La vraie question d'indépendance, c'est plutôt la propriété des grands titres par des milliardaires.",
+  "contexte": "L'idée que la presse serait « subventionnée donc soumise » circule pour disqualifier des articles dérangeants. Elle s'appuie sur des aides réelles, parfois critiquées par le Sénat lui-même.",
+  "explication": "Il faut regarder combien d'argent est versé, à qui, selon quelles règles, et ce que cela pèse dans les comptes des journaux.",
+  "faits": [
+    {
+      "fait": "En 2023, le ministère de la Culture a versé 204,7 millions d'euros d'aides directes à 809 titres, auxquels s'ajoutent 84 millions d'euros d'aides indirectes ; l'essentiel (133 M€) finance le transport et la distribution.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les aides sont réelles, mais servent surtout à acheminer les journaux.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "204,7 M€"
+    },
+    {
+      "fait": "Selon CB News, les titres les plus aidés en 2023 sont Aujourd'hui en France (12,3 M€), Le Figaro (10,59 M€), La Croix (9,2 M€), Le Monde (8,3 M€), Ouest-France (6,8 M€), L'Humanité (6,5 M€) et Libération (6,3 M€).",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les aides vont à des journaux de droite, de gauche, catholiques ou régionaux : elles ne récompensent pas une ligne.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "10,59 M€"
+    },
+    {
+      "fait": "Fait défavorable : selon un rapport du Sénat, hors dépenses fiscales, les aides représentaient « 21,4 % du chiffre d'affaires du secteur » avant le plan de relance, en hausse de 6 points en dix ans, avec un risque de « mécanisme de rente ».",
+      "periode": "avant 2021",
+      "perimetre": "France",
+      "explication": "La dépendance financière à l'argent public existe et elle est critiquée, y compris à droite.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "21,4 %"
+    },
+    {
+      "fait": "L'aide aux quotidiens à faibles ressources publicitaires est attribuée selon des critères fixés à l'avance (reconnaissance par la CPPAP, publicité sous 25 % des recettes, diffusion plafonnée) et calculée selon les ventes, dans la limite de 25 % du chiffre d'affaires.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "L'État ne choisit pas les journaux selon leurs opinions ; le calcul est mécanique.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "25 %"
+    },
+    {
+      "fait": "En 2021, les titres de Bernard Arnault ont reçu 15,7 M€ d'aides, ceux de la famille Dassault 7,7 M€ et le JDD de Vincent Bolloré 1,9 M€.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Une partie des aides profite à des groupes de milliardaires, ce qui pose une vraie question politique.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "15,7 M€"
+    },
+    {
+      "fait": "Le chiffre d'affaires de la presse est passé de près de 10,4 milliards d'euros en 2003 à 5,9 milliards en 2023, et ses recettes publicitaires ont baissé de 20 % depuis 2019.",
+      "periode": "2003-2024",
+      "perimetre": "France",
+      "explication": "La presse dépend plus des aides parce que la publicité part vers les plateformes numériques.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "−43 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : l'État a versé 204,7 millions d'euros d'aides directes à 809 titres en 2023, selon des critères fixés à l'avance, au Figaro comme à L'Humanité. Ces aides financent surtout la distribution et le pluralisme. Elles posent des questions, mais ne transforment pas les journaux en porte-voix du gouvernement.",
+    "moyen": "Les aides à la presse existent : 204,7 millions d'euros d'aides directes en 2023, plus 84 millions d'aides indirectes. Un rapport du Sénat estimait qu'elles pesaient plus d'un cinquième du chiffre d'affaires du secteur avant 2021.\n\nMais elles sont versées selon des critères mécaniques (ventes, distribution, faibles recettes publicitaires), à des titres de toutes sensibilités : Le Figaro, La Croix, Le Monde, L'Humanité, Libération, le JDD. Leur but est de garantir le pluralisme face à la chute de la publicité. Le vrai problème d'indépendance, c'est plutôt que des milliardaires possèdent beaucoup de grands titres.",
+    "detaille": "L'État aide la presse depuis longtemps. En 2023, le ministère de la Culture a versé 204,7 millions d'euros d'aides directes à 809 titres, surtout pour le transport et la distribution (133 millions), plus 84 millions d'aides indirectes comme la TVA réduite. Les plus aidés sont Aujourd'hui en France, Le Figaro, La Croix, Le Monde, Ouest-France, L'Humanité et Libération. Un rapport du Sénat estimait qu'avant 2021, ces aides représentaient 21,4 % du chiffre d'affaires du secteur, hors dépenses fiscales.\n\nCes aides ne sont pas distribuées selon la ligne éditoriale. Pour l'aide au pluralisme, il faut être reconnu d'information politique et générale par une commission paritaire, avoir peu de publicité, et l'aide est calculée sur les ventes. Le ministère rappelle que le pluralisme est un objectif de valeur constitutionnelle : il s'agit d'éviter que seule la publicité décide des idées qui survivent. C'est pour cela qu'un titre comme L'Humanité, peu financé par la publicité, est l'un des plus aidés rapporté à sa diffusion.\n\nLe système a de vrais défauts : le Sénat parle de « mécanisme de rente » et d'empilement de dispositifs, et une partie de l'argent profite à des groupes de milliardaires (15,7 millions d'euros pour les titres de Bernard Arnault en 2021). Mais l'idée que les journaux seraient « aux ordres » de l'État confond aide publique et contrôle politique. La menace la plus concrète pour l'indépendance des rédactions vient de la concentration des médias entre quelques grandes fortunes, et de la chute des recettes publicitaires captées par les plateformes.",
+    "empathie": "Se méfier des médias, c'est sain, surtout quand on a l'impression qu'ils ne parlent pas de sa vie. Savoir qui les finance est une vraie question démocratique."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si l'État paie, il commande.",
+      "reponse": "Les aides sont calculées selon des critères fixés à l'avance (ventes, distribution, faible publicité), pas selon le contenu ; elles vont aussi bien au Figaro qu'à L'Humanité ou au JDD."
+    },
+    {
+      "objection": "Sans subventions, ces journaux n'existeraient pas.",
+      "reponse": "Les aides pèsent lourd, environ un cinquième du chiffre d'affaires selon le Sénat, mais la presse vit surtout de ses ventes et de sa publicité, en forte baisse à cause des plateformes."
+    }
+  ],
+  "questions": [
+    "Savais-tu que Le Figaro, La Croix et L'Humanité font partie des journaux les plus aidés ?",
+    "Qu'est-ce qui pèse le plus sur une rédaction : une aide calculée sur les ventes, ou un propriétaire milliardaire ?"
+  ],
+  "limites": [
+    "Le rapport du Sénat (21,4 %) date de 2021 et porte sur des données antérieures au plan de relance.",
+    "Les montants par titre de 2023 sont lus à travers CB News ; le tableau Excel du ministère n'a pas été ouvert.",
+    "Aucune source lue ne mesure directement l'influence des aides sur les contenus éditoriaux.",
+    "Pour la concentration des médias, voir la fiche dédiée."
+  ],
+  "sources": [
+    {
+      "titre": "Tableaux des titres de presse aidés (2023)",
+      "organisme": "Ministère de la Culture",
+      "date_publication": "bilan 2023 mis en ligne en juin 2024",
+      "url": "https://www.culture.gouv.fr/fr/Thematiques/Presse-ecrite/Tableaux-des-titres-de-presse-aides2",
+      "passage": "« le ministère de la Culture a attribué en 2023 un total d'aides directes de 204,7 M€ » ; les aides indirectes (TVA réduite, mesures fiscales) s'élèvent à 84 M€. Aides au pluralisme : 22,7 M€ pour 374 titres ; aides au transport et à la distribution : 133 M€ ; aide exceptionnelle « papier » : 30 M€ pour 504 publications. « Au total, en 2023, ce sont 809 titres qui ont bénéficié d'aides à la presse. »",
+      "pertinence": "Données officielles du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Près de 205 millions d'euros d'aides à la presse octroyées par le ministère de la Culture en 2023",
+      "organisme": "CB News",
+      "date_publication": "9 juillet 2024",
+      "url": "https://www.cbnews.fr/medias/image-pres-205-millions-euros-aides-presse-octroyees-ministere-culture-2023-86081",
+      "passage": "Titres les plus aidés en 2023 (aides directes) : Aujourd'hui en France 12,3 M€, Le Figaro 10,59 M€, La Croix 9,2 M€, Le Monde 8,3 M€, Ouest-France 6,8 M€, L'Humanité 6,5 M€, Libération 6,3 M€, Télérama 5,5 M€. 809 titres aidés contre 446 en 2022, hausse liée à l'aide « papier ».",
+      "pertinence": "Média professionnel de la communication reprenant les tableaux du ministère.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Aides à la presse : comment ça marche et qui touche quoi",
+      "organisme": "Public Sénat",
+      "date_publication": "26 juin 2023",
+      "url": "https://www.publicsenat.fr/actualites/economie/aides-a-la-presse-comment-ca-marche-et-qui-touche-quoi",
+      "passage": "En 2021, environ 366,9 millions d'euros d'aides publiques à la presse, directes et indirectes. Montants 2021 par titre : Aujourd'hui en France et Le Parisien environ 13,5 M€, Le Figaro 7,7 M€, Libération 6,7 M€, Le Monde 5,9 M€, L'Humanité 5,1 M€, L'Opinion 2,1 M€, Le Journal du Dimanche 1,9 M€, Le Point 1,1 M€, Marianne 996 000 €. Par propriétaire : Bernard Arnault 15,7 M€, famille Dassault 7,7 M€, Vincent Bolloré (JDD) 1,9 M€. Rapporté à la diffusion, L'Humanité est le titre le plus aidé.",
+      "pertinence": "Chaîne parlementaire, s'appuyant sur un rapport sénatorial et les données du ministère.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vitamine ou morphine : quel avenir pour les aides à la presse écrite ? (synthèse du rapport d'information)",
+      "organisme": "Sénat, commission des finances (Roger Karoutchi, rapporteur spécial)",
+      "date_publication": "2021",
+      "url": "https://conferenceconsensuslogement.senat.fr/rap/r20-692/r20-692-syn.pdf",
+      "passage": "Hors dépenses fiscales, les aides représentaient, avant le plan de relance, « 21,4 % du chiffre d'affaires du secteur », en hausse de 6 points en dix ans. Le régime est un « ensemble disparate de dispositifs » ; 99 % des aides vont à la presse d'information politique et générale ; risque de « transformation de celui-ci en un mécanisme de rente ». Recommandations : conditionnalité, contractualisation, publication des montants par titre et par groupe.",
+      "pertinence": "Rapport parlementaire d'un sénateur LR ; données d'avant 2021 (copie de la synthèse sur un miroir du site du Sénat).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Soutien public à la presse",
+      "organisme": "Ministère de la Culture",
+      "date_publication": "page consultée le 12 novembre 2026 (données 2024)",
+      "url": "https://www.culture.gouv.fr/thematiques/presse-ecrite/soutien-public-a-la-presse",
+      "passage": "Le pluralisme de la presse est un « objectif de valeur constitutionnelle » ; les aides visent à éviter que la pression publicitaire du marché décide des idées présentes dans le débat public. Aides au pluralisme : 23,4 M€ versés à 376 titres en 2024 ; transport et distribution : 113 M€ en 2024. La Commission paritaire des publications et agences de presse (CPPAP) décide si une publication relève de l'information politique et générale.",
+      "pertinence": "Page officielle du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Aide aux quotidiens nationaux d'information politique et générale à faibles ressources publicitaires (QFRP)",
+      "organisme": "Ministère de la Culture",
+      "date_publication": "campagne 2023",
+      "url": "https://www.culture.gouv.fr/en/Online-steps/Par-type-de-demarche/Subvention/Aide-aux-quotidiens-nationaux-d-information-politique-et-generale-a-faibles-ressources-publicitaires-QFRP",
+      "passage": "Conditions : quotidien national paraissant au moins 5 fois par semaine, reconnu d'information politique et générale par la CPPAP ; publicité inférieure à 25 % des recettes totales (35 % pour une section) ; diffusion plafonnée. Le montant est calculé selon les ventes ; l'aide ne peut dépasser 25 % du chiffre d'affaires de l'année précédente.",
+      "pertinence": "Page officielle du ministère (en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Projet de loi de finances pour 2026 : Presse (l'essentiel)",
+      "organisme": "Sénat, commission de la culture (Michel Laugier, rapporteur)",
+      "date_publication": "19 novembre 2025",
+      "url": "https://www.senat.fr/fileadmin/cru-1762483659/Commissions/Culture_Education_Communication/2025-2026/PLF2026_Essentiel_Presse_VersionFinale.pdf",
+      "passage": "Programme « Presse et médias » : 178,2 M€ pour 2026 (−5,8 %). Chiffre d'affaires de la presse : près de 10,4 Md€ en 2003, 5,9 Md€ en 2023, soit −43 % en euros courants. Recettes publicitaires 2024 : 1,65 Md€ (−5 %), −20 % depuis 2019, captées par les grandes plateformes numériques.",
+      "pertinence": "Rapport parlementaire officiel.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Publication du bilan 2025 des aides à la presse par le ministère de la Culture et vote du budget 2027.",
+  "objections_legitimes": [
+    "Les aides à la presse sont importantes : plus de 200 millions d'euros d'aides directes par an.",
+    "Le Sénat lui-même critique un système dispersé qui peut devenir une rente.",
+    "Une partie des aides va à des journaux possédés par des milliardaires."
+  ],
+  "publics": {
+    "convaincus": "Le Figaro, L'Humanité, La Croix, Libération et le JDD touchent tous des aides, calculées selon leurs ventes et leur distribution. Si l'État achetait les journaux, il ne paierait pas ses opposants de droite comme de gauche. Ce qui menace vraiment l'indépendance, c'est que quelques milliardaires possèdent une grande partie de la presse.",
+    "indecis": "Tu as raison de te demander qui finance les journaux : les aides publiques sont importantes et le Sénat critique un système peu efficace. Mais elles suivent des règles fixées à l'avance et vont à des titres de tous bords. Pour juger un média, regarde aussi qui le possède et s'il corrige ses erreurs."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes",
+      "services_publics",
+      "egalite"
+    ],
+    "mecanismes": "Le récit confond aide publique au pluralisme et contrôle politique, pour discréditer les journaux dérangeants tout en passant sous silence le poids des grands propriétaires privés.",
+    "consequences": "Si toute la presse est jugée vendue, les citoyens se tournent vers des sources sans contrôle ni déontologie, et les médias de milliardaires gagnent en influence.",
+    "democratie": "Une presse libre a besoin de financements qui ne dépendent ni de la publicité ni d’un actionnaire, avec des règles transparentes et des rédactions protégées.",
+    "propositions": [
+      "Réserver les aides publiques aux médias qui garantissent l’indépendance de leur rédaction et publient leurs comptes.",
+      "Limiter la concentration des médias et plafonner les aides aux groupes détenus par de grandes fortunes.",
+      "Renforcer les aides aux titres indépendants, locaux et à faibles ressources publicitaires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les aides publiques pèsent lourd dans les comptes de la presse et le Sénat lui-même parle de risque de rente.",
+        "integration": "L’admettre et proposer de réformer les aides pour qu’elles soutiennent l’indépendance et le pluralisme plutôt que les grands groupes déjà puissants."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "presse_aides",
+      "label": "Aides à la presse"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "medias",
+    "dette",
+    "subventions",
+    "presse_aides"
+  ]
+}

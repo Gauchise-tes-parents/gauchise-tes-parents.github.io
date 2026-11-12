@@ -1,0 +1,203 @@
+{
+  "id": "terroristes-immigres-refugies",
+  "type": "idee_recue",
+  "affirmation": "Les terroristes sont presque tous des immigrés ou des réfugiés.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et délinquance",
+  "rubriques": [],
+  "mots_cles": [
+    "terroristes immigres",
+    "terroristes refugies",
+    "attentats etrangers",
+    "terroristes tous etrangers",
+    "djihadistes francais",
+    "terrorisme immigration",
+    "attentats migrants",
+    "terroristes nes en france",
+    "refugies terroristes",
+    "islamistes etrangers"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Sur la longue période, la grande majorité des djihadistes condamnés en France sont des Français, nés et élevés en France : sur 130 condamnés étudiés par l'Ifri (jugements 2004-2017), seuls 11 étaient étrangers. Mais le profil a changé récemment : selon le Centre d'analyse du terrorisme, 60 % des auteurs d'attentats commis en France entre 2020 et 2023 étaient étrangers, dont une partie de réfugiés ou de personnes en situation irrégulière. « Presque tous » reste faux, et le terrorisme d'ultra-droite, lui, est surtout le fait de Français.",
+  "contexte": "Après chaque attentat, la nationalité de l'auteur devient le cœur du débat. Plusieurs attaques récentes, commises par des étrangers, ont renforcé l'idée que le terrorisme serait importé.",
+  "explication": "Il faut distinguer les périodes, les attentats commis et les projets déjoués, et regarder des études qui comptent tous les cas, pas seulement ceux qui ont marqué l'actualité.",
+  "faits": [
+    {
+      "fait": "Sur 130 personnes condamnées pour terrorisme djihadiste en France dont la nationalité est connue (jugements de 2004 à 2017), l'Ifri compte 90 Français, 29 binationaux et 11 étrangers.",
+      "periode": "2004-2017",
+      "perimetre": "France",
+      "explication": "Le djihadisme de la décennie des grands attentats a surtout été le fait de Français.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11 étrangers sur 130"
+    },
+    {
+      "fait": "Selon l'Ifri, ces condamnés sont « en grande majorité nés en France et ont grandi dans ce pays » ; 26 % sont des convertis et 40 % viennent d'un quartier prioritaire.",
+      "periode": "2004-2017",
+      "perimetre": "France",
+      "explication": "La radicalisation s'est faite ici, souvent dans des quartiers relégués, pas à l'étranger.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "26 %"
+    },
+    {
+      "fait": "Sur les 39 personnes impliquées dans des attentats, tentatives ou projets islamistes en France entre 2020 et 2023, 13 des 29 dont la nationalité est connue sont Françaises (44,8 %).",
+      "periode": "2020-2023",
+      "perimetre": "France",
+      "explication": "Même sur la période récente, près de la moitié des personnes impliquées sont françaises.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "44,8 %"
+    },
+    {
+      "fait": "Fait défavorable : selon le Centre d'analyse du terrorisme, 60 % des auteurs d'attentats commis en France entre 2020 et 2023 étaient de nationalité étrangère ; 25 % étaient réfugiés et 25 % en situation irrégulière.",
+      "periode": "2020-2023",
+      "perimetre": "France",
+      "explication": "Le profil des auteurs récents a changé ; il faut le reconnaître, même si l'échantillon est petit (8 attentats aboutis).",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "60 %"
+    },
+    {
+      "fait": "Le ministère de l'Intérieur indique avoir déjoué 12 projets d'action terroriste depuis 2017, dont 2 en 2023, dans sa réponse sur la menace de l'ultra-droite.",
+      "periode": "2017-2023",
+      "perimetre": "France",
+      "explication": "Le terrorisme ne vient pas d'un seul camp : l'ultra-droite prépare aussi des attentats.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "12 projets"
+    },
+    {
+      "fait": "Europol relève qu'en 2023 des jeunes adultes et des mineurs ont participé à des projets d'attentats dans l'Union, souvent radicalisés en ligne.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "La radicalisation passe de plus en plus par Internet, quel que soit le pays de naissance.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux dans sa généralité : sur 130 djihadistes condamnés en France étudiés par l'Ifri, seuls 11 étaient étrangers, la plupart étant nés et élevés en France. Depuis 2020, la part d'étrangers parmi les auteurs d'attentats a augmenté, mais elle reste loin de « presque tous ».",
+    "moyen": "L'étude de l'Ifri sur 137 djihadistes condamnés en France (jugements de 2004 à 2017) est claire : 90 Français, 29 binationaux, 11 étrangers sur 130 cas connus, en grande majorité nés et élevés en France. Un quart sont des convertis.\n\nLa période récente est différente : selon le Centre d'analyse du terrorisme, 60 % des auteurs d'attentats commis entre 2020 et 2023 étaient étrangers, dont certains réfugiés ou sans papiers. Mais sur l'ensemble des personnes impliquées, près de la moitié sont françaises. Et l'ultra-droite, française, a vu 12 projets d'attentats déjoués depuis 2017.",
+    "detaille": "Pour la décennie des grands attentats, les chiffres sont nets. Marc Hecker, de l'Ifri, a étudié 137 personnes condamnées pour terrorisme djihadiste en France. Sur 130 dont la nationalité est connue, 90 sont françaises, 29 binationales et 11 étrangères. La grande majorité est née et a grandi en France ; 26 % sont des convertis, 40 % viennent de quartiers prioritaires. Le djihadisme de cette époque est d'abord un phénomène « fait maison ».\n\nIl faut être honnête sur la période récente. Le Centre d'analyse du terrorisme a étudié les attentats, tentatives et projets de 2020 à 2023. Parmi les auteurs d'attentats, 60 % étaient étrangers ; un quart étaient réfugiés, un quart en situation irrégulière. Mais il s'agit d'un petit nombre de cas (8 attentats aboutis), et sur les 39 personnes impliquées, près de la moitié de celles dont la nationalité est connue sont françaises.\n\nEnfin, le terrorisme ne se limite pas au djihadisme. Le ministère de l'Intérieur indique avoir déjoué 12 projets d'action terroriste depuis 2017 dans sa réponse sur l'ultra-droite, et Europol souligne la radicalisation en ligne de jeunes de toutes origines. Lutter contre le terrorisme demande du renseignement, de la prévention et un suivi des personnes radicalisées, pas des soupçons sur tous les immigrés.",
+    "empathie": "Après un attentat, la peur et la colère sont légitimes. Chercher à comprendre qui frappe et pourquoi, c'est normal ; encore faut-il regarder tous les cas, pas seulement ceux qu'on retient."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les derniers attentats ont tous été commis par des étrangers.",
+      "reponse": "Sur 2020-2023, c'est 60 % des auteurs d'attentats selon le CAT, sur un petit nombre de cas ; près de la moitié des personnes impliquées dans l'ensemble des projets sont françaises."
+    },
+    {
+      "objection": "S'il n'y avait pas d'immigration, il n'y aurait pas de terrorisme.",
+      "reponse": "Sur 130 djihadistes condamnés étudiés par l'Ifri, 119 étaient français ou binationaux, en majorité nés en France ; et l'ultra-droite prépare aussi des attentats."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la grande majorité des djihadistes condamnés en France entre 2004 et 2017 étaient nés en France ?",
+    "Si la radicalisation se fait surtout ici et sur Internet, quelles mesures seraient vraiment efficaces ?"
+  ],
+  "limites": [
+    "L'étude de l'Ifri porte sur des jugements de 2004 à 2017 : elle est ancienne et ne couvre pas les attentats récents.",
+    "Le rapport du CAT repose sur un petit nombre de cas (8 attentats aboutis) et contient quelques incohérences de pourcentages ; le nombre exact d'auteurs derrière les 60 % n'est pas donné.",
+    "« Immigré » (né étranger à l'étranger) et « étranger » ne se recoupent pas : aucune source lue ne donne la part d'immigrés naturalisés parmi les auteurs.",
+    "Le résumé d'Europol ne donne pas de données de nationalité."
+  ],
+  "sources": [
+    {
+      "titre": "137 nuances de terrorisme. Les djihadistes de France face à la justice (Focus stratégique n° 79)",
+      "organisme": "Institut français des relations internationales (Ifri), Marc Hecker",
+      "date_publication": "avril 2018",
+      "url": "https://www.jugendundmedien.ch/fileadmin/PDFs/anderes/schwerpunkt_Radikalisierung/hecker_137_nuances_de_terrorisme_2018.pdf",
+      "passage": "Étude de 137 individus condamnés en France dans des affaires de terrorisme djihadiste (jugements de 2004 à 2017). Sur 130 personnes dont la nationalité est connue : 90 Français, 29 binationaux et 11 étrangers. « Les individus condamnés sont en grande majorité nés en France et ont grandi dans ce pays. » 35 convertis sur 136 (26 %) ; 49 sur 121 (40 %) viennent d'un quartier prioritaire de la politique de la ville ; 61 sur 126 avaient un casier judiciaire vierge.",
+      "pertinence": "Étude de référence d'un centre de recherche reconnu, fondée sur les jugements ; copie du PDF de l'Ifri hébergée par un site suisse (la version anglaise sur ifri.org donne les mêmes chiffres).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Terrorisme islamiste en France : attentats, tentatives et projets d'attentats (2020-2023)",
+      "organisme": "Centre d'analyse du terrorisme (CAT), Emma Cantelaube et Adam El Difraoui",
+      "date_publication": "juillet 2024",
+      "url": "https://www.cat-int.org/wp-content/uploads/2024/07/CAT_RAPPORT_Terrorisme_islamiste_en_France_attentats_tentatives.pdf",
+      "passage": "25 incidents recensés de 2020 à 2023 : 8 attentats aboutis, 2 tentatives et 15 projets déjoués, impliquant 39 individus. « Sur les 29 individus dont la nationalité est connue, 13 sont Français (44,8 %). » Les Russes, souvent originaires des républiques du Caucase, représentent 17,2 %. « Parmi les auteurs des attentats en France, 60% étaient de nationalité étrangère. » « 25 % étaient des réfugiés politiques en France, tandis que 25 % étaient en situation irrégulière. »",
+      "pertinence": "Centre d'analyse privé spécialisé ; petit échantillon et quelques incohérences internes de pourcentages dans le rapport.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 10244 « Menaces de l'extrême-droite contre la République », et réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale (réponse du ministère de l'Intérieur et des Outre-mer)",
+      "date_publication": "réponse publiée au JO le 9 avril 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE10244.pdf",
+      "passage": "Dans sa réponse sur la menace de l'ultra-droite, le ministère indique : « Une vigilance étroite s'exerce à l'endroit de la mouvance d'ultra-droite en France. » Les services inscrivent des personnes au fichier des interdits d'armes et les en dessaisissent. « Au global, l'action menée par le ministère de l'Intérieur et des Outre-mer a ainsi permis de déjouer 12 projets d'action terroriste depuis 2017, dont 2 en 2023. »",
+      "pertinence": "Réponse ministérielle officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "EU Terrorism Situation and Trend Report (TE-SAT) 2024 – Executive Summary",
+      "organisme": "Europol",
+      "date_publication": "2024",
+      "url": "https://www.europol.europa.eu/cms/sites/default/files/documents/TE-SAT%202024%20-%20Executive%20Summary%20-%20EN.pdf",
+      "passage": "« A total of 120 terrorist attacks (98 completed, 9 failed and 13 foiled) were carried out in 7 EU Member States in 2023. » 426 personnes arrêtées dans 22 États membres. Des jeunes adultes et des mineurs ont participé à la préparation d'attentats ; les réseaux sociaux et messageries chiffrées servent à diffuser la propagande ; pour le terrorisme d'extrême droite, les acteurs isolés ou petits groupes « pose the highest threat ».",
+      "pertinence": "Agence européenne de police ; le résumé ne donne pas de données de nationalité.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveau rapport Europol TE-SAT et éventuelles études actualisées sur le profil des auteurs d'attentats.",
+  "objections_legitimes": [
+    "Plusieurs attentats récents ont été commis par des étrangers, parfois réfugiés ou en situation irrégulière.",
+    "Le suivi des étrangers radicalisés et l'exécution des expulsions posent de vraies questions de politique publique."
+  ],
+  "publics": {
+    "convaincus": "Regarde les condamnations : sur 130 djihadistes jugés en France étudiés par l'Ifri, 11 seulement étaient étrangers, la plupart étaient nés ici. C'est vrai que les auteurs récents sont plus souvent étrangers, mais « presque tous », c'est faux. Et l'ultra-droite, française, prépare aussi des attentats.",
+    "indecis": "Avoir peur après un attentat, c'est humain, et il est vrai que plusieurs auteurs récents étaient étrangers. Mais sur la durée, la plupart des djihadistes condamnés en France sont des Français radicalisés ici. Le vrai enjeu, c'est le renseignement, la prévention et le suivi des personnes radicalisées."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "universalite",
+      "antifascisme",
+      "democratie"
+    ],
+    "mecanismes": "Le récit transforme une violence politique et religieuse en problème d’origine, en oubliant que la plupart des djihadistes condamnés ont grandi en France et se sont radicalisés ici, souvent en ligne ou dans des quartiers relégués.",
+    "consequences": "Désigner tous les immigrés et réfugiés comme suspects nourrit le racisme, divise la société comme le souhaitent les terroristes eux-mêmes, et détourne l’attention des moyens réels de prévention.",
+    "democratie": "La lutte antiterroriste doit rester ciblée sur des personnes et des actes, sous contrôle du juge, sans punition collective ni recul des libertés de tous.",
+    "propositions": [
+      "Renforcer le renseignement humain et le suivi judiciaire des personnes radicalisées, quelle que soit leur nationalité.",
+      "Investir dans la prévention : école, travail social, suivi psychiatrique et lutte contre la radicalisation en ligne.",
+      "Traiter avec la même fermeté le terrorisme d’ultra-droite et le terrorisme djihadiste."
+    ],
+    "defavorables": [
+      {
+        "fait": "Sur la période récente, une majorité des auteurs d’attentats commis en France étaient étrangers, dont certains réfugiés ou en situation irrégulière.",
+        "integration": "Le reconnaître sans détour, rappeler la petite taille de l’échantillon et défendre un suivi individuel rigoureux des personnes dangereuses plutôt que la suspicion envers tous les exilés."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite"
+  ],
+  "concepts": [
+    "immigration",
+    "delinquance",
+    "islam"
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "unrwa-gaza-hamas",
+  "type": "idee_recue",
+  "affirmation": "L'aide humanitaire à Gaza et l'UNRWA financent le Hamas.",
+  "volet": "international",
+  "sous_theme": "Palestine et Israël",
+  "rubriques": [],
+  "mots_cles": [
+    "unrwa hamas",
+    "aide humanitaire gaza hamas",
+    "unrwa terroristes",
+    "aide gaza detournee",
+    "rapport colonna",
+    "unrwa 7 octobre",
+    "financement unrwa",
+    "hamas vole l aide",
+    "aide europeenne palestine",
+    "unrwa employes hamas"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Des employés de l'UNRWA ont pu participer au 7 octobre : l'enquête interne de l'ONU a conclu que 9 d'entre eux pourraient avoir été impliqués et ils ont été licenciés. Mais aucune enquête n'a montré que l'agence ou l'aide finançaient le Hamas. Le rapport Colonna note qu'Israël n'a pas fourni de preuves de liens massifs ; la Commission européenne n'a trouvé aucun détournement de son aide ; une analyse de l'USAID sur 156 incidents n'a trouvé aucun signalement de vol au profit du Hamas.",
+  "contexte": "En janvier 2024, Israël a accusé une douzaine d'employés de l'UNRWA d'avoir participé aux attaques du 7 octobre 2023. Une quinzaine de pays ont suspendu leurs financements, puis la plupart les ont repris. En octobre 2024, le Parlement israélien a interdit les activités de l'agence sur son territoire.",
+  "explication": "Il faut séparer trois questions : des employés ont-ils participé au 7 octobre ? L'agence est-elle infiltrée de façon massive ? L'argent de l'aide est-il détourné vers le Hamas ? Les enquêtes ne répondent pas de la même façon à chacune.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : sur 19 employés de l'UNRWA mis en cause, l'enquête interne de l'ONU (OIOS) a conclu que 9 pourraient avoir été impliqués dans les attaques du 7 octobre ; ils ont été licenciés. Pour 9 autres, les preuves étaient insuffisantes, et pour 1, aucune preuve n'a été trouvée.",
+      "periode": "2024",
+      "perimetre": "Gaza",
+      "explication": "Des employés ont pu participer à un massacre ; c'est grave, et l'ONU l'a reconnu.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "9 sur 19"
+    },
+    {
+      "fait": "Selon le rapport Colonna, Israël n'a pas fourni de preuves de ses accusations selon lesquelles des centaines d'employés appartiendraient à des groupes terroristes ; l'UNRWA compte environ 32 000 employés, dont 13 000 à Gaza.",
+      "periode": "2024",
+      "perimetre": "Gaza et région",
+      "explication": "Neuf employés possiblement impliqués sur 13 000 à Gaza, ce n'est pas une agence au service du Hamas.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "13 000"
+    },
+    {
+      "fait": "Le rapport Colonna relève aussi des problèmes de neutralité : employés exprimant des opinions politiques, locaux utilisés à des fins politiques ou militaires, contenus problématiques dans certains manuels.",
+      "periode": "2024",
+      "perimetre": "Zones d'action de l'UNRWA",
+      "explication": "Les failles existent et doivent être corrigées ; elles ne prouvent pas un financement du Hamas.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : l'armée israélienne affirme avoir découvert en 2024 des tunnels du Hamas sous le siège de l'UNRWA à Gaza ; l'agence dit l'avoir ignoré et demande une enquête indépendante.",
+      "periode": "2024",
+      "perimetre": "Gaza",
+      "explication": "Le Hamas a pu exploiter des infrastructures civiles ; cela n'a pas été vérifié de façon indépendante.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "En novembre 2023, la Commission européenne a examiné tout son portefeuille d'aide au développement en Palestine et n'a trouvé aucune preuve de détournement ; en mars 2024, elle a débloqué 82 millions d'euros pour l'UNRWA en échange d'audits et de contrôles renforcés.",
+      "periode": "2023-2024",
+      "perimetre": "Union européenne",
+      "explication": "Le premier donateur a contrôlé son aide et n'a pas trouvé de financement du Hamas.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "82 millions d’euros"
+    },
+    {
+      "fait": "Une analyse interne de l'USAID sur 156 incidents de vol ou de perte d'aide américaine à Gaza (octobre 2023 à mai 2025) n'a trouvé aucun signalement de détournement au profit du Hamas ; elle admet que de l'aide a pu atteindre des fonctionnaires du Hamas.",
+      "periode": "2023-2025",
+      "perimetre": "Gaza",
+      "explication": "Même un gouvernement américain hostile à l'UNRWA n'a pas trouvé de vol massif par le Hamas.",
+      "source": 6,
+      "fiabilite": "estimation",
+      "chiffre": "156 incidents"
+    }
+  ],
+  "argumentaires": {
+    "court": "Trompeur : 9 employés de l'UNRWA, sur 13 000 à Gaza, pourraient avoir participé au 7 octobre selon l'ONU, et ils ont été licenciés. Mais ni le rapport Colonna, ni la Commission européenne, ni une analyse de l'USAID n'ont trouvé de financement du Hamas par l'aide.",
+    "moyen": "Il y a un fait grave : l'enquête interne de l'ONU a conclu que 9 employés de l'UNRWA pourraient avoir participé aux attaques du 7 octobre ; ils ont été licenciés. Le rapport Colonna a aussi relevé des failles de neutralité.\n\nMais cela ne veut pas dire que l'aide finance le Hamas. Le même rapport note qu'Israël n'a pas prouvé ses accusations de liens massifs. La Commission européenne a contrôlé son aide et n'a trouvé aucun détournement. Une analyse de l'USAID sur 156 incidents de pertes d'aide n'a trouvé aucun signalement au profit du Hamas.",
+    "detaille": "L'UNRWA emploie environ 32 000 personnes, dont 13 000 à Gaza, pour l'école, la santé et l'aide alimentaire des réfugiés palestiniens. En janvier 2024, Israël a accusé une douzaine d'employés d'avoir participé aux attaques du 7 octobre. L'enquête interne de l'ONU a examiné 19 cas : 9 employés pourraient avoir été impliqués et ont été licenciés, les preuves étaient insuffisantes pour 9 autres, et aucune preuve n'a été trouvée pour le dernier. L'ONU précise qu'elle n'a pas pu authentifier la plupart des informations, restées aux mains d'Israël.\n\nLe rapport Colonna, commandé par le secrétaire général de l'ONU, juge les règles de neutralité de l'agence solides, mais mal appliquées : opinions politiques d'employés, locaux utilisés à des fins politiques ou militaires, manuels problématiques. Il souligne aussi qu'Israël n'a pas fourni de preuves que des centaines d'employés appartiendraient à des groupes armés. L'armée israélienne affirme avoir trouvé des tunnels sous le siège de l'agence, ce que l'UNRWA dit avoir ignoré ; aucune enquête indépendante n'a pu le vérifier.\n\nSur l'argent, les contrôles n'ont pas trouvé de financement du Hamas. La Commission européenne a passé en revue son aide au développement en 2023 sans trouver de détournement, puis a repris son financement de l'UNRWA en 2024 contre des audits renforcés. Une analyse de l'USAID sur 156 incidents de pertes d'aide n'a trouvé aucun signalement au profit du Hamas, même si elle reconnaît des angles morts. Couper l'aide punit surtout une population civile affamée ; renforcer les contrôles, c'est ce qu'ont choisi la plupart des donateurs.",
+    "empathie": "Apprendre que des employés d'une agence de l'ONU ont pu participer à un massacre choque, et c'est normal de se demander où va l'argent. Cette question mérite des réponses précises."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si 9 employés ont participé au 7 octobre, toute l'agence est complice.",
+      "reponse": "Ce sont 9 personnes sur environ 13 000 employés à Gaza ; elles ont été licenciées, et Israël n'a pas prouvé l'existence de liens massifs selon le rapport Colonna."
+    },
+    {
+      "objection": "Le Hamas vole l'aide humanitaire.",
+      "reponse": "Une analyse de l'USAID sur 156 incidents de pertes n'a trouvé aucun signalement de vol au profit du Hamas, et la Commission européenne n'a trouvé aucun détournement de son aide."
+    },
+    {
+      "objection": "Il faut couper l'aide pour affaiblir le Hamas.",
+      "reponse": "La plupart des pays qui avaient suspendu leurs fonds les ont rétablis, avec des contrôles renforcés, parce que l'aide nourrit et soigne des civils."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la Commission européenne a contrôlé toute son aide au développement en Palestine sans trouver de détournement ?",
+    "Si l'on coupe l'aide, qui en souffre le plus : le Hamas ou les enfants de Gaza ?"
+  ],
+  "limites": [
+    "Le rapport Colonna et le rapport de l'OIOS n'ont pas été ouverts directement ; ils sont connus par l'ONU et la presse.",
+    "L'analyse de l'USAID est un document interne non publié, connu par Reuters ; le Département d'État la conteste.",
+    "Les affirmations sur les tunnels viennent de l'armée israélienne et n'ont pas été vérifiées de façon indépendante.",
+    "La revue européenne de 2023 portait sur l'aide au développement, pas sur l'aide humanitaire."
+  ],
+  "sources": [
+    {
+      "titre": "Nine UNRWA staff to be fired for potential role in 7 October attacks on Israel",
+      "organisme": "ONU Info (UN News)",
+      "date_publication": "5 août 2024",
+      "url": "https://news.un.org/en/story/2024/08/1152841",
+      "passage": "Le Bureau des services de contrôle interne (OIOS) a examiné les accusations visant 19 employés. « In one case, no evidence was obtained by OIOS to support the allegations » ; dans neuf autres cas, les preuves étaient insuffisantes ; pour les neuf derniers, les éléments indiquaient qu'ils pourraient avoir été impliqués dans les attaques du 7 octobre, et l'UNRWA met fin à leurs contrats. « OIOS was not able to independently authenticate most of the information provided to it », les informations restant aux mains des autorités israéliennes.",
+      "pertinence": "Service d'information officiel des Nations unies.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "UNRWA report says Israel has provided no evidence of terror links",
+      "organisme": "Euronews",
+      "date_publication": "23 avril 2024",
+      "url": "https://www.euronews.com/2024/04/23/unrwa-report-says-israel-has-provided-no-evidence-of-terror-links",
+      "passage": "La revue indépendante dirigée par Catherine Colonna conclut qu'Israël n'a pas fourni de preuves de ses accusations selon lesquelles des centaines d'employés de l'UNRWA appartiendraient à des groupes terroristes ; Israël n'avait émis aucune inquiétude sur les listes de personnel depuis 2011. L'UNRWA dispose de procédures « robustes » de neutralité, avec de sérieuses lacunes d'application. L'agence compte environ 32 000 employés, dont 13 000 à Gaza. Environ 15 pays avaient suspendu leur financement ; la plupart l'ont repris.",
+      "pertinence": "Grand média européen rendant compte du rapport Colonna ; le rapport lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Report on UNRWA concludes Israel has not provided evidence of employees' militancy",
+      "organisme": "NPR",
+      "date_publication": "23 avril 2024",
+      "url": "https://www.npr.org/2024/04/23/1246613547/unrwa-israel-hamas-gaza-war",
+      "passage": "Le rapport Colonna : « However, Israel has yet to provide supporting evidence of this. » Il relève des problèmes de neutralité : enquêtes insuffisantes sur les manquements, employés exprimant des opinions politiques, locaux utilisés à des fins « political or military », contenus problématiques dans des manuels scolaires. La revue n'a pas examiné l'accusation visant une douzaine d'employés, confiée à l'OIOS. Elle recommande un meilleur contrôle du personnel et une revue des manuels.",
+      "pertinence": "Radio publique américaine ; compte rendu du rapport.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Israel says it discovered tunnels under U.N. agency's Gaza headquarters",
+      "organisme": "NPR (republié par NHPR)",
+      "date_publication": "10 février 2024",
+      "url": "https://www.nhpr.org/2024-02-10/israel-says-it-discovered-tunnels-under-u-n-agencys-gaza-headquarters",
+      "passage": "L'armée israélienne affirme avoir trouvé un réseau de tunnels sous le siège de l'UNRWA à Gaza, alimenté en électricité depuis le bâtiment, et des armes dans des pièces du bâtiment ; la visite était encadrée par l'armée. Le chef de l'UNRWA, Philippe Lazzarini, dit que l'agence ignorait ce qui se trouvait sous son siège, évacué le 12 octobre, et que ces accusations « merit an independent inquiry that is currently not possible ».",
+      "pertinence": "Radio publique américaine ; affirmations de l'armée israélienne non vérifiées de façon indépendante.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Commission finalises review of EU aid to Palestine",
+      "organisme": "Commission européenne",
+      "date_publication": "21 novembre 2023",
+      "url": "https://enlargement.ec.europa.eu/news/commission-finalises-review-eu-aid-palestine-2023-11-21_en",
+      "passage": "La revue de l'ensemble du portefeuille d'aide au développement (hors aide humanitaire) conclut que « no evidence has been found to date that money has been diverted for unintended purposes ». Ursula von der Leyen : « This review has confirmed that the safeguards in place are effective. » La Commission ajoute des clauses contre l'incitation à la haine dans tous les nouveaux contrats et demande des informations complémentaires aux bénéficiaires.",
+      "pertinence": "Communiqué officiel de la Commission européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "EU to continue funding UNRWA as it probes alleged staff involvement in Oct 7 attacks",
+      "organisme": "Euronews",
+      "date_publication": "1er mars 2024",
+      "url": "https://www.euronews.com/2024/03/01/eu-to-continue-funding-unrwa-as-it-probes-alleged-staff-involvement-in-oct-7-attacks",
+      "passage": "La Commission débloque 82 millions d'euros pour l'UNRWA en 2024, dont une première tranche de 50 millions, après que l'agence a accepté un audit de ses recrutements, un renforcement du contrôle interne et la vérification de son personnel. Les responsables européens indiquent qu'Israël n'a pas encore fourni de preuves de ses accusations contre 12 employés.",
+      "pertinence": "Grand média européen.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "USAID analysis found no evidence of Hamas theft of Gaza aid (avec Reuters)",
+      "organisme": "RTÉ (avec Reuters)",
+      "date_publication": "25 juillet 2025",
+      "url": "https://www.rte.ie/news/middle-east/2025/0725/1525272-usaid-gaza-aid",
+      "passage": "Une analyse interne du Bureau de l'aide humanitaire de l'USAID a examiné 156 incidents de vol ou de perte de fournitures financées par les États-Unis à Gaza, d'octobre 2023 à mai 2025. Elle n'a trouvé « no reports alleging Hamas » bénéficiant de ces fournitures ; au moins 44 incidents étaient liés directement ou indirectement à des actions militaires israéliennes. L'étude reconnaît que des fournitures ont pu atteindre des fonctionnaires de l'administration du Hamas ; l'absence de signalement « does not mean that diversion has not occurred ». Le Département d'État conteste ces conclusions.",
+      "pertinence": "Radiotélévision publique irlandaise reprenant une exclusivité Reuters ; document interne non publié.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décryptage : ce qu'Israël reproche à l'UNRWA, l'agence de l'ONU pour les réfugiés palestiniens",
+      "organisme": "Public Sénat",
+      "date_publication": "30 octobre 2024",
+      "url": "https://www.publicsenat.fr/actualites/international/decryptage-ce-quisrael-reproche-a-lunrwa-lagence-de-lonu-pour-les-refugies-palestiniens",
+      "passage": "Le Parlement israélien a adopté par 92 voix contre 10 deux textes interdisant toute activité de l'UNRWA « sur le territoire israélien ». Israël accuse l'agence de contribuer à l'emprise du Hamas sur Gaza. Le rapport Colonna recommande de renforcer les mécanismes de neutralité ; selon le chercheur Jean-Paul Chagnollaud, « Les experts ont conclu qu'il n'y avait aucune preuve de complicité entre l'Unrwa et le Hamas ». L'agence compte 30 000 employés, dont 13 000 à Gaza.",
+      "pertinence": "Chaîne parlementaire ; analyse s'appuyant sur des chercheurs.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Évolution du statut de l'UNRWA, nouvelles enquêtes de l'ONU et décisions des donateurs.",
+  "objections_legitimes": [
+    "L'ONU a conclu que 9 employés de l'UNRWA pourraient avoir participé au 7 octobre.",
+    "Le rapport Colonna a relevé de vraies failles de neutralité dans l'agence.",
+    "Dans une zone contrôlée par le Hamas, aucun contrôle de l'aide ne peut être parfait."
+  ],
+  "publics": {
+    "convaincus": "Oui, l'ONU a reconnu que 9 employés de l'UNRWA ont pu participer au 7 octobre, et ils ont été renvoyés. Mais c'est 9 sur 13 000 à Gaza. Quand l'Union européenne et même l'administration américaine ont cherché l'argent détourné vers le Hamas, elles n'ont rien trouvé de tel.",
+    "indecis": "C'est normal de vouloir que l'aide n'aille pas aux terroristes. Les enquêtes ont trouvé des employés fautifs et des failles de neutralité, mais pas de financement du Hamas par l'aide. Renforcer les contrôles, c'est la voie choisie par la plupart des pays, pour ne pas affamer des civils."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "internationalisme",
+      "paix",
+      "vulnerables"
+    ],
+    "mecanismes": "Le récit part de fautes individuelles réelles pour disqualifier toute l’aide humanitaire, ce qui sert à justifier l’asphyxie d’une population civile et l’affaiblissement des institutions internationales.",
+    "consequences": "Couper l’aide punit des enfants, des malades et des réfugiés qui n’ont aucun pouvoir sur le Hamas, et prive la région d’écoles et de soins sans affaiblir les groupes armés.",
+    "democratie": "L’argent public versé à l’aide doit être contrôlé de façon indépendante et transparente, et les décisions de suspension doivent reposer sur des preuves vérifiées, pas sur des accusations.",
+    "propositions": [
+      "Maintenir le financement de l’aide humanitaire en renforçant les audits indépendants et le contrôle du personnel.",
+      "Exiger un accès humanitaire sans entrave à Gaza, conformément au droit international.",
+      "Soutenir une solution politique fondée sur le droit international, la fin de l’occupation et la sécurité de tous les civils."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’enquête interne de l’ONU a conclu que plusieurs employés de l’UNRWA pourraient avoir participé aux massacres du sept octobre.",
+        "integration": "Condamner sans réserve ces actes, saluer leur licenciement et exiger des contrôles stricts, tout en refusant de faire payer à toute une population civile les crimes de quelques-uns."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "unrwa",
+      "label": "UNRWA et aide à Gaza"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ],
+  "concepts": [
+    "prestations",
+    "europe",
+    "unrwa"
+  ]
+}

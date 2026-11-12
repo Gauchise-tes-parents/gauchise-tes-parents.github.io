@@ -1,0 +1,228 @@
+{
+  "id": "agriculteurs-suicide-normes",
+  "type": "idee_recue",
+  "affirmation": "Les normes européennes poussent les agriculteurs au suicide.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "suicide agriculteurs",
+    "agriculteurs suicide normes",
+    "normes europeennes agriculteurs",
+    "un agriculteur se suicide par jour",
+    "mal etre agricole",
+    "detresse paysans",
+    "msa suicide",
+    "paperasse agriculteurs",
+    "bruxelles tue les paysans",
+    "surmortalite suicide agricole"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La surmortalité par suicide chez les agriculteurs est réelle et grave : +60 % chez les assurés agricoles de 15 à 64 ans en 2021 selon la MSA. Mais aucune étude ne l'attribue aux « normes européennes ». Les causes identifiées sont multiples : revenus faibles ou nuls, précarité, isolement, charge de travail, maladie psychique, âge. La complexité administrative est bien citée comme source de stress, mais parmi d'autres. Accuser seulement les normes, c'est oublier les prix trop bas et la course à l'agrandissement.",
+  "contexte": "Lors des mobilisations agricoles de 2024 et après, les normes environnementales européennes ont été présentées comme la cause principale du mal-être paysan, parfois jusqu'au suicide.",
+  "explication": "Il faut regarder ce que mesurent la MSA et Santé publique France, puis les facteurs de risque identifiés par les études et les rapports parlementaires, et la place qu'y tiennent les normes.",
+  "faits": [
+    {
+      "fait": "Selon la MSA, en 2021, le risque de suicide des assurés agricoles dépassait de 60 % celui de l'ensemble des régimes chez les 15-64 ans, et de 73 % chez les 65 ans et plus.",
+      "periode": "2021",
+      "perimetre": "France métropolitaine",
+      "explication": "La surmortalité est réelle, importante et récente.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+60 %"
+    },
+    {
+      "fait": "Santé publique France relevait déjà un excès de suicides de 20 % chez les agriculteurs exploitants en 2010, particulièrement chez les 45-54 ans et dans l'élevage bovins-lait.",
+      "periode": "2010-2011",
+      "perimetre": "France métropolitaine",
+      "explication": "Le phénomène est ancien et touche surtout l'élevage, avant les débats récents sur les normes.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    },
+    {
+      "fait": "Selon Pleinchamp, la MSA décrit un risque multifactoriel : facteurs socio-économiques (revenus, précarité, isolement), démographiques (sexe, âge, situation familiale), sanitaires (maladie psychiatrique) et géographiques.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Aucune cause unique, et les normes ne sont pas citées comme facteur à part.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2021, les agriculteurs tiraient en moyenne 1 860 euros par mois de leur activité, et 15,6 % déclaraient un revenu nul ou déficitaire ; le taux de pauvreté des ménages agricoles dépassait 18 % en 2018.",
+      "periode": "2018-2021",
+      "perimetre": "France",
+      "explication": "Les difficultés de revenu pèsent lourd dans le mal-être.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "15,6 %"
+    },
+    {
+      "fait": "Les rapports parlementaires retiennent la pression à la rationalisation économique, les pressions politiques et sociétales, l'érosion de l'entraide et le déséquilibre entre vie professionnelle et personnelle.",
+      "periode": "2021-2025",
+      "perimetre": "France",
+      "explication": "Les facteurs économiques et sociaux dominent.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : le Sénat relève que les démarches administratives « se multiplient et se complexifient » et propose un chantier de simplification ; la complexité administrative est bien une source de stress.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Les normes et la paperasse pèsent réellement, mais comme une difficulté parmi d'autres.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les agriculteurs se suicident plus que la moyenne, c'est un drame réel. Mais les études ne l'attribuent pas aux normes européennes : elles pointent les revenus trop bas, la précarité, l'isolement, la charge de travail et la santé mentale. La paperasse pèse, mais ce sont d'abord les prix qui tuent le métier.",
+    "moyen": "Selon la MSA, le risque de suicide des assurés agricoles dépassait en 2021 de 60 % celui des autres régimes chez les 15-64 ans. Santé publique France l'observait déjà en 2010, surtout chez les éleveurs laitiers. Le drame est réel et ancien.\n\nLes causes identifiées sont multiples : revenus faibles ou nuls, précarité, isolement, très longues journées, maladie psychique. La complexité administrative est citée par le Sénat comme une source de stress. Mais aucune étude ne fait des normes européennes la cause principale. Les accuser seules, c'est épargner ceux qui fixent les prix payés aux paysans.",
+    "detaille": "La surmortalité par suicide des agriculteurs est l'une des réalités les plus dures du monde rural. Santé publique France relevait un excès de 20 % chez les exploitants en 2010, surtout chez les éleveurs laitiers de 45 à 54 ans. Selon la MSA, en 2021, le risque dépassait de 60 % celui des autres régimes chez les 15-64 ans et de 73 % chez les 65 ans et plus. La MSA reconnaît ne pas pouvoir compter tous les suicides de façon exhaustive.\n\nQue disent les études sur les causes ? La MSA décrit un risque multifactoriel : revenus, précarité et isolement, âge et sexe, situation familiale, et surtout maladies psychiques non prises en charge. En 2021, un agriculteur sur six environ déclarait un revenu nul ou négatif selon l'Insee, et le taux de pauvreté des ménages agricoles dépassait 18 % en 2018. Les rapports parlementaires parlent de pression économique, d'érosion de l'entraide, de semaines interminables. La complexité administrative est réellement citée par le Sénat, qui demande une simplification.\n\nRéduire ce drame aux « normes européennes » est donc trompeur. Les normes ajoutent de la charge, mais elles ne fixent ni les prix d'achat imposés par la grande distribution, ni l'endettement lié à l'agrandissement, ni la solitude de fermes de plus en plus grandes avec de moins en moins de bras. Protéger les paysans, c'est garantir des prix rémunérateurs, alléger les démarches sans sacrifier la santé, et financer l'accompagnement psychologique et le remplacement.",
+    "empathie": "Parler du suicide d'agriculteurs, c'est parler de voisins, de proches, parfois de sa propre famille. La colère qui cherche un coupable est profondément humaine."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Un agriculteur se suicide chaque jour à cause de Bruxelles.",
+      "reponse": "La surmortalité est réelle, mais la MSA décrit des causes multiples : revenus, précarité, isolement, santé mentale. Aucune étude citée n'en fait une conséquence des normes européennes."
+    },
+    {
+      "objection": "Sans les normes, ils vivraient de leur travail.",
+      "reponse": "En 2021, 15,6 % des agriculteurs déclaraient un revenu nul ou déficitaire. Ce sont d'abord les prix payés aux producteurs qui déterminent le revenu."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui pèse le plus sur un éleveur en difficulté : un formulaire, ou un prix du lait qui ne couvre pas ses coûts ?",
+    "Connais-tu les dispositifs d'écoute pour les agriculteurs, comme Agri'écoute ou les sentinelles de la MSA ?"
+  ],
+  "limites": [
+    "Les données de Santé publique France datent de 2010-2011 ; les dernières données MSA lues portent sur 2021.",
+    "L'étude MSA de 2025 a été lue via un compte rendu de presse agricole.",
+    "Aucune source lue ne mesure spécifiquement le poids des normes dans le risque suicidaire ; l'absence de preuve n'est pas une preuve d'absence d'effet.",
+    "Les comparaisons MSA portent tantôt sur la population générale, tantôt sur l'ensemble des régimes ou sur les seuls assurés agricoles."
+  ],
+  "sources": [
+    {
+      "titre": "Suicide : un surrisque significatif et en hausse chez les exploitants et salariés de tous âges",
+      "organisme": "Pleinchamp (presse agricole), sur une étude de la MSA",
+      "date_publication": "11 février 2025",
+      "url": "https://www.pleinchamp.com/actualite/suicide-un-sur-risque-significatif-et-en-hausse-chez-les-exploitants-et-salaries-de-tous-ages",
+      "passage": "Selon la MSA, en 2021, surrisque de suicide de +60 % chez les assurés agricoles de 15-64 ans et +73 % chez les 65 ans et plus, par rapport à l'ensemble des régimes. La MSA parle d'un « profond mal-être » ; le risque est multifactoriel : facteurs socio-économiques (revenus, emploi, précarité, isolement), démographiques (genre, âge, statut marital), sanitaires (maladies psychiatriques : risque multiplié par 16,1 chez les 15-64 ans) et géographiques. La MSA note « l'impossibilité de dénombrer de façon exhaustive le nombre de suicides au sein du régime agricole ».",
+      "pertinence": "Presse professionnelle agricole rendant compte d'une étude MSA ; l'étude elle-même n'a pas été ouverte.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La mortalité par suicide au régime agricole dans le Système national des données de santé (SNDS) : résultats 2016 et 2017",
+      "organisme": "CCMSA, Direction des statistiques, des études et des fonds",
+      "date_publication": "septembre 2023",
+      "url": "https://statistiques.msa.fr/wp-content/uploads/2023/02/Etude-suicide-2016-2017.pdf",
+      "passage": "Chez les exploitants de 15 à 64 ans, « surrisque de mortalité par suicide (+15,6%) » ; +48 % dans les communes d'élevage bovin laitier. « Être atteint d'une maladie psychiatrique entraine un surrisque de suicide ; risque 14 fois plus important ». Les non-salariés de 65 ans et plus ont « un risque de se suicider deux fois plus important » que les assurés des autres régimes. Les hommes ont un risque 3,5 fois plus élevé que les femmes.",
+      "pertinence": "Service statistique de la Mutualité sociale agricole.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Surveillance de la mortalité par suicide des agriculteurs exploitants : situation 2010-2011 et évolution 2007-2011",
+      "organisme": "Santé publique France",
+      "date_publication": "2016",
+      "url": "https://www.santepubliquefrance.fr/sante-mentale/suicides-et-tentatives-de-suicide/rapportsynthese/surveillance-de-la-mortalite-par-suicide-des-agriculteurs-exploitants-situation-2010-2011-et",
+      "passage": "En 2010-2011, « 253 décès par suicide chez les hommes » et « 43 décès par suicide chez les femmes » parmi les agriculteurs exploitants. « Un excès de suicides de 20 % en 2010 » par rapport aux hommes du même âge en population générale, après deux années d'excès. L'excès est particulièrement marqué chez les 45-54 ans et dans l'élevage bovins-lait.",
+      "pertinence": "Agence nationale de santé publique ; données anciennes (2007-2011).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Mortalité par suicide des salariés affiliés au régime agricole en activité entre 2007 et 2013 (BEH n° 27)",
+      "organisme": "Santé publique France (Klingelschmidt, Chastang, Khireddine-Medouni, Chérié-Challine, Niedhammer)",
+      "date_publication": "24 juillet 2018",
+      "url": "https://beh.santepubliquefrance.fr/beh/2018/27/pdf/2018_27_2.pdf",
+      "passage": "Rappelle « une surmortalité par suicide chez les hommes exploitants agricoles par rapport à la population générale » entre 2008 et 2010, « particulièrement marqué chez les éleveurs bovins (lait et viande) âgés de 45 à 54 ans ». Les suicides sont parfois mal renseignés sur les certificats de décès, d'où une possible sous-estimation.",
+      "pertinence": "Bulletin épidémiologique hebdomadaire, revue scientifique de Santé publique France.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Plan de prévention du mal-être et du risque suicidaire en agriculture (fiche 7, 6e rapport de l'Observatoire national du suicide)",
+      "organisme": "DREES, Observatoire national du suicide (Anne-Marie Soubielle)",
+      "date_publication": "2025",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2025-02/Fiche%207%20-%20Plan%20de%20pr%C3%A9vention%20du%20mal-%C3%AAtre%20et%20du%20risque%20suicidaire%20en%20agriculture.pdf",
+      "passage": "Feuille de route adoptée « le 23 novembre 2021 ». Facteurs retenus par deux rapports parlementaires : pression à la rationalisation économique, pressions technologiques et numériques, pressions politiques et attentes sociétales, érosion de l'entraide, déséquilibre vie professionnelle et personnelle. Une précarité touchant « près d'un cinquième » de la population agricole ; 25 714 foyers agricoles au RSA en janvier 2024. Plus de 5 000 sentinelles formées au 31 décembre 2023.",
+      "pertinence": "Publication de l'Observatoire national du suicide (ministère des Solidarités).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Prévention du suicide chez les agriculteurs : le Sénat fait 63 propositions concrètes",
+      "organisme": "Public Sénat (Fanny Conquy)",
+      "date_publication": "17 mars 2021",
+      "url": "https://www.publicsenat.fr/actualites/politique/prevention-du-suicide-chez-les-agriculteurs-le-senat-fait-63-propositions",
+      "passage": "Ne pas pouvoir vivre correctement de son travail est « une source de mal-être » ; « C'est l'accumulation des difficultés qui peut faire basculer. » « Les agriculteurs sont confrontés aussi, parfois, à la solitude. » Les démarches administratives se multiplient et se complexifient : « Le métier devient de plus en plus complexe. » Parmi les propositions : un chantier de simplification administrative, une charte des créanciers, des aides aux exploitations en difficulté.",
+      "pertinence": "Chaîne parlementaire rendant compte d'un rapport sénatorial.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Note presse documentaire : les agriculteurs",
+      "organisme": "Insee",
+      "date_publication": "mise à jour du 9 février 2024",
+      "url": "https://www.insee.fr/fr/information/7765136",
+      "passage": "En 2021, les agriculteurs « retirent en moyenne 1 860 euros par mois de leur activité » ; 15,6 % déclarent un revenu nul ou déficitaire. « Le taux de pauvreté des ménages agricoles s'élève à un peu plus de 18 % en 2018 », contre 15,1 % pour l'ensemble des ménages. « Les agriculteurs ont une durée de travail hebdomadaire plus élevée que l'ensemble des personnes en emploi. »",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de la MSA sur la mortalité par suicide et suivi du plan de prévention du mal-être agricole.",
+  "objections_legitimes": [
+    "La complexité administrative est bien citée comme source de stress par le Sénat.",
+    "Les changements fréquents de règles rendent le métier plus difficile à planifier.",
+    "La surmortalité par suicide est réelle et ancienne."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison, les agriculteurs se suicident plus que les autres, et c'est un scandale. Mais la MSA, qui suit ces drames, parle de revenus trop bas, d'isolement, de précarité et de santé mentale, pas d'abord des normes. Si on accuse seulement Bruxelles, ceux qui imposent des prix trop bas aux paysans s'en sortent sans rien payer.",
+    "indecis": "Ce drame est réel : la MSA mesure une surmortalité de 60 % chez les assurés agricoles de 15 à 64 ans en 2021. Les causes sont multiples, et la paperasse en fait partie. Mais les revenus, l'isolement et la santé mentale reviennent toujours en premier. Si tu connais quelqu'un en détresse, la MSA propose une écoute dédiée."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "solidarite",
+      "vulnerables"
+    ],
+    "mecanismes": "Le récit fait des normes européennes la cause unique d’un drame aux causes multiples, ce qui épargne la grande distribution, l’industrie agroalimentaire et la course à l’agrandissement qui écrasent les revenus paysans.",
+    "consequences": "En désignant un faux coupable, on affaiblit les protections de la santé et de l’environnement sans améliorer les revenus, l’isolement ou l’accès aux soins psychiques des agriculteurs.",
+    "democratie": "Les politiques agricoles doivent être construites avec les paysans eux-mêmes, en écoutant leur souffrance au travail, et non dictées par les intérêts des acteurs dominants des filières.",
+    "propositions": [
+      "Interdire l’achat de produits agricoles en dessous de leur coût de production et garantir des prix rémunérateurs.",
+      "Simplifier réellement les démarches administratives avec un guichet public d’accompagnement de proximité, sans affaiblir les protections sanitaires et environnementales.",
+      "Financer massivement le service de remplacement, l’écoute et le soin psychique dans le monde agricole."
+    ],
+    "defavorables": [
+      {
+        "fait": "La complexité administrative et la multiplication des démarches sont réellement citées comme une source de stress par les rapports parlementaires.",
+        "integration": "Le reconnaître et défendre une simplification au service des paysans, tout en rappelant que les revenus, l’isolement et la santé mentale restent les facteurs principaux."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "suicide_agri",
+      "label": "Suicide des agriculteurs"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "bruxelles",
+    "union europeenne",
+    "nucleaire"
+  ],
+  "concepts": [
+    "europe",
+    "ecologie",
+    "suicide_agri"
+  ]
+}

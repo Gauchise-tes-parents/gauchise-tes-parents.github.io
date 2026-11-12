@@ -1,0 +1,237 @@
+{
+  "id": "retraites-fonctionnaires-prive",
+  "type": "idee_recue",
+  "affirmation": "Les retraites des fonctionnaires sont payées par les salariés du privé.",
+  "volet": "services",
+  "sous_theme": "Fonction publique",
+  "rubriques": [],
+  "mots_cles": [
+    "retraite fonctionnaires paye par le prive",
+    "retraites fonctionnaires financement",
+    "fonctionnaires retraite privilege",
+    "cotisations prive retraites publiques",
+    "compensation demographique",
+    "cnracl compensation",
+    "regime retraite etat",
+    "deficit cache retraites fonctionnaires",
+    "taux cotisation etat 78",
+    "salaries prive payent fonctionnaires"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les cotisations des salariés du privé vont à leurs propres caisses (régime général, Agirc-Arrco), pas aux retraites des fonctionnaires. Les pensions des fonctionnaires d'État sont payées par leurs cotisations et par l'État employeur, donc par le budget, c'est-à-dire par tous les contribuables. Et c'est même l'inverse pour la compensation entre régimes : la caisse des fonctionnaires territoriaux et hospitaliers a versé au moins 100 milliards d'euros aux autres régimes depuis 1974.",
+  "contexte": "Le taux de cotisation très élevé de l'État employeur (78,3 % en 2025) alimente l'idée d'un « déficit caché » des retraites publiques, payé par les autres. Le débat est relancé à chaque réforme des retraites.",
+  "explication": "Il faut distinguer les cotisations (qui vont à chaque régime), l'impôt (qui finance le budget de l'État) et la compensation démographique entre régimes, puis regarder dans quel sens vont les flux.",
+  "faits": [
+    {
+      "fait": "Selon Fipeco, le régime des fonctionnaires de l'État est financé par les cotisations salariales (11,1 %) et par les cotisations employeur des ministères, versées sur un compte spécial « Pensions » du budget de l'État.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les cotisations du privé ne passent pas par ce compte.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11,1 %"
+    },
+    {
+      "fait": "La caisse de retraite des fonctionnaires territoriaux et hospitaliers (CNRACL) a versé « au moins 100 milliards » d'euros aux autres régimes depuis 1974 au titre de la compensation démographique, selon les inspections générales.",
+      "periode": "1974-2024",
+      "perimetre": "France",
+      "explication": "Les flux entre régimes vont surtout de la fonction publique vers les autres régimes, pas l'inverse.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "100 milliards d’euros"
+    },
+    {
+      "fait": "Selon l'IPP, les transferts de compensation sont bien inférieurs aux déséquilibres démographiques : l'État supporte une subvention implicite d'environ 18 Md€, dont bénéficient les régimes plus favorisés, dont celui des salariés du privé.",
+      "periode": "2020-2025",
+      "perimetre": "France",
+      "explication": "Une partie du taux élevé de l'État paie le déséquilibre démographique de son régime, que la compensation ne corrige pas.",
+      "source": 2,
+      "fiabilite": "interpretation",
+      "chiffre": "18 Md€"
+    },
+    {
+      "fait": "Fait défavorable : le taux de cotisation employeur de l'État (78,3 % en 2025, contre environ 16,7 % dans le privé) sert à équilibrer le régime ; selon le CAE, environ 28,9 Md€ correspondraient en 2023 à un transfert du budget général, donc financé par l'impôt de tous, salariés du privé compris.",
+      "periode": "2023-2025",
+      "perimetre": "France",
+      "explication": "Les contribuables du privé participent donc, comme tous les contribuables, y compris les fonctionnaires eux-mêmes.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "28,9 Md€"
+    },
+    {
+      "fait": "Selon Fipeco, le régime de l'État compte 0,88 cotisant par retraité en 2024, contre 1,77 tous régimes confondus.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Il y a peu de cotisants pour payer les pensions : un taux élevé est mécaniquement nécessaire.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "0,88"
+    },
+    {
+      "fait": "Selon la Cour des comptes, la pension des fonctionnaires partis récemment « ne serait en moyenne guère différente » avec les règles du privé ; la DREES l'estime même supérieure d'environ 1,5 %.",
+      "periode": "2023-2026",
+      "perimetre": "France",
+      "explication": "Les fonctionnaires ne sont pas globalement privilégiés par les règles de calcul.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "1,5 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux dans les faits : les cotisations du privé vont aux caisses du privé. Les retraites des fonctionnaires d'État sont payées par leurs cotisations et par l'État employeur, donc par l'impôt de tous. Et la caisse des fonctionnaires territoriaux et hospitaliers a versé au moins 100 milliards aux autres régimes.",
+    "moyen": "Chaque régime a ses propres cotisations. Celles des salariés du privé financent le régime général et l'Agirc-Arrco. Les pensions des fonctionnaires d'État sont payées par leurs cotisations (11,1 %) et par l'État employeur, avec un taux de 78,3 % en 2025. Ce taux sert à équilibrer un régime qui n'a que 0,88 cotisant par retraité.\n\nC'est donc l'impôt de tous qui complète, salariés du privé comme fonctionnaires. Entre caisses, les flux vont dans l'autre sens : la caisse des fonctionnaires territoriaux et hospitaliers a versé au moins 100 milliards d'euros aux autres régimes depuis 1974. Et à carrière égale, les pensions du public sont proches de celles du privé.",
+    "detaille": "Le système français compte plusieurs régimes. Les cotisations des salariés du privé alimentent le régime général et l'Agirc-Arrco. Le régime des fonctionnaires de l'État est un compte spécial du budget, alimenté par les cotisations des agents (11,1 %) et par celles des ministères employeurs. Ce taux employeur est très élevé : 78,3 % en 2025 pour les civils, contre environ 16,7 % dans le privé. Il sert à équilibrer un régime qui ne compte que 0,88 cotisant par retraité.\n\nUne partie de cette cotisation est donc en réalité une subvention du budget de l'État, payée par l'impôt : environ 28,9 Md€ en 2023 selon le CAE. Les salariés du privé y participent comme contribuables, au même titre que les fonctionnaires, les retraités et les entreprises. Mais leurs cotisations retraite ne vont pas aux fonctionnaires. Le CAE précise d'ailleurs qu'il ne s'agit pas d'un « déficit caché », mais d'une question de présentation comptable.\n\nEntre régimes, les flux vont plutôt dans l'autre sens. Selon les inspections générales, la caisse des fonctionnaires territoriaux et hospitaliers a versé au moins 100 milliards d'euros aux autres régimes depuis 1974, ce qui explique une grande partie de son déficit actuel. L'IPP estime aussi que la compensation ne corrige pas la mauvaise démographie du régime de l'État, au bénéfice des régimes plus favorisés, dont celui du privé. Opposer public et privé détourne du vrai débat : comment financer des retraites dignes pour tous.",
+    "empathie": "Quand on cotise toute sa vie et qu'on entend parler de régimes « spéciaux », on peut avoir l'impression d'être le dindon de la farce. C'est compréhensible ; regardons d'où vient vraiment l'argent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "L'État cotise à 78 %, c'est bien que quelqu'un paie.",
+      "reponse": "Oui : le budget de l'État, donc l'impôt de tous. Pas les cotisations retraite des salariés du privé, qui vont à leurs propres caisses."
+    },
+    {
+      "objection": "Les fonctionnaires ont des retraites dorées.",
+      "reponse": "Selon la Cour des comptes, leurs pensions seraient à peu près les mêmes avec les règles du privé ; la DREES les estime même 1,5 % plus élevées avec ces règles."
+    },
+    {
+      "objection": "Il y a un déficit caché de 29 milliards.",
+      "reponse": "Ce chiffre du Haut-commissariat au Plan est contesté : le CAE parle d'une question de présentation comptable, sans déficit caché."
+    }
+  ],
+  "questions": [
+    "Sais-tu que la caisse des fonctionnaires territoriaux et hospitaliers a versé au moins 100 milliards d'euros aux autres régimes ?",
+    "Si l'État recrute moins de fonctionnaires, qui paie les pensions de ceux qui ont déjà travaillé ?"
+  ],
+  "limites": [
+    "Le partage entre « cotisation normale » et « subvention » du taux de l'État fait débat entre économistes (CAE, IPP, Haut-commissariat au Plan).",
+    "Le rapport d'inspections sur la CNRACL et l'enquête de la Cour des comptes ont été lus via des articles qui les résument.",
+    "Les sources lues ne précisent pas, régime par régime, qui reçoit les versements de la CNRACL."
+  ],
+  "sources": [
+    {
+      "titre": "Quel est l'impact des cotisations des employeurs sur le coût des services publics, les dépenses et déficits publics ?",
+      "organisme": "Fipeco (François Écalle)",
+      "date_publication": "19 mars 2026",
+      "url": "https://www.fipeco.fr/pdf/CotisEPSP.pdf",
+      "passage": "Taux employeur 2025 : 78,3 % pour les fonctionnaires civils de l'État, 126,1 % pour les militaires, 34,65 % pour la CNRACL (porté à 43,65 % d'ici 2028), environ 16,7 % dans le privé. Le régime de l'État est géré par un compte d'affectation spéciale « Pensions » alimenté par les cotisations salariales (11,1 %) et les cotisations employeur des ministères. Rapport cotisants/retraités en 2024 : 0,88 pour l'État, 1,59 pour la CNRACL, 1,77 tous régimes. Les régimes de la fonction publique ne bénéficient presque pas des mécanismes de compensation démographique ; la CNRACL contribue au contraire à compenser les autres régimes. Le taux employeur « semble toutefois excessivement élevé » ; « Il permet en effet d'équilibrer les comptes de ces régimes spéciaux de retraite ». Le Haut-commissariat au Plan estimait en 2022 le « déficit caché » à 29 Md€ en 2021, mais « Il n'y a toutefois pas de consensus sur cette décomposition ».",
+      "pertinence": "Site d'analyse des finances publiques tenu par un ancien magistrat de la Cour des comptes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Retraites des fonctionnaires d'État : pas de déficit caché mais un coût salarial surévalué (Focus n° 121)",
+      "organisme": "Conseil d'analyse économique (Hélène Paris)",
+      "date_publication": "septembre 2025",
+      "url": "https://cae-eco.fr/static/pdf/Focus_121_pension_250919.pdf",
+      "passage": "Le taux de cotisation employeur de l'État est de 74,3 % pour les fonctionnaires civils (78,3 % en 2025) et 126,07 % pour les militaires, contre 16,8 % dans le privé en 2024. « Il ne s'agit pas ici de prétendre qu'il y aurait un déficit « caché » du système des retraites » : la question relève de la « tuyauterie budgétaire ». En 2023, sur 39,6 Md€ de cotisations employeur pour les civils, 18,5 Md€ correspondraient à l'effort contributif d'un employeur et 21,1 Md€ à un transfert du budget général ; au total, environ 28,9 Md€ de transfert. Le texte propose que les éléments de solidarité soient « un dispositif de solidarité financé par l'impôt ». Une étude DREES estime qu'appliquer les règles du privé augmenterait d'environ 1,5 % les pensions des sédentaires.",
+      "pertinence": "Organisme d'expertise économique placé auprès du Premier ministre.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Retraites des fonctionnaires d'État : faut-il changer la convention comptable ? (Perspectives budgétaires 2025, chapitre 3)",
+      "organisme": "Institut des politiques publiques (P. Aubert, M. Pedrono, M. Tô, T. Tochev)",
+      "date_publication": "juin 2025",
+      "url": "https://www.ipp.eu/wp-content/uploads/2025/06/chapitre_3_CAS_PENSION-_web.pdf",
+      "passage": "Le régime de l'État a une démographie nettement moins favorable que la moyenne ; les transferts de compensation entre régimes sont « bien en-deçà » des déséquilibres démographiques, ce qui constitue une subvention implicite de l'État estimée à 18 Md€ (0,8 % du PIB), dont bénéficient les régimes plus favorisés, dont celui des salariés du privé. Corrigé, le taux employeur « serait de 34,7 % en 2020 ». L'État finance ces pensions comme employeur et par des transferts budgétaires.",
+      "pertinence": "Institut de recherche académique (École d'économie de Paris, CREST).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "La CNRACL lourdement déficitaire, notamment du fait de sa contribution à l'équilibre des autres caisses",
+      "organisme": "Maire-info (Association des maires de France), sur un rapport IGF-IGAS-IGA",
+      "date_publication": "1er octobre 2024",
+      "url": "https://www.maire-info.com/fonction-publique-territoriale/la-cnracl-lourdement-deficitaire-notamment-du-fait-sa-contribution-equilibre-autres-caisses-article-28961",
+      "passage": "Selon les inspections, la caisse de retraite des fonctionnaires territoriaux et hospitaliers a versé « au moins 100 milliards » d'euros courants aux autres régimes depuis 1974 au titre de la compensation démographique. « Cette compensation démographique est à l'origine de la part la plus importante du déficit du régime ». En 2023, la CNRACL a perçu 24,4 milliards d'euros de cotisations, 1,6 milliard de moins que les prestations versées ; elle était excédentaire en 2017.",
+      "pertinence": "Média de l'Association des maires de France résumant un rapport d'inspections ; le rapport lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Malgré des règles différentes, les montants des pensions de retraite du public et du privé restent proches",
+      "organisme": "Acteurs publics, sur une enquête de la Cour des comptes",
+      "date_publication": "22 septembre 2026",
+      "url": "https://acteurspublics.fr/articles/malgre-des-regles-differentes-le-montant-des-pensions-de-retraite-du-public-et-du-prive-restent-proches/",
+      "passage": "Selon la Cour des comptes, « la pension des fonctionnaires partis récemment à la retraite ne serait en moyenne guère différente » de celle obtenue avec les règles du privé ; selon une étude DREES de 2023, elle serait supérieure d'environ 1,5 % avec les règles du privé. Âge moyen de départ des sédentaires vers 63,5 ans en 2025, proche du privé ; inférieur de 2 à 5 ans pour les catégories actives.",
+      "pertinence": "Média spécialisé de la fonction publique résumant une enquête de la Cour des comptes.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rapport annuel du COR et loi de finances 2027 (taux de cotisation de l'État et de la CNRACL).",
+  "objections_legitimes": [
+    "Le taux de cotisation de l'État employeur est très supérieur à celui du privé et comprend une part de subvention budgétaire.",
+    "Les catégories actives (policiers, soignants…) partent plus tôt, ce qui a un coût."
+  ],
+  "publics": {
+    "convaincus": "Tes cotisations retraite vont à ta caisse, pas à celle des fonctionnaires. Les pensions de l'État sont payées par leurs cotisations et par le budget, que tout le monde finance, fonctionnaires compris. Et entre caisses, c'est même la caisse des fonctionnaires territoriaux et hospitaliers qui a versé au moins 100 milliards aux autres régimes.",
+    "indecis": "La question est légitime, car le taux de cotisation de l'État est très élevé. Mais il sert surtout à payer les pensions d'un régime qui a peu de cotisants, et il est financé par l'impôt de tous. À carrière égale, les pensions du public et du privé sont proches."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "services_publics",
+      "solidarite",
+      "repartition"
+    ],
+    "mecanismes": "Opposer salariés du privé et fonctionnaires détourne la colère vers d’autres travailleurs, en mélangeant cotisations, impôt et transferts entre caisses.",
+    "consequences": "Cette division affaiblit la défense commune des retraites et prépare des réformes qui baissent les droits de tous, en commençant par ceux présentés comme privilégiés.",
+    "democratie": "Le financement des retraites mérite des comptes clairs et lisibles par tous, présentés au Parlement, pour que chacun sache qui paie quoi.",
+    "propositions": [
+      "Présenter de façon transparente la part de cotisation et la part de solidarité dans le financement des retraites publiques.",
+      "Réformer la compensation entre régimes pour qu’elle ne mette pas en déficit la caisse des agents territoriaux et hospitaliers.",
+      "Financer les retraites de tous par l’emploi, l’égalité salariale et la mise à contribution des revenus du capital."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le budget de l’État, financé par l’impôt de tous, complète bien les pensions des fonctionnaires d’État.",
+        "integration": "Le dire franchement : c’est le cas de tout employeur qui paie les retraites de ses agents, et les salariés du privé y contribuent comme contribuables, pas par leurs cotisations."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "fonctionnaires_retraite_fonct",
+      "label": "Retraites des fonctionnaires"
+    },
+    {
+      "id": "retraite_fonctionnaires_retraite_fonct",
+      "label": "Retraites des fonctionnaires"
+    },
+    {
+      "id": "retraite_retraite_fonct",
+      "label": "Retraites des fonctionnaires"
+    },
+    {
+      "id": "retraite_fonct",
+      "label": "Retraites des fonctionnaires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences",
+    "natalite",
+    "enfants par femme",
+    "font des gosses",
+    "font plus d enfants",
+    "un tiers de la population",
+    "population",
+    "de plus en plus d",
+    "trop d",
+    "nombre d",
+    "dette",
+    "deficit"
+  ],
+  "concepts": [
+    "services_publics",
+    "demographie",
+    "dette",
+    "retraite",
+    "fonctionnaires",
+    "retraite_fonct"
+  ]
+}

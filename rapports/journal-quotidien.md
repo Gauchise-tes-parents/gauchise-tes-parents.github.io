@@ -1045,3 +1045,96 @@ Pages non ouvertes, donc non citées :
 - Ajout d'une jauge discrète sous l'en-tête, à droite. Sur ordinateur, elle affiche « Merci ! Vous nous soutenez à hauteur de 45 € / mois · objectif 1 000 € », avec une petite barre qui se remplit et le montant qui défile au chargement. Sur mobile, elle affiche « 45 € / 1 000 € ». L'ensemble est un lien « Nous soutenir » vers Tipeee, qui s'ouvre dans un nouvel onglet. L'animation est désactivée si l'utilisateur a demandé à réduire les animations.
 - Les chiffres sont dans `public/js/soutien.js`. Ils sont relevés sur l'API publique de Tipeee (`parameters.tipperAmount` = 45, campagne « par mois » ; `parameters.tipperNumber` = 11) et mis à jour à chaque passage quotidien. Le site ne contacte jamais Tipeee : la politique « zéro site tiers » est inchangée.
 - Tests : nouveau `tests/unit/soutien.test.js`. Le test de bout en bout des liens Tipeee compte désormais trois liens sur l'accueil (accueil, jauge, pied de page) et vérifie la jauge.
+
+## 12 novembre 2026 — passage de 06 h 14 (UTC)
+
+**Questions testées : 25 nouvelles, retenues sur 37 essayées.** Douze phrases ont été écartées avant rédaction parce qu'une fiche existante y répondait déjà ou en était un quasi-doublon :
+- l'appel d'air créé par les ONG en Méditerranée (`migrants-mediterranee`) ;
+- LFI et le Hamas (`lfi-antisemite`) ;
+- juger les mineurs comme des majeurs (`excuse-de-minorite`) ;
+- « on ne peut plus dire Joyeux Noël » (proche de `creches-noel-mairies`) ;
+- Fessenheim (proche de `sortie-nucleaire-penurie`) ;
+- le référendum de 2005 et le traité de Lisbonne (`referendum-democratie-directe`) ;
+- les contrôles au faciès (traités dans `violences-policieres-existent`) ;
+- les viols et les étrangers (traités dans `delinquance-principalement-immigration`) ;
+- les OQTF non exécutées et les laissez-passer consulaires (`expulser-tous-etrangers-condamnes` et voisines) ;
+- « les immigrés ne paient pas d'impôts » (`immigres-aides`) ;
+- la réduction du nombre de parlementaires par le RN (programme non vérifiable rapidement).
+
+Les 25 questions :
+1. L'allocation de rentrée scolaire sert à acheter des écrans plats.
+2. Un mineur non accompagné coûte 50 000 euros par an aux départements.
+3. Les retraites des fonctionnaires sont payées par les salariés du privé.
+4. LFI veut payer les jeunes à ne rien faire avec une allocation d'autonomie.
+5. La gauche caviar donne des leçons de morale mais vit dans les beaux quartiers.
+6. La loi sur l'aide à mourir va permettre d'euthanasier les vieux et les handicapés.
+7. La PMA pour toutes prive les enfants de père.
+8. Avec MeToo, les fausses accusations de viol sont fréquentes.
+9. Les femmes n'osent plus sortir le soir à cause des migrants.
+10. Le burkini dans les piscines, c'est l'islamisation.
+11. Les profs sont tous de gauche et endoctrinent les élèves.
+12. On n'apprend plus l'histoire de France à l'école.
+13. Les écoles hors contrat sont des nids d'islamistes.
+14. Mai 68 a détruit l'autorité et l'école.
+15. Jules Ferry était de gauche et colonialiste, la gauche a toujours été raciste.
+16. L'entrée de l'Ukraine dans l'Union européenne va ruiner nos agriculteurs.
+17. On abat des troupeaux entiers pour rien à cause de la dermatose nodulaire.
+18. Les normes européennes poussent les agriculteurs au suicide.
+19. Bruxelles veut interdire les cheminées et les poêles à bois.
+20. Le compteur Linky est dangereux et sert à nous espionner.
+21. Les terroristes sont presque tous des immigrés ou des réfugiés.
+22. L'aide humanitaire à Gaza et l'UNRWA financent le Hamas.
+23. Les journaux vivent des subventions de l'État, donc ils sont aux ordres.
+24. Les élections sont truquées par la fraude électorale.
+25. Le Parlement européen ne sert à rien.
+
+Avant ce passage, 7 menaient à une « LACUNE » et 18 à une fiche hors sujet (`rsa-smic`, `souverainete-populaire`, `services-publics-moyens`, `delinquance-partout`…).
+
+**Fiches créées : 25** (générateur `scripts/fiches/quotidien_20261112_0614.py`, toutes avec le champ `publics`, une entrée dans `scripts/lectures-gauche.js`, sources ouvertes et lues le 12 novembre 2026). Trois premières sources de chacune :
+- `ars-ecrans-plats` (contredit, 5 sources) : Les Surligneurs (4 août 2026) ; Cnaf (juin 2014) ; Presse-citron (20 août 2025).
+- `mna-cout-departements` (trompeur, 6 sources) : Inspection générale des affaires sociales, Inspection générale de l'administration, Inspection générale de la justice (mai 2021) ; Sénat (question du 14 juillet 2022, réponse du 29 décembre 2022) ; Institut Montaigne (14 octobre 2020).
+- `retraites-fonctionnaires-prive` (trompeur, 5 sources) : Fipeco (19 mars 2026) ; Conseil d'analyse économique (septembre 2025) ; Institut des politiques publiques (juin 2025).
+- `lfi-allocation-autonomie-jeunes` (trompeur, 6 sources) : La France insoumise (page mise à jour le 7 novembre 2026) ; Institut Montaigne (février 2022) ; CIDJ (26 juin 2024).
+- `gauche-caviar-lecons` (trompeur, 4 sources) : Ifop (juin 2024) ; Public Sénat, sur une enquête Ipsos Talan (1er juillet 2024) ; Thomas Piketty (2018).
+- `aide-a-mourir-euthanasie` (trompeur, 6 sources) : Sénat (dossier consulté le 12 novembre 2026) ; LCP (15 juillet 2026) ; Weka (1er septembre 2026).
+- `pma-pour-toutes-pere` (trompeur, 5 sources) : LCP (28 septembre 2026) ; Vidal (1er avril 2025) ; Université de Cambridge (article publié dans une revue de psychologie de la famille (ISSN 1939-1293)).
+- `metoo-fausses-accusations` (contredit, 5 sources) : SSMSI (mars 2024) ; SSMSI (janvier 2024) ; Institut des politiques publiques (avril 2024).
+- `femmes-sortir-soir-migrants` (trompeur, 4 sources) : Insee (21 novembre 2024) ; INED (décembre 2017) ; SSMSI (mars 2024).
+- `burkini-piscines` (trompeur, 6 sources) : Conseil d'État (21 juin 2022) ; Conseil d'État (26 août 2016) ; Ministère de la Fonction publique (mise à jour le 11 avril 2024).
+- `profs-gauche-endoctrinement` (trompeur, 4 sources) : Cevipof (septembre 2022) ; Maire-info (17 septembre 2024) ; Service-public.fr (vérifiée le 3 février 2025).
+- `histoire-france-ecole` (contredit, 6 sources) : Ministère de l'Éducation nationale, document mis en ligne par l'Association des professeurs d'histoire et de géographie (page consultée le 12 novembre 2026) ; Ministère de l'Éducation nationale (30 juillet 2020) ; L'Étudiant (8 septembre 2016).
+- `ecoles-hors-contrat-islamistes` (contredit, 5 sources) : Maire-info (14 mars 2022) ; Banque des Territoires (22 septembre 2026) ; Banque des Territoires (avril 2018).
+- `mai-68-autorite-ecole` (trompeur, 6 sources) : CNRS News (17 avril 2018) ; Ministère du Travail (25-27 mai 1968) ; Hommes & Libertés n° 182 (juin 2018).
+- `jules-ferry-gauche-colonialisme` (trompeur, 7 sources) : Assemblée nationale (discours du 31 juillet 1885) ; Histoire coloniale et postcoloniale (2003, modifiée en 2019) ; Assemblée nationale (2010).
+- `ukraine-ue-agriculteurs` (trompeur, 6 sources) : Euronews (14 juillet 2026) ; Iddri (juin 2024) ; Commission européenne (30 juin 2025).
+- `dermatose-nodulaire-abattage` (trompeur, 6 sources) : Anses (20 avril 2026) ; Office parlementaire d'évaluation des choix scientifiques et technologiques (janvier 2026) ; Anses (20 mars 2026).
+- `agriculteurs-suicide-normes` (trompeur, 7 sources) : Pleinchamp (11 février 2025) ; CCMSA, Direction des statistiques, des études et des fonds (septembre 2023) ; Santé publique France (2016).
+- `cheminees-bois-bruxelles` (contredit, 5 sources) : Que Choisir (4 avril 2025) ; Sénat (réponse publiée le 22 janvier 2026) ; Assemblée nationale (réponse publiée au JO le 21 juillet 2026).
+- `linky-dangereux-espionnage` (contredit, 6 sources) : Assemblée nationale (réponse publiée au JO le 12 octobre 2018) ; Institut national de la consommation (9 mai 2017, mis à jour le 5 mars 2021) ; CNIL, communiqué reproduit par Dalloz Actualité (11 février 2020).
+- `terroristes-immigres-refugies` (trompeur, 4 sources) : Institut français des relations internationales (avril 2018) ; Centre d'analyse du terrorisme (juillet 2024) ; Assemblée nationale (réponse publiée au JO le 9 avril 2024).
+- `unrwa-gaza-hamas` (trompeur, 8 sources) : ONU Info (5 août 2024) ; Euronews (23 avril 2024) ; NPR (23 avril 2024).
+- `presse-subventions-aux-ordres` (trompeur, 7 sources) : Ministère de la Culture (bilan 2023 mis en ligne en juin 2024) ; CB News (9 juillet 2024) ; Public Sénat (26 juin 2023).
+- `elections-truquees-fraude` (contredit, 7 sources) : Service-public.fr (vérifiée le 13 octobre 2025) ; Landot & associés (2 octobre 2023) ; Le Petit Journal (février 2023).
+- `parlement-europeen-inutile` (contredit, 7 sources) : Parlement européen (page consultée le 12 novembre 2026) ; Toute l'Europe (avril 2024) ; Public Sénat (12 février 2018).
+
+**Politique documentaire.** La Cnaf (« Caisse nationale des allocations familiales ») est ajoutée aux institutions reconnues dans `public/js/ligne-editoriale.js` : sans cela, `ars-ecrans-plats` était signalée « sans source d'autorité » alors qu'elle s'appuie sur une étude de la Cnaf. L'article des Surligneurs publié sur le site des CAF reste classé comme article de presse.
+
+**Points fragiles signalés dans les limites des fiches :**
+- documents lus seulement à travers un compte rendu fiable : rapport de la Cour des comptes 2018 sur Linky, enquête 2026 de la Cour des comptes sur les retraites des fonctionnaires, rapport IGF-IGAS-IGA sur la CNRACL, rapport du Sénat sur la dermatose, rapports Colonna et OIOS (ONU Info, presse), décision du Conseil constitutionnel de 2023 (blog d'avocats), enquête Cnaf 2023 sur l'ARS ;
+- conditions exactes de la loi sur l'aide à mourir lues dans la presse (LCP, Weka), pas sur Légifrance ; deux formulations divergentes sur la souffrance psychologique, signalées ;
+- citation de Jules Ferry (28 juillet 1885) lue dans deux reproductions concordantes, pas au Journal officiel ; date de la réponse de Clemenceau (30 ou 31 juillet) divergente ;
+- programme LFI 2026 lu en partie (âge et conditions de la garantie d'autonomie non entièrement vérifiés) ;
+- aucun chiffre officiel récent du coût moyen d'un mineur non accompagné ; aucune donnée nationale sur le burkini ; données Virage de 2015 ; données Ifri de 2004-2017 ;
+- analyse interne de l'USAID sur Gaza connue seulement par Reuters et contestée par le Département d'État.
+
+Pages non ouvertes, donc non citées : vie-publique.fr (JavaScript requis, plusieurs pages), info.gouv.fr, PubMed (captcha), plusieurs pages d'education.gouv.fr, de l'Ifri en français, d'interieur.gouv.fr, nbcnews.com, letemps.ch, actu-juridique.fr, reporterre.net, Slate, Universalis.
+
+**Reconnaissance des questions.** `public/js/cartographie.js` reçoit 18 concepts (`ars`, `retraite_fonct`, `autonomie_jeunes`, `aide_mourir`, `fausses_accusations`, `femmes_sortir`, `burkini`, `histoire_ecole`, `hors_contrat`, `mai68`, `ferry_colonies`, `ukraine_ue`, `suicide_agri`, `chauffage_bois`, `unrwa`, `presse_aides`, `fraude_electorale`, `parlement_ue`), leurs domaines et 29 arguments placés en tête (un par concept, plus des variantes à deux ou trois concepts pour l'emporter sur `fonctionnaires_salaires`, `imm_delinquance`, `musulmans_nombre` et `ukraine_aide`). Les 7 autres questions menaient déjà à leur fiche après génération. Comparaison avant/après sur 509 phrases de contrôle (affirmations de la bibliothèque, questions citées dans ce journal) : seules les 18 questions visées changent de fiche. 18 variantes familières vérifiées (« La CAF donne l'ARS et ils achètent des télés », « Ma fille n'ose plus sortir seule le soir avec tous ces migrants », « On nous a volé l'élection présidentielle », « Si l'Ukraine entre dans l'UE nos paysans sont morts »…) ; les phrases témoins « L'UE donne des milliards à l'Ukraine », « Les médias ne parlent jamais des aides aux immigrés » et « Les cheminots partent à la retraite à 50 ans » gardent leur fiche. Le test de compréhension a fait resserrer le concept `femmes_sortir` : « On ne peut plus sortir le soir tranquille » doit rester sur `delinquance-partout` ; le concept exige désormais que la phrase parle des femmes ou des filles.
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`), volontairement laissées sans.
+
+**Questions écartées pour sources invérifiables : aucune.**
+
+**Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue (deux essais : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique). Aucun chiffre relevé ; `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
+
+**Vérifications.** `npm test` : 474 tests, 474 réussis. Tests de bout en bout : 38 tests, 38 réussis.

@@ -1,0 +1,215 @@
+{
+  "id": "dermatose-nodulaire-abattage",
+  "type": "idee_recue",
+  "affirmation": "On abat des troupeaux entiers pour rien à cause de la dermatose nodulaire.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "dermatose nodulaire",
+    "dnc abattage",
+    "abattage troupeau entier",
+    "vaches abattues pour rien",
+    "dermatose vaccination",
+    "dermatose eleveurs colere",
+    "abattage total bovins",
+    "dermatose bovine",
+    "massacre des troupeaux",
+    "genevard dermatose"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux sur le « pour rien », mais la colère est compréhensible. Dans un troupeau touché, des animaux peuvent être infectés sans symptômes, et aucun test ne permet de les repérer : abattre seulement les malades laisse le virus circuler. L'abattage total du foyer, combiné à la vaccination et aux restrictions de mouvement, est imposé par le droit européen et jugé efficace par l'EFSA et l'office parlementaire scientifique. En France, 117 foyers et plus de 3 500 bovins abattus, et plus aucune zone réglementée à l'automne 2026. Le traumatisme des éleveurs et les critiques sur la communication sont réels.",
+  "contexte": "La dermatose nodulaire contagieuse, maladie virale des bovins transmise surtout par des insectes, est apparue en France en juin 2025 en Savoie. L'abattage de troupeaux entiers a été largement dénoncé par des éleveurs, et le dialogue avec l'État est devenu difficile.",
+  "explication": "Il faut comprendre comment le virus circule, pourquoi on ne peut pas trier les animaux infectés, et ce qu'a donné la stratégie (abattage du foyer, vaccination, restrictions) en France et ailleurs.",
+  "faits": [
+    {
+      "fait": "Selon Anses, la DNC touche uniquement les bovins, n'est pas transmissible à l'humain et se transmet surtout par des insectes piqueurs ; la mortalité est généralement faible, mais elle provoque pertes de lait, avortements et restrictions commerciales.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Une maladie peu mortelle peut quand même ravager une filière et se propager vite.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les animaux infectés restent contagieux même sans symptômes et il n'existe pas de traitement ; selon le Gouvernement, « les mesures ciblées (tests sérologiques, euthanasies sélectives) ne suffisent pas », comme l'ont montré la Grèce et la Bulgarie.",
+      "periode": "2026",
+      "perimetre": "France, Union européenne",
+      "explication": "C'est pourquoi on abat tout le foyer et pas seulement les bêtes malades.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'office parlementaire scientifique juge le dépeuplement total « indispensable pour tarir le plus rapidement possible les sources de virus » ; l'abattage partiel tenté au Japon a un succès « qui reste à prouver ».",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "L'abattage n'est pas « pour rien » : c'est l'un des piliers pour éteindre l'épidémie.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Anses, en France, 117 foyers ont été détectés, plus de 3 500 bovins euthanasiés et près de deux millions vaccinés sur un cheptel d'environ 16 millions ; aucun nouveau foyer n'a été détecté après le 2 janvier 2026.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "La stratégie a enrayé l'épidémie en quelques mois.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "117 foyers"
+    },
+    {
+      "fait": "À l'automne 2026, le ministère indique qu'il n'existe plus de zone de protection et de surveillance en France ; la vaccination est entièrement payée par l'État.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "L'épidémie est maîtrisée, même si la surveillance continue.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon une mission du Sénat, la stratégie d'abattage a été largement dénoncée par les agriculteurs, la communication a été « insuffisante ou inadaptée » et le dialogue « de plus en plus difficile » ; l'office parlementaire reconnaît une mesure « traumatisante » que les indemnisations ne compensent pas.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "La colère des éleveurs est légitime : la méthode a été mal expliquée et vécue comme brutale.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Ce n'est pas pour rien : des vaches infectées sans symptômes contaminent les autres, et aucun test ne permet de les repérer. Abattre le foyer, vacciner autour et limiter les mouvements a stoppé l'épidémie en quelques mois. Mais la douleur des éleveurs est réelle, et l'État a mal expliqué.",
+    "moyen": "La dermatose nodulaire n'est pas dangereuse pour l'humain, mais elle se propage vite entre bovins, surtout par les insectes. Le problème : des animaux infectés n'ont pas encore de symptômes, et aucun test ne permet de les repérer. Abattre seulement les malades laisse le virus circuler ; la Grèce et la Bulgarie l'ont vu.\n\nEn France, 117 foyers ont été détectés, plus de 3 500 bovins abattus et près de deux millions vaccinés. Aucun nouveau foyer n'a été trouvé après janvier 2026. L'office parlementaire scientifique juge la méthode « indispensable », tout en reconnaissant qu'elle est « traumatisante ». Le Sénat critique surtout la communication de l'État.",
+    "detaille": "La dermatose nodulaire contagieuse est une maladie virale qui touche uniquement les bovins. Elle n'est pas transmissible à l'humain et tue peu, mais elle fait chuter la production de lait, provoque des avortements et bloque les exportations. Elle se transmet surtout par des insectes piqueurs. Apparue en Savoie en juin 2025, elle a touché 117 foyers dans 11 départements.\n\nPourquoi abattre tout le troupeau ? Parce que des animaux infectés restent contagieux sans montrer de symptômes, et qu'aucun test ne permet de les distinguer. Le droit européen impose donc le dépeuplement total du foyer, recommandé par l'EFSA. Les tentatives plus ciblées en Grèce, en Bulgarie ou au Japon n'ont pas prouvé qu'elles suffisaient. L'office parlementaire scientifique juge cet abattage « indispensable », avec la vaccination, les restrictions de mouvement et la surveillance. Résultat : plus de 3 500 bovins abattus (à comparer aux 11 000 abattus chaque jour pour la consommation), près de deux millions vaccinés, et plus aucune zone réglementée à l'automne 2026.\n\nLa colère des éleveurs n'en est pas moins légitime. Perdre un troupeau sélectionné pendant des années est un drame que l'argent ne répare pas. Le Sénat reconnaît une communication « insuffisante ou inadaptée », un dialogue difficile et des retards dans l'indemnisation. Il pointe aussi les « mouvements illicites de bovins » et un modèle d'élevage tourné vers l'export des jeunes bovins. La bonne réponse n'est pas de nier la science, mais d'exiger des moyens pour la recherche, des vétérinaires de terrain et une vraie concertation.",
+    "empathie": "Voir abattre des bêtes qu'on a élevées pendant des années, parfois en bonne santé apparente, c'est un déchirement. Cette douleur et cette colère méritent le respect."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il suffit d'abattre les vaches malades.",
+      "reponse": "Des animaux infectés sont contagieux avant d'avoir des symptômes, et aucun test ne les repère. Les tentatives ciblées en Grèce et en Bulgarie n'ont pas suffi."
+    },
+    {
+      "objection": "Il fallait vacciner toutes les vaches de France.",
+      "reponse": "Le Sénat estime qu'il faudrait jusqu'à un an et environ 346 millions d'euros pour 16,4 millions de bovins, et la protection n'apparaît qu'après quinze jours à un mois. La vaccination a été massive autour des foyers."
+    },
+    {
+      "objection": "C'est pour favoriser les importations.",
+      "reponse": "Aucune source ne le montre : l'abattage est imposé par le droit européen pour toute l'UE, et l'objectif est justement de rouvrir les exportations françaises."
+    }
+  ],
+  "questions": [
+    "Si une bête infectée sans symptômes restait dans le troupeau, comment éviter qu'elle contamine les élevages voisins ?",
+    "Qu'est-ce qui aurait aidé les éleveurs à mieux vivre cette crise : plus d'explications, plus d'indemnisation, plus de vétérinaires ?"
+  ],
+  "limites": [
+    "Le rapport complet du Sénat n'a pas été ouvert : il est cité via Maire-info.",
+    "Aucune source lue ne donne le montant total des indemnisations versées aux éleveurs.",
+    "La stratégie peut encore évoluer (débat sur la vaccination et sur l'abattage partiel)."
+  ],
+  "sources": [
+    {
+      "titre": "Dermatose nodulaire contagieuse : une maladie virale bovine à surveiller de près",
+      "organisme": "Anses",
+      "date_publication": "20 avril 2026",
+      "url": "https://www.anses.fr/fr/content/dermatose-nodulaire-contagieuse-maladie-virale-bovine-a-surveiller",
+      "passage": "La DNC « affecte exclusivement les bovins » ; le virus est « principalement véhiculé par des insectes piqueurs ». « La DNC n'est pas transmissible à l'humain ». « La mortalité reste généralement faible », mais la maladie provoque baisse de production laitière, perte de poids, avortements, dommages sur les cuirs. La réglementation européenne impose « des mesures de dépeuplement par abattage total des troupeaux contaminés ». En Europe du Sud-Est (2015-2016), la maladie a été contenue grâce au dépeuplement des foyers et à une vaccination autour. Premier cas en France le 29 juin 2025, en Savoie.",
+      "pertinence": "Agence nationale de sécurité sanitaire ; page de référence sur la maladie.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les apports de la science pour lutter contre la dermatose nodulaire contagieuse (synthèse)",
+      "organisme": "Office parlementaire d'évaluation des choix scientifiques et technologiques (OPECST), Gérard Leseul et Sonia de La Provôté",
+      "date_publication": "janvier 2026",
+      "url": "https://www.senat.fr/rap/r25-322/r25-322-syn.pdf",
+      "passage": "Au 14 janvier 2026, « 117 foyers dans 82 élevages répartis dans 11 départements » ; 3 500 bovins abattus depuis le 29 juin 2025, chiffre à « relativiser » (11 000 bovins abattus chaque jour pour la consommation) ; 1,7 million d'animaux vaccinés. Le dépeuplement total est « indispensable pour tarir le plus rapidement possible les sources de virus », mais c'est « une mesure traumatisante pour les éleveurs ». L'abattage partiel pratiqué au Japon a un succès qui reste à prouver ; dans les Balkans, il a prolongé les efforts. Pas de test permettant de repérer les animaux infectés sans symptômes ; la vaccination protège après quinze jours à un mois. Les indemnisations « ne permettent pas de compenser la douleur ressentie ». La désinformation a conduit une minorité d'éleveurs à rejeter la vaccination.",
+      "pertinence": "Office parlementaire commun à l'Assemblée et au Sénat ; synthèse scientifique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Avis relatif à la durée de l'immunité post-vaccinale contre la dermatose nodulaire contagieuse (saisine 2026-SA-0043)",
+      "organisme": "Anses",
+      "date_publication": "20 mars 2026",
+      "url": "https://www.anses.fr/system/files/SABA-2026-SA-0043.pdf?download=1",
+      "passage": "« Cent-dix-sept foyers ont été détectés en France au total » ; aucun nouveau foyer depuis le 2 janvier 2026. « Plus de 3 500 bovins ont été euthanasiés ». Près de deux millions de bovins vaccinés « sur un cheptel de près de 16 millions d'individus ». L'Anses juge « nécessaire » une seconde campagne de vaccination dès 2026.",
+      "pertinence": "Avis d'expertise de l'agence sanitaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 11688 sur la gestion de la dermatose nodulaire contagieuse, et réponse du ministère de l'Agriculture",
+      "organisme": "Assemblée nationale (réponse du ministère de l'Agriculture)",
+      "date_publication": "réponse publiée au JO le 14 avril 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11688.pdf",
+      "passage": "L'abattage total est une obligation du droit européen (règlement UE 2023/361) ; selon la recommandation de l'EFSA, « l'abattage total est la méthode la plus efficace pour éliminer rapidement les sources de virus ». « Les mesures ciblées (tests sérologiques, euthanasies sélectives) ne suffisent pas à maîtriser une épizootie de DNC » (expériences grecque et bulgare). Les animaux infectés restent contagieux même sans symptômes ; il n'existe pas de traitement. Vaccination des bovins des zones réglementées « intégralement prise en charge par l'État ». Indemnisation : acomptes versés dans les jours suivant l'abattage, période d'indemnisation prolongée jusqu'au repeuplement.",
+      "pertinence": "Réponse ministérielle officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Dermatose nodulaire contagieuse : une crise qui révèle les fragilités du dispositif sanitaire et économique français",
+      "organisme": "Maire-info (Association des maires de France), sur une mission d'information du Sénat (rapporteure Martine Berthet)",
+      "date_publication": "5 février 2026",
+      "url": "https://www.maire-info.com/agriculture/dermatose-nodulaire-contagieuse-une-crise-qui-ra-va-le-les-fragilita-s-du-dispositif-sanitaire-et-a-conomique-frana-ais-art26-30450",
+      "passage": "117 foyers dans 11 départements. Protocole sanitaire « validé par la science » ; indemnisation « plutôt satisfaisante » même si l'État a tardé à l'élargir. La stratégie d'abattage a été largement dénoncée par les agriculteurs ; communication jugée « insuffisante ou inadaptée », favorisant les fausses informations ; « un dialogue de plus en plus difficile ». Diffusion en partie liée à des « mouvements illicites de bovins ». Vaccination des 16,4 millions de bovins : jusqu'à un an et 345,8 millions d'euros, jugée « ni souhaitable, ni envisageable à court terme ». Coût pour l'État estimé à 64 millions d'euros.",
+      "pertinence": "Média de l'Association des maires de France résumant un rapport sénatorial ; le rapport lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Dermatose nodulaire contagieuse des bovins (DNC) : foire aux questions",
+      "organisme": "Ministère de l'Agriculture",
+      "date_publication": "mise à jour du 19 octobre 2026",
+      "url": "https://www.agriculture.gouv.fr/dermatose-nodulaire-contagieuse-des-bovins-dnc-foire-aux-questions",
+      "passage": "« Dépeuplement total des bovins des foyers ». Vaccination « massive, dans les meilleurs délais et obligatoire » en zones de protection et de surveillance ; « cette vaccination est intégralement prise en charge par l'État ». « À ce jour, il n'existe plus de zone de protection et de surveillance en France. » Depuis une zone vaccinale I, envois possibles sous conditions vers tous les États de l'UE ; depuis une zone vaccinale II, accord du pays de destination nécessaire.",
+      "pertinence": "Page officielle du ministère.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelle saison vectorielle, campagne de revaccination 2026-2027 et éventuelle évolution de la stratégie européenne.",
+  "objections_legitimes": [
+    "L'abattage total est une mesure traumatisante que les indemnisations ne compensent pas entièrement.",
+    "La communication de l'État a été jugée insuffisante par le Sénat.",
+    "Des éleveurs et syndicats demandaient d'autres stratégies, dont la vaccination générale."
+  ],
+  "publics": {
+    "convaincus": "Ce n'est pas « pour rien » : une vache infectée peut contaminer les autres avant d'avoir le moindre symptôme, et aucun test ne permet de la repérer. Abattre le foyer, vacciner et limiter les mouvements a stoppé l'épidémie en quelques mois. Ta colère contre la manière dont l'État a traité les éleveurs, elle, est justifiée.",
+    "indecis": "Il est normal d'être choqué par ces images. La maladie est dangereuse pour les élevages parce que des animaux contagieux n'ont pas encore de symptômes. Les scientifiques jugent l'abattage du foyer indispensable, mais le Sénat reconnaît une mauvaise communication et un vrai traumatisme pour les éleveurs."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "services_publics",
+      "democratie"
+    ],
+    "mecanismes": "La colère légitime face à un abattage vécu comme brutal est détournée contre la science et les vétérinaires, alors que les failles viennent surtout d’une communication défaillante, d’un maillage vétérinaire affaibli et d’un élevage tourné vers l’export d’animaux vivants.",
+    "consequences": "Le rejet de la vaccination et le non-respect des restrictions de mouvement prolongent les épidémies et exposent davantage d’élevages à la perte de leurs troupeaux.",
+    "democratie": "Les stratégies sanitaires doivent être expliquées, discutées avec les éleveurs concernés et appuyées sur une expertise publique indépendante, pour que la confiance ne soit pas laissée aux rumeurs.",
+    "propositions": [
+      "Renforcer le réseau public de vétérinaires ruraux et la recherche publique en santé animale.",
+      "Indemniser rapidement et pleinement les éleveurs touchés, y compris les pertes indirectes, avec un accompagnement psychologique systématique.",
+      "Relocaliser l’engraissement des jeunes bovins pour limiter les longs transports d’animaux qui diffusent les maladies."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’abattage total des foyers est une mesure traumatisante, largement dénoncée par des éleveurs, et la communication de l’État a été jugée insuffisante par le Sénat.",
+        "integration": "Donner raison aux éleveurs sur la brutalité de la gestion et le manque de dialogue, tout en expliquant pourquoi la science juge cet abattage nécessaire pour stopper le virus."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "arn messager",
+    "arnm",
+    "pfizer",
+    "moderna"
+  ],
+  "concepts": [
+    "ecologie",
+    "vaccin"
+  ]
+}

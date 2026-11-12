@@ -1,0 +1,233 @@
+{
+  "id": "elections-truquees-fraude",
+  "type": "idee_recue",
+  "affirmation": "Les élections sont truquées par la fraude électorale.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "elections truquees",
+    "fraude electorale",
+    "election volee",
+    "vote truque",
+    "fraude procurations",
+    "machines a voter fraude",
+    "resultats truques",
+    "triche elections",
+    "presidentielle truquee",
+    "bourrage des urnes"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. En France, on vote presque partout sur papier et le dépouillement est public : ce sont des électeurs qui ouvrent les enveloppes et lisent les bulletins à voix haute. Des fraudes locales existent, et elles sont détectées et sanctionnées : le Conseil constitutionnel a annulé l'élection d'un député en 2023, et deux élus de Bastia ont été condamnés en 2024 pour de fausses procurations. Mais aucune enquête n'a montré de fraude capable de changer le résultat d'une élection nationale.",
+  "contexte": "Depuis l'élection américaine de 2020, l'idée d'élections « volées » circule aussi en France. En 2022, une erreur d'affichage de France 2 a alimenté une rumeur de fraude contre Marine Le Pen.",
+  "explication": "Il faut regarder comment le vote est organisé et contrôlé, ce que trouvent les juges quand ils sont saisis, et d'où viennent les rumeurs.",
+  "faits": [
+    {
+      "fait": "Le dépouillement est public : des électeurs servent de scrutateurs, un bulletin est lu à voix haute, le nombre d'enveloppes est comparé aux émargements, et le procès-verbal est rédigé devant les électeurs.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Chaque citoyen et chaque parti peut contrôler le comptage dans son bureau.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Pour les législatives de 2022, le Conseil constitutionnel a été saisi de 99 réclamations et a annulé le scrutin dans 7 circonscriptions ; il note que la régularité des procurations « n'appellent pas de remarques particulières ».",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "Le juge examine les contestations et annule quand c'est nécessaire, le plus souvent pour des erreurs d'organisation.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "7 circonscriptions"
+    },
+    {
+      "fait": "Fait défavorable : le 3 février 2023, le Conseil constitutionnel a annulé l'élection du député de la 8e circonscription des Français de l'étranger pour « irrégularités et manœuvres », dont des propositions de voter par internet à la place d'électeurs ; l'écart était de 193 voix (8 470 contre 8 277).",
+      "periode": "2022-2023",
+      "perimetre": "Français de l'étranger",
+      "explication": "Des manœuvres frauduleuses existent ; elles ont été détectées et l'élection a été refaite.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "193 voix"
+    },
+    {
+      "fait": "Selon Corse Net Infos, Fait défavorable : en juillet 2024, le tribunal correctionnel de Bastia a condamné deux élus municipaux à un an d'inéligibilité pour 17 procurations obtenues frauduleusement auprès de personnes fragiles lors des municipales de 2020.",
+      "periode": "2020-2024",
+      "perimetre": "Bastia",
+      "explication": "La fraude aux procurations existe localement, et la justice la sanctionne.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "17 procurations"
+    },
+    {
+      "fait": "En avril 2022, la rumeur selon laquelle Marine Le Pen aurait « perdu des millions de voix » venait d'une erreur informatique de France 2, qui avait compté deux fois certaines communes ; elle a été corrigée. Résultat final : 58,5 % contre 41,5 %.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Une erreur d'affichage d'une chaîne de télévision n'est pas une fraude dans les urnes.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "58,5 %"
+    },
+    {
+      "fait": "Les machines à voter sont gelées par un moratoire depuis 2008 : 63 communes les utilisent, soit environ 1,3 million d'électeurs, près de 3 % du corps électoral ; la Cour des comptes y voit surtout un risque de discrédit, « même sans fondement ».",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le vote reste à 97 % sur papier, ce qui permet le recomptage ; le vote électronique est critiqué, y compris à gauche.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "3 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : en France, on vote sur papier presque partout et le dépouillement est public, fait par des électeurs. Des fraudes locales existent et sont sanctionnées, comme l'annulation d'une législative en 2023, mais aucune fraude n'a changé le résultat d'une élection nationale.",
+    "moyen": "Le vote français est très contrôlable : bulletins papier, dépouillement public par des électeurs, procès-verbal rédigé devant tout le monde. Les machines à voter, gelées depuis 2008, ne concernent qu'environ 3 % des électeurs.\n\nDes fraudes existent, mais elles sont repérées : le Conseil constitutionnel a annulé l'élection d'un député en 2023 pour des manœuvres, et des élus de Bastia ont été condamnés en 2024 pour de fausses procurations. Pour les législatives de 2022, il a annulé 7 scrutins, surtout pour des erreurs d'organisation. Quant à la rumeur de 2022 sur les « millions de voix » perdues par Marine Le Pen, elle venait d'une erreur d'affichage de France 2.",
+    "detaille": "L'organisation du vote en France laisse peu de place à une fraude massive. On vote sur papier dans l'immense majorité des communes. Le dépouillement est public : des électeurs volontaires ouvrent les enveloppes, lisent les bulletins à voix haute et notent les voix, et le nombre d'enveloppes est comparé au nombre de signatures. Les partis peuvent envoyer des délégués, et toute réclamation est inscrite au procès-verbal. Les machines à voter, critiquées pour leur manque de transparence, sont gelées depuis 2008 et ne concernent qu'environ 3 % des électeurs.\n\nLa fraude n'est pas inexistante, et il faut le dire. En 2023, le Conseil constitutionnel a annulé l'élection d'un député des Français de l'étranger pour des manœuvres, dont des propositions de voter par internet à la place d'électeurs. En 2024, deux élus de Bastia ont été condamnés pour de fausses procurations obtenues auprès de personnes fragiles. Ces affaires montrent que les contrôles fonctionnent : les fraudes sont repérées, les élections refaites et les fraudeurs sanctionnés.\n\nCe qui n'existe pas, c'est une fraude organisée capable de renverser une élection nationale. Pour les législatives de 2022, sur 99 réclamations, le Conseil constitutionnel a annulé 7 scrutins, le plus souvent pour des erreurs d'organisation. Les rumeurs, elles, reposent souvent sur des malentendus, comme l'erreur d'affichage de France 2 en 2022. Crier à la fraude sans preuve affaiblit la confiance dans la démocratie ; la défendre, c'est aussi aller tenir un bureau de vote.",
+    "empathie": "Quand on a l'impression que sa voix ne compte pas, il est tentant de penser que le jeu est truqué. Cette méfiance mérite une réponse concrète : comment le vote est-il vraiment compté ?"
+  },
+  "contre_arguments": [
+    {
+      "objection": "On ne sait pas ce qui se passe dans les bureaux.",
+      "reponse": "Le dépouillement est public : n'importe quel électeur peut y assister ou être scrutateur, et chaque parti peut envoyer des délégués."
+    },
+    {
+      "objection": "Les procurations permettent de truquer le vote.",
+      "reponse": "Des fraudes aux procurations sont sanctionnées, comme à Bastia en 2024, mais le Conseil constitutionnel n'a relevé aucun problème particulier de procurations aux législatives de 2022."
+    },
+    {
+      "objection": "En 2022, Marine Le Pen a perdu des millions de voix pendant le dépouillement.",
+      "reponse": "C'était une erreur d'affichage de France 2, qui avait compté deux fois certaines communes ; elle a été corrigée le soir même."
+    }
+  ],
+  "questions": [
+    "As-tu déjà assisté à un dépouillement dans ton bureau de vote ?",
+    "Si une fraude massive existait, comment passerait-elle inaperçue devant des scrutateurs de tous les partis ?"
+  ],
+  "limites": [
+    "Les observations du Conseil constitutionnel sont lues à travers un blog d'avocats qui les reproduit ; la décision n'a pas été ouverte sur le site du Conseil.",
+    "Aucune source lue ne donne le nombre total de condamnations pour fraude électorale en France.",
+    "Le rapport du Sénat sur les machines à voter date de 2014 ; le chiffre de 2026 vient de LCP.",
+    "Le rôle des commissions de contrôle et de la Commission nationale de contrôle de la campagne n'a pas été documenté par une source ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Élections politiques : déroulement du scrutin (dépouillement)",
+      "organisme": "Service-public.fr (Direction de l'information légale et administrative)",
+      "date_publication": "vérifiée le 13 octobre 2025",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34852/5_3",
+      "passage": "Le dépouillement « se déroule publiquement ». Les scrutateurs sont des électeurs, quatre par table : l'un ouvre l'enveloppe, un autre lit le bulletin à voix haute, deux notent. Le nombre d'enveloppes est comparé au nombre d'émargements. Le procès-verbal est rédigé en présence des électeurs et relate toute réclamation ; le résultat est proclamé en public et affiché.",
+      "pertinence": "Site officiel de l'administration.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Contentieux des élections législatives de 2022 : le Conseil constitutionnel tire un bilan (sur la décision n° 2023-31 ELEC du 29 septembre 2023)",
+      "organisme": "Landot & associés (blog juridique), reproduisant les observations du Conseil constitutionnel",
+      "date_publication": "2 octobre 2023",
+      "url": "https://blog.landot-avocats.net/2023/10/02/contentieux-des-elections-legislatives-de-2022-le-conseil-constitutionnel-tire-un-bilan-et-surtout-formule-des-propositions/",
+      "passage": "Pour les législatives de 2022, le Conseil constitutionnel a été saisi de 99 réclamations et de 430 saisines de la CNCCFP ; « il a annulé les opérations électorales dans sept circonscriptions ». Motifs détaillés : bulletins mélangés dans une commune, près de mille bulletins à deux noms, dysfonctionnements du vote électronique à l'étranger, propositions irrégulières de voter par internet à la place d'électeurs. « la régularité des procurations ou des procès-verbaux établis n'appellent pas de remarques particulières ».",
+      "pertinence": "Blog d'un cabinet d'avocats en droit public reproduisant une décision du Conseil constitutionnel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Annulation de l'élection de Meyer Habib",
+      "organisme": "Le Petit Journal (Tel-Aviv)",
+      "date_publication": "février 2023",
+      "url": "https://lepetitjournal.com/tel-aviv/actualites/annulation-election-meyer-habib-fraude-electorale-grave-355297",
+      "passage": "Le 3 février 2023, le Conseil constitutionnel invalide l'élection de juin 2022 dans la 8e circonscription des Français de l'étranger, pour « irrégularités et manœuvres de nature à altérer la sincérité du scrutin » : messages de soutien diffusés le jour du vote, et propositions irrégulières, lors de permanences téléphoniques, de voter par internet à la place d'électeurs. Résultat du second tour : 8 470 voix contre 8 277.",
+      "pertinence": "Média de la presse francophone à l'étranger, rendant compte d'une décision du Conseil constitutionnel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fausses procurations aux municipales à Bastia : un an d'inéligibilité pour deux élus",
+      "organisme": "Corse Net Infos",
+      "date_publication": "2 juillet 2024",
+      "url": "https://www.corsenetinfos.corsica/Fausses-procurations-aux-municipales-a-Bastia-un-an-d-ineligibilite-pour-deux-elus_a78977.html",
+      "passage": "Le tribunal correctionnel de Bastia condamne deux élus de la majorité municipale (une médecin et un pharmacien) pour manœuvres frauduleuses portant atteinte à la sincérité du scrutin et faux, lors des municipales de 2020 : 17 procurations obtenues auprès de personnes fragiles. Peines : un an d'inéligibilité et 3 000 € d'amende dont 1 500 avec sursis ; un troisième prévenu est aussi condamné.",
+      "pertinence": "Média régional d'information.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "False claims of election fraud spread in France after computer error",
+      "organisme": "Euronews",
+      "date_publication": "26 avril 2022",
+      "url": "https://www.euronews.com/2022/04/26/false-claims-of-election-fraud-spread-in-france-after-computer-error",
+      "passage": "Après le second tour de la présidentielle du 24 avril 2022, des messages viraux affirment que Marine Le Pen a « lost millions of votes ». En cause : France 2 a affiché des chiffres provisoires erronés, son logiciel ayant « counted the votes in some communes twice for both candidates » ; l'erreur a été corrigée. Résultats définitifs : Emmanuel Macron 58,5 %, Marine Le Pen 41,5 %.",
+      "pertinence": "Grand média européen ; vérification de faits.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Municipales : dans certaines villes, on votera sur des machines plutôt qu'avec des bulletins",
+      "organisme": "LCP Assemblée nationale",
+      "date_publication": "13 mars 2026",
+      "url": "https://lcp.fr/actualites/municipales-dans-certaines-villes-on-votera-sur-des-machines-plutot-qu-avec-des",
+      "passage": "Moratoire depuis 2008 : les communes qui n'avaient pas de machine ne peuvent pas en acquérir. 63 communes les utilisent, soit environ 1,3 million d'électeurs, près de 3 % du corps électoral. La Cour des comptes (2024) estime que le principal risque est « le discrédit qui peut être jeté sur leurs résultats, même sans fondement » et s'inquiète de machines de plus de 20 ans.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vote électronique : préserver la confiance des électeurs (rapport d'information n° 445)",
+      "organisme": "Sénat, commission des lois (Alain Anziani et Antoine Lefèvre)",
+      "date_publication": "9 avril 2014",
+      "url": "https://www.senat.fr/rap/r13-445/r13-4455.html",
+      "passage": "Après 2007, un groupe de travail recommande « de geler le périmètre des communes utilisatrices » ; le Gouvernement suit cette recommandation à partir de 2008. 83 communes (1,5 million d'électeurs) en 2007, 64 communes (1,1 million) en 2012. « Défaut de transparence et risque de fraude ou d'atteinte au secret du vote sont parfois dénoncés. »",
+      "pertinence": "Rapport parlementaire officiel ; données anciennes.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Contentieux de l'élection présidentielle et des législatives de 2027, et rapport éventuel sur les machines à voter.",
+  "objections_legitimes": [
+    "Des fraudes locales existent, notamment aux procurations, et sont parfois sanctionnées par la justice.",
+    "Les machines à voter manquent de transparence et sont critiquées par la Cour des comptes.",
+    "Le vote par internet des Français de l'étranger a connu des dysfonctionnements."
+  ],
+  "publics": {
+    "convaincus": "Va voir un dépouillement : ce sont des électeurs, souvent de partis opposés, qui ouvrent les enveloppes et lisent les bulletins à voix haute. Les fraudes qui existent sont repérées et punies, comme l'élection d'un député annulée en 2023. Et la rumeur des voix perdues par Marine Le Pen en 2022 venait d'une erreur de France 2.",
+    "indecis": "C'est sain de vouloir des élections propres, et des fraudes locales existent bel et bien. Mais le vote papier et le dépouillement public rendent une fraude massive presque impossible, et les juges annulent les scrutins douteux. Le meilleur moyen d'en être sûr, c'est d'être assesseur ou scrutateur."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes",
+      "egalite",
+      "antifascisme"
+    ],
+    "mecanismes": "Le récit transforme des fraudes locales, repérées et sanctionnées, ou de simples erreurs d’affichage, en preuve d’un système truqué, sur le modèle de la contestation des élections américaines.",
+    "consequences": "Crier à la fraude sans preuve pousse à l’abstention, prépare la contestation des résultats et affaiblit la confiance dans le suffrage universel, au profit de ceux qui veulent s’en passer.",
+    "democratie": "Le vote papier, le dépouillement public par des citoyens et le contrôle du juge sont des conquêtes démocratiques à défendre et à faire vivre.",
+    "propositions": [
+      "Encourager les citoyens à devenir assesseurs, scrutateurs ou délégués dans les bureaux de vote.",
+      "Sortir des machines à voter et refuser le vote électronique non vérifiable pour les élections politiques.",
+      "Renforcer les contrôles sur les procurations et sanctionner fermement les fraudes avérées."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des fraudes locales existent, comme des procurations obtenues frauduleusement ou des manœuvres ayant conduit à l’annulation d’une élection législative.",
+        "integration": "Le reconnaître et montrer que ces cas ont été repérés et punis, preuve que les contrôles démocratiques fonctionnent."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "fraude_electorale",
+      "label": "Fraude électorale"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail dissimule",
+    "travail au noir",
+    "evasion fiscale"
+  ],
+  "concepts": [
+    "fraude",
+    "fraude_electorale"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "gauche-caviar-lecons",
+  "type": "idee_recue",
+  "affirmation": "La gauche caviar donne des leçons de morale mais vit dans les beaux quartiers.",
+  "volet": "politique",
+  "sous_theme": "Gauche et pluralisme politique",
+  "rubriques": [],
+  "mots_cles": [
+    "gauche caviar",
+    "bobos de gauche",
+    "gauche bobo",
+    "donneurs de lecons gauche",
+    "gauche beaux quartiers",
+    "gauche des riches",
+    "gauche bien pensante",
+    "gauche ne connait pas le peuple",
+    "gauche brahmane",
+    "qui vote a gauche"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les beaux quartiers votent d'abord pour la droite et le centre : aux européennes 2024, la liste macroniste est en tête dans les communes aisées de l'Ouest parisien et la droite garde le 16e arrondissement. La gauche radicale fait ses meilleurs scores dans des banlieues populaires. Il est vrai que l'électorat de gauche est devenu plus diplômé et urbain. Mais même pour un militant aisé, l'attaque personnelle ne dit rien de la justesse de ses idées.",
+  "contexte": "L'expression « gauche caviar » vise à disqualifier les défenseurs de l'égalité en les accusant d'hypocrisie. Elle est reprise aujourd'hui contre les « bobos » ou la gauche « donneuse de leçons ».",
+  "explication": "Il faut regarder qui vote pour qui selon le revenu, le diplôme et le lieu de vie, puis distinguer la critique d'une personne de l'examen de ses arguments.",
+  "faits": [
+    {
+      "fait": "Selon Ifop, aux européennes 2024, la liste de la majorité présidentielle arrive en tête dans les communes aisées des Hauts-de-Seine et des Yvelines et dans les beaux quartiers du centre de Paris ; la droite (LR) garde le 16e arrondissement.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les beaux quartiers votent d'abord pour la droite et le centre.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Ifop, la liste LFI arrive en tête dans des banlieues populaires : 58,1 % à La Courneuve, 54,5 % à Trappes, 48,4 % à Aubervilliers, 44,1 % à Grigny.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La gauche radicale est forte là où vivent les classes populaires.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "58,1 %"
+    },
+    {
+      "fait": "Aux législatives 2024, au-dessus de 3 000 € de revenu mensuel, le RN obtient 32 % et le NFP 26 % ; chez les personnes « aisées », NFP 28 % et Ensemble 27 %.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les électeurs aisés ne votent pas majoritairement à gauche.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "26 %"
+    },
+    {
+      "fait": "Fait défavorable : le NFP obtient 34 % chez les cadres et 37 % chez les diplômés de niveau bac+3, alors que 57 % des ouvriers votent RN au premier tour des législatives 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La gauche a perdu une large part du vote ouvrier : c'est un vrai défi pour elle.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "57 %"
+    },
+    {
+      "fait": "Fait défavorable : selon Thomas Piketty, le vote de gauche s'est déplacé depuis les années 1950-1960 des peu diplômés vers les plus diplômés, mais les hauts revenus et hauts patrimoines votent encore majoritairement à droite.",
+      "periode": "1950-2017",
+      "perimetre": "France, Royaume-Uni, États-Unis",
+      "explication": "La gauche est devenue celle des diplômés, pas celle des riches.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Aux européennes 2024, les listes de gauche ou écologistes recueillent 51 % chez les enseignants.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Une partie de l'électorat de gauche est diplômée sans être riche : enseignants, soignants, cadres du public.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "51 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les beaux quartiers votent surtout à droite et au centre : en 2024, la liste macroniste gagne les communes aisées de l'Ouest parisien, la droite garde le 16e. La gauche radicale fait ses meilleurs scores à La Courneuve ou Trappes. Et une attaque contre la personne ne répond jamais à ses arguments.",
+    "moyen": "Les chiffres contredisent l'image. Aux européennes 2024, la liste de la majorité présidentielle arrive en tête dans les communes aisées des Hauts-de-Seine et des Yvelines, et la droite garde le 16e arrondissement de Paris. La liste LFI fait 58,1 % à La Courneuve et 54,5 % à Trappes. Chez les électeurs qui gagnent plus de 3 000 € par mois, le RN fait mieux que le NFP.\n\nIl est vrai que la gauche attire beaucoup de diplômés : 37 % des bac+3 ont voté NFP en 2024. Mais un diplômé n'est pas forcément riche : enseignants, soignants, cadres du public. Et même un riche peut avoir raison de défendre l'égalité : on juge une idée sur ses preuves, pas sur l'adresse de celui qui la porte.",
+    "detaille": "Le cliché de la « gauche caviar » suppose que la gauche serait le parti des riches. Les données électorales disent autre chose. Aux européennes 2024, selon l'Ifop, la liste macroniste arrive en tête dans les communes aisées des Hauts-de-Seine et des Yvelines et dans les beaux quartiers du centre de Paris, et la droite garde le 16e arrondissement. À l'inverse, la liste LFI obtient 58,1 % à La Courneuve, 54,5 % à Trappes et 48,4 % à Aubervilliers. Aux législatives, chez les électeurs gagnant plus de 3 000 € par mois, le RN obtient 32 % et le NFP 26 %.\n\nIl faut reconnaître une évolution réelle. Thomas Piketty a montré que le vote de gauche, autrefois celui des ouvriers peu diplômés, s'est déplacé vers les plus diplômés, tandis que les hauts revenus et patrimoines votent toujours à droite. En 2024, le NFP fait 37 % chez les bac+3 et 34 % chez les cadres, alors que 57 % des ouvriers votent RN. C'est un défi pour la gauche, qui doit reconquérir les classes populaires. Mais être diplômé ne veut pas dire vivre dans les beaux quartiers : beaucoup sont enseignants ou soignants.\n\nSurtout, l'argument est une attaque contre la personne. Qu'un défenseur de l'impôt sur la fortune soit riche ne rend pas l'impôt injuste ; qu'un élu d'extrême droite soit fortuné ne rend pas son programme populaire. Cette accusation sert souvent à éviter le débat de fond : qui gagne, qui perd, avec quelles politiques ?",
+    "empathie": "Il est agaçant d'entendre des leçons de gens qui semblent ne pas vivre les mêmes difficultés que soi. Ce sentiment de mépris de classe existe ; il mérite d'être pris au sérieux."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les bobos des centres-villes votent à gauche.",
+      "reponse": "Une partie des diplômés urbains, oui. Mais les quartiers les plus riches votent surtout pour la droite et le centre, et la gauche radicale fait ses meilleurs scores dans les banlieues populaires."
+    },
+    {
+      "objection": "Ils devraient d'abord donner leur argent.",
+      "reponse": "Une idée se juge sur ses effets, pas sur la vertu de celui qui la défend. La gauche propose justement de faire contribuer les plus riches par l'impôt, pas par la charité individuelle."
+    }
+  ],
+  "questions": [
+    "Sais-tu dans quelles communes la liste LFI a fait ses meilleurs scores en 2024 ?",
+    "Si un patron riche défend une idée, est-ce que sa fortune suffit à la rendre fausse ?"
+  ],
+  "limites": [
+    "Les chiffres par revenu et profession viennent de sondages sortie des urnes, avec une marge d'erreur non publiée dans les articles lus.",
+    "Le travail de Thomas Piketty a été lu via son résumé ; les données s'arrêtent à 2017.",
+    "Aucune source lue ne compare le patrimoine des élus selon leur parti."
+  ],
+  "sources": [
+    {
+      "titre": "Retour sur un séisme électoral (Focus n° 243)",
+      "organisme": "Ifop",
+      "date_publication": "juin 2024",
+      "url": "https://ifop.com/wp-content/uploads/2024/06/Focus-243-Retour-sur-un-seisme-electoral-1.pdf",
+      "passage": "Aux européennes 2024, la liste Hayer (majorité présidentielle) « vire en tête dans les communes aisées des Hauts-de-Seine et des Yvelines » ; à Paris, elle arrive première dans les beaux quartiers centraux et Bellamy (LR) garde « le vieux bastion du 16ème arrondissement ». Glucksmann mène à Paris (22,9 %), avec 29,4 % dans les 3e et 11e arrondissements. La liste LFI (Aubry) arrive en tête dans des banlieues populaires : La Courneuve 58,1 %, Trappes 54,5 %, Aubervilliers 48,4 %, Grigny 44,1 %. Vote Bardella : 44 % chez les sans diplôme ou BEPC, 15 % chez les diplômés du 2e cycle universitaire.",
+      "pertinence": "Institut de sondage ; analyse fondée sur des résultats officiels et des enquêtes.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Élections législatives 2024 : le profil des électeurs en 7 points",
+      "organisme": "Public Sénat, sur une enquête Ipsos Talan",
+      "date_publication": "1er juillet 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/elections-legislatives-2024-le-profil-des-electeurs-en-7-points",
+      "passage": "Enquête Ipsos Talan des 27-28 juin 2024 (premier tour) : les ouvriers votent RN à 57 % ; le NFP obtient 34 % chez les cadres, 35 % chez les professions intermédiaires et 37 % chez les diplômés de niveau bac+3 (RN 22 %). Chez les personnes « aisées », NFP 28 % et Ensemble 27 % ; au-dessus de 3 000 € par mois, RN 32 % et NFP 26 %. Sous 1 250 € par mois, RN 38 %. NFP 48 % chez les 18-24 ans ; NFP 33 % dans les agglomérations de plus de 200 000 habitants, RN 40 % dans les communes de moins de 2 000 habitants.",
+      "pertinence": "Chaîne parlementaire résumant un sondage sortie des urnes (marge d'erreur non indiquée).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Brahmin Left vs Merchant Right: Rising Inequality & the Changing Structure of Political Conflict",
+      "organisme": "Thomas Piketty (WID, PSE, document de travail HAL)",
+      "date_publication": "2018",
+      "url": "https://econpapers.repec.org/RePEc:hal:wpaper:hal-02878211",
+      "passage": "À partir d'enquêtes post-électorales en France, au Royaume-Uni et aux États-Unis : dans les années 1950-1960, le vote de gauche était associé aux électeurs peu diplômés et à faibles revenus ; il s'est progressivement déplacé vers les plus diplômés. Il en résulte un système à « élites multiples » : les élites diplômées votent à gauche, tandis que les hauts revenus et hauts patrimoines votent encore majoritairement à droite.",
+      "pertinence": "Travail de recherche universitaire (résumé lu sur EconPapers).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Le vote des fonctionnaires aux élections de 2024 ou la fin de la gauche d'État (note n° 19)",
+      "organisme": "Cevipof (Luc Rouban, CNRS)",
+      "date_publication": "19 septembre 2024",
+      "url": "https://cfdt-ufetam.org/wp-content/uploads/2024/09/rapport_cevipol_luc_rouban_sept-2024.pdf",
+      "passage": "Aux européennes 2024, les listes de gauche ou écologistes recueillent 51 % chez les enseignants. Au second tour des législatives 2024, le NFP obtient 29 % chez les cadres des trois fonctions publiques et 22 % chez les employés. « la gauche d'État qui servait de ressource et de point d'appui aux partis politiques de gauche des années 1980 a largement disparu ».",
+      "pertinence": "Note de recherche du Centre de recherches politiques de Sciences Po (reproduite sur un site syndical).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Sociologie des électorats après la présidentielle et les législatives de 2027.",
+  "objections_legitimes": [
+    "L'électorat de gauche est devenu plus diplômé et plus urbain, et la gauche a perdu une large partie du vote ouvrier.",
+    "Certains responsables de gauche ont un mode de vie éloigné de celui des classes populaires."
+  ],
+  "publics": {
+    "convaincus": "Regarde les résultats : en 2024, les communes aisées de l'Ouest parisien et les beaux quartiers votent pour la droite et le centre, pas pour la gauche. La gauche radicale gagne à La Courneuve ou Trappes. Et si un élu de gauche est riche, ça ne rend pas fausse l'idée de taxer les grandes fortunes.",
+    "indecis": "Le sentiment de recevoir des leçons de gens éloignés de sa vie est compréhensible, et la gauche a perdu une partie du vote ouvrier. Mais les électeurs les plus aisés votent surtout à droite et au centre. Le plus utile est de juger les propositions sur ce qu'elles changent pour toi."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "egalite",
+      "travailleurs",
+      "repartition"
+    ],
+    "mecanismes": "L’attaque contre la personne remplace l’examen des idées : on disqualifie la défense de l’égalité en accusant ceux qui la portent d’hypocrisie.",
+    "consequences": "Ce procès d’intention protège les vraies fortunes, qui votent surtout à droite, et éloigne les classes populaires d’un débat sur la répartition des richesses.",
+    "democratie": "Le débat démocratique exige de juger les propositions sur leurs effets, et de rendre transparents les patrimoines de tous les élus, quel que soit leur camp.",
+    "propositions": [
+      "Ouvrir davantage la représentation politique aux ouvriers, aux employés et aux jeunes des quartiers populaires.",
+      "Rendre plus lisibles les déclarations de patrimoine de tous les élus.",
+      "Remettre la répartition des richesses au cœur du débat public plutôt que les procès en hypocrisie."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’électorat de gauche est devenu nettement plus diplômé et urbain, et la gauche a perdu une large part du vote ouvrier.",
+        "integration": "Le reconnaître comme un défi à relever : reconquérir les classes populaires par des propositions concrètes, sans confondre diplôme et richesse."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "peut plus rien dire",
+    "liberte d expression",
+    "politiquement correct",
+    "on se fait traiter",
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi"
+  ],
+  "concepts": [
+    "liberte_expression",
+    "riches_entreprises",
+    "gauche",
+    "ecologie_sociale"
+  ]
+}
