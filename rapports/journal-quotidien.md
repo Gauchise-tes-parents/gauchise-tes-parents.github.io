@@ -1145,3 +1145,93 @@ Pages non ouvertes, donc non citées : vie-publique.fr (JavaScript requis, plusi
 - **Correction :** le motif devient `senat`, et « Public Sénat » est neutralisé avant le seul test « institution ». La classification des 1 557 sources de la bibliothèque est identique avant et après.
 - **Garde-fou :** nouveau `tests/unit/compatibilite.test.js`. Il interdit les assertions arrière, les groupes nommés et `\p{…}` dans les motifs, ainsi que les fonctions trop récentes pour Safari 15 ou Firefox 100 : structuredClone, Array.at, Object.hasOwn, findLast, requestIdleCallback, randomUUID, AbortSignal.timeout, toSorted…
 - **Vérification :** Firefox et WebKit n'ont pas pu être installés dans l'environnement de test (téléchargement bloqué). Le test a donc été fait dans Chromium, en simulant un Safari 15 : expressions à assertion arrière refusées, fonctions récentes supprimées. Avant la correction, la page reste blanche (« SyntaxError: Invalid regular expression ») ; après, l'accueil et la bibliothèque s'affichent sans erreur. Une compilation du code pour Safari 15 et Firefox 100 (esbuild) ne signale aucune syntaxe incompatible. Le CSS n'utilise rien de bloquant : `:has()` et `text-wrap` sont de simples améliorations.
+
+## 12 novembre 2026 — passage de 12 h 17 (UTC)
+
+**Questions testées : 25 nouvelles, retenues sur 33 essayées.** Sept phrases ont été écartées avant rédaction parce qu'une fiche existante y répondait déjà ou en était un quasi-doublon, et une huitième a été mise de côté :
+- le RSA versé aux étrangers dès leur arrivée (`immigres-aides`, qui traite la condition de résidence) ;
+- le Smic à 1 600 € net du NFP (proche de `smic-detruit-emplois`) ;
+- l'exonération de cotisations pour les hausses de salaire de 10 % proposée par le RN (`rn-salaires-votes`) ;
+- « les pauvres ne paient pas d'impôts » (`riches-paient-impot-revenu`, qui traite TVA et CSG) ;
+- les demandeurs d'asile « migrants économiques » (proche de `france-premier-pays-asile`, taux de protection) ;
+- les subventions aux éoliennes et au solaire (objection traitée dans `electricite-nucleaire-renouvelables`) ;
+- les militants écologistes « écoterroristes » (traité dans `megabassines-agriculture`) ;
+- l'ouverture du rail à la concurrence, qui est une vraie lacune, mise de côté parce que les 25 questions étaient déjà retenues : à traiter lors d'un prochain passage.
+
+Les 25 questions testées :
+1. Charles Martel a sauvé la France de l'invasion musulmane à Poitiers en 732.
+2. De Gaulle était contre l'immigration, il ne voulait pas de « Colombey-les-Deux-Mosquées ».
+3. Mohamed est devenu le prénom le plus donné aux bébés en France.
+4. Les enfants d'immigrés échouent à l'école à cause de leur culture.
+5. Reconnaître l'État de Palestine, c'est récompenser le Hamas.
+6. Il faut mettre des caméras de vidéosurveillance partout, ça fait baisser la délinquance.
+7. Les agressions contre les policiers explosent, ils se font attaquer tous les jours.
+8. Les contrôles au faciès, ça n'existe pas.
+9. Le Salvador de Bukele a éradiqué le crime, il faut faire pareil en France.
+10. Les détenus devraient payer eux-mêmes leurs frais de prison.
+11. Augmenter les salaires, ça fait exploser l'inflation.
+12. LFI veut confisquer tous les revenus au-dessus d'un plafond avec un impôt à 100 %.
+13. Les Jeux olympiques de Paris ont coûté une fortune aux contribuables pour rien.
+14. Nos jeunes diplômés fuient la France à cause des impôts.
+15. Les profs sont tout le temps absents et jamais remplacés.
+16. Les vaches ne sont pour rien dans le réchauffement climatique, l'élevage ne pollue pas.
+17. La 5G est dangereuse pour la santé.
+18. Le traité de l'OMS sur les pandémies va nous retirer notre souveraineté et imposer des confinements.
+19. Les villes du quart d'heure, c'est un projet pour enfermer les gens dans leur quartier.
+20. Les écolos veulent la décroissance et nous faire revenir à la bougie.
+21. Il faut rétablir le redoublement, le passage automatique tue le niveau.
+22. La mixité sociale à l'école tire tout le monde vers le bas.
+23. Les quotas de pêche de Bruxelles ont tué la pêche française.
+24. La France est au bord de la guerre civile.
+25. Les écolos veulent interdire la chasse et la tradition rurale.
+
+Avant ce passage, 8 menaient à une « LACUNE » et 17 à une fiche hors sujet (`grand-remplacement`, `delinquance-partout`, `services-publics-moyens`, `souverainete-populaire`, `linky-dangereux-espionnage`…).
+
+**Fiches créées : 25** (générateur `scripts/fiches/quotidien_20261112_1217.py`, toutes avec le champ `publics`, une entrée dans `scripts/lectures-gauche.js`, sources ouvertes et lues le 12 novembre 2026 par des agents de recherche, avec un outil de lecture qui résume les pages : les citations entre « » sont courtes et à revérifier mot pour mot). Trois premières sources de chacune :
+- `charles-martel-poitiers-732` (trompeur, 5 sources) : Encyclopaedia Britannica ; Université de St Andrews (2019) ; La Vie des idées, Collège de France (3 juin 2024).
+- `de-gaulle-colombey-mosquees` (trompeur, 6 sources) : Afrik.com (31 octobre 2009, pour la référence du livre de Peyrefitte) ; Politis (25 novembre 2009) ; Insee (30 mars 2023).
+- `prenom-mohamed-plus-donne` (contredit, 5 sources) : Insee Première n° 2127 (septembre 2026) ; Insee, fichier des prénoms (16 juillet 2026) ; Baptiste Coulmont, ENS Paris-Saclay (18 juillet 2025).
+- `enfants-immigres-reussite-scolaire` (contredit, 5 sources) : Ined, TeO2 (2022) ; DEPP (décembre 2019) ; OCDE, PISA 2022.
+- `reconnaissance-palestine-hamas` (opinion, 6 sources) : Élysée (22 septembre 2025) ; Nations unies (12 septembre 2025) ; Public Sénat (23 septembre 2025).
+- `videosurveillance-efficacite` (trompeur, 5 sources) : Next, sur le rapport de la Cour des comptes (3 novembre 2020) ; Landot & associés (21 octobre 2020) ; Next, sur l'étude Gormand (21 mars 2022).
+- `violences-contre-policiers` (trompeur, 5 sources) : Rapport annuel de performances 2023 (budget.gouv.fr) ; Projet annuel de performances 2026 ; Assemblée nationale, réponse ministérielle (19 décembre 2023).
+- `controles-au-facies` (contredit, 6 sources) : Défenseur des droits (juin 2025) ; Défenseur des droits (janvier 2017) ; Conseil d'État (11 octobre 2023).
+- `bukele-salvador-modele` (trompeur, 6 sources) : Human Rights Watch (12 janvier 2026) ; Amnesty International (15 juillet 2026) ; CGRA belge (5 août 2025).
+- `detenus-payer-incarceration` (opinion, 4 sources) : Assemblée nationale, rapport n° 1585 (16 juin 2025) ; Assemblée nationale, document de travail (16 juin 2025) ; OIP (12 juin 2025).
+- `salaires-inflation` (trompeur, 6 sources) : FMI (23 juin 2023) ; BCE (30 mars 2023) ; Banque de France (23 juin 2023).
+- `lfi-revenu-maximum` (trompeur, 7 sources) : programme L'Avenir en commun (page mise à jour le 7 novembre 2026) ; Assemblée nationale, amendement II-1534 (10 novembre 2017) ; Institut Montaigne (2017).
+- `jo-paris-2024-cout` (trompeur, 5 sources) : Cour des comptes (29 septembre 2025) ; Cour des comptes, synthèse (septembre 2025) ; Banque des Territoires (29 septembre 2025).
+- `jeunes-diplomes-expatriation` (trompeur, 5 sources) : Union des Français de l'étranger, sur le rapport officiel (11 septembre 2026) ; DG Trésor (14 janvier 2021) ; Conseil d'analyse économique (juillet 2025).
+- `profs-absents-non-remplaces` (trompeur, 5 sources) : Cour des comptes (2 décembre 2021) ; DEPP (avril 2026) ; Sénat (11 juin 2025).
+- `elevage-climat-methane` (contredit, 6 sources) : SDES, Chiffres clés du climat 2026 ; Citepa, Secten 2026 ; dépêche AFP sur la FAO (9 décembre 2023).
+- `antennes-5g-sante` (contredit, 5 sources) : Anses (20 avril 2021) ; Siècle Digital (18 février 2022) ; ANFR (juin 2025).
+- `traite-pandemie-oms` (contredit, 6 sources) : OPS/OMS (20 mai 2025) ; OMS (1er mai 2026) ; ONU Info (15 juin 2026).
+- `ville-quart-heure-prison` (contredit, 4 sources) : dépêche AFP (16 février 2023) ; L'ADN (29 mars 2023) ; conseils d'Oxford (7 décembre 2022).
+- `decroissance-retour-bougie` (trompeur, 6 sources) : dépêche AFP (15 septembre 2020) ; Citepa, sur le GIEC (10 mai 2022) ; Banque des Territoires, sur l'Ademe (fin 2021).
+- `redoublement-niveau` (trompeur, 6 sources) : Cnesco (2015) ; DEPP (novembre 2014) ; OCDE, PISA 2022.
+- `mixite-sociale-ecole` (contredit, 6 sources) : Conseil scientifique de l'Éducation nationale (avril 2023) ; IH2EF (16 mai 2023) ; Banque des Territoires (3 mai 2023).
+- `peche-quotas-europe` (trompeur, 5 sources) : Ifremer (26 février 2025) ; Ifremer (13 février 2024) ; Assemblée nationale (25 février 2026).
+- `guerre-civile-france` (contredit, 6 sources) : Harris Interactive (avril 2021) ; Public Sénat (10 mai 2021) ; Le Grand Continent (10 février 2023).
+- `chasse-interdiction-ecologistes` (trompeur, 7 sources) : Public Sénat (22 mars 2022) ; Reporterre (2022) ; Conseil d'État (28 juin 2021).
+
+**Politique documentaire.** `lfi-revenu-maximum` était d'abord signalée « sans source d'autorité » parce que l'organisme de l'amendement mentionnait La France insoumise (classé « source partisane ») : l'organisme est désormais « Assemblée nationale », et la mention des auteurs est passée dans la pertinence. Toutes les fiches sont conformes.
+
+**Points fragiles signalés dans les limites des fiches :**
+- documents lus seulement à travers un compte rendu fiable : rapport 2020 de la Cour des comptes sur les polices municipales et étude Gormand (vidéosurveillance), arrêts de la Cour de cassation (2016) et de la CEDH (2025, et non 2024), rapport officiel sur les Français de l'étranger, scénarios Ademe et RTE, rapport FAO, actualisation 2022 de l'Anses ;
+- citation « Colombey-les-Deux-Mosquées » connue par un seul témoin (Peyrefitte), dont le livre n'a pas été lu directement ; démenti attribué à Philippe de Gaulle non vérifié, donc non cité ;
+- programme LFI de 2017 non ouvert ; seuil de « 20 fois le revenu médian » non vérifié ; CNN (2017) parle de 100 %, les documents parlementaires de 90 % : divergence signalée ;
+- données anciennes : ONDRP (2013 et 2017), TeO1 (2008), Défenseur des droits (2016), Open Society/CNRS (2009), OCDE/Trésor sur l'émigration (2015-2016), Cnesco et DEPP sur le redoublement (2014-2015), sondage « guerre civile » (2021) ;
+- sort final de la proposition de loi sur les frais d'incarcération non établi ;
+- aucun fact-check d'AFP Factuel, CheckNews ou des Décodeurs n'a pu être consulté directement (recherche restreinte refusée) ; les dépêches AFP ont été lues sur des sites qui les reprennent.
+
+Pages non ouvertes, donc non citées : vie-publique.fr (JavaScript requis, plusieurs pages), interieur.gouv.fr (bilans SSMSI), diplomatie.gouv.fr, letemps.ch, hal.univ-grenoble-alpes.fr, OFB (bilans des accidents de chasse en PDF), LCP, franceinfo, maire-info.com, reporterre.net (bilan Ifremer 2026).
+
+**Reconnaissance des questions.** Après génération, 9 questions menaient déjà à leur fiche (mots-clés). `public/js/cartographie.js` reçoit 15 concepts (`poitiers_732`, `colombey`, `ecole_immigres`, `videosurv`, `violences_policiers`, `controle_facies`, `bukele`, `salaires_inflation`, `revenu_max`, `expatriation`, `profs_absents`, `elevage_climat`, `oms_traite`, `mixite_scolaire`, `peche`), leurs domaines et 68 arguments placés en tête (un par concept, plus des variantes à deux, trois ou quatre concepts pour l'emporter sur `identite`, `delinquance`, `europe`, `fiscalite`, `services_publics`, `salaires`…). Comparaison avant/après sur 417 phrases de contrôle (affirmations de la bibliothèque, questions citées dans ce journal) : seules les questions visées changent de fiche. 15 variantes familières vérifiées (« Sans Charles Martel on serait tous musulmans », « Il faudrait un Bukele en France », « La police contrôle toujours les arabes et les noirs », « Mon fils n'a pas eu de prof de maths remplacé depuis un mois »…) ; les phrases témoins « Les profs sont tous de gauche et endoctrinent les élèves », « Les salaires ne suivent pas l'inflation », « L'immigration fait exploser la délinquance » et « Le Smic détruit des emplois » gardent leur fiche. Le concept `profs_absents` a été élargi pour l'emporter sur `identite`, qui réagit au mot « remplacé ».
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`), volontairement laissées sans.
+
+**Questions écartées pour sources invérifiables : aucune.**
+
+**Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique (l'outil demande de ne pas réessayer). Aucun chiffre relevé ; `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
+
+**Vérifications.** `npm test` : 477 tests, 477 réussis. Tests de bout en bout : 38 tests, 38 réussis.

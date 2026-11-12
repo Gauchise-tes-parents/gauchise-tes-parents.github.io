@@ -1,0 +1,201 @@
+{
+  "id": "mixite-sociale-ecole",
+  "type": "idee_recue",
+  "affirmation": "La mixité sociale à l'école tire tout le monde vers le bas.",
+  "volet": "services",
+  "sous_theme": "Inégalités scolaires",
+  "rubriques": [],
+  "mots_cles": [
+    "mixite sociale ecole",
+    "mixite sociale college",
+    "nivellement par le bas",
+    "mixite tire vers le bas",
+    "carte scolaire",
+    "secteurs multi colleges",
+    "segregation scolaire",
+    "bons eleves mixite",
+    "ghettos scolaires"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. La principale évaluation française, menée sur 56 collèges pilotes, ne trouve aucun effet négatif sur les résultats scolaires, ni pour les élèves favorisés ni pour les autres. Elle constate au contraire un meilleur bien-être, y compris chez les élèves favorisés, dont l'estime de soi scolaire progresse. Ces expériences n'ont pas non plus fait fuir les familles vers le privé. En revanche, elles n'ont pas amélioré les résultats à court terme, et la mixité obtenue reste modeste.",
+  "contexte": "L'idée que mélanger les élèves de milieux différents ferait baisser le niveau des meilleurs revient chaque fois qu'on parle de carte scolaire ou de financement du privé.",
+  "explication": "Il faut regarder les expérimentations françaises évaluées par comparaison avec des collèges témoins, et ce que dit la recherche sur les effets de la ségrégation scolaire.",
+  "faits": [
+    {
+      "fait": "L'évaluation de 56 collèges pilotes ne trouve aucun effet significatif des mesures de mixité sur les résultats scolaires, quel que soit le milieu social des élèves.",
+      "periode": "2017-2023",
+      "perimetre": "France",
+      "explication": "Les bons élèves ne sont pas tirés vers le bas.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "56"
+    },
+    {
+      "fait": "La mixité améliore le bien-être des élèves défavorisés, qui se sentent davantage en sécurité, et l'estime de soi scolaire des élèves favorisés est significativement plus élevée dans les collèges pilotes.",
+      "periode": "2017-2023",
+      "perimetre": "France",
+      "explication": "Tout le monde y gagne en bien-être, y compris les élèves favorisés.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les actions de mixité n'ont pas provoqué de fuite supplémentaire vers l'enseignement privé.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La crainte d'un exode vers le privé ne s'est pas vérifiée.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "À Paris, environ la moitié de la ségrégation entre collèges provient de l'évitement vers le privé des familles favorisées ; la part d'élèves défavorisés va de 0,3 % à 63 % selon les collèges.",
+      "periode": "2018",
+      "perimetre": "Paris",
+      "explication": "Sans politique de mixité, l'école se divise en ghettos de riches et de pauvres.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "63 %"
+    },
+    {
+      "fait": "Selon Cnesco, la recherche met en évidence des effets très négatifs de la ségrégation sur les apprentissages des élèves en difficulté ; en France, le milieu social explique plus de 20 % des performances, contre 13 % dans l'OCDE.",
+      "periode": "2015-2018",
+      "perimetre": "France",
+      "explication": "C'est la ségrégation, pas la mixité, qui fait baisser le niveau des plus fragiles.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : les mesures de mixité n'ont pas amélioré les résultats scolaires à court terme, la hausse de mixité reste modeste (de 31 % à 34 % d'exposition pour les élèves défavorisés) et ceux-ci reculent dans le classement interne de leur collège.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La mixité n'est pas une baguette magique ; ses effets sur les résultats restent à démontrer.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : l'évaluation de 56 collèges pilotes ne trouve aucun effet négatif de la mixité sur les résultats, même pour les élèves favorisés. Le bien-être s'améliore pour tous. C'est la ségrégation qui nuit le plus aux élèves en difficulté.",
+    "moyen": "Des chercheurs ont comparé 56 collèges où l'on a renforcé la mixité sociale avec des collèges témoins. Résultat : aucun effet négatif sur les résultats scolaires, quel que soit le milieu des élèves. Les élèves défavorisés se sentent plus en sécurité, et les élèves favorisés ont même une meilleure estime d'eux-mêmes. Ces mesures n'ont pas fait fuir les familles vers le privé.\n\nLa recherche montre en revanche que la ségrégation scolaire nuit fortement aux élèves en difficulté. Limite honnête : la mixité n'a pas non plus amélioré les résultats à court terme, et elle a peu progressé.",
+    "detaille": "La France a l'une des écoles les plus inégalitaires de l'OCDE : le milieu social y explique plus de 20 % des performances, contre 13 % en moyenne. Cette inégalité se renforce par la ségrégation entre établissements. À Paris, la part d'élèves défavorisés va de 0,3 % à 63 % selon les collèges, et environ la moitié de cette ségrégation vient de l'évitement vers le privé des familles favorisées. Dans le pays, 10 % des collégiens sont dans un établissement qui compte au moins 63 % d'élèves très défavorisés.\n\nQue se passe-t-il quand on mélange ? Depuis 2017, des collèges ont expérimenté des secteurs communs ou de nouvelles règles d'affectation. Des chercheurs ont comparé 56 de ces collèges à des collèges témoins. Ils ne trouvent aucun effet significatif sur les résultats, ni à la baisse ni à la hausse, quel que soit le milieu social. Les élèves défavorisés se sentent plus en sécurité et jugent mieux le climat scolaire ; les élèves favorisés ont une estime de soi scolaire plus élevée. Et ces mesures n'ont pas provoqué de fuite supplémentaire vers le privé.\n\nLa mixité ne tire donc pas les bons élèves vers le bas. Elle n'est pas non plus une solution miracle : les hausses de mixité sont restées modestes, les résultats n'ont pas progressé en trois ans, et les élèves défavorisés reculent dans le classement interne de leur collège. La recherche rappelle surtout que la concentration des difficultés dans certains établissements nuit aux plus fragiles. Une école commune, qui mélange les enfants, est aussi une question de cohésion : apprendre à vivre ensemble commence en classe.",
+    "empathie": "Tout parent veut le meilleur pour son enfant et peut craindre qu'un collège plus mélangé le fasse moins progresser. C'est une inquiétude sincère, à laquelle les évaluations répondent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Mon enfant va perdre son temps avec des élèves en difficulté.",
+      "reponse": "L'évaluation de 56 collèges ne trouve aucun effet négatif sur les résultats des élèves favorisés, et leur estime de soi scolaire s'améliore."
+    },
+    {
+      "objection": "Les parents vont tous partir dans le privé.",
+      "reponse": "Selon l'évaluation officielle, les actions de mixité n'ont pas provoqué de fuite supplémentaire vers le privé, même si un secteur parisien a connu un échec."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'une évaluation de 56 collèges n'a trouvé aucun effet négatif de la mixité sur les bons élèves ?",
+    "Dans quelle école voudrais-tu que tes enfants apprennent à vivre avec les autres ?"
+  ],
+  "limites": [
+    "L'évaluation porte sur trois années, en partie pendant le Covid, avec des hausses de mixité modestes.",
+    "Aucune étude lue ne porte spécifiquement sur les élèves les plus brillants.",
+    "Les données PISA citées datent de 2015."
+  ],
+  "sources": [
+    {
+      "titre": "Social diversity in middle schools: first results from experiments conducted in France (Note n° 9)",
+      "organisme": "Conseil scientifique de l'Éducation nationale (J. Grenet, É. Huillery, Y. Souidi)",
+      "date_publication": "avril 2023",
+      "url": "https://www.csen.education.gouv.fr/wp-content/uploads/2026/06/32dcd604-96aa-4af8-a63f-74dc4c104261-Note9CSENENG.pdf",
+      "passage": "« no significant impact of the measures taken to increase social diversity is observed » sur le contrôle continu et les tests standardisés. « Disadvantaged students have a lower relative position in pilot schools than in control schools ». Pour les élèves défavorisés, le climat scolaire perçu, le sentiment de sécurité et la qualité des amitiés s'améliorent ; « Academic self-esteem, however, is significantly higher in pilot schools for advantaged students ». Aucun effet négatif significatif. Hausses de mixité modestes, trois premières années seulement, période de Covid.",
+      "pertinence": "Conseil scientifique rattaché au ministère ; évaluation par comparaison avec des collèges témoins.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Mixité sociale au collège : premiers résultats des expérimentations menées en France",
+      "organisme": "Institut des hautes études de l'éducation et de la formation (ministère)",
+      "date_publication": "16 mai 2023",
+      "url": "https://www.ih2ef.gouv.fr/mixite-sociale-au-college-premiers-resultats-des-experimentations-menees-en-france",
+      "passage": "Les actions de mixité n'ont pas « provoqué de surcroît d'évitement vers le secteur d'enseignement privé ». Les résultats scolaires ne changent pas significativement par rapport aux collèges témoins, « quel que soit le milieu social des élèves ». Une plus grande mixité a des effets positifs sur le bien-être personnel et social « pour les élèves de milieu défavorisé comme pour ceux de milieu favorisé ».",
+      "pertinence": "Institut public de formation des cadres de l'Éducation nationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La mixité sociale au collège améliore le bien-être des élèves mais pas leurs résultats",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "3 mai 2023",
+      "url": "https://www.banquedesterritoires.fr/la-mixite-sociale-au-college-ameliore-le-bien-etre-des-eleves-mais-pas-leurs-resultats",
+      "passage": "L'étude porte sur 56 collèges pilotes comparés à des collèges témoins ; elle ne constate « pas d'impact significatif » sur les performances. Les élèves défavorisés « se sentent davantage en sécurité dans leur collège ». En trois ans, l'exposition des élèves défavorisés aux favorisés passe de 31 % à 34 %, celle des favorisés aux défavorisés de 52 % à 57 % : un changement jugé « limité ».",
+      "pertinence": "Média des collectivités.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Secteurs multi-collèges à Paris : un outil efficace pour lutter contre la ségrégation sociale ? (Note n° 35)",
+      "organisme": "Institut des politiques publiques (J. Grenet, Y. Souidi)",
+      "date_publication": "septembre 2018",
+      "url": "https://www.ipp.eu/wp-content/uploads/2018/09/n35-notesIPP-septembre2018.pdf",
+      "passage": "« les collèges parisiens apparaissent comme les plus ségrégés de France » : la part d'élèves défavorisés va de 0,3 % à 63 % selon les collèges. Environ la moitié de la ségrégation « provient presque exclusivement de l'évitement vers le secteur privé des catégories sociales favorisées ».",
+      "pertinence": "Institut de recherche en économie publique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Mixités sociales à l'école (fiche thématique)",
+      "organisme": "Cnesco",
+      "date_publication": "2015 (mise à jour vers 2018)",
+      "url": "https://cnesco.fr/wp-content/uploads/2025/04/Fiche-thematique_Mixite-sociale_Cnesco.pdf",
+      "passage": "10 % des collégiens sont dans un établissement qui compte « au moins 63 % d'élèves issus de milieux socialement très défavorisés ». La recherche met en évidence « des effets très négatifs de la ségrégation sur les apprentissages des élèves en difficulté ».",
+      "pertinence": "Centre national d'étude des systèmes scolaires.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "PISA 2015 – Note pays France",
+      "organisme": "OCDE",
+      "date_publication": "2016",
+      "url": "https://search.oecd.org/pisa/PISA-2015-France-FRA.pdf",
+      "passage": "Le milieu socio-économique explique « plus de 20 % de la performance » en France, contre 13 % en moyenne dans l'OCDE. « En France, près de 40 % des élèves issus d'un milieu défavorisé sont en difficulté ».",
+      "pertinence": "Organisation internationale ; données de 2015.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Résultats à plus long terme des expérimentations de mixité.",
+  "objections_legitimes": [
+    "La mixité n'a pas amélioré les résultats à court terme.",
+    "Les hausses de mixité obtenues restent modestes.",
+    "Certains secteurs ont connu une fuite vers le privé."
+  ],
+  "publics": {
+    "convaincus": "On a testé dans 56 collèges : aucune baisse des résultats, même pour les bons élèves, dont l'estime de soi s'améliore. Ce qui fait vraiment chuter les plus fragiles, c'est d'être concentrés entre eux. La mixité ne tire personne vers le bas.",
+    "indecis": "C'est normal de vouloir protéger la scolarité de son enfant. Les évaluations françaises montrent que la mixité ne fait pas baisser les résultats et améliore le bien-être de tous. Elle ne fait pas de miracle non plus : c'est un choix de société, qui ne se fait pas au détriment des bons élèves."
+  },
+  "repond_a": [
+    {
+      "id": "mixite_scolaire_q1217",
+      "label": "Mixité sociale à l’école"
+    },
+    {
+      "id": "services_publics_q1217_mixite_scolaire",
+      "label": "Mixité sociale à l’école"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "pauvrete",
+    "misere",
+    "coutent trop cher",
+    "urgences",
+    "carte scolaire",
+    "segregation scolaire",
+    "melanger les eleves"
+  ],
+  "concepts": [
+    "pauvrete",
+    "services_publics",
+    "mixite_scolaire"
+  ]
+}

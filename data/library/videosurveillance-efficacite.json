@@ -1,0 +1,182 @@
+{
+  "id": "videosurveillance-efficacite",
+  "type": "idee_recue",
+  "affirmation": "Il faut mettre des caméras de vidéosurveillance partout, ça fait baisser la délinquance.",
+  "volet": "securite",
+  "sous_theme": "Prévention et politiques publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "videosurveillance",
+    "videoprotection",
+    "cameras partout",
+    "cameras de surveillance delinquance",
+    "cameras font baisser la delinquance",
+    "efficacite des cameras",
+    "cameras dans les rues",
+    "plus de cameras",
+    "cameras securite ville"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. En France, la Cour des comptes (2020) ne constate aucun lien global entre la présence de caméras et le niveau de délinquance ou d'élucidation. Une étude pour la gendarmerie montre que les images ont contribué à environ 1 % des enquêtes. Les études internationales trouvent un effet réel mais « modeste », surtout dans les parkings et contre les vols de voitures. Les caméras peuvent aider ponctuellement ; elles ne remplacent pas des policiers et de la prévention.",
+  "contexte": "Les communes ont massivement installé des caméras depuis quinze ans, souvent à la demande des habitants et avec des subventions publiques. Davantage de caméras figure dans presque tous les programmes de droite et d'extrême droite.",
+  "explication": "Il faut regarder les évaluations françaises (Cour des comptes, étude pour la gendarmerie) et les synthèses internationales qui comparent des zones avec et sans caméras.",
+  "faits": [
+    {
+      "fait": "Selon Next, la Cour des comptes ne constate en 2020 aucune corrélation globale entre l'existence de dispositifs de vidéoprotection et le niveau de délinquance sur la voie publique ou le taux d'élucidation.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Les caméras n'ont pas fait baisser la délinquance de façon mesurable.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une étude pour la gendarmerie, les images de vidéoprotection ont contribué à environ 1,13 % des enquêtes et 5,87 % des affaires élucidées ; 94,8 % des affaires élucidées l'ont été sans vidéo.",
+      "periode": "2021-2022",
+      "perimetre": "Territoires étudiés",
+      "explication": "La vidéo aide peu les enquêtes : l'essentiel repose sur le travail des enquêteurs.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "1,13 %"
+    },
+    {
+      "fait": "Selon Next, la Cour relève que l'État ne connaît même pas le nombre exact de caméras installées et que le coût d'une caméra varie du simple au quintuple.",
+      "periode": "2018-2020",
+      "perimetre": "France",
+      "explication": "On dépense beaucoup sans évaluer.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : une méta-analyse de quarante ans d'études trouve une baisse de la délinquance « significative et modeste », surtout dans les parkings et pour les atteintes aux véhicules.",
+      "periode": "2019",
+      "perimetre": "International",
+      "explication": "Les caméras peuvent être utiles dans des lieux précis ; dire qu'elles ne servent à rien serait aussi faux.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'effet dissuasif est faible dans l'espace public, mais mieux observé dans les lieux clos comme les parkings.",
+      "periode": "2022",
+      "perimetre": "International",
+      "explication": "Mettre des caméras « partout » ne correspond pas à ce qui marche.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "La Cour des comptes ne trouve aucun lien global entre caméras et baisse de la délinquance. Les images aident dans environ 1 % des enquêtes. Elles ont un effet modeste dans les parkings : utiles à certains endroits, pas une solution miracle.",
+    "moyen": "En 2020, la Cour des comptes a constaté qu'il n'existe aucune corrélation globale entre les caméras installées par les communes et le niveau de délinquance ou d'élucidation. Une étude pour la gendarmerie montre que les images ont contribué à 1,13 % des enquêtes ; 94,8 % des affaires élucidées l'ont été sans vidéo.\n\nLes études internationales trouvent un effet réel mais modeste, surtout dans les parkings et contre les vols de voitures. Les caméras peuvent donc servir dans des lieux ciblés. Mais les mettre « partout » coûte cher et ne remplace ni les policiers de terrain ni la prévention.",
+    "detaille": "La vidéosurveillance s'est imposée dans les villes : dans les 50 plus grandes, on est passé d'environ 4 800 caméras fin 2013 à plus de 11 400 début 2020. Pourtant, quand la Cour des comptes a examiné les polices municipales en 2020, elle n'a trouvé aucune corrélation globale entre les caméras et le niveau de délinquance ou le taux d'élucidation. Elle a aussi relevé que l'État ne sait pas combien de caméras sont installées et qu'aucune évaluation sérieuse n'existe.\n\nL'étude de Guillaume Gormand, commandée par le centre de recherche de la gendarmerie, va dans le même sens : les images ont contribué à environ 1 % des enquêtes et à moins de 6 % des affaires résolues. L'immense majorité des affaires sont élucidées par d'autres moyens : témoignages, enquêtes, police scientifique. Le taux d'élucidation ne progresse pas après l'installation de caméras.\n\nIl ne faut pas tomber dans l'excès inverse : une méta-analyse de quarante ans d'études internationales trouve une baisse modeste de la délinquance, surtout dans les parkings et pour les vols liés aux voitures. Les caméras ont donc leur place dans des lieux bien choisis, avec une évaluation. Mais l'argent dépensé à tout filmer manque pour des policiers de proximité, des éducateurs et l'éclairage public, qui agissent sur les causes.",
+    "empathie": "Quand on a peur dans sa rue ou qu'on s'est fait voler sa voiture, une caméra rassure. Ce besoin de sécurité est légitime ; la question est de savoir ce qui protège vraiment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Grâce aux caméras, on a retrouvé l'auteur de tel crime.",
+      "reponse": "C'est possible dans certains cas ; mais selon l'étude pour la gendarmerie, 94,8 % des affaires élucidées le sont sans vidéo."
+    },
+    {
+      "objection": "Si on n'a rien à se reprocher, on n'a rien à craindre.",
+      "reponse": "La question n'est pas seulement la vie privée : c'est l'argent public dépensé pour un effet faible, au lieu de policiers et d'éducateurs sur le terrain."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'enquêtes sont résolues grâce aux caméras, selon l'étude pour la gendarmerie ?",
+    "Avec le prix de centaines de caméras, combien de policiers de quartier ou d'éducateurs pourrait-on payer ?"
+  ],
+  "limites": [
+    "Le rapport de la Cour des comptes (2020) et l'étude Gormand n'ont été lus qu'à travers des comptes rendus fiables ; les documents originaux n'ont pas pu être ouverts.",
+    "L'étude Gormand porte sur des territoires limités.",
+    "La méta-analyse n'a été lue que dans son résumé, qui ne détaille pas les violences aux personnes."
+  ],
+  "sources": [
+    {
+      "titre": "La Cour des comptes épingle (encore) la vidéosurveillance",
+      "organisme": "Next (Sébastien Gavois, d'après La Gazette des communes)",
+      "date_publication": "3 novembre 2020",
+      "url": "https://next.ink/brief-article/la-cour-des-comptes-epingle-encore-la-videosurveillance/",
+      "passage": "Dans son rapport sur les polices municipales (octobre 2020), la Cour des comptes juge que l'efficacité de la vidéosurveillance n'est pas démontrée alors que les coûts sont importants ; aucune de ses recommandations de 2011 n'a été mise en œuvre. Le coût d'installation d'une caméra peut varier « du simple au quintuple ». La Cour ne constate aucune corrélation globale « entre l'existence de dispositifs de vidéoprotection » et le niveau de délinquance sur la voie publique ou les taux d'élucidation. « La connaissance du nombre de caméras effectivement installées reste donc approximative » : fin 2018, 60 674 caméras selon une direction du ministère, 76 457 selon police et gendarmerie (hors Paris et petite couronne).",
+      "pertinence": "Média spécialisé résumant le rapport de la Cour des comptes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les polices municipales, sous les feux de la Cour des comptes",
+      "organisme": "Blog Landot & associés (cabinet d'avocats)",
+      "date_publication": "21 octobre 2020",
+      "url": "https://blog.landot-avocats.net/2020/10/21/les-polices-municipales-sous-les-feux-de-la-cour-des-comptes/",
+      "passage": "Selon la Cour, « La vidéoprotection est devenu un instrument quotidien des services de polices municipales » ; les centres de supervision urbains se sont multipliés et des technologies comme les drones ou la reconnaissance faciale se développent dans un vide juridique. « De véritables dispositifs d'évaluation de la performance des polices municipales restent à construire ».",
+      "pertinence": "Blog juridique résumant le rapport.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Une nouvelle étude souligne (encore) la relative inefficacité de la vidéosurveillance",
+      "organisme": "Next (Sébastien Gavois, d'après La Gazette des communes)",
+      "date_publication": "21 mars 2022",
+      "url": "https://next.ink/brief-article/une-nouvelle-etude-souligne-encore-la-relative-inefficacite-de-la-videosurveillance/",
+      "passage": "Étude de Guillaume Gormand pour le centre de recherche de l'école des officiers de la gendarmerie (CREOGN) : les enregistrements de vidéoprotection ont contribué à environ 1,13 % des enquêtes observées et à 5,87 % des affaires élucidées (6,7 % pour les atteintes aux véhicules, 2,8 % pour les violences aux personnes). 74 % des faits sont élucidés et 94,8 % des affaires élucidées le sont sans vidéo. Le taux d'élucidation n'est pas plus élevé dans les territoires équipés et ne progresse pas significativement après l'installation de caméras. Dans les 50 plus grandes villes, le nombre de caméras est passé d'environ 4 800 fin 2013 à plus de 11 400 début 2020.",
+      "pertinence": "Média spécialisé résumant une étude commandée par la gendarmerie.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Quelle efficacité de la vidéosurveillance pour les enquêtes judiciaires ?",
+      "organisme": "Police belge (police.be)",
+      "date_publication": "15 juin 2022",
+      "url": "https://www.police.be/5337/node/19373",
+      "passage": "Un chef de corps belge confirme que dans l'étude Gormand, les enregistrements ont participé à la résolution d'affaires « dans des proportions faibles » : 1,13 % des enquêtes et 5,87 % des affaires élucidées ; « 74% de l'ensemble de ces faits sont élucidés et 94,8% le sont sans vidéo. » Les effets dissuasifs « sont faibles dans l'espace public », mais « cet effet dissuasif est bien observé lorsque ce dispositif de surveillance est installé dans des lieux clos » comme les parkings.",
+      "pertinence": "Source policière.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "CCTV Surveillance for Crime Prevention: A 40-Year Systematic Review with Meta-Analysis (Criminology & Public Policy, 18-1)",
+      "organisme": "Piza, Welsh, Farrington, Thomas — notice du ministère de la Justice des États-Unis (OJP)",
+      "date_publication": "2019",
+      "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/cctv-surveillance-crime-prevention-40-year-systematic-review-meta",
+      "passage": "« CCTV is associated with a significant and modest decrease in crime. » « The largest and most consistent effects of CCTV were observed in car parks. » Des baisses significatives existent aussi dans les zones résidentielles. Les auteurs recommandent de cibler la vidéosurveillance sur les vols de et dans les véhicules et les atteintes aux biens, et de ne pas l'utiliser seule.",
+      "pertinence": "Méta-analyse internationale de référence.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelles évaluations de la vidéoprotection et de la vidéosurveillance algorithmique.",
+  "objections_legitimes": [
+    "Les caméras ont un effet modeste mais réel dans certains lieux, comme les parkings.",
+    "Les images peuvent aider à résoudre certaines affaires.",
+    "Beaucoup d'habitants se sentent rassurés par les caméras."
+  ],
+  "publics": {
+    "convaincus": "Ce n'est pas un militant de gauche qui le dit : c'est la Cour des comptes et une étude commandée par la gendarmerie. Les images ont aidé dans environ 1 % des enquêtes. Les caméras marchent un peu dans les parkings ; pour le reste, il faut des gens sur le terrain.",
+    "indecis": "Avoir envie de se sentir en sécurité, c'est normal. Les caméras ont un effet modeste, surtout dans les parkings, mais aucune baisse globale de la délinquance n'a été constatée en France. Des policiers de proximité et de la prévention protègent davantage."
+  },
+  "repond_a": [
+    {
+      "id": "videosurv_q1217",
+      "label": "Vidéosurveillance"
+    },
+    {
+      "id": "delinquance_q1217_videosurv",
+      "label": "Vidéosurveillance"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ],
+  "concepts": [
+    "delinquance",
+    "videosurv"
+  ]
+}

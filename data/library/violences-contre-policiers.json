@@ -1,0 +1,185 @@
+{
+  "id": "violences-contre-policiers",
+  "type": "idee_recue",
+  "affirmation": "Les agressions contre les policiers explosent, ils se font attaquer tous les jours.",
+  "volet": "securite",
+  "sous_theme": "Police et gendarmerie",
+  "rubriques": [],
+  "mots_cles": [
+    "agressions contre les policiers",
+    "violences contre les policiers",
+    "policiers agresses",
+    "policiers attaques",
+    "outrages policiers",
+    "policiers blesses",
+    "agressions de policiers explosent",
+    "gendarmes agresses",
+    "refus d autorite police"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "À moitié vrai. Les policiers sont bien visés tous les jours : environ 200 outrages ou violences enregistrés par jour en zone police. Mais ces faits ne « explosent » pas : selon les chiffres officiels, ils baissent de 85 278 en 2021 à 74 494 en 2024, et le nombre de policiers blessés par un tiers a reculé entre 2019 et 2022. Le ministère juge en revanche croissantes les agressions contre les gendarmes.",
+  "contexte": "Après chaque attaque visant des policiers, l'idée d'une explosion des violences revient, souvent pour réclamer plus de pouvoirs pour les forces de l'ordre ou des peines plus lourdes.",
+  "explication": "Il faut regarder l'indicateur officiel des outrages et violences contre les personnes dépositaires de l'autorité publique, et le nombre de policiers blessés en mission.",
+  "faits": [
+    {
+      "fait": "Les outrages et violences contre les dépositaires de l'autorité publique enregistrés en zone police passent de 85 278 en 2021 à 80 843 en 2022, 78 272 en 2023 et 74 494 en 2024.",
+      "periode": "2021-2024",
+      "perimetre": "France, zone police",
+      "explication": "La tendance récente est à la baisse, pas à l'explosion.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "74 494"
+    },
+    {
+      "fait": "Cela représente en moyenne 214 faits par jour en 2023 : un niveau qui « reste élevé » selon le ministère.",
+      "periode": "2023",
+      "perimetre": "France, zone police",
+      "explication": "Les policiers font face chaque jour à des insultes et des violences : c'est une réalité.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "214"
+    },
+    {
+      "fait": "Le nombre de policiers blessés en mission du fait d'un tiers passe de 4 478 en 2019 à 3 502 en 2022.",
+      "periode": "2018-2022",
+      "perimetre": "France",
+      "explication": "Les blessures causées par des tiers ont baissé.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "3 502"
+    },
+    {
+      "fait": "Selon ONDRP / INHESJ, en 2017, 4 policiers sont morts en mission et aucun gendarme ; 26 policiers et gendarmes étaient morts en 2016, tous motifs confondus.",
+      "periode": "2016-2017",
+      "perimetre": "France",
+      "explication": "Les décès en mission sont rares mais dramatiques ; données anciennes.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : en 2024, 5 463 gendarmes ont subi des agressions physiques, dont 2 428 avec arme, et le ministère qualifie ces violences de « croissantes ».",
+      "periode": "2024",
+      "perimetre": "France, zone gendarmerie",
+      "explication": "Les violences contre les gendarmes sont un problème sérieux.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "5 463"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les policiers subissent bien des outrages et violences chaque jour : environ 200 en moyenne. Mais selon le ministère, ces faits baissent depuis 2021 (de 85 000 à 74 500 en 2024), et les policiers blessés par un tiers aussi. Ça n'« explose » pas.",
+    "moyen": "L'indicateur officiel du ministère compte les outrages et violences contre les policiers : 85 278 en 2021, 78 272 en 2023, 74 494 en 2024. C'est encore environ 200 faits par jour, un niveau élevé, mais en baisse.\n\nLe nombre de policiers blessés en mission par un tiers a aussi reculé, de 4 478 en 2019 à 3 502 en 2022. Pour les gendarmes, le ministère parle en revanche de violences croissantes : 5 463 agressés physiquement en 2024. Le problème est réel, mais le mot « explosion » ne correspond pas aux chiffres.",
+    "detaille": "Les chiffres officiels viennent du ministère de l'Intérieur, dans les documents budgétaires transmis au Parlement. Ils comptent les outrages, c'est-à-dire les insultes, et les violences contre les personnes dépositaires de l'autorité publique, en zone police. Le total passe de 85 278 en 2021 à 74 494 en 2024, soit une baisse d'environ 13 %. Cela reste environ 200 faits par jour, un niveau que le ministère juge élevé.\n\nLes blessures vont dans le même sens : les policiers blessés en mission du fait d'un tiers étaient 4 478 en 2019 et 3 502 en 2022. Les décès en mission restent rares : 4 policiers en 2017, selon l'observatoire national de la délinquance. Chaque mort est un drame, mais les chiffres ne montrent pas d'explosion récente.\n\nDeux nuances honnêtes. D'abord, les violences contre les gendarmes sont décrites comme croissantes par le ministère : plus de 5 400 agressés physiquement en 2024. Ensuite, ces chiffres varient avec les mouvements sociaux et les émeutes. La protection des policiers passe par la formation, des effectifs suffisants et une relation apaisée avec la population : le ministère lui-même mise sur les caméras-piétons et la désescalade.",
+    "empathie": "Les policiers font un métier difficile, et voir l'un d'eux agressé choque à juste titre. Les protéger mérite des chiffres exacts plutôt que des slogans."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les chiffres sont maquillés.",
+      "reponse": "Ce sont les chiffres que le ministère de l'Intérieur transmet lui-même au Parlement, qui a plutôt intérêt à souligner les difficultés de ses agents."
+    },
+    {
+      "objection": "Avant, on respectait la police.",
+      "reponse": "Les blessures de policiers causées par des tiers ont baissé entre 2019 et 2022 ; la nostalgie n'est pas une statistique."
+    }
+  ],
+  "questions": [
+    "Savais-tu que le ministère de l'Intérieur compte moins d'outrages et violences contre les policiers en 2024 qu'en 2021 ?",
+    "Qu'est-ce qui protège le mieux les policiers selon toi : plus d'armes, ou plus d'effectifs et de formation ?"
+  ],
+  "limites": [
+    "L'indicateur couvre la zone police seulement et mêle outrages verbaux et violences physiques.",
+    "Les années 2020-2021 sont perturbées par le Covid.",
+    "Aucune série officielle récente sur les policiers tués n'a été trouvée ; les données ONDRP datent de 2017.",
+    "Les bilans annuels du SSMSI sur interieur.gouv.fr n'ont pas pu être ouverts."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport annuel de performances 2023, programme 176 Police nationale : objectifs et indicateurs de performance",
+      "organisme": "Ministère des Comptes publics (budget.gouv.fr), données SSMSI",
+      "date_publication": "exercice 2023, publié en 2024",
+      "url": "https://www.budget.gouv.fr/files/uploads/extract/2023/PLR/BG/PGM/176/FR_2023_PLR_BG_PGM_176_PERF.html",
+      "passage": "Indicateur 1.3 « Évolution du nombre de crimes et délits commis à l'encontre des personnes dépositaires de l'autorité publique » (outrages et violences, faits enregistrés en zone police, France entière) : 85 278 en 2021, 80 843 en 2022, 78 272 en 2023 ; la cible « en baisse » est atteinte. Baisse de 8,2 % entre 2021 et 2023, mais un niveau qui « reste élevé » : en moyenne 214 faits par jour en 2023, contre 233 en 2021 et 222 en 2022.",
+      "pertinence": "Document budgétaire officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Projet annuel de performances 2026, mission « Sécurités »",
+      "organisme": "Gouvernement (document publié par l'Assemblée nationale)",
+      "date_publication": "automne 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/dyn/contenu/visualisation/1088035/file/PAP2026_BG_Securites_SB.pdf",
+      "passage": "Même indicateur : 78 272 faits en 2023, 74 494 en 2024 ; cible « en baisse » pour 2025 et 2026. La baisse attendue repose notamment sur les caméras-piétons et la formation à la désescalade. Le nombre « est susceptible d'augmenter » en cas de mouvements sociaux ou d'émeutes urbaines.",
+      "pertinence": "Document budgétaire officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réponse ministérielle à la question écrite n° 9566",
+      "organisme": "Assemblée nationale, ministère de l'Intérieur et des Outre-mer",
+      "date_publication": "réponse publiée au JO le 19 décembre 2023",
+      "url": "https://questions.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE9566.pdf",
+      "passage": "Policiers « blessés en mission du fait d'un tiers » : 4 387 en 2018, 4 478 en 2019, 3 157 en 2020, 3 483 en 2021, 3 502 en 2022. En 2022, les violences volontaires d'un tiers représentent 65 % des blessures de policiers actifs. Gendarmes victimes d'agressions par véhicule : de 350 à 500 par an entre 2017 et 2022.",
+      "pertinence": "Réponse officielle du gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les policiers et gendarmes tués et blessés en 2017 (note n° 27)",
+      "organisme": "ONDRP / INHESJ",
+      "date_publication": "octobre 2018",
+      "url": "https://www.ihemi.fr/sites/default/files/publications/files/2019-12/note_27.pdf",
+      "passage": "15 policiers et gendarmes tués en 2017, contre 26 en 2016 ; en mission en 2017 : 4 policiers et aucun gendarme. Blessés en mission : 9 386 agents, en baisse de 5 %. « Toute blessure donnant lieu à déclaration, même sans arrêt de travail, est comptabilisée. »",
+      "pertinence": "Observatoire public ; données anciennes.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Réponse ministérielle à la question écrite n° 8872",
+      "organisme": "Assemblée nationale, ministère de l'Intérieur",
+      "date_publication": "réponse publiée au JO le 16 décembre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE8872.pdf",
+      "passage": "En 2024, 5 463 gendarmes ont subi des agressions physiques, dont 2 428 avec arme. La réponse qualifie ces violences de « croissantes », sans série de comparaison.",
+      "pertinence": "Réponse officielle du gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Rapport annuel de performances 2025 et bilan du SSMSI.",
+  "objections_legitimes": [
+    "Les outrages et violences contre les policiers restent nombreux, environ 200 par jour.",
+    "Les agressions contre les gendarmes sont jugées croissantes par le ministère."
+  ],
+  "publics": {
+    "convaincus": "Les policiers sont insultés ou agressés chaque jour, c'est vrai et c'est grave. Mais les chiffres du ministère de l'Intérieur lui-même baissent depuis 2021, et les blessés aussi. Parler d'explosion, c'est faux ; ce qui les protège, ce sont des effectifs, de la formation et la confiance de la population.",
+    "indecis": "Il est légitime de s'inquiéter pour les policiers. Les faits : environ 200 outrages ou violences par jour, un niveau élevé mais en baisse depuis 2021. Les violences contre les gendarmes, elles, augmentent. Les protéger demande des moyens, pas des slogans."
+  },
+  "repond_a": [
+    {
+      "id": "violences_policiers_q1217",
+      "label": "Violences contre les policiers"
+    },
+    {
+      "id": "delinquance_q1217_violences_policiers",
+      "label": "Violences contre les policiers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ],
+  "concepts": [
+    "delinquance",
+    "violences_policiers"
+  ]
+}

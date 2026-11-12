@@ -1,0 +1,208 @@
+{
+  "id": "elevage-climat-methane",
+  "type": "idee_recue",
+  "affirmation": "Les vaches ne sont pour rien dans le réchauffement climatique, l'élevage ne pollue pas.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "vaches rechauffement",
+    "elevage climat",
+    "methane vaches",
+    "elevage ne pollue pas",
+    "pets de vaches",
+    "elevage gaz a effet de serre",
+    "agriculture emissions",
+    "viande climat",
+    "bovins methane"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. En France, l'agriculture émet plus de 20 % des gaz à effet de serre, et l'élevage en représente 58 %. Le secteur produit 71 % du méthane national, surtout par la digestion des ruminants. Dans le monde, l'élevage pèse 12 % des émissions humaines, dont 62 % pour les bovins. Les prairies stockent du carbone, mais ne compensent qu'une petite partie de ces émissions. Les éleveurs ne sont pas des coupables : ils ont déjà réduit leurs émissions de 22 % depuis 1990.",
+  "contexte": "Face aux appels à réduire la consommation de viande, certains affirment que l'élevage serait sans effet sur le climat, voire bénéfique grâce aux prairies.",
+  "explication": "Il faut regarder l'inventaire national des émissions, la part de l'élevage et du méthane, et ce que les prairies compensent réellement.",
+  "faits": [
+    {
+      "fait": "Selon Citepa, l'agriculture émet 77,5 millions de tonnes équivalent CO2 en 2024, soit plus de 20 % des émissions françaises hors puits de carbone, et 71 % du méthane national.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "L'agriculture est l'un des premiers secteurs émetteurs du pays.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "71 %"
+    },
+    {
+      "fait": "L'élevage représente 58 % des émissions agricoles ; le méthane vient surtout de la digestion des animaux (fermentation entérique).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les ruminants sont au cœur des émissions agricoles.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "58 %"
+    },
+    {
+      "fait": "Dans le monde, l'élevage représente 12 % des émissions humaines de gaz à effet de serre, dont 62 % pour les bovins, selon la FAO.",
+      "periode": "2023",
+      "perimetre": "Monde",
+      "explication": "L'effet de l'élevage sur le climat est reconnu à l'échelle mondiale.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "12 %"
+    },
+    {
+      "fait": "Les prairies françaises compenseraient environ 8 % des émissions de l'élevage selon l'inventaire national (28 % selon la méthode de la filière).",
+      "periode": "2013-2021",
+      "perimetre": "France",
+      "explication": "Les prairies aident, mais ne compensent qu'une partie des émissions.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "8 %"
+    },
+    {
+      "fait": "Les émissions de l'élevage ont baissé de 22 % entre 1990 et 2025, surtout grâce à la réduction du cheptel.",
+      "periode": "1990-2025",
+      "perimetre": "France",
+      "explication": "Les éleveurs ont déjà fait des efforts ; la baisse vient aussi de la disparition de fermes.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "-22 %"
+    },
+    {
+      "fait": "Fait défavorable : avec la métrique GWP*, qui tient compte de la courte durée de vie du méthane, un troupeau stable n'ajoute pas de réchauffement supplémentaire, mais il entretient le réchauffement existant ; aucun pays ne l'utilise officiellement.",
+      "periode": "2025",
+      "perimetre": "International",
+      "explication": "Le méthane se dégrade plus vite que le CO2 : réduire le cheptel a un effet rapide, mais le maintenir ne règle rien.",
+      "source": 5,
+      "fiabilite": "debat"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : en France, l'agriculture émet plus de 20 % des gaz à effet de serre et 71 % du méthane, et l'élevage en représente 58 %. Dans le monde, l'élevage pèse 12 % des émissions humaines. Les prairies ne compensent qu'une petite partie de ces émissions.",
+    "moyen": "Selon l'inventaire officiel, l'agriculture émet plus de 20 % des gaz à effet de serre français et 71 % du méthane. L'élevage représente 58 % des émissions agricoles, surtout à cause de la digestion des ruminants. Dans le monde, la FAO attribue 12 % des émissions humaines à l'élevage, dont 62 % aux bovins.\n\nLes prairies stockent du carbone, mais elles ne compensent qu'environ 8 % des émissions de l'élevage selon l'inventaire national. Les éleveurs ont déjà réduit leurs émissions de 22 % depuis 1990. L'enjeu n'est pas de les accuser, mais de les accompagner vers moins de bêtes, mieux payées et mieux élevées.",
+    "detaille": "Les chiffres viennent de l'inventaire national réalisé par le Citepa pour le ministère. En 2024, l'agriculture a émis 77,5 millions de tonnes équivalent CO2, plus de 20 % des émissions françaises. L'élevage en représente 58 %. Le principal gaz est le méthane : l'agriculture produit 71 % du méthane du pays, surtout par la fermentation dans l'estomac des vaches et des moutons. S'y ajoute le protoxyde d'azote des engrais, du fumier et du lisier. Dans le monde, la FAO attribue 12 % des émissions humaines à l'élevage, dont 62 % aux bovins.\n\nLes arguments des défenseurs de l'élevage ne sont pas tous faux. Les prairies stockent du carbone : selon l'inventaire national, elles compensent environ 8 % des émissions de l'élevage, 28 % selon une méthode de la filière plus optimiste. Le méthane disparaît plus vite que le CO2 : avec une métrique comme GWP*, un troupeau stable n'ajoute pas de réchauffement, mais il entretient celui qu'il a déjà causé. Et les émissions de l'élevage ont baissé de 22 % depuis 1990, surtout parce que le nombre d'animaux diminue.\n\nDire que l'élevage ne joue aucun rôle est donc faux. Mais la réponse ne doit pas être payée par les éleveurs, souvent mal rémunérés. Le Haut Conseil pour le climat estime qu'il faudrait réduire d'au moins 30 % la consommation de protéines animales, en notant que les ménages modestes auront plus de mal à changer. Une transition juste passe par des prix rémunérateurs, l'élevage à l'herbe, moins de viande importée et un accès de tous à une alimentation de qualité.",
+    "empathie": "On peut être attaché à l'élevage, aux paysages de bocage et à ceux qui en vivent, et se sentir visé quand on parle des vaches et du climat. Ce n'est pas une accusation contre les éleveurs : c'est une question de chiffres."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les vaches broutent de l'herbe qui capte du carbone : c'est un cycle naturel.",
+      "reponse": "Les prairies compensent environ 8 % des émissions de l'élevage selon l'inventaire national ; le reste s'ajoute au réchauffement."
+    },
+    {
+      "objection": "Ce sont les voitures et les usines qui polluent.",
+      "reponse": "Les transports émettent davantage, c'est vrai, mais l'agriculture reste plus de 20 % du total et 71 % du méthane : tous les secteurs doivent baisser."
+    }
+  ],
+  "questions": [
+    "Savais-tu que l'agriculture produit 71 % du méthane émis en France ?",
+    "Comment aider les éleveurs à vivre de moins d'animaux mieux payés, plutôt que de les mettre en concurrence avec la viande importée ?"
+  ],
+  "limites": [
+    "Les chiffres varient selon l'année et la source (18 % ou plus de 20 % de l'agriculture dans les émissions).",
+    "Le rapport FAO original n'a pas été lu, seulement une dépêche AFP.",
+    "L'étude Prairie & Élevage a été lue en partie, sans sa conclusion."
+  ],
+  "sources": [
+    {
+      "titre": "Émissions de GES liées à l'agriculture (Chiffres clés du climat, édition 2026)",
+      "organisme": "Ministère de la Transition écologique (SDES), données Citepa",
+      "date_publication": "2026",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/fr/15-emissions-de-ges-liees-a",
+      "passage": "En 2025 (estimation préliminaire), l'élevage représente 58 % des émissions agricoles, les cultures 28 % et les engins, moteurs et chaudières 14 %. Les émissions de l'élevage ont baissé de 22 % entre 1990 et 2025, « notamment grâce à la réduction du cheptel ». Le méthane, principal gaz du secteur, vient surtout du « processus digestif des animaux (fermentation entérique) » ; le protoxyde d'azote vient de la transformation des produits azotés dans les sols (engrais, fumier, lisier).",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Synthèse et messages clés – Rapport Secten 2026",
+      "organisme": "Citepa",
+      "date_publication": "juin 2026",
+      "url": "https://www.citepa.org/wp-content/uploads/2026/06/Synthese-et-messages-cles-Secten-2026.pdf",
+      "passage": "L'agriculture émet 77,5 Mt CO2e en 2024, soit « plus de 20 % des émissions totales nationales hors puits de carbone ». Le secteur pèse 71 % des émissions nationales de méthane : « CH4 (43 Mt CO2e soit 71 %) ». Estimation 2025 : 76,6 Mt CO2e (-1,3 %) ; l'élevage baisse de 2,5 % en 2025.",
+      "pertinence": "Organisme chargé de l'inventaire national des émissions.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Livestock produces 12% of human greenhouse gases: FAO",
+      "organisme": "The Daily Star (dépêche AFP sur le rapport de la FAO « Pathways towards lower emissions »)",
+      "date_publication": "9 décembre 2023",
+      "url": "https://www.thedailystar.net/business/global-economy/news/livestock-produces-12-human-greenhouse-gases-fao-3489871",
+      "passage": "« Livestock is responsible for 12 percent of greenhouse gas emissions caused by humans ». Les émissions directes (rots, flatulences, déjections) représentent 60 % du total. Les bovins sont responsables de 62 % des émissions liées au bétail, devant les porcs (14 %), la volaille (9 %), les buffles (8 %) et les ovins et caprins (7 %).",
+      "pertinence": "Dépêche d'agence sur un rapport de l'organisation de l'ONU pour l'alimentation.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Agriculture : trois mesures du Haut Conseil pour le climat pour une alimentation bas carbone",
+      "organisme": "Public Sénat",
+      "date_publication": "25 janvier 2024",
+      "url": "https://www.publicsenat.fr/actualites/environnement/agriculture-trois-mesures-du-haut-conseil-pour-le-climat-pour-une-alimentation-bas-carbone",
+      "passage": "L'agriculture représente 18 % des émissions françaises, deuxième secteur derrière les transports (chiffre du rapport HCC de 2024). Les scénarios qui réduisent de 50 % les émissions agricoles d'ici 2050 prévoient une baisse d'au moins 30 % de la consommation de protéines animales. Les produits animaux représentent environ la moitié de l'empreinte carbone alimentaire des Français. Le HCC note que les ménages modestes auront plus de mal à changer leurs habitudes.",
+      "pertinence": "Chaîne parlementaire résumant un rapport du Haut Conseil pour le climat.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Étude Prairie & Élevage – rapport final",
+      "organisme": "Citepa (cofinancé par le ministère de l'Agriculture)",
+      "date_publication": "octobre 2025",
+      "url": "https://www.citepa.org/wp-content/uploads/2026/06/Rapport-Final-Etude-Prairies-Elevages-2026.pdf",
+      "passage": "Les prairies couvrent environ 9 millions d'hectares en 2021, près de 17 % du territoire, et absorbent environ 4 MtCO2e par an (2013-2017). L'élevage émet environ 51 MtCO2e en 2021 : les prairies compenseraient donc environ 8 % de ces émissions selon l'inventaire national. La méthode utilisée par la filière (CAP'2ER) donne 28 %, avec une hypothèse de stockage très supérieure à celle de l'inventaire. La médiane européenne est d'environ 14 %.",
+      "pertinence": "Étude technique ; lue en partie.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Q&A: What the 'controversial' GWP* methane metric means for farming emissions",
+      "organisme": "Carbon Brief (Orla Dwyer)",
+      "date_publication": "3 octobre 2025",
+      "url": "https://www.carbonbrief.org/qa-what-the-controversial-gwp-methane-metric-means-for-farming-emissions/",
+      "passage": "La métrique GWP* tient compte de la courte durée de vie du méthane : avec elle, un troupeau stable n'ajoute pas de réchauffement mais entretient le réchauffement existant (« 'no additional warming' means that you're still sustaining the warming that the herd is causing »). Aucun pays ne l'utilise encore officiellement. Des scientifiques critiquent une métrique qui « creates the expectation that current high levels of methane emissions are allowed to continue ».",
+      "pertinence": "Site spécialisé sur la science du climat.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rapport Secten 2027 du Citepa.",
+  "objections_legitimes": [
+    "Les prairies stockent du carbone.",
+    "Le méthane a une durée de vie plus courte que le CO2.",
+    "Les émissions de l'élevage ont déjà baissé de 22 % depuis 1990."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres officiels sont clairs : l'agriculture émet plus de 20 % des gaz à effet de serre français et 71 % du méthane, et l'élevage en fait plus de la moitié. Les prairies ne compensent qu'une petite partie. Ça ne veut pas dire que les éleveurs sont coupables : ils ont déjà baissé leurs émissions de 22 %.",
+    "indecis": "C'est normal d'être attaché à l'élevage et aux éleveurs. Mais l'élevage pèse réellement sur le climat, surtout par le méthane des ruminants. La solution passe par des éleveurs mieux payés pour moins d'animaux, pas par leur mise en accusation."
+  },
+  "repond_a": [
+    {
+      "id": "elevage_climat_q1217",
+      "label": "Élevage et climat"
+    },
+    {
+      "id": "ecologie_q1217_elevage_climat",
+      "label": "Élevage et climat"
+    },
+    {
+      "id": "climat_origine_q1217_elevage_climat",
+      "label": "Élevage et climat"
+    },
+    {
+      "id": "ecologie_climat_origine_q1217_elevage_climat",
+      "label": "Élevage et climat"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ],
+  "concepts": [
+    "ecologie",
+    "climat_origine",
+    "elevage_climat"
+  ]
+}

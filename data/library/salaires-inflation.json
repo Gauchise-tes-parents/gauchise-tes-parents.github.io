@@ -1,0 +1,217 @@
+{
+  "id": "salaires-inflation",
+  "type": "idee_recue",
+  "affirmation": "Augmenter les salaires, ça fait exploser l'inflation.",
+  "volet": "economie",
+  "sous_theme": "Inflation",
+  "rubriques": [],
+  "mots_cles": [
+    "salaires inflation",
+    "augmenter les salaires inflation",
+    "boucle prix salaires",
+    "hausse des salaires fait monter les prix",
+    "indexation des salaires",
+    "spirale inflationniste salaires",
+    "salaires et prix",
+    "augmenter le smic inflation"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le risque d'une « boucle prix-salaires » existe en théorie, et la désindexation des salaires en 1982-1983 a été suivie d'une forte baisse de l'inflation. Mais l'inflation de 2022-2023 ne vient pas des salaires : en zone euro, l'énergie importée et les profits en expliquent l'essentiel selon le FMI et la BCE. En France, les salaires réels ont même baissé d'environ 2 % en deux ans, et la boucle ne s'est pas enclenchée.",
+  "contexte": "À chaque demande de hausse des salaires ou d'indexation sur les prix, l'argument revient : augmenter les salaires ferait flamber les prix et annulerait le gain.",
+  "explication": "Il faut regarder ce qui a réellement causé l'inflation récente, comment ont évolué les salaires réels et les marges, et ce que montre l'histoire des années 1970-1980.",
+  "faits": [
+    {
+      "fait": "Selon le FMI, entre début 2022 et début 2023, les prix importés expliquent environ 40 % de la hausse des prix à la consommation en zone euro et les profits des entreprises environ 45 %.",
+      "periode": "2022-2023",
+      "perimetre": "Zone euro",
+      "explication": "L'inflation récente vient surtout de l'énergie et des marges, pas des salaires.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "45 %"
+    },
+    {
+      "fait": "Selon la BCE, en 2022, les profits unitaires ont contribué en moyenne aux deux tiers des pressions sur les prix intérieurs, contre environ un tiers en temps normal.",
+      "periode": "2022",
+      "perimetre": "Zone euro",
+      "explication": "Les entreprises ont souvent augmenté leurs prix plus que leurs coûts.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "deux tiers"
+    },
+    {
+      "fait": "En France, les salaires réels ont reculé d'environ 2 points sur 2022-2023, une baisse inédite comparée aux chocs pétroliers des années 1970, tandis que le taux de marge des entreprises atteignait 32,9 % en 2023, contre 30,9 % en 2019.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "Les salariés ont payé l'inflation ; il n'y a pas eu de spirale salariale.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "32,9 %"
+    },
+    {
+      "fait": "Le salaire mensuel de base réel a baissé de 1,9 % en 2022 et d'environ 0,6 % en 2023.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "Les salaires ont couru derrière les prix sans les rattraper.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "-1,9 %"
+    },
+    {
+      "fait": "Fait défavorable : la Banque de France note qu'en France, en 2022, les coûts salariaux ont contribué davantage à l'inflation que les marges, et que les entreprises répercutent les hausses de salaires dans leurs prix.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "En France, le partage entre salaires et profits est plus équilibré qu'en zone euro.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Encyclopædia Universalis, Fait défavorable : la désindexation des salaires en 1982-1983 a été suivie d'une forte baisse de l'inflation, de 12 % en 1982 à 3,1 % en 1988.",
+      "periode": "1982-1988",
+      "perimetre": "France",
+      "explication": "La boucle prix-salaires a existé dans un contexte d'indexation automatique ; ce n'est pas la situation actuelle.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "12 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "L'inflation de 2022-2023 venait surtout de l'énergie et des profits, selon le FMI et la BCE, pas des salaires. En France, les salaires réels ont même baissé d'environ 2 % en deux ans. La « boucle prix-salaires » est un risque, pas ce qui s'est passé.",
+    "moyen": "Quand les prix ont flambé en 2022, ce n'est pas à cause des salaires. Selon le FMI, l'énergie importée et les profits des entreprises expliquent l'essentiel de l'inflation en zone euro. La BCE estime que les profits en ont représenté les deux tiers en 2022.\n\nEn France, les salaires ont augmenté moins vite que les prix : le pouvoir d'achat des salaires a baissé d'environ 2 % en deux ans, pendant que les marges des entreprises remontaient. La boucle prix-salaires est un vrai risque quand les salaires sont indexés automatiquement, comme au début des années 1980, mais elle ne s'est pas produite cette fois.",
+    "detaille": "L'argument repose sur un mécanisme réel : si les salaires augmentent, les entreprises peuvent augmenter leurs prix, ce qui pousse à réclamer de nouvelles hausses, et ainsi de suite. La France l'a connu au début des années 1980, quand les salaires étaient indexés sur les prix : l'inflation atteignait 12 % en 1982. La désindexation de 1982-1983 a été suivie d'une forte baisse, à 3,1 % en 1988. Cet épisode nourrit encore la méfiance envers les hausses de salaires.\n\nMais l'inflation récente a une autre origine. Selon le FMI, entre début 2022 et début 2023, les prix importés, surtout l'énergie, expliquent environ 40 % de la hausse des prix en zone euro, et les profits des entreprises environ 45 %. La BCE estime que les profits ont contribué aux deux tiers des pressions sur les prix intérieurs en 2022, contre un tiers d'habitude. En France, le tableau est plus nuancé : selon la Banque de France, les coûts salariaux ont pesé un peu plus que les marges. Mais les salaires réels ont reculé d'environ 2 % en deux ans, ce que l'Insee juge inédit, et le taux de marge des entreprises a atteint 32,9 % en 2023.\n\nAugmenter les salaires n'est donc pas une machine à inflation par nature : tout dépend de qui absorbe le choc. Quand les profits sont élevés, une hausse des salaires peut être financée en partie par les marges. Des outils existent pour éviter la spirale : négociations par branche, conditionnement des aides publiques, contrôle de certains prix. Refuser toute hausse, c'est faire payer l'inflation aux seuls salariés.",
+    "empathie": "Personne n'a envie que les prix flambent, et les années d'inflation forte ont laissé de mauvais souvenirs. C'est une inquiétude sérieuse, qui mérite qu'on regarde ce qui s'est vraiment passé récemment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on augmente les salaires, les patrons augmenteront les prix.",
+      "reponse": "Ils l'ont fait en 2022 sans hausse de salaires équivalente : selon la BCE, les profits ont fait deux tiers des pressions sur les prix. Une hausse peut être financée en partie par les marges."
+    },
+    {
+      "objection": "Dans les années 1970, ça a mal fini.",
+      "reponse": "Les salaires étaient alors indexés automatiquement sur les prix. En 2022-2023, ils ont au contraire perdu environ 2 % de pouvoir d'achat."
+    }
+  ],
+  "questions": [
+    "Sais-tu que le FMI attribue près de la moitié de l'inflation récente en zone euro aux profits des entreprises ?",
+    "Pourquoi l'inflation devrait-elle être payée seulement par les salariés ?"
+  ],
+  "limites": [
+    "Les estimations du FMI et de la BCE portent sur la zone euro, pas sur la France seule.",
+    "Le profil des marges en France est très différent selon les branches (énergie contre services).",
+    "Le travail de l'OFCE sur la « boucle prix-salaires » lu en préparation est publié sur un site personnel et n'est pas cité."
+  ],
+  "sources": [
+    {
+      "titre": "Euro Area Inflation after the Pandemic and Energy Shock: Import Prices, Profits and Wages (Working Paper)",
+      "organisme": "FMI (N.-J. H. Hansen, F. G. Toscani, J. Zhou)",
+      "date_publication": "23 juin 2023",
+      "url": "https://www.imf.org/en/publications/wp/issues/2023/06/23/euro-area-inflation-after-the-pandemic-and-energy-shock-import-prices-profits-and-wages-534837",
+      "passage": "Le document souligne « the importance of import prices and domestic profits as a counterpart to the recent increase in euro area inflation ». Sur la variation moyenne du déflateur de la consommation entre le 1er trimestre 2022 et le 1er trimestre 2023, les prix importés comptent pour environ 40 % et les profits domestiques pour environ 45 %. Les entreprises s'en sont relativement mieux sorties que les travailleurs.",
+      "pertinence": "Document de travail du Fonds monétaire international.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "How tit-for-tat inflation can make everyone poorer (blog de la BCE)",
+      "organisme": "Banque centrale européenne (O. Arce, E. Hahn, G. Koester)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog.230330~00e522ecb5.fr.html",
+      "passage": "Au 4e trimestre 2022, en zone euro, « Unit profits increased by 9.4% » sur un an et ont « contributed more than half the domestic price pressures in that quarter », alors que « unit labour costs increased by 4.7% and contributed less than half ». « Over 2022 they contributed an average of two-thirds », contre environ un tiers en moyenne sur 1999-2022. Le billet met en garde contre une surenchère réciproque entre profits et salaires qui appauvrirait tout le monde.",
+      "pertinence": "Blog officiel de la banque centrale.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Marges au pas de course ?",
+      "organisme": "Banque de France (Agnès Bénassy-Quéré, seconde sous-gouverneure)",
+      "date_publication": "23 juin 2023",
+      "url": "https://www.banque-france.fr/fr/interventions-gouverneur/marges-au-pas-de-course",
+      "passage": "Au second semestre 2022, en zone euro, « la contribution de la marge unitaire à l'inflation est supérieure à celle du coût salarial unitaire » ; en France au contraire, « la contribution de la marge unitaire est inférieure à celle du coût salarial unitaire ». Les salaires ont, « à l'exception du salaire minimum (Smic), augmenté moins vite que l'inflation ». Les entreprises « répercutent les hausses de salaires dans leurs prix » et « L'incompatibilité de leurs aspirations peut conduire à une inflation auto-entretenue ».",
+      "pertinence": "Intervention d'une dirigeante de la banque centrale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le taux de marge des entreprises en France a bien résisté à la hausse des prix d'importation, en raison des hausses de leurs prix de vente et de la modération salariale (Note de conjoncture)",
+      "organisme": "Insee",
+      "date_publication": "9 juillet 2024",
+      "url": "https://insee.fr/fr/statistiques/fichier/8218892/ndc-juillet-2024-ecl-taux_marge.pdf",
+      "passage": "Le taux de marge des sociétés non financières « se situe en 2023 à 32,9 % », contre 30,9 % en 2019. Dans la branche énergie, la marge baisse en 2022 (-17,1 points) puis rebondit en 2023 (+27,3 points). « les salaires réels ont reculé de l'ordre de 2 points sur deux ans », une baisse inédite par rapport aux chocs pétroliers des années 1970.",
+      "pertinence": "Statistique publique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Note de conjoncture, fiche « Salaires »",
+      "organisme": "Insee",
+      "date_publication": "14 décembre 2023",
+      "url": "https://insee.fr/fr/statistiques/fichier/7735105/ndc-dec-2023-salaires.pdf",
+      "passage": "En moyenne annuelle, le salaire mensuel de base réel évolue de -1,9 % en 2022 et de -0,6 % en 2023 (prévision).",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "France : un siècle de politique économique — le revirement des années 1980",
+      "organisme": "Encyclopædia Universalis (P. Gauchon, P. Légé)",
+      "date_publication": "page consultée le 12 novembre 2026",
+      "url": "https://www.universalis.fr/encyclopedie/france-le-territoire-et-les-hommes-un-siecle-de-politique-economique/4-le-revirement-des-annees-1980-et-ses-suites/",
+      "passage": "En 1982-1983, « Le moyen retenu est la désindexation des salaires : il faut empêcher la « boucle prix-salaires » de fonctionner ». « L'objectif est de casser l'inflation qui atteint alors près de 12 p. 100 en rythme annuel. » Ensuite, « l'inflation ralentit de manière spectaculaire, puisqu'elle passera de 12 p. 100 en 1982 à 3,1 p. 100 en 1988 ».",
+      "pertinence": "Encyclopédie de référence.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Nouvelles données Insee sur les salaires réels et le taux de marge.",
+  "objections_legitimes": [
+    "La boucle prix-salaires est un mécanisme reconnu par les banques centrales.",
+    "La désindexation de 1982-1983 a été suivie d'une forte désinflation.",
+    "En France, les coûts salariaux ont un peu plus contribué à l'inflation que les marges en 2022."
+  ],
+  "publics": {
+    "convaincus": "En 2022, les prix ont flambé alors que les salaires réels baissaient d'environ 2 %. Selon le FMI, l'énergie et les profits expliquent l'essentiel de l'inflation en zone euro. Si les salaires faisaient tout exploser, on l'aurait vu là : c'est l'inverse qui s'est passé.",
+    "indecis": "La peur d'une spirale des prix est compréhensible, et elle a existé dans les années 1980. Mais l'inflation récente venait surtout de l'énergie et des marges, et les salariés y ont perdu. On peut augmenter les salaires de façon négociée, en partageant mieux les profits."
+  },
+  "repond_a": [
+    {
+      "id": "salaires_inflation_q1217",
+      "label": "Salaires et inflation"
+    },
+    {
+      "id": "salaires_q1217_salaires_inflation",
+      "label": "Salaires et inflation"
+    },
+    {
+      "id": "pouvoir_achat_q1217_salaires_inflation",
+      "label": "Salaires et inflation"
+    },
+    {
+      "id": "salaires_pouvoir_achat_q1217_salaires_inflation",
+      "label": "Salaires et inflation"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "fin de mois",
+    "fins de mois",
+    "pouvoir d achat"
+  ],
+  "concepts": [
+    "salaires",
+    "pouvoir_achat",
+    "salaire_minimum",
+    "salaires_inflation"
+  ]
+}

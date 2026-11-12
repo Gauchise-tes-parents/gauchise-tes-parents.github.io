@@ -1,0 +1,189 @@
+{
+  "id": "peche-quotas-europe",
+  "type": "idee_recue",
+  "affirmation": "Les quotas de pêche de Bruxelles ont tué la pêche française.",
+  "volet": "ecologie",
+  "sous_theme": "Biodiversité",
+  "rubriques": [],
+  "mots_cles": [
+    "quotas de peche",
+    "peche francaise",
+    "pecheurs bruxelles",
+    "politique commune de la peche",
+    "peche europe",
+    "pecheurs francais quotas",
+    "brexit peche",
+    "surpeche",
+    "flotte de peche"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La pêche française souffre réellement : 35 % de navires en moins depuis 2000, des marins moins nombreux, un gazole très cher et le Brexit, qui a fait perdre l'accès à des eaux qui fournissaient près de 30 % des captures. Mais elle reste le deuxième producteur de l'Union européenne. Et sous la politique commune, la part du poisson débarqué issue de stocks exploités durablement est passée de 18 % en 2000 à 58 % en 2023 : sans quotas, il n'y aurait plus de poisson à pêcher. Les quotas sont d'ailleurs votés par les ministres des États, dont la France.",
+  "contexte": "Les difficultés des pêcheurs sont souvent attribuées à « Bruxelles », accusée d'imposer des quotas qui ruineraient les ports français.",
+  "explication": "Il faut regarder l'état des stocks de poissons, l'évolution de la flotte, le poids du Brexit et du carburant, et qui décide réellement des quotas.",
+  "faits": [
+    {
+      "fait": "Selon Ifremer, la part des volumes de poisson débarqués en France issue de populations exploitées durablement est passée de 18 % en 2000 à 58 % en 2023.",
+      "periode": "2000-2023",
+      "perimetre": "France hexagonale",
+      "explication": "Les quotas ont permis de reconstituer une partie des stocks dont dépendent les pêcheurs.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "58 %"
+    },
+    {
+      "fait": "Selon Ifremer, les quotas sont proposés par la Commission européenne et décidés par le Conseil des ministres de la pêche des États membres, où siège la France.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "Ce n'est pas « Bruxelles » seule qui décide.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La France produit 477 000 tonnes en 2024 et reste le deuxième producteur de l'Union européenne après l'Espagne.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La pêche française n'est pas morte.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "477 000 t"
+    },
+    {
+      "fait": "Avant le Brexit, les eaux britanniques fournissaient près de 30 % des captures françaises ; l'accord avec le Royaume-Uni transfère 25 % des quotas de l'UE aux Britanniques d'ici juin 2026, et le plan de sortie de flotte a retiré 95 navires.",
+      "periode": "2020-2026",
+      "perimetre": "France",
+      "explication": "Le Brexit, voulu par les souverainistes britanniques, a durement frappé les pêcheurs français.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "30 %"
+    },
+    {
+      "fait": "Fait défavorable : la flotte a perdu près de 35 % de ses navires depuis 2000, le nombre de marins a baissé de 16 % depuis 2013, et le gazole pèse plus de la moitié du chiffre d'affaires d'un navire.",
+      "periode": "2000-2024",
+      "perimetre": "France",
+      "explication": "Les difficultés sont réelles et graves ; elles ont plusieurs causes.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "-35 %"
+    },
+    {
+      "fait": "Fait défavorable : l'amélioration des stocks stagne depuis 2016, plusieurs populations restent effondrées, et les débarquements sont tombés à 323 000 t en 2023 contre environ 400 000 t par an en 2010-2018 ; des députés jugent aussi trop rigides les règles européennes de capacité.",
+      "periode": "2010-2023",
+      "perimetre": "France hexagonale",
+      "explication": "La politique européenne n'est pas parfaite et peut être critiquée.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "323 000 t"
+    }
+  ],
+  "argumentaires": {
+    "court": "La pêche française souffre : 35 % de navires en moins depuis 2000, le Brexit et le gazole. Mais elle reste deuxième de l'UE, et grâce aux quotas, la part du poisson pêché dans des stocks durables est passée de 18 % à 58 %. Sans quotas, il n'y aurait plus de poisson.",
+    "moyen": "Les difficultés des pêcheurs sont réelles : la flotte a perdu près de 35 % de ses navires depuis 2000, le gazole a flambé, et le Brexit a coupé l'accès à des eaux qui fournissaient près de 30 % des captures. Mais la France produit encore 477 000 tonnes et reste le deuxième pêcheur de l'Union.\n\nLes quotas ne sont pas imposés par « Bruxelles » seule : ils sont votés par les ministres des États, dont la France. Ils ont permis de faire passer de 18 % à 58 % la part du poisson débarqué issue de stocks en bonne santé. Sans eux, la surpêche aurait vidé la mer, et les pêcheurs avec.",
+    "detaille": "La pêche française traverse une crise. Entre 2000 et 2024, la flotte est passée à environ 5 350 navires, près de 35 % de moins. Le nombre de marins a baissé de 16 % depuis 2013, les bateaux vieillissent, et le gazole, qui a augmenté de 60 % avec la guerre au Moyen-Orient, pèse plus de la moitié du chiffre d'affaires. Le Brexit a été un choc : les eaux britanniques fournissaient près de 30 % des captures françaises, et l'accord transfère un quart des quotas européens au Royaume-Uni ; 95 navires ont été détruits dans le plan de sortie de flotte.\n\nLes quotas, eux, ont un objectif : ne pas pêcher plus que ce que les poissons peuvent renouveler. Ils sont proposés par la Commission sur avis scientifique, puis votés par les ministres de la pêche des États membres, dont la France. Leurs effets sont mesurés par l'Ifremer : la part du poisson débarqué issue de populations exploitées durablement est passée de 18 % en 2000 à 58 % en 2023. Sans cette politique, des espèces comme la sole ou le merlu auraient pu s'effondrer, comme la morue en Manche Ouest.\n\nLa politique commune n'est pas pour autant parfaite : l'amélioration stagne depuis 2016, plusieurs stocks restent effondrés, et des députés jugent trop rigides les règles européennes sur les aides et la capacité des navires. Mais accuser les quotas, c'est se tromper de cible. Les vraies menaces sont la surpêche industrielle, le Brexit, le prix du carburant et le réchauffement des océans. Défendre les pêcheurs, c'est les aider à moderniser leurs bateaux, garantir des prix justes et protéger les stocks dont leur métier dépend.",
+    "empathie": "Les ports qui se vident et les pêcheurs qui jettent l'éponge, c'est un crève-cœur pour beaucoup de régions. Cette colère mérite qu'on regarde toutes les causes, pas une seule."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Sans les quotas, on pourrait pêcher autant qu'on veut.",
+      "reponse": "Pendant un temps seulement : en 2000, seulement 18 % du poisson débarqué venait de stocks en bonne santé. Sans limite, les stocks s'effondrent, comme la morue en Manche Ouest."
+    },
+    {
+      "objection": "C'est l'Europe qui a tué nos ports.",
+      "reponse": "Le Brexit, le prix du gazole et le vieillissement des bateaux pèsent lourd ; et les quotas sont votés par les ministres des États, dont la France."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les quotas sont votés par les ministres de la pêche des États, dont la France ?",
+    "Si on pêche plus que ce que la mer renouvelle, que restera-t-il aux pêcheurs dans dix ans ?"
+  ],
+  "limites": [
+    "Les chiffres de la flotte diffèrent selon les sources (5 352 ou 5 864 navires), selon le périmètre.",
+    "Le bilan Ifremer sur l'année 2024 n'a pas pu être lu ; les données de stocks portent sur 2023.",
+    "Le rapport de l'Assemblée nationale contient un chiffre sur les stocks effondrés incohérent avec l'Ifremer, non repris."
+  ],
+  "sources": [
+    {
+      "titre": "Bilan 2024 de l'état des populations de poissons pêchés en France hexagonale (communiqué)",
+      "organisme": "Ifremer",
+      "date_publication": "26 février 2025",
+      "url": "https://www.ifremer.fr/sites/default/files/2025-02/cp_commentvontlespoissons2025_0.pdf",
+      "passage": "« 58 % des volumes de poissons débarqués en 2023 proviennent de populations exploitées durablement » ; 19 % de populations surpêchées et 2 % de populations effondrées. La progression est faible depuis plusieurs années, après une nette amélioration entre 2008 et 2016. Les débarquements tombent à 323 000 t en 2023, contre 346 000 t en 2022 et environ 400 000 t par an entre 2010 et 2018. L'objectif de la politique commune de la pêche est de « 100 % des populations pêchées au niveau du rendement maximum durable (RMD) ».",
+      "pertinence": "Institut public de recherche sur la mer.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bilan 2023 de l'état des populations de poissons pêchés en France hexagonale (communiqué)",
+      "organisme": "Ifremer",
+      "date_publication": "13 février 2024",
+      "url": "https://www.ifremer.fr/sites/default/files/2024-02/cp_commentvontlespoissons_2024.pdf",
+      "passage": "56 % des volumes débarqués en 2022 sont issus de populations exploitées durablement ; cette part était de 18 % en 2000 et dépasse 50 % depuis 2017. L'Ifremer « n'intervient pas dans les décisions de quotas » : la Commission européenne les propose et le Conseil des ministres de la pêche des États membres les décide.",
+      "pertinence": "Institut public de recherche sur la mer.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information n° 2535 sur l'avenir de la politique commune de la pêche",
+      "organisme": "Assemblée nationale, commission des affaires européennes (D. Girard, L. Tanguy)",
+      "date_publication": "25 février 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L17B2535.html",
+      "passage": "Avant le Brexit, les eaux britanniques représentaient près de 30 % des captures françaises ; l'accord de commerce et de coopération transfère 25 % des quotas de l'UE au Royaume-Uni d'ici juin 2026. La France compte 5 864 navires, 10,5 % de la flotte de l'UE. Le rapport cite l'Ifremer : 58 % des volumes durables en 2023, contre 38 % en 2015 et 18 % en 2000. Les rapporteurs jugent trop strictes les règles européennes de capacité et d'aides, et qualifient le coût du carburant d'« enjeu majeur ».",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La pêche française, un géant européen malmené",
+      "organisme": "ID l'Info durable (dépêche AFP)",
+      "date_publication": "18 juin 2026",
+      "url": "https://www.linfodurable.fr/la-peche-francaise-un-geant-europeen-malmene-57039",
+      "passage": "Flotte : 5 352 navires en 2024, une baisse de près de 35 % depuis 2000 ; âge moyen d'environ 30 ans ; 87 % des navires mesurent moins de 12 m. Moins de 12 000 emplois embarqués en 2024, en baisse de 16 % depuis 2013. Brexit : 86 navires envoyés à la casse. Le gazole a augmenté de 60 % depuis le début de la guerre au Moyen-Orient et pèse plus de la moitié du chiffre d'affaires d'un navire. Production : 477 000 t en 2024 (+1 %), deuxième producteur de l'UE après l'Espagne.",
+      "pertinence": "Dépêche d'agence de presse.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 05719 sur le plan de sortie de flotte et réponse du ministère",
+      "organisme": "Sénat",
+      "date_publication": "question du 9 mars 2023, réponse du 13 avril 2023",
+      "url": "https://www.senat.fr/questions/base/2023/qSEQ230305719.html",
+      "passage": "Le plan de sortie de flotte consécutif au Brexit a été annoncé en novembre 2021, avec « entre 60 et 100 millions d'euros ». Sur 164 dossiers déposés, 123 étaient éligibles et 95 navires ont été retenus, sur 2 850 navires actifs en Atlantique-Manche.",
+      "pertinence": "Question parlementaire et réponse ministérielle.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Bilan Ifremer annuel de l'état des populations pêchées.",
+  "objections_legitimes": [
+    "La flotte et le nombre de marins ont fortement baissé.",
+    "Certaines règles européennes sur les aides et la capacité des navires sont jugées trop rigides, y compris par des députés.",
+    "L'amélioration des stocks stagne depuis 2016."
+  ],
+  "publics": {
+    "convaincus": "Les pêcheurs souffrent, c'est vrai : moins de bateaux, le gazole hors de prix, et le Brexit qui leur a fermé 30 % de leurs zones. Mais les quotas sont votés par nos ministres, et ils ont fait passer de 18 % à 58 % le poisson pêché dans des stocks en bonne santé. Sans eux, il n'y aurait plus rien à pêcher.",
+    "indecis": "La crise de la pêche est réelle et a plusieurs causes : Brexit, carburant, vieillissement des bateaux. Les quotas protègent les stocks de poissons dont dépend le métier, et leur effet est mesurable. On peut critiquer certaines règles européennes sans jeter la protection des stocks."
+  },
+  "repond_a": [
+    {
+      "id": "peche_q1217",
+      "label": "Pêche et quotas"
+    },
+    {
+      "id": "europe_q1217_peche",
+      "label": "Pêche et quotas"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "bruxelles",
+    "union europeenne",
+    "surpeche"
+  ],
+  "concepts": [
+    "europe",
+    "peche"
+  ]
+}

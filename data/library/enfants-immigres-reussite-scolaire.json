@@ -1,0 +1,221 @@
+{
+  "id": "enfants-immigres-reussite-scolaire",
+  "type": "idee_recue",
+  "affirmation": "Les enfants d'immigrés échouent à l'école à cause de leur culture.",
+  "volet": "immigration",
+  "sous_theme": "Intégration",
+  "rubriques": [],
+  "mots_cles": [
+    "enfants d immigres ecole",
+    "echec scolaire immigres",
+    "enfants d immigres echouent",
+    "reussite scolaire immigres",
+    "culture echec scolaire",
+    "descendants d immigres diplomes",
+    "immigres niveau scolaire",
+    "eleves issus de l immigration"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Il existe des écarts bruts, mais ils s'expliquent surtout par le milieu social et le diplôme des parents. À milieu social comparable, ils se réduisent fortement et disparaissent souvent ; les filles d'immigrés réussissent même mieux au bac. Le niveau d'études progresse très vite d'une génération à l'autre : de 1 immigré sur 20 diplômé du supérieur à près d'un tiers de leurs enfants. Les familles immigrées ont aussi plus d'ambitions scolaires que la moyenne.",
+  "contexte": "L'idée que certaines « cultures » seraient incompatibles avec la réussite scolaire revient souvent dans les débats sur l'école et l'immigration.",
+  "explication": "Il faut comparer les élèves à milieu social égal, suivre les diplômes sur plusieurs générations et regarder ce que disent les grandes enquêtes (Ined, Insee, DEPP, OCDE).",
+  "faits": [
+    {
+      "fait": "La part de diplômés du supérieur passe d'environ 1 sur 20 chez les immigrés à près d'un tiers chez leurs enfants nés en France ; plus de 70 % des enfants d'immigrés sont plus diplômés que leurs parents.",
+      "periode": "2019-2020",
+      "perimetre": "France",
+      "explication": "La progression scolaire d'une génération à l'autre est massive.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Parmi les adultes de 30 à 64 ans, 38 % des descendants d'immigrés ont un diplôme du supérieur, contre 41 % des personnes sans ascendance migratoire ; 62 % pour ceux d'origine asiatique et 44 % pour ceux d'Afrique hors Maghreb.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "L'écart moyen est faible, et certains groupes dépassent la moyenne.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "38 %"
+    },
+    {
+      "fait": "Dans la moyenne des pays de l'OCDE, l'écart en mathématiques passe de 29 points à 15 points à milieu social égal, puis à environ 5 points en tenant compte de la langue parlée à la maison ; en France, le milieu social explique plus de 60 % de l'écart.",
+      "periode": "2022",
+      "perimetre": "OCDE et France",
+      "explication": "C'est l'inégalité sociale, pas l'origine, qui explique l'essentiel des écarts.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "60 %"
+    },
+    {
+      "fait": "À origines sociales comparables, les écarts au bac disparaissent pour les élèves d'origine turque ; l'aspiration au bac atteint 80 à 82 % dans les familles maghrébines, subsahariennes et asiatiques.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Les familles immigrées investissent fortement dans l'école.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "80-82 %"
+    },
+    {
+      "fait": "Chez les filles, la réussite au bac est supérieure à celle des filles sans ascendance migratoire dans presque toutes les origines, à caractéristiques comparables.",
+      "periode": "2008-2009",
+      "perimetre": "France",
+      "explication": "Une « culture » hostile à l'école ne produirait pas de tels résultats.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : à milieu social égal, un désavantage persiste pour les garçons d'origine subsaharienne et maghrébine, surtout au collège ; les chercheurs l'expliquent par l'orientation, les discriminations et la langue, pas par la « culture ».",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Il existe de vrais problèmes à traiter, notamment les orientations subies vers le professionnel.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les écarts existent mais s'expliquent surtout par le milieu social : à origine sociale égale, ils fondent, et les filles d'immigrés réussissent mieux au bac. D'une génération à l'autre, la part de diplômés du supérieur passe de 1 sur 20 à près d'un tiers.",
+    "moyen": "Les enquêtes de l'Ined, de l'Insee et de l'OCDE disent la même chose : les enfants d'immigrés ont en moyenne des résultats un peu plus faibles, mais surtout parce que leurs parents sont plus souvent ouvriers ou peu diplômés. Dans l'OCDE, l'écart en mathématiques passe de 29 à 15 points à milieu social égal, puis à environ 5 points.\n\nLa progression est spectaculaire : 1 immigré sur 20 a un diplôme du supérieur, contre près d'un tiers de leurs enfants nés en France. Les familles immigrées visent le bac plus souvent que la moyenne, et les filles d'immigrés le réussissent mieux. Il reste des difficultés pour certains garçons, liées à l'orientation et aux discriminations.",
+    "detaille": "Il y a bien des écarts bruts : les descendants d'immigrés ont un peu moins souvent le bac, et 18 % des 30-64 ans n'ont aucun diplôme ou seulement le brevet, contre 15 % des autres. Mais la première explication est sociale. Les enfants d'immigrés grandissent plus souvent dans des familles ouvrières, aux parents peu diplômés : dans l'OCDE, 37 % des élèves issus de l'immigration sont défavorisés, contre 22 % des autres. À milieu social égal, l'écart en mathématiques est divisé par deux, et en France le milieu social explique à lui seul plus de 60 % de l'écart.\n\nLes trajectoires sur trois générations contredisent l'idée d'un blocage culturel. Dans les familles du Maghreb et d'Europe du Sud, moins de 3 % des parents ont un diplôme du supérieur, contre plus d'un tiers de leurs enfants. Les descendants d'immigrés asiatiques sont 62 % diplômés du supérieur, ceux d'Afrique hors Maghreb 44 %, plus que la moyenne. Les familles maghrébines, subsahariennes et asiatiques visent le bac pour 80 à 82 % de leurs enfants, et les filles d'immigrés le réussissent mieux que les autres.\n\nIl serait malhonnête de dire que tout va bien : certains garçons d'origine africaine ou maghrébine gardent un désavantage, surtout au collège, et beaucoup subissent une orientation vers le professionnel qu'ils n'ont pas choisie. Les chercheurs pointent l'orientation, les discriminations et la ségrégation scolaire. Ce sont des leviers politiques ; la « culture » est une explication qui dispense d'agir.",
+    "empathie": "On peut s'inquiéter du niveau de l'école et des difficultés de certains quartiers. Ces difficultés sont réelles ; la question est de savoir d'où elles viennent vraiment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les Asiatiques réussissent, donc c'est culturel.",
+      "reponse": "Les mêmes enquêtes montrent que les enfants d'immigrés africains réussissent aussi mieux que la moyenne dans le supérieur, et que les familles maghrébines visent le bac plus que les autres : on ne peut pas trier les « bonnes » et « mauvaises » cultures."
+    },
+    {
+      "objection": "Dans les écoles de banlieue, le niveau s'effondre.",
+      "reponse": "Le problème, c'est la concentration de la pauvreté dans certaines écoles : à milieu social égal, l'origine pèse beaucoup moins."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'à milieu social égal, les filles d'immigrés réussissent mieux le bac que les autres ?",
+    "Si c'était une question de culture, comment expliquer que les enfants soient dix fois plus diplômés que leurs parents ?"
+  ],
+  "limites": [
+    "L'enquête TeO1 date de 2008-2009 ; la cohorte DEPP a été publiée en 2019.",
+    "Les données Insee portent sur des adultes, celles de la DEPP et de l'OCDE sur des élèves.",
+    "Les catégories (« d'origine maghrébine »…) sont des regroupements statistiques qui masquent de grandes différences."
+  ],
+  "sources": [
+    {
+      "titre": "Familles immigrées : le niveau d'éducation progresse sur trois générations mais les inégalités sociales persistent (Population & Sociétés n° 602)",
+      "organisme": "Ined (C. Beauchemin, M. Ichou, P. Simon et l'équipe TeO2)",
+      "date_publication": "juillet-août 2022 (version corrigée le 20 février 2023)",
+      "url": "https://www.ined.fr/fr/publications/editions/population-et-societes/familles-immigrees-le-niveau-d-education-progresse-sur-trois-generations-mais-les-inegalites-sociales-persistent/",
+      "passage": "Enquête Trajectoires et Origines 2 (2019-2020). La part de diplômés du supérieur passe d'environ 1 sur 20 chez les immigrés à près d'un tiers chez leurs enfants nés en France, contre 43 % pour les personnes dont les parents et grands-parents sont nés en France ; 44 % chez les petits-enfants d'immigrés. Plus de 70 % des enfants d'immigrés sont plus diplômés que leurs parents. Dans les familles du Maghreb et d'Europe du Sud, moins de 3 % des parents ont un diplôme du supérieur, contre plus d'un tiers de leurs enfants ; 50 % chez les enfants d'immigrés africains, 52 % quand les deux parents sont asiatiques ; 18 % pour les familles de Turquie et du Moyen-Orient.",
+      "pertinence": "Grande enquête de la statistique publique (Ined-Insee).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Trajectoires scolaires des enfants d'immigrés jusqu'au baccalauréat : rôle de l'origine et du genre (Éducation & formations n° 100)",
+      "organisme": "Yaël Brinbaum, DEPP (ministère de l'Éducation nationale)",
+      "date_publication": "décembre 2019",
+      "url": "https://education.gouv.fr/media/19952/download",
+      "passage": "« Les secondes générations détiennent moins souvent un baccalauréat que les Français d'origine ». « À origines sociales et familiales comparables », les écarts disparaissent pour les garçons et filles d'origine turque ; les garçons d'origine subsaharienne et, dans une moindre mesure, maghrébine gardent un désavantage, qui disparaît une fois prise en compte l'ambition d'obtenir le bac. L'aspiration au bac est « particulièrement élevée dans les familles immigrées maghrébines, subsahariennes et asiatiques (80-82 %) ». Les descendants d'immigrés sont plus souvent orientés vers la voie professionnelle, souvent sans l'avoir choisi.",
+      "pertinence": "Revue du service statistique du ministère ; suivi d'une cohorte d'élèves.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Performance des élèves et statut au regard de l'immigration (Résultats du PISA 2022, volume I)",
+      "organisme": "OCDE",
+      "date_publication": "page datée du 11 septembre 2025",
+      "url": "https://www.oecd.org/fr/publications/resultats-du-pisa-2022-volume-i_165f1d07-fr/full-report/immigrant-background-and-student-performance_f469d45e",
+      "passage": "En moyenne OCDE, en mathématiques, les élèves non issus de l'immigration ont 29 points d'avance ; l'écart tombe à 15 points après prise en compte du milieu social, puis à environ 5 points en tenant compte aussi de la langue parlée à la maison. Environ 37 % des élèves issus de l'immigration sont défavorisés, contre 22 % des autres. En Espagne, en France, en Grèce, en Norvège et en Suisse, le milieu social explique à lui seul « plus de 60 % de l'écart de performance des élèves lié à l'immigration en mathématiques ».",
+      "pertinence": "Organisation internationale ; enquête PISA.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Niveau de diplôme des immigrés et descendants d'immigrés (Immigrés et descendants d'immigrés, édition 2023)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6793262",
+      "passage": "Enquête Emploi 2021, personnes de 30 à 64 ans : 38 % des descendants d'immigrés ont un diplôme du supérieur, contre 41 % des personnes sans ascendance migratoire ; 18 % n'ont aucun diplôme ou seulement le brevet ou le CEP, contre 15 %. Diplômés du supérieur selon l'origine des parents : Maghreb 36 %, Asie 62 %, Afrique hors Maghreb 44 %, Europe du Sud 34 %, Turquie et Moyen-Orient 35 %. 42 % des femmes descendantes d'immigrés ont un diplôme du supérieur, contre 33 % des hommes.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Dossier de presse « Trajectoires et origines » (TeO1)",
+      "organisme": "Ined",
+      "date_publication": "2015 (embargo jusqu'au 8 janvier 2016)",
+      "url": "https://www.ined.fr/fichier/s_rubrique/24960/dossier_presse_teo.fr.fr.fr.pdf",
+      "passage": "En tenant compte de l'origine sociale et du diplôme des parents, les écarts diminuent mais ne disparaissent pas ; l'échec scolaire relève d'« un cumul de handicaps sociaux ». Le collège est le « moment critique majeur » pour les garçons d'origine extra-européenne. Pour les études supérieures, à caractéristiques comparables, l'origine des parents n'a pas d'effet significatif. Chez les filles, la réussite au bac est supérieure à celle des filles sans ascendance migratoire dans presque toutes les origines.",
+      "pertinence": "Données anciennes (2008-2009).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelles exploitations de TeO2 et résultats PISA 2025.",
+  "objections_legitimes": [
+    "Les écarts bruts de résultats existent.",
+    "Certains garçons gardent un désavantage même à milieu social égal.",
+    "La maîtrise de la langue joue un rôle."
+  ],
+  "publics": {
+    "convaincus": "À milieu social égal, les écarts fondent : c'est la pauvreté, pas l'origine, qui pèse. Les enfants d'immigrés sont dix fois plus souvent diplômés du supérieur que leurs parents, et les filles réussissent mieux le bac que les autres. Une culture « contre l'école » ne donnerait pas ces résultats.",
+    "indecis": "Il y a de vraies difficultés dans certaines écoles, et certains garçons décrochent plus. Mais les grandes enquêtes montrent que l'essentiel vient du milieu social, de l'orientation et de la ségrégation scolaire. C'est là qu'on peut agir, pour tous les enfants."
+  },
+  "repond_a": [
+    {
+      "id": "ecole_immigres_q1217",
+      "label": "Réussite scolaire des enfants d’immigrés"
+    },
+    {
+      "id": "immigration_q1217_ecole_immigres",
+      "label": "Réussite scolaire des enfants d’immigrés"
+    },
+    {
+      "id": "services_publics_q1217_ecole_immigres",
+      "label": "Réussite scolaire des enfants d’immigrés"
+    },
+    {
+      "id": "islam_q1217_ecole_immigres",
+      "label": "Réussite scolaire des enfants d’immigrés"
+    },
+    {
+      "id": "immigration_services_publics_q1217_ecole_immigres",
+      "label": "Réussite scolaire des enfants d’immigrés"
+    },
+    {
+      "id": "immigration_islam_q1217_ecole_immigres",
+      "label": "Réussite scolaire des enfants d’immigrés"
+    },
+    {
+      "id": "services_publics_islam_q1217_ecole_immigres",
+      "label": "Réussite scolaire des enfants d’immigrés"
+    },
+    {
+      "id": "immigration_services_publics_islam_q1217_ecole_immigres",
+      "label": "Réussite scolaire des enfants d’immigrés"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "urgences",
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan"
+  ],
+  "concepts": [
+    "immigration",
+    "services_publics",
+    "ecole_immigres",
+    "islam"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "lfi-revenu-maximum",
+  "type": "idee_recue",
+  "affirmation": "LFI veut confisquer tous les revenus au-dessus d'un plafond avec un impôt à 100 %.",
+  "volet": "politique",
+  "sous_theme": "France insoumise",
+  "rubriques": [],
+  "mots_cles": [
+    "lfi impot 100",
+    "revenu maximum",
+    "lfi confisquer les revenus",
+    "impot a 100 pour cent",
+    "plafonner les revenus",
+    "melenchon 400000 euros",
+    "taux marginal 90",
+    "lfi tranches impot",
+    "heritage maximum",
+    "salaire maximum"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. En 2017, le programme de Jean-Luc Mélenchon a bien été présenté comme un plafonnement des revenus autour de 400 000 € par an (plus de 33 000 € par mois), mais les amendements déposés prévoyaient un taux de 90 % sur la part au-delà de ce seuil. Le programme actuel prévoit 14 tranches d'impôt, un héritage maximal de 12 millions d'euros et un écart de salaires de 1 à 20 dans les entreprises. Un taux marginal ne touche que la fraction qui dépasse le seuil, et ne concerne qu'une infime minorité.",
+  "contexte": "L'idée que la France insoumise veut « tout prendre » aux contribuables revient à chaque campagne, souvent en confondant taux marginal et taux moyen, ou revenu et héritage.",
+  "explication": "Il faut lire le programme actuel, les amendements déposés, les chiffrages critiques, et rappeler comment fonctionne un taux marginal.",
+  "faits": [
+    {
+      "fait": "Le programme L'Avenir en commun propose un impôt sur le revenu à 14 tranches, un héritage maximal de 12 millions d'euros et un écart de salaires limité de 1 à 20 dans une entreprise ; la page lue ne mentionne pas de taux de 100 % sur les revenus.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le programme actuel parle de progressivité, pas de confiscation des revenus.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "14 tranches"
+    },
+    {
+      "fait": "En 2017, les députés LFI ont proposé un barème allant jusqu'à 90 % pour la fraction des revenus supérieure à 400 000 € par an.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Le taux le plus élevé s'appliquait à la part au-delà de 400 000 €, pas à tout le revenu.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "90 %"
+    },
+    {
+      "fait": "Fait défavorable : l'Institut Montaigne a lu le programme de 2017 comme un « plafonnement des revenus à 400 000 euros annuels », c'est-à-dire un revenu maximum de fait.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "L'idée d'un revenu maximum a bien existé dans le débat de 2017 ; il faut le reconnaître.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une simulation de l'Institut Montaigne, un taux de 65 % au-delà d'environ 158 000 € par part toucherait 0,2 % des contribuables.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les tranches les plus hautes concernent une toute petite minorité.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "0,2 %"
+    },
+    {
+      "fait": "Dans le chiffrage du programme du Nouveau Front populaire (2024), le taux marginal maximal est de 70 % au-delà de 400 000 € nets par an, soit 33 000 € nets par mois ; l'impôt n'augmente que pour 2 à 10 % des plus hauts revenus.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les classes moyennes ne sont pas visées.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "70 %"
+    },
+    {
+      "fait": "Selon Tax Policy Center, aux États-Unis, le taux marginal maximal de l'impôt fédéral sur le revenu a été de 91 à 94 % entre 1944 et 1963.",
+      "periode": "1944-1963",
+      "perimetre": "États-Unis",
+      "explication": "Des taux très élevés sur les très hauts revenus ont existé dans des démocraties prospères.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "91 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : un taux marginal ne s'applique qu'à la part du revenu qui dépasse le seuil. En 2017, LFI proposait 90 % au-delà de 400 000 € par an, soit plus de 33 000 € par mois. Le programme actuel prévoit 14 tranches et un héritage maximal de 12 millions d'euros.",
+    "moyen": "Le programme actuel de LFI prévoit un impôt sur le revenu à 14 tranches au lieu de 5, un héritage maximal de 12 millions d'euros et un écart de salaires limité de 1 à 20 dans une entreprise. En 2017, les députés LFI proposaient un taux de 90 % sur la part des revenus au-delà de 400 000 € par an ; certains l'ont présenté comme un « plafonnement des revenus ».\n\nUn taux marginal ne confisque pas tout le revenu : il ne touche que ce qui dépasse le seuil, ici plus de 33 000 € par mois. Ces tranches concernent une infime minorité. Aux États-Unis, le taux maximal a dépassé 90 % de 1944 à 1963.",
+    "detaille": "Il faut d'abord comprendre le mot « marginal ». Avec un barème progressif, chaque taux ne s'applique qu'à la tranche de revenu correspondante. Un taux de 90 % au-delà de 400 000 € par an signifie que, sur un revenu de 500 000 €, seuls les 100 000 € au-dessus du seuil sont taxés à ce niveau : le reste suit le barème normal. Personne ne perd l'intégralité de ses revenus.\n\nQue propose LFI ? En 2017, ses députés ont déposé un barème à 14 tranches allant jusqu'à 90 % pour la part au-delà de 400 000 € par an. L'Institut Montaigne l'a lu comme un plafonnement des revenus à 400 000 €, et CNN a parlé en 2017 d'un impôt à 100 % au-delà de 400 000 € : l'idée d'un revenu maximum a donc bien circulé. Le programme actuel, mis à jour en 2026, prévoit 14 tranches, un héritage maximal de 12 millions d'euros et un écart de salaires limité de 1 à 20 dans chaque entreprise. Le chiffrage du programme du Nouveau Front populaire en 2024 retenait un taux maximal de 70 % au-delà de 400 000 € nets par an.\n\nQui serait concerné ? Une petite minorité : 400 000 € par an, c'est plus de 33 000 € par mois. Selon une simulation de l'Institut Montaigne, même un taux de 65 % au-delà d'environ 158 000 € par part ne toucherait que 0,2 % des contribuables. On peut juger ces taux trop élevés, et les économistes libéraux craignent des effets sur l'investissement. Mais les États-Unis ont connu un taux maximal de 91 % dans les années 1950, en pleine prospérité. Le débat porte sur la place des très hauts revenus, pas sur une confiscation générale.",
+    "empathie": "On peut craindre qu'un gouvernement de gauche s'en prenne à ce qu'on a gagné en travaillant. C'est une inquiétude légitime, qui mérite qu'on lise précisément les propositions."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est de la confiscation.",
+      "reponse": "Le taux ne s'applique qu'à la part au-delà de 400 000 € par an, soit plus de 33 000 € par mois : 99,9 % des gens ne sont pas concernés par cette tranche."
+    },
+    {
+      "objection": "Les riches vont tous partir.",
+      "reponse": "Les États-Unis ont eu un taux maximal supérieur à 90 % pendant vingt ans sans fuite massive ; et les départs pour raisons fiscales restent rares selon les études."
+    }
+  ],
+  "questions": [
+    "Sais-tu ce qu'est un taux marginal, et à quelle part du revenu il s'applique ?",
+    "À partir de combien par mois trouverais-tu normal qu'on contribue davantage ?"
+  ],
+  "limites": [
+    "Le texte du programme de 2017 n'a pas pu être ouvert ; le seuil de « 20 fois le revenu médian » parfois cité n'a pas été vérifié.",
+    "Le barème exact des 14 tranches du programme actuel n'a pas été lu en détail.",
+    "Les chiffrages de l'Institut Montaigne et de La Grande Conversation reposent sur des hypothèses différentes."
+  ],
+  "sources": [
+    {
+      "titre": "L'Avenir en commun, chapitre 2 : Partager les richesses",
+      "organisme": "La France insoumise (site melenchon2027.fr)",
+      "date_publication": "page mise à jour le 7 novembre 2026",
+      "url": "https://melenchon2027.fr/?p=26643",
+      "passage": "Le programme propose un impôt sur le revenu avec « un barème à 14 tranches contre 5 aujourd'hui », de « créer un héritage maximal de 12 millions d'euros » et un « salaire maximal autorisé » limitant l'écart de 1 à 20 dans une entreprise. La page lue ne mentionne ni « revenu maximum » ni taux de 100 % sur les revenus.",
+      "pertinence": "Programme officiel du parti.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Amendement n° II-1534 au projet de loi de finances pour 2018",
+      "organisme": "Assemblée nationale",
+      "date_publication": "10 novembre 2017",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/amendements/0235C/AN/1534.pdf",
+      "passage": "L'amendement crée 14 tranches d'impôt sur le revenu, avec des taux de 1 % à 90 %, dont « 90 % pour la fraction supérieure à 400 000 € ». Exposé sommaire : « Nous souhaitons à cet effet introduire 14 tranches d'imposition contre 5 aujourd'hui », en référence au programme L'Avenir en commun.",
+      "pertinence": "Document parlementaire officiel ; amendement déposé par des députés La France insoumise.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Présidentielle 2017 : synthèse du chiffrage du programme de Jean-Luc Mélenchon",
+      "organisme": "Institut Montaigne",
+      "date_publication": "2017",
+      "url": "https://www.institutmontaigne.org/presidentielle-2017/candidats/jean-luc-melenchon/synthese",
+      "passage": "« Le plafonnement des revenus à 400 000 euros annuels n'aura pas d'influence sur le rendement de l'impôt », car « cela provoquera la disparition de revenus supérieurs à 400 000 euros ». L'institut note que des revenus du capital pourraient être logés dans des holdings.",
+      "pertinence": "Laboratoire d'idées libéral, critique du programme.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "France's Melenchon would tax the rich (article sur la fiscalité du programme de Jean-Luc Mélenchon)",
+      "organisme": "CNN Money",
+      "date_publication": "avril 2017",
+      "url": "https://money.cnn.com/2017/04/18/news/economy/france-tax-rich-election-melenchon/",
+      "passage": "Selon l'article, Jean-Luc Mélenchon « would introduce a 100% tax on income above €400,000 ($425,000) », seuil présenté comme « 20 times higher than France's average wage ». L'article ne donne pas le nombre de personnes concernées.",
+      "pertinence": "Média économique américain ; contredit les documents parlementaires français, qui parlent de 90 %.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rendre l'impôt sur le revenu plus progressif avec un barème à 14 tranches",
+      "organisme": "Institut Montaigne",
+      "date_publication": "page modifiée le 14 février 2022",
+      "url": "https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/rendre-limpot-sur-le-revenu-plus-progressif-avec-un-bareme-a-14-tranches",
+      "passage": "Faute de barème publié en 2022, l'institut simule un taux marginal de 65 % au-delà de 157 806 € par an et par part : 65 615 foyers concernés, soit 0,2 % des contribuables (données 2019) ; gain estimé de 4,7 milliards d'euros par an. « Un accroissement des impôts toutes choses égales par ailleurs nuit mécaniquement à la croissance économique ».",
+      "pertinence": "Laboratoire d'idées libéral.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Chiffrage des recettes fiscales du programme du Nouveau Front Populaire",
+      "organisme": "La Grande Conversation (L. Chancel, A.-L. Delatte, É. Huillery)",
+      "date_publication": "21 juin 2024",
+      "url": "https://www.lagrandeconversation.com/app/uploads/2024/06/chiffrage-des-recettes-fiscales-du-programme-du-nouveau-front-populaire-la-grande-conversation.pdf",
+      "passage": "La réforme de l'impôt sur le revenu à 14 tranches retient un taux marginal maximal « jusqu'à 70% au-delà de 400,000 euros nets par an », soit 33 000 € nets par mois pour une personne seule. L'impôt n'augmente que pour « 2% à 10 % des plus hauts revenus ». Les auteurs reconnaissent que le chiffrage reste « approximatif ».",
+      "pertinence": "Chiffrage par des économistes (dont certains proches de la gauche).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Historical Highest Marginal Income Tax Rates",
+      "organisme": "Tax Policy Center (Urban-Brookings)",
+      "date_publication": "29 septembre 2026",
+      "url": "https://taxpolicycenter.org/sites/default/files/2026-09/toprate_historical.pdf",
+      "passage": "Taux marginal fédéral maximal de l'impôt sur le revenu aux États-Unis : 94 % en 1944 et 1945 ; 91 % en 1951, 1954, 1960 et 1963 ; 92 % en 1952-1953 ; 77 % en 1964 ; 70 % en 1965.",
+      "pertinence": "Centre de recherche fiscale américain.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Programme présidentiel 2027 et éventuel barème détaillé.",
+  "objections_legitimes": [
+    "L'idée d'un revenu maximum a bien circulé en 2017.",
+    "Des taux marginaux de 70 à 90 % sont très élevés et peuvent avoir des effets sur les comportements.",
+    "Le programme actuel prévoit bien un héritage maximal."
+  ],
+  "publics": {
+    "convaincus": "Un taux marginal ne prend pas tout ton revenu : il ne touche que ce qui dépasse le seuil, ici plus de 33 000 € par mois. Le programme actuel parle de 14 tranches et d'un héritage maximal de 12 millions. Si tu gagnes moins que ça, cette tranche ne te concerne pas.",
+    "indecis": "L'idée d'un plafond a bien circulé en 2017, et on peut trouver ces taux trop élevés. Mais ils ne visent que la part des revenus au-delà de 400 000 € par an, soit une infime minorité. Aux États-Unis, des taux supérieurs à 90 % ont existé pendant vingt ans."
+  },
+  "repond_a": [
+    {
+      "id": "revenu_max_q1217",
+      "label": "Revenu maximum et taux marginal"
+    },
+    {
+      "id": "fiscalite_q1217_revenu_max",
+      "label": "Revenu maximum et taux marginal"
+    },
+    {
+      "id": "melenchon_lfi_q1217_revenu_max",
+      "label": "Revenu maximum et taux marginal"
+    },
+    {
+      "id": "gauche_q1217_revenu_max",
+      "label": "Revenu maximum et taux marginal"
+    },
+    {
+      "id": "fiscalite_melenchon_lfi_q1217_revenu_max",
+      "label": "Revenu maximum et taux marginal"
+    },
+    {
+      "id": "fiscalite_gauche_q1217_revenu_max",
+      "label": "Revenu maximum et taux marginal"
+    },
+    {
+      "id": "melenchon_lfi_gauche_q1217_revenu_max",
+      "label": "Revenu maximum et taux marginal"
+    },
+    {
+      "id": "fiscalite_melenchon_lfi_gauche_q1217_revenu_max",
+      "label": "Revenu maximum et taux marginal"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "taxer",
+    "isf",
+    "tva"
+  ],
+  "concepts": [
+    "salaires",
+    "fiscalite",
+    "melenchon_lfi",
+    "gauche",
+    "heritage",
+    "revenu_max"
+  ]
+}

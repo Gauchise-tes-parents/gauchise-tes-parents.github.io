@@ -1,0 +1,173 @@
+{
+  "id": "antennes-5g-sante",
+  "type": "idee_recue",
+  "affirmation": "La 5G est dangereuse pour la santé.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "5g dangereuse",
+    "5g sante",
+    "antennes 5g",
+    "5g cancer",
+    "ondes 5g",
+    "5g covid",
+    "danger des ondes",
+    "antenne relais sante",
+    "electrosensibilite"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux en l'état des connaissances. L'Anses juge « peu probable » un risque nouveau lié à la 5G dans les fréquences utilisées en France, et l'a confirmé en 2022. Les mesures de l'Agence nationale des fréquences montrent une exposition médiane de 0,48 V/m, très loin des limites (28 à 87 V/m). Une grande revue commandée par l'OMS ne trouve pas de lien entre téléphone portable et cancer du cerveau. Restent des limites : les radiofréquences sont classées « peut-être cancérogènes » depuis 2011 et les données manquent pour la bande 26 GHz, non utilisée en France.",
+  "contexte": "Depuis son déploiement en 2020, la 5G a fait l'objet de nombreuses rumeurs, jusqu'à être accusée de propager le Covid. Des élus avaient demandé un moratoire.",
+  "explication": "Il faut regarder les avis de l'agence sanitaire, les mesures réelles d'exposition et les grandes revues scientifiques sur les ondes.",
+  "faits": [
+    {
+      "fait": "Selon l'Anses (2021), il est peu probable que la 5G dans la bande 3,5 GHz présente de nouveaux risques ; pour les bandes de 700 MHz à 2,1 GHz, aucune preuve d'effet sanitaire n'a été trouvée.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "L'agence sanitaire ne relève pas de danger nouveau dans les fréquences utilisées.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Siècle Digital, en 2022, l'Anses a confirmé ces conclusions : l'exposition est comparable ou légèrement supérieure à celle de la 3G et de la 4G.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les données nouvelles n'ont pas changé l'évaluation.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Agence nationale des fréquences, en 2024, l'exposition médiane mesurée par l'ANFR est de 0,48 V/m, alors que les limites réglementaires vont de 28 à 87 V/m ; 3,8 % des mesures dépassent 6 V/m.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "L'exposition réelle est très inférieure aux limites.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "0,48 V/m"
+    },
+    {
+      "fait": "Selon Caducée.net, une revue commandée par l'OMS, portant sur plus de 5 000 publications, ne trouve aucun lien concluant entre l'usage du téléphone portable et le cancer du cerveau.",
+      "periode": "2024",
+      "perimetre": "International",
+      "explication": "La principale peur liée aux ondes n'est pas confirmée.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : depuis 2011, le Centre international de recherche sur le cancer classe les radiofréquences « peut-être cancérogènes » (groupe 2B), et les données sont insuffisantes pour la bande 26 GHz.",
+      "periode": "2011-2022",
+      "perimetre": "International",
+      "explication": "La prudence et la recherche restent justifiées, sans que cela prouve un danger.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "L'Anses juge « peu probable » un risque nouveau lié à la 5G dans les fréquences utilisées en France. L'exposition mesurée est en moyenne des dizaines de fois sous les limites. Les chercheurs continuent à suivre la question, notamment pour une bande non utilisée en France.",
+    "moyen": "L'agence sanitaire française, l'Anses, a examiné la 5G en 2021 puis en 2022 : pas de risque nouveau au vu des données disponibles pour les fréquences utilisées. Les mesures de l'Agence nationale des fréquences donnent une exposition médiane de 0,48 V/m, alors que les limites vont de 28 à 87 V/m.\n\nUne grande revue commandée par l'OMS ne trouve pas de lien entre téléphone portable et cancer du cerveau. Deux limites honnêtes : les radiofréquences restent classées « peut-être cancérogènes » depuis 2011, et les données manquent pour la bande 26 GHz, non déployée en France.",
+    "detaille": "La 5G utilise des ondes radio proches de celles de la 4G, dans les bandes de 700 MHz, 2,1 GHz et 3,5 GHz. L'Anses, chargée d'évaluer les risques sanitaires, a publié son expertise en 2021 : aucune preuve d'effet sanitaire dans les bandes déjà utilisées, et un nouveau risque « peu probable » à 3,5 GHz. Elle l'a confirmé en 2022 après de nouvelles données. Pour la bande 26 GHz, elle estime ne pas pouvoir conclure, faute d'études ; cette bande n'est pas utilisée en France pour la 5G.\n\nLes mesures sur le terrain sont rassurantes. En 2024, l'Agence nationale des fréquences a réalisé 2 373 mesures : l'exposition médiane est de 0,48 V/m, quand les limites vont de 28 à 87 V/m selon la fréquence. Quelques points dépassent 6 V/m et sont suivis. Une revue commandée par l'OMS sur plus de 5 000 publications ne trouve aucun lien concluant entre l'usage du portable et le cancer du cerveau.\n\nLa prudence garde sa place : le Centre international de recherche sur le cancer classe depuis 2011 les radiofréquences « peut-être cancérogènes », une catégorie qui signale des preuves limitées. Les personnes qui se disent électrosensibles souffrent réellement, même si aucun lien avec les ondes n'a été démontré. On peut critiquer la 5G pour d'autres raisons, comme la consommation d'énergie ou le renouvellement des téléphones ; mais la présenter comme un danger sanitaire avéré est faux, et sert souvent de porte d'entrée à des théories du complot.",
+    "empathie": "On peut se méfier d'une technologie imposée sans débat, surtout quand on ne voit pas les ondes. Cette méfiance mérite des réponses claires plutôt que du mépris."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On ne connaît pas les effets à long terme.",
+      "reponse": "C'est vrai pour la 5G récente, et la recherche continue ; mais les bandes utilisées sont proches de celles étudiées depuis des décennies, et l'exposition mesurée est très faible."
+    },
+    {
+      "objection": "Les agences sont payées par les opérateurs.",
+      "reponse": "L'Anses et l'ANFR sont des établissements publics ; leurs mesures sont publiques et l'Anses a reconnu qu'elle ne pouvait pas conclure pour la bande 26 GHz."
+    }
+  ],
+  "questions": [
+    "Sais-tu quel niveau d'exposition l'Agence nationale des fréquences mesure en moyenne, comparé aux limites légales ?",
+    "Si on veut critiquer la 5G, n'y a-t-il pas de meilleurs arguments, comme l'énergie ou le gaspillage de téléphones ?"
+  ],
+  "limites": [
+    "L'actualisation de l'Anses en 2022 a été lue à travers un média spécialisé.",
+    "La revue de l'OMS a été lue à travers un site d'information médicale.",
+    "Le classement du CIRC date de 2011 ; une éventuelle réévaluation n'a pas été vérifiée."
+  ],
+  "sources": [
+    {
+      "titre": "5G : pas de risques nouveaux pour la santé au vu des données disponibles",
+      "organisme": "Anses",
+      "date_publication": "20 avril 2021",
+      "url": "https://www.anses.fr/fr/content/5g-pas-de-risques-nouveaux-pour-la-sante-au-vu-des-donnees-disponibles",
+      "passage": "Pour la bande 700 MHz–2,1 GHz, les expertises antérieures ne montrent aucune preuve d'effet sanitaire. Pour la bande 3,5 GHz, il est « peu probable que le déploiement de la 5G dans la bande de fréquences autour de 3,5 GHz » présente de nouveaux risques. Pour la bande 26 GHz, « les données ne sont pas suffisantes pour conclure à l'existence ou non d'effets sanitaires ». L'Anses demande de poursuivre la recherche et de suivre les expositions.",
+      "pertinence": "Agence nationale de sécurité sanitaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'Anses confirme que la 5G n'entraînera pas de nouveaux risques pour la santé",
+      "organisme": "Siècle Digital",
+      "date_publication": "18 février 2022",
+      "url": "https://siecledigital.fr/2022/02/18/lanses-confirme-que-la-5g-nentrainera-pas-de-nouveaux-risques-pour-la-sante/",
+      "passage": "L'actualisation de l'Anses du 17 février 2022 indique que les nouvelles données « confortent les conclusions initiales ». L'exposition serait comparable ou légèrement supérieure à celle de la 3G et de la 4G. L'avis sur la bande 26 GHz reste en suspens, faute de données ; cette bande n'est pas exploitée en France pour la 5G.",
+      "pertinence": "Média spécialisé sur le numérique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Analyse des résultats des mesures d'exposition 2024",
+      "organisme": "Agence nationale des fréquences (ANFR)",
+      "date_publication": "juin 2025",
+      "url": "https://www.anfr.fr/fileadmin/user_upload/2025_Analyse_mesures_2024_vf.pdf",
+      "passage": "En 2024, l'ANFR a réalisé 2 373 mesures : niveau médian de 0,48 V/m et moyen de 1,2 V/m ; 68,2 % des niveaux sont sous 1 V/m et 3,8 % dépassent 6 V/m. Les valeurs limites réglementaires vont de 28 à 87 V/m selon la fréquence. La bande 3 600 MHz (5G) est détectée sur 53 % des lieux de mesure.",
+      "pertinence": "Établissement public chargé du contrôle des ondes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Communiqué de presse n° 208 : le CIRC classe les champs électromagnétiques de radiofréquences comme « peut-être cancérogènes pour l'homme »",
+      "organisme": "Centre international de recherche sur le cancer (OMS)",
+      "date_publication": "31 mai 2011",
+      "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr208_F.pdf",
+      "passage": "Les champs de radiofréquences sont classés « peut‐être cancérogènes pour l'homme (Groupe 2B) ». Les preuves sont évaluées « comme étant limitées chez les utilisateurs de téléphones sans fil pour le gliome » et le neurinome de l'acoustique.",
+      "pertinence": "Agence de l'OMS ; classement ancien, toujours en vigueur à notre connaissance.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Cancer du cerveau et téléphones portables : les résultats d'une étude systématique de l'OMS",
+      "organisme": "Caducée.net",
+      "date_publication": "10 septembre 2024",
+      "url": "https://www.caducee.net/actualite-medicale/16410/cancer-du-cerveau-et-telephones-portables-les-resultats-d-une-etude-systematique-de-l-oms.html",
+      "passage": "Revue commandée par l'OMS et publiée dans Environment International : 5 379 publications (1994-2022) analysées, dont 63 en détail. Aucun lien concluant avec le cancer du cerveau, même après un usage prolongé : « les preuves ne suggèrent aucune corrélation entre l'utilisation du téléphone portable et le cancer du cerveau ». Limites : manque d'études à long terme sur la 5G.",
+      "pertinence": "Site d'information médicale.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvel avis de l'Anses (bande 26 GHz) et éventuelle réévaluation du CIRC.",
+  "objections_legitimes": [
+    "Les radiofréquences sont classées « peut-être cancérogènes » depuis 2011.",
+    "Les données manquent pour la bande 26 GHz.",
+    "Le déploiement de la 5G s'est fait sans vrai débat public."
+  ],
+  "publics": {
+    "convaincus": "L'Anses, qui n'hésite pas à alerter sur les pesticides, n'a pas trouvé de risque nouveau avec la 5G dans les fréquences utilisées. L'exposition mesurée est des dizaines de fois sous les limites. On peut critiquer la 5G, mais pas sur ce terrain-là.",
+    "indecis": "C'est normal de se poser des questions sur des ondes qu'on ne voit pas. Les agences publiques ne trouvent pas de risque nouveau, tout en continuant les recherches, notamment pour une bande non utilisée en France. L'exposition réelle reste très faible."
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fou",
+    "cingle",
+    "agressif",
+    "agressive",
+    "autoritaire",
+    "desinformation",
+    "fake news",
+    "manipulation de l information"
+  ],
+  "concepts": [
+    "dangerosite",
+    "desinformation"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "detenus-payer-incarceration",
+  "type": "idee_recue",
+  "affirmation": "Les détenus devraient payer eux-mêmes leurs frais de prison.",
+  "volet": "securite",
+  "sous_theme": "Prisons",
+  "rubriques": [],
+  "mots_cles": [
+    "frais d incarceration",
+    "detenus payer prison",
+    "faire payer les prisonniers",
+    "prisonniers payent leur prison",
+    "cout d un detenu",
+    "darmanin frais d incarceration",
+    "prison payee par les contribuables",
+    "detenus nourris loges"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "C'est un choix politique, défendu notamment par le ministre de la Justice en 2025 et adopté en commission à l'Assemblée. Mais les faits limitent fortement son intérêt : une journée de détention coûte entre 105 et 130 €, alors qu'un détenu sur cinq vit avec moins de 60 € par mois et que moins d'un tiers travaille, payé 20 à 45 % du Smic. Un prélèvement a existé jusqu'en 2003, mais seulement sur les détenus qui travaillaient, plafonné à 30 %.",
+  "contexte": "Avec des prisons surpeuplées et un budget pénitentiaire de plus de 5 milliards d'euros, l'idée de faire payer les détenus revient régulièrement, de la droite à l'extrême droite.",
+  "explication": "Il faut comparer le coût d'une journée de prison avec les ressources réelles des détenus, rappeler ce qui existait avant 2003 et se demander qui paierait en pratique.",
+  "faits": [
+    {
+      "fait": "Une journée de détention coûte 105 € selon la Cour des comptes, 127 € selon le Conseil de l'Europe et 130 € selon l'administration pénitentiaire.",
+      "periode": "2023-2025",
+      "perimetre": "France",
+      "explication": "Aucun détenu ou presque ne pourrait payer une telle somme.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "105 à 130 €"
+    },
+    {
+      "fait": "Selon le ministère de la Justice, une personne détenue sur cinq est indigente, avec moins de 60 € par mois ; moins d'un tiers des détenus travaille, pour 20 à 45 % du Smic.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La plupart des détenus n'ont presque pas de ressources.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1 sur 5"
+    },
+    {
+      "fait": "De 1975 à 2003, un prélèvement pour frais d'entretien existait, mais seulement sur le salaire des détenus qui travaillaient et plafonné à 30 % ; il a été supprimé en 2002-2003 et est interdit par le code pénitentiaire depuis 2022.",
+      "periode": "1975-2022",
+      "perimetre": "France",
+      "explication": "Le ministre a raison de dire qu'il existait, mais il ne concernait qu'une minorité.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "30 %"
+    },
+    {
+      "fait": "La population carcérale est passée de près de 37 000 personnes en 1980 à 83 681 au 1er mai 2025, et le budget de l'administration pénitentiaire de 2,7 milliards d'euros en 2010 à 5,2 milliards en 2025.",
+      "periode": "1980-2025",
+      "perimetre": "France",
+      "explication": "Le coût augmente surtout parce qu'on enferme beaucoup plus.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "83 681"
+    },
+    {
+      "fait": "Fait défavorable : l'idée a des soutiens au-delà de l'extrême droite : le ministre de la Justice l'a reprise en 2025 et une proposition de loi a été adoptée en commission le 16 juin 2025.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "C'est un débat politique réel, pas une idée marginale.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Une journée de prison coûte 105 à 130 €. Or un détenu sur cinq vit avec moins de 60 € par mois et moins d'un tiers travaille. Le prélèvement qui existait avant 2003 ne touchait que ceux qui travaillaient, plafonné à 30 %. Faire payer les détenus rapporterait peu et pénaliserait les familles et la réinsertion.",
+    "moyen": "Une journée de détention coûte entre 105 et 130 € selon les sources. Mais un détenu sur cinq a moins de 60 € par mois, et moins d'un tiers travaille, payé 20 à 45 % du Smic. Il faut déjà 300 à 800 € par mois pour vivre décemment en prison : cantine, téléphone, produits d'hygiène.\n\nUn prélèvement existait de 1975 à 2003, mais seulement sur le salaire de ceux qui travaillaient, plafonné à 30 %. Le rétablir est un choix politique possible ; il rapporterait peu, et l'argent manquerait pour indemniser les victimes, aider les familles et préparer la sortie.",
+    "detaille": "L'idée est simple : un détenu est logé et nourri par l'État, il devrait donc payer. Le ministre de la Justice l'a reprise en 2025, et une proposition de loi a été adoptée en commission à l'Assemblée. Elle prévoit une participation proportionnée aux ressources de chacun. Un prélèvement a d'ailleurs existé de 1975 à 2003 : il touchait le salaire des détenus qui travaillaient, dans la limite de 30 %.\n\nLe problème est l'écart entre le coût et les moyens. Une journée de détention coûte entre 105 et 130 € selon les sources. Or, selon le ministère de la Justice, un détenu sur cinq est indigent, avec moins de 60 € par mois ; plus de la moitié étaient sans emploi avant d'entrer en prison. Moins d'un tiers travaille, pour 20 à 45 % du Smic. Et la vie en prison coûte déjà cher aux détenus : il faut 300 à 800 € par mois pour acheter de quoi manger correctement, téléphoner à sa famille ou se laver. Prélever sur ces sommes, c'est surtout faire payer les familles, souvent modestes.\n\nLe vrai coût des prisons vient de l'enfermement massif : 83 681 détenus en 2025, plus du double de 1980. Réduire la surpopulation, développer les peines alternatives et préparer la sortie ferait baisser à la fois le coût et la récidive. Les sommes saisies sur les trafiquants et les condamnés solvables devraient d'abord aller aux victimes.",
+    "empathie": "Il est compréhensible de trouver injuste que des personnes condamnées soient prises en charge par la collectivité. Ce sentiment de justice mérite qu'on regarde ce que la mesure rapporterait vraiment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils sont nourris et logés gratuitement.",
+      "reponse": "Ils paient déjà une grande partie de leur quotidien en prison (cantine, téléphone, hygiène), et un sur cinq a moins de 60 € par mois."
+    },
+    {
+      "objection": "Les trafiquants ont de l'argent.",
+      "reponse": "Pour eux, la justice peut déjà saisir et confisquer les biens ; cet argent devrait aller en priorité aux victimes."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien gagne un détenu qui travaille en prison ?",
+    "Si on prélève sur un détenu sans ressources, qui paiera à sa place, à ton avis ?"
+  ],
+  "limites": [
+    "Le sort final de la proposition de loi en séance n'a pas pu être établi.",
+    "Les données sur les ressources des détenus viennent d'une note de l'Observatoire international des prisons, qui cite le ministère.",
+    "Les différents coûts journaliers ne reposent pas sur la même méthode."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport n° 1585 sur la proposition de loi visant à instaurer une participation des détenus aux frais d'incarcération",
+      "organisme": "Assemblée nationale, commission des lois",
+      "date_publication": "16 juin 2025",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1585_rapport-fond.pdf",
+      "passage": "Le texte crée une participation proportionnée aux ressources et au patrimoine, selon un barème fixé par décret. Coût d'une journée de détention : 130 € selon l'administration pénitentiaire (environ 3,7 milliards d'euros par an), 105 € selon la Cour des comptes, 127 € selon le Conseil de l'Europe (2023). De 1975 à 2003, l'article D. 112 du code de procédure pénale prévoyait un prélèvement pour frais d'entretien sur le produit du travail, limité à 30 % et réservé aux détenus qui travaillaient ; il a été supprimé par la loi du 9 septembre 2002 et un décret de 2003. Depuis 2022, l'article L. 412-20 du code pénitentiaire interdit ce prélèvement. Adoption en commission le 16 juin 2025.",
+      "pertinence": "Rapport parlementaire officiel (texte porté par le groupe UDR, allié du RN).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Document de travail du rapporteur, proposition de loi n° 1409 (participation des détenus aux frais d'incarcération)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "16 juin 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/924907/file/EAT%20-%20PPL%201409%20Participation%20des%20d%C3%A9tenus%20aux%20frais%20d%27incarc%C3%A9ration.pdf",
+      "passage": "83 681 personnes détenues au 1er mai 2025, contre près de 37 000 en 1980. Budget de l'administration pénitentiaire : 2,7 milliards d'euros en 2010, 5,2 milliards en 2025. Coût d'une journée : 105 € selon la Cour des comptes, 127 € selon le Conseil de l'Europe, contre une moyenne européenne de 131,50 €.",
+      "pertinence": "Document parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Note aux membres de la commission des lois sur la proposition de loi « participation des personnes détenues aux frais d'incarcération »",
+      "organisme": "Observatoire international des prisons, section française",
+      "date_publication": "12 juin 2025",
+      "url": "https://oip.org/wp-content/uploads/2025/06/oip-sf-juin-2025-an-comloi-note-sur-la-ppl-visant-a-instaurer-une-participation-des-personnes-detenues-aux-frais-dincarceration.pdf",
+      "passage": "Selon le ministère de la Justice, « une personne détenue sur cinq est indigente, c'est-à-dire a moins de 60 € par mois ». Plus de la moitié des détenus étaient sans emploi avant leur incarcération et 8 % sans domicile. Il faut 300 à 800 € par mois pour vivre décemment en détention (Emmaüs et Secours catholique, 2021). Moins d'un tiers des détenus travaille, pour 20 à 45 % du Smic. Le Contrôleur général des lieux de privation de liberté relève un espace par personne « le plus souvent très inférieure à 3m² ».",
+      "pertinence": "Association de défense des droits des détenus (plaidoyer).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Faire payer aux détenus une partie de leurs frais d'incarcération, comme le veut Gérald Darmanin ? « Une idée à la noix », fustige Jérôme Durain",
+      "organisme": "Public Sénat (Théodore Azouze)",
+      "date_publication": "29 avril 2025",
+      "url": "https://www.publicsenat.fr/actualites/societe/faire-payer-aux-detenus-une-partie-de-leurs-frais-dincarceration-comme-le-veut-gerald-darmanin-une-idee-a-la-noix-fustige-jerome-durain-ps",
+      "passage": "Le 28 avril 2025, le ministre de la Justice déclare : « Jusqu'à 2003, les détenus participaient aux frais d'incarcération » et « Je vais rétablir ces frais d'incarcération », évoquant un coût des prisons de « près de 4 milliards d'euros par an ». Le sénateur socialiste Jérôme Durain dénonce la « démagogie la plus caricaturale » : « On ne va pas aller faire les poches des détenus pour financer leur incarcération. » Il propose plutôt de développer amendes, saisies et confiscations.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suite législative de la proposition de loi et chiffres de la population carcérale.",
+  "objections_legitimes": [
+    "Un prélèvement existait bien avant 2003.",
+    "Certains détenus, notamment des trafiquants, ont des ressources.",
+    "Le coût des prisons augmente fortement."
+  ],
+  "publics": {
+    "convaincus": "Une journée de prison coûte 105 à 130 €, et un détenu sur cinq a moins de 60 € par mois. Le prélèvement d'avant 2003 ne touchait que ceux qui travaillaient, plafonné à 30 %. Au final, ce sont les familles qui paieraient ; pour les trafiquants, on peut déjà saisir leurs biens.",
+    "indecis": "L'idée peut sembler juste, et elle a existé jusqu'en 2003. Mais la plupart des détenus n'ont presque rien, et beaucoup étaient sans emploi avant la prison. La mesure rapporterait peu ; réduire la surpopulation et la récidive ferait davantage baisser la facture."
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taule",
+    "zonzon",
+    "barreaux",
+    "cout",
+    "couts",
+    "une fortune",
+    "rapportent",
+    "finances publiques",
+    "pognon",
+    "nos impots"
+  ],
+  "concepts": [
+    "prison",
+    "cout"
+  ]
+}

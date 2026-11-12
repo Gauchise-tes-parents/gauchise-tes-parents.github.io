@@ -1,0 +1,215 @@
+{
+  "id": "profs-absents-non-remplaces",
+  "type": "idee_recue",
+  "affirmation": "Les profs sont tout le temps absents et jamais remplacés.",
+  "volet": "services",
+  "sous_theme": "École publique",
+  "rubriques": [],
+  "mots_cles": [
+    "profs absents",
+    "absence des enseignants",
+    "professeurs absents",
+    "profs jamais remplaces",
+    "remplacement des enseignants",
+    "heures de cours perdues",
+    "absenteisme enseignants",
+    "prof absent pas remplace",
+    "arrets maladie profs"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les enseignants ne sont pas plus absents que les autres agents de l'État et moins souvent malades que les salariés du privé. Une grande partie des heures perdues vient du fonctionnement de l'institution : examens, réunions, formations. Les absences longues sont remplacées à près de 95 % au collège et au lycée. Le vrai problème : environ 9 absences courtes sur 10 ne sont pas remplacées, et près de 10 % des heures de cours n'ont pas été assurées en 2024-2025.",
+  "contexte": "Le non-remplacement des professeurs est une plainte fréquente des parents, qui nourrit l'image d'enseignants souvent absents.",
+  "explication": "Il faut distinguer le taux d'absence des enseignants, les causes des heures perdues et le taux de remplacement selon la durée de l'absence.",
+  "faits": [
+    {
+      "fait": "Les enseignants ne sont pas plus absents que les autres agents de l'État, et moins que les agents territoriaux et hospitaliers ; leur absence pour raison de santé est environ 13 % inférieure à celle des salariés du privé.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "L'image d'enseignants « tout le temps absents » ne correspond pas aux chiffres.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "13 %"
+    },
+    {
+      "fait": "En 2024-2025, 9,8 % des heures de cours n'ont pas été assurées au collège et au lycée publics : 4,3 points pour raisons individuelles, 1,9 point pour le fonctionnement du système (examens, commissions), 1,3 point pour la formation et 2,3 points pour des fermetures d'établissement.",
+      "periode": "2024-2025",
+      "perimetre": "France, second degré public",
+      "explication": "Une bonne partie des heures perdues n'est pas due à des absences « personnelles ».",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "9,8 %"
+    },
+    {
+      "fait": "Selon la Cour des comptes (2021), les absences de plus de 15 jours sont remplacées à plus de 96 % dans le second degré ; selon le Sénat, à 94,8 % en 2023-2024, et à 78,3 % dans le premier degré.",
+      "periode": "2018-2024",
+      "perimetre": "France",
+      "explication": "Les absences longues sont presque toujours remplacées au collège et au lycée ; moins à l'école primaire.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "94,8 %"
+    },
+    {
+      "fait": "Fait défavorable : seules 10 à 14 % des heures d'absences courtes sont remplacées dans le second degré, et la part des heures non assurées a augmenté de 0,7 point en 2024-2025.",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "Le problème du non-remplacement est réel et s'aggrave ; il vient du manque de remplaçants.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : en éducation prioritaire, 11 % des heures n'ont pas été assurées en 2023-2024, contre 8 % ailleurs ; et les enseignants du privé sous contrat sont environ 12 % moins souvent absents que ceux du public.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Les élèves des quartiers populaires sont les plus pénalisés.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "11 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les profs ne sont pas plus absents que les autres agents de l'État, et moins malades que les salariés du privé. Les absences longues sont remplacées à près de 95 % au collège et au lycée. Le vrai problème, ce sont les absences courtes : 9 sur 10 ne sont pas remplacées, faute de remplaçants.",
+    "moyen": "Selon la Cour des comptes et le Sénat, les enseignants ne sont pas plus absents que les autres fonctionnaires d'État, et environ 13 % moins souvent absents pour maladie que les salariés du privé. Une grande partie des heures perdues vient de l'institution elle-même : examens, réunions, formations, fermetures.\n\nLe remplacement dépend de la durée : les absences longues sont remplacées à près de 95 % au collège et au lycée, mais seulement 10 à 14 % des absences courtes. Au total, près de 10 % des heures n'ont pas été assurées en 2024-2025, plus encore dans les quartiers populaires. C'est un vrai problème de moyens.",
+    "detaille": "Les chiffres officiels contredisent l'image d'enseignants souvent absents. La DEPP, la Cour des comptes et le Sénat concluent tous que les enseignants ne sont pas plus absents que les autres agents de l'État, et le sont moins que les agents des hôpitaux ou des collectivités. Leur absence pour raison de santé est même environ 13 % inférieure à celle des salariés du privé. Un jour moyen, environ 5 % des enseignants du public sont absents.\n\nPourtant, les parents ont raison de se plaindre : en 2024-2025, 9,8 % des heures de cours n'ont pas été assurées au collège et au lycée publics, et la situation s'est dégradée. Mais une grande partie de ces heures perdues vient de l'organisation de l'Éducation nationale : examens qui mobilisent les enseignants, réunions, formations placées sur le temps de classe, fermetures d'établissements. Selon la Cour des comptes en 2021, les deux tiers des heures perdues venaient du fonctionnement de l'institution.\n\nLe remplacement fonctionne pour les absences longues : près de 95 % sont remplacées au collège et au lycée, moins de 80 % à l'école primaire. Il échoue pour les absences courtes, dont 9 sur 10 restent sans remplaçant. Les élèves de l'éducation prioritaire sont les plus touchés. La réponse passe par davantage de titulaires remplaçants, des formations hors du temps de classe et une meilleure organisation des examens, pas par la stigmatisation des enseignants.",
+    "empathie": "Quand son enfant perd des heures de cours, on est inquiet et en colère, et on a raison de vouloir que ça change. La question est de savoir d'où viennent vraiment ces heures perdues."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Mon fils a encore eu trois heures de trou cette semaine.",
+      "reponse": "C'est réel, mais ces heures viennent souvent d'examens, de formations ou de réunions organisées par l'institution, et du manque de remplaçants, plus que d'enseignants malades."
+    },
+    {
+      "objection": "Dans le privé, ils sont moins absents.",
+      "reponse": "C'est vrai d'environ 12 % ; mais les enseignants du public restent moins absents pour maladie que les salariés du privé."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les enseignants sont moins souvent en arrêt maladie que les salariés du privé ?",
+    "À ton avis, qui décide de placer les examens et les formations sur le temps de classe ?"
+  ],
+  "limites": [
+    "Les répartitions de la Cour des comptes (2021) et de la DEPP (2026) reposent sur des méthodes différentes.",
+    "La Cour souligne que les outils de mesure du ministère sont défaillants.",
+    "Le rapport du Sénat lu est une version provisoire."
+  ],
+  "sources": [
+    {
+      "titre": "La gestion des absences des enseignants (synthèse du rapport public thématique)",
+      "organisme": "Cour des comptes",
+      "date_publication": "2 décembre 2021",
+      "url": "https://www.ccomptes.fr/sites/default/files/2021-12/20211202-synthese-gestion--absences-enseignants.pdf",
+      "passage": "Les enseignants ne sont pas plus absents que les autres agents de l'État, et moins que les agents territoriaux et hospitaliers ; la part d'enseignants absents un jour donné pour maladie ordinaire est inférieure à celle des salariés du privé. En 2018-2019, environ 9,3 % des heures du second degré ont été perdues, dont 34 % pour raisons individuelles, « les deux tiers restant provenant du fonctionnement même de l'éducation nationale ». Les absences de plus de 15 jours sont remplacées à plus de 96 % ; sur près de 2,5 millions d'heures d'absences courtes, un peu plus de 500 000 sont remplacées. Coût : près de 4 milliards d'euros par an.",
+      "pertinence": "Juridiction financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La part du temps d'enseignement non assuré dans les établissements publics du second degré en 2024-2025 (Note d'information n° 26.14)",
+      "organisme": "DEPP, ministère de l'Éducation nationale",
+      "date_publication": "avril 2026",
+      "url": "https://www.education.gouv.fr/sites/default/files/document/education-nationaledepp-ni-2026-14pdf-515924.pdf",
+      "passage": "« 9,8 % des heures d'enseignement n'ont pas été assurées », « dont 7,5 % en raison du non-remplacement des enseignants absents » : 4,3 % pour raisons individuelles (maladie, congés, grèves), 1,9 % pour le fonctionnement du système (examens, commissions) et 1,3 % pour la formation. La fermeture d'établissement compte pour 2,3 %. « La part du temps d'enseignement non assuré augmente de 0,7 point par rapport à l'année précédente ».",
+      "pertinence": "Service statistique ministériel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Des enseignants de plus en plus irremplaçables : une politique à revoir (rapport provisoire)",
+      "organisme": "Sénat, commission des finances (rapporteur spécial Olivier Paccaud)",
+      "date_publication": "11 juin 2025",
+      "url": "https://www.senat.fr/fileadmin/cru-1750816532/Presse/Documents_pdf/Rapport_provisoire_ES_replct_enseignants.pdf",
+      "passage": "En 2023-2024, l'absence moyenne des enseignants du public est de 5,5 % (6,5 % dans le premier degré, 4,4 % dans le second). Leur absence pour raison de santé est environ 13 % inférieure à la moyenne des salariés du privé. Taux de remplacement des absences longues : 78,3 % dans le premier degré, 94,8 % dans le second. Absences courtes dans le second degré : 10,6 % remplacées en juin 2024, 13,9 % en janvier 2025. Les enseignants du privé sous contrat sont environ 12 % moins souvent absents que ceux du public.",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le temps d'enseignement perdu par les élèves au collège",
+      "organisme": "Cour des comptes",
+      "date_publication": "décembre 2025",
+      "url": "https://www.ccomptes.fr/sites/default/files/2026-01/20251212-Temps-enseignement-perdu-par-eleves-au-college.pdf",
+      "passage": "Au collège public en 2023-2024, la part d'heures perdues « s'établit à 9 % du total », « dont 8 % en raison du non remplacement des enseignants ». Le remplacement de courte durée reste insuffisant (« 12 % d'heures remplacées dans les collèges publics »). En éducation prioritaire, « 11 % des heures d'enseignement n'ont ainsi pas été assurées en 2023-2024, contre 8 % hors éducation prioritaire ».",
+      "pertinence": "Juridiction financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "En 2017-2018, les absences pour raison de santé des enseignants du secteur public dépendent de la période de l'année et peu du jour de semaine (Note d'information n° 20.31)",
+      "organisme": "DEPP, ministère de l'Éducation nationale",
+      "date_publication": "23 septembre 2020",
+      "url": "https://www.education.gouv.fr/depp/en-2017-2018-les-absences-pour-raison-de-sante-des-enseignants-du-secteur-public-dependent-de-la-451716",
+      "passage": "Environ un enseignant sur deux a été absent au moins une fois pour raison de santé dans l'année. Un jour moyen, 5,6 % des enseignants sont absents, pour une durée moyenne d'environ 9 jours. Les enseignants « ne sont pas plus absents que les autres agents de la fonction publique d'État » et sont moins absents que les agents des fonctions publiques territoriale et hospitalière.",
+      "pertinence": "Service statistique ministériel ; données 2017-2018.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-12",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Note DEPP sur l'année 2025-2026.",
+  "objections_legitimes": [
+    "Près de 10 % des heures de cours ne sont pas assurées au collège et au lycée.",
+    "Les absences courtes ne sont presque jamais remplacées.",
+    "Les enseignants du privé sous contrat sont un peu moins absents que ceux du public."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres du Sénat et de la Cour des comptes sont clairs : les profs sont moins souvent en arrêt maladie que les salariés du privé. Les heures perdues viennent beaucoup des examens, des formations et du manque de remplaçants. Si tu veux que ton enfant ait cours, il faut des remplaçants, pas taper sur les profs.",
+    "indecis": "Les heures de cours perdues sont un vrai problème, et il s'aggrave. Mais les enseignants ne sont pas plus absents que les autres fonctionnaires : ce sont surtout les absences courtes qui ne sont pas remplacées, faute de personnel. C'est une question de moyens et d'organisation."
+  },
+  "repond_a": [
+    {
+      "id": "profs_absents_q1217",
+      "label": "Absences des enseignants"
+    },
+    {
+      "id": "identite_q1217_profs_absents",
+      "label": "Absences des enseignants"
+    },
+    {
+      "id": "services_publics_q1217_profs_absents",
+      "label": "Absences des enseignants"
+    },
+    {
+      "id": "fonctionnaires_q1217_profs_absents",
+      "label": "Absences des enseignants"
+    },
+    {
+      "id": "identite_services_publics_q1217_profs_absents",
+      "label": "Absences des enseignants"
+    },
+    {
+      "id": "identite_fonctionnaires_q1217_profs_absents",
+      "label": "Absences des enseignants"
+    },
+    {
+      "id": "services_publics_fonctionnaires_q1217_profs_absents",
+      "label": "Absences des enseignants"
+    },
+    {
+      "id": "identite_services_publics_fonctionnaires_q1217_profs_absents",
+      "label": "Absences des enseignants"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation",
+    "racines",
+    "grand remplacement",
+    "remplacement",
+    "notre culture",
+    "nos valeurs",
+    "nos traditions",
+    "on se croirait",
+    "plus en france"
+  ],
+  "concepts": [
+    "identite",
+    "services_publics",
+    "profs_absents",
+    "fonctionnaires"
+  ]
+}
