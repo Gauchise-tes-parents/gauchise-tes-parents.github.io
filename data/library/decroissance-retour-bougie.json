@@ -181,6 +181,27 @@
     "lfi",
     "insoumis"
   ],
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "services_publics"
+    ],
+    "mecanismes": "Le récit réduit toute critique de la surconsommation à une volonté de retour en arrière, ce qui évite de parler de qui consomme et pollue le plus.",
+    "consequences": "Les ménages modestes, à qui l’on fait peur, sont aussi ceux qui gagneraient le plus à des logements isolés et des transports collectifs.",
+    "democratie": "La planification écologique doit être débattue et votée, en partant des besoins de chacun et de la justice sociale.",
+    "propositions": [
+      "Rénover massivement les logements pour réduire les factures d’énergie.",
+      "Développer les transports collectifs et le ferroviaire.",
+      "Faire porter les efforts d’abord sur les consommations des plus riches, comme les jets privés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un parti écologiste revendique une décroissance de la production matérielle et l’arrêt de certains secteurs.",
+        "integration": "Assumer le débat sur ce qu’il faut produire, en montrant qu’il s’agit de renforcer la santé, l’éducation et le soin, pas de revenir à la bougie."
+      }
+    ]
+  },
   "concepts": [
     "emploi",
     "gauche",

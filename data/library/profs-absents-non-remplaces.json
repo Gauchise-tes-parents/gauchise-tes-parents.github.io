@@ -206,6 +206,27 @@
     "on se croirait",
     "plus en france"
   ],
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite",
+      "travailleurs"
+    ],
+    "mecanismes": "Le récit transforme un manque de remplaçants et des choix d’organisation de l’institution en faute individuelle des enseignants.",
+    "consequences": "Les élèves des quartiers populaires perdent le plus d’heures de cours, ce qui creuse les inégalités scolaires.",
+    "democratie": "Le droit à l’éducation suppose que chaque heure de cours prévue soit assurée, ce qui relève de la responsabilité de l’État.",
+    "propositions": [
+      "Recruter davantage de titulaires remplaçants et les répartir selon les besoins.",
+      "Organiser les formations et les examens hors du temps de classe.",
+      "Donner la priorité aux établissements de l’éducation prioritaire pour le remplacement."
+    ],
+    "defavorables": [
+      {
+        "fait": "Près d’une heure sur dix n’est pas assurée, les absences courtes ne sont presque jamais remplacées, et les enseignants du privé sont un peu moins absents.",
+        "integration": "Reconnaître la colère des parents et la diriger vers le manque de moyens de remplacement plutôt que vers les enseignants."
+      }
+    ]
+  },
   "concepts": [
     "identite",
     "services_publics",

@@ -182,6 +182,27 @@
     "fuite des cerveaux",
     "brain drain"
   ],
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "repartition",
+      "travailleurs"
+    ],
+    "mecanismes": "Le récit utilise la peur de la fuite des talents pour s’opposer à toute hausse d’impôt, alors que les départs s’expliquent surtout par les carrières et les salaires.",
+    "consequences": "On réduit les moyens des universités, de la recherche et des services publics qui rendent le pays attractif.",
+    "democratie": "Les impôts financent l’éducation gratuite dont ont bénéficié ces diplômés : c’est un contrat entre les générations.",
+    "propositions": [
+      "Revaloriser les salaires des jeunes chercheurs, ingénieurs et enseignants.",
+      "Investir dans la recherche publique et l’industrie pour offrir des carrières attractives.",
+      "Faciliter le retour des Français partis acquérir une expérience à l’étranger."
+    ],
+    "defavorables": [
+      {
+        "fait": "Près de la moitié des diplômés interrogés jugent la fiscalité trop élevée.",
+        "integration": "Prendre ce ressenti au sérieux en expliquant ce que financent les impôts, et en agissant sur les salaires, premier motif de départ."
+      }
+    ]
+  },
   "concepts": [
     "immigration",
     "fiscalite",

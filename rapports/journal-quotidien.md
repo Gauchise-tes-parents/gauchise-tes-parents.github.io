@@ -1235,3 +1235,36 @@ Pages non ouvertes, donc non citées : vie-publique.fr (JavaScript requis, plusi
 **Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique (l'outil demande de ne pas réessayer). Aucun chiffre relevé ; `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
 
 **Vérifications.** `npm test` : 477 tests, 477 réussis. Tests de bout en bout : 38 tests, 38 réussis.
+
+## 12 novembre 2026 — fiche `immigres-prisons-surrepresentation` enrichie (demande du propriétaire)
+
+La fiche « Les immigrés représentent une part disproportionnée de la population carcérale » garde sa structure, son verdict et son identifiant. Elle explique désormais les mécanismes qui peuvent produire ou accentuer la surreprésentation des étrangers en prison. Ils ne sont jamais présentés comme des causes valables pour chaque individu, et les écarts statistiques ne sont pas niés.
+
+**Les cinq mécanismes traités :**
+- **Contrôles au faciès :** enquêtes du Défenseur des droits (2017 et 2025), observation du CNRS et d'Open Society (2009), Conseil d'État (2023), Cour de cassation (2016).
+- **Surveillance différenciée des quartiers :** Défenseur des droits ; enquête POLIS franco-allemande (2015) ; Didier Fassin, d'après le compte rendu de Fabien Jobard.
+- **Précarité :** Insee (pauvreté des immigrés, 2019) ; administration pénitentiaire (profil social des détenus).
+- **Inégalités face à la justice :**
+  - détention provisoire : Insee 2021 ;
+  - « entonnoir » pénal et écart résiduel : CEPII 2023 ;
+  - comparution immédiate : étude EUCLID pour la CGLPL ;
+  - Gautron et Retière, d'après l'Observatoire des inégalités ;
+  - aménagements de peine : OIP ;
+  - question de la discrimination laissée ouverte : Observatoire des disparités dans la justice pénale.
+- **Distinction immigré, étranger et descendant d'immigré :** Insee 2024 et 2025.
+
+**Faits défavorables et limites gardés :**
+- la surreprésentation est réelle ;
+- un écart résiduel de 5 points de prison ferme subsiste à dossier comparable (CEPII) ;
+- aucun effet propre de l'origine sur la peine dans l'étude de Jobard et Névanen ;
+- les contrôles au faciès ne sont pas jugés « systémiques » par le Conseil d'État ;
+- les infractions propres aux étrangers pèsent peu.
+
+**Sources :** 17 nouvelles sources, toutes ouvertes et lues. Un second agent, indépendant, a vérifié les 18 adresses citées : toutes répondent. Il a aussi contrôlé les chiffres clés mot à mot. Trois corrections en sont sorties : « 864 prévenus » au lieu de « 864 décisions » ; « à eux seuls, insuffisants » (Cour de cassation) ; formulation exacte de l'étude EUCLID sur le temps de préparation de la défense. Le chiffre du chômage des immigrés en 2025 n'a pas pu être relu mot à mot : il a été retiré.
+
+**Contraintes du format :** la fiche est limitée à 8 faits. Les autres chiffres figurent dans les argumentaires et s'appuient sur les passages des sources listées. Un contrôle automatique vérifie que chaque nombre du texte apparaît dans une source.
+
+**Fichiers modifiés :**
+- `scripts/fiches/immigration_prisons.py` : contenu de la fiche ;
+- `scripts/publics-complements.js` : réponses aux deux publics ;
+- `scripts/lectures-gauche.js` : nouvelle lecture de gauche, sans chiffre.

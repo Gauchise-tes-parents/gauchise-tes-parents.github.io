@@ -166,6 +166,27 @@
     "fake news",
     "manipulation de l information"
   ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "services_publics",
+      "libertes"
+    ],
+    "mecanismes": "Le récit exploite une inquiétude face à une technologie invisible et imposée sans débat, en la transformant en danger sanitaire avéré.",
+    "consequences": "La peur des ondes détourne des vrais enjeux du numérique et sert parfois de porte d’entrée vers des théories du complot.",
+    "democratie": "Les choix technologiques méritent un vrai débat public, éclairé par des agences indépendantes et des données ouvertes.",
+    "propositions": [
+      "Organiser des débats publics avant le déploiement des grandes infrastructures numériques.",
+      "Publier et rendre compréhensibles les mesures d’exposition aux ondes.",
+      "Débattre des effets écologiques du numérique, comme la consommation d’énergie et le renouvellement des appareils."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les radiofréquences sont classées peut-être cancérogènes, et les données manquent pour certaines fréquences.",
+        "integration": "Défendre la recherche et la transparence, sans présenter un classement de précaution comme une preuve de danger."
+      }
+    ]
+  },
   "concepts": [
     "dangerosite",
     "desinformation"

@@ -182,6 +182,27 @@
     "faillite",
     "depenses publiques"
   ],
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "democratie",
+      "egalite"
+    ],
+    "mecanismes": "Le récit mélange le budget privé de l’organisation et les dépenses publiques, et nie tout héritage pour alimenter la défiance envers l’action publique.",
+    "consequences": "La vraie question, celle de savoir qui profite des investissements publics, passe au second plan.",
+    "democratie": "Les grands événements doivent faire l’objet d’un débat public sur leur coût, leurs bénéficiaires et leur héritage, évalués de façon indépendante.",
+    "propositions": [
+      "Évaluer publiquement et de façon indépendante le coût et l’héritage des grands événements avant de s’engager.",
+      "Conditionner les investissements à des bénéfices durables pour les habitants : logements sociaux, équipements, dépollution.",
+      "Garantir que les personnes sans abri ne soient pas déplacées pour les événements."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’effet économique a été faible, les études préalables surestimaient les retombées et l’héritage social pour les sans-abri est limité.",
+        "integration": "Le reconnaître et en tirer une exigence : les retombées promises par les organisateurs doivent être évaluées par des organismes indépendants."
+      }
+    ]
+  },
   "concepts": [
     "services_publics",
     "cout",

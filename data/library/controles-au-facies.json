@@ -205,6 +205,28 @@
     "on se croirait",
     "plus en france"
   ],
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "egalite",
+      "libertes",
+      "dignite"
+    ],
+    "mecanismes": "Nier le problème permet d’éviter toute réforme, en présentant chaque témoignage comme une attaque contre la police.",
+    "consequences": "Des jeunes contrôlés à répétition perdent confiance dans les institutions, et la police perd des témoins et de la coopération.",
+    "democratie": "L’égalité devant la loi vaut aussi face à la police : un contrôle doit reposer sur un comportement, jamais sur une apparence.",
+    "propositions": [
+      "Instaurer un récépissé à chaque contrôle d’identité.",
+      "Encadrer plus strictement les motifs de contrôle prévus par la loi.",
+      "Former les agents et évaluer les pratiques de contrôle de façon indépendante."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le Conseil d’État refuse de parler de pratique systémique, et la plupart des recours individuels échouent faute de preuve.",
+        "integration": "Reconnaître ces limites et en faire un argument pour le récépissé, qui permettrait justement de mesurer et de prouver."
+      }
+    ]
+  },
   "concepts": [
     "origine",
     "identite",

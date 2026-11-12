@@ -160,6 +160,27 @@
     "pognon",
     "nos impots"
   ],
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "Le récit donne le sentiment de punir davantage, sans regarder les ressources réelles des détenus ni le coût pour leurs familles.",
+    "consequences": "Prélever sur des détenus pauvres appauvrit les familles, complique l’indemnisation des victimes et la préparation de la sortie, et augmente le risque de récidive.",
+    "democratie": "La peine, c’est la privation de liberté ; les conditions de détention doivent rester dignes, comme l’exigent la loi et la Cour européenne des droits de l’homme.",
+    "propositions": [
+      "Réduire la surpopulation carcérale en développant les peines alternatives.",
+      "Rémunérer correctement le travail en prison et l’orienter vers la réinsertion.",
+      "Affecter en priorité aux victimes les biens saisis sur les condamnés solvables."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un prélèvement a existé par le passé, et certains détenus, notamment des trafiquants, ont des ressources.",
+        "integration": "Le reconnaître et proposer de viser ces ressources par la confiscation, au bénéfice des victimes, plutôt que de taxer tous les détenus."
+      }
+    ]
+  },
   "concepts": [
     "prison",
     "cout"

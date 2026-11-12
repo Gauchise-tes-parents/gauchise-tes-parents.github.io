@@ -207,6 +207,28 @@
     "barreaux",
     "bukele"
   ],
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "democratie",
+      "dignite",
+      "antifascisme"
+    ],
+    "mecanismes": "Le récit ne retient qu’un chiffre spectaculaire et passe sous silence la suspension des libertés, les innocents emprisonnés et la concentration du pouvoir.",
+    "consequences": "Importer ce modèle reviendrait à donner à l’État le pouvoir d’enfermer sans preuve, ce qui finit toujours par viser d’autres que les criminels.",
+    "democratie": "La sécurité ne justifie pas de supprimer le droit à un procès équitable : c’est ce droit qui protège chaque citoyen contre l’arbitraire.",
+    "propositions": [
+      "Renforcer les moyens d’enquête et de la justice contre le crime organisé.",
+      "S’attaquer à l’argent du trafic par la saisie des avoirs et la lutte contre le blanchiment.",
+      "Investir dans la prévention et les services publics dans les quartiers touchés."
+    ],
+    "defavorables": [
+      {
+        "fait": "La baisse des homicides au Salvador est massive et le président est très populaire.",
+        "integration": "Ne pas nier ce résultat, mais montrer son prix humain et rappeler que la France part d’une situation sans commune mesure."
+      }
+    ]
+  },
   "concepts": [
     "delinquance",
     "prison",

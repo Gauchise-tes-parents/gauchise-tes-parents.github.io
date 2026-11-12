@@ -168,5 +168,27 @@
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [],
+  "lecture": {
+    "valeurs": [
+      "paix",
+      "internationalisme",
+      "dignite",
+      "universalite"
+    ],
+    "mecanismes": "Le récit confond un peuple, son droit à un État et un groupe armé, comme si reconnaître les droits des Palestiniens revenait à approuver les crimes du Hamas.",
+    "consequences": "Refuser tout horizon politique aux Palestiniens laisse le champ libre à la colonisation et aux groupes armés qui prospèrent sur le désespoir.",
+    "democratie": "Le droit international, l’égalité des peuples et la condamnation de tous les crimes contre des civils sont les bases d’une paix juste.",
+    "propositions": [
+      "Accompagner la reconnaissance de pressions concrètes contre la colonisation, conformément au droit international.",
+      "Exiger un cessez-le-feu durable, la libération des otages et des détenus arbitraires, et l’accès humanitaire.",
+      "Soutenir une gouvernance palestinienne démocratique, qui exclut les groupes armés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le Hamas a salué la dynamique de reconnaissance, refuse de désarmer et la reconnaissance n’a rien changé sur le terrain.",
+        "integration": "Le dire franchement et en conclure qu’une reconnaissance sans pression sur la colonisation et sans exigence envers le Hamas reste symbolique."
+      }
+    ]
+  },
   "concepts": []
 }

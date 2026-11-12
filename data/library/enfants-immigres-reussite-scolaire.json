@@ -212,6 +212,28 @@
     "burkini",
     "ramadan"
   ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "antiracisme",
+      "services_publics",
+      "emancipation"
+    ],
+    "mecanismes": "Le récit transforme des inégalités sociales en différences culturelles, ce qui dispense de regarder la pauvreté, la ségrégation scolaire et les orientations subies.",
+    "consequences": "Des élèves sont jugés d’avance, orientés vers des filières qu’ils n’ont pas choisies et perdent confiance dans l’école.",
+    "democratie": "Une école républicaine doit donner à chaque enfant les mêmes chances, quelle que soit l’origine de ses parents.",
+    "propositions": [
+      "Lutter contre la ségrégation scolaire et concentrer les moyens sur les écoles des quartiers populaires.",
+      "Mieux accompagner l’orientation pour éviter les choix subis vers les filières professionnelles.",
+      "Renforcer l’apprentissage du français pour les élèves qui en ont besoin, sans stigmatisation."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certains garçons gardent un désavantage scolaire même à milieu social égal.",
+        "integration": "Le reconnaître et en chercher les causes établies par la recherche, comme l’orientation ou les discriminations, au lieu d’invoquer une culture."
+      }
+    ]
+  },
   "concepts": [
     "immigration",
     "services_publics",

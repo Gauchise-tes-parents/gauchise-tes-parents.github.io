@@ -208,6 +208,27 @@
     "fins de mois",
     "pouvoir d achat"
   ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "repartition",
+      "egalite"
+    ],
+    "mecanismes": "Le récit présente les salaires comme la seule cause possible de l’inflation, ce qui fait porter l’ajustement aux salariés et protège les marges.",
+    "consequences": "Quand les prix montent et que les salaires ne suivent pas, ce sont les ménages modestes qui perdent du pouvoir d’achat.",
+    "democratie": "Le partage de la valeur doit se négocier entre salariés et employeurs, avec des syndicats forts, plutôt que se décider par la seule logique des prix.",
+    "propositions": [
+      "Indexer les salaires les plus bas sur les prix et renforcer les négociations de branche.",
+      "Conditionner les aides publiques aux entreprises à des hausses de salaires.",
+      "Encadrer les prix des biens essentiels en période de crise."
+    ],
+    "defavorables": [
+      {
+        "fait": "La boucle prix-salaires existe, la désindexation des années quatre-vingt a précédé une forte désinflation, et en France les coûts salariaux ont pesé dans l’inflation récente.",
+        "integration": "Reconnaître le risque et défendre des hausses négociées et financées en partie par les marges, plutôt que l’indexation automatique de tout."
+      }
+    ]
+  },
   "concepts": [
     "salaires",
     "pouvoir_achat",

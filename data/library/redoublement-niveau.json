@@ -181,6 +181,27 @@
     "misere",
     "coutent trop cher"
   ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "emancipation"
+    ],
+    "mecanismes": "Le récit propose une mesure qui paraît exigeante et peu coûteuse, alors que la recherche montre qu’elle aide peu et frappe surtout les élèves défavorisés.",
+    "consequences": "Les élèves qui redoublent se découragent, décrochent plus souvent, et les moyens consacrés au redoublement manquent pour le soutien.",
+    "democratie": "Les politiques éducatives doivent s’appuyer sur les évaluations de la recherche et viser la réussite de tous.",
+    "propositions": [
+      "Financer un soutien personnalisé dès l’apparition des difficultés.",
+      "Réduire les effectifs des classes, en priorité dans les écoles des quartiers populaires.",
+      "Développer le rattrapage pendant l’année et en été."
+    ],
+    "defavorables": [
+      {
+        "fait": "Parents et enseignants sont majoritairement favorables au redoublement, et il peut aider certains jeunes élèves à court terme.",
+        "integration": "Entendre cette demande d’exigence et y répondre par un soutien précoce, plus efficace selon la recherche."
+      }
+    ]
+  },
   "concepts": [
     "pauvrete"
   ]

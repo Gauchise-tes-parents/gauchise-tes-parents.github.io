@@ -175,6 +175,27 @@
     "caillera",
     "ensauvagement"
   ],
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "libertes",
+      "democratie"
+    ],
+    "mecanismes": "Le récit promet une solution visible et rapide, qui rassure, plutôt que des politiques moins spectaculaires mais plus efficaces comme les enquêteurs et la prévention.",
+    "consequences": "L’argent public part dans des équipements peu évalués, au détriment des policiers de terrain, des éducateurs et de l’éclairage des rues.",
+    "democratie": "Une politique de sécurité doit être évaluée publiquement, et la surveillance de masse doit rester encadrée par la loi et le juge.",
+    "propositions": [
+      "Évaluer chaque dispositif de vidéosurveillance avant d’en installer davantage, et publier les résultats.",
+      "Réorienter les moyens vers une police de proximité, l’enquête et la prévention.",
+      "Interdire la reconnaissance faciale dans l’espace public."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les caméras ont un effet modeste mais réel dans certains lieux comme les parkings.",
+        "integration": "Accepter des caméras ciblées et évaluées, tout en refusant d’en faire la réponse principale à l’insécurité."
+      }
+    ]
+  },
   "concepts": [
     "delinquance",
     "videosurv"

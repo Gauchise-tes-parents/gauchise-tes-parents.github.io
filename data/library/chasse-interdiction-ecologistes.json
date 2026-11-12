@@ -198,6 +198,27 @@
     "front populaire",
     "nucleaire"
   ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "solidarite",
+      "dignite"
+    ],
+    "mecanismes": "Le récit transforme des propositions d’encadrement en volonté d’abolir la chasse et la ruralité, pour dresser les campagnes contre les écologistes.",
+    "consequences": "Le débat sur la sécurité des promeneurs, le bien-être animal et le partage de la nature est bloqué par l’accusation de mépris.",
+    "democratie": "La nature est un bien commun : son usage doit se partager entre chasseurs, promeneurs, agriculteurs et naturalistes.",
+    "propositions": [
+      "Instaurer au moins un jour sans chasse pour que chacun profite de la nature en sécurité.",
+      "Interdire les pratiques jugées cruelles comme la chasse à courre et le déterrage.",
+      "Renforcer la formation et les règles de sécurité à la chasse."
+    ],
+    "defavorables": [
+      {
+        "fait": "Interdire la chasse le week-end pénaliserait fortement les chasseurs qui travaillent, la chasse aide à réguler le gibier et la gauche est divisée.",
+        "integration": "Reconnaître le rôle des chasseurs et chercher des compromis sur les jours de chasse, plutôt qu’une opposition frontale."
+      }
+    ]
+  },
   "concepts": [
     "gauche",
     "ecologie"

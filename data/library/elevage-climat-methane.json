@@ -200,6 +200,27 @@
     "changement climatique",
     "climat a toujours change"
   ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "solidarite",
+      "egalite"
+    ],
+    "mecanismes": "Le récit oppose les éleveurs à l’écologie, comme si reconnaître l’effet de l’élevage sur le climat revenait à les accuser.",
+    "consequences": "Sans transition organisée, les éleveurs disparaissent quand même, sous la pression des prix et de la viande importée.",
+    "democratie": "La transition agricole doit se décider avec les paysans, en garantissant leurs revenus, et non leur être imposée par le marché.",
+    "propositions": [
+      "Garantir des prix rémunérateurs aux éleveurs qui font évoluer leurs pratiques.",
+      "Soutenir l’élevage à l’herbe et réduire les importations de viande produites à moindre coût environnemental et social.",
+      "Permettre à tous l’accès à une alimentation de qualité, avec moins mais mieux de produits animaux."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les prairies stockent du carbone, le méthane a une durée de vie courte, et les émissions de l’élevage ont déjà baissé.",
+        "integration": "Reconnaître ces éléments et la contribution des éleveurs, tout en rappelant que l’élevage reste une source majeure de méthane."
+      }
+    ]
+  },
   "concepts": [
     "ecologie",
     "climat_origine",

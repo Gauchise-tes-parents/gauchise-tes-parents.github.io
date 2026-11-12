@@ -178,6 +178,27 @@
     "caillera",
     "ensauvagement"
   ],
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "travailleurs",
+      "democratie"
+    ],
+    "mecanismes": "Le récit transforme un problème réel en impression d’explosion, pour justifier davantage de pouvoirs et d’armes plutôt que des moyens et de la formation.",
+    "consequences": "Une police qui se pense assiégée devient plus défensive, ce qui dégrade sa relation avec la population et augmente les tensions.",
+    "democratie": "Protéger les policiers et protéger les citoyens des abus vont ensemble : la confiance entre police et population est une condition de la sécurité.",
+    "propositions": [
+      "Renforcer les effectifs, la formation initiale et continue, notamment à la désescalade.",
+      "Améliorer les conditions de travail et le suivi psychologique des policiers.",
+      "Rétablir une police de proximité qui connaît les habitants."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les outrages et violences restent nombreux chaque jour, et les violences contre les gendarmes sont jugées croissantes.",
+        "integration": "Reconnaître la difficulté du métier et en faire un argument pour plus de moyens humains et de formation."
+      }
+    ]
+  },
   "concepts": [
     "delinquance",
     "violences_policiers"

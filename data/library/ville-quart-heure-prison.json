@@ -150,6 +150,27 @@
     "barreaux",
     "nucleaire"
   ],
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite",
+      "libertes"
+    ],
+    "mecanismes": "Le récit transforme un projet de rapprochement des services en complot d’enfermement, en mélangeant deux politiques différentes.",
+    "consequences": "Des urbanistes et des élus sont menacés, et le débat sur l’accès aux services publics de proximité est empoisonné.",
+    "democratie": "L’aménagement des villes doit se discuter avec les habitants, sur la base de projets réels et non de rumeurs.",
+    "propositions": [
+      "Ramener services publics, commerces et médecins dans les quartiers et les territoires qui en manquent.",
+      "Développer les transports collectifs pour réduire la dépendance à la voiture sans pénaliser ceux qui en ont besoin.",
+      "Associer les habitants aux décisions de circulation et d’urbanisme."
+    ],
+    "defavorables": [
+      {
+        "fait": "À Oxford, les filtres de circulation limitent réellement l’accès en voiture à certains axes, avec des amendes.",
+        "integration": "Reconnaître que les restrictions de circulation peuvent pénaliser certains habitants et en débattre, sans parler d’enfermement."
+      }
+    ]
+  },
   "concepts": [
     "prison",
     "ecologie"

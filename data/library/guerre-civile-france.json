@@ -185,6 +185,27 @@
     "ensauvagement",
     "arme blanche"
   ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "antifascisme",
+      "libertes"
+    ],
+    "mecanismes": "Le récit transforme des violences réelles mais localisées en affrontement généralisé entre camps, ce qui prépare les esprits à des mesures d’exception.",
+    "consequences": "La peur entretenue désigne des ennemis intérieurs et peut justifier la suspension des libertés ou la violence de groupes armés.",
+    "democratie": "Répondre aux violences par la loi, la justice et les services publics est ce qui distingue une démocratie d’un régime d’exception.",
+    "propositions": [
+      "Lutter contre le trafic de drogue par l’enquête et la saisie des avoirs criminels.",
+      "Rétablir des services publics dans les quartiers délaissés.",
+      "Dissoudre et poursuivre les groupes qui préparent ou appellent à la violence politique."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une large part des Français, de tous bords, craint une guerre civile, et les tentatives d’homicide augmentent.",
+        "integration": "Prendre cette peur au sérieux et répondre aux violences réelles, tout en refusant le vocabulaire de la guerre."
+      }
+    ]
+  },
   "concepts": [
     "delinquance",
     "homicide",

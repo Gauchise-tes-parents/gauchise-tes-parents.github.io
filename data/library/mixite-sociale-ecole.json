@@ -193,6 +193,28 @@
     "segregation scolaire",
     "melanger les eleves"
   ],
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "services_publics",
+      "universalite",
+      "emancipation"
+    ],
+    "mecanismes": "Le récit présente l’entre-soi scolaire comme une protection, alors que la ségrégation nuit surtout aux élèves les plus fragiles.",
+    "consequences": "Des collèges concentrent les difficultés, les familles qui le peuvent les évitent, et l’école cesse d’être un lieu commun.",
+    "democratie": "Une école qui mélange les enfants de tous les milieux prépare des citoyens capables de vivre ensemble.",
+    "propositions": [
+      "Étendre les secteurs multi-collèges et les affectations favorisant la mixité.",
+      "Conditionner le financement public du privé sous contrat à des objectifs de mixité.",
+      "Donner plus de moyens aux établissements qui accueillent les élèves les plus défavorisés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les expériences de mixité n’ont pas amélioré les résultats à court terme et la mixité obtenue reste modeste.",
+        "integration": "Reconnaître que la mixité n’est pas une solution miracle, tout en soulignant qu’elle ne nuit pas aux bons élèves et améliore le bien-être."
+      }
+    ]
+  },
   "concepts": [
     "pauvrete",
     "services_publics",

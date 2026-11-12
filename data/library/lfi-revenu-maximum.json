@@ -236,6 +236,27 @@
     "isf",
     "tva"
   ],
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "solidarite"
+    ],
+    "mecanismes": "Le récit confond taux marginal et taux moyen, et présente une taxation des très hauts revenus comme une menace pour tous les contribuables.",
+    "consequences": "Les classes moyennes, qui ne seraient pas concernées, sont mobilisées contre une mesure qui vise une infime minorité.",
+    "democratie": "Un impôt progressif est un principe républicain : chacun contribue selon ses facultés, comme le prévoit la Déclaration des droits de l’homme.",
+    "propositions": [
+      "Rendre l’impôt sur le revenu plus progressif, avec davantage de tranches.",
+      "Limiter les écarts de rémunération dans les entreprises.",
+      "Taxer davantage les très grands héritages."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’idée d’un revenu maximum a bien circulé lors d’une précédente campagne, et des économistes craignent les effets de taux très élevés sur l’investissement.",
+        "integration": "Assumer le débat sur le niveau des taux, en rappelant qu’il ne concerne que la part des revenus au-delà d’un seuil très élevé."
+      }
+    ]
+  },
   "concepts": [
     "salaires",
     "fiscalite",
