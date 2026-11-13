@@ -1,0 +1,262 @@
+{
+  "id": "eoliennes-oiseaux",
+  "type": "idee_recue",
+  "affirmation": "Les éoliennes tuent des millions d'oiseaux.",
+  "volet": "ecologie",
+  "sous_theme": "Énergies renouvelables",
+  "rubriques": [],
+  "mots_cles": [
+    "eoliennes oiseaux",
+    "eolienne tue des oiseaux",
+    "eoliennes massacrent les oiseaux",
+    "oiseaux tues par eoliennes",
+    "eoliennes rapaces",
+    "eoliennes chauves souris",
+    "pales eoliennes oiseaux",
+    "eolien biodiversite oiseaux"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les éoliennes tuent bien des oiseaux, mais pas « des millions » : la LPO estime la mortalité entre 0,3 et 18 oiseaux par éolienne et par an en France. Aux États-Unis, les éoliennes terrestres tuent environ 234 000 oiseaux par an, contre 2,4 milliards pour les chats et 600 millions pour les vitres. Le vrai responsable de l'effondrement des oiseaux en Europe est l'agriculture intensive. Mais l'impact est réel et localisé : rapaces, espèces protégées, chauves-souris, parcs mal placés.",
+  "contexte": "L'argument revient contre chaque projet éolien, souvent avec des images de rapaces tués. Il est repris par des opposants qui ne s'intéressent guère aux autres causes de mortalité des oiseaux.",
+  "explication": "Il faut comparer la mortalité due aux éoliennes avec les autres causes (chats, vitres, routes, pesticides), puis regarder où et sur quelles espèces cette mortalité se concentre, et ce qu'on sait faire pour la réduire.",
+  "faits": [
+    {
+      "fait": "Selon une étude de la LPO portant sur 142 parcs français, une éolienne tue entre 0,3 et 18,3 oiseaux par an selon les parcs.",
+      "periode": "synthèse de 2017",
+      "perimetre": "France, 1 065 éoliennes suivies",
+      "explication": "On est loin des « millions » : la mortalité par machine est faible, mais très variable selon l'emplacement.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "0,3 à 18,3"
+    },
+    {
+      "fait": "Aux États-Unis, l'agence fédérale de la faune estime que les éoliennes terrestres tuent environ 234 000 oiseaux par an, contre 2,4 milliards pour les chats, 599 millions pour les vitres des bâtiments et 214 millions pour les véhicules.",
+      "periode": "données de 2017",
+      "perimetre": "États-Unis",
+      "explication": "Les éoliennes sont une cause de mortalité très minoritaire par rapport aux activités humaines ordinaires.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "234 012"
+    },
+    {
+      "fait": "Selon le CNRS, l'Europe a perdu environ 800 millions d'oiseaux depuis 1980, et l'intensification de l'agriculture, avec les engrais et les pesticides, en est la première cause.",
+      "periode": "1980-2016",
+      "perimetre": "Europe, 28 pays",
+      "explication": "Si l'on veut vraiment protéger les oiseaux, c'est d'abord le modèle agricole qu'il faut changer.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "800 millions"
+    },
+    {
+      "fait": "Fait défavorable : selon la LPO, 23 % des oiseaux tués sont des rapaces diurnes et 75 % des espèces retrouvées sont protégées en France.",
+      "periode": "synthèse de 2017",
+      "perimetre": "France",
+      "explication": "L'impact touche des espèces rares, à faible reproduction, pour qui chaque mort compte.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "23 %"
+    },
+    {
+      "fait": "Fait défavorable : selon la LPO, la mortalité est au moins deux fois plus élevée dans les parcs situés à moins de 1 000 m d'une zone de protection spéciale pour les oiseaux.",
+      "periode": "synthèse de 2017",
+      "perimetre": "France",
+      "explication": "Le problème vient surtout de parcs mal placés.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "x2"
+    },
+    {
+      "fait": "Fait défavorable : selon la SFEPM, au moins 6 390 cadavres de chauves-souris ont été trouvés sous des éoliennes en France entre 2003 et 2023, dont des noctules communes, espèce classée vulnérable.",
+      "periode": "2003-2023",
+      "perimetre": "France",
+      "explication": "Les chauves-souris sont souvent plus touchées que les oiseaux.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "6 390"
+    },
+    {
+      "fait": "Fait défavorable : en avril 2025, le tribunal de Montpellier a condamné les exploitants du parc d'Aumelas (Hérault) pour la mort de 160 animaux d'espèces protégées, dont des faucons crécerellettes ; la cour d'appel les a relaxés en septembre 2026 après un changement de la loi, qui exige désormais une faute intentionnelle ou une négligence grave.",
+      "periode": "2025-2026",
+      "perimetre": "Hérault",
+      "explication": "Un parc mal placé peut décimer une espèce menacée ; l'assouplissement de la loi rend les poursuites plus difficiles.",
+      "source": 7,
+      "fiabilite": "etabli",
+      "chiffre": "160"
+    },
+    {
+      "fait": "Selon une synthèse de la Fondation pour la recherche sur la biodiversité, l'arrêt des éoliennes en temps réel à l'approche d'oiseaux à risque a réduit la mortalité des vautours jusqu'à 92,8 %, pour moins de 0,51 % d'énergie perdue.",
+      "periode": "2024",
+      "perimetre": "Études internationales",
+      "explication": "On sait réduire fortement la mortalité, à condition de l'imposer.",
+      "source": 5,
+      "fiabilite": "interpretation",
+      "chiffre": "92,8 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les éoliennes tuent des oiseaux, mais pas des millions : entre 0,3 et 18 par machine et par an en France, selon la LPO. Aux États-Unis, c'est environ 234 000 par an, contre 2,4 milliards pour les chats. L'Europe a perdu 800 millions d'oiseaux depuis 1980, d'abord à cause de l'agriculture intensive. Le vrai sujet, ce sont les parcs mal placés près des rapaces.",
+    "moyen": "Oui, les éoliennes tuent des oiseaux, et il ne faut pas le nier. Mais les ordres de grandeur sont parlants. En France, la LPO estime la mortalité entre 0,3 et 18 oiseaux par éolienne et par an. Aux États-Unis, l'agence fédérale de la faune compte environ 234 000 oiseaux tués par an par les éoliennes terrestres, contre 600 millions par les vitres et 2,4 milliards par les chats.\n\nLe vrai massacre est ailleurs : selon le CNRS, l'Europe a perdu 800 millions d'oiseaux depuis 1980, d'abord à cause de l'agriculture intensive et des pesticides. Cela dit, les éoliennes posent un vrai problème quand elles sont mal placées : près des zones protégées, la mortalité double, et des rapaces menacés comme le faucon crécerellette en sont victimes. La solution, c'est de bien choisir les sites et d'arrêter les machines aux moments à risque.",
+    "detaille": "L'affirmation part d'un fait réel : les pales tuent des oiseaux, et les opposants montrent souvent des photos de rapaces. Mais les chiffres disponibles ne permettent pas de parler de « millions ». La LPO, l'association de référence pour la protection des oiseaux, a compilé les suivis de 142 parcs français : la mortalité estimée va de 0,3 à 18,3 oiseaux par éolienne et par an selon les parcs.\n\nPour comparer, l'agence fédérale américaine de la faune estime qu'aux États-Unis, les éoliennes terrestres tuent environ 234 000 oiseaux par an, quand les chats en tuent 2,4 milliards, les vitres 600 millions et les voitures 214 millions. Et l'effondrement des populations d'oiseaux a une cause principale bien identifiée : selon une étude européenne relayée par le CNRS, l'Europe a perdu 800 millions d'oiseaux depuis 1980, et l'intensification de l'agriculture, avec les engrais et les pesticides, en est le premier facteur.\n\nIl ne faut pas pour autant balayer le problème. Selon la LPO, 23 % des oiseaux tués sont des rapaces et 75 % des espèces trouvées sont protégées ; près des zones de protection spéciale, la mortalité est au moins deux fois plus élevée. Les chauves-souris sont aussi très touchées : plus de 6 000 cadavres recensés en France en vingt ans. À Aumelas, dans l'Hérault, un parc a été condamné en 2025 pour la mort de faucons crécerellettes, une espèce menacée, avant une relaxe en appel liée à un assouplissement de la loi.\n\nDes solutions existent : éviter les zones sensibles, arrêter les machines aux heures et saisons à risque, installer des systèmes de détection. Elles réduisent fortement la mortalité pour une perte d'énergie minime. Protéger les oiseaux et développer les renouvelables ne s'opposent pas : il faut planifier, au lieu de laisser le marché choisir les sites.",
+    "empathie": "C'est normal d'être choqué de voir un rapace tué par une pale, et c'est bien de se soucier des oiseaux. Justement : si on veut les protéger, il faut regarder toutes les causes de leur disparition, et exiger que les éoliennes soient bien placées."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Une seule éolienne peut tuer un aigle, c'est déjà trop.",
+      "reponse": "Pour les espèces menacées, chaque mort compte, c'est vrai. C'est pour cela qu'il faut interdire les éoliennes près de leurs zones de vie et imposer l'arrêt des machines aux moments à risque, ce qui marche très bien."
+    },
+    {
+      "objection": "Les chiffres sont sous-estimés par les exploitants.",
+      "reponse": "Les cadavres disparaissent vite et les suivis sont imparfaits, d'où les corrections statistiques de la LPO. Même avec ces corrections, on reste à quelques oiseaux par éolienne et par an, très loin des chats, des vitres ou de l'agriculture intensive."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien d'oiseaux tuent les chats ou les vitres chaque année, comparé aux éoliennes ?",
+    "Si l'on veut sauver les oiseaux, faut-il commencer par les éoliennes ou par les pesticides ?"
+  ],
+  "limites": [
+    "L'étude de la LPO date de 2017 et repose sur des suivis anciens ; il n'existe pas d'estimation nationale récente du nombre total d'oiseaux tués.",
+    "Les chiffres de comparaison (chats, vitres, routes) sont américains et datent de 2017 ; ils ne sont pas transposables tels quels à la France.",
+    "La synthèse de la FRB porte surtout sur des études nord-américaines.",
+    "L'affaire d'Aumelas peut encore faire l'objet d'un pourvoi en cassation."
+  ],
+  "sources": [
+    {
+      "titre": "Le parc éolien français et ses impacts sur l'avifaune — communiqué de presse",
+      "organisme": "LPO (Ligue pour la protection des oiseaux, association)",
+      "date_publication": "20 juin 2017",
+      "url": "https://www-old.lpo.fr/images/Presse/cp/2017/eolien/cp_eolien_version_20_juin_2017.pdf",
+      "passage": "Synthèse de 197 rapports de suivi portant sur 1 065 éoliennes dans 142 parcs : 1 102 cadavres d'oiseaux trouvés lors de 37 839 prospections. Mortalité réelle estimée « de 0,3 à 18,3 oiseaux tués par éolienne et par an » selon les parcs (5,2 aux États-Unis et 8,2 au Canada d'après la littérature citée). Migrateurs, surtout des passereaux : environ 60 % des cadavres ; rapaces diurnes : 23 %. 75 % des 97 espèces trouvées sont protégées en France ; 10,2 % des cadavres appartiennent à des espèces de l'annexe I de la directive Oiseaux (faucon crécerellette, milan royal…). « La mortalité directe due aux éoliennes est au moins deux fois plus importante » dans les parcs situés à moins de 1 000 m d'une zone de protection spéciale (ZPS). La LPO demande de « Refuser l'implantation d'éoliennes à l'intérieur et à proximité des ZPS ». L'étude ne couvre ni le dérangement ni les chauves-souris.",
+      "pertinence": "Étude de l'association de référence sur la protection des oiseaux, à partir des suivis réglementaires des parcs.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Les éoliennes tuent plus d'oiseaux près des zones protégées",
+      "organisme": "Anne Lenormand, Banque des Territoires (Localtis)",
+      "date_publication": "27 juin 2017",
+      "url": "https://www.banquedesterritoires.fr/les-eoliennes-tuent-plus-doiseaux-pres-des-zones-protegees",
+      "passage": "Compte rendu de l'étude de la LPO : mortalité estimée de « 0,3 à 18,3 oiseaux tués par éolienne et par an », nombre de collisions jugé « relativement faible » au regard de l'effort de recherche, mais « extrêmement variable » d'un parc à l'autre ; mortalité au moins doublée à moins de 1 000 m des ZPS ; « il conviendra d'être très vigilant » lors du renouvellement des autorisations des parcs anciens.",
+      "pertinence": "Média de la Caisse des dépôts consacré aux collectivités.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Threats to Birds — Collection",
+      "organisme": "U.S. Fish and Wildlife Service (agence fédérale du ministère de l’Intérieur des États-Unis)",
+      "date_publication": "données « as of 2017 » (page consultée le 13 novembre 2026)",
+      "url": "https://www.fws.gov/library/collections/threats-birds",
+      "passage": "Mortalité annuelle d'oiseaux aux États-Unis, estimation médiane : chats 2,4 milliards (de 1,4 à 3,7 milliards) ; collisions avec les vitres des bâtiments 599 millions ; collisions avec les véhicules 214,5 millions ; empoisonnement 72 millions ; lignes électriques 25,5 millions ; éoliennes terrestres 234 012 (de 140 438 à 327 586). La perte d'habitat est considérée comme la menace la plus importante, mais n'est pas chiffrée.",
+      "pertinence": "Agence publique américaine de la faune ; données nord-américaines, pas françaises.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'intensification de l'agriculture est à l'origine de la disparition des oiseaux en Europe — communiqué de presse",
+      "organisme": "CNRS",
+      "date_publication": "15 mai 2023",
+      "url": "https://www.cnrs.fr/sites/default/files/press_info/2023-05/CPCNRS-oiseauxagriculture-FRok.pdf",
+      "passage": "Étude portant sur 170 espèces dans 28 pays européens, à partir de 37 ans de données sur environ 20 000 sites : le nombre d'oiseaux a baissé d'environ 25 % en 40 ans, soit environ 800 millions d'oiseaux en moins depuis 1980 ; les oiseaux des milieux agricoles ont reculé de 57 % (43 % en France). « l'effet néfaste dominant est celui de l'intensification de l'agriculture », notamment « l'augmentation de la quantité d'engrais et de pesticides utilisée par hectares » ; la hausse des températures vient en second.",
+      "pertinence": "Communiqué de l'organisme public de recherche sur une étude publiée dans PNAS.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Synthèse de la mortalité des chauves-souris par les éoliennes en France, 2003-2023",
+      "organisme": "SFEPM (Société française pour l’étude et la protection des mammifères, association) — Groupe de travail éolien de la Coordination chiroptères nationale",
+      "date_publication": "mars 2025 (version actualisée)",
+      "url": "https://sfepm.org/sites/default/files/inline-files/GTeolien_synthese_mortalite_France_2003-2023.pdf",
+      "passage": "6 390 cadavres de chauves-souris recensés en France entre 2003 et 2023 (seul le maximum par espèce et par région est retenu, ce qui sous-estime la mortalité). Pipistrelle commune : 2 701 cadavres ; noctule commune (classée « vulnérable » sur la liste rouge) : 476 ; noctule de Leisler : 443. Les chiffres bruts ne doivent pas être extrapolés : « Ces biais rendent toute extrapolation hasardeuse ».",
+      "pertinence": "Compilation d'une association naturaliste spécialisée.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Solutions pour réduire l'impact de l'éolien terrestre sur la biodiversité (dépliant)",
+      "organisme": "Fondation pour la recherche sur la biodiversité (FRB)",
+      "date_publication": "2025 (synthèse Quinard et al., 2024)",
+      "url": "https://www.fondationbiodiversite.fr/wp-content/uploads/2025/05/FRB_Depliant_Solutions_Eolien_Terrestre_VF.pdf",
+      "passage": "L'arrêt des éoliennes en temps réel à l'approche d'oiseaux à risque a réduit la mortalité des vautours fauves « jusqu'à 92,8 % » avec moins de 0,51 % de perte d'énergie ; ces technologies réduisent la mortalité « jusqu'à 84,5 % pour les chauves-souris ». Le bridage pour les chauves-souris atteint « parfois une efficacité de 100 % ». L'évitement des zones sensibles est efficace, mais la France n'a jamais vraiment mis en place de planification spatiale de l'éolien terrestre.",
+      "pertinence": "Synthèse bibliographique d'une fondation de recherche (études surtout nord-américaines).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Condamnation d'EDF Renouvelables et neuf autres sociétés exploitantes d'un parc éolien pour la mort d'espèces protégées",
+      "organisme": "Le Club des juristes",
+      "date_publication": "7 avril 2025",
+      "url": "https://www.leclubdesjuristes.com/en-bref/condamnation-dedf-renouvelables-et-neuf-autres-societes-exploitantes-dun-parc-eolien-pour-la-mort-despeces-protegees-10182/",
+      "passage": "Le tribunal judiciaire de Montpellier a « jugé responsables les dix sociétés exploitantes du parc éolien d'Aumelas » (Hérault, 31 éoliennes) pour « destruction d'espèces protégées » : mort de 160 animaux d'espèces protégées, dont des faucons crécerellettes et des chauves-souris. Arrêt des 31 éoliennes pendant quatre mois ; 500 000 euros d'amende par société, dont 250 000 avec sursis.",
+      "pertinence": "Revue juridique ; décision de première instance.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Oiseaux mis en danger par des éoliennes : EDF Renouvelables relaxé en appel à Montpellier",
+      "organisme": "AFP (dépêche reprise par Connaissance des Énergies)",
+      "date_publication": "22 septembre 2026",
+      "url": "https://www.connaissancedesenergies.org/afp/oiseaux-mis-en-danger-par-des-eoliennes-edf-renouvelables-relaxe-en-appel-a-montpellier-260922",
+      "passage": "La cour d'appel de Montpellier relaxe EDF Renouvelables et neuf filiales, condamnées en première instance pour la mort de 160 faucons crécerellettes à Aumelas. Elle s'appuie sur une modification du code de l'environnement par la loi d'orientation agricole, qui exige désormais « un acte intentionnel de l'auteur ou d'une négligence grave de sa part ». France Nature Environnement Occitanie-Méditerranée envisage un pourvoi en cassation. Une décision de la cour administrative d'appel de Toulouse (16 avril 2026) impose toujours l'arrêt des éoliennes chaque année du 10 avril au 20 août autour de l'aube et du crépuscule. Population française de faucons crécerellettes estimée à 565 couples en 2023.",
+      "pertinence": "Dépêche d'agence de presse.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles synthèses nationales de mortalité et suites de l'affaire d'Aumelas.",
+  "objections_legitimes": [
+    "Certains parcs mal placés tuent des rapaces et des espèces menacées.",
+    "Les chauves-souris paient un lourd tribut aux éoliennes.",
+    "Les suivis de mortalité sont faits par les exploitants et restent incomplets."
+  ],
+  "publics": {
+    "convaincus": "Les éoliennes tuent des oiseaux, c'est vrai, et des parcs mal placés tuent des rapaces menacés. Mais on parle de quelques oiseaux par machine et par an, pas de millions : aux États-Unis, les chats en tuent dix mille fois plus. Si tu tiens aux oiseaux, regarde les pesticides : c'est eux qui ont fait disparaître 800 millions d'oiseaux en Europe.",
+    "indecis": "Ta question est légitime : les éoliennes tuent des oiseaux, surtout quand elles sont placées près de zones protégées ou de couloirs de migration. Mais l'ordre de grandeur est faible comparé aux chats, aux vitres ou à l'agriculture intensive. Le bon réflexe, c'est d'exiger des parcs bien placés et des arrêts aux moments à risque."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "democratie",
+      "solidarite"
+    ],
+    "mecanismes": "On isole une cause de mortalité visible et spectaculaire, la pale qui frappe un rapace, pour masquer les causes massives et diffuses : l’agriculture intensive, les pesticides, l’artificialisation des sols. L’argument écologique sert alors à freiner la transition énergétique plutôt qu’à protéger les oiseaux.",
+    "consequences": "Les populations d’oiseaux s’effondrent surtout dans les campagnes cultivées ; les espèces rares, comme certains rapaces et les chauves-souris, souffrent aussi de parcs mal placés que la loi sanctionne de moins en moins.",
+    "democratie": "Le choix des sites est trop souvent laissé aux promoteurs privés, sans planification publique ni débat local sérieux : c’est ce vide qui produit les parcs mal placés et nourrit la défiance.",
+    "propositions": [
+      "Planifier publiquement l’implantation des éoliennes en excluant les zones sensibles pour la faune.",
+      "Imposer l’arrêt des machines aux périodes et heures à risque, avec un contrôle indépendant des suivis de mortalité.",
+      "S’attaquer aux premières causes du déclin des oiseaux en accompagnant les agriculteurs vers la sortie des pesticides."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des parcs mal placés tuent des rapaces protégés et beaucoup de chauves-souris, et un exploitant a été condamné en première instance pour la mort de faucons menacés.",
+        "integration": "Reconnaître ce coût réel et en faire un argument pour une planification publique et des règles strictes, pas pour renoncer aux renouvelables."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "eolien",
+    "eolien_oiseaux"
+  ],
+  "repond_a": [
+    {
+      "id": "eolien_oiseaux_q0614",
+      "label": "Éoliennes et oiseaux"
+    },
+    {
+      "id": "ecologie_q0614_eolien_oiseaux",
+      "label": "Éoliennes et oiseaux"
+    },
+    {
+      "id": "eolien_q0614_eolien_oiseaux",
+      "label": "Éoliennes et oiseaux"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire"
+  ]
+}

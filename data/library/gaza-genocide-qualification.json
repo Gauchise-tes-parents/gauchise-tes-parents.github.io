@@ -250,12 +250,6 @@
       }
     ]
   },
-  "concepts": [
-    "justice",
-    "medias",
-    "gaza_genocide",
-    "antisemitisme"
-  ],
   "repond_a": [
     {
       "id": "gaza_genocide_q2013",
@@ -284,5 +278,11 @@
     "nous cachent",
     "on nous cache",
     "propagande"
+  ],
+  "concepts": [
+    "justice",
+    "medias",
+    "gaza_genocide",
+    "antisemitisme"
   ]
 }

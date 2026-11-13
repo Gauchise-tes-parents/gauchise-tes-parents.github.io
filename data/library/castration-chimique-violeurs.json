@@ -1,0 +1,248 @@
+{
+  "id": "castration-chimique-violeurs",
+  "type": "idee_recue",
+  "affirmation": "Il faut la castration chimique obligatoire pour les violeurs.",
+  "volet": "securite",
+  "sous_theme": "Violences sexuelles",
+  "rubriques": [],
+  "mots_cles": [
+    "castration chimique",
+    "castrer les violeurs",
+    "castration chimique obligatoire",
+    "traitement anti hormonal",
+    "inhibiteur de libido",
+    "castration des pedophiles",
+    "castration violeurs",
+    "injonction de soins"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le traitement anti-hormonal, souvent appelé castration chimique, existe déjà en France : un médecin peut le prescrire dans le cadre d'une injonction de soins, et refuser ses soins peut renvoyer en prison. Mais selon la Haute Autorité de santé, il ne concerne qu'environ 10 à 15 % des auteurs, ceux qui ont des pulsions déviantes graves, et ne supprime pas le risque de récidive. La plupart des viols sont commis par des hommes sans trouble sexuel, souvent des proches, et la grande majorité ne sont jamais jugés.",
+  "contexte": "La castration chimique obligatoire est réclamée après chaque crime sexuel médiatisé, notamment en 2007, en 2018 et en juin 2026. Elle est présentée comme une solution simple contre la récidive.",
+  "explication": "Il faut regarder ce que permet déjà la loi, à qui ce traitement s'adresse selon les autorités de santé, ce qu'il fait réellement, et qui sont les auteurs de viols.",
+  "faits": [
+    {
+      "fait": "Un médecin peut déjà prescrire des médicaments inhibiteurs de la libido à un condamné soumis à une injonction de soins, dispositif créé par la loi du 17 juin 1998 ; depuis 2010, un consentement écrit renouvelé n'est plus exigé, et refuser le traitement contre l'avis du médecin peut conduire à une réincarcération.",
+      "periode": "1998-2018",
+      "perimetre": "France",
+      "explication": "Le traitement existe et le refus est déjà sanctionné ; ce qui manque, ce sont les moyens du suivi.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Haute Autorité de santé, les traitements hormonaux ne concernent qu'environ 10 à 15 % des auteurs d'actes sexuels inappropriés, doivent être associés à une psychothérapie et peuvent aider à éviter la récidive « sans jamais pouvoir l'exclure ».",
+      "periode": "2009",
+      "perimetre": "France",
+      "explication": "C'est un outil médical ciblé, pas une réponse générale aux viols.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "10 à 15 %"
+    },
+    {
+      "fait": "Fait défavorable : la Haute Autorité de santé reconnaît que ces traitements réduisent les comportements sexuels inappropriés et les recommande pour certains pédophiles sévères et des violeurs récidivistes au comportement prédateur.",
+      "periode": "2009",
+      "perimetre": "France",
+      "explication": "Pour une petite minorité d'auteurs, le traitement est un outil utile ; le nier serait malhonnête.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon des psychiatres experts interrogés par Public Sénat, le traitement réduit les pulsions sans les supprimer, et la plupart des infractions sexuelles sont commises par des personnes sans trouble sexuel, comme dans la plupart des incestes.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Un viol n'est pas d'abord une affaire d'hormones : c'est souvent une affaire de domination.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon l'enquête de victimation exploitée par la Miprof, 49 % des femmes victimes de violences sexuelles connaissent leur agresseur, et dans 22 % des cas c'est leur conjoint ou ex-conjoint ; seules 6 % portent plainte.",
+      "periode": "2021",
+      "perimetre": "France métropolitaine, 18-74 ans",
+      "explication": "Une grande partie des auteurs sont des proches, et la plupart ne seront jamais jugés : une mesure qui vise les condamnés n'atteint qu'une petite partie d'entre eux.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "6 %"
+    },
+    {
+      "fait": "Pour les viols de femmes majeures enregistrés par la police et la gendarmerie en 2022, l'auteur présumé est le conjoint ou l'ex-conjoint dans 41 % des cas.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le violeur inconnu et pulsionnel est loin d'être le cas typique.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "41 %"
+    },
+    {
+      "fait": "Selon un rapport du Sénat de 2025, la récidive légale est de 5,7 % pour le viol, contre 7,2 % pour l'ensemble des crimes ; mais ces chiffres sous-estiment la réalité, car très peu d'auteurs sont jugés.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le problème principal n'est pas la récidive des condamnés, mais l'impunité de la majorité des auteurs.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "5,7 %"
+    },
+    {
+      "fait": "Le Sénat relève que le suivi socio-judiciaire ne concerne que 20 % des auteurs, et que l'injonction de soins manque d'experts psychiatres et de médecins coordonnateurs.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Avant d'imposer un traitement, il faudrait déjà assurer le suivi prévu par la loi.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "La castration chimique existe déjà : un médecin peut la prescrire dans le cadre d'une injonction de soins, et refuser ses soins peut renvoyer en prison. Mais selon la Haute Autorité de santé, elle ne concerne qu'environ 10 à 15 % des auteurs et n'exclut jamais la récidive. La plupart des violeurs sont des proches, et la grande majorité ne sont jamais jugés.",
+    "moyen": "Le traitement anti-hormonal est déjà possible en France. Depuis la loi de 1998, un condamné peut être soumis à une injonction de soins, et le médecin peut prescrire des médicaments inhibiteurs de la libido. Refuser ce traitement contre l'avis du médecin peut conduire à un retour en prison.\n\nMais ce n'est pas une solution miracle. Selon la Haute Autorité de santé, il ne concerne qu'environ 10 à 15 % des auteurs, ceux qui ont des pulsions déviantes graves, et il réduit le risque sans jamais l'exclure. La plupart des viols sont commis par des hommes sans trouble sexuel, souvent des proches : dans 41 % des viols de femmes majeures enregistrés, l'auteur présumé est le conjoint ou l'ex-conjoint. Et seules 6 % des victimes portent plainte. Le vrai problème, c'est l'impunité et le manque de soignants pour suivre les condamnés.",
+    "detaille": "La castration chimique n'est pas une idée nouvelle : elle a été proposée en 2007, en 2018 et encore en juin 2026. Elle existe pourtant déjà. Depuis la loi du 17 juin 1998, un condamné pour violences sexuelles peut être soumis à un suivi socio-judiciaire avec injonction de soins, et le médecin peut lui prescrire des médicaments inhibiteurs de la libido. Depuis la loi du 10 mars 2010, son consentement écrit n'est plus exigé, et refuser le traitement contre l'avis du médecin peut le renvoyer en prison. Ce que la loi ne permet pas, c'est qu'un juge impose un médicament précis : c'est une décision médicale.\n\nCe traitement a une utilité réelle, mais limitée. Selon la Haute Autorité de santé, il ne concerne qu'environ 10 à 15 % des auteurs, notamment des pédophiles sévères et des violeurs récidivistes au comportement prédateur. Il doit être associé à une psychothérapie et peut aider à éviter la récidive, « sans jamais pouvoir l'exclure ». Les psychiatres experts le rappellent : il diminue les pulsions mais ne les supprime pas, et la plupart des auteurs n'ont pas de trouble sexuel. Un viol est souvent un acte de domination, pas une pulsion incontrôlable.\n\nSurtout, la mesure vise les mauvaises personnes. Selon l'enquête de victimation, près de la moitié des femmes victimes de violences sexuelles connaissent leur agresseur, et dans 41 % des viols de femmes majeures enregistrés, l'auteur présumé est le conjoint ou l'ex-conjoint. Seules 6 % des victimes portent plainte. La récidive légale des condamnés pour viol (5,7 %) est inférieure à celle des autres crimes, même si ces chiffres sous-estiment la réalité. Le Sénat constate que le suivi socio-judiciaire ne concerne que 20 % des auteurs et que les psychiatres manquent. Lutter contre les viols, c'est d'abord faire en sorte que les victimes soient écoutées et les auteurs jugés, puis suivis.",
+    "empathie": "La peur que des violeurs recommencent est légitime, et la colère après certains crimes aussi. On veut tous une mesure qui protège vraiment. C'est justement pour ça qu'il faut regarder ce qui marche."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on les castre, ils ne pourront plus recommencer.",
+      "reponse": "Selon la Haute Autorité de santé, le traitement réduit les pulsions mais ne supprime jamais le risque. Et la plupart des auteurs n'ont pas de trouble sexuel : un viol est souvent un acte de domination."
+    },
+    {
+      "objection": "Ça marche dans d'autres pays.",
+      "reponse": "Le traitement existe aussi en France, avec un médecin et un suivi. Le rendre automatique pour tous les violeurs ne toucherait que les condamnés, alors que seules 6 % des victimes portent plainte."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'un médecin peut déjà prescrire ce traitement à un condamné, et que le refuser peut le renvoyer en prison ?",
+    "Que fait-on des violeurs qui ne sont jamais jugés, c'est-à-dire la grande majorité ?",
+    "Si l'agresseur est souvent le conjoint ou un proche, est-ce vraiment une question d'hormones ?"
+  ],
+  "limites": [
+    "Les recommandations de la Haute Autorité de santé datent de 2009 et portent sur les auteurs d'agressions sur mineurs.",
+    "Aucune source consultée ne donne le nombre de personnes traitées par anti-hormonaux en France.",
+    "Le chiffre de 49 % d'auteurs connus concerne l'ensemble des violences sexuelles déclarées par les femmes de 18 à 74 ans (données 2021), pas uniquement les viols ; pour les viols enregistrés, la part des conjoints atteint 41 %.",
+    "Le brief évoquait une loi de 2005 : les textes consultés citent les lois de 1998 et de 2010."
+  ],
+  "sources": [
+    {
+      "titre": "Prise en charge des auteurs d'agression sexuelle à l'encontre de mineurs de moins de 15 ans — Recommandations de bonne pratique",
+      "organisme": "Haute Autorité de santé (HAS)",
+      "date_publication": "juillet 2009",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2010-03/aas_-_recommandations.pdf",
+      "passage": "Les traitements hormonaux « réduisent les comportements sexuels inappropriés, mais ils réduisent également l'activité sexuelle globale ». La population concernée est restreinte : environ 10 à 15 % des auteurs d'un acte sexuel inapproprié, notamment des pédophiles sévères et « des violeurs récidivistes avec comportement prédateur ». « La prescription doit être réalisée après information complète » et consentement. « Le traitement doit être associé à une psychothérapie ». Le soin « peut ainsi contribuer à éviter la récidive de l'agression sexuelle, sans jamais pouvoir l'exclure ». Les analogues de la GnRH sont réservés aux derniers niveaux d'un algorithme qui commence par la psychothérapie.",
+      "pertinence": "Recommandations officielles de l'autorité publique de santé ; elles datent de 2009.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 9457 « Castration chimique » et réponse du ministère de la Justice",
+      "organisme": "Assemblée nationale (question de Fabien Di Filippo, réponse du ministère de la Justice)",
+      "date_publication": "question du 19 juin 2018, réponse du 7 août 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE9457.pdf",
+      "passage": "La castration chimique est un traitement médical réversible par médicaments inhibiteurs de la libido ; ce n'est pas une mesure judiciaire et elle ne peut être systématique selon l'infraction ou la peine. Elle peut s'inscrire dans une injonction de soins, créée par la loi du 17 juin 1998 instituant le suivi socio-judiciaire ; le médecin traitant peut prescrire « tout traitement indiqué pour le soin du condamné y compris des médicaments inhibiteurs de libido » (art. L. 3711-3 du code de la santé publique). Le juge ordonne des soins mais ne choisit pas le traitement. Depuis la loi n° 2010-242 du 10 mars 2010, le consentement écrit renouvelé n'est plus exigé ; le traitement ne peut être imposé par la force, mais le refus peut entraîner une réincarcération ou une rétention de sûreté.",
+      "pertinence": "Réponse officielle du gouvernement publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Affaire Lyhanna : la proposition de Bruno Retailleau visant à imposer la castration chimique des pédocriminels jugée inefficace par les experts",
+      "organisme": "Simon Barbarit, Public Sénat",
+      "date_publication": "12 juin 2026",
+      "url": "https://www.publicsenat.fr/actualites/politique/affaire-lyhanna-la-proposition-de-bruno-retailleau-visant-a-imposer-la-castration-chimique-des-pedocriminels-jugee-inefficace-par-les-experts",
+      "passage": "Bruno Retailleau réclame une « castration chimique obligatoire pour les individus les plus dangereux ». Des propositions similaires avaient été faites en 2007 et en 2018. Le Dr Manuel Orsat, expert près la cour d'appel d'Angers, parle d'« une mesure populiste » et rappelle que la plupart des infractions sexuelles sont commises par des personnes sans trouble sexuel, par exemple dans la plupart des incestes. Le psychiatre Laurent Layet (président de la CNEPCA) : le traitement réduit l'intensité des pulsions mais « ne les annihile pas » ; y voir une garantie contre la récidive est « une fausse croyance ». Le consentement est requis et peut être retiré ; les traitements ont des effets secondaires et sont contre-indiqués chez les mineurs. Environ 6 000 personnes sont condamnées chaque année pour des violences sexuelles.",
+      "pertinence": "Chaîne parlementaire ; propos d'experts psychiatres.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Viol : le Sénat veut obliger les auteurs à suivre une injonction de soins en détention pour éviter la récidive",
+      "organisme": "Public Sénat",
+      "date_publication": "21 mai 2025",
+      "url": "https://www.publicsenat.fr/actualites/politique/viol-le-senat-veut-obliger-les-auteurs-a-suivre-une-injonction-de-soins-en-detention-pour-eviter-la-recidive",
+      "passage": "Selon le rapport sénatorial, la récidive légale est de 5,7 % pour le viol contre 7,2 % pour l'ensemble des crimes, et de 9 % pour les agressions sexuelles contre 17 % pour l'ensemble des délits ; ces chiffres sont trompeurs car une très faible part des auteurs arrive devant la justice. L'injonction de soins concerne 26 % des condamnés pour viol et 7 % des condamnés pour agression sexuelle. Les plaintes pour violences sexuelles ont augmenté de près de 120 % entre 2016 et 2023.",
+      "pertinence": "Chaîne parlementaire rendant compte d'un rapport du Sénat.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Prévention de la récidive du viol : prendre en charge les auteurs pour éviter de nouvelles victimes (L'essentiel du rapport d'information n° 650)",
+      "organisme": "Sénat (mission conjointe de la commission des lois et de la délégation aux droits des femmes)",
+      "date_publication": "mai 2025",
+      "url": "https://www.senat.fr/rap/r24-650/r24-650-syn.pdf",
+      "passage": "« les taux officiels de récidive légale et de réitération pour ces infractions sont largement inférieurs » à ceux des autres crimes et délits, mais « Il manque de statistiques fiables permettant d'évaluer l'efficacité des dispositifs juridiques et médicaux ». Le suivi socio-judiciaire « ne concerne que 20 % » des auteurs ; l'injonction de soins « se heurte à des difficultés d'accès aux soins », avec « un manque criant d'experts psychiatres » et de médecins coordonnateurs. Recommandation : « Créer une véritable injonction de soins en détention ».",
+      "pertinence": "Rapport parlementaire de contrôle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Lettre de l'Observatoire national des violences faites aux femmes (mars 2024, mise à jour février 2025)",
+      "organisme": "Mission interministérielle pour la protection des femmes (Miprof), d’après l’enquête VRS et les données du SSMSI",
+      "date_publication": "février 2025",
+      "url": "https://arretonslesviolences.gouv.fr/sites/default/files/2025-02/Lettre%20Observatoire%20national%20des%20violences%20faites%20aux%20femmes_Miprof_Mars%202024_MAJ%20F%C3%A9vrier%202025.pdf",
+      "passage": "Enquête VRS (données 2021, 18-74 ans) : 217 000 femmes déclarent avoir été victimes de viols, tentatives de viol ou agressions sexuelles ; « les femmes victimes connaissent l'agresseur personnellement (39 %) ou de vue (10 %) » ; « Dans 22 % des situations, il s'agit du conjoint ou de l'ex-conjoint » ; « Elles ne sont que 6% à avoir porté plainte ». Données de police et de gendarmerie 2022 : pour les viols de femmes majeures, « Dans 41 % des cas, l'auteur présumé est le conjoint ou ex-conjoint » ; l'auteur appartient à la sphère familiale, conjugale comprise, dans 29 % des violences sexuelles enregistrées ; les mineures représentent 56 % des victimes de violences sexuelles connues des forces de sécurité.",
+      "pertinence": "Publication officielle d'une mission interministérielle, à partir de la statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suites législatives du rapport du Sénat de 2025 et nouvelles données de victimation.",
+  "objections_legitimes": [
+    "Pour une petite minorité d'auteurs aux pulsions déviantes graves, le traitement anti-hormonal est un outil médical utile.",
+    "Le suivi des auteurs de violences sexuelles après leur peine est insuffisant, faute de psychiatres.",
+    "La récidive réelle est mal connue, car beaucoup d'auteurs ne sont jamais jugés."
+  ],
+  "publics": {
+    "convaincus": "Le traitement existe déjà : un médecin peut le prescrire à un condamné, et le refus peut le renvoyer en prison. Mais il ne concerne qu'une petite partie des auteurs et ne supprime jamais le risque, selon la Haute Autorité de santé. La plupart des violeurs sont des proches, des maris, des ex, et presque aucun n'est jugé : c'est là qu'il faut frapper.",
+    "indecis": "Vouloir empêcher la récidive est légitime, et ce traitement peut aider pour certains auteurs aux pulsions graves. Mais il ne concerne qu'environ 10 à 15 % d'entre eux, et la majorité des viols sont commis par des hommes sans trouble sexuel, souvent des proches. Faire juger les auteurs et financer leur suivi protège davantage."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "vulnerables",
+      "dignite"
+    ],
+    "mecanismes": "Présenter le viol comme une affaire d’hormones détourne l’attention de ce qu’il est souvent : un acte de domination commis par un proche, rarement puni.",
+    "consequences": "Les victimes de conjoints, de pères ou de collègues ne sont pas protégées par une mesure qui ne vise que les rares condamnés, pendant que le suivi prévu par la loi manque de soignants.",
+    "democratie": "Confier à un tribunal le choix d’un médicament reviendrait à confondre la justice et la médecine, et à fragiliser le principe du consentement aux soins.",
+    "propositions": [
+      "Recruter des psychiatres et des médecins coordonnateurs pour que l’injonction de soins soit réellement appliquée.",
+      "Mieux accueillir les plaintes et former policiers et magistrats pour que davantage d’auteurs soient jugés.",
+      "Financer la prévention et l’éducation au consentement dès l’école."
+    ],
+    "defavorables": [
+      {
+        "fait": "La Haute Autorité de santé reconnaît l’utilité des traitements hormonaux pour certains auteurs aux pulsions déviantes graves.",
+        "integration": "Défendre ce traitement comme un outil médical ciblé, prescrit par un médecin et associé à une psychothérapie, sans en faire une réponse générale."
+      }
+    ]
+  },
+  "concepts": [
+    "delinquance",
+    "castration",
+    "justice"
+  ],
+  "repond_a": [
+    {
+      "id": "castration_q0614",
+      "label": "Castration chimique"
+    },
+    {
+      "id": "delinquance_q0614_castration",
+      "label": "Castration chimique"
+    },
+    {
+      "id": "justice_q0614_castration",
+      "label": "Castration chimique"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "justice"
+  ]
+}

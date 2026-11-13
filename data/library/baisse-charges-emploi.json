@@ -184,11 +184,6 @@
       }
     ]
   },
-  "concepts": [
-    "emploi",
-    "fiscalite",
-    "cout"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -204,5 +199,10 @@
     "tva",
     "cout",
     "couts"
+  ],
+  "concepts": [
+    "emploi",
+    "fiscalite",
+    "cout"
   ]
 }

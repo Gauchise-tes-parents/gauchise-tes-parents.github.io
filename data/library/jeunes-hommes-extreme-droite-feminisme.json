@@ -1,0 +1,259 @@
+{
+  "id": "jeunes-hommes-extreme-droite-feminisme",
+  "type": "idee_recue",
+  "affirmation": "Les jeunes hommes votent à l'extrême droite à cause du féminisme.",
+  "volet": "politique",
+  "sous_theme": "Droite et extrême droite",
+  "rubriques": [],
+  "mots_cles": [
+    "jeunes hommes extreme droite",
+    "jeunes hommes votent rn",
+    "vote des jeunes hommes",
+    "feminisme vote rn",
+    "fosse jeunes hommes jeunes femmes",
+    "jeunes hommes masculinisme",
+    "gender gap vote",
+    "les jeunes votent bardella"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Trompeur, car trop simple. Il existe bien un écart grandissant entre jeunes femmes et jeunes hommes : ces derniers se placent plus souvent à droite radicale et adhèrent davantage aux stéréotypes de genre, sur fond de montée du masculinisme. Mais aucune étude ne démontre que le féminisme serait la cause de leur vote. Le vote RN des jeunes s'explique d'abord par le pouvoir d'achat, l'immigration et le niveau de diplôme. Et les femmes votent presque autant RN que les hommes : 32 % contre 36 % aux législatives de 2024.",
+  "contexte": "Depuis les élections de 2024, de nombreux commentaires expliquent la poussée du RN chez les jeunes par un rejet masculin du féminisme et de #MeToo. Cette lecture circule aussi bien à droite, pour accuser le féminisme, qu'à gauche, pour dénoncer le masculinisme.",
+  "explication": "Il faut regarder les sondages de sortie des urnes par âge et par sexe, les enquêtes sur les valeurs des jeunes et les motivations de vote déclarées, en distinguant une corrélation d'une cause.",
+  "faits": [
+    {
+      "fait": "Selon Ipsos, au premier tour des législatives de 2024, le RN a obtenu 36 % chez les hommes et 32 % chez les femmes, un écart faible.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le vote RN n'est pas une affaire d'hommes : les femmes le choisissent presque autant.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "32 %"
+    },
+    {
+      "fait": "Selon Ipsos, le vote RN est passé de 17 % à 32 % chez les femmes et de 18 % à 32 % chez les moins de 35 ans entre 2022 et 2024.",
+      "periode": "2022-2024",
+      "perimetre": "France",
+      "explication": "La poussée du RN touche aussi les femmes, ce que l'explication par le seul rejet masculin du féminisme ne permet pas de comprendre.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "32 %"
+    },
+    {
+      "fait": "Selon Ipsos, chez les 18-24 ans, le Nouveau Front populaire est arrivé en tête en 2024, avec 15 points d'avance sur le RN.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La jeunesse vote d'abord à gauche ; le RN y reste minoritaire.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Fait défavorable : selon une note du Cepremap fondée sur l'European Social Survey, 14 % des hommes de moins de 40 ans se placent à la droite radicale en 2023 (+7 points), contre 7 % des femmes, une proportion stable.",
+      "periode": "2002-2023",
+      "perimetre": "France",
+      "explication": "Un vrai fossé politique se creuse entre jeunes hommes et jeunes femmes.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "14 %"
+    },
+    {
+      "fait": "Fait défavorable : selon le Haut Conseil à l'égalité, 45 % des hommes de moins de 35 ans jugent difficile d'être un homme, une proportion en forte hausse chez les 15-24 ans.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Une partie des jeunes hommes vit les changements liés à l'égalité comme une perte, terrain sur lequel prospère le masculinisme.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "45 %"
+    },
+    {
+      "fait": "Selon le Haut Conseil à l'égalité, le masculinisme est devenu « un système idéologique structuré », et l'écart d'opinions entre femmes et hommes est le plus élevé chez les jeunes.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le masculinisme est un mouvement organisé qui travaille ce malaise ; ce n'est pas le féminisme qui pousse mécaniquement au vote RN.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon une analyse publiée par la Fondation Jean-Jaurès, le pouvoir d'achat est la première motivation de vote des jeunes en 2024, l'immigration la troisième ; seuls 40 % des 18-24 ans ont voté aux européennes.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les motivations déclarées des jeunes électeurs sont d'abord économiques et migratoires.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "40 %"
+    },
+    {
+      "fait": "Selon une analyse de Terra Nova Jeunes, le vote RN des jeunes est « fortement corrélé au niveau de diplôme », et les 33 % de jeunes votants RN aux législatives de 2024 représentent moins de 10 % de la classe d'âge.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le vote RN des jeunes tient beaucoup à leur situation sociale, et il reste minoritaire dans la jeunesse.",
+      "source": 6,
+      "fiabilite": "interpretation",
+      "chiffre": "10 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Il y a bien un fossé entre jeunes femmes et jeunes hommes, et le masculinisme progresse. Mais rien ne prouve que le féminisme fasse voter RN. Les jeunes citent d'abord le pouvoir d'achat, et les femmes votent presque autant RN que les hommes.",
+    "moyen": "L'écart existe : selon une note du Cepremap, 14 % des hommes de moins de 40 ans se placent à la droite radicale, contre 7 % des femmes. Et le Haut Conseil à l'égalité constate un masculinisme en pleine expansion chez les jeunes.\n\nMais dire que le féminisme serait la cause du vote RN ne tient pas. Les femmes ont voté RN presque autant que les hommes en 2024 (32 % contre 36 % selon Ipsos), et chez les 18-24 ans, c'est la gauche qui arrive en tête. Les jeunes qui votent RN citent d'abord le pouvoir d'achat et l'immigration, et ce vote est très lié au niveau de diplôme.",
+    "detaille": "Il y a un fond de vérité. Les enquêtes montrent un fossé croissant entre jeunes femmes et jeunes hommes. Selon une note du Cepremap, 14 % des hommes de moins de 40 ans se placent à la droite radicale en 2023, contre 7 % des femmes. Selon le Haut Conseil à l'égalité, 45 % des hommes de moins de 35 ans jugent difficile d'être un homme, et le masculinisme est devenu un mouvement idéologique structuré, très présent sur les réseaux sociaux.\n\nMais il y a loin de cette corrélation à une cause. Le vote RN progresse autant chez les femmes : de 17 % à 32 % entre 2022 et 2024 selon Ipsos, presque autant que chez les hommes. Si le rejet du féminisme expliquait tout, le vote RN n'aurait pas autant progressé chez les femmes.\n\nLes jeunes qui votent RN mettent d'abord en avant le pouvoir d'achat, puis l'immigration. Leur vote est très lié au niveau de diplôme et à la précarité. Enfin, la majorité des jeunes ne vote pas, et parmi ceux qui votent, la gauche arrive en tête chez les 18-24 ans.\n\nLe vrai sujet, c'est que des influenceurs masculinistes exploitent le malaise de jeunes hommes précaires. Accuser le féminisme revient à reprendre leur discours.",
+    "empathie": "Beaucoup de parents s'inquiètent de voir leurs fils se radicaliser en ligne, et beaucoup de jeunes hommes se sentent sans repères. Ces inquiétudes sont réelles."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si les jeunes femmes votent à gauche et les jeunes hommes à droite, c'est bien à cause du féminisme.",
+      "reponse": "Les femmes votent presque autant RN que les hommes en 2024. Et les jeunes qui votent RN citent d'abord le pouvoir d'achat. Le féminisme n'explique pas cela."
+    },
+    {
+      "objection": "Le féminisme a dévalorisé les hommes, il ne faut pas s'étonner du résultat.",
+      "reponse": "Ce discours est celui des influenceurs masculinistes. L'égalité ne retire rien aux hommes ; c'est la précarité et l'absence d'avenir qui nourrissent la colère."
+    }
+  ],
+  "questions": [
+    "Si c'était le féminisme, pourquoi les femmes votent-elles presque autant RN que les hommes ?",
+    "Qu'est-ce qui pèse le plus dans la vie d'un jeune de vingt ans : le féminisme ou le prix du loyer ?"
+  ],
+  "limites": [
+    "Aucun sondage lu ne publie de croisement âge × sexe pour le vote RN de 2024 ; les chiffres par sexe portent sur tous les âges.",
+    "Les sondages le jour du vote ont des marges d'erreur, surtout sur les petits sous-groupes.",
+    "La note du Cepremap porte sur l'autopositionnement politique, pas sur le vote ; elle mentionne par ailleurs des « législatives de 2023 », probablement une erreur de date, chiffre non repris.",
+    "Les causes du vote sont débattues entre chercheurs : il n'existe pas d'étude démontrant un lien de cause à effet."
+  ],
+  "sources": [
+    {
+      "titre": "Sociologie des électorats — Législatives 2024 (1er tour)",
+      "organisme": "Ipsos Talan pour France Télévisions, Radio France et Public Sénat (sondage le jour du vote)",
+      "date_publication": "30 juin 2024",
+      "url": "https://www.ipsos.com/fr-fr/legislatives-2024/node/1025896",
+      "passage": "Enquête du 27 au 28 juin 2024 auprès de 10 286 inscrits. Par rapport à 2022, le RN progresse chez « les femmes (de 17% à 32%) » et chez « les moins de 35 ans (de 18% à 32%) ». Chez les 18-24 ans, le NFP devance le RN de 15 points ; la moitié des moins de 25 ans a choisi le NFP.",
+      "pertinence": "Sondage d'un institut privé, réalisé pour des médias publics.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Élections législatives 2024 : le profil des électeurs en 7 points",
+      "organisme": "Public Sénat (d’après l’enquête Ipsos Talan)",
+      "date_publication": "1er juillet 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/elections-legislatives-2024-le-profil-des-electeurs-en-7-points",
+      "passage": "Vote au 1er tour : le NFP obtient 48 % chez les 18-24 ans, le RN « 33 % des 18-24 ans ». Les écarts entre hommes et femmes sont faibles ; seul le RN présente un écart de 4 points : « 36 % d'hommes » contre « 32 % de femmes ». Aucun croisement âge × sexe n'est publié.",
+      "pertinence": "Chaîne parlementaire reprenant un sondage Ipsos.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Un fossé idéologique grandissant entre jeunes femmes et jeunes hommes en France (note n° 2025-07)",
+      "organisme": "Yann Algan (HEC) et Eugénie de Laubier, Observatoire du bien-être du Cepremap",
+      "date_publication": "24 mars 2025",
+      "url": "https://www.cepremap.fr/depot/2025/03/2025-07-Un-fosse-ideologique-grandissant.pdf",
+      "passage": "Données de l'European Social Survey 2002-2023. Chez les hommes de moins de 40 ans, l'autopositionnement à la droite radicale « atteint 14 % en 2023 (+7 points) » ; chez les femmes, il « demeure marginale et stable, à seulement 7 % ». 94 % des jeunes femmes jugent plus difficile d'être une femme, contre 68 % des jeunes hommes ; les jeunes hommes « adhèrent davantage aux stéréotypes de genre ». Le soutien fort à la redistribution chez les hommes de moins de 40 ans tombe à 26 % (-11 points). « L'influence des réseaux sociaux semble aussi jouer un rôle clé dans cette polarisation croissante selon des études récentes ».",
+      "pertinence": "Note d'un centre de recherche économique ; données d'enquête européenne.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "État des lieux du sexisme en France : à l'heure de la polarisation (rapport annuel 2025)",
+      "organisme": "Haut Conseil à l’égalité entre les femmes et les hommes (HCE), rapport publié sur Vie publique",
+      "date_publication": "janvier 2025",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/296926.pdf",
+      "passage": "Baromètre sexisme (octobre 2024) : 45 % des hommes de moins de 35 ans jugent difficile d'être un homme (p. 23) ; chez les 15-24 ans, hausse de 19 points en deux ans. 94 % des femmes de 15-24 ans jugent difficile d'être une femme (+14 points), et 67 % des jeunes hommes le pensent aussi. Chez les moins de 35 ans, 46 % estiment qu'il ne faut pas montrer ses émotions (p. 23).",
+      "pertinence": "Rapport officiel d'une instance consultative indépendante ; données de sondage.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport 2026 sur l'état des lieux du sexisme en France : la menace masculiniste (communiqué de presse)",
+      "organisme": "Haut Conseil à l’égalité entre les femmes et les hommes (HCE)",
+      "date_publication": "21 janvier 2026",
+      "url": "https://www.haut-conseil-egalite.gouv.fr/sites/hce/files/2026-01/CP%20RapportSexisme2026.pdf",
+      "passage": "Le masculinisme est décrit comme « un système idéologique structuré ». « Chez les jeunes, l'écart entre femmes et hommes est très élevé », et il se réduit avec l'âge. Enquête Toluna Harris Interactive auprès de 3 061 personnes de 15 ans et plus.",
+      "pertinence": "Instance consultative indépendante placée auprès du Premier ministre.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les jeunes « emmerdent »-ils le Rassemblement national ?",
+      "organisme": "Christelle Craplet et Adélaïde Zulfikarpasic (BVA Xsight), Fondation Jean-Jaurès",
+      "date_publication": "19 juin 2024",
+      "url": "https://www.jean-jaures.org/publication/les-jeunes-emmerdent-ils-le-rassemblement-national/",
+      "passage": "Aux européennes du 9 juin 2024, 25 % des 18-24 ans ont voté pour la liste du RN (Ipsos), contre 15 % en 2019. Le pouvoir d'achat est la première motivation de vote des jeunes ; l'immigration arrive en troisième position (34 %). Seuls 40 % des 18-24 ans ont voté. Les jeunes votants se polarisent vers les deux extrêmes, LFI étant en tête à gauche.",
+      "pertinence": "Fondation proche du Parti socialiste ; analyse d'un institut de sondage.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Rassemblement national et la jeunesse : anatomie d'un mirage électoral",
+      "organisme": "Maya Shaw (Terra Nova Jeunes), La Grande Conversation",
+      "date_publication": "24 août 2026",
+      "url": "https://www.lagrandeconversation.com/app/uploads/2026/08/le-rassemblement-national-et-la-jeunesse-anatomie-dun-mirage-electoral-la-grande-conversation.pdf",
+      "passage": "Aux européennes de 2024, « 60 % des 18-24 ans et 66 % des 25-34 ans se sont abstenus ». Aux législatives de 2024, 33 % des 18-24 ans votants ont choisi le RN, soit moins de 10 % de la classe d'âge. Le vote RN est « fortement corrélé au niveau de diplôme ».",
+      "pertinence": "Revue d'un think tank progressiste ; analyse de sondages.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Sondages de sortie des urnes de la présidentielle 2027 et prochain rapport du HCE.",
+  "objections_legitimes": [
+    "Les enquêtes montrent bien un écart grandissant entre les opinions des jeunes femmes et des jeunes hommes.",
+    "Le masculinisme progresse sur les réseaux sociaux, et il vise les jeunes hommes.",
+    "Une partie des jeunes hommes se sent délaissée par les discours politiques."
+  ],
+  "publics": {
+    "convaincus": "Si le féminisme faisait voter RN, les femmes ne voteraient pas RN. Or, selon Ipsos, elles l'ont fait à 32 % en 2024, presque autant que les hommes. Les jeunes qui votent RN parlent d'abord de fin de mois et d'immigration, pas de féminisme.",
+    "indecis": "C'est vrai qu'un fossé se creuse entre jeunes femmes et jeunes hommes, et que le masculinisme gagne du terrain en ligne. Mais rien ne prouve que le féminisme fasse voter RN : les jeunes citent d'abord le pouvoir d'achat, et leur vote dépend beaucoup de leur diplôme et de leur précarité. Accuser le féminisme, c'est reprendre le discours des influenceurs masculinistes."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "antifascisme",
+      "emancipation"
+    ],
+    "mecanismes": "L’explication par le féminisme reprend le récit des influenceurs masculinistes : elle fait de l’égalité la cause du malaise des jeunes hommes, alors que leur vote tient d’abord à la précarité, au pouvoir d’achat, à l’immigration et au niveau de diplôme.",
+    "consequences": "Désigner le féminisme comme coupable invite à reculer sur les droits des femmes au lieu de répondre à la précarité qui frappe les jeunes, garçons comme filles.",
+    "democratie": "L’extrême droite et les réseaux masculinistes prospèrent sur l’isolement et l’absence d’avenir ; la réponse démocratique passe par des perspectives concrètes, pas par l’abandon de l’égalité.",
+    "propositions": [
+      "Garantir aux jeunes un revenu d’autonomie et un accès réel au logement et à la formation.",
+      "Rendre effective l’éducation à la vie affective et à l’égalité à l’école, en y associant les garçons.",
+      "Réguler les plateformes qui mettent en avant les contenus masculinistes et sexistes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les enquêtes montrent un vrai fossé idéologique entre jeunes hommes et jeunes femmes, et un malaise croissant chez une partie des jeunes hommes.",
+        "integration": "La gauche doit parler aux jeunes hommes de leurs difficultés concrètes, sans renoncer à l’égalité et sans les réduire à un électorat perdu."
+      }
+    ]
+  },
+  "concepts": [
+    "femmes",
+    "feminisme",
+    "fn_parti",
+    "jeunes_hommes_vote"
+  ],
+  "repond_a": [
+    {
+      "id": "jeunes_hommes_vote_q0614",
+      "label": "Vote des jeunes hommes"
+    },
+    {
+      "id": "femmes_q0614_jeunes_hommes_vote",
+      "label": "Vote des jeunes hommes"
+    },
+    {
+      "id": "feminisme_q0614_jeunes_hommes_vote",
+      "label": "Vote des jeunes hommes"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "sexisme",
+    "patriarcat",
+    "egalite salariale",
+    "violences faites aux femmes",
+    "front national",
+    "fn",
+    "rn",
+    "rassemblement national",
+    "le pen"
+  ]
+}

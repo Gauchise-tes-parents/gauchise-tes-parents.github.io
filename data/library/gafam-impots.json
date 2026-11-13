@@ -1,0 +1,220 @@
+{
+  "id": "gafam-impots",
+  "type": "idee_recue",
+  "affirmation": "Les GAFAM ne paient pas d'impôts en France.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "gafam impots",
+    "gafa ne paient pas d impots",
+    "taxe gafam",
+    "taxe sur les services numeriques",
+    "google impots france",
+    "amazon impots france",
+    "geants du numerique impots",
+    "optimisation fiscale gafam",
+    "impot minimum mondial"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Exagéré au sens strict, juste sur le fond. Les GAFAM paient des impôts en France : la taxe sur les services numériques rapporte environ 700 millions d'euros par an, leurs filiales paient un peu d'impôt sur les sociétés, et Google a versé près d'un milliard en 2019 pour solder un contentieux. Mais ces montants sont très faibles au regard de leur activité : en 2017, selon un député, Google, Apple, Facebook et Amazon déclaraient en France une petite partie de leur chiffre d'affaires réel. L'impôt minimum mondial de 15 % a de plus été aménagé en 2026 pour protéger les groupes américains.",
+  "contexte": "L'affirmation circule à gauche comme à droite. Elle pointe une réalité : les grands groupes du numérique localisent leurs bénéfices dans des pays à faible fiscalité, et la France cherche depuis des années à les taxer.",
+  "explication": "Il faut distinguer les impôts réellement payés (taxe numérique, impôt sur les sociétés des filiales, redressements) de ce qu'ils devraient payer si leurs bénéfices étaient déclarés là où se fait l'activité.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : la taxe française sur les services numériques, au taux de 3 %, a rapporté environ 700 millions d'euros en 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les GAFAM paient bien un impôt spécifique en France, même s'il reste modeste.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "700 M€"
+    },
+    {
+      "fait": "Fait défavorable : en 2019, Google a accepté de verser 500 millions d'euros d'amende et 465 millions d'euros de redressement fiscal pour solder ses contentieux avec la France, soit près d'un milliard.",
+      "periode": "2011-2019",
+      "perimetre": "France",
+      "explication": "Les poursuites fiscales peuvent faire payer ces groupes, quand l'État s'en donne les moyens.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "965 M€"
+    },
+    {
+      "fait": "Selon un député qui interrogeait le gouvernement en 2019, Google, Apple, Facebook et Amazon déclaraient en France environ 1,6 milliard d'euros de chiffre d'affaires pour 2017 et payaient environ 33,6 millions d'euros d'impôt, alors que leur chiffre d'affaires réel était estimé à 12,8 milliards.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "L'essentiel de l'activité réalisée en France n'y est pas déclaré : les bénéfices partent vers des filiales à l'étranger.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "33,6 M€"
+    },
+    {
+      "fait": "Selon le Sénat, le projet européen de taxe numérique de 2018 a échoué faute d'unanimité, et les négociations à l'OCDE sur la répartition des bénéfices imposables des multinationales sont « actuellement bloquées ».",
+      "periode": "2018-2026",
+      "perimetre": "Union européenne, OCDE",
+      "explication": "La solution de fond, taxer les bénéfices là où se fait l'activité, n'existe toujours pas.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 5 janvier 2026, les 147 pays du cadre de l'OCDE ont approuvé une solution qui protège les groupes américains de l'impôt minimum mondial de 15 %, à la suite d'un accord du G7 de juin 2025 ; la France reste libre d'imposer leurs filiales présentes sur son territoire.",
+      "periode": "2025-2026",
+      "perimetre": "Monde",
+      "explication": "L'outil censé mettre fin à l'évasion des multinationales a été affaibli précisément pour les géants américains du numérique.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "15 %"
+    },
+    {
+      "fait": "Selon l'Observatoire européen de la fiscalité, les 314 plus grandes multinationales françaises transfèrent plus de 10 milliards d'euros de bénéfices hors de France chaque année, évitant 3,7 milliards d'euros d'impôt sur les sociétés.",
+      "periode": "depuis 2016",
+      "perimetre": "France",
+      "explication": "L'évitement fiscal ne concerne pas que les GAFAM : c'est une pratique générale des grandes multinationales.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "3,7 Md€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Ils en paient, mais très peu au regard de leur activité. La taxe numérique rapporte environ 700 millions par an, et Google a dû verser près d'un milliard en 2019 pour solder un contentieux. Mais l'essentiel de leurs bénéfices part dans des pays à faible impôt, et l'impôt minimum mondial a été aménagé en 2026 pour protéger les groupes américains.",
+    "moyen": "Dire qu'ils ne paient rien est faux : la taxe sur les services numériques rapporte environ 700 millions d'euros par an, leurs filiales françaises paient un peu d'impôt sur les sociétés, et Google a dû verser près d'un milliard en 2019 pour mettre fin à des poursuites. Mais c'est très peu au regard de leur activité. Selon un député, en 2017, Google, Apple, Facebook et Amazon déclaraient en France 1,6 milliard de chiffre d'affaires sur environ 12,8 milliards estimés, pour 33,6 millions d'impôt.\n\nLe problème est structurel : les bénéfices sont déclarés là où l'impôt est faible. La taxe européenne a échoué faute d'unanimité, les négociations à l'OCDE sont bloquées, et l'impôt minimum mondial de 15 % a été aménagé début 2026 pour protéger les groupes américains. Ce n'est pas une fatalité, c'est un rapport de force politique.",
+    "detaille": "Au sens strict, l'affirmation est fausse. Les grands groupes du numérique paient des impôts en France. Depuis 2019, la taxe sur les services numériques prélève 3 % sur certains de leurs revenus réalisés en France ; elle a rapporté environ 700 millions d'euros en 2024. Leurs filiales françaises paient de l'impôt sur les sociétés. Et quand l'État poursuit, il obtient des résultats : en 2019, Google a versé 500 millions d'euros d'amende et 465 millions de redressement fiscal.\n\nMais sur le fond, l'idée est juste : ces groupes paient très peu au regard de leur activité. En 2019, un député relevait que Google, Apple, Facebook et Amazon déclaraient en France environ 1,6 milliard d'euros de chiffre d'affaires pour 2017, pour 33,6 millions d'impôt, alors que leur chiffre d'affaires réel était estimé à 12,8 milliards. Le mécanisme est connu : les ventes et les bénéfices sont facturés depuis des filiales installées dans des pays à faible fiscalité.\n\nLes réponses internationales patinent. La taxe numérique européenne proposée en 2018 a échoué faute d'unanimité. Les négociations à l'OCDE pour taxer les bénéfices là où se trouvent les clients sont bloquées, selon le Sénat. L'impôt minimum mondial de 15 %, transposé en France, a été aménagé en janvier 2026 pour protéger les groupes américains, après un accord du G7. Et la hausse du taux de la taxe numérique, votée en commission à l'Assemblée fin 2025, pourrait créer des tensions commerciales avec les États-Unis, prévient le Sénat.\n\nCe n'est pas propre aux GAFAM : selon l'Observatoire européen de la fiscalité, les grandes multinationales françaises elles aussi transfèrent plus de 10 milliards de bénéfices hors de France chaque année. Taxer les bénéfices là où se fait l'activité est un choix politique, qui demande de la volonté face aux lobbies et aux pressions américaines.",
+    "empathie": "C'est révoltant de payer ses impôts au centime près quand on voit des géants milliardaires en payer si peu. Cette colère est juste ; il faut juste viser précisément : ce n'est pas zéro, c'est beaucoup trop peu."
+  },
+  "contre_arguments": [
+    {
+      "objection": "De toute façon, on ne peut rien faire contre eux.",
+      "reponse": "Si : la France a créé une taxe numérique, et en 2019 Google a dû verser près d'un milliard d'euros. C'est une question de volonté politique et de coopération internationale."
+    },
+    {
+      "objection": "Si on les taxe plus, ils répercuteront sur les clients ou partiront.",
+      "reponse": "Ils ont peu intérêt à quitter un marché de plusieurs dizaines de millions de consommateurs. Le risque réel, ce sont les représailles commerciales américaines, ce qui plaide pour une réponse européenne commune."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien rapporte la taxe sur les services numériques, et combien ces groupes réalisent de chiffre d'affaires en France ?",
+    "Pourquoi l'impôt minimum mondial a-t-il été aménagé pour les seuls groupes américains ?"
+  ],
+  "limites": [
+    "Les chiffres de chiffre d'affaires et d'impôt de 2017 sont avancés par un député dans une question écrite ; ils sont anciens et n'ont pas été vérifiés dans les comptes des sociétés.",
+    "Aucune source lue ne donne l'impôt sur les sociétés payé récemment par chacun de ces groupes en France.",
+    "Le taux final de la taxe numérique dans la loi de finances pour 2026 n'a pas été vérifié ; le vote cité est celui de la commission des finances.",
+    "L'étude de l'Observatoire européen de la fiscalité porte sur les multinationales françaises, pas sur les GAFAM."
+  ],
+  "sources": [
+    {
+      "titre": "Taxe sur les Gafam : la commission des finances relève le taux de la taxe sur les géants du numérique",
+      "organisme": "LCP (La Chaîne parlementaire, Assemblée nationale)",
+      "date_publication": "22 octobre 2025 (mis à jour le 29 octobre 2025)",
+      "url": "https://lcp.fr/actualites/taxe-sur-les-gafam-la-commission-des-finances-releve-le-taux-de-la-taxe-sur-les-geants",
+      "passage": "La taxe sur les services numériques (TSN), au taux de 3 %, a rapporté environ 700 millions d'euros en 2024, un montant jugé par l'auteur de l'amendement « sans rapport avec les profits réalisés en France par les grands groupes du secteur ». La commission des finances adopte un taux de 15 % et un seuil de chiffre d'affaires mondial relevé à 2 milliards d'euros ; le texte doit encore être confirmé en séance. L'auteur parle d'« un acte de souveraineté fiscale ».",
+      "pertinence": "Chaîne parlementaire ; vote en commission, pas texte définitif.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nouvelles ressources propres : pour un financement crédible de l'Europe de demain (rapport d'information n° 888)",
+      "organisme": "Sénat (Jean-Marie Mizzon, commission des finances)",
+      "date_publication": "9 juillet 2026",
+      "url": "https://www.senat.fr/rap/r25-888/r25-888-syn.pdf",
+      "passage": "La Commission européenne a proposé en 2018 une taxe transitoire de 3 % sur les services numériques ; elle n'a pas abouti faute d'unanimité au Conseil. La France, l'Autriche, l'Italie et l'Espagne ont créé leur propre taxe ; ces expériences sont « globalement positives » et leur rendement « progresse régulièrement depuis 2020 ». La taxe peut créer des tensions commerciales avec les États-Unis, les groupes visés étant surtout américains. Les négociations sur le « pilier 1 » de l'OCDE (répartition des bénéfices imposables) sont « actuellement bloquées ». Recommandation : une taxe européenne inspirée du modèle français.",
+      "pertinence": "Rapport parlementaire (synthèse).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 05525 sur l'exemption des multinationales américaines de l'impôt minimum mondial, et réponse du ministère de l'Économie",
+      "organisme": "Sénat",
+      "date_publication": "question publiée le 10 juillet 2025, réponse publiée le 18 juin 2026",
+      "url": "https://www.senat.fr/questions/base/2025/qSEQ250705525.html",
+      "passage": "La question vise l'accord du G7 du 28 juin 2025 qui « prévoit une exemption des multinationales américaines de la taxe minimale de 15 % ». Réponse : les règles du pilier 2 imposent aux groupes de plus de 750 millions d'euros de chiffre d'affaires « un niveau minimal d'impôt sur les bénéfices d'au moins 15% » dans chaque pays ; transposition en France par la loi de finances du 29 décembre 2023 et celle du 14 février 2025, premières déclarations en 2026. Le 5 janvier 2026, les 147 membres du cadre inclusif ont approuvé une solution « côte à côte » créant un « système de protection (« safe harbor ») » pour les groupes dont le pays d'origine a un régime jugé équivalent, ce qui inclut les États-Unis ; chaque pays reste libre d'imposer les filiales présentes sur son territoire ; réexamen par l'OCDE d'ici 2029.",
+      "pertinence": "Question parlementaire et réponse officielle du Gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "GAFA : le Sénat à l'origine de l'amende record infligée à Google",
+      "organisme": "Public Sénat",
+      "date_publication": "13 septembre 2019",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/gafa-le-senat-a-l-origine-de-l-amende-record-infligee-a-google-145328",
+      "passage": "Google a accepté de payer une amende de 500 millions d'euros pour mettre fin à l'enquête du Parquet national financier, et 465 millions d'euros pour solder le redressement fiscal : « Un milliard d'euros dans les caisses de l'État ». Le parquet reprochait au groupe d'avoir soustrait plus de 189 millions d'euros au fisc français entre 2011 et 2016. L'accord passe par une convention judiciaire d'intérêt public, créée par la loi contre la fraude fiscale du 23 octobre 2018.",
+      "pertinence": "Média parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 17511 sur l'imposition des géants du numérique, et réponse du ministère de l'Économie",
+      "organisme": "Assemblée nationale (question d’un député Les Républicains)",
+      "date_publication": "question publiée le 5 mars 2019, réponse publiée le 31 décembre 2019",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE17511.pdf",
+      "passage": "Selon le député auteur de la question, pour 2017, la filiale française de Google a déclaré 325 millions d'euros de chiffre d'affaires et 14 millions d'impôt ; Apple 800 millions et 8 millions ; Facebook 56 millions et 1,9 million ; Amazon France Logistique 380 millions et 8 millions ; au total, environ 1,6 milliard de chiffre d'affaires déclaré et 33,6 millions d'impôt, alors que le chiffre d'affaires réel serait d'environ 12,8 milliards, soit « un manque à gagner d'environ 231 millions d'euros par an ». Réponse : la France « a institué une taxe nationale sur les services numériques », présentée comme « une solution intérimaire » en attendant un accord à l'OCDE.",
+      "pertinence": "Question parlementaire (chiffres avancés par le député) et réponse officielle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Profits délocalisés, participation en baisse",
+      "organisme": "Observatoire européen de la fiscalité (EU Tax Observatory, Paris School of Economics) — Giulia Aliprandi, Alice Chiocchetti, Manon François, Laure Heidmann",
+      "date_publication": "4 décembre 2025",
+      "url": "https://www.taxobservatory.eu//www-site/uploads/2025/12/Profits-delocalises-Participation-en-baisse.pdf",
+      "passage": "Les 314 plus grandes multinationales françaises « délocalisent plus de 10 milliards d'euros de profits hors de France chaque année » et « évitent 3,7 milliards d'euros d'impôt sur les sociétés en France chaque année » depuis 2016. Les profits déclarés en France sont inférieurs de 13 % en moyenne à ce qu'ils seraient avec une rentabilité égale à la rentabilité mondiale. Selon des travaux de 2023 cités, 36 % des profits réalisés à l'étranger par les multinationales vont dans des paradis fiscaux.",
+      "pertinence": "Laboratoire de recherche indépendant ; porte sur les multinationales françaises, pas sur les GAFAM.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rendement de la taxe numérique, application du pilier 2 et bilan OCDE.",
+  "objections_legitimes": [
+    "Les bénéfices des GAFAM sont largement déclarés hors de France.",
+    "Les accords internationaux pour les taxer ont été bloqués ou affaiblis."
+  ],
+  "publics": {
+    "convaincus": "Dire qu'ils ne paient rien, c'est faux, et ça permet à leurs défenseurs de te contredire facilement : la taxe numérique rapporte 700 millions par an. Mais c'est très peu au regard de leur activité, et l'impôt minimum mondial a été aménagé pour protéger les groupes américains. Ceux qui menacent nos recettes fiscales, ce sont eux, pas les plus pauvres.",
+    "indecis": "Ils paient des impôts en France, mais très peu par rapport à ce qu'ils y gagnent, parce qu'ils déclarent leurs bénéfices dans des pays à faible impôt. La France a créé une taxe spéciale et a fait payer Google en 2019 ; les solutions internationales, elles, restent bloquées. C'est un choix politique, qui peut changer."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "internationalisme"
+    ],
+    "mecanismes": "Les grands groupes facturent leurs ventes et logent leurs bénéfices dans des pays à faible impôt ; la concurrence fiscale entre États et les pressions des États-Unis bloquent les règles communes.",
+    "consequences": "Ce que ces groupes ne paient pas est compensé par les impôts des ménages et des petites entreprises, ou par moins de services publics.",
+    "democratie": "Quand une puissance obtient qu’on exempte ses multinationales d’un impôt minimum négocié par des dizaines de pays, c’est la souveraineté fiscale des peuples qui recule.",
+    "propositions": [
+      "Taxer les bénéfices des multinationales là où se trouvent leurs clients et leur activité.",
+      "Porter une taxe numérique européenne commune et refuser l’exemption des groupes américains de l’impôt minimum.",
+      "Renforcer les moyens du contrôle fiscal et de la justice financière."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les GAFAM paient bien des impôts en France, notamment la taxe sur les services numériques, et Google a dû verser près d’un milliard après des poursuites.",
+        "integration": "Dire précisément que ce n’est pas zéro mais beaucoup trop peu, ce qui montre aussi que l’action publique peut les faire payer."
+      }
+    ]
+  },
+  "concepts": [
+    "fiscalite",
+    "gafam_impots"
+  ],
+  "repond_a": [
+    {
+      "id": "gafam_impots_q0614",
+      "label": "Impôts des géants du numérique"
+    },
+    {
+      "id": "fiscalite_q0614_gafam_impots",
+      "label": "Impôts des géants du numérique"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva"
+  ]
+}

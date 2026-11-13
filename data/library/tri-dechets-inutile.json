@@ -1,0 +1,225 @@
+{
+  "id": "tri-dechets-inutile",
+  "type": "idee_recue",
+  "affirmation": "Le tri des déchets ne sert à rien, tout finit brûlé ou enterré.",
+  "volet": "services",
+  "sous_theme": "Services publics locaux",
+  "rubriques": [],
+  "mots_cles": [
+    "tri des dechets inutile",
+    "tri selectif ne sert a rien",
+    "poubelle jaune",
+    "tout est brule",
+    "tout finit a la decharge",
+    "recyclage arnaque",
+    "le tri ca sert a quoi",
+    "camion melange les poubelles"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Les deux tiers environ des emballages ménagers sont recyclés (67 % à 75 % selon les méthodes), dont le verre presque entièrement en France. Ce qui finit brûlé ou enterré, c'est surtout la poubelle ordinaire. Mais il faut être honnête : le plastique reste mal recyclé, autour d'un quart des emballages, très loin des objectifs, et une partie des plastiques triés est brûlée pour produire de l'énergie.",
+  "contexte": "L'idée que le camion mélange tout ou que le tri finit à l'incinérateur circule depuis longtemps. Elle est nourrie par de vraies déceptions sur le recyclage du plastique et par des reportages sur des déchets exportés.",
+  "explication": "Il faut distinguer les matériaux (verre, papier, métal, plastique), regarder les taux de recyclage publiés par la statistique publique et l'éco-organisme, et comparer ce que devient le tri avec ce que devient la poubelle ordinaire.",
+  "faits": [
+    {
+      "fait": "Selon le service statistique du ministère de la Transition écologique, le taux de recyclage des emballages ménagers est passé de 63 % en 2009 à 75 % en 2023.",
+      "periode": "2009-2023",
+      "perimetre": "France",
+      "explication": "Une grande majorité des emballages ménagers est recyclée, et la part progresse.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "75 %"
+    },
+    {
+      "fait": "Selon Citeo, avec la méthode de calcul européenne, le taux de recyclage des emballages ménagers atteint 67 % en 2023 ; chaque habitant a trié 58 kg d'emballages.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Même avec la méthode la plus stricte, deux emballages sur trois sont recyclés.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "67 %"
+    },
+    {
+      "fait": "Selon Citeo, 96 % des emballages en verre sont recyclés sur le territoire français, et 80 % des emballages ménagers recyclés le sont en France.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le tri ne part pas massivement à l'autre bout du monde.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "96 %"
+    },
+    {
+      "fait": "Le ministère de la Transition écologique rappelle que ce sont les sacs d'ordures ménagères qui « sont incinérés ou mis en décharge ».",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Ce qui n'est pas trié est justement ce qui finit brûlé ou enterré.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le service statistique du ministère, le stockage en décharge des déchets non inertes non dangereux a baissé de 29 % entre 2010 et 2023, et les tonnages collectés par les filières de recyclage des producteurs sont passés de 5,6 à 12,6 millions de tonnes entre 2009 et 2023.",
+      "periode": "2009-2023",
+      "perimetre": "France",
+      "explication": "Le tri et les filières de recyclage ont réellement réduit la mise en décharge.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon le ministère, seuls 25,2 % des emballages en plastique étaient recyclés en France en 2022, loin de l'objectif de 100 % fixé pour 2025 ; Citeo et Localtis donnent 27 % pour 2023, contre un objectif européen de 55 % en 2030.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "Pour le plastique, le recyclage reste un échec relatif, et la France est mal classée en Europe.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "25,2 %"
+    },
+    {
+      "fait": "Fait défavorable : le ministère reconnaît que les emballages plastiques triés mais non recyclés sont « valorisés en énergie », c'est-à-dire brûlés pour produire de l'énergie, et que 19 % des emballages plastiques à usage unique n'ont pas de filière de recyclage opérationnelle.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une partie du plastique trié est bel et bien brûlée : l'argument n'est pas totalement inventé.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "19 %"
+    },
+    {
+      "fait": "Fait défavorable : les mises sur le marché d'emballages plastiques à usage unique ont augmenté de 3,3 % entre 2018 et 2021 selon l'ADEME, citée par le ministère.",
+      "periode": "2018-2021",
+      "perimetre": "France",
+      "explication": "Le tri ne suffit pas : il faut d'abord produire moins d'emballages.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : deux tiers à trois quarts des emballages ménagers sont recyclés, et le verre presque entièrement en France. Ce qui finit brûlé ou enterré, c'est surtout la poubelle ordinaire. Le vrai point faible, c'est le plastique, recyclé à environ un quart seulement.",
+    "moyen": "Les chiffres officiels contredisent l'idée que tout finit au même endroit. Le taux de recyclage des emballages ménagers est de 67 % selon la méthode européenne, 75 % selon le service statistique du ministère. Le verre trié est recyclé à 96 % en France, et la plupart des emballages recyclés le sont en France. Ce qui est incinéré ou mis en décharge, c'est d'abord le contenu de la poubelle ordinaire.\n\nMais l'argument repose sur une vraie déception : le plastique. Seul un quart environ des emballages plastiques est recyclé, loin des objectifs. Une partie des plastiques triés est brûlée pour produire de l'énergie, et les emballages plastiques jetables continuent d'augmenter. La conclusion n'est pas d'arrêter de trier, mais d'exiger moins d'emballages et des filières qui fonctionnent.",
+    "detaille": "Pour le verre, le papier, le carton et les métaux, le tri fonctionne. Selon le service statistique du ministère de la Transition écologique, le taux de recyclage des emballages ménagers est passé de 63 % en 2009 à 75 % en 2023. Avec la méthode européenne, plus stricte, Citeo l'évalue à 67 %. Le verre trié est recyclé à 96 % en France, et 80 % des emballages ménagers recyclés le sont en France. Le tri a aussi réduit la mise en décharge : moins 29 % pour les déchets non dangereux entre 2010 et 2023.\n\nCe qui finit incinéré ou enterré, c'est surtout la poubelle ordinaire, comme le rappelle le ministère. Dire que le tri ne sert à rien parce que « tout est mélangé », c'est confondre les deux collectes.\n\nIl faut pourtant reconnaître la part de vérité : le plastique. Seuls 25,2 % des emballages plastiques étaient recyclés en 2022, et 27 % en 2023, très loin de l'objectif de 100 % fixé pour 2025 et de l'objectif européen de 55 % en 2030. La France est parmi les derniers pays européens. Une partie des plastiques triés est brûlée pour produire de l'énergie, 19 % des emballages plastiques jetables n'ont aucune filière de recyclage, et les industriels en mettent toujours plus sur le marché. Le problème n'est pas le geste de tri des habitants, c'est la quantité d'emballages produite. La vraie réponse, c'est la réduction à la source, le réemploi, la consigne et des obligations fortes pour les producteurs.",
+    "empathie": "Il est décourageant de trier consciencieusement et d'entendre que tout finit au même endroit. Cette méfiance vient aussi de vraies promesses non tenues sur le plastique, et elle mérite une réponse honnête."
+  },
+  "contre_arguments": [
+    {
+      "objection": "J'ai vu le camion mélanger la poubelle jaune et la poubelle ordinaire.",
+      "reponse": "Une scène isolée ne dit pas ce que deviennent les déchets triés. Les chiffres nationaux montrent que deux tiers à trois quarts des emballages ménagers sont recyclés : ça ne serait pas possible si tout était mélangé."
+    },
+    {
+      "objection": "De toute façon, le plastique n'est pas recyclé.",
+      "reponse": "C'est en grande partie vrai : environ un quart seulement. Mais le verre, le papier, le carton et le métal le sont très majoritairement. Et pour le plastique, la solution est d'en produire moins, pas d'arrêter de trier."
+    }
+  ],
+  "questions": [
+    "Sais-tu quelle part du verre que tu tries est réellement recyclée ?",
+    "Pour le plastique, qui devrait être responsable : celui qui trie ou celui qui fabrique l'emballage ?"
+  ],
+  "limites": [
+    "Les taux de recyclage des emballages ménagers diffèrent selon les méthodes de calcul (67 % selon la méthode européenne, 75 % selon le service statistique).",
+    "Le taux de recyclage des plastiques de 20 % cité par le service statistique ne précise pas son périmètre exact.",
+    "Les chiffres de Citeo viennent d'un éco-organisme financé par les entreprises qui mettent des emballages sur le marché.",
+    "La répartition du lieu de recyclage vient d'une infographie de Citeo dont les colonnes ne sont pas explicitement légendées.",
+    "Les chiffres-clés de l'ADEME sur les déchets et un fact-check de presse n'ont pas pu être ouverts."
+  ],
+  "sources": [
+    {
+      "titre": "Gestion des déchets et économie circulaire en France : état des connaissances en 2025",
+      "organisme": "SDES (Service des données et études statistiques du ministère de la Transition écologique)",
+      "date_publication": "27 mars 2026",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/gestion-des-dechets-et-economie-circulaire-en-france-etat-des-connaissances-en-2025",
+      "passage": "En 2022, « la France a produit 343 millions de tonnes (Mt) de déchets » ; « 71 % des déchets font l'objet d'une valorisation matière » ; l'incinération avec récupération d'énergie représente 7,3 % des quantités traitées ; « Le stockage en décharge représente 20 % des tonnages ». Pour les déchets non minéraux non dangereux, le taux de recyclage atteint 48 % en 2022, sous la cible de 55 %. « Le recyclage des plastiques atteint 20 %, bien en dessous de l'objectif de 100 % fixé par la loi « AGEC » ». Emballages ménagers : « Son taux de recyclage est passé de 63 % en 2009 à 75 % en 2023 ». Les tonnages collectés par les filières de responsabilité élargie des producteurs passent de 5,6 Mt en 2009 à 12,6 Mt en 2023 ; le stockage des déchets non inertes non dangereux baisse de 29 % entre 2010 et 2023.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "En 2023, le taux de recyclage des emballages ménagers atteint 67 % grâce au geste de tri des Français (communiqué)",
+      "organisme": "Citeo (éco-organisme des emballages ménagers et des papiers, société agréée par l’État)",
+      "date_publication": "25 novembre 2024",
+      "url": "https://bo.citeo.com/sites/default/files/2024-11/2023_le%20taux%20de%20recyclage%20des%20emballages%20m%C3%A9nagers%20atteint%2067%25%20gr%C3%A2ce%20au%20geste%20de%20tri%20des%20Fran%C3%A7ais.pdf",
+      "passage": "Selon la méthode européenne, le taux de recyclage des emballages ménagers « a également progressé pour atteindre 67% au niveau national » en 2023 ; 63 % pour les papiers graphiques. Chaque habitant a trié 58 kg d'emballages ménagers en 2023 (dont 33 kg de verre et 6,5 kg de plastique, en hausse de 15 %).",
+      "pertinence": "Communiqué de l'éco-organisme financé par les entreprises qui mettent des emballages sur le marché.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Tri des déchets : les Français progressent sur le plastique et les cartons",
+      "organisme": "Anne Lenormand, Localtis (Banque des Territoires)",
+      "date_publication": "25 novembre 2024",
+      "url": "https://www.banquedesterritoires.fr/tri-des-dechets-les-francais-progressent-sur-le-plastique-et-les-cartons",
+      "passage": "« le tri réalisé par les ménages en France a permis de recycler 27% des emballages plastiques en 2023 » ; le taux global des emballages ménagers atteint 67 %. L'Europe fixe « un objectif de 55% de recyclage des déchets d'emballages plastiques d'ici 2030 » ; selon Eurostat (2022), la France est 25e pour le recyclage du plastique.",
+      "pertinence": "Média d'information des collectivités, filiale de la Caisse des dépôts.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Où sont recyclés les emballages ménagers et les papiers ? (infographie)",
+      "organisme": "Citeo (éco-organisme des emballages ménagers et des papiers)",
+      "date_publication": "mars 2024",
+      "url": "https://bo.citeo.com/sites/default/files/2024-03/20240318_Infog-Ou_sont_recycl%C3%A9s_EM_PG_0.pdf",
+      "passage": "En 2022, 65,5 % des emballages ménagers et 60 % des papiers graphiques sont recyclés. Les emballages sont recyclés à 80 % en France, 19 % en Europe et 1 % ailleurs dans le monde ; les papiers à 59 % en France, 40 % en Europe, 1 % ailleurs. « 96 % des emballages en verre sont recyclés sur le territoire français ».",
+      "pertinence": "Infographie de l'éco-organisme (répartition déduite de la mise en page).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "6 idées reçues sur le tri et le recyclage des emballages en plastique",
+      "organisme": "Ministère de la Transition écologique",
+      "date_publication": "2 mars 2026",
+      "url": "https://www.ecologie.gouv.fr/index.php/actualites/6-idees-recues-tri-recyclage-emballages-plastique",
+      "passage": "« Il est inutile de trier les emballages en plastique car ils ne sont pas recyclés » : faux ; les emballages triés mais non recyclés sont valorisés en énergie, et leur collecte aide à développer de nouvelles filières de recyclage. Les sacs d'ordures ménagères, eux, « sont incinérés ou mis en décharge ». Selon Citeo, le recyclage des emballages a évité environ 2,3 millions de tonnes d'émissions de CO2 en 2023. Depuis la loi AGEC, producteurs et distributeurs financent la collecte et le recyclage (responsabilité élargie du producteur).",
+      "pertinence": "Page d'information du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Stratégie 3R (réduction, réemploi, recyclage des emballages en plastique à usage unique) : bilan intermédiaire",
+      "organisme": "Ministère de la Transition écologique",
+      "date_publication": "juin 2025",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Bilan%20interm%C3%A9diaire_Strat%C3%A9gie%203R_%20juin%202025.pdf",
+      "passage": "« Seuls 25,2 % des emballages en plastique en France étaient recyclés en 2022 » (Eurostat). Objectif du décret de 2021 : « Garantir le recyclage à 100 % des emballages en plastique à usage unique » d'ici 2025. Les mises sur le marché d'emballages plastiques à usage unique ont augmenté de 3,3 % entre 2018 et 2021 selon l'ADEME ; 19 % des emballages plastiques à usage unique n'ont pas de filière de recyclage opérationnelle ; le réemploi représente 2,2 % des emballages en 2023.",
+      "pertinence": "Document officiel d'évaluation du ministère.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveaux taux de recyclage annuels (Citeo, SDES, Eurostat).",
+  "objections_legitimes": [
+    "Le recyclage du plastique reste faible, autour d'un quart des emballages, et la France est en retard en Europe.",
+    "Une partie des plastiques triés est brûlée pour produire de l'énergie plutôt que recyclée.",
+    "Le tri repose beaucoup sur les habitants alors que les quantités d'emballages continuent d'augmenter."
+  ],
+  "publics": {
+    "convaincus": "Pour le plastique, tu n'as pas tout à fait tort : un quart seulement est recyclé, et une partie est brûlée. Mais le verre trié est recyclé à 96 % en France, et au total deux tiers à trois quarts des emballages ménagers sont recyclés. Ce qui finit brûlé ou enterré, c'est surtout la poubelle ordinaire.",
+    "indecis": "Trier sert vraiment pour le verre, le papier, le carton et le métal, recyclés en grande majorité. Le plastique reste le point faible, et la vraie solution est d'en produire moins. Ton geste de tri compte, mais il faut aussi exiger des industriels moins d'emballages."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "democratie",
+      "repartition"
+    ],
+    "mecanismes": "Une déception réelle sur le plastique est étendue à tout le tri. On fait peser la faute sur un service public local et sur le geste des habitants, en oubliant que ce sont les industriels qui décident des quantités et des matériaux d’emballage.",
+    "consequences": "Si les habitants arrêtent de trier, davantage de déchets sont brûlés ou enterrés, avec un coût payé par les collectivités et donc par les contribuables, et des pollutions subies d’abord par les riverains des incinérateurs et des décharges.",
+    "democratie": "Le service public des déchets appartient aux collectivités : ses résultats et ses limites doivent être publiés et débattus localement, et les producteurs d’emballages rendre des comptes.",
+    "propositions": [
+      "Réduire les emballages à la source et généraliser le réemploi et la consigne.",
+      "Renforcer les obligations et les pénalités des producteurs d’emballages non recyclables.",
+      "Publier dans chaque territoire le devenir réel des déchets triés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le plastique reste mal recyclé, une partie des plastiques triés est brûlée pour produire de l’énergie, et les emballages plastiques jetables continuent d’augmenter.",
+        "integration": "C’est l’argument pour s’attaquer aux producteurs et réduire les emballages, pas pour abandonner le tri, qui fonctionne pour le verre, le papier, le carton et le métal."
+      }
+    ]
+  },
+  "concepts": [
+    "services_publics"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences"
+  ]
+}

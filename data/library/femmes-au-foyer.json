@@ -1,0 +1,227 @@
+{
+  "id": "femmes-au-foyer",
+  "type": "idee_recue",
+  "affirmation": "Les femmes devraient rester à la maison pour élever leurs enfants.",
+  "volet": "droits",
+  "sous_theme": "Émancipation",
+  "rubriques": [],
+  "mots_cles": [
+    "femmes au foyer",
+    "mere au foyer",
+    "femme a la maison",
+    "rester a la maison",
+    "tradwife",
+    "trad wife",
+    "role de la femme",
+    "les femmes doivent s occuper des enfants",
+    "retour au foyer"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "C'est une opinion, mais elle a des conséquences qu'on peut mesurer. Aujourd'hui, 71,5 % des femmes de 15 à 64 ans sont actives. Celles qui s'arrêtent de travailler en paient le prix plus tard : après une séparation, leur niveau de vie chute bien plus que celui des hommes, plus d'un tiers des familles monoparentales sont pauvres, et les pensions des femmes restent inférieures de 38 % à celles des hommes. Quant aux enfants, la crèche favorise plutôt le langage, surtout dans les familles modestes. Chaque famille doit pouvoir choisir, mais une norme qui renvoie les femmes au foyer les rend dépendantes.",
+  "contexte": "L'idée revient avec la mode des « tradwives », ces influenceuses qui mettent en scène la vie de femme au foyer soumise à son mari, et avec les discours masculinistes. Elle se présente souvent comme un « libre choix » ou comme l'intérêt des enfants.",
+  "explication": "On ne peut pas trancher par des chiffres ce qu'une famille doit choisir. Mais on peut mesurer ce que l'arrêt de l'activité coûte aux femmes (pauvreté, séparation, retraite) et ce que disent les études sur le développement des enfants.",
+  "faits": [
+    {
+      "fait": "En 2024, 71,5 % des femmes de 15 à 64 ans sont actives, contre 54,4 % en 1975 ; l'écart avec les hommes est passé de près de 30 points à 6 points.",
+      "periode": "1975-2024",
+      "perimetre": "France",
+      "explication": "Le travail des femmes est devenu la norme ; un retour au foyer irait à l'inverse de l'évolution de la société.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "71,5 %"
+    },
+    {
+      "fait": "En 2023, le taux de pauvreté des familles monoparentales atteint 34,3 %, contre 8,8 % pour les couples avec un ou deux enfants.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Quand le couple se sépare, le parent qui élève seul les enfants, le plus souvent la mère, est très exposé à la pauvreté.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "34,3 %"
+    },
+    {
+      "fait": "En Occitanie, l'année d'une séparation, le niveau de vie médian des femmes baisse de 17 %, contre 7 % pour les hommes ; deux ans après, les femmes restent 9 % en dessous, les hommes ont presque tout récupéré.",
+      "periode": "2014-2020",
+      "perimetre": "Occitanie",
+      "explication": "La dépendance financière au conjoint devient un piège en cas de rupture.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "17 %"
+    },
+    {
+      "fait": "Fin 2023, la pension de retraite moyenne de droit direct des femmes est inférieure de 38 % à celle des hommes ; l'écart était de 50 % en 2004.",
+      "periode": "2004-2023",
+      "perimetre": "France",
+      "explication": "Les carrières interrompues pour élever les enfants se paient à la retraite ; l'écart se réduit à mesure que les femmes travaillent davantage.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "38 %"
+    },
+    {
+      "fait": "Selon une étude de l'Ined sur la cohorte Elfe, la crèche a un effet positif sur l'acquisition du langage, surtout pour les enfants de familles défavorisées.",
+      "periode": "2011 et années suivantes",
+      "perimetre": "France",
+      "explication": "Garder les enfants à la maison n'est pas, en soi, meilleur pour leur développement.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon la même étude, les enfants accueillis en crèche présentent en moyenne un peu plus de difficultés de comportement, un effet qui n'apparaît pas chez les enfants moins favorisés.",
+      "periode": "2011 et années suivantes",
+      "perimetre": "France",
+      "explication": "La crèche n'a pas que des avantages ; les effets dépendent du milieu familial.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une chercheuse citée par Euronews, le mouvement « tradwife » prône un retour aux normes de genre traditionnelles et peut servir de point d'entrée vers l'idéologie nationaliste blanche ; en France, ces comptes restent petits.",
+      "periode": "2024",
+      "perimetre": "International et France",
+      "explication": "La mode des femmes au foyer en ligne est aussi un outil idéologique.",
+      "source": 5,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Chacun organise sa famille comme il veut. Mais une femme qui arrête de travailler devient dépendante : en cas de séparation, son niveau de vie s'effondre, et à la retraite, les femmes touchent 38 % de moins. Et la crèche aide plutôt les enfants à parler.",
+    "moyen": "Le choix de rester à la maison existe et se respecte. Mais en faire une règle pour toutes les femmes, c'est les rendre dépendantes. Aujourd'hui, plus de sept femmes sur dix sont actives.\n\nL'arrêt du travail coûte cher plus tard. Selon l'Insee, l'année d'une séparation, le niveau de vie des femmes baisse de 17 %, contre 7 % pour les hommes. Plus d'un tiers des familles monoparentales sont pauvres. À la retraite, les pensions des femmes restent inférieures de 38 %. Côté enfants, une étude de l'Ined montre que la crèche favorise le langage, surtout dans les familles modestes.",
+    "detaille": "Il n'y a pas de bonne réponse chiffrée à la question de savoir qui doit élever les enfants : c'est une affaire de valeurs et de choix familiaux. Mais il faut regarder ce que produit, concrètement, l'arrêt de l'activité des femmes.\n\nD'abord, la société a changé : 71,5 % des femmes de 15 à 64 ans sont actives en 2024, contre 54,4 % en 1975. Ensuite, la dépendance financière se paie cher en cas de séparation. En Occitanie, l'Insee mesure que le niveau de vie des femmes baisse de 17 % l'année de la rupture, et de 21 % pour celles qui ont les enfants à charge, contre 7 % pour les hommes. Au niveau national, 34,3 % des familles monoparentales vivent sous le seuil de pauvreté.\n\nLa facture arrive aussi à la retraite : la pension moyenne des femmes reste inférieure de 38 % à celle des hommes, même si l'écart se réduit à mesure qu'elles travaillent davantage.\n\nPour les enfants, l'argument ne tient pas mieux. Selon l'Ined, la crèche améliore l'acquisition du langage, surtout chez les enfants de familles défavorisées, avec un effet un peu négatif sur certains comportements chez les enfants plus favorisés. Ce qui compte, c'est un vrai choix : des places de crèche, un congé parental bien payé et partagé entre les deux parents.",
+    "empathie": "Beaucoup de parents souffrent de ne pas voir assez leurs enfants, et le rythme travail-crèche-maison peut être épuisant. Vouloir plus de temps en famille est légitime."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avant, les femmes restaient à la maison et les enfants étaient mieux élevés.",
+      "reponse": "Avant, les femmes n'avaient souvent ni revenus propres ni moyen de quitter un mari violent. Et les études récentes montrent que la crèche aide le langage des enfants, surtout dans les familles modestes."
+    },
+    {
+      "objection": "C'est un libre choix, le féminisme devrait le respecter.",
+      "reponse": "Le choix individuel se respecte. Le problème, c'est d'en faire une règle pour toutes les femmes, et de laisser celles qui s'arrêtent sans protection en cas de séparation ou à la retraite."
+    }
+  ],
+  "questions": [
+    "Et si le couple se sépare, de quoi vit la femme qui a arrêté de travailler pendant dix ans ?",
+    "Pourquoi ce serait forcément la mère, et pas le père, qui resterait à la maison ?"
+  ],
+  "limites": [
+    "L'étude sur la séparation porte sur l'Occitanie, pas sur toute la France.",
+    "L'étude de l'Ined porte sur des enfants nés en 2011 et sur leurs premières années.",
+    "La place réelle du mouvement « tradwife » en France est mal mesurée ; la source est un reportage citant une chercheuse.",
+    "La question de fond relève des valeurs : les chiffres éclairent les conséquences, ils ne tranchent pas le choix."
+  ],
+  "sources": [
+    {
+      "titre": "Population active (France, portrait social, Insee Références)",
+      "organisme": "Insee",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612528",
+      "passage": "En 2024, le taux d'activité des 15-64 ans est de 71,5 % pour les femmes et de 77,5 % pour les hommes ; celui des hommes « reste supérieur de 6,0 points à celui des femmes ». En 1975 : 54,4 % pour les femmes, 83,9 % pour les hommes. L'écart est passé « de près de 30 points à moins de 10 points » entre 1975 et le milieu des années 2000.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pauvreté monétaire (France, portrait social, Insee Références)",
+      "organisme": "Insee",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612540",
+      "passage": "« Le taux de pauvreté des familles monoparentales est en forte hausse à 34,3 % » en 2023 (31,4 % en 2022). Couples sans enfant : 6,8 % ; couples avec un ou deux enfants : 8,8 % ; couples avec trois enfants ou plus : 25,8 %.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Après une séparation, les femmes font face à davantage de difficultés que les hommes (Insee Analyses Occitanie n° 158)",
+      "organisme": "Insee (direction régionale Occitanie)",
+      "date_publication": "23 janvier 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8338430",
+      "passage": "Personnes séparées entre 2014 et 2020 en Occitanie. L'année de la séparation, le niveau de vie médian baisse de 17 % pour les femmes (-300 € par mois) et de 7 % pour les hommes ; deux ans après, les femmes restent 9 % sous leur niveau initial, les hommes l'ont quasiment retrouvé (-1 %). 26 % des femmes sont pauvres l'année de la séparation, contre 18 % des hommes. « le niveau de vie médian des femmes ayant leurs enfants à charge baisse de 21 % ».",
+      "pertinence": "Statistique publique, étude régionale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les retraités et les retraites — Édition 2025 (communiqué)",
+      "organisme": "DREES (ministère des Solidarités et de la Santé)",
+      "date_publication": "31 juillet 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse-documents-de-reference/250731_PANORAMAS-retraites",
+      "passage": "Fin 2023, la pension moyenne de droit direct des femmes est « inférieure de 38 % à celle des hommes » ; l'écart est de 25 % en incluant les pensions de réversion. Il était de 50 % en 2004.",
+      "pertinence": "Statistique publique sur les retraites.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Crèche : un effet positif sur le développement du langage, particulièrement pour les enfants défavorisés (communiqué)",
+      "organisme": "Ined (Lidia Panico, Anne Solaz, avec Lawrence Berger, université du Wisconsin-Madison ; article publié dans Demography)",
+      "date_publication": "17 juin 2021",
+      "url": "https://www.ined.fr/fr/actualites/presse/creche-un-effet-positif-sur-le-developpement-du-langage-particulierement-pour-les-enfants-defavorises/",
+      "passage": "Cohorte Elfe (enfants nés en 2011, 12 000 familles). « Près d'un enfant sur cinq de moins de trois ans est accueilli en crèche ». La crèche a « un impact positif sur l'acquisition du langage », surtout pour les enfants défavorisés (mères peu diplômées ou immigrées, faibles revenus) ; « peu d'effet sur la motricité et sur le comportement » ; les enfants en crèche présentent en moyenne « un peu plus d'effets négatifs » sur certains comportements, effet non observé chez les enfants moins favorisés.",
+      "pertinence": "Institut public de recherche démographique ; étude publiée dans une revue scientifique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Rencontre avec les « trad wives », des influenceuses anti-féministes prônant les valeurs traditionnelles",
+      "organisme": "Estelle Nilsson-Julien, Euronews",
+      "date_publication": "28 février 2024",
+      "url": "https://fr.euronews.com/2024/02/28/rencontre-avec-les-trad-wives-des-influenceuses-anti-feministes-pronant-les-valeurs-tradit",
+      "passage": "Selon la chercheuse Cécile Simmons (Institut pour le dialogue stratégique), c'est « un mouvement international de femmes qui prônent un retour aux normes de genre traditionnelles », né sur des forums antiféministes avant de gagner Instagram. Les « trad wives » sont généralement conservatrices et antiféministes, mais pas toutes d'extrême droite ; le mouvement peut servir de « point d'entrée à l'idéologie nationaliste blanche et suprématiste ». En France, les comptes ont « quelques centaines de followers ».",
+      "pertinence": "Média d'information européen ; analyse d'une chercheuse spécialiste de l'extrémisme en ligne.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de l'Insee sur l'activité et la pauvreté, et panorama annuel des retraites de la DREES.",
+  "objections_legitimes": [
+    "Certaines femmes et certains hommes choisissent sincèrement de rester à la maison, et ce choix mérite le respect.",
+    "Les journées très longues en crèche peuvent fatiguer les jeunes enfants.",
+    "Les parents manquent souvent de temps avec leurs enfants."
+  ],
+  "publics": {
+    "convaincus": "Chacun fait ce qu'il veut chez soi. Mais imagine ta fille qui arrête de travailler dix ans et dont le couple se sépare : selon l'Insee, le niveau de vie des femmes chute de 17 % l'année de la rupture, et plus d'un tiers des mères seules sont pauvres. Être au foyer sans revenus, c'est être à la merci de son conjoint.",
+    "indecis": "Vouloir passer plus de temps avec ses enfants, c'est légitime. Mais quand les femmes arrêtent de travailler, elles le paient en cas de séparation et à la retraite, avec des pensions inférieures de 38 %. Et la crèche n'abîme pas les enfants : elle aide même leur langage. Le vrai choix, ce sont des places de crèche et un congé parental bien payé pour les deux parents."
+  },
+  "lecture": {
+    "valeurs": [
+      "emancipation",
+      "egalite_fh",
+      "services_publics"
+    ],
+    "mecanismes": "Présenté comme un libre choix ou comme l’intérêt des enfants, le retour au foyer rend les femmes financièrement dépendantes de leur conjoint et fait reposer sur elles seules l’éducation des enfants.",
+    "consequences": "En cas de séparation, les mères qui ont cessé de travailler basculent plus souvent dans la pauvreté, et elles le paient encore à la retraite avec des pensions plus faibles.",
+    "democratie": "Une société où la moitié de la population dépend d’un revenu qu’elle ne contrôle pas recule sur l’autonomie et l’égalité des citoyennes.",
+    "propositions": [
+      "Créer un véritable service public de la petite enfance avec assez de places de crèche partout.",
+      "Allonger et mieux rémunérer le congé parental en le partageant réellement entre les deux parents.",
+      "Mieux protéger le niveau de vie des parents seuls, par exemple par des pensions alimentaires garanties et revalorisées."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une étude de l’Ined relève un léger effet négatif de la crèche sur certains comportements chez les enfants de milieux favorisés.",
+        "integration": "Défendre la crèche, c’est défendre une crèche de qualité, avec assez de personnel, et un vrai choix pour les familles, pas une obligation."
+      }
+    ]
+  },
+  "concepts": [
+    "femmes",
+    "femmes_foyer"
+  ],
+  "repond_a": [
+    {
+      "id": "femmes_foyer_q0614",
+      "label": "Femmes au foyer"
+    },
+    {
+      "id": "femmes_q0614_femmes_foyer",
+      "label": "Femmes au foyer"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "sexisme",
+    "patriarcat"
+  ]
+}

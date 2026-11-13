@@ -1,0 +1,219 @@
+{
+  "id": "co2-bon-pour-plantes",
+  "type": "idee_recue",
+  "affirmation": "Le CO2 nourrit les plantes, il n'y a pas de quoi s'inquiéter.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "co2 engrais des plantes",
+    "co2 nourriture des plantes",
+    "co2 fertilisant",
+    "verdissement de la terre",
+    "plus de co2 plus de vegetation",
+    "le co2 n est pas un polluant",
+    "effet fertilisant du co2",
+    "co2 agriculture rendements"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le CO2 stimule bien la photosynthèse de nombreuses plantes, et la Terre a verdi en partie grâce à lui. Mais cet effet s'affaiblit avec le temps, il est limité par le manque d'eau et de nutriments, et il est annulé en partie par la chaleur et les sécheresses que ce même CO2 provoque. Il fait aussi baisser la teneur en protéines, en zinc et en fer de cultures comme le blé et le riz. Selon le GIEC, le réchauffement a déjà ralenti la croissance de la productivité agricole.",
+  "contexte": "L'argument revient souvent pour minimiser le changement climatique : le CO2 serait « la nourriture des plantes » et non un polluant, donc en émettre plus rendrait la planète plus verte.",
+  "explication": "Il faut regarder à la fois l'effet direct du CO2 sur les plantes, ses limites mesurées et les effets du réchauffement climatique qu'il provoque, à partir des études et des rapports du GIEC.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : selon la NASA, entre un quart et la moitié des terres couvertes de végétation ont nettement verdi en 35 ans, et l'effet fertilisant du CO2 expliquerait 70 % de ce verdissement d'après les modèles.",
+      "periode": "35 ans avant 2016",
+      "perimetre": "Monde",
+      "explication": "L'effet fertilisant du CO2 est réel et visible depuis l'espace : il faut le reconnaître.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "70 %"
+    },
+    {
+      "fait": "Fait défavorable : le GIEC estime avec une confiance élevée que davantage de CO2 stimule la photosynthèse et la croissance des cultures dites C3, comme le blé, le riz ou le soja.",
+      "periode": "2022",
+      "perimetre": "Monde",
+      "explication": "Le CO2 a un effet direct positif sur la croissance de beaucoup de plantes cultivées.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un coauteur de l'étude présentée par la NASA, les plantes s'adaptent à la hausse du CO2 et l'effet fertilisant diminue avec le temps.",
+      "periode": "2016",
+      "perimetre": "Monde",
+      "explication": "Le bénéfice n'augmente pas indéfiniment avec les émissions.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon une étude de 2020 fondée sur des données satellitaires et de terrain, l'effet fertilisant du CO2 a diminué dans la plupart des régions du monde entre 1982 et 2015, en lien avec le manque de nutriments et d'eau dans les sols.",
+      "periode": "1982-2015",
+      "perimetre": "Monde",
+      "explication": "Sans eau ni nutriments, le CO2 supplémentaire ne fait plus pousser grand-chose.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Le GIEC estime que la hausse des températures réduit nettement les effets positifs du CO2 sur les rendements du soja, du blé et du riz, et que la sécheresse les annule parfois.",
+      "periode": "2022",
+      "perimetre": "Monde",
+      "explication": "Le CO2 qui fertilise est aussi celui qui réchauffe : les deux effets ne se séparent pas.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une étude publiée dans Nature, le blé cultivé sous un CO2 élevé contient 9,3 % de zinc, 5,1 % de fer et 6,3 % de protéines en moins ; le riz contient 7,8 % de protéines en moins.",
+      "periode": "2014",
+      "perimetre": "Essais en plein champ",
+      "explication": "Des plantes plus grosses mais moins nourrissantes, alors que les carences en zinc et en fer touchent environ deux milliards de personnes.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "-9,3 %"
+    },
+    {
+      "fait": "Le GIEC estime avec une confiance moyenne que le réchauffement d'origine humaine a ralenti la croissance de la productivité agricole depuis 50 ans aux latitudes moyennes et basses.",
+      "periode": "50 dernières années",
+      "perimetre": "Latitudes moyennes et basses",
+      "explication": "Au total, le changement climatique pèse déjà sur l'agriculture, malgré l'effet fertilisant.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le GIEC, les vagues de chaleur extrême et les sécheresses agricoles sont déjà devenues plus fréquentes et plus intenses.",
+      "periode": "2021",
+      "perimetre": "Monde",
+      "explication": "Une plante qui grille ou manque d'eau ne profite pas du CO2.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, le CO2 aide beaucoup de plantes à pousser, et la Terre a verdi. Mais l'effet s'affaiblit, il est limité par le manque d'eau et de nutriments, et la chaleur et les sécheresses causées par ce même CO2 l'annulent en partie. Et le blé et le riz deviennent moins riches en protéines, en zinc et en fer.",
+    "moyen": "L'argument part d'un fait vrai : le CO2 est indispensable à la photosynthèse, et plus de CO2 fait pousser plus vite beaucoup de plantes. Selon la NASA, une grande partie des terres a verdi en 35 ans, surtout grâce à cet effet.\n\nMais c'est oublier le reste. Cet effet diminue avec le temps et s'arrête quand l'eau ou les nutriments manquent. Le même CO2 réchauffe la planète, et le GIEC constate que la chaleur et les sécheresses réduisent ou annulent son bénéfice sur le blé, le riz et le soja. Le réchauffement a déjà ralenti la productivité agricole. Enfin, les céréales cultivées sous fort CO2 contiennent moins de protéines, de zinc et de fer : on récolte plus, mais moins nourrissant.",
+    "detaille": "Il est exact que le CO2 nourrit les plantes : il sert à la photosynthèse, et en augmenter la concentration accélère la croissance de nombreuses cultures, comme le blé, le riz ou le soja, ce que le GIEC confirme avec une confiance élevée. Selon une étude présentée par la NASA, entre un quart et la moitié des terres couvertes de végétation ont nettement verdi en 35 ans, et l'effet fertilisant du CO2 expliquerait 70 % de ce verdissement selon les modèles.\n\nMais cet effet a des limites. Les plantes s'adaptent et le bénéfice diminue avec le temps. Une étude de 2020 montre que l'effet fertilisant a reculé dans la plupart des régions du monde entre 1982 et 2015, en lien avec le manque de nutriments et d'eau. Surtout, le CO2 ne fait pas que fertiliser : il réchauffe le climat. Le GIEC constate que les fortes chaleurs réduisent nettement le gain de rendement du blé, du riz et du soja, que la sécheresse l'annule parfois, et que le réchauffement a déjà ralenti la croissance de la productivité agricole depuis 50 ans aux latitudes moyennes et basses.\n\nEnfin, la qualité des aliments baisse. Dans des essais en plein champ au niveau de CO2 attendu vers le milieu du siècle, le blé perd 9,3 % de son zinc et 6,3 % de ses protéines, le riz 7,8 % de ses protéines. Pour les deux milliards de personnes qui souffrent déjà de carences en zinc ou en fer, c'est une menace directe. Dire « le CO2 est bon pour les plantes, donc pas d'inquiétude », c'est ne regarder qu'un seul effet et ignorer tous les autres.",
+    "empathie": "On entend beaucoup de discours alarmants sur le climat, et il est rassurant de se dire que le CO2 a aussi un bon côté. C'est vrai en partie, et on peut le reconnaître sans fermer les yeux sur le reste."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Dans les serres, on ajoute du CO2 et ça pousse mieux.",
+      "reponse": "Dans une serre, l'eau, les engrais et la température sont contrôlés. Dans un champ, le même CO2 apporte aussi la chaleur et les sécheresses, qui annulent en partie le bénéfice selon le GIEC."
+    },
+    {
+      "objection": "La Terre n'a jamais été aussi verte.",
+      "reponse": "Le verdissement est réel, mais l'effet fertilisant diminue, et des plantes plus grosses ne sont pas forcément plus nourrissantes : le blé et le riz perdent des protéines, du zinc et du fer."
+    }
+  ],
+  "questions": [
+    "Une plante qui reçoit plus de CO2 mais manque d'eau pendant une canicule pousse-t-elle mieux ?",
+    "Préfères-tu une récolte plus abondante mais moins nourrissante, ou une récolte stable ?"
+  ],
+  "limites": [
+    "L'étude sur le verdissement date de 2016 et la part attribuée au CO2 repose sur des modèles.",
+    "L'étude de 2020 sur le recul de l'effet fertilisant a été lue à travers son résumé, et elle a été discutée par d'autres chercheurs.",
+    "L'étude sur la qualité nutritionnelle date de 2014 et porte sur des essais en plein champ au niveau de CO2 attendu vers le milieu du siècle.",
+    "Le rapport du GIEC est très long : seuls le résumé exécutif et une section du chapitre 5 ont été lus."
+  ],
+  "sources": [
+    {
+      "titre": "Carbon Dioxide Fertilization Greening Earth, Study Finds",
+      "organisme": "NASA (agence spatiale américaine), à propos d’une étude publiée dans Nature Climate Change",
+      "date_publication": "26 avril 2016 (page mise à jour le 29 juillet 2024)",
+      "url": "https://www.nasa.gov/feature/goddard/2016/carbon-dioxide-fertilization-greening-earth",
+      "passage": "« From a quarter to half of Earth's vegetated lands has shown significant greening over the last 35 years », soit une surface de feuilles supplémentaire équivalente à deux fois les États-Unis continentaux ; « carbon dioxide fertilization explains 70 percent of the greening effect ». Philippe Ciais, coauteur : les plantes « acclimatize, or adjust, to rising carbon dioxide concentration » et « the fertilization effect diminishes over time » ; les effets bénéfiques du CO2 « may also be limited ». Josep Canadell : l'attribution aux différents facteurs « is based on models ». Le CO2 reste « the chief culprit of climate change ».",
+      "pertinence": "Communiqué d'une agence scientifique publique américaine.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Recent global decline of CO2 fertilization effects on vegetation photosynthesis",
+      "organisme": "Songhan Wang et al. — notice bibliographique de la bibliothèque de Météo-France",
+      "date_publication": "2020",
+      "url": "https://bibliotheque.meteo.fr/pub/DOC00053259-recent-global-decline-co2-fertilization-effects-ve.html",
+      "passage": "À partir de données satellitaires et de terrain de long terme, les auteurs trouvent que « global CFE has declined across most terrestrial regions of the globe from 1982 to 2015 », en lien avec l'évolution des concentrations en nutriments et de la disponibilité en eau des sols (« correlating well with changing nutrient concentrations and availability of soil water ») ; cela affaiblit un frein naturel au réchauffement.",
+      "pertinence": "Étude scientifique (résumé lu via la notice de Météo-France).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Increasing CO2 threatens human nutrition",
+      "organisme": "Samuel S. Myers et al. (université Harvard) — revue Nature, vol. 510, p. 139-142",
+      "date_publication": "juin 2014",
+      "url": "https://phuybers.sites.fas.harvard.edu/Doc/Myers_Nature2014.pdf",
+      "passage": "Cultures en plein champ à un CO2 élevé de 546 à 586 ppm (niveau attendu vers le milieu du siècle). Blé : zinc -9,3 %, fer -5,1 %, protéines -6,3 % ; riz : zinc -3,3 %, fer -5,2 %, protéines -7,8 % ; soja : zinc -5,1 %, fer -4,1 %, protéines sans changement significatif ; « No changes were found in sorghum ». Les carences en zinc et en fer touchent environ deux milliards de personnes. Les différences entre variétés suggèrent qu'une sélection pourrait en partie compenser.",
+      "pertinence": "Étude publiée dans une revue scientifique à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Sixième rapport d'évaluation, groupe de travail II — Chapitre 5 : Food, Fibre and Other Ecosystem Products",
+      "organisme": "GIEC (IPCC)",
+      "date_publication": "2022",
+      "url": "https://ipcc.ch/report/ar6/wg2/chapter/chapter-5",
+      "passage": "Résumé exécutif : « Human-induced warming has slowed growth of agricultural productivity over the past 50 years in mid and low latitudes » (confiance moyenne) ; « Increased CO2 concentrations will reduce nutrient density of some crops » (confiance élevée). Section 5.4.3.1 : « Elevated CO2 concentrations stimulate photosynthesis rates and biomass accumulation of C3 crops » (confiance élevée) ; « positive effects of rising CO2 on yield are significantly reduced by higher temperatures for soybean, wheat and rice » (confiance moyenne) ; « drought sometimes negates the CO2 effects » ; « Elevated CO2 reduces some important nutrients such as protein, iron, zinc ».",
+      "pertinence": "Rapport d'évaluation scientifique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sixième rapport d'évaluation, groupe de travail I — Fiche sectorielle : Agriculture and Pasture Systems",
+      "organisme": "GIEC (IPCC)",
+      "date_publication": "2021",
+      "url": "https://www.ipcc.ch/report/ar6/wg1/downloads/factsheets/IPCC_AR6_WGI_Sectoral_Fact_Sheet_Agriculture_and_Pasture_Systems.pdf",
+      "passage": "« Increases in atmospheric carbon dioxide concentrations are associated with higher photosynthetic rates and improved water retention » (confiance élevée), mais aussi une baisse de la qualité nutritionnelle des cultures. « Extreme temperature thresholds can disrupt plant growth or damage crops » ; « The intensity and frequency of extreme heat has increased and will continue through the 21st century » (confiance élevée) ; « Agricultural drought has already increased in frequency and intensity ».",
+      "pertinence": "Fiche de synthèse du GIEC.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Septième rapport d'évaluation du GIEC.",
+  "objections_legitimes": [
+    "Le CO2 est indispensable à la photosynthèse et stimule réellement la croissance de nombreuses plantes.",
+    "Le verdissement de la planète observé par satellite est un fait."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : le CO2 fait pousser les plantes, la NASA a même mesuré un verdissement de la planète. Mais ce même CO2 apporte les canicules et les sécheresses, qui annulent une partie du gain selon le GIEC. Et le blé cultivé sous fort CO2 perd du zinc et des protéines : on mange plus, mais moins bien.",
+    "indecis": "Le CO2 a bien un effet fertilisant, c'est un fait scientifique. Mais il s'affaiblit avec le temps, il ne compense pas la chaleur et la sécheresse, et il rend certains aliments moins nourrissants. Au total, selon le GIEC, le réchauffement pèse déjà sur l'agriculture."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "internationalisme",
+      "solidarite"
+    ],
+    "mecanismes": "L’argument isole un effet réel du dioxyde de carbone, la stimulation de la photosynthèse, et passe sous silence tous les autres : la chaleur, les sécheresses, l’épuisement de l’effet et la baisse de la valeur nutritive des récoltes.",
+    "consequences": "Les pays et les populations qui dépendent du blé et du riz et souffrent déjà de carences en zinc et en fer sont les premiers touchés, tout comme les paysans exposés aux sécheresses et aux canicules.",
+    "democratie": "Minimiser les dégâts du réchauffement retarde les décisions collectives et laisse les plus pauvres payer seuls l’adaptation.",
+    "propositions": [
+      "Réduire rapidement les émissions plutôt que compter sur un effet fertilisant qui s’épuise.",
+      "Soutenir une agriculture paysanne résiliente face aux sécheresses, avec une gestion publique et partagée de l’eau.",
+      "Financer la recherche publique sur des variétés adaptées à la chaleur et plus riches en nutriments."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’effet fertilisant du dioxyde de carbone est réel et a contribué à un verdissement de la planète observé par satellite.",
+        "integration": "Le reconnaître rend l’argument plus solide : ce gain est limité, s’affaiblit, et ne compense ni la chaleur, ni les sécheresses, ni la perte de qualité nutritive."
+      }
+    ]
+  },
+  "concepts": [
+    "ecologie",
+    "climat_origine",
+    "co2_plantes"
+  ],
+  "repond_a": [
+    {
+      "id": "co2_plantes_q0614",
+      "label": "Le CO2 et les plantes"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ]
+}

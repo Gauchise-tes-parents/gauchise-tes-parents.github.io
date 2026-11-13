@@ -1423,3 +1423,157 @@ Les phrases témoins suivantes gardent leur fiche :
 **Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique, comme au passage précédent. Aucun chiffre n'a été relevé. `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
 
 **Vérifications.** `npm test` : 477 tests, 477 réussis, après les deux corrections ci-dessus. Tests de bout en bout : 38 tests, 38 réussis.
+
+## 13 novembre 2026 — passage de 06 h 14 (UTC)
+
+**Questions testées : 25 nouvelles, retenues sur 40 essayées.** Quinze phrases ont été écartées avant rédaction parce qu'une fiche existante y répondait déjà, qu'elles étaient trop proches d'une autre question retenue ou trop éloignées du débat politique :
+- « Les antifas sont des terroristes, il faut les dissoudre » (`ultragauche-ultradroite-violence`) ;
+- « LFI veut augmenter les impôts de tous ceux qui gagnent plus de 4 000 euros » (`gauche-augmenter-impots`) ;
+- « L'islam est incompatible avec la République » (`musulmans-amalgames`) ;
+- « L'immigration coûte des dizaines de milliards par an » (`immigres-aides`) ;
+- « L'Algérie refuse de reprendre ses ressortissants expulsés » (`expulser-tous-etrangers-condamnes`) ;
+- « Il faut supprimer les allocations aux familles des émeutiers » (`allocations-familiales-parents-delinquants`) ;
+- « Le Conseil constitutionnel a censuré la loi immigration pour protéger les étrangers » (`conseil-constitutionnel-gouvernement-juges`) ;
+- « Les gens du voyage ne paient pas d'impôts » (`gens-du-voyage-impots`) ;
+- « Il faut sortir de l'Union européenne comme les Britanniques » (fiches voisines `souverainete-populaire` et `brexit-succes`) ;
+- « Le Sénat ne sert à rien, LFI veut le supprimer » (proche de `lfi-sixieme-republique`, gardé pour un prochain passage) ;
+- « La gauche a défendu la pédophilie dans les années 70 » (sujet historique délicat, sources primaires difficiles à lire en ligne : reporté) ;
+- « Les écolos veulent interdire les barbecues », « Les jeux vidéo rendent les jeunes violents », « La cantine gratuite coûterait une fortune », « Les retraités paient trop de CSG » (reportés : moins centraux dans les discours d'extrême droite).
+
+Les 25 questions testées :
+1. Le paracétamol pendant la grossesse provoque l'autisme.
+2. Le CO2 est bon pour les plantes, il n'y a pas de quoi s'inquiéter.
+3. Les voitures électriques prennent feu beaucoup plus souvent que les autres.
+4. Le tri des déchets ne sert à rien, tout finit brûlé ou enterré.
+5. Le Moyen Âge était plus chaud qu'aujourd'hui.
+6. Les éoliennes tuent des millions d'oiseaux.
+7. Les éoliennes en mer détruisent la pêche.
+8. Les tarifs réglementés du gaz ont été supprimés à cause de Bruxelles.
+9. Les GAFAM ne paient pas d'impôts en France.
+10. Les étrangers ne paient pas d'impôts.
+11. Il faut instaurer la perpétuité réelle pour les pires criminels.
+12. Il faut la castration chimique obligatoire pour les violeurs.
+13. Les détenus devraient être obligés de travailler.
+14. Les Roms vivent de la mendicité et du vol.
+15. Les différences de QI entre pays prouvent que certains peuples sont moins intelligents.
+16. Aujourd'hui ce sont les hommes qui sont discriminés, le féminisme est allé trop loin.
+17. Les femmes devraient rester à la maison pour élever leurs enfants.
+18. Les jeunes hommes votent à l'extrême droite à cause du féminisme.
+19. Des drag-queens lisent des contes aux enfants pour les endoctriner.
+20. CNews est la première chaîne d'info, la preuve que les Français pensent comme elle.
+21. La planification écologique de LFI, c'est le Gosplan soviétique.
+22. La gauche veut supprimer la propriété privée et prendre vos maisons.
+23. Le RN veut un référendum sur l'immigration, c'est ça la démocratie.
+24. L'Algérie n'existait pas avant la colonisation française.
+25. Il faut négocier avec Poutine, c'est Zelensky qui empêche la paix.
+
+Avant ce passage, 12 menaient à une « LACUNE » et 13 à une fiche hors sujet (par exemple `delinquance-partout` pour la perpétuité et la castration chimique, `migrants-mediterranee` pour l'éolien en mer, `melenchon-crie` pour la planification, `egalite-salariale` pour les femmes au foyer et le vote des jeunes hommes).
+
+**Fiches créées : 25.**
+- Générateur : `scripts/fiches/quotidien_20261113_0614.py`.
+- Chaque fiche a le champ `publics` et une entrée dans `scripts/lectures-gauche.js`.
+- Les sources ont été ouvertes et lues le 13 novembre 2026 par cinq agents de recherche, avec un outil de lecture qui résume : les citations entre « » sont courtes et à revérifier mot pour mot.
+- Chaque lot a été contrôlé avant assemblage (validité, politique documentaire, publics, absence de chiffre dans les lectures). Huit fiches dépassaient la limite de 8 faits : 14 faits secondaires ont été retirés du générateur (les sources restent listées).
+- La fiche du CO2 a pour affirmation « Le CO2 nourrit les plantes… » : avec le mot « bon », une phrase sans rapport (« Avec un bon argument, il changera d'avis d'un coup ») y menait par simple ressemblance de mots. La question d'origine mène toujours à la fiche.
+- **Correction après un premier `npm test`.** La fiche sur le climat médiéval répondait à « le prix du pain au Moyen Âge » (test de recherche locale) à cause des mots « Moyen Âge » de son affirmation et de son contexte, et du mot-clé « petit âge glaciaire ». Son affirmation devient « Il faisait plus chaud à l'époque médiévale qu'aujourd'hui », le contexte et le mot-clé sont reformulés, et le concept `climat_medieval` rattache la question d'origine (« Le Moyen Âge était plus chaud qu'aujourd'hui ») à la fiche.
+
+Trois premières sources de chacune :
+- `paracetamol-grossesse-autisme` (contredit, 9 sources) : ANSM (Agence nationale de sécurité du médicament et des produits de santé) (25 septembre 2025 (mis à jour le 1er octobre 2025)) ; Organisation mondiale de la santé (OMS), bureau régional de l’Europe (24 septembre 2025) ; Viktor H. Ahlqvist, Renee M. Gardner, Brian K. Lee et al. (Institut Karolinska, université Drexel) — revue JAMA, vol. 331, n° 14 (texte sur PubMed Central) (9 avril 2024).
+- `co2-bon-pour-plantes` (trompeur, 5 sources) : NASA (agence spatiale américaine), à propos d’une étude publiée dans Nature Climate Change (26 avril 2016 (page mise à jour le 29 juillet 2024)) ; Songhan Wang et al. — notice bibliographique de la bibliothèque de Météo-France (2020) ; Samuel S. Myers et al. (université Harvard) — revue Nature, vol. 510, p. 139-142 (juin 2014).
+- `voitures-electriques-incendies` (contredit, fiabilité « estimation », 6 sources) : Ministère de la Transition écologique (Direction générale de l’énergie et du climat) (non datée (données jusqu’en septembre 2025 ; fichier mis en ligne en octobre 2025)) ; Agence internationale de l’énergie (AIE, organisation intergouvernementale) (2026) ; Science Feedback (organisme indépendant de vérification des faits scientifiques) (25 septembre 2025).
+- `tri-dechets-inutile` (contredit, 6 sources) : SDES (Service des données et études statistiques du ministère de la Transition écologique) (27 mars 2026) ; Citeo (éco-organisme des emballages ménagers et des papiers, société agréée par l’État) (25 novembre 2024) ; Anne Lenormand, Localtis (Banque des Territoires) (25 novembre 2024).
+- `moyen-age-plus-chaud` (contredit, 5 sources) : Raphael Neukom et al. (université de Berne, base de données PAGES 2k) — revue Nature, vol. 571 (notice de la base ADS, Harvard-Smithsonian) (juillet 2019) ; Bjerknes Centre for Climate Research (université de Bergen), d’après l’Oeschger Center de l’université de Berne (2019) ; GIEC (IPCC) (2021).
+- `eoliennes-oiseaux` (trompeur, 8 sources) : LPO (Ligue pour la protection des oiseaux, association) (20 juin 2017) ; Anne Lenormand, Banque des Territoires (Localtis) (27 juin 2017) ; U.S. Fish and Wildlife Service (agence fédérale du ministère de l’Intérieur des États-Unis) (données « as of 2017 » (page consultée le 13 novembre 2026)).
+- `eoliennes-mer-peche` (trompeur, 6 sources) : CNRS et Ifremer (expertise scientifique collective commandée par les ministères chargés de l’énergie, de l’écologie et de la mer) (29 juin 2026) ; Ifremer et CNRS (coordination Eugénie Cazaux, Nathalie Niquil, Cédric Bacher ; 25 chercheurs de 13 établissements publics) (2026) ; AFP (dépêche reprise par Connaissance des Énergies) (7 juillet 2021).
+- `tarifs-gaz-bruxelles` (plutôt exact, 5 sources) : Conseil d’État (Assemblée du contentieux) (19 juillet 2017) ; Assemblée nationale (question publiée le 29 août 2017, réponse publiée le 23 janvier 2018) ; Commission de régulation de l’énergie (CRE, autorité administrative indépendante) (31 janvier 2023).
+- `gafam-impots` (plutôt exact, 6 sources) : LCP (La Chaîne parlementaire, Assemblée nationale) (22 octobre 2025 (mis à jour le 29 octobre 2025)) ; Sénat (Jean-Marie Mizzon, commission des finances) (9 juillet 2026) ; Sénat (question publiée le 10 juillet 2025, réponse publiée le 18 juin 2026).
+- `etrangers-impots` (contredit, 6 sources) : Bulletin officiel des finances publiques (BOFiP, DGFiP) (version en vigueur depuis le 28 juillet 2016) ; Sénat (Jean-François Husson, commission des finances) (21 novembre 2024) ; Direction générale des finances publiques (DGFiP, ministère de l’Économie) (16 avril 2024).
+- `perpetuite-reelle` (trompeur, 8 sources) : Légifrance (version en vigueur au 16 mars 2011 (consultée le 13 novembre 2026)) ; Anne Ponseille (Université de Montpellier), Le Club des juristes (7 mars 2025 (mis à jour le 8 juillet 2025)) ; Nathan Ginestière (Université Paris-Panthéon-Assas), Le Club des juristes (13 juillet 2026).
+- `castration-chimique-violeurs` (trompeur, 6 sources) : Haute Autorité de santé (HAS) (juillet 2009) ; Assemblée nationale (question de Fabien Di Filippo, réponse du ministère de la Justice) (question du 19 juin 2018, réponse du 7 août 2018) ; Simon Barbarit, Public Sénat (12 juin 2026).
+- `detenus-travail-obligatoire` (trompeur, 5 sources) : Conseil constitutionnel (septembre 2015) ; Ministère de la Justice (12 mai 2023 (mis à jour le 3 février 2025)) ; Assemblée nationale (question de Sylvain Berrios, réponse du ministère de la Justice) (question du 31 mars 2026, réponse du 9 juin 2026).
+- `roms-mendicite-vol` (contredit, 8 sources) : Commission nationale consultative des droits de l'homme (CNCDH) (juin 2026) ; Nonna Mayer (CNRS, Sciences Po), revue de la Ligue des droits de l’Homme (juillet 2026) ; Maire-info (quotidien d’information des élus locaux) (19 juillet 2022).
+- `qi-pays-intelligence` (contredit, 7 sources) : Jelte M. Wicherts, Conor V. Dolan, Han L. J. van der Maas (université de Tilburg et université d’Amsterdam), revue Intelligence, vol. 38, n° 1, p. 1-20 (2010) ; Dan Samorodnitsky, Kevin Bird, Jedidiah Carlson, James Lingford, Jon Phillips, Rebecca Sear, Cathryn Townsend — STAT (20 juin 2024) ; Adam Marcus, Retraction Watch (18 mars 2024).
+- `hommes-discrimines-feminisme` (trompeur, 9 sources) : Insee (Mathilde Gerardin) (4 mars 2025) ; Mission interministérielle pour la protection des femmes contre les violences (Miprof), arretonslesviolences.gouv.fr (22 janvier 2025 (mise à jour)) ; Observatoire des inégalités (d’après l’enquête Emploi du temps 2009-2010 de l’Insee) (29 avril 2016).
+- `femmes-au-foyer` (opinion, 6 sources) : Insee (18 novembre 2025) ; Insee (direction régionale Occitanie) (23 janvier 2025) ; DREES (ministère des Solidarités et de la Santé) (31 juillet 2025).
+- `jeunes-hommes-extreme-droite-feminisme` (trompeur, fiabilité « debat », 7 sources) : Ipsos Talan pour France Télévisions, Radio France et Public Sénat (sondage le jour du vote) (30 juin 2024) ; Public Sénat (d’après l’enquête Ipsos Talan) (1er juillet 2024) ; Yann Algan (HEC) et Eugénie de Laubier, Observatoire du bien-être du Cepremap (24 mars 2025).
+- `drag-queens-enfants` (trompeur, 5 sources) : Institute for Strategic Dialogue (ISD, institut de recherche sur l’extrémisme et la désinformation) (2024) ; Livres Hebdo (presse professionnelle du livre) (17 janvier 2023) ; Maxime Maillet, RTBF (radio-télévision publique belge) (27 mars 2023).
+- `cnews-audiences-opinion` (trompeur, 8 sources) : Virginie Achouch, The Media Leader (d’après Médiamétrie) (4 janvier 2026) ; Brut (d’après Médiamétrie) (2026 (page consultée le 13 novembre 2026)) ; Conseil d’État (décision n° 463162, requête de l’association RSF) (13 février 2024).
+- `lfi-planification-gosplan` (trompeur, 8 sources) : La France insoumise — site de campagne Mélenchon 2027 (source partisane) (page mise à jour le 7 novembre 2026) ; Journal officiel — texte reproduit par l'Ineris (base AIDA, site public de l'Institut national de l'environnement industriel et des risques) (7 juillet 2022) ; Banque des Territoires (Localtis, Caisse des dépôts) (8 juillet 2022).
+- `gauche-propriete-privee` (trompeur, 10 sources) : La France insoumise — site de campagne Mélenchon 2027 (source partisane) (page mise à jour le 7 novembre 2026) ; La France insoumise — site de campagne Mélenchon 2027 (source partisane) (septembre 2026) ; Nouveau Front populaire — document publié par La France insoumise (source partisane) (juin 2024 (document non daté, publié pour les législatives des 30 juin et 7 juillet 2024)).
+- `rn-referendum-immigration` (trompeur, 10 sources) : Assemblée nationale — texte déposé par Marine Le Pen et les députés du groupe Rassemblement national (source partisane) (25 janvier 2024) ; Légifrance (version consultée le 13 novembre 2026) ; Anne Levade (Université Paris I Panthéon-Sorbonne), Le Club des juristes (19 octobre 2026).
+- `algerie-avant-colonisation` (trompeur, 7 sources) : Avalon Project, Yale Law School (Université Yale) — archives de textes diplomatiques (traité du 5 septembre 1795, page consultée le 13 novembre 2026) ; Ministère de l’Europe et des Affaires étrangères (Archives diplomatiques) (inventaire non daté, volumes couvrant 1542-1847) ; Centre des Archives diplomatiques de Nantes (ministère des Affaires étrangères) (2013, mis à jour en septembre 2024).
+- `ukraine-negocier-poutine` (trompeur, 11 sources) : NPR / WBUR — entretien avec Samuel Charap (RAND Corporation) et Sergey Radchenko (Johns Hopkins University, SAIS), auteurs d’une enquête parue dans Foreign Affairs (6 mai 2024) ; Estelle Nilsson-Julien, Euronews (rubrique de vérification des faits) (24 juillet 2026) ; Vladimir Socor, Jamestown Foundation (centre d’analyse américain) (5 octobre 2022).
+
+**Points fragiles signalés dans les limites des fiches :**
+- **Documents lus à travers un résumé ou un compte rendu :**
+  - position de l'Agence européenne du médicament, revue du BMJ et méta-analyse de 2026 sur le paracétamol : Euronews et ABC News ;
+  - étude Wang et al. (2020) sur l'effet fertilisant du CO2 : notice de Météo-France ;
+  - chiffres suédois (MSB) et norvégiens sur les incendies de voitures : ministère de la Transition écologique, AIE et presse spécialisée ;
+  - expertise collective Ifremer-CNRS sur l'éolien en mer : communiqué et résumé (synthèse lue en partie) ;
+  - décision du Conseil d'État de 2017 sur les tarifs du gaz : analyse publiée par le Conseil d'État ;
+  - rapports du HCE sur le sexisme : communiqués ;
+  - rétractations des études fondées sur les données de Lynn : Retraction Watch ;
+  - audiences de CNews : presse citant Médiamétrie ;
+  - décision 2024-6 RIP du Conseil constitutionnel : presse et Club des juristes ;
+  - décret de 2022 sur la planification écologique : copie publique de l'Ineris.
+- **Données anciennes :**
+  - mortalité des oiseaux près des éoliennes (LPO, 2017) et comparaisons américaines (2017) ;
+  - recommandations de la HAS sur les traitements hormonaux (2009) ;
+  - tâches domestiques (2010) ;
+  - estimations de population rom et des gens du voyage (2012-2014) ;
+  - contribution budgétaire des immigrés (CEPII, 1979-2011 ; OCDE, données jusqu'en 2018) ;
+  - chiffres d'affaires et impôts des GAFAM (2017, avancés par un député) ;
+  - carence en iode et QI (OMS, 2002).
+- **Sources à manier avec prudence :**
+  - Citeo est l'éco-organisme financé par les entreprises qui mettent les emballages sur le marché ;
+  - les taux de recyclage diffèrent selon la méthode (67 % ou 75 %) ;
+  - aucun sondage lu ne croise l'âge et le sexe pour le vote RN : la fiche sur les jeunes hommes le dit ;
+  - la déclaration de Djeddah est lue sur le site du gouvernement ukrainien, partie au conflit ;
+  - l'actualité des pourparlers de novembre 2026 repose sur une seule dépêche AP (fiche à revoir le 15 décembre 2026) ;
+  - l'issue judiciaire de l'affaire de Saint-Senoux (lectures de contes) n'a pas pu être vérifiée et n'est pas citée ;
+  - les programmes de LFI et du RN sont cités comme sources partisanes, attribuées.
+
+**Pages non ouvertes, donc non citées :**
+- vie-publique.fr (JavaScript requis, plusieurs pages) ;
+- résumé pour décideurs du GIEC (AR6, groupe I), notice du Sénat r24-650, décision 2024-6 RIP sur conseil-constitutionnel.fr, note de France Stratégie sur la planification : permission non accordée à temps ;
+- PubMed et PubMed Central (protection anti-robot), HAL (Mayer et Vitale, 2020), OpenEdition ;
+- France 3, Ouest-France, franceinfo et France 24 (robots) ;
+- fact-checks de l'AFP et des Décodeurs sur le paracétamol et les lectures de contes (introuvables) ;
+- Insee Première sur la pauvreté (erreur serveur).
+
+**Reconnaissance des questions.** Après génération, 10 questions menaient déjà à leur fiche. Huit fiches étaient d'abord ignorées par le chargeur de la bibliothèque (plus de 8 faits) : elles ont été allégées. `public/js/cartographie.js` reçoit :
+- **18 concepts** : `eolien_oiseaux`, `eolien_mer`, `trv_gaz`, `gafam_impots`, `perpetuite`, `castration`, `roms`, `hommes_discrimines`, `femmes_foyer`, `jeunes_hommes_vote`, `planification`, `propriete_privee`, `referendum_immig`, `algerie_precoloniale`, `ukraine_paix`, `co2_plantes`, `ve_incendies`, `climat_medieval` ;
+- **leurs domaines** ;
+- **des arguments placés en tête** : un par concept, plus des variantes avec les concepts voisins qui se déclenchent sur les mêmes phrases (`ecologie`, `eolien`, `mer`, `peche`, `europe`, `fiscalite`, `delinquance`, `justice`, `prison`, `origine`, `immigration`, `discrimination`, `femmes`, `feminisme`, `melenchon_lfi`, `gauche`, `logement`, `loi_constitution`, `fn_parti`, `colonisation`, `algerie`, `russie`, `ukraine`).
+
+Comparaison avant/après sur 754 phrases de contrôle (affirmations de la bibliothèque et questions citées dans ce journal) : aucune phrase ne change de fiche.
+
+Variantes familières vérifiées :
+- « Les éoliennes massacrent les rapaces » ;
+- « Les parcs éoliens offshore font fuir les poissons » ;
+- « Google et Amazon ne paient rien au fisc » ;
+- « On devrait enfermer à vie les tueurs d'enfants » ;
+- « Il faut castrer les pédophiles » ;
+- « Le masculinisme progresse chez les jeunes » ;
+- « Les insoumis veulent réquisitionner nos maisons » ;
+- « La nation algérienne a été inventée par la France » ;
+- « Zelensky refuse la paix, il faut négocier avec la Russie » ;
+- « Le Doliprane pendant la grossesse donne l'autisme » ;
+- « Les voitures électriques brûlent tout le temps » ;
+- « Plus de CO2, c'est une planète plus verte ».
+
+Les phrases témoins suivantes gardent leur fiche :
+- « Les éoliennes ne servent à rien » ;
+- « La pêche française est détruite par les quotas européens » ;
+- « Les gens du voyage ne paient pas d'impôts » ;
+- « La justice est laxiste » ;
+- « Les voitures électriques polluent plus que les thermiques » ;
+- « Le réchauffement climatique est d'origine humaine ».
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`), volontairement laissées sans.
+
+**Questions écartées pour sources invérifiables : aucune.**
+
+**Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique, comme aux passages précédents. Aucun chiffre n'a été relevé. `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
+
+**Vérifications.** `npm test` : 477 tests, 477 réussis, après la correction ci-dessus. Tests de bout en bout : 38 tests, 38 réussis.

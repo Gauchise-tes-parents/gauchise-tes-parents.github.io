@@ -199,12 +199,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "identite",
-    "demographie",
-    "europe"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -220,5 +214,11 @@
     "civilisation",
     "racines",
     "grand remplacement"
+  ],
+  "concepts": [
+    "immigration",
+    "identite",
+    "demographie",
+    "europe"
   ]
 }

@@ -216,9 +216,6 @@
       }
     ]
   },
-  "concepts": [
-    "syndicats"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -226,5 +223,8 @@
     "cfdt",
     "force ouvriere",
     "droit de greve"
+  ],
+  "concepts": [
+    "syndicats"
   ]
 }

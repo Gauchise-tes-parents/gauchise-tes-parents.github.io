@@ -215,11 +215,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "climat_origine",
-    "canicules"
-  ],
   "repond_a": [
     {
       "id": "canicules_q2013",
@@ -243,5 +238,10 @@
     "nucleaire",
     "changement climatique",
     "climat a toujours change"
+  ],
+  "concepts": [
+    "ecologie",
+    "climat_origine",
+    "canicules"
   ]
 }

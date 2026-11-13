@@ -223,10 +223,6 @@
       }
     ]
   },
-  "concepts": [
-    "services_publics",
-    "rail_concurrence"
-  ],
   "repond_a": [
     {
       "id": "rail_concurrence_q2013",
@@ -240,5 +236,9 @@
   "ne_repond_pas": [],
   "synonymes": [
     "urgences"
+  ],
+  "concepts": [
+    "services_publics",
+    "rail_concurrence"
   ]
 }

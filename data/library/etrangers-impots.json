@@ -1,0 +1,229 @@
+{
+  "id": "etrangers-impots",
+  "type": "idee_recue",
+  "affirmation": "Les étrangers ne paient pas d'impôts.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et finances publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "etrangers ne paient pas d impots",
+    "immigres ne paient pas d impots",
+    "immigres impots",
+    "etrangers impots",
+    "immigres cotisations",
+    "immigres contribuent",
+    "immigres tva",
+    "immigration cout impots"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Les impôts ne dépendent pas de la nationalité : toute personne qui vit ou travaille en France est imposée selon les mêmes règles. Les étrangers paient la TVA à chaque achat, comme tout le monde, et c'est la première recette de l'État. Ceux qui travaillent paient cotisations sociales et impôt sur le revenu. Selon l'OCDE, les immigrés paient même plus en impôts et cotisations que ce que l'État dépense pour leur protection sociale, leur santé et leur éducation. Par habitant, ils contribuent un peu moins que les natifs, surtout parce qu'ils sont plus souvent au chômage et moins payés.",
+  "contexte": "L'idée circule souvent sous la forme « ils profitent sans payer ». Elle joue sur une confusion : comme plus de la moitié des foyers ne paient pas d'impôt sur le revenu, on croit que ceux qui n'en paient pas ne paient « aucun impôt ».",
+  "explication": "Il faut rappeler ce que sont les impôts (TVA, cotisations, impôt sur le revenu, taxes locales), les règles d'imposition, puis regarder les études sur la contribution budgétaire des immigrés.",
+  "faits": [
+    {
+      "fait": "Selon la doctrine officielle de l'administration fiscale, toute personne domiciliée fiscalement en France, parce qu'elle y vit, y travaille ou y a ses intérêts économiques, est imposée sur l'ensemble de ses revenus ; ces critères ne font pas intervenir la nationalité.",
+      "periode": "depuis 2016",
+      "perimetre": "France",
+      "explication": "Un étranger qui vit ou travaille en France est imposé exactement comme un Français.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La TVA nette revenant à l'État devait atteindre 106,2 milliards d'euros en 2025, davantage que l'impôt sur le revenu (93,8 milliards).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La première recette fiscale de l'État est payée par tous les consommateurs, quelle que soit leur nationalité.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "106,2 Md€"
+    },
+    {
+      "fait": "Sur 40,7 millions de foyers fiscaux, 18,2 millions ont payé l'impôt sur le revenu au titre des revenus de 2022, soit moins d'un foyer sur deux.",
+      "periode": "revenus 2022",
+      "perimetre": "France",
+      "explication": "Ne pas payer l'impôt sur le revenu concerne la majorité des foyers, Français compris, et ne veut pas dire ne payer aucun impôt.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "18,2 millions"
+    },
+    {
+      "fait": "En 2025, 61,9 % des immigrés âgés de 15 à 64 ans occupent un emploi, et paient à ce titre des cotisations sociales et l'impôt sur le revenu prélevé à la source s'ils y sont soumis.",
+      "periode": "2025",
+      "perimetre": "France hors Mayotte",
+      "explication": "La majorité des immigrés d'âge actif travaillent et cotisent.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "61,9 %"
+    },
+    {
+      "fait": "Selon l'OCDE, dans tous les pays étudiés, les impôts et cotisations payés par les immigrés dépassent les dépenses publiques consacrées à leur protection sociale, leur santé et leur éducation.",
+      "periode": "2006-2018",
+      "perimetre": "Pays de l'OCDE",
+      "explication": "Les immigrés financent plus que ce qu'ils reçoivent en prestations et services individuels.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'OCDE, en France, les recettes publiques par habitant tirées des immigrés représentent 0,88 fois celles tirées des natifs, et 0,79 fois pour les impôts et cotisations des ménages.",
+      "periode": "2006-2018",
+      "perimetre": "France",
+      "explication": "Par personne, les immigrés paient un peu moins, surtout parce qu'ils sont plus souvent au chômage et dans des emplois moins payés.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "0,88"
+    },
+    {
+      "fait": "Fait défavorable : selon le CEPII, la contribution nette des immigrés aux finances publiques a été légèrement négative entre 1979 et 2011, entre -0,5 % et +0,05 % du PIB, sans jamais déterminer l'évolution du solde budgétaire.",
+      "periode": "1979-2011",
+      "perimetre": "France",
+      "explication": "L'immigration ne coûte ni ne rapporte beaucoup : son effet budgétaire est faible dans un sens comme dans l'autre.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "-0,5 % à +0,05 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les impôts ne dépendent pas de la nationalité : tout le monde paie la TVA, première recette de l'État, et les étrangers qui travaillent paient cotisations et impôt sur le revenu comme les autres. Selon l'OCDE, les immigrés paient même plus d'impôts et de cotisations que ce que l'État dépense pour leurs prestations, leur santé et leur éducation.",
+    "moyen": "C'est faux, et c'est même impossible : en France, on est imposé parce qu'on vit ou travaille ici, pas selon son passeport. Chaque achat inclut de la TVA, qui rapporte plus à l'État que l'impôt sur le revenu. Un salarié étranger paie les mêmes cotisations et le même impôt sur le revenu qu'un Français ayant le même salaire.\n\nBeaucoup confondent « ne pas payer l'impôt sur le revenu » et « ne pas payer d'impôt ». Or moins d'un foyer sur deux paie l'impôt sur le revenu, Français compris. Selon l'OCDE, les immigrés paient plus en impôts et cotisations que ce qu'on dépense pour leurs prestations, leur santé et leur éducation. Par personne, ils contribuent un peu moins que les natifs, parce qu'ils sont plus souvent au chômage et moins bien payés : c'est un argument pour lutter contre les discriminations à l'embauche, pas contre eux.",
+    "detaille": "La phrase repose sur une confusion. En France, l'impôt ne dépend pas de la nationalité. Selon la doctrine officielle de l'administration fiscale, toute personne qui a en France son foyer, son activité professionnelle ou le centre de ses intérêts économiques est imposée sur l'ensemble de ses revenus, qu'elle soit française ou étrangère.\n\nTout le monde paie des impôts. La TVA, payée à chaque achat, est la première recette de l'État : 106,2 milliards d'euros prévus en 2025, plus que l'impôt sur le revenu. Les salariés, français ou étrangers, paient des cotisations sociales et, s'ils y sont soumis, l'impôt sur le revenu prélevé à la source. En 2025, 61,9 % des immigrés d'âge actif occupent un emploi, selon l'Insee.\n\nL'impôt sur le revenu, lui, n'est payé que par moins d'un foyer sur deux : 18,2 millions sur 40,7 millions. Ne pas le payer n'a rien de propre aux étrangers : c'est le cas de la majorité des foyers aux revenus modestes, Français compris.\n\nQu'en est-il du bilan global ? Selon l'OCDE, dans tous les pays étudiés, les impôts et cotisations des immigrés dépassent ce que l'État dépense pour leur protection sociale, leur santé et leur éducation. Si l'on ajoute leur part des dépenses collectives, comme la défense ou les intérêts de la dette, leur contribution nette devient légèrement négative ou positive selon les méthodes. Pour la France, le CEPII l'estime entre -0,5 % et +0,05 % du PIB entre 1979 et 2011 : un effet faible, qui n'a jamais déterminé l'état des finances publiques.\n\nIl est vrai que, par personne, les immigrés paient un peu moins que les natifs, surtout parce qu'ils sont plus souvent au chômage et moins bien payés. La réponse est de faciliter leur accès à l'emploi et de combattre les discriminations, ce qui augmenterait d'ailleurs leurs contributions.",
+    "empathie": "On peut avoir l'impression que certains profitent sans contribuer, surtout quand on paie soi-même beaucoup. C'est légitime de vouloir que chacun participe. La bonne nouvelle, c'est que les règles sont les mêmes pour tous, et que les étrangers paient bien leur part."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils ne paient pas d'impôt sur le revenu.",
+      "reponse": "Moins d'un foyer sur deux en paie, Français compris : c'est une question de revenu, pas de nationalité. Et tout le monde paie la TVA, qui rapporte plus que l'impôt sur le revenu."
+    },
+    {
+      "objection": "Au total, ils coûtent plus qu'ils ne rapportent.",
+      "reponse": "Selon le CEPII, l'effet est faible, entre -0,5 % et +0,05 % du PIB sur trente ans. Selon l'OCDE, leurs impôts et cotisations dépassent même ce qu'on dépense pour leurs prestations, leur santé et leur éducation."
+    }
+  ],
+  "questions": [
+    "Sais-tu que la TVA rapporte plus à l'État que l'impôt sur le revenu, et que tout le monde la paie ?",
+    "Connais-tu la proportion de Français qui ne paient pas l'impôt sur le revenu ?"
+  ],
+  "limites": [
+    "Les études de l'OCDE et du CEPII portent sur les immigrés (nés étrangers à l'étranger), dont une partie est devenue française, et non sur les seuls étrangers.",
+    "Les données du CEPII s'arrêtent en 2011 ; celles de l'OCDE en 2018.",
+    "Les tableaux de l'OCDE pour la France ont été lus à travers un outil de résumé ; les ratios cités sont à revérifier dans le rapport.",
+    "Les chiffres de TVA et d'impôt sur le revenu de 2025 sont des prévisions du projet de loi de finances."
+  ],
+  "sources": [
+    {
+      "titre": "BOI-IR-CHAMP-10 — IR - Champ d’application et territorialité - Personnes imposables et domicile fiscal",
+      "organisme": "Bulletin officiel des finances publiques (BOFiP, DGFiP)",
+      "date_publication": "version en vigueur depuis le 28 juillet 2016",
+      "url": "https://bofip.impots.gouv.fr/bofip/1911-PGP",
+      "passage": "Les personnes domiciliées fiscalement en France « sont imposés dans les conditions de droit commun sur l'ensemble de leurs revenus de source française ou étrangère ». Sont domiciliées en France celles qui y ont « leur foyer ou le lieu de leur séjour principal », celles qui y exercent « une activité professionnelle, salariée ou non » (sauf à titre accessoire), ou celles qui y ont « le centre de leurs intérêts économiques ». Ces critères ne font pas intervenir la nationalité ; pour les couples, la règle s'applique « quelle que soit leur nationalité ».",
+      "pertinence": "Doctrine officielle de l'administration fiscale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport général n° 144 (2024-2025) sur le projet de loi de finances pour 2025, tome I — Les recettes de l'État",
+      "organisme": "Sénat (Jean-François Husson, commission des finances)",
+      "date_publication": "21 novembre 2024",
+      "url": "https://www.senat.fr/rap/l24-144-1/l24-144-110.html",
+      "passage": "« les recettes de TVA nette de l'État devraient s'établir à 106,2 milliards d'euros » en 2025 ; « Le produit prévisionnel de l'impôt net sur le revenu est de 93,8 milliards d'euros en 2025 » ; impôt sur les sociétés prévu à 56,2 milliards d'euros.",
+      "pertinence": "Rapport parlementaire ; prévisions du budget 2025.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "DGFiP Statistiques — L'impôt sur les revenus perçus en 2022",
+      "organisme": "Direction générale des finances publiques (DGFiP, ministère de l’Économie)",
+      "date_publication": "16 avril 2024",
+      "url": "https://www.impots.gouv.fr/dgfip-statistiques-limpot-sur-les-revenus-percus-en-2022",
+      "passage": "« La déclaration des revenus 2022 a concerné 40,7 millions de foyers fiscaux » ; 18,2 millions ont acquitté un impôt ; l'impôt sur le revenu net devait « atteindre 82,1 Md€ ».",
+      "pertinence": "Statistique officielle de l'administration fiscale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Inactivité, chômage et emploi des immigrés et des descendants d'immigrés par origine géographique — Données annuelles 2025",
+      "organisme": "Insee",
+      "date_publication": "22 juin 2026",
+      "url": "https://www.insee.fr/fr/statistiques/4195420",
+      "passage": "France hors Mayotte, personnes de 15 à 64 ans, 2025 : taux d'emploi des immigrés 61,9 % (chômage 12,4 %) ; personnes sans ascendance migratoire directe 71,9 % (chômage 6,5 %) ; ensemble de la population 69,3 % (chômage 7,7 %).",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Perspectives des migrations internationales 2021 — chapitre 4 : L'impact budgétaire de l'immigration dans les pays de l'OCDE depuis le milieu des années 2000",
+      "organisme": "OCDE",
+      "date_publication": "octobre 2021",
+      "url": "https://www.oecd.org/fr/publications/2021/10/international-migration-outlook-2021_ea4f9277/full-report/component-8.html",
+      "passage": "Dans tous les pays étudiés, « la contribution des immigrés sous la forme d'impôts et de cotisations est supérieure aux dépenses » publiques consacrées à leur protection sociale, leur santé et leur éducation. La contribution nette des immigrés, en comptant toutes les dépenses, est « comprise entre ‑1 % et +1 % du PIB dans la plupart des pays » (2006-2018). Par habitant, les immigrés contribuent généralement moins que les natifs. Pour la France (moyenne 2006-2018), recettes par habitant immigrés/natifs : 0,88 ; impôts indirects : 0,90 ; cotisations patronales : 0,93 ; impôts et cotisations des ménages : 0,79. Contribution nette des personnes nées à l'étranger selon la répartition des biens publics : de +0,25 % du PIB (sans biens publics) à -0,85 % (avec tous les biens publics, dont défense et intérêts de la dette). En France, la contribution nette des immigrés et celle des natifs sont « plus ou moins similaires ». L'âge explique 60 % des écarts entre pays.",
+      "pertinence": "Organisation internationale ; estimations sensibles à la méthode (lecture à travers un outil de résumé, tableaux à revérifier).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'impact sur les finances publiques de 30 ans d'immigration en France (La Lettre du CEPII n° 394)",
+      "organisme": "CEPII (Xavier Chojnicki, Lionel Ragot, Ndeye-Penda Sokhna)",
+      "date_publication": "décembre 2018",
+      "url": "https://imap.cepii.fr/PDF_PUB/lettre/2018/let394.pdf",
+      "passage": "Sur 1979-2011, la contribution nette des immigrés aux finances publiques françaises est comprise « entre - 0,5 % et + 0,05 % » du PIB ; elle est de -0,49 % en 2011 (-8,8 milliards d'euros), point le plus bas, alors que les immigrés représentent 8,6 % de la population. Elle n'est « jamais en deçà de - 0,5 % du PIB » et « À aucun moment l'immigration n'a déterminé l'ampleur et l'évolution du solde budgétaire primaire ». En 2006, à 40 ans, un immigré paie environ 20 % d'impôts de moins qu'un natif du même âge. Les immigrés sont concentrés aux âges actifs ; les résultats dépendent de la répartition des biens publics et du traitement des enfants.",
+      "pertinence": "Centre public d'études économiques rattaché aux services du Premier ministre.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de l'Insee sur l'emploi des immigrés et nouvelles études sur leur contribution budgétaire.",
+  "objections_legitimes": [
+    "Par habitant, les immigrés contribuent un peu moins que les natifs, selon l'OCDE.",
+    "Le bilan budgétaire global dépend de la façon de compter les dépenses collectives.",
+    "Une partie du travail non déclaré échappe aux cotisations, quelle que soit la nationalité."
+  ],
+  "publics": {
+    "convaincus": "Tu paies la TVA à chaque achat : eux aussi, et c'est la première recette de l'État. Un salarié étranger paie les mêmes cotisations et le même impôt qu'un Français au même salaire, la loi ne regarde pas le passeport. Et plus d'un Français sur deux ne paie pas l'impôt sur le revenu : ce n'est pas une affaire d'origine, c'est une affaire de salaire.",
+    "indecis": "En France, on paie des impôts parce qu'on vit et travaille ici, quelle que soit sa nationalité : TVA, cotisations, impôt sur le revenu. Selon l'OCDE, les immigrés paient plus en impôts et cotisations que ce qu'on dépense pour leurs prestations, leur santé et leur éducation. Ils contribuent un peu moins par personne, surtout parce qu'ils sont plus souvent au chômage : les aider à travailler, c'est aussi bon pour les finances publiques."
+  },
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "antiracisme",
+      "travailleurs"
+    ],
+    "mecanismes": "La rumeur confond « ne pas payer l’impôt sur le revenu », ce qui concerne la majorité des foyers modestes, et « ne payer aucun impôt ». Elle désigne un groupe défini par l’origine comme profiteur, alors que l’impôt dépend du revenu et de la résidence, jamais du passeport.",
+    "consequences": "Les travailleurs étrangers, souvent dans les métiers les plus pénibles et les moins payés, cotisent et paient la TVA tout en étant présentés comme des parasites, ce qui nourrit les discriminations.",
+    "democratie": "L’égalité devant l’impôt est un principe républicain : opposer contribuables « légitimes » et « illégitimes » selon l’origine fragilise le pacte commun.",
+    "propositions": [
+      "Lutter contre les discriminations à l’embauche et faciliter l’accès à l’emploi déclaré, ce qui renforce aussi les recettes publiques.",
+      "Combattre le travail non déclaré en ciblant les employeurs qui en profitent.",
+      "Rendre visibles, par l’éducation populaire, les contributions de chacun au financement des services publics."
+    ],
+    "defavorables": [
+      {
+        "fait": "Par habitant, les immigrés contribuent un peu moins que les natifs, et leur contribution nette est légèrement négative selon certaines méthodes de calcul.",
+        "integration": "Expliquer que cet écart vient du chômage et des bas salaires, et qu’il appelle à combattre les discriminations plutôt qu’à stigmatiser."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "fiscalite",
+    "cout"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "taxer",
+    "isf",
+    "tva",
+    "cout",
+    "couts",
+    "une fortune"
+  ]
+}

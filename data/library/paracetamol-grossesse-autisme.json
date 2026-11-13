@@ -1,0 +1,253 @@
+{
+  "id": "paracetamol-grossesse-autisme",
+  "type": "idee_recue",
+  "affirmation": "Le paracétamol pendant la grossesse provoque l'autisme.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "paracetamol autisme",
+    "doliprane grossesse autisme",
+    "tylenol autisme",
+    "paracetamol enceinte",
+    "trump paracetamol",
+    "kennedy autisme",
+    "cause de l autisme",
+    "autisme medicament grossesse"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Aucune agence sanitaire (ANSM, Agence européenne des médicaments, OMS) ne reconnaît de lien démontré. Certaines études observent une petite association, mais elle disparaît quand on compare des frères et sœurs nés de la même mère : c'est le cas dans une étude suédoise sur près de 2,5 millions d'enfants. Le paracétamol reste l'antalgique de référence pendant la grossesse, à la dose la plus faible et le moins longtemps possible ; les anti-inflammatoires comme l'ibuprofène sont, eux, dangereux à partir du sixième mois.",
+  "contexte": "Le 22 septembre 2025, à la Maison-Blanche, Donald Trump et son ministre de la Santé Robert F. Kennedy Jr. ont associé la prise de paracétamol (Tylenol aux États-Unis, Doliprane ou Efferalgan en France) pendant la grossesse à l'autisme. L'affirmation circule depuis sur les réseaux sociaux en France.",
+  "explication": "Il faut distinguer une association statistique d'une cause, regarder les études qui contrôlent les facteurs familiaux et génétiques (comparaison de frères et sœurs) et lire ce que disent les agences sanitaires.",
+  "faits": [
+    {
+      "fait": "L'ANSM indique qu'« à ce jour, les données disponibles ne montrent pas de lien entre la prise de paracétamol pendant la grossesse et l'autisme », et que le paracétamol reste le médicament le plus sûr contre la douleur et la fièvre pendant la grossesse.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "L'agence française du médicament, qui surveille ce produit en continu, ne voit pas de lien.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'OMS, « no consistent association has been established » entre le paracétamol et l'autisme.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "L'organisation mondiale de la santé rejette l'affirmation.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une étude publiée dans la revue JAMA sur 2 480 797 enfants nés en Suède entre 1995 et 2019, l'exposition au paracétamol pendant la grossesse n'est pas associée à l'autisme quand on compare des frères et sœurs (rapport de risque 0,98).",
+      "periode": "1995-2021",
+      "perimetre": "Suède",
+      "explication": "Comparer des enfants d'une même mère neutralise une grande partie des facteurs génétiques et familiaux : la petite association disparaît.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2,5 millions"
+    },
+    {
+      "fait": "Fait défavorable : dans la même étude suédoise, sans comparaison entre frères et sœurs, le risque d'autisme est légèrement plus élevé chez les enfants exposés (rapport de risque 1,05).",
+      "periode": "1995-2021",
+      "perimetre": "Suède",
+      "explication": "Une petite association statistique existe dans certaines analyses ; c'est ce qui alimente la thèse, mais elle s'explique par d'autres facteurs.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1,05"
+    },
+    {
+      "fait": "Fait défavorable : selon Full Fact, une revue de 46 études publiée en 2025 juge les données « consistent with an association », et l'agence américaine du médicament (FDA) a commencé à modifier l'étiquetage, tout en écrivant qu'« a causal relationship has not been established ».",
+      "periode": "2025",
+      "perimetre": "États-Unis",
+      "explication": "Le débat scientifique n'est pas inventé de toutes pièces ; mais même la FDA reconnaît qu'aucun lien de cause n'est établi.",
+      "source": 5,
+      "fiabilite": "debat"
+    },
+    {
+      "fait": "Selon un compte rendu d'Euronews, une revue de neuf revues systématiques publiée dans The BMJ en novembre 2025 juge la confiance dans les résultats « faible à extrêmement faible » : l'association disparaît ou diminue nettement quand on tient compte des autres facteurs.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Les études qui trouvent un lien sont souvent de mauvaise qualité et ne contrôlent pas les facteurs familiaux.",
+      "source": 7,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon l'Agence européenne des médicaments, citée par Euronews, « There is no new evidence that would require changes to the current EU recommendations for use ».",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "L'Europe ne change pas ses recommandations après les déclarations américaines.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'ANSM rappelle que les anti-inflammatoires comme l'ibuprofène et le kétoprofène sont contre-indiqués à partir du sixième mois de grossesse, avec des risques pouvant aller jusqu'à la mort du fœtus.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Détourner les femmes enceintes du paracétamol peut les pousser vers des médicaments réellement dangereux, ou à laisser une fièvre sans traitement.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Aucune agence sanitaire, ni l'ANSM, ni l'Agence européenne des médicaments, ni l'OMS, ne reconnaît de lien. Une étude suédoise sur près de 2,5 millions d'enfants ne trouve rien quand on compare des frères et sœurs. Le paracétamol reste le médicament de référence pendant la grossesse, à petite dose et peu longtemps.",
+    "moyen": "Certaines études observent une petite association entre paracétamol pendant la grossesse et autisme. Mais une association n'est pas une cause : les mères qui en prennent ont de la fièvre, des infections ou des douleurs, et l'autisme a une part héréditaire. Quand on compare des frères et sœurs nés de la même mère, comme dans une étude suédoise sur près de 2,5 millions d'enfants, l'association disparaît.\n\nC'est pourquoi l'ANSM, l'Agence européenne des médicaments et l'OMS maintiennent leurs recommandations : le paracétamol reste le médicament le plus sûr contre la fièvre et la douleur pendant la grossesse, à la dose la plus faible et le moins longtemps possible. Les anti-inflammatoires comme l'ibuprofène sont, eux, dangereux à partir du sixième mois.",
+    "detaille": "Le 22 septembre 2025, Donald Trump a déclaré que prendre du paracétamol pendant la grossesse n'était pas bon et l'a associé à l'autisme. Les agences sanitaires ont réagi très vite : l'ANSM rappelle que « les données disponibles ne montrent pas de lien », l'Agence européenne des médicaments qu'aucune nouvelle donnée ne justifie de changer les recommandations, et l'OMS qu'aucune association cohérente n'a été établie.\n\nD'où vient l'idée ? Certaines études observationnelles trouvent une petite association. Une revue de 46 études publiée en 2025 l'a mise en avant. Mais ces études ne contrôlent souvent pas les autres facteurs : la fièvre ou l'infection qui ont motivé la prise, la santé des parents, et la génétique, car l'autisme a une part d'héritabilité. La meilleure méthode consiste à comparer des frères et sœurs nés de la même mère, l'un exposé et l'autre non. C'est ce qu'a fait une étude suédoise publiée dans la revue JAMA sur 2 480 797 enfants : sans cette comparaison, on voit une très légère hausse du risque ; avec elle, plus rien. Une étude japonaise de 2025 et une méta-analyse de janvier 2026 aboutissent au même résultat.\n\nCe faux lien n'est pas sans danger. Une fièvre non traitée pendant la grossesse présente elle-même des risques, et les anti-inflammatoires comme l'ibuprofène sont contre-indiqués à partir du sixième mois, avec des risques graves pour le fœtus. La recommandation reste simple : du paracétamol si nécessaire, à la dose efficace la plus faible et le moins longtemps possible, et pas d'automédication.",
+    "empathie": "Chercher pourquoi son enfant est autiste, ou s'inquiéter de ce qu'on prend pendant sa grossesse, est profondément humain. Ces questions méritent des réponses sérieuses, pas des annonces sans preuves qui culpabilisent les mères."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Des études ont trouvé un lien, c'est prouvé.",
+      "reponse": "Elles trouvent une association, pas une cause. Quand on compare des frères et sœurs nés de la même mère, l'association disparaît, comme dans l'étude suédoise sur près de 2,5 millions d'enfants."
+    },
+    {
+      "objection": "Les agences sanitaires protègent les laboratoires.",
+      "reponse": "Ce sont ces mêmes agences qui contre-indiquent l'ibuprofène à partir du sixième mois de grossesse : elles n'hésitent pas à restreindre un médicament quand les preuves existent. Et l'OMS, l'agence européenne et l'agence française disent toutes la même chose."
+    }
+  ],
+  "questions": [
+    "Si une femme enceinte a de la fièvre et ne doit pas prendre de paracétamol, que doit-elle prendre à la place ?",
+    "Comment expliquer que l'association disparaisse quand on compare deux enfants de la même mère ?"
+  ],
+  "limites": [
+    "L'étude suédoise et les études de fratries ne peuvent pas exclure tout effet d'une prise très prolongée ou à fortes doses ; elles ne mesurent pas finement les doses.",
+    "La position de l'Agence européenne des médicaments, la revue du BMJ et la méta-analyse de janvier 2026 ont été lues à travers des comptes rendus de presse, pas dans leur texte original.",
+    "La position de la FDA et la revue de 46 études ont été lues à travers l'analyse de Full Fact ; on ne sait pas, à la date de vérification, ce qu'est devenu l'étiquetage américain.",
+    "La page de l'Agence européenne des médicaments, la recommandation de la HAS et les fact-checks de l'AFP et des Décodeurs n'ont pas été ouverts."
+  ],
+  "sources": [
+    {
+      "titre": "Il n'existe pas de lien démontré entre le paracétamol et l'autisme",
+      "organisme": "ANSM (Agence nationale de sécurité du médicament et des produits de santé)",
+      "date_publication": "25 septembre 2025 (mis à jour le 1er octobre 2025)",
+      "url": "https://ansm.sante.fr/actualites/il-nexiste-pas-de-lien-demontre-entre-le-paracetamol-et-lautisme",
+      "passage": "« À ce jour, les données disponibles ne montrent pas de lien entre la prise de paracétamol pendant la grossesse et l'autisme. » Le paracétamol peut être utilisé si nécessaire « À la dose efficace la plus faible », « Pendant la durée la plus courte possible » et à la fréquence la plus réduite possible ; il reste le médicament le plus sûr contre les douleurs légères à modérées et la fièvre pendant la grossesse. « En 2019, l'Agence européenne des médicaments (EMA) a examiné plusieurs études » sans établir de lien avec des troubles neurologiques. Les anti-inflammatoires (ibuprofène, kétoprofène) et l'aspirine au-delà de 100 mg par jour sont contre-indiqués à partir du sixième mois de grossesse, avec des risques graves pouvant aller jusqu'à la mort du fœtus.",
+      "pertinence": "Agence publique française du médicament.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "WHO statement on autism-related issues",
+      "organisme": "Organisation mondiale de la santé (OMS), bureau régional de l’Europe",
+      "date_publication": "24 septembre 2025",
+      "url": "https://www.who.int/europe/news/item/24-09-2025-who-statement-on-autism-related-issues",
+      "passage": "« there is currently no conclusive scientific evidence confirming a possible link between autism and use of acetaminophen » ; « At this time, no consistent association has been established. » « Globally, nearly 62 million people (1 in 127) have autism spectrum disorder ».",
+      "pertinence": "Déclaration officielle de l'OMS.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Acetaminophen Use During Pregnancy and Children's Risk of Autism, ADHD, and Intellectual Disability",
+      "organisme": "Viktor H. Ahlqvist, Renee M. Gardner, Brian K. Lee et al. (Institut Karolinska, université Drexel) — revue JAMA, vol. 331, n° 14 (texte sur PubMed Central)",
+      "date_publication": "9 avril 2024",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11004836",
+      "passage": "Cohorte de 2 480 797 enfants nés en Suède de 1995 à 2019 ; 185 909 (7,49 %) exposés au paracétamol pendant la grossesse. Sans comparaison entre frères et sœurs, le risque d'autisme est légèrement plus élevé (rapport de risque 1,05). En comparant des frères et sœurs, rapports de risque : autisme 0,98 (0,93-1,04), TDAH 0,98 (0,94-1,02), déficience intellectuelle 1,01 (0,92-1,10). Conclusion : « Acetaminophen use during pregnancy was not associated with children's risk of autism, ADHD, or intellectual disability » dans les analyses entre frères et sœurs.",
+      "pertinence": "Étude publiée dans une revue médicale à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "European Medicines Agency refutes Trump's link between paracetamol and autism",
+      "organisme": "Marta Iraola Iribarren, Euronews",
+      "date_publication": "23 septembre 2025",
+      "url": "https://www.euronews.com/2025/09/23/european-medicines-agency-refutes-trumps-link-between-paracetamol-and-autism",
+      "passage": "Un porte-parole de l'EMA : « There is no new evidence that would require changes to the current EU recommendations for use ». L'agence rappelle qu'en cas de besoin le paracétamol peut être utilisé pendant la grossesse, à la dose efficace la plus faible, le moins longtemps et le moins souvent possible, que de nombreuses données ne montrent pas de hausse du risque de malformations, et que sa revue de 2019 n'avait pas établi de lien avec des troubles du neurodéveloppement. Donald Trump avait déclaré que le Tylenol « is no good ».",
+      "pertinence": "Média européen rapportant la position de l'Agence européenne des médicaments.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Donald Trump links Tylenol to autism",
+      "organisme": "Jihan Abdalla, The National",
+      "date_publication": "22 septembre 2025",
+      "url": "https://www.thenationalnews.com/news/us/2025/09/22/donald-trump-to-make-announcement-on-causes-of-autism",
+      "passage": "Donald Trump affirme que le paracétamol (Tylenol) est en cause dans l'autisme : « Effective immediately, the FDA will be notifying physicians » ; il parle d'un produit qui « can be associated with a very increased risk of autism » et conclut « So taking Tylenol is not good. » Robert F. Kennedy Jr., ministre de la Santé, annonce une campagne nationale d'information et demande aux médecins de prescrire « the lowest effective dose for the shortest necessary duration ».",
+      "pertinence": "Quotidien international ; rapporte les propos tenus à la Maison-Blanche.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Donald Trump linked paracetamol to autism - here's what the science says",
+      "organisme": "Leo Benedictus, Full Fact (organisme britannique de vérification des faits)",
+      "date_publication": "24 septembre 2025",
+      "url": "https://fullfact.org/health/paracetamol-tylenol-autism-evidence-trump/",
+      "passage": "La FDA « has begun to change the labelling » et écrit que les données « may be associated with an increased risk of neurological conditions such as autism and ADHD », tout en reconnaissant qu'« a causal relationship has not been established and there are contrary studies in the scientific literature ». Une revue de 46 études (2025) trouve des données « consistent with an association ». L'étude suédoise sur environ 2,4 millions d'enfants ne trouve pas d'association en comparant des frères et sœurs. Le collège américain des gynécologues-obstétriciens (ACOG) : « the current weight of evidence does not support a causal link ». L'agence britannique du médicament (MHRA) : « There is no evidence that taking paracetamol during pregnancy causes autism in children. » Une douleur ou une fièvre non traitée peut aussi présenter des risques pour le bébé.",
+      "pertinence": "Fact-checker indépendant signataire des principes internationaux de vérification des faits.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Paracétamol, vaccins, autisme : les propos de Donald Trump ne reposent pas sur la science",
+      "organisme": "Caroline Deschamps, Public Sénat",
+      "date_publication": "23 septembre 2025",
+      "url": "https://www.publicsenat.fr/actualites/sante/paracetamol-vaccins-autisme-les-propos-de-donald-trump-ne-reposent-pas-sur-la-science",
+      "passage": "Le 22 septembre 2025, Donald Trump déconseille le paracétamol aux femmes enceintes (« N'en prenez pas ») et met en doute les vaccins. Le Pr Benoît Marin, responsable du Centre de référence sur les agents tératogènes (CRAT) : « Les données dont il se prévaut sont contradictoires, incomplètes et insuffisamment fondées » ; « il n'existe pas de preuve d'un risque avéré pour le neurodéveloppement de l'enfant » ; « Le paracétamol reste l'antalgique de référence pendant la grossesse. » Une étude japonaise comparant des frères et sœurs (septembre 2025) voit l'association disparaître une fois les facteurs familiaux pris en compte. Le réseau européen des services d'information en tératologie (ENTIS) ne trouve pas d'association solide.",
+      "pertinence": "Chaîne parlementaire ; interview d'un spécialiste français.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vaste revue : pas de lien clair entre paracétamol pendant la grossesse et autisme chez l'enfant",
+      "organisme": "Euronews (compte rendu d’une revue publiée dans The BMJ)",
+      "date_publication": "10 novembre 2025",
+      "url": "https://fr.euronews.com/2025/11/10/vaste-revue-pas-de-lien-clair-entre-paracetamol-pendant-la-grossesse-et-autisme-chez-lenfa",
+      "passage": "Revue de neuf revues systématiques publiée dans The BMJ. Toutes rapportaient une association, mais beaucoup ne tenaient pas compte de facteurs de santé et de mode de vie importants et étaient de mauvaise qualité ; quand ces facteurs étaient pris en compte, l'association disparaissait ou diminuait nettement. Les auteurs jugent leur confiance dans les résultats « faible à extrêmement faible » et concluent que les données ne suffisent pas à montrer que le paracétamol cause ces troubles.",
+      "pertinence": "Compte rendu de presse d'une étude publiée dans une revue médicale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Acetaminophen use in pregnancy doesn't increase risk of autism, ADHD, review finds",
+      "organisme": "ABC News (Good Morning America), compte rendu d’une méta-analyse publiée dans The Lancet Obstetrics, Gynaecology & Women’s Health",
+      "date_publication": "16 janvier 2026",
+      "url": "https://www.goodmorningamerica.com/wellness/story/acetaminophen-pregnancy-increase-risk-autism-adhd-review-129273623",
+      "passage": "Méta-analyse centrée sur les études comparant des frères et sœurs : le paracétamol pris comme indiqué pendant la grossesse n'est pas associé à l'autisme, au TDAH ou à la déficience intellectuelle. Les associations observées auparavant pourraient refléter la fièvre, l'infection, l'inflammation ou la douleur ayant motivé la prise. Limite : le petit nombre d'études de fratries. Pr Asma Khalil : « the best-quality evidence does not support a causal link ». Un responsable du ministère américain de la Santé estime que l'étude « sidesteps » la question.",
+      "pertinence": "Compte rendu de presse d'une étude publiée dans une revue médicale.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles études de fratries et éventuelles décisions des agences sanitaires.",
+  "objections_legitimes": [
+    "Il est raisonnable d'éviter de prendre des médicaments sans nécessité pendant la grossesse, et les agences recommandent la dose la plus faible et la durée la plus courte.",
+    "Certaines études ont bien trouvé une association statistique, et la recherche continue.",
+    "Les causes de l'autisme ne sont pas toutes connues, ce qui rend les gens attentifs à toute piste."
+  ],
+  "publics": {
+    "convaincus": "Si le paracétamol causait l'autisme, on le verrait en comparant deux enfants d'une même mère, l'un exposé et l'autre non. Une étude suédoise l'a fait sur près de 2,5 millions d'enfants : aucune différence. Même la FDA de l'administration Trump écrit qu'aucun lien de cause n'est établi.",
+    "indecis": "C'est normal de s'inquiéter de ce qu'on prend enceinte. Les agences française, européenne et mondiale disent la même chose : pas de lien démontré, et le paracétamol reste le médicament le plus sûr contre la fièvre, à petite dose et peu longtemps. En cas de doute, le plus sûr est d'en parler à son médecin ou à sa sage-femme."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "vulnerables",
+      "dignite"
+    ],
+    "mecanismes": "Une association statistique fragile est présentée comme une cause par des dirigeants politiques, contre l’avis des agences sanitaires. On offre une explication simple et un coupable à des familles qui cherchent des réponses, en ignorant les études qui comparent des frères et sœurs.",
+    "consequences": "Les mères d’enfants autistes sont culpabilisées, et des femmes enceintes risquent de laisser une fièvre sans traitement ou de se tourner vers des anti-inflammatoires réellement dangereux en fin de grossesse.",
+    "democratie": "Quand le pouvoir politique contredit la science sans preuve, il affaiblit la confiance dans les agences publiques de santé, dont l’indépendance protège tout le monde.",
+    "propositions": [
+      "Garantir l’indépendance et les moyens des agences publiques du médicament et de la pharmacovigilance.",
+      "Financer la recherche publique sur les causes de l’autisme et l’accompagnement des personnes autistes et de leurs familles.",
+      "Rendre facilement accessibles les conseils des sages-femmes et des centres de référence sur les médicaments pendant la grossesse."
+    ],
+    "defavorables": [
+      {
+        "fait": "Certaines études observent une petite association entre paracétamol pendant la grossesse et autisme, et l’agence américaine du médicament a commencé à modifier l’étiquetage.",
+        "integration": "La science n’ignore pas ces signaux : elle les teste, et les études les plus solides, qui comparent des frères et sœurs, ne confirment pas de lien de cause."
+      }
+    ]
+  },
+  "concepts": [
+    "desinformation"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "desinformation",
+    "fake news",
+    "manipulation de l information"
+  ]
+}

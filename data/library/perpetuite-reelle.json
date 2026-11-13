@@ -1,0 +1,275 @@
+{
+  "id": "perpetuite-reelle",
+  "type": "idee_recue",
+  "affirmation": "Il faut instaurer la perpétuité réelle pour les pires criminels.",
+  "volet": "securite",
+  "sous_theme": "Justice pénale",
+  "rubriques": [],
+  "mots_cles": [
+    "perpetuite reelle",
+    "perpetuite incompressible",
+    "prison a vie",
+    "perpetuite pour les pires criminels",
+    "enfermer a vie",
+    "perpetuite sans liberation",
+    "periode de surete",
+    "peine incompressible",
+    "perpetuite vraie"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur : la « perpétuité réelle » existe déjà en France depuis 1994. Pour les meurtres d'enfants accompagnés de viol ou de torture, les meurtres de policiers ou de gendarmes et le terrorisme, la cour d'assises peut déjà interdire tout aménagement de peine. Elle a été prononcée cinq fois en droit commun. Seule possibilité de sortie : après 30 ans, un réexamen très strict, que la Cour européenne des droits de l'homme exige. La supprimer violerait la Convention européenne des droits de l'homme. Elle ne garantit aucune libération.",
+  "contexte": "Après chaque crime atroce, en particulier contre un enfant, des responsables politiques réclament une « perpétuité réelle », comme si les criminels condamnés à perpétuité sortaient tous au bout de quelques années. Des amendements en ce sens ont encore été déposés à l'Assemblée nationale en juillet 2026.",
+  "explication": "Il faut distinguer la perpétuité ordinaire, assortie d'une période de sûreté de 18 ans en principe, et la perpétuité dite incompressible, qui existe déjà. Il faut aussi regarder ce qu'impose la jurisprudence européenne : une peine perpétuelle est permise, mais un réexamen doit rester possible.",
+  "faits": [
+    {
+      "fait": "Le code pénal permet déjà à la cour d'assises de décider qu'aucun aménagement de peine ne sera accordé à un condamné à perpétuité pour le meurtre d'un mineur de quinze ans accompagné de viol, de tortures ou d'actes de barbarie, ou pour le meurtre d'un policier, d'un gendarme, d'un magistrat ou d'un agent pénitentiaire.",
+      "periode": "depuis 1994",
+      "perimetre": "France",
+      "explication": "La perpétuité « réelle » réclamée existe déjà pour les crimes les plus graves.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une juriste de l'université de Montpellier, cette perpétuité incompressible a été créée par la loi du 1er février 1994 et étendue aux crimes terroristes par une loi de juin 2016.",
+      "periode": "1994-2016",
+      "perimetre": "France",
+      "explication": "Le législateur a déjà répondu à la demande, et l'a même élargie.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'AFP, la perpétuité incompressible n'avait été prononcée que quatre fois en droit commun depuis 1994 ; une cinquième condamnation, la première d'une femme, a été prononcée en octobre 2025.",
+      "periode": "1994-2025",
+      "perimetre": "France, droit commun (hors terrorisme)",
+      "explication": "Les cours d'assises la réservent à des crimes exceptionnels ; elle n'est pas absente du droit.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "5"
+    },
+    {
+      "fait": "Dans l'arrêt Bodein c. France de 2014, la Cour européenne des droits de l'homme a jugé la perpétuité incompressible française conforme à la Convention parce qu'un réexamen judiciaire reste possible ; dans ce cas, il ne pourra pas avoir lieu avant 2034, 26 ans après la condamnation.",
+      "periode": "2014",
+      "perimetre": "France",
+      "explication": "Le droit actuel est déjà à la limite de ce que permet la Convention.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "26 ans"
+    },
+    {
+      "fait": "Selon un doctorant en droit pénal, un réexamen après 30 ans exige des « gages sérieux de réadaptation sociale » et ne garantit pas la libération ; supprimer toute possibilité de réexamen violerait la Convention européenne des droits de l'homme.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "« Instaurer » une perpétuité sans aucun espoir de sortie supposerait de rompre avec la Convention européenne des droits de l'homme.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : selon la jurisprudence européenne rappelée par la Cour elle-même, les États peuvent prononcer des peines perpétuelles pour des crimes très graves, et un condamné peut rester en prison jusqu'à sa mort s'il reste dangereux.",
+      "periode": "2013-2014",
+      "perimetre": "Conseil de l’Europe",
+      "explication": "Le droit européen n'interdit pas d'enfermer à vie : il exige seulement qu'un réexamen existe.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Au 1er janvier 2026, 0,6 % des condamnés écroués purgent une peine de réclusion criminelle à perpétuité et 2,9 % une peine de 20 à 30 ans.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les très longues peines concernent un petit nombre de personnes, déjà enfermées pour des décennies.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "0,6 %"
+    },
+    {
+      "fait": "En juillet 2026, un amendement déposé à l'Assemblée nationale proposait d'interdire toute libération conditionnelle aux condamnés à perpétuité ; il a été retiré avant discussion.",
+      "periode": "2026",
+      "perimetre": "Assemblée nationale",
+      "explication": "La demande revient régulièrement au Parlement, sans débat sur ce qui existe déjà.",
+      "source": 6,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La perpétuité réelle existe déjà depuis 1994 : pour les meurtres d'enfants avec viol ou torture, de policiers ou pour le terrorisme, la cour d'assises peut interdire tout aménagement de peine. Seule issue : un réexamen très strict après 30 ans, que la Cour européenne des droits de l'homme exige. Et ce réexamen ne garantit aucune sortie.",
+    "moyen": "On entend souvent qu'il faudrait « enfin » une perpétuité réelle. Mais elle existe depuis la loi du 1er février 1994. Pour les meurtres d'enfants accompagnés de viol ou de torture, les meurtres de policiers, de gendarmes ou de surveillants, et depuis 2016 pour le terrorisme, la cour d'assises peut décider qu'aucun aménagement de peine ne sera jamais accordé. Selon l'AFP, elle a été prononcée cinq fois en droit commun, la dernière en octobre 2025.\n\nLa seule porte de sortie est un réexamen après 30 ans, très strict, qui exige des preuves sérieuses de réinsertion et ne garantit rien. La Cour européenne des droits de l'homme a jugé ce système conforme en 2014 précisément parce que ce réexamen existe. Le supprimer reviendrait à violer la Convention européenne des droits de l'homme, que la France a signée.",
+    "detaille": "L'idée part d'une émotion compréhensible : après un crime atroce, on veut être sûr que son auteur ne sortira jamais. Mais la peine réclamée existe déjà. Depuis la loi du 1er février 1994, les articles 221-3 et 221-4 du code pénal permettent à la cour d'assises de décider qu'aucune mesure d'aménagement ne sera accordée à un condamné à perpétuité pour le meurtre d'un enfant de moins de quinze ans accompagné de viol, de tortures ou d'actes de barbarie, ou pour le meurtre d'une personne dépositaire de l'autorité publique. Depuis 2016, c'est aussi possible pour le terrorisme.\n\nCette peine est rare, parce qu'elle est réservée à des crimes exceptionnels : selon l'AFP, elle a été prononcée cinq fois en droit commun depuis 1994. La perpétuité « ordinaire » est déjà lourde : une période de sûreté de 18 ans en principe, que la cour peut porter à 22 ans, pendant laquelle aucun aménagement n'est possible. Au 1er janvier 2026, 0,6 % des condamnés écroués purgent une perpétuité.\n\nLa seule issue, pour une perpétuité incompressible, est une demande de réexamen après 30 ans de détention. Elle exige des « gages sérieux de réadaptation sociale », passe par trois médecins experts et ne garantit pas la sortie. La Cour européenne des droits de l'homme a validé ce système en 2014, dans l'arrêt Bodein c. France, justement parce que ce réexamen existe : elle admet qu'on reste en prison jusqu'à sa mort, mais pas qu'on soit privé de tout espoir dès le jugement. Supprimer ce réexamen, comme l'ont proposé des députés en juillet 2026, ne rendrait pas la France plus sûre : cela la mettrait en violation de la Convention européenne des droits de l'homme, pour des personnes qui restent déjà en prison pour des décennies.",
+    "empathie": "Face à des crimes contre des enfants, la colère et le besoin de protection sont légitimes. Personne ne souhaite voir ces criminels ressortir. La bonne nouvelle, c'est que la loi permet déjà de les garder enfermés à vie."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Aujourd'hui, la perpétuité, c'est 20 ans et on sort.",
+      "reponse": "La perpétuité ordinaire comporte déjà une période de sûreté, en principe de 18 ans et jusqu'à 22 ans, sans aucun aménagement, et une sortie n'est jamais automatique. Pour les crimes les plus graves, la cour peut porter cette période à 30 ans ou la rendre perpétuelle."
+    },
+    {
+      "objection": "La Cour européenne empêche de punir sévèrement.",
+      "reponse": "Non : elle admet qu'un condamné reste en prison jusqu'à sa mort. Elle exige seulement qu'un juge puisse réexaminer sa situation, et elle a validé le système français en 2014."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la perpétuité incompressible existe en France depuis 1994 ?",
+    "Que faudrait-il changer concrètement, si la cour d'assises peut déjà interdire tout aménagement de peine ?",
+    "Est-ce qu'un juge qui réexamine un dossier après 30 ans, c'est vraiment du laxisme ?"
+  ],
+  "limites": [
+    "Aucune statistique officielle récente sur la durée moyenne de détention des condamnés à perpétuité n'a pu être consultée ; la fiche n'en donne donc pas.",
+    "La version de Légifrance consultée date de 2011 ; le principe décrit est toujours en vigueur selon les analyses juridiques de 2025 et 2026.",
+    "Le nombre de condamnations à la perpétuité incompressible en matière de terrorisme n'a pas été établi par une source consultée ; le décompte de l'AFP porte sur le droit commun.",
+    "Le groupe politique des auteurs de l'amendement de juillet 2026 n'apparaît pas sur la page consultée."
+  ],
+  "sources": [
+    {
+      "titre": "Code pénal, articles 221-3 (assassinat) et 221-4 (meurtre aggravé)",
+      "organisme": "Légifrance",
+      "date_publication": "version en vigueur au 16 mars 2011 (consultée le 13 novembre 2026)",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000023713254/2011-03-16",
+      "passage": "L'assassinat et le meurtre aggravé sont punis de la réclusion criminelle à perpétuité. Lorsque la victime est un mineur de quinze ans et que le meurtre est « précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie », ou lorsqu'il vise un magistrat, un policier, un gendarme, un agent pénitentiaire ou une autre personne dépositaire de l'autorité publique, la cour d'assises peut « porter la période de sûreté jusqu'à trente ans » ou, si elle prononce la perpétuité, « décider qu'aucune des mesures énumérées à l'article 132-23 ne pourra être accordée au condamné ».",
+      "pertinence": "Texte de loi officiel (version consultée datée de 2011 ; le principe est toujours en vigueur).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La perpétuité incompressible, peine infinie",
+      "organisme": "Anne Ponseille (Université de Montpellier), Le Club des juristes",
+      "date_publication": "7 mars 2025 (mis à jour le 8 juillet 2025)",
+      "url": "https://www.leclubdesjuristes.com/justice/la-perpetuite-incompressible-peine-infinie-9655/",
+      "passage": "La perpétuité incompressible a été créée par la loi n° 94-89 du 1er février 1994 et étendue au terrorisme par la loi du 3 juin 2016. Elle peut être prononcée pour l'assassinat et le meurtre aggravé (art. 221-3 et 221-4 du code pénal) et pour le terrorisme (art. 421-7). Après 30 ans, le condamné peut demander le relèvement de la période de sûreté ; cela n'entraîne pas automatiquement sa libération. Le tribunal de l'application des peines décide, après l'avis d'un collège de trois médecins experts sur la dangerosité ; pour le terrorisme, une commission de cinq magistrats de la Cour de cassation intervient. Le relèvement maintient « une perspective d'élargissement et une possibilité de réexamen ».",
+      "pertinence": "Analyse juridique d'une maîtresse de conférences en droit privé.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Après l'affaire Lyhanna, la tentation de la perpétuité réelle à l'épreuve du droit",
+      "organisme": "Nathan Ginestière (Université Paris-Panthéon-Assas), Le Club des juristes",
+      "date_publication": "13 juillet 2026",
+      "url": "https://www.leclubdesjuristes.com/?p=16960",
+      "passage": "Une condamnation à perpétuité s'accompagne d'une période de sûreté de « dix-huit ans » par défaut, portée jusqu'à 22 ans par le juge, et jusqu'à 30 ans ou à perpétuité pour les crimes les plus graves. Le relèvement après 30 ans exige des « gages sérieux de réadaptation sociale » et ne garantit pas la libération. Selon la CEDH (Vinter c. Royaume-Uni, 9 juillet 2013), une perpétuité peut être purgée jusqu'à la mort si le condamné a eu une perspective réelle de libération ; dans Murray c. Pays-Bas (2016), elle consacre un « droit à l'espoir ». L'auteur conclut que le droit français ne pourrait pas instaurer une perpétuité totalement irréductible sans violer la Convention.",
+      "pertinence": "Analyse juridique d'un doctorant en droit pénal.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Questions-réponses sur l'arrêt Bodein c. France",
+      "organisme": "Cour européenne des droits de l'homme (CEDH)",
+      "date_publication": "arrêt du 13 novembre 2014 (document de presse de la Cour, non daté)",
+      "url": "https://prd-echr.coe.int/documents/d/echr/Press_Q_A_Bodein_FRA",
+      "passage": "Le requérant, condamné à la perpétuité pour trois meurtres (condamnation définitive le 20 janvier 2010), se plaignait d'une peine incompressible. La Cour conclut à la non-violation de l'article 3 : la peine « peut être considérée comme compressible », car le droit français prévoit un réexamen judiciaire (art. 720-4 du code de procédure pénale) qui laisse une « perspective d'élargissement ». Ce réexamen pourra avoir lieu en 2034, 26 ans après la condamnation. Rappel de Vinter (Grande Chambre, 9 juillet 2013) : les États peuvent prononcer des peines perpétuelles pour des infractions très graves, à condition qu'elles soient compressibles ; le droit comparé tend vers un réexamen au plus tard 25 ans après la condamnation.",
+      "pertinence": "Document officiel de la Cour européenne des droits de l'homme.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Meurtre de Lola en France : perpétuité incompressible pour la meurtrière, première femme condamnée à cette peine maximale",
+      "organisme": "AFP, repris par Paris Match Belgique",
+      "date_publication": "24 octobre 2025",
+      "url": "https://www.parismatch.be/actualites/monde/2025/10/24/meurtre-de-lola-en-france-perpetuite-incompressible-pour-la-meurtriere-premiere-femme-condamnee-a-cette-peine-maximale-4SO3TDESBNHGTE6ZFTACQYVRGQ/",
+      "passage": "Depuis sa création en 1994, la « perpétuité réelle » n'avait été prononcée que quatre fois en droit commun ; la condamnée d'octobre 2025 est la cinquième personne et la première femme. La peine, « réputée incompressible », peut être aménagée « selon des critères draconiens au bout de trente ans par le tribunal de l'application des peines ».",
+      "pertinence": "Dépêche d'agence de presse.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Références statistiques Justice, édition 2026 — 12.3 Le milieu fermé : les personnes condamnées écrouées",
+      "organisme": "Ministère de la Justice (SSER)",
+      "date_publication": "juin 2026",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2026-06/RSJ2026%2012_3.pdf",
+      "passage": "Au 1er janvier 2026, « moins de 1 % » des condamnés écroués le sont à la réclusion criminelle à perpétuité (0,6 % selon le graphique) ; 2,9 % purgent une peine de 20 à 30 ans, 10,2 % une peine de plus de 10 à 20 ans ; 23 % une peine de plus de 5 ans d'emprisonnement ferme.",
+      "pertinence": "Statistique publique du ministère de la Justice.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Amendement n° 250 au projet de loi n° 2984 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public",
+      "organisme": "Assemblée nationale (amendement déposé par seize députés)",
+      "date_publication": "1er juillet 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2984/AN/250.pdf",
+      "passage": "Proposait d'inscrire à l'article 729 du code de procédure pénale que « Les condamnés à la réclusion criminelle à perpétuité ne peuvent bénéficier d'une libération conditionnelle » et que la peine « s'exécute jusqu'à son terme », pour redonner à la perpétuité « son sens plein et entier ». Sort : « RETIRÉ AVANT DISCUSSION ». Un autre amendement (CS1229, 3 juillet 2026, projet de loi relatif à la protection des enfants) proposait d'étendre la période de sûreté à toute la durée de la peine en cas de perpétuité pour viol sur mineur de quinze ans.",
+      "pertinence": "Document parlementaire ; proposition de députés, pas une loi.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport thématique « Les incarcérations de longue durée » — dossier de presse",
+      "organisme": "Contrôleur général des lieux de privation de liberté (CGLPL, autorité administrative indépendante)",
+      "date_publication": "décembre 2023",
+      "url": "https://www.cglpl.fr/wp-content/uploads/2023/12/2023_Rapport-Incarcérations-de-longue-durée_Dossier-de-presse.pdf",
+      "passage": "La période de sûreté attachée à la perpétuité est fixée « à dix-huit ans ». La possibilité de la réduire ou de la relever existe, mais ses résultats ne sont pas connus et ses critères sont jugés « opaques ». Au 1er janvier 2022, 8 696 détenus avaient 50 ans ou plus (12,5 % de la population détenue), dont 2 915 de 60 ans ou plus. Recommandation : « Les détenus en fin de vie ou dont le pronostic vital est engagé doivent avoir le droit de mourir libres ».",
+      "pertinence": "Autorité indépendante de contrôle des prisons.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suivi des textes en discussion au Parlement et nouvelles statistiques du ministère de la Justice.",
+  "objections_legitimes": [
+    "Les victimes et leurs proches ont besoin d'être certains que les auteurs des crimes les plus graves ne recommenceront pas.",
+    "Certains criminels restent dangereux très longtemps, et le droit permet de les garder enfermés jusqu'à leur mort.",
+    "Les critères de réexamen des longues peines sont jugés opaques par le Contrôleur général des prisons."
+  ],
+  "publics": {
+    "convaincus": "La perpétuité réelle, tu l'as déjà : depuis 1994, la cour d'assises peut interdire tout aménagement pour les meurtres d'enfants avec viol ou torture, les meurtres de policiers et le terrorisme. Elle a été prononcée cinq fois en droit commun. Ceux qui la réclament à chaque fait divers te vendent une loi qui existe déjà.",
+    "indecis": "La peur que ces criminels ressortent est compréhensible. Mais la loi permet déjà de les garder à vie ; la seule issue est un réexamen très strict après 30 ans, sans aucune garantie de sortie. La Cour européenne des droits de l'homme exige ce réexamen, et l'a jugé conforme en France."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "libertes",
+      "democratie"
+    ],
+    "mecanismes": "Après chaque crime atroce, réclamer une peine qui existe déjà permet d’afficher sa fermeté sans rien changer au droit, et laisse croire que la justice relâche les pires criminels.",
+    "consequences": "Le débat se fixe sur une poignée de condamnés déjà enfermés pour des décennies, pendant que les vraies questions restent en friche : suivi des longues peines, critères opaques de réexamen, vieillissement en prison.",
+    "democratie": "Supprimer tout réexamen obligerait la France à rompre avec la Convention européenne des droits de l’homme, qui protège tout le monde, y compris contre l’arbitraire.",
+    "propositions": [
+      "Rendre publics et lisibles les critères et les résultats des réexamens des longues peines.",
+      "Renforcer l’évaluation de la dangerosité et le suivi des condamnés à de très longues peines.",
+      "Garantir aux victimes une information claire sur la peine réellement prononcée et ses règles d’exécution."
+    ],
+    "defavorables": [
+      {
+        "fait": "La Cour européenne des droits de l’homme admet qu’un condamné reste en prison jusqu’à sa mort s’il demeure dangereux.",
+        "integration": "Ne pas prétendre que le droit européen interdit l’enfermement à vie : il exige seulement qu’un juge puisse réexaminer la situation."
+      }
+    ]
+  },
+  "concepts": [
+    "delinquance",
+    "prison",
+    "justice",
+    "perpetuite"
+  ],
+  "repond_a": [
+    {
+      "id": "perpetuite_q0614",
+      "label": "Perpétuité réelle"
+    },
+    {
+      "id": "delinquance_q0614_perpetuite",
+      "label": "Perpétuité réelle"
+    },
+    {
+      "id": "justice_q0614_perpetuite",
+      "label": "Perpétuité réelle"
+    },
+    {
+      "id": "prison_q0614_perpetuite",
+      "label": "Perpétuité réelle"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "taule",
+    "zonzon",
+    "barreaux",
+    "justice"
+  ]
+}

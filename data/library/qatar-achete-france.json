@@ -211,10 +211,6 @@
       }
     ]
   },
-  "concepts": [
-    "logement",
-    "fiscalite"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -228,5 +224,9 @@
     "taxer",
     "isf",
     "tva"
+  ],
+  "concepts": [
+    "logement",
+    "fiscalite"
   ]
 }

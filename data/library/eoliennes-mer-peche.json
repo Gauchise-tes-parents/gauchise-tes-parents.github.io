@@ -1,0 +1,254 @@
+{
+  "id": "eoliennes-mer-peche",
+  "type": "idee_recue",
+  "affirmation": "Les éoliennes en mer détruisent la pêche.",
+  "volet": "ecologie",
+  "sous_theme": "Énergies renouvelables",
+  "rubriques": [],
+  "mots_cles": [
+    "eoliennes en mer peche",
+    "eolien offshore pecheurs",
+    "parc eolien saint brieuc",
+    "eoliennes en mer poissons",
+    "eolien en mer detruit la peche",
+    "pecheurs contre eoliennes",
+    "effet recif eoliennes",
+    "eolien flottant peche"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les études scientifiques ne montrent pas de destruction des ressources : autour des fondations, l'« effet récif » attire souvent plus de poissons et de coquillages, selon l'expertise Ifremer-CNRS de 2026. La pêche est réautorisée dans les parcs posés, comme à Saint-Brieuc depuis 2024. Mais les pêcheurs côtiers ont de vraies raisons de s'inquiéter : perte d'accès à des zones, chantiers bruyants, chalutage limité, pêche interdite pour l'instant dans les parcs flottants de Méditerranée, et recul scientifique encore court.",
+  "contexte": "Les pêcheurs ont manifesté contre plusieurs parcs, notamment en baie de Saint-Brieuc en 2021. L'argument est repris par des opposants à l'éolien qui parlent rarement de la surpêche ou du réchauffement des mers.",
+  "explication": "Il faut distinguer deux questions : l'effet des éoliennes sur les poissons et les coquillages (la ressource), et l'effet sur l'activité des pêcheurs (l'accès à l'espace, les règles, les revenus).",
+  "faits": [
+    {
+      "fait": "L'expertise scientifique collective de l'Ifremer et du CNRS, fondée sur 411 publications, relève près des éoliennes des hausses locales de l'abondance de certains poissons comme la morue et la plie, parfois avec une taille moyenne plus grande.",
+      "periode": "2024-2026",
+      "perimetre": "Surtout mer du Nord",
+      "explication": "Les études ne montrent pas une destruction de la ressource autour des parcs en fonctionnement.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "411"
+    },
+    {
+      "fait": "Selon l'expertise Ifremer-CNRS, les fondations sont colonisées par des moules : dans certains parcs de mer du Nord, une fondation peut en porter jusqu'à deux tonnes, ce qui crée un « effet récif ».",
+      "periode": "2026",
+      "perimetre": "Mer du Nord",
+      "explication": "Les éoliennes deviennent des récifs artificiels qui attirent crabes et poissons.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2 tonnes"
+    },
+    {
+      "fait": "Depuis le 1er juillet 2024, la pêche est réautorisée dans le parc de Saint-Brieuc, organisée par type d'engin, avec une interdiction à moins de 50 m de chaque éolienne.",
+      "periode": "2024",
+      "perimetre": "Baie de Saint-Brieuc",
+      "explication": "Le parc n'est pas une zone interdite aux pêcheurs une fois construit.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le dossier de l'État soumis au débat public, dix ans de suivi en Belgique montrent que les parcs ont très peu modifié l'effort de pêche et les captures.",
+      "periode": "2023",
+      "perimetre": "Belgique",
+      "explication": "L'expérience étrangère ne confirme pas l'idée d'une pêche détruite.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "En 2021, un chercheur de l'Ifremer relevait que le stock de coquilles Saint-Jacques de la baie de Saint-Brieuc avait fortement augmenté en dix ans et jugeait que les inquiétudes relevaient surtout de conflits sur l'accès à l'espace.",
+      "periode": "2021",
+      "perimetre": "Baie de Saint-Brieuc",
+      "explication": "Le conflit est réel, mais il porte d'abord sur le partage de la mer.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : selon le dossier de l'État, en Méditerranée, la pêche est pour l'instant interdite dans les parcs, et le chalutage est peu probable dans les futurs parcs flottants.",
+      "periode": "2023",
+      "perimetre": "Méditerranée, éolien flottant",
+      "explication": "Pour certains pêcheurs, les parcs signifient bien une perte de zones de travail.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : selon un pêcheur cité par l'AFP, 82 % de la flotte française est composée de bateaux de moins de 12 m qui pêchent près des côtes, là où sont construits les parcs posés.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "La petite pêche côtière est la plus exposée à la perte d'espace.",
+      "source": 2,
+      "fiabilite": "interpretation",
+      "chiffre": "82 %"
+    },
+    {
+      "fait": "Fait défavorable : l'expertise Ifremer-CNRS souligne que la plupart des études couvrent moins de dix ans et viennent de mer du Nord, et que « l'absence de preuve d'un effet ne peut donc être interprétée comme une preuve d'absence d'effet ».",
+      "periode": "2026",
+      "perimetre": "Europe",
+      "explication": "Le recul scientifique reste limité, surtout pour l'éolien flottant et la Méditerranée.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les études ne montrent pas de destruction de la ressource : autour des éoliennes, l'effet récif attire souvent plus de poissons, selon l'Ifremer et le CNRS. À Saint-Brieuc, la pêche a repris dans le parc en 2024. Mais les pêcheurs côtiers perdent de l'espace et du chalutage, et leurs inquiétudes méritent d'être entendues.",
+    "moyen": "Sur la ressource, les scientifiques sont plutôt rassurants. L'expertise collective de l'Ifremer et du CNRS, qui a passé en revue 411 études, trouve souvent plus de poissons autour des éoliennes : les fondations se couvrent de moules et deviennent des récifs artificiels. En Belgique, dix ans de suivi montrent peu d'effet sur les captures. Et à Saint-Brieuc, la pêche est réautorisée dans le parc depuis juillet 2024.\n\nMais dire que tout va bien serait faux. Les pêcheurs côtiers, sur de petits bateaux, perdent des zones et doivent changer leurs pratiques ; le chalutage est limité à des couloirs, et en Méditerranée la pêche est pour l'instant interdite dans les parcs. Les chantiers sont bruyants. Le problème n'est pas que l'éolien détruit la pêche, c'est que les pêcheurs ont trop souvent été mis devant le fait accompli.",
+    "detaille": "L'affirmation mélange deux choses : l'effet des éoliennes sur les poissons, et l'effet sur le travail des pêcheurs.\n\nSur les poissons, l'état des connaissances est plutôt rassurant. En juin 2026, l'Ifremer et le CNRS ont publié une expertise collective fondée sur 411 publications : près des éoliennes, plusieurs études relèvent davantage de poissons, comme la morue ou la plie, parfois plus gros. Les fondations sont colonisées par des moules, jusqu'à deux tonnes par fondation dans certains parcs de mer du Nord, et deviennent des récifs artificiels. Là où la pêche est réduite, un « effet réserve » profite à certaines espèces. Selon le dossier de l'État soumis au débat public, dix ans de suivi en Belgique montrent que les parcs ont très peu changé les captures.\n\nSur l'activité, le tableau est plus nuancé. Les parcs posés rouvrent à la pêche une fois construits : c'est le cas à Saint-Brieuc depuis juillet 2024, avec des règles par type d'engin. Mais le chalutage est cantonné à des couloirs, la pêche est pour l'instant interdite dans les parcs de Méditerranée, et le bruit des chantiers perturbe la faune. La petite pêche côtière, sur de petits bateaux, est la plus exposée. En baie de Saint-Brieuc, les pêcheurs ont manifesté, et certains ont refusé les compensations proposées par le constructeur.\n\nEnfin, la science a encore peu de recul : la plupart des études durent moins de dix ans et portent sur la mer du Nord. La réponse de gauche n'est pas d'opposer pêcheurs et climat, mais d'associer les pêcheurs dès le choix des zones, comme le propose une étude de la Région Bretagne, et de protéger la petite pêche artisanale.",
+    "empathie": "Les pêcheurs ont un métier dur et ont souvent l'impression qu'on décide sans eux de l'avenir de leurs zones de pêche. Leur colère est compréhensible, et elle mérite mieux que des slogans : des faits sur la ressource et une vraie place dans les décisions."
+  },
+  "contre_arguments": [
+    {
+      "objection": "À Saint-Brieuc, les pêcheurs se sont battus contre le parc : ils savent de quoi ils parlent.",
+      "reponse": "Leur colère portait surtout sur l'accès à leurs zones et sur la concertation, et c'est légitime. Mais sur la ressource, un chercheur de l'Ifremer notait que le stock de coquilles Saint-Jacques avait fortement augmenté, et la pêche a repris dans le parc en 2024."
+    },
+    {
+      "objection": "Le bruit des travaux fait fuir les poissons.",
+      "reponse": "C'est vrai pendant le chantier, surtout lors du battage des pieux. Mais les effets observés sur les poissons sont surtout temporaires, et une fois le parc en service, l'effet récif attire au contraire de nombreuses espèces."
+    }
+  ],
+  "questions": [
+    "Sais-tu que la pêche est de nouveau autorisée dans le parc de Saint-Brieuc ?",
+    "Qu'est-ce qui menace le plus la pêche aujourd'hui : les éoliennes, la surpêche ou le réchauffement des océans ?"
+  ],
+  "limites": [
+    "L'expertise Ifremer-CNRS repose surtout sur des parcs posés de mer du Nord ; ses conclusions sont à transposer avec prudence à la France et à l'éolien flottant.",
+    "Le document de synthèse de l'expertise est très long et n'a été lu qu'en partie ; les chiffres cités viennent du communiqué du CNRS.",
+    "Aucune source lue ne mesure l'effet des parcs français sur les revenus des pêcheurs.",
+    "Le chiffre de 82 % de petits bateaux vient d'un pêcheur cité par l'AFP en 2021, pas d'une statistique officielle lue."
+  ],
+  "sources": [
+    {
+      "titre": "Offshore wind farms and biodiversity: findings from the Ifremer-CNRS scientific assessment",
+      "organisme": "CNRS et Ifremer (expertise scientifique collective commandée par les ministères chargés de l’énergie, de l’écologie et de la mer)",
+      "date_publication": "29 juin 2026",
+      "url": "https://www.cnrs.fr/en/press/offshore-wind-farms-and-biodiversity-findings-ifremer-cnrs-scientific-assessment",
+      "passage": "Plus de 4 500 publications identifiées, 411 analysées en détail, dix pressions examinées. Plusieurs études trouvent davantage de poissons près des éoliennes, avec des « local increases in abundance » pour des espèces comme la morue et la plie, et parfois une taille moyenne plus grande. Les fondations sont « rapidly colonised by dense populations of mussels » ; dans certains parcs de mer du Nord, une fondation peut porter « up to two tonnes of mussels ». Les effets du bruit sur les poissons relèvent surtout du stress et de changements de comportement temporaires. Les interactions avec « other human activities already taking place at sea, such as fishing » sont peu étudiées. La plupart des données viennent de parcs posés en mer du Nord ; prudence pour la France.",
+      "pertinence": "Communiqué de l'organisme public de recherche sur l'expertise collective Ifremer-CNRS.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Éoliennes en mer & biodiversité — Synthèse de l’expertise scientifique collective",
+      "organisme": "Ifremer et CNRS (coordination Eugénie Cazaux, Nathalie Niquil, Cédric Bacher ; 25 chercheurs de 13 établissements publics)",
+      "date_publication": "2026",
+      "url": "https://www.cnrs.fr/sites/default/files/2026-06/Synthese_ESCo_Eoliennes_mer_biodiversite_Ifremer_CNRS.pdf",
+      "passage": "L'introduction de substrats durs artificiels crée un « effet récif » qui « peut accroître localement la biodiversité ». Certaines activités, dont la pêche, sont « réduites ou interdites à l'intérieur des parcs », ce qui produit des effets indirects (« effet réserve »). Le résumé de l'expertise relève près des éoliennes « une augmentation locale de l'abondance, de la biomasse et parfois de la taille moyenne des individus » pour certaines espèces (tacaud, cabillaud), et des hausses locales pour le homard ou la plie là où la pêche est réduite ; le débordement de poissons hors des parcs est difficile à confirmer sur le terrain. La plupart des études couvrent moins de dix ans ; « l'absence de preuve d'un effet ne peut donc être interprétée comme une preuve d'absence d'effet ». Les études socio-économiques sans mesure d'effet sur la biodiversité sont exclues du corpus.",
+      "pertinence": "Expertise scientifique collective d'organismes publics de recherche (texte long, lu en partie).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Éolien en mer : inquiétude des pêcheurs côtiers malgré les avis scientifiques",
+      "organisme": "AFP (dépêche reprise par Connaissance des Énergies)",
+      "date_publication": "7 juillet 2021",
+      "url": "https://www.connaissancedesenergies.org/afp/eolien-en-mer-inquietude-des-pecheurs-cotiers-malgre-les-avis-scientifiques-210707",
+      "passage": "Manifestations de pêcheurs à Saint-Brieuc, Caen et Malo-les-Bains. Un représentant des pêcheurs du Var : « L'éolien en mer va nous pousser dans la tombe ». Un pêcheur d'Oléron indique que 82 % de la flotte française est composée de bateaux de moins de 12 m, limités à 20 milles nautiques. Un pêcheur d'Erquy estime que les parcs « privatisent » une zone de petite pêche et refuse les compensations. Un chercheur de l'Ifremer, Spyros Fifas, juge l'impact de la construction mal connu, mais n'attend pas d'impact majeur en exploitation (effet récif observé au Royaume-Uni, en Belgique et aux Pays-Bas) ; le stock de coquilles Saint-Jacques de la baie de Saint-Brieuc a fortement augmenté en dix ans ; selon lui, les inquiétudes relèvent surtout de conflits socio-économiques sur l'accès à l'espace.",
+      "pertinence": "Dépêche d'agence de presse.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "À Saint-Brieuc, les activités maritimes et de pêche réautorisées dans le parc éolien",
+      "organisme": "AFP (dépêche reprise par L’info durable)",
+      "date_publication": "3 juillet 2024",
+      "url": "https://www.linfodurable.fr/saint-brieuc-les-activites-maritimes-et-de-peche-reautorisees-dans-le-parc-eolien-46048",
+      "passage": "« Depuis le 1er juillet 2024, les activités maritimes et de pêche ont repris dans le parc éolien en mer de Saint-Brieuc », organisées en quatre périmètres selon l'engin (chalut, casiers, filets, lignes), en vertu d'arrêtés de la préfecture maritime de l'Atlantique des 28 juin et 1er juillet 2024. Navires de moins de 25 m, vitesse limitée à 12 nœuds, interdiction à moins de 50 m de chaque éolienne et 200 m de la sous-station. 62 éoliennes à 16 km des côtes, production attendue de 1 820 GWh par an, environ 9 % de la consommation d'électricité de la Bretagne.",
+      "pertinence": "Dépêche d'agence de presse (informations de l'exploitant et arrêtés préfectoraux).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fiche 39 — La pêche dans un parc éolien en mer (dossier du maître d’ouvrage, débat public éolien en mer en Méditerranée)",
+      "organisme": "L’État, maître d’ouvrage du débat public (Commission nationale du débat public)",
+      "date_publication": "septembre 2023 - janvier 2024",
+      "url": "https://www.debatpublic.fr/sites/default/files/2023-11/MED_Fiche_39_Peche_parc_eolien_en_mer.pdf",
+      "passage": "Dans les parcs posés, la pêche est prévue : les arts traînants travaillent le long de couloirs entre les alignements d'éoliennes, les arts dormants sur l'ensemble du parc ; zones d'exclusion d'au moins 50 m autour des éoliennes et 200 m autour de la sous-station. Pour les parcs flottants, les règles sont à l'étude et le chalutage est peu probable ; « En Méditerranée, la pêche est pour l'instant interdite au sein des parcs. » Banc de Guérande (Saint-Nazaire) rouvert : arts dormants autorisés, pas de chalut. Effet sur les poissons « dans la grande majorité des cas neutre ou positif » ; en Belgique, dix ans de suivi montrent que les parcs ont très peu modifié l'effort de pêche et les captures. Sur le bruit, « La connaissance scientifique sur le sujet n'est pas suffisante pour conclure définitivement ».",
+      "pertinence": "Document de l'État, porteur des projets, soumis au débat public.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Étude de coactivité entre éolien en mer et pêche professionnelle — Résumé de l'étude",
+      "organisme": "Région Bretagne, avec le Comité régional des pêches maritimes et des élevages marins de Bretagne (consortium Meresco, Innosea, Université technique du Danemark)",
+      "date_publication": "février 2025 (résumé publié en octobre 2025)",
+      "url": "https://www.bretagne.bzh/app/uploads/Resume-etude-coactivite-peche-eolien-en-mer_oct_25.pdf",
+      "passage": "« la coactivité entre pêche professionnelle et éolien flottant est possible sous conditions » : concertation en amont avec les pêcheurs pour identifier les zones à fort enjeu, adaptation au type d'engin et aux caractéristiques du parc, inscription des conditions dans les cahiers des charges des appels d'offres, recherche sur des engins adaptés. Les parcs posés de Saint-Brieuc et de Saint-Nazaire montrent que la pêche peut y revenir.",
+      "pertinence": "Étude commandée par une collectivité avec les représentants des pêcheurs.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Premiers suivis des parcs français en service et suites de l'expertise Ifremer-CNRS.",
+  "objections_legitimes": [
+    "Les pêcheurs côtiers perdent de l'espace et doivent adapter leurs engins.",
+    "Les chantiers produisent un bruit intense qui perturbe la faune.",
+    "Le recul scientifique est limité, surtout pour l'éolien flottant et la Méditerranée.",
+    "La concertation avec les pêcheurs a souvent été insuffisante."
+  ],
+  "publics": {
+    "convaincus": "Les pêcheurs ont raison de dire qu'on les a souvent ignorés, et qu'ils perdent de l'espace. Mais dire que les éoliennes détruisent la pêche, ce n'est pas ce que montrent l'Ifremer et le CNRS : autour des fondations, il y a souvent plus de poissons. À Saint-Brieuc, ils pêchent de nouveau dans le parc depuis 2024.",
+    "indecis": "Les scientifiques ne trouvent pas de destruction des poissons autour des parcs ; l'effet récif en attire même souvent. Le vrai sujet, c'est l'accès des petits pêcheurs à leurs zones et la façon dont on les associe aux décisions. Les deux inquiétudes, climat et pêche, peuvent être conciliées si l'on planifie avec eux."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "democratie",
+      "repartition"
+    ],
+    "mecanismes": "L’argument confond l’effet sur les poissons, que la recherche publique juge plutôt neutre ou favorable, et l’effet sur le travail des pêcheurs, qui perdent de l’espace. Il transforme un conflit d’usage réel en rejet global de la transition.",
+    "consequences": "Ce sont les petits pêcheurs côtiers, déjà fragilisés par la surpêche industrielle et le réchauffement des mers, qui supportent les contraintes des parcs sans être toujours associés aux décisions.",
+    "democratie": "Les zones ont souvent été choisies sans les premiers concernés ; une concertation tardive transforme les pêcheurs en opposants alors qu’ils pourraient être partie prenante.",
+    "propositions": [
+      "Associer les comités de pêcheurs dès le choix des zones et inscrire la coactivité dans les cahiers des charges.",
+      "Protéger et soutenir la petite pêche artisanale face à la pêche industrielle.",
+      "Financer un suivi scientifique public et indépendant des parcs sur le long terme."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les pêcheurs perdent des zones, le chalutage est limité, la pêche reste interdite dans les parcs flottants méditerranéens et le recul scientifique est encore court.",
+        "integration": "Ne pas nier ces pertes : défendre une transition qui compense et associe les travailleurs de la mer au lieu de les mettre devant le fait accompli."
+      }
+    ]
+  },
+  "concepts": [
+    "mer",
+    "ecologie",
+    "eolien",
+    "peche",
+    "eolien_mer"
+  ],
+  "repond_a": [
+    {
+      "id": "eolien_mer_q0614",
+      "label": "Éolien en mer et pêche"
+    },
+    {
+      "id": "ecologie_q0614_eolien_mer",
+      "label": "Éolien en mer et pêche"
+    },
+    {
+      "id": "eolien_q0614_eolien_mer",
+      "label": "Éolien en mer et pêche"
+    },
+    {
+      "id": "mer_q0614_eolien_mer",
+      "label": "Éolien en mer et pêche"
+    },
+    {
+      "id": "peche_q0614_eolien_mer",
+      "label": "Éolien en mer et pêche"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "en mer",
+    "mediterranee",
+    "ong",
+    "appel d air",
+    "pull factor",
+    "nucleaire",
+    "surpeche"
+  ]
+}

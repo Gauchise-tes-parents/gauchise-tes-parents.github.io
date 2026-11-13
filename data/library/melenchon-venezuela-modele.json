@@ -245,12 +245,6 @@
       }
     ]
   },
-  "concepts": [
-    "melenchon_lfi",
-    "gauche",
-    "dangerosite",
-    "venezuela"
-  ],
   "repond_a": [
     {
       "id": "venezuela_q2013",
@@ -291,5 +285,11 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "melenchon_lfi",
+    "gauche",
+    "dangerosite",
+    "venezuela"
   ]
 }

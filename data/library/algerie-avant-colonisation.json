@@ -1,0 +1,256 @@
+{
+  "id": "algerie-avant-colonisation",
+  "type": "idee_recue",
+  "affirmation": "L'Algérie n'existait pas avant la colonisation française.",
+  "volet": "international",
+  "sous_theme": "Colonisation et décolonisation",
+  "rubriques": [],
+  "mots_cles": [
+    "algerie n existait pas",
+    "algerie avant 1830",
+    "nation algerienne",
+    "regence d alger",
+    "dey d alger",
+    "algerie creee par la france",
+    "abdelkader",
+    "algerie ottomane",
+    "colonisation algerie"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Avant 1830 existait la régence d'Alger : un État dirigé par un dey, rattaché nominalement à l'Empire ottoman mais autonome, qui signait des traités avec la France depuis le XVIIe siècle et avec les États-Unis en 1795, et où la France entretenait un consul général. Le Musée de l'Armée écrit qu'elle avait en 1830 « all the characteristics of a sovereign state ». Il est vrai que ce n'était pas un État-nation au sens moderne, que son pouvoir contrôlait mal l'intérieur du pays, et que le nom « Algérie » a été officialisé par la France en 1839. Mais dire que « rien n'existait » sert surtout à justifier la conquête.",
+  "contexte": "L'idée que la France aurait « créé » l'Algérie revient régulièrement dans le débat sur la colonisation et les relations franco-algériennes. Elle sert souvent à relativiser la violence de la conquête et à présenter la colonisation comme un apport.",
+  "explication": "Il faut distinguer l'existence d'un État et celle d'une nation au sens moderne, et regarder les archives diplomatiques, les traités et le travail des historiens et des musées.",
+  "faits": [
+    {
+      "fait": "Le 5 septembre 1795, les États-Unis ont signé à Alger un traité de paix et d'amitié avec le dey d'Alger, son Divan et ses sujets, ratifié par Washington en 1796 ; ils s'engageaient à verser chaque année un tribut en fournitures maritimes.",
+      "periode": "1795-1796",
+      "perimetre": "Régence d’Alger, États-Unis",
+      "explication": "On ne signe pas de traité de paix avec un territoire qui n'existe pas : la régence d'Alger était reconnue comme puissance.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les archives diplomatiques françaises recensent une série de traités entre la France et Alger, de 1689 à 1814, et la correspondance du consul général de France à Alger avec le dey Hussein-Pacha.",
+      "periode": "1689-1830",
+      "perimetre": "France, régence d’Alger",
+      "explication": "La France elle-même traitait avec Alger comme avec un État pendant près de deux siècles.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Musée de l'Armée, la régence d'Alger, nominalement rattachée à l'Empire ottoman depuis trois siècles, avait en 1830 « all the characteristics of a sovereign state ».",
+      "periode": "1830",
+      "perimetre": "Régence d’Alger",
+      "explication": "Un musée national français reconnaît l'existence d'un État algérien avant la conquête.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon le Musée de l'Armée, la régence était dirigée par une oligarchie militaire turque qui tenait fermement Alger mais beaucoup moins l'intérieur du pays, peuplé de tribus arabes et berbères.",
+      "periode": "1830",
+      "perimetre": "Régence d’Alger",
+      "explication": "Il faut le reconnaître : ce n'était pas un État moderne contrôlant tout son territoire, ce qui était le cas de bien des États de l'époque.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'historienne Abla Gheziel, l'idée d'un État-nation supposait un esprit d'unité qui « faisait défaut aux différentes communautés », et le mot « algérien » se répand surtout au XIXe siècle ; elle décrit toutefois Alger comme un « État-Empire autonome ».",
+      "periode": "1830-1834",
+      "perimetre": "Régence d’Alger",
+      "explication": "Il n'y avait pas de nation algérienne au sens moderne avant 1830 ; mais il y avait un État, et la nation s'est aussi forgée dans la résistance à la conquête.",
+      "source": 6,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Le territoire prend officiellement le nom d'« Algérie » par décret en 1839, selon le Musée de l'Armée.",
+      "periode": "1839",
+      "perimetre": "Algérie",
+      "explication": "Le nom a été fixé par la France, mais il reprend celui d'Alger, capitale d'un État qui existait déjà.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Abd el-Kader a mené la résistance à la conquête française de 1832 à 1847 et signé en 1837 avec le général Bugeaud le traité de la Tafna, que la France a ensuite rompu.",
+      "periode": "1832-1847",
+      "perimetre": "Algérie",
+      "explication": "La France a signé un traité avec l'émir : elle reconnaissait en face un pouvoir politique organisé.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Musée de l'Armée, la conquête a reposé sur des colonnes mobiles, des razzias et des « enfumades » de tribus entières, avec pour mot d'ordre de « chasser, traquer, détruire l'adversaire ».",
+      "periode": "1840-1847",
+      "perimetre": "Algérie",
+      "explication": "Le mythe d'une terre vide ou sans État fait oublier la violence de la conquête.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Avant 1830, il y avait la régence d'Alger : un État autonome dirigé par un dey, qui signait des traités avec la France depuis 1689 et avec les États-Unis en 1795. Le Musée de l'Armée lui reconnaît « all the characteristics of a sovereign state ». Ce n'était pas un État-nation moderne, et le nom « Algérie » date de 1839, mais ce n'était pas le vide.",
+    "moyen": "Il faut distinguer État et nation. Avant 1830, la régence d'Alger était un État : un dey, une armée, une diplomatie. La France y avait un consul général et a signé avec Alger une série de traités de 1689 à 1814. Les États-Unis y ont signé un traité de paix en 1795 et lui versaient un tribut. Le Musée de l'Armée lui-même écrit qu'elle avait « all the characteristics of a sovereign state ».\n\nCe qui est vrai : la régence était rattachée nominalement à l'Empire ottoman, elle contrôlait mal l'intérieur du pays, et il n'existait pas de nation algérienne au sens moderne. Le nom « Algérie » a été officialisé par la France en 1839. Mais beaucoup de nations européennes se sont formées tard elles aussi, et la nation algérienne s'est aussi construite dans la résistance, d'Abd el-Kader à l'indépendance.",
+    "detaille": "Avant la conquête de 1830, il existait la régence d'Alger. Elle était rattachée nominalement à l'Empire ottoman depuis trois siècles, mais fonctionnait de manière autonome, avec à sa tête un dey. Selon le Musée de l'Armée, elle avait en 1830 « all the characteristics of a sovereign state ». Les archives diplomatiques françaises recensent des traités entre la France et Alger de 1689 à 1814, et un consul général de France y correspondait régulièrement avec Paris. En 1795, les États-Unis ont signé avec le dey d'Alger un traité de paix et d'amitié, en s'engageant à lui verser un tribut annuel.\n\nIl faut aussi reconnaître les limites. La régence était gouvernée par une oligarchie militaire d'origine turque qui contrôlait bien Alger mais beaucoup moins l'intérieur, peuplé de tribus arabes et berbères. Les historiens, comme Abla Gheziel, soulignent qu'il n'y avait pas de nation au sens moderne : les communautés n'avaient pas l'esprit d'unité qu'implique un État-nation, et le mot « algérien » se diffuse surtout au XIXe siècle. Le nom « Algérie » a été officialisé par la France par décret en 1839.\n\nMais dire que l'Algérie « n'existait pas » est un raccourci politique. La France traitait avec Alger comme avec un État ; elle a signé en 1837 le traité de la Tafna avec l'émir Abd el-Kader, avant de le rompre. La conquête a duré des années, avec razzias et enfumades. Et beaucoup de nations, y compris en Europe, se sont formées tardivement. Nier l'existence d'un État avant 1830 sert surtout à présenter la colonisation comme une création plutôt que comme une conquête.",
+    "empathie": "Beaucoup de familles ont une histoire liée à l'Algérie, et ce passé reste douloureux des deux côtés de la Méditerranée. On peut parler de ces questions sans nier ce que chacun a vécu."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'était une province ottomane, pas un pays.",
+      "reponse": "Elle était rattachée nominalement à l'Empire ottoman, mais signait ses propres traités avec la France et les États-Unis : le Musée de l'Armée la décrit comme ayant toutes les caractéristiques d'un État souverain."
+    },
+    {
+      "objection": "C'est la France qui a donné son nom et ses frontières à l'Algérie.",
+      "reponse": "Le nom a été fixé en 1839 et les frontières ont été tracées pendant la colonisation, c'est vrai. Mais la France a dû conquérir un territoire déjà organisé, et signer un traité avec Abd el-Kader avant de le rompre."
+    }
+  ],
+  "questions": [
+    "Pourquoi la France aurait-elle signé des traités avec Alger pendant plus d'un siècle si ce n'était pas un État ?",
+    "L'Allemagne ou l'Italie existaient-elles comme États-nations avant le XIXe siècle ?"
+  ],
+  "limites": [
+    "Les inventaires d'archives diplomatiques décrivent les documents sans en reproduire le contenu.",
+    "Les propos d'Emmanuel Macron rapportés par Le Monde en 2021 n'ont pas été lus et ne sont pas cités.",
+    "Aucun texte de Benjamin Stora n'a pu être lu pour cette fiche ; la page du Musée de l'Armée sur la régence a été lue dans sa version anglaise.",
+    "La date exacte du décret de 1839 sur le nom « Algérie » n'est pas donnée par la source lue.",
+    "Les pages ont été lues à travers un outil qui résume : les citations sont courtes et à revérifier mot pour mot."
+  ],
+  "sources": [
+    {
+      "titre": "Treaty of Peace and Amity, signed at Algiers September 5, 1795",
+      "organisme": "Avalon Project, Yale Law School (Université Yale) — archives de textes diplomatiques",
+      "date_publication": "traité du 5 septembre 1795, page consultée le 13 novembre 2026",
+      "url": "https://avalon.law.yale.edu/18th_century/bar1795t.asp",
+      "passage": "Traité signé à Alger le 5 septembre 1795 entre les « United States of North America » et Hassan Bashaw, Dey d'Alger, son Divan et ses sujets ; ratifié par les États-Unis le 7 mars 1796. L'article 1er établit « a firm and Sincere Peace and Amity ». En contrepartie de la paix, les États-Unis versent chaque année l'équivalent de 12 000 sequins algériens en fournitures maritimes. Des clauses protègent les citoyens américains capturés et munis d'un passeport.",
+      "pertinence": "Texte d'un traité international reproduit par une université.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Archives du ministère des Affaires étrangères — Inventaire sommaire, Mémoires et documents, Algérie (volumes 1 à 16)",
+      "organisme": "Ministère de l’Europe et des Affaires étrangères (Archives diplomatiques)",
+      "date_publication": "inventaire non daté, volumes couvrant 1542-1847",
+      "url": "https://www.diplomatie.gouv.fr/IMG/pdf/md-algerie-1-16.pdf",
+      "passage": "L'inventaire cite une série de traités entre la France et Alger, dont ceux du « 19 septembre 1689 », du « 7 décembre 1719 », du « 29 décembre 1754 », du « 16 janvier 1764 », du « 20 mars 1790 », de « septembre 1805 » et du « 22 mars 1814 ». Il mentionne le consul général de France à Alger (le chevalier Deval, 1826-1830), une « Note officielle présentée par le chevalier Deval à Hussein-Pacha », dey d'Alger, une lettre d'Hussein-Pacha aux ministres de la République française (1793), les redevances versées à la Régence pour les concessions d'Afrique, une « Note sur les griefs de la France contre Alger » (1829) et la « Convention entre le général en chef de l'armée française et le dey d'Alger (5 juillet) » 1830.",
+      "pertinence": "Instrument de recherche des archives diplomatiques françaises.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Archives rapatriées du consulat général de France à Alger, 1798-1839 (1873) — répertoire numérique 22PO/1/29-79",
+      "organisme": "Centre des Archives diplomatiques de Nantes (ministère des Affaires étrangères)",
+      "date_publication": "2013, mis à jour en septembre 2024",
+      "url": "https://archivesdiplomatiques.diplomatie.gouv.fr/media/c38b00ae-e6ca-429c-ab9c-ca7e6b5717e2.pdf",
+      "passage": "Le consulat général de France à Alger correspond avec le ministère des Affaires étrangères de 1798 à 1829. « Affaire Dubois-Thainville, consul général de France à Alger, décédé le 28 octobre 1818 ». L'inventaire mentionne un « traité de paix centenaire avec Alger » (1829) et des conditions de paix dictées à Alger par le prince régent d'Angleterre (1816).",
+      "pertinence": "Instrument de recherche des archives diplomatiques françaises.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "The end of the Ottoman Regency and the limited occupation of Algeria (exposition « Algérie 1830-1962 »)",
+      "organisme": "Musée de l'Armée",
+      "date_publication": "page non datée (exposition de 2012)",
+      "url": "https://musee-armee.fr/ExpositionAlgerie/the-end-of-the-ottoman-regency-and-the-limited-occupation-of-algeria.html",
+      "passage": "La régence d'Alger était « nominally part of the Ottoman Empire for 300 years », mais avait en 1830 « all the characteristics of a sovereign state ». Elle était dirigée par une « Turkish military oligarchy » qui tenait fermement Alger mais beaucoup moins l'intérieur du pays, peuplé de tribus arabes et berbères. Débarquement français le 14 juin 1830 à Sidi Ferruch ; capitulation du dey le 5 juillet 1830. Abd el-Kader dirige la résistance à partir de 1832.",
+      "pertinence": "Musée national.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La « conquête absolue » de l'Algérie (exposition « Algérie 1830-1962 »)",
+      "organisme": "Musée de l'Armée",
+      "date_publication": "exposition de mai à juillet 2012",
+      "url": "https://www.musee-armee.fr/ExpositionAlgerie/pdf/pdf-la-conquete-absolue-de-l-algerie.pdf",
+      "passage": "Le traité de la Tafna (1837) est rompu par la France, qui le juge « trop défavorable ». Le territoire devient « Algérie » par décret en 1839. Méthodes de conquête : « colonnes mobiles rayonnant depuis des postes fortifiés » ; « Il faut chasser, traquer, détruire l'adversaire » ; razzias et « enfumades » de tribus entières. Après quinze ans de lutte, Abd el-Kader remet sa reddition au général Lamoricière le 23 décembre 1847.",
+      "pertinence": "Musée national.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Abd el-Kader — chronologie",
+      "organisme": "Mucem (Musée des civilisations de l’Europe et de la Méditerranée)",
+      "date_publication": "document mis en ligne en avril 2022",
+      "url": "https://www.mucem.org/sites/default/files/2022-04/AEK_Chrono_V4%20pour%20BAT.pdf",
+      "passage": "1830 : « Prise d'Alger par la France ». 1832 : Abd el-Kader « devient le chef de la résistance à la conquête française ». 1837 : « Signature du traité de la Tafna » avec le général Bugeaud. 1847 : « L'émir dépose les armes ».",
+      "pertinence": "Musée national.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Trois réactions « algériennes » sur l'avenir de l'Algérie, 1830-1834",
+      "organisme": "Abla Gheziel, revue Insaniyat (CRASC, Centre de recherche en anthropologie sociale et culturelle), n° 65-66",
+      "date_publication": "2014",
+      "url": "https://www.insaniyat.crasc.dz/en/article/trois-reactions-algeriennes-sur-lavenir-de-lalgerie-1830-1834",
+      "passage": "Alger passe « d'un état de vassalité à celui d'un État-Empire autonome », indépendant de fait tout en restant rattaché à l'autorité ottomane ; l'autrice parle de « république militaire semi-indépendante ». Hamdan Khodja considère encore la Régence « comme province ottomane », mais emploie le mot « Algériens » et écrit : « ce pays est donc notre patrie ! ». Le mot « algérien » se répand surtout au XIXe siècle. La société est « à la fois homogène et hétéroclite » ; l'idée d'un État-nation supposait un esprit d'unité qui « faisait défaut aux différentes communautés », et les notions de patriotisme et de parti national « ne sont pas clairement définis » à l'époque.",
+      "pertinence": "Article d'histoire publié dans une revue scientifique.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles publications d'historiens et éventuels travaux de la commission mixte d'historiens franco-algérienne.",
+  "objections_legitimes": [
+    "Il n'existait pas d'État-nation algérien au sens moderne avant 1830.",
+    "La régence d'Alger était rattachée, au moins nominalement, à l'Empire ottoman.",
+    "Le nom « Algérie » a été officialisé par la France en 1839."
+  ],
+  "publics": {
+    "convaincus": "Si l'Algérie n'existait pas, pourquoi la France a-t-elle signé des traités avec le dey d'Alger dès 1689 et y avait-elle un consul général ? Les États-Unis aussi y ont signé un traité de paix en 1795. Ce n'était pas une nation moderne, d'accord, mais c'était un État, et même le Musée de l'Armée le reconnaît.",
+    "indecis": "La réponse honnête, c'est qu'il y avait un État, la régence d'Alger, mais pas encore de nation au sens moderne. Le nom « Algérie » date de 1839. Dire que rien n'existait efface les traités, la diplomatie et la résistance d'Abd el-Kader, et sert souvent à justifier la conquête."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "antiracisme",
+      "internationalisme"
+    ],
+    "mecanismes": "Dire qu’une terre n’avait ni État ni histoire avant la conquête est un ressort classique du discours colonial : il transforme une invasion en création et efface la résistance des populations.",
+    "consequences": "Ce récit nourrit le mépris envers les Algériens et les Français d’origine algérienne, et empêche de regarder en face la violence de la conquête et de la colonisation.",
+    "democratie": "Une mémoire commune apaisée suppose de s’appuyer sur le travail des historiens et l’ouverture des archives, plutôt que sur des slogans qui servent des querelles politiques.",
+    "propositions": [
+      "Ouvrir largement les archives de la période coloniale aux chercheurs des deux rives.",
+      "Enseigner à l’école l’histoire de la régence d’Alger, de la conquête et de la résistance.",
+      "Soutenir les travaux communs d’historiens français et algériens."
+    ],
+    "defavorables": [
+      {
+        "fait": "Il n’existait pas d’État-nation algérien au sens moderne avant la conquête, et le nom « Algérie » a été officialisé par la France.",
+        "integration": "On peut le reconnaître sans difficulté : beaucoup de nations se sont formées tardivement, et un État existait bel et bien, avec sa diplomatie et ses traités."
+      }
+    ]
+  },
+  "concepts": [
+    "patriotisme",
+    "colonisation",
+    "algerie",
+    "algerie_precoloniale"
+  ],
+  "repond_a": [
+    {
+      "id": "algerie_precoloniale_q0614",
+      "label": "L’Algérie avant 1830"
+    },
+    {
+      "id": "colonisation_q0614_algerie_precoloniale",
+      "label": "L’Algérie avant 1830"
+    },
+    {
+      "id": "algerie_q0614_algerie_precoloniale",
+      "label": "L’Algérie avant 1830"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "algerie francaise",
+    "empire colonial",
+    "indigenat",
+    "nation algerienne",
+    "regence d alger"
+  ]
+}

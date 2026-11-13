@@ -213,12 +213,6 @@
       }
     ]
   },
-  "concepts": [
-    "melenchon_lfi",
-    "gauche",
-    "banques_nationalisation",
-    "dangerosite"
-  ],
   "repond_a": [
     {
       "id": "banques_nationalisation_q2013",
@@ -255,5 +249,11 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "melenchon_lfi",
+    "gauche",
+    "banques_nationalisation",
+    "dangerosite"
   ]
 }

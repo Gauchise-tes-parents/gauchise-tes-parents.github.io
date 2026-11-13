@@ -1,0 +1,225 @@
+{
+  "id": "detenus-travail-obligatoire",
+  "type": "idee_recue",
+  "affirmation": "Les détenus devraient être obligés de travailler.",
+  "volet": "securite",
+  "sous_theme": "Prisons",
+  "rubriques": [],
+  "mots_cles": [
+    "detenus obliges de travailler",
+    "travail obligatoire en prison",
+    "faire travailler les prisonniers",
+    "travail des detenus",
+    "prisonniers qui ne font rien",
+    "travaux forces",
+    "travail penitentiaire",
+    "contrat d emploi penitentiaire"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. L'obligation de travailler en prison a été supprimée en 1987, mais le problème n'est pas que les détenus refusent de travailler : il n'y a pas assez de postes. Environ 30 % des détenus travaillaient en 2022, contre 36 % au début des années 2000, et l'État vise 50 % sans y arriver. Le travail en prison est payé au minimum 20 à 45 % du SMIC. Il peut aider à la réinsertion, mais c'est l'offre d'emplois et de formation qu'il faut développer, pas une contrainte qu'on ne pourrait de toute façon pas appliquer.",
+  "contexte": "L'idée de « faire travailler les prisonniers » revient régulièrement, avec l'image de détenus oisifs entretenus par les contribuables. En France, le travail en détention est volontaire depuis 1987, et un contrat d'emploi pénitentiaire existe depuis le 1er mai 2022.",
+  "explication": "Il faut regarder combien de détenus travaillent, combien voudraient travailler, combien de postes existent, à quel salaire, et ce que la recherche dit de l'effet du travail sur la récidive.",
+  "faits": [
+    {
+      "fait": "La loi du 22 juin 1987 a mis fin à l'obligation de travail qui pesait sur les personnes détenues ; auparavant, les condamnés étaient « astreints au travail ».",
+      "periode": "1987",
+      "perimetre": "France",
+      "explication": "Le travail obligatoire a été abandonné il y a près de 40 ans ; le rétablir serait revenir en arrière.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministère de la Justice, environ 30 % des détenus travaillaient en 2022, et leur nombre baisse depuis une vingtaine d'années ; l'objectif officiel est d'au moins 50 %.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Si l'État n'atteint pas son propre objectif, c'est faute de postes, pas faute de candidats.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "30 %"
+    },
+    {
+      "fait": "Selon des économistes de l'université Paris Nanterre, à peine plus d'un quart des détenus ont accès à un travail, contre 36 % il y a vingt ans : le travail pénitentiaire est « sous-offert et sous-financé ».",
+      "periode": "2001-2021",
+      "perimetre": "France",
+      "explication": "Obliger à travailler n'a pas de sens quand il n'y a pas de travail à proposer.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "36 %"
+    },
+    {
+      "fait": "Selon le Contrôleur général des lieux de privation de liberté, l'insuffisance du nombre de postes et la faiblesse des rémunérations sont des constats anciens, et la relation de travail en prison souffre de « nombreux vides juridiques ».",
+      "periode": "2011-2017",
+      "perimetre": "France",
+      "explication": "Les détenus qui travaillent le font souvent dans des conditions éloignées du droit commun.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "La rémunération minimale d'un détenu est de 45 % du SMIC horaire pour la production, et de 20 à 33 % du SMIC pour le service général.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le travail en prison est déjà très peu payé ; il sert aussi à indemniser les victimes et à préparer la sortie.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "45 % du SMIC"
+    },
+    {
+      "fait": "Depuis le 1er mai 2022, un contrat d'emploi pénitentiaire encadre le recrutement, la période d'essai et les droits sociaux ; le travail reste volontaire.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La réforme récente a choisi de rapprocher le travail en prison du droit du travail, pas de le rendre forcé.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministère de la Justice, 43 % des détenus ont exercé une activité rémunérée, travail ou formation, entre début 2023 et mars 2026, contre 32 % début 2023.",
+      "periode": "2023-2026",
+      "perimetre": "France",
+      "explication": "Quand on crée des postes et des formations, les détenus les prennent.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "43 %"
+    },
+    {
+      "fait": "Fait défavorable : selon des études étrangères citées par des économistes, le travail en prison réduit la récidive (aux États-Unis, une récidive inférieure de 24 % chez ceux qui ont travaillé), alors qu'en France 59 % des sortants de prison sont recondamnés dans les cinq ans.",
+      "periode": "1997-2020",
+      "perimetre": "États-Unis, Italie, France",
+      "explication": "Faire travailler les détenus est une bonne idée ; ce qui pose problème, c'est l'obligation et le manque de postes.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "24 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le problème n'est pas que les détenus refusent de travailler : il manque des postes. Environ 30 % travaillaient en 2022, contre 36 % au début des années 2000, et l'État n'atteint pas son objectif de 50 %. Le travail en prison peut aider à ne pas récidiver : il faut en créer, pas l'imposer.",
+    "moyen": "L'obligation de travailler en prison a été supprimée en 1987. Depuis, le travail est volontaire, et la demande dépasse l'offre. Selon le ministère de la Justice, environ 30 % des détenus travaillaient en 2022, alors que l'objectif officiel est de 50 %. Le Contrôleur général des prisons dénonce depuis des années l'insuffisance des postes et la faiblesse des salaires : entre 20 et 45 % du SMIC.\n\nL'idée de fond n'est pourtant pas absurde : des études étrangères montrent que travailler en prison réduit la récidive. Mais on ne peut pas obliger quelqu'un à occuper un poste qui n'existe pas. Quand l'État crée des postes et des formations, les détenus les prennent : 43 % ont eu une activité rémunérée entre 2023 et 2026. La vraie réponse, c'est d'investir dans le travail et la formation en prison.",
+    "detaille": "Derrière cette phrase, il y a souvent l'image de détenus qui passent leurs journées à ne rien faire aux frais des contribuables. Elle repose sur un malentendu. Jusqu'en 1987, les condamnés étaient « astreints au travail ». La loi du 22 juin 1987 a supprimé cette obligation, et le travail en prison est devenu volontaire. Depuis le 1er mai 2022, un contrat d'emploi pénitentiaire encadre le recrutement, la période d'essai et les droits sociaux.\n\nLe vrai problème, c'est le manque de postes. Selon le ministère de la Justice, environ 30 % des détenus travaillaient en 2022, et leur nombre baisse depuis une vingtaine d'années. Des économistes de l'université Paris Nanterre estiment que le travail pénitentiaire est sous-offert et sous-financé : à peine plus d'un quart des détenus y ont accès, contre 36 % au début des années 2000. Le Contrôleur général des prisons dénonce depuis 2011 l'insuffisance des postes, la faiblesse des salaires et les vides juridiques. Le salaire minimum va de 20 à 45 % du SMIC.\n\nPourtant, travailler en prison est utile. Aux États-Unis, les anciens détenus qui ont travaillé récidivent moins ; en Italie aussi, en moyenne. En France, 59 % des sortants de prison sont recondamnés dans les cinq ans : il y a urgence à préparer la sortie. Mais une obligation ne créerait aucun poste. Quand l'État développe les ateliers et les formations, les détenus s'en saisissent : 43 % ont eu une activité rémunérée entre 2023 et 2026. Ce qu'il faut, ce sont des postes, des formations et un salaire digne, pas des travaux forcés.",
+    "empathie": "On comprend l'idée : que la prison serve à quelque chose, que les détenus préparent leur sortie et ne restent pas à ne rien faire. C'est aussi ce que demandent beaucoup de détenus eux-mêmes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils sont nourris et logés à nos frais, ils peuvent bien travailler.",
+      "reponse": "La plupart des détenus qui le demandent n'obtiennent pas de poste : il n'y en a pas assez. Et ceux qui travaillent sont payés entre 20 et 45 % du SMIC, une partie servant à indemniser les victimes."
+    },
+    {
+      "objection": "Avant, ils travaillaient, et ça marchait.",
+      "reponse": "L'obligation existait jusqu'en 1987. Aujourd'hui, le problème est l'offre : l'État n'atteint pas son propre objectif de 50 % de détenus au travail."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la plupart des détenus qui veulent travailler n'obtiennent pas de poste ?",
+    "Comment obliger quelqu'un à travailler s'il n'y a pas de travail à lui donner ?",
+    "Si le travail réduit la récidive, pourquoi ne pas investir pour créer des postes en prison ?"
+  ],
+  "limites": [
+    "Le nombre de détenus qui demandent un travail sans l'obtenir n'est pas donné par les sources consultées ; l'insuffisance de l'offre repose sur les constats du CGLPL, du ministère et des chercheurs.",
+    "Les données du CGLPL datent de 2014 et le document de travail universitaire de 2021.",
+    "Il n'existe pas d'étude française sur l'effet du travail en prison sur la récidive ; les résultats cités viennent des États-Unis et d'Italie.",
+    "Le chiffre de 43 % du ministère cumule des activités sur trois ans et inclut la formation ; il n'est pas comparable aux 30 % de 2022."
+  ],
+  "sources": [
+    {
+      "titre": "Commentaire de la décision n° 2015-485 QPC du 25 septembre 2015 (travail des personnes détenues)",
+      "organisme": "Conseil constitutionnel",
+      "date_publication": "septembre 2015",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/ccqpc-drupal-prd/dqpc/commentaire/commentaire_D%C3%A9cision-n%C2%B0-2015-485-QPC-du-25-septembre-2015.pdf",
+      "passage": "Avant 1987, l'article 720 du code de procédure pénale prévoyait que les condamnés « sont astreints au travail ». La loi n° 87-432 du 22 juin 1987 « a mis un terme à l'obligation de travail qui pesait sur les personnes détenues » et a précisé que leurs relations de travail ne font pas l'objet d'un contrat de travail. Rémunération minimale (art. D. 432-1) : 45 % du SMIC pour la production, 33 %, 25 % ou 20 % pour le service général selon la classe.",
+      "pertinence": "Document officiel du Conseil constitutionnel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le travail en détention (grand dossier)",
+      "organisme": "Ministère de la Justice",
+      "date_publication": "12 mai 2023 (mis à jour le 3 février 2025)",
+      "url": "https://www.justice.gouv.fr/grands-dossiers/travail-detention",
+      "passage": "« En 2022, leur nombre était d'environ 30 % » ; « Depuis une vingtaine d'années, on constate une baisse du nombre de détenus travailleurs ». Objectif : « 50% au moins des personnes détenues ». Le contrat d'emploi pénitentiaire, « Instauré le 1er mai 2022 », prévoit recrutement, période d'essai, droits sociaux et formation. Le travail en prison est volontaire. Rémunération minimale : 45 % du SMIC horaire brut pour la production ; 33 %, 25 % ou 20 % pour le service général. Les cotisations patronales retraite et chômage sont prises en charge par l'État. Le ministère affirme, sans chiffre, que les personnes ayant travaillé en détention récidivent moins.",
+      "pertinence": "Site officiel du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 13928 « Détention et professionnalisation » et réponse du ministère de la Justice",
+      "organisme": "Assemblée nationale (question de Sylvain Berrios, réponse du ministère de la Justice)",
+      "date_publication": "question du 31 mars 2026, réponse du 9 juin 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE13928",
+      "passage": "Le député relève que seules 31 % des personnes détenues exercent une activité rémunérée, pour un objectif gouvernemental de 50 %. Réponse : en mars 2026, 43 % des personnes détenues ont exercé une activité rémunérée depuis début 2023, contre 32 % début 2023 (31 % au titre du travail pénitentiaire, 12 % au titre de la formation professionnelle) ; seuil minimal de 45 % du SMIC pour les entreprises ; 90 nouveaux partenaires économiques depuis début 2023 ; 56 ateliers en régie, 51 structures d'insertion par l'activité économique et 9 entreprises adaptées en détention.",
+      "pertinence": "Réponse officielle du gouvernement publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Économie du travail en prison : enjeux, résultats et recommandations (document de travail EconomiX 2021-26)",
+      "organisme": "Benjamin Monnery, Anna Montagutelli, Saïd Souam (Université Paris Nanterre, EconomiX)",
+      "date_publication": "septembre 2021",
+      "url": "https://economix.fr/pdf/dt/2021/WP_EcoX_2021-26.pdf?1.0",
+      "passage": "Le travail pénitentiaire est sous-offert et sous-financé : « à peine plus d'un quart des détenus ont aujourd'hui accès à un travail en France, contre 36% il y a vingt ans » (environ 20 000 travailleurs pour 71 000 détenus en 2017). Il n'existe aucune analyse empirique française de l'effet du travail en prison sur la réinsertion, faute de données. À l'étranger : en Italie, le travail réduit la réincarcération d'environ 3 points à trois ans (mais l'augmente pour les peines de six mois ou moins) ; aux États-Unis, les anciens détenus ayant travaillé ont une récidive inférieure de 24 % huit à douze ans après. En France, 59 % des sortants de prison sont recondamnés dans les cinq ans (Kensey et Benaouda, 2011).",
+      "pertinence": "Document de travail universitaire (non publié dans une revue à cette date).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Avis relatif au travail et à la formation professionnelle dans les établissements pénitentiaires",
+      "organisme": "Contrôleur général des lieux de privation de liberté (CGLPL, autorité administrative indépendante)",
+      "date_publication": "publié au Journal officiel le 9 février 2017",
+      "url": "https://www.cglpl.fr/publications/avis-relatif-au-travail-et-a-la-formation-professionnelle-dans-les-etablissements-penitentiaires",
+      "passage": "Au 1er janvier 2014, « seules 23 423 personnes détenues ont accédé chaque mois à une activité rémunérée », sur 67 075 détenus. Le CGLPL constate toujours l'« insuffisance du nombre de postes proposés » et la « faiblesse des rémunérations » ; la relation de travail « souffre encore aujourd'hui de nombreux vides juridiques ». Il juge « indispensable de garantir au travail pénitentiaire un encadrement suffisamment protecteur des droits des travailleurs ».",
+      "pertinence": "Avis de l'autorité indépendante de contrôle des prisons ; données de 2014.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveaux chiffres du ministère de la Justice sur le travail pénitentiaire.",
+  "objections_legitimes": [
+    "Travailler en prison peut aider à la réinsertion et réduire la récidive, selon plusieurs études étrangères.",
+    "La récidive des sortants de prison est élevée en France.",
+    "Il est légitime que les détenus contribuent à indemniser leurs victimes."
+  ],
+  "publics": {
+    "convaincus": "Le problème, ce n'est pas qu'ils refusent de travailler : c'est qu'il n'y a pas de postes. L'État lui-même vise 50 % de détenus au travail et plafonne autour de 30 %. Si tu veux que les prisonniers travaillent, il faut créer des ateliers et des formations, pas une obligation sans rien derrière.",
+    "indecis": "Vouloir que la prison prépare la sortie est légitime, et le travail peut réduire la récidive. Mais l'obligation a été supprimée en 1987, et aujourd'hui les postes manquent : environ 30 % des détenus travaillaient en 2022. Développer l'offre de travail et de formation serait bien plus efficace qu'une contrainte."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "emancipation"
+    ],
+    "mecanismes": "L’image du détenu oisif masque la pénurie de postes et les très bas salaires du travail pénitentiaire, que l’État ne parvient pas à développer.",
+    "consequences": "Des détenus qui voudraient travailler, se former ou indemniser leurs victimes n’en ont pas la possibilité, et sortent de prison sans rien pour se réinsérer.",
+    "democratie": "Le travail forcé a été abandonné parce qu’il contredit l’idée que la peine prive de liberté, pas de dignité ni de droits.",
+    "propositions": [
+      "Créer massivement des ateliers et des formations qualifiantes en détention.",
+      "Rapprocher le travail pénitentiaire du droit commun, avec un salaire digne et des droits sociaux complets.",
+      "Accompagner la sortie de prison pour que l’expérience acquise débouche sur un emploi."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des études étrangères montrent que travailler en prison réduit la récidive.",
+        "integration": "Reconnaître que le travail en prison est utile, et en tirer la conclusion qu’il faut créer des postes et des formations plutôt qu’imposer une obligation."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "prison"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "taule",
+    "zonzon",
+    "barreaux"
+  ]
+}

@@ -229,12 +229,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "transferts_argent",
-    "salaires",
-    "origine"
-  ],
   "repond_a": [
     {
       "id": "transferts_argent_q2013",
@@ -275,5 +269,11 @@
     "smic",
     "dumping",
     "baisser les salaires"
+  ],
+  "concepts": [
+    "immigration",
+    "transferts_argent",
+    "salaires",
+    "origine"
   ]
 }

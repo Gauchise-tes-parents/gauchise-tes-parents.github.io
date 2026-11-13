@@ -1,0 +1,298 @@
+{
+  "id": "gauche-propriete-privee",
+  "type": "idee_recue",
+  "affirmation": "La gauche veut supprimer la propriété privée et prendre vos maisons.",
+  "volet": "politique",
+  "sous_theme": "Programmes électoraux",
+  "rubriques": [],
+  "mots_cles": [
+    "gauche propriete privee",
+    "supprimer la propriete",
+    "prendre vos maisons",
+    "lfi maison",
+    "requisition des logements",
+    "heritage maximum",
+    "melenchon heritage",
+    "nfp proprietaires",
+    "confisquer les maisons",
+    "expropriation"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Ni le programme du Nouveau Front populaire de 2024 ni celui de LFI pour 2027 ne suppriment la propriété privée ou ne visent la résidence principale des ménages. Ils proposent de réquisitionner des logements vides, d'exonérer les héritages de moins de 150 000 euros et de plafonner les très gros héritages. Le droit de propriété est protégé par la Déclaration de 1789, et la réquisition existe depuis une ordonnance de 1945 prise sous de Gaulle. Mais LFI propose bien des mesures fortes : un héritage maximal de 12 millions d'euros et un plafond de cinq logements transmissibles par héritage.",
+  "contexte": "À chaque élection, l'idée que la gauche viendrait « prendre les maisons » des Français revient, souvent à partir de mesures sur l'héritage ou la réquisition de logements vides. Or plus de la moitié des ménages sont propriétaires de leur logement.",
+  "explication": "Il faut lire ce que proposent réellement les programmes, distinguer résidence principale, logements vides et très gros patrimoines, et rappeler ce que dit déjà le droit.",
+  "faits": [
+    {
+      "fait": "Le programme du Nouveau Front populaire de 2024 prévoit la « réquisition des logements vides nécessaires pour loger les sans-abris » et ne mentionne ni expropriation ni saisie de résidences principales ; il propose aussi le prêt à taux zéro pour tous les primo-accédants.",
+      "periode": "2024",
+      "perimetre": "Programme du NFP",
+      "explication": "La réquisition proposée vise des logements vides, pas les maisons où vivent les gens.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le programme de LFI pour 2027 propose d'exonérer de droits de succession les héritages inférieurs à 150 000 euros et de « créer un héritage maximal de 12 millions d'euros ».",
+      "periode": "2026",
+      "perimetre": "Programme L’Avenir en commun",
+      "explication": "La mesure épargne les petits héritages et ne touche que des fortunes exceptionnelles.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "12 M€"
+    },
+    {
+      "fait": "Fait défavorable : le plan logement de LFI propose un « plafond de cinq logements transmissibles par héritage », les logements au-delà étant réquisitionnés par l'État pour le parc social et l'accession à la propriété ; le document ne précise pas le sort de la résidence principale dans ce plafond.",
+      "periode": "2026",
+      "perimetre": "Programme L’Avenir en commun",
+      "explication": "C'est une mesure forte de redistribution du patrimoine immobilier, à assumer et à expliquer ; elle ne concerne pas les familles qui transmettent une ou deux maisons.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Insee, en 2022, 65 % des propriétaires possèdent un seul logement, et seulement 4 % en possèdent cinq ou plus ; ces derniers détiennent environ un cinquième des logements des particuliers.",
+      "periode": "2022",
+      "perimetre": "France hors Mayotte",
+      "explication": "Le plafond de cinq logements viserait une petite minorité de très gros propriétaires, pas la grande majorité des familles.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "4 %"
+    },
+    {
+      "fait": "En 2020, 58 % des ménages de France métropolitaine sont propriétaires de leur résidence principale, selon l'Insee.",
+      "periode": "2020",
+      "perimetre": "France métropolitaine",
+      "explication": "La propriété du logement est majoritaire : aucun programme de gauche ne propose de la remettre en cause.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "58 %"
+    },
+    {
+      "fait": "La réquisition des logements vacants existe depuis l'ordonnance du 11 octobre 1945, prise sous le général de Gaulle et codifiée dans le code de la construction ; selon le ministère du Logement en 2010, c'est une procédure « très marginale », dont la dernière campagne date de 2001.",
+      "periode": "1945-2010",
+      "perimetre": "France",
+      "explication": "La réquisition n'est pas une invention de LFI : c'est une loi existante, rarement utilisée.",
+      "source": 7,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'article 17 de la Déclaration de 1789 fait de la propriété « un droit inviolable et sacré » dont nul ne peut être privé, sauf nécessité publique légalement constatée et « sous la condition d'une juste et préalable indemnité ».",
+      "periode": "1789",
+      "perimetre": "France",
+      "explication": "Même un gouvernement de gauche serait tenu par ce texte, qui a valeur constitutionnelle.",
+      "source": 9,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le programme de LFI parle de « nouveau collectivisme » pour l'eau, l'air et des secteurs stratégiques, mais ne prévoit pas de supprimer la propriété privée des particuliers.",
+      "periode": "2026",
+      "perimetre": "Programme L’Avenir en commun",
+      "explication": "Le mot fait peur, mais il porte sur des biens communs et de grandes entreprises, pas sur les biens personnels.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Aucun programme de gauche ne supprime la propriété privée ni ne vise la résidence principale. LFI propose d'exonérer les héritages de moins de 150 000 euros et de plafonner les héritages au-delà de 12 millions. La réquisition vise des logements vides, et elle existe depuis une ordonnance de 1945 prise sous de Gaulle.",
+    "moyen": "Les programmes ne disent pas ce qu'on leur prête. Le Nouveau Front populaire voulait réquisitionner des logements vides pour les sans-abri, pas les maisons habitées. LFI propose pour 2027 d'exonérer les héritages de moins de 150 000 euros et de créer un héritage maximal de 12 millions d'euros. Les biens des particuliers ne sont pas visés.\n\nIl faut être honnête : LFI propose aussi de plafonner à cinq le nombre de logements transmissibles par héritage, le surplus étant réquisitionné. Mais selon l'Insee, 65 % des propriétaires n'ont qu'un logement et seulement 4 % en ont cinq ou plus. La propriété reste protégée par la Déclaration de 1789, qui impose une juste indemnité en cas de privation.",
+    "detaille": "Plus de la moitié des ménages sont propriétaires de leur résidence principale : 58 % en 2020 selon l'Insee. Aucun programme de gauche ne propose d'y toucher. Le programme du Nouveau Front populaire de 2024 prévoyait de réquisitionner des logements vides pour loger les sans-abri et d'ouvrir le prêt à taux zéro à tous les primo-accédants. Il ne parlait ni d'expropriation ni de saisie de résidences principales.\n\nLe programme de LFI pour 2027 vise les très gros patrimoines. Il exonère de droits de succession les héritages de moins de 150 000 euros et crée un héritage maximal de 12 millions d'euros. Son plan logement va plus loin : il propose un plafond de cinq logements transmissibles par héritage, les logements au-delà étant réquisitionnés pour le parc social et l'accession à la propriété. C'est une mesure forte, qu'on peut discuter. Mais selon l'Insee, 65 % des propriétaires possèdent un seul logement, et 4 % seulement en possèdent cinq ou plus.\n\nEnfin, la réquisition n'est pas une nouveauté révolutionnaire : elle existe depuis une ordonnance du 11 octobre 1945, prise sous le général de Gaulle, et elle est très peu utilisée. Et le droit de propriété est protégé par l'article 17 de la Déclaration de 1789 : nul ne peut en être privé sans nécessité publique et sans « juste et préalable indemnité ». Le vrai débat porte sur la concentration du patrimoine entre quelques mains, pas sur la maison de la famille.",
+    "empathie": "Sa maison, c'est souvent le travail de toute une vie et ce qu'on veut transmettre à ses enfants. La peur de la perdre est profonde et respectable, et elle mérite des réponses précises."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Panot a dit qu'ils prendraient tout au-dessus de 12 millions.",
+      "reponse": "Oui, sur les héritages de plus de 12 millions d'euros. Ça concerne des fortunes exceptionnelles, pas la maison de tes parents, et les héritages de moins de 150 000 euros seraient même exonérés."
+    },
+    {
+      "objection": "Ils vont réquisitionner les maisons.",
+      "reponse": "La réquisition vise les logements vides, et elle existe depuis 1945, sous de Gaulle. Le plafond de LFI concerne les héritages de plus de cinq logements : 4 % des propriétaires en possèdent autant."
+    }
+  ],
+  "questions": [
+    "Combien de logements tes parents ou toi possédez-vous : plus de cinq ?",
+    "Sais-tu qui a créé la loi de réquisition des logements vides ?"
+  ],
+  "limites": [
+    "Le plan logement de LFI ne précise pas le traitement de la résidence principale ni les modalités de la réquisition au-delà de cinq logements.",
+    "Les chiffres de l'Insee sur la propriété datent de 2020 et 2022 ; ceux sur les multipropriétaires sont comptés en personnes, pas en ménages.",
+    "L'article L. 641-1 du code de la construction n'a pas pu être lu directement sur Légifrance ; il est décrit à travers une réponse ministérielle et la presse spécialisée.",
+    "Le nombre de personnes concernées par l'héritage maximal de 12 millions d'euros n'a pas été trouvé dans une source fiable."
+  ],
+  "sources": [
+    {
+      "titre": "Chapitre 2 : Partager les richesses (programme L'Avenir en commun, partie « Une économie au service des besoins »)",
+      "organisme": "La France insoumise — site de campagne Mélenchon 2027 (source partisane)",
+      "date_publication": "page mise à jour le 7 novembre 2026",
+      "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+      "passage": "Le programme veut « augmenter les droits de succession sur les plus hauts patrimoines » en comptant « l'ensemble des dons et héritages reçus tout au long de la vie », et « créer un héritage maximal de 12 millions d'euros ». Les héritages inférieurs à 150 000 euros seraient exonérés de droits de succession. Il prévoit aussi de rétablir l'ISF avec un volet climatique, une « garantie d'impôt de 2 % sur le patrimoine des centimillionaires » et une exit tax renforcée. Le chapitre ne mentionne ni la résidence principale ni la réquisition de logements.",
+      "pertinence": "Programme d'un parti politique, utilisé pour savoir ce qui est réellement proposé.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Chapitre 1 : L'ère d'un nouveau collectivisme (programme L'Avenir en commun, partie « Une économie au service des besoins »)",
+      "organisme": "La France insoumise — site de campagne Mélenchon 2027 (source partisane)",
+      "date_publication": "page mise à jour le 7 novembre 2026",
+      "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre1",
+      "passage": "Le terme « nouveau collectivisme » figure dans le titre sans être défini. « L'eau et l'air, qui permettent la vie, doivent être collectivisés » ; « C'est au peuple de contrôler démocratiquement leurs usages ». Le texte oppose « la production aveugle » à « la production planifiée ». Mesures : « Empêcher le droit de propriété privée de prévaloir sur la protection de l'eau » (et de l'alimentation, du vivant, de la forêt, de la santé, de l'énergie), « Constituer des pôles publics dans les secteurs stratégiques », « Revenir sur les privatisations ». Le chapitre ne prévoit pas de supprimer la propriété privée des particuliers et ne parle pas du logement.",
+      "pertinence": "Programme d'un parti politique, utilisé pour savoir ce qui est réellement proposé.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Plan d'investissement productif BTP/Logement 01 (édition 2027)",
+      "organisme": "La France insoumise — site de campagne Mélenchon 2027 (source partisane)",
+      "date_publication": "septembre 2026",
+      "url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf",
+      "passage": "Le plan prévoit d'« Utiliser la loi de réquisition des logements vides » ; de « Limiter la concentration immobilière en instaurant un plafond de cinq logements transmissibles par héritage », les biens au-delà étant réquisitionnés par l'État puis redistribués vers le parc social et l'accession à la propriété ; de « Refonder la taxe foncière pour la rendre progressive » selon le patrimoine total ; une taxe progressive sur les logements vacants selon le nombre détenu ; de « Renforcer l'accession à la propriété non spéculative » (bail réel solidaire, prêts bonifiés) ; un encadrement des prix du foncier. Le document ne prévoit pas d'expropriation des résidences principales et ne précise pas leur traitement dans le plafond successoral.",
+      "pertinence": "Document programmatique d'un parti politique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Contrat de législature du Nouveau Front populaire",
+      "organisme": "Nouveau Front populaire — document publié par La France insoumise (source partisane)",
+      "date_publication": "juin 2024 (document non daté, publié pour les législatives des 30 juin et 7 juillet 2024)",
+      "url": "https://lafranceinsoumise.fr/wp-content/uploads/2024/06/PROGRAMME-FRONT-POPULAIRE.pdf",
+      "passage": "En urgence : « réquisition des logements vides nécessaires pour loger les sans-abris ». Dans les 100 premiers jours : « Réformer l'impôt sur l'héritage pour le rendre plus progressif » et « instaurer un héritage maximum », la réforme ciblant « les plus hauts patrimoines » ; « Rétablir un impôt de solidarité sur la fortune (ISF) renforcé avec un volet climatique ». Ensuite : construire 200 000 logements publics par an, « La garantie universelle des loyers pour sécuriser les propriétaires et les locataires », « L'ouverture du prêt à taux zéro à tous les ménages primo-accédants ». Le document ne mentionne ni expropriation ni saisie de résidences principales.",
+      "pertinence": "Programme d'une coalition de partis, utilisé pour savoir ce qui est réellement proposé.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?",
+      "organisme": "Anne-Charlotte Dusseaulx, LCP (La Chaîne parlementaire)",
+      "date_publication": "27 août 2026",
+      "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+      "passage": "La députée LFI Mathilde Panot veut « prendre tout » au-dessus d'un seuil de 12 millions d'euros d'héritage. Le RN veut supprimer l'impôt sur les héritages directs pour les familles modestes et la classe moyenne, et exclure de l'assiette les biens immobiliers à hauteur de « 300.000 euros ». LFI veut taxer fortement les très gros héritages, tandis que le RN veut alléger ou supprimer l'impôt pour la majorité des héritiers ; Bruno Retailleau veut baisser les droits de succession.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Logement (France, portrait social, édition 2025)",
+      "organisme": "Insee (Insee Références)",
+      "date_publication": "18 novembre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8612550",
+      "passage": "En 2020, 58 % des ménages de logements ordinaires de France métropolitaine sont propriétaires de leur résidence principale et 40 % sont locataires (23 % dans le secteur libre, 17 % dans le secteur social). Les propriétaires accédants, qui remboursent encore un emprunt, représentent 21,5 % des ménages, les propriétaires non accédants 36,2 %.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Un tiers des propriétaires possède deux logements ou plus (Insee Première n° 2046)",
+      "organisme": "Insee",
+      "date_publication": "2 avril 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8538622",
+      "passage": "Données 2022, France hors Mayotte, en personnes. Sur 27 623 800 propriétaires, 65,0 % possèdent un seul logement. 971 500 personnes possèdent 5 à 9 logements (3,5 %) et 246 600 en possèdent 10 ou plus (0,9 %) : « ces dernières ne représentent que 4 % des propriétaires ». Elles détiennent respectivement 14,2 % et 7,4 % des logements du parc des particuliers.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 42962 sur la réquisition des logements vacants et réponse du ministère du Logement et de l'urbanisme",
+      "organisme": "Assemblée nationale (Journal officiel, réponse ministérielle)",
+      "date_publication": "question du 24 février 2009, réponse du 16 février 2010",
+      "url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE42962.pdf",
+      "passage": "La procédure de réquisition découle de l'ordonnance n° 45-2394 du 11 octobre 1945, codifiée à l'article L. 641-1 du code de la construction et de l'habitation ; elle s'applique dans les villes où sévit une « grave crise du logement ». Selon le ministère, elle exige des délais « relativement longs » et « Cette procédure reste une solution très marginale. » « La dernière campagne de réquisition en date de 2001 n'a pas donné de résultats significatifs. »",
+      "pertinence": "Document parlementaire officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La réquisition de logements vides, une solution uniquement d'urgence",
+      "organisme": "Batiweb (presse spécialisée du bâtiment)",
+      "date_publication": "5 septembre 2005 (mis à jour le 30 avril 2025)",
+      "url": "https://www.batiweb.com/actualites/legislation/la-requisition-de-logements-vides-une-solution-uniquement-d-urgence-4130",
+      "passage": "L'ordonnance du 11 octobre 1945, prise sous le général de Gaulle face au manque de logements, permet à l'État, « après avis des maires », de réquisitionner « dans toutes les communes où sévit une crise du logement » des « locaux à usage d'habitation vacants, inoccupés ou insuffisamment occupés », pour « un an renouvelable ». La loi de juillet 1998 contre l'exclusion permet aux préfets de réquisitionner des locaux d'entreprises vacants depuis plus de 18 mois, pour un à six ans. Le dispositif a été utilisé dans les années 1950 et 1960, puis est tombé en désuétude.",
+      "pertinence": "Presse spécialisée.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La Déclaration des droits de l'homme et du citoyen",
+      "organisme": "Présidence de la République (site public elysee.fr)",
+      "date_publication": "page consultée le 13 novembre 2026",
+      "url": "https://www.elysee.fr/la-presidence/la-declaration-des-droits-de-l-homme-et-du-citoyen",
+      "passage": "Article 2 : les droits naturels et imprescriptibles de l'homme « sont la liberté, la propriété, la sûreté et la résistance à l'oppression ». Article 17 : « La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité. »",
+      "pertinence": "Texte constitutionnel (bloc de constitutionnalité) reproduit par la présidence.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Programmes définitifs pour la présidentielle de 2027 et nouvelles données de l'Insee.",
+  "objections_legitimes": [
+    "LFI propose réellement de plafonner les très gros héritages et le nombre de logements transmissibles.",
+    "Le plan logement de LFI ne précise pas comment la résidence principale serait traitée dans le plafond de cinq logements.",
+    "Une taxe foncière progressive selon le patrimoine total peut inquiéter les propriétaires de plusieurs biens."
+  ],
+  "publics": {
+    "convaincus": "Montre-moi la ligne du programme qui prend les maisons : elle n'existe pas. LFI exonère les héritages de moins de 150 000 euros et vise ceux de plus de 12 millions, ou plus de cinq logements, ce qui concerne 4 % des propriétaires. Et la réquisition des logements vides, c'est une loi de 1945 signée sous de Gaulle.",
+    "indecis": "C'est normal de vouloir protéger sa maison et ce qu'on transmet. Les programmes de gauche ne touchent pas à la résidence principale : ils visent les logements vides et les très gros patrimoines. LFI propose des mesures fortes sur l'héritage, qu'on peut discuter, mais elles concernent une petite minorité de grands propriétaires."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "solidarite",
+      "vulnerables"
+    ],
+    "mecanismes": "Agiter la peur de perdre sa maison permet de défendre les très grands patrimoines en se cachant derrière les petits propriétaires, alors que les mesures visent les logements vides et les héritages exceptionnels.",
+    "consequences": "Pendant que des logements restent vides et que le patrimoine se concentre entre quelques mains, des familles s’entassent dans des logements trop petits et des personnes dorment à la rue.",
+    "democratie": "Le droit de propriété est protégé par la Déclaration des droits de l’homme ; le débat démocratique porte sur la façon d’éviter que la propriété de quelques-uns empêche le logement de tous.",
+    "propositions": [
+      "Appliquer la loi de réquisition des logements vides en zone tendue pour loger les sans-abri.",
+      "Exonérer les petits héritages et taxer plus fortement les très grosses successions.",
+      "Faciliter l’accession à la propriété des ménages modestes par des prêts publics et le bail réel solidaire."
+    ],
+    "defavorables": [
+      {
+        "fait": "LFI propose réellement de plafonner les très gros héritages et le nombre de logements transmissibles, les logements au-delà étant réquisitionnés.",
+        "integration": "Il faut le dire franchement et préciser à qui cela s’applique : une petite minorité de très grands propriétaires, pas la maison familiale."
+      }
+    ]
+  },
+  "concepts": [
+    "logement",
+    "melenchon_lfi",
+    "gauche",
+    "heritage",
+    "nfp_2024",
+    "propriete_privee"
+  ],
+  "repond_a": [
+    {
+      "id": "propriete_privee_q0614",
+      "label": "Propriété privée"
+    },
+    {
+      "id": "gauche_q0614_propriete_privee",
+      "label": "Propriété privée"
+    },
+    {
+      "id": "melenchon_lfi_q0614_propriete_privee",
+      "label": "Propriété privée"
+    },
+    {
+      "id": "logement_q0614_propriete_privee",
+      "label": "Propriété privée"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier",
+    "sdf",
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise"
+  ]
+}

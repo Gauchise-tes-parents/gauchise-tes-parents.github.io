@@ -1,0 +1,234 @@
+{
+  "id": "voitures-electriques-incendies",
+  "type": "idee_recue",
+  "affirmation": "Les voitures électriques prennent feu beaucoup plus souvent que les autres.",
+  "volet": "ecologie",
+  "sous_theme": "Transports",
+  "rubriques": [],
+  "mots_cles": [
+    "voiture electrique incendie",
+    "voiture electrique prend feu",
+    "batterie lithium feu",
+    "tesla en feu",
+    "incendie parking voiture electrique",
+    "feu de batterie",
+    "vehicule electrique dangereux",
+    "electrique explose"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Les données des pays où les voitures électriques sont nombreuses montrent l'inverse : en Suède et en Norvège, elles prennent feu environ cinq fois moins souvent que les voitures essence ou diesel, et le ministère de la Transition écologique cite des écarts de dix à vingt fois. Mais quand une batterie prend feu, l'incendie est réellement plus difficile à éteindre, peut reprendre des jours après et dégage des gaz toxiques, notamment dans les parkings.",
+  "contexte": "Les images spectaculaires de voitures ou de bus électriques en feu circulent beaucoup sur les réseaux sociaux et alimentent l'idée que ces véhicules seraient des « bombes roulantes ».",
+  "explication": "Il faut rapporter le nombre d'incendies au nombre de véhicules en circulation, avec les statistiques des pays scandinaves où le parc électrique est important, puis distinguer la fréquence des incendies de leur difficulté d'extinction.",
+  "faits": [
+    {
+      "fait": "Selon les chiffres de l'agence suédoise MSB cités par le ministère de la Transition écologique, on a compté en 2022 3,8 incendies pour 100 000 voitures électriques ou hybrides, contre 68 pour 100 000 véhicules toutes motorisations confondues.",
+      "periode": "2022",
+      "perimetre": "Suède",
+      "explication": "Rapporté au nombre de véhicules, les voitures électriques brûlent beaucoup moins souvent.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "3,8 / 100 000"
+    },
+    {
+      "fait": "Selon l'Agence internationale de l'énergie, en Norvège en 2023, les voitures essence et diesel ont pris feu quatre à cinq fois plus souvent que les voitures 100 % électriques.",
+      "periode": "2023",
+      "perimetre": "Norvège",
+      "explication": "Le pays où les voitures électriques sont les plus nombreuses ne constate pas de sur-risque, au contraire.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Agence internationale de l'énergie, en Suède, 0,01 % des voitures 100 % électriques ont connu un incendie en 2024, plus de cinq fois moins que la moyenne de toutes les motorisations.",
+      "periode": "2024",
+      "perimetre": "Suède",
+      "explication": "Les données les plus récentes confirment l'écart.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "0,01 %"
+    },
+    {
+      "fait": "Selon Science Feedback, environ un quart seulement des incendies de véhicules électriques concernent la batterie ; aux Pays-Bas en 2023, 31 incendies sur 136 à cause connue.",
+      "periode": "2023",
+      "perimetre": "Pays-Bas",
+      "explication": "Beaucoup de feux de voitures électriques ont d'autres causes, comme pour les voitures thermiques.",
+      "source": 2,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Ineris, éteindre un feu de batterie peut demander plus de 30 m3 d'eau, avec un risque élevé de reprise des heures, des jours voire des semaines plus tard.",
+      "periode": "2024",
+      "perimetre": "Essais et retours d’expérience",
+      "explication": "Quand elle survient, la combustion d'une batterie pose de vrais problèmes aux pompiers.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "30 m3"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Ineris, les essais ont mesuré davantage d'acide fluorhydrique (HF) dans les fumées des véhicules électriques, et les espaces confinés comme les parkings aggravent les dangers.",
+      "periode": "2024",
+      "perimetre": "Essais",
+      "explication": "Il faut adapter les parkings souterrains et équiper les pompiers.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon la MSB citée par la presse suédoise, le nombre d'incendies de voitures électriques ou hybrides augmente avec le parc : 8 en 2018, 23 en 2022, 40 en 2024, mais moins vite que le nombre de ces voitures.",
+      "periode": "2018-2024",
+      "perimetre": "Suède",
+      "explication": "Plus il y a de voitures électriques, plus il y aura d'incendies en nombre absolu, et donc d'images spectaculaires.",
+      "source": 5,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon Science Feedback, le parc électrique est encore jeune et l'on ne sait pas comment le risque d'incendie évoluera avec l'âge des batteries.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "La comparaison favorable devra être vérifiée dans le temps.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est l'inverse : en Suède et en Norvège, les voitures électriques prennent feu environ cinq fois moins souvent que les voitures essence ou diesel. Mais quand une batterie brûle, c'est plus dur à éteindre : il faut beaucoup d'eau et le feu peut reprendre.",
+    "moyen": "Les pays où les voitures électriques sont nombreuses tiennent des statistiques précises. En Suède, en 2022, on comptait 3,8 incendies pour 100 000 voitures électriques ou hybrides, contre 68 pour 100 000 véhicules toutes motorisations. En Norvège, les voitures essence et diesel brûlent quatre à cinq fois plus souvent. Les images de voitures électriques en feu frappent parce qu'elles sont nouvelles, pas parce qu'elles sont fréquentes.\n\nEn revanche, il est vrai qu'un feu de batterie est difficile à maîtriser : selon l'Ineris, il peut falloir plus de 30 m3 d'eau, le feu peut reprendre des jours plus tard, et les fumées contiennent plus de gaz toxiques. C'est un vrai sujet pour les pompiers et les parkings souterrains, qui demande des moyens et des règles adaptées.",
+    "detaille": "Pour savoir si un véhicule prend feu plus souvent, il faut rapporter le nombre d'incendies au nombre de véhicules. La Suède et la Norvège, où les voitures électriques sont nombreuses, le font. En Suède, selon l'agence de protection civile MSB, on comptait en 2022 3,8 incendies pour 100 000 voitures électriques ou hybrides, contre 68 pour 100 000 véhicules toutes motorisations, incendies volontaires compris. En 2024, selon l'Agence internationale de l'énergie, 0,01 % des voitures 100 % électriques suédoises ont connu un incendie, plus de cinq fois moins que la moyenne. En Norvège, les voitures essence et diesel brûlent quatre à cinq fois plus souvent. Le ministère de la Transition écologique cite des études qui trouvent dix à vingt fois moins d'incendies.\n\nPourquoi l'impression inverse ? Parce que chaque incendie de voiture électrique fait l'actualité, alors qu'en Suède, par exemple, environ 3 400 voitures ont brûlé en 2022, dont seulement 23 électriques ou hybrides rechargeables, sans que la plupart fassent parler d'elles. Et seul un quart environ des feux de voitures électriques concerne la batterie.\n\nIl ne faut pas pour autant balayer le sujet. Quand une batterie entre en emballement thermique, elle produit sa propre chaleur et son propre oxygène : on ne peut pas l'étouffer. Selon l'Ineris, il peut falloir plus de 30 m3 d'eau, le feu peut reprendre des heures, des jours voire des semaines après, et les fumées contiennent davantage d'acide fluorhydrique. Dans les parkings souterrains, ces risques sont aggravés. Le parc électrique est encore jeune, et il faudra vérifier comment le risque évolue avec le vieillissement des batteries. La réponse est d'équiper et former les pompiers et d'adapter les parkings, pas de renoncer à l'électrique.",
+    "empathie": "Voir une voiture brûler, surtout dans un parking sous son immeuble, fait peur, et les vidéos d'incendies de batteries sont impressionnantes. Cette inquiétude est compréhensible et mérite des chiffres précis."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On voit tout le temps des voitures électriques en feu aux infos.",
+      "reponse": "Justement : on en parle parce que c'est nouveau. En Suède, environ 3 400 voitures ont brûlé en 2022, dont 23 électriques ou hybrides rechargeables. Rapporté au nombre de véhicules, l'électrique brûle environ cinq fois moins en Suède et en Norvège."
+    },
+    {
+      "objection": "Une batterie, une fois en feu, c'est impossible à éteindre.",
+      "reponse": "C'est plus difficile, c'est vrai : il faut beaucoup d'eau et surveiller les reprises. Mais les pompiers développent des techniques adaptées, comme l'injection d'eau dans la batterie, et c'est un problème de moyens, pas une fatalité."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de voitures essence ou diesel brûlent chaque année sans passer aux informations ?",
+    "Pour comparer, faut-il compter les incendies ou les rapporter au nombre de voitures en circulation ?"
+  ],
+  "limites": [
+    "Les statistiques nationales mélangent parfois voitures 100 % électriques et hybrides rechargeables, et comptent aussi les incendies volontaires et ceux qui ne partent pas de la voiture.",
+    "Le parc électrique est plus jeune que le parc thermique, ce qui peut favoriser la comparaison.",
+    "Les chiffres suédois de la MSB ont été lus à travers le ministère français et la presse suédoise, pas sur le site de la MSB ; les chiffres norvégiens à travers l'AIE et Science Feedback.",
+    "Aucune statistique française d'incendies par type de motorisation n'a été trouvée.",
+    "Le document du ministère n'est pas daté ; la date d'octobre 2025 est déduite du nom du fichier."
+  ],
+  "sources": [
+    {
+      "titre": "Vrai-Faux : Voitures électriques",
+      "organisme": "Ministère de la Transition écologique (Direction générale de l’énergie et du climat)",
+      "date_publication": "non datée (données jusqu’en septembre 2025 ; fichier mis en ligne en octobre 2025)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/03102025%20Vrai-Faux%20v%C3%A9hicules%20%C3%A9lectriques%20Vdef_0.pdf",
+      "passage": "« Les voitures électriques prennent plus souvent feu » : faux. « Les voitures électriques prennent feu beaucoup moins souvent que les voitures thermiques. » Les principales études, en Norvège et aux États-Unis, indiquent « 10 à 20 fois moins d'incendies par véhicules électriques que par véhicules thermiques ». Note : selon l'agence suédoise MSB (2022), « 3,8 incendies pour 100 000 véhicules électriques ou hybrides » contre « 68 incendies pour 100 000 véhicules toutes motorisations confondues », incendies volontaires compris.",
+      "pertinence": "Document pédagogique du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Global EV Outlook 2026 — Cutting through the noise : Are electric cars a fire risk?",
+      "organisme": "Agence internationale de l’énergie (AIE, organisation intergouvernementale)",
+      "date_publication": "2026",
+      "url": "https://iea.blob.core.windows.net/assets/711107e5-829e-4634-bbf5-a39da6184c33/Areelectriccarsafirerisk.pdf",
+      "passage": "En Norvège, en 2023, les voitures essence et diesel ont pris feu « four to five times more often than battery electric vehicles ». En Suède, « only 0.01% of BEVs experienced fire incidents in 2024 », soit plus de cinq fois moins que la moyenne de toutes les motorisations. Une batterie en emballement thermique produit chaleur, gaz inflammables et oxygène : on ne peut souvent pas l'étouffer, et le feu peut reprendre « hours or even days later ». Les batteries récentes résistent mieux à l'emballement thermique.",
+      "pertinence": "Rapport annuel de l'agence internationale de l'énergie.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Do electric vehicles catch fire more often?",
+      "organisme": "Science Feedback (organisme indépendant de vérification des faits scientifiques)",
+      "date_publication": "25 septembre 2025",
+      "url": "https://science.feedback.org/do-electric-vehicles-catch-fire-more-often/",
+      "passage": "En Norvège en 2024, une voiture 100 % électrique avait environ une chance sur 12 500 de prendre feu, contre une sur 2 500 pour les autres voitures, soit environ cinq fois moins. Aux Pays-Bas en 2023, sur 136 incendies de véhicules électriques à cause connue, 31 concernaient la batterie. Selon EV FireSafe, « Only about 25% of EV fires actually involve the battery pack ». Article relu par Greg Less, directeur du laboratoire des batteries de l'université du Michigan. Limites : parc électrique jeune, évolution du risque avec l'âge inconnue, hybrides rechargeables parfois inclus ; les feux de batterie exigent de refroidir les cellules, peuvent reprendre, et les pompiers manquent souvent d'équipement ou de formation.",
+      "pertinence": "Fact-checker scientifique indépendant.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Synthèse des travaux sur l'extinction des feux de batteries Li-ion de véhicules électriques",
+      "organisme": "Ineris (Institut national de l’environnement industriel et des risques, établissement public)",
+      "date_publication": "17 mai 2024",
+      "url": "https://www.ineris.fr/sites/default/files/contribution/Documents/212018-VERSION%20PUBLIC%20Op%20D2%20IDE-10-%20travaux%20sur%20l%27extinction%20des%20feux%20de%20batteries%20Li-ion%20v1.pdf",
+      "passage": "L'extinction est plus longue et demande beaucoup plus d'eau que pour un véhicule classique : « Un volume d'eau jusqu'à plus de 30 m3 peut être nécessaire pour éteindre l'incendie. » Il existe « un risque élevé de reprise de l'incendie », avec des reprises observées des heures, des jours voire des semaines plus tard. La couverture anti-feu « n'apporte pas de valeur ajoutée significative » une fois la batterie impliquée ; l'injection d'eau dans la batterie est la méthode la plus efficace. Lors des essais, « la teneur en HF était plus importante pour les véhicules électriques » ; les espaces confinés comme les parkings aggravent les dangers.",
+      "pertinence": "Rapport d'un établissement public d'expertise des risques.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Elbilsbränder är ovanliga, menar svensk myndighet",
+      "organisme": "Vi Bilägare (magazine automobile suédois), d’après un rapport de l’agence suédoise de protection civile MSB",
+      "date_publication": "9 mai 2023",
+      "url": "https://www.vibilagare.se/nyheter/elbilsbrander-ar-ovanliga-menar-svensk-myndighet",
+      "passage": "Selon la MSB, en 2022, environ 3 400 voitures ont brûlé en Suède, incendies volontaires compris, dont 23 voitures électriques ou hybrides rechargeables. Les incendies de ces véhicules sont passés de 8 en 2018 à 23 en 2022, alors que leur nombre passait de 156 331 à 610 716. La MSB ne voit pas de raison de juger un feu de voiture électrique plus dangereux qu'un autre ; la fumée de toute voiture en feu est toxique.",
+      "pertinence": "Presse spécialisée reprenant les données d'une agence publique suédoise.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nya siffror: färre bränder trots fler elbilar på vägarna",
+      "organisme": "Vi Bilägare (magazine automobile suédois), d’après les chiffres de la MSB",
+      "date_publication": "19 mai 2025",
+      "url": "https://www.vibilagare.se/nyheter/nya-siffror-farre-brander-trots-fler-elbilar-pa-vagarna",
+      "passage": "Selon la MSB, 40 incendies de voitures électriques ou hybrides en 2024, contre 38 en 2023, alors que le nombre de ces voitures en circulation a augmenté de 14 %. La MSB insiste sur l'importance de recharger les batteries de façon sûre.",
+      "pertinence": "Presse spécialisée reprenant les données d'une agence publique suédoise.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles statistiques nationales d'incendies de véhicules (MSB, DSB) et rapport annuel de l'AIE.",
+  "objections_legitimes": [
+    "Un feu de batterie est réellement plus difficile à éteindre et peut reprendre plusieurs jours après.",
+    "Les fumées d'un feu de batterie contiennent des gaz toxiques, ce qui pose problème dans les parkings fermés.",
+    "Le parc électrique est jeune, et l'effet du vieillissement des batteries sur le risque reste à mesurer."
+  ],
+  "publics": {
+    "convaincus": "En Suède et en Norvège, où il y a beaucoup de voitures électriques, on compte les incendies : les voitures essence et diesel brûlent environ cinq fois plus souvent. Ce qui est vrai, c'est qu'un feu de batterie est plus dur à éteindre. Mais ça, c'est une question de moyens pour les pompiers, pas une raison de croire qu'elles s'enflamment toutes seules.",
+    "indecis": "Ta crainte se comprend, les images sont impressionnantes. Mais rapporté au nombre de voitures, l'électrique prend feu moins souvent que le thermique selon les données suédoises et norvégiennes. Le vrai point de vigilance, c'est l'extinction quand ça arrive, notamment dans les parkings, et ça se règle par des équipements et des règles adaptées."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "vulnerables",
+      "democratie"
+    ],
+    "mecanismes": "Un événement rare mais spectaculaire est filmé, partagé et répété jusqu’à paraître fréquent, alors que les incendies de voitures thermiques, bien plus nombreux rapportés au parc, passent inaperçus.",
+    "consequences": "La peur détourne des ménages d’un mode de transport moins polluant, et le vrai sujet, les moyens des pompiers et la sécurité des parkings, est oublié.",
+    "democratie": "Débattre de la transition à partir de vidéos virales plutôt que de statistiques publiques empêche de régler les problèmes réels.",
+    "propositions": [
+      "Donner aux services d’incendie et de secours les équipements et la formation adaptés aux feux de batteries.",
+      "Fixer des règles de sécurité publiques pour les bornes de recharge et les parkings souterrains.",
+      "Publier en France des statistiques d’incendies par type de motorisation, comme en Suède et en Norvège."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un feu de batterie est plus difficile à éteindre, demande beaucoup d’eau, peut reprendre longtemps après et dégage davantage de gaz toxiques.",
+        "integration": "C’est une raison d’investir dans les secours et la sécurité des parkings, pas de renoncer à l’électrique, qui prend feu moins souvent."
+      }
+    ]
+  },
+  "concepts": [
+    "dangerosite",
+    "voiture_electrique",
+    "ve_incendies"
+  ],
+  "repond_a": [
+    {
+      "id": "ve_incendies_q0614",
+      "label": "Voitures électriques et incendies"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fou",
+    "cingle",
+    "agressif",
+    "agressive",
+    "autoritaire"
+  ]
+}

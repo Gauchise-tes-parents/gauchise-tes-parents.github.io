@@ -177,12 +177,6 @@
       }
     ]
   },
-  "concepts": [
-    "logement",
-    "ecologie",
-    "eolien",
-    "eolien_immo"
-  ],
   "repond_a": [
     {
       "id": "eolien_immo_q2013",
@@ -211,5 +205,11 @@
     "immobilier",
     "sdf",
     "nucleaire"
+  ],
+  "concepts": [
+    "logement",
+    "ecologie",
+    "eolien",
+    "eolien_immo"
   ]
 }

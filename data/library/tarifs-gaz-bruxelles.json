@@ -1,0 +1,222 @@
+{
+  "id": "tarifs-gaz-bruxelles",
+  "type": "idee_recue",
+  "affirmation": "Les tarifs réglementés du gaz ont été supprimés à cause de Bruxelles.",
+  "volet": "ecologie",
+  "sous_theme": "Prix de l’énergie",
+  "rubriques": [],
+  "mots_cles": [
+    "tarifs reglementes du gaz",
+    "fin du tarif reglemente gaz",
+    "trv gaz",
+    "bruxelles tarif gaz",
+    "suppression tarif gaz europe",
+    "prix du gaz engie",
+    "tarif reglemente supprime",
+    "ue prix du gaz"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Plutôt exact, mais incomplet. La fin des tarifs réglementés du gaz, le 30 juin 2023, vient bien du droit européen : la directive gaz de 2009, interprétée par la Cour de justice de l'Union en 2016, a conduit le Conseil d'État à annuler le décret tarifaire en 2017. Mais ce n'est pas « Bruxelles » seul : la plainte venait d'une association de fournisseurs, le gouvernement français a choisi la suppression par la loi Énergie-Climat de 2019 plutôt qu'un tarif refondé, et les directives européennes sont adoptées par les gouvernements des États membres avec le Parlement européen. Preuve qu'une marge existait : le tarif réglementé de l'électricité, lui, a été maintenu.",
+  "contexte": "L'argument revient pour dénoncer l'Union européenne comme responsable de la hausse des factures. Il est porté aussi bien par l'extrême droite que par une partie de la gauche.",
+  "explication": "Il faut retracer la chaîne de décision : la directive européenne, l'arrêt de la Cour de justice, la décision du Conseil d'État, puis les choix du gouvernement et du Parlement français, et comparer avec l'électricité.",
+  "faits": [
+    {
+      "fait": "Le 19 juillet 2017, le Conseil d'État a annulé le décret fixant les tarifs réglementés du gaz, jugeant qu'ils entravaient le marché concurrentiel voulu par la directive européenne de 2009, telle qu'interprétée par la Cour de justice de l'Union en 2016.",
+      "periode": "2016-2017",
+      "perimetre": "France",
+      "explication": "Le déclencheur juridique est bien le droit européen.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : le Conseil d'État a jugé que les tarifs ne poursuivaient ni la sécurité d'approvisionnement, ni la cohésion territoriale, ni un prix raisonnable, alors que le droit européen admet une réglementation des prix qui répond à un objectif d'intérêt économique général.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Le droit européen n'interdisait pas tout tarif, mais un tarif sans objectif d'intérêt général démontré.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le recours avait été déposé par l'Association nationale des opérateurs détaillants en énergie (ANODE), qui regroupe des fournisseurs d'énergie.",
+      "periode": "2013-2017",
+      "perimetre": "France",
+      "explication": "Ce sont des fournisseurs privés qui ont attaqué les tarifs pour gagner des clients.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2018, le gouvernement a estimé que la décision « ne laisse pas de marge de manœuvre pour maintenir les TRV gaz naturel » et a choisi d'organiser leur sortie par la loi.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "La suppression est aussi un choix politique français : le gouvernement n'a pas cherché à refonder un tarif conforme.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon la CRE, la loi Énergie-Climat du 8 novembre 2019 a fixé la fin des tarifs réglementés du gaz au 30 juin 2023 ; environ 2,4 millions de clients y étaient encore fin 2022.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "La date et les modalités ont été votées par le Parlement français.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2,4 millions"
+    },
+    {
+      "fait": "Selon l'INC, le tarif réglementé de l'électricité a été maintenu pour les ménages, la directive européenne de 2019 le permettant à condition de le justifier tous les cinq ans auprès de la Commission.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Quand la France a défendu un tarif réglementé, elle l'a obtenu : le cadre européen laisse des marges.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : en 2018, le gouvernement indiquait que les principaux fournisseurs proposaient des offres de 5 à 10 % moins chères que les tarifs réglementés du gaz.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "À l'époque, le tarif réglementé n'était pas toujours l'offre la moins chère ; sa disparition ne se traduit pas mécaniquement par une hausse.",
+      "source": 1,
+      "fiabilite": "interpretation",
+      "chiffre": "5 à 10 %"
+    },
+    {
+      "fait": "Selon un rapport du Sénat de 2008, la Commission européenne ne demandait pas alors la suppression des tarifs réglementés des ménages, et l'ouverture du marché en 2007 avait attiré très peu de ménages.",
+      "periode": "2007-2008",
+      "perimetre": "France",
+      "explication": "La disparition des tarifs n'était pas une fatalité dès l'origine ; elle résulte d'une suite de décisions européennes et françaises.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le droit européen est bien à l'origine : en 2017, le Conseil d'État a annulé les tarifs réglementés du gaz en appliquant la directive de 2009 et un arrêt de la Cour de justice. Mais la plainte venait de fournisseurs privés, c'est la loi française de 2019 qui a fixé la fin au 30 juin 2023, et la France a su garder le tarif réglementé de l'électricité.",
+    "moyen": "Il y a du vrai : la directive européenne sur le gaz de 2009 vise un marché concurrentiel, et la Cour de justice de l'Union a jugé en 2016 que les tarifs réglementés y faisaient obstacle. En 2017, le Conseil d'État a donc annulé le décret qui les fixait.\n\nMais « Bruxelles » n'a pas tout décidé seul. Le recours venait d'une association de fournisseurs concurrents d'Engie. Le juge a reproché au tarif de ne poursuivre aucun objectif d'intérêt général démontré, ce que le droit européen aurait permis. Le gouvernement a choisi la suppression, votée dans la loi Énergie-Climat de 2019, plutôt que de défendre un tarif refondé. Et pour l'électricité, la France a obtenu le maintien du tarif bleu. La libéralisation de l'énergie est un choix politique, à Bruxelles comme à Paris, pas une loi de la nature.",
+    "detaille": "L'histoire commence avec la libéralisation des marchés de l'énergie, décidée au niveau européen par des directives successives. La directive gaz de 2009 vise un marché concurrentiel. En 2016, la Cour de justice de l'Union européenne a jugé que des tarifs réglementés pouvaient constituer une entrave à ce marché, sauf s'ils remplissaient trois conditions : poursuivre un objectif d'intérêt économique général, être limités au strict nécessaire, être clairs et contrôlables.\n\nLe 19 juillet 2017, saisi par l'ANODE, une association de fournisseurs alternatifs, le Conseil d'État a annulé le décret qui fixait les tarifs réglementés du gaz : selon lui, ces tarifs ne poursuivaient ni la sécurité d'approvisionnement, ni la cohésion territoriale, ni un prix raisonnable. Le gouvernement a alors estimé qu'il n'avait pas de marge pour les maintenir et a organisé leur extinction : la loi Énergie-Climat du 8 novembre 2019 a interdit les nouveaux contrats et fixé la fin au 30 juin 2023. Environ 2,4 millions de clients y étaient encore fin 2022, selon la CRE.\n\nDire que c'est « à cause de Bruxelles » est donc en partie juste : sans le droit européen, ces tarifs n'auraient pas été annulés. Mais c'est incomplet. Le droit européen admettait des prix encadrés au nom de l'intérêt général ; c'est la façon dont le tarif était conçu qui a été censurée. La France a choisi la suppression plutôt que la refonte. Et pour l'électricité, elle a conservé le tarif bleu, autorisé par la directive de 2019. Enfin, les directives ne tombent pas du ciel : elles sont adoptées par les gouvernements des États membres et par le Parlement européen.\n\nLa vraie question est politique : faut-il traiter l'énergie comme une marchandise soumise à la concurrence, ou comme un bien commun ? Ce combat se mène à Paris comme à Bruxelles.",
+    "empathie": "On comprend la colère quand les factures de gaz s'envolent et qu'on a l'impression que les décisions se prennent loin, sans nous. Mais pour se défendre, il faut savoir qui a décidé quoi : l'Europe, les juges, les fournisseurs privés et nos propres gouvernements."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La France n'avait pas le choix : c'est la Cour de justice qui a tranché.",
+      "reponse": "Elle a fixé des conditions, pas une interdiction absolue. Pour l'électricité, la France a obtenu le maintien du tarif réglementé. Pour le gaz, le gouvernement a préféré organiser la sortie."
+    },
+    {
+      "objection": "Il suffit de sortir de l'Union pour retrouver des tarifs bas.",
+      "reponse": "Le prix du gaz dépend aussi des marchés mondiaux. Ce qui protège les ménages, ce sont des choix publics : tarifs encadrés, bouclier, maîtrise publique de l'énergie, qui peuvent se défendre au sein de l'Union."
+    }
+  ],
+  "questions": [
+    "Sais-tu qui a déposé le recours contre les tarifs réglementés du gaz ?",
+    "Pourquoi le tarif réglementé de l'électricité existe-t-il encore, si Bruxelles interdit tout ?"
+  ],
+  "limites": [
+    "La décision de 2017 a été lue à travers son analyse officielle, pas le texte intégral sur Légifrance (page non ouverte).",
+    "Le vote de la France sur la directive gaz de 2009 n'a pas été vérifié dans une source lue ; on s'en tient au principe général d'adoption des directives.",
+    "Les chiffres du rapport du Sénat datent de 2007.",
+    "Aucune source lue ne compare les prix payés par les ménages avant et après la fin des tarifs."
+  ],
+  "sources": [
+    {
+      "titre": "Décision n° 370321, Association nationale des opérateurs détaillants en énergie (ANODE) — analyse",
+      "organisme": "Conseil d’État (Assemblée du contentieux)",
+      "date_publication": "19 juillet 2017",
+      "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/analyse/2017-07-19/370321",
+      "passage": "Annulation du décret du 16 mai 2013 relatif aux tarifs réglementés de vente du gaz naturel. Au regard de la directive 2009/73/CE telle qu'interprétée par la Cour de justice de l'Union européenne (arrêt C-121/15 du 7 septembre 2016), l'obligation faite à certains fournisseurs de proposer ces tarifs constitue « une entrave à la réalisation d'un marché du gaz naturel concurrentiel ». Une telle réglementation n'est admise qu'à trois conditions cumulatives : poursuivre un objectif d'intérêt économique général, ne porter atteinte à la libre fixation des prix « que dans la seule mesure nécessaire », être « clairement définie, transparente, non discriminatoire et contrôlable ». Le Conseil d'État juge que le décret ne poursuivait ni la sécurité d'approvisionnement, ni la cohésion territoriale, ni un prix raisonnable. Effets passés maintenus en raison de l'insécurité juridique pour plusieurs millions de consommateurs.",
+      "pertinence": "Décision de la plus haute juridiction administrative, publiée au recueil Lebon.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 800 (tarifs réglementés du gaz) et réponse du ministère de la Transition écologique et solidaire",
+      "organisme": "Assemblée nationale",
+      "date_publication": "question publiée le 29 août 2017, réponse publiée le 23 janvier 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE800.pdf",
+      "passage": "Selon la CJUE (arrêt C-121/15 du 7 septembre 2016), les tarifs réglementés du gaz constituaient « une entrave à la réalisation d'un marché concurrentiel du gaz ». Le Conseil d'État a annulé le décret de 2013 le 19 juillet 2017. Réponse du Gouvernement : la décision « ne laisse pas de marge de manœuvre pour maintenir les TRV gaz naturel » ; la sécurité d'approvisionnement est assurée par des obligations de service public applicables à tous les fournisseurs ; les principaux fournisseurs proposent des offres de 5 à 10 % moins chères que les tarifs réglementés ; le Gouvernement prévoit une sortie progressive par la loi, avec des mesures d'accompagnement.",
+      "pertinence": "Question parlementaire et réponse officielle du Gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fin des tarifs réglementés de vente de gaz naturel : la CRE veille à la protection des consommateurs — communiqué de presse",
+      "organisme": "Commission de régulation de l’énergie (CRE, autorité administrative indépendante)",
+      "date_publication": "31 janvier 2023",
+      "url": "https://www.cre.fr/content/download/26743/file/230131_CP_fin_TRVG_protection_consommateurs.pdf",
+      "passage": "La loi Énergie-Climat du 8 novembre 2019 met en œuvre la décision du Conseil d'État du 19 juillet 2017 et prévoit la fin des tarifs réglementés de vente de gaz le 30 juin 2023. Environ 2,4 millions de clients y étaient encore au 30 novembre 2022, sur environ 11 millions de consommateurs résidentiels (93 % chez Engie) ; 2,4 millions d'autres clients ont des offres de marché indexées sur ces tarifs. Bouclier tarifaire depuis le 1er novembre 2021 ; « le bouclier tarifaire pourra continuer à s'appliquer après la fin des TRVG ». La CRE propose de publier chaque mois un prix de référence du gaz à partir du 1er juillet 2023.",
+      "pertinence": "Communiqué du régulateur public de l'énergie.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La disparition du tarif réglementé du gaz",
+      "organisme": "Institut national de la consommation (INC, établissement public)",
+      "date_publication": "date non indiquée (page consultée le 13 novembre 2026)",
+      "url": "https://www.inc-conso.fr/content/la-disparition-du-tarif-reglemente-du-gaz",
+      "passage": "La loi Énergie-Climat, « promulguée le 8 novembre 2019 », « entérine cette disparition ». Calendrier : plus de nouveaux contrats au tarif réglementé depuis le 20 novembre 2019 ; fin pour les petits professionnels le 1er décembre 2020 ; fin pour les particuliers le 30 juin 2023. « Les 3,6 millions de consommateurs encore au tarif réglementé » en octobre 2019, à 95 % chez Engie. Le tarif réglementé de l'électricité (tarif bleu) est maintenu : la directive européenne de 2019 sur le marché intérieur de l'électricité le permet pour les ménages et les entreprises de moins de 10 salariés et de moins de 2 millions d'euros de chiffre d'affaires ; les ministres doivent l'évaluer tous les cinq ans pour justifier son maintien auprès de la Commission européenne.",
+      "pertinence": "Établissement public d'information des consommateurs.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport n° 155 (2007-2008) sur la proposition de loi relative aux tarifs réglementés d'électricité et de gaz naturel",
+      "organisme": "Sénat (Ladislas Poniatowski, commission des affaires économiques)",
+      "date_publication": "8 janvier 2008",
+      "url": "https://www.senat.fr/rap/l07-155/l07-1553.html",
+      "passage": "Depuis l'ouverture totale du marché aux ménages le 1er juillet 2007, « peu nombreux sont les ménages » à avoir quitté les tarifs réglementés : environ 13 300 sites en gaz au 30 septembre 2007, sur 11 millions de consommateurs. Le rapporteur conclut : « ces statistiques démontrent l'échec de l'ouverture à la concurrence des marchés énergétiques pour les ménages ». Selon le commissaire européen Andris Piebalgs, cité par le rapport, la Commission ne demandait pas la suppression des tarifs réglementés des ménages, mais seulement des professionnels.",
+      "pertinence": "Rapport parlementaire ; données de 2007.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Évolution du cadre européen et des prix de référence publiés par la CRE.",
+  "objections_legitimes": [
+    "Le droit européen de la concurrence est bien à l'origine de l'annulation des tarifs.",
+    "La libéralisation de l'énergie a été poussée au niveau européen.",
+    "Les ménages ont perdu un repère de prix protecteur."
+  ],
+  "publics": {
+    "convaincus": "Tu as en partie raison : sans le droit européen, le Conseil d'État n'aurait pas annulé ces tarifs. Mais le recours venait de fournisseurs privés, c'est une loi française qui a fixé la fin en 2023, et la France a su garder le tarif réglementé de l'électricité. Le problème, c'est la logique de marché, défendue aussi par nos gouvernements, pas seulement Bruxelles.",
+    "indecis": "La fin des tarifs du gaz vient bien d'une règle européenne, appliquée par le Conseil d'État en 2017. Mais le gouvernement français a choisi de les supprimer plutôt que de les refonder, alors qu'il a gardé ceux de l'électricité. C'est donc une responsabilité partagée, et un choix politique qu'on peut changer."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "democratie",
+      "vulnerables"
+    ],
+    "mecanismes": "La libéralisation de l’énergie traite le gaz comme une marchandise soumise à la concurrence ; des fournisseurs privés s’appuient sur le droit européen pour faire tomber les tarifs protecteurs, et les gouvernements nationaux préfèrent suivre plutôt que défendre un tarif d’intérêt général.",
+    "consequences": "Les ménages perdent un repère de prix stable et se retrouvent exposés aux variations des marchés, avec un risque accru de précarité énergétique pour les plus modestes.",
+    "democratie": "Accuser seulement Bruxelles permet aux responsables nationaux de s’effacer, alors que les directives sont négociées par les gouvernements et que la loi d’extinction a été votée à Paris.",
+    "propositions": [
+      "Rétablir un prix réglementé du gaz fondé sur un objectif explicite d’intérêt général, comme le permet le droit européen sous conditions.",
+      "Défendre au niveau européen la sortie de l’énergie de la logique de marché et la reconnaissance de l’énergie comme bien commun.",
+      "Remettre la fourniture d’énergie sous maîtrise publique."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le droit européen est bien à l’origine de l’annulation des tarifs, et ceux-ci n’étaient pas toujours l’offre la moins chère.",
+        "integration": "Assumer une critique de gauche de la libéralisation européenne, sans la confondre avec un rejet nationaliste de l’Union qui dédouane les choix français."
+      }
+    ]
+  },
+  "concepts": [
+    "europe",
+    "trv_gaz"
+  ],
+  "repond_a": [
+    {
+      "id": "trv_gaz_q0614",
+      "label": "Tarifs réglementés du gaz"
+    },
+    {
+      "id": "europe_q0614_trv_gaz",
+      "label": "Tarifs réglementés du gaz"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "bruxelles",
+    "union europeenne"
+  ]
+}

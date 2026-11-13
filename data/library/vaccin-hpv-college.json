@@ -213,11 +213,6 @@
       }
     ]
   },
-  "concepts": [
-    "dangerosite",
-    "vaccin",
-    "vaccin_hpv"
-  ],
   "repond_a": [
     {
       "id": "vaccin_hpv_q2013",
@@ -249,5 +244,10 @@
     "moderna",
     "papillomavirus",
     "gardasil"
+  ],
+  "concepts": [
+    "dangerosite",
+    "vaccin",
+    "vaccin_hpv"
   ]
 }

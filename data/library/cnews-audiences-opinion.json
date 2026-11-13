@@ -1,0 +1,256 @@
+{
+  "id": "cnews-audiences-opinion",
+  "type": "idee_recue",
+  "affirmation": "CNews est la première chaîne d'info, la preuve que les Français pensent comme elle.",
+  "volet": "politique",
+  "sous_theme": "Médias",
+  "rubriques": [],
+  "mots_cles": [
+    "cnews premiere chaine",
+    "audience cnews",
+    "cnews chaine d info",
+    "cnews pluralisme",
+    "cnews arcom",
+    "cnews bollore",
+    "les francais pensent comme cnews",
+    "mediametrie cnews",
+    "cnews bfmtv"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. CNews est bien devenue la première chaîne d'information en 2025, avec 3,4 % de part d'audience selon Médiamétrie. Mais cela veut dire que plus de 96 % du temps passé devant la télévision se fait sur d'autres chaînes. Être en tête d'un petit marché ne fait pas une majorité d'opinion. Son public est surtout composé de sympathisants de droite et d'extrême droite, et l'Arcom a constaté en 2026 un manque de pluralisme et l'a sanctionnée pour des propos de nature à inciter à la haine.",
+  "contexte": "Depuis que CNews a dépassé BFMTV, ses animateurs et ses soutiens présentent ses audiences comme la preuve qu'elle exprime ce que pensent « les Français ». La chaîne appartient au groupe de Vincent Bolloré, au cœur des débats sur la concentration des médias et le pluralisme.",
+  "explication": "Il faut regarder ce que mesure réellement une part d'audience, qui regarde CNews, et ce qu'ont dit le Conseil d'État et l'Arcom sur le pluralisme de la chaîne.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : selon Médiamétrie, CNews a été la première chaîne d'information en 2025, avec 3,4 % de part d'audience, devant BFMTV (2,8 %), LCI (2 %) et franceinfo (0,9 %).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La progression de CNews est réelle et rapide.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "3,4 %"
+    },
+    {
+      "fait": "Selon Médiamétrie, TF1 a réuni 18,7 % de part d'audience en 2025 et France 2 14,9 %, contre 3,4 % pour CNews.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une seule chaîne généraliste pèse plus de cinq fois CNews : la « première chaîne d'info » reste une petite chaîne.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "18,7 %"
+    },
+    {
+      "fait": "D'après une enquête de L'ObSoCo, de la Fondation Jean-Jaurès et d'Arte, 25 % des Français disent regarder principalement CNews parmi les chaînes d'info, mais 41 % des sympathisants RN et 56 % des sympathisants Reconquête.",
+      "periode": "2024",
+      "perimetre": "France, 18-75 ans",
+      "explication": "Le public de CNews est d'abord un public déjà acquis à la droite et à l'extrême droite : l'audience reflète une préférence, elle ne mesure pas l'opinion de tous.",
+      "source": 6,
+      "fiabilite": "estimation",
+      "chiffre": "25 %"
+    },
+    {
+      "fait": "Le Conseil d'État a jugé le 13 février 2024 que l'Arcom doit apprécier le pluralisme sur l'ensemble des intervenants (chroniqueurs, animateurs, invités), et pas seulement sur le temps de parole des politiques, sans se prononcer lui-même sur CNews.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le pluralisme est une obligation légale que le régulateur doit contrôler sur l'ensemble des programmes.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une analyse juridique, l'Arcom a mis en demeure CNews le 12 juin 2026 après avoir constaté « une large convergence des points de vue exprimés » et « la surreprésentation d'un courant de pensée et d'opinion ».",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Le régulateur a constaté que la chaîne ne présentait pas équitablement la diversité des opinions.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon The Media Leader, CNews conteste cette mise en demeure, qu'elle juge « attentatoire à sa liberté éditoriale », et a annoncé un recours devant le Conseil d'État.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La décision n'est pas définitive ; la chaîne défend sa liberté éditoriale.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Club des juristes, l'Arcom a infligé le 24 juillet 2026 une amende de 200 000 euros à CNews pour deux séquences jugées de nature à « inciter à la haine et à encourager des comportements discriminatoires ».",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "La chaîne a été sanctionnée pour le contenu de ses programmes, pas seulement pour un déséquilibre de temps de parole.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "200 000 €"
+    },
+    {
+      "fait": "Selon Public Sénat, la commission d'enquête du Sénat sur la concentration des médias a adopté à l'unanimité 32 propositions en 2022, dont l'inscription dans la loi du respect de « la pluralité de points de vue » dans les débats ; la chaîne du groupe Bolloré y a été le sujet le plus disputé.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La concentration des médias entre quelques milliardaires inquiète jusqu'au Parlement.",
+      "source": 7,
+      "fiabilite": "etabli",
+      "chiffre": "32"
+    }
+  ],
+  "argumentaires": {
+    "court": "CNews fait 3,4 % de part d'audience : plus de 96 % de ce que les Français regardent à la télévision se passe ailleurs. Son public est surtout de droite et d'extrême droite. Et l'Arcom lui reproche un manque de pluralisme et l'a mise à l'amende pour des propos haineux.",
+    "moyen": "CNews est bien passée en tête des chaînes d'info en 2025. Mais avec 3,4 % de part d'audience, elle pèse cinq fois moins que TF1. Être premier d'un petit marché ne fait pas une majorité.\n\nSurtout, regarder une chaîne ne veut pas dire penser comme elle, et ceux qui la regardent sont déjà en majorité de droite : 41 % des sympathisants RN et 56 % de ceux de Reconquête la regardent principalement, contre 25 % des Français. En 2026, l'Arcom a mis la chaîne en demeure pour manque de pluralisme, puis lui a infligé 200 000 euros d'amende pour des propos de nature à inciter à la haine.",
+    "detaille": "Le chiffre est vrai : selon Médiamétrie, CNews a été la première chaîne d'information en 2025, avec 3,4 % de part d'audience, devant BFMTV (2,8 %), LCI (2 %) et franceinfo (0,9 %). Sa progression est réelle.\n\nMais une part d'audience de 3,4 % signifie que plus de 96 % du temps passé devant la télévision l'est sur d'autres chaînes. TF1 fait 18,7 %, France 2 14,9 %. Les chaînes d'info sont un petit marché, et en être le premier ne fait pas de vous la voix d'une majorité.\n\nEnsuite, audience ne veut pas dire adhésion. On regarde une chaîne pour un débat, par habitude ou pour s'énerver. Et le public de CNews est surtout déjà acquis : selon une enquête de 2024, 25 % des Français la regardent principalement parmi les chaînes d'info, mais 41 % des sympathisants RN et 56 % de ceux de Reconquête.\n\nEnfin, une chaîne de télévision a l'obligation légale de respecter le pluralisme. Depuis la décision du Conseil d'État de 2024, l'Arcom vérifie la diversité des opinions de tous les intervenants. En juin 2026, elle a constaté sur CNews une « large convergence des points de vue » et l'a mise en demeure ; la chaîne conteste. En juillet 2026, elle l'a condamnée à 200 000 euros d'amende pour des propos de nature à inciter à la haine. Le succès de CNews dit surtout la puissance d'un groupe, celui de Vincent Bolloré, dont la place dans le paysage médiatique a été au cœur d'une commission d'enquête du Sénat.",
+    "empathie": "Beaucoup de téléspectateurs ont le sentiment que les autres médias ne parlent pas de leurs préoccupations, et trouvent sur CNews des sujets qui leur tiennent à cœur. Ce sentiment mérite d'être pris au sérieux."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si les gens la regardent, c'est qu'elle dit la vérité.",
+      "reponse": "L'audience mesure un choix de programme, pas la vérité. L'Arcom a sanctionné la chaîne pour des propos de nature à inciter à la haine, et a constaté un manque de diversité des opinions."
+    },
+    {
+      "objection": "L'Arcom et le Conseil d'État veulent censurer CNews.",
+      "reponse": "Le Conseil d'État n'a rien interdit : il a demandé que le pluralisme soit vérifié sur l'ensemble des intervenants, et ne s'est pas prononcé lui-même sur CNews. Et la Cour européenne des droits de l'homme n'a pas vu de violation de la liberté d'expression dans une précédente procédure."
+    }
+  ],
+  "questions": [
+    "Si 3 % d'audience prouvait ce que pensent les Français, que prouveraient les 18 % de TF1 ?",
+    "Regarder une émission, est-ce forcément être d'accord avec tout ce qu'on y dit ?"
+  ],
+  "limites": [
+    "Les parts d'audience annuelles sont lues dans la presse spécialisée qui reprend Médiamétrie, pas sur le site de Médiamétrie.",
+    "L'enquête ObSoCo-Fondation Jean-Jaurès-Arte date du printemps 2024, avant que CNews ne passe en tête.",
+    "La mise en demeure de juin 2026 fait l'objet d'un recours annoncé ; l'issue n'est pas connue.",
+    "Le rapport du Sénat date de 2022 ; seul un compte rendu de presse a été lu.",
+    "La date exacte de l'article de Brut n'a pas pu être établie avec certitude."
+  ],
+  "sources": [
+    {
+      "titre": "Audiences annuelles 2025 : France.tv et TF1 en tête, CNews et Canal+ en forte progression",
+      "organisme": "Virginie Achouch, The Media Leader (d’après Médiamétrie)",
+      "date_publication": "4 janvier 2026",
+      "url": "https://fr.themedialeader.com/audiences-annuelles-2025-france-tv-et-tf1-en-tete-cnews-et-canal-en-forte-progression/",
+      "passage": "Audiences 2025 (Médiamétrie) : « TF1 conserve la première place avec 18,7% de part d'audience stable vs 2024 » ; France 2 : 14,9 %, en net recul. CNews : « 3,4% de part d'audience et une hausse marquée par rapport à 2024 », son meilleur niveau annuel, première chaîne d'information de l'année (+0,5 point). BFMTV stable, LCI et franceinfo en progression.",
+      "pertinence": "Presse spécialisée dans les médias, d'après les données Médiamétrie.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "CNews a été la première chaîne d'information en 2025, devant BFMTV",
+      "organisme": "Brut (d’après Médiamétrie)",
+      "date_publication": "2026 (page consultée le 13 novembre 2026)",
+      "url": "https://www.brut.media/fr/articles/cnews-a-ete-la-premiere-chaine-dinformation-en-2025-devant-bfmtv",
+      "passage": "Parts d'audience 2025 selon Médiamétrie : CNews 3,4 %, BFMTV 2,8 %, LCI 2 %, franceinfo 0,9 %. C'est la première fois que la chaîne du groupe de Vincent Bolloré est en tête sur une année entière ; en 2024, CNews et BFMTV étaient à égalité à 2,9 %.",
+      "pertinence": "Média d'information en ligne reprenant les chiffres Médiamétrie.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pluralisme et indépendance de l'information : l'Arcom devra se prononcer à nouveau sur le respect par CNews de ses obligations",
+      "organisme": "Conseil d’État (décision n° 463162, requête de l’association RSF)",
+      "date_publication": "13 février 2024",
+      "url": "https://conseil-etat.fr/actualites/pluralisme-et-independance-de-l-information-l-arcom-devra-se-prononcer-a-nouveau-sur-le-respect-par-cnews-de-ses-obligations",
+      "passage": "L'Arcom ne peut pas s'en tenir au temps de parole des personnalités politiques : elle doit apprécier « la diversité des courants de pensée et d'opinions » en tenant compte de l'ensemble des participants aux programmes (chroniqueurs, animateurs, invités). Elle doit réexaminer la demande de RSF dans un délai de six mois. Le Conseil d'État « ne se prononce pas sur le respect par les programmes de la chaîne CNews » de ces exigences.",
+      "pertinence": "Plus haute juridiction administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pourquoi, selon l'Arcom, CNews ne respecte pas le pluralisme des opinions",
+      "organisme": "Emmanuel Derieux (université Paris-Panthéon-Assas), Le Club des juristes",
+      "date_publication": "22 juin 2026",
+      "url": "https://www.leclubdesjuristes.com/societe/pourquoi-selon-larcom-cnews-ne-respecte-pas-le-pluralisme-des-opinions-16512/",
+      "passage": "Par une décision du 12 juin 2026, l'Arcom met en demeure la chaîne (première étape d'une sanction graduée). Après observation des programmes de mars 2025, elle constate « le plus souvent, une large convergence des points de vue exprimés » et « la surreprésentation d'un courant de pensée et d'opinion ». Fondement : l'arrêt du Conseil d'État du 13 février 2024. Une précédente demande d'annulation d'une mise en demeure par la chaîne a été rejetée par le Conseil d'État le 4 août 2023 ; la CEDH (18 juin 2026) a conclu à l'absence de violation de l'article 10.",
+      "pertinence": "Analyse juridique d'un professeur émérite de droit.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pluralisme : l'Arcom sanctionne CNews, qui va saisir le Conseil d'État",
+      "organisme": "The Media Leader",
+      "date_publication": "16 juin 2026",
+      "url": "https://fr.themedialeader.com/?p=216017",
+      "passage": "L'Arcom adresse une mise en demeure (et non une amende) après avoir constaté un « déséquilibre manifeste et durable », notamment sur la guerre en Ukraine, sur les programmes de mars 2025, à la suite d'une saisine de RSF et d'une première mise en garde en juillet 2024. La chaîne « conteste fermement cette décision », qu'elle juge « attentatoire à sa liberté éditoriale », et annonce un recours devant le Conseil d'État.",
+      "pertinence": "Presse spécialisée dans les médias.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "CNews sanctionnée par l'Arcom d'une amende de 200 000 euros",
+      "organisme": "Le Club des juristes",
+      "date_publication": "29 juillet 2026",
+      "url": "https://www.leclubdesjuristes.com/en-bref/cnews-sanctionnee-par-larcom-dune-amende-de-200-000-euros-17187/",
+      "passage": "Par une décision du 24 juillet 2026, l'Arcom inflige une amende de 200 000 euros pour deux séquences diffusées en 2025 (violences après la victoire du PSG en Ligue des champions ; propos sur une élue voilée à Molenbeek-Saint-Jean), jugées de nature à « inciter à la haine et à encourager des comportements discriminatoires ».",
+      "pertinence": "Site d'information juridique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Monographie des pratiques médiatiques et sympathies politiques en France (Fatigue informationnelle, vague 2)",
+      "organisme": "Guénaëlle Gault, Simon Ginolin et David Médioni — L’ObSoCo, Fondation Jean-Jaurès et Arte",
+      "date_publication": "septembre 2024",
+      "url": "https://lobsoco.com/wp-content/uploads/2024/12/LObSoCo_FJJ_Arte_Pratiques-mediatiques-et-sympathies-politiques_Note_2024.pdf",
+      "passage": "Enquête en ligne du 4 avril au 2 mai 2024 auprès de 4 000 personnes de 18 à 75 ans. Parmi les chaînes d'information en continu, 25 % des Français disent regarder principalement CNews ; 39 % des sympathisants LR, 41 % des sympathisants RN et 56 % des sympathisants Reconquête. 26 % des Français regardent chaque jour une chaîne d'information en continu, 38 % des sympathisants RN et 50 % de ceux de Reconquête. Chez les sympathisants de droite, CNews « se démarque nettement ».",
+      "pertinence": "Enquête d'un institut d'études avec une fondation proche du PS et une chaîne publique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Concentration des médias : divisés, les sénateurs s'accordent malgré tout sur les préconisations du rapport",
+      "organisme": "Public Sénat",
+      "date_publication": "31 mars 2022",
+      "url": "https://www.publicsenat.fr/actualites/politique/concentration-des-medias-les-senateurs-se-divisent-sur-les-preconisations",
+      "passage": "La commission d'enquête du Sénat sur la concentration des médias adopte à l'unanimité un rapport de 380 pages et 32 propositions. La chaîne d'information du groupe Bolloré a été le sujet le plus disputé : le rapporteur David Assouline y voit une chaîne d'opinion, alors que Vincent Bolloré a déclaré qu'il s'agit d'« une chaîne de débat ». Les sénateurs proposent d'inscrire dans la loi de 1986 le respect de « la pluralité de points de vue et des sensibilités dans la présentation des débats ». Un sénateur LR juge que la concentration n'est pas excessive en France.",
+      "pertinence": "Chaîne parlementaire rendant compte d'un rapport du Sénat.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Audiences annuelles 2026 de Médiamétrie et décision du Conseil d'État sur le recours de CNews.",
+  "objections_legitimes": [
+    "CNews est réellement devenue la chaîne d'information la plus regardée en 2025.",
+    "Une partie du public se sent mal représentée par les autres médias.",
+    "La liberté éditoriale d'une chaîne est un principe important."
+  ],
+  "publics": {
+    "convaincus": "CNews est première des chaînes d'info, c'est vrai. Mais avec 3,4 % d'audience, plus de 96 % de ce que regardent les Français se passe ailleurs, et TF1 fait cinq fois plus. Si l'audience prouvait ce que pensent les gens, les Français penseraient d'abord comme TF1.",
+    "indecis": "CNews a réellement progressé, et beaucoup y trouvent des sujets qui les touchent. Mais être regardé ne veut pas dire avoir raison : le régulateur lui reproche un manque de diversité des opinions et l'a sanctionnée pour des propos haineux. Le mieux pour se faire un avis, c'est de varier ses sources."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes",
+      "repartition"
+    ],
+    "mecanismes": "Confondre audience et opinion permet à une chaîne d’opinion de se présenter comme la voix du peuple, alors qu’elle reste minoritaire et que son public est surtout déjà acquis à ses idées.",
+    "consequences": "Quand une poignée de propriétaires concentre des médias puissants, le débat public se resserre autour des thèmes qu’ils choisissent de mettre en avant.",
+    "democratie": "Le pluralisme de l’information est une condition de la démocratie : chacun doit pouvoir entendre des points de vue différents pour se forger son opinion.",
+    "propositions": [
+      "Adopter une loi anti-concentration qui limite la part d’un même groupe dans l’audiovisuel, la presse et l’édition.",
+      "Garantir l’indépendance des rédactions face aux actionnaires, avec un droit de regard des journalistes sur la nomination de leur direction.",
+      "Renforcer les moyens de contrôle du pluralisme par le régulateur sur tous les intervenants des émissions."
+    ],
+    "defavorables": [
+      {
+        "fait": "CNews est réellement devenue la chaîne d’information la plus regardée, et sa progression est rapide.",
+        "integration": "Ce succès doit être pris au sérieux : il montre qu’une partie du public ne se retrouve pas ailleurs, ce qui appelle des médias pluralistes qui parlent aussi de ses préoccupations."
+      }
+    ]
+  },
+  "concepts": [
+    "medias",
+    "c8_arcom"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite",
+    "nous cachent",
+    "on nous cache",
+    "propagande",
+    "hanouna",
+    "tpmp",
+    "arcom"
+  ]
+}

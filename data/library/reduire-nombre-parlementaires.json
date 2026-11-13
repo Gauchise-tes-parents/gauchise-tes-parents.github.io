@@ -230,9 +230,6 @@
       }
     ]
   },
-  "concepts": [
-    "cout"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -243,5 +240,8 @@
     "finances publiques",
     "pognon",
     "nos impots"
+  ],
+  "concepts": [
+    "cout"
   ]
 }

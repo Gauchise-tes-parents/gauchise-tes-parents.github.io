@@ -1,0 +1,282 @@
+{
+  "id": "roms-mendicite-vol",
+  "type": "idee_recue",
+  "affirmation": "Les Roms vivent de la mendicité et du vol.",
+  "volet": "immigration",
+  "sous_theme": "Racisme",
+  "rubriques": [],
+  "mots_cles": [
+    "roms voleurs",
+    "roms mendicite",
+    "roms vivent du vol",
+    "roms delinquance",
+    "roms pickpockets",
+    "campements roms",
+    "gens du voyage voleurs",
+    "bidonvilles roms",
+    "tsiganes"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Contredit : c'est un préjugé qui vise tout un peuple, pas un constat. Selon la CNCDH, les Roms sont « de loin la minorité la moins acceptée » en France. L'image du campement et de la mendicité ne concerne qu'environ 10 000 personnes venues surtout de Roumanie et de Bulgarie, en grande pauvreté. Les « gens du voyage », souvent confondus avec elles, sont environ 500 000 personnes, en très grande majorité françaises, souvent sédentaires. Des réseaux d'exploitation existent et sont jugés ; leurs premières victimes sont souvent des Roms.",
+  "contexte": "Les Roms sont l'objet d'un rejet particulier en France, régulièrement entretenu par des discours politiques et médiatiques. Le préjugé mélange des populations très différentes : des citoyens français itinérants ou sédentaires, et des migrants européens vivant en bidonvilles.",
+  "explication": "Il faut distinguer qui sont les personnes visées, combien vivent réellement en bidonvilles, ce que mesurent les enquêtes sur les préjugés, et ce que disent les affaires de traite jugées.",
+  "faits": [
+    {
+      "fait": "Selon le rapport 2025 de la CNCDH, les Roms sont « de loin la minorité la moins acceptée » : 64 % des personnes interrogées les voient comme un groupe à part.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le préjugé est massif et durable ; il vise un peuple entier.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "64 %"
+    },
+    {
+      "fait": "D'après le baromètre de la CNCDH rapporté par Maire-info, 45 % des personnes interrogées adhéraient en 2021 à l'idée que les Roms vivraient essentiellement de vols et de trafics.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "L'affirmation est un préjugé mesuré par les enquêtes sur le racisme, pas un constat statistique.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "45 %"
+    },
+    {
+      "fait": "Selon la Dihal, environ 10 000 personnes d'origine européenne, surtout roumaine et bulgare, vivent en bidonvilles en France, un nombre en baisse d'environ 25 % depuis 2018.",
+      "periode": "2018-2025",
+      "perimetre": "France",
+      "explication": "L'image du campement concerne un petit nombre de personnes, en très grande pauvreté.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "10 000"
+    },
+    {
+      "fait": "En 2023, la politique de résorption des bidonvilles a permis à 1 248 personnes d'accéder à un emploi et à 1 451 à un hébergement ou un logement ; 3 900 enfants ont été scolarisés grâce à la médiation en 2024-2025.",
+      "periode": "2023-2025",
+      "perimetre": "France",
+      "explication": "Quand on leur en donne les moyens, les habitants des bidonvilles travaillent et scolarisent leurs enfants.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "1 248"
+    },
+    {
+      "fait": "Selon la CNCDH, les gens du voyage représentaient environ 500 000 personnes en 2012, en très grande majorité de nationalité française et souvent sédentaires ; c'est une catégorie administrative distincte des Roms migrants.",
+      "periode": "2012",
+      "perimetre": "France",
+      "explication": "Le préjugé confond des citoyens français et des migrants européens, qui n'ont ni le même mode de vie ni le même statut.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "500 000"
+    },
+    {
+      "fait": "Selon une enquête citée par la CNCDH, 86 % des personnes interrogées croyaient les Roms migrants surtout nomades, alors qu'ils étaient sédentaires avant leur arrivée en France.",
+      "periode": "2014",
+      "perimetre": "France",
+      "explication": "L'image publique des Roms repose sur des idées fausses.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "86 %"
+    },
+    {
+      "fait": "Fait défavorable : en février 2021, le tribunal correctionnel de Toulouse a condamné 16 hommes roms originaires de Bulgarie, jusqu'à huit ans de prison, pour avoir exploité 33 mendiants recrutés dans leur région d'origine, privés de papiers et parfois battus.",
+      "periode": "2021",
+      "perimetre": "Toulouse",
+      "explication": "Des réseaux d'exploitation de la mendicité existent et doivent être poursuivis ; leurs victimes viennent souvent des mêmes communautés pauvres.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "33"
+    },
+    {
+      "fait": "Selon la CNCDH, environ 70 % des victimes de traite contraintes à commettre des délits en France sont des mineurs non accompagnés, et 81 % sont exploitées par une personne de leur entourage ; l'avis ne vise aucune origine particulière.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les enfants forcés à voler sont d'abord des victimes de traite, qu'il faut protéger.",
+      "source": 7,
+      "fiabilite": "etabli",
+      "chiffre": "70 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est un préjugé contre tout un peuple : selon la CNCDH, les Roms sont « de loin la minorité la moins acceptée » en France. Les bidonvilles concernent environ 10 000 personnes très pauvres, et quand on leur en donne les moyens, elles travaillent. Les gens du voyage, souvent confondus avec eux, sont surtout des Français, souvent sédentaires.",
+    "moyen": "Juger tout un peuple sur le comportement de certains, c'est la définition même du racisme. Et les chiffres montrent que ce préjugé est massif : selon la CNCDH, les Roms sont la minorité la moins acceptée en France, et en 2021, 45 % des personnes interrogées pensaient qu'ils vivent surtout de vols.\n\nLa réalité est différente. L'image du campement ne concerne qu'environ 10 000 personnes venues surtout de Roumanie et de Bulgarie, en très grande pauvreté. Quand l'État les accompagne, elles travaillent et scolarisent leurs enfants : 1 248 personnes ont trouvé un emploi en 2023. Les « gens du voyage », souvent confondus avec elles, sont environ 500 000 personnes, en très grande majorité françaises. Oui, des réseaux qui exploitent la mendicité ou forcent des enfants à voler existent et sont jugés, comme à Toulouse en 2021. Mais leurs premières victimes sont souvent des Roms eux-mêmes.",
+    "detaille": "Cette phrase n'est pas un constat : c'est un préjugé qui attribue à tout un peuple les actes de quelques-uns. Les enquêtes sur le racisme le mesurent depuis longtemps. Selon le rapport 2025 de la CNCDH, les Roms sont « de loin la minorité la moins acceptée » en France, et 64 % des personnes interrogées les voient comme un groupe à part. En 2021, 45 % adhéraient à l'idée qu'ils vivraient essentiellement de vols et de trafics.\n\nLe préjugé confond des populations très différentes. Les « gens du voyage » sont une catégorie administrative française : environ 500 000 personnes selon la CNCDH en 2012, en très grande majorité françaises, dont beaucoup sont sédentaires. Les Roms migrants venus de Roumanie ou de Bulgarie sont beaucoup moins nombreux ; ceux qui vivent en bidonvilles sont estimés à environ 10 000 personnes par la Dihal, un nombre en baisse. Ce sont des personnes en très grande pauvreté. Quand l'État les accompagne, les résultats suivent : en 2023, 1 248 personnes ont accédé à un emploi et 1 451 à un logement ou un hébergement, et 3 900 enfants ont été scolarisés en 2024-2025.\n\nIl ne faut pas nier pour autant que des réseaux criminels existent. En 2021, le tribunal de Toulouse a condamné seize hommes roms venus de Bulgarie qui exploitaient la mendicité de trente-trois personnes, privées de papiers et parfois battues. La CNCDH rappelle que les enfants forcés à voler sont d'abord des victimes de traite. Combattre ces réseaux est nécessaire ; mais accuser tout un peuple, c'est confondre les victimes avec leurs exploiteurs.",
+    "empathie": "Être témoin de vols à la tire ou de mendicité insistante peut être désagréable, voire inquiétant, et ce ressenti mérite d'être entendu. Mais il ne dit rien de tout un peuple."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Moi, je l'ai vu dans le métro.",
+      "reponse": "Des vols à la tire existent et des réseaux sont jugés. Mais on ne juge pas des centaines de milliers de personnes sur ce qu'on a vu faire à quelques-unes ; et les enfants forcés à voler sont d'abord des victimes de traite."
+    },
+    {
+      "objection": "Ils ne veulent pas travailler.",
+      "reponse": "Quand l'État accompagne les habitants des bidonvilles, ils accèdent à l'emploi : 1 248 personnes en 2023 selon la Dihal. Et les gens du voyage sont en très grande majorité des Français, souvent sédentaires."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien de personnes vivent réellement en bidonvilles en France ?",
+    "Fais-tu la différence entre les gens du voyage, qui sont en majorité français, et les Roms venus de Roumanie ?",
+    "Si un réseau exploite des enfants pour voler, qui sont les coupables et qui sont les victimes ?"
+  ],
+  "limites": [
+    "Il n'existe pas de statistique ethnique en France : aucune source ne permet de mesurer les revenus ou la délinquance « des Roms ».",
+    "Les estimations sur les gens du voyage datent de 2012 et celles sur les Roms migrants de 2014 ; le chiffre de 10 000 personnes en bidonvilles est plus récent mais porte sur les personnes d'origine européenne en général.",
+    "Le chiffre de 45 % provient d'un compte rendu du rapport de la CNCDH de 2022 ; le rapport original n'a pas été ouvert.",
+    "L'avis de la CNCDH sur la traite ne donne pas l'origine des victimes."
+  ],
+  "sources": [
+    {
+      "titre": "Les essentiels du rapport 2025 sur la lutte contre le racisme, l'antisémitisme et la xénophobie",
+      "organisme": "Commission nationale consultative des droits de l'homme (CNCDH)",
+      "date_publication": "juin 2026",
+      "url": "https://www.cncdh.fr/sites/default/files/2026-06/CNCDH%20Essentiels%20du%20rapport%20racisme%202025.pdf",
+      "passage": "Indice longitudinal de tolérance global : 64 sur 100, stable par rapport à 2024. « Les Roms sont de loin la minorité la moins acceptée » : 64 % des personnes interrogées les voient comme un « groupe à part ».",
+      "pertinence": "Rapport annuel officiel de la CNCDH, fondé sur un baromètre d'opinion.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Unité et diversité des préjugés racistes et antisémites (Droits & Libertés n° 214)",
+      "organisme": "Nonna Mayer (CNRS, Sciences Po), revue de la Ligue des droits de l’Homme",
+      "date_publication": "juillet 2026",
+      "url": "https://www.ldh-france.org/wp-content/uploads/2026/07/DL214-Dossier-3.-Unite-et-diversite-des-prejuges-racistes-et-antisemites.pdf",
+      "passage": "D'après le baromètre de la CNCDH (enquête Ipsos en face à face auprès d'environ 1 000 personnes, 25 novembre-12 décembre 2025), les Roms ont « systématiquement l'ILT le plus bas », 14 points sous l'indice global, et « restent associés à des stéréotypes particulièrement dégradants ». 64 % des personnes interrogées les voient comme un groupe à part. Les « gens du voyage » sont « une catégorie administrative française liée à un mode d'habitat mobile, sans connotation ethnique » ; « Rom » désigne divers groupes parlant le romani.",
+      "pertinence": "Article d'une politiste dans la revue d'une association de défense des droits.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les Français sont plus tolérants mais les actes racistes sont plus nombreux que jamais",
+      "organisme": "Maire-info (quotidien d’information des élus locaux)",
+      "date_publication": "19 juillet 2022",
+      "url": "https://www.maire-info.com/societe/les-fran%C3%A7ais-sont-plus-tolerants-mais-les-actes-racistes-sont-plus-nombreux-que-jamais-article-26638",
+      "passage": "Compte rendu du rapport 2021 de la CNCDH : 45 % des personnes interrogées adhèrent au préjugé selon lequel les Roms vivraient essentiellement de vols et de trafics ; indice de tolérance envers les Roms de 52, contre 80 pour les Noirs, 79 pour les Juifs et 62 pour les musulmans. La CNCDH décrit l'antitsiganisme comme « une forme de racisme particulièrement persistante, violente, récurrente et banalisée ».",
+      "pertinence": "Presse spécialisée rendant compte d'un rapport officiel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Avis sur le respect des droits des « gens du voyage » et des Roms migrants au regard des réponses récentes de la France aux instances internationales",
+      "organisme": "Commission nationale consultative des droits de l'homme (CNCDH)",
+      "date_publication": "22 mars 2012",
+      "url": "https://www.romeurope.org/wp-content/uploads/2012/03/12-03-22_Avis_gens_du_voyage_et_Roms_migrants.pdf",
+      "passage": "Les gens du voyage représentent « environ 500.000 personnes », dont « la très grande majorité » sont des citoyens français, et beaucoup sont aujourd'hui sédentaires ; seuls 100 000 à 150 000 environ sont réellement itinérants pendant l'année scolaire. Les Roms migrants, « de l'ordre de 15 à 20.000 personnes », viennent surtout de Roumanie et étaient sédentaires avant leur arrivée. Les deux groupes diffèrent par le mode de vie, le statut juridique et le droit applicable.",
+      "pertinence": "Avis officiel de la CNCDH (copie hébergée par le collectif Romeurope) ; données de 2012.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Avis sur le respect des droits fondamentaux des populations vivant en bidonvilles",
+      "organisme": "Commission nationale consultative des droits de l'homme (CNCDH)",
+      "date_publication": "20 novembre 2014",
+      "url": "https://www.gisti.org/IMG/pdf/jur_cncdh_2014-11-20_bidonvilles.pdf",
+      "passage": "Les Roms migrants vivant en bidonvilles sont estimés à « 15 000 à 20 000 personnes en France », soit environ 0,03 % de la population, un chiffre stable depuis dix ans. Un mode de vie nomade leur est attribué à tort : dans une enquête de la CNCDH, 86 % des personnes interrogées considéraient les Roms migrants comme surtout nomades. Les Roms sont souvent présentés comme un groupe « associé à l'insalubrité, à la délinquance et aux expédients » ; la focalisation médiatique sur la délinquance masque le fait que les mineurs des Balkans et d'Europe de l'Est sont d'abord victimes de traite.",
+      "pertinence": "Avis officiel de la CNCDH (copie hébergée par le Gisti) ; données de 2014.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Contribution de la Dihal au rapport 2025 de la CNCDH sur la lutte contre le racisme",
+      "organisme": "Délégation interministérielle à l'hébergement et à l'accès au logement (Dihal), publiée par la CNCDH",
+      "date_publication": "juin 2026",
+      "url": "https://www.cncdh.fr/sites/default/files/2026-06/Dihal_CNCDH_Contribution_2025.pdf",
+      "passage": "Le nombre de personnes en bidonvilles « est aujourd'hui estimé à 10 000 personnes d'origine intra-européenne », principalement de Roumanie et de Bulgarie, en baisse d'environ 25 % depuis 2018 ; il s'agit de personnes « dites ou se considérant comme Roms ». En 2023, 1 248 personnes ont accédé à un emploi et 1 451 à un hébergement ou un logement grâce à la politique de résorption ; en 2024-2025, la médiation a permis de scolariser 3 900 enfants (1 430 en 2019).",
+      "pertinence": "Contribution officielle d'une administration de l'État.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "France : jusqu'à 8 ans de prison pour traite de mendiants roms bulgares",
+      "organisme": "AFP, repris par The Times of Israel (édition française)",
+      "date_publication": "10 février 2021",
+      "url": "https://fr.timesofisrael.com/france-jusqua-8-ans-de-prison-pour-traite-de-mendiants-roms-bulgares/amp/",
+      "passage": "Le tribunal correctionnel de Toulouse a condamné 16 hommes roms originaires de Bulgarie pour traite d'êtres humains, exploitation de la mendicité et blanchiment, à des peines allant jusqu'à huit ans de prison. 33 mendiants ont été identifiés comme victimes : recrutés dans la région de Pleven avec la promesse d'un travail, ils se faisaient confisquer leurs papiers, devaient mendier de longues heures et remettre l'argent, et étaient mal nourris et parfois battus.",
+      "pertinence": "Dépêche d'agence de presse.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Avis sur la traite à des fins de contrainte à commettre tout délit ou crime (A-2024-2)",
+      "organisme": "Commission nationale consultative des droits de l'homme (CNCDH)",
+      "date_publication": "28 mars 2024",
+      "url": "https://www.cncdh.fr/sites/default/files/2024-03/A%20-%202024%20-%202%20-%20Avis%20Contrainte%20%C3%A0%20commettre%20d%C3%A9lit%20ou%20crime%2C%20mars%202024.pdf",
+      "passage": "En 2022, 195 victimes (7 %) sur les 2 675 accompagnées par 69 associations étaient contraintes à commettre des délits ou des crimes ; environ 70 % des victimes en France sont des mineurs non accompagnés ; 81 % étaient exploitées par une personne de leur entourage et 16 % par leur famille. Les vols à la tire sont un exemple de délinquance imposée. « ceux qui sont contraints à commettre un acte de délinquance sont en fait des victimes ». L'avis ne vise aucune origine particulière.",
+      "pertinence": "Avis officiel de la CNCDH.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Rapport annuel de la CNCDH sur le racisme et nouvel état des lieux de la Dihal.",
+  "objections_legitimes": [
+    "Des réseaux d'exploitation de la mendicité ou de mineurs contraints à voler existent et doivent être poursuivis.",
+    "Les bidonvilles posent de vrais problèmes d'hygiène et de sécurité, d'abord pour leurs habitants.",
+    "Les élus locaux peuvent être démunis face aux installations illicites."
+  ],
+  "publics": {
+    "convaincus": "Les bidonvilles, c'est environ 10 000 personnes très pauvres, et quand on les accompagne, elles trouvent du travail. Les gens du voyage, eux, sont surtout des Français, souvent sédentaires. Oui, des réseaux qui exploitent des mendiants existent et sont condamnés, mais leurs premières victimes sont souvent des Roms : on ne juge pas tout un peuple sur ses pires éléments.",
+    "indecis": "Ce que tu as pu voir dans la rue est réel, mais ça ne dit rien de tout un peuple. Selon la CNCDH, les Roms sont la minorité la plus rejetée en France, et le préjugé confond des citoyens français et des migrants très pauvres. Les réseaux d'exploitation existent et sont jugés ; leurs victimes ont besoin d'être protégées, pas soupçonnées."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "dignite",
+      "vulnerables"
+    ],
+    "mecanismes": "Le préjugé attribue à tout un peuple les actes de quelques-uns et confond des citoyens français, souvent sédentaires, avec des migrants européens très pauvres.",
+    "consequences": "Les familles des bidonvilles subissent rejet et méfiance, et les enfants exploités par des réseaux sont traités en suspects plutôt qu’en victimes.",
+    "democratie": "Juger des personnes pour ce qu’elles sont, et non pour ce qu’elles font, contredit l’égalité devant la loi.",
+    "propositions": [
+      "Poursuivre la résorption des bidonvilles par le logement, l’emploi et la scolarisation.",
+      "Démanteler les réseaux de traite et protéger leurs victimes, notamment les mineurs.",
+      "Combattre l’antitsiganisme dans les discours publics et dans l’accès aux droits."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des réseaux d’exploitation de la mendicité, dirigés par des hommes roms, ont été condamnés par la justice.",
+        "integration": "Combattre fermement ces réseaux, en rappelant que leurs victimes sont souvent issues des mêmes communautés pauvres."
+      }
+    ]
+  },
+  "concepts": [
+    "origine",
+    "delinquance",
+    "discrimination",
+    "gens_voyage",
+    "roms",
+    "immigration"
+  ],
+  "repond_a": [
+    {
+      "id": "roms_q0614",
+      "label": "Préjugés contre les Roms"
+    },
+    {
+      "id": "origine_q0614_roms",
+      "label": "Préjugés contre les Roms"
+    },
+    {
+      "id": "delinquance_q0614_roms",
+      "label": "Préjugés contre les Roms"
+    },
+    {
+      "id": "immigration_q0614_roms",
+      "label": "Préjugés contre les Roms"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "testing",
+    "racisme",
+    "nom a consonance",
+    "gens du voyage"
+  ]
+}

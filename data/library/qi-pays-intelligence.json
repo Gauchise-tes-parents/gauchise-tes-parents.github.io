@@ -1,0 +1,247 @@
+{
+  "id": "qi-pays-intelligence",
+  "type": "idee_recue",
+  "affirmation": "Les différences de QI entre pays prouvent que certains peuples sont moins intelligents.",
+  "volet": "immigration",
+  "sous_theme": "Racisme",
+  "rubriques": [],
+  "mots_cles": [
+    "qi par pays",
+    "qi des africains",
+    "qi moyen pays",
+    "peuples moins intelligents",
+    "carte du qi",
+    "richard lynn",
+    "qi et race",
+    "qi national",
+    "intelligence des peuples"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Les « QI nationaux » qui circulent viennent surtout des données de Richard Lynn, jugées gravement défaillantes par des chercheurs : échantillons minuscules (19 personnes pour l'Angola), aucun critère de sélection publié, études choisies selon leurs résultats. Des revues ont rétracté des articles fondés sur ces données en 2024 et 2025. Les scores de QI dépendent fortement de l'environnement : ils ont augmenté d'environ trois points par décennie au XXe siècle, une année d'école ajoute de 1 à 5 points, et la carence en iode en retire 10 à 15. Les écarts de scores mesurés ne prouvent aucune infériorité d'un peuple.",
+  "contexte": "Des cartes du « QI moyen par pays » circulent sur les réseaux sociaux pour suggérer que certains peuples, notamment africains, seraient naturellement moins intelligents. Elles reprennent presque toujours les jeux de données de Richard Lynn, psychologue britannique mort en 2023.",
+  "explication": "Il faut examiner la qualité des données utilisées, puis ce que la recherche sait des causes des écarts de scores : scolarisation, nutrition, santé, et l'évolution des scores dans le temps (effet Flynn).",
+  "faits": [
+    {
+      "fait": "Une revue systématique publiée en 2010 trouve un QI moyen d'environ 82 (par rapport aux normes britanniques) pour les échantillons africains étudiés, là où Lynn et Vanhanen affirmaient qu'il était inférieur à 70 ; les auteurs demandent de lire ce chiffre à la lumière de l'effet Flynn.",
+      "periode": "2010",
+      "perimetre": "Afrique subsaharienne",
+      "explication": "Avec des critères de sélection explicites, l'écart affiché par Lynn se réduit fortement.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "82"
+    },
+    {
+      "fait": "Fait défavorable : même avec une méthode rigoureuse, les scores moyens mesurés en Afrique subsaharienne restent inférieurs aux normes britanniques, d'environ 18 points selon cette revue de 2010.",
+      "periode": "2010",
+      "perimetre": "Afrique subsaharienne",
+      "explication": "Les écarts de scores existent ; la question est ce qu'ils mesurent et d'où ils viennent.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une tribune de chercheurs publiée par STAT, Lynn n'a publié aucun critère de sélection, et la moitié de ses estimations pour l'Afrique subsaharienne et l'Amérique latine reposent sur moins de 1 000 personnes, dont 19 pour l'Angola.",
+      "periode": "2024",
+      "perimetre": "Monde",
+      "explication": "Un « QI national » calculé sur 19 personnes ne dit rien d'un pays de plusieurs dizaines de millions d'habitants.",
+      "source": 1,
+      "fiabilite": "interpretation",
+      "chiffre": "19"
+    },
+    {
+      "fait": "Selon Retraction Watch, la revue de la Royal Society Proceedings B a rétracté en janvier 2024 un article de 2010 fondé sur les données de Lynn et Vanhanen, en jugeant que « les problèmes manifestes des données » justifiaient la rétractation.",
+      "periode": "2024",
+      "perimetre": "Monde",
+      "explication": "Les revues scientifiques elles-mêmes reconnaissent que ces données ne sont pas fiables.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Retraction Watch, la revue Cross-Cultural Research a rétracté en novembre 2025 une étude utilisant la base des QI nationaux ; une chercheuse a recensé 174 études qui l'utilisent encore.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Ces données défaillantes continuent d'alimenter des publications et des cartes diffusées en ligne.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "174"
+    },
+    {
+      "fait": "Selon une méta-analyse de l'université de Vienne portant sur près de quatre millions de personnes dans 31 pays, les scores de QI ont augmenté d'environ trois points par décennie entre 1909 et 2013, sans doute grâce à la nutrition, à l'hygiène, aux soins et à l'éducation.",
+      "periode": "1909-2013",
+      "perimetre": "31 pays",
+      "explication": "Si les scores d'un même pays changent autant en un siècle, ils ne mesurent pas une capacité fixée par l'origine.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "3 points"
+    },
+    {
+      "fait": "Selon une méta-analyse portant sur plus de 600 000 personnes, une année d'éducation supplémentaire augmente le QI d'environ 1 à 5 points, de façon durable.",
+      "periode": "2018",
+      "perimetre": "Monde",
+      "explication": "Les écarts de scolarisation entre pays suffisent à produire des écarts de QI importants.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "1 à 5 points"
+    },
+    {
+      "fait": "Selon l'OMS, les populations carencées en iode obtiennent des scores de QI de 10 à 15 points plus bas ; la carence touchait 740 millions de personnes dans 130 pays au début des années 2000.",
+      "periode": "2002",
+      "perimetre": "Monde",
+      "explication": "La santé et la nutrition pèsent lourd sur les scores de QI.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "10 à 15 points"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les « QI par pays » qui circulent viennent des données de Richard Lynn, jugées gravement défaillantes : 19 personnes testées pour toute l'Angola, aucun critère de sélection publié. Des revues ont rétracté des articles fondés sur ces données. Et les scores de QI dépendent de l'école, de la nutrition et de la santé : ils ont augmenté d'environ trois points par décennie au XXe siècle.",
+    "moyen": "Les cartes du « QI par pays » reposent presque toutes sur les jeux de données du psychologue Richard Lynn. Des chercheurs ont montré qu'il n'avait publié aucun critère de sélection, qu'il retenait les échantillons africains aux scores bas et écartait les autres, et que certaines estimations reposaient sur quelques dizaines de personnes : 19 pour l'Angola. En 2024 et 2025, des revues scientifiques ont rétracté des articles fondés sur ces données.\n\nAvec une méthode rigoureuse, des chercheurs néerlandais trouvent bien des scores plus bas en Afrique subsaharienne, mais nettement moins qu'annoncé par Lynn. Et ces écarts s'expliquent par l'environnement : une année d'école ajoute de 1 à 5 points de QI, la carence en iode en retire 10 à 15, et les scores ont augmenté d'environ trois points par décennie dans les pays étudiés au XXe siècle. Nos arrière-grands-parents auraient eu des scores très inférieurs aux nôtres : personne n'en conclut qu'ils étaient un peuple inférieur.",
+    "detaille": "L'affirmation repose sur des cartes du « QI moyen par pays » largement partagées en ligne. Presque toutes reprennent les données de Richard Lynn, psychologue britannique connu pour ses thèses racistes. Le problème commence avec ces données. Selon une tribune de chercheurs publiée en 2024, Lynn n'a jamais publié de critères de sélection, et la moitié de ses estimations pour l'Afrique subsaharienne et l'Amérique latine reposent sur moins de 1 000 personnes : 19 pour l'Angola. Une revue systématique de 2010 a montré qu'il avait retenu les échantillons africains aux scores bas et écarté les autres. En 2024, une revue de la Royal Society a rétracté un article fondé sur ces données, en raison de leurs « problèmes manifestes » ; une autre revue a fait de même en novembre 2025.\n\nIl faut être honnête : avec une méthode rigoureuse, les scores moyens mesurés en Afrique subsaharienne restent inférieurs aux normes britanniques, autour de 82 selon cette revue de 2010, contre moins de 70 chez Lynn. Mais un score de test n'est pas une capacité innée. Une méta-analyse portant sur plus de 600 000 personnes montre qu'une année d'école ajoute de 1 à 5 points. Selon l'OMS, les populations carencées en iode perdent 10 à 15 points. Les tests eux-mêmes ont été conçus en Occident, et leurs biais en Afrique restent mal connus.\n\nSurtout, les scores bougent vite. Entre 1909 et 2013, dans 31 pays, ils ont augmenté d'environ trois points par décennie, avec l'amélioration de la nutrition, de l'hygiène, des soins et de l'éducation : c'est l'effet Flynn. Avec les normes d'aujourd'hui, les Européens du début du XXe siècle auraient obtenu des scores très bas. Les écarts de QI entre pays mesurent donc surtout des écarts de conditions de vie, de santé et de scolarisation. Ils ne prouvent en rien qu'un peuple serait moins intelligent par nature.",
+    "empathie": "Ces cartes ont l'air scientifiques, avec des chiffres précis pour chaque pays, et il est normal de se poser des questions en les voyant. Justement : regardons d'où viennent ces chiffres."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est de la science, ce sont des tests standardisés.",
+      "reponse": "Les données de Lynn n'ont aucun critère de sélection publié et reposent parfois sur quelques dizaines de personnes. Des revues scientifiques ont rétracté des articles qui les utilisaient."
+    },
+    {
+      "objection": "Même avec de meilleures données, il y a un écart.",
+      "reponse": "Oui, mais une année d'école vaut de 1 à 5 points et la carence en iode en retire 10 à 15. Et les scores ont progressé d'environ trois points par décennie au XXe siècle : ils mesurent des conditions de vie, pas une nature."
+    }
+  ],
+  "questions": [
+    "Sais-tu sur combien de personnes repose le « QI national » de l'Angola dans ces cartes ?",
+    "Si les scores ont augmenté d'environ trois points par décennie, nos arrière-grands-parents étaient-ils moins intelligents que nous ?",
+    "Qu'est-ce qui pèse le plus sur un score de test : l'origine, ou l'école et la santé ?"
+  ],
+  "limites": [
+    "Les rétractations sont rapportées par Retraction Watch ; les avis de rétractation eux-mêmes n'ont pas été ouverts.",
+    "La tribune publiée par STAT est un texte d'opinion de chercheurs qui demandent des rétractations ; ses chiffres proviennent en partie de l'étude de Wicherts et al. (2010).",
+    "Les données de l'OMS sur l'iode datent de 2002.",
+    "La méta-analyse sur l'effet Flynn a été lue à travers le communiqué de l'université de Vienne ; ses auteurs jugent que ces gains ne traduisent pas forcément une hausse de l'intelligence générale.",
+    "Aucune source sur le paludisme n'a pu être lue ; la fiche n'en parle donc pas."
+  ],
+  "sources": [
+    {
+      "titre": "A systematic literature review of the average IQ of sub-Saharan Africans",
+      "organisme": "Jelte M. Wicherts, Conor V. Dolan, Han L. J. van der Maas (université de Tilburg et université d’Amsterdam), revue Intelligence, vol. 38, n° 1, p. 1-20",
+      "date_publication": "2010",
+      "url": "https://research.tilburguniversity.edu/en/publications/a-systematic-literature-review-of-the-average-iq-of-sub-saharan-a/",
+      "passage": "Revue systématique des données publiées, avec des critères d'inclusion explicites. Lynn et Vanhanen avaient « concluded that the average IQ of the Black population of sub-Saharan Africa lies below 70 ». Les auteurs trouvent que « average IQ of Africans on these tests is approximately 82 when compared to UK norms » et estiment que « this estimate should be considered in light of the Flynn Effect ». Ils appellent à davantage de recherches sur les biais de mesure des tests occidentaux appliqués en Afrique.",
+      "pertinence": "Article évalué par les pairs dans une revue spécialisée.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Journals that published Richard Lynn's racist 'research' articles should retract them (tribune)",
+      "organisme": "Dan Samorodnitsky, Kevin Bird, Jedidiah Carlson, James Lingford, Jon Phillips, Rebecca Sear, Cathryn Townsend — STAT",
+      "date_publication": "20 juin 2024",
+      "url": "https://www.statnews.com/2024/06/20/richard-lynn-racist-research-articles-journals-retractions/",
+      "passage": "« Lynn never published any sort of selection criteria or methodology ». Selon l'étude de Wicherts et al. (2010), Lynn a retenu les échantillons africains aux scores bas et écarté les plus élevés, et n'a utilisé aucun échantillon africain de moyenne supérieure à 85. La moitié des estimations nationales d'Afrique subsaharienne et d'Amérique latine reposent sur moins de 1 000 personnes : l'Angola sur 19 personnes pour un pays de 35 millions d'habitants. Les défauts persistent dans la version de 2019 (131 pays). Une revue de la Royal Society a rétracté un article fondé sur ces données ; une revue de Sage en a rétracté un en 2020 à la demande des auteurs.",
+      "pertinence": "Tribune de chercheurs et d'un journaliste scientifique, qui appellent à des rétractations.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Do some IQ data need a 'public health warning?' A paper based on a controversial psychologist's data is retracted",
+      "organisme": "Adam Marcus, Retraction Watch",
+      "date_publication": "18 mars 2024",
+      "url": "https://retractionwatch.com/2024/03/18/do-some-iq-data-need-a-public-health-warning-a-paper-based-on-a-controversial-psychologists-data-is-retracted/",
+      "passage": "La revue Proceedings of the Royal Society B a rétracté en janvier 2024 un article de 2010 reliant la prévalence des parasites et la « distribution mondiale des capacités cognitives », fondé sur les données publiées en 2004 par Tatu Vanhanen et Richard Lynn (mort en 2023). Avis de rétractation : « the manifest problems in the data warranted retraction » ; les jeux de données « contain substantial inaccuracies and biases that throw substantial doubt on inferences made from them », problèmes non résolus dans les versions révisées.",
+      "pertinence": "Site spécialisé dans le suivi des rétractations scientifiques.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Meet the researcher aiming to halt use of 'fundamentally flawed' database linking IQ and nationality",
+      "organisme": "Dalmeet Singh Chawla, Retraction Watch",
+      "date_publication": "25 novembre 2025",
+      "url": "https://retractionwatch.com/2025/11/25/meet-the-researcher-aiming-to-halt-use-of-fundamentally-flawed-database-linking-iq-and-nationality",
+      "passage": "Rebecca Sear (Brunel University of London) a recensé 174 études utilisant la base de données des QI nationaux et contacté 18 revues : « There is absolutely no scientific merit whatsoever in the National IQ database ». Selon Jelte Wicherts, la mise à jour de David Becker « inherited many of the fundamental flaws ». Le 2 novembre 2025, la revue Cross-Cultural Research a rétracté une étude de 2023 utilisant ces données ; trois articles de Lynn ont fait l'objet d'avis de préoccupation (expressions of concern).",
+      "pertinence": "Site spécialisé dans le suivi des rétractations scientifiques.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "One Century of Global IQ Gains: A Formal Meta-Analysis of the Flynn Effect (1909-2013) — communiqué",
+      "organisme": "Jakob Pietschnig et Martin Voracek (Université de Vienne), Perspectives on Psychological Science, vol. 10, p. 282-306 — communiqué EurekAlert",
+      "date_publication": "1er juin 2015",
+      "url": "https://www.eurekalert.org/news-releases/490079",
+      "passage": "Méta-analyse portant sur près de quatre millions de participants dans 31 pays entre 1909 et 2013 : les scores de QI ont augmenté d'environ trois points par décennie. Les gains ont été plus faibles en Europe pendant la Seconde Guerre mondiale et ralentissent depuis quelques décennies. Explications avancées : amélioration de la nutrition, de l'hygiène, des soins médicaux et de l'éducation. Selon les auteurs, « IQ gains thus appear to be hollow in terms of global cognitive ability changes ».",
+      "pertinence": "Communiqué de presse universitaire sur un article évalué par les pairs.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "How much does education improve intelligence? A meta-analysis",
+      "organisme": "Stuart J. Ritchie (Université d’Édimbourg) et Elliot M. Tucker-Drob (Université du Texas), Psychological Science, vol. 29, n° 8, p. 1358-1369",
+      "date_publication": "2018",
+      "url": "https://www.research.ed.ac.uk/en/publications/how-much-does-education-improve-intelligence-a-meta-analysis/",
+      "passage": "Méta-analyse de 142 effets issus de 42 jeux de données (plus de 600 000 participants), fondée sur des méthodes quasi expérimentales (réformes de la scolarité obligatoire, dates limites d'entrée à l'école). Effet estimé : « approximately 1 to 5 IQ points for an additional year of education », durable tout au long de la vie.",
+      "pertinence": "Article évalué par les pairs.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Eliminating iodine deficiency disorders",
+      "organisme": "Bruno de Benoist et Graeme Clugston (Organisation mondiale de la santé), Bulletin de l’OMS, vol. 80, n° 5",
+      "date_publication": "2002",
+      "url": "https://scielosp.org/article/bwho/2002.v80n5/o2",
+      "passage": "« Iodine-deficient communities have been found to score 10-15 points lower on IQ tests than iodine-replete ones. » La carence en iode est un problème de santé publique important dans 130 pays et touche 740 millions de personnes.",
+      "pertinence": "Article de responsables de l'OMS ; données anciennes (2001-2002).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-13",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suite de l'examen des articles de Lynn par Elsevier et éventuelles nouvelles rétractations.",
+  "objections_legitimes": [
+    "Les scores moyens aux tests de QI diffèrent réellement entre pays, même avec des données rigoureuses.",
+    "Le QI est une mesure étudiée depuis longtemps, qui prédit en partie la réussite scolaire.",
+    "Il est légitime de s'intéresser aux écarts de développement entre pays."
+  ],
+  "publics": {
+    "convaincus": "Ces cartes viennent des données de Richard Lynn, et le QI de l'Angola y repose sur 19 personnes testées. Des revues scientifiques ont retiré des articles fondés sur ces chiffres. Et les scores de QI ont augmenté d'environ trois points par décennie au XXe siècle : tes arrière-grands-parents n'étaient pas un peuple inférieur, ils allaient moins longtemps à l'école.",
+    "indecis": "C'est normal de se poser des questions devant une carte pleine de chiffres. Mais ces chiffres viennent de données jugées gravement défaillantes, dont plusieurs revues ont tiré les conséquences. Les écarts de scores qui restent s'expliquent largement par l'école, la nutrition et la santé, qui peuvent faire varier le QI de plusieurs points."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "egalite",
+      "universalite"
+    ],
+    "mecanismes": "Des données défaillantes, présentées sous forme de cartes chiffrées, donnent une apparence scientifique à une vieille idée raciste : la hiérarchie naturelle des peuples.",
+    "consequences": "Ces cartes servent à justifier le mépris envers des populations entières et à rendre la pauvreté responsable d’elle-même.",
+    "democratie": "L’égalité en droits ne dépend d’aucun score : elle vaut pour chaque personne, quelle que soit son origine.",
+    "propositions": [
+      "Investir dans la scolarisation, la nutrition et la santé des enfants, partout dans le monde.",
+      "Soutenir le travail des revues et des chercheurs qui corrigent ou retirent les publications fondées sur des données défaillantes.",
+      "Enseigner à lire une statistique et à en vérifier la source."
+    ],
+    "defavorables": [
+      {
+        "fait": "Avec des données rigoureuses, les scores moyens mesurés en Afrique subsaharienne restent inférieurs aux normes britanniques.",
+        "integration": "Reconnaître l’écart de scores, puis montrer qu’il s’explique par l’école, la nutrition et la santé, et non par une nature."
+      }
+    ]
+  },
+  "concepts": [
+    "origine",
+    "patriotisme",
+    "discrimination"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "testing",
+    "racisme",
+    "nom a consonance"
+  ]
+}

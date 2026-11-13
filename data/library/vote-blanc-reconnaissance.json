@@ -183,10 +183,6 @@
       }
     ]
   },
-  "concepts": [
-    "abstention",
-    "vote_blanc"
-  ],
   "repond_a": [
     {
       "id": "vote_blanc_q2013",
@@ -204,5 +200,9 @@
     "vote blanc",
     "pas voter",
     "aller voter"
+  ],
+  "concepts": [
+    "abstention",
+    "vote_blanc"
   ]
 }

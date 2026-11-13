@@ -247,10 +247,6 @@
       }
     ]
   },
-  "concepts": [
-    "ukraine",
-    "venezuela"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -258,5 +254,10 @@
     "kyiv",
     "maduro",
     "chavez"
+  ],
+  "concepts": [
+    "ukraine",
+    "ukraine_paix",
+    "venezuela"
   ]
 }
