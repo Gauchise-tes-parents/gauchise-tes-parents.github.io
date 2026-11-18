@@ -209,12 +209,6 @@
       }
     ]
   },
-  "concepts": [
-    "barbecue",
-    "gauche",
-    "desinformation",
-    "ecologie"
-  ],
   "repond_a": [
     {
       "id": "barbecue_q1215",
@@ -235,5 +229,11 @@
     "fake news",
     "manipulation de l information",
     "nucleaire"
+  ],
+  "concepts": [
+    "barbecue",
+    "gauche",
+    "desinformation",
+    "ecologie"
   ]
 }

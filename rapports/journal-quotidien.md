@@ -1706,3 +1706,123 @@ Variantes familières vérifiées (toutes mènent à la bonne fiche) :
 - La question témoin « Les chômeurs profitent du système » menait à la fiche sur les APL à cause du mot-clé « apl proprietaires profitent » : il devient « apl poche des proprietaires ». La question témoin mène de nouveau à `chomeurs-travailler`, et « Les APL, ça finit dans la poche des propriétaires » mène toujours à la fiche sur les APL.
 
 **Vérifications.** `npm test` : 477 tests, 477 réussis, après les corrections ci-dessus. Tests de bout en bout : 38 tests, 38 réussis.
+
+## 18 novembre 2026 — passage de 20 h 13 (UTC)
+
+**Questions testées : 25 nouvelles, retenues sur 47 essayées.** Les autres phrases essayées ont été écartées avant rédaction parce qu'une fiche existante y répondait déjà (ou presque), ou parce qu'elles étaient moins centrales. Exemples :
+- « La note Terra Nova prouve que la gauche a abandonné les ouvriers » (`ouvriers-vote-rn`) ;
+- « La délinquance des mineurs explose » (`excuse-de-minorite`) ;
+- « Les antifas devraient être classés comme terroristes » (`ultragauche-ultradroite-violence`) ;
+- « LFI veut supprimer l'école privée » (`ecole-privee-meilleure`) ;
+- « Les immigrées font beaucoup plus d'enfants que les Françaises » (fiches sur la démographie, rattachement à revoir) ;
+- « Les patrons du CAC 40 méritent leurs salaires » (`dividendes-salaires`, rattachement à revoir) ;
+- « LFI a soutenu Adrien Quatennens » (déjà évoqué dans `melenchon-autoritaire`) ;
+- « Les journalistes votent tous à gauche », « La gauche admire Cuba », « La gauche veut faire de l'Aïd un jour férié », « Le 11 septembre était un complot américain », « La police de proximité n'a jamais marché » (moins centraux, données trop minces ou déjà traités en partie).
+
+Les 25 questions testées :
+1. La Turquie va entrer dans l'Union européenne.
+2. Au Royaume-Uni, des gangs pakistanais ont violé des milliers de filles et on l'a caché.
+3. En Afrique du Sud, on massacre les fermiers blancs.
+4. Macron veut envoyer nos enfants mourir en Ukraine.
+5. LFI n'a pas défendu Boualem Sansal.
+6. C'est la Chambre du Front populaire qui a voté les pleins pouvoirs à Pétain.
+7. La gauche veut déboulonner les statues et effacer notre histoire.
+8. De Gaulle voterait RN aujourd'hui.
+9. La France a abandonné les harkis et ne l'a jamais reconnu.
+10. Les Italiens et les Portugais se sont intégrés, pas les Maghrébins.
+11. On ne peut plus donner une fessée à ses enfants, l'État s'en mêle.
+12. On nous interdit l'école à la maison.
+13. Les franchises médicales responsabilisent les patients, la santé est trop gratuite.
+14. Les masques ne servaient à rien contre le Covid.
+15. Les vaccins provoquent l'autisme.
+16. Les réfugiés retournent en vacances dans leur pays.
+17. Il faudrait autoriser les Français à porter une arme pour se défendre.
+18. Les policiers se suicident parce que l'État les lâche.
+19. L'abattage rituel sans étourdissement est cruel, il faut l'interdire.
+20. La France a trop de communes, le millefeuille administratif coûte une fortune.
+21. La loi SRU oblige les villes à construire des HLM pour des cas sociaux.
+22. Les livreurs Uber ont choisi d'être indépendants, ils sont libres.
+23. Les panneaux solaires ne sont pas recyclables.
+24. Interdire les jets privés ne sert à rien pour le climat.
+25. LFI veut interdire les licenciements boursiers, c'est impossible.
+
+Avant ce passage, 12 menaient à une « LACUNE » et 13 à une fiche hors sujet (par exemple `souverainete-populaire` pour la Turquie, `brexit-succes` pour les gangs britanniques, `melenchon-crie` pour Boualem Sansal et les licenciements boursiers, `judeo-bolchevisme-histoire` pour les pleins pouvoirs, `rsa-smic` pour les franchises médicales, `services-publics-moyens` pour l'école à la maison).
+
+**Fiches créées : 25.**
+- Générateur : `scripts/fiches/quotidien_20261118_2013.py`.
+- Chaque fiche a le champ `publics` et une entrée dans `scripts/lectures-gauche.js`.
+- Les sources ont été ouvertes et lues le 18 novembre 2026 par cinq agents de recherche, avec un outil de lecture qui résume : les citations entre « » sont courtes et à revérifier mot pour mot. Chaque lot a été contrôlé avant assemblage (règles de l'application, politique documentaire, champ `publics`, lectures sans chiffre).
+- Deux fiches dépassaient la limite de 8 faits (`franchises-medicales-responsabiliser`, `port-arme-autodefense`) : un fait redondant ou moins solide a été retiré de chacune (son contenu reste dans le passage de la source).
+
+Trois premières sources de chacune :
+- `turquie-adhesion-ue` (contredit, 7 sources) : Conseil de l'Union européenne (page revue le 16 décembre 2025) ; Commission européenne, DG Élargissement (consultée le 18 novembre 2026) ; Parlement européen (17 juin 2026).
+- `grooming-gangs-royaume-uni` (plutôt exact, 7 sources) : Louise Casey pour le ministère de l’Intérieur britannique (Home Office), gov.uk (16 juin 2025) ; Gouvernement britannique, ministère de l’Intérieur (Home Office), gov.uk (16 juin 2025 (mis à jour le 15 janvier 2026)) ; Ministère de l’Intérieur britannique (Home Office), gov.uk (15 décembre 2020).
+- `afrique-du-sud-fermiers-blancs` (contredit, 8 sources) : AFP (dépêche publiée par La Dernière Heure) (22 mai 2025) ; Africa Check (republié par Polity) (27 mai 2025) ; Gareth Newham, Institute for Security Studies (ISS Today), publié par Daily Maverick (26 mai 2025).
+- `macron-soldats-ukraine` (trompeur, 8 sources) : Ludovic Fau, LCP (La Chaîne parlementaire) (27 février 2024) ; Public Sénat (27 février 2024) ; LCP (La Chaîne parlementaire) (12 mars 2024).
+- `lfi-boualem-sansal` (plutôt exact, 7 sources) : Parlement européen, Observatoire législatif (OEIL) (23 janvier 2025) ; HowTheyVote.eu (données ouvertes des votes du Parlement européen) (23 janvier 2025) ; Toute l’Europe (mis à jour le 20 octobre 2026).
+- `pleins-pouvoirs-petain-front-populaire` (trompeur, 8 sources) : Public Sénat (10 juillet 2019) ; Assemblée nationale (10 juillet 2019) ; Benoît Kermoal, Fondation Jean-Jaurès (10 juillet 2020).
+- `statues-deboulonner-histoire` (trompeur, 6 sources) : Présidence de la République (Élysée) (14 juin 2020) ; Héléna Berkaoui, Public Sénat (11 juin 2020) ; RCI Martinique (22 mai 2020).
+- `de-gaulle-voterait-rn` (opinion, 5 sources) : Arthur Bamas, Public Sénat (2 juillet 2020) ; Public Sénat (7 janvier 2025) ; Public Sénat (20 février 2018).
+- `harkis-abandon-reconnaissance` (trompeur, 5 sources) : Présidence de la République (Élysée) (20 septembre 2021) ; Assemblée nationale (Gouvernement) (19 octobre 2021) ; Commission nationale indépendante de reconnaissance et de réparation des préjudices subis par les harkis (CNIH) (données au 13 mars 2025).
+- `italiens-portugais-integration-maghrebins` (trompeur, 8 sources) : Olivier Desouches, revue Hommes & Migrations (Musée national de l'histoire de l'immigration) (1er septembre 2011) ; École normale supérieure, département d'histoire (non datée) ; Insee, Ined (enquête Trajectoires et Origines 2) (5 juillet 2022 (actualisé le 23 février 2023)).
+- `fessee-interdite-etat` (plutôt exact, 6 sources) : Sénat (10 juillet 2019) ; Public Sénat (29 novembre 2018) ; Global Initiative to End All Corporal Punishment of Children (ONG) (novembre 2024).
+- `instruction-en-famille-interdite` (trompeur, 5 sources) : Conseil constitutionnel (13 août 2021) ; Conseil d'État (13 décembre 2022) ; Assemblée nationale (Journal officiel) (19 mars 2024).
+- `franchises-medicales-responsabiliser` (trompeur, 8 sources) : Vidal (2024) ; Service-Public.fr (Direction de l’information légale et administrative) (16 septembre 2026) ; LCP-Assemblée nationale (24 juillet 2026).
+- `masques-covid-inutiles` (trompeur, 9 sources) : Cochrane (Karla Soares-Weiser, rédactrice en chef de la Cochrane Library) (10 mars 2023 (mis à jour en juin 2024)) ; Cowles Foundation, université Yale (J. Abaluck, L. H. Kwong, M. Mobarak et al.), document de travail CFDP 2284R (avril 2021, révisé en mai 2022) ; American College of Physicians (éditeur des Annals of Internal Medicine) (18 novembre 2020).
+- `vaccins-autisme` (contredit, 6 sources) : Robert Roos, CIDRAP (université du Minnesota) (6 janvier 2011) ; Helen Branswell, STAT (4 mars 2019) ; Statens Serum Institut (Danemark), sur une étude publiée dans Annals of Internal Medicine (15 juillet 2025).
+- `refugies-vacances-pays-origine` (trompeur, 6 sources) : Service-Public.fr (Direction de l’information légale et administrative) (vérifié le 1er juillet 2026) ; Office français de protection des réfugiés et apatrides (OFPRA) (juin 2025) ; Assemblée nationale (question de Bruno Bilde, député non inscrit ; réponse du ministère de l’Intérieur) (18 septembre 2018 (question) ; 5 février 2019 (réponse)).
+- `port-arme-autodefense` (trompeur, 6 sources) : Service-Public.fr (Direction de l’information légale et administrative) (vérifié le 24 octobre 2025) ; Service-Public.fr (Direction de l’information légale et administrative) (vérifié le 5 juin 2026) ; Harvard Injury Control Research Center, Harvard T.H. Chan School of Public Health (consulté le 18 novembre 2026).
+- `suicides-policiers` (trompeur, 5 sources) : Sénat (président : Michel Boutant ; rapporteur : François Grosdidier) (27 juin 2018) ; Public Sénat (3 juillet 2018 (mis à jour le 12 juillet 2018)) ; Assemblée nationale (question d’Olivier Dassault, LR ; réponse du ministère de l’Intérieur) (21 novembre 2017 (question) ; 1er mai 2018 (réponse)).
+- `abattage-rituel-etourdissement` (opinion, fiabilité « debat », 4 sources) : Cour de justice de l’Union européenne (17 décembre 2020) ; Assemblée nationale, commission des affaires économiques (rapporteurs : Christophe Barthès et Thierry Benoît) (28 mai 2025) ; Assemblée nationale (question de Marc Le Fur, UMP ; réponse du ministère de l’Agriculture) (19 octobre 2010 (question) ; 2 novembre 2010 (réponse)).
+- `communes-millefeuille-administratif` (trompeur, 5 sources) : Direction générale des collectivités locales (DGCL), ministère de l’Intérieur (avril 2025) ; Cour des comptes (mars 2023) ; Thomas Beurey, Localtis (Banque des Territoires, groupe Caisse des dépôts) (29 mai 2024).
+- `loi-sru-logements-sociaux` (trompeur, 7 sources) : Ministère de la Transition écologique (ministère chargé du Logement) (29 juillet 2020 (mis à jour, version lue en novembre 2026)) ; Ministère de la Transition écologique (communiqué) (11 avril 2024) ; Catherine Bernard, Localtis (Banque des Territoires) (11 avril 2024).
+- `livreurs-plateformes-independants` (trompeur, 7 sources) : Légifrance — Cour de cassation (4 mars 2020) ; Dalloz actualité (texte de l’arrêt de la Cour de cassation) (28 novembre 2018) ; Parlement européen et Conseil de l’Union européenne (Journal officiel de l’UE, EUR-Lex) (23 octobre 2024).
+- `panneaux-solaires-recyclage` (contredit, 5 sources) : Soren (éco-organisme agréé pour les panneaux photovoltaïques) (juillet 2026) ; Pierre Thouverez, Techniques de l’Ingénieur (entretien avec Nicolas Defrenne, directeur général de Soren) (3 septembre 2025) ; ADEME (service « Que faire de mes objets et déchets ») (consulté le 18 novembre 2026).
+- `jets-prives-interdiction` (trompeur, 6 sources) : Springer Nature via EurekAlert! (étude de Stefan Gössling et al., Communications Earth & Environment) (7 novembre 2024) ; CBC News (Radio-Canada anglais) (novembre 2024 (corrigé le 12 novembre 2024)) ; Assemblée nationale, commission du développement durable (rapporteur Julien Bayou) (29 mars 2023).
+- `lfi-licenciements-boursiers` (opinion, fiabilité « debat », 8 sources) : Conseil constitutionnel (12 janvier 2002) ; Conseil constitutionnel (27 mars 2014) ; Ministère du Travail (Code du travail numérique) (version en vigueur, consultée le 18 novembre 2026).
+
+**Points fragiles signalés dans les limites des fiches :**
+- **Documents lus à travers un résumé ou un compte rendu :**
+  - rapport Jay sur Rotherham (note du LGiU) ; audit Casey et résolution du Parlement européen sur la Turquie lus en partie (documents très longs) ;
+  - rapport de la Cour des comptes sur l'instruction en famille (dépêche AFP) et rapport de 2026 sur les franchises (Caducee.net, LCP) ;
+  - méta-analyse sur les châtiments corporels et études danoises sur les vaccins (communiqués, presse) ; essai du Bangladesh sur les masques (document de travail de Yale) ;
+  - étude de Gössling et al. sur les jets privés (communiqué de l'éditeur, CBC) ; étude de l'Ancols sur l'éligibilité au logement social (Localtis) ; rapport Ravignon sur le coût du millefeuille (Localtis) ;
+  - avis de l'Anses et de l'EFSA sur l'abattage (via l'arrêt de la CJUE et le rapport de l'Assemblée) ; jurisprudence de la CNDA (base AIDA, attribuée).
+- **Données anciennes :** expérience de la RAND (1971-1982) ; étude IRDES sur les franchises (2008) ; taux de suicide des policiers (2008-2017, aucune série officielle récente lue) ; chiffres de l'abattage rituel (ministère sans données récentes, chiffres de 2008 exclus des faits) ; chômage des descendants d'immigrés (2013-2018) ; revenus des locataires HLM (2017) ; données de l'AIE sur le solaire (2022) ; violences sexuelles sur enfants au Royaume-Uni (Full Fact, 2011-2016).
+- **Sources à manier avec prudence :**
+  - chiffres de meurtres de fermiers sud-africains issus surtout d'AfriForum, rapportés par l'AFP, l'ISS et Africa Check (attribués) ;
+  - HowTheyVote.eu (données ouvertes, pas le procès-verbal officiel) pour le détail des votes LFI sur Boualem Sansal ; les explications de vote des députés LFI n'ont pas été lues, aucune motivation ne leur est prêtée ;
+  - répartition droite/gauche du vote du 10 juillet 1940 (Hérodote.net, attribué) et chiffres socialistes (Fondation Jean-Jaurès, proche du PS) ; 569 ou 570 voix « pour » selon les sources ;
+  - rapport parlementaire sur l'instruction en famille rédigé par des députés de la Droite républicaine et de l'UDR, cité seulement pour ce qu'il reconnaît ;
+  - chiffres de recyclage des panneaux solaires fournis par Soren, qui gère la filière (aucun audit indépendant lu) ;
+  - sondage Ifop pour la Fondation pour l'enfance sur les violences éducatives (37 % ou 41 % selon le document : 37 % retenu) ;
+  - position du RN sur l'abattage rituel connue par une déclaration de Marine Le Pen en 2017 (programme actuel non lu) ; programme de LFI sur les licenciements boursiers non lu (position rapportée par des documents de l'Assemblée ; les deux propositions d'interdiction citées viennent du groupe GDR et d'un député écologiste).
+
+**Pages non ouvertes, donc non citées :** vie-publique.fr (robots, plusieurs pages) ; Légifrance pour la loi de 2022 sur les harkis et l'article 122-5 du code pénal ; CESEDA et décisions de la CNDA sur cnda.fr ; EUR-Lex pour le règlement de 2009 sur l'abattage ; DREES sur le renoncement aux soins ; page détaillée du scrutin n° 1570 de l'Assemblée (lu dans l'annexe officielle du compte rendu) ; site de LFI (melenchon2027.fr) ; Transport & Environment ; CDC (FastStats) ; PubMed Central (captcha) ; Ined (présentation de TeO2) ; résolution du Parlement européen du 7 mai 2025 sur la Turquie (fichier illisible).
+
+**Reconnaissance des questions.** Après génération, 12 questions menaient déjà à leur fiche. `public/js/cartographie.js` reçoit :
+- **23 concepts** : `turquie_ue`, `grooming_gangs`, `sansal`, `pleins_pouvoirs`, `statues`, `de_gaulle_rn`, `harkis`, `integration_europeens`, `fessee`, `ief`, `franchises`, `masques`, `vaccin_autisme`, `refugies_vacances`, `port_arme`, `suicides_policiers`, `abattage_rituel`, `communes`, `sru`, `livreurs`, `solaire_recyclage`, `jets_prives`, `licenciements_boursiers` ;
+- **leurs domaines** ;
+- **des arguments placés en tête** : un par concept, plus des variantes de `integration_europeens` avec les concepts voisins qui se déclenchent sur les mêmes phrases (`histoire_migrations`, `origine`, `immigration`).
+- Le concept `integration_europeens` exige une comparaison avec d'autres origines (« pas les… », « contrairement aux… », « alors que… ») : sans comparaison, la phrase témoin « Les immigrés italiens des années 50 se sont bien intégrés » reste orientée vers `france-pays-immigration`, comme l'exige le test de compréhension.
+- Le concept `abattage_rituel` exige « rituel », « halal », « casher » ou « étourdissement », pour ne pas capter la fiche sur l'abattage des troupeaux (`dermatose-nodulaire-abattage`).
+
+Comparaison avant/après sur 797 phrases de contrôle (affirmations de la bibliothèque et questions citées dans ce journal) : 2 phrases changent de fiche, toutes deux vers la nouvelle fiche qui leur répond (« La gauche veut interdire les jets privés », jusque-là sans réponse, et « Le vaccin contre la rougeole donne l'autisme », qui menait à `vaccins-obligatoires-enfants`) ; aucune autre phrase ne change.
+
+Variantes familières vérifiées (toutes mènent à la bonne fiche) :
+- « Les Maghrébins ne s'intègrent pas, contrairement aux Italiens » ;
+- « Les Arabes ne se sont jamais intégrés alors que les Portugais oui » ;
+- « L'école à la maison est interdite à cause des islamistes » ;
+- « Il faut armer les Français pour qu'ils se défendent » ;
+- « Le Front populaire a voté pour Pétain » ;
+- « Les fermiers blancs sont massacrés en Afrique du Sud ».
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`), volontairement laissées sans.
+
+**Questions écartées pour sources invérifiables : aucune.**
+
+**Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique, comme aux passages précédents. Aucun chiffre n'a été relevé. `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
+
+**Correction après un premier `npm test`.** La phrase témoin « Les immigrés italiens des années 50 se sont bien intégrés » (test de compréhension, cas « nuance ») menait à la nouvelle fiche sur les Italiens et les Maghrébins au lieu de `france-pays-immigration` : le concept `integration_europeens` exige désormais une comparaison explicite avec d'autres origines (voir plus haut).
+
+**Vérifications.** `npm test` : 477 tests, 477 réussis, après la correction ci-dessus. Tests de bout en bout : 38 tests, 38 réussis.

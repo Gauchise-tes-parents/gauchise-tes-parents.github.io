@@ -234,11 +234,6 @@
       }
     ]
   },
-  "concepts": [
-    "macron_gauche",
-    "riches_entreprises",
-    "gauche"
-  ],
   "repond_a": [
     {
       "id": "macron_gauche_q1215",
@@ -259,5 +254,10 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "macron_gauche",
+    "riches_entreprises",
+    "gauche"
   ]
 }

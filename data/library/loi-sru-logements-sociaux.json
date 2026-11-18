@@ -1,0 +1,260 @@
+{
+  "id": "loi-sru-logements-sociaux",
+  "type": "idee_recue",
+  "affirmation": "La loi SRU oblige les villes à construire des HLM pour des cas sociaux.",
+  "volet": "social",
+  "sous_theme": "Aides au logement",
+  "rubriques": [],
+  "mots_cles": [
+    "loi sru",
+    "hlm cas sociaux",
+    "logements sociaux obligatoires",
+    "25 % logements sociaux",
+    "communes carencees",
+    "qui vit en hlm",
+    "plafonds hlm",
+    "amende sru",
+    "mixite sociale",
+    "demandeurs logement social"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La loi SRU impose bien à environ 2 100 communes de viser 20 ou 25 % de logements sociaux, mais ces logements ne sont pas réservés à des « cas sociaux » : environ 70 % des ménages de métropole y sont éligibles et près de 2,9 millions de ménages attendent un HLM. Les locataires du parc social sont souvent modestes (34 % sont pauvres), justement parce que l'offre manque. Et de nombreuses communes préfèrent payer des pénalités plutôt que construire.",
+  "contexte": "L'article 55 de la loi SRU de 2000 est régulièrement attaqué par des élus de droite et d'extrême droite, qui y voient une obligation d'accueillir « la misère » dans leur commune. Le bilan triennal 2020-2022 a montré un net recul de la construction.",
+  "explication": "On distingue ce que la loi exige, qui peut habiter un logement social (plafonds de ressources), qui y vit réellement, et la façon dont les communes appliquent ou contournent la loi.",
+  "faits": [
+    {
+      "fait": "Selon le ministère chargé du Logement, l'article 55 de la loi SRU impose aux communes de plus de 3 500 habitants (1 500 en agglomération parisienne) situées dans de grandes agglomérations d'atteindre 25 % de logements sociaux, ou 20 % dans les territoires moins tendus.",
+      "periode": "depuis 2000",
+      "perimetre": "France",
+      "explication": "La loi fixe un objectif de répartition du logement social entre communes, pas une obligation de loger une catégorie particulière.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "25 %"
+    },
+    {
+      "fait": "Selon le bilan officiel 2020-2022, environ 2 100 communes sont soumises à la loi SRU ; 711 n'ont pas atteint leurs objectifs et 341 ont été déclarées carencées.",
+      "periode": "2020-2022",
+      "perimetre": "France",
+      "explication": "Un tiers des communes concernées ne tient pas ses engagements.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "341"
+    },
+    {
+      "fait": "Selon une étude de l'Ancols rapportée par Localtis, environ 70 % des ménages de France métropolitaine, soit 20 millions sur 28 millions, sont éligibles au logement social au plafond le plus élevé ; 35 % des ménages sont des propriétaires éligibles.",
+      "periode": "2024",
+      "perimetre": "France métropolitaine",
+      "explication": "Le logement social s'adresse à la grande majorité de la population, salariés et classes moyennes compris.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "70 %"
+    },
+    {
+      "fait": "Selon l'Union sociale pour l'habitat, citée par Maire info, près de 2,9 millions de ménages attendaient un logement social début 2026, un record, pour environ 390 000 attributions en 2025.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La demande dépasse très largement l'offre : construire des logements sociaux répond à un besoin massif.",
+      "source": 6,
+      "fiabilite": "estimation",
+      "chiffre": "2,9 millions"
+    },
+    {
+      "fait": "Selon le SDES, 5,3 millions de ménages, soit 17,6 % des ménages, sont locataires du parc social ; leur revenu moyen par unité de consommation était de 13 100 euros en 2017, contre 18 500 euros dans le parc privé.",
+      "periode": "2017-2021",
+      "perimetre": "France",
+      "explication": "Les locataires HLM sont plus modestes que la moyenne, mais ce sont des ménages ordinaires, une famille sur six.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "17,6 %"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Insee, en 2022, 34 % des ménages du parc social vivaient sous le seuil de pauvreté, contre 14 % de la population, et dans les quartiers où plus de la moitié des logements sont sociaux, le taux de pauvreté atteint 30 %.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La pauvreté est bien plus concentrée dans le parc social et dans certains quartiers : c'est précisément ce que la loi SRU cherche à corriger en répartissant les logements sociaux dans toutes les communes.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "34 %"
+    },
+    {
+      "fait": "Fait défavorable : selon le ministère, le prélèvement brut sur les communes déficitaires atteignait 240 millions d'euros en 2024, ramené à 141 millions après déduction de leurs dépenses en faveur du logement social.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Beaucoup de communes préfèrent payer plutôt que construire : la sanction existe, mais elle ne suffit pas à faire appliquer la loi.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "240 millions d’euros"
+    },
+    {
+      "fait": "Fait défavorable : selon Localtis, seules 311 communes (30 %) ont rempli tous leurs objectifs sur 2020-2022, 141 communes ont été carencées plus de trois fois, et 185 651 logements sociaux ont été construits pour un objectif de 276 508.",
+      "periode": "2020-2022",
+      "perimetre": "France",
+      "explication": "La loi est largement contournée, ce qui affaiblit son effet sur la mixité.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "311"
+    }
+  ],
+  "argumentaires": {
+    "court": "La loi SRU demande à environ 2 100 communes de viser 20 ou 25 % de logements sociaux. Ce ne sont pas des logements pour « cas sociaux » : environ 70 % des ménages y sont éligibles et près de 2,9 millions attendent un HLM. Le vrai problème, ce sont les communes qui préfèrent payer des pénalités.",
+    "moyen": "L'article 55 de la loi SRU impose aux communes urbaines d'avoir 25 % de logements sociaux, ou 20 % là où la demande est moins forte. Environ 2 100 communes sont concernées. Le logement social n'est pas réservé aux plus pauvres : selon l'Ancols, environ 70 % des ménages de métropole respectent les plafonds de ressources les plus élevés, et près de 2,9 millions de ménages sont en attente.\n\nLes locataires HLM sont plus modestes que la moyenne : selon l'Insee, 34 % vivent sous le seuil de pauvreté, et la pauvreté se concentre dans les quartiers où le parc social domine. C'est justement pour éviter ces ghettos que la loi oblige toutes les communes à prendre leur part. Or sur 2020-2022, 711 communes n'ont pas tenu leurs objectifs et 341 ont été carencées.",
+    "detaille": "La loi SRU de 2000 a été pensée contre la ségrégation urbaine. Son article 55 demande aux communes de plus de 3 500 habitants (1 500 en agglomération parisienne) situées dans de grandes agglomérations d'atteindre 25 % de logements sociaux parmi leurs résidences principales, ou 20 % là où la demande est moins forte. Les communes en retard doivent rattraper une partie de leur déficit tous les trois ans ; sinon, elles paient un prélèvement annuel et peuvent être déclarées « carencées » par le préfet.\n\nQui a droit à un logement social ? Bien plus de monde qu'on ne le croit. Selon une étude de l'Ancols, environ 70 % des ménages de France métropolitaine, soit 20 millions, sont sous le plafond de ressources le plus élevé, dont beaucoup de propriétaires. Selon l'Union sociale pour l'habitat, près de 2,9 millions de ménages attendaient un logement social début 2026, pour environ 390 000 attributions par an. Les locataires actuels, 17,6 % des ménages selon le SDES, sont plus modestes que la moyenne : revenu moyen par unité de consommation de 13 100 euros en 2017 contre 18 500 euros dans le parc privé.\n\nIl est vrai que la pauvreté est concentrée dans le parc social : selon l'Insee, 34 % de ses ménages sont pauvres, et le taux de pauvreté atteint 30 % dans les quartiers où plus de la moitié des logements sont sociaux. Mais c'est la conséquence d'une offre trop rare, attribuée en priorité aux plus fragiles, et concentrée dans certaines villes. La loi SRU vise exactement l'inverse : répartir les logements sociaux partout pour que l'infirmière, le livreur ou le retraité modeste puissent habiter aussi dans les communes aisées.\n\nLe bilan reste décevant. Sur 2020-2022, seules 311 communes ont rempli tous leurs objectifs, 341 ont été carencées, dont 141 plus de trois fois, et en Provence-Alpes-Côte d'Azur 157 communes sur 165 étaient en défaut. En 2024, les prélèvements ont atteint 240 millions d'euros bruts : certaines communes préfèrent payer que construire. Le débat n'est donc pas « des HLM pour des cas sociaux », mais la volonté politique de loger dignement la majorité de la population.",
+    "empathie": "On peut craindre que l'arrivée de logements sociaux change le visage de son quartier ou fasse baisser la valeur de son bien. Ces inquiétudes méritent une réponse, car elles reposent souvent sur une image du HLM qui ne correspond pas à ceux qui y vivent ou qui l'attendent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ces logements sont pour des gens qui ne travaillent pas.",
+      "reponse": "Environ 70 % des ménages sont éligibles, beaucoup de salariés et de retraités attendent un HLM, et 2,9 millions de ménages sont sur liste d'attente."
+    },
+    {
+      "objection": "Les maires qui refusent ont raison de protéger leur ville.",
+      "reponse": "Ils protègent surtout l'entre-soi : en payant des pénalités, ils laissent d'autres communes concentrer la pauvreté qu'ils reprochent ensuite aux HLM."
+    }
+  ],
+  "questions": [
+    "Ton enfant, ou tes parents à la retraite, rentreraient-ils dans les plafonds HLM ?",
+    "Si les logements sociaux étaient mieux répartis, les quartiers les plus pauvres ne seraient-ils pas moins ghettoïsés ?"
+  ],
+  "limites": [
+    "Le chiffre de 70 % de ménages éligibles provient d'une étude de l'Ancols lue à travers un article de Localtis ; l'étude elle-même n'a pas été ouverte.",
+    "Les revenus des locataires du SDES datent de 2017.",
+    "Le nombre de demandeurs (2,9 millions) est rapporté par Maire info d'après l'Union sociale pour l'habitat ; il s'agit de ménages demandeurs, pas de personnes.",
+    "Le bilan triennal 2023-2025 n'était pas encore publié lors de la rédaction.",
+    "La page de synthèse du gouvernement sur la crise du logement (info.gouv.fr) n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "L'article 55 de la loi solidarité et renouvellement urbain (SRU)",
+      "organisme": "Ministère de la Transition écologique (ministère chargé du Logement)",
+      "date_publication": "29 juillet 2020 (mis à jour, version lue en novembre 2026)",
+      "url": "https://www.ecologie.gouv.fr/politiques-publiques/larticle-55-loi-solidarite-renouvellement-urbain-sru",
+      "passage": "Sont concernées les communes de plus de 3 500 habitants (1 500 en agglomération parisienne) situées dans une agglomération ou une intercommunalité de plus de 50 000 habitants comprenant au moins une commune de plus de 15 000 habitants. Taux cible : 25 % de logements sociaux parmi les résidences principales, ou 20 % dans les territoires moins tendus. Les communes déficitaires paient un prélèvement annuel sur leurs ressources fiscales, dont on peut déduire les dépenses en faveur du logement social. En 2024, le prélèvement brut atteignait 240 millions d'euros ; après déductions, 141 millions, dont 68 millions issus des majorations de carence. La liste des 341 communes carencées au titre de 2020-2022 est publiée.",
+      "pertinence": "Page officielle du ministère présentant le dispositif.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le ministre délégué au Logement présente le bilan 2020-2022 de la loi SRU",
+      "organisme": "Ministère de la Transition écologique (communiqué)",
+      "date_publication": "11 avril 2024",
+      "url": "https://www.ecologie.gouv.fr/ministre-delegue-au-logement-presente-bilan-2020-2022-loi-sru",
+      "passage": "2 100 communes sont « légalement concernées par la loi SRU » ; 711 n'ont pas atteint leurs objectifs triennaux ; 341 sont carencées. 186 000 logements sociaux ont été produits entre 2020 et 2022. Les prélèvements représentent « près de 240 M€ ».",
+      "pertinence": "Communiqué officiel du bilan triennal.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Loi SRU : devant un bilan triennal médiocre, Guillaume Kasbarian mise sur le logement intermédiaire",
+      "organisme": "Catherine Bernard, Localtis (Banque des Territoires)",
+      "date_publication": "11 avril 2024",
+      "url": "https://www.banquedesterritoires.fr/loi-sru-devant-un-bilan-triennal-mediocre-guillaume-kasbarian-mise-sur-le-logement-intermediaire",
+      "passage": "Sur 2020-2022, seules 311 communes (30 %) ont rempli à la fois leurs objectifs quantitatifs et qualitatifs. Taux d'atteinte des objectifs quantitatifs : 67 %, contre 106 % sur 2017-2019. 185 651 logements sociaux construits pour un objectif de 276 508. 341 communes carencées, dont 141 l'ont été plus de trois fois. En Provence-Alpes-Côte d'Azur, 157 communes sur 165 sont en défaut, dont 95 carencées.",
+      "pertinence": "Média spécialisé des collectivités (groupe Caisse des dépôts).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "70 % des ménages éligibles au logement social en France",
+      "organisme": "Raphaël Richard, Localtis (Banque des Territoires), d’après une étude de l’Ancols",
+      "date_publication": "5 mars 2024",
+      "url": "https://www.banquedesterritoires.fr/70-des-menages-eligibles-au-logement-social-en-france",
+      "passage": "Selon une étude de l'Agence nationale de contrôle du logement social (Ancols), environ 20 millions de ménages sur 28 millions en logement ordinaire en France métropolitaine, soit 70 %, sont éligibles au logement social (plafonds PLS, les plus élevés). Ces 70 % se répartissent en 35 % de propriétaires, 21 % de locataires du parc privé et 14 % de locataires du parc social.",
+      "pertinence": "Article rapportant une étude d'une agence publique de contrôle.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Chiffres clés du logement, édition 2022 — Locataires du parc social",
+      "organisme": "Service des données et études statistiques (SDES), ministère de la Transition écologique",
+      "date_publication": "2022",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-logement/11-locataires-du-parc-social",
+      "passage": "5,3 millions de ménages sont locataires du parc social, soit 17,6 % des ménages. Revenu imposable moyen par unité de consommation (2017) : 13 100 euros, contre 18 500 euros pour les locataires du parc privé et 26 300 euros pour les propriétaires. La moitié des ménages du parc social ont un revenu inférieur à 12 000 euros. Ancienneté moyenne d'occupation : 8,1 ans.",
+      "pertinence": "Statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Une contribution du parc social à la mixité limitée (Insee Analyses n° 121)",
+      "organisme": "Jean-Bernard Salomond, Insee",
+      "date_publication": "2 juin 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8997500",
+      "passage": "En 2022, « 34 % des ménages du parc social ont un niveau de vie inférieur au seuil de pauvreté monétaire », contre 14 % de l'ensemble de la population. Dans les IRIS où plus de la moitié des logements sont sociaux, le taux de pauvreté atteint 30 %. Dans les quartiers parmi les 20 % les plus modestes, le parc social représente 35 % des résidences principales, contre 13 % dans les quartiers les plus aisés.",
+      "pertinence": "Étude de la statistique publique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Le mouvement HLM espère un meilleur dialogue républicain après des objectifs atteints en 2025",
+      "organisme": "Maire info (quotidien de l’Association des maires de France)",
+      "date_publication": "14 janvier 2026",
+      "url": "https://www.maire-info.com/logement-social/le-mouvement-hlm-espere-un-meilleur-dialogue-republicain-apres-des-objectifs-atteints-en-2025-article-30369",
+      "passage": "Près de « 2,9 millions de ménages en attente d'un logement social », un nouveau record ; près de 390 000 logements attribués en 2025 ; environ 100 000 agréments attendus en 2025 (prévision), contre 85 000 en 2024.",
+      "pertinence": "Quotidien des élus locaux rapportant les chiffres de l'Union sociale pour l'habitat.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Publication du bilan triennal SRU 2023-2025 et nouveaux chiffres de la demande de logement social.",
+  "objections_legitimes": [
+    "La concentration de la pauvreté dans certains grands ensembles est un vrai problème, reconnu par l'Insee.",
+    "Certaines communes manquent réellement de foncier, et la loi prévoit des exemptions dans ces cas.",
+    "Les élus locaux doivent pouvoir peser sur les projets et sur les attributions."
+  ],
+  "publics": {
+    "convaincus": "Tu crois que les HLM, c'est pour les « cas sociaux » ? Environ 70 % des ménages y ont droit, et 2,9 millions attendent un logement, souvent des gens qui travaillent. Les maires qui refusent d'en construire paient des pénalités et laissent la pauvreté se concentrer ailleurs : c'est ça qui fabrique les ghettos.",
+    "indecis": "La loi SRU demande aux communes urbaines d'avoir 20 ou 25 % de logements sociaux. Les inquiétudes sur la concentration de la pauvreté sont fondées, mais la loi vise justement à mieux répartir. Le logement social concerne la majorité des ménages : c'est un outil pour loger les classes populaires et moyennes là où elles travaillent."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "dignite",
+      "solidarite",
+      "services_publics"
+    ],
+    "mecanismes": "L’expression « cas sociaux » transforme un service public destiné à la majorité des ménages en stigmate, ce qui permet à des communes aisées de refuser de construire et de payer pour préserver leur entre-soi.",
+    "consequences": "Quand les communes riches se dérobent, les logements sociaux se concentrent dans quelques quartiers, la pauvreté s’y accumule et des millions de ménages modestes ou moyens restent sur liste d’attente.",
+    "democratie": "La loi SRU est une règle nationale de solidarité entre territoires ; la laisser contourner par le paiement de pénalités revient à accepter que l’égalité devant le logement dépende du code postal.",
+    "propositions": [
+      "Relever fortement les pénalités des communes carencées et confier systématiquement au préfet la construction et les attributions à leur place.",
+      "Lancer un grand plan public de construction de logements sociaux financé par l’État.",
+      "Répartir les attributions pour que les ménages les plus modestes ne soient pas tous logés dans les mêmes quartiers."
+    ],
+    "defavorables": [
+      {
+        "fait": "La pauvreté est nettement plus concentrée dans le parc social et dans les quartiers où il domine.",
+        "integration": "C’est l’argument central pour appliquer la loi SRU partout : répartir le logement social, c’est casser les ghettos plutôt que les entretenir."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "sru_q2013",
+      "label": "Loi SRU et logement social"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "solidarite et renouvellement urbain",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent"
+  ],
+  "concepts": [
+    "sru",
+    "prestations",
+    "logement",
+    "mixite_scolaire"
+  ]
+}

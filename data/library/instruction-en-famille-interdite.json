@@ -1,0 +1,225 @@
+{
+  "id": "instruction-en-famille-interdite",
+  "type": "idee_recue",
+  "affirmation": "On nous interdit l'école à la maison.",
+  "volet": "droits",
+  "sous_theme": "Libertés publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "ecole a la maison interdite",
+    "instruction en famille",
+    "ief interdite",
+    "loi separatisme ecole a la maison",
+    "autorisation instruction en famille",
+    "liberte d enseignement",
+    "homeschooling france",
+    "refus ief",
+    "scolarisation obligatoire 3 ans",
+    "on nous interdit l ecole a la maison"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. L'école à la maison n'est pas interdite : depuis la loi du 24 août 2021, elle exige une autorisation pour l'un de quatre motifs, et en 2023-2024, 88,4 % des demandes ont été acceptées. Mais la liberté a réellement reculé : le nombre d'enfants instruits en famille est passé de 72 369 en 2021-2022 à 30 644 en 2024-2025, et la lutte contre le séparatisme, qui a justifié la réforme, a été peu documentée par des données.",
+  "contexte": "La loi « confortant le respect des principes de la République », dite loi séparatisme, a supprimé le régime de simple déclaration. Des familles, souvent sans lien avec la religion, y ont vu une interdiction ; des responsables de droite demandent aujourd'hui un retour en arrière.",
+  "explication": "On distingue ce que dit la loi et la jurisprudence, les chiffres d'autorisations et de refus, l'évolution du nombre d'enfants concernés et la justification politique avancée en 2021.",
+  "faits": [
+    {
+      "fait": "Selon la Cour des comptes, citée par l'AFP, l'instruction en famille exige depuis la loi du 24 août 2021 une autorisation préalable au lieu d'une simple déclaration, pour l'un de quatre motifs : santé ou handicap, activités sportives ou artistiques intensives, itinérance ou éloignement, situation propre à l'enfant.",
+      "periode": "depuis 2022",
+      "perimetre": "France",
+      "explication": "Ce n'est pas une interdiction mais un régime d'autorisation, qui restreint le libre choix des parents.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Conseil constitutionnel a jugé le 13 août 2021 que l'instruction en famille n'est pas « une composante du principe fondamental » de liberté de l'enseignement, et a validé l'autorisation préalable sous réserve qu'elle soit délivrée sans discrimination.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "La réforme est conforme à la Constitution : l'école à la maison est une modalité de l'instruction obligatoire, que la loi peut encadrer.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la réponse du ministère de l'Éducation nationale publiée au Journal officiel, en 2023-2024, 45 275 des 51 229 demandes instruites ont été autorisées, soit 88,4 % ; pour le motif « situation propre à l'enfant », 4 041 sur 6 169, soit 65,5 %.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "La grande majorité des demandes est acceptée ; le taux de refus est nettement plus élevé pour le motif « situation propre à l'enfant », celui des projets éducatifs choisis par les familles.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "88,4 %"
+    },
+    {
+      "fait": "Le Conseil d'État a jugé le 13 décembre 2022 que l'administration doit retenir « la forme d'instruction la plus conforme à son intérêt », sans exiger des parents qu'ils prouvent que l'école est impossible, à condition que la situation de l'enfant soit exposée de manière étayée.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le juge a fixé un cadre centré sur l'intérêt de l'enfant, qui permet de contester les refus mal motivés.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Cour des comptes, citée par l'AFP, 30 644 enfants étaient instruits en famille en 2024-2025, contre 72 369 en 2021-2022 et 13 547 en 2007-2008 ; la hausse antérieure était liée notamment à la pandémie de Covid-19.",
+      "periode": "2007-2025",
+      "perimetre": "France",
+      "explication": "La pratique reste possible mais a été plus que divisée par deux depuis son pic.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "30 644"
+    },
+    {
+      "fait": "Selon la Cour des comptes, citée par l'AFP, les contrôles pédagogiques des enfants instruits en famille « ne sont pas tous effectués » et le contrôle par les mairies reste « peu effectif ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le vrai point faible est le suivi des enfants, qui dépend de moyens publics pour contrôler et accompagner.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon un rapport de deux députés de droite rendu public le 7 octobre 2026 et rapporté par LCP, aucune donnée objective n'a permis de documenter le « phénomène de fuite de l'école » lié à la radicalisation invoqué en 2021, et les autorisations sont tombées à près de 30 000 en 2025-2026.",
+      "periode": "2021-2026",
+      "perimetre": "France",
+      "explication": "La restriction est réelle et sa justification par le séparatisme a été peu étayée : les familles qui se sentent visées ont des raisons de le penser.",
+      "source": 4,
+      "fiabilite": "interpretation",
+      "chiffre": "30 000"
+    },
+    {
+      "fait": "Fait défavorable : selon la même réponse ministérielle, environ un tiers des demandes fondées sur une situation propre à l'enfant n'ont pas été autorisées en 2023-2024 (65,5 % d'autorisations).",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Pour les familles dont le projet repose sur la situation propre de leur enfant, le risque de refus est important.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "65,5 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non, l'école à la maison n'est pas interdite : depuis 2021 il faut une autorisation, et 88,4 % des demandes ont été acceptées en 2023-2024. Mais c'est une vraie restriction : on est passé de 72 369 enfants en 2021-2022 à 30 644 en 2024-2025, et l'argument du séparatisme a été peu étayé.",
+    "moyen": "La loi du 24 août 2021 a remplacé la simple déclaration par une autorisation, accordée pour quatre motifs : santé ou handicap, activités intensives, itinérance, ou situation propre à l'enfant. Le Conseil constitutionnel l'a validée, et le Conseil d'État exige que l'administration choisisse la forme d'instruction la plus conforme à l'intérêt de l'enfant. En 2023-2024, 88,4 % des demandes ont été acceptées : parler d'interdiction est faux.\n\nLa liberté des familles a pourtant reculé. Le nombre d'enfants instruits en famille est tombé à 30 644 en 2024-2025, et environ un tiers des demandes fondées sur la situation propre à l'enfant ne sont pas autorisées. La réforme avait été justifiée par la lutte contre la radicalisation, mais un rapport parlementaire de 2026 estime qu'aucune donnée n'a documenté ce phénomène. Le débat sérieux porte sur l'équilibre entre liberté des familles, droit de l'enfant à l'instruction et moyens de contrôle.",
+    "detaille": "Avant la réforme, une simple déclaration suffisait pour instruire son enfant en famille. La loi du 24 août 2021 « confortant le respect des principes de la République » a instauré une autorisation préalable, accordée pour quatre motifs : l'état de santé ou le handicap de l'enfant, la pratique intensive d'une activité sportive ou artistique, l'itinérance ou l'éloignement d'un établissement, ou une situation propre à l'enfant motivant un projet éducatif. Le Conseil constitutionnel a jugé le 13 août 2021 que l'instruction en famille n'est qu'une modalité de l'instruction obligatoire, pas une composante de la liberté de l'enseignement, et a validé le dispositif sous réserve qu'il ne soit pas discriminatoire.\n\nDans les faits, l'école à la maison existe toujours. En 2023-2024, 45 275 demandes sur 51 229 ont été autorisées, soit 88,4 %. Le Conseil d'État a précisé que les parents n'ont pas à prouver que l'école est impossible : l'administration doit retenir la forme d'instruction la plus conforme à l'intérêt de l'enfant, au vu d'une situation étayée et d'un projet pédagogique sérieux.\n\nIl serait malhonnête de nier la restriction. Le nombre d'enfants instruits en famille est passé de 72 369 en 2021-2022, pic gonflé par le Covid, à 30 644 en 2024-2025. Pour le motif « situation propre à l'enfant », seules 65,5 % des demandes étaient acceptées en 2023-2024. Et l'argument central de 2021, une « fuite de l'école » liée à la radicalisation, n'a pas été documenté par des données selon un rapport parlementaire de 2026, rédigé il est vrai par des députés de droite hostiles à la réforme.\n\nUne position de gauche peut tenir ensemble deux exigences : défendre l'école publique comme lieu commun d'émancipation et d'égalité, et refuser qu'une liberté soit restreinte au nom d'une menace mal mesurée. La Cour des comptes rappelle que le vrai problème est ailleurs : les contrôles pédagogiques ne sont pas tous effectués. Garantir le droit de chaque enfant à l'instruction suppose d'abord des moyens pour suivre et accompagner, plutôt que des soupçons globaux.",
+    "empathie": "Pour des parents qui ont construit un projet éducatif réfléchi, recevoir un refus ou se sentir soupçonnés de séparatisme est blessant. Leur colère se comprend, même si le mot « interdiction » ne correspond pas à la réalité."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est interdit, point.",
+      "reponse": "En 2023-2024, 88,4 % des demandes ont été acceptées, et environ 30 000 enfants sont encore instruits en famille. C'est un régime d'autorisation, contestable, mais pas une interdiction."
+    },
+    {
+      "objection": "La Constitution protège la liberté d'enseignement.",
+      "reponse": "Le Conseil constitutionnel a jugé en 2021 que l'instruction en famille n'en fait pas partie : c'est une modalité de l'instruction obligatoire que la loi peut encadrer."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui garantit le mieux le droit de chaque enfant à apprendre : la liberté des parents, l'école commune, ou des contrôles bien faits ?",
+    "Si l'argument du séparatisme était peu documenté, quelle règle te semblerait juste ?"
+  ],
+  "limites": [
+    "Le rapport de la Cour des comptes n'a pas été ouvert directement : il est connu par une dépêche AFP reprise par Handicap.fr.",
+    "Les chiffres de 2023-2024 incluent la fin de la période transitoire où les familles déjà en instruction en famille bénéficiaient d'autorisations facilitées ; les taux peuvent avoir évolué depuis.",
+    "Le rapport parlementaire de 2026 est rapporté par LCP et émane de députés de droite et d'extrême droite opposés à la réforme ; il est cité pour ce qu'il reconnaît, pas comme une autorité.",
+    "La fiche de Vie publique sur le bilan de la réforme n'a pas pu être ouverte (accès bloqué)."
+  ],
+  "sources": [
+    {
+      "titre": "Décision n° 2021-823 DC du 13 août 2021 — communiqué de presse",
+      "organisme": "Conseil constitutionnel",
+      "date_publication": "13 août 2021",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2021-823-dc-du-13-aout-2021-communique-de-presse",
+      "passage": "Les requérants reprochaient à l'article 49 de « méconnaître le principe fondamental reconnu par les lois de la République de liberté de l'enseignement » en remplaçant la déclaration par une autorisation préalable. Le Conseil relève que la loi du 28 mars 1882 « n'a fait de l'instruction en famille qu'une modalité de mise en œuvre de l'instruction obligatoire », qui n'est donc pas « une composante du principe fondamental » de liberté de l'enseignement. L'autorisation suppose de vérifier la « capacité » de la personne chargée d'instruire et un projet comportant « les éléments essentiels de l'enseignement et de la pédagogie ». Réserve : le pouvoir réglementaire doit fixer les modalités de délivrance de l'autorisation en excluant toute discrimination. L'article 49 n'est pas censuré.",
+      "pertinence": "Communiqué officiel de la juridiction constitutionnelle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décision n° 467550 du 13 décembre 2022 — analyse",
+      "organisme": "Conseil d'État",
+      "date_publication": "13 décembre 2022",
+      "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/analyse/2022-12-13/467550",
+      "passage": "Les enfants soumis à l'obligation scolaire sont en principe instruits dans un établissement ou une école ; l'instruction en famille est une dérogation. Saisie d'une demande, l'administration compare, pour cet enfant, l'école et l'instruction en famille et retient « la forme d'instruction la plus conforme à son intérêt ». Pour le motif tiré d'une situation propre à l'enfant, elle vérifie que la demande « expose de manière étayée la situation propre à cet enfant », que le projet éducatif est adapté à ses capacités et à son rythme et que les personnes chargées de l'instruction peuvent lui faire acquérir le socle commun.",
+      "pertinence": "Jurisprudence de la juridiction administrative suprême.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 11211 — réponse du ministère de l'Éducation nationale et de la Jeunesse",
+      "organisme": "Assemblée nationale (Journal officiel)",
+      "date_publication": "19 mars 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE11211.pdf",
+      "passage": "Pour l'année scolaire 2023-2024, au 1er décembre 2023 : 51 229 demandes d'instruction en famille instruites, dont 45 275 autorisées, soit 88,4 %. Pour le motif 4° (situation propre à l'enfant) : 6 169 demandes instruites, dont 4 041 autorisées, soit 65,5 %.",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "École à la maison : la Cour des comptes pointe des failles",
+      "organisme": "Handicap.fr, avec l’AFP, sur un rapport de la Cour des comptes du 25 juin 2025",
+      "date_publication": "28 juin 2025",
+      "url": "https://informations.handicap.fr/a-ecole-a-la-maison-la-cour-des-comptes-pointe-des-failles-38185.php",
+      "passage": "Depuis la loi du 24 août 2021, l'instruction en famille exige une autorisation préalable au lieu d'une simple déclaration, pour quatre motifs : état de santé ou handicap de l'enfant ; pratique intensive d'activités sportives ou artistiques ; itinérance de la famille ou éloignement des établissements ; situation propre à l'enfant motivant le projet éducatif. 30 644 enfants instruits en famille en 2024-2025 ; ils étaient 13 547 (6-16 ans) en 2007-2008 et 72 369 (3-16 ans) en 2021-2022, hausse liée notamment au Covid-19. 34 % des autorisations de 2024-2025 relèvent d'une situation propre à l'enfant. La Cour note une « plus grande sécurisation » mais des contrôles pédagogiques qui « ne sont pas tous effectués » et un contrôle municipal « peu effectif ».",
+      "pertinence": "Dépêche reprenant un rapport de la Cour des comptes (rapport lui-même non ouvert).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Instruction en famille : dans un rapport, deux députés pointent la chute du nombre d'enfants",
+      "organisme": "Maxence Kagni, LCP-Assemblée nationale",
+      "date_publication": "7 octobre 2026",
+      "url": "https://lcp.fr/actualites/instruction-en-famille-dans-un-rapport-deux-deputes-pointent-la-chute-du-nombre-d",
+      "passage": "Mission d'information de Josiane Corneloup (Droite républicaine) et Vincent Trébuchet (Union des droites pour la République). Enfants instruits en famille : 72 369 en 2021-2022, 55 747 en 2022-2023, près de 30 000 autorisations en 2025-2026, soit moins de 1 % des enfants de 3 à 16 ans. En 2021, Jean-Michel Blanquer évoquait un « phénomène de fuite de l'école » lié à l'islamisme radical, aux phénomènes sectaires et à la radicalisation ; selon les corapporteurs, aucune donnée objective n'a permis de documenter ce phénomène. Ils proposent un retour à un régime déclaratif, renforcé à partir de 6 ans.",
+      "pertinence": "Chaîne parlementaire, rendant compte d'un rapport de députés de droite (position politique).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Chiffres de la rentrée 2026-2027 et suites éventuelles du rapport parlementaire de 2026.",
+  "objections_legitimes": [
+    "Le passage de la déclaration à l'autorisation est une restriction réelle d'une liberté auparavant large.",
+    "La justification par la lutte contre la radicalisation a été peu étayée par des données.",
+    "Le taux de refus est élevé pour les projets fondés sur la situation propre à l'enfant, et les contrôles restent inégaux."
+  ],
+  "publics": {
+    "convaincus": "L'école à la maison n'est pas interdite : en 2023-2024, 88,4 % des demandes ont été acceptées. Tu as raison de dire que c'est plus dur qu'avant et que l'argument du séparatisme était mal étayé. Mais crier à l'interdiction empêche de discuter du vrai sujet : des règles justes et des contrôles bien faits pour chaque enfant.",
+    "indecis": "Depuis 2021, il faut une autorisation pour l'un de quatre motifs, et le nombre d'enfants instruits en famille a été plus que divisé par deux. La grande majorité des demandes reste acceptée, mais les demandes fondées sur la situation propre à l'enfant sont plus souvent refusées. En cas de refus, le juge exige que l'administration regarde l'intérêt réel de l'enfant."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "services_publics",
+      "egalite",
+      "emancipation"
+    ],
+    "mecanismes": "Le mot interdiction grossit une restriction réelle ; en face, le gouvernement a justifié cette restriction par une menace séparatiste mal mesurée. Les deux discours instrumentalisent l’école plutôt que de parler du droit de l’enfant à apprendre.",
+    "consequences": "Les familles se sentent soupçonnées, et le suivi réel des enfants instruits hors de l’école reste insuffisant faute de moyens de contrôle.",
+    "democratie": "Restreindre une liberté au nom d’un danger peu documenté affaiblit la confiance dans la loi ; défendre l’école publique suppose de la rendre désirable et de contrôler sérieusement, pas de gouverner par le soupçon.",
+    "propositions": [
+      "Donner à l’Éducation nationale et aux communes les moyens d’effectuer tous les contrôles pédagogiques prévus.",
+      "Publier chaque année des données transparentes sur les demandes, les refus et les recours, par académie.",
+      "Investir dans une école publique accueillante pour les enfants à besoins particuliers, qui sont souvent ceux qu’on retire de l’école."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le nombre d’enfants instruits en famille a été plus que divisé par deux et la justification par la lutte contre la radicalisation a été peu étayée par des données.",
+        "integration": "La gauche n’a pas à défendre une loi sécuritaire mal justifiée : elle peut reconnaître ce recul de liberté tout en défendant l’école commune et un contrôle effectif."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "ief_q2013",
+      "label": "Instruction en famille"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "ecole a la maison",
+    "instruction en famille",
+    "ecole a domicile",
+    "urgences"
+  ],
+  "concepts": [
+    "ief",
+    "services_publics"
+  ]
+}

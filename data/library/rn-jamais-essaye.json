@@ -220,11 +220,6 @@
       }
     ]
   },
-  "concepts": [
-    "rn_essayer",
-    "patriotisme",
-    "fn_parti"
-  ],
   "repond_a": [
     {
       "id": "rn_essayer_q1215",
@@ -243,5 +238,10 @@
     "rn",
     "rassemblement national",
     "le pen"
+  ],
+  "concepts": [
+    "rn_essayer",
+    "patriotisme",
+    "fn_parti"
   ]
 }

@@ -234,12 +234,6 @@
       }
     ]
   },
-  "concepts": [
-    "hamas_lfi",
-    "delinquance",
-    "melenchon_lfi",
-    "gauche"
-  ],
   "repond_a": [
     {
       "id": "hamas_lfi_q1215",
@@ -260,5 +254,11 @@
     "meluche",
     "lfi",
     "insoumis"
+  ],
+  "concepts": [
+    "hamas_lfi",
+    "delinquance",
+    "melenchon_lfi",
+    "gauche"
   ]
 }

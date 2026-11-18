@@ -196,13 +196,6 @@
       }
     ]
   },
-  "concepts": [
-    "cambriolages",
-    "logement",
-    "delinquance",
-    "statistiques",
-    "legitime_defense"
-  ],
   "repond_a": [
     {
       "id": "cambriolages_q1215",
@@ -223,5 +216,12 @@
     "en surete",
     "peur de sortir",
     "pas en securite"
+  ],
+  "concepts": [
+    "cambriolages",
+    "logement",
+    "delinquance",
+    "statistiques",
+    "legitime_defense"
   ]
 }

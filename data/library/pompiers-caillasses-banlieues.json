@@ -214,11 +214,6 @@
       }
     ]
   },
-  "concepts": [
-    "pompiers_agresses",
-    "delinquance",
-    "banlieues"
-  ],
   "repond_a": [
     {
       "id": "pompiers_agresses_q1215",
@@ -236,5 +231,10 @@
     "caillera",
     "ensauvagement",
     "qpv"
+  ],
+  "concepts": [
+    "pompiers_agresses",
+    "delinquance",
+    "banlieues"
   ]
 }

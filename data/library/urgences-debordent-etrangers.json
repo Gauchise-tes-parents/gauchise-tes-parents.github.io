@@ -205,12 +205,6 @@
       }
     ]
   },
-  "concepts": [
-    "urgences_etrangers",
-    "immigration",
-    "prestations",
-    "services_publics"
-  ],
   "repond_a": [
     {
       "id": "urgences_etrangers_q1215",
@@ -231,5 +225,11 @@
     "apl",
     "minima sociaux",
     "assistanat"
+  ],
+  "concepts": [
+    "urgences_etrangers",
+    "immigration",
+    "prestations",
+    "services_publics"
   ]
 }

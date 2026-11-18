@@ -1,0 +1,234 @@
+{
+  "id": "harkis-abandon-reconnaissance",
+  "type": "idee_recue",
+  "affirmation": "La France a abandonné les harkis et ne l'a jamais reconnu.",
+  "volet": "international",
+  "sous_theme": "Colonisation et décolonisation",
+  "rubriques": [],
+  "mots_cles": [
+    "harkis abandonnes",
+    "la france a abandonne les harkis",
+    "reconnaissance harkis",
+    "pardon harkis macron",
+    "loi harkis 2022",
+    "camps de harkis",
+    "indemnisation harkis",
+    "rivesaltes harkis",
+    "hameaux de forestage",
+    "reparation harkis"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "À moitié vrai. La France a bien abandonné une grande partie des harkis en 1962 : des ordres ont limité leur rapatriement, et ceux qui sont venus ont souvent été relégués des années dans des camps et des hameaux. Mais c'est faux de dire que l'État ne l'a jamais reconnu : des présidents l'ont fait depuis 2001, Emmanuel Macron a demandé pardon en 2021, et la loi du 23 février 2022 reconnaît la responsabilité de la France et ouvre une réparation, dont environ 19 000 personnes ont bénéficié. Ces réparations restent jugées modestes.",
+  "contexte": "Les harkis sont des supplétifs algériens de l'armée française pendant la guerre d'Algérie. Leur sort après 1962 est une blessure durable, que l'extrême droite comme d'autres invoquent pour accuser l'État d'oubli.",
+  "explication": "On distingue les faits de 1962 et des années suivantes (rapatriement limité, camps), puis les étapes de la reconnaissance officielle et de la réparation, et enfin leurs limites.",
+  "faits": [
+    {
+      "fait": "Selon l'étude d'impact du projet de loi de 2021, des télégrammes des ministres Pierre Messmer et Louis Joxe ont donné « l'ordre de ne pas faire rapatrier les harkis en dehors du plan général de rapatriement ».",
+      "periode": "1962",
+      "perimetre": "France et Algérie",
+      "explication": "L'abandon n'est pas une rumeur : il résulte de décisions de l'État, documentées dans un texte officiel.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la même étude d'impact, 41 000 rapatriés ont été accueillis dans des camps entre 1962 et 1965, dont environ 12 000 sous tentes au Larzac et à Bourg-Lastic à l'été 1962 ; les hameaux de forestage ont logé environ 10 000 personnes.",
+      "periode": "1962-1965",
+      "perimetre": "France",
+      "explication": "Ceux qui ont pu venir en France ont souvent été relégués dans des conditions indignes, parfois pendant des années.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "41 000"
+    },
+    {
+      "fait": "Le 20 septembre 2021, Emmanuel Macron a déclaré que « La France leur a lâché la main » et a dit : « je demande pardon, nous n'oublierons pas » ; il a rappelé que près de 200 000 harkis avaient servi la France.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Le plus haut niveau de l'État a reconnu l'abandon et demandé pardon.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "200 000"
+    },
+    {
+      "fait": "Selon le rapport de la commission de réparation, des présidents avaient déjà reconnu le drame : Jacques Chirac en 2001, Nicolas Sarkozy en 2012, qui a reconnu la responsabilité de la France dans l'« abandon », et François Hollande en 2016.",
+      "periode": "2001-2016",
+      "perimetre": "France",
+      "explication": "La reconnaissance s'est construite par étapes, sur vingt ans, avant la loi.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La loi du 23 février 2022 reconnaît la responsabilité de la France et répare l'accueil indigne dans les camps et hameaux de forestage ; elle crée une commission nationale indépendante chargée de recueillir la parole des harkis et d'accorder les réparations.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La reconnaissance est inscrite dans la loi, avec un dispositif d'indemnisation.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le rapport de la commission, 34 048 dossiers avaient été reçus au 13 mars 2025 ; 20 818 ont reçu un avis favorable, pour un total de 165 332 000 euros, et 19 166 personnes ont été indemnisées.",
+      "periode": "2022-2025",
+      "perimetre": "France",
+      "explication": "La réparation est effective et touche des dizaines de milliers de demandeurs.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "19 166"
+    },
+    {
+      "fait": "Fait défavorable : l'indemnisation moyenne est de 8 626 euros par dossier selon la commission de réparation, et le gouvernement « ne prévoit pas de modifier » la limite de la réparation au 31 décembre 1975.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La reconnaissance existe, mais la réparation reste limitée en montant et dans le temps, ce que de nombreuses familles contestent.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "8 626 euros"
+    },
+    {
+      "fait": "Fait défavorable : la Cour européenne des droits de l'homme a rendu le 4 avril 2024 un arrêt concernant les harkis, pour l'application duquel le gouvernement indiquait en mars 2025 qu'« un décret est en cours de signature ».",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "Même après la loi, la France a dû répondre à une décision de justice européenne : la réparation n'est pas achevée.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "L'abandon est réel : en 1962, des ordres ont limité le rapatriement des harkis, et 41 000 rapatriés sont passés par des camps. Mais l'État l'a reconnu : Macron a demandé pardon en 2021, et la loi de 2022 a indemnisé environ 19 000 personnes, pour 8 626 euros en moyenne.",
+    "moyen": "Oui, la France a abandonné une grande partie des harkis. En 1962, les ministres Messmer et Joxe ont ordonné de ne pas les rapatrier hors du plan officiel ; ceux qui sont arrivés ont souvent été parqués dans des camps, comme Rivesaltes ou le Larzac, ou dans des hameaux de forestage : 41 000 rapatriés sont passés par des camps entre 1962 et 1965.\n\nMais dire que la France ne l'a « jamais reconnu » est faux. Jacques Chirac en 2001, Nicolas Sarkozy en 2012 et François Hollande en 2016 ont reconnu ce drame ; Emmanuel Macron a demandé pardon en 2021. La loi du 23 février 2022 reconnaît la responsabilité de la France et a permis d'indemniser 19 166 personnes. Les montants, 8 626 euros en moyenne, et la limite de 1975 restent contestés.",
+    "detaille": "Pendant la guerre d'Algérie, près de 200 000 harkis et autres supplétifs ont servi l'armée française. À l'indépendance, en 1962, l'État a fait le choix de limiter leur rapatriement : des télégrammes des ministres Pierre Messmer et Louis Joxe ont donné « l'ordre de ne pas faire rapatrier les harkis en dehors du plan général de rapatriement ». Beaucoup sont restés en Algérie, exposés aux représailles.\n\nCeux qui ont rejoint la France ont souvent été relégués. Selon l'étude d'impact de la loi de 2022, 41 000 rapatriés ont été accueillis dans des camps entre 1962 et 1965, dont environ 12 000 sous tentes au Larzac et à Bourg-Lastic à l'été 1962, et les hameaux de forestage ont logé environ 10 000 personnes. Certains de ces lieux n'ont fermé qu'en 1975. L'abandon est donc un fait historique établi.\n\nLa seconde partie de l'affirmation est fausse. Jacques Chirac en 2001, Nicolas Sarkozy en 2012 et François Hollande en 2016 ont reconnu ce drame ; en 2021, Emmanuel Macron a déclaré que « La France leur a lâché la main » et demandé pardon. La loi du 23 février 2022 reconnaît la responsabilité de la France et crée une commission de réparation : au 13 mars 2025, elle avait reçu 34 048 dossiers et indemnisé 19 166 personnes, pour un total de plus de 165 millions d'euros.\n\nCette reconnaissance reste incomplète : l'indemnisation moyenne est de 8 626 euros, le gouvernement refuse d'étendre la période de réparation au-delà de 1975, et la Cour européenne des droits de l'homme s'est prononcée en 2024. Le combat des familles porte aujourd'hui sur la hauteur de la réparation, plus que sur la reconnaissance elle-même.",
+    "empathie": "Les familles de harkis ont subi un abandon réel et des années d'indifférence ; leur colère est fondée. Il est juste de dire que la réparation a été tardive et reste discutée."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le pardon de Macron, ce ne sont que des mots.",
+      "reponse": "Il a été suivi d'une loi qui reconnaît la responsabilité de la France et a indemnisé 19 166 personnes. On peut juger les montants insuffisants, mais ce n'est pas rien."
+    },
+    {
+      "objection": "Personne n'en parle jamais.",
+      "reponse": "Des présidents de droite comme de gauche l'ont reconnu depuis 2001. Le débat porte maintenant sur la réparation."
+    }
+  ],
+  "questions": [
+    "Une indemnisation moyenne de 8 626 euros est-elle à la hauteur de plusieurs années passées dans un camp ?",
+    "Pourquoi l'État a-t-il limité le rapatriement des harkis en 1962 ?"
+  ],
+  "limites": [
+    "Les pages de Vie publique et de Légifrance présentant la loi n'ont pas pu être ouvertes ; le contenu de la loi est rapporté par une réponse ministérielle et le rapport de la commission.",
+    "Le nombre de harkis tués en Algérie après 1962 n'a pas été trouvé dans les sources lues.",
+    "Les chiffres de la commission sont arrêtés au 13 mars 2025 ; deux tableaux du rapport donnent des totaux légèrement différents (19 166 et 19 069).",
+    "Le contenu exact de l'arrêt de la Cour européenne des droits de l'homme du 4 avril 2024 n'a pas été lu directement."
+  ],
+  "sources": [
+    {
+      "titre": "Réception consacrée à la mémoire des Harkis",
+      "organisme": "Présidence de la République (Élysée)",
+      "date_publication": "20 septembre 2021",
+      "url": "https://www.elysee.fr/emmanuel-macron/2021/09/20/reception-consacree-a-la-memoire-des-harkis",
+      "passage": "« près de 200 000 » Harkis ont porté les couleurs de la France. « La France leur a lâché la main et leur a tourné le dos. » La moitié des Harkis rapatriés a été reléguée dans des camps et des hameaux de forestage. « la République a alors contracté à leur égard une dette. » « je demande pardon, nous n'oublierons pas. » Annonce d'un projet de loi de « reconnaissance et la réparation à l'égard des Harkis ».",
+      "pertinence": "Discours officiel du président de la République.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Étude d'impact du projet de loi portant reconnaissance de la Nation envers les harkis",
+      "organisme": "Assemblée nationale (Gouvernement)",
+      "date_publication": "19 octobre 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4631_etude-impact",
+      "passage": "Environ 62 900 harkis en janvier 1961. Télégrammes de P. Messmer et L. Joxe « donnant l'ordre de ne pas faire rapatrier les harkis en dehors du plan général de rapatriement ». « 21 000 rapatriés algériens sont accueillis dans les camps en 1962 », 41 000 au total sur 1962-1965 ; environ 12 000 personnes sous tentes au Larzac et à Bourg-Lastic à l'été 1962 ; les hameaux de forestage ont logé environ 10 000 personnes. Six camps : Bias, Bourg-Lastic, La Rye, Larzac, Saint-Maurice-l'Ardoise et Rivesaltes.",
+      "pertinence": "Document officiel joint au projet de loi.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'activité 2023-2025",
+      "organisme": "Commission nationale indépendante de reconnaissance et de réparation des préjudices subis par les harkis (CNIH)",
+      "date_publication": "données au 13 mars 2025",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/298422.pdf",
+      "passage": "34 048 dossiers reçus ; sur 25 742 examinés, 20 818 favorables et 4 943 rejetés. Total des décisions : 165 332 000 €, soit 8 626,3 € en moyenne par dossier ; 19 166 personnes indemnisées. Loi n° 2022-229 du 23 février 2022. Discours antérieurs : Jacques Chirac (2001), Nicolas Sarkozy (2012, reconnaissance de la responsabilité de la France dans l'« abandon »), François Hollande (2016).",
+      "pertinence": "Rapport officiel de la commission créée par la loi.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 1381 et réponse du Gouvernement",
+      "organisme": "Assemblée nationale",
+      "date_publication": "réponse publiée au JO le 11 mars 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE1381.pdf",
+      "passage": "La loi du 23 février 2022 reconnaît la responsabilité de la France et répare l'accueil indigne dans les camps et hameaux de forestage. Fin 2024, près de 19 000 personnes avaient été indemnisées. Après l'arrêt de la Cour européenne des droits de l'homme du 4 avril 2024, « un décret est en cours de signature ». Aides antérieures depuis la loi du 26 décembre 1961, puis lois et décrets de 1994, 2005, 2016 et 2018.",
+      "pertinence": "Réponse officielle du ministère à une question parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 11631 et réponse du Gouvernement",
+      "organisme": "Assemblée nationale",
+      "date_publication": "réponse publiée au JO le 13 janvier 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11631.pdf",
+      "passage": "La réparation couvre la période du 20 mars 1962 au 31 décembre 1975, « date de fermeture administrative de ces structures » ; « Le Gouvernement ne prévoit pas de modifier cette limite ».",
+      "pertinence": "Réponse officielle du ministère à une question parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Nouveau rapport de la commission de réparation et application de l'arrêt de la Cour européenne des droits de l'homme.",
+  "objections_legitimes": [
+    "L'abandon des harkis en 1962 est documenté par des textes officiels.",
+    "Les conditions de vie dans les camps et hameaux ont été indignes, parfois pendant plus de dix ans.",
+    "Les montants de réparation et la limite de 1975 sont contestés par de nombreuses familles."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur l'abandon : en 1962, des ordres ont limité le rapatriement des harkis et des milliers ont fini dans des camps. Mais l'État l'a reconnu : Macron a demandé pardon, et une loi de 2022 a indemnisé plus de 19 000 personnes. Le vrai combat, c'est que cette réparation soit à la hauteur.",
+    "indecis": "La France a bien abandonné une partie des harkis, et ceux qui sont venus ont souvent vécu des années dans des camps. Depuis 2001, plusieurs présidents l'ont reconnu, et la loi de 2022 a ouvert une réparation. Les montants, en moyenne 8 626 euros, restent discutés."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "solidarite",
+      "vulnerables",
+      "egalite"
+    ],
+    "mecanismes": "L’affirmation mélange un fait établi, l’abandon de mil neuf cent soixante-deux et la relégation dans les camps, et une idée fausse, l’absence totale de reconnaissance, ce qui entretient la colère sans éclairer le combat actuel pour une réparation juste.",
+    "consequences": "Les familles de harkis ont subi des années de camps, d’exclusion scolaire et de racisme ; présenter leur sort comme ignoré détourne de la question concrète du montant et de la durée de la réparation.",
+    "democratie": "Une République qui reconnaît ses fautes se renforce ; encore faut-il que la réparation soit décidée avec les premiers concernés et ne reste pas symbolique.",
+    "propositions": [
+      "Revaloriser les indemnisations et réexaminer la limite de la période de réparation.",
+      "Associer les associations de harkis et leurs descendants au suivi de la commission de réparation.",
+      "Enseigner l’histoire des harkis et des camps dans les programmes scolaires."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’indemnisation moyenne reste modeste et le gouvernement refuse d’étendre la période de réparation.",
+        "integration": "C’est précisément le combat à mener : la reconnaissance a été obtenue, la réparation reste à la hauteur à conquérir."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "harkis_q2013",
+      "label": "Les harkis"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "pays d immigration",
+    "italiens",
+    "polonais",
+    "espagnols",
+    "portugais",
+    "il y a cent ans",
+    "apres la guerre",
+    "reconstruit la france",
+    "harkis",
+    "rapatries",
+    "avant les immigres",
+    "avant ils s integraient"
+  ],
+  "concepts": [
+    "harkis",
+    "histoire_migrations",
+    "colonisation"
+  ]
+}

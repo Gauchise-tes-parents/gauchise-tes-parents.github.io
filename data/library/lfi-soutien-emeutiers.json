@@ -198,13 +198,6 @@
       }
     ]
   },
-  "concepts": [
-    "emeutes_lfi",
-    "delinquance",
-    "melenchon_lfi",
-    "gauche",
-    "refus_obtemperer"
-  ],
   "repond_a": [
     {
       "id": "emeutes_lfi_q1215",
@@ -225,5 +218,12 @@
     "meluche",
     "lfi",
     "insoumis"
+  ],
+  "concepts": [
+    "emeutes_lfi",
+    "delinquance",
+    "melenchon_lfi",
+    "gauche",
+    "refus_obtemperer"
   ]
 }

@@ -183,14 +183,6 @@
       }
     ]
   },
-  "concepts": [
-    "tva_zero",
-    "patriotisme",
-    "fiscalite",
-    "pouvoir_achat",
-    "tva_energie",
-    "fn_parti"
-  ],
   "repond_a": [
     {
       "id": "fiscalite_q1215_tva_zero",
@@ -219,5 +211,13 @@
     "fins de mois",
     "pouvoir d achat",
     "hausse des prix"
+  ],
+  "concepts": [
+    "tva_zero",
+    "patriotisme",
+    "fiscalite",
+    "pouvoir_achat",
+    "tva_energie",
+    "fn_parti"
   ]
 }

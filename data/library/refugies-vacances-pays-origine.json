@@ -1,0 +1,243 @@
+{
+  "id": "refugies-vacances-pays-origine",
+  "type": "idee_recue",
+  "affirmation": "Les réfugiés retournent en vacances dans leur pays.",
+  "volet": "immigration",
+  "sous_theme": "Réfugiés et statuts administratifs",
+  "rubriques": [],
+  "mots_cles": [
+    "refugies en vacances au pays",
+    "refugie retourne dans son pays",
+    "migrants vacances pays origine",
+    "faux refugies",
+    "retrait statut refugie",
+    "ofpra fin de protection",
+    "titre de voyage refugie",
+    "refugies qui rentrent chez eux",
+    "asile vacances bled",
+    "perte du statut de refugie"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Un réfugié n'a pas le droit de retourner dans le pays qui le persécutait : son document de voyage le lui interdit, et un retour volontaire peut entraîner le retrait de sa protection. Des cas existent et sont sanctionnés : en 2024, l'OFPRA a mis fin à 610 statuts de réfugié sur le fondement des clauses de cessation, toutes causes confondues, pour 663 241 personnes protégées. Rien ne montre une pratique massive ; l'image du réfugié qui « part en vacances au pays » généralise quelques cas pour discréditer tous les autres.",
+  "contexte": "L'idée circule régulièrement sur les réseaux sociaux et a fait l'objet de questions écrites de députés, notamment d'extrême droite. Elle sert à suggérer que les réfugiés ne seraient pas vraiment menacés. Elle confond souvent réfugiés, demandeurs d'asile, bénéficiaires de la protection subsidiaire et étrangers naturalisés, qui n'ont pas les mêmes droits.",
+  "explication": "On regarde ce que dit le droit (document de voyage, clauses de cessation de la convention de Genève), ce que fait l'administration (décisions de fin de protection de l'OFPRA, contrôle de la Cour nationale du droit d'asile) et ce qui se passe ailleurs en Europe.",
+  "faits": [
+    {
+      "fait": "Selon Service-Public.fr, le document de voyage remis aux réfugiés mentionne « le ou les pays qui vous sont interdits », en général le pays d'origine.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Un réfugié ne peut pas légalement voyager dans le pays qu'il a fui avec ce document.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'OFPRA, les clauses de cessation de l'article 1er C de la convention de Genève visent notamment les personnes « qui se sont volontairement à nouveau réclamées de la protection » de leur pays ; en 2024, l'Office a prononcé 610 retraits du statut de réfugié sur ce fondement et 426 pour menace à l'ordre public ou à la sûreté de l'État.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La loi prévoit déjà la perte du statut pour qui renoue volontairement avec son pays, et elle est appliquée. Ces 610 décisions couvrent tous les motifs de cessation, pas seulement les voyages.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "610"
+    },
+    {
+      "fait": "Selon l'OFPRA, 663 241 personnes étaient protégées au 31 décembre 2024 (estimation).",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Rapportées à ce total, les fins de protection pour cessation concernent moins d'une personne protégée sur mille.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "663 241"
+    },
+    {
+      "fait": "Selon la réponse du ministère de l'Intérieur à une question écrite publiée en 2019, tout retour volontaire d'un réfugié dans son pays est analysé par l'OFPRA et considéré « comme un rétablissement du lien d'allégeance, justifiant le retrait immédiat du statut de réfugié ».",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "L'administration elle-même répond qu'il n'existe pas de « voyage d'agrément » toléré ou financé par l'État.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon les chiffres du ministère de l'Intérieur publiés en 2020, les décisions de fin de protection de l'OFPRA sont passées de 85 en 2014 à 414 en 2018, toujours « sur base d'un examen individuel » contrôlé par la Cour nationale du droit d'asile.",
+      "periode": "2014-2018",
+      "perimetre": "France",
+      "explication": "Les contrôles se sont renforcés, et chaque cas fait l'objet d'un examen individuel avec un recours possible devant un juge.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "414"
+    },
+    {
+      "fait": "Fait défavorable : selon la base AIDA de l'ECRE, la Cour nationale du droit d'asile a confirmé en 2017 la fin du statut d'un réfugié qui s'était rendu dans son pays d'origine malgré l'avertissement figurant sur son document de voyage.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Des réfugiés retournent parfois dans leur pays, et certains perdent leur protection pour cette raison : nier l'existence de ces cas serait faux. Mais ces cas sont repérés et sanctionnés, ce qui contredit l'idée d'une pratique tolérée.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la même base AIDA, la Cour nationale du droit d'asile a jugé en 2018 qu'un permis de conduire délivré dans le pays d'origine, obtenu sans retour physique, ne suffisait pas à prouver un nouveau recours à la protection de ce pays.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Le juge vérifie au cas par cas la réalité et le caractère volontaire du lien renoué avec le pays de persécution.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la dpa, le ministère fédéral allemand de l'Intérieur a refusé en octobre 2025 d'autoriser les Syriens à se rendre dans leur pays sans conséquence sur leur statut ; un tel voyage n'est admis qu'à titre exceptionnel, par exemple pour un proche mourant.",
+      "periode": "2025",
+      "perimetre": "Allemagne",
+      "explication": "Le débat existe ailleurs en Europe, avec la même règle de fond : retourner au pays met la protection en jeu.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Un réfugié n'a pas le droit de retourner dans le pays qu'il a fui : son document de voyage le lui interdit et un retour volontaire peut lui coûter son statut. En 2024, l'OFPRA a retiré 610 statuts de réfugié au titre des clauses de cessation, pour 663 241 personnes protégées. Des cas existent, ils sont sanctionnés ; en faire une habitude générale est faux.",
+    "moyen": "Le droit est clair : le document de voyage d'un réfugié indique les pays interdits, en général son pays d'origine. Et la convention de Genève prévoit la fin du statut pour qui se réclame à nouveau volontairement de la protection de ce pays. Le ministère de l'Intérieur l'a rappelé dès 2019 : un retour volontaire est considéré comme un « rétablissement du lien d'allégeance » justifiant le retrait du statut.\n\nCes règles sont appliquées. En 2024, l'OFPRA a prononcé 610 retraits sur le fondement des clauses de cessation, toutes causes confondues, pour 663 241 personnes protégées. La Cour nationale du droit d'asile a déjà confirmé la perte du statut d'un réfugié revenu dans son pays. Il y a donc des cas, mais ils sont minoritaires et sanctionnés. L'image du réfugié en vacances au pays transforme quelques exceptions en règle pour faire croire que personne n'est vraiment menacé.",
+    "detaille": "Un réfugié est une personne reconnue comme menacée de persécution dans son pays. En France, l'OFPRA lui remet un document de voyage qui mentionne les pays qui lui sont interdits, en général son pays d'origine. La convention de Genève, reprise dans le droit français, prévoit que la protection cesse si la personne se réclame à nouveau volontairement de la protection de ce pays ou retourne s'y établir. En réponse à une question écrite, le ministère de l'Intérieur a écrit en 2019 qu'un retour volontaire était considéré « comme un rétablissement du lien d'allégeance, justifiant le retrait immédiat du statut de réfugié ».\n\nCe n'est pas théorique. Les décisions de fin de protection de l'OFPRA sont passées de 85 en 2014 à 414 en 2018. En 2024, l'Office a pris 1 036 décisions de fin de protection, dont 610 retraits du statut de réfugié sur le fondement des clauses de cessation et 426 pour menace à l'ordre public ou à la sûreté de l'État. Ces 610 décisions recouvrent toutes les causes de cessation, y compris le changement durable de situation dans le pays d'origine : elles ne mesurent pas le nombre de voyages. Rapportées aux 663 241 personnes protégées, elles restent très minoritaires.\n\nIl serait faux de dire que cela n'arrive jamais. La Cour nationale du droit d'asile a confirmé en 2017 la fin du statut d'un réfugié qui s'était rendu dans son pays malgré l'interdiction. Mais le juge examine chaque situation : en 2018, il a refusé de retirer le statut à un réfugié dont l'épouse avait obtenu pour lui un permis de conduire dans le pays d'origine, sans qu'il y retourne. Le débat existe aussi en Allemagne, où le gouvernement a refusé en 2025 d'autoriser les Syriens à revoir leur pays sans conséquence sur leur statut.\n\nLe slogan mélange en outre des situations différentes : un étranger naturalisé est français et voyage librement ; un bénéficiaire de la protection subsidiaire a un autre statut ; certains retours répondent à des urgences familiales. Généraliser quelques cas sanctionnés pour jeter le soupçon sur tous les réfugiés, c'est oublier que la protection est accordée après examen et qu'elle peut être retirée quand la loi le prévoit.",
+    "empathie": "On peut être choqué d'apprendre qu'une personne protégée parce que menacée est retournée dans son pays : la question de la sincérité des demandes est légitime. La réponse se trouve dans le droit et dans les chiffres, pas dans les rumeurs."
+  },
+  "contre_arguments": [
+    {
+      "objection": "J'ai vu des vidéos de réfugiés en vacances dans leur pays.",
+      "reponse": "Une vidéo ne dit rien du statut de la personne : elle peut être naturalisée, avoir un autre titre ou avoir déjà perdu sa protection. Quand un réfugié retourne volontairement dans son pays, l'OFPRA peut lui retirer son statut, et le fait."
+    },
+    {
+      "objection": "Si c'était interdit, il n'y aurait pas de cas.",
+      "reponse": "Il y a des cas, comme pour toute règle. Ce qui compte, c'est qu'ils soient sanctionnés : en 2024, 610 statuts de réfugié ont été retirés au titre des clauses de cessation."
+    }
+  ],
+  "questions": [
+    "Si un réfugié retourne dans le pays qui le persécutait, que dit la loi à son sujet ?",
+    "Combien de cas connais-tu vraiment, et quel était le statut exact des personnes concernées ?"
+  ],
+  "limites": [
+    "Les 610 retraits de 2024 couvrent toutes les clauses de cessation (dont le changement de situation dans le pays d'origine) : aucune source lue ne chiffre les retraits liés aux seuls voyages.",
+    "Les décisions de la CNDA de 2017 et 2018 sont rapportées par la base AIDA (réseau d'associations) ; les décisions elles-mêmes, publiées sur le site de la CNDA, n'ont pas pu être ouvertes.",
+    "Le texte consolidé du CESEDA (site de la CNDA) n'a pas pu être ouvert ; les articles sont cités d'après l'OFPRA et AIDA.",
+    "L'article sur l'Allemagne est une dépêche dpa reprise par Yahoo News, sans chiffres.",
+    "Le rapport de l'OFPRA a été lu à travers un outil de résumé : citations à revérifier mot pour mot."
+  ],
+  "sources": [
+    {
+      "titre": "Réfugié : titre de séjour, document de voyage et accompagnement",
+      "organisme": "Service-Public.fr (Direction de l’information légale et administrative)",
+      "date_publication": "vérifié le 1er juillet 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35534/2_0?idFicheParent=N106",
+      "passage": "Le document de voyage du réfugié est « biométrique et valable 5 ans ». Il indique « le ou les pays qui vous sont interdits » : en général le pays d'origine, mais « les craintes de persécution peuvent avoir été établies à l'égard d'autres pays ».",
+      "pertinence": "Fiche pratique officielle de l'administration.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'activité 2024",
+      "organisme": "Office français de protection des réfugiés et apatrides (OFPRA)",
+      "date_publication": "juin 2025",
+      "url": "https://www.ofpra.gouv.fr/sites/default/files/2025-06/OFPRA_RA_2024_BD_PaP.pdf",
+      "passage": "« 663 241 » personnes protégées au 31 décembre 2024 (estimation). En 2024, l'Office a pris 1 202 décisions après l'ouverture d'une procédure de fin de protection, dont 1 036 décisions de fin de protection : 794 concernant des réfugiés et 242 des bénéficiaires de la protection subsidiaire. 610 retraits reposent sur les clauses de cessation de l'article 1er C de la convention de Genève, qui visent notamment les personnes « qui se sont volontairement à nouveau réclamées de la protection » de leur pays ; 426 sont fondés sur une « menace pour l'ordre public ou la sûreté de l'État » (articles L. 511-7 et L. 512-3 du CESEDA).",
+      "pertinence": "Rapport annuel officiel de l'établissement public chargé de l'asile.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 12177 (demandeurs d'asile en vacances dans leur pays d'origine) et réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale (question de Bruno Bilde, député non inscrit ; réponse du ministère de l’Intérieur)",
+      "date_publication": "18 septembre 2018 (question) ; 5 février 2019 (réponse)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE12177.pdf",
+      "passage": "Réponse du ministère : « tout retour volontaire d'un demandeur d'asile ou à fortiori d'un réfugié vers son pays d'origine sera analysé » par l'OFPRA ; un tel retour est considéré « comme un rétablissement du lien d'allégeance, justifiant le retrait immédiat du statut de réfugié ». Conclusion : il « n'existe donc aucun « voyage d'agrément des migrants » financé par l'Etat ». La réponse ne donne aucun chiffre.",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel ; la question émane d'un député d'extrême droite.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 23562 (fins de statut de réfugié) et réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale (question de Pierre-Henri Dumont, LR ; réponse du ministère de l’Intérieur)",
+      "date_publication": "8 octobre 2019 (question) ; 22 septembre 2020 (réponse)",
+      "url": "https://questions.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE23562.pdf",
+      "passage": "La réponse indique que ces dispositions sont appliquées « sur base d'un examen individuel et sous le contrôle juridictionnel de la cour nationale du droit d'asile ». Décisions de fin de protection de l'OFPRA : 85 en 2014, 144 en 2015, 151 en 2016, 258 en 2017, 414 en 2018.",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Country Report France — Cessation and review of protection status",
+      "organisme": "Asylum Information Database (AIDA), Conseil européen pour les réfugiés et les exilés (ECRE)",
+      "date_publication": "mise à jour 2025",
+      "url": "https://asylumineurope.org/reports/country/france/content-international-protection/status-and-residence/cessation-and-review-protection-status/",
+      "passage": "L'article L. 511-8 du CESEDA reprend les clauses de cessation de l'article 1C de la convention de Genève. En 2017 (affaire M. Q.), la CNDA a appliqué la cessation à un réfugié qui s'était rendu dans son pays d'origine « despite warnings that their Travel Document does not allow travel to that country », après avoir obtenu une autorisation des autorités consulaires. En 2018 (affaire M. H.), un permis de conduire délivré dans le pays d'origine, sans retour physique, n'a pas été jugé comme un nouveau recours à la protection de ce pays. En 2024, 610 cessations du statut de réfugié, surtout pour des ressortissants de Russie, de RDC, d'Afghanistan et du Sri Lanka.",
+      "pertinence": "Base de données d'un réseau européen d'associations de défense des réfugiés (lecture documentée de la jurisprudence).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Germany says Syrians returning home risk losing protected status",
+      "organisme": "dpa (Deutsche Presse-Agentur), repris par Yahoo News",
+      "date_publication": "31 octobre 2025",
+      "url": "https://www.yahoo.com/news/articles/germany-says-syrians-returning-home-155120804.html",
+      "passage": "Le ministère fédéral de l'Intérieur a « decided against facilitating trips back home for Syrians without effects on their protected status ». Les Syriens qui se rendent dans leur pays risquent de perdre leur statut ; les règles ne permettent de le conserver qu'à titre exceptionnel, par exemple pour un proche mourant. L'article ne donne aucun chiffre de voyages ou de retraits.",
+      "pertinence": "Dépêche d'agence de presse allemande.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Rapport d'activité 2025 de l'OFPRA (décisions de fin de protection) et évolution du débat européen sur les retours en Syrie.",
+  "objections_legitimes": [
+    "Il est normal d'attendre que la protection ne bénéficie qu'aux personnes réellement menacées.",
+    "Des retours volontaires existent et peuvent justifier un retrait du statut : le droit le prévoit.",
+    "Les citoyens ont le droit de savoir comment ces règles sont contrôlées."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : un réfugié qui retourne volontairement dans son pays peut perdre son statut, et ça arrive. Mais justement, c'est la loi qui le prévoit, et l'OFPRA retire ces statuts : 610 retraits pour cessation en 2024. Si on généralise quelques cas, on finit par accuser des centaines de milliers de personnes qui ne peuvent pas rentrer chez elles sans risquer leur vie.",
+    "indecis": "La règle est simple : le document de voyage d'un réfugié lui interdit son pays d'origine, et un retour volontaire peut entraîner la fin de sa protection. Des cas existent, ils sont contrôlés et sanctionnés, mais ils restent très minoritaires par rapport aux 663 241 personnes protégées. Avant de croire une vidéo, il faut savoir quel est le statut réel de la personne."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "universalite",
+      "antiracisme"
+    ],
+    "mecanismes": "Le récit part de quelques cas réels, parfois mal identifiés, pour jeter le soupçon sur l’ensemble des réfugiés. Il confond les statuts et laisse croire que la loi tolère ce qu’en réalité elle sanctionne déjà.",
+    "consequences": "Le soupçon généralisé rend plus difficile l’accueil de personnes réellement persécutées et nourrit l’idée qu’aucune protection ne serait méritée.",
+    "democratie": "Le droit d’asile repose sur un examen individuel et sur un juge indépendant : c’est la garantie que la protection est accordée et retirée selon des règles, pas selon des rumeurs.",
+    "propositions": [
+      "Publier chaque année le détail des fins de protection par motif pour couper court aux rumeurs.",
+      "Garantir un examen individuel et un recours effectif devant la Cour nationale du droit d’asile avant tout retrait.",
+      "Prévoir des autorisations encadrées pour les urgences familiales graves plutôt que de pousser à des voyages clandestins."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des réfugiés retournent parfois dans leur pays d’origine, et la Cour nationale du droit d’asile a confirmé la perte du statut de l’un d’eux.",
+        "integration": "C’est la preuve que la règle est appliquée : la loi sanctionne déjà ces cas, et il n’y a aucune raison d’en faire un soupçon contre tous."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "refugies_vacances_q2013",
+      "label": "Réfugiés et retours au pays"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "chez eux",
+    "oqtf",
+    "reconduite",
+    "virer",
+    "dehors",
+    "remigration"
+  ],
+  "concepts": [
+    "refugies_vacances",
+    "immigration",
+    "expulsion"
+  ]
+}

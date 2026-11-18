@@ -1,0 +1,271 @@
+{
+  "id": "franchises-medicales-responsabiliser",
+  "type": "idee_recue",
+  "affirmation": "Les franchises médicales responsabilisent les patients, la santé est trop gratuite.",
+  "volet": "services",
+  "sous_theme": "Assurance maladie",
+  "rubriques": [],
+  "mots_cles": [
+    "franchises medicales",
+    "franchise medicament 1 euro",
+    "responsabiliser les patients",
+    "la sante est trop gratuite",
+    "doublement des franchises",
+    "plafond franchises 140 euros",
+    "participation forfaitaire",
+    "reste a charge",
+    "renoncement aux soins",
+    "ticket moderateur"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Il est vrai que les Français paient peu de leur poche : 292 euros par habitant en 2024, un des restes à charge les plus faibles d'Europe. Mais les franchises, doublées en 2024 et dont le plafond est passé à 140 euros en octobre 2026, ne trient pas les soins utiles des soins inutiles : l'expérience de référence de la RAND montre que le ticket modérateur réduit les deux, et qu'il nuit aux plus pauvres et aux plus malades. En France, les malades chroniques paient presque deux fois plus que les autres.",
+  "contexte": "Les franchises existent depuis 2008. Elles ont été doublées en 2024, puis leurs plafonds relevés en 2026, au nom de la « responsabilisation » et du déficit de la Sécurité sociale. L'idée d'une santé « trop gratuite » accompagne souvent ces décisions.",
+  "explication": "On regarde ce que coûtent réellement les franchises, ce que paient les ménages en France par rapport à leurs voisins, et ce que disent les études sur l'effet d'une participation financière sur les soins et la santé.",
+  "faits": [
+    {
+      "fait": "Selon Vidal, le décret du 16 février 2024 a doublé les franchises au 31 mars 2024 : de 0,50 € à 1 € par boîte de médicament et par acte paramédical, de 2 € à 4 € par transport sanitaire.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le montant payé à chaque soin a doublé en une fois.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 €"
+    },
+    {
+      "fait": "Selon Service-Public.fr, le décret n° 2026-858 a relevé au 1er octobre 2026 les plafonds annuels des franchises et des participations forfaitaires de 50 € à 70 € chacun, soit 140 € cumulés ; les moins de 18 ans, les bénéficiaires de la complémentaire santé solidaire et les femmes enceintes en sont exonérés.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Ceux qui atteignent les plafonds, c'est-à-dire ceux qui se soignent le plus, paient davantage.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "140 €"
+    },
+    {
+      "fait": "Selon la Cour des comptes, citée par LCP, les franchises et participations forfaitaires ont concerné 48 millions de personnes et rapporté 2,5 milliards d'euros en 2025.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "C'est d'abord une recette pour l'Assurance maladie, prélevée sur les malades.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2,5 milliards d’euros"
+    },
+    {
+      "fait": "Selon la RAND Corporation, dans son expérience randomisée menée de 1971 à 1982 sur plus de 7 700 personnes, la participation financière a réduit les soins efficaces comme les soins moins efficaces, à peu près dans les mêmes proportions pour les hospitalisations et les médicaments.",
+      "periode": "1971-1982",
+      "perimetre": "États-Unis",
+      "explication": "Le patient ne sait pas trier à l'avance un soin utile d'un soin inutile : un frein financier réduit les deux.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la RAND Corporation, dans la même expérience, les plus pauvres et les plus malades, environ 6 % de l'échantillon, étaient pénalisés : chez les hypertendus pauvres, la gratuité réduisait davantage la tension, soit une baisse de mortalité projetée d'environ 10 %.",
+      "periode": "1971-1982",
+      "perimetre": "États-Unis",
+      "explication": "Le coût sanitaire du ticket modérateur retombe sur ceux qui ont le plus besoin de soins.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "10 %"
+    },
+    {
+      "fait": "Selon l'IRDES, après la création des franchises en 2008, 12 % des personnes ayant eu une prescription déclaraient avoir modifié leurs achats de médicaments, 14,3 % parmi les plus modestes contre 8,4 % parmi les plus aisés ; 64 % d'entre elles n'avaient acheté qu'une partie des médicaments prescrits.",
+      "periode": "2008",
+      "perimetre": "France",
+      "explication": "L'effet « responsabilisant » se traduit surtout par des ordonnances incomplètes chez les ménages modestes.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "12 %"
+    },
+    {
+      "fait": "Fait défavorable : selon la DREES, le reste à charge des ménages ne représentait en 2024 que 7,8 % de la consommation de soins, soit 292 euros par habitant ; au sens international, 10,2 % contre 14,8 % en moyenne dans l'Union européenne, un des plus faibles d'Europe.",
+      "periode": "2024",
+      "perimetre": "France et Union européenne",
+      "explication": "La santé est effectivement très socialisée en France, et c'est un choix collectif à défendre ; mais la moyenne cache les malades chroniques et ceux qui renoncent.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "292 euros"
+    },
+    {
+      "fait": "Fait défavorable : selon la RAND Corporation, dans son expérience, la participation financière n'a en général pas eu d'effet néfaste sur la santé du participant moyen, tout en réduisant les dépenses de 20 % à 30 %.",
+      "periode": "1971-1982",
+      "perimetre": "États-Unis",
+      "explication": "Les partisans du ticket modérateur s'appuient sur ce résultat ; il est ancien, américain, et ne vaut pas pour les plus pauvres et les plus malades.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les Français paient peu de leur poche, 292 euros par habitant en 2024. Mais les franchises, plafonnées à 140 euros depuis octobre 2026, ne responsabilisent pas : l'expérience de référence de la RAND montre qu'un frein financier réduit autant les soins utiles que les inutiles, et pénalise les plus pauvres et les plus malades.",
+    "moyen": "La France a un des restes à charge les plus faibles d'Europe : 292 euros par habitant en 2024, selon la DREES. Les franchises ont pourtant été doublées en 2024, puis leurs plafonds portés à 140 euros par an en octobre 2026. Elles ont rapporté 2,5 milliards d'euros en 2025, prélevés sur 48 millions de personnes.\n\nLe problème est qu'elles ne trient rien. Dans l'expérience randomisée de la RAND, la référence mondiale, le ticket modérateur réduisait autant les soins efficaces que les autres, et nuisait aux plus pauvres et aux plus malades. En France, après 2008, les ménages modestes ont été presque deux fois plus nombreux à modifier leurs achats de médicaments. Et les malades chroniques paient en moyenne 78 euros par an, contre 41 pour les autres.",
+    "detaille": "Les franchises médicales sont des sommes laissées à la charge du patient, non remboursées ni par la Sécurité sociale ni par les complémentaires. Depuis mars 2024, elles s'élèvent à 1 euro par boîte de médicament ou par acte paramédical et 4 euros par transport sanitaire, auxquels s'ajoute une participation de 2 euros par consultation. Le décret du 11 septembre 2026 a porté les plafonds annuels à 70 euros chacun, soit 140 euros cumulés, avec une indexation sur l'inflation à partir de 2028. Selon la Cour des comptes, ces prélèvements ont touché 48 millions de personnes et rapporté 2,5 milliards d'euros en 2025.\n\nIl est vrai que la santé est très socialisée en France. Selon la DREES, les ménages ne paient directement que 7,8 % de la consommation de soins, soit 292 euros par habitant en 2024 ; au sens international, la France est parmi les pays européens où le reste à charge est le plus faible. Mais une moyenne cache des écarts : les malades en affection de longue durée paient en moyenne 78 euros par an de franchises et participations, contre 41 euros pour les autres.\n\nL'idée de « responsabiliser » suppose que le patient renonce d'abord aux soins inutiles. L'expérience randomisée de la RAND, menée de 1971 à 1982 sur plus de 7 700 personnes, montre l'inverse : la participation financière réduit à peu près autant les soins efficaces que les soins moins efficaces. Elle n'a pas nui à la santé du participant moyen, mais elle a pénalisé les plus pauvres et les plus malades, par exemple les hypertendus. En France, après la création des franchises, l'IRDES a mesuré que 14,3 % des plus modestes modifiaient leurs achats de médicaments, contre 8,4 % des plus aisés, souvent en n'achetant qu'une partie de l'ordonnance.\n\nCe sont les médecins qui prescrivent, pas les patients. Pour limiter les dépenses inutiles, il existe d'autres leviers : la régulation des prix des médicaments, la prévention, les pratiques de prescription. Taxer la maladie revient à faire payer davantage ceux qui ont le moins choisi d'être soignés.",
+    "empathie": "Le déficit de la Sécurité sociale inquiète, et chacun a déjà vu une armoire à pharmacie pleine de boîtes inutilisées. Vouloir éviter le gaspillage est légitime ; la question est de savoir qui doit payer et si cela marche."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Un euro la boîte, ce n'est rien.",
+      "reponse": "Pour un malade chronique, cela fait en moyenne 78 euros par an, et le plafond est passé à 140 euros. Après 2008, les plus modestes étaient presque deux fois plus nombreux à acheter moins de médicaments."
+    },
+    {
+      "objection": "Sans ticket, les gens abusent.",
+      "reponse": "L'expérience de la RAND montre que le frein financier réduit autant les soins utiles que les inutiles : le patient ne sait pas faire le tri, c'est le médecin qui prescrit."
+    },
+    {
+      "objection": "Il faut bien boucher le trou de la Sécu.",
+      "reponse": "Les franchises ont rapporté 2,5 milliards d'euros en 2025, pris sur les malades. On peut aussi agir sur les recettes, les prix des médicaments ou la prévention."
+    }
+  ],
+  "questions": [
+    "Si le patient ne peut pas savoir à l'avance quel soin est utile, comment pourrait-il se « responsabiliser » ?",
+    "Est-il juste que les malades chroniques paient presque deux fois plus que les autres ?"
+  ],
+  "limites": [
+    "L'expérience de la RAND date des années 1970 et porte sur les États-Unis ; elle a été lue à travers la synthèse officielle de 2006.",
+    "L'étude de l'IRDES porte sur 2008 et mesure des modifications d'achats déclarées, pas un renoncement aux soins au sens strict.",
+    "Le rapport de la Cour des comptes de 2026 n'a pas été ouvert : il est connu par LCP et Caducee.net.",
+    "Les études de la DREES sur le renoncement aux soins n'ont pas pu être ouvertes (accès bloqué).",
+    "L'article de Vidal n'indique pas le rendement du doublement de 2024 ; le chiffre de 800 millions d'euros est une estimation citée en 2023 par Public Sénat."
+  ],
+  "sources": [
+    {
+      "titre": "Franchise médicale à 1 euro sur les médicaments : entrée en vigueur le 31 mars 2024",
+      "organisme": "Vidal",
+      "date_publication": "2024",
+      "url": "https://www.vidal.fr/actualites/30739-franchise-medicale-a-1-euro-sur-les-medicaments-entree-en-vigueur-le-31-mars-2024.html",
+      "passage": "Décret n° 2024-114 du 16 février 2024, applicable au 31 mars 2024 : franchise de 0,50 € à 1 € par boîte de médicament et par acte paramédical, de 2 € à 4 € par transport sanitaire ; plafonds journaliers doublés. Plafond annuel de 50 € par an et par personne inchangé. Exonérations : moins de 18 ans, femmes enceintes bénéficiaires de l'assurance maternité, bénéficiaires de la complémentaire santé solidaire.",
+      "pertinence": "Base d'information médicale professionnelle.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Frais médicaux : les plafonds des franchises et participations forfaitaires augmentent au 1er octobre 2026",
+      "organisme": "Service-Public.fr (Direction de l’information légale et administrative)",
+      "date_publication": "16 septembre 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17166?lang=fr",
+      "passage": "Décret n° 2026-858 du 11 septembre 2026 : plafond annuel des franchises de 50 € à 70 €, des participations forfaitaires de 50 € à 70 €, soit 140 € cumulés au lieu de 100 €, à partir du 1er octobre 2026. Franchise : 1 € par boîte et par acte paramédical, 4 € par transport ; participation forfaitaire : 2 € par consultation ou acte de biologie. Exonérations : moins de 18 ans, complémentaire santé solidaire, femmes enceintes à partir du 6e mois. Revalorisation annuelle selon l'inflation à partir du 1er janvier 2028.",
+      "pertinence": "Site officiel de l'administration française.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Franchises médicales : ce qui va changer après les annonces du gouvernement",
+      "organisme": "LCP-Assemblée nationale",
+      "date_publication": "24 juillet 2026",
+      "url": "https://lcp.fr/index%2ephp/actualites/franchises-medicales-ce-qui-va-changer-apres-les-annonces-du-gouvernement-439936",
+      "passage": "La ministre de la Santé Stéphanie Rist annonce un passage des plafonds de 50 à 100 € chacun (200 € au total) ; selon Les Echos, confirmé par Matignon, 750 millions d'euros par an attendus. Selon la Cour des comptes, les franchises et participations ont concerné 48 millions de personnes et rapporté 2,5 milliards d'euros en 2025. France Assos Santé dénonce une « erreur monumentale » ; la Mutualité française estime que la mesure pèsera surtout sur les personnes âgées et malades chroniques.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les dépenses de santé en 2024 — Résultats des comptes de la santé, édition 2025",
+      "organisme": "DREES (ministère de la Santé)",
+      "date_publication": "30 septembre 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse-infographie-documents-de-reference/250930-Panorama-depenses-de-sante",
+      "passage": "Consommation de soins et de biens médicaux de 255 milliards d'euros en 2024, financée à 79,4 % par la Sécurité sociale et l'État et à 12,8 % par les organismes complémentaires. Reste à charge des ménages : 7,8 % (en hausse de 0,1 point), soit 292 euros par habitant (276 en 2023). Au sens international, 10,2 % de la dépense courante, contre 14,8 % en moyenne dans l'Union européenne : la France est parmi les pays où il est le plus faible, juste derrière le Luxembourg et la Croatie. Le doublement des franchises et participations forfaitaires augmente la contribution des ménages.",
+      "pertinence": "Service statistique public du ministère de la Santé.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "The Health Insurance Experiment: A Classic RAND Study Speaks to the Current Health Care Reform Debate",
+      "organisme": "RAND Corporation",
+      "date_publication": "6 décembre 2006",
+      "url": "https://www.rand.org/pubs/research_briefs/RB9174.html",
+      "passage": "Expérience menée de 1971 à 1982 auprès de 2 750 familles (plus de 7 700 personnes) aux États-Unis. Avec une participation financière, une à deux consultations de moins par an et 20 % d'hospitalisations en moins ; dépenses réduites de 20 % à 30 % selon le taux. Le ticket modérateur a réduit les soins efficaces comme les soins moins efficaces, à peu près dans les mêmes proportions pour les hospitalisations et les médicaments. « Cost sharing in general had no adverse effects on participant health », sauf pour les plus pauvres et les plus malades (environ 6 % de l'échantillon) : chez les hypertendus pauvres, la gratuité réduisait davantage la tension, soit une baisse de mortalité projetée d'environ 10 %.",
+      "pertinence": "Synthèse officielle d'une expérience randomisée de référence.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Les franchises ont-elles modifié les comportements d'achats de médicaments ?",
+      "organisme": "IRDES, Questions d’économie de la santé n° 158 (B. Kambia-Chopin, M. Perronnin)",
+      "date_publication": "octobre 2010",
+      "url": "https://www.IRDES.fr/Publications/2010/Qes158.pdf",
+      "passage": "Enquête santé protection sociale 2008 : 4 985 personnes ayant eu une prescription. 12 % déclarent avoir modifié leurs achats de médicaments à cause des franchises ; 14,3 % parmi les revenus inférieurs à 870 € par unité de consommation, contre 8,4 % au-delà de 1 997 €. Toutes choses égales par ailleurs, la probabilité est presque doublée pour les plus modestes et plus élevée en cas de mauvais état de santé ou de maladie chronique. 64 % de ceux qui ont modifié leurs achats n'ont acheté qu'une partie des médicaments prescrits.",
+      "pertinence": "Institut public de recherche en économie de la santé.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "« Le gouvernement n'a pas tranché ! » : la piste d'une hausse des franchises médicales enflamme le Sénat",
+      "organisme": "Public Sénat",
+      "date_publication": "16 novembre 2023",
+      "url": "https://www.publicsenat.fr/actualites/sante/le-gouvernement-na-pas-tranche-la-piste-dune-hausse-des-franchises-medicales-enflamme-le-senat",
+      "passage": "Le doublement des franchises, envisagé après une hausse de 7,7 % de la consommation de médicaments en 2022, doit rapporter 800 millions d'euros ; il figure parmi les mesures de « responsabilisation des assurés ». Hausse moyenne d'environ 17 euros par an par patient. Le ministre Aurélien Rousseau dit redouter une mesure perçue comme une ponction sans effet sur la consommation de médicaments.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Franchises médicales à 140 euros cumulés : la hausse se concentre sur les plus gros consommateurs de soins",
+      "organisme": "Caducee.net",
+      "date_publication": "14 septembre 2026",
+      "url": "https://www.caducee.net/actualite-medicale/16965/franchises-medicales-a-140-euros-cumules-la-hausse-se-concentre-sur-les-plus-gros-consommateurs-de-soins.html",
+      "passage": "Selon la Cour des comptes (rapport « La Sécurité sociale 2026 », mai 2026), les assurés en affection de longue durée paient en moyenne 78 € par an de franchises et participations, contre 41 € pour les autres ; la Cour ne démontre pas encore leur effet de responsabilisation. Environ 18 millions de personnes sont exonérées. Le projet initial à 200 € a été abandonné.",
+      "pertinence": "Site d'information médicale, résumant un rapport de la Cour des comptes (non ouvert).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Rendement du relèvement des plafonds de 2026, prochain rapport de la Cour des comptes et mesures du budget de la Sécurité sociale pour 2027.",
+  "objections_legitimes": [
+    "Le reste à charge en France est réellement l'un des plus faibles d'Europe.",
+    "Le gaspillage de médicaments et les soins inutiles existent et coûtent cher.",
+    "L'expérience de la RAND n'a pas trouvé d'effet néfaste sur la santé du participant moyen."
+  ],
+  "publics": {
+    "convaincus": "C'est vrai, en France on paie peu de sa poche, 292 euros par an en moyenne. Mais regarde qui paie les franchises : les malades chroniques, 78 euros par an en moyenne, contre 41 pour les autres. Et l'étude de référence montre qu'un ticket fait renoncer autant aux soins utiles qu'aux inutiles : c'est une taxe sur la maladie, pas une leçon de responsabilité.",
+    "indecis": "Vouloir éviter le gaspillage est légitime, et le reste à charge français est faible. Mais les franchises ne trient pas les soins : elles freinent surtout les plus modestes et les plus malades. Depuis octobre 2026, le plafond est de 140 euros par an, et les moins de 18 ans, les femmes enceintes et les bénéficiaires de la complémentaire santé solidaire restent exonérés."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "universalite",
+      "services_publics",
+      "vulnerables"
+    ],
+    "mecanismes": "Le discours de la responsabilisation fait du malade un consommateur fautif, alors que ce sont les médecins qui prescrivent. Il présente une recette budgétaire prélevée sur les malades comme une leçon de morale.",
+    "consequences": "Les malades chroniques et les ménages modestes paient le plus et renoncent à une partie des médicaments prescrits, ce qui peut coûter plus cher plus tard, à eux comme à la collectivité.",
+    "democratie": "La Sécurité sociale repose sur le principe chacun cotise selon ses moyens et reçoit selon ses besoins ; la grignoter par décret, sans débat au Parlement, affaiblit ce pacte.",
+    "propositions": [
+      "Supprimer les franchises médicales et les participations forfaitaires.",
+      "Financer l’Assurance maladie par des recettes justes : cotisations sur tous les revenus, y compris du capital.",
+      "Agir sur les vrais leviers de dépense : prix des médicaments, prévention, pratiques de prescription."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le reste à charge des ménages français est l’un des plus faibles d’Europe.",
+        "integration": "C’est une conquête sociale à défendre, pas un excès : la moyenne cache les malades chroniques, qui paient bien plus que les autres."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "franchises_q2013",
+      "label": "Franchises médicales"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "ticket moderateur",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent"
+  ],
+  "concepts": [
+    "franchises",
+    "prestations"
+  ]
+}

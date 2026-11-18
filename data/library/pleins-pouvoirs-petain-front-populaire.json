@@ -1,0 +1,269 @@
+{
+  "id": "pleins-pouvoirs-petain-front-populaire",
+  "type": "idee_recue",
+  "affirmation": "C'est la Chambre du Front populaire qui a voté les pleins pouvoirs à Pétain.",
+  "volet": "politique",
+  "sous_theme": "Histoire politique contemporaine",
+  "rubriques": [],
+  "mots_cles": [
+    "front populaire petain",
+    "pleins pouvoirs petain",
+    "la gauche a vote petain",
+    "vote du 10 juillet 1940",
+    "les 80 parlementaires",
+    "socialistes petain",
+    "chambre de 1936 petain",
+    "qui a vote pour petain",
+    "vichy gauche",
+    "communistes 1940 decheance"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le 10 juillet 1940, les députés élus en 1936 et les sénateurs, réunis à Vichy, ont voté les pleins pouvoirs à Pétain par 569 voix contre 80, avec 20 abstentions. Beaucoup d'élus de gauche ont voté pour, dont 90 socialistes, aux côtés de la droite. Mais les députés communistes avaient été déchus, et les 80 qui ont dit non venaient surtout de la gauche, socialistes en tête. C'est presque tout le Parlement, droite comprise, qui a abdiqué dans la défaite, pas « le Front populaire ».",
+  "contexte": "L'argument sert à renvoyer la gauche à Vichy et à présenter l'extrême droite comme étrangère à la collaboration. Il s'appuie sur un fait réel, le vote d'une Chambre élue en 1936, mais en tait la plus grande partie.",
+  "explication": "On distingue qui a voté (députés et sénateurs réunis), qui était absent (communistes déchus, passagers du Massilia), comment se répartissent les voix pour et contre, et ce que les historiens disent du vote socialiste.",
+  "faits": [
+    {
+      "fait": "Le 10 juillet 1940, l'Assemblée nationale, réunissant députés et sénateurs à Vichy, a adopté la loi accordant les pleins pouvoirs à Pétain par 569 voix pour, 80 contre et 20 abstentions.",
+      "periode": "10 juillet 1940",
+      "perimetre": "France",
+      "explication": "Le vote est massif : une très large majorité des parlementaires présents a abdiqué au profit de Pétain.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "569 pour, 80 contre"
+    },
+    {
+      "fait": "La Chambre des députés élue en 1936 avait une majorité de gauche : la gauche avait obtenu 57,17 % des voix et la SFIO était devenue le premier groupe avec 149 membres.",
+      "periode": "1936",
+      "perimetre": "France",
+      "explication": "Il est exact que la Chambre de 1940 était celle élue avec le Front populaire ; mais le vote réunissait aussi les sénateurs, et la Chambre avait changé depuis 1936.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "149 membres"
+    },
+    {
+      "fait": "Selon la notice biographique de Jacques Duclos publiée par le Sénat, la plupart des députés communistes ont été déchus de leur mandat en février 1940 ; le site Chemins de mémoire du ministère des Armées précise que les communistes ne participent pas au vote du 10 juillet, pas plus que les parlementaires partis sur le Massilia.",
+      "periode": "1940",
+      "perimetre": "France",
+      "explication": "La composante communiste du Front populaire avait été exclue du Parlement avant le vote : la Chambre qui vote n'est plus celle de 1936.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Les 80 parlementaires qui ont refusé les pleins pouvoirs étaient 57 députés et 23 sénateurs, « de Léon Blum au marquis de Moustier » : socialistes, radicaux et démocrates-chrétiens.",
+      "periode": "10 juillet 1940",
+      "perimetre": "France",
+      "explication": "Le refus est venu surtout de la gauche, mais aussi de quelques élus de droite : la ligne de partage était entre républicains et ralliés, pas entre camps.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "57 députés et 23 sénateurs"
+    },
+    {
+      "fait": "Selon l'historien Benoît Kermoal (Fondation Jean-Jaurès), 36 parlementaires socialistes ont voté contre, soit 45 % des 80, le groupe le plus nombreux parmi les opposants.",
+      "periode": "10 juillet 1940",
+      "perimetre": "France",
+      "explication": "Le noyau du refus est socialiste, autour de Léon Blum.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "36 socialistes"
+    },
+    {
+      "fait": "Fait défavorable : selon Benoît Kermoal (Fondation Jean-Jaurès), 90 parlementaires socialistes ont voté les pleins pouvoirs et 6 se sont abstenus ; ils ont été exclus du parti à la Libération.",
+      "periode": "10 juillet 1940",
+      "perimetre": "France",
+      "explication": "Une majorité des socialistes présents a bien voté pour : la gauche parlementaire a aussi failli ce jour-là, et le parti l'a sanctionné après la guerre.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "90 socialistes"
+    },
+    {
+      "fait": "Selon le site de vulgarisation Hérodote.net, sur les 569 voix pour, 283 venaient de la droite et 286 de la gauche, et 73 des 80 opposants étaient de gauche.",
+      "periode": "10 juillet 1940",
+      "perimetre": "France",
+      "explication": "Les voix pour se partagent presque à égalité entre droite et gauche, alors que les voix contre sont très majoritairement de gauche.",
+      "source": 7,
+      "fiabilite": "estimation",
+      "chiffre": "283 et 286"
+    },
+    {
+      "fait": "Selon un article de l'historien du droit Jérôme Henning (Université Lyon 3), les présidents des deux chambres, Jules Jeanneney et Édouard Herriot, figurent parmi les 20 abstentionnistes.",
+      "periode": "10 juillet 1940",
+      "perimetre": "France",
+      "explication": "Même les plus hauts responsables républicains n'ont pas osé voter contre : le vote s'est fait dans la panique de la défaite.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "20 abstentions"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le 10 juillet 1940, députés et sénateurs ont voté les pleins pouvoirs à Pétain par 569 voix contre 80. Des élus de gauche, dont 90 socialistes, ont voté pour, comme la droite. Mais les communistes avaient été déchus et les 80 qui ont dit non étaient surtout de gauche, avec Léon Blum.",
+    "moyen": "Le vote du 10 juillet 1940 n'est pas celui de « la Chambre du Front populaire » seule : députés et sénateurs étaient réunis, et les députés communistes avaient été déchus de leur mandat quelques mois plus tôt. Le résultat est écrasant : 569 voix pour, 80 contre, 20 abstentions.\n\nOui, une partie de la gauche a failli : 90 parlementaires socialistes ont voté pour, et le parti les a exclus à la Libération. Mais la droite a voté pour elle aussi, et le refus est venu surtout de la gauche : 36 socialistes figurent parmi les 80, autour de Léon Blum, avec des radicaux et quelques démocrates-chrétiens. Ce jour-là, la frontière passait entre ceux qui défendaient la République et ceux qui s'en remettaient à Pétain.",
+    "detaille": "Le 10 juillet 1940, à Vichy, quelques semaines après l'armistice, l'Assemblée nationale, c'est-à-dire les députés et les sénateurs réunis, vote une loi qui donne au gouvernement de Pétain les pleins pouvoirs pour écrire une nouvelle Constitution. Le résultat est sans appel : 569 voix pour, 80 contre, 20 abstentions. Ce texte servira de base légale au régime de Vichy, notamment à la loi sur le statut des juifs.\n\nLes députés présents avaient bien été élus en 1936, lorsque la gauche avait obtenu 57,17 % des voix. Mais la Chambre avait changé : la plupart des députés communistes avaient été déchus de leur mandat en février 1940, et ils ne participent pas au vote. Des parlementaires partis sur le Massilia pour continuer la lutte en Afrique du Nord sont eux aussi absents. Le vote réunit en outre les sénateurs.\n\nLa gauche n'en sort pas indemne : selon l'historien Benoît Kermoal, 90 parlementaires socialistes ont voté pour et 6 se sont abstenus, ce qui leur vaudra l'exclusion du parti à la Libération. Selon Hérodote.net, les voix pour se partagent presque à égalité entre droite (283) et gauche (286). Mais le refus vient très majoritairement de la gauche : sur les 80, 57 députés et 23 sénateurs, on compte 36 socialistes, des radicaux et quelques élus de droite, « de Léon Blum au marquis de Moustier ». Dix d'entre eux connaîtront la prison ou la déportation.\n\nLa vraie leçon n'est donc pas « la gauche a fait Pétain », mais qu'un Parlement presque entier, de droite comme de gauche, a cédé dans la défaite, et que ceux qui ont tenu bon, souvent socialistes ou radicaux, ont sauvé l'honneur de la République.",
+    "empathie": "Il est troublant de découvrir que des élus de gauche ont voté pour Pétain, et il est normal de vouloir le rappeler. Raconter toute l'histoire de ce vote est plus juste que de la réduire à un camp."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les socialistes ont voté pour Pétain, c'est un fait.",
+      "reponse": "Oui, 90 d'entre eux. Mais la droite aussi a voté pour, et 36 socialistes ont voté contre : c'est le groupe le plus nombreux des 80 qui ont refusé. Le parti a exclu à la Libération ceux qui avaient voté pour."
+    },
+    {
+      "objection": "Le Front populaire était majoritaire, donc il est responsable.",
+      "reponse": "Les communistes avaient été déchus et absents, les sénateurs votaient aussi, et les voix pour venaient presque autant de la droite que de la gauche. Parler du Front populaire, c'est oublier tous les autres."
+    }
+  ],
+  "questions": [
+    "Qui étaient les 80 parlementaires qui ont dit non, et que leur est-il arrivé ensuite ?",
+    "Pourquoi les députés communistes n'étaient-ils plus là le 10 juillet 1940 ?"
+  ],
+  "limites": [
+    "Les sources ne concordent pas exactement : le site Chemins de mémoire indique 570 voix pour, les autres sources 569.",
+    "La répartition droite/gauche des voix pour (283 et 286) vient d'un site de vulgarisation, Hérodote.net, et n'a pas pu être vérifiée dans une source institutionnelle.",
+    "Le décompte socialiste (90, 6 et 36) vient d'un historien publié par la Fondation Jean-Jaurès, proche du Parti socialiste.",
+    "La date exacte et la base légale de la déchéance des députés communistes n'ont été lues que dans une notice biographique du Sénat ; aucun texte officiel n'a été ouvert.",
+    "La page du gouvernement consacrée au 85e anniversaire du vote n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Ferrand rend hommage aux 80 parlementaires ayant refusé les pleins pouvoirs à Pétain",
+      "organisme": "Public Sénat",
+      "date_publication": "10 juillet 2019",
+      "url": "https://www.publicsenat.fr/article/politique/ferrand-rend-hommage-aux-80-parlementaires-ayant-refuse-les-pleins-pouvoirs-a",
+      "passage": "Le 10 juillet 1940, le projet de loi accordant les pleins pouvoirs à Pétain est adopté par 569 voix pour, 80 contre et 20 abstentions. Les 80 opposants, députés et sénateurs, étaient « menés par Léon Blum » et majoritairement de gauche. Le texte n'a jamais abouti à une Constitution mais a servi de base légale au régime de Vichy, notamment pour la loi sur le statut des juifs. Richard Ferrand : « non au populisme et à l'antiparlementarisme ».",
+      "pertinence": "Chaîne parlementaire du Sénat ; compte rendu de la cérémonie d'hommage.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Discours de Richard Ferrand, président de l'Assemblée nationale, en hommage aux « 80 » parlementaires",
+      "organisme": "Assemblée nationale",
+      "date_publication": "10 juillet 2019",
+      "url": "https://presidence.assemblee-nationale.fr/pdf/show/1086/discoursPDF/Discours_Vichy_Hommage_80_parlementaires.pdf",
+      "passage": "Les 80 parlementaires qui ont refusé les pleins pouvoirs : 57 députés et 23 sénateurs, « de Léon Blum au marquis de Moustier », socialistes, radicaux et démocrates-chrétiens. 27 parlementaires avaient embarqué sur le Massilia pour continuer la lutte depuis l'Afrique du Nord. Dix des « 80 » connurent prisons et déportation ; sept furent tués. Cri du député Vincent Badie : « Vive la République quand même ! »",
+      "pertinence": "Discours officiel du président de l'Assemblée nationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "10 juillet 1940 : les socialistes et la fin de la République",
+      "organisme": "Benoît Kermoal, Fondation Jean-Jaurès",
+      "date_publication": "10 juillet 2020",
+      "url": "https://www.jean-jaures.org/publication/10-juillet-1940-les-socialistes-et-la-fin-de-la-republique/",
+      "passage": "Parmi les parlementaires socialistes : 90 ont voté les pleins pouvoirs, 6 se sont abstenus, 36 ont voté contre (29 députés et 7 sénateurs). « Parmi eux, trente-six étaient socialistes » : 45 % des 80, le groupe le plus nombreux des opposants. 8 socialistes étaient à bord du Massilia. Les socialistes qui avaient voté pour furent exclus du parti à la Libération.",
+      "pertinence": "Article d'historien publié par une fondation proche du Parti socialiste.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "10 juillet 1940 : une médaille pour ceux qui ont dit « non »",
+      "organisme": "Chemins de mémoire (ministère des Armées)",
+      "date_publication": "non datée (consultée le 18 novembre 2026)",
+      "url": "https://www.cheminsdememoire.gouv.fr/en/node/7351",
+      "passage": "L'Assemblée nationale (Sénat et Chambre des députés réunis) compte 671 parlementaires ; résultat : 570 voix pour, 80 contre, 20 abstentions. Les communistes, « dont les mandats avaient été annulés » après le pacte germano-soviétique, ne participent pas au vote ; des parlementaires partis sur le Massilia en sont exclus ; d'autres sont morts au combat ou empêchés. En 1945, une médaille est remise aux 80.",
+      "pertinence": "Site mémoriel du ministère des Armées (page en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les présidents des chambres, Jules Jeanneney et Édouard Herriot, face au régime de Vichy (1940-1942)",
+      "organisme": "Jérôme Henning, Université Jean Moulin Lyon 3",
+      "date_publication": "non datée",
+      "url": "https://hd.univ-lyon3.fr/medias/fichier/henning-la-resistance-legale-des-presidents-de-chambre_1462474053091-pdf",
+      "passage": "« cinq cent soixante-neuf suffrages se prononcent pour le projet gouvernemental » ; sur 649 votants, 80 contre ; 20 abstentions, dont les présidents des deux chambres, Jules Jeanneney et Édouard Herriot, président de la Chambre « depuis l'élection de 1936 ».",
+      "pertinence": "Article universitaire d'histoire du droit.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Jacques Duclos — notice biographique (anciens sénateurs)",
+      "organisme": "Sénat",
+      "date_publication": "non datée",
+      "url": "https://www.senat.fr/senateur/duclos_jacques000681.html",
+      "passage": "« Comme la plupart des députés communistes, il sera déchu de son mandat le 20 février 1940. » Il est « relevé de la déchéance de son mandat » par décision du Conseil des ministres du 28 octobre 1944.",
+      "pertinence": "Notice biographique officielle du Sénat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les élections législatives des 26 avril et 3 mai 1936",
+      "organisme": "Assemblée nationale",
+      "date_publication": "non datée (exposition « Il y a 90 ans, le Front populaire »)",
+      "url": "https://www.assemblee-nationale.fr/dyn/histoire/il-y-a-90-ans-le-front-populaire-et-les-lois-sociales-de-la-republique/les-elections-legislatives-des-26-avril-et-3-mai-1936",
+      "passage": "La SFIO « devient pour la première fois le groupe le plus important de la Chambre avec 149 membres ». Voix : communistes 15,26 %, SFIO 19,86 %, radicaux 14,45 % ; total gauche 57,17 %, droite 42,83 %. Gouvernement Blum de socialistes et de radicaux, le PCF « apportant son soutien sans participation ».",
+      "pertinence": "Page d'histoire officielle de l'Assemblée nationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "10 juillet 1940 : la République se saborde",
+      "organisme": "Alban Dignat, Hérodote.net",
+      "date_publication": "mise à jour le 8 mai 2025",
+      "url": "https://www.herodote.net/10_juillet_1940-evenement-19400710.php",
+      "passage": "649 présents ; 569 pour, 80 contre, « dont 73 de gauche, menés par Léon Blum ». Parmi les voix pour : 283 de droite et 286 de gauche. Les communistes sont exclus des députés élus le 3 mai 1936 à la suite du pacte germano-soviétique.",
+      "pertinence": "Site de vulgarisation historique ; répartition droite/gauche à manier avec prudence.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-07-10",
+  "raison_actualisation": "Nouvelles publications à l'occasion des anniversaires du vote du 10 juillet 1940.",
+  "objections_legitimes": [
+    "Il est exact que la Chambre de 1940 avait été élue en 1936.",
+    "Une majorité des parlementaires socialistes présents a voté les pleins pouvoirs.",
+    "Interroger les responsabilités de tous les partis dans l'effondrement de 1940 est un travail historique légitime."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : 90 socialistes ont voté pour Pétain. Mais la droite aussi, presque à parts égales, et les communistes avaient été chassés du Parlement. Et parmi les 80 qui ont dit non, il y avait 36 socialistes, dont Léon Blum. Ce jour-là, ce n'était pas la gauche contre la droite, mais la République contre l'abdication.",
+    "indecis": "Le 10 juillet 1940, presque tout le Parlement, députés et sénateurs, droite et gauche, a voté les pleins pouvoirs à Pétain : 569 voix contre 80. Une partie de la gauche a failli, c'est vrai, mais le refus est venu surtout d'elle. Retenir toute l'histoire évite qu'on s'en serve contre un seul camp."
+  },
+  "lecture": {
+    "valeurs": [
+      "antifascisme",
+      "democratie",
+      "libertes"
+    ],
+    "mecanismes": "L’argument isole un fait réel, le vote d’élus de gauche, pour faire porter à un seul camp l’abdication de presque tout le Parlement. Il efface les communistes chassés de la Chambre, la droite qui a voté pour, et les socialistes et radicaux qui ont dit non.",
+    "consequences": "Renvoyer la gauche à Vichy sert à blanchir l’extrême droite, héritière revendiquée de ceux qui ont réhabilité Pétain, et à brouiller la mémoire de ceux qui ont résisté.",
+    "democratie": "Le vote de Vichy montre qu’une démocratie peut se saborder légalement dans la panique : la défense de la République exige des élus capables de dire non, et des citoyens qui s’en souviennent.",
+    "propositions": [
+      "Enseigner à l’école l’histoire des parlementaires qui ont refusé les pleins pouvoirs et de leur destin.",
+      "Rendre plus difficile toute révision de la Constitution en période de crise ou d’état d’exception.",
+      "Soutenir la recherche historique et l’ouverture des archives sur l’effondrement de la République."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une majorité des parlementaires socialistes présents a voté les pleins pouvoirs à Pétain.",
+        "integration": "La gauche doit regarder cette faillite en face, comme l’a fait le parti socialiste en excluant ces élus à la Libération ; cela ne transforme pas pour autant le vote d’un Parlement entier en crime d’un seul camp."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "pleins_pouvoirs_q2013",
+      "label": "Le vote des pleins pouvoirs à Pétain"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "pleins pouvoirs",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire",
+    "vichy",
+    "front national",
+    "vel d hiv"
+  ],
+  "concepts": [
+    "pleins_pouvoirs",
+    "gauche",
+    "extreme_droite_histoire",
+    "vichy",
+    "decheance"
+  ]
+}

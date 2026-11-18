@@ -201,13 +201,6 @@
       }
     ]
   },
-  "concepts": [
-    "rn_brebis",
-    "patriotisme",
-    "antisemitisme",
-    "discrimination",
-    "fn_parti"
-  ],
   "repond_a": [
     {
       "id": "rn_brebis_q1215",
@@ -228,5 +221,12 @@
     "front national",
     "fn",
     "rn"
+  ],
+  "concepts": [
+    "rn_brebis",
+    "patriotisme",
+    "antisemitisme",
+    "discrimination",
+    "fn_parti"
   ]
 }

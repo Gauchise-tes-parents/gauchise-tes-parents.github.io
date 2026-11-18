@@ -1,0 +1,245 @@
+{
+  "id": "fessee-interdite-etat",
+  "type": "idee_recue",
+  "affirmation": "On ne peut plus donner une fessée à ses enfants, l'État s'en mêle.",
+  "volet": "securite",
+  "sous_theme": "Violences intrafamiliales",
+  "rubriques": [],
+  "mots_cles": [
+    "loi anti fessee",
+    "interdiction de la fessee",
+    "fessee interdite",
+    "on peut plus donner une fessee",
+    "violences educatives ordinaires",
+    "l etat se mele de l education",
+    "droit de correction",
+    "gifle enfant loi",
+    "punition corporelle",
+    "loi du 10 juillet 2019"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Plutôt exact sur le droit, trompeur sur ce qu'on imagine derrière. Depuis la loi du 10 juillet 2019, le code civil précise que « l'autorité parentale s'exerce sans violences physiques ou psychologiques » : la fessée n'est donc plus permise. Mais la loi n'a créé aucune sanction pénale nouvelle ; elle a une visée « pédagogique ». La France a suivi la Suède (1979) et répondu à une condamnation du Conseil de l'Europe, et les recherches associent la fessée à des effets défavorables sans amélioration de l'obéissance.",
+  "contexte": "L'expression « loi anti-fessée » circule depuis le vote de 2018-2019. Elle nourrit l'idée d'un État qui viendrait surveiller les familles et punir les parents, alors que beaucoup d'adultes ont eux-mêmes été élevés avec des fessées et ne s'en estiment pas abîmés.",
+  "explication": "On distingue ce que dit exactement la loi (droit civil, sans sanction nouvelle), pourquoi elle a été votée (engagements européens et internationaux), ce que disent les recherches sur les effets des châtiments corporels et ce que font réellement les parents aujourd'hui.",
+  "faits": [
+    {
+      "fait": "La loi n° 2019-721 du 10 juillet 2019 a complété l'article 371-1 du code civil par la phrase : « L'autorité parentale s'exerce sans violences physiques ou psychologiques. »",
+      "periode": "depuis 2019",
+      "perimetre": "France",
+      "explication": "La fessée n'est plus compatible avec la définition légale de l'autorité parentale : sur ce point, l'affirmation est exacte.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, le texte ne crée pas de nouvelles sanctions, qui existaient déjà, et sa visée est « pédagogique » ; il a été adopté en première lecture à l'Assemblée par 51 voix pour et 1 contre.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Aucun parent ne va en prison pour une fessée à cause de cette loi : elle fixe une norme et supprime l'excuse du « droit de correction », sans nouveau délit.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "51"
+    },
+    {
+      "fait": "Selon le rapport de la Global Initiative to End All Corporal Punishment of Children, le Comité européen des droits sociaux du Conseil de l'Europe avait jugé en 2014, dans une décision publiée le 4 mars 2015, que la France violait la Charte sociale européenne faute d'interdiction claire des châtiments corporels.",
+      "periode": "2014-2015",
+      "perimetre": "France, Conseil de l’Europe",
+      "explication": "La loi de 2019 répond à un engagement européen de la France, pas à une lubie gouvernementale.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, la Suède a interdit les châtiments corporels dès 1979, et la France est devenue l'un des derniers pays d'Europe de l'Ouest à le faire, environ 55e État au monde selon une ONG.",
+      "periode": "1979-2019",
+      "perimetre": "Monde",
+      "explication": "La France n'est pas pionnière : elle rattrape un mouvement engagé depuis quarante ans.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "1979"
+    },
+    {
+      "fait": "Selon une méta-analyse d'Elizabeth Gershoff et Andrew Grogan-Kaylor portant sur plus de 160 000 enfants, la fessée est associée à 13 des 17 effets étudiés, tous défavorables (agressivité, comportements antisociaux, troubles de santé mentale), et à aucune amélioration de l'obéissance.",
+      "periode": "1960-2016 (cinq décennies d’études)",
+      "perimetre": "principalement États-Unis",
+      "explication": "La fessée n'apprend pas à obéir mieux, et elle va avec davantage de difficultés pour l'enfant.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "160 000"
+    },
+    {
+      "fait": "Selon le baromètre Ifop pour la Fondation pour l'enfance publié en 2026, 37 % des parents disent avoir eu recours à des violences physiques sur l'année écoulée, et 40 % des pères contre 25 % des mères estiment que certains enfants ont besoin de punitions corporelles.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Sept ans après la loi, la pratique reste répandue : la loi n'a pas transformé les familles du jour au lendemain, ce qui montre aussi qu'elle ne fonctionne pas comme une machine à punir.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "37 %"
+    },
+    {
+      "fait": "Selon la synthèse du même baromètre, 69 % des parents déclarent connaître la loi de 2019, mais 36 % jugent encore la fessée acceptable dans un but éducatif et 25 % pensent que la loi devrait permettre les punitions corporelles.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Une partie importante des parents reste attachée à la fessée : le débat existe et mérite mieux que des caricatures.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "69 %"
+    },
+    {
+      "fait": "Fait défavorable : la loi touche bien à l'éducation donnée dans les familles ; selon Public Sénat, des élus de droite et d'extrême droite y ont vu une « ingérence » dans la vie des familles, et les résultats de la méta-analyse de 2016 sont des associations statistiques, pas des expériences contrôlées.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Il est exact que l'État fixe désormais une règle sur la manière d'éduquer, et la recherche mesure des liens plutôt que des causes démontrées une par une ; mais ces liens sont constants et aucune étude citée ne montre de bénéfice de la fessée.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, depuis 2019, le code civil dit que l'autorité parentale s'exerce « sans violences physiques ou psychologiques ». Mais la loi n'a créé aucune sanction nouvelle : elle pose une règle, comme la Suède l'a fait dès 1979. Et la fessée n'améliore pas l'obéissance, selon une méta-analyse sur plus de 160 000 enfants.",
+    "moyen": "La loi du 10 juillet 2019 a ajouté une phrase au code civil : l'autorité parentale s'exerce sans violences physiques ou psychologiques. La fessée n'est donc plus permise, c'est vrai. Mais le texte ne crée aucun nouveau délit ; sa visée est « pédagogique », et il met fin à l'idée d'un « droit de correction » des parents. Il répond aussi à une condamnation de la France par le Comité européen des droits sociaux du Conseil de l'Europe.\n\nCe choix s'appuie sur la recherche : une méta-analyse portant sur plus de 160 000 enfants associe la fessée à davantage d'agressivité et de troubles, et à aucune amélioration de l'obéissance. Dans les faits, la pratique reste fréquente : en 2026, 37 % des parents disent avoir eu recours à des violences physiques dans l'année. Le débat est légitime, mais il porte sur la meilleure façon d'aider les parents, pas sur une police des familles.",
+    "detaille": "Depuis la loi n° 2019-721 du 10 juillet 2019, l'article 371-1 du code civil, celui qu'on lit lors des mariages, précise : « L'autorité parentale s'exerce sans violences physiques ou psychologiques. » La fessée, la gifle ou les humiliations ne sont donc plus compatibles avec l'autorité parentale telle que la loi la définit. Sur ce point, l'affirmation est exacte.\n\nCe qu'elle sous-entend l'est beaucoup moins. La loi ne crée aucune sanction pénale nouvelle : les violences sur un enfant étaient déjà punissables, et le texte, selon sa rapporteure, a une visée « pédagogique ». Il supprime surtout l'excuse d'un « droit de correction » coutumier que certains juges admettaient encore. Il répond à des engagements internationaux : le Comité européen des droits sociaux du Conseil de l'Europe avait jugé en 2014 que la France violait la Charte sociale européenne faute d'interdiction claire, et le Comité des droits de l'enfant de l'ONU a salué la loi en 2023. La Suède avait franchi le pas dès 1979.\n\nLa recherche donne raison à ce choix. Une méta-analyse de 2016 portant sur plus de 160 000 enfants associe la fessée à 13 effets défavorables sur 17 étudiés, sans amélioration de l'obéissance. Il s'agit d'associations statistiques, mais elles vont toutes dans le même sens. En France, la pratique résiste : en 2026, 37 % des parents disent avoir eu recours à des violences physiques dans l'année, et 36 % jugent encore la fessée acceptable dans un but éducatif, alors que 69 % disent connaître la loi.\n\nL'État ne s'invite donc pas dans chaque foyer : il fixe un repère, comme il l'a fait pour d'autres violences autrefois tolérées dans la famille. La vraie question est celle des moyens donnés aux parents, souvent épuisés, pour éduquer autrement : soutien à la parentalité, protection maternelle et infantile, temps et conditions de vie.",
+    "empathie": "Beaucoup de parents ont reçu des fessées enfants et aiment leurs propres parents ; ils peuvent vivre la loi comme un jugement sur leur famille. Il est possible de reconnaître cela tout en expliquant ce que l'on sait aujourd'hui."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On va se retrouver au tribunal pour une fessée.",
+      "reponse": "La loi de 2019 n'a créé aucune sanction pénale nouvelle ; elle a une visée pédagogique et supprime seulement l'excuse du « droit de correction »."
+    },
+    {
+      "objection": "J'en ai reçu et je ne m'en porte pas plus mal.",
+      "reponse": "Chacun peut le ressentir ainsi, mais sur plus de 160 000 enfants étudiés, la fessée n'améliore pas l'obéissance et va avec davantage de difficultés. Ce qui compte, c'est ce qui marche le mieux pour l'enfant."
+    },
+    {
+      "objection": "C'est une idée de Bruxelles ou de bobos.",
+      "reponse": "C'est le Conseil de l'Europe, pas l'Union européenne, qui avait épinglé la France, et la Suède l'a fait dès 1979. Des pays très différents ont suivi."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qu'une fessée apprend à un enfant, d'après toi ?",
+    "De quoi les parents auraient-ils le plus besoin pour éduquer sans violence : de règles, de temps, d'aide ?"
+  ],
+  "limites": [
+    "La méta-analyse de 2016 a été lue à travers le communiqué de l'université du Texas, pas dans son texte intégral ; elle porte surtout sur des études nord-américaines.",
+    "Le baromètre de 2026 est un sondage en ligne commandé par une fondation engagée ; ses chiffres sont déclaratifs.",
+    "Les décisions du Conseil de l'Europe et de l'ONU sont rapportées par une ONG spécialisée ; les textes originaux n'ont pas été ouverts.",
+    "Le texte consolidé de l'article 371-1 sur Légifrance et la fiche de Vie publique n'ont pas été ouverts : la rédaction citée vient du dossier législatif du Sénat.",
+    "Le chiffre de « 55e État » vient d'une ONG citée par Public Sénat en 2018."
+  ],
+  "sources": [
+    {
+      "titre": "Loi n° 2019-721 du 10 juillet 2019 relative à l'interdiction des violences éducatives ordinaires — dossier législatif",
+      "organisme": "Sénat",
+      "date_publication": "10 juillet 2019",
+      "url": "https://www.senat.fr/tableau-historique/ppl18-168.html",
+      "passage": "Article 1er : l'article 371-1 du code civil est complété, après le deuxième alinéa, par la phrase : « L'autorité parentale s'exerce sans violences physiques ou psychologiques. » Le Gouvernement doit remettre au Parlement, avant le 1er septembre 2019, un rapport sur l'état des lieux des violences éducatives en France et sur les moyens de la politique de soutien à la parentalité et de formation des professionnels.",
+      "pertinence": "Dossier législatif officiel du Sénat (texte définitif).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'Assemblée vote largement l'interdiction de la fessée",
+      "organisme": "Public Sénat",
+      "date_publication": "29 novembre 2018",
+      "url": "https://www.publicsenat.fr/actualites/politique/l-assemblee-vote-largement-l-interdiction-de-la-fessee-135995",
+      "passage": "Adoption en première lecture par 51 voix pour, 1 contre et 3 abstentions. Le texte inscrit dans le code civil, dans l'article lu lors des mariages, que l'autorité parentale s'exerce sans violences physiques ou psychologiques. Il ne crée pas de nouvelles sanctions, qui existent déjà ; sa visée est « pédagogique » selon la rapporteure Maud Petit. Agnès Buzyn : « on n'éduque pas par la peur » ; la loi doit mettre fin à l'appréciation parfois souple du « droit de correction » par la jurisprudence. En commission, des élus de droite et d'extrême droite ont dénoncé une « ingérence » dans la vie des familles. La Suède a légiféré dès 1979 ; la France deviendrait le 55e État à interdire totalement les châtiments corporels selon une ONG basée à Londres.",
+      "pertinence": "Chaîne parlementaire ; compte rendu du débat à l'Assemblée.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Corporal punishment of children in France — country report",
+      "organisme": "Global Initiative to End All Corporal Punishment of Children (ONG)",
+      "date_publication": "novembre 2024",
+      "url": "https://www.endcorporalpunishment.org/wp-content/uploads/country-reports/France.pdf",
+      "passage": "La loi n° 2019-721 du 10 juillet 2019 interdit les châtiments corporels dans tous les cadres, y compris le domicile ; auparavant ils étaient licites au domicile au titre d'un « droit de correction » coutumier. Dans l'affaire APPROACH c. France (réclamation n° 92/2013), le Comité européen des droits sociaux du Conseil de l'Europe a jugé, par une décision adoptée le 12 septembre 2014 et publiée le 4 mars 2015, que la France violait l'article 17 de la Charte sociale européenne faute d'interdiction « sufficiently clear, binding and precise ». Le Comité des droits de l'enfant de l'ONU, dans ses observations finales du 4 décembre 2023, salue la loi de 2019 et recommande de la mettre en œuvre dans tous les cadres et de promouvoir une éducation non violente.",
+      "pertinence": "Rapport d'une ONG spécialisée, qui cite les décisions du Conseil de l'Europe et de l'ONU.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Risks of harm from spanking confirmed by analysis of five decades of research",
+      "organisme": "Université du Texas à Austin (communiqué sur une méta-analyse publiée dans le Journal of Family Psychology)",
+      "date_publication": "25 avril 2016",
+      "url": "https://news.utexas.edu/2016/04/25/risks-of-harm-from-spanking-confirmed-by-researchers",
+      "passage": "Méta-analyse d'Elizabeth Gershoff (université du Texas) et Andrew Grogan-Kaylor (université du Michigan) portant sur plus de 160 000 enfants et cinq décennies de recherche. La fessée (coup donné main ouverte) est significativement associée à 13 des 17 effets étudiés, tous dans le sens défavorable (défiance, comportements antisociaux, agressivité, troubles de santé mentale, difficultés cognitives) ; aucune association avec une meilleure obéissance. Les adultes fessés enfants sont plus favorables aux punitions physiques. E. Gershoff : « spanking was associated with unintended detrimental outcomes ».",
+      "pertinence": "Communiqué universitaire sur une méta-analyse publiée dans une revue à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Fessées, gifles : les parents franchissent encore la ligne rouge, et surtout les pères",
+      "organisme": "Public Sénat",
+      "date_publication": "17 avril 2026",
+      "url": "https://www.publicsenat.fr/actualites/societe/fessees-gifles-les-parents-franchissent-encore-la-ligne-rouge-et-surtout-les-peres",
+      "passage": "Troisième baromètre des violences éducatives ordinaires (Ifop pour la Fondation pour l'enfance), 1 005 parents d'enfants de 0 à 17 ans interrogés en ligne du 30 janvier au 9 février 2026. Sur l'année écoulée, 83 % des parents disent avoir eu recours à des violences verbales ou psychologiques et 37 % à des violences physiques. 40 % des pères contre 25 % des mères estiment que certains enfants ont besoin de punitions corporelles. 79 % des parents ayant subi des violences éducatives disent que leur propre éducation influence leur manière d'élever leurs enfants.",
+      "pertinence": "Chaîne parlementaire, rendant compte d'un sondage commandé par une fondation.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Baromètre des violences éducatives ordinaires 2026 — synthèse",
+      "organisme": "Fondation pour l'enfance, Fondation de l'Université de Bretagne occidentale et Ifop",
+      "date_publication": "2026",
+      "url": "https://www.fondation-enfance.org/wp-content/uploads/2026/04/121902-Synthese_VDef.pdf",
+      "passage": "69 % des parents déclarent connaître la loi de 2019 sur les violences éducatives ordinaires ; 25 % pensent que la loi devrait permettre l'usage des punitions corporelles. 36 % jugent la fessée acceptable dans un but éducatif, 71 % estiment que c'est une mauvaise pratique disciplinaire et 68 % qu'elle est néfaste pour l'enfant. 84 % ont eu recours à au moins une violence éducative ordinaire sur l'année.",
+      "pertinence": "Synthèse d'un sondage Ifop commandé par une fondation engagée contre les violences éducatives.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Prochaine édition du baromètre des violences éducatives ordinaires (tous les deux ans) et éventuelles évolutions législatives.",
+  "objections_legitimes": [
+    "Il est exact que la fessée n'est plus permise par le code civil depuis 2019.",
+    "Éduquer des enfants est difficile, et les parents manquent souvent d'aide concrète plus que de règles.",
+    "Les études mesurent des associations : on peut demander des preuves solides avant de juger les parents."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : depuis 2019, la loi dit que l'autorité parentale s'exerce sans violences. Mais personne ne va en prison pour ça, la loi n'a créé aucune sanction nouvelle. Et sur plus de 160 000 enfants étudiés, la fessée ne rend pas plus obéissant : ce n'est pas l'État contre les parents, c'est ce qui marche ou pas.",
+    "indecis": "La loi de 2019 interdit bien les violences éducatives, mais elle n'a pas créé de nouveau délit : elle fixe un repère, comme la Suède en 1979. Les recherches associent la fessée à plus d'agressivité et pas à plus d'obéissance. Si on hésite, la question utile est : de quelle aide les parents ont-ils besoin pour faire autrement ?"
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "vulnerables",
+      "emancipation",
+      "services_publics"
+    ],
+    "mecanismes": "Le slogan transforme une règle de droit civil, sans sanction nouvelle, en image d’un État policier qui entrerait dans les foyers. Il joue sur l’attachement à sa propre enfance et sur la peur d’être jugé comme parent.",
+    "consequences": "Défendre la fessée au nom de la liberté des familles, c’est oublier que l’enfant est la partie la plus faible, et que les violences banalisées se transmettent d’une génération à l’autre.",
+    "democratie": "Une société démocratique reconnaît des droits à chacun, y compris aux enfants : poser une limite à la violence dans la famille relève du même mouvement que l’interdiction des violences conjugales autrefois tolérées.",
+    "propositions": [
+      "Renforcer la protection maternelle et infantile et les lieux de soutien à la parentalité, partout et gratuitement.",
+      "Former les professionnels de l’enfance, de la santé et de l’école à l’éducation sans violence.",
+      "Améliorer les conditions de vie des parents, temps de travail et logement, qui pèsent sur la patience au quotidien."
+    ],
+    "defavorables": [
+      {
+        "fait": "La loi touche bien à l’éducation donnée dans les familles, et les études sur la fessée mesurent des associations plutôt que des causes démontrées.",
+        "integration": "On l’assume : la loi fixe un repère collectif, comme pour d’autres violences autrefois admises, et toutes les recherches vont dans le même sens sans montrer le moindre bénéfice de la fessée."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "fessee_q2013",
+      "label": "Fessée et violences éducatives"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ],
+  "concepts": [
+    "fessee",
+    "delinquance"
+  ]
+}

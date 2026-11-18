@@ -210,11 +210,6 @@
       }
     ]
   },
-  "concepts": [
-    "vote_16",
-    "melenchon_lfi",
-    "gauche"
-  ],
   "repond_a": [
     {
       "id": "vote_16_q1215",
@@ -235,5 +230,10 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "vote_16",
+    "melenchon_lfi",
+    "gauche"
   ]
 }

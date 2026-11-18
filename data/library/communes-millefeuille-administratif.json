@@ -1,0 +1,236 @@
+{
+  "id": "communes-millefeuille-administratif",
+  "type": "idee_recue",
+  "affirmation": "La France a trop de communes, le millefeuille administratif coûte une fortune.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "trop de communes",
+    "millefeuille administratif",
+    "cout du millefeuille",
+    "supprimer des communes",
+    "fusion des communes",
+    "trop d elus locaux",
+    "communes nouvelles",
+    "intercommunalite inutile",
+    "supprimer les departements",
+    "doublons administratifs"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur, même si le point de départ est exact. La France compte 34 875 communes, bien plus que ses voisins, et l'enchevêtrement des compétences a un coût réel, estimé à au moins 7,4 milliards d'euros par une mission gouvernementale. Mais ce coût vient de la superposition des compétences et des financements croisés, pas du nombre de communes ni des élus, en majorité bénévoles. Supprimer des échelons rapporterait peu : environ 130 millions d'euros pour les départements, selon la même mission.",
+  "contexte": "Le « millefeuille » est une cible régulière des discours sur la dépense publique, souvent avec l'idée qu'il suffirait de supprimer des communes, des départements ou des élus pour faire des économies. Il revient dans les débats budgétaires et lors des réformes territoriales.",
+  "explication": "On compare le nombre de communes et d'intercommunalités, les constats de la Cour des comptes sur l'organisation territoriale, l'estimation chiffrée du coût de l'enchevêtrement par la mission Ravignon et ce que coûtent réellement les élus municipaux.",
+  "faits": [
+    {
+      "fait": "Selon la DGCL, la France comptait 34 875 communes au 1er janvier 2025, 60 de moins qu'en 2024, ainsi que 1 254 intercommunalités à fiscalité propre et 8 322 syndicats.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le nombre de communes baisse lentement, et toutes sont regroupées dans des intercommunalités.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "34 875"
+    },
+    {
+      "fait": "Selon la Cour des comptes, 49,6 % des communes comptaient moins de 500 habitants en 2022, une situation qui distingue la France de la plupart de ses voisins européens ; l'Allemagne, l'Espagne et l'Italie ont réduit drastiquement leur nombre de communes.",
+      "periode": "2017-2022",
+      "perimetre": "France et Europe",
+      "explication": "Il est exact que la France a beaucoup de petites communes par rapport à ses voisins.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "49,6 %"
+    },
+    {
+      "fait": "Selon la Cour des comptes, la loi de 2015 sur les communes nouvelles a regroupé 2 498 communes en 796 communes nouvelles, mais le nombre total de communes n'a baissé que de 8 %.",
+      "periode": "2015-2022",
+      "perimetre": "France",
+      "explication": "Les fusions restent volontaires et lentes, car les habitants sont attachés à leur commune.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "8 %"
+    },
+    {
+      "fait": "Selon la Cour des comptes, la commune est « le seul échelon de gestion locale qui bénéficie d'un véritable affectio societatis », et l'intercommunalité couvre désormais tout le territoire.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La commune reste l'échelon le plus proche et le plus connu des citoyens ; la mutualisation passe déjà par l'intercommunalité.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Vie publique, la France compte près de 509 000 élus locaux, dont les fonctions sont en principe gratuites : seuls les maires, les adjoints et les conseillers ayant une délégation perçoivent une indemnité.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La plupart des conseillers municipaux ne coûtent presque rien : ils sont bénévoles.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "509 000"
+    },
+    {
+      "fait": "Selon Public Sénat, en 2019, l'indemnité d'un maire d'une commune de moins de 500 habitants était de 661 euros brut par mois, et neuf maires sur dix touchaient moins de 1 672 euros brut.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Les petites communes fonctionnent largement grâce à l'engagement quasi bénévole de leurs élus.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "661 euros"
+    },
+    {
+      "fait": "Fait défavorable : selon Localtis, la mission Ravignon a estimé en 2024 le coût de l'enchevêtrement des compétences à 7,4 milliards d'euros, « sans doute un minimum », dont 4,8 milliards supportés par les communes.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La complexité administrative coûte réellement cher, et les communes en supportent la plus grande part : le reproche n'est pas imaginaire.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "7,4 milliards d’euros"
+    },
+    {
+      "fait": "Selon la Cour des comptes, l'organisation territoriale se caractérise par un « phénomène quasi-systématique de superposition de compétences » et « le statu quo n'est pas tenable » ; selon Localtis, la mission Ravignon estime que supprimer les départements n'économiserait qu'environ 130 millions d'euros et préfère clarifier les compétences.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Le problème est l'enchevêtrement des compétences, pas l'existence des communes : la solution passe par la clarification, pas par la suppression d'échelons.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La France a bien beaucoup de communes : 34 875 en 2025, dont près de la moitié de moins de 500 habitants. Mais ce qui coûte, c'est l'enchevêtrement des compétences, estimé à au moins 7,4 milliards d'euros, pas les communes ni leurs élus, en majorité bénévoles. Supprimer les départements rapporterait environ 130 millions d'euros seulement.",
+    "moyen": "Le constat de départ est juste : avec 34 875 communes, dont 49,6 % de moins de 500 habitants, la France se distingue de ses voisins, et les fusions avancent lentement. La Cour des comptes dénonce aussi une superposition quasi systématique des compétences entre l'État, les régions, les départements, les intercommunalités et les communes.\n\nMais le coût ne vient pas de là où on le croit. La mission Ravignon a estimé en 2024 le coût de l'enchevêtrement à au moins 7,4 milliards d'euros : c'est surtout du temps de coordination entre administrations qui gèrent ensemble les mêmes politiques. Les élus municipaux, eux, sont en majorité bénévoles, et un maire de petite commune touchait 661 euros brut par mois en 2019. Supprimer les départements ne rapporterait qu'environ 130 millions d'euros. La vraie réforme consiste à clarifier qui fait quoi, pas à supprimer la démocratie de proximité.",
+    "detaille": "La France compte 34 875 communes au 1er janvier 2025, selon la DGCL, ainsi que 1 254 intercommunalités à fiscalité propre et 8 322 syndicats. La Cour des comptes relève que près de la moitié des communes (49,6 % en 2022) comptent moins de 500 habitants, une situation qui distingue la France de la plupart de ses voisins : l'Allemagne, l'Espagne et l'Italie ont réduit drastiquement leur nombre de communes. Chez nous, la loi de 2015 a créé 796 communes nouvelles à partir de 2 498 communes, mais le total n'a baissé que de 8 %.\n\nLa complexité est réelle. La Cour décrit un « phénomène quasi-systématique de superposition de compétences » et juge que « le statu quo n'est pas tenable ». La mission Ravignon, commandée par le gouvernement, a chiffré en 2024 le coût de cet enchevêtrement à 7,4 milliards d'euros, « sans doute un minimum », dont 4,8 milliards supportés par les communes. C'est le principal argument de ceux qui dénoncent le millefeuille, et il est sérieux.\n\nMais ce coût ne vient ni du nombre de communes en lui-même ni des élus. Il s'agit pour l'essentiel de coordination entre administrations qui gèrent ensemble l'éducation, l'urbanisme ou les routes. Les élus locaux, près de 509 000, exercent en principe gratuitement : seuls les maires, adjoints et conseillers délégués sont indemnisés, et en 2019 un maire de commune de moins de 500 habitants touchait 661 euros brut par mois. La même mission estime que supprimer les départements n'économiserait qu'environ 130 millions d'euros, et la Cour observe que l'intercommunalité s'est accompagnée d'une hausse des effectifs du bloc communal sans baisse dans les communes.\n\nLa bonne réponse n'est donc pas de supprimer des communes par décret, mais de clarifier les compétences, de réduire les financements croisés et de donner aux collectivités des ressources stables. La commune reste, selon la Cour, le seul échelon auquel les habitants sont vraiment attachés. Fusionner quand les habitants le veulent, oui ; affaiblir la démocratie locale au nom d'économies imaginaires, non.",
+    "empathie": "Face à l'empilement des structures et à la difficulté de savoir qui fait quoi, l'agacement est compréhensible. Il est normal de vouloir que l'argent public soit bien utilisé."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Supprimons des communes et des élus, on fera des économies.",
+      "reponse": "La plupart des élus municipaux sont bénévoles, et un maire de petite commune touchait 661 euros brut par mois en 2019. Le coût vient de la superposition des compétences, pas du nombre de conseils municipaux."
+    },
+    {
+      "objection": "Supprimons au moins les départements.",
+      "reponse": "Selon la mission Ravignon, cela n'économiserait qu'environ 130 millions d'euros. Clarifier qui fait quoi rapporterait bien plus que supprimer un échelon."
+    }
+  ],
+  "questions": [
+    "Qui s'occuperait de l'école, de l'état civil ou des routes de ton village si la mairie disparaissait, et à quel coût ?",
+    "Le problème est-il le nombre de communes ou le fait que plusieurs administrations se partagent les mêmes compétences ?"
+  ],
+  "limites": [
+    "L'estimation de 7,4 milliards d'euros vient d'une mission commandée par le gouvernement et est rapportée par Localtis ; le rapport lui-même n'a pas été lu.",
+    "Les indemnités de maires datent du barème de 2019 (Public Sénat) et ont été revalorisées depuis.",
+    "La comparaison européenne est qualitative (Cour des comptes) : aucune base chiffrée (OCDE, Conseil des communes et régions d'Europe) n'a été lue.",
+    "La période de la hausse de 700 000 agents du bloc communal n'est pas précisée dans le passage lu.",
+    "La fiche de Vie publique sur la décentralisation (rapport 2023 de la Cour) n'a pas pu être ouverte ; le rapport a été lu directement, à travers un outil de résumé."
+  ],
+  "sources": [
+    {
+      "titre": "BIS n° 195 — Les structures territoriales au 1er janvier 2025",
+      "organisme": "Direction générale des collectivités locales (DGCL), ministère de l’Intérieur",
+      "date_publication": "avril 2025",
+      "url": "https://www.collectivites-locales.gouv.fr/index.php/actualites/bis-195-les-structures-territoriales-au-1er-janvier-2025",
+      "passage": "Le nombre de communes « s'élève à 34 875 au 1er janvier 2025, en baisse de 60 unités par rapport à 2024 ». « on recense 1 254 établissements publics de coopération intercommunale (EPCI) à fiscalité propre » ; « Ce nombre est stable depuis 2022. » « Le nombre total de syndicats est désormais de 8 322 début 2025 soit 3,6 % de moins que l'an passé. »",
+      "pertinence": "Bulletin statistique officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport public annuel 2023 — La décentralisation 40 ans après",
+      "organisme": "Cour des comptes",
+      "date_publication": "mars 2023",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/288563.pdf",
+      "passage": "Au 1er janvier 2022, « 34 955 communes » dont « 49,6 % d'entre elles comptaient moins de 500 habitants » ; population moyenne de « 1 891 habitants en 2017 », situation qui la distingue « de celle de la plupart de leurs homologues européennes », l'Allemagne, l'Espagne et l'Italie étant « parvenues à en réduire drastiquement le nombre ». La loi de 2015 a « conduit au regroupement de 2 498 communes au sein de 796 communes nouvelles », le nombre total ne s'étant réduit que de 8 %. La commune est « le seul échelon de gestion locale qui bénéficie d'un véritable affectio societatis ». « une couverture totale du territoire » par l'intercommunalité ; « les effectifs du bloc communal se sont accrus de 700 000 agents », « sans pour autant que les effectifs des communes ne se réduisent ». « phénomène quasi-systématique de superposition de compétences » ; « le statu quo n'est pas tenable » ; recommandation de continuer « à favoriser la fusion des communes les moins peuplées avec des communes voisines ».",
+      "pertinence": "Rapport public de la juridiction financière.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décentralisation : le rapport Ravignon veut rebattre les cartes",
+      "organisme": "Thomas Beurey, Localtis (Banque des Territoires, groupe Caisse des dépôts)",
+      "date_publication": "29 mai 2024",
+      "url": "https://www.banquedesterritoires.fr/decentralisation-le-rapport-ravignon-veut-rebattre-les-cartes",
+      "passage": "Le coût de l'enchevêtrement des compétences entre l'État et les collectivités « peut être estimé à 7,4 milliards d'euros », « sans doute un minimum », dont environ 85 % de coordination entre administrations ; « 4,8 milliards d'euros pour les communes », 696 millions pour les intercommunalités, 355 millions pour les départements, 117 millions pour les régions. Supprimer les départements n'économiserait qu'environ 130 millions d'euros ; la mission préfère aligner responsabilité politique, compétences et ressources plutôt que supprimer un échelon, et propose d'encourager les fusions de communes par des incitations financières.",
+      "pertinence": "Média spécialisé d'un établissement public ; compte rendu d'un rapport commandé par le gouvernement.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Existe-t-il un statut de l'élu local ?",
+      "organisme": "Vie publique (Direction de l’information légale et administrative)",
+      "date_publication": "consulté le 18 novembre 2026",
+      "url": "https://www.vie-publique.fr/fiches/20201-existe-t-il-un-statut-de-lelu-local",
+      "passage": "« La France compte près de 509 000 élus locaux. » « Le principe de la gratuité est institué dès le XIXe siècle. » Les fonctions exécutives (« maires et adjoints au maire ») et les conseillers titulaires d'une délégation ont droit à une indemnité de fonction, qui « varie selon l'importance du mandat et la population de la commune ».",
+      "pertinence": "Fiche officielle d'information sur les institutions.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "À combien s'élèvent les indemnités des maires ?",
+      "organisme": "Public Sénat",
+      "date_publication": "19 septembre 2019 (mis à jour le 27 septembre 2019)",
+      "url": "https://www.publicsenat.fr/actualites/politique/a-combien-s-elevent-les-indemnites-des-maires-145570",
+      "passage": "L'indemnité va de « 661 euros brut, pour les communes de moins de 500 habitants » à « 5 640 euros brut, pour les villes de plus de 100 000 habitants » ; neuf maires sur dix perçoivent moins de 1 672 euros brut. Sur quelque 600 000 élus, « les deux tiers (des conseillers municipaux) sont bénévoles ».",
+      "pertinence": "Chaîne parlementaire ; article d'explication (barème de 2019).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Bulletin de la DGCL au 1er janvier 2027 (nombre de communes) et éventuelles réformes territoriales.",
+  "objections_legitimes": [
+    "La France a beaucoup plus de communes que ses voisins européens.",
+    "L'enchevêtrement des compétences a un coût réel, estimé à au moins 7,4 milliards d'euros.",
+    "La Cour des comptes juge elle-même que « le statu quo n'est pas tenable »."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : on a beaucoup de communes et l'enchevêtrement des compétences coûte cher, au moins 7,4 milliards d'euros selon une mission du gouvernement. Mais ce n'est pas ton maire qui coûte : la plupart des élus municipaux sont bénévoles. Et supprimer les départements rapporterait environ 130 millions d'euros seulement. Le vrai gaspillage, c'est le flou sur qui fait quoi.",
+    "indecis": "La France a 34 875 communes, beaucoup plus que ses voisins, et la Cour des comptes critique la superposition des compétences. Le coût de cet enchevêtrement est réel, mais il vient surtout de la coordination entre administrations, pas du nombre de communes ni des élus, en majorité bénévoles. Clarifier les compétences rapporterait plus que supprimer des échelons."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "services_publics",
+      "egalite"
+    ],
+    "mecanismes": "La dénonciation du millefeuille sert souvent à justifier des coupes dans l’action publique locale, en visant les communes et leurs élus alors que le coût tient surtout à la superposition des compétences et aux financements croisés.",
+    "consequences": "Supprimer des communes ou des échelons sans clarifier les compétences éloigne les services publics des habitants, surtout dans les territoires ruraux, pour des économies faibles.",
+    "democratie": "La commune est l’échelon auquel les citoyens sont le plus attachés et où s’engagent des centaines de milliers d’élus bénévoles : c’est un pilier de la démocratie de proximité.",
+    "propositions": [
+      "Clarifier la répartition des compétences entre l’État et les collectivités pour réduire les doublons.",
+      "Donner aux collectivités des ressources stables et réduire les financements croisés.",
+      "Encourager les regroupements de communes seulement lorsque les habitants les choisissent."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une mission gouvernementale a estimé le coût de l’enchevêtrement des compétences à plusieurs milliards d’euros, supportés en majorité par les communes.",
+        "integration": "Ce coût est un argument pour clarifier qui fait quoi et mieux doter les communes, pas pour supprimer la démocratie locale."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "communes_q2013",
+      "label": "Communes et millefeuille administratif"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "trop de communes",
+    "natalite",
+    "enfants par femme",
+    "font des gosses",
+    "font plus d enfants",
+    "un tiers de la population",
+    "population",
+    "de plus en plus d",
+    "trop d",
+    "nombre d",
+    "cout",
+    "couts"
+  ],
+  "concepts": [
+    "communes",
+    "demographie",
+    "cout"
+  ]
+}

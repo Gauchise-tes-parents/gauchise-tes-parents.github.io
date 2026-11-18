@@ -224,10 +224,6 @@
       }
     ]
   },
-  "concepts": [
-    "antisionisme",
-    "antisemitisme"
-  ],
   "repond_a": [
     {
       "id": "antisionisme_q1215",
@@ -235,5 +231,9 @@
     }
   ],
   "ne_repond_pas": [],
-  "synonymes": []
+  "synonymes": [],
+  "concepts": [
+    "antisionisme",
+    "antisemitisme"
+  ]
 }

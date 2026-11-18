@@ -1,0 +1,250 @@
+{
+  "id": "macron-soldats-ukraine",
+  "type": "idee_recue",
+  "affirmation": "Macron veut envoyer nos enfants mourir en Ukraine.",
+  "volet": "international",
+  "sous_theme": "Guerres et conflits",
+  "rubriques": [],
+  "mots_cles": [
+    "macron envoyer nos enfants en ukraine",
+    "macron guerre russie",
+    "troupes au sol ukraine",
+    "service militaire ukraine",
+    "nos enfants mourir en ukraine",
+    "macron rien ne doit etre exclu",
+    "coalition des volontaires",
+    "force de reassurance ukraine",
+    "service national volontaire",
+    "conscription ukraine"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Emmanuel Macron a bien déclaré en février 2024 que « rien ne doit être exclu » sur l'envoi de troupes, et la France co-dirige depuis 2025 une coalition qui prévoit une « force de réassurance » en Ukraine, mais seulement après un cessez-le-feu et en retrait de la ligne de contact. Le service national annoncé en novembre 2025 est volontaire et se déroule uniquement sur le territoire national. Toute intervention de plus de quatre mois exige l'autorisation du Parlement. Le débat sur ces choix est légitime ; l'idée d'un envoi forcé des jeunes au front ne repose sur aucune décision.",
+  "contexte": "Depuis la phrase d'Emmanuel Macron de février 2024 sur les troupes au sol, l'extrême droite et une partie de la gauche l'accusent de vouloir entraîner la France dans la guerre. L'annonce d'un service national en novembre 2025 a relancé la crainte d'une mobilisation des jeunes.",
+  "explication": "On distingue ce que le président a dit, ce qui a été décidé (coalition, force de réassurance, service national), et les garde-fous constitutionnels.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : le 26 février 2024, Emmanuel Macron a déclaré qu'il n'y avait « pas de consensus aujourd'hui pour envoyer de manière officielle, assumée et endossée des troupes au sol », mais qu'« en dynamique, rien ne doit être exclu », en revendiquant une « ambiguïté stratégique ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La déclaration a bien existé et a légitimement inquiété : l'envoi de soldats a été évoqué publiquement par le chef de l'État.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 12 mars 2024, le ministre des Armées Sébastien Lecornu a réaffirmé que l'envoi de troupes combattantes au sol n'était pas envisagé ; l'Assemblée a approuvé l'accord de sécurité avec l'Ukraine par 372 voix contre 99.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le gouvernement a écarté l'envoi de troupes combattantes.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministère des Affaires étrangères, la coalition des volontaires, co-présidée par la France et le Royaume-Uni et rassemblant 36 pays, prévoit une force multinationale déployée « dès lors qu'une cessation des hostilités crédible sera intervenue », comme « force de réassurance ».",
+      "periode": "2025-2026",
+      "perimetre": "Europe",
+      "explication": "Un déploiement de soldats français en Ukraine est bien envisagé, mais après un cessez-le-feu, pas pour combattre sur le front.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "36 pays"
+    },
+    {
+      "fait": "Selon l'Élysée, lors du sommet du 6 janvier 2026, cette force était décrite comme une force de réassurance « le jour d'après le cessez-le-feu », « en retrait de la ligne de contact » ; aucun effectif français n'était annoncé.",
+      "periode": "2026",
+      "perimetre": "Europe",
+      "explication": "Le projet reste conditionnel et ne prévoit pas d'engagement dans les combats ; ses risques réels restent à débattre.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, le service national annoncé le 27 novembre 2025 concerne « seulement des volontaires », principalement âgés de 18 à 19 ans, pour 10 mois, payés au moins 800 euros par mois, avec 3 000 jeunes la première année ; ils servent uniquement en France, pas en opérations extérieures.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Ce service n'est ni obligatoire ni destiné à l'Ukraine.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "3 000"
+    },
+    {
+      "fait": "Selon le discours présidentiel du 27 novembre 2025, les volontaires « serviront sur le territoire national et uniquement sur le territoire national » ; un appel au-delà des volontaires ne serait possible qu'en cas de crise majeure, avec l'autorisation du Parlement.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La possibilité d'une mobilisation en cas de crise existe, mais elle passerait par un vote des parlementaires.",
+      "source": 7,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'article 35 de la Constitution, la déclaration de guerre est autorisée par le Parlement ; le gouvernement doit l'informer d'une intervention à l'étranger au plus tard trois jours après son début, et toute intervention de plus de quatre mois doit être autorisée par le Parlement.",
+      "periode": "en vigueur",
+      "perimetre": "France",
+      "explication": "Le président ne peut pas engager durablement l'armée seul ; mais le premier déploiement peut se faire sans vote préalable, ce qui justifie un contrôle parlementaire renforcé.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Macron a bien dit en 2024 que « rien ne doit être exclu », et la France prépare une force de réassurance en Ukraine, mais seulement après un cessez-le-feu et loin de la ligne de front. Le service national lancé en 2026 est volontaire et se fait uniquement en France. Et une intervention de plus de quatre mois exige un vote du Parlement.",
+    "moyen": "La crainte a une origine réelle. Le 26 février 2024, Emmanuel Macron a déclaré qu'« en dynamique, rien ne doit être exclu » sur l'envoi de troupes en Ukraine. Depuis 2025, la France co-dirige une coalition de 36 pays qui prévoit une « force de réassurance » en Ukraine. Mais cette force ne serait déployée qu'après un cessez-le-feu, « en retrait de la ligne de contact », et le gouvernement a écarté l'envoi de troupes combattantes.\n\nQuant aux jeunes, le service national annoncé en novembre 2025 concerne seulement des volontaires de 18 à 19 ans, pour 10 mois, payés au moins 800 euros par mois, et uniquement sur le territoire national. Un appel au-delà des volontaires ne serait possible qu'en cas de crise majeure, avec l'accord du Parlement. La Constitution impose aussi un vote pour toute intervention de plus de quatre mois. On peut contester la stratégie de Macron et réclamer un vrai débat ; dire qu'il envoie nos enfants mourir au front est faux.",
+    "detaille": "La formule part d'un fait réel. Le 26 février 2024, à l'issue d'une conférence de soutien à l'Ukraine, Emmanuel Macron a affirmé qu'il n'y avait « pas de consensus » pour envoyer officiellement des troupes au sol, mais qu'« en dynamique, rien ne doit être exclu ». Cette « ambiguïté stratégique » a suscité de vives réactions, jusqu'au président du Sénat, Gérard Larcher, qui a rappelé qu'une telle décision ne pouvait pas se prendre « dans le dos du Parlement ». Le gouvernement a ensuite précisé qu'il n'était « pas question de faire la guerre à la Russie » et que l'envoi de troupes combattantes n'était pas envisagé.\n\nDepuis, le projet a pris une forme précise. La coalition des volontaires, lancée en mars 2025 et co-présidée par la France et le Royaume-Uni, réunit 36 pays. Elle prévoit une force multinationale de « réassurance » déployée en Ukraine seulement « dès lors qu'une cessation des hostilités crédible sera intervenue », à la demande de Kiev, et, selon l'Élysée, « en retrait de la ligne de contact ». Aucun effectif français n'a été annoncé dans les textes lus. Envoyer des soldats dans un pays sortant de la guerre comporte des risques réels, qui méritent un débat public.\n\nLe service national présenté le 27 novembre 2025 n'a rien d'une mobilisation pour l'Ukraine. Il concerne seulement des volontaires, principalement de 18 à 19 ans, pour 10 mois, payés au moins 800 euros par mois, avec 3 000 jeunes la première année et l'objectif de 50 000 en 2035. Ils servent uniquement sur le territoire national. Un appel au-delà des volontaires ne serait possible qu'en cas de crise majeure, sur autorisation du Parlement.\n\nEnfin, l'article 35 de la Constitution impose que la déclaration de guerre soit autorisée par le Parlement et que toute intervention de plus de quatre mois soit soumise à son vote. C'est aussi une limite : un premier déploiement peut commencer sans vote. Défendre la paix, c'est donc exiger que le Parlement décide vraiment, et chercher une paix juste pour les Ukrainiens, plutôt que d'agiter la peur d'une mobilisation qui n'a été décidée par personne.",
+    "empathie": "Personne ne veut voir ses enfants partir à la guerre, et les déclarations ambiguës du président ont légitimement inquiété. Cette peur mérite des réponses précises sur ce qui a été réellement décidé."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le service militaire, c'est pour envoyer les jeunes en Ukraine.",
+      "reponse": "Le service annoncé en 2025 est volontaire et se déroule uniquement sur le territoire national, selon le discours du président lui-même ; un appel au-delà des volontaires exigerait une crise majeure et l'accord du Parlement."
+    },
+    {
+      "objection": "Macron va déclarer la guerre à la Russie.",
+      "reponse": "La déclaration de guerre doit être autorisée par le Parlement, et la force prévue ne serait déployée qu'après un cessez-le-feu, en retrait de la ligne de contact."
+    },
+    {
+      "objection": "Il a dit lui-même que rien n'était exclu.",
+      "reponse": "C'est vrai, et c'était une déclaration imprudente. Mais depuis, ce qui a été décidé, c'est une force de réassurance après un cessez-le-feu, pas l'envoi de troupes au combat."
+    }
+  ],
+  "questions": [
+    "Si un cessez-le-feu est signé, qui doit garantir qu'il soit respecté ?",
+    "Faudrait-il que le Parlement vote avant tout déploiement de soldats à l'étranger, et pas seulement après quatre mois ?"
+  ],
+  "limites": [
+    "Les détails de la force multinationale (effectifs, mandat, calendrier) ne figurent pas dans les textes officiels lus ; des chiffres circulant dans la presse étrangère n'ont pas été vérifiés et ne sont pas cités.",
+    "Le discours du 27 novembre 2025 sur Vie publique n'a pas pu être ouvert ; il a été lu sur le site de l'Élysée, qui ne mentionne pas l'Ukraine.",
+    "La page du ministère des Affaires étrangères et celles de l'Élysée présentent le point de vue de l'exécutif.",
+    "Aucun vote du Parlement sur un déploiement en Ukraine n'a été trouvé dans les sources lues ; le compte rendu du Sénat du 19 janvier 2026 n'a été lu qu'en partie."
+  ],
+  "sources": [
+    {
+      "titre": "Ukraine : après les déclarations d'Emmanuel Macron, l'Ukraine au cœur des préoccupations à l'Assemblée",
+      "organisme": "Ludovic Fau, LCP (La Chaîne parlementaire)",
+      "date_publication": "27 février 2024",
+      "url": "https://lcp.fr/actualites/ukraine-apres-les-declarations-d-emmanuel-macron-l-ukraine-au-coeur-des-preoccupations-a",
+      "passage": "Le 26 février 2024, à l'issue d'une conférence de soutien à l'Ukraine, Emmanuel Macron déclare : « Pas de consensus aujourd'hui pour envoyer de manière officielle, assumée et endossée des troupes au sol » mais « en dynamique, rien ne doit être exclu », en assumant une « ambiguïté stratégique ». Le ministre des Armées Sébastien Lecornu affirme qu'il n'est « pas question de faire la guerre à la Russie » ; Stéphane Séjourné évoque des actions de déminage ou de cyberdéfense « sans franchir le seuil de belligérance ».",
+      "pertinence": "Chaîne parlementaire de l'Assemblée nationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Envoi de troupes en Ukraine : « On ne peut pas faire de déclaration de guerre sans la soumettre au Parlement », avertit Gérard Larcher",
+      "organisme": "Public Sénat",
+      "date_publication": "27 février 2024",
+      "url": "https://www.publicsenat.fr/actualites/international/envoi-de-troupes-en-ukraine-on-ne-peut-pas-faire-de-declaration-de-guerre-sans-la-soumettre-au-parlement-avertit-gerard-larcher",
+      "passage": "Le président du Sénat juge qu'un changement d'attitude « ne peut pas se faire dans le dos du Parlement ». L'Élysée annonce une déclaration du gouvernement suivie d'un débat et d'un vote, au titre de l'article 50-1, sur l'accord bilatéral de sécurité avec l'Ukraine du 16 février 2024.",
+      "pertinence": "Chaîne parlementaire du Sénat.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'Assemblée nationale soutient largement l'accord avec l'Ukraine, sans le RN qui s'abstient et LFI qui vote contre",
+      "organisme": "LCP (La Chaîne parlementaire)",
+      "date_publication": "12 mars 2024",
+      "url": "https://lcp.fr/actualites/l-assemblee-nationale-soutient-largement-l-accord-avec-l-ukraine-sans-le-rn-qui-s",
+      "passage": "Vote sur la déclaration du gouvernement : 372 pour, 99 contre ; le RN s'abstient, LFI et les communistes votent contre. Sébastien Lecornu réaffirme que l'envoi de troupes combattantes au sol n'est pas envisagé.",
+      "pertinence": "Chaîne parlementaire de l'Assemblée nationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte de référence), article 35",
+      "organisme": "Assemblée nationale",
+      "date_publication": "texte en vigueur (version de référence publiée par l’Assemblée nationale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/divers/texte_reference/01_constitution.pdf",
+      "passage": "« La déclaration de guerre est autorisée par le Parlement. » Le Gouvernement informe le Parlement d'une intervention des forces armées à l'étranger « au plus tard trois jours après le début de l'intervention » ; « Cette information peut donner lieu à un débat qui n'est suivi d'aucun vote. » « Lorsque la durée de l'intervention excède quatre mois, le Gouvernement soumet sa prolongation à l'autorisation du Parlement. »",
+      "pertinence": "Texte constitutionnel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Ukraine : la coalition des volontaires, qu'est-ce que c'est ?",
+      "organisme": "Ministère de l’Europe et des Affaires étrangères (France Diplomatie)",
+      "date_publication": "6 novembre 2026 (mis à jour le 12 novembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/le-ministere-en-action/promouvoir-une-europe-souveraine/dossiers-europeens/guerre-en-ukraine-l-action-diplomatique-de-la-france/ukraine-la-coalition-des-volontaires-qu-est-ce-que-c-est",
+      "passage": "« une coalition d'États, co-présidée par la France et le Royaume-Uni, qui rassemble 36 pays », annoncée le 2 mars 2025. La force multinationale serait déployée « dès lors qu'une cessation des hostilités crédible sera intervenue », à la demande de l'Ukraine, comme « une force de réassurance », et viserait la « régénération de l'armée ukrainienne ». La déclaration de Paris du 6 janvier 2026 prévoit des garanties activées dès l'entrée en vigueur d'un cessez-le-feu crédible.",
+      "pertinence": "Page officielle du ministère des Affaires étrangères (point de vue du gouvernement).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sommet de la Coalition des volontaires",
+      "organisme": "Présidence de la République (elysee.fr)",
+      "date_publication": "6 janvier 2026",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/01/06/sommet-de-la-coalition-des-volontaires",
+      "passage": "La force multinationale est « destinée à être une force de réassurance le jour d'après le cessez-le-feu », « en retrait de la ligne de contact ». Aucun effectif français n'est indiqué.",
+      "pertinence": "Communication officielle de la présidence (point de vue de l'exécutif).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Emmanuel Macron dévoile un nouveau service national militaire et volontaire : à quoi va-t-il ressembler ?",
+      "organisme": "Public Sénat",
+      "date_publication": "27 novembre 2025",
+      "url": "https://www.publicsenat.fr/actualites/politique/emmanuel-macron-devoile-un-nouveau-service-national-militaire-et-volontaire-a-quoi-va-t-il-ressembler",
+      "passage": "Service de 10 mois, « seulement des volontaires », « principalement âgés de 18 à 19 ans » ; 3 000 jeunes la première année (été 2026), 10 000 en 2030 et « si possible 50 000 » en 2035 ; « 800 euros par mois minimum » ; service uniquement en France métropolitaine et outre-mer, pas en opérations extérieures. Un appel au-delà des volontaires ne serait possible qu'en cas de crise, avec l'autorisation du Parlement. Coût : plus de « 2 milliards d'euros ».",
+      "pertinence": "Chaîne parlementaire du Sénat.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Déplacement au sein de la 27e brigade d'infanterie de montagne de Varces",
+      "organisme": "Présidence de la République (elysee.fr)",
+      "date_publication": "27 novembre 2025",
+      "url": "https://www.elysee.fr/emmanuel-macron/2025/11/27/deplacement-au-sein-de-la-27e-brigade-dinfanterie-de-montagne-de-varces",
+      "passage": "Les volontaires « serviront sur le territoire national et uniquement sur le territoire national » ; « le service national concernera seulement des volontaires » ; en cas de crise majeure, le Parlement pourrait autoriser un appel au-delà des volontaires.",
+      "pertinence": "Discours du président de la République.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Évolution des négociations de cessez-le-feu, éventuel déploiement de la force multinationale et premiers bilans du service national.",
+  "objections_legitimes": [
+    "Emmanuel Macron a bien évoqué en 2024 l'envoi de troupes en Ukraine sans l'exclure.",
+    "La France prépare réellement une force susceptible d'être déployée en Ukraine après un cessez-le-feu, ce qui comporte des risques.",
+    "Le Parlement n'est pas obligé de voter avant le début d'une intervention militaire, ce qui pose une question démocratique."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison, Macron a dit en 2024 que rien n'était exclu, et c'était imprudent. Mais regarde ce qui a été décidé : une force de réassurance seulement après un cessez-le-feu, et un service national volontaire qui se fait uniquement en France. Si on veut empêcher une aventure militaire, l'arme, c'est d'exiger que le Parlement vote, pas de croire que les jeunes vont être envoyés de force au front.",
+    "indecis": "Ton inquiétude est compréhensible : le président a lui-même évoqué l'envoi de troupes. Mais le service national est volontaire et se fait en France, et la force prévue en Ukraine n'interviendrait qu'après un cessez-le-feu, loin de la ligne de contact. La Constitution impose un vote du Parlement pour toute intervention de plus de quatre mois : c'est là qu'il faut porter le débat."
+  },
+  "lecture": {
+    "valeurs": [
+      "paix",
+      "democratie",
+      "internationalisme"
+    ],
+    "mecanismes": "Une déclaration présidentielle ambiguë et des projets réels mais conditionnels sont transformés en promesse d’envoyer la jeunesse au front, ce qui empêche de débattre de ce qui a vraiment été décidé.",
+    "consequences": "La peur d’une mobilisation détourne de la vraie question démocratique : le président peut engager des soldats à l’étranger sans vote préalable du Parlement pendant plusieurs mois.",
+    "democratie": "La Constitution réserve la déclaration de guerre au Parlement et l’oblige à autoriser toute intervention prolongée ; une politique de défense doit se décider au grand jour, par les représentants du peuple.",
+    "propositions": [
+      "Soumettre tout déploiement de soldats à l’étranger à un vote préalable du Parlement.",
+      "Chercher une paix juste et durable pour l’Ukraine, fondée sur le droit international et le respect de sa souveraineté.",
+      "Garantir que tout service national reste volontaire, encadré et tourné vers la protection de la population."
+    ],
+    "defavorables": [
+      {
+        "fait": "Emmanuel Macron a réellement déclaré que rien ne devait être exclu sur l’envoi de troupes en Ukraine, en revendiquant une ambiguïté stratégique.",
+        "integration": "Ces propos imprudents justifient d’exiger un contrôle démocratique réel sur les décisions militaires, sans inventer une mobilisation forcée que rien n’annonce."
+      }
+    ]
+  },
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "poutine",
+    "kremlin",
+    "moscou",
+    "kiev",
+    "kyiv"
+  ],
+  "concepts": [
+    "patriotisme",
+    "russie",
+    "ukraine"
+  ]
+}

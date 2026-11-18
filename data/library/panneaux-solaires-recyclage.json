@@ -1,0 +1,229 @@
+{
+  "id": "panneaux-solaires-recyclage",
+  "type": "idee_recue",
+  "affirmation": "Les panneaux solaires ne sont pas recyclables.",
+  "volet": "ecologie",
+  "sous_theme": "Énergies renouvelables",
+  "rubriques": [],
+  "mots_cles": [
+    "panneaux solaires recyclables",
+    "recyclage panneaux photovoltaiques",
+    "dechets panneaux solaires",
+    "solaire pas ecologique",
+    "soren recyclage",
+    "panneaux solaires chinois",
+    "fin de vie panneaux solaires",
+    "silicium argent recyclage",
+    "photovoltaique pollution"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. En France, les panneaux usagés sont collectés gratuitement par une filière agréée : en 2025, près de 13 760 tonnes ont été collectées et plus de 90 % de leur masse a été valorisée, principalement le verre et l'aluminium. La vraie limite est ailleurs : les matériaux les plus précieux, comme l'argent et le silicium, sont encore mal récupérés, et la fabrication reste dominée à plus de 80 % par la Chine.",
+  "contexte": "L'idée circule pour discréditer l'énergie solaire, souvent avec l'image de montagnes de panneaux enfouis. Elle mélange des problèmes réels (dépendance industrielle, matériaux critiques) et une affirmation fausse sur le recyclage.",
+  "explication": "On regarde ce que la filière française collecte et traite réellement, ce que contient un panneau, ce qui reste difficile à récupérer et d'où viennent les panneaux.",
+  "faits": [
+    {
+      "fait": "Selon l'ADEME, les panneaux photovoltaïques usagés suivent la filière des équipements électriques et électroniques ; leurs métaux, leur verre et leurs plastiques sont récupérés, et Soren est l'organisme agréé par les pouvoirs publics pour leur collecte et leur recyclage.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Une filière légale de collecte et de recyclage existe : un panneau n'est pas un déchet sans issue.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon son rapport d'activité, Soren a collecté près de 13 760 tonnes de panneaux en 2025 ; 10 684 tonnes ont été recyclées (83,89 %), 10,19 % ont fait l'objet d'une valorisation énergétique et 5,92 % ont été éliminés.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Plus de 90 % de la masse traitée est valorisée, dont l'essentiel sous forme de matière.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "13 760 tonnes"
+    },
+    {
+      "fait": "Selon le directeur général de Soren, interrogé par Techniques de l'Ingénieur, le verre et l'aluminium représentent 85 % du poids d'un panneau et le taux de valorisation en masse est « de l'ordre de 92 à 94 % ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les matériaux les plus lourds d'un panneau sont des matériaux banals, faciles à recycler.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "85 %"
+    },
+    {
+      "fait": "Selon la même source, la collecte est passée de 366 tonnes en 2015 à 9 477 tonnes en 2024, avec un taux de collecte d'environ 77 % pour un objectif européen de 85 %.",
+      "periode": "2015-2024",
+      "perimetre": "France",
+      "explication": "La filière monte en puissance mais ne récupère pas encore tous les panneaux en fin de vie.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "77 %"
+    },
+    {
+      "fait": "Fait défavorable : selon le directeur général de Soren, silicium, cuivre et argent représentent environ 40 % de la valeur matière d'un panneau mais une « infime part du poids », et ces fractions sont difficiles à extraire avec les procédés classiques.",
+      "periode": "2023-2025",
+      "perimetre": "France et Europe",
+      "explication": "Le recyclage « en masse » est élevé, mais le recyclage « en valeur » des métaux critiques reste à développer, avec des procédés comme celui de la jeune entreprise ROSI.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "40 %"
+    },
+    {
+      "fait": "Selon la Banque européenne d'investissement, le recyclage courant vise surtout le cadre en aluminium, la boîte de jonction et parfois le verre ; la jeune entreprise française ROSI, choisie par Soren, dit pouvoir récupérer silicium, argent, aluminium, cuivre et verre de qualité.",
+      "periode": "2023",
+      "perimetre": "France et Europe",
+      "explication": "Des procédés plus fins existent et commencent à être déployés pour récupérer les matériaux de valeur.",
+      "source": 3,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Agence internationale de l'énergie, la part de la Chine dépasse 80 % dans toutes les étapes clés de fabrication des panneaux, et la province du Xinjiang représente 40 % de la production mondiale de polysilicium.",
+      "periode": "2022",
+      "perimetre": "Monde",
+      "explication": "La critique de la dépendance industrielle à la Chine est fondée ; elle plaide pour relocaliser la fabrication et le recyclage, pas pour renoncer au solaire.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "80 %"
+    },
+    {
+      "fait": "Selon Soren, près de 180 000 tonnes de panneaux seront à traiter en 2040 ; selon Techniques de l'Ingénieur, les panneaux durent 25 à 30 ans et le gros des volumes arrivera entre 2030 et 2040.",
+      "periode": "2025-2040",
+      "perimetre": "France",
+      "explication": "Le défi est d'anticiper : il faut investir dès maintenant dans des usines capables de récupérer argent et silicium.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "180 000 tonnes"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux : en France, une filière agréée collecte les panneaux usagés. En 2025, près de 13 760 tonnes ont été collectées et plus de 90 % de leur masse valorisée, surtout le verre et l'aluminium. La vraie faiblesse, c'est la récupération de l'argent et du silicium, et une fabrication à plus de 80 % chinoise.",
+    "moyen": "Un panneau solaire est surtout fait de verre et d'aluminium : 85 % de son poids, selon l'éco-organisme Soren. Ces matériaux se recyclent bien. En 2025, Soren a collecté près de 13 760 tonnes de panneaux, dont 10 684 tonnes ont été recyclées, et plus de 90 % de la masse a été valorisée. L'ADEME rappelle que les panneaux suivent la filière des équipements électriques et électroniques.\n\nLes limites sont réelles. Les matériaux les plus précieux, argent, cuivre et silicium, pèsent peu mais font environ 40 % de la valeur, et ils sont encore difficiles à extraire. Et selon l'Agence internationale de l'énergie, plus de 80 % de la fabrication mondiale est chinoise. La réponse est de développer un recyclage de valeur et de relocaliser l'industrie, pas de renoncer au solaire.",
+    "detaille": "Dire que les panneaux solaires « ne sont pas recyclables » est faux. En France, selon l'ADEME, ils relèvent de la filière des déchets d'équipements électriques et électroniques, et un organisme agréé par les pouvoirs publics, Soren, collecte les panneaux usagés, notamment via 323 points d'apport volontaire. En 2025, près de 13 760 tonnes ont été collectées ; 10 684 tonnes ont été recyclées, 10,19 % ont été valorisées sous forme d'énergie et seulement 5,92 % éliminées.\n\nCe chiffre s'explique par la composition d'un panneau : le verre et l'aluminium représentent 85 % de son poids, selon le directeur général de Soren, et se recyclent facilement. Mais ce recyclage « de masse » ne dit pas tout. Les métaux critiques, silicium, cuivre et argent, ne pèsent presque rien (l'argent 0,08 % du total) mais font environ 40 % de la valeur matière. La Banque européenne d'investissement relevait en 2023 que le recyclage courant visait surtout le cadre, la boîte de jonction et parfois le verre. Des procédés plus fins, comme celui de la jeune entreprise française ROSI, choisie par Soren, cherchent à récupérer silicium et argent.\n\nLa filière doit encore grandir : la collecte est passée de 366 tonnes en 2015 à 9 477 tonnes en 2024, avec un taux de collecte d'environ 77 % pour un objectif européen de 85 %. Comme les panneaux durent 25 à 30 ans, près de 180 000 tonnes seront à traiter en 2040 selon Soren. C'est maintenant qu'il faut investir dans les usines de recyclage.\n\nLa critique la plus solide porte sur l'industrie : selon l'Agence internationale de l'énergie, la Chine assure plus de 80 % de toutes les étapes de fabrication, et le Xinjiang produit à lui seul 40 % du polysilicium mondial. Ce constat appelle une politique industrielle publique : relocaliser la production, imposer des normes sociales et environnementales, et faire du recyclage une source de matières premières en Europe.",
+    "empathie": "On a raison de vouloir savoir ce que deviennent les panneaux après 25 ou 30 ans : une énergie « verte » qui laisserait des montagnes de déchets ne le serait pas vraiment. La question mérite une réponse chiffrée."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le taux de 90 %, c'est juste du verre broyé.",
+      "reponse": "C'est en partie vrai : la valeur se trouve dans les métaux critiques. Mais le verre et l'aluminium recyclés évitent de produire de la matière neuve, et la filière développe des procédés pour l'argent et le silicium."
+    },
+    {
+      "objection": "Les panneaux finissent en décharge en Afrique.",
+      "reponse": "En France, les panneaux collectés sont traités par une filière agréée et seuls 5,92 % ont été éliminés en 2025. Le risque concerne les panneaux qui échappent à la collecte, d'où l'enjeu d'atteindre l'objectif de 85 %."
+    }
+  ],
+  "questions": [
+    "Sais-tu qu'il existe des points de collecte agréés pour les panneaux solaires usagés ?",
+    "Plutôt que de renoncer au solaire, ne faudrait-il pas fabriquer et recycler les panneaux en Europe ?"
+  ],
+  "limites": [
+    "Les chiffres de collecte et de recyclage viennent de Soren, organisme chargé de la filière, donc partie prenante ; aucun audit indépendant n'a été lu.",
+    "Le rapport de l'AIE date de 2022 ; la part chinoise a pu encore augmenter.",
+    "La date exacte d'entrée des panneaux dans la filière DEEE (2014) n'a pas pu être vérifiée sur un texte officiel (pages Légifrance et Ineris non ouvertes).",
+    "Le document « Vrai/Faux sur l'énergie solaire » du ministère et la page ministérielle sur les panneaux usagés n'ont pas pu être ouverts.",
+    "Le taux de collecte de 77 % est une estimation donnée par le dirigeant de Soren."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport d'activité 2025",
+      "organisme": "Soren (éco-organisme agréé pour les panneaux photovoltaïques)",
+      "date_publication": "juillet 2026",
+      "url": "https://www.soren.eco/wp-content/uploads/2026/07/Soren-rapport_d_activite_2025.pdf",
+      "passage": "En 2025, « près de 13 760 tonnes de panneaux photovoltaïques collectées », avec « un taux de valorisation dépassant les 90 % ». Traitement : 10 684 t recyclées (83,89 %), 1 298 t en valorisation énergétique (10,19 %), 754 t éliminées (5,92 %). 323 points d'apport volontaire au 31 décembre 2025. « En 2040, c'est près de 180 000 tonnes de panneaux qui seront à traiter. » Matières récupérées : verre, aluminium, cuivre, fractions minérales, ainsi que silicium et argent.",
+      "pertinence": "Rapport de l'organisme chargé de la filière (acteur intéressé).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Il faut passer d'un recyclage de masse à un recyclage de valeur »",
+      "organisme": "Pierre Thouverez, Techniques de l’Ingénieur (entretien avec Nicolas Defrenne, directeur général de Soren)",
+      "date_publication": "3 septembre 2025",
+      "url": "https://www.techniques-ingenieur.fr/actualite/articles/il-faut-passer-dun-recyclage-de-masse-a-un-recyclage-de-valeur-147343/",
+      "passage": "Le taux de valorisation en masse atteint « de l'ordre de 92 à 94 % », mais repose surtout sur le verre et l'aluminium, qui représentent 85 % du poids ; « ce ne sont pas ces matériaux qui ont le plus de valeur économique ou stratégique ». Silicium, cuivre et argent représentent environ 40 % de la valeur matière ; l'argent ne pèse que 0,08 % du total. Collecte : 9 477 tonnes en 2024 contre 366 tonnes en 2015 ; taux de collecte d'environ 77 % pour un objectif européen de 85 %. Durée de vie des panneaux : 25 à 30 ans.",
+      "pertinence": "Revue technique de référence ; propos du dirigeant de l'éco-organisme.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Que faire de mes panneaux photovoltaïques ?",
+      "organisme": "ADEME (service « Que faire de mes objets et déchets »)",
+      "date_publication": "consulté le 18 novembre 2026",
+      "url": "https://quefairedemesdechets.ademe.fr/dechet/panneaux-photovoltaiques/",
+      "passage": "Les panneaux suivent la filière des équipements électriques et électroniques ; une fois démantelés, leurs composants recyclables, « métaux, verre et plastiques », sont récupérés. Soren est l'« organisme agréé par les pouvoirs publics pour la collecte et le recyclage des panneaux solaires photovoltaïques usagés ». Les éléments non recyclables sont incinérés, souvent avec récupération de chaleur, ou neutralisés puis enfouis.",
+      "pertinence": "Service d'information de l'agence publique de la transition écologique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Recycler les panneaux photovoltaïques",
+      "organisme": "Banque européenne d’investissement (Amy Serafin)",
+      "date_publication": "14 avril 2023",
+      "url": "https://www.eib.org/fr/stories/recycle-photovoltaic-panels",
+      "passage": "Le recyclage courant vise surtout le cadre en aluminium, la boîte de jonction et parfois le verre ; « tout le reste est réduit en morceaux et mis en décharge » (Yun Luo, ROSI). La jeune entreprise française ROSI dit pouvoir récupérer cinq matériaux : silicium, argent, aluminium, cuivre et verre de qualité ; Soren l'a choisie pour récupérer silicium et argent. Purifier le silicium émet environ 50 kg de CO2 par kg.",
+      "pertinence": "Institution financière de l'Union européenne.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Solar PV Global Supply Chains — Executive summary",
+      "organisme": "Agence internationale de l’énergie (AIE)",
+      "date_publication": "juillet 2022",
+      "url": "https://iea.org/reports/solar-pv-global-supply-chains/executive-summary",
+      "passage": "« China's share in all the key manufacturing stages of solar panels exceeds 80% » ; pour le polysilicium, les lingots et les plaquettes, la part chinoise « will soon reach almost 95% » ; la province du Xinjiang « accounts for 40% global polysilicon manufacturing ».",
+      "pertinence": "Organisation internationale de référence sur l'énergie.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Rapport d'activité 2026 de Soren et évolution des procédés de récupération de l'argent et du silicium.",
+  "objections_legitimes": [
+    "La récupération de l'argent et du silicium reste limitée et coûteuse.",
+    "La fabrication des panneaux est massivement chinoise, avec des questions sur les conditions de production.",
+    "Le taux de collecte reste inférieur à l'objectif européen."
+  ],
+  "publics": {
+    "convaincus": "On t'a dit que les panneaux finissent tous à la décharge ? En 2025, la filière française en a collecté près de 13 760 tonnes et valorisé plus de 90 % de la masse. Ce qui est vrai, c'est que la fabrication est à plus de 80 % chinoise : ça plaide pour produire et recycler en France, pas pour abandonner le solaire.",
+    "indecis": "Les panneaux solaires sont recyclables : leur verre et leur aluminium, 85 % du poids, sont bien récupérés par une filière agréée. Le point faible, ce sont les métaux précieux comme l'argent et le silicium, encore mal extraits, et la dépendance à la Chine. Ce sont des chantiers industriels à mener, pas des raisons de rejeter le solaire."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "travailleurs",
+      "internationalisme",
+      "solidarite"
+    ],
+    "mecanismes": "Une affirmation fausse sur le recyclage sert à disqualifier toute l’énergie solaire, en mélangeant un vrai problème industriel, la dépendance aux importations, avec un problème de déchets largement traité.",
+    "consequences": "Freiner le solaire prolonge la dépendance aux énergies fossiles, alors que la vraie bataille porte sur la relocalisation de la production et la récupération des métaux critiques.",
+    "democratie": "La planification écologique suppose que la puissance publique organise les filières, de la fabrication au recyclage, au lieu de laisser le marché mondial décider seul.",
+    "propositions": [
+      "Financer publiquement des usines capables de récupérer argent, cuivre et silicium des panneaux usagés.",
+      "Relocaliser en Europe la fabrication des panneaux avec des normes sociales et environnementales exigeantes.",
+      "Atteindre puis dépasser l’objectif européen de collecte grâce à des points de dépôt accessibles partout."
+    ],
+    "defavorables": [
+      {
+        "fait": "La fabrication des panneaux est très majoritairement chinoise et la récupération des métaux de valeur reste limitée.",
+        "integration": "Ce constat appelle une politique industrielle publique pour produire et recycler en Europe, pas l’abandon d’une énergie indispensable à la transition."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "solaire_recyclage_q2013",
+      "label": "Recyclage des panneaux solaires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "aide a mourir",
+    "suicide assiste",
+    "fin de vie"
+  ],
+  "concepts": [
+    "solaire_recyclage",
+    "ecologie",
+    "chine_climat",
+    "aide_mourir"
+  ]
+}

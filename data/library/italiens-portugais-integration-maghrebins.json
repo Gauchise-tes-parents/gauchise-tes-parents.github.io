@@ -1,0 +1,298 @@
+{
+  "id": "italiens-portugais-integration-maghrebins",
+  "type": "idee_recue",
+  "affirmation": "Les Italiens et les Portugais se sont intégrés, pas les Maghrébins.",
+  "volet": "immigration",
+  "sous_theme": "Intégration",
+  "rubriques": [],
+  "mots_cles": [
+    "italiens portugais integres",
+    "les maghrebins ne s integrent pas",
+    "integration maghrebins",
+    "immigration europeenne integration",
+    "aigues mortes",
+    "ritals",
+    "descendants d immigres maghreb",
+    "enquete teo2",
+    "mariages mixtes maghrebins",
+    "discrimination maghrebins"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les Italiens aussi ont été jugés inassimilables : en 1893, des ouvriers italiens ont été massacrés à Aigues-Mortes. Aujourd'hui, les descendants d'immigrés maghrébins progressent nettement par rapport à leurs parents (diplômes, couples mixtes) et, comme les autres descendants, se sentent très majoritairement chez eux en France. Les écarts qui subsistent sont réels, notamment le chômage et les couples mixtes, mais ils vont de pair avec beaucoup plus de discriminations déclarées : 35 % chez les descendants d'origine algérienne, contre 12 % pour l'Europe du Sud.",
+  "contexte": "L'argument oppose une « bonne » immigration européenne, chrétienne, qui se serait fondue dans la population, à une immigration maghrébine qui refuserait de s'intégrer. Il sert souvent à justifier un tri des immigrés selon l'origine ou la religion.",
+  "explication": "On compare ce qui est comparable : l'accueil historique des Italiens, puis les données de la statistique publique sur les descendants d'immigrés (enquête Trajectoires et Origines 2, Insee-Ined) selon l'origine : diplômes, couples, sentiment d'appartenance, emploi, discriminations.",
+  "faits": [
+    {
+      "fait": "Selon la revue Hommes & Migrations, éditée par le Musée national de l'histoire de l'immigration, des Italiens ont été « massacrés lors de poussées xénophobes comme à Aigues-Mortes en 1893 ».",
+      "periode": "1893",
+      "perimetre": "France",
+      "explication": "L'immigration italienne, aujourd'hui citée en modèle, a d'abord été violemment rejetée.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une fiche de lecture de l'ENS consacrée au livre de l'historien Gérard Noiriel, le bilan d'Aigues-Mortes va d'environ 8 morts selon les autorités françaises à une cinquantaine selon les Italiens, tous les accusés ont été acquittés et la presse diffusait le stéréotype de l'« Italien au couteau ».",
+      "periode": "1893",
+      "perimetre": "France",
+      "explication": "Les mêmes accusations de violence et d'inassimilabilité visaient les Italiens ; leur intégration s'est faite sur plusieurs générations.",
+      "source": 1,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon l'Insee, en 2025, 36,5 % des immigrés du Maghreb ont au plus le brevet, contre 20,0 % de leurs descendants ; pour le Portugal, la part passe de 51,0 % chez les immigrés à 13,1 % chez les descendants ; elle est de 12,6 % chez les personnes sans ascendance migratoire.",
+      "periode": "2025",
+      "perimetre": "France hors Mayotte, 15-64 ans",
+      "explication": "Les descendants d'immigrés maghrébins progressent fortement par rapport à leurs parents, même si l'écart avec les descendants portugais reste visible.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "20,0 %"
+    },
+    {
+      "fait": "Selon l'enquête Trajectoires et Origines 2, 95 % des descendants d'immigrés se sentent chez eux en France, contre 93 % des personnes sans ascendance migratoire ; mais 29 % à 30 % des descendants d'origine maghrébine estiment qu'on ne les voit pas comme Français, contre 9 % pour l'Europe du Sud.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Le sentiment d'appartenance est très fort ; c'est le regard des autres qui les tient à distance.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "95 %"
+    },
+    {
+      "fait": "Selon l'enquête Trajectoires et Origines 2, 35 % des descendants d'immigrés d'Algérie et 34 % de ceux du Maroc ou de Tunisie déclarent avoir subi des discriminations en cinq ans, contre 12 % des descendants d'Europe du Sud ; le motif de l'origine ou de la couleur de peau est cité par 77 % des descendants d'Algérie concernés.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Les descendants maghrébins ne vivent pas la même société que les descendants européens : ils sont trois fois plus souvent discriminés.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "35 %"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Insee, 39 % des descendants d'immigrés du Maghreb vivent en couple avec une personne sans ascendance migratoire, contre 78 % des descendants d'immigrés d'Espagne, d'Italie ou du Portugal ; la part a toutefois plus que doublé par rapport aux immigrés maghrébins (17 %).",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Les couples mixtes sont nettement moins fréquents chez les descendants maghrébins : c'est un écart réel, même s'il se réduit d'une génération à l'autre.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "39 %"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Insee, entre 2013 et 2018, le taux de chômage était de 24 % chez les hommes descendants d'immigrés du Maghreb et de 18 % chez les femmes, contre 9 % pour les descendants d'Europe du Sud et 8 % pour les personnes sans ascendance migratoire ; pour les hommes, environ 10 points d'écart ne s'expliquent pas par le diplôme ou les autres caractéristiques observées.",
+      "periode": "2013-2018",
+      "perimetre": "France",
+      "explication": "L'écart d'emploi est réel ; les auteurs évoquent des difficultés « peut-être liées à de la discrimination à l'embauche ».",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "24 %"
+    },
+    {
+      "fait": "Selon l'enquête Trajectoires et Origines 2, 2 % des descendants d'immigrés d'Algérie souhaitent s'installer dans le pays d'origine de leurs parents, contre 7 % des descendants d'immigrés du Portugal.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "L'attachement au pays d'origine n'est pas plus fort chez les descendants maghrébins que chez les descendants portugais.",
+      "source": 7,
+      "fiabilite": "etabli",
+      "chiffre": "2 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les Italiens aussi étaient jugés inassimilables : des ouvriers italiens ont été massacrés à Aigues-Mortes en 1893. Aujourd'hui, 95 % des descendants d'immigrés se sentent chez eux en France. Les descendants maghrébins progressent nettement sur leurs parents, mais déclarent trois fois plus de discriminations que ceux d'Europe du Sud : 35 % contre 12 %.",
+    "moyen": "L'immigration italienne, aujourd'hui citée en modèle, a d'abord été rejetée : en 1893, des ouvriers italiens ont été massacrés à Aigues-Mortes, et la presse parlait de l'« Italien au couteau ». L'intégration se mesure sur des générations.\n\nChez les descendants d'immigrés maghrébins, la progression est nette : 20,0 % ont au plus le brevet, contre 36,5 % de leurs parents immigrés, et la part de couples mixtes passe de 17 % à 39 %. Des écarts persistent avec les descendants d'origine européenne, notamment pour le chômage et les couples mixtes. Mais ils déclarent aussi beaucoup plus de discriminations, 35 % pour les descendants d'origine algérienne contre 12 % pour l'Europe du Sud, et près d'un sur trois estime qu'on ne le voit pas comme Français, alors que 95 % des descendants d'immigrés se sentent chez eux en France.",
+    "detaille": "L'idée d'une immigration européenne qui se serait intégrée sans peine oublie l'histoire. À la fin du XIXe siècle, les Italiens étaient décrits comme violents et inassimilables ; en 1893, à Aigues-Mortes, des ouvriers italiens ont été massacrés par une foule, et tous les accusés ont été acquittés. Leur intégration s'est faite sur plusieurs générations, et elle n'a pas été spontanée.\n\nLes données de l'enquête Trajectoires et Origines 2 (Insee-Ined, 2019-2020) permettent de comparer les descendants d'immigrés selon l'origine. Elles montrent une forte progression d'une génération à l'autre : la part des personnes ayant au plus le brevet passe de 36,5 % chez les immigrés du Maghreb à 20,0 % chez leurs descendants, et celle des couples avec une personne sans ascendance migratoire de 17 % à 39 %. Le sentiment d'appartenance est très fort : 95 % des descendants d'immigrés se sentent chez eux en France, davantage que les personnes sans ascendance migratoire (93 %). Et seuls 2 % des descendants d'origine algérienne souhaitent s'installer en Algérie, contre 7 % des descendants d'origine portugaise pour le Portugal.\n\nDes écarts réels persistent. Les couples mixtes sont deux fois moins fréquents que chez les descendants d'origine italienne, espagnole ou portugaise (78 %). Le chômage des hommes descendants d'immigrés du Maghreb atteignait 24 % entre 2013 et 2018, contre 9 % pour les descendants d'Europe du Sud. Mais une grande partie de cet écart, environ 10 points pour les hommes, ne s'explique ni par le diplôme ni par les autres caractéristiques observées. Et les descendants d'origine algérienne déclarent trois fois plus de discriminations (35 %) que ceux d'Europe du Sud (12 %) ; près d'un sur trois estime qu'on ne le voit pas comme Français.\n\nLe problème n'est donc pas un refus de s'intégrer, mais une intégration freinée par les discriminations. Comme pour les Italiens hier, c'est en luttant contre le rejet qu'on accélère l'égalité.",
+    "empathie": "Beaucoup de familles ont vu des voisins italiens ou portugais devenir « comme tout le monde », et constatent des difficultés plus visibles dans certains quartiers. Ce ressenti mérite d'être pris au sérieux et confronté aux données."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les Italiens étaient chrétiens, c'était plus facile.",
+      "reponse": "Ça ne les a pas protégés : en 1893, des ouvriers italiens ont été massacrés à Aigues-Mortes, et on les disait violents et inassimilables. L'intégration a pris des générations."
+    },
+    {
+      "objection": "Le chômage des Maghrébins prouve qu'ils ne s'intègrent pas.",
+      "reponse": "À diplôme et caractéristiques égales, une grande partie de l'écart reste inexpliquée, et les descendants d'origine maghrébine déclarent trois fois plus de discriminations. Ce n'est pas un refus de s'intégrer."
+    }
+  ],
+  "questions": [
+    "Comment parlait-on des Italiens en France à la fin du XIXe siècle ?",
+    "Si 95 % des descendants d'immigrés se sentent chez eux en France, pourquoi un sur trois parmi ceux d'origine maghrébine pense-t-il qu'on ne le voit pas comme Français ?"
+  ],
+  "limites": [
+    "Les données sur le chômage portent sur 2013-2018 ; celles de l'enquête TeO2 sur 2019-2020.",
+    "Les chiffres du massacre d'Aigues-Mortes viennent d'une fiche de lecture universitaire du livre de Gérard Noiriel, pas du livre lui-même ; le bilan reste disputé.",
+    "La statistique publique regroupe souvent Italie, Espagne et Portugal sous « Europe du Sud » ; les Portugais ne sont pas toujours isolés.",
+    "Les discriminations sont déclarées par les personnes interrogées ; elles mesurent un vécu, pas des décisions de justice.",
+    "Les pages de l'Ined présentant l'enquête TeO2 n'ont pas pu être ouvertes."
+  ],
+  "sources": [
+    {
+      "titre": "Un musée de l'émigration ouvert à Rome",
+      "organisme": "Olivier Desouches, revue Hommes & Migrations (Musée national de l'histoire de l'immigration)",
+      "date_publication": "1er septembre 2011",
+      "url": "https://core.ac.uk/download/223955535.pdf",
+      "passage": "« Des Italiens sont massacrés lors de poussées xénophobes comme à Aigues-Mortes en 1893 ». L'article renvoie au livre de Gérard Noiriel sur ce massacre.",
+      "pertinence": "Revue scientifique éditée par le Musée national de l'histoire de l'immigration.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Fiche de lecture : Gérard Noiriel, Le Massacre des Italiens. Aigues-Mortes, 17 août 1893 (Fayard, 2010)",
+      "organisme": "École normale supérieure, département d'histoire",
+      "date_publication": "non datée",
+      "url": "https://histoire.ens.fr/IMG/pdf/ge_rard_noiriel_fiche_claire_allen.pdf",
+      "passage": "Le bilan est disputé : environ 8 morts selon les autorités françaises, une cinquantaine selon les Italiens. Toutes les victimes étaient italiennes. Le procès d'Angoulême se conclut par l'acquittement de tous les accusés. La presse véhiculait le stéréotype de l'« Italien au couteau » ; Noiriel relie la violence à la concurrence entre ouvriers et au nationalisme.",
+      "pertinence": "Fiche de lecture universitaire résumant l'ouvrage d'un historien de l'immigration.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La diversité des origines et la mixité des unions progressent au fil des générations (Insee Première n° 1910)",
+      "organisme": "Insee, Ined (enquête Trajectoires et Origines 2)",
+      "date_publication": "5 juillet 2022 (actualisé le 23 février 2023)",
+      "url": "https://www.insee.fr/fr/statistiques/6468640",
+      "passage": "Part des personnes en couple avec un conjoint sans ascendance migratoire directe : Espagne, Italie, Portugal : 33 % des immigrés, 78 % des descendants ; Maghreb : 17 % des immigrés, 39 % des descendants ; ensemble : 27 % des immigrés, 66 % des descendants. 80 % pour les descendants issus d'une famille mixte, 50 % quand les deux parents sont immigrés.",
+      "pertinence": "Publication de la statistique publique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Niveau de diplôme des immigrés et des descendants d'immigrés par origine géographique (données annuelles 2025)",
+      "organisme": "Insee",
+      "date_publication": "22 juin 2026",
+      "url": "https://www.insee.fr/fr/statistiques/4187349",
+      "passage": "Part des personnes ayant au plus le brevet (« Brevet, CEP, aucun diplôme »), 15-64 ans : immigrés du Maghreb 36,5 %, descendants du Maghreb 20,0 % ; immigrés du Portugal 51,0 %, descendants du Portugal 13,1 % ; descendants d'Europe du Sud 14,0 % ; personnes sans ascendance migratoire 12,6 %.",
+      "pertinence": "Tableau de la statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Discriminations (fiche 6.5, Immigrés et descendants d'immigrés, Insee Références)",
+      "organisme": "Insee",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/6793302/IMMFRA23-F40.pdf",
+      "passage": "Déclarent avoir subi des traitements inégalitaires ou des discriminations au cours des cinq dernières années : descendants d'immigrés d'Algérie 35 %, du Maroc-Tunisie 34 %, d'Europe du Sud 12 %. Motif « origine, nationalité, couleur de peau » cité par 77 % des descendants d'Algérie concernés et 40 % de ceux d'Europe du Sud.",
+      "pertinence": "Publication de la statistique publique (enquête TeO2, 2019-2020).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Ressentis par rapport à la migration et sentiment d'intégration (fiche 6.6, Insee Références)",
+      "organisme": "Insee",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/6793304/IMMFRA23-F41.pdf",
+      "passage": "95 % des descendants d'immigrés sont d'accord avec « Je me sens chez moi en France », contre 93 % des personnes sans ascendance migratoire directe. Ne sont pas d'accord avec « On me voit comme un Français » : 29 % à 30 % des descendants d'immigrés du Maghreb, 9 % de ceux d'Europe du Sud.",
+      "pertinence": "Publication de la statistique publique (enquête TeO2, 2019-2020).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Le rôle des origines dans la persistance des inégalités d'emploi et de salaire",
+      "organisme": "Insee (Elika Athari, Jérôme Lê, Yaël Brinbaum)",
+      "date_publication": "2 juillet 2019",
+      "url": "https://www.insee.fr/fr/statistiques/4175267",
+      "passage": "Taux de chômage 2013-2018 (femmes / hommes) : sans ascendance migratoire 8 % / 8 % ; descendants d'Europe du Sud 9 % / 9 % ; descendants du Maghreb 18 % / 24 %. Pour les hommes descendants du Maghreb, sur un écart de 15 points, 5 sont expliqués par les caractéristiques observables ; difficultés « peut-être liées à de la discrimination à l'embauche ».",
+      "pertinence": "Étude de la statistique publique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport au pays d'émigration et pratiques transnationales (fiche 2.7, Insee Références)",
+      "organisme": "Insee",
+      "date_publication": "30 mars 2023",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/6793256/IMMFRA23-F17.pdf",
+      "passage": "Descendants d'immigrés souhaitant s'installer dans le pays d'origine de leurs parents : Algérie 2 %, Maroc-Tunisie 3 %, Portugal 7 %, Espagne-Italie 6 %. Visites au pays : Portugal 91 %, Algérie 74 %.",
+      "pertinence": "Publication de la statistique publique (enquête TeO2, 2019-2020).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelle édition de l'Insee Références sur les immigrés et descendants d'immigrés et nouvelles exploitations de l'enquête TeO2.",
+  "objections_legitimes": [
+    "Des écarts réels existent, notamment pour le chômage et les couples mixtes.",
+    "L'intégration des Italiens et des Portugais est aujourd'hui largement réussie.",
+    "Il est légitime de s'inquiéter de la concentration des difficultés dans certains quartiers."
+  ],
+  "publics": {
+    "convaincus": "On disait exactement la même chose des Italiens : en 1893, on les a massacrés à Aigues-Mortes en les traitant de violents. Aujourd'hui, 95 % des descendants d'immigrés se sentent chez eux en France. Les enfants d'immigrés maghrébins font beaucoup mieux que leurs parents, mais déclarent trois fois plus de discriminations. Est-ce qu'ils refusent de s'intégrer, ou est-ce qu'on les en empêche ?",
+    "indecis": "Les écarts sont réels : plus de chômage et moins de couples mixtes chez les descendants d'immigrés maghrébins. Mais ils progressent nettement par rapport à leurs parents et se sentent très majoritairement chez eux en France. Une grande partie de l'écart d'emploi ne s'explique pas par le diplôme, et ils déclarent 35 % de discriminations contre 12 % pour l'Europe du Sud."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "egalite",
+      "universalite",
+      "dignite"
+    ],
+    "mecanismes": "L’argument oublie que les Italiens furent eux aussi jugés inassimilables et massacrés, puis attribue à une prétendue mauvaise volonté des écarts que la statistique publique relie en grande partie aux discriminations.",
+    "consequences": "En désignant les Maghrébins comme inintégrables, on justifie les discriminations qui freinent justement leur intégration, et on fragilise la cohésion du pays.",
+    "democratie": "L’égalité républicaine suppose que chacun soit jugé sur ce qu’il fait, non sur son nom ou son origine ; mesurer et combattre les discriminations est une exigence démocratique.",
+    "propositions": [
+      "Généraliser les contrôles et tests de discrimination à l’embauche et au logement, avec des sanctions effectives.",
+      "Investir dans l’école et les services publics des quartiers populaires pour soutenir la mobilité sociale.",
+      "Faire connaître l’histoire des immigrations italienne, portugaise et maghrébine et de leur accueil."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les couples mixtes sont deux fois moins fréquents et le chômage nettement plus élevé chez les descendants d’immigrés du Maghreb.",
+        "integration": "Ces écarts sont réels, mais ils se réduisent d’une génération à l’autre et s’expliquent en grande partie par les discriminations : les combattre accélère l’intégration."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "integration_europeens_q2013_histoire_migrations",
+      "label": "Intégration des immigrés européens et maghrébins"
+    },
+    {
+      "id": "integration_europeens_q2013_origine",
+      "label": "Intégration des immigrés européens et maghrébins"
+    },
+    {
+      "id": "integration_europeens_q2013_origine_histoire_migrations",
+      "label": "Intégration des immigrés européens et maghrébins"
+    },
+    {
+      "id": "integration_europeens_q2013_immigration",
+      "label": "Intégration des immigrés européens et maghrébins"
+    },
+    {
+      "id": "integration_europeens_q2013_immigration_origine",
+      "label": "Intégration des immigrés européens et maghrébins"
+    },
+    {
+      "id": "integration_europeens_q2013_immigration_histoire_migrations",
+      "label": "Intégration des immigrés européens et maghrébins"
+    },
+    {
+      "id": "integration_europeens_q2013_immigration_origine_histoire_migrations",
+      "label": "Intégration des immigrés européens et maghrébins"
+    },
+    {
+      "id": "integration_europeens_q2013",
+      "label": "Intégration des immigrés européens et maghrébins"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "pays d immigration",
+    "italiens",
+    "polonais",
+    "espagnols",
+    "portugais",
+    "il y a cent ans"
+  ],
+  "concepts": [
+    "integration_europeens",
+    "immigration",
+    "origine",
+    "histoire_migrations",
+    "discrimination",
+    "europe"
+  ]
+}

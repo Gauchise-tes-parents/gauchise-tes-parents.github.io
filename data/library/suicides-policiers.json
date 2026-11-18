@@ -1,0 +1,228 @@
+{
+  "id": "suicides-policiers",
+  "type": "idee_recue",
+  "affirmation": "Les policiers se suicident parce que l'État les lâche.",
+  "volet": "securite",
+  "sous_theme": "Police et gendarmerie",
+  "rubriques": [],
+  "mots_cles": [
+    "suicide policiers",
+    "suicides dans la police",
+    "policiers qui se suicident",
+    "etat lache les policiers",
+    "malaise policier",
+    "suicide gendarmes",
+    "arme de service suicide",
+    "prevention suicide police",
+    "conditions de travail police",
+    "detresse des policiers"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur, car trop simple. Les policiers se suicident nettement plus que la population générale : 36 % de plus à âge et sexe égaux, selon une étude citée par le Sénat. Mais le Sénat comme le ministère décrivent un acte multifactoriel, où le déclencheur est souvent privé, aggravé par un contexte professionnel décisif et par l'accès à l'arme de service. La responsabilité de l'État est réelle sur les conditions de travail ; réduire chaque drame à un « abandon » est une instrumentalisation.",
+  "contexte": "Chaque série de suicides dans la police relance l'émotion et les accusations contre le gouvernement ou la justice. Le sujet est souvent repris pour opposer les policiers au reste de la société. Il touche des familles endeuillées et mérite de la retenue.",
+  "explication": "On s'appuie sur le rapport de la commission d'enquête du Sénat de 2018, sur les réponses du ministère de l'Intérieur au Parlement et sur des comptes rendus de presse, en distinguant les chiffres, les causes connues et les mesures de prévention.",
+  "faits": [
+    {
+      "fait": "Selon le rapport de la commission d'enquête du Sénat de 2018, le taux de suicide moyen sur 2008-2017 était de 29 pour 100 000 dans la police et de 25 dans la gendarmerie, contre environ 14 dans l'ensemble de la population ; 50 policiers se sont suicidés en 2017.",
+      "periode": "2008-2017",
+      "perimetre": "France",
+      "explication": "La surmortalité est réelle et durable : ce n'est pas une impression née de quelques faits divers.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "29 pour 100 000"
+    },
+    {
+      "fait": "Selon le même rapport, qui cite la chercheuse Gaëlle Encrenaz, le taux de suicide dans la police est supérieur de 36 % à celui de la population générale, après prise en compte de l'âge et du sexe.",
+      "periode": "étude de 2010",
+      "perimetre": "France",
+      "explication": "À population comparable, le risque reste nettement plus élevé chez les policiers.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "36 %"
+    },
+    {
+      "fait": "Selon le rapport du Sénat, l'acte suicidaire a un « caractère multifactoriel » et « ne saurait » se rattacher à la seule situation professionnelle ; mais ces facteurs interviennent « dans un contexte professionnel qui est décisif ».",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Ni « c'est privé » ni « c'est l'État » : les difficultés personnelles et le métier se combinent.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le rapport du Sénat, « l'accès à l'arme de service a sans nul doute pour effet de favoriser le passage à l'acte » ; en 2008, plus de la moitié des policiers morts par suicide avaient utilisé leur arme de service.",
+      "periode": "2008-2018",
+      "perimetre": "France",
+      "explication": "Disposer en permanence d'un moyen très létal augmente le risque qu'une crise devienne mortelle.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la réponse du ministère de l'Intérieur publiée en 2018, les causes des suicides sont « majoritairement d'ordre privé », la difficulté du métier pouvant contribuer au passage à l'acte ; l'arme de service « le facilite évidemment ».",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Le ministère lui-même reconnaît le rôle de l'arme et du métier, tout en insistant sur les causes personnelles.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la réponse du ministère de l'Intérieur publiée en 2023, un programme de mobilisation contre le suicide existe depuis mai 2018, avec une cellule d'alerte créée en 2019, 122 psychologues cliniciens et 1 078 « sentinelles » formées fin 2022 pour un objectif de 1 950.",
+      "periode": "2018-2022",
+      "perimetre": "France",
+      "explication": "L'État n'est pas inactif, mais les moyens restent en deçà des objectifs fixés.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "1 078"
+    },
+    {
+      "fait": "Fait défavorable : selon Public Sénat, la commission d'enquête du Sénat a relevé en 2018 des locaux vétustes, des équipements manquants et environ 22 millions d'heures supplémentaires non payées, d'une valeur de plus de 272 millions d'euros.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Une part de la colère est fondée : les conditions de travail relèvent bien de la responsabilité de l'État, et elles pèsent dans le « contexte professionnel décisif » décrit par le Sénat.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "22 millions d’heures"
+    },
+    {
+      "fait": "Selon Public Sénat, le directeur général de la police nationale estimait en 2017 que « le facteur déclenchant des suicides est presque toujours d'ordre privé », tout en reconnaissant que « des éléments de fragilité sont imputables à la vie professionnelle ».",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Même la hiérarchie policière décrit une combinaison de causes, et non une cause unique.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les policiers se suicident plus que la population générale : 36 % de plus à âge et sexe égaux, selon une étude citée par le Sénat. Mais le suicide est multifactoriel : souvent un déclencheur privé, un métier éprouvant, des conditions de travail dégradées et une arme toujours à portée de main. L'État a une part de responsabilité ; tout lui imputer est faux.",
+    "moyen": "Le constat est grave : entre 2008 et 2017, le taux de suicide était de 29 pour 100 000 dans la police, contre environ 14 dans la population. Une étude citée par le Sénat estime la surmortalité à 36 % à âge et sexe égaux. En 2017, 50 policiers se sont donné la mort.\n\nLes causes sont multiples. Le Sénat parle d'un acte multifactoriel, souvent déclenché par une difficulté personnelle, mais dans un « contexte professionnel qui est décisif » : violence, horaires décalés, hiérarchie, locaux vétustes, heures supplémentaires non payées. L'arme de service facilite le passage à l'acte. L'État a lancé un plan de prévention en 2018, avec psychologues et « sentinelles », mais les objectifs ne sont pas atteints. Sa responsabilité porte sur les conditions de travail et la prévention ; elle ne résume pas chaque drame.",
+    "detaille": "Le suicide des policiers est une réalité documentée. Selon le rapport de la commission d'enquête du Sénat de juin 2018, le taux moyen sur 2008-2017 était de 29 pour 100 000 dans la police nationale et de 25 dans la gendarmerie, contre environ 14 dans l'ensemble de la population. Une étude citée par le Sénat estime que le taux est supérieur de 36 % à celui de la population générale à âge et sexe comparables. En 2017, 50 policiers se sont suicidés ; le ministère évoquait une moyenne d'environ 43 par an, avec un pic à 55 en 2014.\n\nLes causes sont multiples. Le Sénat insiste sur le « caractère multifactoriel » du suicide, qui ne peut être rattaché à la seule situation professionnelle, mais il juge le contexte professionnel « décisif » : confrontation à la mort, rythmes décalés, poids de la hiérarchie. Le ministère de l'Intérieur et l'ancien directeur général de la police estiment que le déclencheur est le plus souvent privé, tout en reconnaissant le rôle du métier. Tous admettent que l'arme de service facilite le passage à l'acte : en 2008, plus de la moitié des policiers morts par suicide l'avaient utilisée.\n\nLa responsabilité de l'État n'est pas imaginaire. La commission du Sénat a décrit des locaux vétustes, des équipements manquants et environ 22 millions d'heures supplémentaires non payées. Un programme de mobilisation contre le suicide existe depuis 2018 : cellule d'alerte, plateforme d'écoute, 122 psychologues, formation en ligne. Mais fin 2022, seules 1 078 « sentinelles » étaient formées pour un objectif de 1 950, et l'étude scientifique de référence n'avait pas été actualisée depuis plus de dix ans.\n\nDire que « l'État les lâche » transforme une souffrance complexe en slogan, souvent pour opposer les policiers au reste de la société. La réponse sérieuse est sociale : de bonnes conditions de travail, des effectifs suffisants, une vraie médecine du travail, une prévention accessible et sans stigmatisation, et une réflexion sur l'accès à l'arme hors service. Ce sont les mêmes exigences que pour tous les métiers exposés, des soignants aux agriculteurs.",
+    "empathie": "Derrière chaque chiffre, il y a une personne, une famille et des collègues endeuillés. La colère de ceux qui voient leurs proches souffrir est légitime, et le sujet mérite d'être abordé avec respect."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si les policiers se suicident, c'est parce que la justice et le gouvernement ne les soutiennent pas.",
+      "reponse": "Le Sénat parle d'un acte multifactoriel : difficultés personnelles, métier éprouvant, conditions de travail et accès à l'arme se combinent. Ramener chaque drame à une seule cause, c'est mal comprendre et mal prévenir."
+    },
+    {
+      "objection": "L'État ne fait rien.",
+      "reponse": "Un plan existe depuis 2018, avec une cellule d'alerte, une plateforme d'écoute et des psychologues. Il est insuffisant : fin 2022, 1 078 sentinelles étaient formées sur 1 950 prévues. La critique utile porte sur les moyens, pas sur un prétendu abandon."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui protégerait vraiment un policier en détresse : un discours de soutien politique ou des collègues formés, des psychologues disponibles et de meilleures conditions de travail ?",
+    "Pourquoi les métiers où l'on a facilement accès à une arme ou à des moyens létaux connaissent-ils plus de suicides ?"
+  ],
+  "limites": [
+    "Les taux comparés couvrent 2008-2017 et l'étude de référence (Inserm, menée en 2010) n'avait pas été actualisée en 2018 : aucune série officielle plus récente n'a été lue.",
+    "Le rapport du Sénat a été lu à travers un outil de résumé : citations à revérifier mot pour mot.",
+    "Les réponses ministérielles présentent le point de vue du ministère sur sa propre action.",
+    "Le rapport annuel 2024 de l'IGPN a été consulté mais sa section sur le risque suicidaire n'a pas pu être lue.",
+    "Sujet sensible : en cas de détresse, le numéro national de prévention du suicide est le 3114."
+  ],
+  "sources": [
+    {
+      "titre": "Vaincre le malaise des forces de sécurité intérieure : une exigence républicaine — rapport n° 612 (tome 1) de la commission d'enquête relative à l'état des forces de sécurité intérieure",
+      "organisme": "Sénat (président : Michel Boutant ; rapporteur : François Grosdidier)",
+      "date_publication": "27 juin 2018",
+      "url": "https://www.senat.fr/rap/r17-612-1/r17-612-11.pdf",
+      "passage": "Le taux de suicide « oscille autour de 14 suicides pour 100 000 habitants pour l'ensemble de la population » ; moyenne 2008-2017 : 25 pour la gendarmerie et 29 pour la police. En 2017, « 50 agents de la police nationale se sont suicidés » (17 dans la gendarmerie). Citant Gaëlle Encrenaz : « le taux de suicide dans la police est supérieur de 36 % à celui de la population générale », après prise en compte de l'âge et du sexe. « le caractère multifactoriel de l'acte suicidaire, qui ne saurait, en tout état de cause, se rattacher à la seule situation professionnelle de l'intéressé » ; ces facteurs « interviennent dans un contexte professionnel qui est décisif ». « l'accès à l'arme de service a sans nul doute pour effet de favoriser le passage à l'acte » ; en 2008, « plus de la moitié des policiers morts par suicide avaient utilisé leur arme de service ». « il est impossible de parler, pour 2017, d'année « noire » ». L'étude de l'Inserm « n'a pas été réactualisée depuis ».",
+      "pertinence": "Rapport parlementaire officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Police : « Le malaise est extrêmement profond », le constat alarmant d'un rapport du Sénat",
+      "organisme": "Public Sénat",
+      "date_publication": "3 juillet 2018 (mis à jour le 12 juillet 2018)",
+      "url": "https://www.publicsenat.fr/actualites/politique/police-le-malaise-est-extremement-profond-le-constat-alarmant-d-un-rapport-du",
+      "passage": "Le rapport décrit « des voitures usagées, des locaux vétustes, des équipements qui manquent » ; de jeunes policiers affectés en Île-de-France dormiraient dans leur voiture faute de moyens (environ 1 300 € par mois) ; environ 22 millions d'heures supplémentaires non payées, d'une valeur de plus de 272 millions d'euros. La commission formule 32 propositions, dont une meilleure prise en charge des risques psychosociaux.",
+      "pertinence": "Chaîne parlementaire ; compte rendu du rapport.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 3154 (suicides dans la police et la gendarmerie) et réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale (question d’Olivier Dassault, LR ; réponse du ministère de l’Intérieur)",
+      "date_publication": "21 novembre 2017 (question) ; 1er mai 2018 (réponse)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE3154.pdf",
+      "passage": "Police nationale : environ 43 suicides par an en moyenne, « un pic à 55 en 2014 », « En 2017, 51 suicides ont été déplorés. » « S'il est établi que les causes du suicide sont majoritairement d'ordre privé », la difficulté du métier peut contribuer au passage à l'acte. L'arme de service « le facilite évidemment », mais « Cet aspect doit être rapporté à l'importance pour les policiers d'en disposer ». Un service de soutien psychologique opérationnel existe depuis 1996.",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 4302 (suicides dans la police) et réponse du ministère de l'Intérieur et des Outre-mer",
+      "organisme": "Assemblée nationale (question de Guy Bricout, groupe LIOT ; réponse du ministère de l’Intérieur et des Outre-mer)",
+      "date_publication": "20 décembre 2022 (question) ; 14 mars 2023 (réponse)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE4302.pdf",
+      "passage": "« Chaque suicide de policier est un drame pour le ministère de l'Intérieur et des Outre-mer. » Un « programme de mobilisation contre le suicide » lancé en mai 2018 ; une « cellule alerte prévention suicide » créée en avril 2019 ; une plateforme d'écoute externe 24 h/24 depuis septembre 2019. Le service de soutien psychologique opérationnel compte 122 psychologues cliniciens, et 22 postes supplémentaires ont été annoncés en février 2022. 1 078 « sentinelles » formées au 31 décembre 2022, pour un objectif de 1 950. Formation en ligne suivie par plus de 81 000 agents.",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Suicides dans les forces de l'ordre : derrière l'émotion pèsent les conditions de travail",
+      "organisme": "Gregory Danel, Public Sénat",
+      "date_publication": "13 novembre 2017",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/suicides-dans-les-forces-de-l-ordre-derriere-l-emotion-precent-les-conditions-de",
+      "passage": "Eric Morvan, directeur général de la police nationale : « le facteur déclenchant des suicides est presque toujours d'ordre privé », mais « des éléments de fragilité sont imputables à la vie professionnelle ». Les syndicats mettent en cause les cycles de travail ; un responsable syndical : « On pourra avoir un 'psy' derrière chaque flic que cela ne changera rien ».",
+      "pertinence": "Chaîne parlementaire ; article d'actualité.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Publication de chiffres officiels récents sur les suicides dans la police et la gendarmerie et bilan du programme de prévention.",
+  "objections_legitimes": [
+    "La surmortalité par suicide dans la police est réelle et documentée.",
+    "Les conditions de travail (locaux, heures supplémentaires non payées, rythmes) relèvent de la responsabilité de l'État.",
+    "Les moyens de prévention restent en deçà des objectifs fixés par le ministère lui-même."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison de t'indigner : les policiers se suicident 36 % plus que la population, à âge et sexe égaux, et leurs conditions de travail sont parfois indignes. Mais le Sénat lui-même dit que le suicide a plusieurs causes, personnelles et professionnelles, et que l'arme de service facilite le passage à l'acte. Si on veut vraiment les aider, il faut des moyens, des psychologues et de meilleures conditions de travail, pas un slogan.",
+    "indecis": "Le problème est réel : entre 2008 et 2017, le taux de suicide était de 29 pour 100 000 dans la police, contre environ 14 dans la population. Les causes se combinent : difficultés personnelles, métier éprouvant, conditions de travail, accès à l'arme. L'État a lancé un plan de prévention en 2018, mais il reste en deçà de ses propres objectifs : c'est là que la pression politique est utile."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "services_publics"
+    ],
+    "mecanismes": "Une souffrance réelle et multifactorielle est réduite à un slogan politique qui oppose les policiers au reste de la société et détourne l’attention des conditions de travail et des moyens de prévention.",
+    "consequences": "Instrumentaliser ces drames n’aide pas les agents en détresse : sans moyens pour la médecine du travail, la prévention et des conditions de travail dignes, les mêmes causes produisent les mêmes effets.",
+    "democratie": "Les policiers sont des travailleurs du service public : leur santé relève du droit du travail, du dialogue social et du contrôle parlementaire, pas de la surenchère sécuritaire.",
+    "propositions": [
+      "Financer pleinement le plan de prévention du suicide, les psychologues et le réseau de sentinelles.",
+      "Payer les heures supplémentaires, rénover les locaux et stabiliser les rythmes de travail.",
+      "Actualiser l’étude scientifique sur la surmortalité par suicide et ouvrir une réflexion sur l’accès à l’arme hors service."
+    ],
+    "defavorables": [
+      {
+        "fait": "La commission d’enquête du Sénat a relevé des locaux vétustes, des équipements manquants et des millions d’heures supplémentaires non payées.",
+        "integration": "C’est bien une responsabilité de l’État employeur, et la gauche la revendique comme une question de droits des travailleurs, pas comme une cause unique de chaque drame."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "suicides_policiers_q2013",
+      "label": "Suicides de policiers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail"
+  ],
+  "concepts": [
+    "suicides_policiers",
+    "emploi"
+  ]
+}

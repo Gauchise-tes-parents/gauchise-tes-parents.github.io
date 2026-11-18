@@ -202,12 +202,6 @@
       }
     ]
   },
-  "concepts": [
-    "mariages_blancs",
-    "expulsion",
-    "fraude",
-    "nationalite"
-  ],
   "repond_a": [
     {
       "id": "mariages_blancs_q1215",
@@ -228,5 +222,11 @@
     "titre de sejour",
     "n a plus sa place",
     "plus rien a faire"
+  ],
+  "concepts": [
+    "mariages_blancs",
+    "expulsion",
+    "fraude",
+    "nationalite"
   ]
 }

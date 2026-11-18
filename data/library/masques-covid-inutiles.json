@@ -1,0 +1,278 @@
+{
+  "id": "masques-covid-inutiles",
+  "type": "idee_recue",
+  "affirmation": "Les masques ne servaient à rien contre le Covid.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "masques inutiles covid",
+    "le masque ne sert a rien",
+    "etude cochrane masques",
+    "masque covid efficacite",
+    "danmask",
+    "masques obligatoires inutiles",
+    "penurie de masques 2020",
+    "sibeth ndiaye masques",
+    "masque chirurgical covid",
+    "masque en tissu"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les preuves sur le port du masque en population générale sont modestes et discutées, mais « modeste » ne veut pas dire « nul ». Le grand essai randomisé du Bangladesh trouve 11,2 % d'infections symptomatiques en moins avec des masques chirurgicaux, et 34,7 % chez les plus de 60 ans. La revue Cochrane de 2023, souvent citée, ne dit pas que les masques ne marchent pas : sa rédactrice en chef parle d'une lecture « inexacte et trompeuse ». En revanche, le gouvernement français a lui-même affirmé au printemps 2020, en pleine pénurie, que le masque n'était pas nécessaire pour le grand public.",
+  "contexte": "L'idée s'est répandue après la publication d'une revue Cochrane en 2023, puis dans le rejet des obligations sanitaires. Elle s'appuie aussi sur un souvenir réel : au début de l'épidémie, le gouvernement disait que le masque ne servait pas au grand public, alors que les stocks avaient fondu.",
+  "explication": "On distingue l'efficacité d'un masque bien porté, celle d'une politique de port généralisé, la qualité des essais disponibles et le discours des autorités françaises en 2020.",
+  "faits": [
+    {
+      "fait": "Selon Cochrane, dire que sa revue de 2023 montre que les masques ne marchent pas est « an inaccurate and misleading interpretation » : les résultats sur la promotion du masque étaient « inconclusive », et la revue ne pouvait pas dire si le port du masque lui-même réduit le risque.",
+      "periode": "2023",
+      "perimetre": "Monde",
+      "explication": "La revue la plus citée par les sceptiques conclut à une incertitude, pas à une inutilité.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Dans un essai randomisé mené dans 600 villages du Bangladesh auprès de 342 126 adultes, la promotion du masque a réduit la séroprévalence symptomatique de 9,3 % ; de 11,2 % dans les villages à masques chirurgicaux et de 34,7 % chez les 60 ans et plus de ces villages.",
+      "periode": "2020-2021",
+      "perimetre": "Bangladesh",
+      "explication": "À grande échelle, avec seulement 42,3 % de port correct, l'effet est modeste mais réel, et plus net chez les plus âgés.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "11,2 %"
+    },
+    {
+      "fait": "Selon l'American College of Physicians, éditeur des Annals of Internal Medicine, dans l'essai danois DANMASK-19 sur 6 024 adultes, 1,8 % des porteurs de masque ont été infectés en un mois contre 2,1 % dans le groupe témoin ; l'essai ne mesurait pas la protection de l'entourage.",
+      "periode": "2020",
+      "perimetre": "Danemark",
+      "explication": "L'essai exclut une forte protection personnelle mais ne permet ni de conclure à l'absence d'effet, ni de juger le principal intérêt du masque : protéger les autres.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1,8 %"
+    },
+    {
+      "fait": "Selon une note de l'Office parlementaire d'évaluation des choix scientifiques et technologiques de juin 2020, des études de laboratoire montrent que les masques chirurgicaux réduisent d'un facteur 25 l'émission de grosses particules chez des patients grippés, et il faut distinguer « l'absence de preuve et la preuve d'absence d'efficacité ».",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Le mécanisme physique de protection de l'entourage est bien documenté.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "25"
+    },
+    {
+      "fait": "L'Organisation mondiale de la santé recommande le masque « as part of a comprehensive strategy » et précise que « the use of a mask alone is not sufficient ».",
+      "periode": "2021",
+      "perimetre": "Monde",
+      "explication": "Le masque n'a jamais été présenté par l'OMS comme une protection suffisante à lui seul, mais comme un outil parmi d'autres.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : en mai 2020, Santé publique France écrivait que les études montrent « une réduction modérée cependant non significative » des infections respiratoires avec le masque en population générale, et que l'efficacité des masques en tissu « n'est pas acquise ».",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Les preuves en population générale étaient et restent limitées : il est honnête de le reconnaître.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon Public Sénat, le gouvernement a lui-même affirmé début 2020 que le masque n'était pas nécessaire pour le grand public, alors que les stocks étaient passés d'environ 1,6 milliard de masques en 2010 à 150 millions de masques chirurgicaux et aucun FFP2 début 2020.",
+      "periode": "2010-2020",
+      "perimetre": "France",
+      "explication": "Le doute sur les masques a été nourri par les autorités elles-mêmes, dans un contexte de pénurie qu'elles ne voulaient pas reconnaître.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "150 millions"
+    },
+    {
+      "fait": "Selon Public Sénat, Olivier Véran a reconnu en 2022 : « sur les masques, nous nous sommes trompés » ; la porte-parole Sibeth Ndiaye avait déclaré le 20 mars 2020 : « moi je ne sais pas utiliser un masque ».",
+      "periode": "2020-2022",
+      "perimetre": "France",
+      "explication": "Le revirement du gouvernement explique en partie la méfiance actuelle, mais il portait sur l'utilité du masque, pas sur sa prétendue inutilité.",
+      "source": 8,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non, les masques n'étaient pas inutiles, mais leur effet est modeste. Au Bangladesh, sur 342 126 adultes, les masques chirurgicaux ont réduit les infections symptomatiques de 11,2 %, et de 34,7 % chez les plus de 60 ans. La revue Cochrane conclut à l'incertitude, pas à l'inutilité. Le doute vient aussi du gouvernement, qui disait en 2020, en pleine pénurie, que le masque n'était pas nécessaire au grand public.",
+    "moyen": "Les preuves sur le masque en population générale sont moins solides qu'on l'a parfois dit, mais elles ne disent pas qu'il ne sert à rien. Le plus grand essai randomisé, au Bangladesh, trouve 11,2 % d'infections symptomatiques en moins avec des masques chirurgicaux, et 34,7 % chez les plus de 60 ans. L'essai danois DANMASK-19 exclut une forte protection personnelle, mais ne mesurait pas la protection de l'entourage, qui est le rôle principal du masque.\n\nLa revue Cochrane de 2023, brandie comme une preuve, conclut à des résultats « non concluants » ; Cochrane a qualifié de « trompeuse » la lecture « les masques ne marchent pas ». Le soupçon a aussi une origine politique : début 2020, alors que les stocks étaient tombés à 150 millions de masques chirurgicaux, le gouvernement expliquait que le masque n'était pas nécessaire pour le grand public, avant de changer de discours. Olivier Véran a reconnu ensuite : « nous nous sommes trompés ».",
+    "detaille": "Il faut d'abord distinguer deux questions. Un masque bien porté retient-il les gouttelettes et les particules ? Oui : la note de l'Office parlementaire d'évaluation des choix scientifiques de juin 2020 rappelle que les masques chirurgicaux réduisent fortement l'émission de particules chez des malades. Une politique de port du masque dans toute la population réduit-elle les contaminations ? C'est plus difficile à mesurer, car tout dépend de la façon dont les gens le portent et de ce qu'ils font par ailleurs.\n\nLes essais randomisés donnent une réponse nuancée. Au Bangladesh, dans 600 villages et sur 342 126 adultes, une campagne de distribution a fait passer le port correct de 13,3 % à 42,3 % et réduit la séroprévalence symptomatique de 9,3 % ; avec des masques chirurgicaux, de 11,2 %, et de 34,7 % chez les plus de 60 ans. Au Danemark, l'essai DANMASK-19 sur 6 024 adultes trouve 1,8 % d'infections chez les porteurs de masque contre 2,1 % chez les autres : il exclut une protection personnelle forte, sans exclure un effet plus modeste, et il ne mesurait pas la protection de l'entourage.\n\nLa revue Cochrane de 2023 a été largement présentée comme la preuve que les masques ne servent à rien. Sa rédactrice en chef a répondu que cette lecture était « inexacte et trompeuse » : les résultats étaient non concluants, à cause du risque de biais des essais, et la revue ne pouvait pas répondre à la question de l'efficacité du port du masque lui-même. L'OMS, de son côté, n'a jamais présenté le masque comme suffisant seul, mais comme une mesure parmi d'autres.\n\nReste un fait qui donne prise au soupçon. En mars 2020, la France manquait de masques : les stocks étaient passés d'environ 1,6 milliard en 2010 à 150 millions de masques chirurgicaux. Le ministère écrivait que l'efficacité du masque pour la population non malade « n'est pas démontrée », et la porte-parole du gouvernement disait ne pas savoir l'utiliser. Le discours a ensuite changé du tout au tout. Olivier Véran a reconnu en 2022 : « nous nous sommes trompés ». La leçon est politique : quand un gouvernement adapte le discours scientifique à ses pénuries, il fabrique la défiance.",
+    "empathie": "On a beaucoup demandé aux gens pendant l'épidémie, parfois avec des consignes contradictoires, et certains ont eu l'impression qu'on leur mentait. Ce sentiment a des raisons réelles, à commencer par les déclarations du gouvernement en mars 2020."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La revue Cochrane a prouvé que les masques ne marchent pas.",
+      "reponse": "Cochrane a répondu elle-même que cette lecture était « inexacte et trompeuse » : sa revue conclut à des résultats non concluants, pas à une inutilité."
+    },
+    {
+      "objection": "Le gouvernement disait lui-même qu'ils ne servaient à rien.",
+      "reponse": "C'est vrai, et c'était une erreur reconnue par Olivier Véran : à l'époque, les stocks étaient tombés à 150 millions de masques chirurgicaux. Cela montre une mauvaise gestion, pas l'inutilité du masque."
+    },
+    {
+      "objection": "Au Danemark, l'étude n'a rien trouvé.",
+      "reponse": "Elle trouve 1,8 % d'infections contre 2,1 % et exclut seulement une forte protection personnelle ; elle ne mesurait pas la protection des autres, qui est l'intérêt principal du masque."
+    }
+  ],
+  "questions": [
+    "Si le masque ne servait à rien, pourquoi les soignants le portent-ils depuis toujours ?",
+    "Un effet modeste mais réel, chez les plus âgés notamment, vaut-il le coût de porter un masque en période d'épidémie ?"
+  ],
+  "limites": [
+    "L'essai du Bangladesh a été lu à travers le résumé du document de travail de Yale révisé en mai 2022 ; sa publication dans la revue Science n'a pas été vérifiée ici.",
+    "L'essai DANMASK-19 a été lu à travers le communiqué de l'éditeur ; la revue Cochrane elle-même n'a pas été ouverte, seule la déclaration de Cochrane l'a été.",
+    "La note de l'OPECST et la synthèse de Santé publique France datent de 2020 et ne tiennent pas compte des essais ultérieurs.",
+    "Les essais mesurent des politiques de port du masque, avec un port réel partiel : ils ne mesurent pas l'efficacité d'un masque porté correctement en permanence.",
+    "L'expression exacte « masques inutiles » n'a pas été retrouvée dans les sources lues : le discours gouvernemental est rapporté par Public Sénat (« pas nécessaire », « efficacité n'est pas démontrée »)."
+  ],
+  "sources": [
+    {
+      "titre": "Statement on 'Physical interventions to interrupt or reduce the spread of respiratory viruses' review",
+      "organisme": "Cochrane (Karla Soares-Weiser, rédactrice en chef de la Cochrane Library)",
+      "date_publication": "10 mars 2023 (mis à jour en juin 2024)",
+      "url": "https://www.cochrane.org/news/statement-physical-interventions-interrupt-or-reduce-spread-respiratory-viruses-review",
+      "passage": "L'interprétation selon laquelle la revue montrerait que « masks don't work » est « an inaccurate and misleading interpretation ». La revue examinait si les interventions de promotion du masque ralentissent la propagation : « the results were inconclusive ». Elle « is not able to address the question of whether mask-wearing itself reduces people's risk ». « The high risk of bias in the trials » empêche des conclusions fermes. Cochrane regrette que la formulation du résumé (« We are uncertain whether wearing masks or N95/P2 respirators helps to slow the spread ») ait été « open to misinterpretation ».",
+      "pertinence": "Déclaration officielle de l'éditeur de la revue systématique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "The Impact of Community Masking on COVID-19: A Cluster Randomized Trial in Bangladesh",
+      "organisme": "Cowles Foundation, université Yale (J. Abaluck, L. H. Kwong, M. Mobarak et al.), document de travail CFDP 2284R",
+      "date_publication": "avril 2021, révisé en mai 2022",
+      "url": "https://cowles.yale.edu/research/cfdp-2284r-impact-community-masking-covid-19-cluster-randomized-trial-bangladesh",
+      "passage": "Essai randomisé par grappes dans 600 villages, 342 126 adultes. Le port correct du masque passe de 13,3 % dans les villages témoins à 42,3 % dans les villages d'intervention. Réduction de la séroprévalence symptomatique de 9,3 % au total (aPR = 0,91 [0,82 ; 1,00]) ; de 11,2 % dans les villages à masques chirurgicaux (aPR = 0,89) et de 34,7 % chez les 60 ans et plus de ces villages (aPR = 0,65).",
+      "pertinence": "Résumé d'un essai randomisé à grande échelle (document de travail universitaire).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Denmark trial measures effectiveness of adding a mask recommendation to other public health measures (DANMASK-19)",
+      "organisme": "American College of Physicians (éditeur des Annals of Internal Medicine)",
+      "date_publication": "18 novembre 2020",
+      "url": "https://www.acponline.org/acp-newsroom/denmark-trial-measures-effectiveness-of-adding-a-mask-recommendation-to-other-public-health-measures",
+      "passage": "6 024 adultes randomisés ; après un mois, 1,8 % d'infections dans le groupe masque contre 2,1 % dans le groupe témoin. Les données écartent un effet protecteur personnel important, appuient faiblement une protection plus modeste, mais « cannot definitively exclude no effect ». L'essai ne mesurait pas la protection des autres (contrôle à la source) ; selon les éditeurs, il ne contredit pas la recommandation d'un port généralisé et suggère que le bénéfice personnel est plus faible que le bénéfice pour l'entourage.",
+      "pertinence": "Communiqué de l'éditeur sur un essai randomisé publié dans une revue à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Coronavirus disease (COVID-19): When and how to use masks",
+      "organisme": "Organisation mondiale de la santé",
+      "date_publication": "décembre 2021 (dernière mise à jour)",
+      "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "passage": "« Masks should be used as part of a comprehensive strategy of measures to suppress transmission and save lives » ; « the use of a mask alone is not sufficient to provide an adequate level of protection against COVID-19 ».",
+      "pertinence": "Recommandations officielles de l'OMS.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "COVID-19 : état des connaissances sur la généralisation de l'utilisation des masques dans l'espace public",
+      "organisme": "Santé publique France",
+      "date_publication": "5 mai 2020",
+      "url": "https://www.santepubliquefrance.fr/les-actualites/2020/covid-19-etat-des-connaissances-sur-la-generalisation-de-l-utilisation-des-masques-dans-l-espace-public",
+      "passage": "« Des études montrent une réduction modérée cependant non significative des infections respiratoires » avec le port du masque en population générale. L'efficacité des masques alternatifs en tissu « n'est pas acquise ». En cas de quantité limitée, les masques chirurgicaux doivent être réservés en priorité aux soins. Le masque doit être associé aux gestes barrières et à la distanciation.",
+      "pertinence": "Synthèse rapide de l'agence nationale de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Épidémie de COVID-19 — Les enjeux d'une généralisation du port des masques (note scientifique)",
+      "organisme": "Office parlementaire d'évaluation des choix scientifiques et technologiques (Sénat et Assemblée nationale)",
+      "date_publication": "4 juin 2020, mise à jour le 18 juin 2020",
+      "url": "https://www.senat.fr/fileadmin/Fichiers/Images/opecst/quatre_pages/OPESCT_note_masques_covid.pdf",
+      "passage": "Aucun essai randomisé n'a encore montré que le port généralisé du masque, indépendamment des autres mesures, ralentit les maladies respiratoires ; un essai danois est en cours. La note distingue « l'absence de preuve et la preuve d'absence d'efficacité ». Des études de laboratoire montrent que les masques chirurgicaux bloquent les gouttelettes de toux ; chez des patients grippés, ils réduisent l'émission de grosses particules d'un facteur 25 et des petites d'environ 3.",
+      "pertinence": "Note scientifique parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pénurie de masques : une responsabilité partagée par les gouvernements successifs",
+      "organisme": "Public Sénat",
+      "date_publication": "23 mars 2020 (mis à jour le 27 mars 2020)",
+      "url": "https://www.publicsenat.fr/article/politique/penurie-de-masques-une-responsabilite-partagee-par-les-gouvernements-successifs",
+      "passage": "En 2010, l'État disposait d'environ 1,6 milliard de masques, dont 1 milliard de chirurgicaux et 600 millions de FFP2, selon Olivier Véran ; début 2020, il restait 150 millions de masques chirurgicaux et aucun FFP2. Le 26 février 2020, Jérôme Salomon déclarait au Sénat : « Il n'y a pas de sujet de pénurie ». Le gouvernement a diffusé des messages selon lesquels le masque n'était pas nécessaire pour le grand public et devait être réservé aux soignants.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "« À aucun moment, on ne m'a demandé de mentir sur ce qu'était la situation des masques », déclare Sibeth Ndiaye",
+      "organisme": "Public Sénat",
+      "date_publication": "23 septembre 2020",
+      "url": "https://www.publicsenat.fr/actualites/politique/a-aucun-moment-on-ne-m-a-demande-de-mentir-sur-ce-qu-etait-la-situation-des",
+      "passage": "Le 4 mars 2020, la porte-parole du gouvernement affirmait qu'il n'y avait « pas de risque de pénurie » de masques ; le 20 mars, elle déclarait : « Vous savez quoi, moi je ne sais pas utiliser un masque. » Devant la commission d'enquête du Sénat, le 23 septembre 2020, elle a reconnu des « phrases maladroites ».",
+      "pertinence": "Chaîne parlementaire, compte rendu d'audition.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mea culpa d'Olivier Véran sur les masques : ce qu'avait déclaré le ministre devant les sénateurs",
+      "organisme": "Public Sénat",
+      "date_publication": "8 septembre 2022",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/mea-culpa-d-olivier-veran-sur-les-masques-ce-qu-avait-declare-le-ministre-devant-les",
+      "passage": "Olivier Véran : « La vérité, c'est que, sur les masques, nous nous sommes trompés, ni plus ni moins. » Le site du ministère indiquait plus tôt que le port du masque par la population non malade n'était pas recommandé car « son efficacité n'est pas démontrée ».",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouvelles revues systématiques sur les interventions non pharmaceutiques et conclusions des travaux sur la préparation aux pandémies.",
+  "objections_legitimes": [
+    "Les essais en population générale montrent des effets modestes, et certains ne sont pas concluants.",
+    "Le gouvernement a dit au printemps 2020 que le masque n'était pas nécessaire pour le grand public, en pleine pénurie.",
+    "L'efficacité des masques en tissu n'était pas démontrée, selon Santé publique France en 2020."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : le gouvernement a dit en 2020 que le masque n'était pas nécessaire pour le grand public, alors que les stocks étaient tombés à 150 millions. Mais la revue Cochrane que l'on cite dit seulement que les résultats sont incertains, et le plus grand essai, au Bangladesh, trouve 11,2 % d'infections en moins avec des masques chirurgicaux. Modeste, oui ; inutile, non.",
+    "indecis": "Les preuves sur le masque en population générale sont modestes : il ne protège pas à lui seul, et l'OMS l'a toujours présenté comme une mesure parmi d'autres. Mais les essais montrent un effet réel, plus net chez les personnes âgées. Les consignes contradictoires de 2020 venaient surtout d'une pénurie, reconnue ensuite comme une erreur."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "vulnerables",
+      "services_publics",
+      "democratie"
+    ],
+    "mecanismes": "Une incertitude scientifique réelle est transformée en certitude inverse, et la défiance née des mensonges gouvernementaux de la pénurie est retournée contre la santé publique elle-même.",
+    "consequences": "Le rejet des mesures collectives expose d’abord les personnes âgées et fragiles, chez qui les essais montrent l’effet protecteur le plus net.",
+    "democratie": "La confiance se construit par la transparence : un gouvernement qui adapte le discours scientifique à ses pénuries fabrique la défiance, et une démocratie sanitaire suppose de dire franchement ce qu’on sait et ce qu’on ignore.",
+    "propositions": [
+      "Reconstituer et entretenir des stocks publics stratégiques de matériel de protection, sous contrôle parlementaire.",
+      "Relocaliser une production publique ou coopérative de matériel médical essentiel.",
+      "Publier les avis scientifiques et leurs incertitudes, et associer citoyens et soignants aux décisions de crise."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le gouvernement a lui-même affirmé en pleine pénurie que le masque n’était pas nécessaire pour le grand public, et les preuves en population générale restent modestes.",
+        "integration": "C’est un argument contre la gestion libérale des stocks publics, pas contre le masque : l’effet est modeste mais réel, surtout pour les plus âgés."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "masques_q2013",
+      "label": "Masques et Covid"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "plus d offres d emploi que",
+    "trouvent personne",
+    "trouve personne",
+    "trouvent pas de candidats",
+    "desinformation",
+    "fake news",
+    "manipulation de l information",
+    "pourcentage",
+    "insee",
+    "donnees"
+  ],
+  "concepts": [
+    "masques",
+    "penurie",
+    "desinformation",
+    "statistiques"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "vaccins-autisme",
+  "type": "idee_recue",
+  "affirmation": "Les vaccins provoquent l'autisme.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "vaccins autisme",
+    "vaccin provoque autisme",
+    "ror autisme",
+    "wakefield",
+    "aluminium vaccins autisme",
+    "vaccin rougeole autisme",
+    "lien vaccin autisme",
+    "kennedy vaccins autisme",
+    "cdc vaccins autisme",
+    "thiomersal autisme"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Contredit. L'idée vient d'un article de 1998 portant sur 12 enfants, rétracté en 2010 et qualifié de fraude ; son auteur a perdu le droit d'exercer. Depuis, des études sur des centaines de milliers d'enfants n'ont trouvé aucun lien : 657 461 enfants danois pour le vaccin rougeole-oreillons-rubéole en 2019, plus d'un million pour l'aluminium en 2025. L'OMS l'a encore confirmé en décembre 2025, après que la page des CDC américains a été modifiée sous Robert F. Kennedy Jr. sans aucune nouvelle étude.",
+  "contexte": "La rumeur a resurgi avec l'arrivée de Robert F. Kennedy Jr. à la tête de la santé américaine et la modification, en novembre 2025, d'une page officielle des CDC. Elle trouve un écho chez des parents inquiets par la hausse des diagnostics d'autisme.",
+  "explication": "On remonte à l'origine de la rumeur, puis on regarde les grandes études qui comparent enfants vaccinés et non vaccinés, les avis des autorités sanitaires, et ce qui a changé aux États-Unis.",
+  "faits": [
+    {
+      "fait": "L'article d'Andrew Wakefield publié dans The Lancet en 1998 ne portait que sur 12 enfants ; il a été rétracté en février 2010, après la censure de son auteur par l'ordre des médecins britannique, qui lui a ensuite retiré le droit d'exercer.",
+      "periode": "1998-2010",
+      "perimetre": "Royaume-Uni",
+      "explication": "La rumeur repose sur une étude minuscule, retirée par la revue elle-même.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "12"
+    },
+    {
+      "fait": "Selon l'enquête de Brian Deer publiée par le BMJ en janvier 2011, trois des neuf enfants présentés comme atteints d'autisme régressif n'avaient pas ce diagnostic, cinq des douze avaient des troubles préexistants, et l'étude avait été financée en vue d'un procès contre le fabricant du vaccin.",
+      "periode": "2011",
+      "perimetre": "Royaume-Uni",
+      "explication": "Ce n'était pas une erreur honnête : le BMJ a parlé d'une « fraude élaborée », avec des intérêts financiers.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon STAT, une étude du Statens Serum Institut publiée en 2019 sur 657 461 enfants danois nés entre 1999 et 2010 n'a trouvé aucune association entre le vaccin rougeole-oreillons-rubéole et l'autisme, y compris chez les enfants ayant un frère ou une sœur autiste.",
+      "periode": "1999-2010",
+      "perimetre": "Danemark",
+      "explication": "Même chez les enfants les plus « à risque », le vaccin ne change rien.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "657 461"
+    },
+    {
+      "fait": "Selon le Statens Serum Institut, une étude danoise publiée en juillet 2025 sur plus d'un million d'enfants nés de 1997 à 2018 n'a trouvé aucun lien significatif entre l'aluminium des vaccins et 50 affections, dont l'autisme.",
+      "periode": "1997-2018",
+      "perimetre": "Danemark",
+      "explication": "L'argument de l'aluminium, souvent avancé à la place du vaccin rougeole, ne tient pas non plus.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1 million"
+    },
+    {
+      "fait": "Le comité consultatif de l'OMS pour la sécurité des vaccins a examiné 31 études publiées entre 2010 et août 2025 et conclu le 11 décembre 2025 que les vaccins « ne sont pas une cause d'autisme », y compris ceux contenant du thiomersal ou de l'aluminium.",
+      "periode": "2010-2025",
+      "perimetre": "Monde",
+      "explication": "La conclusion n'est pas l'avis d'un pays, mais celle d'un examen international répété depuis 2002.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "31"
+    },
+    {
+      "fait": "Selon l'Inserm, l'idée d'un lien entre vaccins et autisme « persiste malgré de nombreuses études de grande ampleur qui l'ont clairement démentie », dont une étude de 2002 sur 537 303 enfants danois.",
+      "periode": "2002-2026",
+      "perimetre": "France",
+      "explication": "La recherche publique française partage le consensus.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "537 303"
+    },
+    {
+      "fait": "Fait défavorable : le 19 novembre 2025, la page des CDC américains sur les vaccins a été modifiée pour affirmer que « Vaccines do not cause autism » n'est « not an evidence-based claim », sous l'autorité du secrétaire à la Santé Robert F. Kennedy Jr., mais sans citer de nouvelle recherche.",
+      "periode": "2025",
+      "perimetre": "États-Unis",
+      "explication": "Une agence officielle relaie désormais le doute, ce qui donne du crédit à la rumeur ; mais c'est une décision politique, dénoncée par les pédiatres américains, pas un résultat scientifique.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Inserm, une lésion musculaire locale, la myofasciite à macrophages, est liée à l'aluminium des vaccins ; il n'est pas prouvé qu'elle provoque d'autres troubles.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Les vaccins peuvent avoir des effets indésirables réels, reconnus par la science ; l'autisme n'en fait pas partie.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. L'idée vient d'une étude de 1998 sur 12 enfants, rétractée et qualifiée de fraude. Depuis, des études sur 657 461 enfants danois, puis plus d'un million, n'ont trouvé aucun lien. L'OMS l'a encore confirmé en décembre 2025, après 31 études examinées. Le changement de page des CDC sous Kennedy ne s'appuie sur aucune étude nouvelle.",
+    "moyen": "Tout part d'un article publié en 1998 dans The Lancet par Andrew Wakefield, sur 12 enfants. La revue l'a rétracté en 2010, son auteur a perdu le droit d'exercer, et une enquête publiée par le BMJ a montré que des diagnostics avaient été déformés et que l'étude avait été financée en vue d'un procès.\n\nDepuis, la question a été étudiée à très grande échelle. Au Danemark, 657 461 enfants suivis : aucun lien entre le vaccin rougeole-oreillons-rubéole et l'autisme, même chez les enfants à risque. En 2025, plus d'un million d'enfants : aucun lien avec l'aluminium des vaccins. L'OMS a réexaminé 31 études en 2025 et confirme. La modification de la page des CDC américains en novembre 2025 n'est pas venue d'une découverte, mais d'une décision politique de l'administration de Robert F. Kennedy Jr.",
+    "detaille": "La rumeur a une origine précise. En 1998, Andrew Wakefield publie dans The Lancet un article sur 12 enfants qui suggère un lien entre le vaccin rougeole-oreillons-rubéole et une forme d'autisme. En 2010, l'ordre des médecins britannique le sanctionne, The Lancet rétracte l'article, et Wakefield perd son droit d'exercer. En 2011, l'enquête du journaliste Brian Deer publiée par le BMJ montre que trois des neuf enfants présentés comme autistes n'avaient pas ce diagnostic, que cinq avaient des troubles préexistants, et que l'étude avait été financée en vue d'un procès contre le fabricant du vaccin.\n\nLa science n'en est pas restée là : elle a vérifié. Au Danemark, où les registres de santé couvrent toute la population, une étude de 2002 a suivi 537 303 enfants, puis une autre en 2019 en a suivi 657 461 : aucun lien entre le vaccin et l'autisme, y compris chez les enfants ayant un frère ou une sœur autiste, et pas de pic de diagnostics après la vaccination. Quand la rumeur s'est déplacée vers l'aluminium, une étude de 2025 sur plus d'un million d'enfants n'a trouvé aucun lien avec 50 affections, dont l'autisme. En décembre 2025, le comité de l'OMS pour la sécurité des vaccins a examiné 31 études publiées depuis 2010 et confirmé que les vaccins ne sont pas une cause d'autisme.\n\nCe qui a changé, c'est la politique américaine. Le 19 novembre 2025, sous l'autorité de Robert F. Kennedy Jr., la page des CDC a été modifiée pour dire que l'absence de lien n'était pas « fondée sur des preuves », sans citer aucune recherche nouvelle ; d'anciens responsables des CDC ont dit que les scientifiques de l'agence n'avaient pas été informés, et l'Académie américaine de pédiatrie a rappelé que la conclusion est « claire et sans ambiguïté ».\n\nReconnaître les effets indésirables réels des vaccins, comme la lésion musculaire locale liée à l'aluminium décrite par l'Inserm, fait partie de l'honnêteté scientifique. Mais attribuer l'autisme aux vaccins détourne l'attention des vrais besoins des familles : diagnostic précoce, accompagnement, scolarisation, et fait reculer la vaccination, qui protège contre des maladies comme la rougeole.",
+    "empathie": "Les parents d'enfants autistes cherchent souvent une explication, et les premiers signes apparaissent à l'âge où l'on vaccine : il est humain de rapprocher les deux. Cette inquiétude mérite une réponse claire et respectueuse."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Même les CDC disent maintenant que le lien n'est pas exclu.",
+      "reponse": "La page a été modifiée en novembre 2025 sur décision politique, sans aucune étude nouvelle. L'OMS a réexaminé 31 études quelques semaines plus tard et confirme l'absence de lien."
+    },
+    {
+      "objection": "Wakefield a été réduit au silence parce qu'il dérangeait.",
+      "reponse": "Son étude portait sur 12 enfants, des diagnostics avaient été déformés et elle était financée en vue d'un procès. Des études sur des centaines de milliers d'enfants ont ensuite vérifié : aucun lien."
+    },
+    {
+      "objection": "C'est l'aluminium qui pose problème.",
+      "reponse": "Une étude danoise de 2025 sur plus d'un million d'enfants ne trouve aucun lien entre l'aluminium des vaccins et l'autisme."
+    }
+  ],
+  "questions": [
+    "Si les vaccins provoquaient l'autisme, pourquoi les enfants vaccinés et non vaccinés suivis au Danemark ont-ils le même risque ?",
+    "Qu'est-ce qui aiderait le plus les familles d'enfants autistes : chercher un coupable ou obtenir un diagnostic et un accompagnement ?"
+  ],
+  "limites": [
+    "Les études danoises ont été lues à travers STAT et le communiqué du Statens Serum Institut, pas dans leur texte intégral.",
+    "L'article rétracté et l'enquête du BMJ n'ont pas été ouverts directement : ils sont rapportés par le CIDRAP.",
+    "La page des CDC elle-même n'a pas été ouverte : sa modification est rapportée par l'Associated Press ; elle a pu évoluer depuis novembre 2025.",
+    "Les causes de la hausse des diagnostics d'autisme ne sont pas traitées ici, faute de source ouverte sur ce point.",
+    "La fiche voisine « vaccins-obligatoires-enfants » traite de la sécurité générale des onze vaccins obligatoires."
+  ],
+  "sources": [
+    {
+      "titre": "Report says 1998 vaccine-autism study was fraud",
+      "organisme": "Robert Roos, CIDRAP (université du Minnesota)",
+      "date_publication": "6 janvier 2011",
+      "url": "https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud",
+      "passage": "L'article de 1998 dans The Lancet, dont Andrew Wakefield était le premier auteur, décrivait 12 enfants et liait le vaccin rougeole-oreillons-rubéole à un syndrome associant entérocolite et autisme régressif. Le General Medical Council l'a censuré en janvier 2010 ; The Lancet a rétracté l'article en février 2010 ; Wakefield a ensuite perdu le droit d'exercer au Royaume-Uni. Le 5 janvier 2011, le BMJ publie l'enquête du journaliste Brian Deer et un éditorial qualifiant l'étude d'« elaborate fraud » : trois des neuf enfants présentés comme atteints d'autisme régressif n'avaient pas ce diagnostic ; cinq des douze avaient des troubles du développement préexistants ; l'étude avait été financée en vue d'un procès, un avocat ayant versé plus de 600 000 dollars à Wakefield.",
+      "pertinence": "Centre universitaire de recherche et d'information sur les maladies infectieuses.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "It's old news that vaccines don't cause autism. But a major new study aims to refute skeptics again",
+      "organisme": "Helen Branswell, STAT",
+      "date_publication": "4 mars 2019",
+      "url": "https://www.statnews.com/2019/03/04/vaccines-no-association-autism-major-study/",
+      "passage": "Étude du Statens Serum Institut publiée dans Annals of Internal Medicine sur 657 461 enfants danois nés entre 1999 et 2010 : aucune association entre le vaccin rougeole-oreillons-rubéole et l'autisme, y compris chez les enfants considérés « à risque », par exemple ceux ayant un frère ou une sœur autiste, et pas de regroupement des diagnostics après la vaccination. Une étude de 2002 dans le New England Journal of Medicine portait déjà sur 537 303 enfants danois. Les auteurs : « We found no support for the hypothesis of increased risk for autism after MMR vaccination ».",
+      "pertinence": "Média de référence en santé, rendant compte d'une étude publiée dans une revue à comité de lecture.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Large Danish study: No link between vaccines and autism or 49 other health conditions",
+      "organisme": "Statens Serum Institut (Danemark), sur une étude publiée dans Annals of Internal Medicine",
+      "date_publication": "15 juillet 2025",
+      "url": "https://en.ssi.dk/news/news/2025/large-danish-study-no-link-between-vaccines-and-autism-or-49-other-health-conditions",
+      "passage": "Étude de cohorte nationale (Andersson et al., « Aluminum-adsorbed vaccines and chronic diseases in childhood ») portant sur plus d'un million d'enfants danois nés de 1997 à 2018 : aucun lien statistique significatif entre l'aluminium des vaccins de l'enfance et 50 affections, dont l'autisme, l'asthme, les allergies et les maladies auto-immunes. Anders Hviid : « This is the first study of this scale and with such comprehensive analyses ».",
+      "pertinence": "Institut public danois de santé, communiqué sur une étude publiée dans une revue à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Un comité d'experts de l'OMS présente une nouvelle analyse confirmant qu'il n'existe aucun lien entre vaccins et autisme",
+      "organisme": "Organisation mondiale de la santé",
+      "date_publication": "11 décembre 2025",
+      "url": "https://www.who.int/fr/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism",
+      "passage": "Le Comité consultatif mondial pour la sécurité des vaccins (GACVS) a examiné 31 travaux de recherche primaire publiés entre janvier 2010 et août 2025 : les vaccins « ne sont pas une cause d'autisme », y compris ceux contenant du thiomersal. Les données « ne montrent aucun lien entre les traces d'aluminium présentes dans certains vaccins et les TSA ». Le comité réaffirme ses conclusions de 2002, 2004 et 2012.",
+      "pertinence": "Communiqué officiel de l'OMS.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sept fausses idées sur les vaccins (Canal Détox)",
+      "organisme": "Inserm, publié sur Santé.fr",
+      "date_publication": "13 octobre 2025, révisé en octobre 2026",
+      "url": "https://www.sante.fr/node/19847413",
+      "passage": "L'idée reçue d'un lien entre vaccins et autisme « persiste malgré de nombreuses études de grande ampleur qui l'ont clairement démentie », dont une étude de 2002 sur 537 303 enfants danois. Elle vient d'une étude de 1998 publiée dans The Lancet, fondée sur 12 cas, frauduleuse et rétractée en 2010. Une lésion musculaire locale, la myofasciite à macrophages, est liée à l'aluminium des vaccins : « Ce constat est réel et reconnu par la communauté scientifique », mais il n'est pas prouvé qu'elle cause fatigue chronique ou troubles de l'attention.",
+      "pertinence": "Institut public de recherche médicale, sur le site public d'information en santé.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "CDC vaccine safety webpage changed to contradict scientific conclusion that vaccines don't cause autism",
+      "organisme": "PBS NewsHour (Associated Press)",
+      "date_publication": "20 novembre 2025",
+      "url": "https://www.pbs.org/newshour/health/cdc-vaccine-safety-webpage-changed-to-contradict-scientific-conclusion-that-vaccines-dont-cause-autism",
+      "passage": "Le 19 novembre 2025, la page des CDC sur la sécurité des vaccins a été modifiée pour affirmer que « the statement 'Vaccines do not cause autism' is not an evidence-based claim », sans citer de nouvelle recherche. Le titre « Vaccines do not cause autism » est conservé avec un astérisque, en raison d'un accord avec le président de la commission santé du Sénat. Robert F. Kennedy Jr. est le secrétaire à la Santé. L'Autism Science Foundation se dit « appalled » ; la présidente de l'Académie américaine de pédiatrie : « The conclusion is clear and unambiguous. »",
+      "pertinence": "Média public américain reprenant l'Associated Press.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Évolution de la politique vaccinale américaine et éventuelles nouvelles revues de l'OMS ou des agences européennes.",
+  "objections_legitimes": [
+    "Les vaccins peuvent avoir des effets indésirables réels, qu'il faut reconnaître et surveiller.",
+    "Les premiers signes d'autisme apparaissent souvent à l'âge des vaccinations, ce qui rend le rapprochement compréhensible.",
+    "Une agence officielle américaine a elle-même relayé le doute en 2025, ce qui brouille les repères."
+  ],
+  "publics": {
+    "convaincus": "Tout part d'une étude sur 12 enfants, retirée par la revue et qualifiée de fraude. Depuis, on a suivi 657 461 enfants au Danemark, puis plus d'un million : aucun lien. Si les CDC ont changé leur page sous Kennedy, c'est sans la moindre étude nouvelle ; demande-toi pourquoi personne n'a pu produire de preuve en vingt-cinq ans.",
+    "indecis": "C'est normal de vouloir comprendre d'où vient l'autisme. Mais la question vaccins-autisme a été étudiée sur des centaines de milliers d'enfants, et l'OMS a encore confirmé en décembre 2025 qu'il n'y a pas de lien. Les vaccins peuvent avoir des effets indésirables réels, connus et surveillés ; l'autisme n'en fait pas partie."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "services_publics",
+      "solidarite",
+      "dignite"
+    ],
+    "mecanismes": "Une fraude ancienne, appuyée sur des intérêts financiers, est recyclée par des responsables politiques qui exploitent l’inquiétude légitime des parents et la défiance envers les institutions.",
+    "consequences": "La baisse de la vaccination expose les enfants à des maladies comme la rougeole, et la recherche d’un coupable détourne des vrais besoins des personnes autistes : diagnostic, accompagnement, scolarisation.",
+    "democratie": "Quand un pouvoir politique réécrit une page scientifique officielle sans étude nouvelle, il menace l’indépendance de la santé publique ; la défendre est un enjeu démocratique.",
+    "propositions": [
+      "Garantir l’indépendance et les moyens des agences publiques de santé et de pharmacovigilance.",
+      "Financer massivement le diagnostic précoce et l’accompagnement des personnes autistes et de leurs familles.",
+      "Développer une information vaccinale publique, honnête sur les effets indésirables réels."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une agence officielle américaine a modifié sa page pour affirmer que l’absence de lien entre vaccins et autisme n’était pas fondée sur des preuves.",
+        "integration": "C’est le signe d’une capture politique de la santé publique, pas d’une découverte : aucune étude nouvelle n’a été citée, et l’OMS a confirmé l’absence de lien quelques semaines plus tard."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "vaccin_autisme_q2013",
+      "label": "Vaccins et autisme"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "wakefield",
+    "desinformation",
+    "fake news",
+    "manipulation de l information",
+    "arn messager",
+    "arnm",
+    "pfizer",
+    "moderna",
+    "hexavalent"
+  ],
+  "concepts": [
+    "vaccin_autisme",
+    "desinformation",
+    "vaccin",
+    "vaccins_enfants"
+  ]
+}

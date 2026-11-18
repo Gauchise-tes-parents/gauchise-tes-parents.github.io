@@ -1,0 +1,256 @@
+{
+  "id": "grooming-gangs-royaume-uni",
+  "type": "idee_recue",
+  "affirmation": "Au Royaume-Uni, des gangs pakistanais ont violé des milliers de filles et on l'a caché.",
+  "volet": "securite",
+  "sous_theme": "Violences sexuelles",
+  "rubriques": [],
+  "mots_cles": [
+    "grooming gangs",
+    "gangs pakistanais royaume uni",
+    "rotherham viols",
+    "viols angleterre pakistanais",
+    "on a cache les viols en angleterre",
+    "rapport casey",
+    "gangs de violeurs uk",
+    "rape gangs",
+    "scandale rotherham",
+    "musk grooming gangs"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Plutôt exact sur le fond, trompeur dans la généralisation. Des réseaux ont bien exploité sexuellement des centaines, voire des milliers d'adolescentes (au moins 1 400 enfants à Rotherham entre 1997 et 2013), avec une surreprésentation d'hommes d'origine pakistanaise dans les dossiers les mieux documentés, et les autorités ont failli, en partie par peur d'être accusées de racisme. Mais ce n'est plus caché depuis 2014 : rapports officiels, procès et, en 2025, une enquête nationale. Et ces réseaux ne représentent qu'une petite partie des violences sexuelles sur enfants, commises surtout par des hommes, en majorité blancs dans les données disponibles.",
+  "contexte": "Le scandale de Rotherham, révélé en 2014, a été suivi d'affaires similaires dans d'autres villes. Le sujet est revenu au premier plan en janvier 2025 quand Elon Musk l'a relayé en soutenant le militant d'extrême droite Tommy Robinson, puis avec l'audit national de Louise Casey en juin 2025. L'extrême droite en fait une preuve de la dangerosité des musulmans ou des immigrés.",
+  "explication": "On sépare trois choses : l'ampleur des crimes et les défaillances des autorités, ce que disent vraiment les données sur l'origine des auteurs, et la place de ces réseaux dans l'ensemble des violences sexuelles sur enfants.",
+  "faits": [
+    {
+      "fait": "Selon le rapport d'Alexis Jay (2014), résumé par le LGiU, au moins 1 400 enfants ont été exploités sexuellement à Rotherham entre 1997 et 2013, « estimation prudente » ; les défaillances des élus et des responsables étaient « flagrantes » et la police ne faisait pas de ces violences une priorité.",
+      "periode": "1997-2013",
+      "perimetre": "Rotherham (Angleterre)",
+      "explication": "L'ampleur des crimes et l'abandon des victimes sont établis par une enquête indépendante.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "1 400"
+    },
+    {
+      "fait": "Fait défavorable : selon le même rapport, plusieurs agents ont décrit leur « nervosité » à l'idée d'identifier l'origine ethnique des auteurs, par peur d'être jugés racistes ; la grande majorité des auteurs étaient décrits comme « asiatiques » par les victimes.",
+      "periode": "1997-2013",
+      "perimetre": "Rotherham (Angleterre)",
+      "explication": "La gêne à nommer l'origine des agresseurs a réellement contribué au silence : c'est une faute que l'antiracisme ne doit jamais servir à couvrir.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'audit national de Louise Casey (juin 2025), dans les données policières les mieux renseignées (Grand Manchester, South Yorkshire, West Yorkshire), les hommes d'origine asiatique sont surreprésentés parmi les auteurs d'exploitation sexuelle en groupe ; à Rotherham, près des deux tiers des auteurs identifiés par l'enquête Stovewood étaient d'origine pakistanaise.",
+      "periode": "2025",
+      "perimetre": "Angleterre",
+      "explication": "La surreprésentation dans ces dossiers est documentée : la nier fait le jeu de ceux qui crient à la censure.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le même audit, l'origine des auteurs n'est toujours pas enregistrée pour les deux tiers d'entre eux au niveau national, ce qui empêche toute conclusion nationale ; le document du Home Office de 2020 relevait déjà que la recherche sur ce point « s'appuie sur des données de mauvaise qualité ».",
+      "periode": "2020-2025",
+      "perimetre": "Angleterre et pays de Galles",
+      "explication": "Personne ne peut dire sérieusement quelle part de ces crimes est commise par des hommes d'origine pakistanaise dans tout le pays.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'audit Casey, environ 500 000 enfants par an sont probablement victimes de violences sexuelles, toutes formes confondues, alors qu'environ 700 infractions d'exploitation sexuelle en groupe ont été enregistrées en 2023 ; 76 % des auteurs d'exploitation sexuelle sont des hommes.",
+      "periode": "2023",
+      "perimetre": "Angleterre",
+      "explication": "Les réseaux de rue ne sont qu'une partie du problème : la plupart des violences sexuelles sur enfants sont commises en dehors de ces réseaux.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "500 000"
+    },
+    {
+      "fait": "Selon Full Fact, en 2015-2016, 67 % des personnes poursuivies pour des infractions sexuelles sur enfants étaient blanches et 4 % asiatiques ; la part des personnes d'origine asiatique parmi les auteurs d'exploitation en groupe variait de 27 % à 75 % selon les études.",
+      "periode": "2011-2016",
+      "perimetre": "Angleterre et pays de Galles",
+      "explication": "L'agresseur d'enfants n'a pas de couleur : réduire ces crimes à une origine efface la majorité des victimes.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "67 %"
+    },
+    {
+      "fait": "Le gouvernement britannique a accepté en juin 2025 les 12 recommandations de l'audit, annoncé une commission d'enquête nationale indépendante, le réexamen de plus de 800 affaires abandonnées par la police et l'obligation de recueillir l'origine et la nationalité des auteurs.",
+      "periode": "2025-2026",
+      "perimetre": "Royaume-Uni",
+      "explication": "Le scandale n'est plus caché : il fait l'objet d'enquêtes officielles, ce qui permet de juger les coupables et de protéger les victimes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "800"
+    },
+    {
+      "fait": "Selon Full Fact (juillet 2026), le chiffre de « 250 000 victimes » de « rape gangs » avancé par le député Rupert Lowe est une estimation fondée sur des hypothèses non prouvées ; l'audit de 2025 indique qu'il n'existe pas d'étude récente sur la prévalence de ces violences.",
+      "periode": "2026",
+      "perimetre": "Royaume-Uni",
+      "explication": "Les chiffres gonflés qui circulent ne reposent sur aucune donnée solide.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "250 000"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les crimes sont réels : au moins 1 400 enfants exploités à Rotherham entre 1997 et 2013, des auteurs souvent d'origine pakistanaise dans les dossiers les mieux documentés, et des autorités qui ont détourné le regard. Mais tout cela est public depuis 2014, une enquête nationale est lancée, et ces réseaux ne sont qu'une petite partie des violences sexuelles sur enfants, commises surtout par des hommes de toutes origines.",
+    "moyen": "Le scandale est réel et grave. À Rotherham, au moins 1 400 enfants ont été exploités sexuellement entre 1997 et 2013, selon le rapport d'Alexis Jay, qui dénonce des défaillances « flagrantes » et des agents gênés de nommer l'origine des auteurs par peur d'être jugés racistes. L'audit national de Louise Casey (2025) confirme, dans les données policières les mieux tenues, une surreprésentation d'hommes d'origine asiatique, surtout pakistanaise, parmi les auteurs de ces réseaux.\n\nMais « on l'a caché » n'est plus vrai : rapports, procès, puis en 2025 une commission d'enquête nationale et le réexamen de plus de 800 affaires. Et l'origine des auteurs n'est pas connue pour les deux tiers d'entre eux au niveau national. Surtout, environ 500 000 enfants par an seraient victimes de violences sexuelles, selon l'audit, quand environ 700 infractions d'exploitation en groupe ont été enregistrées en 2023 : la grande majorité des agresseurs ne relève pas de ces réseaux, et les poursuites visent majoritairement des hommes blancs.",
+    "detaille": "Il faut d'abord reconnaître les faits. Selon le rapport d'Alexis Jay publié en 2014, au moins 1 400 enfants ont été exploités sexuellement à Rotherham entre 1997 et 2013, avec des viols commis par plusieurs agresseurs. Les élus et les services ont failli de façon « flagrante », la police ne faisait pas de ces crimes une priorité, et plusieurs agents ont reconnu leur gêne à identifier l'origine des auteurs, par peur d'être jugés racistes. Dans d'autres villes, des affaires similaires ont suivi.\n\nSur l'origine des auteurs, l'audit national de Louise Casey (juin 2025) est nuancé. Il constate que, dans les données de police les mieux renseignées (Grand Manchester, South Yorkshire, West Yorkshire), les hommes d'origine asiatique sont surreprésentés parmi les auteurs d'exploitation sexuelle en groupe ; à Rotherham, près des deux tiers des auteurs identifiés étaient d'origine pakistanaise. Mais au niveau national, l'origine n'est pas enregistrée pour les deux tiers des auteurs, ce qui interdit toute conclusion générale. Le gouvernement conservateur reconnaissait déjà en 2020 que les données étaient de mauvaise qualité.\n\nCes réseaux ne résument pas les violences sexuelles sur enfants. Selon l'audit, environ 500 000 enfants par an en seraient victimes, sous toutes leurs formes, alors qu'environ 700 infractions d'exploitation en groupe ont été enregistrées en 2023. Selon Full Fact, 67 % des personnes poursuivies pour des infractions sexuelles sur enfants en 2015-2016 étaient blanches. Les chiffres spectaculaires qui circulent, comme les « 250 000 victimes » avancées par un député d'extrême droite, reposent sur des hypothèses non prouvées.\n\nEnfin, le sujet n'est plus caché : le gouvernement a accepté en 2025 les 12 recommandations de l'audit, lancé une commission d'enquête nationale, prévu de réexaminer plus de 800 affaires abandonnées et rendu obligatoire le recueil de l'origine des auteurs. La position de gauche est claire : nommer les faits, punir les coupables quelle que soit leur origine, et ne pas transformer le crime de quelques-uns en accusation contre tous les Pakistanais ou tous les musulmans, ce qui n'aide aucune victime.",
+    "empathie": "Apprendre que des enfants ont été violés pendant des années pendant que les adultes chargés de les protéger détournaient le regard provoque une colère légitime. Cette colère mérite des faits précis, pas des généralisations."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est la preuve que les Pakistanais, ou les musulmans, sont des violeurs.",
+      "reponse": "Ce sont des criminels précis, condamnés pour leurs actes. Selon les données citées par Full Fact, les deux tiers des personnes poursuivies pour violences sexuelles sur enfants étaient blanches : l'agresseur d'enfants n'a pas d'origine."
+    },
+    {
+      "objection": "La gauche a tout étouffé au nom de l'antiracisme.",
+      "reponse": "Les défaillances ont duré de 1997 à 2013 et touchaient les élus, les services et la police, selon le rapport Jay ; la gêne à nommer l'origine des auteurs est documentée. Elle est inacceptable : l'antiracisme consiste à juger chacun sur ses actes, y compris les coupables."
+    },
+    {
+      "objection": "Il y a eu des centaines de milliers de victimes.",
+      "reponse": "Selon Full Fact, le chiffre de 250 000 repose sur des hypothèses non prouvées ; il n'existe pas d'étude récente sur la prévalence. Les faits établis sont déjà assez graves sans les gonfler."
+    }
+  ],
+  "questions": [
+    "Est-ce que tu veux protéger les enfants de tous les agresseurs, ou seulement de ceux d'une certaine origine ?",
+    "Qu'est-ce qui a vraiment permis à ces crimes de durer : l'origine des auteurs, ou le mépris des institutions pour des adolescentes de milieux populaires ?"
+  ],
+  "limites": [
+    "Le rapport d'Alexis Jay n'a pas été ouvert directement : il est cité à travers une note de synthèse du LGiU (2014).",
+    "L'audit Casey (plus de 500 000 caractères) n'a été lu qu'en partie, en anglais, à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "Les chiffres de Full Fact sur l'ensemble des infractions sexuelles datent de 2011 à 2016.",
+    "Le chiffre de 500 000 enfants par an est une estimation de l'audit pour toutes les formes de violences sexuelles, non une mesure.",
+    "Aucun article de la BBC, de Reuters ou du Monde n'a pu être ouvert sur ce sujet."
+  ],
+  "sources": [
+    {
+      "titre": "National Audit on Group-based Child Sexual Exploitation and Abuse",
+      "organisme": "Louise Casey pour le ministère de l’Intérieur britannique (Home Office), gov.uk",
+      "date_publication": "16 juin 2025",
+      "url": "https://assets.publishing.service.gov.uk/media/685559d05225e4ed0bf3ce54/National_Audit_on_Group-based_Child_Sexual_Exploitation_and_Abuse.pdf",
+      "passage": "L'origine des auteurs « is shied away from and is still not recorded for two-thirds of perpetrators » ; les données nationales ne permettent pas de conclusions au niveau national. Mais dans les données de police du Grand Manchester, du South Yorkshire et du West Yorkshire, mieux renseignées, « there has been a disproportionality of group-based child sexual exploitation offending by men of Asian ethnicity ». À Rotherham (opération Stovewood), « nearly two-thirds of offenders were from a Pakistani ethnic background ». « Around 500,000 children a year are likely to experience child sexual abuse » ; environ 700 infractions d'exploitation sexuelle en groupe ont été enregistrées en 2023 ; « Most perpetrators are men (76% in 2023) », les victimes d'exploitation sexuelle sont à 78 % des filles. L'audit cite le document du Home Office de 2020 selon lequel « research on offender ethnicity is limited and tends to rely on poor quality data ».",
+      "pertinence": "Audit indépendant commandé par le gouvernement britannique (lu en anglais, partiellement, à travers un outil qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Government response to the National Audit on Group-based Child Sexual Exploitation and Abuse report",
+      "organisme": "Gouvernement britannique, ministère de l’Intérieur (Home Office), gov.uk",
+      "date_publication": "16 juin 2025 (mis à jour le 15 janvier 2026)",
+      "url": "https://www.gov.uk/government/publications/national-audit-on-group-based-child-sexual-exploitation-and-abuse/government-response-to-the-national-audit-on-group-based-child-sexual-exploitation-and-abuse-report",
+      "passage": "« We will therefore accept all 12 recommendations » ; le gouvernement « will establish a national inquiry under the Inquiries Act », l'Independent Commission on Grooming Gangs ; réexamen de « over 800 grooming gangs cases that were originally dropped by the police » ; « We will make it a requirement for the police to collect ethnicity and nationality data of perpetrators of group-based CSE. »",
+      "pertinence": "Réponse officielle du gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Priti Patel publishes paper on group-based child sexual exploitation",
+      "organisme": "Ministère de l’Intérieur britannique (Home Office), gov.uk",
+      "date_publication": "15 décembre 2020",
+      "url": "https://www.gov.uk/government/news/priti-patel-publishes-paper-on-group-based-child-sexual-exploitation",
+      "passage": "« Some studies have indicated an over-representation of Asian and Black offenders », mais la recherche est limitée et les données faibles. Les auteurs sont surtout des hommes, souvent de moins de 30 ans, de milieux sociaux variés ; les motivations sont diverses (gain financier, gratification sexuelle, misogynie). Priti Patel : « This paper demonstrates how difficult it has been to draw conclusions about the characteristics of offenders. »",
+      "pertinence": "Communiqué officiel du gouvernement britannique (conservateur).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Child Sexual Exploitation in Rotherham — briefing sur le rapport d'Alexis Jay",
+      "organisme": "LGiU (Local Government Information Unit), résumé du rapport indépendant remis au conseil de Rotherham",
+      "date_publication": "10 septembre 2014 (rapport publié le 26 août 2014)",
+      "url": "https://content.govdelivery.com/attachments/UKLGIU/2014/09/11/file_attachments/323357/Child+Sexual+Exploitation+in+Rotherham+-+Alexis+Jay+report.pdf",
+      "passage": "Selon le rapport Jay, « a conservative estimate of 1,400 children were sexually exploited over the full Inquiry period from 1997 to 2013 », y compris par des viols commis par plusieurs auteurs ; « the collective failures of political and officer leadership were blatant » ; la police « gave no priority to CSE ». « Several staff described their nervousness about identifying the ethnic origins of perpetrators » par peur d'être jugés racistes ; « by far the majority of the perpetrators were described as 'Asian' by victims ».",
+      "pertinence": "Note d'un organisme d'information des collectivités locales résumant le rapport ; le rapport lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "What do we know about the ethnicity of people involved in sexual offences against children?",
+      "organisme": "Full Fact",
+      "date_publication": "6 septembre 2017 (mis à jour le 22 octobre 2018)",
+      "url": "https://fullfact.org/crime/what-do-we-know-about-ethnicity-people-involved-sexual-offences-against-children/",
+      "passage": "Selon les études, la part des personnes d'origine asiatique parmi les auteurs d'exploitation sexuelle en groupe varie « anywhere from 27% to 75% », et le CEOP jugeait les données trop incohérentes pour des conclusions nationales. Pour l'ensemble des infractions sexuelles sur enfants poursuivies par le parquet (CPS) en 2015-2016, 67 % des prévenus étaient blancs et 4 % asiatiques ; en 2011, près de 85 % des personnes condamnées pour activité sexuelle avec un mineur étaient blanches.",
+      "pertinence": "Organisme britannique de vérification des faits ; données anciennes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "250,000 'rape gang' victims figure not reliably calculated",
+      "organisme": "Full Fact",
+      "date_publication": "23 juillet 2026",
+      "url": "https://fullfact.org/crime/250000-rape-gangs-rupert-lowe/",
+      "passage": "Le chiffre de 250 000 victimes avancé par le député Rupert Lowe (Restore Britain) est « an estimate derived from unevidenced assumptions » ; il extrapole à tout le pays les taux de quelques villes. L'audit de juin 2025 indique : « There is no recent study of the prevalence of child sexual abuse and exploitation in the population. »",
+      "pertinence": "Organisme britannique de vérification des faits.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "What is the Casey report on UK 'grooming gangs', and why did Labour U-turn?",
+      "organisme": "Al Jazeera",
+      "date_publication": "17 juin 2025",
+      "url": "https://www.aljazeera.com/news/2025/6/17/what-is-the-casey-report-on-uk-grooming-gangs-and-why-did-labour-u-turn",
+      "passage": "Le rapport Casey relève « an institutional failure to protect children and teenage girls from rape, exploitation and serious violence » ; des affaires ont été abandonnées ou requalifiées parce qu'une victime de 13 à 15 ans était perçue comme « in love with » l'agresseur. Le gouvernement avait « resisted months of calls for an inquiry » ; en janvier 2025, Elon Musk a soutenu le militant d'extrême droite Tommy Robinson et ses messages ont poussé le sujet « up the political agenda ».",
+      "pertinence": "Média international.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Travaux de la commission d'enquête nationale britannique et premières données nationales sur l'origine des auteurs.",
+  "objections_legitimes": [
+    "Les autorités locales et la police ont gravement failli, et des victimes n'ont pas été crues.",
+    "La peur d'être accusé de racisme a réellement freiné certains agents, selon le rapport Jay.",
+    "Dans les dossiers les mieux documentés, les auteurs d'origine pakistanaise sont surreprésentés, selon l'audit de 2025."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : à Rotherham, au moins 1 400 enfants ont été exploités et les autorités ont détourné le regard, parfois par peur d'être traitées de racistes. Mais regarde aussi le reste : selon les données citées par Full Fact, les deux tiers des personnes poursuivies pour violences sexuelles sur enfants en 2015-2016 étaient blanches. Si on ne vise qu'une origine, on laisse tomber la plupart des victimes.",
+    "indecis": "Les crimes sont réels et les institutions ont failli : c'est établi par des rapports officiels. Depuis 2025, une commission d'enquête nationale existe et l'origine des auteurs doit être enregistrée. Mais ces réseaux sont une petite partie des violences sexuelles sur enfants : protéger les enfants, c'est poursuivre tous les agresseurs, quelle que soit leur origine."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "egalite_fh",
+      "antiracisme",
+      "dignite"
+    ],
+    "mecanismes": "Des crimes réels et des défaillances institutionnelles graves sont transformés en accusation contre toute une population, ce qui efface la majorité des victimes d’agresseurs de toutes origines et le mépris des institutions pour des adolescentes de milieux populaires.",
+    "consequences": "Quand on ne regarde qu’une origine, on protège moins bien les enfants ; quand on refuse de nommer les faits par peur d’être accusé de racisme, on abandonne les victimes et on offre un argument à l’extrême droite.",
+    "democratie": "La vérité est sortie par des enquêtes indépendantes, des rapports publics et une commission nationale : c’est la transparence des institutions, et non la stigmatisation, qui permet de rendre justice.",
+    "propositions": [
+      "Enregistrer systématiquement les caractéristiques des auteurs et publier des données fiables, pour juger sur des faits et non sur des rumeurs.",
+      "Financer des services de protection de l’enfance, de police spécialisée et d’accompagnement des victimes capables de croire et de protéger les adolescentes.",
+      "Poursuivre tous les agresseurs d’enfants, quelle que soit leur origine, et former les professionnels à ne jamais laisser la peur d’une accusation de racisme couvrir un crime."
+    ],
+    "defavorables": [
+      {
+        "fait": "Dans les données policières les mieux renseignées, les hommes d’origine asiatique, surtout pakistanaise, sont surreprésentés parmi les auteurs d’exploitation sexuelle en groupe, et des agents ont hésité à nommer leur origine par peur d’être jugés racistes.",
+        "integration": "L’antiracisme consiste à juger chacun sur ses actes : nommer l’origine de criminels condamnés n’est pas raciste, accuser toute une communauté de leurs crimes l’est."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "grooming_gangs_q2013",
+      "label": "Gangs de pédocriminels au Royaume-Uni"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "rotherham",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ],
+  "concepts": [
+    "grooming_gangs",
+    "delinquance"
+  ]
+}

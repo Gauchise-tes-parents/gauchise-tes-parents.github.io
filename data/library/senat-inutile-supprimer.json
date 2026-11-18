@@ -244,11 +244,6 @@
       }
     ]
   },
-  "concepts": [
-    "senat_suppr",
-    "patriotisme",
-    "cout"
-  ],
   "repond_a": [
     {
       "id": "senat_suppr_q1215",
@@ -269,5 +264,10 @@
     "finances publiques",
     "pognon",
     "nos impots"
+  ],
+  "concepts": [
+    "senat_suppr",
+    "patriotisme",
+    "cout"
   ]
 }

@@ -206,16 +206,6 @@
       }
     ]
   },
-  "concepts": [
-    "cantine_gratuite",
-    "prestations",
-    "pauvrete",
-    "services_publics",
-    "melenchon_lfi",
-    "gauche",
-    "cout",
-    "cantine"
-  ],
   "repond_a": [
     {
       "id": "cantine_gratuite_q1215",
@@ -236,5 +226,15 @@
     "aide medicale",
     "qui profitent",
     "droit a tout"
+  ],
+  "concepts": [
+    "cantine_gratuite",
+    "prestations",
+    "pauvrete",
+    "services_publics",
+    "melenchon_lfi",
+    "gauche",
+    "cout",
+    "cantine"
   ]
 }

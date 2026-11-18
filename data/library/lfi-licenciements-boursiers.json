@@ -1,0 +1,257 @@
+{
+  "id": "lfi-licenciements-boursiers",
+  "type": "idee_recue",
+  "affirmation": "LFI veut interdire les licenciements boursiers, c'est impossible.",
+  "volet": "politique",
+  "sous_theme": "France insoumise",
+  "rubriques": [],
+  "mots_cles": [
+    "licenciements boursiers",
+    "interdire licenciements",
+    "lfi licenciements",
+    "michelin auchan licenciements",
+    "conseil constitutionnel licenciement",
+    "liberte d entreprendre",
+    "licenciement economique dividendes",
+    "loi florange",
+    "plans sociaux benefices"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Question d'appréciation. Ce n'est pas « impossible », mais c'est juridiquement délicat. En 2002, le Conseil constitutionnel a censuré une définition trop restrictive du licenciement économique, au nom de la liberté d'entreprendre, tout en reconnaissant que le législateur peut la limiter pour garantir le droit à l'emploi. Une interdiction doit donc être rédigée de façon proportionnée, ou passer par une révision de la Constitution. LFI, les communistes et les écologistes ont déposé des propositions en ce sens après les plans de Michelin et Auchan en 2024.",
+  "contexte": "En novembre 2024, Michelin a annoncé la fermeture de deux usines (1 254 salariés) et Auchan un plan menaçant 2 389 emplois, alors que Michelin restait très bénéficiaire. La gauche a relancé l'idée d'interdire les licenciements dans les entreprises qui versent des dividendes ; ses adversaires répondent que c'est inconstitutionnel.",
+  "explication": "On distingue ce que dit aujourd'hui le code du travail, ce que le Conseil constitutionnel a jugé en 2002 et 2014, ce que proposent les textes déposés à gauche, et ce qui relève du choix politique.",
+  "faits": [
+    {
+      "fait": "Selon l'article L1233-3 du code du travail, un licenciement économique peut notamment résulter d'une « réorganisation de l'entreprise nécessaire à la sauvegarde de sa compétitivité », et dans un groupe les difficultés s'apprécient au niveau des entreprises établies en France.",
+      "periode": "en vigueur en 2026",
+      "perimetre": "France",
+      "explication": "Le droit actuel permet à un groupe très rentable au niveau mondial de licencier en France au nom de sa compétitivité.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, en novembre 2024, Michelin a annoncé la fermeture des sites de Cholet et Vannes (1 254 salariés) et Auchan un projet de plan social menaçant 2 389 emplois.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Ces annonces ont relancé le débat sur les licenciements dans des entreprises rentables.",
+      "source": 7,
+      "fiabilite": "etabli",
+      "chiffre": "1 254"
+    },
+    {
+      "fait": "Fait défavorable : selon la décision n° 2001-455 DC du Conseil constitutionnel, une définition qui ne permettait de licencier que si la pérennité de l'entreprise était en cause portait une « atteinte manifestement excessive » à la liberté d'entreprendre ; l'article de loi a été censuré.",
+      "periode": "2002",
+      "perimetre": "France",
+      "explication": "Une interdiction trop large serait très probablement censurée : l'objection juridique est sérieuse.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la même décision, le législateur peut apporter des limitations à la liberté d'entreprendre pour garantir le droit d'obtenir un emploi, à condition de ne pas porter une « atteinte disproportionnée au regard de l'objectif poursuivi ».",
+      "periode": "2002",
+      "perimetre": "France",
+      "explication": "Le Conseil n'interdit pas tout encadrement : il exige une mesure proportionnée. Tout dépend de la rédaction.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Conseil constitutionnel, la loi « Florange » de 2014 a été partiellement censurée : l'obligation d'accepter une offre de reprise sérieuse et la pénalité pour défaut de recherche d'un repreneur ont été jugées disproportionnées, mais l'obligation d'informer les repreneurs a été validée.",
+      "periode": "2014",
+      "perimetre": "France",
+      "explication": "Le Conseil laisse passer certaines contraintes sur les fermetures de sites et en censure d'autres : la marge existe mais elle est étroite.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la proposition de loi n° 694 déposée le 3 décembre 2024 par des députés du groupe Gauche démocrate et républicaine (GDR), un licenciement économique serait réputé sans cause réelle et sérieuse si l'employeur a réalisé des bénéfices ou versé des dividendes au cours des deux derniers exercices.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La gauche ne propose pas d'interdire tout licenciement, mais de priver de motif économique les entreprises qui distribuent des profits.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un amendement du groupe La France insoumise au budget de la Sécurité sociale pour 2026, rejeté, les entreprises de plus de 500 salariés licenciant après des bénéfices ou des dividendes auraient payé une surcotisation patronale de 10 % pendant douze mois, présentée comme un minimum « à défaut d'interdiction ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "LFI propose aussi des mesures de dissuasion financière, plus faciles à défendre devant le Conseil constitutionnel qu'une interdiction pure.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "10 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Ce n'est pas impossible, mais c'est juridiquement délicat. En 2002, le Conseil constitutionnel a censuré une définition trop restrictive du licenciement économique, tout en admettant qu'on peut limiter la liberté d'entreprendre pour protéger l'emploi. Une interdiction doit donc être proportionnée, ou passer par une révision de la Constitution.",
+    "moyen": "Aujourd'hui, un groupe très rentable peut licencier en France au nom de la « sauvegarde de sa compétitivité ». En novembre 2024, Michelin a annoncé la fermeture de deux usines (1 254 salariés) et Auchan un plan menaçant 2 389 emplois. La gauche propose d'empêcher ces licenciements quand l'entreprise verse des dividendes : propositions de loi du groupe GDR et de députés écologistes, amendement LFI de surcotisation.\n\nL'objection juridique est sérieuse : en 2002, le Conseil constitutionnel a censuré une définition qui ne permettait de licencier que si la survie de l'entreprise était menacée, jugée « manifestement excessive » pour la liberté d'entreprendre. Mais la même décision reconnaît que le législateur peut limiter cette liberté pour garantir le droit à l'emploi. Une rédaction ciblée et proportionnée, ou une révision constitutionnelle, rendraient la mesure possible.",
+    "detaille": "Le code du travail autorise le licenciement économique en cas de difficultés caractérisées, de mutations technologiques, de cessation d'activité ou de « réorganisation de l'entreprise nécessaire à la sauvegarde de sa compétitivité ». Dans un groupe, les difficultés s'apprécient au niveau des entreprises implantées en France. Un groupe peut donc être très rentable au niveau mondial et fermer des sites français. En novembre 2024, Michelin a annoncé la fermeture de Cholet et Vannes, qui comptaient 1 254 salariés, et Auchan un plan menaçant 2 389 emplois ; selon l'exposé des motifs d'une proposition de loi, Michelin avait dégagé plus de 2,6 milliards d'euros de bénéfice net en 2023.\n\nLa gauche a déposé plusieurs textes. La proposition n° 694 du groupe Gauche démocrate et républicaine rendrait sans cause réelle et sérieuse un licenciement économique dans une entreprise ayant fait des bénéfices ou versé des dividendes sur deux ans. La proposition n° 671, déposée par Benjamin Lucas-Lundy et d'autres députés de gauche, viserait les entreprises d'au moins 200 salariés ayant versé des dividendes. LFI a interrogé le gouvernement sur l'interdiction des licenciements boursiers et proposé, à défaut, une surcotisation patronale de 10 %, rejetée en 2025.\n\nL'argument « c'est impossible » renvoie à la décision du Conseil constitutionnel du 12 janvier 2002. Il a censuré une définition du licenciement économique qui ne permettait de licencier que si la pérennité de l'entreprise était en cause, une « atteinte manifestement excessive » à la liberté d'entreprendre. En 2014, il a aussi censuré une partie de la loi « Florange » sur la reprise des sites. Ces décisions montrent qu'une interdiction générale serait fragile.\n\nMais le Conseil a aussi affirmé que le législateur peut limiter la liberté d'entreprendre pour garantir le droit d'obtenir un emploi, inscrit dans le Préambule de 1946, à condition de rester proportionné. Un dispositif ciblé (seuil de taille, lien avec les dividendes, remboursement des aides publiques, contrôle du juge) aurait plus de chances de passer ; sinon, une révision de la Constitution reste possible. Ce n'est donc pas impossible : c'est un choix politique qui demande une rédaction solide.",
+    "empathie": "Il est compréhensible de penser qu'on ne peut pas empêcher une entreprise de licencier : la liberté d'entreprendre est réelle et protégée. Mais il est tout aussi légitime d'être choqué quand une entreprise très bénéficiaire ferme des usines."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le Conseil constitutionnel l'a déjà interdit.",
+      "reponse": "Il a censuré une rédaction précise en 2002, tout en reconnaissant qu'on peut limiter la liberté d'entreprendre pour protéger l'emploi. Une autre rédaction, plus ciblée, n'a jamais été jugée."
+    },
+    {
+      "objection": "Les entreprises iront ailleurs.",
+      "reponse": "Les fermetures récentes ont lieu malgré des bénéfices élevés ; la question est de savoir si l'argent public et les profits doivent aller aux actionnaires plutôt qu'aux salariés."
+    }
+  ],
+  "questions": [
+    "Trouves-tu normal qu'une entreprise qui verse des centaines de millions de dividendes puisse licencier pour motif économique ?",
+    "Si une mesure est jugée inconstitutionnelle, ne peut-on pas la réécrire ou changer la Constitution, comme on l'a fait plusieurs fois ?"
+  ],
+  "limites": [
+    "Le programme officiel de LFI (L'Avenir en commun) n'a pas pu être ouvert : la position de LFI est établie par une question au gouvernement et un amendement de ses députés.",
+    "Les propositions de loi n° 671 et 694 ne sont pas des textes de LFI ; leur sort en séance n'a pas été vérifié.",
+    "Aucun texte d'interdiction des licenciements boursiers n'a été examiné par le Conseil constitutionnel : la constitutionnalité d'une rédaction ciblée reste une hypothèse.",
+    "Les chiffres de bénéfices et de dividendes de Michelin viennent de l'exposé des motifs d'une proposition de loi, non d'un document de l'entreprise.",
+    "Le texte intégral de la décision de 2002 sur Légifrance n'a pas pu être ouvert ; la version du site du Conseil constitutionnel a été lue."
+  ],
+  "sources": [
+    {
+      "titre": "Décision n° 2001-455 DC du 12 janvier 2002 — Loi de modernisation sociale",
+      "organisme": "Conseil constitutionnel",
+      "date_publication": "12 janvier 2002",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2002/2001455DC.htm",
+      "passage": "Considérant 45 : la liberté d'entreprendre découle de l'article 4 de la Déclaration de 1789 ; le Préambule de 1946 consacre le droit d'obtenir un emploi. Considérant 46 : le législateur peut limiter la liberté d'entreprendre pour garantir le droit d'obtenir un emploi, à condition de ne pas porter une « atteinte disproportionnée au regard de l'objectif poursuivi ». Considérants 48 à 50 : en exigeant une réorganisation « indispensable à la sauvegarde de l'activité de l'entreprise » et des difficultés « n'ayant pu être surmontées par tout autre moyen », la loi ne permettait de licencier que si la pérennité de l'entreprise était en cause, ce qui constitue une « atteinte manifestement excessive » à la liberté d'entreprendre. L'article 107 (définition du licenciement économique) est déclaré contraire à la Constitution.",
+      "pertinence": "Décision de la juridiction constitutionnelle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décision n° 2014-692 DC du 27 mars 2014 — Communiqué de presse (loi visant à reconquérir l'économie réelle, dite « Florange »)",
+      "organisme": "Conseil constitutionnel",
+      "date_publication": "27 mars 2014",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2014-692-dc-du-27-mars-2014-communique-de-presse",
+      "passage": "Le Conseil censure l'obligation d'accepter une offre de reprise sérieuse et la pénalité pour défaut de recherche d'un repreneur, jugée « hors de proportion avec la gravité des manquements réprimés » (jusqu'à vingt fois le Smic mensuel par emploi supprimé) ; il valide en revanche l'obligation d'informer les repreneurs potentiels.",
+      "pertinence": "Communiqué officiel de la juridiction constitutionnelle.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Article L1233-3 du code du travail",
+      "organisme": "Ministère du Travail (Code du travail numérique)",
+      "date_publication": "version en vigueur, consultée le 18 novembre 2026",
+      "url": "https://code.travail.gouv.fr/code-du-travail/l1233-3",
+      "passage": "Le licenciement économique résulte d'une suppression ou transformation d'emploi « consécutives notamment » à des « difficultés économiques caractérisées », des « mutations technologiques », une « réorganisation de l'entreprise nécessaire à la sauvegarde de sa compétitivité » ou la « cessation d'activité de l'entreprise ». Une baisse significative des commandes ou du chiffre d'affaires suffit pendant « quatre trimestres consécutifs pour une entreprise de trois cents salariés et plus ». Dans un groupe, les difficultés s'apprécient au niveau du secteur d'activité commun aux entreprises « établies sur le territoire national ».",
+      "pertinence": "Texte de loi en vigueur.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Amendement n° 1594 au projet de loi de financement de la sécurité sociale pour 2026 (après l'article 8)",
+      "organisme": "Assemblée nationale — M. Bompard et des députés du groupe La France insoumise",
+      "date_publication": "31 octobre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1907/AN/1594.pdf",
+      "passage": "Surcotisation patronale de 10 % pendant douze mois pour les entreprises de plus de 500 salariés qui licencient plus de 10 salariés après avoir versé des dividendes ou dégagé un bénéfice ; l'exposé sommaire, au nom du « groupe parlementaire La France Insoumise », cite Sanofi, Michelin et Auchan, parle de « licenciements boursiers » et présente la mesure comme un minimum à défaut d'interdiction. Sort : rejeté.",
+      "pertinence": "Document parlementaire ; position partisane de LFI.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question au Gouvernement n° 156 — Licenciements boursiers",
+      "organisme": "Assemblée nationale (question de Matthias Tavel, LFI-NFP ; réponse d’Astrid Panosyan-Bouvet, ministre du Travail)",
+      "date_publication": "13 novembre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QG156.pdf",
+      "passage": "Question : « Quand interdirez-vous les licenciements boursiers dans des entreprises qui réalisent pourtant des profits ? » Réponse : il faut « exiger des entreprises l'exemplarité dans les plans de restructuration » ; elles « doivent rendre des comptes en matière d'utilisation des aides publiques ». Aucune interdiction annoncée.",
+      "pertinence": "Compte rendu officiel des questions au Gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi n° 694 visant à encadrer le recours au licenciement économique et à interdire les licenciements dits « boursiers »",
+      "organisme": "Assemblée nationale — Yannick Monnet et des députés du groupe Gauche démocrate et républicaine",
+      "date_publication": "3 décembre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0694_proposition-loi.pdf",
+      "passage": "Article 2 : serait réputé sans cause réelle et sérieuse le licenciement économique prononcé par un employeur ayant réalisé des bénéfices ou distribué des dividendes ou procédé à des rachats d'actions au cours des deux derniers exercices. Article 1er : motif économique restreint à la cessation d'activité, aux difficultés économiques caractérisées et à une réorganisation justifiée par la préservation de l'emploi.",
+      "pertinence": "Texte déposé à l'Assemblée nationale ; position partisane.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi n° 671 visant à interdire les licenciements boursiers",
+      "organisme": "Assemblée nationale — Benjamin Lucas-Lundy et 30 autres députés",
+      "date_publication": "3 décembre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0671_proposition-loi.pdf",
+      "passage": "Pour les entreprises d'au moins 200 salariés, un licenciement ne pourrait être fondé sur le motif économique si l'entreprise a distribué des dividendes au cours de l'exercice écoulé. Exposé des motifs : Michelin, bénéfice net de plus de 2,6 milliards d'euros en 2023 et 1,4 milliard d'euros de dividendes, plan de 1 254 postes (fermetures de Cholet et Vannes) ; Auchan, plan de 2 389 salariés ; affaire LU (2010) : la cour d'appel de Paris a jugé que la seule perspective d'accroître les bénéfices ne constitue pas un motif de licenciement économique.",
+      "pertinence": "Texte déposé à l'Assemblée nationale ; position partisane.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Michelin : « L'enjeu, c'est de retrouver des repreneurs », affirme Marc Ferracci",
+      "organisme": "Public Sénat",
+      "date_publication": "6 novembre 2024",
+      "url": "https://www.publicsenat.fr/actualites/economie/michelin-lenjeu-cest-de-retrouver-des-repreneurs-affirme-marc-ferracci",
+      "passage": "Auchan présente un projet de plan social menaçant 2 389 emplois en France ; Michelin annonce la fermeture, avant 2026, des sites de Cholet et Vannes, qui comptent au total 1 254 salariés.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-05-31",
+  "raison_actualisation": "Programmes de la présidentielle 2027 et éventuel examen d'une proposition de loi sur les licenciements boursiers.",
+  "objections_legitimes": [
+    "Le Conseil constitutionnel a effectivement censuré en 2002 une définition très restrictive du licenciement économique.",
+    "Une entreprise doit pouvoir anticiper des difficultés, ce que le Conseil a souligné.",
+    "Une interdiction mal rédigée pourrait dissuader certaines implantations."
+  ],
+  "publics": {
+    "convaincus": "Tu dis que c'est impossible ? Le Conseil constitutionnel a censuré une rédaction en 2002, mais il a aussi écrit qu'on peut limiter la liberté d'entreprendre pour protéger l'emploi. Quand Michelin ferme deux usines avec 1 254 salariés tout en restant très rentable, la question n'est pas juridique, elle est politique : à qui doit profiter l'entreprise ?",
+    "indecis": "Interdire les licenciements boursiers pose de vraies difficultés juridiques, et le Conseil constitutionnel a déjà censuré une loi trop large. Mais une mesure ciblée sur les entreprises qui versent des dividendes, ou une révision de la Constitution, restent possibles. C'est un débat légitime sur l'équilibre entre liberté d'entreprendre et droit à l'emploi."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "repartition",
+      "democratie",
+      "dignite"
+    ],
+    "mecanismes": "Présenter une proposition comme juridiquement impossible permet d’éviter le débat de fond : pourquoi des entreprises bénéficiaires peuvent licencier tout en rémunérant leurs actionnaires.",
+    "consequences": "Des bassins d’emploi entiers sont frappés par des fermetures de sites rentables, pendant que la collectivité paie le chômage et a souvent financé ces entreprises par des aides publiques.",
+    "democratie": "La Constitution protège à la fois la liberté d’entreprendre et le droit d’obtenir un emploi ; leur équilibre est un choix démocratique, que le Parlement ou le peuple peuvent faire évoluer.",
+    "propositions": [
+      "Priver de motif économique les licenciements dans les grandes entreprises qui versent des dividendes, avec une rédaction proportionnée.",
+      "Exiger le remboursement des aides publiques en cas de licenciements dans une entreprise bénéficiaire.",
+      "Inscrire dans la Constitution un droit à l’emploi opposable et un droit de regard des salariés sur les plans sociaux."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le Conseil constitutionnel a censuré une définition trop restrictive du licenciement économique au nom de la liberté d’entreprendre.",
+        "integration": "Il faut en tenir compte : une interdiction doit être ciblée et proportionnée, ou s’appuyer sur une révision constitutionnelle assumée."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "licenciements_boursiers_q2013",
+      "label": "Licenciements boursiers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise",
+    "nupes",
+    "nfp",
+    "gauche"
+  ],
+  "concepts": [
+    "licenciements_boursiers",
+    "riches_entreprises",
+    "melenchon_lfi",
+    "gauche",
+    "loi_constitution",
+    "conseil_constit"
+  ]
+}

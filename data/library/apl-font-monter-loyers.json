@@ -186,12 +186,6 @@
       }
     ]
   },
-  "concepts": [
-    "apl_loyers",
-    "prestations",
-    "logement",
-    "pouvoir_achat"
-  ],
   "repond_a": [
     {
       "id": "apl_loyers_q1215",
@@ -212,5 +206,11 @@
     "aide medicale",
     "qui profitent",
     "droit a tout"
+  ],
+  "concepts": [
+    "apl_loyers",
+    "prestations",
+    "logement",
+    "pouvoir_achat"
   ]
 }

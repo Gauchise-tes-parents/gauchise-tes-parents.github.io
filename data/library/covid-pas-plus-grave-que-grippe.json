@@ -211,10 +211,6 @@
       }
     ]
   },
-  "concepts": [
-    "covid_grippe",
-    "desinformation"
-  ],
   "repond_a": [
     {
       "id": "covid_grippe_q1215",
@@ -227,5 +223,9 @@
     "desinformation",
     "fake news",
     "manipulation de l information"
+  ],
+  "concepts": [
+    "covid_grippe",
+    "desinformation"
   ]
 }

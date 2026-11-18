@@ -202,10 +202,6 @@
       }
     ]
   },
-  "concepts": [
-    "ogm",
-    "europe"
-  ],
   "repond_a": [
     {
       "id": "ogm_q1215",
@@ -217,5 +213,9 @@
     "nouvelles techniques genomiques",
     "bruxelles",
     "union europeenne"
+  ],
+  "concepts": [
+    "ogm",
+    "europe"
   ]
 }

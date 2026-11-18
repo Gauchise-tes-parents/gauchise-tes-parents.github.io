@@ -209,12 +209,6 @@
       }
     ]
   },
-  "concepts": [
-    "voile_soumission",
-    "islam",
-    "femmes",
-    "feminisme"
-  ],
   "repond_a": [
     {
       "id": "voile_soumission_q1215",
@@ -232,5 +226,11 @@
     "patriarcat",
     "egalite salariale",
     "violences faites aux femmes"
+  ],
+  "concepts": [
+    "voile_soumission",
+    "islam",
+    "femmes",
+    "feminisme"
   ]
 }

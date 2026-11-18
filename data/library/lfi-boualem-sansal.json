@@ -1,0 +1,251 @@
+{
+  "id": "lfi-boualem-sansal",
+  "type": "idee_recue",
+  "affirmation": "LFI n'a pas défendu Boualem Sansal.",
+  "volet": "politique",
+  "sous_theme": "France insoumise",
+  "rubriques": [],
+  "mots_cles": [
+    "lfi boualem sansal",
+    "insoumis sansal",
+    "rima hassan sansal",
+    "lfi vote contre sansal",
+    "manon aubry sansal",
+    "lfi algerie sansal",
+    "resolution sansal parlement europeen",
+    "liberation boualem sansal",
+    "lfi n a pas defendu sansal",
+    "melenchon sansal"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Plutôt exact pour les votes, incomplet pour les déclarations. Aucun élu insoumis n'a voté les deux résolutions réclamant la libération de Boualem Sansal : au Parlement européen en janvier 2025, quatre eurodéputés élus sur la liste LFI ont voté contre, deux se sont abstenus et trois n'ont pas voté ; à l'Assemblée en mai 2025, les 28 voix contre venaient toutes du groupe LFI. Mais des responsables insoumis ont dit réclamer sa libération, en refusant ce qu'ils appelaient une « instrumentalisation par l'extrême droite ». Socialistes et écologistes ont, eux, voté ces textes.",
+  "contexte": "L'écrivain franco-algérien Boualem Sansal a été arrêté en Algérie le 16 novembre 2024, condamné à cinq ans de prison, puis gracié le 12 novembre 2025 à la demande de l'Allemagne. Son affaire est devenue un enjeu de la crise entre Paris et Alger et un sujet de polémique contre LFI.",
+  "explication": "On regarde précisément qui a voté quoi, d'après les votes nominatifs, puis ce que les responsables insoumis ont déclaré, et comment le reste de la gauche s'est positionné.",
+  "faits": [
+    {
+      "fait": "Le 23 janvier 2025, le Parlement européen a adopté par 533 voix contre 24 (48 abstentions) une résolution demandant la « libération immédiate et inconditionnelle » de Boualem Sansal, arrêté le 16 novembre 2024.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "La résolution a été votée très largement, toutes familles politiques confondues.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "533 voix"
+    },
+    {
+      "fait": "Fait défavorable : selon les votes nominatifs publiés par HowTheyVote.eu, parmi les neuf eurodéputés élus sur la liste LFI selon Toute l'Europe, Emma Fourreau, Rima Hassan, Arash Saeidi et Anthony Smith ont voté contre, Manon Aubry et Younous Omarjee se sont abstenus, et Damien Carême, Leila Chaibi et Marina Mesure n'ont pas voté.",
+      "periode": "janvier 2025",
+      "perimetre": "Union européenne",
+      "explication": "Aucun élu LFI n'a voté pour la résolution : sur ce point, l'affirmation est exacte.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : le 6 mai 2025, l'Assemblée nationale a adopté par 307 voix contre 28 la résolution appelant à la « libération immédiate et inconditionnelle » de Boualem Sansal ; les 28 voix contre venaient toutes du groupe La France insoumise, tandis que socialistes (39) et écologistes (18) votaient pour et que 4 députés du groupe Gauche démocrate et républicaine s'abstenaient.",
+      "periode": "mai 2025",
+      "perimetre": "France",
+      "explication": "LFI est le seul groupe à avoir voté contre ; les autres groupes de gauche n'ont pas fait ce choix.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "28 contre"
+    },
+    {
+      "fait": "La résolution adoptée à l'Assemblée ne se limitait pas à la libération : elle demandait aussi que cette libération soit « une exigence préalable » dans les discussions sur l'accord d'association entre l'UE et l'Algérie, et la nomination de Sansal comme ambassadeur de la francophonie.",
+      "periode": "mai 2025",
+      "perimetre": "France",
+      "explication": "Le texte comportait des volets diplomatiques et symboliques ; les raisons précises du vote insoumis sur ce texte n'ont pas été lues.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'AFP, en mars 2025, Mathilde Panot disait vouloir « réclamer à nouveau sa libération » en rejetant « toute instrumentalisation au service de l'extrême droite » ; Manon Aubry justifiait son abstention de janvier par une « instrumentalisation par l'extrême droite » destinée à « nourrir une escalade diplomatique ».",
+      "periode": "mars 2025",
+      "perimetre": "France",
+      "explication": "LFI affirmait défendre la libération de Sansal tout en refusant les textes qu'elle jugeait instrumentalisés : la position est contestable, mais ce n'est pas un silence total.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la même dépêche de l'AFP, le PS dénonçait aussi l'instrumentalisation de « cette injustice manifeste », mais le politologue Jean-Yves Camus jugeait que « c'est une erreur de pratiquer la politique du vide » et que « ce qui est à défendre c'est la liberté d'expression ».",
+      "periode": "mars 2025",
+      "perimetre": "France",
+      "explication": "Critiquer l'instrumentalisation n'empêchait pas de voter pour la libération d'un écrivain emprisonné, comme l'ont fait les autres partis de gauche.",
+      "source": 5,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Le 12 novembre 2025, Boualem Sansal, 76 ans, condamné en appel à cinq ans de réclusion, a été gracié par le président algérien à la demande du président allemand ; le député insoumis Matthias Tavel a alors réagi : « La place des écrivains et des journalistes n'est pas en prison ».",
+      "periode": "novembre 2025",
+      "perimetre": "France et Algérie",
+      "explication": "C'est la diplomatie allemande, discrète, qui a obtenu la libération ; des insoumis ont salué la grâce sur le principe de la liberté d'expression.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "76 ans"
+    }
+  ],
+  "argumentaires": {
+    "court": "Pour les votes, c'est exact : aucun élu insoumis n'a voté les résolutions pour la libération de Boualem Sansal, ni au Parlement européen (4 contre, 2 abstentions, 3 non-votants) ni à l'Assemblée (les 28 voix contre étaient insoumises). Mais des responsables LFI ont dit réclamer sa libération, en refusant une « instrumentalisation par l'extrême droite ». Socialistes et écologistes, eux, ont voté ces textes.",
+    "moyen": "Les votes sont clairs. Le 23 janvier 2025, le Parlement européen a demandé la libération immédiate de Boualem Sansal par 533 voix contre 24. Parmi les neuf eurodéputés élus sur la liste LFI, quatre ont voté contre, Manon Aubry et Younous Omarjee se sont abstenus et trois n'ont pas voté. Le 6 mai 2025, l'Assemblée nationale a adopté une résolution similaire par 307 voix contre 28 : les 28 voix contre venaient toutes du groupe insoumis, alors que socialistes et écologistes votaient pour.\n\nLFI dit pourtant avoir défendu sa libération. En mars 2025, Mathilde Panot voulait « réclamer à nouveau sa libération » tout en rejetant « toute instrumentalisation au service de l'extrême droite », et Manon Aubry expliquait son abstention par la volonté de ne pas « nourrir une escalade diplomatique ». À sa grâce, en novembre 2025, le député Matthias Tavel a salué que « la place des écrivains et des journalistes n'est pas en prison ». On peut juger que refuser ces votes était une erreur, comme le pensait le politologue Jean-Yves Camus ; dire que LFI n'a rien dit serait inexact.",
+    "detaille": "Boualem Sansal, écrivain franco-algérien, a été arrêté en Algérie le 16 novembre 2024 et poursuivi au titre de l'article 87 bis du code pénal algérien, souvent utilisé contre les critiques du pouvoir. Condamné à cinq ans de prison, peine confirmée en appel en juillet 2025, il a été gracié le 12 novembre 2025 par le président Tebboune, à la demande du président allemand Frank-Walter Steinmeier.\n\nSur les votes, l'affirmation est fondée. Le 23 janvier 2025, le Parlement européen a adopté par 533 voix contre 24 et 48 abstentions une résolution demandant sa « libération immédiate et inconditionnelle ». Selon les votes nominatifs, parmi les neuf eurodéputés élus sur la liste LFI, Emma Fourreau, Rima Hassan, Arash Saeidi et Anthony Smith ont voté contre, Manon Aubry et Younous Omarjee se sont abstenus, et Damien Carême, Leila Chaibi et Marina Mesure n'ont pas voté. Le 6 mai 2025, l'Assemblée nationale a adopté par 307 voix contre 28 une résolution appelant à sa libération : les 28 voix contre étaient celles de députés insoumis. Les socialistes et les écologistes ont voté pour ; quatre députés du groupe Gauche démocrate et républicaine se sont abstenus.\n\nSur les déclarations, la réalité est plus nuancée. Selon l'AFP, Mathilde Panot disait en mars 2025 vouloir « réclamer à nouveau sa libération » en refusant « toute instrumentalisation au service de l'extrême droite », et l'entourage de Manuel Bompard assurait que LFI avait pris position « à de multiples reprises » pour sa libération. Manon Aubry justifiait son abstention par le refus de « nourrir une escalade diplomatique ». Les textes votés comportaient d'ailleurs des volets diplomatiques, comme le lien avec l'accord d'association entre l'UE et l'Algérie.\n\nOn peut défendre une ligne de gauche cohérente sans réécrire les faits : la liberté d'expression d'un écrivain emprisonné se défend sans condition, qu'on partage ou non ses idées. Le Parti socialiste dénonçait lui aussi l'instrumentalisation de l'affaire, tout en votant pour sa libération. C'est ce que reprochait le politologue Jean-Yves Camus à LFI : « C'est une erreur de pratiquer la politique du vide. » L'affirmation est donc exacte sur les votes, mais ignore que des insoumis ont, en paroles, réclamé sa libération.",
+    "empathie": "Voir un écrivain de 76 ans emprisonné pour ses propos choque légitimement, et on attend de la gauche qu'elle défende la liberté d'expression partout. Il est normal de demander des comptes sur ses votes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "LFI soutient le régime algérien contre Sansal.",
+      "reponse": "Les responsables insoumis disaient réclamer sa libération, selon l'AFP ; ils ont refusé des textes qu'ils jugeaient instrumentalisés par l'extrême droite. On peut juger ce choix mauvais, mais aucune source lue ne montre un soutien à son emprisonnement."
+    },
+    {
+      "objection": "Toute la gauche a lâché Sansal.",
+      "reponse": "Faux : à l'Assemblée, socialistes et écologistes ont voté pour sa libération, quatre députés du groupe Gauche démocrate et républicaine se sont abstenus ; les 28 voix contre venaient de LFI."
+    },
+    {
+      "objection": "Les insoumis se sont tus jusqu'au bout.",
+      "reponse": "Des insoumis se sont exprimés, comme Mathilde Panot en mars 2025 ou Matthias Tavel lors de sa grâce. Le problème tient à leurs votes, pas à un silence total."
+    }
+  ],
+  "questions": [
+    "Peut-on refuser un texte parce qu'on n'aime pas ceux qui le portent, quand il s'agit de la liberté d'un prisonnier ?",
+    "Défendre la liberté d'expression d'un écrivain, est-ce partager ses idées ?"
+  ],
+  "limites": [
+    "Le détail nominatif du vote européen vient de HowTheyVote.eu, site de données ouvertes, et non directement du procès-verbal du Parlement européen ; ses totaux concordent avec le résumé officiel (533 pour, 24 contre, 48 abstentions).",
+    "La page détaillée du scrutin n° 1570 sur le site de l'Assemblée n'a pas pu être ouverte ; le vote a été lu dans l'annexe officielle du compte rendu de séance.",
+    "Les explications de vote des députés insoumis sur la résolution de mai 2025 n'ont pas été lues : aucune motivation ne leur est attribuée pour ce vote.",
+    "Les déclarations de Jean-Luc Mélenchon sur Sansal n'ont pas été lues et ne sont pas citées.",
+    "L'article de l'AFP de mars 2025 a été lu dans sa reprise par The Times of Israel."
+  ],
+  "sources": [
+    {
+      "titre": "Résolution sur le cas de Boualem Sansal en Algérie (2025/2512(RSP)) — résumé",
+      "organisme": "Parlement européen, Observatoire législatif (OEIL)",
+      "date_publication": "23 janvier 2025",
+      "url": "https://oeil.europarl.europa.eu/oeil/fr/document-summary?id=1801957",
+      "passage": "Résolution adoptée par 533 voix pour, 24 contre et 48 abstentions. « Le 16 novembre 2024, l'écrivain franco-algérien Boualem Sansal a été arrêté » ; il est poursuivi en vertu de « l'article 87bis du code pénal algérien ». Le Parlement « demande sa libération immédiate et inconditionnelle », condamne l'arrestation des autres militants, journalistes et défenseurs des droits humains, et estime que « tous les décaissements futurs de fonds de l'UE devraient tenir compte des progrès réalisés à cet égard ».",
+      "pertinence": "Résumé officiel du Parlement européen.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Case of Boualem Sansal in Algeria — vote nominatif du 23 janvier 2025",
+      "organisme": "HowTheyVote.eu (données ouvertes des votes du Parlement européen)",
+      "date_publication": "23 janvier 2025",
+      "url": "https://howtheyvote.eu/votes/171594",
+      "passage": "Résultat : 533 pour, 24 contre, 48 abstentions. Groupe de la Gauche (tous pays) : 8 pour, 18 contre, 11 abstentions, 9 non-votants. Eurodéputés français du groupe de la Gauche : contre — Emma Fourreau, Rima Hassan, Arash Saeidi, Anthony Smith ; abstention — Manon Aubry, Younous Omarjee ; n'ont pas voté — Damien Carême, Leila Chaibi, Marina Mesure. France (tous partis) : 61 pour, 4 contre, 2 abstentions.",
+      "pertinence": "Site associatif de données ouvertes reprenant les votes nominatifs officiels (lu via ses pages et son interface de données).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Élections européennes 2024 : qui sont les 81 eurodéputés français élus ?",
+      "organisme": "Toute l’Europe",
+      "date_publication": "mis à jour le 20 octobre 2026",
+      "url": "https://www.touteleurope.eu/institutions/elections-europeennes-2024-qui-sont-les-81-eurodeputes-francais-elus/",
+      "passage": "Élus sur la liste de La France insoumise, siégeant dans le groupe de la Gauche (9 sièges) : Manon Aubry, Damien Carême, Leïla Chaibi, Emma Fourreau, Rima Hassan, Marina Mesure, Younous Omarjee, Arash Saeidi, Anthony Smith.",
+      "pertinence": "Site d'information sur l'Europe.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Première séance du mardi 6 mai 2025 — annexe : analyse des scrutins (scrutin n° 1570)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "6 mai 2025",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025-annexe.pdf",
+      "passage": "Scrutin n° 1570 sur l'article unique de la proposition de résolution européenne appelant à la « libération immédiate et inconditionnelle de Boualem Sansal » : 339 votants, 335 exprimés, 307 pour, 28 contre ; adopté. Groupe La France insoumise-Nouveau Front populaire : 28 contre. Écologiste et social : 18 pour. Socialistes et apparentés : 39 pour. Gauche démocrate et républicaine : 1 pour, 4 abstentions.",
+      "pertinence": "Compte rendu officiel de l'Assemblée nationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Résolution européenne appelant à la libération immédiate et inconditionnelle de M. Boualem Sansal (texte adopté n° 107)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "6 mai 2025",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/textes/l17t0107_texte-adopte-provisoire",
+      "passage": "La résolution « réclame sa libération immédiate et inconditionnelle », demande une mission médicale internationale et une mission indépendante sur ses conditions de détention et celles des autres prisonniers d'opinion, et sa nomination comme ambassadeur de la francophonie ; elle demande que sa libération soit « une exigence préalable » dans les discussions sur la modernisation de l'accord d'association UE-Algérie.",
+      "pertinence": "Texte adopté par l'Assemblée nationale.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sur le cas Boualem Sansal, la gauche à la peine",
+      "organisme": "AFP (dépêche publiée par The Times of Israel, édition française)",
+      "date_publication": "27 mars 2025",
+      "url": "https://fr.timesofisrael.com/sur-le-cas-boualem-sansal-la-gauche-a-la-peine/",
+      "passage": "Boualem Sansal est condamné ce jeudi à cinq ans de prison par un tribunal algérien. Mathilde Panot veut « réclamer à nouveau sa libération » et rejette « toute instrumentalisation au service de l'extrême droite » ; l'entourage de Manuel Bompard assure que LFI a « pris position à de multiples reprises pour la libération » de Sansal mais « ne manifeste jamais aux côtés des élus du Rassemblement national ». Manon Aubry s'est abstenue en janvier en dénonçant une « instrumentalisation par l'extrême droite » destinée à « nourrir une escalade diplomatique » ; Rima Hassan a voté contre. Le PS déplore « l'instrumentalisation de cette injustice manifeste » par les gouvernements et l'extrême droite. Le politologue Jean-Yves Camus : « C'est une erreur de pratiquer la politique du vide » ; « ce qui est à défendre c'est la liberté d'expression ».",
+      "pertinence": "Dépêche de l'Agence France-Presse.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Grâce de Boualem Sansal : Sébastien Lecornu exprime le « soulagement » du gouvernement",
+      "organisme": "LCP (La Chaîne parlementaire)",
+      "date_publication": "12 novembre 2025",
+      "url": "https://lcp.fr/actualites/grace-de-boualem-sansal-sebastien-lecornu-exprime-le-soulagement-du-gouvernement-415550",
+      "passage": "Le président algérien Abdelmadjid Tebboune gracie Boualem Sansal, 76 ans, à la demande du président allemand Frank-Walter Steinmeier, qui invoquait « son âge avancé (...) et son état de santé fragile ». Il avait été condamné en appel en juillet à cinq ans de réclusion. Réactions : Boris Vallaud (PS) : « Son emprisonnement était une honte » ; le député insoumis Matthias Tavel : « La place des écrivains et des journalistes n'est pas en prison ».",
+      "pertinence": "Chaîne parlementaire de l'Assemblée nationale.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Éventuelles nouvelles déclarations ou votes sur les prisonniers d'opinion en Algérie, et suites de la libération de Boualem Sansal.",
+  "objections_legitimes": [
+    "Aucun élu insoumis n'a voté pour les résolutions réclamant la libération de Boualem Sansal.",
+    "Socialistes et écologistes ont voté pour, le PS critiquant lui aussi l'instrumentalisation de l'affaire.",
+    "La liberté d'expression doit être défendue même pour des auteurs dont on ne partage pas les idées."
+  ],
+  "publics": {
+    "convaincus": "Sur les votes, tu as raison : aucun insoumis n'a voté les résolutions pour Sansal, et les 28 voix contre à l'Assemblée étaient les leurs. Mais ne fais pas de ça une preuve que « la gauche » l'a abandonné : socialistes et écologistes ont voté pour. Et défendre un écrivain emprisonné, c'est défendre la liberté d'expression de tous, y compris celle de ceux qu'on combat.",
+    "indecis": "Les votes sont publics : LFI n'a voté aucun des deux textes demandant la libération de Boualem Sansal, contrairement au reste de la gauche. Ses responsables disaient pourtant réclamer sa libération, en refusant ce qu'ils voyaient comme une récupération par l'extrême droite. À chacun de juger cette stratégie ; les faits, eux, sont clairs sur les votes."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "democratie",
+      "antifascisme"
+    ],
+    "mecanismes": "La polémique mêle deux questions : la défense d’un écrivain emprisonné pour ses propos, qui relève des libertés fondamentales, et la récupération de son affaire par l’extrême droite dans la crise entre Paris et Alger.",
+    "consequences": "Refuser de voter pour la libération d’un prisonnier d’opinion au motif que l’extrême droite le soutient laisse à celle-ci le monopole de la défense des libertés et brouille le message universaliste de la gauche.",
+    "democratie": "La liberté d’expression se défend pour tous, y compris pour ceux dont on combat les idées ; c’est ce principe qui protège aussi les opposants, les syndicalistes et les journalistes en Algérie comme en France.",
+    "propositions": [
+      "Défendre sans condition tous les prisonniers d’opinion, en Algérie comme ailleurs, quelles que soient leurs idées.",
+      "Refuser l’instrumentalisation diplomatique des droits humains tout en votant clairement pour leur respect.",
+      "Soutenir la société civile algérienne et ses journalistes emprisonnés, au même titre que les écrivains connus en France."
+    ],
+    "defavorables": [
+      {
+        "fait": "Aucun élu insoumis n’a voté les résolutions européenne et française réclamant la libération de Boualem Sansal, alors que socialistes et écologistes les ont votées.",
+        "integration": "La gauche peut reconnaître cette erreur : la critique de la récupération par l’extrême droite n’empêchait pas de voter pour la libération d’un écrivain emprisonné."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "sansal_q2013",
+      "label": "Boualem Sansal et LFI"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "sansal",
+    "boualem",
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise",
+    "nupes",
+    "nfp",
+    "gauche",
+    "gauchos",
+    "mitterrand"
+  ],
+  "concepts": [
+    "sansal",
+    "melenchon_lfi",
+    "gauche",
+    "europe",
+    "algerie"
+  ]
+}

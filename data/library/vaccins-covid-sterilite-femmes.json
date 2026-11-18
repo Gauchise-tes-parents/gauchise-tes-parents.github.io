@@ -195,13 +195,6 @@
       }
     ]
   },
-  "concepts": [
-    "vaccin_sterilite",
-    "demographie",
-    "desinformation",
-    "femmes",
-    "vaccin"
-  ],
   "repond_a": [
     {
       "id": "vaccin_sterilite_q1215",
@@ -222,5 +215,12 @@
     "desinformation",
     "fake news",
     "manipulation de l information"
+  ],
+  "concepts": [
+    "vaccin_sterilite",
+    "demographie",
+    "desinformation",
+    "femmes",
+    "vaccin"
   ]
 }

@@ -227,11 +227,6 @@
       }
     ]
   },
-  "concepts": [
-    "chloroquine",
-    "desinformation",
-    "statistiques"
-  ],
   "repond_a": [
     {
       "id": "chloroquine_q1215",
@@ -249,5 +244,10 @@
     "pourcentage",
     "insee",
     "donnees"
+  ],
+  "concepts": [
+    "chloroquine",
+    "desinformation",
+    "statistiques"
   ]
 }

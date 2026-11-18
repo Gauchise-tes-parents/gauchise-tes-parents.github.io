@@ -215,11 +215,6 @@
       }
     ]
   },
-  "concepts": [
-    "csg_retraites",
-    "fiscalite",
-    "retraite"
-  ],
   "repond_a": [
     {
       "id": "csg_retraites_q1215",
@@ -232,5 +227,10 @@
     "isf",
     "tva",
     "reforme des retraites"
+  ],
+  "concepts": [
+    "csg_retraites",
+    "fiscalite",
+    "retraite"
   ]
 }

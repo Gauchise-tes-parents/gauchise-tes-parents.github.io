@@ -213,10 +213,6 @@
       }
     ]
   },
-  "concepts": [
-    "presomption_ld",
-    "legitime_defense"
-  ],
   "repond_a": [
     {
       "id": "presomption_ld_q1215",
@@ -228,5 +224,9 @@
     "presomption de legitime defense",
     "permis de tuer",
     "legitime defense"
+  ],
+  "concepts": [
+    "presomption_ld",
+    "legitime_defense"
   ]
 }

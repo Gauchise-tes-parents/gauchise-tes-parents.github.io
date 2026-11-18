@@ -1,0 +1,243 @@
+{
+  "id": "jets-prives-interdiction",
+  "type": "idee_recue",
+  "affirmation": "Interdire les jets privés ne sert à rien pour le climat.",
+  "volet": "ecologie",
+  "sous_theme": "Justice climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "jets prives",
+    "interdire jets prives",
+    "jet prive climat",
+    "aviation privee emissions",
+    "taxe jets prives",
+    "ca sert a rien jets prives",
+    "riches pollueurs",
+    "billets avion taxe",
+    "vols courts jet",
+    "sobriete riches"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Il est vrai que l'aviation privée pèse peu dans le total : environ 15,6 millions de tonnes de CO2 en 2023, soit 1,8 % des émissions de l'aviation commerciale. Mais ses émissions ont augmenté de 46 % en quatre ans, un vol privé émet cinq à quatorze fois plus par passager qu'un vol commercial, et près de la moitié des vols font moins de 500 km. Encadrer ces vols est un geste de justice climatique : on ne peut pas demander des efforts à tous en épargnant les plus gros émetteurs.",
+  "contexte": "Les jets privés sont devenus un symbole des inégalités face au climat. Une proposition de loi visant à les interdire a été rejetée en commission à l'Assemblée en 2023 ; le budget 2025 a fortement relevé la taxe sur les billets pour l'aviation d'affaires.",
+  "explication": "On distingue le poids des jets privés dans les émissions totales, leur intensité par passager et par personne, leur évolution, et l'enjeu politique d'équité dans l'effort climatique.",
+  "faits": [
+    {
+      "fait": "Selon une étude de Gössling et al. publiée en 2024 dans Communications Earth & Environment, l'aviation privée a émis environ 15,6 millions de tonnes de CO2 en 2023, en hausse de 46 % depuis 2019.",
+      "periode": "2019-2023",
+      "perimetre": "Monde",
+      "explication": "Les émissions sont en forte croissance : ne rien faire, c'est les laisser augmenter.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "15,6 millions de tonnes"
+    },
+    {
+      "fait": "Fait défavorable : selon la même étude, ces émissions représentent environ 1,8 % de celles de l'aviation commerciale.",
+      "periode": "2019-2023",
+      "perimetre": "Monde et France",
+      "explication": "Interdire les jets privés ne suffira pas à régler la question climatique : c'est un levier d'équité et d'exemplarité, pas une solution à lui seul.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "1,8 %"
+    },
+    {
+      "fait": "Selon le rapport de l'Assemblée nationale citant Transport & Environment, un vol en jet privé émet cinq à quatorze fois plus de gaz à effet de serre par passager qu'un vol commercial et environ cinquante fois plus qu'un trajet en train.",
+      "periode": "2023",
+      "perimetre": "Europe",
+      "explication": "C'est le mode de transport le plus polluant par personne transportée.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "cinq à quatorze fois"
+    },
+    {
+      "fait": "Selon l'étude de Gössling rapportée par CBC, 47,4 % des vols de jets privés font moins de 500 km et 4,7 % moins de 50 km.",
+      "periode": "2019-2023",
+      "perimetre": "Monde",
+      "explication": "Une grande partie de ces vols pourrait être remplacée par le train ou la voiture.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "47,4 %"
+    },
+    {
+      "fait": "Selon le rapport de l'Assemblée nationale, les jets privés représentent environ 10 % des vols au départ de la France ; la proposition de loi visant à les interdire, sauf vols sanitaires, a été rejetée en commission (rapport enregistré le 29 mars 2023).",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "Le sujet a été débattu au Parlement, mais la majorité de l'époque a refusé l'interdiction.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "10 %"
+    },
+    {
+      "fait": "Selon le Club des juristes, la loi de finances pour 2025 porte la taxe sur les billets d'avion de l'aviation d'affaires jusqu'à 2 100 euros par passager pour les destinations lointaines.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La fiscalité commence à refléter l'écart d'émissions, mais une taxe laisse les plus riches continuer à polluer s'ils paient.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "2 100 euros"
+    },
+    {
+      "fait": "Selon Oxfam, un ultra-riche européen effectue en moyenne 140 vols par an, qui émettent autant qu'un Européen moyen en 112 ans ; Oxfam estime aussi que les émissions liées à leurs investissements sont environ 340 fois supérieures à celles de leurs jets et yachts.",
+      "periode": "2024",
+      "perimetre": "Europe",
+      "explication": "Les jets sont le symbole visible d'un problème plus large : l'empreinte des grandes fortunes passe surtout par leurs investissements.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "140 vols"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les jets privés pèsent peu dans le total : environ 1,8 % des émissions de l'aviation commerciale. Mais ils émettent cinq à quatorze fois plus par passager qu'un vol classique, leurs émissions ont augmenté de 46 % en quatre ans, et près de la moitié des vols font moins de 500 km. Les encadrer, c'est une question de justice climatique.",
+    "moyen": "Selon une étude publiée en 2024 dans Communications Earth & Environment, l'aviation privée a émis environ 15,6 millions de tonnes de CO2 en 2023, en hausse de 46 % depuis 2019. C'est peu à l'échelle mondiale, environ 1,8 % des émissions de l'aviation commerciale. Mais par passager, un jet émet cinq à quatorze fois plus qu'un vol commercial et environ cinquante fois plus que le train, et 47,4 % des vols font moins de 500 km.\n\nInterdire ou taxer fortement ces vols ne réglera pas seul le problème climatique. Mais demander des efforts aux classes populaires, sur le chauffage ou la voiture, tout en épargnant le mode de transport le plus polluant par personne, sape l'acceptabilité de toute politique climatique. La France a choisi en 2025 de relever fortement la taxe sur l'aviation d'affaires.",
+    "detaille": "L'argument a une part de vérité : les jets privés ne sont qu'une petite partie du problème. Selon l'étude de Stefan Gössling et de ses collègues, publiée en 2024 dans Communications Earth & Environment, l'aviation privée a émis environ 15,6 millions de tonnes de CO2 en 2023, soit environ 1,8 % des émissions de l'aviation commerciale. En France, l'aviation dans son ensemble représentait 5,3 % des émissions en 2019, selon un rapport de l'Assemblée nationale.\n\nMais cette petite part repose sur une toute petite minorité. Environ 0,003 % de la population mondiale utilise l'aviation privée, et certains utilisateurs ont émis jusqu'à 2 400 tonnes de CO2 en 2023, près de 500 fois la moyenne par personne. Par passager, un jet émet cinq à quatorze fois plus qu'un vol commercial et environ cinquante fois plus qu'un train. Et la tendance est mauvaise : +46 % entre 2019 et 2023, avec 47,4 % des vols sous 500 km, souvent remplaçables.\n\nEn France, les jets représentent environ 10 % des vols au départ du pays. Une proposition de loi visant à les interdire, sauf vols sanitaires, a été rejetée en commission en 2023. La loi de finances pour 2025 a choisi une autre voie : la taxe de solidarité sur les billets d'avion peut atteindre 2 100 euros par passager pour un vol d'affaires lointain, contre quelques euros en classe économique. Taxer ou interdire est un choix politique ; ne rien faire en est un aussi.\n\nL'enjeu principal est la justice climatique. Selon Oxfam, un ultra-riche européen fait en moyenne 140 vols par an, autant d'émissions qu'un Européen moyen en 112 ans, et l'empreinte de ses investissements serait encore bien plus lourde. Les jets sont donc un symbole, mais un symbole qui compte : une transition qui exige des efforts des ménages modestes sans toucher aux plus gros pollueurs perd toute légitimité.",
+    "empathie": "Il est normal de se demander si une mesure symbolique vaut la peine quand le défi climatique est immense. Cette question honnête mérite une réponse qui ne surestime pas les jets privés, mais qui ne les absout pas non plus."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ça ne changera rien au climat.",
+      "reponse": "Seul, non ; mais aucune mesure ne règle seule le climat. Il s'agit du mode de transport le plus émetteur par passager, en forte hausse, souvent pour des trajets de moins de 500 km."
+    },
+    {
+      "objection": "Ce sont des emplois et de l'activité économique.",
+      "reponse": "Les mêmes déplacements peuvent se faire en train ou en vol commercial, et la taxe adoptée en 2025 montre qu'on peut faire contribuer ce secteur sans l'interdire."
+    }
+  ],
+  "questions": [
+    "Si on te demande de changer de chaudière ou de voiture, trouves-tu juste que les plus gros émetteurs ne fassent aucun effort ?",
+    "Pourquoi faudrait-il un jet pour un trajet de moins de 500 km quand le train existe ?"
+  ],
+  "limites": [
+    "L'article scientifique de Gössling et al. n'a pas pu être ouvert directement (lien DOI non autorisé) : ses chiffres sont tirés du communiqué de l'éditeur et d'un article de CBC.",
+    "La comparaison « cinq à quatorze fois » vient de Transport & Environment, rapportée par l'Assemblée nationale ; les pages de Transport & Environment n'ont pas pu être ouvertes.",
+    "Les chiffres d'Oxfam sont ceux d'une ONG militante et reposent sur ses propres estimations.",
+    "Le montant final de la taxe pour l'aviation d'affaires est rapporté par Le Club des juristes ; le texte de la loi de finances sur Légifrance et la page de Bercy n'ont pas été lus.",
+    "La part exacte des jets privés dans les émissions françaises n'est pas connue avec précision : le rapport parlementaire juge les estimations très variables."
+  ],
+  "sources": [
+    {
+      "titre": "Private aviation is making a growing contribution to climate change (communiqué)",
+      "organisme": "Springer Nature via EurekAlert! (étude de Stefan Gössling et al., Communications Earth & Environment)",
+      "date_publication": "7 novembre 2024",
+      "url": "https://www.eurekalert.org/news-releases/1063640",
+      "passage": "Les émissions directes de l'aviation privée ont atteint environ 15,6 millions de tonnes de CO2 en 2023, en hausse de 46,0 % entre 2019 et 2023, soit environ 1,8 % des émissions de l'aviation commerciale. Environ 3,6 tonnes de CO2 par vol en moyenne ; environ 0,003 % de la population mondiale utilise l'aviation privée. Certains utilisateurs ont émis jusqu'à 2 400 tonnes de CO2 en 2023, près de 500 fois la moyenne par personne. DOI : 10.1038/s43247-024-01775-z.",
+      "pertinence": "Communiqué de l'éditeur d'une revue scientifique à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "What are the private flights of the 1% doing to the planet? The numbers are in",
+      "organisme": "CBC News (Radio-Canada anglais)",
+      "date_publication": "novembre 2024 (corrigé le 12 novembre 2024)",
+      "url": "https://www.cbc.ca/1.7375509",
+      "passage": "Selon l'étude de Gössling, 47,4 % des vols de jets privés font moins de 500 km et 4,7 % moins de 50 km ; les émissions atteignent au moins 15,6 millions de tonnes de CO2 en 2023. Gössling : « this is a really, really carbon intensive activity ».",
+      "pertinence": "Média public canadien.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport sur la proposition de loi visant à interdire les vols en jets privés (n° 885)",
+      "organisme": "Assemblée nationale, commission du développement durable (rapporteur Julien Bayou)",
+      "date_publication": "29 mars 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/cion-dvp/l16b1017_rapport-fond.pdf",
+      "passage": "L'aviation représentait 5,3 % des émissions françaises en 2019 (24,2 millions de tonnes de CO2). Les jets privés représentent « environ 10 % des vols au départ de la France ». Selon Transport & Environment, un vol en jet privé émet « cinq à quatorze fois plus » de gaz à effet de serre par passager qu'un vol commercial et environ cinquante fois plus qu'un trajet en train. En 2019, plus de la moitié des vols privés au départ de la France faisaient moins de 500 km. « La commission ayant supprimé tous les articles de la proposition de loi, l'ensemble de celle-ci est rejeté. »",
+      "pertinence": "Rapport parlementaire officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Hausse de la taxe sur les billets d'avion : décryptage juridique d'une polémique",
+      "organisme": "Loïc Grard (université de Bordeaux), Le Club des juristes",
+      "date_publication": "5 février 2025",
+      "url": "https://www.leclubdesjuristes.com/economie/hausse-de-la-taxe-sur-les-billets-davion-decryptage-juridique-dune-polemique-9111/",
+      "passage": "Pour l'aviation d'affaires, la version issue de la commission mixte paritaire du 30 janvier 2025 fixe la taxe à 210 ou 420 euros pour les destinations européennes, 675 ou 1 015 euros pour les destinations intermédiaires et 1 025 ou 2 100 euros pour les destinations lointaines, « selon le mode de propulsion ».",
+      "pertinence": "Analyse juridique d'un universitaire publiée par un cercle de juristes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Budget 2025 : les députés valident une mesure gouvernementale visant à taxer davantage les billets d'avion",
+      "organisme": "LCP (La Chaîne parlementaire)",
+      "date_publication": "8 novembre 2024",
+      "url": "https://lcp.fr/index%2ephp/actualites/budget-2025-les-deputes-valident-une-mesure-gouvernementale-visant-a-taxer-davantage-les",
+      "passage": "Le gouvernement attend de la hausse de la taxe de solidarité sur les billets d'avion « un rendement de l'ordre d'un milliard d'euros » ; en classe économique, la taxe passerait de 2,60 à 9,50 euros pour les destinations européennes.",
+      "pertinence": "Chaîne parlementaire de l'Assemblée nationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Superyachts and jets of Europe's elite emit more carbon pollution in a week than the world's poorest 1% emits in a lifetime",
+      "organisme": "Oxfam International",
+      "date_publication": "28 octobre 2024",
+      "url": "https://oxfam.org/fr/node/24902",
+      "passage": "Un ultra-riche européen effectue en moyenne 140 vols par an ; ses vols émettent autant qu'un Européen moyen en 112 ans. Les émissions liées aux investissements des milliardaires étudiés sont en moyenne environ 340 fois supérieures à celles de leurs jets et superyachts réunis.",
+      "pertinence": "ONG (source militante, chiffres à attribuer).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles estimations des émissions de l'aviation privée et évaluation des recettes de la taxe sur les billets d'avion.",
+  "objections_legitimes": [
+    "Les jets privés ne représentent qu'une faible part des émissions totales.",
+    "Certains vols privés ont une utilité réelle, notamment sanitaire.",
+    "L'empreinte des plus riches passe aussi, et surtout, par leurs investissements."
+  ],
+  "publics": {
+    "convaincus": "D'accord, les jets privés ne représentent pas grand-chose dans le total. Mais par passager, c'est cinq à quatorze fois plus qu'un avion normal, et près de la moitié des vols font moins de 500 km. Pourquoi ce serait toujours aux gens ordinaires de payer pour le climat, et jamais à ceux qui polluent le plus ?",
+    "indecis": "Interdire ou taxer les jets privés ne sauvera pas le climat à soi seul, c'est vrai. Mais leurs émissions ont augmenté de 46 % en quatre ans et ils concernent une infime minorité. Ces mesures servent surtout à rendre la transition juste : les efforts sont mieux acceptés quand les plus gros émetteurs participent."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "solidarite",
+      "democratie"
+    ],
+    "mecanismes": "L’argument de la faible part des émissions isole chaque source pour conclure qu’aucune n’est importante, et protège ainsi les modes de vie les plus émetteurs des plus fortunés.",
+    "consequences": "Quand les efforts climatiques pèsent sur les ménages modestes pendant que les plus gros émetteurs en sont exemptés, la transition perd sa légitimité et nourrit la colère contre l’écologie.",
+    "democratie": "La justice climatique exige que la règle commune s’applique d’abord à ceux qui ont le plus de moyens ; c’est une condition de l’adhésion démocratique aux politiques climatiques.",
+    "propositions": [
+      "Interdire les vols privés sur les trajets où une alternative ferroviaire existe, sauf usages sanitaires et de secours.",
+      "Taxer fortement l’aviation d’affaires et affecter les recettes au train et aux transports du quotidien.",
+      "Encadrer l’empreinte carbone des grandes fortunes, y compris celle de leurs investissements."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les jets privés représentent une faible part des émissions totales du transport aérien.",
+        "integration": "On l’assume : c’est une mesure de justice et d’exemplarité, qui accompagne d’autres politiques et rend l’effort collectif acceptable."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "jets_prives_q2013",
+      "label": "Jets privés"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "justice",
+    "taxer",
+    "isf",
+    "tva"
+  ],
+  "concepts": [
+    "jets_prives",
+    "delinquance",
+    "justice",
+    "fiscalite",
+    "riches_entreprises",
+    "ecologie"
+  ]
+}

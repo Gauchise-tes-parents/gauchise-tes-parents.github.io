@@ -1,0 +1,216 @@
+{
+  "id": "abattage-rituel-etourdissement",
+  "type": "idee_recue",
+  "affirmation": "L'abattage rituel sans étourdissement est cruel, il faut l'interdire.",
+  "volet": "droits",
+  "sous_theme": "Laïcité",
+  "rubriques": [],
+  "mots_cles": [
+    "abattage rituel",
+    "abattage halal",
+    "abattage casher",
+    "sans etourdissement",
+    "interdire le halal",
+    "souffrance animale abattoir",
+    "egorgement animaux",
+    "etourdissement obligatoire",
+    "viande halal sans le savoir",
+    "bien etre animal religion"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Question d'opinion, avec des faits solides de part et d'autre. La science est nette : l'étourdissement préalable est le meilleur moyen de réduire la souffrance, et la Cour de justice de l'Union européenne a jugé en 2020 qu'un État peut l'imposer. Mais une interdiction sèche toucherait surtout des minorités religieuses, déplacerait l'abattage vers l'étranger (comme en Belgique) et ne réglerait rien aux souffrances de l'abattage industriel. Le débat est légitime quand il porte sur les animaux, pas quand il sert à viser juifs et musulmans.",
+  "contexte": "Le sujet revient à chaque campagne présidentielle. L'extrême droite, notamment Marine Le Pen en 2017, propose d'interdire l'abattage sans étourdissement, en l'associant à la dénonciation du halal. Des défenseurs des animaux, de gauche comme de droite, le demandent aussi pour d'autres raisons. Les représentants juifs et musulmans y voient une atteinte à la liberté religieuse.",
+  "explication": "On présente le cadre légal (règle de l'étourdissement et dérogation religieuse), l'état des connaissances sur la douleur, la jurisprudence européenne, les effets observés des interdictions, et les positions des acteurs, en séparant les faits du choix politique.",
+  "faits": [
+    {
+      "fait": "Selon un rapport de l'Assemblée nationale de 2025, l'étourdissement des animaux avant l'abattage est obligatoire en France (article R. 214-70 du code rural), l'abattage rituel relevant d'une dérogation encadrée par l'article L. 214-3.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "L'abattage sans étourdissement est une exception légale, accordée au nom de la liberté religieuse.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Cour de justice de l'Union européenne, l'abattage sans étourdissement n'est autorisé qu'« à titre dérogatoire » dans l'Union, et un État membre peut imposer un étourdissement réversible sans violer la liberté de religion (arrêt du 17 décembre 2020 sur un décret flamand).",
+      "periode": "2020",
+      "perimetre": "Union européenne",
+      "explication": "Interdire l'abattage sans étourdissement est juridiquement possible ; c'est donc un choix politique.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon la Cour de justice de l'Union européenne, « un consensus scientifique s'est formé » sur le fait que l'étourdissement préalable est le meilleur moyen de réduire la souffrance de l'animal ; selon le rapport de l'Assemblée nationale, l'Anses concluait en 2013 que l'étourdissement « reste la méthode minimisant les douleurs ».",
+      "periode": "2013-2020",
+      "perimetre": "Union européenne",
+      "explication": "Ceux qui jugent l'abattage sans étourdissement plus douloureux s'appuient sur la science : on ne peut pas balayer leur argument.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le rapport de l'Assemblée nationale de 2025, le ministère de l'Agriculture déclare ne pas disposer de chiffres sur les volumes d'abattage rituel.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les chiffres qui circulent sur la part de viande halal ou casher ne reposent sur aucune statistique officielle récente.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le rapport de l'Assemblée nationale de 2025, les interdictions adoptées en Belgique ont conduit à la fermeture d'abattoirs spécialisés et à une hausse des importations de viande halal et casher, surtout depuis la Hongrie, avec des transports plus longs.",
+      "periode": "2025",
+      "perimetre": "Belgique",
+      "explication": "Une interdiction nationale peut déplacer le problème à l'étranger sans réduire la souffrance animale.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le même rapport, les représentants religieux estiment que leurs rites viennent de principes éthiques fondés sur le refus de la souffrance animale, et la communauté juive s'est montrée ouverte à l'étude d'un étourdissement par micro-ondes avant l'égorgement.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Des solutions de compromis sont discutées avec les cultes, ce qu'une interdiction brutale empêcherait.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la réponse du ministère de l'Agriculture publiée en 2010, l'abattage rituel doit avoir lieu en abattoir, par un sacrificateur habilité par un organisme religieux agréé, et aucune obligation d'étiquetage selon le mode d'abattage n'existait.",
+      "periode": "2010",
+      "perimetre": "France",
+      "explication": "Le cadre est réel, mais l'absence d'étiquetage nourrit les soupçons et les rumeurs.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, Marine Le Pen, alors candidate du Front national, a déclaré en 2017 que l'abattage sans étourdissement « devrait être interdit » en affirmant que « 90% des abattoirs sont halal en Ile-de-France », chiffre non vérifié ; le grand rabbin de France a jugé cette position « stupéfiante ».",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Chez l'extrême droite, la cause animale est associée à la dénonciation du halal, avec des chiffres non étayés.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "La science est claire : l'étourdissement préalable réduit la souffrance, et la justice européenne permet de l'imposer. Mais une interdiction sèche frapperait surtout des minorités religieuses et, comme en Belgique, déplacerait l'abattage vers l'étranger. On peut défendre les animaux sans viser juifs et musulmans : recherche sur l'étourdissement, étiquetage, contrôle de tous les abattoirs.",
+    "moyen": "En France, l'étourdissement avant l'abattage est la règle ; l'abattage rituel est une dérogation accordée au nom de la liberté religieuse. Le constat scientifique est net : selon l'Anses et la Cour de justice de l'Union européenne, l'étourdissement préalable est la méthode qui réduit le mieux la souffrance. En 2020, cette Cour a jugé qu'un État pouvait imposer un étourdissement réversible. Interdire est donc possible : c'est un choix politique.\n\nCe choix a des effets. En Belgique, les interdictions ont fermé des abattoirs spécialisés et augmenté les importations, notamment depuis la Hongrie. Le ministère de l'Agriculture n'a pas de chiffres sur les volumes, ce qui laisse prospérer les rumeurs. Les représentants religieux discutent de techniques d'étourdissement compatibles avec leurs rites. La question est de savoir si l'on veut réduire la souffrance animale, partout, ou désigner une minorité.",
+    "detaille": "Le droit pose une règle et une exception. Le règlement européen de 2009 impose l'étourdissement des animaux avant leur mise à mort, et l'article R. 214-70 du code rural le rend obligatoire en France ; l'abattage rituel juif et musulman bénéficie d'une dérogation, à condition d'avoir lieu en abattoir et d'être pratiqué par un sacrificateur habilité. La Cour de justice de l'Union européenne a jugé le 17 décembre 2020 qu'un État membre peut imposer un étourdissement réversible sans violer la liberté de religion, en validant un décret flamand.\n\nSur la souffrance, il faut être honnête : la Cour relève qu'« un consensus scientifique s'est formé » sur le fait que l'étourdissement préalable est le meilleur moyen de la réduire, et l'Anses concluait en 2013 qu'il « reste la méthode minimisant les douleurs ». Les représentants religieux répondent que leurs rites sont fondés sur le refus de la souffrance animale ; une partie de la communauté juive se dit ouverte à l'étude d'un étourdissement par micro-ondes. Le désaccord est réel et mérite mieux que des invectives.\n\nLes effets d'une interdiction sont connus. En Belgique, elle a fait fermer des abattoirs spécialisés et augmenté les importations de viande depuis la Hongrie, avec des transports plus longs. Le ministère de l'Agriculture déclare ne pas disposer de chiffres sur les volumes d'abattage rituel, et l'étiquetage selon le mode d'abattage n'est pas obligatoire : ce flou alimente les rumeurs, comme l'affirmation de Marine Le Pen en 2017 selon laquelle « 90% des abattoirs sont halal en Ile-de-France », jamais étayée.\n\nPour la gauche, la cohérence consiste à défendre les animaux partout, pas seulement quand cela vise des minorités. Les souffrances de l'élevage et de l'abattage industriels concernent l'immense majorité des animaux. Le rapport parlementaire de 2025 propose de mieux encadrer la dérogation, d'organiser un dialogue régulier avec les cultes et de soutenir la recherche sur l'étourdissement. C'est une voie qui protège à la fois les animaux et la liberté religieuse, sans faire de la cause animale un prétexte contre les juifs et les musulmans.",
+    "empathie": "Penser à la souffrance d'un animal égorgé conscient peut révolter, et cette sensibilité est respectable. Elle mérite une réponse qui prenne au sérieux à la fois les animaux et les personnes croyantes."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La religion ne peut pas justifier la cruauté envers les animaux.",
+      "reponse": "C'est un vrai débat, et la science donne raison à l'étourdissement. Mais une interdiction sèche a surtout déplacé l'abattage vers l'étranger en Belgique. Chercher avec les cultes une technique d'étourdissement compatible protège davantage les animaux."
+    },
+    {
+      "objection": "Tout est halal sans qu'on le sache.",
+      "reponse": "Le ministère de l'Agriculture déclare lui-même ne pas avoir de chiffres sur les volumes : les pourcentages qui circulent, comme celui avancé par Marine Le Pen en 2017, ne sont pas étayés. La solution, c'est un étiquetage clair pour tous, pas la rumeur."
+    }
+  ],
+  "questions": [
+    "Si l'objectif est la souffrance animale, pourquoi le débat porte-t-il presque toujours sur le halal et le casher et rarement sur l'élevage intensif ?",
+    "Une interdiction qui conduit à importer la même viande depuis l'étranger réduit-elle vraiment la souffrance des animaux ?"
+  ],
+  "limites": [
+    "Les pourcentages d'animaux abattus sans étourdissement (12 % des bovins et 49 % des ovins) viennent d'une estimation de la DGAL de 2008 citée dans une question de député : données anciennes et non reprises dans la réponse ministérielle ; elles ne sont donc pas utilisées comme faits.",
+    "Les avis de l'EFSA et de l'Anses n'ont pas été lus directement ; leur contenu est rapporté par la CJUE et par le rapport de l'Assemblée nationale.",
+    "Le règlement (CE) n° 1099/2009 sur EUR-Lex n'a pas pu être ouvert.",
+    "La réponse ministérielle sur l'étiquetage date de 2010 ; le cadre a pu évoluer.",
+    "La position de Marine Le Pen date de 2017 ; le programme actuel du RN n'a pas été lu."
+  ],
+  "sources": [
+    {
+      "titre": "Communiqué de presse n° 163/20 — Arrêt dans l'affaire C-336/19, Centraal Israëlitisch Consistorie van België e.a.",
+      "organisme": "Cour de justice de l’Union européenne",
+      "date_publication": "17 décembre 2020",
+      "url": "https://curia.europa.eu/jcms/jcms/p1_3362850/fr",
+      "passage": "« les États membres peuvent, sans méconnaître les droits fondamentaux consacrés par la Charte », imposer un étourdissement réversible et non létal lors de l'abattage rituel. L'abattage sans étourdissement n'est « autorisé qu'à titre dérogatoire dans l'Union », afin d'assurer la liberté de religion (règlement n° 1099/2009, article 4, paragraphe 4). Le principe de l'étourdissement préalable « répond à l'objectif principal de protection du bien-être animal » ; « un consensus scientifique s'est formé » sur le fait que l'étourdissement préalable est le meilleur moyen de réduire la souffrance de l'animal. Le décret flamand ne s'oppose pas à l'importation de viande issue d'abattages rituels.",
+      "pertinence": "Communiqué officiel de la juridiction de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information n° 1465 sur l'économie de l'abattage et la décapitalisation des cheptels",
+      "organisme": "Assemblée nationale, commission des affaires économiques (rapporteurs : Christophe Barthès et Thierry Benoît)",
+      "date_publication": "28 mai 2025",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b1465_rapport-information.pdf",
+      "passage": "L'étourdissement est obligatoire en France (article R. 214-70 du code rural et de la pêche maritime) ; la dérogation pour l'abattage rituel est encadrée par l'article L. 214-3. « Le ministère de l'agriculture déclare ne pas disposer pas de chiffres sur les volumes ». L'Anses (2013) : « l'étourdissement avant l'égorgement reste la méthode minimisant les douleurs ». Les représentants religieux estiment que « ces rites tirent leur origine de principes éthiques fondés sur le refus de la souffrance animale » ; la communauté juive s'est montrée ouverte à l'étude d'un étourdissement par micro-ondes. En Belgique, les interdictions « ont conduit à la fermeture d'abattoirs spécialisés dans l'abattage rituel » et ont accru les importations, surtout depuis la Hongrie. Recommandations : encadrer la dérogation par une commande claire, créer un cadre d'échange régulier, soutenir la recherche sur l'étourdissement.",
+      "pertinence": "Rapport parlementaire officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 90782 (abattage rituel) et réponse du ministère de l'Alimentation, de l'Agriculture et de la Pêche",
+      "organisme": "Assemblée nationale (question de Marc Le Fur, UMP ; réponse du ministère de l’Agriculture)",
+      "date_publication": "19 octobre 2010 (question) ; 2 novembre 2010 (réponse)",
+      "url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE90782.pdf",
+      "passage": "Le ministère indique que « la proposition de généralisation de l'étourdissement n'est pas envisagée » ; l'abattage rituel doit avoir lieu en abattoir, « uniquement par un sacrificateur habilité par un organisme religieux agréé », avec immobilisation mécanique de l'animal. « Aucune obligation n'est actuellement prévue pour l'étiquetage des produits à base de viande » selon le mode d'abattage. La question cite une estimation de la DGAL de 2008 : 12 % des bovins et 49 % des ovins abattus sans étourdissement.",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel (données anciennes).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Pen veut interdire l'abattage des animaux sans étourdissement préalable",
+      "organisme": "Public Sénat",
+      "date_publication": "25 avril 2017",
+      "url": "https://www.publicsenat.fr/actualites/politique/le-pen-veut-interdire-l-abattage-des-animaux-sans-etourdissement-prealable-59311",
+      "passage": "Marine Le Pen, candidate du Front national qualifiée pour le second tour, déclare à Rungis que l'abattage sans étourdissement « devrait être interdit » et « devrait faire l'objet d'un étiquetage » ; elle affirme : « Quasiment, je crois que 90% des abattoirs sont halal en Ile-de-France », chiffre que l'article ne vérifie pas. Le grand rabbin de France Haïm Korsia juge cette position « stupéfiante ».",
+      "pertinence": "Chaîne parlementaire ; propos de campagne d'une responsable d'extrême droite.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Programmes de la campagne présidentielle 2027 et suites du rapport parlementaire de 2025 (encadrement de la dérogation, recherche sur l'étourdissement).",
+  "objections_legitimes": [
+    "La souffrance animale à l'abattage est documentée, et l'étourdissement la réduit selon le consensus scientifique.",
+    "Les consommateurs peuvent légitimement vouloir connaître le mode d'abattage de la viande qu'ils achètent.",
+    "Plusieurs pays et régions européens imposent déjà l'étourdissement, et la justice européenne l'a validé."
+  ],
+  "publics": {
+    "convaincus": "Sur la souffrance, tu n'as pas tort : la science dit que l'étourdissement la réduit, et l'Europe permet de l'imposer. Mais si on interdit d'un coup, la même viande arrive de l'étranger, comme en Belgique, et les animaux n'y gagnent rien. Et quand on entend « 90 % des abattoirs sont halal », chiffre que personne n'a jamais démontré, on se demande si c'est vraiment les animaux qu'on veut protéger.",
+    "indecis": "C'est un vrai débat éthique : l'étourdissement réduit la souffrance selon les scientifiques, et la loi en fait la règle, avec une dérogation religieuse. Une interdiction est juridiquement possible, mais elle a eu des effets pervers en Belgique. Des pistes existent : recherche sur un étourdissement accepté par les cultes, étiquetage clair, contrôles renforcés dans tous les abattoirs."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "antiracisme",
+      "egalite"
+    ],
+    "mecanismes": "Une préoccupation sincère pour les animaux est récupérée pour cibler des minorités religieuses, avec des chiffres non étayés sur le halal, pendant que l’abattage industriel, qui concerne l’immense majorité des animaux, reste hors du débat.",
+    "consequences": "Une interdiction sèche peut fermer des abattoirs spécialisés, déplacer l’abattage vers l’étranger et stigmatiser juifs et musulmans sans réduire la souffrance animale.",
+    "democratie": "La liberté religieuse et la protection animale peuvent être conciliées par le débat public, la recherche et le dialogue avec les cultes, dans le cadre fixé par la justice européenne.",
+    "propositions": [
+      "Soutenir la recherche sur des techniques d’étourdissement acceptées par les cultes.",
+      "Rendre obligatoire un étiquetage clair du mode d’abattage pour toutes les viandes.",
+      "Renforcer les contrôles vétérinaires et les moyens dans tous les abattoirs, rituels ou non."
+    ],
+    "defavorables": [
+      {
+        "fait": "Selon la justice européenne et l’Anses, l’étourdissement préalable est le meilleur moyen de réduire la souffrance animale.",
+        "integration": "La gauche prend ce constat au sérieux : il justifie de chercher avec les cultes des méthodes d’étourdissement compatibles, et d’améliorer le sort des animaux dans tous les abattoirs."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "abattage_rituel_q2013",
+      "label": "Abattage rituel"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "laicite",
+    "abattage rituel"
+  ],
+  "concepts": [
+    "abattage_rituel",
+    "islam",
+    "laicite",
+    "halal"
+  ]
+}

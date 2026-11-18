@@ -1,0 +1,242 @@
+{
+  "id": "livreurs-plateformes-independants",
+  "type": "idee_recue",
+  "affirmation": "Les livreurs Uber ont choisi d'être indépendants, ils sont libres.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "livreurs uber eats",
+    "livreurs independants",
+    "auto entrepreneur livreur",
+    "deliveroo salaries",
+    "uberisation",
+    "livreurs libres",
+    "requalification salariat",
+    "directive plateformes",
+    "location compte livreur",
+    "livreurs sans papiers"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Beaucoup de livreurs apprécient l'autonomie, mais la Cour de cassation a jugé dès 2018 et 2020 que le statut d'indépendant pouvait être « fictif » quand la plateforme fixe les prix, géolocalise et sanctionne. Selon une enquête de l'Ined et de l'IRD, les livreurs travaillent 63 heures par semaine pour un peu plus de 3 euros de l'heure, et 76 % louent un compte. L'Union européenne impose une présomption de salariat d'ici le 2 décembre 2026.",
+  "contexte": "Les plateformes de livraison (Uber Eats, Deliveroo…) font travailler des auto-entrepreneurs. Elles mettent en avant la liberté des horaires ; syndicats, chercheurs et juges pointent une subordination réelle et une précarité extrême, aggravée par la sous-location de comptes à des personnes sans papiers.",
+  "explication": "On distingue le statut juridique choisi sur le papier, la réalité de la relation selon les juges, les conditions de travail mesurées par les enquêtes, et ce que disent les livreurs eux-mêmes de leur attachement à l'autonomie.",
+  "faits": [
+    {
+      "fait": "Selon l'arrêt de la Cour de cassation du 28 novembre 2018 (Take Eat Easy), la géolocalisation du coursier « en temps réel » et le « pouvoir de sanction » de la plateforme caractérisent un lien de subordination.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Pour la justice, ce qui compte n'est pas l'étiquette du contrat mais le pouvoir réel de la plateforme sur le livreur.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'arrêt de la Cour de cassation du 4 mars 2020, le statut d'indépendant d'un chauffeur Uber était « fictif » : il ne se constituait « aucune clientèle propre » et ne fixait pas librement ses tarifs, « entièrement régis » par Uber.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Choisir un statut sur le papier ne rend pas libre si la plateforme décide des prix, des courses et des sanctions.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la directive (UE) 2024/2831, la relation avec une plateforme est présumée être une relation de travail lorsqu'il existe direction et contrôle, et c'est à la plateforme de prouver le contraire ; les États doivent la transposer au plus tard le 2 décembre 2026.",
+      "periode": "2024-2026",
+      "perimetre": "Union européenne",
+      "explication": "L'Union européenne reconnaît que le faux travail indépendant est un problème massif et renverse la charge de la preuve.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2 décembre 2026"
+    },
+    {
+      "fait": "Selon l'enquête « Santé-Course » de l'Ined et de l'IRD, rapportée par Public Sénat, les livreurs interrogés déclarent travailler en moyenne 63 heures par semaine pour 840 à 880 euros net par mois, soit un peu plus de 3 euros de l'heure.",
+      "periode": "2025",
+      "perimetre": "France (enquête auprès de plus de 1 000 livreurs)",
+      "explication": "Une liberté qui oblige à travailler 63 heures pour moins que le Smic n'est pas un choix de vie, c'est une contrainte économique.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "63 heures"
+    },
+    {
+      "fait": "Selon la même enquête, près des deux tiers des livreurs interrogés n'ont pas de titre de séjour et 76 % disent louer un compte pour travailler, pour environ 528 euros par mois.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une partie des livreurs n'a jamais « choisi » ce statut : ils sous-louent le compte d'un autre, sans aucun droit.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "76 %"
+    },
+    {
+      "fait": "Selon le ministère, un accord homologué par l'ARPE garantit depuis 2023 un revenu de 11,75 euros par heure d'activité, calculée de l'acceptation de la course à la livraison, et impose une intervention humaine avant toute désactivation de compte.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le dialogue social a obtenu un plancher, mais le temps d'attente entre deux courses n'est pas payé.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "11,75 euros"
+    },
+    {
+      "fait": "Fait défavorable : selon une note de l'Université Gustave Eiffel, 70 % des livreurs indépendants parisiens interrogés se disent attachés à leur autonomie et au choix de leurs horaires ; le Sénat note que « certains » souhaitent rester indépendants.",
+      "periode": "2022-2023",
+      "perimetre": "Paris et petite couronne",
+      "explication": "L'envie de flexibilité est réelle et doit être respectée : on peut être salarié avec des horaires choisis, la question est d'avoir des droits.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "70 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les juges ont estimé que le statut d'indépendant des plateformes pouvait être « fictif » : c'est la plateforme qui fixe les prix, géolocalise et sanctionne. Selon une enquête de l'Ined et de l'IRD, les livreurs travaillent 63 heures par semaine pour un peu plus de 3 euros de l'heure, et 76 % louent un compte. Beaucoup tiennent à leur autonomie, mais être libre suppose d'avoir des droits.",
+    "moyen": "Sur le papier, les livreurs sont auto-entrepreneurs. Mais la Cour de cassation a jugé en 2018 (Take Eat Easy) puis en 2020 (Uber) que la géolocalisation, le pouvoir de sanction et des tarifs imposés caractérisent un lien de subordination, et qu'un statut d'indépendant pouvait être « fictif ». L'Union européenne a adopté en 2024 une directive qui présume le salariat, à transposer au plus tard le 2 décembre 2026.\n\nSur le terrain, l'enquête « Santé-Course » de l'Ined et de l'IRD décrit des livreurs travaillant 63 heures par semaine pour un peu plus de 3 euros de l'heure, souvent sans papiers et obligés de louer un compte. Il est vrai que 70 % des livreurs parisiens interrogés en 2022 tenaient à leur autonomie : la gauche ne propose pas de la supprimer, mais d'y ajouter salaire minimum, protection sociale et droits collectifs.",
+    "detaille": "L'argument de la liberté repose sur le contrat : les livreurs s'inscrivent comme micro-entrepreneurs et peuvent se connecter quand ils veulent. Mais en droit du travail, ce n'est pas l'étiquette qui compte, c'est la réalité. Dans l'arrêt Take Eat Easy du 28 novembre 2018, la Cour de cassation a jugé que la géolocalisation « en temps réel » et le « pouvoir de sanction » de la plateforme caractérisaient un lien de subordination. Le 4 mars 2020, elle a confirmé que le statut d'un chauffeur Uber était « fictif » : il ne se constituait aucune clientèle propre et ses tarifs étaient « entièrement régis » par Uber.\n\nL'Europe a tiré les conséquences de cette jurisprudence. La directive (UE) 2024/2831 crée une présomption de relation de travail dès qu'il y a direction et contrôle, et c'est à la plateforme de prouver le contraire. La France doit la transposer au plus tard le 2 décembre 2026. En attendant, le dialogue social organisé par l'ARPE a obtenu en 2023 une garantie de 11,75 euros par heure d'activité, mais seulement pour le temps de course, pas pour l'attente.\n\nLes conditions réelles sont très dures. Selon l'enquête « Santé-Course » de l'Ined et de l'IRD, réalisée auprès de plus de 1 000 livreurs en 2025, ils déclarent travailler 63 heures par semaine pour 840 à 880 euros net par mois, un peu plus de 3 euros de l'heure, une fois payés la location de compte, les cotisations et le matériel. Près des deux tiers n'ont pas de titre de séjour et 76 % louent un compte. Pour eux, l'indépendance n'a rien d'un choix.\n\nIl faut aussi entendre l'autre partie : selon une note de l'Université Gustave Eiffel, 70 % des livreurs indépendants parisiens interrogés en 2022 se disaient attachés à leur autonomie et au choix de leurs horaires. Cette aspiration est légitime. Mais le salariat n'interdit pas les horaires choisis ; il apporte un salaire minimum, des congés, une assurance contre les accidents et le droit de se syndiquer. La liberté sans droits, c'est surtout la liberté de la plateforme.",
+    "empathie": "L'idée de travailler sans patron, quand on veut, est séduisante, et beaucoup de livreurs y tiennent sincèrement. Reconnaître ce désir d'autonomie est la meilleure façon de parler de ce qu'il cache."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Personne ne les force à s'inscrire.",
+      "reponse": "Selon l'enquête de l'Ined et de l'IRD, près des deux tiers des livreurs interrogés sont sans titre de séjour et 76 % louent le compte de quelqu'un d'autre : ils n'ont pas choisi ce statut, ils le subissent."
+    },
+    {
+      "objection": "S'ils deviennent salariés, les plateformes fermeront.",
+      "reponse": "La directive européenne s'applique à toute l'Union : les plateformes devront s'adapter partout, comme les autres entreprises qui paient des cotisations."
+    }
+  ],
+  "questions": [
+    "Est-on vraiment libre quand l'algorithme fixe le prix de chaque course et peut couper ton compte ?",
+    "Pourquoi un livreur n'aurait-il pas droit aux congés et à l'assurance accident comme un salarié de la restauration ?"
+  ],
+  "limites": [
+    "L'arrêt de 2020 concerne un chauffeur VTC d'Uber, pas un livreur Uber Eats ; il pose cependant les mêmes critères.",
+    "L'enquête Ined-IRD est rapportée par Public Sénat ; la publication scientifique n'a pas été lue directement, et son échantillon cible des livreurs suivis avec Médecins du Monde, possiblement plus précaires que la moyenne.",
+    "La note de l'Université Gustave Eiffel synthétise des enquêtes de 2021-2022 menées à Paris et Nantes.",
+    "L'état de la transposition française de la directive au 18 novembre 2026 n'a pas été vérifié.",
+    "La page d'Europe 1 sur la plainte pour traite d'êtres humains visant Deliveroo et Uber Eats n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Cour de cassation, chambre sociale, 4 mars 2020, n° 19-13.316 (Uber)",
+      "organisme": "Légifrance — Cour de cassation",
+      "date_publication": "4 mars 2020",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000042025162",
+      "passage": "La Cour approuve la cour d'appel d'avoir constaté que « le statut de travailleur indépendant de M. F... était fictif ». Le chauffeur intègre un service dans lequel il ne constitue « aucune clientèle propre », ne fixe pas librement ses tarifs ni les conditions de sa prestation, « qui sont entièrement régis par la société Uber BV ». Le lien de subordination se caractérise par « l'exécution d'un travail sous l'autorité d'un employeur qui a le pouvoir de donner des ordres et des directives ».",
+      "pertinence": "Décision de la plus haute juridiction judiciaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Soc. 28 nov. 2018, FP-P+B+R+I, n° 17-20.079 (Take Eat Easy)",
+      "organisme": "Dalloz actualité (texte de l’arrêt de la Cour de cassation)",
+      "date_publication": "28 novembre 2018",
+      "url": "https://www.dalloz-actualite.fr/document/soc-28-nov-2018-fppbri-n-17-20079",
+      "passage": "L'application comporte un « système de géolocalisation permettant le suivi en temps réel par la société » de la position du coursier ; « la société Take Eat Easy disposait d'un pouvoir de sanction à l'égard du coursier ». La Cour casse l'arrêt de la cour d'appel, qui n'avait pas « tiré les conséquences légales de ses constatations ».",
+      "pertinence": "Texte de l'arrêt publié par une revue juridique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Directive (UE) 2024/2831 relative à l'amélioration des conditions de travail dans le cadre du travail via une plateforme",
+      "organisme": "Parlement européen et Conseil de l’Union européenne (Journal officiel de l’UE, EUR-Lex)",
+      "date_publication": "23 octobre 2024",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ%3AL_202402831",
+      "passage": "Article 5 : la relation est présumée être une relation de travail lorsque des faits témoignent d'une direction et d'un contrôle ; pour renverser la présomption, il incombe à la plateforme « de prouver que la relation contractuelle en question n'est pas une relation de travail ». Article 29 : transposition « au plus tard le 2 décembre 2026 ». « Fait à Strasbourg, le 23 octobre 2024 ».",
+      "pertinence": "Texte officiel du droit de l'Union.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Dialogue social dans le secteur des plateformes de livraison : trois accords pour renforcer les droits et garanties",
+      "organisme": "Ministère de la Transition écologique (communiqué de presse)",
+      "date_publication": "20 avril 2023",
+      "url": "https://www.ecologie.gouv.fr/presse/dialogue-social-secteur-plateformes-livraison-trois-accords-renforcer-droits-garanties",
+      "passage": "Un accord instaure une garantie de 11,75 € par heure d'activité, calculée de l'acceptation d'une livraison jusqu'à la remise au client ; un autre encadre les désactivations de comptes et réaffirme « l'obligation d'une intervention humaine dans chaque procédure de désactivation ». Homologués par l'Autorité des relations sociales des plateformes d'emploi (ARPE), ces accords s'appliquent à tout le secteur.",
+      "pertinence": "Communiqué officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Une forme d'esclavage moderne » : la santé des livreurs Uber Eats et Deliveroo en alerte",
+      "organisme": "Emma Bador-Fritche, Public Sénat",
+      "date_publication": "31 mars 2026",
+      "url": "https://www.publicsenat.fr/actualites/societe/une-forme-desclavage-moderne-la-sante-des-livreurs-uber-eats-et-deliveroo-en-alerte",
+      "passage": "Enquête « Santé-Course » de l'IRD et de l'Ined, avec Médecins du Monde, fondée sur plus de 1 000 entretiens au premier semestre 2025 : les livreurs déclarent travailler en moyenne 63 heures par semaine ; chiffre d'affaires d'environ 1 480 € par mois, ramené à 840 à 880 € net après location de compte, cotisations et équipement, soit un peu plus de 3 € de l'heure ; 99 % sont des hommes, presque tous nés à l'étranger, près des deux tiers sans titre de séjour ; 76 % disent louer un compte pour travailler, environ 528 € par mois.",
+      "pertinence": "Chaîne parlementaire rapportant une enquête d'organismes publics de recherche.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Note sur les livreurs des plateformes",
+      "organisme": "Laetitia Dablanc, Université Gustave Eiffel (chaire Logistics City)",
+      "date_publication": "mars 2023",
+      "url": "https://www.lvmt.fr/wp-content/uploads/2019/10/Note-sur-les-livreurs-des-plateformes-mars-2023.pdf",
+      "passage": "Les livreurs indépendants parisiens sont « attachés à 70% d'entre eux à leur autonomie et au choix des horaires » et moins attachés au salariat. 91 % des livreurs parisiens sont de nationalité étrangère ; les livreurs sans statut leur permettant de travailler en France représenteraient au moins 30 %. Certains travaillent « en louant le compte d'un auto-entrepreneur, sur le modèle d'une économie informelle ». 59 % jugeaient leurs relations avec les plateformes difficiles en 2022, contre 40 % en 2021.",
+      "pertinence": "Note de recherche universitaire synthétisant des enquêtes de terrain.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Travailleurs de plateformes : pour un cadre européen protecteur et adapté (rapport d'information n° 27, 2022-2023)",
+      "organisme": "Sénat, commission des affaires européennes (Pascale Gruny et Laurence Harribey)",
+      "date_publication": "5 octobre 2022",
+      "url": "https://www.senat.fr/rap/r22-027/r22-02713.html",
+      "passage": "Les aspirations des travailleurs de plateformes sont diverses, « certains souhaitant rester indépendants » ; les rapporteures estiment que le statut doit résulter des conditions réelles de la relation de travail, et non du seul choix des travailleurs ou des plateformes.",
+      "pertinence": "Rapport parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Transposition française de la directive (UE) 2024/2831 et nouvelles publications de l'enquête Santé-Course.",
+  "objections_legitimes": [
+    "Beaucoup de livreurs, notamment étudiants, apprécient réellement la souplesse des horaires.",
+    "Le salariat classique peut sembler rigide pour des activités d'appoint.",
+    "Le dialogue social du secteur a obtenu un revenu horaire minimal et un encadrement des désactivations."
+  ],
+  "publics": {
+    "convaincus": "Tu dis qu'ils sont libres ? Les juges ont estimé que ce statut d'indépendant pouvait être « fictif » : c'est l'appli qui fixe les prix et coupe les comptes. Selon l'Ined, beaucoup travaillent 63 heures par semaine pour un peu plus de 3 euros de l'heure, en louant le compte d'un autre. Cette « liberté » arrange surtout les plateformes, qui ne paient ni cotisations ni congés.",
+    "indecis": "Beaucoup de livreurs tiennent à leurs horaires libres, et c'est légitime. Mais les tribunaux et l'Union européenne considèrent qu'une plateforme qui dirige et contrôle le travail doit se comporter en employeur. Le salariat peut garder la souplesse tout en garantissant un salaire minimum, une protection en cas d'accident et des droits collectifs."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "vulnerables",
+      "antiracisme"
+    ],
+    "mecanismes": "Le discours de la liberté individuelle masque un rapport de subordination : l’algorithme fixe les prix, attribue les courses et sanctionne, tandis que le statut d’indépendant transfère tous les risques sur le livreur.",
+    "consequences": "Des journées interminables payées sous le salaire minimum, aucune protection en cas d’accident et une sous-location de comptes qui livre les travailleurs sans papiers à une exploitation sans recours.",
+    "democratie": "Les juges et l’Union européenne ont rappelé que le droit du travail ne se contourne pas par un contrat ; c’est au législateur de le faire respecter sans attendre chaque procès.",
+    "propositions": [
+      "Transposer pleinement la présomption de salariat de la directive européenne, avec renversement de la charge de la preuve.",
+      "Garantir un salaire minimum incluant le temps d’attente, une assurance accident et le droit syndical.",
+      "Régulariser les livreurs sans papiers qui travaillent pour ces plateformes et sanctionner la location de comptes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une large part des livreurs interrogés se disent attachés à leur autonomie et au choix de leurs horaires.",
+        "integration": "La gauche ne veut pas supprimer cette souplesse : un salarié peut choisir ses créneaux, la différence est qu’il a des droits et un salaire garanti."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "livreurs_q2013",
+      "label": "Livreurs et plateformes"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "deliveroo",
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos"
+  ],
+  "concepts": [
+    "livreurs",
+    "immigration"
+  ]
+}

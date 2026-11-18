@@ -215,12 +215,6 @@
       }
     ]
   },
-  "concepts": [
-    "nucleaire_indep",
-    "europe",
-    "ecologie",
-    "russie"
-  ],
   "repond_a": [
     {
       "id": "nucleaire_indep_q1215",
@@ -236,5 +230,11 @@
     "poutine",
     "kremlin",
     "moscou"
+  ],
+  "concepts": [
+    "nucleaire_indep",
+    "europe",
+    "ecologie",
+    "russie"
   ]
 }

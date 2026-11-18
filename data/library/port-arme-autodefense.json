@@ -1,0 +1,234 @@
+{
+  "id": "port-arme-autodefense",
+  "type": "idee_recue",
+  "affirmation": "Il faudrait autoriser les Français à porter une arme pour se défendre.",
+  "volet": "securite",
+  "sous_theme": "Prévention et politiques publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "autoriser le port d arme",
+    "porter une arme pour se defendre",
+    "droit de porter une arme",
+    "arme autodefense",
+    "legitime defense arme",
+    "armer les citoyens",
+    "port d arme comme aux etats unis",
+    "avoir un pistolet chez soi",
+    "bombe lacrymogene legal",
+    "liberaliser les armes"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. L'idée suppose qu'une arme protège ; les recherches disent l'inverse : là où les armes sont plus disponibles, il y a davantage d'homicides et de suicides. Aux États-Unis, 44 447 personnes sont mortes par arme à feu en 2024, dont 62 % de suicides. En France, l'homicide est rare (0,6 à 1,3 pour 100 000 habitants). Le droit permet déjà de se défendre, dans les limites de la légitime défense.",
+  "contexte": "Après chaque fait divers violent, des voix réclament le droit pour chacun de porter une arme, sur le modèle américain. En France, le port d'arme est très encadré : même les armes de catégorie D, en vente libre, ne peuvent pas être portées dans la rue sans motif légitime.",
+  "explication": "On rappelle le droit en vigueur (port d'arme, légitime défense), puis on regarde ce que disent les recherches de santé publique sur la disponibilité des armes, et on compare les niveaux de violence en France et aux États-Unis.",
+  "faits": [
+    {
+      "fait": "Selon Service-Public.fr, seules les armes de catégorie D peuvent être achetées et détenues librement, et leur port hors du domicile est interdit sans motif légitime : vouloir se défendre « ne constitue pas un motif légitime en soi ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le droit français refuse que la peur d'une agression justifie de circuler armé.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Service-Public.fr, porter une arme de catégorie D sans motif légitime est puni de 15 000 € d'amende et d'un an de prison.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La sanction montre que le législateur considère le port d'arme comme un danger pour l'ordre public.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "15 000 €"
+    },
+    {
+      "fait": "Selon Service-Public.fr, la légitime défense (articles 122-5 et 122-6 du code pénal) suppose une attaque injustifiée et une défense immédiate, nécessaire et proportionnée.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Se défendre est déjà un droit reconnu ; ce qui est encadré, c'est la riposte disproportionnée.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Harvard Injury Control Research Center, une étude portant sur 26 pays à hauts revenus conclut que « where guns are more available, there are more homicides », résultat qui tient souvent même sans les États-Unis.",
+      "periode": "2000",
+      "perimetre": "pays à hauts revenus",
+      "explication": "Plus d'armes en circulation, c'est plus de morts, pas plus de sécurité.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Harvard Injury Control Research Center, l'arme à feu est le moyen de suicide le plus létal (89,6 % de tentatives mortelles), et les acheteurs d'armes de poing en Californie étaient bien plus susceptibles de mourir par suicide.",
+      "periode": "2019-2020",
+      "perimetre": "États-Unis",
+      "explication": "Une arme à la maison transforme une crise passagère en drame irréversible.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "89,6 %"
+    },
+    {
+      "fait": "Selon le Pew Research Center, 44 447 personnes sont mortes par arme à feu aux États-Unis en 2024, dont 27 593 suicides et 15 364 homicides ; 76 % des homicides y ont été commis avec une arme à feu.",
+      "periode": "2024",
+      "perimetre": "États-Unis",
+      "explication": "Le pays où l'on s'arme le plus pour se protéger compte des dizaines de milliers de morts par arme à feu chaque année.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "44 447"
+    },
+    {
+      "fait": "Selon l'Observatoire scientifique du crime et de la justice (CESDIP), la France métropolitaine comptait en 2020 entre 425 et 831 homicides selon la source, soit 0,6 à 1,3 pour 100 000 habitants, un niveau qualifié de « très bas ».",
+      "periode": "2020",
+      "perimetre": "France métropolitaine",
+      "explication": "À titre de comparaison, le seul taux d'homicide par arme à feu des États-Unis était de 4,7 pour 100 000 en 2024 selon le Pew Research Center.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "0,6 à 1,3 pour 100 000"
+    },
+    {
+      "fait": "Fait défavorable : selon le Pew Research Center, le taux d'homicide par arme à feu des États-Unis a baissé depuis 2021, et il reste inférieur à celui de plus de vingt autres pays et territoires.",
+      "periode": "2021-2024",
+      "perimetre": "monde",
+      "explication": "La disponibilité des armes n'explique pas à elle seule le niveau de violence : d'autres facteurs pèsent, et les études citées établissent surtout des corrélations solides et répétées, pas une loi mécanique.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Se défendre est déjà un droit, encadré par la légitime défense. Mais porter une arme ne protège pas : là où il y a plus d'armes, il y a plus d'homicides et de suicides. Aux États-Unis, 44 447 personnes sont mortes par arme à feu en 2024. En France, l'homicide reste rare : 0,6 à 1,3 pour 100 000 habitants.",
+    "moyen": "En France, on peut détenir librement une bombe lacrymogène ou certaines armes de catégorie D, mais pas les porter dans la rue sans motif légitime, et la peur d'une agression n'en est pas un. Se défendre reste un droit : la légitime défense couvre une riposte immédiate, nécessaire et proportionnée.\n\nLes recherches de santé publique sont claires : dans les pays riches comme dans les États américains, là où les armes sont plus disponibles, il y a plus d'homicides et plus de suicides. L'arme à feu est le moyen de suicide le plus mortel. Aux États-Unis, 44 447 personnes sont mortes par arme à feu en 2024, dont 27 593 suicides. En France, l'homicide est rare. Armer tout le monde, c'est rendre chaque dispute, chaque crise et chaque cambriolage potentiellement mortels.",
+    "detaille": "Le droit français distingue détenir et porter une arme. Seules les armes de catégorie D, comme les bombes lacrymogènes, s'achètent librement ; mais leur port hors du domicile est interdit sans motif légitime, et Service-Public.fr précise que vouloir se défendre « ne constitue pas un motif légitime en soi ». L'infraction est punie de 15 000 € d'amende et d'un an de prison. Cela ne prive personne du droit de se défendre : la légitime défense, prévue par le code pénal, protège une riposte immédiate, nécessaire et proportionnée à une attaque injustifiée.\n\nL'idée qu'une arme protège se heurte aux recherches. Le Harvard Injury Control Research Center résume plusieurs décennies de travaux publiés : dans 26 pays à hauts revenus, « where guns are more available, there are more homicides » ; dans les États américains, plus de foyers armés signifie plus d'homicides par arme à feu et plus d'homicides au total, sans lien avec les homicides commis autrement. Pour le suicide, l'arme à feu est le moyen le plus létal (89,6 % des tentatives mortelles), et les acheteurs d'armes de poing californiens sont bien plus nombreux à mourir par suicide.\n\nLes États-Unis montrent le résultat. En 2024, 44 447 personnes y sont mortes par arme à feu : 27 593 suicides et 15 364 homicides ; 76 % des homicides y sont commis avec une arme à feu, et le taux d'homicide par arme à feu atteint 4,7 pour 100 000 habitants. En France métropolitaine, les homicides de toutes natures représentaient en 2020 entre 0,6 et 1,3 pour 100 000 habitants, un niveau que les chercheurs du CESDIP qualifient de « très bas ».\n\nIl faut rester honnête : les armes n'expliquent pas tout, puisque des pays d'Amérique latine ont des taux bien plus élevés que les États-Unis, et les études établissent des corrélations solides plutôt qu'une loi mécanique. Mais aucune donnée lue ne montre qu'armer la population rendrait la France plus sûre. La sécurité passe par la prévention, une police et une justice présentes, et la réduction des inégalités, pas par une course aux armes entre voisins.",
+    "empathie": "Avoir peur pour soi ou pour ses proches est une émotion profonde, surtout après un fait divers. Vouloir pouvoir se défendre est compréhensible ; la question est de savoir si une arme protège vraiment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec une arme, je pourrais me défendre contre un agresseur.",
+      "reponse": "Les études montrent que là où il y a plus d'armes, il y a plus d'homicides, et que l'arme à la maison sert bien plus souvent à un suicide ou à un drame familial qu'à repousser un agresseur. Et la légitime défense existe déjà."
+    },
+    {
+      "objection": "Aux États-Unis, ils sont libres de se défendre.",
+      "reponse": "Ils ont surtout 44 447 morts par arme à feu en 2024, dont une majorité de suicides. La France a un taux d'homicide très bas : ce n'est pas un modèle à importer."
+    }
+  ],
+  "questions": [
+    "Une arme chez soi sert-elle plus souvent à repousser un cambrioleur ou à blesser quelqu'un de la famille ?",
+    "Si tout le monde est armé, une dispute de voisinage ou une altercation routière se termine-t-elle mieux ou plus mal ?"
+  ],
+  "limites": [
+    "Les études citées sont surtout américaines et en grande partie observationnelles : elles établissent des associations répétées, pas une causalité démontrée au sens expérimental.",
+    "Le chiffre français vient de données de 2020 (fiche du CESDIP) ; les données SSMSI plus récentes n'ont pas été lues.",
+    "Les fiches Service-Public sur la légitime défense ont été lues dans leur traduction automatique en anglais.",
+    "Les pages Légifrance (article 122-5 du code pénal) et les statistiques des CDC n'ont pas pu être ouvertes ; les estimations du Small Arms Survey n'ont pas été trouvées sur une source primaire.",
+    "Aucune source lue ne compare directement le taux d'homicide de la France et des États-Unis : la comparaison rapproche deux sources différentes."
+  ],
+  "sources": [
+    {
+      "titre": "Peut-on porter une arme pour se défendre (couteau, bombe lacrymogène...) ?",
+      "organisme": "Service-Public.fr (Direction de l’information légale et administrative)",
+      "date_publication": "vérifié le 24 octobre 2025",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33658?lang=fr",
+      "passage": "« Seule une arme classée en catégorie D peut être achetée et détenue librement. » Le port et le transport hors du domicile « sont interdits sans motif légitime » ; vouloir se défendre en cas d'altercation ou de danger « ne constitue pas un motif légitime en soi ». Port ou transport d'une arme à feu de catégorie D ou d'une autre arme de catégorie D : 15 000 € d'amende et 1 an de prison (30 000 € et 2 ans à plusieurs). Références : code de la sécurité intérieure, articles R315-1 à R315-4.",
+      "pertinence": "Fiche pratique officielle de l'administration.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Qu'est-ce que la légitime défense ?",
+      "organisme": "Service-Public.fr (Direction de l’information légale et administrative)",
+      "date_publication": "vérifié le 5 juin 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1766",
+      "passage": "Conditions de la légitime défense (articles 122-5 et 122-6 du code pénal) : l'attaque doit être injustifiée ; la défense doit concerner soi-même ou autrui ; elle doit être immédiate, c'est-à-dire avoir lieu pendant l'agression ; elle doit être nécessaire, la riposte étant la seule solution ; elle doit être proportionnée à la gravité de l'attaque.",
+      "pertinence": "Fiche pratique officielle (lue dans sa version traduite en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Firearms Research — Homicide",
+      "organisme": "Harvard Injury Control Research Center, Harvard T.H. Chan School of Public Health",
+      "date_publication": "consulté le 18 novembre 2026",
+      "url": "https://hsph.harvard.edu/research/injury-control/firearms-research/homicide",
+      "passage": "Revue de littérature (Hepburn et Hemenway, 2004) : « a broad array of evidence indicates that gun availability is a risk factor for homicide ». Étude de 26 pays à hauts revenus (Hemenway et Miller, 2000) : « where guns are more available, there are more homicides », résultat qui tient souvent même sans les États-Unis. États américains, 2001-2003 (Miller, Azrael et Hemenway, 2007) : « states with higher levels of household gun ownership had higher rates of firearm homicide and overall homicide » ; « There was no association between gun prevalence and non-firearm homicide ».",
+      "pertinence": "Synthèse des travaux d'un centre de recherche universitaire publiés dans des revues à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Firearms Research — Suicide",
+      "organisme": "Harvard Injury Control Research Center, Harvard T.H. Chan School of Public Health",
+      "date_publication": "consulté le 18 novembre 2026",
+      "url": "https://hsph.harvard.edu/research/injury-control/firearms-research/suicide",
+      "passage": "« States with higher levels of household gun ownership had higher rates of firearm suicide and overall suicide » (Journal of Trauma, 2007). « Firearms were the most lethal (89.6%) followed by drowning (56.4%) and hanging (52.7%) » (Annals of Internal Medicine, 2019). Cohorte californienne d'acheteurs d'armes de poing : « these people were far more likely to die by suicide, because of their high rates of firearm suicide » (New England Journal of Medicine, 2020).",
+      "pertinence": "Synthèse des travaux d'un centre de recherche universitaire publiés dans des revues à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "What the data says about gun deaths in the U.S.",
+      "organisme": "Pew Research Center",
+      "date_publication": "28 avril 2026",
+      "url": "https://pewresearch.org/short-reads/2023/04/26/what-the-data-says-about-gun-deaths-in-the-u-s/",
+      "passage": "« In 2024, the most recent year with complete data, 44,447 people died from gun-related injuries » ; 62 % étaient des suicides (27 593) et 35 % des homicides (15 364). « The gun homicide rate fell to 4.7 fatalities per 100,000 people in 2024. » « In 2024, 76% of all U.S. homicides (15,364 of 20,162) involved a firearm. » En 2023 (données IHME), le taux d'homicide par arme à feu des États-Unis (6,2) était inférieur à celui de « more than two dozen other countries and territories ».",
+      "pertinence": "Centre de recherche américain non partisan, à partir des données des CDC.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'homicide est rare",
+      "organisme": "Observatoire scientifique du crime et de la justice (OSCJ), CESDIP (CNRS, ministère de la Justice, UVSQ)",
+      "date_publication": "2024",
+      "url": "https://oscj2.cesdip.fr/wp-content/uploads/2024/06/Lhomicide-est-rare.pdf",
+      "passage": "France métropolitaine : « Soit 425 pour la statistique des causes de décès en 2020 et 831 pour la statistique policière la même année. » Hors tentatives, les deux sources donnent des taux de 0,6 à 1,3 pour 100 000 habitants. « En tendance, l'homicide volontaire se situe actuellement à un niveau très bas. »",
+      "pertinence": "Fiche d'un observatoire rattaché à un laboratoire public de recherche (sources : SSMSI, Inserm-CépiDc).",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données du Pew Research Center et des CDC, et statistiques françaises récentes sur les homicides (SSMSI, Inserm-CépiDc).",
+  "objections_legitimes": [
+    "Le sentiment d'insécurité et la peur de l'agression sont réels et méritent des réponses.",
+    "Chacun doit pouvoir se défendre face à une attaque : c'est le sens de la légitime défense.",
+    "Les bombes lacrymogènes et autres armes de catégorie D peuvent déjà être détenues librement chez soi : la question du port mérite d'être posée clairement."
+  ],
+  "publics": {
+    "convaincus": "Je comprends que tu veuilles pouvoir te défendre, et la loi te le permet déjà avec la légitime défense. Mais regarde les États-Unis : 44 447 morts par arme à feu en 2024, et la majorité sont des suicides. Les chercheurs de Harvard le répètent depuis des années : plus d'armes, c'est plus d'homicides, pas moins.",
+    "indecis": "Le droit permet déjà de se défendre, à condition que la riposte soit immédiate, nécessaire et proportionnée. La question est de savoir si une arme protège : les études montrent que là où les armes sont plus répandues, il y a davantage d'homicides et de suicides. La France a un taux d'homicide très bas, entre 0,6 et 1,3 pour 100 000 habitants : mieux vaut renforcer la prévention que d'armer tout le monde."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "solidarite",
+      "services_publics"
+    ],
+    "mecanismes": "La peur légitime d’une agression est transformée en demande de réarmement individuel, sur le modèle américain, alors que la sécurité relève d’une protection collective et que la disponibilité des armes accroît homicides et suicides.",
+    "consequences": "Davantage d’armes en circulation, ce sont des disputes, des crises suicidaires et des violences conjugales plus souvent mortelles, et une industrie de l’armement qui prospère sur la peur.",
+    "democratie": "Le monopole de la force légitime par des services publics contrôlés démocratiquement protège mieux que la loi du plus armé ; la légitime défense garantit déjà le droit de se protéger.",
+    "propositions": [
+      "Renforcer la prévention, la police de proximité et la justice du quotidien plutôt que l’armement des particuliers.",
+      "Développer la prévention du suicide et la restriction temporaire de l’accès aux armes pour les personnes en crise.",
+      "Mieux informer sur la légitime défense et ses conditions pour répondre au sentiment d’impuissance."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le taux d’homicide par arme à feu des États-Unis a baissé ces dernières années et reste inférieur à celui de nombreux autres pays.",
+        "integration": "Les armes n’expliquent pas tout : d’autres facteurs sociaux pèsent aussi. Raison de plus pour s’attaquer aux causes sociales de la violence plutôt que d’ajouter des armes."
+      }
+    ]
+  },
+  "repond_a": [
+    {
+      "id": "port_arme_q2013",
+      "label": "Port d’arme et autodéfense"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "port d arme",
+    "deuxieme amendement",
+    "legitime defense"
+  ],
+  "concepts": [
+    "port_arme",
+    "legitime_defense"
+  ]
+}

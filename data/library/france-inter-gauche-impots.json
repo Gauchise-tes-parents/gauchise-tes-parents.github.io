@@ -218,14 +218,6 @@
       }
     ]
   },
-  "concepts": [
-    "france_inter",
-    "fiscalite",
-    "services_publics",
-    "medias",
-    "gauche",
-    "cout"
-  ],
   "repond_a": [
     {
       "id": "gauche_q1215_france_inter",
@@ -258,5 +250,13 @@
     "cachent la verite",
     "nous cachent",
     "on nous cache"
+  ],
+  "concepts": [
+    "france_inter",
+    "fiscalite",
+    "services_publics",
+    "medias",
+    "gauche",
+    "cout"
   ]
 }
