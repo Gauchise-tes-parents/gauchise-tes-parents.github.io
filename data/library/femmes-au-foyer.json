@@ -205,10 +205,6 @@
       }
     ]
   },
-  "concepts": [
-    "femmes",
-    "femmes_foyer"
-  ],
   "repond_a": [
     {
       "id": "femmes_foyer_q0614",
@@ -223,5 +219,9 @@
   "synonymes": [
     "sexisme",
     "patriarcat"
+  ],
+  "concepts": [
+    "femmes",
+    "femmes_foyer"
   ]
 }

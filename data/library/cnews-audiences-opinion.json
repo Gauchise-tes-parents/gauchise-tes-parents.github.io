@@ -235,10 +235,6 @@
       }
     ]
   },
-  "concepts": [
-    "medias",
-    "c8_arcom"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -252,5 +248,9 @@
     "hanouna",
     "tpmp",
     "arcom"
+  ],
+  "concepts": [
+    "medias",
+    "c8_arcom"
   ]
 }

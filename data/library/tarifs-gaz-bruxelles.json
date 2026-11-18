@@ -200,10 +200,6 @@
       }
     ]
   },
-  "concepts": [
-    "europe",
-    "trv_gaz"
-  ],
   "repond_a": [
     {
       "id": "trv_gaz_q0614",
@@ -218,5 +214,9 @@
   "synonymes": [
     "bruxelles",
     "union europeenne"
+  ],
+  "concepts": [
+    "europe",
+    "trv_gaz"
   ]
 }

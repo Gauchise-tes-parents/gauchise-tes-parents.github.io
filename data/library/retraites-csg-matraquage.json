@@ -1,0 +1,236 @@
+{
+  "id": "retraites-csg-matraquage",
+  "type": "idee_recue",
+  "affirmation": "Les retraités paient trop de CSG, on les matraque.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "csg retraites",
+    "csg sur les pensions",
+    "hausse csg 2018",
+    "taux csg retraite",
+    "retraites matraques",
+    "csg pension baisse",
+    "impots des retraites",
+    "retraites vaches a lait"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La hausse de CSG de 2018 a bien touché 60 % des retraités, et elle a été en partie corrigée dès 2019 avec un taux intermédiaire de 6,6 %. Aujourd'hui, le taux dépend du revenu : exonération pour les plus modestes, puis 3,8 %, 6,6 % ou 8,3 %. En moyenne, le niveau de vie des retraités est proche de celui de l'ensemble de la population, et les ménages retraités paient moins d'impôts et de prélèvements que les ménages d'actifs. Le vrai clivage passe entre petites et grosses pensions, pas entre retraités et actifs.",
+  "contexte": "La CSG (contribution sociale généralisée) est prélevée sur les salaires, les pensions et les revenus du patrimoine pour financer la Sécurité sociale. La hausse décidée en 2018 a provoqué la colère de nombreux retraités, et chaque budget relance le débat sur l'effort demandé aux pensions.",
+  "explication": "Il faut regarder le barème réel de la CSG sur les pensions, l'histoire de la hausse de 2018 et de sa correction, puis comparer le niveau de vie et les prélèvements des retraités à ceux des actifs à partir des données publiques.",
+  "faits": [
+    {
+      "fait": "En 2026, pour une personne seule en métropole, la pension est exonérée de CSG si le revenu fiscal de référence de 2024 est inférieur à 13 048 € ; le taux est de 3,8 % jusqu'à 17 057 €, de 6,6 % jusqu'à 26 472 € et de 8,3 % au-delà. Ces seuils ont été revalorisés de 1,8 %, au rythme de l'inflation de 2024.",
+      "periode": "2026",
+      "perimetre": "France métropolitaine",
+      "explication": "La CSG sur les pensions est progressive : les petites retraites paient peu ou rien.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "13 048 €"
+    },
+    {
+      "fait": "Fait défavorable : la CSG a augmenté de 1,7 point au 1er janvier 2018, et cette hausse a touché 60 % des retraités, soit 7,5 millions de personnes, selon Public Sénat.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "La colère des retraités en 2018 reposait sur une perte bien réelle, qui finançait la suppression de cotisations des salariés.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "7,5 millions"
+    },
+    {
+      "fait": "Selon le ministère, la loi de financement de la Sécurité sociale pour 2019 et une loi d'urgence de décembre 2018 ont créé le taux intermédiaire de 6,6 %, appliqué à partir de mai 2019 avec remboursement du trop-perçu depuis janvier.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "La hausse a été annulée pour une partie des retraités moyens, sous la pression sociale.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : la même année, les pensions n'ont été revalorisées que de 0,3 % en 2019, pour une inflation attendue de 1,3 %.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Au-delà de la CSG, c'est la sous-indexation des pensions qui a pesé sur le pouvoir d'achat des retraités.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "0,3 %"
+    },
+    {
+      "fait": "Selon le COR, en 2023, le niveau de vie moyen des retraités (2 473 € par mois) équivaut à celui de l'ensemble de la population (2 468 €) et reste inférieur à celui des actifs (2 693 €).",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "En moyenne, les retraités ne sont ni des privilégiés ni des sacrifiés ; les écarts sont surtout internes à leur groupe.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "100,2 %"
+    },
+    {
+      "fait": "Selon le COR, les ménages retraités acquittent chaque mois en moyenne 415 € d'impôts et de prélèvements, contre 787 € pour les ménages d'actifs.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les retraités ne sont pas les plus taxés : les actifs paient davantage, en partie parce que leurs ménages sont plus grands et leurs revenus plus élevés.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "415 €"
+    },
+    {
+      "fait": "Selon l'Insee, le taux de pauvreté des retraités est de 10,4 % en 2024, contre 15,4 % pour l'ensemble de la population.",
+      "periode": "2024",
+      "perimetre": "France métropolitaine",
+      "explication": "La pauvreté touche moins les retraités que le reste de la population, même si elle existe, notamment chez les femmes seules âgées.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "10,4 %"
+    },
+    {
+      "fait": "Pour 2026, le gouvernement proposait de geler les seuils de la CSG au lieu de les indexer sur l'inflation ; selon Public Sénat, un sénateur craignait que certains retraités basculent ainsi vers un taux supérieur.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Geler un barème est une hausse d'impôt discrète qui frappe d'abord les revenus juste au-dessus des seuils.",
+      "source": 5,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "La CSG sur les pensions dépend du revenu : les petites retraites sont exonérées ou taxées à 3,8 %, les plus aisées à 8,3 %. La hausse de 2018 a été réelle et en partie annulée en 2019. En moyenne, les retraités ont un niveau de vie proche du reste de la population et paient moins de prélèvements que les actifs.",
+    "moyen": "La colère vient d'un épisode réel : en 2018, la CSG a augmenté de 1,7 point pour 60 % des retraités, afin de financer la baisse des cotisations des salariés. Dès 2019, un taux intermédiaire de 6,6 % a été créé en 2019 pour les retraités moyens. Aujourd'hui, une personne seule dont le revenu fiscal est inférieur à 13 048 € ne paie pas de CSG sur sa pension, et le taux plein de 8,3 % ne s'applique qu'au-delà de 26 472 €.\n\nEn moyenne, le niveau de vie des retraités est équivalent à celui de l'ensemble des Français, un peu inférieur à celui des actifs, et leurs ménages paient moins d'impôts et de prélèvements. Dire que tous les retraités sont matraqués mélange la petite retraitée qui vit avec très peu et le cadre retraité aisé. Ce qui a vraiment pesé sur les pensions, ce sont aussi les revalorisations inférieures à l'inflation.",
+    "detaille": "La CSG finance la Sécurité sociale. Elle est prélevée sur tous les revenus, mais avec des taux différents. Sur les pensions, la lettre de la Direction de la sécurité sociale de décembre 2025 fixe pour 2026 quatre situations selon le revenu fiscal de référence de 2024 : exonération en dessous de 13 048 € pour une part, 3,8 % jusqu'à 17 057 €, 6,6 % jusqu'à 26 472 €, 8,3 % au-delà. Pour éviter les effets de seuil, on ne passe au taux supérieur que si le revenu dépasse le plafond deux années de suite.\n\nLa hausse de 2018 a été un vrai choc : 1,7 point de plus pour 7,5 millions de retraités, selon Public Sénat, au nom du pouvoir d'achat des actifs. Le gouvernement a reculé en partie : 300 000 retraités ont d'abord été épargnés, puis la loi de décembre 2018 et la loi de financement pour 2019 ont créé le taux de 6,6 %. La même année, les pensions n'étaient revalorisées que de 0,3 % pour une inflation de 1,3 % : c'est autant la sous-indexation que la CSG qui a rogné les pensions.\n\nEn moyenne, la situation des retraités n'est pas celle d'un groupe écrasé d'impôts. Selon le COR, leur niveau de vie moyen en 2023 équivaut à celui de l'ensemble de la population, un peu en dessous des actifs, et les ménages retraités paient moins d'impôts et de prélèvements. Selon l'Insee, leur taux de pauvreté est plus bas que la moyenne. Mais ces moyennes cachent de fortes inégalités entre petites et grosses pensions, entre hommes et femmes. Une politique juste protège les petites pensions et fait contribuer davantage les hauts revenus et le patrimoine, quel que soit l'âge.",
+    "empathie": "Voir sa pension baisser alors qu'on a travaillé toute sa vie est vécu comme une injustice, et la hausse de 2018 a été imposée sans concertation. Cette colère est compréhensible, surtout pour ceux qui vivent avec une petite retraite."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les retraités paient plus que les autres.",
+      "reponse": "Non : le taux de CSG sur les pensions est au maximum de 8,3 %, et les petites pensions sont exonérées ou taxées à 3,8 %. Selon le COR, les ménages retraités paient en moyenne moins d'impôts et de prélèvements que les ménages d'actifs."
+    },
+    {
+      "objection": "On prend aux retraités pour donner aux autres.",
+      "reponse": "En 2018, la hausse finançait bien la baisse des cotisations des salariés. Mais elle a été corrigée en partie dès 2019, et le débat de fond est de savoir qui doit financer la Sécurité sociale : les petites pensions ou les gros revenus et le patrimoine."
+    }
+  ],
+  "questions": [
+    "Sur votre avis d'impôt, quel est votre revenu fiscal de référence, et à quel taux de CSG correspond-il ?",
+    "Faut-il faire payer la même chose à un retraité modeste et à un retraité qui a un gros patrimoine ?"
+  ],
+  "limites": [
+    "Les moyennes de niveau de vie cachent de fortes inégalités entre retraités ; les données du COR portent sur 2023 et l'effet de la propriété du logement est estimé sur des données de 2021.",
+    "Les montants d'impôts et de prélèvements du COR sont par ménage : les ménages d'actifs sont plus grands, ce qui explique une partie de l'écart.",
+    "La question écrite de l'Assemblée a été lue à travers un outil de lecture qui résume ; les seuils de 2019 qu'elle cite n'ont pas été repris.",
+    "La fiche du panorama de la DREES sur le niveau de vie des retraités n'a pas pu être ouverte.",
+    "Les propositions précises du RN et de LFI sur la CSG des retraités n'ont pas été vérifiées dans une source lue."
+  ],
+  "sources": [
+    {
+      "titre": "Modalités d'assujettissement des prélèvements sociaux sur les revenus de remplacement applicables au 1er janvier 2026",
+      "organisme": "Direction de la sécurité sociale (ministère chargé de la Sécurité sociale), lettre publiée par l’Assurance retraite",
+      "date_publication": "11 décembre 2025",
+      "url": "https://legislation.lassuranceretraite.fr/Pdf/instruction_ministerielle_11122025.pdf",
+      "passage": "Seuils 2026 pour une part fiscale en métropole, selon le revenu fiscal de référence de 2024 : exonération en dessous de 13 048 € ; taux de 3,8 % entre 13 048 € et 17 057 € ; taux de 6,6 % entre 17 057 € et 26 472 € ; taux de 8,3 % à partir de 26 472 €. Les seuils sont « revalorisés de l'inflation de 2024 s'établissant à + 1,8 % ». Le passage à un taux supérieur à 3,8 % n'intervient que si les revenus dépassent le plafond deux années de suite. S'y ajoutent la CRDS (0,5 %) et la CASA (0,3 %) sur les pensions de retraite.",
+      "pertinence": "Instruction officielle de l'administration de la Sécurité sociale fixant le barème appliqué aux pensions.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 16564 (M. Bruno Fuchs) sur l'application du taux intermédiaire de CSG aux pensions, et réponse du ministère",
+      "organisme": "Assemblée nationale (XVe législature)",
+      "date_publication": "question publiée le 5 février 2019, réponse publiée le 11 mai 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE16564.pdf",
+      "passage": "Le ministère rappelle que la CSG « a augmenté de 1,7 point au 1er janvier 2018 » sur l'ensemble des revenus, hors allocations chômage et indemnités journalières, pour financer la suppression de cotisations salariales des actifs. Des correctifs ont été apportés pour les retraités par la loi de financement de la Sécurité sociale pour 2019 et par une loi d'urgence économique et sociale de décembre 2018 : depuis le 1er janvier 2019, il existe quatre situations selon le revenu fiscal de référence (exonération, 3,8 %, 6,6 %, 8,3 %). Le taux de 6,6 % n'a été appliqué qu'aux versements à partir de mai 2019 ; le trop-perçu de janvier à avril a été remboursé.",
+      "pertinence": "Réponse officielle du gouvernement publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le gouvernement à l’offensive pour désamorcer la grogne des retraités",
+      "organisme": "Valentin Bontemps, Public Sénat",
+      "date_publication": "20 septembre 2018",
+      "url": "https://www.publicsenat.fr/actualites/politique/le-gouvernement-a-l-offensive-pour-desamorcer-la-grogne-des-retraites-133337",
+      "passage": "La hausse de 1,7 point de CSG touche 60 % des retraités, soit 7,5 millions de personnes, au-delà d'un revenu fiscal de référence annuel de 14 404 € pour une personne seule et 22 051 € pour un couple. Une mesure de correction exonère 300 000 retraités de la hausse, pour un coût de 350 millions d'euros. Les pensions ne seront revalorisées que de 0,3 % en 2019, alors que l'inflation est attendue à 1,3 %.",
+      "pertinence": "Chaîne parlementaire ; article d'actualité sur les mesures de 2018.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport annuel du COR – Juin 2026, partie 3, chapitre 2 (niveau de vie des retraités)",
+      "organisme": "Conseil d’orientation des retraites (COR)",
+      "date_publication": "juin 2026",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2026-06/RA_Part3_Chap2.pdf",
+      "passage": "En 2023, le niveau de vie moyen des retraités atteint 2 473 € par mois et par unité de consommation, contre 2 468 € pour l'ensemble de la population (100,2 %) et 2 693 € pour les actifs. En tenant compte des loyers que les propriétaires n'ont pas à payer, il est « de 6,5 % plus élevé » que celui de l'ensemble, « un niveau très proche de celui des actifs » (estimation sur données 2021). Les ménages retraités acquittent chaque mois 120 € d'impôts et 294 € de prélèvements sociaux, et au total moins d'impôts et de prélèvements que les ménages d'actifs (« respectivement 415 euros et 787 euros »). La hausse de CSG de 2018 a été annulée en 2019 pour le cas type d'ancien non-cadre avec la création d'un taux médian. Projection du niveau de vie relatif des retraités : 103,2 % en 2025-2026, puis 96,3 % en 2045 et 90,3 % en 2070.",
+      "pertinence": "Organisme public d'expertise placé auprès du Premier ministre.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Niveau de vie et pauvreté en 2024 (Insee Première n° 2117)",
+      "organisme": "Christelle Rieg et Arnaud Rousset, Insee",
+      "date_publication": "9 juillet 2026",
+      "url": "https://insee.fr/fr/statistiques/9019316",
+      "passage": "Niveau de vie médian : 2 228 € par mois en 2024. Taux de pauvreté de l'ensemble de la population : 15,4 %, au plus haut depuis 1996. Taux de pauvreté des retraités : 10,4 %, en baisse de 0,7 point. Le niveau de vie médian des retraités augmente de 3,5 % en euros constants (1,8 % pour l'ensemble), notamment grâce à la revalorisation des pensions de base de 5,3 % au 1er janvier 2024 ; il « dépasse ainsi légèrement » celui de l'ensemble de la population.",
+      "pertinence": "Institut public de la statistique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Budget de la Sécu : le Sénat rétablit le gel du barème de la CSG",
+      "organisme": "Romain David, Public Sénat",
+      "date_publication": "20 novembre 2025",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/budget-de-la-secu-le-senat-retablit-le-gel-du-bareme-de-la-csg",
+      "passage": "Le gouvernement proposait de geler pour 2026 les seuils de la CSG sur les revenus de remplacement au lieu de les indexer sur l'inflation ; les députés l'avaient supprimé, le Sénat l'a rétabli (gain attendu : environ 300 millions d'euros). Le sénateur Bernard Fialaire craint de voir « certains retraités ou invalides » basculer vers un taux supérieur ; les députés RN avaient rejeté la mesure à l'Assemblée ; la communiste Céline Brulin parle d'« une année noire pour les chômeurs, les petits retraités ».",
+      "pertinence": "Chaîne parlementaire ; compte rendu des débats du Sénat.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Barème de CSG applicable au 1er janvier 2027 et mesures du budget de la Sécurité sociale pour 2027.",
+  "objections_legitimes": [
+    "La hausse de CSG de 2018 a réellement fait baisser la pension nette de millions de retraités.",
+    "Les revalorisations inférieures à l'inflation, comme en 2019, ont fait perdre du pouvoir d'achat.",
+    "Le gel d'un barème est une hausse d'impôt discrète qui touche d'abord les revenus juste au-dessus des seuils."
+  ],
+  "publics": {
+    "convaincus": "Vous avez raison sur un point : la hausse de 2018 a été injuste et brutale pour des millions de retraités. Mais aujourd'hui la CSG dépend du revenu : les petites pensions sont exonérées ou à 3,8 %, et le taux plein ne touche que les revenus plus élevés. Le vrai combat, c'est de protéger les petites pensions et de faire payer les gros patrimoines, pas d'opposer retraités et actifs.",
+    "indecis": "La CSG sur votre pension dépend de votre revenu fiscal de référence, inscrit sur votre avis d'impôt : en dessous de 13 048 € pour une personne seule, vous n'en payez pas. La hausse de 2018 a bien existé et a été corrigée en partie en 2019. En moyenne, les retraités ont un niveau de vie proche du reste des Français, mais les petites pensions restent fragiles."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "solidarite",
+      "vulnerables"
+    ],
+    "mecanismes": "Une hausse réelle et brutale, imposée sans concertation, sert de base à un récit global où tous les retraités seraient matraqués. On oppose alors retraités et actifs, alors que le vrai clivage passe entre petites et grosses pensions, et entre revenus du travail et du patrimoine.",
+    "consequences": "Les petites pensions, souvent celles des femmes, subissent surtout les revalorisations inférieures à l’inflation et les gels de barème, tandis que les débats se concentrent sur une guerre des générations.",
+    "democratie": "Les choix sur le financement de la Sécurité sociale doivent être débattus au Parlement à partir de données publiques, pas glissés dans des gels de barème discrets.",
+    "propositions": [
+      "Indexer toutes les pensions sur l’inflation et protéger en priorité les petites retraites.",
+      "Faire contribuer davantage les hauts revenus et les gros patrimoines au financement de la Sécurité sociale, quel que soit l’âge.",
+      "Refuser les gels de barème qui augmentent l’impôt des revenus modestes sans le dire."
+    ],
+    "defavorables": [
+      {
+        "fait": "La hausse de CSG imposée aux retraités a réellement fait baisser la pension nette de millions de retraités.",
+        "integration": "Le reconnaître sans détour, puis montrer qu’elle a été en partie corrigée et que les petites pensions sont exonérées ou peu taxées."
+      }
+    ]
+  },
+  "concepts": [
+    "csg_retraites",
+    "fiscalite",
+    "retraite"
+  ],
+  "repond_a": [
+    {
+      "id": "csg_retraites_q1215",
+      "label": "CSG des retraités"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "taxer",
+    "isf",
+    "tva",
+    "reforme des retraites"
+  ]
+}

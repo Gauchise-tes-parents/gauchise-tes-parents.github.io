@@ -1,0 +1,223 @@
+{
+  "id": "rn-tva-zero-cent-produits",
+  "type": "idee_recue",
+  "affirmation": "Le RN veut baisser la TVA sur cent produits de première nécessité.",
+  "volet": "politique",
+  "sous_theme": "Rassemblement national",
+  "rubriques": [],
+  "mots_cles": [
+    "tva 100 produits",
+    "tva zero produits de premiere necessite",
+    "le pen tva panier",
+    "bardella tva alimentation",
+    "rn baisse tva courses",
+    "supprimer la tva sur les pates",
+    "panier de 100 produits",
+    "tva alimentaire rn"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Plutôt exact, mais la promesse a reculé. Marine Le Pen a proposé en 2022 une TVA à 0 % sur un panier de 100 produits de première nécessité, reprise en 2024 mais seulement « en cas de forte inflation ». Son coût est estimé entre 4,7 et 8,8 milliards d'euros par an par l'Institut Montaigne. Mais rien ne garantit que la baisse arrive dans le caddie : après la baisse de TVA dans la restauration en 2009, les prix n'ont baissé que d'environ un cinquième de ce qui était possible. Et à coût égal, une aide ciblée apporterait bien plus aux ménages modestes.",
+  "contexte": "Le RN met en avant la baisse de la TVA comme sa grande mesure de pouvoir d'achat : sur l'énergie (fiche voisine) et sur un panier de produits de première nécessité. En 2025, des députés RN ont déposé une proposition de loi plus limitée, sur des produits pour bébés.",
+  "explication": "Il faut vérifier ce que contient réellement le programme et son évolution, son coût estimé, puis ce que montrent les études sur la répercussion des baisses de TVA dans les prix.",
+  "faits": [
+    {
+      "fait": "Selon l'exposé des motifs d'une proposition de loi déposée par des députés RN en juin 2025, les programmes présidentiel de 2022 et législatif de 2024 du RN prévoyaient une TVA à 0 % sur un panier de 100 produits de première nécessité.",
+      "periode": "2022-2025",
+      "perimetre": "France",
+      "explication": "La promesse existe bien et le RN la revendique encore.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, pendant la campagne des législatives de 2024, le RN a précisé que la mesure ne serait appliquée « qu'en cas de forte inflation ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La promesse phare de 2022 est devenue conditionnelle : elle n'est plus un engagement ferme.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En juin 2025, huit députés RN ont déposé une proposition de loi limitée à certains produits pour bébés, avec une liste à fixer par décret et sans chiffrage du coût.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La mesure concrète déposée au Parlement est bien plus étroite que le panier de cent produits.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "L'Institut Montaigne estime le coût de la suppression de la TVA sur un panier de produits de première nécessité à 6,75 milliards d'euros par an, dans une fourchette de 4,7 à 8,8 milliards selon la liste retenue.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "C'est une perte de recettes importante pour l'État, qu'il faudrait compenser.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "6,75 milliards €"
+    },
+    {
+      "fait": "Selon l'Insee, après la baisse de la TVA dans la restauration en juillet 2009, les prix n'ont baissé que de 2,4 % à long terme, alors qu'une répercussion intégrale aurait donné 9,8 %.",
+      "periode": "2009-2014",
+      "perimetre": "France",
+      "explication": "Environ quatre cinquièmes de la baisse sont restés dans les marges des restaurateurs : la baisse de TVA ne va pas automatiquement au consommateur.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "2,4 %"
+    },
+    {
+      "fait": "Selon le Conseil des prélèvements obligatoires, cité par l'Institut Montaigne, un chèque alimentaire de même coût apporterait environ 700 € aux ménages du premier dixième, contre un peu plus de 100 € avec une baisse de TVA.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Une baisse de TVA profite à tous, y compris aux plus aisés qui consomment davantage ; une aide ciblée protège mieux les plus pauvres.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "700 €"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Institut Montaigne, en Espagne, un taux zéro de TVA sur un panier réduit de produits de base, de 2023 à juin 2024, a freiné en partie l'inflation de ces produits.",
+      "periode": "2023-2024",
+      "perimetre": "Espagne",
+      "explication": "Une baisse de TVA peut avoir un effet sur les prix, surtout si elle est ciblée et temporaire ; mais l'effet sur l'inflation générale est resté faible.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, le RN a promis en 2022 une TVA à 0 % sur cent produits de première nécessité, mais en 2024 il ne la prévoyait plus qu'en cas de forte inflation. Elle coûterait 4,7 à 8,8 milliards par an. Et l'expérience montre que les vendeurs gardent souvent une grande partie de la baisse : en 2009, la restauration n'a répercuté qu'environ un cinquième.",
+    "moyen": "La promesse est réelle : un panier de cent produits sans TVA, présenté par Marine Le Pen en 2022. Mais elle a reculé : pendant les législatives de 2024, le RN l'a réservée aux périodes de forte inflation, et la seule proposition de loi déposée en 2025 se limite à des produits pour bébés.\n\nSur le fond, une baisse de TVA ne garantit pas une baisse des prix. Quand la TVA de la restauration a baissé en 2009, les prix n'ont baissé que de 2,4 % au lieu de 9,8 % possibles, selon l'Insee. La baisse profite aussi aux ménages aisés, qui achètent plus. À coût égal, une aide ciblée apporterait bien plus aux plus modestes.",
+    "detaille": "En 2022, le programme présidentiel de Marine Le Pen prévoyait une TVA à 0 % sur un panier de cent produits de première nécessité. Le RN l'a reprise pour les législatives de 2024, mais selon Public Sénat avec une nuance de taille : elle ne serait appliquée « qu'en cas de forte inflation ». En juin 2025, des députés RN ont déposé une proposition de loi bien plus étroite, limitée à des produits pour bébés, dont la liste serait fixée par décret et dont le coût n'est pas chiffré.\n\nCombien cela coûterait-il ? L'Institut Montaigne estime la suppression de la TVA sur un panier de produits de première nécessité à 6,75 milliards d'euros par an, entre 4,7 et 8,8 milliards selon l'étendue de la liste. Cet argent manquerait au budget de l'État, donc aux services publics, sauf à trouver d'autres recettes.\n\nSurtout, une baisse de TVA n'est utile que si elle arrive dans les prix. L'Insee a étudié la baisse de la TVA dans la restauration en 2009 : les prix n'ont baissé que de 2,4 % à long terme, alors qu'une répercussion complète aurait donné 9,8 %. L'essentiel a été conservé par les vendeurs. L'exemple espagnol montre qu'un taux zéro ciblé et temporaire peut freiner un peu les prix de base, mais l'effet global reste faible. Et le Conseil des prélèvements obligatoires note qu'à coût égal, un chèque alimentaire apporterait beaucoup plus aux ménages les plus pauvres : environ 700 € contre un peu plus de 100 €. D'autres outils existent pour agir sur les prix et les budgets : le contrôle des marges de la grande distribution et de l'agro-industrie, les aides ciblées et la hausse des bas revenus.",
+    "empathie": "Les courses coûtent cher et chaque euro compte. Vouloir une mesure simple et visible sur les produits de base est compréhensible : la question est de savoir si celle-ci tient ses promesses."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Supprimer la TVA, c'est forcément moins cher à la caisse.",
+      "reponse": "Pas forcément : après la baisse de TVA dans la restauration en 2009, les prix n'ont baissé que d'environ un cinquième de ce qui était possible, selon l'Insee. Sans contrôle des marges, les vendeurs peuvent garder la différence."
+    },
+    {
+      "objection": "C'est une mesure pour les pauvres.",
+      "reponse": "Une baisse de TVA profite à tous les acheteurs, y compris les plus aisés. À coût égal, une aide ciblée apporterait environ 700 € aux ménages les plus modestes, contre un peu plus de 100 € avec la TVA, selon le Conseil des prélèvements obligatoires."
+    }
+  ],
+  "questions": [
+    "Si les supermarchés ne baissent pas leurs prix, qui touche vraiment l'argent de la baisse de TVA ?",
+    "Pourquoi le RN ne l'applique-t-il plus qu'en cas de forte inflation ?"
+  ],
+  "limites": [
+    "Le programme présidentiel de 2022 n'a pas été lu directement : son contenu est connu par l'exposé des motifs d'une proposition de loi du RN et par l'Institut Montaigne.",
+    "La page de l'Institut Montaigne n'affiche pas de date de publication ; les études du Conseil des prélèvements obligatoires et sur l'Espagne ont été lues à travers elle.",
+    "L'étude de l'Insee porte sur la restauration en 2009 : la répercussion pourrait être différente pour des produits alimentaires vendus en grande surface.",
+    "Aucun programme officiel du RN pour 2027 n'a été lu : on ne sait pas, à la date de vérification, si la mesure y figurera."
+  ],
+  "sources": [
+    {
+      "titre": "Supprimer la TVA sur les produits de première nécessité (législatives 2024, Rassemblement national)",
+      "organisme": "Institut Montaigne (chiffrage des programmes)",
+      "date_publication": "juin 2024 (date de publication non affichée sur la page)",
+      "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/supprimer-la-tva-sur-les-produits-de-premiere-necessite",
+      "passage": "Le RN propose « la suppression de la TVA sur un panier de 100 produits de première nécessité », mesure portée par Marine Le Pen pendant l'élection présidentielle ; la liste des 100 produits n'est pas détaillée. Coût estimé par l'Institut Montaigne : 6,75 milliards d'euros par an (fourchette de 4,7 à 8,8 milliards selon l'étendue de la liste). Une baisse de TVA n'agit sur les prix que si les vendeurs la répercutent : selon une étude de l'Insee de 2014, la baisse de TVA dans la restauration n'a fait baisser les prix que de 2,4 % à long terme, contre 9,8 % en cas de transmission intégrale. Selon le Conseil des prélèvements obligatoires (2022), un chèque alimentaire de même coût apporterait environ 700 € au premier dixième des ménages, contre un peu plus de 100 € avec une baisse de TVA. En Espagne, un taux zéro sur un panier réduit (2023-juin 2024) a freiné en partie l'inflation des produits de base.",
+      "pertinence": "Laboratoire d'idées d'orientation libérale ; chiffrage indépendant des programmes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réforme des retraites, impôts, prix planchers : comment le RN réajuste son programme au fil de la campagne",
+      "organisme": "Romain David, Public Sénat",
+      "date_publication": "27 juin 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/reforme-des-retraites-impots-prix-planchers-comment-le-rn-reajuste-son-programme-au-fil-de-la-campagne",
+      "passage": "La suppression de la TVA sur les produits de première nécessité reste dans le programme porté par Jordan Bardella pour les législatives anticipées, « À une nuance près : elle ne sera appliquée « qu'en cas de forte inflation » ». Le projet du RN prévoit par ailleurs une baisse de TVA sur « l'ensemble des produits énergétiques ».",
+      "pertinence": "Chaîne parlementaire ; analyse de l'évolution du programme du RN.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi n° 1626 visant à appliquer un taux de TVA de 0 % à certains produits de puériculture et d'hygiène pour bébés",
+      "organisme": "Assemblée nationale, proposition déposée par Caroline Parmentier et sept autres députés du Rassemblement national",
+      "date_publication": "24 juin 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1626_proposition-loi.pdf",
+      "passage": "Le texte crée un article 278 octies du code général des impôts fixant une TVA « au taux de 0 % » pour certains produits d'alimentation et d'hygiène pour bébés, dont la liste serait fixée par décret. Le coût n'est pas chiffré ; la perte de recettes serait compensée par une taxe additionnelle. L'exposé des motifs rattache cette mesure aux programmes présidentiel de 2022 et législatif de 2024 du RN, qui prévoyaient une TVA à 0 % sur un panier de 100 produits de première nécessité.",
+      "pertinence": "Texte parlementaire ; source partisane (proposition du groupe RN).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L’addition est-elle moins salée ? La réponse des prix à la baisse de TVA dans la restauration en France",
+      "organisme": "Patrick Sillard et Quentin Lafféter, Insee (document de travail n° F1404)",
+      "date_publication": "5 juin 2014",
+      "url": "https://www.insee.fr/fr/statistiques/1381057",
+      "passage": "Après la baisse de la TVA dans la restauration en juillet 2009, les prix de la restauration et des cafés ont baissé en moyenne « de 2,1% à court terme et de 2,4% à long terme », alors qu'une répercussion intégrale aurait donné 9,8 %. La répercussion à long terme est d'environ 20 % en moyenne : 44 % pour les boissons non alcoolisées, 29 % pour les cafés et boissons chaudes, environ 20 % pour les repas. Elle s'achève en deux à cinq mois.",
+      "pertinence": "Étude de l'institut public de la statistique.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Publication du programme présidentiel du RN pour 2027.",
+  "objections_legitimes": [
+    "La hausse des prix alimentaires depuis 2022 a durement frappé les ménages modestes.",
+    "La TVA est un impôt qui pèse proportionnellement plus lourd sur les petits revenus, qui consomment toute leur paie.",
+    "Certains pays européens ont appliqué un taux zéro temporaire sur des produits de base."
+  ],
+  "publics": {
+    "convaincus": "La promesse existe, mais regardez ce qu'elle est devenue : en 2024, le RN ne l'appliquait plus qu'en cas de forte inflation, et en 2025 il n'a déposé qu'un texte sur les produits pour bébés. Et quand la TVA de la restauration a baissé en 2009, les prix n'ont presque pas bougé : ce sont les marges qui ont profité. Pour faire baisser les courses, il faut s'attaquer aux marges, pas seulement à l'impôt.",
+    "indecis": "La mesure coûterait entre 4,7 et 8,8 milliards d'euros par an, et rien n'oblige les magasins à baisser leurs prix d'autant. L'Insee a montré qu'en 2009, la restauration n'avait répercuté qu'environ un cinquième de la baisse de TVA. Une aide ciblée sur les ménages modestes ou un contrôle des marges protégerait mieux votre budget."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "services_publics",
+      "vulnerables"
+    ],
+    "mecanismes": "Une baisse d’impôt visible est présentée comme une baisse automatique des prix, alors que les vendeurs peuvent garder une grande partie de la différence dans leurs marges. La promesse est ensuite rendue conditionnelle sans que le grand public le sache.",
+    "consequences": "L’État perd des milliards de recettes qui manquent aux services publics, pour un gain incertain dans les rayons, qui profite aussi aux ménages aisés.",
+    "democratie": "Un programme doit être jugé sur ce qu’il deviendrait une fois appliqué : les engagements qui reculent pendant une campagne méritent d’être connus des électeurs.",
+    "propositions": [
+      "Encadrer les marges de la grande distribution et de l’agro-industrie sur les produits de base.",
+      "Augmenter les bas salaires, les minima sociaux et les pensions pour protéger le pouvoir d’achat.",
+      "Mettre en place une aide alimentaire ciblée et digne pour les ménages modestes."
+    ],
+    "defavorables": [
+      {
+        "fait": "En Espagne, un taux zéro de TVA ciblé et temporaire sur des produits de base a freiné en partie leurs prix.",
+        "integration": "Une baisse de TVA peut avoir un effet limité si elle est ciblée et contrôlée ; cela ne règle ni le coût pour l’État ni la captation par les marges."
+      }
+    ]
+  },
+  "concepts": [
+    "tva_zero",
+    "patriotisme",
+    "fiscalite",
+    "pouvoir_achat",
+    "tva_energie",
+    "fn_parti"
+  ],
+  "repond_a": [
+    {
+      "id": "fiscalite_q1215_tva_zero",
+      "label": "TVA à 0 % sur les produits de base"
+    },
+    {
+      "id": "tva_energie_fiscalite_q1215_tva_zero",
+      "label": "TVA à 0 % sur les produits de base"
+    },
+    {
+      "id": "tva_zero_q1215",
+      "label": "TVA à 0 % sur les produits de base"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "taxer",
+    "isf",
+    "tva",
+    "fin de mois",
+    "fins de mois",
+    "pouvoir d achat",
+    "hausse des prix"
+  ]
+}

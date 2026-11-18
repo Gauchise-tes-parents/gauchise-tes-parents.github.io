@@ -1,0 +1,240 @@
+{
+  "id": "pompiers-caillasses-banlieues",
+  "type": "idee_recue",
+  "affirmation": "Les pompiers se font caillasser dans les banlieues.",
+  "volet": "securite",
+  "sous_theme": "Violences",
+  "rubriques": [],
+  "mots_cles": [
+    "pompiers agresses",
+    "pompiers caillasses",
+    "agression sapeurs pompiers",
+    "pompiers attaques cite",
+    "pompiers guet apens",
+    "violences contre les pompiers",
+    "pompiers banlieue",
+    "cameras pietons pompiers"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les agressions de pompiers sont réelles et ont fortement augmenté pendant dix ans, avant de baisser en 2023 puis de remonter légèrement en 2024. Mais selon le ministère de l'Intérieur, 83 à 85 % ont lieu lors d'un secours à personne, et l'agresseur est le plus souvent la personne secourue, souvent sous l'emprise de l'alcool ou de stupéfiants, parfois atteinte de troubles psychiatriques. Les caillassages dans les quartiers existent mais ne sont pas le cas le plus fréquent, et les taux les plus élevés étaient relevés hors d'Île-de-France.",
+  "contexte": "Des images de véhicules de pompiers pris pour cible, notamment lors de nuits de violences urbaines, circulent régulièrement et sont présentées comme le portrait type de la violence contre les secours.",
+  "explication": "On regarde les chiffres officiels des agressions de sapeurs-pompiers, le type d'intervention où elles se produisent, le profil des agresseurs et leur répartition géographique, à partir de l'ONDRP, du Sénat et des réponses du ministère de l'Intérieur.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : selon l'ONDRP, 2 813 agressions de sapeurs-pompiers ont été déclarées en 2017, contre 2 280 en 2016 (+23 %), soit 6 pompiers agressés pour 10 000 interventions.",
+      "periode": "2016-2017",
+      "perimetre": "France",
+      "explication": "La violence contre les pompiers est une réalité mesurée, pas une invention.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2 813"
+    },
+    {
+      "fait": "Fait défavorable : selon le rapport du Sénat de 2019, les agressions ont été multipliées par trois environ en dix ans (+213 %), avec des formes parfois très brutales : mortiers, cocktails Molotov, couteaux, guet-apens.",
+      "periode": "2008-2017",
+      "perimetre": "France",
+      "explication": "La hausse a été forte et certaines violences sont organisées.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "+213 %"
+    },
+    {
+      "fait": "Selon le ministère de l'Intérieur, les agressions ont baissé de 7,1 % en 2023 par rapport à 2022, puis augmenté de 2,9 % en 2024.",
+      "periode": "2022-2024",
+      "perimetre": "France",
+      "explication": "La tendance récente n'est pas à l'explosion.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "-7,1 %"
+    },
+    {
+      "fait": "Selon le ministère de l'Intérieur, 83 % des agressions en 2023 et 85 % en 2024 ont eu lieu lors d'un secours à personne, l'agresseur étant dans la grande majorité des cas la personne secourue.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "La violence typique n'est pas l'embuscade en cité, mais un secours qui dégénère.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "83 %"
+    },
+    {
+      "fait": "Selon Bastien Scordia, en 2023, dans 48 % des cas, les auteurs avaient consommé de l'alcool ou des stupéfiants, et 21 % des violences étaient le fait de personnes atteintes de troubles psychiatriques.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Une large part des agressions relève de la détresse, des addictions et de la santé mentale.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "48 %"
+    },
+    {
+      "fait": "Selon la rapporteure Catherine Troendlé (LR), la grande majorité des violences ont lieu au domicile de la personne qui appelle à l'aide ; les agressions dans les quartiers « sensibles », comme les jets de pierres, ne sont pas le type le plus fréquent.",
+      "periode": "2019",
+      "perimetre": "France",
+      "explication": "Le rapport du Sénat lui-même contredit l'image d'une violence concentrée dans les banlieues.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon Observatoire national de la délinquance et des réponses pénales, en 2017, la Nouvelle-Aquitaine (14 agressions pour 10 000 interventions) et la Bourgogne-Franche-Comté (13 pour 10 000) avaient les taux les plus élevés ; l'Île-de-France comptait 327 agressions déclarées.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Les régions les plus touchées en proportion ne sont pas les plus urbanisées.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "14 pour 10 000"
+    },
+    {
+      "fait": "Le ministère indique que le port de caméras individuelles par les pompiers est « développé et encouragé » et que les véhicules peuvent recevoir des caméras embarquées depuis mars 2024.",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "Des outils de prévention et de preuve se déploient ; le Sénat demandait une doctrine claire pour leur usage.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les agressions de pompiers sont réelles et ont beaucoup augmenté en dix ans. Mais selon le ministère de l'Intérieur, plus de huit sur dix ont lieu pendant un secours à personne, et l'agresseur est le plus souvent la personne secourue, souvent ivre ou drogué, parfois en crise psychiatrique. Les caillassages en cité existent, mais ce n'est pas le cas le plus courant.",
+    "moyen": "Il ne faut pas nier le problème : l'ONDRP a compté 2 813 agressions de sapeurs-pompiers déclarées en 2017, et le Sénat parlait en 2019 d'un triplement en dix ans. Depuis, les chiffres du ministère montrent une baisse de 7,1 % en 2023, puis une hausse de 2,9 % en 2024.\n\nMais le portrait type est loin de l'embuscade en banlieue. En 2023, 83 % des agressions ont eu lieu lors d'un secours à personne, et l'agresseur était le plus souvent la personne secourue. Près d'une fois sur deux, l'alcool ou la drogue étaient en cause, et une fois sur cinq des troubles psychiatriques. La rapporteure LR du Sénat le disait : la grande majorité des violences ont lieu au domicile de la personne qui appelle à l'aide.",
+    "detaille": "Les violences contre les pompiers sont un vrai sujet. L'ONDRP a recensé 2 813 agressions déclarées en 2017, soit 6 pompiers agressés pour 10 000 interventions, en hausse de 23 % sur un an. En 2019, un rapport transpartisan du Sénat évoquait une hausse de 213 % en dix ans et des formes de violence parfois très brutales : tirs de mortiers, cocktails Molotov, guet-apens. Ces scènes existent, notamment lors de nuits de violences urbaines.\n\nMais elles ne résument pas la réalité. Selon les réponses du ministère de l'Intérieur à l'Assemblée nationale, 83 % des agressions en 2023 et 85 % en 2024 se sont produites lors d'un secours à personne, et l'agresseur est dans la grande majorité des cas la personne secourue. En 2023, 48 % des auteurs avaient consommé de l'alcool ou des stupéfiants, et 21 % des violences étaient commises par des personnes atteintes de troubles psychiatriques. La géographie ne colle pas non plus au cliché : en 2017, les taux les plus élevés étaient relevés en Nouvelle-Aquitaine et en Bourgogne-Franche-Comté.\n\nLe rapport du Sénat pointait aussi une cause structurelle : les pompiers sont devenus un « palliatif universel » face au recul des autres services publics, notamment de santé et de psychiatrie, et interviennent de plus en plus auprès de personnes en détresse. Les réponses passent par le dépôt de plainte systématique, la formation, les caméras individuelles et embarquées, mais aussi par une meilleure coordination avec les services de psychiatrie et un renforcement de l'hôpital public.",
+    "empathie": "Voir des secouristes pris pour cible révolte tout le monde, à juste titre. Justement, pour mieux les protéger, il faut regarder où et comment ils sont réellement agressés."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On voit tout le temps des vidéos de pompiers attaqués en cité.",
+      "reponse": "Ces vidéos montrent des faits réels, mais pas les plus fréquents : selon le ministère, plus de huit agressions sur dix ont lieu pendant un secours à personne, le plus souvent par la personne secourue."
+    },
+    {
+      "objection": "Ce sont toujours les mêmes quartiers.",
+      "reponse": "En 2017, les taux d'agression les plus élevés étaient en Nouvelle-Aquitaine et en Bourgogne-Franche-Comté, et la rapporteure LR du Sénat situe la grande majorité des violences au domicile des personnes secourues."
+    }
+  ],
+  "questions": [
+    "Si la plupart des agressions ont lieu chez des personnes ivres ou en crise psychiatrique, quels moyens faut-il pour la psychiatrie et les urgences ?",
+    "Pourquoi les pompiers sont-ils de plus en plus appelés pour des situations que d'autres services publics ne prennent plus en charge ?"
+  ],
+  "limites": [
+    "Les données reposent sur des déclarations facultatives des services d'incendie et de secours : elles sont incomplètes et leur évolution peut refléter une meilleure déclaration.",
+    "Les séries ne sont pas comparables entre elles : l'ONDRP comptait 2 813 agressions en 2017, alors que les chiffres publiés pour 2023 (555 selon Acteurs publics, présentés comme des blessés par d'autres médias) relèvent d'un autre recensement.",
+    "Aucune source lue ne donne de répartition entre quartiers prioritaires, autres zones urbaines et zones rurales.",
+    "Le bilan de l'Observatoire national des violences envers les sapeurs-pompiers pour 2021 n'a pas pu être ouvert ; la contribution de la Fédération nationale des sapeurs-pompiers, acteur intéressé, n'a pas été utilisée."
+  ],
+  "sources": [
+    {
+      "titre": "2813 agressions de sapeurs-pompiers déclarées en 2017 (note de l'ONDRP n° 29)",
+      "organisme": "Observatoire national de la délinquance et des réponses pénales (ONDRP) — Aurélien Langlade",
+      "date_publication": "décembre 2018",
+      "url": "https://www.ihemi.fr/sites/default/files/publications/files/2019-12/note_29.pdf",
+      "passage": "2 813 agressions déclarées en 2017 contre 2 280 en 2016 : « le nombre de déclarations de sapeurs-pompiers agressés a augmenté de 23% » ; 6 sapeurs-pompiers agressés pour 10 000 interventions (5 en 2016). Jours d'arrêt de travail : 955, en baisse de 41 %. Nouvelle-Aquitaine : 527 agressions, taux le plus élevé (14 pour 10 000 interventions) ; Bourgogne-Franche-Comté : 251 (13 pour 10 000) ; Île-de-France : 327 ; Hauts-de-France : 326. Les données reposent sur des déclarations facultatives, non exhaustives.",
+      "pertinence": "Organisme public d'observation de la délinquance (aujourd'hui intégré à l'IHEMI).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Face aux violences contre les pompiers, un rapport du Sénat formule des solutions",
+      "organisme": "Public Sénat",
+      "date_publication": "11 décembre 2019",
+      "url": "https://www.publicsenat.fr/actualites/politique/face-aux-violences-contre-les-pompiers-un-rapport-du-senat-formule-des",
+      "passage": "Rapport de Catherine Troendlé (LR), Loïc Hervé (UDI) et Patrick Kanner (PS) : les agressions ont environ triplé en dix ans ; hausse de 50 % sur les cinq premiers mois de 2019. Les agressions dans les quartiers « sensibles », comme les jets de pierres, ne sont pas le type le plus fréquent ; selon Catherine Troendlé, la grande majorité des violences ont lieu au domicile de la personne qui appelle à l'aide. Les sénateurs demandent une « véritable doctrine » pour les caméras-piétons et une coordination avec les services de psychiatrie.",
+      "pertinence": "Chaîne parlementaire rendant compte d'un rapport transpartisan du Sénat.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Sénat au secours de sapeurs-pompiers en grande détresse",
+      "organisme": "Frédéric Fortin, Localtis (Banque des Territoires)",
+      "date_publication": "12 décembre 2019",
+      "url": "https://www.banquedesterritoires.fr/le-senat-au-secours-de-sapeurs-pompiers-en-grande-detresse",
+      "passage": "2 813 agressions en 2017, probablement sous-estimées ; « + 213% en dix ans ». Formes de violence « de plus en plus brutales » (tirs de mortiers, cocktails Molotov, couteaux, guet-apens). Les pompiers sont devenus un « palliatif universel » face au recul des autres services publics, notamment de santé, d'où une hausse des secours à des personnes qu'« aucun autre service public ne souhaite prendre en charge ». Certains pompiers jugent les caméras-piétons « sources de tension ».",
+      "pertinence": "Service d'information de la Caisse des dépôts destiné aux collectivités.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "7 % d'agressions en moins contre les pompiers",
+      "organisme": "Bastien Scordia, Acteurs publics",
+      "date_publication": "4 mars 2024",
+      "url": "https://acteurspublics.fr/articles/7-dagressions-en-moins-contre-les-pompiers/",
+      "passage": "Selon le ministère de l'Intérieur, baisse de 7,1 % des agressions entre 2022 et 2023 ; 307 agressions au dernier trimestre 2023, « le niveau le plus bas jamais observé ». Dans 48 % des cas, les auteurs avaient consommé de l'alcool ou des stupéfiants ; 21 % des violences sont le fait de personnes atteintes de troubles psychiatriques. Intrusions violentes en caserne : 10 en 2023 contre 32 en 2022.",
+      "pertinence": "Média spécialisé dans l'action publique, rapportant les chiffres du ministère.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 2178 de M. Patrice Martin sur les agressions de sapeurs-pompiers et réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale — Journal officiel",
+      "date_publication": "question du 19 novembre 2024, réponse du 14 janvier 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE2178.pdf",
+      "passage": "Réponse du ministère : baisse de 7,1 % des agressions en 2023 par rapport à 2022. « Les agressions ont lieu, dans 83% des cas, lors d'un secours à personne. » L'auteur est, dans la grande majorité des cas, la victime secourue ; près d'un cas sur deux est lié à l'alcool ou aux stupéfiants. Observatoire national des violences envers les sapeurs-pompiers créé en 2020 ; plan de lutte du 20 août 2020 ; incitation à porter plainte systématiquement.",
+      "pertinence": "Réponse officielle du ministère au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 7117 de Mme Monique Griseti sur les agressions de sapeurs-pompiers et réponse du ministère de l'Intérieur",
+      "organisme": "Assemblée nationale — Journal officiel",
+      "date_publication": "question du 27 mai 2025, réponse du 8 juillet 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7117.pdf",
+      "passage": "Réponse du ministère : les agressions déclarées ont augmenté de 2,9 % en 2024 par rapport à 2023 ; 85 % surviennent lors d'un secours à personne ; dans la plupart des cas l'agresseur est la personne secourue ; dans plus de la moitié des cas, l'agression est liée à une consommation excessive d'alcool ou de stupéfiants. « le port de caméra individuelle est développé et encouragé » ; depuis mars 2024, les véhicules d'intervention peuvent être équipés de caméras embarquées.",
+      "pertinence": "Réponse officielle du ministère au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Bilan annuel de l'Observatoire national des violences envers les sapeurs-pompiers.",
+  "objections_legitimes": [
+    "Les agressions contre les pompiers ont fortement augmenté pendant une décennie.",
+    "Des guet-apens et des caillassages ont bien lieu, notamment lors de violences urbaines.",
+    "Les pompiers, souvent volontaires, méritent d'être protégés et soutenus."
+  ],
+  "publics": {
+    "convaincus": "Personne ne nie que des pompiers se font agresser, et c'est inacceptable. Mais selon le ministère de l'Intérieur, plus de huit agressions sur dix ont lieu pendant un secours à personne, le plus souvent par la personne secourue, souvent ivre ou en crise. Si on ne regarde que les cités, on passe à côté de la grande majorité des pompiers agressés.",
+    "indecis": "Les violences contre les pompiers ont vraiment augmenté pendant dix ans, et des caillassages existent. Mais l'essentiel se passe lors de secours à domicile, avec l'alcool, la drogue ou des troubles psychiatriques en cause. Les protéger passe par les plaintes, les caméras, mais aussi par des urgences et une psychiatrie qui tiennent le choc."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "Des images spectaculaires de violences urbaines sont présentées comme le portrait type des agressions de pompiers, alors que la plupart surviennent lors de secours à domicile, face à des personnes ivres, droguées ou en crise psychiatrique.",
+    "consequences": "En désignant les banlieues, on stigmatise leurs habitants et on oublie les vraies causes : le recul de la psychiatrie et des urgences, qui fait des pompiers le dernier recours pour toutes les détresses.",
+    "democratie": "Protéger les secouristes exige de partir des faits établis par les observatoires publics, pas des vidéos virales.",
+    "propositions": [
+      "Renforcer la psychiatrie publique et les urgences pour que les pompiers ne soient plus le palliatif universel de la détresse sociale.",
+      "Généraliser le dépôt de plainte accompagné, la formation à la désescalade et l’équipement de protection des pompiers.",
+      "Créer des plateformes communes entre secours et services de santé pour repérer les interventions à risque."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les agressions contre les pompiers ont fortement augmenté pendant une décennie, et des guet-apens ou des jets de projectiles ont bien lieu lors de violences urbaines.",
+        "integration": "Ces violences sont inacceptables et doivent être poursuivies ; mais pour protéger réellement les pompiers, il faut agir là où se produisent la majorité des agressions, lors des secours à personne."
+      }
+    ]
+  },
+  "concepts": [
+    "pompiers_agresses",
+    "delinquance",
+    "banlieues"
+  ],
+  "repond_a": [
+    {
+      "id": "pompiers_agresses_q1215",
+      "label": "Agressions de pompiers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "qpv"
+  ]
+}

@@ -214,11 +214,6 @@
       }
     ]
   },
-  "concepts": [
-    "delinquance",
-    "castration",
-    "justice"
-  ],
   "repond_a": [
     {
       "id": "castration_q0614",
@@ -243,6 +238,11 @@
     "criminalite",
     "caillera",
     "ensauvagement",
+    "justice"
+  ],
+  "concepts": [
+    "delinquance",
+    "castration",
     "justice"
   ]
 }

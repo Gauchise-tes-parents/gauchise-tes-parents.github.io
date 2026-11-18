@@ -1,0 +1,247 @@
+{
+  "id": "rn-jamais-essaye",
+  "type": "idee_recue",
+  "affirmation": "On n'a jamais essayé le RN, il faut leur laisser une chance.",
+  "volet": "politique",
+  "sous_theme": "Rassemblement national",
+  "rubriques": [],
+  "mots_cles": [
+    "on n a jamais essaye le rn",
+    "on a tout essaye sauf le rn",
+    "laisser une chance au rn",
+    "essayer marine le pen",
+    "essayer bardella",
+    "rn jamais au pouvoir",
+    "le rn n a jamais gouverne",
+    "pourquoi pas le rn"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Le RN n'a jamais gouverné la France, mais il exerce le pouvoir depuis trente ans : mairies de Toulon, Orange et Marignane dès 1995, Vitrolles en 1997, Perpignan depuis 2020, et 55 communes de plus de 3 500 habitants après les municipales de 2026 selon l'AFP. Il a des dizaines de députés depuis 2022 et préside un groupe européen fondé avec Viktor Orbán. Ces expériences sont documentées : prime de naissance réservée aux Européens à Vitrolles, annulée par la justice, condamnation de la maire pour discrimination, coupes dans la culture et les associations.",
+  "contexte": "La phrase « on a tout essayé sauf eux » revient souvent chez des électeurs déçus par la droite et la gauche. Elle présente le RN comme une force vierge de tout exercice du pouvoir. La gestion financière des villes RN fait l'objet d'une autre fiche ; celle-ci porte sur l'idée qu'on ne l'aurait « jamais essayé ».",
+  "explication": "On recense les pouvoirs effectivement exercés par le FN puis le RN (mairies, Assemblée nationale, Parlement européen) et ce que des sources sérieuses en disent, en évoquant prudemment un gouvernement allié à l'étranger.",
+  "faits": [
+    {
+      "fait": "Selon La Grande Conversation, le Front national a gagné les mairies de Toulon, Orange et Marignane en 1995, puis celle de Vitrolles en 1997.",
+      "periode": "1995-1997",
+      "perimetre": "France",
+      "explication": "Le parti exerce des responsabilités locales depuis plus de trente ans : on l'a donc déjà « essayé ».",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En réponse à une question au gouvernement de février 1998, le ministre de l'Intérieur indique que Vitrolles a institué une prime de naissance « réservée aux Européens », que le préfet a déférée au tribunal administratif.",
+      "periode": "1998",
+      "perimetre": "Vitrolles",
+      "explication": "Dès qu'il a eu un pouvoir local, le parti a tenté d'appliquer la « préférence nationale », contraire au principe d'égalité.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon La Grande Conversation, cette prime a été annulée par la justice, et la maire de Vitrolles a été condamnée en 2000 pour discrimination et provocation à la haine raciale, condamnation confirmée par la Cour de cassation en 2003.",
+      "periode": "1998-2003",
+      "perimetre": "Vitrolles",
+      "explication": "L'expérience a fini devant les tribunaux.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un décompte de l'AFP rapporté par Public Sénat, le RN et ses alliés ont remporté 55 communes de plus de 3 500 habitants aux municipales de mars 2026, dont Nice, et comptent environ 3 000 conseillers municipaux, contre environ 1 500 en 2014.",
+      "periode": "2014-2026",
+      "perimetre": "France",
+      "explication": "Le RN gère aujourd'hui des dizaines de villes, dont une des plus grandes de France.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "55 communes"
+    },
+    {
+      "fait": "Selon LCP, le RN est passé de 8 députés en 2017 à environ 89 en 2022, au-delà de son record de 35 sièges obtenu en 1986.",
+      "periode": "1986-2022",
+      "perimetre": "France",
+      "explication": "Le RN siège en nombre à l'Assemblée depuis 2022 : ses votes et propositions peuvent être jugés sur pièces.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "89 sièges"
+    },
+    {
+      "fait": "Selon Public Sénat, les 30 eurodéputés RN forment la plus grande délégation nationale du Parlement européen, et Jordan Bardella préside depuis 2024 le groupe Patriotes pour l'Europe, lancé par Viktor Orbán.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "Le RN a choisi ses alliés : le parti au pouvoir en Hongrie depuis plus de quinze ans.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2022, le Parlement européen a qualifié la Hongrie dirigée par Viktor Orbán de « régime hybride d'autocratie électorale », en raison notamment des atteintes à l'indépendance de la justice, au pluralisme des médias et aux droits des minorités.",
+      "periode": "2022",
+      "perimetre": "Hongrie",
+      "explication": "Ce que font au pouvoir les alliés du RN à l'étranger est un indice, à manier avec prudence : chaque pays a son histoire.",
+      "source": 6,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : le RN n'a jamais dirigé de gouvernement en France, et selon La Grande Conversation, ses maires ont souvent été réélus malgré les polémiques.",
+      "periode": "1995-2026",
+      "perimetre": "France",
+      "explication": "L'argument a un fond de vérité au niveau national, et une partie des habitants des villes RN se disent satisfaits ; c'est pour cela qu'il faut regarder les bilans précis.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "On l'a déjà essayé : le FN a dirigé Toulon, Orange, Marignane et Vitrolles dès 1995-1997, le RN dirige Perpignan depuis 2020 et une cinquantaine de villes depuis 2026, et il compte des dizaines de députés. À Vitrolles, la prime de naissance réservée aux Européens a été annulée et la maire condamnée pour discrimination.",
+    "moyen": "Le RN n'a jamais gouverné le pays, c'est vrai. Mais il exerce le pouvoir depuis trente ans. En 1995, le Front national gagne Toulon, Orange et Marignane, puis Vitrolles en 1997. Il dirige Perpignan depuis 2020 et, après les municipales de 2026, 55 communes de plus de 3 500 habitants selon l'AFP, dont Nice. Il a des dizaines de députés depuis 2022 et la plus grosse délégation au Parlement européen.\n\nCes expériences sont connues. À Vitrolles, la mairie a créé une prime de naissance réservée aux Européens : la justice l'a annulée et la maire a été condamnée pour discrimination. Dans plusieurs villes, la culture et les associations ont subi des coupes. Au Parlement européen, le RN siège avec Viktor Orbán, dont le régime est qualifié d'« autocratie électorale » par les eurodéputés. Laisser une chance, c'est d'abord regarder ce qui a déjà été fait.",
+    "detaille": "L'idée que le RN serait une force neuve, jamais mise à l'épreuve, ne résiste pas aux faits. Dès 1995, le Front national remporte les mairies de Toulon, Orange et Marignane, puis Vitrolles en février 1997, où la liste de Catherine Mégret obtient la majorité absolue. Le parti dirige alors quatre villes.\n\nCe qu'il y a fait est documenté. À Vitrolles, le conseil municipal crée en 1998 une prime de naissance « réservée aux Européens » ; le préfet la défère au tribunal administratif, qui l'annule, et la maire est condamnée en 2000 pour discrimination et provocation à la haine raciale, condamnation confirmée en 2003. À Toulon, la mairie entre en conflit avec le centre culturel de Châteauvallon ; à Orange, elle coupe les subventions aux Chorégies. Plus récemment, des maires RN ont réduit des subventions à des associations et des politiques culturelles, et misé sur la police municipale et la vidéosurveillance. La gestion financière de ces villes est examinée dans une autre fiche.\n\nLe RN exerce aussi le pouvoir à d'autres échelles. Il est passé de 8 députés en 2017 à environ 89 en 2022 : ses votes à l'Assemblée sont publics. Au Parlement européen, ses 30 élus forment la plus grande délégation nationale et Jordan Bardella préside le groupe Patriotes pour l'Europe, lancé par Viktor Orbán, dont le régime a été qualifié par le Parlement européen de « régime hybride d'autocratie électorale ». Après les municipales de 2026, il dirige 55 communes de plus de 3 500 habitants selon l'AFP, dont Nice. Il est vrai qu'il n'a jamais gouverné la France et que ses maires sont souvent réélus. Mais on dispose de trente ans d'expériences pour juger : la question n'est pas de lui « laisser une chance », mais de savoir si l'on approuve ce qu'il a déjà fait.",
+    "empathie": "Quand on a l'impression que la droite et la gauche ont toutes deux déçu, l'envie d'essayer autre chose est très compréhensible. Elle mérite qu'on regarde ensemble ce que ce parti a réellement fait là où il a eu du pouvoir."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Vitrolles, c'était il y a trente ans, le parti a changé.",
+      "reponse": "Le RN dirige aujourd'hui des dizaines de villes et siège en nombre à l'Assemblée et au Parlement européen : on peut juger ses votes et ses choix récents, notamment son alliance avec Viktor Orbán."
+    },
+    {
+      "objection": "Une mairie, ce n'est pas un gouvernement.",
+      "reponse": "C'est vrai, mais c'est là qu'un parti montre ses priorités concrètes : à Vitrolles, la première grande mesure a été une prime réservée aux Européens, annulée par la justice."
+    }
+  ],
+  "questions": [
+    "Que faudrait-il qu'un parti ait déjà fait pour qu'on considère qu'on l'a essayé ?",
+    "Si une mairie RN a pris une mesure jugée discriminatoire par la justice, que ferait le même parti avec tout l'État ?"
+  ],
+  "limites": [
+    "Le nombre de communes dépend du seuil et des alliés comptés : 55 communes de plus de 3 500 habitants selon l'AFP, environ 70 selon le RN.",
+    "Le nombre de 89 députés en 2022 vient d'un article publié le soir des résultats ; le nombre de députés RN élus en 2024 n'a pas été vérifié ici.",
+    "La comparaison avec la Hongrie est indicative : le RN n'est pas le Fidesz et la situation française est différente.",
+    "Plusieurs faits sur les mairies viennent d'une synthèse de La Grande Conversation (think tank de centre gauche), qui s'appuie sur la presse et des décisions de justice."
+  ],
+  "sources": [
+    {
+      "titre": "L'effet Vitrolles",
+      "organisme": "Larousse, Journal de l’année (édition 1998)",
+      "date_publication": "1998",
+      "url": "https://www.larousse.fr/archives/journaux_annee/1998/9/l_effet_vitrolles",
+      "passage": "En février 1997, la liste conduite par Catherine Mégret remporte Vitrolles : elle devient « le premier maire Front national élu à la majorité absolue des suffrages » (52,48 % au second tour). Avec Orange, Toulon et Marignane, le parti dirige alors « quatre villes ».",
+      "pertinence": "Annuaire encyclopédique de référence.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question au Gouvernement n° 374 — allocation de naissance à Vitrolles",
+      "organisme": "Assemblée nationale (question de Martine David, réponse de Jean-Pierre Chevènement, ministre de l’Intérieur)",
+      "date_publication": "5 février 1998",
+      "url": "https://questions.assemblee-nationale.fr/dyn/11/questions/QANR5L11QG374.pdf",
+      "passage": "Le conseil municipal de Vitrolles a institué une prime de naissance « réservée aux Européens », « déférée au tribunal administratif par le préfet ». Le ministre rappelle l'égalité des droits sociaux entre Français et étrangers en situation régulière.",
+      "pertinence": "Compte rendu officiel des questions au Gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Gouverner à l'extrême droite : ce que révèlent les bilans municipaux du RN",
+      "organisme": "Alexis Gibellini, La Grande Conversation (Terra Nova)",
+      "date_publication": "18 mars 2026",
+      "url": "https://www.lagrandeconversation.com/app/uploads/2026/03/gouverner-a-lextreme-droite-ce-que-revelent-les-bilans-municipaux-du-rn-la-grande-conversation.pdf",
+      "passage": "Le Front national gagne Toulon, Orange et Marignane en 1995, Vitrolles en 1997. À Vitrolles, une prime de naissance réservée aux enfants de parents européens, créée en 1998, est annulée par la justice ; la maire est condamnée en 2000 pour discrimination et provocation à la haine raciale, condamnation confirmée par la Cour de cassation en 2003. À Toulon, conflit avec le centre culturel de Châteauvallon ; à Orange, arrêt des subventions aux Chorégies. Louis Aliot dirige Perpignan depuis 2020. L'auteur note que des maires RN ont souvent été réélus malgré les polémiques.",
+      "pertinence": "Revue en ligne d'un think tank de centre gauche ; synthèse documentée.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Municipales 2026 : le RN a « suffisamment de forces vives » pour espérer pouvoir constituer un groupe au Sénat",
+      "organisme": "Mathilde Nutarelli, Public Sénat",
+      "date_publication": "23 mars 2026",
+      "url": "https://www.publicsenat.fr/actualites/politique/municipales-2026-le-rn-a-suffisamment-de-forces-vives-pour-esperer-pouvoir-constituer-un-groupe-au-senat",
+      "passage": "Selon un décompte de l'AFP à partir des chiffres du ministère de l'Intérieur, le RN et ses alliés ciottistes remportent 55 communes de plus de 3 500 habitants ; le RN revendique environ 70 communes et 3 006 conseillers municipaux (décompte AFP, alliés compris), contre environ 1 500 conseillers en 2014. Il gagne notamment Nice, Menton, Carpentras, Carcassonne, Villers-Cotterêts, Liévin et Saint-Avold, mais échoue à Toulon, Marseille et Nîmes.",
+      "pertinence": "Chaîne parlementaire ; décompte de l'AFP.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Législatives 2022 : Ensemble loin de la majorité absolue, le RN crée la surprise, la Nupes…",
+      "organisme": "Jason Wiels et al., LCP (La Chaîne parlementaire)",
+      "date_publication": "19 juin 2022 (mis à jour le 20 juin 2022)",
+      "url": "https://lcp.fr/actualites/legislatives-2022-ensemble-loin-de-la-majorite-absolue-le-rn-cree-la-surprise-la-nupes",
+      "passage": "Le RN obtiendrait « environ 89 sièges » ; en 2017, « seuls 8 députés soutiens de Marine Le Pen avaient été élus ». Le parti « battrait son record de 1986 », quand il avait obtenu 35 sièges à la proportionnelle.",
+      "pertinence": "Chaîne parlementaire de l'Assemblée nationale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Patriotes pour l'Europe : quatre questions sur ce groupe politique du Parlement européen présidé par Jordan Bardella",
+      "organisme": "Rose-Amélie Bécel, Public Sénat",
+      "date_publication": "10 juillet 2024",
+      "url": "https://www.publicsenat.fr/actualites/politique/patriotes-pour-leurope-quatre-questions-sur-ce-groupe-politique-du-parlement-europeen-preside-par-jordan-bardella",
+      "passage": "Viktor Orbán annonce le groupe le 30 juin 2024 à Vienne ; une quinzaine de partis le rejoignent, dont le RN, la Lega et Vox. Le groupe compte 84 eurodéputés ; les 30 élus du RN forment la délégation nationale « la plus importante de tout le Parlement européen » ; Jordan Bardella en prend la présidence.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La Hongrie ne peut plus être considérée comme une démocratie à part entière",
+      "organisme": "Parlement européen (communiqué de presse)",
+      "date_publication": "15 septembre 2022",
+      "url": "https://www.europarl.europa.eu/news/fr/press-room/20220909IPR40137/la-hongrie-ne-peut-plus-etre-consideree-comme-une-democratie-a-part-entiere",
+      "passage": "Le Parlement européen qualifie la Hongrie de « régime hybride d'autocratie électorale » (433 voix pour, 123 contre, 28 abstentions). Préoccupations : indépendance de la justice, corruption, pluralisme des médias, droits des personnes LGBTIQ, des minorités, des migrants et demandeurs d'asile.",
+      "pertinence": "Communiqué officiel du Parlement européen.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Bilans des nouvelles mairies RN élues en 2026 et élections de 2027.",
+  "objections_legitimes": [
+    "Le RN n'a jamais dirigé de gouvernement national.",
+    "Les déceptions envers les gouvernements successifs sont réelles et fondées sur des promesses non tenues.",
+    "Certains maires RN sont réélus, et des habitants se disent satisfaits de leur gestion."
+  ],
+  "publics": {
+    "convaincus": "Tu dis qu'on ne l'a jamais essayé, mais le FN dirigeait déjà Toulon et Vitrolles il y a trente ans, et le RN dirige aujourd'hui Perpignan, Nice et des dizaines d'autres villes. À Vitrolles, sa grande mesure a été une prime réservée aux Européens, annulée par la justice, et la maire a été condamnée. Avant de laisser une chance, ça vaut le coup de regarder ce qu'il a déjà fait.",
+    "indecis": "Le RN n'a jamais gouverné le pays, mais il gère des villes depuis 1995 et siège en nombre à l'Assemblée et au Parlement européen. On peut donc le juger sur pièces : coupes dans la culture et les associations, mesures discriminatoires annulées par la justice, alliance avec Viktor Orbán. Il ne s'agit pas d'un saut dans l'inconnu, mais d'un bilan qu'on peut consulter."
+  },
+  "lecture": {
+    "valeurs": [
+      "antifascisme",
+      "antiracisme",
+      "egalite"
+    ],
+    "mecanismes": "Le RN se présente comme une force neuve pour capter la déception envers les gouvernements successifs, en effaçant trente ans d’exercice du pouvoir local et ses alliances européennes.",
+    "consequences": "Là où il a gouverné, des mesures discriminatoires ont été annulées par la justice, la culture et les associations ont subi des coupes, et ce sont les habitants d’origine étrangère et le tissu associatif qui en ont payé le prix.",
+    "democratie": "Juger un parti sur ses actes plutôt que sur ses promesses est la base du choix démocratique ; ses alliés au pouvoir à l’étranger ont affaibli la justice, les médias et les droits des minorités.",
+    "propositions": [
+      "Rendre publics et lisibles les bilans des municipalités, quelle que soit leur couleur politique.",
+      "Renforcer le contrôle de légalité et les moyens des chambres régionales des comptes.",
+      "Répondre à la déception par des politiques de gauche concrètes sur les salaires, les services publics et le logement."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le RN n’a jamais dirigé de gouvernement national, et ses maires sont souvent réélus malgré les polémiques.",
+        "integration": "Reconnaître que certains habitants sont satisfaits, et montrer précisément ce qui a été fait, plutôt que d’opposer des étiquettes."
+      }
+    ]
+  },
+  "concepts": [
+    "rn_essayer",
+    "patriotisme",
+    "fn_parti"
+  ],
+  "repond_a": [
+    {
+      "id": "rn_essayer_q1215",
+      "label": "« On n’a jamais essayé le RN »"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "front national",
+    "fn",
+    "rn",
+    "rassemblement national",
+    "le pen"
+  ]
+}

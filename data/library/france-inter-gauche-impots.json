@@ -1,0 +1,262 @@
+{
+  "id": "france-inter-gauche-impots",
+  "type": "idee_recue",
+  "affirmation": "France Inter est une radio de gauche payée par nos impôts.",
+  "volet": "politique",
+  "sous_theme": "Médias",
+  "rubriques": [],
+  "mots_cles": [
+    "france inter de gauche",
+    "radio france gauchiste",
+    "france inter payee par nos impots",
+    "service public gauche",
+    "audiovisuel public partial",
+    "france inter neutralite",
+    "radio de gauchos",
+    "france inter pluralisme"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Il y a un fait et un jugement. Le fait : depuis la suppression de la redevance en 2022, l'audiovisuel public est financé par une part de la TVA, un impôt payé par tous. Le jugement : « de gauche ». Une partie du public le perçoit ainsi (36 % dans un sondage CSA d'avril 2026), et un rapporteur parlementaire cite une enquête selon laquelle la majorité de ses auditeurs vote à gauche. Mais la radio est soumise à des règles de pluralisme contrôlées par l'Arcom, qui l'a d'ailleurs mise en demeure en 2026 pour avoir relégué la nuit une grande partie du temps de parole du RN. Selon l'Arcom, la confiance du public envers l'audiovisuel public reste « globalement solide ».",
+  "contexte": "L'accusation est relancée depuis 2025 par une commission d'enquête parlementaire, à l'initiative de l'UDR d'Éric Ciotti, et par le projet du RN de privatiser l'audiovisuel public.",
+  "explication": "On distingue le financement (vérifiable), les obligations légales de pluralisme et leur contrôle, et les mesures de perception, qui relèvent de l'opinion du public.",
+  "faits": [
+    {
+      "fait": "Depuis la suppression de la redevance en 2022, l'audiovisuel public, dont Radio France, est financé par une fraction de la TVA ; ce mécanisme a été pérennisé par une loi organique définitivement adoptée le 20 novembre 2024.",
+      "periode": "2022-2024",
+      "perimetre": "France",
+      "explication": "France Inter est bien financée par l'impôt, comme les hôpitaux ou les écoles ; c'est le principe d'un service public.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Conseil d'État, les règles de pluralisme s'appliquent à France Inter comme aux chaînes privées ; l'Arcom contrôle l'ensemble des intervenants, pas seulement le temps de parole des politiques, mais ne peut agir qu'en cas de « déséquilibre manifeste et durable ».",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "La radio publique a des obligations légales d'équilibre, contrôlées par un régulateur indépendant.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : en juin 2026, l'Arcom met en demeure Radio France car, de janvier à mars 2026, « près de 60% du temps de parole accordé aux représentants du RN sur France Inter a été diffusé entre minuit et 5H59 » ; Radio France invoque une erreur de logiciel de décompte.",
+      "periode": "janvier-mars 2026",
+      "perimetre": "France",
+      "explication": "Le régulateur a constaté un manquement réel au pluralisme sur France Inter, et il l'a sanctionné : le contrôle fonctionne aussi pour le service public.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "60 %"
+    },
+    {
+      "fait": "Fait défavorable : dans un sondage CSA d'avril 2026, 36 % des personnes interrogées jugent France Inter « de gauche », 11 % « de droite », 26 % neutre, et 27 % ne savent pas.",
+      "periode": "avril 2026",
+      "perimetre": "France",
+      "explication": "Une partie importante du public perçoit un penchant à gauche ; mais c'est une minorité, et beaucoup n'ont pas d'avis.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "36 %"
+    },
+    {
+      "fait": "Selon une étude de perception menée pour l'Arcom, 50 à 70 % des personnes ne savent pas si les programmes de l'audiovisuel public sont orientés ; quand un biais est perçu, il l'est plutôt à gauche (10 à 20 %, contre 5 % à droite), et seules 10 à 15 % perçoivent un biais et en sont gênées.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le sentiment de partialité existe mais reste minoritaire ; l'Arcom juge la confiance « globalement solide » et recommande des outils pour la renforcer.",
+      "source": 3,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Fait défavorable : lors d'une audition, le rapporteur Charles Alloncle (UDR) a cité une enquête Ifop pour Marianne selon laquelle « 70% des auditeurs de France Inter ont voté à gauche » ; la présidente de Radio France a répondu que « France Inter n'est ni de droite, ni de gauche ».",
+      "periode": "décembre 2025",
+      "perimetre": "France",
+      "explication": "Le public d'une radio peut être majoritairement de gauche sans que la ligne de la radio soit partisane ; mais cela nourrit le soupçon.",
+      "source": 5,
+      "fiabilite": "debat"
+    },
+    {
+      "fait": "Le rapport de la commission d'enquête sur l'audiovisuel public a été adopté de justesse, par 12 voix contre 10 et 8 abstentions ; son président (Horizons) regrette que les principes d'une commission d'enquête n'aient pas toujours été respectés.",
+      "periode": "mai 2026",
+      "perimetre": "France",
+      "explication": "L'enquête parlementaire elle-même a été très contestée : elle ne constitue pas une preuve neutre de partialité.",
+      "source": 6,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Financée par nos impôts : oui, par une part de la TVA depuis 2022, comme tout service public. De gauche : c'est une opinion répandue, mais la radio est soumise au pluralisme et contrôlée par l'Arcom, qui l'a même rappelée à l'ordre en 2026 pour avoir relégué le RN la nuit. La confiance du public reste globalement solide.",
+    "moyen": "Depuis la suppression de la redevance en 2022, Radio France est financée par une fraction de la TVA : c'est bien de l'argent public, garanti par une loi organique votée en 2024. Comme toutes les radios, et avec une exigence particulière, France Inter doit respecter le pluralisme. Le Conseil d'État a rappelé que ces règles s'appliquent au service public et que le contrôle porte sur tous les intervenants.\n\nLe soupçon de penchant à gauche existe : 36 % des personnes interrogées par l'institut CSA en avril 2026 jugent France Inter « de gauche », et l'Arcom a constaté début 2026 que le RN était surtout invité la nuit. Mais une étude de perception menée pour l'Arcom montre que la plupart des gens ne perçoivent pas de biais clair, et que la confiance reste solide. Les manquements constatés ont été sanctionnés : c'est le rôle du régulateur.",
+    "detaille": "L'affirmation mélange deux choses. Le financement est un fait : depuis la suppression de la contribution à l'audiovisuel public en 2022, France Télévisions, Radio France et les autres sociétés publiques sont financées par une fraction de la TVA. Une loi organique de novembre 2024 a pérennisé ce système et protège ces dotations des coupes budgétaires en cours d'année. C'est le principe même d'un service public : il est payé par tous pour être indépendant des annonceurs et des actionnaires.\n\nLe caractère « de gauche » relève du jugement. Il existe des éléments qui nourrissent ce soupçon : dans un sondage CSA d'avril 2026, 36 % des personnes interrogées jugent France Inter de gauche ; un rapporteur parlementaire a cité une enquête selon laquelle la majorité de ses auditeurs vote à gauche ; et en juin 2026, l'Arcom a mis Radio France en demeure car près de 60 % du temps de parole du RN sur France Inter était diffusé entre minuit et 6 heures en début d'année.\n\nMais ces éléments ont des limites. Un auditoire de gauche ne prouve pas une ligne partisane, pas plus que l'auditoire de droite d'autres médias. L'étude de perception menée pour l'Arcom montre que la majorité des gens ne savent pas dire si les programmes sont orientés, que seuls 10 à 15 % perçoivent un biais et en sont gênés, et que la confiance envers le service public reste « globalement solide ». La commission d'enquête lancée par l'UDR a, elle, adopté son rapport de justesse, et son propre président a regretté des écarts de méthode.\n\nSurtout, contrairement à un média privé, la radio publique est tenue au pluralisme et contrôlée : quand un déséquilibre a été constaté, il a été sanctionné. Le débat sur l'impartialité est légitime ; il se règle par des règles et des contrôles, pas par la privatisation.",
+    "empathie": "Avoir l'impression qu'une radio qu'on finance ne vous ressemble pas est un sentiment compréhensible. C'est justement pour cela que le pluralisme du service public est encadré par la loi et contrôlé."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le RN est boycotté sur France Inter.",
+      "reponse": "Début 2026, l'Arcom a constaté qu'une grande partie de son temps de parole était diffusée la nuit et a mis Radio France en demeure. C'est un manquement réel, mais il a été sanctionné : le contrôle s'applique aussi au service public."
+    },
+    {
+      "objection": "Ses auditeurs votent à gauche, donc c'est une radio de gauche.",
+      "reponse": "Le public d'un média ne dit pas tout de sa ligne : les auditeurs choisissent aussi selon leurs goûts. Le pluralisme se mesure sur les intervenants et les sujets, comme l'a rappelé le Conseil d'État."
+    },
+    {
+      "objection": "Il faut la privatiser pour arrêter de payer.",
+      "reponse": "Une radio privée n'aurait plus d'obligation particulière d'impartialité et dépendrait de ses actionnaires et annonceurs. Le service public est financé par tous justement pour rester indépendant."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui te ferait dire qu'une radio est impartiale : le temps de parole des partis, le choix des invités, le ton des chroniques ?",
+    "Préférerais-tu un service public contrôlé par un régulateur ou une radio privée qui ne rend de comptes qu'à ses actionnaires ?"
+  ],
+  "limites": [
+    "Le sondage CSA d'avril 2026 a été lu sans que son commanditaire soit indiqué ; les résultats par proximité politique n'étaient pas lisibles.",
+    "Le rapport de l'Arcom sur l'impartialité a été lu à travers un compte rendu de The Media Leader, pas dans son texte original.",
+    "L'enquête Ifop pour Marianne et l'étude du Figaro sont seulement citées par un rapporteur lors d'une audition ; elles n'ont pas été lues.",
+    "La décision de mise en demeure de l'Arcom a été lue à travers la presse ; la décision elle-même n'a pas été ouverte.",
+    "Le Club des juristes donne une date légèrement différente pour la mise en demeure (10 ou 12 juin 2026) ; la date de la dépêche lue est le 11 juin.",
+    "La page de Vie publique sur la loi organique ne s'est pas ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Audiovisuel public : la pérennisation du mécanisme de financement actuel définitivement adoptée par l'Assemblée",
+      "organisme": "LCP Assemblée nationale",
+      "date_publication": "20 novembre 2024",
+      "url": "https://lcp.fr/index%2Ephp/actualites/audiovisuel-public-la-perennisation-du-mecanisme-de-financement-actuel-definitivement",
+      "passage": "La redevance a été supprimée en 2022 ; l'audiovisuel public (France Télévisions, Radio France, France Médias Monde, TV5 Monde, Arte, INA) est financé par une fraction de TVA, mécanisme provisoire pérennisé par une loi organique définitivement adoptée le 20 novembre 2024. Rachida Dati : « Les dotations des entreprises de l'audiovisuel public seront à l'abri des mesures de régulation budgétaire. » Elle cite l'exigence européenne de ressources suffisantes, durables et prévisibles. Le RN, favorable à la privatisation, ne l'a pas soutenue.",
+      "pertinence": "Chaîne parlementaire de l'Assemblée nationale.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Pluralisme de l'information : le Conseil d'État rejette les demandes visant à imposer aux chaînes et radios une répartition des intervenants selon les courants de pensée (communiqué)",
+      "organisme": "Conseil d'État",
+      "date_publication": "4 juillet 2025",
+      "url": "https://conseil-etat.fr/Media/actualites/documents/2025/juillet-2025/cp_pluralisme_web.pdf",
+      "passage": "Décision du 4 juillet 2025 (n° 494597 et suivants) : le Conseil d'État rejette les demandes de quatre associations qui voulaient que l'Arcom impose à neuf chaînes et cinq radios une répartition des intervenants selon le poids de chaque courant de pensée. Les règles de pluralisme s'appliquent aux chaînes publiques comme France 2, France Culture et France Inter comme aux chaînes privées, « dans l'exercice de leur liberté éditoriale ». L'Arcom ne peut intervenir qu'en cas de « déséquilibre manifeste et durable ». Rappel de la décision du 13 février 2024 : le contrôle « ne se limite pas au décompte du temps de parole des personnalités politiques ».",
+      "pertinence": "Plus haute juridiction administrative.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sondage sur l'audiovisuel public (n° 2600411)",
+      "organisme": "Institut CSA",
+      "date_publication": "avril 2026",
+      "url": "https://csa.eu/wp-content/uploads/2026/05/2600411-Sondage-Audiovisuel-Public-Rapport-3004.pdf",
+      "passage": "Questionnaire en ligne, 1 000 personnes de 18 ans et plus (méthode des quotas). France Inter est jugé « de gauche » par 36 % des personnes interrogées, « de droite » par 11 %, neutre par 26 % ; 27 % ne savent pas. Parmi ceux qui la jugent de gauche, 71 % disent que cela les choque. 60 % se disent attachés à l'audiovisuel public ; 56 % jugent qu'il coûte trop cher ; 66 % sont contre sa privatisation.",
+      "pertinence": "Sondage d'opinion ; le commanditaire n'est pas indiqué dans le document lu.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Impartialité de l'audiovisuel public : l'Arcom publie un rapport en 17 recommandations",
+      "organisme": "The Media Leader France",
+      "date_publication": "1er juin 2026",
+      "url": "https://fr.themedialeader.com/?p=215104",
+      "passage": "Rapport de la mission confiée par l'Arcom à Bruno Lasserre et Thomas Odinot. Étude de perception (ThinkOut et Toluna Harris Interactive) : 50 à 70 % des personnes ne savent pas si les programmes sont orientés ; parmi celles qui ont un avis, 26 à 36 % disent qu'ils prennent parti ; quand une orientation est perçue, elle est surtout vue à gauche (10 à 20 %) contre 5 % à droite ; seules 10 à 15 % perçoivent un biais et en sont gênées. L'Arcom conclut que « le lien de confiance entre les Français et le service public audiovisuel est globalement solide ». Recommandations : charte éditoriale unique, procédure de plaintes inspirée de la BBC, baromètre annuel de perception, devoir de réserve des salariés sur les réseaux sociaux, « pluralisme des cibles » dans l'humour.",
+      "pertinence": "Média professionnel rendant compte d'un rapport de l'autorité de régulation.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'Arcom met en demeure Radio France pour « sous-représentation » du RN en journée",
+      "organisme": "La Libre Belgique (avec AFP)",
+      "date_publication": "11 juin 2026",
+      "url": "https://www.lalibre.be/international/europe/2026/06/11/larcom-met-en-demeure-radio-france-pour-sous-representation-du-rn-en-journee-2H3LHVU225HJ7C72HUJZPEWDQ4/",
+      "passage": "L'Arcom met en demeure Radio France pour une « sous-représentation » du RN en journée de janvier à fin mars 2026, période qui inclut les municipales : « Près de 60% du temps de parole accordé aux représentants du RN sur France Inter a été diffusé entre minuit et 5H59 » ; plus de 70 % sur franceinfo. Le pluralisme s'impose au service public avec une exigence particulière. Des constats semblables avaient déjà donné lieu à un rappel en 2025 et 2026. Radio France invoque un changement de logiciel de décompte : « L'erreur est corrigée ». La mise en demeure est le dernier échelon avant une sanction financière.",
+      "pertinence": "Quotidien belge reprenant une dépêche sur une décision de l'autorité de régulation.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Sibyle Veil, patronne de Radio France : « France Inter n'est ni de droite, ni de gauche »",
+      "organisme": "LCP Assemblée nationale",
+      "date_publication": "17 décembre 2025",
+      "url": "https://lcp.fr/actualites/sibyle-veil-patronne-de-radio-france-france-inter-n-est-ni-de-droite-ni-de-gauche-425375",
+      "passage": "Audition de Sibyle Veil par la commission d'enquête sur la neutralité, le fonctionnement et le financement de l'audiovisuel public, créée à la demande d'Éric Ciotti (UDR) après la diffusion en septembre d'extraits d'une conversation enregistrée à leur insu entre les journalistes Thomas Legrand et Patrick Cohen et deux responsables du PS. Sibyle Veil : « France Inter n'est ni de droite, ni de gauche » ; elle annonce un « baromètre du pluralisme ». Le rapporteur Charles Alloncle (UDR) cite une enquête Ifop pour Marianne selon laquelle « 70% des auditeurs de France Inter ont voté à gauche » et une étude du Figaro classant 60 % des chroniques à gauche ; l'article ne vérifie pas ces chiffres.",
+      "pertinence": "Chaîne parlementaire ; compte rendu d'audition.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Commission d'enquête sur l'audiovisuel public : le rapport de Charles Alloncle publié",
+      "organisme": "LCP Assemblée nationale",
+      "date_publication": "5 mai 2026",
+      "url": "https://lcp.fr/actualites/commission-d-enquete-sur-l-audiovisuel-public-le-rapport-de-charles-alloncle-publie",
+      "passage": "Le rapport de Charles Alloncle (UDR) a été adopté « de justesse » par 12 voix contre 10 et 8 abstentions. Il contient 69 recommandations, dont la suppression de France 4 et la fusion de France 2 et France 5. Le président de la commission, Jérémie Patrier-Leitus (Horizons), « regrette » dans son avant-propos que les principes devant guider une commission d'enquête n'aient pas toujours été respectés.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Décisions de l'Arcom sur Radio France, campagne présidentielle de 2027 et suites de la commission d'enquête.",
+  "objections_legitimes": [
+    "L'audiovisuel public est bien financé par l'impôt, et chacun est en droit d'exiger qu'il soit impartial.",
+    "Une partie du public perçoit un penchant à gauche, et l'Arcom a constaté un déséquilibre réel dans l'exposition du RN début 2026.",
+    "L'Arcom elle-même recommande de mieux définir et mesurer l'impartialité du service public."
+  ],
+  "publics": {
+    "convaincus": "Payée par nos impôts, oui : c'est un service public, comme l'hôpital. Mais justement, contrairement à une chaîne privée, elle est obligée au pluralisme et contrôlée : l'Arcom l'a même rappelée à l'ordre en 2026 parce que le RN passait trop souvent la nuit. Si tu veux un média équilibré, c'est ce contrôle-là qu'il faut défendre, pas la vente au plus offrant.",
+    "indecis": "La question du financement est simple : c'est une part de la TVA depuis 2022. Celle de l'orientation est plus discutée : une partie du public la trouve à gauche, mais la plupart n'y voient pas de biais net, et l'Arcom juge la confiance solide. Le bon repère, ce sont les relevés et décisions du régulateur, publics et vérifiables."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "democratie",
+      "libertes"
+    ],
+    "mecanismes": "L’accusation de partialité sert à préparer la privatisation : en présentant le service public comme une radio militante, on fait oublier qu’il est le seul média soumis à une exigence particulière d’impartialité et contrôlé à ce titre.",
+    "consequences": "Affaiblir l’audiovisuel public laisserait l’information aux mains de quelques milliardaires propriétaires de chaînes et de radios privées, sans obligation équivalente d’indépendance.",
+    "democratie": "Un service public financé par tous et contrôlé par un régulateur indépendant est une garantie de pluralisme ; les manquements doivent être corrigés par ce contrôle, pas servir de prétexte pour le supprimer.",
+    "propositions": [
+      "Garantir un financement public stable et indépendant du gouvernement pour l’audiovisuel public.",
+      "Rendre publics et lisibles les relevés de pluralisme et les décisions du régulateur.",
+      "Renforcer l’indépendance des rédactions face aux pressions politiques et économiques."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le régulateur a mis en demeure Radio France pour avoir diffusé la nuit une grande partie du temps de parole du RN, et une partie du public perçoit France Inter comme penchant à gauche.",
+        "integration": "Défendre le service public, c’est aussi exiger qu’il respecte strictement le pluralisme, y compris pour les adversaires de la gauche."
+      }
+    ]
+  },
+  "concepts": [
+    "france_inter",
+    "fiscalite",
+    "services_publics",
+    "medias",
+    "gauche",
+    "cout"
+  ],
+  "repond_a": [
+    {
+      "id": "gauche_q1215_france_inter",
+      "label": "France Inter et l’audiovisuel public"
+    },
+    {
+      "id": "fiscalite_q1215_france_inter",
+      "label": "France Inter et l’audiovisuel public"
+    },
+    {
+      "id": "gauche_fiscalite_q1215_france_inter",
+      "label": "France Inter et l’audiovisuel public"
+    },
+    {
+      "id": "france_inter_q1215",
+      "label": "France Inter et l’audiovisuel public"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "france inter",
+    "radio france",
+    "taxer",
+    "isf",
+    "tva",
+    "urgences",
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite",
+    "nous cachent",
+    "on nous cache"
+  ]
+}

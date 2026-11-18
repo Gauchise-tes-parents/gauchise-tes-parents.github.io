@@ -1,0 +1,263 @@
+{
+  "id": "macron-president-de-gauche",
+  "type": "idee_recue",
+  "affirmation": "Macron, c'est la gauche au pouvoir.",
+  "volet": "politique",
+  "sous_theme": "Gauche et pluralisme politique",
+  "rubriques": [],
+  "mots_cles": [
+    "macron est de gauche",
+    "macron la gauche au pouvoir",
+    "macron socialiste",
+    "macron gauchiste",
+    "gouvernement de gauche macron",
+    "macron president des riches",
+    "bilan macron gauche ou droite",
+    "macronie de gauche"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les principales réformes d'Emmanuel Macron vont dans le sens inverse de ce que défend la gauche : suppression de l'ISF et impôt forfaitaire sur les revenus du capital (les 1 % les plus aisés en sont les grands gagnants selon l'IPP), plafonnement des indemnités prud'homales, durcissement de l'assurance chômage, retraite à 64 ans imposée par le 49.3, loi immigration votée avec le RN. Certaines mesures ont aussi profité aux ménages modestes, et une partie de ses électeurs vient de la gauche, mais ni son bilan ni ses soutiens n'en font un pouvoir de gauche.",
+  "contexte": "Une partie de l'extrême droite présente Emmanuel Macron comme un homme de gauche, pour renvoyer dos à dos « la gauche » et ses propres adversaires. La gauche, elle, le qualifie de « président des riches ».",
+  "explication": "On regarde les mesures effectivement prises depuis 2017 et leurs effets mesurés par des organismes d'évaluation, puis la composition de son électorat.",
+  "faits": [
+    {
+      "fait": "Selon l'Institut des politiques publiques, les mesures socio-fiscales de 2017-2022 ont augmenté le niveau de vie de 3,3 % pour les 1 % les plus aisés, contre 0,8 % pour les 5 % les plus modestes ; le remplacement de l'ISF par l'IFI réduit à lui seul les prélèvements d'environ 2,9 milliards d'euros par an.",
+      "periode": "2017-2022",
+      "perimetre": "France",
+      "explication": "Les plus riches sont ceux qui ont le plus gagné, en proportion, au premier quinquennat.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+3,3 %"
+    },
+    {
+      "fait": "Fait défavorable : selon la même étude, les gains sont « en moyenne nettement positifs » à tous les niveaux de vie, et environ 67 % des personnes sont gagnantes.",
+      "periode": "2017-2022",
+      "perimetre": "France",
+      "explication": "Il y a eu des mesures favorables aux ménages modestes et moyens ; mais 58 % des 5 % les plus modestes sont perdants.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "67 %"
+    },
+    {
+      "fait": "Selon France Stratégie, après la réforme de 2018, les dividendes déclarés par les ménages passent d'environ 14 à 23 milliards d'euros par an, 1 % des foyers en concentrant 96 % ; aucun effet du prélèvement forfaitaire unique n'a été détecté sur l'investissement et les salaires.",
+      "periode": "2013-2021",
+      "perimetre": "France",
+      "explication": "La réforme a surtout profité aux très gros détenteurs de capital, sans effet démontré sur l'investissement promis.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "96 %"
+    },
+    {
+      "fait": "Selon Public Sénat, les ordonnances de 2017 ont plafonné les indemnités prud'homales en cas de licenciement abusif et fusionné les instances représentatives du personnel dans un comité social et économique.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Ces mesures, réclamées de longue date par le patronat, réduisent les protections des salariés.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'étude d'impact de l'Unédic, le nouveau calcul de l'allocation chômage prévu en 2019 devait toucher environ 850 000 allocataires la première année, avec une baisse moyenne de 22 % de leur allocation mensuelle nette.",
+      "periode": "2019-2021",
+      "perimetre": "France",
+      "explication": "Les chômeurs aux emplois précaires ont vu leur indemnisation réduite.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "-22 %"
+    },
+    {
+      "fait": "Selon Public Sénat, la réforme des retraites de 2023 a relevé l'âge légal de 62 à 64 ans et a été adoptée par le 49.3, la motion de censure échouant à 9 voix, malgré douze journées de mobilisation de l'intersyndicale.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Une réforme imposée contre l'ensemble des syndicats, aux antipodes de la retraite à 60 ans défendue par la gauche.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "64 ans"
+    },
+    {
+      "fait": "Selon Politis, la loi immigration a été adoptée le 19 décembre 2023 avec les voix du RN ; Marine Le Pen y a vu « une victoire idéologique pour le Rassemblement national ».",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le principal parti d'extrême droite a lui-même revendiqué le contenu de cette loi.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Fondation Jean-Jaurès, parmi les électeurs d'Emmanuel Macron au premier tour de 2022, 27 % sont « tentés par la droite », notamment le RN et LR, et 23 % « tentés par la gauche », surtout le PS.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Son électorat mêle centre gauche et droite, avec un penchant plus marqué vers la droite.",
+      "source": 7,
+      "fiabilite": "interpretation",
+      "chiffre": "27 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Suppression de l'ISF, impôt forfaitaire sur le capital, plafonnement des indemnités prud'homales, baisse des allocations chômage, retraite à 64 ans par le 49.3, loi immigration saluée par Marine Le Pen : ce n'est pas un programme de gauche. Selon l'IPP, les 1 % les plus riches sont ceux qui ont le plus gagné.",
+    "moyen": "Les grandes réformes d'Emmanuel Macron vont à l'opposé des propositions de la gauche. En 2018, il remplace l'ISF par un impôt sur l'immobilier et crée un impôt forfaitaire sur les revenus du capital : selon l'IPP, les 1 % les plus aisés gagnent 3,3 % de niveau de vie sur le quinquennat, les 5 % les plus modestes 0,8 %. Les dividendes explosent, sans effet démontré sur l'investissement selon France Stratégie.\n\nSuivent le plafonnement des indemnités prud'homales, la baisse des allocations chômage pour les emplois précaires, la retraite à 64 ans passée par le 49.3 contre tous les syndicats, et une loi immigration que Marine Le Pen a qualifiée de « victoire idéologique ». Certaines mesures ont aidé des ménages modestes et une partie de ses électeurs vient du centre gauche, mais le cœur de sa politique est libéral et, sur l'immigration, de plus en plus à droite.",
+    "detaille": "Juger un pouvoir sur son étiquette ne suffit pas : il faut regarder ce qu'il fait. Dès 2018, l'impôt de solidarité sur la fortune est remplacé par un impôt sur la seule fortune immobilière, et les revenus du capital sont taxés à un taux forfaitaire. Selon France Stratégie, les dividendes déclarés par les ménages passent d'environ 14 à 23 milliards d'euros par an, 1 % des foyers en concentrant 96 %, et aucun effet n'est détecté sur l'investissement et les salaires des entreprises les plus exposées. L'Institut des politiques publiques montre que, sur le quinquennat 2017-2022, les 1 % les plus aisés gagnent 3,3 % de niveau de vie, contre 0,8 % pour les 5 % les plus modestes, dont une majorité est perdante.\n\nCôté travail, les ordonnances de 2017 plafonnent les indemnités prud'homales en cas de licenciement abusif et fusionnent les instances représentatives du personnel. L'assurance chômage est durcie : selon l'étude d'impact de l'Unédic, le nouveau mode de calcul devait faire baisser de 22 % en moyenne l'allocation d'environ 850 000 chômeurs. En 2023, la retraite passe de 62 à 64 ans, par le 49.3, après douze journées de mobilisation syndicale ; la motion de censure échoue à 9 voix. En décembre 2023, la loi immigration est votée avec les voix du RN ; le Conseil constitutionnel en censure ensuite 32 articles comme cavaliers législatifs, dont des restrictions à l'accès des étrangers aux prestations sociales.\n\nTout n'est pas à sens unique : selon l'IPP, les gains moyens sont positifs à tous les niveaux de vie, et une partie de l'électorat d'Emmanuel Macron vient du centre gauche. Mais selon la Fondation Jean-Jaurès, ses électeurs de 2022 sont plus nombreux à être tentés par la droite et le RN que par la gauche. Qualifier ce pouvoir de « gauche » revient à effacer ce que la gauche défend : la justice fiscale, les droits des salariés, la retraite à 60 ans et l'égalité des droits entre Français et étrangers.",
+    "empathie": "Emmanuel Macron se présente comme ni de droite ni de gauche et une partie de ses soutiens vient du centre gauche : il est normal que certains le classent à gauche. Regarder ses décisions concrètes permet de se faire un avis par soi-même."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il a augmenté les dépenses publiques et la dette, c'est une politique de gauche.",
+      "reponse": "La dépense en soi n'est pas un marqueur de gauche : la question est de savoir à qui elle profite. Les baisses d'impôts sur le capital ont surtout bénéficié aux 1 % les plus aisés."
+    },
+    {
+      "objection": "Il a fait le « quoi qu'il en coûte » pendant le Covid.",
+      "reponse": "Un soutien d'urgence pendant une crise ne dit pas grand-chose de l'orientation d'un pouvoir ; ce sont les réformes durables qui comptent : fiscalité du capital, code du travail, chômage, retraites."
+    }
+  ],
+  "questions": [
+    "Quelle mesure d'Emmanuel Macron un électeur de gauche pourrait-il revendiquer comme la sienne ?",
+    "Pourquoi Marine Le Pen a-t-elle parlé de « victoire idéologique » pour une loi d'un gouvernement prétendument de gauche ?"
+  ],
+  "limites": [
+    "L'étude de l'IPP couvre le premier quinquennat (2017-2022) ; le second n'est pas évalué ici.",
+    "L'étude d'impact de l'Unédic est une estimation faite avant l'application de la réforme, appliquée en 2021 sous une forme modifiée.",
+    "Le récit du vote de la loi immigration vient de Politis, hebdomadaire de gauche ; les chiffres du vote sont publics.",
+    "La typologie de la Fondation Jean-Jaurès repose sur des probabilités de vote déclarées, pas sur un positionnement gauche-droite.",
+    "Les fiches de Vie publique sur ces réformes n'ont pas pu être ouvertes."
+  ],
+  "sources": [
+    {
+      "titre": "Effets redistributifs des mesures socio-fiscales du quinquennat 2017-2022 (note IPP n° 81)",
+      "organisme": "Paul Dutronc-Postel, Brice Fabre, Chloé Lallemand, Nolwenn Loisel, Lukas Puschnig — Institut des politiques publiques",
+      "date_publication": "mars 2022",
+      "url": "https://www.ipp.eu/wp-content/uploads/2022/03/Note_IPP_81_mar2022.pdf",
+      "passage": "Les mesures augmentent les transferts nets de 1,9 % du niveau de vie en moyenne, gains « en moyenne nettement positifs » mais très hétérogènes : « Les hausses les plus faibles sont constatées au niveau des 5 % des individus les plus modestes (+ 0,8 %) », jusqu'à « + 3,3 % pour les 1 % des individus les plus aisés ». Environ 67 % de gagnants et 24 % de perdants ; 58 % de perdants parmi les 5 % les plus modestes. Le remplacement de l'ISF par l'IFI réduit les prélèvements d'environ 2,9 milliards d'euros par an ; avec le prélèvement forfaitaire unique, c'est un des principaux moteurs du gain des 1 % les plus aisés.",
+      "pertinence": "Institut de recherche indépendant (École d'économie de Paris, CREST).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Comité d'évaluation des réformes de la fiscalité du capital — rapport final, avis du comité",
+      "organisme": "France Stratégie (service du Premier ministre)",
+      "date_publication": "9 octobre 2023",
+      "url": "https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2023-rapport-isf-quatrieme_rapport_complet_17octobre_avis.pdf",
+      "passage": "En 2018, l'ISF est remplacé par l'impôt sur la fortune immobilière et un prélèvement forfaitaire unique est créé sur les revenus du capital. Les dividendes déclarés par les ménages passent d'environ 14 milliards d'euros par an (2013-2017) à environ 23 milliards (2018-2020). « 1 % des foyers fiscaux (400 000 foyers sur 40 millions en 2021) concentrent 96 % des montants totaux déclarés » ; 0,01 % des foyers reçoivent 33 % des dividendes. Pour le PFU, « Aucun effet n'a été détecté sur l'investissement et les salaires » dans les entreprises les plus exposées.",
+      "pertinence": "Organisme public d'évaluation rattaché au Premier ministre.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Ordonnances modifiant le droit du travail : les principales mesures",
+      "organisme": "Public Sénat",
+      "date_publication": "19 novembre 2017",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/ordonnances-modifiant-le-droit-du-travail-les-principales-mesures-79874",
+      "passage": "Barème des indemnités prud'homales en cas de licenciement abusif : « Création d'un plafond, fixé à un mois de salaire en-dessous d'un an d'ancienneté », jusqu'à 20 mois. Fusion des délégués du personnel, du comité d'entreprise et du CHSCT dans le comité social et économique. Création de la rupture conventionnelle collective. Rôle renforcé des accords d'entreprise. Difficultés économiques appréciées « au niveau du territoire national ».",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Étude d'impact de la réforme de l'assurance chômage 2019",
+      "organisme": "Unédic",
+      "date_publication": "21 novembre 2019",
+      "url": "https://www.unedic.org/publications/etude-dimpact-de-la-reforme-de-lassurance-chomage-2019",
+      "passage": "Pour le nouveau calcul du salaire de référence : « environ 4 allocataires sur 10 seront concernés par ce changement de calcul », soit environ 850 000 personnes la première année ; « En moyenne, ils subiront une baisse de 22 % de leur allocation mensuelle nette ». Pour certains, la durée maximale des droits passe de 7,6 à 19,4 mois.",
+      "pertinence": "Organisme paritaire gestionnaire de l'assurance chômage ; estimation avant application.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réforme des retraites : les dates clés de trois mois de crise sociale et politique",
+      "organisme": "Stéphane Duguet, Public Sénat",
+      "date_publication": "14 avril 2023 (mis à jour le 24 avril 2023)",
+      "url": "https://www.publicsenat.fr/actualites/politique/reforme-des-retraites-les-dates-cles-de-trois-mois-de-crise-sociale-et-politique",
+      "passage": "La réforme relève l'âge légal de départ de 62 à 64 ans. Le 16 mars 2023, Emmanuel Macron décide de « recourir à l'article 49-3 pour adopter la réforme sans vote ». La motion de censure du 20 mars obtient 278 voix, il en fallait 287. Le 13 avril marque la douzième journée de mobilisation de l'intersyndicale.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La loi immigration adoptée, l'union des droites et de l'extrême droite entérinée",
+      "organisme": "Politis",
+      "date_publication": "20 décembre 2023",
+      "url": "https://www.politis.fr/articles/2023/12/la-loi-immigration-adoptee-lunion-des-droites-et-de-lextreme-droite-enterinee/",
+      "passage": "Le 19 décembre 2023, l'Assemblée adopte la loi par 349 voix contre 186, le Sénat par 214 contre 114. Marine Le Pen annonce le vote du RN et parle d'« une victoire idéologique pour le Rassemblement national ». Le texte rétablit le délit de séjour irrégulier et durcit l'accès des étrangers aux aides au logement ; une députée RN y voit « une forme de priorité nationale ».",
+      "pertinence": "Hebdomadaire de gauche ; faits de séance vérifiables.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Loi « immigration » : le Conseil constitutionnel censure 32 articles considérés comme « cavaliers législatifs »",
+      "organisme": "Le Club des juristes (rédaction)",
+      "date_publication": "25 janvier 2024",
+      "url": "https://www.leclubdesjuristes.com/en-bref/loi-immigration-le-conseil-constitutionnel-opte-pour-la-censure-dune-grande-partie-du-texte-4573/",
+      "passage": "Le Conseil constitutionnel censure, partiellement ou totalement, 32 articles comme cavaliers législatifs, qui « n'ont pas été examinées sur le fond », dont l'article conditionnant l'accès des étrangers non européens aux aides au logement et aux prestations familiales à cinq ans de résidence ou trente mois d'activité, et des restrictions au regroupement familial.",
+      "pertinence": "Think tank juridique ; analyse de la décision.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "2027 : qui héritera des électeurs d'Emmanuel Macron ?",
+      "organisme": "Antoine Bristielle, Fondation Jean-Jaurès",
+      "date_publication": "29 mai 2026",
+      "url": "https://www.jean-jaures.org/publication/2027-qui-heritera-des-electeurs-demmanuel-macron/",
+      "passage": "Typologie des électeurs d'Emmanuel Macron au premier tour de 2022 selon leurs probabilités de vote déclarées : « héritiers » fidèles au bloc central (35 %), « tentés par la droite » (27 %, 6,7/10 pour le RN et 6,6/10 pour LR), « tentés par la gauche » (23 %, 6,9/10 pour le PS) et « désabusés » (15 %). Le macronisme apparaît comme « une coalition électorale en voie de dispersion ».",
+      "pertinence": "Fondation proche du Parti socialiste ; analyse d'enquête d'opinion.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Fin du second quinquennat et bilans d'évaluation à paraître.",
+  "objections_legitimes": [
+    "Une partie des électeurs d'Emmanuel Macron vient du centre gauche et reste tentée par le PS.",
+    "Certaines mesures ont amélioré le niveau de vie de ménages modestes, et les gains moyens sont positifs selon l'IPP."
+  ],
+  "publics": {
+    "convaincus": "Si Macron était de gauche, pourquoi Marine Le Pen aurait-elle salué sa loi immigration comme une « victoire idéologique » ? Il a supprimé l'ISF, plafonné les indemnités des salariés licenciés abusivement, baissé les allocations chômage et repoussé la retraite à 64 ans. Ce sont des mesures que la gauche combat depuis toujours.",
+    "indecis": "Macron se dit ni de droite ni de gauche, d'où la confusion. Mais selon l'IPP, ses réformes fiscales ont surtout profité aux 1 % les plus riches, et ses réformes du travail, du chômage et des retraites ont été menées contre les syndicats. On peut l'appeler libéral ou centriste, pas « la gauche au pouvoir »."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "travailleurs",
+      "egalite"
+    ],
+    "mecanismes": "En collant l’étiquette de gauche au pouvoir en place, l’extrême droite renvoie dos à dos ses adversaires et efface ce que la gauche défend réellement : la justice fiscale, les droits des salariés et l’égalité des droits.",
+    "consequences": "Les plus aisés ont été les grands gagnants des réformes fiscales, tandis que chômeurs précaires, salariés licenciés et futurs retraités ont vu leurs droits réduits, et les étrangers leurs droits sociaux menacés.",
+    "democratie": "Une réforme des retraites imposée par le passage en force contre tous les syndicats, et une loi immigration revendiquée par l’extrême droite, ont alimenté la défiance envers les institutions.",
+    "propositions": [
+      "Rétablir un impôt sur la fortune et taxer les revenus du capital comme ceux du travail.",
+      "Abroger le plafonnement des indemnités prud’homales et les réformes restrictives de l’assurance chômage.",
+      "Revenir sur le recul de l’âge de départ à la retraite."
+    ],
+    "defavorables": [
+      {
+        "fait": "Selon l’IPP, les gains moyens des réformes du premier quinquennat sont positifs à tous les niveaux de vie, et une partie de l’électorat de Macron vient du centre gauche.",
+        "integration": "Le reconnaître permet de montrer que la question est celle de la répartition : les plus riches ont gagné bien davantage, et les plus modestes comptent le plus de perdants."
+      }
+    ]
+  },
+  "concepts": [
+    "macron_gauche",
+    "riches_entreprises",
+    "gauche"
+  ],
+  "repond_a": [
+    {
+      "id": "macron_gauche_q1215",
+      "label": "Macron, président de gauche ?"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire"
+  ]
+}

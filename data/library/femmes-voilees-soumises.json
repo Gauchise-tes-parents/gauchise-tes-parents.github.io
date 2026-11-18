@@ -1,0 +1,236 @@
+{
+  "id": "femmes-voilees-soumises",
+  "type": "idee_recue",
+  "affirmation": "Les femmes voilées sont toutes soumises à leur mari.",
+  "volet": "droits",
+  "sous_theme": "Féminisme",
+  "rubriques": [],
+  "mots_cles": [
+    "femmes voilees soumises",
+    "voile soumission mari",
+    "voile impose par le mari",
+    "voile oppression des femmes",
+    "pourquoi elles portent le voile",
+    "voile choix ou contrainte",
+    "musulmanes voilees forcees",
+    "voile islamique femmes"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Le voile n'est pas le signe automatique d'une soumission au mari. Selon l'enquête publique Trajectoires et Origines, environ une femme musulmane de 18 à 49 ans sur quatre le porte, et les études disponibles indiquent qu'il est surtout lié à la religiosité personnelle : dans un sondage Ifop de 2025, seules 2 % des femmes voilées disent le porter sous la pression de proches. Des contraintes existent pourtant, familiales ou sociales, et les données ne permettent pas d'exclure l'influence du conjoint dans certains cas. Généraliser à « toutes » est faux.",
+  "contexte": "L'idée revient dans les débats sur l'interdiction du voile dans l'espace public, à l'université ou dans le sport, où il est souvent présenté comme un symbole d'oppression imposé par les hommes.",
+  "explication": "On regarde qui porte le voile selon la statistique publique (Insee-Ined), puis ce que disent les femmes concernées dans les enquêtes, en signalant leurs limites.",
+  "faits": [
+    {
+      "fait": "Selon l'enquête Trajectoires et Origines (Insee-Ined), 26 % des femmes musulmanes de 18 à 49 ans déclarent porter le voile en 2019-2020 : 36 % des immigrées et 17 % des descendantes d'immigrés.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Les femmes voilées sont une minorité des musulmanes, et la pratique est moins fréquente chez celles nées en France.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "26 %"
+    },
+    {
+      "fait": "Le port du voile varie de 13 % chez les musulmanes cadres ou de professions intermédiaires à 38 % chez les ouvrières, et atteint 56 % chez les immigrées inactives.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Le voile est lié au milieu social et à l'emploi, ce qui oblige à penser aussi les inégalités et les discriminations.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : parmi les immigrées d'origine maghrébine, 42 % de celles qui vivent en couple portent le voile, contre 24 % de celles qui vivent seules.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "La vie de couple est associée à un port plus fréquent ; cela ne prouve pas une contrainte du mari, mais ne l'exclut pas non plus.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "42 %"
+    },
+    {
+      "fait": "Selon un document de travail de l'université de Warwick fondé sur l'enquête TeO, la religiosité personnelle est le premier facteur associé au port du voile, ce qui est cohérent avec « an individual choice rather than a behavior mostly adopted under communitarian pressures ».",
+      "periode": "2008",
+      "perimetre": "France",
+      "explication": "Les données statistiques vont dans le sens d'un choix religieux personnel plutôt que d'une contrainte collective.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : les mêmes auteurs précisent que les données ne mesurent pas la religiosité du conjoint, et qu'ils ne peuvent donc pas exclure que le voile dépende en partie des préférences du mari.",
+      "periode": "2008",
+      "perimetre": "France",
+      "explication": "Il serait aussi faux de dire qu'aucune femme n'est contrainte : la statistique ne permet pas de trancher pour chaque cas.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon un sondage Ifop pour la revue Écran de veille, contesté, seules 2 % des femmes voilées interrogées disent porter le voile « sous pression des proches », contre 42 % « pour se sentir en sécurité » ; l'échantillon ne compte que 149 femmes voilées et le sondage a été vivement critiqué pour sa méthode.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La contrainte familiale déclarée est très minoritaire ; en revanche, le sentiment d'insécurité face aux regards masculins pèse, ce qui renvoie à une question féministe plus large.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "2 %"
+    },
+    {
+      "fait": "Dans une étude qualitative de 2011 auprès de 32 femmes portant le voile intégral, aucune n'avait été forcée ; un seul mari sur 21 avait encouragé son épouse, et les familles s'y étaient souvent opposées.",
+      "periode": "2010-2011",
+      "perimetre": "France",
+      "explication": "Même pour le voile intégral, le plus souvent présenté comme imposé, les femmes interrogées décrivaient un choix personnel, parfois contre l'avis de leurs proches.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon les études citées par l'université de Warwick, les candidates voilées subissent une forte pénalité à l'embauche, avec jusqu'à 80 % de rappels en moins pour des offres d'apprentissage ; leur taux d'emploi est de 27 % contre 54 % pour les autres musulmanes.",
+      "periode": "2008-2024",
+      "perimetre": "France",
+      "explication": "La dépendance économique de certaines femmes voilées tient aussi aux discriminations à l'embauche.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "80 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux pour « toutes ». Environ une musulmane de 18 à 49 ans sur quatre porte le voile, et les enquêtes montrent surtout une motivation religieuse personnelle : dans un sondage Ifop de 2025, seules 2 % des femmes voilées citent la pression de proches. Des contraintes existent, mais elles ne sont pas la règle.",
+    "moyen": "Selon l'enquête publique Trajectoires et Origines, 26 % des femmes musulmanes de 18 à 49 ans portent le voile, beaucoup moins chez celles nées en France. Les études qui interrogent ces femmes trouvent surtout des motivations religieuses personnelles : la religiosité individuelle est le premier facteur, et dans un sondage Ifop de 2025, seules 2 % disent le porter sous la pression de proches. Une étude sur le voile intégral montrait même que les familles et les maris s'y opposaient souvent.\n\nCela ne veut pas dire qu'aucune femme n'est contrainte : la pression familiale existe, le voile est plus fréquent chez les femmes en couple, et les chercheurs ne peuvent pas exclure l'influence du mari dans certains cas. Mais généraliser à toutes les femmes voilées revient à nier leur parole, et à oublier que les discriminations à l'embauche pèsent lourdement sur leur autonomie.",
+    "detaille": "La statistique publique donne d'abord un ordre de grandeur. Selon l'enquête Trajectoires et Origines de l'Insee et de l'Ined, 26 % des femmes musulmanes de 18 à 49 ans déclarent porter le voile en 2019-2020, contre 18 % dix ans plus tôt. C'est 36 % chez les immigrées et 17 % chez les filles d'immigrés nées en France. Le port est plus fréquent chez les ouvrières et les inactives que chez les cadres, et chez les femmes en couple que chez celles qui vivent seules.\n\nSur les motivations, les enquêtes disponibles vont dans le même sens. Une analyse de l'université de Warwick fondée sur la même enquête trouve que la religiosité personnelle est le premier facteur associé au voile, plus que l'environnement religieux, ce qui est cohérent avec un choix individuel. Une enquête de 2016 citée par ces auteurs indique que 76 % des musulmanes voilées invoquent un devoir religieux. Le sondage Ifop de 2025, commandé par la revue Écran de veille et contesté pour sa méthode, ne trouve que 2 % de femmes voilées citant la pression de proches ; le motif de sécurité, cité par 42 %, renvoie plutôt aux regards et au harcèlement masculins. Même pour le voile intégral, une étude qualitative de 2011 ne trouvait aucune femme forcée, et souvent des familles opposées.\n\nIl faut pourtant rester honnête : ces chiffres reposent sur ce que les femmes déclarent, et la pression sociale peut être intériorisée. Les chercheurs de Warwick reconnaissent qu'ils ne peuvent pas mesurer l'influence du conjoint. Des cas de contrainte existent, et ils doivent être combattus comme toute violence faite aux femmes.\n\nMais dire que « toutes » sont soumises à leur mari est faux et contre-productif : cela nie la parole des femmes concernées et justifie des mesures qui les excluent de l'école, du sport ou de l'emploi. Or les études montrent que les candidates voilées subissent de fortes discriminations à l'embauche. L'émancipation passe par le droit de choisir, l'accès au travail et la protection contre toutes les violences, pas par un soupçon généralisé.",
+    "empathie": "Beaucoup de gens associent sincèrement le voile à l'oppression des femmes, notamment en pensant aux pays où il est imposé par la loi. Cette préoccupation pour l'égalité est légitime ; elle gagne à partir de ce que disent les femmes concernées."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Elles disent que c'est leur choix, mais c'est parce qu'elles n'osent pas dire le contraire.",
+      "reponse": "C'est possible pour certaines, mais on ne peut pas décider à la place de millions de femmes qu'elles mentent. Les études sur le voile intégral montrent même des familles et des maris opposés à ce choix."
+    },
+    {
+      "objection": "Le voile est imposé aux femmes, regardez l'Iran.",
+      "reponse": "Dans les pays où la loi l'impose, c'est une contrainte d'État, et la gauche la combat. En France, seule une minorité de musulmanes le porte, et la plupart disent le faire par conviction."
+    },
+    {
+      "objection": "Si elles étaient libres, elles travailleraient.",
+      "reponse": "Les candidates voilées subissent de fortes discriminations à l'embauche. Leur faible taux d'emploi tient aussi à ces refus, pas seulement à leur entourage."
+    }
+  ],
+  "questions": [
+    "As-tu déjà demandé à une femme voilée pourquoi elle le porte ?",
+    "Si une femme est vraiment forcée par son mari, qu'est-ce qui l'aide le plus : l'exclure de l'école et du travail, ou lui garantir un emploi et une protection ?"
+  ],
+  "limites": [
+    "Les motivations reposent sur des déclarations ; une pression intériorisée est difficile à mesurer.",
+    "La page de l'Insee en français ne s'est pas ouverte : l'encadré « Qui porte le voile ? » a été lu dans sa version anglaise officielle.",
+    "Le document de Warwick est un document de travail non encore publié dans une revue, fondé sur des données de 2008 ; l'enquête de l'Institut Montaigne de 2016 n'est connue qu'à travers lui (sa page n'a pas pu être ouverte).",
+    "Les pourcentages détaillés du sondage Ifop viennent du compte rendu de Mediapart ; l'échantillon de femmes voilées est très petit et le sondage contesté.",
+    "L'étude Open Society date de 2011, porte sur 32 femmes et sur le voile intégral uniquement.",
+    "Les études qualitatives de l'Ined et des articles HAL n'ont pas pu être ouverts (accès bloqué)."
+  ],
+  "sources": [
+    {
+      "titre": "Religious diversity in France: intergenerational transmissions and practices by origins — Insert 2 « Who wears the veil? » (Insee Références, Immigrés et descendants d'immigrés, édition 2023)",
+      "organisme": "Lucas Drouhot, Patrick Simon (Ined) et Vincent Tiberj, Insee (enquête Trajectoires et Origines 2, Ined-Insee)",
+      "date_publication": "11 avril 2023",
+      "url": "https://www.insee.fr/en/statistiques/fichier/7342918/IMMFRA23-D2-en.pdf",
+      "passage": "En 2019-2020, 26 % des femmes musulmanes de 18 à 49 ans déclarent porter le voile (18 % en 2008-2009) ; neuf sur dix d'entre elles le portent toujours. 36 % des immigrées musulmanes et 17 % des descendantes d'immigrés. Le port est plus fréquent chez les inactives (56 % des immigrées, 39 % des descendantes) et varie de 13 % chez les cadres et professions intermédiaires à 38 % chez les ouvrières. Parmi les immigrées d'origine maghrébine, 42 % de celles qui vivent en couple portent le voile contre 24 % de celles qui vivent seules. Le document ne mesure pas les motivations.",
+      "pertinence": "Statistique publique, enquête de référence sur les populations immigrées et leurs descendants.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Veiling and the Economic Integration of Muslim Women in France (Working Paper n° 1618)",
+      "organisme": "A. Jacquet et S. Montpetit, université de Warwick",
+      "date_publication": "juillet 2026",
+      "url": "https://warwick.ac.uk/fac/soc/economics/research/workingpapers/2026/twerp_1618-montpetit.pdf",
+      "passage": "À partir de l'enquête TeO de 2008 (3 032 femmes musulmanes), la religiosité individuelle est le premier facteur associé au port du voile ; les résultats sont « consistent with » le fait que le voile soit « an individual choice rather than a behavior mostly adopted under communitarian pressures ». Les données ne mesurent pas la religiosité du conjoint : les auteurs ne peuvent pas exclure que le port du voile dépende en partie des préférences du mari. Une enquête citée (Institut Montaigne, 2016) indique que 76 % des musulmanes voilées invoquent un devoir religieux et 35 % la sécurité. Les femmes qui portent un voile visible ont un taux d'emploi de 27 % contre 54 % ; des études citées montrent une forte pénalité à l'embauche pour les candidates voilées, jusqu'à 80 % de rappels en moins pour l'apprentissage. Analyse descriptive, non causale.",
+      "pertinence": "Document de travail universitaire (non encore publié dans une revue).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "État des lieux du rapport à l'islam et à l'islamisme des musulmans de France — volet 1",
+      "organisme": "Ifop pour la revue Écran de veille",
+      "date_publication": "novembre 2025 (terrain du 8 août au 2 septembre 2025)",
+      "url": "https://www.ifop.com/wp-content/uploads/2025/11/info-1.pdf",
+      "passage": "1 005 personnes musulmanes interrogées par téléphone. Parmi 481 musulmanes : 19 % portent toujours le voile, 5 % sauf au travail ou en études, 7 % rarement, 11 % l'ont porté autrefois, 58 % ne l'ont jamais porté. Motifs proposés aux femmes voilées : respecter une obligation religieuse, ne pas attirer le regard des hommes, se sentir en sécurité, montrer son appartenance, ne pas être perçue comme impudique, faire comme des proches, ou « sous pression de proches (ex : famille, voisin, conjoint…) ». L'Ifop conclut que le voile est « avant tout le fruit d'une injonction religieuse » et que « 59% des musulmanes voilées le font pour faire face aux risques ou aux pressions pesant sur les femmes ».",
+      "pertinence": "Sondage d'un institut privé commandé par une revue ; méthodologie contestée.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Les failles d'un sondage choc",
+      "organisme": "Marie Turcan, Mediapart, repris par Europe Solidaire Sans Frontières (fichier hébergé par l’Université populaire de Toulouse)",
+      "date_publication": "20 novembre 2025",
+      "url": "https://universitepopulairetoulouse.fr/IMG/pdf/essf_les_failles_d_un_sondage_choc.pdf",
+      "passage": "Le sondage Ifop est « commandé et payé » par la revue Écran de veille. Sur le voile, l'échantillon se réduit à 149 femmes voilées : 2 % disent le porter « sous pression des proches », 42 % « pour se sentir en sécurité », 15 % pour ne pas être perçues comme impudiques. Le rapport précise que « les résultats détaillés de cette question doivent être interprétés avec prudence ». Le politiste Vincent Tiberj juge que « ces additions donnent quand même des trucs très bizarres » ; on range dans une même catégorie des femmes contraintes et des femmes qui choisissent.",
+      "pertinence": "Enquête d'un média d'investigation sur la méthodologie d'un sondage.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Un voile sur les réalités — 32 femmes témoignent sur le port du voile intégral en France (principales conclusions)",
+      "organisme": "Open Society Foundations (At Home in Europe)",
+      "date_publication": "avril 2011 (date déduite du contenu)",
+      "url": "https://www.opensocietyfoundations.org/sites/default/files/b-unveiling-the-truth-keyfinds-fr-20100411_0.pdf",
+      "passage": "Entretiens avec 32 femmes portant le voile intégral, en Île-de-France et en province ; les auteurs reconnaissent que l'échantillon est petit et pas forcément représentatif. Aucune n'a été forcée ; le choix est « le résultat d'un choix personnel » dans la grande majorité des cas. 30 des 32 étaient les premières de leur famille à le porter ; les mères de 20 d'entre elles y étaient d'abord opposées. Sur 21 femmes mariées, un seul mari, un imam, a encouragé son épouse ; six maris soutenaient la décision, quatre s'y opposaient.",
+      "pertinence": "Étude qualitative d'une fondation ; porte sur le voile intégral, très minoritaire.",
+      "type": "etude",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelles exploitations de l'enquête Trajectoires et Origines et études sur les motivations.",
+  "objections_legitimes": [
+    "Des pressions familiales ou sociales existent bel et bien pour certaines femmes, et elles doivent pouvoir être protégées.",
+    "Le voile est plus fréquent chez les femmes en couple, ce qui pose des questions.",
+    "Les déclarations recueillies dans les enquêtes ne mesurent pas toujours une pression intériorisée."
+  ],
+  "publics": {
+    "convaincus": "Si le voile était imposé par les maris, comment expliquer que trois musulmanes sur quatre ne le portent pas, et que les filles d'immigrés nées en France le portent deux fois moins que les immigrées ? Même le sondage Ifop de 2025, commandé par la revue Écran de veille et très contesté, ne trouve que 2 % de femmes voilées citant la pression de proches. Les cas de contrainte existent et doivent être combattus, mais tu ne protèges personne en accusant toutes les autres.",
+    "indecis": "Ta question sur la liberté des femmes est légitime. Les enquêtes montrent qu'une minorité de musulmanes porte le voile, et surtout par conviction religieuse, même si des pressions existent pour certaines. Le repère le plus sûr est de protéger celles qui sont contraintes sans retirer aux autres le droit d'étudier et de travailler."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "emancipation",
+      "antiracisme",
+      "libertes"
+    ],
+    "mecanismes": "Le soupçon de soumission généralisée transforme une pratique religieuse minoritaire en preuve d’oppression, et permet de parler des femmes musulmanes sans jamais les écouter. Il sert ensuite à justifier leur exclusion de l’école, du sport ou de l’emploi.",
+    "consequences": "Les femmes voilées subissent de fortes discriminations à l’embauche, ce qui les rend plus dépendantes ; celles qui sont réellement contraintes ne sont pas mieux protégées par une stigmatisation de toutes.",
+    "democratie": "L’émancipation ne se décrète pas contre les femmes : elle passe par leur liberté de choisir, leur accès aux droits et la protection contre toutes les violences.",
+    "propositions": [
+      "Combattre les discriminations à l’embauche visant les femmes musulmanes.",
+      "Garantir aux femmes qui subissent des pressions familiales un accès réel à des lieux d’écoute, à l’hébergement et à l’autonomie financière.",
+      "Associer les femmes concernées aux débats publics qui portent sur elles."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des pressions familiales existent pour certaines femmes, le voile est plus fréquent chez les femmes en couple, et les études ne peuvent pas exclure l’influence du conjoint.",
+        "integration": "Combattre ces contraintes fait partie du féminisme ; c’est une raison de protéger celles qui les subissent, pas de soupçonner toutes les autres."
+      }
+    ]
+  },
+  "concepts": [
+    "voile_soumission",
+    "islam",
+    "femmes",
+    "feminisme"
+  ],
+  "repond_a": [
+    {
+      "id": "voile_soumission_q1215",
+      "label": "Voile et soumission"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "sexisme",
+    "patriarcat",
+    "egalite salariale",
+    "violences faites aux femmes"
+  ]
+}

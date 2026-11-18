@@ -192,9 +192,6 @@
       }
     ]
   },
-  "concepts": [
-    "medias"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -205,5 +202,8 @@
     "nous cachent",
     "on nous cache",
     "propagande"
+  ],
+  "concepts": [
+    "medias"
   ]
 }

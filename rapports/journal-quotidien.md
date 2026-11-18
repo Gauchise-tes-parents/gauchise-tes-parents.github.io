@@ -1577,3 +1577,132 @@ Les phrases témoins suivantes gardent leur fiche :
 **Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique, comme aux passages précédents. Aucun chiffre n'a été relevé. `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
 
 **Vérifications.** `npm test` : 477 tests, 477 réussis, après la correction ci-dessus. Tests de bout en bout : 38 tests, 38 réussis.
+
+## 18 novembre 2026 — passage de 12 h 15 (UTC)
+
+**Questions testées : 25 nouvelles, retenues sur 66 essayées.** Les autres phrases essayées ont été écartées avant rédaction parce qu'une fiche existante y répondait déjà (ou une fiche voisine qu'il suffira de mieux rattacher), ou parce qu'elles étaient moins centrales dans les discours d'extrême droite. Exemples :
+- « Les étrangers touchent le RSA dès leur arrivée » et « Les aides sociales créent un appel d'air » (`immigres-aides`) ;
+- « Seulement 10 % des OQTF sont exécutées » (`expulser-tous-etrangers-condamnes`) ;
+- « Les mairies financent des mosquées avec nos impôts » (`mosquees-financement-etranger`) ;
+- « Le RN veut exonérer les hausses de salaires de 10 % » (`rn-salaires-votes`) ;
+- « Le SMIC à 1 600 euros va tuer les petites entreprises » (`smic-detruit-emplois`) ;
+- « Le réchauffement vient du soleil » (`rechauffement-origine-humaine`) ;
+- « Les associations antiracistes vivent de subventions » (proche de `rn-subventions-associations`) ;
+- « Les Arabes ont pratiqué l'esclavage plus longtemps que les Européens » (`esclavage-traite-responsabilite`, rattachement à revoir) ;
+- « Il y a dix millions de musulmans en France » (`musulmans-majoritaires-france`, rattachement à revoir) ;
+- « La gauche a défendu la pédophilie dans les années 70 » (toujours reporté : sources primaires difficiles à lire en ligne) ;
+- « Les jeux vidéo rendent violent », « La gauche veut interdire les jets privés », « Le franc CFA profite à l'Afrique », « Les prières de rue envahissent nos villes » (moins centraux ou données trop minces).
+
+Les 25 questions testées :
+1. Le Sénat ne sert à rien, il faut le supprimer.
+2. On n'a jamais essayé le RN, il faut leur laisser une chance.
+3. Macron, c'est la gauche au pouvoir.
+4. Les candidats RN qui tiennent des propos racistes sont des cas isolés.
+5. LFI veut donner le droit de vote dès 16 ans.
+6. Les retraités paient trop de CSG, on les matraque.
+7. Le RN veut baisser la TVA sur cent produits de première nécessité.
+8. Les APL font monter les loyers.
+9. La cantine gratuite pour tous coûterait une fortune.
+10. Les urgences débordent à cause des étrangers.
+11. Avec le nucléaire, la France est indépendante en énergie.
+12. Les vaccins contre le Covid rendent les femmes stériles.
+13. L'Europe nous impose les OGM.
+14. La chloroquine soignait le Covid mais on l'a interdite.
+15. Le Covid n'était pas plus grave qu'une grippe.
+16. Les mariages blancs explosent pour obtenir des papiers.
+17. Les pompiers se font caillasser dans les banlieues.
+18. Il faut une présomption de légitime défense pour les policiers.
+19. Les cambriolages explosent en France.
+20. Les écolos veulent interdire les barbecues.
+21. LFI a refusé de qualifier le Hamas d'organisation terroriste.
+22. France Inter est une radio de gauche payée par nos impôts.
+23. L'antisionisme, c'est de l'antisémitisme.
+24. Les femmes voilées sont toutes soumises à leur mari.
+25. LFI soutient les émeutiers.
+
+Avant ce passage, 7 menaient à une « LACUNE » et 18 à une fiche hors sujet (par exemple `melenchon-crie` pour le Hamas, les émeutes et le vote à 16 ans, `legitime-defense-domicile` pour la présomption de légitime défense des policiers et les cambriolages, `egalite-salariale` pour le voile, `gauche-augmenter-impots` pour France Inter, `rsa-smic` pour les APL).
+
+**Fiches créées : 25.**
+- Générateur : `scripts/fiches/quotidien_20261118_1215.py`.
+- Chaque fiche a le champ `publics` et une entrée dans `scripts/lectures-gauche.js`.
+- Les sources ont été ouvertes et lues le 18 novembre 2026 par cinq agents de recherche, avec un outil de lecture qui résume : les citations entre « » sont courtes et à revérifier mot pour mot. Chaque lot a été validé avant assemblage (règles de l'application, champ `publics`, lectures sans chiffre).
+
+Trois premières sources de chacune :
+- `senat-inutile-supprimer` (trompeur, 9 sources) : Légifrance (service public de la diffusion du droit) (4 octobre 1958 (version en vigueur au 23 juillet 2017)) ; Sénat (2026) ; Public Sénat (26 juin 2019 (mis à jour le 12 juillet 2019)).
+- `rn-jamais-essaye` (contredit, 7 sources) : Larousse, Journal de l’année (édition 1998) (1998) ; Assemblée nationale (question de Martine David, réponse de Jean-Pierre Chevènement, ministre de l’Intérieur) (5 février 1998) ; Alexis Gibellini, La Grande Conversation (Terra Nova) (18 mars 2026).
+- `macron-president-de-gauche` (trompeur, 8 sources) : Paul Dutronc-Postel, Brice Fabre, Chloé Lallemand, Nolwenn Loisel, Lukas Puschnig — Institut des politiques publiques (mars 2022) ; France Stratégie (service du Premier ministre) (9 octobre 2023) ; Public Sénat (19 novembre 2017).
+- `rn-candidats-racistes-cas-isoles` (trompeur, 5 sources) : Raphaël Marchal, LCP (La Chaîne parlementaire) (4 juillet 2024 (mis à jour le 5 juillet 2024)) ; AFP, publié par The Times of Israel (édition française) (9 juillet 2024) ; Maxence Kagni, LCP (La Chaîne parlementaire) (4 novembre 2022 (mis à jour le 25 juillet 2023)).
+- `lfi-vote-16-ans` (confirmé, 6 sources) : Assemblée nationale — M. Lachaud et les députés du groupe La France insoumise (25 mars 2026) ; Emma Bador-Fritche, Public Sénat (16 octobre 2026) ; Assemblée nationale — Céline Hervieu, Arthur Delaporte, Emmanuel Grégoire et huit autres députés (28 octobre 2025).
+- `retraites-csg-matraquage` (trompeur, 6 sources) : Direction de la sécurité sociale (ministère chargé de la Sécurité sociale), lettre publiée par l’Assurance retraite (11 décembre 2025) ; Assemblée nationale (XVe législature) (question publiée le 5 février 2019, réponse publiée le 11 mai 2021) ; Valentin Bontemps, Public Sénat (20 septembre 2018).
+- `rn-tva-zero-cent-produits` (plutôt exact, 4 sources) : Institut Montaigne (chiffrage des programmes) (juin 2024 (date de publication non affichée sur la page)) ; Romain David, Public Sénat (27 juin 2024) ; Assemblée nationale, proposition déposée par Caroline Parmentier et sept autres députés du Rassemblement national (24 juin 2025).
+- `apl-font-monter-loyers` (plutôt exact, fiabilité « estimation », 5 sources) : Gabrielle Fack — Économie et Statistique n° 381-382 (Insee) (2005) ; Céline Grislain-Letrémy et Corentin Trevien, Insee (14 novembre 2014) ; Céline Grislain-Letrémy et Corentin Trevien, Banque de France (30 janvier 2023).
+- `cantine-gratuite-cout` (opinion, 6 sources) : Sénat (question publiée le 13 novembre 2025, réponse publiée le 22 janvier 2026) ; Virginie Fauvel avec l’AFP, Localtis (Banque des Territoires), compte rendu du rapport public annuel 2020 de la Cour des comptes (25 février 2020) ; Ipsos, étude réalisée pour l’administration (publiée par le ministère des Solidarités) (mai 2021).
+- `urgences-debordent-etrangers` (contredit, 6 sources) : Vie publique (Direction de l’information légale et administrative), à propos du rapport de la Cour des comptes du 19 novembre 2024 (25 novembre 2024) ; La rédaction d’Infirmiers.com, compte rendu d’une étude de la DREES du 31 octobre 2024 (31 octobre 2024) ; Sénat (question publiée le 3 octobre 2024, réponse publiée le 29 mai 2025).
+- `nucleaire-independance-energetique` (trompeur, 6 sources) : SDES (service statistique du ministère de la Transition écologique) (septembre 2026) ; SDES (service statistique du ministère de la Transition écologique) (4 mars 2026) ; Connaissance des Énergies (4 juin 2012, mis à jour le 5 juin 2024).
+- `vaccins-covid-sterilite-femmes` (contredit, 5 sources) : Allo Docteurs (France Télévisions), d’après une vérification de l’AFP (16 décembre 2020) ; Boston University School of Public Health — communiqué (EurekAlert!) sur une étude publiée dans l’American Journal of Epidemiology (24 janvier 2022) ; Université de Linköping (Suède) — communiqué sur une étude publiée dans Communications Medicine (5 février 2026).
+- `europe-impose-ogm` (trompeur, 6 sources) : Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt (communiqué de Stéphane Le Foll) (15 avril 2016) ; AFP, dépêche reprise par Terre-net (6 janvier 2021) ; Commission européenne (réponse transmise au Parlement européen) (2026 (résolution du 11 février 2026, décision du 10 mars 2026)).
+- `chloroquine-covid-interdite` (contredit, 8 sources) : RECOVERY Collaborative Group — The New England Journal of Medicine (texte sur PubMed Central) (8 octobre 2020) ; Université de Bristol — communiqué sur les résultats de l’essai Solidarity de l’OMS (4 décembre 2020) ; Kerry Cullinan, Health Policy Watch (9 janvier 2025).
+- `covid-pas-plus-grave-que-grippe` (contredit, 6 sources) : DREES, Inserm-CépiDc et Santé publique France (14 décembre 2022) ; Nathalie Blanpain, Insee (Insee Première n° 1951) (6 juin 2023) ; Santé publique France (Bulletin épidémiologique hebdomadaire, 2025, n° 17), Sibylle Bernard-Stoecklin et al. (14 octobre 2025).
+- `mariages-blancs-papiers` (trompeur, 5 sources) : Assemblée nationale, commission des lois — rapporteur Éric Michoux (16 juin 2025) ; Sénat, commission des lois (2006) ; Insee — Vanessa Bellamy (mars 2017).
+- `pompiers-caillasses-banlieues` (trompeur, 6 sources) : Observatoire national de la délinquance et des réponses pénales (ONDRP) — Aurélien Langlade (décembre 2018) ; Public Sénat (11 décembre 2019) ; Frédéric Fortin, Localtis (Banque des Territoires) (12 décembre 2019).
+- `presomption-legitime-defense-policiers` (opinion, fiabilité « debat », 6 sources) : Sénat, commission des lois — rapporteure Lauriane Josende (10 novembre 2026) ; LCP (La Chaîne parlementaire) (7 juillet 2026) ; Maire info (7 juillet 2026).
+- `cambriolages-explosent` (contredit, 5 sources) : SSMSI (service statistique ministériel de la sécurité intérieure) (mars 2022) ; SSMSI (janvier 2024) ; SSMSI et Insee (16 mai 2023).
+- `ecolos-interdire-barbecue` (trompeur, 6 sources) : AFP, publié par CBS News (30 août 2022) ; AFP, publié par L’info durable (31 août 2022) ; Hannah Thompson, Connexion France (2 septembre 2022).
+- `lfi-hamas-terroriste` (plutôt exact, 8 sources) : François Vignal, Public Sénat (9 octobre 2023 (mis à jour le 10 octobre 2023)) ; AFP, repris par The Times of Israel (édition française) (10 octobre 2023) ; Sud Radio (17 octobre 2023).
+- `france-inter-gauche-impots` (opinion, fiabilité « debat », 7 sources) : LCP Assemblée nationale (20 novembre 2024) ; Conseil d'État (4 juillet 2025) ; Institut CSA (avril 2026).
+- `antisionisme-antisemitisme` (opinion, fiabilité « debat », 7 sources) : Assemblée nationale (XVe législature) (3 décembre 2019) ; The Times of Israel (édition française) (3 décembre 2019) ; Maya Hertig Randall et Catherine Imbeck, faculté de droit de l'université de Genève, pour le Service de lutte contre le racisme de la Confédération suisse (6 novembre 2020).
+- `femmes-voilees-soumises` (contredit, 5 sources) : Lucas Drouhot, Patrick Simon (Ined) et Vincent Tiberj, Insee (enquête Trajectoires et Origines 2, Ined-Insee) (11 avril 2023) ; A. Jacquet et S. Montpetit, université de Warwick (juillet 2026) ; Ifop pour la revue Écran de veille (novembre 2025 (terrain du 8 août au 2 septembre 2025)).
+- `lfi-soutien-emeutiers` (trompeur, 6 sources) : Assemblée nationale (Mathilde Panot, LFI-Nupes ; réponse d’Élisabeth Borne) (séance du 4 juillet 2023 (publiée au Journal officiel le 5 juillet 2023)) ; Europe 1 (4 juillet 2023) ; Ifop, département Opinion et stratégies d’entreprise (Jérôme Fourquet) (juillet 2023).
+
+**Points fragiles signalés dans les limites des fiches :**
+- **Documents lus à travers un résumé ou un compte rendu :**
+  - rapport de la Cour des comptes et étude de la DREES sur les urgences (Vie publique, Infirmiers.com) ;
+  - rapport de la Cour des comptes de 2025 sur les aides au logement (Localtis) ;
+  - études de Boston et de Linköping sur la fertilité (communiqués) ; résultats de l'essai Solidarity (communiqué de l'université de Bristol) ;
+  - rapport du Sénat sur les agressions de sapeurs-pompiers (presse) ; avis du Défenseur des droits sur la présomption de légitime défense (Maire info, Club des juristes) ;
+  - rapport de l'Arcom et mise en demeure de Radio France (presse) ;
+  - études du Conseil des prélèvements obligatoires sur la TVA (Institut Montaigne) ;
+  - programme présidentiel 2022 du RN (exposé des motifs d'une proposition de loi RN et Institut Montaigne) ; programme de LFI (amendement déposé et Public Sénat : les sites de LFI n'ont pas pu être ouverts).
+- **Données anciennes :** études sur les APL (1973-2016) ; enquête Cnesco sur la cantine (2017) ; signalements de mariages de complaisance (2004) ; agressions de pompiers (série ONDRP jusqu'en 2017) ; arrêtés préfectoraux sur les feux (2013-2014) ; étude qualitative sur le voile intégral (2011) ; collège électoral sénatorial (données 2011).
+- **Sources à manier avec prudence :**
+  - le seul rapport récent sur les mariages de complaisance est celui d'un député du groupe UDR, allié du RN (Assemblée nationale, 2025) : il n'est utilisé que pour ce qu'il reconnaît (un phénomène « mal connu », faute de données) ;
+  - le sondage Ifop pour la revue Écran de veille sur le voile est contesté et son échantillon de femmes voilées est petit (149) ; le document de travail de Warwick n'est pas encore publié ;
+  - les résultats de la CNCDH par proximité partisane reposent sur de petits sous-groupes ; la fiche sur les candidats RN signale aussi deux faits défavorables (centre droit moins tolérant que le RN ; préjugés antisémites au même niveau chez les sympathisants LFI et RN) ;
+  - Inf'OGM (association critique) et Que Choisir pour les positions des groupes au Parlement européen sur les nouvelles techniques génomiques ;
+  - les programmes et textes de LFI et du RN sont cités comme sources partisanes, attribuées.
+
+**Pages non ouvertes, donc non citées :** vie-publique.fr (JavaScript requis, plusieurs pages) ; sites de LFI (melenchon.fr, melenchon2027.fr, programme.lafranceinsoumise.fr) ; Légifrance pour l'article L435-1 du code de la sécurité intérieure et bilan 2025 du SSMSI (permission non accordée à temps) ; fiches de la DREES sur le niveau de vie des retraités ; Interstats et pages du ministère de l'Intérieur (erreur du site) ; Observatoire des violences envers les sapeurs-pompiers (accès refusé) ; avis de rétractation sur PubMed (page vide) ; pages DGCCRF, Europe 1, Slate, i24news, Universalis, HAL, Ined (erreurs ou robots).
+
+**Reconnaissance des questions.** Après génération, 8 questions menaient déjà à leur fiche. `public/js/cartographie.js` reçoit :
+- **25 concepts** : `senat_suppr`, `rn_essayer`, `macron_gauche`, `rn_brebis`, `vote_16`, `csg_retraites`, `tva_zero`, `apl_loyers`, `cantine_gratuite`, `urgences_etrangers`, `nucleaire_indep`, `vaccin_sterilite`, `ogm`, `chloroquine`, `covid_grippe`, `mariages_blancs`, `pompiers_agresses`, `presomption_ld`, `cambriolages`, `barbecue`, `hamas_lfi`, `france_inter`, `antisionisme`, `voile_soumission`, `emeutes_lfi` ;
+- **leurs domaines** ;
+- **des arguments placés en tête** : un par concept, plus des variantes avec les concepts voisins qui se déclenchent sur les mêmes phrases (`fiscalite`, `tva_energie`, `gauche`).
+- Le concept `hamas_lfi` exige un lien avec LFI, la gauche ou le terrorisme : sans cela, « Reconnaître l'État de Palestine, c'est récompenser le Hamas » et « L'UNRWA finance le Hamas » étaient détournées de leur fiche.
+
+Comparaison avant/après sur 551 phrases de contrôle (affirmations de la bibliothèque et questions citées dans ce journal) : 20 phrases changent de fiche, toutes vers la nouvelle fiche qui leur répond (dont « LFI soutient le Hamas », « LFI refuse de dire que le Hamas est terroriste » et « Le Sénat ne sert à rien, LFI veut le supprimer », qui menaient à `melenchon-crie`) ; aucune autre phrase ne change.
+
+Variantes familières vérifiées (toutes mènent à la bonne fiche) :
+- « Laissons sa chance à Bardella, on n'a jamais essayé » ;
+- « Macron est un socialiste » ;
+- « Les dérapages des candidats du RN, ce sont quelques brebis galeuses » ;
+- « Les APL, ça finit dans la poche des propriétaires » ;
+- « Les sans-papiers encombrent les urgences » ;
+- « Le vaccin Pfizer provoque des fausses couches » ;
+- « Raoult avait raison sur l'hydroxychloroquine » ;
+- « Le Covid, c'était une grippette » ;
+- « Les policiers devraient bénéficier de la légitime défense automatique » ;
+- « Radio France, c'est des gauchistes » ;
+- « Le voile est imposé par les maris » ;
+- « Mélenchon refuse d'appeler au calme pendant les émeutes ».
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`), volontairement laissées sans.
+
+**Questions écartées pour sources invérifiables : aucune.**
+
+**Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique, comme aux passages précédents. Aucun chiffre n'a été relevé. `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
+
+**Corrections après un premier `npm test`.**
+- La fiche sur le voile citait un sondage contesté sans formule d'attribution reconnue par le test de ligne éditoriale : le fait commence désormais par « Selon un sondage Ifop pour la revue Écran de veille, contesté, … ».
+- La question témoin « Les chômeurs profitent du système » menait à la fiche sur les APL à cause du mot-clé « apl proprietaires profitent » : il devient « apl poche des proprietaires ». La question témoin mène de nouveau à `chomeurs-travailler`, et « Les APL, ça finit dans la poche des propriétaires » mène toujours à la fiche sur les APL.
+
+**Vérifications.** `npm test` : 477 tests, 477 réussis, après les corrections ci-dessus. Tests de bout en bout : 38 tests, 38 réussis.

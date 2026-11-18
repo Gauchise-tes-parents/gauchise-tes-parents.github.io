@@ -1,0 +1,240 @@
+{
+  "id": "nucleaire-independance-energetique",
+  "type": "idee_recue",
+  "affirmation": "Avec le nucléaire, la France est indépendante en énergie.",
+  "volet": "ecologie",
+  "sous_theme": "Nucléaire",
+  "rubriques": [],
+  "mots_cles": [
+    "independance energetique nucleaire",
+    "france independante energie",
+    "uranium importe",
+    "uranium niger",
+    "uranium kazakhstan",
+    "uranium russie",
+    "souverainete energetique",
+    "taux d independance energetique"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le taux officiel d'indépendance énergétique atteint 61 % en 2024 selon le service statistique de l'État, mais c'est une convention : la chaleur des réacteurs est comptée comme production nationale alors que tout l'uranium est importé (Kazakhstan, Niger, Australie, Ouzbékistan, Namibie). Surtout, le pétrole et le gaz, presque entièrement importés, couvrent encore plus de la moitié de la consommation finale d'énergie. Le nucléaire rend la France largement autonome pour son électricité, pas pour son énergie.",
+  "contexte": "L'argument revient dans chaque débat sur l'énergie, la guerre en Ukraine ou les prix du carburant : grâce à ses centrales, la France serait à l'abri des pays fournisseurs. Il mélange l'électricité, qui n'est qu'une partie de l'énergie consommée, et l'énergie dans son ensemble.",
+  "explication": "Il faut distinguer l'électricité de l'énergie totale (carburants, chauffage au gaz, industrie), regarder comment est calculé le taux officiel d'indépendance et d'où vient le combustible des centrales.",
+  "faits": [
+    {
+      "fait": "Selon le service statistique du ministère de la Transition écologique, « le taux d'indépendance énergétique de la France s'établit à 61,0 % en 2024 ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "C'est le chiffre officiel ; il reste loin de 100 %, même avec le nucléaire.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "61 %"
+    },
+    {
+      "fait": "Selon le site Connaissance des Énergies, ce taux compte par convention l'électricité nucléaire comme une énergie primaire nationale, sans tenir compte du fait que le combustible est entièrement importé.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "L'indicateur officiel surestime l'indépendance réelle : il traite les centrales comme si l'uranium était extrait en France.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Site du débat public, « La France ne produisant pas d'uranium naturel, celui-ci doit être intégralement importé » ; ses principaux fournisseurs en 2022 étaient le Niger, le Kazakhstan, l'Australie et l'Ouzbékistan.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Le combustible des centrales dépend de pays étrangers, dont plusieurs régimes autoritaires.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le site Connaissance des Énergies, le Kazakhstan, la Namibie, le Niger et l'Australie représentaient 98 % des importations françaises d'uranium naturel en valeur en 2023, pour des besoins de l'ordre de 6 000 à 8 000 tonnes par an.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La dépendance a changé de fournisseurs, elle n'a pas disparu.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "98 %"
+    },
+    {
+      "fait": "En 2025, le pétrole représente 38 % et le gaz naturel 18 % de la consommation finale d'énergie, et « la France importe désormais la quasi-totalité des énergies fossiles qu'elle consomme ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les transports, une grande partie du chauffage et de l'industrie dépendent encore du pétrole et du gaz importés : le nucléaire n'y change rien.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "La facture énergétique pèse encore 46 milliards d'euros dans le déficit commercial de la France en 2025.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Un pays indépendant en énergie n'aurait pas une telle facture d'importations.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "46 Md€"
+    },
+    {
+      "fait": "Selon Site du débat public, la conversion et l'enrichissement de l'uranium de retraitement sont réalisés en Russie par Rosatom, ce qui rend la France « dépendante de la Russie en ce qui concerne la filière URE ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Même la filière de recyclage du combustible passe par la Russie.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon Orano, cité par l'AFP, les stocks d'uranium naturel couvrent environ deux ans de production nucléaire et ceux d'uranium appauvri sept à huit ans, et l'uranium ne pèse qu'environ 5 % du coût de production de l'électricité nucléaire.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le nucléaire rend bien l'électricité moins vulnérable aux coupures et aux variations de prix qu'avec le gaz ou le pétrole ; c'est un vrai atout, mais ce n'est pas l'indépendance.",
+      "source": 5,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le taux officiel d'indépendance énergétique est de 61 % en 2024, et il compte le nucléaire comme français alors que tout l'uranium est importé. Le pétrole et le gaz, importés presque en totalité, pèsent encore plus de la moitié de notre consommation finale. Le nucléaire protège l'électricité, pas l'énergie.",
+    "moyen": "Le nucléaire fournit l'essentiel de notre électricité, mais l'électricité n'est qu'une partie de l'énergie consommée. En 2025, le pétrole représente 38 % et le gaz 18 % de la consommation finale, et la France les importe presque en totalité : carburants, chaudières au gaz, industrie. La facture énergétique pèse encore 46 milliards d'euros dans le déficit commercial.\n\nQuant au taux officiel d'indépendance, 61 % en 2024, il repose sur une convention : la chaleur des réacteurs est comptée comme une production nationale, alors que l'uranium est entièrement importé, surtout du Kazakhstan, du Niger, de l'Australie, de l'Ouzbékistan et de la Namibie. Les stocks d'uranium et la diversité des fournisseurs donnent une vraie marge de sécurité, mais pas l'indépendance.",
+    "detaille": "Le service statistique de l'État calcule chaque année un taux d'indépendance énergétique : la production d'énergie primaire nationale divisée par la consommation. Il atteint 61 % en 2024, en hausse de 4,6 points sur un an. Mais ce calcul compte l'électricité nucléaire comme une énergie produite en France, alors que le combustible ne l'est pas. Depuis la fermeture des mines du Limousin, tout l'uranium est importé : de l'ordre de 6 000 à 8 000 tonnes par an, venues principalement du Kazakhstan, de la Namibie, du Niger et d'Australie, ainsi que de l'Ouzbékistan.\n\nLa dépendance ne s'arrête pas à la mine. La synthèse publiée sur le site du débat public rappelle que la conversion et l'enrichissement de l'uranium de retraitement se font en Russie, chez Rosatom, et qu'EDF prévoit d'utiliser davantage ce combustible recyclé d'ici 2030. En sens inverse, la France détient des stocks d'uranium équivalant à une dizaine d'années de consommation, et l'uranium ne pèse qu'environ 5 % du coût de l'électricité nucléaire : une rupture d'approvisionnement serait bien moins brutale qu'avec le gaz.\n\nLe point le plus important reste ailleurs. En 2025, le pétrole et le gaz couvrent encore plus de la moitié de la consommation finale d'énergie, et la France en importe la quasi-totalité. Tant que les voitures roulent à l'essence et que de nombreux logements et usines se chauffent au gaz, aucun parc de centrales ne rend le pays indépendant. L'indépendance passe par l'électrification des usages, la sobriété, l'efficacité et la production d'énergie sur le territoire.",
+    "empathie": "Vouloir que son pays ne dépende pas de régimes hostiles pour se chauffer ou se déplacer est une inquiétude légitime, surtout après la flambée des prix de 2022. Le nucléaire y contribue pour l'électricité ; il faut juste ne pas croire que le problème est réglé."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le taux officiel montre que la France est très indépendante.",
+      "reponse": "Il est de 61 % en 2024, donc loin de 100 %, et il compte l'électricité nucléaire comme française alors que tout l'uranium est importé."
+    },
+    {
+      "objection": "L'uranium vient de pays variés, ce n'est pas une vraie dépendance.",
+      "reponse": "La diversité réduit le risque, mais les principaux fournisseurs sont le Kazakhstan, le Niger et l'Ouzbékistan, et la filière de combustible recyclé passe par la Russie."
+    },
+    {
+      "objection": "On produit plus d'électricité qu'on n'en consomme, on exporte.",
+      "reponse": "C'est vrai pour l'électricité, mais le pétrole et le gaz, presque entièrement importés, couvrent plus de la moitié de la consommation finale d'énergie."
+    }
+  ],
+  "questions": [
+    "Avec quoi roulent la plupart des voitures et se chauffent beaucoup de logements en France ?",
+    "Si l'uranium venait à manquer, combien de temps tiendraient les stocks, et d'où viendrait le suivant ?"
+  ],
+  "limites": [
+    "Le taux d'indépendance publié pour 2025 n'a pas été trouvé dans les pages lues ; on cite 61 % pour 2024 et la part de la production nationale (63 %) pour 2025.",
+    "La définition et la convention de calcul sont tirées d'une page pédagogique (Connaissance des Énergies), pas du glossaire officiel.",
+    "La part exacte de chaque pays fournisseur d'uranium varie selon les années ; la dépendance russe décrite concerne la filière de l'uranium de retraitement, dont l'importance future dépend des choix d'EDF.",
+    "Les rapports de la Cour des comptes et du Sénat sur l'approvisionnement en uranium n'ont pas été ouverts."
+  ],
+  "sources": [
+    {
+      "titre": "Chiffres clés de l'énergie — Édition 2026",
+      "organisme": "SDES (service statistique du ministère de la Transition écologique)",
+      "date_publication": "septembre 2026",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-de-lenergie-edition-2026",
+      "passage": "« La production nationale primaire représente 63 % de l'approvisionnement en énergie du territoire en 2025 » ; le nucléaire représente 74 % de la production primaire et les énergies fossiles environ 1 %. Dans la consommation finale 2025 : pétrole 38 %, gaz naturel 18 %. « La France importe désormais la quasi-totalité des énergies fossiles qu'elle consomme », tout en étant exportatrice nette d'électricité. « La facture énergétique pèse pour 46 Md€ dans le déficit commercial de la France », en baisse de 21 %. « Le pétrole demeure toutefois prépondérant dans le secteur des transports. »",
+      "pertinence": "Statistique publique de référence sur l'énergie (données 2025 provisoires).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bilan énergétique de la France pour 2024",
+      "organisme": "SDES (service statistique du ministère de la Transition écologique)",
+      "date_publication": "4 mars 2026",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/bilan-energetique-de-la-france-pour-2024",
+      "passage": "« Le taux d'indépendance énergétique de la France s'établit à 61,0 % en 2024 », en hausse de 4,6 points sur un an ; il correspond au « ratio de la consommation et de la production primaires ». La facture énergétique s'élève à environ 58 milliards d'euros en 2024. Les énergies fossiles (pétrole et gaz) représentent 1 % de la production primaire.",
+      "pertinence": "Bilan officiel annuel de l'énergie en France.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Est-on sur la voie de l'indépendance énergétique en France ?",
+      "organisme": "Connaissance des Énergies",
+      "date_publication": "4 juin 2012, mis à jour le 5 juin 2024",
+      "url": "https://www.connaissancedesenergies.org/comment-est-calculee-l-independance-energetique-de-la-france-120604",
+      "passage": "Le taux d'indépendance énergétique rapporte « la production nationale d'énergie primaire d'un pays » à « sa consommation d'énergie primaire réelle ». Par convention, l'électricité nucléaire est comptée comme énergie primaire nationale, alors qu'environ deux tiers de l'énergie produite dans les réacteurs sont perdus sous forme de chaleur. Des observateurs reprochent à l'indicateur de ne pas tenir compte du fait que « 100% du combustible nucléaire est actuellement importé ».",
+      "pertinence": "Site d'information pédagogique sur l'énergie.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "D'où vient l'uranium naturel importé en France ?",
+      "organisme": "Connaissance des Énergies (d’après le Bilan énergétique de la France pour 2023)",
+      "date_publication": "12 mai 2014, mis à jour le 22 janvier 2026",
+      "url": "https://www.connaissancedesenergies.org/questions-et-reponses-energies/dou-vient-luranium-naturel-importe-en-france",
+      "passage": "La France a besoin « de l'ordre de 6 000 à 8 000 tonnes d'uranium naturel par an » pour ses réacteurs. Les importations proviennent « principalement du Kazakhstan, de la Namibie, du Niger et d'Australie », qui représentent « 98% des importations françaises d'uranium naturel en valeur en 2023 ». Des gisements ont été exploités dans le Limousin durant la deuxième moitié du XXe siècle.",
+      "pertinence": "Site d'information pédagogique sur l'énergie, reprenant le bilan officiel.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Origine de l'uranium et souveraineté énergétique (synthèse sur controverse technique)",
+      "organisme": "Site du débat public (debatpublic.fr, Commission nationale du débat public)",
+      "date_publication": "8 octobre 2024",
+      "url": "https://debatpublic.fr/sites/default/files/2024-10/Synthese-Uranium-et-souverainete-energetique.pdf",
+      "passage": "« La France ne produisant pas d'uranium naturel, celui-ci doit être intégralement importé. » « Les principaux pays fournisseurs de la France en 2022 sont le Niger, le Kazakhstan, l'Australie et l'Ouzbékistan », le Kazakhstan et l'Ouzbékistan représentant près de la moitié des importations de 2022. « La souveraineté énergétique ne signifie pas nécessairement l'indépendance énergétique. » La conversion et l'enrichissement de l'uranium de retraitement « sont réalisés par la société Rosatom, en Russie, dans son installation de Seversk » : la France « est aujourd'hui dépendante de la Russie en ce qui concerne la filière URE ». EDF prévoit qu'à l'horizon 2030 l'uranium de retraitement enrichi représentera « plus de 30% de l'uranium chargé dans les réacteurs ». « La France dispose sur son territoire d'un stock d'uranium représentant dix ans de consommation » (environ deux ans d'uranium naturel et sept à huit ans d'uranium appauvri).",
+      "pertinence": "Synthèse de controverse publiée dans le cadre du débat public, qui distingue consensus et désaccords.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Retrait d'un permis d'exploitation d'uranium au Niger : des conséquences limitées pour la filière nucléaire française",
+      "organisme": "AFP, dépêche reprise par Connaissance des Énergies",
+      "date_publication": "21 juin 2024",
+      "url": "https://www.connaissancedesenergies.org/afp/retrait-dun-permis-dexploitation-duranium-au-niger-des-consequences-limitees-pour-la-filiere-nucleaire-francaise-240621",
+      "passage": "De 2005 à 2020, le Niger a fourni 19 % de l'uranium naturel de la France, troisième fournisseur après le Kazakhstan et l'Australie, devant l'Ouzbékistan. La France a diversifié ses fournisseurs depuis les années 2000. Selon Orano, les stocks d'uranium naturel représentent environ deux ans de production d'électricité nucléaire, et les stocks d'uranium appauvri environ sept à huit ans. Selon la Sfen, l'uranium naturel représente environ 5 % du coût de production de l'électricité nucléaire.",
+      "pertinence": "Dépêche d'agence de presse.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Bilan énergétique 2025 définitif et taux d'indépendance correspondant ; évolution des approvisionnements en uranium.",
+  "objections_legitimes": [
+    "Le nucléaire rend l'électricité française beaucoup moins dépendante des importations de gaz que celle de nombreux voisins.",
+    "Les stocks d'uranium sur le territoire et la diversité des fournisseurs offrent plusieurs années de marge.",
+    "Le taux d'indépendance officiel a réellement progressé en 2024 avec le retour de la production nucléaire."
+  ],
+  "publics": {
+    "convaincus": "Le nucléaire est un atout pour l'électricité, personne ne le nie. Mais votre plein d'essence et beaucoup de chaudières au gaz viennent de l'étranger, et le pétrole et le gaz pèsent plus de la moitié de l'énergie que nous consommons. Et l'uranium lui-même vient du Kazakhstan, du Niger ou d'Ouzbékistan : pour être vraiment souverain, il faut sortir du pétrole, pas seulement garder les centrales.",
+    "indecis": "Le nucléaire protège réellement notre électricité, et des stocks d'uranium donnent plusieurs années de marge. Mais l'électricité n'est qu'une partie de l'énergie : le pétrole et le gaz, presque tous importés, restent majoritaires dans la consommation. Le chiffre officiel d'indépendance, 61 %, compte d'ailleurs l'uranium importé comme s'il était français."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "internationalisme",
+      "democratie"
+    ],
+    "mecanismes": "Une convention statistique qui compte l’uranium importé comme une production nationale, et la confusion entre électricité et énergie, entretiennent l’illusion d’un pays à l’abri. On évite ainsi de parler du pétrole et du gaz, qui restent majoritaires dans la consommation.",
+    "consequences": "Les ménages qui dépendent de la voiture et du chauffage au gaz, souvent modestes et périurbains, restent exposés aux flambées de prix, tandis que l’uranium vient de pays comme le Niger ou le Kazakhstan, où les populations profitent peu de leurs mines.",
+    "democratie": "Les choix énergétiques engagent le pays pour des décennies : ils doivent être débattus à partir de chiffres honnêtes, et non d’un slogan sur l’indépendance.",
+    "propositions": [
+      "Planifier publiquement la sortie du pétrole et du gaz par l’électrification des transports et du chauffage, la sobriété et la rénovation des logements.",
+      "Garder la maîtrise publique de la production d’électricité et des stocks stratégiques de combustible.",
+      "Exiger la transparence sur l’origine de l’uranium et mettre fin aux dépendances envers la Russie dans la filière du combustible."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France dispose de plusieurs années de stocks d’uranium, et l’uranium ne pèse qu’une faible part du coût de l’électricité nucléaire.",
+        "integration": "Reconnaître que le nucléaire protège réellement l’électricité, tout en rappelant que ce n’est pas l’indépendance énergétique tant que le pétrole et le gaz dominent."
+      }
+    ]
+  },
+  "concepts": [
+    "nucleaire_indep",
+    "europe",
+    "ecologie",
+    "russie"
+  ],
+  "repond_a": [
+    {
+      "id": "nucleaire_indep_q1215",
+      "label": "Nucléaire et indépendance énergétique"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "uranium",
+    "bruxelles",
+    "union europeenne",
+    "nucleaire",
+    "poutine",
+    "kremlin",
+    "moscou"
+  ]
+}

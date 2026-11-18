@@ -254,14 +254,6 @@
       }
     ]
   },
-  "concepts": [
-    "logement",
-    "melenchon_lfi",
-    "gauche",
-    "heritage",
-    "nfp_2024",
-    "propriete_privee"
-  ],
   "repond_a": [
     {
       "id": "propriete_privee_q0614",
@@ -294,5 +286,13 @@
     "lfi",
     "insoumis",
     "france insoumise"
+  ],
+  "concepts": [
+    "logement",
+    "melenchon_lfi",
+    "gauche",
+    "heritage",
+    "nfp_2024",
+    "propriete_privee"
   ]
 }

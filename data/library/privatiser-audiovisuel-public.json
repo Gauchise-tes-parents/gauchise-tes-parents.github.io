@@ -178,6 +178,8 @@
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
+    "france inter",
+    "radio france",
     "urgences",
     "merdias",
     "tele",
@@ -187,11 +189,10 @@
     "on nous cache",
     "propagande",
     "front national",
-    "fn",
-    "rn",
-    "rassemblement national"
+    "fn"
   ],
   "concepts": [
+    "france_inter",
     "services_publics",
     "medias",
     "fn_parti"

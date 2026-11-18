@@ -1,0 +1,227 @@
+{
+  "id": "cambriolages-explosent",
+  "type": "idee_recue",
+  "affirmation": "Les cambriolages explosent en France.",
+  "volet": "securite",
+  "sous_theme": "Sécurité du quotidien",
+  "rubriques": [],
+  "mots_cles": [
+    "cambriolages explosent",
+    "hausse des cambriolages",
+    "cambriolage maison",
+    "vols dans les logements",
+    "cambrioleurs partout",
+    "cambriolages en hausse",
+    "statistiques cambriolages",
+    "se faire cambrioler"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Sur quinze ans, la part des ménages victimes d'un cambriolage ou d'une tentative est restée globalement stable, autour de 1,3 à 2 % par an selon l'enquête de victimation. Les cambriolages enregistrés par la police et la gendarmerie ont chuté avec le covid, sont remontés en 2022 et 2023, mais restaient en 2023 sous leur niveau d'avant la crise sanitaire. Le risque reste plus élevé dans les zones urbaines denses.",
+  "contexte": "L'affirmation revient chaque été et lors de la publication des chiffres annuels de la délinquance, souvent illustrée par des faits divers ou des hausses ponctuelles dans une ville ou un département.",
+  "explication": "On compare deux mesures de la statistique publique : les cambriolages enregistrés par la police et la gendarmerie, qui dépendent des plaintes, et l'enquête de victimation, qui interroge directement les ménages, sur la plus longue période disponible.",
+  "faits": [
+    {
+      "fait": "Selon l'enquête Cadre de vie et sécurité, la part des ménages victimes d'un cambriolage ou d'une tentative sur leur résidence principale est restée comprise entre 1,3 % et 2,0 % par an de 2006 à 2018 : 1,6 % en 2006, 1,6 % en 2016, 2,0 % en 2017, 1,7 % en 2018.",
+      "periode": "2006-2018",
+      "perimetre": "France métropolitaine",
+      "explication": "Interrogés directement, les ménages ne décrivent aucune explosion sur douze ans.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,6 %"
+    },
+    {
+      "fait": "Selon l'Insee, le nombre de cambriolages et tentatives déclarés par les ménages était de 559 000 en 2012, 536 000 en 2015 et 507 000 en 2016.",
+      "periode": "2010-2016",
+      "perimetre": "France métropolitaine",
+      "explication": "Dans les années 2010, la tendance mesurée par enquête était plutôt à la baisse.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "507 000"
+    },
+    {
+      "fait": "Selon le SSMSI, les cambriolages de logements enregistrés ont évolué de -6 % en 2018, 0 % en 2019, -20 % en 2020, 0 % en 2021, +11 % en 2022 et +3 % en 2023, pour atteindre 217 600 en 2023, un niveau « inférieur à celui observé avant le début de la crise sanitaire ».",
+      "periode": "2018-2023",
+      "perimetre": "France",
+      "explication": "Même après le rebond post-covid, les cambriolages enregistrés restaient plus bas qu'en 2019.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "217 600"
+    },
+    {
+      "fait": "Fait défavorable : les cambriolages enregistrés ont augmenté de 11 % en 2022 puis de 3 % en 2023, et de 4 % sur les douze mois allant de juillet 2023 à juin 2024 (224 000 faits).",
+      "periode": "2022-2024",
+      "perimetre": "France",
+      "explication": "Il y a bien eu une hausse après le creux des confinements : c'est ce rebond qui nourrit l'impression d'explosion.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "+11 %"
+    },
+    {
+      "fait": "En 2022, le nombre de cambriolages n'avait retrouvé ou dépassé son niveau d'avant la crise sanitaire que dans une vingtaine de départements ; la moyenne nationale était de 5,8 cambriolages pour 1 000 logements.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La hausse locale existe, mais elle n'est pas générale.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "5,8 pour 1 000"
+    },
+    {
+      "fait": "À caractéristiques comparables, une zone urbaine dense compte 1,4 cambriolage de plus pour 1 000 logements par an qu'une commune périurbaine rurale.",
+      "periode": "2016-2022",
+      "perimetre": "France",
+      "explication": "Le risque dépend fortement du lieu : il est plus élevé dans les grandes agglomérations.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1,4 pour 1 000"
+    },
+    {
+      "fait": "Selon l'enquête Cadre de vie et sécurité 2021, 53 % des ménages victimes d'un cambriolage ou d'une tentative ont déposé plainte, et 69 % pour les cambriolages aboutis.",
+      "periode": "2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Les chiffres enregistrés sous-estiment le phénomène et peuvent varier avec les habitudes de plainte : d'où l'intérêt de l'enquête de victimation.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "53 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Selon l'enquête de victimation, la part des ménages cambriolés est restée stable, entre 1,3 et 2 % par an, de 2006 à 2018. Les cambriolages enregistrés ont chuté pendant le covid, sont remontés en 2022, mais restaient en 2023 sous leur niveau de 2019.",
+    "moyen": "La statistique publique mesure les cambriolages de deux façons. L'enquête de victimation, qui interroge les ménages, montre une grande stabilité : entre 1,3 et 2 % des ménages victimes chaque année de 2006 à 2018, avec un pic à 2 % en 2017.\n\nLes cambriolages enregistrés par la police et la gendarmerie ont baissé de 20 % en 2020 avec les confinements, puis rebondi de 11 % en 2022 et de 3 % en 2023. Mais avec 217 600 faits en 2023, le niveau restait inférieur à celui d'avant la crise sanitaire ; mi-2024, la tendance était jugée stable. Le risque est plus élevé en ville dense qu'à la campagne.",
+    "detaille": "Pour savoir si les cambriolages « explosent », il faut regarder sur une longue période et avec les bons outils. Les cambriolages enregistrés par la police et la gendarmerie dépendent des plaintes : or seuls un peu plus de la moitié des ménages victimes portent plainte. L'enquête de victimation, qui interroge directement un large échantillon de ménages, est donc un repère précieux.\n\nCette enquête montre une grande stabilité : la part des ménages victimes d'un cambriolage ou d'une tentative sur leur résidence principale est restée entre 1,3 % et 2 % par an de 2006 à 2018. En nombre, l'Insee comptait 559 000 cambriolages et tentatives en 2012 et 507 000 en 2016, plutôt une baisse.\n\nCôté faits enregistrés, le SSMSI observe une baisse de 6 % en 2018, une stabilité en 2019, une chute de 20 % en 2020 avec les confinements, puis un rebond de 11 % en 2022 et de 3 % en 2023. Avec 217 600 cambriolages en 2023, le niveau restait inférieur à celui d'avant la crise sanitaire. La hausse s'est poursuivie légèrement jusqu'à mi-2024, avant une tendance jugée stable par le SSMSI ; les chiffres de 2025 sont traités dans la fiche sur la délinquance en général.\n\nLe risque est inégalement réparti : à caractéristiques comparables, les zones urbaines denses connaissent davantage de cambriolages que les communes rurales. Les politiques de prévention, l'éclairage public, la présence humaine dans les quartiers et les dispositifs de surveillance de voisinage comptent plus que les slogans.",
+    "empathie": "Un cambriolage est une expérience violente : on se sent atteint dans son intimité, parfois pendant des années. Cette peur mérite d'être prise au sérieux, et c'est pour cela qu'il faut des chiffres fiables plutôt que des impressions."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Autour de moi, tout le monde s'est fait cambrioler.",
+      "reponse": "Les situations locales varient beaucoup, et les faits divers marquent les esprits. Mais à l'échelle du pays, l'enquête auprès des ménages montre une part de victimes stable depuis 2006."
+    },
+    {
+      "objection": "Les gens ne portent plus plainte, donc les chiffres baissent artificiellement.",
+      "reponse": "C'est pour cela que l'enquête de victimation existe : elle interroge directement les ménages, plainte ou pas, et elle ne montre pas d'explosion non plus."
+    }
+  ],
+  "questions": [
+    "Si les cambriolages explosaient, pourquoi l'enquête auprès des ménages montrerait-elle la même proportion de victimes depuis 2006 ?",
+    "Quels moyens de prévention de proximité ont été supprimés ou renforcés dans votre commune ?"
+  ],
+  "limites": [
+    "L'enquête de victimation a changé de protocole en 2021 (devenue Vécu et ressenti en matière de sécurité) : les années récentes ne sont pas directement comparables avec la série 2006-2018, et les résultats récents de cette enquête n'ont pas été lus.",
+    "Les bilans annuels 2024 et 2025 du ministère n'ont pas pu être ouverts (pages inaccessibles) : les données s'arrêtent à mi-2024 ; la fiche voisine delinquance-partout traite l'année 2025.",
+    "Les nombres enregistrés avant 2018 n'ont pas été retrouvés dans une source ouverte ; la tendance de long terme repose sur l'enquête de victimation."
+  ],
+  "sources": [
+    {
+      "titre": "Insécurité et victimation : les enseignements de l'enquête Cadre de vie et sécurité — édition 2021",
+      "organisme": "SSMSI (service statistique ministériel de la sécurité intérieure)",
+      "date_publication": "mars 2022",
+      "url": "https://interieur.gouv.fr/content/download/131241/1043413/file/CVS-2021.pdf",
+      "passage": "Ménages victimes de cambriolage ou de tentative (résidence principale, France métropolitaine) : 419 000 (1,6 %) en 2006, 489 000 (1,7 %) en 2015, 470 000 (1,6 %) en 2016, 569 000 (2,0 %) en 2017, 490 000 (1,7 %) en 2018, 335 000 (1,1 %) en 2020. Entre 2006 et 2018, la proportion reste comprise entre 1,3 % et 2,0 %. L'enquête 2021 « a été conduite avec un protocole différent des années antérieures ». « Plus de la moitié (53 %) des ménages victimes de cambriolages ou de tentatives ont déposé plainte » ; 69 % pour les cambriolages aboutis.",
+      "pertinence": "Enquête de victimation de la statistique publique, indépendante des plaintes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Insécurité et délinquance en 2023 : une première photographie (Interstats Analyse n° 64)",
+      "organisme": "SSMSI",
+      "date_publication": "janvier 2024",
+      "url": "https://interieur.gouv.fr/content/download/135975/1076724/file/IA-64_V3-3.pdf",
+      "passage": "217 600 cambriolages de logements enregistrés en 2023. Évolutions annuelles : -6 % en 2018, 0 % en 2019, -20 % en 2020, 0 % en 2021, +11 % en 2022, +3 % en 2023. « le niveau reste inférieur à celui observé avant le début de la crise sanitaire ». Enquête VRS 2022 : 54 % des ménages victimes d'un vol avec effraction de leur résidence principale ont déposé plainte.",
+      "pertinence": "Bilan annuel de la statistique publique sur la délinquance enregistrée.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Publications de la statistique publique (SSMSI et Insee) sur le thème des cambriolages — communiqué de presse",
+      "organisme": "SSMSI et Insee",
+      "date_publication": "16 mai 2023",
+      "url": "https://interieur.gouv.fr/sites/minint/files/medias/documents/2023-10/16-05-2023-communique-de-presse-SSMSI-Publications-de-la-Statistique-publique-SSMSI-et-Insee-sur-le-theme-des-cambriolages-accessible.pdf",
+      "passage": "Étude « Moins de cambriolages de logements depuis la crise sanitaire sur une majeure partie du territoire » (2016-2022). En 2022, 211 400 cambriolages ou tentatives enregistrés, soit « en moyenne 5,8 infractions pour 1 000 logements ». En 2022, le nombre « ne retrouve ou ne dépasse son niveau d'avant-crise que dans une vingtaine de départements ». À caractéristiques comparables, une zone urbaine dense compte « 1,4 cambriolage de plus pour 1 000 logements » par an qu'une commune périurbaine rurale.",
+      "pertinence": "Communiqué de la statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Analyse conjoncturelle des crimes et délits enregistrés par la police et la gendarmerie à la fin du mois de juin 2024 (Interstats Conjoncture n° 106)",
+      "organisme": "SSMSI",
+      "date_publication": "juillet 2024",
+      "url": "https://interieur.gouv.fr/content/download/136516/1080642/file/IC106.pdf",
+      "passage": "224 000 cambriolages de logements enregistrés de juillet 2023 à juin 2024, en hausse de 4 % sur douze mois. « Le nombre de cambriolages de logements est sur une tendance stable depuis le troisième trimestre 2023. »",
+      "pertinence": "Note de conjoncture de la statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Tableaux de l'économie française, édition 2018 — 8.1 Criminalité, délinquance",
+      "organisme": "Insee",
+      "date_publication": "2018",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/3303471/TEF2018_081.pdf",
+      "passage": "Atteintes aux biens des ménages, « dont résidence principale : cambriolages et tentatives » (en milliers, enquêtes Cadre de vie et sécurité) : 457 en 2010, 559 en 2012, 536 en 2015, 507 en 2016. 548 000 ménages victimes en 2014 et « 470 000 ménages s'en déclarant victime en 2016 ».",
+      "pertinence": "Synthèse de la statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Bilan annuel 2026 du SSMSI et nouveaux résultats de l'enquête Vécu et ressenti en matière de sécurité.",
+  "objections_legitimes": [
+    "Les cambriolages enregistrés ont réellement augmenté après les confinements, en 2022 et 2023.",
+    "Certaines villes et certains départements connaissent des hausses locales.",
+    "Seule la moitié environ des victimes porte plainte : les chiffres officiels sous-estiment le phénomène."
+  ],
+  "publics": {
+    "convaincus": "Quand on interroge directement les ménages, plainte ou pas, la part de victimes de cambriolage reste entre 1,3 et 2 % par an depuis 2006. Les chiffres de la police ont rebondi après le covid, mais restaient en 2023 sous leur niveau de 2019. Une hausse après un creux, ce n'est pas une explosion.",
+    "indecis": "Votre inquiétude est compréhensible, un cambriolage marque durablement. Mais les chiffres publics ne montrent pas d'explosion : la part de ménages touchés est stable depuis une quinzaine d'années, avec un rebond après les confinements. Le risque est surtout plus élevé dans les grandes villes."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "vulnerables",
+      "democratie"
+    ],
+    "mecanismes": "Un rebond après le creux des confinements, des hausses locales et des faits divers marquants sont présentés comme une explosion nationale, sans regarder l’enquête de victimation qui interroge directement les ménages.",
+    "consequences": "La peur alimente des discours sécuritaires et un marché privé de la protection, pendant que la prévention de proximité et la présence humaine dans les quartiers reculent.",
+    "democratie": "Débattre de sécurité à partir des séries de la statistique publique, et non des impressions, permet de choisir des politiques qui protègent réellement.",
+    "propositions": [
+      "Renforcer une police de proximité présente au quotidien dans les quartiers et les communes rurales.",
+      "Faciliter le dépôt de plainte et l’accompagnement des victimes de cambriolage.",
+      "Financer la prévention locale, l’éclairage public et les dispositifs de solidarité entre voisins."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les cambriolages enregistrés ont nettement augmenté après les confinements, et certains départements ont dépassé leur niveau d’avant la crise sanitaire.",
+        "integration": "Ce rebond est réel et justifie de l’attention, mais il ne fait pas une explosion : la part des ménages touchés reste stable sur longue période."
+      }
+    ]
+  },
+  "concepts": [
+    "cambriolages",
+    "logement",
+    "delinquance",
+    "statistiques",
+    "legitime_defense"
+  ],
+  "repond_a": [
+    {
+      "id": "cambriolages_q1215",
+      "label": "Cambriolages"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier",
+    "sdf",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite"
+  ]
+}

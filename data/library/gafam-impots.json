@@ -197,10 +197,6 @@
       }
     ]
   },
-  "concepts": [
-    "fiscalite",
-    "gafam_impots"
-  ],
   "repond_a": [
     {
       "id": "gafam_impots_q0614",
@@ -216,5 +212,9 @@
     "taxer",
     "isf",
     "tva"
+  ],
+  "concepts": [
+    "fiscalite",
+    "gafam_impots"
   ]
 }

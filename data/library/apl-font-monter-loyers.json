@@ -1,0 +1,216 @@
+{
+  "id": "apl-font-monter-loyers",
+  "type": "idee_recue",
+  "affirmation": "Les APL font monter les loyers.",
+  "volet": "social",
+  "sous_theme": "Aides au logement",
+  "rubriques": [],
+  "mots_cles": [
+    "apl loyers",
+    "apl font monter les loyers",
+    "aides au logement inflation loyers",
+    "apl poche des proprietaires",
+    "baisse des apl",
+    "apl 5 euros",
+    "supprimer les apl",
+    "apl effet pervers"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Plutôt exact, mais la conclusion qu'on en tire souvent est fausse. Plusieurs études montrent qu'une partie des aides au logement est captée par les propriétaires dans le parc privé, sous forme de loyers plus élevés. Mais en conclure qu'il faut baisser les APL ne tient pas : l'effet vient d'une offre de logements trop rigide, et couper les aides sans agir sur les loyers revient à appauvrir les locataires. Les chercheurs eux-mêmes concluent qu'il faut augmenter l'offre de logements. Les baisses de 2017 et la réforme de 2021 ont surtout servi à faire des économies.",
+  "contexte": "En 2017, le gouvernement a baissé les APL de 5 € par mois en invoquant leur effet sur les loyers. L'argument revient à chaque budget pour justifier de nouvelles économies sur les aides au logement.",
+  "explication": "Il faut lire les études économiques sur l'effet des aides au logement sur les loyers, comprendre d'où vient cet effet, puis regarder ce qu'ont donné les baisses d'APL décidées depuis 2017.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : selon une étude de Gabrielle Fack publiée par l'Insee en 2005, la hausse des loyers aurait absorbé entre 50 % et 80 % des allocations logement des ménages modestes après leur extension au début des années 1990, avec une estimation privilégiée de 78 %.",
+      "periode": "1973-2002",
+      "perimetre": "France, parc locatif privé",
+      "explication": "L'effet inflationniste des aides est réel et documenté : il faut le reconnaître.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "78 %"
+    },
+    {
+      "fait": "Selon la même étude, l'offre de logements des bailleurs a très peu réagi à la hausse de la demande liée aux aides.",
+      "periode": "1973-2002",
+      "perimetre": "France",
+      "explication": "C'est la rareté des logements qui permet aux propriétaires de capter l'aide.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon l'Insee, sur 2005-2012, des aides plus élevées sont associées à des loyers supérieurs d'environ 5,3 %, soit environ 25 € par mois, sans amélioration de la qualité des logements.",
+      "periode": "2005-2012",
+      "perimetre": "France, parc locatif privé",
+      "explication": "L'effet existe encore dans les années 2000, mais il est mesuré sur une partie seulement de l'aide.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "5,3 %"
+    },
+    {
+      "fait": "Selon des économistes de la Banque de France, là où l'offre a pu s'ajuster, comme pour les petits logements grâce à la construction de studios, les loyers ont cessé d'augmenter nettement ; ils concluent qu'il faut accroître l'offre de logements en même temps que le soutien à la demande.",
+      "periode": "1995-2016",
+      "perimetre": "France",
+      "explication": "Le problème n'est pas l'aide elle-même, mais le manque de logements.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "La baisse de 5 € par mois des APL décidée à l'été 2017 a touché 6,5 millions de ménages, pour une économie attendue de 32,5 millions d'euros par mois.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "L'argument des loyers a servi à justifier une économie payée par les locataires.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "6,5 millions"
+    },
+    {
+      "fait": "Selon un compte rendu d'un rapport de la Cour des comptes, la réforme de 2021, qui calcule les aides sur les revenus récents, a permis environ 1,11 milliard d'euros d'économies en 2021, du fait de la baisse du nombre d'allocataires.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Les réformes récentes ont réduit les dépenses sans toucher au niveau des loyers.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "1,11 milliard €"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, une partie des APL est captée par les propriétaires sous forme de loyers plus élevés : les études l'ont montré. Mais c'est parce que les logements manquent. Baisser les APL sans agir sur les loyers et sans construire, c'est faire payer les locataires.",
+    "moyen": "Les études sont sérieuses : après l'extension des aides au logement au début des années 1990, une large part de l'argent s'est retrouvée dans des loyers plus élevés, selon Gabrielle Fack. L'Insee mesure encore un effet sur 2005-2012, de l'ordre de 5 %.\n\nMais pourquoi ? Parce que l'offre de logements ne suit pas : quand il y a plus de demande que de logements, les propriétaires augmentent les prix. Là où l'on a construit, comme pour les studios, l'effet s'est atténué. Les chercheurs de la Banque de France concluent qu'il faut augmenter l'offre. Baisser les APL de 5 € en 2017 n'a fait baisser aucun loyer : cela a seulement fait des économies sur le dos de 6,5 millions de ménages.",
+    "detaille": "L'idée que les APL font monter les loyers vient de travaux économiques solides. Gabrielle Fack a étudié l'extension des aides au logement à tous les ménages modestes au début des années 1990 : selon ses estimations publiées par l'Insee, la hausse des loyers aurait absorbé entre 50 % et 80 % des aides, avec une estimation privilégiée de 78 %. Une étude de l'Insee de 2014 trouve encore, sur 2005-2012, des loyers supérieurs d'environ 5,3 % là où les aides sont plus élevées, sans meilleure qualité de logement.\n\nLe mécanisme est connu : l'aide augmente ce que les locataires peuvent payer, mais si le nombre de logements ne bouge pas, les propriétaires en profitent pour monter les prix. Les économistes de la Banque de France montrent que l'effet dépend de l'offre : pour les petits logements, où l'on a construit des studios, les loyers ont cessé d'augmenter nettement ; pour les grands logements, ils ont continué de grimper. Leur conclusion : il faut accroître l'offre de logements en même temps que le soutien aux locataires.\n\nLes gouvernements ont pourtant utilisé cet argument pour réduire les aides : baisse de 5 € par mois en 2017 pour 6,5 millions de ménages, réduction des APL dans le logement social compensée par une baisse imposée des loyers aux bailleurs sociaux, puis réforme de 2021 qui a fait économiser environ 1,11 milliard d'euros dès la première année. Aucune de ces mesures ne visait à faire baisser les loyers du privé. Les réponses cohérentes avec les études sont ailleurs : encadrer les loyers, construire massivement des logements sociaux et maîtriser le prix du foncier.",
+    "empathie": "Il est choquant de penser que de l'argent public destiné aux locataires modestes finisse dans la poche de propriétaires. Cette intuition est juste : la question est de savoir quelle solution protège vraiment les locataires."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on baisse les APL, les loyers baisseront.",
+      "reponse": "Rien ne le montre : la baisse de 5 € de 2017 n'a fait baisser aucun loyer. Les propriétaires fixent leurs prix selon la rareté des logements, et la perte est payée par les locataires."
+    },
+    {
+      "objection": "Les APL, c'est un cadeau aux propriétaires, il faut les supprimer.",
+      "reponse": "Les supprimer ne rendrait pas l'argent aux locataires : ils devraient payer seuls des loyers toujours élevés. Il faut plutôt encadrer les loyers et construire, comme le recommandent les chercheurs eux-mêmes."
+    }
+  ],
+  "questions": [
+    "Si on supprimait les APL demain, qui paierait le loyer à la place des locataires modestes ?",
+    "Pourquoi les loyers des studios ont-ils cessé de grimper là où l'on en a construit ?"
+  ],
+  "limites": [
+    "Les études portent surtout sur le parc privé ; dans le logement social, les loyers sont réglementés et l'effet est différent.",
+    "L'étude de Gabrielle Fack porte sur 1973-2002 et celle de l'Insee sur 2005-2012 : ce sont des données anciennes, même si le billet de la Banque de France va jusqu'en 2016.",
+    "Le rapport de la Cour des comptes sur la réforme de 2021 a été lu à travers le compte rendu de Localtis ; la dénomination officielle de la baisse des APL dans le logement social (réduction de loyer de solidarité) n'apparaît pas dans la source lue.",
+    "Les effets de l'encadrement des loyers sont traités dans une fiche voisine."
+  ],
+  "sources": [
+    {
+      "titre": "Pourquoi les ménages à bas revenus paient-ils des loyers de plus en plus élevés ? L'incidence des aides au logement en France (1973-2002)",
+      "organisme": "Gabrielle Fack — Économie et Statistique n° 381-382 (Insee)",
+      "date_publication": "2005",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/1376573/es381-382b.pdf",
+      "passage": "Étude des enquêtes Logement de 1973 à 2002 et de l'extension des aides au logement à tous les ménages modestes au début des années 1990 (« bouclage », 1991-1993). La hausse des loyers absorberait « entre 50 % et 80 % des allocations logement perçues par ces ménages » ; l'estimation privilégiée est de 78 % (un euro d'aide en plus fait monter le loyer d'environ 0,78 euro). Entre 1988 et 2002, les aides expliqueraient jusqu'à 58 % de la hausse des loyers des ménages modestes. L'offre de logements des bailleurs a très peu réagi à la hausse de la demande.",
+      "pertinence": "Étude économique publiée dans la revue de l'Insee.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "L'impact des aides au logement sur le secteur locatif privé (Insee Analyses n° 19)",
+      "organisme": "Céline Grislain-Letrémy et Corentin Trevien, Insee",
+      "date_publication": "14 novembre 2014",
+      "url": "https://www.insee.fr/fr/statistiques/1521337",
+      "passage": "Sur 2005-2012, les loyers de la zone II, où les aides sont plus élevées, dépassent d'environ 5,3 % ceux de la zone III à caractéristiques égales, soit environ 25 € par mois (intervalle de confiance de 1,6 % à 8,9 %). L'effet est plus fort pour les ménages modestes (6,7 %) et les logements de moins de trois pièces (5,7 %). Aucun effet significatif sur la qualité des logements ni sur le nombre de logements loués. La méthode « ne permet pas de calculer la part de l'aide absorbée par la hausse de loyer » ; d'autres études l'estiment « entre 60 % et 80 % ».",
+      "pertinence": "Étude de l'institut public de la statistique.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Aides au logement : un moindre effet haussier sur les loyers si l'offre s'ajuste (Bloc-notes Éco, billet n° 302)",
+      "organisme": "Céline Grislain-Letrémy et Corentin Trevien, Banque de France",
+      "date_publication": "30 janvier 2023",
+      "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/aides-au-logement-un-moindre-effet-haussier-sur-les-loyers-si-loffre-sajuste",
+      "passage": "Les aides au logement ont coûté 15,7 milliards d'euros en 2021 (0,6 % du PIB). Pas d'effet significatif sur les loyers dans les années 1980 ; hausse des loyers dans les deux décennies suivant la réforme des années 1990, surtout en 1995-1999. Entre 2000 et 2016, l'effet touche aussi les locataires non aidés, car plus de 40 % des locataires du privé sont aidés. Pour les logements de trois pièces et plus, l'offre est restée rigide et les loyers ont durablement augmenté ; pour les petits logements, les loyers ont cessé d'augmenter nettement, grâce à la construction de studios. Les auteurs concluent qu'il faut accroître l'offre de logements en même temps que le soutien à la demande pour éviter que les bailleurs captent l'aide.",
+      "pertinence": "Publication d'économistes de la Banque de France.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Réforme du logement : quand la baisse des APL provoquait la fronde des sénateurs",
+      "organisme": "Alexandre Poussart, Public Sénat",
+      "date_publication": "13 juillet 2018 (mis à jour le 20 juillet 2018)",
+      "url": "https://www.publicsenat.fr/actualites/politique/reforme-du-logement-quand-la-baisse-des-apl-provoquait-la-fronde-des-senateurs",
+      "passage": "La baisse de 5 € par mois des APL, décidée à l'été 2017 par le gouvernement d'Édouard Philippe, a touché 6,5 millions de ménages pour une économie attendue de 32,5 millions d'euros par mois. Le gouvernement prévoyait ensuite de réduire de 1,5 milliard d'euros d'ici 2020 les APL des locataires du logement social, en échange d'une baisse équivalente des loyers imposée aux bailleurs sociaux ; le sénateur Philippe Dallier craignait que 100 bailleurs sociaux soient « au tapis ». Le ministre Jacques Mézard qualifiait les APL de « système pervers », un euro d'APL entraînant selon lui 78 centimes de hausse des loyers.",
+      "pertinence": "Chaîne parlementaire ; rappel des débats de 2017-2018.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Aides au logement : le « temps réel » n'a guère simplifié les choses pour les bénéficiaires",
+      "organisme": "Guillaume Ducable, Localtis (Banque des Territoires), compte rendu d’observations définitives de la Cour des comptes du 28 janvier 2025",
+      "date_publication": "30 janvier 2025",
+      "url": "https://www.banquedesterritoires.fr/aides-au-logement-le-temps-reel-na-guere-simplifie-les-choses-pour-les-beneficiaires",
+      "passage": "Depuis janvier 2021, les aides au logement sont calculées sur les ressources récentes, actualisées chaque trimestre, et non plus sur celles d'il y a deux ans. Économies : environ 1,11 milliard d'euros en 2021, du fait de la baisse du nombre d'allocataires éligibles. Aide mensuelle moyenne stable, autour de 219 € en 2022. 17 milliards d'euros versés en 2020, contre 17,7 milliards en 2014. La Cour juge que la promesse de simplification n'est pas tenue et relève une insécurité accrue pour les allocataires aux revenus irréguliers.",
+      "pertinence": "Compte rendu par un média des collectivités d'un rapport de la Cour des comptes.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles mesures sur les aides au logement dans le budget 2027 et nouvelles études.",
+  "objections_legitimes": [
+    "Les études montrent bien qu'une partie des aides au logement est captée par les propriétaires dans le parc privé.",
+    "Les aides au logement coûtent cher à la collectivité, plus de 15 milliards d'euros par an.",
+    "Payer des loyers toujours plus chers avec de l'argent public sans améliorer la qualité des logements pose problème."
+  ],
+  "publics": {
+    "convaincus": "Vous avez raison de dire que des propriétaires profitent des APL : les études le montrent. Mais regardez qui a payé quand on les a baissées en 2017 : 6,5 millions de locataires, et aucun loyer n'a baissé. Le problème, c'est le manque de logements et l'absence de limite aux loyers, pas l'aide aux locataires.",
+    "indecis": "Les économistes ont bien montré qu'une partie des aides au logement fait monter les loyers du privé, parce que les logements manquent. Mais leur conclusion n'est pas de baisser les aides : c'est de construire davantage et de mieux contrôler les loyers. Sans cela, réduire les APL ne fait qu'alourdir la facture des locataires."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "services_publics",
+      "repartition"
+    ],
+    "mecanismes": "Un constat juste sur la captation des aides par les propriétaires sert à justifier des économies sur le dos des locataires, sans rien faire contre les loyers eux-mêmes ni contre le manque de logements.",
+    "consequences": "Les locataires modestes paient davantage de leur poche, les loyers ne baissent pas, et les bailleurs sociaux sont fragilisés par des coupes compensées sur leurs recettes.",
+    "democratie": "Les études publiques sur le logement devraient guider les politiques au lieu d’être citées à moitié pour justifier des coupes budgétaires.",
+    "propositions": [
+      "Généraliser et faire respecter l’encadrement des loyers dans les zones tendues.",
+      "Construire massivement des logements sociaux et maîtriser le prix du foncier.",
+      "Maintenir et revaloriser les aides au logement tant que les loyers restent trop élevés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Plusieurs études montrent qu’une partie des aides au logement est captée par les propriétaires sous forme de loyers plus élevés dans le parc privé.",
+        "integration": "C’est un argument pour encadrer les loyers et construire, pas pour faire payer les locataires."
+      }
+    ]
+  },
+  "concepts": [
+    "apl_loyers",
+    "prestations",
+    "logement",
+    "pouvoir_achat"
+  ],
+  "repond_a": [
+    {
+      "id": "apl_loyers_q1215",
+      "label": "APL et loyers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ]
+}

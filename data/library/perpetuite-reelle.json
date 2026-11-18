@@ -233,12 +233,6 @@
       }
     ]
   },
-  "concepts": [
-    "delinquance",
-    "prison",
-    "justice",
-    "perpetuite"
-  ],
   "repond_a": [
     {
       "id": "perpetuite_q0614",
@@ -271,5 +265,11 @@
     "zonzon",
     "barreaux",
     "justice"
+  ],
+  "concepts": [
+    "delinquance",
+    "prison",
+    "justice",
+    "perpetuite"
   ]
 }

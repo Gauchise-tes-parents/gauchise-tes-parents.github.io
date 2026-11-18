@@ -248,13 +248,6 @@
       }
     ]
   },
-  "concepts": [
-    "discrimination",
-    "femmes",
-    "feminisme",
-    "hommes_discrimines",
-    "jeunes_hommes_vote"
-  ],
   "repond_a": [
     {
       "id": "hommes_discrimines_q0614",
@@ -282,5 +275,12 @@
     "patriarcat",
     "egalite salariale",
     "violences faites aux femmes"
+  ],
+  "concepts": [
+    "discrimination",
+    "femmes",
+    "feminisme",
+    "hommes_discrimines",
+    "jeunes_hommes_vote"
   ]
 }

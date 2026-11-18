@@ -220,12 +220,6 @@
       }
     ]
   },
-  "concepts": [
-    "patriotisme",
-    "colonisation",
-    "algerie",
-    "algerie_precoloniale"
-  ],
   "repond_a": [
     {
       "id": "algerie_precoloniale_q0614",
@@ -252,5 +246,11 @@
     "indigenat",
     "nation algerienne",
     "regence d alger"
+  ],
+  "concepts": [
+    "patriotisme",
+    "colonisation",
+    "algerie",
+    "algerie_precoloniale"
   ]
 }

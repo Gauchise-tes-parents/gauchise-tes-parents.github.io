@@ -212,11 +212,6 @@
       }
     ]
   },
-  "concepts": [
-    "dangerosite",
-    "voiture_electrique",
-    "ve_incendies"
-  ],
   "repond_a": [
     {
       "id": "ve_incendies_q0614",
@@ -230,5 +225,10 @@
     "agressif",
     "agressive",
     "autoritaire"
+  ],
+  "concepts": [
+    "dangerosite",
+    "voiture_electrique",
+    "ve_incendies"
   ]
 }

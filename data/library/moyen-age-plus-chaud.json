@@ -192,11 +192,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "climat_origine",
-    "climat_medieval"
-  ],
   "repond_a": [
     {
       "id": "climat_medieval_q0614",
@@ -208,5 +203,10 @@
     "nucleaire",
     "changement climatique",
     "climat a toujours change"
+  ],
+  "concepts": [
+    "ecologie",
+    "climat_origine",
+    "climat_medieval"
   ]
 }

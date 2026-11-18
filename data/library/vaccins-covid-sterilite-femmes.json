@@ -1,0 +1,226 @@
+{
+  "id": "vaccins-covid-sterilite-femmes",
+  "type": "idee_recue",
+  "affirmation": "Les vaccins contre le Covid rendent les femmes stériles.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "vaccin covid sterilite",
+    "vaccin rend sterile",
+    "vaccin infertilite femmes",
+    "vaccin pfizer sterile",
+    "vaccin arn fertilite",
+    "vaccin baisse natalite",
+    "vaccin regles",
+    "syncytine vaccin"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Aucune étude n'a montré que les vaccins contre le Covid réduisent la fertilité. Une cohorte américaine de 2 126 femmes qui essayaient de concevoir trouve les mêmes chances de grossesse chez les vaccinées et les non-vaccinées, et une étude suédoise sur près de 60 000 femmes ne voit aucune différence de naissances. L'effet réel est ailleurs : des règles plus abondantes, transitoires, reconnues par les agences européenne et française, sans impact démontré sur la fertilité.",
+  "contexte": "La rumeur est née en décembre 2020, avant même la vaccination de masse, d'un texte adressé à l'Agence européenne du médicament. Elle est revenue avec la baisse des naissances observée dans plusieurs pays après 2021, et avec les témoignages de femmes sur des règles perturbées.",
+  "explication": "Il faut comparer les chances de grossesse et les naissances chez des femmes vaccinées et non vaccinées, et distinguer un effet passager sur les règles d'une atteinte de la fertilité.",
+  "faits": [
+    {
+      "fait": "La rumeur vient d'un texte du 1er décembre 2020, signé notamment par l'ancien chercheur de Pfizer Michael Yeadon, qui supposait une confusion entre la protéine du virus et une protéine du placenta, sur la base d'une courte séquence commune de quatre acides aminés ; ce texte reconnaissait lui-même n'avoir aucune indication en ce sens.",
+      "periode": "2020",
+      "perimetre": "Europe",
+      "explication": "L'idée est partie d'une hypothèse sans preuve, rejetée par les immunologistes : les anticorps reconnaissent la forme des protéines, pas quatre acides aminés.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Dans une cohorte de 2 126 femmes des États-Unis et du Canada qui essayaient de concevoir, la probabilité de grossesse par cycle est quasiment identique chez les vaccinées et les non-vaccinées, et de même pour les partenaires masculins.",
+      "periode": "2020-2021",
+      "perimetre": "États-Unis et Canada",
+      "explication": "Si le vaccin rendait stérile, les femmes vaccinées tomberaient moins souvent enceintes : ce n'est pas le cas.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2 126"
+    },
+    {
+      "fait": "Dans la même étude, les hommes testés positifs au Covid dans les 60 jours précédant un cycle ont une fécondabilité réduite.",
+      "periode": "2020-2021",
+      "perimetre": "États-Unis et Canada",
+      "explication": "C'est la maladie, pas le vaccin, qui est associée à une baisse passagère de la fertilité masculine.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Une étude de l'université de Linköping sur près de 60 000 femmes de 18 à 45 ans ne trouve aucune différence significative de naissances ni de fausses couches entre vaccinées et non vaccinées, sur la période 2021-2024.",
+      "periode": "2021-2024",
+      "perimetre": "Suède (région de Jönköping)",
+      "explication": "La baisse des naissances ne s'explique pas par le vaccin, mais par la démographie et les effets de la pandémie.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "60 000"
+    },
+    {
+      "fait": "Selon l'Agence européenne des médicaments, « there is no evidence » que les modifications des règles après vaccination aient « any impact on fertility », et des études portant sur environ 65 000 grossesses n'ont trouvé aucun signe de risque accru de complications, de fausses couches ou de naissances prématurées.",
+      "periode": "2022",
+      "perimetre": "Union européenne",
+      "explication": "L'agence européenne a examiné à la fois les règles, la fertilité et la grossesse.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "65 000"
+    },
+    {
+      "fait": "Fait défavorable : l'Agence européenne des médicaments a reconnu en 2022 les saignements menstruels abondants comme effet indésirable des vaccins à ARN Comirnaty et Spikevax, des cas surtout non graves et temporaires.",
+      "periode": "2022",
+      "perimetre": "Union européenne",
+      "explication": "Les femmes qui ont signalé des règles perturbées ne l'ont pas inventé ; ces signalements ont conduit à reconnaître un effet réel, mais passager.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon une étude EPI-PHARE publiée par l'ANSM, le risque d'hospitalisation pour saignements menstruels abondants était augmenté de 20 % dans les 1 à 3 mois suivant une primovaccination, puis n'était plus augmenté au-delà.",
+      "periode": "2021-2022",
+      "perimetre": "France",
+      "explication": "L'effet est mesuré, limité dans le temps et sans lien démontré avec la fertilité.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Rien ne montre que les vaccins contre le Covid rendent stérile. Des femmes qui essayaient d'avoir un enfant ont autant de chances de grossesse qu'elles soient vaccinées ou non, et une étude suédoise sur près de 60 000 femmes ne voit aucune différence de naissances. Les vaccins peuvent perturber les règles pendant quelques semaines, sans effet démontré sur la fertilité.",
+    "moyen": "La rumeur est née fin 2020 d'une hypothèse sans preuve : les anticorps produits contre le virus attaqueraient une protéine du placenta. Les immunologistes l'ont réfutée, et si c'était vrai, les femmes infectées par le virus lui-même seraient devenues stériles.\n\nDepuis, les études ont mesuré ce qui compte : les chances de grossesse et les naissances. Une cohorte américaine de couples qui essayaient de concevoir ne voit aucune différence entre vaccinés et non vaccinés ; une étude suédoise sur près de 60 000 femmes non plus. Ce qui est réel, ce sont des règles plus abondantes pendant quelques semaines après la vaccination, reconnues par les agences européenne et française, sans effet démontré sur la fertilité.",
+    "detaille": "En décembre 2020, un texte adressé à l'Agence européenne du médicament par Michael Yeadon, ancien chercheur de Pfizer, et Wolfgang Wodarg affirmait que les anticorps produits contre la protéine Spike pourraient s'attaquer à la syncytine-1, une protéine indispensable au placenta. L'argument reposait sur une séquence commune de quatre acides aminés ; les immunologistes interrogés par l'AFP ont rappelé que les anticorps reconnaissent la forme des protéines, et que l'infection elle-même, qui produit les mêmes anticorps, n'a pas rendu les femmes stériles.\n\nLes études menées ensuite répondent directement à la question. Une cohorte de l'université de Boston, publiée dans l'American Journal of Epidemiology, a suivi 2 126 femmes qui essayaient de concevoir : leurs chances de grossesse par cycle sont les mêmes qu'elles soient vaccinées ou non, et c'est au contraire l'infection récente chez l'homme qui réduit passagèrement la fertilité. En 2026, une étude suédoise sur près de 60 000 femmes ne trouve aucune différence de naissances ni de fausses couches. L'Agence européenne cite des études sur environ 65 000 grossesses, sans hausse des complications.\n\nIl ne faut pas pour autant balayer les témoignages. Des femmes ont signalé des règles perturbées, et l'Agence européenne a reconnu en 2022 les saignements menstruels abondants comme effet indésirable des vaccins à ARN. En France, une étude EPI-PHARE montre un risque d'hospitalisation pour ce motif augmenté de 20 % dans les trois mois suivant la primovaccination, puis plus rien. C'est un effet réel, passager, qui aurait mérité d'être mieux expliqué dès le départ ; ce n'est pas une stérilité.",
+    "empathie": "La peur de ne pas pouvoir avoir d'enfant touche à l'intime, et certaines femmes ont eu l'impression que leurs symptômes n'étaient pas pris au sérieux. Reconnaître les troubles des règles, c'est aussi ce qui permet d'être crue quand on explique que la fertilité, elle, n'est pas atteinte."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La natalité a baissé juste après la vaccination, c'est la preuve.",
+      "reponse": "Une étude suédoise sur près de 60 000 femmes compare vaccinées et non vaccinées : aucune différence de naissances. La baisse touche tout le monde et s'explique par d'autres causes."
+    },
+    {
+      "objection": "Les agences ont nié les problèmes de règles, elles mentent aussi sur la fertilité.",
+      "reponse": "Ce sont justement ces agences qui ont reconnu les saignements abondants comme effet indésirable en 2022 et qui en ont mesuré l'ampleur. Pour la fertilité, les études ne montrent rien."
+    }
+  ],
+  "questions": [
+    "Si les anticorps contre le virus rendaient stérile, pourquoi les femmes qui ont eu le Covid ne le sont-elles pas devenues ?",
+    "Comment expliquer que des femmes vaccinées et non vaccinées aient autant d'enfants ?"
+  ],
+  "limites": [
+    "Les études de Boston et de Linköping ont été lues à travers les communiqués des universités, pas dans leur texte intégral.",
+    "L'étude suédoise porte sur une seule région et n'a pas été comparée ici à d'autres pays ; elle ne mesure pas les intentions de grossesse.",
+    "Le document de l'Agence européenne date de 2022 ; les fact-checks des Décodeurs et la page de l'ANSM sur la fertilité n'ont pas été ouverts.",
+    "Les données sur les troubles des règles ne concernent en France que les cas hospitalisés ; les troubles plus légers sont plus difficiles à mesurer."
+  ],
+  "sources": [
+    {
+      "titre": "Non, le vaccin Pfizer contre le covid ne rend pas les femmes stériles",
+      "organisme": "Allo Docteurs (France Télévisions), d’après une vérification de l’AFP",
+      "date_publication": "16 décembre 2020",
+      "url": "https://www.allodocteurs.fr/se-soigner/vaccins/non-le-vaccin-pfizer-contre-le-covid-ne-rend-pas-les-femmes-steriles_30447.html",
+      "passage": "La rumeur affirme que les anticorps dirigés contre la protéine Spike attaqueraient aussi la syncytine-1, protéine nécessaire au placenta, sur la base d'une courte séquence commune de quatre acides aminés. Elle vient d'un texte du 1er décembre 2020 adressé à l'Agence européenne du médicament par Michael Yeadon, ancien chercheur de Pfizer parti en 2011, et le médecin allemand Wolfgang Wodarg, texte qui reconnaît lui-même qu'aucune indication ne va dans ce sens. Frédéric Altare (Inserm) : les anticorps reconnaissent la forme en trois dimensions des protéines, pas une simple séquence. Annette Beck-Sickinger (université de Leipzig) : si l'argument était vrai, les femmes infectées par le virus seraient devenues stériles, ce qui n'est pas observé.",
+      "pertinence": "Média santé du service public, reprenant une vérification de l'AFP.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "COVID-19 vaccines don't cause infertility or harm pregnancy chances, Boston University research shows",
+      "organisme": "Boston University School of Public Health — communiqué (EurekAlert!) sur une étude publiée dans l’American Journal of Epidemiology",
+      "date_publication": "24 janvier 2022",
+      "url": "https://www.eurekalert.org/news-releases/941072",
+      "passage": "Étude de cohorte prospective (PRESTO) sur 2 126 femmes des États-Unis et du Canada essayant de concevoir, suivies de décembre 2020 à novembre 2021 : la probabilité de conception par cycle est quasiment identique chez les femmes ayant reçu au moins une dose et chez les non-vaccinées, et de même chez les partenaires masculins. Les hommes testés positifs au Covid dans les 60 jours précédant un cycle ont une fécondabilité réduite. Amelia Wesselink : « COVID-19 vaccination in either partner is unrelated to fertility among couples trying to conceive ».",
+      "pertinence": "Communiqué universitaire sur une étude publiée dans une revue à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "No association between COVID-vaccine and decrease in childbirth",
+      "organisme": "Université de Linköping (Suède) — communiqué sur une étude publiée dans Communications Medicine",
+      "date_publication": "5 février 2026",
+      "url": "https://liu.se/en/news-item/no-link-between-the-covid-vaccine-and-reduced-childbirth",
+      "passage": "Près de 60 000 femmes de 18 à 45 ans de la région de Jönköping, dont environ 75 % ont reçu au moins une dose entre 2021 et 2024 : aucune différence statistiquement significative des taux de naissances entre vaccinées et non vaccinées, ni des fausses couches enregistrées, en tenant compte de l'âge. Toomas Timpka : « We see no difference in childbirth rates between those who have taken the vaccine and those who haven't. » La baisse des naissances s'expliquerait surtout par la faible natalité des années 1990 et par des facteurs liés à la pandémie.",
+      "pertinence": "Communiqué universitaire sur une étude publiée dans une revue à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "COVID-19 vaccines safety update (Rev. 31)",
+      "organisme": "Agence européenne des médicaments (EMA)",
+      "date_publication": "10 novembre 2022",
+      "url": "https://www.ema.europa.eu/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-10-november-2022_en.pdf",
+      "passage": "Les saignements menstruels abondants sont ajoutés comme effet indésirable de Comirnaty et Spikevax, de fréquence « not known » ; les cas examinés étaient « mostly non-serious » et « temporary ». « There is no evidence to suggest that menstrual changes experienced by some people following vaccination have any impact on fertility. » « Several studies involving around 65,000 pregnancies at different stages did not find any sign of an increased risk of pregnancy complications, miscarriages, preterm births or adverse effects in the unborn babies ».",
+      "pertinence": "Document officiel de l'agence européenne du médicament.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nouvelles données en faveur d'un risque accru de saignements menstruels abondants après la primovaccination contre le Covid-19",
+      "organisme": "ANSM (Agence nationale de sécurité du médicament et des produits de santé)",
+      "date_publication": "24 janvier 2024",
+      "url": "https://ansm.sante.fr/actualites/nouvelles-donnees-en-faveur-dun-risque-accru-de-saignements-menstruels-abondants-apres-la-primovaccination-contre-le-covid-19",
+      "passage": "Étude cas-témoins EPI-PHARE : 4 610 femmes de 15 à 50 ans hospitalisées pour saignements menstruels abondants entre le 12 mai 2021 et le 31 août 2022, comparées à 89 375 témoins. Le risque « était augmenté de 20 % » dans les 1 à 3 mois suivant une primovaccination ; il n'est pas augmenté au-delà de 3 mois, et « les résultats ne suggèrent pas d'augmentation du risque » après une dose de rappel.",
+      "pertinence": "Agence publique française du médicament.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouvelles études de registres sur la fertilité et la natalité après vaccination.",
+  "objections_legitimes": [
+    "Des troubles des règles après la vaccination ont réellement été observés et reconnus comme effet indésirable.",
+    "L'infection par le Covid elle-même peut réduire passagèrement la fertilité masculine, ce qui montre que la question n'était pas absurde.",
+    "La baisse des naissances dans plusieurs pays est réelle et mérite des explications."
+  ],
+  "publics": {
+    "convaincus": "Si les vaccins rendaient stérile, les femmes vaccinées auraient moins d'enfants que les autres. On l'a vérifié en Suède sur près de 60 000 femmes : aucune différence. Et l'idée de départ, que les anticorps attaqueraient le placenta, voudrait dire que toutes les femmes qui ont eu le Covid seraient devenues stériles.",
+    "indecis": "C'est normal de s'interroger quand on veut un enfant. Les études qui comparent vaccinées et non vaccinées ne montrent aucune baisse des grossesses ni des naissances. Le vaccin peut en revanche perturber les règles pendant quelques semaines : c'est reconnu, passager, et sans effet démontré sur la fertilité."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "services_publics",
+      "vulnerables",
+      "dignite"
+    ],
+    "mecanismes": "Une hypothèse sans preuve, lancée par des figures présentées comme d’anciens initiés, joue sur la peur la plus intime, celle de ne pas pouvoir avoir d’enfant. Elle s’appuie sur des troubles réels des règles, longtemps mal pris en compte, pour bâtir une conclusion fausse.",
+    "consequences": "Des femmes renoncent à se protéger ou culpabilisent après une vaccination, alors que l’infection elle-même comporte des risques pendant la grossesse et peut réduire la fertilité masculine.",
+    "democratie": "La confiance dans la santé publique suppose que les agences écoutent les témoignages des femmes et publient leurs résultats, y compris quand ils révèlent des effets indésirables.",
+    "propositions": [
+      "Inclure systématiquement la santé gynécologique et menstruelle dans les essais et le suivi des médicaments.",
+      "Garantir l’indépendance et les moyens de la pharmacovigilance publique.",
+      "Informer clairement les femmes sur les effets réels et passagers des vaccins, plutôt que de les taire."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les agences européenne et française ont reconnu que les vaccins à ARN peuvent provoquer des règles plus abondantes pendant quelques semaines.",
+        "integration": "Le dire franchement rend crédible la réponse principale : ces troubles sont passagers et les études ne montrent aucune baisse de la fertilité."
+      }
+    ]
+  },
+  "concepts": [
+    "vaccin_sterilite",
+    "demographie",
+    "desinformation",
+    "femmes",
+    "vaccin"
+  ],
+  "repond_a": [
+    {
+      "id": "vaccin_sterilite_q1215",
+      "label": "Vaccins Covid et fertilité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "natalite",
+    "enfants par femme",
+    "font des gosses",
+    "font plus d enfants",
+    "un tiers de la population",
+    "population",
+    "de plus en plus d",
+    "trop d",
+    "nombre d",
+    "desinformation",
+    "fake news",
+    "manipulation de l information"
+  ]
+}

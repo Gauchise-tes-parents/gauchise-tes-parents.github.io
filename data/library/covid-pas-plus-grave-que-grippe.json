@@ -1,0 +1,231 @@
+{
+  "id": "covid-pas-plus-grave-que-grippe",
+  "type": "idee_recue",
+  "affirmation": "Le Covid n'était pas plus grave qu'une grippe.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "covid grippe",
+    "covid petite grippe",
+    "covid pas plus grave",
+    "grippette",
+    "covid mortalite grippe",
+    "morts du covid",
+    "surmortalite covid",
+    "covid long"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Contredit. En 2020, le Covid a directement causé 69 000 décès en France, devenant la troisième cause de mortalité, malgré les confinements. De mars 2020 à fin 2022, l'Insee compte 153 500 décès de plus qu'attendu. À titre de comparaison, la grippe 2024-2025, l'une des plus sévères depuis 2009, a entraîné une surmortalité d'environ 17 600 décès. À l'hôpital, en 2020, les patients Covid mouraient trois fois plus que les patients grippés. L'écart s'est réduit avec la vaccination et l'immunité, mais il reste.",
+  "contexte": "L'expression « petite grippe » a circulé dès le début de la pandémie, et la comparaison revient pour contester après coup les confinements ou la vaccination. Elle s'appuie sur un fait réel : pour la plupart des personnes jeunes, l'infection était bénigne.",
+  "explication": "Il faut comparer des chiffres de même nature : décès certifiés, surmortalité, mortalité à l'hôpital, et tenir compte du fait que le Covid a frappé une population sans immunité, malgré des mesures de protection exceptionnelles.",
+  "faits": [
+    {
+      "fait": "En 2020, la Covid-19 a directement causé 69 000 décès en France, soit 10,4 % des décès, devenant la troisième cause de mortalité derrière les cancers et les maladies cardio-neurovasculaires.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Une maladie qui devient en une année la troisième cause de décès du pays n'est pas une grippe ordinaire.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "69 000"
+    },
+    {
+      "fait": "Selon l'Insee, la France a connu 153 500 décès de plus qu'attendu entre mars 2020 et décembre 2022 (+48 400 en 2020, +42 700 en 2021, +53 800 en 2022).",
+      "periode": "2020-2022",
+      "perimetre": "France",
+      "explication": "La surmortalité mesure les morts en trop, quelle qu'en soit la cause certifiée : elle confirme l'ampleur du choc sur trois ans.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "153 500"
+    },
+    {
+      "fait": "L'épidémie de grippe 2024-2025, qui « fait partie des épidémies les plus sévères depuis la dernière pandémie grippale en 2009 », a entraîné une surmortalité d'environ 17 600 décès toutes causes confondues.",
+      "periode": "2024-2025",
+      "perimetre": "France hexagonale",
+      "explication": "Même une grippe très sévère reste loin des 69 000 décès attribués au Covid en 2020.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "17 600"
+    },
+    {
+      "fait": "Selon une étude Inserm sur les hospitalisations en France, la mortalité hospitalière était de 16,9 % pour le Covid au printemps 2020 contre 5,8 % pour la grippe saisonnière 2018-2019.",
+      "periode": "2018-2020",
+      "perimetre": "France",
+      "explication": "À l'hôpital, un patient Covid avait environ trois fois plus de risques de mourir qu'un patient grippé.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "16,9 %"
+    },
+    {
+      "fait": "Selon Lori Solomon, Fait défavorable : chez les vétérans américains hospitalisés à l'hiver 2023-2024, la mortalité à 30 jours était de 5,70 % pour le Covid contre 4,24 % pour la grippe.",
+      "periode": "2023-2024",
+      "perimetre": "États-Unis (vétérans)",
+      "explication": "Avec la vaccination et l'immunité acquise, l'écart s'est fortement réduit ; le Covid reste toutefois plus mortel que la grippe chez les patients hospitalisés.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "5,70 %"
+    },
+    {
+      "fait": "Fait défavorable : un peu plus de la moitié des personnes mortes du Covid en 2020 avaient 85 ans ou plus, et l'excès de décès cette année-là (47 000) est inférieur aux décès attribués au Covid.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Le Covid a surtout tué des personnes très âgées, dont certaines seraient mortes d'une autre cause ; mais la surmortalité reste énorme et s'est poursuivie jusqu'en 2022.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Santé publique France, au printemps 2022, 4 % des adultes, soit environ 2,06 millions de personnes, présentaient une affection post-Covid répondant à la définition de l'OMS.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Au-delà des décès, le Covid a laissé des séquelles durables chez des millions de personnes.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "2,06 millions"
+    }
+  ],
+  "argumentaires": {
+    "court": "En 2020, le Covid a tué 69 000 personnes en France malgré les confinements, devenant la troisième cause de décès. Une grippe très sévère comme celle de 2024-2025 entraîne environ 17 600 décès en excès. À l'hôpital, en 2020, on mourait trois fois plus du Covid que de la grippe.",
+    "moyen": "En 2020, la Covid-19 a directement causé 69 000 décès en France et est devenue la troisième cause de mortalité, alors même que les confinements et les gestes barrières freinaient l'épidémie. L'Insee compte 153 500 décès de plus qu'attendu entre mars 2020 et fin 2022. À comparer avec la grippe 2024-2025, l'une des plus sévères depuis 2009 : environ 17 600 décès en excès.\n\nÀ l'hôpital, au printemps 2020, 16,9 % des patients Covid sont morts contre 5,8 % des patients grippés l'hiver précédent. Avec la vaccination et l'immunité acquise, l'écart s'est beaucoup réduit, mais le Covid reste plus mortel que la grippe chez les patients hospitalisés. Il a aussi laissé environ deux millions d'adultes avec un Covid long en 2022.",
+    "detaille": "La comparaison avec la grippe repose sur une impression réelle : pour la plupart des jeunes adultes, l'infection a été bénigne. Mais à l'échelle d'un pays, les chiffres sont sans appel. Selon la DREES, l'Inserm et Santé publique France, la Covid-19 a directement causé 69 000 décès en 2020, soit plus d'un décès sur dix, et devient la troisième cause de mortalité. L'Insee mesure 48 400 décès en excès en 2020, 42 700 en 2021 et 53 800 en 2022, et ce malgré des mesures de protection exceptionnelles qui ont aussi fait reculer d'autres maladies infectieuses.\n\nLa grippe tue aussi, et il ne faut pas la minimiser : l'épidémie de 2024-2025, l'une des plus sévères depuis 2009, a provoqué une surmortalité d'environ 17 600 décès. Mais même une grippe très sévère reste plusieurs fois en dessous d'une année de Covid. À l'hôpital, une étude Inserm montre qu'au printemps 2020, 16,9 % des patients hospitalisés pour Covid sont morts, contre 5,8 % des patients grippés de l'hiver précédent, avec des séjours en réanimation deux fois plus longs.\n\nLa situation a changé. Grâce aux vaccins et à l'immunité acquise par les infections, le Covid est aujourd'hui beaucoup moins meurtrier qu'en 2020 : chez les vétérans américains hospitalisés à l'hiver 2023-2024, la mortalité était de 5,7 % pour le Covid contre 4,2 % pour la grippe. Dire que le Covid est aujourd'hui proche d'une grippe sévère se discute ; dire qu'il ne l'a jamais dépassée est faux. Il faut ajouter le Covid long, qui touchait environ 2 millions d'adultes en France au printemps 2022.",
+    "empathie": "Beaucoup de gens ont eu un Covid léger, ou ont vécu les confinements comme une contrainte disproportionnée : leur ressenti est réel. Mais les décès se sont concentrés chez les plus âgés et les plus fragiles, souvent à l'abri des regards, dans les hôpitaux et les Ehpad."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On a compté comme morts du Covid des gens morts avec le Covid.",
+      "reponse": "L'Insee mesure les décès en trop par rapport à la normale, quelle qu'en soit la cause : 153 500 entre mars 2020 et fin 2022. Cela ne dépend pas de ce qui est écrit sur les certificats."
+    },
+    {
+      "objection": "La grippe tue aussi des milliers de personnes chaque hiver.",
+      "reponse": "Oui, environ 17 600 décès en excès pour la grippe très sévère de 2024-2025. Le Covid en a causé 69 000 en 2020, malgré les confinements."
+    },
+    {
+      "objection": "Ça ne tuait que des personnes déjà condamnées.",
+      "reponse": "Un peu plus de la moitié des victimes avaient 85 ans ou plus, mais près de la moitié avaient moins de 85 ans, et la surmortalité s'est prolongée trois ans."
+    }
+  ],
+  "questions": [
+    "Combien de personnes meurent de la grippe une mauvaise année, et combien du Covid en 2020 ?",
+    "Pourquoi la surmortalité a-t-elle duré trois ans si ce n'était qu'une grippe ?"
+  ],
+  "limites": [
+    "Les comparaisons entre Covid et grippe mélangent des périodes et des populations différentes : la grippe circule face à une population en partie immunisée et vaccinée, le Covid a frappé en 2020 une population sans immunité.",
+    "L'étude Inserm compare le printemps 2020 à l'hiver 2018-2019, et le dépistage de la grippe à l'hôpital est moins systématique, ce qui peut gonfler l'écart.",
+    "L'étude américaine de 2023-2024 porte sur des vétérans, surtout des hommes âgés, et a été lue à travers un compte rendu de presse.",
+    "Les chiffres de l'Insee pour 2020-2022 sont provisoires ; le chiffre du Covid long date de 2022 et n'a pas été actualisé ici."
+  ],
+  "sources": [
+    {
+      "titre": "Covid-19 : troisième cause de décès en France en 2020, quand les autres grandes causes de décès baissent",
+      "organisme": "DREES, Inserm-CépiDc et Santé publique France",
+      "date_publication": "14 décembre 2022",
+      "url": "https://www.santepubliquefrance.fr/presse/2022/covid-19-troisieme-cause-de-deces-en-france-en-2020-quand-les-autres-grandes-causes-de-deces-baissent",
+      "passage": "En 2020, la Covid-19 a directement causé 69 000 décès en France, soit 10,4 % des décès : troisième cause de décès derrière les tumeurs (25,6 %) et les maladies cardio-neurovasculaires (20,2 %). Un peu plus de la moitié des victimes avaient 85 ans ou plus ; à âge égal, le taux de mortalité des hommes est deux fois supérieur. La mortalité par maladies respiratoires et infectieuses hors Covid a diminué, possiblement grâce aux mesures de prévention. L'excès de décès en 2020 est estimé à 47 000, inférieur aux décès attribués au Covid, notamment parce que certaines personnes seraient de toute façon décédées d'une autre cause.",
+      "pertinence": "Analyse officielle des certificats de décès.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "53 800 décès de plus qu'attendus en 2022 : une surmortalité plus élevée qu'en 2020 et 2021",
+      "organisme": "Nathalie Blanpain, Insee (Insee Première n° 1951)",
+      "date_publication": "6 juin 2023",
+      "url": "https://insee.fr/fr/statistiques/7628176",
+      "passage": "Surmortalité par rapport aux décès attendus : +48 400 décès en 2020 (+7,8 %), +42 700 en 2021 (+6,9 %), +53 800 en 2022 (+8,7 %). De mars 2020 à décembre 2022, l'excès de décès (+153 500) est inférieur aux décès liés au Covid recensés par Santé publique France (+162 000) et aux certificats mentionnant le Covid (196 100, Inserm-CépiDc). En 2022, la grippe, presque absente en 2021, a connu deux épidémies inhabituelles qui ont pu contribuer à l'excès. Données provisoires.",
+      "pertinence": "Statistique publique de référence sur la mortalité.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Surveillance de la grippe en France hexagonale, saison 2024-2025",
+      "organisme": "Santé publique France (Bulletin épidémiologique hebdomadaire, 2025, n° 17), Sibylle Bernard-Stoecklin et al.",
+      "date_publication": "14 octobre 2025",
+      "url": "https://www.santepubliquefrance.fr/grippe/article/surveillance-de-la-grippe-en-france-hexagonale-saison-2024-2025",
+      "passage": "L'épidémie 2024-2025 « fait partie des épidémies les plus sévères depuis la dernière pandémie grippale en 2009 », avec près de 2 millions de consultations, 30 000 hospitalisations après passage aux urgences et « une surmortalité importante (environ 17 600 décès toutes causes confondues) ».",
+      "pertinence": "Agence nationale de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "COVID-19 Causes 3 Times More Deaths Than Seasonal Flu",
+      "organisme": "Inserm — communiqué sur l’étude de L. Piroth, C. Quantin et al. publiée dans The Lancet Respiratory Medicine",
+      "date_publication": "18 décembre 2020",
+      "url": "https://presse.inserm.fr/en/covid-19-causes-3-times-more-deaths-than-seasonal-flu/60165/",
+      "passage": "À partir des données hospitalières nationales : 89 530 patients hospitalisés pour Covid-19 (mars-avril 2020) et 45 819 pour la grippe saisonnière (décembre 2018-février 2019). Mortalité hospitalière : 16,9 % (15 104 décès) pour le Covid contre 5,8 % (2 640) pour la grippe. Admission en soins intensifs : 16,3 % contre 10,8 % ; durée moyenne en réanimation : 15 jours contre 8. Chez les moins de 5 ans, moins de formes graves de Covid que de grippe, avec une mortalité très faible dans les deux cas. Limites : dépistage de la grippe variable selon les hôpitaux, immunité préexistante contre la grippe.",
+      "pertinence": "Communiqué de l'institut public de recherche médicale sur une étude à comité de lecture.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Mortality Higher for COVID-19 Hospitalization Than for Flu in 2023/2024 Season",
+      "organisme": "Lori Solomon, HealthDay — compte rendu d’une étude de Z. Al-Aly et al. publiée dans JAMA",
+      "date_publication": "22 mai 2024",
+      "url": "https://www.healthday.com/healthpro-news/coronavirus/mortality-higher-for-covid-19-hospitalization-than-for-flu-in-20232024-season",
+      "passage": "Chez les vétérans américains hospitalisés à l'automne-hiver 2023-2024 : 8 625 hospitalisations pour Covid-19 et 2 647 pour la grippe. Mortalité ajustée à 30 jours : 5,70 % pour le Covid contre 4,24 % pour la grippe (hazard ratio 1,35 ; IC à 95 % 1,10 à 1,66).",
+      "pertinence": "Compte rendu de presse d'une étude publiée dans une revue médicale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Publication des premiers résultats sur la prévalence des « affections post-COVID-19 » ou « COVID long »",
+      "organisme": "Santé publique France",
+      "date_publication": "22 juillet 2022",
+      "url": "https://www.santepubliquefrance.fr/presse/publication-des-premiers-resultats-sur-la-prevalence-des-affections-post-covid-19-ou-covid",
+      "passage": "Enquête menée du 22 mars au 8 avril 2022 auprès de 27 537 personnes de 18 ans et plus : 4 % remplissaient les critères d'une affection post-Covid-19 (définition de l'OMS : symptômes persistant au moins 2 mois, inexpliqués par un autre diagnostic et ayant un impact sur la vie quotidienne), soit environ 2,06 millions d'adultes ; 30 % parmi les personnes infectées plus de trois mois auparavant.",
+      "pertinence": "Agence nationale de santé publique.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouvelles données de causes de décès (CépiDc) et bilans des saisons de grippe et de Covid.",
+  "objections_legitimes": [
+    "Pour la plupart des enfants et des jeunes adultes, le Covid était le plus souvent bénin.",
+    "Une partie des décès attribués au Covid concernait des personnes très âgées et déjà malades.",
+    "Aujourd'hui, avec la vaccination et l'immunité, le Covid est beaucoup moins mortel qu'en 2020."
+  ],
+  "publics": {
+    "convaincus": "Comparez avec la pire grippe de ces quinze dernières années, celle de 2024-2025 : environ 17 600 décès en trop. Le Covid, c'est 69 000 morts en 2020, alors qu'on était confinés, et l'Insee compte 153 500 décès en trop sur trois ans, sans regarder ce qu'il y a sur les certificats. Ce n'était pas une grippe.",
+    "indecis": "Beaucoup de gens ont eu un Covid léger, et c'est vrai qu'il est aujourd'hui bien moins dangereux grâce aux vaccins et à l'immunité. Mais en 2020, il a tué environ quatre fois plus qu'une grippe très sévère, surtout chez les personnes âgées, et il a laissé des séquelles durables chez environ deux millions d'adultes."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "solidarite",
+      "services_publics",
+      "dignite"
+    ],
+    "mecanismes": "Le ressenti individuel d’une infection bénigne est étendu à toute la population, ce qui efface les morts, concentrés chez les personnes âgées et fragiles, souvent à l’hôpital ou en Ehpad, loin des regards.",
+    "consequences": "Minimiser la pandémie revient à considérer que la vie des plus âgés et des plus fragiles compte moins, et à oublier les soignants épuisés et les personnes atteintes de Covid long.",
+    "democratie": "Tirer les leçons de la pandémie suppose de partir des chiffres de la statistique publique, pour débattre sereinement des mesures prises et de celles qui ont manqué.",
+    "propositions": [
+      "Renforcer durablement l’hôpital public et les Ehpad publics, en personnels et en lits.",
+      "Reconnaître et prendre en charge le Covid long, notamment en arrêt de travail et en maladie professionnelle pour les soignants.",
+      "Préparer les prochaines épidémies par des stocks publics et une recherche publique indépendante."
+    ],
+    "defavorables": [
+      {
+        "fait": "Avec la vaccination et l’immunité acquise, l’écart de mortalité entre Covid et grippe à l’hôpital s’est fortement réduit.",
+        "integration": "Le reconnaître permet de dire honnêtement que le Covid d’aujourd’hui n’est plus celui des premières vagues, sans réécrire ce qui s’est passé."
+      }
+    ]
+  },
+  "concepts": [
+    "covid_grippe",
+    "desinformation"
+  ],
+  "repond_a": [
+    {
+      "id": "covid_grippe_q1215",
+      "label": "Covid et grippe"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "grippette",
+    "desinformation",
+    "fake news",
+    "manipulation de l information"
+  ]
+}

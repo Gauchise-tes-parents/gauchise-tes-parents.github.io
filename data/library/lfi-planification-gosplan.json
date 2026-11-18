@@ -231,12 +231,6 @@
       }
     ]
   },
-  "concepts": [
-    "melenchon_lfi",
-    "gauche",
-    "ecologie",
-    "planification"
-  ],
   "repond_a": [
     {
       "id": "planification_q0614",
@@ -269,5 +263,11 @@
     "mitterrand",
     "jospin",
     "front populaire"
+  ],
+  "concepts": [
+    "melenchon_lfi",
+    "gauche",
+    "ecologie",
+    "planification"
   ]
 }

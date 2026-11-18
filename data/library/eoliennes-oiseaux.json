@@ -236,11 +236,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "eolien",
-    "eolien_oiseaux"
-  ],
   "repond_a": [
     {
       "id": "eolien_oiseaux_q0614",
@@ -258,5 +253,10 @@
   "ne_repond_pas": [],
   "synonymes": [
     "nucleaire"
+  ],
+  "concepts": [
+    "ecologie",
+    "eolien",
+    "eolien_oiseaux"
   ]
 }

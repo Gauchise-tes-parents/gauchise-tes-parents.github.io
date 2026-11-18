@@ -1,0 +1,232 @@
+{
+  "id": "mariages-blancs-papiers",
+  "type": "idee_recue",
+  "affirmation": "Les mariages blancs explosent pour obtenir des papiers.",
+  "volet": "immigration",
+  "sous_theme": "Nationalité et accès aux droits",
+  "rubriques": [],
+  "mots_cles": [
+    "mariage blanc",
+    "mariages blancs papiers",
+    "mariage de complaisance",
+    "mariage gris",
+    "se marier pour les papiers",
+    "mariage frauduleux",
+    "mariage mixte titre de sejour",
+    "nationalite par mariage"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Aucune donnée publique ne montre d'explosion : un rapport de l'Assemblée nationale de 2025 reconnaît que l'ampleur des mariages frauduleux est « mal connue », faute de statistiques. Le seul chiffre récent est d'environ 700 personnes mises en cause pénalement en 2024. Les mariages mixtes célébrés en France sont moins nombreux qu'en 2003. Et se marier ne donne pas de papiers automatiquement : il faut une entrée régulière, une vie commune réelle, des années d'attente et des contrôles, avec jusqu'à cinq ans de prison en cas de fraude.",
+  "contexte": "L'idée revient à chaque débat sur l'immigration et a nourri des propositions de loi en 2023 et 2025, dont une visant à interdire le mariage aux étrangers en situation irrégulière.",
+  "explication": "On regarde ce que l'on sait vraiment des mariages de complaisance (signalements, oppositions, poursuites), l'évolution des mariages entre Français et étrangers, et les conditions réelles pour obtenir un titre de séjour ou la nationalité par mariage.",
+  "faits": [
+    {
+      "fait": "Selon le rapport de l'Assemblée nationale sur la proposition de loi contre les mariages simulés, « l'ampleur du phénomène des mariages frauduleux est mal connue, faute malheureusement d'être documentée par l'administration ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Même les promoteurs d'un durcissement reconnaissent qu'aucune statistique ne mesure le phénomène : parler d'explosion n'a pas de base chiffrée.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En 2024, environ 700 personnes ont été mises en cause pénalement pour mariage ou reconnaissance d'enfant frauduleux (article L. 823-11 du CESEDA), selon le service statistique du ministère de l'Intérieur cité par le rapport.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "C'est le seul indicateur récent ; le rapport ne donne pas son évolution dans le temps.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "700"
+    },
+    {
+      "fait": "Selon l'Insee, les mariages mixtes célébrés en France ont culminé en 2003 avec 47 500 unions (17 % des mariages), avant de baisser à 30 800 en 2010 et de remonter à 33 800 en 2015.",
+      "periode": "2003-2015",
+      "perimetre": "France",
+      "explication": "Le nombre de mariages entre Français et étrangers n'est pas en hausse spectaculaire : il est inférieur au niveau du début des années 2000.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "47 500"
+    },
+    {
+      "fait": "Le rapport de l'Assemblée nationale compte 32 740 mariages entre un(e) Français(e) et une personne étrangère en 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Ce chiffre, donné sans source précise, reste du même ordre que celui de 2015 et inférieur au record de 2003.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "32 740"
+    },
+    {
+      "fait": "Fait défavorable : en 2004, les parquets ont reçu 5 272 signalements (environ 2 % des mariages) et prononcé 444 oppositions ; dans 94,8 % des oppositions, ils estimaient que le mariage visait à régulariser ou prolonger un séjour. Les signalements de mariages célébrés à l'étranger sont passés de 346 en 1998 à 1 733 en 2005.",
+      "periode": "1998-2005",
+      "perimetre": "France",
+      "explication": "La fraude existe et a été combattue : ces chiffres, anciens, montrent des oppositions qui se comptent en centaines, pas une vague massive.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "444"
+    },
+    {
+      "fait": "Le mariage n'ouvre pas de droit automatique : il faut une entrée régulière et six mois de vie commune pour une carte d'un an, trois ans de mariage pour une carte de résident et quatre ans de communauté de vie pour demander la nationalité.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les délais et la condition de vie commune réelle rendent le « mariage pour les papiers » long et risqué.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Un mariage contracté pour obtenir un titre de séjour est nul, et la fraude est punie de cinq ans d'emprisonnement et de 15 000 euros d'amende ; le procureur, saisi par l'officier d'état civil, peut surseoir au mariage ou s'y opposer.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Des outils de contrôle et de sanction existent déjà.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le Conseil constitutionnel a jugé en 2003 que l'irrégularité du séjour « ne peut faire obstacle, par lui-même, au mariage de l'intéressé ».",
+      "periode": "2003",
+      "perimetre": "France",
+      "explication": "Interdire le mariage aux sans-papiers se heurterait à la liberté du mariage, protégée par la Constitution.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Rien ne montre une explosion : l'Assemblée nationale elle-même reconnaît en 2025 que le phénomène est « mal connu », faute de statistiques. Environ 700 personnes ont été mises en cause pour fraude en 2024, et les mariages entre Français et étrangers sont moins nombreux qu'en 2003. Se marier ne donne pas de papiers automatiquement : il faut des années de vie commune et la fraude est punie de cinq ans de prison.",
+    "moyen": "Il n'existe pas de statistique publique régulière sur les mariages de complaisance. Le rapport de l'Assemblée nationale sur la loi de 2025 contre les mariages simulés le dit lui-même : l'ampleur du phénomène est « mal connue ». Le seul chiffre récent est celui des poursuites : environ 700 personnes mises en cause en 2024 pour mariage ou reconnaissance d'enfant frauduleux. Les dernières données détaillées sur les signalements au parquet datent de 2004 : 5 272 signalements et 444 oppositions.\n\nLes mariages entre Français et étrangers ne s'envolent pas non plus : l'Insee en comptait 47 500 en 2003, 33 800 en 2015, et le rapport parlementaire 32 740 en 2024. Enfin, le mariage n'est pas un raccourci : entrée régulière, vie commune vérifiée, trois ans pour une carte de résident, quatre ans pour la nationalité, et jusqu'à cinq ans de prison en cas de fraude.",
+    "detaille": "Un « mariage blanc » est un mariage conclu sans intention de vivre ensemble, uniquement pour obtenir un titre de séjour ou la nationalité. Il est nul et constitue un délit : le code de l'entrée et du séjour des étrangers le punit de cinq ans d'emprisonnement et de 15 000 euros d'amende.\n\nCombien y en a-t-il ? Personne ne le sait précisément. Le rapport de l'Assemblée nationale sur la proposition de loi adoptée par le Sénat en 2025 écrit que l'ampleur du phénomène est « mal connue, faute malheureusement d'être documentée par l'administration ». Il cite environ 700 personnes mises en cause pénalement en 2024, sans évolution sur plusieurs années, et 343 contestations en justice d'oppositions du procureur en 2023. Les derniers chiffres complets datent de 2004 : 5 272 signalements au parquet, soit environ 2 % des mariages, et 444 oppositions. À l'époque, les signalements de mariages célébrés à l'étranger avaient nettement augmenté entre 1998 et 2005 ; la loi de 2006 a renforcé les contrôles.\n\nCôté mariages mixtes, l'Insee observe un record en 2003 (47 500, soit 17 % des mariages), puis une baisse : 33 800 en 2015, et 32 740 en 2024 selon le rapport parlementaire. Rien ne ressemble à une explosion.\n\nObtenir des papiers par le mariage est long et surveillé. Si l'entrée en France était régulière, une carte d'un an est délivrée après six mois de vie commune ; la carte de résident vient après trois ans de mariage, et la nationalité peut être demandée après quatre ans de communauté de vie. L'officier d'état civil peut saisir le procureur, qui peut suspendre ou interdire le mariage. Aller plus loin, en interdisant le mariage aux étrangers sans papiers, se heurte à la Constitution : en 2003, le Conseil constitutionnel a jugé qu'un séjour irrégulier ne peut à lui seul empêcher de se marier.",
+    "empathie": "Il est légitime de vouloir que les règles soient respectées et que personne ne soit exploité par un faux mariage, y compris les conjoints français parfois trompés. Mais on ne peut pas bâtir une loi sur une impression, surtout quand elle touche à la liberté d'aimer et de se marier."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le ministère cache les chiffres.",
+      "reponse": "C'est le rapport parlementaire écrit pour durcir la loi qui reconnaît que le phénomène n'est pas documenté. Les seuls chiffres disponibles, environ 700 mises en cause par an, ne décrivent pas une explosion."
+    },
+    {
+      "objection": "Il suffit de se marier pour avoir la nationalité.",
+      "reponse": "Non : il faut au moins quatre ans de communauté de vie réelle, et pour un titre de séjour une entrée régulière et une vie commune vérifiée. La fraude rend le mariage nul et expose à cinq ans de prison."
+    }
+  ],
+  "questions": [
+    "Si les mariages blancs explosaient, pourquoi le nombre de mariages entre Français et étrangers serait-il plus bas qu'en 2003 ?",
+    "Faut-il soupçonner chaque couple mixte, alors que la grande majorité sont de vrais couples ?"
+  ],
+  "limites": [
+    "Il n'existe pas de série statistique publique sur les mariages de complaisance : les chiffres détaillés de signalements et d'oppositions datent de 2004.",
+    "Le chiffre de 32 740 mariages mixtes en 2024 vient du rapport de l'Assemblée nationale, sans source précise ; il n'est pas strictement comparable aux séries de l'Insee (champ, Mayotte, mariages transcrits).",
+    "Le nombre de mariages célébrés à l'étranger puis transcrits, très nombreux, n'a été lu que pour 2015.",
+    "Les pages de Légifrance (code civil, CESEDA) n'ont pas été ouvertes : les conditions sont tirées du rapport parlementaire."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport sur la proposition de loi, adoptée par le Sénat, visant à renforcer les prérogatives des officiers de l'état civil et du ministère public pour lutter contre les mariages simulés ou arrangés (n° 1583)",
+      "organisme": "Assemblée nationale, commission des lois — rapporteur Éric Michoux",
+      "date_publication": "16 juin 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1583_rapport-fond.pdf",
+      "passage": "Page 6 : « l'ampleur du phénomène des mariages frauduleux est mal connue, faute malheureusement d'être documentée par l'administration ». « En 2024, environ 700 personnes ont ainsi été mises en cause pénalement » sur le fondement de l'article L. 823-11 du CESEDA (source : service statistique ministériel de la sécurité intérieure). Mariages entre un(e) Français(e) et une personne étrangère : « 32 740 mariages en 2024 ». En 2023, « 343 demandes en mainlevée de l'opposition du procureur à la célébration du mariage ». Le procureur dispose de quinze jours pour laisser procéder au mariage, s'y opposer ou surseoir ; le sursis est d'un mois renouvelable une fois, la proposition le porte à deux mois. Carte d'un an après six mois de vie commune si l'entrée en France était régulière ; carte de résident après trois ans de mariage ; déclaration de nationalité après quatre ans de mariage si la communauté de vie n'a pas cessé. Un mariage contracté pour obtenir un titre est nul ; le CESEDA punit cette fraude de cinq ans d'emprisonnement et de 15 000 euros d'amende.",
+      "pertinence": "Rapport parlementaire récent ; il reconnaît lui-même l'absence de statistiques administratives.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport n° 492 (2005-2006) sur le projet de loi relatif au contrôle de la validité des mariages — B. Des moyens de lutte insuffisants encadrés par des principes constitutionnels",
+      "organisme": "Sénat, commission des lois",
+      "date_publication": "2006",
+      "url": "https://www.senat.fr/rap/l05-492/l05-4922.html",
+      "passage": "En 2004, les procureurs ont reçu 5 272 signalements, soit environ 2 % des mariages célébrés en France, qui ont abouti à « 444 oppositions » ; 91,5 % des oppositions concernaient un couple mixte et, dans 94,8 % des cas, le parquet estimait que le mariage visait à régulariser ou prolonger le séjour. Mariages célébrés à l'étranger signalés au parquet de Nantes : 346 en 1998, 1 359 en 2004, 1 733 en 2005. « le nombre d'annulations prononcées n'est pas connu ». Quatorze condamnations pénales en 2004. Le Conseil constitutionnel a jugé (1993, 2003) que la liberté du mariage est une composante de la liberté individuelle et qu'un séjour irrégulier ne suffit pas à prouver l'absence de consentement.",
+      "pertinence": "Rapport parlementaire ; dernières données chiffrées détaillées disponibles, mais anciennes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "236 300 mariages célébrés en France en 2015, dont 33 800 mariages mixtes (Insee Première n° 1638)",
+      "organisme": "Insee — Vanessa Bellamy",
+      "date_publication": "mars 2017",
+      "url": "https://www.insee.fr/fr/statistiques/2656612",
+      "passage": "En 2015, 33 800 des 236 300 mariages célébrés en France étaient mixtes (14 %), contre 6 % en 1950. Record en 2003 avec 47 500 mariages mixtes (17 %), puis forte baisse : 30 800 en 2010 (12 %), 33 800 en 2015. Ces évolutions « traduisent en partie celles des flux migratoires ». En 2015, 46 300 mariages célébrés à l'étranger ont été transcrits, dont environ 91 % mixtes.",
+      "pertinence": "Statistique publique de référence sur les mariages.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Combien y a-t-il de mariages mixtes en France ?",
+      "organisme": "Ined (Institut national d’études démographiques)",
+      "date_publication": "mise à jour du 14 avril 2020",
+      "url": "https://www.ined.fr/fr/tout-savoir-population/memos-demo/faq/mariages-mixtes-france/",
+      "passage": "« Un mariage célébré en France sur sept est un mariage mixte ». En 2018, 34 600 mariages mixtes sur 234 700 (15 %). En 2015, les conjoints étrangers venaient d'Afrique du Nord (37 %), de l'Union européenne (22 %) et d'Afrique subsaharienne (14 %).",
+      "pertinence": "Institut public de recherche démographique, à partir des données de l'Insee.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Interdire les mariages entre Français et étrangers illégaux : pourquoi le Sénat s'apprête à débattre d'un texte inconstitutionnel ?",
+      "organisme": "Romain David, Public Sénat",
+      "date_publication": "18 février 2025",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/interdire-les-mariages-entre-francais-et-etrangers-illegaux-pourquoi-le-senat-sapprete-a-debattre-dun-texte-inconstitutionnel",
+      "passage": "La proposition de loi déposée en décembre 2023 tient en un article : « le mariage ne peut être contracté par une personne séjournant de manière irrégulière sur le territoire national ». Le Conseil constitutionnel a jugé en 2003 que l'irrégularité du séjour « ne peut faire obstacle, par lui-même, au mariage de l'intéressé ». Le rapporteur LR évoque une « inconstitutionnalité criante ». Aujourd'hui, l'officier d'état civil peut saisir le procureur, qui peut s'opposer au mariage si la fraude est démontrée.",
+      "pertinence": "Chaîne parlementaire ; présente le débat et le cadre constitutionnel.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suite de la proposition de loi sur les mariages simulés et éventuelle publication de statistiques par le ministère de l'Intérieur.",
+  "objections_legitimes": [
+    "Des mariages frauduleux existent et sont poursuivis.",
+    "Certaines personnes, souvent des femmes, sont victimes de mariages arrangés ou d'escroqueries sentimentales.",
+    "L'absence de statistiques publiques régulières est un vrai problème pour débattre sereinement."
+  ],
+  "publics": {
+    "convaincus": "Si les mariages blancs explosaient, on aurait des chiffres : or le rapport parlementaire écrit pour durcir la loi reconnaît que le phénomène est « mal connu ». Les poursuites concernent environ 700 personnes par an, et les mariages entre Français et étrangers sont moins nombreux qu'en 2003. Et le mariage ne donne pas de papiers du jour au lendemain : il faut des années de vie commune réelle.",
+    "indecis": "La fraude existe et elle est punie, jusqu'à cinq ans de prison. Mais aucune donnée ne montre d'explosion, et la plupart des mariages mixtes sont de vrais couples. Le mariage ne donne pas automatiquement de papiers : il faut une entrée régulière, une vie commune vérifiée et plusieurs années d'attente."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "libertes",
+      "dignite"
+    ],
+    "mecanismes": "On transforme une fraude réelle mais mal mesurée en vague supposée, puis on jette le soupçon sur tous les couples mixtes, alors que les promoteurs mêmes d’un durcissement reconnaissent que le phénomène n’est pas documenté.",
+    "consequences": "Les couples formés d’un Français et d’une personne étrangère subissent des contrôles intrusifs, des délais et la suspicion, et la liberté de se marier, protégée par la Constitution, est menacée.",
+    "democratie": "Légiférer sur une impression plutôt que sur des données affaiblit le débat public et fait reculer des libertés fondamentales sans bénéfice démontré.",
+    "propositions": [
+      "Publier des statistiques régulières et transparentes sur les signalements, oppositions et condamnations pour mariage frauduleux.",
+      "Protéger la liberté du mariage et refuser toute interdiction fondée sur la situation administrative.",
+      "Accompagner et protéger les personnes victimes de mariages forcés ou d’escroqueries sentimentales."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des mariages frauduleux existent : les parquets s’opposent à des centaines de mariages, le plus souvent parce qu’ils estiment qu’ils visent à obtenir un titre de séjour, et des centaines de personnes sont poursuivies chaque année.",
+        "integration": "Reconnaître la fraude n’empêche pas de constater que les outils de contrôle et de sanction existent déjà et qu’aucune donnée ne montre d’explosion."
+      }
+    ]
+  },
+  "concepts": [
+    "mariages_blancs",
+    "expulsion",
+    "fraude",
+    "nationalite"
+  ],
+  "repond_a": [
+    {
+      "id": "mariages_blancs_q1215",
+      "label": "Mariages blancs"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "chez eux",
+    "oqtf",
+    "reconduite",
+    "virer",
+    "dehors",
+    "remigration",
+    "garder en france",
+    "retour au pays",
+    "droit de sejour",
+    "titre de sejour",
+    "n a plus sa place",
+    "plus rien a faire"
+  ]
+}

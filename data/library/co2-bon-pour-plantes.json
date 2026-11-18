@@ -199,11 +199,6 @@
       }
     ]
   },
-  "concepts": [
-    "ecologie",
-    "climat_origine",
-    "co2_plantes"
-  ],
   "repond_a": [
     {
       "id": "co2_plantes_q0614",
@@ -215,5 +210,10 @@
     "nucleaire",
     "changement climatique",
     "climat a toujours change"
+  ],
+  "concepts": [
+    "ecologie",
+    "climat_origine",
+    "co2_plantes"
   ]
 }

@@ -224,12 +224,6 @@
       }
     ]
   },
-  "concepts": [
-    "femmes",
-    "feminisme",
-    "fn_parti",
-    "jeunes_hommes_vote"
-  ],
   "repond_a": [
     {
       "id": "jeunes_hommes_vote_q0614",
@@ -255,5 +249,11 @@
     "rn",
     "rassemblement national",
     "le pen"
+  ],
+  "concepts": [
+    "femmes",
+    "feminisme",
+    "fn_parti",
+    "jeunes_hommes_vote"
   ]
 }

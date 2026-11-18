@@ -1,0 +1,253 @@
+{
+  "id": "chloroquine-covid-interdite",
+  "type": "idee_recue",
+  "affirmation": "La chloroquine soignait le Covid mais on l'a interdite.",
+  "volet": "politique",
+  "sous_theme": "Désinformation",
+  "rubriques": [],
+  "mots_cles": [
+    "chloroquine covid",
+    "hydroxychloroquine interdite",
+    "raoult chloroquine",
+    "plaquenil covid",
+    "chloroquine marche",
+    "traitement covid interdit",
+    "ihu marseille",
+    "etude raoult retractee"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Contredit. Les grands essais randomisés, le britannique RECOVERY sur plus de 4 700 patients et Solidarity de l'OMS dans 30 pays, n'ont montré aucune baisse de la mortalité avec l'hydroxychloroquine. L'étude marseillaise de mars 2020 qui avait lancé l'engouement, sur 20 patients traités, a été rétractée par sa revue en décembre 2024. Le médicament n'a pas été « interdit » : la France a mis fin en mai 2020 à une dérogation pour le Covid, il est resté disponible pour le lupus et la polyarthrite, et les essais encadrés restaient permis.",
+  "contexte": "Au printemps 2020, le Pr Didier Raoult, alors directeur de l'IHU Méditerranée Infection à Marseille, a présenté l'hydroxychloroquine (un dérivé de la chloroquine), associée à un antibiotique, comme un traitement efficace. L'idée qu'un remède bon marché aurait été écarté pour protéger les laboratoires circule encore largement.",
+  "explication": "Il faut regarder les essais randomisés, qui comparent des patients tirés au sort, plutôt que les études sans groupe de comparaison fiable, et vérifier ce qui a réellement été décidé par les autorités.",
+  "faits": [
+    {
+      "fait": "Selon RECOVERY Collaborative Group, dans l'essai randomisé RECOVERY, 27,0 % des patients hospitalisés traités par hydroxychloroquine sont morts dans les 28 jours, contre 25,0 % avec les soins usuels ; les patients traités n'ont pas eu moins de décès.",
+      "periode": "2020",
+      "perimetre": "Royaume-Uni",
+      "explication": "Sur 4 716 patients tirés au sort, le médicament n'a pas sauvé de vies ; les patients traités sont même sortis moins vite de l'hôpital.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "27,0 %"
+    },
+    {
+      "fait": "L'essai Solidarity de l'OMS, sur 11 266 adultes dans 405 hôpitaux de 30 pays, conclut que l'hydroxychloroquine a peu ou pas d'effet sur la mortalité hospitalière et sur le recours à la ventilation.",
+      "periode": "2020",
+      "perimetre": "Monde",
+      "explication": "Le résultat est confirmé dans des dizaines de pays, pas seulement par une agence française.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "11 266"
+    },
+    {
+      "fait": "Selon Kerry Cullinan, L'étude marseillaise de mars 2020, qui portait sur 20 patients traités, a été rétractée par l'International Journal of Antimicrobial Agents, notamment pour des doutes sur l'éthique, l'inclusion des patients et des réserves de trois de ses propres auteurs sur la méthode et les conclusions.",
+      "periode": "2020-2025",
+      "perimetre": "France",
+      "explication": "L'étude fondatrice ne tient plus, y compris aux yeux de certains de ses signataires.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "20 patients"
+    },
+    {
+      "fait": "Selon Allo Docteurs, le décret du 27 mai 2020 a mis fin à la prescription dérogatoire de l'hydroxychloroquine contre le Covid à l'hôpital ; le médicament restait disponible pour le lupus et la polyarthrite rhumatoïde, et utilisable dans les essais encadrés.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Ce n'était pas une interdiction du médicament, mais la fin d'une autorisation exceptionnelle sans preuve d'efficacité.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Coline Garré, Fait défavorable : la décision de mai 2020 est intervenue juste après une étude publiée dans The Lancet, retirée le 4 juin 2020 après la rétractation de trois de ses quatre auteurs.",
+      "periode": "2020",
+      "perimetre": "Monde",
+      "explication": "Les défenseurs de la chloroquine ont raison sur ce point : une étude contre le médicament était elle aussi frauduleuse. Mais les essais randomisés publiés ensuite ont confirmé l'absence d'effet.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "En octobre 2020, l'ANSM a refusé la demande de l'IHU de Marseille d'autoriser l'hydroxychloroquine contre le Covid : les données « ne permettent pas de présager d'un bénéfice » et montrent « des risques majorés, notamment cardio-vasculaires ».",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Le refus est motivé par l'absence de bénéfice et par des risques réels pour le cœur.",
+      "source": 6,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Mathis Thomas, en 2024, l'Ordre des médecins a interdit à Didier Raoult d'exercer pendant deux ans, notamment pour avoir recommandé l'hydroxychloroquine « sans données scientifiques établies » et mené des essais qualifiés de « sauvages » auprès de 30 000 patients.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les instances médicales ont sanctionné la promotion du traitement, pas une découverte gênante.",
+      "source": 7,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les grands essais où les patients sont tirés au sort, RECOVERY au Royaume-Uni et Solidarity de l'OMS dans 30 pays, n'ont vu aucune baisse des décès avec l'hydroxychloroquine. L'étude marseillaise de 2020 a été rétractée par sa revue. Et le médicament n'a pas été interdit : il est resté prescrit pour le lupus et la polyarthrite.",
+    "moyen": "En mars 2020, une étude marseillaise sur 20 patients traités suggérait un effet de l'hydroxychloroquine. Mais elle n'avait pas de groupe de comparaison fiable, et elle a été rétractée en décembre 2024, notamment parce que trois de ses auteurs contestaient sa méthode.\n\nLes vrais tests sont venus ensuite. Dans l'essai britannique RECOVERY, 27 % des patients traités sont morts en 28 jours, contre 25 % sans le traitement ; l'essai Solidarity de l'OMS, dans 30 pays, conclut à peu ou pas d'effet. En France, on n'a pas interdit le médicament : on a mis fin en mai 2020 à une dérogation pour le Covid, puis refusé de l'autoriser faute de bénéfice et en raison de risques pour le cœur.",
+    "detaille": "L'engouement est parti d'une étude de l'IHU de Marseille publiée en mars 2020 dans l'International Journal of Antimicrobial Agents : 20 patients traités, dont 6 avec un antibiotique, comparés à des patients d'autres hôpitaux. Ce type d'étude ne permet pas de conclure, car les groupes ne sont pas comparables. En décembre 2024, l'éditeur l'a rétractée, en invoquant des problèmes d'éthique, de consentement, d'inclusion des patients et les réserves de trois coauteurs.\n\nPour savoir si un médicament marche, on tire au sort qui le reçoit. C'est ce qu'a fait l'essai britannique RECOVERY sur 4 716 patients hospitalisés : 27,0 % de décès à 28 jours avec l'hydroxychloroquine, 25,0 % sans, et des séjours plus longs. L'essai Solidarity de l'OMS, dans 405 hôpitaux de 30 pays, aboutit à la même conclusion. Il faut reconnaître un épisode trouble : une étude hostile au médicament, publiée dans The Lancet en mai 2020, a été retirée quelques jours plus tard ; les décisions de mai 2020 ont été prises dans cette confusion. Mais les essais randomisés publiés ensuite ont tranché.\n\nLe médicament n'a jamais été interdit. Le décret du 27 mai 2020 a supprimé l'autorisation exceptionnelle de le prescrire contre le Covid à l'hôpital ; il est resté disponible pour le lupus et la polyarthrite rhumatoïde, et les essais encadrés restaient possibles. En octobre 2020, l'ANSM a refusé la demande de l'IHU de l'autoriser, en citant l'absence de bénéfice et des risques cardiaques. En 2024, l'Ordre des médecins a interdit à Didier Raoult d'exercer pendant deux ans, notamment pour l'avoir promu sans données établies.",
+    "empathie": "Au début de la pandémie, on cherchait désespérément un traitement, et l'idée d'un remède simple et bon marché était rassurante. La méfiance envers les laboratoires pharmaceutiques a aussi de vraies raisons. Mais c'est justement pour protéger les malades qu'on teste les médicaments avant de les promettre."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On l'a interdite parce qu'elle ne rapportait rien aux laboratoires.",
+      "reponse": "Le médicament n'a pas été interdit : il est resté prescrit pour d'autres maladies. Et ce sont des essais publics, britannique et de l'OMS, qui ont montré qu'il ne réduisait pas les décès."
+    },
+    {
+      "objection": "L'étude du Lancet contre la chloroquine était truquée.",
+      "reponse": "C'est vrai, et elle a été retirée. Mais les essais RECOVERY et Solidarity, publiés ensuite sur des milliers de patients tirés au sort, ont montré l'absence d'effet."
+    },
+    {
+      "objection": "Raoult a soigné des milliers de gens à Marseille.",
+      "reponse": "Soigner des patients qui guérissent ne prouve pas que le médicament y est pour quelque chose : la grande majorité guérit de toute façon. Seule la comparaison avec des patients tirés au sort le montre, et elle est négative."
+    }
+  ],
+  "questions": [
+    "Si le médicament marchait, pourquoi l'essai britannique sur plus de 4 700 patients ne montre-t-il aucune baisse des décès ?",
+    "Pourquoi trois coauteurs de l'étude marseillaise ont-ils demandé à retirer leur nom ?"
+  ],
+  "limites": [
+    "Les résultats de Solidarity ont été lus à travers le communiqué de l'université de Bristol, sans le détail chiffré de l'article.",
+    "La rétractation de l'étude marseillaise a été lue à travers deux médias ; l'avis officiel de rétractation n'a pas pu être ouvert.",
+    "Les méta-analyses sur l'hydroxychloroquine et l'avis complet du HCSP n'ont pas été lus.",
+    "Ces essais concernent surtout des patients hospitalisés ; d'autres essais sur des patients non hospitalisés n'ont pas été lus ici."
+  ],
+  "sources": [
+    {
+      "titre": "Effect of Hydroxychloroquine in Hospitalized Patients with Covid-19",
+      "organisme": "RECOVERY Collaborative Group — The New England Journal of Medicine (texte sur PubMed Central)",
+      "date_publication": "8 octobre 2020",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7556338",
+      "passage": "Essai randomisé britannique : « we randomly assigned 1561 patients to receive hydroxychloroquine and 3155 to receive usual care ». Décès à 28 jours : 421 patients (27,0 %) dans le groupe hydroxychloroquine contre 790 (25,0 %) avec les soins usuels (« rate ratio, 1.09 ; 95% confidence interval [CI], 0.97 to 1.23 »). Sorties vivantes de l'hôpital à 28 jours : 59,6 % contre 62,9 % ; durée médiane d'hospitalisation de 16 jours contre 13. Conclusion : les patients traités « did not have a lower incidence of death at 28 days than those who received usual care ».",
+      "pertinence": "Essai clinique randomisé publié dans une revue médicale de référence.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Analysis finds four repurposed antiviral drugs have little or no effect on patients hospitalised for COVID-19",
+      "organisme": "Université de Bristol — communiqué sur les résultats de l’essai Solidarity de l’OMS",
+      "date_publication": "4 décembre 2020",
+      "url": "https://www.bristol.ac.uk/news/2020/november/solidarity-study.html",
+      "passage": "L'essai Solidarity a suivi 11 266 adultes dans 405 hôpitaux de 30 pays, dont 954 randomisés pour l'hydroxychloroquine. Les quatre médicaments testés (remdesivir, hydroxychloroquine, lopinavir, interféron) ont peu ou pas d'effet sur la mortalité hospitalière ni sur le recours à la ventilation.",
+      "pertinence": "Communiqué universitaire sur un essai international coordonné par l'OMS.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Publisher Retracts Controversial COVID-19 Treatment Study",
+      "organisme": "Kerry Cullinan, Health Policy Watch",
+      "date_publication": "9 janvier 2025",
+      "url": "https://healthpolicy-watch.news/publisher-retracts-controversial-covid-19-treatment-study/",
+      "passage": "L'étude de mars 2020 publiée dans l'International Journal of Antimicrobial Agents (Elsevier) sur l'hydroxychloroquine et l'azithromycine, portant sur 20 patients français traités dont 6 ont aussi reçu de l'azithromycine, a été rétractée. Motifs : le respect des règles d'éthique de l'éditeur et de la recherche sur des personnes, des doutes sur l'inclusion des patients avant l'approbation éthique, sur le consentement éclairé, et des « concerns raised by three of the authors themselves regarding the article's methodology and conclusions ». Trois coauteurs ont demandé à retirer leur nom ; Didier Raoult n'a pas répondu dans les délais ; cinq autres auteurs contestent la rétractation.",
+      "pertinence": "Média spécialisé en santé mondiale.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Hydroxychloroquine contre le Covid : l'étude du Pr Raoult rétractée quatre ans après sa publication",
+      "organisme": "Le Quotidien du Médecin",
+      "date_publication": "17 décembre 2024",
+      "url": "https://rhumatologie.lequotidiendumedecin.fr/actu-medicale/recherche-science/hydroxychloroquine-contre-le-covid-letude-du-pr-raoult-retractee-quatre-ans-apres-sa-publication",
+      "passage": "Elsevier, éditeur de l'International Journal of Antimicrobial Agents, a annoncé le 17 décembre 2024 la rétractation de l'étude publiée en mars 2020 par le Pr Didier Raoult et le Dr Philippe Gautret (IHU de Marseille), en invoquant un non-respect des règles de la recherche et une manipulation des résultats.",
+      "pertinence": "Quotidien médical professionnel (début d'article en accès libre).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "L'hydroxychloroquine contre le Covid n'est plus autorisée en France",
+      "organisme": "Allo Docteurs (France Télévisions)",
+      "date_publication": "27 mai 2020",
+      "url": "https://www.allodocteurs.fr/maladies-maladies-infectieuses-et-tropicales-coronavirus-lhydroxychloroquine-contre-le-covid-nest-plus-autorisee-en-france-29348.html",
+      "passage": "Un décret publié au Journal officiel le 27 mai 2020 abroge les dispositions dérogatoires qui permettaient, depuis la fin mars, de prescrire l'hydroxychloroquine contre le Covid-19 à l'hôpital pour les patients graves. Le Haut Conseil de la santé publique recommande de « ne pas utiliser l'hydroxychloroquine dans le traitement du Covid-19 » hors essais cliniques. Seul l'usage dans un essai clinique encadré reste autorisé ; le Plaquénil reste disponible dans ses indications habituelles, notamment le lupus et la polyarthrite rhumatoïde. Une étude publiée dans The Lancet concluait alors à un médicament inefficace, voire nocif.",
+      "pertinence": "Média santé du service public.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Hydroxychloroquine : le « Lancet » annonce le retrait de l'étude controversée après la rétractation de trois de ses quatre auteurs",
+      "organisme": "Coline Garré, Le Quotidien du Médecin",
+      "date_publication": "5 juin 2020",
+      "url": "https://pediatrie.lequotidiendumedecin.fr/actus-medicales/sante-publique/hydroxychloroquine-le-lancet-annonce-le-retrait-de-letude-controversee-apres-la-retractation-de",
+      "passage": "Le 4 juin 2020, The Lancet a annoncé le retrait de l'étude du Dr Mehra sur l'hydroxychloroquine et la chloroquine, publiée le 22 mai et qui avait fait l'effet d'un « coup de tonnerre » ; trois de ses quatre auteurs se sont rétractés.",
+      "pertinence": "Quotidien médical professionnel (début d'article en accès libre).",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "L'ANSM publie sa décision sur la demande d'une RTU pour l'hydroxychloroquine dans la prise en charge de la maladie COVID-19",
+      "organisme": "ANSM (Agence nationale de sécurité du médicament et des produits de santé)",
+      "date_publication": "23 octobre 2020 (mis à jour le 18 janvier 2021)",
+      "url": "https://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/L-ANSM-publie-sa-decision-sur-la-demande-d-une-RTU-pour-l-hydroxychloroquine-dans-la-prise-en-charge-de-la-maladie-Covid-19-Point-d-Information",
+      "passage": "Saisie par l'IHU de Marseille d'une demande de recommandation temporaire d'utilisation, l'ANSM répond : « nous ne pouvons pas répondre favorablement à la demande de RTU ». Les données disponibles sont « très hétérogènes et inégales » et « ne permettent pas de présager d'un bénéfice de l'hydroxychloroquine » ; les données de sécurité montrent « des risques majorés, notamment cardio-vasculaires ». La décision s'appuie sur de nombreuses études et sur l'avis du HCSP du 23 juillet 2020, et reste révisable si de nouveaux résultats le justifient.",
+      "pertinence": "Agence publique française du médicament.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Covid-19 : Didier Raoult interdit d'exercer la médecine pendant 2 ans",
+      "organisme": "Mathis Thomas, Allo Docteurs (France Télévisions)",
+      "date_publication": "3 octobre 2024",
+      "url": "https://www.allodocteurs.fr/covid-19-didier-raoult-interdit-dexercer-la-medecine-pendant-2-ans-38390.html",
+      "passage": "En appel, la chambre disciplinaire de l'Ordre des médecins a alourdi le blâme de décembre 2021 en une interdiction d'exercer de deux ans à partir du 1er février 2025. Motifs : avoir recommandé l'hydroxychloroquine « sans données scientifiques établies », des prises de position non fondées sur des données confirmées, des essais cliniques qualifiés de « sauvages » auprès de 30 000 patients sans feu vert des autorités (la chambre jugeant toutefois qu'il n'a pas fait courir de risque injustifié aux patients), un manquement à la confraternité et des propos mettant en cause la vaccination. Didier Raoult reste visé par une enquête judiciaire.",
+      "pertinence": "Média santé du service public.",
+      "type": "media",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Suites judiciaires de l'enquête sur les essais de l'IHU et éventuelles nouvelles méta-analyses.",
+  "objections_legitimes": [
+    "Une étude publiée dans The Lancet contre l'hydroxychloroquine a été retirée en juin 2020 pour des données douteuses.",
+    "La méfiance envers l'industrie pharmaceutique et ses profits repose sur des scandales réels.",
+    "Au printemps 2020, les autorités ont pris des décisions dans l'urgence et parfois de façon confuse."
+  ],
+  "publics": {
+    "convaincus": "Les essais qui ont testé l'hydroxychloroquine n'étaient pas français et n'étaient pas financés par les laboratoires : un essai public britannique sur plus de 4 700 patients et l'essai de l'OMS dans 30 pays. Ils ne voient aucune vie sauvée. Et l'étude de Marseille a été rétractée, en partie parce que trois de ses propres auteurs ne la défendaient plus.",
+    "indecis": "Au début, beaucoup ont espéré, et c'était compréhensible. Depuis, de grands essais où les patients sont tirés au sort ont montré que l'hydroxychloroquine ne réduisait pas les décès, et qu'elle pouvait être risquée pour le cœur. Le médicament n'a pas été interdit : il est toujours prescrit pour le lupus ou la polyarthrite."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "vulnerables",
+      "democratie"
+    ],
+    "mecanismes": "Le récit du remède miracle étouffé par les laboratoires transforme une méfiance légitime envers l’industrie pharmaceutique en rejet des essais cliniques publics, qui sont pourtant la meilleure protection des malades.",
+    "consequences": "Des patients ont reçu un traitement inefficace et risqué pour le cœur, parfois dans des essais menés sans autorisation, et la confusion a abîmé la confiance dans la médecine.",
+    "democratie": "La santé publique doit reposer sur des preuves vérifiables et sur des institutions indépendantes, pas sur l’autorité médiatique d’une personnalité.",
+    "propositions": [
+      "Financer une recherche clinique publique capable de tester rapidement des traitements en cas d’épidémie.",
+      "Renforcer le contrôle éthique des essais et les sanctions contre les essais menés sans autorisation.",
+      "Créer un pôle public du médicament pour réduire la dépendance envers les laboratoires privés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une étude publiée dans une grande revue contre l’hydroxychloroquine a été retirée pour des données douteuses, peu après les décisions françaises.",
+        "integration": "Admettre cet épisode montre qu’on ne défend pas aveuglément les institutions : ce sont les essais randomisés publiés ensuite qui ont tranché."
+      }
+    ]
+  },
+  "concepts": [
+    "chloroquine",
+    "desinformation",
+    "statistiques"
+  ],
+  "repond_a": [
+    {
+      "id": "chloroquine_q1215",
+      "label": "Chloroquine et Covid"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "chloroquine",
+    "hydroxychloroquine",
+    "plaquenil",
+    "desinformation",
+    "fake news",
+    "manipulation de l information",
+    "pourcentage",
+    "insee",
+    "donnees"
+  ]
+}

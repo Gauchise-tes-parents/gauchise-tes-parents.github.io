@@ -1,0 +1,232 @@
+{
+  "id": "rn-candidats-racistes-cas-isoles",
+  "type": "idee_recue",
+  "affirmation": "Les candidats RN qui tiennent des propos racistes sont des cas isolés.",
+  "volet": "politique",
+  "sous_theme": "Rassemblement national",
+  "rubriques": [],
+  "mots_cles": [
+    "brebis galeuses rn",
+    "candidats rn racistes",
+    "cas isoles rn",
+    "erreurs de casting rn",
+    "propos racistes candidats rn",
+    "derapages rn legislatives",
+    "rn antisemitisme candidats",
+    "le rn n est pas raciste"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. En 2024, Jordan Bardella a parlé de « quatre ou cinq brebis galeuses », mais l'AFP a recensé « plusieurs dizaines » de candidats RN ayant tenu des propos racistes, antisémites ou complotistes, et Mediapart environ 80 cas. Les dérapages touchent aussi des élus : un député RN a été exclu quinze jours de l'Assemblée en 2022 pour une phrase jugée raciste. Selon le baromètre de la CNCDH, les proches du RN sont nettement moins tolérants que la moyenne, même si les proches du centre droit le sont désormais encore moins.",
+  "contexte": "Pendant la campagne éclair des législatives de 2024, de nombreux propos de candidats RN ont été exhumés par la presse. La direction du parti a parlé d'« erreurs de casting » et de « brebis galeuses », expliquées par la précipitation de la dissolution.",
+  "explication": "On compare le nombre de cas reconnus par la direction du RN et ceux recensés par la presse, puis on regarde les incidents impliquant des élus et les enquêtes d'opinion sur les préjugés selon la proximité partisane. Aucun candidat n'est cité nommément ici.",
+  "faits": [
+    {
+      "fait": "Selon LCP, Jordan Bardella a parlé le 3 juillet 2024 de « Quatre ou cinq brebis galeuses » et d'« erreurs de casting », en invoquant l'investiture de près de 600 candidats en 48 heures.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La direction du RN a reconnu le problème tout en le minimisant.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'AFP, « plusieurs dizaines » de candidats RN ont été pris à tenir des propos racistes, antisémites ou complotistes pendant la campagne des législatives de 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "On est loin de quatre ou cinq cas.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon LCP, Mediapart a relevé « quelque 80 cas problématiques » parmi les candidats RN de 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le décompte d'un média d'investigation donne un ordre de grandeur bien supérieur à celui de la direction du parti.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "environ 80"
+    },
+    {
+      "fait": "Selon l'AFP, un député RN réélu en 2024 a estimé qu'une ancienne ministre n'aurait pas dû occuper son poste en raison de sa double nationalité ; Marine Le Pen s'est dite « estomaquée ».",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les propos problématiques ne viennent pas seulement de candidats inconnus recrutés à la hâte.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon LCP, en novembre 2022, l'Assemblée nationale a infligé à un député RN sa sanction la plus lourde, la censure avec exclusion temporaire, pour une phrase jugée raciste lancée pendant la question d'un député LFI sur les migrants ; tous les groupes ont voté la sanction, sauf le RN.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Même parmi les élus, et hors de toute campagne précipitée, de tels incidents se produisent.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'analyse par Nonna Mayer du baromètre de la CNCDH de fin 2025, l'indice de tolérance est de 50 sur 100 chez les proches du RN, contre 64 pour l'ensemble des Français et plus de 80 chez les proches des partis de gauche.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les préjugés racistes sont nettement plus répandus parmi les sympathisants du RN que dans la moyenne de la population.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "50 sur 100"
+    },
+    {
+      "fait": "Fait défavorable : selon la même analyse, les proches des partis de centre droit sont, pour la première fois, encore moins tolérants (46 sur 100) que ceux du RN ; et la part de personnes ayant des préjugés antisémites est de 47 % chez les sympathisants de LFI, contre 48 % chez ceux du RN.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Les préjugés ne sont pas l'apanage d'un seul parti : la gauche doit aussi regarder en face ceux qui existent dans ses propres rangs.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la CNCDH, l'indice de tolérance des Français reste élevé en 2025 (64 sur 100) et le rejet des immigrés est l'attitude la plus liée aux autres formes d'intolérance.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Un parti qui fait de l'immigration son thème central attire et entretient mécaniquement les autres préjugés.",
+      "source": 4,
+      "fiabilite": "interpretation",
+      "chiffre": "64 sur 100"
+    }
+  ],
+  "argumentaires": {
+    "court": "Jordan Bardella a parlé de « quatre ou cinq brebis galeuses », mais l'AFP a recensé plusieurs dizaines de candidats RN aux propos racistes, antisémites ou complotistes en 2024, et Mediapart environ 80. Des élus sont aussi concernés : un député RN a été exclu de l'Assemblée en 2022 pour une phrase jugée raciste.",
+    "moyen": "Pendant les législatives de 2024, la presse a exhumé des propos racistes, antisémites ou complotistes de nombreux candidats RN. Jordan Bardella a parlé de « quatre ou cinq brebis galeuses » ; l'AFP en a compté plusieurs dizaines, Mediapart environ 80. La précipitation après la dissolution explique une partie des « erreurs de casting », mais pas qu'on trouve si facilement de tels profils parmi les militants.\n\nLe problème touche aussi des élus : en 2022, un député RN a été exclu quinze jours pour une phrase jugée raciste, et en 2024 un député réélu a contesté la légitimité d'une ancienne ministre à cause de sa double nationalité. Les enquêtes de la CNCDH montrent que les proches du RN ont des préjugés nettement plus fréquents que la moyenne, même si ce n'est pas le seul électorat concerné.",
+    "detaille": "La campagne des législatives de 2024 a été organisée dans l'urgence après la dissolution du 9 juin. Le RN a dû investir près de 600 candidats en 48 heures. Très vite, la presse a retrouvé chez certains d'entre eux des propos racistes visant les Maghrébins, la défense de propos de Jean-Marie Le Pen sur la Shoah, ou des photos avec des symboles nazis. Jordan Bardella a parlé de « quatre ou cinq brebis galeuses » et promis que ces candidats « seront mis à la porte ». Mais l'AFP a recensé « plusieurs dizaines » de cas, et Mediapart environ 80.\n\nCes incidents ne se limitent pas à des candidats inconnus. En novembre 2022, l'Assemblée nationale a infligé à un député RN sa sanction la plus lourde pour une phrase jugée raciste lancée pendant la question d'un député LFI sur les migrants ; tous les groupes l'ont votée, sauf le RN. En 2024, un député réélu a estimé qu'une ancienne ministre n'aurait pas dû occuper son poste à cause de sa double nationalité, ce qui a « estomaqué » Marine Le Pen. Pour le politiste Pierre Mathiot, cité par l'AFP : « chassez le naturel, il revient au galop ».\n\nLes enquêtes d'opinion éclairent le fond. Selon le baromètre de la CNCDH analysé par Nonna Mayer, l'indice de tolérance est de 50 sur 100 chez les proches du RN, contre 64 pour l'ensemble et plus de 80 à gauche. Mais les proches du centre droit sont désormais encore moins tolérants (46), et les préjugés antisémites sont presque aussi fréquents chez les sympathisants de LFI que chez ceux du RN. Le racisme n'est donc pas l'affaire d'un seul parti. La différence est que le RN a fait de la « priorité nationale » et du rejet de l'immigration le cœur de son programme, ce qui attire des militants porteurs de ces préjugés : parler de « cas isolés » empêche de voir ce lien.",
+    "empathie": "Beaucoup d'électeurs du RN ne se reconnaissent pas dans ces propos et sont sincèrement choqués quand ils les découvrent. On peut le reconnaître tout en demandant pourquoi ces profils sont si nombreux dans ce parti."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il y a des racistes dans tous les partis.",
+      "reponse": "C'est vrai, et les enquêtes le montrent. Mais on n'a pas trouvé plusieurs dizaines de candidats aux propos racistes dans chacun des autres partis en 2024, et les proches du RN restent nettement moins tolérants que la moyenne."
+    },
+    {
+      "objection": "Ces candidats ont été écartés.",
+      "reponse": "Certains l'ont été, mais après coup, quand la presse les a trouvés. Et un député RN a été sanctionné par l'Assemblée en 2022, ce qui montre que le problème dépasse les candidats recrutés à la hâte."
+    }
+  ],
+  "questions": [
+    "Si ce ne sont que quatre ou cinq cas, comment expliquer que l'AFP en ait trouvé plusieurs dizaines pendant une seule campagne ?",
+    "Pourquoi un parti qui met l'immigration au centre de tout attirerait-il des militants sans aucun préjugé ?"
+  ],
+  "limites": [
+    "Les décomptes des candidats concernés varient selon les médias (« plusieurs dizaines » pour l'AFP, environ 80 pour Mediapart, que nous n'avons pas lu directement) ; aucun décompte officiel n'existe.",
+    "Le baromètre de la CNCDH repose sur environ 1 000 personnes : les résultats par proximité partisane portent sur de petits sous-groupes et sont donc fragiles.",
+    "L'article de l'AFP a été lu via sa reprise par The Times of Israel.",
+    "Le rapport complet de la CNCDH n'a pas été lu ; les chiffres par parti viennent de l'analyse de Nonna Mayer, chercheuse associée au baromètre."
+  ],
+  "sources": [
+    {
+      "titre": "Législatives 2024 : ces candidats, qualifiés de « brebis galeuses » par Jordan Bardella, qui embarrassent le RN",
+      "organisme": "Raphaël Marchal, LCP (La Chaîne parlementaire)",
+      "date_publication": "4 juillet 2024 (mis à jour le 5 juillet 2024)",
+      "url": "https://lcp.fr/actualites/legislatives-2024-ces-candidats-qualifies-de-brebis-galeuses-par-jordan-bardella-qui",
+      "passage": "Sur BFMTV le 3 juillet, Jordan Bardella évoque « Quatre ou cinq brebis galeuses » et des « erreurs de casting », le parti ayant investi près de 600 candidats en 48 heures ; les candidats dont les propos ne correspondent pas à ses vues « seront mis à la porte ». Mediapart, cité par l'article, relève « quelque 80 cas problématiques ». L'article détaille sept cas, dont des propos racistes visant les Maghrébins, la défense de propos de Jean-Marie Le Pen sur la Shoah et une photo avec une casquette de style nazi.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Propos racistes et antisémites : le RN face à ses faiblesses",
+      "organisme": "AFP, publié par The Times of Israel (édition française)",
+      "date_publication": "9 juillet 2024",
+      "url": "https://fr.timesofisrael.com/propos-racistes-et-antisemites-le-rn-face-a-ses-faiblesses/",
+      "passage": "« plusieurs dizaines » de candidats RN ont été pris à tenir des propos racistes, antisémites ou complotistes ; les candidats ont été choisis dans la hâte après la dissolution du 9 juin. Un député RN réélu a estimé qu'une ancienne ministre n'aurait pas dû occuper son poste en raison de sa double nationalité ; Marine Le Pen s'est dite « estomaquée ». Le 8 juillet, Jordan Bardella reconnaît que dans certaines circonscriptions « les choix que nous avons faits n'étaient pas les bons ». Le politiste Pierre Mathiot : « chassez le naturel, il revient au galop ».",
+      "pertinence": "Dépêche de l'Agence France-Presse.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'Assemblée exclut le député RN Grégoire de Fournas pour 15 jours de séance",
+      "organisme": "Maxence Kagni, LCP (La Chaîne parlementaire)",
+      "date_publication": "4 novembre 2022 (mis à jour le 25 juillet 2023)",
+      "url": "https://lcp.fr/actualites/l-assemblee-exclut-le-depute-rn-gregoire-de-fournas-pour-15-jours-de-seance-147206",
+      "passage": "Le 3 novembre 2022, pendant une question d'un député LFI sur les migrants en Méditerranée, un député RN lance une phrase jugée raciste qui interrompt la séance. L'Assemblée vote une « censure avec exclusion temporaire », la sanction la plus lourde de son règlement : privation de la moitié de l'indemnité pendant deux mois et interdiction de siéger pendant quinze jours de séance. Tous les bancs votent pour, sauf le RN.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Unité et diversité des préjugés racistes et antisémites",
+      "organisme": "Nonna Mayer (Sciences Po, CNRS), revue Droits & Libertés n° 214 (Ligue des droits de l’Homme)",
+      "date_publication": "juillet 2026",
+      "url": "https://www.ldh-france.org/wp-content/uploads/2026/07/DL214-Dossier-3.-Unite-et-diversite-des-prejuges-racistes-et-antisemites.pdf",
+      "passage": "Baromètre racisme de la CNCDH, vague 2025 (enquête en face à face Ipsos, 25 novembre-12 décembre 2025, environ 1 000 adultes). Indice longitudinal de tolérance : 64 pour l'ensemble ; au-dessus de 80 chez les proches des partis de gauche ; 50 chez les proches du RN ; 46 chez les proches des partis de centre droit, pour la première fois moins tolérants que ceux du RN. Antisémitisme (score de 2 ou plus sur 5) : 48 % chez les sympathisants RN (en baisse de 7 points en trois ans), 47 % chez ceux de LFI (en hausse de 10 points).",
+      "pertinence": "Analyse d'une chercheuse associée au rapport annuel de la CNCDH.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Les essentiels du rapport 2025 sur la lutte contre le racisme, l'antisémitisme et la xénophobie",
+      "organisme": "Commission nationale consultative des droits de l’homme (CNCDH)",
+      "date_publication": "juin 2026",
+      "url": "https://www.cncdh.fr/sites/default/files/2026-06/CNCDH%20Essentiels%20du%20rapport%20racisme%202025.pdf",
+      "passage": "Indice longitudinal de tolérance 2025 : 64 sur 100, stable par rapport à 2024 et à un point de son plus haut niveau ; « La tolérance reste à un niveau élevé ». Le rejet des immigrés est l'attitude la plus liée aux autres formes d'intolérance. 5,5 % croient à une « hiérarchie des races humaines ». La cohorte la plus jeune atteint son plus haut niveau de tolérance.",
+      "pertinence": "Autorité administrative indépendante ; rapport annuel au gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Prochaines élections législatives et nouveau baromètre de la CNCDH.",
+  "objections_legitimes": [
+    "La campagne de 2024 a été extrêmement courte, ce qui a compliqué la vérification des candidats.",
+    "La direction du RN a désavoué certains candidats et Marine Le Pen a condamné certains propos.",
+    "Les préjugés racistes et antisémites existent aussi dans d'autres électorats, y compris à gauche."
+  ],
+  "publics": {
+    "convaincus": "Bardella lui-même parlait de quatre ou cinq brebis galeuses ; l'AFP en a trouvé plusieurs dizaines pendant la seule campagne de 2024. Et ce n'est pas qu'une affaire de candidats inconnus : un député RN a été exclu de l'Assemblée pour une phrase jugée raciste, sanction votée par tous les groupes sauf le RN. Tu peux voter RN sans être raciste, mais tu peux aussi te demander pourquoi ce parti attire autant ces profils.",
+    "indecis": "Des candidats d'autres partis dérapent aussi, et les préjugés existent dans tous les électorats. Mais en 2024, les cas au RN se comptaient par dizaines, et les enquêtes de la CNCDH montrent que ses sympathisants sont nettement moins tolérants que la moyenne. Parler de cas isolés, c'est éviter la question de fond."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "antifascisme",
+      "dignite"
+    ],
+    "mecanismes": "Parler de cas isolés transforme un problème de fond en accident de recrutement, alors qu’un programme centré sur la priorité nationale et le rejet de l’immigration attire mécaniquement des militants porteurs de préjugés.",
+    "consequences": "Les propos racistes et antisémites banalisés blessent des millions de personnes visées et rendent plus acceptables les discriminations au quotidien.",
+    "democratie": "Une démocratie repose sur l’égalité des citoyens quelle que soit leur origine ; quand des élus contestent la légitimité de binationaux à exercer des responsabilités, c’est ce principe qui est attaqué.",
+    "propositions": [
+      "Renforcer les moyens de la justice contre les propos racistes et antisémites, y compris en ligne.",
+      "Soutenir l’éducation populaire et l’école contre tous les préjugés, y compris dans les rangs de la gauche.",
+      "Garantir par la Constitution l’égalité des droits sociaux entre Français et étrangers en situation régulière."
+    ],
+    "defavorables": [
+      {
+        "fait": "Selon le baromètre de la CNCDH, les proches du centre droit sont désormais moins tolérants que ceux du RN, et les préjugés antisémites sont presque aussi fréquents chez les sympathisants de LFI que chez ceux du RN.",
+        "integration": "L’antiracisme doit être cohérent : combattre les préjugés partout, y compris chez soi, renforce la critique de ceux qui en font un programme politique."
+      }
+    ]
+  },
+  "concepts": [
+    "rn_brebis",
+    "patriotisme",
+    "antisemitisme",
+    "discrimination",
+    "fn_parti"
+  ],
+  "repond_a": [
+    {
+      "id": "rn_brebis_q1215",
+      "label": "Candidats RN racistes : cas isolés ?"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "brebis galeuses",
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "testing",
+    "racisme",
+    "nom a consonance",
+    "front national",
+    "fn",
+    "rn"
+  ]
+}

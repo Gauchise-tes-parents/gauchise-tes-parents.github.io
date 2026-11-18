@@ -205,11 +205,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "fiscalite",
-    "cout"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -225,5 +220,10 @@
     "cout",
     "couts",
     "une fortune"
+  ],
+  "concepts": [
+    "immigration",
+    "fiscalite",
+    "cout"
   ]
 }

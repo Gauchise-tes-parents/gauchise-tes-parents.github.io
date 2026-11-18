@@ -1,0 +1,232 @@
+{
+  "id": "presomption-legitime-defense-policiers",
+  "type": "idee_recue",
+  "affirmation": "Il faut une présomption de légitime défense pour les policiers.",
+  "volet": "securite",
+  "sous_theme": "Police et gendarmerie",
+  "rubriques": [],
+  "mots_cles": [
+    "presomption de legitime defense",
+    "legitime defense policiers",
+    "permis de tuer",
+    "policiers proteges quand ils tirent",
+    "usage de l arme police",
+    "article l435-1",
+    "loi pauget legitime defense",
+    "policier garde a vue apres tir"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Choix politique, mais à éclairer. Les policiers et gendarmes peuvent déjà tirer légalement, depuis 2017, dans cinq cas définis par la loi, en cas d'absolue nécessité et de façon strictement proportionnée. La proposition adoptée par l'Assemblée en juillet 2026 les présumerait dans leur droit, à charge pour l'enquête de prouver le contraire. Selon le Sénat, les tirs policiers ont presque été divisés par deux depuis 2017 et la justice a reconnu la légitimité du tir dans 12 enquêtes mortelles sur 14 en 2024. La Défenseure des droits, les avocats et de nombreux juristes craignent des enquêtes affaiblies et une présomption liée au statut plutôt qu'aux circonstances.",
+  "contexte": "Revendication ancienne de syndicats de policiers et de Marine Le Pen, la mesure a été portée par Les Républicains. L'Assemblée nationale l'a adoptée le 7 juillet 2026 sous la forme d'une « présomption d'usage légitime de l'arme » ; la commission des lois du Sénat l'a adoptée sans modification en novembre 2026.",
+  "explication": "On compare le droit actuel (légitime défense du code pénal, article L. 435-1 du code de la sécurité intérieure) au texte en discussion, puis on regarde les données sur les tirs et les enquêtes et les avis des juristes et autorités indépendantes.",
+  "faits": [
+    {
+      "fait": "Depuis 2017, l'article L. 435-1 du code de la sécurité intérieure autorise policiers et gendarmes à faire usage de leurs armes dans cinq cas, « en cas d'absolue nécessité et de manière strictement proportionnée » ; le code pénal exonère déjà de responsabilité l'acte autorisé par la loi.",
+      "periode": "2017-2026",
+      "perimetre": "France",
+      "explication": "Les forces de l'ordre disposent déjà d'un cadre propre, plus large que la légitime défense ordinaire.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le 7 juillet 2026, l'Assemblée nationale a adopté par 313 voix contre 199 un texte selon lequel policiers et gendarmes « sont présumés avoir agi dans l’un des cas autorisés », présomption qui « peut, à tout moment, être renversée par tout élément de preuve contraire ».",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La version adoptée n'est plus une présomption de légitime défense au sens strict, mais une présomption d'usage légal de l'arme.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "313 voix"
+    },
+    {
+      "fait": "Selon le rapport du Sénat, les tirs opérationnels de la police ont presque été divisés par deux entre 2017 et 2025, de 338 à 176, dont 46 visant des animaux en 2025.",
+      "periode": "2017-2025",
+      "perimetre": "France",
+      "explication": "Les tirs n'augmentent pas : rien n'indique que les policiers soient aujourd'hui empêchés d'utiliser leur arme quand c'est nécessaire.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "176"
+    },
+    {
+      "fait": "Fait défavorable : selon le même rapport, sur 14 enquêtes relatives à des usages mortels d'armes à feu par la police en 2024, la justice a conclu à la légitimité du tir dans 12 cas, deux étant en cours ; la direction de la police relève aussi une « forte propension des parquets » à ordonner la garde à vue.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La plupart des tirs mortels sont jugés légitimes, mais les agents vivent mal la garde à vue systématique ; c'est ce que le texte veut éviter, alors que la justice reconnaît déjà la légitimité dans la plupart des cas.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "12 sur 14"
+    },
+    {
+      "fait": "Fait défavorable : la police a enregistré 6 625 agressions physiques contre ses agents en 2024, dont 1 289 avec arme, et le nombre annuel de gendarmes agressés avec une arme a doublé entre 2016 et 2025.",
+      "periode": "2016-2025",
+      "perimetre": "France",
+      "explication": "Les dangers auxquels font face les forces de l'ordre sont réels et nourrissent la demande de protection.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "6 625"
+    },
+    {
+      "fait": "Selon le juriste Benjamin Fiorini, le texte rattacherait la présomption au statut de l'agent et non au danger objectif ; le Défenseur des droits, qui a rendu un avis négatif, redoute « un effet pratique préoccupant » : des enquêtes initiales moins poussées.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Une présomption liée à la fonction pose des questions d'égalité devant la loi et de qualité des enquêtes.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Le Conseil national des barreaux estime qu'une telle présomption « risquerait de banaliser davantage le recours aux armes à feu » et renverserait la charge de la preuve au détriment des victimes ; un avocat de policiers, Laurent-Franck Lienard, s'y oppose aussi.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "L'opposition ne vient pas seulement de la gauche : avocats, autorités indépendantes et même un défenseur habituel de policiers sont réservés.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon une étude de Sebastian Roché, Paul Le Derff et Simon Varaine citée dans un document parlementaire, les décès après un tir sur un véhicule sont passés d'environ 0,06 à 0,32 par mois après la loi de 2017.",
+      "periode": "2012-2022",
+      "perimetre": "France",
+      "explication": "Le précédent élargissement des règles de tir s'est accompagné de plus de morts lors de tirs sur des véhicules ; l'interprétation causale est débattue.",
+      "source": 5,
+      "fiabilite": "debat",
+      "chiffre": "0,32 par mois"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les policiers peuvent déjà tirer légalement depuis 2017, en cas d'absolue nécessité et de manière proportionnée. Les tirs ont presque été divisés par deux depuis, et la justice a reconnu la légitimité du tir dans 12 enquêtes mortelles sur 14 en 2024. Présumer les agents dans leur droit risque surtout d'affaiblir les enquêtes, préviennent la Défenseure des droits et les avocats.",
+    "moyen": "Le droit protège déjà les forces de l'ordre : la légitime défense du code pénal s'applique à elles, et l'article L. 435-1 du code de la sécurité intérieure, créé en 2017, les autorise en plus à tirer dans cinq situations précises, en cas d'absolue nécessité et de façon strictement proportionnée. Le texte adopté par l'Assemblée en juillet 2026 ajouterait une présomption : l'agent serait réputé avoir tiré dans un cas autorisé, sauf preuve contraire.\n\nLes données ne montrent pas de policiers empêchés de se défendre : selon le Sénat, les tirs policiers sont passés de 338 en 2017 à 176 en 2025, et la justice a conclu à la légitimité du tir dans 12 des 14 enquêtes mortelles de 2024. Les critiques portent sur l'enquête : la Défenseure des droits, le Conseil national des barreaux et des juristes craignent des investigations moins rigoureuses après un tir mortel, et une présomption fondée sur la fonction plutôt que sur les faits.",
+    "detaille": "Le débat oppose deux préoccupations légitimes : protéger des agents exposés à des agressions réelles, et garantir qu'un tir mortel fasse toujours l'objet d'une enquête impartiale.\n\nQue dit le droit aujourd'hui ? Comme tout citoyen, un policier peut invoquer la légitime défense de l'article 122-5 du code pénal. Depuis 2017, l'article L. 435-1 du code de la sécurité intérieure lui permet en plus de faire usage de son arme dans cinq cas, par exemple contre un véhicule dont les occupants risquent de mettre des vies en danger dans leur fuite, à condition d'une absolue nécessité et d'une stricte proportionnalité. Le code pénal exonère de responsabilité l'acte autorisé par la loi.\n\nLe texte porté par Les Républicains, reprenant une revendication ancienne de Marine Le Pen, a été adopté par l'Assemblée le 7 juillet 2026 par 313 voix contre 199, puis par la commission des lois du Sénat sans modification. Réécrit par le gouvernement, il présume que l'agent a agi dans un cas autorisé, présomption qui peut être renversée. Ses partisans veulent éviter la garde à vue quasi systématique après un tir et faire peser la preuve sur le parquet.\n\nLes données ne montrent pas de policiers paralysés : selon le rapport du Sénat, les tirs opérationnels de la police ont presque été divisés par deux entre 2017 et 2025, et la justice a reconnu la légitimité du tir dans 12 des 14 enquêtes mortelles de 2024. Les agressions contre les forces de l'ordre sont en revanche nombreuses : 6 625 agressions physiques contre des policiers en 2024.\n\nLes opposants ne sont pas seulement à gauche. La Défenseure des droits redoute des enquêtes moins complètes ; le Conseil national des barreaux, la CNCDH et un avocat habituel de policiers s'y opposent ; un juriste souligne que la présomption reposerait sur le statut de la personne, non sur les circonstances, ce qui pose des questions d'égalité devant la loi et de conformité à la Convention européenne des droits de l'homme. Le précédent de 2017 invite à la prudence : une étude a observé davantage de décès après des tirs sur des véhicules après cette réforme.",
+    "empathie": "Vouloir que les policiers et les gendarmes ne soient pas traités comme des suspects quand ils font leur travail dans des conditions dangereuses est compréhensible. Mais les familles des personnes tuées ont aussi droit à une enquête complète, et une police respectée est une police contrôlée."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Aujourd'hui, un policier qui se défend finit en prison.",
+      "reponse": "La justice a reconnu la légitimité du tir dans 12 des 14 enquêtes sur des usages mortels de l'arme par la police en 2024, les deux autres étant en cours. Le droit actuel protège déjà les agents qui respectent la loi."
+    },
+    {
+      "objection": "La présomption peut être renversée, donc ça ne change rien.",
+      "reponse": "Elle change qui doit prouver : ce serait au parquet ou aux familles de démontrer que le tir n'était pas justifié. C'est pour cela que la Défenseure des droits craint des enquêtes moins poussées."
+    }
+  ],
+  "questions": [
+    "Si la justice reconnaît déjà la légitimité de la plupart des tirs, qu'apporte une présomption, sinon des enquêtes moins approfondies ?",
+    "Pourquoi une présomption liée à une profession plutôt qu'à des circonstances de danger, comme c'est le cas pour tous les citoyens ?"
+  ],
+  "limites": [
+    "Le texte n'est pas définitivement adopté à la date de vérification : il doit encore être examiné en séance au Sénat et pourrait être soumis au Conseil constitutionnel.",
+    "L'avis du Défenseur des droits a été lu à travers Maire info et Le Club des juristes, pas dans son texte original ; l'étude de Sebastian Roché à travers un document de travail d'un rapporteur LFI.",
+    "Les chiffres de tirs et d'enquêtes proviennent du ministère de l'Intérieur via le rapport du Sénat, favorable au texte ; ils ne disent rien des poursuites et condamnations d'agents.",
+    "La page Légifrance de l'article L. 435-1 n'a pas pu être ouverte. Les tirs lors de refus d'obtempérer sont traités dans la fiche refus-obtemperer-hausse, la légitime défense des particuliers dans la fiche legitime-defense-domicile."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport n° 167 (2026-2027) sur la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre dans l'exercice de leurs fonctions",
+      "organisme": "Sénat, commission des lois — rapporteure Lauriane Josende",
+      "date_publication": "10 novembre 2026",
+      "url": "https://www.senat.fr/rap/l26-167/l26-1671.pdf",
+      "passage": "Texte adopté par l'Assemblée nationale le 7 juillet 2026 ; la commission l'adopte sans modification. Le Gouvernement a remplacé la présomption de légitime défense par une présomption d'usage légal des armes, réfragable, inscrite à l'article L. 435-1 du code de la sécurité intérieure, qui autorise l'usage des armes dans cinq cas « en cas d'absolue nécessité et de manière strictement proportionnée ». Article 122-4 du code pénal : n'est pas responsable la personne qui accomplit un acte « prescrit ou autorisé » par la loi. Police : tirs opérationnels « presque été divisé par deux (de 338 à 176) » entre 2017 et 2025, dont 46 visant des animaux en 2025. IGPN : sur 14 enquêtes relatives à des usages mortels d'armes à feu en 2024, l'autorité judiciaire a conclu à la légitimité de l'emploi dans 12 procédures, deux étant en cours. Police, 2024 : « 6 625 agressions physiques », dont « 1 289 avec arme ». Gendarmes agressés avec une arme : nombre annuel « multiplié par deux » entre 2016 et 2025. La DGPN relève « une forte propension des parquets à ordonner systématiquement » la garde à vue.",
+      "pertinence": "Rapport parlementaire favorable au texte ; données du ministère de l'Intérieur.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'Assemblée approuve la présomption d'usage légitime de l'arme pour les forces de l'ordre",
+      "organisme": "LCP (La Chaîne parlementaire)",
+      "date_publication": "7 juillet 2026",
+      "url": "https://lcp.fr/actualites/l-assemblee-approuve-la-presomption-d-usage-legitime-de-l-arme-pour-les-forces-de-l",
+      "passage": "Adoptée en première lecture par 313 voix contre 199. Texte : « Lorsqu’ils font usage de leurs armes, les agents de la police nationale » « et les militaires de la gendarmerie nationale sont présumés avoir agi dans l’un des cas autorisés » ; « Cette présomption peut, à tout moment, être renversée par tout élément de preuve contraire. » Pour : Ensemble pour la République, Les Démocrates, Horizons, Droite républicaine, RN et UDR ; contre : LFI, socialistes, écologistes, GDR. Laurent Nuñez : « Ce texte n’organise aucune irresponsabilité pénale des policiers et des gendarmes ».",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Présomption de légitime défense » pour les forces de l'ordre : le débat reprend à l'Assemblée nationale",
+      "organisme": "Maire info",
+      "date_publication": "7 juillet 2026",
+      "url": "https://www.maire-info.com/presomption-de-legitime-defense-pour-les-forces-de-lordre-le-debat-reprend-a-lassemblee-nationale-article-30961",
+      "passage": "Proposition de loi LR (rapporteur Ian Boucard) ; le député RN Michaël Taverne dit qu'elle « reprend une proposition défendue de longue date par Marine Le Pen ». Effets annoncés : éviter la garde à vue et renverser la charge de la preuve, le parquet devant montrer que le tir était « manifestement disproportionnée ». La commission des lois avait rejeté le texte en janvier. La Défenseure des droits Claire Hédon met en garde : l'enquête après un tir mortel doit être « complète et impartiale ». L'avocat de policiers Laurent-Franck Lienard s'y oppose, craignant un usage de l'arme dans des situations « qui aurait mérité plus de réflexion ». Amnesty International, la LDH, le Syndicat de la magistrature et la CNCDH s'y opposent aussi.",
+      "pertinence": "Quotidien d'information des maires.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Ce que changerait la présomption de légitime défense pour les forces de l'ordre",
+      "organisme": "Benjamin Fiorini, maître de conférences en droit privé et sciences criminelles (université Paris 8), Le Club des juristes",
+      "date_publication": "10 juillet 2026",
+      "url": "https://www.leclubdesjuristes.com/societe/ce-que-changerait-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-16913/",
+      "passage": "Article 122-5 du code pénal : légitime défense nécessaire et proportionnée. Article L. 435-1 du code de la sécurité intérieure (2017) : usage des armes « en cas d'absolue nécessité » et « de manière strictement proportionnée » dans cinq situations. Les seules présomptions existantes (article 122-6) visent l'intrusion nocturne et le vol ou pillage avec violence. Le texte rattacherait la présomption au statut de l'agent et non au danger objectif. Le Défenseur des droits, qui a rendu un avis négatif, redoute « un effet pratique préoccupant » : des enquêtes initiales moins poussées. L'auteur évoque des difficultés au regard de la Convention européenne des droits de l'homme et de l'égalité devant la loi, et une probable saisine du Conseil constitutionnel.",
+      "pertinence": "Analyse d'un universitaire sur un site juridique de référence.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "PPL présomption de légitime défense : le CNB s'oppose à un nouvel assouplissement de l'usage des armes par les forces de l'ordre",
+      "organisme": "Conseil national des barreaux (CNB)",
+      "date_publication": "13 octobre 2026",
+      "url": "https://cnb.avocat.fr/actualite/ppl-presomption-de-legitime-defense-le-cnb-s-oppose-a-un-nouvel-assouplissement-de-l-usage-des-armes-par-les-forces-de-l-ordre",
+      "passage": "Une telle présomption « risquerait de banaliser davantage le recours aux armes à feu », renverserait la charge de la preuve au détriment des victimes et porterait atteinte au droit à la vie, à l'accès au juge et à la manifestation de la vérité. L'article L. 435-1 prévoit déjà depuis 2017 un régime dérogatoire. Le CNB propose plutôt formation, désescalade, traçabilité des interventions et contrôle indépendant.",
+      "pertinence": "Instance représentative des avocats ; position d'une profession concernée.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi visant à abroger l'article L. 435-1 du code de la sécurité intérieure (n° 1553) — état d'avancement des travaux du rapporteur",
+      "organisme": "Assemblée nationale — rapporteur Thomas Portes (LFI)",
+      "date_publication": "21 novembre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/713313/file/EAT%20PPL%201553%20-%20abrogation%20article%20L.%20435-1%20CSI.pdf",
+      "passage": "Cite l'étude de Sebastian Roché, Paul Le Derff et Simon Varaine (revue Esprit, septembre 2022) : « 0.32 décès par mois à l'issue d'un tir sur un véhicule, contre 0.06 avant la réforme ». Rappelle l'avis du Défenseur des droits de janvier 2017, qui jugeait les cas prévus déjà couverts par la légitime défense, et la Cour des comptes (2018) : en 2017, 51 % des policiers n'avaient pas suivi les trois séances réglementaires de tir.",
+      "pertinence": "Document de travail d'un rapporteur de gauche (source partisane), utilisé pour les études qu'il cite.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Examen en séance au Sénat, adoption définitive éventuelle et décision du Conseil constitutionnel.",
+  "objections_legitimes": [
+    "Les policiers et gendarmes subissent des milliers d'agressions chaque année.",
+    "La garde à vue après un tir, même justifié, est vécue comme une humiliation par les agents.",
+    "Les règles d'usage de l'arme doivent être claires pour ceux qui doivent décider en quelques secondes."
+  ],
+  "publics": {
+    "convaincus": "Les policiers ont déjà le droit de tirer quand c'est absolument nécessaire, et la justice leur donne raison dans la grande majorité des cas : 12 enquêtes mortelles sur 14 en 2024. La présomption ne leur donne pas plus de droits, elle rend surtout les enquêtes moins exigeantes. Même un avocat qui défend des policiers depuis des années s'y oppose.",
+    "indecis": "Les policiers font face à de vraies agressions, et leur sécurité compte. Mais ils peuvent déjà tirer légalement dans cinq situations depuis 2017, et les tirs ont baissé depuis. Ce qui est en jeu, c'est la qualité de l'enquête quand quelqu'un meurt : c'est pour cela que la Défenseure des droits et les avocats sont inquiets."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "democratie",
+      "egalite"
+    ],
+    "mecanismes": "On présente les policiers comme privés du droit de se défendre, alors que la loi les autorise déjà à tirer dans des cas précis et que la justice reconnaît la légitimité de la plupart des tirs ; la présomption déplace surtout la charge de la preuve vers les familles des victimes.",
+    "consequences": "Des enquêtes moins rigoureuses après un tir mortel, un risque de banalisation de l’usage des armes, et une défiance accrue entre la police et les habitants des quartiers les plus contrôlés.",
+    "democratie": "Dans un État de droit, l’usage de la force publique doit être strictement encadré et contrôlé de façon indépendante ; une présomption liée au statut d’une profession rompt avec l’égalité devant la loi.",
+    "propositions": [
+      "Renforcer la formation au tir, à la désescalade et à la gestion des situations de crise des policiers et gendarmes.",
+      "Créer un organe de contrôle indépendant des forces de l’ordre, distinct de leur hiérarchie.",
+      "Publier chaque année des données complètes sur l’usage des armes, les décès et les suites judiciaires."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les policiers subissent des milliers d’agressions physiques chaque année, dont beaucoup avec arme, et les agressions armées de gendarmes ont augmenté.",
+        "integration": "Protéger les agents est une exigence légitime : elle passe par l’équipement, la formation et des effectifs suffisants, pas par un affaiblissement du contrôle sur l’usage des armes."
+      }
+    ]
+  },
+  "concepts": [
+    "presomption_ld",
+    "legitime_defense"
+  ],
+  "repond_a": [
+    {
+      "id": "presomption_ld_q1215",
+      "label": "Présomption de légitime défense des policiers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "presomption de legitime defense",
+    "permis de tuer",
+    "legitime defense"
+  ]
+}

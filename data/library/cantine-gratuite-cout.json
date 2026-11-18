@@ -1,0 +1,240 @@
+{
+  "id": "cantine-gratuite-cout",
+  "type": "idee_recue",
+  "affirmation": "La cantine gratuite pour tous les élèves coûterait une fortune.",
+  "volet": "services",
+  "sous_theme": "École publique",
+  "rubriques": [],
+  "mots_cles": [
+    "cantine gratuite",
+    "gratuite de la cantine",
+    "cantine a 1 euro",
+    "repas cantine prix",
+    "cout de la cantine",
+    "ecole gratuite lfi",
+    "cantine scolaire pauvrete",
+    "cantine pour tous"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Question d'opinion. La gratuité a un coût réel, mais aucun chiffrage public fiable de la seule cantine gratuite n'a été trouvé : le chiffre de 7,9 milliards par an avancé par la gauche en 2022 couvre toute l'école gratuite (cantine, transports, fournitures, sorties). Un repas coûte aux communes entre 5 et 7 € selon les études, et les familles en paient déjà une partie. L'enjeu est social : au collège, les élèves de familles défavorisées sont deux fois plus nombreux à ne pas manger à la cantine. L'État finance déjà une cantine à 1 €, mais il a fermé les nouvelles adhésions en 2025.",
+  "contexte": "La gauche, et notamment La France insoumise, propose de rendre gratuite la cantine scolaire, dans le cadre d'une école publique entièrement gratuite. Des communes l'ont déjà fait. Ses opposants la jugent hors de prix.",
+  "explication": "Il faut distinguer ce que coûte un repas, ce que paient déjà les familles et les collectivités, ce que coûte le dispositif public existant, puis regarder qui ne mange pas à la cantine aujourd'hui.",
+  "faits": [
+    {
+      "fait": "Selon un compte rendu du rapport de la Cour des comptes de 2020, un repas de cantine coûtait en moyenne 7,33 € à produire, livrer et servir en 2017 dans les collectivités contrôlées, et 720 millions de repas ont été servis en France cette année-là.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "La restauration scolaire est un service public de grande ampleur, dont le coût est mal suivi par les collectivités.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "7,33 €"
+    },
+    {
+      "fait": "Selon une étude Ipsos de 2021 pour l'administration, le coût de revient moyen déclaré d'un repas est de 5,30 € hors coûts de fonctionnement, et les familles paient en moyenne 3,30 €.",
+      "periode": "2021",
+      "perimetre": "France, communes interrogées",
+      "explication": "Les familles paient déjà une part importante du repas : la gratuité consisterait à faire passer cette part du budget des ménages au budget public.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "3,30 €"
+    },
+    {
+      "fait": "Fait défavorable : la proposition de loi de la Nupes de 2022 pour une école publique entièrement gratuite, incluant la cantine, les transports et les fournitures, était chiffrée à 7,9 milliards d'euros par an.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La gratuité totale de l'école représente un coût important ; ce chiffre ne porte pas sur la seule cantine.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "7,9 milliards €"
+    },
+    {
+      "fait": "Selon une enquête du Cnesco rapportée en 2017, 40 % des collégiens de familles défavorisées ne mangent pas à la cantine, contre 22 % de ceux de familles favorisées et 17 % de ceux de familles très favorisées.",
+      "periode": "2017",
+      "perimetre": "France, collèges",
+      "explication": "Ce sont les enfants qui en auraient le plus besoin qui mangent le moins à la cantine.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "40 %"
+    },
+    {
+      "fait": "L'État verse 3 € par repas aux communes qui facturent la cantine au plus 1 € aux familles modestes ; 193 000 élèves en ont bénéficié en 2024, pour 76,9 millions d'euros de crédits prévus en 2026.",
+      "periode": "2024-2026",
+      "perimetre": "France",
+      "explication": "Un dispositif public de cantine quasi gratuite existe déjà, pour un coût modeste à l'échelle du budget de l'État.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "76,9 millions €"
+    },
+    {
+      "fait": "Fait défavorable : les nouvelles adhésions des communes à la cantine à 1 € sont closes depuis le 26 juillet 2025, pour tenir dans les crédits votés.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le dispositif existant est plafonné : les communes qui ne l'avaient pas encore demandé ne peuvent plus y entrer.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'étude Ipsos, les communes bénéficiaires de la cantine à 1 € interrogées constatent surtout une baisse des impayés et pas de hausse significative de la fréquentation.",
+      "periode": "2021",
+      "perimetre": "France, communes interrogées",
+      "explication": "Les effets mesurés de la tarification sociale restent limités et reposent sur des déclarations de communes ; ils ne permettent pas de conclure sur une gratuité universelle.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "La gratuité a un coût, mais aucun chiffrage public fiable de la seule cantine gratuite n'existe : les 7,9 milliards souvent cités couvrent toute l'école gratuite. Un repas coûte entre 5 et 7 € et les familles en paient déjà une bonne partie. Et au collège, les enfants pauvres sont deux fois plus nombreux à ne pas manger à la cantine.",
+    "moyen": "Un repas de cantine coûte aux collectivités entre 5,30 € et 7,33 € selon les études, et les familles en paient en moyenne environ 3,30 €. Rendre la cantine gratuite revient donc à transférer cette dépense du budget des familles vers le budget public, avec un coût supplémentaire si davantage d'enfants viennent manger. La proposition de loi de la gauche de 2022, qui couvrait aussi les transports et les fournitures, était chiffrée à 7,9 milliards d'euros par an.\n\nL'enjeu n'est pas que comptable. Au collège, 40 % des enfants de familles défavorisées ne mangent pas à la cantine, contre 17 % des plus favorisés. L'État finance déjà une cantine à 1 € dans plus de 3 000 collectivités, mais il a fermé les nouvelles inscriptions en 2025. Dire que c'est « une fortune » est un choix politique : c'est une question de priorités.",
+    "detaille": "Combien coûte un repas de cantine ? Selon la Cour des comptes, en 2017, environ 7,33 € à produire, livrer et servir dans les collectivités contrôlées. Une étude Ipsos de 2021 donne un coût de revient déclaré de 5,30 € hors frais de fonctionnement, pour un prix moyen payé par les familles de 3,30 €. Les familles financent donc déjà une partie du service, les communes le reste.\n\nCombien coûterait la gratuité ? Aucune source publique lue ne chiffre la seule cantine gratuite pour tous. La proposition de loi portée en 2022 par Paul Vannier (LFI) et cosignée par 104 députés de gauche, qui rendait gratuits la cantine, les transports, les sorties, les manuels et les fournitures, était estimée à 7,9 milliards d'euros par an, en tenant compte d'une hausse de fréquentation. C'est une somme importante, mais elle correspond à des dépenses que les familles paient aujourd'hui de leur poche.\n\nCe qui existe déjà : l'État verse 3 € par repas aux communes qui facturent la cantine au plus 1 € aux familles modestes. En 2024, 193 000 élèves en ont bénéficié, pour 76,9 millions d'euros prévus en 2026. Mais le gouvernement a fermé les nouvelles adhésions en juillet 2025. Or l'enjeu social est clair : selon le Cnesco, au collège, les élèves de familles défavorisées sont deux fois plus nombreux que les autres à ne pas manger à la cantine. Les communes qui pratiquent une tarification sociale citent d'abord, comme avantage, l'accès des enfants à au moins un repas équilibré par jour. La question n'est donc pas de savoir si la gratuité a un coût, mais si l'on considère que nourrir tous les enfants à l'école fait partie de l'école publique gratuite.",
+    "empathie": "Il est normal de se demander qui paiera une mesure de gratuité : rien n'est vraiment gratuit, et les budgets des communes sont serrés. Cette prudence est légitime, à condition de comparer avec ce que paient déjà les familles."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La gratuité, ce sont les contribuables qui paient.",
+      "reponse": "Aujourd'hui, les familles paient déjà une bonne partie du repas. La gratuité fait passer cette dépense de la poche des parents au budget public, comme pour l'école elle-même, financée par l'impôt selon les moyens de chacun."
+    },
+    {
+      "objection": "Les pauvres ont déjà la cantine à 1 €.",
+      "reponse": "Seulement dans les communes inscrites, et le gouvernement a fermé les nouvelles inscriptions en juillet 2025. Au collège, les enfants de familles défavorisées restent deux fois plus nombreux à ne pas manger à la cantine."
+    }
+  ],
+  "questions": [
+    "Combien paie votre commune pour un repas de cantine, et combien paient les familles ?",
+    "Pourquoi l'école serait-elle gratuite mais pas le repas que les enfants y prennent ?"
+  ],
+  "limites": [
+    "Aucune source lue ne chiffre la seule gratuité de la cantine pour tous : le chiffre de 7,9 milliards couvre l'ensemble de la gratuité scolaire proposée en 2022.",
+    "Le coût d'un repas de la Cour des comptes date de 2017 et a été lu à travers un compte rendu ; l'étude Ipsos repose sur des déclarations de communes (42 % ont donné un montant exact).",
+    "L'enquête du Cnesco date de 2017 et a été lue à travers un compte rendu de presse professionnelle.",
+    "La note du Haut Conseil de la famille, de l'enfance et de l'âge sur la restauration scolaire n'a pas pu être ouverte ; les villes ayant instauré la gratuité n'ont pas été vérifiées dans une source lue.",
+    "Aucune étude française lue ne mesure l'effet de la gratuité sur la santé ou les résultats scolaires."
+  ],
+  "sources": [
+    {
+      "titre": "Question écrite de Mme Sylvie Robert sur le dispositif « cantine à 1 euro » et réponse du ministère du Travail et des Solidarités",
+      "organisme": "Sénat",
+      "date_publication": "question publiée le 13 novembre 2025, réponse publiée le 22 janvier 2026",
+      "url": "https://www.senat.fr/questions/base/2025/qSEQ251106658.html",
+      "passage": "L'État verse 3 € par repas facturé au plus 1 € aux familles modestes (4 € pour les communes engagées dans la démarche EGalim). 3 090 collectivités inscrites au 31 octobre 2025, contre 2 674 fin 2024. 193 000 élèves ont bénéficié d'un repas à tarif social en 2024 ; plus de 19 millions de repas servis à tarif social en 2023-2024. Les adhésions sont closes depuis le 26 juillet 2025 ; les collectivités inscrites restent couvertes jusqu'au 31 décembre 2027. Crédits : 76,9 millions d'euros prévus pour 2026 (36,2 millions en 2024). Le dispositif « n'est par conséquent pas suspendu ».",
+      "pertinence": "Réponse officielle du gouvernement publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La restauration scolaire, un service coûteux et mal maîtrisé par les collectivités",
+      "organisme": "Virginie Fauvel avec l’AFP, Localtis (Banque des Territoires), compte rendu du rapport public annuel 2020 de la Cour des comptes",
+      "date_publication": "25 février 2020",
+      "url": "https://www.banquedesterritoires.fr/la-restauration-scolaire-un-service-couteux-et-mal-maitrise-par-les-collectivites",
+      "passage": "Les chambres régionales des comptes ont contrôlé 80 communes et établissements locaux (28,8 millions de repas en 2017). Coût moyen brut d'un repas produit, livré et servi : 7,33 € en 2017. 720 millions de repas servis en 2017 au niveau national. Le coût est « rarement l'objet d'une évaluation financière consolidée ».",
+      "pertinence": "Compte rendu par un média des collectivités d'un rapport de la Cour des comptes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La tarification sociale des cantines scolaires et la « cantine à 1 euro » : analyse globale des volets qualitatif et quantitatif",
+      "organisme": "Ipsos, étude réalisée pour l’administration (publiée par le ministère des Solidarités)",
+      "date_publication": "mai 2021",
+      "url": "https://solidarites.gouv.fr/sites/solidarite/files/2022-12/la_tarification_sociale_des_cantines_scolaires_bilan_ipsos.pdf",
+      "passage": "Coût de revient moyen déclaré d'un repas : 5,30 € hors coûts de fonctionnement ; prix moyen payé par les familles : 3,30 € (calcul sur les 42 % de communes ayant donné un montant exact). 91 % des communes pratiquant une tarification sociale citent l'accès à au moins un repas équilibré par jour comme avantage. Les communes bénéficiaires de la cantine à 1 € interrogées ne constatent pas de hausse significative de la fréquentation ; l'une d'elles : « Depuis qu'on a mis en place le dispositif à un euro, on a beaucoup moins d'impayés ».",
+      "pertinence": "Étude d'évaluation commandée par l'administration.",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Il existe une disparité d’accès à la restauration scolaire en France",
+      "organisme": "Nathalie Marchand, Réussir – Les Marchés, à propos d’une enquête du Cnesco (Conseil national d’évaluation du système scolaire)",
+      "date_publication": "3 octobre 2017",
+      "url": "https://reussir.fr/lesmarches/il-existe-une-disparite-dacces-la-restauration-scolaire-en-france",
+      "passage": "Enquête du Cnesco auprès des chefs d'établissement du second degré : environ 70 % des collégiens du public sont inscrits à la cantine. Au collège, 40 % des élèves de familles défavorisées ne mangent pas à la cantine, contre 22 % de ceux de familles favorisées et 17 % de ceux de familles très favorisées : « les élèves issus de familles défavorisées sont deux fois plus nombreux » à ne pas y manger. 55 % des établissements déclarent n'avoir aucune politique tarifaire spécifique pour les élèves les plus démunis.",
+      "pertinence": "Presse professionnelle rapportant une enquête d'un organisme public d'évaluation.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Cantine, transport et fournitures : la Nupes veut rendre l'école publique totalement gratuite",
+      "organisme": "Jason Wiels, LCP (La Chaîne parlementaire)",
+      "date_publication": "30 août 2022",
+      "url": "https://lcp.fr/actualites/cantine-transport-et-fournitures-la-nupes-veut-rendre-l-ecole-publique-totalement",
+      "passage": "Proposition de loi portée par Paul Vannier (LFI), cosignée par 104 députés insoumis, socialistes, communistes et écologistes : l'État financerait la cantine, les transports, les sorties scolaires, les activités périscolaires, les manuels et les fournitures des élèves du public. Coût estimé : 7,9 milliards d'euros par an, en tenant compte de la hausse de fréquentation des cantines. Paul Vannier veut « garantir la gratuité réelle de l'éducation ».",
+      "pertinence": "Chaîne parlementaire ; présentation d'une proposition de loi.",
+      "type": "media",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 8457 sur l'accès des élèves défavorisés à la cantine, et réponse du ministère de l'Éducation nationale",
+      "organisme": "Assemblée nationale (XVe législature)",
+      "date_publication": "question publiée le 22 mai 2018, réponse publiée le 14 août 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE8457.pdf",
+      "passage": "Selon le Cnesco, les élèves de milieux défavorisés sont « deux fois moins nombreux » à fréquenter la cantine. Plusieurs collectivités pratiquent des tarifs différenciés selon les ressources ; dans le secondaire, les frais de cantine sont déduits des bourses et des fonds sociaux existent. Dans le primaire, l'inscription à la cantine est un droit pour tous les enfants (article L. 131-13 du code de l'éducation, loi du 27 janvier 2017).",
+      "pertinence": "Réponse officielle du gouvernement publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Avenir du dispositif cantine à 1 € au-delà de 2027 et éventuels chiffrages publics de la gratuité.",
+  "objections_legitimes": [
+    "La gratuité a un coût réel pour les communes et l'État, surtout si davantage d'élèves viennent manger.",
+    "Le coût de la restauration scolaire est mal évalué par beaucoup de collectivités, selon la Cour des comptes.",
+    "Les effets de la tarification sociale sur la fréquentation et la santé des enfants ont été peu mesurés en France."
+  ],
+  "publics": {
+    "convaincus": "On peut discuter du coût, mais posez-vous la question : qui ne mange pas à la cantine aujourd'hui ? Au collège, ce sont deux fois plus souvent les enfants pauvres. L'État finance déjà une cantine à 1 € pour 193 000 élèves, pour moins de 80 millions d'euros : nourrir les enfants qui ont faim n'est pas une folie, c'est un choix de priorités.",
+    "indecis": "Un repas coûte entre 5 et 7 € et les familles en paient déjà une partie : la gratuité consiste à mutualiser cette dépense, comme on le fait pour l'école. Le coût exact d'une cantine gratuite pour tous n'a pas été chiffré de façon fiable. Ce qui est sûr, c'est que les enfants des familles modestes mangent bien moins souvent à la cantine."
+  },
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "egalite",
+      "services_publics"
+    ],
+    "mecanismes": "Le coût d’une mesure est présenté comme une dépense nouvelle sortie de nulle part, alors que les familles paient déjà une grande partie des repas. On oublie aussi de dire qui reste aujourd’hui à l’écart de la cantine.",
+    "consequences": "Les enfants des familles modestes mangent moins souvent à la cantine, et le dispositif public existant est plafonné faute de crédits, ce qui creuse les inégalités entre communes.",
+    "democratie": "La gratuité de l’école publique est un principe collectif : décider ce qu’elle inclut doit relever d’un débat ouvert sur les priorités, chiffres publics à l’appui.",
+    "propositions": [
+      "Rouvrir et étendre la tarification sociale de la cantine à toutes les communes qui le souhaitent.",
+      "Avancer vers la gratuité de la cantine dans l’école publique, financée par une fiscalité juste et un soutien de l’État aux communes.",
+      "Évaluer publiquement les effets de la cantine sur la santé, la fréquentation et la réussite des enfants."
+    ],
+    "defavorables": [
+      {
+        "fait": "La gratuité totale de l’école publique proposée par la gauche représente un coût annuel important pour les finances publiques.",
+        "integration": "Assumer ce coût comme un choix de priorités et rappeler qu’il remplace des dépenses que les familles paient aujourd’hui de leur poche."
+      }
+    ]
+  },
+  "concepts": [
+    "cantine_gratuite",
+    "prestations",
+    "pauvrete",
+    "services_publics",
+    "melenchon_lfi",
+    "gauche",
+    "cout",
+    "cantine"
+  ],
+  "repond_a": [
+    {
+      "id": "cantine_gratuite_q1215",
+      "label": "Cantine gratuite"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ]
+}

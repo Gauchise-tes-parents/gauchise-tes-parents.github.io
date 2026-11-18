@@ -1,0 +1,273 @@
+{
+  "id": "senat-inutile-supprimer",
+  "type": "idee_recue",
+  "affirmation": "Le Sénat ne sert à rien, il faut le supprimer.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "le senat ne sert a rien",
+    "supprimer le senat",
+    "senat inutile",
+    "a quoi sert le senat",
+    "cout du senat",
+    "senateurs inutiles",
+    "dernier mot assemblee nationale",
+    "navette parlementaire"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le Sénat vote la loi, l'amende et contrôle le gouvernement : en 2025, il a adopté 3 120 amendements, et l'Assemblée n'a eu le « dernier mot » contre lui que pour 2 des 80 textes définitivement adoptés. Il coûte environ 360 millions d'euros par an. Les critiques démocratiques sont réelles (élection indirecte, majorité de droite presque permanente), mais supprimer ou transformer le Sénat est un choix politique, défendu notamment par LFI, qui suppose une révision de la Constitution.",
+  "contexte": "L'idée revient régulièrement, souvent sous la forme « des élus payés à ne rien faire ». Elle est portée aussi bien par des électeurs d'extrême droite que par une partie de la gauche, La France insoumise proposant de remplacer le Sénat actuel dans le cadre d'une VIe République.",
+  "explication": "On distingue ce que la Constitution donne au Sénat, ce qu'il fait réellement (statistiques de la séance, enquêtes), ce qu'il coûte, et les critiques de fond sur sa légitimité démocratique.",
+  "faits": [
+    {
+      "fait": "Selon l'article 24 de la Constitution, le Parlement, composé de l'Assemblée nationale et du Sénat, « vote la loi » et « contrôle l'action du Gouvernement » ; le Sénat « assure la représentation des collectivités territoriales ».",
+      "periode": "depuis 1958",
+      "perimetre": "France",
+      "explication": "Le Sénat a des fonctions précises : écrire la loi avec les députés et contrôler le pouvoir exécutif.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'article 45 de la Constitution, chaque texte est examiné successivement par les deux assemblées ; en cas de désaccord persistant et d'échec de la commission mixte paritaire, le gouvernement peut demander à l'Assemblée nationale de « statuer définitivement ».",
+      "periode": "depuis 1958",
+      "perimetre": "France",
+      "explication": "Le Sénat ne peut pas bloquer une loi ordinaire : c'est l'Assemblée élue au suffrage direct qui a le dernier mot.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon les statistiques du Sénat, en 2025, 80 textes ont été définitivement adoptés, dont 25 après une commission mixte paritaire, et seulement 2 avec le « dernier mot » de l'Assemblée nationale ; 3 120 amendements ont été adoptés au Sénat.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "L'immense majorité des lois passe par un accord entre les deux chambres, et le Sénat modifie beaucoup les textes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "3 120"
+    },
+    {
+      "fait": "Selon Public Sénat, en 2018-2019, 72 % des textes ont été adoptés avec l'accord du Sénat.",
+      "periode": "2018-2019",
+      "perimetre": "France",
+      "explication": "Le constat se répète d'une année à l'autre : le Sénat participe réellement à l'écriture de la loi.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "72 %"
+    },
+    {
+      "fait": "La commission d'enquête du Sénat sur les cabinets de conseil a montré que l'État avait eu recours à au moins 2 070 cabinets entre 2018 et 2020 ; le Parquet national financier a ouvert une enquête visant McKinsey le 31 mars 2022.",
+      "periode": "2018-2022",
+      "perimetre": "France",
+      "explication": "Le contrôle sénatorial peut mettre au jour des dérives de l'exécutif, y compris quand la majorité sénatoriale est de droite.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "2 070"
+    },
+    {
+      "fait": "Selon la commission des finances du Sénat, la dotation de l'État au Sénat s'élève à 359,48 millions d'euros dans le projet de budget 2025, contre 617,98 millions pour l'Assemblée nationale.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le coût est réel mais modeste à l'échelle du budget de l'État ; le supprimer ne réglerait aucun grand problème budgétaire.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "359,48 millions d’euros"
+    },
+    {
+      "fait": "Fait défavorable : les sénateurs sont élus au suffrage indirect par un collège dont les délégués des conseils municipaux « représentent 95 % des 150 000 électeurs ».",
+      "periode": "2011",
+      "perimetre": "France",
+      "explication": "Les citoyens n'élisent pas directement leurs sénateurs, et les élus municipaux pèsent presque tout : la critique démocratique du Sénat est fondée, d'autant que la droite et le centre l'ont dirigé de 1958 à 2011 puis à nouveau depuis 2014.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "95 %"
+    },
+    {
+      "fait": "Selon Public Sénat, La France insoumise veut « supprimer le Sénat » dans sa forme actuelle et rediscuter le bicamérisme dans le cadre d'une VIe République issue d'une assemblée constituante.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "À gauche aussi, la suppression est défendue, mais comme une refonte démocratique d'ensemble, pas comme une économie ni par rejet des élus.",
+      "source": 8,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le Sénat vote et amende les lois et contrôle le gouvernement : en 2025, l'Assemblée n'a eu le dernier mot contre lui que pour 2 textes sur 80. Il coûte environ 360 millions d'euros par an. On peut vouloir le réformer ou le supprimer, comme LFI, mais dire qu'il ne sert à rien est faux.",
+    "moyen": "Le Sénat écrit la loi avec l'Assemblée nationale : chaque texte fait la navette entre les deux chambres. En 2025, 3 120 amendements y ont été adoptés, et sur 80 textes définitivement adoptés, l'Assemblée n'a dû trancher seule que pour 2. Le Sénat contrôle aussi le gouvernement, par exemple avec sa commission d'enquête sur les cabinets de conseil en 2022. Son coût, environ 360 millions d'euros par an, est réel mais modeste.\n\nLes critiques de fond existent pourtant : les sénateurs sont élus indirectement, surtout par des délégués des conseils municipaux, et le Sénat a presque toujours été à droite. C'est pourquoi une partie de la gauche, dont LFI, veut le supprimer dans sa forme actuelle et repenser le Parlement dans une VIe République. Ce choix se discute démocratiquement ; il suppose une révision de la Constitution.",
+    "detaille": "La Constitution donne au Sénat deux missions : voter la loi et contrôler le gouvernement, en représentant les collectivités territoriales. Chaque projet ou proposition de loi passe successivement devant les deux assemblées. En cas de désaccord, une commission mixte paritaire, composée de députés et de sénateurs, cherche un compromis ; si elle échoue, le gouvernement peut donner le dernier mot à l'Assemblée nationale. Le Sénat ne peut donc pas bloquer une loi ordinaire, sauf pour les lois organiques qui le concernent et les révisions de la Constitution, qui exigent l'accord des deux chambres. Le gouvernement, lui, n'est responsable que devant l'Assemblée.\n\nDans les faits, le Sénat pèse. En 2025, 13 166 amendements y ont été déposés et 3 120 adoptés ; sur 80 textes définitivement adoptés, seuls 2 l'ont été avec le dernier mot de l'Assemblée. En 2018-2019, Public Sénat comptait 72 % de textes adoptés avec l'accord du Sénat. Ses commissions d'enquête peuvent aussi gêner l'exécutif : celle sur les cabinets de conseil a révélé en 2022 le recours à au moins 2 070 cabinets entre 2018 et 2020, avant l'ouverture d'une enquête du Parquet national financier visant McKinsey. Son coût, environ 359 millions d'euros de dotation prévus pour 2025, représente un peu plus de la moitié de celui de l'Assemblée.\n\nLes critiques démocratiques n'en sont pas moins sérieuses. Les sénateurs sont élus par environ 150 000 grands électeurs, à 95 % des délégués des conseils municipaux, ce qui avantage les petites communes rurales. Le Sénat a été tenu par la droite et le centre de 1958 à 2011, puis à nouveau depuis 2014 ; Lionel Jospin parlait d'une « anomalie démocratique ». Le supprimer n'est pas une idée neuve : en 1969, le général de Gaulle voulait le transformer en assemblée consultative, et le « non » l'a emporté à 52,41 %. Aujourd'hui, La France insoumise veut le supprimer dans sa forme actuelle et rediscuter le bicamérisme dans une VIe République. La vraie question n'est donc pas « sert-il à quelque chose ? », mais « quel Parlement voulons-nous, et comment rendre la seconde chambre plus démocratique ? ».",
+    "empathie": "On voit rarement ce que font les sénateurs, et leur mode d'élection paraît lointain : il est compréhensible de se demander à quoi ils servent. Cette question mérite une réponse précise plutôt qu'un slogan."
+  },
+  "contre_arguments": [
+    {
+      "objection": "De toute façon, c'est l'Assemblée qui décide.",
+      "reponse": "Elle peut avoir le dernier mot, mais c'est rare : en 2025, seulement 2 textes sur 80. Le reste du temps, les lois sont le fruit d'un accord où le Sénat a pesé."
+    },
+    {
+      "objection": "Ça coûte une fortune.",
+      "reponse": "Environ 359 millions d'euros de dotation prévue en 2025, soit un peu plus de la moitié de l'Assemblée. Ce n'est pas avec cette ligne qu'on règle le budget de l'État ; la vraie question est démocratique."
+    }
+  ],
+  "questions": [
+    "Si le Sénat disparaissait, qui ferait le travail de relecture des lois et de contrôle du gouvernement ?",
+    "Vaut-il mieux supprimer le Sénat ou changer la façon dont on élit la seconde chambre ?"
+  ],
+  "limites": [
+    "Les statistiques de 2018-2019 viennent d'un article de 2019 ; celles de 2025 sont les plus récentes lues.",
+    "Le document sur les cabinets de conseil est une présentation du Sénat lui-même, donc favorable à son action.",
+    "La page du Sénat sur le collège électoral date des sénatoriales de 2011 ; la proportion de délégués municipaux a pu légèrement évoluer.",
+    "Le programme de LFI n'a pas pu être lu directement (pages du site de campagne bloquées) : la position est rapportée par Public Sénat.",
+    "Les fiches de Vie publique sur la procédure législative n'ont pas pu être ouvertes."
+  ],
+  "sources": [
+    {
+      "titre": "Constitution du 4 octobre 1958 (version consolidée)",
+      "organisme": "Légifrance (service public de la diffusion du droit)",
+      "date_publication": "4 octobre 1958 (version en vigueur au 23 juillet 2017)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/2017-07-23",
+      "passage": "Article 24 : le Parlement « vote la loi » et « contrôle l'action du Gouvernement » ; le Sénat « assure la représentation des collectivités territoriales de la République » ; le nombre de sénateurs ne peut dépasser 348, celui des députés 577. Article 45 : tout texte est « examiné successivement dans les deux Assemblées du Parlement » ; en cas de désaccord, une commission mixte paritaire peut être réunie ; si elle échoue, le Gouvernement peut « demander à l'Assemblée nationale de statuer définitivement ». Article 46 : « Les lois organiques relatives au Sénat doivent être votées dans les mêmes termes par les deux assemblées. » Article 49 : le Gouvernement engage sa responsabilité « devant l'Assemblée nationale ». Article 89 : une révision de la Constitution doit être « voté[e] par les deux assemblées en termes identiques », puis approuvée par référendum ou par le Congrès à la majorité des trois cinquièmes.",
+      "pertinence": "Texte de la Constitution.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Statistiques de l'activité du Sénat — année civile 2025",
+      "organisme": "Sénat",
+      "date_publication": "2026",
+      "url": "https://www.senat.fr/fileadmin/cru-1776709016/Seance/Statistiques/Elements_statistiques/statistiques_annee_civile_2025.pdf",
+      "passage": "En 2025 : 80 textes définitivement adoptés (63 hors conventions internationales) ; 25 textes issus d'une commission mixte paritaire ; 2 textes adoptés avec le « dernier mot » de l'Assemblée nationale. 13 166 amendements déposés et 3 120 adoptés au Sénat. Contrôle : 485 questions d'actualité au Gouvernement, 4 493 questions écrites pour 3 941 réponses, 147 h 15 de séance consacrées au contrôle.",
+      "pertinence": "Tableau statistique officiel du Sénat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Depuis l'élection de Macron, les deux tiers des textes sont adoptés avec l'accord du Sénat",
+      "organisme": "Public Sénat",
+      "date_publication": "26 juin 2019 (mis à jour le 12 juillet 2019)",
+      "url": "https://www.publicsenat.fr/actualites/politique/depuis-l-election-de-macron-les-deux-tiers-des-textes-sont-adoptes-avec-l",
+      "passage": "Pour la session 2018-2019 : « Un peu plus des deux tiers (72%) des textes ont donc été adoptés avec l'accord du Sénat. » En 2017-2018, 71 % (44 % par accord en commission mixte paritaire et 27 % adoptés sans modification). Quand la commission mixte paritaire échoue, le « dernier mot » revient à l'Assemblée.",
+      "pertinence": "Chaîne parlementaire du Sénat ; statistiques de la séance.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Projet de loi de finances pour 2025 — Mission « Pouvoirs publics » (note de présentation)",
+      "organisme": "Sénat, commission des finances",
+      "date_publication": "novembre 2024",
+      "url": "https://senat.fr/fileadmin/Commissions/Finances/2024-2025/PLF_2025/NP/Mission_Pouvoirs_publics_NP_PLF_2025.pdf",
+      "passage": "La dotation du Sénat « s'élève dans le projet de loi de finances pour 2025 à 359,48 millions d'euros » ; celle de l'Assemblée nationale à 617,98 millions d'euros. Le total des dépenses prévues au budget du Sénat s'élève à 378,94 millions d'euros. Les présidents et questeurs des deux assemblées ont renoncé à la hausse de 1,7 %, ce qui ramènerait la dotation du Sénat à 353,47 millions d'euros.",
+      "pertinence": "Document budgétaire parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vrai / Faux : la proposition de loi sur les cabinets de conseil",
+      "organisme": "Sénat",
+      "date_publication": "juin 2022",
+      "url": "https://www.senat.fr/fileadmin/Fichiers/Images/redaction_multimedia/2022/2022_Documents-PDF/20220621_03_Vrai_Faux_PPL_cabinets_conseil.pdf",
+      "passage": "La commission d'enquête du Sénat sur les cabinets de conseil a rendu son rapport en mars 2022. L'État a eu recours à au moins 2 070 cabinets de conseil différents entre 2018 et 2020 ; 20 cabinets représentent 55 % du conseil aux ministères. Le 31 mars 2022, le Parquet national financier a ouvert une enquête préliminaire pour blanchiment aggravé de fraude fiscale visant McKinsey.",
+      "pertinence": "Document d'information du Sénat (point de vue de l'institution).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les électeurs des sénateurs (sénatoriales 2011)",
+      "organisme": "Sénat",
+      "date_publication": "2011",
+      "url": "https://www.senat.fr/senatoriales_2011/election_des_senateurs.html",
+      "passage": "Les sénateurs sont élus par un collège de députés, de conseillers régionaux, de conseillers généraux et de délégués des conseils municipaux ; ces derniers « représentent 95 % des 150 000 électeurs ».",
+      "pertinence": "Page d'information officielle du Sénat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le jour où… la gauche fait sa « révolution de palais » au Sénat",
+      "organisme": "Public Sénat",
+      "date_publication": "31 juillet 2020",
+      "url": "https://www.publicsenat.fr/actualites/politique/le-jour-ou-la-gauche-fait-sa-revolution-de-palais-au-senat-183910",
+      "passage": "Le 25 septembre 2011, la gauche remporte « de justesse » les sénatoriales : le Sénat change de majorité pour la première fois depuis 1958, après avoir été « dominé depuis cinquante ans » par la droite et le centre. Lionel Jospin avait qualifié le Sénat d'« anomalie démocratique ». En 2014, le Sénat « rebascule à droite ».",
+      "pertinence": "Chaîne parlementaire du Sénat ; article d'histoire politique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le jour où… le Sénat a fait tomber le général de Gaulle",
+      "organisme": "Public Sénat",
+      "date_publication": "27 juillet 2020",
+      "url": "https://www.publicsenat.fr/actualites/politique/le-jour-ou-le-senat-a-fait-tomber-le-general-de-gaulle-183903",
+      "passage": "Le 27 avril 1969, le général de Gaulle soumet à référendum une réforme qui aurait fusionné le Sénat avec le Conseil économique et social et en aurait fait une assemblée consultative sans pouvoir législatif. Le « non » l'emporte avec 52,41 % des voix ; de Gaulle démissionne.",
+      "pertinence": "Chaîne parlementaire du Sénat ; article d'histoire politique.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sénatoriales : après sa percée aux municipales, LFI espère faire son entrée au Sénat",
+      "organisme": "François Vignal, Public Sénat",
+      "date_publication": "27 mars 2026",
+      "url": "https://www.publicsenat.fr/actualites/politique/senatoriales-apres-sa-percee-aux-municipales-lfi-espere-faire-son-entree-au-senat",
+      "passage": "Paul Vannier, responsable des élections de LFI : « On veut supprimer le Sénat, oui. » L'alternative proposée est une VIe République issue d'une assemblée constituante élue, où le Sénat n'existerait pas « dans sa forme actuelle » ; « cette forme de bicamérisme doit être rediscutée », pour une seconde chambre plus démocratique et représentative.",
+      "pertinence": "Chaîne parlementaire ; propos d'un responsable de LFI (position partisane).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-18",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Statistiques de la séance pour 2026 et éventuelles propositions de réforme institutionnelle pendant la campagne présidentielle.",
+  "objections_legitimes": [
+    "Le mode d'élection indirect et la surreprésentation des petites communes posent un vrai problème démocratique.",
+    "Le Sénat a presque toujours eu une majorité de droite, quelle que soit l'opinion du pays.",
+    "Supprimer ou réformer profondément le Sénat est une proposition politique légitime, défendue notamment par LFI."
+  ],
+  "publics": {
+    "convaincus": "Si le Sénat ne servait à rien, l'Assemblée trancherait seule souvent : en 2025, c'est arrivé pour 2 lois sur 80. Les sénateurs ont aussi épinglé le gouvernement sur les cabinets de conseil. On peut critiquer leur mode d'élection, mais les accuser de ne rien faire est faux.",
+    "indecis": "Le Sénat vote et corrige les lois et contrôle le gouvernement, pour environ 360 millions d'euros par an. Ses défauts sont réels : élection indirecte, majorité presque toujours à droite. Le débat sérieux porte sur la manière de rendre la seconde chambre plus démocratique, ou de la supprimer dans une nouvelle Constitution."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "egalite",
+      "services_publics"
+    ],
+    "mecanismes": "Le slogan mélange deux choses : une critique démocratique fondée, l’élection indirecte et la majorité de droite presque permanente, et l’idée fausse que le Sénat ne ferait rien. Ce glissement nourrit un rejet global des élus plutôt qu’un débat sur la forme du Parlement.",
+    "consequences": "Le dégoût des institutions profite à ceux qui veulent concentrer le pouvoir, alors que la vraie question est celle d’un Parlement plus représentatif et mieux contrôlé par les citoyens.",
+    "democratie": "La seconde chambre peut contrôler l’exécutif, comme l’a montré l’enquête sur les cabinets de conseil ; mais une assemblée élue indirectement, dominée par les élus des petites communes, pose un problème de légitimité qu’une nouvelle Constitution devrait régler.",
+    "propositions": [
+      "Convoquer une assemblée constituante pour repenser le Parlement, y compris l’existence et le rôle d’une seconde chambre.",
+      "Élire toute assemblée parlementaire au suffrage universel direct, à la proportionnelle.",
+      "Renforcer les pouvoirs de contrôle et d’enquête du Parlement sur l’exécutif et ses prestataires privés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les sénateurs sont élus au suffrage indirect, presque entièrement par des délégués des conseils municipaux, et la droite a presque toujours dirigé le Sénat.",
+        "integration": "C’est justement l’argument de la gauche pour transformer ou supprimer le Sénat actuel : non parce qu’il ne fait rien, mais parce qu’il n’est pas assez démocratique."
+      }
+    ]
+  },
+  "concepts": [
+    "senat_suppr",
+    "patriotisme",
+    "cout"
+  ],
+  "repond_a": [
+    {
+      "id": "senat_suppr_q1215",
+      "label": "Supprimer le Sénat ?"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite",
+    "cout",
+    "couts",
+    "une fortune",
+    "rapportent",
+    "finances publiques",
+    "pognon",
+    "nos impots"
+  ]
+}

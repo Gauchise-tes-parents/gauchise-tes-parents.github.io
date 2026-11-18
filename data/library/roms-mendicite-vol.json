@@ -238,14 +238,6 @@
       }
     ]
   },
-  "concepts": [
-    "origine",
-    "delinquance",
-    "discrimination",
-    "gens_voyage",
-    "roms",
-    "immigration"
-  ],
   "repond_a": [
     {
       "id": "roms_q0614",
@@ -278,5 +270,13 @@
     "racisme",
     "nom a consonance",
     "gens du voyage"
+  ],
+  "concepts": [
+    "origine",
+    "delinquance",
+    "discrimination",
+    "gens_voyage",
+    "roms",
+    "immigration"
   ]
 }

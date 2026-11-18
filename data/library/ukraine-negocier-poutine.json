@@ -266,11 +266,6 @@
       }
     ]
   },
-  "concepts": [
-    "russie",
-    "ukraine",
-    "ukraine_paix"
-  ],
   "repond_a": [
     {
       "id": "ukraine_paix_q0614",
@@ -292,5 +287,10 @@
     "moscou",
     "kiev",
     "kyiv"
+  ],
+  "concepts": [
+    "russie",
+    "ukraine",
+    "ukraine_paix"
   ]
 }

@@ -227,11 +227,6 @@
       }
     ]
   },
-  "concepts": [
-    "origine",
-    "patriotisme",
-    "discrimination"
-  ],
   "repond_a": [],
   "ne_repond_pas": [],
   "synonymes": [
@@ -243,5 +238,10 @@
     "testing",
     "racisme",
     "nom a consonance"
+  ],
+  "concepts": [
+    "origine",
+    "patriotisme",
+    "discrimination"
   ]
 }

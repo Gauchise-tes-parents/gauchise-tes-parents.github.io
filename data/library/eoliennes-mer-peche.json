@@ -212,13 +212,6 @@
       }
     ]
   },
-  "concepts": [
-    "mer",
-    "ecologie",
-    "eolien",
-    "peche",
-    "eolien_mer"
-  ],
   "repond_a": [
     {
       "id": "eolien_mer_q0614",
@@ -250,5 +243,12 @@
     "pull factor",
     "nucleaire",
     "surpeche"
+  ],
+  "concepts": [
+    "mer",
+    "ecologie",
+    "eolien",
+    "peche",
+    "eolien_mer"
   ]
 }

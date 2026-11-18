@@ -252,14 +252,6 @@
       }
     ]
   },
-  "concepts": [
-    "immigration",
-    "patriotisme",
-    "priorite_nationale",
-    "loi_constitution",
-    "fn_parti",
-    "referendum_immig"
-  ],
   "repond_a": [
     {
       "id": "referendum_immig_q0614",
@@ -292,5 +284,13 @@
     "marseillaise",
     "de droite",
     "francais d abord"
+  ],
+  "concepts": [
+    "immigration",
+    "patriotisme",
+    "priorite_nationale",
+    "loi_constitution",
+    "fn_parti",
+    "referendum_immig"
   ]
 }
