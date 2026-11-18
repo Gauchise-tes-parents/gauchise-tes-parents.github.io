@@ -60,16 +60,29 @@ export async function releverAec({ fetchImpl = fetch, index = AEC_INDEX, attente
   const urls = chapitresDepuisIndex(await lire(index, { fetchImpl }), index);
   if (urls.length < 5) throw new Error(`table des matières illisible (${urls.length} chapitre(s) trouvés)`);
   const chapitres = [];
+  let diagnostic = false;
   for (const u of urls) {
     try {
-      const c = analyserChapitre(await lire(u, { fetchImpl }), u);
-      if (c?.sections.length) chapitres.push(c); else journal.warn?.(`chapitre sans mesure reconnue : ${u}`);
+      const html = await lire(u, { fetchImpl });
+      const c = analyserChapitre(html, u);
+      if (c?.sections.length) chapitres.push(c);
+      else {
+        journal.warn?.(`chapitre sans mesure reconnue : ${u}`);
+        // diagnostic (une fois) : structure lue, pour adapter l'analyse si le site change de présentation
+        if (!diagnostic) { diagnostic = true; journal.warn?.(`structure lue : ${blocs(html).slice(0, 60).map((x) => `${x.balise}:${x.texte.slice(0, 50)}`).join(' | ')} — taille ${html.length}, balises ${JSON.stringify(compterBalises(html))}`); }
+      }
     } catch (e) { journal.warn?.(`chapitre non lu : ${e.message}`); }
     await pause(attente);
   }
   const nbMesures = chapitres.reduce((n, c) => n + c.sections.reduce((k, s) => k + (s.mesure_cle ? 1 : 0) + s.mesures.length, 0), 0);
   if (chapitres.length < urls.length * 0.6 || nbMesures < 50) throw new Error(`relevé incomplet : ${chapitres.length}/${urls.length} chapitres, ${nbMesures} mesures`);
   return { source: index, titre: 'L’Avenir en commun (programme de la France insoumise, édition 2027)', releve_le: new Date().toISOString().slice(0, 10), nb_chapitres: chapitres.length, nb_mesures: nbMesures, chapitres };
+}
+
+function compterBalises(html) {
+  const n = {};
+  for (const m of String(html).matchAll(/<(h[1-6]|p|li|ul|section|article|main|div)\b/gi)) n[m[1].toLowerCase()] = (n[m[1].toLowerCase()] || 0) + 1;
+  return n;
 }
 
 /** Mesures à plat, avec leur contexte (pour la recherche). */

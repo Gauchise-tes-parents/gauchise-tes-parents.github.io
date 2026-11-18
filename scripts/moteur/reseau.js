@@ -9,7 +9,7 @@ export async function lire(url, { fetchImpl = fetch, type = 'text', delai = 2000
     const minuterie = setTimeout(() => ctrl.abort(), delai);
     try {
       const r = await fetchImpl(url, { headers: { 'user-agent': AGENT, accept: type === 'json' ? 'application/json' : 'text/html' }, signal: ctrl.signal });
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      if (!r.ok) { let corps = ''; try { corps = (await r.text()).slice(0, 300).replace(/\s+/g, ' '); } catch { /* sans corps */ } throw new Error(`HTTP ${r.status}${corps ? ` — ${corps}` : ''}`); }
       return type === 'json' ? await r.json() : await r.text();
     } catch (e) { derniere = e; await pause(1500); } finally { clearTimeout(minuterie); }
   }
