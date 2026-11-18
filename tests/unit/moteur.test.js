@@ -31,6 +31,15 @@ describe('programme L’Avenir en commun', () => {
     assert.ok(!JSON.stringify(chap).includes('piège') && !JSON.stringify(chap).includes('Ne doit pas') && !JSON.stringify(chap).includes('Menu du site'));
     assert.equal(mesuresAPlat(corpus).length, 5);
   });
+  test('structure du site réel : titre dans l’en-tête, partie et sections en h3, fin au menu', () => {
+    const c = analyserChapitre(html('chapitre-reel.html'), 'https://exemple.test/programme/livre/une-economie-au-service-des-besoins/chapitre2/');
+    assert.equal(c.titre, 'Chapitre 2 : Partager les richesses');
+    assert.match(c.partie_titre, /^Partie 2/);
+    assert.equal(c.volet, 'economie');
+    assert.deepEqual(c.sections.map((s) => s.titre), ['Taxer les superprofits']);
+    assert.match(c.sections[0].mesure_cle, /superprofits/);
+    assert.equal(c.sections[0].mesures.length, 2);
+  });
   test('table des matières : chapitres du même site, dédoublonnés', () => {
     const u = chapitresDepuisIndex(html('index.html'), 'https://exemple.test/programme/livre/');
     assert.equal(u.length, 5);

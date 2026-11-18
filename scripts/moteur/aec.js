@@ -1,7 +1,7 @@
 // Corpus « L'Avenir en commun » : parcourt la table des matières du programme et relève, chapitre par chapitre,
 // les sections, la mesure clé et les mesures à puces. Résultat : data/moteur/aec.json (versionné).
 // Le texte est recopié tel quel (citations), avec l'adresse exacte de chaque chapitre et la date de relevé.
-import { blocs, liens } from './html.js';
+import { blocs, liens, texte } from './html.js';
 import { lire, pause } from './reseau.js';
 
 export const AEC_INDEX = 'https://melenchon2027.fr/programme/livre/';
@@ -23,21 +23,27 @@ const VOLET_CHAPITRE = {
 };
 export const voletChapitre = (partie, n) => VOLET_CHAPITRE[`${partie}/${n}`] || VOLET_PARTIE[partie] || 'politique';
 
-/** Analyse une page de chapitre (structure observée : h2 partie, h1 chapitre, h3 sections, h6 « Mesure clé », puces). */
+/** Analyse une page de chapitre. Structure observée sur le site (novembre 2026) : titre « Partie N – … » (h2 ou h3),
+ *  titre du chapitre en h1 (parfois dans l'en-tête) ou « Chapitre N : … », sections en h3, h6 « Mesure clé » suivi
+ *  d'un paragraphe, puis des puces ; le contenu s'arrête au premier h2 qui suit (menu, réseaux, partage). */
 export function analyserChapitre(html, url) {
   const b = blocs(html);
+  const HORS = /^(table des mati[eè]res|partie \d|chapitre \d|partager)/i;
+  const iPartie = b.findIndex((x) => /^h[23]$/.test(x.balise) && /^partie \d/i.test(x.texte));
   const i1 = b.findIndex((x) => x.balise === 'h1');
-  if (i1 < 0) return null;
-  const partieTitre = [...b.slice(0, i1)].reverse().find((x) => x.balise === 'h2' && /partie/i.test(x.texte))?.texte || '';
+  const h1Brut = String(html).match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i);
+  const titre = (i1 >= 0 ? b[i1].texte : '') || (h1Brut ? texte(h1Brut[1]) : '') || b.find((x) => /^chapitre \d+\s*:/i.test(x.texte))?.texte || '';
+  const debut = Math.max(i1, iPartie);
+  if (debut < 0 || !titre) return null;
   const m = url.match(CHAPITRE_RE);
-  const chap = { url, partie: m ? m[1] : '', numero: m ? Number(m[2]) : 0, partie_titre: partieTitre, titre: b[i1].texte, sections: [] };
+  const chap = { url, partie: m ? m[1] : '', numero: m ? Number(m[2]) : 0, partie_titre: iPartie >= 0 ? b[iPartie].texte : '', titre, sections: [] };
   chap.volet = voletChapitre(chap.partie, chap.numero);
   let sec = null;
   let attendreMesureCle = false;
-  for (const x of b.slice(i1 + 1)) {
+  for (const x of b.slice(debut + 1)) {
     if (NAVIGATION.test(x.texte)) { if (sec) break; continue; }
-    if (x.balise === 'h1' || x.balise === 'h2') break;
-    if (x.balise === 'h3') { sec = { titre: x.texte, intro: '', mesure_cle: '', mesures: [] }; chap.sections.push(sec); continue; }
+    if (x.balise === 'h1' || x.balise === 'h2') { if (sec) break; continue; }
+    if (x.balise === 'h3') { if (HORS.test(x.texte)) { if (sec) break; continue; } sec = { titre: x.texte, intro: '', mesure_cle: '', mesures: [] }; chap.sections.push(sec); attendreMesureCle = false; continue; }
     if (!sec) continue;
     if (/^h[4-6]$/.test(x.balise)) { attendreMesureCle = /mesure cl/i.test(x.texte); continue; }
     if (x.balise === 'p') {
