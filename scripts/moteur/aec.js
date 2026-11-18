@@ -50,7 +50,8 @@ export function analyserChapitre(html, url) {
       if (attendreMesureCle) { sec.mesure_cle = x.texte; attendreMesureCle = false; } else if (!sec.mesures.length && sec.intro.length < 1200) sec.intro = `${sec.intro} ${x.texte}`.trim();
       continue;
     }
-    if (x.balise === 'li' && x.texte.length >= 15 && x.texte.length <= 500) sec.mesures.push(x.texte);
+    // les intitulés de sous-listes (« Reconstruire l’école publique : ») ne sont pas des mesures
+    if (x.balise === 'li' && x.texte.length >= 15 && x.texte.length <= 500 && !/[:：]\s*$/.test(x.texte)) sec.mesures.push(x.texte);
   }
   chap.sections = chap.sections.filter((s) => s.mesure_cle || s.mesures.length);
   return chap;
