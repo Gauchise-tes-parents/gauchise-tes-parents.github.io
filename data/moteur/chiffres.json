@@ -2,6 +2,18 @@
   "source": "Eurostat (office statistique de l’Union européenne), API publique",
   "releve_le": "2026-11-18",
   "indicateurs": {
+    "chomage": {
+      "id": "chomage",
+      "libelle": "taux de chômage en France (corrigé des variations saisonnières)",
+      "unite": "% de la population active",
+      "valeur": 8.5,
+      "periode": "2026-09",
+      "jeu": "une_rt_m",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/une_rt_m?geo=FR&s_adj=SA&age=TOTAL&sex=T&unit=PC_ACT&format=JSON&lang=fr&lastTimePeriod=4",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table?lang=fr",
+      "mise_a_jour_source": "2026-11-05T23:00:00+0100",
+      "releve_le": "2026-11-18"
+    },
     "inflation": {
       "id": "inflation",
       "libelle": "hausse des prix à la consommation sur un an en France (indice harmonisé)",
@@ -9,7 +21,7 @@
       "valeur": 0.7,
       "periode": "2025-12",
       "jeu": "prc_hicp_manr",
-      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_manr?geo=FR&coicop=CP00&unit=RCH_A&format=JSON&lang=fr&lastTimePeriod=1",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_manr?geo=FR&coicop=CP00&unit=RCH_A&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_manr/default/table?lang=fr",
       "mise_a_jour_source": "2026-02-06T23:00:00+0100",
       "releve_le": "2026-11-18"
@@ -21,7 +33,7 @@
       "valeur": 115.7,
       "periode": "2025",
       "jeu": "gov_10dd_edpt1",
-      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?geo=FR&na_item=GD&sector=S13&unit=PC_GDP&format=JSON&lang=fr&lastTimePeriod=1",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?geo=FR&na_item=GD&sector=S13&unit=PC_GDP&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table?lang=fr",
       "mise_a_jour_source": "2026-10-21T11:00:00+0200",
       "releve_le": "2026-11-18"
@@ -33,7 +45,7 @@
       "valeur": -5.1,
       "periode": "2025",
       "jeu": "gov_10dd_edpt1",
-      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?geo=FR&na_item=B9&sector=S13&unit=PC_GDP&format=JSON&lang=fr&lastTimePeriod=1",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?geo=FR&na_item=B9&sector=S13&unit=PC_GDP&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table?lang=fr",
       "mise_a_jour_source": "2026-10-21T11:00:00+0200",
       "releve_le": "2026-11-18"
@@ -45,7 +57,7 @@
       "valeur": 75.4,
       "periode": "2025",
       "jeu": "lfsi_emp_a",
-      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_emp_a?geo=FR&age=Y20-64&sex=T&unit=PC_POP&indic_em=EMP_LFS&format=JSON&lang=fr&lastTimePeriod=1",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_emp_a?geo=FR&age=Y20-64&sex=T&unit=PC_POP&indic_em=EMP_LFS&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_emp_a/default/table?lang=fr",
       "mise_a_jour_source": "2026-11-06T23:00:00+0100",
       "releve_le": "2026-11-18"
@@ -57,7 +69,7 @@
       "valeur": 23.9,
       "periode": "2025",
       "jeu": "nrg_ind_ren",
-      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_ind_ren?geo=FR&nrg_bal=REN&unit=PC&format=JSON&lang=fr&lastTimePeriod=1",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_ind_ren?geo=FR&nrg_bal=REN&unit=PC&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren/default/table?lang=fr",
       "mise_a_jour_source": "2026-09-15T23:00:00+0200",
       "releve_le": "2026-11-18"
