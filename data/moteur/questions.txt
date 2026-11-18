@@ -1,0 +1,4 @@
+# Questions à traiter par le moteur interne : une par ligne (les lignes qui commencent par # sont ignorées).
+# Le moteur les lit chaque nuit ; une question déjà couverte par une fiche est simplement marquée « couverte ».
+# Les questions envoyées depuis le site (bouton « Envoyer anonymement ma question ») s'ajoutent automatiquement.
+# Suivi de chaque question : data/moteur/file.json ; compte rendu du dernier passage : data/moteur/rapport.md

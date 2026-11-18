@@ -1826,3 +1826,19 @@ Variantes familières vérifiées (toutes mènent à la bonne fiche) :
 **Correction après un premier `npm test`.** La phrase témoin « Les immigrés italiens des années 50 se sont bien intégrés » (test de compréhension, cas « nuance ») menait à la nouvelle fiche sur les Italiens et les Maghrébins au lieu de `france-pays-immigration` : le concept `integration_europeens` exige désormais une comparaison explicite avec d'autres origines (voir plus haut).
 
 **Vérifications.** `npm test` : 477 tests, 477 réussis, après la correction ci-dessus. Tests de bout en bout : 38 tests, 38 réussis.
+
+## 18 novembre 2026 — Linux, applis mobiles et moteur interne (demande du propriétaire)
+
+**Linux.** Premiers retours : le site « ne fonctionne pas sous Linux ». Firefox n'a pas pu être installé ici ; le problème a été cherché en simulant dans Chromium, avec l'identité d'un Firefox Linux, les navigateurs verrouillés courants sous Linux (Firefox en navigation privée, cookies bloqués, LibreWolf, Tor Browser).
+- **Cause trouvée :** ces navigateurs annoncent `serviceWorker` mais renvoient `undefined` ou lèvent une `SecurityError` à l'accès. L'exception arrêtait le démarrage avant le chargement de la base : page presque vide, bibliothèque à zéro fiche.
+- **Correction :** démarrage protégé (`public/js/app.js`).
+- **Garde-fous :**
+  - `tests/e2e/navigateurs-linux.test.js` : 7 scénarios (service worker absent ou interdit, stockage interdit, Cache API interdite, IndexedDB absente, `crypto.subtle` absent, tout à la fois). Il échoue sur l'ancienne version et passe sur la nouvelle.
+  - `tests/unit/compatibilite.test.js` interdit désormais tout accès direct à `navigator.serviceWorker.…`.
+- Si le problème signalé était autre (affichage, police…), il faudra une capture ou le nom du navigateur.
+
+**Applis mobiles (préparation).** Icônes PNG (site installable, App Store 1024 px sans transparence, Google Play), manifeste complet, balises iOS, `npm run build:mobile` (base embarquée, sans service worker, Tipeee masqué par défaut), `capacitor.config.json`, guide `docs/MOBILE.md` avec les points à décider (dons et règles des boutiques, confidentialité, mises à jour de la base).
+
+**Moteur interne de fiches (sans IA, sans Claude).** `scripts/moteur/` et `.github/workflows/moteur.yml`, chaque nuit à 03 h 41 UTC : programme *L'Avenir en commun* (relevé hebdomadaire de melenchon2027.fr), neuf chiffres Eurostat, questions sans réponse (bouton opt-in du site et `data/moteur/questions.txt`), fiches de repères sans verdict avec garde-fous (validation, politique documentaire, aucune phrase de contrôle détournée, tests complets ; sinon brouillon), proposées en pull request. Collecteur séparé `worker-questions/` (texte seul, nettoyé, sans IP), non déployé : le site ne fait toujours aucune requête tant que `GTP_QUESTIONS_BASE` n'est pas configuré. Guide : `docs/MOTEUR.md`. Le premier relevé réel du programme et d'Eurostat se fait sur GitHub Actions (ces sites ne sont pas joignables depuis l'environnement de travail).
+
+**Vérifications.** `npm test` : 492 tests, 492 réussis. Tests de bout en bout : 46 tests, 46 réussis (dont les 7 scénarios Linux et la demande de fiche opt-in).

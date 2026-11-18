@@ -1,0 +1,9 @@
+{
+  "appId": "fr.gauchisetesparents.app",
+  "appName": "Gauchise tes parents",
+  "webDir": "dist/mobile/www",
+  "backgroundColor": "#FFF7E6",
+  "server": { "androidScheme": "https" },
+  "ios": { "contentInset": "never", "limitsNavigationsToAppBoundDomains": false },
+  "android": { "allowMixedContent": false }
+}

@@ -33,6 +33,10 @@
     "worker:kb": "node scripts/build-worker-kb.js",
     "worker:dev": "npx wrangler dev",
     "worker:deploy": "npx wrangler deploy",
-    "test:ia": "node --test tests/unit/ia-gemini.test.js"
+    "test:ia": "node --test tests/unit/ia-gemini.test.js",
+    "build:mobile": "node scripts/mobile/build-mobile.js",
+    "build:icones": "node scripts/mobile/generer-icones.mjs",
+    "moteur": "node scripts/moteur/index.js",
+    "moteur:hors-ligne": "node scripts/moteur/index.js --hors-ligne"
   }
 }

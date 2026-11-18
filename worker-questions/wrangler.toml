@@ -1,0 +1,19 @@
+# Collecteur des questions sans réponse (moteur interne, v15) — Worker SÉPARÉ du backend IA Gemini.
+# Déploiement (une fois) depuis ce dossier :  cd worker-questions && npx wrangler deploy
+# Avant : npx wrangler kv namespace create QUESTIONS  → recopier l'id ci-dessous ;
+#         npx wrangler secret put EXPORT_TOKEN  (jeton long et aléatoire, recopié dans le secret GitHub GTP_QUESTIONS_TOKEN)
+#         npx wrangler secret put SEL           (chaîne aléatoire)
+# Puis : variable de dépôt GitHub GTP_QUESTIONS_BASE = URL du Worker (https://….workers.dev). Guide : docs/MOTEUR.md
+name = "gauchise-questions"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+keep_vars = true
+
+[vars]
+# Seuls ces sites peuvent envoyer une question (séparés par des virgules)
+ALLOWED_ORIGINS = "https://gauchise-tes-parents.github.io"
+
+[[kv_namespaces]]
+binding = "QUESTIONS"
+id = "A_REMPLACER_PAR_L_ID_DU_NAMESPACE"

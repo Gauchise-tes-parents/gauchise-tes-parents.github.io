@@ -1,0 +1,5 @@
+{
+  "_commentaire": "Réglages du moteur interne (scripts/moteur/index.js). max_fiches_par_passage : questions traitées par jour ; aec_jours : fréquence du relevé du programme L'Avenir en commun.",
+  "max_fiches_par_passage": 10,
+  "aec_jours": 7
+}

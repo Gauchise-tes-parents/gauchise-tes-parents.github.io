@@ -1,0 +1,70 @@
+# Moteur interne de création de fiches (SANS IA, sans Claude, sans coût) — tous les jours à 03:41 UTC.
+# 1. relève le programme L'Avenir en commun (une fois par semaine) et les chiffres officiels (Eurostat) ;
+# 2. lit les questions restées sans réponse (collecteur du site, opt-in, et data/moteur/questions.txt) ;
+# 3. assemble une fiche de repères par question, avec garde-fous, puis lance tous les tests de l'application ;
+# 4. enregistre la file et les relevés sur main, et PROPOSE les fiches dans une pull request : valider = fusionner.
+# Prérequis (facultatifs) : variable GTP_QUESTIONS_BASE et secret GTP_QUESTIONS_TOKEN (collecteur, voir docs/MOTEUR.md) ;
+# réglage du dépôt « Allow GitHub Actions to create and approve pull requests » (Settings > Actions > General).
+name: Moteur interne de fiches
+on:
+  schedule:
+    - cron: '41 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: moteur
+  cancel-in-progress: false
+jobs:
+  moteur:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Passage du moteur
+        id: m
+        env:
+          GTP_QUESTIONS_BASE: ${{ vars.GTP_QUESTIONS_BASE }}
+          GTP_QUESTIONS_TOKEN: ${{ secrets.GTP_QUESTIONS_TOKEN }}
+        run: node scripts/moteur/index.js
+      - name: Mise en forme des fiches (lecture de gauche, concepts)
+        if: steps.m.outputs.fiches != '0'
+        run: node scripts/corrections-v10.js && node scripts/enrichir-fiches.js
+      - name: Tests complets de l'application avec les nouvelles fiches
+        id: t
+        if: steps.m.outputs.fiches != '0'
+        continue-on-error: true
+        run: npm test
+      - name: Repli (tests échoués) — les fiches redeviennent des brouillons
+        if: steps.t.outcome == 'failure'
+        run: |
+          git checkout -- data/library
+          node scripts/moteur/index.js --repli
+      - name: Enregistrer la file et les relevés, proposer les fiches
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "moteur-gauchise"
+          git config user.email "moteur@users.noreply.github.com"
+          JOUR=$(date -u +%Y-%m-%d)
+          git add data/moteur
+          if ! git diff --cached --quiet; then
+            git commit -m "Moteur interne : file des questions et relevés du $JOUR"
+            git pull --rebase --autostash origin main
+            git push origin HEAD:main
+          fi
+          git add data/library data/brouillons 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Aucune fiche ni brouillon à proposer aujourd'hui."
+            exit 0
+          fi
+          B="moteur/fiches-$JOUR"
+          git checkout -b "$B"
+          git commit -m "Moteur interne : fiches proposées le $JOUR"
+          git push -f origin "$B"
+          gh pr create --base main --head "$B" --title "Moteur interne — fiches proposées le $JOUR" --body-file data/moteur/rapport.md \
+            || echo "::warning::Pull request non créée : autoriser « Allow GitHub Actions to create and approve pull requests » dans Settings > Actions > General. Branche poussée : $B"

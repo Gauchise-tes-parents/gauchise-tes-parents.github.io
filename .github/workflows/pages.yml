@@ -42,6 +42,8 @@ jobs:
           GTP_API_BASE: ${{ vars.GTP_API_BASE }}
           # URL https du backend IA Gemini (Cloudflare Worker), sans clé : variable de dépôt GTP_IA_BASE
           GTP_IA_BASE: ${{ vars.GTP_IA_BASE }}
+          # URL https du collecteur de questions sans réponse (moteur interne) : variable de dépôt GTP_QUESTIONS_BASE
+          GTP_QUESTIONS_BASE: ${{ vars.GTP_QUESTIONS_BASE }}
           WATCH_EXTERNAL_SCHEDULE: ${{ vars.WATCH_EXTERNAL_SCHEDULE }}
       - uses: actions/upload-pages-artifact@v3
         with:

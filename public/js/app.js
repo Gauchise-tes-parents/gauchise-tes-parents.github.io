@@ -98,7 +98,11 @@ const serverLabel = () => {
 };
 
 // ---------------------------------------------------------------- composants partagés
+// Applications mobiles (préparation v15) : les boutiques peuvent refuser un lien de don externe ; la version
+// « app » peut donc masquer Tipeee (GTP_CONFIG.soutien === false, réglé par scripts/mobile/build-mobile.js).
+const soutienActif = () => window.GTP_CONFIG?.soutien !== false;
 function supportCard(variant = 'main', idSuffix = '') {
+  if (!soutienActif()) return '';
   const home = variant === 'home';
   const id = `support-${variant}${idSuffix}`;
   return `<section class="support-card" aria-labelledby="${id}">
@@ -117,6 +121,7 @@ function supportCard(variant = 'main', idSuffix = '') {
 function supportMeter() {
   const el = $('#support-strip');
   if (!el) return;
+  if (!soutienActif()) { el.innerHTML = ''; el.hidden = true; return; }
   const pct = soutienPourcentage();
   el.innerHTML = `<div class="wrap support-strip-inner">
     <a class="support-meter" href="${TIPEEE_URL}" target="_blank" rel="noopener noreferrer" data-tipeee data-support-meter title="Vous nous soutenez à hauteur de ${euros(SOUTIEN.montant)} par mois sur Tipeee — objectif ${euros(SOUTIEN.objectif)}">
@@ -160,7 +165,7 @@ function ficheCard(f) {
     <span class="fiche-top"><span class="fiche-icon" aria-hidden="true">${VOLET_ICONS[f.volet] || VOLET_ICONS.autre}</span><span class="fiche-cat">${h(voletById(f.volet).court)}${f.sous_theme ? ` · ${h(f.sous_theme)}` : ''}</span></span>
     ${f.force ? `<span class="match-badge match-badge--${h(f.force)}">${f.force === 'forte' ? 'Correspond à ta question' : 'Sujet voisin'}</span>` : ''}
     <span class="fiche-claim">« ${h(f.affirmation)} »</span>
-    ${f.origine === 'ia' ? '<span class="rub-chips"><span class="rub-chip">🤖 Créée par l’IA · non relue</span></span>' : ''}
+    ${f.origine === 'ia' ? '<span class="rub-chips"><span class="rub-chip">🤖 Créée par l’IA · non relue</span></span>' : f.origine === 'moteur' ? '<span class="rub-chips"><span class="rub-chip">Repères automatiques · programme et chiffres</span></span>' : ''}
     ${rubs.length ? `<span class="rub-chips">${rubs.map((r) => `<span class="rub-chip">${h(r.court)}</span>`).join('')}</span>` : ''}
     <span class="fiche-badges">${verdictBadge(f.verdict, true)}${fiabBadge(f.fiabilite)}${freshBadge(f)}</span>
     <span class="fiche-date">Vérifiée le ${h(frDate(f.derniere_verification))}</span>
@@ -889,7 +894,7 @@ function viewFiche(f, tab = 'court') {
       ${publicsHtml(f)}
 
       <article class="verdict-card verdict-card--${h(vkey)}" aria-labelledby="verdict-title">
-        <div class="verdict-mascot">${mascotSvg(f.verdict || 'opinion', f.origine === 'ia' ? 'Fiche créée par l’IA, non relue' : 'Doc Source a vérifié la fiche', 96)}</div>
+        <div class="verdict-mascot">${mascotSvg(f.verdict || 'opinion', f.origine === 'ia' ? 'Fiche créée par l’IA, non relue' : f.origine === 'moteur' ? 'Fiche de repères assemblée automatiquement' : 'Doc Source a vérifié la fiche', 96)}</div>
         <div class="verdict-body">
           <h1 id="verdict-title" class="verdict-h">${verdictBadge(f.verdict)}</h1>
           <p class="fiche-badges">${fiabBadge(f.fiabilite)}${freshBadge(f)}</p>
@@ -1293,6 +1298,8 @@ function publicsHtml(f) {
 
 // Étiquette d'une fiche créée par l'IA (non relue) : affichée partout où la fiche apparaît.
 function ficheIaHtml(f, extra = null) {
+  // v15 : fiche assemblée par le moteur interne (sans IA) : programme L'Avenir en commun + chiffres officiels
+  if (f?.origine === 'moteur') return `<div class="notice notice--soft fiche-ia-note" role="note"><p><strong>Fiche de repères assemblée automatiquement</strong> (sans IA) à partir du programme <em>L’Avenir en commun</em>, cité mot pour mot, et de chiffres officiels. Elle ne vérifie pas l’affirmation : elle donne les propositions de la gauche et des repères en attendant une fiche de vérification complète.</p></div>`;
   if (f?.origine !== 'ia') return '';
   const n = (f.sources || []).length;
   return `<div class="notice notice--soft fiche-ia-note" role="note"><p><strong>🤖 Fiche créée par l’IA</strong> à partir de ${n} page${n > 1 ? 's' : ''} consultée${n > 1 ? 's' : ''} par la recherche Google. Chaque fait est rattaché à une de ces pages, mais <strong>la fiche n’a pas encore été relue par un humain</strong> : vérifie les sources avant de l’utiliser.${extra?.enregistrement === 'enregistree' || extra?.enregistrement === 'en_cours' ? ' Elle rejoindra la bibliothèque commune pour les prochaines personnes qui poseront cette question.' : ''}</p></div>`;
@@ -1478,9 +1485,21 @@ function viewPasDansLaBase(payload) {
       ${payload.analyse && !payload.analyse.arguments.length && payload.analyse.domaines?.length ? `<section class="block analyse"><h2 class="block-title">Ce que contient la phrase</h2>${domainesHtml(payload.analyse)}</section>` : ''}
       ${payload.analyse?.arguments.length && !(payload.analyse.dignite?.length && payload.analyse.principal?.id === 'non_cartographie') ? analyseHtml(payload.analyse, null, payload.mode === 'convaincre' ? 'convaincre' : 'gagner') : ''}
       ${proches.length && !payload.analyse?.arguments.length ? `<section class="block"><h2 class="block-title">Dans le même volet</h2><div class="fiche-grid">${proches.map((f) => ficheCard(withFresh(f))).join('')}</div></section>` : ''}
+      ${payload.analyse?.dignite?.length ? '' : demandeFicheHtml()}
       <p><a class="btn btn-secondary" href="#/bibliotheque">Chercher dans la bibliothèque</a></p>
     </div>
   </section>`;
+}
+
+// Moteur interne (v15) : file des questions sans réponse. Rien n'est envoyé sans un clic explicite de la personne,
+// et seulement si un collecteur est configuré (GTP_CONFIG.questionsBase). Seul le texte de la question part.
+const QUESTIONS_BASE = (typeof window !== 'undefined' && window.GTP_CONFIG?.questionsBase) ? String(window.GTP_CONFIG.questionsBase).replace(/\/+$/, '') : '';
+function demandeFicheHtml() {
+  if (!QUESTIONS_BASE) return '';
+  return `<section class="block" id="demande-fiche"><h2 class="block-title">Demander une fiche</h2>
+    <p>Tu peux envoyer <strong>ta question, et seulement elle</strong>, pour qu’une fiche soit préparée. Rien d’autre ne part : ni ton profil, ni l’interlocuteur, ni ton adresse. N’y mets pas de nom de personne ni d’information personnelle.</p>
+    <button type="button" class="btn btn-secondary" data-action="envoyer-question">Envoyer anonymement ma question</button>
+    <p class="hint" id="demande-fiche-msg" role="status" aria-live="polite"></p></section>`;
 }
 
 const withFresh = (f) => (f.fraicheur ? f : { ...f, fraicheur: kbFreshness(f) });
@@ -1824,6 +1843,7 @@ function viewPrivacy() {
           <tr><td><strong>Autonome</strong> (le mode du site public)</td><td>Analysée dans ton navigateur, avec la bibliothèque téléchargée. Elle reste en mémoire le temps de la réponse et disparaît quand tu recharges ou fermes la page.</td><td>Personne : elle n’est envoyée à aucun serveur.</td></tr>
           <tr><td><strong>Réponse de l’IA</strong> (Gemini, seulement si le backend IA est configuré${iaDispo() ? ' — c’est le cas sur ce site' : ' ; ce n’est pas le cas aujourd’hui'})</td><td>Envoyée quand la bibliothèque n’a pas de fiche, ou quand tu cliques sur un bouton de réponse IA, avec le mode choisi et, s’il y en a, tes trois derniers messages de la conversation en cours. Rien n’est enregistré par le site ; une réponse générique (question qui correspond à une fiche) peut rester une heure en cache, sous une clé illisible.</td><td>Notre backend (hébergé par <strong>Cloudflare</strong>), puis <strong>Google</strong> (Gemini et, si besoin, la recherche Google). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté.</td></tr>
           <tr><td><strong>Phase bêta : fiches créées par l’IA</strong></td><td>Une question sans fiche sert à créer, avec Google (Gemini et sa recherche), une fiche publique de la bibliothèque. La fiche ne contient pas ta phrase exacte : l’IA reformule l’idée de façon générale et a pour consigne d’en retirer tout nom ou information personnelle. Elle est enregistrée sur GitHub, dans le dépôt public du site.</td><td>Notre backend (Cloudflare), Google, puis GitHub (la fiche reformulée seulement, sans identité ni adresse IP).</td></tr>
+          <tr><td><strong>Demander une fiche</strong> (bouton « Envoyer anonymement ma question », ${QUESTIONS_BASE ? 'activé sur ce site' : 'pas activé sur ce site aujourd’hui'})</td><td>Seulement si tu cliques : le texte de ta question, et rien d’autre (ni profil, ni interlocuteur, ni identifiant). Adresses e-mail, numéros de téléphone et liens sont retirés ; l’adresse IP n’est pas enregistrée. Conservée au plus 90 jours.</td><td>Le collecteur du projet, puis le moteur interne qui prépare les fiches (sans IA). La question peut devenir l’intitulé d’une fiche publique.</td></tr>
           <tr><td><strong>Connecté</strong> (seulement si un serveur est configuré ; ce n’est pas le cas sur le site public aujourd’hui)</td><td>Envoyée au serveur du site, qui la transmet au fournisseur d’IA pour rechercher des sources et rédiger la réponse. Le serveur garde le dossier en mémoire vive une heure au plus (pour changer de stratégie sans relancer), sans rien écrire sur disque.</td><td>Le serveur du site, puis <strong>Anthropic</strong> (IA et recherche web). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté à la requête.</td></tr>
         </tbody>
       </table></div>
@@ -2332,6 +2352,19 @@ document.addEventListener('click', async (ev) => {
     launchAnalyse({ ...base, affirmation: c?.question || base.affirmation, interlocuteur: c ? c.profil : base.interlocuteur, profil: profilSimple(c ? c.profil : base.interlocuteur) });
     return;
   }
+  if (action === 'envoyer-question') {
+    const msg = $('#demande-fiche-msg');
+    const texte = state.pasTrouve?.affirmation || '';
+    if (!QUESTIONS_BASE || !texte) return;
+    t.disabled = true;
+    if (msg) msg.textContent = 'Envoi…';
+    try {
+      const r = await fetch(`${QUESTIONS_BASE}/questions`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ texte }), credentials: 'omit', referrerPolicy: 'no-referrer', cache: 'no-store' });
+      if (msg) msg.textContent = r.ok ? 'Merci ! Ta question est dans la file : une fiche sera préparée puis relue avant publication.' : 'Envoi refusé pour le moment. Réessaie plus tard.';
+      if (!r.ok) t.disabled = false;
+    } catch { if (msg) msg.textContent = 'Pas de connexion : la question n’a pas été envoyée.'; t.disabled = false; }
+    return;
+  }
   if (action === 'check-kb') {
     const msg = $('#kb-msg');
     msg.textContent = 'Vérification…';
@@ -2557,13 +2590,20 @@ async function init() {
   const fv = $('#footer-version');
   if (fv) fv.textContent = `Version du site : ${window.GTP_CONFIG?.build || 'développement'} · IA : ${api.iaConfiguree ? 'branchée' : 'non branchée'}`;
   // Hors-ligne : le service worker garde l'interface et la base (indisponible en fichier local ou en aperçu).
-  if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol) && !api.isStatic) {
-    // Une nouvelle version du site a pris le relais (mise à jour) : on recharge une fois pour l'afficher.
-    const avaitUneVersion = Boolean(navigator.serviceWorker.controller);
-    let recharge = false;
-    navigator.serviceWorker.addEventListener('controllerchange', () => { if (avaitUneVersion && !recharge) { recharge = true; location.reload(); } });
-    navigator.serviceWorker.register('sw.js').catch(() => { /* navigateur sans service worker : l'application marche en ligne */ });
-  }
+  // Linux (v14.1) : Firefox en navigation privée, avec les cookies bloqués ou durci (LibreWolf, Tor Browser…)
+  // annonce « serviceWorker » mais renvoie undefined ou lève une SecurityError à l'accès. Sans ce garde-fou,
+  // l'exception arrêtait le démarrage avant le chargement de la base : page presque vide.
+  try {
+    // dans l'application mobile (Capacitor), les fichiers sont déjà dans l'appli : pas de service worker
+    const sw = 'serviceWorker' in navigator && /^https?:$/.test(location.protocol) && !api.isStatic && !window.GTP_CONFIG?.app ? navigator.serviceWorker : null;
+    if (sw && typeof sw.register === 'function') {
+      // Une nouvelle version du site a pris le relais (mise à jour) : on recharge une fois pour l'afficher.
+      const avaitUneVersion = Boolean(sw.controller);
+      let recharge = false;
+      sw.addEventListener('controllerchange', () => { if (avaitUneVersion && !recharge) { recharge = true; location.reload(); } });
+      sw.register('sw.js').catch(() => { /* navigateur sans service worker : l'application marche en ligne */ });
+    }
+  } catch { /* service worker interdit par le navigateur : l'application marche en ligne */ }
   await kb.load().catch(() => { /* la page « Mode » explique comment charger la base */ });
   // Le serveur n'est interrogé qu'en mode connecté : en mode autonome, aucune requête réseau n'est nécessaire.
   state.status = appMode() === 'connecte' ? await api.status() : null;

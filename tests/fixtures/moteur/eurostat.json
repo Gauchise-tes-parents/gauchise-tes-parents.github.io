@@ -1,0 +1,3 @@
+{"version":"2.0","class":"dataset","label":"Fictif","updated":"2026-11-01T11:00:00+0100","id":["freq","geo","time"],"size":[1,1,2],
+ "dimension":{"freq":{"category":{"index":{"M":0}}},"geo":{"category":{"index":{"FR":0}}},"time":{"category":{"index":{"2026-08":0,"2026-09":1}}}},
+ "value":{"0":7.4,"1":7.6}}

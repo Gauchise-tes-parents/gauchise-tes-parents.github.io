@@ -21,6 +21,7 @@ const INTERDITS = [
   [/AbortSignal\.(timeout|any)\(/, 'AbortSignal.timeout/any : Safari < 16'],
   [/\.toSorted\(|\.toReversed\(|\.toSpliced\(/, 'méthodes « to… » des tableaux : Safari < 16, Firefox < 115'],
   [/\bObject\.groupBy\(|\bPromise\.withResolvers\(/, 'Object.groupBy / Promise.withResolvers : trop récents'],
+  [/navigator\.serviceWorker\.[a-zA-Z]/, 'accès direct à navigator.serviceWorker : undefined ou SecurityError sous Firefox privé / durci (Linux) ; passer par une variable vérifiée dans un try'],
 ];
 
 test('aucune construction JavaScript trop récente pour Safari 15 / Firefox 100', () => {

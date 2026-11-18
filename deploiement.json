@@ -1,5 +1,7 @@
 {
   "_commentaire": "Adresses PUBLIQUES utilisées à la publication du site (aucun secret ici). iaBase : null = IA Gemini débranchée du site (v14 : les fiches sont créées chaque jour par Claude, sans coût Gemini). Une variable de dépôt GitHub du même nom a priorité.",
   "iaBase": null,
-  "apiBase": null
+  "apiBase": null,
+  "questionsBase": null,
+  "_commentaire_questions": "questionsBase : URL https du collecteur de questions sans réponse (worker-questions/, moteur interne v15) ; null = aucune requête, le bouton « Demander une fiche » n'apparaît pas."
 }
