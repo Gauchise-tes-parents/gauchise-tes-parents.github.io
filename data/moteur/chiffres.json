@@ -1,0 +1,66 @@
+{
+  "source": "Eurostat (office statistique de l’Union européenne), API publique",
+  "releve_le": "2026-11-18",
+  "indicateurs": {
+    "inflation": {
+      "id": "inflation",
+      "libelle": "hausse des prix à la consommation sur un an en France (indice harmonisé)",
+      "unite": "%",
+      "valeur": 0.7,
+      "periode": "2025-12",
+      "jeu": "prc_hicp_manr",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_manr?geo=FR&coicop=CP00&unit=RCH_A&format=JSON&lang=fr&lastTimePeriod=1",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_manr/default/table?lang=fr",
+      "mise_a_jour_source": "2026-02-06T23:00:00+0100",
+      "releve_le": "2026-11-18"
+    },
+    "dette": {
+      "id": "dette",
+      "libelle": "dette publique de la France",
+      "unite": "% du PIB",
+      "valeur": 115.7,
+      "periode": "2025",
+      "jeu": "gov_10dd_edpt1",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?geo=FR&na_item=GD&sector=S13&unit=PC_GDP&format=JSON&lang=fr&lastTimePeriod=1",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table?lang=fr",
+      "mise_a_jour_source": "2026-10-21T11:00:00+0200",
+      "releve_le": "2026-11-18"
+    },
+    "deficit": {
+      "id": "deficit",
+      "libelle": "déficit public de la France (solde des administrations publiques)",
+      "unite": "% du PIB",
+      "valeur": -5.1,
+      "periode": "2025",
+      "jeu": "gov_10dd_edpt1",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?geo=FR&na_item=B9&sector=S13&unit=PC_GDP&format=JSON&lang=fr&lastTimePeriod=1",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table?lang=fr",
+      "mise_a_jour_source": "2026-10-21T11:00:00+0200",
+      "releve_le": "2026-11-18"
+    },
+    "emploi": {
+      "id": "emploi",
+      "libelle": "taux d’emploi des 20-64 ans en France",
+      "unite": "% de la population de 20 à 64 ans",
+      "valeur": 75.4,
+      "periode": "2025",
+      "jeu": "lfsi_emp_a",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_emp_a?geo=FR&age=Y20-64&sex=T&unit=PC_POP&indic_em=EMP_LFS&format=JSON&lang=fr&lastTimePeriod=1",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_emp_a/default/table?lang=fr",
+      "mise_a_jour_source": "2026-11-06T23:00:00+0100",
+      "releve_le": "2026-11-18"
+    },
+    "renouvelables": {
+      "id": "renouvelables",
+      "libelle": "part des énergies renouvelables dans la consommation finale brute d’énergie en France",
+      "unite": "%",
+      "valeur": 23.9,
+      "periode": "2025",
+      "jeu": "nrg_ind_ren",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_ind_ren?geo=FR&nrg_bal=REN&unit=PC&format=JSON&lang=fr&lastTimePeriod=1",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren/default/table?lang=fr",
+      "mise_a_jour_source": "2026-09-15T23:00:00+0200",
+      "releve_le": "2026-11-18"
+    }
+  }
+}
