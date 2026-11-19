@@ -1939,4 +1939,4 @@ Limite : « La délinquance des mineurs explose » mène toujours à `excuse-de-
 
 ## 19 novembre 2026 — jauge de soutien Tipeee (indication du propriétaire)
 
-Montant communiqué par le propriétaire : **571 € / mois** (l'API Tipeee reste illisible depuis la session automatique). `public/js/soutien.js` : `montant` passe de 45 à 571, `maj` au 19 novembre ; objectif inchangé (1 000 €). Le nombre de tipeurs n'a pas été communiqué : la valeur 11 (relevé du 11 novembre) est conservée, elle n'est pas affichée sur le site. Tests `soutien` et `build` : réussis.
+Montant communiqué par le propriétaire : **571 € / mois** (l'API Tipeee reste illisible depuis la session automatique). `public/js/soutien.js` : `montant` passe de 45 à 571, `maj` au 19 novembre ; objectif inchangé (1 000 €). Nombre de tipeurs communiqué ensuite par le propriétaire : **77** (`tipeurs` passe de 11 à 77 ; ce nombre n'est pas affiché sur le site). Tests `soutien` et `build` : réussis.
