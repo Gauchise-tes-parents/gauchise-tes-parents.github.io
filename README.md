@@ -19,7 +19,7 @@ Ligne éditoriale assumée de gauche, avec une règle non négociable : aucun fa
 ## Nouveautés v15 (préparation)
 
 - **Linux corrigé** : sous Firefox en navigation privée, avec les cookies bloqués ou durci (LibreWolf, Tor Browser), l'accès au service worker lève une erreur ; le démarrage s'arrêtait avant le chargement de la base (page presque vide). Démarrage protégé, test de bout en bout `tests/e2e/navigateurs-linux.test.js` et garde-fou dans `tests/unit/compatibilite.test.js`.
-- **Moteur interne de fiches, sans IA ni Claude** (`scripts/moteur/`, `.github/workflows/moteur.yml`) : chaque nuit, programme *L'Avenir en commun*, chiffres Eurostat, questions sans réponse → fiches de repères proposées en pull request. Guide : `docs/MOTEUR.md`.
+- **Moteur interne de fiches, sans IA ni Claude** (`scripts/moteur/`, `.github/workflows/moteur.yml`) : à la demande (planification nocturne retirée le 19 novembre 2026), programme *L'Avenir en commun*, chiffres Eurostat, questions sans réponse → fiches de repères proposées en pull request. Guide : `docs/MOTEUR.md`.
 - **Collecte opt-in des questions sans réponse** : bouton « Envoyer anonymement ma question » (seulement si `GTP_QUESTIONS_BASE` est configuré ; Worker séparé `worker-questions/`).
 - **Applis mobiles prêtes à emballer** (Capacitor) : icônes, manifeste complet, `npm run build:mobile`, `capacitor.config.json`. Guide : `docs/MOBILE.md`.
 

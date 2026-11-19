@@ -1,10 +1,10 @@
 # Moteur interne de fiches (sans IA, sans Claude)
 
-Le moteur crée chaque nuit, **tout seul et gratuitement** (GitHub Actions), des fiches pour les questions restées
+Le moteur crée, **à la demande et gratuitement** (GitHub Actions), des fiches pour les questions restées
 sans réponse. Il n'utilise **aucune IA** : il assemble des sources structurées, avec des garde-fous stricts.
 Rien n'est publié sans toi : les fiches arrivent dans une *pull request* ; **valider = fusionner**.
 
-## Ce qu'il fait chaque nuit (03 h 41 UTC, `.github/workflows/moteur.yml`)
+## Ce qu'il fait à chaque lancement (manuel depuis le 19 novembre 2026 : Actions > « Moteur interne de fiches » > Run workflow ; `.github/workflows/moteur.yml`)
 
 1. **Programme L'Avenir en commun** (une fois par semaine) : il parcourt la table des matières de
    `melenchon2027.fr/programme/livre/`, chapitre par chapitre, et recopie les sections, les mesures clés et les

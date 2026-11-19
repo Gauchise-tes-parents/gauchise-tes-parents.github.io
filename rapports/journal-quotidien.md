@@ -1940,3 +1940,8 @@ Limite : « La délinquance des mineurs explose » mène toujours à `excuse-de-
 ## 19 novembre 2026 — jauge de soutien Tipeee (indication du propriétaire)
 
 Montant communiqué par le propriétaire : **571 € / mois** (l'API Tipeee reste illisible depuis la session automatique). `public/js/soutien.js` : `montant` passe de 45 à 571, `maj` au 19 novembre ; objectif inchangé (1 000 €). Nombre de tipeurs communiqué ensuite par le propriétaire : **77** (`tipeurs` passe de 11 à 77 ; ce nombre n'est pas affiché sur le site). Tests `soutien` et `build` : réussis.
+
+## 19 novembre 2026 — nouveau rythme (demande du propriétaire)
+
+- **Fiches : une mise à jour par semaine**, 10 à 15 questions, le mercredi matin (8 h 47, heure de Paris), première le 25 novembre. Les quatre passages quotidiens sont supprimés (la tâche planifiée a été transformée, son historique est conservé).
+- **Moteur interne** (questions sans réponse, programme, Eurostat) : planification nocturne retirée ; il ne se lance plus qu'à la main (Actions > « Moteur interne de fiches » > Run workflow).

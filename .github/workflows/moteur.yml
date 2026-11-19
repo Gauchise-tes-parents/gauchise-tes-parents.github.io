@@ -1,4 +1,6 @@
-# Moteur interne de création de fiches (SANS IA, sans Claude, sans coût) — tous les jours à 03:41 UTC.
+# Moteur interne de création de fiches (SANS IA, sans Claude, sans coût) — lancement manuel uniquement
+# (planification quotidienne retirée le 19 novembre 2026 à la demande du propriétaire ; pour la rétablir :
+#  remettre « schedule: - cron: '41 3 * * *' » sous « on: »). Bouton : Actions > Moteur interne de fiches > Run workflow.
 # 1. relève le programme L'Avenir en commun (une fois par semaine) et les chiffres officiels (Eurostat) ;
 # 2. lit les questions restées sans réponse (collecteur du site, opt-in, et data/moteur/questions.txt) ;
 # 3. assemble une fiche de repères par question, avec garde-fous, puis lance tous les tests de l'application ;
@@ -7,8 +9,6 @@
 # réglage du dépôt « Allow GitHub Actions to create and approve pull requests » (Settings > Actions > General).
 name: Moteur interne de fiches
 on:
-  schedule:
-    - cron: '41 3 * * *'
   workflow_dispatch:
 permissions:
   contents: write
