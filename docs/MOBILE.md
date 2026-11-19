@@ -84,6 +84,17 @@ mois suffit). Étape ultérieure possible : télécharger la base depuis le site
 - **Identifiant `fr.gauchisetesparents.app`** : définitif après la première publication ; à changer avant le 21 si
   tu en préfères un autre (dans `capacitor.config.json`).
 
+## Rythme des mises à jour (décidé le 19 novembre 2026)
+
+- **Site (GitHub Pages)** : mis à jour à chaque modification (environ 30 minutes, le temps des tests). C'est la
+  version de suivi, celle des soutiens.
+- **Applis** : une version tous les 3 jours, construite automatiquement par le flux « Applications mobiles », qui
+  regroupe toutes les modifications faites entre-temps. Une version n'arrive au public qu'après l'envoi dans les
+  boutiques et leur examen (Apple : en général 1 à 3 jours) : on ne soumet pas de nouvelle version tant que la
+  précédente est en cours d'examen.
+- Les nouvelles fiches pourront arriver dans les applis sans nouvelle version, une fois le téléchargement de la base
+  depuis le site mis en place.
+
 ## Fonctionnement technique
 
 - `scripts/mobile/build-mobile.js` : dossier web de l'appli (`dist/mobile/www`), base embarquée, sans service worker,
@@ -92,7 +103,7 @@ mois suffit). Étape ultérieure possible : télécharger la base depuis le site
   `package.json` du site), génère le projet natif, les icônes et écrans de lancement (`mobile/assets/`) et règle
   les numéros de version. Les dossiers `android/` et `ios/` ne sont pas versionnés.
 - `.github/workflows/applis.yml` : construit tout sur les serveurs de GitHub (Linux pour Android, macOS pour iOS),
-  à la demande ou quand les fichiers de l'appli changent ; signe et envoie seulement si les secrets existent.
+  tous les 3 jours ou à la demande ; signe et envoie seulement si les secrets existent.
   Le numéro de build augmente tout seul (100 + numéro du run), comme l'exigent les deux boutiques.
 - Captures d'écran : régénérables avec Playwright à partir de `dist/mobile/www` (aux tailles indiquées dans les noms
   des dossiers de `mobile/store/captures/`).

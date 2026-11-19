@@ -1,6 +1,6 @@
 # Applications mobiles (Capacitor) : construit l'appli Android (APK de test + AAB pour Google Play) et le projet iOS.
-# Lancement : onglet « Actions » > « Applications mobiles » > « Run workflow » (ou automatiquement quand les fichiers
-# de l'appli changent). Résultats : en bas de la page du run, rubrique « Artifacts ».
+# Lancement : automatiquement tous les 3 jours (05:17 UTC), ou à la main : onglet « Actions » > « Applications mobiles »
+# > « Run workflow ». Résultats : en bas de la page du run, rubrique « Artifacts ».
 # Signature Android (facultative, pour Google Play) : secrets de dépôt ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD,
 # ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD (voir docs/MOBILE.md). Sans eux, l'AAB n'est pas signé.
 # Envoi iOS vers TestFlight (facultatif, sans Mac) : secrets APPSTORE_KEY_P8_BASE64, APPSTORE_KEY_ID, APPSTORE_ISSUER_ID
@@ -14,14 +14,10 @@ on:
         description: 'Version affichée dans les boutiques (ex. 1.0.0)'
         required: false
         default: '1.0.0'
-  push:
-    branches: [main]
-    paths:
-      - 'mobile/**'
-      - 'scripts/mobile/**'
-      - 'capacitor.config.json'
-      - 'public/js/natif.js'
-      - '.github/workflows/applis.yml'
+  # Rythme des applis (demande du propriétaire, 19 novembre 2026) : une version tous les 3 jours, qui regroupe
+  # toutes les modifications faites entre-temps ; le site, lui, est mis à jour à chaque modification.
+  schedule:
+    - cron: '17 5 */3 * *'
 permissions:
   contents: read
 concurrency:
