@@ -13,6 +13,7 @@ import { releverAec } from './aec.js';
 import { releverChiffres } from './chiffres.js';
 import { ajouter, questionsManuelles, questionsCollecteur } from './file.js';
 import { assemblerFiche, controler } from './fiches.js';
+import { chercherSources, pistesMarkdown, FLUX_DEFAUT } from './sources.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 const D = process.env.GTP_MOTEUR_DIR || join(ROOT, 'data', 'moteur');
@@ -43,7 +44,7 @@ if (args.includes('--repli')) {
   process.exit(0);
 }
 
-const config = { max_fiches_par_passage: 10, aec_jours: 7, ...lireJson('config.json', {}) };
+const config = { max_fiches_par_passage: 10, aec_jours: 7, max_recherches_sources: 10, sources_jours: 30, flux_verification: FLUX_DEFAUT, ...lireJson('config.json', {}) };
 const horsLigne = args.includes('--hors-ligne');
 const rapport = [`# Moteur interne — passage du ${jour}`, ''];
 const alertes = [];
@@ -115,10 +116,38 @@ for (const q of enAttente.slice(0, config.max_fiches_par_passage)) {
 ecrireJson(D, 'file.json', file);
 ecrireJson(D, 'dernier-passage.json', { jour, fiches: creees.map((c) => c.id), brouillons: brouillons.map((b) => b.id) });
 
+// 5. Chercheur de sources : pour les questions à écrire à la main (ou restées en brouillon), des PISTES de sources
+//    (programme, recherche publique, données publiques, vérification des faits), non lues, à vérifier avant usage.
+const sources = lireJson('sources.json', { questions: {} });
+const pistesTxt = [];
+if (!horsLigne) {
+  const aChercher = Object.entries(file.questions)
+    .filter(([, q]) => ['a_ecrire', 'brouillon'].includes(q.statut))
+    .filter(([cle]) => { const d = sources.questions[cle]?.cherche_le; return !d || (Date.parse(jour) - Date.parse(d)) / 864e5 >= config.sources_jours; })
+    .sort(([, a], [, b]) => b.occurrences - a.occurrences || a.premiere.localeCompare(b.premiere))
+    .slice(0, config.max_recherches_sources);
+  const fluxCache = new Map();
+  for (const [cle, q] of aChercher) {
+    const r = await chercherSources(q.texte, { corpus, flux: config.flux_verification, fluxCache, journal: { warn() {} } });
+    sources.questions[cle] = { texte: q.texte, cherche_le: jour, mots: r.mots, programme: r.programme, pistes: r.pistes, erreurs: r.erreurs };
+    q.pistes = r.programme.length + r.pistes.length;
+  }
+  if (aChercher.length) ecrireJson(D, 'sources.json', sources);
+  rapport.push(`- Chercheur de sources : ${aChercher.length} question(s) explorée(s).`);
+}
+for (const [cle, q] of Object.entries(file.questions)) if (['a_ecrire', 'brouillon'].includes(q.statut) && sources.questions[cle]) pistesTxt.push(pistesMarkdown({ question: q.texte, ...sources.questions[cle] }));
+writeFileSync(join(D, 'pistes.md'), `# Pistes de sources pour les questions à écrire
+
+Mises à jour par le chercheur de sources du moteur interne (sans IA). Les pistes ne sont PAS lues : à ouvrir et à vérifier avant toute citation dans une fiche.
+
+${pistesTxt.join('\n\n') || 'Aucune question en attente de sources.'}
+`);
+ecrireJson(D, 'file.json', file);
+
 const restantes = Object.values(file.questions).filter((q) => ['a_ecrire', 'en_attente'].includes(q.statut));
 rapport.push('', `## Fiches créées : ${creees.length}`, ...creees.map((c) => `- \`${c.id}\` — « ${c.question} » (${c.mesures} mesures du programme ; chiffres : ${c.indicateurs.join(', ')})`));
 rapport.push('', `## Brouillons à reprendre : ${brouillons.length}`, ...brouillons.map((b) => `- \`${b.id}\` — « ${b.question} » : ${b.pb.join(' ; ')}`));
-rapport.push('', `## Questions à écrire à la main (ou par Claude) : ${restantes.length}`, ...restantes.slice(0, 30).map((q) => `- « ${q.texte} »${q.occurrences > 1 ? ` (${q.occurrences} fois)` : ''}${q.note ? ` — ${q.note}` : ''}`));
+rapport.push('', `## Questions à écrire à la main (ou par Claude) : ${restantes.length}`, ...restantes.slice(0, 30).map((q) => `- « ${q.texte} »${q.occurrences > 1 ? ` (${q.occurrences} fois)` : ''}${q.note ? ` — ${q.note}` : ''}${q.pistes ? ` — ${q.pistes} piste(s) de sources dans data/moteur/pistes.md` : ''}`));
 if (alertes.length) rapport.push('', '## Alertes', ...alertes.map((a) => `- ${a}`));
 rapport.push('', 'Valider = fusionner cette demande de fusion (pull request). Les fiches portent la mention « assemblée automatiquement » sur le site.');
 writeFileSync(join(D, 'rapport.md'), `${rapport.join('\n')}\n`);

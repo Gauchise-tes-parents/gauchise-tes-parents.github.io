@@ -1,15 +1,24 @@
 # Moteur interne de création de fiches (SANS IA, sans Claude, sans coût) — lancement manuel uniquement
 # (planification quotidienne retirée le 19 novembre 2026 à la demande du propriétaire ; pour la rétablir :
 #  remettre « schedule: - cron: '41 3 * * *' » sous « on: »). Bouton : Actions > Moteur interne de fiches > Run workflow.
+# Champ « essai » : teste seulement le chercheur de sources sur une ou plusieurs questions (séparées par |), sans rien
+# enregistrer.
 # 1. relève le programme L'Avenir en commun (une fois par semaine) et les chiffres officiels (Eurostat) ;
 # 2. lit les questions restées sans réponse (collecteur du site, opt-in, et data/moteur/questions.txt) ;
 # 3. assemble une fiche de repères par question, avec garde-fous, puis lance tous les tests de l'application ;
-# 4. enregistre la file et les relevés sur main, et PROPOSE les fiches dans une pull request : valider = fusionner.
+# 4. chercheur de sources : pour les questions à écrire à la main, des pistes de sources (programme, HAL, OpenAlex,
+#    data.gouv.fr, vérificateurs de faits), non lues, à vérifier → data/moteur/pistes.md et sources.json ;
+# 5. enregistre la file et les relevés sur main, et PROPOSE les fiches dans une pull request : valider = fusionner.
 # Prérequis (facultatifs) : variable GTP_QUESTIONS_BASE et secret GTP_QUESTIONS_TOKEN (collecteur, voir docs/MOTEUR.md) ;
 # réglage du dépôt « Allow GitHub Actions to create and approve pull requests » (Settings > Actions > General).
 name: Moteur interne de fiches
 on:
   workflow_dispatch:
+    inputs:
+      essai:
+        description: 'Essai du chercheur de sources seulement (questions séparées par |) ; vide = passage complet'
+        required: false
+        default: ''
 permissions:
   contents: write
   pull-requests: write
@@ -25,18 +34,24 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Essai du chercheur de sources (rien n'est enregistré)
+        if: github.event.inputs.essai != ''
+        env:
+          ESSAI: ${{ github.event.inputs.essai }}
+        run: node scripts/moteur/sources.js --essai "$ESSAI"
       - name: Passage du moteur
         id: m
+        if: github.event.inputs.essai == ''
         env:
           GTP_QUESTIONS_BASE: ${{ vars.GTP_QUESTIONS_BASE }}
           GTP_QUESTIONS_TOKEN: ${{ secrets.GTP_QUESTIONS_TOKEN }}
         run: node scripts/moteur/index.js
       - name: Mise en forme des fiches (lecture de gauche, concepts)
-        if: steps.m.outputs.fiches != '0'
+        if: steps.m.outputs.fiches != '0' && steps.m.outputs.fiches != ''
         run: node scripts/corrections-v10.js && node scripts/enrichir-fiches.js
       - name: Tests complets de l'application avec les nouvelles fiches
         id: t
-        if: steps.m.outputs.fiches != '0'
+        if: steps.m.outputs.fiches != '0' && steps.m.outputs.fiches != ''
         continue-on-error: true
         run: npm test
       - name: Repli (tests échoués) — les fiches redeviennent des brouillons
@@ -45,6 +60,7 @@ jobs:
           git checkout -- data/library
           node scripts/moteur/index.js --repli
       - name: Enregistrer la file et les relevés, proposer les fiches
+        if: github.event.inputs.essai == ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

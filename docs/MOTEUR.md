@@ -28,6 +28,23 @@ Rien n'est publié sans toi : les fiches arrivent dans une *pull request* ; **va
 6. **Compte rendu** : `data/moteur/rapport.md` (aussi texte de la pull request) : fiches créées, brouillons et
    pourquoi, questions à écrire à la main, chiffres qui ont changé, alertes.
 
+### Chercheur de sources (ajouté le 19 novembre 2026)
+
+Pour chaque question classée « à écrire à la main » (ou restée en brouillon), le moteur cherche des **pistes de
+sources**, sans IA et gratuitement, pour argumenter avec *L'Avenir en commun* ou les valeurs de gauche :
+- les mesures du programme qui s'en rapprochent (citées mot pour mot) ;
+- la recherche publique : **HAL** (archive ouverte des chercheurs, CNRS) et **OpenAlex** (publications scientifiques) ;
+- les données publiques : **data.gouv.fr** (jeux de données de l'Insee, des ministères, de la Drees…) ;
+- la vérification des faits : flux RSS de rédactions reconnues (liste `flux_verification` dans `data/moteur/config.json`).
+
+Il **ne fait que ça** : il n'écrit aucune fiche et ne tranche rien. Les sources de droite ou d'extrême droite et les
+encyclopédies sont écartées d'office ; les sources d'autorité (recherche, institutions) passent en tête. Les pistes ne
+sont **pas lues** : elles sont à ouvrir et à vérifier avant toute citation. Résultat lisible : `data/moteur/pistes.md`
+(et `sources.json`) ; la mise à jour hebdomadaire des fiches (Claude, le mercredi) commence par ces questions.
+Réglages : `max_recherches_sources` (10 par passage), `sources_jours` (30 jours avant une nouvelle recherche).
+Essai sans rien enregistrer : *Actions → Moteur interne de fiches → Run workflow*, champ « essai » (questions séparées
+par `|`), ou `node scripts/moteur/sources.js --essai "ma question"`.
+
 Suivi de chaque question : `data/moteur/file.json` (statuts : `en_attente`, `couverte`, `fiche`, `brouillon`,
 `a_ecrire`). Pour relancer une question, remets son statut à `en_attente`.
 
