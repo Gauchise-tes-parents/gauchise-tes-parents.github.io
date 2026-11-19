@@ -8,3 +8,8 @@ data/usage/
 worker/src/kb.json
 worker/.wrangler/
 worker/.dev.vars
+# projets natifs Capacitor : régénérés par scripts/mobile/preparer-natif.sh (flux « Applications mobiles »)
+/android/
+/ios/
+*.keystore
+*.jks

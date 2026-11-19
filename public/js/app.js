@@ -11,6 +11,7 @@ import { analyserPhrase, ficheCompatible, resoudrePhrase } from './analyse.js';
 import { LE_PRINCIPES } from './ligne-editoriale.js';
 import { SOUTIEN, soutienPourcentage, euros } from './soutien.js';
 import { LOGO_SVG } from './logo-data.js';
+import { installerNatif } from './natif.js';
 import {
   heroScene, mascotSvg, profileSvg, VOLET_ICONS, TAB_ICONS, modeArtGagner, modeArtConvaincre, duoArt,
 } from './art.js';
@@ -19,6 +20,9 @@ import {
   RUBRIQUES, rubriqueById, FIABILITES, STABILITES, TYPES_FICHE, FICHE_TABS, INTERLOCUTEUR, ROBUSTESSES,
 } from './taxonomy.js';
 import { QUIPS, LOADING, LOADING_STRATEGY, STEPS_RESEARCH, pick } from './copy.js';
+
+// application mobile (Capacitor) : partage natif et bouton retour Android ; sans effet sur le site web
+try { installerNatif(); } catch { /* site web */ }
 
 // ---------------------------------------------------------------- utilitaires
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -222,7 +226,8 @@ function viewHome() {
   <section class="home-hero">
     <div class="wrap">
       <h1 class="hero-title"><span>ENVIE DE GAUCHISER</span> <span>LE REPAS</span> <span>DE FAMILLE ?</span></h1>
-      <p class="alpha-banner" role="note"><strong>Version alpha</strong> réservée aux soutiens Tipeee : la bibliothèque s’enrichit chaque jour de nouvelles fiches sourcées. Merci de tester et de signaler ce qui cloche !</p>
+      ${soutienActif() ? `<p class="alpha-banner" role="note"><strong>Version alpha</strong> réservée aux soutiens Tipeee : la bibliothèque s’enrichit chaque jour de nouvelles fiches sourcées. Merci de tester et de signaler ce qui cloche !</p>`
+        : `<p class="alpha-banner" role="note"><strong>Version bêta</strong> : la bibliothèque s’enrichit régulièrement de nouvelles fiches sourcées. Merci de tester et de signaler ce qui cloche !</p>`}
       <p class="hero-lede">Ton oncle vient de sortir une énormité ? Dis-nous à qui tu parles — un électeur d’extrême droite convaincu ou une personne indécise — et on te prépare une réponse sourcée.</p>
     </div>
   </section>
@@ -1854,7 +1859,7 @@ function viewPrivacy() {
         <li><strong>Pour les réponses de l’IA, Google reçoit le texte de la demande.</strong> Selon les conditions de l’API Gemini, en service payant (celui que ces conditions imposent pour un service ouvert aux utilisateurs européens), Google n’utilise pas ces contenus pour améliorer ses produits et ne les conserve qu’un temps limité pour détecter les abus. En service gratuit, Google peut les utiliser pour améliorer ses produits et les faire relire par des personnes. Cloudflare, qui héberge notre backend, voit l’adresse IP de la connexion, comme tout hébergeur.</li>
         <li><strong>Le serveur du mode connecté</strong> utilise ton adresse IP, hachée et en mémoire vive quelques minutes, uniquement pour limiter les abus. Ses journaux techniques ne contiennent ni la question ni l’adresse IP.</li>
         <li><strong>Les signalements d’erreur</strong> (mode connecté) sont enregistrés avec la date du jour seulement, sans adresse IP ni identifiant. Ta question n’y est jointe que si tu coches la case.</li>
-        <li><strong>Le lien Tipeee</strong> ouvre un site tiers, qui applique sa propre politique de confidentialité.</li>
+        ${soutienActif() ? '<li><strong>Le lien Tipeee</strong> ouvre un site tiers, qui applique sa propre politique de confidentialité.</li>' : ''}
       </ul>
       <h2>Ce qui reste sur ton appareil, et seulement si tu le décides</h2>
       <ul>

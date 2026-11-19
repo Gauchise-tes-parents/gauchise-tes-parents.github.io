@@ -1,0 +1,127 @@
+# Applications mobiles (Capacitor) : construit l'appli Android (APK de test + AAB pour Google Play) et le projet iOS.
+# Lancement : onglet « Actions » > « Applications mobiles » > « Run workflow » (ou automatiquement quand les fichiers
+# de l'appli changent). Résultats : en bas de la page du run, rubrique « Artifacts ».
+# Signature Android (facultative, pour Google Play) : secrets de dépôt ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD,
+# ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD (voir docs/MOBILE.md). Sans eux, l'AAB n'est pas signé.
+# Envoi iOS vers TestFlight (facultatif, sans Mac) : secrets APPSTORE_KEY_P8_BASE64, APPSTORE_KEY_ID, APPSTORE_ISSUER_ID
+# (clé d'API App Store Connect, rôle Admin) et APPLE_TEAM_ID. Sans eux, le projet Xcode est seulement vérifié et archivé.
+# Aucune autre clé n'est utilisée ; le site publié n'est pas modifié.
+name: Applications mobiles
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version affichée dans les boutiques (ex. 1.0.0)'
+        required: false
+        default: '1.0.0'
+  push:
+    branches: [main]
+    paths:
+      - 'mobile/**'
+      - 'scripts/mobile/**'
+      - 'capacitor.config.json'
+      - 'public/js/natif.js'
+      - '.github/workflows/applis.yml'
+permissions:
+  contents: read
+concurrency:
+  group: applis-${{ github.ref }}
+  cancel-in-progress: true
+env:
+  VERSION_APPLI: ${{ github.event.inputs.version || '1.0.0' }}
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - name: Projet Android (Capacitor)
+        run: bash scripts/mobile/preparer-natif.sh android "$((100 + GITHUB_RUN_NUMBER))" "$VERSION_APPLI"
+      - name: Compiler (APK de test et AAB)
+        working-directory: android
+        run: ./gradlew --no-daemon assembleDebug bundleRelease
+      - name: Signer l'AAB (si la clé d'envoi est configurée)
+        env:
+          KS_B64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          KS_PASS: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          KEY_PASS: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        run: |
+          AAB=android/app/build/outputs/bundle/release/app-release.aab
+          if [ -n "$KS_B64" ]; then
+            echo "$KS_B64" | base64 -d > "$RUNNER_TEMP/upload.jks"
+            jarsigner -verbose -sigalg SHA256withRSA -digestalg SHA-256 -keystore "$RUNNER_TEMP/upload.jks" \
+              -storepass "$KS_PASS" -keypass "${KEY_PASS:-$KS_PASS}" "$AAB" "$KEY_ALIAS" > /dev/null
+            rm -f "$RUNNER_TEMP/upload.jks"
+            cp "$AAB" gauchise-tes-parents-google-play.aab
+            echo "AAB signé : prêt pour la Play Console."
+          else
+            cp "$AAB" gauchise-tes-parents-NON-SIGNE.aab
+            echo "::warning::Clé d'envoi absente : l'AAB n'est pas signé (voir docs/MOBILE.md)."
+          fi
+          cp android/app/build/outputs/apk/debug/app-debug.apk gauchise-tes-parents-test.apk
+      - uses: actions/upload-artifact@v4
+        with:
+          name: android-${{ env.VERSION_APPLI }}-build-${{ github.run_number }}
+          path: |
+            gauchise-tes-parents-test.apk
+            gauchise-tes-parents-*.aab
+          retention-days: 30
+  ios:
+    runs-on: macos-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Projet iOS (Capacitor)
+        run: bash scripts/mobile/preparer-natif.sh ios "$((100 + GITHUB_RUN_NUMBER))" "$VERSION_APPLI"
+      - name: Vérifier que l'appli compile (simulateur, sans signature)
+        working-directory: ios/App
+        run: |
+          xcodebuild -workspace App.xcworkspace -scheme App -configuration Debug -sdk iphonesimulator \
+            -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build | tail -5
+      - name: Signer et envoyer sur TestFlight (si la clé d'API App Store Connect est configurée)
+        env:
+          ASC_P8_B64: ${{ secrets.APPSTORE_KEY_P8_BASE64 }}
+          ASC_KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
+          ASC_ISSUER: ${{ secrets.APPSTORE_ISSUER_ID }}
+          TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+        working-directory: ios/App
+        run: |
+          if [ -z "$ASC_P8_B64" ] || [ -z "$TEAM_ID" ]; then echo "Clé App Store Connect absente : pas d'envoi."; exit 0; fi
+          KEY="$RUNNER_TEMP/AuthKey_$ASC_KEY_ID.p8"; echo "$ASC_P8_B64" | base64 -d > "$KEY"
+          AUTH=(-allowProvisioningUpdates -authenticationKeyPath "$KEY" -authenticationKeyID "$ASC_KEY_ID" -authenticationKeyIssuerID "$ASC_ISSUER")
+          xcodebuild -workspace App.xcworkspace -scheme App -configuration Release -destination 'generic/platform=iOS' \
+            -archivePath "$RUNNER_TEMP/App.xcarchive" DEVELOPMENT_TEAM="$TEAM_ID" CODE_SIGN_STYLE=Automatic "${AUTH[@]}" archive | tail -5
+          cat > "$RUNNER_TEMP/export.plist" <<PLIST
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0"><dict>
+            <key>method</key><string>app-store-connect</string>
+            <key>destination</key><string>upload</string>
+            <key>teamID</key><string>$TEAM_ID</string>
+            <key>signingStyle</key><string>automatic</string>
+          </dict></plist>
+          PLIST
+          xcodebuild -exportArchive -archivePath "$RUNNER_TEMP/App.xcarchive" -exportOptionsPlist "$RUNNER_TEMP/export.plist" \
+            -exportPath "$RUNNER_TEMP/export" "${AUTH[@]}" | tail -5
+          rm -f "$KEY"
+          echo "Envoyé sur App Store Connect : la version apparaît dans TestFlight après traitement (quelques minutes)."
+      - name: Archiver le projet Xcode prêt à ouvrir
+        run: |
+          rm -rf ios/App/build ios/DerivedData
+          zip -qry gauchise-tes-parents-projet-ios.zip ios node_modules/@capacitor capacitor.config.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ios-${{ env.VERSION_APPLI }}-build-${{ github.run_number }}
+          path: gauchise-tes-parents-projet-ios.zip
+          retention-days: 30
