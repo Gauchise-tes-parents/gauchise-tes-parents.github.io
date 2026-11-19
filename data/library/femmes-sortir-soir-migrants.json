@@ -192,6 +192,7 @@
   ],
   "ne_repond_pas": [],
   "synonymes": [
+    "harcelement de rue",
     "faire venir",
     "on fait venir",
     "ils arrivent",
@@ -202,10 +203,10 @@
     "insecurite",
     "en surete",
     "peur de sortir",
-    "pas en securite",
-    "criminalite"
+    "pas en securite"
   ],
   "concepts": [
+    "harcelement_rue",
     "immigration",
     "delinquance",
     "femmes",

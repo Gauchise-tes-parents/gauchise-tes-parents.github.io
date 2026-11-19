@@ -1,0 +1,256 @@
+{
+  "id": "lois-hartz-allemagne",
+  "type": "idee_recue",
+  "affirmation": "Il faut faire comme l'Allemagne avec les lois Hartz.",
+  "volet": "economie",
+  "sous_theme": "Comparaisons internationales",
+  "rubriques": [],
+  "mots_cles": [
+    "lois hartz",
+    "faire comme l allemagne",
+    "modele allemand chomage",
+    "hartz iv",
+    "mini jobs allemagne",
+    "reforme chomage allemagne",
+    "buergergeld",
+    "travailleurs pauvres allemagne",
+    "miracle allemand emploi",
+    "durcir les sanctions chomeurs"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le chômage allemand a fortement baissé après les lois Hartz, et certaines recherches leur en attribuent une part importante. Mais d'autres travaux, cités par le Conseil d'analyse économique, insistent sur la modération salariale et la démographie. Surtout, le prix social a été lourd : explosion de la pauvreté des chômeurs (de 30 % à 56 % entre 1998 et 2010 selon l'enquête SOEP), mini-jobs et un salarié sur cinq à bas salaire, au point que l'Allemagne a dû créer un salaire minimum en 2015. Copier ce modèle, c'est importer aussi ses travailleurs pauvres.",
+  "contexte": "Les lois Hartz, entrées en vigueur au milieu des années 2000, ont réduit la durée d'indemnisation du chômage, créé une allocation forfaitaire (Hartz IV), renforcé les sanctions et développé les mini-jobs. Elles sont souvent citées en France comme modèle pour durcir l'assurance chômage. En 2026, l'Allemagne a de nouveau réformé son minimum social (fin du Bürgergeld).",
+  "explication": "On distingue ce que les réformes ont produit sur l'emploi, ce que d'autres facteurs expliquent, et leurs effets sur la pauvreté et les bas salaires.",
+  "faits": [
+    {
+      "fait": "Selon la Direction générale du Trésor (2013), environ 2,5 millions d'emplois ont été créés en Allemagne depuis 2005, en grande partie à temps partiel, intérimaires ou à durée déterminée, et le chômage a baissé d'environ 5 points jusqu'à 5,3 %.",
+      "periode": "2005-2012",
+      "perimetre": "Allemagne",
+      "explication": "Le recul du chômage est réel, mais il s'est fait en partie par des emplois précaires.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2,5 millions"
+    },
+    {
+      "fait": "Fait défavorable : selon une évaluation macroéconomique de Hochmuth, Kohlbrecher, Merkl et Gartner (2021), Hartz IV a été « un moteur majeur » de la baisse du chômage d'équilibre en Allemagne.",
+      "periode": "2005-2021",
+      "perimetre": "Allemagne",
+      "explication": "Une partie de la recherche attribue un effet important aux réformes sur le chômage : on ne peut pas dire qu'elles n'ont rien fait.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon le Conseil d'analyse économique (2015), d'autres travaux trouvent que les gains d'appariement liés aux réformes n'expliquent qu'une petite part de la baisse du chômage ; la modération salariale et la faible croissance de la population active pèsent davantage.",
+      "periode": "2005-2014",
+      "perimetre": "Allemagne",
+      "explication": "Le « miracle » allemand a plusieurs causes, dont certaines ne se copient pas, comme la démographie.",
+      "source": 1,
+      "fiabilite": "debat"
+    },
+    {
+      "fait": "Selon le Trésor, la bonne résistance de l'emploi allemand pendant la crise de 2008-2009 n'est liée « qu'en partie » aux réformes, et beaucoup au chômage partiel, à la flexibilité du temps de travail négociée et au dialogue social.",
+      "periode": "2008-2009",
+      "perimetre": "Allemagne",
+      "explication": "Les outils qui ont protégé l'emploi sont des outils de partage du travail, pas des sanctions contre les chômeurs.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'OFCE, d'après l'enquête allemande SOEP, le taux de pauvreté des chômeurs allemands est passé de 30 % en 1998 à 56 % en 2010, contre environ 35 % en France ; les sanctions sont passées d'environ 360 000 en 2004 à 1,5 million en 2009.",
+      "periode": "1998-2010",
+      "perimetre": "Allemagne, France",
+      "explication": "Hartz IV a appauvri massivement les chômeurs allemands.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "56 %"
+    },
+    {
+      "fait": "Selon le Conseil d'analyse économique, plus d'un salarié allemand sur cinq était à bas salaire au milieu des années 2010, et environ un million de mini-jobs supplémentaires étaient devenus une activité principale.",
+      "periode": "2003-2014",
+      "perimetre": "Allemagne",
+      "explication": "Le modèle a fabriqué des travailleurs pauvres.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Destatis, la part des emplois à bas salaire en Allemagne est passée de 21 % en 2014 à 16 % en 2024, après l'introduction d'un salaire minimum légal en 2015 et sa forte hausse en 2022.",
+      "periode": "2014-2024",
+      "perimetre": "Allemagne",
+      "explication": "C'est en corrigeant les effets des lois Hartz par un salaire minimum que l'Allemagne a réduit les bas salaires.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "16 %"
+    },
+    {
+      "fait": "Selon l'Insee, d'après Eurostat, le taux de pauvreté en 2024 est de 16,1 % en Allemagne et de 16,3 % en France : vingt ans après Hartz, l'Allemagne n'a pas moins de pauvres que la France.",
+      "periode": "2024",
+      "perimetre": "Allemagne, France",
+      "explication": "Le modèle allemand n'a pas produit une société moins pauvre.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "16,1 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Le chômage allemand a bien baissé après les lois Hartz, mais leur rôle est discuté : modération salariale et démographie comptent aussi. Le prix social a été lourd : la pauvreté des chômeurs est passée de 30 % à 56 % entre 1998 et 2010, un salarié sur cinq était à bas salaire, et l'Allemagne a dû créer un salaire minimum en 2015. Aujourd'hui, elle n'a pas moins de pauvres que la France.",
+    "moyen": "Les lois Hartz ont réduit l'indemnisation des chômeurs, multiplié les sanctions et développé les mini-jobs. Le chômage a ensuite reculé : selon le Trésor, 2,5 millions d'emplois ont été créés depuis 2005, en bonne partie précaires. Certaines recherches attribuent aux réformes un rôle majeur ; d'autres, citées par le Conseil d'analyse économique, insistent sur la modération des salaires et la faible croissance de la population active.\n\nLe coût social, lui, est bien documenté. Selon l'OFCE, la pauvreté des chômeurs allemands est passée de 30 % à 56 % entre 1998 et 2010, contre environ 35 % en France. Plus d'un salarié sur cinq était à bas salaire. L'Allemagne a dû créer un salaire minimum en 2015 : la part des bas salaires est tombée de 21 % à 16 % entre 2014 et 2024. Et en 2024, selon l'Insee et Eurostat, son taux de pauvreté (16,1 %) est équivalent à celui de la France.",
+    "detaille": "Les lois Hartz, entrées en vigueur au milieu des années 2000, ont profondément transformé le marché du travail allemand : durée d'indemnisation ramenée à 12 mois pour les moins de 55 ans, allocation forfaitaire de 345 euros par mois pour une personne seule (Hartz IV), sanctions renforcées, développement des mini-jobs. Selon l'OFCE, le nombre de sanctions est passé d'environ 360 000 en 2004 à 1,5 million en 2009.\n\nLe chômage a ensuite fortement baissé. Selon le Trésor, environ 2,5 millions d'emplois ont été créés depuis 2005, souvent à temps partiel, intérimaires ou à durée déterminée, et le chômage est descendu à 5,3 %. La part des réformes dans ce succès est débattue : une évaluation de 2021 en fait « un moteur majeur », quand d'autres travaux cités par le Conseil d'analyse économique attribuent davantage la baisse à la modération salariale et à la démographie. Et pendant la crise de 2008-2009, ce sont surtout le chômage partiel et le partage négocié du temps de travail qui ont protégé l'emploi.\n\nLe prix social est en revanche bien établi. Selon l'enquête allemande SOEP, la pauvreté des chômeurs est passée de 30 % en 1998 à 56 % en 2010. Plus d'un salarié sur cinq était à bas salaire au milieu des années 2010, et un million de mini-jobs supplémentaires étaient devenus une activité principale. L'Allemagne a dû corriger : salaire minimum légal en 2015, fortement relevé en 2022, ce qui a fait baisser la part des bas salaires de 21 % à 16 % entre 2014 et 2024.\n\nAujourd'hui, selon l'Insee et Eurostat, l'Allemagne a un taux de pauvreté (16,1 %) équivalent à celui de la France (16,3 %). En 2026, elle a de nouveau durci les sanctions contre les bénéficiaires de son minimum social. Copier Hartz, ce serait importer des chômeurs plus pauvres et des travailleurs précaires, pour un gain d'emploi dont la cause est discutée. La gauche défend l'inverse : un salaire minimum décent, des droits pour les chômeurs, et le partage du travail qui a sauvé l'emploi allemand en 2009.",
+    "empathie": "Le chômage de masse abîme des vies et des territoires ; vouloir s'inspirer d'un voisin qui semble avoir réussi est compréhensible."
+  },
+  "contre_arguments": [
+    {
+      "objection": "En Allemagne, il n'y a presque plus de chômage grâce à Hartz.",
+      "reponse": "La baisse est réelle, mais sa cause est discutée : la modération salariale et la démographie comptent aussi, selon les travaux cités par le Conseil d'analyse économique. Et elle s'est faite avec beaucoup d'emplois précaires."
+    },
+    {
+      "objection": "Les chômeurs français sont trop bien indemnisés.",
+      "reponse": "En Allemagne, la baisse des allocations a fait passer la pauvreté des chômeurs de 30 % à 56 % en douze ans, selon l'OFCE : on ne réduit pas le chômage en appauvrissant les chômeurs, on les appauvrit."
+    },
+    {
+      "objection": "Les Allemands s'en sortent mieux que nous.",
+      "reponse": "Selon l'Insee et Eurostat, le taux de pauvreté est de 16,1 % en Allemagne en 2024, contre 16,3 % en France : pas de différence, et l'Allemagne a dû créer un salaire minimum pour réparer les dégâts des bas salaires."
+    }
+  ],
+  "questions": [
+    "Accepterais-tu un emploi à quelques centaines d'euros par mois pour sortir des statistiques du chômage ?",
+    "Pourquoi, selon toi, l'Allemagne a-t-elle dû créer un salaire minimum dix ans après Hartz ?"
+  ],
+  "limites": [
+    "Les données sur la pauvreté des chômeurs et les mini-jobs (OFCE, CAE, Trésor) sont anciennes (2010-2015) ; les publications de la DARES et de France Stratégie n'ont pas pu être lues (page de France Stratégie indisponible).",
+    "L'évaluation de Hochmuth et al. (2021) n'a été lue qu'à travers son résumé, et l'organisme d'hébergement est un dépôt de recherche autrichien.",
+    "Les données Eurostat sur la pauvreté des travailleurs par pays n'ont pas pu être consultées directement ; la comparaison de pauvreté repose sur les chiffres-clés de l'Insee.",
+    "La réforme allemande de 2026 est rapportée par un média professionnel allemand ; son application n'est pas encore évaluée."
+  ],
+  "sources": [
+    {
+      "titre": "Trésor-Éco n° 110 : Réformes Hartz, quels effets sur le marché du travail allemand ?",
+      "organisme": "Direction générale du Trésor (ministère de l’Économie)",
+      "date_publication": "20 mars 2013",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2013/03/20/tresor-eco-n-110-reformes-hartz-quels-effets-sur-le-marche-du-travail-allemand",
+      "passage": "Depuis 2005, environ « 2,5 millions d'emplois » ont été créés, en grande partie à temps partiel, intérimaires ou à durée déterminée ; le chômage a baissé d'environ 5 points jusqu'à 5,3 % (BIT). Les évaluations citées trouvent un effet significatif, surtout par « une meilleure adéquation entre offre et demande de travail ». Le taux de pauvreté est passé « de 12,5 à 14,7 % » entre 2000 et 2005, surtout chez les personnes en emploi et les chômeurs. La bonne résistance à la crise de 2008-2009 « serait lié[e] seulement en partie à ces réformes » (chômage partiel, flexibilité du temps de travail, dialogue social).",
+      "pertinence": "Note du ministère de l'Économie (lue à travers un outil de lecture qui résume) ; données anciennes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Focus n° 006-2015 sur les réformes du marché du travail allemand",
+      "organisme": "Conseil d'analyse économique",
+      "date_publication": "juin 2015",
+      "url": "https://cae-eco.fr/static/pdf/cae-focus06v2.pdf",
+      "passage": "Entre 2005 et début 2008, le chômage allemand a baissé de 3,4 points (1,6 en France). Selon Akyol et al. (2013), les gains d'appariement liés aux réformes n'expliquent qu'une petite part de la baisse ; la modération salariale est une explication plus forte, comme la démographie. Environ un million de mini-jobs supplémentaires sont devenus une activité principale. Le taux de pauvreté des chômeurs a atteint 68 % en 2011 (46 % en zone euro) ; plus d'un salarié sur cinq est à bas salaire ; les inégalités n'ont « pas reflué depuis 2005 ».",
+      "pertinence": "Note d'économistes pour un organisme public d'expertise rattaché au Premier ministre ; données anciennes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "France, Allemagne : pauvreté des non-travailleurs",
+      "organisme": "OFCE (Sciences Po), blog",
+      "date_publication": "mars 2013 (date déduite)",
+      "url": "https://ofce.sciences-po.fr/blog/france-allemagne-pauvrete-des-non-travailleurs/?print=pdf",
+      "passage": "Selon l'enquête SOEP, le taux de pauvreté des chômeurs allemands est passé de 30 % en 1998 à 56 % en 2010 ; avec Hartz IV, l'indemnisation (ALG I) a été ramenée à 12 mois pour les moins de 55 ans et l'allocation suivante (ALG II) fixée à 345 euros par mois pour une personne seule ; les sanctions sont passées d'environ 360 000 en 2004 à 1,5 million en 2009. En France, le taux de pauvreté des chômeurs est resté autour de 35 % sur 1996-2010.",
+      "pertinence": "Billet de chercheur (Guillaume Allègre) ; données anciennes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Hartz IV and the Decline of German Unemployment: A Macroeconomic Evaluation",
+      "organisme": "Institut für Höhere Studien (dépôt de recherche) — Hochmuth, Kohlbrecher, Merkl, Gartner",
+      "date_publication": "3 mars 2021",
+      "url": "https://irihs.ihs.ac.at/id/eprint/5705/",
+      "passage": "Résumé : « We find that Hartz IV was a major driver for the decline of Germany's steady state unemployment » ; effets partiels et d'équilibre « nearly of equal importance ».",
+      "pertinence": "Article de recherche (résumé seul lu).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "1,3 Millionen weniger Niedriglohnjobs von 2014 bis 2024 (communiqué n° 047)",
+      "organisme": "Office fédéral de la statistique allemand (Destatis)",
+      "date_publication": "6 février 2025",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/02/PD25_047_623.html",
+      "passage": "En avril 2014, environ 7,6 millions d'emplois (21 %) relevaient du secteur à bas salaire ; en avril 2024, environ 6,3 millions (16 %). Avril 2014 précède l'introduction du salaire minimum légal le 1er janvier 2015 ; la plus forte baisse a eu lieu entre avril 2022 et avril 2023, quand le salaire minimum est passé de 9,82 à 12 euros. Seuil : deux tiers du salaire horaire brut médian (13,79 euros en 2024).",
+      "pertinence": "Statistique publique allemande (lue en allemand, résumée).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pauvreté et intensité de la pauvreté dans l'Union européenne — données annuelles 2024",
+      "organisme": "Insee (d’après Eurostat, EU-SILC)",
+      "date_publication": "21 juillet 2026",
+      "url": "https://www.insee.fr/fr/statistiques/3565652",
+      "passage": "Taux de pauvreté au seuil de 60 % du niveau de vie médian en 2024 : Allemagne 16,1 %, France 16,3 % (hors Mayotte, source différente), Union européenne 16,3 %.",
+      "pertinence": "Chiffres-clés de l'Insee à partir d'Eurostat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bundestag beschließt Reform des Bürgergelds",
+      "organisme": "Deutsches Ärzteblatt",
+      "date_publication": "5 mars 2026",
+      "url": "https://www.aerzteblatt.de/news/bundestag-beschliesst-reform-des-burgergelds-60480fdb-afbb-4195-9b96-c21200b8903c",
+      "passage": "Le Bundestag a adopté le 5 mars 2026 (321 voix contre 268) le remplacement du « Bürgergeld » par une « neue Grundsicherung », à partir du 1er juillet 2026 : réduction de 30 % pendant trois mois en cas de refus d'emploi ou de formation, suppression possible de la prestation après trois rendez-vous manqués. Environ 5,5 millions de personnes perçoivent le Bürgergeld ; les sanctions touchaient moins de 30 000 personnes par mois en moyenne.",
+      "pertinence": "Presse professionnelle allemande (lue en allemand, résumée).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-07-31",
+  "raison_actualisation": "Premiers effets de la réforme allemande de la Grundsicherung (juillet 2026) et nouvelles données Eurostat sur la pauvreté.",
+  "objections_legitimes": [
+    "Le chômage allemand a réellement beaucoup baissé après les réformes.",
+    "Certaines évaluations attribuent aux réformes un rôle important dans cette baisse.",
+    "Le chômage français reste plus élevé que le chômage allemand."
+  ],
+  "publics": {
+    "convaincus": "Tu peux regarder les chiffres allemands eux-mêmes : la pauvreté des chômeurs est passée de 30 % à 56 % après Hartz, et un salarié sur cinq était à bas salaire, au point que l'Allemagne a dû créer un salaire minimum. Aujourd'hui, elle a autant de pauvres que nous. Est-ce vraiment ce modèle que tu veux pour tes enfants ?",
+    "indecis": "Le chômage allemand a bien baissé après les lois Hartz, et une partie des économistes leur en donne le mérite ; d'autres l'expliquent par les salaires et la démographie. Ce qui est sûr, c'est que la pauvreté des chômeurs et les bas salaires ont explosé, et que l'Allemagne a dû corriger avec un salaire minimum. Avant de copier, il faut regarder le bilan complet."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "L’argument isole un chiffre, la baisse du chômage, et l’attribue à une seule cause, la pression sur les chômeurs, en passant sous silence la modération salariale, la démographie et le chômage partiel, ainsi que l’explosion de la pauvreté et des bas salaires.",
+    "consequences": "Le modèle a appauvri massivement les chômeurs, multiplié les petits boulots et les travailleurs pauvres, au point que l’Allemagne a dû instaurer un salaire minimum pour en corriger les effets.",
+    "democratie": "Les réformes successives de l’indemnisation sont souvent présentées comme des évidences techniques, alors qu’elles décident du niveau de vie de millions de personnes et devraient faire l’objet d’un vrai débat avec les syndicats.",
+    "propositions": [
+      "Garantir un revenu décent aux privés d’emploi plutôt que multiplier les sanctions",
+      "Relever le salaire minimum et encadrer les contrats précaires",
+      "Développer le chômage partiel et le partage du travail en période de crise"
+    ],
+    "defavorables": [
+      {
+        "fait": "Une évaluation macroéconomique publiée au début des années deux mille vingt fait de Hartz IV un moteur majeur de la baisse du chômage allemand.",
+        "integration": "Même si la réforme a contribué à la baisse du chômage, elle l’a fait au prix d’une pauvreté accrue : la question est de savoir quel emploi et à quel prix, pas seulement combien."
+      }
+    ]
+  },
+  "concepts": [
+    "hartz",
+    "emploi",
+    "pauvrete"
+  ],
+  "repond_a": [
+    {
+      "id": "hartz_q1906",
+      "label": "Réformes Hartz et modèle allemand"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "pauvrete",
+    "misere",
+    "coutent trop cher"
+  ]
+}

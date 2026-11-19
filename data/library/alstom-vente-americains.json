@@ -1,0 +1,236 @@
+{
+  "id": "alstom-vente-americains",
+  "type": "idee_recue",
+  "affirmation": "Macron a bradé Alstom aux Américains.",
+  "volet": "economie",
+  "sous_theme": "Grandes entreprises",
+  "rubriques": [],
+  "mots_cles": [
+    "macron a brade alstom",
+    "macron a vendu alstom",
+    "alstom general electric",
+    "vente alstom americains",
+    "turbines arabelle",
+    "ge belfort",
+    "commission enquete alstom",
+    "alstom energie vendu",
+    "souverainete industrielle alstom",
+    "alstom kron montebourg"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "En partie exact, mais incomplet. La vente de la branche énergie d'Alstom à General Electric a été décidée en 2014 par la direction d'Alstom, sous la pression d'une enquête américaine pour corruption, et validée par tout l'exécutif de François Hollande. Emmanuel Macron y a joué un rôle réel : à l'Élysée avant 2014, puis comme ministre de l'Économie qui a signé l'autorisation du 5 novembre 2014, et comme président quand l'État a renoncé en 2017 à entrer au capital d'Alstom. Les promesses d'emploi de GE n'ont pas été tenues. Mais il n'a pas agi seul, et « brader » (vendre à vil prix) n'est pas démontré par les sources lues.",
+  "contexte": "La vente d'Alstom Énergie est devenue un symbole de la désindustrialisation et de la perte de souveraineté, invoqué aussi bien par l'extrême droite que par la gauche et par Arnaud Montebourg. Elle a fait l'objet d'une commission d'enquête de l'Assemblée nationale en 2017-2018. En 2024, EDF a racheté une partie de l'activité nucléaire, dont les turbines Arabelle.",
+  "explication": "On reconstitue la chronologie et les responsabilités telles que les établissent les documents parlementaires : qui a décidé de vendre, qui a autorisé, ce qui a été promis et ce qui a été tenu.",
+  "faits": [
+    {
+      "fait": "Selon la commission d'enquête de l'Assemblée nationale (2018), la menace d'une amende américaine pour corruption (772 millions de dollars au final) a pesé sur la décision du PDG d'Alstom, Patrick Kron, de vendre et l'a accélérée, sans en être probablement la cause déterminante, qui reste économique.",
+      "periode": "2014",
+      "perimetre": "France, États-Unis",
+      "explication": "La décision de vendre vient d'abord de la direction d'Alstom, sous la pression de la justice américaine.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "772 millions de dollars"
+    },
+    {
+      "fait": "Selon le même rapport, le ministre de l'Économie de l'époque, Arnaud Montebourg, n'a pas été informé de la procédure américaine et a été « court-circuité par la Présidence de la République ».",
+      "periode": "2014",
+      "perimetre": "France",
+      "explication": "Le dossier a été suivi au sommet de l'État ; c'est l'exécutif de François Hollande dans son ensemble qui a laissé faire.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Olivier Marleix, président de la commission d'enquête, rapporté par LCP, l'étude du cabinet AT Kearney de 2012 sur les fragilités d'Alstom avait été commandée par Emmanuel Macron, alors secrétaire général adjoint de l'Élysée, sans que l'État en tire les conséquences.",
+      "periode": "2012-2014",
+      "perimetre": "France",
+      "explication": "Emmanuel Macron suivait le dossier avant même d'être ministre : son rôle ne commence pas en 2014.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon le compte rendu de son audition à l'Assemblée nationale (11 mars 2015), Emmanuel Macron, ministre de l'Économie, a lui-même déclaré : « j'ai décidé d'autoriser General Electric à investir en France », autorisation donnée le 5 novembre 2014 au titre du décret du 14 mai 2014 sur les investissements étrangers.",
+      "periode": "2014",
+      "perimetre": "France",
+      "explication": "La signature finale de l'État est bien celle d'Emmanuel Macron.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la même audition, General Electric s'était engagé à créer 1 000 emplois industriels en trois ans, sous peine de 50 000 euros de pénalité par emploi non créé ; selon la commission d'enquête, seuls 358 emplois nets avaient été créés fin 2017.",
+      "periode": "2015-2017",
+      "perimetre": "France",
+      "explication": "La principale garantie sociale de la vente n'a pas été respectée.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "358 emplois"
+    },
+    {
+      "fait": "Selon le rapport de la commission d'enquête, l'État a décidé en octobre 2017, sous la présidence d'Emmanuel Macron, de ne pas acheter les 20 % du capital d'Alstom que Bouygues lui avait prêtés depuis 2014.",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Le principal levier public prévu par l'accord de 2014 a été abandonné.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    },
+    {
+      "fait": "Selon Public Sénat, General Electric a annoncé en mai 2019 plus de 1 000 suppressions d'emplois sur le site de Belfort.",
+      "periode": "2019",
+      "perimetre": "Belfort",
+      "explication": "Les salariés ont payé le prix de la vente.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "1 000 emplois"
+    },
+    {
+      "fait": "Fait défavorable : selon EDF, l'entreprise publique a racheté le 31 mai 2024 les activités nucléaires de GE, dont les turbines Arabelle fabriquées à Belfort, au sein d'Arabelle Solutions (environ 3 300 salariés) ; selon l'AFP, l'Élysée rappelle qu'Alstom avait choisi de vendre pour se recentrer sur le ferroviaire.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Une partie de l'activité stratégique est revenue sous contrôle public, ce que le gouvernement met en avant ; le prix payé n'a pas été rendu public.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "3 300 salariés"
+    }
+  ],
+  "argumentaires": {
+    "court": "En partie vrai. C'est la direction d'Alstom qui a voulu vendre, sous la pression d'une enquête américaine, et tout l'exécutif de François Hollande a laissé faire. Mais Emmanuel Macron a suivi le dossier à l'Élysée, a signé l'autorisation de la vente comme ministre en novembre 2014, puis, président, a renoncé en 2017 à faire entrer l'État au capital. GE n'a créé que 358 des 1 000 emplois promis.",
+    "moyen": "La vente de la branche énergie d'Alstom à General Electric a été voulue par son PDG, Patrick Kron. Selon la commission d'enquête de l'Assemblée nationale (2018), la menace d'une amende américaine pour corruption, 772 millions de dollars au final, a pesé sur sa décision. Le ministre de l'Économie de l'époque, Arnaud Montebourg, a été « court-circuité par la Présidence de la République ».\n\nEmmanuel Macron a joué un rôle à chaque étape : selon le président de la commission, il a commandé dès 2012, depuis l'Élysée, une étude sur les fragilités d'Alstom ; ministre, il a autorisé GE à investir le 5 novembre 2014 ; président, il a laissé l'État renoncer en 2017 aux 20 % du capital d'Alstom. GE avait promis 1 000 emplois : fin 2017, seuls 358 avaient été créés, et 1 000 suppressions étaient annoncées à Belfort en 2019. Il n'a pas agi seul, et le prix de vente n'est pas jugé « bradé » par les sources lues, mais l'État a renoncé à protéger un actif stratégique.",
+    "detaille": "Au départ, il y a une entreprise fragilisée et une enquête américaine. Selon la commission d'enquête de l'Assemblée nationale, adoptée à l'unanimité en avril 2018, les poursuites pour corruption engagées par la justice américaine ont pesé sur la décision du PDG d'Alstom, Patrick Kron, de vendre la branche énergie : l'amende finale s'est élevée à 772 millions de dollars. Le rapport estime cependant que la cause déterminante reste économique et qu'aucun élément ne prouve que GE ait instrumentalisé l'enquête.\n\nCôté État, la responsabilité est collective. Le ministre de l'Économie Arnaud Montebourg n'a pas été informé de la procédure américaine et a été « court-circuité par la Présidence de la République ». Selon le président de la commission, Olivier Marleix, c'est Emmanuel Macron, alors secrétaire général adjoint de l'Élysée, qui avait commandé en 2012 une étude sur les fragilités d'Alstom, sans que l'État en tire les conséquences. Devenu ministre de l'Économie, il a signé le 5 novembre 2014 l'autorisation de l'investissement de GE, en s'appuyant sur le décret du 14 mai 2014 sur les investissements étrangers.\n\nLes contreparties n'ont pas tenu. GE s'était engagé à créer 1 000 emplois industriels en trois ans ; fin 2017, seuls 358 emplois nets avaient été créés, et en mai 2019 GE annonçait plus de 1 000 suppressions d'emplois à Belfort. L'État avait obtenu le droit d'acheter 20 % du capital d'Alstom à Bouygues : en octobre 2017, sous la présidence d'Emmanuel Macron, il y a renoncé.\n\nEnfin, EDF a racheté en mai 2024 les activités nucléaires de GE, dont les turbines Arabelle, pour un prix non publié. La leçon de gauche est claire : un actif stratégique a été abandonné au marché, et la puissance publique a dû le racheter. Le problème n'est pas « les Américains » mais le renoncement à une politique industrielle publique, partagé par plusieurs gouvernements.",
+    "empathie": "Voir une grande entreprise industrielle passer sous contrôle étranger puis supprimer des emplois à Belfort suscite une colère légitime, notamment chez les salariés concernés. Il est normal de chercher les responsables."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est Macron tout seul qui a vendu Alstom.",
+      "reponse": "La décision de vendre vient de la direction d'Alstom, et le rapport parlementaire décrit un exécutif de François Hollande où l'Élysée a court-circuité le ministre. Emmanuel Macron y a joué un rôle important, mais pas solitaire."
+    },
+    {
+      "objection": "Les Américains ont monté l'enquête pour corruption pour piller Alstom.",
+      "reponse": "La commission d'enquête dit que l'amende a pesé sur la décision, mais qu'aucun élément factuel ne prouve que GE ait instrumentalisé la justice américaine. Les faits de corruption, eux, ont été sanctionnés."
+    },
+    {
+      "objection": "De toute façon, tout est revenu en France avec EDF.",
+      "reponse": "Seules les activités nucléaires, dont les turbines Arabelle, ont été rachetées par EDF en 2024, à un prix non publié ; le reste de l'ancienne branche énergie n'est pas revenu."
+    }
+  ],
+  "questions": [
+    "Qui, selon toi, aurait dû empêcher la vente : le PDG, le ministre, le président ?",
+    "Faut-il que l'État puisse bloquer ou racheter une entreprise stratégique, même si cela coûte de l'argent public ?"
+  ],
+  "limites": [
+    "Le rapport de la commission d'enquête (plusieurs centaines de pages) n'a été lu qu'en partie, à travers un outil de lecture qui résume : les passages sur le rôle personnel d'Emmanuel Macron n'ont pas été trouvés dans les parties lues ; l'attribution de la commande de l'étude AT Kearney repose sur les propos d'Olivier Marleix rapportés par LCP.",
+    "Le prix de la vente de 2014 et celui du rachat par EDF en 2024 n'ont pas été vérifiés : aucune source lue ne permet de dire si Alstom a été « bradé ».",
+    "Les travaux du Sénat sur le dossier n'ont pas été ouverts directement ; seul un article de Public Sénat est cité.",
+    "Le communiqué d'EDF est une source d'entreprise (le racheteur)."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport de la commission d'enquête chargée d'examiner les décisions de l'État en matière de politique industrielle (n° 897, tome I)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "19 avril 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/rapports/cepolind/l15b0897-ti_rapport-enquete.pdf",
+      "passage": "Le rapport juge que la perspective de l'amende américaine (772 millions de dollars au final) a pesé sur la décision de Patrick Kron et l'a accélérée, sans en être probablement la cause déterminante, qui reste économique ; aucun élément factuel ne permet d'affirmer que General Electric a instrumentalisé l'enquête américaine. Le ministre de l'Économie Arnaud Montebourg n'a pas été informé de la procédure américaine et a été « court-circuité par la Présidence de la République ». En octobre 2017, l'État a décidé de ne pas acquérir les 20 % d'Alstom prêtés par Bouygues. Fin 2017, seuls 358 emplois nets avaient été créés sur les 1 000 promis par GE.",
+      "pertinence": "Rapport parlementaire adopté à l'unanimité (lu en partie, à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Commission des affaires économiques : audition d'Emmanuel Macron, ministre de l'Économie, sur le rachat du pôle énergie d'Alstom par General Electric (compte rendu n° 41)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "11 mars 2015",
+      "url": "https://www.assemblee-nationale.fr/14/pdf/cr-eco/14-15/c1415041.pdf",
+      "passage": "Emmanuel Macron : « j'ai décidé d'autoriser General Electric à investir en France » (autorisation du 5 novembre 2014, au titre du décret du 14 mai 2014 sur les investissements étrangers soumis à autorisation préalable). L'accord avec Bouygues « donne accès à un bloc de 20 % au capital d'Alstom ». « General Electric s'est engagé à créer 1 000 emplois industriels en trois ans », sous peine d'une pénalité de 50 000 euros par emploi non créé.",
+      "pertinence": "Compte rendu officiel d'audition parlementaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Affaire Alstom : l'enquête parlementaire qui dénonce la faillite des élites françaises",
+      "organisme": "LCP (Assemblée nationale)",
+      "date_publication": "19 avril 2018 (mis à jour le 8 février 2023)",
+      "url": "https://lcp.fr/actualites/affaire-alstom-lenquete-parlementaire-qui-denonce-la-faillite-des-elites-francaises",
+      "passage": "La commission présidée par Olivier Marleix (LR), rapporteur Guillaume Kasbarian (LREM), a adopté son rapport à l'unanimité. Olivier Marleix dénonce « la cécité, l'imprévision et l'entre soi » des gouvernants ; selon lui, l'étude du cabinet AT Kearney de 2012 sur les fragilités d'Alstom a été commandée par le secrétaire général adjoint de l'Élysée, Emmanuel Macron. Guillaume Kasbarian nuance : rien ne prouve que plus de temps aurait permis de trouver un autre repreneur. Le partenaire américain est « loin d'avoir fait ses preuves ».",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Vente d'Alstom : Emmanuel Macron devrait rendre des comptes, pour Arnaud Montebourg",
+      "organisme": "Public Sénat",
+      "date_publication": "11 juillet 2019",
+      "url": "https://www.publicsenat.fr/article/parlementaire/vente-d-alstom-emmanuel-macron-devrait-rendre-des-comptes-pour-arnaud",
+      "passage": "Arnaud Montebourg qualifie la vente d'« erreur majeure » et reproche à François Hollande et à son cabinet un manque de combativité. La cession de la branche énergie à General Electric a été finalisée alors qu'Emmanuel Macron était ministre de l'Économie. En mai 2019, General Electric a annoncé plus de 1 000 suppressions d'emplois sur le site de Belfort.",
+      "pertinence": "Chaîne d'information du Sénat.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "EDF acquiert les activités nucléaires de GE Steam Power auprès de GE Vernova",
+      "organisme": "EDF (communiqué de presse)",
+      "date_publication": "31 mai 2024",
+      "url": "https://www.edf.fr/groupe-edf/espaces-dedies/journalistes/tous-les-communiques-de-presse/edf-acquiert-les-activites-nucleaires-de-ge-steam-power-aupres-de-ge-vernova",
+      "passage": "EDF finalise l'acquisition des activités nucléaires de GE Vernova (îlot conventionnel des centrales, dont les turbines Arabelle), hors services sur le continent américain, après un accord d'exclusivité du 10 février 2022 et un accord définitif du 4 novembre 2022. La nouvelle entité, Arabelle Solutions, détenue à 100 % par EDF, compte environ 3 300 salariés.",
+      "pertinence": "Communiqué de l'acheteur (entreprise publique) ; prix non communiqué.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Reprise des activités nucléaires de GE par EDF : les turbines Arabelle reviennent finalement dans le giron français",
+      "organisme": "AFP (repris par Connaissance des Énergies)",
+      "date_publication": "30 mai 2024 (mis à jour le 31 mai 2024)",
+      "url": "https://www.connaissancedesenergies.org/afp/reprise-des-activites-nucleaires-de-ge-par-edf-les-turbines-arabelle-reviennent-finalement-dans-le-giron-francais-240530",
+      "passage": "GE avait racheté la branche énergie d'Alstom en 2015, alors qu'Emmanuel Macron était ministre de l'Économie ; l'Élysée souligne qu'Alstom avait choisi de vendre pour se recentrer sur le ferroviaire. Les turbines Arabelle sont fabriquées à Belfort. Emmanuel Macron : « Ce 31 mai, EDF reprend officiellement les activités nucléaires de General Electric » ; il refuse de donner le prix.",
+      "pertinence": "Dépêche AFP.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Évolution d'Arabelle Solutions et du site de Belfort ; éventuelles suites judiciaires.",
+  "objections_legitimes": [
+    "Les promesses d'emploi de General Electric n'ont pas été tenues, selon la commission d'enquête.",
+    "Emmanuel Macron a bien signé l'autorisation de la vente en novembre 2014.",
+    "La commission d'enquête dénonce des défaillances graves de l'État dans la protection d'une entreprise stratégique."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : Macron a signé l'autorisation de la vente en 2014 et, président, il a renoncé à faire entrer l'État au capital d'Alstom en 2017. Mais le rapport de l'Assemblée montre aussi que c'est la direction d'Alstom qui voulait vendre, et que tout l'exécutif a laissé faire. Le vrai problème, c'est un État qui ne protège plus son industrie : c'est ce que la gauche dénonce depuis longtemps.",
+    "indecis": "La vente d'Alstom à General Electric a été voulue par son PDG, sous la pression d'une enquête américaine, et validée par le gouvernement de l'époque ; Emmanuel Macron y a joué un rôle, notamment en signant l'autorisation en novembre 2014. Les promesses d'emploi n'ont pas été tenues. Le rapport parlementaire de 2018, adopté à l'unanimité, est le repère le plus fiable sur ce dossier."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "services_publics",
+      "democratie"
+    ],
+    "mecanismes": "Le slogan concentre sur un seul homme et sur « les Américains » une responsabilité collective : une direction d’entreprise qui veut vendre, un exécutif qui laisse faire, et un État qui a renoncé à mener une politique industrielle. Il transforme une question de choix économiques en affaire de trahison nationale.",
+    "consequences": "Les salariés de Belfort et de Grenoble ont subi des suppressions d’emplois, les promesses de création d’emplois n’ont pas été tenues, et la puissance publique a dû racheter plus tard une activité stratégique qu’elle avait laissé partir.",
+    "democratie": "Le Parlement n’a découvert l’ampleur du dossier qu’après coup, par une commission d’enquête : les décisions industrielles stratégiques se prennent dans un cercle très restreint, sans contrôle démocratique réel.",
+    "propositions": [
+      "Renforcer le contrôle public des investissements étrangers dans les secteurs stratégiques et rendre publics les engagements des repreneurs",
+      "Doter l’État d’une capacité d’entrer au capital des entreprises stratégiques menacées",
+      "Associer les salariés et les élus locaux aux décisions de cession"
+    ],
+    "defavorables": [
+      {
+        "fait": "EDF a racheté les activités nucléaires de General Electric, dont les turbines Arabelle, et l’Élysée rappelle que c’est Alstom qui avait choisi de vendre.",
+        "integration": "Ce rachat confirme qu’il s’agissait d’un actif stratégique : il montre le coût d’un renoncement initial plutôt qu’il ne l’efface."
+      }
+    ]
+  },
+  "concepts": [
+    "riches_entreprises",
+    "europe"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "bruxelles",
+    "union europeenne"
+  ]
+}

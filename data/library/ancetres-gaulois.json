@@ -1,0 +1,240 @@
+{
+  "id": "ancetres-gaulois",
+  "type": "idee_recue",
+  "affirmation": "Nos ancêtres sont les Gaulois.",
+  "volet": "immigration",
+  "sous_theme": "Histoire des migrations",
+  "rubriques": [],
+  "mots_cles": [
+    "nos ancetres les gaulois",
+    "ancetres gaulois",
+    "francais de souche",
+    "on descend tous des gaulois",
+    "des que vous devenez francais vos ancetres sont gaulois",
+    "genetique des francais",
+    "roman national",
+    "vercingetorix",
+    "petit lavisse",
+    "origines des francais"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les peuples de la Gaule font bien partie des ancêtres de beaucoup de Français, mais ils ne sont ni les premiers ni les seuls. La génétique montre au moins deux grandes vagues de migrations bien avant eux (agriculteurs venus d'Anatolie, puis populations des steppes), et l'histoire en a ajouté beaucoup d'autres. Selon l'Insee, un tiers des moins de 60 ans ont un lien avec l'immigration sur trois générations. La formule elle-même est une construction politique du XIXe siècle, diffusée par l'école de la IIIe République, jusque dans les colonies.",
+  "contexte": "La formule « nos ancêtres les Gaulois » revient régulièrement dans le débat sur l'identité nationale, par exemple quand Nicolas Sarkozy déclare en septembre 2016 : « Dès que vous devenez français, vos ancêtres sont gaulois. » L'extrême droite l'utilise pour opposer des Français « de souche » à ceux dont les familles sont arrivées plus récemment.",
+  "explication": "On distingue ce que disent la génétique et l'archéologie sur le peuplement du territoire, l'histoire de la formule elle-même, et la composition réelle de la population actuelle selon la statistique publique.",
+  "faits": [
+    {
+      "fait": "Selon le CNRS, l'analyse des génomes de 243 individus anciens (étude publiée dans PNAS en 2020) montre que la population du territoire actuel de la France s'est formée par mélanges successifs : chasseurs-cueilleurs locaux, premiers agriculteurs venus d'Anatolie il y a environ 6 300 ans, puis populations des steppes pontiques il y a environ 4 200 ans.",
+      "periode": "depuis 7 000 ans",
+      "perimetre": "territoire de la France actuelle",
+      "explication": "Bien avant les Gaulois, le territoire a été peuplé par des migrations venues de très loin : il n'existe pas de peuple originel.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "243 génomes"
+    },
+    {
+      "fait": "Selon le CNRS, le chromosome Y de la majorité des hommes français porte encore la signature des populations venues des steppes à l'âge du bronze.",
+      "periode": "âge du bronze à aujourd’hui",
+      "perimetre": "France",
+      "explication": "Une bonne part de « l'héritage » génétique des Français vient de migrants arrivés plus de mille ans avant l'époque gauloise.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon une étude publiée dans iScience en 2022 sur 49 génomes de l'âge du fer, il n'y a pas de rupture génétique entre les populations de l'âge du bronze et les Gaulois de l'âge du fer, et les groupes gaulois de six régions étaient génétiquement assez homogènes.",
+      "periode": "âge du fer",
+      "perimetre": "six régions de France",
+      "explication": "Les Gaulois ne sont pas arrivés d'ailleurs en remplaçant tout le monde : ils descendent en grande partie des populations déjà présentes, et une partie des Français actuels a bien des ancêtres gaulois, parmi beaucoup d'autres.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "49 génomes"
+    },
+    {
+      "fait": "Selon la même étude, cette homogénéité s'explique par la mobilité entre régions et par des échanges génétiques avec des groupes voisins d'Angleterre et d'Espagne.",
+      "periode": "âge du fer",
+      "perimetre": "Gaule",
+      "explication": "Même les Gaulois n'étaient pas un peuple fermé : ils circulaient et se mélangeaient avec leurs voisins.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le dossier de l'exposition coproduite par l'Inrap et la Cité des sciences (2011), le « roman national » fait des Gaulois des ancêtres « auréolés de valeurs » à partir de 1850, et les manuels d'Ernest Lavisse, dont le Petit Lavisse édité de 1882 à 1959, ont joué « un rôle déterminant » dans sa diffusion.",
+      "periode": "1850-1959",
+      "perimetre": "France",
+      "explication": "La formule est une construction politique et scolaire, pas une conclusion scientifique.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le même dossier, les écoliers des colonies comme ceux de métropole ont récité « Nos ancêtres les Gaulois » jusque dans les années 1950.",
+      "periode": "années 1880-1950",
+      "perimetre": "France et empire colonial",
+      "explication": "Faire réciter à des enfants d'Afrique ou des Antilles qu'ils descendaient des Gaulois montre que la formule n'a jamais décrit une ascendance réelle.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Insee (2022), un tiers des personnes de moins de 60 ans ont un lien avec l'immigration sur trois générations, et 10 % sont des petits-enfants d'immigrés.",
+      "periode": "2019-2020",
+      "perimetre": "France",
+      "explication": "Une grande partie des Français ont des ancêtres récents nés ailleurs, souvent en Europe : ils n'en sont pas moins français.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "un tiers"
+    },
+    {
+      "fait": "Selon l'AFP, Nicolas Sarkozy a déclaré le 19 septembre 2016 à Franconville : « Dès que vous devenez français, vos ancêtres sont gaulois. »",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Même dans la bouche de ceux qui l'emploient, la formule désigne une appartenance choisie, pas une généalogie.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les Gaulois sont des ancêtres parmi d'autres. La génétique montre que le territoire a été peuplé par des vagues successives venues d'Anatolie puis des steppes, bien avant eux, et l'histoire en a ajouté beaucoup d'autres. Aujourd'hui, selon l'Insee, un tiers des moins de 60 ans ont un lien avec l'immigration sur trois générations. La formule vient des manuels de la IIIe République, qu'on faisait réciter même aux écoliers des colonies.",
+    "moyen": "Selon les travaux de génétique présentés par le CNRS, la population du territoire s'est formée par mélanges : chasseurs-cueilleurs, agriculteurs venus d'Anatolie il y a environ 6 300 ans, puis populations des steppes il y a environ 4 200 ans, dont la signature se retrouve encore sur le chromosome Y de la majorité des hommes français. Les Gaulois de l'âge du fer descendent en grande partie de ces populations, et circulaient eux-mêmes beaucoup, selon une étude de 2022.\n\nEnsuite, l'histoire a continué d'apporter de nouvelles populations. Selon l'Insee, un tiers des moins de 60 ans ont un lien avec l'immigration sur trois générations. Quant à la formule, elle a été popularisée par les manuels d'Ernest Lavisse et récitée jusque dans les écoles des colonies : c'était un récit politique, pas un arbre généalogique.",
+    "detaille": "Commençons par la science. Selon le CNRS, une étude publiée en 2020 sur les génomes de 243 individus anciens montre que la population du territoire actuel de la France s'est construite par mélanges successifs. Des agriculteurs venus d'Anatolie se sont mêlés aux chasseurs-cueilleurs locaux il y a environ 6 300 ans ; puis des populations des steppes pontiques sont arrivées à l'âge du bronze, il y a environ 4 200 ans. Leur signature se retrouve encore sur le chromosome Y de la majorité des hommes français.\n\nLes Gaulois, eux, ne sont pas venus remplacer tout le monde. Une étude publiée dans iScience en 2022 sur 49 génomes de l'âge du fer ne trouve pas de rupture génétique avec l'âge du bronze : les Gaulois descendent largement des populations déjà présentes. Ils étaient assez homogènes d'une région à l'autre, grâce à la mobilité et aux échanges avec leurs voisins d'Angleterre et d'Espagne. Il est donc exact qu'une partie des Français ont des ancêtres gaulois, mais aussi des ancêtres agriculteurs venus d'Anatolie, des populations des steppes, et bien d'autres venus plus tard.\n\nLa formule « nos ancêtres les Gaulois » est d'abord une construction politique. Selon le dossier d'exposition coproduit par l'Inrap, après la Révolution, il fallait donner des ancêtres au peuple comme les rois en avaient ; à partir de 1850, le « roman national » transforme les Gaulois en ancêtres héroïques, et les manuels d'Ernest Lavisse, édités de 1882 à 1959, ont joué un rôle déterminant. Les écoliers des colonies ont récité cette leçon jusque dans les années 1950, ce qui montre bien qu'elle ne décrivait pas une ascendance réelle.\n\nAujourd'hui, selon l'Insee, un tiers des moins de 60 ans ont un lien avec l'immigration sur trois générations, souvent avec l'Europe. La gauche républicaine ne définit pas la nation par le sang mais par la citoyenneté : on devient français en partageant des droits et un destin commun, pas en se trouvant des ancêtres.",
+    "empathie": "Il est normal de s'attacher à une histoire commune et à des racines, surtout quand on a l'impression que le pays change vite. Ce récit a été appris à l'école par des générations entières."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La génétique prouve qu'on est des Gaulois.",
+      "reponse": "Elle prouve surtout le mélange : agriculteurs venus d'Anatolie, populations des steppes, puis bien d'autres. Les Gaulois eux-mêmes descendent largement de ces migrants plus anciens, selon les études citées par le CNRS et publiées dans iScience."
+    },
+    {
+      "objection": "Les immigrés récents, eux, n'ont rien à voir avec notre histoire.",
+      "reponse": "Selon l'Insee, un tiers des moins de 60 ans ont un lien avec l'immigration sur trois générations : l'immigration fait partie de l'histoire de millions de familles françaises, dont les grands-parents immigrés sont très souvent nés en Europe."
+    },
+    {
+      "objection": "Même Sarkozy le disait.",
+      "reponse": "Il disait justement que « dès que vous devenez français », vos ancêtres sont gaulois : c'est l'appartenance qui compte, pas le sang. Et c'est une formule de discours, pas un résultat scientifique."
+    }
+  ],
+  "questions": [
+    "Sais-tu d'où venaient tes arrière-grands-parents, et leurs propres grands-parents ?",
+    "Qu'est-ce qui fait de quelqu'un un Français : ses ancêtres ou le fait de partager les mêmes droits et devoirs ?"
+  ],
+  "limites": [
+    "Le communiqué du CNRS et l'article de la revue iScience ont été lus en anglais, à travers un outil de lecture qui résume ; l'article complet (et la notice HAL, inaccessible) n'a pas été lu.",
+    "Le dossier de presse de l'Inrap et de la Cité des sciences date de 2011.",
+    "Les données de l'Insee portent sur 2019-2020 (enquête TeO2) et sur les moins de 60 ans ; la page n'a été lue qu'en partie.",
+    "L'usage de la formule dans les écoles coloniales repose sur le dossier de l'Inrap et sur une chronique de presse ; aucun travail d'historien spécialiste de l'école coloniale n'a pu être ouvert.",
+    "Aucune page du musée national de l'histoire de l'immigration ni de la BnF n'a pu être lue sur ce sujet."
+  ],
+  "sources": [
+    {
+      "titre": "7,000 years of demographic history in France",
+      "organisme": "CNRS",
+      "date_publication": "25 mai 2020",
+      "url": "https://www.cnrs.fr/en/7000-years-demographic-history-france",
+      "passage": "Présentation de l'étude « Ancient genomes from present-day France unveil 7,000 years of its demographic history » (PNAS), menée par l'Institut Jacques Monod (CNRS/Université de Paris) sur les génomes de 243 individus anciens. Elle montre « how admixture between native hunter-gatherers and the first Anatolian Neolithic migrants » a façonné la population (vague néolithique, il y a environ 6 300 ans), puis l'arrivée de populations des steppes pontiques à l'âge du bronze (il y a environ 4 200 ans), avec « the Y chromosome of the majority of French men still bearing the signature of men from the steppes ».",
+      "pertinence": "Communiqué du CNRS sur une étude publiée dans PNAS (lu en anglais, à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Origin and mobility of Iron Age Gaulish groups in present-day France revealed through archaeogenomics (iScience, vol. 25, n° 4, 104094)",
+      "organisme": "Université de Bordeaux (archive ouverte OSKAR), article de C.-E. Fischer, M.-F. Deguilloux, M. Pruvost et al.",
+      "date_publication": "2022",
+      "url": "https://oskar-bordeaux.fr/handle/20.500.12278/173431",
+      "passage": "49 génomes de l'âge du fer issus de six régions françaises : « The 49 acquired genomes permitted us to highlight an absence of discontinuity » entre l'âge du bronze et l'âge du fer ; la transition culturelle viendrait d'évolutions locales plutôt que d'un apport massif de population. Les groupes régionaux montrent une « strong genetic homogeneity », attribuée à la mobilité entre régions et à des flux génétiques avec des groupes voisins d'Angleterre et d'Espagne.",
+      "pertinence": "Notice et résumé d'un article scientifique à comité de lecture (lu en anglais, résumé).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Gaulois, une expo renversante — dossier de presse",
+      "organisme": "Cité des sciences et de l'industrie (Universcience) et Inrap",
+      "date_publication": "9 octobre 2011",
+      "url": "https://www.inrap.fr/sites/inrap.fr/files/atoms/files/dp-gaulois.pdf",
+      "passage": "« Depuis 2 000 ans, le passé gaulois sert le régime et la cause du moment » ; faute de traces écrites, « le Gaulois » est « un matériau aisément modelable et manipulable ». Après 1789, « si les rois ont des ancêtres, le peuple doit en avoir aussi ! ». À partir de 1850, le « roman national » fait des Gaulois des ancêtres « auréolés de valeurs ». Les manuels d'Ernest Lavisse, dont le Petit Lavisse (1882-1959), jouent « un rôle déterminant ». Les écoliers des colonies comme de métropole ont récité « Nos ancêtres les Gaulois » jusque dans les années 1950.",
+      "pertinence": "Dossier de presse d'une exposition coproduite par l'Institut national de recherches archéologiques préventives.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La diversité des origines et la mixité des unions progressent au fil des générations (Insee Première n° 1910)",
+      "organisme": "Insee",
+      "date_publication": "5 juillet 2022 (actualisé le 23 février 2023)",
+      "url": "https://www.insee.fr/fr/statistiques/6468640",
+      "passage": "« Si un tiers des personnes de moins de 60 ans ont un lien à l'immigration sur trois générations » ; parmi les moins de 60 ans, « 10 % sont descendantes d'immigrés de 3e génération » ; « neuf petits-enfants d'immigrés sur dix de moins de 60 ans n'ont qu'un ou deux grands-parents immigrés » ; parmi les petits-enfants d'immigrés de 18 à 59 ans, 91 % ont au moins un grand-parent immigré né en Europe. Données de l'enquête Trajectoires et origines (TeO2, Insee-Ined).",
+      "pertinence": "Publication de la statistique publique (page longue, lue en partie).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sarkozy : « dès que l'on devient français, nos ancêtres sont gaulois »",
+      "organisme": "AFP (dépêche publiée par Tendance Ouest)",
+      "date_publication": "20 septembre 2016",
+      "url": "https://www.tendanceouest.com/actualite-193593-franconville-afp-sarkozy-des-que-l-on-devient-francais-nos-ancetres-sont-gaulois",
+      "passage": "Lors d'une réunion publique à Franconville (Val-d'Oise), le 19 septembre 2016, Nicolas Sarkozy déclare : « Dès que vous devenez français, vos ancêtres sont gaulois. »",
+      "pertinence": "Dépêche de l'Agence France-Presse.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Nos ancêtres les Gaulois », par Seydou Ka (chronique « Le Décodeur »)",
+      "organisme": "Le Soleil (quotidien sénégalais)",
+      "date_publication": "6 janvier 2025",
+      "url": "https://lesoleil.sn/le-decodeur/chronique/nos-ancetres-les-gaulois-par-seydou-ka/",
+      "passage": "La chronique cite l'économiste Samir Amin : des enseignants, au nom de l'assimilation, refusaient les « manuels pour colonies » et utilisaient les mêmes manuels qu'en France, dont la leçon commençait par « Nos ancêtres les Gaulois ». Elle cite aussi le philosophe Souleymane Bachir Diagne (Universaliser, 2024) : « Les seuls vrais descendants des Gaulois, ce sont les écoliers de l'empire. »",
+      "pertinence": "Chronique de presse africaine francophone.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Nouvelles études de paléogénomique et résultats complets de l'enquête Trajectoires et origines 2.",
+  "objections_legitimes": [
+    "Les peuples de la Gaule font réellement partie des ancêtres d'une partie des Français, selon la génétique.",
+    "Avoir besoin d'une histoire partagée pour faire nation est une attente légitime.",
+    "La formule a été enseignée pendant des décennies : beaucoup l'ont apprise de bonne foi."
+  ],
+  "publics": {
+    "convaincus": "Tu as en partie raison : les Gaulois font partie de nos ancêtres. Mais la génétique, présentée par le CNRS, montre qu'ils descendaient eux-mêmes de migrants venus d'Anatolie et des steppes. Et la formule vient des manuels de la IIIe République, qu'on faisait réciter aussi aux enfants d'Afrique : elle n'a jamais été un arbre généalogique.",
+    "indecis": "La formule rassure parce qu'elle raconte une histoire simple. La réalité est plus riche : des vagues de populations successives, bien avant et après les Gaulois, et aujourd'hui un tiers des moins de 60 ans qui ont un lien avec l'immigration, selon l'Insee. Être français, c'est partager une citoyenneté et une histoire, pas avoir les bons ancêtres."
+  },
+  "lecture": {
+    "valeurs": [
+      "universalite",
+      "antiracisme",
+      "egalite"
+    ],
+    "mecanismes": "La formule transforme un récit scolaire du dix-neuvième siècle en généalogie biologique, pour distinguer des Français « de souche » et des Français de seconde zone, alors que la génétique décrit des mélanges successifs et que la nation républicaine se définit par la citoyenneté.",
+    "consequences": "Elle renvoie des millions de Français dont les familles sont venues d’ailleurs à une appartenance conditionnelle, et prolonge un imaginaire colonial où l’on faisait réciter des ancêtres gaulois à des enfants d’Afrique et des Antilles.",
+    "democratie": "Une démocratie repose sur l’égalité des citoyens, pas sur leurs ancêtres : définir la nation par le sang ouvre la voie à des droits différents selon l’origine.",
+    "propositions": [
+      "Enseigner l’histoire des migrations et de la colonisation comme une part de l’histoire de France.",
+      "Faire connaître les résultats de la recherche archéologique et génétique sur le peuplement du territoire.",
+      "Défendre un droit du sol et une citoyenneté fondés sur la résidence et la participation à la vie commune."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les études génétiques montrent une continuité entre les populations de l’âge du bronze et les Gaulois, et une partie des Français actuels a bien des ancêtres gaulois.",
+        "integration": "C’est exact, mais ces Gaulois descendaient eux-mêmes de migrants venus d’Anatolie et des steppes : avoir des ancêtres gaulois parmi d’autres ne fait pas des Gaulois les seuls ancêtres légitimes."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration",
+    "patriotisme"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise",
+    "de droite"
+  ]
+}

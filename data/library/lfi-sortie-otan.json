@@ -1,0 +1,250 @@
+{
+  "id": "lfi-sortie-otan",
+  "type": "idee_recue",
+  "affirmation": "LFI veut sortir de l'OTAN, on serait sans défense.",
+  "volet": "politique",
+  "sous_theme": "France insoumise",
+  "rubriques": [],
+  "mots_cles": [
+    "lfi sortie otan",
+    "melenchon veut sortir de l otan",
+    "sans l otan on serait sans defense",
+    "commandement integre otan",
+    "article 5 otan",
+    "dissuasion nucleaire francaise",
+    "de gaulle otan 1966",
+    "avenir en commun otan",
+    "france insoumise defense",
+    "qui nous defendrait sans l otan"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "La première moitié est exacte, la seconde est trompeuse. Le programme de LFI prévoit bien de quitter « immédiatement » le commandement intégré de l'OTAN, puis l'organisation « par étapes ». Mais la France ne serait pas « sans défense » : elle a quitté le commandement intégré en 1966 sans cesser d'être défendue, elle dispose d'une dissuasion nucléaire qui ne dépend pas de l'OTAN (le président en est « l'unique décideur ») et d'un budget de défense de 66,7 milliards d'euros prévu pour 2026. En revanche, sortir du traité ferait perdre la garantie d'assistance de l'article 5 : c'est un vrai débat, pas un abandon de la défense.",
+  "contexte": "L'appartenance à l'OTAN revient dans le débat avec la guerre en Ukraine et les tensions avec les États-Unis de Donald Trump. LFI en fait un marqueur de sa politique d'indépendance ; ses adversaires l'accusent de vouloir désarmer la France. Le programme initial de Marine Le Pen en 2022 proposait lui aussi une sortie de l'OTAN.",
+  "explication": "On vérifie la position réelle de LFI, puis ce que l'OTAN apporte juridiquement à la France, et ce dont la France dispose par elle-même pour se défendre.",
+  "faits": [
+    {
+      "fait": "Selon son programme L'Avenir en commun (version mise à jour le 7 novembre 2026), LFI propose de « se retirer immédiatement du commandement intégré de l’OTAN », « puis, par étapes, de l’organisation elle-même », tout en affirmant que la France doit pouvoir « se défendre et porter secours à ses partenaires européens alliés ».",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La position de LFI est bien une sortie progressive de l'OTAN, pas un désarmement.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, lors de la présidentielle de 2022, Jean-Luc Mélenchon entendait déjà quitter immédiatement le commandement intégré puis l'organisation ; le programme initial de Marine Le Pen prévoyait lui aussi une sortie de l'OTAN « sans délai », avant qu'elle ne la repousse à la fin de la guerre en Ukraine.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La sortie de l'OTAN n'est pas une lubie propre à LFI : le RN l'a longtemps proposée.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'OTAN, la France a annoncé en mars 1966 son retrait du commandement militaire intégré et a fait partir les quartiers généraux alliés de son territoire, tout en restant « membre de l'Alliance ».",
+      "periode": "1966",
+      "perimetre": "France",
+      "explication": "La France a déjà vécu des décennies hors du commandement intégré sans être sans défense.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'article 5 du traité de l'Atlantique Nord, une attaque contre un allié est considérée comme une attaque contre tous, et chacun assiste l'allié attaqué par « telle action qu'elle jugera nécessaire, y compris l'emploi de la force armée » ; selon l'article 13, un État peut quitter le traité un an après l'avoir notifié.",
+      "periode": "1949",
+      "perimetre": "Alliance atlantique",
+      "explication": "Quitter l'OTAN ferait perdre cette garantie formelle d'assistance, même si chaque allié reste libre de choisir sa réponse.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministère des Armées, le président de la République est « l’unique décideur » de l'emploi des forces nucléaires, la dissuasion « ne fait l’objet d’aucun partage », et la France ne participe pas aux mécanismes de planification nucléaire de l'OTAN ; elle repose sur quatre sous-marins lanceurs d'engins et une composante aéroportée.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "L'arme ultime de la défense française ne dépend pas de l'OTAN.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "quatre SNLE"
+    },
+    {
+      "fait": "Selon la commission des finances du Sénat, les crédits de paiement de la mission « Défense » s'établiraient à 66,7 milliards d'euros en 2026, en hausse de 6,78 milliards (+ 11,3 %).",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La France entretient une armée complète et finance elle-même sa défense.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "66,7 milliards"
+    },
+    {
+      "fait": "Selon un rapport du Sénat de septembre 2026, les crédits de la dissuasion nucléaire atteignent 7,38 milliards d'euros en 2026, et environ 57 milliards sur les 436 de la loi de programmation militaire 2024-2030 lui seraient consacrés ; les sénateurs recommandent de « préserver une dissuasion nucléaire française indépendante ».",
+      "periode": "2024-2030",
+      "perimetre": "France",
+      "explication": "L'indépendance de la dissuasion est défendue par des sénateurs de droite comme de gauche.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "7,38 milliards"
+    }
+  ],
+  "argumentaires": {
+    "court": "LFI propose bien de quitter le commandement intégré de l'OTAN, puis l'organisation par étapes. Mais « sans défense », non : la France a quitté le commandement intégré en 1966, sa dissuasion nucléaire ne dépend que du président, et son budget de défense atteindrait 66,7 milliards d'euros en 2026. Ce qu'on perdrait, c'est la garantie d'assistance de l'article 5 : un vrai débat, pas un désarmement.",
+    "moyen": "Sur la position de LFI, c'est exact : son programme prévoit de « se retirer immédiatement du commandement intégré de l’OTAN », puis de l'organisation « par étapes ». Le programme initial de Marine Le Pen en 2022 prévoyait d'ailleurs lui aussi une sortie « sans délai ».\n\nMais la France ne serait pas sans défense. Elle a quitté le commandement intégré en 1966 tout en restant alliée. Sa dissuasion nucléaire ne fait l'objet « d'aucun partage » et la France ne participe pas à la planification nucléaire de l'OTAN, selon le ministère des Armées. Son budget de défense devrait atteindre 66,7 milliards d'euros en 2026, dont 7,38 milliards pour la dissuasion. Le vrai point de débat est l'article 5 : quitter le traité ferait perdre l'engagement d'assistance des alliés, que LFI propose de remplacer par la clause de défense mutuelle de l'Union européenne.",
+    "detaille": "Commençons par vérifier : LFI veut-elle sortir de l'OTAN ? Oui. Son programme L'Avenir en commun, mis à jour en novembre 2026, prévoit de « se retirer immédiatement du commandement intégré de l’OTAN », « puis, par étapes, de l’organisation elle-même ». Il refuse l'objectif de 5 % du PIB pour la défense, mais propose de renforcer les capacités souveraines (renseignement, cyber, spatial) et de créer un pôle public de l'armement. Ce n'est pas un programme de désarmement. Le programme initial de Marine Le Pen en 2022 prévoyait d'ailleurs lui aussi une sortie de l'OTAN « sans délai ».\n\nLa France serait-elle sans défense ? Non. Elle a quitté le commandement militaire intégré en 1966, en restant membre de l'Alliance, sans cesser d'être une puissance militaire. Selon le ministère des Armées, le président est « l'unique décideur » de l'emploi de l'arme nucléaire, qui « ne fait l’objet d’aucun partage », et la France ne participe pas à la planification nucléaire de l'OTAN. Selon le Sénat, la mission « Défense » disposerait de 66,7 milliards d'euros de crédits en 2026, et la dissuasion de 7,38 milliards.\n\nIl serait malhonnête de dire que la sortie n'aurait aucun coût. L'article 5 du traité engage chaque allié à assister un membre attaqué, par l'action qu'il juge nécessaire. En quittant le traité, ce qui prend un an selon l'article 13, la France perdrait cette garantie formelle et devrait s'appuyer sur ses propres forces et sur la clause d'assistance mutuelle de l'Union européenne, que LFI invoque dans son programme.\n\nLe débat est donc légitime : faut-il rester dans une alliance dominée par les États-Unis ou construire une défense indépendante et des coopérations européennes ? On peut être en désaccord avec LFI, mais affirmer qu'elle laisserait la France « sans défense » ignore la dissuasion nucléaire, l'armée française et l'histoire gaulliste de l'indépendance nationale.",
+    "empathie": "Avec la guerre en Ukraine, il est normal de s'inquiéter pour la sécurité du pays et de vouloir des alliés solides. La question mérite mieux qu'un slogan, dans un sens comme dans l'autre."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Sans les Américains, la Russie nous envahirait.",
+      "reponse": "La France possède une dissuasion nucléaire dont la décision d'emploi n'appartient qu'à son président, selon le ministère des Armées, et une armée financée à hauteur de 66,7 milliards d'euros prévus pour 2026."
+    },
+    {
+      "objection": "Hors du commandement de l'OTAN, la France serait isolée.",
+      "reponse": "Selon l'OTAN elle-même, la France a annoncé en 1966 son retrait du commandement militaire intégré tout en restant membre de l'Alliance, aux côtés des alliés en cas de conflit."
+    },
+    {
+      "objection": "C'est une idée d'extrême gauche.",
+      "reponse": "Le programme initial de Marine Le Pen en 2022 prévoyait aussi une sortie de l'OTAN « sans délai », selon Public Sénat."
+    }
+  ],
+  "questions": [
+    "Qui décide de l'emploi de l'arme nucléaire française : Washington, l'OTAN ou le président français ?",
+    "Préfères-tu une défense indépendante financée par la France, ou une protection qui dépend des choix d'un président américain ?"
+  ],
+  "limites": [
+    "Le programme de LFI est une source partisane, citée seulement pour établir sa position ; il ne précise ni calendrier ni conditions de la sortie « par étapes ».",
+    "L'article de Public Sénat n'est pas daté sur la page ; il date de la campagne de 2022 d'après son contenu.",
+    "Les capacités que la France obtient grâce à l'OTAN (renseignement, logistique, interopérabilité) n'ont pas été chiffrées par une source lue.",
+    "La clause d'assistance mutuelle de l'article 42-7 du traité sur l'Union européenne n'a pas été lue directement.",
+    "La date du retour de la France dans le commandement intégré n'a pas été vérifiée dans une source lue : la fiche n'en parle pas."
+  ],
+  "sources": [
+    {
+      "titre": "L'Avenir en commun — Chapitre 2 : Une France indépendante au service de la paix",
+      "organisme": "La France insoumise (programme, site de campagne melenchon2027.fr)",
+      "date_publication": "mis à jour le 7 novembre 2026",
+      "url": "https://melenchon2027.fr/?p=26664",
+      "passage": "Mesure clé : « Se retirer immédiatement du commandement intégré de l’OTAN », « puis, par étapes, de l’organisation elle-même ». La France doit pouvoir « se défendre et porter secours à ses partenaires européens alliés » sans dépendre des États-Unis, en invoquant l'article 42-7 du TUE ; priorité aux capacités de renseignement, communication, logistique, cyber, spatial ; création d'un « pôle public de l’armement » ; refus de l'objectif de 5 % du PIB pour la défense ; projection des forces « exclusivement dans le cadre d’un mandat de l’ONU ».",
+      "pertinence": "Programme partisan : cité uniquement pour établir la position de LFI.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Otan : les propositions des candidats à la présidentielle",
+      "organisme": "Public Sénat",
+      "date_publication": "non datée sur la page (campagne présidentielle de 2022, d’après son contenu)",
+      "url": "https://www.publicsenat.fr/actualites/politique/otan-les-propositions-des-candidats-a-la-presidentielle-200136",
+      "passage": "Jean-Luc Mélenchon « entend quitter immédiatement le commandement intégré puis, étape par étape, l'organisation dans son ensemble ». Marine Le Pen : « On ne va pas le faire alors qu'il y a une guerre dans un pays européen » ; son programme initial prévoyait une sortie de l'OTAN « sans délai ».",
+      "pertinence": "Média parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Traité de l'Atlantique Nord",
+      "organisme": "Organisation du traité de l’Atlantique Nord (OTAN), textes officiels",
+      "date_publication": "4 avril 1949",
+      "url": "https://www.nato.int/cps/fr/natolive/official_texts_17120.htm",
+      "passage": "Article 5 : « une attaque armée contre l'une ou plusieurs d'entre elles » « sera considérée comme une attaque dirigée contre toutes les parties » ; chacune « assistera la partie ou les parties ainsi attaquées en prenant aussitôt » « telle action qu'elle jugera nécessaire, y compris l'emploi de la force armée ». Article 13 : « toute partie pourra mettre fin au Traité en ce qui la concerne » « un an après avoir avisé de sa dénonciation le gouvernement des Etats-Unis d'Amérique ».",
+      "pertinence": "Texte du traité.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Brève histoire de l'OTAN",
+      "organisme": "Organisation du traité de l’Atlantique Nord (OTAN)",
+      "date_publication": "non datée, consultée le 19 novembre 2026",
+      "url": "https://www.nato.int/cps/fr/natohq/declassified_139339.htm",
+      "passage": "« En mars 1966 », la France « annonce son intention de se retirer de la structure du commandement militaire intégré » et demande le départ des quartiers généraux alliés de son territoire. « La France reste néanmoins membre de l'Alliance » et « réaffirme régulièrement son intention de se tenir aux côtés des Alliés en cas de conflit ».",
+      "pertinence": "Page historique officielle de l'OTAN.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'essentiel sur… le projet de loi de finances pour 2026, mission « Défense »",
+      "organisme": "Sénat, commission des finances (rapporteur spécial Dominique de Legge)",
+      "date_publication": "novembre 2025",
+      "url": "https://www.senat.fr/rap/l25-139-38/l25-139-38-syn.pdf",
+      "passage": "Les crédits de paiement « s’établiraient à 66,7 milliards d’euros », « soit une hausse de 6,78 milliards d’euros » (+ 11,3 %) ; « la dissuasion nucléaire (+ 487 millions d’euros) ».",
+      "pertinence": "Synthèse officielle d'un rapport budgétaire.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La dissuasion nucléaire française",
+      "organisme": "Ministère des Armées et des Anciens combattants (DICoD)",
+      "date_publication": "février 2026",
+      "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/La%20dissuasion%20nucl%C3%A9aire%20fran%C3%A7aise.pdf",
+      "passage": "« Le président de la République est l’unique décideur de la mise en œuvre des forces nucléaires » ; la dissuasion « ne fait l’objet d’aucun partage, en particulier dans le domaine de la décision d’emploi » ; « la France ne participe pas aux mécanismes de planification nucléaire » de l'OTAN. Composante océanique : « une escadrille de quatre SNLE de la classe « Le Triomphant » » ; composante aéroportée (Rafale, missile ASMPA-R). Elle a un « rôle dissuasif propre contribuant au renforcement global de la dissuasion de l’Alliance ».",
+      "pertinence": "Brochure officielle du ministère.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La « dissuasion avancée » : renforcer la défense de l'Europe dans le respect de l'indépendance nationale",
+      "organisme": "Sénat (Cédric Perrin, Pascal Allizard, Patrice Joly)",
+      "date_publication": "septembre 2026",
+      "url": "https://www.senat.fr/rap/r25-950/r25-950-syn.pdf",
+      "passage": "Recommandation n° 1 : « Préserver une dissuasion nucléaire française indépendante ». Les crédits de la dissuasion étaient de « 6,36 Mds€ en 2024, 6,89 Mds€ en 2025 et 7,38 Mds€ en 2026 » ; environ 57 Md€ sur les 436 Md€ de la loi de programmation militaire 2024-2030 lui seraient consacrés, selon les rapporteurs.",
+      "pertinence": "Synthèse officielle d'un rapport sénatorial.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Programmes de la présidentielle de 2027 et évolution du budget de la défense.",
+  "objections_legitimes": [
+    "LFI propose bien une sortie de l'OTAN, par étapes.",
+    "L'article 5 apporte une garantie d'assistance que la France perdrait en quittant le traité.",
+    "La guerre en Ukraine rend la question de la défense européenne très concrète."
+  ],
+  "publics": {
+    "convaincus": "C'est vrai, LFI veut sortir de l'OTAN, par étapes, et Marine Le Pen le proposait aussi en 2022. Mais la bombe atomique française ne dépend que du président français, pas de l'OTAN, et notre armée a un budget de près de 67 milliards d'euros. La France a quitté le commandement intégré en 1966 : elle n'était pas sans défense pour autant.",
+    "indecis": "La question est sérieuse : quitter l'OTAN ferait perdre la garantie d'assistance des alliés prévue par l'article 5. Mais la France garderait sa dissuasion nucléaire, indépendante, et une armée dotée de 66,7 milliards d'euros de crédits prévus pour 2026. Le vrai débat porte sur le type d'alliances qu'on veut, pas sur un désarmement."
+  },
+  "lecture": {
+    "valeurs": [
+      "paix",
+      "democratie",
+      "internationalisme"
+    ],
+    "mecanismes": "L’accusation de laisser la France sans défense assimile indépendance stratégique et désarmement, et efface la dissuasion nucléaire et l’armée française pour faire peur.",
+    "consequences": "Le débat sur nos alliances est réduit à un slogan, alors que la dépendance à l’égard des choix d’un président américain pose une vraie question de souveraineté et de sécurité.",
+    "democratie": "Les choix d’alliance militaire engagent la vie des citoyens : ils doivent être débattus publiquement et tranchés par le Parlement et les électeurs, pas présentés comme des tabous.",
+    "propositions": [
+      "Soumettre au Parlement un débat public sur la place de la France dans l’OTAN et sur les alternatives européennes.",
+      "Préserver une dissuasion nucléaire indépendante tout en relançant les processus multilatéraux de désarmement.",
+      "Construire des coopérations de défense européennes au service de la paix et du droit international."
+    ],
+    "defavorables": [
+      {
+        "fait": "Quitter le traité de l’Atlantique Nord ferait perdre à la France la garantie d’assistance prévue par l’article cinq.",
+        "integration": "C’est un vrai coût, qu’il faut assumer et compenser : la gauche propose de s’appuyer sur la défense nationale, la dissuasion et la solidarité européenne plutôt que sur la protection américaine."
+      }
+    ]
+  },
+  "concepts": [
+    "otan_sortie",
+    "melenchon_lfi",
+    "gauche",
+    "ecologie"
+  ],
+  "repond_a": [
+    {
+      "id": "otan_sortie_q1906",
+      "label": "Sortie de l'OTAN"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "sans l otan",
+    "commandement integre",
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise",
+    "nupes",
+    "nfp",
+    "gauche",
+    "gauchos",
+    "mitterrand"
+  ]
+}

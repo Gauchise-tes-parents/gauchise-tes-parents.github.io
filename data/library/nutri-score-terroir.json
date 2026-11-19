@@ -1,0 +1,224 @@
+{
+  "id": "nutri-score-terroir",
+  "type": "idee_recue",
+  "affirmation": "Le Nutri-score est une arnaque contre nos produits du terroir.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "nutri score arnaque",
+    "nutri score terroir",
+    "nutri score fromage",
+    "roquefort note e",
+    "nutri score charcuterie",
+    "nutri score aop",
+    "nutri score coca mieux que fromage",
+    "nutri score contre les paysans",
+    "nutri score lobby",
+    "nutri score bruxelles"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le Nutri-Score note la composition nutritionnelle pour 100 g (sel, graisses saturées, sucres, calories, fibres, protéines) : il ne juge ni le goût, ni le savoir-faire, ni l'origine. Les fromages et charcuteries, AOP ou non, sont riches en sel et en graisses saturées, d'où des notes D ou E, comme pour des produits industriels comparables. Il a été conçu par des chercheurs publics, validé par des dizaines d'études, et reste facultatif. La critique réelle porte sur le calcul pour 100 g, quand on mange une petite portion de fromage : elle a été portée par une ministre de l'Agriculture, sans empêcher l'adoption du nouvel algorithme en 2025.",
+  "contexte": "Les filières du roquefort et d'autres AOP ont demandé à être exemptées du Nutri-Score, et une ministre de l'Agriculture a bloqué un temps sa nouvelle version en 2025. L'argument est repris par la droite et l'extrême droite comme une défense du patrimoine contre une norme « technocratique ».",
+  "explication": "On explique ce que mesure le Nutri-Score, pourquoi les fromages et charcuteries sont mal notés, qui l'a conçu, et ce que valent les critiques réelles.",
+  "faits": [
+    {
+      "fait": "Selon Santé publique France, le Nutri-Score est appliqué en France depuis 2017 sur une base volontaire ; il a été développé à partir des travaux de l'équipe du Pr Serge Hercberg, avec l'expertise de l'Anses et du Haut Conseil de la santé publique, et il est adopté ou recommandé dans sept pays européens.",
+      "periode": "depuis 2017",
+      "perimetre": "France et Europe",
+      "explication": "C'est un outil de santé publique conçu par la recherche publique, et personne n'est obligé de l'afficher.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Santé publique France, le score est calculé pour 100 g ou 100 ml à partir des éléments à limiter (calories, graisses saturées, sucres, sel, édulcorants) et à favoriser (fibres, protéines, fruits, légumes, légumineuses).",
+      "periode": "en vigueur",
+      "perimetre": "France",
+      "explication": "Il compare la composition nutritionnelle, pas la qualité gustative ni l'origine : un fromage AOP reste un aliment gras et salé.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un communiqué de l'Inserm et de ses partenaires (septembre 2024), dans une cohorte de 345 533 Européens suivis douze ans, consommer davantage d'aliments moins bien classés par le Nutri-Score révisé est associé à un risque accru de maladies cardiovasculaires, notamment d'infarctus et d'AVC.",
+      "periode": "1992-2010",
+      "perimetre": "7 pays européens",
+      "explication": "Les mauvaises notes correspondent à un risque réel pour la santé quand ces aliments dominent l'alimentation.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "345 533"
+    },
+    {
+      "fait": "Selon Santé publique France, l'algorithme révisé en 2024 favorise la volaille par rapport à la viande rouge, les huiles riches en bonnes graisses, les produits complets, et pénalise davantage les boissons avec édulcorants : 30 à 40 % des produits changent de note.",
+      "periode": "2024",
+      "perimetre": "France et Europe",
+      "explication": "Le système est corrigé selon les connaissances scientifiques, y compris contre des produits industriels.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "30 à 40 %"
+    },
+    {
+      "fait": "Fait défavorable : selon UFC-Que Choisir (2021), sur 44 fromages AOP ou IGP français, un seul est classé C, les autres étant D ou E.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Les fromages de terroir sont effectivement presque tous mal notés : non par complot, mais parce qu'ils sont riches en sel et en graisses saturées.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "44 fromages"
+    },
+    {
+      "fait": "Fait défavorable : selon l'AFP, la ministre de l'Agriculture Annie Genevard a bloqué un temps l'arrêté du nouveau Nutri-Score, reprochant de mal noter fromages et charcuteries alors qu'on en consomme de petites portions ; l'arrêté a finalement été signé en mars 2025 avec une « demande d'amélioration continue ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le calcul pour 100 g plutôt que par portion est une critique réelle, portée au sommet de l'État ; elle n'a pas empêché l'adoption du nouvel algorithme.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Le Quotidien du médecin, plus de 600 médecins et scientifiques ont dénoncé dans une tribune les tentatives des filières du fromage et de la charcuterie et de multinationales pour affaiblir le Nutri-Score, rappelant que sa méthode a fait l'objet de plus de 40 études publiées et que ces produits peuvent être consommés en petites quantités.",
+      "periode": "vers 2022",
+      "perimetre": "France",
+      "explication": "La santé publique ne demande pas d'interdire le fromage, mais d'informer honnêtement.",
+      "source": 5,
+      "fiabilite": "interpretation",
+      "chiffre": "600"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Le Nutri-Score mesure le sel, les graisses saturées, le sucre et les calories pour 100 g : un roquefort AOP est gras et salé, comme un fromage industriel. Il a été conçu par des chercheurs publics, validé par des dizaines d'études, et reste facultatif. Une note D ou E ne dit pas « mauvais produit », elle dit « à manger en petite quantité ».",
+    "moyen": "Le Nutri-Score, appliqué depuis 2017, note la composition nutritionnelle pour 100 g : calories, graisses saturées, sucres et sel d'un côté, fibres, protéines, fruits et légumes de l'autre. Il ne juge ni le goût, ni le savoir-faire, ni l'origine. Les fromages et charcuteries, AOP ou non, sont riches en sel et en graisses saturées : selon Que Choisir, 43 fromages AOP ou IGP sur 44 sont classés D ou E.\n\nCe n'est pas une arnaque : le logo a été conçu par des chercheurs publics, il est facultatif, et une étude sur 345 533 Européens associe la consommation d'aliments mal notés à plus de maladies cardiovasculaires. La critique réelle, c'est le calcul pour 100 g alors qu'on mange 30 g de fromage : la ministre de l'Agriculture l'a portée en 2025, mais le nouvel algorithme a bien été adopté.",
+    "detaille": "Le Nutri-Score est un logo à cinq lettres, appliqué en France depuis 2017 sur une base volontaire. Selon Santé publique France, il a été développé à partir des travaux de l'équipe de recherche publique du Pr Serge Hercberg, avec l'Anses et le Haut Conseil de la santé publique, et il est adopté ou recommandé dans sept pays européens. Il calcule, pour 100 g, un équilibre entre ce qu'il faut limiter (calories, graisses saturées, sucres, sel) et ce qu'il faut favoriser (fibres, protéines, fruits, légumes).\n\nLes fromages et charcuteries sont mal notés parce qu'ils sont gras et salés, quelle que soit leur origine. Selon Que Choisir, sur 44 fromages AOP ou IGP français, un seul est classé C. Le label AOP garantit un terroir et une recette, pas une composition nutritionnelle. Le Nutri-Score n'interdit rien : comme le rappellent plus de 600 médecins et scientifiques, ces produits peuvent être consommés en petites quantités.\n\nLe système est validé et corrigé. Selon l'Inserm et ses partenaires, sur 345 533 Européens suivis douze ans, consommer davantage d'aliments mal classés est associé à plus d'infarctus et d'AVC. L'algorithme révisé en 2024 favorise la volaille, les bonnes huiles et les produits complets, et pénalise davantage les sodas aux édulcorants : 30 à 40 % des produits changent de note, y compris des produits industriels.\n\nLa critique la plus sérieuse porte sur le calcul pour 100 g, alors qu'une portion de fromage pèse environ 30 g. La ministre de l'Agriculture l'a portée en 2025, au point de bloquer un temps l'arrêté, finalement signé avec une demande d'« amélioration continue ». Mais derrière la défense du terroir, plus de 600 médecins et scientifiques voient aussi la main de multinationales et de filières qui défendent leurs intérêts économiques. Informer tous les consommateurs de la même façon, ce n'est pas attaquer les paysans.",
+    "empathie": "Voir le fromage de sa région noté E à côté d'un produit industriel mieux classé peut être vécu comme une insulte à un savoir-faire et à un patrimoine. Cet attachement est légitime."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Un soda light est mieux noté qu'un roquefort, c'est ridicule.",
+      "reponse": "Depuis la révision de 2024, les boissons avec édulcorants passent de B à C, D ou E, selon Santé publique France : le système corrige aussi les notes de produits industriels."
+    },
+    {
+      "objection": "C'est Bruxelles qui veut tuer nos fromages.",
+      "reponse": "Le Nutri-Score a été conçu par des chercheurs publics français, avec l'Anses et le Haut Conseil de la santé publique, et il reste facultatif : aucune règle européenne ne l'impose."
+    },
+    {
+      "objection": "Nos grands-parents mangeaient du fromage et ils allaient très bien.",
+      "reponse": "Personne ne demande d'arrêter : le message est d'en manger en petites quantités. Les études montrent un risque quand ces aliments dominent l'alimentation."
+    }
+  ],
+  "questions": [
+    "Est-ce qu'une note E t'empêche d'acheter ton fromage, ou est-ce qu'elle t'informe juste qu'il est gras et salé ?",
+    "Qui profite le plus de l'absence d'étiquetage clair : les petits producteurs ou les géants de l'agroalimentaire ?"
+  ],
+  "limites": [
+    "Les pages de Santé publique France ont été lues dans leur version anglaise, à travers un outil de lecture qui résume.",
+    "L'article de Que Choisir (2021) n'a été lu que partiellement (réservé aux abonnés) et porte sur l'ancien algorithme.",
+    "La tribune rapportée par Le Quotidien du médecin n'est pas datée sur la page lue.",
+    "L'arrêté de 2025 lui-même et la page du ministère de l'Agriculture n'ont pas pu être ouverts ; la position de la Commission européenne n'a été lue qu'à travers des articles de presse et n'est pas citée ici."
+  ],
+  "sources": [
+    {
+      "titre": "Nutri-Score",
+      "organisme": "Santé publique France",
+      "date_publication": "mise à jour du 6 novembre 2025",
+      "url": "https://www.santepubliquefrance.fr/en/Nutri-Score",
+      "passage": "Le Nutri-Score a été « first implemented in France in 2017 » ; c'est un logo que les producteurs peuvent apposer « on a voluntary basis ». Il a été développé à partir des travaux de l'équipe du Pr Serge Hercberg, avec l'expertise de l'Anses et du Haut Conseil de la santé publique. Le calcul, pour 100 g ou 100 ml, prend en compte des éléments à favoriser (fibres, protéines, fruits, légumes, légumineuses) et à limiter (calories, graisses saturées, sucres, sel, édulcorants). Adopté ou recommandé en France, Belgique, Suisse, Allemagne, Espagne, Pays-Bas et Luxembourg.",
+      "pertinence": "Page officielle de l'agence nationale de santé publique (version anglaise).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nutri-Score update: changes in 2024",
+      "organisme": "Santé publique France",
+      "date_publication": "18 janvier 2024",
+      "url": "https://invs.santepubliquefrance.fr/en/les-actualites/nutri-score-update-changes-2024",
+      "passage": "La méthode de calcul est révisée : la volaille sera mieux notée que la viande rouge ; les huiles riches en bonnes graisses et certains poissons gras seront mieux classés ; les produits complets mieux que les raffinés ; les boissons light avec édulcorants passent de B à C, D ou E. 30 à 40 % des produits verront leur note changer ; la composition des produits ne change pas. Les fabricants disposent de deux ans pour adapter leurs emballages ; 1 359 marques engagées en France début 2024.",
+      "pertinence": "Actualité officielle (version anglaise).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Consommation d'aliments moins bien classés au moyen du Nutri-Score et risque cardiovasculaire (communiqué de presse)",
+      "organisme": "Inserm, INRAE, Cnam, Université Sorbonne Paris Nord, Université Paris Cité (équipe CRESS-EREN)",
+      "date_publication": "11 septembre 2024",
+      "url": "https://univ-spn.fr/wp-content/uploads/CP_20240911_Deschasaux_Nutri-Score_Vdef.pdf",
+      "passage": "Étude publiée dans The Lancet Regional Health – Europe sur la cohorte européenne EPIC : 345 533 participants dans 7 pays, suivis 12 ans ; 16 214 ont développé une maladie cardiovasculaire. Une consommation plus élevée d'aliments moins bien notés selon l'algorithme révisé est associée à un risque accru de maladies cardiovasculaires, notamment d'infarctus et d'AVC. Les résultats « confirment la pertinence du Nutri-Score en tant qu'outil de santé publique ». L'apposition reste « optionnelle ».",
+      "pertinence": "Communiqué des organismes de recherche publics à l'origine de l'étude.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le nouveau Nutri-Score validé, après des dissensions gouvernementales",
+      "organisme": "VIDAL (dépêche AFP)",
+      "date_publication": "14 mars 2025",
+      "url": "https://www.vidal.fr/actualites/31666-le-nouveau-nutri-score-valide-apres-des-dissensions-gouvernementales.html",
+      "passage": "La ministre de l'Agriculture Annie Genevard avait bloqué la publication de l'arrêté, reprochant au Nutri-Score de mal noter des produits du terroir comme les fromages et la charcuterie, évoquant un fromage classé E alors qu'une consommation normale serait « aux alentours de 30 grammes ». Quatre ministres annoncent finalement la signature ; Annie Genevard : « Oui au Nutri-score, mais avec une demande d'amélioration continue du dispositif ». Le Nutri-Score reste une « démarche volontaire » ; Serge Hercberg : « C'est une victoire de la santé publique ».",
+      "pertinence": "Dépêche AFP reprise par un site d'information médicale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décryptage : Nutri-Score inadapté pour les fromages AOP, vraiment ?",
+      "organisme": "UFC-Que Choisir",
+      "date_publication": "18 novembre 2021",
+      "url": "https://www.quechoisir.org/decryptage-nutri-score-inadapte-pour-les-fromages-aop-vraiment-n96292",
+      "passage": "La Confédération générale du roquefort demande à être exemptée, soutenue par les AOP et IGP fromagères (« Notre logo AOP est gage de qualité »). L'article juge leurs arguments « presque toujours fallacieux » ; sur 44 fromages AOP ou IGP français, un seul, la brousse du Rove, est classé C, les autres étant D ou E.",
+      "pertinence": "Association de consommateurs ; article en partie réservé aux abonnés, lu partiellement.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nutri-Score : plus de 600 médecins et scientifiques signent une tribune pour dénoncer les attaques des lobbies",
+      "organisme": "Le Quotidien du médecin",
+      "date_publication": "non datée (vers fin 2022 selon le contexte)",
+      "url": "https://www.lequotidiendumedecin.fr/actus-medicales/sante-publique/nutri-score-plus-de-600-medecins-et-scientifiques-signent-une-tribune-pour-denoncer-les-attaques-des",
+      "passage": "Plus de 600 médecins et scientifiques dénoncent les tentatives de « détricotage » du Nutri-Score par les filières du fromage et de la charcuterie, des multinationales et leurs relais politiques. La méthode a fait l'objet de plus de 40 études publiées dans des revues à comité de lecture. Les fromages et charcuteries, riches en graisses saturées, en sel et en calories, le restent sous label AOP ou IGP, et peuvent être consommés en petites quantités et pas trop souvent ; le Nutri-Score ne pénalise guère certains produits industriels.",
+      "pertinence": "Presse médicale professionnelle.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Application du nouvel algorithme (délai de deux ans pour les emballages) et éventuelle initiative européenne sur l'étiquetage nutritionnel.",
+  "objections_legitimes": [
+    "Le calcul pour 100 g ne tient pas compte des petites portions habituelles de fromage ou de charcuterie.",
+    "Le Nutri-Score ne dit rien de la qualité des ingrédients, du goût ou du mode de production.",
+    "Des produits industriels peuvent obtenir de meilleures notes que des produits traditionnels, ce qui peut sembler absurde."
+  ],
+  "publics": {
+    "convaincus": "Personne ne s'attaque à ton fromage : le Nutri-Score dit juste qu'il est gras et salé, ce qui est vrai pour un roquefort comme pour un fromage industriel. Il a été conçu par des chercheurs publics, et tu restes libre d'acheter ce que tu veux. Ceux qui se battent le plus contre l'étiquetage, ce sont souvent les grands groupes de l'agroalimentaire, pas les petits producteurs.",
+    "indecis": "Ton attachement aux produits de terroir se comprend, et la critique sur les portions est réelle : on ne mange pas 100 g de fromage d'un coup. Mais le Nutri-Score n'est pas un jugement sur la qualité, c'est une information sur le sel, le gras et le sucre, conçue par la recherche publique et validée par de nombreuses études."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "egalite",
+      "vulnerables"
+    ],
+    "mecanismes": "L’attachement au terroir est mobilisé pour défendre des intérêts économiques : en faisant d’une information nutritionnelle une attaque contre le patrimoine, filières et industriels évitent un étiquetage qui les gêne.",
+    "consequences": "Sans information simple, ce sont les ménages qui ont le moins de temps et de moyens pour s’informer qui sont les plus exposés aux maladies cardiovasculaires et au diabète liés à l’alimentation.",
+    "democratie": "Un outil conçu par la recherche publique, contre l’avis de lobbies puissants, montre que l’intérêt général peut primer ; son caractère facultatif montre aussi le poids de ces intérêts privés.",
+    "propositions": [
+      "Rendre le Nutri-Score obligatoire en France et en Europe, pour tous les produits emballés.",
+      "Accompagner les petits producteurs et les filières de qualité plutôt que de les opposer à la santé publique.",
+      "Renforcer la recherche publique en nutrition, indépendante des industriels."
+    ],
+    "defavorables": [
+      {
+        "fait": "Presque tous les fromages AOP sont classés D ou E, et le calcul pour cent grammes ne tient pas compte des petites portions.",
+        "integration": "Reconnaître cette limite, puis rappeler que la note décrit le sel et le gras, pas la qualité du produit, et qu’elle invite à la modération, pas à l’interdiction."
+      }
+    ]
+  },
+  "concepts": [
+    "europe",
+    "ecologie"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "bruxelles",
+    "union europeenne",
+    "nucleaire"
+  ]
+}

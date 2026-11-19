@@ -1,0 +1,264 @@
+{
+  "id": "harcelement-de-rue-invention",
+  "type": "idee_recue",
+  "affirmation": "Le harcèlement de rue est une invention des féministes.",
+  "volet": "droits",
+  "sous_theme": "Violences faites aux femmes",
+  "rubriques": [],
+  "mots_cles": [
+    "harcelement de rue invention",
+    "harcelement de rue n existe pas",
+    "on ne peut plus draguer",
+    "les feministes exagerent",
+    "outrage sexiste",
+    "harcelement dans les transports",
+    "siffler une femme",
+    "drague lourde",
+    "neo feministes harcelement",
+    "loi schiappa harcelement de rue"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Le harcèlement dans l'espace public est mesuré par la statistique publique, pas seulement dénoncé par des militantes. Selon l'enquête Virage de l'Ined, un quart des femmes ont subi au moins un fait de violence dans l'espace public en un an, le plus souvent des sifflements ou interpellations « de drague » non désirés. Depuis la loi de 2018, police et gendarmerie enregistrent ces faits : environ 3 900 en 2025 selon le SSMSI, avec 90 % de victimes femmes et des auteurs presque toujours des hommes. Certains chiffres militants circulent sans méthode solide, mais le phénomène, lui, est établi.",
+  "contexte": "L'expression « harcèlement de rue » s'est diffusée dans les années 2010 grâce à des associations féministes et des témoignages en ligne, puis la loi du 3 août 2018 a créé l'outrage sexiste. Une partie de la droite et de l'extrême droite y voit une invention qui criminaliserait la drague, tout en accusant parfois les seuls immigrés d'en être les auteurs.",
+  "explication": "On s'appuie sur les enquêtes de victimation (qui interrogent directement la population), sur les infractions enregistrées par la police et la gendarmerie, et on examine honnêtement les chiffres militants les plus fragiles.",
+  "faits": [
+    {
+      "fait": "Selon l'Ined (enquête Virage, 2015), environ un quart des femmes ont subi au moins un fait de violence dans l'espace public au cours des douze derniers mois ; pour 100 femmes, 20 ont été sifflées ou interpellées sous prétexte de drague, 8 insultées et 3 suivies.",
+      "periode": "2015",
+      "perimetre": "France métropolitaine",
+      "explication": "C'est une enquête scientifique représentative, menée par un institut public : le phénomène est mesuré, pas inventé.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "25 %"
+    },
+    {
+      "fait": "Selon la synthèse de l'enquête Virage publiée par le Centre Hubertine Auclert et l'Ined, 37 % des Franciliennes et 68 % des Franciliennes de 20 à 25 ans ont subi au moins un fait de violence dans l'espace public en un an ; seuls 3 % des Franciliens ont subi de la drague importune, contre 29 % des Franciliennes.",
+      "periode": "2015",
+      "perimetre": "Île-de-France",
+      "explication": "Ce harcèlement vise d'abord les jeunes femmes, et presque pas les hommes : c'est bien une violence liée au sexe.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "68 %"
+    },
+    {
+      "fait": "Selon le SSMSI, environ 90 % des victimes d'outrages sexistes enregistrés en 2018-2020 étaient des femmes, et 93 % des personnes mises en cause étaient des hommes majeurs ; les faits se produisaient surtout sur la voie publique ou dans les transports.",
+      "periode": "2018-2020",
+      "perimetre": "France",
+      "explication": "Les données de la police confirment le profil décrit par les enquêtes.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "90 %"
+    },
+    {
+      "fait": "Selon le SSMSI, cité par Maire-info, police et gendarmerie ont enregistré environ 3 900 infractions d'outrage sexiste ou sexuel en 2025, en hausse de 17 % sur un an ; 90 % des victimes sont des femmes, et ce chiffre sous-estime la réalité faute de plaintes.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Des milliers de faits sont constatés chaque année malgré un taux de plainte très faible.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "3 900"
+    },
+    {
+      "fait": "Selon l'Inspection générale de la police nationale (2021), la loi du 3 août 2018 a créé l'outrage sexiste, qui « comble un vide juridique » ; l'enquête Cadre de vie et sécurité de 2017 indique qu'une victime de violences sexistes et sexuelles sur dix seulement porte plainte.",
+      "periode": "2017-2021",
+      "perimetre": "France",
+      "explication": "Les chiffres enregistrés ne sont que la partie visible : la plupart des victimes ne portent pas plainte.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Dalloz Actualité, depuis le 1er avril 2023, l'outrage sexiste et sexuel simple est une contravention de 5e classe, et sa forme aggravée est devenue un délit avec la loi du 24 janvier 2023.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Le législateur, sous des majorités de droite et du centre, a reconnu et durci la répression de ces comportements.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon le Haut Conseil à l'égalité (2015), le chiffre souvent repris de « 100 % des utilisatrices des transports » victimes de harcèlement provient de consultations auprès d'environ 600 participantes, qui ne constituent pas un échantillon représentatif.",
+      "periode": "2015",
+      "perimetre": "France",
+      "explication": "Ce chiffre ne doit pas être présenté comme une mesure statistique ; les enquêtes représentatives donnent des ordres de grandeur plus bas, mais déjà très élevés.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "100 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Ce n'est pas une impression militante : selon l'enquête Virage de l'Ined, un quart des femmes subissent au moins un fait de violence dans l'espace public en un an, surtout des sifflements et interpellations non désirés. Depuis 2018, la loi punit l'outrage sexiste ; en 2025, environ 3 900 faits ont été enregistrés, avec 90 % de victimes femmes, alors que très peu de victimes portent plainte.",
+    "moyen": "Le harcèlement de rue est mesuré par des enquêtes scientifiques. Selon l'enquête Virage de l'Ined, un quart des femmes ont subi au moins un fait de violence dans l'espace public dans l'année : sifflements et interpellations sous prétexte de drague pour 20 femmes sur 100, insultes pour 8, filatures pour 3. En Île-de-France, c'est le cas de 68 % des femmes de 20 à 25 ans, contre très peu d'hommes.\n\nLa police et la gendarmerie le constatent aussi. Depuis la loi de 2018, l'outrage sexiste est une infraction : environ 3 900 faits ont été enregistrés en 2025, selon le SSMSI, avec 90 % de victimes femmes et des mis en cause presque toujours des hommes. Et ce n'est qu'une petite partie, puisqu'une victime sur dix seulement porte plainte. Certains chiffres militants, comme « 100 % des usagères », reposent sur des témoignages non représentatifs : mais les enquêtes sérieuses confirment l'ampleur du phénomène.",
+    "detaille": "Pour savoir si un phénomène existe, la statistique publique interroge directement la population. L'enquête Virage, menée en 2015 par l'Institut national d'études démographiques, montre qu'environ un quart des femmes ont subi au moins un fait de violence dans l'espace public au cours des douze derniers mois. Les faits les plus fréquents sont les sifflements et interpellations sous prétexte de drague (20 femmes sur 100), les insultes (8 sur 100) et le fait d'être suivie (3 sur 100). Au cours de leur vie, 7,9 % des femmes ont subi une agression sexuelle dans l'espace public. En Île-de-France, 68 % des femmes de 20 à 25 ans déclarent au moins un fait dans l'année, alors que seuls 3 % des hommes franciliens subissent de la drague importune.\n\nLes données de police vont dans le même sens. La loi du 3 août 2018 a créé l'outrage sexiste, qui « comble un vide juridique » selon l'Inspection générale de la police nationale. Selon le SSMSI, environ 90 % des victimes sont des femmes, 93 % des mis en cause sont des hommes majeurs, et les faits se produisent surtout dans la rue et les transports. En 2025, environ 3 900 infractions ont été enregistrées, en hausse de 17 %. C'est très peu au regard des enquêtes, car une victime sur dix seulement porte plainte et l'auteur est rarement identifié. Depuis 2023, la forme aggravée est un délit.\n\nIl faut être honnête sur un point : certains chiffres qui circulent, comme « 100 % des usagères des transports », viennent de consultations militantes non représentatives, comme le précise le Haut Conseil à l'égalité lui-même. Ils ne sont pas nécessaires : les enquêtes sérieuses suffisent à établir l'ampleur du problème.\n\nLe harcèlement de rue n'a donc rien d'une invention. Il restreint la liberté de circuler des femmes, surtout des plus jeunes. Le combattre, c'est défendre l'égalité et la liberté de toutes, quelle que soit l'origine des auteurs, sans en faire un prétexte pour stigmatiser une population.",
+    "empathie": "Beaucoup d'hommes se demandent sincèrement où passe la limite entre aborder quelqu'un et le harceler, et craignent d'être accusés à tort. Cette inquiétude mérite une réponse claire plutôt que du mépris."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On ne peut plus draguer.",
+      "reponse": "La loi ne vise pas le fait d'aborder poliment quelqu'un, mais le fait d'imposer à une personne un propos ou un comportement à connotation sexuelle ou sexiste. Les enquêtes de l'Ined montrent qu'il s'agit surtout de sifflements, d'insultes et de filatures."
+    },
+    {
+      "objection": "Ce sont les féministes qui gonflent les chiffres.",
+      "reponse": "Les chiffres viennent de l'Ined, institut public, et du SSMSI, service statistique du ministère de l'Intérieur. Le chiffre fragile de « 100 % » est connu comme non représentatif, mais les enquêtes sérieuses trouvent déjà un quart des femmes concernées chaque année."
+    },
+    {
+      "objection": "De toute façon, c'est la faute des immigrés.",
+      "reponse": "Les données disponibles décrivent des auteurs presque toujours masculins, surtout dans les grandes villes et les transports ; aucune des sources lues ne réduit ce phénomène à une origine. Lutter contre le harcèlement, c'est sanctionner tous les harceleurs."
+    }
+  ],
+  "questions": [
+    "As-tu demandé aux femmes de ton entourage si elles avaient déjà été suivies ou interpellées dans la rue ?",
+    "Accepterais-tu que ta fille ou ta sœur soit sifflée et suivie en rentrant chez elle ?"
+  ],
+  "limites": [
+    "L'enquête Virage date de 2015 ; aucune enquête de victimation plus récente sur l'espace public n'a pu être lue en entier.",
+    "Les chiffres de 2025 viennent d'un article de Maire-info citant le SSMSI : la publication du SSMSI n'a pas pu être ouverte (site du ministère inaccessible).",
+    "Le communiqué de l'Ined et plusieurs documents longs ont été lus à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "Les données de police dépendent fortement du dépôt de plainte et de la verbalisation : leur hausse peut refléter une meilleure prise en compte autant qu'une hausse des faits."
+  ],
+  "sources": [
+    {
+      "titre": "Les violences dans les espaces publics touchent surtout les jeunes femmes des grandes villes (Population et Sociétés n° 550)",
+      "organisme": "Ined",
+      "date_publication": "5 décembre 2017",
+      "url": "https://ined.fr/en/news/press/violences-public-spaces",
+      "passage": "Enquête Virage (2015) : environ un quart des femmes (25 %) déclarent au moins un fait de violence dans l'espace public au cours des douze derniers mois. Pour 100 femmes : 20 ont été sifflées ou interpellées sous prétexte de drague, 8 insultées, 3 suivies, 2 pelotées ou embrassées de force. Au cours de la vie, 7,9 % des femmes et 2,2 % des hommes ont subi une agression sexuelle dans l'espace public.",
+      "pertinence": "Communiqué de l'Institut national d'études démographiques (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Violences faites aux femmes dans les espaces publics en Île-de-France (synthèse de l'enquête Virage)",
+      "organisme": "Centre Hubertine Auclert et Ined (A. Lebugle, A. Latourès)",
+      "date_publication": "mars 2018",
+      "url": "https://virage.site.ined.fr/sites/default/files/imported_images/cha_._synthese_virage.web2.fr.pdf",
+      "passage": "« Plus d'une Francilienne sur 3 (37 %) » a subi au moins un fait de violence dans l'espace public au cours des douze derniers mois (25 % en France métropolitaine), soit « près d'un million et demi de femmes âgées de 20 à 69 ans » en Île-de-France ; 29 % ont subi de la drague importune (20 % en France). Côté hommes : 18 % des Franciliens et 14 % des hommes en France ont subi au moins un fait, mais seulement 3 % de la drague importune. 68 % des Franciliennes de 20 à 25 ans déclarent au moins un fait.",
+      "pertinence": "Synthèse publiée par l'observatoire régional des violences faites aux femmes, à partir de l'enquête de l'Ined.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Deux ans d'outrages sexistes enregistrés par les services de sécurité (Interstats Info rapide n° 16)",
+      "organisme": "SSMSI (ministère de l’Intérieur)",
+      "date_publication": "novembre 2020",
+      "url": "https://centre-hubertine-auclert.fr/sites/default/files/medias/egalitheque/documents/ir16-outrages-sexistes-enregistres-par-les-services-de-securite-2020.pdf",
+      "passage": "742 infractions d'outrage sexiste enregistrées du 3 août 2018 au 31 juillet 2019, puis 1 004 du 1er août 2019 au 31 juillet 2020 (données provisoires). Environ 90 % des victimes sont des femmes ; les 18-30 ans représentent 46 % des victimes ; une personne est mise en cause dans environ 15 % des cas, dont 93 % d'hommes majeurs ; dans la majorité des cas, « le lieu des faits se situait sur la voie publique ou dans les transports ».",
+      "pertinence": "Publication du service statistique ministériel, hébergée par le Centre Hubertine Auclert.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mission sur la mise en œuvre de la verbalisation du harcèlement de rue",
+      "organisme": "Inspection générale de la police nationale (ministère de l’Intérieur)",
+      "date_publication": "avril 2021",
+      "url": "https://interieur.gouv.fr/content/download/134137/1062778/file/Rapport-Outrages-sexistes.pdf",
+      "passage": "Du 3 août 2018 au 31 décembre 2020, 2 530 outrages sexistes enregistrés ; « Les victimes sont majoritairement des femmes (90 %) » ; « Les personnes mises en cause sont majoritairement des hommes majeurs (93 %) » ; « Les auteurs ne sont identifiés que dans 15 % des cas » ; faits surtout commis sur la voie publique ou dans les transports. La loi du 3 août 2018 a créé l'infraction, qui « comble un vide juridique ». L'enquête Cadre de vie et sécurité de 2017 indique qu'une victime de violences sexistes et sexuelles sur dix porte plainte.",
+      "pertinence": "Rapport d'inspection officiel (long, lu en partie).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Une augmentation de 17 % des infractions pour outrage sexiste et sexuel constatée en 2025",
+      "organisme": "Maire-info (citant le SSMSI)",
+      "date_publication": "23 avril 2026",
+      "url": "https://www.maire-info.com/une-augmentation-de-17--des-infractions-pour-outrage-sexiste-et-sexuel-constatee-en-2025-article2-30723",
+      "passage": "Selon le SSMSI, police et gendarmerie ont enregistré « 3 900 infractions pour outrage sexiste ou sexuel » en 2025, en hausse de 17 %, avec une croissance moyenne de 27 % par an de 2019 à 2025 ; ce chiffre sous-estime la réalité faute de plaintes. 90 % des victimes sont des femmes ; pour les contraventions, les 18-29 ans représentent 41 % des victimes ; pour les délits, les moins de 18 ans 36 %. Environ 6 faits pour 100 000 habitants en moyenne, 8,5 dans l'agglomération parisienne et 3,2 en zone rurale ; 14 % des faits enregistrés par la police nationale ont lieu dans les transports en commun.",
+      "pertinence": "Quotidien d'information des élus locaux, citant la dernière publication du SSMSI (non ouverte directement).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décret n° 2023-227 du 30 mars 2023 relatif à la contravention d'outrage sexiste et sexuel",
+      "organisme": "Dalloz Actualité",
+      "date_publication": "mars 2023",
+      "url": "https://www.dalloz-actualite.fr/document/decr-n-2023-227-30-mars-2023-jo-30-mars",
+      "passage": "À compter du 1er avril 2023, l'outrage sexiste et sexuel simple devient une contravention de 5e classe (article R. 625-8-3 du code pénal), avec amende forfaitaire minorée de 150 euros ; la loi n° 2023-22 du 24 janvier 2023 transforme l'outrage aggravé en délit (article 222-33-1-1 du code pénal).",
+      "pertinence": "Publication juridique spécialisée reproduisant la notice d'un décret.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Avis sur le harcèlement sexiste et les violences sexuelles dans les transports en commun (avis n° 2015-04-16-VIO-16)",
+      "organisme": "Haut Conseil à l’égalité entre les femmes et les hommes (publié par Vie publique)",
+      "date_publication": "16 avril 2015",
+      "url": "https://www.vie-publique.fr/sites/default/files/rapport/pdf/154000261.pdf",
+      "passage": "« 100 % des utilisatrices des transports en commun ont été victimes au moins une fois dans leur vie » de harcèlement sexiste ou d'agressions sexuelles, et « dans plus de 50 % des cas, la 1re agression intervient avant 18 ans » : chiffres issus de consultations de mars 2015 auprès d'environ 600 participantes, qui ne constituent pas un échantillon représentatif. L'avis demande une enquête nationale de victimation. Une étude de l'ONDT (2015) indique qu'environ deux tiers des victimes d'injures dans les transports sont des femmes.",
+      "pertinence": "Avis d'une instance consultative officielle (long document, lu en partie).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Bilan annuel du SSMSI sur les outrages sexistes et sexuels et éventuelle nouvelle enquête de victimation.",
+  "objections_legitimes": [
+    "La frontière entre une approche courtoise et du harcèlement peut sembler floue pour certains.",
+    "Certains chiffres militants circulent sans méthode solide.",
+    "Les données enregistrées par la police restent faibles et ne donnent qu'une image partielle."
+  ],
+  "publics": {
+    "convaincus": "Ce n'est pas une affaire de militantes : c'est l'Ined, un institut public, qui a mesuré qu'un quart des femmes sont harcelées dans l'espace public chaque année, et la police qui enregistre des milliers de faits, avec presque toujours des hommes mis en cause. Tu as raison de te méfier de certains chiffres militants, mais les enquêtes sérieuses suffisent. Demande aux femmes autour de toi.",
+    "indecis": "Tu as raison de vouloir des chiffres fiables. Selon l'enquête Virage de l'Ined, un quart des femmes ont subi un fait de harcèlement ou de violence dans l'espace public en un an, et deux tiers des jeunes Franciliennes. La loi ne punit pas la drague polie, mais les comportements qui intimident ou humilient."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "dignite",
+      "libertes"
+    ],
+    "mecanismes": "Nier le harcèlement de rue en l’attribuant à des militantes permet d’écarter des enquêtes scientifiques et des données policières, et de présenter la défense des femmes comme une attaque contre la liberté des hommes.",
+    "consequences": "Ce déni laisse les jeunes femmes seules face à des comportements qui restreignent leur liberté de circuler, surtout le soir et dans les transports, et décourage les plaintes déjà très rares.",
+    "democratie": "L’égalité réelle suppose que chacune puisse occuper l’espace public sans crainte ; la loi votée par le Parlement a reconnu ces atteintes à la dignité.",
+    "propositions": [
+      "Mener régulièrement une grande enquête nationale de victimation sur les violences dans l’espace public.",
+      "Renforcer la présence humaine dans les transports et faciliter le signalement des faits.",
+      "Développer l’éducation à l’égalité et au consentement dès l’école."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le chiffre souvent repris selon lequel toutes les usagères des transports auraient été harcelées vient de consultations non représentatives.",
+        "integration": "Il faut le reconnaître et ne pas l’utiliser comme une statistique : les enquêtes représentatives de l’Ined suffisent à montrer qu’une femme sur quatre est concernée chaque année."
+      }
+    ]
+  },
+  "concepts": [
+    "harcelement_rue",
+    "delinquance",
+    "femmes",
+    "feminisme",
+    "femmes_sortir"
+  ],
+  "repond_a": [
+    {
+      "id": "harcelement_rue_q1906_feminisme",
+      "label": "Harcèlement de rue"
+    },
+    {
+      "id": "harcelement_rue_q1906_femmes_feminisme",
+      "label": "Harcèlement de rue"
+    },
+    {
+      "id": "harcelement_rue_q1906_femmes_sortir_feminisme",
+      "label": "Harcèlement de rue"
+    },
+    {
+      "id": "harcelement_rue_q1906",
+      "label": "Harcèlement de rue"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "harcelement de rue",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "sexisme",
+    "patriarcat",
+    "egalite salariale"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "police-postes-supprimes-gauche",
+  "type": "idee_recue",
+  "affirmation": "C'est la gauche qui a supprimé des postes de policiers et de gendarmes.",
+  "volet": "securite",
+  "sous_theme": "Police et gendarmerie",
+  "rubriques": [],
+  "mots_cles": [
+    "la gauche a supprime des policiers",
+    "suppression postes policiers",
+    "rgpp police gendarmerie",
+    "sarkozy supprime policiers",
+    "effectifs police gendarmerie",
+    "hollande postes policiers",
+    "pas assez de flics",
+    "moins de gendarmes",
+    "non remplacement un fonctionnaire sur deux",
+    "recrutement policiers"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Les grandes suppressions de postes de policiers et de gendarmes ont eu lieu sous la droite, entre 2007 et 2012, avec la révision générale des politiques publiques (RGPP) : environ 10 700 emplois selon le ministre de l'Intérieur de 2012, une baisse que la Cour des comptes constatait dès 2011. Le quinquennat suivant, de gauche, a annulé les suppressions prévues et créé 8 837 emplois de 2013 à 2017, selon les inspections générales citées par le Sénat ; la hausse s'est poursuivie après 2017.",
+  "contexte": "L'idée revient dans les débats sur l'insécurité, souvent pour opposer une gauche « laxiste » à une droite « protectrice ». Elle inverse la chronologie : la règle du non-remplacement d'une partie des départs à la retraite des fonctionnaires a été appliquée à la police et à la gendarmerie sous la présidence de Nicolas Sarkozy.",
+  "explication": "On compare les effectifs selon les périodes à partir de la Cour des comptes et des rapports budgétaires du Parlement, en distinguant les suppressions de 2007 à 2012, les créations de 2013 à 2017 et le plan suivant.",
+  "faits": [
+    {
+      "fait": "Selon la Cour des comptes (juillet 2011), entre 2006 et 2010, les effectifs de la police nationale sont passés de 146 561 à 144 218 (-1,6 %) et ceux de la gendarmerie de 99 546 à 96 179 (-3,4 %).",
+      "periode": "2006-2010",
+      "perimetre": "France",
+      "explication": "La baisse est constatée par une juridiction indépendante, pendant le quinquennat de droite.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "-3,4 %"
+    },
+    {
+      "fait": "Selon la Cour des comptes, la réduction des moyens, « au terme de l'année 2011, aura déjà effacé les créations d'emplois résultant de la LOPSI » de 2002 ; dans la sécurité publique, la baisse est devenue perceptible en 2009 et surtout en 2010.",
+      "periode": "2002-2011",
+      "perimetre": "France",
+      "explication": "Les postes créés au début des années 2000 ont été supprimés à la fin de la décennie, sous le même camp politique.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'avis budgétaire de l'Assemblée nationale pour 2013, le ministre de l'Intérieur a déclaré qu'« en cinq ans, ce sont 10 700 emplois de policiers et de gendarmes qui ont été supprimés » depuis 2007, et que les 3 200 suppressions supplémentaires prévues pour 2013 étaient annulées.",
+      "periode": "2007-2013",
+      "perimetre": "France",
+      "explication": "Le chiffre global vient d'un ministre de gauche, mais il est cohérent avec la baisse mesurée par la Cour des comptes.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "10 700"
+    },
+    {
+      "fait": "Selon le Sénat (rapport budgétaire de novembre 2017), reprenant l'inspection générale des finances, 8 837 emplois ont été créés dans la police et la gendarmerie de 2013 à 2017 (5 649 dans la police, 3 188 dans la gendarmerie).",
+      "periode": "2013-2017",
+      "perimetre": "France",
+      "explication": "Le quinquennat de gauche a inversé la tendance et recréé des postes.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "8 837"
+    },
+    {
+      "fait": "Selon la commission des finances du Sénat (novembre 2021), entre 2017 et 2022, 8 446 emplois de policiers et 2 083 emplois de gendarmes devaient avoir été créés, dans le cadre du plan de 10 000 emplois.",
+      "periode": "2017-2022",
+      "perimetre": "France",
+      "explication": "Depuis 2013, la tendance est à la hausse des effectifs, quelle que soit la majorité.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "10 529"
+    },
+    {
+      "fait": "Fait défavorable : selon les chiffres cités, les 8 837 emplois créés de 2013 à 2017 n'ont pas entièrement compensé les quelque 10 700 suppressions de 2007 à 2012 ; et le Sénat jugeait en 2017 que cette hausse des effectifs s'était faite « au détriment des moyens » (équipement, fonctionnement).",
+      "periode": "2007-2017",
+      "perimetre": "France",
+      "explication": "La gauche a recréé des postes, mais n'a pas totalement rattrapé la saignée, et des agents plus nombreux ont parfois manqué de matériel.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est l'inverse. Entre 2007 et 2012, sous la droite, la RGPP a supprimé environ 10 700 postes de policiers et de gendarmes ; la Cour des comptes constatait la baisse dès 2011. De 2013 à 2017, la gauche a annulé les suppressions prévues et créé 8 837 emplois, selon les inspections générales citées par le Sénat.",
+    "moyen": "La chronologie est claire. Selon la Cour des comptes, la police nationale est passée de 146 561 à 144 218 agents entre 2006 et 2010, et la gendarmerie de 99 546 à 96 179. La Cour notait qu'à la fin de 2011, la réduction des moyens aurait effacé les créations de postes de la loi de 2002. Au total, environ 10 700 emplois de policiers et de gendarmes ont été supprimés de 2007 à 2012, selon le ministre de l'Intérieur entendu par l'Assemblée en 2012, dans le cadre de la RGPP, qui ne remplaçait pas une partie des départs à la retraite.\n\nÀ partir de 2013, la tendance s'inverse : les 3 200 suppressions prévues pour 2013 sont annulées et 8 837 emplois sont créés jusqu'en 2017, selon l'inspection générale des finances citée par le Sénat. Le plan suivant a ajouté environ 10 500 emplois entre 2017 et 2022. La gauche n'a pas tout rattrapé, mais ce n'est pas elle qui a vidé les commissariats.",
+    "detaille": "L'affirmation inverse les responsabilités. Sous la présidence de Nicolas Sarkozy, la révision générale des politiques publiques (RGPP) a appliqué à toute la fonction publique le non-remplacement d'une partie des départs à la retraite, police et gendarmerie comprises. La Cour des comptes, dans son rapport de juillet 2011 sur les forces de sécurité publique, mesure le résultat : de 2006 à 2010, la police nationale passe de 146 561 à 144 218 agents (-1,6 %) et la gendarmerie de 99 546 à 96 179 (-3,4 %). Dans les services de sécurité publique, la baisse devient perceptible en 2009 et surtout en 2010, et « plus de la moitié » des gains de la loi d'orientation de 2002 est effacée dès 2010.\n\nAu total, selon le ministre de l'Intérieur entendu par la commission des lois de l'Assemblée en octobre 2012, « en cinq ans, ce sont 10 700 emplois de policiers et de gendarmes qui ont été supprimés ». Le nouveau gouvernement annule alors les 3 200 suppressions supplémentaires prévues pour 2013 et crée 480 postes dès cette année-là.\n\nDe 2013 à 2017, selon l'inspection générale des finances reprise par le Sénat, 8 837 emplois sont créés (5 649 dans la police, 3 188 dans la gendarmerie), notamment après les attentats. Le président élu en 2017 a ensuite promis 10 000 emplois ; selon le Sénat, environ 10 500 ont été créés entre 2017 et 2022.\n\nIl faut rester honnête : les créations de 2013 à 2017 n'ont pas complètement compensé les suppressions précédentes, et le Sénat a reproché à cette politique d'avoir privilégié les effectifs au détriment de l'équipement. Mais la question de fond n'est pas seulement le nombre : c'est la présence d'agents formés sur le terrain, une police de proximité et des services publics qui préviennent la délinquance. Ce sont justement les politiques d'austérité qui les ont affaiblis.",
+    "empathie": "Beaucoup de gens constatent qu'il y a moins de policiers ou de gendarmes près de chez eux, et c'est une inquiétude réelle. Savoir qui a pris quelles décisions aide à juger les promesses de chacun."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Sous Hollande, il y avait moins de policiers qu'avant.",
+      "reponse": "Selon les inspections générales citées par le Sénat, 8 837 emplois ont été créés de 2013 à 2017. Les grandes suppressions datent de 2007 à 2012, constatées par la Cour des comptes."
+    },
+    {
+      "objection": "Le chiffre de 10 700, c'est un ministre de gauche qui le donne, c'est de la propagande.",
+      "reponse": "La Cour des comptes, indépendante, mesurait déjà en 2011 une baisse des effectifs de police et de gendarmerie entre 2006 et 2010, et l'effacement des créations de postes de 2002."
+    },
+    {
+      "objection": "De toute façon, la gauche est laxiste sur la sécurité.",
+      "reponse": "Les chiffres montrent l'inverse sur les effectifs : ce sont les politiques d'économies budgétaires de la droite qui ont réduit le nombre de policiers et de gendarmes."
+    }
+  ],
+  "questions": [
+    "Sais-tu sous quel gouvernement le non-remplacement des départs à la retraite a été appliqué à la police ?",
+    "Qu'est-ce qui compte le plus pour ta sécurité : le nombre d'agents, ou leur présence réelle près de chez toi ?"
+  ],
+  "limites": [
+    "Le chiffre global de 10 700 suppressions vient d'une déclaration du ministre de l'Intérieur reproduite dans un avis parlementaire, et non d'un décompte de la Cour des comptes.",
+    "Le rapport de la Cour des comptes de 2011 n'a été lu qu'en partie, à travers un outil de lecture qui résume ; ses données s'arrêtent à 2010.",
+    "Les chiffres de 2017 à 2022 sont en partie prévisionnels (projet de loi de finances pour 2022).",
+    "Les emplois budgétaires (ETP) ne disent pas combien d'agents sont réellement présents sur le terrain."
+  ],
+  "sources": [
+    {
+      "titre": "L'organisation et la gestion des forces de sécurité publique (rapport public thématique)",
+      "organisme": "Cour des comptes (texte publié par Vie publique)",
+      "date_publication": "juillet 2011",
+      "url": "https://www.vie-publique.fr/sites/default/files/rapport/pdf/114000374.pdf",
+      "passage": "Entre 2006 et 2010, les effectifs de la police nationale passent de 146 561 à 144 218 (-1,6 %) et ceux de la gendarmerie de 99 546 à 96 179 (-3,4 %). Dans les services de sécurité publique, la baisse « a commencé à être perceptible en 2009 et surtout en 2010 » ; « Plus de la moitié de cet accroissement a été effacé dès 2010 » ; la réduction des moyens, « au terme de l'année 2011, aura déjà effacé les créations d'emplois résultant de la LOPSI ». Les adjoints de sécurité passent « de 9 120 au 1er janvier 2003 à 5 676 au 1er janvier 2010 ». Le rapport cite la « révision générale des politiques publiques » (rapport d'étape de février 2010).",
+      "pertinence": "Rapport de la Cour des comptes (environ 500 000 caractères, lu en partie à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Avis n° 258 au nom de la commission des Lois sur le projet de loi de finances pour 2013, tome XIII « Sécurité »",
+      "organisme": "Assemblée nationale (rapporteur Jean-Pierre Blazy)",
+      "date_publication": "10 octobre 2012",
+      "url": "https://www.assemblee-nationale.fr/14/pdf/budget/plf2013/a0258-txiii.pdf",
+      "passage": "Audition du ministre de l'Intérieur reproduite dans l'avis : « En cinq ans, ce sont 10 700 emplois de policiers et de gendarmes qui ont été supprimés », réduction « entamée depuis 2007 » dans le cadre de la RGPP ; « Les 3 200 suppressions supplémentaires prévues pour 2013 » sont annulées. Le rapporteur indique que, outre le remplacement des départs, « 480 postes supplémentaires seront créés » en 2013 (« 288 postes pour la police nationale et 192 postes pour la gendarmerie nationale »).",
+      "pertinence": "Rapport parlementaire (lu en partie, à travers un outil de lecture qui résume) ; le chiffre de 10 700 est celui du ministre de l'Intérieur de l'époque.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport général n° 108 (2017-2018), annexe 28 « Sécurités » — Une confirmation des choix du quinquennat précédent : une augmentation des effectifs au détriment des moyens",
+      "organisme": "Sénat, commission des finances (rapporteur spécial Philippe Dominati)",
+      "date_publication": "23 novembre 2017",
+      "url": "https://www.senat.fr/rap/l17-108-328-1/l17-108-328-11.html",
+      "passage": "Selon l'inspection générale des finances (février 2017), « le total des créations d'emplois est de 6 551 ETP » pour 2013-2016, auxquels s'ajoutent 2 286 ETP en 2017, soit 8 837 au total (police : 5 649 ; gendarmerie : 3 188). Le Président de la République « s'est engagé à créer 10 000 emplois sur la période 2018/2022 » (7 500 dans la police, 2 500 dans la gendarmerie).",
+      "pertinence": "Rapport budgétaire du Sénat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Projet de loi de finances pour 2022 — note de présentation de la mission « Sécurités »",
+      "organisme": "Sénat, commission des finances (rapporteur spécial Philippe Dominati)",
+      "date_publication": "2 novembre 2021",
+      "url": "https://www.senat.fr/fileadmin/Fichiers/Images/commission/finances/PLF_2022/NP/NP_PLF_2022_Securite_police_gendarmerie.pdf",
+      "passage": "Entre 2017 et 2022, « 8 446 emplois de policiers et 2 083 emplois de gendarmes auront été créés » ; le plan de 10 000 emplois est jugé « contestable » sur le fond, mais son « esprit » aurait été « pleinement respecté ».",
+      "pertinence": "Note budgétaire du Sénat (chiffres 2022 prévisionnels).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Près de 9 000 postes ont bien été créés chez les forces de l'ordre sous le quinquennat Hollande",
+      "organisme": "Acteurs publics (avec AFP)",
+      "date_publication": "22 février 2017",
+      "url": "https://acteurspublics.fr/articles/pres-de-9-000-postes-ont-bien-ete-crees-chez-les-forces-de-lordre-sous-le-quinquennat-hollande/",
+      "passage": "Selon le rapport conjoint de l'Inspection générale de l'administration et de l'Inspection générale des finances, « ce sont 8 837 emplois supplémentaires qui auront été créés au 31 décembre 2017 » (police : +5 649 ETP ; gendarmerie : +3 188 ETP). L'opposition (LR) affirmait qu'il y avait 875 policiers et gendarmes de moins fin 2015 qu'en 2011, chiffre non vérifié par l'article.",
+      "pertinence": "Média spécialisé dans la fonction publique.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles lois de finances et bilans des effectifs de la police et de la gendarmerie.",
+  "objections_legitimes": [
+    "La présence policière a réellement reculé dans certains territoires, notamment ruraux.",
+    "Les gouvernements de gauche n'ont pas entièrement rattrapé les suppressions passées.",
+    "Le manque de matériel et de locaux décents dans la police et la gendarmerie est documenté par le Sénat."
+  ],
+  "publics": {
+    "convaincus": "Regarde les dates : la Cour des comptes a constaté la baisse des effectifs de police et de gendarmerie entre 2006 et 2010, sous la droite. C'est la RGPP qui ne remplaçait pas une partie des départs. Ensuite, de 2013 à 2017, 8 837 postes ont été recréés. On peut critiquer la gauche sur bien des choses, mais pas sur celle-là.",
+    "indecis": "Ton inquiétude sur le manque de policiers est légitime. Mais les chiffres officiels montrent que les suppressions ont eu lieu entre 2007 et 2012, sous la droite, et que les effectifs remontent depuis 2013. Pour juger une promesse de sécurité, regarde ce qu'elle prévoit pour les services publics, pas seulement les slogans."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "travailleurs",
+      "democratie"
+    ],
+    "mecanismes": "L’affirmation inverse la chronologie : ce sont les politiques d’austérité, avec le non-remplacement d’une partie des départs à la retraite dans la fonction publique, qui ont vidé les commissariats et les brigades, puis les gouvernements suivants ont recréé des postes.",
+    "consequences": "Moins d’agents formés sur le terrain, c’est moins de présence de proximité, des enquêtes plus lentes et des victimes moins bien accueillies, d’abord dans les quartiers populaires et les campagnes.",
+    "democratie": "Juger les responsables sur leurs actes plutôt que sur leurs slogans est la base du débat démocratique : les chiffres de la Cour des comptes et du Parlement sont publics et vérifiables.",
+    "propositions": [
+      "Garantir par la loi des effectifs de sécurité publique et une présence de proximité dans chaque territoire.",
+      "Investir dans l’équipement, les locaux et la formation des agents, pas seulement dans les recrutements.",
+      "Renforcer les services publics de prévention qui réduisent la délinquance en amont."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les postes recréés par la gauche n’ont pas entièrement compensé les suppressions précédentes, et le Sénat a reproché une hausse des effectifs au détriment des moyens.",
+        "integration": "C’est exact : réparer une saignée prend du temps, et des agents sans matériel ne suffisent pas. C’est une raison de plus pour sortir la sécurité publique des logiques d’austérité."
+      }
+    ]
+  },
+  "concepts": [
+    "emploi",
+    "identite",
+    "services_publics",
+    "gauche",
+    "fonctionnaires"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation",
+    "racines"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "royaume-uni-paie-calais",
+  "type": "idee_recue",
+  "affirmation": "Les Anglais paient la France pour retenir les migrants à Calais.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et asile",
+  "rubriques": [],
+  "mots_cles": [
+    "les anglais paient la france pour calais",
+    "accords du touquet",
+    "traite de sandhurst",
+    "calais migrants argent anglais",
+    "la france garde la frontiere anglaise",
+    "small boats manche",
+    "accord un pour un",
+    "londres finance la police francaise",
+    "frontiere britannique a calais",
+    "le royaume uni paie la france"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Plutôt exact, mais incomplet. Depuis le traité du Touquet (2003), la frontière britannique est contrôlée à Calais, et depuis le traité de Sandhurst (2018) Londres finance une partie du dispositif français pour empêcher les traversées : 540 millions d'euros pour 2023-2026, 766 millions prévus pour 2026-2029, à 70 % pour payer des policiers et gendarmes. Mais cette somme ne couvrirait que la moitié du coût supporté par la France, selon le ministre de l'Intérieur, et rien n'est prévu pour l'accueil humanitaire. La France n'est pas « achetée » : elle applique des traités qu'elle a signés, au prix de morts dans la Manche.",
+  "contexte": "Le sujet revient à chaque naufrage dans la Manche et à chaque nouvel accord franco-britannique. À droite comme à gauche, beaucoup jugent que la France sert de « garde-frontière » au Royaume-Uni ; une commission d'enquête de l'Assemblée nationale examine depuis 2025-2026 les conséquences des accords du Touquet.",
+  "explication": "On distingue ce que prévoient les traités, combien Londres verse réellement et à quoi sert cet argent, et ce qu'il ne couvre pas.",
+  "faits": [
+    {
+      "fait": "Selon le rapport du Sénat de 2003, le traité signé au Touquet le 4 février 2003 crée des contrôles « juxtaposés » : des agents britanniques contrôlent personnes et véhicules dans les ports français de départ, et des policiers français font de même à Douvres.",
+      "periode": "2003",
+      "perimetre": "France et Royaume-Uni",
+      "explication": "C'est ce traité qui place de fait la frontière britannique sur le sol français, à Calais.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la commission des lois du Sénat, le traité de Sandhurst (2018) organise une coopération pour prévenir les départs clandestins et une contribution britannique au financement de ce dispositif, portée à 540 millions d'euros pour 2023-2026.",
+      "periode": "2018-2026",
+      "perimetre": "France et Royaume-Uni",
+      "explication": "Londres paie bien une partie de la surveillance du littoral français.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "540 millions"
+    },
+    {
+      "fait": "Selon le directeur général des étrangers en France, entendu par la commission d'enquête de l'Assemblée nationale le 28 mai 2026, la contribution britannique est passée de 55 millions d'euros pour 2018-2020 à 208 millions pour la seule année 2025-2026, et atteindra 766 millions pour 2026-2029 ; environ 510 millions avaient été versés sur les 540 prévus pour 2023-2026.",
+      "periode": "2018-2029",
+      "perimetre": "France",
+      "explication": "Les sommes ont fortement augmenté depuis 2023.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "766 millions"
+    },
+    {
+      "fait": "Selon la même audition, 70 % de cette contribution paie des effectifs 18 % des équipements (véhicules, moyens aériens, secours en mer), 7 % des infrastructures portuaires et 4 % de l'immobilier de l'État, dont le centre de rétention administrative de Dunkerque.",
+      "periode": "2023-2029",
+      "perimetre": "Nord de la France",
+      "explication": "L'argent britannique finance surtout la répression des départs, très peu le sauvetage, et pas l'accueil.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "70 %"
+    },
+    {
+      "fait": "Fait défavorable : selon le gouvernement britannique (mars 2023), le Royaume-Uni a accepté pour la première fois de financer un centre de rétention en France et de faire plus que doubler les personnels déployés dans le nord de la France contre les « small boats », avec drones et avions de surveillance.",
+      "periode": "2023",
+      "perimetre": "Nord de la France",
+      "explication": "L'affirmation a un fond exact : Londres paie pour que les migrants soient arrêtés avant de traverser.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la commission des lois du Sénat, la contribution britannique « ne couvrait que la moitié des coûts réellement supportés par la France », d'après le ministre de l'Intérieur, et ne finance pas le dispositif humanitaire ; environ 800 policiers et gendarmes sont mobilisés chaque jour et 72 personnes sont mortes dans les onze premiers mois de 2024.",
+      "periode": "2024-2025",
+      "perimetre": "Calais et littoral nord",
+      "explication": "La France paie au moins autant que Londres, et le coût humain est considérable.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "800 policiers"
+    },
+    {
+      "fait": "Selon l'Associated Press, l'accord signé en 2026 prévoit 500 millions de livres sur trois ans, plus 160 millions conditionnés aux résultats, et fait passer de 907 à 1 392 le nombre d'agents déployés sur le littoral.",
+      "periode": "2026-2029",
+      "perimetre": "Nord de la France",
+      "explication": "La logique reste la même : toujours plus de policiers, de drones et d'hélicoptères.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "1 392 agents"
+    },
+    {
+      "fait": "Selon la commission d'enquête de l'Assemblée nationale, l'accord pilote « un pour un », entré en vigueur le 6 août 2025, avait conduit au 26 mai 2026 à réadmettre 783 personnes en France et à admettre 736 personnes au Royaume-Uni.",
+      "periode": "2025-2026",
+      "perimetre": "France et Royaume-Uni",
+      "explication": "Cet échange porte sur quelques centaines de personnes, très loin du nombre de traversées.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "783 personnes"
+    }
+  ],
+  "argumentaires": {
+    "court": "En partie vrai. Depuis le traité de Sandhurst (2018), Londres finance une partie du dispositif français pour empêcher les traversées : 540 millions d'euros pour 2023-2026, 766 millions prévus pour 2026-2029, surtout pour payer policiers et gendarmes. Mais selon le ministre de l'Intérieur, cela ne couvre que la moitié du coût pour la France, et rien n'est prévu pour l'accueil humanitaire.",
+    "moyen": "Le traité du Touquet (2003) a installé les contrôles britanniques dans les ports français : la frontière du Royaume-Uni commence à Calais. Le traité de Sandhurst (2018) y a ajouté une contribution financière britannique : 55 millions d'euros pour 2018-2020, puis 540 millions pour 2023-2026 et 766 millions prévus pour 2026-2029, selon le directeur général des étrangers en France. 70 % de cet argent paie des effectifs de police et de gendarmerie, le reste des véhicules, des drones, des infrastructures et un centre de rétention.\n\nDonc oui, Londres paie pour que les départs soient empêchés. Mais selon le Sénat, cette contribution ne couvrait que la moitié des coûts réellement supportés par la France, d'après le ministre de l'Intérieur, et elle ne finance pas l'accueil humanitaire. Environ 800 policiers et gendarmes sont mobilisés chaque jour, et 72 personnes sont mortes dans les onze premiers mois de 2024.",
+    "detaille": "Le cadre juridique remonte au traité du Touquet, signé le 4 février 2003. Il crée des contrôles « juxtaposés » : des agents britanniques contrôlent les voyageurs dans les ports français, des policiers français à Douvres. Selon le Sénat, ce traité reste en 2025 « le cadre de référence », et ses rapporteurs jugent que le rôle de gestionnaire de fait de la frontière britannique n'est plus acceptable pour la France.\n\nLe traité de Sandhurst, signé le 18 janvier 2018, a ajouté une coopération policière et une contribution britannique. Selon le directeur général des étrangers en France, entendu par une commission d'enquête de l'Assemblée nationale le 28 mai 2026, Londres a versé 55 millions d'euros pour 2018-2020, puis des montants croissants jusqu'à 208 millions pour 2025-2026. Le programme 2023-2026 prévoyait 540 millions (environ 510 versés) ; celui de 2026-2029 atteint 766 millions. Selon l'Associated Press, il prévoit aussi de porter de 907 à 1 392 le nombre d'agents sur le littoral.\n\nÀ quoi sert l'argent ? À 70 % à payer des policiers et des gendarmes, à 18 % des équipements, le reste à des infrastructures portuaires et à des bâtiments de l'État, dont le centre de rétention de Dunkerque. En 2023, le gouvernement britannique s'est félicité de financer « pour la première fois » un centre de rétention en France. Le secours en mer ne reçoit que 28 millions sur trois ans. L'accueil, l'hébergement et l'accès aux soins des exilés ne sont pas financés : le Sénat recommande d'étendre la contribution britannique au dispositif humanitaire.\n\nEnfin, la France n'est pas « payée » pour un service : selon le ministre de l'Intérieur cité par le Sénat, la contribution ne couvre que la moitié des coûts réels. L'accord « un pour un » de 2025 n'a concerné que quelques centaines de personnes. Le vrai problème, c'est une politique qui pousse des personnes vers des embarcations de plus en plus dangereuses : 72 morts dans les onze premiers mois de 2024.",
+    "empathie": "On a le sentiment que la France fait le sale boulot pour un pays qui a choisi de sortir de l'Union européenne. Ce sentiment est partagé par des élus de tous bords, y compris au Sénat."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La France se fait acheter par Londres.",
+      "reponse": "Selon le ministre de l'Intérieur cité par le Sénat, la contribution britannique ne couvre que la moitié des coûts réels : la France paie au moins autant, en application de traités qu'elle a signés."
+    },
+    {
+      "objection": "Il suffit de laisser partir les migrants vers l'Angleterre.",
+      "reponse": "Laisser faire, ce serait laisser les passeurs prospérer et les naufrages continuer. La vraie question, ce sont des voies d'accès légales et sûres, et la renégociation du Touquet, que le Sénat juge lui-même en échec."
+    },
+    {
+      "objection": "L'accord un pour un va régler le problème.",
+      "reponse": "Selon l'Assemblée nationale, il concernait quelques centaines de personnes en dix mois : 783 renvoyées en France, 736 admises au Royaume-Uni."
+    }
+  ],
+  "questions": [
+    "Si Londres paie pour surveiller sa frontière chez nous, qui paie pour soigner et abriter les gens bloqués à Calais ?",
+    "Plus de policiers depuis vingt ans : est-ce que ça a fait baisser les traversées ou seulement augmenté leur danger ?"
+  ],
+  "limites": [
+    "Les montants annuels proviennent d'une audition de la direction générale des étrangers en France, lue à travers un outil de lecture qui résume : les chiffres sont à revérifier dans le compte rendu.",
+    "La fiche « Vie publique » sur les relations migratoires franco-britanniques et le rapport final de la commission d'enquête de l'Assemblée nationale n'ont pas pu être ouverts.",
+    "L'affirmation selon laquelle la contribution ne couvre que la moitié des coûts est une déclaration du ministre de l'Intérieur rapportée par le Sénat, pas un calcul publié.",
+    "La dépêche de l'Associated Press ne donne pas le jour exact de la signature de l'accord de 2026 ; les montants en livres et en euros ne se recoupent qu'approximativement.",
+    "Le rapport du Sénat sur le traité du Touquet date de 2003."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport n° 8 (2003-2004) sur le projet de loi relatif à la mise en œuvre de contrôles frontaliers dans les ports maritimes de la Manche et de la mer du Nord (traité du Touquet)",
+      "organisme": "Sénat, commission des affaires étrangères, de la défense et des forces armées (rapporteur André Boyer)",
+      "date_publication": "8 octobre 2003",
+      "url": "https://www.senat.fr/rap/l03-008/l03-0081.html",
+      "passage": "Le traité signé au Touquet le 4 février 2003 crée des bureaux de contrôles nationaux juxtaposés : des agents britanniques contrôlent personnes, véhicules et fret dans les ports français de départ, des policiers français font de même à Douvres. Il « permet par ailleurs l'installation de BCNJ sur tous les ports de la Manche et de la Mer du Nord » ; « Il s'agit d'un accord cadre, qui sera décliné au cas par cas pour chacun des ports ». À Douvres, la partie britannique « se charge de prévoir les installations immobilières nécessaires ».",
+      "pertinence": "Rapport parlementaire de ratification (données anciennes, lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'essentiel sur… le rapport d'information sur les instruments internationaux en matière migratoire",
+      "organisme": "Sénat, commission des lois (rapporteurs Muriel Jourda et Olivier Bitz)",
+      "date_publication": "non datée (2025, d’après son contenu)",
+      "url": "https://senat.fr/rap/r24-304/r24-304-syn.pdf",
+      "passage": "Le traité du Touquet « a été conclu en 2003 pour faire face à la hausse du flux d'immigration irrégulière » et « constitue encore à ce jour le cadre de référence en la matière ». Le traité de Sandhurst « instaure une coopération opérationnelle en matière de prévention des départs clandestins » et prévoit une « contribution britannique au financement d'un dispositif de prévention des traversées », « largement revalorisée pour la période 2023-2026 (540 millions d'euros) ». Selon le ministre de l'Intérieur entendu par la commission, elle « ne couvrait que la moitié des coûts réellement supportés par la France ». Le rapport relève « près de 2 000 personnes en transit à Calais », « la mobilisation quotidienne de 800 policiers et gendarmes » et 72 décès sur les onze premiers mois de 2024 ; il recommande d'étendre la contribution britannique au « financement du dispositif humanitaire ».",
+      "pertinence": "Synthèse officielle d'un rapport sénatorial.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Compte rendu n° 50 — audition de la direction générale des étrangers en France (ministère de l'Intérieur)",
+      "organisme": "Assemblée nationale, commission d’enquête relative aux conséquences des accords du Touquet",
+      "date_publication": "28 mai 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/CRCANR5L17S2026PO877518N050.html",
+      "passage": "Montants britanniques au titre de Sandhurst (M. Touvet, directeur général des étrangers en France) : 55 M€ (2018-2020), 31 M€ (2020-2021), 62 M€ (2021-2022), 72 M€ (2022-2023), 141 M€ (2023-2024), 190 M€ (2024-2025), 208 M€ (2025-2026) ; triennal 2023-2026 de 540 M€ ; pour 2026-2029, « Le montant de cette allocation est donc passé de 540 à 766 millions » (580 M€ fixes, 186 M€ flexibles). « les ressources humaines représentent 70 % de cette somme » ; équipements 18 % ; infrastructures portuaires et équipements des collectivités 7 % ; immobilier de l'État (CRA de Dunkerque, cantonnement CRS de Calais) 4 % ; secours en mer : 28 millions sur trois ans. Pour 2023-2026, « ils ont déjà versé environ 510 millions sur les 540 millions prévus ». Accord pilote « entré en vigueur le 6 août 2025 » : au 26 mai 2026, « 783 personnes ont été réadmises en France et 736 ont été admises au Royaume-Uni ». Le traité de Sandhurst a été signé le 18 janvier 2018.",
+      "pertinence": "Compte rendu officiel d'audition parlementaire (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "UK-France joint statement: enhancing co-operation against illegal migration",
+      "organisme": "Gouvernement britannique, ministère de l’Intérieur (Home Office), gov.uk",
+      "date_publication": "14 novembre 2022",
+      "url": "https://gov.uk/government/publications/next-phase-in-partnership-to-tackle-illegal-migration-and-small-boat-arrivals/uk-france-joint-statement-enhancing-co-operation-against-illegal-migration",
+      "passage": "« The UK has committed to a financial investment of up to €72.2 million in 2022 to 2023 » ; « agreement to increase deployments by 40% in the next 5 months » sur les plages françaises ; technologies de surveillance, chiens de détection dans les ports, vidéosurveillance, centres d'accueil dans le sud de la France, centres de rétention pour soutenir les retours volontaires.",
+      "pertinence": "Déclaration conjointe officielle (lue en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Prime Minister agrees unprecedented measures to tackle illegal migration alongside France",
+      "organisme": "Gouvernement britannique, services du Premier ministre, gov.uk",
+      "date_publication": "10 mars 2023",
+      "url": "https://www.gov.uk/government/news/prime-minister-agrees-unprecedented-measures-to-tackle-illegal-migration-alongside-france",
+      "passage": "« For the first time, the UK will help fund a detention centre in France » ; « more than double the number of personnel deployed in northern France to tackle small boats » ; « Additional drones, aircraft and other technologies like surveillance will also be deployed ». Le communiqué ne chiffre pas le montant.",
+      "pertinence": "Communiqué officiel britannique (lu en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "UK and French governments sign a 3-year deal to curb migrant crossings in English Channel",
+      "organisme": "Associated Press (dépêche reprise par WTOP)",
+      "date_publication": "avril 2026 (jour non indiqué sur la page)",
+      "url": "https://wtop.com/world/2026/04/britain-and-france-will-sign-a-3-year-deal-to-curb-small-boat-channel-crossings/",
+      "passage": "Le Royaume-Uni versera 500 millions de livres sur trois ans (2026-2029) pour les mesures dans le nord de la France, plus 160 millions de livres conditionnés au succès des nouvelles tactiques ; les effectifs déployés passeront de 907 à 1 392 agents ; drones, hélicoptères et surveillance électronique ; l'accord s'appuie sur le traité de Sandhurst (2018). Le Refugee Council : « Policing alone will not prevent desperate people from turning to dangerous small boats in the first place ».",
+      "pertinence": "Dépêche d'agence de presse (lue en anglais).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Rapport final de la commission d'enquête de l'Assemblée nationale sur les accords du Touquet et exécution de l'accord 2026-2029.",
+  "objections_legitimes": [
+    "La France assume bien la surveillance d'une frontière qui est celle du Royaume-Uni.",
+    "Les sommes britanniques ont fortement augmenté et servent surtout à financer la police et la gendarmerie.",
+    "Les habitants du littoral vivent avec les conséquences : campements, tensions, présence policière permanente."
+  ],
+  "publics": {
+    "convaincus": "Tu as en partie raison : Londres finance bien des policiers et des gendarmes sur nos plages, 766 millions d'euros prévus pour 2026-2029. Mais selon le ministre de l'Intérieur lui-même, ça ne couvre que la moitié de ce que la France dépense, et ça n'empêche pas les morts en mer. Si on garde la frontière des Anglais, c'est à cause d'un traité signé en 2003, pas à cause des migrants.",
+    "indecis": "Oui, le Royaume-Uni paie une partie de la surveillance du littoral, surtout des salaires de policiers et gendarmes. Mais la France supporte au moins autant de dépenses, et l'accueil humanitaire n'est pas financé. Le Sénat lui-même juge le cadre du Touquet en échec : la vraie question est de le renégocier, pas d'accuser ceux qui fuient."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "vulnerables",
+      "internationalisme"
+    ],
+    "mecanismes": "L’argent britannique sert surtout à payer des policiers, des gendarmes, des drones et un centre de rétention : la frontière d’un pays voisin est externalisée sur le littoral français, et la seule réponse envisagée est sécuritaire.",
+    "consequences": "Les exilés prennent des embarcations toujours plus dangereuses, les morts se multiplient dans la Manche, et les habitants du Calaisis vivent avec des campements et une présence policière permanente, sans moyens pour l’accueil humanitaire.",
+    "democratie": "Des traités négociés entre gouvernements organisent depuis des années une politique coûteuse et meurtrière : le Parlement commence seulement à en évaluer les conséquences, notamment sur les droits fondamentaux.",
+    "propositions": [
+      "Renégocier les accords du Touquet et de Sandhurst pour mettre fin au rôle de garde-frontière britannique de la France.",
+      "Ouvrir des voies d’accès légales et sûres vers le Royaume-Uni pour les personnes qui y ont des attaches ou une demande d’asile.",
+      "Financer l’accueil, l’hébergement et le secours en mer plutôt que la seule répression des départs."
+    ],
+    "defavorables": [
+      {
+        "fait": "Londres finance bien des policiers, des gendarmes et même un centre de rétention en France pour empêcher les traversées.",
+        "integration": "C’est exact, et c’est justement le problème : la France accepte d’être payée pour une politique qui ne couvre qu’une partie de ses coûts et qui pousse les gens vers la mort plutôt que de les protéger."
+      }
+    ]
+  },
+  "concepts": [
+    "immigration"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos"
+  ]
+}

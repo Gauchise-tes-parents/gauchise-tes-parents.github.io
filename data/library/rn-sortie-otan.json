@@ -169,9 +169,16 @@
       }
     ]
   },
-  "repond_a": [],
+  "repond_a": [
+    {
+      "id": "otan_sortie_q1906",
+      "label": "Sortie de l'OTAN"
+    }
+  ],
   "ne_repond_pas": [],
   "synonymes": [
+    "sans l otan",
+    "commandement integre",
     "fierte",
     "haine de la france",
     "drapeau",
@@ -184,6 +191,7 @@
     "le pen"
   ],
   "concepts": [
+    "otan_sortie",
     "patriotisme",
     "fn_parti"
   ]

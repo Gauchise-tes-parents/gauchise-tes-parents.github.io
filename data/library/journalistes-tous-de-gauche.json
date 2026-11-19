@@ -1,0 +1,254 @@
+{
+  "id": "journalistes-tous-de-gauche",
+  "type": "idee_recue",
+  "affirmation": "Les journalistes sont tous de gauche.",
+  "volet": "politique",
+  "sous_theme": "Médias",
+  "rubriques": [],
+  "mots_cles": [
+    "les journalistes sont tous de gauche",
+    "medias de gauche",
+    "journalistes gauchistes",
+    "merdias",
+    "service public de gauche",
+    "france inter de gauche",
+    "ecoles de journalisme de gauche",
+    "medias aux mains des milliardaires",
+    "pluralisme arcom",
+    "bollore medias"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Il n'existe pas de mesure fiable et récente des opinions politiques des quelque 35 000 journalistes encartés. Une enquête universitaire montre que les étudiants des écoles de journalisme reconnues se disent très majoritairement à gauche, mais ces écoles ne forment qu'une minorité des journalistes, et les opinions personnelles ne disent pas tout de ce qui est publié. Les grands médias privés appartiennent à quelques industriels et milliardaires, dont certains promeuvent une ligne de droite ou d'extrême droite. Le régulateur a mis en demeure en 2026 aussi bien Radio France (RN sous-représenté en journée) que CNews (déséquilibre du pluralisme).",
+  "contexte": "L'idée d'un journalisme acquis à la gauche est un classique de la droite et de l'extrême droite, qui l'utilisent pour disqualifier les informations qui les dérangent, notamment sur le service public. Le débat s'est intensifié avec la montée de médias d'opinion comme CNews et les décisions de l'Arcom sur le pluralisme.",
+  "explication": "On distingue ce que l'on sait des opinions des journalistes (très peu de données solides), qui forme les journalistes, qui possède les médias, et ce que constate le régulateur sur le pluralisme à l'antenne.",
+  "faits": [
+    {
+      "fait": "Selon un bilan de la CCIJP rapporté par CB News, 34 948 cartes de presse ont été délivrées en 2024 ; environ 26 % des journalistes encartés sont pigistes ou en CDD.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La profession compte des dizaines de milliers de personnes aux situations très diverses, souvent précaires : parler de « tous les journalistes » n'a pas de sens.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "34 948"
+    },
+    {
+      "fait": "Fait défavorable : selon le sociologue Géraud Lafarge, interrogé par EducPros, les étudiants des écoles de journalisme reconnues qu'il a enquêtés se disent « très majoritairement à gauche » ; 52 % ont un père cadre ou de profession intellectuelle supérieure, et 10,4 % sont enfants d'ouvriers.",
+      "periode": "années 2000",
+      "perimetre": "écoles de journalisme reconnues",
+      "explication": "Il existe bien une orientation à gauche chez une partie des futurs journalistes, ainsi qu'une forte sélection sociale ; c'est un constat à reconnaître, pas à nier.",
+      "source": 0,
+      "fiabilite": "interpretation",
+      "chiffre": "52 %"
+    },
+    {
+      "fait": "Selon l'enquête de Christine Leteinturier (Paris 2) présentée par EducPros, les diplômés des écoles reconnues ne représentaient que 21,6 % des nouveaux titulaires de la carte de presse en 2008.",
+      "periode": "2008",
+      "perimetre": "France",
+      "explication": "Les écoles les plus étudiées ne forment qu'une minorité des journalistes : on ne peut pas généraliser leurs étudiants à toute la profession.",
+      "source": 1,
+      "fiabilite": "interpretation",
+      "chiffre": "21,6 %"
+    },
+    {
+      "fait": "Selon CB News, la commission d'enquête du Sénat sur la concentration des médias (2022) a auditionné notamment Bernard Arnault, Vincent Bolloré, Arnaud Lagardère, Xavier Niel, Patrick Drahi et Martin Bouygues, propriétaires de grands groupes, et a proposé de renforcer l'indépendance des rédactions face aux actionnaires.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Ce sont des industriels et des milliardaires, et non les journalistes, qui possèdent la plupart des grands médias privés et nomment leurs dirigeants.",
+      "source": 3,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon Public Sénat, le rapporteur David Assouline dénonce la « concentration verticale » des médias, et la droite sénatoriale s'est opposée à des mesures comme un droit de veto des rédactions sur la nomination de leur directeur de l'information.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Les journalistes ont peu de pouvoir face aux propriétaires sur la ligne éditoriale.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'AFP, l'Arcom a mis en demeure Radio France en juin 2026, car près de 60 % du temps de parole du RN sur France Inter et plus de 70 % sur franceinfo avaient été diffusés entre minuit et 6 heures au premier trimestre 2026 ; Radio France invoque une erreur de logiciel de décompte.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Le service public a lui aussi des obligations de pluralisme et peut être rappelé à l'ordre : la critique n'est pas sans fondement.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "60 %"
+    },
+    {
+      "fait": "Selon The Media Leader, l'Arcom a mis en demeure CNews en juin 2026 pour un « déséquilibre manifeste et durable » dans le pluralisme des courants de pensée et d'opinion, après une saisine de Reporters sans frontières ; CNews conteste devant le Conseil d'État.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Les manquements au pluralisme existent dans les deux sens, et une des principales chaînes d'information est sanctionnée pour une ligne marquée à droite.",
+      "source": 6,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Aucune donnée fiable et récente ne mesure les opinions des quelque 35 000 journalistes. Les étudiants des grandes écoles de journalisme se disent surtout de gauche, mais ces écoles ne forment qu'une minorité de la profession. Et les grands médias privés appartiennent à des milliardaires comme Bolloré, Arnault ou Bouygues. En 2026, le régulateur a d'ailleurs mis en demeure aussi bien Radio France que CNews.",
+    "moyen": "On ne sait pas mesurer sérieusement le vote des journalistes : il n'existe pas d'enquête récente et fiable sur leurs opinions. Ce que l'on sait : une enquête du sociologue Géraud Lafarge montre que les étudiants des écoles reconnues se disent très majoritairement à gauche, et viennent souvent de milieux aisés. Mais ces écoles ne représentaient que 21,6 % des nouveaux titulaires de la carte de presse en 2008, sur une profession de près de 35 000 personnes, dont un quart de pigistes ou de CDD.\n\nSurtout, ce ne sont pas les journalistes qui possèdent les médias. La commission d'enquête du Sénat de 2022 a auditionné les propriétaires des grands groupes privés : Bolloré, Arnault, Lagardère, Niel, Drahi, Bouygues. Et le régulateur sanctionne dans les deux sens : en 2026, l'Arcom a mis en demeure Radio France pour avoir relégué la parole du RN la nuit, et CNews pour un déséquilibre « manifeste et durable » du pluralisme.",
+    "detaille": "Commençons par ce que l'on ne sait pas. Il n'existe pas d'enquête récente et fiable mesurant les opinions politiques des journalistes en France. Les sondages qui circulent sont anciens, partiels ou réalisés sur des échantillons non représentatifs. Or la profession est vaste et diverse : selon la CCIJP, 34 948 cartes de presse ont été délivrées en 2024, dont environ un quart à des pigistes ou des CDD, qui travaillent dans la presse locale, spécialisée, sportive, économique ou audiovisuelle.\n\nCe que l'on sait, en revanche, mérite d'être reconnu. Le sociologue Géraud Lafarge a montré que les étudiants des écoles de journalisme reconnues se disent très majoritairement à gauche, et qu'ils viennent souvent de milieux favorisés : 52 % ont un père cadre, contre 10,4 % d'enfants d'ouvriers. Mais ces écoles ne forment qu'une minorité des journalistes : 21,6 % des nouveaux titulaires de la carte en 2008, selon l'enquête de Christine Leteinturier. Et les opinions personnelles d'un journaliste ne décident pas seules de ce qui est publié.\n\nCar le pouvoir dans les médias appartient d'abord à leurs propriétaires. La commission d'enquête du Sénat sur la concentration des médias a auditionné en 2022 Bernard Arnault, Vincent Bolloré, Arnaud Lagardère, Xavier Niel, Patrick Drahi et Martin Bouygues. Son rapporteur dénonce une concentration qui fragilise le pluralisme, et des propositions pour donner aux rédactions un droit de regard sur la nomination de leurs dirigeants ont été rejetées par la droite sénatoriale.\n\nEnfin, le régulateur constate des déséquilibres dans les deux sens. En juin 2026, l'Arcom a mis en demeure Radio France parce que l'essentiel du temps de parole du RN sur France Inter et franceinfo était diffusé la nuit, et CNews pour un déséquilibre « manifeste et durable » du pluralisme. Défendre une information libre, c'est garantir l'indépendance des rédactions face aux actionnaires comme au pouvoir politique, et un service public pluraliste, pas désigner les journalistes comme ennemis.",
+    "empathie": "Beaucoup de gens ont le sentiment que les médias ne parlent pas comme eux ni de leurs préoccupations, et que les journalistes viennent d'un autre monde social. Ce sentiment n'est pas absurde : la profession est en partie socialement sélective."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Tout le monde sait que les journalistes votent à gauche.",
+      "reponse": "Aucune enquête récente et fiable ne mesure le vote des 35 000 journalistes encartés. On sait seulement que les étudiants des écoles reconnues, minoritaires dans la profession, se disent surtout de gauche."
+    },
+    {
+      "objection": "France Inter, c'est la radio de la gauche.",
+      "reponse": "L'Arcom a bien mis en demeure Radio France en 2026 pour la place du RN la nuit ; la radio invoque une erreur de décompte. Mais la même autorité a aussi mis en demeure CNews pour un déséquilibre « manifeste et durable » : le pluralisme s'impose à tous."
+    },
+    {
+      "objection": "Les médias sont aux mains de la gauche.",
+      "reponse": "Les grands groupes privés appartiennent à des industriels et milliardaires comme Bolloré, Arnault, Bouygues ou Drahi, auditionnés par le Sénat en 2022. Ce sont eux qui nomment les directions, pas les journalistes."
+    }
+  ],
+  "questions": [
+    "Qui possède, selon toi, les chaînes et journaux que tu regardes ou lis le plus ?",
+    "Un journaliste de presse locale ou sportive, il est forcément de gauche lui aussi ?"
+  ],
+  "limites": [
+    "Aucune enquête scientifique récente sur les opinions politiques des journalistes en France n'a pu être lue : la fiche ne peut ni confirmer ni exclure une majorité de gauche dans la profession.",
+    "Les données de Géraud Lafarge portent sur des étudiants des années 2000 et sont connues par un entretien de 2011 ; l'article scientifique original (HAL) n'a pas pu être ouvert.",
+    "La part des écoles reconnues (21,6 %) date de 2008.",
+    "Les chiffres de la CCIJP et les propositions du Sénat sont connus par la presse spécialisée (CB News) ; les décisions de l'Arcom n'ont pas été lues sur le site du régulateur.",
+    "Le rapport du Sénat de 2022 sur la concentration des médias n'a pas été lu directement."
+  ],
+  "sources": [
+    {
+      "titre": "Géraud Lafarge : « La sélection sociale dans les écoles de journalisme »",
+      "organisme": "L'Etudiant (EducPros)",
+      "date_publication": "28 novembre 2011",
+      "url": "https://www.letudiant.fr/educpros/entretiens/geraud-lafarge-maitre-de-conferences-en-info-com-iut-de-lannion-la-selection-sociale-dans.html",
+      "passage": "Entretien avec le sociologue Géraud Lafarge (IUT de Lannion) sur son enquête auprès des étudiants des écoles de journalisme reconnues : 52 % ont un père cadre ou de profession intellectuelle supérieure (18,5 % de la population active masculine en 2005), 10,4 % sont enfants d'ouvriers (35 % de la population active). Ces étudiants se disent « très majoritairement à gauche » et veulent surtout travailler dans les médias nationaux d'information générale.",
+      "pertinence": "Entretien avec un chercheur dans un média spécialisé dans l'enseignement supérieur.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Enquête carte de presse : les nouveaux titulaires de plus en plus diplômés",
+      "organisme": "L'Etudiant (EducPros)",
+      "date_publication": "11 octobre 2010",
+      "url": "https://www.letudiant.fr/educpros/actualite/enquete-carte-de-presse-les-nouveaux-titulaires-de-plus-en-plus-diplomes.html",
+      "passage": "Présentation de l'enquête IFP-CARISM de Christine Leteinturier (université Paris 2) sur les dossiers de la CCIJP : « Les écoles reconnues représentent 21,6 % du panel » des nouveaux titulaires de la carte de presse en 2008, contre 8,9 % en 1990.",
+      "pertinence": "Article de presse spécialisée présentant une enquête universitaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "CCIJP : hausse du nombre de cartes de presse délivrées en 2024",
+      "organisme": "CB News",
+      "date_publication": "9 mars 2025",
+      "url": "https://www.cbnews.fr/medias/ccijp-hausse-du-nombre-cartes-presse-delivrees-2024",
+      "passage": "La Commission de la carte d'identité des journalistes professionnels « a délivré 34 948 cartes en 2024 » (+1,46 %) ; 51,44 % d'hommes et 48,26 % de femmes ; environ 8 935 pigistes et CDD, soit 25,88 % de la profession.",
+      "pertinence": "Presse spécialisée médias, reprenant le bilan de la CCIJP.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Concentration des médias : les 32 propositions du Sénat",
+      "organisme": "CB News",
+      "date_publication": "1er avril 2022",
+      "url": "https://www.cbnews.fr/medias/image-concentration-medias-32-propositions-du-senat-68248",
+      "passage": "La commission d'enquête du Sénat sur la concentration des médias a mené 48 auditions (plus de 80 personnes) et publié un rapport de 379 pages ; elle a entendu Bernard Arnault, Vincent Bolloré, Arnaud Lagardère, Xavier Niel, Patrick Drahi et Martin Bouygues. Propositions : administrateur indépendant chargé de veiller à l'indépendance des rédactions, comités d'éthique, protection des présidents de sociétés de journalistes, transparence de l'actionnariat auprès de l'Arcom.",
+      "pertinence": "Presse spécialisée médias.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Empire Bolloré : « Nous avons fait l'essentiel de ce que pouvait faire une commission »",
+      "organisme": "Public Sénat",
+      "date_publication": "14 novembre 2022",
+      "url": "https://www.publicsenat.fr/actualites/politique/empire-bollore-nous-avons-fait-l-essentiel-de-ce-que-pouvait-faire-une-commission",
+      "passage": "Le rapporteur David Assouline dénonce la « concentration verticale » des propriétaires qui possèdent aussi les canaux de diffusion ; la droite sénatoriale s'est opposée à des propositions visant à garantir l'indépendance des rédactions, comme un droit de veto des rédactions sur la nomination d'un directeur de l'information. Auditionné, Vincent Bolloré a affirmé ne pas avoir « le pouvoir de nommer qui que ce soit » dans les chaînes.",
+      "pertinence": "Média parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'Arcom met en demeure Radio France pour « sous-représentation » du RN en journée",
+      "organisme": "AFP (dépêche publiée par La Libre Belgique)",
+      "date_publication": "11 juin 2026",
+      "url": "https://www.lalibre.be/international/europe/2026/06/11/larcom-met-en-demeure-radio-france-pour-sous-representation-du-rn-en-journee-2H3LHVU225HJ7C72HUJZPEWDQ4/",
+      "passage": "L'Arcom met en demeure Radio France pour la sous-représentation du Rassemblement national en journée de janvier à fin mars 2026 : près de 60 % du temps de parole du RN sur France Inter et plus de 70 % sur franceinfo ont été diffusés entre minuit et 5 h 59. Radio France invoque un changement de logiciel de décompte : « L'erreur est corrigée ». L'Arcom avait déjà rappelé Radio France à ses obligations en 2025 et 2026.",
+      "pertinence": "Dépêche de l'Agence France-Presse.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pluralisme : l'Arcom sanctionne CNews, qui va saisir le Conseil d'État",
+      "organisme": "The Media Leader France",
+      "date_publication": "16 juin 2026",
+      "url": "https://fr.themedialeader.com/?p=216017",
+      "passage": "Saisie par Reporters sans frontières, l'Arcom met en demeure CNews après avoir visionné plus de 168 heures de programmes de mars 2025 : elle conclut à un « déséquilibre manifeste et durable » dans le pluralisme des courants de pensée et d'opinion. Une mise en garde avait déjà été adressée en juillet 2024. CNews juge la décision « attentatoire à sa liberté éditoriale » et annonce un recours devant le Conseil d'État.",
+      "pertinence": "Presse spécialisée médias.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Décisions du Conseil d'État sur la mise en demeure de CNews, nouvelles données de la CCIJP et éventuelle enquête sur les journalistes.",
+  "objections_legitimes": [
+    "Les étudiants des grandes écoles de journalisme viennent souvent de milieux favorisés et se disent majoritairement à gauche, selon une enquête universitaire.",
+    "Le service public a été rappelé à l'ordre par l'Arcom pour la sous-représentation du RN en journée.",
+    "La défiance envers les médias est forte et mérite d'être prise au sérieux."
+  ],
+  "publics": {
+    "convaincus": "Tu as en partie raison : une enquête universitaire montre que les étudiants des grandes écoles de journalisme se disent surtout de gauche, et l'Arcom a rappelé Radio France à l'ordre. Mais ces écoles forment une minorité des 35 000 journalistes, et ce sont des milliardaires comme Bolloré ou Arnault qui possèdent les grands médias privés. Le même régulateur a d'ailleurs mis CNews en demeure.",
+    "indecis": "Personne ne mesure sérieusement le vote des journalistes. On sait que les grandes écoles recrutent surtout dans des milieux favorisés et plutôt à gauche, mais que les médias privés appartiennent à quelques grands industriels. Pour s'informer, mieux vaut regarder qui possède un média et comparer plusieurs sources."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes",
+      "services_publics"
+    ],
+    "mecanismes": "Accuser tous les journalistes d’être de gauche permet de disqualifier d’avance toute information gênante, tout en passant sous silence le poids des propriétaires milliardaires qui contrôlent une grande partie des médias privés.",
+    "consequences": "Cette défiance généralisée fragilise l’information professionnelle, expose les journalistes au harcèlement et profite aux médias d’opinion et aux rumeurs des réseaux sociaux.",
+    "democratie": "Une démocratie a besoin de rédactions indépendantes de leurs actionnaires comme du pouvoir politique, et d’un service public pluraliste contrôlé par une autorité indépendante.",
+    "propositions": [
+      "Donner aux rédactions un droit d’approbation sur la nomination de leurs directeurs de l’information.",
+      "Limiter la concentration des médias et rendre transparent leur actionnariat.",
+      "Garantir un financement stable et indépendant à l’audiovisuel public, avec des obligations de pluralisme contrôlées."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les étudiants des écoles de journalisme reconnues se disent très majoritairement à gauche, et l’Arcom a mis en demeure Radio France pour la sous-représentation du RN en journée.",
+        "integration": "Ces constats sont à prendre au sérieux : la diversification sociale du recrutement et le respect du pluralisme par le service public sont des exigences démocratiques, qui valent aussi pour les chaînes privées sanctionnées pour une ligne marquée à droite."
+      }
+    ]
+  },
+  "concepts": [
+    "journalistes_gauche",
+    "france_inter",
+    "riches_entreprises",
+    "services_publics",
+    "medias",
+    "gauche",
+    "c8_arcom"
+  ],
+  "repond_a": [
+    {
+      "id": "journalistes_gauche_q1906",
+      "label": "Opinions politiques des journalistes"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "france inter",
+    "radio france",
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "urgences",
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite",
+    "nous cachent"
+  ]
+}

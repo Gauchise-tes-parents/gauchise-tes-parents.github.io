@@ -1842,3 +1842,97 @@ Variantes familières vérifiées (toutes mènent à la bonne fiche) :
 **Moteur interne de fiches (sans IA, sans Claude).** `scripts/moteur/` et `.github/workflows/moteur.yml`, chaque nuit à 03 h 41 UTC : programme *L'Avenir en commun* (relevé hebdomadaire de melenchon2027.fr), neuf chiffres Eurostat, questions sans réponse (bouton opt-in du site et `data/moteur/questions.txt`), fiches de repères sans verdict avec garde-fous (validation, politique documentaire, aucune phrase de contrôle détournée, tests complets ; sinon brouillon), proposées en pull request. Collecteur séparé `worker-questions/` (texte seul, nettoyé, sans IP), non déployé : le site ne fait toujours aucune requête tant que `GTP_QUESTIONS_BASE` n'est pas configuré. Guide : `docs/MOTEUR.md`. Le premier relevé réel du programme et d'Eurostat se fait sur GitHub Actions (ces sites ne sont pas joignables depuis l'environnement de travail).
 
 **Vérifications.** `npm test` : 492 tests, 492 réussis. Tests de bout en bout : 46 tests, 46 réussis (dont les 7 scénarios Linux et la demande de fiche opt-in).
+
+
+## 19 novembre 2026 — passage de 06 h 13 (UTC)
+
+**Questions testées : 25.**
+1. C'est la gauche qui a supprimé des postes de policiers et de gendarmes.
+2. Macron a bradé Alstom aux Américains.
+3. Nos ancêtres sont les Gaulois.
+4. Le GIEC est un organisme politique, pas scientifique.
+5. Le trou de la couche d'ozone, c'était du bluff écolo.
+6. Hollande a cassé la politique familiale, c'est pour ça que les Français font moins d'enfants.
+7. La France n'a pas voté un budget à l'équilibre depuis 1974.
+8. Il faut faire comme l'Allemagne avec les lois Hartz.
+9. Les Anglais paient la France pour retenir les migrants à Calais.
+10. On va nous imposer un passeport carbone individuel.
+11. Les hommes sont autant victimes de violences conjugales que les femmes.
+12. Au Portugal, la dépénalisation des drogues a été un échec.
+13. Les salles de shoot attirent les dealers et la délinquance.
+14. Les délinquants sont de plus en plus jeunes.
+15. Trump a fait baisser la criminalité à Washington en envoyant la Garde nationale.
+16. Il y a des prières de rue partout en France.
+17. Il faut une TVA sociale pour baisser le coût du travail.
+18. LFI veut sortir de l'OTAN, on serait sans défense.
+19. Les journalistes sont tous de gauche.
+20. L'autonomie de la Corse, c'est la fin de la République.
+21. Le harcèlement de rue est une invention des féministes.
+22. La dissolution de 2024 a été décidée pour faire gagner le RN.
+23. La France donne des milliards à l'Autorité palestinienne.
+24. Le Nutri-score est une arnaque contre nos produits du terroir.
+25. Les fonctionnaires européens ne paient pas d'impôts.
+
+Avant ce passage, 16 menaient à une « LACUNE » et 9 à une fiche hors sujet (par exemple `delinquance-partout` pour les violences conjugales, les salles de shoot, l'âge des délinquants et Washington ; `impots-assistanat` pour la TVA sociale ; `melenchon-crie` pour LFI et l'OTAN ; `medias-concentration` pour les opinions des journalistes ; `fonctionnaires-salaires-prive` pour l'impôt des fonctionnaires européens ; `femmes-sortir-soir-migrants` pour le harcèlement de rue). D'autres phrases essayées étaient déjà couvertes par une fiche pertinente et ont été remplacées (OQTF, Smic de LFI, migrants et HLM, RSA des étrangers).
+
+**Fiches créées : 25.**
+- Générateur : `scripts/fiches/quotidien_20261119_0613.py`.
+- Chaque fiche a le champ `publics` et une entrée dans `scripts/lectures-gauche.js`.
+- Les sources ont été ouvertes et lues le 19 novembre 2026 par cinq agents de recherche, avec un outil de lecture qui résume : les citations entre « » sont courtes et à revérifier mot pour mot. Chaque lot a été validé avant assemblage (validation de la bibliothèque, politique documentaire, champ `publics`, lectures sans chiffre).
+
+Trois premières sources de chacune :
+- `police-postes-supprimes-gauche` (contredit, 5 sources) : Cour des comptes (texte publié par Vie publique) (juillet 2011) ; Assemblée nationale (rapporteur Jean-Pierre Blazy) (10 octobre 2012) ; Sénat, commission des finances (rapporteur spécial Philippe Dominati) (23 novembre 2017).
+- `violences-conjugales-hommes-victimes` (contredit, 4 sources) : Miprof — Observatoire national des violences faites aux femmes (arretonslesviolences.gouv.fr) (mars 2024, mise à jour février 2025) ; Insee (18 novembre 2025) ; Ministère de l’Intérieur, délégation aux victimes (fiche publiée sur arretonslesviolences.gouv.fr) (novembre 2024 (fiche de janvier 2025)).
+- `salles-de-shoot-delinquance` (trompeur, 6 sources) : Banque des Territoires (Localtis), avec AFP (10 mai 2021) ; Assemblée nationale, commission des affaires sociales (Caroline Janvier, LREM, et Stéphane Viry, LR) (septembre 2021) ; Public Sénat (5 novembre 2025).
+- `delinquants-plus-jeunes` (trompeur, 5 sources) : Sénat, commissions de la culture et des lois (Céline Boulay-Espéronnier, Bernard Fialaire, Laurence Harribey, Muriel Jourda) (21 septembre 2022) ; Public Sénat (21 septembre 2022 (mis à jour le 26 septembre 2022)) ; Ministère de la Justice (décembre 2024).
+- `portugal-depenalisation-drogues` (trompeur, 4 sources) : Observatoire européen des drogues et des toxicomanies (EMCDDA, devenu EUDA), europa.eu (juin 2019 (données surtout de 2017)) ; Université de Nouvelle-Galles du Sud (UNSW), Drug Policy Modelling Program — Alison Ritter, Liz Barrett, Paul Kelaita (novembre 2024) ; Université de Porto, École de criminologie (Jorge Quintas, Ximene Rêgo), revue Sociologia Online de l’Association portugaise de sociologie (décembre 2024 (en ligne le 3 mars 2025)).
+- `alstom-vente-americains` (plutôt exact, 6 sources) : Assemblée nationale (19 avril 2018) ; Assemblée nationale (11 mars 2015) ; LCP (Assemblée nationale) (19 avril 2018 (mis à jour le 8 février 2023)).
+- `budget-equilibre-1974` (plutôt exact, 5 sources) : Banque de France (enregistré le 29 avril 2025) ; Insee (27 mars 2026) ; Insee (mai 2026).
+- `lois-hartz-allemagne` (trompeur, 7 sources) : Direction générale du Trésor (ministère de l’Économie) (20 mars 2013) ; Conseil d'analyse économique (juin 2015) ; OFCE (Sciences Po), blog (mars 2013 (date déduite)).
+- `tva-sociale` (opinion, 6 sources) : Assemblée nationale (29 février 2012) ; Banque des Territoires (Localtis) (août 2012) ; Conseil des prélèvements obligatoires (Cour des comptes) (28 septembre 2023).
+- `fonctionnaires-europeens-impots` (contredit, 6 sources) : Commission européenne (Représentation en France) (13 mai 2024) ; Ministère de l’Europe et des Affaires étrangères (9 octobre 2025 (mis à jour le 2 septembre 2026)) ; Cour de justice de l’Union européenne (non daté, consulté le 19 novembre 2026).
+- `giec-organisme-politique` (trompeur, 5 sources) : GIEC (IPCC) (révision de janvier 2024) ; GIEC (IPCC) (révisée le 15 janvier 2015) ; GIEC (IPCC) (adoptées en 1999, modifiées jusqu’en octobre 2013).
+- `couche-ozone-bluff` (contredit, 4 sources) : Organisation météorologique mondiale (Nations unies) (9 janvier 2023 (mis à jour le 2 mars 2023)) ; Organisation météorologique mondiale (Nations unies) (16 septembre 2026) ; NASA et NOAA (agences fédérales américaines) (24 novembre 2025 (mis à jour le 18 mars 2026)).
+- `passeport-carbone-individuel` (trompeur, 7 sources) : Natures Sciences Sociétés — Pierre Chadefaux, Université Panthéon-Assas (CERSA) (2025 (vol. 33, n° 3)) ; Assemblée nationale (enregistrée le 30 juin 2020) ; Assemblée nationale (25 mars 2021).
+- `nutri-score-terroir` (trompeur, 6 sources) : Santé publique France (mise à jour du 6 novembre 2025) ; Santé publique France (18 janvier 2024) ; Inserm, INRAE, Cnam, Université Sorbonne Paris Nord, Université Paris Cité (équipe CRESS-EREN) (11 septembre 2024).
+- `trump-washington-garde-nationale` (trompeur, 5 sources) : Associated Press (David Klepper) (11 août 2025) ; CBS News (mis à jour le 27 août 2025) ; PolitiFact (27 août 2025).
+- `ancetres-gaulois` (trompeur, 6 sources) : CNRS (25 mai 2020) ; Université de Bordeaux (archive ouverte OSKAR), article de C.-E. Fischer, M.-F. Deguilloux, M. Pruvost et al. (2022) ; Cité des sciences et de l'industrie (Universcience) et Inrap (9 octobre 2011).
+- `prieres-de-rue-partout` (trompeur, 7 sources) : France-Soir, repris par le Conseil de la communauté marocaine à l’étranger (CCME) (15-16 septembre 2011) ; Assemblée nationale (réponse publiée au JO le 20 septembre 2011) ; Banque des Territoires (Caisse des dépôts), Localtis (7 juillet 2016).
+- `harcelement-de-rue-invention` (contredit, 7 sources) : Ined (5 décembre 2017) ; Centre Hubertine Auclert et Ined (A. Lebugle, A. Latourès) (mars 2018) ; SSMSI (ministère de l’Intérieur) (novembre 2020).
+- `politique-familiale-hollande-natalite` (trompeur, 7 sources) : Insee (janvier 2026) ; Vie publique (Direction de l’information légale et administrative) (non datée, consultée le 19 novembre 2026) ; Sénat, commission des affaires sociales (8 novembre 2017).
+- `journalistes-tous-de-gauche` (trompeur, 7 sources) : L'Etudiant (EducPros) (28 novembre 2011) ; L'Etudiant (EducPros) (11 octobre 2010) ; CB News (9 mars 2025).
+- `royaume-uni-paie-calais` (plutôt exact, 6 sources) : Sénat, commission des affaires étrangères, de la défense et des forces armées (rapporteur André Boyer) (8 octobre 2003) ; Sénat, commission des lois (rapporteurs Muriel Jourda et Olivier Bitz) (non datée (2025, d’après son contenu)) ; Assemblée nationale, commission d’enquête relative aux conséquences des accords du Touquet (28 mai 2026).
+- `corse-autonomie-republique` (trompeur, 5 sources) : Sénat (24 juin 2026 (adopté par l’Assemblée nationale le 23 juin 2026)) ; Conseil d'État (assemblée générale) (17 juillet 2025) ; LCP-Assemblée nationale (23 juin 2026).
+- `dissolution-2024-rn` (invérifiable, 7 sources) : Conseil constitutionnel (texte de la Constitution) (texte en vigueur) ; Présidence de la République (elysee.fr) (9 juin 2024) ; Présidence de la République (elysee.fr) (31 décembre 2024).
+- `lfi-sortie-otan` (trompeur, 7 sources) : La France insoumise (programme, site de campagne melenchon2027.fr) (mis à jour le 7 novembre 2026) ; Public Sénat (non datée sur la page (campagne présidentielle de 2022, d’après son contenu)) ; Organisation du traité de l’Atlantique Nord (OTAN), textes officiels (4 avril 1949).
+- `aide-autorite-palestinienne` (trompeur, 7 sources) : Présidence de la République (elysee.fr) (11 novembre 2025) ; Union européenne, Service européen pour l’action extérieure (délégation auprès des Palestiniens), eeas.europa.eu (17 avril 2023) ; Commission européenne, direction générale du voisinage (31 mai 2024).
+
+**Points fragiles signalés dans les limites des fiches :**
+- **Documents lus à travers un résumé ou un compte rendu :** évaluation de l'Inserm sur les salles de consommation (Localtis/AFP) et rapport IGA-IGAS (communiqué de la Fédération Addiction, partie prenante) ; rapport de la commission d'enquête sur Alstom (lu en partie) ; évaluation scientifique 2022 sur l'ozone (communiqué de l'OMM) ; études génétiques PNAS et iScience (communiqué, résumé) ; montants britanniques pour Calais (audition à l'Assemblée) ; décisions de l'Arcom et chiffres de la CCIJP (presse) ; chiffres 2025 des morts violentes au sein du couple (Euronews) et des outrages sexistes (Maire-info).
+- **Données anciennes :** effectifs de police jusqu'en 2010 (Cour des comptes) ; données de l'EUDA sur le Portugal (2017) ; séries par âge des mineurs mis en cause (2016-2021) ; enquête Virage (2015) ; mosquées et salles de prière (2010 et 2016) ; étudiants en journalisme (années 2000) et part des écoles reconnues (2008) ; CEPII sur la TVA sociale (2007), Sénat sur le Danemark (2004) ; mini-jobs et pauvreté des chômeurs allemands (2010-2015) ; étude comparée du Sénat sur les îles européennes (2000).
+- **Sources à manier avec prudence :** total de 10 700 postes supprimés (déclaration du ministre de l'Intérieur en 2012) ; dégradations récentes au Portugal (Washington Post, reprise) ; interdiction des prières de rue de 2011 (France-Soir repris par le CCME, en estimation) ; « moitié des coûts » de Calais (déclaration ministérielle) ; programme de LFI (source partisane, attribuée) ; étude du Niskanen Center sur Washington (rapportée par NBC Washington) et soupçons de manipulation des données de la police de Washington ; aucun total consolidé officiel de l'aide française aux Palestiniens ; aucune enquête récente fiable sur les opinions des journalistes (la fiche le dit et ne tranche pas) ; l'intention du président lors de la dissolution n'est pas prouvable (verdict « invérifiable », aucune intention prêtée).
+
+**Pages non ouvertes, donc non citées :** vie-publique.fr et FIPECO (robots) ; EUR-Lex (règlement 260/68) ; France Stratégie, page Eurostat sur la pauvreté au travail, note de l'OFCE sur la TVA sociale ; site de l'AFD ; site du ministère de l'Intérieur pour les résultats des législatives 2024 ; Météo-France ; site de l'Inserm (serveur indisponible) ; notices HAL ; étude 2025 sur les morts violentes au sein du couple ; Interstats (SSMSI) ; note du Haut-Commissariat à la Stratégie et au Plan sur la natalité ; arrêté sur le Nutri-Score et page du ministère de l'Agriculture.
+
+**Reconnaissance des questions.** Après génération, 16 questions menaient déjà à leur fiche. `public/js/cartographie.js` reçoit :
+- **12 concepts** : `violences_conj_hommes`, `salles_shoot`, `delinquants_jeunes`, `trump_washington`, `tva_sociale`, `otan_sortie`, `journalistes_gauche`, `fonctionnaires_ue`, `harcelement_rue`, `hartz`, `prieres_rue`, `politique_familiale` ;
+- **leurs domaines** et **des arguments placés en tête** (un par concept, plus trois variantes de `harcelement_rue` avec les concepts voisins `femmes`, `feminisme` et `femmes_sortir`, pour que « le harcèlement de rue est une invention des féministes » ne mène plus à la fiche sur les femmes et les migrants ; une phrase sur le harcèlement de rue et les migrants mène toujours à `femmes-sortir-soir-migrants`).
+- L'argument `otan_sortie` départage entre `rn-sortie-otan` (RN, Le Pen, Bardella) et `lfi-sortie-otan` (LFI, Mélenchon, gauche). Il exige un verbe de sortie (« sortir », « quitter »…) ou « sans l'OTAN », pour ne pas capter « C'est l'OTAN qui a provoqué la guerre en Ukraine » (`otan-provoque-guerre-ukraine`).
+- Deux concepts essayés puis retirés : `numerus_clausus` et `traite_arabe`, qui faisaient perdre leur fiche à deux phrases de contrôle (« La gauche veut forcer les médecins à s'installer à la campagne », « … ce sont des Africains qui vendaient les esclaves »).
+
+Comparaison avant/après sur 547 phrases de contrôle (affirmations de la bibliothèque et questions numérotées de ce journal) : seules changent les phrases du jour, chacune vers sa nouvelle fiche, et « Le RN veut sortir la France de l'OTAN », que la nouvelle fiche `lfi-sortie-otan` avait captée par ses mots-clés et qui revient à `rn-sortie-otan`. Aucune autre phrase ne change.
+
+Variantes familières vérifiées (toutes mènent à la bonne fiche) : « Hollande a supprimé des flics » ; « On parle jamais des hommes battus » ; « Depuis la salle de shoot le quartier est foutu » ; « Maintenant c'est des gamins de 12 ans qui dealent » ; « Il faut un Hartz IV à la française » ; « Il faut baisser les charges et monter la TVA » ; « Les eurocrates sont exonérés d'impôts » ; « Trump a nettoyé Washington avec l'armée » ; « Le vendredi, les rues sont bloquées par les musulmans qui prient » ; « Siffler une fille, c'est pas du harcèlement » ; « Hollande a tué les allocs et on fait plus de bébés » ; « Les journalistes, c'est tous des gauchos » ; « Mélenchon veut nous sortir de l'OTAN » ; « Londres paie nos flics pour garder sa frontière » ; « Macron a dissous pour mettre Bardella à Matignon ».
+Limite : « La délinquance des mineurs explose » mène toujours à `excuse-de-minorite` (fiche voisine sur la justice des mineurs), laissée telle quelle.
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`), volontairement laissées sans.
+
+**Questions écartées pour sources invérifiables : aucune.** (Des éléments ont été écartés à l'intérieur des fiches faute de source lue : rôle de la Commission européenne et de l'Italie dans le débat sur le Nutri-Score, bilans annuels 2025-2026 de la criminalité à Washington, retour de la France dans le commandement intégré de l'OTAN.)
+
+**Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique, comme aux passages précédents. Aucun chiffre n'a été relevé. `public/js/soutien.js` est inchangé (45 € / mois, 11 tipeurs, relevé du 11 novembre).
+
+**Corrections après un premier `npm test`.**
+- La fiche `lfi-sortie-otan` portait la rubrique `melenchon-lfi`, réservée aux fiches « réponse à une critique » en cinq parties : rubrique retirée (comme pour les autres fiches LFI des passages quotidiens).
+- La question suggérée « De combien la France s'est-elle déjà réchauffée ? » menait à `aide-autorite-palestinienne`, puis à `royaume-uni-paie-calais`, à cause de mots-clés contenant « combien » : ces mots-clés ont été reformulés ; la question ne mène plus à une fiche hors sujet.
+
+**Vérifications.** `npm test` : 493 tests, 493 réussis, après les corrections ci-dessus. Tests de bout en bout : 46 tests, 46 réussis.

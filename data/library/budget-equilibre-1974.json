@@ -1,0 +1,224 @@
+{
+  "id": "budget-equilibre-1974",
+  "type": "idee_recue",
+  "affirmation": "La France n'a pas voté un budget à l'équilibre depuis 1974.",
+  "volet": "economie",
+  "sous_theme": "Déficit public",
+  "rubriques": [],
+  "mots_cles": [
+    "budget equilibre depuis 1974",
+    "pas de budget a l equilibre",
+    "deficit depuis 1974",
+    "la france vit a credit",
+    "dette publique france",
+    "deficit public 2025",
+    "dernier excedent budgetaire",
+    "on depense plus qu on gagne",
+    "etat en faillite",
+    "deficit chaque annee"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Exact sur le fait, trompeur sur ce qu'on en conclut. Selon la Banque de France, 1974 est la dernière année d'excédent des comptes publics : la France est en déficit chaque année depuis 1975. Mais le déficit est surtout celui de l'État (-128 milliards en 2025, selon l'Insee), alors que la Sécurité sociale était encore excédentaire en 2024 ; il s'est creusé par paliers lors des récessions (2008, Covid) ; et un déficit finance aussi de l'investissement. La vraie question n'est pas le principe du déficit, mais son niveau, son usage et qui paie l'effort.",
+  "contexte": "L'argument circule pour présenter la France comme un pays « en faillite », justifier des coupes dans les dépenses sociales ou dénoncer « l'assistanat ». Il revient à chaque débat budgétaire, notamment depuis que la France est sous procédure de déficit excessif.",
+  "explication": "On vérifie la date de 1974, puis on décompose le déficit actuel par type d'administration, on regarde comment il s'est creusé et à quoi sert la dépense publique.",
+  "faits": [
+    {
+      "fait": "Selon la Banque de France, 1974 est « la dernière année dans laquelle on a eu un excédent budgétaire » et la France est en déficit chaque année depuis 1975 ; en 1974, dépenses et recettes publiques représentaient environ 41,5 % du PIB.",
+      "periode": "1974-2025",
+      "perimetre": "France, administrations publiques",
+      "explication": "Le fait de base est exact : il n'y a pas eu d'excédent public depuis cinquante ans.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1974"
+    },
+    {
+      "fait": "Selon l'Insee, le déficit public s'élève en 2025 à 152,5 milliards d'euros, soit 5,1 % du PIB, après 5,8 % en 2024 ; la dette atteint 3 460,5 milliards, soit 115,6 % du PIB.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le déficit reste élevé, mais il a baissé en 2025.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "5,1 % du PIB"
+    },
+    {
+      "fait": "Selon l'Insee, l'État porte l'essentiel du déficit en 2025 (-128,1 milliards d'euros), loin devant les collectivités locales (-15,6 milliards) et la Sécurité sociale (-6,7 milliards), qui était encore excédentaire en 2024 (+1,1 milliard).",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "Parler d'un pays qui « vit à crédit » cache que le déficit se concentre sur le budget de l'État ; les collectivités, elles, ne peuvent emprunter que pour investir.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "-128,1 Md€"
+    },
+    {
+      "fait": "Selon l'Insee, la dépense d'investissement public a augmenté de 4,7 milliards d'euros en 2025 ; l'investissement des collectivités locales atteint 70,7 milliards.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Une partie de la dépense publique finance des écoles, des transports ou des réseaux qui serviront aux générations futures.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "70,7 Md€"
+    },
+    {
+      "fait": "Selon la Fondation Jean-Jaurès, le déficit s'est creusé par épisodes, notamment lors de la récession de 2008 et de la crise du Covid-19, avec un « effet cliquet » qui empêche de revenir au niveau antérieur.",
+      "periode": "1975-2024",
+      "perimetre": "France",
+      "explication": "Les crises font chuter les recettes et augmenter les dépenses de protection : le déficit joue alors un rôle d'amortisseur.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon la Cour des comptes, la baisse du déficit en 2025 tient surtout à des hausses d'impôts, et la charge d'intérêts (65,7 milliards d'euros en 2025) a fait de la dette « le premier budget de l'État ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La charge de la dette pèse réellement : chaque euro d'intérêt est un euro qui ne va pas aux services publics.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "65,7 Md€"
+    },
+    {
+      "fait": "Fait défavorable : selon la Cour des comptes, la France est « la seule parmi les pays endettés de la zone euro » à ne pas avoir réduit son ratio d'endettement depuis la crise sanitaire, avec une dette à un niveau « inédit ».",
+      "periode": "2020-2025",
+      "perimetre": "Zone euro",
+      "explication": "L'inquiétude sur la dette n'est pas inventée ; le débat porte sur la manière de la réduire et sur qui doit contribuer.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est vrai : selon la Banque de France, le dernier excédent public date de 1974. Mais le déficit est surtout celui de l'État (-128 milliards en 2025), la Sécurité sociale était encore excédentaire en 2024, il s'est creusé lors des crises, et une partie finance de l'investissement. La question n'est pas « déficit ou pas », mais pour quoi faire et qui paie.",
+    "moyen": "Le chiffre est exact : selon la Banque de France, 1974 est la dernière année d'excédent, et la France est en déficit chaque année depuis 1975. En 2025, selon l'Insee, le déficit atteint 152,5 milliards d'euros, soit 5,1 % du PIB, et la dette 115,6 % du PIB. La Cour des comptes souligne que la charge d'intérêts est devenue le premier budget de l'État.\n\nMais ce chiffre ne prouve pas que « la France dépense trop pour les autres ». L'essentiel du déficit est celui de l'État (-128 milliards en 2025), alors que la Sécurité sociale était excédentaire en 2024. Le déficit s'est creusé par paliers lors des crises, quand les recettes s'effondrent et que la protection sociale amortit le choc. Et une partie de la dépense finance de l'investissement : 70,7 milliards pour les seules collectivités en 2025. Le débat légitime porte sur le niveau du déficit et sur la justice de l'effort, pas sur un équilibre à tout prix.",
+    "detaille": "Commençons par le fait. Selon la Banque de France, 1974 est « la dernière année dans laquelle on a eu un excédent budgétaire » ; depuis 1975, les comptes publics sont chaque année en déficit. En 1974, dépenses et recettes publiques représentaient environ 41,5 % du PIB ; en 2024, les dépenses atteignaient 57,1 % et les recettes 51,3 %.\n\nLa situation actuelle est sérieuse. Selon l'Insee, le déficit public était de 152,5 milliards d'euros en 2025 (5,1 % du PIB, après 5,8 % en 2024) et la dette de 3 460,5 milliards (115,6 % du PIB). Selon la Cour des comptes, la charge d'intérêts a atteint 65,7 milliards et la France est le seul pays endetté de la zone euro à ne pas avoir réduit son ratio de dette depuis la crise sanitaire.\n\nMais le chiffre de 1974 dit peu de choses à lui seul. D'abord, le déficit est concentré sur l'État : -128,1 milliards en 2025, contre -15,6 milliards pour les collectivités et -6,7 milliards pour la Sécurité sociale, qui était excédentaire en 2024. Ensuite, il s'est creusé par paliers lors des crises, en particulier la récession de 2008 et le Covid-19 : quand l'activité chute, les recettes baissent et les dépenses de protection augmentent, ce qui évite un effondrement bien pire. Enfin, une partie de la dépense prépare l'avenir : l'investissement public a encore augmenté en 2025, et les besoins pour la transition énergétique sont massifs.\n\nUn ménage ou une entreprise emprunte aussi pour investir sans être « en faillite ». La question politique est donc : quelles dépenses protéger, et qui doit contribuer au redressement ? La Cour des comptes elle-même constate que la baisse du déficit de 2025 vient surtout de hausses d'impôts ; la gauche défend que l'effort repose sur les plus hauts revenus et patrimoines plutôt que sur les services publics et les plus modestes.",
+    "empathie": "Entendre que l'État vit à crédit depuis cinquante ans inquiète, surtout quand on fait soi-même attention à chaque dépense. Cette inquiétude pour les générations futures est légitime."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La France est en faillite.",
+      "reponse": "Un État qui lève l'impôt et emprunte pour investir n'est pas une entreprise en faillite. La dette est élevée et sa charge augmente, mais la question est de savoir comment la réduire de façon juste, pas de paniquer."
+    },
+    {
+      "objection": "C'est la faute des aides sociales.",
+      "reponse": "En 2025, le déficit est surtout celui de l'État (-128 milliards) ; la Sécurité sociale était excédentaire en 2024, selon l'Insee. Et les crises, pas les allocations, expliquent les grands sauts du déficit."
+    },
+    {
+      "objection": "Il suffit de couper dans les dépenses pour revenir à l'équilibre.",
+      "reponse": "Les dépenses incluent l'investissement, l'école, la santé ; la Cour des comptes elle-même recommande une consolidation « choisie plutôt que subie », qui limite les coûts économiques et sociaux."
+    }
+  ],
+  "questions": [
+    "Pour toi, quelles dépenses publiques faudrait-il absolument protéger ?",
+    "Qui devrait contribuer le plus au redressement des comptes ?"
+  ],
+  "limites": [
+    "Aucune série statistique longue de l'Insee remontant à 1974 n'a été lue directement : la date de 1974 repose sur la Banque de France (transcription d'un épisode pédagogique).",
+    "La fiche FIPECO et les fiches de Vie publique sur le déficit n'ont pas pu être ouvertes (accès refusé aux outils de lecture) ; un rapport du Sénat repéré n'a pas pu être ouvert.",
+    "Les chiffres de la charge d'intérêts diffèrent légèrement entre l'Insee (64,7 Md€) et la Cour des comptes (65,7 Md€), selon le périmètre retenu.",
+    "L'expression « voter un budget » vise en principe la loi de finances de l'État ; les sources lues parlent du solde de l'ensemble des administrations publiques."
+  ],
+  "sources": [
+    {
+      "titre": "Dialogue & co, épisode 6 : Les dépenses et la dette publiques (1/2) — Déficit, dette : comment ont-ils évolué dans le temps ?",
+      "organisme": "Banque de France",
+      "date_publication": "enregistré le 29 avril 2025",
+      "url": "https://www.banque-france.fr/system/files/2025-06/Dialogue%26co_Saison1_Ep6.pdf",
+      "passage": "Corentin Deredec, macroéconomiste : 1974 est « la dernière année dans laquelle on a eu un excédent budgétaire », dépenses et recettes publiques représentant alors environ 41,5 % du PIB ; la France « depuis 1975, est en déficit ». En 2024, les dépenses atteignaient 57,1 % du PIB et les recettes 51,3 %, soit un déficit de 5,8 % du PIB.",
+      "pertinence": "Transcription d'un épisode pédagogique de la Banque de France.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "En 2025, le déficit public s'établit à 5,1 % du PIB, la dette publique à 115,6 % du PIB (Informations rapides n° 78)",
+      "organisme": "Insee",
+      "date_publication": "27 mars 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8956575",
+      "passage": "Déficit public 2025 : 152,5 Md€, soit 5,1 % du PIB (5,8 % en 2024, 5,4 % en 2023). Dette au sens de Maastricht : 3 460,5 Md€, 115,6 % du PIB. Solde 2025 : État -128,1 Md€ ; organismes divers d'administration centrale -2,1 Md€ ; administrations publiques locales -15,6 Md€ ; administrations de sécurité sociale -6,7 Md€. Charges d'intérêts : 64,7 Md€, 2,2 % du PIB.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le compte des administrations publiques en 2025 (Insee Première n° 2106)",
+      "organisme": "Insee",
+      "date_publication": "mai 2026",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/version-html/8997691/ip2106.pdf",
+      "passage": "Le solde de l'État « s'établit ainsi à -128,1 Md€ (après -151,1 Md€ en 2024) » ; celui des administrations de sécurité sociale « devient déficitaire à -6,7 Md€ (après +1,1 Md€ en 2024) ». La dépense d'investissement augmente de 4,7 Md€ (+3,7 %) en 2025 ; l'investissement des collectivités locales atteint 70,7 Md€.",
+      "pertinence": "Statistique publique de référence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La situation et les perspectives des finances publiques (2026)",
+      "organisme": "Cour des comptes",
+      "date_publication": "25 juin 2026",
+      "url": "https://www.ccomptes.fr/fr/publications/la-situation-et-les-perspectives-des-finances-publiques-17",
+      "passage": "La baisse du déficit 2025 (152,5 Md€) tient surtout à des hausses d'impôts ; la charge d'intérêts atteint 65,7 Md€ en 2025 et la dette est « devenue le premier budget de l'État » ; la dette (115,7 points de PIB) atteint un niveau « inédit ». La France est « la seule parmi les pays endettés de la zone euro » à ne pas avoir réduit son ratio d'endettement depuis la crise sanitaire. La Cour recommande de privilégier une consolidation « choisie plutôt que subie ».",
+      "pertinence": "Page de présentation du rapport annuel de la Cour des comptes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Déficit, dette : une voie progressiste pour redresser les finances publiques",
+      "organisme": "Fondation Jean-Jaurès",
+      "date_publication": "23 janvier 2025",
+      "url": "https://www.jean-jaures.org/publication/deficit-dette-une-voie-progressiste-pour-redresser-les-finances-publiques/",
+      "passage": "Les administrations publiques ont un « solde constamment négatif » depuis 1975 ; l'auteur distingue cinq épisodes de creusement du déficit, dont « la récession de 2008 due à la crise des subprimes » et la récession liée au Covid-19, suivis d'un « effet cliquet ». « Les besoins en investissements publics sont … massifs » (25 à 34 Md€ par an pour la transition énergétique). La dette est passée de 21,4 % du PIB en 1978 à 110,6 % fin 2023.",
+      "pertinence": "Note d'un think tank social-démocrate (Simon-Pierre Sengayrac).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-04-30",
+  "raison_actualisation": "Comptes des administrations publiques 2026 publiés par l'Insee au printemps 2027.",
+  "objections_legitimes": [
+    "La France n'a effectivement pas connu d'excédent public depuis 1974, selon la Banque de France.",
+    "La charge de la dette augmente fortement et pèse sur le budget de l'État, selon la Cour des comptes.",
+    "La France est le seul grand pays endetté de la zone euro à ne pas avoir réduit sa dette depuis le Covid, selon la Cour des comptes."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur la date : selon la Banque de France, le dernier excédent public remonte à 1974. Mais regarde les chiffres de l'Insee : le déficit vient surtout du budget de l'État, pas de la Sécurité sociale, qui était même excédentaire en 2024. Ce sont les crises qui ont creusé le trou, pas les allocations.",
+    "indecis": "La dette inquiète, et c'est normal : selon la Cour des comptes, sa charge est devenue le premier budget de l'État. Mais un déficit n'est pas forcément du gaspillage : il amortit les crises et finance aussi des investissements. La vraie question est de savoir quelles dépenses protéger et qui doit payer l'effort."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "repartition",
+      "solidarite"
+    ],
+    "mecanismes": "Un fait exact, l’absence d’excédent depuis le milieu des années soixante-dix, est utilisé pour suggérer une faillite et désigner la dépense sociale comme coupable, en mélangeant budget de l’État, Sécurité sociale, collectivités, crises et investissement.",
+    "consequences": "Le discours de la faillite sert à justifier des coupes dans les services publics et les prestations, qui frappent d’abord les ménages modestes, alors que les crises et les choix fiscaux expliquent une grande part des déficits.",
+    "democratie": "Présenter l’équilibre budgétaire comme une contrainte technique retire du débat démocratique la vraie question : quelles dépenses protéger et qui doit contribuer.",
+    "propositions": [
+      "Protéger l’investissement public et les services publics dans toute trajectoire de redressement",
+      "Faire porter l’effort sur les plus hauts revenus et patrimoines",
+      "Évaluer et réduire les aides publiques aux entreprises sans contrepartie"
+    ],
+    "defavorables": [
+      {
+        "fait": "La Cour des comptes note que la France est le seul pays endetté de la zone euro à ne pas avoir réduit sa dette depuis la crise sanitaire et que la charge d’intérêts est devenue le premier budget de l’État.",
+        "integration": "La gauche ne nie pas le problème de la dette : elle refuse que les plus modestes en paient seuls le prix et défend un redressement par la justice fiscale."
+      }
+    ]
+  },
+  "concepts": [
+    "cout",
+    "dette"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "cout",
+    "couts",
+    "une fortune",
+    "rapportent",
+    "finances publiques",
+    "pognon",
+    "nos impots",
+    "dette",
+    "deficit",
+    "faillite",
+    "depenses publiques",
+    "argent public"
+  ]
+}

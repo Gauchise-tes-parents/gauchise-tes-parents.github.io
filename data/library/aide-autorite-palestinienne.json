@@ -1,0 +1,256 @@
+{
+  "id": "aide-autorite-palestinienne",
+  "type": "idee_recue",
+  "affirmation": "La France donne des milliards à l'Autorité palestinienne.",
+  "volet": "international",
+  "sous_theme": "Palestine et Israël",
+  "rubriques": [],
+  "mots_cles": [
+    "la france donne des milliards aux palestiniens",
+    "aide autorite palestinienne",
+    "argent francais palestine",
+    "pegase union europeenne",
+    "on finance le hamas",
+    "aide humanitaire gaza france",
+    "on donne des milliards aux palestiniens",
+    "salaires autorite palestinienne",
+    "pay to slay",
+    "aide publique au developpement palestine"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La France aide les Palestiniens, mais en millions, pas en milliards : 100 millions d'euros de contribution humanitaire annoncés pour 2025, surtout pour Gaza, et des aides budgétaires de quelques millions, par exemple 8 millions en 2023 pour des allocations aux familles pauvres. Les « milliards » viennent d'ailleurs : plus de 3 milliards versés via le mécanisme européen PEGASE depuis 2008, tous contributeurs confondus, ou 1,6 milliard d'euros sur deux ans annoncés par l'UE en 2025. Ces fonds paient des salaires, des allocations et des soins, avec des audits indépendants avant et après versement.",
+  "contexte": "L'idée que la France « finance » l'Autorité palestinienne, voire le Hamas, circule à chaque regain du conflit et plus encore depuis le 7 octobre 2023. Elle mélange aide humanitaire, aide européenne et soutien au budget de l'Autorité.",
+  "explication": "On distingue l'aide humanitaire de la France, son soutien au budget de l'Autorité palestinienne, l'aide de l'Union européenne financée par tous les États membres, et les contrôles qui encadrent ces versements.",
+  "faits": [
+    {
+      "fait": "Selon l'Élysée (11 novembre 2025), la France « contribuera une nouvelle fois à hauteur de 100 millions d'euros à la réponse humanitaire pour 2025 », avec des livraisons de compléments alimentaires, de médicaments et d'équipements médicaux ; l'aide budgétaire bilatérale à l'Autorité est évoquée sans montant.",
+      "periode": "2025",
+      "perimetre": "Territoires palestiniens",
+      "explication": "L'ordre de grandeur de l'effort français est la centaine de millions, essentiellement humanitaire.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "100 millions"
+    },
+    {
+      "fait": "Selon des députés du groupe LFI-NFP, dans un amendement rejeté en octobre 2024, la France avait porté son aide à la Palestine à 100 millions d'euros en 2023.",
+      "periode": "2023",
+      "perimetre": "Territoires palestiniens",
+      "explication": "Même ceux qui demandaient plus d'aide parlaient de 100 millions par an, pas de milliards.",
+      "source": 6,
+      "fiabilite": "estimation",
+      "chiffre": "100 millions"
+    },
+    {
+      "fait": "Selon l'Union européenne (avril 2023), la France a apporté 8 millions d'euros à une enveloppe de 26,3 millions destinée aux allocations sociales de 106 596 familles palestiniennes vulnérables, versées via le mécanisme PEGASE ; les familles bénéficiaires sont vérifiées par les auditeurs de PEGASE.",
+      "periode": "2023",
+      "perimetre": "Cisjordanie et Gaza",
+      "explication": "Le soutien français au budget palestinien se compte en millions et vise des familles pauvres identifiées.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "8 millions"
+    },
+    {
+      "fait": "Selon un amendement de sénateurs écologistes rejeté en décembre 2025, ajouter 4 millions d'euros à la contribution française au fonds fiduciaire de la Banque mondiale pour les Territoires palestiniens représentait « une hausse de 50 % de l’enveloppe initialement prévue ».",
+      "periode": "2026",
+      "perimetre": "Territoires palestiniens",
+      "explication": "Les lignes budgétaires françaises consacrées à l'Autorité palestinienne sont de l'ordre de quelques millions.",
+      "source": 5,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Union européenne, plus de 3 milliards d'euros ont été décaissés via le mécanisme européen PEGASE depuis février 2008 ; selon Euronews, l'UE a annoncé en avril 2025 un programme de 1,6 milliard d'euros sur deux ans, dont environ 576 millions pour l'Autorité palestinienne.",
+      "periode": "2008-2025",
+      "perimetre": "Union européenne",
+      "explication": "Des milliards existent bien, mais à l'échelle européenne, sur de longues périodes, et financés par tous les États membres, pas par la France seule.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "3 milliards"
+    },
+    {
+      "fait": "Selon la Commission européenne (mai 2024), les fonds PEGASE paient une partie des salaires et pensions des fonctionnaires de Cisjordanie, des allocations aux familles vulnérables et des soins dans les hôpitaux de Jérusalem-Est, avec un contrôle des bénéficiaires avant et après versement par un cabinet d'audit indépendant, renforcé après le 7 octobre 2023.",
+      "periode": "2024",
+      "perimetre": "Cisjordanie",
+      "explication": "Cet argent finance des infirmiers, des enseignants et des familles pauvres, sous contrôle extérieur.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministre Jean-Noël Barrot devant la commission des affaires étrangères de l'Assemblée nationale (octobre 2024), la conférence humanitaire organisée par la France un mois après le 7 octobre 2023 « a permis de lever 1 milliard d'euros », tous donateurs confondus.",
+      "periode": "2023",
+      "perimetre": "Gaza",
+      "explication": "Le milliard souvent cité est la somme de nombreux pays, pas une dépense française.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "1 milliard"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Élysée, Mahmoud Abbas a confirmé en novembre 2025 « l'abrogation du système de paiement aux prisonniers » et le lancement d'un audit indépendant, ce qui montre que ce système, critiqué par de nombreux pays, existait jusque-là.",
+      "periode": "2025",
+      "perimetre": "Territoires palestiniens",
+      "explication": "Les inquiétudes sur l'usage de certains fonds palestiniens étaient fondées ; elles justifient des contrôles, pas l'abandon des civils.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non, pas des milliards. La France a annoncé 100 millions d'euros d'aide humanitaire pour 2025, et son soutien direct au budget de l'Autorité palestinienne se compte en millions, par exemple 8 millions en 2023 pour des familles pauvres. Les milliards cités sont ceux de l'Union européenne, sur plus de quinze ans et pour tous les États membres, avec des audits indépendants.",
+    "moyen": "La France aide les Palestiniens, mais à une autre échelle. L'Élysée a annoncé 100 millions d'euros de contribution humanitaire pour 2025, pour l'essentiel de la nourriture, des médicaments et des équipements médicaux. Le soutien direct au budget de l'Autorité palestinienne se compte en millions : 8 millions en 2023 pour les allocations de familles pauvres, selon l'Union européenne, ou quelques millions au fonds de la Banque mondiale.\n\nLes « milliards » viennent de l'Union européenne : plus de 3 milliards versés via le mécanisme PEGASE depuis 2008, et 1,6 milliard annoncé en 2025 sur deux ans, financés par tous les États membres. Cet argent paie des salaires de fonctionnaires, des allocations et des soins, avec des contrôles par un cabinet d'audit indépendant avant et après versement. Et l'Autorité palestinienne s'est engagée en 2025 à supprimer les paiements aux prisonniers.",
+    "detaille": "Il faut d'abord distinguer trois choses : l'aide humanitaire, qui passe surtout par des agences et des ONG ; le soutien au budget de l'Autorité palestinienne, qui gouverne une partie de la Cisjordanie ; et l'aide de l'Union européenne, à laquelle la France contribue parmi vingt-sept États.\n\nPour la France, les montants lus sont de l'ordre de la centaine de millions par an au total. L'Élysée a annoncé en novembre 2025 que la France contribuerait « une nouvelle fois à hauteur de 100 millions d'euros à la réponse humanitaire pour 2025 ». Le soutien budgétaire direct est bien plus modeste : 8 millions d'euros en 2023 pour les allocations sociales de familles vulnérables, selon l'UE ; et une contribution au fonds de la Banque mondiale qu'un amendement proposait d'augmenter de 4 millions, soit 50 % de plus. La conférence organisée par la France après le 7 octobre 2023 a levé 1 milliard d'euros, mais auprès de tous les donateurs.\n\nLes milliards existent à l'échelle européenne. Plus de 3 milliards d'euros ont été versés via le mécanisme PEGASE depuis 2008, et l'UE a annoncé en 2025 un programme de 1,6 milliard sur deux ans, dont environ 576 millions pour l'Autorité palestinienne. Selon la Commission européenne, cet argent paie une partie des salaires et pensions des fonctionnaires de Cisjordanie, des allocations aux familles pauvres et des soins hospitaliers, avec un contrôle des bénéficiaires par un cabinet d'audit indépendant, renforcé après le 7 octobre.\n\nLes critiques sur certains usages ne sont pas inventées : l'Autorité palestinienne versait des allocations aux prisonniers, système qu'elle s'est engagée à abroger en novembre 2025 sous audit indépendant. Exiger des contrôles est légitime. Mais l'Autorité palestinienne n'est pas le Hamas, et couper l'aide reviendrait à priver d'hôpitaux, d'écoles et de revenus une population civile déjà dévastée.",
+    "empathie": "Il est normal de vouloir savoir où va l'argent public, surtout dans une région en guerre. La question des contrôles est légitime et mérite des chiffres précis."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Cet argent finance le Hamas.",
+      "reponse": "L'Autorité palestinienne n'est pas le Hamas. Selon la Commission européenne, les fonds PEGASE paient des salaires, des allocations et des soins en Cisjordanie, avec un contrôle des bénéficiaires par un cabinet d'audit indépendant."
+    },
+    {
+      "objection": "On ferait mieux de donner cet argent aux Français.",
+      "reponse": "Les montants lus sont de l'ordre de 100 millions d'euros par an pour la France, surtout humanitaires ; c'est un choix de solidarité, pas la cause des difficultés des Français."
+    },
+    {
+      "objection": "Ils paient les terroristes avec notre argent.",
+      "reponse": "Ce système d'allocations aux prisonniers a existé ; l'Autorité palestinienne a confirmé son abrogation en novembre 2025, avec un audit indépendant. Les fonds européens, eux, sont contrôlés bénéficiaire par bénéficiaire."
+    }
+  ],
+  "questions": [
+    "Sais-tu combien la France a annoncé pour l'aide humanitaire aux Palestiniens en 2025 ?",
+    "Si on coupe l'aide, qui paiera les infirmiers de Cisjordanie et les allocations des familles les plus pauvres ?"
+  ],
+  "limites": [
+    "Aucun total officiel consolidé de l'aide française aux Palestiniens (toutes formes) n'a pu être lu : les pages de l'AFD, de Vie publique et les données de l'OCDE n'ont pas pu être ouvertes, et aucun rapport de la Cour des comptes sur le sujet n'a été trouvé.",
+    "Le chiffre de 100 millions d'euros pour 2023 vient de l'exposé d'un amendement d'un groupe politique ; celui de 2025 est une annonce de l'Élysée, pas un montant exécuté.",
+    "Le montant de base de la contribution française au fonds de la Banque mondiale n'est pas écrit dans l'amendement lu (il se déduit d'une hausse de 50 %).",
+    "Les communiqués européens ont été lus en anglais ; le programme de 1,6 milliard est rapporté par Euronews.",
+    "La réponse du gouvernement à la question écrite n° 15669 (juin 2026) sur les paiements aux prisonniers n'était pas disponible."
+  ],
+  "sources": [
+    {
+      "titre": "Entretien avec Mahmoud Abbas, président de l'État de Palestine",
+      "organisme": "Présidence de la République (elysee.fr)",
+      "date_publication": "11 novembre 2025",
+      "url": "https://www.elysee.fr/emmanuel-macron/2025/11/11/entretien-avec-mahmoud-abbas-president-de-letat-de-palestine",
+      "passage": "La France « contribuera une nouvelle fois à hauteur de 100 millions d'euros à la réponse humanitaire pour 2025 », avec des livraisons d'urgence de « plusieurs centaines de tonnes » de compléments alimentaires, médicaments et équipements médicaux. L'aide budgétaire bilatérale et une coalition d'urgence pour la soutenabilité financière de l'Autorité sont évoquées sans montant. Mahmoud Abbas a confirmé « l'abrogation du système de paiement aux prisonniers » et le lancement d'un audit indépendant ; « aucun versement ne serait plus effectué dans ce cadre ». Réforme des manuels scolaires pour exclure « tout discours de haine conformément aux standards de l'UNESCO ».",
+      "pertinence": "Communiqué officiel de la présidence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "EU, France and Spain provide €26 million for the payment of social allowances to poor Palestinian families",
+      "organisme": "Union européenne, Service européen pour l’action extérieure (délégation auprès des Palestiniens), eeas.europa.eu",
+      "date_publication": "17 avril 2023",
+      "url": "https://www.eeas.europa.eu/delegations/palestine-occupied-palestinian-territory-west-bank-and-gaza-strip/eu-france-and-spain-provide-%E2%82%AC26-million-payment-social-allowances-poor-palestinian-families_en",
+      "passage": "Contribution totale de 26,3 millions d'euros, dont 8 millions de la France et 1,5 million de l'Espagne, pour les allocations sociales de 106 596 familles vulnérables (70 108 financées par PEGASE). Plus de 3 milliards d'euros ont été décaissés via PEGASE depuis février 2008. Les familles sont « verified by the PEGASE auditors to ensure their eligibility » ; « Various independent and external checks are carried out before and after the European disbursement. »",
+      "pertinence": "Communiqué officiel de l'Union européenne (lu en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Commission disburses €25 million to the Palestinian Authority and €16 million to UNRWA",
+      "organisme": "Commission européenne, direction générale du voisinage",
+      "date_publication": "31 mai 2024",
+      "url": "https://enlargement.ec.europa.eu/news/commission-disburses-eu25-million-palestinian-authority-and-eu16-million-unrwa-2024-05-31_en",
+      "passage": "25 millions d'euros pour l'Autorité palestinienne, deuxième tranche d'un paquet de 118,4 millions adopté en décembre 2023. Via PEGASE, les fonds paient une partie des salaires et pensions des fonctionnaires en Cisjordanie, des allocations aux familles vulnérables et des soins dans les hôpitaux de Jérusalem-Est, avec un « robust ex ante and ex post screening of beneficiaries carried out by an independent audit company » ; contrôle renforcé après le 7 octobre 2023.",
+      "pertinence": "Communiqué officiel de la Commission européenne (lu en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'UE dévoile une aide de 1,6 milliard d'euros pour des projets en Cisjordanie et à Gaza",
+      "organisme": "Euronews",
+      "date_publication": "15 avril 2025",
+      "url": "https://fr.euronews.com/2025/04/15/lue-devoile-une-aide-de-16-milliard-deuros-pour-des-projets-en-cisjordanie-et-a-gaza",
+      "passage": "Programme européen de 1,6 milliard d'euros sur deux ans : environ 576 millions de soutien à l'Autorité palestinienne, 400 millions de prêts au secteur privé, 82 millions pour l'UNRWA. La commissaire Dubravka Šuica souhaite une Autorité « réformée et fonctionnant correctement ».",
+      "pertinence": "Chaîne d'information européenne.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Compte rendu — audition de M. Jean-Noël Barrot, ministre de l'Europe et des affaires étrangères",
+      "organisme": "Assemblée nationale, commission des affaires étrangères",
+      "date_publication": "15 octobre 2024",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/comptes-rendus/cion_afetr/l17cion_afetr2425005_compte-rendu.pdf",
+      "passage": "« Nous avons organisé, un mois après le 7 octobre 2023, une conférence de soutien qui a permis de lever 1 milliard d'euros ». La France entend « soutenir directement l'Autorité palestinienne, grâce aux crédits que vous serez amenés à voter » (sans montant).",
+      "pertinence": "Compte rendu officiel (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Amendement n° II-1658 au projet de loi de finances pour 2026 (mission « Aide publique au développement »)",
+      "organisme": "Sénat (amendement de sénateurs écologistes, rejeté)",
+      "date_publication": "4 décembre 2025",
+      "url": "https://www.senat.fr/enseance/2025-2026/138/Amdt_II-1658.html",
+      "passage": "Proposition d'ajouter 4 millions d'euros à la « contribution de la France au fonds fiduciaire en faveur des Territoires palestiniens, géré par la Banque Mondiale », « soit une hausse de 50% de l’enveloppe initialement prévue ». Amendement rejeté, avis défavorables du Gouvernement et de la commission.",
+      "pertinence": "Document parlementaire officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Amendement n° II-AE32 au projet de loi de finances pour 2025 (mission « Action extérieure de l'État »)",
+      "organisme": "Assemblée nationale (amendement de députés du groupe LFI-NFP, rejeté)",
+      "date_publication": "18 octobre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0324C/CION_AFETR/AE32.pdf",
+      "passage": "Exposé sommaire : « La France a porté son aide à la Palestine à 100 Millions d'euros en 2023. » Les auteurs proposaient une « aide directe d'urgence à la Cisjordanie et à Gaza à hauteur de 200 Millions d'euros ». Amendement rejeté.",
+      "pertinence": "Amendement parlementaire (exposé des motifs d'un groupe politique).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Exécution de l'aide française et européenne pour 2025-2026 et vérification de l'abrogation des paiements aux prisonniers.",
+  "objections_legitimes": [
+    "L'argent public doit être contrôlé, a fortiori dans une zone de conflit.",
+    "L'Autorité palestinienne a longtemps versé des allocations aux prisonniers, ce qui a suscité de vives critiques internationales.",
+    "L'aide européenne aux Palestiniens représente bien des milliards cumulés depuis 2008."
+  ],
+  "publics": {
+    "convaincus": "Regarde les chiffres officiels : l'Élysée annonce 100 millions d'euros d'aide humanitaire pour 2025, et le soutien direct au budget palestinien se compte en millions. Les milliards dont on parle, c'est l'Union européenne sur plus de quinze ans, pour tous les pays. Et cet argent paie des salaires d'infirmiers et des allocations, contrôlés par des auditeurs indépendants.",
+    "indecis": "Ta question sur l'usage de l'argent est légitime. La France aide surtout dans l'urgence humanitaire, de l'ordre de 100 millions d'euros en 2025, et son soutien au budget de l'Autorité palestinienne reste de quelques millions. L'aide européenne, plus importante, est contrôlée par des audits indépendants, et l'Autorité s'est engagée à supprimer les paiements aux prisonniers."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "dignite",
+      "internationalisme"
+    ],
+    "mecanismes": "Le chiffre de milliards additionne des aides européennes sur de longues périodes, des promesses de tous les donateurs et l’aide humanitaire, pour faire croire à une générosité démesurée de la France envers un camp.",
+    "consequences": "Cette confusion alimente les appels à couper l’aide, ce qui priverait des familles pauvres, des malades et des fonctionnaires palestiniens de revenus et de soins, et affaiblirait des institutions palestiniennes engagées à se réformer.",
+    "democratie": "L’argent public doit être contrôlé et transparent : les audits indépendants, les conditions de réforme et le débat budgétaire au Parlement sont la bonne réponse, pas la désinformation.",
+    "propositions": [
+      "Publier chaque année un bilan consolidé et lisible de l’aide française aux Palestiniens.",
+      "Maintenir l’aide humanitaire et sociale sous contrôle indépendant, en lien avec les engagements de réforme de l’Autorité palestinienne.",
+      "Agir pour une paix juste fondée sur le droit international et la reconnaissance de deux États."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’Autorité palestinienne a longtemps versé des allocations aux prisonniers, système qu’elle s’est engagée à abroger sous audit indépendant.",
+        "integration": "Les critiques étaient fondées et les contrôles nécessaires ; mais la réponse de gauche est d’exiger la transparence et la réforme, pas de punir une population civile déjà dévastée."
+      }
+    ]
+  },
+  "concepts": [
+    "salaires",
+    "prestations",
+    "europe",
+    "aide_dev",
+    "unrwa"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "droits sociaux",
+    "rsa",
+    "caf"
+  ]
+}

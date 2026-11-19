@@ -1,0 +1,251 @@
+{
+  "id": "tva-sociale",
+  "type": "idee_recue",
+  "affirmation": "Il faut une TVA sociale pour baisser le coût du travail.",
+  "volet": "economie",
+  "sous_theme": "Fiscalité",
+  "rubriques": [],
+  "mots_cles": [
+    "tva sociale",
+    "baisser le cout du travail",
+    "baisser les charges avec la tva",
+    "augmenter la tva",
+    "transferer les cotisations sur la tva",
+    "tva anti delocalisation",
+    "tva sociale 2012",
+    "tva sociale allemagne",
+    "charges patronales trop lourdes",
+    "salaire net tva"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "C'est un choix politique, pas une évidence économique. La TVA sociale consiste à baisser les cotisations sur le travail et à augmenter la TVA pour compenser. Ses effets sur l'emploi sont positifs mais modestes selon les études (le CEPII estimait au plus 60 000 emplois pour un allègement uniforme), elle fait monter les prix à la consommation et pèse davantage, en proportion de leurs revenus, sur les ménages modestes, selon le Conseil des prélèvements obligatoires. La France l'a votée en février 2012 puis abrogée en août 2012 ; l'Allemagne de 2007 a surtout utilisé sa hausse de TVA pour réduire son déficit.",
+  "contexte": "L'idée revient à l'approche de chaque élection. En 2026, François Hollande, le Medef et plusieurs responsables de droite et du centre la défendent, avec des variantes (baisse des cotisations patronales ou salariales). L'extrême droite l'a parfois présentée comme une « TVA anti-délocalisations ».",
+  "explication": "On rappelle le mécanisme, les expériences passées (France 2012, Allemagne 2007, Danemark 1987), les effets estimés sur l'emploi et les prix, puis qui paie.",
+  "faits": [
+    {
+      "fait": "Selon le projet de loi de finances rectificative de février 2012, la TVA sociale devait faire passer le taux normal de 19,6 % à 21,2 % au 1er octobre 2012, en échange d'une baisse des cotisations patronales d'allocations familiales.",
+      "periode": "2012",
+      "perimetre": "France",
+      "explication": "La France a déjà voté une TVA sociale, sous Nicolas Sarkozy.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "21,2 %"
+    },
+    {
+      "fait": "Selon la Banque des Territoires, la seconde loi de finances rectificative du 16 août 2012 a abrogé cette TVA sociale avant son entrée en vigueur.",
+      "periode": "2012",
+      "perimetre": "France",
+      "explication": "La mesure n'a jamais été appliquée : on ne peut pas en tirer de bilan français.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le CEPII (2007), un allègement de cotisations de 0,5 point de PIB financé par la TVA créerait de 150 000 à 230 000 emplois à dix ans s'il cible le travail peu qualifié, mais au plus 60 000 s'il est uniforme.",
+      "periode": "2007",
+      "perimetre": "France",
+      "explication": "Les effets sur l'emploi existent mais restent modestes, et dépendent fortement de la façon dont on cible la baisse.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "60 000 emplois"
+    },
+    {
+      "fait": "Selon le même CEPII, un point de TVA compensé par 1,5 point de cotisations ferait baisser les prix hors taxes de 0,3 % mais monter les prix à la consommation de 0,45 % ; les retraités et les épargnants seraient plus touchés.",
+      "periode": "2007",
+      "perimetre": "France",
+      "explication": "Ce que gagnent les entreprises, les consommateurs le paient en partie par les prix.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "0,45 %"
+    },
+    {
+      "fait": "Selon le CEPII, en Allemagne, seul un tiers de la hausse de trois points de TVA décidée pour 2007 a été affecté à la protection sociale : l'essentiel a servi à d'autres fins.",
+      "periode": "2007",
+      "perimetre": "Allemagne",
+      "explication": "L'exemple allemand est d'abord une hausse d'impôt sur la consommation, pas une pure TVA sociale.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Conseil des prélèvements obligatoires (2023), la TVA est « un impôt régressif » au regard du revenu disponible : son poids diminue quand le revenu augmente ; l'Insee note que cet effet est plus que compensé par les prestations sociales.",
+      "periode": "2015-2023",
+      "perimetre": "France",
+      "explication": "Augmenter la TVA pèse plus, en proportion, sur les ménages modestes, qui consomment tout leur revenu.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon un rapport du Sénat de 2004, la hausse de TVA de 1987 au Danemark a compensé la suppression de charges patronales sans hausse particulière de l'inflation ni des salaires, et la compétitivité des entreprises danoises a été préservée.",
+      "periode": "1987-2004",
+      "perimetre": "Danemark",
+      "explication": "Il existe un exemple jugé réussi, mais dans un pays au modèle social et économique très différent, ce que le rapport souligne lui-même.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon Public Sénat (septembre 2026), un sondage Elabe pour Les Échos indique que 54 % des Français sont opposés à une TVA sociale ; l'économiste Clément Carbonnier y voit « une forme d'antiredistribution ».",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La mesure est impopulaire et contestée par une partie des économistes.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "54 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est un choix politique discutable. Monter la TVA pour baisser les cotisations crée peu d'emplois (au plus 60 000 pour une baisse uniforme, selon le CEPII), fait monter les prix et pèse plus, en proportion, sur les ménages modestes, selon le Conseil des prélèvements obligatoires. Votée en février 2012, elle a été abrogée en août 2012.",
+    "moyen": "La TVA sociale consiste à baisser les cotisations sociales sur les salaires et à augmenter la TVA pour financer la Sécurité sociale. La France l'a votée en février 2012 (taux normal porté de 19,6 % à 21,2 %), puis abrogée en août 2012 avant son application.\n\nSes effets sur l'emploi sont modestes : selon le CEPII, un allègement uniforme financé par la TVA créerait au plus 60 000 emplois en dix ans, davantage s'il cible le travail peu qualifié. En revanche, les prix à la consommation montent, et la TVA pèse plus, en proportion de leurs revenus, sur les ménages modestes, selon le Conseil des prélèvements obligatoires. En Allemagne en 2007, seul un tiers de la hausse de TVA est allé à la protection sociale. Le Danemark de 1987 est cité comme un succès, mais dans un modèle social très différent.",
+    "detaille": "Le principe est simple : on baisse les cotisations sociales payées sur les salaires et on augmente la TVA pour compenser. Les défenseurs y voient une « dévaluation fiscale » : les produits fabriqués en France deviennent moins chers, les importations plus chères. En 2026, François Hollande propose 4 points de TVA en plus pour baisser les cotisations salariales, le Medef 2,3 points pour baisser les cotisations patronales.\n\nLes expériences sont rares. La France a voté une TVA sociale en février 2012 (taux normal de 19,6 % à 21,2 % au 1er octobre 2012, baisse des cotisations familiales patronales), abrogée en août 2012 avant d'être appliquée. L'Allemagne a relevé sa TVA de trois points en 2007, mais selon le CEPII, un tiers seulement a financé la baisse des cotisations. Le Danemark a basculé ses charges patronales vers la TVA en 1987 ; le Sénat jugeait en 2004 l'expérience réussie, tout en soulignant un modèle difficile à transposer.\n\nLes effets estimés sont limités. Selon le CEPII, un allègement de 0,5 point de PIB créerait de 150 000 à 230 000 emplois en dix ans s'il cible les bas salaires, mais au plus 60 000 s'il est uniforme ; et les prix à la consommation augmenteraient. Les gains de compétitivité seraient « très faibles » dans les secteurs haut de gamme, ceux qui sont le plus exposés à la concurrence.\n\nReste la question de qui paie. La TVA est régressive au regard du revenu, selon le Conseil des prélèvements obligatoires : les ménages modestes, qui consomment tout ce qu'ils gagnent, y consacrent une part plus grande de leurs revenus. Basculer le financement de la Sécurité sociale des salaires vers la consommation, c'est faire payer davantage les retraités, les chômeurs et les précaires. La gauche préfère faire contribuer les revenus du capital et cibler les aides aux entreprises sur l'emploi réel.",
+    "empathie": "Beaucoup de salariés trouvent l'écart entre brut et net trop grand, et beaucoup de petits patrons se sentent étranglés par les cotisations. Ces préoccupations sont réelles."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La TVA sociale, ce sont les importations qui la paient.",
+      "reponse": "Selon le CEPII, la hausse de TVA fait aussi monter les prix des produits français à la consommation : ce sont les consommateurs, et surtout les plus modestes en proportion de leurs revenus, qui paient."
+    },
+    {
+      "objection": "Ça a marché en Allemagne.",
+      "reponse": "En Allemagne, en 2007, seul un tiers de la hausse de TVA a servi à baisser les cotisations, selon le CEPII : c'était surtout une hausse d'impôt pour réduire le déficit."
+    },
+    {
+      "objection": "Ça va créer des centaines de milliers d'emplois.",
+      "reponse": "Les estimations du CEPII donnent au plus 60 000 emplois en dix ans pour une baisse uniforme ; davantage seulement si l'on cible les bas salaires, ce qui ne nécessite pas de hausse de TVA."
+    }
+  ],
+  "questions": [
+    "Qui, dans ta famille, dépense presque tout ce qu'il gagne ? C'est lui qui paierait le plus, en proportion.",
+    "Si les entreprises paient moins de cotisations, qui doit financer la Sécurité sociale à leur place ?"
+  ],
+  "limites": [
+    "Les estimations d'effets sur l'emploi et les prix (CEPII) datent de 2007 ; le rapport du Sénat sur le Danemark date de 2004.",
+    "Les fiches de Vie publique sur la TVA sociale, une note du ministère de l'Économie et une note de l'OFCE n'ont pas pu être ouvertes (accès refusé ou erreur).",
+    "Le montant total de la baisse de cotisations prévue en 2012 n'a pas été vérifié dans les textes lus.",
+    "Le rapport détaillé du CPO de 2015 sur la TVA n'a pas été lu ; seule la note de 2023 l'a été."
+  ],
+  "sources": [
+    {
+      "titre": "Projet de loi de finances rectificative pour 2012 (n° 4423), article 1er",
+      "organisme": "Assemblée nationale",
+      "date_publication": "29 février 2012",
+      "url": "https://www.assemblee-nationale.fr/13/pdf/projets/pl4423.pdf",
+      "passage": "Article 1er : le taux normal de TVA passe de 19,60 % à 21,20 % ; les cotisations patronales d'allocations familiales sont réduites (barème dégressif jusqu'à 1,6 SMIC selon le texte lu), la perte étant compensée par une fraction de TVA et une hausse de 5,4 % des prélèvements sociaux sur les revenus du capital ; application « à compter du 1er octobre 2012 ».",
+      "pertinence": "Texte législatif (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Laissée quasi intacte par le Conseil constitutionnel, la loi de finances rectificative a été publiée",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "août 2012",
+      "url": "https://www.banquedesterritoires.fr/laissee-quasi-intacte-par-le-conseil-constitutionnel-la-loi-de-finances-rectificative-ete-publiee",
+      "passage": "La seconde loi de finances rectificative pour 2012 (loi n° 2012-958 du 16 août 2012, publiée au Journal officiel le 17 août) « abroge la TVA sociale qui devait entrer en vigueur le 1er octobre prochain ».",
+      "pertinence": "Média d'information des collectivités (Caisse des dépôts).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La TVA est-elle un impôt juste ?",
+      "organisme": "Conseil des prélèvements obligatoires (Cour des comptes)",
+      "date_publication": "28 septembre 2023",
+      "url": "https://www.ccomptes.fr/fr/publications/la-tva-est-elle-un-impot-juste",
+      "passage": "La TVA est « un impôt régressif dans la mesure où son poids dans le revenu disponible des ménages décroît avec le revenu » ; une analyse sur le cycle de vie minore ce constat. Selon l'Insee, citée par le CPO, « le caractère régressif de la TVA est plus que compensé par les transferts des administrations publiques ». Les taux réduits ne modèrent ces effets « qu'à la marge ».",
+      "pertinence": "Note de l'institution associée à la Cour des comptes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Financement de la protection sociale : l'attrait des grandes assiettes (La Lettre du CEPII n° 269)",
+      "organisme": "CEPII",
+      "date_publication": "août 2007",
+      "url": "https://www.cepii.fr/PDF_PUB/lettre/2007/let269.pdf",
+      "passage": "Un allègement de 0,5 point de PIB financé par la TVA produirait une « hausse du nombre d'emplois de 150 000 à 230 000 » à dix ans s'il cible le travail non qualifié, au plus 60 000 s'il est uniforme. Un point de TVA compensé par 1,5 point de cotisations : -0,3 % sur les prix hors taxes mais +0,45 % sur les prix à la consommation. En Allemagne, « seul un tiers de la hausse récente de trois points du taux de TVA a été affecté à la protection sociale ». Les seniors et les épargnants seraient plus touchés ; dans les secteurs haut de gamme, « les gains de compétitivité sont très faibles ».",
+      "pertinence": "Centre public d'études économiques ; données anciennes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information n° 52 (2004-2005) : pour une fiscalité plus compétitive (section « Une expérience réussie »)",
+      "organisme": "Sénat (commission des finances, rapporteur Philippe Marini)",
+      "date_publication": "3 novembre 2004",
+      "url": "https://www.senat.fr/rap/r04-052/r04-05241.html",
+      "passage": "Au Danemark, la hausse de TVA de 1987 compensait presque entièrement la suppression de charges sociales patronales, sans hausse particulière de l'inflation ni des salaires selon les informations citées ; « la compétitivité des entreprises danoises a été préservée ». Le rapporteur souligne les particularités danoises (services, faible industrie, concertation sociale, flexisécurité) et des simulations « nuancées ».",
+      "pertinence": "Rapport parlementaire de la majorité de droite de l'époque ; données anciennes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Présidentielle : le regain d'intérêt pour la TVA sociale, idée clivante pour augmenter le salaire net",
+      "organisme": "Public Sénat",
+      "date_publication": "2 septembre 2026",
+      "url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+      "passage": "François Hollande propose de baisser les cotisations salariales en relevant de 4 points le taux normal de TVA ; le Medef propose 2,3 points ; Bruno Le Maire 2 à 3 points. En 2012, la hausse de 19,6 % à 21,2 % a été abrogée par la nouvelle majorité. L'économiste Clément Carbonnier : la TVA frappe « en proportion davantage » ceux qui dépensent tout leur revenu, retraités et allocataires de minima, « une forme d'antiredistribution ». Bruno Coquet (OFCE) : favorable à l'emploi mais inflationniste. Sondage Elabe pour Les Échos (mai) : 54 % d'opposants.",
+      "pertinence": "Chaîne d'information du Sénat.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Programmes de l'élection présidentielle de 2027 et éventuel projet de loi sur le financement de la protection sociale.",
+  "objections_legitimes": [
+    "Les cotisations sociales pèsent sur le coût du travail, et un allègement ciblé sur les bas salaires peut créer des emplois, selon le CEPII.",
+    "Le Danemark est souvent cité comme un exemple de bascule réussie vers la TVA.",
+    "Taxer les importations via la TVA peut, en théorie, aider la production nationale."
+  ],
+  "publics": {
+    "convaincus": "L'idée de faire payer les importations te parle, et c'est compréhensible. Mais selon les études du CEPII, la TVA sociale fait monter les prix de tout ce que tu achètes, y compris le français, et crée peu d'emplois. Ceux qui paient le plus, en proportion, ce sont les retraités, les chômeurs et les petits salaires, qui dépensent tout ce qu'ils gagnent.",
+    "indecis": "Baisser les cotisations sur les salaires est une idée attirante, surtout pour les petites entreprises. Mais la TVA sociale déplace la facture vers les consommateurs : selon le Conseil des prélèvements obligatoires, la TVA pèse plus, en proportion, sur les ménages modestes, et ses effets sur l'emploi sont modestes. La France l'a votée puis abrogée en 2012 sans l'appliquer."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "egalite",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "Sous l’apparence d’une mesure technique contre les délocalisations, la TVA sociale déplace le financement de la protection sociale des salaires et des entreprises vers la consommation, que tout le monde paie, et proportionnellement davantage les ménages modestes.",
+    "consequences": "Les prix montent, le pouvoir d’achat des retraités, des chômeurs et des précaires recule, pour un gain d’emploi estimé modeste, surtout si la baisse des cotisations n’est pas ciblée.",
+    "democratie": "Le financement de la Sécurité sociale par les cotisations donne aux salariés un droit de regard sur leur protection ; le basculer vers l’impôt sur la consommation éloigne ce financement de ceux qui en bénéficient.",
+    "propositions": [
+      "Mettre davantage à contribution les revenus du capital pour financer la protection sociale",
+      "Conditionner les allègements de cotisations à des engagements d’emploi et de salaire",
+      "Baisser la TVA sur les produits de première nécessité plutôt que l’augmenter"
+    ],
+    "defavorables": [
+      {
+        "fait": "Un rapport du Sénat jugeait réussie la bascule danoise des charges patronales vers la TVA, sans hausse particulière de l’inflation ni des salaires.",
+        "integration": "L’exemple danois repose sur un modèle social et économique très différent, fondé sur une forte concertation et une protection sociale universelle : il ne se transpose pas par un simple changement de taux."
+      }
+    ]
+  },
+  "concepts": [
+    "tva_sociale",
+    "emploi",
+    "salaires",
+    "fiscalite",
+    "riches_entreprises",
+    "cout"
+  ],
+  "repond_a": [
+    {
+      "id": "tva_sociale_q1906",
+      "label": "TVA sociale"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "tva sociale",
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping"
+  ]
+}

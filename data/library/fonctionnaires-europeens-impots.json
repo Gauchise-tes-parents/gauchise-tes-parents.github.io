@@ -1,0 +1,241 @@
+{
+  "id": "fonctionnaires-europeens-impots",
+  "type": "idee_recue",
+  "affirmation": "Les fonctionnaires européens ne paient pas d'impôts.",
+  "volet": "politique",
+  "sous_theme": "Union européenne",
+  "rubriques": [],
+  "mots_cles": [
+    "fonctionnaires europeens ne paient pas d impots",
+    "fonctionnaires bruxelles impots",
+    "eurocrates exoneres",
+    "impot communautaire",
+    "prelevement de solidarite",
+    "salaires fonctionnaires ue",
+    "privileges fonctionnaires europeens",
+    "bruxelles exoneration fiscale",
+    "commission europeenne salaires",
+    "eurocrates privilegies"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Les fonctionnaires européens ne paient pas l'impôt national sur leur salaire, mais ils paient un impôt européen, prélevé à la source, progressif de 8 % à 45 % selon la Commission européenne, versé au budget de l'Union et qui réduit d'autant la contribution des États. Depuis 2014, ils paient aussi un prélèvement de solidarité de 6 % à 7 %. Ils paient la TVA et les impôts sur leurs biens. Le régime est particulier, et le débat sur ses avantages est légitime, mais « pas d'impôts » est inexact.",
+  "contexte": "L'image d'« eurocrates » privilégiés exonérés d'impôts circule de longue date, notamment dans les discours eurosceptiques. Elle repose sur un fait réel, l'exemption d'impôt national sur le salaire, qui existe aussi pour les agents de l'ONU et de nombreuses organisations internationales.",
+  "explication": "On présente les règles fixées par le protocole sur les privilèges et immunités et le statut des fonctionnaires, telles que les décrivent la Commission, le ministère des Affaires étrangères et la Cour de justice.",
+  "faits": [
+    {
+      "fait": "Selon la Commission européenne, le salaire des fonctionnaires européens est soumis à un impôt prélevé à la source et « directement reversé au budget de l'UE », dont le taux progressif « s'étend de 8 à 45 % » de la tranche imposable ; le montant est déduit de la contribution des États membres.",
+      "periode": "en vigueur",
+      "perimetre": "Union européenne",
+      "explication": "Les fonctionnaires européens paient un impôt sur le revenu, simplement il va au budget européen et allège la facture des États, dont la France.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "8 à 45 %"
+    },
+    {
+      "fait": "Selon le ministère de l'Europe et des Affaires étrangères, les agents de l'Union sont « soumis, au profit de celle-ci, à un impôt communautaire sur les traitements » et « exempts d'impôts nationaux » sur ces traitements ; des règles comparables existent à l'ONU, où les agents versent une contribution obligatoire.",
+      "periode": "en vigueur",
+      "perimetre": "Organisations internationales",
+      "explication": "Ce n'est pas un privilège propre à « Bruxelles » : c'est la règle générale des organisations internationales, pour éviter qu'un État taxe les salaires payés par tous.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Cour de justice de l'Union européenne, l'objectif du protocole est de remplacer « les impôts nationaux par un impôt communautaire » sur les salaires versés par l'Union.",
+      "periode": "1974-2007",
+      "perimetre": "Union européenne",
+      "explication": "Il n'y a pas d'exonération sèche, mais une substitution d'impôt.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon un rapport de la Commission transmis au Conseil (2022), un prélèvement de solidarité de 6 %, porté à 7 % pour les grades les plus élevés, s'applique aux rémunérations depuis le 1er janvier 2014 ; ses recettes devaient atteindre 106 millions d'euros en 2022.",
+      "periode": "2014-2022",
+      "perimetre": "Union européenne",
+      "explication": "Après la crise financière, les fonctionnaires européens ont été mis à contribution, en plus de l'impôt.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "106 millions"
+    },
+    {
+      "fait": "Selon le Parlement européen, la réforme du statut adoptée en 2013 a instauré ce prélèvement de solidarité « en plus de l'impôt sur le revenu » et gelé les salaires en 2013 et 2014.",
+      "periode": "2013-2014",
+      "perimetre": "Union européenne",
+      "explication": "Le législateur européen lui-même parle d'impôt sur le revenu des fonctionnaires.",
+      "source": 5,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Commission européenne, les fonctionnaires européens paient la TVA et les taxes sur leurs biens immobiliers ou véhicules, et leur vie privée reste soumise au droit national.",
+      "periode": "en vigueur",
+      "perimetre": "Union européenne",
+      "explication": "Ils paient les impôts de tout le monde, hors impôt national sur leur salaire.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon la Cour de justice, les salaires versés par l'Union ne peuvent pas être pris en compte pour plafonner l'impôt de solidarité sur la fortune (arrêt Bourges-Maunoury et Heintz, 2012), ce qui protège ces revenus de toute imposition nationale indirecte.",
+      "periode": "2012",
+      "perimetre": "France",
+      "explication": "Le régime comporte de vraies particularités favorables, qui peuvent légitimement être débattues.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux. Ils ne paient pas l'impôt national sur leur salaire, mais un impôt européen prélevé à la source, de 8 % à 45 % selon la Commission, versé au budget de l'UE, plus un prélèvement de solidarité de 6 % à 7 % depuis 2014. Ils paient aussi la TVA et les taxes sur leurs biens. C'est la règle de toutes les organisations internationales.",
+    "moyen": "Les fonctionnaires européens paient bien un impôt sur leur salaire, mais il est européen. Selon la Commission, il est prélevé à la source, progressif de 8 % à 45 %, et versé au budget de l'UE : son montant réduit d'autant la contribution de chaque État, dont la France. Depuis 2014, s'y ajoute un prélèvement de solidarité de 6 %, et 7 % pour les plus hauts grades.\n\nEn échange, ils sont exemptés de l'impôt national sur ce salaire, comme les agents de l'ONU et de la plupart des organisations internationales, pour éviter qu'un seul pays taxe des salaires financés par tous. Ils paient la TVA et les impôts sur leurs biens. Le régime a des particularités favorables, que la Cour de justice protège, et on peut en débattre ; mais dire qu'ils ne paient « pas d'impôts » est faux.",
+    "detaille": "Le principe est fixé par le protocole sur les privilèges et immunités de l'Union, annexé aux traités. Selon le ministère des Affaires étrangères, les agents de l'Union sont « soumis, au profit de celle-ci, à un impôt communautaire sur les traitements » et « exempts d'impôts nationaux » sur ces mêmes traitements. La Cour de justice résume l'objectif : remplacer « les impôts nationaux par un impôt communautaire ».\n\nConcrètement, selon la Commission européenne, l'impôt est prélevé à la source, avec un barème progressif de 8 % à 45 % de la tranche imposable, et versé au budget de l'UE ; il vient en déduction de la contribution des États membres. Depuis la réforme du statut de 2013, adoptée par le Parlement européen, un prélèvement de solidarité s'ajoute « en plus de l'impôt sur le revenu » : 6 %, porté à 7 % pour les grades les plus élevés, depuis le 1er janvier 2014. Les salaires ont aussi été gelés en 2013 et 2014.\n\nLes fonctionnaires européens paient par ailleurs la TVA, les taxes sur leurs logements et véhicules, et restent soumis au droit national pour leur vie privée. Leur domicile fiscal reste en principe dans leur pays d'origine. Ce système n'est pas propre à l'UE : les agents de l'ONU sont aussi exonérés d'impôt national et versent une contribution à l'organisation.\n\nLe régime a des particularités favorables : la Cour de justice a jugé en 2012 que la France ne pouvait pas tenir compte de ces salaires pour plafonner l'ISF. Discuter du niveau des rémunérations européennes est légitime. Mais l'idée d'eurocrates « exonérés » sert surtout à discréditer la construction européenne : la gauche critique les politiques libérales de l'UE sur le fond, pas en propageant des contre-vérités.",
+    "empathie": "Il est choquant d'imaginer que des fonctionnaires bien payés échappent à l'impôt quand on le paie soi-même chaque mois. Cette exigence d'égalité devant l'impôt est juste."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ils ne paient rien, c'est un scandale.",
+      "reponse": "Ils paient un impôt européen progressif de 8 % à 45 %, prélevé à la source, plus un prélèvement de solidarité de 6 à 7 % depuis 2014, selon la Commission et le Parlement européen."
+    },
+    {
+      "objection": "Cet argent est perdu pour la France.",
+      "reponse": "L'impôt payé par les fonctionnaires européens va au budget de l'UE et réduit d'autant la contribution des États, dont la France, selon la Commission."
+    },
+    {
+      "objection": "C'est un privilège inventé par Bruxelles.",
+      "reponse": "C'est la règle des organisations internationales : les agents de l'ONU sont eux aussi exonérés d'impôt national et versent une contribution interne, selon le ministère des Affaires étrangères."
+    }
+  ],
+  "questions": [
+    "Savais-tu que les agents de l'ONU ont un régime comparable ?",
+    "Préférerais-tu que le pays où se trouve l'institution, la Belgique par exemple, encaisse seul l'impôt sur des salaires payés par tous les Européens ?"
+  ],
+  "limites": [
+    "Le règlement (CEE, Euratom, CECA) n° 260/68 et le protocole n° 7 n'ont pas pu être lus sur EUR-Lex (accès non autorisé ou page vide) : le barème de 8 % à 45 % repose sur la Commission européenne, et le texte du protocole sur le ministère des Affaires étrangères et les résumés de la Cour de justice.",
+    "Aucun document du Sénat n'a été lu sur ce sujet.",
+    "Le taux effectif moyen d'imposition des fonctionnaires européens, comparé à celui d'un contribuable français au même salaire, n'a pas été vérifié.",
+    "Les répertoires de jurisprudence de la Cour de justice ne sont pas datés."
+  ],
+  "sources": [
+    {
+      "titre": "Y a-t-il trop de fonctionnaires européens et coûtent-ils trop cher ?",
+      "organisme": "Commission européenne (Représentation en France)",
+      "date_publication": "13 mai 2024",
+      "url": "https://france.representation.ec.europa.eu/informations/y-t-il-trop-de-fonctionnaires-europeens-et-coutent-ils-trop-cher-2024-05-13_fr",
+      "passage": "Le salaire des fonctionnaires est imposé au niveau européen par « une retenue à la source, directement reversée au budget de l'UE » ; le prélèvement « s'étend de 8 à 45 % » de la tranche imposable ; le montant est déduit de la contribution des États membres. Ils paient la TVA et des taxes sur leurs biens immobiliers et véhicules ; « les actes relevant de la vie privée du fonctionnaire restent entièrement soumis au droit national ». La Commission emploie 22 000 fonctionnaires (32 262 agents au total au 1er janvier 2023) ; environ 60 000 personnes pour l'ensemble des institutions ; dépenses administratives : 6,4 % du budget (9,7 Md€ en 2022).",
+      "pertinence": "Page d'information officielle de la Commission européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Statut fiscal des fonctionnaires internationaux",
+      "organisme": "Ministère de l’Europe et des Affaires étrangères",
+      "date_publication": "9 octobre 2025 (mis à jour le 2 septembre 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/emplois-et-stages/travailler-dans-les-organisations-internationales/statuts-grades-et-remunerations-des-personnels-en-oi/statut-de-fonctionnaire-international/statut-fiscal-des-fonctionnaires-internationaux",
+      "passage": "Les agents de l'Union européenne sont « soumis, au profit de celle-ci, à un impôt communautaire sur les traitements » et « exempts d'impôts nationaux sur les traitements, salaires et émoluments versés par l'Union ». L'agent qui réside dans un autre État pour sa mission est réputé avoir « conservé [son] domicile » fiscal dans l'État d'origine. Dans la plupart des statuts, le traitement est pris en compte pour le calcul de l'impôt sur les autres revenus.",
+      "pertinence": "Page officielle du ministère français.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Répertoire de jurisprudence, rubrique B-28.03 : privilèges et immunités (impôts)",
+      "organisme": "Cour de justice de l’Union européenne",
+      "date_publication": "non daté, consulté le 19 novembre 2026",
+      "url": "https://curia.europa.eu/common/recdoc/repertoire_jurisp/bull_cee/data/B-28_03.htm",
+      "passage": "Le premier alinéa de l'article du protocole prévoit un impôt communautaire sur les traitements des agents, le second les exempte des « impôts nationaux sur les traitements, salaires et émoluments versés par les Communautés » (arrêt Brouerius van Nideck, 3 juillet 1974) ; il s'agit de remplacer « les impôts nationaux par un impôt communautaire » (arrêt Commission / BEI, 3 mars 1988). L'imposition de la valeur locative d'un logement a été admise (Kristoffersen, 25 mai 1993).",
+      "pertinence": "Recueil officiel de résumés de jurisprudence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Répertoire de jurisprudence, rubrique 9.03.02.01 : privilèges et immunités de l'Union",
+      "organisme": "Cour de justice de l’Union européenne",
+      "date_publication": "non daté, consulté le 19 novembre 2026",
+      "url": "https://curia.europa.eu/common/recdoc/repertoire_jurisp/bull_9/data/9_03_02_01.htm",
+      "passage": "Arrêt Bourges-Maunoury et Heintz (C-558/10, 5 juillet 2012) : le protocole s'oppose à une réglementation nationale qui prend en compte les revenus versés par l'Union pour plafonner l'impôt de solidarité sur la fortune. Arrêt Pazdziej (C-349/14, 21 mai 2015) : la prise en compte de ces revenus pour plafonner la taxe d'habitation est admise.",
+      "pertinence": "Recueil officiel de résumés de jurisprudence.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport de la Commission sur l'application de l'annexe XI du statut et de son article 66 bis (COM(2022) 180 final, document du Conseil 8442/22)",
+      "organisme": "Conseil de l’Union européenne (rapport de la Commission européenne)",
+      "date_publication": "26 avril 2022",
+      "url": "https://data.consilium.europa.eu/doc/document/ST-8442-2022-INIT/fr/pdf",
+      "passage": "Le prélèvement de solidarité, « une retenue sur la rémunération du personnel de l'UE », a été réintroduit à un taux plus élevé au 1er janvier 2014 : 6 %, « porté à 7 % » pour le personnel de grade AD 15, échelon 2, et au-delà. Les recettes de ce prélèvement « devraient atteindre 106 millions d'EUR » selon le projet de budget 2022.",
+      "pertinence": "Rapport officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Statut des fonctionnaires de l'Union européenne : modification du statut (procédure 2011/0455(COD)), résumé de la position en première lecture",
+      "organisme": "Parlement européen (Observatoire législatif)",
+      "date_publication": "2 juillet 2013",
+      "url": "https://oeil.europarl.europa.eu/oeil/fr/document-summary?id=1283238",
+      "passage": "Position adoptée par 522 voix contre 150 (39 abstentions) : « un prélèvement de solidarité est instauré (en plus de l'impôt sur le revenu) » à partir du 1er janvier 2014, variable selon le grade ; la méthode d'actualisation des rémunérations est suspendue en 2013 et 2014, ce qui revient à « geler tous les salaires ».",
+      "pertinence": "Résumé officiel du Parlement européen.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Éventuelle révision du statut des fonctionnaires et du prélèvement de solidarité.",
+  "objections_legitimes": [
+    "Les fonctionnaires européens sont bien exemptés de l'impôt national sur leur salaire.",
+    "Leurs rémunérations sont élevées par rapport à la moyenne des salaires européens, et le débat sur ce point est légitime.",
+    "La Cour de justice protège ces revenus contre une prise en compte dans certains impôts nationaux."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : ils ne paient pas l'impôt français sur leur salaire. Mais ils paient un impôt européen prélevé à la source, jusqu'à 45 %, plus une contribution de solidarité depuis 2014, et cet argent vient en déduction de ce que la France verse à l'UE. Tu peux le vérifier sur le site de la Commission.",
+    "indecis": "La règle est simple : au lieu de l'impôt national, les fonctionnaires européens paient un impôt européen sur leur salaire, de 8 % à 45 %, prélevé à la source, plus un prélèvement de solidarité. C'est le même principe qu'à l'ONU. On peut discuter du niveau de leurs salaires, mais pas affirmer qu'ils ne paient pas d'impôts."
+  },
+  "lecture": {
+    "valeurs": [
+      "internationalisme",
+      "egalite",
+      "democratie"
+    ],
+    "mecanismes": "L’argument part d’un fait réel, l’exemption d’impôt national sur le salaire, et en omet la contrepartie, un impôt européen prélevé à la source, pour fabriquer l’image d’une caste privilégiée et discréditer toute construction commune.",
+    "consequences": "La contre-vérité alimente la défiance envers toute institution supranationale et détourne la critique des vrais choix politiques de l’Union, notamment ses orientations libérales.",
+    "democratie": "Critiquer l’Union européenne est légitime, mais un débat démocratique exige des faits exacts : propager des contre-vérités sur ses agents affaiblit la critique sérieuse de ses politiques.",
+    "propositions": [
+      "Publier de façon lisible les rémunérations et l’imposition des agents des institutions européennes",
+      "Débattre démocratiquement de l’échelle des salaires dans les institutions européennes",
+      "Concentrer la critique de l’Union sur ses politiques économiques et sociales"
+    ],
+    "defavorables": [
+      {
+        "fait": "La Cour de justice interdit de tenir compte des salaires européens pour plafonner certains impôts nationaux sur la fortune.",
+        "integration": "Le régime comporte de vraies particularités favorables qu’on peut légitimement discuter, mais cela ne rend pas vraie l’idée qu’ils ne paient pas d’impôts."
+      }
+    ]
+  },
+  "concepts": [
+    "fonctionnaires_ue",
+    "salaires",
+    "fiscalite",
+    "services_publics",
+    "solidarite",
+    "europe",
+    "fonctionnaires"
+  ],
+  "repond_a": [
+    {
+      "id": "fonctionnaires_ue_q1906",
+      "label": "Fiscalité des fonctionnaires européens"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "taxer",
+    "isf",
+    "tva"
+  ]
+}

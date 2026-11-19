@@ -1,0 +1,214 @@
+{
+  "id": "portugal-depenalisation-drogues",
+  "type": "idee_recue",
+  "affirmation": "Au Portugal, la dépénalisation des drogues a été un échec.",
+  "volet": "securite",
+  "sous_theme": "Prévention et politiques publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "portugal depenalisation drogues echec",
+    "modele portugais drogues",
+    "portugal decriminalisation",
+    "legaliser la drogue portugal",
+    "lisbonne drogue",
+    "porto drogue rue",
+    "depenaliser le cannabis",
+    "politique des drogues portugal",
+    "le portugal regrette",
+    "depenalisation overdoses"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Depuis 2001, le Portugal traite la consommation comme un problème de santé, sans prison pour l'usage. Les études n'ont pas constaté de hausse significative de la consommation, et les infections au VIH chez les usagers et la part de détenus pour drogue ont fortement baissé ; en 2017, l'agence européenne comptait 4 décès par million d'adultes, contre 22 en moyenne en Europe. Mais la situation s'est dégradée depuis quelques années (overdoses en hausse à Lisbonne, consommation visible à Porto), après une forte baisse des financements du dispositif. C'est le désinvestissement qui est en cause, pas la dépénalisation elle-même.",
+  "contexte": "Le modèle portugais est souvent cité par les partisans d'une réforme des politiques des drogues. Depuis une enquête du Washington Post en 2023, qui décrit des doutes au Portugal même, il est aussi présenté comme un échec par les défenseurs de la répression.",
+  "explication": "On distingue les résultats mesurés après la réforme de 2001 (usage, VIH, décès, prisons), les dégradations récentes documentées par la presse, et ce que les chercheurs en concluent sur leurs causes.",
+  "faits": [
+    {
+      "fait": "Selon l'Observatoire européen des drogues et des toxicomanies, la loi portugaise en vigueur depuis juillet 2001 a décriminalisé la consommation et la détention pour usage personnel ; les personnes interpellées sont orientées vers une commission chargée d'évaluer leur besoin de soins.",
+      "periode": "depuis 2001",
+      "perimetre": "Portugal",
+      "explication": "L'usage reste interdit, mais il relève d'une sanction administrative et d'une orientation sanitaire, pas de la prison ; le trafic reste un crime.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Université de Nouvelle-Galles du Sud (synthèse de recherche, 2024), la consommation n'a pas augmenté à l'échelle de la population, les infections au VIH et à l'hépatite C liées aux drogues ont nettement baissé, et la part des détenus incarcérés pour des infractions liées aux drogues est passée de 44 % en 1999 à 21 % en 2008.",
+      "periode": "1999-2008",
+      "perimetre": "Portugal",
+      "explication": "Les premiers effets de la réforme sont positifs sur la santé et sur les prisons.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "44 % à 21 %"
+    },
+    {
+      "fait": "Selon des chercheurs de l'Université de Porto (2024), les nouveaux cas de sida chez les usagers de drogues injectables sont passés de plus de 700 par an à la fin des années 1990 à moins de 200 ces dernières années.",
+      "periode": "1998-2023",
+      "perimetre": "Portugal",
+      "explication": "La réduction des risques associée à la dépénalisation a sauvé des vies.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "700 à moins de 200"
+    },
+    {
+      "fait": "Selon l'Observatoire européen des drogues, en 2017, le taux de décès induits par les drogues au Portugal était de 4 par million d'adultes, contre une moyenne européenne de 22.",
+      "periode": "2017",
+      "perimetre": "Portugal et Europe",
+      "explication": "Le Portugal faisait partie des pays européens où l'on meurt le moins d'overdose.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "4 par million"
+    },
+    {
+      "fait": "Fait défavorable : selon le Washington Post (2023), les overdoses ont presque doublé à Lisbonne entre 2019 et 2023, et à Porto les déchets liés à la drogue (+24 %) et la délinquance (+14 %) ont augmenté entre 2021 et 2022 ; la part des adultes ayant déjà consommé une drogue illicite est passée de 7,8 % en 2001 à 12,8 % en 2022, en restant sous la moyenne européenne.",
+      "periode": "2001-2023",
+      "perimetre": "Portugal",
+      "explication": "La situation s'est réellement dégradée ces dernières années, en particulier dans les grandes villes.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "12,8 %"
+    },
+    {
+      "fait": "Selon le Washington Post, après 2012, le financement de l'institut national chargé des drogues est passé de 82,7 à 17,4 millions de dollars, et les orientations vers un traitement sont tombées d'un pic de 1 150 en 2015 à 352 en 2021.",
+      "periode": "2012-2021",
+      "perimetre": "Portugal",
+      "explication": "La dégradation récente coïncide avec l'austérité qui a affaibli le volet soins du modèle.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "82,7 à 17,4 millions"
+    },
+    {
+      "fait": "Selon les chercheurs de l'Université de Porto, la décriminalisation n'a pas entraîné de hausse significative de la consommation, mais son impact sur la sortie des usagers du système pénal est resté « limité », notamment parce qu'un arrêt de la Cour suprême de 2008 a rétabli le délit au-delà de certains seuils.",
+      "periode": "2001-2024",
+      "perimetre": "Portugal",
+      "explication": "Pour ces chercheurs, la réforme n'est pas un échec mais une réforme inachevée.",
+      "source": 2,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Après 2001, la consommation n'a pas explosé, les infections au VIH chez les usagers et la part de détenus pour drogue ont fortement baissé, et le Portugal avait en 2017 un des plus faibles taux de décès par overdose d'Europe. La situation s'est dégradée récemment à Lisbonne et Porto, mais après des coupes massives dans le financement des soins : c'est l'austérité qui a abîmé le modèle.",
+    "moyen": "Depuis 2001, l'usage de drogue au Portugal n'est plus un délit : la personne interpellée passe devant une commission qui évalue son besoin de soins. Les résultats mesurés sont plutôt bons : pas de hausse significative de la consommation selon les chercheurs, une baisse forte des infections au VIH chez les usagers (de plus de 700 cas de sida par an à moins de 200), une part de détenus pour drogue passée de 44 % à 21 % entre 1999 et 2008. En 2017, l'agence européenne comptait 4 décès par overdose par million d'adultes, contre 22 en moyenne en Europe.\n\nIl ne faut pas nier les problèmes récents : selon le Washington Post, les overdoses ont presque doublé à Lisbonne entre 2019 et 2023 et la consommation de rue est très visible à Porto. Mais le financement du dispositif a été divisé par près de cinq après 2012 et les orientations vers des soins se sont effondrées. Le problème vient du désinvestissement, pas de la dépénalisation.",
+    "detaille": "En juillet 2001, le Portugal a décriminalisé la consommation et la détention de drogues pour usage personnel. L'usage reste interdit, mais il est traité par des commissions de dissuasion qui évaluent le besoin de soins ; le trafic reste un crime. La réforme s'accompagnait d'un fort investissement dans le traitement et la réduction des risques.\n\nLes résultats mesurés dans les années qui suivent sont positifs. Selon une synthèse de l'Université de Nouvelle-Galles du Sud (2024), la consommation n'a pas augmenté à l'échelle de la population, les infections au VIH et à l'hépatite C liées aux drogues ont nettement reculé, la part des détenus incarcérés pour des infractions liées aux drogues est passée de 44 % en 1999 à 21 % en 2008, et le nombre de personnes en traitement a augmenté. Selon des chercheurs de l'Université de Porto, les nouveaux cas de sida chez les usagers injecteurs sont passés de plus de 700 par an à moins de 200. En 2017, l'Observatoire européen des drogues comptait 4 décès par overdose par million d'adultes au Portugal, contre 22 en moyenne en Europe.\n\nLa situation s'est pourtant dégradée récemment. Selon une enquête du Washington Post de 2023, les overdoses ont presque doublé à Lisbonne entre 2019 et 2023, la consommation de rue est très visible à Porto, où la délinquance a augmenté de 14 % entre 2021 et 2022, et la part des adultes ayant déjà consommé une drogue est passée de 7,8 % en 2001 à 12,8 % en 2022, en restant sous la moyenne européenne. Le principal responsable de la politique des drogues aurait lui-même reconnu que le modèle ne servait plus d'exemple.\n\nMais le même article explique pourquoi : après 2012, en pleine austérité, le financement de l'institut national a été divisé par près de cinq, et les orientations vers des soins se sont effondrées. Les chercheurs portugais, eux, ne parlent pas d'échec mais d'une réforme limitée et inachevée, avec des usagers encore poursuivis au-delà de certains seuils. La leçon est claire : la dépénalisation fonctionne quand elle s'accompagne de moyens pour la santé ; quand on coupe ces moyens, les problèmes reviennent.",
+    "empathie": "Les images de consommation dans les rues de Lisbonne ou de Porto inquiètent, et il est légitime de se demander si dépénaliser ne revient pas à abandonner. La question mérite qu'on regarde l'ensemble du bilan."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Même les Portugais disent que c'est un échec.",
+      "reponse": "Des élus et responsables ont exprimé des doutes, mais en pointant surtout le manque de moyens : le financement du dispositif a été divisé par près de cinq après 2012, selon le Washington Post."
+    },
+    {
+      "objection": "Depuis la dépénalisation, tout le monde se drogue au Portugal.",
+      "reponse": "Selon les chercheurs, la consommation n'a pas augmenté de façon significative ; la part des adultes ayant déjà consommé reste sous la moyenne européenne."
+    },
+    {
+      "objection": "La répression, au moins, ça marche.",
+      "reponse": "En 2017, le Portugal comptait 4 décès par overdose par million d'adultes, contre 22 en moyenne en Europe, où la plupart des pays sanctionnent pénalement l'usage."
+    }
+  ],
+  "questions": [
+    "Si un modèle marche pendant dix ans puis se dégrade quand on lui coupe ses crédits, est-ce le modèle qui a échoué ou les coupes budgétaires ?",
+    "Préfères-tu qu'un consommateur dépendant aille en prison ou en soins ?"
+  ],
+  "limites": [
+    "Le rapport pays de l'Observatoire européen date de 2019 (données de 2017) : aucune donnée européenne plus récente sur le taux de décès au Portugal n'a pu être lue.",
+    "Les dégradations récentes reposent principalement sur l'enquête du Washington Post (2023), lue dans sa republication par le Portland Press Herald ; la citation de João Goulão y est rapportée de seconde main.",
+    "La synthèse de l'UNSW signale qu'aucune recherche évaluée par les pairs sur le dispositif n'a été publiée depuis 2020.",
+    "Aucune publication de l'OFDT ni de l'institut portugais (ICAD, ex-SICAD) n'a pu être ouverte.",
+    "Les sources ont été lues en anglais, à travers un outil de lecture qui résume."
+  ],
+  "sources": [
+    {
+      "titre": "Portugal Country Drug Report 2019",
+      "organisme": "Observatoire européen des drogues et des toxicomanies (EMCDDA, devenu EUDA), europa.eu",
+      "date_publication": "juin 2019 (données surtout de 2017)",
+      "url": "https://www.emcdda.europa.eu/system/files/media/publications/documents/11331/portugal-cdr-2019.pdf",
+      "passage": "La loi 30/2000, en vigueur depuis juillet 2001, a « decriminalised consumption, acquisition and possession of drugs for personal consumption » ; les personnes interpellées sont orientées vers une commission de dissuasion dont « the main objectives are to explore the need for treatment and to promote healthy recovery ». Le taux de décès induits par les drogues chez les 15-64 ans « was 4 deaths per million in 2017 », contre une « most recent European average of 22 deaths per million ». En 2017, la part des nouveaux diagnostics de VIH liés à l'injection était « around 2 % ».",
+      "pertinence": "Rapport pays de l'agence européenne (lu en anglais, à travers un outil de lecture qui résume) ; données anciennes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Was decriminalisation effective in Portugal? (DPMP Evidence Hub, NSW Drug Summit 2024)",
+      "organisme": "Université de Nouvelle-Galles du Sud (UNSW), Drug Policy Modelling Program — Alison Ritter, Liz Barrett, Paul Kelaita",
+      "date_publication": "novembre 2024",
+      "url": "https://unsw.edu.au/content/dam/pdfs/ada/sprc/research-reports/dpmp-drug-summit-2024-explainers/2024-11-was-decriminalisation-effective-in-portugal-v3.pdf",
+      "passage": "« Drug use did not increase at the population level » ; « Drug-related HIV and Hepatitis C (HCV) significantly decreased » ; la part des détenus pour infractions liées aux drogues a « dropped from 44 per cent in 1999 to 21 per cent in 2008 » ; personnes en traitement : « increased from 23,654 in 1998 to 38,532 in 2008 » ; « The social cost of illicit drug use reduced by 18% ». Selon le Washington Post (2023), les overdoses ont presque doublé à Lisbonne et les financements ont été réduits « from 76 million Euros down to 16 million Euros ». Les auteurs n'ont trouvé aucune recherche évaluée par les pairs depuis 2020.",
+      "pertinence": "Synthèse de recherche universitaire (lue en anglais).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Is decriminalising drugs enough? Navigating alternatives to prohibitionism",
+      "organisme": "Université de Porto, École de criminologie (Jorge Quintas, Ximene Rêgo), revue Sociologia Online de l’Association portugaise de sociologie",
+      "date_publication": "décembre 2024 (en ligne le 3 mars 2025)",
+      "url": "https://revista.aps.pt/en/is-decriminalising-drugs-enough-navigating-alternatives-to-prohibitionism/",
+      "passage": "La décriminalisation « did not lead to significant increases in drug consumption » et « coincided with a reduction in dependent drug use and related harms » ; nouveaux cas de sida chez les usagers injecteurs : « from an average of over 700 per year in the late 1990s to less than 200 in recent years ». Prévalence vie entière : 7,8 % (2001), 12,0 % (2007), 9,6 % (2012), 11,6 % (2016-2017). Mais un arrêt de la Cour suprême de 2008 a « resuscitated » le délit au-delà des seuils ; l'impact sur la sortie des usagers du pénal est « limited » et la décriminalisation « seems to be insufficient ».",
+      "pertinence": "Article universitaire portugais (lu en anglais).",
+      "type": "etude",
+      "consultee": true
+    },
+    {
+      "titre": "Once hailed for decriminalizing drugs, Portugal is now having doubts",
+      "organisme": "The Washington Post (Anthony Faiola, Catarina Fernandes Martins), republié par le Portland Press Herald",
+      "date_publication": "8 juillet 2023",
+      "url": "https://www.pressherald.com/2023/07/08/once-hailed-for-decriminalizing-drugs-portugal-is-now-having-doubts/",
+      "passage": "Les overdoses ont atteint un sommet en douze ans et ont presque doublé à Lisbonne entre 2019 et 2023 ; la part des adultes ayant consommé une drogue illicite est passée de 7,8 % en 2001 à 12,8 % en 2022, en restant sous la moyenne européenne ; à Porto, les déchets liés à la drogue ont augmenté de 24 % et la délinquance de 14 % entre 2021 et 2022 ; le financement de l'institut national est passé de 82,7 à 17,4 millions de dollars après 2012 ; les orientations vers un traitement sont passées d'un pic de 1 150 en 2015 à 352 en 2021. Le maire de Porto : « We've normalized it. » Selon la presse locale, João Goulão aurait dit : « what we have today no longer serves as an example to anyone. »",
+      "pertinence": "Grand quotidien américain (enquête de terrain).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rapport européen sur les drogues 2027 et données portugaises récentes sur les décès et les traitements.",
+  "objections_legitimes": [
+    "La situation s'est réellement dégradée ces dernières années dans les grandes villes portugaises.",
+    "Des responsables portugais eux-mêmes ont exprimé des doutes en 2023.",
+    "La consommation déclarée a augmenté depuis 2001, même si elle reste sous la moyenne européenne."
+  ],
+  "publics": {
+    "convaincus": "Regarde le bilan complet : après 2001, pas d'explosion de la consommation, des contaminations au VIH en chute, et un des plus faibles taux de morts par overdose d'Europe en 2017. Oui, ça s'est dégradé ces dernières années, mais après qu'on a divisé par près de cinq l'argent des soins. Ce n'est pas la dépénalisation qui a échoué, c'est l'austérité.",
+    "indecis": "Les problèmes récents à Lisbonne et Porto sont réels, et les Portugais en débattent. Mais pendant plus de dix ans, la dépénalisation a fait baisser les infections, les morts et les incarcérations, sans hausse notable de la consommation. Le vrai enseignement, c'est qu'une politique de santé ne marche que si on la finance."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "vulnerables",
+      "services_publics"
+    ],
+    "mecanismes": "Les difficultés récentes du Portugal sont présentées comme la preuve de l’échec de la dépénalisation, en passant sous silence les résultats obtenus pendant plus de dix ans et les coupes budgétaires qui ont précédé la dégradation.",
+    "consequences": "Si l’on en tire la conclusion qu’il faut revenir à la répression, on risque plus de prison, plus de contaminations et plus de morts, alors que la leçon portugaise est qu’une politique de santé doit être financée.",
+    "democratie": "Évaluer une politique publique suppose de regarder l’ensemble des données et de distinguer ses effets de ceux de l’austérité, plutôt que de choisir les seuls chiffres qui arrangent.",
+    "propositions": [
+      "Traiter l’usage de drogues comme une question de santé publique, avec des moyens durables pour le soin et la réduction des risques.",
+      "Concentrer la répression sur les trafiquants plutôt que sur les consommateurs.",
+      "Évaluer régulièrement et publiquement les politiques des drogues, avec la participation des soignants et des usagers."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les overdoses ont fortement augmenté à Lisbonne ces dernières années et la consommation de rue est très visible à Porto.",
+        "integration": "C’est vrai, et cela coïncide avec l’effondrement du financement des soins : la dépénalisation sans moyens ne suffit pas, ce qui plaide pour un service public de santé mieux financé, pas pour la prison."
+      }
+    ]
+  },
+  "concepts": [
+    "histoire_migrations"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "pays d immigration",
+    "italiens",
+    "polonais",
+    "espagnols",
+    "portugais",
+    "il y a cent ans",
+    "apres la guerre",
+    "reconstruit la france",
+    "harkis",
+    "rapatries",
+    "avant les immigres",
+    "avant ils s integraient"
+  ]
+}

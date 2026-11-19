@@ -1,0 +1,219 @@
+{
+  "id": "giec-organisme-politique",
+  "type": "idee_recue",
+  "affirmation": "Le GIEC est un organisme politique, pas scientifique.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "giec organisme politique",
+    "le giec c est politique",
+    "giec pas scientifique",
+    "ipcc politique",
+    "giec gouvernements",
+    "resume pour decideurs",
+    "giec manipule",
+    "rapport du giec truque",
+    "giec onu propagande",
+    "experts du giec"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Le GIEC est bien « intergouvernemental » : les États le financent, désignent des experts et approuvent ligne par ligne le court résumé pour décideurs. Mais les rapports eux-mêmes sont écrits par des scientifiques qui évaluent la littérature publiée, après des dizaines de milliers de commentaires de relecture ; les gouvernements n'approuvent pas ligne par ligne le rapport complet, et le résumé doit rester conforme à ce rapport, sous le contrôle des auteurs. L'intervention des États tend d'ailleurs plutôt à adoucir certains messages qu'à les noircir.",
+  "contexte": "L'argument circule chez les climatosceptiques et une partie de l'extrême droite pour disqualifier les rapports du GIEC sans discuter leur contenu : puisque des gouvernements et l'ONU y participent, ce serait de la politique déguisée en science.",
+  "explication": "On distingue ce que font les scientifiques (rédaction et relecture des rapports), ce que font les gouvernements (désignation d'experts, relecture, approbation du résumé) et les garde-fous qui empêchent le résumé de contredire le rapport.",
+  "faits": [
+    {
+      "fait": "Selon le ministère de la Transition écologique, le GIEC a été créé en 1988 par l'Organisation météorologique mondiale et le Programme des Nations unies pour l'environnement ; 195 pays y sont représentés, et il « ne mène pas de travaux de recherche » : il évalue des publications scientifiques à comité de lecture.",
+      "periode": "depuis 1988",
+      "perimetre": "monde",
+      "explication": "Le GIEC est une instance d'évaluation : il fait le point sur ce que la recherche publiée a établi, il n'invente pas ses propres résultats.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "195 pays"
+    },
+    {
+      "fait": "Selon le GIEC, les rapports sont rédigés par des auteurs à partir de la littérature publiée, puis relus deux fois par des experts et, la seconde fois, aussi par des gouvernements ; pour le cinquième rapport, 142 631 observations ont été reçues, et les réponses des auteurs sont publiées.",
+      "periode": "2013-2014",
+      "perimetre": "monde",
+      "explication": "Rares sont les textes scientifiques relus par autant de personnes, avec une trace publique de chaque réponse.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "142 631"
+    },
+    {
+      "fait": "Selon les procédures du GIEC, les gouvernements et organisations observatrices désignent des experts, mais les auteurs sont choisis par le Bureau du groupe de travail selon leurs compétences, la diversité des points de vue et la représentation géographique ; les rapports doivent décrire les points de vue scientifiques divergents.",
+      "periode": "en vigueur depuis 2013",
+      "perimetre": "monde",
+      "explication": "Les États proposent des noms, mais ne choisissent pas seuls les auteurs ni le contenu.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon le GIEC, le résumé à l'intention des décideurs est « examiné ligne par ligne et approuvé » par les pays membres, en séance plénière, en consultation avec les auteurs.",
+      "periode": "en vigueur (fiche de 2024)",
+      "perimetre": "monde",
+      "explication": "C'est le point réel sur lequel s'appuie l'affirmation : les gouvernements ont bien un rôle direct dans la rédaction finale du résumé.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le GIEC, le rapport complet est seulement « accepté », sans examen ligne par ligne par les gouvernements ; approuver le résumé signifie qu'il est conforme aux éléments factuels du rapport, et les auteurs principaux sont consultés pour le garantir.",
+      "periode": "en vigueur",
+      "perimetre": "monde",
+      "explication": "Les gouvernements peuvent discuter la formulation du résumé, mais pas réécrire la science du rapport complet.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon une capsule pédagogique hébergée par le CNRS, certains États, comme des pays producteurs de pétrole ou de gaz, peuvent chercher à atténuer certains messages lors de l'approbation du résumé ; les rapports déjà rédigés protègent alors les experts.",
+      "periode": "non daté",
+      "perimetre": "monde",
+      "explication": "L'influence politique, quand elle existe, va plutôt dans le sens d'un adoucissement : elle ne peut pas servir à accuser le GIEC d'exagérer.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon le ministère de la Transition écologique, les rapports du GIEC « ne comportent pas de conclusions prescriptives » : ils décrivent des constats et des options, sans dicter de politique.",
+      "periode": "2021",
+      "perimetre": "monde",
+      "explication": "Les choix politiques restent ceux des États ; le GIEC fournit l'état des connaissances.",
+      "source": 3,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Le GIEC ne fait pas de recherche : il évalue les études scientifiques publiées, et ses rapports sont écrits par des chercheurs et relus par des dizaines de milliers de commentaires. Les gouvernements approuvent bien ligne par ligne le résumé pour décideurs, mais pas le rapport complet, et ce résumé doit rester conforme au rapport, sous le contrôle des auteurs.",
+    "moyen": "Le GIEC a été créé en 1988 par deux organisations de l'ONU et réunit 195 pays. Il ne fait pas de recherche : il fait le point sur ce que la littérature scientifique a établi. Les rapports sont rédigés par des auteurs choisis pour leurs compétences, puis relus deux fois par des experts et des gouvernements ; pour le cinquième rapport, plus de 140 000 observations ont été reçues, avec des réponses publiées.\n\nLe rôle des États est réel : ils désignent des experts et approuvent ligne par ligne le résumé pour décideurs. Mais le rapport complet n'est pas réécrit par eux, et le résumé doit rester conforme au rapport, les auteurs étant consultés pour le garantir. Quand des pays pèsent sur la formulation, ce sont plutôt des producteurs de pétrole ou de gaz qui cherchent à adoucir les messages.",
+    "detaille": "Le GIEC est un organisme « intergouvernemental » : c'est son nom même. Créé en 1988 par l'Organisation météorologique mondiale et le Programme des Nations unies pour l'environnement, il réunit 195 pays. Mais il ne fait pas de recherche : selon le ministère de la Transition écologique, il évalue les publications scientifiques à comité de lecture, et ses rapports « ne comportent pas de conclusions prescriptives ».\n\nLa fabrication d'un rapport est très encadrée. Les gouvernements et organisations observatrices proposent des experts, mais les auteurs sont choisis par le Bureau du groupe de travail selon leurs compétences, la diversité des points de vue et la représentation géographique. Le texte est relu deux fois, par des experts puis par des experts et des gouvernements : pour le cinquième rapport, 142 631 observations ont été reçues, et les réponses des auteurs sont publiées. Les éditeurs-réviseurs vérifient que les désaccords scientifiques réels sont décrits.\n\nLe point qui nourrit l'accusation est vrai : le résumé à l'intention des décideurs est approuvé ligne par ligne par les représentants des États, en présence des auteurs. Mais le rapport complet, lui, est seulement « accepté », sans examen ligne par ligne. Approuver le résumé signifie le juger conforme aux faits du rapport, et les auteurs principaux sont consultés pour le garantir ; des procédures d'erratum existent en cas d'erreur.\n\nCette étape politique a d'ailleurs un effet inverse de celui qu'on imagine : selon une capsule pédagogique hébergée par le CNRS, certains États producteurs de pétrole ou de gaz cherchent à atténuer les messages. Si le GIEC était « politique », ce serait plutôt au profit de ceux qui veulent minimiser le problème. L'intérêt du processus est ailleurs : une fois le résumé adopté par tous les pays, aucun gouvernement ne peut plus en contester les constats lors des négociations climatiques.",
+    "empathie": "Se méfier des grandes institutions internationales est compréhensible, surtout quand elles parlent au nom de « la science » et que leurs conclusions touchent à nos modes de vie. Il est légitime de demander qui écrit quoi."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les gouvernements réécrivent les rapports comme ils veulent.",
+      "reponse": "Ils approuvent le résumé, pas le rapport complet, et ce résumé doit rester conforme aux faits du rapport, avec l'accord des auteurs. Ce sont plutôt des pays pétroliers qui tentent d'adoucir les formulations."
+    },
+    {
+      "objection": "Le GIEC ne garde que les études qui l'arrangent.",
+      "reponse": "Ses procédures l'obligent à décrire les points de vue scientifiques divergents, et chaque rapport reçoit des dizaines de milliers de commentaires auxquels les auteurs répondent publiquement."
+    },
+    {
+      "objection": "C'est l'ONU, donc c'est de la propagande mondialiste.",
+      "reponse": "Les rapports s'appuient sur des milliers d'études publiées dans des revues scientifiques, qu'on peut lire soi-même ; le GIEC n'invente aucun résultat."
+    }
+  ],
+  "questions": [
+    "Si les États pouvaient tout réécrire, pourquoi les pays pétroliers ne parviennent-ils pas à faire disparaître le réchauffement des rapports ?",
+    "Quelle source jugerais-tu plus fiable qu'une synthèse de milliers d'études relues par des experts du monde entier ?"
+  ],
+  "limites": [
+    "Les documents du GIEC et du ministère ont été lus à travers un outil de lecture qui résume : les citations sont à revérifier mot pour mot.",
+    "Le nombre d'observations (142 631) concerne le cinquième rapport (2013-2014) ; le chiffre du sixième cycle n'a pas été lu dans une source primaire.",
+    "La capsule hébergée par le CNRS n'affiche ni auteur ni date ; l'affirmation sur les pays pétroliers y est générale et n'est pas documentée par un exemple précis.",
+    "Le texte des procédures du GIEC n'a été lu que partiellement ; la page du ministère « Comprendre le GIEC » n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Comment le GIEC approuve-t-il ses rapports ? (fiche d'information)",
+      "organisme": "GIEC (IPCC)",
+      "date_publication": "révision de janvier 2024",
+      "url": "https://ipcc.ch/site/assets/uploads/2025/03/IPCCFactSheet_ApproveReports_fr.pdf",
+      "passage": "Le résumé à l'intention des décideurs est « examiné ligne par ligne et approuvé par les pays membres du GIEC participants », en consultation avec les auteurs scientifiques, afin qu'il reflète fidèlement le rapport source. Le rapport principal intégral est « accepté », ce qui « n'implique pas que le texte ait fait l'objet d'un examen ligne par ligne ». Une fois le résumé approuvé, seules les modifications nécessaires à la cohérence avec lui, consignées par écrit, sont admises dans le rapport. Le GIEC « consigne les éventuels désaccords de fond ».",
+      "pertinence": "Fiche officielle du GIEC sur ses procédures d'approbation (lue en français).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Processus de relecture des rapports du GIEC (fiche d'information)",
+      "organisme": "GIEC (IPCC)",
+      "date_publication": "révisée le 15 janvier 2015",
+      "url": "https://www.ipcc.ch/site/assets/uploads/2018/04/FS_review_process_fr.pdf",
+      "passage": "Les auteurs rédigent à partir de la littérature scientifique, technique et socio-économique publiée ; première relecture par des experts, seconde relecture simultanée par les experts et les gouvernements ; les éditeurs-réviseurs vérifient que le rapport reflète « les réelles différences de point de vue » ; les observations et les réponses des auteurs sont publiées. Pour le cinquième rapport d'évaluation : 142 631 observations au total (par exemple 31 422 observations de 800 experts et 26 gouvernements sur la seconde version du groupe de travail I).",
+      "pertinence": "Fiche officielle du GIEC ; chiffres du cinquième rapport (cycle 2013-2014), anciens.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Procédures d'élaboration, d'examen, d'acceptation, d'adoption, d'approbation et de publication des rapports du GIEC (appendice A aux Principes)",
+      "organisme": "GIEC (IPCC)",
+      "date_publication": "adoptées en 1999, modifiées jusqu’en octobre 2013",
+      "url": "https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles-appendix-a-final_fr.pdf",
+      "passage": "Les gouvernements et organisations observatrices désignent des experts ; les auteurs sont choisis par le Bureau du groupe de travail selon la diversité des compétences, la représentation géographique, le mélange d'experts et la parité. Les rapports doivent « décrire les différents points de vue scientifiques, techniques et socio-économiques ». Approuver un résumé signifie qu'il est jugé conforme aux éléments factuels du rapport ; les auteurs coordonnateurs principaux doivent être consultés pour garantir cette conformité. En cas d'erreur, un protocole prévoit un erratum, voire un « erratum contesté ».",
+      "pertinence": "Texte de procédure officiel du GIEC (lu en partie : les 100 000 premiers caractères).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le GIEC : 30 ans d'expertise qui éclairent sur le changement climatique (Théma Essentiel n° 13)",
+      "organisme": "Ministère de la Transition écologique (Commissariat général au développement durable)",
+      "date_publication": "novembre 2021",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/publications/thema_essentiel_13_le_giec_30%20ans_d_expertise_novembre2021.pdf",
+      "passage": "Le GIEC a été créé en 1988 par l'Organisation météorologique mondiale et le Programme des Nations unies pour l'environnement ; 195 pays sont représentés. « Le GIEC ne mène pas de travaux de recherche » : ses évaluations s'appuient sur des publications à comité de lecture. Chaque rapport fait l'objet de deux ou trois relectures par des experts et des gouvernements, avec plusieurs dizaines de milliers de commentaires ; en session plénière, les gouvernements approuvent le résumé pour décideurs « ligne par ligne ». Les rapports « ne comportent pas de conclusions prescriptives ».",
+      "pertinence": "Publication du ministère, rédigée avec l'Onerc.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Capsule 2 : le GIEC (module pédagogique Climathiques)",
+      "organisme": "CNRS (site Climathiques enseignement, mathématiques)",
+      "date_publication": "non datée (mise en ligne en janvier 2026 selon l’adresse)",
+      "url": "https://climathiques-enseignement.math.cnrs.fr/sites/default/files/2026-01/2-Le%20GIEC.pdf",
+      "passage": "Les experts, bénévoles, compilent et synthétisent des milliers d'articles scientifiques sans mener leurs propres recherches. Les scientifiques rédigent le résumé ; les représentants des gouvernements le relisent et peuvent discuter certaines lignes ; le texte final est « adopté mot à mot à l'unanimité par les délégations gouvernementales ». Certains États, comme les pays producteurs de pétrole ou de gaz, peuvent chercher à atténuer certains messages ; les rapports déjà rédigés protègent alors les experts. Le groupe 1 (science du climat) fait l'objet d'un large consensus ; les solutions (groupe 3) font davantage débat.",
+      "pertinence": "Support pédagogique hébergé par le CNRS, sans auteur ni date affichés.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2028-06-30",
+  "raison_actualisation": "Publication des rapports du septième cycle d'évaluation du GIEC et éventuelle révision des procédures.",
+  "objections_legitimes": [
+    "Le GIEC est bien un organisme intergouvernemental : les États en sont membres et désignent des experts.",
+    "Le résumé pour décideurs est réellement négocié ligne par ligne avec les gouvernements.",
+    "Les volets sur les solutions (atténuation) font davantage débat que la science physique du climat."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : les gouvernements approuvent ligne par ligne le résumé du GIEC. Mais le rapport complet est écrit par des scientifiques, relu par des dizaines de milliers de commentaires, et le résumé doit lui rester fidèle. Et ceux qui pèsent le plus pour changer les mots, ce sont des pays pétroliers qui veulent adoucir le constat, pas l'inverse.",
+    "indecis": "Ta prudence est saine : le GIEC est bien un organisme intergouvernemental, et les États relisent son résumé. Mais il ne fait pas de recherche, il synthétise les études publiées, et ses rapports complets ne sont pas réécrits par les gouvernements. C'est justement parce que tous les pays signent le résumé que plus personne ne peut en contester les constats."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "universalite"
+    ],
+    "mecanismes": "Disqualifier le messager évite de discuter le message : en présentant le GIEC comme politique, on écarte d’un revers de main des milliers d’études publiées. Or l’intervention des États porte sur la formulation du résumé, sous le contrôle des auteurs, et sert plutôt aux pays producteurs d’énergies fossiles pour adoucir les constats.",
+    "consequences": "Le soupçon jeté sur la science retarde l’action climatique, dont les premières victimes sont les plus pauvres, ici et dans les pays du Sud, qui subissent déjà sécheresses, canicules et inondations.",
+    "democratie": "Le GIEC est un cas rare de coopération où tous les pays, riches ou pauvres, valident ensemble un même état des connaissances : c’est une base commune pour des choix démocratiques, qui restent ceux des peuples et des gouvernements.",
+    "propositions": [
+      "Rendre plus visibles les rapports complets et les réponses des auteurs aux commentaires, pour que chacun puisse vérifier.",
+      "Renforcer la recherche publique sur le climat et l’enseignement des sciences du climat à l’école.",
+      "Fonder les politiques climatiques sur ces constats partagés, avec une répartition juste des efforts."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les gouvernements approuvent ligne par ligne le résumé pour décideurs.",
+        "integration": "Le reconnaître d’emblée, puis préciser que le rapport complet n’est pas réécrit, que le résumé doit lui rester conforme et que la pression vient surtout de pays pétroliers qui veulent minimiser le problème."
+      }
+    ]
+  },
+  "concepts": [
+    "medias",
+    "ecologie",
+    "climat_origine"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "merdias",
+    "tele",
+    "presse",
+    "cachent la verite",
+    "nous cachent",
+    "on nous cache",
+    "propagande",
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ]
+}

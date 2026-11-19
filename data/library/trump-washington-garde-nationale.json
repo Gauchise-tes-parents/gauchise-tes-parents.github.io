@@ -1,0 +1,232 @@
+{
+  "id": "trump-washington-garde-nationale",
+  "type": "idee_recue",
+  "affirmation": "Trump a fait baisser la criminalité à Washington en envoyant la Garde nationale.",
+  "volet": "international",
+  "sous_theme": "États-Unis",
+  "rubriques": [],
+  "mots_cles": [
+    "trump washington criminalite",
+    "garde nationale washington",
+    "trump a nettoye washington",
+    "washington crime baisse trump",
+    "national guard dc",
+    "trump securite washington",
+    "plus de meurtres a washington",
+    "trump ordre washington",
+    "il faut faire comme trump",
+    "armee dans les villes"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La criminalité violente à Washington baissait déjà nettement avant le déploiement d'août 2025 : selon l'AP, -35 % depuis 2023 et -26 % sur un an selon la police locale, au moment même où Donald Trump disait que « ça empire ». Après l'arrivée des troupes, certaines baisses ont été mesurées, mais elles sont difficiles à attribuer à la Garde : selon une étude rapportée par NBC Washington, elle n'a eu aucun effet mesurable sur les crimes violents, seulement sur les petits vols dans les zones touristiques, pour un coût d'environ 185 millions de dollars en cinq mois.",
+  "contexte": "En août 2025, Donald Trump a placé la police de Washington sous contrôle fédéral et y a déployé la Garde nationale, en décrivant une ville en proie au crime. Il a ensuite présenté la baisse de la criminalité comme la preuve de son efficacité, et l'argument est repris en France pour réclamer l'armée dans certains quartiers.",
+  "explication": "On compare la tendance avant et après le déploiement, à partir des données de la police de Washington rapportées par l'AP, CBS News, PolitiFact et Reuters, puis on regarde ce qu'une étude a pu attribuer à la Garde.",
+  "faits": [
+    {
+      "fait": "Selon l'Associated Press (11 août 2025), au moment où Donald Trump annonçait la reprise en main fédérale en affirmant que la situation empirait, les données de la police de Washington montraient une baisse de 26 % des crimes violents sur un an, et un rapport du ministère de la Justice une baisse de 35 % depuis 2023, au plus bas depuis 30 ans.",
+      "periode": "2023-2025",
+      "perimetre": "Washington (district de Columbia)",
+      "explication": "La baisse avait commencé bien avant l'intervention fédérale.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "26 %"
+    },
+    {
+      "fait": "Selon CBS News, dans les deux semaines précédant le 7 août 2025, les crimes violents à Washington étaient déjà environ 20 % sous leur niveau des années précédentes, d'après les données de la police locale.",
+      "periode": "juillet-août 2025",
+      "perimetre": "Washington (district de Columbia)",
+      "explication": "La tendance à la baisse était en cours juste avant l'arrivée des troupes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    },
+    {
+      "fait": "Fait défavorable : selon CBS News, du 7 au 25 août 2025, les crimes violents ont baissé de près de moitié par rapport à la même période de 2024, les cambriolages de 48 % et les vols de voitures de 36 %.",
+      "periode": "août 2025",
+      "perimetre": "Washington (district de Columbia)",
+      "explication": "Une baisse forte a bien été mesurée pendant le déploiement ; CBS souligne toutefois qu'en identifier la cause est « complexe », puisque la baisse précédait l'opération.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "48 %"
+    },
+    {
+      "fait": "Fait défavorable : selon Reuters, les violences par arme à feu signalées sont passées de 97 à 65 sur des périodes de quatre semaines avant et après le début de l'opération, une baisse que le criminologue Peter Moskos jugeait trop soudaine pour être une coïncidence ; mais les crimes violents étaient revenus à environ sept par jour fin septembre, comme avant.",
+      "periode": "juillet-septembre 2025",
+      "perimetre": "Washington (district de Columbia)",
+      "explication": "Certains effets à court terme sont plausibles, mais ils ne se sont pas maintenus sur tous les indicateurs.",
+      "source": 3,
+      "fiabilite": "interpretation",
+      "chiffre": "65"
+    },
+    {
+      "fait": "Selon PolitiFact, l'affirmation de Donald Trump selon laquelle Washington avait toujours un meurtre par semaine est fausse : des périodes sans homicide avaient déjà eu lieu avant son intervention, et la baisse des crimes violents sur un an lui est antérieure.",
+      "periode": "2024-2025",
+      "perimetre": "Washington (district de Columbia)",
+      "explication": "Les « records » mis en avant pendant le déploiement s'étaient déjà produits sans la Garde.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon NBC Washington, une étude du Niskanen Center sur août-décembre 2025 conclut que la Garde nationale n'a eu « aucun effet mesurable » sur les crimes violents, mais a réduit de 24 % les petits vols opportunistes dans les zones touristiques patrouillées, pour un coût estimé à 185 millions de dollars.",
+      "periode": "août-décembre 2025",
+      "perimetre": "Washington (district de Columbia)",
+      "explication": "L'effet attribuable à la Garde semble limité et coûteux : un garde coûterait environ 607 dollars par jour, contre 384 pour un policier.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "185 millions de dollars"
+    },
+    {
+      "fait": "Selon Reuters, plus de 500 services de police américains enregistraient une baisse des homicides d'environ 20 % sur les sept premiers mois de 2025 par rapport à 2024, sans déploiement de la Garde nationale.",
+      "periode": "2025",
+      "perimetre": "États-Unis",
+      "explication": "La baisse de Washington s'inscrit dans une baisse nationale.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "20 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "La criminalité baissait déjà à Washington avant l'arrivée de la Garde : -26 % de crimes violents sur un an selon la police locale, -35 % depuis 2023 selon le ministère de la Justice, au moment même où Trump disait que ça empirait. Une étude n'a trouvé aucun effet mesurable de la Garde sur les crimes violents, seulement sur les petits vols dans les zones touristiques, pour environ 185 millions de dollars.",
+    "moyen": "Quand Donald Trump a envoyé la Garde nationale à Washington en août 2025, la criminalité y baissait déjà fortement. Selon l'AP, les crimes violents étaient en baisse de 26 % sur un an d'après la police, et de 35 % depuis 2023 selon le ministère de la Justice. Juste avant l'opération, ils étaient déjà environ 20 % sous le niveau des années précédentes, selon CBS News.\n\nPendant le déploiement, des baisses ont bien été mesurées, mais leur cause est discutée. Selon Reuters, les crimes violents étaient revenus fin septembre à leur niveau d'avant. Une étude du Niskanen Center, rapportée par NBC Washington, ne trouve aucun effet mesurable sur la violence, seulement une baisse de 24 % des petits vols dans les zones touristiques, pour un coût d'environ 185 millions de dollars en cinq mois. Et les homicides baissaient au même moment dans tout le pays.",
+    "detaille": "Le récit de Donald Trump est celui d'une ville hors de contrôle, sauvée par l'armée. Les données racontent autre chose. Le 11 août 2025, quand il annonce la reprise en main fédérale en affirmant que « ça empire », l'Associated Press rappelle que les crimes violents ont baissé de 26 % sur un an selon la police de Washington, et de 35 % depuis 2023 selon le propre ministère de la Justice, atteignant leur plus bas niveau depuis 30 ans. En 2023, la ville avait compté 274 meurtres, le chiffre le plus élevé depuis 20 ans.\n\nJuste avant l'arrivée des troupes, la baisse était déjà en cours : selon CBS News, les crimes violents des deux semaines précédant le 7 août étaient environ 20 % sous leur niveau habituel. Pendant les premières semaines, ils ont baissé de près de moitié par rapport à 2024, et les violences armées ont reculé, selon Reuters. Mais CBS rappelle qu'en identifier la cause est « complexe », et Reuters constate que fin septembre, les crimes violents étaient revenus à environ sept par jour, comme avant l'opération. PolitiFact a aussi démenti l'idée qu'il y avait toujours un meurtre par semaine avant Trump.\n\nLa seule étude d'ensemble lue, celle du Niskanen Center sur les cinq premiers mois, conclut à l'absence d'effet mesurable sur les crimes violents, avec une baisse de 24 % des petits vols dans les zones touristiques, pour environ 185 millions de dollars. Dans le même temps, les homicides baissaient d'environ 20 % dans plus de 500 villes américaines, sans soldats.\n\nLa leçon pour le débat français est claire : la sécurité se construit par la police de proximité, la prévention, la justice et la lutte contre les inégalités, sur la durée. Envoyer des soldats dans une ville gouvernée par l'opposition relève de la mise en scène autoritaire, et s'en attribuer une baisse déjà engagée, de la propagande.",
+    "empathie": "Vouloir des rues sûres est un désir légitime, et voir un dirigeant agir de façon spectaculaire peut rassurer. La question est de savoir ce qui marche vraiment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les chiffres ont baissé après l'arrivée de la Garde, c'est la preuve.",
+      "reponse": "Ils baissaient déjà avant : -26 % sur un an selon la police au moment de l'annonce, et environ -20 % juste avant le déploiement selon CBS. Une baisse qui continue n'est pas une baisse provoquée."
+    },
+    {
+      "objection": "Les chiffres de la police de Washington sont truqués.",
+      "reponse": "Une enquête vise bien des soupçons de manipulation, mais le ministère de la Justice de Trump lui-même parlait d'un plus bas depuis 30 ans, et l'étude du Niskanen Center a contrôlé les données avec d'autres sources."
+    },
+    {
+      "objection": "Il faudrait faire pareil en France avec l'armée.",
+      "reponse": "À Washington, l'étude disponible ne trouve aucun effet mesurable sur les violences, pour 185 millions de dollars en cinq mois ; un garde y coûtait plus cher qu'un policier."
+    }
+  ],
+  "questions": [
+    "Si la criminalité baissait déjà de 26 % avant l'arrivée des soldats, comment savoir ce qu'ils ont changé ?",
+    "Pourquoi les homicides baissaient-ils aussi dans des centaines de villes américaines sans Garde nationale ?"
+  ],
+  "limites": [
+    "Les données de la police de Washington (MPD) n'ont pas été consultées directement : les chiffres viennent de l'AP, de CBS News, de PolitiFact et de Reuters.",
+    "L'étude du Niskanen Center n'a pas été lue directement ; elle est rapportée par NBC Washington, sans détail de méthode statistique.",
+    "Les données de la ville font l'objet d'une enquête pour des soupçons de manipulation, selon l'AP.",
+    "Les bilans annuels complets de 2025 et 2026 n'ont pas été lus dans une source fiable ; la page de Reuters a été lue via sa reprise par Malay Mail ; toutes les sources ont été lues en anglais à travers un outil qui résume."
+  ],
+  "sources": [
+    {
+      "titre": "FACT FOCUS: Trump exaggerates, misstates facts on Washington crime",
+      "organisme": "Associated Press (David Klepper)",
+      "date_publication": "11 août 2025",
+      "url": "https://www.clickondetroit.com/news/politics/2025/08/11/fact-focus-trump-exaggerates-misstates-facts-on-washington-crime/",
+      "passage": "Donald Trump : « It's getting worse, not getting better. » Les données de la police (MPD) montrent une baisse de 26 % des crimes violents par rapport à la même période de 2024 ; homicides, vols avec violence et cambriolages sont aussi en baisse. Un rapport du ministère de la Justice indique une baisse de 35 % des crimes violents depuis 2023, au plus bas depuis 30 ans. 274 meurtres en 2023, le chiffre le plus élevé en 20 ans. Les données de la ville font l'objet d'une enquête pour des soupçons de chiffres modifiés.",
+      "pertinence": "Vérification des faits de l'agence AP (reprise par un média local, lue en anglais).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "CBS News analyzed D.C. crime data amid National Guard deployments. Here's what the numbers show",
+      "organisme": "CBS News",
+      "date_publication": "mis à jour le 27 août 2025",
+      "url": "https://www.cbsnews.com/news/dc-crime-data-national-guard-deployments-analysis",
+      "passage": "Du 7 au 25 août 2025, les crimes violents ont baissé de près de moitié par rapport aux mêmes 19 jours de 2024 ; cambriolages -48 %, vols de voitures -36 %. Mais dans les deux semaines précédant le 7 août, les crimes violents étaient déjà environ 20 % sous leur niveau des années précédentes, selon les données du MPD. « Identifying the specific causes of changes in criminal activity is complex. » Les arrestations (plus de 1 094 selon la Maison-Blanche) suivent un rythme comparable aux 1 071 de la même période de 2024. Environ 900 gardes nationaux de Washington et plus de 1 300 venus de six États républicains.",
+      "pertinence": "Analyse de données d'une grande chaîne américaine (lue en anglais).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fact-check : « We always have a murder a week » in D.C.",
+      "organisme": "PolitiFact",
+      "date_publication": "27 août 2025",
+      "url": "https://politifact.com/factchecks/2025/aug/27/donald-trump/dc-homicide-week-national-guard-crime/",
+      "passage": "Verdict « False » sur l'affirmation de Donald Trump selon laquelle Washington avait toujours un meurtre par semaine avant son intervention : des séquences sans homicide avaient déjà eu lieu en 2025 (environ 16 jours en février-mars) et en 2024 (neuf jours en août). La baisse des crimes violents sur un an est antérieure aux actions de Trump. James Alan Fox : « One year is not enough time to establish a reliable trend; certainly a week or two is even less reliable. »",
+      "pertinence": "Média américain de vérification des faits (lu en anglais).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Did Trump's mobilisation of federal agents and soldiers reduce crime in Washington? It's complicated",
+      "organisme": "Reuters (repris par Malay Mail)",
+      "date_publication": "6 octobre 2025",
+      "url": "https://www.malaymail.com/news/world/2025/10/06/did-trumps-mobilisation-of-federal-agents-and-soldiers-reduce-crime-in-washington-its-complicated/193473",
+      "passage": "Selon les données du MPD, environ 7 crimes violents par jour le mois précédant l'opération, 5 à 6 à la mi-août, de nouveau environ 7 sur les deux semaines achevées le 28 septembre. Les violences par arme à feu sont tombées à 65 signalements, contre 97 sur les quatre semaines précédentes. Jeffrey Fagan : tirer une conclusion d'une intervention si courte « doesn't make any sense » ; Peter Moskos, sur la baisse des violences armées : « too sudden of a change to be passed off as a coincidence ». La criminalité baissait déjà avant l'arrivée des troupes ; plus de 500 services de police montraient des homicides en baisse d'environ 20 % sur les sept premiers mois de 2025.",
+      "pertinence": "Dépêche d'agence internationale reprise par un quotidien malaisien (lue en anglais).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "National Guard deployment to DC had no effect on violent crime, study says",
+      "organisme": "NBC Washington",
+      "date_publication": "4 juin 2026",
+      "url": "https://www.nbcwashington.com/news/local/national-guard-deployment-to-dc-had-no-effect-on-violent-crime-study-says/4112113/",
+      "passage": "Étude du Niskanen Center sur août-décembre 2025, à partir des statistiques de la police, contrôlées par les données ShotSpotter et le volume d'appels d'urgence : la présence de la Garde « had no measurable effect on violent crime », mais une « 24% reduction in opportunistic property crime » dans les zones touristiques patrouillées. Coût estimé à « $185 million » ; environ 607 dollars par garde et par jour contre 384 pour un policier. La criminalité violente avait déjà baissé depuis un pic à l'été 2023.",
+      "pertinence": "Chaîne locale (groupe NBC) rendant compte d'une étude d'un centre de réflexion (lue en anglais).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Bilans annuels de la criminalité à Washington et évaluations indépendantes du déploiement.",
+  "objections_legitimes": [
+    "Washington a connu un pic de violence réel en 2023, avec 274 meurtres.",
+    "Des baisses fortes ont été mesurées pendant les premières semaines du déploiement.",
+    "Une présence visible peut réduire certains petits délits dans les lieux patrouillés."
+  ],
+  "publics": {
+    "convaincus": "Regarde les chiffres de son propre ministère de la Justice : la criminalité violente avait déjà baissé de 35 % depuis 2023 avant que Trump n'envoie la Garde. Une étude ne trouve aucun effet mesurable des soldats sur les violences, pour 185 millions de dollars. Il s'est attribué une baisse qui avait commencé sans lui.",
+    "indecis": "C'est vrai que la criminalité a baissé à Washington, et que l'action spectaculaire de Trump a pu rassurer. Mais la baisse avait commencé avant : -26 % de crimes violents sur un an au moment de l'annonce. L'étude disponible montre surtout un effet sur les petits vols dans les zones touristiques, pas sur les violences, et les homicides baissaient au même moment dans tout le pays."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "democratie",
+      "services_publics"
+    ],
+    "mecanismes": "Un dirigeant s’attribue une tendance déjà engagée en mettant en scène une intervention spectaculaire : la baisse qui suit est présentée comme sa victoire, même quand elle avait commencé avant.",
+    "consequences": "Des sommes considérables sont dépensées pour une présence militaire sans effet mesurable sur les violences, au lieu de financer la prévention et la police de proximité ; la présence armée peut aussi éloigner les habitants, notamment immigrés, de la police.",
+    "democratie": "Envoyer des soldats dans une ville et placer sa police sous contrôle fédéral au nom d’une urgence démentie par les chiffres banalise l’usage de l’armée contre la population et affaiblit les pouvoirs locaux élus.",
+    "propositions": [
+      "Évaluer les politiques de sécurité de façon indépendante, sur des données publiques et vérifiables.",
+      "Investir dans une police de proximité, la prévention et la justice plutôt que dans des déploiements militaires.",
+      "Refuser en France l’usage de l’armée pour des missions de maintien de l’ordre."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des baisses fortes de la criminalité ont été mesurées pendant les premières semaines du déploiement, et une étude trouve une baisse des petits vols dans les zones patrouillées.",
+        "integration": "Le reconnaître, puis montrer que la baisse avait commencé avant, qu’elle ne s’est pas maintenue sur tous les indicateurs et que l’effet attribuable aux soldats est limité et très coûteux."
+      }
+    ]
+  },
+  "concepts": [
+    "trump_washington",
+    "delinquance",
+    "patriotisme",
+    "homicide"
+  ],
+  "repond_a": [
+    {
+      "id": "trump_washington_q1906",
+      "label": "Trump, la Garde nationale et la criminalité à Washington"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "fierte",
+    "haine de la france",
+    "drapeau",
+    "marseillaise"
+  ]
+}

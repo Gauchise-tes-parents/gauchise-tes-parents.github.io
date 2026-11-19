@@ -1,0 +1,203 @@
+{
+  "id": "couche-ozone-bluff",
+  "type": "idee_recue",
+  "affirmation": "Le trou de la couche d'ozone, c'était du bluff écolo.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "trou couche d ozone bluff",
+    "couche d ozone arnaque",
+    "trou d ozone invente",
+    "ozone mensonge ecolo",
+    "cfc interdiction inutile",
+    "protocole de montreal",
+    "trou d ozone referme tout seul",
+    "on n en parle plus de l ozone",
+    "ozone climat meme arnaque",
+    "couche d ozone retablie"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Le trou de la couche d'ozone a été mesuré dès 1985, sa cause (le chlore et le brome des CFC et halons) a valu un prix Nobel de chimie en 1995, et l'UV supplémentaire augmente le risque de cancer de la peau. Si l'on n'en parle plus, c'est parce que le protocole de Montréal (1987) a fait éliminer près de 99 % des substances en cause : le trou se résorbe lentement, il a été l'un des plus petits depuis 1992 en 2025, et l'OMM prévoit un retour aux niveaux de 1980 vers 2066 au-dessus de l'Antarctique.",
+  "contexte": "L'argument sert surtout à décrédibiliser l'alerte climatique : « on nous a fait peur avec l'ozone, puis on n'en a plus parlé, donc le climat, c'est pareil ». Il inverse le sens de l'histoire : on n'en parle plus parce que le problème a été traité.",
+  "explication": "On reprend la découverte et la cause scientifique du trou, puis les mesures récentes de l'OMM et de la NASA sur sa résorption, et ce qu'elles doivent au protocole de Montréal.",
+  "faits": [
+    {
+      "fait": "Selon un rapport de l'Académie des sciences rédigé par des chercheuses du LATMOS (CNRS), le « trou d'ozone » antarctique a été mis en évidence en 1985 ; les CFC et halons libèrent du chlore et du brome qui détruisent l'ozone, et les composés chlorés ont été multipliés par cinq dans la stratosphère depuis 1950.",
+      "periode": "1950-2015",
+      "perimetre": "monde",
+      "explication": "Le phénomène a été mesuré et expliqué chimiquement ; les chercheurs qui ont identifié le mécanisme ont reçu le prix Nobel de chimie en 1995.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le même rapport, le rayonnement UV au sol a augmenté d'environ 4 % aux moyennes latitudes entre 1979 et 2000, avec des « incidences avérées sur le risque de cancer de la peau ».",
+      "periode": "1979-2000",
+      "perimetre": "moyennes latitudes",
+      "explication": "Le danger n'était pas théorique : moins d'ozone, c'est plus d'UV et plus de cancers de la peau.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "4 %"
+    },
+    {
+      "fait": "Selon l'Organisation météorologique mondiale, l'évaluation scientifique de 2022 conclut que l'élimination de près de 99 % des substances interdites a protégé la couche d'ozone, qui retrouverait ses niveaux de 1980 vers 2066 au-dessus de l'Antarctique, 2045 en Arctique et 2040 ailleurs.",
+      "periode": "2023",
+      "perimetre": "monde",
+      "explication": "On n'en parle plus parce que le problème a été traité, pas parce qu'il était inventé.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "99 %"
+    },
+    {
+      "fait": "Selon la NASA et la NOAA, le trou de 2025 a été le cinquième plus petit depuis 1992 ; les substances appauvrissant l'ozone dans la stratosphère antarctique ont baissé d'environ un tiers par rapport aux niveaux d'avant le trou, et sans cette baisse le trou serait plus grand de plus d'un million de miles carrés.",
+      "periode": "2025",
+      "perimetre": "Antarctique",
+      "explication": "Les mesures relient directement la résorption à la baisse du chlore obtenue par le protocole de Montréal.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Organisation météorologique mondiale (septembre 2026), le trou de 2025 s'est classé entre le quatrième et le cinquième plus petit depuis 1992 ; sa secrétaire générale parle d'« une réussite environnementale » et d'un « rétablissement complet au cours des prochaines décennies ».",
+      "periode": "2025-2026",
+      "perimetre": "Antarctique",
+      "explication": "C'est l'une des rares victoires écologiques mondiales, obtenue par une réglementation contraignante.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Organisation météorologique mondiale, la reconstitution n'est pas terminée et reste fragile : des émissions inattendues de CFC-11 ont été relevées jusqu'en 2018, la taille du trou varie fortement d'une année à l'autre selon la météo, et le nombre de stations de mesure de l'ozone a baissé d'environ 130 à 110.",
+      "periode": "2018-2026",
+      "perimetre": "monde",
+      "explication": "Le trou n'est pas refermé et des tricheries existent : ces variations nourrissent le doute, mais la tendance de fond mesurée depuis 2000 est nette.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Le trou a été mesuré en 1985, sa cause chimique (les CFC) a valu un prix Nobel, et il augmentait les UV et les cancers de la peau. Si on n'en parle plus, c'est que le protocole de Montréal a fait disparaître près de 99 % des produits en cause : le trou se résorbe et devrait revenir aux niveaux de 1980 vers 2066 en Antarctique.",
+    "moyen": "Le trou de la couche d'ozone a été mis en évidence en 1985 au-dessus de l'Antarctique. Sa cause est connue : le chlore et le brome libérés par les CFC (aérosols, réfrigération) et les halons détruisent l'ozone dans la stratosphère. Moins d'ozone, c'est plus d'UV : entre 1979 et 2000, les UV au sol ont augmenté d'environ 4 % aux moyennes latitudes, avec un effet avéré sur les cancers de la peau.\n\nEn 1987, le protocole de Montréal a interdit ces produits. Près de 99 % des substances visées ont été éliminées, et le trou se résorbe lentement depuis les années 2000. En 2025, il a été le cinquième plus petit depuis 1992, selon la NASA et la NOAA. L'OMM prévoit un retour aux niveaux de 1980 vers 2066 au-dessus de l'Antarctique. On n'en parle plus parce que ça a marché.",
+    "detaille": "Le trou de la couche d'ozone n'est pas une rumeur : il a été mesuré en 1985 au-dessus de l'Antarctique. Selon un rapport de l'Académie des sciences, rédigé par des chercheuses du CNRS, les CFC utilisés dans les aérosols et la réfrigération, ainsi que les halons, libèrent du chlore et du brome dans la stratosphère ; ces composés y ont été multipliés par cinq depuis 1950. Au retour du soleil sur l'Antarctique, ce chlore détruit l'ozone en masse. Les chercheurs qui ont identifié le mécanisme ont reçu le prix Nobel de chimie en 1995.\n\nLes conséquences étaient concrètes : les UV au sol ont augmenté d'environ 4 % aux moyennes latitudes entre 1979 et 2000, avec des effets avérés sur le risque de cancer de la peau. C'est pourquoi les États ont signé en 1987 le protocole de Montréal, qui a conduit à l'arrêt presque total de la production de ces gaz dans les pays riches dès 1996.\n\nLe résultat est mesurable. Selon l'évaluation scientifique de 2022 présentée par l'OMM, près de 99 % des substances interdites ont été éliminées et la couche d'ozone devrait retrouver ses niveaux de 1980 vers 2066 en Antarctique, 2045 en Arctique et 2040 ailleurs. Selon la NASA et la NOAA, le trou de 2025 a été le cinquième plus petit depuis 1992, et les substances en cause ont baissé d'environ un tiers dans la stratosphère antarctique. L'OMM parle d'« une réussite environnementale ».\n\nTout n'est pas réglé : la taille du trou varie selon la météo, des émissions illégales de CFC-11 ont été détectées jusqu'en 2018, et le réseau de mesure se réduit. Mais la leçon est claire : quand la science alerte et que les États imposent des règles aux industriels, un problème écologique mondial peut reculer. C'est exactement l'inverse d'un bluff.",
+    "empathie": "On a beaucoup entendu parler de la couche d'ozone dans les années quatre-vingt-dix, puis presque plus : il est normal de se demander ce qu'est devenu ce problème."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le trou s'est refermé tout seul, c'est naturel.",
+      "reponse": "Les mesures relient sa résorption à la baisse du chlore dans la stratosphère, obtenue par l'interdiction des CFC ; selon la NASA, sans cette baisse le trou serait plus grand de plus d'un million de miles carrés."
+    },
+    {
+      "objection": "On n'en parle plus, c'est bien la preuve que c'était bidon.",
+      "reponse": "On n'en parle plus parce que le protocole de Montréal a fonctionné : près de 99 % des substances en cause ont été éliminées, selon l'OMM."
+    },
+    {
+      "objection": "Le climat, c'est le même bluff.",
+      "reponse": "L'ozone montre au contraire que les alertes scientifiques étaient fondées et que des règles contraignantes marchent ; c'est un argument pour agir sur le climat, pas contre."
+    }
+  ],
+  "questions": [
+    "Si le trou d'ozone était inventé, pourquoi la NASA et l'OMM mesurent-elles encore sa taille chaque année ?",
+    "Est-ce qu'un problème réglé grâce à une interdiction prouve que le problème n'existait pas ?"
+  ],
+  "limites": [
+    "Les pages de l'OMM et de la NASA ont été lues à travers un outil de lecture qui résume (en anglais pour deux d'entre elles) : les citations sont à revérifier.",
+    "Le rapport de l'Académie des sciences date de 2015 ; ses chiffres sur les UV couvrent 1979-2000.",
+    "Le rapport d'évaluation scientifique de 2022 lui-même n'a pas été ouvert : ses conclusions sont rapportées par le communiqué de l'OMM.",
+    "Aucune page de Météo-France sur ce sujet n'a été ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Ozone layer recovery is on track, helping avoid global warming by 0.5°C",
+      "organisme": "Organisation météorologique mondiale (Nations unies)",
+      "date_publication": "9 janvier 2023 (mis à jour le 2 mars 2023)",
+      "url": "https://wmo.int/news/media-centre/ozone-layer-recovery-track-helping-avoid-global-warming-05degc",
+      "passage": "Évaluation quadriennale du groupe d'évaluation scientifique du protocole de Montréal (OMM, PNUE, NOAA, NASA, Commission européenne) : la couche d'ozone est « on track to recover within four decades » ; retour aux valeurs de 1980 vers 2066 en Antarctique, vers 2045 en Arctique et vers 2040 ailleurs, si les politiques actuelles sont maintenues. L'élimination de près de 99 % des substances interdites a protégé la couche d'ozone. Le trou antarctique s'améliore lentement en surface et en profondeur depuis 2000, avec des variations d'une année à l'autre dues à la météo. L'amendement de Kigali (2016) éviterait 0,3 à 0,5 °C de réchauffement d'ici 2100.",
+      "pertinence": "Communiqué officiel de l'OMM sur l'évaluation scientifique de 2022 (lu en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Reconstitution de la couche d’ozone : un bulletin de l’OMM fait le point sur les progrès et les défis",
+      "organisme": "Organisation météorologique mondiale (Nations unies)",
+      "date_publication": "16 septembre 2026",
+      "url": "https://wmo.int/fr/news/media-centre/reconstitution-de-la-couche-dozone-un-bulletin-de-lomm-fait-le-point-sur-les-progres-et-les-defis",
+      "passage": "En 2025, le trou au-dessus de l'Antarctique « a été l'un des plus petits observés depuis des décennies » et « s'est classé entre le quatrième et le cinquième rang des plus petits trous » relevés depuis 1992. La couche d'ozone se reconstitue depuis le début des années 2000. Celeste Saulo : « Il s'agit d'une réussite environnementale » ; « nous pouvons nous attendre à un rétablissement complet au cours des prochaines décennies ». Défis : émissions inattendues de CFC-11 (jusqu'en 2018) et de HFC-23 ; le rayonnement UV a augmenté jusqu'à 20 % dans certaines régions d'Europe depuis le milieu des années 1990, surtout à cause de la baisse de la couverture nuageuse ; le nombre de stations d'observation est passé d'environ 130 à 110.",
+      "pertinence": "Bulletin officiel de l'OMM pour la Journée mondiale de l'ozone.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "NASA, NOAA Rank 2025 Ozone Hole as 5th Smallest Since 1992",
+      "organisme": "NASA et NOAA (agences fédérales américaines)",
+      "date_publication": "24 novembre 2025 (mis à jour le 18 mars 2026)",
+      "url": "https://science.nasa.gov/solar-system/nasa-noaa-rank-2025-ozone-hole-as-5th-smallest-since-1992",
+      "passage": "Le trou de 2025 a couvert en moyenne environ 18,71 millions de km² pendant la saison (7 septembre-13 octobre), cinquième plus petit depuis 1992. Les contrôles des composés appauvrissant l'ozone prévus par le protocole de Montréal et ses amendements entraînent une lente reconstitution ; selon Stephen Montzka (NOAA), les substances appauvrissant l'ozone dans la stratosphère antarctique « have declined by about a third » par rapport aux niveaux d'avant le trou, après un pic vers 2000. Selon Paul Newman (NASA), le trou serait « more than one million square miles larger » si le chlore était resté au niveau d'il y a 25 ans ; « we still have a long way to go ». Retour attendu vers la fin des années 2060.",
+      "pertinence": "Communiqué des agences scientifiques américaines (lu en anglais).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'ozone stratosphérique (rapport du Comité des sciences de l'environnement)",
+      "organisme": "Académie des sciences, groupe de travail de chercheuses du LATMOS (CNRS, universités Versailles-Saint-Quentin et Sorbonne)",
+      "date_publication": "adopté le 5 mai 2015, approuvé le 16 juin 2015",
+      "url": "https://www.academie-sciences.fr/pdf/rapport/ozone0615.pdf",
+      "passage": "Découverte du « trou d'ozone » antarctique en 1985 (Farman et al.) ; travaux de Crutzen, Rowland et Molina, prix Nobel de chimie 1995. Les CFC et halons libèrent chlore et brome dans la stratosphère ; les composés chlorés y ont été multipliés par cinq depuis 1950 ; sur les nuages stratosphériques polaires, le chlore est « activé » puis détruit l'ozone au retour du soleil. Le protocole de Montréal (1987) a conduit à l'arrêt quasi total de leur production dans les pays développés dès 1996. Le rayonnement UV au sol a augmenté d'environ 4 % aux moyennes latitudes entre 1979 et 2000, avec des « incidences avérées sur le risque de cancer de la peau ».",
+      "pertinence": "Rapport de l'Académie des sciences rédigé par des chercheuses du LATMOS ; données arrêtées en 2015.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Prochaine évaluation scientifique quadriennale du protocole de Montréal attendue début 2027.",
+  "objections_legitimes": [
+    "Le sujet a effectivement presque disparu des médias, ce qui peut donner l'impression d'une alerte exagérée.",
+    "Le trou n'est pas refermé et sa taille varie fortement d'une année à l'autre.",
+    "Les produits de remplacement (HFC) se sont révélés être de puissants gaz à effet de serre, ce qui a demandé un nouvel accord en 2016."
+  ],
+  "publics": {
+    "convaincus": "Le trou d'ozone a été mesuré dès 1985 et sa cause chimique a valu un prix Nobel. Si on n'en parle plus, c'est qu'on a interdit les CFC : la NASA et l'OMM mesurent chaque année un trou qui se résorbe. C'est plutôt la preuve que les alertes scientifiques peuvent être prises au sérieux et que ça marche.",
+    "indecis": "C'est vrai qu'on n'entend presque plus parler de la couche d'ozone. La raison est simple : le protocole de Montréal de 1987 a fait éliminer presque tous les gaz responsables, et le trou se résorbe lentement. L'OMM prévoit un retour à la normale vers 2066 au-dessus de l'Antarctique : c'est une des rares victoires écologiques mondiales."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "internationalisme",
+      "vulnerables"
+    ],
+    "mecanismes": "Le succès d’une politique rend son problème invisible : on n’en parle plus parce qu’il a été traité, et ce silence est retourné en preuve d’un mensonge. L’argument vise surtout à discréditer, par ricochet, l’alerte climatique.",
+    "consequences": "Sans l’interdiction des CFC, le rayonnement ultraviolet aurait continué d’augmenter, avec davantage de cancers de la peau et de dommages aux cultures, touchant d’abord ceux qui travaillent dehors.",
+    "democratie": "Le protocole de Montréal montre que des États peuvent imposer ensemble des règles aux industriels sur la base de la science, et que la coopération internationale protège mieux que le chacun-pour-soi.",
+    "propositions": [
+      "Maintenir et financer les réseaux publics de mesure de l’atmosphère, qui se réduisent.",
+      "Poursuivre l’élimination des gaz de substitution qui réchauffent le climat et sanctionner les émissions illégales.",
+      "S’inspirer du protocole de Montréal pour des accords climatiques contraignants envers les industriels."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le trou n’est pas refermé, sa taille varie selon les années et des émissions illégales de CFC ont été détectées.",
+        "integration": "Présenter ces limites comme la preuve que la surveillance scientifique fonctionne et qu’il faut maintenir les règles, pas comme un argument contre l’existence du problème."
+      }
+    ]
+  },
+  "concepts": [
+    "gauche",
+    "ecologie",
+    "climat_origine"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "gauche",
+    "gauchos",
+    "melenchon",
+    "lfi",
+    "insoumis",
+    "mitterrand",
+    "jospin",
+    "front populaire",
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ]
+}

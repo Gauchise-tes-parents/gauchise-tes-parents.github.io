@@ -10,6 +10,19 @@
 // ─── Concepts ──────────────────────────────────────────────────────────────
 // central : concept qui porte le sujet (un concept non central ne suffit pas à choisir une fiche).
 export const CA_CONCEPTS = {
+  // fiches quotidiennes (19 novembre 2026, passage de 06 h 13)
+  violences_conj_hommes: { label: 'Hommes victimes de violences conjugales', central: true, motifs: ['hommes? battus', 'hommes? .*(autant|aussi) .*violences? conjugales?', 'violences? conjugales? .*hommes? .*(autant|aussi|victimes?)', 'femmes? .*(aussi|autant) violentes?'] },
+  salles_shoot: { label: 'Salles de consommation à moindre risque', central: true, motifs: ['salles? de (shoot|consommation|injection)', 'haltes? soins? addictions?'] },
+  delinquants_jeunes: { label: 'Âge des délinquants', central: true, motifs: ['(delinquan\\w*|criminels?|voyous?|racailles?) .*(de plus en plus|toujours plus) (jeunes?|tot)', '(gamins?|gosses?|enfants?|minots?) de (8|9|10|11|12|13|dix|onze|douze|treize) ans .*(deal\\w*|braqu\\w*|agress\\w*|trafi\\w*|guet\\w*)'] },
+  trump_washington: { label: 'Trump, la Garde nationale et la criminalité à Washington', central: true, motifs: ['trump .*(washington|garde nationale)', 'garde nationale .*washington', 'washington .*garde nationale'] },
+  tva_sociale: { label: 'TVA sociale', central: true, motifs: ['tva sociale', 'tva anti ?delocalisations?', '(baisser|baisse\\w*|supprimer) .*(charges|cotisations) .*\\btva\\b', '\\btva\\b .*(charges|cotisations|cout du travail)'] },
+  otan_sortie: { label: 'Sortie de l\'OTAN', central: true, motifs: ['(sort\\w*|quitt\\w*|retir\\w*) .*\\botan\\b', '\\botan\\b .*(sort\\w*|quitt\\w*)', 'sans l otan', 'commandement integre'] },
+  journalistes_gauche: { label: 'Opinions politiques des journalistes', central: true, motifs: ['journalistes? .*(de gauche|gauchistes?|gauchos?|islamo ?gauchistes?|\\bgauche\\b)', 'ecoles? de journalisme .*(gauche|militants?)'] },
+  fonctionnaires_ue: { label: 'Fiscalité des fonctionnaires européens', central: true, motifs: ['(fonctionnaires?|agents?) (europeens?|de l ue|de bruxelles|de la commission) .*(impots?|exoner\\w*|fisc\\w*)', 'eurocrates? .*(impots?|exoner\\w*|fisc\\w*)', 'bruxelles .*(pas|aucun) d ?impots?'] },
+  harcelement_rue: { label: 'Harcèlement de rue', central: true, motifs: ['harcelement de rue', 'siffler une (fille|femme|nana)', 'outrages? sexistes?', '(on ne peut|on peut) plus draguer'] },
+  hartz: { label: 'Réformes Hartz et modèle allemand', central: true, motifs: ['\\bhartz\\b', 'modele allemand .*(chomage|chomeurs?)', 'comme (l )?allemagne .*(chomeurs?|chomage)'] },
+  prieres_rue: { label: 'Prières de rue', central: true, motifs: ['prieres? de rue', '(prient|prier|priere\\w*) .*(rues?|trottoirs?|voie publique)', 'rues? .*bloquee?s? .*(prier|prient|priere\\w*)'] },
+  politique_familiale: { label: 'Politique familiale et natalité', central: true, motifs: ['politique familiale', 'quotient familial', 'modulation des allocations', 'hollande .*(allocs?|allocations|famil\\w*)', '(allocs?|allocations?) .*(bebes?|natalite|naissances?|fecondite)', '(natalite|naissances?|fecondite|bebes?) .*(allocs?|allocations?)'] },
   // fiches quotidiennes (18 novembre 2026, passage de 20 h 13)
   turquie_ue: { label: 'La Turquie et l’Union européenne', central: true, motifs: ['turquie .*(union europeenne|\\\\bue\\\\b|europe\\\\w*|adhesion|adherer|entrer|integrer)', '(adhesion|entree|integration|adherer) .*turquie', 'turcs? .*(union europeenne|\\\\bue\\\\b)'] },
   grooming_gangs: { label: 'Gangs de pédocriminels au Royaume-Uni', central: true, motifs: ['grooming gangs?', 'rotherham', '(gangs?|reseaux?) .*(pakistan\\w*|anglais|britanniques?|royaume uni|angleterre) .*(viol\\w*|filles?|enfants?)', '(royaume uni|angleterre|britanniques?) .*(gangs?|reseaux?) .*(viol\\w*|pedo\\w*)'] },
@@ -364,6 +377,8 @@ export const CA_CONCEPTS = {
 // Classification multiple : chaque concept relève d'un ou plusieurs domaines (volets de la taxonomie) ;
 // une phrase peut donc toucher plusieurs domaines à la fois (ex. immigration + social + sécurité).
 export const CA_DOMAINES = {
+  // fiches quotidiennes (19 novembre 2026, passage de 06 h 13)
+  violences_conj_hommes: ['securite', 'droits'], salles_shoot: ['securite', 'services'], delinquants_jeunes: ['securite'], trump_washington: ['international', 'securite'], tva_sociale: ['economie'], otan_sortie: ['international', 'politique'], journalistes_gauche: ['politique'], fonctionnaires_ue: ['politique', 'economie'], harcelement_rue: ['droits', 'securite'], hartz: ['economie', 'social'], prieres_rue: ['droits'], politique_familiale: ['social'],
   // fiches quotidiennes (18 novembre 2026, passage de 20 h 13)
   turquie_ue: ['politique', 'international'], grooming_gangs: ['securite', 'international'], sansal: ['politique', 'international'], pleins_pouvoirs: ['politique'], statues: ['international', 'politique'], de_gaulle_rn: ['politique'], harkis: ['international'], integration_europeens: ['immigration'], fessee: ['securite', 'droits'], ief: ['services', 'droits'], franchises: ['services'], masques: ['services'], vaccin_autisme: ['services'], refugies_vacances: ['immigration'], port_arme: ['securite'], suicides_policiers: ['securite'], abattage_rituel: ['droits'], communes: ['politique', 'services'], sru: ['social', 'economie'], livreurs: ['droits', 'social'], solaire_recyclage: ['ecologie'], jets_prives: ['ecologie'], licenciements_boursiers: ['politique', 'economie'],
   // fiches quotidiennes (18 novembre 2026, passage de 12 h 15)
@@ -441,6 +456,37 @@ export const CA_DOMAINES = {
 // signaux : formulations typiques (bonus) ; fiches : fiches qui répondent réellement, par ordre de pertinence ;
 // choisir : départage entre fiches selon des mots (facultatif) ; exclues : fiches voisines à ne PAS donner comme réponse.
 export const CA_ARGUMENTS = [
+  // fiches quotidiennes (19 novembre 2026, passage de 06 h 13) — placées en tête
+  { id: 'violences_conj_hommes_q1906', label: 'Hommes victimes de violences conjugales', famille: 'Sécurité et justice', tous: ['violences_conj_hommes'], fiches: ['violences-conjugales-hommes-victimes'],
+    implicite: 'Les hommes seraient autant victimes de violences conjugales que les femmes.', verifier: 'Les victimes enregistrées (SSMSI), l\'enquête Vécu et ressenti en matière de sécurité (Insee) et l\'étude sur les morts violentes au sein du couple.' },
+  { id: 'salles_shoot_q1906', label: 'Salles de consommation à moindre risque', famille: 'Sécurité', tous: ['salles_shoot'], fiches: ['salles-de-shoot-delinquance'],
+    implicite: 'Les salles de consommation attireraient les trafiquants et la délinquance.', verifier: 'L\'évaluation de l\'Inserm (2021) et les rapports parlementaires sur les haltes soins addictions.' },
+  { id: 'delinquants_jeunes_q1906', label: 'Âge des délinquants', famille: 'Sécurité et justice', tous: ['delinquants_jeunes'], fiches: ['delinquants-plus-jeunes'],
+    implicite: 'Les délinquants seraient de plus en plus jeunes.', verifier: 'Les données du ministère de la Justice et du SSMSI sur les mineurs mis en cause et poursuivis.' },
+  { id: 'trump_washington_q1906', label: 'Trump, la Garde nationale et la criminalité à Washington', famille: 'International', tous: ['trump_washington'], fiches: ['trump-washington-garde-nationale'],
+    implicite: 'L\'envoi de la Garde nationale aurait fait baisser la criminalité à Washington.', verifier: 'Les données de la police de Washington avant et après août 2025, rapportées par AP, CBS et PolitiFact.' },
+  { id: 'tva_sociale_q1906', label: 'TVA sociale', famille: 'Économie et fiscalité', tous: ['tva_sociale'], fiches: ['tva-sociale'],
+    implicite: 'Remplacer des cotisations par de la TVA ferait baisser le coût du travail sans perdant.', verifier: 'Les travaux du Conseil des prélèvements obligatoires et du CEPII, et l\'expérience de 2012.' },
+  { id: 'otan_sortie_q1906', label: 'Sortie de l\'OTAN', famille: 'International', tous: ['otan_sortie'], fiches: ['lfi-sortie-otan', 'rn-sortie-otan'], choisir: { 'rn-sortie-otan': '(\\brn\\b|rassemblement national|le pen|bardella|front national|\\bfn\\b)', 'lfi-sortie-otan': '(\\blfi\\b|insoumis\\w*|melenchon|gauche)' },
+    implicite: 'Quitter l\'OTAN (ou son commandement intégré) laisserait la France sans défense.', verifier: 'Le programme des partis, l\'article 5 du traité de l\'Atlantique Nord et les moyens propres de la défense française.' },
+  { id: 'journalistes_gauche_q1906', label: 'Opinions politiques des journalistes', famille: 'Médias et désinformation', tous: ['journalistes_gauche'], fiches: ['journalistes-tous-de-gauche'],
+    implicite: 'Tous les journalistes seraient de gauche.', verifier: 'Les enquêtes sur les écoles de journalisme, les décisions de l\'Arcom et la propriété des médias.' },
+  { id: 'fonctionnaires_ue_q1906', label: 'Fiscalité des fonctionnaires européens', famille: 'Europe et souveraineté', tous: ['fonctionnaires_ue'], fiches: ['fonctionnaires-europeens-impots'],
+    implicite: 'Les fonctionnaires européens ne paieraient pas d\'impôts.', verifier: 'Le barème de l\'impôt européen prélevé à la source et le prélèvement de solidarité.' },
+  { id: 'harcelement_rue_q1906_feminisme', label: 'Harcèlement de rue', famille: 'Droits et égalité', tous: ['harcelement_rue', 'feminisme'], fiches: ['harcelement-de-rue-invention'],
+    implicite: 'Le harcèlement de rue serait une invention féministe.', verifier: 'L\'enquête Virage de l\'Ined et les outrages sexistes enregistrés par le SSMSI.' },
+  { id: 'harcelement_rue_q1906_femmes_feminisme', label: 'Harcèlement de rue', famille: 'Droits et égalité', tous: ['harcelement_rue', 'femmes', 'feminisme'], fiches: ['harcelement-de-rue-invention'],
+    implicite: 'Le harcèlement de rue serait une invention féministe.', verifier: 'L\'enquête Virage de l\'Ined et les outrages sexistes enregistrés par le SSMSI.' },
+  { id: 'harcelement_rue_q1906_femmes_sortir_feminisme', label: 'Harcèlement de rue', famille: 'Droits et égalité', tous: ['harcelement_rue', 'femmes', 'feminisme', 'femmes_sortir'], fiches: ['harcelement-de-rue-invention'],
+    implicite: 'Le harcèlement de rue serait une invention féministe.', verifier: 'L\'enquête Virage de l\'Ined et les outrages sexistes enregistrés par le SSMSI.' },
+  { id: 'harcelement_rue_q1906', label: 'Harcèlement de rue', famille: 'Droits et égalité', tous: ['harcelement_rue'], fiches: ['harcelement-de-rue-invention'],
+    implicite: 'Le harcèlement de rue serait une invention féministe.', verifier: 'L\'enquête Virage de l\'Ined et les outrages sexistes enregistrés par le SSMSI.' },
+  { id: 'hartz_q1906', label: 'Réformes Hartz et modèle allemand', famille: 'Économie', tous: ['hartz'], fiches: ['lois-hartz-allemagne'],
+    implicite: 'Les réformes Hartz seraient un modèle à copier contre le chômage.', verifier: 'Les évaluations du Trésor, du Conseil d\'analyse économique et de l\'OFCE.' },
+  { id: 'prieres_rue_q1906', label: 'Prières de rue', famille: 'Laïcité', tous: ['prieres_rue'], fiches: ['prieres-de-rue-partout'],
+    implicite: 'Il y aurait des prières de rue partout en France.', verifier: 'L\'interdiction de 2011, le nombre de lieux de culte et les cas ponctuels documentés.' },
+  { id: 'politique_familiale_q1906', label: 'Politique familiale et natalité', famille: 'Social', tous: ['politique_familiale'], fiches: ['politique-familiale-hollande-natalite'],
+    implicite: 'La baisse de la natalité viendrait des réformes de la politique familiale sous François Hollande.', verifier: 'Le bilan démographique de l\'Insee et les travaux parlementaires sur la natalité.' },
   // fiches quotidiennes (18 novembre 2026, passage de 20 h 13) — placées en tête
   { id: 'turquie_ue_q2013', label: 'La Turquie et l’Union européenne', famille: 'Europe et souveraineté', tous: ['turquie_ue'], fiches: ['turquie-adhesion-ue'],
     implicite: 'La Turquie serait sur le point d\'entrer dans l\'Union européenne.', verifier: 'L\'état des négociations d\'adhésion selon le Conseil de l\'UE et l\'article 88-5 de la Constitution.' },

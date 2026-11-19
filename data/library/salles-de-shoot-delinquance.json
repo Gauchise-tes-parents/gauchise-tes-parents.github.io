@@ -1,0 +1,229 @@
+{
+  "id": "salles-de-shoot-delinquance",
+  "type": "idee_recue",
+  "affirmation": "Les salles de shoot attirent les dealers et la délinquance.",
+  "volet": "securite",
+  "sous_theme": "Sécurité du quotidien",
+  "rubriques": [],
+  "mots_cles": [
+    "salles de shoot delinquance",
+    "salle de shoot dealers",
+    "halte soins addictions",
+    "salle de consommation a moindre risque",
+    "salle de shoot gare du nord",
+    "salle de shoot riverains",
+    "salle de shoot insecurite",
+    "shooting room",
+    "salle de shoot strasbourg",
+    "pas de salle de shoot chez nous"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. L'évaluation de l'Inserm publiée en 2021 n'a constaté aucune détérioration de la tranquillité publique autour des salles de Paris et de Strasbourg, et les usagers qui y ont accès commettent moins de délits ; autour de la salle parisienne, les seringues abandonnées sont passées d'environ 150 à moins de 10 par jour. Mais la salle parisienne, installée dans un quartier où la consommation de rue existait déjà, suscite toujours des plaintes de riverains (bagarres, déchets, injections dehors). Aucune source lue ne montre que les salles attirent le trafic.",
+  "contexte": "Deux haltes soins addictions fonctionnent à titre expérimental depuis 2016, près de la gare du Nord à Paris et à Strasbourg. L'expérimentation a été prolongée jusqu'à fin 2027. Chaque projet d'ouverture dans une autre ville suscite une opposition locale, souvent nourrie par l'idée qu'une salle ferait venir dealers et délinquants.",
+  "explication": "On s'appuie sur l'évaluation scientifique de l'Inserm (via la presse et un rapport parlementaire), sur les travaux parlementaires et sur ce qu'on sait du rapport des inspections générales de 2024, en séparant tranquillité publique, délinquance des usagers et ressenti des riverains.",
+  "faits": [
+    {
+      "fait": "Selon la Banque des Territoires, qui rapporte l'évaluation de l'Inserm de mai 2021, l'étude conclut à « une absence de détérioration de la tranquillité publique » depuis l'ouverture des salles de Paris et de Strasbourg.",
+      "periode": "2016-2021",
+      "perimetre": "Paris et Strasbourg",
+      "explication": "La principale évaluation scientifique ne trouve pas l'effet redouté sur le quartier.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la même source, parmi 665 usagers suivis pendant un an, l'accès à une salle réduit l'injection en extérieur de 15 % et les passages aux urgences de 24 %, et diminue la probabilité de commettre des délits.",
+      "periode": "2016-2021",
+      "perimetre": "Paris et Strasbourg",
+      "explication": "Les usagers des salles consomment moins dans la rue et commettent moins de délits que ceux qui n'y ont pas accès.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "-15 %"
+    },
+    {
+      "fait": "Selon la mission flash de l'Assemblée nationale (septembre 2021), menée par une députée de la majorité et un député LR, le nombre de seringues retrouvées dans le quartier de la salle parisienne a été divisé par trois, et les données de l'Inserm « tendent à montrer » l'absence de dégradation de la tranquillité publique.",
+      "periode": "2016-2021",
+      "perimetre": "Paris",
+      "explication": "Des parlementaires de bords différents tirent le même constat.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, les rapports de l'IGAS, de l'IGA et de l'Inserm concluent à une réduction des nuisances dans l'espace public ; autour de la halte parisienne, les seringues abandonnées sont passées de 150 à moins de 10 par jour.",
+      "periode": "2016-2025",
+      "perimetre": "Paris",
+      "explication": "Les inspections de l'État confirment l'effet sur l'espace public.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "150 à moins de 10"
+    },
+    {
+      "fait": "Selon les associations gestionnaires, le rapport IGA-IGAS d'octobre 2024 juge les haltes utiles « sans équivoque » pour la tranquillité publique, et les policiers et magistrats auditionnés y voient un moyen de réduire les « nuisances et délits liés à la consommation visible ».",
+      "periode": "2024",
+      "perimetre": "Paris et Strasbourg",
+      "explication": "Les acteurs de la sécurité eux-mêmes défendraient le dispositif ; la source étant partie prenante, ce point reste à vérifier dans le rapport.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : selon la Banque des Territoires, la salle parisienne continue de susciter des plaintes de riverains (bagarres, accumulation de déchets, injections pratiquées en extérieur), alors que celle de Strasbourg, installée dans un hôpital, fait plutôt consensus.",
+      "periode": "2021",
+      "perimetre": "Paris",
+      "explication": "Une salle ne fait pas disparaître la misère et la consommation de rue d'un quartier déjà touché : l'emplacement et la médiation comptent.",
+      "source": 0,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Ce n'est pas ce que montrent les évaluations. Selon l'Inserm, les salles de Paris et Strasbourg n'ont pas dégradé la tranquillité publique, les usagers commettent moins de délits et les seringues abandonnées autour de la salle parisienne sont passées d'environ 150 à moins de 10 par jour. Les nuisances persistent à Paris, mais elles existaient avant : la salle ne les a pas créées.",
+    "moyen": "Les deux salles françaises ont été évaluées de près. Selon l'Inserm, en 2021, il n'y a pas eu de détérioration de la tranquillité publique autour de Paris et de Strasbourg. Les usagers qui ont accès à une salle s'injectent moins dans la rue (-15 %), vont moins aux urgences (-24 %) et commettent moins de délits. Autour de la halte parisienne, les seringues abandonnées sont passées de 150 à moins de 10 par jour.\n\nLa salle de la gare du Nord reste critiquée par des riverains : bagarres, déchets, injections dehors. Mais elle a été installée là où la consommation de rue existait déjà ; à Strasbourg, dans un hôpital, elle fait plutôt consensus. Aucune des sources lues ne montre qu'une salle attire le trafic : le deal suit les consommateurs, pas les lieux de soin.",
+    "detaille": "L'idée qu'une salle de consommation attirerait dealers et délinquants est l'argument le plus fréquent contre les haltes soins addictions. Or les deux salles françaises, ouvertes en 2016 à Paris et à Strasbourg, ont fait l'objet d'une évaluation scientifique de l'Inserm publiée en 2021.\n\nSelon cette évaluation, rapportée par la Banque des Territoires, il n'y a pas eu de détérioration de la tranquillité publique depuis l'ouverture des salles. Sur 665 usagers suivis pendant un an, l'accès à une salle réduit les injections en extérieur de 15 %, les passages aux urgences de 24 % et la probabilité de commettre des délits. La mission flash de l'Assemblée nationale, conduite en 2021 par une députée de la majorité et un député LR, relève que le nombre de seringues retrouvées dans le quartier parisien a été divisé par trois. Selon Public Sénat, qui résume les rapports de l'Inserm et des inspections générales, les seringues abandonnées autour de la salle parisienne sont passées de 150 à moins de 10 par jour.\n\nLa loi encadre d'ailleurs strictement les abords : seul le transport d'une quantité destinée à la consommation personnelle y est toléré, le trafic reste poursuivi.\n\nIl ne faut pas pour autant nier le malaise d'une partie des riverains de la gare du Nord : bagarres, déchets, injections encore pratiquées dehors. Mais cette salle a été placée dans un quartier où la consommation de rue était déjà massive, et elle ne peut pas à elle seule régler la misère et le crack. À Strasbourg, dans l'enceinte d'un hôpital, la salle fait plutôt consensus. La leçon est plutôt de mieux choisir les lieux, d'ouvrir plusieurs petites structures et de renforcer la médiation, comme le font de nombreux pays européens voisins, qui comptent plus de cent cinquante espaces de ce type.",
+    "empathie": "Vivre près d'une scène de consommation de drogue, avec ses seringues, ses bagarres et sa détresse, est éprouvant. Il est normal de craindre qu'une salle aggrave la situation : la question mérite des réponses précises."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Depuis la salle, le quartier de la gare du Nord est devenu invivable.",
+      "reponse": "La consommation de rue y existait avant ; selon l'Inserm, il n'y a pas eu de détérioration de la tranquillité publique, et les seringues abandonnées ont fortement diminué."
+    },
+    {
+      "objection": "Les salles de shoot, c'est une zone de non-droit pour les dealers.",
+      "reponse": "Le trafic reste poursuivi : aux abords, seul le transport d'une petite quantité pour usage personnel est toléré, selon la mission de l'Assemblée nationale."
+    },
+    {
+      "objection": "Ça encourage à se droguer.",
+      "reponse": "Les salles accueillent des personnes déjà dépendantes ; elles réduisent les overdoses, les passages aux urgences et la consommation dans la rue, selon l'Inserm."
+    }
+  ],
+  "questions": [
+    "Sans salle, où crois-tu que les personnes dépendantes s'injecteraient : chez elles, ou dans ta cage d'escalier ?",
+    "Qu'est-ce qui te gênerait le plus : une salle encadrée par des soignants, ou des seringues dans la rue ?"
+  ],
+  "limites": [
+    "Le rapport de l'Inserm (2021) n'a pas pu être ouvert (serveur indisponible) : ses résultats sont rapportés par la Banque des Territoires, la mission flash de l'Assemblée nationale et Public Sénat.",
+    "Le rapport IGA-IGAS de 2024 n'a pas été lu : il est connu par le communiqué des associations gestionnaires (partie prenante) et par Public Sénat.",
+    "Aucune source lue ne mesure spécifiquement le trafic de drogue aux abords des salles : l'absence d'effet repose sur l'indicateur global de tranquillité publique.",
+    "Les données portent sur deux salles seulement, dans des contextes très différents."
+  ],
+  "sources": [
+    {
+      "titre": "Drogues : bilan positif pour les salles de shoot françaises",
+      "organisme": "Banque des Territoires (Localtis), avec AFP",
+      "date_publication": "10 mai 2021",
+      "url": "https://www.banquedesterritoires.fr/drogues-bilan-positif-pour-les-salles-de-shoot-francaises",
+      "passage": "L'évaluation de l'Inserm (environ 350 pages) conclut à « une absence de détérioration de la tranquillité publique » ; le nombre de seringues retrouvées dans le quartier parisien a été divisé par trois. Sur 665 consommateurs suivis un an, l'accès à une salle réduit l'injection en extérieur de 15 %, les passages aux urgences de 24 % et la probabilité de commettre des délits. La salle de Strasbourg, dans l'enceinte d'un hôpital, fait plutôt consensus ; celle de Paris suscite toujours des plaintes de riverains (bagarres, déchets, injections en extérieur).",
+      "pertinence": "Article de la Caisse des dépôts rapportant l'évaluation de l'Inserm (le rapport lui-même n'a pas pu être ouvert).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mission flash sur les salles de consommation à moindre risque",
+      "organisme": "Assemblée nationale, commission des affaires sociales (Caroline Janvier, LREM, et Stéphane Viry, LR)",
+      "date_publication": "septembre 2021",
+      "url": "https://www2.assemblee-nationale.fr/content/download/404355/3940953/",
+      "passage": "Les rapporteurs citent l'étude de l'Inserm selon laquelle la salle « n'a pas entrainé de dégradation de la tranquillité publique », données qui « tendent à montrer » ce résultat ; « nombre de seringues retrouvées dans le quartier divisé par 3 ». « Les préoccupations légitimes des riverains sont souvent relayées par les médias » ; des collectifs de riverains soutiennent la salle. Aux abords, « seul le transport d'une quantité de produit destinée à une consommation personnelle » est toléré.",
+      "pertinence": "Rapport parlementaire transpartisan.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Une proposition de loi transpartisane pour pérenniser les « salles de shoot »",
+      "organisme": "Public Sénat",
+      "date_publication": "5 novembre 2025",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/une-proposition-de-loi-transpartisane-pour-perenniser-les-salles-de-shoot",
+      "passage": "Les rapports de l'IGAS, de l'IGA et de l'Inserm concluent à une réduction des overdoses, des contaminations au VIH et à l'hépatite C et des « nuisances dans l'espace public ». Autour de la halte parisienne, les seringues abandonnées sont passées « de 150 à moins de 10 par jour ». La halte de la gare du Nord accueille près de 200 consommations par jour ; les pays européens voisins comptent plus de 150 espaces de consommation supervisée.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Communiqué sur le rapport IGAS-IGA relatif aux haltes soins addictions",
+      "organisme": "Fédération Addiction, Gaïa Paris et Ithaque",
+      "date_publication": "16 décembre 2024",
+      "url": "https://federationaddiction.fr/wp-content/uploads/2024/12/20241216-rapport-igas-iga-sur-hsa.pdf",
+      "passage": "Selon ces associations, le rapport de l'IGA et de l'IGAS remis en octobre 2024 conclut à une utilité « sans équivoque » des haltes pour la tranquillité publique ; 550 000 injections supervisées depuis 2016 se sont déroulées dans les salles plutôt que dans l'espace public ; les représentants de la police et de la justice auditionnés soulignent l'importance des dispositifs pour réduire les « nuisances et délits liés à la consommation visible ».",
+      "pertinence": "Communiqué d'associations gestionnaires (partie prenante) ; le rapport IGAS-IGA lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 6094 sur l'avenir des haltes soins addictions, et réponse du ministère de la Santé",
+      "organisme": "Assemblée nationale (JO du 22 avril 2025 et du 15 juillet 2025)",
+      "date_publication": "15 juillet 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE6094.pdf",
+      "passage": "La réponse du gouvernement indique que les haltes visent à « réduire les atteintes à la santé pour les usagers de drogues » et à « diminuer le plus efficacement le nombre de consommations dans les espaces publics » ; elle rappelle « une évaluation extensive des HSA de Paris et Strasbourg » publiée en 2021 et la prolongation de l'expérimentation jusqu'au 31 décembre 2025.",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'expérimentation des haltes soins addictions prolongée de deux ans",
+      "organisme": "Santé mentale",
+      "date_publication": "janvier 2026",
+      "url": "https://www.santementale.fr/2026/01/lexperimentation-des-haltes-soins-addictions-prolongee-de-deux-ans/",
+      "passage": "Par un amendement à la loi de financement de la Sécurité sociale définitivement adoptée le 16 décembre 2025, l'expérimentation est prolongée « jusqu'au 31 décembre 2027 » ; la Fédération Addiction juge la décision « fragile et insuffisante ».",
+      "pertinence": "Revue professionnelle.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Fin de l'expérimentation des haltes soins addictions prévue fin 2027 et nouvelle évaluation des Hospices civils de Lyon.",
+  "objections_legitimes": [
+    "Des riverains de la salle parisienne subissent des nuisances réelles, documentées par l'évaluation elle-même.",
+    "Une salle ne règle pas seule le problème de la consommation de rue et du trafic dans un quartier.",
+    "Les habitants doivent être associés au choix de l'emplacement et au suivi."
+  ],
+  "publics": {
+    "convaincus": "Je comprends la crainte, mais regarde ce qu'ont trouvé les chercheurs de l'Inserm : pas de dégradation de la tranquillité publique, et des usagers qui commettent moins de délits. Autour de la salle parisienne, on est passé de 150 seringues ramassées par jour à moins de 10. Les drogués et les dealers étaient là avant la salle : elle ne les a pas fait venir.",
+    "indecis": "Les nuisances autour de la salle de Paris sont réelles, et les riverains ont raison de se plaindre. Mais l'évaluation scientifique montre que la salle n'a pas aggravé la situation et qu'elle a fait reculer les seringues et l'injection dans la rue. À Strasbourg, dans un hôpital, ça se passe bien : tout dépend de l'endroit et des moyens."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "vulnerables",
+      "services_publics"
+    ],
+    "mecanismes": "La peur d’un aimant à délinquance transforme une question de santé publique en question d’ordre, alors que la consommation de rue et le trafic préexistent aux salles qui tentent justement de les réduire.",
+    "consequences": "Sans salle, les personnes dépendantes s’injectent dans les halls, les parkings et les rues, avec plus d’overdoses, de contaminations et de seringues abandonnées, au détriment des usagers comme des riverains.",
+    "democratie": "Les riverains doivent être associés au choix des lieux et au suivi des structures, sur la base d’évaluations publiques plutôt que de rumeurs.",
+    "propositions": [
+      "Pérenniser les haltes soins addictions et en ouvrir de plus petites dans les villes qui en ont besoin, de préférence dans ou près des hôpitaux.",
+      "Financer la médiation, le nettoyage et l’accompagnement social autour des structures.",
+      "Associer les habitants à des comités de suivi réguliers."
+    ],
+    "defavorables": [
+      {
+        "fait": "Autour de la salle parisienne, des riverains continuent de se plaindre de bagarres, de déchets et d’injections dans la rue.",
+        "integration": "Ces nuisances sont réelles et existaient avant la salle : elles montrent qu’il faut plus de moyens, de médiation et de lieux mieux choisis, pas moins de soins."
+      }
+    ]
+  },
+  "concepts": [
+    "salles_shoot",
+    "delinquance",
+    "identite"
+  ],
+  "repond_a": [
+    {
+      "id": "salles_shoot_q1906",
+      "label": "Salles de consommation à moindre risque"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation"
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "id": "delinquants-plus-jeunes",
+  "type": "idee_recue",
+  "affirmation": "Les délinquants sont de plus en plus jeunes.",
+  "volet": "securite",
+  "sous_theme": "Délinquance",
+  "rubriques": [],
+  "mots_cles": [
+    "les delinquants sont de plus en plus jeunes",
+    "rajeunissement de la delinquance",
+    "delinquance des mineurs explose",
+    "mineurs delinquants",
+    "gamins de 12 ans dealers",
+    "ensauvagement des jeunes",
+    "jeunes de plus en plus violents",
+    "majorite penale 16 ans",
+    "excuse de minorite",
+    "mineurs narcotrafic"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les statistiques ne montrent pas de rajeunissement général : la part des mineurs parmi les personnes mises en cause est stable autour de 18 à 20 % depuis le début des années 2000, et parmi les mineurs, la part des 15-17 ans a même augmenté entre 2016 et 2021, selon le Sénat. Le nombre de mineurs poursuivis a baissé depuis 2019. En revanche, certaines formes de délinquance progressent chez les mineurs (trafic de drogue, violences sexuelles), et des acteurs de terrain observent des guetteurs plus jeunes dans les réseaux.",
+  "contexte": "L'idée d'une délinquance qui rajeunit nourrit les projets de durcissement de la justice des mineurs (comparution immédiate, fin de « l'excuse de minorité », majorité pénale abaissée). Elle s'appuie souvent sur des faits divers très médiatisés impliquant de jeunes adolescents.",
+  "explication": "On regarde la part des mineurs parmi les mis en cause, la répartition par âge à l'intérieur des mineurs, l'évolution des poursuites et les types d'infractions, en rappelant que les statistiques fiables sur l'âge ne sont disponibles que depuis 2016.",
+  "faits": [
+    {
+      "fait": "Selon le rapport du Sénat de septembre 2022, la part des mineurs parmi les personnes mises en cause est passée de 14 % à 20 % entre 1992 et 2002, puis s'est stabilisée autour de 18 % jusqu'en 2019.",
+      "periode": "1992-2019",
+      "perimetre": "France",
+      "explication": "La place des mineurs dans la délinquance enregistrée n'augmente plus depuis une vingtaine d'années.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "18 %"
+    },
+    {
+      "fait": "Selon le même rapport, parmi les mineurs mis en cause, la part des 15-17 ans est passée de 63,1 % en 2016 à 67,3 % en 2021, tandis que celle des 13-14 ans a baissé de 25,0 % à 22,0 % et que celle des moins de 13 ans a reculé.",
+      "periode": "2016-2021",
+      "perimetre": "France",
+      "explication": "Sur la période où les données sont fiables, les mineurs délinquants sont plutôt plus âgés : c'est l'inverse d'un rajeunissement.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "67,3 %"
+    },
+    {
+      "fait": "Selon le ministère de la Justice, le nombre de mineurs poursuivis est passé de 64 874 en 2019 à 48 389 en 2023, et celui des mineurs condamnés de 41 238 à 29 716.",
+      "periode": "2019-2023",
+      "perimetre": "France",
+      "explication": "La justice des mineurs traite moins de jeunes qu'avant la crise sanitaire.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "48 389"
+    },
+    {
+      "fait": "Selon Public Sénat, qui résume le rapport sénatorial, le nombre de mineurs impliqués dans des faits de délinquance est resté stable depuis 2010, entre 190 000 et 200 000 par an.",
+      "periode": "2010-2022",
+      "perimetre": "France",
+      "explication": "Il n'y a pas d'explosion du nombre de jeunes délinquants.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "190 000"
+    },
+    {
+      "fait": "Fait défavorable : selon le Sénat, entre 2016 et 2021, le nombre de mineurs mis en cause pour trafic de stupéfiants a augmenté de 35 % ; à Avignon, des guetteurs et revendeurs seraient « fréquemment âgés de 13 ans au lieu de 15 ans », selon un témoignage de terrain.",
+      "periode": "2016-2021",
+      "perimetre": "France",
+      "explication": "Les réseaux de drogue recrutent bien des adolescents, parfois très jeunes : c'est un phénomène réel, même s'il ne se voit pas dans la moyenne.",
+      "source": 0,
+      "fiabilite": "interpretation",
+      "chiffre": "+35 %"
+    },
+    {
+      "fait": "Fait défavorable : selon le ministère de la Justice, le nombre de mineurs mis en cause pour viol sur un autre mineur a progressé de 109 % entre 2020 et 2024, et 31 % de ces mineurs ont moins de 13 ans.",
+      "periode": "2020-2024",
+      "perimetre": "France",
+      "explication": "Les violences sexuelles entre mineurs augmentent dans les statistiques, en partie parce que la parole des victimes se libère ; elles appellent prévention et éducation.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "+109 %"
+    },
+    {
+      "fait": "Selon l'Insee (données SSMSI), en 2025, les mineurs représentaient 9 % des personnes mises en cause pour homicide et 11 % pour violences physiques, mais 33 à 34 % pour les vols violents ou avec arme.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La délinquance des mineurs est concentrée sur certains vols ; la grande majorité des violences graves est commise par des adultes.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "9 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les chiffres ne le montrent pas. Depuis le début des années 2000, les mineurs représentent environ 18 % des mis en cause, sans hausse. Parmi eux, la part des 15-17 ans a même augmenté entre 2016 et 2021, selon le Sénat. Le nombre de mineurs poursuivis a baissé depuis 2019. Ce qui progresse, ce sont certaines infractions, comme le trafic où des réseaux recrutent des adolescents.",
+    "moyen": "Le Sénat a examiné la question en 2022 : la part des mineurs parmi les personnes mises en cause est stable autour de 18 % depuis le début des années 2000, et le nombre de mineurs impliqués tourne autour de 190 000 à 200 000 par an depuis 2010. Surtout, parmi les mineurs, la part des 15-17 ans est passée de 63 % à 67 % entre 2016 et 2021, et celle des moins de 13 ans a reculé : c'est l'inverse d'un rajeunissement. Le nombre de mineurs poursuivis est passé de 64 874 en 2019 à 48 389 en 2023, selon le ministère de la Justice.\n\nCertaines évolutions sont réelles : le nombre de mineurs mis en cause pour trafic de drogue a augmenté de 35 % entre 2016 et 2021, et des réseaux recrutent des guetteurs très jeunes. Les violences sexuelles entre mineurs augmentent aussi dans les statistiques. Ces phénomènes appellent de la prévention et de l'éducation, pas une justice des enfants alignée sur celle des adultes.",
+    "detaille": "L'impression que les délinquants sont « de plus en plus jeunes » est très répandue, mais les données disponibles ne la confirment pas.\n\nSur le long terme, selon le rapport du Sénat de septembre 2022, la part des mineurs parmi les personnes mises en cause a augmenté dans les années 1990, de 14 % en 1992 à 20 % en 2002, puis s'est stabilisée autour de 18 % jusqu'en 2019. Le nombre de mineurs impliqués reste compris entre 190 000 et 200 000 par an depuis 2010. Les sénateurs soulignent toutefois que les statistiques fiables sur l'âge ne remontent qu'à 2016.\n\nSur cette période récente, les chiffres vont plutôt dans l'autre sens : parmi les mineurs mis en cause, la part des 15-17 ans passe de 63,1 % en 2016 à 67,3 % en 2021, celle des 13-14 ans recule de 25 % à 22 %, et celle des moins de 13 ans baisse aussi. En 2023, selon le ministère de la Justice, la moitié des mineurs traités par les parquets avaient 16 ou 17 ans, et 11 % avaient moins de 13 ans. Le nombre de mineurs poursuivis a baissé de 64 874 en 2019 à 48 389 en 2023.\n\nCertaines tendances inquiètent néanmoins. Les mineurs mis en cause pour trafic de stupéfiants ont augmenté de 35 % entre 2016 et 2021, et des acteurs de terrain observent des guetteurs plus jeunes. Les mineurs mis en cause pour viol sur un autre mineur ont plus que doublé entre 2020 et 2024, en partie du fait de la libération de la parole. Les mineurs sont aussi très présents dans les vols violents (environ un tiers des mis en cause en 2025), mais beaucoup moins dans les homicides (9 %).\n\nCes réalités appellent des réponses : protéger les enfants exploités par les réseaux, renforcer la protection judiciaire de la jeunesse, l'école et la prévention. Pas une justice qui traiterait les enfants comme des adultes, alors que la majorité des violences graves reste le fait d'adultes.",
+    "empathie": "Les faits divers impliquant de très jeunes adolescents choquent et inquiètent, surtout quand on a soi-même des enfants. Il est normal de se demander si la jeunesse devient plus violente."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On voit des gamins de 12 ans dealer en bas des immeubles.",
+      "reponse": "Les réseaux recrutent des enfants, c'est vrai et grave : ce sont d'abord des victimes d'exploitation. Mais dans les statistiques, la part des moins de 13 ans parmi les mineurs mis en cause a reculé entre 2016 et 2021."
+    },
+    {
+      "objection": "Avant, les jeunes ne faisaient pas ça.",
+      "reponse": "La part des mineurs dans la délinquance enregistrée est stable autour de 18 % depuis le début des années 2000, selon le Sénat ; c'est dans les années 1990 qu'elle avait augmenté."
+    },
+    {
+      "objection": "Il faut juger les mineurs comme des adultes.",
+      "reponse": "Les mineurs sont minoritaires dans les violences graves (9 % des mis en cause pour homicide en 2025) ; et plus de la moitié des mineurs primo-condamnés récidivent après leur majorité, ce qui plaide pour l'éducation plutôt que pour la seule prison."
+    }
+  ],
+  "questions": [
+    "Sur quoi te fondes-tu pour dire qu'ils sont plus jeunes : des chiffres, ou des faits divers vus à la télévision ?",
+    "Si un enfant de treize ans fait le guetteur pour un réseau, qui faut-il punir en priorité : l'enfant ou ceux qui l'exploitent ?"
+  ],
+  "limites": [
+    "Les statistiques fiables sur l'âge des mis en cause ne remontent qu'à 2016 ; les données plus anciennes sont qualifiées de « non fiabilisées » par le SSMSI.",
+    "Les années 2020 et 2021 sont perturbées par la crise sanitaire.",
+    "La note du SSMSI « Victimes et mis en cause mineurs : état des lieux sur dix ans » n'a pas pu être ouverte.",
+    "Aucune série récente (après 2021) sur la répartition par âge des mineurs mis en cause n'a été trouvée.",
+    "Le rapport du Sénat date de 2022."
+  ],
+  "sources": [
+    {
+      "titre": "Prévenir la délinquance des mineurs, éviter la récidive (rapport d'information n° 885, 2021-2022) — Ce que disent les chiffres de la délinquance des mineurs",
+      "organisme": "Sénat, commissions de la culture et des lois (Céline Boulay-Espéronnier, Bernard Fialaire, Laurence Harribey, Muriel Jourda)",
+      "date_publication": "21 septembre 2022",
+      "url": "https://www.senat.fr/rap/r21-885/r21-8856.html",
+      "passage": "La part des mineurs parmi les mis en cause est passée de 14 % à 20 % entre 1992 et 2002, puis s'est stabilisée autour de 18 % jusqu'en 2019. Parmi les mineurs mis en cause, la part des 15-17 ans passe de 63,1 % (2016) à 67,3 % (2021), celle des 13-14 ans de 25,0 % à 22,0 %, et celle des moins de 13 ans recule. Seul élément local : à Avignon, guetteurs et revendeurs seraient « fréquemment âgés de 13 ans au lieu de 15 ans ». De 2016 à 2021 : vols sans violence -28,4 %, vols violents -14,9 %, violences sexuelles sur mineurs +59,7 %, mineurs mis en cause pour trafic +35,15 %.",
+      "pertinence": "Rapport d'information transpartisan du Sénat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Délinquance des mineurs : un rapport du Sénat demande l'arrêt de la construction des centres éducatifs fermés",
+      "organisme": "Public Sénat",
+      "date_publication": "21 septembre 2022 (mis à jour le 26 septembre 2022)",
+      "url": "https://www.publicsenat.fr/actualites/politique/delinquance-des-mineurs-un-rapport-du-senat-demande-l-arret-de-la-construction-des",
+      "passage": "Le nombre de mineurs impliqués dans des faits de délinquance est resté stable depuis 2010, entre « 190 000 et 200 000 » ; les mineurs représentent environ un cinquième de la délinquance ; ils sont surreprésentés dans les violences sexuelles sur mineurs (46 %) et les « vols violents (40 %) ». Les statistiques fiables n'existent que depuis 2016.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Justice des mineurs : les mineurs auteurs d'infractions pénales (Références statistiques Justice, édition 2024, chapitre 17)",
+      "organisme": "Ministère de la Justice",
+      "date_publication": "décembre 2024",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2024-12/RSJ2024%20Chapitre%2017.pdf",
+      "passage": "En 2023, 179 100 mineurs ont été traités par les parquets (3 % des 10-17 ans) ; 48 400 ont été poursuivis et 29 700 condamnés. Mineurs poursuivis : 64 874 en 2019, 45 285 en 2022, 48 389 en 2023 ; condamnés : 41 238 en 2019, 29 716 en 2023. Répartition par âge des mineurs traités en 2023 : moins de 10 ans 2 %, 10-12 ans 9 %, 13-15 ans 40 %, 16-17 ans 49 %.",
+      "pertinence": "Statistique publique du ministère de la Justice.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Personnes mises en cause pour des crimes ou délits non routiers — données annuelles 2025",
+      "organisme": "Insee (données SSMSI)",
+      "date_publication": "3 septembre 2026",
+      "url": "https://www.insee.fr/fr/statistiques/5232504",
+      "passage": "Part des mineurs parmi les personnes mises en cause en 2025 : homicides 9 %, violences physiques 11 %, violences sexuelles 25 %, vols avec armes 33 %, vols violents sans arme 34 %, vols de véhicules 29 %, cambriolages de logement 22 %, escroqueries 3 %.",
+      "pertinence": "Tableau de la statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Infostat Justice n° 205 — mineurs mis en cause pour violences sexuelles sur mineurs",
+      "organisme": "Ministère de la Justice, service statistique (SSER)",
+      "date_publication": "novembre 2025",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2025-11/Infostat_Justice_205.pdf",
+      "passage": "En moyenne, 8 800 mineurs sont mis en cause chaque année pour viol ou agression sexuelle sur un autre mineur ; entre 2020 et 2024, le nombre de mineurs mis en cause pour viol a progressé de 109 % et de 54 % pour agression sexuelle. Sur la période, 31 % de ces mineurs ont moins de 13 ans. L'étude ne fournit pas de série annuelle sur l'âge des mineurs mis en cause.",
+      "pertinence": "Publication de la statistique publique (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Nouvelles données du SSMSI et du ministère de la Justice sur les mineurs mis en cause.",
+  "objections_legitimes": [
+    "Des réseaux de trafic exploitent réellement des adolescents, parfois très jeunes.",
+    "Certaines infractions commises par des mineurs augmentent, comme le trafic de drogue et les violences sexuelles enregistrées.",
+    "Les mineurs sont surreprésentés dans certains vols violents."
+  ],
+  "publics": {
+    "convaincus": "Je comprends que certains faits divers choquent. Mais le Sénat, à majorité de droite, a regardé les chiffres : la part des mineurs dans la délinquance est stable depuis vingt ans, et parmi les mineurs, ce sont plutôt les 15-17 ans dont la part augmente. Les enfants qui dealent existent, mais ce sont d'abord les réseaux qui les exploitent qu'il faut viser.",
+    "indecis": "Ton inquiétude est compréhensible : certains phénomènes progressent, comme le recrutement d'adolescents par les trafiquants. Mais les statistiques ne montrent pas de rajeunissement général : la part des mineurs est stable et le nombre de mineurs poursuivis a baissé depuis 2019. Le vrai enjeu, c'est la prévention et la protection des enfants exploités."
+  },
+  "lecture": {
+    "valeurs": [
+      "emancipation",
+      "vulnerables",
+      "services_publics"
+    ],
+    "mecanismes": "Quelques faits divers très médiatisés impliquant de jeunes adolescents donnent l’impression d’un rajeunissement général, qui sert ensuite à justifier une justice des enfants alignée sur celle des adultes.",
+    "consequences": "Traiter les enfants comme des adultes augmente le risque de récidive et laisse dans l’ombre les réseaux qui exploitent des adolescents, tout en affaiblissant l’éducation et la protection de la jeunesse.",
+    "democratie": "La justice des mineurs repose sur un principe reconnu de longue date : l’éducatif prime sur le répressif. Le remettre en cause exige un débat fondé sur des chiffres, pas sur des émotions.",
+    "propositions": [
+      "Renforcer la protection judiciaire de la jeunesse, la prévention spécialisée et les éducateurs de rue.",
+      "Poursuivre en priorité les trafiquants qui recrutent des mineurs et protéger ces enfants comme des victimes d’exploitation.",
+      "Développer l’éducation à la vie affective et au consentement pour prévenir les violences sexuelles entre jeunes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le nombre de mineurs mis en cause pour trafic de stupéfiants et pour violences sexuelles sur d’autres mineurs a fortement augmenté ces dernières années.",
+        "integration": "Ces évolutions sont réelles et graves : elles appellent la protection des enfants exploités par les réseaux et une prévention massive, pas une baisse de l’âge de la responsabilité pénale."
+      }
+    ]
+  },
+  "concepts": [
+    "delinquants_jeunes",
+    "delinquance",
+    "excuse_minorite",
+    "couteau"
+  ],
+  "repond_a": [
+    {
+      "id": "delinquants_jeunes_q1906",
+      "label": "Âge des délinquants"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "excuse de minorite",
+    "delinquance des mineurs",
+    "justice des mineurs",
+    "arme blanche"
+  ]
+}

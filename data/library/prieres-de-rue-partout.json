@@ -1,0 +1,245 @@
+{
+  "id": "prieres-de-rue-partout",
+  "type": "idee_recue",
+  "affirmation": "Il y a des prières de rue partout en France.",
+  "volet": "droits",
+  "sous_theme": "Laïcité",
+  "rubriques": [],
+  "mots_cles": [
+    "prieres de rue",
+    "prieres de rue partout",
+    "musulmans qui prient dans la rue",
+    "priere dans la rue",
+    "occupation de la rue par les musulmans",
+    "prieres de rue clichy",
+    "goutte d or prieres",
+    "interdiction des prieres de rue",
+    "ils prient dans nos rues",
+    "mosquees manque de place"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Il n'existe aucun recensement national des prières de rue, mais les cas documentés sont localisés et ponctuels : la Goutte d'Or à Paris jusqu'en 2011, faute de place dans les mosquées, ou Clichy en 2017, en protestation contre la fermeture d'une salle de prière. Ces situations ont été traitées par l'État, qui a proposé des lieux de culte de remplacement. Avec environ 2 500 lieux de culte musulmans pour plusieurs millions de fidèles, le manque de place explique la plupart des cas. Et des « prières de rue » existent aussi chez des catholiques, sans susciter la même indignation.",
+  "contexte": "Les images de fidèles musulmans priant dans la rue, à Paris au début des années 2010 puis à Clichy en 2017, sont devenues un symbole pour l'extrême droite, qui les présente comme une « occupation » du territoire. Elles ressurgissent sur les réseaux sociaux à chaque fête religieuse ou rassemblement, souvent sans date ni lieu.",
+  "explication": "On regarde ce que l'on sait des cas réellement documentés, la réponse de l'État, la cause principale (le manque de lieux de culte) et les règles qui s'appliquent à tout rassemblement religieux sur la voie publique.",
+  "faits": [
+    {
+      "fait": "Selon France-Soir (repris par le CCME), le ministre de l'Intérieur Claude Guéant a annoncé en septembre 2011 l'interdiction des prières dans les rues de Paris ; elles concernaient surtout le quartier de la Goutte d'Or, où des centaines de fidèles priaient le vendredi faute de place, et une ancienne caserne du boulevard Ney était proposée comme lieu de culte de remplacement.",
+      "periode": "2011",
+      "perimetre": "Paris",
+      "explication": "Le cas le plus connu était localisé, lié au manque de place, et l'État y a répondu en ouvrant un lieu de remplacement.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon une réponse du ministère de l'Intérieur publiée par l'Assemblée nationale (2011), on comptait environ 2 368 mosquées et salles de prière en 2010, selon le recensement du Conseil français du culte musulman ; l'administration ne tient aucune liste officielle des lieux de culte.",
+      "periode": "2010",
+      "perimetre": "France (dont outre-mer)",
+      "explication": "Il n'existe pas de statistique publique fine sur les lieux de culte, et a fortiori aucune sur les prières de rue : affirmer qu'il y en a « partout » ne repose sur aucun comptage.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2 368"
+    },
+    {
+      "fait": "Selon le rapport d'une mission d'information du Sénat (2016), résumé par Localtis, la France compte environ 2 500 lieux de culte musulmans pour 4 à 7 millions de musulmans, estimation faite « en l'absence de statistiques fiables ».",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Le nombre de lieux de culte reste faible par rapport au nombre de fidèles, ce qui explique que certaines salles débordent le vendredi.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "2 500"
+    },
+    {
+      "fait": "Selon Public Sénat, les prières de rue de Clichy en 2017 étaient une protestation contre la fermeture d'une salle de prière que la mairie voulait transformer en médiathèque ; environ 200 fidèles y participaient chaque vendredi.",
+      "periode": "2017",
+      "perimetre": "Clichy (Hauts-de-Seine)",
+      "explication": "Le cas le plus médiatisé après 2011 était un conflit local sur un lieu de culte, pas une pratique généralisée.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "200 fidèles"
+    },
+    {
+      "fait": "Selon l'Assemblée nationale, le ministre de l'Intérieur Gérard Collomb a déclaré en novembre 2017 : « On ne peut accepter les prières de rue », tout en estimant que les musulmans de Clichy devaient disposer d'un « lieu de culte décent ».",
+      "periode": "2017",
+      "perimetre": "Clichy (Hauts-de-Seine)",
+      "explication": "L'État refuse ces prières mais reconnaît que la solution passe par des lieux de culte dignes.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon une réponse du ministère de l'Intérieur publiée par l'Assemblée nationale (2025), un rassemblement religieux soufi de 200 à 250 personnes a eu lieu place de la République à Paris en juillet 2025, déclaré comme « journée culturelle » ; le ministère a jugé qu'il ne répondait à aucun critère d'interdiction et qu'il s'était déroulé dans le calme.",
+      "periode": "2025",
+      "perimetre": "Paris",
+      "explication": "Des rassemblements religieux ont encore lieu sur la voie publique ; ils sont soumis aux règles de toute manifestation déclarée et ne sont interdits qu'en cas de risque de trouble à l'ordre public.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "200 à 250"
+    },
+    {
+      "fait": "Selon une réponse du ministère de l'Intérieur publiée par l'Assemblée nationale (2013), une association catholique opposée à l'IVG a organisé sept rassemblements de prière de 30 à 50 personnes devant l'hôpital Tenon à Paris depuis 2011 ; le ministère a jugé qu'une interdiction permanente « ne serait pas conforme au droit ».",
+      "periode": "2011-2013",
+      "perimetre": "Paris",
+      "explication": "Les prières dans l'espace public ne sont pas propres à l'islam : la même règle doit s'appliquer à tous les cultes.",
+      "source": 6,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Aucun comptage national n'existe, et les cas documentés sont localisés : la Goutte d'Or à Paris jusqu'en 2011, faute de place dans les mosquées, ou Clichy en 2017, après la fermeture d'une salle de prière. L'État y a répondu par des lieux de remplacement. Avec environ 2 500 lieux de culte musulmans pour plusieurs millions de fidèles, le vrai problème, c'est le manque de place.",
+    "moyen": "Les prières de rue les plus médiatisées ont des causes précises. À Paris, dans le quartier de la Goutte d'Or, des centaines de fidèles priaient le vendredi devant des mosquées trop petites ; en septembre 2011, le ministre de l'Intérieur les a interdites et une ancienne caserne a été proposée comme salle de remplacement. À Clichy, en 2017, environ 200 fidèles ont prié chaque vendredi dans la rue pour protester contre la fermeture de leur salle de prière ; le ministre Gérard Collomb a refusé ces prières tout en demandant pour eux un « lieu de culte décent ».\n\nPersonne ne recense les prières de rue : l'administration ne tient même pas de liste des lieux de culte. Le Sénat estimait en 2016 qu'il y avait environ 2 500 lieux de culte musulmans pour 4 à 7 millions de musulmans. Enfin, les rassemblements religieux dans la rue ne sont pas propres à l'islam : des catholiques opposés à l'IVG ont prié à plusieurs reprises devant un hôpital parisien.",
+    "detaille": "L'expression « partout en France » ne repose sur aucune donnée. L'administration ne tient aucune liste des lieux de culte, selon le ministère de l'Intérieur, et il n'existe aucun recensement des prières de rue. Les cas documentés par la presse et les institutions sont peu nombreux et localisés.\n\nLe plus connu est celui de la Goutte d'Or, à Paris, où des centaines de fidèles priaient le vendredi devant les mosquées des rues Myrha et Polonceau, faute de place. En septembre 2011, Claude Guéant a annoncé l'interdiction des prières de rue à Paris et une ancienne caserne de pompiers a été proposée comme lieu de culte de remplacement. En 2017, à Clichy, environ 200 fidèles ont prié chaque vendredi dans la rue pour protester contre la fermeture de leur salle de prière ; une centaine d'élus sont venus s'y opposer. Le ministre de l'Intérieur Gérard Collomb a déclaré qu'« on ne peut accepter les prières de rue », tout en demandant au préfet de trouver un « lieu de culte décent ».\n\nLa cause principale est le manque de place. Le ministère comptait environ 2 368 mosquées et salles de prière en 2010 ; le Sénat en estimait environ 2 500 en 2016, pour 4 à 7 millions de musulmans. Quand une salle ferme ou déborde, certains fidèles prient dehors.\n\nEnfin, le droit est le même pour tous. Un rassemblement religieux sur la voie publique est soumis aux règles des manifestations : il peut être interdit en cas de risque pour l'ordre public, si la mesure est nécessaire et proportionnée. Des catholiques opposés à l'IVG ont prié à plusieurs reprises devant l'hôpital Tenon à Paris, et le ministère a jugé qu'une interdiction permanente serait illégale. La laïcité garantit la liberté de culte de chacun et la neutralité de l'État ; elle ne vise pas une religion en particulier. La meilleure réponse aux prières de rue, c'est que chaque culte dispose de lieux dignes.",
+    "empathie": "Voir une rue occupée par une prière collective peut surprendre ou gêner, surtout quand on y est peu habitué. Il est légitime de vouloir que l'espace public reste ouvert à tous."
+  },
+  "contre_arguments": [
+    {
+      "objection": "J'ai vu des vidéos, il y en a partout.",
+      "reponse": "Beaucoup de vidéos qui circulent datent de la Goutte d'Or avant 2011 ou de Clichy en 2017, ou montrent des rassemblements ponctuels déclarés. Aucun recensement n'indique une pratique généralisée."
+    },
+    {
+      "objection": "C'est une façon de marquer leur territoire.",
+      "reponse": "Dans les cas documentés, la raison est concrète : des mosquées trop petites à Paris, une salle fermée à Clichy. Les ministres eux-mêmes ont répondu en cherchant des lieux de culte de remplacement."
+    },
+    {
+      "objection": "On laisse faire les musulmans mais pas les autres.",
+      "reponse": "C'est le même droit pour tous : des catholiques opposés à l'IVG ont aussi prié devant un hôpital parisien, et le ministère a jugé qu'une interdiction permanente serait illégale."
+    }
+  ],
+  "questions": [
+    "Combien de prières de rue as-tu vues toi-même, et où ?",
+    "Si une salle de prière ferme, où les fidèles sont-ils censés aller ?"
+  ],
+  "limites": [
+    "L'annonce de Claude Guéant en 2011 est connue à travers un article de France-Soir repris par le CCME (institution marocaine) ; l'article original et l'arrêté n'ont pas pu être ouverts.",
+    "Le rapport du Sénat de 2016 n'a pas été lu directement : le chiffre de 2 500 lieux de culte vient d'un compte rendu de Localtis.",
+    "Les chiffres sur les lieux de culte datent de 2010 et 2016 ; aucun recensement plus récent n'a été trouvé.",
+    "Aucun article des Décodeurs, de l'AFP Factuel ni décision du Conseil d'État sur les prières de rue n'a pu être ouvert.",
+    "Il n'existe aucun comptage national des prières de rue : la fiche ne peut pas exclure des cas non médiatisés."
+  ],
+  "sources": [
+    {
+      "titre": "Guéant déterminé à faire cesser les prières de rue (reprise d'un article de France-Soir)",
+      "organisme": "France-Soir, repris par le Conseil de la communauté marocaine à l’étranger (CCME)",
+      "date_publication": "15-16 septembre 2011",
+      "url": "https://www.ccme.org.ma/gueant-determine-a-faire-cesser-les-prieres-de-rue/",
+      "passage": "Le ministre de l'Intérieur Claude Guéant annonce l'interdiction des prières dans les rues de Paris à partir du vendredi : cette occupation de l'espace public « heurte la sensibilité de nombre de nos compatriotes » et « contrevient au principe de laïcité ». Le problème concernait le quartier de la Goutte d'Or (XVIIIe arrondissement), où des centaines de fidèles priaient le vendredi devant les mosquées des rues Myrha et Polonceau, faute de place ; une ancienne caserne de pompiers du boulevard Ney, d'environ 2 000 m², est proposée comme lieu de culte de remplacement.",
+      "pertinence": "Article de presse repris par une institution marocaine ; l'original n'a pas pu être ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 108411 (réponse du ministère de l'Intérieur sur le nombre de lieux de culte musulmans)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "réponse publiée au JO le 20 septembre 2011",
+      "url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE108411.pdf",
+      "passage": "Selon le recensement du Conseil français du culte musulman, il existait environ 2 368 mosquées et salles de prière en 2010, dont 267 à Mayotte et 49 dans les autres départements et collectivités d'outre-mer ; ce sont les seuls chiffres disponibles. « Aucune liste particulière d'édifices du culte ou de lieux de culte n'est dressée par l'administration. »",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Un islam de France largement influencé par l'étranger",
+      "organisme": "Banque des Territoires (Caisse des dépôts), Localtis",
+      "date_publication": "7 juillet 2016",
+      "url": "https://www.banquedesterritoires.fr/un-islam-de-france-largement-influence-par-letranger",
+      "passage": "Compte rendu du rapport de la mission d'information du Sénat sur l'organisation de l'islam en France (adopté le 5 juillet 2016) : environ 2 500 lieux de culte musulmans ; entre 4 et 7 millions de musulmans selon les rapporteurs, « en l'absence de statistiques fiables ».",
+      "pertinence": "Média d'information des collectivités publié par la Caisse des dépôts, résumant un rapport du Sénat.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Clichy : une centaine d'élus tentent d'empêcher une prière de rue",
+      "organisme": "Public Sénat",
+      "date_publication": "10 novembre 2017",
+      "url": "https://www.publicsenat.fr/actualites/politique/clichy-une-centaine-d-elus-tentent-d-empecher-une-priere-de-rue-79633",
+      "passage": "Depuis mars 2017, des fidèles prient chaque vendredi dans une rue piétonne de Clichy (Hauts-de-Seine) pour protester contre la fermeture de leur salle de prière, évacuée le 22 mars, que la mairie voulait transformer en médiathèque ; le maire estime qu'une mosquée existe déjà dans le nord de la commune, l'association la juge excentrée. Une centaine d'élus en écharpe sont venus s'y opposer ; environ 200 fidèles étaient présents. La préfecture rappelle qu'une interdiction doit être « strictement nécessaire au maintien de l'ordre public ».",
+      "pertinence": "Média parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question au gouvernement n° 296 (prières de rue à Clichy)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "16 novembre 2017",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QG296.pdf",
+      "passage": "Réponse du ministre de l'Intérieur Gérard Collomb : « On ne peut accepter les prières de rue » ; il a demandé au préfet de réunir élus et représentants musulmans pour résoudre le problème et estime que les musulmans de Clichy doivent disposer d'un « lieu de culte décent », dans le cadre de la loi de 1905.",
+      "pertinence": "Compte rendu officiel d'une séance de questions au gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 9430 : prières de rue place de la République à Paris",
+      "organisme": "Assemblée nationale",
+      "date_publication": "réponse publiée au JO le 4 novembre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE9430.pdf",
+      "passage": "Un député RN dénonce un rassemblement d'une confrérie soufie (chants de qasidas) place de la République le 19 juillet 2025. Le ministère de l'Intérieur répond que l'événement, déclaré comme « journée culturelle », respectait le code de la sécurité intérieure ; une interdiction doit être nécessaire et proportionnée et la manifestation « ne répondait à aucun critère d'interdiction valable » ; 200 à 250 participants au plus fort, « dans le calme, sans incident notoire ».",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 17800 : rassemblements de prière devant le centre IVG de l'hôpital Tenon",
+      "organisme": "Assemblée nationale",
+      "date_publication": "réponse publiée au JO le 18 juin 2013",
+      "url": "https://questions.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE17800.pdf",
+      "passage": "Un député écologiste dénonce des « prières de rue » organisées par une association catholique opposée à l'IVG devant l'hôpital Tenon (Paris 20e). Le ministère de l'Intérieur recense sept rassemblements de 30 à 50 manifestants depuis 2011 ; une interdiction permanente et absolue « ne serait pas conforme au droit », les rassemblements sont examinés au cas par cas.",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Éventuelles nouvelles données sur les lieux de culte et décisions de justice sur les rassemblements religieux.",
+  "objections_legitimes": [
+    "L'espace public doit rester accessible à tous, et l'État lui-même considère que les prières de rue régulières ne sont pas acceptables.",
+    "Des prières de rue ont réellement eu lieu, notamment à Paris jusqu'en 2011 et à Clichy en 2017.",
+    "Des rassemblements religieux sur la voie publique existent encore ponctuellement."
+  ],
+  "publics": {
+    "convaincus": "Tu peux vérifier : les cas les plus connus, à la Goutte d'Or avant 2011 et à Clichy en 2017, étaient localisés et liés à des salles trop petites ou fermées. Même les ministres de droite ont répondu en cherchant des lieux de culte décents. Et des catholiques ont aussi prié dans la rue devant un hôpital : la règle doit être la même pour tous.",
+    "indecis": "Des prières de rue ont bien existé, mais aucun comptage ne montre qu'il y en aurait « partout ». Les cas documentés tiennent surtout au manque de place, avec environ 2 500 lieux de culte musulmans selon le Sénat. La solution la plus efficace, c'est que chaque culte ait des lieux dignes, dans le respect de la laïcité."
+  },
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "antiracisme",
+      "universalite"
+    ],
+    "mecanismes": "Quelques images anciennes ou locales, sorties de leur contexte, sont présentées comme une invasion généralisée de l’espace public par une religion, pour faire des musulmans une menace plutôt que des fidèles qui manquent de lieux de culte.",
+    "consequences": "Ce récit alimente la stigmatisation des musulmans et détourne l’attention de la solution concrète : des lieux de culte dignes, ouverts dans la transparence et le respect de la loi.",
+    "democratie": "La laïcité garantit à la fois la neutralité de l’État et la liberté de culte de chacun : appliquer la même règle à tous les rassemblements religieux, quelle que soit la religion, est une exigence d’égalité.",
+    "propositions": [
+      "Faciliter l’ouverture de lieux de culte dignes là où les salles sont trop petites, dans le respect de la loi de séparation.",
+      "Appliquer les mêmes règles de déclaration et d’ordre public à tous les rassemblements religieux sur la voie publique.",
+      "Publier des données fiables sur les lieux de culte de toutes les religions."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des rassemblements religieux ont encore lieu ponctuellement sur la voie publique, comme celui d’une confrérie soufie place de la République à Paris.",
+        "integration": "Ils restent rares, déclarés et encadrés comme toute manifestation ; la règle est la même pour tous les cultes, y compris pour des catholiques qui ont prié devant un hôpital."
+      }
+    ]
+  },
+  "concepts": [
+    "prieres_rue",
+    "islam",
+    "laicite",
+    "mosquee"
+  ],
+  "repond_a": [
+    {
+      "id": "prieres_rue_q1906",
+      "label": "Prières de rue"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "charia",
+    "halal",
+    "burqa",
+    "burkini",
+    "ramadan",
+    "laicite"
+  ]
+}

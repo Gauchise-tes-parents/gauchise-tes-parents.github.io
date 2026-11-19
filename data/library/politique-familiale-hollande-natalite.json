@@ -1,0 +1,248 @@
+{
+  "id": "politique-familiale-hollande-natalite",
+  "type": "idee_recue",
+  "affirmation": "Hollande a cassé la politique familiale, c'est pour ça que les Français font moins d'enfants.",
+  "volet": "social",
+  "sous_theme": "Allocations familiales",
+  "rubriques": [],
+  "mots_cles": [
+    "hollande a casse la politique familiale",
+    "modulation des allocations familiales",
+    "baisse de la natalite",
+    "quotient familial hollande",
+    "les francais font moins d enfants",
+    "natalite en berne",
+    "allocations familiales sous condition de ressources",
+    "politique nataliste",
+    "rearmement demographique",
+    "baisse des naissances la faute a hollande"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Sous François Hollande, le plafond du quotient familial a été abaissé (2013 et 2014) et les allocations familiales ont été modulées selon les revenus (2015), ce qui a réduit les aides des familles les plus aisées. La baisse des naissances a commencé avant, vers 2010-2011, et touche toutes les catégories sociales et presque tous les pays européens : la France reste parmi les plus féconds de l'UE. Les démographes de l'Ined jugent impossible d'attribuer la baisse à une mesure : les aides financières jouent surtout sur le calendrier des naissances. Certains experts estiment toutefois que l'instabilité des aides a pu peser sur la confiance des familles.",
+  "contexte": "La France a enregistré en 2025 plus de décès que de naissances, pour la première fois depuis 1945. La droite et l'extrême droite accusent souvent les réformes du quinquennat Hollande d'avoir « cassé » la politique familiale universelle et provoqué la chute de la natalité.",
+  "explication": "On rappelle ce qui a réellement changé sous Hollande, le calendrier de la baisse des naissances, son ampleur en Europe, et ce que disent les démographes et les institutions sur l'effet des prestations sur la fécondité.",
+  "faits": [
+    {
+      "fait": "Selon Vie publique, depuis le 1er juillet 2015, les allocations familiales sont divisées par deux au-delà de 6 000 € nets de revenus mensuels pour deux enfants, et par quatre au-delà de 8 000 € ; la mesure a réduit les allocations versées de 760 millions d'euros par an.",
+      "periode": "depuis 2015",
+      "perimetre": "France",
+      "explication": "La réforme a bien réduit les aides, mais seulement pour les ménages aux revenus élevés : les familles modestes et moyennes ont gardé leurs allocations.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "6 000 €"
+    },
+    {
+      "fait": "Selon la commission des affaires sociales du Sénat (2017), le plafond du quotient familial a été abaissé deux fois, en 2013 et 2014, et la modulation a réduit fortement les prestations des familles en haut de l'échelle des revenus ; mais « la baisse du nombre de naissance ne peut être imputée aux mesures qui ont touché les prestations familiales ».",
+      "periode": "2013-2017",
+      "perimetre": "France",
+      "explication": "Même la commission sénatoriale, à majorité de droite, n'attribue pas la baisse des naissances à ces réformes.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Insee, la France a compté 645 000 naissances en 2025, 24 % de moins qu'en 2010, et l'indicateur de fécondité est tombé à 1,56 enfant par femme, contre 2,02 en 2010 ; mais en 2023 la France avait encore le deuxième taux de fécondité de l'UE (1,65), pour une moyenne européenne de 1,38.",
+      "periode": "2010-2025",
+      "perimetre": "France et Union européenne",
+      "explication": "La baisse est réelle et forte, mais elle touche toute l'Europe, y compris des pays qui n'ont pas connu ces réformes, et la France reste au-dessus de la moyenne.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,56"
+    },
+    {
+      "fait": "Selon la Cnaf, auditionnée par l'Assemblée nationale en 2025, la baisse de la natalité est « engagée depuis 2011, puis très accentuée depuis 2014 », et les prestations ont un impact « réel, mais limité » sur la fécondité : elles « peuvent accélérer le rythme, mais sans forcément jouer sur la descendance finale ».",
+      "periode": "2011-2025",
+      "perimetre": "France",
+      "explication": "La baisse a commencé avant les réformes, et l'organisme qui verse les allocations juge lui-même leur effet limité.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon des chercheurs de l'Ined auditionnés par l'Assemblée nationale en 2025, « il est difficile d'établir un lien de causalité entre un outil de politique publique et la décision d'avoir un enfant » ; les freins les plus cités sont le coût d'un enfant et la conciliation avec le travail, et les intentions de fécondité baissent chez les hommes comme chez les femmes.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La baisse des naissances tient d'abord à des changements profonds de société, pas à une seule mesure.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, rendant compte d'une audition de l'Ined et de l'Insee au Sénat, le nombre idéal d'enfants chez les 30-34 ans est passé de 2,7 à la fin des années 1990 à 2,3 aujourd'hui, et le directeur de l'Ined estime que « cette baisse n'est pas conjoncturelle ».",
+      "periode": "fin des années 1990-2026",
+      "perimetre": "France",
+      "explication": "Le désir d'enfant lui-même recule, ce qu'aucune allocation ne suffit à compenser.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "2,3"
+    },
+    {
+      "fait": "Fait défavorable : selon un inspecteur des finances auditionné par l'Assemblée nationale (décembre 2025), « il apparaît assez clairement que la politique familiale exerce un effet réel », et l'instabilité des dispositifs peut inciter à différer un projet d'enfant ; la Cnaf évoque aussi un « effet de halo » des réformes sur la confiance des familles.",
+      "periode": "2013-2025",
+      "perimetre": "France",
+      "explication": "Les réformes ont pu peser à la marge, en entamant la confiance dans la stabilité des aides, même si aucune étude ne montre qu'elles expliquent la baisse.",
+      "source": 5,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Les réformes Hollande (quotient familial abaissé, allocations modulées au-delà de 6 000 € de revenus par mois) ont touché surtout les familles aisées. La baisse des naissances avait commencé vers 2010-2011, touche toute l'Europe, et la France reste parmi les pays les plus féconds de l'UE. Même la commission du Sénat juge que la baisse ne peut être imputée à ces mesures.",
+    "moyen": "Sous Hollande, deux réformes ont réduit les aides des familles aisées : la baisse du plafond du quotient familial en 2013 et 2014, puis, en 2015, la division par deux ou par quatre des allocations familiales au-delà de 6 000 ou 8 000 € de revenus mensuels pour deux enfants. Les familles modestes et moyennes n'ont pas été concernées par la modulation.\n\nLa baisse des naissances a commencé vers 2010-2011, selon la Cnaf et le Sénat, et s'est accélérée à partir de 2014. Elle touche presque toute l'Europe : en 2023, la France restait deuxième de l'UE avec 1,65 enfant par femme, pour une moyenne de 1,38. Les démographes de l'Ined jugent impossible d'attribuer la baisse à une mesure : le coût des enfants, la conciliation avec le travail et un désir d'enfant en recul pèsent davantage. Certains experts estiment cependant que l'instabilité des aides a pu entamer la confiance des familles.",
+    "detaille": "Commençons par les faits. Sous François Hollande, le plafond du quotient familial a été abaissé deux fois, en 2013 et en 2014, puis la loi de financement de la Sécurité sociale pour 2015 a modulé les allocations familiales : depuis juillet 2015, elles sont divisées par deux au-delà de 6 000 € nets de revenus mensuels pour deux enfants, et par quatre au-delà de 8 000 €. L'économie est de 760 millions d'euros par an. Ces réformes ont donc réduit les aides des familles les plus aisées, pas des familles modestes ou moyennes.\n\nLa natalité, elle, recule depuis plus longtemps. Selon la Cnaf, la baisse est engagée depuis 2011 et s'accentue depuis 2014 ; le Sénat la date de 2010. En 2025, l'Insee compte 645 000 naissances, 24 % de moins qu'en 2010, et un indicateur de fécondité de 1,56 enfant par femme. Mais le phénomène est européen : en 2023, la France avait le deuxième taux de fécondité de l'UE (1,65), pour une moyenne de 1,38.\n\nQue disent les spécialistes ? En 2017, la commission des affaires sociales du Sénat, à majorité de droite, écrivait que la baisse des naissances « ne peut être imputée » aux mesures sur les prestations. En 2025, les chercheurs de l'Ined ont expliqué aux députés qu'il est difficile d'établir un lien de causalité entre une mesure et la décision d'avoir un enfant, et que les aides financières jouent surtout sur le calendrier des naissances. Les freins cités sont le coût des enfants, la conciliation avec le travail, et un désir d'enfant qui recule : le nombre idéal d'enfants chez les 30-34 ans est passé de 2,7 à 2,3.\n\nIl serait malhonnête de dire que la politique familiale ne compte pas. Un inspecteur des finances estime qu'elle exerce « un effet réel », et la Cnaf évoque un « effet de halo » : l'instabilité des aides peut inquiéter même les familles non concernées. Mais les leviers jugés les plus efficaces par l'Ined sont l'égalité professionnelle, le partage des tâches parentales, des modes de garde accessibles et des aides stables. Une politique de gauche pour les familles, c'est d'abord des crèches, des logements et des salaires qui permettent de faire les enfants que l'on désire.",
+    "empathie": "Voir le nombre de naissances baisser inquiète, pour l'avenir du pays comme pour le financement des retraites. Et beaucoup de familles ont le sentiment que les aides changent sans cesse."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La baisse a commencé juste après les réformes Hollande.",
+      "reponse": "Selon la Cnaf et le Sénat, elle a commencé vers 2010-2011, avant les réformes, puis s'est accélérée à partir de 2014. Et elle touche presque toute l'Europe."
+    },
+    {
+      "objection": "Avant, la politique familiale était universelle, c'est ce qui faisait notre force.",
+      "reponse": "Les allocations restent versées à toutes les familles d'au moins deux enfants ; seuls les ménages au-delà de 6 000 € nets par mois touchent moins. Les démographes attribuent surtout la fécondité française aux aides à la conciliation entre travail et famille, comme les modes de garde."
+    },
+    {
+      "objection": "Il suffit d'augmenter les allocations pour relancer les naissances.",
+      "reponse": "Selon l'Ined et la Cnaf, les aides financières font surtout avancer des naissances déjà prévues, sans forcément augmenter le nombre d'enfants. Les freins principaux sont le coût des enfants, la conciliation avec le travail et un désir d'enfant en recul."
+    }
+  ],
+  "questions": [
+    "Selon toi, est-ce que les familles qui gagnent plus de 6 000 € par mois renoncent à un enfant à cause des allocations ?",
+    "Qu'est-ce qui pèse le plus sur les jeunes couples autour de toi : les allocations, le logement ou la garde des enfants ?"
+  ],
+  "limites": [
+    "Aucune étude économétrique évaluant précisément l'effet de la modulation de 2015 sur la fécondité n'a pu être lue ; les avis rapportés viennent d'auditions parlementaires.",
+    "Les comptes rendus d'audition ont été lus à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "La note du Haut-Commissariat à la Stratégie et au Plan sur la dénatalité (2026) n'a pas pu être ouverte ; aucun rapport du HCFEA ni de la Cour des comptes n'a été lu.",
+    "La fiche de Vie publique sur la modulation n'est pas datée."
+  ],
+  "sources": [
+    {
+      "titre": "Bilan démographique 2025 (Insee Première n° 2087)",
+      "organisme": "Insee",
+      "date_publication": "janvier 2026",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/8719824/ip2087.pdf",
+      "passage": "645 000 naissances en 2025, soit 2,1 % de moins qu'en 2024 et 24 % de moins qu'en 2010. Indicateur conjoncturel de fécondité : 1,56 enfant par femme en 2025, contre 1,61 en 2024 et 2,02 en 2010 (France métropolitaine) ; « c'est le niveau le plus faible depuis la fin de la Première Guerre mondiale ». En 2023, l'ICF de la France (1,65) était le deuxième plus élevé de l'UE, derrière la Bulgarie, pour une moyenne européenne de 1,38. 651 000 décès en 2025 : « le solde naturel en France est négatif pour la première fois depuis la fin de la Seconde Guerre mondiale ».",
+      "pertinence": "Publication de la statistique publique.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Que signifie la modulation des allocations familiales ?",
+      "organisme": "Vie publique (Direction de l’information légale et administrative)",
+      "date_publication": "non datée, consultée le 19 novembre 2026",
+      "url": "https://www.vie-publique.fr/fiches/37955-la-modulation-des-allocations-familiales",
+      "passage": "Depuis le 1er juillet 2015 (loi de financement de la Sécurité sociale pour 2015), le montant des allocations familiales est divisé par deux au-delà de 6 000 € nets par mois pour deux enfants, et par quatre au-delà de 8 000 €, seuils relevés de 500 € par enfant supplémentaire. La modulation a permis de « réduire le montant des allocations familiales versées aux ménages de 760 millions d'€ en année pleine ».",
+      "pertinence": "Fiche pédagogique officielle.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Projet de loi de financement de la sécurité sociale pour 2018 : exposé général (rapport n° 77, tome I)",
+      "organisme": "Sénat, commission des affaires sociales",
+      "date_publication": "8 novembre 2017",
+      "url": "https://www.senat.fr/rap/l17-077-1/l17-077-128.html",
+      "passage": "Le plafond du quotient familial a été abaissé deux fois, en 2013 et 2014 ; la modulation de 2015 « a entraîné une réduction importante des prestations versées aux familles situées dans le haut de l'échelle des revenus ». Mais « la baisse du nombre de naissance ne peut être imputée aux mesures qui ont touché les prestations familiales », même si le recul manque ; le nombre de femmes de 20 à 40 ans est passé de 9,2 millions en 1996 à 8,4 millions en 2016 ; la baisse des naissances est observée depuis 2010 et s'accélère à partir de 2014.",
+      "pertinence": "Rapport parlementaire de la commission des affaires sociales du Sénat (majorité de droite et du centre).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mission d'information sur les causes et conséquences de la baisse de la natalité : audition de François Clanché, Anne Solaz et Laurent Toulemon (Ined)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "9 juillet 2025",
+      "url": "https://questions.assemblee-nationale.fr/dyn/opendata/CRCANR5L17S2025PO869802N003.html",
+      "passage": "Anne Solaz (Ined) : « il est difficile d'établir un lien de causalité entre un outil de politique publique et la décision d'avoir un enfant » ; les primes à la naissance « incitent surtout à avancer un peu le projet d'enfant ». Laurent Toulemon : « les freins le plus souvent évoqués sont clairement le coût d'un enfant » ; la conciliation entre vie familiale et vie professionnelle est un facteur clé. François Clanché : les intentions de fécondité sont « en baisse tant chez les hommes que chez les femmes » ; pour se lancer, une famille a besoin d'être « assurée qu'elle sera aidée longtemps ».",
+      "pertinence": "Compte rendu officiel d'audition parlementaire (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mission d'information sur la baisse de la natalité : audition de la Caisse nationale des allocations familiales (compte rendu n° 7)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "2 octobre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/natalite/l17natalite2526007_compte-rendu.pdf",
+      "passage": "Pour la Cnaf, les prestations ont « un impact réel, mais limité et […] difficilement mesurable, sur la fécondité » ; elles « peuvent accélérer le rythme, mais sans forcément jouer sur la descendance finale ». La baisse de la natalité est « engagée depuis 2011, puis très accentuée depuis 2014 ». Les dépenses de la branche famille ont baissé de 0,29 point de PIB entre 2014 et 2024. Des chercheurs évoquent un « effet de halo » : même les familles non touchées par les baisses d'aides peuvent percevoir un affaiblissement de la politique familiale. Selon l'Ined, la baisse des intentions de fécondité touche « toutes les catégories sociales ».",
+      "pertinence": "Compte rendu officiel d'audition parlementaire (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mission d'information sur la baisse de la natalité : audition de l'Inspection générale des finances et de l'Inspection générale des affaires sociales (compte rendu n° 38)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "1er décembre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/natalite/l17natalite2526038_compte-rendu.pdf",
+      "passage": "Christophe Hemous (IGF) : « il apparaît assez clairement que la politique familiale exerce un effet réel », difficile à mesurer ; il cite les effets différés de la crise de 2008 et l'instabilité des dispositifs, qui peut inciter à différer un projet d'enfant. Oumnia Alaoui (IGF) : « il est très difficile d'identifier une causalité unique » ; après les réformes de 2013 à 2015, la redistribution des prestations s'est aplatie, sans lien démontré avec la natalité.",
+      "pertinence": "Compte rendu officiel d'audition parlementaire (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "« Ce n'est pas une crise passagère ! » : les démographes alertent sur la rupture historique de la natalité",
+      "organisme": "Public Sénat",
+      "date_publication": "28 janvier 2026 (mis à jour le 14 août 2026)",
+      "url": "https://www.publicsenat.fr/actualites/societe/ce-nest-pas-une-crise-passagere-les-demographes-alertent-sur-la-rupture-historique-de-la-natalite",
+      "passage": "Audition au Sénat de François Clanché (directeur de l'Ined), Sylvie Le Minez (Insee) et Laurent Toulemon (Ined). « Cette baisse n'est pas conjoncturelle », c'est « un phénomène sociétal » ; la fécondité baisse à presque tous les âges. Le nombre idéal d'enfants chez les 30-34 ans est passé de 2,7 à la fin des années 1990 à 2,3 aujourd'hui. Les incitations financières jouent sur le calendrier plus que sur le nombre d'enfants ; leviers jugés plus efficaces : égalité professionnelle, partage des tâches parentales, politiques familiales stables : « La confiance dans les politiques publiques est essentielle ». Hors d'Afrique et d'une partie de l'Asie, la fécondité est sous le seuil de remplacement presque partout.",
+      "pertinence": "Média parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-01-31",
+  "raison_actualisation": "Prochain bilan démographique de l'Insee et rapport de la mission d'information de l'Assemblée nationale sur la natalité.",
+  "objections_legitimes": [
+    "Les réformes de 2013 à 2015 ont réellement réduit les aides de certaines familles.",
+    "La natalité baisse fortement et le solde naturel est devenu négatif en 2025.",
+    "L'instabilité des aides peut entamer la confiance des familles, selon certains experts."
+  ],
+  "publics": {
+    "convaincus": "Les réformes Hollande ont bien réduit les aides, mais surtout pour les familles au-delà de 6 000 € par mois. La baisse des naissances avait commencé avant, elle touche toute l'Europe, et même la commission du Sénat, à droite, dit qu'elle ne peut pas être imputée à ces mesures. Si on veut des enfants, il faut surtout des crèches, des logements et de la stabilité.",
+    "indecis": "Ton inquiétude est fondée : la natalité baisse fortement depuis une quinzaine d'années. Mais les démographes de l'Ined expliquent qu'aucune mesure ne suffit à l'expliquer : coût des enfants, difficulté à concilier travail et famille, désir d'enfant en recul. Des aides stables et des services de garde comptent plus que des primes."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "services_publics",
+      "egalite_fh"
+    ],
+    "mecanismes": "On attribue un phénomène européen et profond, la baisse du désir et des projets d’enfants, à une seule réforme ciblant les familles les plus aisées, pour réclamer le retour d’aides universelles plutôt que de parler des conditions de vie des jeunes parents.",
+    "consequences": "Ce diagnostic détourne des vrais freins identifiés par les démographes : coût des enfants, logement, manque de places en crèche, difficulté à concilier travail et famille, inégalités entre femmes et hommes.",
+    "democratie": "Une politique familiale stable, débattue et évaluée publiquement permet aux familles de faire des projets ; changer les règles sans cesse mine la confiance.",
+    "propositions": [
+      "Créer un véritable service public de la petite enfance avec un droit opposable à un mode de garde.",
+      "Allonger et mieux rémunérer le congé de l’autre parent pour partager les tâches parentales.",
+      "Stabiliser les prestations familiales et les revaloriser pour les familles modestes et moyennes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Des experts estiment que l’instabilité des aides et leur réduction ont pu entamer la confiance des familles, au-delà de celles directement concernées.",
+        "integration": "C’est un argument pour une politique familiale stable et ambitieuse, pas pour accuser une seule réforme d’une baisse commencée avant elle et commune à toute l’Europe."
+      }
+    ]
+  },
+  "concepts": [
+    "politique_familiale",
+    "prestations",
+    "demographie"
+  ],
+  "repond_a": [
+    {
+      "id": "politique_familiale_q1906",
+      "label": "Politique familiale et natalité"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "politique familiale",
+    "quotient familial",
+    "modulation des allocations",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame"
+  ]
+}
