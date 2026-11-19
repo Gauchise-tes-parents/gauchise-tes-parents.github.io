@@ -1,6 +1,6 @@
 {
   "source": "Eurostat (office statistique de l’Union européenne), API publique",
-  "releve_le": "2026-11-18",
+  "releve_le": "2026-11-19",
   "indicateurs": {
     "chomage": {
       "id": "chomage",
@@ -12,7 +12,7 @@
       "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/une_rt_m?geo=FR&s_adj=SA&age=TOTAL&sex=T&unit=PC_ACT&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table?lang=fr",
       "mise_a_jour_source": "2026-11-05T23:00:00+0100",
-      "releve_le": "2026-11-18"
+      "releve_le": "2026-11-19"
     },
     "inflation": {
       "id": "inflation",
@@ -24,7 +24,7 @@
       "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_manr?geo=FR&coicop=CP00&unit=RCH_A&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_manr/default/table?lang=fr",
       "mise_a_jour_source": "2026-02-06T23:00:00+0100",
-      "releve_le": "2026-11-18"
+      "releve_le": "2026-11-19"
     },
     "dette": {
       "id": "dette",
@@ -36,11 +36,11 @@
       "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?geo=FR&na_item=GD&sector=S13&unit=PC_GDP&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table?lang=fr",
       "mise_a_jour_source": "2026-10-21T11:00:00+0200",
-      "releve_le": "2026-11-18"
+      "releve_le": "2026-11-19"
     },
     "deficit": {
       "id": "deficit",
-      "libelle": "déficit public de la France (solde des administrations publiques)",
+      "libelle": "solde des comptes publics de la France (un chiffre négatif est un déficit)",
       "unite": "% du PIB",
       "valeur": -5.1,
       "periode": "2025",
@@ -48,7 +48,19 @@
       "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?geo=FR&na_item=B9&sector=S13&unit=PC_GDP&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table?lang=fr",
       "mise_a_jour_source": "2026-10-21T11:00:00+0200",
-      "releve_le": "2026-11-18"
+      "releve_le": "2026-11-19"
+    },
+    "pauvrete": {
+      "id": "pauvrete",
+      "libelle": "taux de risque de pauvreté en France (sous 60 % du revenu médian, après transferts)",
+      "unite": "% de la population",
+      "valeur": 16.3,
+      "periode": "2025",
+      "jeu": "ilc_li02",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_li02?geo=FR&unit=PC&sex=T&age=TOTAL&statinfo=MED_EI&rskpovth=B_60&format=JSON&lang=fr&lastTimePeriod=4",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_li02/default/table?lang=fr",
+      "mise_a_jour_source": "2026-10-20T11:00:00+0200",
+      "releve_le": "2026-11-19"
     },
     "inegalites": {
       "id": "inegalites",
@@ -60,7 +72,7 @@
       "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_di11?geo=FR&age=TOTAL&sex=T&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di11/default/table?lang=fr",
       "mise_a_jour_source": "2026-10-20T11:00:00+0200",
-      "releve_le": "2026-11-18"
+      "releve_le": "2026-11-19"
     },
     "emploi": {
       "id": "emploi",
@@ -72,7 +84,7 @@
       "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_emp_a?geo=FR&age=Y20-64&sex=T&unit=PC_POP&indic_em=EMP_LFS&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_emp_a/default/table?lang=fr",
       "mise_a_jour_source": "2026-11-06T23:00:00+0100",
-      "releve_le": "2026-11-18"
+      "releve_le": "2026-11-19"
     },
     "renouvelables": {
       "id": "renouvelables",
@@ -84,7 +96,19 @@
       "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_ind_ren?geo=FR&nrg_bal=REN&unit=PC&format=JSON&lang=fr&lastTimePeriod=4",
       "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren/default/table?lang=fr",
       "mise_a_jour_source": "2026-09-15T23:00:00+0200",
-      "releve_le": "2026-11-18"
+      "releve_le": "2026-11-19"
+    },
+    "ges": {
+      "id": "ges",
+      "libelle": "total des émissions de gaz à effet de serre de la France déclarées à l’Union européenne, absorptions par les forêts et les sols déduites",
+      "unite": "millions de tonnes équivalent CO2",
+      "valeur": 325.8377,
+      "periode": "2024",
+      "jeu": "env_air_gge",
+      "url_api": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/env_air_gge?geo=FR&airpol=GHG&src_crf=TOTXMEMO&unit=MIO_T&format=JSON&lang=fr&lastTimePeriod=4",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/env_air_gge/default/table?lang=fr",
+      "mise_a_jour_source": "2026-06-02T23:00:00+0200",
+      "releve_le": "2026-11-19"
     }
   }
 }
