@@ -22,8 +22,12 @@ export const FLUX_DEFAUT = [
 ];
 
 /** Mots-clés de recherche : mots porteurs de la question (sans les mots vagues), les plus longs d'abord. */
+// Verbes conjugués (« touchent », « refusent », « servent ») : peu utiles à une recherche ; les noms en -ment restent.
+const NOMS_EN_ENT = new Set(['argent', 'parent', 'parents', 'accident', 'accidents', 'agent', 'agents', 'client', 'clients', 'president', 'continent', 'talent', 'patient', 'patients']);
+const verbe = (t) => /[^m]ent$/.test(t) && !NOMS_EN_ENT.has(t);
+
 export function motsCles(question, { max = 5 } = {}) {
-  const mots = [...new Set(kbTokens(question).filter((t) => t.length >= 4 && !VAGUES.has(t)))];
+  const mots = [...new Set(kbTokens(question).filter((t) => t.length >= 4 && !VAGUES.has(t) && !verbe(t)))];
   const { concepts } = motsQuestion(question);
   const labels = concepts.filter((c) => c.central).flatMap((c) => kbTokens(c.label)).filter((t) => t.length >= 4 && !VAGUES.has(t));
   return [...new Set([...mots.sort((a, b) => b.length - a.length), ...labels])].slice(0, max);
@@ -37,12 +41,14 @@ const httpsOk = (u) => /^https:\/\/[^\s"<>]+$/i.test(String(u || ''));
 export function pertinence(piste, mots) {
   const titre = kbNormalize(piste.titre || '');
   const corps = kbNormalize(`${piste.extrait || ''} ${piste.organisme || ''}`);
-  let score = 0;
+  let score = 0; let distincts = 0;
   for (const m of mots) {
     const r = m.slice(0, Math.max(4, m.length - 2)); // tolère pluriels et accords
-    if (titre.includes(r)) score += 2; else if (corps.includes(r)) score += 1;
+    if (titre.includes(r)) { score += 2; distincts += 1; } else if (corps.includes(r)) { score += 1; distincts += 1; }
   }
-  return score;
+  // une seule notion en commun ne suffit pas (sauf question à un seul mot-clé) ; bonus aux travaux récents
+  if (distincts < Math.min(2, mots.length)) return 0;
+  return score + (Number(String(piste.date).slice(0, 4)) >= 2015 ? 0.5 : 0);
 }
 
 // ── Lecteurs (fonctions pures sur les réponses, testées hors ligne) ──
@@ -81,10 +87,10 @@ export function lireRss(xml, nom) {
 }
 
 /** Garde les pistes utilisables : https, pas de droite ni d'encyclopédie, pertinentes ; dédoublonnées. */
-export function filtrer(pistes, mots, { min = 2, max = 8 } = {}) {
+export function filtrer(pistes, mots, { min = 3, max = 8 } = {}) {
   const vues = new Set();
   return pistes
-    .filter((p) => p.titre && httpsOk(p.url))
+    .filter((p) => p.titre && httpsOk(p.url) && !/dumas\.ccsd\.cnrs\.fr/.test(p.url)) // mémoires d'étudiants écartés
     .map((p) => ({ ...p, classe: classerSource(p), score: pertinence(p, mots) }))
     .filter((p) => !['droite', 'partisane', 'tertiaire'].includes(p.classe) && p.score >= min)
     .filter((p) => (vues.has(p.url) ? false : vues.add(p.url)))
@@ -97,15 +103,21 @@ export async function chercherSources(question, { corpus = null, flux = FLUX_DEF
   const mots = motsCles(question);
   const res = { question, mots, programme: [], pistes: [], erreurs: [] };
   if (corpus) {
-    res.programme = mesuresPertinentes(question, corpus, { max: 4 }).map((m) => ({ texte: m.texte, chapitre: m.chapitre, section: m.section, url: m.url }));
+    const racines = mots.map((m) => m.slice(0, Math.max(4, m.length - 2)));
+    res.programme = mesuresPertinentes(question, corpus, { max: 8 })
+      .filter((m) => { const t = kbNormalize(`${m.texte} ${m.section}`); return racines.some((r) => t.includes(r)); })
+      .slice(0, 4).map((m) => ({ texte: m.texte, chapitre: m.chapitre, section: m.section, url: m.url }));
   }
   if (!mots.length) { res.erreurs.push('aucun mot-clé exploitable'); return res; }
   const q = encodeURIComponent(mots.join(' '));
-  const qOu = encodeURIComponent(mots.join(' OR '));
+  const qEt = encodeURIComponent(mots.slice(0, 3).join(' AND '));
+  const qCourt = encodeURIComponent(mots.slice(0, 2).join(' '));
+  const champsHal = 'fl=title_s,uri_s,producedDateY_i,journalTitle_s,authFullName_s,abstract_s&fq=language_s:fr&fq=-docType_s:MEM&sort=score%20desc';
   const services = [
-    ['HAL', `https://api.archives-ouvertes.fr/search/?q=${qOu}&wt=json&rows=12&fl=title_s,uri_s,producedDateY_i,journalTitle_s,authFullName_s,abstract_s&fq=language_s:fr&sort=score%20desc`, lireHal],
+    ['HAL', `https://api.archives-ouvertes.fr/search/?q=${qEt}&wt=json&rows=15&${champsHal}`, lireHal],
+    ['HAL (élargi)', `https://api.archives-ouvertes.fr/search/?q=${encodeURIComponent(mots.slice(0, 2).join(' AND '))}&wt=json&rows=15&${champsHal}`, lireHal],
     ['OpenAlex', `https://api.openalex.org/works?search=${q}&filter=language:fr&per-page=12&select=title,display_name,doi,publication_year,primary_location,authorships`, lireOpenAlex],
-    ['data.gouv.fr', `https://www.data.gouv.fr/api/1/datasets/?q=${q}&page_size=12`, lireDataGouv],
+    ['data.gouv.fr', `https://www.data.gouv.fr/api/1/datasets/?q=${qCourt}&page_size=15`, lireDataGouv],
   ];
   const brutes = [];
   for (const [nom, url, lecteur] of services) {
