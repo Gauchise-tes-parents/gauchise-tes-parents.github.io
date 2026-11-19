@@ -14,6 +14,7 @@ import { releverChiffres } from './chiffres.js';
 import { ajouter, questionsManuelles, questionsCollecteur } from './file.js';
 import { assemblerFiche, controler } from './fiches.js';
 import { chercherSources, pistesMarkdown, FLUX_DEFAUT } from './sources.js';
+import { redigerFiche } from './redacteur.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 const D = process.env.GTP_MOTEUR_DIR || join(ROOT, 'data', 'moteur');
@@ -114,7 +115,6 @@ for (const q of enAttente.slice(0, config.max_fiches_par_passage)) {
   creees.push({ id: r.fiche.id, question: q.texte, mesures: r.fiche.moteur.mesures, indicateurs: r.fiche.moteur.indicateurs });
 }
 ecrireJson(D, 'file.json', file);
-ecrireJson(D, 'dernier-passage.json', { jour, fiches: creees.map((c) => c.id), brouillons: brouillons.map((b) => b.id) });
 
 // 5. Chercheur de sources : pour les questions à écrire à la main (ou restées en brouillon), des PISTES de sources
 //    (programme, recherche publique, données publiques, vérification des faits), non lues, à vérifier avant usage.
@@ -135,6 +135,30 @@ if (!horsLigne) {
   if (aChercher.length) ecrireJson(D, 'sources.json', sources);
   rapport.push(`- Chercheur de sources : ${aChercher.length} question(s) explorée(s).`);
 }
+// 6. Rédacteur : pour une question « à écrire » qui a des pistes lues (résumés), une fiche rédigée automatiquement
+//    (sans verdict, sans IA), avec les mêmes garde-fous que les autres ; sinon la question reste « à écrire ».
+const redigees = [];
+if (config.redacteur !== false) {
+  for (const [cle, q] of Object.entries(file.questions)) {
+    if (q.statut !== 'a_ecrire' || !sources.questions[cle] || redigees.length >= config.max_fiches_par_passage) continue;
+    const s = sources.questions[cle];
+    const r = redigerFiche(q.texte, { pistes: s.pistes, programme: s.programme, chiffres, occurrences: q.occurrences, jour });
+    if (r.raison) { q.note = `rédacteur : ${r.raison}`; continue; }
+    const pb = controler(r.fiche, { bibliotheque, phrasesControle, avant });
+    if (pb.length) {
+      ecrireJson(BROUILLONS, `${r.fiche.id}.json`, { ...r.fiche, problemes: pb });
+      q.statut = 'brouillon'; q.fiche = r.fiche.id; q.note = `rédacteur : ${pb.join(' ; ')}`;
+      brouillons.push({ id: r.fiche.id, question: q.texte, pb });
+      continue;
+    }
+    ecrireJson(LIB, `${r.fiche.id}.json`, r.fiche);
+    bibliotheque.push(r.fiche);
+    avant.set(r.fiche.affirmation, r.fiche.id); phrasesControle.push(r.fiche.affirmation);
+    q.statut = 'fiche'; q.fiche = r.fiche.id; delete q.note;
+    redigees.push({ id: r.fiche.id, question: q.texte, pistes: r.fiche.moteur.pistes, mesures: r.fiche.moteur.mesures });
+  }
+}
+ecrireJson(D, 'dernier-passage.json', { jour, fiches: [...creees.map((c) => c.id), ...redigees.map((c) => c.id)], brouillons: brouillons.map((b) => b.id) });
 for (const [cle, q] of Object.entries(file.questions)) if (['a_ecrire', 'brouillon'].includes(q.statut) && sources.questions[cle]) pistesTxt.push(pistesMarkdown({ question: q.texte, ...sources.questions[cle] }));
 writeFileSync(join(D, 'pistes.md'), `# Pistes de sources pour les questions à écrire
 
@@ -146,10 +170,11 @@ ecrireJson(D, 'file.json', file);
 
 const restantes = Object.values(file.questions).filter((q) => ['a_ecrire', 'en_attente'].includes(q.statut));
 rapport.push('', `## Fiches créées : ${creees.length}`, ...creees.map((c) => `- \`${c.id}\` — « ${c.question} » (${c.mesures} mesures du programme ; chiffres : ${c.indicateurs.join(', ')})`));
+rapport.push('', `## Fiches rédigées à partir des pistes de sources : ${redigees.length}`, ...redigees.map((c) => `- \`${c.id}\` — « ${c.question} » (${c.pistes} résumé(s) cité(s), ${c.mesures} mesure(s) du programme ; sans verdict, à relire)`));
 rapport.push('', `## Brouillons à reprendre : ${brouillons.length}`, ...brouillons.map((b) => `- \`${b.id}\` — « ${b.question} » : ${b.pb.join(' ; ')}`));
 rapport.push('', `## Questions à écrire à la main (ou par Claude) : ${restantes.length}`, ...restantes.slice(0, 30).map((q) => `- « ${q.texte} »${q.occurrences > 1 ? ` (${q.occurrences} fois)` : ''}${q.note ? ` — ${q.note}` : ''}${q.pistes ? ` — ${q.pistes} piste(s) de sources dans data/moteur/pistes.md` : ''}`));
 if (alertes.length) rapport.push('', '## Alertes', ...alertes.map((a) => `- ${a}`));
 rapport.push('', 'Valider = fusionner cette demande de fusion (pull request). Les fiches portent la mention « assemblée automatiquement » sur le site.');
 writeFileSync(join(D, 'rapport.md'), `${rapport.join('\n')}\n`);
-sortie('fiches', creees.length); sortie('brouillons', brouillons.length);
+sortie('fiches', creees.length + redigees.length); sortie('brouillons', brouillons.length);
 console.log(rapport.join('\n'));

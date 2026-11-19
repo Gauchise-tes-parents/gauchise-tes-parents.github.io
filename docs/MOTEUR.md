@@ -45,6 +45,20 @@ Réglages : `max_recherches_sources` (10 par passage), `sources_jours` (30 jours
 Essai sans rien enregistrer : *Actions → Moteur interne de fiches → Run workflow*, champ « essai » (questions séparées
 par `|`), ou `node scripts/moteur/sources.js --essai "ma question"`.
 
+### Rédacteur (ajouté le 19 novembre 2026)
+
+Quand le chercheur de sources a trouvé, pour une question « à écrire », au moins deux éléments sourcés dont un
+**résumé lu** (recherche HAL, données data.gouv.fr ou article de vérification), le rédacteur écrit une fiche complète,
+au même format que les autres : résumé, contexte, explication, argumentaires (court, moyen, détaillé, empathie),
+objections, questions, réponses aux deux publics, lecture de gauche et limites.
+- Il **cite mot pour mot** les résumés et les mesures de *L'Avenir en commun*, avec leurs liens ; il n'invente rien.
+- Il **ne donne pas de verdict** : sans IA, un programme ne peut pas juger une affirmation. La fiche le dit, ainsi que
+  le fait que seuls les résumés ont été lus. Sur le site, elle porte la mention « Rédigée automatiquement ».
+- Mêmes garde-fous que les autres fiches (validation, politique documentaire, aucune phrase de contrôle détournée,
+  tests complets), puis **proposition en pull request** : valider = fusionner. Pendant les premières semaines, Claude
+  relit ces fiches lors de la mise à jour du mercredi.
+- Désactivation : `"redacteur": false` dans `data/moteur/config.json` (le chercheur de sources continue seul).
+
 Suivi de chaque question : `data/moteur/file.json` (statuts : `en_attente`, `couverte`, `fiche`, `brouillon`,
 `a_ecrire`). Pour relancer une question, remets son statut à `en_attente`.
 

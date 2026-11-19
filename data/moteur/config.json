@@ -1,5 +1,5 @@
 {
-  "_commentaire": "Réglages du moteur interne (scripts/moteur/index.js). max_fiches_par_passage : questions traitées par jour ; aec_jours : fréquence du relevé du programme L'Avenir en commun. max_recherches_sources : questions « à écrire » explorées par le chercheur de sources à chaque passage ; sources_jours : délai avant de rechercher à nouveau des pistes pour une même question ; flux_verification : flux RSS de rédactions de vérification des faits parcourus par le chercheur de sources (un flux illisible est seulement signalé).",
+  "_commentaire": "Réglages du moteur interne (scripts/moteur/index.js). max_fiches_par_passage : questions traitées par jour ; aec_jours : fréquence du relevé du programme L'Avenir en commun. max_recherches_sources : questions « à écrire » explorées par le chercheur de sources à chaque passage ; sources_jours : délai avant de rechercher à nouveau des pistes pour une même question ; flux_verification : flux RSS de rédactions de vérification des faits parcourus par le chercheur de sources (un flux illisible est seulement signalé). redacteur : true = rédige une fiche (sans verdict, sans IA) pour les questions « à écrire » qui ont des pistes lues ; false = pistes seulement.",
   "max_fiches_par_passage": 10,
   "aec_jours": 7,
   "max_recherches_sources": 10,
@@ -9,5 +9,6 @@
       "nom": "Le Monde — Les Décodeurs",
       "url": "https://www.lemonde.fr/les-decodeurs/rss_full.xml"
     }
-  ]
+  ],
+  "redacteur": true
 }

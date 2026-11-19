@@ -169,7 +169,7 @@ function ficheCard(f) {
     <span class="fiche-top"><span class="fiche-icon" aria-hidden="true">${VOLET_ICONS[f.volet] || VOLET_ICONS.autre}</span><span class="fiche-cat">${h(voletById(f.volet).court)}${f.sous_theme ? ` · ${h(f.sous_theme)}` : ''}</span></span>
     ${f.force ? `<span class="match-badge match-badge--${h(f.force)}">${f.force === 'forte' ? 'Correspond à ta question' : 'Sujet voisin'}</span>` : ''}
     <span class="fiche-claim">« ${h(f.affirmation)} »</span>
-    ${f.origine === 'ia' ? '<span class="rub-chips"><span class="rub-chip">🤖 Créée par l’IA · non relue</span></span>' : f.origine === 'moteur' ? '<span class="rub-chips"><span class="rub-chip">Repères automatiques · programme et chiffres</span></span>' : ''}
+    ${f.origine === 'ia' ? '<span class="rub-chips"><span class="rub-chip">🤖 Créée par l’IA · non relue</span></span>' : f.origine === 'moteur' ? `<span class="rub-chips"><span class="rub-chip">${f.moteur?.redacteur ? 'Rédigée automatiquement · sources à relire' : 'Repères automatiques · programme et chiffres'}</span></span>` : ''}
     ${rubs.length ? `<span class="rub-chips">${rubs.map((r) => `<span class="rub-chip">${h(r.court)}</span>`).join('')}</span>` : ''}
     <span class="fiche-badges">${verdictBadge(f.verdict, true)}${fiabBadge(f.fiabilite)}${freshBadge(f)}</span>
     <span class="fiche-date">Vérifiée le ${h(frDate(f.derniere_verification))}</span>
@@ -899,7 +899,7 @@ function viewFiche(f, tab = 'court') {
       ${publicsHtml(f)}
 
       <article class="verdict-card verdict-card--${h(vkey)}" aria-labelledby="verdict-title">
-        <div class="verdict-mascot">${mascotSvg(f.verdict || 'opinion', f.origine === 'ia' ? 'Fiche créée par l’IA, non relue' : f.origine === 'moteur' ? 'Fiche de repères assemblée automatiquement' : 'Doc Source a vérifié la fiche', 96)}</div>
+        <div class="verdict-mascot">${mascotSvg(f.verdict || 'opinion', f.origine === 'ia' ? 'Fiche créée par l’IA, non relue' : f.origine === 'moteur' ? (f.moteur?.redacteur ? 'Fiche rédigée automatiquement, sans verdict' : 'Fiche de repères assemblée automatiquement') : 'Doc Source a vérifié la fiche', 96)}</div>
         <div class="verdict-body">
           <h1 id="verdict-title" class="verdict-h">${verdictBadge(f.verdict)}</h1>
           <p class="fiche-badges">${fiabBadge(f.fiabilite)}${freshBadge(f)}</p>
@@ -1304,6 +1304,7 @@ function publicsHtml(f) {
 // Étiquette d'une fiche créée par l'IA (non relue) : affichée partout où la fiche apparaît.
 function ficheIaHtml(f, extra = null) {
   // v15 : fiche assemblée par le moteur interne (sans IA) : programme L'Avenir en commun + chiffres officiels
+  if (f?.origine === 'moteur' && f.moteur?.redacteur) return `<div class="notice notice--soft fiche-ia-note" role="note"><p><strong>Fiche rédigée automatiquement</strong> (sans IA) à partir de sources publiques : résumés de travaux de recherche, de données publiques ou d’articles de vérification, cités mot pour mot, et propositions de <em>L’Avenir en commun</em>. Seuls les résumés ont été lus et la fiche ne donne pas de verdict : lis les documents avant de t’en servir.</p></div>`;
   if (f?.origine === 'moteur') return `<div class="notice notice--soft fiche-ia-note" role="note"><p><strong>Fiche de repères assemblée automatiquement</strong> (sans IA) à partir du programme <em>L’Avenir en commun</em>, cité mot pour mot, et de chiffres officiels. Elle ne vérifie pas l’affirmation : elle donne les propositions de la gauche et des repères en attendant une fiche de vérification complète.</p></div>`;
   if (f?.origine !== 'ia') return '';
   const n = (f.sources || []).length;

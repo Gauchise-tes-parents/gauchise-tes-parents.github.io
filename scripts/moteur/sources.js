@@ -156,5 +156,12 @@ if (process.argv[1] && process.argv[1].endsWith('sources.js') && process.argv.in
   try { flux = JSON.parse(readFileSync(join(D, 'config.json'), 'utf8')).flux_verification || flux; } catch { /* défaut */ }
   const questions = process.argv.slice(process.argv.indexOf('--essai') + 1).join(' ').split('|').map((s) => s.trim()).filter(Boolean);
   const cache = new Map();
-  for (const question of questions) console.log(`${pistesMarkdown(await chercherSources(question, { corpus, flux, fluxCache: cache }))}\n`);
+  const { redigerFiche } = await import('./redacteur.js');
+  let chiffres = null; try { chiffres = JSON.parse(readFileSync(join(D, 'chiffres.json'), 'utf8')); } catch { /* sans chiffres */ }
+  for (const question of questions) {
+    const r = await chercherSources(question, { corpus, flux, fluxCache: cache });
+    console.log(`${pistesMarkdown(r)}\n`);
+    const f = redigerFiche(question, { pistes: r.pistes, programme: r.programme, chiffres });
+    console.log(f.raison ? `→ Rédacteur : pas de fiche (${f.raison}).\n` : `→ Rédacteur : fiche « ${f.fiche.id} » (volet ${f.fiche.volet}).\n  Résumé : ${f.fiche.resume}\n  Électeur convaincu : ${f.fiche.publics.convaincus}\n`);
+  }
 }
