@@ -1936,3 +1936,7 @@ Limite : « La délinquance des mineurs explose » mène toujours à `excuse-de-
 - La question suggérée « De combien la France s'est-elle déjà réchauffée ? » menait à `aide-autorite-palestinienne`, puis à `royaume-uni-paie-calais`, à cause de mots-clés contenant « combien » : ces mots-clés ont été reformulés ; la question ne mène plus à une fiche hors sujet.
 
 **Vérifications.** `npm test` : 493 tests, 493 réussis, après les corrections ci-dessus. Tests de bout en bout : 46 tests, 46 réussis.
+
+## 19 novembre 2026 — jauge de soutien Tipeee (indication du propriétaire)
+
+Montant communiqué par le propriétaire : **571 € / mois** (l'API Tipeee reste illisible depuis la session automatique). `public/js/soutien.js` : `montant` passe de 45 à 571, `maj` au 19 novembre ; objectif inchangé (1 000 €). Le nombre de tipeurs n'a pas été communiqué : la valeur 11 (relevé du 11 novembre) est conservée, elle n'est pas affichée sur le site. Tests `soutien` et `build` : réussis.
