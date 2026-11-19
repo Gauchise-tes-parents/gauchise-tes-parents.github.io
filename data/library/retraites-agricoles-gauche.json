@@ -1,0 +1,247 @@
+{
+  "id": "retraites-agricoles-gauche",
+  "type": "idee_recue",
+  "affirmation": "La gauche n'a jamais rien fait pour les retraites des agriculteurs.",
+  "volet": "social",
+  "sous_theme": "Minimum social et niveau de vie",
+  "rubriques": [],
+  "mots_cles": [
+    "la gauche n a rien fait pour les agriculteurs",
+    "retraite agricole",
+    "loi chassaigne",
+    "retraite agriculteur 85 % smic",
+    "petites retraites agricoles",
+    "retraite conjointes d agriculteurs",
+    "pension agricole minimum",
+    "retraite complementaire agricole",
+    "paysans retraites de misere",
+    "andre chassaigne retraite"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Plusieurs avancées majeures pour les retraites agricoles viennent de la gauche : la création de la retraite complémentaire obligatoire des exploitants par la loi du 4 mars 2002, sous un gouvernement de gauche, l'objectif de 75 % du Smic fixé en 2014, puis la loi du 3 juillet 2020, proposée par le député communiste André Chassaigne, qui porte la pension minimale des chefs d'exploitation à 85 % du Smic net agricole, et sa suite de 2021 pour les conjoints collaborateurs. Ces lois ont été votées à l'unanimité et appliquées par un gouvernement qui n'était pas de gauche. Les pensions agricoles restent néanmoins parmi les plus faibles.",
+  "contexte": "Le monde agricole est un enjeu électoral disputé, et l'extrême droite y présente la gauche comme urbaine et indifférente aux paysans. Les petites retraites agricoles, souvent sous le seuil de pauvreté, sont un sujet sensible dans les campagnes.",
+  "explication": "On retrace les principales lois sur les retraites agricoles à partir de documents parlementaires, d'une réponse ministérielle et d'un communiqué du Premier ministre, puis on mesure le niveau des pensions avec l'Insee.",
+  "faits": [
+    {
+      "fait": "Selon une réponse ministérielle publiée par le Sénat, un plan quinquennal mené de 1997 à 2002 a abouti à la loi du 4 mars 2002 créant le régime de retraite complémentaire obligatoire des non-salariés agricoles, qualifié d'« avancée sociale fondamentale pour le monde agricole ».",
+      "periode": "1997-2002",
+      "perimetre": "France",
+      "explication": "Ce régime complémentaire, qui n'existait pas pour les exploitants, a été créé sous un gouvernement de gauche.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la proposition de loi déposée en 2021 par les députés communistes, la loi de 2014 a fixé l'objectif d'une pension minimale de 75 % du Smic net agricole pour une carrière complète de chef d'exploitation, par un complément de points de retraite complémentaire.",
+      "periode": "2014",
+      "perimetre": "France",
+      "explication": "Une deuxième étape a été franchie sous un gouvernement de gauche.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "75 %"
+    },
+    {
+      "fait": "Selon LCP, la proposition de loi d'André Chassaigne, président des députés communistes, portant le minimum de retraite des chefs d'exploitation de 75 % à 85 % du Smic net agricole, a été adoptée à l'unanimité par l'Assemblée en juin 2020 ; elle est devenue la loi n° 2020-839 du 3 juillet 2020, soit environ 1 050 euros par mois selon le ministère.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "La principale revalorisation récente est d'initiative communiste.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "85 %"
+    },
+    {
+      "fait": "Selon le Premier ministre (communiqué du 10 décembre 2021), la garantie de 85 % du Smic s'est appliquée aux pensions de novembre 2021 pour plus de 200 000 anciens chefs d'exploitation, avec une hausse moyenne de 100 euros par mois ; une seconde loi, adoptée à l'unanimité, a revalorisé à partir de 2022 les pensions de plus de 210 000 retraités, dont les anciennes conjointes collaboratrices.",
+      "periode": "2021-2022",
+      "perimetre": "France",
+      "explication": "Des centaines de milliers de retraités agricoles en ont concrètement bénéficié.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "200 000"
+    },
+    {
+      "fait": "Selon LCP, la proposition de loi avait été adoptée en première lecture en février 2017 ; André Chassaigne déplorait en 2020 : « Quarante mois plus tard, rien n'a changé », et le gouvernement avait repoussé l'application au plus tard au 1er janvier 2022.",
+      "periode": "2017-2020",
+      "perimetre": "France",
+      "explication": "La mesure a été portée par la gauche puis retardée avant d'être appliquée par un gouvernement d'une autre couleur politique.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Insee, fin 2020, la pension moyenne des anciens exploitants agricoles n'était que de 810 euros bruts par mois (670 euros pour les femmes), contre 1 540 euros pour l'ensemble des retraités ; l'objectif de 75 % du Smic fixé en 2002 n'était pas atteint en 2012, selon une question au Sénat.",
+      "periode": "2002-2020",
+      "perimetre": "France",
+      "explication": "Les gouvernements de gauche n'ont pas suffi à sortir les retraités agricoles de la pauvreté : le combat reste à mener.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "810 euros"
+    }
+  ],
+  "argumentaires": {
+    "court": "C'est faux. La retraite complémentaire obligatoire des agriculteurs a été créée en 2002 sous un gouvernement de gauche, et c'est le député communiste André Chassaigne qui a fait voter en 2020 la pension minimale à 85 % du Smic, puis en 2021 la revalorisation des conjointes. Ces lois ont été votées à l'unanimité. Les pensions agricoles restent pourtant très basses.",
+    "moyen": "Les principales avancées pour les retraites agricoles portent une signature de gauche. La loi du 4 mars 2002 a créé la retraite complémentaire obligatoire des exploitants, au terme d'un plan quinquennal lancé en 1997. En 2014, l'objectif d'une pension minimale de 75 % du Smic net agricole a été fixé. Puis la loi du 3 juillet 2020, proposée par le député communiste André Chassaigne et votée à l'unanimité, a porté ce minimum à 85 % du Smic, environ 1 050 euros par mois, pour plus de 200 000 anciens chefs d'exploitation à partir de novembre 2021.\n\nUne seconde loi Chassaigne, adoptée à l'unanimité fin 2021, a revalorisé les pensions de plus de 210 000 retraités, dont beaucoup d'anciennes conjointes collaboratrices. Ces lois ont été appliquées par un gouvernement qui n'était pas de gauche, après des années de retard. Et le chemin reste long : fin 2020, un ancien exploitant touchait en moyenne 810 euros bruts par mois.",
+    "detaille": "L'affirmation ne résiste pas à la chronologie. Selon une réponse ministérielle publiée par le Sénat, un plan quinquennal lancé en 1997 a abouti à la loi du 4 mars 2002, qui crée le régime de retraite complémentaire obligatoire des non-salariés agricoles, une « avancée sociale fondamentale pour le monde agricole ». L'objectif était alors une pension de 75 % du Smic net pour une carrière complète. En 2014, la loi sur les retraites a créé un complément de points pour garantir ce minimum aux anciens chefs d'exploitation.\n\nLa marche suivante est venue d'un député communiste. André Chassaigne a déposé une proposition de loi portant ce minimum à 85 % du Smic net agricole, adoptée en première lecture en février 2017, puis à l'unanimité en deuxième lecture en juin 2020, lors d'une journée réservée à son groupe. Devenue la loi du 3 juillet 2020, elle garantit environ 1 050 euros par mois pour une carrière complète. Selon le Premier ministre de l'époque, elle s'est appliquée dès novembre 2021 à plus de 200 000 anciens chefs d'exploitation, avec un gain moyen de 100 euros par mois.\n\nLes femmes avaient été largement oubliées : selon la proposition de loi suivante, une conjointe collaboratrice à carrière complète touchait environ 601 euros par mois en 2019. Une seconde loi Chassaigne, votée à l'unanimité par l'Assemblée et le Sénat en 2021, a revalorisé de 100 euros en moyenne les pensions de plus de 210 000 retraités à partir de 2022, dont une majorité de femmes.\n\nIl faut rester honnête : ces lois ont été votées par tous les groupes et appliquées par un gouvernement du centre et de la droite, qui en a aussi retardé l'entrée en vigueur. Et les pensions agricoles restent parmi les plus faibles : 810 euros bruts en moyenne fin 2020 pour un ancien exploitant, 670 euros pour une femme, selon l'Insee. Le combat pour des retraites dignes dans les campagnes n'est pas terminé, mais dire que la gauche n'a rien fait est faux.",
+    "empathie": "Beaucoup d'anciens agriculteurs vivent avec des pensions de misère après une vie de travail très dur, et ils ont le sentiment d'avoir été oubliés par tous. Cette colère est légitime, et elle mérite qu'on regarde qui a vraiment agi."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La loi des 85 %, c'est Macron qui l'a faite.",
+      "reponse": "La proposition de loi est celle du député communiste André Chassaigne, adoptée en première lecture dès 2017 ; le gouvernement l'a appliquée en novembre 2021, après en avoir repoussé la date."
+    },
+    {
+      "objection": "La gauche ne s'intéresse qu'aux villes.",
+      "reponse": "La retraite complémentaire obligatoire des agriculteurs a été créée en 2002, et les deux lois Chassaigne de 2020 et 2021 visent précisément les retraités agricoles."
+    },
+    {
+      "objection": "Ça n'a rien changé, les retraites agricoles sont toujours minables.",
+      "reponse": "Les pensions restent trop basses, c'est vrai, mais plus de 200 000 anciens exploitants et plus de 210 000 autres retraités agricoles ont gagné en moyenne 100 euros par mois."
+    }
+  ],
+  "questions": [
+    "Sais-tu qui a déposé la loi qui a porté la retraite minimale des agriculteurs à 85 % du Smic ?",
+    "Qu'est-ce qui serait le plus utile aux retraités agricoles aujourd'hui : un slogan contre la gauche ou une nouvelle revalorisation ?"
+  ],
+  "limites": [
+    "Le texte de la loi du 3 juillet 2020 n'a pas été lu sur Légifrance : son contenu est connu par une réponse ministérielle, LCP et le communiqué du Premier ministre.",
+    "Le rôle de la loi de 2014 est connu par l'exposé des motifs d'une proposition de loi communiste (partie prenante), lue à travers un outil de lecture qui résume.",
+    "Les données de pension de l'Insee datent de fin 2020, avant la revalorisation de novembre 2021.",
+    "La réforme de 2023 sur le calcul des pensions agricoles sur les 25 meilleures années n'a pas été vérifiée et n'est pas traitée ici."
+  ],
+  "sources": [
+    {
+      "titre": "Pensions agricoles : l'Assemblée vote une revalorisation des petites retraites",
+      "organisme": "LCP-Assemblée nationale (Maxence Kagni)",
+      "date_publication": "18 juin 2020",
+      "url": "https://lcp.fr/actualites/pensions-agricoles-l-assemblee-vote-une-revalorisation-des-petites-retraites-27218",
+      "passage": "Lors de la niche du groupe Gauche démocrate et républicaine, la proposition de loi d'André Chassaigne, président des députés communistes, est adoptée à l'unanimité en deuxième lecture : le minimum de retraite des chefs d'exploitation à carrière complète passe de 75 % à 85 % du Smic net agricole. Première lecture en février 2017 ; « Quarante mois plus tard, rien n'a changé », déplore André Chassaigne. Le gouvernement annonce 200 000 bénéficiaires en 2022 et une hausse moyenne de 110 euros par mois ; application « au plus tard le 1er janvier 2022 ».",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 35049 (M. Nicolas Forissier) sur la date d'application de la revalorisation des retraites agricoles, et réponse du ministère",
+      "organisme": "Assemblée nationale (JO du 15 décembre 2020 et du 2 février 2021)",
+      "date_publication": "2 février 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE35049.pdf",
+      "passage": "La « loi n° 2020-839 du 3 juillet 2020 » porte le minimum de pension des chefs d'exploitation ayant une carrière complète de 75 % à 85 % du Smic net agricole, soit « environ 1 050 € par mois », pour les retraités actuels et futurs, à une date fixée par décret « au plus tard le 1er janvier 2022 ».",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Communiqué de presse du Premier ministre : revalorisation des retraites des conjoints agricoles",
+      "organisme": "Premier ministre (Jean Castex)",
+      "date_publication": "10 décembre 2021",
+      "url": "https://www.info.gouv.fr/upload/media/default/0001/01/2021_12_communique_de_presse_de_m._jean_castex_premier_ministre_-_revalorisation_des_retraites_des_conjoints_agricoles_-_10.12.2021.pdf",
+      "passage": "La « garantie de retraite minimale à 85 % du SMIC » s'applique aux pensions de novembre 2021 pour plus de 200 000 anciens chefs d'exploitation, avec une hausse moyenne de 100 euros par mois. La proposition de loi sur les pensions agricoles les plus faibles, adoptée à l'unanimité par l'Assemblée le 17 juin et définitivement par le Sénat le 9 décembre, revalorise de 100 euros en moyenne par mois les pensions de plus de 210 000 retraités, dont les anciens conjoints collaborateurs, à partir du 1er janvier 2022.",
+      "pertinence": "Communiqué officiel.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi n° 4137 visant à assurer la revalorisation des pensions de retraites agricoles les plus faibles",
+      "organisme": "Assemblée nationale (André Chassaigne et députés du groupe GDR)",
+      "date_publication": "4 mai 2021",
+      "url": "https://questions.assemblee-nationale.fr/dyn/15/textes/l15b4137_proposition-loi.pdf",
+      "passage": "L'exposé des motifs rappelle la loi Peiro de 2002 (création de la retraite complémentaire obligatoire des non-salariés agricoles, mise en œuvre depuis 2003), la loi de 2014 fixant l'objectif d'une pension minimale de 75 % du Smic net agricole, et la loi du 3 juillet 2020 qui la porte à 85 % « à compter du 1er novembre 2021 ». En 2019, la pension moyenne pour une carrière complète était d'environ 601 euros par mois pour les conjoints collaborateurs, 718 euros pour les aides familiaux et 877 euros pour les chefs d'exploitation.",
+      "pertinence": "Document parlementaire d'initiative communiste (partie prenante), lu à travers un outil de lecture qui résume.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 02349 (M. Claude Bérit-Débat) sur les retraites agricoles, et réponse du ministère",
+      "organisme": "Sénat",
+      "date_publication": "11 octobre 2012 (question)",
+      "url": "https://www.senat.fr/questions/base/2012/qSEQ121002349.html",
+      "passage": "Un plan quinquennal de 1997 à 2002 a abouti à la loi du 4 mars 2002 créant le régime de retraite complémentaire obligatoire des non-salariés agricoles, « une avancée sociale fondamentale pour le monde agricole », avec l'objectif d'une pension totale de 75 % du Smic net pour une carrière complète, objectif non atteint en 2012. La question évoque une pension agricole moyenne d'environ 650 euros par mois.",
+      "pertinence": "Document parlementaire (lu à travers un outil de lecture qui résume) ; données de 2012.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Pensions de retraite des non-salariés (Emplois et revenus des indépendants, édition 2025)",
+      "organisme": "Insee (données DREES, EIR 2020)",
+      "date_publication": "21 mai 2025",
+      "url": "https://www.insee.fr/fr/statistiques/8376559",
+      "passage": "Fin 2020, la pension de droit direct tous régimes des anciens exploitants agricoles est de 810 euros bruts par mois en moyenne (970 euros pour les hommes, 670 euros pour les femmes), contre 1 230 euros pour les anciens artisans-commerçants et 1 540 euros pour l'ensemble des retraités.",
+      "pertinence": "Publication de la statistique publique ; données de fin 2020, antérieures à la revalorisation de novembre 2021.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Mise en œuvre de la réforme du calcul des pensions agricoles et nouvelles données de la DREES.",
+  "objections_legitimes": [
+    "Les pensions agricoles restent parmi les plus faibles de France, en particulier pour les femmes.",
+    "Les avancées ont été lentes et leur application a été retardée.",
+    "Les gouvernements de gauche n'ont pas atteint tous les objectifs qu'ils s'étaient fixés."
+  ],
+  "publics": {
+    "convaincus": "Regarde qui a déposé la loi qui a porté la retraite minimale des agriculteurs à 85 % du Smic : André Chassaigne, député communiste. Et la retraite complémentaire des exploitants date de 2002, sous un gouvernement de gauche. Tout le monde a voté ces lois, tant mieux, mais dire que la gauche n'a rien fait, c'est faux.",
+    "indecis": "Ta colère sur les petites retraites agricoles est juste : un ancien exploitant touchait en moyenne 810 euros bruts fin 2020. Mais les avancées obtenues, comme la complémentaire de 2002 ou le minimum à 85 % du Smic, viennent en bonne partie de la gauche. Pour juger les partis, regarde ce qu'ils ont proposé et voté, pas seulement ce qu'ils disent."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "travailleurs",
+      "vulnerables"
+    ],
+    "mecanismes": "Affirmer que la gauche n’a rien fait efface des lois concrètes et cherche à opposer les campagnes à une gauche présentée comme urbaine et indifférente.",
+    "consequences": "Ce récit décourage les retraités agricoles de soutenir ceux qui ont porté leurs revendications, alors que leurs pensions restent parmi les plus faibles.",
+    "democratie": "Les lois sur les retraites agricoles ont été obtenues par l’initiative parlementaire et votées par tous les groupes : la démocratie se juge sur les actes et les votes, pas sur les slogans.",
+    "propositions": [
+      "Porter la pension minimale des agriculteurs au niveau du Smic pour une carrière complète.",
+      "Achever la revalorisation des pensions des conjointes et des aides familiaux.",
+      "Lutter contre le non-recours au minimum vieillesse dans les campagnes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Ces lois ont été votées à l’unanimité et appliquées par un gouvernement qui n’était pas de gauche, et les pensions agricoles restent très faibles.",
+        "integration": "C’est la preuve qu’une initiative de gauche peut rassembler et aboutir ; mais le combat pour des retraites dignes dans les campagnes reste à mener."
+      }
+    ]
+  },
+  "concepts": [
+    "retraites_agricoles",
+    "salaires",
+    "pauvrete",
+    "gauche",
+    "ecologie",
+    "salaire_minimum",
+    "retraite"
+  ],
+  "repond_a": [
+    {
+      "id": "retraites_agricoles_q1912_gauche_retraite",
+      "label": "Retraites des agriculteurs"
+    },
+    {
+      "id": "retraites_agricoles_q1912_gauche",
+      "label": "Retraites des agriculteurs"
+    },
+    {
+      "id": "retraites_agricoles_q1912_retraite",
+      "label": "Retraites des agriculteurs"
+    },
+    {
+      "id": "retraites_agricoles_q1912",
+      "label": "Retraites des agriculteurs"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "loi chassaigne",
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "pauvrete",
+    "misere"
+  ]
+}

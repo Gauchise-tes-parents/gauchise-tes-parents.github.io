@@ -1,0 +1,211 @@
+{
+  "id": "immunite-parlementaire-impunite",
+  "type": "idee_recue",
+  "affirmation": "L'immunité parlementaire permet aux députés et sénateurs délinquants d'échapper à la justice.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "immunite parlementaire",
+    "les deputes sont intouchables",
+    "immunite des elus delinquants",
+    "levee de l immunite",
+    "inviolabilite parlementaire",
+    "irresponsabilite parlementaire",
+    "article 26 constitution",
+    "un depute peut il etre poursuivi",
+    "elus au dessus des lois",
+    "bureau de l assemblee immunite",
+    "depute mis en examen"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Depuis la réforme constitutionnelle de 1995, un député ou un sénateur peut être poursuivi, mis en examen, jugé et condamné sans aucune autorisation. L'immunité protège seulement ses votes et ses opinions dans l'exercice du mandat (irresponsabilité), et soumet à l'accord du Bureau de son assemblée une arrestation, une garde à vue ou un contrôle judiciaire pendant le mandat (inviolabilité), sauf flagrant délit ou condamnation définitive. Ce filtre n'est pas automatique : de 1995 à 2020, le Bureau de l'Assemblée a accepté dix demandes sur dix-huit.",
+  "contexte": "L'idée revient à chaque affaire judiciaire visant un élu, pour dénoncer une classe politique « au-dessus des lois ». On confond pourtant souvent la protection des votes et des opinions avec une impunité pénale.",
+  "explication": "On lit l'article 26 de la Constitution, la fiche de l'Assemblée nationale sur le statut du député et le rapport parlementaire de 2020 sur l'immunité, qui donne le nombre de demandes de levée examinées depuis 1995.",
+  "faits": [
+    {
+      "fait": "Selon l'article 26 de la Constitution, l'irresponsabilité ne couvre que les « opinions ou votes émis » dans l'exercice des fonctions ; selon l'Assemblée nationale, elle ne s'étend pas, par exemple, à un entretien radiodiffusé.",
+      "periode": "en vigueur",
+      "perimetre": "France",
+      "explication": "La protection absolue concerne le travail parlementaire (votes, discours, amendements), pas les délits de droit commun.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'Assemblée nationale, depuis la réforme du 4 août 1995, l'inviolabilité ne protège plus contre l'engagement de poursuites : un député peut être poursuivi et mis en examen sans autorisation.",
+      "periode": "depuis 1995",
+      "perimetre": "France",
+      "explication": "Un élu soupçonné d'un délit peut faire l'objet d'une enquête, d'un procès et d'une condamnation comme tout le monde.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "1995"
+    },
+    {
+      "fait": "Selon l'article 26, seules l'arrestation et les autres mesures privatives ou restrictives de liberté (garde à vue, détention, contrôle judiciaire) exigent l'autorisation du Bureau de l'assemblée, sauf crime ou délit flagrant et condamnation définitive.",
+      "periode": "en vigueur",
+      "perimetre": "France",
+      "explication": "Le filtre porte sur la liberté d'aller et venir de l'élu pendant son mandat, pas sur le jugement.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le rapport d'information de l'Assemblée nationale de février 2020, le Bureau de l'Assemblée a été saisi de dix-huit demandes de levée de l'inviolabilité depuis 1995 : il en a accepté dix, en tout ou partie, et rejeté huit.",
+      "periode": "1995-2020",
+      "perimetre": "Assemblée nationale",
+      "explication": "Les levées sont fréquentes, mais le Bureau, composé d'élus, peut refuser : c'est la part de vérité de la critique.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "10 sur 18"
+    },
+    {
+      "fait": "Selon le Club des juristes, le Bureau du Sénat a levé en mai 2026 l'inviolabilité d'un sénateur visé par une enquête pour corruption, pour permettre sa garde à vue ; en cas de flagrant délit, un parlementaire peut être interpellé sans levée préalable, comme en 2023.",
+      "periode": "2023-2026",
+      "perimetre": "France",
+      "explication": "Des parlementaires sont régulièrement placés en garde à vue ou interpellés : l'immunité ne les met pas à l'abri.",
+      "source": 3,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Fait défavorable : selon l'article 26, une assemblée peut demander la suspension des poursuites, de la détention ou des mesures restrictives de liberté d'un de ses membres pour la durée de la session ; et le Bureau, qui décide des levées, est un organe politique dont l'examen est confidentiel selon l'Assemblée nationale.",
+      "periode": "en vigueur",
+      "perimetre": "France",
+      "explication": "Le soupçon d'entre-soi n'est pas absurde : la procédure gagnerait à être plus transparente, même si elle ne crée pas d'impunité.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Depuis 1995, un parlementaire peut être poursuivi, jugé et condamné sans aucune autorisation. L'immunité protège seulement ses votes et opinions, et soumet à l'accord du Bureau une arrestation ou un contrôle judiciaire pendant le mandat, sauf flagrant délit : l'Assemblée a accepté dix demandes sur dix-huit de 1995 à 2020.",
+    "moyen": "L'immunité parlementaire a deux volets. L'irresponsabilité protège les « opinions ou votes émis » dans l'exercice des fonctions : un député ne peut pas être poursuivi pour un discours dans l'hémicycle ou un amendement. Elle ne couvre ni la corruption, ni les violences, ni les détournements.\n\nL'inviolabilité, elle, ne protège plus contre les poursuites depuis la réforme de 1995 : un élu peut être mis en examen, jugé et condamné sans rien demander à personne. Seules une arrestation, une garde à vue ou une mesure comme le contrôle judiciaire exigent, pendant le mandat, l'accord du Bureau de son assemblée, sauf flagrant délit ou condamnation définitive. Selon le rapport parlementaire de 2020, l'Assemblée a accepté dix demandes sur dix-huit depuis 1995. Le système peut être amélioré, mais ce n'est pas une impunité.",
+    "detaille": "L'immunité parlementaire est prévue par l'article 26 de la Constitution. Elle n'a pas été inventée pour protéger des délinquants, mais pour protéger l'institution parlementaire contre les pressions : selon le Club des juristes, elle trouve son origine dans le Bill of Rights anglais de 1689 et « protège l'institution plutôt que la personne ».\n\nSon premier volet, l'irresponsabilité, est absolu mais étroit : aucun parlementaire ne peut être poursuivi pour les opinions ou les votes émis dans l'exercice de ses fonctions. Un discours en séance, un rapport ou un amendement sont couverts ; selon l'Assemblée nationale, un entretien à la radio ne l'est pas. Un délit financier ou une agression ne le sont évidemment pas.\n\nLe second volet, l'inviolabilité, a été fortement réduit en 1995. Depuis, selon le rapport de la commission des Lois, l'inviolabilité « ne fait donc plus obstacle à l'engagement des poursuites » : un élu peut être mis en examen, renvoyé devant un tribunal et condamné sans autorisation. Seules une arrestation et les mesures privatives ou restrictives de liberté (garde à vue, détention provisoire, contrôle judiciaire) supposent l'accord du Bureau de son assemblée, et cette autorisation n'est pas nécessaire en cas de flagrant délit ou de condamnation définitive.\n\nCe filtre fonctionne : de 1995 à 2020, le Bureau de l'Assemblée a accepté dix demandes de levée sur dix-huit, selon le rapport de la commission des Lois. Le Sénat a encore levé l'inviolabilité d'un de ses membres en mai 2026 pour permettre sa garde à vue dans une enquête pour corruption.\n\nLa critique a pourtant une part de vérité : le Bureau est composé d'élus, son examen est confidentiel et huit demandes ont été rejetées. On peut défendre plus de transparence et des règles plus strictes contre la délinquance financière des élus. Mais dire que l'immunité rend les élus intouchables est faux, et ce discours nourrit un « tous pourris » qui affaiblit la démocratie plutôt que de la réformer.",
+    "empathie": "Voir des élus mis en cause et rester en place choque profondément, et l'exigence d'exemplarité est légitime. Encore faut-il savoir ce que permet vraiment l'immunité pour cibler ce qui doit changer."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Un député ne peut pas être poursuivi.",
+      "reponse": "C'est faux depuis 1995 : selon l'Assemblée nationale, un député peut être poursuivi et mis en examen sans autorisation. Seules l'arrestation et les mesures privatives de liberté demandent l'accord du Bureau."
+    },
+    {
+      "objection": "Le Bureau refuse toujours de lever l'immunité.",
+      "reponse": "Selon le rapport parlementaire de 2020, l'Assemblée a accepté dix demandes sur dix-huit depuis 1995 ; le Sénat a encore levé l'inviolabilité d'un sénateur en mai 2026."
+    },
+    {
+      "objection": "Un élu pris sur le fait est protégé.",
+      "reponse": "Non : l'article 26 prévoit qu'en cas de crime ou délit flagrant, aucune autorisation n'est nécessaire pour l'interpeller."
+    }
+  ],
+  "questions": [
+    "Savais-tu qu'un député peut être mis en examen et condamné sans que l'Assemblée ait son mot à dire ?",
+    "Faut-il supprimer la protection des votes et des discours des élus, au risque qu'un pouvoir hostile poursuive ses opposants pour leurs opinions ?"
+  ],
+  "limites": [
+    "Le nombre de demandes de levée (dix-huit, dont dix acceptées) s'arrête à février 2020 : aucune donnée plus récente n'a été lue.",
+    "Le rapport de 2020 (environ 500 000 caractères) et la fiche de l'Assemblée nationale ont été lus en partie, à travers un outil de lecture qui résume.",
+    "L'exemple de 2026 vient d'une analyse du Club des juristes ; la personne visée conteste les faits et reste présumée innocente.",
+    "Les chiffres du Sénat sur les demandes de levée n'ont pas été lus."
+  ],
+  "sources": [
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte de référence publié par l'Assemblée nationale), article 26",
+      "organisme": "Assemblée nationale",
+      "date_publication": "texte en vigueur",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/divers/texte_reference/01_constitution.pdf",
+      "passage": "Article 26 : alinéa 1, irresponsabilité pour les opinions ou votes émis dans l'exercice des fonctions ; alinéa 2, en matière criminelle ou correctionnelle, une arrestation ou toute autre mesure privative ou restrictive de liberté requiert l'autorisation du Bureau de l'assemblée, autorisation non requise en cas de crime ou délit flagrant ou de condamnation définitive ; alinéa 3, l'assemblée peut demander la suspension de la détention, des mesures restrictives de liberté ou des poursuites pour la durée de la session.",
+      "pertinence": "Texte constitutionnel (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fiche de synthèse n° 5 : Le statut du député",
+      "organisme": "Assemblée nationale",
+      "date_publication": "septembre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/telechargement/627109/file/Fiche%205%20-%20Le%20statut%20du%20d%C3%A9put%C3%A9.pdf",
+      "passage": "L'immunité comprend l'irresponsabilité et l'inviolabilité. L'irresponsabilité (article 26, alinéa 1) couvre les actes de la fonction (interventions, votes, amendements, rapports) : « aucun membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des opinions ou votes émis » ; elle exclut par exemple un entretien radiodiffusé. L'inviolabilité vise les actes de simple citoyen, en matière criminelle et correctionnelle, pour la durée du mandat ; depuis la réforme du 4 août 1995, elle ne protège plus contre l'engagement de poursuites : un député peut être poursuivi sans autorisation. Seules l'arrestation et les mesures privatives ou restrictives de liberté (dont le contrôle judiciaire) exigent l'autorisation du Bureau, sauf crime ou délit flagrant et condamnation définitive. Le Bureau vérifie seulement le caractère « sérieux, loyal et sincère » de la demande.",
+      "pertinence": "Fiche officielle de l'Assemblée nationale (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information n° 2685 sur l'immunité parlementaire",
+      "organisme": "Assemblée nationale, commission des Lois (Sébastien Huyghe et Alain Tourret)",
+      "date_publication": "12 février 2020",
+      "url": "https://www.assemblee-nationale.fr/15/pdf/rap-info/i2685.pdf",
+      "passage": "Depuis 1995, l'inviolabilité « ne fait donc plus obstacle à l'engagement des poursuites » : la mise en examen n'exige plus d'autorisation, qui reste requise pour une arrestation ou une mesure privative ou restrictive de liberté. Depuis 1995, le Bureau de l'Assemblée a été saisi de dix-huit demandes de levée de l'inviolabilité : il en a accepté dix, en tout ou partie, et rejeté huit. Le rapport décrit l'inviolabilité comme limitée à « un contrôle des atteintes les plus graves à la liberté d'aller et de venir » et recommande de la conserver en l'aménageant.",
+      "pertinence": "Rapport parlementaire (environ 500 000 caractères, lu en partie à travers un outil de lecture qui résume) ; chiffres arrêtés en février 2020.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Francis Szpiner : pourquoi le Sénat a-t-il levé son immunité parlementaire ?",
+      "organisme": "Le Club des juristes (rédaction)",
+      "date_publication": "1er juin 2026",
+      "url": "https://www.leclubdesjuristes.com/politique/francis-szpiner-pourquoi-le-senat-a-t-il-leve-son-immunite-parlementaire-16118/",
+      "passage": "Le Bureau du Sénat a levé l'inviolabilité d'un sénateur visé par une enquête pour corruption afin de permettre sa garde à vue, jugeant la requête « sérieux, loyal et sincère » sans se prononcer sur le fond. En cas de crime ou délit flagrant, les policiers peuvent interpeller un parlementaire sans levée préalable, comme pour un sénateur en 2023. L'immunité « protège l'institution plutôt que la personne ».",
+      "pertinence": "Analyse d'un cercle de juristes ; les faits reprochés sont contestés par l'intéressé, qui reste présumé innocent.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouvelles demandes de levée d'inviolabilité et éventuelle réforme de l'article 26.",
+  "objections_legitimes": [
+    "Les procédures visant des élus sont souvent très longues, ce qui donne une impression d'impunité.",
+    "Le Bureau qui autorise une arrestation est composé de parlementaires et délibère de façon confidentielle.",
+    "L'exigence d'exemplarité des élus, notamment en matière de probité, est un enjeu démocratique réel."
+  ],
+  "publics": {
+    "convaincus": "Je comprends ta colère contre les élus qui trichent. Mais depuis 1995, un député peut être mis en examen, jugé et condamné sans autorisation : l'immunité ne protège que ses votes et ses discours, et soumet seulement une arrestation à l'accord du Bureau. Le vrai combat, c'est de donner des moyens à la justice financière, pas de croire que tout est verrouillé.",
+    "indecis": "C'est normal de se méfier quand des élus semblent échapper à la justice. Les faits : un parlementaire peut être poursuivi et condamné comme tout le monde ; seule une arrestation ou une garde à vue pendant le mandat passe par le Bureau, qui a accepté dix demandes sur dix-huit à l'Assemblée de 1995 à 2020. On peut exiger plus de transparence sans croire au mythe de l'impunité."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "libertes",
+      "egalite"
+    ],
+    "mecanismes": "L’affirmation confond la protection des votes et des opinions des élus, qui garantit la liberté du débat parlementaire, avec une impunité pénale qui n’existe plus depuis la réforme constitutionnelle de la fin du siècle dernier.",
+    "consequences": "Le mythe d’élus intouchables nourrit le rejet de toute la représentation et le « tous pourris », qui profite à ceux qui veulent affaiblir le Parlement plutôt qu’à ceux qui veulent le moraliser.",
+    "democratie": "Un Parlement libre a besoin que ses membres ne puissent pas être poursuivis pour leurs votes ; l’égalité devant la loi exige en même temps que les délits des élus soient jugés comme ceux des autres citoyens.",
+    "propositions": [
+      "Rendre publiques et motivées les décisions du Bureau sur les demandes de levée d’inviolabilité.",
+      "Donner à la justice financière et aux juridictions anticorruption des moyens à la hauteur des enjeux.",
+      "Renforcer les peines d’inéligibilité pour les élus condamnés pour atteinte à la probité."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le Bureau, composé d’élus et délibérant de façon confidentielle, a rejeté une part importante des demandes de levée d’inviolabilité.",
+        "integration": "C’est une vraie faiblesse : la gauche défend la protection du débat parlementaire, mais aussi la transparence complète de ces décisions."
+      }
+    ]
+  },
+  "concepts": [
+    "immunite_parl",
+    "delinquance",
+    "justice",
+    "loi_constitution"
+  ],
+  "repond_a": [
+    {
+      "id": "immunite_parl_q1912",
+      "label": "Immunité parlementaire"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "immunite parlementaire",
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "justice",
+    "par la loi",
+    "referendum"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "retraites-repartition-ponzi",
+  "type": "idee_recue",
+  "affirmation": "Les retraites par répartition sont une pyramide de Ponzi.",
+  "volet": "social",
+  "sous_theme": "Coût et efficacité des aides",
+  "rubriques": [],
+  "mots_cles": [
+    "retraite pyramide de ponzi",
+    "repartition ponzi",
+    "systeme de retraite arnaque",
+    "retraite par repartition va s effondrer",
+    "on n aura pas de retraite",
+    "capitalisation contre repartition",
+    "ratio cotisants retraites",
+    "retraite madoff",
+    "les jeunes paient pour les vieux",
+    "faillite des retraites"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Comme dans un système de Ponzi, les cotisations des actifs paient les pensions des retraités. Mais la comparaison s'arrête là : une pyramide de Ponzi est une escroquerie cachée qui promet des rendements fictifs et s'effondre quand les nouveaux entrants manquent, alors que la répartition est un système public, légal et transparent, dont les paramètres sont ajustables et suivis chaque année par le Conseil d'orientation des retraites. Les dépenses de retraite resteraient proches de 14 % du PIB jusqu'en 2070 ; le vrai défi est le vieillissement, qui réduit le nombre d'actifs par retraité.",
+  "contexte": "La formule, popularisée par des partisans de la capitalisation, revient à chaque réforme des retraites. Elle vise à convaincre les jeunes qu'ils cotisent « pour rien » et à justifier le passage à des fonds de pension privés.",
+  "explication": "On compare la définition d'un système de Ponzi donnée par un régulateur financier avec le fonctionnement de la répartition décrit par le Conseil d'orientation des retraites, puis on examine les projections financières et démographiques du COR.",
+  "faits": [
+    {
+      "fait": "Selon l'Autorité des marchés financiers du Québec, un système de Ponzi est une fraude qui utilise l'argent de nouveaux investisseurs pour verser de faux rendements aux anciens, en faisant croire à des profits élevés qui n'existent pas, et qui s'effondre quand les retraits ne peuvent plus être honorés.",
+      "periode": "définition",
+      "perimetre": "Général",
+      "explication": "Un Ponzi repose sur le mensonge et la promesse de rendements fictifs.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le Conseil d'orientation des retraites, en répartition, « les cotisations des actifs financent chaque année les pensions des retraités » ; le système est collectif et obligatoire, fondé sur la solidarité entre générations, et offre en moyenne un rendement égal à la croissance économique.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Il n'y a ni secret ni promesse de rendement fictif : le principe est public et inscrit dans la loi.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le COR (juin 2025), les dépenses de retraite représentent 13,9 % du PIB en 2024 et resteraient proches de ce niveau jusqu'en 2070 (14,2 %) dans le scénario de référence.",
+      "periode": "2024-2070",
+      "perimetre": "France",
+      "explication": "Le système ne gonfle pas jusqu'à l'explosion : ses dépenses sont stabilisées dans la richesse nationale.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "13,9 %"
+    },
+    {
+      "fait": "Selon le COR, le solde du système était de -1,7 milliard d'euros en 2024 (-0,1 % du PIB) et se dégraderait jusqu'à -1,4 % du PIB en 2070 dans le scénario de référence, notamment parce que les ressources baissent en part du PIB.",
+      "periode": "2024-2070",
+      "perimetre": "France",
+      "explication": "Le déficit existe et doit être financé, mais il reste limité et dépend de choix politiques sur les ressources.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "-1,4 % du PIB"
+    },
+    {
+      "fait": "Selon le COR (document de décembre 2025), les régimes par répartition disposaient de 213,8 milliards d'euros de réserves fin 2024, soit 7,3 % du PIB, détenues à environ 90 % par les régimes complémentaires.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Contrairement à un Ponzi, le système dispose de réserves et peut amortir les chocs.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "213,8 milliards"
+    },
+    {
+      "fait": "Fait défavorable : selon le COR (juin 2026), il y avait 3,6 personnes de 20 à 64 ans pour une personne de 65 ans et plus en 2009, 2,5 en 2025, et il n'y en aurait plus qu'environ 1,62 en 2070 ; selon le Haut-Commissariat au Plan, le rapport entre cotisants et bénéficiaires était de 1,7 en 2021 et devrait se détériorer.",
+      "periode": "2009-2070",
+      "perimetre": "France",
+      "explication": "Le vieillissement pèse vraiment sur la répartition : il faut ajuster cotisations, emploi ou pensions, ce qui est un choix politique, pas la preuve d'une escroquerie.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "1,62"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Une pyramide de Ponzi est une escroquerie cachée qui promet des rendements fictifs et s'effondre ; la répartition est un système public, légal, transparent, que l'on ajuste. Selon le COR, les dépenses de retraite resteraient autour de 14 % du PIB jusqu'en 2070. Le vieillissement pose un vrai défi, mais il se règle par des choix politiques.",
+    "moyen": "Le point commun est réel : en répartition, les cotisations des actifs paient les pensions du moment. Mais un système de Ponzi est une fraude qui promet des rendements mirobolants et cache qu'aucun profit n'existe ; il s'effondre quand les nouveaux entrants manquent. La répartition, elle, est inscrite dans la loi, ses comptes sont publiés chaque année par le Conseil d'orientation des retraites, et elle offre en moyenne un rendement égal à la croissance. Ses régimes disposent même de 213,8 milliards d'euros de réserves.\n\nLe défi est démographique : il y avait 3,6 personnes d'âge actif par personne de 65 ans et plus en 2009, 2,5 en 2025, et environ 1,6 en 2070 selon le COR. Mais les dépenses de retraite resteraient proches de 14 % du PIB. Ajuster le financement (emploi, salaires, cotisations) est un choix démocratique, pas l'aveu d'une arnaque.",
+    "detaille": "Comparer la retraite par répartition à une pyramide de Ponzi repose sur une ressemblance superficielle : dans les deux cas, l'argent des nouveaux venus paie les anciens. Mais un système de Ponzi, selon la définition d'un régulateur financier comme l'Autorité des marchés financiers du Québec, est une fraude : le fraudeur fait croire à des rendements élevés qui n'existent pas et le système s'effondre dès que les retraits dépassent les entrées.\n\nLa répartition fonctionne à l'inverse. Son principe est public et inscrit dans la loi ; selon le Conseil d'orientation des retraites, « les cotisations des actifs financent chaque année les pensions des retraités », dans une logique de solidarité entre générations, avec un rendement moyen égal à la croissance économique. Il n'y a pas de promesse cachée : les règles sont votées par le Parlement, et le COR publie chaque année des projections. Les régimes disposent en outre de 213,8 milliards d'euros de réserves fin 2024.\n\nLes chiffres ne décrivent pas un système au bord de l'effondrement. Selon le COR, les dépenses de retraite représentaient 13,9 % du PIB en 2024 et resteraient autour de 14 % jusqu'en 2070. Le solde était de -1,7 milliard d'euros en 2024 et se dégraderait à -1,4 % du PIB en 2070 dans le scénario de référence, surtout parce que les ressources baissent en part de la richesse nationale.\n\nIl faut être honnête sur le défi démographique : selon le COR, on passerait de 3,6 personnes de 20 à 64 ans pour une personne de 65 ans et plus en 2009 à environ 1,6 en 2070. Mais un système public peut s'adapter : augmenter l'emploi des seniors et des femmes, les salaires, les ressources, ou mettre à contribution les revenus du capital. La capitalisation, elle, n'échappe pas au vieillissement et ajoute le risque des marchés financiers, sans solidarité entre générations, comme le rappelle le COR.",
+    "empathie": "Beaucoup de jeunes craignent de cotiser toute leur vie pour une retraite qu'ils n'auront jamais. Cette inquiétude est sérieuse et mérite mieux qu'un slogan : elle mérite des chiffres et un débat sur les choix possibles."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Comme chez Madoff, ça marche tant qu'il y a de nouveaux entrants.",
+      "reponse": "Madoff mentait sur des profits inexistants ; la répartition est publique, votée par le Parlement, ses comptes sont projetés chaque année, et elle s'ajuste par des choix démocratiques."
+    },
+    {
+      "objection": "Avec la capitalisation, chacun récupère son argent.",
+      "reponse": "La capitalisation dépend des marchés, plus volatils, comporte des frais et n'échappe pas au vieillissement ; selon le COR, elle ne comporte pas naturellement de solidarité entre générations."
+    },
+    {
+      "objection": "Les dépenses de retraite vont exploser.",
+      "reponse": "Selon le COR, elles représentaient 13,9 % du PIB en 2024 et resteraient autour de 14 % jusqu'en 2070."
+    }
+  ],
+  "questions": [
+    "Qu'est-ce qui distingue, selon toi, une escroquerie d'un système public dont les règles sont votées et les comptes publiés ?",
+    "Si les marchés financiers chutent l'année de ton départ à la retraite, préfères-tu une pension garantie par la loi ou un capital qui a fondu ?"
+  ],
+  "limites": [
+    "La synthèse et le rapport complet du COR de juin 2026 n'ont pas pu être ouverts (serveur indisponible) : les projections financières citées sont celles de juin 2025 ; seul le chapitre démographique de 2026 a été lu.",
+    "Le rapport entre personnes de 20 à 64 ans et de 65 ans et plus n'est pas le rapport entre cotisants et retraités ; le rapport de 1,7 cotisant par bénéficiaire date de 2021 et vient d'un document du Haut-Commissariat au Plan au ton engagé.",
+    "La définition du système de Ponzi vient d'un régulateur québécois, lue en anglais.",
+    "Les documents ont été lus à travers un outil de lecture qui résume."
+  ],
+  "sources": [
+    {
+      "titre": "Évolutions et perspectives des retraites en France — Rapport annuel, synthèse",
+      "organisme": "Conseil d’orientation des retraites (COR)",
+      "date_publication": "juin 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-06/Synth%C3%A8se_Def_.pdf",
+      "passage": "Les dépenses de retraite représentent 13,9 % du PIB en 2024, 14,0 % en 2030 et 14,2 % en 2070 : « quasi stabilisation des dépenses de retraite dans le PIB ». Le solde du système est de -1,7 milliard d'euros en 2024 (-0,1 % du PIB), -0,2 % du PIB en 2030 et -1,4 % en 2070 dans le scénario de référence. Le vieillissement va « augmenter le nombre de retraités par rapport au nombre de cotisants ». Le niveau de vie relatif des retraités passerait de 97 % en 2022 à 87,5 % en 2070.",
+      "pertinence": "Synthèse officielle (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport annuel du COR, juin 2026 — Partie 1, chapitre 1 : Le contexte démographique et économique",
+      "organisme": "Conseil d’orientation des retraites (COR)",
+      "date_publication": "juin 2026",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2026-06/RA_Part1_Chap1.pdf",
+      "passage": "Le rapport entre les personnes de 20 à 64 ans et celles de 65 ans et plus a fortement baissé depuis 2009 (3,6), pour atteindre 2,5 en 2025 ; « il y aurait environ 1,62 personne de 20-64 ans par personne de 65 ans et plus » en 2070. Ce rapport « diffère du rapport entre le nombre de cotisants et le nombre de retraités ».",
+      "pertinence": "Rapport officiel (un chapitre lu, à travers un outil de lecture qui résume ; la synthèse 2026 n'a pas pu être ouverte, serveur indisponible).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Répartition, réserves et capitalisation : quels enjeux pour les retraites ? (document n° 1, séance du 18 décembre 2025)",
+      "organisme": "Conseil d’orientation des retraites (COR), secrétariat général",
+      "date_publication": "18 décembre 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Doc_01_Note%20de%20pr%C3%A9sentation%20g%C3%A9n%C3%A9rale.pdf",
+      "passage": "En répartition, « les cotisations des actifs financent chaque année les pensions des retraités » ; le système est collectif, obligatoire, fondé sur la solidarité entre générations, offre en moyenne un rendement égal à la croissance et reste exposé aux chocs démographiques. Les réserves des régimes par répartition atteignent 213,8 milliards d'euros fin 2024 (7,3 % du PIB). La capitalisation dépend des marchés, plus volatils, et ne comporte pas naturellement de solidarité entre générations.",
+      "pertinence": "Document de travail qui n'engage pas le Conseil (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Retraites : une base objective pour le débat civique (Éclairage)",
+      "organisme": "Haut-Commissariat au Plan",
+      "date_publication": "8 décembre 2022",
+      "url": "https://www.info.gouv.fr/upload/media/content/0001/09/0246d5e632011d6af1c39ffbf641a380b5c7d958.pdf",
+      "passage": "La répartition est « un principe d'équilibre qui, en temps réel, met le paiement des pensions de retraite à la charge des actifs », inscrit dans la loi depuis le 20 janvier 2014 (article L. 111-2-1 du code de la sécurité sociale). Rapport entre cotisants et bénéficiaires en 2021 : 1,7 pour l'ensemble des régimes ; « ce ratio est amené à se détériorer dans les années à venir ».",
+      "pertinence": "Document d'un organisme rattaché au Premier ministre, au ton engagé (lu à travers un outil de lecture qui résume) ; données de 2021.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Ponzi schemes and pyramid investment schemes",
+      "organisme": "Autorité des marchés financiers du Québec",
+      "date_publication": "page consultée le 19 novembre 2026",
+      "url": "https://lautorite.qc.ca/en/general-public/fraud-prevention/types-of-fraud/ponzi-schemes-and-pyramid-investment-schemes",
+      "passage": "Dans un système de Ponzi, le fraudeur « uses money from new investors to pay bogus returns to earlier investors » ; il donne l'impression que le placement rapporte des rendements élevés ; « The money doesn't actually generate profits » ; le système s'effondre quand le fraudeur ne peut plus répondre aux demandes de retrait.",
+      "pertinence": "Régulateur financier public (Québec), page en anglais.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Rapport annuel du COR de juin 2027 (et lecture complète du rapport 2026).",
+  "objections_legitimes": [
+    "Le nombre d'actifs par retraité diminue vraiment avec le vieillissement.",
+    "Le niveau de vie relatif des retraités devrait baisser selon le COR si rien ne change.",
+    "Les réformes successives ont reculé l'âge de départ et nourrissent la méfiance des jeunes."
+  ],
+  "publics": {
+    "convaincus": "Un Ponzi, c'est un escroc qui promet des profits imaginaires et disparaît avec la caisse. La répartition, c'est une loi votée, des comptes publiés chaque année et des dépenses qui resteraient autour de 14 % du PIB jusqu'en 2070 selon le COR. Le vieillissement est un vrai défi, mais il se règle par des choix politiques, pas en confiant ta retraite à la Bourse.",
+    "indecis": "Tu as raison : il y aura moins d'actifs par retraité, c'est un vrai défi. Mais le système n'est ni caché ni condamné : ses dépenses resteraient stables dans la richesse nationale, et il dispose de réserves importantes. La question, c'est comment on le finance : par l'emploi, les salaires, ou en mettant aussi le capital à contribution."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "travailleurs",
+      "universalite"
+    ],
+    "mecanismes": "Assimiler la répartition à une escroquerie sert à décourager les jeunes de défendre le système public et à préparer le terrain pour les fonds de pension privés.",
+    "consequences": "Si la défiance s’installe, la pression monte pour baisser les pensions ou passer à la capitalisation, qui expose les retraités aux krachs boursiers et creuse les inégalités.",
+    "democratie": "La répartition repose sur des règles votées et des comptes publics, suivis chaque année par un conseil indépendant : son avenir doit se décider démocratiquement, pas sous la menace d’une faillite imaginaire.",
+    "propositions": [
+      "Augmenter les ressources du système en élevant l’emploi des seniors et des femmes et les salaires.",
+      "Mettre à contribution les revenus du capital pour financer les retraites.",
+      "Garantir un niveau de pension décent plutôt que de reculer encore l’âge de départ."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le nombre de personnes d’âge actif par personne âgée diminue fortement et le système devrait rester en déficit sans nouvelles ressources.",
+        "integration": "C’est un vrai défi démographique, mais il se règle par des choix de financement et de partage des richesses, pas en démantelant la solidarité entre générations."
+      }
+    ]
+  },
+  "concepts": [
+    "prestations",
+    "cout",
+    "dette",
+    "retraite",
+    "capitalisation"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ]
+}

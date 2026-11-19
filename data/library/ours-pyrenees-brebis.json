@@ -1,0 +1,206 @@
+{
+  "id": "ours-pyrenees-brebis",
+  "type": "idee_recue",
+  "affirmation": "Les ours réintroduits dans les Pyrénées massacrent les brebis.",
+  "volet": "ecologie",
+  "sous_theme": "Biodiversité",
+  "rubriques": [],
+  "mots_cles": [
+    "ours pyrenees brebis",
+    "les ours massacrent les brebis",
+    "reintroduction ours pyrenees",
+    "ours slovenes",
+    "attaques d ours troupeaux",
+    "predation ours ariege",
+    "indemnisation eleveurs ours",
+    "ours tuent les moutons",
+    "ours et pastoralisme",
+    "virer les ours des pyrenees"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "En partie vrai, mais exagéré. Des ours d'origine slovène ont bien été lâchés depuis 1996 pour sauver une population pyrénéenne presque éteinte, et ils tuent des brebis : 527 animaux ou ruchers concernés en 2025, pour 425 129 € d'indemnisation. Mais les dommages sont stables depuis 2018 alors que la population a doublé, ils sont concentrés sur une vingtaine d'estives, et ils restent faibles par rapport aux pertes habituelles des troupeaux, estimées entre 10 000 et 20 000 bêtes par an par l'État.",
+  "contexte": "La présence de l'ours est un sujet de conflit ancien dans les Pyrénées, notamment en Ariège. La colère des éleveurs touchés est réelle ; elle est parfois reprise politiquement pour opposer « les écologistes des villes » au monde rural.",
+  "explication": "On s'appuie sur les bilans officiels de l'État (préfecture de région Occitanie et DREAL) : population d'ours, dommages indemnisés, mesures de protection, et histoire des lâchers.",
+  "faits": [
+    {
+      "fait": "Selon la DREAL Occitanie, les Pyrénées comptaient environ 150 ours au début du XXe siècle et environ 70 en 1954 ; au début des années 1990, il n'en restait que cinq dans le noyau occidental. Des ours slovènes, de la même lignée, ont été lâchés en 1996-1997 (trois), en 2006 (cinq) et en 2018 (deux femelles).",
+      "periode": "1900-2018",
+      "perimetre": "Pyrénées françaises",
+      "explication": "Il s'agit de renforcer une population autochtone menacée de disparition, pas d'introduire une espèce étrangère.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "5 ours"
+    },
+    {
+      "fait": "Selon la préfecture de région Occitanie, l'effectif minimal détecté est de 108 ours en 2025, avec une progression moyenne de 11 % par an sur dix ans ; l'espèce reste classée « en danger critique d'extinction » sur la Liste rouge nationale, selon la DREAL.",
+      "periode": "2015-2025",
+      "perimetre": "Pyrénées",
+      "explication": "La population se reconstitue mais reste fragile.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "108"
+    },
+    {
+      "fait": "Selon la préfecture, en 2025, 291 dossiers de dommages ont été classés « responsabilité ours non écartée », pour 527 animaux domestiques ou ruchers et 425 129 € d'indemnisation ; les ovins représentent la quasi-totalité des pertes.",
+      "periode": "2025",
+      "perimetre": "Pyrénées",
+      "explication": "Les dommages sont réels et concernent surtout des brebis.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "527"
+    },
+    {
+      "fait": "Selon la DREAL et la préfecture, le niveau des dommages est stable depuis 2018, alors que l'effectif minimal d'ours est passé de 52 en 2018 à 96 en 2024 puis 108 en 2025 ; le nombre de dossiers a baissé de 10 % entre 2024 et 2025.",
+      "periode": "2018-2025",
+      "perimetre": "Pyrénées",
+      "explication": "Plus d'ours ne signifie pas mécaniquement plus d'attaques : la protection des troupeaux compte.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "-10 %"
+    },
+    {
+      "fait": "Selon la DREAL Occitanie (brochure de 2022), les pertes annuelles habituelles des éleveurs dans le massif sont estimées entre 10 000 et 20 000 bêtes, pour un cheptel ovin estivant d'environ 621 300 têtes côté français.",
+      "periode": "vers 2020",
+      "perimetre": "Pyrénées françaises",
+      "explication": "Les animaux attribués à l'ours représentent une petite part des pertes totales des troupeaux, dues aussi aux maladies, accidents, chiens errants ou intempéries.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "10 000 à 20 000"
+    },
+    {
+      "fait": "Selon la préfecture, l'État a engagé près de 5,7 millions d'euros en 2025, indemnisations comprises, dont 2,9 millions pour la protection des troupeaux (gardiennage, investissements) ; la DREAL indique que berger, chiens de protection et parcs électrifiés réduisent voire éliminent les attaques.",
+      "periode": "2025",
+      "perimetre": "Pyrénées",
+      "explication": "Des moyens publics existent pour protéger les troupeaux et indemniser les éleveurs.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "5,7 M€"
+    },
+    {
+      "fait": "Fait défavorable : les dommages sont très concentrés. En 2025, l'Ariège concentre 74 % des dossiers ; selon la DREAL, 20 estives classées foyers de prédation regroupent plus de 57 % des attaques du massif. Pour les éleveurs concernés, la pression est forte et répétée,.",
+      "periode": "2024-2025",
+      "perimetre": "Ariège, Pyrénées",
+      "explication": "Parler de « massacre » est exagéré à l'échelle du massif, mais certains éleveurs vivent une situation très difficile qui doit être prise au sérieux.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "74 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Des ours slovènes ont bien été lâchés pour sauver une population presque éteinte, et ils tuent des brebis : 527 animaux ou ruchers concernés en 2025, selon l'État. Mais les dommages sont stables depuis 2018 alors que le nombre d'ours a doublé, et ils restent faibles face aux 10 000 à 20 000 bêtes perdues chaque année par les troupeaux pour d'autres causes.",
+    "moyen": "Il ne restait que cinq ours dans l'ouest des Pyrénées au début des années 1990. Des ours slovènes, de la même lignée, ont été lâchés en 1996, 2006 et 2018 ; on compte au moins 108 ours en 2025, une espèce toujours « en danger critique d'extinction ». Ces ours font des dégâts : en 2025, 291 dossiers ont été attribués à l'ours, pour 527 animaux ou ruchers et 425 129 € d'indemnisation, presque uniquement des brebis.\n\nMais parler de massacre ne correspond pas aux chiffres. Les dommages sont stables depuis 2018 alors que la population a doublé, et ils ont baissé en 2025. Ils sont concentrés sur une vingtaine d'estives, surtout en Ariège. Et selon l'État, les troupeaux pyrénéens perdent habituellement 10 000 à 20 000 bêtes par an pour toutes causes. La vraie question est de donner aux éleveurs les moyens de protéger leurs troupeaux : bergers, chiens, parcs, indemnisation rapide.",
+    "detaille": "Le point de départ est exact : l'État a lâché des ours venus de Slovénie dans les Pyrénées. Mais il faut rappeler pourquoi. Selon la DREAL Occitanie, le massif comptait environ 150 ours au début du XXe siècle, environ 70 en 1954, et seulement cinq dans le noyau occidental au début des années 1990, après des décennies de régression ; des primes à la destruction ont été versées jusqu'en 1947. Trois ours slovènes ont été lâchés en 1996-1997, cinq en 2006, deux femelles en 2018. La Slovénie abrite la même lignée d'ours brun : il s'agit de sauver une espèce autochtone, protégée par la loi et des engagements européens.\n\nLes ours tuent des brebis, c'est indéniable. En 2025, selon la préfecture de région, 291 dossiers ont été classés « responsabilité ours non écartée », pour 527 animaux domestiques ou ruchers, et 425 129 € d'indemnisation. Les ovins représentent la quasi-totalité des pertes. Les dossiers dont la cause est incertaine peuvent aussi être indemnisés selon le contexte local.\n\nMais le mot « massacre » ne correspond pas à l'évolution. Le niveau des dommages est stable depuis 2018, alors que l'effectif minimal d'ours est passé de 52 à 108. En 2025, le nombre de dossiers a même baissé de 10 %. Les attaques sont concentrées : l'Ariège regroupe 74 % des dossiers, et une vingtaine d'estives plus de la moitié des attaques. À l'échelle du massif, l'État estime les pertes habituelles des troupeaux entre 10 000 et 20 000 bêtes par an, pour un cheptel estivant d'environ 621 300 brebis.\n\nPour les éleveurs touchés, pourtant, chaque attaque est une perte, un travail supplémentaire et une angoisse. L'État a engagé près de 5,7 millions d'euros en 2025, dont 2,9 millions pour le gardiennage et la protection des troupeaux. La DREAL rappelle que berger, chiens de protection et parcs électrifiés réduisent fortement les attaques, y compris celles des chiens errants.\n\nLa réponse n'est pas d'opposer biodiversité et pastoralisme, mais de financer correctement le métier de berger, d'indemniser vite et de soutenir les estives les plus exposées. Ce sont des services publics et des emplois en montagne, pas des slogans.",
+    "empathie": "Perdre des bêtes qu'on a élevées, les retrouver tuées au petit matin, c'est une épreuve réelle et souvent épuisante. La colère des éleveurs concernés est compréhensible et mérite des réponses concrètes, pas du mépris."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les ours slovènes n'ont rien à faire ici.",
+      "reponse": "Selon la DREAL, la Slovénie abrite la même lignée d'ours brun qu'en France : les lâchers ont servi à sauver une population pyrénéenne réduite à cinq individus dans l'ouest au début des années 1990."
+    },
+    {
+      "objection": "Plus il y a d'ours, plus il y a d'attaques.",
+      "reponse": "Les chiffres officiels montrent l'inverse depuis 2018 : la population a doublé, de 52 à 108 ours, mais les dommages sont restés stables et ont baissé en 2025."
+    },
+    {
+      "objection": "Les indemnités ne couvrent rien.",
+      "reponse": "L'État a versé 425 129 € d'indemnisation en 2025 et engagé près de 5,7 millions d'euros au total, dont 2,9 millions pour la protection. On peut juger ces aides insuffisantes ou trop lentes, mais elles existent et peuvent être renforcées."
+    }
+  ],
+  "questions": [
+    "Selon toi, qu'est-ce qui aiderait le plus les éleveurs : supprimer les ours, ou financer des bergers et des chiens de protection ?",
+    "Savais-tu que les troupeaux pyrénéens perdent chaque année des milliers de bêtes pour d'autres causes que l'ours ?"
+  ],
+  "limites": [
+    "Les documents de l'État ont été lus à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "Le chiffre des pertes habituelles (10 000 à 20 000 bêtes) et celui du cheptel estivant viennent d'une brochure de 2022 ; ils sont anciens et présentés comme des estimations.",
+    "Le rapport annuel 2025 du réseau Ours brun de l'OFB et la page web de la préfecture n'ont pas pu être ouverts.",
+    "Les « 527 animaux ou ruchers » de 2025 ne distinguent pas précisément les brebis tuées des autres dommages ; une partie des dossiers indemnisés est de cause indéterminée.",
+    "Aucune source officielle lue ne détaille la répartition des autres causes de mortalité des brebis."
+  ],
+  "sources": [
+    {
+      "titre": "Réunion du Groupe Ours, Pastoralisme et Activités de Montagne (GOPAM) — communiqué de presse, bilan 2025",
+      "organisme": "Préfecture de la région Occitanie (préfet coordonnateur du massif des Pyrénées)",
+      "date_publication": "23 avril 2026",
+      "url": "https://www.prefectures-regions.gouv.fr/irecontenu/telechargement/137305/1003244/file/20260423_CP_GOPAM.pdf",
+      "passage": "Effectif minimal détecté en 2025 : 108 ours ; progression moyenne de +11 % par an sur dix ans ; aire de répartition de 7 200 km². Dossiers classés « responsabilité ours non écartée » : 291 (-10 % sur un an) ; 527 animaux domestiques ou ruchers concernés ; indemnisation de 425 129 € (-7 %), conforme à la moyenne 2021-2024 ; Ariège 74 % des dossiers, Haute-Garonne 22 % ; les ovins représentent la quasi-totalité des pertes. Protection des troupeaux (gardiennage, investissements) : 2,9 M€ ; accompagnement du pastoralisme : 1,1 M€ ; plan Cabane : 800 000 € ; crédits d'urgence : 450 000 € ; près de 5,7 M€ engagés par l'État au total. Le niveau global des dommages est stable depuis 2018, malgré la hausse continue de la population.",
+      "pertinence": "Communiqué officiel de l'État (lu à travers un outil de lecture qui résume) ; la page web de la préfecture n'a pas pu être ouverte, seul le PDF l'a été.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bilan 2024 des dommages d'ours et des indemnisations sur le massif des Pyrénées françaises",
+      "organisme": "DREAL Occitanie",
+      "date_publication": "4 avril 2025",
+      "url": "https://www.occitanie.developpement-durable.gouv.fr/IMG/pdf/note-bilan-dommage-et-indemnisation-ours-2024-v2.pdf",
+      "passage": "324 dossiers « responsabilité ours non écartée » sur 616 dossiers enregistrés ; 565 animaux et 71 ruches indemnisés ; 458 582 €, « dans la moyenne des 3 dernières années ». Ariège : 68,52 % des dossiers. 20 estives classées foyers de prédation concentrent plus de 57 % des attaques et 57,7 % des victimes du massif. Le nombre de dommages est très stable depuis 2018, malgré la hausse de l'effectif minimum (52 en 2018, 96 en 2024). « Il n'y a pas eu de dérochement important depuis 2019 ». Des dossiers à cause indéterminée sont indemnisés après prise en compte du contexte local.",
+      "pertinence": "Note officielle de l'État (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les Pyrénées avec l'ours brun (brochure)",
+      "organisme": "DREAL Occitanie",
+      "date_publication": "novembre 2022",
+      "url": "https://www.occitanie.developpement-durable.gouv.fr/IMG/pdf/brochure_dec2022.pdf",
+      "passage": "Environ 150 ours au début du XXe siècle, environ 70 en 1954 ; les primes à la destruction ont pris fin en 1947. Au début des années 1990, il ne restait que cinq ours dans le noyau occidental. Lâchers : trois ours slovènes en 1996-1997, cinq en 2006, deux femelles en Pyrénées-Atlantiques en 2018 ; la Slovénie abrite « la même lignée d'ours brun qu'en France ». L'ours est protégé et classé « en danger critique d'extinction » sur la Liste rouge nationale. Les dommages sont indemnisés par l'État ; berger, chiens de protection et parcs électrifiés réduisent voire éliminent les attaques (ours, chiens errants, renards). Cheptel ovin estivant côté français : 621 300 têtes ; pertes annuelles habituelles des éleveurs estimées entre 10 000 et 20 000 bêtes.",
+      "pertinence": "Brochure officielle de l'État (lue à travers un outil de lecture qui résume ; données en partie anciennes).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-05-31",
+  "raison_actualisation": "Bilan annuel des dommages et de la population d'ours présenté au groupe Ours, pastoralisme et activités de montagne.",
+  "objections_legitimes": [
+    "Les ours tuent réellement des brebis, surtout dans certaines estives d'Ariège.",
+    "La protection des troupeaux représente un surcoût de travail et d'organisation pour les éleveurs.",
+    "Les éleveurs ont souvent eu le sentiment que la décision des lâchers a été prise sans eux."
+  ],
+  "publics": {
+    "convaincus": "Oui, les ours tuent des brebis, personne ne le nie, et pour l'éleveur touché c'est dur. Mais les chiffres de l'État montrent que les dommages sont stables depuis 2018 alors que le nombre d'ours a doublé, et qu'ils sont concentrés sur une vingtaine d'estives. Ce qui protège les troupeaux, ce sont des bergers et des chiens payés correctement, pas la disparition d'une espèce.",
+    "indecis": "La colère des éleveurs est compréhensible : chaque attaque est une perte et du travail en plus. Mais à l'échelle du massif, les dégâts de l'ours restent limités, autour de 500 animaux ou ruchers par an, face à des pertes habituelles de 10 000 à 20 000 bêtes selon l'État. La bonne question, c'est comment mieux protéger et indemniser ceux qui sont en première ligne."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "solidarite",
+      "services_publics"
+    ],
+    "mecanismes": "Le mot massacre généralise des dommages réels mais concentrés, et oppose la protection d’une espèce menacée au monde rural pour nourrir un ressentiment contre l’écologie.",
+    "consequences": "Ce discours détourne l’attention des vraies difficultés des éleveurs, comme les revenus, le manque de bergers et la lenteur des aides, et ne protège aucun troupeau.",
+    "democratie": "Les décisions sur l’ours doivent associer éleveurs, scientifiques, élus et associations, sur la base de bilans publics transparents, plutôt que d’être tranchées par l’invective.",
+    "propositions": [
+      "Financer durablement des postes de bergers et de chiens de protection dans les estives exposées.",
+      "Indemniser rapidement et dignement les éleveurs touchés, sans paperasse excessive.",
+      "Soutenir le revenu du pastoralisme de montagne, qui entretient les paysages et la biodiversité."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les attaques sont très concentrées sur quelques estives, surtout en Ariège, où certains éleveurs subissent une pression forte et répétée.",
+        "integration": "C’est pour eux qu’il faut des moyens publics renforcés : la solidarité avec les éleveurs les plus exposés fait partie d’une écologie populaire."
+      }
+    ]
+  },
+  "concepts": [
+    "expulsion"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "chez eux",
+    "oqtf",
+    "reconduite",
+    "virer",
+    "dehors",
+    "remigration",
+    "garder en france",
+    "retour au pays",
+    "droit de sejour",
+    "titre de sejour",
+    "n a plus sa place",
+    "plus rien a faire"
+  ]
+}

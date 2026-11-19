@@ -1,0 +1,233 @@
+{
+  "id": "tig-travail-interet-general",
+  "type": "idee_recue",
+  "affirmation": "Le travail d'intérêt général (TIG) ne sert à rien : seule la prison est une vraie sanction.",
+  "volet": "securite",
+  "sous_theme": "Justice pénale",
+  "rubriques": [],
+  "mots_cles": [
+    "travail d interet general",
+    "tig ca sert a rien",
+    "tig peine bidon",
+    "peines alternatives a la prison",
+    "tig recidive",
+    "tig ou prison",
+    "tigiste",
+    "travaux d interet general efficacite",
+    "la prison c est mieux que le tig",
+    "cour des comptes tig"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "Trompeur, mais le TIG n'est pas une solution miracle. La Cour des comptes (2025) constate une récidive d'environ 60 % dans les cinq ans après un TIG, proche de celle des condamnés à la prison ferme, et ne trouve pas d'effet supérieur à la prison, sauf des récidives un peu moins fréquentes et moins graves. Autrement dit, le TIG fait au moins aussi bien que la prison, pour un coût moyen d'environ 1 862 € par mesure et sans aggraver la surpopulation carcérale (128 % fin 2024). Son principal problème est un manque de moyens : délais de plus de seize mois et suivi très faible.",
+  "contexte": "Le TIG est souvent présenté comme une peine « laxiste ». La Cour des comptes a publié en mars 2025 une évaluation sévère, que certains utilisent pour réclamer plus de prison ; elle critique pourtant surtout la mise en œuvre de la peine.",
+  "explication": "On s'appuie sur l'évaluation de la Cour des comptes, sur les chiffres de l'Agence du TIG et sur une étude du ministère de la Justice sur la récidive des sortants de prison, en distinguant ce qui est mesuré et ce qui ne l'est pas.",
+  "faits": [
+    {
+      "fait": "Selon le ministère de la Justice, le TIG est un travail non rémunéré de 20 à 400 heures pour un délit, au profit d'une collectivité, d'un établissement public ou d'une association ; s'il n'est pas exécuté, la personne peut être poursuivie ou voir appliquer la peine de prison fixée par le juge.",
+      "periode": "en vigueur",
+      "perimetre": "France",
+      "explication": "C'est une vraie sanction, assortie d'une menace de prison en cas de non-respect.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "400 heures"
+    },
+    {
+      "fait": "Selon la Cour des comptes (mars 2025), le taux de récidive dans les cinq ans après une condamnation à un TIG atteint près de 60 %, un niveau proche de celui des condamnés à la prison ferme ; après correction des différences de profils, le TIG « ne semble pas plus efficace que l'emprisonnement ferme », avec des récidives légèrement moins fréquentes et moins graves.",
+      "periode": "2014-2023",
+      "perimetre": "France",
+      "explication": "Le TIG ne fait pas mieux que la prison sur la récidive, mais pas moins bien non plus.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "60 %"
+    },
+    {
+      "fait": "Selon la Cour des comptes, un TIG coûtait en moyenne 1 862 € en 2022 ; selon la Banque des Territoires, qui rend compte du rapport, ce coût est nettement inférieur à celui de la détention, alors que les prisons comptaient 80 130 détenus au 1er novembre 2024, soit un taux d'occupation de 128 %.",
+      "periode": "2022-2024",
+      "perimetre": "France",
+      "explication": "À efficacité comparable, le TIG coûte beaucoup moins cher et évite d'aggraver la surpopulation carcérale.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1 862 €"
+    },
+    {
+      "fait": "Selon la Cour des comptes, les TIG mettent en moyenne plus de seize mois à être exécutés, un tigiste n'est reçu qu'environ 2,2 fois par le service de probation pendant sa mesure et seuls 33 % sont orientés vers des acteurs de l'insertion.",
+      "periode": "2020-2023",
+      "perimetre": "France",
+      "explication": "La peine est affaiblie par le manque de moyens de suivi, pas par son principe.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "16 mois"
+    },
+    {
+      "fait": "Selon l'Agence du TIG (chiffres d'octobre 2025), il existe 44 000 places de TIG dans plus de 16 000 organismes d'accueil et plus de 23 000 mesures sont prises en charge ; mais selon la Cour des comptes, le nombre de TIG prononcés a baissé de 21 % de 2014 à 2023.",
+      "periode": "2014-2025",
+      "perimetre": "France",
+      "explication": "Les places existent ; ce sont les prononcés qui reculent, faute de confiance des magistrats dans le suivi.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "44 000"
+    },
+    {
+      "fait": "Selon le ministère de la Justice (Infostat, 2021), 31 % des sortants de prison de 2016 ont été recondamnés pour une infraction commise dans l'année ; 33 % après une sortie sans aménagement contre 23 % après une libération conditionnelle, sans que l'étude permette de conclure à un lien de causalité.",
+      "periode": "2016-2019",
+      "perimetre": "France",
+      "explication": "La prison ne protège pas de la récidive : les sorties accompagnées semblent associées à moins de récidive.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "31 %"
+    },
+    {
+      "fait": "Fait défavorable : la Cour des comptes juge les résultats du TIG « insuffisants » et parle d'un « manque criant d'études » sur la récidive après cette peine ; il n'est donc pas démontré que le TIG réduise davantage la récidive que la prison.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Défendre le TIG suppose d'admettre ses faiblesses actuelles et d'exiger les moyens de le rendre plus efficace.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Pas vraiment. Selon la Cour des comptes, la récidive après un TIG (environ 60 % en cinq ans) est proche de celle après la prison ferme : il fait au moins aussi bien, pour un coût d'environ 1 862 € par mesure, sans remplir des prisons occupées à 128 %. Son vrai problème est le manque de suivi : plus de seize mois de délai en moyenne.",
+    "moyen": "Le TIG est une vraie peine : jusqu'à 400 heures de travail non payé au service de la collectivité, avec la prison à la clé si on ne l'exécute pas. La Cour des comptes a évalué cette peine en 2025 : environ 60 % des condamnés récidivent dans les cinq ans, un niveau proche de celui des sortants de prison ferme. Après correction des différences de profils, elle conclut que le TIG ne fait pas mieux que la prison, avec toutefois des récidives un peu moins fréquentes et moins graves.\n\nDire que le TIG « ne sert à rien » est donc trompeur : il fait au moins aussi bien que la prison, coûte beaucoup moins cher (1 862 € en moyenne) et évite d'aggraver la surpopulation (128 % fin 2024). Ce que la Cour pointe, c'est le manque de moyens : seize mois de délai en moyenne et à peine deux rendez-vous de suivi pendant la mesure. La conclusion logique, c'est de renforcer le TIG, pas de construire toujours plus de prisons.",
+    "detaille": "Le travail d'intérêt général est une peine prononcée par un juge : de 20 à 400 heures de travail non rémunéré au profit d'une collectivité, d'un établissement public ou d'une association. Si la personne ne l'exécute pas, elle peut être poursuivie pour ce délit ou voir appliquer la peine de prison prévue. Selon l'Agence du TIG, il existait en octobre 2025 environ 44 000 places dans plus de 16 000 organismes d'accueil.\n\nLa Cour des comptes a publié en mars 2025 une évaluation sans complaisance. Environ 60 % des personnes condamnées à un TIG récidivent dans les cinq ans, un niveau proche de celui des condamnés à la prison ferme. Les tigistes ont souvent des profils à risque (jeunes, peu insérés, passé pénal), et une analyse statistique qui neutralise ces différences conclut que le TIG « ne semble pas plus efficace que l'emprisonnement ferme », avec des récidives un peu moins fréquentes et moins graves. La Cour souligne un « manque criant d'études » sur le sujet.\n\nCe constat ne justifie pas de dire que le TIG ne sert à rien. À efficacité comparable, il coûte environ 1 862 € par mesure, beaucoup moins que la détention, et il évite d'entasser davantage de personnes dans des prisons qui comptaient 80 130 détenus pour un taux d'occupation de 128 % fin 2024. La prison, elle, ne garantit pas la sécurité : selon le ministère de la Justice, 31 % des sortants de prison de 2016 ont été recondamnés pour des faits commis dans l'année, davantage après une sortie sèche qu'après une libération conditionnelle.\n\nLe vrai problème, selon la Cour, c'est la mise en œuvre : plus de seize mois entre la condamnation et l'exécution, environ 2,2 rendez-vous de suivi par mesure, seulement un tiers des tigistes orientés vers l'insertion. Une sanction qui arrive si tard perd son sens. Les magistrats le savent : le nombre de TIG prononcés a baissé de 21 % entre 2014 et 2023, alors que les places ont augmenté.\n\nUne politique pénale de gauche ne choisit pas entre fermeté et réinsertion : elle veut des peines rapides, utiles à la société et capables de faire sortir de la délinquance. Cela passe par plus de conseillers de probation, de travailleurs sociaux et d'accompagnement vers l'emploi, plutôt que par la construction de nouvelles places de prison.",
+    "empathie": "On peut avoir le sentiment qu'une peine sans prison n'est pas une vraie punition, surtout quand on a été victime. C'est une attente légitime de justice, qui mérite une réponse sérieuse sur ce qui protège vraiment de la récidive."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Le TIG, c'est une peine pour rire.",
+      "reponse": "C'est jusqu'à 400 heures de travail non payé, avec la prison à la clé en cas de non-exécution, selon le ministère de la Justice."
+    },
+    {
+      "objection": "La Cour des comptes a prouvé que le TIG ne marche pas.",
+      "reponse": "Elle constate que le TIG ne fait pas mieux que la prison ferme sur la récidive, mais pas moins bien, avec des récidives un peu moins graves ; elle demande surtout de meilleurs moyens de suivi."
+    },
+    {
+      "objection": "La prison, au moins, empêche de récidiver.",
+      "reponse": "Selon le ministère de la Justice, 31 % des sortants de prison de 2016 ont été recondamnés dans l'année ; et la prison est déjà occupée à 128 %."
+    }
+  ],
+  "questions": [
+    "Si le TIG fait aussi bien que la prison sur la récidive, pour beaucoup moins cher, pourquoi s'en priver ?",
+    "Une peine exécutée seize mois après les faits peut-elle avoir un sens pour la personne condamnée ?"
+  ],
+  "limites": [
+    "Le rapport de la Cour des comptes (environ 350 000 caractères) a été lu en partie, à travers un outil de lecture qui résume ; le coût d'une journée de détention n'y a pas été relevé.",
+    "La comparaison entre TIG et prison reste fragile : la Cour elle-même souligne le manque d'études et les différences de profils entre condamnés.",
+    "L'étude Infostat porte sur les sortants de prison de 2016, avec une récidive mesurée sur un an et probablement sous-estimée ; elle est descriptive et ne compare pas avec le TIG.",
+    "L'étude d'Annie Kensey et Abdelmalik Benaouda (2011) sur la récidive des sortants de prison n'a pas pu être ouverte et n'est pas citée.",
+    "Les chiffres de l'Agence du TIG viennent d'un document de présentation institutionnel."
+  ],
+  "sources": [
+    {
+      "titre": "Évaluation de deux peines alternatives à l'incarcération : le travail d'intérêt général et la détention à domicile sous surveillance électronique (rapport public thématique)",
+      "organisme": "Cour des comptes (texte publié par Vie publique)",
+      "date_publication": "mars 2025",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/297567.pdf",
+      "passage": "« Le nombre de peines de travaux d'intérêt général prononcées a diminué de 21 % de 2014 à 2023 » ; mesures suivies : 38 529 en 2014, 22 126 fin 2023. Délais d'exécution qui « dépassent en moyenne 16 mois ». Coût moyen d'un TIG : 1 862 € en 2022 (2 788 € pour une détention à domicile sous surveillance électronique). « Le taux de récidive dans les cinq ans après une condamnation à un TIG atteint près de 60 % », proche de celui de l'emprisonnement ferme ; les tigistes ont des profils à risque. Après analyse économétrique neutralisant les caractéristiques socio-économiques, le TIG « ne semble pas plus efficace que l'emprisonnement ferme pour prévenir la récidive », avec des résultats légèrement plus favorables pour la fréquence et la gravité des récidives. La Cour relève un « manque criant d'études ». Un tigiste est reçu en moyenne environ 2,2 fois par le SPIP pendant sa mesure ; 33 % sont orientés vers des acteurs de l'insertion.",
+      "pertinence": "Rapport de la Cour des comptes (environ 350 000 caractères, lu en partie à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Travail d'intérêt général : des résultats « peu probants » sur la récidive",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "5 mars 2025",
+      "url": "https://www.banquedesterritoires.fr/travail-dinteret-general-des-resultats-peu-probants-sur-la-recidive",
+      "passage": "Compte rendu du rapport de la Cour des comptes : récidive de près de 60 % après un TIG, « un niveau proche de celui observé pour les condamnés à des peines d'emprisonnement ferme » ; 46 % après une libération aménagée sous bracelet, 38 % pour un aménagement avant toute incarcération ; recours au TIG : 4,4 pour 100 condamnations en 2014, 2,7 en 2023 ; environ 38 000 places de TIG en 2023 ; coût d'un TIG nettement inférieur à celui de la détention ; 80 130 détenus au 1er novembre 2024, soit un taux d'occupation de 128 %. Selon la Cour, le manque de postes n'est pas la cause de l'échec.",
+      "pertinence": "Article de la Caisse des dépôts rapportant le rapport de la Cour des comptes.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Plaquette de présentation de l'Agence du travail d'intérêt général et de l'insertion professionnelle (ATIGIP)",
+      "organisme": "Ministère de la Justice — ATIGIP",
+      "date_publication": "février 2026 (chiffres d’octobre 2025)",
+      "url": "https://atigip.justice.gouv.fr/wp-content/uploads/2026/02/Plaquette_ATIGIP.pdf",
+      "passage": "Le TIG est une peine « alternative à l'incarcération » et un outil de réinsertion ; « 44 000 places de TIG », « + de 16 000 organismes d'accueil », « + de 23 000 mesures de TIG prises en charge » ; selon le directeur, les places sont passées de 18 000 à plus de 45 000 depuis 2018 ; objectif affiché : « éviter la récidive ».",
+      "pertinence": "Document de présentation de l'agence publique chargée du TIG.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le travail d'intérêt général (TIG)",
+      "organisme": "Ministère de la Justice (justice.fr)",
+      "date_publication": "13 décembre 2024",
+      "url": "https://www.justice.fr/mon-suivi-justice/comprendre-ma-peine/travail-interet-general",
+      "passage": "TIG de « 20 à 400 heures » pour un délit et de « 20 à 120 heures » pour une contravention ; « travail réalisé sans rémunération au profit d'une collectivité territoriale », d'un établissement public, d'une association habilitée, d'une entreprise chargée d'un service public ou de l'économie sociale et solidaire ; en cas d'inexécution, poursuites pour « le délit d'inexécution d'un TIG » ou mise à exécution de la peine de prison fixée par le juge.",
+      "pertinence": "Site officiel du ministère de la Justice.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mesurer et comprendre les déterminants de la récidive des sortants de prison (Infostat Justice n° 183)",
+      "organisme": "Ministère de la Justice, SDSE (Frédérique Cornuau, Marianne Juillard)",
+      "date_publication": "juillet 2021",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2023-04/stat_Infostat_183_0.pdf",
+      "passage": "31 % des sortants de prison de 2016 ont été à nouveau condamnés pour une infraction commise dans l'année suivant leur libération ; 33 % pour les sorties sèches contre 23 % pour les libérations conditionnelles. Les analyses « ne permettent pas de conclure à un lien de causalité » ; « une sous-estimation de la récidive est donc probable ».",
+      "pertinence": "Publication de la statistique du ministère de la Justice ; données de 2016 à 2019.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données de l'Agence du TIG et suites données aux recommandations de la Cour des comptes.",
+  "objections_legitimes": [
+    "La Cour des comptes juge les résultats actuels du TIG insuffisants.",
+    "Les délais d'exécution, plus de seize mois en moyenne, affaiblissent le sens de la peine.",
+    "Le suivi des tigistes par les services de probation est très faible."
+  ],
+  "publics": {
+    "convaincus": "Tu veux que les délinquants paient et ne recommencent pas : moi aussi. La Cour des comptes montre que la prison ferme ne fait pas mieux que le TIG sur la récidive, environ 60 % dans les deux cas, alors qu'elle coûte bien plus cher et que les prisons sont pleines à 128 %. Si on veut moins de récidive, il faut des peines rapides et un vrai suivi, pas seulement des barreaux.",
+    "indecis": "C'est légitime de douter d'une peine sans prison. Les faits : le TIG est une vraie sanction, jusqu'à 400 heures de travail, et selon la Cour des comptes il fait à peu près aussi bien que la prison sur la récidive, pour beaucoup moins cher. Son défaut, c'est la lenteur et le manque de suivi : c'est là qu'il faut agir."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "services_publics",
+      "emancipation"
+    ],
+    "mecanismes": "L’affirmation assimile toute peine sans prison à du laxisme et utilise une évaluation critique de la mise en œuvre du travail d’intérêt général pour condamner son principe.",
+    "consequences": "Le tout-carcéral entretient la surpopulation des prisons, coûte cher et ne réduit pas mieux la récidive, tandis que les peines utiles à la collectivité restent sous-financées.",
+    "democratie": "Une justice démocratique cherche des peines qui sanctionnent, réparent et permettent la réinsertion, et elle évalue honnêtement leurs résultats.",
+    "propositions": [
+      "Recruter massivement des conseillers de probation et des travailleurs sociaux pour suivre les condamnés au travail d’intérêt général.",
+      "Réduire fortement les délais entre la condamnation et l’exécution de la peine.",
+      "Financer des études indépendantes sur la récidive selon les peines prononcées."
+    ],
+    "defavorables": [
+      {
+        "fait": "La Cour des comptes conclut que le travail d’intérêt général ne fait pas mieux que la prison ferme pour prévenir la récidive.",
+        "integration": "Il faut l’assumer : le travail d’intérêt général ne fait pas de miracle aujourd’hui, mais il fait au moins aussi bien pour bien moins cher, et c’est le manque de moyens qui l’affaiblit."
+      }
+    ]
+  },
+  "concepts": [
+    "tig",
+    "emploi",
+    "prison",
+    "justice"
+  ],
+  "repond_a": [
+    {
+      "id": "tig_q1912",
+      "label": "Travail d’intérêt général"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail d interet general",
+    "travaux d interet general",
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "taule",
+    "zonzon",
+    "barreaux"
+  ]
+}

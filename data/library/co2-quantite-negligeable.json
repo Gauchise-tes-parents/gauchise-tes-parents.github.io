@@ -1,0 +1,211 @@
+{
+  "id": "co2-quantite-negligeable",
+  "type": "idee_recue",
+  "affirmation": "Le CO2 ne représente que 0,04 % de l'air : sa quantité est trop faible pour changer le climat.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "co2 0,04 %",
+    "le co2 c est que 0,04 % de l air",
+    "co2 gaz trace negligeable",
+    "trop peu de co2 pour rechauffer",
+    "co2 negligeable climat",
+    "effet de serre co2 faible quantite",
+    "concentration co2 ppm",
+    "co2 ne peut pas rechauffer la planete",
+    "azote oxygene effet de serre",
+    "climatosceptique co2"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux raisonnement. Le chiffre est à peu près juste (environ 427 ppm en 2025, soit un peu plus de 0,04 %), mais la conclusion est fausse : l'azote et l'oxygène, qui font 99 % de l'air, ne sont pas des gaz à effet de serre, alors que le CO2 absorbe le rayonnement infrarouge de la Terre. Sa concentration a augmenté de plus de moitié depuis l'ère préindustrielle, et il explique à lui seul environ 81 % de la hausse de l'effet de réchauffement des gaz à effet de serre depuis 1990, selon l'OMM.",
+  "contexte": "L'argument du « gaz trace » circule sur les réseaux sociaux et dans les discours climatosceptiques, souvent pour contester les politiques climatiques. Il joue sur l'intuition qu'une petite quantité ne peut pas avoir de grand effet.",
+  "explication": "On distingue la part du CO2 dans l'air (faible) de son effet sur le rayonnement (fort), à partir de l'OMM, de Météo-France, du service européen Copernicus et d'une vérification scientifique.",
+  "faits": [
+    {
+      "fait": "Selon l'OMM, la concentration moyenne de CO2 dans l'atmosphère a atteint 426,8 ppm en 2025, soit 153 % du niveau préindustriel de 1750, après une hausse de 2,8 ppm en un an.",
+      "periode": "1750-2025",
+      "perimetre": "Monde",
+      "explication": "Le CO2 est bien minoritaire dans l'air, mais sa concentration a augmenté de plus de moitié à cause des activités humaines.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "426,8 ppm"
+    },
+    {
+      "fait": "Selon Météo-France, l'azote (78 %) et l'oxygène (21 %), qui composent l'essentiel de l'air, ne sont pas des gaz à effet de serre ; les principaux sont la vapeur d'eau, le dioxyde de carbone, l'ozone et le méthane.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Comparer le CO2 à l'ensemble de l'air n'a pas de sens : il faut le comparer aux autres gaz qui retiennent la chaleur, qui sont tous peu abondants.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "99 %"
+    },
+    {
+      "fait": "Selon Météo-France, sans effet de serre, la température moyenne à la surface de la Terre serait de -18 °C au lieu de 15 °C.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Des gaz présents en très petite quantité suffisent à rendre la planète habitable : leur faible proportion ne veut pas dire faible effet.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "-18 °C"
+    },
+    {
+      "fait": "Selon l'OMM, reprenant l'indice annuel de la NOAA, l'effet de réchauffement des gaz à effet de serre à longue durée de vie a augmenté de 56 % de 1990 à 2025, et le CO2 est responsable d'environ 81 % de cette hausse.",
+      "periode": "1990-2025",
+      "perimetre": "Monde",
+      "explication": "Le CO2 est le premier contributeur au réchauffement supplémentaire d'origine humaine.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "81 %"
+    },
+    {
+      "fait": "Selon l'OMM, environ la moitié du CO2 émis chaque année reste dans l'atmosphère, et sa durée de vie très longue fait qu'il affectera le climat pendant des décennies, voire des siècles.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Le CO2 s'accumule : chaque année d'émissions s'ajoute aux précédentes.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le service européen Copernicus, la température moyenne mondiale de l'air en surface a été supérieure de 1,47 °C au niveau préindustriel en 2025, troisième année la plus chaude jamais mesurée après 2024 et 2023.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Les effets du « gaz négligeable » se mesurent déjà.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1,47 °C"
+    },
+    {
+      "fait": "Fait défavorable : selon Météo-France, la vapeur d'eau figure parmi les principaux gaz à effet de serre naturels, et l'effet de serre est d'abord un phénomène naturel indispensable à la vie ; ce sont les activités humaines qui provoquent l'« effet de serre additionnel » responsable du changement climatique actuel.",
+      "periode": "2025",
+      "perimetre": "Monde",
+      "explication": "Le CO2 n'est pas le seul gaz à effet de serre, mais c'est celui dont les activités humaines ont fait le plus augmenter l'effet depuis 1990, selon l'OMM.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "La proportion est juste, la conclusion est fausse. L'azote et l'oxygène, 99 % de l'air, ne retiennent pas la chaleur ; le CO2, lui, absorbe le rayonnement infrarouge de la Terre. Sa concentration a augmenté de plus de moitié depuis 1750 et il explique environ 81 % de la hausse de l'effet de réchauffement des gaz à effet de serre depuis 1990, selon l'OMM.",
+    "moyen": "Oui, le CO2 représente un peu plus de 0,04 % de l'air : 426,8 ppm en 2025 selon l'OMM. Mais ce qui compte n'est pas sa part dans l'air, c'est sa capacité à absorber la chaleur. Or l'azote et l'oxygène, qui font l'essentiel de l'atmosphère, ne sont pas des gaz à effet de serre, rappelle Météo-France. Les gaz qui retiennent la chaleur sont tous peu abondants, et pourtant, sans eux, la Terre aurait une température moyenne de -18 °C au lieu de 15 °C.\n\nLe problème, c'est la hausse : le CO2 atteint 153 % de son niveau préindustriel, et il est responsable d'environ 81 % de l'augmentation de l'effet de réchauffement des gaz à effet de serre depuis 1990. En 2025, la planète était 1,47 °C plus chaude qu'avant l'ère industrielle, selon Copernicus. Une petite quantité peut avoir un grand effet, comme une faible dose d'un polluant suffit à rendre l'air nocif.",
+    "detaille": "L'affirmation part d'un chiffre exact pour en tirer une conclusion fausse. Selon l'Organisation météorologique mondiale, la concentration moyenne de CO2 a atteint 426,8 parties par million en 2025 : c'est un peu plus de 0,04 % de l'air. Mais la proportion d'un gaz ne dit rien de son effet sur le rayonnement.\n\nL'atmosphère est composée à 78 % d'azote et à 21 % d'oxygène. Selon Météo-France, ces deux gaz ne sont pas des gaz à effet de serre : ils laissent passer le rayonnement infrarouge émis par la Terre. Les gaz qui le retiennent — vapeur d'eau, dioxyde de carbone, ozone, méthane — sont tous présents en petites quantités. Et pourtant, sans eux, la température moyenne à la surface serait de -18 °C au lieu de 15 °C. La vie sur Terre dépend donc de ces « gaz traces ».\n\nCe que les activités humaines changent, c'est la dose. Le CO2 est passé d'environ 280 ppm avant l'ère industrielle à 426,8 ppm, soit 153 % du niveau de 1750. Selon l'OMM, l'effet de réchauffement des gaz à effet de serre à longue durée de vie a augmenté de 56 % entre 1990 et 2025, et le CO2 explique environ 81 % de cette hausse. Environ la moitié du CO2 émis chaque année reste dans l'air, et il y demeure pendant des décennies, voire des siècles.\n\nLes conséquences sont mesurées : selon Copernicus, 2025 a été 1,47 °C plus chaude que l'ère préindustrielle, et les trois dernières années sont les plus chaudes jamais observées. Dans le passé lointain, quand le CO2 dépassait 1 000 ppm, il y a environ 50 millions d'années, la Terre était plus de 10 °C plus chaude qu'aujourd'hui, rappelle Science Feedback.\n\nDire que le CO2 est négligeable revient à dire qu'une petite dose d'un poison ne peut pas faire de mal. Ce raisonnement sert surtout à retarder des choix collectifs qui coûteront d'autant plus cher, et d'abord aux plus pauvres, qu'ils seront repoussés.",
+    "empathie": "Il est normal de trouver étonnant qu'un gaz si peu présent ait autant d'effet : l'intuition dit le contraire. Poser la question est légitime ; la réponse tient à la physique des gaz, pas à une opinion."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est la vapeur d'eau qui fait l'effet de serre, pas le CO2.",
+      "reponse": "La vapeur d'eau joue un grand rôle dans l'effet de serre naturel. Mais c'est l'ajout de CO2 par les activités humaines qui crée l'effet de serre additionnel, selon Météo-France, et il explique environ 81 % de la hausse de l'effet de réchauffement depuis 1990 selon l'OMM."
+    },
+    {
+      "objection": "Le CO2, c'est la vie, les plantes en ont besoin.",
+      "reponse": "Oui, mais la question est la dose : la concentration atteint 153 % du niveau préindustriel. Selon l'OMM, océans et végétation n'absorbent qu'environ la moitié des émissions annuelles ; le reste s'accumule dans l'air."
+    },
+    {
+      "objection": "Le climat a toujours changé.",
+      "reponse": "Oui, et justement : quand le CO2 dépassait 1 000 ppm il y a environ 50 millions d'années, la Terre était plus de 10 °C plus chaude. Ce qui est nouveau, c'est la vitesse de la hausse actuelle, due aux activités humaines."
+    }
+  ],
+  "questions": [
+    "Si l'azote et l'oxygène ne retiennent pas la chaleur, pourquoi comparer le CO2 à tout l'air plutôt qu'aux gaz qui la retiennent ?",
+    "Est-ce qu'une petite dose d'un produit peut avoir un grand effet, comme un médicament ou un polluant ?"
+  ],
+  "limites": [
+    "Les pages de Météo-France et de Science Feedback ont été lues à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "Le bulletin complet de l'OMM n'a pas été lu : seul son communiqué l'a été.",
+    "Le rapport du GIEC n'a pas été ouvert ; une page pédagogique du laboratoire de météorologie dynamique (CNRS) n'a pas pu l'être.",
+    "La part de la vapeur d'eau dans l'effet de serre naturel varie selon les sources ; aucun chiffre n'est retenu ici."
+  ],
+  "sources": [
+    {
+      "titre": "Les niveaux des gaz à effet de serre atteignent de nouveau des records (Bulletin de l'OMM sur les gaz à effet de serre)",
+      "organisme": "Organisation météorologique mondiale (OMM)",
+      "date_publication": "27 octobre 2026",
+      "url": "https://wmo.int/node/39151",
+      "passage": "En 2025, la concentration moyenne de CO2 en surface atteint « 426.8 parts per million », soit « 153% of the 1750 pre-industrial baseline » ; elle a augmenté de 2,8 ppm entre 2024 et 2025. Selon l'indice annuel de la NOAA cité, de 1990 à 2025 l'effet de réchauffement des gaz à effet de serre à longue durée de vie « increased by 56% », dont environ 81 % dû au CO2. « About half of the total CO2 emitted each year remains in the atmosphere » ; le CO2 a une durée de vie très longue et affectera le climat « for decades and even centuries ». Méthane : 1948 ppb (267 % du niveau de 1750).",
+      "pertinence": "Communiqué de l'agence spécialisée de l'ONU présentant son bulletin annuel (version anglaise lue ; version française consultée pour la date et le chiffre de 426,8 ppm).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'effet de serre",
+      "organisme": "Météo-France",
+      "date_publication": "31 mars 2025",
+      "url": "https://meteofrance.com/comprendre-climat/monde/leffet-de-serre",
+      "passage": "L'effet de serre est un « phénomène naturel ayant permis la vie sur Terre » ; sans lui, « la température moyenne à la surface de la terre serait de -18 °C au lieu des 15 °C que nous connaissons ». Les gaz majoritaires, « l'azote à 78 % et l'oxygène à 21 % », ne sont pas des gaz à effet de serre ; les principaux sont la vapeur d'eau, le dioxyde de carbone, l'ozone et le méthane. Les activités humaines « entraînent l'apparition d'un effet de serre additionnel » ; « La concentration de CO2 (dioxyde de carbone) a ainsi augmenté de 50 % depuis le début de l'ère industrielle », de 280 ppm à 420 ppm en 2024.",
+      "pertinence": "Page pédagogique du service météorologique national (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Copernicus: 2025 was the third hottest year on record",
+      "organisme": "Service Copernicus sur le changement climatique (C3S, Union européenne / ECMWF)",
+      "date_publication": "14 janvier 2026",
+      "url": "https://climate.copernicus.eu/copernicus-2025-was-third-hottest-year-record",
+      "passage": "En 2025, « the global surface air temperature was 1.47°C above the pre-industrial level » (ERA5) ; 2025 est la troisième année la plus chaude, après 2024 et 2023. La hausse des concentrations de gaz à effet de serre, due principalement aux activités humaines, est présentée comme le principal moteur de la hausse de long terme de la température moyenne mondiale ; « Atmospheric greenhouse gases have steadily increased over the last 10 years ».",
+      "pertinence": "Communiqué officiel du programme européen d'observation de la Terre.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "If CO2 is 0.04% of Earth's atmosphere, how does it cause climate change?",
+      "organisme": "Science Feedback (vérification scientifique)",
+      "date_publication": "11 décembre 2025",
+      "url": "https://science.feedback.org/if-co2-is-0-04-of-earths-atmosphere/",
+      "passage": "L'azote et l'oxygène, environ 99 % de l'air, ne piègent pas la chaleur de cette façon ; le CO2 absorbe une partie du rayonnement infrarouge émis par la Terre et transmet cette énergie à l'air environnant : « a relatively small amount of greenhouse gas can have a large impact on the rest of the atmosphere ». La part d'une substance dans l'air dit peu de son effet (des polluants agissent à quelques parties par milliard). Le CO2 est passé d'environ 280 ppm en 1900 à environ 420 ppm en 2024 ; au début de l'Éocène, il y a environ 50 millions d'années, il dépassait 1 000 ppm et la température moyenne était supérieure de plus de 10 °C à aujourd'hui.",
+      "pertinence": "Organisme de vérification des faits animé par des scientifiques (article en anglais, lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouveau bulletin annuel de l'OMM sur les gaz à effet de serre et bilan climatique de Copernicus.",
+  "objections_legitimes": [
+    "Le CO2 représente effectivement un peu plus de 0,04 % de l'air.",
+    "La vapeur d'eau joue un rôle majeur dans l'effet de serre naturel.",
+    "On peut discuter des politiques climatiques et de leur répartition sociale sans nier la physique."
+  ],
+  "publics": {
+    "convaincus": "Le chiffre de 0,04 % est juste, mais regarde ce qu'il y a dans les 99,96 % restants : de l'azote et de l'oxygène, qui ne retiennent pas la chaleur. Les gaz qui la retiennent sont tous rares, et sans eux il ferait -18 °C sur Terre. Le CO2 a augmenté de plus de moitié depuis 1750 : ce n'est pas un détail, c'est la principale cause du réchauffement mesuré.",
+    "indecis": "C'est vrai que c'est contre-intuitif qu'un gaz si rare compte autant. Mais Météo-France et l'OMM l'expliquent simplement : ce n'est pas la quantité qui compte, c'est la capacité à absorber la chaleur. Et 2025 a été 1,47 °C plus chaude qu'avant l'ère industrielle : les effets sont déjà là."
+  },
+  "lecture": {
+    "valeurs": [
+      "vulnerables",
+      "solidarite",
+      "internationalisme"
+    ],
+    "mecanismes": "L’argument part d’un chiffre exact pour faire croire qu’une petite proportion ne peut pas avoir d’effet, en cachant que l’essentiel de l’air ne retient pas la chaleur et que le dioxyde de carbone s’accumule à cause des activités humaines.",
+    "consequences": "Nier le rôle du dioxyde de carbone retarde les décisions collectives, et ce sont les plus pauvres, ici et dans les pays du Sud, qui paient le plus cher les canicules, les sécheresses et les catastrophes.",
+    "democratie": "Le débat démocratique doit porter sur les choix à faire et sur leur répartition sociale, à partir des connaissances établies par les agences scientifiques publiques, pas sur la négation de la physique.",
+    "propositions": [
+      "Financer et protéger la recherche publique sur le climat et l’accès libre à ses résultats.",
+      "Organiser une transition planifiée qui fasse payer d’abord les plus gros émetteurs et protège les ménages modestes.",
+      "Renforcer l’enseignement des sciences du climat à l’école et dans l’éducation populaire."
+    ],
+    "defavorables": [
+      {
+        "fait": "La vapeur d’eau fait partie des principaux gaz à effet de serre naturels, et l’effet de serre est d’abord un phénomène naturel indispensable à la vie.",
+        "integration": "C’est exact et cela ne change rien : c’est l’effet de serre additionnel, provoqué par les émissions humaines de dioxyde de carbone, qui dérègle le climat."
+      }
+    ]
+  },
+  "concepts": [
+    "co2_quantite",
+    "ecologie",
+    "climat_origine"
+  ],
+  "repond_a": [
+    {
+      "id": "co2_quantite_q1912",
+      "label": "Faible concentration du CO2"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ]
+}

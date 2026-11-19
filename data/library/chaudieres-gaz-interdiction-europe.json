@@ -1,0 +1,243 @@
+{
+  "id": "chaudieres-gaz-interdiction-europe",
+  "type": "idee_recue",
+  "affirmation": "L'Union européenne va interdire les chaudières au gaz.",
+  "volet": "ecologie",
+  "sous_theme": "Rénovation thermique",
+  "rubriques": [],
+  "mots_cles": [
+    "interdiction chaudiere gaz",
+    "l europe interdit les chaudieres",
+    "fin des chaudieres au gaz",
+    "bruxelles chaudiere gaz",
+    "directive performance energetique batiments",
+    "chaudiere gaz 2040",
+    "on va devoir changer sa chaudiere",
+    "remplacer chaudiere gaz pompe a chaleur",
+    "aides chaudiere gaz supprimees",
+    "chaudiere fioul interdite"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. La directive européenne de 2024 sur la performance énergétique des bâtiments n'impose aucune date d'interdiction des chaudières au gaz, selon la Commission. Elle supprime les aides publiques aux chaudières fossiles autonomes depuis le 1er janvier 2025, demande aux États de planifier leur sortie d'ici 2040 et impose des bâtiments neufs sans émissions fossiles sur place à partir de 2028-2030. Personne n'est obligé de retirer une chaudière qui fonctionne.",
+  "contexte": "L'idée circule depuis l'adoption de la directive européenne de 2024 et la hausse de la TVA sur les chaudières au gaz en France en 2025. Elle entretient la peur d'être forcé à des travaux coûteux par « Bruxelles ».",
+  "explication": "On compare ce que dit réellement la directive (Commission européenne, Parlement européen) avec les règles françaises (fioul, constructions neuves, TVA).",
+  "faits": [
+    {
+      "fait": "Selon la Commission européenne, la directive révisée sur la performance énergétique des bâtiments « ne fixe pas de date de sortie au niveau de l'UE pour l'installation de nouvelles chaudières fossiles », mais crée une base juridique claire pour des interdictions nationales.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "Il n'y a pas d'interdiction européenne des chaudières au gaz ; chaque État reste maître de sa décision.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon les orientations de la Commission, depuis le 1er janvier 2025, aucune incitation financière ne peut être accordée pour de nouvelles chaudières autonomes à combustibles fossiles ; les systèmes hybrides avec une part significative d'énergie renouvelable peuvent rester aidés.",
+      "periode": "2025",
+      "perimetre": "Union européenne",
+      "explication": "Ce qui change, ce sont les subventions publiques, pas le droit d'installer une chaudière.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1er janvier 2025"
+    },
+    {
+      "fait": "Selon le résumé du Parlement européen et la Commission, les États membres doivent prévoir dans leurs plans de rénovation des mesures « en vue d'une sortie des chaudières à combustibles fossiles d'ici 2040 ».",
+      "periode": "2024-2040",
+      "perimetre": "Union européenne",
+      "explication": "L'objectif de 2040 est une orientation de politique publique à décliner par chaque État, pas une interdiction directe.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2040"
+    },
+    {
+      "fait": "Selon la Commission, les bâtiments neufs ne devront plus émettre de gaz fossile sur place à partir du 1er janvier 2028 pour les bâtiments publics et du 1er janvier 2030 pour tous les autres bâtiments neufs.",
+      "periode": "2028-2030",
+      "perimetre": "Union européenne",
+      "explication": "La contrainte la plus forte concerne la construction neuve, pas les logements existants.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2030"
+    },
+    {
+      "fait": "En France, selon le gouvernement, l'installation de nouvelles chaudières au fioul ou au charbon est interdite depuis le 1er juillet 2022, mais les appareils existants peuvent être utilisés, entretenus et réparés, et les nouveaux équipements au gaz restent admis.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "La seule interdiction d'installation en vigueur vise le fioul et le charbon, et c'est une décision française.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "1er juillet 2022"
+    },
+    {
+      "fait": "Selon UFC-Que Choisir, depuis le 1er mars 2025, la pose d'une chaudière au gaz ou au fioul est soumise à la TVA au taux normal de 20 %, tandis que l'entretien et la réparation restent à taux réduit.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Installer une chaudière au gaz coûte plus cher, mais reste autorisé.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "20 %"
+    },
+    {
+      "fait": "Fait défavorable : la directive vise bien une sortie des chaudières fossiles d'ici 2040 et autorise les interdictions nationales ; en France, la réglementation environnementale RE2020 empêche déjà en pratique une chaudière 100 % gaz dans les logements neufs, selon Connaissance des Énergies, et la fin des aides renchérit le remplacement à l'identique.",
+      "periode": "2022-2040",
+      "perimetre": "France, Union européenne",
+      "explication": "La direction est claire : le chauffage au gaz est appelé à reculer. La question politique est de savoir qui paiera la transition.",
+      "source": 5,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Pas d'interdiction européenne. La directive de 2024 supprime depuis 2025 les aides publiques aux chaudières fossiles autonomes, vise une sortie d'ici 2040 via des plans nationaux, et impose des bâtiments neufs sans émissions fossiles en 2028-2030. Elle ne fixe aucune date d'interdiction, reconnaît la Commission, et personne n'est obligé de retirer une chaudière qui marche.",
+    "moyen": "Selon la Commission européenne elle-même, la directive révisée sur la performance énergétique des bâtiments ne fixe aucune date d'interdiction des chaudières au gaz. Elle fait trois choses : depuis le 1er janvier 2025, les États ne peuvent plus subventionner les chaudières fossiles autonomes ; ils doivent prévoir dans leurs plans de rénovation une sortie des chaudières fossiles d'ici 2040 ; et les bâtiments neufs ne devront plus émettre de gaz fossile sur place à partir de 2028 pour les bâtiments publics et de 2030 pour les autres.\n\nEn France, la seule interdiction d'installation concerne le fioul et le charbon depuis juillet 2022, une décision nationale. Les chaudières au gaz existantes peuvent être entretenues et réparées, et on peut encore en installer, même si la TVA est passée à 20 % depuis mars 2025. Le vrai débat n'est pas une interdiction imaginaire, mais l'accompagnement des ménages pour passer à des chauffages moins chers et moins polluants.",
+    "detaille": "L'affirmation transforme une orientation de long terme en interdiction immédiate. La directive (UE) 2024/1275 sur la performance énergétique des bâtiments, adoptée en avril 2024, ne fixe aucune date d'interdiction des chaudières au gaz. La Commission européenne l'écrit dans ses questions-réponses : la directive « ne fixe pas de date de sortie au niveau de l'UE pour l'installation de nouvelles chaudières fossiles ». Elle donne en revanche aux États une base juridique pour décider eux-mêmes d'interdictions nationales.\n\nCe que la directive change est plus limité. Depuis le 1er janvier 2025, les États ne peuvent plus accorder d'incitations financières aux chaudières autonomes à combustibles fossiles ; les systèmes hybrides associant une part significative d'énergie renouvelable restent éligibles. Les États doivent aussi inscrire dans leurs plans de rénovation des mesures en vue d'une sortie des chaudières fossiles d'ici 2040. Enfin, les bâtiments neufs ne devront plus émettre de combustibles fossiles sur place à partir de 2028 pour les bâtiments publics et de 2030 pour tous les autres.\n\nEn France, la seule interdiction d'installation en vigueur concerne le fioul et le charbon, depuis le 1er juillet 2022, par décision du gouvernement. Les appareils existants peuvent continuer à fonctionner et être réparés. Les chaudières au gaz restent autorisées, mais leur pose est soumise depuis mars 2025 à la TVA à 20 %, et la réglementation environnementale RE2020 les écarte en pratique des logements neufs.\n\nIl ne faut pas pour autant nier la tendance : le chauffage au gaz est appelé à reculer, pour des raisons climatiques et de dépendance aux importations. La question de gauche est sociale : qui paiera la transition ? Supprimer les aides aux chaudières fossiles sans financer massivement les pompes à chaleur, les réseaux de chaleur et la rénovation pour les ménages modestes ferait peser l'effort sur ceux qui ont le moins. C'est ce débat qu'il faut avoir, plutôt qu'agiter une interdiction qui n'existe pas.",
+    "empathie": "Changer de chauffage coûte cher, et beaucoup de ménages craignent d'être obligés à des travaux qu'ils ne peuvent pas payer. Cette inquiétude est légitime : elle mérite des informations exactes et des aides à la hauteur."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Bruxelles va nous obliger à arracher nos chaudières.",
+      "reponse": "Non : aucune obligation de retirer une chaudière existante n'est prévue, et la Commission reconnaît qu'aucune date d'interdiction n'est fixée au niveau européen."
+    },
+    {
+      "objection": "Les chaudières au fioul ont bien été interdites.",
+      "reponse": "Oui, mais c'est une décision française de 2022, qui vise l'installation de nouveaux équipements ; les chaudières existantes peuvent toujours fonctionner et être réparées."
+    },
+    {
+      "objection": "2040, c'est une interdiction déguisée.",
+      "reponse": "C'est un objectif que chaque État doit traduire dans ses plans de rénovation. Ce qui compte, c'est comment il sera financé : sans aides publiques fortes, ce sont les ménages modestes qui paieront."
+    }
+  ],
+  "questions": [
+    "As-tu lu ce que dit la directive elle-même, ou seulement des titres qui parlent d'interdiction ?",
+    "Qu'est-ce qui t'aiderait le plus : garder ta chaudière, ou avoir les moyens de passer à un chauffage moins cher à l'usage ?"
+  ],
+  "limites": [
+    "Le texte de la directive (UE) 2024/1275 n'a pas pu être ouvert sur EUR-Lex (accès bloqué) ; son contenu est rapporté à partir des documents de la Commission et du Parlement européen.",
+    "Les documents ont été lus à travers un outil de lecture qui résume ; les citations anglaises sont traduites.",
+    "La date de publication de la page BUILD UP de la Commission n'est pas indiquée.",
+    "La transposition française de la directive n'a pas été vérifiée ; des règles nationales nouvelles peuvent être adoptées.",
+    "Le chiffre de la part des logements chauffés au gaz vient d'un site d'information spécialisé et non de la statistique publique."
+  ],
+  "sources": [
+    {
+      "titre": "Questions and Answers on the revised Energy Performance of Buildings Directive (EPBD)",
+      "organisme": "Commission européenne",
+      "date_publication": "12 avril 2024",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en./qanda_24_1966/QANDA_24_1966_EN.pdf",
+      "passage": "« the revised EPBD does not mandate an EU-level phase-out date for installing new fossil fuel boilers » ; « it introduces a clear legal basis for national bans ». Les chaudières autonomes à combustibles fossiles ne peuvent plus être subventionnées « as of 2025 ». Les États membres doivent prévoir dans leurs plans de rénovation des politiques « with a view to a phaseout of fossil fuel boilers by 2040 ». Bâtiments neufs sans émissions fossiles sur site : « as of 1 January 2028 for publicly-owned buildings », « as of 1 January 2030 for all other new buildings ».",
+      "pertinence": "Document officiel de la Commission (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Performance énergétique des bâtiments — résumé de l'acte final (directive (UE) 2024/1275)",
+      "organisme": "Parlement européen, Observatoire législatif (OEIL)",
+      "date_publication": "8 mai 2024",
+      "url": "https://oeil.europarl.europa.eu/oeil/fr/procedure-document-summary/pdf?id=1784741",
+      "passage": "Les États membres « ne devront pas accorder d'incitation financière à l'installation de chaudières autonomes utilisant des combustibles fossiles » ; feuille de route pour « retirer progressivement les chaudières à combustibles fossiles d'ici à 2040 » ; bâtiments neufs à émissions nulles à partir du 1er janvier 2028 pour les bâtiments publics et du 1er janvier 2030 pour tous les bâtiments neufs. Aucune interdiction générale des chaudières fossiles n'est prévue.",
+      "pertinence": "Résumé officiel du Parlement européen (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Decarbonising heating: end of financial incentives for fossil fuel boilers in 2025",
+      "organisme": "Commission européenne (portail BUILD UP)",
+      "date_publication": "non précisée (après octobre 2024)",
+      "url": "https://build-up.ec.europa.eu/en/news-and-events/news/decarbonising-heating-end-financial-incentives-fossil-fuel-boilers-2025",
+      "passage": "Selon les orientations de la Commission, « starting January 1, 2025, no financial incentives can be offered for new stand-alone boilers powered by fossil fuels » ; les systèmes hybrides utilisant une part significative d'énergie renouvelable peuvent rester aidés, ainsi que les aides déjà accordées.",
+      "pertinence": "Page d'information d'un portail de la Commission (date de publication non indiquée).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fin des nouvelles chaudières au fioul ou au charbon au 1er juillet 2022",
+      "organisme": "Gouvernement (info.gouv.fr)",
+      "date_publication": "13 janvier 2022",
+      "url": "https://www.info.gouv.fr/actualite/fin-des-nouvelles-chaudieres-au-fioul-ou-au-charbon-au-1er-juillet-2022",
+      "passage": "À partir du 1er juillet 2022, l'installation de nouveaux équipements de chauffage ou d'eau chaude au fioul ou au charbon est interdite, avec « un nouveau plafond plus strict d'émissions de GES de 300 gCO2eq/KWh PCI ». Les appareils existants peuvent continuer d'être utilisés, entretenus et réparés ; des dérogations existent. Les nouveaux équipements au gaz, à l'électricité, à la biomasse, aux réseaux de chaleur ou au biofioul restent admis.",
+      "pertinence": "Page officielle du gouvernement.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Chaudières au gaz ou au fioul — Fin de la TVA réduite",
+      "organisme": "UFC-Que Choisir",
+      "date_publication": "3 mars 2025",
+      "url": "https://www.quechoisir.org/actualite-chaudieres-au-gaz-ou-au-fioul-fin-de-la-tva-reduite-n149552",
+      "passage": "Depuis le 1er mars 2025, la fourniture et la pose d'une chaudière au gaz ou au fioul « relève désormais de la TVA au taux normal de 20 % » ; l'entretien et la réparation restent à 5,5 % ou 10 %. La directive européenne de 2024 impose aux États de « ne plus fournir d'incitation financière pour l'installation de chaudières à énergie fossile » à compter de 2025.",
+      "pertinence": "Association de consommateurs.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Faut-il interdire le chauffage au gaz ?",
+      "organisme": "Connaissance des Énergies",
+      "date_publication": "3 juin 2025",
+      "url": "https://www.connaissancedesenergies.org/faut-il-interdire-le-chauffage-au-gaz",
+      "passage": "La directive européenne de mai 2024 demande de supprimer « toute incitation financière à l'installation de nouvelles chaudières autonomes » fossiles. En France, la RE2020 empêche en pratique une chaudière 100 % gaz dans les logements neufs, sans concerner le remplacement d'une chaudière existante ; le gaz (réseau et GPL) chauffait 37,3 % des logements en 2020, contre environ 30 % en 2024.",
+      "pertinence": "Site d'information sur l'énergie (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Transposition française de la directive sur la performance énergétique des bâtiments et évolution des aides à la rénovation.",
+  "objections_legitimes": [
+    "La directive européenne vise bien une sortie des chaudières fossiles d'ici 2040.",
+    "La fin des aides et la hausse de la TVA rendent le remplacement d'une chaudière au gaz plus coûteux.",
+    "Les alternatives comme les pompes à chaleur demandent un investissement initial important."
+  ],
+  "publics": {
+    "convaincus": "Même la Commission européenne écrit noir sur blanc que la directive ne fixe aucune date d'interdiction des chaudières au gaz. Ce qui a changé, c'est la fin des subventions publiques pour en installer une neuve, et un objectif de sortie d'ici 2040. La seule interdiction réelle en France, celle du fioul en 2022, a été décidée à Paris, pas à Bruxelles.",
+    "indecis": "Tu peux garder ta chaudière au gaz et la faire réparer : rien ne t'oblige à la changer. Mais les aides vont désormais aux chauffages moins polluants, et la tendance est à la sortie du gaz d'ici 2040. La vraie question, c'est d'obtenir des aides suffisantes pour que les ménages modestes ne paient pas seuls la transition."
+  },
+  "lecture": {
+    "valeurs": [
+      "repartition",
+      "vulnerables",
+      "services_publics"
+    ],
+    "mecanismes": "L’argument transforme une fin de subventions et un objectif de long terme en interdiction immédiate, pour faire peur aux ménages et dresser l’opinion contre la transition écologique.",
+    "consequences": "La peur de travaux imposés détourne du vrai sujet : sans aides publiques fortes, la sortie du gaz reposera sur les ménages modestes, qui ont le moins les moyens d’investir.",
+    "democratie": "Les choix énergétiques et leur financement doivent être débattus au Parlement à partir des textes réels, en associant les habitants, les locataires et les collectivités.",
+    "propositions": [
+      "Financer massivement les pompes à chaleur, les réseaux de chaleur et la rénovation pour les ménages modestes, avec un reste à charge très faible.",
+      "Créer un service public de la rénovation pour accompagner chaque foyer de bout en bout.",
+      "Faire contribuer davantage les plus hauts revenus et les grandes entreprises énergétiques au coût de la transition."
+    ],
+    "defavorables": [
+      {
+        "fait": "La directive vise bien une sortie des chaudières fossiles d’ici la fin des années trente et autorise les États à les interdire.",
+        "integration": "La direction est assumée par la gauche, pour le climat et pour l’indépendance énergétique ; l’exigence est qu’elle soit juste socialement et financée par la puissance publique."
+      }
+    ]
+  },
+  "concepts": [
+    "chaudieres_gaz",
+    "prestations",
+    "identite",
+    "renovation",
+    "europe"
+  ],
+  "repond_a": [
+    {
+      "id": "chaudieres_gaz_q1912",
+      "label": "Chaudières au gaz et directive européenne"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ]
+}

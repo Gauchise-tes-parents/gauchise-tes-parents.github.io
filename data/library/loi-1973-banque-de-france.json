@@ -1,0 +1,196 @@
+{
+  "id": "loi-1973-banque-de-france",
+  "type": "idee_recue",
+  "affirmation": "Depuis la loi de 1973, la France est obligée d'emprunter aux banques privées au lieu de la Banque de France.",
+  "volet": "economie",
+  "sous_theme": "Dette publique",
+  "rubriques": [],
+  "mots_cles": [
+    "loi de 1973",
+    "loi pompidou giscard",
+    "loi rothschild",
+    "loi 73-7 du 3 janvier 1973",
+    "l etat ne peut plus emprunter sans interets",
+    "dette a cause de la loi de 1973",
+    "emprunter aux banques privees",
+    "avances au tresor public",
+    "financement monetaire interdit",
+    "article 123 maastricht"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. La loi du 3 janvier 1973 a réorganisé la Banque de France mais n'a pas interdit à l'État d'emprunter auprès d'elle : son article 19 maintenait des avances, fixées par des conventions votées par le Parlement, et une convention de septembre 1973 prévoyait 20,5 milliards de francs de concours, dont la moitié gratuits. C'est la loi du 4 août 1993, prise en application du traité de Maastricht, qui a mis fin au financement direct de l'État par la Banque de France, interdiction aujourd'hui inscrite à l'article 123 du traité sur le fonctionnement de l'Union européenne. Le surnom de « loi Rothschild » donné à ce texte relève d'un imaginaire complotiste, parfois antisémite.",
+  "contexte": "De nombreux textes et vidéos présentent la « loi Pompidou-Giscard-Rothschild » de 1973 comme l'origine de la dette publique. Le thème circule de l'extrême droite à une partie de la gauche souverainiste. Le surnom « Rothschild », qui renvoie à l'ancien employeur bancaire de Georges Pompidou, véhicule souvent un sous-entendu antisémite.",
+  "explication": "On s'appuie sur les travaux d'historiens et d'économistes de la Banque de France, sur un document parlementaire de 1973 et sur le texte du traité européen, pour distinguer ce que la loi de 1973 a changé et ce qu'elle n'a pas changé.",
+  "faits": [
+    {
+      "fait": "Selon l'économiste Bertrand Blancheton (université de Bordeaux, 2015), la loi de 1973 « préserve très clairement la possibilité pour l'Etat de se financer auprès de la Banque de France » : son article 19 maintient les avances et prêts, dont les conditions sont fixées par des conventions approuvées par le Parlement.",
+      "periode": "1973",
+      "perimetre": "France",
+      "explication": "La loi n'a pas interdit à l'État d'emprunter à sa banque centrale.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le même travail et selon La Vie des idées, la convention de trésorerie du 17 septembre 1973 fixait les concours de la Banque de France au Trésor à 20,5 milliards de francs, dont la moitié à titre gratuit.",
+      "periode": "1973",
+      "perimetre": "France",
+      "explication": "Quelques mois après la loi, l'État bénéficiait encore d'avances, en partie sans intérêt.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "20,5 milliards de francs"
+    },
+    {
+      "fait": "Selon un projet de loi examiné par le Sénat en décembre 1973, le Parlement était appelé à approuver la convention du 17 septembre 1973 entre le ministre de l'Économie et le gouverneur de la Banque de France, qui encadrait les avances au Trésor.",
+      "periode": "1973",
+      "perimetre": "France",
+      "explication": "Les avances restaient un instrument légal, soumis au vote des parlementaires.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'historien Vincent Duchaussoy (La Vie des idées, 2014), le plafond des avances a été « réduit à néant entre juillet 1982 et juillet 1983 », le gouvernement de l'époque ayant refusé de signer une nouvelle convention ; le basculement vers le financement par les marchés résulte surtout de choix politiques à partir de 1984.",
+      "periode": "1982-1984",
+      "perimetre": "France",
+      "explication": "Le recours aux marchés est le fruit de décisions politiques ultérieures, pas d'une obligation créée en 1973.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon La Vie des idées, c'est la loi du 4 août 1993, prise dans le cadre du traité de Maastricht, qui « met un terme à toute possibilité de financement de l'État par la banque centrale » ; l'article 123 du traité sur le fonctionnement de l'Union européenne interdit aujourd'hui aux banques centrales tout découvert ou crédit aux administrations publiques et l'achat direct de leurs titres.",
+      "periode": "1993-aujourd’hui",
+      "perimetre": "Union européenne",
+      "explication": "L'interdiction du financement monétaire direct est européenne et date des années 1990.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon La Vie des idées, l'article 25 de la loi de 1973 « supprimait en effet la possibilité pour le Trésor de présenter ses effets à l'escompte » de la Banque de France ; selon Bertrand Blancheton, le Trésor ne pouvait plus présenter ses propres effets à coût nul.",
+      "periode": "1973",
+      "perimetre": "France",
+      "explication": "La loi a bien encadré et limité un mode de financement gratuit : elle a changé quelque chose, mais sans obliger l'État à passer par les banques privées.",
+      "source": 1,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. La loi de 1973 a maintenu les avances de la Banque de France à l'État, encadrées par des conventions votées par le Parlement : 20,5 milliards de francs, dont la moitié gratuits, dès septembre 1973. C'est la loi de 1993, en application du traité de Maastricht, qui a interdit le financement direct de l'État par la banque centrale.",
+    "moyen": "La loi du 3 janvier 1973 a modernisé les statuts de la Banque de France. Elle a supprimé une facilité (le Trésor ne pouvait plus présenter ses propres effets à l'escompte gratuitement), mais elle a maintenu les avances et prêts à l'État, fixés par des conventions approuvées par le Parlement. La convention du 17 septembre 1973 prévoyait 20,5 milliards de francs de concours, dont la moitié sans intérêt, selon les travaux d'historiens et d'économistes.\n\nLe recours croissant aux marchés financiers vient de choix politiques des années quatre-vingt, puis de la loi du 4 août 1993 et du traité de Maastricht, qui interdisent aux banques centrales de financer directement les États. On peut critiquer cette règle européenne, mais attribuer la dette à une « loi Rothschild » de 1973 est faux, et ce surnom charrie souvent un imaginaire antisémite.",
+    "detaille": "La « loi de 1973 » est devenue un symbole : elle aurait livré l'État aux banques privées et serait la cause de la dette publique. Les historiens et économistes qui ont étudié le texte concluent autrement.\n\nLa loi n° 73-7 du 3 janvier 1973 réforme les statuts de la Banque de France, qui reste sous tutelle de l'État. Son article 25 supprime la possibilité pour le Trésor de présenter ses propres effets à l'escompte de la Banque. Mais son article 19 maintient les avances et prêts à l'État, dont les conditions sont fixées par des conventions approuvées par le Parlement. Dès le 17 septembre 1973, une convention fixe ces concours à 20,5 milliards de francs, dont la moitié gratuits, et le Sénat examine en décembre 1973 le projet de loi qui l'approuve. Selon l'économiste Bertrand Blancheton, la loi « préserve très clairement la possibilité pour l'Etat de se financer auprès de la Banque de France ».\n\nCe sont des choix politiques ultérieurs qui ont réduit ce financement : le plafond des avances est réduit à néant de juillet 1982 à juillet 1983, puis l'État développe à partir de 1984 le financement par les marchés. L'interdiction proprement dite vient de la loi du 4 août 1993 sur l'indépendance de la Banque de France, prise dans le cadre du traité de Maastricht. Elle figure aujourd'hui à l'article 123 du traité sur le fonctionnement de l'Union européenne, qui interdit aux banques centrales d'accorder des crédits aux États et d'acheter directement leurs titres.\n\nLa nuance compte. Dire que la France « ne peut plus » se financer auprès de sa banque centrale est vrai depuis 1993, et ce choix européen mérite d'être débattu démocratiquement. Mais en faire une « loi Rothschild » de 1973 détourne l'attention des vrais décideurs et réactive un vieux cliché sur la « finance juive », que l'historien Vincent Duchaussoy qualifie d'« antisémitisme nauséabond ». La gauche peut contester l'orthodoxie monétaire européenne sans reprendre ce récit faux.",
+    "empathie": "Il est légitime de se demander pourquoi l'État paie des intérêts à des créanciers privés alors qu'il dispose d'une banque centrale. C'est une vraie question politique, qui mérite une réponse exacte plutôt qu'une légende."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avant 1973, l'État empruntait gratuitement à la Banque de France.",
+      "reponse": "Une partie seulement ; et après 1973 aussi : la convention de septembre 1973 prévoyait 20,5 milliards de francs de concours, dont la moitié gratuits."
+    },
+    {
+      "objection": "C'est la loi Rothschild, voulue par les banquiers.",
+      "reponse": "Les historiens y voient une réforme technique des statuts ; ce surnom vise l'ancien employeur de Georges Pompidou et charrie souvent un imaginaire antisémite."
+    },
+    {
+      "objection": "Sans cette loi, on n'aurait pas de dette.",
+      "reponse": "L'interdiction du financement direct date de 1993 et du traité de Maastricht ; la dette s'explique par des choix budgétaires et fiscaux, la crise et les taux d'intérêt."
+    }
+  ],
+  "questions": [
+    "Sais-tu que l'interdiction de prêter à l'État figure dans le traité de Maastricht et la loi de 1993, et pas dans la loi de 1973 ?",
+    "Pourquoi, d'après toi, ce texte technique porte-t-il le surnom d'une famille de banquiers juifs ?"
+  ],
+  "limites": [
+    "Le texte de la loi de 1973 n'a pas pu être ouvert sur Légifrance ni sur Doctrine (robots refusés) : son contenu est connu par les travaux de Bertrand Blancheton et de Vincent Duchaussoy.",
+    "La version française de l'article 123 sur EUR-Lex n'a pas pu être ouverte ; le texte a été lu en anglais.",
+    "Les documents ont été lus à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "Le montant de la convention du 17 septembre 1973 vient des historiens : le projet de loi du Sénat lu ne le reproduit pas."
+  ],
+  "sources": [
+    {
+      "titre": "La loi de 1973 sur l'indépendance de la Banque de France. Le mythe de la fin des avances (Cahiers du GREThA n° 2015-03)",
+      "organisme": "Bertrand Blancheton, GREThA (CNRS-Université de Bordeaux)",
+      "date_publication": "février 2015",
+      "url": "https://cahiersdugretha.u-bordeaux.fr/2015/2015-03.pdf",
+      "passage": "La loi « préserve très clairement la possibilité pour l'Etat de se financer auprès de la Banque de France » : l'article 19 maintient avances et prêts, dont les conditions sont fixées par des conventions approuvées par le Parlement. La convention de trésorerie du 17 septembre 1973 fixe les concours de la Banque à 20,5 milliards de francs, dont la moitié à titre gratuit. Les articles 24 à 28 donnent au Conseil général la main sur les effets présentés, et le Trésor ne peut plus présenter ses propres effets à coût nul. La loi du 4 août 1993 coupe les liens financiers entre la Banque et le gouvernement.",
+      "pertinence": "Document de travail universitaire (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'État livré aux financiers ? La loi du 3 janvier 1973 sur la Banque de France",
+      "organisme": "Vincent Duchaussoy, La Vie des idées (Collège de France)",
+      "date_publication": "1er juillet 2014",
+      "url": "https://laviedesidees.fr/L-Etat-livre-aux-financiers.html",
+      "passage": "L'article 25 « supprimait en effet la possibilité pour le Trésor de présenter ses effets à l'escompte », ce « qui ne signifie pas qu'elle ne pouvait pas financer le Trésor d'une autre manière ». La loi « ne fait que réguler et rationaliser, sans y mettre fin » ; il est « abusif de prétendre que cette loi mineure a modifié durablement les conditions du financement de l'État ». Le plafond des avances fut « réduit à néant entre juillet 1982 et juillet 1983 ». Le sobriquet « Pompidou-Rothschild » satisfait chez certains « quelque antisémitisme nauséabond ». La loi du 4 août 1993, dans le cadre du traité de Maastricht, « met un terme à toute possibilité de financement de l'État par la banque centrale ».",
+      "pertinence": "Essai d'un historien de la Banque de France (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Projet de loi modifiant la loi n° 73-7 du 3 janvier 1973 sur la Banque de France et approuvant une convention conclue entre le ministre de l'Économie et des Finances et le gouverneur de la Banque de France (texte n° 85, 1973-1974)",
+      "organisme": "Sénat",
+      "date_publication": "13 décembre 1973",
+      "url": "https://www.senat.fr/leg/1973-1974/i1973_1974_0085.pdf",
+      "passage": "Le projet approuve la convention « passée le 17 septembre 1973 entre le Ministre de l'Économie et des Finances et le Gouverneur de la Banque de France » ; l'article 1 bis évoque le plafond des avances de la Banque de France au Trésor. Le texte ne reproduit pas les montants de la convention.",
+      "pertinence": "Document parlementaire d'époque (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Traité sur le fonctionnement de l'Union européenne, article 123 (ex-article 101 TCE), version consolidée",
+      "organisme": "Union européenne (texte reproduit par legislation.gov.uk)",
+      "date_publication": "version consolidée (traité de Lisbonne)",
+      "url": "https://www.legislation.gov.uk/eut/teec/article/123/data.htm?view=plain",
+      "passage": "Le paragraphe 1 interdit à la Banque centrale européenne et aux banques centrales nationales d'accorder des découverts ou tout autre type de crédit (« Overdraft facilities or any other type of credit facility ») aux institutions de l'Union, aux administrations publiques des États membres et aux entreprises publiques, ainsi que l'acquisition directe de leurs titres de créance.",
+      "pertinence": "Texte du traité, lu en version anglaise sur un site officiel britannique de législation (la version française d'EUR-Lex n'a pas pu être ouverte).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2028-01-31",
+  "raison_actualisation": "Sujet historique ; à revoir si de nouveaux travaux d'histoire de la Banque de France paraissent.",
+  "objections_legitimes": [
+    "La dépendance de l'État aux marchés financiers est une réalité depuis plusieurs décennies.",
+    "L'interdiction du financement monétaire direct est un choix politique, qu'on peut contester.",
+    "La loi de 1973 a bien supprimé une facilité de financement gratuite du Trésor."
+  ],
+  "publics": {
+    "convaincus": "Je comprends que ça choque que l'État paie des intérêts aux marchés. Mais la loi de 1973 maintenait les avances de la Banque de France : 20,5 milliards de francs dès septembre 1973, dont la moitié gratuits. L'interdiction vient de 1993 et du traité de Maastricht. Et le surnom de « loi Rothschild » sert surtout à désigner des banquiers juifs comme coupables : ne te laisse pas embarquer là-dedans.",
+    "indecis": "La question de fond est bonne : pourquoi l'État ne peut-il pas se financer auprès de sa banque centrale ? Mais la réponse n'est pas la loi de 1973, qui laissait les avances en place. C'est le traité de Maastricht et la loi de 1993 qui les ont interdites, un choix européen qu'on peut discuter démocratiquement."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "democratie",
+      "antifascisme"
+    ],
+    "mecanismes": "Le mythe de la loi de mille neuf cent soixante-treize désigne une date, un texte et des banquiers comme coupables uniques de la dette, en effaçant les choix politiques ultérieurs et le traité européen.",
+    "consequences": "Ce récit faux détourne la colère contre la finance vers une légende complotiste, et le surnom de loi Rothschild réactive un vieux cliché antisémite sur la finance.",
+    "democratie": "Les règles monétaires européennes, comme l’interdiction du financement direct des États, sont des choix politiques qui doivent pouvoir être débattus et révisés démocratiquement, sur la base de faits exacts.",
+    "propositions": [
+      "Ouvrir un débat public sur le rôle de la banque centrale européenne dans le financement des investissements publics.",
+      "Enseigner l’histoire réelle de la Banque de France et de la dette publique.",
+      "Combattre les récits complotistes et antisémites, y compris lorsqu’ils se présentent comme anticapitalistes."
+    ],
+    "defavorables": [
+      {
+        "fait": "La loi de mille neuf cent soixante-treize a bien supprimé la possibilité pour le Trésor de présenter gratuitement ses propres effets à l’escompte.",
+        "integration": "Elle a encadré une facilité, mais sans interdire les avances : c’est l’interdiction européenne de mille neuf cent quatre-vingt-treize qu’il faut discuter, pas un complot."
+      }
+    ]
+  },
+  "concepts": [
+    "dette"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "dette",
+    "deficit",
+    "faillite",
+    "depenses publiques",
+    "argent public",
+    "argent magique",
+    "n a plus les moyens"
+  ]
+}

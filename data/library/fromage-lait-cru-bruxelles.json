@@ -1,0 +1,230 @@
+{
+  "id": "fromage-lait-cru-bruxelles",
+  "type": "idee_recue",
+  "affirmation": "Bruxelles veut interdire le fromage au lait cru.",
+  "volet": "ecologie",
+  "sous_theme": "Agriculture",
+  "rubriques": [],
+  "mots_cles": [
+    "bruxelles interdit le lait cru",
+    "fromage au lait cru interdit",
+    "l europe veut interdire le camembert",
+    "union europeenne lait cru",
+    "fin du fromage au lait cru",
+    "lait cru interdiction",
+    "normes europeennes fromage",
+    "reglement hygiene lait cru",
+    "aop lait cru",
+    "pasteurisation obligatoire"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. Aucune proposition européenne d'interdiction n'a été trouvée : les règles européennes autorisent le lait cru et prévoient même des souplesses pour les fromages traditionnels, et un guide d'hygiène validé sous l'égide de la Commission en 2016 encadre leur fabrication. Les vraies menaces viennent des crises sanitaires, notamment liées aux bactéries E. coli, au point que les filières françaises ont demandé un plan national de sauvegarde en 2026.",
+  "contexte": "La rumeur d'une interdiction européenne du lait cru revient régulièrement dans les discours anti-Bruxelles. Elle s'appuie sur des débats réels sur la sécurité sanitaire, notamment un projet de document d'orientation européen sur les bactéries STEC en 2014-2015 qui avait inquiété la filière.",
+  "explication": "On regarde ce que disent les textes et les autorités : guide d'hygiène européen, réponses du ministère de l'Agriculture au Parlement, chiffres des AOP (INAO) et recommandations de l'Anses.",
+  "faits": [
+    {
+      "fait": "Selon le guide européen de bonnes pratiques d'hygiène pour les fromages artisanaux, publié par la Commission européenne et approuvé par les États membres le 13 décembre 2016, le lait « may be pasteurised or unpasteurised » (peut être pasteurisé ou non), et le guide prévoit un plan d'hygiène dédié au lait cru.",
+      "periode": "2016",
+      "perimetre": "Union européenne",
+      "explication": "Loin d'interdire le lait cru, l'Europe a validé un outil pour aider à le produire en sécurité.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon ce même guide, des dérogations spécifiques peuvent être accordées aux aliments présentant des caractéristiques traditionnelles : les fromageries peuvent par exemple utiliser des étagères en bois ou des moules en cuivre, après notification à la Commission.",
+      "periode": "2016",
+      "perimetre": "Union européenne",
+      "explication": "Le droit européen prévoit expressément des souplesses pour les fromages traditionnels.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministère de l'Agriculture (réponse à un député, octobre 2016), le choix de pasteuriser le lait relève, sauf situation particulière, de la responsabilité des professionnels, et le règlement européen n° 852/2004 prévoit une souplesse pour les établissements produisant des fromages traditionnels.",
+      "periode": "2016",
+      "perimetre": "France, Union européenne",
+      "explication": "C'est le producteur, pas Bruxelles, qui décide de pasteuriser ou non, sauf problème sanitaire.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'INAO et le CNAOL, en 2024, 28 des 46 fromages AOP français sont exclusivement au lait cru, et le lait cru représente 76 % des fromages AOP, soit 154 408 tonnes.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les AOP au lait cru, protégées par le droit européen des indications géographiques, sont bien vivantes.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "76 %"
+    },
+    {
+      "fait": "Selon l'Anses, environ 140 cas de syndrome hémolytique et urémique (SHU) sont recensés chaque année chez les enfants ; l'agence recommande aux enfants, aux personnes âgées et immunodéprimées d'éviter le lait cru et les produits au lait cru, sauf les fromages à pâte pressée cuite.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les risques sanitaires sont réels ; c'est une agence française, pas Bruxelles, qui formule ces recommandations, sans interdire les produits.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "140"
+    },
+    {
+      "fait": "Selon les filières (INAO, CNAOL, CNIEL, ANICAP, France Brebis Laitière), en janvier 2026, la multiplication des crises sanitaires et une gestion des risques non harmonisée entre opérateurs et services de l'État peuvent « remettre en cause la poursuite même de la fabrication au lait cru » dans certaines situations ; elles demandent un plan national de sauvegarde.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La menace sur le lait cru est surtout sanitaire et économique, et la réponse demandée est nationale.",
+      "source": 5,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Fait défavorable : en 2014-2015, selon le ministère de l'Agriculture, un projet de document d'orientation européen sur les bactéries STEC classait les produits au lait cru comme « présentant un risque élevé » et faisait craindre à la filière des conséquences « très lourdes » ; son adoption a été reportée.",
+      "periode": "2014-2015",
+      "perimetre": "Union européenne",
+      "explication": "Des textes européens ont pu inquiéter les producteurs : la vigilance est légitime, mais il ne s'agissait pas d'une interdiction.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Les règles européennes autorisent le lait cru et prévoient des souplesses pour les fromages traditionnels ; un guide d'hygiène validé sous l'égide de la Commission en 2016 précise que le lait peut être pasteurisé ou non. En France, 76 % des fromages AOP sont au lait cru. Les vraies menaces sont les crises sanitaires, pas une interdiction européenne.",
+    "moyen": "Aucune proposition européenne d'interdire le fromage au lait cru n'a été trouvée. Au contraire, le guide européen de bonnes pratiques d'hygiène pour les fromages artisanaux, approuvé par les États membres en 2016 sous la supervision de la Commission, précise que le lait peut être pasteurisé ou non et que des dérogations existent pour les fabrications traditionnelles. Le ministère de l'Agriculture rappelle que le choix de pasteuriser revient aux professionnels, sauf problème sanitaire.\n\nLe lait cru se porte bien dans les appellations : 28 fromages AOP sont exclusivement au lait cru, et il représente 76 % des volumes de fromages AOP. Les difficultés existent, mais elles sont sanitaires : l'Anses recense environ 140 cas de SHU chez les enfants chaque année et recommande la prudence aux plus fragiles. En 2026, les filières ont demandé un plan national de sauvegarde face à la multiplication des crises sanitaires. C'est là que se joue l'avenir du lait cru, pas à Bruxelles.",
+    "detaille": "L'idée d'une interdiction européenne du fromage au lait cru revient régulièrement. Aucune source officielle consultée ne fait état d'une proposition en ce sens.\n\nLe droit européen fait même l'inverse. Les règlements d'hygiène de 2004 s'appliquent à tous les produits alimentaires, mais ils prévoient des souplesses pour les fabrications traditionnelles. Le guide européen de bonnes pratiques d'hygiène pour les fromages et produits laitiers artisanaux, rédigé par le réseau européen des fromagers fermiers et approuvé par les États membres en décembre 2016 sous la supervision de la Commission, indique que le lait « peut être pasteurisé ou non » et consacre un plan d'hygiène au lait cru. Il rappelle que des dérogations sont possibles pour les produits traditionnels, comme l'usage d'étagères en bois ou de moules en cuivre.\n\nEn France, le ministère de l'Agriculture a rappelé en 2016 que le choix de pasteuriser relève, sauf situation particulière, de la responsabilité des professionnels. Et les fromages au lait cru sont au cœur des appellations protégées : selon l'INAO, 28 fromages AOP sont exclusivement au lait cru, et le lait cru représente 76 % des volumes de fromages AOP.\n\nLes inquiétudes ne sont pas pour autant imaginaires. En 2014-2015, un projet de document d'orientation européen sur les bactéries STEC classait les produits au lait cru parmi les produits à risque élevé, ce qui a inquiété la filière ; son adoption a été reportée. Surtout, les risques sanitaires sont réels : selon l'Anses, environ 140 cas de syndrome hémolytique et urémique touchent des enfants chaque année, et l'agence recommande aux plus fragiles d'éviter le lait cru, sauf pour les pâtes pressées cuites.\n\nEn janvier 2026, ce sont les filières françaises elles-mêmes qui ont alerté sur la multiplication des crises sanitaires et demandé à la ministre de l'Agriculture un plan national de sauvegarde. Défendre le lait cru, c'est donc soutenir les petits producteurs, la recherche et les contrôles sanitaires publics, pas désigner un faux ennemi à Bruxelles.",
+    "empathie": "Le fromage au lait cru fait partie de notre culture et du revenu de milliers de producteurs : il est normal de s'inquiéter dès qu'on entend qu'il serait menacé. Cette inquiétude mérite des faits précis, pas des rumeurs."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les normes européennes vont tuer le lait cru à petit feu.",
+      "reponse": "Les textes européens prévoient au contraire des souplesses pour les fabrications traditionnelles, et un guide validé en 2016 sous l'égide de la Commission encadre la production au lait cru."
+    },
+    {
+      "objection": "Les industriels pasteurisent parce que Bruxelles les y oblige.",
+      "reponse": "Selon le ministère de l'Agriculture, le choix de pasteuriser relève des professionnels, sauf situation sanitaire particulière. Ce n'est pas une obligation européenne."
+    },
+    {
+      "objection": "On nous empêche de manger ce qu'on veut.",
+      "reponse": "Rien n'est interdit : l'Anses recommande seulement aux enfants, aux personnes âgées et immunodéprimées d'éviter le lait cru, sauf les pâtes pressées cuites, à cause d'environ 140 cas de SHU par an chez les enfants."
+    }
+  ],
+  "questions": [
+    "As-tu vu un texte européen précis qui prévoit cette interdiction, ou seulement des messages qui l'affirment ?",
+    "Si les filières elles-mêmes demandent un plan national de sauvegarde face aux crises sanitaires, qui est vraiment responsable de la situation ?"
+  ],
+  "limites": [
+    "Le règlement (CE) n° 853/2004 n'a pas pu être consulté sur EUR-Lex (accès bloqué) ; les souplesses réglementaires sont décrites à partir du guide européen et des réponses ministérielles.",
+    "Le guide européen est un long document lu en partie, à travers un outil de lecture qui résume.",
+    "Les réponses ministérielles datent de 2015 et 2016 : elles sont anciennes, même si aucune source plus récente ne fait état d'un projet d'interdiction.",
+    "L'absence de proposition d'interdiction est établie par l'absence de tout texte en ce sens dans les sources consultées, et non par un démenti officiel récent.",
+    "Le communiqué de janvier 2026 émane des organisations professionnelles, qui défendent leurs intérêts."
+  ],
+  "sources": [
+    {
+      "titre": "European Guide for Good Hygiene Practices in the production of artisanal cheese and dairy products",
+      "organisme": "FACEnetwork, validé par les États membres sous la supervision de la Commission européenne (publié sur food.ec.europa.eu)",
+      "date_publication": "20 décembre 2016",
+      "url": "https://food.ec.europa.eu/system/files/2017-12/biosafety_fh_guidance_artisanal-cheese-and-dairy-products_en.pdf",
+      "passage": "Guide approuvé par les États membres le 13 décembre 2016 au sein du comité permanent PAFF, sous la supervision de la DG SANTE ; « a voluntary tool ». Le lait « may be pasteurised or unpasteurised » ; le guide contient un plan HACCP dédié au lait cru. « Specific derogations can be granted for foods with traditional characteristics » : la réglementation européenne permet aux fromageries traditionnelles d'utiliser par exemple des étagères en bois ou des moules en cuivre, après notification à la Commission.",
+      "pertinence": "Guide officiel publié par la Commission européenne (document long, lu en partie à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 95961 (14e législature) et réponse du ministère de l'Agriculture",
+      "organisme": "Assemblée nationale — ministère de l'Agriculture, de l'agroalimentaire et de la forêt",
+      "date_publication": "réponse publiée au JO le 11 octobre 2016",
+      "url": "https://www.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE95961.pdf",
+      "passage": "Le choix de pasteuriser le lait relève, « sauf situation particulière, de la responsabilité des professionnels » (état sanitaire du troupeau, qualité du lait, germes pathogènes). Le règlement (CE) n° 852/2004 prévoit une « souplesse dans l'application du règlement » pour les établissements produisant des fromages traditionnels. Un guide européen de bonnes pratiques d'hygiène pour les producteurs fermiers et artisans, porté par FACEnetwork, est en cours de validation par la Commission.",
+      "pertinence": "Réponse ministérielle officielle (lue à travers un outil de lecture qui résume ; données anciennes).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 71171 (14e législature) et réponse du ministère de l'Agriculture",
+      "organisme": "Assemblée nationale — ministère de l'Agriculture, de l'agroalimentaire et de la forêt",
+      "date_publication": "réponse publiée au JO le 6 janvier 2015",
+      "url": "https://questions.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE71171.pdf",
+      "passage": "La réponse évoque « un projet de document d'orientation relatif à l'application de l'article 14 du règlement (CE) n° 178/2002 » sur les bactéries STEC, « les produits au lait cru étant classés comme présentant un risque élevé » ; la filière lait cru risquait des conséquences « très lourdes » ; l'adoption, « initialement pressentie pour décembre 2014 », a été « reportée en 2015 » ; un groupe de travail STEC spécifique aux produits laitiers a été mis en place. Aucune interdiction du lait cru n'est évoquée.",
+      "pertinence": "Réponse ministérielle officielle (lue à travers un outil de lecture qui résume ; données anciennes).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Chiffres clés 2024 — Produits laitiers AOP et IGP",
+      "organisme": "CNAOL / INAO",
+      "date_publication": "septembre 2025",
+      "url": "https://www.inao.gouv.fr/sites/default/files/2025-09/CNAOL_CHIFFRESCLES2024_VF.pdf",
+      "passage": "51 AOP laitières (46 fromages, 3 beurres, 2 crèmes) ; 28 fromages AOP exclusivement au lait cru ; le lait cru représente 76 % des fromages AOP, soit 154 408 tonnes ; 202 503 tonnes de fromages AOP commercialisées en 2024 ; environ 13 964 producteurs de lait.",
+      "pertinence": "Publication de l'institut public des signes de qualité (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Infections alimentaires à E. coli : comment protéger davantage de consommateurs ?",
+      "organisme": "Anses (publié sur Santé.fr)",
+      "date_publication": "6 juillet 2023",
+      "url": "https://www.sante.fr/node/7045883",
+      "passage": "Recommandation aux « populations plus sensibles comme les enfants, les personnes âgées ou immunodéprimées » : « éviter la consommation de lait cru et de produits au lait cru (à l'exception des fromages à pâte pressée cuite) ». « Environ 140 cas de SHU infantiles sont recensés » chaque année ; les infections touchent surtout « les jeunes enfants, surtout de moins de 5 ans ».",
+      "pertinence": "Page d'information de l'agence sanitaire française.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fromages au lait cru : les filières saluent l'écoute de la ministre de l'Agriculture et appellent à bâtir un plan national de sauvegarde",
+      "organisme": "INAO, CNAOL, CNIEL, ANICAP et France Brebis Laitière (communiqué)",
+      "date_publication": "14 janvier 2026",
+      "url": "https://presse.filiere-laitiere.fr/assets/communique-fromages-au-lait-cru-les-filieres-saluent-l-ecoute-de-la-ministre-de-l-agriculture-et-appellent-a-batir-un-plan-national-de-sauvegarde-fbb37-ef05e.html?dl=1",
+      "passage": "Après une rencontre avec la ministre de l'Agriculture le 12 janvier 2026, les filières évoquent « une multiplication des crises sanitaires », une gestion des risques non harmonisée entre opérateurs et services de l'État, et le fait que « certaines situations peuvent remettre en cause la poursuite même de la fabrication au lait cru » ; elles demandent un plan national de sauvegarde. Le communiqué ne vise aucune réglementation européenne.",
+      "pertinence": "Communiqué des organisations professionnelles, qui défendent leurs intérêts.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Suites du plan national de sauvegarde des fromages au lait cru et éventuels textes européens sur la sécurité sanitaire.",
+  "objections_legitimes": [
+    "Les fromages au lait cru sont réellement fragilisés par les crises sanitaires et les rappels de produits.",
+    "Des projets de textes européens sur la sécurité sanitaire ont pu inquiéter la filière, comme en 2014-2015.",
+    "Les règles d'hygiène pèsent plus lourd, proportionnellement, sur les petits producteurs que sur les industriels."
+  ],
+  "publics": {
+    "convaincus": "Si Bruxelles voulait interdire le lait cru, il y aurait un texte : personne ne le montre. Ce qu'on trouve, c'est un guide européen de 2016 qui dit noir sur blanc que le lait peut être pasteurisé ou non, et 28 AOP françaises exclusivement au lait cru. Les producteurs eux-mêmes disent que leur problème, ce sont les crises sanitaires, et c'est à Paris qu'ils ont demandé un plan de sauvegarde.",
+    "indecis": "Tu as raison de tenir au fromage au lait cru, et il a de vraies difficultés. Mais elles ne viennent pas d'une interdiction européenne, qui n'existe pas : elles viennent des crises sanitaires et du coût des contrôles pour les petits producteurs. Le meilleur repère, ce sont les AOP : 76 % de leurs fromages sont au lait cru."
+  },
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "democratie",
+      "services_publics"
+    ],
+    "mecanismes": "La rumeur désigne un ennemi lointain, Bruxelles, en s’appuyant sur l’attachement au terroir, alors que les règles européennes autorisent le lait cru et que les difficultés viennent des crises sanitaires.",
+    "consequences": "En visant un faux coupable, on oublie de soutenir les petits producteurs face aux coûts des contrôles et aux crises, et on affaiblit la confiance dans des institutions qu’on peut critiquer sur des faits réels.",
+    "democratie": "Critiquer l’Union européenne est légitime, mais cela suppose de lire les textes : la désinformation empêche un débat utile sur les vraies règles et leurs effets.",
+    "propositions": [
+      "Bâtir un plan public de sauvegarde des fromages au lait cru, avec recherche et accompagnement des petits producteurs.",
+      "Renforcer les contrôles sanitaires publics plutôt que de laisser chaque opérateur gérer seul les crises.",
+      "Informer clairement les publics fragiles sur les précautions à prendre, sans stigmatiser le produit."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un projet de document européen sur certaines bactéries a classé les produits au lait cru comme à risque élevé et a inquiété la filière.",
+        "integration": "La vigilance citoyenne sur les textes européens est saine ; elle doit porter sur ce qui est réellement proposé, et ce projet n’était pas une interdiction."
+      }
+    ]
+  },
+  "concepts": [
+    "lait_cru",
+    "europe",
+    "ecologie"
+  ],
+  "repond_a": [
+    {
+      "id": "lait_cru_q1912",
+      "label": "Fromages au lait cru et Union européenne"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "lait cru",
+    "bruxelles",
+    "union europeenne",
+    "nucleaire"
+  ]
+}

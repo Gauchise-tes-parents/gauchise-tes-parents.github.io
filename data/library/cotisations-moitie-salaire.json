@@ -1,0 +1,227 @@
+{
+  "id": "cotisations-moitie-salaire",
+  "type": "idee_recue",
+  "affirmation": "L'État prend la moitié du salaire des Français avec les cotisations sociales.",
+  "volet": "economie",
+  "sous_theme": "Salaires",
+  "rubriques": [],
+  "mots_cles": [
+    "l etat prend la moitie de mon salaire",
+    "cotisations moitie du salaire",
+    "charges sociales trop elevees",
+    "salaire superbrut",
+    "difference brut net",
+    "on nous vole avec les charges",
+    "charges patronales salariales",
+    "cotisations a quoi ca sert",
+    "salaire socialise",
+    "cout employeur salarie"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Pour un salaire moyen du privé, l'écart entre le brut et le net est d'environ un quart du brut (3 602 euros brut, 2 733 euros net en 2024 selon l'Insee), et, si l'on part du coût total pour l'employeur, cotisations et contributions approchent la moitié. Mais au niveau du Smic, grâce aux allègements, le salarié touche presque tout ce que paie l'employeur, prime d'activité comprise. Surtout, ces sommes ne sont pas « prises par l'État » : elles financent les retraites, l'assurance maladie, le chômage et la famille, et reviennent aux salariés sous forme de droits.",
+  "contexte": "L'argument circule sous la forme de comparaisons entre « salaire superbrut » et salaire net, souvent pour réclamer la baisse des « charges ». Il présente les cotisations comme un impôt perdu, alors qu'elles constituent une part du salaire mise en commun : le salaire socialisé.",
+  "explication": "On compare le brut et le net à partir de l'Insee, le coût du travail à partir de l'enquête européenne publiée par l'Insee, la situation au Smic à partir d'un cas type de la DREES, puis ce que financent ces prélèvements à partir des comptes de la protection sociale.",
+  "faits": [
+    {
+      "fait": "Selon l'Insee, en 2024, le salaire moyen en équivalent temps plein dans le secteur privé est de 3 602 euros brut et de 2 733 euros net de cotisations et contributions sociales, soit un écart d'environ 24 % du brut (calcul à partir des deux montants).",
+      "periode": "2024",
+      "perimetre": "France, secteur privé",
+      "explication": "Côté salarié, les prélèvements sociaux représentent environ un quart du brut, pas la moitié.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "24 %"
+    },
+    {
+      "fait": "Selon l'Insee, en 2025, les salaires bruts représentent 69,4 % du coût du travail en France (31,0 euros sur 44,7 euros par heure), le reste étant constitué des cotisations et autres charges patronales (13,7 euros par heure).",
+      "periode": "2025",
+      "perimetre": "France, entreprises de 10 salariés ou plus du secteur marchand",
+      "explication": "Les cotisations employeurs pèsent environ trois dixièmes du coût du travail moyen.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "69,4 %"
+    },
+    {
+      "fait": "Selon la DREES, pour un salarié célibataire à temps plein au Smic, le salaire superbrut est de 1 852 euros par mois et le revenu disponible de 1 656 euros, dont 257 euros de prime d'activité (cas type de juillet 2024).",
+      "periode": "2024",
+      "perimetre": "France, cas type",
+      "explication": "Au Smic, l'essentiel de ce que paie l'employeur revient au salarié : on est très loin de la moitié.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "1 852 euros"
+    },
+    {
+      "fait": "Selon service-public.fr, depuis le 1er janvier 2026, la réduction générale dégressive unique allège les cotisations patronales jusqu'à 3 Smic ; elle est maximale au Smic, avec un coefficient pouvant atteindre 0,3981 (moins de 50 salariés) ou 0,4021 (50 salariés et plus).",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les cotisations patronales sur les bas salaires sont déjà fortement réduites, et compensées par l'impôt.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "0,4021"
+    },
+    {
+      "fait": "Selon la DREES, en 2024, les ressources de la protection sociale atteignent 997,8 milliards d'euros, dont 554,4 milliards de cotisations sociales (55,6 %) ; les prestations versées atteignent 932,5 milliards, dont 426,7 milliards pour la vieillesse-survie et 338,9 milliards pour la santé.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les cotisations reviennent presque intégralement sous forme de pensions, de soins, d'allocations chômage et familiales.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "932,5 milliards"
+    },
+    {
+      "fait": "Fait défavorable : en rapprochant les données de l'Insee (brut égal à 69,4 % du coût du travail, net égal à environ 76 % du brut), le salaire net moyen représente un peu plus de la moitié du coût total pour l'employeur ; pour un salaire moyen, cotisations et contributions approchent donc la moitié de ce coût. Ce calcul croise deux champs statistiques différents.",
+      "periode": "2024-2025",
+      "perimetre": "France, secteur privé",
+      "explication": "Le chiffre de « la moitié » n'est pas absurde pour un salaire moyen si l'on part du superbrut ; ce qui est faux, c'est d'y voir de l'argent confisqué par l'État.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Pour un salaire moyen, le net représente environ trois quarts du brut, et un peu plus de la moitié du coût total pour l'employeur. Mais au Smic, le salarié récupère presque tout, grâce aux allègements et à la prime d'activité. Et ces cotisations ne sont pas « prises » : elles paient ta retraite, tes soins, ton chômage.",
+    "moyen": "Les ordres de grandeur sont connus. Selon l'Insee, le salaire moyen du privé était de 3 602 euros brut et 2 733 euros net en 2024 : l'écart, environ un quart, correspond aux cotisations salariales, à la CSG et à la CRDS. Côté employeur, les cotisations et charges pèsent environ trois dixièmes du coût du travail. Pour un salaire moyen, l'ensemble approche donc la moitié du coût total. Mais au Smic, les allègements changent tout : selon la DREES, un salarié au Smic à temps plein coûte 1 852 euros et dispose de 1 656 euros, prime d'activité comprise.\n\nSurtout, ces sommes ne disparaissent pas dans les caisses de l'État. En 2024, la protection sociale a reçu 554 milliards de cotisations et versé 932 milliards de prestations, dont 427 milliards de retraites et 339 milliards pour la santé, selon la DREES. C'est un salaire mis en commun, qui te revient quand tu es malade, au chômage ou à la retraite.",
+    "detaille": "L'idée que « l'État prend la moitié du salaire » mélange plusieurs choses. D'abord, l'écart entre le brut et le net. Selon l'Insee, en 2024, le salaire moyen en équivalent temps plein dans le secteur privé était de 3 602 euros brut et de 2 733 euros net : les cotisations salariales, la CSG et la CRDS représentent donc environ un quart du brut.\n\nEnsuite, les cotisations patronales. Selon l'Insee, en 2025, les salaires bruts représentaient 69,4 % du coût du travail en France, le reste correspondant aux cotisations et charges. Si l'on part de ce coût total, le salaire net moyen en représente un peu plus de la moitié : pour un salaire moyen, l'affirmation n'est donc pas totalement fantaisiste en ordre de grandeur. Mais elle devient fausse pour les bas salaires. Depuis des années, l'État allège les cotisations patronales près du Smic : en 2026, la réduction générale dégressive unique est maximale au Smic et s'éteint à 3 Smic. Selon la DREES, un salarié célibataire au Smic à temps plein coûtait 1 852 euros par mois à son employeur en 2024, pour un revenu disponible de 1 656 euros, prime d'activité comprise.\n\nEnfin et surtout, les cotisations ne sont pas un prélèvement perdu « par l'État ». Elles sont gérées par la Sécurité sociale et les régimes de retraite et de chômage, et elles financent des droits attachés au travail. En 2024, selon la DREES, la protection sociale a reçu 997,8 milliards d'euros de ressources, dont 554,4 milliards de cotisations, et a versé 932,5 milliards de prestations : 426,7 milliards pour la vieillesse et la survie, 338,9 milliards pour la santé, 65,8 milliards pour la famille, 51,1 milliards pour l'emploi.\n\nC'est ce qu'on appelle le salaire socialisé : une partie de la rémunération est mise en commun pour payer les pensions, les soins, les indemnités chômage. Ceux qui réclament la baisse des « charges » proposent en réalité de baisser cette part du salaire, et donc les droits qui vont avec, ou de les faire financer par l'impôt, ou de les laisser à des assurances privées plus chères et plus inégalitaires.",
+    "empathie": "Voir l'écart entre le coût de ton travail et ce qui arrive sur ton compte peut donner le sentiment d'être dépossédé, surtout quand les fins de mois sont difficiles. Cette frustration est compréhensible : la question est de savoir où va cet argent et à qui il profite."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on supprimait les charges, on gagnerait le double.",
+      "reponse": "Il faudrait alors payer soi-même sa retraite, son assurance maladie et son assurance chômage, souvent plus cher auprès d'assureurs privés, et sans solidarité pour les malades ou les plus âgés."
+    },
+    {
+      "objection": "Les cotisations, c'est de l'impôt qui part on ne sait où.",
+      "reponse": "Selon la DREES, la protection sociale a versé 932,5 milliards d'euros de prestations en 2024, surtout des retraites et des soins : l'argent revient aux assurés."
+    },
+    {
+      "objection": "Même au Smic, l'État prend la moitié.",
+      "reponse": "Selon la DREES, un salarié au Smic à temps plein coûte 1 852 euros à son employeur et dispose de 1 656 euros, prime d'activité comprise."
+    }
+  ],
+  "questions": [
+    "Si tu devais payer toi-même ta retraite et ton assurance maladie, combien crois-tu que cela te coûterait ?",
+    "Est-ce que tes parents ou tes grands-parents touchent une pension ? D'où vient cet argent, selon toi ?"
+  ],
+  "limites": [
+    "Le calcul « un peu plus de la moitié du coût total » croise deux publications de l'Insee aux champs différents (ensemble du privé pour le brut et le net, entreprises de 10 salariés ou plus du secteur marchand pour le coût du travail) : c'est un ordre de grandeur.",
+    "Le cas type de la DREES concerne un célibataire sans enfant au Smic en 2024 ; d'autres situations familiales donnent d'autres résultats.",
+    "Les publications ont été lues à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "La part des cotisations salariales seules, distincte de la CSG et de la CRDS, n'est pas isolée dans les sources lues."
+  ],
+  "sources": [
+    {
+      "titre": "Les salaires dans le secteur privé en 2024 (Insee Première n° 2079)",
+      "organisme": "Insee",
+      "date_publication": "23 octobre 2025",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/8657156/ip2079.pdf",
+      "passage": "En 2024, le salaire moyen en équivalent temps plein dans le secteur privé est de « 3 602 euros brut par mois », « soit 2 733 euros net de cotisations et contributions sociales ». Le salaire net s'obtient « en retranchant du salaire brut les cotisations sociales salariales », la CSG et la CRDS ; il est « avant prélèvement de l'impôt sur le revenu ».",
+      "pertinence": "Publication de la statistique publique (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Salaires et coût du travail en Europe (Emploi, chômage, revenus du travail, édition 2026)",
+      "organisme": "Insee",
+      "date_publication": "2 juillet 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8733109",
+      "passage": "En 2025, le coût horaire moyen du travail est de 44,7 euros en France (34,7 euros dans l'Union européenne), dans les entreprises de 10 salariés ou plus du secteur marchand. Les salaires bruts en représentent 69,4 % en France (31,0 euros) ; les cotisations et autres charges, 13,7 euros. Le texte rappelle le CICE (2013), remplacé en 2019 par l'extension de la réduction générale de cotisations sur les bas salaires.",
+      "pertinence": "Publication de la statistique publique (lue à travers un outil de lecture qui résume ; la part des cotisations employeurs, environ 30,6 %, est déduite par différence).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "De combien faut-il augmenter un salarié au smic pour relever son revenu disponible de 100 euros ? (Études et Résultats n° 1313)",
+      "organisme": "DREES (Léo Quennesson)",
+      "date_publication": "octobre 2024",
+      "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2024-10/ER1313EMB.pdf",
+      "passage": "Pour un salarié célibataire à temps plein au Smic (cas type au 1er juillet 2024), le salaire superbrut est de 1 852 euros et le revenu disponible de 1 656 euros, dont 257 euros de prime d'activité. Entre 1 et 1,6 Smic, un euro de salaire net supplémentaire coûte 2,42 euros à l'employeur, contre 1,74 euro au-delà, du fait de la dégressivité des allègements généraux.",
+      "pertinence": "Étude de la statistique publique sur cas types (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réduction générale dégressive unique (RGDU) de cotisations patronales",
+      "organisme": "Service-public.fr (Entreprendre), Direction de l’information légale et administrative",
+      "date_publication": "vérifié le 15 juin 2026",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F24542?profil=tout",
+      "passage": "« Depuis le 1er janvier 2026, le dispositif d'allègement des cotisations est renommé « réduction générale dégressive unique » (RGDU) ». La réduction est maximale au niveau du Smic et dégressive jusqu'à 3 Smic ; le coefficient maximal est de 0,3981 (moins de 50 salariés) ou 0,4021 (50 salariés et plus). Elle porte sur les cotisations maladie, vieillesse, allocations familiales, retraite complémentaire, chômage, accidents du travail, etc.",
+      "pertinence": "Site officiel de l'administration.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le financement de la protection sociale en 2024 (Comptes de la protection sociale, édition 2025, fiche 04)",
+      "organisme": "DREES",
+      "date_publication": "2025 (mise en ligne mai 2026)",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-05/CPS2025%20-%20Fiche%2004%20-%20Le%20financement%20de%20la%20protection%20sociale%20en%202024.pdf",
+      "passage": "« Les ressources de la protection sociale atteignent 997,8 milliards d'euros en 2024 », soit 34,2 % du PIB. Les cotisations sociales en représentent 554,4 milliards (55,6 %), la CSG 152,4 milliards (15,3 %), les impôts et taxes affectés au total 299,4 milliards (30 %) et les contributions publiques 126,9 milliards (12,7 %).",
+      "pertinence": "Comptes officiels (lus à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les dépenses de protection sociale en 2024 (Comptes de la protection sociale, édition 2025, fiche 03)",
+      "organisme": "DREES",
+      "date_publication": "2025 (mise en ligne mai 2026)",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-05/CPS2025%20-%20Fiche%2003%20-%20Les%20d%C3%A9penses%20de%20protection%20sociale%20en%202024.pdf",
+      "passage": "En 2024, les prestations sociales atteignent 932,5 milliards d'euros, « dont 45,8 % pour le risque vieillesse-survie » (426,7 milliards) ; santé : 338,9 milliards (36,3 %) ; famille : 65,8 milliards ; emploi : 51,1 milliards ; pauvreté-exclusion : 34,0 milliards ; logement : 16,1 milliards. L'ensemble des dépenses de protection sociale représente 33,6 % du PIB.",
+      "pertinence": "Comptes officiels (lus à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Nouvelles données de l'Insee sur les salaires 2025 et nouveaux comptes de la protection sociale.",
+  "objections_legitimes": [
+    "L'écart entre le coût du travail et le salaire net est réel et important pour un salaire moyen.",
+    "La fiche de paie est difficile à lire et rend ces mécanismes peu visibles.",
+    "Les salaires nets ont parfois progressé moins vite que les prix, ce qui renforce le sentiment de perte."
+  ],
+  "publics": {
+    "convaincus": "Regarde où va l'argent : en 2024, la protection sociale a versé 932 milliards d'euros de prestations, dont 427 milliards de retraites et 339 milliards pour la santé. Ce n'est pas l'État qui l'empoche, c'est ta retraite, tes soins et ceux de tes proches. Et au Smic, tu touches presque tout ce que paie ton patron, grâce aux allègements.",
+    "indecis": "C'est vrai que l'écart entre ce que tu coûtes et ce que tu touches est grand pour un salaire moyen. Mais cet écart, c'est du salaire mis en commun : il paie ta retraite, ton assurance maladie et ton chômage. La vraie question, c'est de savoir si on veut garder ces droits collectifs ou les remplacer par des assurances privées."
+  },
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "travailleurs",
+      "services_publics"
+    ],
+    "mecanismes": "Présenter les cotisations comme un prélèvement de l’État permet de faire oublier qu’elles sont une part du salaire mise en commun, qui finance des droits attachés au travail : retraite, soins, chômage, famille.",
+    "consequences": "La baisse des « charges » réclamée au nom du pouvoir d’achat affaiblit la Sécurité sociale, transfère son financement vers l’impôt ou vers des assurances privées plus chères et plus inégalitaires.",
+    "democratie": "Le salaire socialisé est une conquête du mouvement ouvrier, gérée historiquement avec les représentants des salariés : décider de son avenir doit relever d’un débat public, pas de slogans sur la fiche de paie.",
+    "propositions": [
+      "Rendre la fiche de paie lisible en montrant les droits financés par chaque cotisation.",
+      "Conditionner les allègements de cotisations patronales à des hausses de salaires et à des engagements d’emploi.",
+      "Augmenter les salaires bruts plutôt que de baisser les cotisations, pour préserver retraites et santé."
+    ],
+    "defavorables": [
+      {
+        "fait": "Pour un salaire moyen, cotisations et contributions approchent la moitié du coût total du travail pour l’employeur.",
+        "integration": "C’est vrai, et c’est assumé : cette part du salaire paie ta retraite, ton assurance maladie et ton chômage ; la vraie question est de savoir qui en profite, et ce sont les assurés."
+      }
+    ]
+  },
+  "concepts": [
+    "salaires",
+    "riches_entreprises",
+    "cout"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "patronat",
+    "grands groupes",
+    "creent les emplois"
+  ]
+}

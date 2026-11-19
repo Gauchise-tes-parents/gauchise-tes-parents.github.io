@@ -1,0 +1,244 @@
+{
+  "id": "treve-hivernale-impayes",
+  "type": "idee_recue",
+  "affirmation": "Avec la trêve hivernale, les locataires peuvent arrêter de payer leur loyer pendant des mois sans risque.",
+  "volet": "economie",
+  "sous_theme": "Loyers",
+  "rubriques": [],
+  "mots_cles": [
+    "treve hivernale loyer",
+    "treve hivernale ne pas payer",
+    "locataires mauvais payeurs",
+    "impayes de loyer",
+    "expulsion locataire hiver",
+    "loi kasbarian berge",
+    "proprietaire loyers impayes",
+    "squatteurs treve hivernale",
+    "on peut plus expulser",
+    "expulsions locatives record",
+    "garantie visale"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. La trêve hivernale, du 1er novembre au 31 mars, suspend seulement l'exécution des expulsions et les coupures d'énergie ; elle ne supprime ni le loyer ni la dette, qui continuent de courir, et les procédures avancent. Les expulsions avec la force publique ont atteint des records : 19 023 en 2023, 24 556 en 2024. Les ménages en impayé suivis par la Fondation pour le logement évoquent des accidents de la vie (perte d'emploi, séparation, santé), et des outils existent pour protéger aussi les petits propriétaires (garantie Visale gratuite, fonds de solidarité, indemnisation par l'État).",
+  "contexte": "Chaque automne, le début de la trêve hivernale relance l'idée de locataires qui profiteraient de l'hiver pour ne plus payer, souvent associée aux squatteurs. La loi du 27 juillet 2023, dite Kasbarian-Bergé, a durci les procédures d'expulsion.",
+  "explication": "On compare ce que dit la loi (service-public.fr) avec les chiffres officiels des expulsions et des impayés (ministère, Fondation pour le logement des défavorisés, commissaires de justice).",
+  "faits": [
+    {
+      "fait": "Selon service-public.gouv.fr, la trêve hivernale court du 1er novembre 2026 au 31 mars 2027 : elle interdit de procéder à l'expulsion d'un locataire, même avec une décision de justice, mais « ne supprime pas les dettes de loyer accumulées ».",
+      "periode": "2026-2027",
+      "perimetre": "France",
+      "explication": "Le loyer reste dû pendant l'hiver ; seule l'exécution de l'expulsion est reportée.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "5 mois"
+    },
+    {
+      "fait": "Selon service-public.gouv.fr, les squatteurs d'un domicile, les personnes relogées dans un logement adapté et les conjoints violents ne bénéficient pas de la trêve.",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "La trêve ne protège pas les occupants illégaux d'un domicile, contrairement à une idée répandue.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministère chargé du Logement, 24 556 expulsions locatives ont été réalisées avec le concours de la force publique en 2024 ; selon la Fondation pour le logement des défavorisés, il y en avait eu 19 023 en 2023, déjà un record, et 16 219 en 2022.",
+      "periode": "2022-2024",
+      "perimetre": "France",
+      "explication": "Les expulsions augmentent fortement : un locataire qui ne paie pas finit très souvent par être expulsé.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "24 556"
+    },
+    {
+      "fait": "Selon les commissaires de justice cités par la Banque des Territoires, 30 500 ménages ont dû quitter leur logement après une décision de justice en 2025 (+27 %) ; le délai minimal entre le premier impayé et l'expulsion est de 8 mois, souvent proche de 2 ans à cause des délais d'audience.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La lenteur vient surtout de l'engorgement des tribunaux, pas de la trêve.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "30 500"
+    },
+    {
+      "fait": "Selon la Fondation pour le logement des défavorisés, la loi du 27 juillet 2023 accélère la procédure, restreint les délais accordés aux locataires et prévoit une amende de 7 500 euros pour ceux qui ne partent pas d'eux-mêmes.",
+      "periode": "depuis 2023",
+      "perimetre": "France",
+      "explication": "Le droit actuel est plus dur pour les locataires, pas plus laxiste.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "7 500 €"
+    },
+    {
+      "fait": "Selon le ministère, environ 1,5 million de ménages connaissent chaque année un retard ou un impayé de loyer, pour moitié dans le parc privé et pour moitié dans le parc social ; selon la Fondation pour le logement, les ménages qui appellent sa plateforme sont à 72 % des personnes seules, avec ou sans enfants, et citent la perte d'emploi, la séparation, la santé ou une charge imprévue.",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "L'impayé est d'abord un accident de la vie qui frappe des ménages fragiles.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "1,5 million"
+    },
+    {
+      "fait": "Fait défavorable : un propriétaire qui subit un impayé peut attendre plusieurs mois, voire environ deux ans, avant de récupérer son logement, ce qui peut mettre en difficulté un petit bailleur ; des outils existent toutefois : garantie Visale gratuite d'Action Logement, fonds de solidarité pour le logement (330 M€ selon le ministère) et indemnisation par l'État quand il refuse la force publique.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Il faut protéger à la fois le locataire en difficulté et le petit propriétaire, par la solidarité plutôt que par la rue.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. La trêve hivernale, du 1er novembre au 31 mars, empêche seulement d'exécuter une expulsion en plein hiver : le loyer reste dû, la dette s'accumule et la procédure continue. Et les expulsions avec la force publique battent des records : 24 556 en 2024 selon le ministère.",
+    "moyen": "La trêve hivernale ne suspend pas le loyer. Selon service-public.gouv.fr, elle interdit seulement de mettre un locataire à la rue entre le 1er novembre et le 31 mars, même s'il y a un jugement, et elle « ne supprime pas les dettes de loyer accumulées ». La procédure continue pendant l'hiver, et l'expulsion peut avoir lieu dès le 1er avril. Les squatteurs d'un domicile n'en bénéficient pas.\n\nLoin d'un laxisme, les expulsions avec la force publique explosent : 16 219 en 2022, 19 023 en 2023, 24 556 en 2024, et la loi de juillet 2023 a encore accéléré les procédures. Les ménages en impayé suivis par la Fondation pour le logement évoquent des accidents de la vie : perte d'emploi, séparation, santé. Les difficultés des petits propriétaires sont réelles, mais la réponse passe par la garantie Visale, gratuite, et par les fonds de solidarité, pas par la rue.",
+    "detaille": "La trêve hivernale existe pour une raison simple : éviter de mettre des familles à la rue en plein hiver. Selon service-public.gouv.fr, elle court cette année du 1er novembre 2026 au 31 mars 2027. Pendant cette période, un propriétaire ne peut pas faire exécuter une expulsion, même s'il a obtenu un jugement, et les fournisseurs ne peuvent pas couper le gaz ou l'électricité. Mais la trêve « ne supprime pas les dettes de loyer accumulées » : le loyer reste dû chaque mois, la dette grossit, et la procédure judiciaire continue. Les squatteurs d'un domicile ne sont pas protégés.\n\nLes chiffres contredisent l'idée d'une impunité. Selon le ministère du Logement, 24 556 expulsions ont été réalisées avec le concours de la force publique en 2024 ; selon la Fondation pour le logement des défavorisés, il y en avait 19 023 en 2023, déjà un record historique, et 16 219 en 2022. Selon les commissaires de justice, 30 500 ménages ont dû quitter leur logement après une décision de justice en 2025, un nouveau record. La loi du 27 juillet 2023, dite Kasbarian-Bergé, a accéléré les procédures et réduit les délais accordés aux locataires.\n\nQui sont les locataires en impayé ? Selon le ministère, environ 1,5 million de ménages connaissent chaque année un retard ou un impayé, autant dans le parc social que dans le privé. Les ménages qui appellent la plateforme de prévention de la Fondation pour le logement sont surtout des personnes seules, souvent avec enfants, frappées par une perte d'emploi, une séparation, un problème de santé ou une hausse des charges. Ce ne sont pas des profiteurs, mais des gens qui basculent.\n\nIl faut aussi entendre les petits propriétaires : un impayé peut durer longtemps, car il s'écoule au minimum huit mois, et souvent près de deux ans, entre le premier impayé et l'expulsion, surtout à cause de l'engorgement des tribunaux. Des protections existent : la garantie Visale d'Action Logement, gratuite, couvre les loyers impayés ; les fonds de solidarité pour le logement aident les locataires à rembourser ; et l'État indemnise le propriétaire quand il refuse le concours de la force publique.\n\nLa réponse de gauche, c'est de prévenir l'impayé en amont (aides au logement, encadrement des loyers, accompagnement social), de généraliser une garantie publique contre les impayés et de reloger plutôt que d'expulser. Opposer locataires pauvres et petits propriétaires arrange surtout ceux qui profitent de la crise du logement.",
+    "empathie": "Un petit propriétaire qui compte sur son loyer pour vivre peut être mis en grande difficulté par un impayé, et cette inquiétude est légitime. Mais la trêve hivernale n'efface pas la dette : elle évite seulement qu'une famille se retrouve à la rue en plein hiver."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Pendant la trêve, les locataires n'ont plus à payer.",
+      "reponse": "Faux : selon service-public.gouv.fr, la trêve « ne supprime pas les dettes de loyer accumulées ». Le loyer reste dû et la procédure continue."
+    },
+    {
+      "objection": "On ne peut plus expulser personne en France.",
+      "reponse": "Les expulsions avec la force publique battent des records : 24 556 en 2024 selon le ministère, après 19 023 en 2023."
+    },
+    {
+      "objection": "La trêve protège les squatteurs.",
+      "reponse": "Non : selon service-public.gouv.fr, les squatteurs d'un domicile sont exclus de la trêve hivernale."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la trêve hivernale n'efface pas un seul euro de dette de loyer ?",
+    "Qu'est-ce qui protégerait le mieux un petit propriétaire : mettre une famille à la rue en hiver, ou une garantie publique contre les impayés ?"
+  ],
+  "limites": [
+    "Les chiffres de 2025 (30 500 ménages) viennent de la Chambre nationale des commissaires de justice et portent sur les départs après décision de justice, pas uniquement sur les expulsions avec la force publique ; ils ne sont pas directement comparables aux chiffres du ministère.",
+    "Le profil des ménages vient d'une plateforme associative (1 295 appels) et n'est pas représentatif de l'ensemble des impayés.",
+    "Le rapport de la Fondation pour le logement et le communiqué du ministère ont été lus en partie, à travers un outil de lecture qui résume.",
+    "La part des impayés dits « de bonne foi » n'a été trouvée dans aucune source lue.",
+    "La page d'Action Logement sur Visale n'est pas datée ; les conditions d'accès peuvent évoluer."
+  ],
+  "sources": [
+    {
+      "titre": "Expulsions locatives : la trêve hivernale du 1er novembre 2026 au 31 mars 2027",
+      "organisme": "Service-public.gouv.fr (Direction de l’information légale et administrative)",
+      "date_publication": "2 octobre 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A14632?lang=fr",
+      "passage": "La trêve est fixée « du 1er novembre 2026 au 31 mars 2027 » : pendant cette période, un bailleur « ne peut pas procéder à l'expulsion d'un locataire », même avec une décision de justice. « La trêve hivernale ne supprime pas les dettes de loyer accumulées » : les locataires doivent engager ou poursuivre le remboursement. Elle s'applique aussi aux coupures de gaz et d'électricité. Exceptions : relogement adapté, immeuble sous arrêté de mise en sécurité, squatteurs d'un domicile, conjoints violents, etc. Dates fixées par la loi Alur du 24 mars 2014.",
+      "pertinence": "Site officiel de l'administration.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Réunion de l'Observatoire national des impayés de loyer et de charges locatives : Valérie Létard mobilise les acteurs",
+      "organisme": "Ministère chargé du Logement (communiqué de presse)",
+      "date_publication": "5 mai 2025",
+      "url": "https://www.ecologie.gouv.fr/presse/reunion-lobservatoire-national-impayes-loyer-charges-locatives-valerie-letard-mobilise",
+      "passage": "« 24 556 expulsions locatives » avec le concours de la force publique en 2024 ; environ 1,5 million de ménages connaissent chaque année un retard ou un impayé à un moment donné ; la moitié des cas concerne le parc privé, l'autre moitié le parc social ; fonds de solidarité pour le logement (FSL) : 330 M€, gérés par les départements ; commissions de prévention des expulsions (CCAPEX) : 3,7 M€ de l'État ; équipes mobiles de prévention : 4 M€ dans 26 départements.",
+      "pertinence": "Communiqué officiel du ministère (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'état du mal-logement en France 2025 — Cahier 1 : La France s'enfonce dans la crise du logement",
+      "organisme": "Fondation pour le logement des défavorisés (ex-Fondation Abbé Pierre)",
+      "date_publication": "2025",
+      "url": "https://www.fondationpourlelogement.fr/wp-content/uploads/2025/06/reml-2025-cahier-1-la-francze-senfonce-dans-la-crise-du-logement.pdf",
+      "passage": "« 19 023 expulsions locatives avec le concours de la force publique en 2023, un record historique » (+17 % en un an ; 16 219 en 2022). La loi du 27 juillet 2023 dite Kasbarian-Bergé « accélère la procédure et restreint les possibilités pour les locataires d'obtenir des délais pour quitter leur logement » et les expose à « une amende de 7 500 euros s'ils ne partent pas d'eux-mêmes ».",
+      "pertinence": "Rapport annuel d'une fondation engagée contre le mal-logement (lu en partie, à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Logement : les expulsions ont atteint un niveau record en 2025, lié à la réforme Kasbarian-Bergé",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "17 mars 2026",
+      "url": "https://www.banquedesterritoires.fr/logement-les-expulsions-ont-atteint-un-niveau-record-en-2025-lie-la-reforme-kasbarian-berge",
+      "passage": "Selon la Chambre nationale des commissaires de justice (CNCJ), 30 500 ménages ont été contraints de quitter leur logement après une décision de justice en 2025, un record, en hausse de 27 % par rapport à 2024 ; 63 700 réquisitions de la force publique en 2025. Le délai minimal entre le premier impayé et l'expulsion est de 8 mois, mais souvent proche de 2 ans, surtout à cause des délais d'audience. La Fondation pour le logement attribue la hausse à « un durcissement de la procédure de justice ». Des décrets précisent l'indemnisation des propriétaires quand l'État refuse le concours de la force publique.",
+      "pertinence": "Article de la Caisse des dépôts rapportant les chiffres de la CNCJ.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bilan 2024 de la plateforme Allô Prévention Expulsion",
+      "organisme": "Fondation pour le logement des défavorisés",
+      "date_publication": "mars 2025",
+      "url": "https://www.fondationpourlelogement.fr/wp-content/uploads/2025/06/bilan-plateforme-ape-2024-pdf.pdf",
+      "passage": "1 295 ménages ont contacté la plateforme par téléphone en 2024 : 41 % de personnes seules, 31 % de personnes seules avec enfants, 20 % de couples avec enfants, 8 % de couples ; 77 % de locataires en titre. Causes citées : perte ou changement d'emploi, évolution de la situation familiale, charge imprévue, surendettement, santé, hausse du loyer ou des charges.",
+      "pertinence": "Bilan d'une plateforme associative, non représentatif de tous les impayés (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Trouver un garant : quelles solutions ?",
+      "organisme": "Action Logement",
+      "date_publication": "page consultée le 19 novembre 2026 (non datée)",
+      "url": "https://www.actionlogement.fr/guides/trouver-un-logement/trouver-un-garant-quelles-solutions",
+      "passage": "La garantie Visale, « 100% gratuite », garantit au bailleur « le paiement du loyer et des charges locatives en cas de défaillance de paiement » et couvre les dégradations locatives ; elle s'adresse notamment aux 18-30 ans et, au-delà, à certains salariés (embauche récente, revenus limités, mobilité).",
+      "pertinence": "Page d'information de l'organisme gestionnaire du dispositif.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-05-31",
+  "raison_actualisation": "Chiffres des expulsions de 2025 et 2026 publiés par le ministère et la Fondation pour le logement des défavorisés.",
+  "objections_legitimes": [
+    "Les procédures d'expulsion sont longues, souvent près de deux ans, surtout à cause de l'engorgement des tribunaux.",
+    "Un impayé prolongé peut fragiliser un petit propriétaire qui compte sur ce revenu.",
+    "Les squats de domicile choquent légitimement ; ils sont exclus de la trêve."
+  ],
+  "publics": {
+    "convaincus": "Je comprends qu'on soit choqué par l'idée de gens qui ne paient pas. Mais la trêve n'efface aucune dette : elle empêche juste de mettre une famille dehors en plein hiver, et l'expulsion arrive au printemps. Les expulsions avec la police ont atteint un record de 24 556 en 2024. Et les squatteurs, eux, ne sont pas protégés par la trêve.",
+    "indecis": "Si tu es propriétaire ou si tu en connais, l'inquiétude est compréhensible. Retiens que le loyer reste dû pendant la trêve, que la procédure continue et que la garantie Visale, gratuite, peut couvrir les impayés. Les locataires en difficulté évoquent souvent une perte d'emploi, une séparation ou un problème de santé : la solution passe par la prévention, pas par la rue en hiver."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "L’affirmation fait passer une protection minimale contre la remise à la rue en plein hiver pour une suspension du loyer, et transforme des ménages frappés par un accident de la vie en profiteurs.",
+    "consequences": "Ce discours justifie le durcissement des expulsions, qui atteignent des records, et oppose locataires pauvres et petits propriétaires au lieu de s’attaquer à la crise du logement.",
+    "democratie": "Le droit au logement est un objectif reconnu : une société démocratique doit protéger à la fois les personnes menacées de perdre leur toit et les petits bailleurs, par des mécanismes collectifs.",
+    "propositions": [
+      "Créer une garantie universelle et publique contre les impayés de loyer, gratuite pour les locataires et les petits propriétaires.",
+      "Ne procéder à aucune expulsion sans solution de relogement et renforcer les fonds de solidarité pour le logement.",
+      "Encadrer les loyers et revaloriser les aides au logement pour prévenir les impayés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Un petit propriétaire peut attendre de longs mois, parfois près de deux ans, avant de récupérer son logement en cas d’impayé.",
+        "integration": "Cette difficulté est réelle : la réponse est une garantie publique et une indemnisation rapide des bailleurs, pas la remise à la rue de familles en plein hiver."
+      }
+    ]
+  },
+  "concepts": [
+    "treve_hivernale",
+    "logement",
+    "expulsion",
+    "garantie_locative",
+    "squat"
+  ],
+  "repond_a": [
+    {
+      "id": "treve_hivernale_q1912",
+      "label": "Trêve hivernale"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "treve hivernale",
+    "treve d hiver",
+    "loger",
+    "se loger",
+    "hlm",
+    "logement social",
+    "appart",
+    "immobilier",
+    "sdf",
+    "chez eux",
+    "oqtf",
+    "reconduite"
+  ]
+}

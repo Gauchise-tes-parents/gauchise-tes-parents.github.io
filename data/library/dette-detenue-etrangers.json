@@ -1,0 +1,201 @@
+{
+  "id": "dette-detenue-etrangers",
+  "type": "idee_recue",
+  "affirmation": "La dette française est détenue par des étrangers qui tiennent la France.",
+  "volet": "economie",
+  "sous_theme": "Dette publique",
+  "rubriques": [],
+  "mots_cles": [
+    "dette detenue par les etrangers",
+    "qui detient la dette francaise",
+    "creanciers etrangers de la france",
+    "dette chine francaise",
+    "non residents dette",
+    "la france est tenue par ses creanciers",
+    "dette vendue a l etranger",
+    "souverainete et dette",
+    "oat detenues etranger",
+    "les marches nous tiennent"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Il est exact qu'un peu plus de la moitié de la dette négociable de l'État est détenue par des « non-résidents » : 57,5 % au premier trimestre 2026 selon l'Agence France Trésor. Mais cette part était bien plus élevée par le passé (plus de 70 % en 2010), une grande partie de ces créanciers sont des investisseurs de la zone euro, et détenir une obligation donne le droit d'être remboursé, pas celui de dicter la politique de la France. La vraie dépendance est celle à l'égard des marchés financiers en général, quelle que soit leur nationalité.",
+  "contexte": "L'argument mêle inquiétude réelle sur la dette et thème de l'ennemi extérieur : des « étrangers », parfois désignés comme la Chine ou des fonds anonymes, tiendraient la France. Il resurgit à chaque tension sur les taux d'intérêt.",
+  "explication": "On s'appuie sur les statistiques de détention publiées par l'Agence France Trésor à partir des enquêtes de la Banque de France, sur une réponse du ministère à un député, et sur un article de Public Sénat qui interroge des économistes.",
+  "faits": [
+    {
+      "fait": "Selon l'Agence France Trésor (données Banque de France), au premier trimestre 2026, 57,5 % de la dette négociable de l'État étaient détenus par des non-résidents ; côté résidents, les établissements de crédit en détenaient 10,5 %, les assurances 9,6 %, les OPCVM 1,8 % et les autres détenteurs 20,6 %.",
+      "periode": "2026",
+      "perimetre": "Dette négociable de l’État",
+      "explication": "Un peu plus de la moitié des titres est détenue hors de France : le constat de départ est exact.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "57,5 %"
+    },
+    {
+      "fait": "Selon Public Sénat, la part des non-résidents était de 54,7 % au premier trimestre 2025, de 48,5 % début 2022, et dépassait 70 % mi-2010 selon les archives de l'Agence France Trésor.",
+      "periode": "2010-2025",
+      "perimetre": "Dette négociable de l’État",
+      "explication": "La part étrangère n'est pas nouvelle ni record : elle était bien plus forte il y a quinze ans.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "70 %"
+    },
+    {
+      "fait": "Selon la réponse du ministère à un député (juin 2022), la dette se répartit schématiquement en quatre quarts : investisseurs de la zone euro, investisseurs hors zone euro, dont les grandes banques centrales internationales, investisseurs français et Banque de France.",
+      "periode": "2021-2022",
+      "perimetre": "Dette négociable de l’État",
+      "explication": "Une bonne part des « étrangers » sont des investisseurs européens, avec qui la France partage la même monnaie.",
+      "source": 2,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon la même réponse, la part des non-résidents est passée de 63,6 % en 2015 à 48,8 % au troisième trimestre 2021, en raison des achats de titres de la BCE réalisés par la Banque de France.",
+      "periode": "2015-2021",
+      "perimetre": "Dette négociable de l’État",
+      "explication": "La politique monétaire européenne a fortement rapatrié la détention de la dette ; sa fin explique en partie la remontée récente.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "63,6 %"
+    },
+    {
+      "fait": "Selon le ministère, détenir une obligation d'État donne le droit d'être remboursé « et en aucune manière celui d'influencer la politique menée par l'Etat français », contrairement à une action assortie d'un droit de vote.",
+      "periode": "2022",
+      "perimetre": "France",
+      "explication": "Un créancier ne vote pas les lois et ne nomme pas les ministres.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon Public Sénat, la hausse des taux en 2025 a fait passer le taux à 10 ans de l'État au-dessus de 3,5 %, et des économistes jugent qu'une forte présence d'investisseurs étrangers, rassurante aujourd'hui, pourrait devenir une faiblesse si leur confiance se retournait.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "La dépendance aux marchés existe, mais elle tient à la logique des marchés financiers, pas à la nationalité des créanciers.",
+      "source": 1,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Un peu plus de la moitié de la dette négociable de l'État est détenue hors de France (57,5 % début 2026), mais c'était plus de 70 % en 2010, et une bonne part de ces créanciers sont européens. Un créancier a le droit d'être remboursé, pas celui de gouverner la France.",
+    "moyen": "Le constat de départ est juste : selon l'Agence France Trésor, 57,5 % de la dette négociable de l'État étaient détenus par des non-résidents au premier trimestre 2026. Mais cette part était de plus de 70 % mi-2010 et elle était tombée à 48,8 % en 2021, quand la Banque de France rachetait massivement des titres pour le compte de la BCE. Selon le ministère, la dette se répartit grosso modo en quatre quarts : investisseurs français, Banque de France, zone euro et reste du monde.\n\nSurtout, une obligation n'est pas une action : elle donne droit au remboursement, pas à un pouvoir politique, comme le rappelle le ministère. Le vrai problème n'est pas la nationalité des créanciers, mais le fait d'avoir confié le financement de l'État aux marchés financiers, qui peuvent faire monter les taux quand ils doutent.",
+    "detaille": "La dette négociable de l'État, c'est-à-dire les titres qu'il émet sur les marchés, atteignait 2 882 milliards d'euros fin juillet 2026 selon l'Agence France Trésor. Au premier trimestre 2026, 57,5 % de ces titres étaient détenus par des non-résidents ; le reste se partageait entre banques françaises (10,5 %), assurances (9,6 %), fonds (1,8 %) et autres détenteurs, dont la Banque de France (20,6 %).\n\nCette part étrangère n'a rien d'inédit. Elle dépassait 70 % mi-2010, selon les archives de l'Agence France Trésor citées par Public Sénat. Elle a baissé à 48,8 % en 2021 parce que la Banque de France achetait des titres dans le cadre de la politique de la BCE, et elle remonte depuis que ces achats ont ralenti. Selon le ministère, la dette se répartit schématiquement en quatre quarts : un quart pour les investisseurs français, un quart pour la Banque de France, un quart pour la zone euro, un quart pour le reste du monde, dont de grandes banques centrales.\n\nLe mot « étrangers » donne l'image d'un ennemi extérieur. En réalité, les créanciers sont surtout des fonds, des banques, des assureurs et des banques centrales, européens pour une bonne part. L'État ne connaît d'ailleurs pas leur liste nominative, les titres changeant de mains tous les jours. Et, comme le rappelle le ministère, une obligation donne le droit d'être remboursé, pas celui d'influencer la politique du pays.\n\nIl serait malhonnête de dire qu'il n'y a aucune dépendance. Quand les marchés doutent, ils exigent des taux plus élevés, ce qui alourdit la charge de la dette : en 2025, le taux à 10 ans a dépassé 3,5 %. Mais cette pression vient des marchés financiers dans leur ensemble, qu'ils soient français ou non. La réponse de gauche n'est pas de désigner « l'étranger », mais de réduire cette dépendance : fiscalité juste pour financer les services publics, rôle accru de la Banque centrale européenne, épargne populaire orientée vers la dette publique.",
+    "empathie": "S'inquiéter de la dette et de ceux qui la détiennent est légitime : personne n'aime l'idée que son pays dépende d'autres que lui. Mais cette inquiétude mérite des chiffres précis plutôt qu'un ennemi désigné."
+  },
+  "contre_arguments": [
+    {
+      "objection": "La Chine détient notre dette.",
+      "reponse": "L'État ne dispose pas de la liste nominative des créanciers ; le ministère décrit surtout des investisseurs de la zone euro, du reste du monde et de grandes banques centrales, sans confirmer de montant chinois."
+    },
+    {
+      "objection": "Avec plus de la moitié détenue à l'étranger, on n'est plus souverains.",
+      "reponse": "La part étrangère dépassait 70 % en 2010. Et une obligation donne le droit d'être remboursé, pas de voter les lois."
+    },
+    {
+      "objection": "Il faudrait que seuls les Français détiennent la dette.",
+      "reponse": "Ce qui compte surtout, c'est de ne pas laisser les marchés seuls décider des taux : c'est une question de politique monétaire et fiscale, pas de nationalité."
+    }
+  ],
+  "questions": [
+    "Si un fonds allemand ou un assureur français détient un titre de dette, qu'est-ce que ça change concrètement pour toi ?",
+    "Ce qui te gêne, c'est la nationalité des créanciers ou le fait que l'État dépende des marchés financiers ?"
+  ],
+  "limites": [
+    "Les statistiques portent sur la dette négociable de l'État, pas sur toute la dette publique (Sécurité sociale, collectivités).",
+    "La répartition en « quatre quarts » est schématique et date de 2021-2022 ; la catégorie « autres » de 2026 n'est pas détaillée dans le bulletin lu.",
+    "Le bulletin de l'Agence France Trésor et la réponse ministérielle ont été lus à travers un outil de lecture qui résume.",
+    "Aucune source lue ne détaille la part des banques centrales ou des pays tiers parmi les non-résidents."
+  ],
+  "sources": [
+    {
+      "titre": "Bulletin mensuel n° 435 (août 2026)",
+      "organisme": "Agence France Trésor (ministère de l’Économie et des Finances)",
+      "date_publication": "août 2026",
+      "url": "https://www.aft.gouv.fr/files/medias-aft/7_Publications/7.2_BM/435_Bulletin%20mensuel%20aout%202026.pdf",
+      "passage": "« Part des non-résidents dans l'encours des titres de dette négociable de l'État : 1er trimestre 2026 » : 57,5 % (source Banque de France, en valeur de marché). Résidents : établissements de crédit 10,5 %, assurances 9,6 %, OPCVM 1,8 %, autres 20,6 %. Dette négociable de l'État fin juillet 2026 : 2 882 milliards d'euros.",
+      "pertinence": "Publication officielle de l'agence de gestion de la dette (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Qui détient la dette française et faut-il s'inquiéter de la part détenue à l'étranger ?",
+      "organisme": "Public Sénat (Guillaume Jacquot)",
+      "date_publication": "1er septembre 2025",
+      "url": "https://www.publicsenat.fr/actualites/politique/qui-detient-la-dette-francaise-et-faut-il-sinquieter-de-la-part-detenue-a-letranger",
+      "passage": "Au premier trimestre 2025, 54,7 % de la dette négociable de l'État étaient détenus par des non-résidents, contre 48,5 % début 2022 et « plus de 70 % » mi-2010. Selon le ministère des Comptes publics, la dette se répartit schématiquement en quatre quarts : acteurs basés en France, Banque de France, résidents de la zone euro, reste du monde. Un économiste de Rexecode y voit « plutôt un signe rassurant ».",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 42800 (M. Hubert Wulfranc) sur les détenteurs de la dette publique, et réponse du ministère",
+      "organisme": "Assemblée nationale (JO du 30 novembre 2021 et du 7 juin 2022)",
+      "date_publication": "7 juin 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE42800.pdf",
+      "passage": "Selon la Banque de France, au 3e trimestre 2021, 48,8 % de la dette négociable étaient détenus par des non-résidents, contre 63,6 % en 2015 ; la hausse de la part des résidents s'explique par les achats de la BCE réalisés par la Banque de France. Répartition en quarts : zone euro, hors zone euro « dont les grandes banques centrales internationales », investisseurs français, Banque de France. « L'État n'a accès ni aux listes nominatives des investisseurs, ni aux montants des titres détenus par chaque investisseur ». Une obligation donne le droit d'être remboursé « et en aucune manière celui d'influencer la politique menée par l'Etat français ».",
+      "pertinence": "Réponse ministérielle publiée au Journal officiel (lue à travers un outil de lecture qui résume) ; données de 2021.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouveaux bulletins mensuels de l'Agence France Trésor (données trimestrielles de détention).",
+  "objections_legitimes": [
+    "La dette publique est élevée et sa charge d'intérêts pèse sur le budget.",
+    "La dépendance de l'État aux marchés financiers est réelle quand les taux montent.",
+    "Le manque de transparence sur l'identité précise des créanciers peut nourrir la méfiance."
+  ],
+  "publics": {
+    "convaincus": "Plus de la moitié de nos titres de dette sont détenus hors de France, c'est vrai. Mais c'était plus de 70 % en 2010, et une bonne partie de ces créanciers sont européens. Un créancier a le droit d'être remboursé, pas de faire nos lois. Si tu veux moins dépendre des marchés, la question c'est comment on finance l'État, pas la nationalité de ceux qui prêtent.",
+    "indecis": "Tu as raison de te soucier de la dette : quand les taux montent, ça coûte cher. Mais les chiffres officiels montrent que la part détenue à l'étranger n'est pas nouvelle et qu'elle concerne surtout des investisseurs européens. Ce qui pèse vraiment, c'est la dépendance aux marchés en général, et ça se règle par des choix fiscaux et monétaires."
+  },
+  "lecture": {
+    "valeurs": [
+      "internationalisme",
+      "democratie",
+      "services_publics"
+    ],
+    "mecanismes": "Désigner des créanciers « étrangers » transforme une question de politique financière en peur de l’ennemi extérieur, et détourne l’attention de la dépendance aux marchés financiers en général.",
+    "consequences": "Ce discours nourrit la xénophobie sans rien régler, et sert souvent à justifier l’austérité au nom de la confiance des marchés, au détriment des services publics.",
+    "democratie": "Le financement de l’État doit être décidé par les citoyens et leurs représentants : transparence sur la dette, débat sur la fiscalité et sur le rôle de la banque centrale européenne.",
+    "propositions": [
+      "Orienter davantage l’épargne populaire vers le financement de la dette publique.",
+      "Réformer les règles monétaires européennes pour réduire la dépendance des États aux marchés.",
+      "Financer les services publics par une fiscalité plus juste plutôt que par l’austérité."
+    ],
+    "defavorables": [
+      {
+        "fait": "Plus de la moitié de la dette négociable de l’État est bien détenue par des non-résidents, et les marchés peuvent faire monter les taux.",
+        "integration": "La dépendance existe, mais elle tient à la logique des marchés financiers, pas à la nationalité des créanciers : c’est cette logique qu’il faut changer."
+      }
+    ]
+  },
+  "concepts": [
+    "dette_etrangers",
+    "immigration",
+    "europe",
+    "dette"
+  ],
+  "repond_a": [
+    {
+      "id": "dette_etrangers_q1912",
+      "label": "Détention de la dette publique"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "bruxelles",
+    "union europeenne",
+    "dette",
+    "deficit",
+    "faillite",
+    "depenses publiques"
+  ]
+}

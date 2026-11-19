@@ -10,6 +10,25 @@
 // ─── Concepts ──────────────────────────────────────────────────────────────
 // central : concept qui porte le sujet (un concept non central ne suffit pas à choisir une fiche).
 export const CA_CONCEPTS = {
+  // fiches quotidiennes (19 novembre 2026, passage de 12 h 15)
+  dissuasion_partage: { label: 'Partage de la dissuasion nucléaire', central: true, motifs: ['(bombe|arme) (atomique|nucleaire) .*(allemagne|allemands?|europe\\w*|partag\\w*|donner|filer|ceder)', '(partag\\w*|donner|filer|ceder|offrir)\\w* .*(bombe|dissuasion|arme (atomique|nucleaire))', 'dissuasion .*(allemagne|allemands?|europe\\w*|partag\\w*)', 'la bombe aux allemands'] },
+  foret_surface: { label: 'Surface de la forêt française', central: true, motifs: ['(forets?|arbres|surface forestiere) .*(jamais (ete|eu)|aussi grande?s?|plus grande?s?|progress\\w*|augment\\w*|gagn\\w*)', 'jamais (eu|ete|vu) .*(autant d arbres|autant de forets?|aussi boise\\w*)', 'autant d arbres'] },
+  golfe_refugies: { label: 'Les pays du Golfe et les réfugiés', central: true, motifs: ['(golfe|arabie saoudite|saoudiens?|qatar\\w*|emirats?|koweit|dubai|pays arabes riches) .*(refugi\\w*|migrants?|accueil\\w*|asile)', '(refugi\\w*|migrants?|asile) .*(golfe|arabie saoudite|saoudiens?|qatar\\w*|emirats?|koweit)'] },
+  tig: { label: 'Travail d’intérêt général', central: true, motifs: ['\\btigs?\\b', 'travail d interet general', 'travaux d interet general'] },
+  co2_quantite: { label: 'Faible concentration du CO2', central: true, motifs: ['\\bco2\\b .*(0 04 ?%?|0 4 ?%?|infime|negligeable|trop (faible|peu)|une trace|presque rien|rien du tout)', '(gaz carbonique|dioxyde de carbone) .*(0 04 ?%?|infime|negligeable|trop (faible|peu))', '0 04 ?%? .*(\\bco2\\b|gaz carbonique|dioxyde de carbone)'] },
+  terra_nova: { label: 'La note Terra Nova et les classes populaires', central: true, motifs: ['terra ?nova', '(abandonn\\w*|lach\\w*|trahi\\w*|delaiss\\w*|sacrifi\\w*) .*(ouvriers?|classes? populaires?|prolos?) .*minorites?', 'minorites? .*(contre|plutot que|au lieu des?|au detriment des?) .*(ouvriers?|prolos?|classes? populaires?)', '(choisi|prefere)\\w* les minorites'] },
+  lait_cru: { label: 'Fromages au lait cru et Union européenne', central: true, motifs: ['lait cru', 'fromages? (au|de) lait (cru|non pasteurise)'] },
+  chaudieres_gaz: { label: 'Chaudières au gaz et directive européenne', central: true, motifs: ['chaudieres? (a|au) (gaz|fioul)', '(interdi\\w*|bannir|fin des?) .*chaudieres?', 'chaudieres? .*(interdi\\w*|bannie?s?)'] },
+  roumanie_election: { label: 'Annulation de la présidentielle roumaine', central: true, motifs: ['(roumanie|roumain\\w*) .*(elections?|presidentielle|scrutin|vote|annul\\w*)', '(elections?|presidentielle|scrutin) .*(roumanie|roumain\\w*)', 'georgescu'] },
+  siege_onu: { label: 'Siège de la France au Conseil de sécurité', central: true, motifs: ['siege .*(conseil de securite|\\bonu\\b|nations unies)', '(conseil de securite|\\bonu\\b|nations unies) .*siege'] },
+  charia_uk: { label: 'Conseils de la charia au Royaume-Uni', central: true, motifs: ['(tribunaux?|tribunal|cours?|conseils?) .*charia .*(royaume uni|angleterre|anglais|britanni\\w*|londres)', '(royaume uni|angleterre|anglais|britanni\\w*|londres) .*(tribunaux?|tribunal|cours?|conseils?) .*charia', 'sharia councils?', '(tribunaux?|tribunal|cours?) islamiques? .*(royaume uni|angleterre|anglais|britanni\\w*|londres)', '(royaume uni|angleterre|anglais|britanni\\w*|londres) .*(tribunaux?|tribunal|cours?) (islamiques?|de la charia)'] },
+  australie_bateaux: { label: 'Politique migratoire de l\'Australie', central: true, motifs: ['australi\\w* .*(bateaux?|migrants?|clandestins?|refugi\\w*|boats?|frontieres?|asile|immigr\\w*)', '(bateaux?|migrants?|clandestins?|refugi\\w*|frontieres?|asile|immigr\\w*) .*australi\\w*', 'stop the boats', 'no way'] },
+  retraites_agricoles: { label: 'Retraites des agriculteurs', central: true, motifs: ['(retraites?|pensions?) .*(agricoles?|agriculteurs?|paysans?|exploitants?)', '(agriculteurs?|paysans?|exploitants? agricoles?) .*(retraites?|pensions?)', 'loi chassaigne'] },
+  dette_etrangers: { label: 'Détention de la dette publique', central: true, motifs: ['dette .*(detenue?|tenue?|possedee?|achetee?|aux mains) .*(etrangers?|non residents?|chinois|fonds|marches|banques)', '(etrangers?|non residents?|chinois|la chine|fonds|investisseurs etrangers) .*(detien\\w*|possed\\w*|tiennent) .*dette', 'creanciers? (etrangers?|internationaux)'] },
+  immunite_parl: { label: 'Immunité parlementaire', central: true, motifs: ['immunite parlementaire', '(elus?|deputes?|senateurs?|parlementaires?) .*immunite', 'immunite .*(elus?|deputes?|senateurs?|parlementaires?)'] },
+  retraite_deputes: { label: 'Retraite des parlementaires', central: true, motifs: ['(deputes?|parlementaires?|senateurs?) .*(retraites?|pensions?) (a vie|apres|au bout|des|en or|doree?s?|de)', '(retraites?|pensions?) (a vie|doree?s?|en or)? ?(des|de) (deputes?|parlementaires?|senateurs?)', 'regime (special )?de retraite des (deputes?|parlementaires?|senateurs?)'] },
+  treve_hivernale: { label: 'Trêve hivernale', central: true, motifs: ['treve hivernale', 'treve d hiver'] },
+  france_dangereuse: { label: 'La France parmi les pays dangereux d’Europe', central: true, motifs: ['(plus|aussi|tres) dangereu\\w* d (europe|occident)', 'pays .*plus dangereu\\w* .*(europe|monde|occident)', '(france|paris) .*(plus|aussi) dangereu\\w* .*(europe|monde|que)'] },
   // fiches quotidiennes (19 novembre 2026, passage de 06 h 13)
   violences_conj_hommes: { label: 'Hommes victimes de violences conjugales', central: true, motifs: ['hommes? battus', 'hommes? .*(autant|aussi) .*violences? conjugales?', 'violences? conjugales? .*hommes? .*(autant|aussi|victimes?)', 'femmes? .*(aussi|autant) violentes?'] },
   salles_shoot: { label: 'Salles de consommation à moindre risque', central: true, motifs: ['salles? de (shoot|consommation|injection)', 'haltes? soins? addictions?'] },
@@ -377,6 +396,9 @@ export const CA_CONCEPTS = {
 // Classification multiple : chaque concept relève d'un ou plusieurs domaines (volets de la taxonomie) ;
 // une phrase peut donc toucher plusieurs domaines à la fois (ex. immigration + social + sécurité).
 export const CA_DOMAINES = {
+  // fiches quotidiennes (19 novembre 2026, passage de 12 h 15)
+  co2_quantite: ['ecologie'], terra_nova: ['politique'], dissuasion_partage: ['international', 'politique'], foret_surface: ['ecologie'], golfe_refugies: ['immigration', 'international'], tig: ['securite'],
+  lait_cru: ['ecologie', 'politique'], chaudieres_gaz: ['ecologie', 'politique'], roumanie_election: ['politique', 'international'], siege_onu: ['international', 'politique'], charia_uk: ['droits', 'international'], australie_bateaux: ['immigration', 'international'], retraites_agricoles: ['social'], dette_etrangers: ['economie'], immunite_parl: ['politique'], retraite_deputes: ['politique'], treve_hivernale: ['social', 'economie'], france_dangereuse: ['securite'],
   // fiches quotidiennes (19 novembre 2026, passage de 06 h 13)
   violences_conj_hommes: ['securite', 'droits'], salles_shoot: ['securite', 'services'], delinquants_jeunes: ['securite'], trump_washington: ['international', 'securite'], tva_sociale: ['economie'], otan_sortie: ['international', 'politique'], journalistes_gauche: ['politique'], fonctionnaires_ue: ['politique', 'economie'], harcelement_rue: ['droits', 'securite'], hartz: ['economie', 'social'], prieres_rue: ['droits'], politique_familiale: ['social'],
   // fiches quotidiennes (18 novembre 2026, passage de 20 h 13)
@@ -456,6 +478,55 @@ export const CA_DOMAINES = {
 // signaux : formulations typiques (bonus) ; fiches : fiches qui répondent réellement, par ordre de pertinence ;
 // choisir : départage entre fiches selon des mots (facultatif) ; exclues : fiches voisines à ne PAS donner comme réponse.
 export const CA_ARGUMENTS = [
+  // fiches quotidiennes (19 novembre 2026, passage de 12 h 15) — placées en tête
+  { id: 'dissuasion_partage_q1912', label: 'Partage de la dissuasion nucléaire', famille: 'International', tous: ['dissuasion_partage'], fiches: ['dissuasion-nucleaire-partage-allemagne'],
+    implicite: 'La France s\'apprêterait à partager ou à céder sa dissuasion nucléaire à l\'Allemagne ou à l\'Europe.', verifier: 'Les discours présidentiels sur la dissuasion (2020, 2025, 2026) et les travaux de la commission de la défense.' },
+  { id: 'foret_surface_q1912', label: 'Surface de la forêt française', famille: 'Écologie', tous: ['foret_surface'], fiches: ['foret-francaise-surface'],
+    implicite: 'La progression de la forêt prouverait qu\'il n\'y a pas de problème écologique.', verifier: 'Le mémento de l\'inventaire forestier de l\'IGN et les inventaires d\'émissions du Citepa sur le puits de carbone.' },
+  { id: 'golfe_refugies_q1912', label: 'Les pays du Golfe et les réfugiés', famille: 'Immigration', tous: ['golfe_refugies'], fiches: ['pays-golfe-refugies'],
+    implicite: 'Les pays du Golfe n\'accueilleraient aucun réfugié, ce qui dispenserait la France d\'en accueillir.', verifier: 'Les données du HCR sur les pays d\'accueil et le statut des États du Golfe vis-à-vis de la Convention de 1951.' },
+  { id: 'tig_q1912', label: 'Travail d’intérêt général', famille: 'Sécurité et justice', tous: ['tig'], fiches: ['tig-travail-interet-general'],
+    implicite: 'Le travail d\'intérêt général serait une sanction inutile.', verifier: 'Le rapport de la Cour des comptes de 2025 sur les peines alternatives et les données de l\'Agence du TIG.' },
+  { id: 'co2_quantite_q1912', label: 'Faible concentration du CO2', famille: 'Écologie', tous: ['co2_quantite'], fiches: ['co2-quantite-negligeable'],
+    implicite: 'Le CO2 serait trop peu abondant dans l\'air pour changer le climat.', verifier: 'Les mesures de l\'Organisation météorologique mondiale et de Copernicus, et les explications de Météo-France sur l\'effet de serre.' },
+  { id: 'terra_nova_q1912_origine_gauche', label: 'La note Terra Nova et les classes populaires', famille: 'Politique', tous: ['terra_nova', 'origine', 'gauche'], fiches: ['terra-nova-gauche-ouvriers'],
+    implicite: 'La gauche aurait officiellement abandonné les ouvriers pour les minorités, sur le conseil de la note Terra Nova.', verifier: 'Le texte de la note Terra Nova de mai 2011, les réactions qu\'elle a suscitées et les études sur le vote ouvrier.' },
+  { id: 'terra_nova_q1912_gauche', label: 'La note Terra Nova et les classes populaires', famille: 'Politique', tous: ['terra_nova', 'gauche'], fiches: ['terra-nova-gauche-ouvriers'],
+    implicite: 'La gauche aurait officiellement abandonné les ouvriers pour les minorités, sur le conseil de la note Terra Nova.', verifier: 'Le texte de la note Terra Nova de mai 2011, les réactions qu\'elle a suscitées et les études sur le vote ouvrier.' },
+  { id: 'terra_nova_q1912', label: 'La note Terra Nova et les classes populaires', famille: 'Politique', tous: ['terra_nova'], fiches: ['terra-nova-gauche-ouvriers'],
+    implicite: 'La gauche aurait officiellement abandonné les ouvriers pour les minorités, sur le conseil de la note Terra Nova.', verifier: 'Le texte de la note Terra Nova de mai 2011, les réactions qu\'elle a suscitées et les études sur le vote ouvrier.' },
+  { id: 'lait_cru_q1912', label: 'Fromages au lait cru et Union européenne', famille: 'Europe et souveraineté', tous: ['lait_cru'], fiches: ['fromage-lait-cru-bruxelles'],
+    implicite: 'L\'Union européenne voudrait interdire les fromages au lait cru.', verifier: 'Les règles européennes d\'hygiène et leurs dérogations, les réponses du ministère de l\'Agriculture et les chiffres des AOP.' },
+  { id: 'chaudieres_gaz_q1912', label: 'Chaudières au gaz et directive européenne', famille: 'Europe et souveraineté', tous: ['chaudieres_gaz'], fiches: ['chaudieres-gaz-interdiction-europe'],
+    implicite: 'L\'Europe interdirait les chaudières au gaz.', verifier: 'La directive européenne sur la performance énergétique des bâtiments et les règles françaises sur les chaudières.' },
+  { id: 'roumanie_election_q1912', label: 'Annulation de la présidentielle roumaine', famille: 'Europe et souveraineté', tous: ['roumanie_election'], fiches: ['roumanie-election-annulee-ue'],
+    implicite: 'L\'Union européenne aurait fait annuler l\'élection présidentielle roumaine.', verifier: 'La décision de la Cour constitutionnelle roumaine, la procédure européenne contre TikTok et l\'arrêt de la CEDH.' },
+  { id: 'siege_onu_q1912', label: 'Siège de la France au Conseil de sécurité', famille: 'International', tous: ['siege_onu'], fiches: ['siege-onu-france-ue'],
+    implicite: 'La France s\'apprêterait à céder son siège au Conseil de sécurité de l\'ONU à l\'Union européenne.', verifier: 'La Charte des Nations unies et les réponses du gouvernement aux questions écrites des députés.' },
+  { id: 'charia_uk_q1912_islam', label: 'Conseils de la charia au Royaume-Uni', famille: 'Laïcité', tous: ['charia_uk', 'islam'], fiches: ['tribunaux-charia-royaume-uni'],
+    implicite: 'Des tribunaux de la charia remplaceraient la loi britannique au Royaume-Uni.', verifier: 'La revue indépendante commandée par le Home Office en 2018 et les débats du Parlement britannique.' },
+  { id: 'charia_uk_q1912', label: 'Conseils de la charia au Royaume-Uni', famille: 'Laïcité', tous: ['charia_uk'], fiches: ['tribunaux-charia-royaume-uni'],
+    implicite: 'Des tribunaux de la charia remplaceraient la loi britannique au Royaume-Uni.', verifier: 'La revue indépendante commandée par le Home Office en 2018 et les débats du Parlement britannique.' },
+  { id: 'australie_bateaux_q1912', label: 'Politique migratoire de l\'Australie', famille: 'Immigration', tous: ['australie_bateaux'], fiches: ['australie-stop-bateaux'],
+    implicite: 'Il suffirait d\'imiter l\'Australie pour arrêter l\'immigration irrégulière.', verifier: 'Les travaux du Parlement australien, de son auditeur public et du HCR sur la détention extraterritoriale.' },
+  { id: 'retraites_agricoles_q1912_gauche_retraite', label: 'Retraites des agriculteurs', famille: 'Social', tous: ['retraites_agricoles', 'gauche', 'retraite'], fiches: ['retraites-agricoles-gauche'],
+    implicite: 'La gauche n\'aurait rien fait pour les retraites des agriculteurs.', verifier: 'La loi du 3 juillet 2020 sur les pensions agricoles, les débats parlementaires et les données de l\'Insee.' },
+  { id: 'retraites_agricoles_q1912_gauche', label: 'Retraites des agriculteurs', famille: 'Social', tous: ['retraites_agricoles', 'gauche'], fiches: ['retraites-agricoles-gauche'],
+    implicite: 'La gauche n\'aurait rien fait pour les retraites des agriculteurs.', verifier: 'La loi du 3 juillet 2020 sur les pensions agricoles, les débats parlementaires et les données de l\'Insee.' },
+  { id: 'retraites_agricoles_q1912_retraite', label: 'Retraites des agriculteurs', famille: 'Social', tous: ['retraites_agricoles', 'retraite'], fiches: ['retraites-agricoles-gauche'],
+    implicite: 'La gauche n\'aurait rien fait pour les retraites des agriculteurs.', verifier: 'La loi du 3 juillet 2020 sur les pensions agricoles, les débats parlementaires et les données de l\'Insee.' },
+  { id: 'retraites_agricoles_q1912', label: 'Retraites des agriculteurs', famille: 'Social', tous: ['retraites_agricoles'], fiches: ['retraites-agricoles-gauche'],
+    implicite: 'La gauche n\'aurait rien fait pour les retraites des agriculteurs.', verifier: 'La loi du 3 juillet 2020 sur les pensions agricoles, les débats parlementaires et les données de l\'Insee.' },
+  { id: 'dette_etrangers_q1912', label: 'Détention de la dette publique', famille: 'Économie et fiscalité', tous: ['dette_etrangers'], fiches: ['dette-detenue-etrangers'],
+    implicite: 'Les étrangers qui détiennent la dette française tiendraient le pays.', verifier: 'Les bulletins de l\'Agence France Trésor sur la détention de la dette négociable de l\'État.' },
+  { id: 'immunite_parl_q1912', label: 'Immunité parlementaire', famille: 'Institutions', tous: ['immunite_parl'], fiches: ['immunite-parlementaire-impunite'],
+    implicite: 'L\'immunité parlementaire mettrait les élus à l\'abri de la justice.', verifier: 'L\'article 26 de la Constitution et la documentation de l\'Assemblée nationale sur le statut du député.' },
+  { id: 'retraite_deputes_q1912', label: 'Retraite des parlementaires', famille: 'Institutions', tous: ['retraite_deputes'], fiches: ['retraite-deputes-un-mandat'],
+    implicite: 'Les députés toucheraient une retraite à vie après un seul mandat.', verifier: 'La documentation de l\'Assemblée nationale sur la situation matérielle du député et la réforme de 2018.' },
+  { id: 'treve_hivernale_q1912', label: 'Trêve hivernale', famille: 'Logement', tous: ['treve_hivernale'], fiches: ['treve-hivernale-impayes'],
+    implicite: 'La trêve hivernale permettrait aux locataires de ne pas payer leur loyer.', verifier: 'Les règles de la trêve hivernale (service-public.fr) et les chiffres des expulsions locatives.' },
+  { id: 'france_dangereuse_q1912', label: 'La France parmi les pays dangereux d’Europe', famille: 'Sécurité', tous: ['france_dangereuse'], fiches: ['france-pays-dangereux-europe'],
+    implicite: 'La France serait l\'un des pays les plus dangereux d\'Europe.', verifier: 'Les statistiques d\'homicides d\'Eurostat et leurs mises en garde méthodologiques.' },
   // fiches quotidiennes (19 novembre 2026, passage de 06 h 13) — placées en tête
   { id: 'violences_conj_hommes_q1906', label: 'Hommes victimes de violences conjugales', famille: 'Sécurité et justice', tous: ['violences_conj_hommes'], fiches: ['violences-conjugales-hommes-victimes'],
     implicite: 'Les hommes seraient autant victimes de violences conjugales que les femmes.', verifier: 'Les victimes enregistrées (SSMSI), l\'enquête Vécu et ressenti en matière de sécurité (Insee) et l\'étude sur les morts violentes au sein du couple.' },

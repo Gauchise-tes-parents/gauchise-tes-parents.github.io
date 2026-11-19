@@ -1,0 +1,235 @@
+{
+  "id": "france-pays-dangereux-europe",
+  "type": "idee_recue",
+  "affirmation": "La France est devenue l'un des pays les plus dangereux d'Europe.",
+  "volet": "securite",
+  "sous_theme": "Comparaisons statistiques",
+  "rubriques": [],
+  "mots_cles": [
+    "france pays le plus dangereux d europe",
+    "france ensauvagement europe",
+    "classement pays dangereux europe",
+    "taux d homicide france europe",
+    "homicides france eurostat",
+    "la france plus violente que ses voisins",
+    "insecurite france comparaison",
+    "france coupe gorge",
+    "meurtres france europe",
+    "eurostat criminalite france"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Pour l'indicateur le plus comparable, les homicides, la France n'est pas parmi les pays les plus dangereux d'Europe : les taux les plus élevés de l'UE sont dans les pays baltes (Lettonie 4,2, Lituanie 2,41 pour 100 000 habitants en 2023). La France se situe, selon les sources, entre 0,6 et 1,3 pour 100 000, au-dessus de la moyenne de l'UE (0,88) mais dans le même ordre de grandeur que la Belgique (1,38). Elle compte le plus grand nombre d'homicides de l'UE en valeur absolue (887 en 2023), et Eurostat prévient que les autres statistiques de délinquance sont difficiles à comparer d'un pays à l'autre.",
+  "contexte": "L'affirmation circule sur les réseaux sociaux et dans des médias d'extrême droite, souvent à partir du nombre absolu d'homicides publié par Eurostat ou de classements fondés sur des impressions d'internautes. Elle nourrit le discours sur « l'ensauvagement » du pays.",
+  "explication": "On compare les homicides volontaires, la donnée la moins sensible aux différences d'enregistrement, en rapportant les chiffres à la population, et on rappelle les mises en garde d'Eurostat sur les comparaisons de délinquance enregistrée.",
+  "faits": [
+    {
+      "fait": "Selon Eurostat, la police a enregistré 3 930 homicides volontaires dans l'UE en 2023, dont 887 en France, 661 en Allemagne et 338 en Italie ; le total européen a baissé de 15,2 % par rapport à 2013.",
+      "periode": "2013-2023",
+      "perimetre": "Union européenne",
+      "explication": "La France a le plus grand nombre absolu d'homicides de l'UE, ce qui frappe, mais un nombre absolu ne dit pas le risque par habitant.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "887"
+    },
+    {
+      "fait": "Selon El Orden Mundial et The Brussels Times, qui reprennent Eurostat pour 2023, le taux moyen d'homicides de l'UE est de 0,88 pour 100 000 habitants ; les plus élevés sont la Lettonie (4,2) et la Lituanie (2,41) ; la Belgique est à 1,38 et l'Espagne à 0,69.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Les pays où le risque d'homicide est le plus élevé sont les pays baltes, pas la France.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "0,88"
+    },
+    {
+      "fait": "Selon l'Observatoire scientifique du crime et de la justice (CESDIP), le taux d'homicides en France, hors tentatives, se situe entre 0,6 et 1,3 pour 100 000 habitants selon qu'on retient la statistique sanitaire ou policière ; en 2020, 425 cas dans la première et 831 dans la seconde.",
+      "periode": "2020",
+      "perimetre": "France",
+      "explication": "Le niveau français dépend fortement de la source, et les chiffres policiers sont les plus élevés.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "0,6 à 1,3"
+    },
+    {
+      "fait": "Selon le CESDIP, l'homicide volontaire a suivi une baisse tendancielle en France depuis 1990 et reste loin du niveau de la fin des années 1980, malgré une hausse en fin de période.",
+      "periode": "1990-2020",
+      "perimetre": "France",
+      "explication": "Sur le long terme, le pays n'est pas devenu plus meurtrier qu'il y a trente ans.",
+      "source": 5,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon Eurostat, le nombre de crimes enregistrés par la police « varies widely across the EU, even relative to population size », en raison de pratiques d'enregistrement, de taux de plainte, de lois et de systèmes judiciaires différents.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "Classer les pays par « dangerosité » à partir de la délinquance enregistrée n'a pas de sens solide.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : la France se situe au-dessus de la moyenne de l'UE pour les homicides (jusqu'à 1,3 pour 100 000 selon la statistique policière, contre 0,88) ; selon la radio publique lituanienne, citant Eurostat, elle fait partie des pays où les homicides ont augmenté sur la dernière décennie.",
+      "periode": "2016-2026",
+      "perimetre": "Union européenne",
+      "explication": "La violence la plus grave n'est pas marginale en France et mérite des politiques sérieuses, mais elle ne fait pas du pays l'un des plus dangereux d'Europe.",
+      "source": 4,
+      "fiabilite": "estimation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Pour les homicides, l'indicateur le plus comparable, les taux les plus élevés de l'UE sont dans les pays baltes : 4,2 pour 100 000 habitants en Lettonie, 2,41 en Lituanie (2023). La France, entre 0,6 et 1,3 selon les sources, est au-dessus de la moyenne européenne (0,88), mais proche de la Belgique (1,38) et loin des pays les plus touchés.",
+    "moyen": "Le chiffre qui circule est souvent celui d'Eurostat : 887 homicides en France en 2023, le plus grand nombre de l'UE. Mais un nombre absolu ne dit rien du risque : il faut le rapporter à la population. Selon les données d'Eurostat reprises par la presse, les taux les plus élevés de l'UE sont dans les pays baltes (Lettonie 4,2 pour 100 000 habitants, Lituanie 2,41), pour une moyenne européenne de 0,88. La France se situe entre 0,6 et 1,3 selon les sources, au niveau de la Belgique (1,38).\n\nIl ne faut pas pour autant nier le problème : la France est au-dessus de la moyenne européenne et les homicides y ont augmenté sur la dernière décennie. Mais sur le long terme, ils restent bien en dessous du niveau de la fin des années 1980. Et pour les autres délits, Eurostat prévient que les chiffres enregistrés par la police ne sont pas comparables d'un pays à l'autre : tout « classement des pays les plus dangereux » est donc à prendre avec beaucoup de méfiance.",
+    "detaille": "L'idée que la France serait l'un des pays les plus dangereux d'Europe repose souvent sur un chiffre réel mal interprété : selon Eurostat, la police française a enregistré 887 homicides volontaires en 2023, le plus grand nombre de l'Union européenne, devant l'Allemagne (661) et l'Italie (338). Mais comparer des nombres absolus entre pays de tailles différentes ne mesure pas le danger.\n\nRapportés à la population, les taux les plus élevés de l'UE se trouvent dans les pays baltes. Selon les données d'Eurostat pour 2023 reprises par la presse européenne, la Lettonie compte 4,2 homicides pour 100 000 habitants et la Lituanie 2,41 ; la radio publique lituanienne indique que la Lituanie, à 2,63 dans les données les plus récentes, a le taux le plus élevé de l'UE. La moyenne de l'Union est de 0,88. La France, selon l'Observatoire scientifique du crime et de la justice, se situe entre 0,6 et 1,3 pour 100 000 selon que l'on retient la statistique des causes de décès ou la statistique policière, à peu près au niveau de la Belgique (1,38).\n\nIl faut être honnête : la France est au-dessus de la moyenne européenne, et les homicides y ont augmenté sur la dernière décennie. Mais à long terme, ils ont baissé depuis 1990 et restent loin des niveaux de la fin des années 1980. Les deux sources françaises divergent d'ailleurs fortement (425 décès selon la statistique sanitaire contre 831 faits selon la police en 2020), ce qui invite à la prudence sur toute comparaison fine.\n\nPour les autres formes de délinquance, Eurostat est clair : les chiffres enregistrés par la police varient énormément d'un pays à l'autre, « même rapportés à la population », parce que les lois, les pratiques d'enregistrement et la propension à porter plainte diffèrent. Un pays où l'on porte davantage plainte paraît plus « dangereux » qu'un pays où les victimes se taisent. Les classements de pays « dangereux » qui circulent en ligne ignorent ces limites.\n\nRépondre à l'insécurité suppose de regarder les faits sans les grossir : cibler les violences graves, les trafics, les violences intrafamiliales, et investir dans la prévention, la police de proximité et la justice. Agiter un classement trompeur sert surtout à alimenter la peur et les discours de stigmatisation.",
+    "empathie": "Le sentiment d'insécurité est réel et parfois appuyé sur des expériences difficiles. Le prendre au sérieux, c'est justement s'appuyer sur des chiffres solides plutôt que sur des classements qui font peur."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Eurostat montre que la France a le plus d'homicides d'Europe.",
+      "reponse": "En nombre absolu oui (887 en 2023), mais rapporté à la population, les taux les plus élevés sont dans les pays baltes : 4,2 pour 100 000 en Lettonie, contre 0,6 à 1,3 en France."
+    },
+    {
+      "objection": "Il y a des classements qui mettent la France en tête.",
+      "reponse": "Eurostat prévient que la délinquance enregistrée varie selon les lois, les pratiques policières et la propension à porter plainte : ces classements ne sont pas fiables."
+    },
+    {
+      "objection": "La France n'a jamais été aussi violente.",
+      "reponse": "Selon le CESDIP, les homicides ont baissé depuis 1990 et restent loin du niveau de la fin des années 1980, malgré une hausse récente."
+    }
+  ],
+  "questions": [
+    "Sais-tu quels pays européens ont le taux d'homicides le plus élevé quand on le rapporte au nombre d'habitants ?",
+    "Un pays où les victimes portent plus souvent plainte paraît-il plus dangereux, ou mieux protégé ?"
+  ],
+  "limites": [
+    "Le taux d'homicides de la France n'a pas pu être lu directement dans une base d'Eurostat (base de données et fichier de l'ONUDC non accessibles) ; la fourchette de 0,6 à 1,3 vient du CESDIP et porte sur des données autour de 2020.",
+    "Les taux par pays de 2023 viennent de médias (El Orden Mundial, The Brussels Times) qui reprennent Eurostat, et non de la base Eurostat elle-même.",
+    "La place exacte de la France dans un classement des pays de l'UE n'a pas été lue et n'est donc pas donnée.",
+    "La fiche du CESDIP n'est pas datée et n'indique pas d'auteur ; l'article d'Eurostat Statistics Explained a été lu à travers un outil de lecture qui résume.",
+    "Les comparaisons portent sur les homicides ; les autres atteintes (vols, violences, violences sexuelles) n'ont pas été comparées, faute de données comparables lues."
+  ],
+  "sources": [
+    {
+      "titre": "3 930 intentional homicides recorded in the EU in 2023",
+      "organisme": "Eurostat (actualité)",
+      "date_publication": "23 avril 2025",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20250423-1",
+      "passage": "« In 2023, there were 3 930 intentional homicides in the EU recorded by the police », +1,5 % par rapport à 2022 et -15,2 % par rapport à 2013 (4 635). En nombre absolu, France (887), Allemagne (661) et Italie (338) en comptent le plus ; Malte (2), Luxembourg (4) et Chypre (10) le moins. La page ne donne pas de taux par habitant.",
+      "pertinence": "Office statistique de l'Union européenne.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Crime statistics (Statistics Explained)",
+      "organisme": "Eurostat",
+      "date_publication": "avril 2026 (données 2024)",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Crime_statistics",
+      "passage": "3 953 homicides volontaires dans l'UE en 2024, +1,4 % par rapport à 2023 ; hausse dans 16 des 27 États membres. Mises en garde : « The number of police-recorded crimes varies widely across the EU, even relative to population size » ; les comparaisons sont affectées par des pratiques d'enregistrement policier et des taux de plainte différents, ainsi que par des lois et systèmes judiciaires différents ; les données policières ne mesurent pas toute la délinquance.",
+      "pertinence": "Article de référence d'Eurostat (lu à travers un outil de lecture qui résume) ; les taux par pays figurent dans un graphique non lisible par l'outil.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La tasa de homicidios en la UE : España, uno de los países más seguros",
+      "organisme": "El Orden Mundial",
+      "date_publication": "16 juillet 2025",
+      "url": "https://elordenmundial.com/mapas-y-graficos/tasa-homicidios-ue/",
+      "passage": "D'après Eurostat (homicides volontaires enregistrés par la police, 2023) : moyenne de l'UE de 0,88 pour 100 000 habitants ; Lettonie 4,2 (taux le plus élevé de l'UE, 79 homicides) ; Espagne 0,69 ; Italie parmi les plus bas. France : 887 homicides, taux non indiqué.",
+      "pertinence": "Média espagnol de vulgarisation géopolitique reprenant les données d'Eurostat.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Brussels second only to one other region in the EU for homicides",
+      "organisme": "The Brussels Times",
+      "date_publication": "18 août 2025",
+      "url": "https://www.brusselstimes.com/belgium/1703325/brussels-second-only-to-one-other-region-in-the-eu-for-homicides",
+      "passage": "D'après Eurostat (2023), taux d'homicides volontaires pour 100 000 habitants : Lettonie 4,2 ; Lituanie 2,41 ; Belgique 1,38 ; Région de Bruxelles-Capitale 3,19 ; Flandre 0,80.",
+      "pertinence": "Quotidien belge reprenant les données d'Eurostat ; aucune valeur pour la France.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Lithuania still leads EU in homicide rate despite decade of sharp improvement",
+      "organisme": "LRT (radio-télévision publique lituanienne)",
+      "date_publication": "17 novembre 2026",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3113261/lithuania-still-leads-eu-in-homicide-rate-despite-decade-of-sharp-improvement",
+      "passage": "Selon Eurostat, la Lituanie a « the highest rate in the EU » avec 2,63 homicides pour 100 000 habitants (5,27 dix ans plus tôt) ; la Lettonie, l'Estonie et la Finlande suivent ; la France, la Croatie, l'Autriche et l'Allemagne ont connu des hausses sur la décennie (valeurs non données).",
+      "pertinence": "Média public lituanien ; année de référence des taux non précisée.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'homicide est rare",
+      "organisme": "CESDIP — Observatoire scientifique du crime et de la justice (OSCJ)",
+      "date_publication": "document non daté (mis en ligne en mars 2024)",
+      "url": "https://oscj2.cesdip.fr/wp-content/uploads/2024/03/Lhomicide-est-rare.pdf",
+      "passage": "Selon la source (statistique sanitaire de l'Inserm ou statistique policière), le taux d'homicides en France, hors tentatives, se situe « de 0,6 à 1,3 pour 100 000 » ; en 2020, 425 cas dans la statistique des causes de décès et 831 dans la statistique policière ; baisse tendancielle depuis 1990, stabilité puis hausse en fin de période, loin du niveau de la fin des années 1980 ; l'homicide volontaire est à un niveau « très bas » en tendance. Les comptages diffèrent selon les sources et les pratiques de qualification.",
+      "pertinence": "Fiche d'un observatoire de recherche (CNRS-ministère de la Justice) ; ni auteur ni date de publication indiqués.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-05-31",
+  "raison_actualisation": "Nouvelles données d'Eurostat sur les homicides (publication annuelle au printemps).",
+  "objections_legitimes": [
+    "La France compte le plus grand nombre absolu d'homicides de l'UE.",
+    "Son taux d'homicides est au-dessus de la moyenne européenne et a augmenté sur la dernière décennie.",
+    "Certaines villes et certains quartiers connaissent des violences graves liées notamment aux trafics."
+  ],
+  "publics": {
+    "convaincus": "Je comprends que tu sois inquiet, et la France a effectivement plus d'homicides que la moyenne européenne. Mais le chiffre de 887 homicides est un nombre absolu : rapporté à la population, la Lettonie ou la Lituanie sont nettement plus touchées. Si on veut vraiment protéger les gens, il faut des chiffres justes, pas des classements qui font peur.",
+    "indecis": "C'est normal d'être troublé par ces classements. Retiens que, pour les homicides, la France est au-dessus de la moyenne européenne, mais loin des pays baltes, et à peu près au niveau de la Belgique. Pour les autres délits, Eurostat lui-même prévient que les chiffres ne se comparent pas bien entre pays."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "antiracisme",
+      "services_publics"
+    ],
+    "mecanismes": "L’affirmation confond nombre absolu et taux par habitant, et s’appuie sur des classements qui ignorent les différences de lois, d’enregistrement et de propension à porter plainte entre pays.",
+    "consequences": "Exagérer le danger nourrit la peur, les discours sur l’« ensauvagement » et la stigmatisation de certaines populations, au détriment de politiques efficaces contre les violences graves.",
+    "democratie": "Un débat démocratique sur la sécurité exige des statistiques fiables, expliquées et comparées avec rigueur, plutôt que des palmarès anxiogènes.",
+    "propositions": [
+      "Publier des comparaisons européennes harmonisées et commentées par la statistique publique.",
+      "Renforcer la police de proximité, la prévention et la lutte contre les trafics.",
+      "Développer les enquêtes de victimation européennes pour mesurer la délinquance au-delà des plaintes."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France se situe au-dessus de la moyenne européenne pour les homicides, qui ont augmenté sur la dernière décennie.",
+        "integration": "Ce constat doit être pris au sérieux et appelle des politiques de prévention et de lutte contre les trafics, sans faire de la France l’un des pays les plus dangereux d’Europe."
+      }
+    ]
+  },
+  "concepts": [
+    "france_dangereuse",
+    "delinquance",
+    "dangerosite",
+    "homicide",
+    "statistiques",
+    "europe",
+    "couteau"
+  ],
+  "repond_a": [
+    {
+      "id": "france_dangereuse_q1912",
+      "label": "La France parmi les pays dangereux d’Europe"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement",
+    "fou",
+    "cingle",
+    "agressif",
+    "agressive"
+  ]
+}

@@ -1945,3 +1945,97 @@ Montant communiqué par le propriétaire : **571 € / mois** (l'API Tipeee rest
 
 - **Fiches : une mise à jour par semaine**, 10 à 15 questions, le mercredi matin (8 h 47, heure de Paris), première le 25 novembre. Les quatre passages quotidiens sont supprimés (la tâche planifiée a été transformée, son historique est conservé).
 - **Moteur interne** (questions sans réponse, programme, Eurostat) : planification nocturne retirée ; il ne se lance plus qu'à la main (Actions > « Moteur interne de fiches » > Run workflow).
+
+## 19 novembre 2026 — passage de 12 h 15 (UTC)
+
+(Passage lancé avant le changement de rythme de 13 h 13 et terminé ensuite ; publié tel quel.)
+
+**Questions testées : 25.**
+1. Le CO2 ne représente que 0,04 % de l'air, c'est négligeable.
+2. La forêt française n'a jamais été aussi grande, donc il n'y a pas de problème.
+3. On a réintroduit des ours dans les Pyrénées qui massacrent les brebis.
+4. Bruxelles veut interdire le fromage au lait cru.
+5. L'Europe va interdire les chaudières au gaz.
+6. L'Union européenne a fait annuler l'élection présidentielle en Roumanie.
+7. Ursula von der Leyen n'a jamais été élue.
+8. Macron veut donner le siège de la France au Conseil de sécurité de l'ONU à l'Union européenne.
+9. Macron veut partager notre bombe atomique avec l'Allemagne.
+10. Au Royaume-Uni, il y a des tribunaux de la charia.
+11. Les riches pays du Golfe n'accueillent aucun réfugié.
+12. Il faut faire comme l'Australie qui a stoppé les bateaux de migrants.
+13. Le Front populaire est responsable de la défaite de 1940.
+14. Les soldats des colonies n'ont pas joué de rôle dans la Libération de la France.
+15. La gauche a abandonné les ouvriers pour les minorités, c'est la note de Terra Nova.
+16. La gauche n'a jamais rien fait pour les retraites des agriculteurs.
+17. L'État vous prend la moitié de votre salaire avec les cotisations.
+18. La dette française est détenue par des étrangers qui nous tiennent.
+19. Depuis la loi de 1973, la France doit emprunter aux banques privées au lieu de la Banque de France.
+20. L'immunité parlementaire protège les élus délinquants.
+21. Les députés touchent une retraite à vie après un seul mandat.
+22. Avec la trêve hivernale, les locataires peuvent ne pas payer leur loyer pendant des mois.
+23. Le travail d'intérêt général ne sert à rien.
+24. Les retraites par répartition sont une pyramide de Ponzi.
+25. La France est l'un des pays les plus dangereux d'Europe.
+
+Avant ce passage, 13 menaient à une « LACUNE » et 12 à une fiche hors sujet (par exemple `souverainete-populaire` pour le lait cru, les chaudières, la Roumanie et la France « pays dangereux » ; `delinquance-partout` pour le siège à l'ONU et l'immunité parlementaire ; `rsa-smic` pour la retraite des députés ; `migrants-mediterranee` pour l'Australie ; `musulmans-amalgames` pour le Royaume-Uni ; `gauche-au-pouvoir-bilan` pour les retraites agricoles ; `services-publics-moyens` pour la dette ; `ouvriers-vote-rn` pour Terra Nova). Phrases essayées puis remplacées parce qu'une fiche pertinente existait déjà : volcans et CO2 (`rechauffement-origine-humaine`), rafle du Vel d'Hiv (`petain-juifs-francais`), numerus clausus (`regulation-installation-medecins`), ONG de sauvetage en mer (`migrants-mediterranee`) ; écartées comme quasi-doublons d'une fiche voisine : renvois vers l'Algérie et le Maroc, durée de la rétention (`expulser-tous-etrangers-condamnes`).
+
+**Fiches créées : 25.**
+- Générateur : `scripts/fiches/quotidien_20261119_1215.py`.
+- Chaque fiche a le champ `publics` et une entrée dans `scripts/lectures-gauche.js` (sans chiffre).
+- Les sources ont été ouvertes et lues le 19 novembre 2026 par cinq agents de recherche, avec un outil de lecture qui résume : les citations entre « » sont courtes et à revérifier mot pour mot. Chaque lot a été contrôlé avant assemblage (validation de la bibliothèque, politique documentaire, champ `publics`, lectures sans chiffre, identifiant nouveau).
+
+Trois premières sources de chacune :
+- `chaudieres-gaz-interdiction-europe` (trompeur, 6 sources) : Commission européenne (12 avril 2024) ; Parlement européen, Observatoire législatif (OEIL) (8 mai 2024) ; Commission européenne (portail BUILD UP) (non précisée (après octobre 2024)).
+- `co2-quantite-negligeable` (contredit, 4 sources) : Organisation météorologique mondiale (OMM) (27 octobre 2026) ; Météo-France (31 mars 2025) ; Service Copernicus sur le changement climatique (C3S, Union européenne / ECMWF) (14 janvier 2026).
+- `foret-francaise-surface` (trompeur, 3 sources) : Banque des Territoires (Localtis), d'après l'inventaire forestier national de l'IGN (15 octobre 2025) ; IGN (Institut national de l'information géographique et forestière) (10 octobre 2024) ; Citepa (inventaire national des émissions de gaz à effet de serre) (juin 2026).
+- `fromage-lait-cru-bruxelles` (contredit, 6 sources) : FACEnetwork, validé par les États membres sous la supervision de la Commission européenne (publié sur food.ec.europa.eu) (20 décembre 2016) ; Assemblée nationale — ministère de l'Agriculture, de l'agroalimentaire et de la forêt (réponse publiée au JO le 11 octobre 2016) ; Assemblée nationale — ministère de l'Agriculture, de l'agroalimentaire et de la forêt (réponse publiée au JO le 6 janvier 2015).
+- `ours-pyrenees-brebis` (trompeur, 3 sources) : Préfecture de la région Occitanie (préfet coordonnateur du massif des Pyrénées) (23 avril 2026) ; DREAL Occitanie (4 avril 2025) ; DREAL Occitanie (novembre 2022).
+- `dissuasion-nucleaire-partage-allemagne` (trompeur, 5 sources) : Présidence de la République (elysee.fr) (2 mars 2026) ; Présidence de la République (elysee.fr) (5 mars 2025) ; Présidence de la République (elysee.fr) (7 février 2020).
+- `roumanie-election-annulee-ue` (trompeur, 9 sources) : Le Club des juristes (la rédaction) (9 décembre 2024) ; Euronews (9 décembre 2024) ; Commission européenne (représentation au Luxembourg) (17 décembre 2024).
+- `siege-onu-france-ue` (contredit, 6 sources) : Cour internationale de Justice (texte de la Charte des Nations unies) (26 juin 1945) ; Assemblée nationale (JO du 12 octobre 2021 et du 28 décembre 2021) (28 décembre 2021) ; Assemblée nationale (JO du 12 octobre 2021 et du 28 décembre 2021) (28 décembre 2021).
+- `tribunaux-charia-royaume-uni` (trompeur, 5 sources) : Chambre des communes (Hansard), Home Office (1er février 2018) ; Home Office (gov.uk) (1er février 2018) ; Chambre des communes (transcription publiée par Parallel Parliament) (2 mai 2019).
+- `von-der-leyen-pas-elue` (trompeur, 6 sources) : Traité sur l’Union européenne (version publiée par legislation.gov.uk) (version consolidée) ; Service européen pour l’action extérieure (16 juillet 2019) ; Public Sénat (18 juillet 2024).
+- `australie-stop-bateaux` (trompeur, 7 sources) : Parlement australien, Parliamentary Library (Harriet Spinks) (20 juillet 2018) ; Parlement australien, Parliamentary Library (Janet Phillips) (2 mars 2015) ; Parlement australien, Sénat, Legal and Constitutional Affairs References Committee (2017 (date déduite du contenu)).
+- `front-populaire-defaite-1940` (contredit, 4 sources) : Fondation Jean-Jaurès (Milo Lévy-Bruhl) (18 février 2022) ; Ministère de la Défense, Direction de la mémoire, du patrimoine et des archives (Chemins de mémoire) (1999) ; CDEM/SAPD (bulletin bibliographique publié sur le site du ministère des Armées) (2020).
+- `pays-golfe-refugies` (trompeur, 4 sources) : HCR (Haut-Commissariat des Nations unies pour les réfugiés) (12 juin 2025) ; Euronews (30 septembre 2015) ; The Conversation (2015 (date non affichée dans la version lue, déduite du contenu)).
+- `soldats-coloniaux-liberation` (contredit, 4 sources) : Ministère des Armées (centre de presse) (août 2019) ; Ministère des Armées — Chemins de mémoire (non datée (consultée le 19 novembre 2026)) ; Présidence de la République (elysee.fr) (14 août 2019).
+- `terra-nova-gauche-ouvriers` (trompeur, 4 sources) : Terra Nova (Olivier Ferrand, Bruno Jeanbart, Romain Prudent) (mai 2011) ; Terra Nova — La Grande Conversation (Thierry Pech) (8 novembre 2021) ; Slate.fr (Jean-Laurent Cassely) (date non affichée dans la version lue (après l'élection américaine de novembre 2012)).
+- `cotisations-moitie-salaire` (trompeur, 6 sources) : Insee (23 octobre 2025) ; Insee (2 juillet 2026) ; DREES (Léo Quennesson) (octobre 2024).
+- `dette-detenue-etrangers` (trompeur, 3 sources) : Agence France Trésor (ministère de l’Économie et des Finances) (août 2026) ; Public Sénat (Guillaume Jacquot) (1er septembre 2025) ; Assemblée nationale (JO du 30 novembre 2021 et du 7 juin 2022) (7 juin 2022).
+- `loi-1973-banque-de-france` (contredit, 4 sources) : Bertrand Blancheton, GREThA (CNRS-Université de Bordeaux) (février 2015) ; Vincent Duchaussoy, La Vie des idées (Collège de France) (1er juillet 2014) ; Sénat (13 décembre 1973).
+- `retraites-agricoles-gauche` (contredit, 6 sources) : LCP-Assemblée nationale (Maxence Kagni) (18 juin 2020) ; Assemblée nationale (JO du 15 décembre 2020 et du 2 février 2021) (2 février 2021) ; Premier ministre (Jean Castex) (10 décembre 2021).
+- `retraites-repartition-ponzi` (trompeur, 5 sources) : Conseil d’orientation des retraites (COR) (juin 2025) ; Conseil d’orientation des retraites (COR) (juin 2026) ; Conseil d’orientation des retraites (COR), secrétariat général (18 décembre 2025).
+- `france-pays-dangereux-europe` (trompeur, 6 sources) : Eurostat (actualité) (23 avril 2025) ; Eurostat (avril 2026 (données 2024)) ; El Orden Mundial (16 juillet 2025).
+- `immunite-parlementaire-impunite` (trompeur, 4 sources) : Assemblée nationale (texte en vigueur) ; Assemblée nationale (septembre 2023) ; Assemblée nationale, commission des Lois (Sébastien Huyghe et Alain Tourret) (12 février 2020).
+- `retraite-deputes-un-mandat` (trompeur, 5 sources) : Assemblée nationale (janvier 2026) ; Public Sénat (9 décembre 2019 (mis à jour le 13 décembre 2019)) ; Public Sénat (8 novembre 2017).
+- `tig-travail-interet-general` (trompeur, 5 sources) : Cour des comptes (texte publié par Vie publique) (mars 2025) ; Banque des Territoires (Localtis) (5 mars 2025) ; Ministère de la Justice — ATIGIP (février 2026 (chiffres d’octobre 2025)).
+- `treve-hivernale-impayes` (contredit, 6 sources) : Service-public.gouv.fr (Direction de l’information légale et administrative) (2 octobre 2026) ; Ministère chargé du Logement (communiqué de presse) (5 mai 2025) ; Fondation pour le logement des défavorisés (ex-Fondation Abbé Pierre) (2025).
+
+**Points fragiles signalés dans les limites des fiches :**
+- **Documents lus à travers un résumé, un communiqué ou un compte rendu :** bulletin de l'OMM sur les gaz à effet de serre (communiqué seul) ; mémento IGN 2025 (via Localtis) ; directive européenne 2024/1275 sur les bâtiments (via la Commission et l'Observatoire législatif du Parlement européen, EUR-Lex illisible) ; arrêt de la Cour constitutionnelle roumaine (via le Club des juristes, Euronews et la Fondation Robert Schuman) et avis de la Commission de Venise (via Romania Insider) ; rapport Siddiqui sur les « sharia councils » (via la déclaration du Home Office et Law & Religion UK) ; article 17 du TUE et article 123 du TFUE (versions anglaises sur legislation.gov.uk) ; loi du 3 janvier 1973 (via deux historiens) ; loi du 3 juillet 2020 sur les retraites agricoles (via LCP et les réponses ministérielles) ; rapport HCR Global Trends (communiqué) ; rapport de la Cour des comptes sur les peines alternatives (lu en partie) ; la note Terra Nova de 2011, lue sur une copie hébergée par un site tiers (environ un tiers non lu).
+- **Données anciennes :** pertes habituelles des troupeaux pyrénéens (brochure DREAL de 2022) ; réponses ministérielles sur le lait cru (2015-2016) ; Syriens dans le Golfe (2015) ; modes d'arrivée en Australie (2013-2014) ; « sharia councils » (2016-2019) ; montants de retraite des parlementaires (2018-2019) ; levées d'immunité (jusqu'en 2020) ; pensions agricoles (fin 2020) ; récidive (données 2016) ; taux d'homicide de la France (fourchette du CESDIP autour de 2020).
+- **Sources à manier avec prudence :** texte du Cercle Maréchal Foch (association d'officiers, faits en « estimation ») et Fondation Jean-Jaurès (proche du PS) sur 1940 ; texte de Thierry Pech défendant la note de son propre centre de réflexion ; non-signature de la Convention de 1951 par les États du Golfe, appuyée seulement sur Euronews et The Conversation (« estimation ») ; coûts récents de la détention extraterritoriale australienne (Human Rights Watch d'après des budgets non lus) ; proposition allemande de 2018 d'un siège européen à l'ONU (dépêche reprise par un quotidien indien, confirmée par une réponse ministérielle) ; montant de 684 € de retraite pour un mandat (site privé) ; taux d'homicide par pays repris d'Eurostat par la presse (El Orden Mundial, Brussels Times, LRT), rang de la France non donné ; calcul de l'agent sur la part des cotisations dans le coût employeur, signalé comme tel.
+
+**Pages non ouvertes, donc non citées :** EUR-Lex (règlement 853/2004, directive 2024/1275, article 123 en français) ; vie-publique.fr (JavaScript requis) ; rapport annuel 2025 du réseau Ours brun de l'OFB (protection du site) ; PDF du LMD/CNRS sur l'effet de serre ; rapport Siddiqui (PDF gov.uk) ; Charte sur un.org ; Politis ; article d'OpenEdition sur 1940 ; pages Chemins de mémoire sur les soldats d'outre-mer ; synthèse et rapport complet du COR 2026 (erreur serveur) ; API Eurostat et données ONUDC ; étude Kensey et Benaouda (introuvable).
+
+**Reconnaissance des questions.** Après génération, 13 questions menaient déjà à leur fiche. `public/js/cartographie.js` reçoit :
+- **18 concepts** : `dissuasion_partage`, `foret_surface`, `golfe_refugies`, `tig`, `co2_quantite`, `terra_nova`, `lait_cru`, `chaudieres_gaz`, `roumanie_election`, `siege_onu`, `charia_uk`, `australie_bateaux`, `retraites_agricoles`, `dette_etrangers`, `immunite_parl`, `retraite_deputes`, `treve_hivernale`, `france_dangereuse` ;
+- **leurs domaines** et **des arguments placés en tête** (un par concept, plus des variantes avec les concepts voisins pour que la nouvelle fiche l'emporte : `charia_uk` + `islam` ; `retraites_agricoles` + `gauche` / `retraite` ; `terra_nova` + `gauche` / `origine`).
+- Les concepts couvrent aussi les affirmations des nouvelles fiches, dont trois (forêt, dissuasion, pays du Golfe) partaient vers une fiche hors sujet.
+
+Comparaison avant/après sur 593 phrases de contrôle (affirmations de la bibliothèque, questions numérotées de ce journal et questions du jour) : seules changent les questions du jour et les affirmations des nouvelles fiches, chacune vers sa nouvelle fiche. Aucune autre phrase ne change.
+
+Variantes familières vérifiées (toutes mènent à la bonne fiche) : « Le CO2 c'est que 0,04 % de l'air, ça peut pas chauffer la planète » ; « Il y a jamais eu autant d'arbres en France » ; « Les ours slovènes bouffent les moutons » ; « Ils vont nous interdire le camembert au lait cru » ; « On va plus avoir le droit d'avoir une chaudière à gaz » ; « En Roumanie, Bruxelles a volé l'élection » ; « Personne n'a voté pour von der Leyen » ; « Macron va filer notre siège à l'ONU à l'Europe » ; « Macron veut donner la bombe aux Allemands » ; « À Londres les musulmans ont leurs tribunaux islamiques » ; « L'Arabie saoudite et le Qatar ne prennent aucun réfugié » ; « L'Australie a réglé le problème des migrants, faisons pareil » ; « Les communistes du Front populaire ont désarmé la France avant 1940 » ; « Les tirailleurs africains n'ont rien libéré du tout » ; « La gauche a choisi les minorités contre les prolos » ; « Les paysans ont des retraites de misère et la gauche s'en fout » ; « Sur ton salaire brut, l'État te pique la moitié » ; « La Chine détient notre dette » ; « La loi Rothschild de 1973 nous oblige à emprunter aux banques » ; « Les députés ont l'immunité, ils peuvent voler tranquilles » ; « Un député touche une retraite en or à vie » ; « Pendant la trêve hivernale, les mauvais payeurs ne paient rien » ; « Les TIG c'est de la rigolade » ; « La retraite par répartition c'est un système de Ponzi » ; « La France est un coupe-gorge, le pays le plus dangereux d'Europe ».
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`), volontairement laissées sans.
+
+**Questions écartées pour sources invérifiables : aucune.**
+
+**Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès à l'adresse est restée sans réponse dans cette session automatique, comme aux passages précédents. Aucun chiffre n'a été relevé. `public/js/soutien.js` est inchangé (571 € / mois et 77 tipeurs, chiffres communiqués par le propriétaire le 19 novembre).
+
+**Corrections après un premier `npm test`.**
+- La question suggérée « Pourquoi la gauche a-t-elle perdu une partie des classes populaires ? » menait à `front-populaire-defaite-1940` à cause du mot-clé « pourquoi la France a perdu en 1940 » : mot-clé reformulé (« la France a perdu en 1940 à cause de la gauche ») ; la question revient à `ouvriers-vote-rn`.
+- La phrase de contrôle « Les extraterrestres contrôlent la Banque centrale » (qui ne doit mener à aucune fiche) trouvait `loi-1973-banque-de-france` : trois mots-clés reformulés sans « Banque de France » et « banque centrale » remplacé par « Banque de France » dans le résumé.
+- `agriculteurs-revenus` et `senateurs-privileges` reçoivent de `scripts/enrichir-fiches.js` les nouveaux concepts voisins (retraites agricoles, retraite des parlementaires) ; leur contenu ne change pas.
+
+**Vérifications.** `npm test` : 496 tests, 496 réussis, après les corrections ci-dessus. Tests de bout en bout : 46 tests, 46 réussis.

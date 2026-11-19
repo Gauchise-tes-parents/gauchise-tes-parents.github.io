@@ -1,0 +1,207 @@
+{
+  "id": "soldats-coloniaux-liberation",
+  "type": "idee_recue",
+  "affirmation": "Les soldats des colonies n'ont pas joué de rôle dans la Libération de la France.",
+  "volet": "international",
+  "sous_theme": "Colonisation et décolonisation",
+  "rubriques": [],
+  "mots_cles": [
+    "soldats coloniaux liberation",
+    "tirailleurs senegalais liberation",
+    "armee d afrique 1944",
+    "debarquement de provence africains",
+    "armee b de lattre",
+    "les arabes ont libere la france",
+    "goumiers tabors marocains",
+    "blanchiment des troupes 1944",
+    "cristallisation des pensions",
+    "indigenes anciens combattants"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux. L'armée française qui a débarqué en Provence en août 1944, l'armée B du général de Lattre, comptait environ 250 000 hommes dont, selon le ministère des Armées, près de la moitié de soldats africains : tirailleurs algériens, marocains, tunisiens et « sénégalais », goumiers, volontaires des Antilles et du Pacifique. Ce sont des divisions coloniales et nord-africaines qui ont libéré Toulon et Marseille. À l'automne 1944, environ 15 000 tirailleurs africains ont pourtant été retirés de la 1re armée et remplacés par des FFI, et leurs pensions ont été gelées pendant des décennies, jusqu'à la décision du Conseil constitutionnel de 2010.",
+  "contexte": "Cette affirmation, souvent associée au rejet des descendants d'immigrés, efface une partie de l'histoire de la Libération. Le rôle des soldats des colonies a longtemps été minoré dans la mémoire nationale, au profit du seul débarquement de Normandie.",
+  "explication": "On s'appuie sur les publications du ministère des Armées et de la présidence sur le débarquement de Provence, et sur la décision du Conseil constitutionnel sur la « cristallisation » des pensions.",
+  "faits": [
+    {
+      "fait": "Selon le ministère des Armées, l'armée B qui débarque en Provence en août 1944 compte environ 250 000 à 260 000 hommes, et les soldats africains représentent « près de la moitié » des combattants des forces françaises.",
+      "periode": "1944",
+      "perimetre": "France",
+      "explication": "Une part considérable de l'armée de la Libération venait d'Afrique.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "260 000"
+    },
+    {
+      "fait": "Selon la présidence de la République, sur les quelque 250 000 soldats de l'armée reconstituée du général de Lattre, « la très grande majorité vient d'Afrique et de l'Empire colonial ».",
+      "periode": "1944",
+      "perimetre": "France",
+      "explication": "L'État lui-même reconnaît le rôle central de l'Empire, y compris des Européens d'Afrique du Nord.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "250 000"
+    },
+    {
+      "fait": "Selon Chemins de mémoire, l'armée B comprend des musulmans d'Algérie, de Tunisie et du Maroc et des soldats d'Afrique occidentale et équatoriale ; Toulon se rend le 28 août 1944 au commandant de la 9e division d'infanterie coloniale, et Marseille au général de Monsabert le même jour, environ un mois avant la date prévue.",
+      "periode": "1944",
+      "perimetre": "Provence",
+      "explication": "La libération des deux grands ports du Sud est l'œuvre de divisions coloniales et nord-africaines.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "28 août 1944"
+    },
+    {
+      "fait": "Selon le ministère des Armées, la campagne d'Italie, où combattaient déjà les divisions venues d'Afrique, a coûté 7 251 tués, 4 200 disparus et près de 21 000 blessés ; la nécropole de Boulouris abrite 464 combattants de la 1re armée tués lors du débarquement de Provence.",
+      "periode": "1943-1944",
+      "perimetre": "Italie et Provence",
+      "explication": "Ces soldats ont payé un lourd tribut avant et pendant la Libération.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "7 251"
+    },
+    {
+      "fait": "Selon le ministère des Armées, à l'automne 1944, « environ 15.000 tirailleurs africains furent retirés de la 1re armée », remplacés par des FFI : plus de 137 000 résistants sont amalgamés à partir du 23 septembre 1944.",
+      "periode": "1944",
+      "perimetre": "France",
+      "explication": "Une fois la Provence libérée, une partie des soldats africains a été écartée du front.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "15 000"
+    },
+    {
+      "fait": "Selon le Conseil constitutionnel, les pensions des anciens combattants des anciennes colonies ont été « cristallisées » à partir de 1959-1960 sur un critère de nationalité ; le 28 mai 2010, il a jugé ce régime contraire au principe d'égalité et l'a abrogé au 1er janvier 2011.",
+      "periode": "1959-2011",
+      "perimetre": "France",
+      "explication": "Après avoir combattu, ces soldats ont été moins bien traités pendant un demi-siècle.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "2010"
+    },
+    {
+      "fait": "Nuance : l'armée B comprenait aussi des Européens d'Afrique du Nord (pieds-noirs) et des Français évadés de métropole, et les sources lues ne donnent pas de répartition précise par origine ; la Libération est l'œuvre d'une coalition qui comprenait aussi les armées alliées et la Résistance intérieure.",
+      "periode": "1944",
+      "perimetre": "France",
+      "explication": "Il ne s'agit pas d'opposer les combattants entre eux, mais de ne pas en effacer une partie.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Faux. L'armée française qui a débarqué en Provence en août 1944 comptait environ 250 000 hommes, dont près de la moitié de soldats africains selon le ministère des Armées. Ce sont des divisions coloniales et nord-africaines qui ont libéré Toulon et Marseille.",
+    "moyen": "Le 15 août 1944, les Alliés débarquent en Provence. L'armée française du général de Lattre, l'armée B, compte environ 250 000 hommes. Selon le ministère des Armées, les soldats africains représentent près de la moitié des combattants : tirailleurs algériens, marocains, tunisiens et « sénégalais », goumiers marocains, mais aussi volontaires des Antilles et du Pacifique. Le 28 août, Toulon se rend à la 9e division d'infanterie coloniale et Marseille au général de Monsabert, un mois avant la date prévue.\n\nLeur histoire a pourtant été malmenée. À l'automne 1944, environ 15 000 tirailleurs africains sont retirés de la 1re armée et remplacés par des FFI. Puis leurs pensions sont gelées à partir de 1959-1960, simplement parce que leurs pays étaient devenus indépendants. Il a fallu attendre 2010 pour que le Conseil constitutionnel juge cette différence contraire à l'égalité.",
+    "detaille": "Dire que les soldats des colonies n'ont pas joué de rôle dans la Libération, c'est effacer une partie essentielle de l'histoire de France. Après le débarquement de Normandie, les Alliés débarquent en Provence le 15 août 1944. L'armée française, dite armée B, puis 1re armée, est commandée par le général de Lattre de Tassigny. Elle compte environ 250 000 à 260 000 hommes selon le ministère des Armées, sur 350 000 soldats alliés engagés dans l'opération.\n\nCette armée vient en très grande partie d'Afrique. Selon le ministère des Armées, les soldats africains représentent « près de la moitié » des combattants ; la présidence de la République parle d'une « très grande majorité » venue d'Afrique et de l'Empire colonial, en comptant les Européens d'Afrique du Nord. On y trouve la 2e division d'infanterie marocaine, la 3e division d'infanterie algérienne, la 4e division marocaine de montagne, les tabors marocains, la 1re division française libre et la 9e division d'infanterie coloniale, avec ses tirailleurs « sénégalais », ainsi que des volontaires des Antilles et du Pacifique.\n\nCes hommes libèrent le Sud. Le 28 août 1944, la garnison allemande de Toulon se rend au commandant de la 9e division d'infanterie coloniale, et celle de Marseille au général de Monsabert. Les deux ports, conquis un mois avant la date prévue, permettent ensuite le passage de plus de 900 000 hommes. Beaucoup de ces soldats avaient déjà combattu en Italie, où les forces françaises ont perdu 7 251 tués.\n\nLa reconnaissance n'a pas suivi. À l'automne 1944, environ 15 000 tirailleurs africains sont retirés de la 1re armée et remplacés par des résistants des FFI. À partir de 1959-1960, les pensions des anciens combattants des pays devenus indépendants sont « cristallisées », c'est-à-dire gelées, sur un critère de nationalité. Il faut attendre l'arrêt Diop du Conseil d'État en 2001, puis la décision du Conseil constitutionnel du 28 mai 2010, pour que cette discrimination soit jugée contraire à l'égalité.\n\nLa Libération est l'œuvre d'une coalition : armées alliées, Résistance intérieure, Français libres et soldats de l'Empire. Reconnaître la place de ces derniers, ce n'est pas diminuer les autres : c'est rendre justice à des hommes qui ont risqué leur vie pour un pays qui les a ensuite oubliés.",
+    "empathie": "Beaucoup de gens n'ont appris à l'école que le débarquement de Normandie et la Résistance : c'est normal de ne pas connaître le rôle des soldats d'Afrique, longtemps peu enseigné. C'est justement une histoire qui mérite d'être racontée."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est le débarquement de Normandie qui a libéré la France.",
+      "reponse": "Le débarquement de Provence du 15 août 1944 a libéré le Sud, Toulon et Marseille, avec une armée française dont près de la moitié des soldats venaient d'Afrique, selon le ministère des Armées."
+    },
+    {
+      "objection": "Ils étaient forcés de se battre, ce n'était pas leur choix.",
+      "reponse": "Beaucoup ont été mobilisés dans un cadre colonial injuste, c'est vrai ; cela ne change rien au fait qu'ils ont combattu et sont morts pour libérer la France, et que leurs pensions ont ensuite été gelées."
+    },
+    {
+      "objection": "De toute façon, c'était surtout des pieds-noirs.",
+      "reponse": "Les Européens d'Afrique du Nord en faisaient partie, mais l'armée B comptait des divisions marocaines, algériennes et coloniales entières, et le ministère des Armées parle de près de la moitié de soldats africains."
+    }
+  ],
+  "questions": [
+    "Savais-tu que Toulon et Marseille ont été libérées par des divisions coloniales et nord-africaines ?",
+    "Trouves-tu juste qu'on ait gelé les pensions de ces soldats parce que leur pays est devenu indépendant ?"
+  ],
+  "limites": [
+    "Les sources lues ne donnent pas de pourcentage précis par origine ; le ministère des Armées parle de « près de la moitié » de soldats africains et la présidence d'une « très grande majorité » venue d'Afrique et de l'Empire.",
+    "Le dossier de presse du ministère des Armées contient une incohérence interne sur l'effectif (250 000 ou 260 000 hommes) et a été lu en partie, à travers un outil de lecture qui résume.",
+    "Le terme de « blanchiment » des troupes n'apparaît pas dans les sources officielles lues, qui décrivent le retrait des tirailleurs sans le nommer ainsi.",
+    "La page Chemins de mémoire sur les soldats d'outre-mer pendant la Seconde Guerre mondiale n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "75e anniversaire du débarquement de Provence — dossier de presse",
+      "organisme": "Ministère des Armées (centre de presse)",
+      "date_publication": "août 2019",
+      "url": "https://archives.defense.gouv.fr/content/download/569461/9790157/Dossier%20de%20presse_De%CC%81barquement%20de%20Provence%202019.pdf",
+      "passage": "L'armée B est « forte de 260 000 hommes » (250 000 sur une autre page) ; les forces alliées comptent 350 000 hommes, dont 230 000 issus des troupes françaises. Les soldats africains représentent « près de la moitié des hommes et des femmes qui ont pris part aux combats ». Divisions : 2e division d'infanterie marocaine, 3e division d'infanterie algérienne, 4e division marocaine de montagne, tabors marocains, 1re division française libre et 9e division d'infanterie coloniale (tirailleurs « sénégalais »), volontaires des Antilles et du Pacifique, Européens d'Afrique du Nord. Le 23 septembre 1944, plus de 137 000 FFI sont amalgamés ; « environ 15.000 tirailleurs africains furent retirés de la 1re armée », « en remplacement des troupes coloniales ». Campagne d'Italie : 7 251 tués, 4 200 disparus, près de 21 000 blessés. La nécropole de Boulouris abrite 464 combattants de la 1re armée tués lors du débarquement.",
+      "pertinence": "Document officiel du ministère des Armées (lu en partie, à travers un outil de lecture qui résume) ; il contient une incohérence interne sur l'effectif (250 000 ou 260 000).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "The landings and battle of Provence",
+      "organisme": "Ministère des Armées — Chemins de mémoire",
+      "date_publication": "non datée (consultée le 19 novembre 2026)",
+      "url": "https://www.cheminsdememoire.gouv.fr/en/landings-and-battle-provence",
+      "passage": "L'armée B regroupe cinq divisions d'infanterie, deux divisions blindées et deux groupements de tabors marocains ; elle comprend des « Muslims from Algeria, Tunisia and Morocco » et des soldats d'Afrique occidentale et équatoriale française. Débarquement le 15 août 1944, l'essentiel de l'armée B débarque le 16 août. À Toulon, la garnison allemande se rend le 28 août au commandant de la 9e division d'infanterie coloniale ; à Marseille, le général de Monsabert reçoit la reddition le 28 août ; les deux ports sont pris environ un mois avant la date prévue. Plus de 900 000 hommes et quatre millions de tonnes de matériel passent ensuite par Marseille et Toulon.",
+      "pertinence": "Page historique du ministère des Armées (version anglaise).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "C'était il y a 75 ans : retour sur le débarquement de Provence",
+      "organisme": "Présidence de la République (elysee.fr)",
+      "date_publication": "14 août 2019",
+      "url": "https://www.elysee.fr/emmanuel-macron/2019/08/14/cetait-il-y-a-75-ans-retour-sur-le-debarquement-de-provence",
+      "passage": "« Environ 250 000 soldats composent cette armée nationale reconstituée » sous le commandement du général de Lattre de Tassigny ; « la très grande majorité vient d'Afrique et de l'Empire colonial ».",
+      "pertinence": "Page institutionnelle de la présidence (sans pourcentage précis).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Commentaire de la décision n° 2010-1 QPC du 28 mai 2010 (Consorts L. — cristallisation des pensions)",
+      "organisme": "Conseil constitutionnel",
+      "date_publication": "28 mai 2010",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/ccqpc-drupal-prd/dqpc/commentaire/commentaire_D%C3%A9cision-n%C2%B0-2010-1-QPC-du-28-mai-2010.pdf",
+      "passage": "La « cristallisation » des pensions, instituée en 1958-1959 puis généralisée par la loi de finances pour 1960, gelait les pensions des ressortissants des anciens territoires sous souveraineté française sur un critère de nationalité. Le Conseil d'État (arrêt Diop, 2001) avait jugé ce critère contraire à la CEDH ; décristallisation partielle en 2002, totale pour les « prestations du feu » en 2007. Le Conseil constitutionnel déclare contraires au principe d'égalité les dispositions de 1981, 2002 et 2006, avec abrogation au 1er janvier 2011.",
+      "pertinence": "Commentaire officiel publié par le Conseil constitutionnel.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2028-08-31",
+  "raison_actualisation": "Nouvelles commémorations et publications du ministère des Armées.",
+  "objections_legitimes": [
+    "La Libération est aussi l'œuvre des armées alliées et de la Résistance intérieure.",
+    "L'armée B comprenait aussi des Européens d'Afrique du Nord et des Français évadés.",
+    "Les chiffres exacts par origine varient selon les sources."
+  ],
+  "publics": {
+    "convaincus": "Regarde le débarquement de Provence : selon le ministère des Armées, près de la moitié des soldats français étaient africains, et ce sont des divisions coloniales et nord-africaines qui ont libéré Toulon et Marseille le 28 août 1944. Ce n'est pas une thèse militante, c'est l'histoire officielle. Et ces hommes ont ensuite vu leurs pensions gelées pendant cinquante ans.",
+    "indecis": "C'est normal de ne pas connaître cette histoire : elle a longtemps été peu racontée. Mais l'armée du général de Lattre, qui a libéré le Sud de la France en 1944, venait en grande partie d'Afrique. Reconnaître leur rôle, ce n'est pas diminuer celui des autres, c'est rendre justice à tous ceux qui se sont battus."
+  },
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "egalite",
+      "dignite",
+      "discriminations"
+    ],
+    "mecanismes": "L’affirmation efface une partie de l’histoire nationale pour réserver la Libération à une France blanche et métropolitaine, et contester la place des descendants des soldats de l’Empire dans la nation.",
+    "consequences": "Cet effacement prolonge les injustices subies par ces soldats : retrait du front à l’automne de la Libération, pensions gelées pendant des décennies, mémoire longtemps négligée.",
+    "democratie": "Une mémoire nationale complète et partagée renforce la citoyenneté de tous ; c’est un juge constitutionnel qui a dû rappeler que l’égalité valait aussi pour les anciens combattants des colonies.",
+    "propositions": [
+      "Inscrire pleinement le rôle des soldats de l’Empire dans les programmes scolaires et les commémorations.",
+      "Soutenir la recherche historique et l’ouverture des archives sur les troupes coloniales.",
+      "Garantir l’égalité réelle des droits pour les derniers anciens combattants et leurs familles."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’armée du débarquement de Provence comprenait aussi des Européens d’Afrique du Nord et des Français évadés, et les sources ne donnent pas de répartition précise par origine.",
+        "integration": "Il ne s’agit pas d’opposer les combattants entre eux : la Libération est l’œuvre d’une coalition, et la reconnaissance due aux soldats des colonies n’enlève rien aux autres."
+      }
+    ]
+  },
+  "concepts": [
+    "origine",
+    "colonisation"
+  ],
+  "repond_a": [],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "algerie francaise",
+    "empire colonial",
+    "indigenat"
+  ]
+}

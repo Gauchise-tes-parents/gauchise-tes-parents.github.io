@@ -1,0 +1,225 @@
+{
+  "id": "tribunaux-charia-royaume-uni",
+  "type": "idee_recue",
+  "affirmation": "Au Royaume-Uni, des tribunaux de la charia remplacent la loi britannique.",
+  "volet": "droits",
+  "sous_theme": "Laïcité",
+  "rubriques": [],
+  "mots_cles": [
+    "tribunaux de la charia royaume uni",
+    "charia en angleterre",
+    "sharia courts londres",
+    "tribunaux islamiques angleterre",
+    "la charia remplace la loi britannique",
+    "sharia councils",
+    "londonistan charia",
+    "85 tribunaux charia",
+    "divorce islamique royaume uni",
+    "justice parallele musulmans angleterre"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Il existe au Royaume-Uni des « sharia councils », entre 30 et au moins 85 selon les estimations, mais ce ne sont pas des tribunaux : selon le gouvernement britannique, la charia « n'a aucune juridiction » en Angleterre et au pays de Galles et leurs décisions ne sont pas juridiquement contraignantes. Ils servent surtout à délivrer des divorces religieux. Le seul arbitrage contraignant possible passe par la loi sur l'arbitrage de 1996, sous le contrôle des tribunaux civils. Le problème réel est ailleurs : des femmes y subissent des pressions et des discriminations, souvent parce que leur mariage religieux n'a aucune valeur civile.",
+  "contexte": "L'image de « tribunaux islamiques » appliquant leur propre loi au cœur de Londres circule depuis des années dans les milieux d'extrême droite pour illustrer une prétendue islamisation de l'Europe. Elle s'appuie sur l'existence réelle de conseils religieux, dont le fonctionnement a été examiné par une revue indépendante commandée par le gouvernement britannique en 2016 et publiée en 2018.",
+  "explication": "On s'appuie sur la revue indépendante du Home Office (2018), la déclaration du gouvernement au Parlement, un débat de la Chambre des communes de 2019 et une dépêche de l'AFP, en distinguant statut juridique, activité réelle et problèmes pour les femmes.",
+  "faits": [
+    {
+      "fait": "Selon la déclaration écrite du gouvernement britannique au Parlement (1er février 2018), « Sharia law has no jurisdiction in England and Wales », et les décisions des sharia councils ne sont pas juridiquement contraignantes.",
+      "periode": "2018",
+      "perimetre": "Angleterre et pays de Galles",
+      "explication": "Ces conseils n'ont aucun pouvoir de juger au nom de l'État : ce ne sont pas des tribunaux.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le débat de la Chambre des communes du 2 mai 2019, le ministre de la Justice a affirmé qu'il n'existe « no parallel system of sharia law in operation in the UK » ; le seul arbitrage contraignant possible relève de l'Arbitration Act 1996, et les décisions du Muslim Arbitration Tribunal ne sont exécutoires que si elles respectent le droit britannique.",
+      "periode": "2019",
+      "perimetre": "Royaume-Uni",
+      "explication": "Même l'arbitrage religieux reste sous le contrôle de la loi et des juges britanniques.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon l'AFP, ces instances traitent surtout de divorces islamiques, qui représentent 90 % de leurs affaires ; leur nombre est incertain : environ 30 selon l'université de Reading, 85 selon le think tank Civitas.",
+      "periode": "2016",
+      "perimetre": "Royaume-Uni",
+      "explication": "Il s'agit surtout de délivrer des divorces religieux, pas de juger des crimes ou des litiges à la place des tribunaux.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "30 à 85"
+    },
+    {
+      "fait": "Selon Law & Religion UK, la revue indépendante présidée par Mona Siddiqui a recommandé d'exiger l'enregistrement civil des mariages islamiques, comme pour les mariages chrétiens et juifs, et a jugé qu'un arbitrage appliquant la charia aux questions financières ou aux enfants « would fall foul of the Arbitration Act ».",
+      "periode": "2018",
+      "perimetre": "Angleterre et pays de Galles",
+      "explication": "La solution proposée est d'étendre la protection du droit civil aux femmes concernées.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la déclaration du gouvernement, la revue a relevé des cas de femmes contraintes à des concessions pour obtenir un divorce et des politiques de protection insuffisantes ; le gouvernement juge cela inacceptable mais refuse de réguler ces conseils, pour ne pas leur donner de légitimité.",
+      "periode": "2018",
+      "perimetre": "Angleterre et pays de Galles",
+      "explication": "Les femmes sont les premières victimes du problème réel, qui n'est pas un remplacement de la loi mais l'absence de protection civile.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'AFP, ces conseils sont accusés de discriminer les femmes, notamment en refusant des divorces religieux à des victimes de violences conjugales, et plus de 200 organisations de femmes ont signé une lettre ouverte contre eux ; selon le débat de 2019, beaucoup de musulmans se marient sans valeur civile sans le savoir.",
+      "periode": "2016-2019",
+      "perimetre": "Royaume-Uni",
+      "explication": "Les dérives sont réelles et dénoncées d'abord par des féministes, y compris musulmanes : la réponse est l'égalité devant la loi civile, pas la stigmatisation des musulmans.",
+      "source": 4,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Les « sharia councils » britanniques ne sont pas des tribunaux : selon le gouvernement, la charia n'a aucune juridiction en Angleterre et leurs décisions ne sont pas contraignantes. Ils délivrent surtout des divorces religieux. Le vrai problème, ce sont les pressions subies par des femmes dont le mariage religieux n'a aucune valeur civile.",
+    "moyen": "Il existe au Royaume-Uni entre 30 et au moins 85 « sharia councils », selon les estimations, mais aucun ne remplace la loi britannique. Le gouvernement l'a rappelé au Parlement en 2018 : la charia n'a aucune juridiction en Angleterre et au pays de Galles, et les décisions de ces conseils ne sont pas contraignantes. En 2019, le ministre de la Justice a confirmé qu'il n'existe aucun système juridique parallèle. Un arbitrage n'est contraignant que dans le cadre de la loi de 1996, sous contrôle des juges civils.\n\nCes conseils servent surtout à délivrer des divorces religieux. C'est là que se trouve le problème réel : des femmes mariées seulement religieusement, sans valeur civile, en dépendent pour être libérées de leur mariage, et la revue indépendante de 2018 a relevé des pressions et des discriminations. Elle recommande d'imposer l'enregistrement civil des mariages, pour que ces femmes aient accès aux droits de tous.",
+    "detaille": "L'expression « tribunaux de la charia » est trompeuse. Les instances en question se nomment elles-mêmes « sharia councils » : ce sont des groupes de savants religieux, parfois un simple imam, qui donnent des avis et prononcent surtout des divorces religieux. Leur nombre est mal connu : environ 30 selon une étude de l'université de Reading, au moins 85 selon le think tank Civitas, qui inclut des instances informelles.\n\nLeur statut juridique est clair. En 2018, en publiant la revue indépendante qu'il avait commandée, le gouvernement britannique a rappelé au Parlement que la charia n'a aucune juridiction en Angleterre et au pays de Galles, et que les décisions de ces conseils ne sont pas juridiquement contraignantes. En 2019, devant les députés, le ministre de la Justice a affirmé qu'il n'existe aucun système parallèle de charia au Royaume-Uni. Un arbitrage religieux n'est possible que dans le cadre de la loi sur l'arbitrage de 1996, sous le contrôle des tribunaux civils, et dans le respect du droit britannique.\n\nLe problème réel concerne les femmes. Beaucoup de mariages religieux sont célébrés sans enregistrement civil, parfois sans que les époux le sachent. Une femme qui veut se séparer n'a alors pas accès au divorce civil et dépend d'un conseil religieux. La revue indépendante a relevé des cas de femmes contraintes à des concessions, et des associations accusent certains conseils de refuser le divorce à des victimes de violences conjugales. Plus de deux cents organisations de femmes ont dénoncé ces pratiques.\n\nLa réponse proposée par la revue n'est pas l'interdiction, qui pousserait ces instances dans la clandestinité, mais l'égalité devant la loi civile : imposer l'enregistrement civil des mariages islamiques, comme pour les mariages chrétiens et juifs, et informer les femmes de leurs droits. C'est une position universaliste : défendre les droits des femmes musulmanes, sans faire croire que la loi britannique aurait cédé la place à une autre.",
+    "empathie": "L'idée d'une justice religieuse parallèle inquiète légitimement quiconque tient à l'égalité devant la loi et aux droits des femmes. Ces inquiétudes méritent des faits précis plutôt que des images fausses."
+  },
+  "contre_arguments": [
+    {
+      "objection": "À Londres, des tribunaux islamiques jugent à la place des juges anglais.",
+      "reponse": "Selon le gouvernement britannique, la charia n'a aucune juridiction en Angleterre et au pays de Galles ; les décisions de ces conseils ne sont pas contraignantes."
+    },
+    {
+      "objection": "Il y en a 85, c'est la preuve d'un système parallèle.",
+      "reponse": "Le chiffre de 85 vient du think tank Civitas et inclut des instances informelles ; une autre étude en compte 30. Le ministre de la Justice a affirmé en 2019 qu'il n'existe aucun système parallèle."
+    },
+    {
+      "objection": "Le Muslim Arbitration Tribunal applique la charia avec la bénédiction de l'État.",
+      "reponse": "Il fonctionne dans le cadre de la loi sur l'arbitrage de 1996 : ses décisions ne sont exécutoires que si elles respectent le droit britannique, sous le contrôle des tribunaux civils."
+    }
+  ],
+  "questions": [
+    "Si une femme ne peut divorcer que devant un conseil religieux, est-ce que la solution n'est pas de lui donner accès au divorce civil ?",
+    "Sais-tu ce qu'un « sharia council » peut réellement décider, et ce qu'il ne peut pas imposer ?"
+  ],
+  "limites": [
+    "Le rapport de la revue indépendante (PDF du Home Office) n'a pas pu être ouvert : ses conclusions sont connues par la déclaration du gouvernement au Parlement et par le résumé de Law & Religion UK.",
+    "La transcription du débat de 2019 a été lue sur un site indépendant qui reproduit le Hansard, à travers un outil de lecture qui résume.",
+    "Les données sont anciennes (2016-2019) et le nombre de conseils reste une estimation ; aucune source plus récente n'a été lue, ni aucune note de la House of Commons Library.",
+    "La dépêche de l'AFP n'a été lue qu'en partie, à travers sa reprise par The Times of Israel."
+  ],
+  "sources": [
+    {
+      "titre": "Written statement HCWS442 — Faith practices (Independent review into the application of sharia law)",
+      "organisme": "Chambre des communes (Hansard), Home Office",
+      "date_publication": "1er février 2018",
+      "url": "https://hansard.parliament.uk/html/Commons/2018-02-01/WrittenStatements",
+      "passage": "« Sharia law has no jurisdiction in England and Wales » ; les décisions des sharia councils ne sont pas juridiquement contraignantes. Le gouvernement rejette la recommandation de réguler ces conseils, car cela leur donnerait une légitimité : « The Government do not consider there to be a role for the state to act in this way. » « Where Sharia councils exist, they must abide by the law. » La revue a relevé des femmes contraintes à des concessions pour obtenir un divorce et des politiques de protection insuffisantes : « This is not acceptable. »",
+      "pertinence": "Déclaration écrite officielle du gouvernement au Parlement, lue à travers un outil de lecture qui résume.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Applying sharia law in England and Wales: independent review",
+      "organisme": "Home Office (gov.uk)",
+      "date_publication": "1er février 2018",
+      "url": "https://www.gov.uk/government/publications/applying-sharia-law-in-england-and-wales-independent-review",
+      "passage": "Revue indépendante lancée en mai 2016, présidée par la professeure Mona Siddiqui avec un panel de juristes et conseillée par deux imams, chargée d'examiner « whether and to what extent the application of sharia law by sharia councils » est compatible avec le droit d'Angleterre et du pays de Galles. Rapport de 48 pages (Cm 9560).",
+      "pertinence": "Page de présentation officielle (le rapport PDF lui-même n'a pas pu être ouvert).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sharia Law Courts — débat de Westminster Hall du 2 mai 2019 (transcription Hansard)",
+      "organisme": "Chambre des communes (transcription publiée par Parallel Parliament)",
+      "date_publication": "2 mai 2019",
+      "url": "https://parallelparliament.co.uk/debate/2019-05-02/commons/westminster-hall/sharia-law-courts",
+      "passage": "Estimations citées : 30 groupes selon une étude de l'université de Reading, au moins 85 selon le think tank Civitas (en incluant des instances informelles) ; pas de définition unique. Les sharia councils ne sont pas des tribunaux et leurs décisions ne sont pas contraignantes ; le Muslim Arbitration Tribunal, créé en 2007, relève de l'Arbitration Act 1996 et ses décisions ne sont exécutoires que si elles respectent le droit britannique. Le ministre Edward Argar : « no parallel system of sharia law in operation in the UK », « one rule of law ». Beaucoup de musulmans se marient sans valeur civile, sans le savoir.",
+      "pertinence": "Transcription du débat parlementaire reproduite par un site indépendant, lue à travers un outil de lecture qui résume.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sharia in England and Wales: report of the independent review",
+      "organisme": "Law & Religion UK (Frank Cranmer)",
+      "date_publication": "1er février 2018",
+      "url": "https://lawandreligionuk.com/?p=41764",
+      "passage": "Recommandations de la revue : modifier le Marriage Act 1949 et le Matrimonial Causes Act 1973 pour exiger un enregistrement civil avant ou lors de la cérémonie islamique, en « bringing Islamic marriage into line with Christian and Jewish marriage » ; mener des campagnes car « cultural change is required within Muslim communities » ; créer un organisme de régulation (point qui n'a pas fait l'unanimité du panel). Un arbitrage appliquant la charia aux questions financières ou aux enfants « would fall foul of the Arbitration Act ».",
+      "pertinence": "Blog juridique spécialisé tenu par des universitaires ; résumé du rapport.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "British ‘sharia courts’ come under scrutiny",
+      "organisme": "AFP (dépêche reprise par The Times of Israel)",
+      "date_publication": "13 novembre 2016",
+      "url": "https://www.timesofisrael.com/british-sharia-courts-come-under-scrutiny/",
+      "passage": "Le nombre de ces instances est incertain : environ 30 selon une étude de l'université de Reading, 85 selon Civitas. Elles traitent surtout des divorces islamiques, 90 % de leurs affaires ; leurs décisions ne sont pas juridiquement contraignantes. Elles sont accusées de discriminer les femmes, notamment en refusant des divorces religieux à des victimes de violences conjugales ; plus de 200 organisations de femmes ont signé une lettre ouverte. Muslim Women's Network UK demande un « strong code of conduct » et le mariage civil obligatoire.",
+      "pertinence": "Dépêche d'agence reprise par un quotidien en ligne ; lue en partie à travers un outil de lecture qui résume.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Éventuelle réforme britannique du droit du mariage et nouvelles études sur les sharia councils.",
+  "objections_legitimes": [
+    "Des femmes subissent réellement des pressions et des discriminations dans certains sharia councils.",
+    "Le nombre et le fonctionnement de ces conseils sont mal connus, faute de définition et de contrôle.",
+    "Beaucoup de mariages religieux n'ont pas de valeur civile, ce qui prive des femmes de leurs droits en cas de séparation."
+  ],
+  "publics": {
+    "convaincus": "Je comprends que l'image choque, mais les faits sont simples : le gouvernement britannique, conservateur à l'époque, a rappelé au Parlement que la charia n'a aucune juridiction en Angleterre et que ces conseils ne peuvent rien imposer. Ils délivrent surtout des divorces religieux. Si tu veux défendre les femmes concernées, la vraie solution est qu'elles aient accès au mariage et au divorce civils, comme tout le monde.",
+    "indecis": "Ton inquiétude pour l'égalité devant la loi est légitime. Ces « sharia councils » existent, mais ce ne sont pas des tribunaux : leurs décisions ne sont pas contraignantes et la loi britannique s'applique à tous. Le vrai problème, documenté par une revue officielle, ce sont des femmes mariées sans valeur civile qui subissent des pressions : la réponse est de renforcer leurs droits civils."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite_fh",
+      "universalite",
+      "antiracisme"
+    ],
+    "mecanismes": "L’image de tribunaux islamiques remplaçant la loi transforme des conseils religieux sans pouvoir juridique en preuve d’une conquête, pour alimenter la peur d’une islamisation et la stigmatisation des musulmans.",
+    "consequences": "Ce fantasme désigne tous les musulmans comme une menace et fait oublier les premières concernées : des femmes privées de droits civils et soumises à des pressions.",
+    "democratie": "L’égalité devant une même loi civile pour toutes et tous est le meilleur rempart contre les dérives religieuses comme contre les discriminations.",
+    "propositions": [
+      "Rendre obligatoire l’enregistrement civil des mariages religieux.",
+      "Informer les femmes de leurs droits et financer l’aide juridique et les associations qui les accompagnent.",
+      "Appliquer fermement la loi commune à toute instance qui exercerait des pressions ou des discriminations."
+    ],
+    "defavorables": [
+      {
+        "fait": "Une revue officielle a relevé des cas de femmes contraintes à des concessions pour obtenir un divorce religieux, et de nombreuses associations féministes dénoncent ces conseils.",
+        "integration": "Ces dérives sont réelles et la gauche doit les combattre au nom de l’égalité entre femmes et hommes ; la réponse est l’accès de toutes au droit civil, pas la suspicion envers une religion."
+      }
+    ]
+  },
+  "concepts": [
+    "charia_uk",
+    "justice",
+    "identite",
+    "islam",
+    "laicite",
+    "charia_lois"
+  ],
+  "repond_a": [
+    {
+      "id": "charia_uk_q1912_islam",
+      "label": "Conseils de la charia au Royaume-Uni"
+    },
+    {
+      "id": "charia_uk_q1912",
+      "label": "Conseils de la charia au Royaume-Uni"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "justice",
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation",
+    "racines",
+    "grand remplacement",
+    "remplacement",
+    "notre culture",
+    "nos valeurs",
+    "nos traditions",
+    "on se croirait"
+  ]
+}

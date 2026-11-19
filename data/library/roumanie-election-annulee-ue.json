@@ -1,0 +1,266 @@
+{
+  "id": "roumanie-election-annulee-ue",
+  "type": "idee_recue",
+  "affirmation": "C'est l'Union européenne qui a fait annuler l'élection présidentielle en Roumanie, fin 2024.",
+  "volet": "politique",
+  "sous_theme": "Union européenne",
+  "rubriques": [],
+  "mots_cles": [
+    "roumanie election annulee",
+    "bruxelles a annule l election roumaine",
+    "georgescu election annulee",
+    "l ue a annule le vote des roumains",
+    "cour constitutionnelle roumaine",
+    "tiktok election roumanie",
+    "coup d etat roumanie ue",
+    "scenario roumain",
+    "georgescu cedh",
+    "ue truque les elections"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. L'élection a bien été annulée, mais par la Cour constitutionnelle roumaine, à l'unanimité, le 6 décembre 2024, après la déclassification par le président roumain de documents des services de renseignement sur une campagne TikTok et des soupçons d'ingérence étrangère en faveur du candidat d'extrême droite Călin Georgescu. La Commission européenne n'a pas pris cette décision et a refusé de la commenter ; elle a ensuite ouvert une enquête contre TikTok. La CEDH a rejeté le recours du candidat et l'élection a été rejouée en mai 2025. La décision reste juridiquement discutée, notamment par la Commission de Venise.",
+  "contexte": "Le premier tour du 24 novembre 2024 avait placé en tête Călin Georgescu, candidat pro-russe d'extrême droite, avec 22,94 % des voix. Depuis, l'extrême droite européenne et des responsables américains présentent cette annulation comme un « coup d'État » de Bruxelles, et l'idée revient pour faire craindre une annulation d'élections ailleurs en Europe.",
+  "explication": "On distingue qui a pris la décision (une juridiction nationale), sur quels motifs, ce qu'a fait l'Union européenne (une procédure contre une plateforme), et ce qu'en ont dit la CEDH et la Commission de Venise du Conseil de l'Europe, qui n'est pas une institution de l'Union.",
+  "faits": [
+    {
+      "fait": "Selon Euronews et le Club des juristes, la Cour constitutionnelle roumaine a annulé à l'unanimité, le 6 décembre 2024, l'ensemble du processus électoral de la présidentielle, en invoquant la nécessité de « garantir l'équité et la légalité du processus électoral ».",
+      "periode": "2024",
+      "perimetre": "Roumanie",
+      "explication": "La décision a été prise par la plus haute juridiction constitutionnelle du pays, pas par une institution européenne.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Fondation Robert Schuman, la Cour constitutionnelle a évoqué des soupçons d'« ingérence russe », 85 000 cyberattaques venues d'une trentaine de pays et environ 25 000 comptes liés à la campagne de Călin Georgescu devenus très actifs dans les deux semaines précédant le vote ; ces éléments venaient de documents du renseignement roumain déclassifiés par le président roumain.",
+      "periode": "2024",
+      "perimetre": "Roumanie",
+      "explication": "Les motifs invoqués sont nationaux : rapports des services roumains sur une manipulation en ligne et un financement suspect de la campagne.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "85 000"
+    },
+    {
+      "fait": "Selon Euronews, le 9 décembre 2024, la Commission européenne a refusé de commenter l'arrêt et déclaré qu'elle « laisse les citoyens roumains décider de leur destin et soutient des élections libres et équitables » ; aucune enquête formelle contre TikTok n'était alors ouverte.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "Au moment de l'annulation, Bruxelles n'avait engagé aucune procédure et se tenait à l'écart de la décision.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Commission européenne, une procédure formelle a été ouverte le 17 décembre 2024 contre TikTok, au titre du règlement sur les services numériques, pour un possible manquement à l'évaluation des risques pour l'intégrité des élections ; elle s'appuie sur les rapports déclassifiés par les autorités roumaines.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "L'action de l'Union vise une plateforme numérique, onze jours après l'annulation, et non le résultat de l'élection.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la CEDH, les requêtes de Călin Georgescu contre l'annulation ont été déclarées irrecevables (décision publiée le 6 mars 2025), le droit à des élections libres de l'article 3 du Protocole n° 1 visant le « corps législatif » et non l'élection présidentielle.",
+      "periode": "2025",
+      "perimetre": "Conseil de l’Europe",
+      "explication": "Le recours européen du candidat a échoué, pour un motif juridique tenant au champ de la Convention.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Fondation Robert Schuman, l'élection a été rejouée : au second tour du 18 mai 2025, Nicusor Dan l'a emporté avec 53,60 % des voix contre 46,40 % au candidat d'extrême droite George Simion, avec une participation de 64,72 % ; Călin Georgescu avait été écarté par la Cour constitutionnelle le 9 mars 2025.",
+      "periode": "2025",
+      "perimetre": "Roumanie",
+      "explication": "Les Roumains ont revoté et l'extrême droite a pu concourir ; la participation a nettement augmenté.",
+      "source": 6,
+      "fiabilite": "etabli",
+      "chiffre": "64,72 %"
+    },
+    {
+      "fait": "Fait défavorable : la décision est contestée sur le plan juridique. Selon le Conseil de l'Europe, la Commission de Venise a rappelé en janvier 2025 qu'une cour ne peut annuler une élection que dans des circonstances précises ; selon Romania Insider, son avis de mars 2025 juge que l'annulation ne devrait intervenir que dans des « extraordinary situations » et que la plupart de ces principes n'ont pas été respectés dans le cas roumain. En Roumanie même, la candidate pro-européenne Elena Lasconi a jugé la décision « illégale, immorale ».",
+      "periode": "2024-2025",
+      "perimetre": "Roumanie",
+      "explication": "On peut critiquer la décision et la faiblesse de sa motivation sans en faire un complot de Bruxelles : ce débat porte sur une juridiction roumaine.",
+      "source": 5,
+      "fiabilite": "debat"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non : c'est la Cour constitutionnelle roumaine qui a annulé l'élection, le 6 décembre 2024, à l'unanimité, sur la base de rapports du renseignement roumain sur une campagne TikTok et des soupçons d'ingérence étrangère. La Commission européenne a refusé de commenter et n'a ouvert qu'ensuite une enquête contre TikTok. L'élection a été rejouée en mai 2025 ; la décision reste juridiquement discutée.",
+    "moyen": "L'annulation est bien réelle, mais elle a été décidée en Roumanie. Le 6 décembre 2024, la Cour constitutionnelle roumaine a annulé à l'unanimité tout le processus électoral, deux jours après que le président roumain a déclassifié des rapports des services de renseignement : campagne massive sur TikTok, environ 25 000 comptes soudain très actifs, financement suspect, 85 000 cyberattaques. La Commission européenne a refusé de commenter l'arrêt ; elle a ouvert onze jours plus tard une procédure contre TikTok, qui vise la plateforme, pas le vote.\n\nLe candidat d'extrême droite Călin Georgescu a saisi la CEDH, qui a jugé sa requête irrecevable en mars 2025. L'élection a été rejouée en mai 2025, avec une participation de 64,72 %. Il reste un vrai débat : la Commission de Venise du Conseil de l'Europe juge qu'une annulation doit rester exceptionnelle et très bien motivée, et la décision roumaine a été critiquée sur ce point. Mais c'est une controverse sur une juridiction nationale, pas la preuve d'un coup de Bruxelles.",
+    "detaille": "Le 24 novembre 2024, Călin Georgescu, candidat pro-russe d'extrême droite presque inconnu quelques semaines plus tôt, arrive en tête du premier tour de la présidentielle roumaine avec 22,94 % des voix. Le président roumain déclassifie alors des documents de ses services de renseignement. Selon les sources lues, ils décrivent une campagne de promotion agressive sur TikTok, des faux comptes et des comptes dormants réactivés, environ 25 000 comptes liés à la campagne devenus très actifs juste avant le vote, et plus de 85 000 attaques informatiques. Des enquêtes sont ouvertes pour financement illégal et blanchiment.\n\nLe 6 décembre, la Cour constitutionnelle roumaine annule à l'unanimité l'ensemble du processus électoral, estimant que le caractère sincère du vote a été bafoué. C'est une juridiction nationale, saisie selon le droit roumain. La Commission européenne, interrogée le 9 décembre, refuse de commenter et dit laisser les Roumains décider. Ce n'est que le 17 décembre qu'elle ouvre une procédure contre TikTok, au titre du règlement sur les services numériques, pour savoir si la plateforme a correctement géré les risques pour les élections. Un commissaire européen l'a rappelé en 2026 : le déroulement des élections relève des États membres.\n\nLa suite contredit aussi l'idée d'un pouvoir confisqué. Călin Georgescu a saisi la Cour européenne des droits de l'homme, qui a jugé sa requête irrecevable. L'élection a été rejouée en mai 2025 : le candidat d'extrême droite George Simion était au second tour et a obtenu 46,40 % des voix, contre 53,60 % pour Nicusor Dan, avec une participation de 64,72 %.\n\nIl faut être honnête sur ce qui reste débattu. Annuler une élection est un acte d'une gravité exceptionnelle. La Commission de Venise du Conseil de l'Europe, qui n'est pas une institution de l'Union, a rappelé qu'une telle décision doit rester exceptionnelle, proportionnée et solidement motivée, et son avis de mars 2025 a été lu comme une critique de la décision roumaine. Des responsables roumains, y compris pro-européens, ont dénoncé une décision « illégale ». On peut partager ces critiques et exiger plus de transparence, tout en refusant le récit d'un complot de Bruxelles.\n\nPour la gauche, la leçon est double : protéger les élections contre la manipulation en ligne et l'argent opaque, et exiger que les décisions qui touchent au suffrage soient transparentes, motivées et contrôlables par les citoyens.",
+    "empathie": "Voir une élection annulée après le vote choque, et il est normal de se demander si la volonté des électeurs a été respectée. Cette inquiétude démocratique mérite une réponse précise, pas un slogan."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Bruxelles a ordonné l'annulation parce que le candidat ne lui plaisait pas.",
+      "reponse": "La décision vient de la Cour constitutionnelle roumaine, à l'unanimité. La Commission a refusé de la commenter, et l'Union n'a aucune compétence pour annuler une élection nationale."
+    },
+    {
+      "objection": "L'UE a ensuite puni TikTok pour couvrir son coup.",
+      "reponse": "La procédure ouverte le 17 décembre 2024 vise la gestion des risques par la plateforme ; elle s'appuie sur les rapports déclassifiés par les autorités roumaines et ne préjuge pas de son issue."
+    },
+    {
+      "objection": "Depuis, l'extrême droite est interdite en Roumanie.",
+      "reponse": "Non : en mai 2025, le candidat d'extrême droite George Simion était au second tour et a obtenu 46,40 % des voix. C'est Călin Georgescu personnellement qui a été écarté par la Cour constitutionnelle."
+    }
+  ],
+  "questions": [
+    "Si une campagne avait été manipulée en faveur d'un candidat que tu détestes, voudrais-tu qu'un juge puisse intervenir ?",
+    "Sais-tu qui, en Roumanie, a pris la décision d'annuler le vote ?"
+  ],
+  "limites": [
+    "Les sources ont été lues à travers un outil de lecture qui résume ; les citations courtes sont à revérifier mot pour mot.",
+    "L'avis complet de la Commission de Venise de mars 2025 n'a pas été lu : sa portée critique est connue par un média roumain (Romania Insider) ; le rapport urgent de janvier 2025 n'est connu que par le communiqué du Conseil de l'Europe.",
+    "La décision de la Cour constitutionnelle roumaine n'a pas été lue directement ; ses motifs sont rapportés par la presse et des fondations.",
+    "La réalité et l'ampleur de l'ingérence étrangère reposent en grande partie sur des documents de renseignement, dont la valeur probante reste discutée ; l'issue de la procédure contre TikTok n'a pas été vérifiée.",
+    "La date d'exclusion de Călin Georgescu (9 mars 2025) est celle donnée par la Fondation Robert Schuman ; les étapes exactes (bureau électoral puis Cour constitutionnelle) n'ont pas été vérifiées."
+  ],
+  "sources": [
+    {
+      "titre": "Roumanie : la Cour constitutionnelle annule les résultats du premier tour de l'élection présidentielle",
+      "organisme": "Le Club des juristes (la rédaction)",
+      "date_publication": "9 décembre 2024",
+      "url": "https://www.leclubdesjuristes.com/en-bref/roumanie-la-cour-constitutionnelle-annule-les-resultats-du-premier-tour-de-lelection-presidentielle-8298/",
+      "passage": "La Cour constitutionnelle roumaine a annulé le vendredi 6 décembre 2024, sur le fondement de l'article 146 de la Constitution, les résultats du premier tour et l'ensemble du processus électoral. Călin Georgescu, candidat pro-russe d'extrême droite, était arrivé en tête avec 22,94 % des voix. La décision intervient au lendemain de la déclassification de documents du renseignement faisant état d'une vaste opération de communication en sa faveur, notamment sur TikTok ; des enquêtes pour délits électoraux et blanchiment visent un financement « possiblement » illégal de la campagne. Elena Lasconi (centre droit) estime que la décision « détruisait la démocratie ».",
+      "pertinence": "Site juridique de référence (brève de la rédaction), lu à travers un outil de lecture qui résume.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Bruxelles évite de commenter l'annulation des élections en Roumanie après une décision choc",
+      "organisme": "Euronews",
+      "date_publication": "9 décembre 2024",
+      "url": "https://fr.euronews.com/2024/12/09/bruxelles-evite-de-commenter-lannulation-des-elections-en-roumanie-apres-une-decision-choc",
+      "passage": "La décision de la Cour constitutionnelle a été rendue à l'unanimité le 6 décembre, pour « garantir l'équité et la légalité du processus électoral », deux jours après la déclassification par le président Iohannis de documents évoquant une ascension de Georgescu orchestrée, possiblement par un « acteur étatique », via l'algorithme de TikTok. Le 9 décembre, la porte-parole de la Commission déclare que l'exécutif européen « laisse les citoyens roumains décider de leur destin et soutient des élections libres et équitables » ; aucune enquête n'est annoncée sur l'arrêt. À ce stade, aucune enquête formelle n'est ouverte contre TikTok, mais deux demandes d'information lui ont été adressées.",
+      "pertinence": "Chaîne d'information européenne ; article lu à travers un outil de lecture qui résume.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La Commission ouvre une procédure formelle à l'encontre de TikTok au titre du règlement sur les services numériques",
+      "organisme": "Commission européenne (représentation au Luxembourg)",
+      "date_publication": "17 décembre 2024",
+      "url": "https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/la-commission-ouvre-une-procedure-formelle-lencontre-de-tiktok-au-titre-du-reglement-sur-les-2024-12-17_fr",
+      "passage": "La Commission soupçonne TikTok de ne pas avoir correctement évalué ni atténué les risques pour l'intégrité des élections (systèmes de recommandation, comportements non authentiques, publicité politique), en lien avec la présidentielle roumaine du 24 novembre 2024, en s'appuyant sur des rapports de renseignement déclassifiés par les autorités roumaines. La présidente de la Commission affirme que « des acteurs étrangers se sont servis de TikTok pour interférer dans les élections présidentielles roumaines ». L'ouverture de la procédure ne préjuge pas de son issue.",
+      "pertinence": "Communiqué officiel de la Commission.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Décision d'irrecevabilité concernant la Roumanie (Georgescu c. Roumanie)",
+      "organisme": "Cour européenne des droits de l’homme",
+      "date_publication": "6 mars 2025",
+      "url": "https://www.echr.coe.int/fr/w/inadmissiblity-decision-concerning-romania-1",
+      "passage": "La Cour déclare irrecevables les requêtes de Călin Georgescu contre l'annulation par la Cour constitutionnelle roumaine de l'élection présidentielle de 2024. Motif principal : rien n'indique que le président puisse être considéré comme un élément du « corps législatif » au sens de l'article 3 du Protocole n° 1, qui garantit le droit à des élections libres pour ce corps.",
+      "pertinence": "Communiqué de la CEDH, lu à travers un outil de lecture qui résume.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Conditions and legal standards that could permit a constitutional court to invalidate elections: urgent Venice Commission report",
+      "organisme": "Conseil de l’Europe — Commission de Venise",
+      "date_publication": "27 janvier 2025",
+      "url": "https://www.coe.int/en/web/portal/-/conditions-and-legal-standards-that-could-permit-a-constitutional-court-to-invalidate-elections-urgent-venice-commission-report",
+      "passage": "Rapport urgent demandé par le président de l'Assemblée parlementaire du Conseil de l'Europe : une cour constitutionnelle ne peut annuler une élection que « only under certain circumstances » et si plusieurs conditions et garanties sont réunies. Le rapport s'inspire de l'affaire roumaine (annulation d'office, campagnes numériques, influence d'un autre État) mais précise : « it is not for the Venice Commission to go into the facts of the Romanian case ».",
+      "pertinence": "Communiqué du Conseil de l'Europe (le rapport complet n'a pas été lu).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Venice Commission concludes Romania's annulment of presidential elections was problematic",
+      "organisme": "Romania Insider",
+      "date_publication": "mars 2025",
+      "url": "https://www.romania-insider.com/society/venice-commission-ro-elections-annulment-mar-2025",
+      "passage": "Rapport final de la Commission de Venise adopté lors de la session des 13-15 mars 2025 : sans juger le fond de la décision roumaine, elle rappelle des principes dont la plupart auraient été enfreints selon le média ; l'annulation ne devrait intervenir que dans des « extraordinary situations », si l'intégrité du scrutin est « irremediably affected », de façon proportionnée et par une décision transparente et bien motivée ; elle demande des règles plus explicites sur les campagnes en ligne et leur financement.",
+      "pertinence": "Média roumain anglophone résumant un avis du Conseil de l'Europe (avis lui-même non lu).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Élection présidentielle en Roumanie, 4 et 18 mai 2025 (Observatoire des élections en Europe)",
+      "organisme": "Fondation Robert Schuman",
+      "date_publication": "2025",
+      "url": "https://server.www.robert-schuman.eu/storage/fr/doc/oee/oee-6563-fr.pdf",
+      "passage": "Au second tour du 18 mai 2025, Nicusor Dan (indépendant) l'emporte avec 53,60 % des voix contre 46,40 % à George Simion (AUR) ; participation de 64,72 %. Le 6 décembre 2024, la Cour constitutionnelle avait invalidé le scrutin en évoquant des soupçons d'« ingérence russe », 85 000 cyberattaques venues d'une trentaine de pays et environ 25 000 comptes liés à la campagne de Georgescu devenus très actifs dans les deux semaines précédant le vote. Le 9 mars 2025, la Cour constitutionnelle lui a interdit de se présenter.",
+      "pertinence": "Fondation européenne d'analyse ; document lu à travers un outil de lecture qui résume.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le bouclier européen pour la démocratie n'est pas un cheval de Troie pour truquer la présidentielle",
+      "organisme": "Euronews (vérification)",
+      "date_publication": "10 septembre 2026",
+      "url": "https://fr.euronews.com/2026/09/10/le-bouclier-europeen-pour-la-democratie-nest-pas-un-cheval-de-troie-pour-truquer-la-presid",
+      "passage": "Vérification : l'UE n'a aucune compétence pour modifier des résultats électoraux ; c'est la Cour constitutionnelle roumaine, et non l'UE, qui a annulé le premier tour de 2024 après des soupçons d'ingérence russe en faveur de Călin Georgescu. Le commissaire Michael McGrath rappelle que « le déroulement des élections relève de la compétence des États membres ». La décision, controversée, relevait de la Roumanie.",
+      "pertinence": "Article de vérification d'une chaîne d'information européenne.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Annulation de l'élection présidentielle en Roumanie : un séisme à la réplique inattendue",
+      "organisme": "Fondation Jean-Jaurès (Alexandre Riou)",
+      "date_publication": "12 décembre 2024",
+      "url": "https://www.jean-jaures.org/publication/annulation-de-lelection-presidentielle-en-roumanie-un-seisme-a-la-replique-inattendue/",
+      "passage": "Selon la Cour, le caractère « sincère du vote a de ce fait été bafoué » par des irrégularités à toutes les étapes. Les rapports de renseignement déclassifiés le 5 décembre évoquent une campagne de promotion agressive sur TikTok financée par un compte lié à un homme d'affaires, plus de 85 000 attaques informatiques et l'activation de faux comptes. Critiques en Roumanie : un ancien dirigeant libéral parle d'un « coup d'État », Elena Lasconi d'une décision « illégale, immorale » ; le Premier ministre soutient la décision.",
+      "pertinence": "Note d'un think tank proche de la gauche, écrite par un doctorant ; lue à travers un outil de lecture qui résume.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Issue de la procédure DSA contre TikTok et suites judiciaires en Roumanie.",
+  "objections_legitimes": [
+    "Annuler une élection est un acte d'une gravité exceptionnelle, et la décision roumaine a été critiquée par la Commission de Venise et par des responsables roumains.",
+    "Les preuves de manipulation sont venues de documents des services de renseignement, que les citoyens peuvent difficilement vérifier.",
+    "Le pouvoir des grandes plateformes numériques sur les élections pose une vraie question démocratique."
+  ],
+  "publics": {
+    "convaincus": "Je comprends que l'annulation te choque : elle a choqué beaucoup de monde, y compris des pro-européens roumains. Mais ce n'est pas Bruxelles qui l'a décidée : c'est la Cour constitutionnelle roumaine, à l'unanimité, et la Commission a refusé de commenter. L'élection a été rejouée, et le candidat d'extrême droite George Simion a fait 46 % au second tour. Tu peux critiquer cette décision, mais vise la bonne institution.",
+    "indecis": "Ta question est légitime : annuler un vote, c'est grave. Les faits : une juridiction roumaine l'a décidé après des rapports sur une manipulation via TikTok, la CEDH a rejeté le recours du candidat, et les Roumains ont revoté en mai 2025. Le vrai débat porte sur la solidité de la décision roumaine, pas sur un ordre venu de Bruxelles."
+  },
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "antifascisme",
+      "libertes"
+    ],
+    "mecanismes": "Le récit attribue à Bruxelles une décision prise par une juridiction nationale, pour présenter l’Union comme une puissance qui confisquerait le vote des peuples et faire craindre une annulation ailleurs en Europe.",
+    "consequences": "Cette confusion détourne l’attention des vrais enjeux : la manipulation des élections par des réseaux sociaux opaques, l’argent de campagne non déclaré et l’ingérence d’États étrangers.",
+    "democratie": "Une démocratie doit pouvoir protéger le vote contre la manipulation, mais toute décision qui touche au suffrage doit être transparente, motivée et contrôlable par les citoyens.",
+    "propositions": [
+      "Imposer aux plateformes numériques la transparence de leurs algorithmes et de la publicité politique en période électorale.",
+      "Renforcer le contrôle public du financement des campagnes, y compris en ligne.",
+      "Encadrer strictement les annulations d’élections par des règles claires et des décisions publiquement motivées."
+    ],
+    "defavorables": [
+      {
+        "fait": "La Commission de Venise du Conseil de l’Europe a rappelé qu’une annulation doit rester exceptionnelle, et la décision roumaine a été critiquée, y compris par des responsables pro-européens.",
+        "integration": "La gauche peut partager cette exigence de rigueur : défendre la démocratie, c’est à la fois combattre la manipulation et exiger que les juges motivent solidement des décisions aussi graves."
+      }
+    ]
+  },
+  "concepts": [
+    "roumanie_election",
+    "europe",
+    "loi_constitution",
+    "cedh",
+    "fraude_electorale"
+  ],
+  "repond_a": [
+    {
+      "id": "roumanie_election_q1912",
+      "label": "Annulation de la présidentielle roumaine"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "georgescu",
+    "bruxelles",
+    "union europeenne",
+    "par la loi",
+    "referendum",
+    "conseil constitutionnel",
+    "cour europeenne des droits de l homme",
+    "convention europeenne des droits de l homme"
+  ]
+}

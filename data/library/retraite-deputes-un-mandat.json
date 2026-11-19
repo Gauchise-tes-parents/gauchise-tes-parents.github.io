@@ -1,0 +1,225 @@
+{
+  "id": "retraite-deputes-un-mandat",
+  "type": "idee_recue",
+  "affirmation": "Après un seul mandat, les députés touchent une grosse retraite à vie.",
+  "volet": "politique",
+  "sous_theme": "Institutions françaises",
+  "rubriques": [],
+  "mots_cles": [
+    "retraite des deputes",
+    "retraite a vie apres un mandat",
+    "pension depute un mandat",
+    "retraite des parlementaires",
+    "les deputes ont une retraite en or",
+    "regime special deputes",
+    "retraite senateurs",
+    "combien touche un depute a la retraite",
+    "cinq ans depute retraite",
+    "privileges des elus retraite"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur pour les députés. Un mandat ouvre des droits à pension, comme tout emploi, mais pas une retraite immédiate ni une rente confortable : la pension est calculée au prorata des années cotisées et ne peut être touchée qu'à l'âge légal (64 ans à terme). Pour un mandat de cinq ans, elle était d'environ 664 € nets par mois selon l'Assemblée nationale citée par Public Sénat en 2019. Le régime spécial a été supprimé en 2018 ; il reste en revanche plus généreux au Sénat, où un seul mandat rapportait environ 2 190 € nets en 2019.",
+  "contexte": "L'idée d'une « retraite en or » des élus circule depuis longtemps, souvent nourrie par l'ancien régime des députés, qui était beaucoup plus avantageux. Elle sert à présenter tous les élus comme une caste privilégiée.",
+  "explication": "On compare les règles actuelles décrites par l'Assemblée nationale avec les montants publiés pour un mandat, avant et après la réforme de 2018, et avec le régime du Sénat.",
+  "faits": [
+    {
+      "fait": "Selon l'Assemblée nationale, une réforme décidée le 8 novembre 2017 et entrée en vigueur le 1er janvier 2018 a supprimé le régime complémentaire, réduit la base de calcul de la pension et aligné les bonifications familiales sur la fonction publique.",
+      "periode": "depuis 2018",
+      "perimetre": "Assemblée nationale",
+      "explication": "Le régime des députés a été nettement rapproché du droit commun.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2018"
+    },
+    {
+      "fait": "Selon l'Assemblée nationale, la pension est calculée au prorata des annuités acquises (dans la limite de 42,25 annuités à compter de septembre 2023) et ne peut être liquidée qu'à partir de 62 ans et 3 mois, âge qui monte progressivement à 64 ans selon les règles de droit commun.",
+      "periode": "2023-2026",
+      "perimetre": "Assemblée nationale",
+      "explication": "Un ancien député de quarante ans ne touche rien avant l'âge légal, comme tout le monde.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "64 ans"
+    },
+    {
+      "fait": "Selon Public Sénat (2019), citant le site de l'Assemblée nationale, les droits à retraite ouverts par un mandat de député sont passés de 1 053 € à 664 € nets par mois avec la réforme.",
+      "periode": "2019",
+      "perimetre": "Assemblée nationale",
+      "explication": "Cinq ans de mandat donnent une pension partielle modeste, proportionnelle à la durée.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "664 €"
+    },
+    {
+      "fait": "Selon le site La Retraite en clair, en 2023, la pension pour cinq ans de mandat était de 684,38 € nets par mois.",
+      "periode": "2023",
+      "perimetre": "Assemblée nationale",
+      "explication": "Un ordre de grandeur cohérent avec le chiffre de 2019, à manier avec prudence car la source est privée.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "684 €"
+    },
+    {
+      "fait": "Selon LCP, le Bureau de l'Assemblée a gelé à l'unanimité les pensions des anciens députés pour 2026, pour une économie de 800 000 euros, alors qu'elles sont habituellement revalorisées de plein droit.",
+      "periode": "2026",
+      "perimetre": "Assemblée nationale",
+      "explication": "L'Assemblée décide elle-même de son régime, ce qui alimente la défiance, mais elle l'a resserré.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "800 000 €"
+    },
+    {
+      "fait": "Fait défavorable : selon Public Sénat (2019), la pension moyenne des anciens députés était de 2 675 € nets par mois et, au Sénat, un seul mandat de sénateur rapportait 2 190 € nets par mois ; selon l'Assemblée nationale, la caisse des députés est en partie financée par une subvention du budget de l'Assemblée.",
+      "periode": "2018-2019",
+      "perimetre": "France",
+      "explication": "Le régime sénatorial reste avantageux et les pensions moyennes, qui reflètent l'ancien régime et de longues carrières, sont élevées.",
+      "source": 1,
+      "fiabilite": "estimation",
+      "chiffre": "2 190 €"
+    }
+  ],
+  "argumentaires": {
+    "court": "Pas vraiment. Depuis 2018, la pension d'un député est calculée au prorata des années cotisées et n'est versée qu'à l'âge légal. Pour un mandat de cinq ans, elle était d'environ 664 € nets par mois en 2019 selon l'Assemblée nationale. Le régime du Sénat reste en revanche plus généreux.",
+    "moyen": "Comme tout travailleur, un député cotise et acquiert des droits à pension. Mais depuis la réforme entrée en vigueur le 1er janvier 2018, le régime spécial de l'Assemblée a été supprimé : la pension est calculée au prorata des annuités, et elle n'est versée qu'à partir de l'âge légal, qui passe progressivement de 62 ans et 3 mois à 64 ans. Pour un seul mandat de cinq ans, les droits sont passés de 1 053 € à 664 € nets par mois, selon les chiffres de l'Assemblée cités par Public Sénat en 2019.\n\nIl y a une part de vrai : la pension moyenne des anciens députés reste élevée (2 675 € nets en 2019), car elle reflète l'ancien régime et de longues carrières, et le Sénat garde un régime avantageux, avec environ 2 190 € nets pour un seul mandat. La bonne revendication, c'est d'aligner tous les élus sur le droit commun, pas de faire croire que cinq ans à l'Assemblée garantissent une rente.",
+    "detaille": "L'affirmation mélange plusieurs choses : l'ancien régime des députés, le régime actuel et celui des sénateurs.\n\nJusqu'en 2017, les députés bénéficiaient d'un régime spécial très favorable. Le Bureau de l'Assemblée a décidé le 8 novembre 2017 d'y mettre fin, avec effet au 1er janvier 2018 : suppression du régime complémentaire, réduction de la base de calcul, alignement des bonifications familiales sur la fonction publique. Public Sénat parlait alors de « la fin du régime spécial », pour une économie d'environ dix millions d'euros par an à terme.\n\nAujourd'hui, selon l'Assemblée nationale, la pension est calculée au prorata des annuités, dans la limite de 42,25 annuités, et ne peut être perçue qu'à partir de l'âge légal, qui monte vers 64 ans comme pour tout le monde. Un député cotise 10,85 % de son indemnité. Pour un mandat de cinq ans, les droits sont d'environ 664 € nets par mois selon les chiffres de l'Assemblée cités en 2019 (684 € en 2023 selon un site spécialisé). C'est une pension « à vie », comme toute pension, mais modeste et différée.\n\nLe soupçon de privilège n'est pas pour autant sans fondement. La pension moyenne des anciens députés atteignait 2 675 € nets en 2019, car beaucoup ont cotisé sous l'ancien régime ou pendant plusieurs mandats ; la caisse reçoit une subvention du budget de l'Assemblée ; et au Sénat, un seul mandat de six ans rapportait environ 2 190 € nets par mois en 2019. En décembre 2025, le Bureau de l'Assemblée a gelé les pensions des anciens députés pour 2026.\n\nPour la gauche, l'enjeu n'est pas de nourrir le rejet des élus, mais d'exiger l'égalité : les représentants du peuple devraient relever des mêmes règles que les travailleurs qu'ils représentent, au Sénat comme à l'Assemblée. Et l'on peut retourner la question : ceux qui dénoncent ces pensions défendent-ils aussi une retraite digne pour tous ?",
+    "empathie": "Quand on a travaillé toute sa vie pour une petite pension, l'idée que des élus soient mieux traités est révoltante, et c'est légitime de demander des comptes. Mais il faut viser juste : le régime des députés a été réformé, celui du Sénat beaucoup moins."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Un député touche sa retraite dès la fin de son mandat.",
+      "reponse": "Non : selon l'Assemblée nationale, la pension n'est versée qu'à l'âge légal (vers 64 ans), comme pour les autres assurés."
+    },
+    {
+      "objection": "Cinq ans suffisent pour toucher une grosse pension.",
+      "reponse": "Pour un mandat de cinq ans, les droits sont d'environ 664 € nets par mois selon les chiffres de l'Assemblée cités par Public Sénat. C'est au Sénat que le régime reste généreux."
+    },
+    {
+      "objection": "Rien n'a changé, c'est toujours un régime spécial.",
+      "reponse": "Le régime spécial des députés a été supprimé au 1er janvier 2018 et les pensions des anciens députés ont été gelées pour 2026."
+    }
+  ],
+  "questions": [
+    "Savais-tu que la pension d'un député dépend du nombre d'années cotisées et n'est versée qu'à l'âge légal ?",
+    "Plutôt que de viser les seuls élus, ne faudrait-il pas exiger une retraite digne pour tout le monde ?"
+  ],
+  "limites": [
+    "Les montants pour un mandat (664 € en 2019) et la pension moyenne (2 675 €) viennent de Public Sénat citant le site de l'Assemblée nationale, page qui n'a pas été ouverte ; ces données datent de 2018-2019.",
+    "Le montant de 684,38 € en 2023 vient d'un site d'information privé, à manier avec prudence.",
+    "La fiche officielle de l'Assemblée (janvier 2026) ne donne ni pension moyenne ni montant pour un mandat ; elle a été lue à travers un outil de lecture qui résume.",
+    "Les montants du régime du Sénat datent de 2019 et ont pu changer depuis.",
+    "Le poids de la subvention de l'Assemblée dans le financement de la caisse n'a pas été chiffré."
+  ],
+  "sources": [
+    {
+      "titre": "Fiche de synthèse n° 7 : Situation matérielle du député",
+      "organisme": "Assemblée nationale",
+      "date_publication": "janvier 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/telechargement/631144/file/Fiche%207%20-%20Situation%20mat%C3%A9rielle%20du%20d%C3%A9put%C3%A9.pdf",
+      "passage": "Réforme décidée par le Bureau le 8 novembre 2017, entrée en vigueur le 1er janvier 2018 : suppression du régime complémentaire facultatif, réduction de la base de cotisation et de liquidation, alignement des bonifications familiales sur la fonction publique. La Caisse de pensions des députés est alimentée par une cotisation prélevée sur l'indemnité et par une subvention inscrite au budget de l'Assemblée. Cotisation de 10,85 % depuis le 1er janvier 2020 (828,66 € par mois sur une indemnité de 7 637,39 € brut). Pension calculée au prorata des annuités acquises, dans la limite de 42,25 annuités à compter de septembre 2023 (cible : 43). Âge d'ouverture des droits : 62 ans et 3 mois à compter de septembre 2023, en hausse progressive jusqu'à 64 ans selon les règles de droit commun. L'allocation chômage des anciens députés est alignée sur celle des salariés.",
+      "pertinence": "Fiche officielle de l'Assemblée nationale (lue à travers un outil de lecture qui résume) ; elle ne donne ni pension moyenne ni montant pour un mandat.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La retraite des parlementaires dans le collimateur du gouvernement",
+      "organisme": "Public Sénat",
+      "date_publication": "9 décembre 2019 (mis à jour le 13 décembre 2019)",
+      "url": "https://www.publicsenat.fr/actualites/politique/la-retraite-des-parlementaires-dans-le-collimateur-du-gouvernement-148271",
+      "passage": "Députés : pension moyenne de 2 675 € nets par mois ; pour un mandat cotisé, les droits à retraite sont passés de 1 053 € à 664 €, selon le site de l'Assemblée nationale ; depuis le 1er janvier 2018, régime aligné sur celui de la fonction publique. Sénateurs : pension moyenne d'environ 3 856 € nets (au 1er mars 2018) ; après un seul mandat, 2 190 € nets par mois (contre 1 930 € en 2010). La modification de ces régimes relève des assemblées elles-mêmes.",
+      "pertinence": "Média parlementaire ; chiffres de 2018-2019, citant le site de l'Assemblée nationale (page non ouverte).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Retraite des députés : nouveau régime gravé dans le marbre",
+      "organisme": "Public Sénat",
+      "date_publication": "8 novembre 2017",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/retraite-des-deputes-nouveau-regime-grave-dans-le-marbre-79560",
+      "passage": "Le Bureau de l'Assemblée décide « la fin du régime spécial de retraite des députés » ; les conditions de retraite seront « celles de la fonction publique » ; économie estimée à terme à environ 10 millions d'euros par an ; allocation de fin de mandat alignée sur l'allocation chômage de droit commun au 1er janvier 2018.",
+      "pertinence": "Article de presse parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Bureau de l'Assemblée adopte, à l'unanimité, le gel des pensions des anciens députés pour 2026",
+      "organisme": "LCP-Assemblée nationale (Anne-Charlotte Dusseaulx)",
+      "date_publication": "10 décembre 2025",
+      "url": "https://lcp.fr/index%2ephp/actualites/le-bureau-de-l-assemblee-adopte-a-l-unanimite-le-gel-des-pensions-des-anciens-deputes",
+      "passage": "Les pensions des anciens députés « ne sont pas revalorisées en 2026, à l'exception des pensions d'orphelins et des pensions au titre de l'invalidité » ; économie de 800 000 euros selon une questeure ; ces pensions sont habituellement revalorisées de plein droit au 1er janvier.",
+      "pertinence": "Chaîne parlementaire.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La retraite des parlementaires",
+      "organisme": "La Retraite en clair (site d’information)",
+      "date_publication": "mis à jour le 18 septembre 2025",
+      "url": "https://www.la-retraite-en-clair.fr/parcours-professionnel-regimes-retraite/regimes-speciaux-retraite/retraite-parlementaires",
+      "passage": "En 2023, après cinq ans de mandat, la pension d'un député s'élève à « 684,38 € nets » ; le taux retenu par année décline de 2,11 % (2008) à 1,96 % (2023) ; régime aligné sur celui des fonctionnaires au 1er janvier 2018, droits antérieurs calculés selon les anciennes règles.",
+      "pertinence": "Site d'information privé sur la retraite, à manier avec prudence.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Montants actualisés des pensions des parlementaires et éventuelle réforme du régime du Sénat.",
+  "objections_legitimes": [
+    "Les élus fixent eux-mêmes leur régime de retraite, ce qui pose un problème démocratique.",
+    "Le régime des sénateurs reste nettement plus favorable que celui des députés.",
+    "La pension moyenne des anciens parlementaires est élevée par rapport à celle des Français."
+  ],
+  "publics": {
+    "convaincus": "Je partage ton exigence que les élus ne soient pas des privilégiés. Mais depuis 2018, un député qui fait un seul mandat touche environ 600 à 700 € par mois, et seulement à l'âge légal, comme toi. Si tu veux un combat juste, c'est le régime des sénateurs qu'il faut viser, et l'égalité de tous devant la retraite.",
+    "indecis": "C'est normal de se poser la question, les élus votent leurs propres règles. Les faits : la pension d'un député est proportionnelle aux années cotisées, environ 664 € nets pour cinq ans selon l'Assemblée, et versée à l'âge légal. Le Sénat reste plus généreux : c'est là que la critique porte vraiment."
+  },
+  "lecture": {
+    "valeurs": [
+      "egalite",
+      "democratie",
+      "travailleurs"
+    ],
+    "mecanismes": "L’affirmation s’appuie sur l’ancien régime spécial des députés, supprimé depuis, et sur le régime toujours généreux du Sénat, pour décrire une rente immédiate qui n’existe pas à l’Assemblée.",
+    "consequences": "Ce cliché alimente le rejet global des élus et détourne l’attention du vrai sujet : la dégradation des retraites de l’ensemble des travailleurs.",
+    "democratie": "Les élus ne devraient pas décider seuls de leurs propres avantages : l’alignement sur le droit commun et la transparence renforcent la confiance démocratique.",
+    "propositions": [
+      "Aligner entièrement les régimes de retraite des députés et des sénateurs sur le droit commun.",
+      "Publier chaque année les montants moyens des pensions des anciens parlementaires et le coût pour les finances publiques.",
+      "Garantir une retraite digne à tous, avec un minimum de pension au niveau du salaire minimum pour une carrière complète."
+    ],
+    "defavorables": [
+      {
+        "fait": "Le régime du Sénat reste nettement plus favorable et la pension moyenne des anciens parlementaires est élevée.",
+        "integration": "La critique est fondée sur ce point : la gauche réclame l’égalité de tous devant la retraite, élus compris, sans nourrir le mépris de la démocratie."
+      }
+    ]
+  },
+  "concepts": [
+    "retraite_deputes",
+    "prestations",
+    "retraite",
+    "deputes_indemnite"
+  ],
+  "repond_a": [
+    {
+      "id": "retraite_deputes_q1912",
+      "label": "Retraite des parlementaires"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ]
+}

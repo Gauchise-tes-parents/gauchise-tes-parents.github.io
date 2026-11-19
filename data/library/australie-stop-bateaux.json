@@ -1,0 +1,254 @@
+{
+  "id": "australie-stop-bateaux",
+  "type": "idee_recue",
+  "affirmation": "Il faut faire comme l'Australie, qui a stoppé les bateaux de migrants.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et asile",
+  "rubriques": [],
+  "mots_cles": [
+    "faire comme l australie",
+    "australie stop bateaux",
+    "operation sovereign borders",
+    "australie migrants nauru",
+    "manus detention australie",
+    "modele australien immigration",
+    "australie refoule les bateaux",
+    "no way australie",
+    "centres offshore demandeurs asile",
+    "externaliser l asile"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. L'Australie a bien quasiment arrêté les arrivées par bateau à partir de 2013-2014, en refoulant les embarcations et en enfermant les demandeurs d'asile sur des îles du Pacifique (Nauru, Manus). Mais ce modèle a coûté des milliards (plus de 570 000 dollars australiens par personne et par an selon l'auditeur public, puis plusieurs millions par personne), a été jugé illégal par la Cour suprême de Papouasie-Nouvelle-Guinée en 2016 et condamné par le HCR pour les souffrances causées. Il n'est pas transposable à la France, pays aux frontières terrestres : même en Australie, beaucoup de demandeurs d'asile arrivent en avion.",
+  "contexte": "Le « modèle australien » est régulièrement cité à droite et à l'extrême droite européennes comme preuve qu'on peut « arrêter » l'immigration. Il repose sur l'opération militaire Operation Sovereign Borders lancée en 2013 et sur la détention « offshore » des demandeurs d'asile arrivés par la mer.",
+  "explication": "On regarde ce que la politique a réellement obtenu (arrivées par bateau), à quel prix humain, financier et juridique, et si les conditions géographiques sont comparables à celles de la France.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : selon la bibliothèque du Parlement australien, il n'y a eu qu'une seule arrivée par bateau en Australie en 2014 ; depuis fin 2013, 33 bateaux et 810 personnes ont été refoulés (données à fin juin 2018).",
+      "periode": "2013-2018",
+      "perimetre": "Australie",
+      "explication": "Sur son objectif affiché, arrêter les bateaux, la politique a fonctionné.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "33 bateaux"
+    },
+    {
+      "fait": "Selon la bibliothèque du Parlement australien, 3 127 personnes ont été transférées à Nauru et en Papouasie-Nouvelle-Guinée entre le 19 juillet 2013 et le 27 février 2017.",
+      "periode": "2013-2017",
+      "perimetre": "Australie",
+      "explication": "Le « succès » repose sur l'enfermement de milliers de personnes loin du territoire australien.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "3 127"
+    },
+    {
+      "fait": "Selon l'Australian National Audit Office, cité par une commission du Sénat australien, détenir une personne à Nauru ou Manus coûtait 574 111 dollars australiens par an ; sur 2,3 milliards de paiements entre 2012 et 2016, 1,1 milliard avait été approuvé sans l'autorisation requise.",
+      "periode": "2012-2016",
+      "perimetre": "Australie",
+      "explication": "Le dispositif est extrêmement coûteux et a été mal contrôlé.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "574 111 $"
+    },
+    {
+      "fait": "Selon Human Rights Watch, d'après le budget du ministère australien de l'Intérieur, la détention à Nauru a coûté environ 560 millions de dollars australiens en 2024-2025 pour une centaine de personnes, soit environ 5,6 millions par personne, contre 3 962 dollars par an pour un demandeur d'asile vivant dans la communauté ; le coût total est estimé à 12 milliards de 2012 à 2024 par le Refugee Council of Australia.",
+      "periode": "2012-2025",
+      "perimetre": "Australie",
+      "explication": "Le modèle coûte des sommes considérables pour très peu de personnes.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "5,6 millions"
+    },
+    {
+      "fait": "En avril 2016, la Cour suprême de Papouasie-Nouvelle-Guinée a jugé à l'unanimité que la détention des demandeurs d'asile sur l'île de Manus était inconstitutionnelle et illégale ; environ 900 hommes y étaient détenus.",
+      "periode": "2016",
+      "perimetre": "Papouasie-Nouvelle-Guinée",
+      "explication": "Le cœur du dispositif a été jugé contraire au droit à la liberté.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "900"
+    },
+    {
+      "fait": "En juillet 2017, le haut-commissaire des Nations unies pour les réfugiés a demandé à l'Australie de mettre fin « immédiatement » au traitement offshore, qui a causé des souffrances « étendues et évitables », séparé des familles et provoqué des dommages physiques et psychologiques.",
+      "periode": "2017",
+      "perimetre": "Australie",
+      "explication": "L'agence de l'ONU chargée des réfugiés condamne la politique.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la bibliothèque du Parlement australien, la majorité des demandeurs d'asile arrivaient historiquement en avion (99,4 % en 2006-2007, 51,5 % en 2013-2014) ; en 2013, l'Australie a reçu 24 300 demandes d'asile, contre 60 100 pour la France et 484 600 pour l'Europe.",
+      "periode": "2006-2014",
+      "perimetre": "Australie et Europe",
+      "explication": "Une île-continent sans frontière terrestre n'est pas comparable à un pays de l'espace Schengen.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "24 300"
+    }
+  ],
+  "argumentaires": {
+    "court": "L'Australie a bien arrêté les bateaux, mais au prix d'îles-prisons jugées illégales par la Cour suprême de Papouasie-Nouvelle-Guinée, condamnées par le HCR et payées des milliards (environ 5,6 millions de dollars australiens par personne en 2024-2025 selon Human Rights Watch). Et la France n'est pas une île : ses frontières sont terrestres.",
+    "moyen": "Sur son objectif affiché, la politique australienne a fonctionné : depuis fin 2013, des bateaux ont été refoulés en mer et les arrivées sont devenues presque nulles. Mais le prix est énorme. Plus de 3 000 personnes ont été enfermées à Nauru et sur l'île de Manus ; la Cour suprême de Papouasie-Nouvelle-Guinée a jugé cette détention inconstitutionnelle en 2016, et le HCR a dénoncé des souffrances « évitables ». Selon l'auditeur public australien, une personne détenue coûtait 574 111 dollars par an ; en 2024-2025, environ 5,6 millions par personne selon Human Rights Watch.\n\nEt ce modèle n'est pas transposable. L'Australie est une île-continent, loin de tout conflit, sans frontière terrestre ; même là, la majorité des demandeurs d'asile arrivaient historiquement en avion. La France, elle, est au cœur de l'espace Schengen. Copier l'Australie, ce serait dépenser des fortunes pour enfermer des gens loin des regards, en violant le droit d'asile, sans régler la question.",
+    "detaille": "Il faut reconnaître un fait : l'Australie a bien stoppé les bateaux. Après le lancement d'Operation Sovereign Borders en 2013, l'armée a refoulé 33 embarcations et 810 personnes jusqu'à mi-2018, et il n'y a eu qu'une seule arrivée par bateau en 2014, selon la bibliothèque du Parlement australien.\n\nCe résultat repose sur un système d'enfermement hors du territoire. Entre juillet 2013 et février 2017, 3 127 personnes ont été transférées à Nauru et en Papouasie-Nouvelle-Guinée. En avril 2016, la Cour suprême de Papouasie-Nouvelle-Guinée a jugé à l'unanimité que la détention sur l'île de Manus violait le droit à la liberté. En juillet 2017, le haut-commissaire des Nations unies pour les réfugiés a demandé d'y mettre fin immédiatement, dénonçant des familles séparées et des dommages physiques et psychologiques.\n\nLe coût est vertigineux. L'Australian National Audit Office a calculé qu'une personne détenue à Nauru ou Manus coûtait 574 111 dollars australiens par an, et a relevé que 1,1 milliard de paiements avait été approuvé sans l'autorisation requise. En 2024-2025, selon Human Rights Watch, le dispositif coûtait encore environ 560 millions pour une centaine de personnes, soit 5,6 millions par tête, contre moins de 4 000 dollars pour un demandeur d'asile hébergé dans la communauté. Le Refugee Council of Australia estime le total à 12 milliards depuis 2012.\n\nEnfin, la comparaison ne tient pas. L'Australie est une île éloignée ; même chez elle, les demandeurs d'asile arrivaient majoritairement en avion avant 2012. En 2013, elle a reçu 24 300 demandes d'asile, contre 60 100 pour la France et 484 600 pour l'Europe. La France a des frontières terrestres avec ses voisins européens et est liée par le droit européen et la Convention européenne des droits de l'homme. La vraie question n'est pas de cacher les exilés sur une île, mais d'organiser un accueil digne, des voies légales et une solidarité européenne.",
+    "empathie": "On peut comprendre l'envie d'une solution simple qui « marche » face aux images de naufrages et de traversées dangereuses. Mais il faut regarder en entier ce que la solution australienne a coûté, humainement et financièrement."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ça marche, il n'y a plus de bateaux.",
+      "reponse": "Oui, mais au prix de détentions jugées illégales par la Cour suprême de Papouasie-Nouvelle-Guinée et d'environ 5,6 millions de dollars australiens par personne en 2024-2025, selon Human Rights Watch."
+    },
+    {
+      "objection": "On pourrait envoyer les migrants sur une île nous aussi.",
+      "reponse": "La France est liée par la Convention européenne des droits de l'homme et a des frontières terrestres : l'essentiel des demandeurs d'asile n'arrive pas par bateau. Même en Australie, beaucoup arrivaient en avion."
+    },
+    {
+      "objection": "C'est dissuasif, donc moins de morts en mer.",
+      "reponse": "Le HCR, qui défend aussi la sauvegarde des vies en mer, a demandé l'arrêt immédiat de ce système à cause des souffrances qu'il cause, et propose des alternatives comme les voies légales."
+    }
+  ],
+  "questions": [
+    "Est-ce que tu serais d'accord pour payer plusieurs millions d'euros par personne enfermée sur une île ?",
+    "Comment fermer par la mer un pays qui a des frontières terrestres avec ses voisins ?"
+  ],
+  "limites": [
+    "Les données sur les modes d'arrivée datent de 2013-2014 ; les chiffres récents des demandes d'asile en Australie n'ont pas été lus.",
+    "Le rapport de la commission du Sénat australien a été lu sur une page dont le titre complet et la date ne sont pas affichés (2017 d'après son contenu).",
+    "La date de la déclaration du HCR (juillet 2017) est déduite de l'adresse d'archive et de reprises de presse.",
+    "Les coûts récents viennent de Human Rights Watch et du Refugee Council of Australia, qui s'appuient sur les budgets officiels non consultés directement.",
+    "Les pages ont été lues à travers un outil de lecture qui résume."
+  ],
+  "sources": [
+    {
+      "titre": "Boat 'turnbacks' since 2001 (Quick Guide)",
+      "organisme": "Parlement australien, Parliamentary Library (Harriet Spinks)",
+      "date_publication": "20 juillet 2018",
+      "url": "https://aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/pubs/rp/rp1819/Quick_Guides/BoatTurnbacksSince2001",
+      "passage": "Depuis fin 2013, dans le cadre d'Operation Sovereign Borders, 33 bateaux et 810 personnes (équipages compris) ont été refoulés ; le ministre déclarait le 16 juillet 2018 : « We've turned back 33 boats containing over 800 people ». « 3127 people had been transferred since 19 July 2013 » vers Nauru et la Papouasie-Nouvelle-Guinée, au 27 février 2017.",
+      "pertinence": "Note de la bibliothèque du Parlement australien, données arrêtées au 30 juin 2018.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Asylum seekers and refugees: what are the facts?",
+      "organisme": "Parlement australien, Parliamentary Library (Janet Phillips)",
+      "date_publication": "2 mars 2015",
+      "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1415/AsylumFacts",
+      "passage": "Demandes d'asile déposées sur le territoire : arrivées par avion 99,4 % en 2006-2007, 31,6 % en 2012-2013, 51,5 % en 2013-2014 ; en 2014, une seule arrivée par bateau. En 2013, demandes d'asile : Allemagne 109 600, France 60 100, Australie 24 300 ; l'Europe en a reçu 484 600. Le HCR estime que 207 000 personnes ont traversé la Méditerranée par bateau en 2014.",
+      "pertinence": "Note de la bibliothèque du Parlement australien ; données anciennes (2013-2014).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Serious allegations of abuse, self-harm and neglect of asylum seekers in relation to the Nauru Regional Processing Centre — chapitre 5 : The management of expenses associated with offshore processing",
+      "organisme": "Parlement australien, Sénat, Legal and Constitutional Affairs References Committee",
+      "date_publication": "2017 (date déduite du contenu)",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Legal_and_Constitutional_Affairs/NauruandManusRPCs/Report/c05",
+      "passage": "Le ministère dit être financé pour environ 1 milliard de dollars australiens par an pour les centres offshore. Selon l'Australian National Audit Office (ANAO), détenir une personne à Nauru ou Manus coûtait 574 111 dollars par an. L'ANAO juge la gestion des contrats « well-short of effective contract management practice » : sur 2,3 milliards de paiements (septembre 2012-avril 2016), 1,1 milliard a été approuvé sans l'autorisation requise et aucune trace n'indique qui a autorisé 1,1 milliard de plus.",
+      "pertinence": "Rapport d'une commission du Sénat australien reprenant les audits de l'ANAO (titre et date du rapport non affichés sur la page lue).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "PNG court decision forces Australia to act on Manus Island detainees",
+      "organisme": "UNSW Sydney (Madeline Gleeson, Kaldor Centre ; publié aussi dans The Conversation)",
+      "date_publication": "27 avril 2016",
+      "url": "https://www.unsw.edu.au/news/2016/04/png-court-decision-forces-australia-to-act-on-manus-island-detai",
+      "passage": "Une formation de cinq juges de la Cour suprême de Papouasie-Nouvelle-Guinée a jugé à l'unanimité que la détention des demandeurs d'asile sur l'île de Manus est inconstitutionnelle et illégale, au nom du droit à la liberté ; « That detention must end immediately ». Environ 900 hommes y étaient encore détenus.",
+      "pertinence": "Analyse d'une chercheuse spécialiste du droit des réfugiés, publiée par l'université.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "UNHCR chief Filippo Grandi calls on Australia to end harmful practice of offshore processing",
+      "organisme": "HCR",
+      "date_publication": "juillet 2017",
+      "url": "https://www.unhcr.org/node/18678",
+      "passage": "Environ 2 500 réfugiés et demandeurs d'asile ont été transférés à Nauru et en Papouasie-Nouvelle-Guinée depuis 2013 ; la pratique a causé « extensive, avoidable suffering » ; « Families have been separated and many have suffered physical and psychological harm ». « I urge Australia to bring an immediate end to the harmful practice of offshore processing. »",
+      "pertinence": "Déclaration officielle du haut-commissaire (date non affichée sur la page lue ; juillet 2017 d'après l'adresse d'archive).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Australia: Offshore Detention Cruel, Costly",
+      "organisme": "Human Rights Watch",
+      "date_publication": "1er mars 2026",
+      "url": "https://www.hrw.org/news/2026/03/02/australia-offshore-detention-cruel-costly",
+      "passage": "D'après les documents budgétaires du ministère de l'Intérieur australien, environ 100 personnes vivaient à Nauru en 2024-2025 ; dépense estimée d'« approximately A$560 million » pour le traitement offshore à Nauru, soit environ 5,6 millions de dollars australiens par personne, contre « about A$3,962 » par an pour une personne vivant dans la communauté avec un visa provisoire.",
+      "pertinence": "ONG de défense des droits humains, s'appuyant sur les documents budgétaires officiels.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "The cost of Australia's refugee and asylum policy: a source guide",
+      "organisme": "Kaldor Centre for International Refugee Law (UNSW Sydney)",
+      "date_publication": "mai 2024",
+      "url": "https://unsw.edu.au/content/dam/pdfs/law/kaldor/resources/2024-05-factsheet/2024-05-cost-of-australia%27s-refugee-and-aslyum-policy.pdf",
+      "passage": "Selon le Refugee Council of Australia, le traitement offshore a coûté « A$12 billion » de juillet 2012 à l'exercice 2023-2024 ; en moyenne « at least A$1 billion per year » ; « upwards of A$1.49 billion in 2017-18 ».",
+      "pertinence": "Fiche de synthèse d'un centre de recherche universitaire compilant des sources budgétaires.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Évolution du traitement offshore à Nauru et nouveaux budgets australiens.",
+  "objections_legitimes": [
+    "Les arrivées par bateau ont effectivement presque cessé en Australie après 2013.",
+    "Les traversées en mer sont dangereuses et les passeurs exploitent les exilés.",
+    "Les États ont le droit de contrôler leurs frontières, dans le respect du droit d'asile."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison : l'Australie a bien arrêté les bateaux. Mais regarde comment : des milliers de personnes enfermées sur des îles, une détention jugée illégale par la Cour suprême de Papouasie-Nouvelle-Guinée, et environ 5,6 millions de dollars australiens par personne en 2024-2025. Et la France n'est pas une île : la plupart des gens arrivent par la terre ou l'avion.",
+    "indecis": "Les traversées en mer sont dramatiques, et c'est légitime de chercher des solutions. Mais le modèle australien a coûté des milliards, causé des souffrances dénoncées par le HCR, et ne s'applique pas à un pays aux frontières terrestres comme la France. Des voies légales d'accès et une vraie solidarité européenne sauvent plus de vies pour beaucoup moins cher."
+  },
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "libertes",
+      "vulnerables",
+      "universalite"
+    ],
+    "mecanismes": "Le modèle australien est présenté par son seul résultat visible, la fin des arrivées par bateau, en cachant son prix : des personnes enfermées sur des îles, des décisions de justice qui l’ont condamné et des dépenses considérables.",
+    "consequences": "Importer ce modèle reviendrait à financer à grands frais des camps hors du territoire, à séparer des familles et à violer le droit d’asile, sans effet sur un pays aux frontières terrestres comme la France.",
+    "democratie": "Une politique qui consiste à enfermer des gens loin des regards échappe au contrôle des juges, des journalistes et des citoyens : c’est une menace pour l’État de droit lui-même.",
+    "propositions": [
+      "Ouvrir des voies légales et sûres d’accès à l’asile pour priver les passeurs de leur marché.",
+      "Organiser une répartition solidaire de l’accueil entre pays européens.",
+      "Consacrer l’argent de la dissuasion à un accueil digne et à un examen rapide des demandes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les arrivées par bateau en Australie ont presque cessé après le lancement de la politique de refoulement.",
+        "integration": "Il faut le reconnaître : la dissuasion par la brutalité peut produire des résultats. La question est de savoir si ce prix humain, juridique et financier est acceptable, et la gauche répond que non."
+      }
+    ]
+  },
+  "concepts": [
+    "australie_bateaux",
+    "immigration",
+    "prison",
+    "mer"
+  ],
+  "repond_a": [
+    {
+      "id": "australie_bateaux_q1912",
+      "label": "Politique migratoire de l'Australie"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "stop the boats",
+    "no way",
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "taule",
+    "zonzon",
+    "barreaux",
+    "en mer"
+  ]
+}

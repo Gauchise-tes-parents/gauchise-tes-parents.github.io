@@ -1,0 +1,201 @@
+{
+  "id": "foret-francaise-surface",
+  "type": "idee_recue",
+  "affirmation": "La forêt française n'a jamais été aussi grande, donc il n'y a pas de problème écologique.",
+  "volet": "ecologie",
+  "sous_theme": "Biodiversité",
+  "rubriques": [],
+  "mots_cles": [
+    "foret francaise n a jamais ete aussi grande",
+    "surface forestiere augmente",
+    "la foret progresse en france",
+    "foret francaise va bien",
+    "mortalite des arbres",
+    "puits de carbone foret",
+    "scolytes epiceas",
+    "secheresse forets",
+    "foret capte moins de co2",
+    "deperissement forestier"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Vrai pour la surface, faux pour la conclusion. La forêt couvre 17,6 millions d'hectares, 32 % du territoire, et continue de progresser, selon l'IGN. Mais elle va mal : la mortalité des arbres a augmenté de 125 % en dix ans, la croissance ralentit, et le puits de carbone forestier s'est nettement affaibli depuis 2014 sous l'effet des sécheresses, des scolytes et des maladies, selon l'IGN et le Citepa.",
+  "contexte": "L'argument sert à minimiser la crise écologique ou à contester des politiques environnementales : si la forêt grandit, la nature irait bien. Il s'appuie sur un fait vrai, la progression des surfaces boisées depuis un siècle.",
+  "explication": "On distingue l'étendue de la forêt (surface) et son état (mortalité, croissance, stockage du carbone), à partir de l'inventaire forestier national de l'IGN et de l'inventaire des émissions du Citepa.",
+  "faits": [
+    {
+      "fait": "Selon l'inventaire forestier de l'IGN (édition 2025, rapportée par la Banque des Territoires), la forêt couvre 17,6 millions d'hectares, soit 32 % du territoire métropolitain, contre 16,2 millions en 2010 et environ 10 millions il y a un siècle ; elle progresse d'environ 90 000 hectares par an.",
+      "periode": "1925-2025",
+      "perimetre": "France métropolitaine",
+      "explication": "La première partie de l'affirmation est exacte : la surface forestière augmente.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "17,6 Mha"
+    },
+    {
+      "fait": "Selon la même édition de l'inventaire, le volume d'arbres morts est passé de 7,4 millions de m³ par an (2005-2013) à 16,7 millions de m³ par an (2015-2023), soit une hausse de 125 % en dix ans.",
+      "periode": "2005-2023",
+      "perimetre": "France métropolitaine",
+      "explication": "La forêt s'étend, mais ses arbres meurent beaucoup plus qu'avant.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+125 %"
+    },
+    {
+      "fait": "Selon l'IGN (communiqué 2024), la croissance des arbres a ralenti de 4 %, les prélèvements ont augmenté de 13 %, et le bilan net du volume de bois sur pied est passé de +41,7 à +19,5 millions de m³ par an, soit environ divisé par deux.",
+      "periode": "2005-2022",
+      "perimetre": "France métropolitaine",
+      "explication": "La forêt accumule deux fois moins de bois qu'il y a une dizaine d'années.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "÷ 2"
+    },
+    {
+      "fait": "Selon le Citepa, le puits de carbone des terres et forêts, après une forte progression entre 1990 et 2005, a fortement diminué à partir de 2014, passant d'environ 63 millions de tonnes équivalent CO2 absorbées par an dans les années 2000 à 46 millions en 2017 ; il est estimé à 52 millions en 2024 et ne compense plus qu'environ 14 % des émissions des autres secteurs.",
+      "periode": "1990-2024",
+      "perimetre": "France",
+      "explication": "La forêt rend moins le service climatique sur lequel compte la stratégie de neutralité carbone.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "14 %"
+    },
+    {
+      "fait": "Selon le Citepa et l'IGN, cet affaiblissement s'explique par la hausse de la mortalité après des sécheresses répétées depuis 2015, les crises sanitaires (scolytes sur les épicéas, chalarose sur les frênes), le ralentissement de la croissance et l'augmentation des prélèvements ; 26 % des frênes et 21 % des châtaigniers présentent une altération.",
+      "periode": "2015-2025",
+      "perimetre": "France",
+      "explication": "Le changement climatique est au cœur du problème : la forêt en est à la fois une victime et un outil de lutte affaibli.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "26 %"
+    },
+    {
+      "fait": "Selon l'article de la Banque des Territoires résumant l'IGN, certaines forêts du nord-est (Thiérache, Ardennes, Lorraine, Jura, Morvan) émettent désormais plus de carbone qu'elles n'en stockent.",
+      "periode": "2015-2023",
+      "perimetre": "Nord-est de la France",
+      "explication": "Localement, la forêt est passée de puits à source de carbone.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Fait défavorable : le stock de carbone dans les arbres vivants continue d'augmenter (82 tonnes par hectare contre 73 en 2009, selon l'IGN rapporté par la Banque des Territoires), et la forêt absorbe toujours du CO2 chaque année.",
+      "periode": "2009-2025",
+      "perimetre": "France métropolitaine",
+      "explication": "La forêt n'est pas « en train de disparaître » : elle reste un atout, mais un atout qui s'affaiblit vite.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "82 tC/ha"
+    }
+  ],
+  "argumentaires": {
+    "court": "La surface augmente, c'est vrai : 17,6 millions d'hectares, 32 % du territoire. Mais la mortalité des arbres a augmenté de 125 % en dix ans et le puits de carbone forestier s'est nettement affaibli depuis 2014, à cause des sécheresses, des scolytes et des maladies, selon l'IGN et le Citepa. Plus grande ne veut pas dire en bonne santé.",
+    "moyen": "La forêt française progresse bien en surface : 17,6 millions d'hectares en 2025, contre 16,2 millions en 2010 et environ 10 millions il y a un siècle, selon l'IGN.\n\nMais l'état de la forêt se dégrade. Le volume d'arbres morts chaque année a augmenté de 125 % en dix ans, la croissance ralentit, et la forêt stocke deux fois moins de bois supplémentaire qu'au début des années 2010. Selon le Citepa, le puits de carbone des terres et forêts a fortement diminué depuis 2014 et ne compense plus qu'environ 14 % des émissions des autres secteurs. Les causes sont connues : sécheresses répétées, scolytes, chalarose. La forêt est une victime du changement climatique, pas une preuve qu'il n'y a pas de problème.",
+    "detaille": "L'affirmation mélange deux choses : la taille de la forêt et sa santé. Sur la taille, elle a raison. Selon l'inventaire forestier national de l'IGN, la forêt couvre 17,6 millions d'hectares, soit 32 % du territoire métropolitain, contre 16,2 millions en 2010 et environ 10 millions il y a un siècle. Elle gagne environ 90 000 hectares par an.\n\nSur la santé, en revanche, les signaux sont mauvais. Le volume d'arbres morts est passé de 7,4 millions de m³ par an entre 2005 et 2013 à 16,7 millions entre 2015 et 2023 : plus 125 %. L'épicéa est ravagé par les scolytes, le frêne par la chalarose, le châtaignier par plusieurs maladies ; un quart des frênes présente une altération. La croissance des arbres a ralenti de 4 %, et le bilan net du volume de bois sur pied a été à peu près divisé par deux.\n\nConséquence directe pour le climat : selon le Citepa, qui tient l'inventaire officiel des émissions, le puits de carbone des terres et forêts a fortement diminué à partir de 2014, passant d'environ 63 millions de tonnes équivalent CO2 absorbées par an dans les années 2000 à 46 millions en 2017, et environ 52 millions en 2024. Il ne compense plus qu'environ 14 % des émissions des autres secteurs. Certaines forêts du nord-est émettent même désormais plus de carbone qu'elles n'en stockent.\n\nLes causes identifiées sont les sécheresses répétées depuis 2015, les canicules, les insectes et champignons qui profitent des arbres affaiblis, mais aussi la hausse des prélèvements. Autrement dit, la forêt subit déjà le changement climatique.\n\nLa forêt reste un atout majeur : son stock de carbone continue d'augmenter. Mais compter sur elle pour compenser nos émissions sans agir ailleurs serait une erreur. Il faut investir dans son adaptation, dans une gestion qui préserve la diversité des essences, et dans des services publics forestiers qui en ont les moyens.",
+    "empathie": "Il est vrai qu'on voit souvent des bois s'étendre là où il y avait des champs, et c'est rassurant. L'IGN le confirme. Mais ceux qui travaillent en forêt voient aussi les épicéas secs et les frênes malades : les deux réalités coexistent."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il y a plus d'arbres qu'avant, donc tout va bien.",
+      "reponse": "Il y a plus de surface, mais deux fois plus d'arbres meurent chaque année qu'il y a dix ans, selon l'IGN. La surface ne dit rien de la santé."
+    },
+    {
+      "objection": "Les forêts meurent à cause des coupes, pas du climat.",
+      "reponse": "Les prélèvements ont augmenté de 13 %, c'est un facteur réel ; mais l'IGN et le Citepa citent d'abord les sécheresses répétées depuis 2015, les canicules, les scolytes et les maladies."
+    },
+    {
+      "objection": "La forêt absorbe notre CO2, inutile d'en faire plus.",
+      "reponse": "Selon le Citepa, elle ne compense plus qu'environ 14 % des émissions des autres secteurs, et ce puits s'est affaibli depuis 2014. Compter sur elle seule est un pari perdu d'avance."
+    }
+  ],
+  "questions": [
+    "Une forêt plus grande mais où les arbres meurent deux fois plus vite, est-ce une forêt en bonne santé ?",
+    "As-tu déjà vu des épicéas desséchés ou des frênes malades près de chez toi ?"
+  ],
+  "limites": [
+    "Le mémento 2025 de l'IGN n'a pas été ouvert directement : ses chiffres viennent d'un article de la Banque des Territoires ; le communiqué 2024 de l'IGN, lu directement, donne des chiffres cohérents mais sur une période antérieure (2014-2022).",
+    "La synthèse Secten 2026 du Citepa a été lue à travers un outil de lecture qui résume ; les valeurs du puits de carbone sont régulièrement révisées (méthodes, nouvelles données).",
+    "Le chiffre de 39 MtCO2 de l'IGN et ceux du Citepa ne portent pas sur le même périmètre (forêt seule ou ensemble des terres) et ne sont pas directement comparables.",
+    "Une page de Vie publique sur le même sujet n'a pas pu être ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Forêts : une mortalité des arbres en forte hausse et un puits de carbone fragilisé",
+      "organisme": "Banque des Territoires (Localtis), d'après l'inventaire forestier national de l'IGN",
+      "date_publication": "15 octobre 2025",
+      "url": "https://www.banquedesterritoires.fr/forets-une-mortalite-des-arbres-en-forte-hausse-et-un-puits-de-carbone-fragilise",
+      "passage": "D'après le mémento de l'inventaire forestier publié par l'IGN le 14 octobre 2025 : la forêt couvre 17,6 millions d'hectares, 32 % du territoire métropolitain (16,2 Mha en 2010, 10 Mha il y a un siècle), et progresse d'environ 90 000 ha par an. La mortalité a augmenté de 125 % en dix ans, de 7,4 Mm³/an (2005-2013) à 16,7 Mm³/an (2015-2023) ; épicéa (scolytes) 2,4 Mm³/an, frêne (chalarose) 1,6 Mm³/an, châtaignier 1,7 Mm³/an. 8 % des arbres présentent une altération (26 % des frênes, 21 % des châtaigniers). La production biologique baisse de 4 %. Le puits de carbone (39 MtCO2 sur 2015-2023) baisse de 38 % par rapport à 2005-2013 ; certaines forêts du nord-est émettent plus de carbone qu'elles n'en stockent.",
+      "pertinence": "Article de la Banque des Territoires (groupe Caisse des dépôts) résumant le mémento 2025 de l'IGN, lu à travers un outil de lecture qui résume ; le mémento lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Communiqué de presse : Mémento de l'inventaire forestier 2024",
+      "organisme": "IGN (Institut national de l'information géographique et forestière)",
+      "date_publication": "10 octobre 2024",
+      "url": "https://www.ign.fr/files/default/2024-10/CP-IGN-memento-forets-2024_0.pdf",
+      "passage": "La forêt couvre 17,5 millions d'hectares, 32 % du territoire (France hexagonale et Corse), et sa surface continue d'augmenter. La mortalité passe de 7,4 Mm³/an (2005-2013) à 15,2 Mm³/an (2014-2022), soit un doublement ; la croissance ralentit de 4 % (91,5 à 87,9 Mm³/an) ; les prélèvements augmentent de 13 % ; le bilan net des flux de bois sur pied passe de +41,7 à +19,5 Mm³/an, soit environ divisé par deux. Les forêts ont absorbé en moyenne 39 millions de tonnes de CO2 par an sur 2014-2022, avec un ralentissement notable ces dernières années. Causes : manque d'eau, températures élevées, sécheresses, canicules, bioagresseurs.",
+      "pertinence": "Communiqué officiel de l'IGN (données de l'édition précédente).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport Secten 2026 — synthèse et messages clés",
+      "organisme": "Citepa (inventaire national des émissions de gaz à effet de serre)",
+      "date_publication": "juin 2026",
+      "url": "https://www.citepa.org/wp-content/uploads/2026/06/Synthese-et-messages-cles-Secten-2026.pdf",
+      "passage": "Le puits de carbone des terres et forêts est estimé à -52 Mt CO2e en 2024 et « compense environ 14 % des émissions des autres secteurs ». « Après une forte progression entre 1990 et 2005, sa capacité a fortement diminué à partir de 2014 », passant d'environ -63 Mt CO2e dans les années 2000 à -46 Mt CO2e en 2017, sous l'effet d'« une hausse importante de la mortalité des arbres, sous l'effet de sécheresses répétées depuis 2015 », des maladies forestières et crises sanitaires (scolytes, chalarose), du ralentissement de la croissance et de l'augmentation des prélèvements. Les révisions de méthode « ne remettent pas en cause la tendance générale à l'affaiblissement du puits forestier ».",
+      "pertinence": "Synthèse de l'organisme chargé de l'inventaire officiel (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-19",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Nouvelle édition du mémento de l'inventaire forestier de l'IGN et nouvel inventaire Secten du Citepa.",
+  "objections_legitimes": [
+    "La surface forestière française augmente réellement depuis un siècle.",
+    "La forêt reste un puits de carbone et son stock de carbone continue de croître.",
+    "Les discours catastrophistes sur la « disparition » de la forêt française sont inexacts."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : la forêt française grandit, l'IGN le confirme. Mais le même IGN montre que la mortalité des arbres a augmenté de 125 % en dix ans, avec les sécheresses et les scolytes. Une forêt plus grande et plus malade, ce n'est pas une bonne nouvelle : c'est le signe que le climat change déjà.",
+    "indecis": "C'est vrai, il y a plus de forêt qu'il y a un siècle, et c'est rassurant. Mais les forestiers et l'IGN constatent que beaucoup plus d'arbres meurent, et que la forêt capte moins de carbone depuis 2014. Il ne s'agit pas de paniquer, mais de soigner un atout précieux qui s'affaiblit."
+  },
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "L’argument utilise un fait vrai, l’extension de la surface boisée, pour masquer la dégradation de la santé des forêts et l’affaiblissement de leur rôle de stockage du carbone.",
+    "consequences": "En faisant croire que tout va bien, on retarde l’adaptation des forêts et on laisse seuls les propriétaires, forestiers et communes qui voient leurs arbres mourir.",
+    "democratie": "Les données de l’inventaire forestier public permettent un débat éclairé : elles doivent être connues de tous et guider des choix collectifs sur la gestion des forêts.",
+    "propositions": [
+      "Donner à l’Office national des forêts et à l’inventaire forestier public les moyens humains nécessaires.",
+      "Financer l’adaptation des forêts en favorisant la diversité des essences plutôt que les monocultures.",
+      "Ne pas compter sur la forêt pour compenser les émissions et réduire celles-ci à la source."
+    ],
+    "defavorables": [
+      {
+        "fait": "La forêt française continue de stocker du carbone et son stock dans les arbres vivants augmente.",
+        "integration": "C’est une bonne nouvelle à reconnaître, mais ce service s’affaiblit rapidement : il faut le protéger, pas s’en servir pour ne rien faire."
+      }
+    ]
+  },
+  "concepts": [
+    "foret_surface",
+    "ecologie",
+    "co2_plantes"
+  ],
+  "repond_a": [
+    {
+      "id": "foret_surface_q1912",
+      "label": "Surface de la forêt française"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "autant d arbres",
+    "nucleaire"
+  ]
+}
