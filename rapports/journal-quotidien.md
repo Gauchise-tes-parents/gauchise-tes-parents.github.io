@@ -2053,3 +2053,4 @@ Variantes familières vérifiées (toutes mènent à la bonne fiche) : « Le CO2
 
   D'ici là, l'onglet affiche les liens vers les deux chaînes.
 - **Tests** : nouveau `tests/unit/direct.test.js` (détection, cache, CORS, adresses du lecteur et du chat, politique de sécurité publiée) ; `tests/e2e/ui.test.js` adapté aux nouveaux onglets.
+- **Branchement** : Worker créé par le propriétaire dans Cloudflare (`gauchise-direct`, dossier racine `worker-direct`). `deploiement.json` reçoit `directBase` = `https://gauchise-direct.marty-goupil.workers.dev`. Tant que l'adresse workers.dev n'est pas activée ou que le secret manque, l'onglet affiche « Pas de live en ce moment » et les liens des chaînes (aucune erreur visible).
