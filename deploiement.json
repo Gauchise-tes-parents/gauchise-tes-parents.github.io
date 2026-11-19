@@ -3,5 +3,7 @@
   "iaBase": null,
   "apiBase": null,
   "questionsBase": null,
-  "_commentaire_questions": "questionsBase : URL https du collecteur de questions sans réponse (worker-questions/, moteur interne v15) ; null = aucune requête, le bouton « Demander une fiche » n'apparaît pas."
+  "_commentaire_questions": "questionsBase : URL https du collecteur de questions sans réponse (worker-questions/, moteur interne v15) ; null = aucune requête, le bouton « Demander une fiche » n'apparaît pas.",
+  "directBase": null,
+  "_commentaire_direct": "directBase : URL https du détecteur de direct (worker-direct/, onglet « Direct ») ; null = onglet Direct sans détection automatique (liens vers les chaînes seulement). Une variable de dépôt GTP_DIRECT_BASE a priorité."
 }

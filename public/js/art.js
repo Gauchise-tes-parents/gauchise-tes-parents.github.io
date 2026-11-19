@@ -323,6 +323,7 @@ export const TAB_ICONS = {
   debat: T('<path d="M3 5 H14 V13 H8 L4 16 V13 H3 Z"/><path d="M17 8 H21 V16 H20 V19 L16 16 H10 V15"/>'),
   thematiques: T('<rect x="3" y="3" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="2"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="2"/>'),
   bibliotheque: T('<path d="M4 4 H8 V20 H4 Z"/><path d="M10 4 H14 V20 H10 Z"/><path d="M16 5 L19.5 4 L22 19 L18.5 20 Z"/>'),
+  direct: T('<circle cx="12" cy="12" r="2.6" fill="currentColor"/><path d="M7.8 7.8 a6 6 0 0 0 0 8.4"/><path d="M16.2 7.8 a6 6 0 0 1 0 8.4"/><path d="M4.6 4.6 a10.5 10.5 0 0 0 0 14.8"/><path d="M19.4 4.6 a10.5 10.5 0 0 1 0 14.8"/>'),
   express: T('<path d="M13 2 L4 14 H11 L10 22 L20 9 H13 Z"/>'),
   info: T('<circle cx="12" cy="12" r="9"/><path d="M12 11 V17"/><path d="M12 7.5 V7.6"/>'),
 };

@@ -20,6 +20,7 @@ import {
   RUBRIQUES, rubriqueById, FIABILITES, STABILITES, TYPES_FICHE, FICHE_TABS, INTERLOCUTEUR, ROBUSTESSES,
 } from './taxonomy.js';
 import { QUIPS, LOADING, LOADING_STRATEGY, STEPS_RESEARCH, pick } from './copy.js';
+import { CHAINES, plateformesEnDirect, urlLecteur, urlChat, urlLive, titreLive } from './direct.js';
 
 // application mobile (Capacitor) : partage natif et bouton retour Android ; sans effet sur le site web
 try { installerNatif(); } catch { /* site web */ }
@@ -1564,12 +1565,9 @@ async function launchLocal(payload) {
 }
 
 // ---------------------------------------------------------------- thématiques
-function viewThemes() {
-  return `<section class="section">
-    <div class="wrap wrap--narrow">
-      <h1 class="page-title">Thématiques</h1>
-      <p class="section-lede">Cinq rubriques à la une, puis dix grands volets. Choisis-en un pour voir ses fiches ou préparer un débat.</p>
-      <h2 class="section-title small">Rubriques</h2>
+/** Rubriques et volets (ancien onglet « Thématiques »), affichés en tête de la bibliothèque. */
+function parcourirThemes() {
+  return `<h2 class="section-title small">Rubriques</h2>
       <div class="rub-list">${RUBRIQUES.map((r) => `<a class="rub-card rub-card--${r.id}" href="#/rubriques/${r.id}">
         <span class="rub-name">${h(r.label)}</span>
         <span class="rub-desc">${h(r.description)}</span>
@@ -1580,9 +1578,7 @@ function viewThemes() {
         <span class="volet-icon" aria-hidden="true">${VOLET_ICONS[v.id]}</span>
         <span class="volet-name">${h(v.label)}</span>
         <span class="volet-count">${v.sousThemes.length ? `${v.sousThemes.length} sous-thèmes` : 'Saisie libre'}</span>
-      </a>`).join('')}</div>
-    </div>
-  </section>`;
+      </a>`).join('')}</div>`;
 }
 
 function viewTheme(id) {
@@ -1590,7 +1586,7 @@ function viewTheme(id) {
   if (!v) return viewNotFound();
   return `<section class="section">
     <div class="wrap wrap--narrow">
-      <p class="crumb"><a href="#/thematiques">Thématiques</a></p>
+      <p class="crumb"><a href="#/bibliotheque">Bibliothèque</a></p>
       <h1 class="page-title"><span class="title-icon" aria-hidden="true">${VOLET_ICONS[v.id]}</span> ${h(v.label)}</h1>
       <a class="btn btn-primary btn-block" href="#/debat" data-start-volet="${v.id}">Préparer un débat sur ce volet</a>
       ${v.sousThemes.length ? `<h2 class="section-title small">Sous-thèmes</h2>
@@ -1606,7 +1602,7 @@ function viewRubrique(id) {
   if (!r) return viewNotFound();
   return `<section class="section">
     <div class="wrap wrap--narrow">
-      <p class="crumb"><a href="#/thematiques">Thématiques</a></p>
+      <p class="crumb"><a href="#/bibliotheque">Bibliothèque</a></p>
       <h1 class="page-title">${h(r.label)}</h1>
       <p class="section-lede">${h(r.description)}</p>
       <aside class="notice" role="note"><p>${h(r.avertissement)}</p></aside>
@@ -1625,7 +1621,9 @@ function viewLibrary(params) {
   return `<section class="section">
     <div class="wrap wrap--narrow">
       <h1 class="page-title">Bibliothèque</h1>
-      <p class="section-lede">La base de connaissances : idées reçues, fiches historiques et réponses aux critiques, avec leurs sources, leur niveau de fiabilité et leur date de vérification. Une fiche ancienne est signalée « À actualiser ».</p>
+      <p class="section-lede">La base de connaissances : idées reçues, fiches historiques et réponses aux critiques, avec leurs sources, leur niveau de fiabilité et leur date de vérification. Une fiche ancienne est signalée « À actualiser ». Parcours-la par rubrique ou par volet, ou cherche directement.</p>
+      ${parcourirThemes()}
+      <h2 class="section-title small" id="toutes-les-fiches">Toutes les fiches</h2>
       <form class="library-search" id="library-search" role="search">
         <label class="visually-hidden" for="lib-q">Rechercher</label>
         <input id="lib-q" type="search" placeholder="RSA, délinquance, impôts…" value="${h(q)}">
@@ -1850,6 +1848,7 @@ function viewPrivacy() {
           <tr><td><strong>Réponse de l’IA</strong> (Gemini, seulement si le backend IA est configuré${iaDispo() ? ' — c’est le cas sur ce site' : ' ; ce n’est pas le cas aujourd’hui'})</td><td>Envoyée quand la bibliothèque n’a pas de fiche, ou quand tu cliques sur un bouton de réponse IA, avec le mode choisi et, s’il y en a, tes trois derniers messages de la conversation en cours. Rien n’est enregistré par le site ; une réponse générique (question qui correspond à une fiche) peut rester une heure en cache, sous une clé illisible.</td><td>Notre backend (hébergé par <strong>Cloudflare</strong>), puis <strong>Google</strong> (Gemini et, si besoin, la recherche Google). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté.</td></tr>
           <tr><td><strong>Phase bêta : fiches créées par l’IA</strong></td><td>Une question sans fiche sert à créer, avec Google (Gemini et sa recherche), une fiche publique de la bibliothèque. La fiche ne contient pas ta phrase exacte : l’IA reformule l’idée de façon générale et a pour consigne d’en retirer tout nom ou information personnelle. Elle est enregistrée sur GitHub, dans le dépôt public du site.</td><td>Notre backend (Cloudflare), Google, puis GitHub (la fiche reformulée seulement, sans identité ni adresse IP).</td></tr>
           <tr><td><strong>Demander une fiche</strong> (bouton « Envoyer anonymement ma question », ${QUESTIONS_BASE ? 'activé sur ce site' : 'pas activé sur ce site aujourd’hui'})</td><td>Seulement si tu cliques : le texte de ta question, et rien d’autre (ni profil, ni interlocuteur, ni identifiant). Adresses e-mail, numéros de téléphone et liens sont retirés ; l’adresse IP n’est pas enregistrée. Conservée au plus 90 jours.</td><td>Le collecteur du projet, puis le moteur interne qui prépare les fiches (sans IA). La question peut devenir l’intitulé d’une fiche publique.</td></tr>
+          <tr><td><strong>Direct</strong> (onglet « Direct »${DIRECT_BASE ? '' : ', pas encore activé sur ce site'})</td><td>Rien de ce que tu écris. Le site demande chaque minute au détecteur du projet si un live est en cours, sans cookie ni identifiant. Pendant un live, l’onglet « Direct » charge automatiquement le lecteur de Twitch ou de YouTube (version « sans cookie » de YouTube).</td><td>Le détecteur du projet (Cloudflare) ; pendant un live et seulement dans l’onglet « Direct », Twitch (Amazon) ou YouTube (Google), selon leurs propres règles.</td></tr>
           <tr><td><strong>Connecté</strong> (seulement si un serveur est configuré ; ce n’est pas le cas sur le site public aujourd’hui)</td><td>Envoyée au serveur du site, qui la transmet au fournisseur d’IA pour rechercher des sources et rédiger la réponse. Le serveur garde le dossier en mémoire vive une heure au plus (pour changer de stratégie sans relancer), sans rien écrire sur disque.</td><td>Le serveur du site, puis <strong>Anthropic</strong> (IA et recherche web). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté à la requête.</td></tr>
         </tbody>
       </table></div>
@@ -1902,12 +1901,19 @@ function parseRoute() {
 const TABS = [
   ['/', 'Accueil', 'accueil', (p) => p === '/' || p === '/comment-ca-marche'],
   ['/debat', 'Débat', 'debat', (p) => ['/debat', '/express', '/resultat', '/argumentaire', '/introuvable'].includes(p) || p.startsWith('/argumentaire/')],
-  ['/thematiques', 'Thématiques', 'thematiques', (p) => p.startsWith('/thematiques') || p.startsWith('/rubriques')],
-  ['/bibliotheque', 'Bibliothèque', 'bibliotheque', (p) => p.startsWith('/bibliotheque')],
+  // v15 : Thématiques et Bibliothèque fusionnées en un seul onglet ; l'onglet « Direct » prend sa place
+  ['/bibliotheque', 'Bibliothèque', 'bibliotheque', (p) => p.startsWith('/bibliotheque') || p.startsWith('/thematiques') || p.startsWith('/rubriques')],
+  ['/direct', 'Direct', 'direct', (p) => p === '/direct'],
 ];
 
 function renderTabs(path) {
-  $('[data-tabbar]').innerHTML = TABS.map(([href, label, icon, active]) => `<a href="#${href}" class="tab" ${active(path) ? 'aria-current="page"' : ''}>${TAB_ICONS[icon]}<span>${label}</span></a>`).join('');
+  const live = plateformesEnDirect(direct.statut).length > 0;
+  $('[data-tabbar]').innerHTML = TABS.map(([href, label, icon, active]) => {
+    const estDirect = icon === 'direct';
+    const cls = `tab${estDirect ? ' tab--direct' : ''}${estDirect && live ? ' is-live' : ''}`;
+    const badge = estDirect && live ? '<span class="live-dot" aria-hidden="true"></span><span class="visually-hidden"> (en direct maintenant)</span>' : '';
+    return `<a href="#${href}" class="${cls}" ${active(path) ? 'aria-current="page"' : ''}>${TAB_ICONS[icon]}${badge}<span>${label}</span></a>`;
+  }).join('');
 }
 
 async function render() {
@@ -1939,8 +1945,9 @@ async function render() {
   } else if (path === '/resultat') {
     if (!state.result) html = `<section class="section"><div class="wrap wrap--narrow center"><h1 class="page-title">Aucune analyse en cours</h1><a class="btn btn-primary" href="#/debat">Préparer un débat</a></div></section>`;
     else html = state.result.mode === 'demo' ? renderDemo(state.result) : renderResult(state.result);
-  } else if (path === '/thematiques') {
-    html = viewThemes();
+  } else if (path === '/direct') {
+    html = viewDirect();
+    after = () => { rafraichirDirect(); };
   } else if (theme) {
     html = viewTheme(theme[1]);
     after = () => { const box = $('#theme-fiches'); if (box) loadFiches(box, { volet: theme[1] }, false); };
@@ -1980,7 +1987,7 @@ async function render() {
   } else if (rubrique) {
     html = viewRubrique(rubrique[1]);
     after = () => { const box = $('#rubrique-fiches'); if (box) loadFiches(box, { rubrique: rubrique[1] }, false); };
-  } else if (path === '/bibliotheque') {
+  } else if (path === '/bibliotheque' || path === '/thematiques') {
     html = viewLibrary(params);
     after = () => loadFiches($('#library-results'), { q: params.get('q') || '', volet: params.get('volet') || '', rubrique: params.get('rubrique') || '', fiabilite: params.get('fiabilite') || '' });
   } else if (fiche) {
@@ -2587,6 +2594,97 @@ function surveillerVersion() {
   });
 }
 
+// ---------------------------------------------------------------- direct (Twitch / YouTube)
+// Le site demande seulement au détecteur du projet (worker-direct/, GTP_CONFIG.directBase) si un live est en cours,
+// au plus une fois par minute et seulement quand la page est visible. Le lecteur Twitch ou YouTube n'est chargé
+// que dans l'onglet « Direct », pendant un live.
+const DIRECT_BASE = (typeof window !== 'undefined' && window.GTP_CONFIG?.directBase) ? String(window.GTP_CONFIG.directBase).replace(/\/+$/, '') : '';
+const direct = { statut: null, choix: null, verifie: 0, enCours: null };
+
+async function verifierDirect({ force = false } = {}) {
+  if (!DIRECT_BASE) return direct.statut;
+  if (direct.enCours) return direct.enCours;
+  if (!force && Date.now() - direct.verifie < 55 * 1000) return direct.statut;
+  direct.enCours = (async () => {
+    try {
+      const r = await fetch(`${DIRECT_BASE}/statut`, { credentials: 'omit', referrerPolicy: 'no-referrer', cache: 'no-store' });
+      if (r.ok) direct.statut = await r.json();
+    } catch { /* hors ligne ou détecteur indisponible : on garde le dernier statut connu */ }
+    direct.verifie = Date.now();
+    direct.enCours = null;
+    return direct.statut;
+  })();
+  return direct.enCours;
+}
+
+function signatureDirect() {
+  const s = direct.statut;
+  return JSON.stringify(plateformesEnDirect(s).map((p) => [p, p === 'youtube' ? s.youtube.videoId : s.twitch.login]));
+}
+
+async function rafraichirDirect() {
+  const avant = signatureDirect();
+  await verifierDirect();
+  const { path } = parseRoute();
+  if (signatureDirect() !== avant || (path === '/direct' && $('[data-direct-attente]'))) {
+    renderTabs(path);
+    if (path === '/direct') { const box = $('#direct-zone'); if (box) box.outerHTML = directZoneHtml(); }
+  }
+}
+
+document.addEventListener('click', (ev) => {
+  const b = ev.target.closest?.('[data-direct-choix]');
+  if (!b) return;
+  direct.choix = b.dataset.directChoix;
+  const box = $('#direct-zone');
+  if (box) box.outerHTML = directZoneHtml();
+});
+
+function surveillerDirect() {
+  if (!DIRECT_BASE) return;
+  rafraichirDirect();
+  setInterval(() => { if (document.visibilityState === 'visible') rafraichirDirect(); }, 60 * 1000);
+  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') rafraichirDirect(); });
+}
+
+function directZoneHtml() {
+  const s = direct.statut;
+  const lives = plateformesEnDirect(s);
+  if (!DIRECT_BASE) {
+    return `<div id="direct-zone" class="direct-off"><p>Le direct n’est pas encore branché sur cette version du site. En attendant, retrouve les lives sur les chaînes :</p>${liensChaines()}</div>`;
+  }
+  if (!s && !direct.verifie) return `<div id="direct-zone" class="direct-off" data-direct-attente><p class="hint" role="status">Vérification du direct…</p></div>`;
+  if (!lives.length) {
+    return `<div id="direct-zone" class="direct-off"><p><strong>Pas de live en ce moment.</strong> Dès que Marty lance un direct sur Twitch ou YouTube, il apparaît ici automatiquement (vérification chaque minute).</p>${liensChaines()}</div>`;
+  }
+  const p = lives.includes(direct.choix) ? direct.choix : lives[0];
+  const nom = CHAINES[p].nom;
+  const titre = titreLive(p, s);
+  const lecteur = urlLecteur(p, s, location.hostname);
+  return `<div id="direct-zone" class="direct-on">
+    ${lives.length > 1 ? `<div class="direct-choix" role="group" aria-label="Plateforme">${lives.map((x) => `<button type="button" class="chip" data-direct-choix="${x}" aria-pressed="${x === p}">${h(CHAINES[x].nom)}</button>`).join('')}</div>` : ''}
+    <p class="direct-plateforme"><span class="live-badge live-badge--petit"><span class="live-dot" aria-hidden="true"></span>EN DIRECT</span> sur ${h(nom)}${titre ? ` · <span class="direct-titre">${h(titre)}</span>` : ''}</p>
+    <div class="direct-lecteur"><iframe src="${h(lecteur)}" title="Live de Marty Ducanda sur ${h(nom)}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>
+    <a class="btn btn-primary btn-block direct-chat" href="${h(urlChat(p, s))}" target="_blank" rel="noopener noreferrer">Ouvrir le chat sur ${h(nom)}<span class="visually-hidden"> (nouvel onglet)</span></a>
+    <p class="hint center"><a href="${h(urlLive(p, s))}" target="_blank" rel="noopener noreferrer">Regarder sur ${h(nom)}<span class="visually-hidden"> (nouvel onglet)</span></a> · Le son est coupé au départ : touche le lecteur pour l’activer.</p>
+  </div>`;
+}
+
+function liensChaines() {
+  return `<div class="direct-chaines">${['twitch', 'youtube'].map((p) => `<a class="btn btn-secondary" href="${h(CHAINES[p].url)}" target="_blank" rel="noopener noreferrer">${h(CHAINES[p].nom)}<span class="visually-hidden"> (nouvel onglet)</span></a>`).join('')}</div>`;
+}
+
+function viewDirect() {
+  return `<section class="section">
+    <div class="wrap wrap--narrow">
+      <h1 class="page-title direct-title"><span class="live-badge"><span class="live-dot" aria-hidden="true"></span>LIVE</span> Direct</h1>
+      <p class="section-lede">Les lives de Marty Ducanda, sur Twitch ou sur YouTube, directement dans l’application.</p>
+      ${directZoneHtml()}
+      <p class="hint">Pendant un live, le lecteur est fourni par la plateforme (Twitch ou YouTube), qui reçoit alors ton adresse IP et ses propres cookies. Voir <a href="#/confidentialite">Confidentialité</a>.</p>
+    </div>
+  </section>`;
+}
+
 // ---------------------------------------------------------------- démarrage
 async function init() {
   $('[data-logo]').innerHTML = LOGO_SVG.replace('<svg ', '<svg aria-hidden="true" focusable="false" ');
@@ -2623,6 +2721,7 @@ async function init() {
   updateModePill();
   window.addEventListener('hashchange', render);
   surveillerVersion();
+  surveillerDirect();
   await render();
   if (store.reglages().majAuto && navigator.onLine !== false) {
     kb.checkUpdate().then((r) => { if (r.statut === 'mise_a_jour') toast(`Bibliothèque mise à jour : ${r.nb} fiches.`); }).catch(() => {});

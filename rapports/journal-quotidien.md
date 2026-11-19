@@ -2039,3 +2039,17 @@ Variantes familières vérifiées (toutes mènent à la bonne fiche) : « Le CO2
 - `agriculteurs-revenus` et `senateurs-privileges` reçoivent de `scripts/enrichir-fiches.js` les nouveaux concepts voisins (retraites agricoles, retraite des parlementaires) ; leur contenu ne change pas.
 
 **Vérifications.** `npm test` : 496 tests, 496 réussis, après les corrections ci-dessus. Tests de bout en bout : 46 tests, 46 réussis.
+
+## 19 novembre 2026 — onglet « Direct » et fusion Thématiques / Bibliothèque (demande du propriétaire)
+
+- **Bibliothèque** : l'onglet « Thématiques » est fusionné dans « Bibliothèque ». Les rubriques et les dix volets apparaissent en tête, puis la recherche dans toutes les fiches. Les anciennes adresses `#/thematiques`, `#/thematiques/<volet>` et `#/rubriques/<id>` fonctionnent toujours et activent l'onglet « Bibliothèque ».
+- **Direct** : nouvel onglet avec un logo « LIVE ». Un point rouge clignote sur l'onglet pendant un live. Le lecteur Twitch (`martyducanda`) ou YouTube (`@Martyducanda`, version sans cookie) se lance automatiquement, son coupé. En dessous, le bouton « Ouvrir le chat » renvoie au chat de la plateforme du live.
+- **Détection** : nouveau Worker séparé, `worker-direct/`. Il interroge l'API Twitch (application « gauchise tes parents app », identifiant client public dans `wrangler.toml`) et la page publique `/live` de la chaîne YouTube. Le résultat est gardé en cache 60 s ; le site n'interroge que ce Worker.
+- **Confidentialité** : choix du propriétaire, le lecteur se charge automatiquement. La politique de sécurité n'autorise que `player.twitch.tv` et `www.youtube-nocookie.com` (`frame-src`), et seulement quand le détecteur est configuré. La page Confidentialité gagne une ligne « Direct ».
+- **Reste à faire par le propriétaire** (guide : `docs/DIRECT.md`) :
+  - créer le Worker `gauchise-direct` dans Cloudflare ;
+  - y enregistrer le secret `TWITCH_CLIENT_SECRET` (jamais versionné : le dépôt est public) ;
+  - transmettre l'adresse du Worker, qui deviendra `GTP_DIRECT_BASE` ou `directBase`.
+
+  D'ici là, l'onglet affiche les liens vers les deux chaînes.
+- **Tests** : nouveau `tests/unit/direct.test.js` (détection, cache, CORS, adresses du lecteur et du chat, politique de sécurité publiée) ; `tests/e2e/ui.test.js` adapté aux nouveaux onglets.

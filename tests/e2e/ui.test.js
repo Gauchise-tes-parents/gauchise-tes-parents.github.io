@@ -61,11 +61,18 @@ describe('interface — mode démonstration', { skip }, () => {
     assert.ok(box.y + box.height >= PHONE.height - 2 && box.y > PHONE.height - 100, `barre à y=${box.y}`);
     assert.equal(await page.locator('[data-tabbar] a').count(), 4);
     assert.ok((await overflow(page)) <= 1);
-    await tab(page, 'Thématiques').click();
-    await page.getByRole('heading', { name: 'Thématiques', level: 1 }).waitFor();
-    assert.equal(await tab(page, 'Thématiques').getAttribute('aria-current'), 'page');
+    // v15 : Thématiques et Bibliothèque fusionnées ; l'onglet « Direct » prend la place libérée
+    assert.equal(await tab(page, 'Thématiques').count(), 0);
     await tab(page, 'Bibliothèque').click();
     await page.getByRole('heading', { name: 'Bibliothèque', level: 1 }).waitFor();
+    assert.equal(await page.locator('.volet-link').count(), 10, 'volets dans la bibliothèque');
+    assert.equal(await page.locator('.rub-card').count(), 5, 'rubriques dans la bibliothèque');
+    await tab(page, 'Direct').click();
+    await page.getByRole('heading', { name: /Direct/, level: 1 }).waitFor();
+    assert.equal(await tab(page, 'Direct').getAttribute('aria-current'), 'page');
+    assert.equal(await page.locator('#direct-zone a[href="https://www.twitch.tv/martyducanda"]').count(), 1, 'lien Twitch sans détecteur configuré');
+    assert.equal(await page.locator('#direct-zone a[href="https://www.youtube.com/@Martyducanda"]').count(), 1, 'lien YouTube');
+    assert.equal(await page.locator('iframe').count(), 0, 'aucun lecteur tiers sans live');
     await tab(page, 'Débat').click();
     await page.getByRole('heading', { name: 'À qui parles-tu ?' }).waitFor();
     await tab(page, 'Accueil').click();
@@ -78,7 +85,7 @@ describe('interface — mode démonstration', { skip }, () => {
   for (const vp of SMALL) {
     test(`petit écran ${vp.name} : aucun débordement horizontal`, async () => {
       const page = await newPage(browser, vp, errors);
-      for (const route of ['/', '/debat', '/express', '/thematiques', '/thematiques/politique', '/bibliotheque', '/bibliotheque/delinquance-partout', '/a-propos']) {
+      for (const route of ['/', '/debat', '/express', '/direct', '/thematiques', '/thematiques/politique', '/bibliotheque', '/bibliotheque/delinquance-partout', '/a-propos']) {
         await page.goto(`${s.base}/#${route}`);
         await page.waitForTimeout(150);
         if (route.startsWith('/bibliotheque/')) await page.locator('.verdict-card').waitFor();
@@ -283,7 +290,7 @@ describe('interface — mode démonstration', { skip }, () => {
     await page.locator('.rub-card--melenchon-lfi').click();
     await page.locator('#rubrique-fiches .fiche-card').first().waitFor();
     assert.equal(await page.locator('#rubrique-fiches .fiche-card').count(), FICHES.filter((x) => x.rubriques.includes('melenchon-lfi')).length);
-    assert.equal(await tab(page, 'Thématiques').getAttribute('aria-current'), 'page');
+    assert.equal(await tab(page, 'Bibliothèque').getAttribute('aria-current'), 'page');
     assert.ok((await overflow(page)) <= 1);
     await page.close();
   });

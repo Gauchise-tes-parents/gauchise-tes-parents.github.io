@@ -9,6 +9,7 @@ import { ROOT } from '../server/config.js';
 import { loadLibrary } from '../server/library.js';
 import { buildKb, assetManifest } from '../server/kbexport.js';
 import { watchConfig, readState } from '../server/watch/veille.js';
+import { ORIGINES_LECTEURS } from '../public/js/direct.js';
 
 const OUT = process.env.STATIC_OUT || join(ROOT, 'dist', 'site');
 // Adresses publiques par défaut (deploiement.json, versionné, sans secret) ; les variables d'environnement ont priorité
@@ -26,15 +27,25 @@ const qb = process.env.GTP_QUESTIONS_BASE || DEPLOIEMENT.questionsBase || '';
 const questionsBase = qb === 'aucun' ? '' : qb.replace(/\/+$/, '');
 if (questionsBase && !/^https:\/\/[^\s"'<>/]+(\/[^\s"'<>]*)?$/.test(questionsBase)) { console.error('GTP_QUESTIONS_BASE doit être une URL https.'); process.exit(1); }
 
+// Détecteur de direct (onglet « Direct », worker-direct/) : URL publique ; « aucun » désactive l'onglet Direct automatique
+const db = process.env.GTP_DIRECT_BASE || DEPLOIEMENT.directBase || '';
+const directBase = db === 'aucun' ? '' : db.replace(/\/+$/, '');
+if (directBase && !/^https:\/\/[^\s"'<>/]+(\/[^\s"'<>]*)?$/.test(directBase)) { console.error('GTP_DIRECT_BASE doit être une URL https.'); process.exit(1); }
+
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
 cpSync(join(ROOT, 'public'), OUT, { recursive: true });
 // CSP : sur GitHub Pages, pas d'en-têtes HTTP personnalisables ; la politique est dans une balise <meta>.
 // Si un serveur du mode connecté est configuré, sa seule origine est ajoutée aux connexions autorisées.
-const connexions = [apiBase, iaBase, questionsBase].filter(Boolean).map((u) => new URL(u).origin);
+const connexions = [apiBase, iaBase, questionsBase, directBase].filter(Boolean).map((u) => new URL(u).origin);
 if (connexions.length) {
   const idx = join(OUT, 'index.html');
   writeFileSync(idx, readFileSync(idx, 'utf8').replace("connect-src 'self'", `connect-src 'self' ${[...new Set(connexions)].join(' ')}`));
+}
+// Direct activé : seuls les lecteurs officiels de Twitch et de YouTube (sans cookie) peuvent s'afficher dans un cadre
+if (directBase) {
+  const idx = join(OUT, 'index.html');
+  writeFileSync(idx, readFileSync(idx, 'utf8').replace("object-src 'none'", `frame-src ${ORIGINES_LECTEURS.join(' ')}; object-src 'none'`));
 }
 
 const library = loadLibrary(undefined, console);
@@ -56,7 +67,7 @@ writeFileSync(join(OUT, 'kb', 'veille.json'), JSON.stringify(st.derniere_tentati
 } : { statut: 'indisponible' }, null, 2));
 // Identifiant unique de cette publication : l'application le compare à version.json pour se mettre à jour toute seule
 const build = `${new Date().toISOString().replace(/\D/g, '').slice(0, 14)}-${Math.random().toString(36).slice(2, 8)}`;
-writeFileSync(join(OUT, 'config.js'), `// Généré par scripts/build-static.js\nwindow.GTP_CONFIG = { apiBase: ${apiBase ? JSON.stringify(apiBase) : 'null'}, iaBase: ${iaBase ? JSON.stringify(iaBase) : 'null'}, questionsBase: ${questionsBase ? JSON.stringify(questionsBase) : 'null'}, build: ${JSON.stringify(build)} };\n`);
+writeFileSync(join(OUT, 'config.js'), `// Généré par scripts/build-static.js\nwindow.GTP_CONFIG = { apiBase: ${apiBase ? JSON.stringify(apiBase) : 'null'}, iaBase: ${iaBase ? JSON.stringify(iaBase) : 'null'}, questionsBase: ${questionsBase ? JSON.stringify(questionsBase) : 'null'}, directBase: ${directBase ? JSON.stringify(directBase) : 'null'}, build: ${JSON.stringify(build)} };\n`);
 writeFileSync(join(OUT, 'version.json'), JSON.stringify({ build }));
 // Noms de fichiers propres à chaque publication (?v=…) : GitHub Pages fait garder les fichiers 10 minutes par les
 // navigateurs, qui ne revérifient que la page au rechargement. Sans ce suffixe, un visiteur pourrait recevoir un
@@ -75,4 +86,4 @@ writeFileSync(join(OUT, '.nojekyll'), '');
 writeFileSync(join(OUT, '404.html'), readFileSync(join(OUT, 'index.html')));
 writeFileSync(join(OUT, 'asset-manifest.json'), JSON.stringify(assetManifest(OUT)));
 if (!existsSync(join(OUT, 'sw.js'))) throw new Error('sw.js manquant');
-console.log(`Site statique écrit : ${OUT}\n  ${library.length} fiches · base ${manifest.version} (${Math.round(manifest.taille / 1024)} Ko)\n  Mode connecté : ${apiBase ? apiBase : 'non configuré (mode autonome seul)'}\n  IA (Gemini) : ${iaBase || 'non configurée'}\n  Collecte des questions : ${questionsBase || 'non configurée (aucune requête)'}`);
+console.log(`Site statique écrit : ${OUT}\n  ${library.length} fiches · base ${manifest.version} (${Math.round(manifest.taille / 1024)} Ko)\n  Mode connecté : ${apiBase ? apiBase : 'non configuré (mode autonome seul)'}\n  IA (Gemini) : ${iaBase || 'non configurée'}\n  Collecte des questions : ${questionsBase || 'non configurée (aucune requête)'}\n  Direct : ${directBase || 'non configuré (onglet Direct sans détection)'}`);

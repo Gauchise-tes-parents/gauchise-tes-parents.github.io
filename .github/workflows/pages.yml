@@ -44,6 +44,8 @@ jobs:
           GTP_IA_BASE: ${{ vars.GTP_IA_BASE }}
           # URL https du collecteur de questions sans réponse (moteur interne) : variable de dépôt GTP_QUESTIONS_BASE
           GTP_QUESTIONS_BASE: ${{ vars.GTP_QUESTIONS_BASE }}
+          # URL https du détecteur de direct (onglet « Direct », worker-direct/) : variable de dépôt GTP_DIRECT_BASE
+          GTP_DIRECT_BASE: ${{ vars.GTP_DIRECT_BASE }}
           WATCH_EXTERNAL_SCHEDULE: ${{ vars.WATCH_EXTERNAL_SCHEDULE }}
       - uses: actions/upload-pages-artifact@v3
         with:

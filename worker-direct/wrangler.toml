@@ -1,0 +1,23 @@
+# Détecteur de direct (onglet « Direct ») — Worker SÉPARÉ du backend IA Gemini (qui reste désactivé).
+# Rôle : dire au site si Marty Ducanda est en direct sur Twitch ou sur YouTube. Le site n'interroge QUE ce Worker,
+# jamais Twitch ni YouTube directement (seul le lecteur vidéo vient de la plateforme, quand un live est en cours).
+# Déploiement (une fois) depuis ce dossier :
+#   cd worker-direct
+#   npx wrangler secret put TWITCH_CLIENT_SECRET   (secret de l'application Twitch « confidentielle » ; jamais dans le dépôt)
+#   npx wrangler deploy
+# Puis : variable de dépôt GitHub GTP_DIRECT_BASE = URL du Worker (https://gauchise-direct.<compte>.workers.dev). Guide : docs/DIRECT.md
+name = "gauchise-direct"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+keep_vars = true
+
+[vars]
+# Seuls ces sites peuvent lire le statut depuis un navigateur (séparés par des virgules)
+ALLOWED_ORIGINS = "https://gauchise-tes-parents.github.io,https://localhost,capacitor://localhost"
+# Identifiant client PUBLIC de l’application Twitch « gauchise tes parents app » (type Confidentiel) (ce n'est pas un secret)
+TWITCH_CLIENT_ID = "yh95phm2zl9qg2dn5x23riv37mgiom"
+TWITCH_LOGIN = "martyducanda"
+YOUTUBE_HANDLE = "Martyducanda"
+# Durée pendant laquelle un statut est réutilisé (secondes) : limite les appels à Twitch et YouTube
+CACHE_SECONDES = "60"
