@@ -2054,3 +2054,27 @@ Variantes familières vérifiées (toutes mènent à la bonne fiche) : « Le CO2
   D'ici là, l'onglet affiche les liens vers les deux chaînes.
 - **Tests** : nouveau `tests/unit/direct.test.js` (détection, cache, CORS, adresses du lecteur et du chat, politique de sécurité publiée) ; `tests/e2e/ui.test.js` adapté aux nouveaux onglets.
 - **Branchement** : Worker créé par le propriétaire dans Cloudflare (`gauchise-direct`, dossier racine `worker-direct`). `deploiement.json` reçoit `directBase` = `https://gauchise-direct.marty-goupil.workers.dev`. Tant que l'adresse workers.dev n'est pas activée ou que le secret manque, l'onglet affiche « Pas de live en ce moment » et les liens des chaînes (aucune erreur visible).
+
+## 20 novembre 2026 — la conversation suit le sujet (demande du propriétaire, constaté en direct)
+
+**Problème.** Une conversation lancée depuis une fiche (par exemple « Les immigrés touchent plus d'aides que les Français ») restait bloquée sur ce sujet. Quand l'interlocuteur parlait ensuite d'insécurité ou d'impôts :
+- l'application proposait seulement deux boutons (« Répondre sur… » ou « Revenir au point initial ») ;
+- ou bien elle répondait encore avec des faits sur les aides.
+
+En plus, le sujet de départ (immigration) servait de contexte à chaque phrase et tirait l'analyse vers l'immigration.
+
+**Correction** (`public/js/conversation.js`, `public/js/app.js`) :
+- **Lecture de la phrase pour elle-même.** Le sujet en cours ne sert de contexte que si la phrase y renvoie (« ils », « eux », « ces gens », « les protègent »…) ou si, seule, elle ne mène à aucune fiche.
+- **Bascule automatique.** Quand une autre fiche répond nettement au nouveau propos, sans objection ni chiffre visant la fiche en cours, la conversation passe d'elle-même sur cette fiche. La réponse porte sur le nouveau sujet, et un bouton permet de revenir au sujet précédent. Le sujet de départ reste conservé, avec un lien « revenir au sujet de départ ».
+- **Affichage.** L'en-tête de la conversation indique la catégorie et l'affirmation en cours (« Sujet en cours : Sécurité · « La délinquance augmente partout. » »). Un message bref signale chaque changement.
+- **Mode connecté.** Il suit le sujet de la même façon.
+- **Sources.** Une demande de source juste après un changement de sujet présente bien la source du nouveau sujet. Avant, elle répondait « je t'ai donné toutes les sources ».
+
+**Exemple vérifié** (départ sur `immigres-aides`) :
+- « Il y a de l'insécurité partout » → `delinquance-partout` ;
+- « Et les impôts augmentent sans arrêt » → `impots-assistanat` ;
+- « Mais ils touchent quand même le RSA dès qu'ils arrivent » → retour à `immigres-aides`.
+
+**Tests.**
+- `tests/unit/conversation.test.js` : le scénario 4 décrit désormais la bascule automatique (avant : choix manuel), et un scénario 4 bis couvre l'exemple ci-dessus.
+- Le scénario « les juges les protègent » garde son contexte (étrangers).

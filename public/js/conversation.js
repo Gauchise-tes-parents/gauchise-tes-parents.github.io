@@ -79,6 +79,8 @@ const CV_RE = {
   // rejet explicite de l'argument précédent : « peu importe les chiffres, … »
   rebond: /(peu importe|qu importe|on s en fout|on s en fiche|je m en fiche|je m en fous|osef|la n est pas la question|le probleme c est pas|le vrai probleme|meme si|admettons mais|et alors|ca change rien|ca ne change rien)/,
   sujet: /(et (l |les |le |la )\w+ alors|parlons (de|plutot)|de toute facon|au fait|et sinon|et (puis )?(l |les )immigr|et (les|le) (impots|chomage|retraites|police))/,
+  // la phrase renvoie au sujet en cours (« ils », « eux », « ces gens »…) : le contexte de la conversation s'applique
+  renvoi: /(^| )(ils|elles|eux|ces gens|ceux ci|ceux la|les leurs|chez eux|leurs?|ces (personnes|migrants|immigres|etrangers|types))( |$)|(^| )(les|leur|lui) [a-z]+ent( |$)|(^| )les (laiss|proteg|aid|relach|libere|excus|accueill|pai|nourr|log)[a-z]*( |$)/,
 };
 
 const cvNorm = (t) => ` ${kbNormalize(t).replace(/[^a-z0-9%?! ]+/g, ' ').replace(/\s+/g, ' ').trim()} `;
@@ -128,6 +130,7 @@ export function nouvelleConversation(fiche, { mode = 'gagner', profil = {}, ques
       arguments: dejaAvances.map((i) => ({ fiche_id: fiche.id, index: i, texte: fiche.faits[i]?.fait, tour: 0 })).filter((x) => x.texte),
       sources: [], // { url, titre, organisme, date, tour }
       sources_detaillees: [], // urls dont la méthode a déjà été expliquée
+      sources_donnees: [], // urls présentées en réponse à une demande de source (jamais deux fois)
       objections: [], // { texte (rapporté), fiche_id, index|null, traitee, tour }
       accords: [], // { texte, tour }
       contestes: [], // { texte, tour, resolu }
@@ -200,7 +203,15 @@ export function analyserMessage(conv, message, { raccourci = null, bibliotheque 
   if (brut.trim().length > 8) {
     // 1. analyse argumentative (concepts → argument → fiche qui y répond vraiment) ;
     // 2. à défaut d'argument reconnu, correspondance textuelle (comportement antérieur).
-    const an = analyserPhrase(apresRebond.trim().length > 8 ? apresRebond : brut, { bibliotheque: thematiques, mode: conv.mode, contexte: courante ? conceptsFiche(courante).filter((c) => AN_SUJETS_PORTEURS.includes(c)) : [] });
+    // v15 (une conversation bouge) : la phrase est d'abord lue POUR ELLE-MÊME. Le sujet en cours (immigration, LFI…)
+    // ne sert de contexte que si la phrase y renvoie (« ils », « eux », « ces gens »…) ou si, seule, elle ne mène à
+    // aucune fiche. Ainsi « il y a de l'insécurité partout » bascule vers la sécurité au lieu de rester sur les aides.
+    const texteLu = apresRebond.trim().length > 8 ? apresRebond : brut;
+    const ctx = courante ? conceptsFiche(courante).filter((c) => AN_SUJETS_PORTEURS.includes(c)) : [];
+    const seule = analyserPhrase(texteLu, { bibliotheque: thematiques, mode: conv.mode });
+    const renvoi = CV_RE.renvoi.test(t);
+    const seuleUtile = seule.arguments.some((a) => a.fiche && a.pertinence === 'directe');
+    const an = !ctx.length || (seuleUtile && !renvoi) ? seule : analyserPhrase(texteLu, { bibliotheque: thematiques, mode: conv.mode, contexte: ctx });
     res.lecture_phrase = { dignite: an.dignite, arguments: an.arguments.map((a) => ({ id: a.id, label: a.label, fiche: a.fiche?.id || null, lacune: a.lacune })), emotions: an.emotions.map((e) => ({ id: e.id, label: e.label, reponse: e.reponse })), procedes: an.procedes.map((p) => ({ id: p.id, label: p.label, question: p.question })) };
     const surCourante = an.arguments.some((a) => a.fiche?.id === conv.courante);
     const nouveau = an.arguments.find((a) => a.fiche && a.fiche.id !== conv.courante && a.pertinence === 'directe');
@@ -241,6 +252,9 @@ export function analyserMessage(conv, message, { raccourci = null, bibliotheque 
     res.type = 'reconnaissance'; ind('reconnaissance d’un point');
   } else if (/probleme/.test(t) && CV_RE.solution.test(t)) {
     res.type = 'partiel_solution'; ind('problème admis, solution contestée');
+  } else if (res.fiche_sujet && res.fait_vise === null && !meilleure && !(courante && cvSimilarite(brut, courante.affirmation).couverture >= 0.5)) {
+    // la conversation a bougé : bascule automatique vers la fiche du nouveau sujet (retour possible en un clic)
+    res.type = 'deplacement'; res.auto = true; ind('nouveau sujet reconnu : bascule automatique');
   } else if (CV_RE.chiffre.test(t) || (res.fait_vise !== null && CV_RE.desaccord.test(t))) {
     res.type = 'chiffre'; ind('mise en cause d’un chiffre ou d’une méthode');
   } else if (CV_RE.source.test(t)) {
@@ -359,17 +373,21 @@ function cvConstruire(conv, analyse, lib) {
   switch (type) {
     case 'source': {
       // une source pas encore donnée ; sinon la source du dernier fait, avec ce qu'elle démontre
+      // v15 : une source « déjà donnée » est une source présentée en réponse à une demande de source ; celle d'un fait
+      // simplement cité (par exemple au moment d'un changement de sujet) peut encore être présentée une fois.
+      const donnees = conv.memoire.sources_donnees || [];
       let x = null;
       if (dernier) {
         const f = cvFiche(lib, dernier.fiche_id);
         const s = f && cvSource(f, f.faits[dernier.index]);
-        if (s && !conv.memoire.sources.some((y) => y.url === s.url)) x = { fiche: f, index: dernier.index, preuve: cvPreuve(f, dernier.index) };
+        if (s && !donnees.includes(s.url)) x = { fiche: f, index: dernier.index, preuve: cvPreuve(f, dernier.index) };
       }
       if (!x) x = cvProchainFait(conv, lib, { prefere: 'source' });
-      if (x && !conv.memoire.sources.some((y) => y.url === x.preuve.source?.url)) {
+      if (x && x.preuve.source?.url && !donnees.includes(x.preuve.source.url)) {
         const p = x.preuve;
         const f = x.fiche;
         out.preuve = p;
+        out.source_donnee = p.source.url;
         out.voisine = !conv.fiches.includes(f.id);
         out.texte = cvDire(conv, `La source : ${p.source.organisme}, « ${p.source.titre} » (${p.source.date}). Elle montre ceci : ${p.texte}`, `Bien sûr, c’est normal de vouloir vérifier. Ça vient de cette source : ${p.source.organisme}, « ${p.source.titre} » (${p.source.date}). Ce document montre ceci : ${p.texte}`);
         out.strategie = `Donne le lien, explique ce que la source démontre${p.explication ? ` (${p.explication})` : ''} et ce qu’elle ne démontre pas${f.limites?.[0] ? ` : ${f.limites[0]}` : '.'}`;
@@ -494,9 +512,11 @@ function cvConstruire(conv, analyse, lib) {
       const ancienne = analyse.depuis ? cvFiche(lib, analyse.depuis) : null;
       const x = avecFait(conv.mode === 'gagner' ? 'chiffre' : null, { voisine: false });
       const court = A.court || cvPremierePhrase(courante.resume);
-      out.texte = cvDire(conv,
-        `Tu changes d’argument : on ne parle plus de « ${ancienne?.affirmation || 'ce point'} », mais de « ${courante.affirmation} ». Sur ce nouveau point : ${court}`,
-        `D’accord, c’est une autre question : « ${courante.affirmation} ». Elle mérite une vraie réponse. ${court}`);
+      out.texte = analyse.auto
+        ? cvDire(conv, `Autre sujet, alors : « ${courante.affirmation} ». Là-dessus, les faits : ${court}`, `D’accord, parlons de ça : « ${courante.affirmation} ». ${court}`)
+        : cvDire(conv,
+          `Tu changes d’argument : on ne parle plus de « ${ancienne?.affirmation || 'ce point'} », mais de « ${courante.affirmation} ». Sur ce nouveau point : ${court}`,
+          `D’accord, c’est une autre question : « ${courante.affirmation} ». Elle mérite une vraie réponse. ${court}`);
       if (x?.repli) out.preuve = null;
       out.question = cvProchaineQuestion(conv, lib);
       out.strategie = `L’interlocuteur a déplacé la discussion. Ne reprends pas l’argument précédent : réponds sur le nouveau terrain (${courante.sous_theme || courante.affirmation}), avec les éléments propres à ce sujet, puis pose une question.${courante.objections_legitimes?.length ? ` Point légitime à reconnaître : ${courante.objections_legitimes[0]}` : ''}`;
@@ -666,6 +686,7 @@ export function enregistrerTour(conv, { message, raccourci = null, analyse, inte
     if (p.fiche_id && !conv.fiches.includes(p.fiche_id)) conv.fiches.push(p.fiche_id);
   }
   if (intervention.source_detaillee && !m.sources_detaillees.includes(intervention.source_detaillee)) m.sources_detaillees.push(intervention.source_detaillee);
+  if (intervention.source_donnee) { m.sources_donnees = m.sources_donnees || []; if (!m.sources_donnees.includes(intervention.source_donnee)) m.sources_donnees.push(intervention.source_donnee); }
   if (intervention.question) m.questions.push(intervention.question);
   if (intervention.relance) m.questions.push(intervention.relance);
   if (intervention.marque) m.textes.push(intervention.marque);

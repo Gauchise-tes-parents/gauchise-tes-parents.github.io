@@ -751,3 +751,4 @@ button.mode-card { cursor: pointer; }
 .direct-choix { display: flex; gap: 8px; margin-bottom: 10px; }
 .direct-choix .chip[aria-pressed="true"] { background: var(--night); color: var(--cream); }
 .direct-chaines { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px; }
+.tag--sujet { display: inline; white-space: normal; overflow-wrap: anywhere; background: var(--lemon); }

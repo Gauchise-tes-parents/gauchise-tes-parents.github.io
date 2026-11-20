@@ -1174,6 +1174,15 @@ function bilanHtml(c) {
   </section>`;
 }
 
+/** v15 : la conversation suit le sujet ; on affiche la catégorie et l'affirmation en cours (retour au départ en un clic). */
+function sujetEnCoursHtml(cv) {
+  const f = (kb.fiches || []).find((x) => x.id === cv.courante);
+  const cat = f ? (VOLETS.find((v) => v.id === f.volet)?.court || '') : '';
+  const lib = f ? `${cat ? `${cat} · ` : ''}« ${f.affirmation} »` : '';
+  if (cv.courante === cv.sujet.fiche_id) return cat ? ` <span class="tag">Sujet : ${h(cat)}</span>` : '';
+  return ` <span class="tag tag--sujet" role="status">Sujet en cours : ${h(lib || 'un autre sujet')}</span> <button type="button" class="link-btn" data-conv-option="rester">revenir au sujet de départ</button>`;
+}
+
 function conversationHtml(c) {
   const cv = c.conv;
   if (!cv) return '';
@@ -1182,7 +1191,7 @@ function conversationHtml(c) {
   return `<section class="block conv-block" id="conversation" aria-labelledby="conv-title">
     <h2 id="conv-title" class="block-title">La conversation continue</h2>
     <p class="hint">Après chaque réponse de ton interlocuteur, raconte-la ici : je propose la suite en tenant compte de tout ce qui a déjà été dit. Il n’y a pas de limite d’échanges ; c’est toi qui décides quand c’est fini.</p>
-    <p class="conv-etat"><span class="tag">${cv.mode === 'gagner' ? 'Électeur convaincu' : 'Indécis'}</span> <span class="tag">${cv.tours.length} échange${cv.tours.length > 1 ? 's' : ''}</span> <span class="tag">${h(PHASES[phaseConversation(cv)])}</span>${cv.courante !== cv.sujet.fiche_id ? ` <span class="tag">sujet voisin en cours</span> <button type="button" class="link-btn" data-conv-option="rester">revenir au sujet initial</button>` : ''}</p>
+    <p class="conv-etat"><span class="tag">${cv.mode === 'gagner' ? 'Électeur convaincu' : 'Indécis'}</span> <span class="tag">${cv.tours.length} échange${cv.tours.length > 1 ? 's' : ''}</span> <span class="tag">${h(PHASES[phaseConversation(cv)])}</span>${sujetEnCoursHtml(cv)}</p>
     <ol class="conv-fil" id="conv-fil">${cv.tours.map(convTourHtml).join('')}</ol>
     ${c.convPending ? `<p class="conv-attente" role="status">${mascotSvg('search', 'La mascotte réfléchit', 40)} Je réfléchis à la suite…</p>` : ''}
     ${err ? `<div class="notice notice--error" role="alert"><p><strong>La suite n’a pas pu être préparée :</strong> ${h(err.message)}</p><p class="hint">Ta conversation est conservée, rien n’est perdu.</p>
@@ -1218,7 +1227,9 @@ async function envoyerConv(texte, raccourci = null, { force = false, local = fal
     refreshCompo();
     try {
       const r = await api.conversation({ ...chargeServeur(c.conv, msg, { raccourci }), interlocuteur: c.conv.hypotheses, mode: c.conv.mode });
-      const analyse = { ...analyserMessage(c.conv, msg, { raccourci, bibliotheque: kb.fiches }), type: r.intervention.type };
+      const lu = analyserMessage(c.conv, msg, { raccourci, bibliotheque: kb.fiches });
+      if (lu.auto && lu.fiche_sujet) basculerSujet(c.conv, lu.fiche_sujet); // la conversation suit le sujet (v15)
+      const analyse = { ...lu, type: r.intervention.type };
       enregistrerTour(c.conv, { message: msg, raccourci, analyse, intervention: r.intervention, origine: 'connecte' });
       c.convBrouillon = '';
     } catch (e) {
@@ -1230,6 +1241,7 @@ async function envoyerConv(texte, raccourci = null, { force = false, local = fal
     const r = repondreConversation(c.conv, msg, { raccourci, bibliotheque: kb.fiches, force });
     if (r.doublon) { c.convStatut = r.message; c.convDoublon = { texte: msg, raccourci }; c.convBrouillon = msg; refreshCompo(); return; }
     if (r.erreur) { c.convStatut = r.erreur; refreshCompo(); return; }
+    if (r.tour?.analyse?.auto) { const nf = kb.fiches.find((f) => f.id === c.conv.courante); if (nf) toast(`Nouveau sujet : ${VOLETS.find((v) => v.id === nf.volet)?.court || ''} · « ${nf.affirmation} »`); }
     c.convErreur = null;
     c.convBrouillon = '';
   }

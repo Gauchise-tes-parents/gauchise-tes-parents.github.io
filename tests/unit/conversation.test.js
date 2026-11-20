@@ -71,17 +71,30 @@ describe('conversation continue (moteur local)', () => {
     assert.ok(r.tour, 'un seizième tour est accepté');
   });
 
-  test('4. l’interlocuteur change plusieurs fois d’argument', () => {
+  test('4. l’interlocuteur change plusieurs fois d’argument : la conversation suit le sujet automatiquement (v15)', () => {
     const { conv, tours } = jouer('impots-assistanat', ['Et l’immigration alors, ça coûte une fortune', 'De toute façon les chômeurs ne veulent pas travailler', 'Et la délinquance augmente partout']);
-    assert.ok(tours.every((t) => t.analyse.type === 'sujet'), tours.map((t) => t.analyse.type).join());
+    assert.ok(tours.every((t) => t.analyse.type === 'deplacement'), tours.map((t) => t.analyse.type).join());
     const cibles = tours.map((t) => t.analyse.fiche_sujet);
     assert.equal(lib.find((f) => f.id === cibles[0]).volet, 'immigration');
     assert.deepEqual(cibles.slice(1), ['chomeurs-travailler', 'delinquance-partout']);
-    assert.ok(tours.every((t) => t.intervention.options.some((o) => o.action === 'basculer') && t.intervention.options.some((o) => o.action === 'rester')));
-    basculerSujet(conv, 'chomeurs-travailler');
+    // chaque bascule répond sur le nouveau sujet et propose de revenir au précédent
+    tours.forEach((t, i) => {
+      assert.equal(t.intervention.preuve?.fiche_id ?? cibles[i], cibles[i], `tour ${i + 1} : réponse sur le nouveau sujet`);
+      assert.ok(t.intervention.options.some((o) => o.action === 'basculer' && o.fiche_id === (i ? cibles[i - 1] : 'impots-assistanat')), `tour ${i + 1} : retour possible`);
+    });
+    assert.equal(conv.courante, 'delinquance-partout', 'le sujet en cours suit la conversation');
     const r = repondreConversation(conv, 'T’as une source ?', { bibliotheque: lib });
-    assert.equal(r.tour.intervention.preuve.fiche_id, 'chomeurs-travailler', 'la suite porte sur le nouveau sujet');
+    assert.equal(r.tour.intervention.preuve.fiche_id, 'delinquance-partout', 'la suite porte sur le nouveau sujet');
     assert.equal(conv.sujet.fiche_id, 'impots-assistanat', 'le sujet initial est conservé');
+    basculerSujet(conv, 'chomeurs-travailler');
+    assert.equal(repondreConversation(conv, 'Une autre source ?', { bibliotheque: lib }).tour.intervention.preuve.fiche_id, 'chomeurs-travailler', 'retour manuel possible');
+    verifier(conv);
+  });
+
+  test('4 bis. un propos qui renvoie au sujet en cours (« ils ») garde le contexte ; un propos sur un autre domaine en sort', () => {
+    const { conv, tours } = jouer('immigres-aides', ['Et puis de toute façon il y a de l’insécurité partout maintenant', 'Et les impôts augmentent sans arrêt', 'Mais ils touchent quand même le RSA dès qu’ils arrivent']);
+    assert.deepEqual(tours.map((t) => conv.fiches.includes(t.analyse.fiche_sujet) && t.analyse.fiche_sujet), ['delinquance-partout', 'impots-assistanat', 'immigres-aides']);
+    assert.equal(conv.courante, 'immigres-aides');
     verifier(conv);
   });
 
