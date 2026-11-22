@@ -2611,17 +2611,28 @@ function surveillerVersion() {
 // au plus une fois par minute et seulement quand la page est visible. Le lecteur Twitch ou YouTube n'est chargé
 // que dans l'onglet « Direct », pendant un live.
 const DIRECT_BASE = (typeof window !== 'undefined' && window.GTP_CONFIG?.directBase) ? String(window.GTP_CONFIG.directBase).replace(/\/+$/, '') : '';
-const direct = { statut: null, choix: null, verifie: 0, enCours: null };
+const direct = { statut: null, choix: null, verifie: 0, enCours: null, echecs: 0 };
+
+// v15.1 (affluence) : le détecteur gratuit accepte un nombre limité de demandes par jour, partagé par TOUS les
+// visiteurs. On l'interroge donc au rythme utile seulement : chaque minute sur l'onglet Direct quand on attend un
+// live, toutes les 3 minutes pendant un live (pour voir sa fin), toutes les 10 minutes ailleurs (point rouge de
+// l'onglet), et de moins en moins souvent si le détecteur ne répond pas (jusqu'à 30 minutes).
+function delaiDirect() {
+  const surDirect = parseRoute().path === '/direct';
+  const live = plateformesEnDirect(direct.statut).length > 0;
+  const base = surDirect ? (live ? 3 : 1) : 10;
+  return Math.min(30, base * 2 ** Math.min(direct.echecs, 5)) * 60 * 1000;
+}
 
 async function verifierDirect({ force = false } = {}) {
   if (!DIRECT_BASE) return direct.statut;
   if (direct.enCours) return direct.enCours;
-  if (!force && Date.now() - direct.verifie < 55 * 1000) return direct.statut;
+  if (!force && Date.now() - direct.verifie < delaiDirect() - 5000) return direct.statut;
   direct.enCours = (async () => {
     try {
-      const r = await fetch(`${DIRECT_BASE}/statut`, { credentials: 'omit', referrerPolicy: 'no-referrer', cache: 'no-store' });
-      if (r.ok) direct.statut = await r.json();
-    } catch { /* hors ligne ou détecteur indisponible : on garde le dernier statut connu */ }
+      const r = await fetch(`${DIRECT_BASE}/statut`, { credentials: 'omit', referrerPolicy: 'no-referrer' });
+      if (r.ok) { direct.statut = await r.json(); direct.echecs = 0; } else direct.echecs += 1;
+    } catch { direct.echecs += 1; /* hors ligne ou détecteur saturé : on garde le dernier statut connu */ }
     direct.verifie = Date.now();
     direct.enCours = null;
     return direct.statut;
@@ -2655,6 +2666,7 @@ document.addEventListener('click', (ev) => {
 function surveillerDirect() {
   if (!DIRECT_BASE) return;
   rafraichirDirect();
+  // un tic par minute ; la vraie fréquence des demandes est réglée par delaiDirect()
   setInterval(() => { if (document.visibilityState === 'visible') rafraichirDirect(); }, 60 * 1000);
   document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') rafraichirDirect(); });
 }

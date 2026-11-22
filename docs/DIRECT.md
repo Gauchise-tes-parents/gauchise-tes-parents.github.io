@@ -28,3 +28,20 @@ Quand Marty Ducanda lance un live sur **Twitch** (`martyducanda`) ou sur **YouTu
 - La détection YouTube lit la page publique de la chaîne, sans clé d'API. Si YouTube change sa page, la détection YouTube peut cesser de fonctionner, sans gêner Twitch. Le champ `youtube.erreur` de `/statut` le signale.
 - Un live apparaît au plus une minute environ après son lancement.
 - Pendant un live, Twitch (Amazon) ou YouTube (Google) reçoivent l'adresse IP des personnes qui ouvrent l'onglet « Direct ». La page Confidentialité le dit.
+
+## Relais de la base de connaissances (affluence, v15.1)
+
+Le même Worker sert aussi une copie de la base de connaissances (`/kb/base.json`, environ 2 Mo compressés), le fichier le plus lourd du site. Elle est servie comme **fichier statique**, et Cloudflare annonce que ces requêtes sont « gratuites et illimitées ».
+
+- La copie est fabriquée à chaque déploiement du Worker par `scripts/build-direct-assets.js` (`[build]` dans `worker-direct/wrangler.toml`).
+- Le site télécharge la base depuis ce relais, puis vérifie son empreinte SHA-256 avec le manifeste publié par GitHub Pages.
+- En cas d'écart (relais en avance ou en retard d'une publication) ou de panne, le site reprend la copie de GitHub Pages. L'utilisateur ne voit aucune différence.
+- La base n'est téléchargée qu'**une fois** par appareil, puis conservée hors ligne. Avant la v15.1, une première visite la téléchargeait deux fois.
+- GitHub Pages ne sert donc plus que la page, les scripts et le petit manifeste, soit environ 0,3 Mo par première visite au lieu d'environ 4,5 Mo.
+- Pour désactiver le relais : variable `GTP_KB_RELAIS=aucun`.
+
+Le direct, lui, n'est vérifié qu'au rythme utile :
+- chaque minute sur l'onglet Direct quand on attend un live ;
+- toutes les 3 minutes pendant un live ;
+- toutes les 10 minutes ailleurs ;
+- de moins en moins souvent, jusqu'à 30 minutes, si le détecteur ne répond pas (quota gratuit de 100 000 demandes par jour atteint, par exemple).

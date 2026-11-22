@@ -1,7 +1,7 @@
 // Service worker du mode autonome : l'interface et la base de connaissances restent disponibles sans Internet
 // après une première visite. Les appels /api/ (recherche web, stratégie IA) ne sont JAMAIS mis en cache.
 // Version du service worker : la changer force les navigateurs à installer le nouveau (v13.1 : réseau d'abord).
-const SW_VERSION = '13.2';
+const SW_VERSION = '15.1'; // v15.1 : la base n'est plus téléchargée deux fois à la première visite
 const SHELL = 'gtp-shell-';
 const KB_CACHE = 'gtp-kb';
 
@@ -19,12 +19,9 @@ self.addEventListener('install', (event) => {
     const { version, fichiers } = await assetList();
     const cache = await caches.open(SHELL + version);
     await cache.addAll(fichiers);
-    // Première installation : la base de connaissances est copiée dans son propre cache.
-    const kb = await caches.open(KB_CACHE);
-    if (!(await kb.match('kb/base.json'))) {
-      const [base, manifest] = await Promise.all([fetch('kb/base.json', { cache: 'no-store' }), fetch('kb/manifest.json', { cache: 'no-store' })]);
-      if (base.ok && manifest.ok) { await kb.put('kb/base.json', base); await kb.put('kb/manifest.json', manifest); }
-    }
+    // v15.1 : la base de connaissances (le fichier le plus lourd) n'est plus téléchargée ici. L'application la
+    // télécharge une seule fois et la range elle-même dans le cache « gtp-kb » (voir js/kbstore.js) ; avant, une
+    // première visite la téléchargeait deux fois (page + service worker), ce qui doublait le trafic.
     await self.skipWaiting();
   })());
 });
@@ -55,7 +52,14 @@ self.addEventListener('fetch', (event) => {
   if (path.startsWith('api/')) return; // réseau uniquement
   if (path === 'kb/base.json' && !url.searchParams.has('v')) {
     // La base est remplacée par l'application, seulement après vérification de son empreinte.
-    event.respondWith(caches.open(KB_CACHE).then((c) => c.match('kb/base.json')).then((r) => r || fetch(event.request)));
+    event.respondWith((async () => {
+      const kb = await caches.open(KB_CACHE);
+      const cached = await kb.match('kb/base.json');
+      if (cached) return cached;
+      const res = await fetch(event.request);
+      if (res.ok) kb.put('kb/base.json', res.clone()).catch(() => {});
+      return res;
+    })());
     return;
   }
   if (path === 'version.json') return; // toujours le réseau : sert à détecter une nouvelle publication

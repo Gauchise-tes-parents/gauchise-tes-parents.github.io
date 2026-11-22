@@ -32,12 +32,18 @@ const db = process.env.GTP_DIRECT_BASE || DEPLOIEMENT.directBase || '';
 const directBase = db === 'aucun' ? '' : db.replace(/\/+$/, '');
 if (directBase && !/^https:\/\/[^\s"'<>/]+(\/[^\s"'<>]*)?$/.test(directBase)) { console.error('GTP_DIRECT_BASE doit être une URL https.'); process.exit(1); }
 
+// Relais Cloudflare de la base de connaissances (v15.1) : même Worker que le direct, fichiers statiques ;
+// « aucun » le désactive (la base vient alors seulement de GitHub Pages).
+const kr = process.env.GTP_KB_RELAIS || DEPLOIEMENT.kbRelais || (directBase ? `${directBase}/kb` : '');
+const kbRelais = kr === 'aucun' ? '' : kr.replace(/\/+$/, '');
+if (kbRelais && !/^https:\/\/[^\s"'<>/]+(\/[^\s"'<>]*)?$/.test(kbRelais)) { console.error('GTP_KB_RELAIS doit être une URL https.'); process.exit(1); }
+
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
 cpSync(join(ROOT, 'public'), OUT, { recursive: true });
 // CSP : sur GitHub Pages, pas d'en-têtes HTTP personnalisables ; la politique est dans une balise <meta>.
 // Si un serveur du mode connecté est configuré, sa seule origine est ajoutée aux connexions autorisées.
-const connexions = [apiBase, iaBase, questionsBase, directBase].filter(Boolean).map((u) => new URL(u).origin);
+const connexions = [apiBase, iaBase, questionsBase, directBase, kbRelais].filter(Boolean).map((u) => new URL(u).origin);
 if (connexions.length) {
   const idx = join(OUT, 'index.html');
   writeFileSync(idx, readFileSync(idx, 'utf8').replace("connect-src 'self'", `connect-src 'self' ${[...new Set(connexions)].join(' ')}`));
@@ -67,7 +73,7 @@ writeFileSync(join(OUT, 'kb', 'veille.json'), JSON.stringify(st.derniere_tentati
 } : { statut: 'indisponible' }, null, 2));
 // Identifiant unique de cette publication : l'application le compare à version.json pour se mettre à jour toute seule
 const build = `${new Date().toISOString().replace(/\D/g, '').slice(0, 14)}-${Math.random().toString(36).slice(2, 8)}`;
-writeFileSync(join(OUT, 'config.js'), `// Généré par scripts/build-static.js\nwindow.GTP_CONFIG = { apiBase: ${apiBase ? JSON.stringify(apiBase) : 'null'}, iaBase: ${iaBase ? JSON.stringify(iaBase) : 'null'}, questionsBase: ${questionsBase ? JSON.stringify(questionsBase) : 'null'}, directBase: ${directBase ? JSON.stringify(directBase) : 'null'}, build: ${JSON.stringify(build)} };\n`);
+writeFileSync(join(OUT, 'config.js'), `// Généré par scripts/build-static.js\nwindow.GTP_CONFIG = { apiBase: ${apiBase ? JSON.stringify(apiBase) : 'null'}, iaBase: ${iaBase ? JSON.stringify(iaBase) : 'null'}, questionsBase: ${questionsBase ? JSON.stringify(questionsBase) : 'null'}, directBase: ${directBase ? JSON.stringify(directBase) : 'null'}, kbRelais: ${kbRelais ? JSON.stringify(kbRelais) : 'null'}, build: ${JSON.stringify(build)} };\n`);
 writeFileSync(join(OUT, 'version.json'), JSON.stringify({ build }));
 // Noms de fichiers propres à chaque publication (?v=…) : GitHub Pages fait garder les fichiers 10 minutes par les
 // navigateurs, qui ne revérifient que la page au rechargement. Sans ce suffixe, un visiteur pourrait recevoir un

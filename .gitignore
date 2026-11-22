@@ -13,3 +13,5 @@ worker/.dev.vars
 /ios/
 *.keystore
 *.jks
+# base de connaissances copiée pour le relais Cloudflare (générée au déploiement du Worker gauchise-direct)
+/worker-direct/public/

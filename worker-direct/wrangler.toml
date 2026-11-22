@@ -12,6 +12,16 @@ compatibility_date = "2026-10-01"
 workers_dev = true
 keep_vars = true
 
+# v15.1 (affluence) : le Worker sert aussi, comme fichiers statiques, une copie de la base de connaissances
+# (kb/base.json), le fichier le plus lourd du site. Les requêtes vers des fichiers statiques sont gratuites et
+# illimitées chez Cloudflare (elles ne réveillent pas le code du Worker) ; le site vérifie l'empreinte et reprend
+# la copie de GitHub Pages en cas d'écart ou de panne. La copie est fabriquée à chaque déploiement :
+[build]
+command = "node ../scripts/build-direct-assets.js"
+
+[assets]
+directory = "./public"
+
 [vars]
 # Seuls ces sites peuvent lire le statut depuis un navigateur (séparés par des virgules)
 ALLOWED_ORIGINS = "https://gauchise-tes-parents.github.io,https://localhost,capacitor://localhost"

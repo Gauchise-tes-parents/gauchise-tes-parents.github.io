@@ -2078,3 +2078,16 @@ En plus, le sujet de départ (immigration) servait de contexte à chaque phrase 
 **Tests.**
 - `tests/unit/conversation.test.js` : le scénario 4 décrit désormais la bascule automatique (avant : choix manuel), et un scénario 4 bis couvre l'exemple ci-dessus.
 - Le scénario « les juges les protègent » garde son contexte (étrangers).
+
+## 22 novembre 2026 — solidité face à une vague de visiteurs (demande du propriétaire)
+
+- **Base téléchargée une seule fois.** À la première visite, la base de connaissances (7,6 Mo, environ 2 Mo compressés) était téléchargée deux fois, une par la page et une par le service worker. Elle ne l'est plus qu'une fois : la page la range dans le cache hors ligne (`public/js/kbstore.js`, `public/sw.js` v15.1).
+- **Relais Cloudflare.** Le Worker `gauchise-direct` sert aussi une copie de la base en fichier statique ; Cloudflare annonce ces requêtes « gratuites et illimitées ». Le site la télécharge là, vérifie son empreinte avec le manifeste de GitHub Pages et, sinon, reprend la copie de GitHub Pages. Une première visite coûte à GitHub Pages environ 0,3 Mo au lieu d'environ 4,5 Mo, pour une limite souple de 100 Go par mois.
+- **Détecteur de direct économe.** Rythme des vérifications :
+  - chaque minute sur l'onglet Direct en attente d'un live ;
+  - toutes les 3 minutes pendant un live ;
+  - toutes les 10 minutes ailleurs ;
+  - de moins en moins souvent en cas de saturation, jusqu'à 30 minutes.
+
+  Le plan gratuit permet 100 000 demandes par jour, pour tous les visiteurs ensemble.
+- Rien ne change à l'écran. Tests : `tests/unit/relais-kb.test.js` (relais à jour, en retard ou altéré, en panne) et `tests/unit/direct.test.js` complété.

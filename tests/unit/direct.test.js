@@ -108,5 +108,7 @@ test('publication : sans détecteur, aucun cadre tiers ; avec détecteur, seuls 
   assert.match(avec.csp, /frame-src https:\/\/player\.twitch\.tv https:\/\/www\.youtube-nocookie\.com;/);
   assert.match(avec.csp, /connect-src 'self' https:\/\/gauchise-direct\.exemple\.workers\.dev/);
   assert.match(avec.config, /directBase: "https:\/\/gauchise-direct\.exemple\.workers\.dev"/);
+  assert.match(avec.config, /kbRelais: "https:\/\/gauchise-direct\.exemple\.workers\.dev\/kb"/, 'relais de la base sur le même Worker');
+  assert.match(sans.config, /kbRelais: null/);
   assert.throws(() => csp({ GTP_DIRECT_BASE: 'javascript:alert(1)' }));
 });
