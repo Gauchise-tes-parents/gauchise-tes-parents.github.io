@@ -1860,7 +1860,7 @@ function viewPrivacy() {
           <tr><td><strong>Réponse de l’IA</strong> (Gemini, seulement si le backend IA est configuré${iaDispo() ? ' — c’est le cas sur ce site' : ' ; ce n’est pas le cas aujourd’hui'})</td><td>Envoyée quand la bibliothèque n’a pas de fiche, ou quand tu cliques sur un bouton de réponse IA, avec le mode choisi et, s’il y en a, tes trois derniers messages de la conversation en cours. Rien n’est enregistré par le site ; une réponse générique (question qui correspond à une fiche) peut rester une heure en cache, sous une clé illisible.</td><td>Notre backend (hébergé par <strong>Cloudflare</strong>), puis <strong>Google</strong> (Gemini et, si besoin, la recherche Google). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté.</td></tr>
           <tr><td><strong>Phase bêta : fiches créées par l’IA</strong></td><td>Une question sans fiche sert à créer, avec Google (Gemini et sa recherche), une fiche publique de la bibliothèque. La fiche ne contient pas ta phrase exacte : l’IA reformule l’idée de façon générale et a pour consigne d’en retirer tout nom ou information personnelle. Elle est enregistrée sur GitHub, dans le dépôt public du site.</td><td>Notre backend (Cloudflare), Google, puis GitHub (la fiche reformulée seulement, sans identité ni adresse IP).</td></tr>
           <tr><td><strong>Demander une fiche</strong> (bouton « Envoyer anonymement ma question », ${QUESTIONS_BASE ? 'activé sur ce site' : 'pas activé sur ce site aujourd’hui'})</td><td>Seulement si tu cliques : le texte de ta question, et rien d’autre (ni profil, ni interlocuteur, ni identifiant). Adresses e-mail, numéros de téléphone et liens sont retirés ; l’adresse IP n’est pas enregistrée. Conservée au plus 90 jours.</td><td>Le collecteur du projet, puis le moteur interne qui prépare les fiches (sans IA). La question peut devenir l’intitulé d’une fiche publique.</td></tr>
-          <tr><td><strong>Direct</strong> (onglet « Direct »${DIRECT_BASE ? '' : ', pas encore activé sur ce site'})</td><td>Rien de ce que tu écris. Le site demande chaque minute au détecteur du projet si un live est en cours, sans cookie ni identifiant. Pendant un live, l’onglet « Direct » charge automatiquement le lecteur de Twitch ou de YouTube (version « sans cookie » de YouTube).</td><td>Le détecteur du projet (Cloudflare) ; pendant un live et seulement dans l’onglet « Direct », Twitch (Amazon) ou YouTube (Google), selon leurs propres règles.</td></tr>
+          <tr><td><strong>Direct</strong> (onglet « Direct »${DIRECT_BASE ? '' : ', pas encore activé sur ce site'})</td><td>Rien de ce que tu écris. Le site demande chaque minute au détecteur du projet si un live est en cours, sans cookie ni identifiant. ${window.GTP_CONFIG?.app ? 'Dans l’appli, le live s’ouvre seulement si tu touches le bouton, dans l’appli ou le site de Twitch ou de YouTube.' : 'Pendant un live, l’onglet « Direct » charge automatiquement le lecteur de Twitch ou de YouTube (version « sans cookie » de YouTube).'}</td><td>Le détecteur du projet (Cloudflare) ; pendant un live${window.GTP_CONFIG?.app ? ', si tu choisis de l’ouvrir' : ' et seulement dans l’onglet « Direct »'}, Twitch (Amazon) ou YouTube (Google), selon leurs propres règles.</td></tr>
           <tr><td><strong>Connecté</strong> (seulement si un serveur est configuré ; ce n’est pas le cas sur le site public aujourd’hui)</td><td>Envoyée au serveur du site, qui la transmet au fournisseur d’IA pour rechercher des sources et rédiger la réponse. Le serveur garde le dossier en mémoire vive une heure au plus (pour changer de stratégie sans relancer), sans rien écrire sur disque.</td><td>Le serveur du site, puis <strong>Anthropic</strong> (IA et recherche web). Aucun identifiant, aucune adresse IP, aucune localisation n’est ajouté à la requête.</td></tr>
         </tbody>
       </table></div>
@@ -2685,6 +2685,15 @@ function directZoneHtml() {
   const nom = CHAINES[p].nom;
   const titre = titreLive(p, s);
   const lecteur = urlLecteur(p, s, location.hostname);
+  // Applis mobiles : pas de lecteur intégré ; le live s'ouvre dans l'appli Twitch ou YouTube du téléphone.
+  if (window.GTP_CONFIG?.app) {
+    return `<div id="direct-zone" class="direct-on">
+    ${lives.length > 1 ? `<div class="direct-choix" role="group" aria-label="Plateforme">${lives.map((x) => `<button type="button" class="chip" data-direct-choix="${x}" aria-pressed="${x === p}">${h(CHAINES[x].nom)}</button>`).join('')}</div>` : ''}
+    <p class="direct-plateforme"><span class="live-badge live-badge--petit"><span class="live-dot" aria-hidden="true"></span>EN DIRECT</span> sur ${h(nom)}${titre ? ` · <span class="direct-titre">${h(titre)}</span>` : ''}</p>
+    <a class="btn btn-primary btn-block" href="${h(urlLive(p, s))}" target="_blank" rel="noopener noreferrer">Regarder le live sur ${h(nom)}<span class="visually-hidden"> (ouvre ${h(nom)})</span></a>
+    <a class="btn btn-secondary btn-block direct-chat" href="${h(urlChat(p, s))}" target="_blank" rel="noopener noreferrer">Ouvrir le chat sur ${h(nom)}<span class="visually-hidden"> (ouvre ${h(nom)})</span></a>
+  </div>`;
+  }
   return `<div id="direct-zone" class="direct-on">
     ${lives.length > 1 ? `<div class="direct-choix" role="group" aria-label="Plateforme">${lives.map((x) => `<button type="button" class="chip" data-direct-choix="${x}" aria-pressed="${x === p}">${h(CHAINES[x].nom)}</button>`).join('')}</div>` : ''}
     <p class="direct-plateforme"><span class="live-badge live-badge--petit"><span class="live-dot" aria-hidden="true"></span>EN DIRECT</span> sur ${h(nom)}${titre ? ` · <span class="direct-titre">${h(titre)}</span>` : ''}</p>
@@ -2702,9 +2711,9 @@ function viewDirect() {
   return `<section class="section">
     <div class="wrap wrap--narrow">
       <h1 class="page-title direct-title"><span class="live-badge"><span class="live-dot" aria-hidden="true"></span>LIVE</span> Direct</h1>
-      <p class="section-lede">Les lives de Marty Ducanda, sur Twitch ou sur YouTube, directement dans l’application.</p>
+      <p class="section-lede">Les lives de Marty Ducanda, sur Twitch ou sur YouTube${window.GTP_CONFIG?.app ? ' : le voyant rouge de l’onglet s’allume dès qu’un live commence.' : ', directement dans l’application.'}</p>
       ${directZoneHtml()}
-      <p class="hint">Pendant un live, le lecteur est fourni par la plateforme (Twitch ou YouTube), qui reçoit alors ton adresse IP et ses propres cookies. Voir <a href="#/confidentialite">Confidentialité</a>.</p>
+      <p class="hint">${window.GTP_CONFIG?.app ? 'Le live s’ouvre dans l’appli ou le site de la plateforme (Twitch ou YouTube).' : 'Pendant un live, le lecteur est fourni par la plateforme (Twitch ou YouTube), qui reçoit alors ton adresse IP et ses propres cookies.'} Voir <a href="#/confidentialite">Confidentialité</a>.</p>
     </div>
   </section>`;
 }

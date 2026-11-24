@@ -1,6 +1,6 @@
 # Applications mobiles (App Store, Google Play) — pas à pas
 
-État au 19 novembre 2026 : **tout est prêt sauf les comptes**. L'appli Android et le projet iOS sont construits
+État au 24 novembre 2026 : **tout est prêt sauf les comptes**. L'appli Android et le projet iOS sont construits
 automatiquement par GitHub (flux « Applications mobiles »), les textes et les réponses aux formulaires sont dans
 `mobile/store/FICHES-BOUTIQUES.md`, les captures d'écran dans `mobile/store/captures/`.
 Il ne reste que les démarches à faire avec tes propres comptes.
@@ -19,14 +19,16 @@ Il ne reste que les démarches à faire avec tes propres comptes.
 | Bandeau « Version bêta » sans Tipeee, lien et jauge Tipeee masqués | version appli seulement (`scripts/mobile/build-mobile.js`) |
 | Clé d'envoi Android | remise au propriétaire le 19 novembre (fichier `cle-android-gauchise.zip`, **jamais dans le dépôt**) |
 
-L'appli embarque la bibliothèque du jour de sa construction et fonctionne sans réseau ; elle ne fait aucune requête.
+L'appli embarque la bibliothèque du jour de sa construction et fonctionne sans réseau. Sa seule requête : l'onglet Direct
+demande au détecteur du projet si un live est en cours (aucune donnée personnelle). Dans l'appli, le live et le chat
+s'ouvrent dans l'appli Twitch ou YouTube : aucun lecteur tiers n'est intégré (le site, lui, intègre le lecteur).
 Pour publier les nouvelles fiches, on relance le flux et on envoie une nouvelle version (une fois par semaine ou par
 mois suffit). Étape ultérieure possible : télécharger la base depuis le site (mécanisme `kbstore.js` déjà prêt).
 
 ## Le 21 novembre : Google Play (le plus urgent, à cause des 14 jours de test)
 
-1. **Créer le compte développeur** sur https://play.google.com/console (frais d'inscription uniques ; vérifier le tarif
-   affiché). Type de compte : *personnel*. Google vérifie l'identité (pièce d'identité) : compter quelques jours.
+1. **Créer le compte développeur** sur https://play.google.com/console (frais d'inscription uniques de 25 dollars US selon
+   l'aide Google lue le 24 novembre 2026 ; carte bancaire au nom du titulaire, pas de carte prépayée). Type de compte : *personnel*. Google vérifie l'identité (pièce d'identité) : compter quelques jours.
 2. **Enregistrer la clé d'envoi dans GitHub** (5 minutes, une seule fois) : dépôt du site > *Settings* >
    *Secrets and variables* > *Actions* > *New repository secret*, quatre secrets dont les valeurs sont dans
    `LISEZ-MOI.txt` du fichier `cle-android-gauchise.zip` : `ANDROID_KEYSTORE_BASE64`, `ANDROID_KEYSTORE_PASSWORD`,
@@ -47,8 +49,8 @@ mois suffit). Étape ultérieure possible : télécharger la base depuis le site
 
 ## Le 22 novembre : App Store
 
-1. **S'inscrire à l'Apple Developer Program** sur https://developer.apple.com/programs/ (abonnement annuel ; vérifier
-   le tarif affiché). Il faut un identifiant Apple avec la double authentification ; la validation prend en général
+1. **S'inscrire à l'Apple Developer Program** sur https://developer.apple.com/programs/ (abonnement de 99 dollars US par an
+   affiché sur developer.apple.com/programs le 24 novembre 2026 ; le montant en euros est indiqué au paiement). Il faut un identifiant Apple avec la double authentification ; la validation prend en général
    un à deux jours.
 2. **Créer l'identifiant de l'appli** : sur developer.apple.com > *Certificates, Identifiers & Profiles* >
    *Identifiers* > `+` > *App IDs* > `fr.gauchisetesparents.app` (aucune capacité particulière à cocher).

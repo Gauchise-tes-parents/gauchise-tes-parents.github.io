@@ -112,3 +112,18 @@ test('publication : sans détecteur, aucun cadre tiers ; avec détecteur, seuls 
   assert.match(sans.config, /kbRelais: null/);
   assert.throws(() => csp({ GTP_DIRECT_BASE: 'javascript:alert(1)' }));
 });
+
+test('applis mobiles : base embarquée sans relais, aucun lecteur tiers intégré dans l’onglet Direct', async () => {
+  const { execFileSync } = await import('node:child_process');
+  const { join } = await import('node:path');
+  const root = new URL('../..', import.meta.url).pathname;
+  execFileSync(process.execPath, ['scripts/mobile/build-mobile.js', '--plateforme', 'android'], { cwd: root, stdio: 'pipe' });
+  const cfg = readFileSync(join(root, 'dist/mobile/www/config.js'), 'utf8');
+  assert.match(cfg, /kbRelais: null/);
+  assert.match(cfg, /app: true/);
+  const app = readFileSync(join(root, 'public/js/app.js'), 'utf8');
+  const i = app.indexOf('if (window.GTP_CONFIG?.app) {', app.indexOf('function directZoneHtml'));
+  const bloc = app.slice(i, app.indexOf('\n  }\n', i));
+  assert.ok(i > 0 && !/<iframe/.test(bloc), 'pas de lecteur intégré dans l’appli');
+  assert.match(bloc, /urlChat\(p, s\)/);
+});

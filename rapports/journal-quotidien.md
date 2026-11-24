@@ -2091,3 +2091,14 @@ En plus, le sujet de départ (immigration) servait de contexte à chaque phrase 
 
   Le plan gratuit permet 100 000 demandes par jour, pour tous les visiteurs ensemble.
 - Rien ne change à l'écran. Tests : `tests/unit/relais-kb.test.js` (relais à jour, en retard ou altéré, en panne) et `tests/unit/direct.test.js` complété.
+
+## 24 novembre 2026 — kit de publication App Store / Google Play (demande du propriétaire)
+
+- **Applis : onglet Direct sans lecteur intégré.** Le voyant rouge reste ; « Regarder le live » et « Ouvrir le chat » ouvrent Twitch ou YouTube. Ainsi l'appli n'embarque ni contenu ni traceur tiers, et les déclarations « données non collectées » et « pas de contenu de tiers » restent exactes. Le site garde le lecteur intégré.
+- **Applis : base embarquée.** L'appli utilise la base qu'elle contient, sans passer par le relais Cloudflare (`GTP_KB_RELAIS=aucun` dans `scripts/mobile/build-mobile.js`).
+- **Captures refaites** pour les quatre formats, avec les nouveaux onglets. La capture 06 montre désormais l'onglet Direct, avec un live simulé pour la vitrine.
+- **Fiches mises à jour** : `mobile/store/FICHES-BOUTIQUES.md` (description, nouveautés, sécurité des données, notes pour l'examinateur) et `docs/MOBILE.md`. Tarifs vérifiés le 24 novembre 2026 :
+  - Google Play : 25 dollars US, une seule fois ;
+  - Apple : 99 dollars US par an ;
+  - test fermé Google : 12 testeurs pendant 14 jours.
+- Tests : 519 sur 519.

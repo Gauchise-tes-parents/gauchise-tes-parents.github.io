@@ -17,8 +17,11 @@ if (!['ios', 'android', 'mobile'].includes(plateforme)) { console.error('Platefo
 const soutien = args.includes('--avec-soutien');
 const OUT = join(ROOT, 'dist', 'mobile', 'www');
 
-// Pas de backend IA ni de serveur connecté dans l'appli : uniquement le mode autonome (aucune donnée transmise).
-execFileSync(process.execPath, [join(ROOT, 'scripts', 'build-static.js')], { stdio: 'inherit', env: { ...process.env, STATIC_OUT: OUT, GTP_API_BASE: '', GTP_IA_BASE: '', GTP_QUESTIONS_BASE: process.env.GTP_QUESTIONS_BASE_MOBILE || 'aucun' } });
+// Pas de backend IA ni de serveur connecté dans l'appli : uniquement le mode autonome (aucune donnée personnelle transmise).
+execFileSync(process.execPath, [join(ROOT, 'scripts', 'build-static.js')], { stdio: 'inherit', env: { ...process.env, STATIC_OUT: OUT, GTP_API_BASE: '', GTP_IA_BASE: '', GTP_QUESTIONS_BASE: process.env.GTP_QUESTIONS_BASE_MOBILE || 'aucun', GTP_KB_RELAIS: 'aucun' } });
+// Base : celle embarquée dans l'appli (aucun téléchargement). Direct : seule la vérification « en live ou pas » est
+// faite (détecteur du projet, sans donnée personnelle) ; le live s'ouvre dans l'appli Twitch ou YouTube, sans lecteur
+// intégré (pas de contenu ni de traceur tiers dans l'appli, déclarations des boutiques plus simples).
 const cfgPath = join(OUT, 'config.js');
 const cfg = readFileSync(cfgPath, 'utf8').replace(/build: ("[^"]*")/, `build: $1, app: true, plateforme: ${JSON.stringify(plateforme)}, soutien: ${soutien}`);
 writeFileSync(cfgPath, cfg + '// Version application mobile (scripts/mobile/build-mobile.js)\n');

@@ -1,6 +1,6 @@
 # Fiches des boutiques — textes et réponses prêts à copier
 
-Préparé le 19 novembre 2026. Les captures d'écran sont dans `mobile/store/captures/`, les icônes dans `mobile/store/`.
+Préparé le 19 novembre 2026, mis à jour le 24 novembre 2026 (onglet Direct, bibliothèque et thématiques fusionnées, nouvelles captures). Les captures d'écran sont dans `mobile/store/captures/`, les icônes dans `mobile/store/`.
 Les cases marquées **À COMPLÉTER** ne peuvent être remplies que par toi (coordonnées personnelles, comptes).
 Le pas à pas des démarches est dans `docs/MOBILE.md`.
 
@@ -43,7 +43,9 @@ Le pas à pas des démarches est dans `docs/MOBILE.md`.
 > • Pour chaque fiche : un verdict clair, les faits établis, les limites honnêtes et les éléments qui ne vont pas dans notre sens.
 > • Des sources publiques et vérifiables : INSEE, Cour des comptes, Assemblée nationale, Sénat, organismes de recherche, institutions européennes, vérificateurs de faits reconnus.
 > • Deux façons de répondre : face à une personne convaincue (démonter l'argument sans l'humilier, en pensant à ceux qui écoutent) ou face à une personne indécise (partir de ses inquiétudes et donner des repères fiables).
-> • Une bibliothèque à parcourir par thème, avec recherche.
+> • Une bibliothèque à parcourir par rubrique et par thème, avec recherche.
+> • Une conversation qui suit la discussion : quand ton interlocuteur change de sujet, l'appli passe toute seule à la bonne fiche.
+> • L'onglet Direct : un voyant rouge s'allume quand Marty Ducanda est en live sur Twitch ou YouTube.
 > • Des fiches « science du dialogue » sur l'art de convaincre : pourquoi on change rarement d'avis, comment éviter l'effet boomerang, comment écouter.
 >
 > NOTRE APPROCHE
@@ -53,6 +55,7 @@ Le pas à pas des démarches est dans `docs/MOBILE.md`.
 > • Aucun compte, aucune publicité, aucun traceur.
 > • Tes recherches sont analysées sur ton téléphone et ne sont envoyées à personne.
 > • La bibliothèque est intégrée à l'appli et fonctionne sans connexion.
+> • Seule information demandée en ligne : « Marty est-il en live ? », sans aucune donnée sur toi.
 >
 > Version bêta : signale-nous ce qui cloche !
 
@@ -62,7 +65,7 @@ Le pas à pas des démarches est dans `docs/MOBILE.md`.
 
 **Nouveautés de la version 1.0**
 
-> Première version : plus de 500 fiches sourcées, deux façons de répondre selon la personne en face, bibliothèque utilisable sans connexion, partage des réponses.
+> Première version : plus de 500 fiches sourcées, deux façons de répondre selon la personne en face, une conversation qui suit les changements de sujet, bibliothèque utilisable sans connexion, voyant des lives Twitch et YouTube, partage des réponses.
 
 ## Google Play Console — réponses aux formulaires
 
@@ -82,7 +85,7 @@ Le pas à pas des démarches est dans `docs/MOBILE.md`.
 
 **Sécurité des données** :
 - L'appli collecte-t-elle ou partage-t-elle des données utilisateur ? **Non.**
-- (Justification, si demandée : l'appli n'a pas de compte, pas de serveur, pas d'outil de mesure d'audience ; les recherches sont analysées sur l'appareil ; les préférences restent dans le stockage local du téléphone.)
+- (Justification, si demandée : l'appli n'a pas de compte, pas d'outil de mesure d'audience ; les recherches sont analysées sur l'appareil ; les préférences restent dans le stockage local du téléphone. Seule requête réseau : la vérification « live en cours ou non » auprès du serveur du projet, qui ne reçoit ni n'enregistre aucune donnée sur l'utilisateur. Le live et le chat s'ouvrent, sur demande, dans l'appli ou le site de Twitch ou YouTube, hors de l'appli.)
 - Chiffrement en transit / suppression des données : sans objet (aucune donnée collectée).
 
 **Applications gouvernementales, fonctionnalités financières, santé** : non.
@@ -111,11 +114,12 @@ Le pas à pas des démarches est dans `docs/MOBILE.md`.
 - Notes pour l'examinateur (à copier) :
 
 > Gauchise tes parents is a French-language civic education app. It helps users answer common political misconceptions during family discussions with verified, sourced facts (official statistics, parliamentary reports, public institutions, recognized fact-checkers), in a respectful tone toward people who hold different opinions.
-> The app works fully offline: its library of 500+ sourced fact sheets is embedded in the app and searched on the device. No account, no ads, no tracking, no data collection, no in-app purchases, no external payment or donation links.
+> The app works fully offline: its library of 500+ sourced fact sheets is embedded in the app and searched on the device. No account, no ads, no tracking, no data collection, no in-app purchases, no external payment or donation links. Its only network request checks whether the app's author (French YouTuber/streamer Marty Ducanda) is currently live; no user data is sent or stored. The "Direct" tab then offers buttons that open the live stream and chat in the Twitch or YouTube app; no third-party player or content is embedded in the app.
 > Native features: offline library and on-device search, native share sheet to share a sourced answer, Android back-button navigation.
 > To try it: tap "Débat", choose who you are talking to, then type or pick a statement (for example "Les fonctionnaires européens ne paient pas d'impôts"), or browse "Bibliothèque".
 
 ## Ce qui reste volontairement hors de l'appli
 
 - **Le lien Tipeee et la jauge de soutien** : masqués dans l'appli. Les règles d'Apple (version du 16 octobre 2026) réservent les collectes de fonds dans l'appli aux organismes à but non lucratif agréés et imposent l'achat intégré pour tout « pourboire » lié à un contenu ; un lien vers Tipeee risquerait un refus. Le bandeau de l'accueil devient « Version bêta » sans mention de Tipeee. Les soutiens restent possibles depuis le site.
-- **Les fonctions connectées (IA, demande de fiche)** : absentes de l'appli, qui ne fait aucune requête réseau pour fonctionner.
+- **Les fonctions connectées (IA, demande de fiche)** : absentes de l'appli, qui fonctionne sans réseau. Seule exception : la vérification « live en cours ou non » de l'onglet Direct (serveur du projet, aucune donnée personnelle).
+- **Le lecteur Twitch ou YouTube intégré** : réservé au site. Dans l'appli, le live et le chat s'ouvrent dans l'appli Twitch ou YouTube (pas de contenu ni de traceur tiers dans l'appli, déclarations « données non collectées » et « pas de contenu tiers » exactes).
