@@ -26,6 +26,11 @@ npx cap sync "$PLATEFORME"
 if [ "$PLATEFORME" = android ]; then
   G=android/app/build.gradle
   sed -i.bak -E "s/versionCode [0-9]+/versionCode $BUILD/; s/versionName \"[^\"]*\"/versionName \"$VERSION\"/" "$G" && rm -f "$G.bak"
+  # Google Play (protection automatique de Play) exige Android 7.0 minimum (SDK 24) ; Capacitor 7 met 23 par défaut
+  V=android/variables.gradle
+  sed -i.bak -E "s/minSdkVersion = [0-9]+/minSdkVersion = 24/" "$V" && rm -f "$V.bak"
+  grep -q "minSdkVersion = 24" "$V" || { echo "minSdkVersion 24 non appliqué" >&2; exit 1; }
+  grep -E "minSdkVersion" "$V"
   grep -E "versionCode|versionName|applicationId" "$G"
 else
   P=ios/App/App.xcodeproj/project.pbxproj
