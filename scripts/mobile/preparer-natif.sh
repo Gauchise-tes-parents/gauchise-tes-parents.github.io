@@ -28,9 +28,12 @@ if [ "$PLATEFORME" = android ]; then
   sed -i.bak -E "s/versionCode [0-9]+/versionCode $BUILD/; s/versionName \"[^\"]*\"/versionName \"$VERSION\"/" "$G" && rm -f "$G.bak"
   # Google Play (protection automatique de Play) exige Android 7.0 minimum (SDK 24) ; Capacitor 7 met 23 par défaut
   V=android/variables.gradle
-  sed -i.bak -E "s/minSdkVersion = [0-9]+/minSdkVersion = 24/" "$V" && rm -f "$V.bak"
-  grep -q "minSdkVersion = 24" "$V" || { echo "minSdkVersion 24 non appliqué" >&2; exit 1; }
-  grep -E "minSdkVersion" "$V"
+  # Google Play exige aussi de cibler Android 16 (API 36) ; Capacitor 7 cible 35 par défaut
+  sed -i.bak -E "s/minSdkVersion = [0-9]+/minSdkVersion = 24/; s/compileSdkVersion = [0-9]+/compileSdkVersion = 36/; s/targetSdkVersion = [0-9]+/targetSdkVersion = 36/" "$V" && rm -f "$V.bak"
+  for x in "minSdkVersion = 24" "compileSdkVersion = 36" "targetSdkVersion = 36"; do grep -q "$x" "$V" || { echo "$x non appliqué" >&2; exit 1; }; done
+  # le greffon Android de Capacitor 7 n'annonce pas encore l'API 36 : on lui indique qu'elle est voulue
+  grep -q "android.suppressUnsupportedCompileSdk" android/gradle.properties 2>/dev/null || echo "android.suppressUnsupportedCompileSdk=36" >> android/gradle.properties
+  grep -E "minSdkVersion|compileSdkVersion|targetSdkVersion" "$V"
   grep -E "versionCode|versionName|applicationId" "$G"
 else
   P=ios/App/App.xcodeproj/project.pbxproj
