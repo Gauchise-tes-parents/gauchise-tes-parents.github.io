@@ -1,0 +1,250 @@
+{
+  "id": "lfi-sortie-nucleaire-programme",
+  "type": "idee_recue",
+  "affirmation": "La France insoumise veut sortir du nucléaire.",
+  "volet": "politique",
+  "sous_theme": "France insoumise",
+  "rubriques": [],
+  "mots_cles": [
+    "lfi sortie du nucleaire",
+    "melenchon contre le nucleaire",
+    "insoumis veulent fermer les centrales",
+    "avenir en commun nucleaire",
+    "100 % renouvelables 2060",
+    "arret epr2 lfi",
+    "rte futurs energetiques 2050",
+    "scenario m0 sans nucleaire",
+    "fermeture centrales 60 ans",
+    "lfi veut le noir"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "C'est exact, mais il s'agit d'une sortie progressive, pas immédiate. Le programme L'Avenir en commun (édition de novembre 2026) prévoit de ne pas prolonger les réacteurs au-delà de 60 ans, d'arrêter le programme EPR2 et d'atteindre 100 % d'énergies renouvelables « au plus tard en 2060 ». Selon RTE, ce type de scénario est techniquement possible mais exigeant et plus coûteux que les scénarios avec nouveau nucléaire.",
+  "contexte": "La formule est souvent utilisée pour présenter LFI comme irresponsable (« ils veulent fermer les centrales demain », « retour à la bougie »). Le programme 2027 de LFI, publié le 6 novembre 2026, maintient bien l'objectif de sortie du nucléaire, avec un calendrier repoussé par rapport à 2022.",
+  "explication": "On compare ce que dit réellement le programme (source partisane, citée pour ce qu'elle propose) avec l'étude de référence de RTE sur les scénarios électriques à l'horizon 2050-2060.",
+  "faits": [
+    {
+      "fait": "Selon le programme L'Avenir en commun (édition 2027), LFI veut atteindre 100 % d'énergies renouvelables « au plus tard en 2060 » et sortir des énergies fossiles « avant 2050 ».",
+      "periode": "2026-2060",
+      "perimetre": "France",
+      "explication": "L'objectif de sortie du nucléaire est bien affiché, mais sur plusieurs décennies.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2060"
+    },
+    {
+      "fait": "Selon Public Sénat, cette échéance a été « repoussée à 2060 au plus tard, contre 2050 dans le programme de 2022 ».",
+      "periode": "2022-2026",
+      "perimetre": "France",
+      "explication": "LFI a allongé son calendrier : la sortie est plus progressive qu'en 2022.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2050 → 2060"
+    },
+    {
+      "fait": "Selon le programme, les centrales existantes seraient fermées progressivement, sans prolonger leur durée de vie « au-delà de 60 ans », et le programme de nouveaux réacteurs EPR2 serait arrêté ; selon ECOinfos, les plus anciens réacteurs atteindraient ce seuil à la fin des années 2030.",
+      "periode": "2026-2060",
+      "perimetre": "France",
+      "explication": "Il ne s'agit pas de fermer les centrales du jour au lendemain, mais de ne pas en construire de nouvelles et de les arrêter en fin de vie.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "60 ans"
+    },
+    {
+      "fait": "Selon RTE, les réacteurs actuels « ne pourront probablement pas fonctionner plus de 60 ans, sauf exception », et le parc historique disparaîtrait d'ici 2060 : sans nouveaux réacteurs, la France sortirait du nucléaire existant vers cette date, quel que soit le gouvernement.",
+      "periode": "2021-2060",
+      "perimetre": "France",
+      "explication": "Le vrai désaccord porte sur la construction de nouveaux réacteurs, pas sur la fermeture des anciens.",
+      "source": 3,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon RTE, « atteindre la neutralité carbone est impossible sans un développement significatif des énergies renouvelables » ; même le scénario le plus nucléaire suppose de multiplier par 7 le solaire, et tous les scénarios, du 100 % renouvelable au nucléaire volontariste, sont jugés possibles.",
+      "periode": "2021-2050",
+      "perimetre": "France",
+      "explication": "Le développement massif des renouvelables n'est pas une lubie : il est nécessaire dans tous les scénarios.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "×7"
+    },
+    {
+      "fait": "Fait défavorable : selon RTE, le scénario 100 % renouvelables en 2050 (M0) est le plus coûteux — de l'ordre de 77 milliards d'euros par an contre 59 pour un scénario avec nouveau nucléaire à l'horizon 2060, d'après le graphique du rapport — et il constitue un « défi industriel majeur » impliquant « des paris technologiques lourds ».",
+      "periode": "2021-2060",
+      "perimetre": "France",
+      "explication": "Le choix d'une sortie du nucléaire a un coût et des risques techniques réels, que les défenseurs du 100 % renouvelable doivent assumer et expliquer.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "≈ 18 Md€/an"
+    },
+    {
+      "fait": "Fait défavorable : selon RTE, un système sans nucléaire doit pouvoir « absorber des périodes de plusieurs semaines consécutives sans vent », ce qui suppose environ 30 GW de centrales de secours fonctionnant au gaz décarboné, à l'hydrogène ou au biométhane.",
+      "periode": "2021-2050",
+      "perimetre": "France",
+      "explication": "La sécurité d'approvisionnement d'un système 100 % renouvelable repose sur des technologies de stockage et de secours encore à déployer à grande échelle.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "30 GW"
+    },
+    {
+      "fait": "Selon RTE, l'écart de coût entre scénarios dépend fortement des hypothèses : si le financement du nucléaire coûte 3 points de plus, son avantage disparaît face au meilleur scénario 100 % renouvelable ; et RTE rappelle que « c'est au personnel politique élu démocratiquement de choisir ».",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Le choix énergétique est un choix politique légitime, pas une question tranchée par la technique.",
+      "source": 4,
+      "fiabilite": "interpretation"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, LFI veut sortir du nucléaire, mais progressivement : pas de prolongation des réacteurs au-delà de 60 ans, pas de nouveaux EPR2, et 100 % de renouvelables « au plus tard en 2060 ». RTE juge ce chemin possible, mais plus coûteux et plus exigeant techniquement que les scénarios avec nouveau nucléaire.",
+    "moyen": "L'affirmation est juste sur le fond. Le programme L'Avenir en commun, dans son édition de novembre 2026, maintient l'objectif de sortie du nucléaire, avec 100 % d'énergies renouvelables « au plus tard en 2060 » — contre 2050 dans le programme de 2022. Concrètement : ne pas prolonger les centrales au-delà de 60 ans et arrêter le programme EPR2.\n\nCe n'est donc pas « fermer les centrales demain ». D'ailleurs, selon RTE, les réacteurs actuels ne pourront probablement pas fonctionner plus de 60 ans, et le parc historique disparaîtra vers 2060 de toute façon : le vrai débat porte sur la construction de nouveaux réacteurs. RTE juge le scénario 100 % renouvelable possible, mais c'est le plus coûteux et un « défi industriel majeur ». C'est un choix politique, que RTE laisse aux élus.",
+    "detaille": "Oui, La France insoumise veut sortir du nucléaire. Mais la manière dont l'affirmation est souvent présentée — un arrêt brutal — ne correspond pas au programme.\n\nLe programme L'Avenir en commun, publié le 6 novembre 2026, prévoit de fermer progressivement les centrales existantes en ne prolongeant pas leur durée de vie au-delà de 60 ans, d'arrêter le programme de six nouveaux réacteurs EPR2 et d'atteindre 100 % d'énergies renouvelables « au plus tard en 2060 ». Selon Public Sénat, cette échéance a été repoussée de dix ans par rapport au programme de 2022. Le programme prévoit aussi une reconversion des salariés du nucléaire et un pôle public de l'énergie.\n\nQue dit l'expertise publique ? Dans ses « Futurs énergétiques 2050 », RTE, le gestionnaire du réseau électrique, a étudié six scénarios, dont un 100 % renouvelable en 2050. Ses conclusions sont nuancées. D'abord, aucun scénario n'atteint la neutralité carbone sans un développement massif des renouvelables. Ensuite, les réacteurs actuels ne pourront probablement pas dépasser 60 ans, et le parc historique disparaîtra vers 2060 : sans nouveaux réacteurs, la sortie du nucléaire existant arrive mécaniquement. Enfin, tous les scénarios sont jugés possibles.\n\nMais RTE est aussi clair sur les difficultés. Le scénario 100 % renouvelable est le plus coûteux — de l'ordre de 18 milliards d'euros par an de plus qu'un scénario avec nouveau nucléaire vers 2060, d'après le graphique du rapport — et repose sur des « paris technologiques lourds » : stockage, centrales de secours à l'hydrogène ou au biométhane pour passer des semaines sans vent, rythme de construction inédit. Ces coûts dépendent fortement des hypothèses, notamment du coût de financement du nucléaire.\n\nLe débat est donc légitime : il oppose deux visions de la transition, avec des coûts et des risques différents (déchets et accident d'un côté, intermittence et dépendance technologique de l'autre). RTE le dit lui-même : c'est aux élus de choisir. Ce qui est trompeur, c'est de présenter la position de LFI comme un retour à la bougie.",
+    "empathie": "Beaucoup de gens sont attachés au nucléaire, qui fournit une électricité stable et peu carbonée, et craignent des coupures ou des factures plus élevées. Ces inquiétudes sont légitimes et méritent des réponses précises plutôt que des slogans, dans un sens comme dans l'autre."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Avec LFI, on fermera les centrales et on aura des coupures.",
+      "reponse": "Le programme ne prévoit pas de fermer les centrales du jour au lendemain mais de ne pas les prolonger au-delà de 60 ans, avec un objectif à 2060. RTE juge un tel système possible à condition d'investir dans le stockage et les moyens de secours."
+    },
+    {
+      "objection": "Sans nucléaire, c'est forcément plus cher.",
+      "reponse": "Selon RTE, le scénario 100 % renouvelable est effectivement le plus coûteux, mais l'écart dépend beaucoup du coût de financement des nouveaux réacteurs ; avec 3 points de plus, l'avantage du nucléaire disparaît face au meilleur scénario renouvelable."
+    },
+    {
+      "objection": "Les renouvelables ne servent à rien, il suffit du nucléaire.",
+      "reponse": "RTE est formel : la neutralité carbone est impossible sans un développement massif des renouvelables, même dans le scénario le plus nucléaire, qui suppose de multiplier le solaire par sept."
+    }
+  ],
+  "questions": [
+    "Savais-tu que, selon RTE, les centrales actuelles ne pourront sans doute pas dépasser 60 ans, quel que soit le gouvernement ?",
+    "Entre le coût des nouveaux réacteurs et celui du stockage, sur quels critères aimerais-tu que ce choix soit fait ?"
+  ],
+  "limites": [
+    "Le programme de LFI est une source partisane, citée seulement pour établir ce que le parti propose ; il n'est pas chiffré à ce jour (chiffrage annoncé début 2027).",
+    "L'étude de RTE date de 2021 : les coûts des technologies et les hypothèses de consommation ont pu évoluer ; une mise à jour de RTE n'a pas été consultée.",
+    "Les coûts comparés des scénarios ont été lus sur un graphique du résumé exécutif à travers un outil de lecture qui résume : ce sont des ordres de grandeur.",
+    "Le scénario M0 de RTE vise 2050 et non 2060 : il n'est pas strictement identique au calendrier de LFI.",
+    "La page de Vie publique présentant le rapport n'a pas pu être ouverte ; le PDF du résumé exécutif l'a été (partiellement). Aucune étude de l'ADEME n'a été lue."
+  ],
+  "sources": [
+    {
+      "titre": "L'Avenir en commun, chapitre 3 : Les grands chantiers de la bifurcation écologique (section « Organiser le 100 % d'énergies renouvelables »)",
+      "organisme": "La France insoumise / campagne Mélenchon 2027 (source partisane)",
+      "date_publication": "novembre 2026",
+      "url": "https://melenchon2027.fr/?p=26640",
+      "passage": "Le programme vise la sortie des énergies fossiles « avant 2050 » et le 100 % d'énergies renouvelables « au plus tard en 2060 ». Il prévoit la fermeture progressive des centrales existantes en « ne prolongeant pas au-delà de 60 ans leur durée de vie », l'arrêt du programme de nouveau nucléaire EPR2, l'abandon du projet d'enfouissement des déchets nucléaires, une convention collective unique pour les salariés du nucléaire et leur reconversion lors des fermetures, le développement du stockage, un pôle public de l'énergie autour d'EDF et la renationalisation d'Engie. Le texte ne fixe pas de date précise pour la fermeture du dernier réacteur.",
+      "pertinence": "Programme officiel du parti, source partisane citée uniquement pour établir ce que LFI propose (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l'écologie la clé de voûte de son programme",
+      "organisme": "Public Sénat",
+      "date_publication": "6 novembre 2026",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme",
+      "passage": "Le programme maintient l'objectif de sortir du nucléaire et vise 100 % d'énergies renouvelables, échéance « repoussée à 2060 au plus tard, contre 2050 dans le programme de 2022 ». Il fixe une « réduction de 65 % des émissions de gaz à effet de serre d'ici à 2033 ». Le chiffrage complet du programme doit être dévoilé au début de l'année 2027.",
+      "pertinence": "Article de la chaîne parlementaire présentant la nouvelle édition du programme (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "100 % renouvelables en 2060, fin des EPR2 : ce que LFI prévoit pour l'énergie",
+      "organisme": "ECOinfos – Les énergies renouvelables",
+      "date_publication": "10 novembre 2026",
+      "url": "https://www.les-energies-renouvelables.eu/article/actualites/energies/100-renouvelables-en-2060-fin-des-epr2-ce-que-lfi-prevoit-pour-lenergie-2523/",
+      "passage": "La nouvelle édition de L'Avenir en commun, publiée le 6 novembre 2026, prévoit une fermeture progressive des centrales sans prolongation « au-delà de 60 ans » ; les plus anciens réacteurs, mis en service à la fin des années 1970, atteindraient ce seuil à la fin des années 2030. Elle prévoit l'« arrêt du programme EPR2 » (six réacteurs à Penly, Gravelines et Bugey, coût visé de 72,8 milliards d'euros, première mise en service visée d'ici 2040). L'horizon du 100 % renouvelable passe de 2050 à 2060, ce que l'article présente comme un recul.",
+      "pertinence": "Site d'information spécialisé dans l'énergie (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Futurs énergétiques 2050 – Principaux résultats (résumé exécutif)",
+      "organisme": "RTE (Réseau de transport d'électricité), publié sur Vie publique",
+      "date_publication": "25 octobre 2021",
+      "url": "https://vie-publique.fr/files/rapports/fichiers_joints/282232-resume-executif.pdf",
+      "passage": "Le scénario M0 (100 % renouvelables en 2050) accélère le déclassement des réacteurs et pousse au maximum le solaire (environ 208 GW), l'éolien terrestre (74 GW) et en mer (62 GW). Le système doit pouvoir « absorber des périodes de plusieurs semaines consécutives sans vent », ce qui suppose environ 30 GW de centrales thermiques décarbonées de secours ; c'est un « défi industriel majeur » et les scénarios à très forte part renouvelable « impliquent des paris technologiques lourds ». M0 est le scénario le plus coûteux ; selon le graphique du rapport, environ 77 Md€/an contre environ 59 Md€/an pour N03 à l'horizon 2060. Un parc nucléaire d'au moins 40 GW peut coûter moins cher à long terme ; avec un coût de financement du nucléaire plus élevé de 3 points, l'écart disparaît face au meilleur scénario 100 % renouvelable (M23). Les réacteurs actuels « ne pourront probablement pas fonctionner plus de 60 ans, sauf exception » ; le parc historique disparaîtrait d'ici 2060.",
+      "pertinence": "Étude de référence du gestionnaire public du réseau électrique (résumé exécutif lu partiellement à travers un outil de lecture qui résume ; valeurs de coût lues sur un graphique).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Futur énergétique de la France : nucléaire et renouvelables, le « en même temps » de RTE",
+      "organisme": "Banque des Territoires (Localtis), avec AFP",
+      "date_publication": "25 octobre 2021",
+      "url": "https://www.banquedesterritoires.fr/futur-energetique-de-la-france-nucleaire-et-renouvelables-le-en-meme-temps-de-rte",
+      "passage": "L'écart entre un scénario avec 14 EPR et un scénario sans nouveaux réacteurs reposant sur de grands parcs renouvelables est d'environ 10 milliards d'euros par an, jusqu'à 20 milliards dans certains cas. « Atteindre la neutralité carbone est impossible sans un développement significatif des énergies renouvelables » ; même le scénario le plus nucléaire suppose de multiplier par 7 le solaire. « Tous ces chemins sont possibles même si certains sont plus difficiles ou incertains » ; « C'est au personnel politique élu démocratiquement de choisir les orientations pour le pays ». Le parc actuel atteindra progressivement sa limite d'exploitation d'ici 2060.",
+      "pertinence": "Article de presse spécialisée des collectivités, avec dépêche AFP, résumant l'étude de RTE (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Publication du chiffrage du programme de LFI (annoncé début 2027) et éventuelle mise à jour des scénarios de RTE.",
+  "objections_legitimes": [
+    "Le scénario 100 % renouvelable est le plus coûteux selon RTE.",
+    "Il suppose des technologies de stockage et de secours encore peu déployées.",
+    "Le nucléaire produit une électricité très peu carbonée et pilotable."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison : LFI veut sortir du nucléaire, c'est écrit dans son programme. Mais pas demain matin : il s'agit de ne pas construire de nouveaux réacteurs et de fermer les anciens à 60 ans, ce que RTE juge de toute façon probable pour la plupart d'entre eux. On peut préférer le nucléaire, c'est un débat légitime ; mais parler de retour à la bougie, c'est faux.",
+    "indecis": "La question est sérieuse et les experts eux-mêmes ne tranchent pas : RTE juge possibles un avenir avec ou sans nouveau nucléaire. Le 100 % renouvelable coûterait plus cher et demande des technologies de stockage à développer ; le nouveau nucléaire coûte cher aussi et pose la question des déchets. C'est un choix politique, à faire en connaissant les vrais chiffres."
+  },
+  "repond_a": [
+    {
+      "id": "lfi_nucleaire_q2511_melenchon_lfi_gauche",
+      "label": "Programme de LFI sur le nucléaire"
+    },
+    {
+      "id": "lfi_nucleaire_q2511_melenchon_lfi",
+      "label": "Programme de LFI sur le nucléaire"
+    },
+    {
+      "id": "lfi_nucleaire_q2511",
+      "label": "Programme de LFI sur le nucléaire"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "melenchon",
+    "meluche",
+    "lfi",
+    "insoumis",
+    "france insoumise",
+    "nupes",
+    "nfp",
+    "gauche",
+    "gauchos",
+    "mitterrand",
+    "jospin",
+    "front populaire"
+  ],
+  "lecture": {
+    "valeurs": [
+      "democratie",
+      "services_publics",
+      "travailleurs"
+    ],
+    "mecanismes": "La formule réduit un programme de sortie progressive, étalée sur plusieurs décennies, à l’image d’un arrêt brutal des centrales, pour présenter la gauche comme irresponsable et clore le débat énergétique avant qu’il ait lieu.",
+    "consequences": "Caricaturer les scénarios renouvelables empêche de discuter sérieusement des coûts, des risques et des emplois liés à chaque option, alors que le parc actuel arrivera de toute façon en fin de vie.",
+    "democratie": "Le gestionnaire public du réseau le dit lui-même : le choix entre nouveau nucléaire et renouvelables revient aux élus, et il doit se faire sur la base d’études publiques, de débats contradictoires et de la consultation des citoyens.",
+    "propositions": [
+      "Organiser un grand débat public sur le mix électrique, appuyé sur les scénarios des organismes publics.",
+      "Garantir un plan de reconversion et une convention collective protectrice pour les salariés du nucléaire.",
+      "Créer un pôle public de l’énergie pour maîtriser les investissements et les tarifs."
+    ],
+    "defavorables": [
+      {
+        "fait": "Selon le gestionnaire du réseau électrique, le scénario entièrement renouvelable est le plus coûteux et repose sur des paris technologiques lourds, notamment pour le stockage et les moyens de secours.",
+        "integration": "Il faut l’assumer et l’expliquer : ce surcoût dépend fortement des hypothèses, et il doit être mis en regard des coûts, des déchets et des risques du nouveau nucléaire."
+      }
+    ]
+  },
+  "concepts": [
+    "lfi_nucleaire",
+    "origine",
+    "melenchon_lfi",
+    "gauche",
+    "ecologie"
+  ]
+}

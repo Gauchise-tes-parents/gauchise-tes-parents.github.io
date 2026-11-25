@@ -1,0 +1,222 @@
+{
+  "id": "smic-salaire-majorite",
+  "type": "idee_recue",
+  "affirmation": "De plus en plus de Français sont payés au Smic : le salaire minimum est devenu le salaire de la majorité.",
+  "volet": "economie",
+  "sous_theme": "Salaires",
+  "rubriques": [],
+  "mots_cles": [
+    "tout le monde est au smic",
+    "smic salaire de la majorite",
+    "smicardisation",
+    "de plus en plus de smicards",
+    "part des salaries au smic",
+    "tassement des salaires",
+    "salaire median smic",
+    "exonerations bas salaires trappe",
+    "revalorisation smic beneficiaires",
+    "bientot tous payes au smic"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Faux sur la majorité, juste sur le tassement. Selon la Dares, 11,8 % des salariés du privé étaient directement concernés par la hausse du Smic au 1er janvier 2026, après un pic de 17,3 % en 2023. Le salaire médian net (2 238 euros en 2025) reste nettement au-dessus du Smic net (1 426 euros), selon l'Insee. Mais l'inflation a resserré le bas de l'échelle, et les exonérations de cotisations sur les bas salaires peuvent freiner les augmentations.",
+  "contexte": "Le sentiment que « tout le monde finit au Smic » s'est renforcé avec l'inflation de 2022-2023 : le Smic, indexé sur les prix, a augmenté plus vite que beaucoup d'autres salaires. Le mot « smicardisation » est utilisé à droite comme à gauche, avec des remèdes opposés.",
+  "explication": "On distingue la part des salariés directement payés au Smic (Dares), la distribution des salaires (Insee) et le tassement au voisinage du Smic, analysé par le rapport Bozio-Wasmer de 2024.",
+  "faits": [
+    {
+      "fait": "Selon la Dares, 11,8 % des salariés du privé non agricole, environ 2,1 millions de personnes, ont été directement concernés par la revalorisation du Smic au 1er janvier 2026, contre 12,4 % au 1er novembre 2024.",
+      "periode": "2024-2026",
+      "perimetre": "France, secteur privé non agricole",
+      "explication": "Les salariés au Smic sont une minorité, de l'ordre d'un sur huit.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "11,8 %"
+    },
+    {
+      "fait": "Selon la Dares, rapportée par une dépêche, la part de bénéficiaires recule « depuis le pic de 17,3% atteint au 1er janvier 2023 ».",
+      "periode": "2023-2026",
+      "perimetre": "France, secteur privé non agricole",
+      "explication": "La part a bien augmenté pendant la vague d'inflation, puis elle a reflué.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "17,3 %"
+    },
+    {
+      "fait": "Selon l'Insee, en 2025, le salaire net médian en équivalent temps plein dans le privé est de 2 238 euros par mois et le salaire moyen de 2 797 euros, pour un Smic net de 1 426 euros ; même le premier décile (1 519 euros) dépasse le Smic.",
+      "periode": "2025",
+      "perimetre": "France, secteur privé",
+      "explication": "La moitié des salariés gagnent plus de 2 238 euros nets : le Smic n'est pas le salaire de la majorité.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "2 238 €"
+    },
+    {
+      "fait": "Selon la Dares, 25,6 % des salariés à temps partiel ont bénéficié de la revalorisation de janvier 2026 contre 8,8 % des temps complets ; près de 60 % des bénéficiaires sont des femmes, et la part atteint 62,3 % dans la restauration rapide.",
+      "periode": "2026",
+      "perimetre": "France, secteur privé non agricole",
+      "explication": "Le Smic concerne d'abord les femmes, le temps partiel et certains secteurs : c'est là que se concentre la précarité salariale.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "25,6 %"
+    },
+    {
+      "fait": "Selon le rapport Bozio-Wasmer, la part des salariés payés moins de 1,1 Smic est passée de 10,6 % à 11,6 % entre 1994 et 2006, puis était de 10,5 % en 2022 ; en 2021 et 2022, la hausse du Smic sous l'effet de l'inflation a contribué à une contraction de la distribution des salaires.",
+      "periode": "1994-2022",
+      "perimetre": "France",
+      "explication": "Le tassement est réel, surtout en période d'inflation, même si la part des salariés au voisinage du Smic n'a pas explosé.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "10,5 %"
+    },
+    {
+      "fait": "Selon le même rapport, les allègements généraux de cotisations ont coûté environ 75 milliards d'euros en 2023 ; leur caractère dégressif crée des taux marginaux élevés qui peuvent freiner les hausses de salaire, même si la preuve empirique de cette « trappe » est jugée délicate.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Des aides publiques massives aux bas salaires peuvent inciter à maintenir les rémunérations près du Smic.",
+      "source": 3,
+      "fiabilite": "debat",
+      "chiffre": "75 Md€"
+    },
+    {
+      "fait": "Fait défavorable : selon la Dares, plus d'un salarié sur six était directement concerné par la hausse du Smic au 1er janvier 2023 (17,3 %), et 2,5 % des salariés restaient couverts par des grilles de branche inférieures au Smic à la veille du 1er janvier 2026.",
+      "periode": "2023-2026",
+      "perimetre": "France, secteur privé non agricole",
+      "explication": "Le ressenti de déclassement repose sur une réalité : des grilles de salaires qui ne suivent pas et des débuts de carrière proches du Smic.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2,5 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non, le Smic n'est pas le salaire de la majorité : 11,8 % des salariés du privé étaient concernés par sa hausse en janvier 2026, selon la Dares, et le salaire médian net (2 238 euros) dépasse nettement le Smic net (1 426 euros), selon l'Insee. Mais l'inflation a tassé le bas de l'échelle, et la part au Smic a culminé à 17,3 % en 2023.",
+    "moyen": "Le Smic n'est pas devenu le salaire de la majorité. Selon la Dares, 11,8 % des salariés du privé, environ 2,1 millions de personnes, ont été directement concernés par sa revalorisation au 1er janvier 2026. Selon l'Insee, la moitié des salariés du privé gagnent plus de 2 238 euros nets par mois en équivalent temps plein, contre 1 426 euros pour le Smic net.\n\nLe sentiment de « smicardisation » n'est pourtant pas sans fondement. Pendant la vague d'inflation, le Smic, indexé sur les prix, a rattrapé des salaires qui stagnaient : la part de salariés concernés a culminé à 17,3 % en 2023. Et les exonérations de cotisations, environ 75 milliards d'euros en 2023 selon le rapport Bozio-Wasmer, peuvent inciter les employeurs à maintenir les salaires près du Smic. Le vrai sujet, c'est donc le blocage des salaires juste au-dessus.",
+    "detaille": "L'affirmation mélange un ressenti juste et un chiffre faux. Le chiffre faux d'abord : selon la Dares, 11,8 % des salariés du privé non agricole, soit environ 2,1 millions de personnes, ont été directement concernés par la revalorisation du Smic au 1er janvier 2026. C'est moins qu'au 1er novembre 2024 (12,4 %) et nettement moins qu'au pic de janvier 2023 (17,3 %). Selon l'Insee, le salaire net médian en équivalent temps plein dans le privé atteint 2 238 euros en 2025, contre 1 426 euros pour le Smic net : la majorité des salariés n'est pas au Smic.\n\nLe ressenti juste ensuite. Pendant l'inflation de 2021-2023, le Smic, seul salaire indexé automatiquement sur les prix, a augmenté plus vite que les salaires qui le suivaient. Le rapport Bozio-Wasmer note que cette dynamique a « contribué à une contraction de la distribution des salaires ». Beaucoup de salariés ont vu leur écart avec le Smic fondre, et des grilles de branche sont même passées sous le salaire minimum : 2,5 % des salariés étaient encore concernés à la veille de janvier 2026.\n\nLes salariés au Smic sont d'abord des femmes (près de 60 % des bénéficiaires), des temps partiels (25,6 % d'entre eux sont concernés) et des salariés de très petites entreprises ou de secteurs comme la restauration rapide.\n\nEnfin, les allègements de cotisations sur les bas salaires ont coûté environ 75 milliards d'euros en 2023. Comme ils diminuent quand le salaire augmente, ils rendent chaque hausse plus coûteuse pour l'employeur. Les auteurs jugent la preuve empirique de cette « trappe » délicate, mais le risque est sérieux. La réponse n'est pas d'opposer smicards et salariés modestes, mais d'augmenter les salaires, de conditionner les aides publiques et de rouvrir les négociations de branche.",
+    "empathie": "Quand on a dix ans d'ancienneté et qu'on gagne à peine plus qu'un nouvel embauché au Smic, on a le sentiment d'être déclassé, et ce sentiment est fondé. Le problème n'est pas le Smic, c'est que les salaires juste au-dessus n'ont pas suivi."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Tout le monde autour de moi est au Smic.",
+      "reponse": "Dans certains secteurs, c'est presque vrai : 62,3 % des salariés de la restauration rapide étaient concernés en janvier 2026. Mais sur l'ensemble du privé, c'est 11,8 %, et le salaire médian dépasse 2 200 euros nets."
+    },
+    {
+      "objection": "Si le Smic augmente, tout le monde finira au Smic.",
+      "reponse": "Le tassement vient surtout de salaires au-dessus qui ne suivent pas. La solution est de relever l'ensemble des grilles et de conditionner les exonérations, pas de bloquer le Smic."
+    },
+    {
+      "objection": "C'est à cause des charges trop lourdes que les salaires ne montent pas.",
+      "reponse": "Les cotisations sur les bas salaires sont déjà massivement allégées, pour environ 75 milliards d'euros en 2023 ; ce sont justement ces allègements dégressifs qui peuvent freiner les hausses."
+    }
+  ],
+  "questions": [
+    "Si la moitié des salariés du privé gagnent plus de 2 238 euros nets, le problème est-il le nombre de smicards ou le blocage des salaires juste au-dessus ?",
+    "Est-il normal que l'État paie environ 75 milliards d'euros d'allègements sans exiger de hausses de salaires en échange ?"
+  ],
+  "limites": [
+    "La publication de la Dares n'a pas pu être ouverte (page de vérification anti-robots) : ses chiffres sont repris de deux articles de presse qui la résument.",
+    "Les documents ont été lus à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "Le salaire médian de l'Insee est calculé en équivalent temps plein : il ne reflète pas les revenus des salariés à temps partiel.",
+    "La part des salariés au voisinage du Smic issue du rapport Bozio-Wasmer porte sur 2022 ; aucun chiffre plus récent n'a été lu.",
+    "Le rapport final de la mission Bozio-Wasmer (octobre 2024) n'a pas pu être ouvert ; seul le rapport d'étape l'a été."
+  ],
+  "sources": [
+    {
+      "titre": "Smic : qui sont les salariés qui touchent le salaire minimum en 2026 ? Les résultats de l'étude de la Dares",
+      "organisme": "MoneyVox, d'après la Dares",
+      "date_publication": "15 octobre 2026",
+      "url": "https://www.moneyvox.fr/votre-argent/actualites/110844/smic-qui-sont-les-salaries-qui-touchent-le-salaire-minimum-en-2026-les-resultats-de-etude-de-la-dares",
+      "passage": "Selon la Dares, 11,8 % des salariés du privé non agricole, environ 2,1 millions de personnes, ont été directement concernés par la revalorisation de 1,2 % du Smic (12,02 euros brut de l'heure) au 1er janvier 2026, contre 12,4 % au 1er novembre 2024. 25,6 % des salariés à temps partiel en ont bénéficié contre 8,8 % des temps complets ; près de 60 % des bénéficiaires sont des femmes ; 21,9 % dans les entreprises de 1 à 9 salariés ; 62,3 % dans la restauration rapide.",
+      "pertinence": "Article de presse économique résumant la publication de la Dares (lu à travers un outil de lecture qui résume) ; la page de la Dares n'a pas pu être ouverte.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Revalorisation du Smic : légère baisse de la part de bénéficiaires au 1er janvier (étude)",
+      "organisme": "ID, l'Info Durable (dépêche, d'après la Dares)",
+      "date_publication": "15 octobre 2026",
+      "url": "https://www.linfodurable.fr/revalorisation-du-smic-legere-baisse-de-la-part-de-beneficiaires-au-1er-janvier-etude-59391",
+      "passage": "2,1 millions de salariés du privé, soit « 11,8% des salariés (hors secteur agricole) », ont vu leur salaire augmenter directement avec la revalorisation du 1er janvier 2026, en baisse « depuis le pic de 17,3% atteint au 1er janvier 2023 » (12,4 % au 1er novembre 2024). Le Smic est « le seul salaire évoluant mécaniquement avec l'inflation ». Il a de nouveau été revalorisé automatiquement de 2,4 % le 1er juin 2026.",
+      "pertinence": "Dépêche reprise par un média (logo AFP affiché), lue à travers un outil de lecture qui résume.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les salaires dans le secteur privé en 2025 (Insee Première n° 2132)",
+      "organisme": "Insee",
+      "date_publication": "octobre 2026",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/9087193/ip2132.pdf",
+      "passage": "En 2025, salaire mensuel net moyen en équivalent temps plein dans le privé : 2 797 euros ; médian : 2 238 euros ; premier décile : 1 519 euros ; neuvième décile : 4 441 euros. Le Smic net s'établit à 1 426 euros. Le salaire médian est inférieur de 20,0 % au salaire moyen. Le rapport interdécile passe de 2,91 à 2,92.",
+      "pertinence": "Publication de la statistique publique (PDF lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mission sur l'articulation entre les salaires, le coût du travail et la prime d'activité — rapport d'étape (Antoine Bozio et Étienne Wasmer)",
+      "organisme": "France Stratégie (mission Bozio-Wasmer)",
+      "date_publication": "avril 2024",
+      "url": "https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/rapport_detape_final_-_7_mai_2024.pdf",
+      "passage": "Coût des allègements généraux de cotisations estimé à 75 milliards d'euros en 2023. « La proportion de personnes rémunérées moins de 1,1 fois le Smic est ainsi passée de 10,6 à 11,6 % entre 1994 et 2006 » et « était de 10,5 % en 2022 » ; la distribution est stable après 2006. En 2021 et 2022, « le dynamisme du Smic sous l'effet du retour d'une inflation forte a contribué à une contraction de la distribution des salaires ». L'inflation « a compressé la distribution des salaires et rendu plus d'emplois éligibles aux exonérations ». Les taux marginaux élevés liés à la sortie des exonérations peuvent freiner les hausses de salaire, mais leur preuve empirique « est néanmoins délicate ».",
+      "pertinence": "Rapport d'expertise remis au gouvernement par deux économistes (long PDF lu par parties à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Nouvelle étude de la Dares sur la revalorisation du Smic au 1er janvier 2027 et Insee Première sur les salaires du privé en 2026.",
+  "objections_legitimes": [
+    "La part de salariés concernés par les hausses du Smic a nettement augmenté pendant la période d'inflation, jusqu'à 17,3 % en 2023.",
+    "Les salaires proches du Smic se sont tassés, et des grilles de branche sont passées sous le salaire minimum.",
+    "Les exonérations de cotisations dégressives peuvent freiner les augmentations au-dessus du Smic."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison de dire que beaucoup de salaires se rapprochent du Smic, le rapport Bozio-Wasmer le confirme pour la période d'inflation. Mais selon la Dares, c'est environ un salarié du privé sur huit qui est au Smic, pas la majorité. Le vrai scandale, c'est que des patrons touchent des milliards d'allègements pour des bas salaires sans obligation d'augmenter les gens.",
+    "indecis": "Le sentiment d'être payé « presque au Smic » après des années de travail est réel et légitime. Les chiffres disent que 11,8 % des salariés du privé étaient concernés par la hausse de janvier 2026, et que le salaire médian est autour de 2 240 euros nets. Ce qu'il faut regarder, ce sont les grilles salariales et les exonérations qui freinent les augmentations au-dessus du Smic."
+  },
+  "repond_a": [
+    {
+      "id": "smic_majorite_q2511",
+      "label": "Part des salariés au Smic"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "paient moins",
+    "payent moins",
+    "smic",
+    "dumping",
+    "baisser les salaires",
+    "casser les salaires",
+    "bon marche",
+    "travaillent pour rien",
+    "au noir",
+    "salaire minimum",
+    "coup de pouce"
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "repartition",
+      "egalite_fh"
+    ],
+    "mecanismes": "Le sentiment de déclassement, bien réel chez les salariés juste au-dessus du salaire minimum, est transformé en idée fausse selon laquelle la majorité serait au Smic, ce qui sert parfois à réclamer le gel du salaire minimum.",
+    "consequences": "Opposer les smicards aux salariés modestes détourne l’attention du blocage des grilles salariales et des allègements de cotisations versés sans contrepartie.",
+    "democratie": "Les salaires se négocient collectivement : des branches dont les grilles passent sous le salaire minimum montrent que le dialogue social doit être relancé et contrôlé.",
+    "propositions": [
+      "Conditionner les allègements de cotisations à des hausses de salaires négociées.",
+      "Imposer la renégociation rapide des grilles de branche inférieures au salaire minimum.",
+      "Lutter contre le temps partiel subi, qui concentre les salariés au salaire minimum, surtout des femmes."
+    ],
+    "defavorables": [
+      {
+        "fait": "Pendant la vague d’inflation, la part des salariés concernés par les hausses du salaire minimum a nettement augmenté et le bas de l’échelle s’est tassé.",
+        "integration": "Le ressenti est fondé : la solution est d’augmenter les salaires au-dessus du minimum, pas de freiner le salaire minimum."
+      }
+    ]
+  },
+  "concepts": [
+    "smic_majorite",
+    "salaires",
+    "salaire_minimum"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "ouverture-dimanche-emplois",
+  "type": "idee_recue",
+  "affirmation": "Ouvrir les magasins le dimanche crée des emplois.",
+  "volet": "droits",
+  "sous_theme": "Droits des travailleurs",
+  "rubriques": [],
+  "mots_cles": [
+    "travail du dimanche cree des emplois",
+    "ouverture dominicale emplois",
+    "magasins ouverts le dimanche",
+    "loi macron travail dominical",
+    "zones touristiques internationales",
+    "travail dominical commerce",
+    "ouvrir le dimanche relance consommation",
+    "dimanche jour de repos",
+    "volontariat travail du dimanche",
+    "deregulation travail dominical"
+  ],
+  "verdict": "contredit",
+  "fiabilite": "estimation",
+  "stabilite": "evolutive",
+  "resume": "Les évaluations ne le montrent pas. Selon une étude de chercheurs de l'Insee, l'ouverture dominicale autorisée depuis 2016 dans une trentaine de zones n'a entraîné « aucune hausse des effectifs ou du chiffre d'affaires » du commerce de détail : les magasins ouvrent un jour de plus avec à peu près autant de salariés. Les parents isolés et les salariés débutants en ont même pâti. Les députés chargés d'évaluer la loi Macron regrettaient en 2018 l'absence d'études chiffrant les emplois créés.",
+  "contexte": "La loi Macron du 6 août 2015 a créé des zones touristiques internationales où les commerces peuvent ouvrir tous les dimanches, et assoupli le travail dominical ailleurs. L'argument de l'emploi revient à chaque débat sur l'extension de l'ouverture dominicale.",
+  "explication": "On s'appuie sur l'évaluation statistique de l'Insee (Goux et Maurin), sur la mission d'évaluation de l'Assemblée nationale (2018), sur une analyse de l'OFCE et sur les chiffres de la Dares sur le travail du dimanche.",
+  "faits": [
+    {
+      "fait": "Selon un document de travail de l'Insee (Goux et Maurin, 2023), l'ouverture dominicale autorisée depuis 2016 dans une trentaine de zones, environ 3 % du commerce de détail, ne s'est accompagnée d'« aucune hausse des effectifs ou du chiffre d'affaires » dans les zones ciblées.",
+      "periode": "2016-2023",
+      "perimetre": "France métropolitaine",
+      "explication": "Les magasins ouvrent un jour de plus avec à peu près les mêmes équipes : le travail est réparti autrement, pas multiplié.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "3 %"
+    },
+    {
+      "fait": "Selon la même étude, les employeurs ont privilégié des salariés expérimentés capables de tenir seuls un magasin ; la part des salariés peu expérimentés a nettement baissé et l'emploi des parents isolés a fortement chuté dans les zones concernées.",
+      "periode": "2016-2023",
+      "perimetre": "France métropolitaine",
+      "explication": "La déréglementation a des perdants : ceux qui ne peuvent pas laisser leurs enfants le dimanche.",
+      "source": 0,
+      "fiabilite": "estimation"
+    },
+    {
+      "fait": "Selon le rapport de la mission d'évaluation de la loi Macron à l'Assemblée nationale (2018), les rapporteurs regrettaient de « ne pas disposer d'études statistiques permettant d'évaluer les retombées en termes d'emplois créés ».",
+      "periode": "2015-2018",
+      "perimetre": "France",
+      "explication": "Les promesses d'emploi de la loi n'ont jamais été chiffrées par les pouvoirs publics.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le même rapport, les taux d'ouverture dominicale varient de 8 % à 80 % des établissements selon les périmètres, et certaines boutiques de la place Vendôme y ont renoncé parce que leur chiffre d'affaires ne couvrait pas les compensations versées aux salariés.",
+      "periode": "2015-2018",
+      "perimetre": "France",
+      "explication": "Sans clients supplémentaires, ouvrir le dimanche ne rapporte pas : les ventes sont surtout déplacées d'un jour à l'autre.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "8 à 80 %"
+    },
+    {
+      "fait": "Selon un économiste de l'OFCE (2008), ouvrir un jour de plus n'apporte de l'activité que si les concurrents sont fermés ; après l'assouplissement allemand de 2003, emploi et valeur ajoutée du commerce de détail ont suivi une trajectoire inchangée.",
+      "periode": "2003-2008",
+      "perimetre": "Allemagne",
+      "explication": "Le pouvoir d'achat ne grandit pas parce que les magasins ouvrent plus longtemps : l'argent dépensé le dimanche ne l'est pas un autre jour.",
+      "source": 3,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon la Dares, citée par la Banque des Territoires, 23,2 % des personnes en emploi ont travaillé au moins un dimanche sur quatre semaines en 2025, contre 25,8 % en 2019 ; la part atteint 47,3 % dans l'hébergement-restauration.",
+      "periode": "2019-2025",
+      "perimetre": "France",
+      "explication": "Le travail du dimanche concerne déjà près d'un actif sur quatre.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "23,2 %"
+    },
+    {
+      "fait": "Fait défavorable : selon la Banque des Territoires résumant la mission parlementaire de 2018, le travail dominical dans les zones touristiques internationales a permis un développement notable du chiffre d'affaires et de l'emploi, et à Paris 28,2 % des commerces de ces zones ouvrent le dimanche contre 17,5 % avant la loi ; mais les données « demeurent imprécises ».",
+      "periode": "2015-2018",
+      "perimetre": "Paris",
+      "explication": "Des enseignes ont pu embaucher localement, surtout dans les grands magasins touristiques ; mais une hausse dans un quartier peut se faire au détriment d'autres commerces, et l'étude de l'Insee ne trouve pas d'effet sur les effectifs.",
+      "source": 2,
+      "fiabilite": "interpretation",
+      "chiffre": "28,2 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les évaluations ne trouvent pas cet effet. Selon des chercheurs de l'Insee, l'ouverture dominicale autorisée depuis 2016 dans une trentaine de zones n'a entraîné « aucune hausse des effectifs ou du chiffre d'affaires » du commerce de détail. Les magasins ouvrent un jour de plus avec à peu près autant de salariés, et l'emploi des parents isolés a fortement chuté.",
+    "moyen": "L'idée paraît logique : un jour d'ouverture en plus, il faut plus de vendeurs. Mais l'évaluation la plus solide disponible, menée par des chercheurs de l'Insee, ne trouve « aucune hausse des effectifs ou du chiffre d'affaires » dans les zones où l'ouverture dominicale est autorisée depuis 2016. Les magasins ont réorganisé leurs équipes plutôt qu'embauché.\n\nLa raison est simple : les ménages ne dépensent pas plus parce que les magasins ouvrent plus longtemps, leur budget dépend de leur revenu. Les achats du dimanche sont surtout pris sur les autres jours. En revanche, il y a des perdants : selon la même étude, l'emploi des parents isolés a fortement chuté dans ces zones. Les députés chargés d'évaluer la loi Macron regrettaient d'ailleurs en 2018 de ne disposer d'aucune étude chiffrant les emplois créés.",
+    "detaille": "La loi Macron du 6 août 2015 a créé des zones touristiques internationales où les commerces peuvent ouvrir tous les dimanches, au nom de l'emploi et de l'attractivité. Dix ans plus tard, les évaluations disponibles ne confirment pas cette promesse.\n\nEn 2018, la mission d'évaluation de l'Assemblée nationale regrettait de « ne pas disposer d'études statistiques permettant d'évaluer les retombées en termes d'emplois créés ». Elle relevait des taux d'ouverture très variables, de 8 % à 80 % des établissements, et notait que sans clients supplémentaires il n'y a pas d'ouverture : des boutiques de la place Vendôme ont renoncé, faute de chiffre d'affaires suffisant pour payer les compensations. Les enseignes parisiennes faisaient état de gains, mais les députés reconnaissaient que les données restaient imprécises.\n\nEn 2023, Dominique Goux et Éric Maurin ont publié à l'Insee une évaluation statistique sur une trentaine de zones, environ 3 % du commerce de détail. Leur résultat : « aucune hausse des effectifs ou du chiffre d'affaires ». Les magasins ouvrent un jour de plus avec des équipes à peu près stables. Les employeurs privilégient des salariés expérimentés capables de tenir seuls un magasin ; la part des débutants baisse, et l'emploi des parents isolés chute fortement.\n\nCe résultat rejoint un raisonnement économique ancien, rappelé par l'OFCE : un jour d'ouverture de plus n'apporte de l'activité que si les concurrents restent fermés, et les ménages ne dépensent pas plus parce que les magasins ouvrent plus longtemps. L'Allemagne n'a pas vu son emploi dans le commerce changer après son assouplissement de 2003.\n\nLe travail du dimanche concerne déjà près d'un actif sur quatre selon la Dares. Le repos dominical commun est un acquis social : il permet la vie de famille, associative et collective. L'étendre au nom d'emplois qui n'apparaissent pas dans les évaluations revient à demander des sacrifices aux salariés, souvent les plus fragiles, sans contrepartie pour l'emploi.",
+    "empathie": "On peut apprécier de faire ses courses le dimanche, et certains salariés sont contents des majorations. Mais il faut distinguer le confort du client et la promesse d'emplois, que les études ne confirment pas."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Il faut bien des vendeurs en plus pour ouvrir un jour de plus.",
+      "reponse": "Selon l'étude de l'Insee, les effectifs sont restés à peu près stables : les magasins ont réorganisé les plannings et privilégié des salariés expérimentés, plutôt que d'embaucher."
+    },
+    {
+      "objection": "Les Galeries Lafayette disent avoir embauché.",
+      "reponse": "Des gains locaux dans les grands magasins touristiques sont possibles, mais les députés eux-mêmes jugeaient les données imprécises, et l'étude sur l'ensemble des zones ne trouve pas d'effet sur l'emploi."
+    },
+    {
+      "objection": "Les salariés sont volontaires et mieux payés.",
+      "reponse": "Le volontariat et les majorations sont des garanties importantes, obtenues par accord collectif. Mais l'étude de l'Insee montre que l'emploi des parents isolés a fortement chuté : ceux qui ne peuvent pas travailler le dimanche sont écartés."
+    }
+  ],
+  "questions": [
+    "Si tu ne gagnes pas plus, dépenserais-tu davantage parce que les magasins ouvrent le dimanche, ou achèterais-tu simplement un autre jour ?",
+    "Qui garde les enfants des caissières et des vendeurs quand ils travaillent le dimanche ?"
+  ],
+  "limites": [
+    "L'étude de Goux et Maurin a été lue à travers le résumé de sa page sur le site de l'Insee : le texte intégral (méthode, chiffres détaillés) n'a pas pu être ouvert. C'est un document de travail, qui n'engage pas l'Insee.",
+    "Le rapport de l'Assemblée nationale lu est le tome II (comptes rendus) ; le tome I (conclusions) n'a pas été ouvert.",
+    "Le billet de l'OFCE date de 2008 et porte notamment sur l'Allemagne.",
+    "L'étude de la Dares sur le travail du dimanche n'a pas été ouverte directement : ses chiffres viennent d'un article de la Banque des Territoires.",
+    "Les documents ont été lus à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot."
+  ],
+  "sources": [
+    {
+      "titre": "Qui travaillera dimanche ? Les gagnants et les perdants de la déréglementation du travail dominical (document de travail n° 2023-02)",
+      "organisme": "Insee (Dominique Goux et Éric Maurin)",
+      "date_publication": "26 janvier 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6792865",
+      "passage": "Depuis 2016, l'ouverture dominicale du commerce de détail est autorisée dans « une trentaine de zones du territoire métropolitain, représentant en tout environ 3 % du commerce de détail en France ». La réforme ne s'est accompagnée d'« aucune hausse des effectifs ou du chiffre d'affaires » dans le commerce de détail des zones ciblées : les magasins ouvrent un jour de plus mais les effectifs restent à peu près stables. Les employeurs ont privilégié des salariés expérimentés ; la part des salariés peu expérimentés baisse nettement et l'emploi des parents isolés chute fortement.",
+      "pertinence": "Document de travail de chercheurs de l'Insee et de l'EHESS (résumé de la page lu à travers un outil de lecture ; le texte intégral en PDF n'a pas pu être ouvert).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information de la mission d'information commune sur l'évaluation de la loi n° 2015-990 du 6 août 2015 (tome II, comptes rendus)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "29 novembre 2018",
+      "url": "https://questions.assemblee-nationale.fr/dyn/15/rapports/micmacron/l15b1454-tii_rapport-information.pdf",
+      "passage": "Les rapporteurs regrettent de « ne pas disposer d'études statistiques permettant d'évaluer les retombées en termes d'emplois créés ». Les taux d'ouverture dans les périmètres concernés varient « entre 8 % et 80 % des établissements concernés ». « S'il n'y a pas de clients potentiels, il n'y aura pas d'ouverture dominicale » ; des boutiques de la place Vendôme ont renoncé, leur chiffre d'affaires ne couvrant pas les compensations. Les compensations négociées ont parfois atteint « un triplement du salaire ».",
+      "pertinence": "Document parlementaire officiel (comptes rendus, lu à travers un outil de lecture qui résume ; le tome I n'a pas été ouvert).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Loi Macron : trois ans après, un bilan en demi-teinte",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "4 décembre 2018",
+      "url": "https://www.banquedesterritoires.fr/loi-macron-trois-ans-apres-un-bilan-en-demi-teinte",
+      "passage": "Selon la mission d'information présidée par Yves Blein, le maintien et l'élargissement du travail dominical dans les zones touristiques internationales ont permis un développement notable du chiffre d'affaires et de l'emploi, mais « les données en ce domaine demeurent imprécises ». À Paris, 28,2 % des commerces situés en zone touristique internationale ouvrent le dimanche, contre 17,5 % avant la loi. Bilan plus mitigé en région ; les petits commerces doivent compenser le travail dominical de leurs salariés.",
+      "pertinence": "Média des collectivités résumant le rapport parlementaire (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Jamais le dimanche ?",
+      "organisme": "OFCE (Sciences Po), Xavier Timbeau",
+      "date_publication": "10 juin 2008",
+      "url": "https://ofce.sciences-po.fr/blog/jamais-le-dimanche/?print=pdf",
+      "passage": "« Ouvrir un jour de plus apporte plus d'activité uniquement si les concurrents sont fermés au même moment. » Les consommateurs ne dépensent pas davantage parce qu'ils peuvent acheter le dimanche, leur revenu restant décisif. Après l'assouplissement allemand de 2003, valeur ajoutée, emploi et masse salariale du commerce de détail ont suivi une trajectoire inchangée. « Ouvrir plus longtemps ne fait pas consommer plus. »",
+      "pertinence": "Billet d'un économiste d'un centre de recherche universitaire (lu à travers un outil de lecture qui résume) ; texte ancien.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Près d'un Français sur quatre concerné par le travail le dimanche",
+      "organisme": "Banque des Territoires (Localtis), d'après la Dares",
+      "date_publication": "5 juin 2026",
+      "url": "https://www.banquedesterritoires.fr/pres-dun-francais-sur-quatre-concerne-par-le-travail-le-dimanche",
+      "passage": "Selon la Dares, en 2025, « 23,2% des personnes en emploi ont travaillé au moins un dimanche sur une période de quatre semaines consécutives », un point de moins qu'en 2024 et sous le niveau de 2019 (25,8 %) ; 20,7 % des salariés et près de 40 % des indépendants. Hébergement-restauration : 47,3 %.",
+      "pertinence": "Média des collectivités résumant une étude de la Dares (lu à travers un outil de lecture qui résume) ; l'étude de la Dares n'a pas été ouverte.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouvelles évaluations du travail dominical ou projet d'extension de l'ouverture des commerces le dimanche.",
+  "objections_legitimes": [
+    "Certaines enseignes des zones très touristiques déclarent des gains de chiffre d'affaires le dimanche.",
+    "Des salariés volontaires apprécient les majorations de salaire liées au travail dominical.",
+    "Une seule étude statistique solide ne clôt pas définitivement le débat."
+  ],
+  "publics": {
+    "convaincus": "L'idée paraît de bon sens, mais les chercheurs de l'Insee qui ont étudié les zones ouvertes le dimanche depuis 2016 n'ont trouvé aucune hausse des effectifs ni du chiffre d'affaires. Les gens ne dépensent pas plus parce que les magasins ouvrent : ils achètent un autre jour. Et ce sont les mères seules qui ont perdu leur emploi dans ces zones.",
+    "indecis": "C'est vrai que c'est pratique de faire ses courses le dimanche, et certains salariés apprécient les majorations. Mais la promesse d'emplois n'est pas confirmée : l'évaluation de l'Insee n'en trouve pas, et les députés regrettaient en 2018 qu'aucune étude ne les chiffre. Le dimanche commun, c'est aussi la vie de famille de ceux qui travaillent dans le commerce."
+  },
+  "repond_a": [
+    {
+      "id": "dimanche_emplois_q2511",
+      "label": "Ouverture des commerces le dimanche"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail"
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "dignite",
+      "egalite_fh"
+    ],
+    "mecanismes": "La promesse d’emplois sert à justifier la déréglementation du repos dominical, alors que les ménages ne dépensent pas plus quand les magasins ouvrent plus longtemps.",
+    "consequences": "Les équipes sont réorganisées plutôt qu’étoffées, et les salariés qui ne peuvent pas travailler le dimanche, notamment les parents isolés, sont écartés.",
+    "democratie": "Le repos dominical commun est un acquis social qui permet la vie de famille, associative et citoyenne : son extension doit reposer sur des évaluations sérieuses et sur l’accord des salariés.",
+    "propositions": [
+      "Évaluer publiquement et régulièrement les effets du travail dominical sur l’emploi et les conditions de vie.",
+      "Garantir un vrai volontariat et des majorations fixées par la loi pour tout travail du dimanche.",
+      "Ne plus étendre les zones d’ouverture dominicale sans évaluation indépendante préalable."
+    ],
+    "defavorables": [
+      {
+        "fait": "Dans certaines zones très touristiques, des enseignes déclarent des gains de chiffre d’affaires et d’emploi le dimanche.",
+        "integration": "Des gains locaux sont possibles, mais ils se font souvent au détriment d’autres commerces, et l’évaluation statistique d’ensemble ne trouve pas d’effet sur l’emploi."
+      }
+    ]
+  },
+  "concepts": [
+    "dimanche_emplois",
+    "emploi"
+  ]
+}

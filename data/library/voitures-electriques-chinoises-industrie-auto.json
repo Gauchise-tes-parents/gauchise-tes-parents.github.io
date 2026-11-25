@@ -1,0 +1,235 @@
+{
+  "id": "voitures-electriques-chinoises-industrie-auto",
+  "type": "idee_recue",
+  "affirmation": "Les voitures électriques chinoises vont tuer l'industrie automobile française et européenne.",
+  "volet": "ecologie",
+  "sous_theme": "Industrie",
+  "rubriques": [],
+  "mots_cles": [
+    "voitures electriques chinoises",
+    "byd tue l industrie auto",
+    "invasion voitures chinoises",
+    "droits de douane vehicules electriques chine",
+    "surtaxe voitures chinoises europe",
+    "delocalisation automobile france",
+    "production automobile france baisse",
+    "fin de l industrie automobile francaise",
+    "concurrence chinoise automobile",
+    "mg byd part de marche europe"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "La menace est réelle mais l'explication est trompeuse. Les marques chinoises progressent vite (de 6 % à 9 % des immatriculations européennes début 2026) avec de fortes subventions, ce qui a conduit l'UE à imposer des droits compensateurs en 2024. Mais l'effondrement de la production automobile en France a commencé bien avant : de 3,3 millions de voitures en 2000 à moins de 1,5 million en 2025, surtout parce que les constructeurs français ont délocalisé.",
+  "contexte": "L'argument circule à la fois pour dénoncer la voiture électrique et l'écologie (« on fait le jeu de la Chine ») et pour réclamer du protectionnisme. Il s'appuie sur une progression spectaculaire des marques chinoises comme BYD, MG ou Leapmotor en Europe.",
+  "explication": "On distingue la concurrence chinoise récente, documentée par la Commission européenne et l'ACEA, et le déclin plus ancien de la production en France, documenté par l'Insee et le Sénat.",
+  "faits": [
+    {
+      "fait": "Selon le Sénat, s'appuyant sur la Cour des comptes, les voitures produites en France sont passées de 3,3 millions en 2000 à moins de 1,5 million en 2025, et la part de la production des constructeurs français réalisée en France a chuté de 64 % à 25 %.",
+      "periode": "2000-2025",
+      "perimetre": "France",
+      "explication": "Le déclin industriel est antérieur à l'arrivée des voitures électriques chinoises : il vient d'abord des choix de délocalisation des constructeurs.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "3,3 M → 1,5 M"
+    },
+    {
+      "fait": "Selon l'Insee, en 2011, 49 % de la production mondiale de Renault et 31 % de celle de PSA étaient déjà réalisées dans des usines en Roumanie, Slovénie, Turquie, Espagne, Maroc, Portugal ou Slovaquie, avec une chute parallèle de la production en France.",
+      "periode": "2011",
+      "perimetre": "France",
+      "explication": "Les délocalisations vers les pays à bas salaires ont précédé de loin la concurrence chinoise.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "49 %"
+    },
+    {
+      "fait": "Selon l'Insee, l'emploi de la filière automobile a baissé de 33 % entre 2010 et 2023, alors qu'il est resté quasi stable (-1 %) dans le reste de l'industrie manufacturière.",
+      "periode": "2010-2023",
+      "perimetre": "France",
+      "explication": "Les pertes d'emplois sont massives, et largement antérieures à la percée chinoise en Europe.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "-33 %"
+    },
+    {
+      "fait": "Selon la Commission européenne, l'UE applique depuis le 30 octobre 2024, pour cinq ans, des droits compensateurs sur les voitures électriques chinoises (de 7,8 % pour Tesla Shanghai à 35,3 % pour SAIC), car leurs subventions « menacent de causer un préjudice économique » aux producteurs européens.",
+      "periode": "2024-2029",
+      "perimetre": "Union européenne",
+      "explication": "L'Europe a reconnu une concurrence déloyale et a déjà réagi : la protection commerciale existe.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "35,3 %"
+    },
+    {
+      "fait": "Fait défavorable : selon l'ACEA citée par Euronews, les constructeurs chinois ont doublé leur part de marché dans l'UE, d'environ 3,2 % à 6 % des immatriculations entre début 2025 et début 2026 ; BYD a progressé de plus de 150 %.",
+      "periode": "2025-2026",
+      "perimetre": "Union européenne",
+      "explication": "La progression chinoise est réelle et rapide : la menace pour les constructeurs européens n'est pas imaginaire.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "6 %"
+    },
+    {
+      "fait": "Fait défavorable : selon Le Grand Continent, les droits européens ne s'appliquent pas aux hybrides, qui pèsent près d'un quart des ventes chinoises ; et des constructeurs chinois s'implantent en Europe pour contourner ces droits (Chery en Espagne, production pour Voyah à Rennes par Stellantis d'ici 2028).",
+      "periode": "2026",
+      "perimetre": "Europe",
+      "explication": "La protection douanière ne suffit pas : sans politique industrielle, les droits sont contournés.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "23,7 %"
+    },
+    {
+      "fait": "Selon le Sénat, le prix moyen d'un véhicule neuf a augmenté de 24 % entre 2020 et 2024, et la part des classes moyennes et populaires dans les achats de voitures neuves est passée de 43 % à 31 %.",
+      "periode": "2019-2024",
+      "perimetre": "France",
+      "explication": "Les constructeurs européens ont misé sur des voitures plus chères et plus rentables, laissant le marché des petites voitures abordables, où la Chine est forte.",
+      "source": 4,
+      "fiabilite": "etabli",
+      "chiffre": "+24 %"
+    }
+  ],
+  "argumentaires": {
+    "court": "La concurrence chinoise est réelle, et l'UE a imposé des droits de douane en 2024 contre des subventions déloyales. Mais l'industrie française n'a pas attendu BYD pour décliner : la production en France est passée de 3,3 millions de voitures en 2000 à moins de 1,5 million en 2025, surtout parce que Renault et PSA ont délocalisé.",
+    "moyen": "Les marques chinoises progressent très vite en Europe : elles ont doublé leur part de marché dans l'UE en un an, à environ 6 % des immatriculations début 2026. Elles bénéficient de fortes subventions publiques, ce qui a conduit la Commission européenne à imposer des droits compensateurs de 7,8 % à 35,3 % depuis 2024.\n\nMais le déclin de l'automobile en France est bien plus ancien. Selon le Sénat et la Cour des comptes, la production est passée de 3,3 millions de voitures en 2000 à moins de 1,5 million en 2025, et la part produite en France par les constructeurs français est tombée de 64 % à 25 %. Selon l'Insee, dès 2011, Renault produisait près de la moitié de ses voitures dans des pays à bas coûts. Les constructeurs ont aussi misé sur des voitures plus chères, abandonnant les petits modèles abordables. Le danger chinois est réel, mais il frappe une industrie déjà affaiblie par des choix patronaux.",
+    "detaille": "L'inquiétude est fondée sur un fait réel : les constructeurs chinois progressent très vite en Europe. Selon l'association des constructeurs européens (ACEA), ils représentaient environ 6 % des immatriculations dans l'UE de janvier à avril 2026, contre 3,2 % un an plus tôt ; BYD a plus que doublé ses ventes. Selon Le Grand Continent, les marques chinoises sont passées de 6 % à 9 % du marché européen sur les cinq premiers mois de 2026.\n\nCette progression repose en partie sur une concurrence faussée. La Commission européenne a conclu en 2024 que la chaîne de valeur des voitures électriques chinoises bénéficie de subventions publiques inéquitables, et impose depuis le 30 octobre 2024, pour cinq ans, des droits compensateurs allant de 7,8 % à 35,3 %. Ces droits ne couvrent cependant pas les hybrides, et des constructeurs chinois s'installent en Europe pour les contourner.\n\nMais l'idée que la Chine « va tuer » une industrie florissante est trompeuse. Le déclin est ancien. Selon le rapport du Sénat fondé sur une enquête de la Cour des comptes, la France produisait 3,3 millions de voitures en 2000 et moins de 1,5 million en 2025. Les constructeurs français ne produisent plus en France qu'environ un quart de leurs véhicules, contre 64 % au début des années 2000. L'Insee montre que, dès 2011, Renault fabriquait 49 % de sa production mondiale en Roumanie, en Turquie, en Slovénie ou en Espagne, et PSA 31 % au Maroc, au Portugal ou en Slovaquie. L'emploi de la filière a reculé d'un tiers entre 2010 et 2023.\n\nLes choix commerciaux ont aussi compté : le prix moyen d'une voiture neuve a augmenté de 24 % entre 2020 et 2024, et les classes moyennes et populaires achètent de moins en moins de voitures neuves. En abandonnant les petits modèles abordables, les constructeurs européens ont laissé un boulevard aux marques chinoises.\n\nLa réponse n'est donc pas de renoncer à la voiture électrique, mais de combiner protection commerciale, conditions sociales et environnementales aux aides publiques, relocalisation de la production et soutien à des véhicules populaires fabriqués en Europe.",
+    "empathie": "Quand on a vu des usines fermer autour de soi, voir arriver des voitures chinoises moins chères peut faire craindre le pire. Cette peur pour l'emploi est légitime, et les ouvriers de l'automobile ont déjà payé très cher les décisions des constructeurs."
+  },
+  "contre_arguments": [
+    {
+      "objection": "C'est la voiture électrique imposée par Bruxelles qui fait le jeu de la Chine.",
+      "reponse": "La production automobile française s'est effondrée bien avant l'électrique : de 3,3 millions de voitures en 2000 à moins de 1,5 million en 2025, surtout à cause des délocalisations des constructeurs français."
+    },
+    {
+      "objection": "L'Europe ne fait rien face à la Chine.",
+      "reponse": "La Commission impose depuis octobre 2024 des droits compensateurs de 7,8 % à 35,3 % sur les voitures électriques chinoises. Ils sont insuffisants, car ils ne couvrent pas les hybrides, mais ils existent."
+    },
+    {
+      "objection": "Les voitures chinoises sont juste meilleures et moins chères.",
+      "reponse": "Elles bénéficient d'un fort soutien public selon l'OCDE, et d'un avantage sur les petites voitures que les constructeurs européens ont délaissées au profit de modèles plus chers et plus rentables."
+    }
+  ],
+  "questions": [
+    "Si la production française a déjà été divisée par plus de deux depuis 2000, qui a pris ces décisions de délocaliser ?",
+    "Pourquoi les constructeurs européens ont-ils arrêté de proposer des petites voitures abordables ?"
+  ],
+  "limites": [
+    "Les parts de marché des marques chinoises varient selon le périmètre (UE ou Europe élargie, électriques ou ensemble du marché) et la période : les chiffres ne sont pas directement comparables entre sources.",
+    "La formulation du chiffre de 11 % dans Le Grand Continent est ambiguë ; elle n'est pas reprise dans les faits chiffrés.",
+    "Le rapport de la Cour des comptes lui-même n'a pas été ouvert : ses constats sont lus à travers le rapport du Sénat.",
+    "Les données de production de l'Insee s'arrêtent en 2023 ; aucune donnée de la PFA ou du CCFA n'a été lue.",
+    "Les pages ont été lues à travers un outil de lecture qui résume."
+  ],
+  "sources": [
+    {
+      "titre": "La Commission européenne impose des droits compensateurs sur les importations de véhicules électriques à batterie (BEV) en provenance de Chine",
+      "organisme": "Commission européenne (Access2Markets)",
+      "date_publication": "12 décembre 2024 (droits applicables depuis le 30 octobre 2024)",
+      "url": "https://trade.ec.europa.eu/access-to-markets/fr/news/la-commission-europeenne-impose-des-droits-compensateurs-sur-les-importations-de-vehicules",
+      "passage": "Par le règlement d'exécution (UE) 2024/2754, des droits compensateurs définitifs sont imposés « pendant une période de cinq ans » : BYD 17,0 %, Geely 18,8 %, SAIC 35,3 %, Tesla (Shanghai) 7,8 %, autres sociétés ayant coopéré 20,7 %, n'ayant pas coopéré 35,3 %. L'enquête a conclu que la chaîne de valeur des BEV en Chine bénéficie de subventions publiques inéquitables qui « menacent de causer un préjudice économique aux producteurs de BEV de l'UE ».",
+      "pertinence": "Page officielle de la Commission européenne (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les constructeurs chinois doublent leur part de marché dans l'UE grâce aux voitures électriques",
+      "organisme": "Euronews, d'après l'ACEA",
+      "date_publication": "27 mai 2026",
+      "url": "https://fr.euronews.com/business/2026/05/27/les-constructeurs-chinois-doublent-leur-part-de-marche-dans-lue-grace-aux-voitures-electri",
+      "passage": "Selon l'Association des constructeurs européens d'automobiles (ACEA), les constructeurs chinois représentent environ 6 % des immatriculations dans l'UE de janvier à avril 2026, contre 3,2 % un an plus tôt (7,3 % contre 3,7 % avec le Royaume-Uni et l'AELE). BYD : plus de 71 850 unités (+152,9 %) ; Leapmotor : plus de 28 700 (+558,8 %). Les voitures 100 % électriques font 19,7 % du marché de l'UE sur la période, contre 15,3 % un an plus tôt.",
+      "pertinence": "Article de presse européenne reprenant les données de l'ACEA (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Une voiture électrique sur dix vendue en Europe est désormais chinoise",
+      "organisme": "Le Grand Continent (d'après Bloomberg, ACEA et OCDE)",
+      "date_publication": "26 juin 2026",
+      "url": "https://legrandcontinent.eu/fr/2026/06/26/une-voiture-electrique-sur-dix-vendue-en-europe-est-desormais-chinoise/",
+      "passage": "« Les voitures électriques chinoises ont représenté près de 11 % des ventes de véhicules neufs en Europe en mai », contre 5,6 % un an plus tôt ; les hybrides ont représenté 23,7 %. Les droits de 2024 « ne s'appliquent pas aux véhicules hybrides ». « Les marques chinoises ont quant à elles gagné 3 points de part de marché, passant de 6 % à 9 % des immatriculations » sur les cinq premiers mois de 2026, tandis que la part des constructeurs européens « s'est contractée de 1,7 point ». Selon l'OCDE, les constructeurs chinois reçoivent deux fois plus de soutien public en valeur absolue que ceux de l'OCDE. Stellantis doit produire des véhicules pour Voyah (Dongfeng) à Rennes d'ici 2028 ; Chery doit reprendre une usine Nissan en Espagne.",
+      "pertinence": "Revue européenne de géopolitique (lue à travers un outil de lecture qui résume ; la formulation du chiffre de 11 % est ambiguë entre ventes électriques et ventes totales).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "La filière automobile manufacturière en France entre 2010 et 2023 : entre recul et adaptation (Insee Analyses n° 116)",
+      "organisme": "Insee",
+      "date_publication": "12 février 2026",
+      "url": "https://insee.fr/fr/statistiques/8739557",
+      "passage": "Entre 2010 et 2023, l'emploi de la filière automobile a baissé de 33 %, « alors qu'il a été quasi stable (-1 %) pour le reste de l'industrie manufacturière » ; -35 % chez les constructeurs. Les constructeurs français ont implanté des usines d'assemblage à l'étranger (Roumanie, Slovénie, Turquie, Espagne pour Renault ; Maroc, Portugal, Slovaquie, Espagne pour PSA-Stellantis) ; en 2011, 49 % de la production mondiale de Renault et 31 % de celle de PSA se situaient dans ces pays, avec « une chute de la production en France » parallèle. L'émergence de la Chine comme exportateur de véhicules, notamment électriques, intensifie la concurrence.",
+      "pertinence": "Étude de la statistique publique (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport d'information n° 504 (2025-2026) faisant suite à l'enquête de la Cour des comptes sur la filière automobile",
+      "organisme": "Sénat, commission des finances (rapporteure Christine Lavarde)",
+      "date_publication": "1er avril 2026",
+      "url": "https://www.senat.fr/rap/r25-504/r25-5042.html",
+      "passage": "Les voitures produites en France sont passées de 3,3 millions en 2000 à moins de 1,5 million en 2025 ; les volumes de véhicules légers ont baissé d'environ 600 000 unités depuis 2019 (près de 30 %). La part de la production réalisée en France par les constructeurs français a chuté de 64 % à 25 % depuis le début des années 2000, avec « une vague de délocalisations ». La Chine, avec des « surcapacités massives », pourrait vendre à perte en Europe et dispose d'un avantage sur les petits véhicules d'entrée de gamme. Le prix moyen d'un véhicule neuf a augmenté de 24 % entre 2020 et 2024 ; la part des classes moyennes et populaires dans les achats de véhicules neufs est passée de 43 % en 2019 à 31 % en 2024.",
+      "pertinence": "Rapport parlementaire s'appuyant sur une enquête de la Cour des comptes (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Nouvelles données annuelles de l'ACEA et éventuelle révision des droits compensateurs européens.",
+  "objections_legitimes": [
+    "La part de marché des constructeurs chinois progresse très vite en Europe.",
+    "Les voitures électriques chinoises bénéficient de subventions jugées déloyales par la Commission européenne.",
+    "Les droits de douane européens ne couvrent pas les hybrides et peuvent être contournés par des usines en Europe."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison, la concurrence chinoise est réelle et elle est subventionnée : même la Commission européenne l'a reconnu en imposant des droits de douane. Mais l'industrie auto française n'a pas attendu les Chinois pour s'effondrer : on est passés de 3,3 millions de voitures produites en 2000 à moins de 1,5 million, parce que Renault et PSA ont délocalisé en Roumanie, en Turquie ou au Maroc. Les responsables sont aussi chez nous.",
+    "indecis": "C'est vrai que les marques chinoises progressent très vite et que des emplois sont en jeu. Mais le Sénat et l'Insee montrent que la production en France a surtout chuté à cause des délocalisations, bien avant la voiture électrique. Protéger l'industrie demande des droits de douane, mais aussi d'obliger les constructeurs aidés à produire ici des voitures abordables."
+  },
+  "repond_a": [
+    {
+      "id": "voitures_chinoises_q2511",
+      "label": "Voitures chinoises et industrie automobile"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "chez nous",
+    "plus chez nous",
+    "identite",
+    "civilisation",
+    "racines",
+    "grand remplacement",
+    "remplacement",
+    "notre culture",
+    "nos valeurs",
+    "nos traditions",
+    "on se croirait",
+    "plus en france"
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "internationalisme",
+      "services_publics"
+    ],
+    "mecanismes": "Désigner la Chine comme seule coupable permet d’effacer des décennies de délocalisations décidées par les constructeurs français eux-mêmes, et de retourner la colère contre la transition écologique plutôt que contre les choix patronaux.",
+    "consequences": "Ce récit pousse à freiner la voiture électrique au lieu de bâtir une politique industrielle, et laisse les ouvriers de l’automobile payer à la fois les délocalisations passées et la concurrence présente.",
+    "democratie": "L’argent public versé à la filière doit être soumis à des conditions décidées démocratiquement : emploi, production locale, véhicules abordables.",
+    "propositions": [
+      "Conditionner toute aide publique aux constructeurs à des engagements de production et d’emploi en France et en Europe.",
+      "Soutenir la production européenne de petites voitures électriques abordables pour les classes populaires.",
+      "Étendre la protection commerciale européenne aux véhicules hybrides et y associer des critères sociaux et environnementaux."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les marques chinoises ont doublé leur part de marché dans l’Union européenne en un an, avec un fort soutien public, et contournent déjà en partie les droits de douane.",
+        "integration": "La menace est réelle et la gauche ne la nie pas : elle demande une vraie politique industrielle et commerciale, plutôt que d’accuser l’écologie."
+      }
+    ]
+  },
+  "concepts": [
+    "voitures_chinoises",
+    "identite",
+    "riches_entreprises",
+    "europe",
+    "voiture_electrique"
+  ]
+}

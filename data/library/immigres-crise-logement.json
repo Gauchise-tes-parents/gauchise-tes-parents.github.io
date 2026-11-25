@@ -1,0 +1,243 @@
+{
+  "id": "immigres-crise-logement",
+  "type": "idee_recue",
+  "affirmation": "Les immigrés sont responsables de la crise du logement : s'il y en avait moins, tout le monde pourrait se loger.",
+  "volet": "immigration",
+  "sous_theme": "Logement",
+  "rubriques": [],
+  "mots_cles": [
+    "immigres crise du logement",
+    "les immigres prennent nos logements",
+    "crise du logement immigration",
+    "pas de logement a cause des immigres",
+    "penurie de logements immigres",
+    "mises en chantier chute",
+    "logements vacants residences secondaires",
+    "mal logement fondation",
+    "surpeuplement immigres",
+    "on ne trouve plus a se loger"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Les causes de la crise du logement identifiées par le Sénat, l'Insee et le ministère sont ailleurs : effondrement de la construction après la hausse des taux d'intérêt, prix multipliés par plus de deux en vingt-cinq ans, ménages plus petits (vieillissement, séparations), résidences secondaires et logements vacants (près de 7 millions au total). Les immigrés sont plus souvent locataires HLM (35 % contre 11 %), mais surtout parce qu'ils sont plus pauvres et plus jeunes, et ils sont parmi les premiers à subir la crise : 26 % vivent dans un logement surpeuplé.",
+  "contexte": "L'idée qu'on manquerait de logements « à cause des immigrés » revient dans les débats sur la préférence nationale. La question de l'attribution des HLM est traitée dans une autre fiche ; celle-ci porte sur les causes de la crise du logement dans son ensemble.",
+  "explication": "On rassemble les causes de la crise établies par un rapport du Sénat et par la statistique publique (construction, parc de logements, taille des ménages), puis on regarde la place et les conditions de logement des immigrés, à partir de l'Insee.",
+  "faits": [
+    {
+      "fait": "Selon le rapport du Sénat sur la crise du logement, en 2023 les mises en chantier ont chuté de 22 % (287 000) et les permis de construire de 24 %, la construction neuve est « au plus bas depuis 1995 » et la production de crédit immobilier a baissé de plus de moitié en dix-huit mois.",
+      "periode": "2022-2023",
+      "perimetre": "France",
+      "explication": "La crise récente est d'abord un effondrement de l'offre, lié à la remontée des taux d'intérêt.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "-22 %"
+    },
+    {
+      "fait": "Selon le service statistique du ministère, 274 611 logements ont été mis en chantier en 2025, soit 21,3 % de moins que la moyenne des cinq années précédentes.",
+      "periode": "2020-2025",
+      "perimetre": "France",
+      "explication": "La construction ne s'est pas relevée : on construit nettement moins qu'avant la crise.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "-21,3 %"
+    },
+    {
+      "fait": "Selon le même rapport du Sénat, les taux d'intérêt très bas, « 1 % voire moins », et l'argent bon marché ont fait exploser les prix, « multipliés par plus de deux » en vingt-cinq ans ; le rapport cite aussi le « desserrement des ménages », le vieillissement, l'attrait des résidences secondaires et la métropolisation.",
+      "periode": "1999-2024",
+      "perimetre": "France",
+      "explication": "Les causes identifiées par les parlementaires sont financières, démographiques et territoriales ; l'immigration n'y figure pas dans la partie lue.",
+      "source": 0,
+      "fiabilite": "interpretation",
+      "chiffre": "x2"
+    },
+    {
+      "fait": "Selon l'Insee, au 1er janvier 2024, la France compte 38,2 millions de logements, dont 3,7 millions de résidences secondaires ou occasionnelles et 3,1 millions de logements vacants ; la part des logements vacants est passée de 6,3 % en 2005 à 8,0 %.",
+      "periode": "2005-2024",
+      "perimetre": "France hors Mayotte",
+      "explication": "Près de 7 millions de logements ne servent pas de résidence principale : la question est aussi celle de leur usage.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "3,1 millions"
+    },
+    {
+      "fait": "Selon l'Insee, le parc de logements croît plus vite que la population parce que « le nombre de personnes par logement diminue » : mise en couple plus tardive, séparations plus fréquentes, vieillissement.",
+      "periode": "1982-2024",
+      "perimetre": "France",
+      "explication": "À population égale, il faut toujours plus de logements : c'est un moteur majeur des besoins, indépendant de l'immigration.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon l'Insee, 35 % des immigrés de 18 à 59 ans vivent dans un ménage locataire du secteur social, contre 11 % des personnes sans ascendance migratoire ; cette surreprésentation « est largement liée aux moindres revenus et à l'âge plus jeune ».",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Les immigrés occupent bien une part importante du parc social, mais au titre de critères sociaux, pas de leur origine.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "35 % contre 11 %"
+    },
+    {
+      "fait": "Selon l'Insee, 26 % des immigrés de 18 à 59 ans vivent dans un logement surpeuplé, contre 8 % des personnes sans ascendance migratoire ; 23 % vivent en quartier prioritaire, contre 7 % de l'ensemble.",
+      "periode": "2019-2020",
+      "perimetre": "France métropolitaine",
+      "explication": "Les immigrés sont parmi les premières victimes de la crise du logement, pas ses responsables.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "26 %"
+    },
+    {
+      "fait": "Selon le rapport 2026 de la Fondation pour le logement des défavorisés, rapporté par Maire-info, 4,2 millions de personnes sont sans logement ou mal logées, 350 000 sans domicile (contre 143 000 en 2012), et près de 2,9 millions attendent un logement social ; la fondation met en cause une réponse politique « loin d'être à la hauteur ».",
+      "periode": "2012-2025",
+      "perimetre": "France",
+      "explication": "Le mal-logement touche toutes les origines ; la fondation pointe le recul de la production et des politiques publiques.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "4,2 millions"
+    }
+  ],
+  "argumentaires": {
+    "court": "Non. Les causes de la crise identifiées par le Sénat et la statistique publique sont l'effondrement de la construction après la hausse des taux, des prix multipliés par plus de deux en vingt-cinq ans, des ménages plus petits et près de 7 millions de logements vacants ou secondaires. Les immigrés sont plus souvent en HLM parce qu'ils sont plus pauvres, et 26 % vivent dans un logement surpeuplé : ils subissent la crise.",
+    "moyen": "La crise du logement a des causes bien documentées. Le Sénat montre qu'en 2023 les mises en chantier ont chuté de 22 % et la construction neuve est tombée au plus bas depuis 1995, après la remontée des taux d'intérêt ; en 2025, on construisait encore 21 % de moins que la moyenne des cinq années précédentes, selon le ministère. Les prix ont plus que doublé en vingt-cinq ans. Et à population égale il faut toujours plus de logements, car les ménages sont plus petits (vieillissement, séparations), explique l'Insee. S'y ajoutent 3,7 millions de résidences secondaires et 3,1 millions de logements vacants.\n\nLes immigrés, eux, sont plus souvent locataires HLM (35 % contre 11 %), mais l'Insee l'explique par leurs revenus plus faibles et leur âge. Ils sont surtout parmi les plus mal logés : 26 % vivent dans un logement surpeuplé, trois fois plus que les autres.",
+    "detaille": "Désigner les immigrés comme responsables de la crise du logement, c'est passer à côté de toutes les causes établies.\n\nPremière cause : on ne construit plus assez. Selon le rapport du Sénat d'avril 2024, les mises en chantier ont chuté de 22 % en 2023 et les permis de 24 % ; la construction neuve était « au plus bas depuis 1995 », et la production de crédit immobilier avait baissé de plus de moitié en dix-huit mois avec la remontée des taux. En 2025, malgré une reprise des permis, 274 611 logements seulement ont été mis en chantier, 21,3 % de moins que la moyenne des cinq années précédentes, selon le service statistique du ministère.\n\nDeuxième cause : les prix. Les sénatrices rappellent que les taux très bas et l'argent bon marché les ont « multipliés par plus de deux » en vingt-cinq ans. Le logement est devenu un placement autant qu'un besoin.\n\nTroisième cause : la transformation des ménages. Selon l'Insee, le parc de logements croît plus vite que la population parce que le nombre de personnes par logement diminue : on se met en couple plus tard, on se sépare plus souvent, on vit plus longtemps, souvent seul. Il faut donc toujours plus de logements pour le même nombre d'habitants.\n\nQuatrième cause : l'usage du parc. Sur 38,2 millions de logements, 3,7 millions sont des résidences secondaires ou occasionnelles et 3,1 millions sont vacants, une part en hausse depuis 2005.\n\nEt les immigrés ? Selon l'Insee, 35 % des immigrés de 18 à 59 ans vivent dans un ménage locataire HLM, contre 11 % des personnes sans ascendance migratoire, une différence « largement liée aux moindres revenus et à l'âge plus jeune ». Ils sont surtout parmi les plus mal logés : 26 % vivent dans un logement surpeuplé, contre 8 %. La Fondation pour le logement des défavorisés compte 4,2 millions de personnes mal logées et 350 000 sans domicile : la crise frappe les plus pauvres, quelle que soit leur origine. La réponse, c'est construire massivement du logement social, mobiliser les logements vacants et encadrer les loyers, pas trier les mal-logés.",
+    "empathie": "Chercher un logement aujourd'hui peut être épuisant et humiliant, et la colère est compréhensible. Mais cette colère mérite d'être dirigée vers les vraies causes, pour que les choses changent vraiment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les immigrés prennent les HLM.",
+      "reponse": "Ils y sont surreprésentés (35 % contre 11 %) parce qu'ils sont plus pauvres et plus jeunes, selon l'Insee. Et le vrai problème est qu'on ne construit pas assez : le Sénat compte 2,6 millions de demandeurs pour 82 000 nouveaux agréments en 2023."
+    },
+    {
+      "objection": "Sans immigration, il y aurait assez de logements.",
+      "reponse": "Les causes identifiées par le Sénat et l'Insee sont l'effondrement de la construction, les prix, les ménages plus petits, les résidences secondaires et la vacance. Même sans immigration, ces facteurs resteraient."
+    },
+    {
+      "objection": "On loge les migrants avant les Français.",
+      "reponse": "Les immigrés sont parmi les plus mal logés : 26 % vivent dans un logement surpeuplé, contre 8 % des personnes sans ascendance migratoire, selon l'Insee."
+    }
+  ],
+  "questions": [
+    "Si on construit beaucoup moins de logements qu'avant, qui en est responsable : les immigrés ou les choix politiques ?",
+    "Que pourrait-on faire des 3,1 millions de logements vacants ?"
+  ],
+  "limites": [
+    "Le rapport du Sénat a été lu à travers un outil de lecture qui résume, et seule sa première partie l'a été ; ses chiffres portent sur 2023.",
+    "Le rapport de la Fondation pour le logement des défavorisés n'a pas été ouvert directement : ses chiffres viennent d'un article de Maire-info.",
+    "Les données de l'Insee sur les immigrés datent de 2019-2020 et portent sur les 18-59 ans en France métropolitaine.",
+    "Aucune des sources lues ne chiffre la part de l'immigration dans la hausse des besoins en logements ; la fiche ne prétend pas qu'elle est nulle, mais qu'elle n'est pas désignée comme une cause de la crise par ces sources.",
+    "Les pages ont été lues à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot."
+  ],
+  "sources": [
+    {
+      "titre": "Crise du logement — rapport d'information n° 567 (2023-2024)",
+      "organisme": "Sénat, commission des affaires économiques (Dominique Estrosi Sassone, Viviane Artigalas, Amel Gacquerre)",
+      "date_publication": "30 avril 2024",
+      "url": "https://www.senat.fr/rap/r23-567/r23-5670.html",
+      "passage": "En 2023 : permis de construire -24 % (373 000) par rapport à 2022, mises en chantier -22 % (287 000), réservations de logements neufs -26 %, construction neuve « au plus bas depuis 1995 » ; la production de crédit immobilier a baissé de plus de moitié en 18 mois. Les taux bas, « 1 % voire moins », et l'argent bon marché ont fait exploser les prix, « multipliés par plus de deux » en 25 ans. Facteurs de demande cités : le « desserrement des ménages (célibat, famille monoparentale) », le vieillissement, l'attrait des résidences secondaires et du tourisme ; la métropolisation accroît la vacance dans les zones moins prisées. 2,6 millions de demandeurs de logement social, dont 1,7 million de premières demandes, pour 82 000 nouveaux agréments en 2023.",
+      "pertinence": "Rapport parlementaire transpartisan (lu à travers un outil de lecture qui résume ; seule la première partie du rapport a été lue). L'immigration n'apparaît pas parmi les causes dans la partie lue.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Construction de logements : résultats à fin décembre 2025 (France entière)",
+      "organisme": "Service des données et études statistiques (SDES), ministère chargé du Logement",
+      "date_publication": "30 janvier 2026",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-decembre-2025-france-entiere",
+      "passage": "En 2025, 379 222 logements ont été autorisés (+15,0 % par rapport à 2024, -8,8 % par rapport à la moyenne des cinq années précédentes) et 274 611 logements ont été mis en chantier, soit « 21,3 % de moins que la moyenne des cinq années précédentes ».",
+      "pertinence": "Statistique publique officielle de la construction (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le parc de logements au 1er janvier 2024 : 38,2 millions de logements en France (Insee Focus n° 332)",
+      "organisme": "Insee (Camille Freppel)",
+      "date_publication": "12 septembre 2024",
+      "url": "https://insee.fr/fr/statistiques/8251576",
+      "passage": "Au 1er janvier 2024 : 38,2 millions de logements, dont 31,4 millions de résidences principales (82,2 %), 3,7 millions de résidences secondaires et logements occasionnels (9,8 %) et 3,1 millions de logements vacants (8,0 %). La part des logements vacants est passée de 6,3 % en 2005 à 8,2 % en 2019, puis s'est stabilisée à 8,0 %. Le parc croît plus vite que la population car « le nombre de personnes par logement diminue », du fait de la mise en couple plus tardive, des séparations plus fréquentes et du vieillissement.",
+      "pertinence": "Publication de la statistique publique (lue à travers un outil de lecture qui résume, en partie en anglais ; seule la citation sur le nombre de personnes par logement est reprise mot pour mot).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fiche 5.5 — Conditions de logement (Immigrés et descendants d'immigrés en France, Insee Références, édition 2023)",
+      "organisme": "Insee",
+      "date_publication": "édition 2023",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/6793286/IMMFRA23-F32.pdf",
+      "passage": "Enquête Trajectoires et Origines 2 (Ined-Insee, 2019-2020), personnes de 18 à 59 ans, France métropolitaine. Immigrés : 32 % propriétaires, 28 % locataires du secteur privé, 35 % locataires du secteur social ; personnes sans ascendance migratoire : 59 %, 27 % et 11 %. Surpeuplement : 26 % des immigrés, 17 % des descendants d'immigrés, 8 % des personnes sans ascendance migratoire (12 % pour l'ensemble). 23 % des immigrés vivent en quartier prioritaire de la politique de la ville, contre 7 % de l'ensemble. La surreprésentation des immigrés en logement social « est largement liée aux moindres revenus et à l'âge plus jeune ».",
+      "pertinence": "Fiche de l'ouvrage de référence de l'Insee (lue à travers un outil de lecture qui résume) ; données 2019-2020.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Mal-logement : face à une nouvelle « année noire », les candidats aux municipales interpellés",
+      "organisme": "Maire-info (quotidien de l'Association des maires de France), d'après le rapport de la Fondation pour le logement des défavorisés",
+      "date_publication": "4 février 2026",
+      "url": "https://www.maire-info.com/logement/mal-logement-face-une-nouvelle-annee-noire-les-candidats-aux-municipales-interpelles-article-30444",
+      "passage": "Selon le rapport publié le 3 février 2026 par la Fondation pour le logement des défavorisés : 4,2 millions de personnes sans logement ou mal logées et 12,3 millions fragilisées par la crise ; plus d'un million sans logement personnel, dont 350 000 sans domicile (contre 143 000 en 2012) ; près de 2,9 millions de personnes en attente d'un logement social, une demande sur dix obtenant une réponse favorable dans l'année. Causes évoquées : réponse politique « loin d'être à la hauteur », recul de la production, surcoûts de construction, raréfaction du foncier, hausse des expulsions.",
+      "pertinence": "Article de presse spécialisée résumant le rapport annuel de la fondation (lu à travers un outil de lecture qui résume) ; le rapport lui-même n'a pas été ouvert.",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-02-15",
+  "raison_actualisation": "Nouveau rapport annuel sur l'état du mal-logement et bilan annuel de la construction de logements.",
+  "objections_legitimes": [
+    "Les immigrés sont surreprésentés parmi les locataires HLM, c'est mesuré par l'Insee.",
+    "Toute hausse de la population, quelle qu'en soit l'origine, accroît les besoins en logements.",
+    "L'attente pour un logement social est très longue et nourrit un sentiment d'injustice."
+  ],
+  "publics": {
+    "convaincus": "Je comprends que tu galères ou que tu voies tes enfants galérer pour se loger. Mais le Sénat, toutes tendances confondues, explique la crise par l'effondrement de la construction, les prix qui ont doublé et les ménages plus petits. Et les immigrés vivent trois fois plus souvent que les autres dans des logements surpeuplés : ils sont dans la même galère que toi, souvent pire.",
+    "indecis": "Ton inquiétude est légitime : se loger est devenu très difficile. Les causes sont connues : on construit 21 % de moins qu'il y a quelques années, les prix ont plus que doublé en vingt-cinq ans, et il y a plus de 3 millions de logements vacants. Les immigrés sont plus souvent en HLM parce qu'ils sont plus pauvres, mais ils sont aussi parmi les plus mal logés."
+  },
+  "repond_a": [
+    {
+      "id": "logement_immigres_q2511",
+      "label": "Immigration et crise du logement"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "plus d offres d emploi que",
+    "trouvent personne",
+    "trouve personne",
+    "trouvent pas de candidats",
+    "loger",
+    "se loger"
+  ],
+  "lecture": {
+    "valeurs": [
+      "dignite",
+      "services_publics",
+      "antiracisme",
+      "vulnerables"
+    ],
+    "mecanismes": "Désigner les immigrés détourne l’attention des vraies causes de la crise : effondrement de la construction, spéculation et hausse des prix, logements vacants et résidences secondaires, désengagement de l’État.",
+    "consequences": "Ce discours oppose entre eux des mal-logés qui subissent la même crise, et sert d’alibi à l’absence de politique ambitieuse de construction et de régulation du marché.",
+    "democratie": "Le droit au logement est un objectif reconnu : il doit être garanti par des politiques publiques débattues démocratiquement, pas conditionné à l’origine des personnes.",
+    "propositions": [
+      "Lancer un plan massif de construction de logements sociaux financé par l’État.",
+      "Mobiliser les logements vacants par la fiscalité et la réquisition, et limiter les résidences secondaires dans les zones tendues.",
+      "Encadrer les loyers partout où le marché est tendu."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les immigrés sont nettement surreprésentés parmi les locataires du logement social.",
+        "integration": "C’est vrai, et c’est la conséquence de leurs revenus plus faibles et de leur âge : le logement social remplit sa mission, et il faut en construire davantage pour tous."
+      }
+    ]
+  },
+  "concepts": [
+    "logement_immigres",
+    "immigration",
+    "penurie",
+    "logement"
+  ]
+}

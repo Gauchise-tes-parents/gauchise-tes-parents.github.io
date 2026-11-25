@@ -1,0 +1,246 @@
+{
+  "id": "fonctionnaires-plus-malades-que-prive",
+  "type": "idee_recue",
+  "affirmation": "Les fonctionnaires sont bien plus souvent en arrêt maladie que les salariés du privé.",
+  "volet": "services",
+  "sous_theme": "Fonction publique",
+  "rubriques": [],
+  "mots_cles": [
+    "fonctionnaires toujours malades",
+    "fonctionnaires plus en arret maladie que le prive",
+    "absenteisme fonction publique",
+    "absences pour raison de sante agents publics",
+    "jour de carence fonctionnaires",
+    "trois jours de carence fonction publique",
+    "arret maladie fonctionnaire paye 90 %",
+    "absenteisme hopital collectivites",
+    "fonctionnaires tire au flanc",
+    "absenteisme public prive comparaison"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'écart est désormais faible. Selon la DGAFP, les agents publics ont été absents pour raison de santé 11,0 jours en moyenne en 2025, soit 0,5 jour de plus que les salariés du privé, et la part d'agents absents une semaine donnée est au même niveau que dans le privé. Cet écart s'explique en partie par une population plus féminine et plus âgée et par des métiers pénibles. Il reste plus marqué à l'hôpital et dans les collectivités.",
+  "contexte": "L'idée de fonctionnaires « toujours malades » revient à chaque budget, avec des propositions de porter à trois jours la carence des agents publics. Depuis le 1er mars 2025, leur rémunération pendant un arrêt maladie ordinaire est passée de 100 % à 90 %.",
+  "explication": "On compare les données de la DGAFP tirées de l'enquête Emploi de l'Insee, par versant, sexe et âge, puis on rappelle ce que l'Insee a mesuré de l'effet du jour de carence et l'état des réformes votées en 2025 et 2026.",
+  "faits": [
+    {
+      "fait": "Selon la DGAFP, les absences pour raison de santé s'élèvent en 2025 à 11,0 jours en moyenne par agent public, soit 0,5 jour de plus que pour les salariés du privé.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Il n'y a pas de fossé entre public et privé : l'écart moyen est d'une demi-journée par an.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "+0,5 jour"
+    },
+    {
+      "fait": "Selon le rapport annuel de la DGAFP résumé par Acteurs publics, 4,9 % des agents publics étaient absents au moins un jour pour raison de santé pendant une semaine de référence en 2025, soit le même niveau que dans le privé, pour la première fois depuis 2018.",
+      "periode": "2018-2025",
+      "perimetre": "France",
+      "explication": "La fréquence des absences est la même dans les deux secteurs.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "4,9 %"
+    },
+    {
+      "fait": "Selon la DGAFP (données 2024 de l'enquête Emploi), les femmes et les agents âgés s'absentent davantage dans les deux secteurs : 15,0 jours pour les 50 ans ou plus dans la fonction publique, 13,7 dans le privé ; l'écart avec le privé s'explique en partie par ces effets de structure et par la pénibilité de certains métiers.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "La fonction publique emploie plus de femmes et d'agents âgés : comparer des moyennes brutes revient à comparer des populations différentes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "15,0 jours"
+    },
+    {
+      "fait": "Selon Acteurs publics, d'après la DGAFP, les agents publics de moins de 30 ans s'absentent 1,7 jour de moins que leurs homologues du privé et les 30-49 ans 0,7 jour de moins ; seuls les plus de 50 ans s'absentent davantage (1,5 jour de plus).",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "À âge égal, les agents jeunes et d'âge moyen sont moins absents que dans le privé.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "-1,7 jour"
+    },
+    {
+      "fait": "Selon l'Insee, le jour de carence appliqué dans la fonction publique de l'État en 2012-2013 n'a pas modifié significativement la part d'agents absents : les absences de deux jours ont baissé de plus de moitié, mais les absences d'une semaine à trois mois ont augmenté d'environ 25 %.",
+      "periode": "2012-2013",
+      "perimetre": "Fonction publique de l'État",
+      "explication": "Pénaliser les arrêts courts peut pousser à venir travailler malade, puis à s'arrêter plus longtemps.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "+25 %"
+    },
+    {
+      "fait": "Depuis le 1er mars 2025, la rémunération des agents publics en arrêt maladie ordinaire est passée de 100 % à 90 %, avec un jour de carence ; le passage à trois jours de carence voté par le Sénat pour le budget 2026 n'a pas été retenu dans le texte final, selon Acteurs publics.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Les agents publics ont déjà vu leur indemnisation baisser ; la carence reste d'un jour.",
+      "source": 5,
+      "fiabilite": "etabli",
+      "chiffre": "90 %"
+    },
+    {
+      "fait": "Fait défavorable : selon la DGAFP, l'écart brut reste réel dans certains versants : en 2025, 14,3 jours d'absence en moyenne dans la fonction publique hospitalière et 12,7 jours dans la territoriale, contre 10,5 jours dans le privé ; un rapport IGF-IGAS cité par Public Sénat relevait 14,5 jours dans le public contre 11,7 dans le privé en 2022.",
+      "periode": "2022-2025",
+      "perimetre": "France",
+      "explication": "L'hôpital et les collectivités concentrent des métiers physiquement durs, souvent occupés par des femmes et des agents âgés : c'est là qu'il faut agir sur les conditions de travail.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "14,3 jours"
+    }
+  ],
+  "argumentaires": {
+    "court": "L'écart est d'une demi-journée par an. Selon la DGAFP, un agent public a été absent pour raison de santé 11,0 jours en 2025, contre 10,5 jours dans le privé, et la part d'absents une semaine donnée est identique. L'écart tient surtout à une population plus féminine et plus âgée, et aux métiers pénibles de l'hôpital et des collectivités.",
+    "moyen": "Les chiffres officiels ne montrent pas de fonctionnaires « bien plus malades ». Selon la DGAFP, un agent public a été absent pour raison de santé 11,0 jours en moyenne en 2025, soit une demi-journée de plus qu'un salarié du privé. La part d'agents absents une semaine donnée est au même niveau que dans le privé, pour la première fois depuis 2018.\n\nL'écart qui reste s'explique en partie par la structure des effectifs : plus de femmes, plus d'agents de plus de 50 ans, et des métiers pénibles. Avant 50 ans, les agents publics s'absentent même moins que les salariés du privé. C'est à l'hôpital (14,3 jours) et dans les collectivités (12,7 jours) que les absences sont plus fréquentes : aides-soignantes, agents d'entretien, auxiliaires... des métiers usants.",
+    "detaille": "L'affirmation repose sur une image ancienne. Selon le rapport annuel 2026 de la DGAFP, fondé sur l'enquête Emploi de l'Insee, les agents publics ont été absents pour raison de santé 11,0 jours en moyenne en 2025, contre 10,5 jours pour les salariés du privé. La part d'agents absents au moins un jour pendant une semaine donnée, 4,9 %, est au même niveau que dans le privé, une première depuis 2018. Les absences baissent dans la fonction publique depuis 2022, dans toutes les tranches d'âge.\n\nComparer des moyennes brutes est trompeur, car les deux secteurs n'emploient pas les mêmes personnes. La fonction publique compte plus de femmes et plus d'agents âgés, deux groupes qui s'absentent davantage partout, y compris dans le privé. La DGAFP explique l'écart en partie par ces effets de structure et par la pénibilité de certains métiers. Avant 30 ans, un agent public s'absente même 1,7 jour de moins qu'un salarié du privé.\n\nLes écarts sont réels dans certains versants : 14,3 jours à l'hôpital public et 12,7 jours dans les collectivités. Ce sont les secteurs où l'on porte des patients, où l'on nettoie, où l'on travaille de nuit et le week-end. La réponse logique est d'améliorer les conditions de travail et les effectifs.\n\nQuant au jour de carence, l'Insee a montré qu'en 2012-2013 il n'avait pas réduit la part d'agents absents : les arrêts de deux jours ont chuté, mais les arrêts longs ont augmenté. Depuis le 1er mars 2025, les agents malades ne touchent plus que 90 % de leur traitement. Le passage à trois jours de carence, voté par le Sénat pour 2026, n'a pas été retenu. Dans le privé, selon le ministre David Amiel, environ 70 % des salariés voient leurs jours de carence pris en charge en tout ou partie par l'employeur.",
+    "empathie": "On a tous en tête un service où des collègues absents n'étaient pas remplacés, et c'est exaspérant quand on attend un rendez-vous. Mais le problème vient souvent du manque d'effectifs et de l'usure, pas d'une paresse supposée des agents."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Dans le privé, on a trois jours de carence, c'est injuste.",
+      "reponse": "Selon le ministre David Amiel, environ 70 % des salariés du privé ont ces jours pris en charge en tout ou partie par leur employeur. Et depuis mars 2025, les agents publics malades ne touchent plus que 90 % de leur traitement."
+    },
+    {
+      "objection": "Le jour de carence réduit l'absentéisme, donc il faut l'allonger.",
+      "reponse": "L'Insee a montré qu'en 2012-2013 il n'avait pas réduit la part d'agents absents : moins d'arrêts courts, mais davantage d'arrêts longs."
+    },
+    {
+      "objection": "À l'hôpital, ils sont tout le temps absents.",
+      "reponse": "Oui, 14,3 jours en moyenne en 2025 : c'est le versant le plus touché. Mais c'est aussi celui où le travail est le plus usant, la nuit, le week-end et auprès des malades."
+    }
+  ],
+  "questions": [
+    "Si les agents de moins de 50 ans s'absentent moins que dans le privé, d'où vient l'idée de fonctionnaires « toujours malades » ?",
+    "Une aide-soignante de cinquante-cinq ans et un cadre de trente ans peuvent-ils avoir le même nombre d'arrêts ?"
+  ],
+  "limites": [
+    "Les pages de la DGAFP, de l'Insee et des articles de presse ont été lues à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "La DGAFP ne publie pas, dans les documents lus, de comparaison toutes choses égales par ailleurs (âge, sexe, métier, état de santé) : on ne peut que constater les écarts par sexe et par âge.",
+    "Le chiffre de la fonction publique hospitalière diffère légèrement selon la source (14,3 jours pour la DGAFP, 14,2 selon Acteurs publics).",
+    "L'évaluation de l'Insee sur le jour de carence porte sur 2012-2013 et sur la seule fonction publique de l'État.",
+    "Les mesures de l'enquête Emploi (DGAFP) et du rapport IGF-IGAS ne sont pas identiques ; la refonte de l'enquête Emploi en 2021 crée une rupture de série.",
+    "Le chiffre d'environ 70 % des salariés du privé couverts pendant la carence est une déclaration ministérielle rapportée par Public Sénat, dont la source n'a pas été ouverte."
+  ],
+  "sources": [
+    {
+      "titre": "Temps et organisation du temps de travail dans la fonction publique en 2025 (Vue Rapport annuel, édition 2026)",
+      "organisme": "DGAFP (ministère de la Fonction publique)",
+      "date_publication": "15 octobre 2026",
+      "url": "https://www.fonction-publique.gouv.fr/toutes-les-publications/le-temps-et-organisation-du-temps-de-travail-dans-la-fonction-publique-en-2025",
+      "passage": "« Les absences pour raison de santé s’élèvent en 2025 à 11,0 jours en moyenne par agent », soit 0,5 jour de plus que pour les salariés du privé. Par versant : 14,3 jours dans la fonction publique hospitalière, 12,7 jours dans la territoriale, 9,0 jours pour le personnel non enseignant de l'État et 8,1 jours pour les enseignants. La part des agents absents au moins un jour pendant une semaine de référence est de 6 % dans l'hospitalière et la territoriale, 4 % dans celle de l'État. Les femmes et les agents de 50 ans ou plus sont davantage absents.",
+      "pertinence": "Publication statistique officielle de la direction générale de l'administration et de la fonction publique (page lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Temps et organisation du temps de travail (Vue Rapport annuel 2025, données 2024)",
+      "organisme": "DGAFP (ministère de la Fonction publique)",
+      "date_publication": "2025",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/publications/vue-rapport-annuel/ra_2025_vue_temps_organisation_temps_travail.pdf",
+      "passage": "Données de l'enquête Emploi de l'Insee (2024). « 5% des agents ont déclaré avoir été absents au moins un jour pour raison de santé durant la semaine de référence », une proportion proche de celle du privé (5 %). « Les agents de la fonction publique se sont absentés 11,1 jours en moyenne en 2024 », contre 10,6 jours dans le privé. Femmes : 12,4 jours dans la fonction publique contre 8,7 pour les hommes ; dans le privé 11,5 et 9,8. 50 ans ou plus : 15,0 jours dans la fonction publique, 13,7 dans le privé. L'écart avec le privé s'explique en partie par des effets de structure (plus de femmes et d'agents âgés) et par la pénibilité de certains métiers. Rupture de série en 2021 (refonte de l'enquête Emploi).",
+      "pertinence": "Rapport annuel officiel sur l'état de la fonction publique (PDF lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Absences pour raisons de santé : public et privé font désormais jeu égal",
+      "organisme": "Acteurs publics",
+      "date_publication": "15 octobre 2026",
+      "url": "https://acteurspublics.fr/articles/absences-pour-raisons-de-sante-public-et-prive-font-desormais-jeu-egal/",
+      "passage": "D'après le rapport annuel 2026 de la DGAFP : 11 jours d'absence pour raison de santé en 2025 dans la fonction publique, 10,5 jours dans le privé. 4,9 % des agents absents au moins un jour sur la semaine de référence, soit le même niveau que le privé, une première depuis 2018. Les agents de plus de 50 ans s'absentent 1,5 jour de plus que dans le privé, mais les moins de 30 ans (-1,7 jour) et les 30-49 ans (-0,7 jour) s'absentent moins. « La baisse des absences constatée dans la fonction publique depuis 2022 concerne l’ensemble des tranches d’âge ».",
+      "pertinence": "Presse spécialisée de la fonction publique résumant le rapport annuel de la DGAFP (lue à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le jour de carence dans la fonction publique de l'État : moins d'absences courtes, plus d'absences longues",
+      "organisme": "Insee",
+      "date_publication": "2017",
+      "url": "https://www.insee.fr/fr/statistiques/3181789",
+      "passage": "Évaluation du jour de carence appliqué dans la fonction publique de l'État de 2012 à 2014 (enquête Emploi, comparaison avec le privé). Il « n'a donc pas conduit à une variation significative de la prévalence » des absences ; les absences de deux jours auraient diminué « de plus de 50 % en raison de la mesure », mais la prévalence des absences d'une semaine à trois mois « aurait augmenté de 25 % sous l'effet de la mesure ».",
+      "pertinence": "Étude de la statistique publique (Cazenave-Lacroutz et Godzinski), lue à travers un outil de lecture qui résume ; données anciennes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Baisse de l'indemnisation des arrêts maladie des agents publics : c'est maintenant",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "mars 2025",
+      "url": "https://www.banquedesterritoires.fr/baisse-de-lindemnisation-des-arrets-maladie-cest-maintenant",
+      "passage": "« la baisse de 100% à 90% de la rémunération des agents publics en arrêt maladie entre en vigueur ce 1er mars » 2025, en application de l'article 189 de la loi de finances pour 2025 ; le jour de carence reste fixé à un jour, le gouvernement ayant renoncé au passage à trois jours.",
+      "pertinence": "Média d'information des collectivités (groupe Caisse des dépôts), lu à travers un outil de lecture qui résume.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fonction publique : le gouvernement ne retient pas les mesures controversées du Sénat dans le nouveau budget 2026",
+      "organisme": "Acteurs publics",
+      "date_publication": "27 janvier 2026",
+      "url": "https://acteurspublics.fr/articles/fonction-publique-le-gouvernement-ne-retient-pas-les-mesures-controversees-du-senat-dans-le-nouveau-budget-2026/",
+      "passage": "Le gouvernement n'a retenu ni le non-remplacement d'un agent sur deux ni le passage à trois jours de carence voté par le Sénat : « l'article 79 bis est supprimé ».",
+      "pertinence": "Presse spécialisée (lue à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Arrêts maladie : les sénateurs augmentent à trois jours le délai de carence dans la fonction publique",
+      "organisme": "Public Sénat",
+      "date_publication": "6 décembre 2025",
+      "url": "https://www.publicsenat.fr/actualites/economie/arrets-maladie-les-senateurs-augmentent-a-trois-jours-le-delai-de-carence-dans-la-fonction-publique",
+      "passage": "Lors de l'examen du budget 2026, le Sénat a voté le passage d'un à trois jours de carence dans la fonction publique, contre l'avis du gouvernement. Selon un rapport IGF-IGAS de juillet 2024 cité, les absences pour maladie atteignaient en 2022 14,5 jours dans le public contre 11,7 dans le privé. Le ministre David Amiel a jugé que l'écart avait été divisé par six et qu'environ 70 % des salariés du privé ont leurs trois premiers jours pris en charge en tout ou partie par l'employeur.",
+      "pertinence": "Média parlementaire (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-10-31",
+  "raison_actualisation": "Nouveau rapport annuel de la DGAFP sur l'état de la fonction publique et débats budgétaires sur la carence.",
+  "objections_legitimes": [
+    "Les absences sont plus élevées à l'hôpital public et dans les collectivités que dans le privé.",
+    "Les absences non remplacées dégradent le service rendu aux usagers.",
+    "Il est légitime de chercher l'égalité de traitement entre public et privé en cas de maladie."
+  ],
+  "publics": {
+    "convaincus": "Les chiffres officiels ont changé : en 2025, un fonctionnaire a été absent 11 jours pour raison de santé, un salarié du privé 10,5 jours. Avant 50 ans, les agents publics s'absentent même moins. Là où il y a plus d'arrêts, c'est à l'hôpital et dans les collectivités, des métiers usants qu'on serait bien en peine de faire soi-même.",
+    "indecis": "C'est vrai qu'un service où des absents ne sont pas remplacés, c'est pénible pour tout le monde. Mais selon la DGAFP, l'écart avec le privé n'est que d'une demi-journée par an, et il s'explique en partie par l'âge et les métiers. Pour avoir moins d'arrêts, mieux vaut moins d'usure au travail que des sanctions : l'Insee a montré que le jour de carence avait surtout allongé les arrêts."
+  },
+  "repond_a": [
+    {
+      "id": "fonctionnaires_malades_q2511",
+      "label": "Absences des fonctionnaires pour maladie"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "urgences",
+    "fonction publique",
+    "agents publics",
+    "emploi public"
+  ],
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "travailleurs",
+      "dignite"
+    ],
+    "mecanismes": "Comparer des moyennes brutes entre deux populations différentes, plus féminine et plus âgée dans le public, transforme l’usure au travail en paresse supposée des agents.",
+    "consequences": "Ce soupçon sert à justifier la baisse de l’indemnisation des agents malades et l’allongement de la carence, qui poussent à travailler malade et allongent les arrêts.",
+    "democratie": "Des services publics de qualité exigent des agents en bonne santé et en nombre suffisant : la santé au travail des soignants et des agents territoriaux est une question d’intérêt général.",
+    "propositions": [
+      "Investir dans la prévention de l’usure professionnelle à l’hôpital et dans les collectivités.",
+      "Remplacer systématiquement les agents absents pour protéger les usagers et les collègues.",
+      "Aligner vers le haut la couverture des arrêts maladie dans le public et dans le privé."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les absences pour raison de santé restent nettement plus élevées à l’hôpital public et dans les collectivités que dans le privé.",
+        "integration": "C’est réel, et cela tient à des métiers physiquement durs, de nuit et de week-end : la réponse est l’amélioration des conditions de travail, pas la sanction."
+      }
+    ]
+  },
+  "concepts": [
+    "fonctionnaires_malades",
+    "services_publics",
+    "fonctionnaires"
+  ]
+}

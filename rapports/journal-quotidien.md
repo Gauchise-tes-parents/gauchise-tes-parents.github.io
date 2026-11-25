@@ -2102,3 +2102,73 @@ En plus, le sujet de départ (immigration) servait de contexte à chaque phrase 
   - Apple : 99 dollars US par an ;
   - test fermé Google : 12 testeurs pendant 14 jours.
 - Tests : 519 sur 519.
+
+## Semaine du 25 novembre 2026 — passage hebdomadaire du mercredi
+
+**Moteur interne.** `data/moteur/file.json` est vide et `data/moteur/pistes.md` n'existe pas : le dernier passage du moteur (19 novembre) ne signale aucune question « à écrire à la main ». Aucune piste du moteur n'a donc pu servir ; les questions viennent de la recherche de la semaine.
+
+**Questions testées : 14** (toutes menaient à une « LACUNE » ou à une fiche hors sujet avant ce passage).
+1. La France insoumise veut sortir du nucléaire.
+2. Les COP sur le climat ne servent à rien.
+3. Les voitures électriques chinoises vont tuer l'industrie automobile française.
+4. Nationaliser ArcelorMittal coûterait une fortune et ne sauverait rien.
+5. Il suffit d'expulser ou d'enfermer tous les fichés S.
+6. Il faut envoyer l'armée dans les quartiers pour lutter contre le trafic de drogue.
+7. Les associations d'aide aux migrants vivent de subventions pour empêcher les expulsions.
+8. Les immigrées font beaucoup plus d'enfants que les Françaises.
+9. Les immigrés sont responsables de la crise du logement.
+10. La France est le pays qui dépense le plus en protection sociale au monde.
+11. Les fonctionnaires sont plus souvent malades que les salariés du privé.
+12. Le RN veut introduire de la capitalisation dans les retraites.
+13. Le Smic devient le salaire de la majorité des Français.
+14. L'ouverture des magasins le dimanche crée des emplois.
+
+Avant ce passage : 4 « LACUNE » (ArcelorMittal, voitures chinoises, logement, dimanche) et 10 fiches hors sujet (par exemple `melenchon-crie` pour le nucléaire de LFI, `electricite-nucleaire-renouvelables` pour les COP, `expulser-reduit-criminalite` pour les fichés S, `delinquance-partout` pour l'armée, `immigres-aides` pour les associations, `services-publics-moyens` pour les arrêts maladie des fonctionnaires, `rn-premier-parti-majorite` pour le Smic). Phrases essayées puis remplacées parce qu'une fiche pertinente existait déjà : OQTF non exécutées (`expulser-tous-etrangers-condamnes`), peines non exécutées et bracelet électronique (`justice-laxiste-prison`), antifas (`ultragauche-ultradroite-violence`), logements sociaux et étrangers (`logements-sociaux-immigres`), faillite « comme la Grèce » (`dette-france-grece`) ; écartées comme quasi-doublons : impôts de production (`impots-entreprises-europe`), majorité pénale à 16 ans (`excuse-de-minorite`), agences de notation (`fmi-tutelle-france`), Chinois et vignobles (`terres-agricoles-chinois`).
+
+Actualité de la semaine prise en compte : clôture de la COP31 d'Antalya (22 novembre, sans décision de couverture ni mention des énergies fossiles), projet de retraites présenté par le RN le 17 novembre (pilier de capitalisation obligatoire), programme de LFI pour 2027 sur l'énergie (novembre 2026), dernière étude de la Dares sur le Smic (octobre 2026) et rapport annuel de la DGAFP (octobre 2026).
+
+**Fiches créées : 14.**
+- Générateur : `scripts/fiches/quotidien_20261125_0600.py`.
+- Chaque fiche a le champ `publics` et une entrée dans `scripts/lectures-gauche.js` (sans chiffre).
+- Les sources ont été ouvertes et lues le 25 novembre 2026 par quatre agents de recherche, avec un outil de lecture qui résume : les citations entre « » sont courtes et à revérifier mot pour mot. Chaque lot a été contrôlé avant assemblage (validation de la bibliothèque, politique documentaire, champ `publics`, sous-thème existant, lectures sans chiffre, identifiant nouveau). L'issue de la COP31, lue chez Carbon Brief, a été recoupée par les titres de CNBC et CBC (« talks collapse » faute de mention des fossiles).
+
+Trois premières sources de chacune :
+- `lfi-sortie-nucleaire-programme` (plutot_exact, 5 sources) : La France insoumise / campagne Mélenchon 2027 (source partisane) (novembre 2026) ; Public Sénat (6 novembre 2026) ; ECOinfos – Les énergies renouvelables (10 novembre 2026).
+- `cop-climat-servent-a-rien` (trompeur, 5 sources) : Carbon Brief (23 novembre 2026) ; AFP, publié par La Gazette France (19 novembre 2026) ; Programme des Nations unies pour l'environnement (PNUE / UNEP) (2026).
+- `voitures-electriques-chinoises-industrie-auto` (trompeur, 5 sources) : Commission européenne (Access2Markets) (12 décembre 2024 (droits applicables depuis le 30 octobre 2024)) ; Euronews, d'après l'ACEA (27 mai 2026) ; Le Grand Continent (d'après Bloomberg, ACEA et OCDE) (26 juin 2026).
+- `nationalisation-arcelormittal-cout` (opinion, 5 sources) : Assemblée nationale, commission des finances (rapporteurs Nicolas Sansu et Aurélie Trouvé) (3 juin 2026) ; Assemblée nationale (11 juin 2026) ; Assemblée nationale, commission des finances (3 juin 2026).
+- `fiches-s-expulser-enfermer` (trompeur, 5 sources) : Conseil d'État (assemblée générale) (23 décembre 2015) ; Sénat, commission des lois (rapporteur François Pillet) (19 décembre 2018) ; Public Sénat (Romain David) (16 octobre 2023).
+- `armee-quartiers-narcotrafic` (trompeur, 6 sources) : Assemblée nationale, commission de la défense (rapporteurs Olivier Audibert Troin et Christophe Léonard) (22 juin 2016) ; Public Sénat (Guillaume Jacquot), d'après la Cour des comptes (12 mai 2022) ; Sénat (2025 (page consultée en novembre 2026)).
+- `associations-retention-subventions` (trompeur, 5 sources) : Cour des comptes (communication à la commission des finances du Sénat) (décembre 2024 (publié en février 2025)) ; Sénat, commission des lois (7 mai 2025) ; Public Sénat (12 mai 2025).
+- `fecondite-immigrees-ecart` (trompeur, 3 sources) : Insee (Didier Reynaud) (21 février 2023) ; Insee (édition 2023) ; Ined (Sabrina Volant, Gilles Pison, François Héran) (juillet-août 2019).
+- `immigres-crise-logement` (trompeur, 5 sources) : Sénat, commission des affaires économiques (Dominique Estrosi Sassone, Viviane Artigalas, Amel Gacquerre) (30 avril 2024) ; Service des données et études statistiques (SDES), ministère chargé du Logement (30 janvier 2026) ; Insee (Camille Freppel) (12 septembre 2024).
+- `france-championne-depenses-sociales` (plutot_exact, 4 sources) : Drees (Clément Dherbécourt, Mathilde Didier) (décembre 2025) ; Drees (décembre 2025) ; OCDE, direction de l'emploi, du travail et des affaires sociales (Willem Adema, Pauline Fron, Maxime Ladaique) (2 février 2023).
+- `fonctionnaires-plus-malades-que-prive` (trompeur, 7 sources) : DGAFP (ministère de la Fonction publique) (15 octobre 2026) ; DGAFP (ministère de la Fonction publique) (2025) ; Acteurs publics (15 octobre 2026).
+- `rn-retraites-capitalisation` (confirme, 6 sources) : Public Sénat (17 novembre 2026) ; LCP (La Chaîne parlementaire - Assemblée nationale) (17 novembre 2026) ; Euronews (17 novembre 2026).
+- `smic-salaire-majorite` (trompeur, 4 sources) : MoneyVox, d'après la Dares (15 octobre 2026) ; ID, l'Info Durable (dépêche, d'après la Dares) (15 octobre 2026) ; Insee (octobre 2026).
+- `ouverture-dimanche-emplois` (contredit, 5 sources) : Insee (Dominique Goux et Éric Maurin) (26 janvier 2023) ; Assemblée nationale (29 novembre 2018) ; Banque des Territoires (Localtis) (4 décembre 2018).
+
+**Points fragiles signalés dans les limites des fiches :**
+- **Lus à travers un résumé ou un article :** issue de la COP31 (Carbon Brief ; aucune décision officielle de la CCNUCC lue) ; coûts des scénarios de RTE (étude de 2021, lus sur un graphique) ; Opération Sentinelle (Cour des comptes via Public Sénat) et commission d'enquête du Sénat sur le narcotrafic (via Public Sénat) ; étude sur la militarisation au Mexique (via le communiqué de l'association américaine de statistique) ; rapport 2026 de la Fondation pour le logement des défavorisés (via Maire-info) ; étude de la Dares sur le Smic (via MoneyVox et une dépêche, la page de la Dares bloquant l'outil) ; étude Insee de Goux et Maurin sur le dimanche (résumé seulement).
+- **Données anciennes :** fichés S et étrangers inscrits au FSPRT (2023 ; le ministère déclare ces données « confidentielles » depuis 2026) ; effet des immigrées sur la fécondité nationale (+0,1 enfant, Ined, données 2017) ; Opération Sentinelle (2020) ; effet de la protection sociale sur la pauvreté (2022).
+- **À manier avec prudence :** coûts d'une nationalisation d'ArcelorMittal (déclarations de parlementaires, de 1 à 8 milliards d'euros, pas d'évaluation indépendante ; navette non vérifiée après le 11 juin 2026) ; chiffrages du RN sur ses retraites (ceux du parti, rapportés par la presse) ; montant du marché de l'assistance juridique en rétention (7,4 M€ selon le Sénat, 9,2 M€ selon Public Sénat, écart non expliqué) ; rang de la France pour les dépenses sociales (première de l'UE en 2023, deuxième derrière la Finlande en 2024 selon des données provisoires de la Drees) ; aucune comparaison des absences à âge, sexe et métier égaux n'a été lue pour les fonctionnaires.
+
+**Pages non ouvertes, donc non citées :** article franceinfo sur les retraites du RN (site bloquant l'outil) ; page de la Dares sur le Smic ; PDF complet de l'étude Goux-Maurin ; panorama de la Drees et pages chiffrées de l'OCDE ; billet de l'OFCE sur la protection sociale ; rapport du CGLPL ; pages sur l'annonce des suppressions de postes d'ArcelorMittal (2025) ; prise de position d'une syndicaliste policière sur Europe 1 ; pages de l'ADEME.
+
+**Reconnaissance des questions.** Après génération, 4 questions menaient déjà à leur fiche. `public/js/cartographie.js` reçoit :
+- **14 concepts** : `lfi_nucleaire`, `cop_climat`, `voitures_chinoises`, `arcelor_nationalisation`, `fiches_s`, `armee_quartiers`, `assos_retention`, `fecondite_immigrees`, `logement_immigres`, `depenses_sociales_record`, `fonctionnaires_malades`, `rn_capitalisation`, `smic_majorite`, `dimanche_emplois` ;
+- **leurs domaines** et **des arguments placés en tête** (un par concept, plus des variantes avec les concepts voisins pour que la nouvelle fiche l'emporte : `lfi_nucleaire` + `melenchon_lfi` / `gauche` ; `assos_retention` + `immigration` / `prestations` ; `fecondite_immigrees` + `immigration` / `demographie`).
+
+Comparaison avant/après sur 1 003 phrases de contrôle (affirmations de la bibliothèque et questions numérotées de ce journal) : aucune phrase ne change. Les 14 questions du jour et les 14 affirmations des nouvelles fiches mènent chacune à leur fiche.
+
+Variantes familières vérifiées (toutes mènent à la bonne fiche) : « Mélenchon veut fermer toutes nos centrales nucléaires » ; « La COP31 c'est encore du bla-bla, ça sert à rien » ; « Les bagnoles chinoises vont couler Renault et Peugeot » ; « Nationaliser l'acier, c'est jeter l'argent par les fenêtres » ; « Les fichés S, faut tous les virer ou les enfermer » ; « Il faut mettre l'armée à Marseille contre les dealers » ; « La Cimade est payée par nos impôts pour bloquer les expulsions » ; « Avec tous ces migrants, forcément il n'y a plus de logements » ; « On est champions du monde de la dépense sociale » ; « Les fonctionnaires sont tout le temps en arrêt maladie » ; « Le Pen veut des fonds de pension, de la capitalisation » ; « Bientôt tout le monde sera au Smic » ; « Travailler le dimanche, ça crée des emplois ». Une formulation méprisante sur la fécondité des immigrées a aussi été testée : elle mène bien à `fecondite-immigrees-ecart`.
+
+**Fiches existantes adaptées aux deux publics : aucune.** Toutes les fiches ont déjà le champ `publics`, sauf les 16 fiches « Science du dialogue » (`sci-…`), volontairement laissées sans.
+
+**Questions écartées pour sources invérifiables : aucune.**
+
+**Jauge Tipeee : non mise à jour.** L'API publique `https://api.tipeee.com/v2.0/projects/martyducanda` n'a pas pu être lue : la demande d'accès est restée sans réponse dans cette session automatique, comme aux passages précédents. Aucun chiffre n'a été relevé. `public/js/soutien.js` est inchangé (571 € / mois et 77 tipeurs, relevé du 19 novembre).
+
+**Correction avant publication.** Le motif du concept `armee_quartiers` rattachait à tort la fiche `tribunaux-charia-royaume-uni` (le mot « para… » attrapait « parallèle ») : motif resserré, comparaison des 1 003 phrases de contrôle refaite (aucun changement) et tests unitaires relancés.
+
+**Vérifications.** `npm test` : 519 tests, 519 réussis (avant et après la correction). Tests de bout en bout : 46 tests, 45 réussis. L'échec concerne « liens Tipeee » (`tests/e2e/ui.test.js`, ligne 119) : le test attend 3 liens Tipeee et n'en trouve que 2 au chargement de l'accueil. Ce test échoue de la même façon sur la version publiée avant ce passage (vérifié en mettant de côté les modifications du jour) : le problème vient de l'interface, pas des fiches. Il n'a pas été corrigé, car ce passage ne touche ni au design ni aux tests ; c'est à examiner.

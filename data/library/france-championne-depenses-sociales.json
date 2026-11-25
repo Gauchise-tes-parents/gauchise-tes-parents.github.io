@@ -1,0 +1,225 @@
+{
+  "id": "france-championne-depenses-sociales",
+  "type": "idee_recue",
+  "affirmation": "La France est le pays qui dépense le plus en protection sociale au monde, c'est un gouffre sans résultat.",
+  "volet": "social",
+  "sous_theme": "Coût et efficacité des aides",
+  "rubriques": [],
+  "mots_cles": [
+    "france championne du monde des depenses sociales",
+    "pays qui depense le plus en protection sociale",
+    "depenses sociales part du pib",
+    "protection sociale gouffre",
+    "modele social trop cher",
+    "trop de depenses sociales",
+    "record mondial depenses sociales",
+    "ocde depenses sociales france",
+    "protection sociale 33 % du pib",
+    "prestations sociales a quoi ca sert"
+  ],
+  "verdict": "plutot_exact",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Pour l'essentiel, c'est vrai : la France est en tête ou presque. Selon l'OCDE, elle est le premier pays pour les dépenses sociales publiques (plus de 30 % du PIB en 2022) ; selon la Drees, elle était première de l'Union européenne en 2023, et passerait deuxième derrière la Finlande en 2024. Mais cet argent finance d'abord les retraites (46 % des prestations) et la santé (36 %), et quand on ajoute les dépenses privées, les États-Unis remontent au 2e rang. Quant à l'efficacité, les prestations sociales font baisser le taux de pauvreté de 21,3 % à 14,4 %.",
+  "contexte": "L'argument sert à justifier des coupes dans les prestations sociales ou à présenter le modèle social comme un luxe inefficace. Il s'appuie sur des comparaisons internationales réelles, mais oublie ce que ces dépenses financent et ce qu'elles évitent.",
+  "explication": "On vérifie le classement (Drees, OCDE), puis on regarde ce que finance la dépense, ce qu'on obtient en tenant compte des dépenses privées, et l'effet des prestations sur la pauvreté.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : selon la Drees, « La France est en 2023 le premier pays européen pour la part de la dépense sociale dans le PIB », avec 31,7 points de PIB potentiel, contre 27,2 % en moyenne dans l'Union européenne.",
+      "periode": "2023",
+      "perimetre": "Union européenne",
+      "explication": "Le constat de départ est exact : la France consacre une part de sa richesse à la protection sociale parmi les plus élevées.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "31,7 %"
+    },
+    {
+      "fait": "Selon la Drees, en 2024, la dépense sociale atteint 32,5 % du PIB en Finlande, 31,9 % en France et 31,8 % en Autriche : la Finlande prendrait la première place européenne.",
+      "periode": "2024",
+      "perimetre": "Union européenne",
+      "explication": "La France n'est pas seule : plusieurs pays européens dépensent autant, et certains ont pris la tête.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "31,9 %"
+    },
+    {
+      "fait": "Selon l'OCDE (données 2022), la France est le pays qui dépense le plus pour le social, à plus de 30 % du PIB en dépenses publiques, contre environ 21 % en moyenne dans l'OCDE.",
+      "periode": "2022",
+      "perimetre": "Pays de l'OCDE",
+      "explication": "À l'échelle des pays riches, la France est bien en tête pour la dépense publique sociale.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "+30 %"
+    },
+    {
+      "fait": "Selon l'OCDE, en ajoutant les dépenses sociales privées et les avantages fiscaux à but social, les États-Unis passent de la 23e place à la 2e place des pays de l'OCDE.",
+      "periode": "2022",
+      "perimetre": "Pays de l'OCDE",
+      "explication": "Les Américains ne dépensent pas beaucoup moins pour se protéger : ils le font surtout par des assurances privées, plus inégalitaires.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "23e → 2e"
+    },
+    {
+      "fait": "Selon la Drees, en 2024, les dépenses de protection sociale atteignent 982,2 milliards d'euros, soit 33,6 % du PIB ; sur 932,5 milliards de prestations, 426,7 milliards vont à la vieillesse-survie (45,8 %) et 338,9 milliards à la santé (36,3 %).",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Plus de 80 % de la dépense sert aux retraites et aux soins : ce ne sont pas des « aides » pour quelques-uns, mais des droits pour tous.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "982,2 Md€"
+    },
+    {
+      "fait": "Selon la Drees, en 2024, les prestations du risque pauvreté et exclusion sociale (dont le RSA) représentent 34,0 milliards d'euros, et celles du logement 16,1 milliards.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les minima sociaux, souvent visés, ne pèsent qu'une petite part de l'ensemble.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "34,0 Md€"
+    },
+    {
+      "fait": "Selon la Drees, en 2022, les prestations sociales non contributives et les impôts directs font baisser le taux de pauvreté de 21,3 % à 14,4 %, soit 6,9 points ; les prestations familiales, les minima sociaux, la prime d'activité et les allocations logement en expliquent l'essentiel.",
+      "periode": "2022",
+      "perimetre": "France métropolitaine",
+      "explication": "La dépense a un résultat mesurable : sans elle, environ une personne sur cinq serait pauvre.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "-6,9 points"
+    }
+  ],
+  "argumentaires": {
+    "court": "En part de PIB, c'est presque vrai : la France était première de l'Union européenne en 2023 et première de l'OCDE en dépenses sociales publiques, selon la Drees et l'OCDE. Mais 82 % des prestations vont aux retraites et à la santé, les États-Unis remontent au 2e rang quand on compte les assurances privées, et les prestations font baisser la pauvreté de 21,3 % à 14,4 %. Ce n'est pas un gouffre, c'est un choix.",
+    "moyen": "Le classement est globalement juste. Selon la Drees, la France était en 2023 le premier pays européen pour la dépense sociale rapportée au PIB, et passerait au deuxième rang derrière la Finlande en 2024. Selon l'OCDE, elle est aussi en tête des pays riches pour les dépenses sociales publiques, à plus de 30 % du PIB en 2022.\n\nMais il faut voir ce que cela recouvre. Sur 932,5 milliards de prestations en 2024, 426,7 milliards financent les retraites et 338,9 milliards la santé. Ailleurs, ces dépenses passent souvent par le privé : en les comptant, les États-Unis remontent de la 23e à la 2e place, selon l'OCDE. Et le résultat est mesurable : les prestations sociales et les impôts font baisser le taux de pauvreté de 21,3 % à 14,4 %, selon la Drees.",
+    "detaille": "Commençons par reconnaître ce qui est exact. Selon la Drees, la France était en 2023 le premier pays de l'Union européenne pour la part de la dépense sociale dans la richesse nationale, avec près de 32 % contre 27 % en moyenne. En 2024, la Finlande (32,5 %) passerait devant la France (31,9 %), talonnée par l'Autriche (31,8 %). Selon l'OCDE, la France est aussi le pays qui consacre le plus de dépenses publiques au social parmi les pays riches, à plus de 30 % du PIB en 2022, contre environ 21 % en moyenne.\n\nMais à quoi sert cet argent ? En 2024, les dépenses de protection sociale atteignent 982,2 milliards d'euros selon la Drees. Sur 932,5 milliards de prestations, 426,7 milliards vont aux pensions de retraite et de réversion, 338,9 milliards à la santé. Les prestations contre la pauvreté (dont le RSA) représentent 34 milliards, le logement 16 milliards. Autrement dit, l'essentiel finance des droits universels dont tout le monde profite au cours de sa vie.\n\nEnsuite, comparer les seules dépenses publiques est trompeur. Dans d'autres pays, retraites et santé passent par des assurances privées, souvent obligatoires ou encouragées fiscalement. L'OCDE a calculé qu'en tenant compte de ces dépenses privées et des avantages fiscaux, les États-Unis passent de la 23e à la 2e place. La différence n'est pas tant le montant que le mode de financement : collectif et solidaire d'un côté, individuel et inégalitaire de l'autre.\n\nEnfin, la dépense produit des résultats. Selon la Drees, en 2022, les prestations sociales non contributives et les impôts directs font baisser le taux de pauvreté de 21,3 % à 14,4 %. Les prestations familiales, les minima sociaux, la prime d'activité et les allocations logement en sont les principaux leviers. Et ce calcul n'inclut même pas l'effet des retraites, déjà comptées dans le revenu de départ.\n\nLe vrai débat n'est donc pas « trop de dépenses », mais quel modèle on veut : une protection publique qui couvre tout le monde, ou un système où chacun paie selon ses moyens, et où les plus pauvres renoncent.",
+    "empathie": "C'est vrai que les chiffres impressionnent et qu'on peut se demander si l'argent est bien utilisé, surtout quand on paie beaucoup de cotisations. Cette question est légitime ; la réponse demande de regarder ce que finance cette dépense."
+  },
+  "contre_arguments": [
+    {
+      "objection": "On dépense des fortunes en aides sociales pour les assistés.",
+      "reponse": "Selon la Drees, 45,8 % des prestations vont aux retraites et 36,3 % à la santé ; les prestations contre la pauvreté représentent 34 milliards sur 932,5."
+    },
+    {
+      "objection": "Les autres pays s'en sortent très bien en dépensant moins.",
+      "reponse": "Selon l'OCDE, en comptant les assurances privées et les avantages fiscaux, les États-Unis passent de la 23e à la 2e place : ils dépensent autant, mais autrement, et de façon plus inégalitaire."
+    },
+    {
+      "objection": "Tout cet argent ne sert à rien, il y a toujours des pauvres.",
+      "reponse": "Selon la Drees, les prestations et les impôts font baisser le taux de pauvreté de 21,3 % à 14,4 % : sans eux, des millions de personnes supplémentaires seraient pauvres."
+    }
+  ],
+  "questions": [
+    "Si l'on dépensait moins pour les retraites et la santé publiques, qui paierait à la place, et combien ?",
+    "Préfères-tu un système où les soins sont pris en charge collectivement, ou une assurance privée selon tes moyens ?"
+  ],
+  "limites": [
+    "Les chiffres de la Drees diffèrent selon le périmètre : 33,6 % du PIB dans les comptes nationaux de la protection sociale, 31,9 % dans la comparaison européenne harmonisée ; ils ne doivent pas être mélangés.",
+    "Le classement de l'OCDE porte sur 2022 et l'article lu date de 2023 ; la page thématique et le rapport « Society at a Glance 2024 » de l'OCDE ont été ouverts, mais leurs chiffres n'ont pas pu être lus.",
+    "Le classement 2024 de la Drees (Finlande devant la France) repose sur des données provisoires.",
+    "L'effet sur la pauvreté porte sur 2022 et ne prend pas en compte l'effet des retraites, des allocations chômage ni des services publics gratuits.",
+    "Les pages ont été lues à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot."
+  ],
+  "sources": [
+    {
+      "titre": "Les dépenses sociales ont augmenté partout en Europe entre 2007 et 2023, à quelques exceptions près (Études et Résultats n° 1357)",
+      "organisme": "Drees (Clément Dherbécourt, Mathilde Didier)",
+      "date_publication": "décembre 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/ER%201357%20D%C3%A9penses%20sociales.pdf",
+      "passage": "« La France est en 2023 le premier pays européen pour la part de la dépense sociale dans le PIB » (31,7 points de PIB potentiel), devant la Finlande (31,1), l'Autriche (30,0) et l'Allemagne (28,8). En moyenne dans l'UE-27, la dépense sociale est passée « de 24,9 % à 27,2 % du PIB » entre 2007 et 2023. En 2024, « Les dépenses sociales s'élèvent à 32,5 % du PIB courant en Finlande, à 31,9 % en France et à 31,8 % en Autriche » : la Finlande « prendrait la première place en 2024 ». « 80 % d'entre elles concernent les risques maladie et vieillesse ».",
+      "pertinence": "Étude de la direction statistique des ministères sociaux, sur données harmonisées européennes (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les dépenses de protection sociale en 2024 (fiche 03, La protection sociale en France et en Europe en 2024, édition 2025)",
+      "organisme": "Drees",
+      "date_publication": "décembre 2025",
+      "url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-05/CPS2025%20-%20Fiche%2003%20-%20Les%20d%C3%A9penses%20de%20protection%20sociale%20en%202024.pdf",
+      "passage": "En 2024, les dépenses de protection sociale « atteignent 982,2 milliards d'euros », soit « 33,6 % du produit intérieur brut (PIB) » (33,1 % en 2023). Les prestations sociales représentent 94 % des dépenses, « pour un total de 932,5 milliards d'euros » : vieillesse-survie 426,7 Md€ (45,8 %), santé 338,9 Md€ (36,3 %), famille 65,8 Md€ (7,1 %), emploi 51,1 Md€ (5,5 %), pauvreté et exclusion sociale 34,0 Md€, logement 16,1 Md€ (1,7 %).",
+      "pertinence": "Fiche du panorama annuel des comptes de la protection sociale (lue à travers un outil de lecture qui résume ; la date de la fiche n'est pas indiquée, l'édition 2025 est parue en décembre 2025).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Sizing up Welfare States: How do OECD countries compare?",
+      "organisme": "OCDE, direction de l'emploi, du travail et des affaires sociales (Willem Adema, Pauline Fron, Maxime Ladaique)",
+      "date_publication": "2 février 2023",
+      "url": "https://oecdstatistics.blog/2023/02/02/sizing-up-welfare-states-how-do-oecd-countries-compare/",
+      "passage": "Dépenses sociales publiques de la France « At over 30% of GDP in 2022 » ; moyenne de l'OCDE passée de 23 % en 2020 à environ 21 % en 2022 (estimation). « France is the biggest social spender according to both gross public and net total social expenditure indicators ». En intégrant les dépenses sociales privées et les avantages fiscaux à but social (dépenses sociales nettes totales), les États-Unis passent de la 23e place pour les dépenses publiques brutes à la 2e place.",
+      "pertinence": "Article du blog statistique officiel de l'OCDE, écrit par les responsables de la base SOCX (lu à travers un outil de lecture qui résume) ; données 2022 et années antérieures pour les dépenses nettes.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les effets des transferts sociaux et fiscaux sur la réduction de la pauvreté monétaire (fiche 03, Minima sociaux et prestations de solidarité, édition 2025)",
+      "organisme": "Drees",
+      "date_publication": "décembre 2025",
+      "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/MS2025%20-%20Fiche%2003%20-%20Les%20effets%20des%20transferts%20sociaux%20et%20fiscaux%20sur%20la%20r%C3%A9duction%20de%20la%20pauvret%C3%A9%20mon%C3%A9taire.pdf",
+      "passage": "En 2022 (enquête ERFS), le taux de pauvreté monétaire au seuil de 60 % passe de 21,3 % avant transferts à 14,4 % après : « Les prestations sociales non contributives et les impôts directs diminuent le taux de pauvreté monétaire de 6,9 points ». Contributions : prestations familiales -1,7 point, minima sociaux -1,7, prime d'activité -1,4, allocations logement -1,1, impôts directs -0,7. « Les prestations sociales non contributives ont donc un effet beaucoup plus fort que les impôts directs ».",
+      "pertinence": "Fiche de l'ouvrage annuel de la Drees (lue à travers un outil de lecture qui résume) ; le revenu « avant transferts » inclut déjà les pensions de retraite et les allocations chômage.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-12-31",
+  "raison_actualisation": "Nouvelle édition du panorama « La protection sociale en France et en Europe » de la Drees et nouvelles données SOCX de l'OCDE.",
+  "objections_legitimes": [
+    "La France est effectivement parmi les tout premiers pays pour la dépense sociale en part du PIB.",
+    "Le financement de la protection sociale pèse sur les finances publiques et pose de vrais choix.",
+    "On peut discuter de l'efficacité de certaines dépenses, notamment en santé."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison, la France est parmi les pays qui dépensent le plus pour le social, la Drees et l'OCDE le confirment. Mais regarde où va l'argent : plus de 80 % finance les retraites et la santé, y compris les tiennes et celles de tes parents. Aux États-Unis, on paie autant en assurances privées, sauf que ceux qui n'ont pas les moyens restent sans soins.",
+    "indecis": "La question du coût est légitime : près d'un tiers de la richesse nationale, c'est beaucoup. Mais cet argent paie d'abord les retraites et les soins, et il réduit la pauvreté d'environ 7 points selon la Drees. Les pays qui dépensent moins en public dépensent souvent plus en privé, avec moins de protection pour les plus modestes."
+  },
+  "repond_a": [
+    {
+      "id": "depenses_sociales_record_q2511",
+      "label": "Niveau des dépenses de protection sociale"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat",
+    "vivent des",
+    "vivre des",
+    "ame",
+    "aide medicale",
+    "qui profitent",
+    "droit a tout"
+  ],
+  "lecture": {
+    "valeurs": [
+      "solidarite",
+      "universalite",
+      "services_publics",
+      "repartition"
+    ],
+    "mecanismes": "Le classement par part de richesse nationale est présenté comme une preuve de gaspillage, en oubliant que la dépense finance surtout retraites et santé, et que d’autres pays paient autant par des assurances privées.",
+    "consequences": "Ce discours prépare des coupes dans les prestations et la privatisation progressive de la protection sociale, au détriment des plus modestes qui ne peuvent pas s’assurer seuls.",
+    "democratie": "Le niveau de la protection sociale est un choix collectif qui doit être débattu avec des comparaisons complètes, incluant les dépenses privées et les résultats obtenus.",
+    "propositions": [
+      "Présenter systématiquement les comparaisons internationales en incluant les dépenses privées obligatoires et volontaires.",
+      "Financer la protection sociale par une contribution accrue des revenus du capital plutôt que par des baisses de prestations.",
+      "Lutter contre le non-recours aux droits pour renforcer l’effet des prestations sur la pauvreté."
+    ],
+    "defavorables": [
+      {
+        "fait": "La France figure bien parmi les tout premiers pays pour la dépense sociale rapportée à la richesse nationale.",
+        "integration": "C’est un choix de société assumé : cette dépense paie retraites et soins pour tous, et réduit fortement la pauvreté."
+      }
+    ]
+  },
+  "concepts": [
+    "depenses_sociales_record",
+    "prestations",
+    "secu_sociale",
+    "cout"
+  ]
+}

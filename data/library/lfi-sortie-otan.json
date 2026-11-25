@@ -220,12 +220,6 @@
       }
     ]
   },
-  "concepts": [
-    "otan_sortie",
-    "melenchon_lfi",
-    "gauche",
-    "ecologie"
-  ],
   "repond_a": [
     {
       "id": "otan_sortie_q1906",
@@ -246,5 +240,12 @@
     "gauche",
     "gauchos",
     "mitterrand"
+  ],
+  "concepts": [
+    "lfi_nucleaire",
+    "otan_sortie",
+    "melenchon_lfi",
+    "gauche",
+    "ecologie"
   ]
 }

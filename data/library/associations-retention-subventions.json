@@ -1,0 +1,243 @@
+{
+  "id": "associations-retention-subventions",
+  "type": "idee_recue",
+  "affirmation": "Les associations d'aide aux migrants vivent de l'argent public pour empêcher les expulsions.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et asile",
+  "rubriques": [],
+  "mots_cles": [
+    "associations pro migrants subventions",
+    "cimade argent public",
+    "associations empechent les expulsions",
+    "associations centres de retention",
+    "aide juridique retention administrative",
+    "france terre d asile subventions",
+    "forum refugies financement etat",
+    "ofii remplace associations cra",
+    "associations immigrationnistes financees",
+    "marche public retention associations"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Le financement est réel, l'interprétation est fausse. L'État paie des associations (Cimade, France terre d'asile, Forum réfugiés, groupe SOS-ASSFAM…) par marché public, environ 7 millions d'euros par an, pour une mission que la loi impose : informer les étrangers retenus et les aider à exercer leurs droits. Ce sont les juges qui annulent ou valident les mesures d'éloignement. La Cour des comptes juge qu'« il n'est pas douteux que les associations remplissent effectivement leurs missions ». Le Sénat a voté en 2025 un texte pour confier cette mission à l'Ofii, mais l'Assemblée ne l'avait pas examiné en novembre 2026.",
+  "contexte": "L'accusation vise surtout les associations présentes dans les centres de rétention administrative, où sont enfermés des étrangers en attente d'éloignement. Elle a été reprise par le ministre de l'Intérieur Bruno Retailleau en 2025, au moment où le Sénat votait un texte pour leur retirer cette mission.",
+  "explication": "On distingue ce que la loi prévoit (CESEDA), ce que l'État paie et pour quoi (Cour des comptes, Sénat), qui décide des recours (les juges), et l'état réel de la réforme (Sénat, Assemblée nationale).",
+  "faits": [
+    {
+      "fait": "Selon le Sénat, l'article L. 744-9 du CESEDA prévoit que l'étranger maintenu en rétention « bénéficie d'actions d'accueil, d'information et de soutien », et l'article R. 744-20 confie chaque centre à une seule personne morale choisie par marché public ; la mission existe dans la loi depuis 2003.",
+      "periode": "2003-2025",
+      "perimetre": "France",
+      "explication": "Ce n'est pas une subvention de complaisance : c'est l'État qui organise et paie un service prévu par la loi, comme il paie des avocats commis d'office.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Cour des comptes, le cahier des charges du marché prévoit, à la demande du retenu, une analyse juridique et une orientation, une aide à la rédaction de demandes et une mise en relation avec un avocat ; c'est une aide ponctuelle, d'un coût modeste par rapport aux autres dispositifs.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les associations aident des personnes enfermées à comprendre et exercer leurs droits ; elles ne décident de rien.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la Cour des comptes, la dépense de l'État pour cette aide juridique est passée de 5,23 millions d'euros en 2019 à 6,80 millions en 2023 (+29,9 %), alors que le nombre de retenus a baissé de 50 486 à 40 056 ; la hausse s'explique par l'augmentation du nombre de lots, liée à celle du nombre de centres. Le Sénat indique 7,4 millions en 2024.",
+      "periode": "2019-2024",
+      "perimetre": "France",
+      "explication": "Quelques millions d'euros par an pour des dizaines de milliers de personnes enfermées : on est loin d'une manne qui ferait « vivre » ces associations.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "6,8 M€"
+    },
+    {
+      "fait": "Selon la Cour des comptes, « Il n'est pas douteux que les associations remplissent effectivement leurs missions », et ce travail débouche sur des recours devant les juridictions ; le Sénat recense 47 925 recours en 2023.",
+      "periode": "2023-2024",
+      "perimetre": "France",
+      "explication": "Un recours n'est qu'une demande : c'est le juge qui annule ou confirme la mesure, selon le droit. Si des décisions sont annulées, c'est qu'elles étaient irrégulières.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "47 925 recours"
+    },
+    {
+      "fait": "Selon Public Sénat, le Sénat a adopté le 12 mai 2025, par 227 voix contre 113, une proposition de loi confiant l'information des retenus à l'Ofii, placé sous tutelle du ministère de l'Intérieur, et l'assistance aux recours aux avocats ; le ministre Bruno Retailleau accusait les associations de retourner leurs missions « contre l'État ».",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Confier l'information juridique à un organisme dépendant du ministère qui organise les expulsions pose une question d'indépendance, dénoncée par la gauche et les associations.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "227 voix contre 113"
+    },
+    {
+      "fait": "Selon le dossier législatif de l'Assemblée nationale consulté le 25 novembre 2026, le texte a été transmis à l'Assemblée le 13 mai 2025 et renvoyé à sa commission des lois, sans examen en séance, adoption définitive ni décision du Conseil constitutionnel mentionnés.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "À cette date, la réforme n'était pas en vigueur : les associations assurent toujours la mission, dans le cadre du marché renouvelé pour 2025-2028.",
+      "source": 3,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : le financement public existe bien, environ 7,4 millions d'euros en 2024 selon le Sénat, et une rapporteure du Sénat relève que certaines associations ont une position « très critique » envers la politique d'éloignement alors que l'État les finance, avec une forte intensité contentieuse.",
+      "periode": "2024-2025",
+      "perimetre": "France",
+      "explication": "Oui, l'État paie, et oui, ces associations défendent les droits des étrangers : c'est précisément la mission qu'on leur confie. Une défense indépendante de l'administration est une garantie de l'État de droit, pas une trahison.",
+      "source": 4,
+      "fiabilite": "interpretation",
+      "chiffre": "7,4 M€"
+    }
+  ],
+  "argumentaires": {
+    "court": "Oui, l'État paie des associations, environ 7 millions d'euros par an, mais pour une mission prévue par la loi : informer les étrangers enfermés en centre de rétention et les aider à exercer leurs droits. Ce sont les juges, pas les associations, qui annulent ou valident une expulsion. La Cour des comptes juge qu'elles remplissent « effectivement leurs missions ».",
+    "moyen": "Le financement est réel : l'État confie par marché public à des associations (Cimade, France terre d'asile, Forum réfugiés, groupe SOS-ASSFAM, Solidarité Mayotte) l'aide juridique dans les centres de rétention. Cela a coûté 6,8 millions d'euros en 2023 selon la Cour des comptes, et 7,4 millions en 2024 selon le Sénat.\n\nMais ce n'est pas une faveur : le Code de l'entrée et du séjour des étrangers prévoit que toute personne retenue bénéficie d'« actions d'accueil, d'information et de soutien ». Les associations expliquent les décisions, aident à rédiger des recours, orientent vers un avocat. Ce sont ensuite les juges qui tranchent. La Cour des comptes écrit qu'« il n'est pas douteux que les associations remplissent effectivement leurs missions ».\n\nLe Sénat a voté en 2025 un texte pour confier cette information à l'Ofii, qui dépend du ministère de l'Intérieur. Pour la gauche, c'est confier la défense à la partie adverse. En novembre 2026, l'Assemblée nationale ne l'avait pas examiné.",
+    "detaille": "L'affirmation part d'un fait exact : des associations sont payées par l'État pour intervenir dans les centres de rétention administrative, où sont enfermés des étrangers en attente d'éloignement. Mais elle en déforme le sens.\n\nCette présence est imposée par la loi. Selon l'article L. 744-9 du Code de l'entrée et du séjour des étrangers et du droit d'asile, l'étranger retenu « bénéficie d'actions d'accueil, d'information et de soutien ». Depuis 2008, la mission est attribuée par marché public, une association par centre. Les titulaires sont aujourd'hui La Cimade, le groupe SOS-ASSFAM, Forum réfugiés, France terre d'asile et Solidarité Mayotte ; le marché a été renouvelé au 1er janvier 2025.\n\nCe qu'elles font est précisé par le cahier des charges : à la demande de la personne, analyser sa situation, l'orienter, l'aider à rédiger ses demandes et la mettre en relation avec un avocat. Elles ne libèrent personne : ce sont les juges qui annulent ou confirment les mesures. Si une décision est annulée, c'est parce qu'elle ne respectait pas le droit. La Cour des comptes écrit qu'« il n'est pas douteux que les associations remplissent effectivement leurs missions ».\n\nCombien ? 5,23 millions d'euros en 2019, 6,80 millions en 2023, selon la Cour des comptes, et 7,4 millions en 2024 selon le Sénat. La hausse, alors que le nombre de retenus baissait, s'explique selon la Cour par l'ouverture de nouveaux centres. Pour plus de 40 000 personnes enfermées par an, c'est un coût modeste.\n\nEn mai 2025, le Sénat a adopté un texte confiant l'information des retenus à l'Ofii, placé sous la tutelle du ministère de l'Intérieur, et les recours aux seuls avocats. Le ministre Bruno Retailleau accusait les associations de retourner leurs missions « contre l'État ». La gauche et les associations y voient un recul des droits : celui qui organise l'expulsion ne peut pas être celui qui informe sur la manière de la contester. Selon le dossier de l'Assemblée nationale consulté le 25 novembre 2026, le texte n'y a pas été examiné en séance.\n\nDans un État de droit, même une personne qu'on veut expulser a droit à une défense. Payer pour que ce droit soit réel n'est pas « empêcher les expulsions » : c'est faire en sorte qu'elles respectent la loi.",
+    "empathie": "Il peut sembler paradoxal que l'État paie des associations qui contestent ensuite ses décisions. Se poser la question est légitime ; la réponse tient au fonctionnement de la justice, où chacun, même accusé ou expulsable, a droit à une défense."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ces associations font libérer des étrangers dangereux.",
+      "reponse": "Les associations n'ont aucun pouvoir de libérer qui que ce soit : elles aident à rédiger des recours, et ce sont les juges qui décident, en appliquant la loi."
+    },
+    {
+      "objection": "C'est l'argent des Français qui finance l'immigration.",
+      "reponse": "C'est environ 7 millions d'euros par an pour une mission prévue par la loi depuis 2003, l'information des personnes enfermées sur leurs droits. La Cour des comptes juge que les associations la remplissent effectivement."
+    },
+    {
+      "objection": "L'Ofii ferait la même chose, et moins cher.",
+      "reponse": "L'Ofii dépend du ministère de l'Intérieur, qui organise les expulsions : confier l'information sur les recours à la partie adverse pose une question d'indépendance. Le texte n'était d'ailleurs pas adopté par l'Assemblée en novembre 2026."
+    }
+  ],
+  "questions": [
+    "Trouves-tu normal qu'une personne enfermée puisse être aidée pour comprendre une décision rédigée en droit français ?",
+    "Si un juge annule une expulsion, est-ce la faute de l'association qui a aidé à faire le recours, ou de l'administration qui n'a pas respecté la loi ?"
+  ],
+  "limites": [
+    "Le montant de 9,2 millions d'euros cité par Public Sénat diffère des 7,4 millions indiqués par le Sénat pour 2024 : les périmètres (centres, zones d'attente, Mayotte) ne sont sans doute pas les mêmes.",
+    "La situation législative est celle du dossier de l'Assemblée nationale consulté le 25 novembre 2026 : une évolution récente non encore reportée sur la page reste possible ; la page de Vie publique sur le texte n'a pas pu être ouverte.",
+    "Aucun chiffre sur la part des recours aboutissant à une annulation ou à une libération n'a été lu dans une source publique.",
+    "Le rapport du Contrôleur général des lieux de privation de liberté n'a pas été lu.",
+    "Les documents ont été lus à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot."
+  ],
+  "sources": [
+    {
+      "titre": "Les missions, le financement et le contrôle par l'État des associations intervenant au titre de la politique d'immigration et d'intégration",
+      "organisme": "Cour des comptes (communication à la commission des finances du Sénat)",
+      "date_publication": "décembre 2024 (publié en février 2025)",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/297326.pdf",
+      "passage": "L'aide juridique en rétention est réalisée par des associations dans le cadre d'un marché public national piloté par la DGEF, d'un an reconductible trois fois ; le cahier des charges prévoit, à l'initiative du retenu, une analyse juridique et une orientation, une aide à la rédaction de demandes et une mise en relation avec un avocat. C'est une aide ponctuelle, d'un coût modeste par rapport aux autres dispositifs. Dépenses (programme 303) : 5,23 M€ en 2019, 6,80 M€ en 2023 (+29,9 %), alors que le nombre de retenus passe de 50 486 à 40 056 (-20,7 %) ; la hausse est attribuée à l'augmentation du nombre de lots liée à celle des centres. Marché 2017-2020 : cinq prestataires (La Cimade, Ordre de Malte, Forum réfugiés-Cosi, France terre d'asile, groupe SOS Solidarités) ; marché 2021-2024 : 21 lots, quatre prestataires, valeur initiale de 6,3 M€ pour 23 lots. « Il n'est pas douteux que les associations remplissent effectivement leurs missions » ; cela entraîne des recours devant les juridictions. Les dépenses des associations financées par les programmes 104 et 303 atteignent 1 094 M€ en 2023 (marchés de l'Ofii compris).",
+      "pertinence": "Rapport de la juridiction financière (document long, lu en deux parties à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "L'essentiel sur la proposition de loi tendant à confier à l'Office français de l'immigration et de l'intégration certaines tâches d'accueil et d'information des personnes retenues",
+      "organisme": "Sénat, commission des lois",
+      "date_publication": "7 mai 2025",
+      "url": "https://www.senat.fr/lessentiel/ppl24-472.pdf",
+      "passage": "Base légale : l'article L. 744-9 du CESEDA prévoit que « L'étranger maintenu en rétention bénéficie d'actions d'accueil, d'information et de soutien » ; l'article R. 744-20 confie chaque centre à une seule personne morale choisie par marché public. Mission consacrée par la loi en 2003 ; fin du monopole de la Cimade en 2008. Titulaires : La Cimade, SOS Solidarités-ASSFAM, Forum réfugiés, France terre d'asile et Solidarité Mayotte ; marché renouvelé au 1er janvier 2025 pour un an, reconductible trois fois. Paiements aux associations : environ +30 % entre 2019 et 2023 alors que le nombre de retenus baisse de plus de 20 % ; 7,4 M€ en 2024. Aide juridictionnelle pour le contentieux de la rétention devant le juge judiciaire : 6,47 M€ en 2024. Recours : 36 871 en 2021, 38 046 en 2022, 47 925 en 2023. La Cour des comptes est citée : « il n'est pas douteux que les associations remplissent effectivement leurs missions d'assistance juridique ». Le texte confierait l'information à l'Ofii et l'assistance aux recours aux avocats.",
+      "pertinence": "Synthèse officielle de la commission des lois du Sénat, favorable au texte (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Centres de rétention : le Sénat adopte un texte pour retirer aux associations leur mission de conseil aux étrangers",
+      "organisme": "Public Sénat",
+      "date_publication": "12 mai 2025",
+      "url": "https://www.publicsenat.fr/actualites/politique/centres-de-retention-le-senat-adopte-un-texte-pour-retirer-aux-associations-leur-mission-de-conseil-aux-etrangers",
+      "passage": "Le Sénat a adopté le 12 mai 2025, par 227 voix contre 113, la proposition de loi de la sénatrice LR Marie-Carole Ciuntu qui confie à l'Ofii, sous tutelle du ministère de l'Intérieur, « le rôle d'information sur l'accès au droit de l'étranger », l'assistance juridique revenant aux avocats ; procédure accélérée. Cinq associations sont mandatées par l'État dans le cadre d'un marché public ; l'État leur verse un peu plus de 9,2 millions d'euros. Le ministre Bruno Retailleau estime que ces associations « outrepassent leurs missions et les retournent en réalité contre l'État » et chiffre les économies à 6,5 millions. Opposition de la gauche : le texte crée une « asymétrie totale » (Corinne Narassiguin, PS) ; les associations dénoncent un « coup fatal à l'exercice des droits des personnes privées de liberté ».",
+      "pertinence": "Article du média du Sénat rendant compte du débat (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Information et assistance juridiques en rétention administrative et en zone d'attente (dossier législatif)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "page consultée le 25 novembre 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers_/DLR5L17N51744",
+      "passage": "Étapes : dépôt au Sénat le 20 mars 2025 ; procédure accélérée ; adoption par le Sénat le 12 mai 2025 ; transmission à l'Assemblée nationale le 13 mai 2025 et renvoi à la commission des lois. La page ne mentionne ni examen en séance à l'Assemblée, ni adoption définitive, ni saisine du Conseil constitutionnel, ni promulgation.",
+      "pertinence": "Page officielle du suivi législatif (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Rapport de contrôle budgétaire sur les centres de rétention administrative (version provisoire)",
+      "organisme": "Sénat, commission des finances (rapporteure spéciale Marie-Carole Ciuntu)",
+      "date_publication": "1er octobre 2025",
+      "url": "https://www.senat.fr/fileadmin/Commissions/Finances/2025-2026/Controles/Rapport_provisoire_CRA.pdf",
+      "passage": "En 2025, cinq associations interviennent dans les 27 centres de rétention, une seule par centre (marché national en 21 lots, trois marchés nationaux distincts, un marché local à Mayotte). Chaque centre doit comporter un bureau pour l'association chargée d'informer et d'aider les retenus dans l'exercice de leurs droits. La rapporteure salue leur engagement mais relève une position parfois très critique envers la politique d'éloignement alors que l'État les finance, une forte intensité contentieuse, des pratiques hétérogènes et un double financement avec l'aide juridictionnelle. La proposition de loi, « récemment adoptée par le Sénat en première lecture », prévoyait une entrée en vigueur au 1er janvier 2026 ; les associations conserveraient un droit de visite.",
+      "pertinence": "Rapport parlementaire d'une sénatrice favorable à la réforme (version provisoire, lue en deux parties à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Suite de la proposition de loi à l'Assemblée nationale et éventuelle décision du Conseil constitutionnel ; nouveau marché ou nouveaux chiffres de l'aide juridique en rétention.",
+  "objections_legitimes": [
+    "L'État finance réellement ces associations, et le coût a augmenté entre 2019 et 2023.",
+    "Certaines de ces associations critiquent ouvertement la politique d'éloignement.",
+    "On peut débattre de la meilleure organisation de l'aide juridique, à condition de garantir son indépendance."
+  ],
+  "publics": {
+    "convaincus": "Oui, l'État paie ces associations, environ 7 millions d'euros par an : ce n'est pas un secret, c'est un marché public. Mais c'est la loi qui oblige à informer les étrangers enfermés sur leurs droits, comme on donne un avocat à tout accusé. Les associations ne libèrent personne : ce sont les juges qui décident. Et la Cour des comptes elle-même dit qu'elles font le travail demandé.",
+    "indecis": "C'est vrai que ça peut sembler étrange que l'État paie des gens qui contestent ses décisions. Mais c'est le principe d'un État de droit : même une personne qu'on veut expulser doit pouvoir faire vérifier par un juge que la loi a été respectée. Le coût est modeste, quelques millions par an, et la Cour des comptes juge que la mission est bien remplie."
+  },
+  "repond_a": [
+    {
+      "id": "assos_retention_q2511_immigration_prestations",
+      "label": "Associations d’aide aux étrangers en rétention"
+    },
+    {
+      "id": "assos_retention_q2511_immigration",
+      "label": "Associations d’aide aux étrangers en rétention"
+    },
+    {
+      "id": "assos_retention_q2511",
+      "label": "Associations d’aide aux étrangers en rétention"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "droits sociaux",
+    "rsa",
+    "caf",
+    "apl",
+    "minima sociaux",
+    "assistanat"
+  ],
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "dignite",
+      "democratie",
+      "solidarite"
+    ],
+    "mecanismes": "L’affirmation présente une mission légale payée par marché public comme une subvention militante, et attribue aux associations des décisions de justice qui relèvent des juges.",
+    "consequences": "Discréditer ces associations prépare le retrait d’une aide indépendante aux personnes enfermées, qui seraient alors informées de leurs droits par une administration dépendant du ministère qui organise leur éloignement.",
+    "democratie": "L’accès effectif au juge et à une défense indépendante est une garantie de l’État de droit pour toute personne privée de liberté, quelle que soit sa nationalité.",
+    "propositions": [
+      "Maintenir une aide juridique indépendante de l’administration dans tous les lieux de rétention.",
+      "Publier chaque année le coût, l’activité et les résultats des recours en rétention.",
+      "Garantir l’accès à un avocat et à un interprète pour toute personne retenue."
+    ],
+    "defavorables": [
+      {
+        "fait": "L’État finance bien ces associations, et leurs dépenses ont augmenté alors que le nombre de personnes retenues baissait.",
+        "integration": "Le financement est public et assumé : il paie un service prévu par la loi, jugé effectivement rempli par la Cour des comptes, et sa hausse s’explique surtout par l’ouverture de nouveaux centres."
+      }
+    ]
+  },
+  "concepts": [
+    "assos_retention",
+    "immigration",
+    "prestations",
+    "expulsion",
+    "identite",
+    "dette",
+    "subventions"
+  ]
+}

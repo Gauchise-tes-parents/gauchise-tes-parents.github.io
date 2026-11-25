@@ -1,0 +1,226 @@
+{
+  "id": "fecondite-immigrees-ecart",
+  "type": "idee_recue",
+  "affirmation": "Les femmes immigrées font beaucoup plus d'enfants que les Françaises, c'est ce qui fait la natalité du pays.",
+  "volet": "immigration",
+  "sous_theme": "Immigration et démographie",
+  "rubriques": [],
+  "mots_cles": [
+    "immigrees font plus d enfants",
+    "fecondite des immigrees",
+    "les etrangeres font plus de bebes",
+    "natalite immigree",
+    "enfants par femme immigrees",
+    "naissances meres etrangeres",
+    "fecondite descendantes d immigres",
+    "les immigrees font la natalite francaise",
+    "indicateur conjoncturel de fecondite immigrees",
+    "taux de natalite etrangers"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "L'écart existe, mais il est souvent exagéré et il ne dit pas ce qu'on lui fait dire. En 2021, les femmes nées à l'étranger ont en moyenne 2,3 enfants contre 1,7 pour les femmes nées en France, selon l'Insee. Mais elles ne représentent que 23 % des naissances, leur surcroît de fécondité ne relevait que de 0,1 enfant l'indicateur national en 2017 selon l'Ined, et l'écart s'estompe en grande partie dès la génération suivante : les filles d'immigrés ont à peu près autant d'enfants que les autres femmes.",
+  "contexte": "L'idée circule dans les discours sur le « grand remplacement » : la natalité française reposerait sur les immigrées, et leurs familles nombreuses changeraient la population. La baisse générale de la natalité est traitée dans une autre fiche ; celle-ci porte sur l'écart entre immigrées et non-immigrées et sur son évolution d'une génération à l'autre.",
+  "explication": "On compare la fécondité des immigrées et celle des autres femmes, on mesure leur poids réel dans la natalité nationale, puis on regarde ce que deviennent leurs filles, à partir de l'Insee et de l'Ined.",
+  "faits": [
+    {
+      "fait": "Fait défavorable : selon l'Insee, en 2021, l'indicateur conjoncturel de fécondité est de 2,33 enfants par femme pour les femmes nées à l'étranger (après ajustement) contre 1,67 pour les femmes nées en France.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "L'écart existe bel et bien : les immigrées ont en moyenne plus d'enfants. Le nier serait faux.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "2,33 contre 1,67"
+    },
+    {
+      "fait": "Selon l'Insee, sans ajustement, l'indicateur des femmes nées à l'étranger serait de 2,98 en moyenne sur 2017-2021 ; corrigé du fait que ces femmes repoussent souvent leurs maternités après la migration, il tombe à 2,37.",
+      "periode": "2017-2021",
+      "perimetre": "France",
+      "explication": "Les chiffres les plus spectaculaires surestiment l'écart, car beaucoup de migrantes repoussent leurs maternités jusqu'à leur installation.",
+      "source": 0,
+      "fiabilite": "estimation",
+      "chiffre": "2,98 contre 2,37"
+    },
+    {
+      "fait": "Selon l'Insee, les naissances de mères nées à l'étranger restent « largement minoritaires » : 23 % du total en 2021.",
+      "periode": "2021",
+      "perimetre": "France",
+      "explication": "Plus des trois quarts des bébés naissent de mères nées en France.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "23 %"
+    },
+    {
+      "fait": "Selon l'Ined, en 2017, la fécondité plus élevée des immigrées ne relevait que de 0,1 enfant l'indicateur national, qui passait de 1,8 à 1,9 enfant par femme ; « Immigration ou pas, la fécondité de la France reste l'une des plus élevées d'Europe ».",
+      "periode": "2017",
+      "perimetre": "France",
+      "explication": "Les immigrées ne « font » pas la natalité française : sans elles, elle resterait élevée à l'échelle européenne.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "+0,1 enfant"
+    },
+    {
+      "fait": "Selon l'Insee, parmi les femmes nées entre 1960 et 1974, les descendantes d'immigrés ont eu en moyenne 1,90 enfant, contre 1,86 pour les femmes sans ascendance migratoire directe : la fécondité plus élevée des immigrées « s'estompe donc en grande partie dès la génération suivante ».",
+      "periode": "générations 1960-1974",
+      "perimetre": "France métropolitaine",
+      "explication": "La convergence est rapide : les filles d'immigrés ont des comportements familiaux proches de ceux des autres Françaises.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "1,90 contre 1,86"
+    },
+    {
+      "fait": "Selon l'Insee, la descendance finale varie fortement selon l'origine (2,93 enfants pour les immigrées nées en Afrique hors Maghreb, 1,91 pour celles nées en Europe du Sud, 1,76 pour les autres pays d'Europe et d'Asie) et selon le diplôme (2,7 enfants sans diplôme ou sous le bac, 1,7 au-delà du bac).",
+      "periode": "générations 1960-1974",
+      "perimetre": "France métropolitaine",
+      "explication": "« Les immigrées » ne forment pas un bloc : le niveau d'études pèse autant que l'origine, comme pour toutes les femmes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2,7 contre 1,7"
+    },
+    {
+      "fait": "Selon l'Insee, la fécondité des immigrées baisse d'une génération à l'autre : 2,9 enfants pour celles nées en 1950-1954, 2,3 pour celles nées en 1970-1974.",
+      "periode": "générations 1950-1974",
+      "perimetre": "France métropolitaine",
+      "explication": "Les immigrées suivent, avec un décalage, la même évolution que l'ensemble des femmes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "2,9 puis 2,3"
+    }
+  ],
+  "argumentaires": {
+    "court": "L'écart existe : 2,3 enfants par femme pour les femmes nées à l'étranger contre 1,7 pour celles nées en France en 2021, selon l'Insee. Mais elles ne font que 23 % des naissances, leur effet sur l'indicateur national était de 0,1 enfant selon l'Ined, et leurs filles ont à peu près autant d'enfants que les autres Françaises. Ce n'est pas un « remplacement », c'est une convergence.",
+    "moyen": "Oui, les femmes immigrées ont en moyenne plus d'enfants : 2,33 contre 1,67 pour les femmes nées en France en 2021, selon l'Insee. Mais trois précisions changent tout.\n\nD'abord, le poids réel est limité : les mères nées à l'étranger représentent 23 % des naissances, et l'Ined a calculé qu'en 2017 elles ne relevaient la fécondité nationale que de 0,1 enfant (de 1,8 à 1,9). Ensuite, l'écart ne se transmet pas : les filles d'immigrés nées entre 1960 et 1974 ont eu 1,90 enfant, contre 1,86 pour les femmes sans ascendance migratoire, selon l'Insee. Enfin, la fécondité des immigrées baisse d'une génération à l'autre et dépend beaucoup du diplôme, comme pour toutes les femmes.",
+    "detaille": "Le chiffre de départ est juste. Selon l'Insee, en 2021, l'indicateur conjoncturel de fécondité est de 2,33 enfants par femme pour les femmes nées à l'étranger, contre 1,67 pour les femmes nées en France. Sur l'ensemble de leur vie, les immigrées nées entre 1960 et 1974 ont eu 2,35 enfants, contre 1,86 pour les femmes sans ascendance migratoire directe.\n\nMais il faut d'abord se méfier des chiffres bruts. Beaucoup de migrantes repoussent leurs maternités jusqu'à leur installation en France, ce qui gonfle l'indicateur calculé sur les seules années passées en France. Sans correction, l'indicateur grimpe à près de 3 enfants ; une fois cet effet pris en compte, il retombe autour de 2,4, explique l'Insee.\n\nEnsuite, leur poids dans la natalité nationale est limité. Les mères nées à l'étranger représentent 23 % des naissances en 2021. L'Ined a calculé qu'en 2017 leur fécondité plus élevée ne relevait l'indicateur national que de 0,1 enfant, de 1,8 à 1,9 : « Immigration ou pas, la fécondité de la France reste l'une des plus élevées d'Europe ».\n\nSurtout, l'écart ne se transmet pas. Les descendantes d'immigrés nées entre 1960 et 1974 ont eu 1,90 enfant, presque exactement comme les femmes sans ascendance migratoire (1,86). L'Insee conclut que la fécondité plus élevée des immigrées « s'estompe donc en grande partie dès la génération suivante ». Et chez les immigrées elles-mêmes, elle baisse d'une génération à l'autre (2,9 enfants pour celles nées au début des années 1950, 2,3 pour celles nées au début des années 1970).\n\nEnfin, les différences tiennent beaucoup aux conditions sociales : les immigrées diplômées du supérieur ont 1,7 enfant, comme la moyenne des femmes nées en France. L'école, l'emploi et l'égalité entre femmes et hommes produisent les mêmes effets pour toutes. Parler d'invasion démographique, c'est ignorer cette convergence documentée par la statistique publique.",
+    "empathie": "Il est normal de se poser la question quand on voit autour de soi des familles nombreuses issues de l'immigration : l'écart existe, l'Insee le mesure. Ce qui mérite d'être discuté, c'est la conclusion qu'on en tire."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Sans les immigrées, la France n'aurait plus d'enfants.",
+      "reponse": "Selon l'Ined, elles relevaient l'indicateur national de seulement 0,1 enfant en 2017, de 1,8 à 1,9 ; plus des trois quarts des naissances sont de mères nées en France."
+    },
+    {
+      "objection": "Leurs enfants feront encore plus d'enfants.",
+      "reponse": "C'est l'inverse : selon l'Insee, les filles d'immigrés ont eu 1,90 enfant, presque autant que les femmes sans ascendance migratoire (1,86). L'écart s'estompe dès la deuxième génération."
+    },
+    {
+      "objection": "C'est culturel, ça ne changera pas.",
+      "reponse": "La fécondité des immigrées baisse d'une génération à l'autre et dépend fortement du diplôme : 1,7 enfant pour les diplômées du supérieur, selon l'Insee. Ce sont les conditions de vie qui comptent."
+    }
+  ],
+  "questions": [
+    "Si les filles d'immigrés ont autant d'enfants que les autres Françaises, que reste-t-il de l'idée de « remplacement » ?",
+    "Pourquoi le diplôme influence-t-il autant le nombre d'enfants, quelle que soit l'origine ?"
+  ],
+  "limites": [
+    "Les pages de l'Insee et de l'Ined ont été lues à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "Le chiffre de 0,1 enfant de l'Ined porte sur 2017 : il n'a pas été retrouvé de calcul plus récent dans les sources lues ; avec les chiffres 2021 de l'Insee (1,84 pour l'ensemble, 1,67 pour les femmes nées en France), l'effet semble un peu plus fort, sans qu'aucune source lue ne le chiffre.",
+    "Les mesures de « descendance finale » portent sur des femmes nées entre 1960 et 1974 : les générations plus récentes ne sont pas encore observables sur toute leur vie.",
+    "L'Insee et l'Ined utilisent des catégories différentes (femmes nées à l'étranger, immigrées, natives) qui ne se recouvrent pas exactement."
+  ],
+  "sources": [
+    {
+      "titre": "Combien les femmes immigrées ont-elles d'enfants ? (Insee Première n° 1939)",
+      "organisme": "Insee (Didier Reynaud)",
+      "date_publication": "21 février 2023",
+      "url": "https://www.insee.fr/fr/statistiques/6801884",
+      "passage": "En 2021, l'indicateur conjoncturel de fécondité (ICF) « s'établit à 1,84 enfant par femme » ; il est de 1,67 pour les femmes nées en France et de 2,33 pour les femmes nées à l'étranger après ajustement (2,37 en moyenne 2017-2021 après ajustement, contre 2,98 sans ajustement, l'ajustement tenant compte de la fécondité plus faible avant l'arrivée). L'ICF des femmes nées en France baisse, celui des femmes nées à l'étranger est « relativement stable depuis 2014 ». Les naissances de mères nées à l'étranger sont « largement minoritaires (23 % du total en 2021) ». Descendance finale des femmes nées entre 1960 et 1974 : 2,35 enfants pour les immigrées, 1,86 pour les femmes sans ascendance migratoire directe, 1,90 pour les descendantes d'immigrés (1,95 avec deux parents immigrés, 1,83 avec un seul) ; par origine, 2,93 (Afrique hors Maghreb), 2,82 (Maghreb), 1,91 (Europe du Sud), 1,76 (autres pays d'Europe et d'Asie). La fécondité plus élevée des immigrées « s'estompe donc en grande partie dès la génération suivante ».",
+      "pertinence": "Publication de référence de la statistique publique sur le sujet (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fiche 1.8 — Fécondité (Immigrés et descendants d'immigrés en France, Insee Références, édition 2023)",
+      "organisme": "Insee",
+      "date_publication": "édition 2023",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/6793238/IMMFRA23-F8.pdf",
+      "passage": "En 2021, les femmes nées à l'étranger ont « 2,3 enfants par femme en moyenne, contre 1,7 pour celles nées en France » ; 2,5 pour les femmes nées au Maghreb, 3,3 dans les autres pays d'Afrique, 1,6 en Europe du Sud. L'ICF des femmes nées à l'étranger est « relativement stable depuis 2006 », celui des femmes nées en France passe de 1,9 (2006-2012) à 1,7. Descendance finale (générations 1960-1974) : 2,3 pour les immigrées, 2,0 pour les descendantes de deux parents immigrés, 1,8 pour celles d'un seul parent immigré, 1,9 pour les femmes ni immigrées ni descendantes d'immigrés. Les immigrées sans diplôme ou avec un diplôme inférieur au bac ont 2,7 enfants, contre 1,7 au-delà du bac. Les immigrées nées en 1950-1954 ont eu 2,9 enfants, celles nées en 1970-1974, 2,3.",
+      "pertinence": "Fiche de l'ouvrage de référence de l'Insee (lue à travers un outil de lecture qui résume) ; la date précise de mise en ligne n'est pas indiquée sur le document.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "La France a la plus forte fécondité d'Europe. Est-ce dû aux immigrées ? (Population et Sociétés n° 568)",
+      "organisme": "Ined (Sabrina Volant, Gilles Pison, François Héran)",
+      "date_publication": "juillet-août 2019",
+      "url": "https://www.ined.fr/fr/publications/editions/population-et-societes/france-plus-forte-fecondite-europe-immigrees/",
+      "passage": "« L'indicateur conjoncturel de fécondité des immigrées est plus élevé que celui des natives (2,6 enfants contre 1,8 en 2017) ». La fécondité plus élevée des immigrées « relève seulement de 0,1 enfant le taux de fécondité national, qui passe ainsi de 1,8 à 1,9 enfant par femme en 2017 ». « Les immigrées contribuent aux naissances en France dans une proportion de 19 % ». « Immigration ou pas, la fécondité de la France reste l'une des plus élevées d'Europe. »",
+      "pertinence": "Étude de l'Institut national d'études démographiques (lue à travers un outil de lecture qui résume) ; données de 2017.",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouvelle édition de « Immigrés et descendants d'immigrés » de l'Insee ou nouveau calcul de la contribution des immigrées à la fécondité nationale.",
+  "objections_legitimes": [
+    "Les femmes immigrées ont en moyenne plus d'enfants que les femmes nées en France, c'est établi.",
+    "Les écarts sont plus marqués pour certaines origines, notamment l'Afrique subsaharienne.",
+    "La part des naissances de mères nées à l'étranger a augmenté avec l'immigration."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison sur un point : les immigrées ont en moyenne plus d'enfants, l'Insee le dit. Mais regarde la suite : leurs filles en ont presque exactement autant que les autres Françaises, 1,90 contre 1,86. Un écart qui disparaît en une génération, ce n'est pas un remplacement, c'est une intégration qui fonctionne.",
+    "indecis": "La question est légitime et la réponse est nuancée. Oui, les femmes nées à l'étranger ont plus d'enfants (2,3 contre 1,7 en 2021), mais elles ne représentent que 23 % des naissances et leur effet sur la natalité nationale est faible selon l'Ined. Surtout, l'écart s'efface dès la génération suivante, ce que confirment l'Insee et l'Ined."
+  },
+  "repond_a": [
+    {
+      "id": "fecondite_immigrees_q2511_immigration_demographie",
+      "label": "Fécondité des femmes immigrées"
+    },
+    {
+      "id": "fecondite_immigrees_q2511_immigration",
+      "label": "Fécondité des femmes immigrées"
+    },
+    {
+      "id": "fecondite_immigrees_q2511_demographie",
+      "label": "Fécondité des femmes immigrées"
+    },
+    {
+      "id": "fecondite_immigrees_q2511",
+      "label": "Fécondité des femmes immigrées"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "natalite",
+    "enfants par femme",
+    "font des gosses",
+    "font plus d enfants",
+    "un tiers de la population",
+    "population"
+  ],
+  "lecture": {
+    "valeurs": [
+      "antiracisme",
+      "egalite_fh",
+      "emancipation",
+      "universalite"
+    ],
+    "mecanismes": "Un écart réel de fécondité est isolé de son contexte et projeté dans l’avenir comme s’il était fixe, pour nourrir le fantasme d’un remplacement de population, en taisant la convergence dès la génération suivante.",
+    "consequences": "Ce récit fait des femmes immigrées et de leurs enfants une menace démographique, alimente la peur et justifie des politiques de rejet contraires à l’égalité des droits.",
+    "democratie": "Les débats sur la population doivent s’appuyer sur la statistique publique et ses nuances, et non sur des projections alarmistes qui transforment des citoyens en problème.",
+    "propositions": [
+      "Garantir l’accès de toutes les femmes à l’éducation, à l’emploi et à la contraception, leviers reconnus de la liberté de choix familial.",
+      "Soutenir les familles par des services publics de la petite enfance accessibles à toutes, sans distinction d’origine.",
+      "Diffuser largement les travaux de l’Insee et de l’Ined sur la convergence des comportements familiaux."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les femmes immigrées ont bien, en moyenne, plus d’enfants que les femmes nées en France, et l’écart est marqué pour certaines origines.",
+        "integration": "Il faut le reconnaître ; mais cet écart pèse peu sur la natalité nationale, baisse d’une génération à l’autre et s’efface presque entièrement chez leurs filles."
+      }
+    ]
+  },
+  "concepts": [
+    "fecondite_immigrees",
+    "immigration",
+    "demographie",
+    "femmes"
+  ]
+}

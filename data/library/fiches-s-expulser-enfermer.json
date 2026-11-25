@@ -1,0 +1,241 @@
+{
+  "id": "fiches-s-expulser-enfermer",
+  "type": "idee_recue",
+  "affirmation": "Il suffit d'expulser ou d'enfermer tous les fichés S pour en finir avec le terrorisme.",
+  "volet": "securite",
+  "sous_theme": "Prévention et politiques publiques",
+  "rubriques": [],
+  "mots_cles": [
+    "enfermer tous les fiches s",
+    "expulser les fiches s",
+    "fiche s prison",
+    "interner les fiches s",
+    "fiche s retention administrative",
+    "fsprt radicalisation",
+    "fiche s etrangers expulsion",
+    "fiche s c est quoi",
+    "fiches s dangereux",
+    "auteur attentat etait fiche s"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "etabli",
+  "stabilite": "evolutive",
+  "resume": "Slogan simple, réalité plus complexe. La fiche S est un outil de renseignement qui sert à signaler une personne et à recueillir des informations, pas une preuve d'infraction ni un indicateur de dangerosité, selon le Sénat et la CNIL. Enfermer des personnes sans procédure pénale est contraire à la Constitution et à la Convention européenne des droits de l'homme, a jugé le Conseil d'État en 2015. Quant aux étrangers radicalisés en situation irrégulière, l'État les expulse déjà : 442 éloignements entre 2020 et juillet 2023.",
+  "contexte": "La proposition revient après chaque attentat, surtout quand l'auteur était connu des services de renseignement. Elle mélange la fiche S, catégorie du fichier des personnes recherchées, et le FSPRT, fichier de suivi de la radicalisation terroriste.",
+  "explication": "On distingue ce que sont les fichiers (Sénat, Public Sénat), ce que le droit permet (Conseil d'État) et ce qui est déjà fait pour les étrangers radicalisés (réponses du ministère de l'Intérieur au Parlement).",
+  "faits": [
+    {
+      "fait": "Selon le rapport du Sénat de 2018, les fiches S ne sont pas un « indicateur de la dangerosité d'une personne » : on peut être fiché pour ses relations avec une personne visée, et la fiche concerne aussi des hooligans ou des militants d'ultragauche ou d'ultradroite.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Une fiche S signale qu'il faut recueillir des informations sur quelqu'un ; elle ne prouve ni crime ni projet d'attentat.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon Public Sénat, la fiche S est une catégorie du fichier des personnes recherchées (FPR), et seules 4,8 % des fiches prévoient expressément de retenir la personne, d'après un rapport du Sénat.",
+      "periode": "2018",
+      "perimetre": "France",
+      "explication": "Dans l'immense majorité des cas, la consigne est de ne rien faire qui alerte la personne, pour pouvoir continuer à la surveiller.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "4,8 %"
+    },
+    {
+      "fait": "Selon le Sénat, le FSPRT, fichier distinct créé en 2015, sert au suivi individualisé des personnes signalées pour radicalisation ; il recensait 20 560 personnes au 1er décembre 2018. En octobre 2023, le ministre de l'Intérieur faisait état de 20 120 inscrits, dont 5 100 en suivi actif, selon Public Sénat.",
+      "periode": "2018-2023",
+      "perimetre": "France",
+      "explication": "Les chiffres concernent des milliers de personnes au profil très variable, dont beaucoup sont signalées sans être jugées dangereuses à un instant donné.",
+      "source": 2,
+      "fiabilite": "etabli",
+      "chiffre": "20 120"
+    },
+    {
+      "fait": "Selon le Conseil d'État (avis du 23 décembre 2015, demandé par le ministre de l'Intérieur), la loi ne peut pas autoriser la rétention en centre, hors procédure pénale, de personnes radicalisées, même « présentant des indices de dangerosité » : ce serait contraire à l'article 66 de la Constitution et à l'article 5 de la Convention européenne des droits de l'homme.",
+      "periode": "2015",
+      "perimetre": "France",
+      "explication": "Enfermer quelqu'un pour ce qu'il pourrait faire, sans juge ni infraction, est exclu dans un État de droit ; seules des mesures plus légères et contrôlées sont possibles.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le ministre de l'Intérieur en octobre 2023, cité par Public Sénat, 1 411 étrangers étaient recensés parmi les inscrits suivis, dont 489 présents sur le territoire ; après déduction des personnes incarcérées, hospitalisées ou assignées à résidence, il restait 193 étrangers en situation irrégulière inscrits au FSPRT, visés par une expulsion systématique.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "Les étrangers ne sont qu'une partie des personnes suivies : la plupart des radicalisés suivis sont français et ne peuvent pas être expulsés.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "193"
+    },
+    {
+      "fait": "Selon le ministère de l'Intérieur, 442 étrangers en situation irrégulière inscrits au FSPRT ont été éloignés de force entre 2020 et juillet 2023 (117 en 2020, 128 en 2021, 132 en 2022, 65 de janvier à juillet 2023).",
+      "periode": "2020-2023",
+      "perimetre": "France",
+      "explication": "L'expulsion des étrangers radicalisés quand c'est possible est déjà la politique de l'État, ce n'est pas une idée nouvelle bloquée par les « laxistes ».",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "442"
+    },
+    {
+      "fait": "En septembre 2026, interrogé sur le nombre d'étrangers inscrits au FSPRT et d'expulsions, le ministère de l'Intérieur a répondu : « Pour des raisons de sécurité, ces données sont confidentielles. »",
+      "periode": "2026",
+      "perimetre": "France",
+      "explication": "Les chiffres récents ne sont pas publics : ceux qui avancent un nombre précis de fichés S étrangers à expulser aujourd'hui ne peuvent pas le vérifier.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : des auteurs d'attentats étaient connus des services ; ainsi l'auteur de l'attentat d'Arras d'octobre 2023 était inscrit au FSPRT et fiché S, et faisait l'objet d'une surveillance de la DGSI depuis une dizaine de jours, selon Public Sénat.",
+      "periode": "2023",
+      "perimetre": "France",
+      "explication": "La surveillance n'empêche pas tout passage à l'acte : c'est une vraie limite, qui plaide pour plus de moyens humains de renseignement et de suivi, pas pour l'internement sans jugement de milliers de personnes.",
+      "source": 2,
+      "fiabilite": "etabli"
+    }
+  ],
+  "argumentaires": {
+    "court": "Une fiche S n'est pas une preuve d'infraction : c'est un signalement pour recueillir des informations, qui ne mesure pas la dangerosité, selon le Sénat. Enfermer des gens sans jugement est contraire à la Constitution et à la Convention européenne des droits de l'homme, a jugé le Conseil d'État en 2015. Et les étrangers radicalisés en situation irrégulière sont déjà expulsés : 442 entre 2020 et juillet 2023.",
+    "moyen": "La fiche S est une catégorie du fichier des personnes recherchées. Elle sert à signaler une personne pour recueillir des informations sur elle, souvent sans qu'elle le sache. Le Sénat a rappelé qu'elle n'est pas un indicateur de dangerosité : on peut être fiché pour ses relations, et la fiche vise aussi des hooligans ou des militants violents de tous bords. Le suivi de la radicalisation passe par un autre fichier, le FSPRT, qui comptait environ 20 000 inscrits en 2023, dont 5 100 en suivi actif.\n\nEnfermer ces personnes sans procès ? Le Conseil d'État, saisi par le gouvernement lui-même en 2015, a répondu non : une détention préventive hors procédure pénale viole la Constitution et la Convention européenne des droits de l'homme. Les expulser ? La plupart sont français. Pour les étrangers en situation irrégulière inscrits au FSPRT, l'expulsion est déjà la règle : 442 éloignements forcés entre 2020 et juillet 2023, selon le ministère.\n\nLe vrai sujet, ce sont les moyens du renseignement et de la justice pour suivre et poursuivre ceux qui préparent réellement un passage à l'acte.",
+    "detaille": "L'idée d'« enfermer tous les fichés S » repose sur une confusion. La fiche S, pour « sûreté de l'État », est une catégorie du fichier des personnes recherchées. Selon le rapport que le Sénat lui a consacré en 2018, elle n'est ni un outil de suivi de la radicalisation ni un « indicateur de la dangerosité d'une personne » : c'est d'abord un outil de collecte d'informations. On peut être fiché parce qu'on fréquente quelqu'un qui intéresse les services, et la fiche vise aussi des hooligans ou des militants d'ultragauche et d'ultradroite. Seules 4,8 % des fiches prévoient expressément de retenir la personne.\n\nLe suivi de la radicalisation terroriste passe par un autre fichier, le FSPRT, créé en 2015. Il recensait 20 560 personnes fin 2018 ; en octobre 2023, le ministre de l'Intérieur annonçait 20 120 inscrits, dont 5 100 en suivi actif.\n\nEnfermer ces personnes sans jugement ? Le gouvernement a posé la question au Conseil d'État après les attentats de 2015. Réponse du 23 décembre 2015 : la loi ne peut pas autoriser la rétention, hors procédure pénale, de personnes radicalisées, même si elles présentent des « indices de dangerosité ». Toute détention relève du juge judiciaire, selon l'article 66 de la Constitution, et la Convention européenne des droits de l'homme exclut la détention purement préventive. Le Conseil d'État admet en revanche des mesures plus légères et contrôlées, comme une surveillance électronique encadrée.\n\nLes expulser ? La majorité des personnes suivies sont françaises. Pour les étrangers, l'expulsion est déjà pratiquée : selon le ministère, 442 étrangers en situation irrégulière inscrits au FSPRT ont été éloignés de force entre 2020 et juillet 2023, et le ministre visait en 2023 l'expulsion systématique des 193 restants. Depuis, le ministère refuse de publier les chiffres, pour des raisons de sécurité.\n\nIl est vrai que des auteurs d'attentats étaient connus des services : l'assassin de Dominique Bernard à Arras était fiché S, inscrit au FSPRT et surveillé par la DGSI. Cela montre les limites du renseignement, pas l'efficacité d'un internement de masse sans jugement, qui frapperait des milliers de personnes n'ayant rien commis. La sécurité passe par des enquêteurs et des analystes en nombre suffisant, une justice antiterroriste qui a les moyens de poursuivre, et la prévention de la radicalisation.",
+    "empathie": "Après un attentat commis par une personne « connue des services », la colère est compréhensible : on se demande pourquoi rien n'a été fait. C'est une question légitime, et il faut y répondre sérieusement plutôt que par un slogan."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Si on les avait enfermés, l'attentat d'Arras n'aurait pas eu lieu.",
+      "reponse": "Enfermer sans procès des milliers de personnes qui n'ont rien commis est interdit par la Constitution et la Convention européenne des droits de l'homme, selon le Conseil d'État. Ce qui est possible, c'est de poursuivre en justice dès qu'il y a des éléments, et de renforcer le suivi."
+    },
+    {
+      "objection": "Les fichés S, ce sont tous des islamistes dangereux.",
+      "reponse": "Non : selon le Sénat, la fiche S n'est pas un indicateur de dangerosité, on peut être fiché pour ses fréquentations, et elle vise aussi des hooligans ou des militants d'ultragauche et d'ultradroite."
+    },
+    {
+      "objection": "On n'expulse personne.",
+      "reponse": "Selon le ministère de l'Intérieur, 442 étrangers en situation irrégulière inscrits au FSPRT ont été éloignés de force entre 2020 et juillet 2023, et le nombre augmentait chaque année."
+    }
+  ],
+  "questions": [
+    "Si une fiche S peut viser quelqu'un simplement pour ses fréquentations, accepterais-tu qu'on enferme une personne sans juge pour cette raison ?",
+    "Que faire des milliers de personnes suivies qui sont françaises, et qu'on ne peut pas expulser ?"
+  ],
+  "limites": [
+    "Les chiffres du FSPRT datent d'octobre 2023 ; le ministère refuse depuis de publier les données actualisées (réponse de septembre 2026).",
+    "La phrase rapportée par Public Sénat (« Parmi eux : 1 411 sont de nationalité étrangère ») ne précise pas si ce chiffre porte sur l'ensemble des inscrits ou sur les seules personnes en suivi actif.",
+    "Les chiffres d'expulsions s'arrêtent à juillet 2023 et ne couvrent que les étrangers en situation irrégulière.",
+    "Les pages ont été lues à travers un outil de lecture qui résume ; les citations courtes sont à revérifier mot pour mot, sauf les phrases chiffrées de Public Sénat vérifiées spécifiquement.",
+    "L'avis du Conseil d'État date de 2015 ; la loi de 2017 (dite SILT) a depuis créé des mesures individuelles de surveillance qui n'ont pas été examinées ici."
+  ],
+  "sources": [
+    {
+      "titre": "Mesures de prévention du risque de terrorisme (avis consultatif)",
+      "organisme": "Conseil d'État (assemblée générale)",
+      "date_publication": "23 décembre 2015",
+      "url": "https://conseil-etat.fr/ressources/avis-aux-pouvoirs-publics/derniers-avis-publies/mesures-de-prevention-du-risque-de-terrorisme",
+      "passage": "Avis rendu à la demande du ministre de l'Intérieur (délibéré le 17 décembre 2015). Les autorités de police administrative peuvent restreindre des libertés à titre préventif, mais pas prendre de mesures privatives de liberté : toute détention relève de l'autorité judiciaire (article 66 de la Constitution : « Nul ne peut être arbitrairement détenu »). L'article 5 de la Convention européenne des droits de l'homme ne prévoit pas la « détention, à des fins purement préventives, d'une personne non aliénée ». Il n'est donc pas possible d'autoriser par la loi une rétention en centre, hors procédure pénale, de personnes radicalisées, même « présentant des indices de dangerosité ». Une rétention de sûreté après condamnation pour terrorisme ne serait envisageable qu'avec de fortes garanties et sans rétroactivité ; une surveillance électronique encadrée « ne paraît pas devoir porter une atteinte disproportionnée » aux libertés.",
+      "pertinence": "Avis officiel de la plus haute juridiction administrative, saisie par le gouvernement lui-même (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Les fiches S en questions : réponses aux idées reçues (rapport d'information n° 219, 2018-2019)",
+      "organisme": "Sénat, commission des lois (rapporteur François Pillet)",
+      "date_publication": "19 décembre 2018",
+      "url": "https://www.senat.fr/rap/r18-219/r18-2191.html",
+      "passage": "Les fiches S ne constituent pas un « indicateur de la dangerosité d'une personne » : on peut être fiché pour ses relations avec une personne visée sans représenter de menace. La fiche S n'est pas un outil de suivi de la radicalisation mais d'abord un outil de collecte d'informations, qui peut aussi viser des hooligans ou des militants d'ultragauche ou d'ultradroite. En avril 2018, environ 17 000 fiches S sur 26 000 concernaient la radicalisation ou des liens avec des personnes radicalisées. Le FSPRT, créé en 2015, sert au suivi individualisé des personnes signalées ; il recensait 20 560 personnes au 1er décembre 2018. Le rapport cite les propositions d'« expulser les personnes fichées S du territoire national » ou de les placer « en rétention administrative ou sous bracelet électronique », qu'il juge fondées sur une méconnaissance de la nature des fiches S.",
+      "pertinence": "Rapport parlementaire consacré précisément aux idées reçues sur les fiches S (lu à travers un outil de lecture qui résume ; données de 2018).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fiché « S », FPR, FSPRT… quels sont les différents fichiers de renseignement utilisés pour la lutte antiterroriste ?",
+      "organisme": "Public Sénat (Romain David)",
+      "date_publication": "16 octobre 2023",
+      "url": "https://www.publicsenat.fr/actualites/institutions/fiche-s-fpr-fsprt-quels-sont-les-differents-fichiers-de-renseignement-utilises-pour-la-lutte-antiterroriste",
+      "passage": "La fiche S « n'est donc pas un fichier en soi, mais une catégorie du FPR » (fichier des personnes recherchées) ; selon la CNIL citée, le FPR « n'est ni un indicateur de la dangerosité des personnes, ni destiné au suivi de la radicalisation ». « Seules 4,8 % des fiches ont expressément pour conduites à tenir de retenir l'intéressé ». Le ministre de l'Intérieur a fait état le 16 octobre 2023 « de 20 120 individus répertoriés dans le FSPRT » ; « Sur ce chiffre, 5 100 font l'objet d'un suivi actif. » « Parmi eux : 1 411 sont de nationalité étrangère, dont 489 se trouvent sur le territoire national » ; 214 sont incarcérés ou hospitalisés en psychiatrie, 82 assignés à résidence ; « Il reste donc 193 étrangers en situation irrégulière inscrit au FSPRT », visés par une expulsion systématique. L'auteur de l'attentat d'Arras « était inscrit dans ce répertoire mais également fiché « S » » et faisait l'objet depuis une dizaine de jours d'une surveillance de la DGSI.",
+      "pertinence": "Média du Sénat rapportant les chiffres donnés par le ministre de l'Intérieur (lu à travers un outil de lecture ; phrases chiffrées vérifiées mot pour mot).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 5634 : expulsions des étrangers inscrits au FSPRT (réponse du ministère de l'Intérieur)",
+      "organisme": "Assemblée nationale, Journal officiel (réponse du ministère de l'Intérieur et des Outre-mer)",
+      "date_publication": "12 septembre 2023",
+      "url": "https://questions.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE5634.pdf",
+      "passage": "Éloignements forcés d'étrangers en situation irrégulière inscrits au FSPRT : 117 en 2020, 128 en 2021, 132 en 2022 et 65 de janvier à juillet 2023, soit 442 depuis 2020. « Le volume annuel des éloignements des étrangers en situation irrégulière inscrits au FSPRT est en augmentation. »",
+      "pertinence": "Réponse officielle du ministère publiée au Journal officiel (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Question écrite n° 3686 : étrangers inscrits au FSPRT (réponse du ministère de l'Intérieur)",
+      "organisme": "Assemblée nationale, Journal officiel (réponse du ministère de l'Intérieur)",
+      "date_publication": "8 septembre 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE3686.pdf",
+      "passage": "À une question demandant le nombre d'étrangers inscrits au FSPRT et « le nombre exact de personnes effectivement expulsées », le ministère répond : « Pour des raisons de sécurité, ces données sont confidentielles. » Les arrêtés d'expulsion « demeurent au FPR, même si l'étranger a été éloigné ».",
+      "pertinence": "Réponse ministérielle la plus récente lue : elle montre que les chiffres actualisés ne sont pas publiés (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-09-30",
+  "raison_actualisation": "Nouvelles données du ministère de l'Intérieur sur le FSPRT et les éloignements, ou réforme législative sur les mesures de surveillance.",
+  "objections_legitimes": [
+    "Des auteurs d'attentats étaient effectivement fichés ou suivis, et la surveillance n'a pas suffi.",
+    "L'expulsion des étrangers dangereux en situation irrégulière est une demande légitime, déjà mise en œuvre par l'État.",
+    "Les citoyens ont droit à des informations claires sur l'efficacité de la lutte antiterroriste."
+  ],
+  "publics": {
+    "convaincus": "La colère après un attentat, je la comprends. Mais une fiche S, ce n'est pas une preuve : le Sénat rappelle qu'on peut être fiché pour ses fréquentations, et la fiche vise aussi des hooligans ou des militants violents. Enfermer sans jugement, même le gouvernement a demandé au Conseil d'État, qui a répondu que c'est contraire à la Constitution. Et les étrangers radicalisés en situation irrégulière, on les expulse déjà : 442 entre 2020 et juillet 2023.",
+    "indecis": "Ta question est légitime : comment des gens surveillés peuvent-ils passer à l'acte ? La réponse honnête, c'est que le renseignement a des limites. Mais la fiche S n'est qu'un signalement, et enfermer des milliers de personnes sans procès est interdit par la Constitution. Ce qui marche mieux : des enquêteurs en nombre suffisant, une justice qui poursuit dès qu'il y a des éléments, et l'expulsion des étrangers dangereux, déjà pratiquée."
+  },
+  "repond_a": [
+    {
+      "id": "fiches_s_q2511",
+      "label": "Fichés S"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "faire venir",
+    "on fait venir",
+    "ils arrivent",
+    "arrivent encore",
+    "qui debarquent",
+    "ils prennent nos",
+    "taule",
+    "zonzon",
+    "barreaux",
+    "chez eux",
+    "oqtf",
+    "reconduite"
+  ],
+  "lecture": {
+    "valeurs": [
+      "libertes",
+      "democratie",
+      "antiracisme",
+      "services_publics"
+    ],
+    "mecanismes": "Le slogan transforme un outil de renseignement en liste de coupables, et laisse croire que l’État de droit empêche de se protéger, alors que la plupart des personnes suivies sont françaises et que les étrangers dangereux en situation irrégulière sont déjà expulsés.",
+    "consequences": "L’internement sans jugement frapperait des milliers de personnes qui n’ont rien commis, nourrirait la défiance envers l’État et pourrait servir demain contre des militants, des syndicalistes ou des opposants.",
+    "democratie": "Une démocratie se protège du terrorisme par la justice et le renseignement contrôlés, pas par la détention arbitraire : la Constitution confie toute privation de liberté au juge.",
+    "propositions": [
+      "Renforcer les effectifs d’enquêteurs et d’analystes du renseignement et le suivi humain des personnes signalées.",
+      "Donner à la justice antiterroriste les moyens de poursuivre rapidement dès que des éléments existent.",
+      "Développer la prévention de la radicalisation et l’accompagnement des jeunes signalés."
+    ],
+    "defavorables": [
+      {
+        "fait": "Plusieurs auteurs d’attentats étaient connus des services, fichés ou inscrits au fichier de suivi de la radicalisation au moment de leur passage à l’acte.",
+        "integration": "C’est une vraie limite du renseignement, qu’il faut regarder en face ; elle appelle plus de moyens humains et de coordination, pas l’enfermement sans procès de personnes qui n’ont commis aucune infraction."
+      }
+    ]
+  },
+  "concepts": [
+    "fiches_s",
+    "immigration",
+    "prison",
+    "expulsion",
+    "dangerosite"
+  ]
+}

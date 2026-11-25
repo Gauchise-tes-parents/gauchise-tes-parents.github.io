@@ -1,0 +1,237 @@
+{
+  "id": "armee-quartiers-narcotrafic",
+  "type": "idee_recue",
+  "affirmation": "Il faut envoyer l'armée dans les quartiers pour lutter contre le trafic de drogue.",
+  "volet": "securite",
+  "sous_theme": "Criminalité organisée",
+  "rubriques": [],
+  "mots_cles": [
+    "envoyer l armee dans les quartiers",
+    "armee contre les dealers",
+    "armee narcotrafic",
+    "militaires cites trafic de drogue",
+    "armee a marseille drogue",
+    "operation sentinelle narcotrafic",
+    "etat d urgence narcotrafic",
+    "pnaco parquet anticriminalite organisee",
+    "mexique armee cartels homicides",
+    "loi narcotrafic 2025"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Une réponse spectaculaire mais inadaptée. Les armées n'assurent pas de maintien de l'ordre ni d'enquête judiciaire en France : elles n'interviennent que sur réquisition, en appui de la police, selon un rapport de l'Assemblée nationale. L'opération Sentinelle mobilise déjà environ 7 000 soldats pour un résultat surtout rassurant, au prix d'une forte usure, selon la Cour des comptes. Au Mexique, les interventions militaires ont fait augmenter les homicides. Le Sénat et la loi de 2025 misent au contraire sur l'enquête, la justice spécialisée et la saisie des avoirs.",
+  "contexte": "La proposition ressurgit après des fusillades liées au trafic, notamment à Marseille, et après l'assassinat de Mehdi Kessaci en novembre 2025. Elle a été défendue par des élus de droite et d'extrême droite, parfois avec une demande d'état d'urgence.",
+  "explication": "On examine le cadre légal et le bilan de l'emploi des militaires sur le territoire (Assemblée nationale, Cour des comptes), les choix du Parlement contre le narcotrafic (Sénat, loi de 2025), l'ampleur du problème (AFP) et une expérience étrangère étudiée (Mexique).",
+  "faits": [
+    {
+      "fait": "Selon le rapport de la commission de la défense de l'Assemblée nationale (2016), les armées interviennent sur le territoire sur réquisition de l'autorité civile, seulement « en relais et en appui » des forces de sécurité, « les armées n'assurant en aucun cas des missions de maintien de l'ordre » ; elles ne peuvent pas produire de renseignement intérieur.",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Les soldats ne sont ni formés ni habilités pour enquêter, interpeller ou démanteler un réseau : ce travail relève de la police judiciaire et des magistrats.",
+      "source": 0,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Le même rapport met en garde contre le risque que les armées deviennent « une sorte de troisième force de sécurité intérieure », au détriment de leur potentiel opérationnel.",
+      "periode": "2016",
+      "perimetre": "France",
+      "explication": "Les parlementaires spécialistes de la défense eux-mêmes refusent de transformer l'armée en police.",
+      "source": 0,
+      "fiabilite": "interpretation"
+    },
+    {
+      "fait": "Selon la Cour des comptes (rapport de mai 2022 rapporté par Public Sénat), l'opération Sentinelle a coûté 340 millions d'euros en 2020 et mobilise environ 7 000 militaires dans la durée, soit environ 10 % des forces opérationnelles terrestres, une « charge lourde pour l'armée de terre » ; la Cour évoque un transfert de la mission vers les forces de sécurité intérieure.",
+      "periode": "2020-2022",
+      "perimetre": "France",
+      "explication": "L'armée est déjà présente dans les rues depuis 2015, avec un bilan jugé surtout symbolique et coûteux ; l'étendre aux quartiers aggraverait ces problèmes.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "340 M€"
+    },
+    {
+      "fait": "Selon une étude statistique publiée dans The American Statistician (Espinosa et Rubin, 2015), les interventions militaires contre les cartels au Mexique ont fait augmenter les homicides à court terme d'environ 11 pour 100 000 habitants en moyenne dans les 18 régions étudiées ; seules deux régions ont connu une baisse significative.",
+      "periode": "étude publiée en 2015",
+      "perimetre": "Mexique",
+      "explication": "La militarisation de la lutte antidrogue peut provoquer une escalade de la violence au lieu de la réduire.",
+      "source": 5,
+      "fiabilite": "estimation",
+      "chiffre": "+11 pour 100 000"
+    },
+    {
+      "fait": "Selon le Sénat, la loi du 13 juin 2025 contre le narcotrafic crée un parquet national anti-criminalité organisée (Pnaco), des quartiers pénitentiaires dédiés, la fermeture administrative des commerces de blanchiment et des interdictions de paraître aux points de deal ; le Conseil constitutionnel l'a jugée partiellement conforme à la Constitution.",
+      "periode": "2025",
+      "perimetre": "France",
+      "explication": "Le législateur a fait le choix de la justice spécialisée et de l'enquête, pas de l'armée ; le Pnaco a été installé en janvier 2026, selon l'AFP.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon la commission d'enquête du Sénat (2024), le trafic représente au moins 3,5 milliards d'euros par an ; elle recommande de cibler les hauts niveaux du trafic plutôt que les opérations d'ordre public de type « place nette », de renforcer le renseignement et de frapper les avoirs criminels.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Les sénateurs, majoritairement de droite, concluent que la priorité est de remonter les filières et l'argent, pas d'occuper le terrain.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "3,5 Md€"
+    },
+    {
+      "fait": "Fait défavorable : selon un décompte de l'AFP, le narcotrafic a fait 50 morts dans les Bouches-du-Rhône en 2023, 24 en 2024 et environ 15 entre janvier et novembre 2025, et Gérald Darmanin juge la menace « au moins équivalente à celle du terrorisme ».",
+      "periode": "2023-2025",
+      "perimetre": "Bouches-du-Rhône",
+      "explication": "La violence est réelle et grave, et l'exaspération des habitants est légitime ; la question est de savoir ce qui la fait reculer durablement.",
+      "source": 4,
+      "fiabilite": "estimation",
+      "chiffre": "50 morts en 2023"
+    }
+  ],
+  "argumentaires": {
+    "court": "L'armée n'est pas faite pour ça : en France, elle n'assure ni maintien de l'ordre ni enquête, et n'intervient qu'en appui de la police, rappelle l'Assemblée nationale. Sentinelle mobilise déjà environ 7 000 soldats pour 340 millions d'euros par an, avec un bilan surtout rassurant selon la Cour des comptes. Au Mexique, la militarisation a fait monter les homicides. Le Sénat mise sur l'enquête, la justice spécialisée et la saisie de l'argent sale.",
+    "moyen": "Le narcotrafic tue : selon l'AFP, 50 morts dans les Bouches-du-Rhône en 2023. La colère des habitants est légitime. Mais l'armée n'est pas la réponse.\n\nEn France, les militaires n'interviennent sur le territoire que sur réquisition, en appui des forces de sécurité, et n'assurent « en aucun cas » de maintien de l'ordre, rappelle un rapport de l'Assemblée nationale. Ils ne peuvent ni enquêter ni faire de renseignement intérieur. L'opération Sentinelle mobilise déjà environ 7 000 soldats, pour 340 millions d'euros en 2020, et la Cour des comptes y voit une « charge lourde » pour l'armée de terre.\n\nL'exemple mexicain est parlant : une étude statistique montre que les interventions militaires contre les cartels ont fait augmenter les homicides. En France, la commission d'enquête du Sénat a recommandé l'inverse des démonstrations de force : remonter les filières, renforcer le renseignement et frapper l'argent. C'est la logique de la loi de 2025 et de son parquet national anti-criminalité organisée.",
+    "detaille": "L'idée d'envoyer l'armée dans les quartiers répond à une inquiétude réelle. Selon un décompte de l'AFP, les règlements de comptes liés au trafic ont fait 50 morts dans les Bouches-du-Rhône en 2023, 24 en 2024 et une quinzaine en 2025. La commission d'enquête du Sénat estime le chiffre d'affaires du trafic à au moins 3,5 milliards d'euros par an et s'inquiète d'une corruption naissante.\n\nMais que ferait l'armée ? Selon le rapport de la commission de la défense de l'Assemblée nationale, les militaires n'interviennent sur le territoire que sur réquisition de l'autorité civile, « en relais et en appui » des forces de sécurité, et n'assurent « en aucun cas » de maintien de l'ordre. Ils ne peuvent pas produire de renseignement intérieur, et leurs actions doivent être encadrées par des officiers de police judiciaire dès qu'une procédure est en jeu. Démanteler un réseau, c'est des écoutes, des filatures, des enquêtes financières et des juges : rien de tout cela n'est du métier militaire.\n\nL'armée est déjà dans la rue depuis 2015 avec Sentinelle : environ 7 000 militaires mobilisés en permanence, 340 millions d'euros en 2020, environ 10 % des forces terrestres. La Cour des comptes a jugé cette charge lourde et proposé de la transférer aux forces de sécurité intérieure ; un sénateur LR la résume ainsi : « L'opération sert à rassurer la population, c'est de la communication. »\n\nÀ l'étranger, l'expérience est inquiétante. Au Mexique, à partir de 2006, l'armée a été envoyée contre les cartels ; une étude publiée dans The American Statistician conclut que ces interventions ont fait augmenter les homicides, d'environ 11 pour 100 000 habitants en moyenne dans les régions concernées.\n\nLe Parlement français a choisi une autre voie. La commission d'enquête du Sénat a recommandé de cibler les hauts niveaux du trafic plutôt que les opérations d'affichage, de renforcer le renseignement et de saisir les avoirs criminels. La loi du 13 juin 2025 a créé un parquet national anti-criminalité organisée, installé en janvier 2026. Pour la gauche, il faut aller plus loin : des enquêteurs et des magistrats en nombre suffisant, une lutte résolue contre le blanchiment, et des services publics, de l'éducation à l'emploi, qui privent les réseaux de leur main-d'œuvre.",
+    "empathie": "Vivre au pied d'un point de deal, entendre des coups de feu, craindre pour ses enfants : c'est insupportable, et vouloir une réponse forte est normal. La question n'est pas de savoir s'il faut agir, mais ce qui marche vraiment."
+  },
+  "contre_arguments": [
+    {
+      "objection": "L'armée, au moins, ça ferait peur aux dealers.",
+      "reponse": "L'armée ne peut ni enquêter ni interpeller dans le cadre judiciaire, rappelle l'Assemblée nationale ; les réseaux se déplacent quand les uniformes arrivent. Le Sénat recommande de viser les têtes de réseau et l'argent plutôt que les opérations d'affichage."
+    },
+    {
+      "objection": "Avec Sentinelle, l'armée est déjà dans la rue, donc c'est possible.",
+      "reponse": "Sentinelle protège des lieux contre le terrorisme, sur réquisition et en appui de la police ; la Cour des comptes juge cette charge lourde pour l'armée de terre et propose de la transférer aux forces de sécurité intérieure."
+    },
+    {
+      "objection": "D'autres pays le font.",
+      "reponse": "Au Mexique, une étude statistique montre que les interventions militaires contre les cartels ont fait augmenter les homicides à court terme. Ce n'est pas un modèle à suivre."
+    }
+  ],
+  "questions": [
+    "Un soldat formé au combat sait-il mener une enquête financière pour remonter jusqu'à la tête d'un réseau ?",
+    "Si la violence a augmenté au Mexique avec l'armée, pourquoi en irait-il autrement chez nous ?"
+  ],
+  "limites": [
+    "Aucune déclaration publique récente d'un chef d'état-major ou d'un responsable policier sur ce sujet n'a pu être lue : une interview d'une responsable syndicale policière sur Europe 1 n'a pas pu être ouverte.",
+    "Le rapport de l'Assemblée nationale date de 2016 et celui de la Cour des comptes de 2022 (lu via Public Sénat) : les effectifs et le coût de Sentinelle ont pu évoluer.",
+    "L'étude mexicaine porte sur la guerre contre la drogue lancée en 2006 (période exacte des données non vérifiée) ; elle a été lue via le communiqué de l'association statistique américaine, pas dans sa version intégrale.",
+    "Les homicides liés au trafic viennent d'un décompte de l'AFP, pas d'une statistique officielle ; aucun chiffre national n'a été lu.",
+    "Les pages ont été lues à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport d'information sur la présence et l'emploi des forces armées sur le territoire national (n° 3864)",
+      "organisme": "Assemblée nationale, commission de la défense (rapporteurs Olivier Audibert Troin et Christophe Léonard)",
+      "date_publication": "22 juin 2016",
+      "url": "https://www.assemblee-nationale.fr/14/pdf/rap-info/i3864.pdf",
+      "passage": "Sentinelle opère sur réquisition de l'autorité civile : « travaillant sur réquisition, la force n'a pas une grande marge de manœuvre ». Les armées sont « le dernier recours de l'État en situation de crise » ; elles n'interviennent qu'« en relais et en appui » des forces de sécurité, « les armées n'assurant en aucun cas des missions de maintien de l'ordre », et le rapport met en garde contre le risque qu'elles deviennent « une sorte de troisième force de sécurité intérieure ». Sur le territoire, « les armées ne peuvent pas élaborer de documents de renseignement » ; quand des opérations débouchent sur des procédures judiciaires, chaque détachement « gagne à être accompagné d'un officier ou d'un agent de police judiciaire ». La part croissante des tâches de type policier se fait « au détriment de leur potentiel opérationnel » ; la « plus-value professionnelle » des militaires « est ailleurs ».",
+      "pertinence": "Rapport parlementaire de référence sur l'emploi de l'armée sur le territoire (document long, lu en partie à travers un outil de lecture qui résume ; données de 2016).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Fin de l'opération Sentinelle : « Il faut du courage politique », estime le sénateur Cédric Perrin",
+      "organisme": "Public Sénat (Guillaume Jacquot), d'après la Cour des comptes",
+      "date_publication": "12 mai 2022",
+      "url": "https://www.publicsenat.fr/actualites/politique/fin-de-l-operation-sentinelle-il-faut-du-courage-politique-estime-le-senateur",
+      "passage": "La Cour des comptes (rapport du 11 mai 2022 sur la loi de programmation militaire) évoque un possible désengagement de l'opération Sentinelle et un transfert vers les forces de sécurité intérieure. En 2020, Sentinelle a coûté 340 millions d'euros (140 millions de surcoûts et 200 millions de dépenses de personnel). Environ 7 000 militaires sont mobilisés dans la durée, soit environ 10 % des forces opérationnelles terrestres selon la Cour, qui y voit une « charge lourde pour l'armée de terre » et un risque pour l'entraînement ; l'objectif de 90 jours de préparation opérationnelle par militaire n'est plus atteint selon des rapports sénatoriaux. Le sénateur Cédric Perrin (LR) : « L'opération sert à rassurer la population, c'est de la communication. »",
+      "pertinence": "Article du média du Sénat rapportant un rapport de la Cour des comptes, non ouvert directement (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Proposition de loi visant à sortir la France du piège du narcotrafic (la loi en clair)",
+      "organisme": "Sénat",
+      "date_publication": "2025 (page consultée en novembre 2026)",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-sortir-la-france-du-piege-du-narcotrafic.html",
+      "passage": "Adoption définitive le 29 avril 2025, décision du Conseil constitutionnel (n° 2025-885 DC) le 12 juin 2025, texte déclaré « partiellement conforme à la Constitution », promulgation le 13 juin 2025. La loi « crée un parquet national anti-criminalité organisée (Pnaco) », chargé des affaires les plus lourdes et de la coordination des parquets ; elle prévoit des quartiers de lutte contre la criminalité organisée en prison, la « fermeture administrative des commerces de façade » servant au blanchiment, et un régime d'interdiction de paraître pour éloigner les dealers des points de deal.",
+      "pertinence": "Fiche de synthèse officielle du Sénat sur la loi (lue à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Une France « submergée » par le narcotrafic : le rapport choc du Sénat sur le marché de la drogue",
+      "organisme": "Public Sénat (François Vignal)",
+      "date_publication": "14 mai 2024",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/une-france-submergee-par-le-narcotrafic-le-rapport-choc-du-senat-sur-le-marche-de-la-drogue",
+      "passage": "La commission d'enquête sénatoriale sur le narcotrafic estime le chiffre d'affaires du trafic à au moins 3,5 milliards d'euros par an (fourchette basse) et s'alarme d'une corruption « encore embryonnaire mais non moins inquiétante ». Elle recommande un « parquet national antistupéfiants », une « DEA à la française », plus de renseignement, un plan d'urgence pour les services d'enquête et les juridictions, de cibler les hauts niveaux du trafic plutôt que les opérations d'ordre public de type « place nette », et de frapper les avoirs criminels. L'article ne mentionne pas d'emploi de l'armée.",
+      "pertinence": "Article du média du Sénat présentant le rapport de la commission d'enquête (rapport lui-même non ouvert ; lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Narcotrafic : « Une bataille très, très dure », reconnaît Darmanin à Marseille avec Nuñez",
+      "organisme": "AFP (repris par Boursorama)",
+      "date_publication": "20 novembre 2025",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/narcotrafic-une-bataille-tres-tres-dure-reconnait-darmanin-a-marseille-avec-nunez-145e5d6e6ac040d9d23a94ab4f662641",
+      "passage": "Selon un décompte de l'AFP, les homicides liés au narcotrafic dans les Bouches-du-Rhône ont été de 50 en 2023, 24 en 2024 et environ 15 depuis janvier 2025. Visite des ministres une semaine après l'assassinat de Mehdi Kessaci ; Gérald Darmanin juge la « menace » du narcotrafic « au moins équivalente à celle du terrorisme sur le territoire national ». Le Pnaco, créé par la loi de juin, a été installé en janvier ; le gouvernement n'a pas retenu l'état d'urgence demandé par un député RN. Le maire de Marseille réclame plus de moyens pour les enquêteurs, les juges et l'éducation.",
+      "pertinence": "Dépêche de l'AFP, agence de presse de référence (lue à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Did the Military Interventions in the Mexican Drug War Increase Violence? (communiqué sur l'étude de Valeria Espinosa et Donald B. Rubin, The American Statistician)",
+      "organisme": "American Statistical Association, via ScienceDaily",
+      "date_publication": "2 avril 2015",
+      "url": "https://www.sciencedaily.com/releases/2015/04/150402121309.htm",
+      "passage": "L'étude statistique conclut que les interventions militaires dans la guerre contre la drogue au Mexique ont provoqué des « increased homicide rates in the short term, especially in the Juárez region » : dans les 18 régions étudiées, la hausse moyenne est d'environ 11 homicides supplémentaires pour 100 000 habitants (6,5 hors Juárez, toujours significative) ; seules deux régions ont connu une baisse significative. Une intervention y est définie comme un affrontement entre forces gouvernementales et crime organisé faisant au moins trois morts. Le communiqué rappelle une estimation de Human Rights Watch d'environ 60 000 morts de 2006 à 2012.",
+      "pertinence": "Communiqué de l'association statistique américaine présentant une étude universitaire publiée dans une revue à comité de lecture (article en anglais ; l'étude elle-même n'a pas été ouverte).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-06-30",
+  "raison_actualisation": "Premier bilan du parquet national anti-criminalité organisée et nouveaux chiffres des homicides liés au trafic.",
+  "objections_legitimes": [
+    "La violence liée au narcotrafic est réelle et a fait des dizaines de morts à Marseille.",
+    "Les habitants des quartiers concernés sont les premières victimes et ont droit à la sécurité.",
+    "Les moyens de la police et de la justice ont longtemps été jugés insuffisants, y compris par le Sénat."
+  ],
+  "publics": {
+    "convaincus": "Je comprends qu'on veuille frapper fort : 50 morts dans les Bouches-du-Rhône en 2023, c'est énorme. Mais un soldat n'a pas le droit d'enquêter, d'écouter un téléphone ou de remonter un compte en banque, et c'est ça qui fait tomber un réseau. Au Mexique, envoyer l'armée a fait monter les homicides. Même le Sénat, à droite, dit de viser les chefs et l'argent plutôt que les opérations spectaculaires.",
+    "indecis": "La peur des fusillades est légitime, et l'État a trop longtemps tardé. Mais l'armée n'est faite ni pour le maintien de l'ordre ni pour l'enquête, rappelle l'Assemblée nationale, et Sentinelle coûte déjà cher pour un effet surtout rassurant. Ce qui marche mieux, selon le Sénat : des enquêteurs, des juges spécialisés, la saisie de l'argent du trafic et la prévention pour que les jeunes ne soient pas recrutés."
+  },
+  "repond_a": [
+    {
+      "id": "armee_quartiers_q2511",
+      "label": "L’armée dans les quartiers"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "mis en cause",
+    "insecurite",
+    "en surete",
+    "peur de sortir",
+    "pas en securite",
+    "criminalite",
+    "caillera",
+    "ensauvagement"
+  ],
+  "lecture": {
+    "valeurs": [
+      "services_publics",
+      "libertes",
+      "vulnerables",
+      "democratie"
+    ],
+    "mecanismes": "La proposition répond à une violence réelle par une image de force, en faisant croire que des soldats pourraient faire le travail d’enquête, de renseignement et de justice qui seul démantèle les réseaux.",
+    "consequences": "Militariser les quartiers populaires stigmatise leurs habitants, épuise une armée déjà sollicitée et, comme au Mexique, peut provoquer une escalade de la violence sans toucher les têtes de réseau ni l’argent du trafic.",
+    "democratie": "Dans une démocratie, la sécurité intérieure relève de forces civiles contrôlées par la justice ; confier l’ordre public à l’armée brouille cette séparation fondamentale.",
+    "propositions": [
+      "Recruter des enquêteurs spécialisés, des magistrats et des greffiers pour remonter les filières.",
+      "Faire de la lutte contre le blanchiment et de la saisie des avoirs criminels une priorité.",
+      "Investir dans l’éducation, l’emploi et la présence des services publics pour priver les réseaux de leur main-d’œuvre."
+    ],
+    "defavorables": [
+      {
+        "fait": "Les homicides liés au trafic de drogue ont fait des dizaines de morts à Marseille ces dernières années et le gouvernement juge la menace comparable au terrorisme.",
+        "integration": "La gravité est réelle et les habitants des quartiers en sont les premières victimes ; c’est justement pourquoi il faut des réponses qui marchent, enquête, justice et prévention, plutôt qu’une démonstration de force."
+      }
+    ]
+  },
+  "concepts": [
+    "armee_quartiers",
+    "delinquance",
+    "homicide"
+  ]
+}

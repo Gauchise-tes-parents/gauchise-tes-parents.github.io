@@ -1,0 +1,222 @@
+{
+  "id": "cop-climat-servent-a-rien",
+  "type": "idee_recue",
+  "affirmation": "Les COP sur le climat ne servent à rien : ce sont des grand-messes inutiles.",
+  "volet": "ecologie",
+  "sous_theme": "Changement climatique",
+  "rubriques": [],
+  "mots_cles": [
+    "cop ne servent a rien",
+    "cop climat inutile",
+    "cop31 antalya echec",
+    "grand messe climat",
+    "accord de paris inutile",
+    "cop bla bla",
+    "conferences climat onu",
+    "rapport ecart emissions pnue",
+    "rechauffement 2,6 degres",
+    "sortie des energies fossiles cop"
+  ],
+  "verdict": "trompeur",
+  "fiabilite": "interpretation",
+  "stabilite": "evolutive",
+  "resume": "Trompeur. Les COP sont très insuffisantes, et la COP31 d'Antalya (novembre 2026) s'est achevée sans décision de couverture ni mention des énergies fossiles. Mais dire qu'elles ne servent à rien est faux : depuis l'Accord de Paris, les renouvelables ont été déployées environ trois fois plus que prévu en 2015 et la croissance des émissions mondiales a été divisée par deux. Le monde reste pourtant sur une trajectoire de 2,6 à 2,8 °C, selon le PNUE.",
+  "contexte": "La critique vient de bords opposés : climatosceptiques qui y voient un gaspillage, militants écologistes déçus par l'impuissance des négociations. La COP31, organisée à Antalya sous présidence turque du 9 au 22 novembre 2026, a été jugée par la société civile comme la « pire COP de l'histoire ».",
+  "explication": "On distingue les échecs réels des négociations (COP31) et les effets mesurables du cadre de l'Accord de Paris sur la trajectoire mondiale, d'après le PNUE et la presse spécialisée.",
+  "faits": [
+    {
+      "fait": "Selon Carbon Brief, la COP31 s'est achevée à Antalya le 22 novembre 2026, près de 50 heures après la fin prévue, sans adoption de la décision de couverture (« Pacte d'Antalya »), rejetée par au moins 32 pays ; aucun texte final ne mentionne directement les combustibles fossiles.",
+      "periode": "2026",
+      "perimetre": "Monde",
+      "explication": "La critique d'impuissance est fondée pour cette COP : les pays producteurs de fossiles ont bloqué toute avancée.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "32 pays"
+    },
+    {
+      "fait": "Selon l'AFP, la mention des combustibles fossiles a disparu du projet de décision finale ; depuis l'engagement de la COP28 (2023) à amorcer la transition hors des fossiles, le sujet stagne face à l'opposition de pays producteurs.",
+      "periode": "2023-2026",
+      "perimetre": "Monde",
+      "explication": "La règle du consensus donne un pouvoir de blocage aux États pétroliers.",
+      "source": 1,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon le PNUE, même si toutes les contributions nationales étaient appliquées, le réchauffement atteindrait environ 2,6 °C au cours du siècle ; avec les politiques actuelles, Carbon Brief rapporte 2,8 °C.",
+      "periode": "2026-2100",
+      "perimetre": "Monde",
+      "explication": "Les engagements pris dans les COP restent très loin de l'objectif de l'Accord de Paris.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "2,6 °C"
+    },
+    {
+      "fait": "Selon le PNUE, il faudrait réduire les émissions mondiales de 45 % d'ici 2035 par rapport à 2025 pour une trajectoire 1,5 °C avec le plus faible dépassement, alors que les engagements actuels ne les réduiraient que de 11 à 15 %.",
+      "periode": "2025-2035",
+      "perimetre": "Monde",
+      "explication": "L'écart entre les promesses et le nécessaire reste immense.",
+      "source": 2,
+      "fiabilite": "estimation",
+      "chiffre": "45 %"
+    },
+    {
+      "fait": "Selon l'analyse par Carbon Brief du rapport du PNUE, la capacité renouvelable déployée est environ trois fois plus élevée que ce qui était prévu en 2015, et les émissions du secteur énergétique sont inférieures d'environ 40 % aux prévisions de l'époque.",
+      "periode": "2015-2026",
+      "perimetre": "Monde",
+      "explication": "Le cadre fixé par l'Accord de Paris a changé la trajectoire, même s'il ne suffit pas.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "×3"
+    },
+    {
+      "fait": "Selon la même source, la croissance annuelle moyenne des émissions mondiales est passée de 1,7 % (1990-2015) à 0,8 % depuis 2016 ; les émissions 2025 (58,4 GtCO2e) sont comparables à celles de 2024.",
+      "periode": "1990-2025",
+      "perimetre": "Monde",
+      "explication": "Les émissions ne baissent pas encore, mais leur hausse a ralenti de moitié depuis l'Accord de Paris.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "1,7 % → 0,8 %"
+    },
+    {
+      "fait": "Selon Carbon Brief, la COP31 a tout de même adopté des textes sur la transition juste, l'objectif mondial d'adaptation et le financement climatique, mais les promesses pour les pertes et dommages n'atteignent que 342 millions de dollars pour 2,8 milliards demandés.",
+      "periode": "2026",
+      "perimetre": "Monde",
+      "explication": "Les COP restent le seul lieu où les pays du Sud peuvent exiger des comptes aux pays riches, mais les moyens sont dérisoires.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "342 M$"
+    }
+  ],
+  "argumentaires": {
+    "court": "Les COP sont très insuffisantes : la COP31 d'Antalya s'est achevée sans décision finale ni mention des énergies fossiles. Mais elles ne servent pas à rien : depuis l'Accord de Paris, les renouvelables ont été déployées trois fois plus que prévu et la hausse des émissions a ralenti de moitié. Le problème, c'est que les États n'en font pas assez, pas que la coopération soit inutile.",
+    "moyen": "La colère contre les COP est compréhensible. La COP31, à Antalya en novembre 2026, s'est terminée avec près de 50 heures de retard et sans décision de couverture : au moins 32 pays ont rejeté un texte qui ne mentionnait même plus les combustibles fossiles, sous la pression des pays producteurs.\n\nMais dire qu'elles ne servent à rien est faux. Selon le PNUE, depuis l'Accord de Paris de 2015, les renouvelables ont été déployées environ trois fois plus que prévu et les émissions de l'énergie sont environ 40 % plus basses qu'anticipé ; la croissance des émissions mondiales est passée de 1,7 % à 0,8 % par an. Le monde reste pourtant sur une trajectoire d'environ 2,6 à 2,8 °C. Les COP ne suffisent pas ; sans elles, ce serait pire.",
+    "detaille": "Il faut d'abord reconnaître ce qui est vrai. La COP31, organisée à Antalya (Turquie) à partir du 9 novembre 2026, s'est achevée le 22 novembre, près de 50 heures après la fin prévue. Selon Carbon Brief, la décision de couverture, le « Pacte d'Antalya », a été rejetée par au moins 32 pays, notamment parce qu'elle ne mentionnait même plus les énergies fossiles ; l'Union européenne a refusé de l'approuver. Selon l'AFP, depuis l'engagement de la COP28 à amorcer la transition hors des fossiles, le sujet stagne face aux pays producteurs, qui disposent d'un pouvoir de blocage grâce à la règle du consensus. Le chef de l'ONU climat a exprimé une « profonde déception ».\n\nLes engagements restent aussi très insuffisants. Selon le rapport annuel du PNUE sur l'écart d'émissions, même si tous les pays tenaient leurs promesses, le réchauffement atteindrait environ 2,6 °C au cours du siècle, loin de l'objectif de l'Accord de Paris. Il faudrait réduire les émissions de 45 % d'ici 2035 ; les engagements actuels prévoient 11 à 15 %.\n\nMais « ne servent à rien » est faux. Le même PNUE constate que, depuis l'Accord de Paris, les renouvelables ont fortement progressé et que le charbon et le pétrole ont crû plus lentement que prévu. Selon l'analyse de Carbon Brief, la capacité renouvelable installée est environ trois fois supérieure aux prévisions de 2015, les émissions du secteur énergétique sont environ 40 % plus basses que prévu, et la croissance annuelle des émissions mondiales a été divisée par deux. Même à Antalya, des textes ont été adoptés sur l'adaptation, la transition juste et le financement climatique, sujets portés par les pays du Sud.\n\nLe vrai problème n'est pas l'existence des COP, mais le poids des intérêts fossiles et la faiblesse des engagements des pays riches. Abandonner la coopération internationale laisserait les plus vulnérables seuls face aux effets d'un réchauffement qu'ils n'ont pas causé.",
+    "empathie": "Voir des milliers de délégués se réunir chaque année pendant que les émissions restent au plus haut peut légitimement donner un sentiment d'inutilité. Cette déception est partagée par beaucoup de scientifiques et de militants du climat."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Les émissions augmentent toujours, donc les COP n'ont rien changé.",
+      "reponse": "Les émissions ne baissent pas encore, mais leur croissance a été divisée par deux depuis 2016, et les renouvelables ont été déployées environ trois fois plus que prévu en 2015, selon l'analyse du rapport du PNUE."
+    },
+    {
+      "objection": "La COP31 a été un échec total.",
+      "reponse": "Elle a échoué sur l'essentiel, la décision de couverture et les fossiles. Mais des textes sur l'adaptation, la transition juste et le financement ont été adoptés, et environ 80 pays ont rejoint un objectif d'électrification."
+    },
+    {
+      "objection": "C'est aux pays pollueurs comme la Chine d'agir, pas à nous.",
+      "reponse": "Les COP sont justement le seul lieu où tous les pays, y compris les grands émetteurs, prennent des engagements publics et vérifiables. Sans ce cadre, chacun attendrait l'autre."
+    }
+  ],
+  "questions": [
+    "Si les COP disparaissaient, qu'est-ce qui obligerait les grands pays pollueurs à rendre des comptes ?",
+    "Le problème vient-il de la coopération elle-même, ou des États qui bloquent les décisions ?"
+  ],
+  "limites": [
+    "L'issue finale de la COP31 n'a été lue que dans un article de Carbon Brief (lu partiellement à travers un outil de lecture qui résume) ; aucune décision officielle de la CCNUCC ni dépêche finale de l'AFP n'a pu être ouverte.",
+    "Le communiqué de presse du PNUE n'a pas pu être ouvert ; les chiffres de réchauffement selon les politiques actuelles et la comparaison avec 2015 viennent de l'analyse de Carbon Brief.",
+    "Les projections de réchauffement sont des estimations avec de fortes marges d'incertitude.",
+    "Les chiffres d'émissions 2025 sont provisoires selon le PNUE."
+  ],
+  "sources": [
+    {
+      "titre": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
+      "organisme": "Carbon Brief",
+      "date_publication": "23 novembre 2026",
+      "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
+      "passage": "La COP31 s'est close à Antalya (Turquie) le dimanche 22 novembre 2026 à 19 h 33, près de 50 heures après la fin prévue, la COP la plus longue de l'histoire. La décision de couverture (« Pacte d'Antalya ») n'a pas été adoptée : rejetée par au moins 32 pays ; l'UE a refusé un texte qui « does not even mention fossil fuels ». Aucun texte final ne mentionne directement les combustibles fossiles. Des textes ont toutefois été adoptés sur la transition juste, l'objectif mondial d'adaptation et le programme de travail sur la finance climatique (prolongé jusqu'en 2028) ; le mécanisme Belém-Antalya pour une transition juste est reporté à la COP32 (Éthiopie, novembre 2027). Environ 80 pays ont adhéré, hors négociations, à une cible de 35 % d'électricité dans la consommation finale d'énergie d'ici 2035. Pertes et dommages : 342 millions de dollars promis pour 2,8 milliards demandés. Simon Stiell (CCNUCC) a exprimé une « deep disappointment ».",
+      "pertinence": "Site britannique spécialisé de référence sur le climat (article en anglais, lu partiellement à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "COP31 sur le climat : la référence aux énergies fossiles disparaît dans le projet de décision finale",
+      "organisme": "AFP, publié par La Gazette France",
+      "date_publication": "19 novembre 2026",
+      "url": "https://www.lagazettefrance.fr/article/cop31-sur-le-climat-la-reference-aux-energies-fossiles-disparait-dans-le-projet-de-decision-finale",
+      "passage": "Le projet de décision finale de la COP31 ne cite plus nommément les combustibles fossiles, alors qu'une version précédente le faisait. Il demande de porter la part de l'électricité dans la consommation finale d'énergie à 35 % d'ici 2035, en parallèle du triplement des capacités renouvelables. Lors de la COP28 de Dubaï (2023), les pays s'étaient engagés à amorcer leur transition hors des énergies fossiles ; le sujet stagne depuis, toute mention se heurtant à l'opposition de pays producteurs. Le Panama a menacé de bloquer l'adoption sans référence à une sortie progressive du pétrole.",
+      "pertinence": "Dépêche AFP reprise par un média (lue à travers un outil de lecture qui résume) ; elle porte sur le projet de texte, pas sur l'issue finale.",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Emissions Gap Report 2026",
+      "organisme": "Programme des Nations unies pour l'environnement (PNUE / UNEP)",
+      "date_publication": "2026",
+      "url": "https://unep.org/en/publications/report/emissions-gap-report-2026",
+      "passage": "Avec la mise en œuvre complète des contributions nationales (NDC), le monde ne limiterait le réchauffement qu'à « 2.6°C » au cours du siècle. Pour une trajectoire 1,5 °C avec le plus faible dépassement, il faudrait réduire les émissions de « 18 per cent by 2030, 45 per cent by 2035 and 69 per cent by 2040 » par rapport à 2025, alors que les NDC ne les réduiraient que de « 5-8 per cent by 2030 and 11-15 per cent by 2035 ». Depuis l'Accord de Paris, les renouvelables ont fortement progressé, l'approvisionnement en charbon et en pétrole a crû plus lentement que prévu et des politiques climatiques ont réduit les émissions dans de nombreux pays.",
+      "pertinence": "Page officielle du rapport annuel de l'agence de l'ONU pour l'environnement (lue à travers un outil de lecture qui résume) ; le communiqué de presse n'a pas pu être ouvert.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "UNEP: Opportunity has 'been lost' to meet 1.5C warming limit without 'overshoot'",
+      "organisme": "Carbon Brief",
+      "date_publication": "21 octobre 2026 (mis à jour le 20 novembre 2026)",
+      "url": "https://carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot",
+      "passage": "Selon l'Emissions Gap Report 2026 du PNUE, le réchauffement projeté d'ici 2100 est de 2,8 °C avec les politiques actuelles (10 % de risque de dépasser 3,4 °C), 2,6 °C si toutes les NDC sont appliquées, 2,1 °C avec les objectifs de neutralité carbone. Les estimations des scénarios NDC sont plus élevées d'environ 0,2 à 0,3 °C qu'en 2025, notamment en raison du retrait des États-Unis de l'accord de Paris. Par rapport aux prévisions de 2015, la capacité renouvelable déployée est environ trois fois plus élevée que prévu et les émissions du secteur énergétique inférieures d'environ 40 % ; la consommation de fossiles augmente « at a slower rate than was projected in 2015 ». Émissions mondiales 2025 : 58,4 GtCO2e, comparables à 2024 ; croissance annuelle moyenne passée de 1,7 % (1990-2015) à 0,8 % (depuis 2016).",
+      "pertinence": "Analyse détaillée du rapport du PNUE par un site spécialisé (en anglais, lue à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "COP31 adopts climate finance work programme; proposals for adaptation funding, trade measures dropped",
+      "organisme": "Down To Earth (Centre for Science and Environment, Inde)",
+      "date_publication": "10 novembre 2026",
+      "url": "https://www.downtoearth.org.in/story/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped",
+      "passage": "La COP31 s'est ouverte le 9 novembre 2026 à Antalya (Turquie). Un programme de travail sur le financement climatique, demande clé des pays en développement, portant sur l'article 9.1 de l'Accord de Paris, a été inscrit à l'ordre du jour malgré l'opposition de l'UE ; un point distinct sur le triplement du financement de l'adaptation a été abandonné.",
+      "pertinence": "Magazine environnemental indien de référence (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-11-30",
+  "raison_actualisation": "Nouveau rapport du PNUE sur l'écart d'émissions et COP32 (Éthiopie, novembre 2027).",
+  "objections_legitimes": [
+    "La COP31 s'est achevée sans décision de couverture ni mention des énergies fossiles.",
+    "Les engagements actuels mènent à un réchauffement d'environ 2,6 à 2,8 °C, très loin de l'objectif de Paris.",
+    "La règle du consensus donne un pouvoir de blocage aux pays producteurs de pétrole."
+  ],
+  "publics": {
+    "convaincus": "Tu as raison de dire que la COP31 a été un échec : même pas un mot sur le pétrole dans le texte, à cause des pays producteurs. Mais selon l'ONU, depuis l'Accord de Paris, on a installé trois fois plus de renouvelables que prévu et la hausse des émissions a ralenti de moitié. Ce n'est pas assez, mais ce n'est pas rien : le problème, ce sont ceux qui bloquent.",
+    "indecis": "C'est normal d'être déçu : la COP31 s'est terminée sans accord final et on reste sur une trajectoire d'environ 2,6 °C. Mais les données de l'ONU montrent que la coopération a déjà changé la trajectoire depuis 2015. La vraie question est de savoir comment empêcher quelques États pétroliers de tout bloquer."
+  },
+  "repond_a": [
+    {
+      "id": "cop_climat_q2511",
+      "label": "Utilité des conférences sur le climat (COP)"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "nucleaire",
+    "changement climatique",
+    "climat a toujours change"
+  ],
+  "lecture": {
+    "valeurs": [
+      "internationalisme",
+      "vulnerables",
+      "solidarite"
+    ],
+    "mecanismes": "Partir des échecs réels des négociations pour conclure à l’inutilité de toute coopération climatique sert à justifier l’inaction et le repli national, au profit des intérêts fossiles.",
+    "consequences": "Abandonner le cadre multilatéral laisserait les pays et les populations les plus exposés seuls face à un réchauffement qu’ils n’ont pas causé, et ôterait le seul lieu où les grands émetteurs doivent rendre des comptes.",
+    "democratie": "La règle du consensus donne un droit de veto de fait aux États pétroliers : réformer ces négociations, les ouvrir à la société civile et limiter l’influence des lobbies est un enjeu démocratique mondial.",
+    "propositions": [
+      "Défendre une réforme des règles de décision des conférences climat pour limiter le blocage par quelques États.",
+      "Exiger des pays riches des financements à la hauteur pour l’adaptation et les pertes et dommages.",
+      "Encadrer la présence des lobbies des énergies fossiles dans les négociations."
+    ],
+    "defavorables": [
+      {
+        "fait": "La conférence d’Antalya s’est achevée sans décision finale, sans même mentionner les énergies fossiles, et les engagements actuels mènent à un réchauffement bien supérieur à l’objectif de Paris.",
+        "integration": "C’est vrai et c’est grave : la critique doit viser ceux qui bloquent et les pays riches qui n’en font pas assez, pas la coopération elle-même, qui a déjà infléchi la trajectoire."
+      }
+    ]
+  },
+  "concepts": [
+    "cop_climat",
+    "ecologie",
+    "climat_origine"
+  ]
+}

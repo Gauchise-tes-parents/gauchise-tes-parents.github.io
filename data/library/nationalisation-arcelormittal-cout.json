@@ -1,0 +1,242 @@
+{
+  "id": "nationalisation-arcelormittal-cout",
+  "type": "idee_recue",
+  "affirmation": "Nationaliser ArcelorMittal coûterait une fortune et ne sauverait rien.",
+  "volet": "economie",
+  "sous_theme": "Grandes entreprises",
+  "rubriques": [],
+  "mots_cles": [
+    "nationaliser arcelormittal",
+    "nationalisation arcelormittal cout",
+    "arcelor nationalisation milliards",
+    "proposition de loi nationalisation arcelormittal",
+    "sauver la siderurgie francaise",
+    "dunkerque arcelormittal emplois",
+    "british steel nationalise",
+    "acier francais souverainete",
+    "nationalisation ca coute trop cher",
+    "haut fourneau dunkerque"
+  ],
+  "verdict": "opinion",
+  "fiabilite": "debat",
+  "stabilite": "evolutive",
+  "resume": "C'est une opinion, pas un fait établi. Les estimations du coût citées au Parlement vont de 1 à 8 milliards d'euros selon les intervenants ; l'actif net d'ArcelorMittal France est d'environ 4,2 milliards. Le texte de LFI, adopté deux fois à l'Assemblée et rejeté au Sénat, plafonne le prix de rachat. Qu'une nationalisation « ne sauverait rien » est une prédiction : la crise de l'acier est réelle et structurelle, mais le Royaume-Uni a nationalisé British Steel en 2026 pour préserver sa production.",
+  "contexte": "Après l'annonce par ArcelorMittal de suppressions de postes en France en 2025, La France insoumise a déposé une proposition de loi de nationalisation d'ArcelorMittal France. Le gouvernement et la droite y opposent son coût et l'inefficacité d'un changement d'actionnaire.",
+  "explication": "On vérifie le parcours du texte, les estimations de coût réellement avancées dans les débats parlementaires, la situation de l'entreprise et un précédent étranger récent.",
+  "faits": [
+    {
+      "fait": "Selon le rapport de la commission des finances et le scrutin public de l'Assemblée, la proposition de loi a été adoptée en première lecture le 27 novembre 2025 (127 voix contre 41), puis rejetée par le Sénat le 25 février 2026 (227 voix contre 112) ; l'Assemblée l'a adoptée de nouveau en deuxième lecture le 11 juin 2026 (106 pour, 49 contre, 47 abstentions dont le RN).",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Le texte n'est pas une lubie isolée : il a été adopté deux fois par l'Assemblée, mais il n'est pas devenu loi.",
+      "source": 1,
+      "fiabilite": "etabli",
+      "chiffre": "106-49"
+    },
+    {
+      "fait": "Selon le rapport parlementaire, les estimations de coût avancées dans les débats varient fortement : environ 3 milliards d'euros pour la rapporteure LFI, 3 à 4 milliards pour d'autres soutiens, entre 1 et 6 milliards selon le Sénat et les syndicats, et 6 à 8 milliards de valorisation plus 5 à 7 milliards d'investissements pour un député de la majorité.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Aucune évaluation indépendante ne tranche : la « fortune » dépend des hypothèses de chaque camp.",
+      "source": 0,
+      "fiabilite": "debat",
+      "chiffre": "1 à 8 Md€"
+    },
+    {
+      "fait": "Selon le même rapport, l'actif net d'ArcelorMittal France s'élevait à environ 4,23 milliards d'euros dans ses comptes sociaux de 2024.",
+      "periode": "2024",
+      "perimetre": "France",
+      "explication": "Le coût d'une nationalisation n'est pas une dépense perdue : l'État acquiert en échange un actif industriel.",
+      "source": 0,
+      "fiabilite": "etabli",
+      "chiffre": "4,23 Md€"
+    },
+    {
+      "fait": "Selon la commission des finances de l'Assemblée, l'article 1er du texte confie à une commission administrative la fixation du prix de rachat, plafonné à « la valeur réelle moyenne des actions de la société » entre le 1er octobre 2024 et le 30 septembre 2025.",
+      "periode": "2024-2026",
+      "perimetre": "France",
+      "explication": "Le texte encadre le prix pour éviter que l'État ne paie une valorisation gonflée.",
+      "source": 2,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Selon le rapport, les rapporteurs soulignent que les actionnaires du groupe ArcelorMittal ont reçu 14,4 milliards de dollars de dividendes entre 2020 et 2025, pendant que des projets de décarbonation en France étaient abandonnés ou reportés.",
+      "periode": "2020-2025",
+      "perimetre": "Monde / France",
+      "explication": "Argument des partisans : le problème tient aussi aux choix d'un actionnaire privé qui investit ailleurs.",
+      "source": 0,
+      "fiabilite": "interpretation",
+      "chiffre": "14,4 Md$"
+    },
+    {
+      "fait": "Selon le gouvernement britannique, l'État est intervenu chez British Steel en avril 2025 pour maintenir les hauts-fourneaux en activité, puis l'a nationalisé le 16 juillet 2026 pour préserver la production d'acier et des milliers d'emplois.",
+      "periode": "2025-2026",
+      "perimetre": "Royaume-Uni",
+      "explication": "Un grand pays européen a jugé qu'une nationalisation était le moyen de sauver sa sidérurgie : l'idée n'a rien d'extravagant.",
+      "source": 4,
+      "fiabilite": "etabli"
+    },
+    {
+      "fait": "Fait défavorable : selon le rapporteur du Sénat cité par la Banque des Territoires, la demande européenne d'acier a baissé de 11 % entre 2019 et 2024 et la surproduction mondiale est estimée à 639 millions de tonnes en 2025 : un changement d'actionnaire ne règle pas ces difficultés structurelles.",
+      "periode": "2019-2025",
+      "perimetre": "Europe / Monde",
+      "explication": "Une nationalisation ne suffit pas seule : il faut aussi une protection commerciale et une politique industrielle européenne.",
+      "source": 3,
+      "fiabilite": "estimation",
+      "chiffre": "-11 %"
+    },
+    {
+      "fait": "Fait défavorable : selon la Banque des Territoires, ArcelorMittal a annoncé le 10 février 2026 un investissement de 1,3 milliard d'euros dans un four électrique à Dunkerque, et le plan social de 608 postes a été ramené à 224 fin 2025 selon le rapport de l'Assemblée.",
+      "periode": "2025-2026",
+      "perimetre": "France",
+      "explication": "Le groupe a fait des gestes, que les opposants jugent suffisants ; les partisans rappellent que ce four est financé pour moitié par des certificats d'économie d'énergie.",
+      "source": 3,
+      "fiabilite": "etabli",
+      "chiffre": "1,3 Md€"
+    }
+  ],
+  "argumentaires": {
+    "court": "« Une fortune » : les estimations citées au Parlement vont de 1 à 8 milliards selon les camps, et l'État achèterait un actif valant environ 4,2 milliards. « Ne sauverait rien » : c'est une prédiction, pas un fait. La crise de l'acier est réelle, mais le Royaume-Uni vient de nationaliser British Steel pour sauver sa production.",
+    "moyen": "Le coût d'une nationalisation d'ArcelorMittal France fait débat : environ 3 milliards d'euros selon la rapporteure LFI, entre 1 et 6 milliards selon le Sénat et les syndicats, jusqu'à 6 à 8 milliards plus des investissements selon un député de la majorité. Ce n'est pas une dépense à fonds perdus : l'État deviendrait propriétaire d'une entreprise dont l'actif net est d'environ 4,2 milliards. Le texte, adopté deux fois par l'Assemblée et rejeté par le Sénat, plafonne le prix de rachat.\n\nQuant à « ne sauverait rien », c'est une opinion. Les opposants ont des arguments sérieux : baisse de la demande européenne, surproduction mondiale. Mais les partisans rappellent les 14,4 milliards de dollars de dividendes versés par le groupe entre 2020 et 2025 pendant que des projets en France étaient reportés. Et le Royaume-Uni a nationalisé British Steel en juillet 2026 pour garder ses hauts-fourneaux.",
+    "detaille": "L'affirmation mêle un chiffrage et une prédiction. Il faut les examiner séparément.\n\nSur le parcours du texte : la proposition de loi de La France insoumise a été adoptée par l'Assemblée nationale en première lecture le 27 novembre 2025, par 127 voix contre 41, puis rejetée par le Sénat le 25 février 2026, par 227 voix contre 112. L'Assemblée l'a adoptée de nouveau en deuxième lecture le 11 juin 2026, par 106 voix contre 49, le Rassemblement national s'abstenant. Le texte n'est donc pas devenu loi.\n\nSur le coût : le rapport de la commission des finances recense des estimations très différentes. La rapporteure LFI avance environ 3 milliards d'euros, d'autres soutiens 3 à 4 milliards, le Sénat et les syndicats une fourchette de 1 à 6 milliards selon la valorisation retenue, et un député de la majorité 6 à 8 milliards, plus 5 à 7 milliards d'investissements pour décarboner. Aucune évaluation indépendante ne tranche. Rappelons que l'État achèterait un actif : l'actif net d'ArcelorMittal France est d'environ 4,2 milliards d'euros, et le texte plafonne le prix à la valeur réelle moyenne des actions.\n\nSur l'efficacité : les opposants soulignent des difficultés structurelles — demande européenne d'acier en baisse de 11 % entre 2019 et 2024, surproduction mondiale estimée à 639 millions de tonnes — et le ministre de l'Industrie parle de « leurre ». ArcelorMittal a annoncé en février 2026 un four électrique à Dunkerque. Les partisans répondent que le groupe a versé 14,4 milliards de dollars de dividendes entre 2020 et 2025 tout en reportant ses projets de décarbonation en France, et qu'une participation minoritaire permet de bloquer mais pas d'obliger à investir.\n\nLe Royaume-Uni, gouverné par les travaillistes, a fait un choix comparable : intervention chez British Steel en avril 2025, puis nationalisation effective le 16 juillet 2026 pour préserver les hauts-fourneaux de Scunthorpe et des milliers d'emplois. Il est trop tôt pour en juger les résultats.\n\nEn résumé : le coût est réel mais incertain, et l'efficacité dépendra de ce que l'État ferait de l'entreprise, avec quelle politique industrielle européenne. C'est un débat de choix politique, pas une évidence comptable.",
+    "empathie": "Il est normal de se demander si l'argent public serait bien utilisé, surtout quand on parle de milliards. Les salariés de la sidérurgie, eux, se demandent surtout s'ils auront encore un emploi dans quelques années ; les deux inquiétudes méritent d'être prises au sérieux."
+  },
+  "contre_arguments": [
+    {
+      "objection": "Ça coûterait des dizaines de milliards au contribuable.",
+      "reponse": "Les estimations citées au Parlement vont de 1 à 8 milliards d'euros selon les camps, et l'État achèterait un actif d'une valeur nette d'environ 4,2 milliards ; le texte plafonne le prix de rachat."
+    },
+    {
+      "objection": "Aucun pays sérieux ne nationalise sa sidérurgie aujourd'hui.",
+      "reponse": "Le Royaume-Uni a pris le contrôle de British Steel en avril 2025 et l'a nationalisé le 16 juillet 2026 pour garder ses hauts-fourneaux en activité."
+    },
+    {
+      "objection": "ArcelorMittal investit déjà à Dunkerque, inutile de nationaliser.",
+      "reponse": "Le groupe a annoncé un four électrique de 1,3 milliard d'euros en février 2026, financé pour moitié par des certificats d'économie d'énergie selon le rapport parlementaire ; mais il a aussi reporté d'autres projets et versé 14,4 milliards de dollars de dividendes entre 2020 et 2025."
+    }
+  ],
+  "questions": [
+    "Si l'État dépense déjà des centaines de millions d'aides pour ArcelorMittal, ne vaut-il pas mieux en avoir le contrôle ?",
+    "Pourquoi le Royaume-Uni a-t-il jugé utile de nationaliser British Steel, selon toi ?"
+  ],
+  "limites": [
+    "Les estimations de coût sont des déclarations de parlementaires rapportées dans le rapport, pas des évaluations indépendantes (aucune étude de la Cour des comptes ou de Bercy n'a été lue).",
+    "Le rapport de l'Assemblée est long et n'a été lu que partiellement à travers un outil de lecture qui résume ; les citations sont à revérifier mot pour mot.",
+    "La date exacte et la page officielle de l'annonce des suppressions de postes par ArcelorMittal en 2025 n'ont pas pu être ouvertes (pages de France 3 et du Journal des entreprises bloquées) ; seuls les chiffres rapportés par le Sénat et l'Assemblée sont utilisés.",
+    "La suite de la navette parlementaire après la deuxième lecture du 11 juin 2026 n'a pas été vérifiée.",
+    "Les résultats de la nationalisation de British Steel ne sont pas encore connus ; le communiqué britannique ne donne aucun coût."
+  ],
+  "sources": [
+    {
+      "titre": "Rapport n° 2872 sur la proposition de loi, rejetée par le Sénat, de nationalisation d'ArcelorMittal France (deuxième lecture)",
+      "organisme": "Assemblée nationale, commission des finances (rapporteurs Nicolas Sansu et Aurélie Trouvé)",
+      "date_publication": "3 juin 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b2872_rapport-fond.pdf",
+      "passage": "Proposition adoptée en première lecture le 27 novembre 2025 (127 voix pour, 41 contre), rejetée au Sénat le 25 février 2026 (227 contre, 112 pour). Estimations de coût citées dans les débats : « Le coût de la nationalisation est estimé à 3 milliards d'euros » (A. Trouvé) ; entre 1 et 6 milliards selon la valorisation (Sénat et syndicats) ; 3 à 4 milliards (N. Sansu, É. Coquerel) ; 4,4 milliards (M. Ray) ; 6 à 8 milliards de valorisation plus 5 à 7 milliards d'investissements de décarbonation (M. Cazeneuve, EPR). Actif net de la société : 4 230 769 000 € (comptes sociaux, 2024). Plan de sauvegarde de l'emploi de 608 postes, ramenés à 224 fin 2025. Le four électrique de Dunkerque (1,3 milliard d'euros) est financé pour moitié par des certificats d'économie d'énergie (650 millions). Les rapporteurs citent 14,4 milliards de dollars de dividendes versés aux actionnaires du groupe entre 2020 et 2025, et l'abandon ou le report de projets de décarbonation. Opposants : difficultés structurelles (surcapacités mondiales, demande en baisse, coût de l'énergie), finances publiques contraintes, nouvelles mesures européennes et nouveau four électrique. Le RN, favorable à une « golden share », s'est abstenu. British Steel et la nationalisation d'Usinor-Sacilor en 1982 sont cités comme précédents.",
+      "pertinence": "Rapport parlementaire officiel (long document lu partiellement à travers un outil de lecture qui résume ; les estimations de coût sont des déclarations de parlementaires, non des évaluations indépendantes).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Scrutin public n° 7380 sur l'ensemble de la proposition de loi relative à la nationalisation d'ArcelorMittal France (deuxième lecture)",
+      "organisme": "Assemblée nationale",
+      "date_publication": "11 juin 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7380",
+      "passage": "Adopté : 106 pour, 49 contre, 47 abstentions (202 votants, 155 suffrages exprimés). LFI, socialistes, écologistes et GDR pour ; Ensemble pour la République, Droite républicaine, Démocrates, Horizons et UDR contre ; Rassemblement national : abstention (45).",
+      "pertinence": "Page officielle du scrutin.",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Nationalisation d'ArcelorMittal France : examen puis adoption, en deuxième lecture, de la proposition de loi",
+      "organisme": "Assemblée nationale, commission des finances",
+      "date_publication": "3 juin 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/finances/actualites/nationalisation-d-arcelormittal-france-examen-en-deuxieme-lecture-de-la-proposition-de-loi",
+      "passage": "La commission a adopté sans modification le texte voté en première lecture. L'article 1er crée une commission administrative chargée de fixer le prix de rachat, plafonné à « la valeur réelle moyenne des actions de la société » sur la période du 1er octobre 2024 au 30 septembre 2025. Le texte vise à « préserver la souveraineté industrielle de la France ».",
+      "pertinence": "Compte rendu officiel de la commission (lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    },
+    {
+      "titre": "Le Sénat rejette la proposition de loi visant à nationaliser ArcelorMittal France",
+      "organisme": "Banque des Territoires (Localtis)",
+      "date_publication": "26 février 2026",
+      "url": "https://www.banquedesterritoires.fr/le-senat-rejette-la-proposition-de-loi-visant-nationaliser-arcelormittal-france",
+      "passage": "Le Sénat a rejeté le texte le 25 février 2026 par 227 voix contre 112. Le ministre de l'Industrie Sébastien Martin le qualifie de « leurre » et de « texte d'affichage ». ArcelorMittal a annoncé le 10 février 2026 un investissement de 1,3 milliard d'euros à Dunkerque pour un four électrique. Le rapporteur Arnaud Bazin (LR) juge que la nationalisation ne résoudrait rien : la demande européenne d'acier a baissé de 11 % entre 2019 et 2024 et la surproduction mondiale est estimée à 639 millions de tonnes en 2025. Un premier plan social a supprimé 608 postes sur 40 sites, un second est prévu pour 2026. Le sénateur socialiste Rémi Féraud propose de conditionner les aides publiques et n'exclut pas une gestion publique temporaire.",
+      "pertinence": "Article de presse spécialisée des collectivités (lu à travers un outil de lecture qui résume).",
+      "type": "secondaire",
+      "consultee": true
+    },
+    {
+      "titre": "Government brings British Steel into public ownership to protect UK steelmaking",
+      "organisme": "Gouvernement du Royaume-Uni (GOV.UK)",
+      "date_publication": "juillet 2026",
+      "url": "https://www.gov.uk/government/news/government-brings-british-steel-into-public-ownership-to-protect-uk-steelmaking",
+      "passage": "« The Government stepped in at British Steel in April 2025 to keep the blast furnaces running ». La loi Steel Industry (Nationalisation) Act a reçu la sanction royale le 15 juillet 2026 et le transfert de propriété a pris effet le 16 juillet 2026 ; un évaluateur indépendant doit déterminer si une compensation est due à l'ancien propriétaire Jingye. Objectifs : préserver la capacité de production d'acier, notamment à Scunthorpe, éviter une fermeture désordonnée, protéger des « thousands of jobs » et la sécurité nationale. Aucun montant dépensé pour British Steel n'est donné.",
+      "pertinence": "Communiqué officiel du gouvernement britannique (en anglais, lu à travers un outil de lecture qui résume).",
+      "type": "primaire",
+      "consultee": true
+    }
+  ],
+  "derniere_verification": "2026-11-25",
+  "a_actualiser_le": "2027-03-31",
+  "raison_actualisation": "Suite de la navette parlementaire, évolution des plans sociaux d'ArcelorMittal et premiers bilans de la nationalisation de British Steel.",
+  "objections_legitimes": [
+    "Le coût d'une nationalisation pourrait atteindre plusieurs milliards d'euros, sans compter les investissements de décarbonation.",
+    "La sidérurgie européenne souffre de difficultés structurelles (surcapacités mondiales, baisse de la demande) qu'un changement d'actionnaire ne règle pas seul.",
+    "Le précédent d'Usinor-Sacilor, nationalisé en 1982, s'est accompagné de nombreuses suppressions d'emplois."
+  ],
+  "publics": {
+    "convaincus": "Le coût, personne ne le connaît vraiment : les chiffres cités à l'Assemblée vont de 1 à 8 milliards selon les camps, et en échange l'État récupère une entreprise qui vaut environ 4 milliards. Même le RN ne s'y est pas opposé, il s'est abstenu. Et le Royaume-Uni vient de nationaliser British Steel pour sauver ses hauts-fourneaux : ce n'est pas une idée folle.",
+    "indecis": "C'est une vraie question : nationaliser coûterait plusieurs milliards et ne réglerait pas seul la crise mondiale de l'acier. Mais laisser la décision à un groupe qui a versé 14,4 milliards de dollars de dividendes en cinq ans a aussi un coût, en emplois et en souveraineté. Le Royaume-Uni a fait ce choix en 2026 ; c'est un débat politique légitime, pas une évidence comptable."
+  },
+  "repond_a": [
+    {
+      "id": "arcelor_nationalisation_q2511",
+      "label": "Nationalisation d’ArcelorMittal"
+    }
+  ],
+  "ne_repond_pas": [],
+  "synonymes": [
+    "travail",
+    "travailler",
+    "taf",
+    "bosser",
+    "marche du travail",
+    "pole emploi",
+    "france travail",
+    "patronat",
+    "grands groupes",
+    "creent les emplois",
+    "creent l emploi",
+    "bruxelles"
+  ],
+  "lecture": {
+    "valeurs": [
+      "travailleurs",
+      "democratie",
+      "services_publics"
+    ],
+    "mecanismes": "Brandir un coût vertigineux sans source, et présenter une prédiction comme une certitude, permet d’écarter tout débat sur la maîtrise publique d’une industrie stratégique.",
+    "consequences": "Laisser les décisions à un actionnaire privé qui investit ailleurs expose la sidérurgie française à des fermetures, des pertes d’emplois et une dépendance accrue aux importations.",
+    "democratie": "Le sort d’une industrie stratégique, soutenue par de l’argent public, devrait relever d’un choix collectif et transparent, et non des seules décisions d’un conseil d’administration.",
+    "propositions": [
+      "Conditionner toute aide publique à la sidérurgie à des engagements contraignants d’emploi, d’investissement et de décarbonation.",
+      "Prévoir une prise de contrôle publique, temporaire ou durable, en cas de menace de fermeture d’un site stratégique.",
+      "Défendre au niveau européen une protection commerciale et une politique industrielle de l’acier décarboné."
+    ],
+    "defavorables": [
+      {
+        "fait": "La demande européenne d’acier baisse et la surproduction mondiale est massive : un changement d’actionnaire ne règle pas seul ces difficultés.",
+        "integration": "C’est vrai : la nationalisation n’est pas une baguette magique, elle doit s’accompagner d’une politique industrielle et commerciale européenne, comme le reconnaissent ses partisans."
+      }
+    ]
+  },
+  "concepts": [
+    "arcelor_nationalisation",
+    "emploi",
+    "riches_entreprises",
+    "europe",
+    "cout"
+  ]
+}
