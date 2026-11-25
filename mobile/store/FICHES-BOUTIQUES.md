@@ -15,7 +15,7 @@ Le pas à pas des démarches est dans `docs/MOBILE.md`.
 | Prix | Gratuit, sans publicité, sans achat intégré |
 | Site web / URL d'assistance | https://gauchise-tes-parents.github.io/ |
 | Politique de confidentialité | https://gauchise-tes-parents.github.io/confidentialite.html (page statique, sans JavaScript, exigée par les boutiques) |
-| Adresse e-mail de contact (publique dans les boutiques) | **À COMPLÉTER** (conseil : une adresse dédiée au projet plutôt que ton adresse personnelle) |
+| Adresse e-mail de contact (publique dans les boutiques) | mducanda.ar@gmail.com |
 | Pays de distribution | Tous, ou seulement les pays francophones (l'appli est en français) |
 
 ## Textes
