@@ -425,6 +425,17 @@ const TONS = {
 //   3. comment présenter l'argument (riposte, objections, entrée) ; 4. les conseils de communication.
 // Les deux modes gardent les mêmes faits et les mêmes sources ; seules la formulation et la partie 3-4 changent.
 // (clés sans chiffre : les contrôles « aucun nombre absent de la fiche » lisent tout le contenu des blocs)
+// Phrases d'écoute (sans contenu factuel) et point légitime tiré de la fiche, pour un électeur convaincu.
+const DETERMINANTS = /^(Le|La|Les|L’|L'|Un|Une|Des|Il|Elle|Ils|Elles|On|Ce|Cette|Ces|Certains|Certaines|Beaucoup|Plusieurs|Des|Du|De|Dans|Sur|Pour|Avec|Selon|Depuis)\b/;
+function avantDeRepondre(fiche, plan) {
+  const legit = (fiche.objections_legitimes || []).find((t) => t && t.length < 220);
+  const point = legit ? String(legit).trim().replace(DETERMINANTS, (m) => m.toLowerCase()) : null;
+  const ecoute = point ? `Je comprends pourquoi tu dis ça, et sur un point tu n’as pas tort : ${point}` : 'Je comprends pourquoi tu dis ça. Explique-moi ce qui te fait penser ça, je t’écoute.';
+  const deja = new Set([plan.questions?.[0]].filter(Boolean));
+  const graine = (fiche.questions || []).find((q) => q && !deja.has(q)) || null;
+  return { ecoute, graine };
+}
+
 export const PRIORITES = { reponse: ['1', 'La réponse'], preuves: ['2', 'Les preuves'], lecture: ['3', 'La lecture de gauche'], presenter: ['4', 'Comment lui répondre'], communication: ['5', 'Comment aborder la discussion'] };
 function blocs(plan, fiche, extra = {}) {
   const A = fiche.argumentaires || {};
@@ -432,8 +443,11 @@ function blocs(plan, fiche, extra = {}) {
   const out = [];
   const add = (priorite, b) => out.push({ priorite, ...b });
   const paragraphes = (t) => String(t || '').split(/\n{2,}/).filter(Boolean);
-  // 1 — la réponse
-  add('reponse', { type: 'replique', titre: 'Ce que tu peux répondre', texte: A.court });
+  // 1 — la réponse. Face à un convaincu (retour d'un testeur, 25 novembre 2026) : avant de répondre, montrer
+  //     que l'argument est entendu (un point légitime tiré de la fiche) et poser une question qui fait réfléchir
+  //     — planter une graine plutôt qu'aligner les faits. La réponse courte reste inchangée.
+  const avant = g ? avantDeRepondre(fiche, plan) : {};
+  add('reponse', { type: 'replique', titre: 'Ce que tu peux répondre', texte: A.court, ...avant });
   const dev = paragraphes(plan.detail === 'approfondi' ? A.detaille : A.moyen);
   if (dev.length && (plan.detail !== 'bref' || !g)) add('reponse', { type: 'developpement', titre: 'Les arguments solides', paragraphes: dev });
   // 2 — les preuves, chacune avec ce qu'elle démontre
@@ -474,7 +488,7 @@ function blocs(plan, fiche, extra = {}) {
   // 4 — communication, selon le mode
   add('communication', { type: 'ton', titre: 'Le ton', texte: TONS[plan.ton] || TONS.assure });
   if (g) {
-    add('communication', { type: 'texte', titre: 'Avec un convaincu', texte: 'Ne cherche pas à l’humilier : on change rarement d’avis en perdant la face. Une affirmation à la fois, un fait solide, puis une question à laquelle il doit répondre lui-même. S’il y a du monde autour, ce sont souvent eux que tu convaincs.' });
+    add('communication', { type: 'texte', titre: 'Avec un convaincu', texte: 'Ses convictions tiennent souvent plus à ses valeurs, à son groupe et à ses peurs qu’aux chiffres. Commence par montrer que tu l’as entendu : reformule, reconnais ce qui est juste. Ne cherche pas à l’humilier ni à gagner tout de suite : on change rarement d’avis en perdant la face. Un seul fait solide, puis une question à laquelle il répond lui-même : tu plantes une graine, elle peut germer plus tard. S’il y a du monde autour, ce sont souvent eux que tu convaincs.' });
     add('communication', { type: 'texte', titre: 'Pour ne pas te disperser', texte: 'Un argument à la fois, une source pour chaque chiffre ; s’il change de sujet, ramène-le au point de départ.' });
   } else {
     if (plan.angles.length) add('communication', { type: 'texte', titre: 'Partir de ce qui compte pour lui', texte: plan.angles.map((a) => ANGLES[a]).join(' ') });

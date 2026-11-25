@@ -2172,3 +2172,25 @@ Variantes familières vérifiées (toutes mènent à la bonne fiche) : « Mélen
 **Correction avant publication.** Le motif du concept `armee_quartiers` rattachait à tort la fiche `tribunaux-charia-royaume-uni` (le mot « para… » attrapait « parallèle ») : motif resserré, comparaison des 1 003 phrases de contrôle refaite (aucun changement) et tests unitaires relancés.
 
 **Vérifications.** `npm test` : 519 tests, 519 réussis (avant et après la correction). Tests de bout en bout : 46 tests, 45 réussis. L'échec concerne « liens Tipeee » (`tests/e2e/ui.test.js`, ligne 119) : le test attend 3 liens Tipeee et n'en trouve que 2 au chargement de l'accueil. Ce test échoue de la même façon sur la version publiée avant ce passage (vérifié en mettant de côté les modifications du jour) : le problème vient de l'interface, pas des fiches. Il n'a pas été corrigé, car ce passage ne touche ni au design ni aux tests ; c'est à examiner.
+
+## 25 novembre 2026 — retour d'un testeur : écouter avant de répondre, et réponses « à côté » (demande du propriétaire)
+
+**Le retour.** Un testeur trouve que l'appli « répond à côté de la question assez facilement ». Il juge aussi que mettre la dissonance cognitive sous le nez d'un convaincu risque de le fermer à la conversation. D'après lui, il vaut mieux montrer que l'argument est entendu, puis donner des « billes » qui font réfléchir : planter une graine plutôt qu'aligner des faits.
+
+**Électeur convaincu : écouter d'abord** (`public/js/composer.js`, `public/js/app.js`, `public/js/taxonomy.js`).
+- Sous « Ce que tu peux répondre », un encadré dit quoi faire avant de répondre. D'abord une phrase d'écoute : « Je comprends pourquoi tu dis ça, et sur un point tu n'as pas tort : … ». Le point vient des objections légitimes de la fiche, donc rien n'est inventé. Ensuite une question de la fiche, à poser en laissant l'autre répondre. Cette question est différente de celle de la riposte.
+- La réponse courte reste en tête et ne change pas. C'est un choix de la v9 (« la réponse avant la méthode »), vérifié par les tests.
+- Le conseil « Avec un convaincu » est réécrit. Ses convictions tiennent souvent plus à ses valeurs, à son groupe et à ses peurs qu'aux chiffres. Il faut reformuler, reconnaître ce qui est juste, donner un seul fait solide et une question, et planter une graine sans chercher à gagner tout de suite.
+- Le sous-titre du public « convaincu » devient : « Montre-lui qu'il est entendu, sème le doute sans l'humilier, par une question plutôt qu'une pile de faits — et pense à ceux qui écoutent. »
+- Ces choix s'appuient sur les fiches « Science du dialogue » de l'appli : entretien motivationnel, réactance, identité sociale, persuasion modeste.
+- Le parcours « indécis » ne change pas.
+- Nouveau test : `tests/unit/composer.test.js`, « électeur convaincu : écoute… ». Il vérifie la phrase d'écoute pour toutes les fiches, l'absence de chiffre étranger à la fiche, et que la question vient bien de la fiche.
+
+**Réponses « à côté ».** Vingt phrases courantes ont été essayées. Trois menaient à une fiche hors sujet ou à aucune fiche, alors qu'une fiche existait :
+- « Marine Le Pen défend les petites gens » menait à `rn-homosexuels-droits` ; elle mène maintenant à `rn-salaires-votes` ;
+- « La gauche a ruiné la France » menait à `front-populaire-defaite-1940` ; elle mène maintenant à `gauche-au-pouvoir-bilan` ;
+- « Les banlieues sont des zones de non-droit » ne menait à aucune fiche, car la fiche `zones-de-non-droit` n'avait aucun concept rattaché ; elle mène maintenant à cette fiche.
+
+Trois concepts sont ajoutés dans `public/js/cartographie.js` : `rn_petites_gens`, `gauche_ruine` et `zones_non_droit`. Sur les 1 003 phrases de contrôle et les questions de la semaine, seules ces trois phrases changent de fiche. Une première version de `gauche_ruine`, trop large, détournait deux phrases (32 heures, politique familiale de Hollande) ; elle a été resserrée.
+
+Pour corriger les autres cas, il faudrait connaître les phrases exactes qui ont posé problème au testeur.

@@ -10,6 +10,10 @@
 // ─── Concepts ──────────────────────────────────────────────────────────────
 // central : concept qui porte le sujet (un concept non central ne suffit pas à choisir une fiche).
 export const CA_CONCEPTS = {
+  // retour d’un testeur (25 novembre 2026) : réponses « à côté »
+  zones_non_droit: { label: 'Zones de non-droit', central: true, motifs: ['(zones?|quartiers?|cites|banlieues?|territoires?) (de |du )?non droit', 'non droit .*(zones?|quartiers?|cites|banlieues?|territoires?)', 'territoires perdus de la republique', '(police|policiers|flics|pompiers) (ne peu\\w* (plus|pas)|n os\\w* plus|n entre\\w* plus|ne va plus|ne vont plus) (y )?(entrer|aller|rentrer)'] },
+  rn_petites_gens: { label: 'Le RN, défenseur des petites gens', central: true, motifs: ['(\\brn\\b|rassemblement national|le pen|bardella|front national|\\bfn\\b) .*(defend\\w*|proteg\\w*|pense\\w* a|se bat\\w* pour|est pour|est du cote) .*(petites gens|petits|travailleurs|ouvriers|classes? populaires?|pauvres|peuple|gens modestes|smicards|france d en bas|ceux qui bossent)'] },
+  gauche_ruine: { label: 'La gauche aurait ruiné le pays', central: true, motifs: ['(la gauche|les socialistes|le ps|hollande|mitterrand|jospin|les gauchistes|les gauchos) (a|ont|avait|avaient) (\\w+ )?(ruine|detruit|coule|massacre|plombe|mis a genoux) (la france|le pays|l economie|les finances|nos finances|tout)', '(la france|le pays|l economie) (a ete|est) (ruinee?|detruite?|coulee?) par (la gauche|les socialistes|hollande|mitterrand)'] },
   // fiches hebdomadaires (25 novembre 2026)
   lfi_nucleaire: { label: 'Programme de LFI sur le nucléaire', central: true, motifs: ['(\\blfi\\b|insoumis\\w*|melenchon|france insoumise|avenir en commun) .*nucleaire\\w*', 'nucleaire\\w* .*(\\blfi\\b|insoumis\\w*|melenchon|france insoumise)'] },
   cop_climat: { label: 'Utilité des conférences sur le climat (COP)', central: true, motifs: ['\\bcops?\\b ?\\d* .*(climat\\w*|servent|sert|inutile\\w*|rien|bla|grand messe|echec\\w*)', '\\bcop ?\\d+\\b', '(conferences?|sommets?) (de l onu |mondiaux? |internationa\\w* )?(sur le|du|pour le) climat', 'accord de paris .*(inutile|rien|sert a rien|servi a rien)'] },
@@ -411,6 +415,8 @@ export const CA_CONCEPTS = {
 // Classification multiple : chaque concept relève d'un ou plusieurs domaines (volets de la taxonomie) ;
 // une phrase peut donc toucher plusieurs domaines à la fois (ex. immigration + social + sécurité).
 export const CA_DOMAINES = {
+  // retour d’un testeur (25 novembre 2026)
+  zones_non_droit: ['securite'], rn_petites_gens: ['politique', 'social'], gauche_ruine: ['politique'],
   // fiches hebdomadaires (25 novembre 2026)
   lfi_nucleaire: ['politique', 'ecologie'], cop_climat: ['ecologie', 'international'], voitures_chinoises: ['ecologie', 'economie'], arcelor_nationalisation: ['economie', 'politique'], fiches_s: ['securite'], armee_quartiers: ['securite'], assos_retention: ['immigration'], fecondite_immigrees: ['immigration'], logement_immigres: ['immigration', 'social'], depenses_sociales_record: ['social', 'economie'], fonctionnaires_malades: ['services', 'social'], rn_capitalisation: ['politique', 'social'], smic_majorite: ['economie', 'social'], dimanche_emplois: ['economie', 'droits'],
   // fiches quotidiennes (19 novembre 2026, passage de 12 h 15)
@@ -495,6 +501,13 @@ export const CA_DOMAINES = {
 // signaux : formulations typiques (bonus) ; fiches : fiches qui répondent réellement, par ordre de pertinence ;
 // choisir : départage entre fiches selon des mots (facultatif) ; exclues : fiches voisines à ne PAS donner comme réponse.
 export const CA_ARGUMENTS = [
+  // retour d’un testeur (25 novembre 2026) — placées en tête
+  { id: 'zones_non_droit_t2511', label: 'Zones de non-droit', famille: 'Sécurité', tous: ['zones_non_droit'], fiches: ['zones-de-non-droit'],
+    implicite: 'Il existerait des quartiers où la loi ne s\'applique plus et où la police ne peut plus entrer.', verifier: 'Les données du ministère de l\'Intérieur et les rapports parlementaires sur la sécurité dans les quartiers.' },
+  { id: 'rn_petites_gens_t2511', label: 'Le RN, défenseur des petites gens', famille: 'Politique', tous: ['rn_petites_gens'], fiches: ['rn-salaires-votes'],
+    implicite: 'Le Rassemblement national serait le parti qui défend les travailleurs et les gens modestes.', verifier: 'Les votes des députés RN sur les salaires, le Smic et les mesures sociales.' },
+  { id: 'gauche_ruine_t2511', label: 'La gauche aurait ruiné le pays', famille: 'Politique', tous: ['gauche_ruine'], fiches: ['gauche-au-pouvoir-bilan'],
+    implicite: 'La gauche aurait ruiné la France chaque fois qu\'elle a gouverné.', verifier: 'Le bilan des gouvernements de gauche : lois sociales, finances publiques, emploi.' },
   // fiches hebdomadaires (25 novembre 2026) — placées en tête
   { id: 'lfi_nucleaire_q2511_melenchon_lfi_gauche', label: 'Programme de LFI sur le nucléaire', famille: 'Politique', tous: ['lfi_nucleaire', 'melenchon_lfi', 'gauche'], fiches: ['lfi-sortie-nucleaire-programme'],
     implicite: 'La France insoumise voudrait fermer brutalement les centrales nucléaires.', verifier: 'Le programme L\'Avenir en commun et les scénarios « Futurs énergétiques 2050 » de RTE.' },

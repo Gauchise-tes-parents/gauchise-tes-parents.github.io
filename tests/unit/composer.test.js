@@ -135,3 +135,18 @@ test('contrôle d’intégrité de la base téléchargée', () => {
   bad.fiches[0].faits[0].source = 99;
   assert.ok(validateBase(bad).some((m) => m.includes('fait sans source')));
 });
+
+// Retour d'un testeur (25 novembre 2026) : face à un convaincu, montrer qu'il est entendu et planter une graine
+// avant de donner les faits ; la réponse courte reste celle de la fiche.
+test('électeur convaincu : écoute (point légitime de la fiche) et question avant la réponse', () => {
+  for (const f of lib.filter((x) => x.type !== 'science')) {
+    const r = composer(f, {}, { bibliotheque: lib }).gagner.blocs[0];
+    assert.equal(r.type, 'replique');
+    assert.equal(r.texte, f.argumentaires.court);
+    assert.ok(r.ecoute && /^Je comprends pourquoi tu dis ça/.test(r.ecoute), `${f.id} : écoute`);
+    for (const n of extractNumbers(r.ecoute)) assert.ok(extractNumbers(JSON.stringify(f)).has(n), `${f.id} : chiffre « ${n} » absent de la fiche`);
+    if (r.graine) assert.ok(f.questions.includes(r.graine), `${f.id} : question de la fiche`);
+  }
+  const ind = composer(byId('immigres-aides'), {}, { bibliotheque: lib }).convaincre.blocs[0];
+  assert.equal(ind.ecoute, undefined, 'l’indécis garde son propre parcours');
+});

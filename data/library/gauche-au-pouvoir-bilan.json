@@ -154,6 +154,10 @@
   },
   "repond_a": [
     {
+      "id": "gauche_ruine_t2511",
+      "label": "La gauche aurait ruiné le pays"
+    },
+    {
       "id": "gauche_bilan",
       "label": "Bilan de la gauche au pouvoir"
     }
@@ -184,6 +188,7 @@
     "retraite",
     "trente_cinq",
     "peine_mort",
-    "retraite_60"
+    "retraite_60",
+    "gauche_ruine"
   ]
 }

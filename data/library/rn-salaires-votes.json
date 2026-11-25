@@ -167,6 +167,10 @@
   },
   "repond_a": [
     {
+      "id": "rn_petites_gens_t2511",
+      "label": "Le RN, défenseur des petites gens"
+    },
+    {
       "id": "rn_salaires",
       "label": "Le RN et les salaires"
     },
@@ -191,6 +195,7 @@
     "drapeau"
   ],
   "concepts": [
+    "rn_petites_gens",
     "salaires",
     "patriotisme",
     "salaire_minimum",

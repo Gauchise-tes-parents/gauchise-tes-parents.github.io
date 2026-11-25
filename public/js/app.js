@@ -1019,7 +1019,7 @@ const ORDINAUX = ['Un premier élément', 'Ensuite', 'Enfin', 'Et encore'];
 function blocHtml(b, mode) {
   switch (b.type) {
     case 'ton': return `<p class="ton-note"><strong>${h(b.titre)} :</strong> ${h(b.texte)}</p>`;
-    case 'replique': return `<h3 class="sub-title">${h(b.titre)}</h3><div class="speech"><p id="${mode === 'convaincre' ? 'replique-text-convaincre' : 'replique-text'}" class="replique-texte">${h(b.texte)}</p></div>
+    case 'replique': return `<h3 class="sub-title">${h(b.titre)}</h3>${b.ecoute ? `<div class="avant-repondre"><p class="hint"><strong>Avant de la lui dire, montre-lui qu’il est entendu :</strong> « ${h(b.ecoute)} »${b.graine ? ` Puis pose-lui une question et laisse-le répondre : « ${h(b.graine)} »` : ''}</p></div>` : ''}<div class="speech"><p id="${mode === 'convaincre' ? 'replique-text-convaincre' : 'replique-text'}" class="replique-texte">${h(b.texte)}</p></div>
       <div class="btn-row"><button type="button" class="btn btn-primary" data-action="copy-replique">Copier la réponse</button><button type="button" class="btn btn-secondary" data-action="share-compo">Partager</button></div>`;
     case 'preuves': return `<h3 class="sub-title">${h(b.titre)}</h3>${b.concordantes ? `<p class="hint">Sources de plusieurs organismes : ${h(b.concordantes.join(', '))}.</p>` : ''}<ul class="preuves">${b.items.map((pr, i) => preuveItem(pr, mode === 'convaincre' && b.items.length > 1 ? ORDINAUX[i] : '')).join('')}</ul>`;
     case 'questions': return `<h3 class="sub-title">${h(b.titre)}</h3><ul class="questions">${b.items.map((q) => `<li>${h(q)}</li>`).join('')}</ul>`;

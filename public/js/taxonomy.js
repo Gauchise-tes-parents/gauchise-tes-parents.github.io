@@ -8,7 +8,7 @@ export const MODES = {
   gagner: {
     label: 'ÉLECTEUR D’EXTRÊME DROITE CONVAINCU',
     carte: 'ÉLECTEUR D’EXTRÊME DROITE CONVAINCU',
-    sousTitre: 'Il ne changera pas d’avis d’un coup. Démonte l’argument, sème le doute sans l’humilier — et pense à ceux qui écoutent.',
+    sousTitre: 'Il ne changera pas d’avis d’un coup. Montre-lui qu’il est entendu, sème le doute sans l’humilier, par une question plutôt qu’une pile de faits — et pense à ceux qui écoutent.',
     description: 'Des faits solides, une réplique courte, les objections qu’il va te sortir et la question qui le fait réfléchir.',
     bouton: 'Préparer ma réponse',
     court: 'Électeur convaincu',
