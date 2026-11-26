@@ -43,7 +43,7 @@
 }
 
 *, *::before, *::after { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; scroll-padding-top: 84px; }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(84px + env(safe-area-inset-top, 0px)); }
 body {
   margin: 0;
   background: var(--cream);
@@ -52,6 +52,9 @@ body {
   font-size: var(--step-0);
   line-height: 1.6;
   overflow-x: hidden;
+  /* l'en-tête collant est placé sous la barre d'état (encoche, Android bord à bord) : la page commence
+     sous cette zone, sinon l'en-tête recouvre le haut du contenu (titre « mangé » sur Android) */
+  padding-top: env(safe-area-inset-top, 0px);
   padding-bottom: calc(var(--tabbar-h) + var(--safe-b));
   -webkit-tap-highlight-color: transparent;
 }
@@ -171,7 +174,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 
 /* ---------- accueil ---------- */
 .home-hero { padding: 22px 0 8px; }
-.hero-title { font-size: var(--step-4); font-weight: 700; color: var(--night); line-height: 1.04; margin-bottom: .4em; letter-spacing: -0.02em; }
+.hero-title { font-size: clamp(1.7rem, 0.9rem + 5vw, 3.4rem); overflow-wrap: break-word; font-weight: 700; color: var(--night); line-height: 1.04; margin-bottom: .4em; letter-spacing: -0.02em; }
 .hero-title span { display: inline-block; text-shadow: 3px 3px 0 var(--orange); }
 .hero-title span:nth-child(1) { transform: rotate(-1.5deg); }
 .hero-title span:nth-child(2) { transform: rotate(1deg); background: var(--lemon); padding: 0 .18em; border: var(--line); border-radius: 12px; box-shadow: var(--stamp-sm); text-shadow: none; margin: .1em 0; }

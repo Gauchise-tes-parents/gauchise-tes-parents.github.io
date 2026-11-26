@@ -2194,3 +2194,11 @@ Variantes familières vérifiées (toutes mènent à la bonne fiche) : « Mélen
 Trois concepts sont ajoutés dans `public/js/cartographie.js` : `rn_petites_gens`, `gauche_ruine` et `zones_non_droit`. Sur les 1 003 phrases de contrôle et les questions de la semaine, seules ces trois phrases changent de fiche. Une première version de `gauche_ruine`, trop large, détournait deux phrases (32 heures, politique familiale de Hollande) ; elle a été resserrée.
 
 Pour corriger les autres cas, il faudrait connaître les phrases exactes qui ont posé problème au testeur.
+
+## 26 novembre 2026 — titre d'accueil « mangé » sur Android (Galaxy Z Flip, Fold) (demande du propriétaire)
+
+- **Cause.** L'en-tête collant se cale sous la barre d'état (`top: env(safe-area-inset-top)`), mais la page ne réservait pas cette hauteur. Dans l'appli Android, qui s'affiche désormais « bord à bord » avec l'API 36, l'en-tête descendait donc de la hauteur de la barre d'état et recouvrait le haut du contenu : la première ligne du titre et la jauge de soutien. Sur le web sans encoche, la hauteur vaut 0 et rien ne se voyait.
+- **Correction** (`public/css/styles.css`). Le corps de page réserve la zone de la barre d'état (`padding-top: env(safe-area-inset-top)`). Le décalage de défilement vers les ancres en tient compte aussi.
+- **Écrans étroits.** Le titre d'accueil se réduit un peu plus sur les écrans très étroits (`clamp(1.7rem, 0.9rem + 5vw, 3.4rem)`) et peut couper un mot trop long.
+- **Vérifié avec Playwright** sur sept largeurs, de 280 px (écran externe des premiers Fold) à 673 px (Fold ouvert) : aucun débordement. Avec une barre d'état simulée de 40 px, l'en-tête ne recouvre plus le contenu.
+- **Tests** : unitaires 509 sur 509 ; bout en bout 45 sur 46 (l'échec « liens Tipeee » existait déjà avant).
